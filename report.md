@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 20
-- **Last harvest:** 2025-04-29 07:08
-- **Most recent article:** 2025-04-28 07:02:23
+- **Last harvest:** 2025-04-29 19:06
+- **Most recent article:** 2025-04-28 19:02:22
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 101 | 77 | 145 | 82 | 107 | 4 | 622 |
-| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 0 | 240 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 2 | 146 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 4 | 126 |
-| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 3 | 122 |
+| measles | 104 | 101 | 77 | 145 | 82 | 107 | 10 | 626 |
+| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 0 | 238 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 5 | 149 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 10 | 132 |
+| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 8 | 125 |
 | mpox | 8 | 12 | 17 | 18 | 10 | 5 | 2 | 72 |
 | meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 0 | 52 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
-| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 0 | 27 |
+| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 0 | 26 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 0 | 25 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 0 | 11 |
@@ -44,6 +44,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (measles)
 
+- [How a small vaccine drop could see measles becoming endemic again – new study](https://theconversation.com/how-a-small-vaccine-drop-could-see-measles-becoming-endemic-again-new-study-255327) (The Conversation Africa)
+
+- [Eight additional measles cases detected in Israel, Health Ministry says](https://www.jpost.com/breaking-news/article-851840) (The Jerusalem Post)
+
+- [Continued Crackdown on Illegal Immigration, Canada Votes, Measles Outbreak](https://www.npr.org/2025/04/28/1247707511/up-first-trump-deportations-canada-elections-measles-outbreak-04-28-2025) (NPR)
+
+- [‘I’m a pediatrician: I get these top 11 questions about measles’](https://www.foxnews.com/health/im-pediatrician-get-top-11-questions-about-measles) (Fox News)
+
+- [Morning news brief](https://www.npr.org/2025/04/28/nx-s1-5374888/morning-news-brief) (NPR)
+
+- [How West Texas is fairing, three months into the measles outbreak](https://www.npr.org/2025/04/28/nx-s1-5377611/how-west-texas-is-fairing-three-months-into-the-measles-outbreak) (NPR)
+
 - [Hello measles, my old friend: The return of previously vanquished vaccine-preventable diseases](https://sciencebasedmedicine.org/hello-measles-my-old-friend-the-return-of-previously-vanquished-vaccine-preventable-diseases/) (Sciencebasedmedicine.org)
 
 - [Mesa County Public Health hosts MMR vaccine clinic](https://www.kkco11news.com/2025/04/27/mesa-county-public-health-hosts-mmr-vaccine-clinic/) (Kkco11news.com)
@@ -54,6 +66,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (malaria)
 
+- [Ghana reduces malaria deaths by 97% in a decade – Health Ministry announces](https://3news.com/health/ghana-reduces-malaria-deaths-by-97-in-a-decade-health-ministry-announces/) (3news.com)
+
+- [Deposition of complement regulators on the surface of Plasmodium falciparum merozoites depends on the immune status of the host](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013107) (Plos.org)
+
+- [Regulation of diel locomotor activity and retinal responses of Anopheles stephensi by ingested histamine and serotonin is temperature- and infection-dependent](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013139) (Plos.org)
+
+- [EBC Financial Group Deepens Commitment to United to Beat Malaria with Renewed Global Partnership and First-Ever 5K Run Sponsorship](https://financialpost.com/globe-newswire/ebc-financial-group-deepens-commitment-to-united-to-beat-malaria-with-renewed-global-partnership-and-first-ever-5k-run-sponsorship) (Financial Post)
+
+- [EBC Financial Group Deepens Commitment to United to Beat Malaria with Renewed Global Partnership and First-Ever 5K Run Sponsorship](https://www.globenewswire.com/news-release/2025/04/28/3069074/0/en/EBC-Financial-Group-Deepens-Commitment-to-United-to-Beat-Malaria-with-Renewed-Global-Partnership-and-First-Ever-5K-Run-Sponsorship.html) (GlobeNewswire)
+
 - [U.S. aid cuts create 'perfect storm' for malaria in Africa](https://www.japantimes.co.jp/news/2025/04/28/world/politics/us-aid-cuts-malaria-africa/) (The Japan Times)
 
 - [FG free malaria treatment for pregnant women suffers setback](https://punchng.com/fg-free-malaria-treatment-for-pregnant-women-suffers-setback/) (The Punch)
@@ -61,6 +83,18 @@ Source: [News API](https://newsapi.org/)
 - [Zero malaria deaths in Nagaland in past 6 years](https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years) (Thehillstimes.in)
 
 ## 25-18 (dengue)
+
+- [Proceedings of the second annual dengue endgame summit: A call to action](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013028) (Plos.org)
+
+- [Dengue among suspected patients with dengue admitted at a tertiary level hospital in Mymensingh region of Bangladesh: A hospital-based epidemiological study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013047) (Plos.org)
+
+- [Unraveling varying spatiotemporal patterns of Dengue Fever and associated exposure-response relationships with environmental variables in three Southeast Asian countries before and during COVID-19](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012096) (Plos.org)
+
+- [Darío Benedetto, internado: qué dice el parte médico oficial](https://www.lanacion.com.ar/deportes/dario-benedetto-internado-que-dice-el-parte-medico-oficial-nid28042025/) (La Nacion)
+
+- [Darío Benedetto no encuentra paz en Paraguay: fue internado por dengue](https://442.perfil.com/noticias/futbol/dario-benedetto-no-encuentra-paz-en-paraguay-fue-internado-por-dengue.phtml) (Perfil.com)
+
+- [Dengue fever outbreak reported in Cook Islands; Samoa, Tonga, and Fiji already in viral infection's grip](https://economictimes.indiatimes.com/news/international/new-zealand/dengue-fever-outbreak-reported-in-cook-islands-samoa-tonga-and-fiji-already-in-viral-infections-grip/articleshow/120689615.cms) (The Times of India)
 
 - [Japan's Takeda to launch dengue vaccine in India with Biological E next year](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/japans-takeda-to-launch-dengue-vaccine-in-india-with-biological-e/articleshow/120688376.cms) (The Times of India)
 
@@ -71,6 +105,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [La Réunion. Chikungunya : la campagne de vaccination bouleversée après un décès lié à des effets indésirables](https://www.ledauphine.com/sante/2025/04/28/chikungunya-la-campagne-de-vaccination-bouleversee-apres-un-deces-lie-a-des-effets-indesirables) (Le Dauphiné Libéré)
+
+- [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
+
+- [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
 
 - [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
 
@@ -2942,10 +2982,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
-- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
-
-- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
-
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -2980,10 +3016,6 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
-- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
-
-- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
-
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3011,8 +3043,6 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3125,10 +3155,6 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
-
-- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 

@@ -1,8 +1,368 @@
 {
-  "last_updated": "2025-04-29 07:08",
-  "count_articles_total": 1459,
+  "last_updated": "2025-04-29 19:06",
+  "count_articles_total": 1473,
   "count_articles_new": 20,
   "articles": [
+    {
+      "id": 20834,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Publishing Desk",
+      "title": "Ghana reduces malaria deaths by 97% in a decade \u2013 Health Ministry announces",
+      "description": "Ghana has cut malaria deaths by over 97% from 2014 to 2024, as the Health Ministry outlines bold plans for further eradication through vaccines, spraying, and community action.",
+      "url": "https://3news.com/health/ghana-reduces-malaria-deaths-by-97-in-a-decade-health-ministry-announces/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2025/04/World_Malaria_Day_11e23c1eb5.webp",
+      "publishedAt": "2025-04-28 19:02:22",
+      "content": "Ghana has achieved a remarkable milestone in its public health journey, reducing deaths caused by malaria by over 97% between 2014 and 2024. This achievement, celebrated during the 2025 World Malar\u2026 [+2874 chars]",
+      "retrievedAt": "2025-04-29 19:05:59.664301",
+      "internal_id": "8703ce39928d128511ec2d44b8fa014acbdbb305f701fc785d9532432c5493e4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20837,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Cyrielle Thevenin",
+      "title": "La R\u00e9union. Chikungunya : la campagne de vaccination boulevers\u00e9e apr\u00e8s un d\u00e9c\u00e8s li\u00e9 \u00e0 des effets ind\u00e9sirables",
+      "description": "Les autorit\u00e9s sanitaires ont d\u00e9cid\u00e9 de retirer samedi les personnes \u00e2g\u00e9es de 65 ans et plus de la campagne de vaccination en cours contre le chikungunya \u00e0 La R\u00e9union et \u00e0 Mayotte apr\u00e8s le signalement d\u2019effets ind\u00e9sirables graves. Mais celle-ci est maintenue p\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/04/28/chikungunya-la-campagne-de-vaccination-bouleversee-apres-un-deces-lie-a-des-effets-indesirables",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/76976638-1FD4-4D5E-818A-26A91DE42CF6/FB1200/photo-1745861925.jpg",
+      "publishedAt": "2025-04-28 18:00:00",
+      "content": "\u00ab Si vous avez une insuffisance r\u00e9nale, une insuffisance cardiaque, respiratoire, un diab\u00e8te, une ob\u00e9sit\u00e9, vous avez entre 18 et 65 ans, il est recommand\u00e9 \u00e0 lheure o\u00f9 je vous parle de se faire vaccin\u2026 [+5559 chars]",
+      "retrievedAt": "2025-04-29 19:06:00.744477",
+      "internal_id": "e813136a44868cbc4a57cb7f7ef3ff9683b4d3665141a28531b3e9d490848d1f",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20818,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Anastasia A. Theodosiou, Infectious Diseases and Microbiology Academic Clinical Lecturer, University of Glasgow, Antonia Ho, Clinical Senior Lecturer, University of Glasgow, Chrissie Jones, Associate Professor of Paediatric Infectious Diseases, University of Southampton",
+      "title": "How a small vaccine drop could see measles becoming endemic again \u2013 new study",
+      "description": "From near extinction to resurgence: how vaccine hesitancy revives deadly diseases.",
+      "url": "https://theconversation.com/how-a-small-vaccine-drop-could-see-measles-becoming-endemic-again-new-study-255327",
+      "urlToImage": "https://images.theconversation.com/files/664341/original/file-20250428-62-jk5h61.jpg?ixlib=rb-4.1.0&rect=0%2C513%2C6240%2C3120&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-04-28 16:32:44",
+      "content": "Family Stock/Shutterstock.com It takes just a spark to start a wildfire, and when it comes to measles, the embers are already glowing. A new modelling study published in Jama sounded the alarm: rec\u2026 [+5628 chars]",
+      "retrievedAt": "2025-04-29 19:05:56.879155",
+      "internal_id": "703b50ec9615b6a18d674ec26557a2beb2430b5a8ec4067738935243ce820c4e",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20825,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "C\u00e9line S.C. Hardy, Lauren E. Bahr, Alan L. Rothman, Kathryn B. Anderson, Giovanna Barba-Spaeth, Daniela Weiskopf, Eng Eong Ooi, Ernesto T.A. Marques, Mattia Bonsignori, Alan D.T. Barrett, Beth D. Kirkpatrick, Priscila M.S. Castanha, Marco Hamins-Puertolas, Rebecca C. Christofferson, George Dimopoulos, Fabiano Oliveira, Lillian W. Chiang, Albert I. Ko, Bhagwat Gunale, Prasad Kulkarni, T. Alex Perkins, Ilaria Dorigatti, Telisa Stewart, Jana Shaw, Michael A. Johansson, Stephen J. Thomas, Adam T. Waickman",
+      "title": "Proceedings of the second annual dengue endgame summit: A call to action",
+      "description": "On August 7\u20139, 2024, the second annual dengue \u201cendgame\u201d summit was held in Syracuse, NY, hosted by the Global Health Institute at SUNY Upstate Medical University. The meeting brought together attendees from around the world, with talks spanning healthcare, go\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013028",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013028.t001&size=inline",
+      "publishedAt": "2025-04-28 14:00:00",
+      "content": "Abstract On August 79, 2024, the second annual dengue endgame summit was held in Syracuse, NY, hosted by the Global Health Institute at SUNY Upstate Medical University. The meeting brought together \u2026 [+99174 chars]",
+      "retrievedAt": "2025-04-29 19:05:58.185294",
+      "internal_id": "b5d17798ce6bb49fd7e1f5987e7e91f2fb070c285f01dc12fca22a296fe4f1b7",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20826,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Md. Saiful Islam Khan, Md. Abu Sayem, Md. Mothashin, Md. Nurul Islam, Md. Golam Hossain",
+      "title": "Dengue among suspected patients with dengue admitted at a tertiary level hospital in Mymensingh region of Bangladesh: A hospital-based epidemiological study",
+      "description": "Dengue is a growing concern and alarming public health problem in Bangladesh. Previously the dengue was endemic in Dhaka, Chattogram and Khulna divisions. But gradually it has spread throughout the country with higher incidence of deaths. Though, the governme\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013047",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013047.g001&size=inline",
+      "publishedAt": "2025-04-28 14:00:00",
+      "content": "Abstract Background Dengue, a mosquito-borne disease predominantly found in tropical and subtropical countries like Bangladesh. The Aedes species particularly Aedes aegypti carry and transmit the d\u2026 [+30420 chars]",
+      "retrievedAt": "2025-04-29 19:05:58.193247",
+      "internal_id": "e81d40fce45fc2b42959b8fcb9baf891395793c5060337e7269a7b7d2110079c",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20827,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wei Luo, Zhihao Liu, Yiding Ran, Mengqi Li, Yuxuan Zhou, Weitao Hou, Shengjie Lai, Sabrina L. Li, Ling Yin",
+      "title": "Unraveling varying spatiotemporal patterns of Dengue Fever and associated exposure-response relationships with environmental variables in three Southeast Asian countries before and during COVID-19",
+      "description": "Author summary Dengue Fever (DF) is a typical tropical disease transmitted via mosquito bites. COVID-19 lockdowns have altered human-mosquito contact patterns that impacted DF transmission. Additionally, lockdowns caused short-term environmental changes that \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012096",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012096.g008&size=inline",
+      "publishedAt": "2025-04-28 14:00:00",
+      "content": "3.1. Overall trends The DF infection trend exhibited varying degrees of change across the three countries during the COVID-19, compared with the 20172019 period. As illustrated in Fig 2a, during the\u2026 [+12525 chars]",
+      "retrievedAt": "2025-04-29 19:05:58.214166",
+      "internal_id": "eb8318611dc1ab3d641cac03e5ba9b97eb5fdeb047ca3d52123bb4ef9c9af4cd",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20832,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Maria Rosaria Bassi, Bogdan Cristinoi, Frank Buitenwerf, Mark Bergholt Cuadrado, Kasper Haldrup Bj\u00f6rnsson, Melanie Rose Walker, Frederica Dedo Partey, Andrew B. Ward, Michael Fokuo Ofori, Lea Barfod",
+      "title": "Deposition of complement regulators on the surface of Plasmodium falciparum merozoites depends on the immune status of the host",
+      "description": "Author summary The immune mechanisms mediating clinical immunity to malaria are still not fully understood, but antibodies are considered the main defense towards the symptomatic blood stage of the disease. Recent studies have highlighted the importance of co\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013107",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013107.g005&size=inline",
+      "publishedAt": "2025-04-28 14:00:00",
+      "content": "Abstract Plasmodium falciparum is responsible for the majority of malaria cases and deaths worldwide. In malaria endemic areas, natural immunity to blood stage infection is acquired over several exp\u2026 [+77561 chars]",
+      "retrievedAt": "2025-04-29 19:05:59.624889",
+      "internal_id": "c39d9c0893105bae1f4c5af1bc98beaab0b45ef6bc2fecdd0b1d1c769ba971b7",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20833,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kevin O. Ochwedo, Xiaodi Wang, Nora C\u00e9spedes, Ronald E. Bentil, Ryan Wild, Emily Hernandez, Amy Hernandez, Hannah L. Kaylor, Yared Debebe, Jyotishka Datta, Michael A. Robert, Jeffrey A. Riffell, Edwin E. Lewis, Shirley Luckhart",
+      "title": "Regulation of diel locomotor activity and retinal responses of Anopheles stephensi by ingested histamine and serotonin is temperature- and infection-dependent",
+      "description": "Author summary This study explores histaminergic and serotonergic signaling-dependent diel locomotor activity and visual sensitivity in the highly invasive malaria vector Anopheles stephensi. Histamine and 5-HT blood levels are substantially altered in malari\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013139",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013139.g008&size=inline",
+      "publishedAt": "2025-04-28 14:00:00",
+      "content": "Abstract Disrupting behaviors linked to movement of primary mosquito vectors, such as diel locomotor activity and visual sensitivity, is a novel and plausible malaria control intervention. Diel loco\u2026 [+104031 chars]",
+      "retrievedAt": "2025-04-29 19:05:59.636790",
+      "internal_id": "5e898ce1f958a26a5913f96a9cbe0a74bb62a4e16e89f25a4abcc4fcbabff6fd",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20828,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Dar\u00edo Benedetto, internado: qu\u00e9 dice el parte m\u00e9dico oficial",
+      "description": "El atacante de 34 a\u00f1os qued\u00f3 hospitalizado por un cuadro viral de dengue; el comunicado de Olimpia de Paraguay",
+      "url": "https://www.lanacion.com.ar/deportes/dario-benedetto-internado-que-dice-el-parte-medico-oficial-nid28042025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/dario-benedetto-quedo-6CXPXGGJNZAAPFLLG4IKS22SB4.jpg?auth=d6567d2ebb692a9c19b02590ecf78e19b76afc288854475fd34d5e25a006191f&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-04-28 13:59:01",
+      "content": "Dar\u00edo Benedetto se encuentra internado con un cuadro viral de dengue, seg\u00fan detall\u00f3 el parte oficial del club Olimpia de Paraguay. El exjugador de Boca, Arsenal de Sarand\u00ed, entre otros, se vio afecta\u2026 [+1204 chars]",
+      "retrievedAt": "2025-04-29 19:05:58.222024",
+      "internal_id": "a3414aac02f4dcc59576641582433b4b722f8c19156eb1dec2cc5bbe48488ef0",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20821,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY WALLA!",
+      "title": "Eight additional measles cases detected in Israel, Health Ministry says",
+      "description": "Eight additional measles cases were detected in the Central region, Emek Hefer, and Modi'in Illit, the Health",
+      "url": "https://www.jpost.com/breaking-news/article-851840",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2025-04-28 12:47:06",
+      "content": "Eight additional measles cases were detected in the Central region, Emek Hefer, and Modi'in Illit, the Health Ministry announced Monday. According to the epidemiological investigation, four of the pa\u2026 [+599 chars]",
+      "retrievedAt": "2025-04-29 19:05:56.930162",
+      "internal_id": "c6e761dfd0aa6812adbc359d90765834f7278e9f6369259335a9b92f265a2c06",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20829,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Nicol\u00e1s Ziccardi",
+      "title": "Dar\u00edo Benedetto no encuentra paz en Paraguay: fue internado por dengue",
+      "description": "Dar\u00edo Benedetto no da pie con bola desde su llegada a Olimpia y a las cr\u00edticas por su desempe\u00f1o se sum\u00f3 la inesperada baja por un cuadro de dengue. Leer m\u00e1s",
+      "url": "https://442.perfil.com/noticias/futbol/dario-benedetto-no-encuentra-paz-en-paraguay-fue-internado-por-dengue.phtml",
+      "urlToImage": "https://fotos.perfil.com/2025/04/28/trim/1140/641/dario-benedetto-2012319.jpg",
+      "publishedAt": "2025-04-28 12:42:01",
+      "content": "En los primeros d\u00edas del a\u00f1o Dar\u00edo Benedetto fue presentado como refuerzo estrella del Club Olimpia de Paraguay, sin embargo y desde entonces el delantero ex Boca no pudo encontrar su mejor rendimien\u2026 [+1062 chars]",
+      "retrievedAt": "2025-04-29 19:05:58.237132",
+      "internal_id": "72f0fb0195431ba41a2e1e934a9301ed40e16886e24bed9d23a1fa49431d31fe",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20835,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Legorafi.fr",
+      "author": "La R\u00e9daction",
+      "title": "80% des habitants de la R\u00e9union pr\u00e9f\u00e8rent le chikungunya \u00e0 Emmanuel Macron",
+      "description": "Un sondage effectu\u00e9 sur l\u2019\u00eele juste apr\u00e8s le d\u00e9part d\u2019Emmanuel Macron montre que les R\u00e9unionnais pr\u00e9f\u00e8rent largement la maladie transmise par le moustique au chef de l\u2019\u00c9tat fran\u00e7ais. L\u2019article 80% des habitants de la R\u00e9union pr\u00e9f\u00e8rent le chikungunya \u00e0 Emmanue\u2026",
+      "url": "https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/",
+      "urlToImage": "https://www.legorafi.fr/wp-content/uploads/2025/04/GettyImages-1587765376-1000x600.jpg",
+      "publishedAt": "2025-04-28 12:34:46",
+      "content": "Le chikungunya a d\u00e9j\u00e0 tu\u00e9 neuf personnes \u00e0 La R\u00e9union, dont un b\u00e9b\u00e9. Pourtant, 80% de ses habitants pr\u00e9f\u00e8rent cette maladie mortelle \u00e0 Emmanuel Macron : cest le r\u00e9sultat choc dun sondage effectu\u00e9 dan\u2026 [+1291 chars]",
+      "retrievedAt": "2025-04-29 19:06:00.682142",
+      "internal_id": "1d53ffdce108061325c348b3098114b0ff56383dbc222f84c10345a04f0aeda9",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20830,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "EBC Financial Group Deepens Commitment to United to Beat Malaria with Renewed Global Partnership and First-Ever 5K Run Sponsorship",
+      "description": "From strategic partnership to global employee action, EBC joins the global movement to end malaria for good WASHINGTON, April 28, 2025 (GLOBE NEWSWIRE) \u2014 As the world marks World Malaria Day 2025 under the theme \u201cMalaria Ends With Us: Reinvest, Reimagine, Rei\u2026",
+      "url": "https://financialpost.com/globe-newswire/ebc-financial-group-deepens-commitment-to-united-to-beat-malaria-with-renewed-global-partnership-and-first-ever-5k-run-sponsorship",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/04/leadership-trio-unites-for-global-health-at-the-2025-united-.jpeg",
+      "publishedAt": "2025-04-28 11:10:34",
+      "content": "McDonnell echoed the importance of having private sector allies like EBC on board, praising the companys commitment to both the summit and the broader mission. We appreciate that a company like EBCth\u2026 [+3199 chars]",
+      "retrievedAt": "2025-04-29 19:05:59.582331",
+      "internal_id": "65c3f8f0133d342e19b4485c165680edd9e229bcf667ab590d9533275837bf3e",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20831,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "EBC Tech Limited",
+      "title": "EBC Financial Group Deepens Commitment to United to Beat Malaria with Renewed Global Partnership and First-Ever 5K Run Sponsorship",
+      "description": "From strategic partnership to global employee action, EBC joins the global movement to end malaria for good.......",
+      "url": "https://www.globenewswire.com/news-release/2025/04/28/3069074/0/en/EBC-Financial-Group-Deepens-Commitment-to-United-to-Beat-Malaria-with-Renewed-Global-Partnership-and-First-Ever-5K-Run-Sponsorship.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/5524516f-39bf-47df-9440-42674a2eaf1e",
+      "publishedAt": "2025-04-28 11:06:00",
+      "content": "WASHINGTON, April 28, 2025 (GLOBE NEWSWIRE) -- As the world marks World Malaria Day 2025 under the theme Malaria Ends With Us: Reinvest, Reimagine, Reignite, EBC Financial Group (EBC) is renewing its\u2026 [+11549 chars]",
+      "retrievedAt": "2025-04-29 19:05:59.604084",
+      "internal_id": "e42a71b5e80ab71628101bd99358e37860448eb073deabfeef4831c256d8bd5f",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20822,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "NPR",
+      "title": "Continued Crackdown on Illegal Immigration, Canada Votes, Measles Outbreak",
+      "description": "The Trump administration continues to crack down on US immigrants without legal status, even the Canadian election has been dominated by President Trump, and a measles outbreak is especially bad in Texas, where two of every three people with the virus live. <\u2026",
+      "url": "https://www.npr.org/2025/04/28/1247707511/up-first-trump-deportations-canada-elections-measles-outbreak-04-28-2025",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-28 10:12:37",
+      "content": "The Trump administration continues to crack down on US immigrants without legal status, even the Canadian election has been dominated by President Trump, and a measles outbreak is especially bad in T\u2026 [+466 chars]",
+      "retrievedAt": "2025-04-29 19:05:56.965371",
+      "internal_id": "e95f0d0cf6dff4a969c75b0b28dee59e7c847d8b3a140406ccce12c0834db708",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20824,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Dengue fever outbreak reported in Cook Islands; Samoa, Tonga, and Fiji already in viral infection's grip",
+      "description": "Several Pacific island nations, including Cook Islands, Samoa, Tonga, and Fiji, are facing a rise in dengue fever cases. A Samoan boy recently died in Auckland due to the viral infection. Cook Islands reported three new cases, prompting health advisories and \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/new-zealand/dengue-fever-outbreak-reported-in-cook-islands-samoa-tonga-and-fiji-already-in-viral-infections-grip/articleshow/120689615.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120692273,width-1200,height-630,imgsize-2702,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-28 09:35:43",
+      "content": "Several Pacific island nations are reporting cases of dengue fever in the last few months with the Cook Islands being the latest to report the viral infection. Samoa, Tonga and Fiji have already seen\u2026 [+1919 chars]",
+      "retrievedAt": "2025-04-29 19:05:58.170145",
+      "internal_id": "d6aded0d7a0fe8723e1f2096497abf9bf94d3787054e258669d008551683050c",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20823,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "\u2018I\u2019m a pediatrician: I get these top 11 questions about measles\u2019",
+      "description": "Amid the ongoing measles outbreak, Allison Croucher, a pediatrician in Illinois, said she often gets these questions from parents who are concerned about the spread.",
+      "url": "https://www.foxnews.com/health/im-pediatrician-get-top-11-questions-about-measles",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/parent-child-pediatrician.jpg",
+      "publishedAt": "2025-04-28 09:00:29",
+      "content": "As measles cases continue to spread throughout the U.S. with 12 states reporting official outbreaks, according to the latest CDC data concern is growing among high-risk groups. Children under the ag\u2026 [+5813 chars]",
+      "retrievedAt": "2025-04-29 19:05:57.000116",
+      "internal_id": "8d259fb6cf183d6066338b5a4f038b6ac50d28247c8933c56361909b9546028d",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20836,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "LP",
+      "title": "Un appel aux donneurs de sang du groupe AB gu\u00e9ris du chikungunya pour aider les nouveau-n\u00e9s \u00e0 La R\u00e9union",
+      "description": "En plein \u00e9pid\u00e9mie de chikungunya, l\u2019\u00c9tablissement fran\u00e7ais du sang (EFS) lance un appel aux donneurs de sang du groupe AB gu\u00e9ris du chikungunya pour permettre de lutter contre l\u2019infection chez les nouveau-n\u00e9s.",
+      "url": "https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/tT_W2s2Ie8SnUva9638CMXx4qEo/930x620/outremer/2024/01/18/img-3886-65a9076b91ecb158973895.jpg",
+      "publishedAt": "2025-04-28 08:20:04",
+      "content": "Cest un appel lanc\u00e9 par l\u00c9tablissement fran\u00e7ais du sang (EFS) de La R\u00e9union en pleine \u00e9pid\u00e9mie de chikungunya dans l\u00eele. LEFS recherche des donneurs de sang du groupe AB gu\u00e9ris du chikungunya pour p\u2026 [+2007 chars]",
+      "retrievedAt": "2025-04-29 19:06:00.697724",
+      "internal_id": "0911ac3b52ff0b15a06a0aa18a0faa94c3cf1e35c26d7e07d4d46891a6dbe8d9",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20819,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Steve Inskeep",
+      "title": "Morning news brief",
+      "description": "Federal authorities arrested more than 100 immigrants without legal status in Colorado Springs, Canadians go to the polls today, how West Texas is fairing three months into the measles outbreak.",
+      "url": "https://www.npr.org/2025/04/28/nx-s1-5374888/morning-news-brief",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-28 08:15:04",
+      "content": "Federal authorities arrested more than 100 immigrants without legal status in Colorado Springs, Canadians go to the polls today, how West Texas is fairing three months into the measles outbreak.",
+      "retrievedAt": "2025-04-29 19:05:56.907306",
+      "internal_id": "51e550ade302899b506c296a606fb4f64447e1fa9da233b8dec48354b0e2d88d",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 20820,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Steve Inskeep",
+      "title": "How West Texas is fairing, three months into the measles outbreak",
+      "description": "The measles outbreak is not easing up around the country. The CDC reports 884 confirmed cases nationwide, three times the number of cases in 2024. In West Texas, where the outbreak started, pediatricians are concerned about potentially more children being exp\u2026",
+      "url": "https://www.npr.org/2025/04/28/nx-s1-5377611/how-west-texas-is-fairing-three-months-into-the-measles-outbreak",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-28 08:12:00",
+      "content": "The measles outbreak is not easing up around the country. The CDC reports 884 confirmed cases nationwide, three times the number of cases in 2024. In West Texas, where the outbreak started, pediatric\u2026 [+77 chars]",
+      "retrievedAt": "2025-04-29 19:05:56.922282",
+      "internal_id": "8bf22b84bdeec674b2b6d275e7fb865a5eb2d2bd246292fde338207779c99b1a",
+      "publishedAtLabel": "Apr 28"
+    },
     {
       "id": 20814,
       "query": [
@@ -26202,115 +26562,6 @@
       "content": "HOUSTON - A measles case in a Houston infant has been confirmed as the third case of measles in the city, according to the Houston Health Department. Houston infant measles case What we know: Acco\u2026 [+2081 chars]",
       "retrievedAt": "2025-03-19 07:07:04.309538",
       "internal_id": "559b155b448b6ff76f3153f49fe7933624e81eda1244d127cdcc67e71d1bcf65",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19348,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Cat owners beware as pet food with bird flu risk is recalled",
-      "description": "Cat owners are warned of more pet food recalls, as Savage Pet of California says some of its products could contain H5N1 (bird flu). The FDA and New York Department of Health share key information.",
-      "url": "https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/boy-carrying-cat.jpg",
-      "publishedAt": "2025-03-16 16:37:05",
-      "content": "Cat owners have been alerted to a potential health threat. Savage Pet of El Cajon, California, is recalling 66 large chicken boxes (84 oz.) and 74 small chicken boxes (21 oz.) with the lot code/\"bes\u2026 [+4584 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.008662",
-      "internal_id": "6e8a4ec313bcecc65a72c24ef4a64ce9db196b9edfb3661d2014aabb43702320",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes.com.mx",
-      "author": "Forbes Staff",
-      "title": "Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis",
-      "description": "Forbes M\u00e9xico. Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis La inmunizaci\u00f3n de los ping\u00fcinos contra esta grave enfermedad f\u00fangica se hizo a trav\u00e9s del fortalecimiento de sus bacterias del intestino introduciendo u\u2026",
-      "url": "https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/",
-      "urlToImage": "https://cdn.forbes.com.mx/2019/04/s3.reutersmedia.jpg",
-      "publishedAt": "2025-03-16 14:28:00",
-      "content": "Un equipo de cient\u00edficos encontr\u00f3 en Francia una posible pista para combatir la malaria o la leishmaniosis en seres humanos gracias al estudio de la microbiota de los ping\u00fcinos, conocida en detalle t\u2026 [+3096 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.917162",
-      "internal_id": "ee952ae6e7b7573190fddc61f2dcf197c9756c5a8ae80cd4adc5daed76093007",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19419,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Samantha Sayles",
-      "title": "What to know about measles as first case of 2025 confirmed in Oakland County",
-      "description": "Michigan\u2019s first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced.",
-      "url": "https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6GUZ5DYYVBTHC3KFQCFAGQR4I.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-03-16 12:47:06",
-      "content": "OAKLAND COUNTY, Mich. Michigans first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced. The countys health officer, Kate Guzman, RN, s\u2026 [+3011 chars]",
-      "retrievedAt": "2025-03-19 07:07:04.351140",
-      "internal_id": "749ec33a8f4194f7e35c2490731f7eed883b799dfffca15023e62de595c88c41",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19347,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Alarma en la Ant\u00e1rtida: Confirman un brote masivo de gripe aviar en varias especies",
-      "description": "Una expedici\u00f3n cient\u00edfica espa\u00f1ola ha confirmado la presencia del virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) en la Ant\u00e1rtida. El brote ha sido detectado en 13 especies diferentes y en 24 puntos de la regi\u00f3n, lo que marca un precedente alarmante \u2026",
-      "url": "https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/03/gripe-aviar.jpg",
-      "publishedAt": "2025-03-16 11:29:44",
-      "content": "La expedici\u00f3n CSIC-Unespa llev\u00f3 a cabo un estudio entre enero y febrero, generando el informe m\u00e1s completo hasta la fecha sobre la gripe aviar en la Ant\u00e1rtida. Los investigadores identificaron 188 ca\u2026 [+2815 chars]",
-      "retrievedAt": "2025-03-17 19:05:54.523755",
-      "internal_id": "52a74a44fa3e844abf031688bd77dafc1a464949c89910eaef0d51915256aced",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19353,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Richmond.com",
-      "author": "",
-      "title": "Recap: What made news last week across Virginia",
-      "description": "IN THE NEWS",
-      "url": "https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/3b/e3ba212e-ff71-11ef-afa0-071d975426c2/67d33683df5c8.preview.jpg?crop=1758%2C923%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-03-16 11:00:00",
-      "content": "Possible measles exposure at Dulles Airport A person with a case of measles arrived at Washington Dulles International Airport in Northern Virginia last week, potentially exposing others, the state\u2026 [+11070 chars]",
-      "retrievedAt": "2025-03-18 07:07:09.586966",
-      "internal_id": "db05da6a81fe2de27aeb3360837d8725628dcbccb9bb8523aea66ac9d3449a88",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19350,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor",
-      "description": "Sie sind verlassen und oftmals mit einem gewissen Grusel verbunden: Geisterinseln. Einige von ihnen dienten als Gef\u00e4ngnis, andere zur Isolation von Pestkranken. Und eine von ihnen war einmal der dichtbesiedeltste Flecken der Erde. ntv.de stellt zehn Lost Plac\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25570971/1181322630-cImg_16_9-w1200/imago598760374.jpg",
-      "publishedAt": "2025-03-16 09:45:30",
-      "content": "W\u00e4hrend sich die W\u00e4rter auf Tennispl\u00e4tzen und in Pools vergn\u00fcgen konnten, litten die Gefangenen unter Mangelern\u00e4hrung, Malaria, Ruhr und Cholera. Zudem wurden medizinische Experimente an ihnen durchg\u2026 [+6 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.945568",
-      "internal_id": "4838ae9f3bbca6cc47ead8f946735f85c011b599be8cf5eab2c063ee6c57cb5a",
       "publishedAtLabel": "Mar 16"
     }
   ]
