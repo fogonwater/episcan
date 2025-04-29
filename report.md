@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-04-28 19:05
-- **Most recent article:** 2025-04-27 17:13:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-04-29 07:08
+- **Most recent article:** 2025-04-28 07:02:23
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 104 | 101 | 77 | 145 | 82 | 96 | 0 | 605 |
-| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 0 | 238 |
+| measles | 106 | 101 | 77 | 145 | 82 | 107 | 4 | 622 |
+| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 0 | 240 |
 | chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 2 | 146 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 1 | 123 |
-| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 2 | 119 |
-| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 1 | 71 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 4 | 126 |
+| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 3 | 122 |
+| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 2 | 72 |
 | meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 0 | 52 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
-| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 0 | 26 |
+| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 0 | 27 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 0 | 25 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 0 | 11 |
@@ -38,15 +38,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (mpox)
 
+- [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
+
 - [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
+## 25-18 (measles)
+
+- [Hello measles, my old friend: The return of previously vanquished vaccine-preventable diseases](https://sciencebasedmedicine.org/hello-measles-my-old-friend-the-return-of-previously-vanquished-vaccine-preventable-diseases/) (Sciencebasedmedicine.org)
+
+- [Mesa County Public Health hosts MMR vaccine clinic](https://www.kkco11news.com/2025/04/27/mesa-county-public-health-hosts-mmr-vaccine-clinic/) (Kkco11news.com)
+
+- [RFK Jr.'s Wish Is Coming True: Everybody's Getting Measles (Catherine Bouris/The Daily Beast)](https://www.memeorandum.com/250427/p50) (Memeorandum.com)
+
+- [U.S. reports over 800 measles cases so far this year](http://en.people.cn/n3/2025/0427/c90000-20308070.html) (People.cn)
+
 ## 25-18 (malaria)
+
+- [U.S. aid cuts create 'perfect storm' for malaria in Africa](https://www.japantimes.co.jp/news/2025/04/28/world/politics/us-aid-cuts-malaria-africa/) (The Japan Times)
 
 - [FG free malaria treatment for pregnant women suffers setback](https://punchng.com/fg-free-malaria-treatment-for-pregnant-women-suffers-setback/) (The Punch)
 
 - [Zero malaria deaths in Nagaland in past 6 years](https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years) (Thehillstimes.in)
 
 ## 25-18 (dengue)
+
+- [Japan's Takeda to launch dengue vaccine in India with Biological E next year](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/japans-takeda-to-launch-dengue-vaccine-in-india-with-biological-e/articleshow/120688376.cms) (The Times of India)
+
+- [Emotional scenes as funeral for boy, 12, who died of dengue fever held in Auckland](https://www.nzherald.co.nz/talanoa/emotional-scenes-as-funeral-for-boy-12-who-died-of-dengue-fever-held-in-auckland/TZ2FDTHMHZG5PELLQPA36FF2BA/) (New Zealand Herald)
+
+- [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
@@ -130,11 +150,21 @@ Source: [News API](https://newsapi.org/)
 
 - [884 Measles Cases Confirmed in Most States](https://www.upi.com/Health_News/2025/04/26/meales-outbreaks/7581745702876/) (UPI.com)
 
+- [US may have millions more measles cases over next 25 years if childhood vaccination rates continue to decline, study says](https://www.wrex.com/news/health/us-may-have-millions-more-measles-cases-over-next-25-years-if-childhood-vaccination-rates/article_327cb5e8-336b-54e5-ae74-03c23a466c89.html) (WREX-TV)
+
 - [Measles Cases In U.S. Hit Nearly 900, With More Than 600 Cases In Texas](https://www.huffpost.com/entry/measles-cases-us-texas-900_n_680d0467e4b04560cabe9300) (HuffPost)
 
 - [In 1973, the Butte Bulldog's biggest rival wasn't a team - it was measles](https://mtstandard.com/tncms/asset/editorial/b53e7a75-8047-4cee-a702-3ff6190b652f/) (Montana Standard)
 
 - [US records over 800 confirmed cases of measles in 2025](https://economictimes.indiatimes.com/news/international/world-news/us-records-over-800-confirmed-cases-of-measles-in-2025/articleshow/120641565.cms) (The Times of India)
+
+- [Colorado confirms its 5th measles case, this time a vaccinated adult in Denver County](https://www.cpr.org/2025/04/25/colorado-5th-measles-case-denver-county/) (Colorado Public Radio)
+
+- [Vaccinated adult in Colorado infected with measles](http://coloradosun.com/2025/04/25/colorado-measles-breakthrough-case-vaccination/) (The Colorado Sun)
+
+- [Colorado’s 5th measles case confirmed in Denver; people may have been exposed at Lakewood urgent care](https://www.denverpost.com/2025/04/25/colorado-measles-denver-lakewood-exposure/) (The Denver Post)
+
+- [Second local measles case reported in Austin](https://www.kut.org/health/2025-04-25/austin-tx-measles-case-reported-locations-travis-county) (KUT)
 
 - [U.S. reports over 800 measles cases so far this year](https://www.thestar.com.my/news/world/2025/04/26/us-reports-over-800-measles-cases-so-far-this-year) (The Star Online)
 
@@ -144,17 +174,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Manitoba health officials urge vaccinations as number of measles cases climbs](https://www.cbc.ca/news/canada/manitoba/measles-immunization-outbreak-manitoba-1.7518521) (CBC News)
 
+- [There are nearly 900 measles cases in the US. Here's what you need to know](https://abcnews.go.com/Health/900-measles-cases-us/story?id=121156969) (ABC News)
+
 - [Dallas Area Reports First Measles Case, in Middle School Child](https://www.insurancejournal.com/news/southcentral/2025/04/25/821380.htm) (Insurance Journal)
 
 - [Measles Cases In Texas Surpass 600 As Infections Spread To 29 States](https://coed.com/2025/04/25/measles-cases-in-texas-surpass-600-as-infections-spread-to-29-states/) (Coed.com)
+
+- [Health officials release 7 locations for ‘potential exposures' to measles case in Illinois](https://www.wandtv.com/news/health-officials-release-7-locations-for-potential-exposures-to-measles-case-in-illinois/article_66a627db-6494-42cf-97e8-1c9a3c35189b.html) (WAND)
 
 - [Mike's Blog Roundup](https://crooksandliars.com/2025/04/mikes-blog-roundup-hold-friday) (Crooksandliars.com)
 
 - [Alberta in the midst of worst measles outbreak since 1997 as doctors call for action](https://www.cbc.ca/news/canada/calgary/alberta-worst-measles-outbreak-doctors-call-for-action-1.7518042) (CBC News)
 
+- [Transplant recipients and other immunocompromised people worry about measles exposure | Globalnews.ca](http://globalnews.ca/news/11148781/measles-exposure-immunocompromised-transplant/) (Global News)
+
 - [Ontario measles outbreak crosses 1000; Quebec, New Brunswick declare infection over](https://economictimes.indiatimes.com/news/international/canada/ontario-measles-outbreak-crosses-1000-quebec-new-brunswick-declare-infection-over/articleshow/120614424.cms) (The Times of India)
 
 - [Our Current Medical Establishment Would Have Botched COVID, The Same Way They Are Botching Measles](https://sciencebasedmedicine.org/measlesfail/) (Sciencebasedmedicine.org)
+
+- [U.S. faces resurgence of measles cases as vaccination rates decline: study](http://en.people.cn/n3/2025/0425/c90000-20307356.html) (People.cn)
+
+- [Healthier Together: Local health officials plead with parents to get MMR vaccine](https://www.kiro7.com/news/local/local-health-officials-plead-with-parents-get-mmr-vaccine/SKNE5IZKPVFH7GHMTYEFYPCZWM/) (KIRO Seattle)
+
+- [US may have millions more measles cases over next 25 years if childhood vaccination rates continue to decline, study says](https://www.cnn.com/2025/04/24/health/measles-endemic-model/index.html) (CNN)
 
 - [AHS warns of potential exposures as more measles cases confirmed in Lethbridge](https://www.cbc.ca/news/canada/calgary/lethbridge-measles-potential-exposure-april-24-2025-1.7518314) (CBC News)
 
@@ -2900,6 +2942,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
+
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -2934,6 +2980,10 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -2961,6 +3011,8 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3073,6 +3125,10 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
