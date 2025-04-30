@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 13
-- **Last harvest:** 2025-04-30 07:07
-- **Most recent article:** 2025-04-29 06:59:23
+- **Last harvest:** 2025-04-30 19:06
+- **Most recent article:** 2025-04-29 17:33:51
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 101 | 77 | 145 | 82 | 107 | 14 | 632 |
-| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 2 | 242 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 5 | 149 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 11 | 133 |
-| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 11 | 130 |
-| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 2 | 72 |
-| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 2 | 54 |
+| measles | 104 | 101 | 77 | 145 | 82 | 107 | 17 | 633 |
+| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 4 | 242 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 6 | 150 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 13 | 135 |
+| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 12 | 129 |
+| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 3 | 73 |
+| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 4 | 56 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
-| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 0 | 27 |
+| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 1 | 27 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 0 | 11 |
@@ -42,17 +42,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (mpox)
 
+- [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
+
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
 
 - [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
+- [Press Release: When every second counts: Sanofi, McLaren Racing and United Autosports join forces to raise meningitis awareness at Le Mans 24 Hours race](https://www.globenewswire.com/news-release/2025/04/29/3070006/0/en/Press-Release-When-every-second-counts-Sanofi-McLaren-Racing-and-United-Autosports-join-forces-to-raise-meningitis-awareness-at-Le-Mans-24-Hours-race.html) (GlobeNewswire)
+
+- [Edward Kwach: Sudden Illness That Killed Beloved Radio Host Disclosed](https://www.tuko.co.ke/entertainment/celebrities/587372-edward-kwach-sudden-illness-killed-beloved-radio-host-disclosed/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 - [Edward Kwach: Maina Kageni Heartbroken by Fellow Radio Host's Death, Pens Emotional Tribute to Him](https://www.tuko.co.ke/entertainment/celebrities/587349-edward-kwach-maina-kageni-heartbroken-by-fellow-radio-hosts-death-pens-emotional-tribute-him/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [Measles Updates: U.S. Cases Near 900 As Illness Spreads To 17 More In Texas](https://www.forbes.com/sites/antoniopequenoiv/2025/04/29/measles-updates-us-cases-near-900-as-illness-spreads-to-17-more-in-texas/) (Forbes)
+
+- [Virginia reports first measles case: What families need to know](https://www.wtvr.com/news/local-news/virginia-first-measles-case-april-29-2025) (wtvr.com)
+
+- [As Measles Cases Surge, Mexico Issues a US Travel Alert](https://www.wired.com/story/as-measles-cases-surge-mexico-issues-a-us-travel-alert/) (Wired)
 
 - [What are your questions about Trump’s impact on children’s health? | CNN](https://www.cnn.com/2025/04/28/health/trump-100-days-children-health/index.html) (CNN)
 
@@ -84,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (malaria)
 
+- [Retrospective analysis of malaria prevalence over ten years (2015–2024) at Bichena Primary Hospital, Amhara Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322570) (Plos.org)
+
 - [Het malariaonderzoek dat levens kan redden (áls de VS meewerken)](https://www.nrc.nl/nieuws/2025/04/29/het-malariaonderzoek-dat-levens-kan-redden-als-de-vs-meewerken-a4891480) (Www.nrc.nl)
 
 - [Coalition of Parliamentarians to End Malaria strategise in Accra](https://3news.com/health/coalition-of-parliamentarians-to-end-malaria-strategise-in-accra/) (3news.com)
@@ -106,13 +120,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Zero malaria deaths in Nagaland in past 6 years](https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years) (Thehillstimes.in)
 
+## 25-18 (hpai)
+
+- [Helport AI Congratulates Brand Ambassador Ben Griffin on First PGA TOUR Victory at Zurich Classic](https://www.globenewswire.com/news-release/2025/04/29/3070227/0/en/Helport-AI-Congratulates-Brand-Ambassador-Ben-Griffin-on-First-PGA-TOUR-Victory-at-Zurich-Classic.html) (GlobeNewswire)
+
 ## 25-18 (h5n1)
+
+- [ABD, Meksika, Kamboçya... Yeni pandemi kapıda!](https://www.hurriyet.com.tr/dunya/abd-meksika-kambocya-yeni-pandemi-kapida-42782603) (Hurriyet.com.tr)
+
+- [В США предупредили о новой пандемии из-за вспышки птичьего гриппа](https://news.mail.ru/society/65931283/) (Mail.ru)
 
 - [Dünya yeni bir krizin eşiğinde! Ölümcül virüs 50 eyaleti sardı](https://www.turkiyegazetesi.com.tr/dunya/dunya-yeni-bir-krizin-esiginde-olumcul-virus-50-eyaleti-sardi-1111995) (Turkiyegazetesi.com.tr)
 
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [ARBOALVO: A Bayesian spatiotemporial learning and predictive model for dengue caises in the endemic Northeast city of Natal, Rio Grande do Norte, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012984) (Plos.org)
+
+- [Genomic hotspots in the DENV-2 serotype (E, NS4B, and NS5 genes) are associated with dengue disease severity in the endemic region of India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013034) (Plos.org)
 
 - [Batac: Ilocos Norte police bloodletting activity yields 39 bags](https://rpnradio.com/batac-ilocos-norte-police-bloodletting-activity-yields-39-bags/) (Rpnradio.com)
 
@@ -137,6 +163,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [La Réunion : La vaccination contre le Chikungunya pose débat](https://www.francetvinfo.fr/france/la-reunion/la-reunion-la-vaccination-contre-le-chikungunya-pose-debat_7217793.html) (Francetvinfo.fr)
 
 - [La Réunion. Chikungunya : la campagne de vaccination bouleversée après un décès lié à des effets indésirables](https://www.ledauphine.com/sante/2025/04/28/chikungunya-la-campagne-de-vaccination-bouleversee-apres-un-deces-lie-a-des-effets-indesirables) (Le Dauphiné Libéré)
 
@@ -3014,10 +3042,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
-- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
-
-- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
-
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3052,10 +3076,6 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
-- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
-
-- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
-
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3083,8 +3103,6 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3197,10 +3215,6 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
-
-- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 

@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-04-30 07:07",
-  "count_articles_total": 1492,
+  "last_updated": "2025-04-30 19:06",
+  "count_articles_total": 1499,
   "count_articles_new": 13,
   "articles": [
+    {
+      "id": 20863,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sierraloaded.sl",
+      "author": "Sharied Bangura",
+      "title": "Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness",
+      "description": "Youth activist and humanitarian, Black Coffee of House of Entertainment, who is currently hospitalized, has publicly shared his recent ordeal after contracting monkeypox, highlighting his struggle with the disease and emphasizing the urgent need for public aw\u2026",
+      "url": "https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/",
+      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2025/04/Young-Man-Battles-MPOX.jpg",
+      "publishedAt": "2025-04-29 17:33:51",
+      "content": "Youth activist and humanitarian, Black Coffee of House of Entertainment, who is currently hospitalized, has publicly shared his recent ordeal after contracting monkeypox, highlighting his struggle wi\u2026 [+1351 chars]",
+      "retrievedAt": "2025-04-30 19:06:00.589114",
+      "internal_id": "d5b23df3f3a3f390000991d6b3d090d4091b5461558908e3e1a5c4e89ca9754f",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20851,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: U.S. Cases Near 900 As Illness Spreads To 17 More In Texas",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/29/measles-updates-us-cases-near-900-as-illness-spreads-to-17-more-in-texas/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-29 17:12:42",
+      "content": "Texas health officials reported 663 measles cases in the state on Tuesday, accounting for the majority of cases across the U.S., which reached nearly 900 as of Friday, according to the Centers for Di\u2026 [+8176 chars]",
+      "retrievedAt": "2025-04-30 19:05:57.623591",
+      "internal_id": "baae4bc9d90e1eecb687e95e93cde782a13cec553cf0378f1d466a2e39de7988",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20857,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mariane Branco Alves, Rafael Santos Erbisti, Aline Ara\u00fajo Nobre, Tayn\u00e3na C\u00e9sar Sim\u00f5es, Alessandre de Medeiros Tavares, M\u00e1rcia Cristina Melo, Rodrigo Moreira Pedreira, Jan Pierre Martins de Ara\u00fajo, Marilia S\u00e1 Carvalho, Nildimar Alves Hon\u00f3rio",
+      "title": "ARBOALVO: A Bayesian spatiotemporial learning and predictive model for dengue caises in the endemic Northeast city of Natal, Rio Grande do Norte, Brazil",
+      "description": "Author summary Urban arbovirus transmission exhibits spatial and temporal heterogeneity. Focusing on dengue, we employed statistical models that account for spatiotemporal variability to provide a realistic assessment of transmission dynamics. By using dengue\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012984",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012984.g012&size=inline",
+      "publishedAt": "2025-04-29 14:00:00",
+      "content": "Abstract Background Urban arbovirus transmission is spatially and temporally heterogeneous. Estimating the risk of dengue through statistical models that consider simultaneous variability in space \u2026 [+63997 chars]",
+      "retrievedAt": "2025-04-30 19:05:58.843992",
+      "internal_id": "01107bc913f398f6cea7194ce4eadd764d57a966aa998fe2dc8e7e7add8e28a1",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20858,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Varsha Ravi, Kriti Khare, Ramakant Mohite, Pallavi Mishra, Sayanti Halder, Richa Shukla, Chinky Shiu Chen Liu, Aanchal Yadav, Jyoti Soni, Kanika, Komal Chaudhary, Neha, Bansidhar Tarai, Sandeep Budhiraja, Pooja Khosla, Tavpritesh Sethi, Md Imran, Rajesh Pandey",
+      "title": "Genomic hotspots in the DENV-2 serotype (E, NS4B, and NS5 genes) are associated with dengue disease severity in the endemic region of India",
+      "description": "Dengue has emerged as a significant global public health concern, particularly in tropical and subtropical regions. The escalating rate of DENV infections in endemic areas underscores the urgent need for studies involving larger datasets that integrate viral \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013034",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013034.g008&size=inline",
+      "publishedAt": "2025-04-29 14:00:00",
+      "content": "Abstract Dengue virus (DENV) infection manifests a wide spectrum of clinical outcomes, ranging from mild fever to severe and potentially fatal disease, yet the factors driving this variability remai\u2026 [+74812 chars]",
+      "retrievedAt": "2025-04-30 19:05:58.871292",
+      "internal_id": "b596762dff26758789629a8eb730b1f2250bf193e64e95ccc0700237ad6c03fb",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20861,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Awoke Minwuyelet, Delenasaw Yewhalaw, Getnet Atenafu",
+      "title": "Retrospective analysis of malaria prevalence over ten years (2015\u20132024) at Bichena Primary Hospital, Amhara Region, Ethiopia",
+      "description": "Background Malaria remains a significant public health challenge in Ethiopia, hindering the country\u2019s productivity and development. While malaria incidence had decreased by 2018, and Ethiopia is working towards eliminating the disease by 2030, outbreaks still\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322570",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322570.g003&size=inline",
+      "publishedAt": "2025-04-29 14:00:00",
+      "content": "Introduction Malaria continued to pose a significant public health challenge, particularly in tropical and subtropical regions. In 2023, approximately 263 million malaria cases and 597,000 deaths we\u2026 [+29641 chars]",
+      "retrievedAt": "2025-04-30 19:05:59.541029",
+      "internal_id": "32f52c9216f7c30ec076233395823e2f2f006370fee04005bc32f5a116bef6b8",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20856,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "ABD, Meksika, Kambo\u00e7ya... Yeni pandemi kap\u0131da!",
+      "description": "ABD'de ilk \u00f6l\u00fcm\u00fcn bildirildi\u011fi ku\u015f gribinde vaka say\u0131s\u0131 art\u0131yor. Uzmanlar, yeni bir pandemi tehdidine kar\u015f\u0131 d\u00fcnya genelinde \"haz\u0131rl\u0131kl\u0131 olun\" uyar\u0131s\u0131nda bulundu.",
+      "url": "https://www.hurriyet.com.tr/dunya/abd-meksika-kambocya-yeni-pandemi-kapida-42782603",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/6810cfc79f080fe239522c3a.jpg",
+      "publishedAt": "2025-04-29 13:12:00",
+      "content": "p&gt;ABD'de balayan ve Meksika'ya s\u00e7rayan ku gribi (H5N1) kontrolden \u00e7kt. ABD Tarm Bakanl, \u00e7i s\u00fct ileyen t\u00fcm irketlerin test i\u00e7in \u00f6rnek paylamalarn zorunlu klacak d\u00fczenlemeler getirdi.\u00d6nde gelen salk\u2026 [+2555 chars]",
+      "retrievedAt": "2025-04-30 19:05:58.419730",
+      "internal_id": "b9ec257977c328f9195d7a2d41ebb760e33c2e8c1c7f0ea90565a99edc69082a",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20854,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI Congratulates Brand Ambassador Ben Griffin on First PGA TOUR Victory at Zurich Classic",
+      "description": "Helport AI Congratulates Brand Ambassador Ben Griffin on First PGA TOUR Victory at Zurich Classic......",
+      "url": "https://www.globenewswire.com/news-release/2025/04/29/3070227/0/en/Helport-AI-Congratulates-Brand-Ambassador-Ben-Griffin-on-First-PGA-TOUR-Victory-at-Zurich-Classic.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2025-04-29 12:31:00",
+      "content": "Former Mortgage Loan Officer Turned PGA TOUR Champion Embodies Helport AIs Mission to Empower Excellence SINGAPORE and SAN DIEGO, April 29, 2025 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI)\u2026 [+4760 chars]",
+      "retrievedAt": "2025-04-30 19:05:58.094259",
+      "internal_id": "4606da293e50fc8e2b241d5e489959266405b51a12536ef73af76de6d1058410",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20855,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u0432\u0430\u043d \u041b\u0435\u0431\u0435\u0434\u044f\u043d\u0441\u043a\u0438\u0439",
+      "title": "\u0412 \u0421\u0428\u0410 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0438 \u043e \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438 \u0438\u0437-\u0437\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0412\u0435\u0434\u0443\u0449\u0438\u0435 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u044b \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0438\u0437 \u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u0438\u0440\u0443\u0441\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 (GVN) \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438, \u0447\u0442\u043e \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u0441 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u043d\u0430 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u0444\u0435\u0440\u043c\u0430\u0445 \u043d\u0430\u0447\u0430\u043b\u0430 \u0432\u044b\u0445\u043e\u0434\u0438\u0442\u044c \u0438\u0437-\u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f, \u0438 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0438, \u0447\u0442\u043e \u0441\u0442\u0440\u0430\u043d\u0435 \u0433\u0440\u043e\u0437\u0438\u0442 \u043d\u043e\u0432\u0430\u044f \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f. \u041d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u0432\u0438\u0440\u0443\u0441\u0430 H5N\u2026",
+      "url": "https://news.mail.ru/society/65931283/",
+      "urlToImage": "https://news.mail.ru/social_preview/65931283/?time=f06abfd8a4bdaf4a1025318a3b83da85",
+      "publishedAt": "2025-04-29 12:15:19",
+      "content": "(GVN) , - , , . H5N1 70 , .",
+      "retrievedAt": "2025-04-30 19:05:58.397582",
+      "internal_id": "182749bcf8950b0084cb11ddf514e44805d91b3c082b7522ebe8425c1d20b5a8",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20859,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Sanofi Winthrop Industrie",
+      "title": "Press Release: When every second counts: Sanofi, McLaren Racing and United Autosports join forces to raise meningitis awareness at Le Mans 24 Hours race",
+      "description": "When every second counts: Sanofi, McLaren Racing and United Autosports join forces to raise meningitis awareness at Le Mans 24 Hours race ...",
+      "url": "https://www.globenewswire.com/news-release/2025/04/29/3070006/0/en/Press-Release-When-every-second-counts-Sanofi-McLaren-Racing-and-United-Autosports-join-forces-to-raise-meningitis-awareness-at-Le-Mans-24-Hours-race.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/06da731a-67a1-4258-939f-6ef0531ee3bf",
+      "publishedAt": "2025-04-29 11:00:00",
+      "content": "When every second counts: Sanofi, McLaren Racing and United Autosports join forces to raise meningitis awareness at Le Mans 24 Hours race Paris, April 29, 2025. Sanofi is proud to unveil an exciting\u2026 [+6079 chars]",
+      "retrievedAt": "2025-04-30 19:05:59.058854",
+      "internal_id": "6052310909ead3c139f6bba437f12142b57c742c09b7aa633d21528a34436880",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20853,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "wtvr.com",
+      "author": "Brendan King",
+      "title": "Virginia reports first measles case: What families need to know",
+      "description": "The Virginia Department of Health (VDH) confirmed its first case of measles involving a child who recently traveled internationally and lives in the Shenandoah Valley area earlier this month.",
+      "url": "https://www.wtvr.com/news/local-news/virginia-first-measles-case-april-29-2025",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/5726c94/2147483647/strip/true/crop/1280x672+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc8%2F8e%2F81c2b97346bfb424fe946fbe754d%2Fdr-sean-mckenna.jpg",
+      "publishedAt": "2025-04-29 10:41:55",
+      "content": "RICHMOND, Va. The Virginia Department of Health (VDH) confirmed its first case of measles involving a child who recently traveled internationally and lives in the Shenandoah Valley area earlier this \u2026 [+2514 chars]",
+      "retrievedAt": "2025-04-30 19:05:57.777668",
+      "internal_id": "d0088011643b425b6e8e8d1a59de5d420d1ab2d236d90d085cf563ae53c52426",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20852,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Javier Carbajal",
+      "title": "As Measles Cases Surge, Mexico Issues a US Travel Alert",
+      "description": "The border state of Chihuahua has recorded 713 confirmed cases, with its outbreak linked to the ongoing cluster of cases north of the border in Texas.",
+      "url": "https://www.wired.com/story/as-measles-cases-surge-mexico-issues-a-us-travel-alert/",
+      "urlToImage": "https://media.wired.com/photos/680f7b9140f2fafdf5d2ce64/191:100/w_1280,c_limit/sarampion.jpg",
+      "publishedAt": "2025-04-29 09:00:00",
+      "content": "As the US struggles to contain its worst measles outbreak in years, cases have spilled over into Mexico. In an April 25 report, Mexicos Ministry of Health reported there have been 583 confirmed cases\u2026 [+3839 chars]",
+      "retrievedAt": "2025-04-30 19:05:57.750011",
+      "internal_id": "3e18a655ec54e8964660d4abb7a4921165539c1314f2912e49612581f8bc561c",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20862,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "La R\u00e9union : La vaccination contre le Chikungunya pose d\u00e9bat",
+      "description": "Alors que La R\u00e9union est frapp\u00e9e par une \u00e9pid\u00e9mie de Chikungunya, la vaccination contre le virus fait d\u00e9bat au c\u0153ur de la population.",
+      "url": "https://www.francetvinfo.fr/france/la-reunion/la-reunion-la-vaccination-contre-le-chikungunya-pose-debat_7217793.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/W-ltXcCduVn48wFQk6sIsx_DbP4/0x0:1395x785/1500x843/2025/04/29/capture-d-ecran-2025-04-29-083711-68108ce446890132640369.jpg",
+      "publishedAt": "2025-04-29 08:27:23",
+      "content": "Alors que La R\u00e9union est frapp\u00e9e par une \u00e9pid\u00e9mie de Chikungunya, la vaccination contre le virus fait d\u00e9bat au cur de la population. Dans cette pharmacie, il reste des doses de vaccin Ixchiq au r\u00e9fr\u2026 [+950 chars]",
+      "retrievedAt": "2025-04-30 19:06:00.220621",
+      "internal_id": "ec75ef19c517b162ee08cfad0905676501e63c9f33d2ee8c40639f47b3520af6",
+      "publishedAtLabel": "Apr 29"
+    },
+    {
+      "id": 20860,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
+      "author": "Danvictor Munene",
+      "title": "Edward Kwach: Sudden Illness That Killed Beloved Radio Host Disclosed",
+      "description": "Edward Kwach, celebrated Kenyan radio presenter, passed away on April 28, after a battle with meningitis, despite efforts for blood donation and medical treatment.",
+      "url": "https://www.tuko.co.ke/entertainment/celebrities/587372-edward-kwach-sudden-illness-killed-beloved-radio-host-disclosed/",
+      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/9451c7f075cb1d57.jpeg?v=1",
+      "publishedAt": "2025-04-29 07:27:51",
+      "content": "Veteran radio broadcaster Edward Kwachs death on April 28, 2025, came after weeks of battling meningitisAccording to WHO, Meningitis is a serious illness causing inflammation around \u2026 [+4192 chars]",
+      "retrievedAt": "2025-04-30 19:05:59.080320",
+      "internal_id": "e371630c094150927efc507eeee07fb0c5ff697cba250ffd5958672bfa5a101d",
+      "publishedAtLabel": "Apr 29"
+    },
     {
       "id": 20844,
       "query": [
@@ -26796,115 +27030,6 @@
       "content": "HOUSTON - A measles case in a Houston infant has been confirmed as the third case of measles in the city, according to the Houston Health Department. Houston infant measles case What we know: Acco\u2026 [+2081 chars]",
       "retrievedAt": "2025-03-19 07:07:04.309538",
       "internal_id": "559b155b448b6ff76f3153f49fe7933624e81eda1244d127cdcc67e71d1bcf65",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19348,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Cat owners beware as pet food with bird flu risk is recalled",
-      "description": "Cat owners are warned of more pet food recalls, as Savage Pet of California says some of its products could contain H5N1 (bird flu). The FDA and New York Department of Health share key information.",
-      "url": "https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/boy-carrying-cat.jpg",
-      "publishedAt": "2025-03-16 16:37:05",
-      "content": "Cat owners have been alerted to a potential health threat. Savage Pet of El Cajon, California, is recalling 66 large chicken boxes (84 oz.) and 74 small chicken boxes (21 oz.) with the lot code/\"bes\u2026 [+4584 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.008662",
-      "internal_id": "6e8a4ec313bcecc65a72c24ef4a64ce9db196b9edfb3661d2014aabb43702320",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes.com.mx",
-      "author": "Forbes Staff",
-      "title": "Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis",
-      "description": "Forbes M\u00e9xico. Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis La inmunizaci\u00f3n de los ping\u00fcinos contra esta grave enfermedad f\u00fangica se hizo a trav\u00e9s del fortalecimiento de sus bacterias del intestino introduciendo u\u2026",
-      "url": "https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/",
-      "urlToImage": "https://cdn.forbes.com.mx/2019/04/s3.reutersmedia.jpg",
-      "publishedAt": "2025-03-16 14:28:00",
-      "content": "Un equipo de cient\u00edficos encontr\u00f3 en Francia una posible pista para combatir la malaria o la leishmaniosis en seres humanos gracias al estudio de la microbiota de los ping\u00fcinos, conocida en detalle t\u2026 [+3096 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.917162",
-      "internal_id": "ee952ae6e7b7573190fddc61f2dcf197c9756c5a8ae80cd4adc5daed76093007",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19419,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Samantha Sayles",
-      "title": "What to know about measles as first case of 2025 confirmed in Oakland County",
-      "description": "Michigan\u2019s first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced.",
-      "url": "https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6GUZ5DYYVBTHC3KFQCFAGQR4I.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-03-16 12:47:06",
-      "content": "OAKLAND COUNTY, Mich. Michigans first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced. The countys health officer, Kate Guzman, RN, s\u2026 [+3011 chars]",
-      "retrievedAt": "2025-03-19 07:07:04.351140",
-      "internal_id": "749ec33a8f4194f7e35c2490731f7eed883b799dfffca15023e62de595c88c41",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19347,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Alarma en la Ant\u00e1rtida: Confirman un brote masivo de gripe aviar en varias especies",
-      "description": "Una expedici\u00f3n cient\u00edfica espa\u00f1ola ha confirmado la presencia del virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) en la Ant\u00e1rtida. El brote ha sido detectado en 13 especies diferentes y en 24 puntos de la regi\u00f3n, lo que marca un precedente alarmante \u2026",
-      "url": "https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/03/gripe-aviar.jpg",
-      "publishedAt": "2025-03-16 11:29:44",
-      "content": "La expedici\u00f3n CSIC-Unespa llev\u00f3 a cabo un estudio entre enero y febrero, generando el informe m\u00e1s completo hasta la fecha sobre la gripe aviar en la Ant\u00e1rtida. Los investigadores identificaron 188 ca\u2026 [+2815 chars]",
-      "retrievedAt": "2025-03-17 19:05:54.523755",
-      "internal_id": "52a74a44fa3e844abf031688bd77dafc1a464949c89910eaef0d51915256aced",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19353,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Richmond.com",
-      "author": "",
-      "title": "Recap: What made news last week across Virginia",
-      "description": "IN THE NEWS",
-      "url": "https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/3b/e3ba212e-ff71-11ef-afa0-071d975426c2/67d33683df5c8.preview.jpg?crop=1758%2C923%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-03-16 11:00:00",
-      "content": "Possible measles exposure at Dulles Airport A person with a case of measles arrived at Washington Dulles International Airport in Northern Virginia last week, potentially exposing others, the state\u2026 [+11070 chars]",
-      "retrievedAt": "2025-03-18 07:07:09.586966",
-      "internal_id": "db05da6a81fe2de27aeb3360837d8725628dcbccb9bb8523aea66ac9d3449a88",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19350,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor",
-      "description": "Sie sind verlassen und oftmals mit einem gewissen Grusel verbunden: Geisterinseln. Einige von ihnen dienten als Gef\u00e4ngnis, andere zur Isolation von Pestkranken. Und eine von ihnen war einmal der dichtbesiedeltste Flecken der Erde. ntv.de stellt zehn Lost Plac\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25570971/1181322630-cImg_16_9-w1200/imago598760374.jpg",
-      "publishedAt": "2025-03-16 09:45:30",
-      "content": "W\u00e4hrend sich die W\u00e4rter auf Tennispl\u00e4tzen und in Pools vergn\u00fcgen konnten, litten die Gefangenen unter Mangelern\u00e4hrung, Malaria, Ruhr und Cholera. Zudem wurden medizinische Experimente an ihnen durchg\u2026 [+6 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.945568",
-      "internal_id": "4838ae9f3bbca6cc47ead8f946735f85c011b599be8cf5eab2c063ee6c57cb5a",
       "publishedAtLabel": "Mar 16"
     }
   ]
