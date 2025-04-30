@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-04-29 19:06
-- **Most recent article:** 2025-04-28 19:02:22
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-04-30 07:07
+- **Most recent article:** 2025-04-29 06:59:23
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 104 | 101 | 77 | 145 | 82 | 107 | 10 | 626 |
-| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 0 | 238 |
+| measles | 106 | 101 | 77 | 145 | 82 | 107 | 14 | 632 |
+| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 2 | 242 |
 | chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 5 | 149 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 10 | 132 |
-| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 8 | 125 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 11 | 133 |
+| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 11 | 130 |
 | mpox | 8 | 12 | 17 | 18 | 10 | 5 | 2 | 72 |
-| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 0 | 52 |
+| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 2 | 54 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
-| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 0 | 26 |
-| zika | 2 | 3 | 4 | 7 | 7 | 2 | 0 | 25 |
+| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 0 | 27 |
+| zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 0 | 11 |
 | yersinia | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 5 |
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-18 (zika)
+
+- [Mara Gabrilli trabalha por pensão para crianças afetadas pelo Zika Vírus](https://www.terra.com.br/vida-e-estilo/mara-gabrilli-trabalha-por-pensao-para-criancas-afetadas-pelo-zika-virus,49ade4c8cdc23419fd6565c780e56579k2g87cp1.html) (Terra.com.br)
 
 ## 25-18 (pertussis)
 
@@ -42,7 +46,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
+## 25-18 (meningitis)
+
+- [Edward Kwach: Maina Kageni Heartbroken by Fellow Radio Host's Death, Pens Emotional Tribute to Him](https://www.tuko.co.ke/entertainment/celebrities/587349-edward-kwach-maina-kageni-heartbroken-by-fellow-radio-hosts-death-pens-emotional-tribute-him/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
+- [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 ## 25-18 (measles)
+
+- [What are your questions about Trump’s impact on children’s health? | CNN](https://www.cnn.com/2025/04/28/health/trump-100-days-children-health/index.html) (CNN)
+
+- [One Of RFK Jr.’s ‘Extraordinary Healers’ Caught Measles, Kept Treating Patients In Facilities](https://www.techdirt.com/2025/04/28/one-of-rfk-jr-s-extraordinary-healers-caught-measles-kept-treating-patients-in-facilities/) (Techdirt)
+
+- [As RFK Downplays Measles, CDC Reports Nearly 900 Infections Counted in 2025](https://truthout.org/articles/as-rfk-downplays-measles-cdc-reports-nearly-900-infections-counted-in-2025/) (Truthout)
+
+- [The Growing Partisan Divide On Vaccines](https://www.forbes.com/sites/bowmanmarsico/2025/04/28/the-growing-partisan-divide-on-vaccines/) (Forbes)
 
 - [How a small vaccine drop could see measles becoming endemic again – new study](https://theconversation.com/how-a-small-vaccine-drop-could-see-measles-becoming-endemic-again-new-study-255327) (The Conversation Africa)
 
@@ -66,6 +84,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (malaria)
 
+- [Het malariaonderzoek dat levens kan redden (áls de VS meewerken)](https://www.nrc.nl/nieuws/2025/04/29/het-malariaonderzoek-dat-levens-kan-redden-als-de-vs-meewerken-a4891480) (Www.nrc.nl)
+
+- [Coalition of Parliamentarians to End Malaria strategise in Accra](https://3news.com/health/coalition-of-parliamentarians-to-end-malaria-strategise-in-accra/) (3news.com)
+
+- [Awareness programme on Malaria held in Itakhola](https://thehillstimes.in/assam/awareness-programme-on-malaria-held-in-itakhola) (Thehillstimes.in)
+
 - [Ghana reduces malaria deaths by 97% in a decade – Health Ministry announces](https://3news.com/health/ghana-reduces-malaria-deaths-by-97-in-a-decade-health-ministry-announces/) (3news.com)
 
 - [Deposition of complement regulators on the surface of Plasmodium falciparum merozoites depends on the immune status of the host](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013107) (Plos.org)
@@ -82,7 +106,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Zero malaria deaths in Nagaland in past 6 years](https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years) (Thehillstimes.in)
 
+## 25-18 (h5n1)
+
+- [Dünya yeni bir krizin eşiğinde! Ölümcül virüs 50 eyaleti sardı](https://www.turkiyegazetesi.com.tr/dunya/dunya-yeni-bir-krizin-esiginde-olumcul-virus-50-eyaleti-sardi-1111995) (Turkiyegazetesi.com.tr)
+
+- [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
+
 ## 25-18 (dengue)
+
+- [Batac: Ilocos Norte police bloodletting activity yields 39 bags](https://rpnradio.com/batac-ilocos-norte-police-bloodletting-activity-yields-39-bags/) (Rpnradio.com)
 
 - [Proceedings of the second annual dengue endgame summit: A call to action](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013028) (Plos.org)
 
@@ -2982,6 +3014,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
+
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3016,6 +3052,10 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3043,6 +3083,8 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3155,6 +3197,10 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
