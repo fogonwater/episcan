@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-04-30 19:06
-- **Most recent article:** 2025-04-29 17:33:51
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-05-01 07:08
+- **Most recent article:** 2025-04-30 05:42:53
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 104 | 101 | 77 | 145 | 82 | 107 | 17 | 633 |
-| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 4 | 242 |
+| measles | 106 | 101 | 77 | 145 | 82 | 107 | 21 | 639 |
+| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 6 | 246 |
 | chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 6 | 150 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 13 | 135 |
-| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 12 | 129 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 14 | 136 |
+| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 12 | 131 |
 | mpox | 8 | 12 | 17 | 18 | 10 | 5 | 3 | 73 |
 | meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 4 | 56 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
-| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 1 | 27 |
+| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 1 | 28 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
-| typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 0 | 11 |
+| typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 1 | 12 |
 | yersinia | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 5 |
 | leptospirosis | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 2 |
 
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 ## 25-18 (zika)
 
 - [Mara Gabrilli trabalha por pensão para crianças afetadas pelo Zika Vírus](https://www.terra.com.br/vida-e-estilo/mara-gabrilli-trabalha-por-pensao-para-criancas-afetadas-pelo-zika-virus,49ade4c8cdc23419fd6565c780e56579k2g87cp1.html) (Terra.com.br)
+
+## 25-18 (typhoid)
+
+- [Donate to Health Crisis in the Amazon](https://giving.classy.org/campaign/667641/donate) (Classy.org)
 
 ## 25-18 (pertussis)
 
@@ -59,6 +63,14 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [US Measles Cases On Pace To Eclipse 2019, 1994 Case Numbers](https://www.techdirt.com/2025/04/29/us-measles-cases-on-pace-to-eclipse-2019-1994-case-numbers/) (Techdirt)
+
+- [Public health departments prepare for potential measles cases in North Dakota](https://www.kfyrtv.com/2025/04/29/public-health-departments-prepare-potential-measles-cases-north-dakota/) (KFYR-TV)
+
+- [Kansas City health officials warn of measles threat](https://www.kmbc.com/article/health-officials-warn-measles-could-spread-to-kansas-city-metro/64624497) (KMBC Kansas City)
+
+- [Measles Case Numbers Climb, Health Officials Urge Action to Prevent the Spread - NewsBreak](https://www.newsbreak.com/share/3984266691721-measles-case-numbers-climb-health-officials-urge-action-to-prevent-the-spread?s=a2&share_destination_id=MTk3MzQyOTA1LTE3NDU5NTUwMjU2MTk%3D&pd=0DM1u5Bu&hl=en_US&send_time=1745955025&actBtn=topBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.17.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q2-v9%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_model_exp_25q2-v8%2Cns_foryou_blend_exp_25q2-v7%2Cns_foryou_recall_exp_25q2-v1%2Cns_local_strategy_25q1_exp-v12%2Cns_foryou_blend_exp_25q1-v6) (Newsbreak.com)
 
 - [Measles Updates: U.S. Cases Near 900 As Illness Spreads To 17 More In Texas](https://www.forbes.com/sites/antoniopequenoiv/2025/04/29/measles-updates-us-cases-near-900-as-illness-spreads-to-17-more-in-texas/) (Forbes)
 
@@ -126,6 +138,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (h5n1)
 
+- [Experts warn of potential pandemic virus spreading across the US — check infectivity, risks, and more](https://economictimes.indiatimes.com/news/international/global-trends/experts-warn-of-potential-pandemic-virus-spreading-across-the-us-check-infectivity-risks-and-more/articleshow/120753120.cms) (The Times of India)
+
+- [Man Who Predicted COVID-19 Raises Alarm Over New Health Threat](https://www.legit.ng/world/1652569-man-predicted-covid-19-raises-alarm-health-threat/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
+
 - [ABD, Meksika, Kamboçya... Yeni pandemi kapıda!](https://www.hurriyet.com.tr/dunya/abd-meksika-kambocya-yeni-pandemi-kapida-42782603) (Hurriyet.com.tr)
 
 - [В США предупредили о новой пандемии из-за вспышки птичьего гриппа](https://news.mail.ru/society/65931283/) (Mail.ru)
@@ -135,6 +151,8 @@ Source: [News API](https://newsapi.org/)
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [Bacolod: 1,692 dengue cases with 7 deaths in Negros Occidental](https://rpnradio.com/bacolod-1692-dengue-cases-with-7-deaths-in-negros-occidental/) (Rpnradio.com)
 
 - [ARBOALVO: A Bayesian spatiotemporial learning and predictive model for dengue caises in the endemic Northeast city of Natal, Rio Grande do Norte, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012984) (Plos.org)
 
@@ -3042,6 +3060,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
+
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3076,6 +3098,10 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3103,6 +3129,8 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3215,6 +3243,10 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
