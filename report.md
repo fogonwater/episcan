@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-05-01 07:08
-- **Most recent article:** 2025-04-30 05:42:53
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-05-01 19:05
+- **Most recent article:** 2025-04-30 18:53:46
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 101 | 77 | 145 | 82 | 107 | 21 | 639 |
-| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 6 | 246 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 6 | 150 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 14 | 136 |
-| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 12 | 131 |
-| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 3 | 73 |
-| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 4 | 56 |
-| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
-| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 1 | 28 |
+| measles | 104 | 101 | 77 | 145 | 82 | 107 | 29 | 645 |
+| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 7 | 245 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 7 | 151 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 16 | 138 |
+| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 21 | 138 |
+| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 5 | 75 |
+| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 5 | 57 |
+| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 1 | 39 |
+| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 1 | 27 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 1 | 12 |
@@ -40,11 +40,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Donate to Health Crisis in the Amazon](https://giving.classy.org/campaign/667641/donate) (Classy.org)
 
+## 25-18 (rabies)
+
+- [Pynlong ka tnad Veterinary da ka jingai injek iada na jingpang Rabies ha Jorbil Kiling](https://www.syllad.com/pynlong-ka-tnad-veterinary-da-ka-jingai-injek-iada-na-jingpang-rabies-ha-jorbil-kiling/) (Syllad.com)
+
 ## 25-18 (pertussis)
 
 - [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
 
 ## 25-18 (mpox)
+
+- [La OMS advierte a nivel mundial de la reaparición de una enfermedad muy temida del pasado](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13342243/04/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-muy-temida-del-pasado.html) (Eleconomista.es)
+
+- [La OMS advierte de que once países de África registran transmisión comunitaria de mpox del clado Ib](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-once-paises-africa-registran-transmision-comunitaria-mpox-clado-ib-20250430140335.html) (Infosalus.com)
 
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
@@ -53,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 - [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
+
+- [Bexsero Market Epidemiology, Pipeline Analysis, Market Insights & Forecast Report 2025](https://www.globenewswire.com/news-release/2025/04/30/3071512/28124/en/Bexsero-Market-Epidemiology-Pipeline-Analysis-Market-Insights-Forecast-Report-2025.html) (GlobeNewswire)
 
 - [Press Release: When every second counts: Sanofi, McLaren Racing and United Autosports join forces to raise meningitis awareness at Le Mans 24 Hours race](https://www.globenewswire.com/news-release/2025/04/29/3070006/0/en/Press-Release-When-every-second-counts-Sanofi-McLaren-Racing-and-United-Autosports-join-forces-to-raise-meningitis-awareness-at-Le-Mans-24-Hours-race.html) (GlobeNewswire)
 
@@ -63,6 +73,22 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [America’s response to measles is eroding its ability to deter biological attacks](https://www.defenseone.com/ideas/2025/04/americas-response-measles-eroding-its-ability-deter-biological-attacks/404953/) (Defense One)
+
+- [Mexico Issues a U.S. Travel Alert Over Measles](https://politicalwire.com/2025/04/30/mexico-issues-a-u-s-travel-alert-over-measles/) (Politicalwire.com)
+
+- [Measles Vaccine Denial Is a Massive Brainwashing Campaign](https://www.scientificamerican.com/article/measles-vaccine-denial-is-a-massive-brainwashing-campaign/) (Scientific American)
+
+- [Measles is coming to Kansas City, health officials say. Here's how they're preparing](https://www.kcur.org/health/2025-04-30/measles-is-coming-to-kansas-city-health-officials-say-heres-how-theyre-preparing) (KCUR)
+
+- [From COVID to cancer: Why Canada’s RNA vaccine leadership matters more than ever](https://theconversation.com/from-covid-to-cancer-why-canadas-rna-vaccine-leadership-matters-more-than-ever-254692) (The Conversation Africa)
+
+- [CDC deputy director on response to measles outbreak in Texas](https://www.today.com/video/measles-cases-in-texas-top-650-as-cdc-responds-to-outbreak-238609477715) (TODAY)
+
+- [Bob Kennedy's Motto For Parents: 'Do Your Own Research'](https://crooksandliars.com/2025/04/bob-kennedys-motto-parents-do-your-own) (Crooksandliars.com)
+
+- [Even a small uptick in vaccination could prevent millions of US measles cases. Here's how](https://abcnews.go.com/Health/small-uptick-vaccination-prevent-millions-us-measles-cases/story?id=121270669) (ABC News)
 
 - [US Measles Cases On Pace To Eclipse 2019, 1994 Case Numbers](https://www.techdirt.com/2025/04/29/us-measles-cases-on-pace-to-eclipse-2019-1994-case-numbers/) (Techdirt)
 
@@ -108,6 +134,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (malaria)
 
+- [Die EBC Financial Group bekräftigt ihr Engagement für die Initiative „United to Beat Malaria“ mit einer erneuerten globalen Partnerschaft und dem ersten Sponsoring eines 5-km-Laufs](https://www.globenewswire.com/news-release/2025/04/30/3071067/0/de/Die-EBC-Financial-Group-bekr%C3%A4ftigt-ihr-Engagement-f%C3%BCr-die-Initiative-United-to-Beat-Malaria-mit-einer-erneuerten-globalen-Partnerschaft-und-dem-ersten-Sponsoring-eines-5-km-Laufs.html) (GlobeNewswire)
+
+- [EBC Financial Group Mengukuhkan Komitmen kepada United to Beat Malaria dengan Perkongsian Global yang Diperbaharui dan Penajaan Larian 5K Pertama](https://www.globenewswire.com/news-release/2025/04/30/3071066/0/ms/EBC-Financial-Group-Mengukuhkan-Komitmen-kepada-United-to-Beat-Malaria-dengan-Perkongsian-Global-yang-Diperbaharui-dan-Penajaan-Larian-5K-Pertama.html) (GlobeNewswire)
+
+- [EBC Financial Group Memperdalam Komitmen terhadap United to Beat Malaria dengan Pembaruan Kemitraan Global dan Pemberian Sponsor Acara Lari 5K untuk Pertama Kalinya](https://www.globenewswire.com/news-release/2025/04/30/3071066/0/id/EBC-Financial-Group-Memperdalam-Komitmen-terhadap-United-to-Beat-Malaria-dengan-Pembaruan-Kemitraan-Global-dan-Pemberian-Sponsor-Acara-Lari-5K-untuk-Pertama-Kalinya.html) (GlobeNewswire)
+
+- [EBC Financial Group 深化對 United to Beat Malaria 的承諾，延續雙方的全球合作夥伴關係，並首次贊助「5K Run」活動](https://www.globenewswire.com/news-release/2025/04/30/3071066/0/zh-hant/EBC-Financial-Group-%E6%B7%B1%E5%8C%96%E5%B0%8D-United-to-Beat-Malaria-%E7%9A%84%E6%89%BF%E8%AB%BE-%E5%BB%B6%E7%BA%8C%E9%9B%99%E6%96%B9%E7%9A%84%E5%85%A8%E7%90%83%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82-%E4%B8%A6%E9%A6%96%E6%AC%A1%E8%B4%8A%E5%8A%A9-5K-Run-%E6%B4%BB%E5%8B%95.html) (GlobeNewswire)
+
+- [EBC Financial Group 深化对 United to Beat Malaria 的承诺，延续双方的全球合作伙伴关系，并首次赞助“5K Run”活动](https://www.globenewswire.com/news-release/2025/04/30/3071066/0/zh-hans/EBC-Financial-Group-%E6%B7%B1%E5%8C%96%E5%AF%B9-United-to-Beat-Malaria-%E7%9A%84%E6%89%BF%E8%AF%BA-%E5%BB%B6%E7%BB%AD%E5%8F%8C%E6%96%B9%E7%9A%84%E5%85%A8%E7%90%83%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB-%E5%B9%B6%E9%A6%96%E6%AC%A1%E8%B5%9E%E5%8A%A9-5K-Run-%E6%B4%BB%E5%8A%A8.html) (GlobeNewswire)
+
+- [EBC Financial Group, United to Beat Malaria와 글로벌 파트너십 이어가고 5K Run 챌린지 최초 후원하며 말라리아 퇴치 노력 강화](https://www.globenewswire.com/news-release/2025/04/30/3071066/0/ko/EBC-Financial-Group-United-to-Beat-Malaria%EC%99%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD-%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B3%A0-5K-Run-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%B5%9C%EC%B4%88-%ED%9B%84%EC%9B%90%ED%95%98%EB%A9%B0-%EB%A7%90%EB%9D%BC%EB%A6%AC%EC%95%84-%ED%87%B4%EC%B9%98-%EB%85%B8%EB%A0%A5-%EA%B0%95%ED%99%94.html) (GlobeNewswire)
+
+- [EBC Financial Group מעמיקה את מחויבותה להתאחד במאבק במלריה עם חידוש השותפות הגלובלית והענקת חסות לריצת ה-5K הראשונה אי פעם](https://www.globenewswire.com/news-release/2025/04/30/3071067/0/he/EBC-Financial-Group-%D7%9E%D7%A2%D7%9E%D7%99%D7%A7%D7%94-%D7%90%D7%AA-%D7%9E%D7%97%D7%95%D7%99%D7%91%D7%95%D7%AA%D7%94-%D7%9C%D7%94%D7%AA%D7%90%D7%97%D7%93-%D7%91%D7%9E%D7%90%D7%91%D7%A7-%D7%91%D7%9E%D7%9C%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%97%D7%99%D7%93%D7%95%D7%A9-%D7%94%D7%A9%D7%95%D7%AA%D7%A4%D7%95%D7%AA-%D7%94%D7%92%D7%9C%D7%95%D7%91%D7%9C%D7%99%D7%AA-%D7%95%D7%94%D7%A2%D7%A0%D7%A7%D7%AA-%D7%97%D7%A1%D7%95%D7%AA-%D7%9C%D7%A8%D7%99%D7%A6%D7%AA-%D7%94-5K-%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%90%D7%99-%D7%A4%D7%A2%D7%9D.html) (GlobeNewswire)
+
+- [EBC Financial Group fortalece su compromiso con United to Beat Malaria con una alianza global renovada y el patrocinio de su primera carrera 5K](https://www.globenewswire.com/news-release/2025/04/30/3071067/0/es/EBC-Financial-Group-fortalece-su-compromiso-con-United-to-Beat-Malaria-con-una-alianza-global-renovada-y-el-patrocinio-de-su-primera-carrera-5K.html) (GlobeNewswire)
+
+- [EBC Financial Group renforce son engagement auprès de la campagne United to Beat Malaria grâce à un partenariat mondial renouvelé et au parrainage de sa toute première course de 5 km](https://www.globenewswire.com/news-release/2025/04/30/3071067/0/fr/EBC-Financial-Group-renforce-son-engagement-aupr%C3%A8s-de-la-campagne-United-to-Beat-Malaria-gr%C3%A2ce-%C3%A0-un-partenariat-mondial-renouvel%C3%A9-et-au-parrainage-de-sa-toute-premi%C3%A8re-course-de-5-.html) (GlobeNewswire)
+
 - [Retrospective analysis of malaria prevalence over ten years (2015–2024) at Bichena Primary Hospital, Amhara Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322570) (Plos.org)
 
 - [Het malariaonderzoek dat levens kan redden (áls de VS meewerken)](https://www.nrc.nl/nieuws/2025/04/29/het-malariaonderzoek-dat-levens-kan-redden-als-de-vs-meewerken-a4891480) (Www.nrc.nl)
@@ -138,6 +182,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (h5n1)
 
+- [Aviaria: virologi di 40 paesi a Trump, 'c'è il potenziale per una pandemia'](https://www.ilgiornale.it/news/adnkronos/aviaria-virologi-40-paesi-trump-c-potenziale-pandemia-2472828.html) (Ilgiornale.it)
+
 - [Experts warn of potential pandemic virus spreading across the US — check infectivity, risks, and more](https://economictimes.indiatimes.com/news/international/global-trends/experts-warn-of-potential-pandemic-virus-spreading-across-the-us-check-infectivity-risks-and-more/articleshow/120753120.cms) (The Times of India)
 
 - [Man Who Predicted COVID-19 Raises Alarm Over New Health Threat](https://www.legit.ng/world/1652569-man-predicted-covid-19-raises-alarm-health-threat/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
@@ -151,6 +197,10 @@ Source: [News API](https://newsapi.org/)
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [Barriers and opportunities for community engagement in UAV-based dengue management in rural Malaysia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322321) (Plos.org)
+
+- [Dengue: MSP confirmó nuevo caso autóctono, el quinto en lo que va de 2025](https://www.montevideo.com.uy/Salud/Dengue-MSP-confirmo-nuevo-caso-autoctono-el-quinto-en-lo-que-va-de-2025-uc922272) (Montevideo.com.uy)
 
 - [Bacolod: 1,692 dengue cases with 7 deaths in Negros Occidental](https://rpnradio.com/bacolod-1692-dengue-cases-with-7-deaths-in-negros-occidental/) (Rpnradio.com)
 
@@ -181,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [Chikungunya : pourquoi la vaccination des plus de 65 ans a été arrêtée, alors que l’épidémie atteint son pic](https://www.lemonde.fr/planete/article/2025/04/30/chikungunya-pourquoi-la-vaccination-des-plus-de-65-ans-a-ete-arretee-alors-que-l-epidemie-atteint-son-pic_6602029_3244.html) (Le Monde)
 
 - [La Réunion : La vaccination contre le Chikungunya pose débat](https://www.francetvinfo.fr/france/la-reunion/la-reunion-la-vaccination-contre-le-chikungunya-pose-debat_7217793.html) (Francetvinfo.fr)
 
@@ -3060,10 +3112,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
-- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
-
-- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
-
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3098,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
-- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
-
-- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
-
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3129,8 +3173,6 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3243,10 +3285,6 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
-
-- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
