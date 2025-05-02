@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-05-02 07:07
-- **Most recent article:** 2025-05-01 06:33:57
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-05-02 19:06
+- **Most recent article:** 2025-05-01 18:33:41
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 101 | 77 | 145 | 82 | 107 | 38 | 656 |
-| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 7 | 247 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 8 | 152 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 18 | 140 |
-| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 21 | 140 |
+| measles | 104 | 101 | 77 | 145 | 82 | 107 | 49 | 665 |
+| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 11 | 249 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 9 | 153 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 19 | 141 |
+| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 21 | 138 |
 | mpox | 8 | 12 | 17 | 18 | 10 | 5 | 5 | 75 |
-| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 5 | 57 |
-| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 2 | 40 |
-| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 1 | 28 |
+| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 6 | 58 |
+| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 3 | 41 |
+| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 1 | 27 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 2 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 1 | 12 |
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 - [Donate to Health Crisis in the Amazon](https://giving.classy.org/campaign/667641/donate) (Classy.org)
 
 ## 25-18 (rabies)
+
+- [Health department issues warning after rabid bat found inside home in McHenry County](https://www.lakemchenryscanner.com/2025/05/01/health-department-issues-warning-after-rabid-bat-found-inside-home-in-mchenry-county/) (Lakemchenryscanner.com)
 
 - [日本の狂犬病ワクチン市場は3,225万米ドルから5,320万米ドルへと成長し、年平均成長率4.68％で拡大見込み : 2024年から2033年の予測](https://mag.osdn.jp/pr/25/05/01/090003) (Osdn.jp)
 
@@ -66,6 +68,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (meningitis)
 
+- [Edward Kwach's Family Plans Fundraiser to Give Late Radio Legend Befitting Send-Off](https://www.tuko.co.ke/entertainment/celebrities/587709-edward-kwachs-family-plans-fundraiser-give-late-radio-legend-proper-send-off/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 - [Bexsero Market Epidemiology, Pipeline Analysis, Market Insights & Forecast Report 2025](https://www.globenewswire.com/news-release/2025/04/30/3071512/28124/en/Bexsero-Market-Epidemiology-Pipeline-Analysis-Market-Insights-Forecast-Report-2025.html) (GlobeNewswire)
 
 - [Press Release: When every second counts: Sanofi, McLaren Racing and United Autosports join forces to raise meningitis awareness at Le Mans 24 Hours race](https://www.globenewswire.com/news-release/2025/04/29/3070006/0/en/Press-Release-When-every-second-counts-Sanofi-McLaren-Racing-and-United-Autosports-join-forces-to-raise-meningitis-awareness-at-Le-Mans-24-Hours-race.html) (GlobeNewswire)
@@ -77,6 +81,28 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [‘Diseases know no borders’: Measles spreads with outbreaks in Canada, Mexico and U.S.](https://www.pbs.org/newshour/health/diseases-know-no-borders-measles-spreads-with-outbreaks-in-canada-mexico-and-u-s) (PBS)
+
+- [RFK Jr.'s Bats**t New Conspiracy About 'Fetus Debris' in Jabs Exposed (Janna Brancolini/The Daily Beast)](https://www.memeorandum.com/250501/p95) (Memeorandum.com)
+
+- [Measles jumps borders in North America with outbreaks in Canada, Mexico, U.S.](https://www.thestar.com.my/news/world/2025/05/02/measles-jumps-borders-in-north-america-with-outbreaks-in-canada-mexico-us) (The Star Online)
+
+- [Measles jumps by 65 cases in Elgin and Oxford Counties, totalling above 1,200 across Ontario](https://www.cbc.ca/news/canada/london/measles-jumps-by-65-cases-in-elgin-and-oxford-counties-totalling-above-1-200-across-ontario-1.7523664) (CBC News)
+
+- ['The measles virus in Texas keeps spreading like, well, measles'](https://theweek.com/politics/instant-opinion-measles-drones-vietnam-labor) (The Week Magazine)
+
+- [Ottawa has its 1st confirmed measles cases of the decade](https://www.cbc.ca/news/canada/ottawa/ottawa-measles-costco-food-basics-exposure-1.7523752) (CBC News)
+
+- [RFK Jr. Spreads Misleading Measles Vaccine Claim Amid U.S. Outbreaks](https://www.huffpost.com/entry/rfk-jr-shares-misleading-measles-vaccine-claim_n_68137266e4b03d2b311be78a) (HuffPost)
+
+- [WTF Is RFK Jr. Even Talking About With This New Measles Vaccine Claim?](https://newrepublic.com/post/194661/robert-f-kennedy-jr-measles-vaccine-abortion-conspiracy) (The New Republic)
+
+- [RFK Jr. Leaves NewsNation Panel Speechless With One Brilliant Point on Measles](https://www.thegatewaypundit.com/2025/05/rfk-jr-leaves-newsnation-panel-speechless-one-brilliant/) (Thegatewaypundit.com)
+
+- [Measles jumps borders in North America with outbreaks in Canada, Mexico and US](https://www.seattlepi.com/news/article/measles-jumps-borders-in-north-america-with-20304323.php) (seattlepi.com)
+
+- [Measles vaccine effectiveness](https://flowingdata.com/2025/05/01/measles-vaccine-effectiveness/) (Flowingdata.com)
 
 - [Texas outbreak could upend measles elimination claim by U.S.](http://en.people.cn/n3/2025/0501/c90000-20310018.html) (People.cn)
 
@@ -204,6 +230,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (h5n1)
 
+- [Top doctors warn about bird flu virus spread and pandemic concerns](https://www.today.com/health/news/virus-spreads-pandemic-concerns-bird-flu-rcna204114) (TODAY)
+
+- [Essential facts about the bird flu spreading across America](https://rollingout.com/2025/05/01/facts-about-bird-flu-spreading-america/) (Rolling Out)
+
+- [H5N1 Bird Flu Threat: Experts Sound Alarm Over Potential Pandemic As Infections Spread To All 50 US States](https://www.ibtimes.com/h5n1-bird-flu-threat-experts-sound-alarm-over-potential-pandemic-infections-spread-all-50-us-3772126) (International Business Times)
+
+- [H5N1 Outbreak In The US: Experts Warn Of A Potential Pandemic; Here's How It Spreads](https://www.ndtv.com/health/h5n1-outbreak-in-the-us-experts-warn-of-a-potential-pandemic-heres-how-it-spreads-8303272) (NDTV News)
+
 - [Aviaria: virologi di 40 paesi a Trump, 'c'è il potenziale per una pandemia'](https://www.ilgiornale.it/news/adnkronos/aviaria-virologi-40-paesi-trump-c-potenziale-pandemia-2472828.html) (Ilgiornale.it)
 
 - [Experts warn of potential pandemic virus spreading across the US — check infectivity, risks, and more](https://economictimes.indiatimes.com/news/international/global-trends/experts-warn-of-potential-pandemic-virus-spreading-across-the-us-check-infectivity-risks-and-more/articleshow/120753120.cms) (The Times of India)
@@ -219,6 +253,8 @@ Source: [News API](https://newsapi.org/)
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [Casos de dengue no Brasil caem 59% em relação a 2024, diz levantamento](https://veja.abril.com.br/coluna/radar/casos-de-dengue-no-brasil-caem-59-em-relacao-a-2024-diz-levantamento/) (Abril.com.br)
 
 - [Tonga's Health Ministry confirms deaths of 19yo and seven-month-old from dengue fever](https://www.abc.net.au/pacific/tonga-health-ministry-confirms-two-dengue-deaths/105238278) (ABC News (AU))
 
@@ -257,6 +293,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [Vimkunya vaccine approved to prevent disease caused by the chikungunya virus in people 12 years of age and older](https://www.gov.uk/government/news/vimkunya-vaccine-approved-to-prevent-disease-caused-by-the-chikungunya-virus-in-people-12-years-of-age-and-older) (Www.gov.uk)
 
 - [Chikungunya à La Réunion : toujours « un haut niveau de transmission », mais quelques signes de baisse](https://www.nouvelobs.com/societe/20250430.OBS103404/chikungunya-a-la-reunion-toujours-un-haut-niveau-de-transmission-mais-quelques-signes-de-baisse.html) (L'Obs)
 
@@ -3140,10 +3178,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
-- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
-
-- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
-
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3178,10 +3212,6 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
-- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
-
-- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
-
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3209,8 +3239,6 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3323,10 +3351,6 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
-
-- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
