@@ -1,8 +1,260 @@
 {
-  "last_updated": "2025-05-01 19:05",
-  "count_articles_total": 1532,
-  "count_articles_new": 25,
+  "last_updated": "2025-05-02 07:07",
+  "count_articles_total": 1552,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 20903,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Texas outbreak could upend measles elimination claim by U.S.",
+      "description": "NEW YORK, April 30 (Xinhua) -- The United States declared measles eliminated 25 years ago, but the g",
+      "url": "http://en.people.cn/n3/2025/0501/c90000-20310018.html",
+      "urlToImage": null,
+      "publishedAt": "2025-05-01 06:33:57",
+      "content": "NEW YORK, April 30 (Xinhua) -- The United States declared measles eliminated 25 years ago, but the growing outbreak of the disease centered in West Texas poses a threat to this status and signals the\u2026 [+1008 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.404031",
+      "internal_id": "c207b85ca8b9f764f9071c0cee9d2b4d65315768b665cafcd5b7978246af0c18",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 20899,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "Marky",
+      "title": "When you think you reached the bottom, you find a trapdoor leading down",
+      "description": "RFK Jr. Goes Full Tinfoil, Pledges to Stop Chemtrails in Latest Dr. Phil Interview.RFK Jr. also continued spreading misinformation about vaccine safety, particularly the measles, mumps, and rubella (MMR) vaccine. He repeated the debunked claim that autism i\u2026",
+      "url": "https://www.metafilter.com/208607/When-you-think-you-reached-the-bottom-you-find-a-trapdoor-leading-down",
+      "urlToImage": "https://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+      "publishedAt": "2025-05-01 06:27:34",
+      "content": "MetaFilter is a weblog that anyone can contribute a link or a comment to. A typical weblog is one person posting their thoughts on the unique things they find on the web. This website exists to break\u2026 [+120 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.298968",
+      "internal_id": "a9b0d2252e6c2d1745c35d38783a80cabfa4b792fd64c07780c21a743d869a8a",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 20904,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KXLY Spokane",
+      "author": "Alexandra Coenjaerts",
+      "title": "Health officials warn of potential measles cases in Spokane County as vaccination rates drop",
+      "description": "SPOKANE COUNTY, Wash. -- Spokane health officials worry the county could see measles cases as vaccination rates fall below those in areas already experiencing outbreaks.",
+      "url": "https://www.kxly.com/news/health-officials-warn-of-potential-measles-cases-in-spokane-county-as-vaccination-rates-drop/article_a7a7376b-4e0d-49b9-91b4-2337572aae84.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kxly.com/content/tncms/assets/v3/editorial/4/51/451db9bf-f85b-4784-aec1-dc4a17295a70/6812af2fcd06e.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-01 03:03:04",
+      "content": "SPOKANE COUNTY, Wash. -- Spokane health officials worry the county could see measles cases as vaccination rates fall below those in areas already experiencing outbreaks. Spokane Regional Health Dist\u2026 [+3211 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.418476",
+      "internal_id": "a59d18a9e879587fcee387044e466ac457ff7a55aedc8f7c2b8c3518d9153bf1",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 20909,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Abc Pacific",
+      "title": "Tonga's Health Ministry confirms deaths of 19yo and seven-month-old from dengue fever",
+      "description": "Two people have died of dengue fever in Tonga after an outbreak was declared in February. Other parts of the Pacific are also grappling with the disease.",
+      "url": "https://www.abc.net.au/pacific/tonga-health-ministry-confirms-two-dengue-deaths/105238278",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/24aceddac6e8d2a25e8b73a330038e14?impolicy=wcms_crop_resize&cropH=584&cropW=1039&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-01 02:28:21",
+      "content": "Tonga's Health Minister Dr Ana 'Akau-ola has confirmed a 19-year-old and a seven-month-old have died of dengue fever. The Kingdom declared a dengue outbreak in February. Dr Ana 'Akauola said type t\u2026 [+2326 chars]",
+      "retrievedAt": "2025-05-02 07:07:23.553619",
+      "internal_id": "0cd6a7310d0fc70a83db8c38fcb0069dfff43137d446a9308b17e48a1d8d8e09",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 20898,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Osdn.jp",
+      "author": "\u30c9\u30ea\u30fc\u30e0\u30cb\u30e5\u30fc\u30b9",
+      "title": "\u65e5\u672c\u306e\u72c2\u72ac\u75c5\u30ef\u30af\u30c1\u30f3\u5e02\u5834\u306f3,225\u4e07\u7c73\u30c9\u30eb\u304b\u30895,320\u4e07\u7c73\u30c9\u30eb\u3078\u3068\u6210\u9577\u3057\u3001\u5e74\u5e73\u5747\u6210\u9577\u73874.68\uff05\u3067\u62e1\u5927\u898b\u8fbc\u307f : 2024\u5e74\u304b\u30892033\u5e74\u306e\u4e88\u6e2c",
+      "description": "\u65e5\u672c\u306e\u72c2\u72ac\u75c5\u30ef\u30af\u30c1\u30f3\u5e02\u5834\u306f\u30012024\u5e74\u304b\u30892033\u5e74\u307e\u3067\u306b3225\u4e07\u7c73\u30c9\u30eb\u304b\u30895320\u4e07\u7c73\u30c9\u30eb\u306b\u9054\u3059\u308b\u3068\u4e88\u6e2c\u3055\u308c\u3066\u304a\u308a\u30012025\u5e74\u304b\u30892033\u5e74\u306e\u4e88\u6e2c\u671f\u9593\u306b\u304b\u3051\u3066\u5e74\u5e73\u5747\u6210\u9577\u7387\u304c 4.68\uff05\u3067\u6210\u9577\u3059\u308b\u3068\u898b\u8fbc\u307e\u308c\u3066\u3044\u307e\u3059\u3002 \u72c2\u72ac\u75c5\u30ef\u30af\u30c1\u30f3\u306f\u3001\u72c2\u72ac\u75c5\u30a6\u30a4\u30eb\u30b9\u306b\u66dd\u9732\u3055\u308c\u305f\u4eba\u3084\u66dd\u9732\u306e\u30ea\u30b9\u30af\u304c\u9ad8\u3044\u3068\u8003\u3048\u3089\u308c\u308b\u4eba\u3005\u306b\u5bfe\u3057\u3066\u3001\u72c2\u72ac\u75c5\u611f\u67d3\u3092\u4e88\u9632\u3059\u308b\u305f\u3081\u306e\u6ce8\u5c04\u3067\u3059\u3002\u30d7\u30ec\u30b9\u30ea\u30ea\u30fc\u30b9",
+      "url": "https://mag.osdn.jp/pr/25/05/01/090003",
+      "urlToImage": "https://www.dreamnews.jp/press/0000319910/images/bodyimage1",
+      "publishedAt": "2025-05-01 00:00:00",
+      "content": "202420333225532020252033CAGR 4.68 @https://www.panoramadatainsights.jp/request-sample/japan-rabies-vaccine-market Vero Bharat Biotech International LimitedVirbac S.A.SanofiBoehringer Ingelheim In\u2026 [+420 chars]",
+      "retrievedAt": "2025-05-02 07:07:21.736029",
+      "internal_id": "ab83654a06b85efa51b5f49cb8ddf7037244f9e8b8cbfca1fe3af4d8cf3e0dea",
+      "publishedAtLabel": "May 1"
+    },
+    {
+      "id": 20900,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health teams scramble to contain spread of measles in central and southern Alberta",
+      "description": "Calling the measles outbreaks \"concerning,\" the medical officer of health for central Alberta says a flurry of work is going on behind the scenes to rein in cases and prevent deaths.",
+      "url": "https://www.cbc.ca/news/canada/calgary/central-southern-alberta-measles-teams-contain-spread-1.7522855",
+      "urlToImage": "https://i.cbc.ca/1.4815344.1746051033!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-vaccination.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-30 22:46:28",
+      "content": "Calling the measles outbreaks \"concerning,\" the medical officer of health for central Alberta says a flurry of work is going on behind the scenes to rein in cases and prevent deaths. As of midday We\u2026 [+7262 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.346732",
+      "internal_id": "f813ee1ee96030cdebcf7abd91bd848c467be897c7ab069dd6f185514f21b4b9",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20907,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc7 Chicago Digital Team",
+      "title": "Health officials report first measles cases in Cook County this year, including 1 in Chicago",
+      "description": "The Chicago Department of Public Health and Cook County Department of Public Health have identified the first two cases of measles in Cook County this year, the agencies said Wednesday evening.",
+      "url": "https://abc7chicago.com/post/2025-illinois-measles-cases-health-officials-report-first-cook-county-year-including-1-chicago/16288341/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16288523_AP25099777426571.jpg?w=1600",
+      "publishedAt": "2025-04-30 22:24:11",
+      "content": "CHICAGO (WLS) -- The Chicago Department of Public Health and Cook County Department of Public Health have identified the first two cases of measles in Cook County this year, the agencies said Wednesd\u2026 [+4722 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.461911",
+      "internal_id": "53e7d84cd5dca4b115daf3e40f9a2d908e740e80f292b159330b3e34189637bc",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20905,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Devi Shastri And Megan Janetsky",
+      "title": "Measles jumps borders in North America with outbreaks in Canada, Mexico and US",
+      "description": "North America\u2019s three biggest measles outbreaks have grown to a total of more than 2,500 known cases.",
+      "url": "https://www.news4jax.com/news/2025/04/30/measles-jumps-borders-in-north-america-with-outbreaks-in-canada-mexico-and-us/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C4VTR5RBT5CUPF4Y24PO52JVJU.jpg?_a=DATAdtccZAA0",
+      "publishedAt": "2025-04-30 22:06:04",
+      "content": "Dr. Hector Ocaranza knew El Paso would see measles the moment it began spreading in West Texas and eastern New Mexico. Highways connect his border city with the epicenter of Texas' massive outbreak,\u2026 [+5113 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.427006",
+      "internal_id": "64895839cdcfd7d8f6075bc964d31692c314d1e9c334656f4470c42dc9d3dab0",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20906,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "S.e. Jenkins",
+      "title": "Denton County warns of potential measles exposure with county's first reported diagnosis",
+      "description": "Denton County warns of potential measles exposure with county's first reported diagnosiscbsnews.com",
+      "url": "https://www.cbsnews.com/texas/news/denton-county-measles/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/28/2ee55cd4-f0da-4ef6-8f75-5cb23cbbf182/thumbnail/1200x630g2/523c3a8542959b3ad70a24af08b926ab/ap25058597447123.jpg?v=5bc79e41160fef925ca37e685496f706",
+      "publishedAt": "2025-04-30 22:03:22",
+      "content": "A Denton County adult has been diagnosed with the measles, the county's Public Health department announced Wednesday. It's the county's first reported case. The county said the person's vaccination \u2026 [+3490 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.447656",
+      "internal_id": "0a61790293bbe4a4357525b42be1c6815f6f6d0f145a0eb37c17b9289bd361e5",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20902,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Steven Ardary",
+      "title": "Denton County reports first measles case; infected person attended Rangers game",
+      "description": "According to Denton County Public Health the person visited several locations between April 19-22.",
+      "url": "https://www.fox4news.com/news/denton-county-reports-first-measles-case",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2025/02/1280/720/gettyimages-930111236.jpg?ve=1&tl=1",
+      "publishedAt": "2025-04-30 21:49:55",
+      "content": "DENTON COUNTY, Texas - Health officials in Denton County reported the first case of measles in the county on Wednesday. What we know: Denton County Public Health said the person is an adult with an\u2026 [+5665 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.396452",
+      "internal_id": "24f0b435babe6a087feaee6145104695a35621f16af6871a11de15619cf327e4",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20908,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "vanessa.campuzano",
+      "title": "Casos de dengue en M\u00e9xico superan los 3 mil; reportan 18 muertes",
+      "description": "Patricia Rodr\u00edguez Calva Los casos de dengue en M\u00e9xico aumentaron a 3 mil 102, los cuales, est\u00e1n distribuidos en 27 estados del pa\u00eds, informaron autoridades de salud las cuales tambi\u00e9n confirmaron 18 muertes por esta enfermedad. En su informe, la Secretar\u00ed\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/casos-dengue-mexico-aumentan-registran-18-muertes/1713471",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/30/3299768.jpg",
+      "publishedAt": "2025-04-30 21:05:16",
+      "content": "Los casos de dengue en M\u00e9xico aumentaron a 3 mil 102, los cuales, est\u00e1n distribuidos en 27 estados del pa\u00eds, informaron autoridades de salud las cuales tambi\u00e9n confirmaron 18 muertes por esta enferme\u2026 [+1620 chars]",
+      "retrievedAt": "2025-05-02 07:07:23.464202",
+      "internal_id": "229d4aaa436dc48f2010ab90bb2b1794e5ca6e1b18c8eb69cf32189302646b2a",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20897,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Bangor Daily News",
+      "author": "Marie Weidmayer",
+      "title": "Hermon school reports whooping cough case as infections soar nationwide",
+      "description": "Pertussis infections are on the rise, with more than 10,000 yearly cases, according to the U.S. CDC.",
+      "url": "http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/",
+      "urlToImage": "https://bdn-data.s3.amazonaws.com/uploads/2025/04/HermonGrowth-E-LCO-2.jpg",
+      "publishedAt": "2025-04-30 20:35:49",
+      "content": "A case of whooping cough has been confirmed at a Hermon-area school this week. The highly contagious bacterial infection was reported within one of the Hermon schools, according to a Tuesday letter \u2026 [+2346 chars]",
+      "retrievedAt": "2025-05-02 07:07:21.199081",
+      "internal_id": "38f04eb2d80564160a52efc1b4def1c74f05347fe7049fcccd51ac2acd7393fe",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20901,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Xia Lin",
+      "title": "Texas outbreak could upend measles elimination claim by U.S.",
+      "description": "NEW YORK, April 30 (Xinhua) -- The United States declared measles eliminated 25 years ago, but the growing outbreak of the disease centered in West Texas poses a threat to this status and signals the possibility of measles becoming more common, reported The W\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/05/01/texas-outbreak-could-upend-measles-elimination-claim-by-us",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-04-30 19:35:00",
+      "content": "NEW YORK, April 30 (Xinhua) -- The United States declared measles eliminated 25 years ago, but the growing outbreak of the disease centered in West Texas poses a threat to this status and signals the\u2026 [+975 chars]",
+      "retrievedAt": "2025-05-02 07:07:22.374675",
+      "internal_id": "8db6ae3638ac2068a78b19a3c7730a3beecc87cbbde7116885024334cdde1fc0",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 20910,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Le Nouvel Obs avec AFP",
+      "title": "Chikungunya \u00e0 La R\u00e9union : toujours \u00ab un haut niveau de transmission \u00bb, mais quelques signes de baisse",
+      "description": "En m\u00e9decine de ville, \u00e0 La R\u00e9union, il y a eu plus de 23 300 consultations li\u00e9es au chikungunya entre le 21 au 27 avril dernier selon Sant\u00e9 publique France mercredi.",
+      "url": "https://www.nouvelobs.com/societe/20250430.OBS103404/chikungunya-a-la-reunion-toujours-un-haut-niveau-de-transmission-mais-quelques-signes-de-baisse.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/04/30/0/0/8256/5504/1200/800/0/0/a003aab_sirius-fs-upload-1-mzhgaudxiwku-1746039252707-sipa-01210184-000033.jpg",
+      "publishedAt": "2025-04-30 19:10:25",
+      "content": "Par Le Nouvel Obs avec AFP Publi\u00e9 le 30 avril 2025 \u00e0 21h10 Un militaire en op\u00e9ration contre les moustiques \u00e0 La R\u00e9union, le 22 avril 2025. JEANNE ACCORSINI/SIPA Lire plus tard Commenter Goog\u2026 [+3732 chars]",
+      "retrievedAt": "2025-05-02 07:07:25.465912",
+      "internal_id": "d2683c597e978997b4210e502bb560f0cee22aecfd991e30b8465b04de9644bf",
+      "publishedAtLabel": "Apr 30"
+    },
     {
       "id": 20876,
       "query": [
@@ -27624,6 +27876,115 @@
       "content": "HOUSTON - A measles case in a Houston infant has been confirmed as the third case of measles in the city, according to the Houston Health Department. Houston infant measles case What we know: Acco\u2026 [+2081 chars]",
       "retrievedAt": "2025-03-19 07:07:04.309538",
       "internal_id": "559b155b448b6ff76f3153f49fe7933624e81eda1244d127cdcc67e71d1bcf65",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19348,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Cat owners beware as pet food with bird flu risk is recalled",
+      "description": "Cat owners are warned of more pet food recalls, as Savage Pet of California says some of its products could contain H5N1 (bird flu). The FDA and New York Department of Health share key information.",
+      "url": "https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/boy-carrying-cat.jpg",
+      "publishedAt": "2025-03-16 16:37:05",
+      "content": "Cat owners have been alerted to a potential health threat. Savage Pet of El Cajon, California, is recalling 66 large chicken boxes (84 oz.) and 74 small chicken boxes (21 oz.) with the lot code/\"bes\u2026 [+4584 chars]",
+      "retrievedAt": "2025-03-17 19:05:55.008662",
+      "internal_id": "6e8a4ec313bcecc65a72c24ef4a64ce9db196b9edfb3661d2014aabb43702320",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis",
+      "description": "Forbes M\u00e9xico. Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis La inmunizaci\u00f3n de los ping\u00fcinos contra esta grave enfermedad f\u00fangica se hizo a trav\u00e9s del fortalecimiento de sus bacterias del intestino introduciendo u\u2026",
+      "url": "https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/",
+      "urlToImage": "https://cdn.forbes.com.mx/2019/04/s3.reutersmedia.jpg",
+      "publishedAt": "2025-03-16 14:28:00",
+      "content": "Un equipo de cient\u00edficos encontr\u00f3 en Francia una posible pista para combatir la malaria o la leishmaniosis en seres humanos gracias al estudio de la microbiota de los ping\u00fcinos, conocida en detalle t\u2026 [+3096 chars]",
+      "retrievedAt": "2025-03-17 19:05:55.917162",
+      "internal_id": "ee952ae6e7b7573190fddc61f2dcf197c9756c5a8ae80cd4adc5daed76093007",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19419,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Samantha Sayles",
+      "title": "What to know about measles as first case of 2025 confirmed in Oakland County",
+      "description": "Michigan\u2019s first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced.",
+      "url": "https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6GUZ5DYYVBTHC3KFQCFAGQR4I.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-03-16 12:47:06",
+      "content": "OAKLAND COUNTY, Mich. Michigans first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced. The countys health officer, Kate Guzman, RN, s\u2026 [+3011 chars]",
+      "retrievedAt": "2025-03-19 07:07:04.351140",
+      "internal_id": "749ec33a8f4194f7e35c2490731f7eed883b799dfffca15023e62de595c88c41",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19347,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "Alarma en la Ant\u00e1rtida: Confirman un brote masivo de gripe aviar en varias especies",
+      "description": "Una expedici\u00f3n cient\u00edfica espa\u00f1ola ha confirmado la presencia del virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) en la Ant\u00e1rtida. El brote ha sido detectado en 13 especies diferentes y en 24 puntos de la regi\u00f3n, lo que marca un precedente alarmante \u2026",
+      "url": "https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/03/gripe-aviar.jpg",
+      "publishedAt": "2025-03-16 11:29:44",
+      "content": "La expedici\u00f3n CSIC-Unespa llev\u00f3 a cabo un estudio entre enero y febrero, generando el informe m\u00e1s completo hasta la fecha sobre la gripe aviar en la Ant\u00e1rtida. Los investigadores identificaron 188 ca\u2026 [+2815 chars]",
+      "retrievedAt": "2025-03-17 19:05:54.523755",
+      "internal_id": "52a74a44fa3e844abf031688bd77dafc1a464949c89910eaef0d51915256aced",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19353,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "",
+      "title": "Recap: What made news last week across Virginia",
+      "description": "IN THE NEWS",
+      "url": "https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/3b/e3ba212e-ff71-11ef-afa0-071d975426c2/67d33683df5c8.preview.jpg?crop=1758%2C923%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-03-16 11:00:00",
+      "content": "Possible measles exposure at Dulles Airport A person with a case of measles arrived at Washington Dulles International Airport in Northern Virginia last week, potentially exposing others, the state\u2026 [+11070 chars]",
+      "retrievedAt": "2025-03-18 07:07:09.586966",
+      "internal_id": "db05da6a81fe2de27aeb3360837d8725628dcbccb9bb8523aea66ac9d3449a88",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19350,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor",
+      "description": "Sie sind verlassen und oftmals mit einem gewissen Grusel verbunden: Geisterinseln. Einige von ihnen dienten als Gef\u00e4ngnis, andere zur Isolation von Pestkranken. Und eine von ihnen war einmal der dichtbesiedeltste Flecken der Erde. ntv.de stellt zehn Lost Plac\u2026",
+      "url": "https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25570971/1181322630-cImg_16_9-w1200/imago598760374.jpg",
+      "publishedAt": "2025-03-16 09:45:30",
+      "content": "W\u00e4hrend sich die W\u00e4rter auf Tennispl\u00e4tzen und in Pools vergn\u00fcgen konnten, litten die Gefangenen unter Mangelern\u00e4hrung, Malaria, Ruhr und Cholera. Zudem wurden medizinische Experimente an ihnen durchg\u2026 [+6 chars]",
+      "retrievedAt": "2025-03-17 19:05:55.945568",
+      "internal_id": "4838ae9f3bbca6cc47ead8f946735f85c011b599be8cf5eab2c063ee6c57cb5a",
       "publishedAtLabel": "Mar 16"
     }
   ]

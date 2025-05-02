@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-05-01 19:05
-- **Most recent article:** 2025-04-30 18:53:46
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-05-02 07:07
+- **Most recent article:** 2025-05-01 06:33:57
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 104 | 101 | 77 | 145 | 82 | 107 | 29 | 645 |
-| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 7 | 245 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 7 | 151 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 16 | 138 |
-| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 21 | 138 |
+| measles | 106 | 101 | 77 | 145 | 82 | 107 | 38 | 656 |
+| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 7 | 247 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 8 | 152 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 18 | 140 |
+| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 21 | 140 |
 | mpox | 8 | 12 | 17 | 18 | 10 | 5 | 5 | 75 |
 | meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 5 | 57 |
-| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 1 | 39 |
-| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 1 | 27 |
+| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 2 | 40 |
+| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 1 | 28 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
-| pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 1 | 19 |
+| pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 2 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 1 | 12 |
 | yersinia | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 5 |
 | leptospirosis | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 2 |
@@ -42,9 +42,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (rabies)
 
+- [日本の狂犬病ワクチン市場は3,225万米ドルから5,320万米ドルへと成長し、年平均成長率4.68％で拡大見込み : 2024年から2033年の予測](https://mag.osdn.jp/pr/25/05/01/090003) (Osdn.jp)
+
 - [Pynlong ka tnad Veterinary da ka jingai injek iada na jingpang Rabies ha Jorbil Kiling](https://www.syllad.com/pynlong-ka-tnad-veterinary-da-ka-jingai-injek-iada-na-jingpang-rabies-ha-jorbil-kiling/) (Syllad.com)
 
 ## 25-18 (pertussis)
+
+- [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
 - [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
 
@@ -73,6 +77,24 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [Texas outbreak could upend measles elimination claim by U.S.](http://en.people.cn/n3/2025/0501/c90000-20310018.html) (People.cn)
+
+- [When you think you reached the bottom, you find a trapdoor leading down](https://www.metafilter.com/208607/When-you-think-you-reached-the-bottom-you-find-a-trapdoor-leading-down) (Metafilter.com)
+
+- [Health officials warn of potential measles cases in Spokane County as vaccination rates drop](https://www.kxly.com/news/health-officials-warn-of-potential-measles-cases-in-spokane-county-as-vaccination-rates-drop/article_a7a7376b-4e0d-49b9-91b4-2337572aae84.html) (KXLY Spokane)
+
+- [Health teams scramble to contain spread of measles in central and southern Alberta](https://www.cbc.ca/news/canada/calgary/central-southern-alberta-measles-teams-contain-spread-1.7522855) (CBC News)
+
+- [Health officials report first measles cases in Cook County this year, including 1 in Chicago](https://abc7chicago.com/post/2025-illinois-measles-cases-health-officials-report-first-cook-county-year-including-1-chicago/16288341/) (WLS-TV)
+
+- [Measles jumps borders in North America with outbreaks in Canada, Mexico and US](https://www.news4jax.com/news/2025/04/30/measles-jumps-borders-in-north-america-with-outbreaks-in-canada-mexico-and-us/) (WJXT News4JAX)
+
+- [Denton County warns of potential measles exposure with county's first reported diagnosis](https://www.cbsnews.com/texas/news/denton-county-measles/) (CBS News)
+
+- [Denton County reports first measles case; infected person attended Rangers game](https://www.fox4news.com/news/denton-county-reports-first-measles-case) (FOX 4 News)
+
+- [Texas outbreak could upend measles elimination claim by U.S.](https://www.thestar.com.my/news/world/2025/05/01/texas-outbreak-could-upend-measles-elimination-claim-by-us) (The Star Online)
 
 - [America’s response to measles is eroding its ability to deter biological attacks](https://www.defenseone.com/ideas/2025/04/americas-response-measles-eroding-its-ability-deter-biological-attacks/404953/) (Defense One)
 
@@ -198,6 +220,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (dengue)
 
+- [Tonga's Health Ministry confirms deaths of 19yo and seven-month-old from dengue fever](https://www.abc.net.au/pacific/tonga-health-ministry-confirms-two-dengue-deaths/105238278) (ABC News (AU))
+
+- [Casos de dengue en México superan los 3 mil; reportan 18 muertes](https://www.excelsior.com.mx/nacional/casos-dengue-mexico-aumentan-registran-18-muertes/1713471) (Excelsior.com.mx)
+
 - [Barriers and opportunities for community engagement in UAV-based dengue management in rural Malaysia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322321) (Plos.org)
 
 - [Dengue: MSP confirmó nuevo caso autóctono, el quinto en lo que va de 2025](https://www.montevideo.com.uy/Salud/Dengue-MSP-confirmo-nuevo-caso-autoctono-el-quinto-en-lo-que-va-de-2025-uc922272) (Montevideo.com.uy)
@@ -231,6 +257,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [Chikungunya à La Réunion : toujours « un haut niveau de transmission », mais quelques signes de baisse](https://www.nouvelobs.com/societe/20250430.OBS103404/chikungunya-a-la-reunion-toujours-un-haut-niveau-de-transmission-mais-quelques-signes-de-baisse.html) (L'Obs)
 
 - [Chikungunya : pourquoi la vaccination des plus de 65 ans a été arrêtée, alors que l’épidémie atteint son pic](https://www.lemonde.fr/planete/article/2025/04/30/chikungunya-pourquoi-la-vaccination-des-plus-de-65-ans-a-ete-arretee-alors-que-l-epidemie-atteint-son-pic_6602029_3244.html) (Le Monde)
 
@@ -3112,6 +3140,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
+
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3146,6 +3178,10 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3173,6 +3209,8 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3285,6 +3323,10 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
