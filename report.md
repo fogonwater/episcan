@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-05-03 07:06
-- **Most recent article:** 2025-05-02 06:30:00
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-05-03 19:05
+- **Most recent article:** 2025-05-02 18:52:16
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 101 | 77 | 145 | 82 | 107 | 57 | 675 |
-| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 12 | 252 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 11 | 155 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 20 | 142 |
-| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 21 | 140 |
-| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 6 | 76 |
+| measles | 104 | 101 | 77 | 145 | 82 | 107 | 64 | 680 |
+| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 15 | 253 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 14 | 158 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 24 | 146 |
+| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 22 | 139 |
+| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 11 | 81 |
 | meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 7 | 59 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 3 | 41 |
-| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 1 | 28 |
-| zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
-| pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 2 | 20 |
-| typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 1 | 12 |
+| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 2 | 28 |
+| zika | 2 | 3 | 4 | 7 | 7 | 2 | 2 | 27 |
+| pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 3 | 21 |
+| typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 2 | 13 |
 | yersinia | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 5 |
-| leptospirosis | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 2 |
+| leptospirosis | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,9 +34,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (zika)
 
+- [Dengue, Zika Virus e Chikungunya – 700 casi nel 2024 in Italia. Bassetti: “Sindaci facciano disinfestazioni ora”](https://www.ilfattoquotidiano.it/2025/05/02/dengue-zika-virus-e-chikungunya-700-casi-nel-2024-in-italia-bassetti-sindaci-facciano-disinfestazioni-ora/7972595/) (Ilfattoquotidiano.it)
+
 - [Mara Gabrilli trabalha por pensão para crianças afetadas pelo Zika Vírus](https://www.terra.com.br/vida-e-estilo/mara-gabrilli-trabalha-por-pensao-para-criancas-afetadas-pelo-zika-virus,49ade4c8cdc23419fd6565c780e56579k2g87cp1.html) (Terra.com.br)
 
 ## 25-18 (typhoid)
+
+- [Evasion of serum antibodies and complement by Salmonella Typhi and Paratyphi A](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012917) (Plos.org)
 
 - [Donate to Health Crisis in the Amazon](https://giving.classy.org/campaign/667641/donate) (Classy.org)
 
@@ -50,11 +54,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (pertussis)
 
+- [Pertussis vaccination during pregnancy found to increase quantity and quality of antibodies protecting the baby](https://medicalxpress.com/news/2025-05-pertussis-vaccination-pregnancy-quantity-quality.html) (Medical Xpress)
+
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
 - [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
 
 ## 25-18 (mpox)
+
+- [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
+
+- [Urteil im Prozess um Mpox-Erkrankung: Drei Wochen Zwangs-Quarantäne waren zu lang](https://www.sueddeutsche.de/muenchen/muenchen-mpox-quarantaene-gesundheitsreferat-urteil-li.3244227) (Süddeutsche Zeitung)
+
+- [Sierra Leone faces rise in mpox cases](https://www.channelnewsasia.com/world/mpox-surge-sierra-leone-africa-public-health-emergency-5105006) (CNA)
+
+- [Plus de 1 100 cas de mpox recensés en Sierra Leone et neuf décès, selon les autorités](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/plus-de-1-100-cas-de-mpox-recenses-en-sierra-leone-et-neuf-deces-selon-les-autorites_7223745.html) (Francetvinfo.fr)
+
+- [Virus-Erkrankung: War die Mpox-Zwangsquarantäne rechtens?](https://www.sueddeutsche.de/muenchen/muenchen-mpox-quarantaene-gesundheitsreferat-gericht-li.3244227) (Süddeutsche Zeitung)
 
 - [Diagnostic Accuracy of 3 Mpox Lateral Flow Assays for Antigen Detection, Democratic Republic of the Congo and United Kingdom](https://wwwnc.cdc.gov/eid/article/31/6/25-0166_article) (Cdc.gov)
 
@@ -85,6 +101,20 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [Texas Measles Outbreak Widens](https://politicalwire.com/2025/05/02/texas-measles-outbreak-widens/) (Politicalwire.com)
+
+- [Measles cases in Texas rise to 683, state health department says (Sriparna Roy/Reuters)](https://www.memeorandum.com/250502/p98) (Memeorandum.com)
+
+- [Over 900 measles cases reported in U.S. so far in 2025](https://www.thestar.com.my/news/world/2025/05/03/over-900-measles-cases-reported-in-us-so-far-in-2025) (The Star Online)
+
+- [10 Things You Didn’t Know About Measles](https://www.psychologytoday.com/us/blog/heal-the-mind-to-heal-the-body/202504/10-things-you-didnt-know-about-measles) (Psychology Today)
+
+- [Measles Updates: U.S. Cases Near 950](https://www.forbes.com/sites/antoniopequenoiv/2025/05/02/measles-updates-us-cases-near-900-as-illness-spreads-to-17-more-in-texas/) (Forbes)
+
+- [Possible measles exposure at Gatineau farm](https://www.cbc.ca/news/canada/ottawa/possible-measles-exposure-at-gatineau-farm-1.7524862) (CBC News)
+
+- [Number of measles cases 50 times higher last year than in 2023, data shows](https://www.irishtimes.com/health/2025/05/02/number-of-measles-cases-50-times-higher-last-year-than-in-2023-data-shows/) (The Irish Times)
 
 - [RFK Jr. asks CDC for new measles treatment guidance amid his unfounded claims (Alexander Tin/CBS News)](https://www.memeorandum.com/250502/p4) (Memeorandum.com)
 
@@ -202,6 +232,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (malaria)
 
+- [Severity and associated factors of anaemia among rifampicin/multi-drug-resistant tuberculosis patients treated in Alert and St. Peters specialised hospitals, Addis Ababa, Ethiopia: a retrospective cross-sectional study](https://bmjopen.bmj.com/content/15/5/e091111) (The BMJ)
+
 - [Die EBC Financial Group bekräftigt ihr Engagement für die Initiative „United to Beat Malaria“ mit einer erneuerten globalen Partnerschaft und dem ersten Sponsoring eines 5-km-Laufs](https://www.globenewswire.com/news-release/2025/04/30/3071067/0/de/Die-EBC-Financial-Group-bekr%C3%A4ftigt-ihr-Engagement-f%C3%BCr-die-Initiative-United-to-Beat-Malaria-mit-einer-erneuerten-globalen-Partnerschaft-und-dem-ersten-Sponsoring-eines-5-km-Laufs.html) (GlobeNewswire)
 
 - [EBC Financial Group Mengukuhkan Komitmen kepada United to Beat Malaria dengan Perkongsian Global yang Diperbaharui dan Penajaan Larian 5K Pertama](https://www.globenewswire.com/news-release/2025/04/30/3071066/0/ms/EBC-Financial-Group-Mengukuhkan-Komitmen-kepada-United-to-Beat-Malaria-dengan-Perkongsian-Global-yang-Diperbaharui-dan-Penajaan-Larian-5K-Pertama.html) (GlobeNewswire)
@@ -244,11 +276,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Zero malaria deaths in Nagaland in past 6 years](https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years) (Thehillstimes.in)
 
+## 25-18 (leptospirosis)
+
+- [Primeras pruebas apuntan a la leptospirosis como causa de la muerte de niños en Taisha](https://www.elmercurio.com.ec/amazonia/2025/05/02/leptospirosis-ninos-muerte-taisha/) (Elmercurio.com.ec)
+
 ## 25-18 (hpai)
+
+- [MRiRW: Pryszczycy w Polsce nie ma, nowe ognisko ptasiej grypy](https://www.bankier.pl/wiadomosc/MRiRW-Pryszczycy-w-Polsce-nie-ma-nowe-ognisko-ptasiej-grypy-8935105.html) (Bankier.pl)
 
 - [Helport AI Congratulates Brand Ambassador Ben Griffin on First PGA TOUR Victory at Zurich Classic](https://www.globenewswire.com/news-release/2025/04/29/3070227/0/en/Helport-AI-Congratulates-Brand-Ambassador-Ben-Griffin-on-First-PGA-TOUR-Victory-at-Zurich-Classic.html) (GlobeNewswire)
 
 ## 25-18 (h5n1)
+
+- [H5N1 virus in US sparks global health crisis: Know its symptoms, mode of transmission, vaccine](https://economictimes.indiatimes.com/news/international/global-trends/h5n1-virus-in-us-sparks-global-health-crisis-know-its-symptoms-mode-of-transmission-vaccine/articleshow/120829814.cms) (The Times of India)
+
+- [Fresh Pandemic in US? New virus spreads in all 50 states amid ‘human transmission’ concerns](https://economictimes.indiatimes.com/news/international/global-trends/fresh-pandemic-in-us-new-virus-spreads-in-all-50-states-amid-human-transmission-concerns-h5n1-avian-influenza-virus/articleshow/120828534.cms) (The Times of India)
+
+- [Bird Flu: Emergence, Dangers, and Preventive Measures](https://nutritionfacts.org/blog/bird-flu-emergence-dangers-and-preventive-measures/) (Nutritionfacts.org)
 
 - [Avian Influenza A(H5N1) Isolated from Dairy Farm Worker, Michigan](https://wwwnc.cdc.gov/eid/article/31/6/25-0386_article) (Cdc.gov)
 
@@ -275,6 +319,14 @@ Source: [News API](https://newsapi.org/)
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [Dengue, Zika Virus e Chikungunya – 700 casi nel 2024 in Italia. Bassetti: “Sindaci facciano disinfestazioni ora”](https://www.ilfattoquotidiano.it/2025/05/02/dengue-zika-virus-e-chikungunya-700-casi-nel-2024-in-italia-bassetti-sindaci-facciano-disinfestazioni-ora/7972595/) (Ilfattoquotidiano.it)
+
+- [Dengue, in Italia quasi 700 casi in 2024. Torna allarme zanzare, Bassetti: "Momento di agire"](https://www.ilgiornale.it/news/adnkronos/dengue-italia-quasi-700-casi-2024-torna-allarme-zanzare-2473566.html) (Ilgiornale.it)
+
+- [What would a world without mosquitoes look like?](https://www.popsci.com/environment/a-world-without-mosquitos/) (Popular Science)
+
+- [Dengue-Fieber: Das solltet ihr wissen](https://www.urlaubspiraten.de/reise-journal/dengue-fieber) (Urlaubspiraten.de)
 
 - [Critical Analysis of Advanced Nanosensors for Dengue Detection](https://pubs.rsc.org/en/content/articlelanding/2025/ay/d4ay02241f) (Royal Society of Chemistry)
 
@@ -317,6 +369,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [Dengue, Zika Virus e Chikungunya – 700 casi nel 2024 in Italia. Bassetti: “Sindaci facciano disinfestazioni ora”](https://www.ilfattoquotidiano.it/2025/05/02/dengue-zika-virus-e-chikungunya-700-casi-nel-2024-in-italia-bassetti-sindaci-facciano-disinfestazioni-ora/7972595/) (Ilfattoquotidiano.it)
+
+- [What would a world without mosquitoes look like?](https://www.popsci.com/environment/a-world-without-mosquitos/) (Popular Science)
+
+- [Chikungunya : ce que l’on sait du vaccin et des effets indésirables graves qui ont touché trois Réunionnais](https://www.futura-sciences.com/sante/actualites/moustique-chikungunya-ce-on-sait-vaccin-effets-indesirables-graves-ont-touche-trois-reunionnais-121668/) (Futura)
 
 - [Bavarian Nordic Receives Marketing Authorization for Chikungunya Vaccine for Persons Aged 12 and Older in the United Kingdom](https://www.globenewswire.com/news-release/2025/05/02/3073028/0/en/Bavarian-Nordic-Receives-Marketing-Authorization-for-Chikungunya-Vaccine-for-Persons-Aged-12-and-Older-in-the-United-Kingdom.html) (GlobeNewswire)
 
@@ -3206,10 +3264,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
-- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
-
-- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
-
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3244,10 +3298,6 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
-- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
-
-- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
-
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3275,8 +3325,6 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3389,10 +3437,6 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
-
-- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 

@@ -1,8 +1,461 @@
 {
-  "last_updated": "2025-05-03 07:06",
-  "count_articles_total": 1585,
-  "count_articles_new": 14,
+  "last_updated": "2025-05-03 19:05",
+  "count_articles_total": 1604,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 20947,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Texas Measles Outbreak Widens",
+      "description": "\u201cThe measles outbreak centered in northwest Texas grew to 683 cases and spread to three new counties on Friday,\u201d the Houston Chronicle reports.",
+      "url": "https://politicalwire.com/2025/05/02/texas-measles-outbreak-widens/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-05-02 18:52:16",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.456724",
+      "internal_id": "56df732917687e5560fdf8d0f82bc36605bef45a0c85740cf4ede9a738dcfa31",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20948,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles cases in Texas rise to 683, state health department says (Sriparna Roy/Reuters)",
+      "description": "Sriparna Roy / Reuters: Measles cases in Texas rise to 683, state health department says \u2014 The Texas health department reported 683 cases of measles in the state on Friday, an increase of 20 since April 29, as cases of the childhood disease surpass the 900-\u2026",
+      "url": "https://www.memeorandum.com/250502/p98",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XDKKZBM27BKGZD4J3KXB3XL6MI.jpg?auth=4b652bd21c96087d4a124c3886e91b8e96cbc469a85df497448a5676a7c0517b&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2025-05-02 18:50:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.472454",
+      "internal_id": "7fc039ef52cf1f4249a723af53eedbb8737d0df93e07a117dc5d24b00d0cad90",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20951,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "Over 900 measles cases reported in U.S. so far in 2025",
+      "description": "LOS ANGELES, May 2 (Xinhua) -- The United States is experiencing a sharp resurgence of measles, with 935 confirmed cases reported so far this year - more than triple the total for all of 2024, according to the latest data released by the U.S. Centers for Dise\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/05/03/over-900-measles-cases-reported-in-us-so-far-in-2025",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-02 18:22:00",
+      "content": "LOS ANGELES, May 2 (Xinhua) -- The United States is experiencing a sharp resurgence of measles, with 935 confirmed cases reported so far this year - more than triple the total for all of 2024, accord\u2026 [+680 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.591330",
+      "internal_id": "11dea014a186ee4b5bd2499acf034a9c1b574da4bc2a7bc162516300d856f4cf",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20944,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "University Of Turku",
+      "title": "Pertussis vaccination during pregnancy found to increase quantity and quality of antibodies protecting the baby",
+      "description": "Researchers at the University of Turku have participated in a study in which vaccinating women with acellular pertussis vaccine in pregnancy boosted the quantity and quality of pertussis-specific antibodies in the early life of infants.",
+      "url": "https://medicalxpress.com/news/2025-05-pertussis-vaccination-pregnancy-quantity-quality.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/pertussis-vaccination.jpg",
+      "publishedAt": "2025-05-02 18:19:43",
+      "content": "Researchers at the University of Turku have participated in a study in which vaccinating women with acellular pertussis vaccine in pregnancy boosted the quantity and quality of pertussis-specific ant\u2026 [+5459 chars]",
+      "retrievedAt": "2025-05-03 19:05:52.116158",
+      "internal_id": "7c46245e7c1c9805463896e324cb1e977394f5a199feac785e86950d66067915",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20963,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Vict\u00f3ria Anhesini",
+      "title": "Regi\u00e3o Norte do Brasil refor\u00e7a alerta contra mpox ap\u00f3s novos casos",
+      "description": "Foram 33 casos confirmados no Amazonas e 19 no Par\u00e1 The post Regi\u00e3o Norte do Brasil refor\u00e7a alerta contra mpox ap\u00f3s novos casos appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?quality=70",
+      "publishedAt": "2025-05-02 17:24:00",
+      "content": "Entre 1\u00ba de janeiro e 30 de abril, o estado do Amazonas registrou 63 notifica\u00e7\u00f5es de mpox, sendo 33 casos confirmados e 29 descartados. A Secretaria de Sa\u00fade do Amazonas informou que, at\u00e9 o momento, \u2026 [+4025 chars]",
+      "retrievedAt": "2025-05-03 19:05:57.372915",
+      "internal_id": "e91c80677a86eac9c14c964ee5dddbf0ca525bac1167bbd83b06b629e4dd0028",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20945,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Psychology Today",
+      "author": "Chris Gilbert, M.D., Ph.D.",
+      "title": "10 Things You Didn\u2019t Know About Measles",
+      "description": "How omission bias can be applied to measles.",
+      "url": "https://www.psychologytoday.com/us/blog/heal-the-mind-to-heal-the-body/202504/10-things-you-didnt-know-about-measles",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/alexander-krivitskiy-LKN9tcWOAqk-unsplash.jpg?itok=copIVWSs",
+      "publishedAt": "2025-05-02 16:52:48",
+      "content": "Omission bias is the phenomenon in which people prefer omission (inaction) over commission (action) and tend to think that harm as a result of inaction is much more acceptable than harm from action. \u2026 [+4376 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.396567",
+      "internal_id": "e4618f1edff3bc0206141103d0643d510d902d97b63098b51dc3ad4496c8f0d4",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20954,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "H5N1 virus in US sparks global health crisis: Know its symptoms, mode of transmission, vaccine",
+      "description": "H5N1 avian influenza virus: The spread of H5N1 avian influenza virus in the United States has sparked fears of a potential pandemic. The H5N1 virus is already leading to human infections. Although bird flu has been present on Earth for decades, this new kind \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/h5n1-virus-in-us-sparks-global-health-crisis-know-its-symptoms-mode-of-transmission-vaccine/articleshow/120829814.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120829855,width-1200,height-630,imgsize-70326,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-02 16:33:28",
+      "content": "The word 'pandemic' is enough to send shivers down spines worldwide. The Global Virus Network has urged world governments to take action and be prepared against the H5N1 outbreak which has reportedly\u2026 [+6774 chars]",
+      "retrievedAt": "2025-05-03 19:05:54.540687",
+      "internal_id": "2ff0e89f74cc9e3b1ebfcd8768967cd033c4fa4e7b93c85cfb7e956d1fe384d7",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20946,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: U.S. Cases Near 950",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/02/measles-updates-us-cases-near-900-as-illness-spreads-to-17-more-in-texas/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-02 16:24:21",
+      "content": "There are more than 930 confirmed cases of measles across the U.S. as of Friday, according to the Centers for Disease Control and Prevention, as cases of the highly contagious disease continue spread\u2026 [+8214 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.404823",
+      "internal_id": "dc07a9d676ee27fb1cb32a7fd2704940da1fab3217a952a166f4c61d80fa4c1d",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20950,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Possible measles exposure at Gatineau farm",
+      "description": "Anyone who visited a farm in Gatineau, Que., two weekends ago may have been exposed to measles, as an adult and child diagnosed with the contagious infection visited the farm on April 20.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/possible-measles-exposure-at-gatineau-farm-1.7524862",
+      "urlToImage": "https://i.cbc.ca/1.7460616.1739670868!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-bc-20250215.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-02 15:26:33",
+      "content": "Anyone who visited a farm in Gatineau, Que., two weekends ago may have been exposed to measles, as an adult and child diagnosed with the contagious infection visited the animal park on April 20. Acc\u2026 [+1977 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.525483",
+      "internal_id": "7ad885a6e56b59044b1dddabbb76dfeee5b9da20c7a762aeaa6cf714bf7c307e",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20965,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Andreas Salch",
+      "title": "Urteil im Prozess um Mpox-Erkrankung: Drei Wochen Zwangs-Quarant\u00e4ne waren zu lang",
+      "description": "Ein an Mpox erkrankter M\u00fcnchner durfte auf Anordnung des Gesundheitsreferats 21 Tage seine Wohnung nicht verlassen. \u201eV\u00f6llig \u00fcberzogen\u201c sei das gewesen, findet er. Das Gericht gibt seiner Klage in Teilen recht.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-mpox-quarantaene-gesundheitsreferat-urteil-li.3244227",
+      "urlToImage": "https://www.sueddeutsche.de/2023/05/12/4fda6734-28e3-4332-bcff-06e3bbe95c30.jpeg?q=60&fm=webp&width=1200&rect=0%2C237%2C1084%2C610",
+      "publishedAt": "2025-05-02 15:17:00",
+      "content": "Das Gesundheitsreferat hatte deshalb in einer sogenannten Absonderungsanordnung verf\u00fcgt, dass er von 30. Juni bis 13. Juli keinen Schritt vor die T\u00fcr setzen darf. Allerdings war M. schon vom 22. Juni\u2026 [+4275 chars]",
+      "retrievedAt": "2025-05-03 19:05:57.397342",
+      "internal_id": "3991216fde2848e3109aaf9122d0377dd5197b687eb8477fef757d847e4d7972",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20955,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Fresh Pandemic in US? New virus spreads in all 50 states amid \u2018human transmission\u2019 concerns",
+      "description": "Is US facing the risk of a fresh pandemic? Fears about a fresh pandemic has now risen as the H5N1 virus is reportedly spreading across all 50 states and health officials have expressed concern over the virus. H5N1, is one of the most fatal ones, and can take\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/fresh-pandemic-in-us-new-virus-spreads-in-all-50-states-amid-human-transmission-concerns-h5n1-avian-influenza-virus/articleshow/120828534.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120828547,width-1200,height-630,imgsize-65252,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-02 15:06:37",
+      "content": "Health officials and Global Virus Networks have raised alarms as the H5N1 avian influenza virus continues to spread rapidly across dairy farms in the United States since March. The outbreak has also \u2026 [+3837 chars]",
+      "retrievedAt": "2025-05-03 19:05:54.570424",
+      "internal_id": "665e965b73fcd6c79771864cb59b4e55d298c94ca16d368aaf4d78055af7df9f",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20952,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Bankier.pl",
+      "author": "Redaktor Bankier.pl",
+      "title": "MRiRW: Pryszczycy w Polsce nie ma, nowe ognisko ptasiej grypy",
+      "description": "W Polsce nie stwierdzono wirusa pryszczycy i nie ma podejrze\u0144 ewentualnego jego przeniesienia na terytorium kraju - poinformowa\u0142o w pi\u0105tek ministerstwo rolnictwa. W Wielkopolsce stwierdzono natomiast nowe ognisko wysoce zjadliwej grypy ptak\u00f3w (HPAI).",
+      "url": "https://www.bankier.pl/wiadomosc/MRiRW-Pryszczycy-w-Polsce-nie-ma-nowe-ognisko-ptasiej-grypy-8935105.html",
+      "urlToImage": "https://galeria.bankier.pl/p/5/0/ee42aebc52abcf-948-568-0-100-4000-2399.jpg",
+      "publishedAt": "2025-05-02 14:53:01",
+      "content": "W Polsce nie stwierdzono wirusa pryszczycy i nie ma podejrze ewentualnego jego przeniesienia na terytorium kraju - poinformowao w pitek Ministerstwo Rolnictwa. W Wielkopolsce stwierdzono natomiast no\u2026 [+1359 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.875406",
+      "internal_id": "ad2e574da61d7cb096deee36ad6e83bed625eca2668cea76057877f14f555b35",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20967,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fermin E. Guerra, Joyce E. Karlinsey, Stephen J. Libby, Ferric C. Fang",
+      "title": "Evasion of serum antibodies and complement by Salmonella Typhi and Paratyphi A",
+      "description": "Author summary Enteric fever acquired by ingestion of food or water contaminated with Salmonella Typhi or Paratyphi A is a significant cause of morbidity and mortality in low- and middle-income countries. In this study, we dissect the different mechanisms by \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012917",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012917.g008&size=inline",
+      "publishedAt": "2025-05-02 14:00:00",
+      "content": "Abstract Nontyphoidal and enteric fever serovars of Salmonella enterica display distinctive interactions with serum antibodies and the complement system, which initiate the host immune response to i\u2026 [+76677 chars]",
+      "retrievedAt": "2025-05-03 19:05:57.894708",
+      "internal_id": "c068eb214c05775c19fd4fb44d64c82af1ed7247390b89240104e2f08397bc5a",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20956,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, Zika Virus e Chikungunya \u2013 700 casi nel 2024 in Italia. Bassetti: \u201cSindaci facciano disinfestazioni ora\u201d",
+      "description": "Dengue, Zika, Chikungunya, Wesi Nile e tutti gli altri arbovirus \u2013 che stanno ormai \u201ccolonizzando\u201d anche l\u2019Italia \u2013 tornano protagonisti con i primi caldi. L\u2019allarme zanzare e per le malattie di cui sono vettori non deve stupire visto che dal 1 gennaio al 3 d\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/05/02/dengue-zika-virus-e-chikungunya-700-casi-nel-2024-in-italia-bassetti-sindaci-facciano-disinfestazioni-ora/7972595/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200.jpg",
+      "publishedAt": "2025-05-02 13:31:21",
+      "content": "Dengue, Zika, Chikungunya, Wesi Nile e tutti gli altri arbovirus \u2013 che stanno ormai \u201ccolonizzando\u201d anche l\u2019Italia \u2013 tornano protagonisti con i primi caldi. Lallarme zanzare e per le malattie di cui s\u2026 [+7019 chars]",
+      "retrievedAt": "2025-05-03 19:05:55.280446",
+      "internal_id": "db6099f70995d722ca20ff844d86e295a8f8868d1949af0e9e8506b2cc4b5393",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20968,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "Fabian Campoverde",
+      "title": "Primeras pruebas apuntan a la leptospirosis como causa de la muerte de ni\u00f1os en Taisha",
+      "description": "Tras las primeras pruebas aplicadas a los ni\u00f1os de las comunidades rurales de Taisha, se detect\u00f3 leptospirosis como posible patolog\u00eda. La entrada Primeras pruebas apuntan a la leptospirosis como causa de la muerte de ni\u00f1os en Taisha se public\u00f3 primero en Dia\u2026",
+      "url": "https://www.elmercurio.com.ec/amazonia/2025/05/02/leptospirosis-ninos-muerte-taisha/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-02 13:16:26",
+      "content": "El Mercurio sigue el d\u00eda a d\u00eda de la emergencia que vive Taisha por la muerte de ni\u00f1os, cuya causa todav\u00eda es desconocida. Puede leer toda nuestra investigaci\u00f3n aqu\u00ed. La leptospirosis es la primera \u2026 [+1583 chars]",
+      "retrievedAt": "2025-05-03 19:05:58.044067",
+      "internal_id": "c69cc6343bc6c81d4ef0dc3e5a5b6b4e719132b6382294bc2bdf7fd1a55b30fe",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20949,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Number of measles cases 50 times higher last year than in 2023, data shows",
+      "description": "Sexually transmitted infections also rose, Health Protection Surveillance Centre says",
+      "url": "https://www.irishtimes.com/health/2025/05/02/number-of-measles-cases-50-times-higher-last-year-than-in-2023-data-shows/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/SX7H3G4KNJA73A77QGLXHRMHSQ.jpg?smart=true&auth=8a57ed9b125e61c963e156a9af9a6125178e35fe250586f2fb4d81dd3a4c65a4&width=1200&height=630",
+      "publishedAt": "2025-05-02 12:52:56",
+      "content": "The number of measles cases notified in the State last year was more than 50 times higher than in 2023, official figures show. The Health Protection Surveillance Centre (HPSC) this week published da\u2026 [+2493 chars]",
+      "retrievedAt": "2025-05-03 19:05:53.509371",
+      "internal_id": "79421992eae0840c71371367bd7671b5b251f00afa5e4131e2c1a7cc5717b34e",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20962,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Sierra Leone faces rise in mpox cases",
+      "description": "FREETOWN: Sierra Leone has seen a new surge in mpox infections, recording 1,140 cases and nine deaths since the start of the year, the health ministry said. The West African country, which in January declared a public health emergency to combat mpox, last wee\u2026",
+      "url": "https://www.channelnewsasia.com/world/mpox-surge-sierra-leone-africa-public-health-emergency-5105006",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--hbCOM_0y--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-04-07t173957z_1_lynxnpel360to_rtroptp_3_health-mpox.jpg?itok=PnNX_g06",
+      "publishedAt": "2025-05-02 12:39:00",
+      "content": "FREETOWN: Sierra Leone has seen a new surge in mpox infections, recording 1,140 cases and nine deaths since the start of the year, the health ministry said. The West African country, which in Januar\u2026 [+852 chars]",
+      "retrievedAt": "2025-05-03 19:05:57.364449",
+      "internal_id": "2cb4f2dfbb0139c628eee91bf9260fd750507062f56ec45d49811889b5e550ee",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20966,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Plus de 1 100 cas de mpox recens\u00e9s en Sierra Leone et neuf d\u00e9c\u00e8s, selon les autorit\u00e9s",
+      "description": "La capitale Freetown compte le plus grand nombre de cas de mpox d\u00e9tect\u00e9s, avec 838 personnes infect\u00e9es.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/variole-du-singe/plus-de-1-100-cas-de-mpox-recenses-en-sierra-leone-et-neuf-deces-selon-les-autorites_7223745.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/n55w48MYAIYQvs69rN76THXTblo/0x218:4288x2630/1500x843/2025/05/02/maxnewsfrfive789177-6814b48d8202b379219854.jpg",
+      "publishedAt": "2025-05-02 12:17:54",
+      "content": "Le nombre de cas de mpox recens\u00e9s en Sierra Leone a atteint 1 140 pour neuf d\u00e9c\u00e8s depuis le d\u00e9but de l'ann\u00e9e dans ce pays d'Afrique de l'Ouest, selon un nouveau bilan du minist\u00e8re de la Sant\u00e9, jeudi \u2026 [+755 chars]",
+      "retrievedAt": "2025-05-03 19:05:57.420155",
+      "internal_id": "63eecc123f19b39a06ad49e870e0c3596567ebd56e288b437519248243b134bf",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20953,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nutritionfacts.org",
+      "author": "Michael Greger M.D. FACLM",
+      "title": "Bird Flu: Emergence, Dangers, and Preventive Measures",
+      "description": "In the United States in January 2025 alone, approximately 20 million commercially-raised birds, mostly egg-laying hens, were affected by the highly pathogenic avian influenza (H5N1). [\u2026]",
+      "url": "https://nutritionfacts.org/blog/bird-flu-emergence-dangers-and-preventive-measures/",
+      "urlToImage": "https://nutritionfacts.org/app/uploads/2025/04/bird-flu-blog-header-b-1200x675.jpg",
+      "publishedAt": "2025-05-02 12:00:55",
+      "content": "In the United States in January 2025 alone, approximately 20 million commercially-raised birds, mostly egg-laying hens, were affected by the highly pathogenic avian influenza (H5N1). These numbers ar\u2026 [+17742 chars]",
+      "retrievedAt": "2025-05-03 19:05:54.518191",
+      "internal_id": "76b3eae3c437beeb3ccde7e57d503753f9213b30cbbf7d92a3f8fbac284d8aa0",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20958,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Dengue, in Italia quasi 700 casi in 2024. Torna allarme zanzare, Bassetti: \"Momento di agire\"",
+      "description": "Descrizione contenuto Dengue, in Italia quasi 700 casi in 2024. Torna allarme zanzare, Bassetti: \"Momento di agire\"",
+      "url": "https://www.ilgiornale.it/news/adnkronos/dengue-italia-quasi-700-casi-2024-torna-allarme-zanzare-2473566.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/05/02/zanzara_dengue_afp_0.jpeg?_=1746187202",
+      "publishedAt": "2025-05-02 12:00:02",
+      "content": "Roma, 2 mag. (Adnkronos Salute) - Con i primi caldi torna l'allarme zanzare e per le malattie di cui sono vettori, ad esempio la Dengue. Dal 1 gennaio al 3 dicembre 2024, data di ultimo aggiornamento\u2026 [+7498 chars]",
+      "retrievedAt": "2025-05-03 19:05:55.312377",
+      "internal_id": "11bfdcf64ebcec862b324215f06ada79585165d9c99f56db9e68812434bf20ca",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20959,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "RJ Mackenzie",
+      "title": "What would a world without mosquitoes look like?",
+      "description": "DDT helped wipe out one of the deadliest species from Brazil, but that's not the end of the story. The post What would a world without mosquitoes look like? appeared first on Popular Science.",
+      "url": "https://www.popsci.com/environment/a-world-without-mosquitos/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/04/mosquito_eradication.jpg?quality=85",
+      "publishedAt": "2025-05-02 12:00:00",
+      "content": "In 1958, the Pan American Health Organization (PAHO) made a milestone announcement: they had exterminated the mosquito Aedes aegyptia transmitter of the deadly diseasesdengue, chikungunya, and yellow\u2026 [+5019 chars]",
+      "retrievedAt": "2025-05-03 19:05:55.362955",
+      "internal_id": "42439246d302a854014a41eedab96b97fa0c57ca4d1ca8de3712723cbd347a67",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20961,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "V\u00e9ronique Mol\u00e9nat, Journaliste",
+      "title": "Chikungunya : ce que l\u2019on sait du vaccin et des effets ind\u00e9sirables graves qui ont touch\u00e9 trois R\u00e9unionnais",
+      "description": "Le 26 avril dernier, en raison de la survenue d\u2019effets ind\u00e9sirables graves chez trois personnes \u00e2g\u00e9es, les autorit\u00e9s sanitaires ont d\u00e9cid\u00e9 de retirer les 65 ans et plus de la campagne de vaccination contre le chikungunya men\u00e9e sur l\u2019\u00eele de la R\u00e9union. Que sai\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-chikungunya-ce-on-sait-vaccin-effets-indesirables-graves-ont-touche-trois-reunionnais-121668/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/6/5/5/6552c1c83c_50230346_moustique-chikungunya-vaccin.jpg",
+      "publishedAt": "2025-05-02 11:03:40",
+      "content": "Pour faire face \u00e0 l'\u00e9pid\u00e9mie de chikungunya qui s\u00e9vit sur l'\u00eele de la R\u00e9union depuis le d\u00e9but de l'ann\u00e9e 2025, la Haute autorit\u00e9 de sant\u00e9 (HAS) avait pr\u00e9conis\u00e9, le 7 avril, le lancement d'une campagn\u2026 [+4288 chars]",
+      "retrievedAt": "2025-05-03 19:05:56.710973",
+      "internal_id": "156be98944bdedae4e0b889a2c6af414b0d97f24c4dafa3d09f948d49c449a00",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20960,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Beshaw, M. A., Siraj, E. M., Demass, T. B., Lakew, A. M.",
+      "title": "Severity and associated factors of anaemia among rifampicin/multi-drug-resistant tuberculosis patients treated in Alert and St. Peters specialised hospitals, Addis Ababa, Ethiopia: a retrospective cross-sectional study",
+      "description": "Objective To assess the severity of anaemia and associated factors among drug-resistant tuberculosis (DR-TB) patients treated in DR-TB treatment-initiating centers in Addis Ababa, Ethiopia. Design A retrospective cross-sectional study. Settings This study w\u2026",
+      "url": "https://bmjopen.bmj.com/content/15/5/e091111",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-05-02 10:04:09",
+      "content": "Introduction Tuberculosis (TB) is the most common infectious disease, causing more deaths annually than HIV and malaria together.1 Globally, about 10 million people fall ill with TB every year,2 and\u2026 [+11128 chars]",
+      "retrievedAt": "2025-05-03 19:05:56.208378",
+      "internal_id": "7389fc296c701bfd7215860287b4c3b8411b1dae28e93b2233689161a05c1913",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20957,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Urlaubspiraten.de",
+      "author": "Steffi",
+      "title": "Dengue-Fieber: Das solltet ihr wissen",
+      "description": "Das Dengue-Fieber breitet sich aktuell in manchen Gegenden der Welt leider rasant aus. Die Hintergr\u00fcnde und was ihr auf Reisen tun k\u00f6nnt, erfahrt ihr hier.",
+      "url": "https://www.urlaubspiraten.de/reise-journal/dengue-fieber",
+      "urlToImage": "https://image.urlaubspiraten.de/720/image/upload/v1693562684/Impressions%20and%20Other%20Assets/shutterstock_1438793243_pdyeu5.jpg",
+      "publishedAt": "2025-05-02 09:59:00",
+      "content": "M\u00fcckenstichvermeidung und unter Umst\u00e4nden Impfung Wer in ein Gebiet reist, in dem die Aedes-M\u00fccke aktiv ist, sollte sich vorab umfassend zum Schutz Gedanken machen. M\u00fcckenmittel mit den Inhaltsstoff\u2026 [+2315 chars]",
+      "retrievedAt": "2025-05-03 19:05:55.289832",
+      "internal_id": "0f7080953645d2bfa46da3337a234e47ed9969b6e9ddccee8932a199e3a500c8",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 20964,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Andreas Salch",
+      "title": "Virus-Erkrankung: War die Mpox-Zwangsquarant\u00e4ne rechtens?",
+      "description": "Ein an Mpox erkrankter M\u00fcnchner durfte auf Anordnung des Gesundheitsreferats drei Wochen seine Wohnung nicht verlassen. \"V\u00f6llig unverh\u00e4ltnism\u00e4\u00dfig\" sei das gewesen, findet er. Nun muss sich das Verwaltungsgericht mit dem Fall befassen.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-mpox-quarantaene-gesundheitsreferat-gericht-li.3244227",
+      "urlToImage": "https://www.sueddeutsche.de/2023/05/12/4fda6734-28e3-4332-bcff-06e3bbe95c30.jpeg?q=60&fm=webp&width=1200&rect=0%2C237%2C1084%2C610",
+      "publishedAt": "2025-05-02 07:40:21",
+      "content": "Schon am 1. Juli 2022 klagte Alex M. gegen die Absonderungsanordnung des Gesundheitsreferats vor dem Verwaltungsgericht M\u00fcnchen. Ohne Erfolg. Die Richterinnen und Richter der Kammer 26b lehnten seine\u2026 [+3583 chars]",
+      "retrievedAt": "2025-05-03 19:05:57.381142",
+      "internal_id": "0513dd0769824ed17a6c1d39ce88661e9d8ba2bc3a6e520fd00ef53db13e68bf",
+      "publishedAtLabel": "May 2"
+    },
     {
       "id": 20941,
       "query": [
@@ -28470,115 +28923,6 @@
       "content": "HOUSTON - A measles case in a Houston infant has been confirmed as the third case of measles in the city, according to the Houston Health Department. Houston infant measles case What we know: Acco\u2026 [+2081 chars]",
       "retrievedAt": "2025-03-19 07:07:04.309538",
       "internal_id": "559b155b448b6ff76f3153f49fe7933624e81eda1244d127cdcc67e71d1bcf65",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19348,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Cat owners beware as pet food with bird flu risk is recalled",
-      "description": "Cat owners are warned of more pet food recalls, as Savage Pet of California says some of its products could contain H5N1 (bird flu). The FDA and New York Department of Health share key information.",
-      "url": "https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/boy-carrying-cat.jpg",
-      "publishedAt": "2025-03-16 16:37:05",
-      "content": "Cat owners have been alerted to a potential health threat. Savage Pet of El Cajon, California, is recalling 66 large chicken boxes (84 oz.) and 74 small chicken boxes (21 oz.) with the lot code/\"bes\u2026 [+4584 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.008662",
-      "internal_id": "6e8a4ec313bcecc65a72c24ef4a64ce9db196b9edfb3661d2014aabb43702320",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes.com.mx",
-      "author": "Forbes Staff",
-      "title": "Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis",
-      "description": "Forbes M\u00e9xico. Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis La inmunizaci\u00f3n de los ping\u00fcinos contra esta grave enfermedad f\u00fangica se hizo a trav\u00e9s del fortalecimiento de sus bacterias del intestino introduciendo u\u2026",
-      "url": "https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/",
-      "urlToImage": "https://cdn.forbes.com.mx/2019/04/s3.reutersmedia.jpg",
-      "publishedAt": "2025-03-16 14:28:00",
-      "content": "Un equipo de cient\u00edficos encontr\u00f3 en Francia una posible pista para combatir la malaria o la leishmaniosis en seres humanos gracias al estudio de la microbiota de los ping\u00fcinos, conocida en detalle t\u2026 [+3096 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.917162",
-      "internal_id": "ee952ae6e7b7573190fddc61f2dcf197c9756c5a8ae80cd4adc5daed76093007",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19419,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Samantha Sayles",
-      "title": "What to know about measles as first case of 2025 confirmed in Oakland County",
-      "description": "Michigan\u2019s first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced.",
-      "url": "https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6GUZ5DYYVBTHC3KFQCFAGQR4I.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-03-16 12:47:06",
-      "content": "OAKLAND COUNTY, Mich. Michigans first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced. The countys health officer, Kate Guzman, RN, s\u2026 [+3011 chars]",
-      "retrievedAt": "2025-03-19 07:07:04.351140",
-      "internal_id": "749ec33a8f4194f7e35c2490731f7eed883b799dfffca15023e62de595c88c41",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19347,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Alarma en la Ant\u00e1rtida: Confirman un brote masivo de gripe aviar en varias especies",
-      "description": "Una expedici\u00f3n cient\u00edfica espa\u00f1ola ha confirmado la presencia del virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) en la Ant\u00e1rtida. El brote ha sido detectado en 13 especies diferentes y en 24 puntos de la regi\u00f3n, lo que marca un precedente alarmante \u2026",
-      "url": "https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/03/gripe-aviar.jpg",
-      "publishedAt": "2025-03-16 11:29:44",
-      "content": "La expedici\u00f3n CSIC-Unespa llev\u00f3 a cabo un estudio entre enero y febrero, generando el informe m\u00e1s completo hasta la fecha sobre la gripe aviar en la Ant\u00e1rtida. Los investigadores identificaron 188 ca\u2026 [+2815 chars]",
-      "retrievedAt": "2025-03-17 19:05:54.523755",
-      "internal_id": "52a74a44fa3e844abf031688bd77dafc1a464949c89910eaef0d51915256aced",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19353,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Richmond.com",
-      "author": "",
-      "title": "Recap: What made news last week across Virginia",
-      "description": "IN THE NEWS",
-      "url": "https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/3b/e3ba212e-ff71-11ef-afa0-071d975426c2/67d33683df5c8.preview.jpg?crop=1758%2C923%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-03-16 11:00:00",
-      "content": "Possible measles exposure at Dulles Airport A person with a case of measles arrived at Washington Dulles International Airport in Northern Virginia last week, potentially exposing others, the state\u2026 [+11070 chars]",
-      "retrievedAt": "2025-03-18 07:07:09.586966",
-      "internal_id": "db05da6a81fe2de27aeb3360837d8725628dcbccb9bb8523aea66ac9d3449a88",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19350,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor",
-      "description": "Sie sind verlassen und oftmals mit einem gewissen Grusel verbunden: Geisterinseln. Einige von ihnen dienten als Gef\u00e4ngnis, andere zur Isolation von Pestkranken. Und eine von ihnen war einmal der dichtbesiedeltste Flecken der Erde. ntv.de stellt zehn Lost Plac\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25570971/1181322630-cImg_16_9-w1200/imago598760374.jpg",
-      "publishedAt": "2025-03-16 09:45:30",
-      "content": "W\u00e4hrend sich die W\u00e4rter auf Tennispl\u00e4tzen und in Pools vergn\u00fcgen konnten, litten die Gefangenen unter Mangelern\u00e4hrung, Malaria, Ruhr und Cholera. Zudem wurden medizinische Experimente an ihnen durchg\u2026 [+6 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.945568",
-      "internal_id": "4838ae9f3bbca6cc47ead8f946735f85c011b599be8cf5eab2c063ee6c57cb5a",
       "publishedAtLabel": "Mar 16"
     }
   ]
