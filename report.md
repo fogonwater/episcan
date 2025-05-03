@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-05-02 19:06
-- **Most recent article:** 2025-05-01 18:33:41
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-05-03 07:06
+- **Most recent article:** 2025-05-02 06:30:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 104 | 101 | 77 | 145 | 82 | 107 | 49 | 665 |
-| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 11 | 249 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 9 | 153 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 19 | 141 |
-| malaria | 16 | 30 | 13 | 10 | 14 | 34 | 21 | 138 |
-| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 5 | 75 |
-| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 6 | 58 |
+| measles | 106 | 101 | 77 | 145 | 82 | 107 | 57 | 675 |
+| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 12 | 252 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 11 | 155 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 16 | 20 | 142 |
+| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 21 | 140 |
+| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 6 | 76 |
+| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 7 | 59 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 3 | 41 |
-| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 1 | 27 |
+| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 1 | 28 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 1 | 26 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 2 | 20 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 1 | 12 |
@@ -56,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (mpox)
 
+- [Diagnostic Accuracy of 3 Mpox Lateral Flow Assays for Antigen Detection, Democratic Republic of the Congo and United Kingdom](https://wwwnc.cdc.gov/eid/article/31/6/25-0166_article) (Cdc.gov)
+
 - [La OMS advierte a nivel mundial de la reaparición de una enfermedad muy temida del pasado](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13342243/04/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-muy-temida-del-pasado.html) (Eleconomista.es)
 
 - [La OMS advierte de que once países de África registran transmisión comunitaria de mpox del clado Ib](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-once-paises-africa-registran-transmision-comunitaria-mpox-clado-ib-20250430140335.html) (Infosalus.com)
@@ -67,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 - [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
+
+- ["No puede ser que un niño tenga vacunas solo porque su padre puede pagarlas": las dos Españas de la inmunidad infantil](https://www.elespanol.com/ciencia/salud/20250502/no-puede-nino-vacunas-solo-padre-pagarlas-espanas-inmunidad-infantil/1003743738085_0.html) (Elespanol.com)
 
 - [Edward Kwach's Family Plans Fundraiser to Give Late Radio Legend Befitting Send-Off](https://www.tuko.co.ke/entertainment/celebrities/587709-edward-kwachs-family-plans-fundraiser-give-late-radio-legend-proper-send-off/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
@@ -81,6 +85,22 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [RFK Jr. asks CDC for new measles treatment guidance amid his unfounded claims (Alexander Tin/CBS News)](https://www.memeorandum.com/250502/p4) (Memeorandum.com)
+
+- [The MMR vaccine doesn’t contain ‘aborted fetus debris’, as RFK Jr has claimed. Here’s the science](https://theconversation.com/the-mmr-vaccine-doesnt-contain-aborted-fetus-debris-as-rfk-jr-has-claimed-heres-the-science-255718) (The Conversation Africa)
+
+- [RFK Jr. Wants You To Know HHS Is Committed To Stopping Chemtrails From Poisoning You](https://www.techdirt.com/2025/05/01/rfk-jr-wants-you-to-know-hhs-is-committed-to-stopping-chemtrails-from-poisoning-you/) (Techdirt)
+
+- [RFK Jr revives debunked measles vaccine claims as US nears 900 cases](https://www.abc.net.au/news/2025-05-02/robert-f-kennedy-jr-revives-measles-vaccine-claims/105242968) (ABC News (AU))
+
+- [RFK Jr. asks CDC for new measles treatment guidance](https://www.cbsnews.com/news/rfk-jr-cdc-measles-treatment-guidance/) (CBS News)
+
+- [Measles jumps borders in North America with outbreaks in Canada, Mexico and US](https://richmond.com/news/nation-world/article_97df1296-0d5f-5a04-aa89-b14333173318.html) (Richmond.com)
+
+- [‘A lot of aborted fetus debris’](https://www.patheos.com/blogs/slacktivist/2025/05/01/a-lot-of-aborted-fetus-debris/) (Patheos)
+
+- [What are the symptoms of measles? How long does the vaccine last? Experts answer 6 key questions](https://theconversation.com/what-are-the-symptoms-of-measles-how-long-does-the-vaccine-last-experts-answer-6-key-questions-255496) (The Conversation Africa)
 
 - [‘Diseases know no borders’: Measles spreads with outbreaks in Canada, Mexico and U.S.](https://www.pbs.org/newshour/health/diseases-know-no-borders-measles-spreads-with-outbreaks-in-canada-mexico-and-u-s) (PBS)
 
@@ -230,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (h5n1)
 
+- [Avian Influenza A(H5N1) Isolated from Dairy Farm Worker, Michigan](https://wwwnc.cdc.gov/eid/article/31/6/25-0386_article) (Cdc.gov)
+
 - [Top doctors warn about bird flu virus spread and pandemic concerns](https://www.today.com/health/news/virus-spreads-pandemic-concerns-bird-flu-rcna204114) (TODAY)
 
 - [Essential facts about the bird flu spreading across America](https://rollingout.com/2025/05/01/facts-about-bird-flu-spreading-america/) (Rolling Out)
@@ -253,6 +275,8 @@ Source: [News API](https://newsapi.org/)
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [Critical Analysis of Advanced Nanosensors for Dengue Detection](https://pubs.rsc.org/en/content/articlelanding/2025/ay/d4ay02241f) (Royal Society of Chemistry)
 
 - [Casos de dengue no Brasil caem 59% em relação a 2024, diz levantamento](https://veja.abril.com.br/coluna/radar/casos-de-dengue-no-brasil-caem-59-em-relacao-a-2024-diz-levantamento/) (Abril.com.br)
 
@@ -293,6 +317,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [Bavarian Nordic Receives Marketing Authorization for Chikungunya Vaccine for Persons Aged 12 and Older in the United Kingdom](https://www.globenewswire.com/news-release/2025/05/02/3073028/0/en/Bavarian-Nordic-Receives-Marketing-Authorization-for-Chikungunya-Vaccine-for-Persons-Aged-12-and-Older-in-the-United-Kingdom.html) (GlobeNewswire)
+
+- [Bavarian Nordics chikungunyavaccine er blevet godkendt af de britiske lægemiddelmyndigheder for personer over 12 år](https://www.globenewswire.com/news-release/2025/05/02/3073028/0/da/Bavarian-Nordics-chikungunyavaccine-er-blevet-godkendt-af-de-britiske-l%C3%A6gemiddelmyndigheder-for-personer-over-12-%C3%A5r.html) (GlobeNewswire)
 
 - [Vimkunya vaccine approved to prevent disease caused by the chikungunya virus in people 12 years of age and older](https://www.gov.uk/government/news/vimkunya-vaccine-approved-to-prevent-disease-caused-by-the-chikungunya-virus-in-people-12-years-of-age-and-older) (Www.gov.uk)
 
@@ -3178,6 +3206,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
+
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -3212,6 +3244,10 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -3239,6 +3275,8 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3351,6 +3389,10 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
