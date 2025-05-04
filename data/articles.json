@@ -1,8 +1,244 @@
 {
-  "last_updated": "2025-05-04 07:06",
-  "count_articles_total": 1377,
-  "count_articles_new": 10,
+  "last_updated": "2025-05-04 19:05",
+  "count_articles_total": 1384,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 20986,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Province warns of possible measles exposure at Gretna Elementary School, 3 Winkler locations",
+      "description": "Health officials are warning the public about possible exposure to measles at a number of southeastern Manitoba locations in late April, including a medical centre, a retail store and an elementary school.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measle-cases-manitoba-exposure-1.7525903",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1746297600!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-03 18:53:21",
+      "content": "Health officials are warning the public about possible exposure to measles at a number of southern Manitoba locations in late April, including a medical centre, a retail store and an elementary schoo\u2026 [+1341 chars]",
+      "retrievedAt": "2025-05-04 19:05:55.050441",
+      "internal_id": "3a70bf567b946dec509f07c8d388162271a2010363f8305f1208b89c63a73b52",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20979,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WREX-TV",
+      "author": "Katia Hetter",
+      "title": "With whooping cough cases on the rise, a doctor explains how to protect yourself and others",
+      "description": "Cases of whooping cough are rising, caused by Bordetella pertussis bacteria spread through respiratory droplets. Vaccination is crucial to prevent and reduce severity of the illness.",
+      "url": "https://www.wrex.com/news/health/with-whooping-cough-cases-on-the-rise-a-doctor-explains-how-to-protect-yourself-and/article_def4743d-4a70-539e-bfae-e7600e085e54.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wrex.com/content/tncms/assets/v3/editorial/b/7a/b7abb6f6-56b3-5265-9b96-f3b177371aef/68165e742b618.image.jpg?crop=1512%2C794%2C0%2C288&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-03 17:36:00",
+      "content": "(CNN) Cases of whooping cough are climbing across the country this year, with about 6,600 already documented nearly four times the number at the same point last year. In 2024, there were more than 3\u2026 [+6696 chars]",
+      "retrievedAt": "2025-05-04 19:05:54.131780",
+      "internal_id": "36f3c1e8842f413cf4c5faee9c9a138dcb7780061137d444b860a22171d5933e",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20988,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Caso di Dengue nel Comasco, iniziata la disinfestazione: \u201cImportato dall\u2019estero, nessun allarme\u201d",
+      "description": "Allarme sanitario in provincia di Como, a Capiago Intimiano. Nel comune \u00e8 stato accertato un caso di dengue: si tratta di un residente di ritorno da un viaggio all\u2019estero che ha accusato i malori tipici della malattia. Nonostante il caso di importazione, in v\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/05/03/caso-di-dengue-nel-comasco-iniziata-la-disinfestazione-importato-dallestero-nessun-allarme/7973734/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-05-03 15:55:04",
+      "content": "Roma, 3 mag.(Adnkronos) - Elodie spegne oggi, 3 maggio, 35 candeline. La cantante sui social ha condiviso il suo stato d'animo, confidando ai fan di \"soffrire molto il giorno del compleanno\". \"Io d\u2026 [+4888 chars]",
+      "retrievedAt": "2025-05-04 19:05:56.056819",
+      "internal_id": "97a433f5cb2cc386ebaae4fa6d83e782d218b70fa24c9cfc5d7fd0f533ad60a5",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20982,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week US)",
+      "title": "Today's political cartoons - May 3, 2025",
+      "description": "Saturday's cartoons - measles on the rise, sage advice, and more",
+      "url": "https://theweek.com/cartoons/todays-political-cartoons-may-3-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FZrjaVpwJhYrz8ohEPyQre.jpg",
+      "publishedAt": "2025-05-03 15:00:30",
+      "content": "The Week is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. \u00a9 Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",
+      "retrievedAt": "2025-05-04 19:05:54.880092",
+      "internal_id": "c2ac02599c339e24f0007c5687e785704412c78834f08000a5a87774505f19a6",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20983,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "World may be 'post-herd immunity' to measles, top US scientist says (Jessica Glenza/The Guardian)",
+      "description": "Jessica Glenza / The Guardian: World may be \u2018post-herd immunity\u2019 to measles, top US scientist says \u2014 As infections pummel communities in the US, Mexico and Canada, fear of \u2018the most contagious human disease\u2019 grows \u2014 A leading immunologist warned of a \u201cpos\u2026",
+      "url": "https://www.memeorandum.com/250503/p35",
+      "urlToImage": "https://i.guim.co.uk/img/media/ca56feb9b8a5054f5adc6a38e840b1482c56d760/0_0_5305_3182/master/5305.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-05-03 14:50:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-05-04 19:05:54.923469",
+      "internal_id": "5c4c4633fd8bae354c1aa68b3a6acd8a9ad6162d72780bbc0de8c216e18e2a82",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20980,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera Staff",
+      "title": "Why is measles spreading in Canada, Mexico and the US?",
+      "description": "The northern Americas are at \u201chigh\u201d risk of measles compared with a \u201cmoderate\u201d risk globally, according to the WHO.",
+      "url": "https://www.aljazeera.com/news/2025/5/3/why-is-measles-spreading-in-canada-mexico-and-the-us",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/AP25070450755120-1743205524.jpg?resize=1728%2C1080",
+      "publishedAt": "2025-05-03 14:14:48",
+      "content": "The United States and Canada are experiencing one of their worst measles outbreaks in years, while the virus has also crossed to neighbouring Mexico. A total of 2,500 cases and four deaths have been\u2026 [+8531 chars]",
+      "retrievedAt": "2025-05-04 19:05:54.799940",
+      "internal_id": "b580500c2ad9dae0ba062cc6893618c7d33c076a3d5690d9d11539d81bf9059d",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20991,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Chikungunya : faut-il avoir peur du vaccin ?",
+      "description": "Alors que l'infection, transmise par les moustiques-tigres, flambe sur l'ile de La Reunion et pourrait gagner la metropole, la vaccination se retrouve sur le banc des accuses.",
+      "url": "https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/05/03/27583784lpw-27583780-mega-une-jpg_11082621.jpg",
+      "publishedAt": "2025-05-03 14:00:00",
+      "content": "La R\u00e9union conna\u00eet une situation \u00e9pid\u00e9mique depuis le 13 janvier 2025, avec pr\u00e8s de 40 000 cas recens\u00e9s. Des analyses sanguines de la population sugg\u00e8rent qu'au moins 20 % des R\u00e9unionnais seraient in\u2026 [+3864 chars]",
+      "retrievedAt": "2025-05-04 19:05:57.376305",
+      "internal_id": "f7f34eb0b1afd1826b34f9942eed6419fc97959a9997c9fe6e58b6680f88f18b",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20989,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ricardo Ferraz",
+      "title": "Embaixadora conta como sobreviveu a transplante de f\u00edgado ap\u00f3s contrair dengue",
+      "description": "'Ganhei uma alma brasileira', diz Stephanie Al-Qaq, 49",
+      "url": "https://veja.abril.com.br/brasil/embaixadora-conta-como-sobreviveu-a-transplante-de-figado-apos-contrair-dengue/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/05/Pimeira-Pessoa2942-1.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-05-03 11:00:41",
+      "content": "Rel\u00e2mpago: Digital Completo a partir R$ 5,99Stephanie Al-Qaq (//Arquivo pessoal) Continua ap\u00f3s publicidade Quando soube que seria embaixadora do Reino Unido no Brasil, no fim de 2022, comemorei. Er\u2026 [+3681 chars]",
+      "retrievedAt": "2025-05-04 19:05:56.085641",
+      "internal_id": "901b8f6f7d7b4412374adb8e86c7720ab7048d39db1549698163fc1f2992b9a7",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20985,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Need for permanent chief medical officer of health 'dire,' says Alberta Medical Association",
+      "description": "Alberta's health minister says the search for a permanent chief medical medical officer of health is in the early stages, prompting concerns about health leadership as the province continues to battle its worst measles outbreak in nearly three decades.",
+      "url": "https://www.cbc.ca/news/canada/calgary/permanent-chief-medical-officer-health-alberta-medical-association-1.7525496",
+      "urlToImage": "https://i.cbc.ca/1.7350147.1728682450!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/health-funding-alta-20231221.JPG?im=Resize%3D620",
+      "publishedAt": "2025-05-03 11:00:00",
+      "content": "Alberta's health minister says the search for a permanent chief medical medical officer of health is in the early stages, prompting concerns about health leadership as the province continues to battl\u2026 [+4678 chars]",
+      "retrievedAt": "2025-05-04 19:05:55.041621",
+      "internal_id": "c9146a91c71b486c8b52022fca0d7706861d40d743ba0cde21950d81c0f77dfd",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20981,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 5/3/2025",
+      "description": "Our funky daily links: falcon trek, Trump threatens China w/ Iran oil santionsl, RFK, Jr. still not backing measles vaccination, climate impact of satellites, UN out of dough? Reform triumphant, India-Pakistan staredown, EU seizes some Russian assets, driverl\u2026",
+      "url": "https://www.nakedcapitalism.com/2025/05/links-5-3-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/05/Screenshot-2025-05-03-at-3.34.49\u202fPM.png",
+      "publishedAt": "2025-05-03 10:55:56",
+      "content": "The female falcon was equipped with a GPS tracker during its journey from South Africa to Finland, covering about 230km per day. It flew in a straight line across the African lands until it reached \u2026 [+11096 chars]",
+      "retrievedAt": "2025-05-04 19:05:54.836605",
+      "internal_id": "070a1e321e18e366083aaed3976b840ed0411bdb6bdeb40bf91cefee250f2f90",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20990,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue nel Comasco, disinfestazione da oggi al 5 maggio",
+      "description": "La disinfestazione iniziata alla scoperta di un caso di Dengue nel Comasco \u00e8 eseguita da oggi, 3 maggio, al 5 nella frazione Olmeda del comune di Campiano, con il supporto della Protezione civile e di una ditta specializzata. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2025/05/03/dengue-nel-comasco-disinfestazione-da-oggi-al-5-maggio_3897251c-0dbc-467f-aff8-16c936bb4f64.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/1/22/aaf9762c5695379120fcbec0ffee43dc.jpg",
+      "publishedAt": "2025-05-03 10:54:19",
+      "content": "La disinfestazione iniziata alla scoperta di un caso di Dengue nel Comasco \u00e8 eseguita da oggi, 3 maggio, al 5 nella frazione Olmeda del comune di Campiano, con il supporto della Protezione civile \u2026 [+822 chars]",
+      "retrievedAt": "2025-05-04 19:05:56.150619",
+      "internal_id": "0370b03c408690cf7f5d761817ce2bcdcc5862a111f55308424f03087890ac8f",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20987,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mediapart",
+      "author": "Caroline Coq-Chodorge",
+      "title": "Chikungunya: \u00abOn assiste \u00e0 une acc\u00e9l\u00e9ration des \u00e9mergences d\u2019arboviroses chez l\u2019homme\u00bb",
+      "description": "La R\u00e9union conna\u00eet sa deuxi\u00e8me \u00e9pid\u00e9mie de chikungunya, virus transmis par le moustique-tigre, qui \u00e9tend son territoire avec la hausse des temp\u00e9ratures, y compris en m\u00e9tropole. La dengue, Zika ou la fi\u00e8vre jaune appartiennent \u00e0 la m\u00eame famille de maladies, en\u2026",
+      "url": "https://www.mediapart.fr/journal/international/030525/chikungunya-assiste-une-acceleration-des-emergences-d-arboviroses-chez-l-homme",
+      "urlToImage": "https://static.mediapart.fr/etmagine/og/journal/files/2025/05/02/250502-img-chikungunya-assiste-une-acceleration-des-emergences-d-arboviroses-chez-l-homme.jpg",
+      "publishedAt": "2025-05-03 08:51:39",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de diff\u00e9rentes natures et nous permettent de poursuivre diff\u00e9rentes finalit\u00e9s. Certains sont n\u00e9cessaires au fonctionneme\u2026 [+3291 chars]",
+      "retrievedAt": "2025-05-04 19:05:56.048139",
+      "internal_id": "e1162c5aeae7b0fa0e396679e58600233b4b45521c052ee9b4233d3fd7e5317f",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20984,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Step up measles vaccinations, say doctors as outbreaks accelerate in Ontario, Alberta",
+      "description": "Measles outbreaks in Ontario and Alberta continue to grow because vaccination rates are too low, say some doctors urging provincial public health officials to step up efforts.",
+      "url": "https://www.cbc.ca/news/health/measles-vaccination-coverage-1.7525234",
+      "urlToImage": "https://i.cbc.ca/1.7136803.1709834963!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/tph-school-vax-clinic.JPG?im=Resize%3D620",
+      "publishedAt": "2025-05-03 08:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+8378 chars]",
+      "retrievedAt": "2025-05-04 19:05:55.019714",
+      "internal_id": "df893eb1fab1afe6b625d920b53018c80b67ff7d30967aa66ab9fe72307b2885",
+      "publishedAtLabel": "May 3"
+    },
     {
       "id": 20977,
       "query": [
@@ -24718,114 +24954,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-05-04 07:06
-- **Most recent article:** 2025-05-03 06:48:10
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-05-04 19:05
+- **Most recent article:** 2025-05-03 18:53:21
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 100 | 77 | 145 | 82 | 107 | 70 | 581 |
-| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 198 |
-| chikungunya | 10 | 17 | 15 | 39 | 46 | 14 | 141 |
-| dengue | 19 | 14 | 24 | 30 | 16 | 27 | 130 |
+| measles | 98 | 77 | 145 | 82 | 107 | 77 | 586 |
+| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 195 |
+| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 143 |
+| dengue | 18 | 14 | 24 | 30 | 16 | 31 | 133 |
 | malaria | 30 | 13 | 10 | 14 | 34 | 22 | 123 |
 | mpox | 11 | 17 | 18 | 10 | 5 | 11 | 72 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 51 |
 | rabies | 19 | 7 | 7 | 0 | 3 | 4 | 40 |
-| zika | 3 | 4 | 7 | 7 | 2 | 2 | 25 |
-| pertussis | 0 | 7 | 2 | 5 | 3 | 3 | 20 |
+| zika | 3 | 4 | 7 | 7 | 2 | 3 | 26 |
+| pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 17 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 13 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-18 (zika)
+
+- [Chikungunya: «On assiste à une accélération des émergences d’arboviroses chez l’homme»](https://www.mediapart.fr/journal/international/030525/chikungunya-assiste-une-acceleration-des-emergences-d-arboviroses-chez-l-homme) (Mediapart)
 
 - [Dengue, Zika Virus e Chikungunya – 700 casi nel 2024 in Italia. Bassetti: “Sindaci facciano disinfestazioni ora”](https://www.ilfattoquotidiano.it/2025/05/02/dengue-zika-virus-e-chikungunya-700-casi-nel-2024-in-italia-bassetti-sindaci-facciano-disinfestazioni-ora/7972595/) (Ilfattoquotidiano.it)
 
@@ -55,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 - [Pynlong ka tnad Veterinary da ka jingai injek iada na jingpang Rabies ha Jorbil Kiling](https://www.syllad.com/pynlong-ka-tnad-veterinary-da-ka-jingai-injek-iada-na-jingpang-rabies-ha-jorbil-kiling/) (Syllad.com)
 
 ## 25-18 (pertussis)
+
+- [With whooping cough cases on the rise, a doctor explains how to protect yourself and others](https://www.wrex.com/news/health/with-whooping-cough-cases-on-the-rise-a-doctor-explains-how-to-protect-yourself-and/article_def4743d-4a70-539e-bfae-e7600e085e54.html) (WREX-TV)
 
 - [Pertussis vaccination during pregnancy found to increase quantity and quality of antibodies protecting the baby](https://medicalxpress.com/news/2025-05-pertussis-vaccination-pregnancy-quantity-quality.html) (Medical Xpress)
 
@@ -103,6 +107,20 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [Province warns of possible measles exposure at Gretna Elementary School, 3 Winkler locations](https://www.cbc.ca/news/canada/manitoba/measle-cases-manitoba-exposure-1.7525903) (CBC News)
+
+- [Today's political cartoons - May 3, 2025](https://theweek.com/cartoons/todays-political-cartoons-may-3-2025) (The Week Magazine)
+
+- [World may be 'post-herd immunity' to measles, top US scientist says (Jessica Glenza/The Guardian)](https://www.memeorandum.com/250503/p35) (Memeorandum.com)
+
+- [Why is measles spreading in Canada, Mexico and the US?](https://www.aljazeera.com/news/2025/5/3/why-is-measles-spreading-in-canada-mexico-and-the-us) (Al Jazeera English)
+
+- [Need for permanent chief medical officer of health 'dire,' says Alberta Medical Association](https://www.cbc.ca/news/canada/calgary/permanent-chief-medical-officer-health-alberta-medical-association-1.7525496) (CBC News)
+
+- [Links 5/3/2025](https://www.nakedcapitalism.com/2025/05/links-5-3-2025.html) (Nakedcapitalism.com)
+
+- [Step up measles vaccinations, say doctors as outbreaks accelerate in Ontario, Alberta](https://www.cbc.ca/news/health/measles-vaccination-coverage-1.7525234) (CBC News)
 
 - [RFK Jr. Tells CDC To Go All In On Bogus Vitamin ‘Cures’ For Measles](https://www.huffpost.com/entry/rfk-jr-measles-treatments_n_6815381de4b08215e5f697bc) (HuffPost)
 
@@ -334,6 +352,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (dengue)
 
+- [Caso di Dengue nel Comasco, iniziata la disinfestazione: “Importato dall’estero, nessun allarme”](https://www.ilfattoquotidiano.it/2025/05/03/caso-di-dengue-nel-comasco-iniziata-la-disinfestazione-importato-dallestero-nessun-allarme/7973734/) (Ilfattoquotidiano.it)
+
+- [Embaixadora conta como sobreviveu a transplante de fígado após contrair dengue](https://veja.abril.com.br/brasil/embaixadora-conta-como-sobreviveu-a-transplante-de-figado-apos-contrair-dengue/) (Abril.com.br)
+
+- [Dengue nel Comasco, disinfestazione da oggi al 5 maggio](https://www.ansa.it/lombardia/notizie/2025/05/03/dengue-nel-comasco-disinfestazione-da-oggi-al-5-maggio_3897251c-0dbc-467f-aff8-16c936bb4f64.html) (ANSA.it)
+
+- [Chikungunya: «On assiste à une accélération des émergences d’arboviroses chez l’homme»](https://www.mediapart.fr/journal/international/030525/chikungunya-assiste-une-acceleration-des-emergences-d-arboviroses-chez-l-homme) (Mediapart)
+
 - [Caso di dengue nel Comasco, 'non consumate i prodotti dell'orto'](https://www.ansa.it/sito/notizie/cronaca/2025/05/03/caso-di-dengue-nel-comasco-non-consumate-i-prodotti-dellorto_4e993249-0c21-430f-8e77-69047254f9ec.html) (ANSA.it)
 
 - [Caso di dengue nel Comasco, 'non consumate i prodotti dell'orto'](https://www.ansa.it/lombardia/notizie/2025/05/03/caso-di-dengue-nel-comasco-non-consumate-i-prodotti-dellorto_b4904bb1-bff0-4fcf-9602-8acb4487f8b6.html) (ANSA.it)
@@ -389,6 +415,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
 
 ## 25-18 (chikungunya)
+
+- [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
+
+- [Chikungunya: «On assiste à une accélération des émergences d’arboviroses chez l’homme»](https://www.mediapart.fr/journal/international/030525/chikungunya-assiste-une-acceleration-des-emergences-d-arboviroses-chez-l-homme) (Mediapart)
 
 - [Dengue, Zika Virus e Chikungunya – 700 casi nel 2024 in Italia. Bassetti: “Sindaci facciano disinfestazioni ora”](https://www.ilfattoquotidiano.it/2025/05/02/dengue-zika-virus-e-chikungunya-700-casi-nel-2024-in-italia-bassetti-sindaci-facciano-disinfestazioni-ora/7972595/) (Ilfattoquotidiano.it)
 
@@ -2780,10 +2810,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
-- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
-
-- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
-
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -2942,12 +2968,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
-- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
-
-- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
-
-- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
-
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -2985,8 +3005,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
-
-- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
