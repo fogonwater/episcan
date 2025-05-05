@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 4
-- **Last harvest:** 2025-05-05 07:08
-- **Most recent article:** 2025-05-04 05:03:01
+- **Last harvest:** 2025-05-05 19:05
+- **Most recent article:** 2025-05-04 14:50:15
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 100 | 77 | 145 | 82 | 107 | 78 | 0 | 589 |
-| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 0 | 198 |
+| measles | 98 | 77 | 145 | 82 | 107 | 78 | 2 | 589 |
+| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 0 | 195 |
 | chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 0 | 143 |
-| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 0 | 135 |
+| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 0 | 134 |
 | malaria | 30 | 13 | 10 | 14 | 34 | 22 | 0 | 123 |
-| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 0 | 72 |
+| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 1 | 73 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 0 | 51 |
 | rabies | 19 | 7 | 7 | 0 | 3 | 4 | 1 | 41 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 0 | 26 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 0 | 17 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
-| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 3 |
+| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 1 | 4 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 
 
@@ -35,6 +35,20 @@ Source: [News API](https://newsapi.org/)
 ## 25-19 (rabies)
 
 - [Rabies infection can be fatal but preventable with timely action](https://timesofindia.indiatimes.com/city/lucknow/rabies-infection-can-be-fatal-but-preventable-with-timely-action/articleshow/120865657.cms) (The Times of India)
+
+## 25-19 (mpox)
+
+- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
+
+## 25-19 (measles)
+
+- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
+
+- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
+
+## 25-19 (leptospirosis)
+
+- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-18 (zika)
 
@@ -2820,10 +2834,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
-- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
-
-- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
-
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -2982,12 +2992,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
-- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
-
-- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
-
-- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
-
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3025,8 +3029,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
-
-- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 

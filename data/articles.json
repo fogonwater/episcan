@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-05-05 07:08",
-  "count_articles_total": 1394,
+  "last_updated": "2025-05-05 19:05",
+  "count_articles_total": 1392,
   "count_articles_new": 4,
   "articles": [
+    {
+      "id": 20997,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
+      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-04 14:50:15",
+      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
+      "retrievedAt": "2025-05-05 19:05:53.159983",
+      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20996,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
+      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-04 12:09:22",
+      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
+      "retrievedAt": "2025-05-05 19:05:52.939572",
+      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20998,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
+      "publishedAt": "2025-05-04 10:19:13",
+      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.362249",
+      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20999,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
+      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
+      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-05-04 08:00:43",
+      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.964002",
+      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
+      "publishedAtLabel": "May 4"
+    },
     {
       "id": 20992,
       "query": [
@@ -25026,114 +25098,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]
