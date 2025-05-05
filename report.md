@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-05-04 19:05
-- **Most recent article:** 2025-05-03 18:53:21
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-05-05 07:08
+- **Most recent article:** 2025-05-04 05:03:01
 
 ---
 
@@ -10,27 +10,31 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 98 | 77 | 145 | 82 | 107 | 77 | 586 |
-| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 195 |
-| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 143 |
-| dengue | 18 | 14 | 24 | 30 | 16 | 31 | 133 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 123 |
-| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 72 |
-| meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 51 |
-| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 40 |
-| zika | 3 | 4 | 7 | 7 | 2 | 3 | 26 |
-| pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 21 |
-| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 17 |
-| typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 13 |
-| yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 3 |
-| leptospirosis | 0 | 0 | 0 | 1 | 0 | 1 | 2 |
+| Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 100 | 77 | 145 | 82 | 107 | 78 | 0 | 589 |
+| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 0 | 198 |
+| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 0 | 143 |
+| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 0 | 135 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 0 | 123 |
+| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 0 | 72 |
+| meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 0 | 51 |
+| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 1 | 41 |
+| zika | 3 | 4 | 7 | 7 | 2 | 3 | 0 | 26 |
+| pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
+| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 0 | 17 |
+| typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
+| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 3 |
+| yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-19 (rabies)
+
+- [Rabies infection can be fatal but preventable with timely action](https://timesofindia.indiatimes.com/city/lucknow/rabies-infection-can-be-fatal-but-preventable-with-timely-action/articleshow/120865657.cms) (The Times of India)
 
 ## 25-18 (zika)
 
@@ -107,6 +111,8 @@ Source: [News API](https://newsapi.org/)
 - [Edward Kwach: Radio Host Dies Weeks after Family Appealed for Blood Donation](https://www.tuko.co.ke/entertainment/celebrities/587347-edward-kwach-radio-host-dies-weeks-family-appeals-blood-donation/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-18 (measles)
+
+- [Measles Updates: More Than 930 Cases As Texas Outbreak Spreads](https://www.forbes.com/sites/antoniopequenoiv/2025/05/03/measles-updates-more-than-930-cases-as-texas-outbreak-spreads/) (Forbes)
 
 - [Province warns of possible measles exposure at Gretna Elementary School, 3 Winkler locations](https://www.cbc.ca/news/canada/manitoba/measle-cases-manitoba-exposure-1.7525903) (CBC News)
 
@@ -310,6 +316,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-18 (leptospirosis)
 
+- [MSP confirma la leptospirosis como causa de la muerte de niños en Taisha](https://www.elmercurio.com.ec/amazonia/2025/05/03/msp-confirma-la-leptospirosis-como-causa-de-la-muerte-de-ninos-en-taisha/) (Elmercurio.com.ec)
+
 - [Primeras pruebas apuntan a la leptospirosis como causa de la muerte de niños en Taisha](https://www.elmercurio.com.ec/amazonia/2025/05/02/leptospirosis-ninos-muerte-taisha/) (Elmercurio.com.ec)
 
 ## 25-18 (hpai)
@@ -351,6 +359,8 @@ Source: [News API](https://newsapi.org/)
 - [Global Virus Network Issues Urgent Call to Action to Mitigate the Rising Threat of H5N1 Avian Influenza](https://www.globenewswire.com/news-release/2025/04/28/3069774/0/en/Global-Virus-Network-Issues-Urgent-Call-to-Action-to-Mitigate-the-Rising-Threat-of-H5N1-Avian-Influenza.html) (GlobeNewswire)
 
 ## 25-18 (dengue)
+
+- [Esper Kallás, diretor do Instituto Butantan, é o convidado do ''Canal Livre'' para discutir avanço da dengue no Brasil](https://www.ouniversodatv.com/2025/05/esper-kallas-diretor-do-instituto.html) (Ouniversodatv.com)
 
 - [Caso di Dengue nel Comasco, iniziata la disinfestazione: “Importato dall’estero, nessun allarme”](https://www.ilfattoquotidiano.it/2025/05/03/caso-di-dengue-nel-comasco-iniziata-la-disinfestazione-importato-dallestero-nessun-allarme/7973734/) (Ilfattoquotidiano.it)
 
@@ -2810,6 +2820,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
+- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
+
+- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
+
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -2968,6 +2982,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
+- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
+
+- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
+
+- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
+
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3005,6 +3025,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
+
+- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 

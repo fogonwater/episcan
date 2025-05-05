@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-05-04 19:05",
-  "count_articles_total": 1384,
-  "count_articles_new": 13,
+  "last_updated": "2025-05-05 07:08",
+  "count_articles_total": 1394,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 20992,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Rabies infection can be fatal but preventable with timely action",
+      "description": "In India, rabies continues to be a significant public health concern, claiming thousands of lives annually despite being preventable. Srushti Shinde's tragic death after a dog bite highlights the critical gaps in rabies prevention and control.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/rabies-infection-can-be-fatal-but-preventable-with-timely-action/articleshow/120865657.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-120865746,width-1070,height-580,imgsize-349401,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-04 05:03:01",
+      "content": "Mom-to-be Gauahar Khans heavily embroidered ethnic ensembles",
+      "retrievedAt": "2025-05-05 07:07:59.182646",
+      "internal_id": "2c66b9468d5e4fe0cdfb2cdcf23096e64eea8905e49489f9286c6baef5eb94ae",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20994,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouniversodatv.com",
+      "author": "Anderson Ramos",
+      "title": "Esper Kall\u00e1s, diretor do Instituto Butantan, \u00e9 o convidado do ''Canal Livre'' para discutir avan\u00e7o da dengue no Brasil",
+      "description": "Esper Kall\u00e1s relata o andamento da vacina em dose \u00fanica contra a dengue. Foto: Reprodu\u00e7\u00e3o/Band O Canal Livre desta semana recebe Esper Kal...",
+      "url": "https://www.ouniversodatv.com/2025/05/esper-kallas-diretor-do-instituto.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQxoFKm7yTpgWat1iK11s3Vcmmxo9WiSJDng6QZkQgypXYR5KVyf-9IkQo1vBbJ3i-WICN9VgxAAeu5y7jsHPdnzCxB5xi7QZQ7FL4xVYKpHP7JsPCKQn-H4vglPMJsLuOjWmNbkeJdqlQ3UXsk9-5sidMcnRLACC5dI5Y3PRQFcL0eEwqqWm1iKLi6h6x/w1600/5895489.jpeg",
+      "publishedAt": "2025-05-03 23:20:00",
+      "content": "Esper Kall\u00e1s relata o andamento da vacina em dose \u00fanica contra a dengue. Foto: Reprodu\u00e7\u00e3o/Band O Canal Livre desta semana recebe Esper Kall\u00e1s, m\u00e9d\u2026 [+791 chars]",
+      "retrievedAt": "2025-05-05 07:08:00.987541",
+      "internal_id": "fe1344adde267a4259d1b50be4dce7e1e0b893b5561125ef7135811d6c9b21ff",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20995,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "Ra\u00fal Sacta Dom\u00ednguez",
+      "title": "MSP confirma la leptospirosis como causa de la muerte de ni\u00f1os en Taisha",
+      "description": "Tras semanas de preocupaci\u00f3n, silencio oficial y m\u00faltiples reclamos ciudadanos, el Ministerio de Salud P\u00fablica (MSP) confirm\u00f3 el s\u00e1bado, 3 de mayo de 2025, que la bacteria leptospira (leptospirosis) es la causante del brote registrado en la comunidad de Taish\u2026",
+      "url": "https://www.elmercurio.com.ec/amazonia/2025/05/03/msp-confirma-la-leptospirosis-como-causa-de-la-muerte-de-ninos-en-taisha/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-03 22:49:19",
+      "content": "Tras semanas de preocupaci\u00f3n, silencio oficial y m\u00faltiples reclamos ciudadanos, el Ministerio de Salud P\u00fablica (MSP) confirm\u00f3 el s\u00e1bado, 3 de mayo de 2025, que la bacteria leptospira (leptospirosis) \u2026 [+3099 chars]",
+      "retrievedAt": "2025-05-05 07:08:02.730634",
+      "internal_id": "10fe797fe9c3b0606e8a708411584e633d05ee825386a0ad791e3156d3c9621e",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 20993,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: More Than 930 Cases As Texas Outbreak Spreads",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/03/measles-updates-more-than-930-cases-as-texas-outbreak-spreads/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-03 20:21:47",
+      "content": "There are more than 930 confirmed cases of measles across the U.S. as of Friday, according to the Centers for Disease Control and Prevention, with a majority of the highly contagious illness present \u2026 [+8140 chars]",
+      "retrievedAt": "2025-05-05 07:07:59.762030",
+      "internal_id": "6941c5f3d9732b7cf267da196724451e69d7a5d06e7dcbf2b4d7eaac6c961026",
+      "publishedAtLabel": "May 3"
+    },
     {
       "id": 20986,
       "query": [
@@ -24954,6 +25026,114 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washington Examiner",
+      "author": "Zachary Faria",
+      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
+      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
+      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
+      "publishedAt": "2025-03-23 18:23:37",
+      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
+      "retrievedAt": "2025-03-26 07:07:06.836980",
+      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19595,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
+      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
+      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-03-23 17:00:25",
+      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.225892",
+      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
+      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
+      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-03-23 16:42:18",
+      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.928629",
+      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
+      "url": "https://www.memeorandum.com/250323/p11",
+      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-03-23 14:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-24 19:05:57.155342",
+      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19597,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1203: What's old is flu again",
+      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1203/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-23 13:07:22",
+      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.330113",
+      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19596,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
+      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
+      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
+      "publishedAt": "2025-03-23 12:39:14",
+      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.234543",
+      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]
