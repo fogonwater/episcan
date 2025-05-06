@@ -1,8 +1,99 @@
 {
-  "last_updated": "2025-05-05 19:05",
-  "count_articles_total": 1392,
-  "count_articles_new": 4,
+  "last_updated": "2025-05-06 07:07",
+  "count_articles_total": 1409,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 21000,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY DR. ITAY GAL",
+      "title": "Health Ministry revises guidelines amid measles cases rise in Israel",
+      "description": "The update comes as eight cases have been confirmed this year, against the backdrop of widespread outbreaks in the United States and Europe.",
+      "url": "https://www.jpost.com/israel-news/article-852661",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/661742",
+      "publishedAt": "2025-05-05 06:58:27",
+      "content": "The Health Ministry has issued revised guidelines for healthcare workers and the general public in response to an uptick in measles cases across Israel. The update comes as eight cases have been co\u2026 [+3022 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.558917",
+      "internal_id": "2b735fbbb75203fa48f7e8d5e24d42eaa29b726ad4b6d8bcfd4dd96a89985738",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21008,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Aditya Eka Prawira",
+      "title": "Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue",
+      "description": "Kolaborasi daerah dan pusat penting untuk tangkal lonjakan kasus dengue. Vaksinasi dan pencegahan jadi kunci pengendalian penyakit ini di Indonesia.",
+      "url": "https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue",
+      "urlToImage": "https://cdn0-production-images-kly.akamaized.net/4o0SCaPMReN0R0Qe5hhkRaFse4E=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2361022/original/097624000_1537188784-20180917-Waduk-Jatigede-6.jpg",
+      "publishedAt": "2025-05-05 05:26:06",
+      "content": "Liputan6.com, Jakarta - Peningkatan kasus dengue di Indonesia terus menjadi masalah kesehatan serius. Data terbaru menunjukkan bahwa hampir seluruh kabupaten/kota di Indonesia terjangkit penyakit yan\u2026 [+1462 chars]",
+      "retrievedAt": "2025-05-06 07:07:42.538920",
+      "internal_id": "2b35dabab63fb4f278ce5e60d1970a42a5e670c3d802159d789dac8dcfb00a64",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21007,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe",
+      "description": "HPAI A(H5N1) Clade 2.3.4.4b Genotype EA-2023-DG",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-05-05 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Since 2016, Europe has exp\u2026 [+25419 chars]",
+      "retrievedAt": "2025-05-06 07:07:42.033961",
+      "internal_id": "11c6126913d27d53322f8e9ab8dbcb953542fd6909518ee2bb4f8ae75b706808",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21010,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Premium Times",
+      "title": "Pharmaceutical firm unveils national competition portal to tackle malaria",
+      "description": "With over N1 billion committed to the programme, the organisers said N400 million will go to student prizes, while N600 million will be used for educational materials and gifts for participants across the 36 states and the Federal Capital Territory (FCT)",
+      "url": "https://www.premiumtimesng.com/health/health-news/792248-pharmaceutical-firm-unveils-national-competition-portal-to-tackle-malaria.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2024/12/8143929538_78a76a9b23_b.jpg",
+      "publishedAt": "2025-05-04 21:55:56",
+      "content": "A pharmaceutical firm, Geneith Pharmaceuticals Limited, has launched a national online portal to engage secondary and tertiary school students in Nigeria in a health competition aimed at combating ma\u2026 [+1688 chars]",
+      "retrievedAt": "2025-05-06 07:07:42.973740",
+      "internal_id": "4f70dad4fb5c0dfcbfc406a0c253877bf2fdf646e482a44e98931e8a0ce00560",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 21009,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Malaria outbreak in Kokrajhar: 443 cases reported",
+      "description": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-year-old girl and two adolescent boys aged 15 and 19. In respo\u2026",
+      "url": "https://thehillstimes.in/assam/malaria-outbreak-in-kokrajhar-443-cases-reported",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/05/Lead-5.jpg",
+      "publishedAt": "2025-05-04 21:10:00",
+      "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
+      "retrievedAt": "2025-05-06 07:07:42.962390",
+      "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
+      "publishedAtLabel": "May 4"
+    },
     {
       "id": 20997,
       "query": [
@@ -474,6 +565,24 @@
       "publishedAtLabel": "May 2"
     },
     {
+      "id": 21003,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "Measles scare at major airport: What to know about potential exposure",
+      "description": "The Illinois Department of Public Health (IDPH) is sounding the alarm on a potential measles exposure at Chicago O\u2019Hare International Airport. Here's what you need to know.",
+      "url": "https://www.foxnews.com/health/measles-scare-major-airport-what-know-about-potential-exposure",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2166092612.jpg",
+      "publishedAt": "2025-05-02 21:17:29",
+      "content": "The Illinois Department of Public Health (IDPH) is sounding the alarm on a potential measles exposure at Chicago OHare International Airport. In a news release on April 30, the department identified\u2026 [+3468 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.621895",
+      "internal_id": "32ebdc70f9c234cab66ba6578c2fac599bb8e20ff5a998b19d5b9d57f181da12",
+      "publishedAtLabel": "May 2"
+    },
+    {
       "id": 20974,
       "query": [
         "measles"
@@ -543,6 +652,24 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-05-04 07:06:28.156671",
       "internal_id": "2dce84c07aca0f91c379b671f24c0565ed312490bb834376e5846c543c4ac549",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 21004,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scienceblogs.com",
+      "author": "sb admin",
+      "title": "No Secretary Kennedy, The MMR Vaccine Does Not Contain 'Aborted Fetus Debris'",
+      "description": "No Secretary Kennedy, The MMR Vaccine Does Not Contain 'Aborted Fetus Debris' Robert F. Kennedy Jr, the United States\u2019 top public health official, recently claimed some religious groups avoid the measles, mumps and rubella (MMR) vaccine because it contains \u2026",
+      "url": "https://scienceblogs.com/sb-admin/2025/05/02/no-secretary-kennedy-mmr-vaccine-does-not-contain-aborted-fetus-debris-151464",
+      "urlToImage": "https://scienceblogs.com/files/blogs/MMR%20vaccine.jpg",
+      "publishedAt": "2025-05-02 19:56:43",
+      "content": "Robert F. Kennedy Jr, the United States top public health official, recently claimed some religious groups avoid the measles, mumps and rubella (MMR) vaccine because it contains aborted fetus debris \u2026 [+4772 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.630363",
+      "internal_id": "6fff1d1cf4dd31b0f813c8839449afdf72927e264e8365f6f254b7510faf34a5",
       "publishedAtLabel": "May 2"
     },
     {
@@ -945,6 +1072,24 @@
       "publishedAtLabel": "May 2"
     },
     {
+      "id": 21005,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Katherine Dillinger",
+      "title": "Kennedy urges alternative measles treatments",
+      "description": "HHS Sec. Robert F. Kennedy Jr. is asking the CDC for an agency-wide \u201cscientific process\u201d on treating measles and other conditions with medications as well as alternative therapies.",
+      "url": "https://www.wesh.com/article/robert-kennedy-cdc-measles-treatment-alternative-therapies/64652634",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2210910522-6814a60f3d681.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "publishedAt": "2025-05-02 11:35:33",
+      "content": "WASHINGTON \u2014Robert F. Kennedy Jr., secretary of the Department of Health and Human Services, is asking the Centers for Disease Control and Prevention for an agency-wide scientific process on treating\u2026 [+3649 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.638464",
+      "internal_id": "84bf026e19463b78107e28f24df50428bb1a787e91d952ff630d7a198e040c81",
+      "publishedAtLabel": "May 2"
+    },
+    {
       "id": 20961,
       "query": [
         "chikungunya"
@@ -978,6 +1123,42 @@
       "content": "Introduction Tuberculosis (TB) is the most common infectious disease, causing more deaths annually than HIV and malaria together.1 Globally, about 10 million people fall ill with TB every year,2 and\u2026 [+11128 chars]",
       "retrievedAt": "2025-05-03 19:05:56.208378",
       "internal_id": "7389fc296c701bfd7215860287b4c3b8411b1dae28e93b2233689161a05c1913",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 21002,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Marszalek, M., Firman, N., Wilk, M., Gutierrez, A., Smith, K., Dezateux, C.",
+      "title": "Household determinants of delayed MMR vaccination: longitudinal analysis using electronic health records in North East London, UK",
+      "description": "Objectives There is a lack of information about household factors associated with delayed measles, mumps and rubella (MMR) vaccination. We examined whether timeliness of first MMR (MMR1) receipt is associated with sharing a household with an older child with \u2026",
+      "url": "https://bmjopen.bmj.com/content/15/5/e097559",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-05-02 10:04:09",
+      "content": "Introduction Childhood vaccinations form an essential part of public health interventions provided by primary care.1 In England and Wales, it is recommended that children receive a first dose of mea\u2026 [+12384 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.613205",
+      "internal_id": "b9403bed57710c87484d949d45cfe3e081c5594f7cca9f7e2de2e75cf53b8dfc",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 21001,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Phoebe Williams and Archana Koirala",
+      "title": "What are the symptoms of measles and how long does the vaccine last?",
+      "description": "Measles outbreaks are occurring across the world. Experts Phoebe Williams and Archana Koirala answer six key questions",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-symptoms-virus-vaccine-chickenpox-b2743664.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/01/11/31/iStock-1142840317.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-02 10:01:20",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6806 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.603363",
+      "internal_id": "3ffb0d7eb1ab695952ed34ae8dcab1d874e250377f1b6a1bb9cad22e37899353",
       "publishedAtLabel": "May 2"
     },
     {
@@ -1140,6 +1321,24 @@
       "content": "from the n95-tinfoil-hats-are-next dept RFK Jr.\u2019s tenure at HHS must be put to an end. We already have ample evidence for that necessity, both in the form of his complete mismanagement of a ballooni\u2026 [+3348 chars]",
       "retrievedAt": "2025-05-03 07:06:19.305832",
       "internal_id": "6a98228529fc1947d2727e8402477f31fe547b3d9dd91e521fd8c33176c47573",
+      "publishedAtLabel": "May 2"
+    },
+    {
+      "id": 21006,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Katherine Dillinger",
+      "title": "Kennedy to ask CDC for new look at treatments for measles, other diseases | CNN",
+      "description": "Robert F. Kennedy Jr., secretary of the US Department of Health and Human Services, is asking the US Centers for Disease Control and Prevention for an agencywide \u201cscientific process\u201d on treating measles and other conditions with medications as well as alterna\u2026",
+      "url": "https://www.cnn.com/2025/05/01/health/cdc-hhs-measles-treatments",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2212164414.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-02 02:26:20",
+      "content": "Robert F. Kennedy Jr., secretary of the US Department of Health and Human Services, is asking the US Centers for Disease Control and Prevention for an agencywide scientific process on treating measle\u2026 [+3560 chars]",
+      "retrievedAt": "2025-05-06 07:07:41.647811",
+      "internal_id": "30b68bc63e2af1f9ff9e323e85e10ddf44b621a63a133a3cc11dc9960596563d",
       "publishedAtLabel": "May 2"
     },
     {
@@ -25098,6 +25297,114 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washington Examiner",
+      "author": "Zachary Faria",
+      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
+      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
+      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
+      "publishedAt": "2025-03-23 18:23:37",
+      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
+      "retrievedAt": "2025-03-26 07:07:06.836980",
+      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19595,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
+      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
+      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-03-23 17:00:25",
+      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.225892",
+      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
+      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
+      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-03-23 16:42:18",
+      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.928629",
+      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
+      "url": "https://www.memeorandum.com/250323/p11",
+      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-03-23 14:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-24 19:05:57.155342",
+      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19597,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1203: What's old is flu again",
+      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1203/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-23 13:07:22",
+      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.330113",
+      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19596,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
+      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
+      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
+      "publishedAt": "2025-03-23 12:39:14",
+      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.234543",
+      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]

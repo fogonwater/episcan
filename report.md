@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-05-05 19:05
-- **Most recent article:** 2025-05-04 14:50:15
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-05-06 07:07
+- **Most recent article:** 2025-05-05 06:58:27
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 98 | 77 | 145 | 82 | 107 | 78 | 2 | 589 |
-| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 0 | 195 |
+| measles | 100 | 77 | 145 | 82 | 107 | 84 | 3 | 598 |
+| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 1 | 199 |
 | chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 0 | 143 |
-| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 0 | 134 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 0 | 123 |
+| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 1 | 136 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 2 | 125 |
 | mpox | 11 | 17 | 18 | 10 | 5 | 11 | 1 | 73 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 0 | 51 |
 | rabies | 19 | 7 | 7 | 0 | 3 | 4 | 1 | 41 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 0 | 26 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
-| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 0 | 17 |
+| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 1 | 18 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
 | leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 1 | 4 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -42,13 +42,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (measles)
 
+- [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
+
 - [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
 
 - [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
 
+## 25-19 (malaria)
+
+- [Pharmaceutical firm unveils national competition portal to tackle malaria](https://www.premiumtimesng.com/health/health-news/792248-pharmaceutical-firm-unveils-national-competition-portal-to-tackle-malaria.html) (Premium Times)
+
+- [Malaria outbreak in Kokrajhar: 443 cases reported](https://thehillstimes.in/assam/malaria-outbreak-in-kokrajhar-443-cases-reported) (Thehillstimes.in)
+
 ## 25-19 (leptospirosis)
 
 - [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
+
+## 25-19 (hpai)
+
+- [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
+
+## 25-19 (h5n1)
+
+- [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
+
+## 25-19 (dengue)
+
+- [Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue](https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue) (Liputan6.com)
 
 ## 25-18 (zika)
 
@@ -146,6 +166,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Weekly measles cases hit new record amid worst outbreak since 1990s](https://www.cbsnews.com/news/weekly-measles-cases-hit-new-record-amid-worst-outbreak-since-1990s/) (CBS News)
 
+- [Measles scare at major airport: What to know about potential exposure](https://www.foxnews.com/health/measles-scare-major-airport-what-know-about-potential-exposure) (Fox News)
+
 - [Alberta's measles case count surges above 200](https://www.cbc.ca/news/canada/calgary/alberta-measles-passes-200-1.7525280) (CBC News)
 
 - [Kennedy Orders Search for New Measles Treatments](https://politicalwire.com/2025/05/02/kennedy-orders-search-for-new-measles-treatments/) (Politicalwire.com)
@@ -153,6 +175,8 @@ Source: [News API](https://newsapi.org/)
 - [Toronto Public Health warns of possible measles exposure at Ripley's Aquarium](https://www.cbc.ca/news/canada/toronto/measles-exposure-ripleys-aquarium-monday-may-21-1.7525398) (CBC News)
 
 - [Kennedy Orders Search for New Measles Treatments Instead of Urging Vaccination (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250502/p113) (Memeorandum.com)
+
+- [No Secretary Kennedy, The MMR Vaccine Does Not Contain 'Aborted Fetus Debris'](https://scienceblogs.com/sb-admin/2025/05/02/no-secretary-kennedy-mmr-vaccine-does-not-contain-aborted-fetus-debris-151464) (Scienceblogs.com)
 
 - [Texas Measles Outbreak Widens](https://politicalwire.com/2025/05/02/texas-measles-outbreak-widens/) (Politicalwire.com)
 
@@ -168,11 +192,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Number of measles cases 50 times higher last year than in 2023, data shows](https://www.irishtimes.com/health/2025/05/02/number-of-measles-cases-50-times-higher-last-year-than-in-2023-data-shows/) (The Irish Times)
 
+- [Kennedy urges alternative measles treatments](https://www.wesh.com/article/robert-kennedy-cdc-measles-treatment-alternative-therapies/64652634) (WESH Orlando)
+
+- [Household determinants of delayed MMR vaccination: longitudinal analysis using electronic health records in North East London, UK](https://bmjopen.bmj.com/content/15/5/e097559) (The BMJ)
+
+- [What are the symptoms of measles and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-virus-vaccine-chickenpox-b2743664.html) (The-independent.com)
+
 - [RFK Jr. asks CDC for new measles treatment guidance amid his unfounded claims (Alexander Tin/CBS News)](https://www.memeorandum.com/250502/p4) (Memeorandum.com)
 
 - [The MMR vaccine doesn’t contain ‘aborted fetus debris’, as RFK Jr has claimed. Here’s the science](https://theconversation.com/the-mmr-vaccine-doesnt-contain-aborted-fetus-debris-as-rfk-jr-has-claimed-heres-the-science-255718) (The Conversation Africa)
 
 - [RFK Jr. Wants You To Know HHS Is Committed To Stopping Chemtrails From Poisoning You](https://www.techdirt.com/2025/05/01/rfk-jr-wants-you-to-know-hhs-is-committed-to-stopping-chemtrails-from-poisoning-you/) (Techdirt)
+
+- [Kennedy to ask CDC for new look at treatments for measles, other diseases | CNN](https://www.cnn.com/2025/05/01/health/cdc-hhs-measles-treatments) (CNN)
 
 - [RFK Jr revives debunked measles vaccine claims as US nears 900 cases](https://www.abc.net.au/news/2025-05-02/robert-f-kennedy-jr-revives-measles-vaccine-claims/105242968) (ABC News (AU))
 
@@ -2834,6 +2866,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
+- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
+
+- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
+
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -2992,6 +3028,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
+- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
+
+- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
+
+- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
+
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3029,6 +3071,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
+
+- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
