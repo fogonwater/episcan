@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-05-06 07:07
-- **Most recent article:** 2025-05-05 06:58:27
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-05-06 19:05
+- **Most recent article:** 2025-05-05 17:30:20
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 100 | 77 | 145 | 82 | 107 | 84 | 3 | 598 |
-| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 1 | 199 |
-| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 0 | 143 |
-| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 1 | 136 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 2 | 125 |
-| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 1 | 73 |
+| measles | 98 | 77 | 145 | 82 | 107 | 84 | 4 | 597 |
+| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 6 | 201 |
+| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 1 | 144 |
+| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 1 | 135 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 3 | 126 |
+| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 2 | 74 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 0 | 51 |
-| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 1 | 41 |
+| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 4 | 44 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 0 | 26 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 1 | 18 |
@@ -34,13 +34,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (rabies)
 
+- [Improved effectiveness of vaccination campaigns against rabies by reducing spatial heterogeneity in coverage](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002872) (Plos.org)
+
+- [केरल में चौंकाने वाला केस! वैक्सीन लगने के बाद भी रेबीज से बच्ची की मौत, 1 महीने में 3 मरे](https://www.aajtak.in/india/news/story/kerala-girl-dies-rabies-despite-vaccine-third-child-death-month-lclnt-rptc-2233111-2025-05-05) (Aajtak.in)
+
+- [7-Year-Old Dies Of Rabies Despite Vaccine In Kerala, 3rd Case In Month](https://www.ndtv.com/india-news/7-year-old-dies-of-rabies-despite-vaccine-in-kerala-3rd-case-in-month-8335564) (NDTV News)
+
 - [Rabies infection can be fatal but preventable with timely action](https://timesofindia.indiatimes.com/city/lucknow/rabies-infection-can-be-fatal-but-preventable-with-timely-action/articleshow/120865657.cms) (The Times of India)
 
 ## 25-19 (mpox)
 
+- [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
+
 - [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
 
 ## 25-19 (measles)
+
+- [Missouri Department of Health warns of measles exposure at St. Louis Aquarium](https://www.stltoday.com/news/local/metro/article_0a641381-0dc3-4d97-82ec-955d119bf664.html) (STLtoday.com)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
@@ -49,6 +59,8 @@ Source: [News API](https://newsapi.org/)
 - [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
 
 ## 25-19 (malaria)
+
+- [Hydroxycloroquine-Pushing COVID Truther Is Back at at the Department of Health and Human Services](https://www.thedailybeast.com/hydroxycloroquine-pushing-covid-truther-is-back-at-at-the-department-of-health-and-human-services/) (Daily Beast)
 
 - [Pharmaceutical firm unveils national competition portal to tackle malaria](https://www.premiumtimesng.com/health/health-news/792248-pharmaceutical-firm-unveils-national-competition-portal-to-tackle-malaria.html) (Premium Times)
 
@@ -64,11 +76,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (h5n1)
 
+- [Bird Flu Poses A Rising Risk To Humans](https://www.shtfplan.com/headline-news/bird-flu-poses-a-rising-risk-to-humans) (Shtfplan.com)
+
+- [Top Animal Health Experts Address H5N1 Bird Flu in Trupanion Webinar](https://www.globenewswire.com/news-release/2025/05/05/3074084/0/en/Top-Animal-Health-Experts-Address-H5N1-Bird-Flu-in-Trupanion-Webinar.html) (GlobeNewswire)
+
+- [What is H5N1 Virus? How It Spreads to Humans](https://www.ndtv.com/health/what-is-h5n1-virus-how-it-spreads-to-humans-8336264) (NDTV News)
+
+- [Iván Restrepo: Con Trump, EU quedará rezagado](https://www.jornada.com.mx/2025/05/05/politica/015a1pol) (Jornada.com.mx)
+
+- [Veszélyes víruslaboratórium alakulhat ki – erős vészjelzést küldött az EU-s hatóság](https://www.portfolio.hu/gazdasag/20250505/veszelyes-viruslaboratorium-alakulhat-ki-eros-veszjelzest-kuldott-az-eu-s-hatosag-758829) (Portfolio.hu)
+
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
 ## 25-19 (dengue)
 
 - [Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue](https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue) (Liputan6.com)
+
+## 25-19 (chikungunya)
+
+- [Assessing chikungunya’s economic burden and impact on health-related quality of life: Two systematic literature reviews](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012990) (Plos.org)
 
 ## 25-18 (zika)
 
@@ -2866,10 +2892,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
-- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
-
-- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
-
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3028,12 +3050,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
-- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
-
-- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
-
-- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
-
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3071,8 +3087,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
-
-- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 

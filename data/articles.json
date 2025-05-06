@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-05-06 07:07",
-  "count_articles_total": 1409,
-  "count_articles_new": 11,
+  "last_updated": "2025-05-06 19:05",
+  "count_articles_total": 1415,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 21015,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Poses A Rising Risk To Humans",
+      "description": "The Global Virus Network says that the H5N1 avian influenza, or bird flu, is posing a rising risk to human beings. GVN is an international coalition of leading human and animal virologists spanning more than 80 Centers of Excellence and Affiliates in over 40 \u2026",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-poses-a-rising-risk-to-humans",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-05-05 17:30:20",
+      "content": "The Global Virus Network says that the H5N1 avian influenza, or bird flu, is posing a rising risk to human beings. GVN is an international coalition of leading human and animal virologists spanning m\u2026 [+1955 chars]",
+      "retrievedAt": "2025-05-06 19:05:46.673384",
+      "internal_id": "06289a8116b79fd33d3c19e9264aae62b8b8f1625a0fb567383d8334a6e33b45",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21020,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Janna Brancolini",
+      "title": "Hydroxycloroquine-Pushing COVID Truther Is Back at at the Department of Health and Human Services",
+      "description": "Steven J. Hatfill, who still thinks malaria drugs can treat COVID-19, said he will \u201chelp get us ready for the next pandemic.\u201d",
+      "url": "https://www.thedailybeast.com/hydroxycloroquine-pushing-covid-truther-is-back-at-at-the-department-of-health-and-human-services/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/6D665CENG5AKBLZGUNAH36GCPE.jpg?smart=true&auth=b1f6e13f814576b6fc1e971b31369301dbfa36a7f6cd1268b99f722813dd5330&width=1200&height=630",
+      "publishedAt": "2025-05-05 17:05:30",
+      "content": "A former White House adviser who pushed malaria drugs as a treatment for COVID-19 long after the FDA had ruled them out has been tapped to join the Department of Health and Human Services pandemic re\u2026 [+3900 chars]",
+      "retrievedAt": "2025-05-06 19:05:47.842974",
+      "internal_id": "99320e6994dc3dc2c3b47ee571f58b85541b2fdd72da46b7ec09fd334b1f7a94",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21014,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STLtoday.com",
+      "author": "online@post-dispatch.com (From staff reports)",
+      "title": "Missouri Department of Health warns of measles exposure at St. Louis Aquarium",
+      "description": "The person visited the aquarium on April 30 between 1 and 6 p.m.",
+      "url": "https://www.stltoday.com/news/local/metro/article_0a641381-0dc3-4d97-82ec-955d119bf664.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/a6/0a641381-0dc3-4d97-82ec-955d119bf664/6818d11753bbd.preview.jpg?crop=1631%2C856%2C0%2C111&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-05 14:45:00",
+      "content": "An out-of-state resident may have exposed visitors at the St. Louis Aquarium to the measles last week, according to a press release from the Missouri Department of Health and Senior Services. The pe\u2026 [+1034 chars]",
+      "retrievedAt": "2025-05-06 19:05:46.169773",
+      "internal_id": "9c398027ee8b23266783dd9201b1d10fe921bf7497d516984b5c918f0e796588",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21022,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Regi\u00e3o Norte do Brasil registra casos de mpox",
+      "description": "Foram 33 casos confirmados no Amazonas e 19 no Par\u00e1",
+      "url": "https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/03/mpox-o-que-e-sintomas-diagnostico-e-tratamentos-eficazes.webp?crop=1&resize=1080,565",
+      "publishedAt": "2025-05-05 14:00:33",
+      "content": "Rel\u00e2mpago: Digital Completo a partir R$ 5,99Foram 33 casos confirmados no Amazonas e 19 no Par\u00e1 Por Paula Laboissi\u00e8re | Ag\u00eancia Brasil 5 Maio 2025, 11h00 Mpox: primeiro caso de nova cepa em SP (\u2026 [+4136 chars]",
+      "retrievedAt": "2025-05-06 19:05:48.512966",
+      "internal_id": "a9ed7751fd57663c2724134536e3df34fafaa23f8d7b729f5f9c4ac627c8de9a",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21011,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Elaine A. Ferguson, Ahmed Lugelo, Anna Czupryna, Danni Anderson, Felix Lankester, Lwitiko Sikana, Jonathan Dushoff, Katie Hampson",
+      "title": "Improved effectiveness of vaccination campaigns against rabies by reducing spatial heterogeneity in coverage",
+      "description": "Uneven vaccination coverage is thought to decrease disease control, but this has never been quantified empirically. This study on fine-grained data of 20 years of dog vaccination in Tanzania shows that reducing coverage gaps lowers rabies incidence, while hig\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002872",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002872.g005&size=inline",
+      "publishedAt": "2025-05-05 14:00:00",
+      "content": "Citation: Ferguson EA, Lugelo A, Czupryna A, Anderson D, Lankester F, Sikana L, et al. (2025) Improved effectiveness of vaccination campaigns against rabies by reducing spatial heterogeneity in cover\u2026 [+77244 chars]",
+      "retrievedAt": "2025-05-06 19:05:45.544356",
+      "internal_id": "a256efad5f830648181d407374cddc4549d3d23264e0bd1c217d0cc6e29a4a5a",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21021,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Giorgia Tiozzo, Adrianne M. de Roo, Gabriel S. Gurgel do Amaral, Hinko Hofstra, Gerard T. Vondeling, Maarten J. Postma",
+      "title": "Assessing chikungunya\u2019s economic burden and impact on health-related quality of life: Two systematic literature reviews",
+      "description": "Author summary Chikungunya is a mosquito-borne illness that has rapidly spread across tropical and subtropical regions, presenting a substantial public health threat. The infection with the chikungunya virus (CHIKV) causes acute symptoms such as high fever an\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012990",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012990.g001&size=inline",
+      "publishedAt": "2025-05-05 14:00:00",
+      "content": "Citation: Tiozzo G, de Roo AM, Gurgel do Amaral GS, Hofstra H, Vondeling GT, Postma MJ (2025) Assessing chikungunyas economic burden and impact on health-related quality of life: Two systematic liter\u2026 [+33523 chars]",
+      "retrievedAt": "2025-05-06 19:05:48.345502",
+      "internal_id": "1b0bb173ee0512e7615f663b0b1b2b2dd42bfdb4f1a26793d5bdf59291f5a501",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21017,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Trupanion, Inc.",
+      "title": "Top Animal Health Experts Address H5N1 Bird Flu in Trupanion Webinar",
+      "description": "Panelists from the American Veterinary Medical Association, World Small Animal Veterinary Association One Health Committee, and others will share critical updates on H5N1 bird flu Panelists from the American Veterinary Medical Association, World Small Animal \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/05/05/3074084/0/en/Top-Animal-Health-Experts-Address-H5N1-Bird-Flu-in-Trupanion-Webinar.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/81a9a14a-a4ab-4b1f-94d1-967aeded0924",
+      "publishedAt": "2025-05-05 13:00:00",
+      "content": "SEATTLE, May 05, 2025 (GLOBE NEWSWIRE) -- Trupanion (Nasdaq: TRUP), the leading provider of medical insurance for dogs and cats, will host an upcoming webinar focused on the evolving state of bird fl\u2026 [+4835 chars]",
+      "retrievedAt": "2025-05-06 19:05:46.704475",
+      "internal_id": "35a57de411b174e9fa5ab5277676af846c7ad3b0ba8474fc28a691d433a15e37",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21013,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0936\u093f\u092c\u093f\u092e\u094b\u0932",
+      "title": "\u0915\u0947\u0930\u0932 \u092e\u0947\u0902 \u091a\u094c\u0902\u0915\u093e\u0928\u0947 \u0935\u093e\u0932\u093e \u0915\u0947\u0938! \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0932\u0917\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u092d\u0940 \u0930\u0947\u092c\u0940\u091c \u0938\u0947 \u092c\u091a\u094d\u091a\u0940 \u0915\u0940 \u092e\u094c\u0924, 1 \u092e\u0939\u0940\u0928\u0947 \u092e\u0947\u0902 3 \u092e\u0930\u0947",
+      "description": "\u0915\u0947\u0930\u0932 \u0915\u0947 \u0915\u094b\u0932\u094d\u0932\u092e \u092e\u0947\u0902 7 \u0938\u093e\u0932 \u0915\u0940 \u092c\u091a\u094d\u091a\u0940 \u0928\u093f\u092f\u093e \u0915\u0940 \u0930\u0947\u092c\u0940\u091c \u0938\u0947 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908, \u091c\u092c\u0915\u093f \u0909\u0938\u0947 \u0924\u0940\u0928 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0926\u0940 \u0917\u0908 \u0925\u0940. \u092c\u091a\u094d\u091a\u0940 \u0915\u094b \u0917\u0939\u0930\u0940 \u091a\u094b\u091f\u0947\u0902 \u0906\u0908 \u0925\u0940\u0902, \u091c\u093f\u0938\u0938\u0947 \u0935\u093e\u092f\u0930\u0938 \u0926\u093f\u092e\u093e\u0917 \u0924\u0915 \u092a\u0939\u0941\u0902\u091a \u0917\u092f\u093e. \u092e\u0902\u0924\u094d\u0930\u0940 \u090f\u092e\u092c\u0940 \u0930\u093e\u091c\u0947\u0936 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0906\u0935\u093e\u0930\u093e \u0915\u0941\u0924\u094d\u0924\u094b\u0902 \u0915\u0940 \u0938\u092e\u0938\u094d\u092f\u093e \u0917\u0902\u092d\u0940\u0930 \u0939\u094b\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948.",
+      "url": "https://www.aajtak.in/india/news/story/kerala-girl-dies-rabies-despite-vaccine-third-child-death-month-lclnt-rptc-2233111-2025-05-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202505/6818b2c041ab0-a-seven-year-old-kerala-girl-died-of-rabies-despite-being-given-a-vaccine-054442855-16x9.png",
+      "publishedAt": "2025-05-05 12:45:57",
+      "content": "(Rabies Infection) , - (Anti-Rabies Vaccinations) . , . 8 , . - . . SAT , . , SAT , , . , ' , . , . . , , , . , .' (ABC) . , . , . , ABC . 30 ABC .",
+      "retrievedAt": "2025-05-06 19:05:45.591194",
+      "internal_id": "7c90b8ca7454cdee32d0d28206a2fe669987874da0f23614d79fe71d6e05052f",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21018,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Varsha Vats",
+      "title": "What is H5N1 Virus? How It Spreads to Humans",
+      "description": "According to the World Health Organization, infections in humans can cause severe disease with a high mortality rate.",
+      "url": "https://www.ndtv.com/health/what-is-h5n1-virus-how-it-spreads-to-humans-8336264",
+      "urlToImage": "https://i.ndtvimg.com/i/2016-11/bird-flu_650x400_51478195951.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-05-05 12:44:51",
+      "content": "The H5N1 bird flu virus has affected all 50 states in the US. Since March 2024, the virus has infected more than 1,000 dairy herds across the US, with more than 70 human infections. The Global Virus \u2026 [+2892 chars]",
+      "retrievedAt": "2025-05-06 19:05:46.713538",
+      "internal_id": "d1670cdee058d1b8dc9c8f1688dc754268a5ba8378a0c652bed9437e5a39cb35",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21012,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Press Trust of India",
+      "title": "7-Year-Old Dies Of Rabies Despite Vaccine In Kerala, 3rd Case In Month",
+      "description": "A seven-year-old girl who contracted rabies despite receiving vaccination after the dog bite, died at a state-run hospital on Monday, family sources said.",
+      "url": "https://www.ndtv.com/india-news/7-year-old-dies-of-rabies-despite-vaccine-in-kerala-3rd-case-in-month-8335564",
+      "urlToImage": "https://c.ndtvimg.com/2022-10/e6u97c98_stray-dogs-generic_625x300_18_October_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-05-05 11:24:23",
+      "content": "Summary is AI generated, newsroom reviewed. A seven-year-old girl died from rabies despite vaccination after a dog bite. Niya Faisal was on ventilator support at a state-run hospital. Her death ma\u2026 [+3687 chars]",
+      "retrievedAt": "2025-05-06 19:05:45.582368",
+      "internal_id": "fb953bdc378dac60b5912c2a3db969e5ab8a97b4320750add5a9eaeeb3479dd5",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21016,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Iv\u00e1n Restrepo",
+      "title": "Iv\u00e1n Restrepo: Con Trump, EU quedar\u00e1 rezagado",
+      "description": "Los primeros meses de este a\u00f1o, Estados Unidos enfrent\u00f3 el \u00adpeligro de una pandemia de \u00adgripe aviar altamente pat\u00f3gena (el virus H5N1), para la cual \u00adning\u00fan pa\u00eds est\u00e1 preparado para \u00adcontrolarla. Esa gripe tiene una tasa de mortalidad del 50 por ciento entre \u2026",
+      "url": "https://www.jornada.com.mx/2025/05/05/politica/015a1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-05-05 09:20:02",
+      "content": "os primeros meses de este a\u00f1o, Estados Unidos enfrent\u00f3 el \u00adpeligro de una pandemia de \u00adgripe aviar altamente pat\u00f3gena (el virus H5N1), para la cual \u00adning\u00fan pa\u00eds est\u00e1 preparado para \u00adcontrolarla. Esa \u2026 [+4123 chars]",
+      "retrievedAt": "2025-05-06 19:05:46.696093",
+      "internal_id": "d2fb1628b6284f9564906f8012d66dc2dfc2993502bc91318cff2514870a4edf",
+      "publishedAtLabel": "May 5"
+    },
+    {
+      "id": 21019,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Vesz\u00e9lyes v\u00edruslaborat\u00f3rium alakulhat ki \u2013 er\u0151s v\u00e9szjelz\u00e9st k\u00fcld\u00f6tt az EU-s hat\u00f3s\u00e1g",
+      "description": "Az Eur\u00f3pai \u00c9lelmiszerbiztons\u00e1gi Hat\u00f3s\u00e1g vezet\u0151je arra figyelmeztetett, hogy a mad\u00e1rinfluenza sert\u00e9sekre terjed\u00e9se s\u00falyos k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi kock\u00e1zatot jelenthet. A v\u00edrus sert\u00e9sekben emberi influenz\u00e1val keveredve ak\u00e1r j\u00e1rv\u00e1nyt is okozhat, mik\u00f6zben m\u00e1s \u00e1llatbetegs\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20250505/veszelyes-viruslaboratorium-alakulhat-ki-eros-veszjelzest-kuldott-az-eu-s-hatosag-758829",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/a/n/t/antibiotikum-bakterium-jarvany-egeszsegugy-covid-betegseg-696861.jpg",
+      "publishedAt": "2025-05-05 08:16:00",
+      "content": "A mad\u00e1rinfluenza (H5N1) gyorsan terjed m\u00e1s \u00e1llatfajok k\u00f6zt\u00fck a szarvasmarh\u00e1k \u00e9s juhok k\u00f6z\u00f6tt, \u00e9s ha a v\u00edrus a sert\u00e9s\u00e1llom\u00e1nyban is elterjed, az komoly k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi vesz\u00e9lyt jelenthet v\u00e9li Bernhard\u2026 [+1264 chars]",
+      "retrievedAt": "2025-05-06 19:05:46.728336",
+      "internal_id": "35ec73c19b914adb8bc9aa45fc2f6b518016c046566829d94ef44b3f28cc08a2",
+      "publishedAtLabel": "May 5"
+    },
     {
       "id": 21000,
       "query": [
@@ -25297,114 +25513,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]
