@@ -1,8 +1,408 @@
 {
-  "last_updated": "2025-05-07 07:07",
-  "count_articles_total": 1438,
-  "count_articles_new": 17,
+  "last_updated": "2025-05-07 19:06",
+  "count_articles_total": 1454,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 21047,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Khloe Quill",
+      "title": "Midwestern state reports first measles case since 2011",
+      "description": "Measles has returned to North Dakota after more than a decade, infecting an unvaccinated child. The case adds to growing national concerns, with outbreaks in 30 states and 935 confirmed infections.",
+      "url": "https://www.foxnews.com/health/midwestern-state-reports-first-measles-case-since-2011",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/child-at-doctor.jpg",
+      "publishedAt": "2025-05-06 18:20:02",
+      "content": "North Dakota has reported its first case of measles in over a decade. This case the state's first since 2011 involves an unvaccinated child, who, according to North Dakota Health and Human Services,\u2026 [+3038 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.212243",
+      "internal_id": "f2167c964a10198d69fe8d741da3d3bd730d651ee4e494a36ea1407db42f5f4b",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21057,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Yashaswini Sri",
+      "title": "Dengue cases rise in Karnataka ahead of monsoon, with Bengaluru worst-hit",
+      "description": "Bengaluru: Dengue cases are climbing steadily across Karnataka even before the onset of monsoon, raising concerns among health officials about an earl.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-rise-in-karnataka-ahead-of-monsoon-with-bengaluru-worst-hit/articleshow/120940825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-120940824,width-1070,height-580,imgsize-11730,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-06 18:10:23",
+      "content": "Stunning in the sun: Kiara Advani's top 9 sun-kissed pictures",
+      "retrievedAt": "2025-05-07 19:06:26.674698",
+      "internal_id": "bc53127dc35c838387d17aca9c5566e7e2e66a64db03a30bf79fe0443ac85b60",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21053,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Brandi Wampler-Notre Dame",
+      "title": "How to avoid ticks and mosquitoes",
+      "description": "An expert explains the risks mosquitoes and ticks pose to people and how you can best protect yourself from the pests.",
+      "url": "https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/05/how-to-avoid-ticks-mosquitoes-1600.jpg",
+      "publishedAt": "2025-05-06 17:43:11",
+      "content": "Here in the Midwest, we are relatively lucky. We don\u2019t have deadly mosquito-borne diseases like malaria, dengue fever, or chikungunya fever yet. If the winters continually get warmer, the more tropic\u2026 [+1463 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.625416",
+      "internal_id": "328f7ad0330ef42563746e22aa866b31e56eb235527ba554dda2b383c7c4e748",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21040,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: Texas Outbreak Eclipses 700 Cases",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/06/measles-updates-texas-outbreak-eclipses-700-cases/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-06 17:38:51",
+      "content": "More than 700 cases of measles have been confirmed in an outbreak across Texas, state health officials reported Tuesday, as other outbreaks of the highly contagious illness spread across dozens of ot\u2026 [+8150 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.059551",
+      "internal_id": "bf0540de077696133b47b8435a4334f3e9075ea9459f6112d845e2f3cbc47e60",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21048,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Amber Kite",
+      "title": "Texas measles outbreak 2025: Cases surpass 700 since January",
+      "description": "State health officials on Tuesday said the number of measles cases in the state linked to a West Texas outbreak has grown to 702 since January.",
+      "url": "https://www.fox4news.com/news/texas-measles-outbreak-2025-may-6-update",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2025/03/1280/720/gettyimages-2202122602.jpg?ve=1&tl=1",
+      "publishedAt": "2025-05-06 17:30:39",
+      "content": "TEXAS - State health officials on Tuesday said the number of measles cases in the state linked to a West Texas outbreak has grown to 702 since January. Officials said fewer than 10 of the cases iden\u2026 [+6377 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.227981",
+      "internal_id": "2fb87c6a4fb6af9a490947970e6c2310bf9657798f41e50ab8a83a8c9e88137a",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21045,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario measles cases up by 140 this week, province's top doctor says",
+      "description": "Measles cases in Ontario have increased by 140 this week, for a total of 1,383 cases, the province\u2019s top doctor said.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-measles-cases-up-to-140-top-doctor-says-1.7527759",
+      "urlToImage": "https://i.cbc.ca/1.6803838.1680798015!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/dr-kieran-moore.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-06 17:13:01",
+      "content": "Measles cases in Ontario have increased by 140 this week, for a total of 1,383 cases, the province's top doctor said. A total of 98 people have been hospitalized, said Dr. Kieran Moore, the provinc\u2026 [+2476 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.143478",
+      "internal_id": "1752731f6cd8a83162fd62a7d25e8904f4e7fcd4ddfc5c55176443bce52399a8",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21052,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Yanko Design",
+      "author": "Ida Torres",
+      "title": "Dengue home test kit concept can help with early detection and medical intervention",
+      "description": "Dengue home test kit concept can help with early detection and medical interventionDengue fever, a mosquito-borne viral infection, presents serious health challenges, especially in tropical and subtropical regions. Traditional diagnostic methods typically rel\u2026",
+      "url": "https://www.yankodesign.com/2025/05/06/dengue-home-test-kit-concept-can-help-with-early-detection-and-medical-intervention/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/05/dengue-home-test-kit-concept-can-help-with-early-detection-and-medical-intervention/dengue-02.jpg",
+      "publishedAt": "2025-05-06 16:20:01",
+      "content": "Dengue fever, a mosquito-borne viral infection, presents serious health challenges, especially in tropical and subtropical regions. Traditional diagnostic methods typically rely on blood samples, spe\u2026 [+2607 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.602534",
+      "internal_id": "801f4d5fd0130d823500c9502ee2e96ef299331ea48175125a609ae88890ce70",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21046,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "One case of measles confirmed in Nova Scotia",
+      "description": "Case involves an adult who was exposed to measles while travelling to the United States.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/measles-case-robert-strang-1.7527679",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-06 15:58:56",
+      "content": "Nova Scotia Public Health officials are confirming one case of measles in the Halifax area. It's the first case of measles confirmed in the province so far this year. It involves an adult who was \u2026 [+1060 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.194847",
+      "internal_id": "329c4053d8b26cd3e804fe09e3dc9b49546be3faffb70f6fef22f50744ee53a0",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21049,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KLTV",
+      "author": "Marshal Farmer",
+      "title": "East Texas measles cases no longer infectious according to state health officials",
+      "description": "The closest actively-infectious measles cases to East Texas are in Lamar County, where a total of 17 positive cases have been confirmed.",
+      "url": "https://www.kltv.com/2025/05/06/east-texas-measles-cases-no-longer-infectious-according-state-health-officials/",
+      "urlToImage": "https://gray-kltv-prod.gtv-cdn.com/resizer/v2/AOQTLANRFBBVLLMRJSFLRK2J4Y.jpg?auth=8e7558b8d834a67c69fa8bf9ff760939d54b72e55b4e7dc953cbb7c97ce46611&width=1200&height=600&smart=true",
+      "publishedAt": "2025-05-06 15:41:31",
+      "content": "TYLER, Texas (KLTV) - Measles cases that had been confirmed in the counties of Upshur and Harrison are no longer active, according to a statement from the senior press officer of the Texas Department\u2026 [+2775 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.284521",
+      "internal_id": "469c7c6e750f8f77fb5881d741f7b8db23ddfe62da6033cdafd80e3dc53bc19a",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21051,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Patricio Lazcano",
+      "title": "\u201cEs como un incendio en pasto seco\u201d: estudio advierte que virus de la gripe aviar sufri\u00f3 mutaci\u00f3n en Chile que aceler\u00f3 su propagaci\u00f3n",
+      "description": "Investigaci\u00f3n publicada en revista de la editorial Nature, muestra c\u00f3mo el virus H5N1 mut\u00f3 y se adapt\u00f3 a mam\u00edferos en Chile, desatando una pandemia animal sin precedentes en el Cono Sur.",
+      "url": "https://www.latercera.com/que-pasa/noticia/es-como-un-incendio-en-pasto-seco-estudio-advierte-que-virus-de-la-gripe-aviar-sufrio-mutacion-en-chile-que-acelero-su-propagacion/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/TPAVNHEH4ND4REGNGVJSFOYKUE.jpg?auth=36f1db8116731112eb3e1765794a5dfde6a80463526ba3374cc86e89d9c0beee&height=630&width=1200&smart=true",
+      "publishedAt": "2025-05-06 15:10:36",
+      "content": "Una panzootia es un brote de enfermedad infecciosa animal que se propaga a gran escala, como a trav\u00e9s de un continente, varios pa\u00edses o incluso globalmente. Es el equivalente a la pandemia en humanos\u2026 [+4406 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.958966",
+      "internal_id": "2e6ff3dfee421565ca31c3f591ad761d85b19cc11116874b43ccf7d795873987",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21056,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Los expertos avisan de que la pr\u00f3xima pandemia ser\u00e1 por gripe: es necesario aprobar la especialidad de enfermedades infecciosas",
+      "description": "La tendencia es preocupante. En los \u00faltimos a\u00f1os, con el foco puesto sobre todo en 2024, las enfermedades infecciosas han registrado un incremento considerable a nivel global. Hablamos de amenazas como la gripe aviar, el virus del Nilo, el dengue o las infecc\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13350336/05/25/los-expertos-avisan-de-que-la-proxima-pandemia-sera-por-gripe-es-necesario-aprobar-la-especialidad-de-enfermedades-infecciosas.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/e/5/4/sanidad-medicos.jpg",
+      "publishedAt": "2025-05-06 14:50:40",
+      "content": "La tendencia es preocupante. En los \u00faltimos a\u00f1os, con el foco puesto sobre todo en 2024, las enfermedades infecciosas han registrado un incremento considerable a nivel global. Hablamos de amenazas co\u2026 [+1921 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.665963",
+      "internal_id": "e0fc49a6808ad882baf1da7f87a2f4fbf4a4d541ece3f45f5bdefeef57a6e76f",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21044,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Tom Clarke",
+      "title": "Vaccine misinformation will lead to more deaths, ousted US scientist tells Sky News",
+      "description": "America's ousted vaccine chief has told Sky News there will be more deaths from a growing measles outbreak unless the US government shifts its rhetoric on vaccination.",
+      "url": "https://news.sky.com/story/these-are-needless-deaths-vaccine-misinformation-will-lead-to-more-deaths-from-measles-outbreak-ousted-us-scientist-tells-sky-news-13362816",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-measles-texas_6878451.jpg?20250407065328",
+      "publishedAt": "2025-05-06 14:28:00",
+      "content": "America's ousted vaccine chief has told Sky News there will be more deaths from a growing measles outbreak unless the US government shifts its rhetoric on vaccination. \"Ultimately, they're not gonna\u2026 [+6024 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.134986",
+      "internal_id": "72d3fcb9f154dbdfbe683b38bd7a98805f4ab73b8e7c7e577777a17a2d05a2cf",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21058,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Meghalt Millena Brand\u00e3o, a Netflix 11 \u00e9ves gyereksz\u00edn\u00e9sze",
+      "description": "A hivatalos hal\u00e1lok m\u00e9g nem ker\u00fclt nyilv\u00e1noss\u00e1gra, de t\u00f6bb forr\u00e1s szerint a brazil sz\u00edn\u00e9szn\u0151nek a hal\u00e1l\u00e1t megel\u0151z\u0151 napokban legal\u00e1bb 13 alkalommal \u00e1llt le a sz\u00edve. A csal\u00e1d a k\u00f6z\u00f6ss\u00e9gi m\u00e9di\u00e1ban vett t\u0151le b\u00facs\u00fat.",
+      "url": "https://www.origo.hu/teve/2025/05/millena-brandao-halal",
+      "urlToImage": "https://cdn.origo.hu/2025/05/DqqNlaQjWZVBryLIwiEW-KcvV-e60wkILKgudjdv89U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhmNzFiZGI0YzlkYTQyOTA4M2YwMTY0MjUyODJkZTBi.webp",
+      "publishedAt": "2025-05-06 14:13:33",
+      "content": "A csal\u00e1d b\u00facs\u00faz\u00f3j\u00e1b\u00f3l kider\u00fcl, hogy a kisl\u00e1ny \u00e1prilis 24-\u00e9n lett rosszul: fej- \u00e9s l\u00e1bf\u00e1j\u00e1s, kimer\u00fclts\u00e9g, valamint \u00e9tv\u00e1gytalans\u00e1g jelentkezett n\u00e1la, k\u00e9sbb pedig felmer\u00fclt a dengue-l\u00e1z gyan\u00faja is, amit\u2026 [+422 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.682814",
+      "internal_id": "96f6135f77bace840d280338c4e2f1138150d5a57542c222708a19aa5f093dd9",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21055,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Topm\u00eddia News",
+      "title": "M\u00e3e lamenta morte da filha por dengue: \u201cNem nos meus piores sonhos\u201d",
+      "description": "Menina morreu neste domingo (4/5) em decorr\u00eancia de dengue hemorr\u00e1gica. Morte foi confirmada pela Prefeitura de Navira\u00ed (MS)",
+      "url": "https://www.metropoles.com/brasil/mae-lamenta-morte-da-filha-por-dengue-nem-nos-meus-piores-sonhos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/05/06110455/foto-crianca-morta-por-dengue.jpg",
+      "publishedAt": "2025-05-06 14:13:16",
+      "content": "\u201cMinha Ba, Mar\u00f3quinha, Malia. Nem nos meus piores sonhos imaginei que te perderia, meu amor. \u00c9 uma dor que est\u00e1 devastando meu cora\u00e7\u00e3o. Te amarei sempre, ao infinito e al\u00e9m!\u201d, e foi assim que a m\u00e3e d\u2026 [+509 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.650096",
+      "internal_id": "ccbac167e0ad43ff36b25843a4e5507e6e88ee4a6f0f595995ab6912f27bd93e",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21059,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Andrew D. Marten, Douglas P. Haslitt, Chad A. Martin, Akshitha Karthikeyan, Daniel H. Swanson, Karishma Kalera, Ulysses G. Johnson, Benjamin M. Swarts, Michael J. Conway",
+      "title": "Trehalose supports the growth of Aedes aegypti cells and modifies gene expression and dengue virus type 2 replication",
+      "description": "Author summary Mosquito-borne viruses, such as dengue virus (DENV), pose a significant global health threat, and current control methods face challenges like pesticide resistance and limited vaccine availability. Our study explores how the sugar trehalose, a \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012795",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012795.g010&size=inline",
+      "publishedAt": "2025-05-06 14:00:00",
+      "content": "Citation: Marten AD, Haslitt DP, Martin CA, Karthikeyan A, Swanson DH, Kalera K, et al. (2025) Trehalose supports the growth of Aedes aegypti cells and modifies gene expression and dengue virus type \u2026 [+58861 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.706128",
+      "internal_id": "a11268a5d44abc344a553a8d5aec37998cc8c3bce70375e9760676b8a778bee0",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21060,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yudthana Samung, Jutharat Pengon, Chatpong Pethrak, Phonchanan Pakparnich, Saranya Thaiudomsup, Kittitat Suksirisawat, Manop Saeung, Anon Phayakkaphon, Songpol Eiamsam-ang, Thipruethai Phanitchat, Channarong Sartsanga, Tararat Jantra, Patchara Sriwichai, Natapong Jupatanakul",
+      "title": "Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potential by neglected vector species, Aedes scutellaris",
+      "description": "Author summary Dengue and Zika are caused by arthropod-borne orthoflaviviruses, and spread primarily through the bite of infected Aedes mosquitoes. Most research on DENV and ZIKV transmission has primarily focused on Aedes aegypti and Aedes albopictus while o\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012530",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012530.g006&size=inline",
+      "publishedAt": "2025-05-06 14:00:00",
+      "content": "Citation: Samung Y, Pengon J, Pethrak C, Pakparnich P, Thaiudomsup S, Suksirisawat K, et al. (2025) Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potentia\u2026 [+50950 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.714744",
+      "internal_id": "041a406fbf9afecc6ea3ccc581db362cba7d86a0de5527a2ac124d81b932188d",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21043,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr.'s Measles Strategy Is Leading the US Down a Dark Path (Lisa Jarvis/Bloomberg)",
+      "description": "Lisa Jarvis / Bloomberg: RFK Jr.'s Measles Strategy Is Leading the US Down a Dark Path \u2014 The secretary of Health and Human Services is peddling misinformation and fake cures and steering public health off course. \u2014 Amid one of the most significant measles\u2026",
+      "url": "https://www.memeorandum.com/250506/p24",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA9qHiDwgnqQ/v1/1200x800.jpg",
+      "publishedAt": "2025-05-06 12:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.119392",
+      "internal_id": "5e03aee044c7aa712769450e7086439f78aa81b6221635c0529864f462081273",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21061,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Varsha Vats",
+      "title": "Chikungunya On Rise In Maharashtra: Follow These Tips For Fast Recovery",
+      "description": "Chikungunya is transmitted to humans through the bite of infected female mosquitoes, particularly Aedes aegypti and Aedes albopictus.",
+      "url": "https://www.ndtv.com/health/chikungunya-on-rise-in-maharashtra-follow-these-tips-for-fast-recovery-8344892",
+      "urlToImage": "https://i.ndtvimg.com/i/2016-08/chikungunya-istock-650_650x400_81471842379.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-05-06 12:20:40",
+      "content": "Maharashtra is witnessing a sharp rise in Chikungunya cases, even before the onset of monsoon. According to the National Center for Vector Borne Disease Control (NCVBDC), a significant rise in chikun\u2026 [+3026 chars]",
+      "retrievedAt": "2025-05-07 19:06:28.129518",
+      "internal_id": "d8f8121d84599766c09c6552b999c044ca120abce5d8fc8266379836e3da8688",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21054,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Pets pegam dengue?",
+      "description": "Com o avan\u00e7o dos casos de dengue em Porto Alegre, cresce a preocupa\u00e7\u00e3o com a preven\u00e7\u00e3o \u00e0 doen\u00e7a ...",
+      "url": "https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/06/1415097928-cao-gato-cachorro-pets.jpg",
+      "publishedAt": "2025-05-06 11:05:18",
+      "content": "Com o avan\u00e7o dos casos de dengue em Porto Alegre, cresce a preocupa\u00e7\u00e3o com a preven\u00e7\u00e3o \u00e0 doen\u00e7a e com os cuidados que se deve ter tamb\u00e9m com os pets. Embora c\u00e3es e gatos n\u00e3o contraiam dengue, zika ou\u2026 [+3109 chars]",
+      "retrievedAt": "2025-05-07 19:06:26.633886",
+      "internal_id": "2b94e1dfa4697bc621868ea1537227d3f78e77141a4a3b795927c23bed955852",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21041,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 5/6/2025",
+      "description": "Our sober daily links: Best Westerns, colon cancer clue? measles preparedness? China deflation risk, Merz fails Chancellor vote, UK hunger, India-Pakistan, Yemen targets US oil ships, NATO drone freakout, missing revolution? MAGA eugenics, Rs nervous re Trump\u2026",
+      "url": "https://www.nakedcapitalism.com/2025/05/links-5-6-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-11.39.06\u202fPM.png",
+      "publishedAt": "2025-05-06 10:55:32",
+      "content": "Legendary Female Free-Divers Reveal Evolution in Action on South Korean Island ScienceAlert (Chuck L) Best Westerns Of All Time Letterboxd (Bob H) Geographic and age variations in mutational proces\u2026 [+10357 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.095115",
+      "internal_id": "02acdb9bd23dbcb5b9529c799caec0d0c97cbb4460cd76c657cb45ffa6687ae2",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21042,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Typepad.com",
+      "author": "Brian Leiter",
+      "title": "The imbecile RFK Jr. ramping up his war on vaccines, one of the great public health triumphs of the 20th-century",
+      "description": "He's interfering with vaccine development (which may interfere with updated Covid shots in the fall, unbelievably); and instead of a massive vaccination campaign for measles, the imbecile is directing a study for miracle treatments, including vitamins. Of all\u2026",
+      "url": "https://leiterreports.typepad.com/blog/2025/05/the-imbecile-rfk-jr-ramping-up-his-war-on-vaccines-one-of-hte-great-public-health-triumphs-of-the-20.html",
+      "urlToImage": null,
+      "publishedAt": "2025-05-06 10:54:00",
+      "content": "He's interfering with vaccine development (which may interfere with updated Covid shots in the fall, unbelievably); and instead of a massive vaccination campaign for measles, the imbecile is directin\u2026 [+169 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.111216",
+      "internal_id": "2b83d4225cdb7256ccff12d4cc93eb70403641500ed5212a31a42173bdca556f",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21050,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Twistedsifter.com",
+      "author": "Matthew Gilligan",
+      "title": "A Scientist Warned People Against Feeding Their Pets Raw Food. \u2013 \u2018They may be infected with H5N1.\u2019",
+      "description": "Pet owners, we hope you're listening closely...",
+      "url": "http://twistedsifter.com/2025/05/a-scientist-warned-people-against-feeding-their-pets-raw-food-they-may-be-infected-with-h5n1/",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/04/ttrawfod.png",
+      "publishedAt": "2025-05-06 10:49:11",
+      "content": "TikTok/@laughterinlight Pet food sure has changed in the last several years, huh? Gone are the days of simple Kibbles N\u2019 Bits, my friends. Now, it seems like some pets eat better than a lot of hum\u2026 [+1296 chars]",
+      "retrievedAt": "2025-05-07 19:06:25.901282",
+      "internal_id": "02974dc8c262c23d6f0d6169c740ce160685dfbec8ed2cac5c79d6fb71512033",
+      "publishedAtLabel": "May 6"
+    },
     {
       "id": 21038,
       "query": [
@@ -25819,114 +26219,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]

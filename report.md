@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-05-07 07:07
-- **Most recent article:** 2025-05-06 06:56:00
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-05-07 19:06
+- **Most recent article:** 2025-05-06 18:20:02
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 100 | 77 | 145 | 82 | 107 | 88 | 11 | 610 |
-| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 7 | 205 |
-| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 1 | 144 |
-| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 1 | 136 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 3 | 126 |
+| measles | 98 | 77 | 145 | 82 | 107 | 88 | 21 | 618 |
+| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 9 | 204 |
+| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 3 | 146 |
+| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 10 | 144 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 4 | 127 |
 | mpox | 11 | 17 | 18 | 10 | 5 | 11 | 4 | 76 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 1 | 52 |
 | rabies | 19 | 7 | 7 | 0 | 3 | 4 | 6 | 46 |
-| zika | 3 | 4 | 7 | 7 | 2 | 3 | 0 | 26 |
+| zika | 3 | 4 | 7 | 7 | 2 | 3 | 2 | 28 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 1 | 18 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
@@ -31,6 +31,12 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-19 (zika)
+
+- [Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potential by neglected vector species, Aedes scutellaris](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012530) (Plos.org)
+
+- [Pets pegam dengue?](https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html) (Terra.com.br)
 
 ## 25-19 (rabies)
 
@@ -62,6 +68,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (measles)
 
+- [Midwestern state reports first measles case since 2011](https://www.foxnews.com/health/midwestern-state-reports-first-measles-case-since-2011) (Fox News)
+
+- [Measles Updates: Texas Outbreak Eclipses 700 Cases](https://www.forbes.com/sites/antoniopequenoiv/2025/05/06/measles-updates-texas-outbreak-eclipses-700-cases/) (Forbes)
+
+- [Texas measles outbreak 2025: Cases surpass 700 since January](https://www.fox4news.com/news/texas-measles-outbreak-2025-may-6-update) (FOX 4 News)
+
+- [Ontario measles cases up by 140 this week, province's top doctor says](https://www.cbc.ca/news/canada/toronto/ontario-measles-cases-up-to-140-top-doctor-says-1.7527759) (CBC News)
+
+- [One case of measles confirmed in Nova Scotia](https://www.cbc.ca/news/canada/nova-scotia/measles-case-robert-strang-1.7527679) (CBC News)
+
+- [East Texas measles cases no longer infectious according to state health officials](https://www.kltv.com/2025/05/06/east-texas-measles-cases-no-longer-infectious-according-state-health-officials/) (KLTV)
+
+- [Vaccine misinformation will lead to more deaths, ousted US scientist tells Sky News](https://news.sky.com/story/these-are-needless-deaths-vaccine-misinformation-will-lead-to-more-deaths-from-measles-outbreak-ousted-us-scientist-tells-sky-news-13362816) (Sky.com)
+
+- [RFK Jr.'s Measles Strategy Is Leading the US Down a Dark Path (Lisa Jarvis/Bloomberg)](https://www.memeorandum.com/250506/p24) (Memeorandum.com)
+
+- [Links 5/6/2025](https://www.nakedcapitalism.com/2025/05/links-5-6-2025.html) (Nakedcapitalism.com)
+
+- [The imbecile RFK Jr. ramping up his war on vaccines, one of the great public health triumphs of the 20th-century](https://leiterreports.typepad.com/blog/2025/05/the-imbecile-rfk-jr-ramping-up-his-war-on-vaccines-one-of-hte-great-public-health-triumphs-of-the-20.html) (Typepad.com)
+
 - [Northwest North Dakota county confirms 4 measles cases](https://www.inforum.com/health/northwest-north-dakota-county-confirms-4-measles-cases) (INFORUM)
 
 - [Do ‘Alternative’ Measles Treatments Touted by RFK Jr. Work?](https://www.scientificamerican.com/article/do-alternative-measles-treatments-touted-by-rfk-jr-work/) (Scientific American)
@@ -86,6 +112,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (malaria)
 
+- [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
+
 - [Hydroxycloroquine-Pushing COVID Truther Is Back at at the Department of Health and Human Services](https://www.thedailybeast.com/hydroxycloroquine-pushing-covid-truther-is-back-at-at-the-department-of-health-and-human-services/) (Daily Beast)
 
 - [Pharmaceutical firm unveils national competition portal to tackle malaria](https://www.premiumtimesng.com/health/health-news/792248-pharmaceutical-firm-unveils-national-competition-portal-to-tackle-malaria.html) (Premium Times)
@@ -101,6 +129,10 @@ Source: [News API](https://newsapi.org/)
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
 ## 25-19 (h5n1)
+
+- [“Es como un incendio en pasto seco”: estudio advierte que virus de la gripe aviar sufrió mutación en Chile que aceleró su propagación](https://www.latercera.com/que-pasa/noticia/es-como-un-incendio-en-pasto-seco-estudio-advierte-que-virus-de-la-gripe-aviar-sufrio-mutacion-en-chile-que-acelero-su-propagacion/) (Latercera.com)
+
+- [A Scientist Warned People Against Feeding Their Pets Raw Food. – ‘They may be infected with H5N1.’](http://twistedsifter.com/2025/05/a-scientist-warned-people-against-feeding-their-pets-raw-food-they-may-be-infected-with-h5n1/) (Twistedsifter.com)
 
 - [SK바이오-질병청, 조류독감 백신 개발 착수…국가 방역 시스템 구축 협력](https://zdnet.co.kr/view/?no=20250506130907) (Zdnet.co.kr)
 
@@ -118,9 +150,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (dengue)
 
+- [Dengue cases rise in Karnataka ahead of monsoon, with Bengaluru worst-hit](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-rise-in-karnataka-ahead-of-monsoon-with-bengaluru-worst-hit/articleshow/120940825.cms) (The Times of India)
+
+- [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
+
+- [Dengue home test kit concept can help with early detection and medical intervention](https://www.yankodesign.com/2025/05/06/dengue-home-test-kit-concept-can-help-with-early-detection-and-medical-intervention/) (Yanko Design)
+
+- [Los expertos avisan de que la próxima pandemia será por gripe: es necesario aprobar la especialidad de enfermedades infecciosas](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13350336/05/25/los-expertos-avisan-de-que-la-proxima-pandemia-sera-por-gripe-es-necesario-aprobar-la-especialidad-de-enfermedades-infecciosas.html) (Eleconomista.es)
+
+- [Meghalt Millena Brandão, a Netflix 11 éves gyerekszínésze](https://www.origo.hu/teve/2025/05/millena-brandao-halal) (Origo.hu)
+
+- [Mãe lamenta morte da filha por dengue: “Nem nos meus piores sonhos”](https://www.metropoles.com/brasil/mae-lamenta-morte-da-filha-por-dengue-nem-nos-meus-piores-sonhos) (Metropoles.com)
+
+- [Trehalose supports the growth of Aedes aegypti cells and modifies gene expression and dengue virus type 2 replication](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012795) (Plos.org)
+
+- [Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potential by neglected vector species, Aedes scutellaris](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012530) (Plos.org)
+
+- [Pets pegam dengue?](https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html) (Terra.com.br)
+
 - [Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue](https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue) (Liputan6.com)
 
 ## 25-19 (chikungunya)
+
+- [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
+
+- [Chikungunya On Rise In Maharashtra: Follow These Tips For Fast Recovery](https://www.ndtv.com/health/chikungunya-on-rise-in-maharashtra-follow-these-tips-for-fast-recovery-8344892) (NDTV News)
 
 - [Assessing chikungunya’s economic burden and impact on health-related quality of life: Two systematic literature reviews](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012990) (Plos.org)
 
@@ -2928,10 +2982,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
-- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
-
-- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
-
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3090,12 +3140,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
-- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
-
-- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
-
-- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
-
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3133,8 +3177,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
-
-- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
