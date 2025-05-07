@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-05-06 19:05
-- **Most recent article:** 2025-05-05 17:30:20
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-05-07 07:07
+- **Most recent article:** 2025-05-06 06:56:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 98 | 77 | 145 | 82 | 107 | 84 | 4 | 597 |
-| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 6 | 201 |
+| measles | 100 | 77 | 145 | 82 | 107 | 88 | 11 | 610 |
+| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 7 | 205 |
 | chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 1 | 144 |
-| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 1 | 135 |
+| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 1 | 136 |
 | malaria | 30 | 13 | 10 | 14 | 34 | 22 | 3 | 126 |
-| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 2 | 74 |
-| meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 0 | 51 |
-| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 4 | 44 |
+| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 4 | 76 |
+| meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 1 | 52 |
+| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 6 | 46 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 0 | 26 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 1 | 18 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (rabies)
 
+- [പേവിഷ ബാധയേറ്റുള്ള മരണങ്ങളിൽ സമഗ്ര പരിശോധന - Rabies deaths raise concern over treatment procedures kerala Health Department preparing for a comprehensive](https://www.asianetnews.com/kerala-news/rabies-deaths-raise-concern-over-treatment-procedures-kerala-health-department-preparing-for-a-comprehensive-investigation-svtodh) (Asianetnews.com)
+
+- [7-year-old dies of rabies despite getting vaccine in Kerala](https://timesofindia.indiatimes.com/india/7-year-old-dies-of-rabies-despite-getting-vaccine-in-kerala/articleshow/120910373.cms) (The Times of India)
+
 - [Improved effectiveness of vaccination campaigns against rabies by reducing spatial heterogeneity in coverage](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002872) (Plos.org)
 
 - [केरल में चौंकाने वाला केस! वैक्सीन लगने के बाद भी रेबीज से बच्ची की मौत, 1 महीने में 3 मरे](https://www.aajtak.in/india/news/story/kerala-girl-dies-rabies-despite-vaccine-third-child-death-month-lclnt-rptc-2233111-2025-05-05) (Aajtak.in)
@@ -44,19 +48,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (mpox)
 
+- [Bavarian Nordic Awarded Contract Options from the U.S. Government for Production and Supply of Freeze-dried Smallpox/Mpox Vaccines](https://www.globenewswire.com/news-release/2025/05/06/3074717/0/en/Bavarian-Nordic-Awarded-Contract-Options-from-the-U-S-Government-for-Production-and-Supply-of-Freeze-dried-Smallpox-Mpox-Vaccines.html) (GlobeNewswire)
+
+- [Bavarian Nordic er blevet tildelt kontraktoptioner fra den amerikanske regering til produktion og levering af frysetørret koppe- og mpoxvaccine](https://www.globenewswire.com/news-release/2025/05/06/3074717/0/da/Bavarian-Nordic-er-blevet-tildelt-kontraktoptioner-fra-den-amerikanske-regering-til-produktion-og-levering-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html) (GlobeNewswire)
+
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
 - [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
 
+## 25-19 (meningitis)
+
+- [Luis Canut, junto a Patricia Pérez, confiesa su realidad tras su enfermedad: 'Vivo más lento'](https://www.hola.com/actualidad/20250506830096/luis-canut-junto-a-patricia-perez-confiesa-su-realidad-tras-su-enfermedad-vivo-mas-lento/) (Hola)
+
 ## 25-19 (measles)
 
+- [Northwest North Dakota county confirms 4 measles cases](https://www.inforum.com/health/northwest-north-dakota-county-confirms-4-measles-cases) (INFORUM)
+
+- [Do ‘Alternative’ Measles Treatments Touted by RFK Jr. Work?](https://www.scientificamerican.com/article/do-alternative-measles-treatments-touted-by-rfk-jr-work/) (Scientific American)
+
+- [Alberta government beefs up measles defence as cases rival 1980s levels](https://www.cbc.ca/news/canada/calgary/alberta-beefs-up-measles-defence-cases-rival-1980s-levels-1.7526763) (CBC News)
+
+- [Port: Please don't get your public health advice from The Brady Bunch](https://www.inforum.com/opinion/columns/port-please-dont-get-your-public-health-advice-from-the-brady-bunch) (INFORUM)
+
+- [Alberta ramps up measles vaccination campaign as 3 hospitalized in intensive care | Globalnews.ca](http://globalnews.ca/news/11164615/alberta-measles-vaccination-campaign-intensive-care/) (Global News)
+
 - [Missouri Department of Health warns of measles exposure at St. Louis Aquarium](https://www.stltoday.com/news/local/metro/article_0a641381-0dc3-4d97-82ec-955d119bf664.html) (STLtoday.com)
+
+- [North Dakota reports first measles case amid declining vaccination rates](https://www.inforum.com/news/north-dakota/north-dakota-reports-first-measles-case-amid-declining-vaccination-rates) (INFORUM)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
 - [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
 
 - [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
+
+- [The US has more than 900 measles cases and 10 states have outbreaks. Here's what to know](https://www.wsbtv.com/news/health/us-has-more-than-900/FTU2H2IHD5CMNCA4FEYJVGYFOM/) (WSB Atlanta)
 
 ## 25-19 (malaria)
 
@@ -75,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
 ## 25-19 (h5n1)
+
+- [SK바이오-질병청, 조류독감 백신 개발 착수…국가 방역 시스템 구축 협력](https://zdnet.co.kr/view/?no=20250506130907) (Zdnet.co.kr)
 
 - [Bird Flu Poses A Rising Risk To Humans](https://www.shtfplan.com/headline-news/bird-flu-poses-a-rising-risk-to-humans) (Shtfplan.com)
 
@@ -176,17 +204,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Province warns of possible measles exposure at Gretna Elementary School, 3 Winkler locations](https://www.cbc.ca/news/canada/manitoba/measle-cases-manitoba-exposure-1.7525903) (CBC News)
 
+- [Tarrant County confirms first local case of measles](https://www.fox4news.com/news/tarrant-county-confirms-first-case-measles) (FOX 4 News)
+
 - [Today's political cartoons - May 3, 2025](https://theweek.com/cartoons/todays-political-cartoons-may-3-2025) (The Week Magazine)
 
 - [World may be 'post-herd immunity' to measles, top US scientist says (Jessica Glenza/The Guardian)](https://www.memeorandum.com/250503/p35) (Memeorandum.com)
 
 - [Why is measles spreading in Canada, Mexico and the US?](https://www.aljazeera.com/news/2025/5/3/why-is-measles-spreading-in-canada-mexico-and-the-us) (Al Jazeera English)
 
+- [U.S. has 935 measles cases, outbreaks in one-fifth of states: CDC data](https://justthenews.com/politics-policy/health/us-has-935-measles-cases-outbreaks-one-fifth-states-cdc-data) (Justthenews.com)
+
 - [Need for permanent chief medical officer of health 'dire,' says Alberta Medical Association](https://www.cbc.ca/news/canada/calgary/permanent-chief-medical-officer-health-alberta-medical-association-1.7525496) (CBC News)
 
 - [Links 5/3/2025](https://www.nakedcapitalism.com/2025/05/links-5-3-2025.html) (Nakedcapitalism.com)
 
 - [Step up measles vaccinations, say doctors as outbreaks accelerate in Ontario, Alberta](https://www.cbc.ca/news/health/measles-vaccination-coverage-1.7525234) (CBC News)
+
+- [Possible measles exposure reported at Frisco Walmart](https://www.fox4news.com/news/measles-exposure-frisco-walmart) (FOX 4 News)
+
+- [North Dakota reports first case of measles since 2011](https://www.inforum.com/news/north-dakota/north-dakota-reports-first-case-of-measles-since-2011) (INFORUM)
 
 - [RFK Jr. Tells CDC To Go All In On Bogus Vitamin ‘Cures’ For Measles](https://www.huffpost.com/entry/rfk-jr-measles-treatments_n_6815381de4b08215e5f697bc) (HuffPost)
 
@@ -2892,6 +2928,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
+- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
+
+- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
+
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3050,6 +3090,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
+- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
+
+- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
+
+- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
+
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3087,6 +3133,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
+
+- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
