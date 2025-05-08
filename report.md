@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-05-07 19:06
-- **Most recent article:** 2025-05-06 18:20:02
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-05-08 07:07
+- **Most recent article:** 2025-05-07 04:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 98 | 77 | 145 | 82 | 107 | 88 | 21 | 618 |
-| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 9 | 204 |
+| measles | 100 | 77 | 145 | 82 | 107 | 88 | 25 | 624 |
+| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 9 | 207 |
 | chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 3 | 146 |
-| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 10 | 144 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 4 | 127 |
+| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 10 | 145 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 5 | 128 |
 | mpox | 11 | 17 | 18 | 10 | 5 | 11 | 4 | 76 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 1 | 52 |
-| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 6 | 46 |
+| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 7 | 47 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 2 | 28 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
-| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 1 | 18 |
+| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 2 | 19 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
-| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 1 | 4 |
+| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 2 | 5 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 
 
@@ -39,6 +39,8 @@ Source: [News API](https://newsapi.org/)
 - [Pets pegam dengue?](https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html) (Terra.com.br)
 
 ## 25-19 (rabies)
+
+- [Rabid skunk found in Franklin County, Virginia Department of Health confirms](https://wset.com/news/local/rabid-skunk-found-in-franklin-county-virginia-department-of-health-confirms-may-2025) (WSET)
 
 - [പേവിഷ ബാധയേറ്റുള്ള മരണങ്ങളിൽ സമഗ്ര പരിശോധന - Rabies deaths raise concern over treatment procedures kerala Health Department preparing for a comprehensive](https://www.asianetnews.com/kerala-news/rabies-deaths-raise-concern-over-treatment-procedures-kerala-health-department-preparing-for-a-comprehensive-investigation-svtodh) (Asianetnews.com)
 
@@ -67,6 +69,14 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut, junto a Patricia Pérez, confiesa su realidad tras su enfermedad: 'Vivo más lento'](https://www.hola.com/actualidad/20250506830096/luis-canut-junto-a-patricia-perez-confiesa-su-realidad-tras-su-enfermedad-vivo-mas-lento/) (Hola)
 
 ## 25-19 (measles)
+
+- [5 more cases of measles found in western North Dakota, bringing state total to 9](https://www.inforum.com/news/north-dakota/5-more-cases-of-measles-found-in-western-north-dakota-bringing-state-total-to-9) (INFORUM)
+
+- [As measles outbreak slows in West Texas, doctors remain on alert](https://www.nbcnews.com/health/health-news/measles-outbreak-slows-west-texas-doctors-remain-alert-rcna205105) (NBC News)
+
+- [Manitoba health officials warn of possible measles exposure at Dugald School](https://www.cbc.ca/news/canada/manitoba/measles-exposure-elementary-school-may-6-1.7528134) (CBC News)
+
+- [4 charts reveal just how bad the measles outbreak has gotten](https://www.vox.com/vaccines/411756/us-measles-outbreak-cases-deaths-charts) (Vox)
 
 - [Midwestern state reports first measles case since 2011](https://www.foxnews.com/health/midwestern-state-reports-first-measles-case-since-2011) (Fox News)
 
@@ -112,6 +122,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (malaria)
 
+- [Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024](https://wwwnc.cdc.gov/eid/article/31/6/24-1932_article) (Cdc.gov)
+
 - [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
 
 - [Hydroxycloroquine-Pushing COVID Truther Is Back at at the Department of Health and Human Services](https://www.thedailybeast.com/hydroxycloroquine-pushing-covid-truther-is-back-at-at-the-department-of-health-and-human-services/) (Daily Beast)
@@ -122,9 +134,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (leptospirosis)
 
+- [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
+
 - [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
+
+- [【大河原克行の「パソコン業界、東奔西走」】NPU×オンデバイスAIでPCが変わる！日本HPが描く“未来の仕事”と戦略](https://pc.watch.impress.co.jp/docs/column/gyokai/2011665.html) (Impress.co.jp)
 
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
@@ -2982,6 +2998,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
+- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
+
+- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
+
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3140,6 +3160,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
+- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
+
+- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
+
+- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
+
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3177,6 +3203,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
+
+- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 

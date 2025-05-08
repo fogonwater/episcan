@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-05-07 19:06",
-  "count_articles_total": 1454,
-  "count_articles_new": 22,
+  "last_updated": "2025-05-08 07:07",
+  "count_articles_total": 1468,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 21068,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024",
+      "description": "Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/6/24-1932_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-05-07 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Malaria is an infectious d\u2026 [+6828 chars]",
+      "retrievedAt": "2025-05-08 07:07:55.877823",
+      "internal_id": "117678f27fdd6bd0c2eb45217d0df02fa995e6e4e565668f8259909cb386511d",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21069,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod Records Second Leptospirosis Death in 2025",
+      "description": "BACOLOD CITY \u2013 The City Health Office has confirmed the second leptospirosis-related death in Bacolod this year, occurring three months after the first fatality. Dr. Grace Tan, head of the CHO Environmental Sanitation Division, said the latest victim was a 47\u2026",
+      "url": "https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/05/Leptospirosis-death-bacolod.jpg",
+      "publishedAt": "2025-05-07 03:01:33",
+      "content": "BACOLOD CITY The City Health Office has confirmed the second leptospirosis-related death in Bacolod this year, occurring three months after the first fatality. Dr. Grace Tan, head of the CHO Environ\u2026 [+887 chars]",
+      "retrievedAt": "2025-05-08 07:07:57.336316",
+      "internal_id": "7baadbbfc22d96b6a0fd545f40fb6526c274d5bd12cf364d517da2aa2b44c981",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21066,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Wendy Reuer",
+      "title": "5 more cases of measles found in western North Dakota, bringing state total to 9",
+      "description": "The NDHHS is warning those who may have been at the Williston Walmart or in Williston schools may have been exposed.",
+      "url": "https://www.inforum.com/news/north-dakota/5-more-cases-of-measles-found-in-western-north-dakota-bringing-state-total-to-9",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/3e0bf7a/2147483647/strip/true/crop/860x484+0+0/resize/1894x1066!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Ffccnn%2Fbinary%2Fcopy%2Fde%2Fbc%2Fea42a034558d45519a348879914f%2F3343850-measles-binary-788648.jpg",
+      "publishedAt": "2025-05-07 01:05:10",
+      "content": "WILLISTON, N.D. An additional five measles cases have been identified in Williams County, bringing North Dakota's 2025 total to nine cases. According to the North Dakota Health and Human Services, \u2026 [+3491 chars]",
+      "retrievedAt": "2025-05-08 07:07:54.896480",
+      "internal_id": "39fb716c031da36bfff6e2deba16ad93c1f16b11f130455d379333639979695c",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21064,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards, Joe Murphy",
+      "title": "As measles outbreak slows in West Texas, doctors remain on alert",
+      "description": "The measles outbreak that\u2019s sickened hundreds and killed two young girls since January appears to be slowing in West Texas as the virus runs out of people to infect.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-slows-west-texas-doctors-remain-alert-rcna205105",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250325-mmr-vaccine-se-242p-79a4f4.jpg",
+      "publishedAt": "2025-05-07 00:00:25",
+      "content": "The measles outbreak thats sickened hundreds and killed two young girls since January appears to be slowing in West Texas as the virus runs out ofpeople to infect. On Tuesday, the Texas Department o\u2026 [+2552 chars]",
+      "retrievedAt": "2025-05-08 07:07:54.831571",
+      "internal_id": "22bc8c4f9e23eecd9667f6f0f8bab1fce54bf35c8b12cab1c2b2a89586491189",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21065,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba health officials warn of possible measles exposure at Dugald School",
+      "description": "Provincial health officials say members of the public may have been exposed to measles at an elementary school in Dugald and multiple bus routes servicing it.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-elementary-school-may-6-1.7528134",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-06 23:56:27",
+      "content": "Provincial health officials say members of the public may have been exposed to measles at a rural K-8 school and multiple bus routes servicing it. Anyone who was at Dugald School on Holland Street i\u2026 [+1125 chars]",
+      "retrievedAt": "2025-05-08 07:07:54.846458",
+      "internal_id": "458528288b43a9158341a3830f202a7bb9f6f479d4d9d96f12d320f5096e00ea",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21067,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Impress.co.jp",
+      "author": "\u5927\u6cb3\u539f \u514b\u884c",
+      "title": "\u3010\u5927\u6cb3\u539f\u514b\u884c\u306e\u300c\u30d1\u30bd\u30b3\u30f3\u696d\u754c\u3001\u6771\u5954\u897f\u8d70\u300d\u3011NPU\u00d7\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u3067PC\u304c\u5909\u308f\u308b\uff01\u65e5\u672cHP\u304c\u63cf\u304f\u201c\u672a\u6765\u306e\u4ed5\u4e8b\u201d\u3068\u6226\u7565",
+      "description": "\u65e5\u672cHP\u304c\u3001AI PC\u4e8b\u696d\u3092\u52a0\u901f\u3055\u305b\u3066\u3044\u308b\u30022025\u5e744\u6708\u306b\u306f\u3001\u6cd5\u4eba\u5411\u3051\u304a\u3088\u3073\u500b\u4eba\u5411\u3051\u306e\u6b21\u4e16\u4ee3AI PC\u306a\u306919\u30e2\u30c7\u30eb\u3092\u4e00\u6c17\u306b\u767a\u8868\u3002\u3055\u3089\u306b\u3001\u540c\u793e\u72ec\u81ea\u306e\u300cHP AI Companion\u300d\u306b\u304a\u3044\u3066\u3001\u4eca\u5e74\u590f\u306b\u306f\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9\u30e2\u30fc\u30c9\u3092\u65b0\u305f\u306b\u8ffd\u52a0\u3059\u308b\u3053\u3068\u3092\u660e\u3089\u304b\u306b\u3057\u3001\u30ed\u30fc\u30ab\u30eb\u30c7\u30d0\u30a4\u30b9\u306b\u3088\u308bAI\u5229\u7528\u3092\u672c\u683c\u5316\u3059\u308b\u74b0\u5883\u3092\u4e00\u6c17\u306b\u6574\u3048\u308b\u3053\u3068\u306b\u306a\u308b\u3002",
+      "url": "https://pc.watch.impress.co.jp/docs/column/gyokai/2011665.html",
+      "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/2011/665/P2890131.jpg",
+      "publishedAt": "2025-05-06 21:14:00",
+      "content": "HPAI PC20254AI PC19HP AI CompanionAI HPAIAIHPFuture of Work()HPPC NPUAI PC HPPC HPPC() 1HPAI PCHP AI CompanionQ&amp;AAI(Discover)(Analyze)PCBIOS(Perform)3 (2025)AI PCNPU PCPowerPointExce\u2026 [+1587 chars]",
+      "retrievedAt": "2025-05-08 07:07:55.008029",
+      "internal_id": "8d2491b7228d456b6da8070162b6206b826e6169d3a773aafacd83cdf46645c0",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21063,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "4 charts reveal just how bad the measles outbreak has gotten",
+      "description": "The United States is in the middle of what\u2019s shaping up to be the worst measles outbreak of this century. The outbreak began within a small religious community in West Texas in January, but it has since spread across four states in the Southwest. Two school-\u2026",
+      "url": "https://www.vox.com/vaccines/411756/us-measles-outbreak-cases-deaths-charts",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/05/gettyimages-2201696856.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-06 20:58:12",
+      "content": "Vaccination rates have dipped below safe levels in much of the country. | Jan Sonnenmair/Getty Images The United States is in the middle of what\u2019s shaping up to be the worst measles outbreak of th\u2026 [+5317 chars]",
+      "retrievedAt": "2025-05-08 07:07:54.755347",
+      "internal_id": "0a76b010fcf18bf0b43a54418e1c66c7b6ea716028f171f3f9796d1d2b1d0ee6",
+      "publishedAtLabel": "May 6"
+    },
+    {
+      "id": 21062,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSET",
+      "author": "Sam Becker",
+      "title": "Rabid skunk found in Franklin County, Virginia Department of Health confirms",
+      "description": "Rabid skunk found in Franklin County, Virginia Department of Health confirmswset.com",
+      "url": "https://wset.com/news/local/rabid-skunk-found-in-franklin-county-virginia-department-of-health-confirms-may-2025",
+      "urlToImage": "https://wset.com/resources/media/666a095f-f280-450b-8917-25c361f40b63-large16x9_VirginiaDepartmentofHealthLogo.png?1614557565013",
+      "publishedAt": "2025-05-06 20:45:26",
+      "content": "FRANKLIN COUNTY, Va. (WSET) A skunk in Franklin County has tested positive for rabies, officials say. According to the Virginia Department of Health, a skunk found on May 1 in the 19000 block of Sno\u2026 [+2078 chars]",
+      "retrievedAt": "2025-05-08 07:07:54.381889",
+      "internal_id": "14e88c57164144cc95a4b32597b3f8de668065d8b929d7df2904d70478f8e3af",
+      "publishedAtLabel": "May 6"
+    },
     {
       "id": 21047,
       "query": [
@@ -26219,6 +26363,114 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washington Examiner",
+      "author": "Zachary Faria",
+      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
+      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
+      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
+      "publishedAt": "2025-03-23 18:23:37",
+      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
+      "retrievedAt": "2025-03-26 07:07:06.836980",
+      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19595,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
+      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
+      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-03-23 17:00:25",
+      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.225892",
+      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
+      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
+      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-03-23 16:42:18",
+      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.928629",
+      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
+      "url": "https://www.memeorandum.com/250323/p11",
+      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-03-23 14:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-24 19:05:57.155342",
+      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19597,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1203: What's old is flu again",
+      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1203/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-23 13:07:22",
+      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.330113",
+      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19596,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
+      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
+      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
+      "publishedAt": "2025-03-23 12:39:14",
+      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.234543",
+      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]
