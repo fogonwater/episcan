@@ -1,8 +1,422 @@
 {
-  "last_updated": "2025-05-08 07:07",
-  "count_articles_total": 1468,
-  "count_articles_new": 8,
+  "last_updated": "2025-05-08 19:06",
+  "count_articles_total": 1485,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 21076,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Xia Lin",
+      "title": "North Dakota 11th U.S. state with measles outbreak",
+      "description": "NEW YORK, May 7 (Xinhua) -- North Dakota has become the 11th state in the United States with a measles outbreak, logging its first cases since 2011, according to the U.S. Centers for Disease Control and Prevention (CDC). Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/08/north-dakota-11th-us-state-with-measles-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-07 18:05:00",
+      "content": "NEW YORK, May 7 (Xinhua) -- North Dakota has become the 11th state in the United States with a measles outbreak, logging its first cases since 2011, according to the U.S. Centers for Disease Control \u2026 [+1050 chars]",
+      "retrievedAt": "2025-05-08 19:06:13.083671",
+      "internal_id": "78cb4bc487063ad588a76d54f88d31cc5955d66e4758aadec28b4a7dc634cb9d",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21084,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La EMA investiga la vacuna 'Ixchiq' contra la chikungunya tras tener efectos graves en personas mayores",
+      "description": "El comit\u00e9 de seguridad de la Agencia del Medicamento Europea (EMA, por sus siglas en ingl\u00e9s) ha iniciado una revisi\u00f3n de 'Ixchiq', una vacuna viva atenuada contra la chikungunya , a ra\u00edz de los informes sobre acontecimientos adversos graves en personas de eda\u2026",
+      "url": "https://www.abc.es/sociedad/ema-investiga-vacuna-ixchiq-chikungunya-tras-tener-20250507184120-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2025/05/07/ema-vacuna-investiga.jpg",
+      "publishedAt": "2025-05-07 16:41:21",
+      "content": "El comit\u00e9 de seguridad de la Agencia del Medicamento Europea (EMA, por sus siglas en ingl\u00e9s) ha iniciado una revisi\u00f3n de 'Ixchiq', una vacuna viva atenuada contra la chikungunya, a ra\u00edz de los inform\u2026 [+2549 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.703248",
+      "internal_id": "6482bf7273f8977c9b0d3cc14d0d032f1ed21c2789c1934a138f78a7d1086d56",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21085,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "S\u00falyos mell\u00e9khat\u00e1sok \u00e9s hal\u00e1lesetek miatt felf\u00fcggesztettek egy \u00faj vakcin\u00e1t",
+      "description": "Az Eur\u00f3pai Uni\u00f3 eg\u00e9szs\u00e9g\u00fcgyi hat\u00f3s\u00e1ga vizsg\u00e1latot ind\u00edtott a Valneva chikungunya vakcin\u00e1j\u00e1val kapcsolatban, miut\u00e1n id\u0151sebb feln\u0151ttekn\u00e9l s\u00falyos mell\u00e9khat\u00e1sokr\u00f3l \u00e9rkeztek jelent\u00e9sek.",
+      "url": "https://www.portfolio.hu/gazdasag/20250507/sulyos-mellekhatasok-es-halalesetek-miatt-felfuggesztettek-egy-uj-vakcinat-759593",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/s/z/u/szunyog-szunyogcsipes-692971.jpg",
+      "publishedAt": "2025-05-07 16:39:00",
+      "content": "Az Eur\u00f3pai Gy\u00f3gyszer\u00fcgyn\u00f6ks\u00e9g (EMA) biztons\u00e1gi bizotts\u00e1ga ideiglenesen felf\u00fcggesztette az Ixchiq n\u00e9ven forgalmazott vakcina haszn\u00e1lat\u00e1t a 65 \u00e9ves \u00e9s ann\u00e1l idsebb felnttek eset\u00e9ben. A francia gy\u00f3gysze\u2026 [+1837 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.711482",
+      "internal_id": "ef9da4bce8e15f43ba10af6b34aafa4635e49862b0ad564be2504fea7e4fc9b9",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21077,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Tuck Seng Wong, Professor of Biomanufacturing, School of Chemical, Materials and Biological Engineering, University of Sheffield, Kang Lan Tee, Associate Professor, School of Chemical, Materials and Biological Engineering, University of Sheffield",
+      "title": "Why south-east Asia must lead the fight against neglected tropical diseases",
+      "description": "The fight against neglected tropical diseases is a fight for equity, productivity and long-term security. South-east Asia can lead the way.",
+      "url": "https://theconversation.com/why-south-east-asia-must-lead-the-fight-against-neglected-tropical-diseases-255640",
+      "urlToImage": "https://images.theconversation.com/files/664974/original/file-20250430-56-cdeodu.jpg?ixlib=rb-4.1.0&rect=0%2C450%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-05-07 16:36:25",
+      "content": "Village health Volunteers in Thailand survey mosquito breeding sites as part of dengue prevention campaign Deere Kumphaitoon/Shutterstock Neglected tropical diseases (NTDs) are a persistent public h\u2026 [+6047 chars]",
+      "retrievedAt": "2025-05-08 19:06:14.164146",
+      "internal_id": "b86bae8eacf189e7e27592166f5a73afc56319f9ebe5ac0b47624f62724ea3e7",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21083,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Conclave, chikungunya \u00e0 la R\u00e9union, \u00abbriseurs de gr\u00e8ve\u00bb \u00e0 la SNCF\u2026 L\u2019actu de ce mercredi 7 mai",
+      "description": "La r\u00e9daction de \u00abLib\u00e9ration\u00bb r\u00e9capitule les principales actualit\u00e9s du jour.",
+      "url": "https://www.liberation.fr/international/europe/conclave-chikungunya-a-la-reunion-briseurs-de-greve-a-la-sncf-lactu-de-ce-mercredi-7-mai-20250507_RL646B4IL5GLVKAGHAA4QLKKFY/",
+      "urlToImage": "https://www.liberation.fr/resizer/8QIKJc6ytis7Be6iB4R_ZZ6gUaI=/1200x630/filters:format(jpg):quality(70):focal(2654x2003:2664x2013)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/C7H3IVY33ZA33LBHQZ3LXMXEU4.jpg",
+      "publishedAt": "2025-05-07 16:24:24",
+      "content": "Chaque soir, la r\u00e9daction de Lib\u00e9 s\u00e9lectionne les actualit\u00e9s du jour quil ne fallait pas rater en France et dans le reste du monde. Les portes de la chapelle Sixtine se sont referm\u00e9es mercredi apr\u00e8s\u2026 [+4478 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.694693",
+      "internal_id": "cd8f18c8efc8e14997f79748be35091c3fc3f2e9d7bab9702361bfd3eab0e8d7",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21074,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "20 cases of measles confirmed in Manitoba, province says",
+      "description": "Manitoba has now identified a total of 20 confirmed cases of measles this year, the province says.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-number-of-cases-1.7528688",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-07 16:15:34",
+      "content": "Manitoba has now identified a total of 20 confirmed cases of measles this year, the province says. Two of those cases were reported this month, while 12 were in April. There was also one case in Mar\u2026 [+1314 chars]",
+      "retrievedAt": "2025-05-08 19:06:13.037421",
+      "internal_id": "b04b86d522b471213b3e8fd454ac19e426da08bde35c445cab14e8e2842e61c2",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21078,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue trasmessa da zanzare tigre, disinfestazione nel Pisano",
+      "description": "A Cascina, in provincia di Pisa, casi di Dengue trasmesso da una zanzara tigre. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/05/07/dengue-trasmessa-da-zanzare-tigre-disinfestazione-nel-pisano_5431a2f8-0641-4852-9d36-2e4ef1ae7ddd.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2025-05-07 16:15:10",
+      "content": "A Cascina, in provincia di Pisa, casi di Dengue trasmesso da una zanzara tigre. Lo rende noto il Comune dopo una segnalazione dell'Asl annunciando \"interventi adulticidi, larvicidi e di eliminazio\u2026 [+1711 chars]",
+      "retrievedAt": "2025-05-08 19:06:14.179281",
+      "internal_id": "415f7a6efa18424cbaa26632175a80d4cca426835335e62f1edc2266e3bf6ff0",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21073,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health minister defends Ontario's response to worsening measles outbreak",
+      "description": "Health Minister Sylvia Jones defended on Wednesday the province's approach to the ongoing measles outbreak as new infections increase sharply and criticism mounts.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-ontario-response-jones-ford-1.7528656",
+      "urlToImage": "https://i.cbc.ca/1.7528698.1746633051!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/sylvia-jones-health-minister-ontario.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-07 16:01:30",
+      "content": "Health Minister Sylvia Jones defended on Wednesday the province's approach to the ongoing measles outbreak as new infections increase sharply and criticism mounts. The latest public health data rele\u2026 [+2276 chars]",
+      "retrievedAt": "2025-05-08 19:06:13.009657",
+      "internal_id": "1412a9f4900824421ae6cd96517d988246245f32c5d8647dfc6145b3ae925702",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21087,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Provides Update Following European Medicines Agency Announcement on Use of IXCHIQ\u00ae in Elderly",
+      "description": "Saint Herblain (France), May, 07 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Medicines Agency (EMA) has started a review of Valneva\u2019s single-dose live attenuated chikungunya vaccine IXC\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/05/07/3076377/0/en/Valneva-Provides-Update-Following-European-Medicines-Agency-Announcement-on-Use-of-IXCHIQ-in-Elderly.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-05-07 15:45:00",
+      "content": "Saint Herblain (France), May, 07 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Medicines Agency (EMA) has started a review of Valn\u2026 [+7638 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.737066",
+      "internal_id": "598cc449f03bc8020dad421fc8d8363c2a1c8afef58f5e70c41121dcfed40c96",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21091,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC registra 289 casos de mpox en la regi\u00f3n europea de la OMS durante el \u00faltimo mes",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha registrado 289 casos de mpox en el \u00faltimo mes, unas cifras que se distribuyen en 18 pa\u00edses y zonas de la regi\u00f3n europea de la Organizaci\u00f3n Mundial de la Salud (OMS).",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-289-casos-mpox-region-europea-oms-ultimo-mes-20250507172204.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250507172204_1200.jpg",
+      "publishedAt": "2025-05-07 15:22:04",
+      "content": "MADRID 7 May. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha registrado 289 casos de mpox en el \u00faltimo mes, unas cifras que se distribuyen en 18 pa\u00edses y\u2026 [+1885 chars]",
+      "retrievedAt": "2025-05-08 19:06:16.129166",
+      "internal_id": "069aa3a80cdc44a95761be96a0bb9206185bb8214db0a645c31c8756c26612dd",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21088,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Chikungunya \u00e0 la R\u00e9union : 12 morts depuis le d\u00e9but de l\u2019ann\u00e9e, selon Sant\u00e9 publique France",
+      "description": "L\u2019\u00e9pid\u00e9mie qui touche le d\u00e9partement depuis l\u2019\u00e9t\u00e9 2024 reste toujours active mais de mani\u00e8re disparate en fonction des territoires.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-a-la-reunion-12-morts-depuis-le-debut-de-lannee-selon-sante-publique-france-20250507_45WUG7T5MJFNZIBHVNUXPCENFA/",
+      "urlToImage": "https://www.liberation.fr/resizer/5M-4TjHheT2lPk6L1lcAjcEj0yc=/1200x630/filters:format(jpg):quality(70):focal(4643x3500:4653x3510)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/KLHR5OPAGJH6HK7MBGO2IMHOAA.jpg",
+      "publishedAt": "2025-05-07 14:34:14",
+      "content": "Trois nouveaux d\u00e9c\u00e8s \u00abli\u00e9s au chikungunya\u00bb ont \u00e9t\u00e9 comptabilis\u00e9s \u00e0 La R\u00e9union, portant \u00e0 douze le nombre de morts depuis le d\u00e9but de lann\u00e9e sur l\u00eele, a annonc\u00e9 mercredi 7 mai Sant\u00e9 publique France, q\u2026 [+1862 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.752511",
+      "internal_id": "8177a372450e2a459b54ded7d0db6e347d71c76109b477ddd7ba121aa4fbe793",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21080,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aney Rijal, E. Elsa Herdiana Murhandarwati, Megha Raj Banjara, Dilasha KC, Gokarna Dahal, Ari Probandari",
+      "title": "Exploring barriers and facilitators in implementation fidelity of malaria screening intervention at Nepal-India border point-of-entry health desks-A mixed method study",
+      "description": "Purpose This research aimed to identify the barriers and facilitators in implementation fidelity of malaria screening at Nepal-India border Point of Entry (POE) health desks. Method A mixed-method approach was used guided by an implementation fidelity frame\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323116",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323116.g002&size=inline",
+      "publishedAt": "2025-05-07 14:00:00",
+      "content": "Malaria screening trend in three selected borders As shown in Fig 2, in the time interval between March 2021 to December 2021, 13117 migrants were tested at Gaddhachauki, 23449 migrants at Trinagar \u2026 [+21434 chars]",
+      "retrievedAt": "2025-05-08 19:06:14.948894",
+      "internal_id": "07f3c220f6fc5c36187b6ebcda82e053a629d0ef775328d19de9527ffa6a478d",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21090,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ivaan Pitua, Raafidha Raizudheen",
+      "title": "Short communication: Mpox memes, the gift that conceals a blade",
+      "description": "Memes have become a popular communication tool, especially during public health crises, offering both opportunities and challenges for messaging. This short communication examines the dual role of mpox-related memes circulating since the disease\u2019s declaration\u2026",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004496",
+      "urlToImage": "https://opengraph.plos.org/doi/10.1371/journal.pgph.0004496/og_image.jpg",
+      "publishedAt": "2025-05-07 14:00:00",
+      "content": "Abstract Memes have become a popular communication tool, especially during public health crises, offering both opportunities and challenges for messaging. This short communication examines the dual \u2026 [+12622 chars]",
+      "retrievedAt": "2025-05-08 19:06:16.120327",
+      "internal_id": "4134a364b03ca3006e3385169231f27d8b07c60fd6f73d200dfcaf8be3427692",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21089,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Le bilan de l'\u00e9pid\u00e9mie de chikungunya \u00e0 la R\u00e9union est d\u00e9sormais de 12 morts depuis le d\u00e9but de l'ann\u00e9e, selon Sant\u00e9 publique France",
+      "description": "\"Ces d\u00e9c\u00e8s sont survenus chez des personnes de plus 70 ans (...) porteuses de comorbidit\u00e9s\", principalement des \"pathologies chroniques\", a pr\u00e9cis\u00e9 l'agence sanitaire.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/le-bilan-de-l-epidemie-de-chikungunya-a-la-reunion-est-desormais-de-12-morts-depuis-le-debut-de-l-annee-selon-sante-publique-france_7233234.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/sgJ8584DUzjXWdYIGpLBpVP0DPg/0x53:1024x629/1500x843/2025/05/07/000-433t43p-681b65b876ad3188469075.jpg",
+      "publishedAt": "2025-05-07 13:59:20",
+      "content": "Trois nouveaux d\u00e9c\u00e8s \"li\u00e9s au chikungunya\" ont \u00e9t\u00e9 comptabilis\u00e9s \u00e0 la R\u00e9union, portant \u00e0 douze le nombre de morts depuis le d\u00e9but de l'ann\u00e9e sur l'\u00eele, a annonc\u00e9 Sant\u00e9 publique France mercredi 7 mai.\u2026 [+1328 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.761955",
+      "internal_id": "b07b592ba9b66fef086ab75ac422488b8783739131e4425aa8478a7dcc9f4ce8",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21086,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "A la R\u00e9union, douze morts \u00ab li\u00e9es au chikungunya \u00bb depuis le d\u00e9but de l\u2019ann\u00e9e, selon Sant\u00e9 publique France, qui \u00e9voque une tendance \u00e0 la d\u00e9crue de l\u2019\u00e9pid\u00e9mie",
+      "description": "L\u2019agence sanitaire publique pr\u00e9cise toutefois que \u00ab cette tendance devra \u00eatre confirm\u00e9e dans les semaines qui arrivent \u00bb, soulignant que \u00ab l\u2019\u00e9pid\u00e9mie de chikungunya est toujours active sur tout le territoire \u00bb.",
+      "url": "https://www.lemonde.fr/outre-mer/article/2025/05/07/a-la-reunion-douze-morts-liees-au-chikungunya-depuis-le-debut-de-l-annee-selon-sante-publique-france-qui-evoque-une-tendance-a-la-decrue-de-l-epidemie_6603818_1840826.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/11/0/0/5914/3943/1440/960/60/0/67c8dd7_ftp-import-images-1-krp4ogej2p0u-5589368-01-06.jpg",
+      "publishedAt": "2025-05-07 13:58:00",
+      "content": "Au centre hospitalier Ouest R\u00e9union, \u00e0 Saint-Paul, sur l\u00eele de la R\u00e9union, le 10 avril 2025. RICHARD BOUHET / AFP Trois nouveaux morts \u00ab li\u00e9s au chikungunya \u00bb ont \u00e9t\u00e9 comptabilis\u00e9s \u00e0 La R\u00e9union, por\u2026 [+2336 chars]",
+      "retrievedAt": "2025-05-08 19:06:15.721129",
+      "internal_id": "83fa929d239eb89adf33c88f80738caf9ccb9a1896ff7cd98c2287403142a621",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21070,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Fred Schwaller",
+      "title": "Global resurgence of measles is a 'wake-up call'",
+      "description": "Vaccine programs almost eradicated measles, but cases are rising again in every part of the world. What's behind the resurgence in outbreaks?",
+      "url": "https://www.dw.com/en/global-resurgence-of-measles-is-a-wake-up-call/a-72463486",
+      "urlToImage": "https://static.dw.com/image/71927157_6.jpg",
+      "publishedAt": "2025-05-07 12:58:00",
+      "content": "Measles is well suited for eradication. The virus only spreads among human animals and does not survive long in the environment. There's a vaccine and it is cheap and effective. And if enough people\u2026 [+6582 chars]",
+      "retrievedAt": "2025-05-08 19:06:12.931221",
+      "internal_id": "aaa8de64d96399c4b138637f56ca94393218fd9f4ed783cd0ce3e28dbc301adc",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21071,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Fred Schwaller",
+      "title": "What's behind the recent measles outbreaks around the world?",
+      "description": "Vaccine programs almost eradicated measles, but cases are rising again in every part of the world. Health advisors say it's a 'wake-up call' for renewed vaccination efforts.",
+      "url": "https://www.dw.com/en/global-measles-outbreak-vaccination-efforts-v2/a-72463486",
+      "urlToImage": "https://static.dw.com/image/71927157_6.jpg",
+      "publishedAt": "2025-05-07 12:58:00",
+      "content": "Measles is well-suited for eradication. The virus only spreads among humans and does not survive long in the environment. There's a vaccine and it is cheap and effective. And if enough people (95% o\u2026 [+6563 chars]",
+      "retrievedAt": "2025-05-08 19:06:12.959900",
+      "internal_id": "384af5381536424d9f2f2c3856e2f9170f043a5edf4cbbb6fb8ff73fa97f5150",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21072,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Rebecca Schein, Assistant Professor of Infectious Disease Pediatrics, Michigan State University",
+      "title": "Measles could again become widespread as cases surge worldwide",
+      "description": "The US eliminated measles in 2000, but the number of cases at home and abroad has experts worried.",
+      "url": "https://theconversation.com/measles-could-again-become-widespread-as-cases-surge-worldwide-255501",
+      "urlToImage": "https://images.theconversation.com/files/666211/original/file-20250506-56-kq8fqw.jpg?ixlib=rb-4.1.0&rect=0%2C449%2C7200%2C3600&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-05-07 12:33:34",
+      "content": "Measles is one of the most infectious diseases on the planet. Kateryna Kon/Science Photo Library via Getty Images Globally, measles is on the rise across the U.S., Canada, Mexico, South America and \u2026 [+7540 chars]",
+      "retrievedAt": "2025-05-08 19:06:12.974992",
+      "internal_id": "bab8ec22616d855693272377cb4b0091c367e400a273324e268c990426e59a58",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21082,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean, Kenzu",
+      "title": "AI can support malaria diagnosis: BRIN",
+      "description": "Researcher at the Eijkman Molecular Biology Research Center, National Research, and Innovation Agency (BRIN), Puji Budi Setia Asih, highlighted the potential ...",
+      "url": "https://en.antaranews.com/news/354309/ai-can-support-malaria-diagnosis-brin",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/11/01/6134114490657128350.jpg",
+      "publishedAt": "2025-05-07 11:07:20",
+      "content": "Jakarta (ANTARA) - Researcher at the Eijkman Molecular Biology Research Center, National Research, and Innovation Agency (BRIN), Puji Budi Setia Asih, highlighted the potential of using artificial in\u2026 [+2154 chars]",
+      "retrievedAt": "2025-05-08 19:06:14.980820",
+      "internal_id": "13eb334ca67deb5a750c7f823dfb4b043bed74399a1c272eaeb0ce1442fd7231",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21075,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Spike in Winkler-area measles exposures due to low vaccination rates in region, health official says",
+      "description": "A recent string of measles exposures in Winkler, Man., has local health officials and residents concerned about low vaccination rates and possible disease spread.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winkler-measles-vaccination-rates-1.7528339",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1746297600!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-07 10:00:00",
+      "content": "A recent string of measles exposures in Winkler, Man., has local health officials and residents concerned about low vaccination rates and possible disease spread. The province issued its latest mea\u2026 [+3884 chars]",
+      "retrievedAt": "2025-05-08 19:06:13.048233",
+      "internal_id": "39e9834434f91c96eee3504bbbf261acc976363bc350c88a490410b25e376df4",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21092,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "REM",
+      "title": "Prevenir, la prioridad",
+      "description": "El uso obligatorio de la mascarilla en determinadas provincias nos retrotrae a los tiempos de la pandemia por el Covid 19. As\u00ed lo dispuso el Ministerio de Salud P\u00fablica (MSP) ante brotes de tosferina, fiebre amarilla y leptospirosis. Seg\u00fan la Federaci\u00f3n M\u00e9dic\u2026",
+      "url": "https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-07 09:25:00",
+      "content": "El uso obligatorio de la mascarilla en determinadas provincias nos retrotrae a los tiempos de la pandemia por el Covid 19. As\u00ed lo dispuso el Ministerio de Salud P\u00fablica (MSP) ante brotes de tosferin\u2026 [+1752 chars]",
+      "retrievedAt": "2025-05-08 19:06:16.750423",
+      "internal_id": "6d78096a3a03a97b706c7d039aa84b84e81412cf746a04c947f2edbdef77219e",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21079,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Grist",
+      "author": "Zoya Teirstein",
+      "title": "A malaria-like disease spread by ticks is moving into Delaware, Maryland, and Virginia",
+      "description": "The tick that causes Lyme can also spread babesiosis \u2014 and researchers fear doctors in the mid-Atlantic don't know about it.",
+      "url": "http://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/05/black-legged-tick.jpg?quality=75&strip=all",
+      "publishedAt": "2025-05-07 08:45:00",
+      "content": "Ellen Stromdahl was at a garden party in coastal Virginia in June 2023 when her friend Albert Duncan stood up from where he was sitting and abruptly fainted away. Duncan is an outdoorsman in his mid-\u2026 [+7530 chars]",
+      "retrievedAt": "2025-05-08 19:06:14.918761",
+      "internal_id": "f65f3d3dca21da070e5ced7e4ebf0686d17691088fcac97a2127f19708403152",
+      "publishedAtLabel": "May 7"
+    },
+    {
+      "id": 21081,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Aditya Eka Prawira",
+      "title": "Prabowo Temui Bill Gates, Indonesia Siap Uji Coba Vaksin TBC dan Malaria",
+      "description": "Presiden Prabowo temui Bill Gates di Istana Merdeka, bahas uji coba vaksin TBC dan malaria yang akan dilakukan di Indonesia bersama Gates Foundation.",
+      "url": "https://www.liputan6.com/health/read/6015935/prabowo-temui-bill-gates-indonesia-siap-uji-coba-vaksin-tbc-dan-malaria",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/TATIgZpr6_HYvwmFj930ixhOApc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5211766/original/020755000_1746595389-20250507-Prabowo_terima_Bill_Gates-AFP_1.jpg",
+      "publishedAt": "2025-05-07 07:24:12",
+      "content": "Liputan6.com, Jakarta - Presiden Prabowo Subianto menyatakan bahwa Indonesia siap menjadi lokasi uji coba vaksin tuberkulosis (TBC) dan malaria yang tengah dikembangkan oleh pendiri Microsoft sekalig\u2026 [+851 chars]",
+      "retrievedAt": "2025-05-08 19:06:14.965215",
+      "internal_id": "9fad86fbee01f4acde3eb6172a17955fbe17f6c32e38af79297c3dfe011230ff",
+      "publishedAtLabel": "May 7"
+    },
     {
       "id": 21068,
       "query": [
@@ -26363,114 +26777,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]

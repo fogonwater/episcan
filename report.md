@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-05-08 07:07
-- **Most recent article:** 2025-05-07 04:00:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2025-05-08 19:06
+- **Most recent article:** 2025-05-07 18:05:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 100 | 77 | 145 | 82 | 107 | 88 | 25 | 624 |
-| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 9 | 207 |
-| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 3 | 146 |
-| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 10 | 145 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 5 | 128 |
-| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 4 | 76 |
+| measles | 98 | 77 | 145 | 82 | 107 | 88 | 32 | 629 |
+| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 9 | 204 |
+| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 10 | 153 |
+| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 12 | 146 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 9 | 132 |
+| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 6 | 78 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 1 | 52 |
 | rabies | 19 | 7 | 7 | 0 | 3 | 4 | 7 | 47 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 2 | 28 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 2 | 19 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
-| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 2 | 5 |
+| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 3 | 6 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 
 
@@ -56,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (mpox)
 
+- [El ECDC registra 289 casos de mpox en la región europea de la OMS durante el último mes](https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-289-casos-mpox-region-europea-oms-ultimo-mes-20250507172204.html) (Infosalus.com)
+
+- [Short communication: Mpox memes, the gift that conceals a blade](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004496) (Plos.org)
+
 - [Bavarian Nordic Awarded Contract Options from the U.S. Government for Production and Supply of Freeze-dried Smallpox/Mpox Vaccines](https://www.globenewswire.com/news-release/2025/05/06/3074717/0/en/Bavarian-Nordic-Awarded-Contract-Options-from-the-U-S-Government-for-Production-and-Supply-of-Freeze-dried-Smallpox-Mpox-Vaccines.html) (GlobeNewswire)
 
 - [Bavarian Nordic er blevet tildelt kontraktoptioner fra den amerikanske regering til produktion og levering af frysetørret koppe- og mpoxvaccine](https://www.globenewswire.com/news-release/2025/05/06/3074717/0/da/Bavarian-Nordic-er-blevet-tildelt-kontraktoptioner-fra-den-amerikanske-regering-til-produktion-og-levering-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html) (GlobeNewswire)
@@ -69,6 +73,20 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut, junto a Patricia Pérez, confiesa su realidad tras su enfermedad: 'Vivo más lento'](https://www.hola.com/actualidad/20250506830096/luis-canut-junto-a-patricia-perez-confiesa-su-realidad-tras-su-enfermedad-vivo-mas-lento/) (Hola)
 
 ## 25-19 (measles)
+
+- [North Dakota 11th U.S. state with measles outbreak](https://www.thestar.com.my/news/world/2025/05/08/north-dakota-11th-us-state-with-measles-outbreak) (The Star Online)
+
+- [20 cases of measles confirmed in Manitoba, province says](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-number-of-cases-1.7528688) (CBC News)
+
+- [Health minister defends Ontario's response to worsening measles outbreak](https://www.cbc.ca/news/canada/toronto/measles-ontario-response-jones-ford-1.7528656) (CBC News)
+
+- [Global resurgence of measles is a 'wake-up call'](https://www.dw.com/en/global-resurgence-of-measles-is-a-wake-up-call/a-72463486) (DW (English))
+
+- [What's behind the recent measles outbreaks around the world?](https://www.dw.com/en/global-measles-outbreak-vaccination-efforts-v2/a-72463486) (DW (English))
+
+- [Measles could again become widespread as cases surge worldwide](https://theconversation.com/measles-could-again-become-widespread-as-cases-surge-worldwide-255501) (The Conversation Africa)
+
+- [Spike in Winkler-area measles exposures due to low vaccination rates in region, health official says](https://www.cbc.ca/news/canada/manitoba/winkler-measles-vaccination-rates-1.7528339) (CBC News)
 
 - [5 more cases of measles found in western North Dakota, bringing state total to 9](https://www.inforum.com/news/north-dakota/5-more-cases-of-measles-found-in-western-north-dakota-bringing-state-total-to-9) (INFORUM)
 
@@ -122,6 +140,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (malaria)
 
+- [Exploring barriers and facilitators in implementation fidelity of malaria screening intervention at Nepal-India border point-of-entry health desks-A mixed method study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323116) (Plos.org)
+
+- [AI can support malaria diagnosis: BRIN](https://en.antaranews.com/news/354309/ai-can-support-malaria-diagnosis-brin) (Antaranews.com)
+
+- [A malaria-like disease spread by ticks is moving into Delaware, Maryland, and Virginia](http://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/) (Grist)
+
+- [Prabowo Temui Bill Gates, Indonesia Siap Uji Coba Vaksin TBC dan Malaria](https://www.liputan6.com/health/read/6015935/prabowo-temui-bill-gates-indonesia-siap-uji-coba-vaksin-tbc-dan-malaria) (Liputan6.com)
+
 - [Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024](https://wwwnc.cdc.gov/eid/article/31/6/24-1932_article) (Cdc.gov)
 
 - [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
@@ -133,6 +159,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria outbreak in Kokrajhar: 443 cases reported](https://thehillstimes.in/assam/malaria-outbreak-in-kokrajhar-443-cases-reported) (Thehillstimes.in)
 
 ## 25-19 (leptospirosis)
+
+- [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
 
@@ -166,6 +194,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (dengue)
 
+- [Why south-east Asia must lead the fight against neglected tropical diseases](https://theconversation.com/why-south-east-asia-must-lead-the-fight-against-neglected-tropical-diseases-255640) (The Conversation Africa)
+
+- [Dengue trasmessa da zanzare tigre, disinfestazione nel Pisano](https://www.ansa.it/toscana/notizie/2025/05/07/dengue-trasmessa-da-zanzare-tigre-disinfestazione-nel-pisano_5431a2f8-0641-4852-9d36-2e4ef1ae7ddd.html) (ANSA.it)
+
 - [Dengue cases rise in Karnataka ahead of monsoon, with Bengaluru worst-hit](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-rise-in-karnataka-ahead-of-monsoon-with-bengaluru-worst-hit/articleshow/120940825.cms) (The Times of India)
 
 - [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
@@ -187,6 +219,20 @@ Source: [News API](https://newsapi.org/)
 - [Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue](https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue) (Liputan6.com)
 
 ## 25-19 (chikungunya)
+
+- [La EMA investiga la vacuna 'Ixchiq' contra la chikungunya tras tener efectos graves en personas mayores](https://www.abc.es/sociedad/ema-investiga-vacuna-ixchiq-chikungunya-tras-tener-20250507184120-nt.html) (Www.abc.es)
+
+- [Súlyos mellékhatások és halálesetek miatt felfüggesztettek egy új vakcinát](https://www.portfolio.hu/gazdasag/20250507/sulyos-mellekhatasok-es-halalesetek-miatt-felfuggesztettek-egy-uj-vakcinat-759593) (Portfolio.hu)
+
+- [Conclave, chikungunya à la Réunion, «briseurs de grève» à la SNCF… L’actu de ce mercredi 7 mai](https://www.liberation.fr/international/europe/conclave-chikungunya-a-la-reunion-briseurs-de-greve-a-la-sncf-lactu-de-ce-mercredi-7-mai-20250507_RL646B4IL5GLVKAGHAA4QLKKFY/) (Libération)
+
+- [Valneva Provides Update Following European Medicines Agency Announcement on Use of IXCHIQ® in Elderly](https://www.globenewswire.com/news-release/2025/05/07/3076377/0/en/Valneva-Provides-Update-Following-European-Medicines-Agency-Announcement-on-Use-of-IXCHIQ-in-Elderly.html) (GlobeNewswire)
+
+- [Chikungunya à la Réunion : 12 morts depuis le début de l’année, selon Santé publique France](https://www.liberation.fr/societe/sante/chikungunya-a-la-reunion-12-morts-depuis-le-debut-de-lannee-selon-sante-publique-france-20250507_45WUG7T5MJFNZIBHVNUXPCENFA/) (Libération)
+
+- [Le bilan de l'épidémie de chikungunya à la Réunion est désormais de 12 morts depuis le début de l'année, selon Santé publique France](https://www.francetvinfo.fr/sante/maladie/chikungunya/le-bilan-de-l-epidemie-de-chikungunya-a-la-reunion-est-desormais-de-12-morts-depuis-le-debut-de-l-annee-selon-sante-publique-france_7233234.html) (Francetvinfo.fr)
+
+- [A la Réunion, douze morts « liées au chikungunya » depuis le début de l’année, selon Santé publique France, qui évoque une tendance à la décrue de l’épidémie](https://www.lemonde.fr/outre-mer/article/2025/05/07/a-la-reunion-douze-morts-liees-au-chikungunya-depuis-le-debut-de-l-annee-selon-sante-publique-france-qui-evoque-une-tendance-a-la-decrue-de-l-epidemie_6603818_1840826.html) (Le Monde)
 
 - [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
 
@@ -2998,10 +3044,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
-- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
-
-- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
-
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3160,12 +3202,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
-- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
-
-- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
-
-- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
-
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3203,8 +3239,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
-
-- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
