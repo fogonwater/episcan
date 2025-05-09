@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2025-05-08 19:06
-- **Most recent article:** 2025-05-07 18:05:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-05-09 07:07
+- **Most recent article:** 2025-05-08 06:59:10
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 98 | 77 | 145 | 82 | 107 | 88 | 32 | 629 |
-| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 9 | 204 |
+| measles | 100 | 77 | 145 | 82 | 107 | 88 | 36 | 635 |
+| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 11 | 209 |
 | chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 10 | 153 |
-| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 12 | 146 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 9 | 132 |
+| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 13 | 148 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 10 | 133 |
 | mpox | 11 | 17 | 18 | 10 | 5 | 11 | 6 | 78 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 1 | 52 |
-| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 7 | 47 |
+| rabies | 19 | 7 | 7 | 0 | 3 | 4 | 9 | 49 |
 | zika | 3 | 4 | 7 | 7 | 2 | 3 | 2 | 28 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
-| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 2 | 19 |
+| hpai | 2 | 4 | 3 | 5 | 1 | 2 | 3 | 20 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
 | leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 3 | 6 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -39,6 +39,10 @@ Source: [News API](https://newsapi.org/)
 - [Pets pegam dengue?](https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html) (Terra.com.br)
 
 ## 25-19 (rabies)
+
+- [One dies of rabies in Ichhakamana](https://english.khabarhub.com/2025/08/465003/) (Khabarhub.com)
+
+- [Bat tests positive for rabies in Weld County, first positive result for 2025](https://www.denver7.com/lifestyle/health/rabid-bat-in-weld-county-marks-first-animal-to-test-positive-for-the-virus-in-colorado-for-the-2025-season) (Denver7.com)
 
 - [Rabid skunk found in Franklin County, Virginia Department of Health confirms](https://wset.com/news/local/rabid-skunk-found-in-franklin-county-virginia-department-of-health-confirms-may-2025) (WSET)
 
@@ -74,7 +78,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (measles)
 
+- [North Dakota 11th U.S. state with measles outbreak](http://en.people.cn/n3/2025/0508/c90000-20311955.html) (People.cn)
+
+- [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/) (CNET)
+
+- [US surpasses 1,000 measles cases in 2025, second worst year since disease was declared eliminated | CNN](https://www.cnn.com/2025/05/07/health/measles-cases-one-thousand-us) (CNN)
+
 - [North Dakota 11th U.S. state with measles outbreak](https://www.thestar.com.my/news/world/2025/05/08/north-dakota-11th-us-state-with-measles-outbreak) (The Star Online)
+
+- [17 measles cases reported in Oklahoma, health officials say](https://www.news9.com/story/681b86b2aee20ec4b5806dea/oklahoma-measles-cases-grow-to-17-the-update-from-health-officials) (news9.com KWTV)
 
 - [20 cases of measles confirmed in Manitoba, province says](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-number-of-cases-1.7528688) (CBC News)
 
@@ -140,6 +152,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (malaria)
 
+- [Malaria free China, an academic medicine revolution, and retracted data's impact](https://thebmjpodcast.podbean.com/e/bmj-7th-may/) (Podbean.com)
+
 - [Exploring barriers and facilitators in implementation fidelity of malaria screening intervention at Nepal-India border point-of-entry health desks-A mixed method study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323116) (Plos.org)
 
 - [AI can support malaria diagnosis: BRIN](https://en.antaranews.com/news/354309/ai-can-support-malaria-diagnosis-brin) (Antaranews.com)
@@ -168,11 +182,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (hpai)
 
+- [DA confirms 1st case of H5N9 bird flu strain in PH](https://www.globalsecurity.org/security/library/news/2025/05/sec-250507-pna01.htm) (Globalsecurity.org)
+
 - [【大河原克行の「パソコン業界、東奔西走」】NPU×オンデバイスAIでPCが変わる！日本HPが描く“未来の仕事”と戦略](https://pc.watch.impress.co.jp/docs/column/gyokai/2011665.html) (Impress.co.jp)
 
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
 ## 25-19 (h5n1)
+
+- [Desconocen fuente de contagio del primer caso de influenza aviar en una niña de Durango](https://www.milenio.com/ciencia-y-salud/gripe-aviar-durango-desconoce-fuente-contagio) (Milenio)
+
+- [Bird flu in cats points to risk of another pandemic](https://phys.org/news/2025-05-bird-flu-cats-pandemic.html) (Phys.Org)
 
 - [“Es como un incendio en pasto seco”: estudio advierte que virus de la gripe aviar sufrió mutación en Chile que aceleró su propagación](https://www.latercera.com/que-pasa/noticia/es-como-un-incendio-en-pasto-seco-estudio-advierte-que-virus-de-la-gripe-aviar-sufrio-mutacion-en-chile-que-acelero-su-propagacion/) (Latercera.com)
 
@@ -193,6 +213,8 @@ Source: [News API](https://newsapi.org/)
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
 ## 25-19 (dengue)
+
+- [Intuitive At-Home Medical Tests - This Dengue Home Test Kit Concept Helps with Early Detection (TrendHunter.com)](https://www.trendhunter.com/trends/dengue-home-test-kit) (Trendhunter.com)
 
 - [Why south-east Asia must lead the fight against neglected tropical diseases](https://theconversation.com/why-south-east-asia-must-lead-the-fight-against-neglected-tropical-diseases-255640) (The Conversation Africa)
 
@@ -3044,6 +3066,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
+- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
+
+- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
+
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3202,6 +3228,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
+- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
+
+- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
+
+- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
+
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3239,6 +3271,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
+
+- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
