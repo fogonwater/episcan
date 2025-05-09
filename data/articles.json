@@ -1,8 +1,246 @@
 {
-  "last_updated": "2025-05-09 07:07",
-  "count_articles_total": 1502,
-  "count_articles_new": 11,
+  "last_updated": "2025-05-09 19:05",
+  "count_articles_total": 1509,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 21108,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "mye",
+      "title": "Aziatische tijgermuggen gesignaleerd rond Gent: \u201cZe kunnen ziektes overdragen\u201d",
+      "description": "Deskundigen waarschuwen voor een toename van invasieve muggensoorten in Belgi\u00eb. De Aziatische tijgermug, afkomstig uit Zuidoost-Azi\u00eb, werd al waargenomen in 18 Vlaamse regio\u2019s, waaronder Melle, Drongen, Wondelgem, Evergem en Oosterzele. En dat is niet zonder \u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250508_95103574",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/05/08/a12baf9b-9b07-432d-b551-e597c53b1ae9.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-05-08 18:44:14",
+      "content": "De aanwezigheid van muggen vormt niet alleen een hinderlijke overlast, maar brengt ook gezondheidsrisicos met zich mee. In bepaalde regios kunnen muggen ziektes zoals zika, dengue en chikungunya over\u2026 [+1377 chars]",
+      "retrievedAt": "2025-05-09 19:05:51.535097",
+      "internal_id": "0b97330f77c06ef4277ee1388b4678060f95838be2d44429164622321daddda7",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21104,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Sask. measles cases more than doubled in past week, daily cases likely, chief medical officer says",
+      "description": "All confirmed cases were linked to travel outside the province, but health officials are bracing for community spread as numbers rise.",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/chief-medical-officer-measles-case-doubled-week-1.7529945",
+      "urlToImage": "https://i.cbc.ca/1.7530109.1746727985!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/dr-saqib-shahab.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-05-08 18:25:17",
+      "content": "Measles cases in Saskatchewan have more than doubled in the past week and health officials are expecting to see new cases daily, the province's top doctor says. Since March 14, the Saskatchewan Heal\u2026 [+2331 chars]",
+      "retrievedAt": "2025-05-09 19:05:50.516058",
+      "internal_id": "96cdb65ea82d38db618a473f0eeddae309abcee9ce1095743273b53de2d870ab",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21106,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario reports nearly 200 new measles cases as virus spreads across Canada",
+      "description": "Health officials say measles infected 197 more people in Ontario over the last week as the highly contagious disease emerged in new parts of the country.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-ontario-200-new-cases-1.7530047",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1716008972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-08 17:59:22",
+      "content": "Health officials say measles infected 197 more people in Ontario over the last week as the highly contagious disease emerged in new parts of the country. That brings the province's tally of probable\u2026 [+767 chars]",
+      "retrievedAt": "2025-05-09 19:05:50.615620",
+      "internal_id": "0b7884b4c62451a71208cd927902487c01cb2533c8250307c35ee2803b840cb0",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21105,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Kate Anderson",
+      "title": "Measles Outbreak Surpasses 1,000 Cases, Second Worst Year Since Declared Eliminated In US",
+      "description": "Over 1,000 measles cases have been reported across the U.S. making it the second worst outbreak since the disease was declared eliminated, according to CNN.",
+      "url": "https://dailycaller.com/2025/05/08/measles-outbreak-1000-cases-declared-eliminated-us/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2022/11/GettyImages-1238883202-scaled-e1668730293152.jpg",
+      "publishedAt": "2025-05-08 15:28:30",
+      "content": "Readers, Instead of sucking up to the political and corporate powers that dominate America, The Daily Caller is fighting for you our readers. We humbly ask you to consider joining us in this fight. \u2026 [+3565 chars]",
+      "retrievedAt": "2025-05-09 19:05:50.576474",
+      "internal_id": "5f39bee4e04564ab50a335acfc1546a40ed4d9bb15962faa8c5263ef9fa0c224",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21115,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Evaluating the safety and efficacy of a smallpox vaccine for preventing mpox",
+      "description": "The recent global monkeypox (mpox) outbreak, with a new and aggressive variant, has underscored the dire need for safe, broadly effective, and accessible vaccines. The LC16m8 vaccine, an attenuated vaccinia virus strain originally developed for smallpox, is a\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250508112443.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-08 15:24:43",
+      "content": "The recent global monkeypox (mpox) outbreak, with a new and aggressive variant, has underscored the dire need for safe, broadly effective, and accessible vaccines. The LC16m8 vaccine, an attenuated v\u2026 [+4892 chars]",
+      "retrievedAt": "2025-05-09 19:05:53.092206",
+      "internal_id": "e0f2eafad58a8f8fcdb062cb636a3d40c581afdd7205cf57d6b01065ca54b0e1",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21111,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Abram, Q. H., Matthews, L. A., Guarne, A., Sagan, S. M.",
+      "title": "Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [Article]",
+      "description": "Flavivirus infections, including those of Dengue virus (DENV) and Zika virus (ZIKV), result in a high disease burden globally, yet many aspects of their viral life cycle remain poorly understood. For example, while some features of the mechanism of negative-s\u2026",
+      "url": "https://rnajournal.cshlp.org/content/early/2025/05/08/rna.080342.124.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2025-05-08 15:05:51",
+      "content": "Flavivirus infections, including those of Dengue virus (DENV) and Zika virus (ZIKV), result in a high disease burden globally, yet many aspects of their viral life cycle remain poorly understood. F\u2026 [+1504 chars]",
+      "retrievedAt": "2025-05-09 19:05:51.605188",
+      "internal_id": "b239d693ed1d8e49d3e53fe54e9f5ffe3fd93dbf788a5fb224b8d4a67ea299cb",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21113,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Malaria Global Clinical Trials Review 2025: G7 & E7, Phase, Trial Status, End Points Status and Sponsor Type Coverage",
+      "description": "Dublin, May 08, 2025 (GLOBE NEWSWIRE) -- The \"Malaria - Global Clinical Trials Review, 2025\" clinical trials has been added to ResearchAndMarkets.com's offering.The report provides an overview of Malaria Clinical trials scenario. This report provides top line\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/05/08/3077440/28124/en/Malaria-Global-Clinical-Trials-Review-2025-G7-E7-Phase-Trial-Status-End-Points-Status-and-Sponsor-Type-Coverage.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-05-08 14:39:00",
+      "content": "Dublin, May 08, 2025 (GLOBE NEWSWIRE) -- The \"Malaria - Global Clinical Trials Review, 2025\" clinical trials has been added to ResearchAndMarkets.com's offering. The report provides an overview of M\u2026 [+5063 chars]",
+      "retrievedAt": "2025-05-09 19:05:52.032447",
+      "internal_id": "0ca4a6fa3e7f56bd0151a6562ec57445f0a39f1eed0ce40404bc12fbaa1e2254",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21112,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "US cuts aid to Zambia over 'systematic' medicine theft",
+      "description": "Critical medicines affected by the $50m cuts include Malaria, HIV and TB drugs, the US embassy says.",
+      "url": "https://www.bbc.com/news/articles/c1e6pl6302zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c18/live/56421cb0-2c04-11f0-8da1-ad2bbee6cda5.jpg",
+      "publishedAt": "2025-05-08 14:21:51",
+      "content": "The US has announced that it is cutting $50m (\u00a337m) in aid to Zambia's health sector, due to the country's failure to address the \"systematic theft\" of donated drugs and medical supplies. This \"diff\u2026 [+3682 chars]",
+      "retrievedAt": "2025-05-09 19:05:52.022988",
+      "internal_id": "129598f0182c979763f31647dc586ac5f422e91356db86eb7cd9857a7960cd17",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21110,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jan Auman",
+      "title": "Rentokil gaat tijgermug preventief bestrijden in Wilrijk en Wijnegem",
+      "description": "De Vlaamse overheid lanceert een nieuwe campagne om de verspreiding van de tijgermug zo veel mogelijk te beperken. Onder de slogan \u2018Leg de tijgermug droog\u2019 worden burgers opgeroepen om broedplaatsen te verwijderen en waarnemingen te melden. In Antwerpen werd \u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250508_94308379",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/05/08/c0e9dc49-f38f-47d3-aec0-5c245a48de5a.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-05-08 11:56:44",
+      "content": "De tijgermug heeft zich de afgelopen decennia steeds verder verspreid in Europa. In de voorbije drie jaar werd hij in 21 Vlaamse gemeenten aangetroffen. De mug kan ziekten als dengue, chikungunya en \u2026 [+3023 chars]",
+      "retrievedAt": "2025-05-09 19:05:51.596808",
+      "internal_id": "681d9599c5ca17b1148682d99be28343b033013335b3dc1a84a950b555e6261b",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21109,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Correio 24 Horas",
+      "title": "M\u00e1fia vende atestados m\u00e9dicos falsos de UPAs a partir de R$ 30",
+      "description": "Entenda como funciona o esquema de falsifica\u00e7\u00e3o que levou \u00e0 demiss\u00e3o de funcion\u00e1ria gr\u00e1vida em Salvador (BA)",
+      "url": "https://www.metropoles.com/brasil/mafia-vende-atestados-medicos-falsos-de-upas-a-partir-de-r-30",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/05/08073819/Mafia-vende-atestados-medicos-falsos-de-UPAs-a-partir-de-R-30.jpg",
+      "publishedAt": "2025-05-08 10:43:01",
+      "content": "Um professor ficou cinco dias afastado do trabalho ap\u00f3s receber o diagn\u00f3stico de dengue, em janeiro deste ano. O atestado apresentado por ele teria sido emitido no Pronto de Atendimento Dr. Orlando I\u2026 [+717 chars]",
+      "retrievedAt": "2025-05-09 19:05:51.543369",
+      "internal_id": "90199e16e5c8156b2a1e529cb05cb8b23606628d5d799f39d0a9e63e09ea3fa1",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21116,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "Christian S\u00e1nchez Mendieta",
+      "title": "Leptospirosis en Taisha: ni\u00f1os reciben el alta en Cuenca",
+      "description": "Este jueves 8 de mayo de 2025 recibir\u00e1n el alta m\u00e9dica dos de los cuatro ni\u00f1os de Taisha, en Morona Santiago, que permanecen internados en el hospital Vicente Corral Moscoso, en Cuenca, por leptospirosis. Se trata de los hermanos Daniel U., de 10 a\u00f1os, y Ande\u2026",
+      "url": "https://www.elmercurio.com.ec/principal/2025/05/08/leptospirosis-taisha-ninos-cuenca/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-08 10:30:00",
+      "content": "Este jueves 8 de mayo de 2025 recibir\u00e1n el alta m\u00e9dica dos de los cuatro ni\u00f1os de Taisha, en Morona Santiago, que permanecen internados en el hospital Vicente Corral Moscoso, en Cuenca, por leptospir\u2026 [+4605 chars]",
+      "retrievedAt": "2025-05-09 19:05:53.343995",
+      "internal_id": "98602a39f62d51a3bc6c7f9dce1a53825920685c064b81d91ae639268ac8c50b",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21107,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials encouraging Manitoba parents to vaccinate children as province hits 20 confirmed cases",
+      "description": "Manitoba public health officials are encouraging parents to immunize their children against measles as the province's total climbed to 20 confirmed cases and four probable cases of the disease on Wednesday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/health-officials-encourage-measles-vaccination-1.7529117",
+      "urlToImage": "https://i.cbc.ca/1.7379501.1743101395!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-bulletin-bc-20240304.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-08 10:00:00",
+      "content": "Manitoba public health officials are encouraging parents to immunize their children against measles as the province's total climbed to 20 confirmed cases and four probable cases of the disease on Wed\u2026 [+3383 chars]",
+      "retrievedAt": "2025-05-09 19:05:50.665392",
+      "internal_id": "5abdee3ba16507e81e8b8976f53070de22522fbbc7ec9c48721815f4bf4659fa",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21114,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Carlotta Wagner",
+      "title": "Malarias Schwachstelle: Deutsche Forscher entdecken neues Ziel f\u00fcr Medikamente",
+      "description": "Malaria bleibt eine der t\u00f6dlichsten Infektionskrankheiten weltweit. Jetzt haben Forschende einen biologischen Schwachpunkt entdeckt, den der Parasit nicht \u00fcberleben kann \u2013 ein Durchbruch in der Medikamentenentwicklung.",
+      "url": "https://www.tagesspiegel.de/wissen/malarias-schwachstelle-deutsche-forscher-entdecken-neues-ziel-fur-medikamente-13618261.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13641595/alternates/BASE_16_9_W1400/1746455046000/17-09-2024-stechmucke-culicidae-sucht-sich-auf-der-menschlichen-haut-eine-stelle-zum-blut-saugen-17-09-2024-mucke-1.jpeg",
+      "publishedAt": "2025-05-08 09:13:25",
+      "content": "Malaria bleibt eine der t\u00f6dlichsten Infektionskrankheiten weltweit. Jetzt haben Forschende einen biologischen Schwachpunkt entdeckt, den der Parasit nicht \u00fcberleben kann ein Durchbruch in der Medikam\u2026 [+34 chars]",
+      "retrievedAt": "2025-05-09 19:05:52.057074",
+      "internal_id": "3aa5369a5d36d31b30240090bce54a8a4ea8af1ee906b301786435c85a6f79cf",
+      "publishedAtLabel": "May 8"
+    },
     {
       "id": 21099,
       "query": [
@@ -26975,114 +27213,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]

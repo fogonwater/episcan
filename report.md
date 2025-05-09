@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-05-09 07:07
-- **Most recent article:** 2025-05-08 06:59:10
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-05-09 19:05
+- **Most recent article:** 2025-05-08 18:44:14
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 100 | 77 | 145 | 82 | 107 | 88 | 36 | 635 |
-| h5n1 | 47 | 46 | 66 | 9 | 15 | 15 | 11 | 209 |
-| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 10 | 153 |
-| dengue | 19 | 14 | 24 | 30 | 16 | 32 | 13 | 148 |
-| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 10 | 133 |
-| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 6 | 78 |
+| measles | 98 | 77 | 145 | 82 | 107 | 88 | 40 | 637 |
+| h5n1 | 44 | 46 | 66 | 9 | 15 | 15 | 11 | 206 |
+| chikungunya | 10 | 17 | 15 | 39 | 46 | 16 | 12 | 155 |
+| dengue | 18 | 14 | 24 | 30 | 16 | 32 | 17 | 151 |
+| malaria | 30 | 13 | 10 | 14 | 34 | 22 | 13 | 136 |
+| mpox | 11 | 17 | 18 | 10 | 5 | 11 | 7 | 79 |
 | meningitis | 9 | 6 | 10 | 9 | 10 | 7 | 1 | 52 |
 | rabies | 19 | 7 | 7 | 0 | 3 | 4 | 9 | 49 |
-| zika | 3 | 4 | 7 | 7 | 2 | 3 | 2 | 28 |
+| zika | 3 | 4 | 7 | 7 | 2 | 3 | 4 | 30 |
 | pertussis | 0 | 7 | 2 | 5 | 3 | 4 | 0 | 21 |
 | hpai | 2 | 4 | 3 | 5 | 1 | 2 | 3 | 20 |
 | typhoid | 1 | 2 | 2 | 3 | 3 | 2 | 0 | 13 |
-| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 3 | 6 |
+| leptospirosis | 0 | 0 | 0 | 1 | 0 | 2 | 4 | 7 |
 | yersinia | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 
 
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-19 (zika)
+
+- [Aziatische tijgermuggen gesignaleerd rond Gent: “Ze kunnen ziektes overdragen”](https://www.nieuwsblad.be/cnt/dmf20250508_95103574) (Nieuwsblad.be)
+
+- [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [Article]](https://rnajournal.cshlp.org/content/early/2025/05/08/rna.080342.124.short?rss=1) (Cshlp.org)
 
 - [Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potential by neglected vector species, Aedes scutellaris](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012530) (Plos.org)
 
@@ -60,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (mpox)
 
+- [Evaluating the safety and efficacy of a smallpox vaccine for preventing mpox](https://www.sciencedaily.com/releases/2025/05/250508112443.htm) (Science Daily)
+
 - [El ECDC registra 289 casos de mpox en la región europea de la OMS durante el último mes](https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-289-casos-mpox-region-europea-oms-ultimo-mes-20250507172204.html) (Infosalus.com)
 
 - [Short communication: Mpox memes, the gift that conceals a blade](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004496) (Plos.org)
@@ -77,6 +83,14 @@ Source: [News API](https://newsapi.org/)
 - [Luis Canut, junto a Patricia Pérez, confiesa su realidad tras su enfermedad: 'Vivo más lento'](https://www.hola.com/actualidad/20250506830096/luis-canut-junto-a-patricia-perez-confiesa-su-realidad-tras-su-enfermedad-vivo-mas-lento/) (Hola)
 
 ## 25-19 (measles)
+
+- [Sask. measles cases more than doubled in past week, daily cases likely, chief medical officer says](https://www.cbc.ca/news/canada/saskatoon/chief-medical-officer-measles-case-doubled-week-1.7529945) (CBC News)
+
+- [Ontario reports nearly 200 new measles cases as virus spreads across Canada](https://www.cbc.ca/news/canada/toronto/measles-ontario-200-new-cases-1.7530047) (CBC News)
+
+- [Measles Outbreak Surpasses 1,000 Cases, Second Worst Year Since Declared Eliminated In US](https://dailycaller.com/2025/05/08/measles-outbreak-1000-cases-declared-eliminated-us/) (The Daily Caller)
+
+- [Health officials encouraging Manitoba parents to vaccinate children as province hits 20 confirmed cases](https://www.cbc.ca/news/canada/manitoba/health-officials-encourage-measles-vaccination-1.7529117) (CBC News)
 
 - [North Dakota 11th U.S. state with measles outbreak](http://en.people.cn/n3/2025/0508/c90000-20311955.html) (People.cn)
 
@@ -152,6 +166,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (malaria)
 
+- [Malaria Global Clinical Trials Review 2025: G7 & E7, Phase, Trial Status, End Points Status and Sponsor Type Coverage](https://www.globenewswire.com/news-release/2025/05/08/3077440/28124/en/Malaria-Global-Clinical-Trials-Review-2025-G7-E7-Phase-Trial-Status-End-Points-Status-and-Sponsor-Type-Coverage.html) (GlobeNewswire)
+
+- [US cuts aid to Zambia over 'systematic' medicine theft](https://www.bbc.com/news/articles/c1e6pl6302zo) (BBC News)
+
+- [Malarias Schwachstelle: Deutsche Forscher entdecken neues Ziel für Medikamente](https://www.tagesspiegel.de/wissen/malarias-schwachstelle-deutsche-forscher-entdecken-neues-ziel-fur-medikamente-13618261.html) (Der Tagesspiegel)
+
 - [Malaria free China, an academic medicine revolution, and retracted data's impact](https://thebmjpodcast.podbean.com/e/bmj-7th-may/) (Podbean.com)
 
 - [Exploring barriers and facilitators in implementation fidelity of malaria screening intervention at Nepal-India border point-of-entry health desks-A mixed method study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323116) (Plos.org)
@@ -173,6 +193,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria outbreak in Kokrajhar: 443 cases reported](https://thehillstimes.in/assam/malaria-outbreak-in-kokrajhar-443-cases-reported) (Thehillstimes.in)
 
 ## 25-19 (leptospirosis)
+
+- [Leptospirosis en Taisha: niños reciben el alta en Cuenca](https://www.elmercurio.com.ec/principal/2025/05/08/leptospirosis-taisha-ninos-cuenca/) (Elmercurio.com.ec)
 
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
@@ -214,6 +236,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (dengue)
 
+- [Aziatische tijgermuggen gesignaleerd rond Gent: “Ze kunnen ziektes overdragen”](https://www.nieuwsblad.be/cnt/dmf20250508_95103574) (Nieuwsblad.be)
+
+- [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [Article]](https://rnajournal.cshlp.org/content/early/2025/05/08/rna.080342.124.short?rss=1) (Cshlp.org)
+
+- [Rentokil gaat tijgermug preventief bestrijden in Wilrijk en Wijnegem](https://www.nieuwsblad.be/cnt/dmf20250508_94308379) (Nieuwsblad.be)
+
+- [Máfia vende atestados médicos falsos de UPAs a partir de R$ 30](https://www.metropoles.com/brasil/mafia-vende-atestados-medicos-falsos-de-upas-a-partir-de-r-30) (Metropoles.com)
+
 - [Intuitive At-Home Medical Tests - This Dengue Home Test Kit Concept Helps with Early Detection (TrendHunter.com)](https://www.trendhunter.com/trends/dengue-home-test-kit) (Trendhunter.com)
 
 - [Why south-east Asia must lead the fight against neglected tropical diseases](https://theconversation.com/why-south-east-asia-must-lead-the-fight-against-neglected-tropical-diseases-255640) (The Conversation Africa)
@@ -241,6 +271,10 @@ Source: [News API](https://newsapi.org/)
 - [Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue](https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue) (Liputan6.com)
 
 ## 25-19 (chikungunya)
+
+- [Aziatische tijgermuggen gesignaleerd rond Gent: “Ze kunnen ziektes overdragen”](https://www.nieuwsblad.be/cnt/dmf20250508_95103574) (Nieuwsblad.be)
+
+- [Rentokil gaat tijgermug preventief bestrijden in Wilrijk en Wijnegem](https://www.nieuwsblad.be/cnt/dmf20250508_94308379) (Nieuwsblad.be)
 
 - [La EMA investiga la vacuna 'Ixchiq' contra la chikungunya tras tener efectos graves en personas mayores](https://www.abc.es/sociedad/ema-investiga-vacuna-ixchiq-chikungunya-tras-tener-20250507184120-nt.html) (Www.abc.es)
 
@@ -3066,10 +3100,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
 
-- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
-
-- [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
-
 ## 25-13 (malaria)
 
 - [Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al año](https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html) (Huffingtonpost.es)
@@ -3228,12 +3258,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Influenza of avian origin confirmed in a sheep in Yorkshire](https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire) (Www.gov.uk)
 
-- [Scientists Say Bird Flu Virus Is “Mutating Fast” And “Vaccines” May Not Be Enough](https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough) (Shtfplan.com)
-
-- [TWiV 1203: What's old is flu again](https://www.microbe.tv/twiv/twiv-1203/) (Microbe.tv)
-
-- [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
-
 ## 25-13 (dengue)
 
 - [Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021– 2022 outbreaks](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954) (Plos.org)
@@ -3271,8 +3295,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
 - [Identifican factores de microARN que determinan una mayor protección frente al dengue en zonas endémicas](https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html) (Infosalus.com)
-
-- [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 ## 25-13 (chikungunya)
 
