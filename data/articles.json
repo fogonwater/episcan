@@ -1,8 +1,404 @@
 {
-  "last_updated": "2025-05-10 07:06",
-  "count_articles_total": 1525,
-  "count_articles_new": 10,
+  "last_updated": "2025-05-10 19:05",
+  "count_articles_total": 1541,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 21141,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "U.S. reports over 1,000 measles cases so far in 2025",
+      "description": "LOS ANGELES, May 9 (Xinhua) -- The United States has reported more than 1,000 measles cases so far in 2025, according to the latest data released by the U.S. Centers for Disease Control and Prevention (CDC) on Friday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/10/us-reports-over-1000-measles-cases-so-far-in-2025",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-09 19:05:00",
+      "content": "LOS ANGELES, May 9 (Xinhua) -- The United States has reported more than 1,000 measles cases so far in 2025, according to the latest data released by the U.S. Centers for Disease Control and Preventio\u2026 [+626 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.186485",
+      "internal_id": "10c4c4ee1d35f34980faa3736ad3229f72865fb961663dec5e68848f45ffd066",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21127,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "NTB",
+      "title": "Rabies p\u00e5vist hos fjellrev p\u00e5 Svalbard",
+      "description": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard, for f\u00f8rste gang siden 2018.",
+      "url": "https://www.aftenposten.no/norge/i/kwrGEa/rabies-paavist-hos-fjellrev-paa-svalbard",
+      "urlToImage": "https://premium.vgc.no/v2/images/72393061-9056-4401-818a-b93c1e8cd8c5?fit=crop&format=auto&h=432&w=576&s=27f2a32db183efc8661f4d4a8ec1629b6d254631",
+      "publishedAt": "2025-05-09 18:21:41",
+      "content": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard, for f\u00f8rste gang siden 2018. Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard. Foto: Ingunn Ruud, Veterin\u00e6rinstit\u2026 [+980 chars]",
+      "retrievedAt": "2025-05-10 19:05:46.412216",
+      "internal_id": "95d0020f7cf2cbe09da2e6d8cb4203c92e3f9c26e14c692089f26446df2bca60",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21131,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Mary Walrath-Holdridge, USA TODAY",
+      "title": "US measles cases surpass 1,000. There were 285 total cases in 2024.",
+      "description": "Confirmed U.S. measles cases broke 1,000 in the second week of May, surpassing last year's total by nearly four times.",
+      "url": "https://www.usatoday.com/story/news/health/2025/05/09/measles-cases-2025-states-outbreak-map/83371830007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zTTok9pwlabHxeosIqMeRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_news_641/e4ee882e054d8ccca01c0fc27ffe1983",
+      "publishedAt": "2025-05-09 18:19:09",
+      "content": "Measles infections in the U.S. have topped 1,000 in 2025 as cases continue to crop up in new states. While Texas remains the epicenter battling the largest number of cases, the presence of measles ha\u2026 [+5030 chars]",
+      "retrievedAt": "2025-05-10 19:05:46.985035",
+      "internal_id": "5af36af5493af24bc41f3e5a9110525e6d885e72b66913a9a9297dfcee6aa800",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21135,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Measles math: What to know about 1,001 measles cases across the country",
+      "description": "The U.S. Centers for Disease Control and Prevention updated the numbers of measles cases in the country on Friday. Here's what they say and what it means for public health in the U.S.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/05/09/nx-s1-5393762/measles-math-what-to-know-about-1-001-measles-cases-across-the-country",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2Fad%2Fbf0410ee4d71a48c1f9eb7a9743f%2Fgettyimages-2209442815.jpg",
+      "publishedAt": "2025-05-09 18:14:06",
+      "content": "The Centers for Disease Control and Prevention reports there have been 1,001 confirmed measles cases in the U.S. this year. It's the second-highest case count in 25 years, topped only by 2019, when m\u2026 [+2649 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.057672",
+      "internal_id": "6ef1d34c3431cf3e485f8d601c1463f0ad55473d2991d1c0e1e9532a62352787",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21129,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Rabies p\u00e5vist hos fjellrev p\u00e5 Svalbard",
+      "description": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard. Det melder de i ei pressemelding. Sist gang det ble p\u00e5vist rabies p\u00e5 Svalbard, var i 2018. \u2013 Dersom du p\u00e5 Svalbard observerer fjellrev eller reinsdyr som viser unormal atferd eller er d\u00f8de, m\u2026",
+      "url": "https://www.nrk.no/tromsogfinnmark/rabies-pavist-hos-fjellrev-pa-svalbard-1.17412056",
+      "urlToImage": "https://gfx.nrk.no/rb6BE-19y-DacDesm_-BRwU7UFK7xPoYhS_FKF9ibOcQ.jpg",
+      "publishedAt": "2025-05-09 18:11:37",
+      "content": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard. Det melder de i ei pressemelding. Sist gang det ble p\u00e5vist rabies p\u00e5 Svalbard, var i 2018. Dersom du p\u00e5 Svalbard observerer fjel\u2026 [+405 chars]",
+      "retrievedAt": "2025-05-10 19:05:46.451395",
+      "internal_id": "b86c9497a4eaddb8782b029d73b13995b150bc7ee43b488632f5cbf8163c1b52",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21128,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Veterin\u00e6rinstituttet: Rabies p\u00e5vist hos fjellrev p\u00e5 Svalbard",
+      "description": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard. Det melder de i en pressemelding. Rabies har aldri blitt p\u00e5vist p\u00e5 Fastlands-Norge, men p\u00e5vises sporadisk p\u00e5 Svalbard, sist gang i 2018, if\u00f8lge instituttet. Den gang ble sykdommen p\u00e5vist hos \u2026",
+      "url": "https://www.nrk.no/nyheter/veterinaerinstituttet_-rabies-pavist-hos-fjellrev-pa-svalbard-1.17412057",
+      "urlToImage": "https://gfx.nrk.no/T2UA08sJdKRKzxtjIG4AxALeqsrfbmL_A6f1V0NTqunw.jpg",
+      "publishedAt": "2025-05-09 18:03:45",
+      "content": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos en fjellrev p\u00e5 Svalbard. Det melder de i en pressemelding. Rabies har aldri blitt p\u00e5vist p\u00e5 Fastlands-Norge, men p\u00e5vises sporadisk p\u00e5 Svalbard, sist gang i\u2026 [+756 chars]",
+      "retrievedAt": "2025-05-10 19:05:46.442008",
+      "internal_id": "757be77af01a5c0630afa96d183d5dd05f18589a7858586c6f7d4935fc82a70b",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21145,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Silvie Jure\u010dkov\u00e1",
+      "title": "Str\u00e1\u017eci zdrav\u00ed. Parazit\u00e9 se p\u0159en\u00e1\u0161ej\u00ed nejen z prim\u00e1t\u016f na lidi, ale i obr\u00e1cen\u011b, l\u00ed\u010d\u00ed v\u011bdkyn\u011b",
+      "description": "Mal\u00e1rie, virus HIV, ebola, virus Zika a spousta dal\u0161\u00edch. Nemoci, kter\u00e9 se p\u0159enesly na lidi ze zv\u00ed\u0159at. Pro\u010d se tyto p\u0159enosy d\u011bj\u00ed a jak jim zabr\u00e1nit, zji\u0161\u0165uje primatolo\u017eka Kl\u00e1ra Judita Petr\u017eelkov\u00e1 z \u00dastavu biologie obratlovc\u016f AV \u010cR. Zam\u011b\u0159uje se p\u0159edev\u0161\u00edm na v\u00fdz\u2026",
+      "url": "https://www.idnes.cz/hobby/mazlicci/klara-judita-petrzelkova-primatolozka-lidoop-prales-vyzkum.A250501_849714_hobby-mazlicci_krd",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2025/4/premium/IHA80cb1207eb_56_mafra_Radim_Stracho_2.jpg",
+      "publishedAt": "2025-05-09 18:00:00",
+      "content": "Prohl\u00e9dnte si akn\u00ed let\u00e1ky vech obchod hezky na jednom m\u00edst!",
+      "retrievedAt": "2025-05-10 19:05:48.651841",
+      "internal_id": "add28355c32164ae0fab5b8aea219f0e61424148cdd5a7b13cb30aec520a85f3",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "US Travel Warning for Popular Cruise Ship Destination",
+      "description": "Travelers to Fiji have been advised to avoid getting bitten by mosquitos as dengue fever cases spike.",
+      "url": "https://www.newsweek.com/us-travel-warning-fiji-popular-cruise-ship-destination-2070332",
+      "urlToImage": "https://d.newsweek.com/en/full/2642023/fiji.jpg",
+      "publishedAt": "2025-05-09 17:30:48",
+      "content": "The U.S. Centers for Disease Control and Prevention (CDC) recently issued a Level 1 travel notice for Fiji, advising Americans to \"practice usual precautions\" as dengue fever cases spike in the Pacif\u2026 [+2961 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.994151",
+      "internal_id": "b12abe1dd62efe3ef50954c3c7bc842ba0d690725d3ecef8e4213e5e7362dd86",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21134,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles hits 1,000 cases \u2014 for the second time in 30 years (Sophie Gardner/Politico)",
+      "description": "Sophie Gardner / Politico: Measles hits 1,000 cases \u2014 for the second time in 30 years \u2014 The new figure comes as HHS Secretary Robert F. Kennedy Jr. has repeatedly delivered mixed messages about the outbreak. \u2014 The measles outbreak has surpassed 1,000 case\u2026",
+      "url": "https://www.memeorandum.com/250509/p78",
+      "urlToImage": "https://static.politico.com/7a/9b/8d375afd43869985bcc3862c4969/measles-outbreak-public-health-93771.jpg",
+      "publishedAt": "2025-05-09 17:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.047916",
+      "internal_id": "deb2e0542ad582c962bc39f89e5c9dcedce45e73d961b341730d71d88f5a0869",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21146,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "La R\u00e9union : Une deuxi\u00e8me personne est d\u00e9c\u00e9d\u00e9e apr\u00e8s avoir \u00e9t\u00e9 vaccin\u00e9e contre le chikungunya",
+      "description": "Deux d\u00e9c\u00e8s relancent la pol\u00e9mique autour du vaccin Ixchiq, suspendu chez les plus de 65 ans \u00e0 La R\u00e9union en pleine \u00e9pid\u00e9mie de chikungunya. Une enqu\u00eate europ\u00e9enne est en cours",
+      "url": "https://www.20minutes.fr/sante/4152651-20250509-reunion-deuxieme-personne-decedee-apres-avoir-vaccinee-contre-chikungunya",
+      "urlToImage": "https://img.20mn.fr/eU5HjfvZTNeYrbMCi894ICk/1444x920_a-mosquito-feeds-at-the-salt-lake-city-mosquito-abatement-district-on-july-26-2023-in-salt-lake-city-mosquitoes-can-carry-viruses-including-dengue-yellow-fever-chikungunya-and-zika-they-are-especially-threatening-to-public-health-in-asia-and-africa-but-are-also-closely-monitored-in-the-united-states-ap-photo-rick-bowmer-cli712-23251815794524-2309101408",
+      "publishedAt": "2025-05-09 16:56:44",
+      "content": "Alors que l\u00e9pid\u00e9mie de chikungunya continue de toucher La R\u00e9union, linqui\u00e9tude monte autour du vaccin Ixchiq, d\u00e9sormais suspendu chez les plus de 65 ans apr\u00e8s deux d\u00e9c\u00e8s suspects. Ce s\u00e9rum, d\u00e9velopp\u00e9\u2026 [+2277 chars]",
+      "retrievedAt": "2025-05-10 19:05:48.988112",
+      "internal_id": "b9731e41e0f074600f21b9ef7aaffb118e18b91e6d4d46683bb1b51714442c90",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21133,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Hits 1,000 Cases",
+      "description": "\"The measles outbreak has surpassed 1,000 cases, the Centers for Disease Control and Prevention confirmed Friday, a grim milestone that has only been achieved twice in the last 30 years,\" Politico reports.",
+      "url": "https://politicalwire.com/2025/05/09/measles-hits-1000-cases/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-05-09 16:49:08",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.014131",
+      "internal_id": "2faa40b28b9455a0fbcd0a978b6fd9e82cd7bd3688ac13d5c6cc57d4581169a1",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21140,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Measles roars back in the US, topping 1,000 cases",
+      "description": "The United States' measles outbreak has surpassed 1,000 confirmed cases with three deaths so far, state and local data showed Friday, marking a stark resurgence of a vaccine-preventable disease that the nation once declared eliminated. While measles was decla\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/measles-roars-back-in-the-us-topping-1000-cases/articleshow/121036913.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121036969,width-1070,height-580,imgsize-1323743,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-09 16:42:14",
+      "content": "Aishwarya Rai to Deepika Padukone: A look at Bollywoods most iconic Cannes moments",
+      "retrievedAt": "2025-05-10 19:05:47.132758",
+      "internal_id": "e1002b4431de6ee919984474e3332ab077959d28b7c7d324a3e68db4be209913",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21132,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Issam AHMED",
+      "title": "Measles Roars Back In The US, Topping 1,000 Cases",
+      "description": "The United States' measles outbreak has surpassed 1,000 confirmed cases with three deaths so far, state and local data showed Friday, marking a stark resurgence of a vaccine-preventable disease that the nation once declared eliminated.",
+      "url": "https://www.ibtimes.com/measles-roars-back-us-topping-1000-cases-3773080",
+      "urlToImage": "https://d.ibtimes.com/en/full/4599844/administering-measles-vaccine-child-health-center-lubbock-texas.jpg",
+      "publishedAt": "2025-05-09 16:27:06",
+      "content": "The United States' measles outbreak has surpassed 1,000 confirmed cases with three deaths so far, state and local data showed Friday, marking a stark resurgence of a vaccine-preventable disease that \u2026 [+3293 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.006503",
+      "internal_id": "e91588874d73fa497f7a88d9e1784144845e376f2d7e974bfb522f28cc3bfc85",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21130,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: U.S. Cases Pass 1,000 As Texas Outbreak Spreads",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/09/measles-updates-us-cases-pass-1000-as-texas-outbreak-spreads/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-09 16:23:59",
+      "content": "There are more than 1,000 confirmed cases of measles nationwide, the Centers for Disease Control and Prevention reported Friday, as outbreaks of the highly contagious illness spread across Texas and \u2026 [+8167 chars]",
+      "retrievedAt": "2025-05-10 19:05:46.963200",
+      "internal_id": "1c8eff4daba45a7ff3a4163c9b9e860944218ff27f55cd6b47a1c3e645ee3d84",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21139,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Measles roars back in the US, topping 1,000 cases",
+      "description": "The United States' measles outbreak has surpassed 1,000 confirmed cases with three deaths so far. The post Measles roars back in the US, topping 1,000 cases appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/life/measles-roars-back-in-the-us-topping-1000-cases/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/05/b3a58ff14fe15a11f027901c23bc57336e2988aa.jpg",
+      "publishedAt": "2025-05-09 16:23:22",
+      "content": "Administering the measles vaccine to a child at a health center in Lubbock, Texas - Copyright AFP/File RONALDO SCHEMIDT The United States\u2019 measles outbreak has surpassed 1,000 confirmed cases with t\u2026 [+3437 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.124513",
+      "internal_id": "1c7fc93b3062c201529a5f845b683e49a1a2df55b0fc39409044721ed45ebfe4",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21148,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "news@yale.edu (Yale News)",
+      "title": "How Typhoid fever triggers severe neurological symptoms",
+      "description": "Yale researchers have discovered how typhoid fever triggers neurological symptoms, offering new insight into treatment&nbsp;options.&nbsp;",
+      "url": "https://news.yale.edu/2025/05/09/how-typhoid-fever-triggers-severe-neurological-symptoms",
+      "urlToImage": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2025-05/AdobeStock_214278648.jpeg?h=44157d7e&itok=94vGK2ot",
+      "publishedAt": "2025-05-09 15:13:00",
+      "content": "About 15% of patients with typhoid fever develop serious neurological complications, including delirium and seizures, that are collectively described as acute encephalopathy. Until now, however, scie\u2026 [+3341 chars]",
+      "retrievedAt": "2025-05-10 19:05:49.326670",
+      "internal_id": "6f2b314eeccce9eb453702d6e93336ae2b5e33735eb1e7b80706f3c9cab0f8a2",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21144,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Fashionistas and flippers: Africa's top shots",
+      "description": "A selection of the week's best photos from across the African continent and beyond.",
+      "url": "https://www.bbc.com/news/articles/cq69rpn3e31o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7735/live/9fb2f930-2cd8-11f0-8ff1-59f5dcf8e9f5.jpg",
+      "publishedAt": "2025-05-09 14:31:42",
+      "content": "The US scraps more than $50m worth of malaria, HIV and TB drug donations, saying they are being stolen.",
+      "retrievedAt": "2025-05-10 19:05:48.457372",
+      "internal_id": "df714cb03a835c3ecbc4ef2884111b499f59de27abb68c37d889d112261bcae2",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21147,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Vaccin contre le chikungunya : un deuxi\u00e8me d\u00e9c\u00e8s \u00e0 La R\u00e9union, signale l\u2019Agence europ\u00e9enne du m\u00e9dicament",
+      "description": "Ce nouveau cas concerne un homme de 77 ans atteint de la maladie de Parkinson, selon l'Agence europ\u00e9enne du m\u00e9dicament.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/vaccin-contre-le-chikungunya-un-deuxieme-deces-a-la-reunion-signale-l-agence-europeenne-du-medicament_7237272.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/9m1-dPxz36EEAMu9B9-0T6ARpuI/0x53:1024x629/1500x843/2025/04/04/000-37g83cp-67efb4e3f40bb184780228.jpg",
+      "publishedAt": "2025-05-09 12:45:32",
+      "content": "Un deuxi\u00e8me d\u00e9c\u00e8s li\u00e9 au vaccin contre le chikungunya Ixchiq a \u00e9t\u00e9 signal\u00e9 \u00e0 La R\u00e9union, moins de deux semaines apr\u00e8s la suspension de son administration chez les personnes de 65 ans et plus par les \u2026 [+1307 chars]",
+      "retrievedAt": "2025-05-10 19:05:49.070939",
+      "internal_id": "8adb07324d4e33d66f0fcfa98f511c189dde0b62ffa2c558680cceffb1e223c3",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21136,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Dan Gorenstein",
+      "title": "An Insider's View of the Texas Measles Outbreak",
+      "description": "Katherine Wells, the public health director in Lubbock, Texas, describes her fight to stop the largest measles outbreak since 2000, despite a chaotic reorganization of federal health agencies.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/05/09/nx-s1-5392323/an-insiders-view-of-the-texas-measles-outbreak",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Ff8%2F4f1fe7404ca88ad7c3c4f8e4b1b4%2Fgettyimages-2209410399.jpg",
+      "publishedAt": "2025-05-09 12:44:34",
+      "content": "Katherine Wells has been an epidemiologist working to protect the public from disease outbreaks for 25 years. Until January, she had never encountered measles. \"I mean, we considered measles eradica\u2026 [+7199 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.072529",
+      "internal_id": "2f21b3ac3ee3c165d7972a2fdae1907c44021e0e43be2d254cb4f54fbf1e04a3",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21137,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MEGAN JANETSKY Associated Press",
+      "title": "Vaccine teams in Mexico scramble over measles outbreak rippling out from Mennonite community",
+      "description": "Vaccination teams are part of an effort by health authorities across Mexico to contain the country\u2019s biggest measles outbreak in decades",
+      "url": "https://abcnews.go.com/International/wireStory/vaccine-teams-mexico-scramble-measles-outbreak-rippling-mennonite-121628033",
+      "urlToImage": "https://i.abcnewsfe.com/a/9d833f71-7b49-431e-bdfc-5cd50d7987df/wirestory_ea6158b9a4d513b20f33cbc09034e5c2_16x9.jpg?w=1600",
+      "publishedAt": "2025-05-09 11:42:26",
+      "content": "CUAUHTEMOC, Mexico -- In a rickety white Nissan, nurse Sandra Aguirre and her vaccination team drive past apple orchards and cornfields stretching to the desert horizon. Aguirre goes door to door wit\u2026 [+7539 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.093580",
+      "internal_id": "19fe71dc50ba523bfd8e63be2af8b7a3120998ea2f1bbda293697d252bc4bdb0",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21143,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "$2.14 Bn Dengue Vaccine Market Opportunities and Strategies to 2034, Driven by Government Initiatives and Rising Healthcare Spend Despite Economic Constraints",
+      "description": "Growth in the historic period resulted from the rising dengue incidence, expansion of vaccination programs, public awareness campaigns and increasing healthcare infrastructure. Factors that negatively affected growth in the historic period was limited vaccine\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/05/09/3078068/28124/en/2-14-Bn-Dengue-Vaccine-Market-Opportunities-and-Strategies-to-2034-Driven-by-Government-Initiatives-and-Rising-Healthcare-Spend-Despite-Economic-Constraints.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-05-09 10:27:00",
+      "content": "Dublin, May 09, 2025 (GLOBE NEWSWIRE) -- The \"Dengue Vaccine Market Opportunities and Strategies to 2034\" report has been added to ResearchAndMarkets.com's offering. This report describes and explai\u2026 [+6965 chars]",
+      "retrievedAt": "2025-05-10 19:05:48.009931",
+      "internal_id": "a07cb5a4240c46e57108bc4ffc65d682f6fc57cf270e4c745b85945fe42e409c",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21138,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "With measles outbreaks growing in Canada, this mother pleads with parents to vaccinate",
+      "description": "With measles cases on the rise in Canada at rates unseen in almost three decades \u2014 and vaccination coverage for childhood vaccines like the measles, mumps and rubella (MMR) shot falling since the pandemic \u2014 those who've suffered from measles complications ar\u2026",
+      "url": "https://www.cbc.ca/news/health/measles-complications-1.7530506",
+      "urlToImage": "https://i.cbc.ca/1.7530542.1746743128!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/rebecca-and-renae-archer.JPG?im=Resize%3D620",
+      "publishedAt": "2025-05-09 08:00:00",
+      "content": "Rebecca Archer lovingly places a pair of small glasses on a shelf filled with memorabilia like trinkets and photos. They belonged to her 10-year-old daughter, Renae, who suddenly died after a measles\u2026 [+5876 chars]",
+      "retrievedAt": "2025-05-10 19:05:47.108897",
+      "internal_id": "3188e88255528aaa9257b9337808b6ae85ed794130ce3abf2e97ce25bc5e7a51",
+      "publishedAtLabel": "May 9"
+    },
     {
       "id": 21119,
       "query": [
@@ -27393,114 +27789,6 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Washington Examiner",
-      "author": "Zachary Faria",
-      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
-      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
-      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
-      "publishedAt": "2025-03-23 18:23:37",
-      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
-      "retrievedAt": "2025-03-26 07:07:06.836980",
-      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19595,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
-      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
-      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2025-03-23 17:00:25",
-      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.225892",
-      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Marina Semensato, Marina Semensato",
-      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
-      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
-      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2025-03-23 16:42:18",
-      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.928629",
-      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19594,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
-      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
-      "url": "https://www.memeorandum.com/250323/p11",
-      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
-      "publishedAt": "2025-03-23 14:10:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-24 19:05:57.155342",
-      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19597,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1203: What's old is flu again",
-      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1203/",
-      "urlToImage": null,
-      "publishedAt": "2025-03-23 13:07:22",
-      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.330113",
-      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
-      "publishedAtLabel": "Mar 23"
-    },
-    {
-      "id": 19596,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
-      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
-      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
-      "publishedAt": "2025-03-23 12:39:14",
-      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
-      "retrievedAt": "2025-03-24 19:05:58.234543",
-      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]
