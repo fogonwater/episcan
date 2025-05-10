@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-05-09 19:05",
-  "count_articles_total": 1509,
-  "count_articles_new": 13,
+  "last_updated": "2025-05-10 07:06",
+  "count_articles_total": 1525,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 21119,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MEGAN JANETSKY Associated Press",
+      "title": "Vaccine teams in Mexico scramble over measles outbreak from Mennonite community",
+      "description": "Vaccination teams are part of an effort by health authorities across Mexico to contain the country\u2019s biggest measles outbreak in decades",
+      "url": "https://abcnews.go.com/Health/wireStory/vaccine-teams-mexico-scramble-measles-outbreak-rippling-mennonite-121628034",
+      "urlToImage": "https://i.abcnewsfe.com/a/9d833f71-7b49-431e-bdfc-5cd50d7987df/wirestory_ea6158b9a4d513b20f33cbc09034e5c2_16x9.jpg?w=1600",
+      "publishedAt": "2025-05-09 07:00:43",
+      "content": "CUAUHTEMOC, Mexico -- In a rickety white Nissan, nurse Sandra Aguirre and her vaccination team drive past apple orchards and cornfields stretching to the desert horizon. Aguirre goes door to door wit\u2026 [+7539 chars]",
+      "retrievedAt": "2025-05-10 07:06:16.646951",
+      "internal_id": "5a8f408fb76c438281e67ad2791db6e1098f13022ae1e47b2bf952ed7e530213",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21122,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Thefutoncritic.com",
+      "author": null,
+      "title": "Lifetime Greenlights New Original Movie, \"Pretty Hurts,\" Starring Haylie Duff, Sarah Borne, and Kaci Barker Premiering June 28 Brought to You by GSK",
+      "description": "The film includes a storyline that highlights meningococcal disease, known as meningitis, to help educate parents of teens and young adults about the uncommon, but potentially life-threatening illness for which 16- to 23-year-olds are at increased risk.",
+      "url": "http://www.thefutoncritic.com/news/2025/05/09/lifetime-greenlights-new-original-movie-pretty-hurts-starring-haylie-duff-sarah-borne-and-kaci-barker-premiering-june-28-brought-to-you-by-gsk-529310/20250509lifetime01/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-09 06:02:00",
+      "content": "LIFETIME GREENLIGHTS NEW ORIGINAL MOVIE, \"PRETTY HURTS,\" STARRING HAYLIE DUFF, SARAH BORNE, AND KACI BARKER PREMIERING JUNE 28 BROUGHT TO YOU BY GSK MOVIE IS THE TENTPOLE OF GSK'S ASK2BSURE CAMPAIGN\u2026 [+5396 chars]",
+      "retrievedAt": "2025-05-10 07:06:18.034376",
+      "internal_id": "27b25b618af4e6d7bd10bbb16e21676c086bbb99c922e0ff10c269c47cc935b8",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21121,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jorge Agle",
+      "title": "Wolbachia: entenda como funciona m\u00e9todo para o controle da dengue",
+      "description": "M\u00e9todo Wolbachia passou pelos primeiros testes no Brasil em 2014, na cidade de Niter\u00f3i, no Rio de Janeiro: casos de dengue diminu\u00edram 69,4%",
+      "url": "https://www.metropoles.com/saude/wolbachia-como-funciona-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/28074139/dengue-8.jpg",
+      "publishedAt": "2025-05-09 05:00:56",
+      "content": "Apontado pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) como o pa\u00eds que liderou os casos de dengue no mundo em 2024, o Brasil ainda sofre bastante com o avan\u00e7o das arboviroses. Al\u00e9m da dengue, o mosquito Ae\u2026 [+3843 chars]",
+      "retrievedAt": "2025-05-10 07:06:17.638404",
+      "internal_id": "37da84d5a31629d211ab09d6dc7706a7d51e6b7c1f7c0b1f76719b6753c14cb6",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21124,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "\u00d6zg\u00fcrBayrak",
+      "title": "Salg\u0131n b\u00fcy\u00fcyor! Bir haftada vakalar y\u00fczde 63 artt\u0131",
+      "description": "Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC), Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'nin ge\u00e7en hafta Afrika k\u0131tas\u0131ndaki do\u011frulanm\u0131\u015f M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc vakalar\u0131n\u0131n yar\u0131s\u0131ndan fazlas\u0131n\u0131 bildirdi\u011fini a\u00e7\u0131klad\u0131.",
+      "url": "https://www.haber7.com/saglik/haber/3528881-salgin-buyuyor-bir-haftada-vakalar-yuzde-63-artti",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/19/H8Euu_1746762807_245.jpg",
+      "publishedAt": "2025-05-09 03:54:00",
+      "content": "Afrika'da d\u00fcnyay korkutan salgn b\u00fcy\u00fcyor. Africa CDC yetkilisi Ngashi Ngongo, \u00e7evrim i\u00e7i olarak d\u00fczenlenen basn toplantsnda, Sierra Leone'nin bir haftada 384 dorulanm M \u00e7i\u00e7ei vakas bildirdiini belirtt\u2026 [+1824 chars]",
+      "retrievedAt": "2025-05-10 07:06:19.441711",
+      "internal_id": "edc95df5220d369c264d2000646ef2845b9a1c62c2a090d385b0b8c9d577cbb8",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21125,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Maymun \u00e7i\u00e7e\u011fi geri d\u00f6nd\u00fc: Bir haftada rekor vaka say\u0131s\u0131 a\u00e7\u0131kland\u0131",
+      "description": "Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC), Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'nin ge\u00e7en hafta 384 do\u011frulanm\u0131\u015f Maymun \u00e7i\u00e7e\u011fi vakas\u0131 bildirdi\u011fini duyurdu. Bu rakam t\u00fcm Afrika k\u0131tas\u0131ndaki do\u011frulanm\u0131\u015f M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc vakalar\u0131n\u0131n toplam\u0131n\u2026",
+      "url": "https://anlatilaninotesi.com.tr/20250509/maymun-cicegi-geri-dondu-bir-haftada-rekor-vaka-sayisi-aciklandi-1096075679.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1096075679.jpg?10591140031746760863",
+      "publishedAt": "2025-05-09 03:21:04",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20250509/maymun-cicegi-geri-dondu-bir-haftada-rekor-vaka-sayisi-aciklandi-1096075679.html Maymun \u00e7i\u00e7ei geri\u2026 [+4725 chars]",
+      "retrievedAt": "2025-05-10 07:06:19.457561",
+      "internal_id": "090bfd1236772b7e9ece6345ac35a7d123a87a864e728d8085991ef6a594e9a1",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21118,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Experts urge immunization as Alberta measles count passes 300",
+      "description": "With 16 new measles cases reported in Alberta on Thursday, the province's number of confirmed cases has surged past the 300 mark and currently sits at 313. These cases are the latest in a series of measles outbreaks reported across all five Alberta health zon\u2026",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-three-hundred-1.7530648",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-09 03:15:16",
+      "content": "With 16 new measles cases reported in Alberta on Thursday, the province's number of confirmed cases has surged past the 300 mark and currently sits at 313. These cases 14 in the south zone and one e\u2026 [+3166 chars]",
+      "retrievedAt": "2025-05-10 07:06:16.638533",
+      "internal_id": "3509ce93d32e3a8c11cbcb7da30c9844f7098f7c22ec9a7d35b3e0ec0b7bf875",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21117,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Dark Helmet",
+      "title": "RFK Jr.\u2019s Measles Policy: Deaths Are Expected And It\u2019s The Victim\u2019s Fault",
+      "description": "I\u2019ve ranted and raved enough about how RFK Jr. and his Health and Human Services department are completely fucking up the response to the current measles outbreak enough that I\u2019m confident you all don\u2019t need me to rehash the entire thing in this opening. We c\u2026",
+      "url": "https://www.techdirt.com/2025/05/08/rfk-jr-s-measles-policy-deaths-are-expected-and-its-the-victims-fault/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-05-09 02:58:14",
+      "content": "from the tiny-little-coffins dept I\u2019ve ranted and raved enough about how RFK Jr. and his Health and Human Services department are completely fucking up the response to the current measles outbreak e\u2026 [+6391 chars]",
+      "retrievedAt": "2025-05-10 07:06:16.520769",
+      "internal_id": "a8d981947faeed049ef544e4ffdc512e7b7c9f2e1420389dd2e474489c3ae362",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21126,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Jeffrey Kluger",
+      "title": "TIME100 Health: Nicaise Ndembi",
+      "description": "Find out why Nicaise Ndembi is on the TIME100 Health 2025 list.",
+      "url": "https://time.com/collections/time100-health-2025/7279617/nicaise-ndembi",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/05/Nicaise-Ndembi-copy.jpg?quality=85&w=800&h=628&crop=1",
+      "publishedAt": "2025-05-09 00:16:32",
+      "content": "More than 21,000 people in Africa contracted mpox in 2024a bad number that could have been much worse without the help of Nicaise Ndembi, then head of the Africa Centers for Disease Control and Preve\u2026 [+580 chars]",
+      "retrievedAt": "2025-05-10 07:06:19.485913",
+      "internal_id": "80d7b644571e8daf879b28b70f4a6c3485b21725a18800fd77925e73732520a9",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21123,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Biziday.ro",
+      "author": "Tiberiu",
+      "title": "Bill Gates va dona peste de 200 de miliarde de dolari \u00een scopuri caritabile (combaterea bolilor, s\u0103r\u0103ciei \u0219i mortalit\u0103\u021bii infantile). Acesta l-a acuzat pe Elon Musk c\u0103 \u201cucide copiii cei mai s\u0103raci ai lumii\u201d, din cauza reducerilor drastice a USAID.",
+      "description": "Bill Gates a f\u0103cut anun\u021bul joi, acceler\u00e2nd astfel planurile de a ceda aproape \u00eentreaga avere \u00een scopuri filantropice. Gates a subliniat c\u0103 banii vor fi direc\u021biona\u021bi c\u0103tre combaterea bolilor precum poliomielita \u0219i malaria, reducerea mortalit\u0103\u021bii infantile \u0219i m\u2026",
+      "url": "https://www.biziday.ro/318868-2/",
+      "urlToImage": "https://cdn.biziday.ro/wp-content/uploads/2023/04/dreamstime_l_179611563-1024x679.jpg",
+      "publishedAt": "2025-05-08 21:27:03",
+      "content": "Bill Gates a fcut anunul joi, acceler\u00e2nd astfel planurile de a ceda aproape \u00eentreaga avere \u00een scopuri filantropice. Gates a subliniat c banii vor fi direcionai ctre combaterea bolilor precum poliomie\u2026 [+2125 chars]",
+      "retrievedAt": "2025-05-10 07:06:18.530665",
+      "internal_id": "39a5fc8b051d4473f503e0b793ddb7261b69781cf70eadad20b27341c9b97ae4",
+      "publishedAtLabel": "May 8"
+    },
     {
       "id": 21108,
       "query": [
@@ -112,6 +274,24 @@
       "content": "Flavivirus infections, including those of Dengue virus (DENV) and Zika virus (ZIKV), result in a high disease burden globally, yet many aspects of their viral life cycle remain poorly understood. F\u2026 [+1504 chars]",
       "retrievedAt": "2025-05-09 19:05:51.605188",
       "internal_id": "b239d693ed1d8e49d3e53fe54e9f5ffe3fd93dbf788a5fb224b8d4a67ea299cb",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21120,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Post",
+      "author": "National Post Staff",
+      "title": "Toronto's Pearson airport: Possible measles exposure prompts health officials to investigate",
+      "description": "People who were in the vicinity of Terminal 1 between 7:28 p.m. ET and 10 p.m. ET could have come into contact with measles.",
+      "url": "https://nationalpost.com/news/canada/possible-measles-exposure-pearson",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/09/pjt-air-canada-20-.jpg",
+      "publishedAt": "2025-05-08 14:58:19",
+      "content": "Health officials in Ontarios Peel Region are investigating a new case of measles, warning that some people who were at Toronto Pearson Airport over the weekend could have been exposed to the highly c\u2026 [+4448 chars]",
+      "retrievedAt": "2025-05-10 07:06:16.701720",
+      "internal_id": "01d18f1dad4fdd81710a747d71ff7ed7741233cba28a41a923cf02d3103f5fa5",
       "publishedAtLabel": "May 8"
     },
     {
@@ -27213,6 +27393,114 @@
       "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
       "retrievedAt": "2025-03-25 07:07:16.182488",
       "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washington Examiner",
+      "author": "Zachary Faria",
+      "title": "Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner",
+      "description": "You can draw a line from the effects of public health bureaucrats mishandling COVID-19 to the increasing measles outbreaks the country is seeing.",
+      "url": "https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/02/AP24022502851978-scaled.jpg.webp",
+      "publishedAt": "2025-03-23 18:23:37",
+      "content": "Communities around the United States are wrestling with a rising number of measles outbreaks. It will be popular, especially among liberal media, to blame noted vaccine conspiracy theorist and Health\u2026 [+7636 chars]",
+      "retrievedAt": "2025-03-26 07:07:06.836980",
+      "internal_id": "1dded59bbe0b2f105b1b1134d0a17397e6e1748824c6da1445356245cc69cdef",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19595,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Scientists Say Bird Flu Virus Is \u201cMutating Fast\u201d And \u201cVaccines\u201d May Not Be Enough",
+      "description": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note that the vaccines created by humans may not be sufficient t\u2026",
+      "url": "https://www.shtfplan.com/headline-news/scientists-say-bird-flu-virus-is-mutating-fast-and-vaccines-may-not-be-enough",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-03-23 17:00:25",
+      "content": "Scientists warn that the H5N1 bird flu (avian influenza) virus is mutating rapidly, weakening the effectiveness of existing antibodies and potentially increasing its threat to humans. They also note\u2026 [+1869 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.225892",
+      "internal_id": "1e840d5ac6d2882638b0e8e37e3f708ecef30a209b3c665e8cc3e4e41450dada",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "SP tem quase 300 mil casos confirmados de dengue em 2025",
+      "description": "Dado consta no painel do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES); doen\u00e7a j\u00e1 fez 273 \u00f3bitos no estado",
+      "url": "https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-03-23 16:42:18",
+      "content": "O estado de S\u00e3o Paulo registrou 296.143 casos confirmados de dengue em 2025, segundo o Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O infogr\u00e1fico tamb\u00e9m aponta 273 \u00f3\u2026 [+1483 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.928629",
+      "internal_id": "382f87186d727641a91e51116ea9a4f482b233d9a3f3f405b11fb9cd3b0349bb",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: More US states report measles cases amid vaccine misinformation \u2014 Ohio, Maryland and Alabama among states to report new cases, with 378 confirmed in first few months of 2025 \u2014 More US states are reporting measles cases as \u2026",
+      "url": "https://www.memeorandum.com/250323/p11",
+      "urlToImage": "https://i.guim.co.uk/img/media/1a75b8401cf0d104106c3ba71f9055027709c707/0_393_5915_3550/master/5915.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-03-23 14:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-24 19:05:57.155342",
+      "internal_id": "a4460bccfee09b74d8407b4bb599f029e4fc5e2099b6f509c8c32ed142ef2d6e",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19597,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1203: What's old is flu again",
+      "description": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes the B cell response to influenza vaccination 50 years later\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1203/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-23 13:07:22",
+      "content": "TWiV explains why RFK Jr.\u2019s proposal to let H5N1 infections in birds \u2018rip\u2019 is a bad idea, phase 1/2 trial of combined influenza/COVID mRNA vaccines, and how your first influenza virus exposure shapes\u2026 [+598 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.330113",
+      "internal_id": "5fd6667e8f8f44c1dbe20b4bbf25beef325a812ae5c6cbbf2fcaf80c52a94ff3",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19596,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Ein Jahr H5N1 in US-Milchk\u00fchen: \"Wir kennen das Ausma\u00df des Vogelgrippe-Ausbruchs nicht\"",
+      "description": "Vor einem Jahr werden erstmals Vogelgrippeviren in K\u00fchen in den USA nachgewiesen. Seitdem grassiert das Virus und bef\u00e4llt neben V\u00f6geln auch eine Reihe von S\u00e4ugetierarten - und Menschen. Experten und Expertinnen sind besorgt. Die wichtigsten Antworten zu H5N1 \u2026",
+      "url": "https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25636666/093132794-cImg_16_9-w1200/471667285.jpg",
+      "publishedAt": "2025-03-23 12:39:14",
+      "content": "Die gr\u00f6\u00dfte dokumentierte Vogelgrippewelle grassiert derzeit auf mehreren Erdteilen. Der Erreger bef\u00e4llt vor allem V\u00f6gel, wurde aber auch schon bei vielen S\u00e4ugetieren gefunden. Am 25. M\u00e4rz 2024 kam da\u2026 [+5577 chars]",
+      "retrievedAt": "2025-03-24 19:05:58.234543",
+      "internal_id": "e722652ef8e412e1cfea47fd26c9f414b0fa7e5b0d0a415c9331353d49848caa",
       "publishedAtLabel": "Mar 23"
     }
   ]
