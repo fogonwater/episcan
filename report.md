@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-05-11 07:06
-- **Most recent article:** 2025-05-10 05:12:12
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-05-11 19:05
+- **Most recent article:** 2025-05-10 18:57:57
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 62 | 559 |
+| measles | 70 | 145 | 82 | 107 | 88 | 62 | 554 |
 | h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 162 |
 | chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 148 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 22 | 138 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 15 | 108 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 10 | 71 |
-| meningitis | 6 | 10 | 9 | 10 | 7 | 2 | 44 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 142 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 18 | 111 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 72 |
+| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 45 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 33 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 29 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 22 |
@@ -81,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (mpox)
 
+- [Epidemia de Mpox em Portugal afastada](https://observador.pt/2025/05/10/infecciologista-afasta-hipotese-de-epidemia-de-mpox-em-portugal/) (Observador.pt)
+
 - [Salgın büyüyor! Bir haftada vakalar yüzde 63 arttı](https://www.haber7.com/saglik/haber/3528881-salgin-buyuyor-bir-haftada-vakalar-yuzde-63-artti) (Haber7.com)
 
 - [Maymun çiçeği geri döndü: Bir haftada rekor vaka sayısı açıklandı](https://anlatilaninotesi.com.tr/20250509/maymun-cicegi-geri-dondu-bir-haftada-rekor-vaka-sayisi-aciklandi-1096075679.html) (Anlatilaninotesi.com.tr)
@@ -102,6 +104,8 @@ Source: [News API](https://newsapi.org/)
 - [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
 
 ## 25-19 (meningitis)
+
+- [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
 
 - [Lifetime Greenlights New Original Movie, "Pretty Hurts," Starring Haylie Duff, Sarah Borne, and Kaci Barker Premiering June 28 Brought to You by GSK](http://www.thefutoncritic.com/news/2025/05/09/lifetime-greenlights-new-original-movie-pretty-hurts-starring-haylie-duff-sarah-borne-and-kaci-barker-premiering-june-28-brought-to-you-by-gsk-529310/20250509lifetime01/) (Thefutoncritic.com)
 
@@ -235,6 +239,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (malaria)
 
+- [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
+
+- [Goa steps up dengue, malaria prevention ahead of monsoon](https://timesofindia.indiatimes.com/city/goa/goa-steps-up-dengue-malaria-prevention-ahead-of-monsoon/articleshow/121062006.cms) (The Times of India)
+
+- [Why United are wearing a special-edition shirt](https://www.manutd.com/en/news/detail/why-man-utd-are-wearing-a-special-edition-shirt-this-weekend) (Manchester United)
+
 - [Fashionistas and flippers: Africa's top shots](https://www.bbc.com/news/articles/cq69rpn3e31o) (BBC News)
 
 - [Bill Gates va dona peste de 200 de miliarde de dolari în scopuri caritabile (combaterea bolilor, sărăciei și mortalității infantile). Acesta l-a acuzat pe Elon Musk că “ucide copiii cei mai săraci ai lumii”, din cauza reducerilor drastice a USAID.](https://www.biziday.ro/318868-2/) (Biziday.ro)
@@ -308,6 +318,14 @@ Source: [News API](https://newsapi.org/)
 - [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
 
 ## 25-19 (dengue)
+
+- [Fiji added to CDC’s travel alert after surge in dengue fever cases](https://www.foxweather.com/lifestyle/mosquito-health-alert-dengue-fever-fiji) (Foxweather.com)
+
+- [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
+
+- [Goa steps up dengue, malaria prevention ahead of monsoon](https://timesofindia.indiatimes.com/city/goa/goa-steps-up-dengue-malaria-prevention-ahead-of-monsoon/articleshow/121062006.cms) (The Times of India)
+
+- [Tenda estará aberta no fim de semana em Porto Alegre para atender pessoas com sintomas de dengue](https://www.terra.com.br/noticias/tenda-estara-aberta-no-fim-de-semana-em-porto-alegre-para-atender-pessoas-com-sintomas-de-dengue,9f5107a0f3931e45aa9c422ae5993f181tujxxwb.html) (Terra.com.br)
 
 - [Mobiles Labor in Mödling entwickelt](https://noe.orf.at/stories/3304212/) (Noe.orf.at)
 
@@ -2674,16 +2692,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
