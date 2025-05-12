@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-05-12 07:08
-- **Most recent article:** 2025-05-10 20:41:42
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-05-12 19:06
+- **Most recent article:** 2025-05-11 09:21:11
 
 ---
 
@@ -10,26 +10,34 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 65 | 562 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 162 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 148 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 142 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 112 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 72 |
-| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 45 |
-| rabies | 7 | 7 | 0 | 3 | 4 | 12 | 33 |
-| zika | 4 | 7 | 7 | 2 | 3 | 6 | 29 |
-| pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 22 |
-| hpai | 4 | 3 | 5 | 1 | 2 | 3 | 18 |
-| typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 13 |
-| leptospirosis | 0 | 0 | 1 | 0 | 2 | 4 | 7 |
+| Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 70 | 145 | 82 | 107 | 88 | 65 | 0 | 557 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 1 | 163 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 0 | 148 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 0 | 142 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 0 | 112 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 0 | 72 |
+| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 1 | 46 |
+| rabies | 7 | 7 | 0 | 3 | 4 | 12 | 0 | 33 |
+| zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
+| pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
+| hpai | 4 | 3 | 5 | 1 | 2 | 3 | 0 | 18 |
+| typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 0 | 13 |
+| leptospirosis | 0 | 0 | 1 | 0 | 2 | 4 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-20 (meningitis)
+
+- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
+## 25-20 (h5n1)
+
+- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-19 (zika)
 
@@ -2700,16 +2708,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
