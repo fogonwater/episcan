@@ -1,8 +1,26 @@
 {
-  "last_updated": "2025-05-11 19:05",
-  "count_articles_total": 1306,
-  "count_articles_new": 7,
+  "last_updated": "2025-05-12 07:08",
+  "count_articles_total": 1315,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 21166,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Sebastian Murdock",
+      "title": "Measles Cases In The U.S. Just Hit 1,000. RFK Jr. Still Isn't Taking It Seriously.",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. has downplayed the deadly spread and promoted a range of unproven treatments.",
+      "url": "https://www.huffpost.com/entry/us-measles-cases-1000-rfk-jr-hhs_n_681f8e4be4b0108bb6b70ed3",
+      "urlToImage": "https://img.huffingtonpost.com/asset/681f8f121600002a002cc078.jpeg?cache=X6e9A2vAva&ops=1200_630",
+      "publishedAt": "2025-05-10 20:41:42",
+      "content": "Cases of measles in the U.S. surpassed 1,000 for just the second time in 30 years this week. Health and Human Services Secretary Robert F. Kennedy Jr. still isnt taking it seriously. The deadly and \u2026 [+5041 chars]",
+      "retrievedAt": "2025-05-12 07:08:01.808753",
+      "internal_id": "763ad2f34edaaf978097146bd4deac715a2a7d78b52d7280d444fbf62852e0d1",
+      "publishedAtLabel": "May 10"
+    },
     {
       "id": 21159,
       "query": [
@@ -38,6 +56,24 @@
       "content": "From Aishwarya Rai to Katrina Kaif: Bollywood Actresses who rocked in bold and unique lipstick shades",
       "retrievedAt": "2025-05-11 19:05:38.752047",
       "internal_id": "d23578e988d9f0405bb398d5e75d1d7bb47ca822cba34e54fe6593f90d3177e1",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 21167,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPXI Pittsburgh",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "The US has 1,001 measles cases and 11 states with active outbreaks",
+      "description": "The US has 1,001 measles cases and 11 states with active outbreakswpxi.com",
+      "url": "https://www.wpxi.com/news/local/us-has-1001-measles-cases-11-states-with-active-outbreaks/JZXUTYNWHZGEJL6F5VGQGTNN3Y/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FP6TUJWE3WUDDQBBI3YIWSDGRIU.jpg?auth=cab6f5a143f1d8784260357a97d2022b85f3d1d1f8567a108fc6d21c0601791e&width=1200&height=630&smart=true",
+      "publishedAt": "2025-05-10 18:45:47",
+      "content": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago. Texas still accounts for the va\u2026 [+8514 chars]",
+      "retrievedAt": "2025-05-12 07:08:01.905912",
+      "internal_id": "5eba08cd5c22fd436fcd1ff57519cc592fce2c03c10868f003c6aeb163240898",
       "publishedAtLabel": "May 10"
     },
     {
@@ -673,6 +709,24 @@
       "publishedAtLabel": "May 9"
     },
     {
+      "id": 21169,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Bill Gates haalt uit naar Elon Musk bij verhoging donaties aan goede doelen",
+      "description": "Bill Gates wil in de komende twintig jaar 200 miljard dollar (nu bijna 178 miljard euro) uitgeven aan de bestrijding van kindersterfte, infectieziekten als polio en malaria en vermindering van armoede wereldwijd. Dat is een verdubbeling van het bedrag dat zij\u2026",
+      "url": "https://nos.nl/l/2566579",
+      "urlToImage": "https://cdn.nos.nl/image/2025/05/09/1223278/1024x576a.jpg",
+      "publishedAt": "2025-05-09 10:48:11",
+      "content": "Bill Gates wil in de komende twintig jaar 200 miljard dollar (nu bijna 178 miljard euro) uitgeven aan de bestrijding van kindersterfte, infectieziekten als polio en malaria en vermindering van armoed\u2026 [+2398 chars]",
+      "retrievedAt": "2025-05-12 07:08:03.709471",
+      "internal_id": "5a64b600df53d624734a8b3908231ef9b26c699b12fec57f1677d4da99e30e30",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 21143,
       "query": [
         "dengue"
@@ -868,6 +922,24 @@
       "content": "Bill Gates a fcut anunul joi, acceler\u00e2nd astfel planurile de a ceda aproape \u00eentreaga avere \u00een scopuri filantropice. Gates a subliniat c banii vor fi direcionai ctre combaterea bolilor precum poliomie\u2026 [+2125 chars]",
       "retrievedAt": "2025-05-10 07:06:18.530665",
       "internal_id": "39a5fc8b051d4473f503e0b793ddb7261b69781cf70eadad20b27341c9b97ae4",
+      "publishedAtLabel": "May 8"
+    },
+    {
+      "id": 21168,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cleveland 19 News",
+      "author": "Madeline Harden",
+      "title": "Cuyahoga Co. confirms 1st measles case",
+      "description": "According to a release, a pediatric case of measles has been confirmed in Cuyahoga County. The child was not vaccinated.",
+      "url": "https://www.cleveland19.com/2025/05/08/cuyahoga-co-confirms-1st-measles-case/",
+      "urlToImage": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/EULKZ3BX3RCK3MF645KGVHDFEE.png?auth=0e830f9b09b1975f98bd135e6130396db787252fc8cc0a644d33b3b9760e3496&width=1200&height=600&smart=true",
+      "publishedAt": "2025-05-08 21:18:10",
+      "content": "CUYAHOGA COUNTY, Ohio (WOIO) - As Ohio battles an outbreak, the Cuyahoga County Board of Health reported its first measles case Thursday afternoon. According to a release, a pediatric case of measle\u2026 [+3645 chars]",
+      "retrievedAt": "2025-05-12 07:08:01.925258",
+      "internal_id": "d71fbc98ca2065f3e85b2f94b012412bf2abea518fd97adc0b1890298d88f326",
       "publishedAtLabel": "May 8"
     },
     {
@@ -23559,6 +23631,96 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
+      "url": "https://www.memeorandum.com/250330/p40",
+      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
+      "publishedAt": "2025-03-30 17:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.218453",
+      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
+      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
+      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-03-30 13:00:00",
+      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.251385",
+      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19849,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, some parents become vaccine enthusiasts",
+      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
+      "publishedAt": "2025-03-30 11:00:00",
+      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.275347",
+      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19848,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Outbreak Worsens in Texas and New Mexico",
+      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
+      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-30 10:26:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.259886",
+      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19850,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
+      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-30 09:00:00",
+      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.371851",
+      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]

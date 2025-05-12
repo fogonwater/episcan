@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-05-11 19:05
-- **Most recent article:** 2025-05-10 18:57:57
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-05-12 07:08
+- **Most recent article:** 2025-05-10 20:41:42
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 70 | 145 | 82 | 107 | 88 | 62 | 554 |
+| measles | 75 | 145 | 82 | 107 | 88 | 65 | 562 |
 | h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 162 |
 | chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 148 |
 | dengue | 14 | 24 | 30 | 16 | 32 | 26 | 142 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 18 | 111 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 112 |
 | mpox | 17 | 18 | 10 | 5 | 11 | 11 | 72 |
 | meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 45 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 33 |
@@ -113,6 +113,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (measles)
 
+- [Measles Cases In The U.S. Just Hit 1,000. RFK Jr. Still Isn't Taking It Seriously.](https://www.huffpost.com/entry/us-measles-cases-1000-rfk-jr-hhs_n_681f8e4be4b0108bb6b70ed3) (HuffPost)
+
+- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.wpxi.com/news/local/us-has-1001-measles-cases-11-states-with-active-outbreaks/JZXUTYNWHZGEJL6F5VGQGTNN3Y/) (WPXI Pittsburgh)
+
 - [Measles Outbreak the Worst in 25 Years With Over 1,000 Cases](https://legalinsurrection.com/2025/05/measles-outbreak-the-worst-in-25-years-with-over-1000-cases/) (Legalinsurrection.com)
 
 - ["Spreading Like Wildfire": Over 1,000 Measles Cases Reported In US](https://www.ndtv.com/world-news/spreading-like-wildfire-over-1-000-measles-cases-reported-in-us-8376150) (NDTV News)
@@ -154,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 - [Experts urge immunization as Alberta measles count passes 300](https://www.cbc.ca/news/canada/calgary/alberta-measles-three-hundred-1.7530648) (CBC News)
 
 - [RFK Jr.’s Measles Policy: Deaths Are Expected And It’s The Victim’s Fault](https://www.techdirt.com/2025/05/08/rfk-jr-s-measles-policy-deaths-are-expected-and-its-the-victims-fault/) (Techdirt)
+
+- [Cuyahoga Co. confirms 1st measles case](https://www.cleveland19.com/2025/05/08/cuyahoga-co-confirms-1st-measles-case/) (Cleveland 19 News)
 
 - [Sask. measles cases more than doubled in past week, daily cases likely, chief medical officer says](https://www.cbc.ca/news/canada/saskatoon/chief-medical-officer-measles-case-doubled-week-1.7529945) (CBC News)
 
@@ -246,6 +252,8 @@ Source: [News API](https://newsapi.org/)
 - [Why United are wearing a special-edition shirt](https://www.manutd.com/en/news/detail/why-man-utd-are-wearing-a-special-edition-shirt-this-weekend) (Manchester United)
 
 - [Fashionistas and flippers: Africa's top shots](https://www.bbc.com/news/articles/cq69rpn3e31o) (BBC News)
+
+- [Bill Gates haalt uit naar Elon Musk bij verhoging donaties aan goede doelen](https://nos.nl/l/2566579) (Nos.nl)
 
 - [Bill Gates va dona peste de 200 de miliarde de dolari în scopuri caritabile (combaterea bolilor, sărăciei și mortalității infantile). Acesta l-a acuzat pe Elon Musk că “ucide copiii cei mai săraci ai lumii”, din cauza reducerilor drastice a USAID.](https://www.biziday.ro/318868-2/) (Biziday.ro)
 
@@ -2692,6 +2700,16 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
