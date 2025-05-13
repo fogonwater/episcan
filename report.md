@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2025-05-13 07:08
-- **Most recent article:** 2025-05-12 06:48:40
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-05-13 19:06
+- **Most recent article:** 2025-05-12 18:01:02
 
 ---
 
@@ -12,24 +12,48 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 79 | 9 | 585 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 1 | 163 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 2 | 150 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 2 | 144 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 1 | 113 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 0 | 72 |
+| measles | 70 | 145 | 82 | 107 | 88 | 79 | 17 | 588 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 2 | 164 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 4 | 152 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 3 | 145 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 4 | 116 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 5 | 77 |
 | meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 2 | 47 |
-| rabies | 7 | 7 | 0 | 3 | 4 | 12 | 0 | 33 |
+| rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
 | hpai | 4 | 3 | 5 | 1 | 2 | 3 | 0 | 18 |
-| typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 0 | 13 |
+| typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 1 | 14 |
 | leptospirosis | 0 | 0 | 1 | 0 | 2 | 4 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-20 (typhoid)
+
+- [XDR typhoid in Pakistan: A threat to global health security and a wake-up call for antimicrobial stewardship](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013067) (Plos.org)
+
+## 25-20 (rabies)
+
+- [It will be raining rabies vaccines over Aroostook County this week](http://www.bangordailynews.com/2025/05/12/aroostook/aroostook-health/aroostook-county-maine-rabies-vaccines-airdrop-raccoons/) (Bangor Daily News)
+
+- [Rabies vaccination induces a CD4+ TEM and CD4+CD8+ TEMRA TH1 phenotype in dogs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323823) (Plos.org)
+
+- [A transgenic mouse line for rabies virus-mediated trans-synaptic tracing in the postnatal developing brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323629) (Plos.org)
+
+## 25-20 (mpox)
+
+- [Mpox-Infektionen nehmen zu](https://www.welt.de/gesundheit/article256104172/Affenpocken-Mpox-Infektionen-nehmen-zu.html) (DIE WELT)
+
+- [Infektionskrankheiten: Anstieg der Mpox-Fälle in Berlin](https://www.tagesspiegel.de/berlin/infektionskrankheiten-anstieg-der-mpox-falle-in-berlin-13676350.html) (Der Tagesspiegel)
+
+- [Infektionskrankheiten: Anstieg der Mpox-Infektionen in Berlin](https://www.tagesspiegel.de/berlin/infektionskrankheiten-anstieg-der-mpox-infektionen-in-berlin-13676350.html) (Der Tagesspiegel)
+
+- [Infektionskrankheiten: Anstieg der Mpox-Infektionen in Berlin](https://www.zeit.de/news/2025-05/12/anstieg-der-mpox-infektionen-in-berlin) (Die Zeit)
+
+- [Infektionskrankheiten: Anstieg der Mpox-Infektionen in Berlin](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/infektionskrankheiten--anstieg-der-mpox-infektionen-in-berlin-35715198.html) (STERN.de)
 
 ## 25-20 (meningitis)
 
@@ -38,6 +62,22 @@ Source: [News API](https://newsapi.org/)
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
+
+- [1,000 Measles Cases in the US, but Few Solutions From RFK](https://truthout.org/articles/1000-measles-cases-in-the-us-but-few-solutions-from-rfk/) (Truthout)
+
+- [Measles outbreak in Alberta, over 320 cases reported, most unvaccinated](https://economictimes.indiatimes.com/news/international/canada/measles-outbreak-in-alberta-over-320-cases-reported-most-unvaccinated/articleshow/121118167.cms) (The Times of India)
+
+- [Good Morning, News: ODOT Budget Gets Blasted, Measles Vaccinations Declining, and Trump Caves to China](https://www.portlandmercury.com/good-morning-news/2025/05/12/47780786/good-morning-news-odot-budget-gets-blasted-measles-vaccinations-declining-and-trump-caves-to-china) (The Portland Mercury)
+
+- [Five things to know about measles, and its risk to the young and old](https://scopeblog.stanford.edu/2025/05/12/measles-risk-young-old-infectious-diseases/) (Stanford.edu)
+
+- [Texas: More Than 700 Cases of Measles Reported](https://dianeravitch.net/2025/05/12/texas-more-than-700-cases-of-measles-reported/) (Dianeravitch.net)
+
+- [This makes MAGA terrified — and your kids are going to suffer](https://www.rawstory.com/trump-education/) (Raw Story)
+
+- [Invivyd Announces New Pipeline Discovery Program Focused on Monoclonal Antibody Treatment for Measles](https://www.globenewswire.com/news-release/2025/05/12/3078999/0/en/Invivyd-Announces-New-Pipeline-Discovery-Program-Focused-on-Monoclonal-Antibody-Treatment-for-Measles.html) (GlobeNewswire)
+
+- [Why are measles case counts climbing so high in Alberta? Experts weigh in](https://www.cbc.ca/news/canada/calgary/experts-explain-measles-cases-climbing-alberta-1.7531482) (CBC News)
 
 - [Measles alert in Auckland: Risks, symptoms, and prevention](https://economictimes.indiatimes.com/news/international/new-zealand/measles-alert-in-auckland-risks-symptoms-and-prevention/articleshow/121100311.cms) (The Times of India)
 
@@ -59,19 +99,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (malaria)
 
+- [Babesiosis, a Tick-Borne Disease That Resembles Malaria, Is on the Rise](https://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/) (Grist)
+
+- [Mathematical modeling of malaria vaccination with seasonality and immune feedback](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012988) (Plos.org)
+
+- [Reversible host cell surface remodelling limits immune recognition and maximizes survival of Plasmodium falciparum gametocytes](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013110) (Plos.org)
+
 - [Dr Phangcho assesses malaria outbreak in BTR’s Kokrajhar and Chirang](https://thehillstimes.in/assam/dr-phangcho-assesses-malaria-outbreak-in-btrs-kokrajhar-and-chirang) (Thehillstimes.in)
 
 ## 25-20 (h5n1)
 
+- [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
+
 - [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
+
+- [Clinical characteristics and serotype association of dengue and dengue like illness in Pakistan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012978) (Plos.org)
 
 - [Che tempo che fa, Burioni: "Bisogna evitare un focolaio di zanzare dengue"](https://www.ansa.it/sito/videogallery/italia/2025/05/12/che-tempo-che-fa-burioni-bisogna-evitare-un-focolaio-di-zanzare-dengue_cf34de17-9b8c-44a1-8e51-318d02f07bfb.html) (ANSA.it)
 
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [US Advises Older Adults Not to Receive Chikungunya Vaccine for Now](https://www.theepochtimes.com/health/us-advises-older-adults-not-to-receive-chikungunya-vaccine-for-now-5856323) (Theepochtimes.com)
+
+- [Ook Verenigde Staten beperken gebruik van Valneva-vaccin tegen Chikungunya](https://www.nieuwsblad.be/cnt/dmf20250512_94316549) (Nieuwsblad.be)
 
 - [FDA and CDC Recommend Pause in Use of Ixchiq (Chikungunya Vaccine, Live) in Individuals 60 Years of Age and Older While Postmarketing Safety Reports are Investigated: FDA Safety Communication](https://www.fda.gov/safety/medical-product-safety-information/fda-and-cdc-recommend-pause-use-ixchiq-chikungunya-vaccine-live-individuals-60-years-age-and-older) (FDA.gov)
 
@@ -2774,16 +2828,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 

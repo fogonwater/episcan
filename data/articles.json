@@ -1,8 +1,440 @@
 {
-  "last_updated": "2025-05-13 07:08",
-  "count_articles_total": 1346,
-  "count_articles_new": 29,
+  "last_updated": "2025-05-13 19:06",
+  "count_articles_total": 1365,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 21204,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Chris Walker",
+      "title": "1,000 Measles Cases in the US, but Few Solutions From RFK",
+      "description": "Three people have died so far in the U.S., the highest number of yearly deaths since 1992.",
+      "url": "https://truthout.org/articles/1000-measles-cases-in-the-us-but-few-solutions-from-rfk/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/05/2025_0512-rfk-jr-scaled.jpg",
+      "publishedAt": "2025-05-12 18:01:02",
+      "content": "For only the second time in three decades, the number of measles cases in the United States has surpassed 1,000 in a calendar year, with no sign of new cases slowing down any time soon. According to\u2026 [+4425 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.556713",
+      "internal_id": "78e1b69f033cdca686728e2dbb2cd37f5a32b5c4354eb554349f726ae21a7f30",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Grist",
+      "author": "Zoya Teirstein, Grist",
+      "title": "Babesiosis, a Tick-Borne Disease That Resembles Malaria, Is on the Rise",
+      "description": "The tick that causes Lyme disease can also spread babesiosis\u2014and researchers fear doctors in the mid-Atlantic don\u2019t know about it",
+      "url": "https://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/560713ce52f59ee3/original/Castor-bean-tick-ixodes-scapularis.jpg?m=1747069972.279&w=1200",
+      "publishedAt": "2025-05-12 18:00:00",
+      "content": "Ellen Stromdahl was at a garden party in coastal Virginia in June 2023 when her friend Albert Duncan stood up from where he was sitting and abruptly fainted. Duncan is an outdoorsman in his mid-80s \u2014\u2026 [+7906 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.061627",
+      "internal_id": "e6cb5501963ccec6aa53a5d1838303cfbbcfb3ec5ba76ca55b068a519bebe261",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21210,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Measles outbreak in Alberta, over 320 cases reported, most unvaccinated",
+      "description": "Alberta is grappling with a significant measles outbreak, reporting 326 cases since March, predominantly affecting young children and concentrated in the South Health Zone. Low vaccination rates are a major concern, with the majority of infected individuals b\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/measles-outbreak-in-alberta-over-320-cases-reported-most-unvaccinated/articleshow/121118167.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121118181,width-1200,height-630,imgsize-72958,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-12 17:56:59",
+      "content": "Alberta is experiencing a concerning rise in measles cases, with health experts warning the outbreak could worsen if vaccination rates dont improve. Alberta reported 326 confirmed cases beginning Mar\u2026 [+3101 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.727719",
+      "internal_id": "8afe8ca9e89ddeb64dcd3de4060d54f317b6021e4b776dcf4823e1b8b280becb",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21211,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Portland Mercury",
+      "author": "Wm. Steven Humphrey",
+      "title": "Good Morning, News: ODOT Budget Gets Blasted, Measles Vaccinations Declining, and Trump Caves to China",
+      "description": "by Wm. Steven Humphrey If you\u2019re reading this, you probably know the value of the Mercury\u2019s news reporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps our city shine, but we can\u2019t\u2026",
+      "url": "https://www.portlandmercury.com/good-morning-news/2025/05/12/47780786/good-morning-news-odot-budget-gets-blasted-measles-vaccinations-declining-and-trump-caves-to-china",
+      "urlToImage": "https://media1.fdncms.com/portmerc/imager/u/large/47782013/gettyimages-2211623518.webp",
+      "publishedAt": "2025-05-12 15:54:00",
+      "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o\u2026 [+6510 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.743866",
+      "internal_id": "780fd581b38555f7e40bbb78a5a0ed5aebdd6c4bb1d891d165632a514dc7cfa3",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21218,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Zachary Stieber",
+      "title": "US Advises Older Adults Not to Receive Chikungunya Vaccine for Now",
+      "description": "US Advises Older Adults Not to Receive Chikungunya Vaccine for Nowtheepochtimes.com",
+      "url": "https://www.theepochtimes.com/health/us-advises-older-adults-not-to-receive-chikungunya-vaccine-for-now-5856323",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2025/05/12/id5856340-GettyImages-2208441527-1080x720.jpg",
+      "publishedAt": "2025-05-12 15:26:00",
+      "content": "U.S. officials are recommending that adults aged 60 and up not receive the only available chikungunya vaccine after reports that older individuals who received the shot suffered severe symptoms typic\u2026 [+3977 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.481246",
+      "internal_id": "1476b27f8e2f1631af524e303244b957a3c057fc1772589d4c7c42eb6138b839",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21203,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Bangor Daily News",
+      "author": "Christopher Burns",
+      "title": "It will be raining rabies vaccines over Aroostook County this week",
+      "description": "It will be raining rabies vaccines over Aroostook County this weekbangordailynews.com",
+      "url": "http://www.bangordailynews.com/2025/05/12/aroostook/aroostook-health/aroostook-county-maine-rabies-vaccines-airdrop-raccoons/",
+      "urlToImage": "https://bdn-data.s3.amazonaws.com/uploads/2025/05/Oral-Rabies-Vaccines.jpeg",
+      "publishedAt": "2025-05-12 14:35:36",
+      "content": "It will be raining rabies vaccines over Aroostook County this week. About 450,000 oral vaccines will be dropped from the air between Monday and Saturday, according to Lindsay Hammes, a spokesperson \u2026 [+969 chars]",
+      "retrievedAt": "2025-05-13 19:05:56.772025",
+      "internal_id": "6ff8d7a0f59e2dc14d4f73bd77105d7ddb19b27eddc381062ab0b45f4bcd05c0",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21208,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Stanford.edu",
+      "author": "Jamie Hansen",
+      "title": "Five things to know about measles, and its risk to the young and old",
+      "description": "With vaccination rates dropping, infectious disease experts worry that more people among the most vulnerable populations will be at serious risk. The post Five things to know about measles, and its risk to the young and old appeared first on Scope.",
+      "url": "https://scopeblog.stanford.edu/2025/05/12/measles-risk-young-old-infectious-diseases/",
+      "urlToImage": "https://scopeblog.stanford.edu/wp-content/uploads/2025/05/File-1.jpg",
+      "publishedAt": "2025-05-12 14:07:44",
+      "content": "The United States is on track to experience the largest outbreak of measles since health officials declared the disease eliminated from the country in 2000. This year alone has seen more than 900 cas\u2026 [+7194 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.703256",
+      "internal_id": "4a16b29caadea4ccdd354d335a239df5e8a19b8eb035661b45cee9dba7a3d447",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21201,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Haeree P. Lang, Farah F. Almeer, Marc K. Jenkins, Steven G. Friedenberg",
+      "title": "Rabies vaccination induces a CD4+ TEM and CD4+CD8+ TEMRA TH1 phenotype in dogs",
+      "description": "The canine rabies vaccine consists of the whole killed rabies virus and an alum adjuvant. While it is known to provide immunological protection in dogs, its effects on cell-mediated responses remain largely uncharacterized. Here, we analyzed blood and spleen \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323823",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323823.g006&size=inline",
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "Citation: Lang HP, Almeer FF, Jenkins MK, Friedenberg SG (2025) Rabies vaccination induces a CD4+ TEM and CD4+CD8+ TEMRA TH1 phenotype in dogs. PLoS One 20(5): e0323823. https://doi.org/10.1371/jo\u2026 [+42819 chars]",
+      "retrievedAt": "2025-05-13 19:05:56.724894",
+      "internal_id": "cc45e6ddf0a27df3e13f7289ea8e43fae28b7d39058ec5dd54772c0980d64d09",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21202,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kengo Inada, Mitsue Hagihara, Miho Kihara, Takaya Abe, Kazunari Miyamichi",
+      "title": "A transgenic mouse line for rabies virus-mediated trans-synaptic tracing in the postnatal developing brain",
+      "description": "Neural circuits are composed of numerous neurons that perform diverse functions. Understanding the mechanisms of neural processing requires elucidating the connections among individual neurons. Rabies virus (RV)-mediated trans-synaptic tracing enables the vis\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323629",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323629.g005&size=inline",
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "Abstract Neural circuits are composed of numerous neurons that perform diverse functions. Understanding the mechanisms of neural processing requires elucidating the connections among individual neur\u2026 [+50673 chars]",
+      "retrievedAt": "2025-05-13 19:05:56.755996",
+      "internal_id": "e5d1520ea510859598f5b00e0a596e2200cede8b4c667136be847aa940faa7c6",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21205,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Texas: More Than 700 Cases of Measles Reported",
+      "description": "In 2000, the contagious disease measles was officially eradicated in the United States. However, since the rise of anti-vaccine anxieties during the COVID pandemic, a growing number of parents have refused to let their children be vaccinated. Texas is the cen\u2026",
+      "url": "https://dianeravitch.net/2025/05/12/texas-more-than-700-cases-of-measles-reported/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "In 2000, the contagious disease measles was officially eradicated in the United States. However, since the rise of anti-vaccine anxieties during the COVID pandemic, a growing number of parents have r\u2026 [+1191 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.573574",
+      "internal_id": "dab29f193222098a762583fb5188ac26afc1912913678929dabb6ef48d1446e3",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21213,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Najeeha Talat Iqbal, Kumail Ahmed, Aqsa Khalid, Kehkashan Imtiaz, Qamreen Mumtaz Ali, Tania Munir, Syed Faisal Mahmood, Unab Khan, Badar Afzal, Farah Naz Qamar, Jesse J. Waggoner, Hannah Fenelon, Helene McOwen, Erum Khan, Peter Rabinowitz, Wesley C. Van Voorhis",
+      "title": "Clinical characteristics and serotype association of dengue and dengue like illness in Pakistan",
+      "description": "Author summary Dengue (DENV) is a mosquito-borne disease endemic in Pakistan, with seasonal outbreaks often triggered by monsoon rains and flooding. In this study, we describe the clinical characteristics of laboratory-confirmed Dengue patients and those with\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012978",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012978.g004&size=inline",
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "Citation: Iqbal NT, Ahmed K, Khalid A, Imtiaz K, Ali QM, Munir T, et al. (2025) Clinical characteristics and serotype association of dengue and dengue like illness in Pakistan. PLoS Negl Trop Dis 19(\u2026 [+33120 chars]",
+      "retrievedAt": "2025-05-13 19:05:58.434832",
+      "internal_id": "fb4c467e6eeb4860ae1a5f71fca5be36b1e12f4dd7c4959c1d727b952a0c93e7",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21215,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zhuolin Qu, Denis Patterson, Lihong Zhao, Joan Ponce, Christina J. Edholm, Olivia F. Prosper Feldman, Lauren M. Childs",
+      "title": "Mathematical modeling of malaria vaccination with seasonality and immune feedback",
+      "description": "Author summary Malaria remains a significant health concern worldwide, especially for children under age five, who account for two-thirds of malaria-related deaths. Our work focuses on understanding how malaria spreads and how factors like immunity, seasonal \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012988",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012988.g010&size=inline",
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "Abstract Malaria is one of the deadliest infectious diseases globally, claiming hundreds of thousands of lives each year. The disease presents substantial heterogeneity among the population, with ap\u2026 [+85037 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.078191",
+      "internal_id": "2ba3b4b0ff50296691001fdb02e3df33ceab6e0ef44d447d20d6169556b5174b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21216,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Priscilla Ngotho, Kathleen Dantzler Press, Megan Peedell, William Muasya, Brian Roy Omondi, Stanley E. Otoboh, Jahiro Gomez, Lorena Coronado, Karl B. Seydel, Melissa Kapulu, Miriam Laufer, Terrie Taylor, Teun Bousema, Matthias Marti",
+      "title": "Reversible host cell surface remodelling limits immune recognition and maximizes survival of Plasmodium falciparum gametocytes",
+      "description": "Author summary Malaria remains a major global health problem and elimination of this global killer is a top priority. Parasite transmission from human to mosquito is critical for disease spread and hence a major target of interventions. Transmission stages (o\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013110",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013110.g006&size=inline",
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "Abstract Reducing malaria transmission has been a major pillar of control programmes and is considered crucial for achieving malaria elimination. Gametocytes, the transmissible forms of the P. falci\u2026 [+75302 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.129111",
+      "internal_id": "f90acc6b198e6b43cd28a9b3f0ebb8fccd95cbdae1a1566426d549bc4fe99793",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21224,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Muhammad Ahmed Abdullah, Babar Tasneem Shaikh, Maryam Ashraf, Shahzad Ali Khan",
+      "title": "XDR typhoid in Pakistan: A threat to global health security and a wake-up call for antimicrobial stewardship",
+      "description": "Extensively drug-resistant (XDR) typhoid, caused by Salmonella enterica serotype Typhi, has emerged as a critical global health security threat, with Pakistan, particularly Sindh province, at its epicenter. The misuse of antibiotics, inadequate diagnostic too\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013067",
+      "urlToImage": null,
+      "publishedAt": "2025-05-12 14:00:00",
+      "content": "Abstract Extensively drug-resistant (XDR) typhoid, caused by Salmonella enterica serotype Typhi, has emerged as a critical global health security threat, with Pakistan, particularly Sindh province, \u2026 [+15550 chars]",
+      "retrievedAt": "2025-05-13 19:06:00.010401",
+      "internal_id": "a0fe877c004056d805ce5e68466c800263f7e941c32a0814735b7650f5cdec62",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21209,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Diane Roberts, Florida Phoenix",
+      "title": "This makes MAGA terrified \u2014 and your kids are going to suffer",
+      "description": "Why are right-wingers so scared of ideas? Are their minds so weak that mere exposure to certain books will infect them with what Elon Musk calls \u201cthe woke mind virus\u201d? They don\u2019t want you inoculated against measles, but they\u2019re doing their damnedest to inocu\u2026",
+      "url": "https://www.rawstory.com/trump-education/",
+      "urlToImage": "https://www.rawstory.com/media-library/u-s-president-donald-trump-holds-a-maga-make-america-great-again-cap-as-he-arrives-at-philadelphia-international-airport-in-p.jpg?id=59778574&width=1200&height=600&coordinates=0%2C119%2C0%2C120",
+      "publishedAt": "2025-05-12 13:58:29",
+      "content": "Why are right-wingers so scared of ideas? Are their minds so weak that mere exposure to certain books will infect them with what Elon Musk calls the woke mind virus? They dont want you inoculated a\u2026 [+9923 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.719282",
+      "internal_id": "bb1b50a969c0e73200fe371052aaeb21b2ee4321508e492f770ad71ca01b4e27",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21217,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Ook Verenigde Staten beperken gebruik van Valneva-vaccin tegen Chikungunya",
+      "description": "Het Amerikaanse departement voor Volksgezondheid heeft het gebruik van het Valneva-vaccin tegen Chikungunya beperkt voor ouderen. Dat heeft de Food and Drug Administration (FDA) in de Verenigde Staten maandag laten weten. Het Franse ministerie van Volksgezond\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250512_94316549",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/05/12/77f5adf9-12c8-4091-ad21-84349f303093.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-05-12 11:58:06",
+      "content": "Het Amerikaanse departement voor Volksgezondheid heeft het gebruik van het Valneva-vaccin tegen Chikungunya beperkt voor ouderen. Dat heeft de Food and Drug Administration (FDA) in de Verenigde State\u2026 [+1855 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.450966",
+      "internal_id": "73843ec677035092262f44fed43b32b24da863cd156c599151b2fb904763a1af",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21220,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Mpox-Infektionen nehmen zu",
+      "description": "Die Mpox-Infektionen scheinen deutschlandweit zu steigen, in Berlin wurden im laufenden Jahr bereits mehr F\u00e4lle gemeldet als im gesamten Vorjahr. Wer besonders betroffen ist \u2013 und wie man sich sch\u00fctzen kann.",
+      "url": "https://www.welt.de/gesundheit/article256104172/Affenpocken-Mpox-Infektionen-nehmen-zu.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile256104152/5567932537-ci16x9-w1200/close-up-syringe-Vaccination-anti-Virus-monkeypox-New-strain-with-vial-vaccine-and-blood-test-tube.jpg",
+      "publishedAt": "2025-05-12 11:03:44",
+      "content": "Die Mpox-Infektionen scheinen deutschlandweit zu steigen, in Berlin wurden im laufenden Jahr bereits mehr F\u00e4lle gemeldet als im gesamten Vorjahr. Wer besonders betroffen ist und wie man sich sch\u00fctzen\u2026 [+2321 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.616984",
+      "internal_id": "dd6aba399c0d9bc30b28f9d8b604c8a8258932f320485fe2aa9b255afd5723ab",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21206,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Invivyd",
+      "title": "Invivyd Announces New Pipeline Discovery Program Focused on Monoclonal Antibody Treatment for Measles",
+      "description": "WALTHAM, Mass., May 12, 2025 (GLOBE NEWSWIRE) -- Invivyd, Inc. (Nasdaq: IVVD) today announced it has initiated a discovery program for a measles monoclonal antibody (mAb). Multiple healthcare providers (HCPs) who are treating active measles and monitoring con\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/05/12/3078999/0/en/Invivyd-Announces-New-Pipeline-Discovery-Program-Focused-on-Monoclonal-Antibody-Treatment-for-Measles.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d533e2f0-52b6-4786-90e6-a843b46297c7",
+      "publishedAt": "2025-05-12 11:01:00",
+      "content": "Multiple HCPs have requested from Invivyd a monoclonal antibody (mAb) for treatment of active measles infection and post-exposure prophylaxis to reduce the consequence of outbreaks. Such a me\u2026 [+10172 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.658290",
+      "internal_id": "2a5a543c35de8750d1da8418993d0f44260c6cc94b4688f039b84f120f0d1786",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21207,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Why are measles case counts climbing so high in Alberta? Experts weigh in",
+      "description": "Infectious disease experts are raising the alarm about measles spread in Alberta, warning case counts are far higher than neighbouring provinces and they're increasing rapidly.",
+      "url": "https://www.cbc.ca/news/canada/calgary/experts-explain-measles-cases-climbing-alberta-1.7531482",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-12 11:00:00",
+      "content": "Infectious disease experts are raising the alarm about measles spread in Alberta, warning case counts are far higher than neighbouring provinces and they're increasing rapidly. Alberta reported 116 \u2026 [+6941 chars]",
+      "retrievedAt": "2025-05-13 19:05:57.687134",
+      "internal_id": "cab00a958ab883c3f6b863c6f21d9b63f87507935f7e54c354872743112d270c",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21212,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\ud0dc\ud6c8 \uae30\uc790 anarq@kyunghyang.com",
+      "title": "\ubb34\ub108\uc9c0\ub294 \uc885 \uc0ac\uc774 \uacbd\uacc4\u2026 \ub2e4\uc74c \ud32c\ub370\ubbf9\uc740 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790?",
+      "description": "\uc9c0\ub09c\ud574 12\uc6d4 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790\uac00 \ubc1c\uc0dd\ud55c \uacbd\uae30\ub3c4 \ud654\uc131\uc2dc \ud55c \uc18c\uaddc\ubaa8 \ud1a0\uc885\ub2ed \ub18d\uc7a5 \ucd9c\uc785\uc774 \ud1b5\uc81c\ub418\uace0 \uc788\ub2e4. \uc5f0\ud569\ub274\uc2a4 \uac00\uae08\ub958\uc640 \uc57c\uc0dd\uc870\ub958\ub97c \uc911\uc2ec\uc73c\ub85c \ud655\uc0b0\ub418\ub358 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \ubc14\uc774\ub7ec\uc2a4\uac00 \ud3ec\uc720\ub958\uc640 \uc0ac\ub78c\uc5d0\uac8c \uc804\ud30c\ub418\uba70 \ucd5c\uadfc \uba87 \ub144 \uc0ac\uc774 \uc804 \uc138\uacc4\uc801\uc73c\ub85c \uac10\uc5fc \uc0ac\ub840\uac00 \uc99d\uac00\ud558\uace0 \uc788\ub2e4. \uc885\uc758 \uacbd\uacc4\ub97c \ub118\uc5b4\uc120 \uac10\uc5fc\uc774 \uc99d\uac00\ud558\uba74 \uc0ac\ub78c\uc5d0\uac8c \uc804\ud30c\ub418\uae30 \uc26c\uc6b4 \ubc14\uc774\ub7ec\uc2a4 \ubcc0\uc774\uac00 \ubc1c\uc0dd\ud574 \ucf54\ub85c\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202505121918001",
+      "urlToImage": "https://img.khan.co.kr/news/2025/05/12/news-p.v1.20250512.75dfab51d1c946b093e670b6fd586f41_P1.jpeg",
+      "publishedAt": "2025-05-12 10:18:00",
+      "content": "12 . . 19 . 12 \u00b7 . . H5N1 1959 . 1997 . H5N1 . . , H5N1 . (spillover) . . , . 10 H5N1 D1.1 D1.1 B3.13 , . . , , .",
+      "retrievedAt": "2025-05-13 19:05:58.179825",
+      "internal_id": "8f36e87ec320e675aee81a3dc8b9f7d59f85694ebf8bade25ac413ef33af4c7b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21221,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Infektionskrankheiten: Anstieg der Mpox-F\u00e4lle in Berlin",
+      "description": "2025 wurden bereits 74 Mpox-F\u00e4lle gemeldet, mehr als im gesamten Vorjahr. Besonders betroffen sind M\u00e4nner mit h\u00e4ufig wechselnden Sexualpartnern.",
+      "url": "https://www.tagesspiegel.de/berlin/infektionskrankheiten-anstieg-der-mpox-falle-in-berlin-13676350.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13676347/alternates/BASE_16_9_W1400/1747042092000/nachfrage-fur-mpox-impfstoff-in-berlin-stark-gestiegen.jpeg",
+      "publishedAt": "2025-05-12 09:28:13",
+      "content": "In Berlin sind in diesem Jahr bereits 74 Infektionen mit Mpox bekanntgeworden. Das sind bereits jetzt mehr als im gesamten Vorjahr (67 F\u00e4lle), wie aus dem aktuellen Wochenbericht des Landesamtes f\u00fcr \u2026 [+2547 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.632165",
+      "internal_id": "2fc10bcce8736f4d3919adc308bae95df78277ad7375aea94ba090f8d24ee70b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21222,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Infektionskrankheiten: Anstieg der Mpox-Infektionen in Berlin",
+      "description": "2025 wurden bereits 74 Mpox-F\u00e4lle gemeldet, mehr als im gesamten Vorjahr. Besonders betroffen sind M\u00e4nner mit h\u00e4ufig wechselnden Sexualpartnern.",
+      "url": "https://www.tagesspiegel.de/berlin/infektionskrankheiten-anstieg-der-mpox-infektionen-in-berlin-13676350.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13676347/alternates/BASE_16_9_W1400/1747042092000/nachfrage-fur-mpox-impfstoff-in-berlin-stark-gestiegen.jpeg",
+      "publishedAt": "2025-05-12 09:28:13",
+      "content": "In Berlin sind in diesem Jahr bereits 74 Infektionen mit Mpox (fr\u00fcher: Affenpocken) bekanntgeworden. Das sind bereits jetzt mehr als im gesamten Vorjahr (67 F\u00e4lle), wie aus dem aktuellen Wochenberich\u2026 [+2194 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.649295",
+      "internal_id": "0f1c489cd2e82ad1ab96746445cbd06a5f301f3361d599a885c0c5a39fd3dc3b",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Infektionskrankheiten: Anstieg der Mpox-Infektionen in Berlin",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eInfektionskrankheiten\u201c. Lesen Sie jetzt \u201eAnstieg der Mpox-Infektionen in Berlin\u201c.",
+      "url": "https://www.zeit.de/news/2025-05/12/anstieg-der-mpox-infektionen-in-berlin",
+      "urlToImage": "https://img.zeit.de/news/2025-05/12/anstieg-der-mpox-infektionen-in-berlin-image-group/wide__1300x731",
+      "publishedAt": "2025-05-12 09:26:56",
+      "content": "In Berlin sind in diesem Jahr bereits 74 Infektionen mit Mpox (fr\u00fcher: Affenpocken) bekanntgeworden. Das sind bereits jetzt mehr als im gesamten Vorjahr (67 F\u00e4lle), wie aus dem aktuellen Wochenberich\u2026 [+1468 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.607274",
+      "internal_id": "fef3fe218dc7258dbd0ae1c7d60beb2d78c46db05cb32a87f9ff370e9edcb202",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21223,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Infektionskrankheiten: Anstieg der Mpox-Infektionen in Berlin",
+      "description": "Berlin (bb) - In Berlin sind in diesem Jahr bereits 74 Infektionen mit Mpox (fr\u00fcher: Affenpocken) bekanntgeworden. Das sind bereits jetzt mehr als im",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/infektionskrankheiten--anstieg-der-mpox-infektionen-in-berlin-35715198.html",
+      "urlToImage": "https://image.stern.de/35715200/t/l_/v1/w1440/r1.7778/-/12--d2r3qeztimv2axs2048jpeg---20c29247796046f5.jpg",
+      "publishedAt": "2025-05-12 09:26:56",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen 2025 wurden bereits 74 Mpox-F\u00e4lle gemeldet, mehr als im gesamten Vorjahr. Besonders betroffen sind M\u00e4nner mit h\u00e4ufig wechselnden Sexualpartnern. \u2026 [+1650 chars]",
+      "retrievedAt": "2025-05-13 19:05:59.661144",
+      "internal_id": "1af33893156e5ac592d1d04e8faf0800917d13060c7f83b2e5681c6119a861fa",
+      "publishedAtLabel": "May 12"
+    },
     {
       "id": 21196,
       "query": [
@@ -24189,96 +24621,6 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19846,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
-      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
-      "url": "https://www.memeorandum.com/250330/p40",
-      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
-      "publishedAt": "2025-03-30 17:05:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.218453",
-      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19847,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Dianeravitch.net",
-      "author": "dianeravitch",
-      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
-      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
-      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
-      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-      "publishedAt": "2025-03-30 13:00:00",
-      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.251385",
-      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19849,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Maria Godoy",
-      "title": "As measles cases rise, some parents become vaccine enthusiasts",
-      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
-      "publishedAt": "2025-03-30 11:00:00",
-      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.275347",
-      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19848,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Politicalwire.com",
-      "author": "Taegan Goddard",
-      "title": "Measles Outbreak Worsens in Texas and New Mexico",
-      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
-      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
-      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-      "publishedAt": "2025-03-30 10:26:00",
-      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.259886",
-      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19850,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
-      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
-      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-03-30 09:00:00",
-      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.371851",
-      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]
