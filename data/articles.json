@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-05-12 19:06",
-  "count_articles_total": 1312,
-  "count_articles_new": 2,
+  "last_updated": "2025-05-13 07:08",
+  "count_articles_total": 1346,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 21196,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Che tempo che fa, Burioni: \"Bisogna evitare un focolaio di zanzare dengue\"",
+      "description": "\"Non si possono azzerare le zanzare, pero' si puo' diminuire il rischio\" (ANSA)",
+      "url": "https://www.ansa.it/sito/videogallery/italia/2025/05/12/che-tempo-che-fa-burioni-bisogna-evitare-un-focolaio-di-zanzare-dengue_cf34de17-9b8c-44a1-8e51-318d02f07bfb.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/5/12/b5b65f56de23d6c0085ec2cafe092f84.jpg",
+      "publishedAt": "2025-05-12 06:48:40",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-05-13 07:08:00.091858",
+      "internal_id": "906f1f76aa8286fb58fc38be07a9b2d9b432ac020187219af3a6ba6faa75fced",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21175,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Measles alert in Auckland: Risks, symptoms, and prevention",
+      "description": "Auckland is on high alert after a new measles case. Health New Zealand issued urgent warnings. The infected person visited public places, including Woolworths Kelston and Fullers360 ferries. Authorities are tracing contacts. Immunisation rates are below the r\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/new-zealand/measles-alert-in-auckland-risks-symptoms-and-prevention/articleshow/121100311.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121100358,width-1200,height-630,imgsize-703948,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-12 06:47:10",
+      "content": "Health New Zealand has issued a public alert after a new case of measles was confirmed in Auckland, prompting urgent warnings over possible community exposure and renewed concerns over the country's \u2026 [+3799 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.369481",
+      "internal_id": "46fa04f6a89e2bc71676815b7b8fd4f8b1be13d71c38dc841d2670f118411140",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21173,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Rebecca Schein, The Conversation",
+      "title": "Measles Could Become Endemic in US if Surge Continues, Expert Warns",
+      "description": "Globally, measles is on the rise across the U.S., Canada, Mexico, South America and parts of Europe.",
+      "url": "https://www.sciencealert.com/measles-could-become-endemic-in-us-if-surge-continues-expert-warns",
+      "urlToImage": "https://www.sciencealert.com/images/2025/05/measles-virus-particle.jpg",
+      "publishedAt": "2025-05-12 04:18:15",
+      "content": "Globally, measles is on the rise across the U.S., Canada, Mexico, South America and parts of Europe. In 2025, North and South America saw 11 times more cases than during the same period last year. In\u2026 [+7353 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.250289",
+      "internal_id": "7d56c94e79585c42f96f73287e065c0fe6cd0bb7b626fe86e1803083d709439c",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21199,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "FDA and CDC Recommend Pause in Use of Ixchiq (Chikungunya Vaccine, Live) in Individuals 60 Years of Age and Older While Postmarketing Safety Reports are Investigated: FDA Safety Communication",
+      "description": "The FDA and the CDC are recommending a pause in the use of Ixchiq (Chikungunya Vaccine, Live) in individuals 60 years of age and older while the Agencies investigate postmarketing reports of serious adverse events, including neurologic and cardiac events, in \u2026",
+      "url": "https://www.fda.gov/safety/medical-product-safety-information/fda-and-cdc-recommend-pause-use-ixchiq-chikungunya-vaccine-live-individuals-60-years-age-and-older",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-05-12 04:00:00",
+      "content": "[Posted 05/12/2025] AUDIENCE: Patient, Health Care Professional, Pharmacy ISSUE: The FDA and the CDC are recommending a pause in the use of Ixchiq (Chikungunya Vaccine, Live) in individuals 60 year\u2026 [+2714 chars]",
+      "retrievedAt": "2025-05-13 07:08:00.866021",
+      "internal_id": "03495d5d273f31a0a2ebf754a13ea8a7877722618734727b18e5552e0185e301",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21200,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in the Region of the Indian Ocean",
+      "description": "There are outbreaks of chikungunya in R&#233;union, Mayotte, Mauritius, and Sri Lanka. Mosquitoes spread the virus that causes chikungunya. Country List : R&#233;union (France), Mayotte (France), Mauritius, Sri Lanka",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-indian-ocean-islands",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-05-12 04:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+700 chars]",
+      "retrievedAt": "2025-05-13 07:08:00.882898",
+      "internal_id": "a53f47fa30c8cf37156182cad72a635899c5446d9c0e3796e8316080a9c820b6",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21172,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Snopes.com",
+      "author": "Anna Rascou\u00ebt-Paz",
+      "title": "MMR vaccine doesn't contain 'a lot of aborted fetus debris,' contrary to RFK's assertion",
+      "description": "The vaccine for measles, mumps and rubella contains \"a lot of aborted fetus debris,\" as U.S. Health Secretary Robert F. Kennedy, Jr. asserted on April 30, 2025.",
+      "url": "https://www.snopes.com//fact-check/mmr-vaccine-aborted-fetus-debris/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/05/robert_f_kennedy_jr_says_the_mmr_vaccine_contains_a_lot_of_fetus_debris.jpg",
+      "publishedAt": "2025-05-12 02:00:00",
+      "content": "CDC. \"Measles Cases and Outbreaks.\" Measles (Rubeola), 1 May 2024, www.cdc.gov/measles/data-research/. Accessed 9 May 2025. ---. \"Measles Vaccination.\" Measles (Rubeola), 17 Jan. 2025, www.cdc.gov/m\u2026 [+4253 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.182724",
+      "internal_id": "23fdcef460c490756c4c75f2b6e8942e234409c48078ec27f8ca54d95a69857a",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21174,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Stanford.edu",
+      "author": null,
+      "title": "Five things to know about measles risks and vaccine safety",
+      "description": "Stanford pediatrics professor Bonnie Maldonado draws on 15 years of research to clarify key facts about measles outbreaks, vaccine effectiveness, and who\u2019s most at risk.",
+      "url": "https://news.stanford.edu/stories/2025/05/facts-research-what-to-know-measles-outbreak-vaccine-safety-immunization",
+      "urlToImage": "https://news.stanford.edu/__data/assets/image/0019/170164/Bonnie-Maldonado-Portrait.jpg",
+      "publishedAt": "2025-05-12 00:00:00",
+      "content": "The United States is on track to experience the largest outbreak of measles since health officials declared the disease eliminated from the country in 2000. This year alone has seen more than 1,000ca\u2026 [+7306 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.293029",
+      "internal_id": "3e2b264a3961f48613205b4975de4584955bbd983acd8d0b9cae109467bd2077",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21197,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "zhangjing@henau.edu.cn (Fujie Zhao), zhangjing@henau.edu.cn (Jing Zhang), zhangjing@henau.edu.cn (Siyu Wang), zhangjing@henau.edu.cn (Yao Meng), zhangjing@henau.edu.cn (Ying Liang), zhangjing@henau.edu.cn (Yixuan Jiang), zhangjing@henau.edu.cn (Youbao Zhao), zhangjing@henau.edu.cn (Zhanxiang Liu), zhangjing@henau.edu.cn (Zhenguo Lu)",
+      "title": "Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans",
+      "description": "Rtf1 is generally considered to be a subunit of the Paf1 complex (Paf1C), which is a multifunctional protein complex involved in histone modification and RNA biosynthesis at multiple stages. Rtf1 is stably associated with the Paf1C in Saccharomyces cerevisiae\u2026",
+      "url": "https://elifesciences.org/articles/99229",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2025-05-12 00:00:00",
+      "content": "In eukaryotes, gene transcription is regulated by dynamic changes in chromatin. The posttranslational modifications of core histones, including acetylation, methylation, and ubiquitination, represent\u2026 [+4200 chars]",
+      "retrievedAt": "2025-05-13 07:08:00.235888",
+      "internal_id": "8eedadfa66d918397f352b2b3a721cdc45723439ccc82f90abf67ac0c52f340c",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KMBC Kansas City",
+      "author": "Kmbc 9 News Staff",
+      "title": "Kansas issues measles exposure warning for Wichita airport on May 2",
+      "description": "Kansas health officials warn of possible measles exposure at Wichita\u2019s Eisenhower Airport on May 2. CDC reports over 1,000 cases nationwide in 2025.",
+      "url": "https://www.kmbc.com/article/kansas-measles-warning-wichita-airport-exposure-may-2-2025/64737671",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/61f07f02-7ccc-4f30-942d-4c49bd1bbed1/a74813e0-3465-473f-9a78-b7bc964b8ba5.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "publishedAt": "2025-05-11 23:54:28",
+      "content": "WICHITA, Kan. \u2014State health officials are warning travelers about potential measles exposure at Wichitas Dwight D. Eisenhower National Airport earlier this month. According to the Kansas Department \u2026 [+518 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.507437",
+      "internal_id": "1e85fb95ddf3edc7f5b6ff6846d6015f3bf6d85a0eafc6d5185e1b4601a05c94",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21193,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "League Cricket",
+      "title": "Vaccine rates putting NZ at risk of measles outbreak - health expert",
+      "description": "Alerts have been issued after a new measles case was confirmed yesterday, with people in Auckland asked to check if they could have been exposed.",
+      "url": "https://www.1news.co.nz/2025/05/12/vaccine-rates-putting-nz-at-risk-of-measles-outbreak-health-expert/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/measles-mmr-vaccine-ADPMQPSHXNDPVDE4WFNFPGK2XU.jpg?auth=2c576eaac7fe9797c549ed7f6f0c3c458c4d06d4212c36f7f89c2166a589a3d8&quality=70&width=600&height=315&focal=949%2C527",
+      "publishedAt": "2025-05-11 22:25:22",
+      "content": "A health expert says New Zealand's immunisation rates are putting the country at risk of a measles outbreak. Alerts have been issued after a new measles case was confirmed yesterday, with people in \u2026 [+3770 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.532318",
+      "internal_id": "c307927dca02336f4fba94b6230f11a17b3225bb5c7e5f5453b761c1cd7bc33b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21194,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "RNZ",
+      "author": "Rnz News",
+      "title": "Vaccine rates putting New Zealand at risk of measles outbreak, health expert says",
+      "description": "People in Auckland have been asked to check if they could have been exposed after a new measles case was confirmed on Sunday.",
+      "url": "https://www.rnz.co.nz/news/national/560669/vaccine-rates-putting-new-zealand-at-risk-of-measles-outbreak-health-expert-says",
+      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--OaswgYpU--/t_tohu-badge-facebook/v1742958986/4K9XLMG_cdc_3994_NiNyqM_unsplash_jpg?_a=BACCd2AD",
+      "publishedAt": "2025-05-11 21:30:46",
+      "content": "A medic applies a plaster, after a person has been given an influenza vaccine. Photo: CDC A health expert says New Zealand's immunisation rates are putting the country at risk of a measles outbreak.\u2026 [+3729 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.540278",
+      "internal_id": "093648b46690bcb09dc2f6e7a33bea55acf59daee3a484b7ae68099f476ccb57",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21195,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Sharnie Kim",
+      "title": "Queensland city records first local dengue fever case in seven years",
+      "description": "Cairns was declared \"essentially dengue-free\" but has now recorded its first locally-transmitted case of the mosquito-borne illness since 2018.",
+      "url": "https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ba4cf36950a6cb1160af2ada7418f661?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-11 20:30:17",
+      "content": "A Queensland city that had been declared \"essentially dengue-free\" has recorded its first locally-transmitted case of the mosquito-borne illness in seven years. Cairns, in the state's far north, use\u2026 [+3228 chars]",
+      "retrievedAt": "2025-05-13 07:08:00.082339",
+      "internal_id": "e2c6e3332803cb7f439f10fbbcbb21ec248239ae3773b9eff4e3b26f1fad4ab6",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21198,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Dr Phangcho assesses malaria outbreak in BTR\u2019s Kokrajhar and Chirang",
+      "description": "HT CorrespondentKOKRAJHAR, May 11: Director of Health Services, Assam, Dr Umesh Phangcho concluded his two-day visit to Kokrajhar and Chirang districts in the Bodoland Territorial Region (BTR) on Sunday. The visit was carried out as per the directive of the H\u2026",
+      "url": "https://thehillstimes.in/assam/dr-phangcho-assesses-malaria-outbreak-in-btrs-kokrajhar-and-chirang",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/05/Dr-Phangcho-assesses-malaria-outbreak-in-BTRs-Kokrajhar-and-Chirang.jpg",
+      "publishedAt": "2025-05-11 20:30:00",
+      "content": "HT CorrespondentKOKRAJHAR, May 11: Director of Health Services, Assam, Dr Umesh Phangcho concluded his two-day visit to Kokrajhar and Chirang districts in the Bodoland Territorial Region (BTR) on Sun\u2026 [+1784 chars]",
+      "retrievedAt": "2025-05-13 07:08:00.488148",
+      "internal_id": "78e90f6d87a4574cea55609815ccdad492d285ec7855841681dfbd42b5e54c77",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Simon Little",
+      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
+      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
+      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-05-11 18:35:34",
+      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.481516",
+      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Viconsortium.com",
+      "author": null,
+      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
+      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
+      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
+      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
+      "publishedAt": "2025-05-11 11:50:10",
+      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.456169",
+      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
+      "publishedAtLabel": "May 11"
+    },
     {
       "id": 21171,
       "query": [
@@ -38,6 +308,24 @@
       "retrievedAt": "2025-05-12 19:06:25.454665",
       "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21176,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Surrey Now-Leader",
+      "author": "Email Share",
+      "title": "OPINION: Keep politics out of public health as measles cases rise",
+      "description": "OPINION: Keep politics out of public health as measles cases risesurreynowleader.com",
+      "url": "https://www.surreynowleader.com/opinion/opinion-keep-politics-out-of-public-health-as-measles-cases-rise-7998091",
+      "urlToImage": "https://www.bpmcdn.com/f/files/peacearch/2025-february/measles-vaccine-adobestock_265302546-1.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-10 22:25:59",
+      "content": "In 1986, Roald Dahl, the famous childrens author, wrote a letter to British parents, sharing his eldest daughters tragic story. Olivia caught measles in 1962; at the time she was seven. Dahl describe\u2026 [+7713 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.388046",
+      "internal_id": "32aa02a312d92674567674f003645a0fc036f1e6edb651b9d207830b79e51027",
+      "publishedAtLabel": "May 10"
     },
     {
       "id": 21166,
@@ -113,6 +401,42 @@
       "publishedAtLabel": "May 10"
     },
     {
+      "id": 21180,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC New York",
+      "author": "Devi Shastri | The Associated Press",
+      "title": "The US has 1,001 measles cases, 11 states with active outbreaks",
+      "description": "The US has 1,001 measles cases, 11 states with active outbreaksnbcnewyork.com",
+      "url": "https://www.nbcnewyork.com/news/national-international/united-states-1001-measles-cases-11-states-active-outbreaks/6259192/",
+      "urlToImage": "https://media.nbcnewyork.com/2025/05/AP25129545975505.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-05-10 17:14:04",
+      "content": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago. Texas still accounts for the v\u2026 [+8295 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.422433",
+      "internal_id": "a5505690ccd7d9dc0d2080cab6551c37a030353d043f4325c6cc5a98fde163fa",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 21182,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "May 10",
+      "title": "The US has 1,001 measles cases and 11 states with active outbreaks, including Pennsylvania and Ohio",
+      "description": "The US has 1,001 measles cases and 11 states with active outbreaks, including Pennsylvania and Ohiocbsnews.com",
+      "url": "https://www.cbsnews.com/pittsburgh/news/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/03/00616d48-60f5-4598-a75f-65bf33b8076c/thumbnail/1200x630/cbcdf061cf72930f6d2464599311a980/gettyimages-1328334860.jpg?v=e61856d8e666e7ed5709adc37bb2d465",
+      "publishedAt": "2025-05-10 16:42:14",
+      "content": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago. Texas still accounts for the v\u2026 [+8031 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.439374",
+      "internal_id": "599a8a7577fe936d5fcba7122617767d83f1006482af2049383ae974b491cb9e",
+      "publishedAtLabel": "May 10"
+    },
+    {
       "id": 21161,
       "query": [
         "dengue",
@@ -129,6 +453,24 @@
       "content": "From Aishwarya Rai to Katrina Kaif: Bollywood Actresses who rocked in bold and unique lipstick shades",
       "retrievedAt": "2025-05-11 19:05:38.738248",
       "internal_id": "17604bfe3671a1c011408813dceab2a899571c2b746f2052ecf2ac6cea83f5a3",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 21189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Rob Port",
+      "title": "Port: Tax the unvaccinated",
+      "description": "This outbreak was a choice made by thousands of North Dakotans who decided to value the medical advice of politicians, social media influencers and crank chiropractors. They should pay for it.",
+      "url": "https://www.inforum.com/opinion/columns/port-tax-the-unvaccinated",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/1a81eaf/2147483647/strip/true/crop/5691x3794+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F61%2Fae%2Fdeab549f42138b63c7edb58cfdd1%2F05xx25-n-ff-measles-2.jpg",
+      "publishedAt": "2025-05-10 13:11:44",
+      "content": "MINOT The North Dakota Department of Health has confirmed nine cases of measles in Williams County, all of them involving unvaccinated individuals. Nearly 200 school students are now under quarant\u2026 [+3012 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.499536",
+      "internal_id": "302dc433bbf0986cdfebc629bae2b744718556d7cf8cb90e41a34d404a8ada51",
       "publishedAtLabel": "May 10"
     },
     {
@@ -276,6 +618,24 @@
       "publishedAtLabel": "May 10"
     },
     {
+      "id": 21191,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Mary Kekatos",
+      "title": "US surpasses 1,000 measles cases for 1st time in 5 years, CDC data shows",
+      "description": "The U.S. has surpassed 1,000 measles cases for the first time in five years, according to new data from the CDC published Friday.",
+      "url": "https://6abc.com/post/us-surpasses-1000-measles-cases-1st-time-5-years-cdc-data-shows/16367770/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/3965428_081518-cc-measles-split-img.jpg?w=1600",
+      "publishedAt": "2025-05-09 23:40:58",
+      "content": "CHICAGO -- The U.S. has surpassed 1,000 measles cases for the first time in five years, according to new data from the Centers for Disease Control and Prevention (CDC) published Friday. A total of 1\u2026 [+1028 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.515373",
+      "internal_id": "e51c584b3423fb052094d73eaf2e0211270f3cf4b8be8d74daa0499d4ddcf55a",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 21155,
       "query": [
         "measles"
@@ -330,6 +690,24 @@
       "publishedAtLabel": "May 9"
     },
     {
+      "id": 21186,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren | CNN",
+      "description": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-century ago, and a recent outbreak in one North Dakota county led local health officials to quarantine nearl\u2026",
+      "url": "https://www.cnn.com/2025/05/09/health/measles-outbreak-north-dakota",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-462803914.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-09 21:37:57",
+      "content": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-century ago. Now, a recent outbreak in one North\u2026 [+3668 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.473500",
+      "internal_id": "e0c104233c79d4c5234c3735ace897b8bfdcd567ffb903887c3a4fb040256974",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 21156,
       "query": [
         "dengue",
@@ -346,6 +724,24 @@
       "content": "There are more insects on the planet than any other form of life. We are reminded of that fact as summertime approaches and bugs like fruit flies and mosquitoes invade our homes and yards. But these \u2026 [+5067 chars]",
       "retrievedAt": "2025-05-11 07:06:44.753987",
       "internal_id": "fd374f054fd4b35a8aeee20746a8eba33c9711d8f4e57b43305dccbed63c0a83",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21179,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSAT San Antonio",
+      "author": "Devi Shastri",
+      "title": "The US has 1,001 measles cases and 11 states with active outbreaks",
+      "description": "The US has 1,001 measles cases and 11 states with active outbreaksksat.com",
+      "url": "https://www.ksat.com/health/2025/05/09/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HATX5DAEMNGDZPM57LU7LMWEFQ.jpg?_a=DATAdtccZAA0",
+      "publishedAt": "2025-05-09 20:40:30",
+      "content": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago. Texas still accounts for the v\u2026 [+8747 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.413366",
+      "internal_id": "3b45e9b8f0a53d57b7411eebfa1efbf0c4faf73933c865f298bff64e86bd4e52",
       "publishedAtLabel": "May 9"
     },
     {
@@ -367,6 +763,24 @@
       "publishedAtLabel": "May 9"
     },
     {
+      "id": 21183,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Ken Macgillivray",
+      "title": "Confirmed cases of measles in Alberta now at 326, continue to rise | Globalnews.ca",
+      "description": "The number of confirmed cases of measles in Alberta has now reached 326 with 97 of them in children under 5 years of age and three people in intensive care.",
+      "url": "http://globalnews.ca/news/11172738/confirmed-cases-measles-alberta-326/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-2.jpg?quality=85&strip=all&w=516&h=375&crop=1",
+      "publishedAt": "2025-05-09 19:57:11",
+      "content": "The number of Albertans who have contracted measles since cases were first detected in March has now reached 326. The Alberta government\u2019s latest update reports 13 more cases of the highly contagiou\u2026 [+1370 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.447424",
+      "internal_id": "97b0cf5e7fc421721c1e3a5005c59420f32adc5c41dbe8c962b17b72cf08a3dd",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 21152,
       "query": [
         "measles"
@@ -385,6 +799,42 @@
       "publishedAtLabel": "May 9"
     },
     {
+      "id": 21178,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSB Radio",
+      "author": "Devi Shastri",
+      "title": "The US has 1,001 measles cases and 11 states with active outbreaks",
+      "description": "The US has 1,001 measles cases and 11 states with active outbreakswsbradio.com",
+      "url": "https://www.wsbradio.com/news/health/us-has-1001-measles/X4F3QRPTQVEIBKSLMS5FJVGL2E/",
+      "urlToImage": "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FP6TUJWE3WUDDQBBI3YIWSDGRIU.jpg?auth=cab6f5a143f1d8784260357a97d2022b85f3d1d1f8567a108fc6d21c0601791e&width=1200&height=630&smart=true",
+      "publishedAt": "2025-05-09 19:32:33",
+      "content": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago. Texas still accounts for the va\u2026 [+8734 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.404721",
+      "internal_id": "2e08ca15b29ba072935dad90ed4c942d035f43f1895c51bb80b6cdb4a6a53f4e",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21177,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Adam Fullerton",
+      "title": "Texas measles outbreak: Spread appears to slow in West Texas",
+      "description": "Two children have died, and 92 people have been hospitalized with measles since the start of the outbreak in late January, according to Texas health officials.",
+      "url": "https://www.fox4news.com/news/texas-measles-outbreak-may-9",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2025/05/1280/720/gettyimages-2201696856.jpg?ve=1&tl=1",
+      "publishedAt": "2025-05-09 19:06:59",
+      "content": "The measles outbreak in West Texas appears to be slowing, according to newly released data from the Texas Department of State Health Services. Officials reported seven new cases in connection to the\u2026 [+6561 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.396430",
+      "internal_id": "37daa642c0339b997cbd4726f0a70a59715331f5368b4b56fe063ec7c54c29d0",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 21141,
       "query": [
         "measles"
@@ -400,6 +850,24 @@
       "content": "LOS ANGELES, May 9 (Xinhua) -- The United States has reported more than 1,000 measles cases so far in 2025, according to the latest data released by the U.S. Centers for Disease Control and Preventio\u2026 [+626 chars]",
       "retrievedAt": "2025-05-10 19:05:47.186485",
       "internal_id": "10c4c4ee1d35f34980faa3736ad3229f72865fb961663dec5e68848f45ffd066",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Honolulu Star-Advertiser",
+      "author": "Reuters",
+      "title": "U.S. measles cases top 1,000, raising fears of resurgence | Honolulu Star-Advertiser",
+      "description": "Cases of measles in the U.S. have crossed the 1,000 mark for the first time in five years, federal data showed today.",
+      "url": "https://www.staradvertiser.com/2025/05/09/breaking-news/u-s-measles-cases-top-1000-raising-fears-of-resurgence/",
+      "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2025/05/web1_2025-05-09T152701Z_1_LYNXMPEL480NW_RTROPTP_3_USA-HEALTH-MEASLES.JPG",
+      "publishedAt": "2025-05-09 18:45:07",
+      "content": "Cases of measles in the U.S. have crossed the 1,000 mark for the first time in five years, federal data showed today. The U.S. Centers for Disease Control and Prevention reported 1,001 cases of the \u2026 [+1334 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.490802",
+      "internal_id": "dfd8a2c838b26281480b5243593b7eb22c0827b06e4bd9eba13bd2c30421e4bc",
       "publishedAtLabel": "May 9"
     },
     {
@@ -565,6 +1033,24 @@
       "publishedAtLabel": "May 9"
     },
     {
+      "id": 21192,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KGO-TV",
+      "author": "Mary Kekatos",
+      "title": "US surpasses 1,000 measles cases for 1st time in 5 years, CDC data shows",
+      "description": "The U.S. has surpassed 1,000 measles cases for the first time in five years, according to new data from the CDC published Friday.",
+      "url": "https://abc7news.com/post/us-surpasses-1000-measles-cases-1st-time-5-years-cdc-data-shows/16367770/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/3965428_081518-cc-measles-split-img.jpg?w=1600",
+      "publishedAt": "2025-05-09 16:56:18",
+      "content": "The U.S. has surpassed 1,000 measles cases for the first time in five years, according to new data from the Centers for Disease Control and Prevention (CDC) published Friday. A total of 1,001 cases \u2026 [+1017 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.523702",
+      "internal_id": "6f1d76f082c96b4198fcfc561de85207842903e6a296e1792dfe61981fe0026b",
+      "publishedAtLabel": "May 9"
+    },
+    {
       "id": 21133,
       "query": [
         "measles"
@@ -652,6 +1138,24 @@
       "content": "Administering the measles vaccine to a child at a health center in Lubbock, Texas - Copyright AFP/File RONALDO SCHEMIDT The United States\u2019 measles outbreak has surpassed 1,000 confirmed cases with t\u2026 [+3437 chars]",
       "retrievedAt": "2025-05-10 19:05:47.124513",
       "internal_id": "1c7fc93b3062c201529a5f845b683e49a1a2df55b0fc39409044721ed45ebfe4",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21185,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "US surpasses 1,000 measles cases for 1st time in 5 years: CDC",
+      "description": "US surpasses 1,000 measles cases for 1st time in 5 years: CDCgo.com",
+      "url": "https://abcnews.go.com/Health/us-surpasses-1000-measles-cases-1st-time-5/story?id=121635906",
+      "urlToImage": "https://i.abcnewsfe.com/a/c5c0b432-75a4-415d-ba52-ce0606bcc4a2/measles-testing-sign-gty-jt-250311_1741733337889_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-05-09 16:07:33",
+      "content": "The U.S. has surpassed 1,000 measles cases for the first time in five years, according to new data from the Centers for Disease Control and Prevention (CDC) published Friday. A total of 1,001 cases \u2026 [+1017 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.465236",
+      "internal_id": "c90893192686c7c20d059378a66323ebfbc6c70aaa4b7f85ba8bb8851564045a",
       "publishedAtLabel": "May 9"
     },
     {
@@ -904,6 +1408,24 @@
       "content": "With 16 new measles cases reported in Alberta on Thursday, the province's number of confirmed cases has surged past the 300 mark and currently sits at 313. These cases 14 in the south zone and one e\u2026 [+3166 chars]",
       "retrievedAt": "2025-05-10 07:06:16.638533",
       "internal_id": "3509ce93d32e3a8c11cbcb7da30c9844f7098f7c22ec9a7d35b3e0ec0b7bf875",
+      "publishedAtLabel": "May 9"
+    },
+    {
+      "id": 21181,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WKTV",
+      "author": "Zach Lewis",
+      "title": "New Measles Cases Confirmed in New York State",
+      "description": "The New York State Department of Health has announced the confirmation of three additional measles cases, bringing the total to seven for the year.",
+      "url": "https://www.wktv.com/news/health/new-measles-cases-confirmed-in-new-york-state/article_e98d6c83-6b3c-4a27-91d6-efa310e40013.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/0/b0/0b08b2a6-feb7-11ef-8c10-7f48a06bfd79/67d09c65663fa.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-09 03:00:54",
+      "content": "ALBANY, N.Y. -- The New York State Department of Health has announced the confirmation of three additional measles cases, bringing the total to seven for the year. \"The cases were identified in pati\u2026 [+801 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.430658",
+      "internal_id": "0eb428771c84019e820c3c3d4bb949ff59f0db37d1dec078f9cb111c26aa7d87",
       "publishedAtLabel": "May 9"
     },
     {
@@ -23667,6 +24189,96 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
+      "url": "https://www.memeorandum.com/250330/p40",
+      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
+      "publishedAt": "2025-03-30 17:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.218453",
+      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
+      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
+      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-03-30 13:00:00",
+      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.251385",
+      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19849,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, some parents become vaccine enthusiasts",
+      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
+      "publishedAt": "2025-03-30 11:00:00",
+      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.275347",
+      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19848,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Outbreak Worsens in Texas and New Mexico",
+      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
+      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-30 10:26:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.259886",
+      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19850,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
+      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-30 09:00:00",
+      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.371851",
+      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-05-12 19:06
-- **Most recent article:** 2025-05-11 09:21:11
+- **New articles in last harvest:** 29
+- **Last harvest:** 2025-05-13 07:08
+- **Most recent article:** 2025-05-12 06:48:40
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 145 | 82 | 107 | 88 | 65 | 0 | 557 |
+| measles | 75 | 145 | 82 | 107 | 88 | 79 | 9 | 585 |
 | h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 1 | 163 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 0 | 148 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 0 | 142 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 0 | 112 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 2 | 150 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 2 | 144 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 1 | 113 |
 | mpox | 17 | 18 | 10 | 5 | 11 | 11 | 0 | 72 |
-| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 1 | 46 |
+| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 2 | 47 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 0 | 33 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
@@ -33,11 +33,49 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (meningitis)
 
+- [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
+
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
+## 25-20 (measles)
+
+- [Measles alert in Auckland: Risks, symptoms, and prevention](https://economictimes.indiatimes.com/news/international/new-zealand/measles-alert-in-auckland-risks-symptoms-and-prevention/articleshow/121100311.cms) (The Times of India)
+
+- [Measles Could Become Endemic in US if Surge Continues, Expert Warns](https://www.sciencealert.com/measles-could-become-endemic-in-us-if-surge-continues-expert-warns) (ScienceAlert)
+
+- [MMR vaccine doesn't contain 'a lot of aborted fetus debris,' contrary to RFK's assertion](https://www.snopes.com//fact-check/mmr-vaccine-aborted-fetus-debris/) (Snopes.com)
+
+- [Five things to know about measles risks and vaccine safety](https://news.stanford.edu/stories/2025/05/facts-research-what-to-know-measles-outbreak-vaccine-safety-immunization) (Stanford.edu)
+
+- [Kansas issues measles exposure warning for Wichita airport on May 2](https://www.kmbc.com/article/kansas-measles-warning-wichita-airport-exposure-may-2-2025/64737671) (KMBC Kansas City)
+
+- [Vaccine rates putting NZ at risk of measles outbreak - health expert](https://www.1news.co.nz/2025/05/12/vaccine-rates-putting-nz-at-risk-of-measles-outbreak-health-expert/) (1news.co.nz)
+
+- [Vaccine rates putting New Zealand at risk of measles outbreak, health expert says](https://www.rnz.co.nz/news/national/560669/vaccine-rates-putting-new-zealand-at-risk-of-measles-outbreak-health-expert-says) (RNZ)
+
+- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
+
+- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
+
+## 25-20 (malaria)
+
+- [Dr Phangcho assesses malaria outbreak in BTR’s Kokrajhar and Chirang](https://thehillstimes.in/assam/dr-phangcho-assesses-malaria-outbreak-in-btrs-kokrajhar-and-chirang) (Thehillstimes.in)
 
 ## 25-20 (h5n1)
 
 - [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
+
+## 25-20 (dengue)
+
+- [Che tempo che fa, Burioni: "Bisogna evitare un focolaio di zanzare dengue"](https://www.ansa.it/sito/videogallery/italia/2025/05/12/che-tempo-che-fa-burioni-bisogna-evitare-un-focolaio-di-zanzare-dengue_cf34de17-9b8c-44a1-8e51-318d02f07bfb.html) (ANSA.it)
+
+- [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
+
+## 25-20 (chikungunya)
+
+- [FDA and CDC Recommend Pause in Use of Ixchiq (Chikungunya Vaccine, Live) in Individuals 60 Years of Age and Older While Postmarketing Safety Reports are Investigated: FDA Safety Communication](https://www.fda.gov/safety/medical-product-safety-information/fda-and-cdc-recommend-pause-use-ixchiq-chikungunya-vaccine-live-individuals-60-years-age-and-older) (FDA.gov)
+
+- [Level 2 - Chikungunya in the Region of the Indian Ocean](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-indian-ocean-islands) (Cdc.gov)
 
 ## 25-19 (zika)
 
@@ -121,11 +159,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-19 (measles)
 
+- [OPINION: Keep politics out of public health as measles cases rise](https://www.surreynowleader.com/opinion/opinion-keep-politics-out-of-public-health-as-measles-cases-rise-7998091) (Surrey Now-Leader)
+
 - [Measles Cases In The U.S. Just Hit 1,000. RFK Jr. Still Isn't Taking It Seriously.](https://www.huffpost.com/entry/us-measles-cases-1000-rfk-jr-hhs_n_681f8e4be4b0108bb6b70ed3) (HuffPost)
 
 - [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.wpxi.com/news/local/us-has-1001-measles-cases-11-states-with-active-outbreaks/JZXUTYNWHZGEJL6F5VGQGTNN3Y/) (WPXI Pittsburgh)
 
+- [The US has 1,001 measles cases, 11 states with active outbreaks](https://www.nbcnewyork.com/news/national-international/united-states-1001-measles-cases-11-states-active-outbreaks/6259192/) (NBC New York)
+
+- [The US has 1,001 measles cases and 11 states with active outbreaks, including Pennsylvania and Ohio](https://www.cbsnews.com/pittsburgh/news/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/) (CBS News)
+
+- [Port: Tax the unvaccinated](https://www.inforum.com/opinion/columns/port-tax-the-unvaccinated) (INFORUM)
+
 - [Measles Outbreak the Worst in 25 Years With Over 1,000 Cases](https://legalinsurrection.com/2025/05/measles-outbreak-the-worst-in-25-years-with-over-1000-cases/) (Legalinsurrection.com)
+
+- [US surpasses 1,000 measles cases for 1st time in 5 years, CDC data shows](https://6abc.com/post/us-surpasses-1000-measles-cases-1st-time-5-years-cdc-data-shows/16367770/) (WPVI-TV)
 
 - ["Spreading Like Wildfire": Over 1,000 Measles Cases Reported In US](https://www.ndtv.com/world-news/spreading-like-wildfire-over-1-000-measles-cases-reported-in-us-8376150) (NDTV News)
 
@@ -133,17 +181,31 @@ Source: [News API](https://newsapi.org/)
 
 - [Eastern Ontario Health Unit confirms 2 cases of measles](https://www.cbc.ca/news/canada/ottawa/eastern-ontario-health-unit-confirms-2-cases-of-measles-1.7531646) (CBC News)
 
+- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren | CNN](https://www.cnn.com/2025/05/09/health/measles-outbreak-north-dakota) (CNN)
+
+- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.ksat.com/health/2025/05/09/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/) (KSAT San Antonio)
+
 - [The U.S. has 1,001 measles cases and 11 states with active outbreaks](https://www.nbcnews.com/health/kids-health/us-1001-measles-cases-11-states-outbreaks-virus-spreading-rcna205948) (NBC News)
+
+- [Confirmed cases of measles in Alberta now at 326, continue to rise | Globalnews.ca](http://globalnews.ca/news/11172738/confirmed-cases-measles-alberta-326/) (Global News)
 
 - [CDC Issues Measles Update as Number of Cases Grows](https://www.newsweek.com/cdc-measles-update-number-cases-increases-2070404) (Newsweek)
 
+- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.wsbradio.com/news/health/us-has-1001-measles/X4F3QRPTQVEIBKSLMS5FJVGL2E/) (WSB Radio)
+
+- [Texas measles outbreak: Spread appears to slow in West Texas](https://www.fox4news.com/news/texas-measles-outbreak-may-9) (FOX 4 News)
+
 - [U.S. reports over 1,000 measles cases so far in 2025](https://www.thestar.com.my/news/world/2025/05/10/us-reports-over-1000-measles-cases-so-far-in-2025) (The Star Online)
+
+- [U.S. measles cases top 1,000, raising fears of resurgence | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/05/09/breaking-news/u-s-measles-cases-top-1000-raising-fears-of-resurgence/) (Honolulu Star-Advertiser)
 
 - [US measles cases surpass 1,000. There were 285 total cases in 2024.](https://www.usatoday.com/story/news/health/2025/05/09/measles-cases-2025-states-outbreak-map/83371830007/) (USA Today)
 
 - [Measles math: What to know about 1,001 measles cases across the country](https://www.npr.org/sections/shots-health-news/2025/05/09/nx-s1-5393762/measles-math-what-to-know-about-1-001-measles-cases-across-the-country) (NPR)
 
 - [Measles hits 1,000 cases — for the second time in 30 years (Sophie Gardner/Politico)](https://www.memeorandum.com/250509/p78) (Memeorandum.com)
+
+- [US surpasses 1,000 measles cases for 1st time in 5 years, CDC data shows](https://abc7news.com/post/us-surpasses-1000-measles-cases-1st-time-5-years-cdc-data-shows/16367770/) (KGO-TV)
 
 - [Measles Hits 1,000 Cases](https://politicalwire.com/2025/05/09/measles-hits-1000-cases/) (Politicalwire.com)
 
@@ -155,6 +217,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles roars back in the US, topping 1,000 cases](https://www.digitaljournal.com/life/measles-roars-back-in-the-us-topping-1000-cases/article) (Digital Journal)
 
+- [US surpasses 1,000 measles cases for 1st time in 5 years: CDC](https://abcnews.go.com/Health/us-surpasses-1000-measles-cases-1st-time-5/story?id=121635906) (ABC News)
+
 - [An Insider's View of the Texas Measles Outbreak](https://www.npr.org/sections/shots-health-news/2025/05/09/nx-s1-5392323/an-insiders-view-of-the-texas-measles-outbreak) (NPR)
 
 - [Vaccine teams in Mexico scramble over measles outbreak rippling out from Mennonite community](https://abcnews.go.com/International/wireStory/vaccine-teams-mexico-scramble-measles-outbreak-rippling-mennonite-121628033) (ABC News)
@@ -164,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine teams in Mexico scramble over measles outbreak from Mennonite community](https://abcnews.go.com/Health/wireStory/vaccine-teams-mexico-scramble-measles-outbreak-rippling-mennonite-121628034) (ABC News)
 
 - [Experts urge immunization as Alberta measles count passes 300](https://www.cbc.ca/news/canada/calgary/alberta-measles-three-hundred-1.7530648) (CBC News)
+
+- [New Measles Cases Confirmed in New York State](https://www.wktv.com/news/health/new-measles-cases-confirmed-in-new-york-state/article_e98d6c83-6b3c-4a27-91d6-efa310e40013.html) (WKTV)
 
 - [RFK Jr.’s Measles Policy: Deaths Are Expected And It’s The Victim’s Fault](https://www.techdirt.com/2025/05/08/rfk-jr-s-measles-policy-deaths-are-expected-and-its-the-victims-fault/) (Techdirt)
 
@@ -2708,6 +2774,16 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
