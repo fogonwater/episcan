@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-05-13 19:06",
-  "count_articles_total": 1365,
-  "count_articles_new": 24,
+  "last_updated": "2025-05-14 07:08",
+  "count_articles_total": 1391,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 21245,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Lutte contre les moustiques : des nu\u00e9es de m\u00e2les st\u00e9riles largu\u00e9es sur Brive-la-Gaillarde",
+      "description": "En exclusivit\u00e9, \u00ab Le Point \u00bb a pu p\u00e9n\u00e9trer dans la premi\u00e8re usine de st\u00e9rilisation de moustiques tigres, vecteurs de maladies comme le Chikungunya. But de l\u2019op\u00e9ration ? Lutter contre leur prolif\u00e9ration.",
+      "url": "https://www.lepoint.fr/sante/lutte-contre-les-moustiques-des-nuees-de-males-steriles-larguees-sur-brive-la-gaillarde-13-05-2025-2589479_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/05/13/27596354lpw-27596375-mega-une-jpg_11100206.jpg",
+      "publishedAt": "2025-05-13 06:30:00",
+      "content": "Ils sont costauds, bagarreurs et t\u00e9m\u00e9raires. Pourtant, les rugbymans du CA de Brive-la-Gaillarde, leaders de la Pro D2, ne font pas le poids face \u00e0 un nouvel adversaire de quelques millim\u00e8tres. Aux b\u2026 [+9517 chars]",
+      "retrievedAt": "2025-05-14 07:08:00.662769",
+      "internal_id": "250e3df3682b91aa3fba6542c7b59dbbd822a2e66d1396de41498ef834d5298f",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21242,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Una nueva prueba diagnostica la meningitis bacteriana m\u00e1s r\u00e1pido y mejor",
+      "description": "Investigadores del UMC de \u00c1msterdam (Pa\u00edses Bajos) han desarrollado una nueva prueba diagn\u00f3stica que permite diagnosticar la meningitis bacteriana con rapidez y precisi\u00f3n. Esta prueba mide la prote\u00edna PCR en el l\u00edquido cefalorraqu\u00eddeo, una prote\u00edna que ya se \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-nueva-prueba-diagnostica-meningitis-bacteriana-mas-rapido-mejor-20250513074054.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250513074054_1200.jpg",
+      "publishedAt": "2025-05-13 05:40:54",
+      "content": "MADRID, 13 May. (EUROPA PRESS) - Investigadores del UMC de \u00c1msterdam (Pa\u00edses Bajos) han desarrollado una nueva prueba diagn\u00f3stica que permite diagnosticar la meningitis bacteriana con rapidez y \u2026 [+3064 chars]",
+      "retrievedAt": "2025-05-14 07:07:59.816500",
+      "internal_id": "f30a234c5c9aeffa71565512b1d5c47bdb4772ccd6d4236e6ab4293a7c1c61fe",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21240,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Johor sees drop in dengue cases, rise in HFMD",
+      "description": "JOHOR BARU: Johor recorded a decline in dengue cases with 147 cases in epidemiological week 19 (ME19) from 171 cases the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/05/13/johor-sees-drop-in-dengue-cases-rise-in-hfmd",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/05/13/3312289.jpeg",
+      "publishedAt": "2025-05-13 05:12:00",
+      "content": "JOHOR BARU: Johor recorded a decline in dengue cases with 147 cases in epidemiological week 19 (ME19) from 171 cases the previous week. State health and unity committee chairman Ling Tian Soon said \u2026 [+1997 chars]",
+      "retrievedAt": "2025-05-14 07:07:59.385829",
+      "internal_id": "29c6ee1c7b016454f0cb31e49242f051d1766de98addf14431f62e2f66ef8854",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21239,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0413\u0440\u0430\u0444\u0441\u043a\u0430\u044f",
+      "title": "\u0421\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u043e \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0438 \u0440\u0438\u0441\u043a\u0430 \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438",
+      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f (H5N1) \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439, \u0447\u0435\u043c \u0441\u0447\u0438\u0442\u0430\u043b\u043e\u0441\u044c \u0440\u0430\u043d\u0435\u0435. \u0423\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0428\u043a\u043e\u043b\u044b \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434\u0430 \u043f\u0440\u043e\u0432\u0435\u043b\u0438 \u043e\u0431\u0437\u043e\u0440 \u043c\u0438\u0440\u043e\u0432\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u0437\u0430 20 \u043b\u0435\u0442 \u0438 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0438: \u0432\u0438\u0440\u0443\u0441 \u043c\u0443\u0442\u0438\u0440\u0443\u0435\u0442 \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0432\u0438\u0434\u0430\u2026",
+      "url": "https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/05/12/16/20250512162748546/share_0ec676c02d98772fea21f517c1dbdd9d.jpg",
+      "publishedAt": "2025-05-13 04:31:30",
+      "content": "(H5N1) , . 20 : , , . Open Forum Infectious Diseases. , : , 607 18 . , . . , . , . , , - . 2025 H5N1. , .",
+      "retrievedAt": "2025-05-14 07:07:59.167723",
+      "internal_id": "9db33007f76cc710f2f6f7e5453f6616bf66a22324347d3a0f4d8b3ea3dbc480",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21231,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "April Baumgarten",
+      "title": "More than 800 Fargo-Moorhead area students are not vaccinated for measles, districts say",
+      "description": "With two measles cases reported in Cass County, North Dakota health officials have not ordered schools in Fargo or West Fargo to pull unvaccinated children.",
+      "url": "https://www.inforum.com/health/more-than-800-fargo-moorhead-area-students-are-not-vaccinated-for-measles-districts-say",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/420e44a/2147483647/strip/true/crop/4021x2681+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F7b%2Fd9%2F3d94cb074ef49301f8e17c30f783%2F05xx25-n-ff-measles-3.jpg",
+      "publishedAt": "2025-05-13 00:17:11",
+      "content": "FARGO More than 800 students in Fargo, Moorhead and West Fargo public schools do not meet vaccination requirements for measles, school officials say. Those students will remain in class, at least fo\u2026 [+6752 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.672209",
+      "internal_id": "e9046e80dd60823123b553ef807a210cce3ab11c75052e6d6677ec22eae8cd8b",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21230,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Idaho State Journal",
+      "author": "Devi Shastri Associated Press",
+      "title": "The US has 1,001 measles cases and 11 states with active outbreaks",
+      "description": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago.",
+      "url": "https://www.idahostatejournal.com/news/local/the-us-has-1-001-measles-cases-and-11-states-with-active-outbreaks/article_8d71ea4a-42ff-44fe-93a6-fca0eef4001d.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/2e/92edb9bb-1316-511b-8d11-56679a62e263/6802a4b2487ad.image.jpg?crop=1230%2C646%2C0%2C87&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-13 00:16:00",
+      "content": "The U.S. surpassed 1,000 measles cases Friday, even as Texas posted one of its lowest counts of newly confirmed cases since its large outbreak began three months ago. Texas still accounts for the va\u2026 [+5962 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.636897",
+      "internal_id": "d58fe84d02f8632e016df890fc6069f232e8db7d748a97f6fcc6fde97fb76eea",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21243,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Alejandra Sigala",
+      "title": "D\u00eda de la enfermera: las guardianas que defienden la salud desde la precarizaci\u00f3n",
+      "description": "Los enemigos m\u00e1s mortales en la Guerra de Crimea no estaban entre las fuerzas del imperio ruso o del otomano, sino en el aire de los hospitales, donde cientos de soldados libraban una \u2018segunda batalla\u2019 contra infecciones como el c\u00f3lera o la malaria.Fue en aqu\u2026",
+      "url": "https://www.milenio.com/politica/comunidad/como-es-el-panorama-de-la-enfermeria-en-mexico",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/12/mexico-mil-mujeres-dedican-enfermeria.jpg",
+      "publishedAt": "2025-05-12 23:50:00",
+      "content": "Los enemigos m\u00e1s mortales en la Guerra de Crimea no estaban entre las fuerzas del imperio ruso o del otomano, sino en el aire de los hospitales, donde cientos de soldados libraban una segunda batalla\u2026 [+6815 chars]",
+      "retrievedAt": "2025-05-14 07:08:00.248941",
+      "internal_id": "ab62e688487978dedd3801d1508de40879a5725c1e51b82623b3b58c7d738966",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21226,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Zena Chamas",
+      "title": "Measles cases across the country highest we've seen in six years",
+      "description": "Measles cases have reached the highest number of infections nationwide in six years. Health professionals are urging vaccination to prevent further spread.",
+      "url": "https://www.abc.net.au/news/2025-05-13/measles-cases-across-the-country-highest-we-ve-seen-in-six-years/105280894",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_watermark_news&cropH=241&cropW=428&xPos=0&yPos=42&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-12 23:13:28",
+      "content": "Measles cases have reached the highest number of infections nationwide in six years. The National Notifiable Disease Surveillance System shows 71 measles cases have been reported across the country \u2026 [+4066 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.481203",
+      "internal_id": "3c8ed0c5bfd0f6c4e05ee4601b792fbc00498705c2ea3d2a7542b5d1e59e612c",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21228,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "Wastewater surveillance detects measles virus ahead of reported cases: study",
+      "description": "LOS ANGELES, May 12 (Xinhua) -- An innovative disease detection program has identified the measles virus in Houston's wastewater days before official cases were confirmed, offering a promising early warning system amid a nationwide surge in measles infections\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/05/13/wastewater-surveillance-detects-measles-virus-ahead-of-reported-cases-study",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-12 22:45:00",
+      "content": "LOS ANGELES, May 12 (Xinhua) -- An innovative disease detection program has identified the measles virus in Houston's wastewater days before official cases were confirmed, offering a promising early \u2026 [+1266 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.563535",
+      "internal_id": "4d3ae5ffdefa47a69714f9577f6637f4b6d5883730b2bf303e487e2ca74425cd",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21227,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Commentary: The world\u2019s most contagious disease is making an alarming comeback",
+      "description": "Measles is seen as the \u201ccanary in the coal mine\u201d of public health and the resurgence of a vaccine-preventable disease is a warning, says Saw Swee Hock School of Public Health\u2019s Hsu Li Yang.",
+      "url": "https://www.channelnewsasia.com/commentary/measles-outbreak-symptoms-risk-contagious-vaccine-mmr-5118271",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_VfckYWh--/c_crop,h_322,w_573,x_82,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-06t164712z_1_lynxmpel450ur_rtroptp_3_usa-health-measles.jpg?itok=ql8Gwymf",
+      "publishedAt": "2025-05-12 22:00:00",
+      "content": "But we are not immune to the global measles situation. Infants under one year of age are particularly vulnerable they are too young to receive their first MMR dose under the current National Childho\u2026 [+2310 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.511172",
+      "internal_id": "87a76331437b31823cbe26fb65a36789efca0c542458c8d56626844f755a0505",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21244,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "What Is Chikungunya? CDC Issues Disease Vaccine Notice to Older Travelers",
+      "description": "The CDC began recommending Ixchiq last year for adults traveling to countries where chikungunya is common.",
+      "url": "https://www.newsweek.com/what-chikungunya-vaccine-cdc-issues-notice-older-travelers-2071225",
+      "urlToImage": "https://d.newsweek.com/en/full/2643155/patient-infected-chikungunya.jpg",
+      "publishedAt": "2025-05-12 20:59:10",
+      "content": "The U.S. government is advising travelers aged 60 and older to hold off on receiving the chikungunya vaccine as federal health agencies investigate potential side effects. The Centers for Disease Co\u2026 [+2973 chars]",
+      "retrievedAt": "2025-05-14 07:08:00.621041",
+      "internal_id": "01f5c12f5ee753c6da50cf6c0e1dba3854f99dd98bb0a067ae9e56d20cd74623",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21225,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Measles virus detected in Houston wastewater before cases were reported",
+      "description": "An innovative outbreak detection program that tracks disease-causing viruses in wastewater identified the measles virus in Houston samples collected in early January 2025, before cases were reported.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250512153403.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-12 19:34:03",
+      "content": "An innovative outbreak detection program that tracks disease-causing viruses in wastewater identified the measles virus in Houston samples collected in early January 2025, before cases were reported.\u2026 [+3999 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.451980",
+      "internal_id": "34ee5104881a0eb5fa5c8e6c5806cad775a5ce14c0dc74b31a11740456d4fc08",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21241,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Livejournal.com",
+      "author": "silverstarry",
+      "title": "Buffy reunion: Sarah Michelle Gellar & Alyson Hannigan",
+      "description": "Apparently Sarah Michelle Gellar and Alyson Hannigan are now paid spokespeople for the GSK Ask2BSure public awareness campaign for meningitis B vaccines. Soleil Moon Frye was a previous spokesperson for the campaign. * They briefly discuss Buffy (nothing new \u2026",
+      "url": "https://ohnotheydidnt.livejournal.com/130535307.html",
+      "urlToImage": "https://l-files.livejournal.net/og_image/3616053/509903?v=1747077797",
+      "publishedAt": "2025-05-12 19:23:16",
+      "content": "Apparently Sarah Michelle Gellar and Alyson Hannigan are now paid spokespeople for the GSK Ask2BSure public awareness campaign for meningitis B vaccines. Soleil Moon Frye was a previous spokesperson \u2026 [+905 chars]",
+      "retrievedAt": "2025-05-14 07:07:59.792818",
+      "internal_id": "27abf7329d064703af1ed83b341e2b36d644c2ca2c5ec3354372eb94b9f39b9a",
+      "publishedAtLabel": "May 12"
+    },
     {
       "id": 21204,
       "query": [
@@ -73,6 +307,24 @@
       "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o\u2026 [+6510 chars]",
       "retrievedAt": "2025-05-13 19:05:57.743866",
       "internal_id": "780fd581b38555f7e40bbb78a5a0ed5aebdd6c4bb1d891d165632a514dc7cfa3",
+      "publishedAtLabel": "May 12"
+    },
+    {
+      "id": 21229,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC Action News",
+      "author": "Larissa Scott",
+      "title": "Health experts predict spread in measles cases during summer travel months",
+      "description": "As health officials continue to monitor the measles outbreak, experts are predicting a spread in cases during the summer travel months.",
+      "url": "https://www.abcactionnews.com/news/region-hillsborough/health-experts-predict-spread-in-measles-cases-during-summer-travel-months",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/525341f/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.abcactionnews.com%2Fsharescnn%2Fphoto%2F2015%2F01%2F29%2FMeasles-Rash_1422549451629_12864105_ver1.0_640_480.jpg",
+      "publishedAt": "2025-05-12 15:30:37",
+      "content": "TAMPA, Fla. Health officials continue to track measles cases across the country. Its a highly contagious disease. In fact when you have one person infected, it can transfer, transmit the infection \u2026 [+2616 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.627567",
+      "internal_id": "a83db13737e6bcb8a652ebfd65ea2590502ad40e0c47e71e01c02748d0a8a865",
       "publishedAtLabel": "May 12"
     },
     {
@@ -526,6 +778,24 @@
       "publishedAtLabel": "May 12"
     },
     {
+      "id": 21232,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak",
+      "description": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-cent",
+      "url": "https://www.newsbreak.com/news/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?noAds=1&amp;_f=app_share&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/0Nz6fN_10zD67Wc00",
+      "publishedAt": "2025-05-12 02:59:13",
+      "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.695047",
+      "internal_id": "3fd006c02e62c073b5996f3d3cf112b6f843253e0d06d1553514d40675194148",
+      "publishedAtLabel": "May 12"
+    },
+    {
       "id": 21172,
       "query": [
         "measles"
@@ -670,6 +940,42 @@
       "publishedAtLabel": "May 11"
     },
     {
+      "id": 21234,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak",
+      "description": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-cent",
+      "url": "https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA2MDA1NTE%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990600&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-control%2Cns_local_strategy_25q1_exp-v4",
+      "urlToImage": "https://img.particlenews.com/img/id/0Nz6fN_10zD67Wc00",
+      "publishedAt": "2025-05-11 19:11:02",
+      "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.711456",
+      "internal_id": "fa3bf420b5115dcf01fe866adf897d0d7bb30be751b4c0ddffe118d5e1874f53",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21235,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak",
+      "description": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-cent",
+      "url": "https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control",
+      "urlToImage": "https://img.particlenews.com/img/id/0Nz6fN_10zD67Wc00",
+      "publishedAt": "2025-05-11 19:10:47",
+      "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.721295",
+      "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
+      "publishedAtLabel": "May 11"
+    },
+    {
       "id": 21187,
       "query": [
         "measles"
@@ -685,6 +991,24 @@
       "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
       "retrievedAt": "2025-05-13 07:07:59.481516",
       "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21238,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
+      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
+      "publishedAt": "2025-05-11 14:30:14",
+      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.746120",
+      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
       "publishedAtLabel": "May 11"
     },
     {
@@ -757,6 +1081,24 @@
       "content": "In 1986, Roald Dahl, the famous childrens author, wrote a letter to British parents, sharing his eldest daughters tragic story. Olivia caught measles in 1962; at the time she was seven. Dahl describe\u2026 [+7713 chars]",
       "retrievedAt": "2025-05-13 07:07:59.388046",
       "internal_id": "32aa02a312d92674567674f003645a0fc036f1e6edb651b9d207830b79e51027",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 21233,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak",
+      "description": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-cent",
+      "url": "https://www.newsbreak.com/news/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?noAds=1&amp;_f=app_share&amp;s=a2&amp;share_destination_id=Mjg0MjI3ODEyLTE3NDY5MTIyNzYxODg%3D",
+      "urlToImage": "https://img.particlenews.com/img/id/0Nz6fN_10zD67Wc00",
+      "publishedAt": "2025-05-10 21:25:06",
+      "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.703459",
+      "internal_id": "efdcc73c3e4405c0b4615a330052432e53db2647784fc9fb670bd031507a2f5f",
       "publishedAtLabel": "May 10"
     },
     {
@@ -888,6 +1230,24 @@
       "publishedAtLabel": "May 10"
     },
     {
+      "id": 21236,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak",
+      "description": "Measles cases continue to accumulate in the United States in what is already the second-worst year since the disease was declared eliminated a quarter-cent",
+      "url": "https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTg0MDQ1NzQ4LTE3NDY4ODM5MzE2MDE%3D&amp;pd=0CSEhoOK&amp;hl=en_US&amp;send_time=1746883931&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_25q1_exp-v8%2Cns_foryou_rank_exp_25q2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-v1",
+      "urlToImage": "https://img.particlenews.com/img/id/0Nz6fN_10zD67Wc00",
+      "publishedAt": "2025-05-10 13:32:42",
+      "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.729465",
+      "internal_id": "b5757721b1050410bbc7345b1b41e09b23c747c92f14e0914165d065c73a6e7a",
+      "publishedAtLabel": "May 10"
+    },
+    {
       "id": 21189,
       "query": [
         "measles"
@@ -993,6 +1353,24 @@
       "content": "Ob das Krim-Kongo-h\u00e4morrhagische Fiebervirus, das West-Nil-Virus, das Rift-Valley-Fieber-Virus oder das Dengue-Virus all diese Krankheiten nehmen in Europa derzeit zu und stellen laut AGES eine ernst\u2026 [+1551 chars]",
       "retrievedAt": "2025-05-11 07:06:44.811137",
       "internal_id": "0f1202e57bec1f688287bc489bf6884d883fc2ab0558a907cb56218bc9fbd10d",
+      "publishedAtLabel": "May 10"
+    },
+    {
+      "id": 21237,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX13 Memphis",
+      "author": "Fox13 Memphis News Staff",
+      "title": "Mid-South steel factory site of potential measles exposure",
+      "description": "Smith said workers at Big River Steel are only now starting to grasp the seriousness of the situation. \u201cWell, yeah, we have been working, so I guess\u2026 I would probably take a little more [precaution] because everybody we work at that has that around,\u201d he said.",
+      "url": "https://www.fox13memphis.com/health/mid-south-steel-factory-site-of-potential-measles-exposure-health-department-says/article_dcb619ec-3a53-4325-a573-1c756dc3a7a4.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fox13memphis.com/content/tncms/assets/v3/editorial/0/4e/04e17243-7c3a-58bc-8440-6f0f75b2ce8a/681ecbc316c20.preview.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-10 04:59:47",
+      "content": "OSCEOLA, Ark - A confirmed measles exposure at Big River Steel is sparking public health concerns across Mississippi County. The Arkansas Department of Health (ADH) is urging anyone who may have bee\u2026 [+3845 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.737557",
+      "internal_id": "673086d91d9e4e723359c11bab16a81831a1e0c69ddb23f5d31ca9d3bb42c7c5",
       "publishedAtLabel": "May 10"
     },
     {
@@ -24621,6 +24999,96 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
+      "url": "https://www.memeorandum.com/250330/p40",
+      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
+      "publishedAt": "2025-03-30 17:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.218453",
+      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
+      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
+      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-03-30 13:00:00",
+      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.251385",
+      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19849,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, some parents become vaccine enthusiasts",
+      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
+      "publishedAt": "2025-03-30 11:00:00",
+      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.275347",
+      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19848,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Outbreak Worsens in Texas and New Mexico",
+      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
+      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-30 10:26:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.259886",
+      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19850,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
+      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-30 09:00:00",
+      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.371851",
+      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]

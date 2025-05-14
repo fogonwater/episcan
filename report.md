@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2025-05-13 19:06
-- **Most recent article:** 2025-05-12 18:01:02
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-05-14 07:08
+- **Most recent article:** 2025-05-13 06:30:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 145 | 82 | 107 | 88 | 79 | 17 | 588 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 2 | 164 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 4 | 152 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 3 | 145 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 4 | 116 |
+| measles | 75 | 145 | 82 | 107 | 88 | 82 | 28 | 607 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 3 | 165 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 6 | 154 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 4 | 146 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
 | mpox | 17 | 18 | 10 | 5 | 11 | 11 | 5 | 77 |
-| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 2 | 47 |
+| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 4 | 49 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
@@ -57,17 +57,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (meningitis)
 
+- [Una nueva prueba diagnostica la meningitis bacteriana más rápido y mejor](https://www.infosalus.com/salud-investigacion/noticia-nueva-prueba-diagnostica-meningitis-bacteriana-mas-rapido-mejor-20250513074054.html) (Infosalus.com)
+
+- [Buffy reunion: Sarah Michelle Gellar & Alyson Hannigan](https://ohnotheydidnt.livejournal.com/130535307.html) (Livejournal.com)
+
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
 
+- [More than 800 Fargo-Moorhead area students are not vaccinated for measles, districts say](https://www.inforum.com/health/more-than-800-fargo-moorhead-area-students-are-not-vaccinated-for-measles-districts-say) (INFORUM)
+
+- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.idahostatejournal.com/news/local/the-us-has-1-001-measles-cases-and-11-states-with-active-outbreaks/article_8d71ea4a-42ff-44fe-93a6-fca0eef4001d.html) (Idaho State Journal)
+
+- [Measles cases across the country highest we've seen in six years](https://www.abc.net.au/news/2025-05-13/measles-cases-across-the-country-highest-we-ve-seen-in-six-years/105280894) (ABC News (AU))
+
+- [Wastewater surveillance detects measles virus ahead of reported cases: study](https://www.thestar.com.my/news/world/2025/05/13/wastewater-surveillance-detects-measles-virus-ahead-of-reported-cases-study) (The Star Online)
+
+- [Commentary: The world’s most contagious disease is making an alarming comeback](https://www.channelnewsasia.com/commentary/measles-outbreak-symptoms-risk-contagious-vaccine-mmr-5118271) (CNA)
+
+- [Measles virus detected in Houston wastewater before cases were reported](https://www.sciencedaily.com/releases/2025/05/250512153403.htm) (Science Daily)
+
 - [1,000 Measles Cases in the US, but Few Solutions From RFK](https://truthout.org/articles/1000-measles-cases-in-the-us-but-few-solutions-from-rfk/) (Truthout)
 
 - [Measles outbreak in Alberta, over 320 cases reported, most unvaccinated](https://economictimes.indiatimes.com/news/international/canada/measles-outbreak-in-alberta-over-320-cases-reported-most-unvaccinated/articleshow/121118167.cms) (The Times of India)
 
 - [Good Morning, News: ODOT Budget Gets Blasted, Measles Vaccinations Declining, and Trump Caves to China](https://www.portlandmercury.com/good-morning-news/2025/05/12/47780786/good-morning-news-odot-budget-gets-blasted-measles-vaccinations-declining-and-trump-caves-to-china) (The Portland Mercury)
+
+- [Health experts predict spread in measles cases during summer travel months](https://www.abcactionnews.com/news/region-hillsborough/health-experts-predict-spread-in-measles-cases-during-summer-travel-months) (ABC Action News)
 
 - [Five things to know about measles, and its risk to the young and old](https://scopeblog.stanford.edu/2025/05/12/measles-risk-young-old-infectious-diseases/) (Stanford.edu)
 
@@ -83,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Could Become Endemic in US if Surge Continues, Expert Warns](https://www.sciencealert.com/measles-could-become-endemic-in-us-if-surge-continues-expert-warns) (ScienceAlert)
 
+- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/news/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?noAds=1&amp;_f=app_share&amp;s=i2) (Newsbreak.com)
+
 - [MMR vaccine doesn't contain 'a lot of aborted fetus debris,' contrary to RFK's assertion](https://www.snopes.com//fact-check/mmr-vaccine-aborted-fetus-debris/) (Snopes.com)
 
 - [Five things to know about measles risks and vaccine safety](https://news.stanford.edu/stories/2025/05/facts-research-what-to-know-measles-outbreak-vaccine-safety-immunization) (Stanford.edu)
@@ -93,11 +113,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine rates putting New Zealand at risk of measles outbreak, health expert says](https://www.rnz.co.nz/news/national/560669/vaccine-rates-putting-new-zealand-at-risk-of-measles-outbreak-health-expert-says) (RNZ)
 
+- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA2MDA1NTE%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990600&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-control%2Cns_local_strategy_25q1_exp-v4) (Newsbreak.com)
+
+- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
+
 - [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
+
+- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
 
 - [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
 
 ## 25-20 (malaria)
+
+- [Día de la enfermera: las guardianas que defienden la salud desde la precarización](https://www.milenio.com/politica/comunidad/como-es-el-panorama-de-la-enfermeria-en-mexico) (Milenio)
 
 - [Babesiosis, a Tick-Borne Disease That Resembles Malaria, Is on the Rise](https://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/) (Grist)
 
@@ -109,11 +137,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (h5n1)
 
+- [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
+
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
 
 - [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
+
+- [Johor sees drop in dengue cases, rise in HFMD](https://www.thestar.com.my/news/nation/2025/05/13/johor-sees-drop-in-dengue-cases-rise-in-hfmd) (The Star Online)
 
 - [Clinical characteristics and serotype association of dengue and dengue like illness in Pakistan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012978) (Plos.org)
 
@@ -122,6 +154,10 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [Lutte contre les moustiques : des nuées de mâles stériles larguées sur Brive-la-Gaillarde](https://www.lepoint.fr/sante/lutte-contre-les-moustiques-des-nuees-de-males-steriles-larguees-sur-brive-la-gaillarde-13-05-2025-2589479_40.php) (Le Point)
+
+- [What Is Chikungunya? CDC Issues Disease Vaccine Notice to Older Travelers](https://www.newsweek.com/what-chikungunya-vaccine-cdc-issues-notice-older-travelers-2071225) (Newsweek)
 
 - [US Advises Older Adults Not to Receive Chikungunya Vaccine for Now](https://www.theepochtimes.com/health/us-advises-older-adults-not-to-receive-chikungunya-vaccine-for-now-5856323) (Theepochtimes.com)
 
@@ -215,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 
 - [OPINION: Keep politics out of public health as measles cases rise](https://www.surreynowleader.com/opinion/opinion-keep-politics-out-of-public-health-as-measles-cases-rise-7998091) (Surrey Now-Leader)
 
+- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/news/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?noAds=1&amp;_f=app_share&amp;s=a2&amp;share_destination_id=Mjg0MjI3ODEyLTE3NDY5MTIyNzYxODg%3D) (Newsbreak.com)
+
 - [Measles Cases In The U.S. Just Hit 1,000. RFK Jr. Still Isn't Taking It Seriously.](https://www.huffpost.com/entry/us-measles-cases-1000-rfk-jr-hhs_n_681f8e4be4b0108bb6b70ed3) (HuffPost)
 
 - [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.wpxi.com/news/local/us-has-1001-measles-cases-11-states-with-active-outbreaks/JZXUTYNWHZGEJL6F5VGQGTNN3Y/) (WPXI Pittsburgh)
@@ -223,7 +261,11 @@ Source: [News API](https://newsapi.org/)
 
 - [The US has 1,001 measles cases and 11 states with active outbreaks, including Pennsylvania and Ohio](https://www.cbsnews.com/pittsburgh/news/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/) (CBS News)
 
+- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTg0MDQ1NzQ4LTE3NDY4ODM5MzE2MDE%3D&amp;pd=0CSEhoOK&amp;hl=en_US&amp;send_time=1746883931&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_25q1_exp-v8%2Cns_foryou_rank_exp_25q2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-v1) (Newsbreak.com)
+
 - [Port: Tax the unvaccinated](https://www.inforum.com/opinion/columns/port-tax-the-unvaccinated) (INFORUM)
+
+- [Mid-South steel factory site of potential measles exposure](https://www.fox13memphis.com/health/mid-south-steel-factory-site-of-potential-measles-exposure-health-department-says/article_dcb619ec-3a53-4325-a573-1c756dc3a7a4.html) (FOX13 Memphis)
 
 - [Measles Outbreak the Worst in 25 Years With Over 1,000 Cases](https://legalinsurrection.com/2025/05/measles-outbreak-the-worst-in-25-years-with-over-1000-cases/) (Legalinsurrection.com)
 
@@ -2828,6 +2870,16 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
