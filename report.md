@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-05-14 07:08
-- **Most recent article:** 2025-05-13 06:30:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-05-14 19:06
+- **Most recent article:** 2025-05-13 19:04:39
 
 ---
 
@@ -12,24 +12,29 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 82 | 28 | 607 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 3 | 165 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 6 | 154 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 4 | 146 |
+| measles | 70 | 145 | 82 | 107 | 88 | 82 | 30 | 604 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 4 | 166 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 12 | 160 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 6 | 148 |
 | malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 5 | 77 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 7 | 79 |
 | meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 4 | 49 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
 | hpai | 4 | 3 | 5 | 1 | 2 | 3 | 0 | 18 |
 | typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 1 | 14 |
-| leptospirosis | 0 | 0 | 1 | 0 | 2 | 4 | 0 | 7 |
+| leptospirosis | 0 | 0 | 1 | 0 | 2 | 4 | 1 | 8 |
+| yersinia | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-20 (yersinia)
+
+- [Opportunities and challenges for plague vector control in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013054) (Plos.org)
 
 ## 25-20 (typhoid)
 
@@ -44,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [A transgenic mouse line for rabies virus-mediated trans-synaptic tracing in the postnatal developing brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323629) (Plos.org)
 
 ## 25-20 (mpox)
+
+- [Mpox-Infektion: Mpox-Infektion bei Mann in Nordwestmecklenburg nachgewiesen](https://www.zeit.de/news/2025-05/13/mpox-infektion-bei-mann-in-nordwestmecklenburg-nachgewiesen) (Die Zeit)
+
+- [Mpox-Infektion: Mpox-Infektion bei Mann in Nordwestmecklenburg nachgewiesen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/mpox-infektion--mpox-infektion-bei-mann-in-nordwestmecklenburg-nachgewiesen-35720152.html) (STERN.de)
 
 - [Mpox-Infektionen nehmen zu](https://www.welt.de/gesundheit/article256104172/Affenpocken-Mpox-Infektionen-nehmen-zu.html) (DIE WELT)
 
@@ -66,6 +75,10 @@ Source: [News API](https://newsapi.org/)
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
+
+- [Fargo Cass Public Health to host walk-in clinic for Measles, Mumps, and MMR Vaccines](https://www.valleynewslive.com/2025/05/13/fargo-cass-public-health-host-walk-in-clinic-measles-mumps-mmr-vaccines/) (Valley News Live)
+
+- [Five-year-old in critical condition with measles after parents refuse vaccine](https://www.israelnationalnews.com/news/408279) (Israelnationalnews.com)
 
 - [More than 800 Fargo-Moorhead area students are not vaccinated for measles, districts say](https://www.inforum.com/health/more-than-800-fargo-moorhead-area-students-are-not-vaccinated-for-measles-districts-say) (INFORUM)
 
@@ -135,7 +148,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Dr Phangcho assesses malaria outbreak in BTR’s Kokrajhar and Chirang](https://thehillstimes.in/assam/dr-phangcho-assesses-malaria-outbreak-in-btrs-kokrajhar-and-chirang) (Thehillstimes.in)
 
+## 25-20 (leptospirosis)
+
+- [How city rats spread deadly bacteria](https://www.futurity.org/city-rats-deadly-bacteria-leptospirosis-3280482/) (Futurity: Research News)
+
 ## 25-20 (h5n1)
+
+- [La prochaine grande pandémie est-elle déjà là ?](https://www.techno-science.net/actualite/prochaine-grande-pandemie-elle-deja-N26972.html) (Techno-science.net)
 
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
@@ -144,6 +163,10 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
+
+- [Moustique tigre : la prolifération de l'insecte, vecteur de maladie, est particulièrement surveillée](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-la-proliferation-de-l-insecte-vecteur-de-maladie-est-particulierement-surveillee_7244406.html) (Francetvinfo.fr)
+
+- [Moustique tigre : la prolifération de l'insecte, vecteur de maladie, est particulièrement surveillée](https://www.franceinfo.fr/sante/maladie/chikungunya/moustique-tigre-la-proliferation-de-l-insecte-vecteur-de-maladie-est-particulierement-surveillee_7244406.html) (Franceinfo.fr)
 
 - [Johor sees drop in dengue cases, rise in HFMD](https://www.thestar.com.my/news/nation/2025/05/13/johor-sees-drop-in-dengue-cases-rise-in-hfmd) (The Star Online)
 
@@ -154,6 +177,18 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [Avoid Chikungunya Vaccine If You're Over 60, Say US Health Officials; Here Are The Details](https://www.ndtv.com/health/avoid-chikungunya-vaccine-if-youre-over-60-say-us-health-officials-here-are-the-details-8404567) (NDTV News)
+
+- [Azonnal lépett a hatóság a súlyos mellékhatásokkal járó vakcina ügyében](https://www.portfolio.hu/global/20250513/azonnal-lepett-a-hatosag-a-sulyos-mellekhatasokkal-jaro-vakcina-ugyeben-760785) (Portfolio.hu)
+
+- [A Brive, des milliers de moustiques tigres mâles stérilisés lâchés en ville, une première dans l’Hexagone](https://www.liberation.fr/environnement/a-brive-des-milliers-de-moustiques-tigres-males-sterilises-laches-en-ville-une-premiere-dans-lhexagone-20250513_KBDWLN44NNCU3DE2XZNGTPEXLU/) (Libération)
+
+- [Health Officials Issue Warning on the Chikungunya Vaccine](https://www.newser.com/story/368582/health-officials-issue-warning-on-the-chikungunya-vaccine.html) (Newser)
+
+- [Moustique tigre : la prolifération de l'insecte, vecteur de maladie, est particulièrement surveillée](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-la-proliferation-de-l-insecte-vecteur-de-maladie-est-particulierement-surveillee_7244406.html) (Francetvinfo.fr)
+
+- [Moustique tigre : la prolifération de l'insecte, vecteur de maladie, est particulièrement surveillée](https://www.franceinfo.fr/sante/maladie/chikungunya/moustique-tigre-la-proliferation-de-l-insecte-vecteur-de-maladie-est-particulierement-surveillee_7244406.html) (Franceinfo.fr)
 
 - [Lutte contre les moustiques : des nuées de mâles stériles larguées sur Brive-la-Gaillarde](https://www.lepoint.fr/sante/lutte-contre-les-moustiques-des-nuees-de-males-steriles-larguees-sur-brive-la-gaillarde-13-05-2025-2589479_40.php) (Le Point)
 
@@ -2870,16 +2905,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
