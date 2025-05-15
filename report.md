@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-05-14 19:06
-- **Most recent article:** 2025-05-13 19:04:39
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-05-15 07:07
+- **Most recent article:** 2025-05-14 04:00:00
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 145 | 82 | 107 | 88 | 82 | 30 | 604 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 4 | 166 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 12 | 160 |
+| measles | 75 | 145 | 82 | 107 | 88 | 82 | 34 | 613 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 5 | 167 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 13 | 161 |
 | dengue | 14 | 24 | 30 | 16 | 32 | 26 | 6 | 148 |
 | malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
 | mpox | 17 | 18 | 10 | 5 | 11 | 11 | 7 | 79 |
@@ -76,7 +76,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (measles)
 
+- [RFK Jr. Takes His Grandkids For A Mother’s Day Swim In A River Of Human Shit](https://www.techdirt.com/2025/05/13/rfk-jr-takes-his-grandkids-for-a-mothers-day-swim-in-a-river-of-human-shit/) (Techdirt)
+
+- [Texas measles outbreak adds two new cases near Dallas-Ft. Worth](https://www.scrippsnews.com/health/texas-measles-outbreak-adds-two-new-cases-near-dallas-ft-worth) (Scrippsnews.com)
+
+- [Province warns of new measles exposure sites in southwestern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-exposure-sites-boissevain-manitoba-1.7534139) (CBC News)
+
 - [Fargo Cass Public Health to host walk-in clinic for Measles, Mumps, and MMR Vaccines](https://www.valleynewslive.com/2025/05/13/fargo-cass-public-health-host-walk-in-clinic-measles-mumps-mmr-vaccines/) (Valley News Live)
+
+- [Southern Illinois measles alert: Key locations and next steps](https://www.wsiltv.com/news/health/southern-illinois-measles-alert-key-locations-and-next-steps/article_e34c2935-bd79-4684-b275-8261f678d7af.html) (WSIL TV)
 
 - [Five-year-old in critical condition with measles after parents refuse vaccine](https://www.israelnationalnews.com/news/408279) (Israelnationalnews.com)
 
@@ -154,6 +162,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (h5n1)
 
+- [Investigation of Influenza A(H5N1) Virus Neutralization by Quadrivalent Seasonal Vaccines, United Kingdom, 2021–2024](https://wwwnc.cdc.gov/eid/article/31/6/24-1796_article) (Cdc.gov)
+
 - [La prochaine grande pandémie est-elle déjà là ?](https://www.techno-science.net/actualite/prochaine-grande-pandemie-elle-deja-N26972.html) (Techno-science.net)
 
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
@@ -177,6 +187,8 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [FDA warns seniors to avoid this vaccine after deadly complications](https://www.foxnews.com/health/fda-warns-seniors-avoid-vaccine-after-deadly-complications) (Fox News)
 
 - [Avoid Chikungunya Vaccine If You're Over 60, Say US Health Officials; Here Are The Details](https://www.ndtv.com/health/avoid-chikungunya-vaccine-if-youre-over-60-say-us-health-officials-here-are-the-details-8404567) (NDTV News)
 
@@ -2905,6 +2917,16 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 

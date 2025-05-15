@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-05-14 19:06",
-  "count_articles_total": 1399,
-  "count_articles_new": 13,
+  "last_updated": "2025-05-15 07:07",
+  "count_articles_total": 1410,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 21263,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Investigation of Influenza A(H5N1) Virus Neutralization by Quadrivalent Seasonal Vaccines, United Kingdom, 2021\u20132024",
+      "description": "H5N1 Virus Neutralization by Seasonal Vaccines",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/6/24-1796_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-05-14 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released. Investigation of Influen\u2026 [+17065 chars]",
+      "retrievedAt": "2025-05-15 07:07:52.689962",
+      "internal_id": "bca10a7199495a4a560ec3e848b85bb99f889f6f4cef951fac907e2c3da0622f",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21259,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Dark Helmet",
+      "title": "RFK Jr. Takes His Grandkids For A Mother\u2019s Day Swim In A River Of Human Shit",
+      "description": "Look, folks, I have to admit that I\u2019m running out of ways to open these posts about RFK Jr., so let\u2019s just do this quickly. He\u2019s a vaccine skeptic with a ton of bad ideas on public health policy, is letting the current measles outbreak expand for no good reas\u2026",
+      "url": "https://www.techdirt.com/2025/05/13/rfk-jr-takes-his-grandkids-for-a-mothers-day-swim-in-a-river-of-human-shit/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-05-14 03:16:08",
+      "content": "from the health-nut dept Look, folks, I have to admit that I\u2019m running out of ways to open these posts about RFK Jr., so let\u2019s just do this quickly. He\u2019s a vaccine skeptic with a ton of bad ideas on\u2026 [+4030 chars]",
+      "retrievedAt": "2025-05-15 07:07:52.029113",
+      "internal_id": "e861c4761c7e80ebdbd6acae50144397a06bed9a02ac444712eb183f68bc6e39",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21261,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Scripps News Group",
+      "title": "Texas measles outbreak adds two new cases near Dallas-Ft. Worth",
+      "description": "An ongoing outbreak of measles cases in west Texas has now expanded to include at least two new cases near Dallas.",
+      "url": "https://www.scrippsnews.com/health/texas-measles-outbreak-adds-two-new-cases-near-dallas-ft-worth",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/48b334c/2147483647/strip/true/crop/6850x3596+0+440/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe1%2Ff0%2F649cb6764a3db473604e4046a322%2Fap25099777431187.jpg",
+      "publishedAt": "2025-05-13 21:53:28",
+      "content": "An ongoing outbreak of measles cases in west Texas has now expanded to include at least two new cases near Dallas. Texas' latest measles information shows there are now two new cases confirmed in Co\u2026 [+1584 chars]",
+      "retrievedAt": "2025-05-15 07:07:52.203530",
+      "internal_id": "6eba159526f96ae8ed3e929a1a2acd043f712e4c9fbe720becc7c18984a5f7e0",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21260,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Province warns of new measles exposure sites in southwestern Manitoba",
+      "description": "The Manitoba government is warning the public about a series of measles exposures in southwestern Manitoba last week.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-sites-boissevain-manitoba-1.7534139",
+      "urlToImage": "https://i.cbc.ca/1.7474012.1741098200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-13 21:38:05",
+      "content": "The Manitoba government is warning the public about a series of measles exposures in southwestern Manitoba last week. Public health officials said in an update Tuesday the public might have been exp\u2026 [+1049 chars]",
+      "retrievedAt": "2025-05-15 07:07:52.137656",
+      "internal_id": "ab3419fe0af4870548286af1f0118c8de197d9cc88a435399249456ff63bd2a5",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21264,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "FDA warns seniors to avoid this vaccine after deadly complications",
+      "description": "Adults over the age of 60 are recommended not to get the chikungunya vaccine to prevent the mosquito-borne illness due to two related deaths, according to the FDA and CDC.",
+      "url": "https://www.foxnews.com/health/fda-warns-seniors-avoid-vaccine-after-deadly-complications",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/older-man-getting-vaccine.jpg",
+      "publishedAt": "2025-05-13 21:11:44",
+      "content": "Older adults are being warned against receiving the chikungunya vaccine before traveling. The Ixchiq vaccination, developed by Valneva to prevent the mosquito-borne chikungunya virus, was approved b\u2026 [+2379 chars]",
+      "retrievedAt": "2025-05-15 07:07:54.522099",
+      "internal_id": "ba6905f23858409c9106078f8fa2a975bd99d66687c650a1d43f82dfa7c9887d",
+      "publishedAtLabel": "May 13"
+    },
     {
       "id": 21247,
       "query": [
@@ -37,6 +127,24 @@
       "content": "Urban rats spread a deadly type of bacteria as they migrate within cities that can be the source of a potentially life-threatening disease in humans, according to a six-year study. The researchers a\u2026 [+6950 chars]",
       "retrievedAt": "2025-05-14 19:06:05.153126",
       "internal_id": "da92b6df2b9e6d3b1c6d69b7fed817df917088836b8fd577aa65fd589f5b5163",
+      "publishedAtLabel": "May 13"
+    },
+    {
+      "id": 21262,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSIL TV",
+      "author": "Mike Mohundro",
+      "title": "Southern Illinois measles alert: Key locations and next steps",
+      "description": "SPRINGFIELD, Ill. (WSIL) -- Health officials issued an urgent advisory for individuals potentially exposed to measles at certain locations. Those not immune should contact their health care provider for post-exposure",
+      "url": "https://www.wsiltv.com/news/health/southern-illinois-measles-alert-key-locations-and-next-steps/article_e34c2935-bd79-4684-b275-8261f678d7af.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/7/ae/7aee06ca-34a6-5752-bd32-494e6ccfe030/67f6d43218ef9.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-13 15:11:00",
+      "content": "SPRINGFIELD, Ill. (WSIL) -- Health officials issued an urgent advisory for individuals potentially exposed to measles at certain locations. Those not immune should contact their health care provider \u2026 [+1829 chars]",
+      "retrievedAt": "2025-05-15 07:07:52.288014",
+      "internal_id": "0feb211aca6933194432191512ea0ec1067a033a181daced42115acd52a3d581",
       "publishedAtLabel": "May 13"
     },
     {
@@ -25235,6 +25343,96 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
+      "url": "https://www.memeorandum.com/250330/p40",
+      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
+      "publishedAt": "2025-03-30 17:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.218453",
+      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
+      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
+      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-03-30 13:00:00",
+      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.251385",
+      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19849,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, some parents become vaccine enthusiasts",
+      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
+      "publishedAt": "2025-03-30 11:00:00",
+      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.275347",
+      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19848,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Outbreak Worsens in Texas and New Mexico",
+      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
+      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-30 10:26:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.259886",
+      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19850,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
+      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-30 09:00:00",
+      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.371851",
+      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]
