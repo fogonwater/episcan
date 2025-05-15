@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-05-15 07:07
-- **Most recent article:** 2025-05-14 04:00:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-05-15 19:06
+- **Most recent article:** 2025-05-14 17:50:35
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 82 | 34 | 613 |
+| measles | 70 | 145 | 82 | 107 | 88 | 82 | 45 | 619 |
 | h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 5 | 167 |
 | chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 13 | 161 |
 | dengue | 14 | 24 | 30 | 16 | 32 | 26 | 6 | 148 |
 | malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 7 | 79 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 8 | 80 |
 | meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 4 | 49 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
@@ -50,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (mpox)
 
+- [What to know about vaccines in the do-your-own-research era](https://medium.com/starts-with-a-bang/what-to-know-about-vaccines-in-the-do-your-own-research-era-9de3c1d714b1) (Medium)
+
 - [Mpox-Infektion: Mpox-Infektion bei Mann in Nordwestmecklenburg nachgewiesen](https://www.zeit.de/news/2025-05/13/mpox-infektion-bei-mann-in-nordwestmecklenburg-nachgewiesen) (Die Zeit)
 
 - [Mpox-Infektion: Mpox-Infektion bei Mann in Nordwestmecklenburg nachgewiesen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/mpox-infektion--mpox-infektion-bei-mann-in-nordwestmecklenburg-nachgewiesen-35720152.html) (STERN.de)
@@ -75,6 +77,28 @@ Source: [News API](https://newsapi.org/)
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
+
+- [Trump Stuck in Most Awkward Standoff With Putin on Ukraine Talks](https://newrepublic.com/post/195262/trump-standoff-putin-ukraine-talks) (The New Republic)
+
+- [Trump Cedes Ground to China as He Bans All Work on G20 Summit](https://newrepublic.com/post/195257/trump-bans-government-agencies-work-g-20-summit) (The New Republic)
+
+- [RFK Jr. Says Americans Shouldn’t Take Medical Advice From Him](https://www.forbes.com/sites/mollybohannon/2025/05/14/rfk-jr-says-americans-shouldnt-take-medical-advice-from-him/) (Forbes)
+
+- [RFK Jr. says he would "probably" vaccinate his children for measles today (Avery Lotz/Axios)](https://www.memeorandum.com/250514/p96) (Memeorandum.com)
+
+- [Measles in the Sewers? Wastewater Surveillance Offers Early Warning for Outbreaks](http://www.discovermagazine.com/health/measles-in-the-sewers-wastewater-surveillance-offers-early-warning-for) (Discover Magazine)
+
+- [24 more measles cases reported in Manitoba](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-may-14-1.7534764) (CBC News)
+
+- [RFK Jr. Admits He Would ‘Probably’ Vaccinate His Child](https://politicalwire.com/2025/05/14/rfk-jr-admits-he-would-probably-vaccinate-his-child/) (Politicalwire.com)
+
+- [RFK Jr. Buries Purple-Haired Democrat with Series of Inconvenient Truths After She Launches a Disgusting Smear Blaming Him for the Measles ‘Outbreak’ In America (VIDEO)](https://www.thegatewaypundit.com/2025/05/rfk-jr-buries-purple-haired-democrat-series-inconvenient/) (Thegatewaypundit.com)
+
+- [Public Health warns of May 2nd measles exposure at Capitol Hill brewery](https://www.capitolhillseattle.com/2025/05/public-health-warns-of-may-2nd-measles-exposure-at-capitol-hill-brewery/) (CHS Capitol Hill Seattle News)
+
+- [Congress set to quiz RFK Jr. on budget cuts, measles response (Washington Post)](https://www.memeorandum.com/250514/p46) (Memeorandum.com)
+
+- [West Texas Measles Cases Threaten Elimination Status in the U.S. Here’s Why That Matters](https://www.scientificamerican.com/podcast/episode/west-texas-measles-cases-threaten-elimination-status-in-the-u-s-heres-why/) (Scientific American)
 
 - [RFK Jr. Takes His Grandkids For A Mother’s Day Swim In A River Of Human Shit](https://www.techdirt.com/2025/05/13/rfk-jr-takes-his-grandkids-for-a-mothers-day-swim-in-a-river-of-human-shit/) (Techdirt)
 
@@ -2917,16 +2941,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
