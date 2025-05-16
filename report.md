@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-05-16 07:07
-- **Most recent article:** 2025-05-15 06:51:57
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-05-16 19:06
+- **Most recent article:** 2025-05-15 17:54:20
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 82 | 50 | 629 |
+| measles | 70 | 145 | 82 | 107 | 88 | 82 | 52 | 626 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 21 | 169 |
 | h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 6 | 168 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 14 | 162 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 10 | 152 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 17 | 159 |
 | malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 9 | 81 |
-| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 4 | 49 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 12 | 84 |
+| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 5 | 50 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
-| zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
+| zika | 4 | 7 | 7 | 2 | 3 | 6 | 1 | 30 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
 | hpai | 4 | 3 | 5 | 1 | 2 | 3 | 0 | 18 |
 | typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 1 | 14 |
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-20 (zika)
+
+- [A l'occasion du lancement de la surveillance renforcée de la dengue, du chikungunya et du Zika en France métropolitaine, les autorités sanitaires rappellent l'importance de se protéger des piqûres de moustiques](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/a-l-occasion-du-lancement-de-la-surveillance-renforcee-de-la-dengue-du) (Gouv.fr)
 
 ## 25-20 (yersinia)
 
@@ -49,6 +53,12 @@ Source: [News API](https://newsapi.org/)
 - [A transgenic mouse line for rabies virus-mediated trans-synaptic tracing in the postnatal developing brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323629) (Plos.org)
 
 ## 25-20 (mpox)
+
+- [África regista 1.761 mortes de mpox desde 2024](https://observador.pt/2025/05/15/africa-regista-132-954-casos-de-mpox-e-1-761-mortes-desde-o-inicio-de-2024/) (Observador.pt)
+
+- [Zambia confirms 75 mpox cases since last year's outbreak](https://www.thestar.com.my/news/world/2025/05/16/zambia-confirms-75-mpox-cases-since-last-year039s-outbreak) (The Star Online)
+
+- [Le Petit Robert 2026: deepfake, mpox, tarpin, tchip... Plus de 150 mots entrent dans le dictionnaire](https://www.bfmtv.com/societe/le-petit-robert-2026-deepfake-mpox-tarpin-tchip-plus-de-150-mots-entrent-dans-le-dictionnaire_AV-202505150237.html) (BFMTV)
 
 - [Angola recebe 67 mil doses de vacinas contra mpox](https://observador.pt/2025/05/14/espanha-da-67-mil-doses-de-vacinas-contra-a-mpox-para-angola-reduzir-risco-de-propagacao/) (Observador.pt)
 
@@ -70,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (meningitis)
 
+- [MHRA approves vaccine to protect against pneumococcal infections such as pneumonia and meningitis](https://www.gov.uk/government/news/mhra-approves-vaccine-to-protect-against-pneumococcal-infections-such-as-pneumonia-and-meningitis) (Www.gov.uk)
+
 - [Una nueva prueba diagnostica la meningitis bacteriana más rápido y mejor](https://www.infosalus.com/salud-investigacion/noticia-nueva-prueba-diagnostica-meningitis-bacteriana-mas-rapido-mejor-20250513074054.html) (Infosalus.com)
 
 - [Buffy reunion: Sarah Michelle Gellar & Alyson Hannigan](https://ohnotheydidnt.livejournal.com/130535307.html) (Livejournal.com)
@@ -79,6 +91,10 @@ Source: [News API](https://newsapi.org/)
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
+
+- [Ontario reports 182 new measles cases, surpassing 1,600 since outbreak began](https://www.cbc.ca/news/canada/toronto/measles-ontario-outbreak-1.7535861) (CBC News)
+
+- [Chief rabbis urge Israelis to vaccinate amid measles outbreak](https://www.israelnationalnews.com/news/408418) (Israelnationalnews.com)
 
 - [Measles outbreak: 11 children hospitalized, three in serious condition](https://www.jpost.com/breaking-news/article-854053) (The Jerusalem Post)
 
@@ -212,6 +228,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (dengue)
 
+- [First confirmed dengue case to be treated by Goa DHS as upsurge](https://timesofindia.indiatimes.com/city/goa/first-confirmed-dengue-case-to-be-treated-by-goa-dhs-as-upsurge/articleshow/121190695.cms) (The Times of India)
+
+- [Ni repelentes ni vacunas: esta es la alternativa de la UBA para combatir el dengue](https://www.lanacion.com.ar/lnmas/ni-repelentes-ni-vacunas-esta-es-la-alternativa-de-la-uba-para-combatir-el-dengue-nid15052025/) (La Nacion)
+
+- [A l'occasion du lancement de la surveillance renforcée de la dengue, du chikungunya et du Zika en France métropolitaine, les autorités sanitaires rappellent l'importance de se protéger des piqûres de moustiques](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/a-l-occasion-du-lancement-de-la-surveillance-renforcee-de-la-dengue-du) (Gouv.fr)
+
+- [Dengue and chikungunya risk becoming endemic in Europe as mosquitoes head north](https://www.politico.eu/article/dengue-chikungunya-could-soon-become-endemic-europe-new-study-warns-mosquitoes/) (POLITICO.eu)
+
+- [Vészjósló figyelmeztetés: a klímaváltozás miatt új járványok fenyegetik az EU-t](https://www.portfolio.hu/global/20250515/veszjoslo-figyelmeztetes-a-klimavaltozas-miatt-uj-jarvanyok-fenyegetik-az-eu-t-761397) (Portfolio.hu)
+
+- [La dengue et le chikungunya seront bientôt endémiques en Europe à cause du réchauffement climatique, affirme une étude](https://www.franceinfo.fr/environnement/crise-climatique/la-dengue-et-le-chikungunya-seront-bientot-endemiques-en-europe-a-cause-du-rechauffement-climatique-affirme-une-etude_7249593.html) (Franceinfo.fr)
+
+- [Réchauffement climatique : la dengue et le chikungunya bientôt endémiques en Europe, selon des chercheurs](https://www.liberation.fr/environnement/climat/rechauffement-climatique-la-dengue-et-le-chikungunya-bientot-endemiques-en-europe-selon-des-chercheurs-20250515_XHG466NVWJA4BGDUC5UD7S3QQ4/) (Libération)
+
 - [Réchauffement climatique. La dengue et le chikungunya, des maladies bientôt banales en Europe ?](https://www.ledauphine.com/sante/2025/05/15/la-dengue-et-le-chikungunya-des-maladies-bientot-banales-en-europe) (Le Dauphiné Libéré)
 
 - [Oaxaca suma 20 casos graves de dengue; ¿qué medidas seguir para evitar contagio?](https://www.milenio.com/estados/oaxaca-registra-casos-graves-de-dengue-alertan-temporada-de-lluvias) (Milenio)
@@ -233,6 +263,20 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [A l'occasion du lancement de la surveillance renforcée de la dengue, du chikungunya et du Zika en France métropolitaine, les autorités sanitaires rappellent l'importance de se protéger des piqûres de moustiques](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/a-l-occasion-du-lancement-de-la-surveillance-renforcee-de-la-dengue-du) (Gouv.fr)
+
+- [Dengue and chikungunya risk becoming endemic in Europe as mosquitoes head north](https://www.politico.eu/article/dengue-chikungunya-could-soon-become-endemic-europe-new-study-warns-mosquitoes/) (POLITICO.eu)
+
+- [Boli tropicale extrem de grave, transmise de ţânţari, sunt pe cale să devină endemice în Europa. Peste 300 de cazuri în 2024](https://adevarul.ro/stiri-externe/europa/boli-tropicale-extrem-de-grave-transmise-de-2443540.html) (Adevarul.ro)
+
+- [Febra denga și boala chikungunya reprezintă un risc tot mai mare pentru locuitorii Europei](http://hotnews.ro/febra-denga-si-boala-chikungunya-prezinta-un-risc-tot-mai-mare-pentru-locuitorii-europei-1975554) (Hotnews.ro)
+
+- [Vészjósló figyelmeztetés: a klímaváltozás miatt új járványok fenyegetik az EU-t](https://www.portfolio.hu/global/20250515/veszjoslo-figyelmeztetes-a-klimavaltozas-miatt-uj-jarvanyok-fenyegetik-az-eu-t-761397) (Portfolio.hu)
+
+- [La dengue et le chikungunya seront bientôt endémiques en Europe à cause du réchauffement climatique, affirme une étude](https://www.franceinfo.fr/environnement/crise-climatique/la-dengue-et-le-chikungunya-seront-bientot-endemiques-en-europe-a-cause-du-rechauffement-climatique-affirme-une-etude_7249593.html) (Franceinfo.fr)
+
+- [Réchauffement climatique : la dengue et le chikungunya bientôt endémiques en Europe, selon des chercheurs](https://www.liberation.fr/environnement/climat/rechauffement-climatique-la-dengue-et-le-chikungunya-bientot-endemiques-en-europe-selon-des-chercheurs-20250515_XHG466NVWJA4BGDUC5UD7S3QQ4/) (Libération)
 
 - [Réchauffement climatique. La dengue et le chikungunya, des maladies bientôt banales en Europe ?](https://www.ledauphine.com/sante/2025/05/15/la-dengue-et-le-chikungunya-des-maladies-bientot-banales-en-europe) (Le Dauphiné Libéré)
 
@@ -2965,16 +3009,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 

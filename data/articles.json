@@ -1,8 +1,284 @@
 {
-  "last_updated": "2025-05-16 07:07",
-  "count_articles_total": 1433,
-  "count_articles_new": 11,
+  "last_updated": "2025-05-16 19:06",
+  "count_articles_total": 1443,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 21294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro",
+      "title": "First confirmed dengue case to be treated by Goa DHS as upsurge",
+      "description": "Panaji: The health department is intensifying efforts to combat dengue after last year\u2019s casualties, with Dr Kalpana Mahatme, deputy director and noda.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/first-confirmed-dengue-case-to-be-treated-by-goa-dhs-as-upsurge/articleshow/121190695.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121190695,width-1070,height-580,imgsize-52047,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-15 17:54:20",
+      "content": "Just words? Think again, these 10 phrases can break someone inside",
+      "retrievedAt": "2025-05-16 19:06:02.161768",
+      "internal_id": "fb443496cfc7f11fa1e10920467b45bd904a02391594cdea3a800c8acb79c40f",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21289,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario reports 182 new measles cases, surpassing 1,600 since outbreak began",
+      "description": "Health officials say measles has infected 182 more people in Ontario over the last week, bringing the province's case count to 1,622 since an outbreak began in October.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-ontario-outbreak-1.7535861",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1716008972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-15 17:00:22",
+      "content": "Measles has infected 182 more people in Ontario over the last week, bringing the province's case count to 1,622 since an outbreak began in October, health officials say. Public Health Ontario's meas\u2026 [+693 chars]",
+      "retrievedAt": "2025-05-16 19:06:01.106398",
+      "internal_id": "0affded6034ff130898bcf5fbc06d90efda62dc27f66ca274f68adfc8b94eea3",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21300,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "\u00c1frica regista 1.761 mortes de mpox desde 2024",
+      "description": "O Grupo Consultivo de Emerg\u00eancia do CDC \u00c1frica planeia reunir-se no final de maio, para rever a situa\u00e7\u00e3o e avaliar se o mpox, ainda deve ser considerado uma emerg\u00eancia de seguran\u00e7a de sa\u00fade p\u00fablica.",
+      "url": "https://observador.pt/2025/05/15/africa-regista-132-954-casos-de-mpox-e-1-761-mortes-desde-o-inicio-de-2024/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A25%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
+      "publishedAt": "2025-05-15 16:49:49",
+      "content": "\u00c1frica registou desde o in\u00edcio de 2024 um total de 132.954 casos (30.668 confirmados por an\u00e1lise) e 1.761 mortes (176 confirmadas) devido ao cont\u00e1gio por v\u00edrus de monkeypox (mpox), revelou esta quint\u2026 [+3138 chars]",
+      "retrievedAt": "2025-05-16 19:06:05.501465",
+      "internal_id": "24d77acec746ada5f504cbdda4bdaf33cd20b0a042d34a9580bb890e6278d958",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21302,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Penglijun, Elias Shilangwa",
+      "title": "Zambia confirms 75 mpox cases since last year's outbreak",
+      "description": "LUSAKA, May 15 (Xinhua) -- Zambia has recorded a total of 75 confirmed mpox cases since the outbreak began in October last year, health authorities announced on Thursday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/16/zambia-confirms-75-mpox-cases-since-last-year039s-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-15 16:45:00",
+      "content": "LUSAKA, May 15 (Xinhua) -- Zambia has recorded a total of 75 confirmed mpox cases since the outbreak began in October last year, health authorities announced on Thursday. The latest figure followed\u2026 [+768 chars]",
+      "retrievedAt": "2025-05-16 19:06:05.551168",
+      "internal_id": "dfc63d83ef56ec1a332b3eda789b0f6a256c74b26e87c6881633fdf7c6b8a624",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21297,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Medicines and Healthcare products Regulatory Agency",
+      "title": "MHRA approves vaccine to protect against pneumococcal infections such as pneumonia and meningitis",
+      "description": "As with all products, the MHRA will keep its safety under close review.",
+      "url": "https://www.gov.uk/government/news/mhra-approves-vaccine-to-protect-against-pneumococcal-infections-such-as-pneumonia-and-meningitis",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/682610ac940c028bcf34e078/s960_960_640.png",
+      "publishedAt": "2025-05-15 16:11:51",
+      "content": "The Medicines and Healthcare products Regulatory Agency (MHRA) has today (15 May 2025) approved a vaccine (Capvaxive) for people aged 18 years and older to help protect against illnesses caused by ba\u2026 [+1991 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.783840",
+      "internal_id": "e264ae14cb93acbef3b56be43cfc6bf76252f618f7f60e29dc6036ca935c4a4c",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21296,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Ni repelentes ni vacunas: esta es la alternativa de la UBA para combatir el dengue",
+      "description": "Un docente de la Universidad Buenos Aires (UBA) explic\u00f3 el aporte de la instituci\u00f3n para frenar la enfermedad end\u00e9mica",
+      "url": "https://www.lanacion.com.ar/lnmas/ni-repelentes-ni-vacunas-esta-es-la-alternativa-de-la-uba-para-combatir-el-dengue-nid15052025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/una-politica-de-prevencion-eficaz-y-YB5O2SJ6QNBABNBIFYESXKH774.jpg?auth=af275fdca28d90828f5c788ff209249d6a7828fba6954e457790c6f8fd607804&width=1200&quality=70&smart=false&height=1034",
+      "publishedAt": "2025-05-15 15:46:55",
+      "content": "Aunque en el \u00faltimo a\u00f1o los casos de dengue han descendido en la Argentina, la ciencia contin\u00faa en la b\u00fasqueda de m\u00e9todos de prevenci\u00f3n para enfrentar al mosquito que transmite la enfermedad. Un doc\u2026 [+918 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.198043",
+      "internal_id": "a17ee823bca1e08edb0b04bd51c6ba7d6737777b09835744beed58822c50b779",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21295,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gouv.fr",
+      "author": "Minist\u00e8re du Travail, de la Sant\u00e9, des Solidarit\u00e9s et des Familles",
+      "title": "A l'occasion du lancement de la surveillance renforc\u00e9e de la dengue, du chikungunya et du Zika en France m\u00e9tropolitaine, les autorit\u00e9s sanitaires rappellent l'importance de se prot\u00e9ger des piq\u00fbres de moustiques",
+      "description": "Chaque ann\u00e9e, le 1er mai marque le d\u00e9but de la p\u00e9riode renforc\u00e9e de surveillance des arboviroses, telles que la dengue, le chikungunya et le Zika, en France m\u00e9tropolitaine, et de mise en \u0153uvre des mesures de lutte anti vectorielle par les autorit\u00e9s sanitaires\u2026",
+      "url": "https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/a-l-occasion-du-lancement-de-la-surveillance-renforcee-de-la-dengue-du",
+      "urlToImage": "https://sante.gouv.fr/local/cache-vignettes/L200xH105/bc3bdfb20294427bc48ae6a7139d86-7d994.png",
+      "publishedAt": "2025-05-15 15:25:12",
+      "content": "Le moustique tigre est d\u00e9sormais pr\u00e9sent dans 84% des d\u00e9partements m\u00e9tropolitains Introduit en m\u00e9tropole en 2004, le moustique tigre (Aedes albopictus) continue son expansion rapide. Au 1er janvier \u2026 [+4567 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.183406",
+      "internal_id": "542d2c395257e2413929520b2fb1b2165d0bff92b9f5be29e9135d9389c8bf28",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21292,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Elena Giordano",
+      "title": "Dengue and chikungunya risk becoming endemic in Europe as mosquitoes head north",
+      "description": "Climate change is driving outbreaks of tropical diseases across the continent.",
+      "url": "https://www.politico.eu/article/dengue-chikungunya-could-soon-become-endemic-europe-new-study-warns-mosquitoes/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/05/15/12150396.jpg",
+      "publishedAt": "2025-05-15 13:09:28",
+      "content": "The study, published in The Lancet Planetary Health, examined how climate and other factors have influenced the spread of dengue and chikungunya in Europe over the past 35 years. It found that outbre\u2026 [+994 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.145574",
+      "internal_id": "e28136cca793338f6060737b902a9209df633c261ae1d5ffb58fd2e767ceba8a",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21288,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Dvir Amar",
+      "title": "Chief rabbis urge Israelis to vaccinate amid measles outbreak",
+      "description": "Rabbis Kalman Bar and David Yosef issue emergency call for public to follow health guidelines and receive measles vaccinations, stressing the obligation to protect life through preventive care.",
+      "url": "https://www.israelnationalnews.com/news/408418",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1134283.jpg",
+      "publishedAt": "2025-05-15 12:06:36",
+      "content": "In response to the growing outbreak of measles, Israels Chief Rabbis, Rabbi Kalman Ber and Rabbi David Yosef, issued an urgent public call for vaccination. Recently, there has been an outbreak of me\u2026 [+1389 chars]",
+      "retrievedAt": "2025-05-16 19:06:01.046289",
+      "internal_id": "478448b3d818081e968a2d1847ffc9be2b35e57d3f7417bcfb04b2f0077c9ed8",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21299,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Florentina Grigore",
+      "title": "Boli tropicale extrem de grave, transmise de \u0163\u00e2n\u0163ari, sunt pe cale s\u0103 devin\u0103 endemice \u00een Europa. Peste 300 de cazuri \u00een 2024",
+      "description": "Frecven\u021ba \u0219i amploarea epidemiilor de febr\u0103 denga \u0219i de chikungunya au crescut constant dup\u0103 2010, avertizeaz\u0103 un studiu recent, \u00een care se atrage aten\u021bia c\u0103 \u00een 2024 au ap\u0103rut cazuri noi \u00een Italia, Croa\u021bia, Fran\u021ba \u0219i Spania.",
+      "url": "https://adevarul.ro/stiri-externe/europa/boli-tropicale-extrem-de-grave-transmise-de-2443540.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-7/710e18e1-de3b-45c9-9020-43c8aa933fd5/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-05-15 11:25:47",
+      "content": "Frecvena i amploarea epidemiilor de febr denga i de chikungunya au crescut constant dup 2010, avertizeaz un studiu recent, \u00een care se atrage atenia c \u00een 2024 au aprut cazuri noi \u00een Italia, Croaia,\u2026 [+2626 chars]",
+      "retrievedAt": "2025-05-16 19:06:04.788378",
+      "internal_id": "4b2cf562396b032a482081389c9f58630fce95d4e5bc8ead13950eaee52d970a",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21298,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Sebastian Jucan",
+      "title": "Febra denga \u0219i boala chikungunya reprezint\u0103 un risc tot mai mare pentru locuitorii Europei",
+      "description": "Febra denga \u0219i chikungunya ar putea deveni boli endemice \u00een Europa din cauza \u00eenc\u0103lzirii climei globale, care favorizeaz\u0103 r\u0103sp\u00e2ndirea \u021b\u00e2n\u021barului-tigru, un vector acestor maladii, al\u0103turi de urbanizare \u0219i de deplas\u0103rile umane, a avertizat un studiu\u2026",
+      "url": "http://hotnews.ro/febra-denga-si-boala-chikungunya-prezinta-un-risc-tot-mai-mare-pentru-locuitorii-europei-1975554",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/07/image-2022-09-22-25803929-41-tantari.jpg",
+      "publishedAt": "2025-05-15 10:52:02",
+      "content": "Febra denga i chikungunya ar putea deveni boli endemice \u00een Europa din cauza \u00eenclzirii climei globale, care favorizeaz rsp\u00e2ndirea \u00e2narului-tigru, un vector acestor maladii, alturi de urbanizare i de d\u2026 [+3847 chars]",
+      "retrievedAt": "2025-05-16 19:06:04.772696",
+      "internal_id": "4cec6f38ed046b495d5a9a4e2d6e16d5332af7e909bda2bc86191432c83cf82c",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21293,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "V\u00e9szj\u00f3sl\u00f3 figyelmeztet\u00e9s: a kl\u00edmav\u00e1ltoz\u00e1s miatt \u00faj j\u00e1rv\u00e1nyok fenyegetik az EU-t",
+      "description": "A dengue \u00e9s a chikungunya l\u00e1z hamarosan \u00e1lland\u00f3 betegs\u00e9gg\u00e9 v\u00e1lhat Eur\u00f3p\u00e1ban a glob\u00e1lis felmeleged\u00e9s miatt, mivel a v\u00edrusokat terjeszt\u0151 tigrissz\u00fanyogok egyre \u00e9szakabbra terjednek - sz\u00e1molt be a France24.",
+      "url": "https://www.portfolio.hu/global/20250515/veszjoslo-figyelmeztetes-a-klimavaltozas-miatt-uj-jarvanyok-fenyegetik-az-eu-t-761397",
+      "urlToImage": "https://pcdn.hu/articles/images-md/v/i/z/viz-genetika-jarvany-nepegeszsegugy-szunyog-hatoanyag-mutacio-gyerites-nngyk-azsiai-ti-693303.jpg",
+      "publishedAt": "2025-05-15 09:47:00",
+      "content": "Az \u00faj, a Lancet Planetary Health foly\u00f3iratban cs\u00fct\u00f6rt\u00f6k\u00f6n megjelent kutat\u00e1s szerint a vil\u00e1g n\u00e9pess\u00e9g\u00e9nek k\u00f6r\u00fclbel\u00fcl fele m\u00e1r most is ki van t\u00e9ve a k\u00e9t betegs\u00e9g kock\u00e1zat\u00e1nak, amelyek kor\u00e1bban fk\u00e9nt a \u2026 [+1527 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.153717",
+      "internal_id": "2fb5c8f6c257097548fe2e13dfae65d3bcfad8c16a5d5751a3b33e3ed612946f",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21291,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "La dengue et le chikungunya seront bient\u00f4t end\u00e9miques en Europe \u00e0 cause du r\u00e9chauffement climatique, affirme une \u00e9tude",
+      "description": "La mont\u00e9e des temp\u00e9ratures favorise la propagation du moustique tigre, vecteur de ces maladies.",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/la-dengue-et-le-chikungunya-seront-bientot-endemiques-en-europe-a-cause-du-rechauffement-climatique-affirme-une-etude_7249593.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/i0zJmIE9ABD0eyEUKoiyMHMxp3Q/0x464:5000x3277/1500x843/2025/05/15/maxstockfr268961-6825ae7fc3df9625879638.jpg",
+      "publishedAt": "2025-05-15 09:09:46",
+      "content": "La dengue et le chikungunya pourraient devenir end\u00e9miques en Europe en raison du r\u00e9chauffement climatique, alerte une \u00e9tude publi\u00e9e dans la revue Lancet Planetary Health jeudi 15 mai. La mont\u00e9e des t\u2026 [+2022 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.137478",
+      "internal_id": "5e7a79d77ead3f7245491ab422c787d19d0ac67e732dbc31dc7c3523e8c5b999",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21290,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "AFP, LIBERATION",
+      "title": "R\u00e9chauffement climatique : la dengue et le chikungunya bient\u00f4t end\u00e9miques en Europe, selon des chercheurs",
+      "description": "Une \u00e9tude publi\u00e9e ce jeudi 15 mai r\u00e9v\u00e8le pour la premi\u00e8re fois, les liens entre le risque d\u2019\u00e9pid\u00e9mies de maladies infectieuses transmises par les moustiques et le climat. L\u2019urbanisation et les d\u00e9placements sont aussi point\u00e9s du doigt.",
+      "url": "https://www.liberation.fr/environnement/climat/rechauffement-climatique-la-dengue-et-le-chikungunya-bientot-endemiques-en-europe-selon-des-chercheurs-20250515_XHG466NVWJA4BGDUC5UD7S3QQ4/",
+      "urlToImage": "https://www.liberation.fr/resizer/U7d7QqPlc0r0C0DeJR1sMNih-pQ=/1200x630/filters:format(jpg):quality(70):focal(4296x2632:4306x2642)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/PYGB64PNYRCS5B2HTN3R3GJLMU.jpg",
+      "publishedAt": "2025-05-15 08:03:23",
+      "content": "La dengue et le chikungunya pourraient devenir end\u00e9miques en Europe. Et la principale cause est le r\u00e9chauffement climatique, qui favorise la propagation du moustique tigre vecteur de ces maladies , \u00e0\u2026 [+3903 chars]",
+      "retrievedAt": "2025-05-16 19:06:02.114543",
+      "internal_id": "3de242930ee232fc451f64d20be515b2cd1ae051c95a8ea85055675508c954ae",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21301,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Le Petit Robert 2026: deepfake, mpox, tarpin, tchip... Plus de 150 mots entrent dans le dictionnaire",
+      "description": "Quelques 150 nouveaux mots ont fait leur entr\u00e9e dans la nouvelle \u00e9dition du Petit Robert 2026, disponible d\u00e8s ce jeudi 15 mai en librairie.",
+      "url": "https://www.bfmtv.com/societe/le-petit-robert-2026-deepfake-mpox-tarpin-tchip-plus-de-150-mots-entrent-dans-le-dictionnaire_AV-202505150237.html",
+      "urlToImage": "https://images.bfmtv.com/h6pmE0wvrkoNlfBl9byi69JrJAQ=/0x11:2048x1163/2048x0/images/Une-personne-lit-un-dictionnaire-sur-l-ile-d-Arz-le-2-septembre-2019-photo-d-illustration-1994232.jpg",
+      "publishedAt": "2025-05-15 07:39:00",
+      "content": "Quelques 150 nouveaux mots ont fait leur entr\u00e9e dans la nouvelle \u00e9dition du Petit Robert 2026, disponible d\u00e8s ce jeudi 15 mai en librairie. \"Deepfake\", \"mpox\", ou encore \"tarpin\"... Plus de 150 mots\u2026 [+3395 chars]",
+      "retrievedAt": "2025-05-16 19:06:05.536528",
+      "internal_id": "8d5693de32c066e79000c7961978275f999b2c11f02493f0facaf70470769680",
+      "publishedAtLabel": "May 15"
+    },
     {
       "id": 21280,
       "query": [
@@ -25758,96 +26034,6 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19846,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
-      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
-      "url": "https://www.memeorandum.com/250330/p40",
-      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
-      "publishedAt": "2025-03-30 17:05:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.218453",
-      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19847,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Dianeravitch.net",
-      "author": "dianeravitch",
-      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
-      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
-      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
-      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-      "publishedAt": "2025-03-30 13:00:00",
-      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.251385",
-      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19849,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Maria Godoy",
-      "title": "As measles cases rise, some parents become vaccine enthusiasts",
-      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
-      "publishedAt": "2025-03-30 11:00:00",
-      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.275347",
-      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19848,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Politicalwire.com",
-      "author": "Taegan Goddard",
-      "title": "Measles Outbreak Worsens in Texas and New Mexico",
-      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
-      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
-      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-      "publishedAt": "2025-03-30 10:26:00",
-      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.259886",
-      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
-      "publishedAtLabel": "Mar 30"
-    },
-    {
-      "id": 19850,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
-      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
-      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-03-30 09:00:00",
-      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
-      "retrievedAt": "2025-03-31 19:05:49.371851",
-      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]
