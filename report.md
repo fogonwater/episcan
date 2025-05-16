@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-05-15 19:06
-- **Most recent article:** 2025-05-14 17:50:35
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-05-16 07:07
+- **Most recent article:** 2025-05-15 06:51:57
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 145 | 82 | 107 | 88 | 82 | 45 | 619 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 5 | 167 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 13 | 161 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 6 | 148 |
+| measles | 75 | 145 | 82 | 107 | 88 | 82 | 50 | 629 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 6 | 168 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 14 | 162 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 10 | 152 |
 | malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 8 | 80 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 9 | 81 |
 | meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 4 | 49 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 0 | 29 |
@@ -50,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (mpox)
 
+- [Angola recebe 67 mil doses de vacinas contra mpox](https://observador.pt/2025/05/14/espanha-da-67-mil-doses-de-vacinas-contra-a-mpox-para-angola-reduzir-risco-de-propagacao/) (Observador.pt)
+
 - [What to know about vaccines in the do-your-own-research era](https://medium.com/starts-with-a-bang/what-to-know-about-vaccines-in-the-do-your-own-research-era-9de3c1d714b1) (Medium)
 
 - [Mpox-Infektion: Mpox-Infektion bei Mann in Nordwestmecklenburg nachgewiesen](https://www.zeit.de/news/2025-05/13/mpox-infektion-bei-mann-in-nordwestmecklenburg-nachgewiesen) (Die Zeit)
@@ -77,6 +79,16 @@ Source: [News API](https://newsapi.org/)
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
+
+- [Measles outbreak: 11 children hospitalized, three in serious condition](https://www.jpost.com/breaking-news/article-854053) (The Jerusalem Post)
+
+- [Measles outbreak spreads in Israel: 48 diagnosed, 3 in ICU](https://www.israelnationalnews.com/news/408394) (Israelnationalnews.com)
+
+- [RFK Jr. Brings Receipts, Drops Fact Check On Purple-Haired Dem During Hearing](https://dailycaller.com/2025/05/14/rfk-jr-purple-haired-delauro-measles/) (The Daily Caller)
+
+- [Our Official Policy Is That Measles Can’t Hurt Us If We’re All Dead](https://www.mcsweeneys.net/articles/our-official-policy-is-that-measles-cant-hurt-us-if-were-all-dead) (Mcsweeneys.net)
+
+- [RFK Jr. says people shouldn't take his medical advice](https://www.cbsnews.com/news/rfk-jr-medical-advice-vaccine-question-hearing/) (CBS News)
 
 - [Trump Stuck in Most Awkward Standoff With Putin on Ukraine Talks](https://newrepublic.com/post/195262/trump-standoff-putin-ukraine-talks) (The New Republic)
 
@@ -186,6 +198,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (h5n1)
 
+- [Bird flu scare in Uttar Pradesh: All zoos shut for a week](https://timesofindia.indiatimes.com/india/bird-flu-scare-in-uttar-pradesh-all-zoos-shut-for-a-week/articleshow/121171206.cms) (The Times of India)
+
 - [Investigation of Influenza A(H5N1) Virus Neutralization by Quadrivalent Seasonal Vaccines, United Kingdom, 2021–2024](https://wwwnc.cdc.gov/eid/article/31/6/24-1796_article) (Cdc.gov)
 
 - [La prochaine grande pandémie est-elle déjà là ?](https://www.techno-science.net/actualite/prochaine-grande-pandemie-elle-deja-N26972.html) (Techno-science.net)
@@ -197,6 +211,14 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
+
+- [Réchauffement climatique. La dengue et le chikungunya, des maladies bientôt banales en Europe ?](https://www.ledauphine.com/sante/2025/05/15/la-dengue-et-le-chikungunya-des-maladies-bientot-banales-en-europe) (Le Dauphiné Libéré)
+
+- [Oaxaca suma 20 casos graves de dengue; ¿qué medidas seguir para evitar contagio?](https://www.milenio.com/estados/oaxaca-registra-casos-graves-de-dengue-alertan-temporada-de-lluvias) (Milenio)
+
+- [Se confirman 3 mil 234 casos de dengue en el país](https://www.excelsior.com.mx/nacional/se-confirman-3-mil-234-casos-de-dengue-en-el-pais/1715937) (Excelsior.com.mx)
+
+- [Registrato un caso di Dengue nel Comune di Corciano](https://www.ansa.it/umbria/notizie/2025/05/14/registrato-un-caso-di-dengue-nel-comune-di-corciano_154d4518-9079-4653-a548-5199ba8acddf.html) (ANSA.it)
 
 - [Moustique tigre : la prolifération de l'insecte, vecteur de maladie, est particulièrement surveillée](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-la-proliferation-de-l-insecte-vecteur-de-maladie-est-particulierement-surveillee_7244406.html) (Francetvinfo.fr)
 
@@ -211,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [Réchauffement climatique. La dengue et le chikungunya, des maladies bientôt banales en Europe ?](https://www.ledauphine.com/sante/2025/05/15/la-dengue-et-le-chikungunya-des-maladies-bientot-banales-en-europe) (Le Dauphiné Libéré)
 
 - [FDA warns seniors to avoid this vaccine after deadly complications](https://www.foxnews.com/health/fda-warns-seniors-avoid-vaccine-after-deadly-complications) (Fox News)
 
@@ -2941,6 +2965,16 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 

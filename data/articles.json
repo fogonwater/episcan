@@ -1,8 +1,207 @@
 {
-  "last_updated": "2025-05-15 19:06",
-  "count_articles_total": 1417,
-  "count_articles_new": 12,
+  "last_updated": "2025-05-16 07:07",
+  "count_articles_total": 1433,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 21280,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY WALLA!",
+      "title": "Measles outbreak: 11 children hospitalized, three in serious condition",
+      "description": "The Health Ministry announced that 11 children are hospitalized with measles, three of whom are in a serious c",
+      "url": "https://www.jpost.com/breaking-news/article-854053",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2025-05-15 06:51:57",
+      "content": "The Health Ministry announced that 11 children are hospitalized with measles, three of whom are in a serious condition, as of Thursday morning. None of the hospitalized children had been fully vacci\u2026 [+121 chars]",
+      "retrievedAt": "2025-05-16 07:07:35.991136",
+      "internal_id": "52d1d798561d6f88e709ad8f70d59f67dc92e4531169f48f581fe199b41fb3f2",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21285,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "R\u00e9chauffement climatique. La dengue et le chikungunya, des maladies bient\u00f4t banales en Europe ?",
+      "description": "La revue Lancet Planetary Health alerte ce jeudi sur les maladies propag\u00e9es par le moustique tigre qui sont en passe de devenir end\u00e9miques en Europe alors qu'elles se manifestaient jusqu'\u00e0 pr\u00e9sent essentiellement dans les pays tropicaux.",
+      "url": "https://www.ledauphine.com/sante/2025/05/15/la-dengue-et-le-chikungunya-des-maladies-bientot-banales-en-europe",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C4DC555A-1585-41AD-9C23-AF770F7A670F/FB1200/photo-1747290108.jpg",
+      "publishedAt": "2025-05-15 06:21:00",
+      "content": "Vers une banalisation ? La dengue et le chikungunya pourraient devenir end\u00e9miques en Europe en raison du r\u00e9chauffement climatique qui favorise la propagation du moustique tigre, vecteur de ces maladi\u2026 [+1774 chars]",
+      "retrievedAt": "2025-05-16 07:07:37.004829",
+      "internal_id": "1c38579a43052dba7b63a15012f6ca29a421df9af16d590a902622115519a446",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21279,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles outbreak spreads in Israel: 48 diagnosed, 3 in ICU",
+      "description": "Health Ministry reports critical cases among children, notes hospitalization rates indicate widespread unreported infections.",
+      "url": "https://www.israelnationalnews.com/news/408394",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
+      "publishedAt": "2025-05-15 06:07:02",
+      "content": "The Health Ministry reported Thursday morning that 48 measles cases have been diagnosed across Israel, with the source of infection for some patients still unknown. A particularly alarming statistic\u2026 [+1395 chars]",
+      "retrievedAt": "2025-05-16 07:07:35.969194",
+      "internal_id": "2502d029dfca01e726038fd58d224eeacbd95c63dff92455fdda9dde17e23737",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "Oaxaca suma 20 casos graves de dengue; \u00bfqu\u00e9 medidas seguir para evitar contagio?",
+      "description": "La Unidad de Inteligencia en Emergencias Sanitarias report\u00f3 20casos graves de dengue en 13 varones y siete mujeres en Oaxaca, por lo que se alert\u00f3 a la poblaci\u00f3n a seguir las medidas preventivas ante el inicio de la temporada de lluvias.El secretario de Salud\u2026",
+      "url": "https://www.milenio.com/estados/oaxaca-registra-casos-graves-de-dengue-alertan-temporada-de-lluvias",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/14/caso-presentar-sintomas-necesario-acudir.jpg",
+      "publishedAt": "2025-05-15 02:56:00",
+      "content": "La Unidad de Inteligencia en Emergencias Sanitarias report\u00f3 20 casos graves de dengue en 13 varones y siete mujeres en Oaxaca, por lo que se alert\u00f3 a la poblaci\u00f3n a seguir las medidas preventivas ant\u2026 [+2027 chars]",
+      "retrievedAt": "2025-05-16 07:07:36.996709",
+      "internal_id": "fd42b7dc44c6576579abfc7ace741a418d808311595a19a6d77e0a413ceb0d8f",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21281,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Nicole Silverio",
+      "title": "RFK Jr. Brings Receipts, Drops Fact Check On Purple-Haired Dem During Hearing",
+      "description": "HHS Secretary Robert F. Kennedy Jr. brought receipts to correct Democrat Connecticut Rep. Rosa DeLauro on the measles outbreaks around the world.",
+      "url": "https://dailycaller.com/2025/05/14/rfk-jr-purple-haired-delauro-measles/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2025/05/MixCollage-14-May-2025-04-47-PM-7865-e1747255716148.jpg",
+      "publishedAt": "2025-05-15 02:13:06",
+      "content": "Readers, Instead of sucking up to the political and corporate powers that dominate America, The Daily Caller is fighting for you our readers. We humbly ask you to consider joining us in this fight. \u2026 [+3565 chars]",
+      "retrievedAt": "2025-05-16 07:07:36.068837",
+      "internal_id": "cb3a3d6d53e7d10a184a1f31395636a7405314bdb5f6810956ce8d75a1d15365",
+      "publishedAtLabel": "May 15"
+    },
+    {
+      "id": 21277,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mcsweeneys.net",
+      "author": "Eli Grober",
+      "title": "Our Official Policy Is That Measles Can\u2019t Hurt Us If We\u2019re All Dead",
+      "description": "\u201cHealth and Human Services Secretary Robert F. Kennedy Jr. on Wednesday sidestepped a question about vaccines and whether he would choose to vaccinate his children today against a number of diseases, saying, \u2018I don\u2019t think people should be taking medical advi\u2026",
+      "url": "https://www.mcsweeneys.net/articles/our-official-policy-is-that-measles-cant-hurt-us-if-were-all-dead",
+      "urlToImage": "http://edge.mcsw.net/mcsweeneys/hqx6i2htry0ebqqgglkxgsklpx1r",
+      "publishedAt": "2025-05-14 23:30:00",
+      "content": "\u201cHealth and Human Services Secretary Robert F. Kennedy Jr. on Wednesday sidestepped a question about vaccines and whether he would choose to vaccinate his children today against a number of diseases,\u2026 [+2972 chars]",
+      "retrievedAt": "2025-05-16 07:07:35.855720",
+      "internal_id": "547995b1952a80069c4ab5c6eff12b62dce853634872931049868cea7e996a00",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21287,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Angola recebe 67 mil doses de vacinas contra mpox",
+      "description": "A epidemia de mpox continua a aumentar em \u00c1frica, com cerca de 3.000 casos semanais este ano. Para ajudar a conter a propaga\u00e7\u00e3o, Angola recebeu um novo lote de vacinas apoiado pela Uni\u00e3o Europeia.",
+      "url": "https://observador.pt/2025/05/14/espanha-da-67-mil-doses-de-vacinas-contra-a-mpox-para-angola-reduzir-risco-de-propagacao/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F05%2F08125250%2F43681521.jpg?layer=obstop:T",
+      "publishedAt": "2025-05-14 22:00:33",
+      "content": "O Governo de Espanha doou 67 mil doses de vacinas contra a monkeypox (mpox) a Angola para conter e mitigar o risco de propaga\u00e7\u00e3o da doen\u00e7a, anunciou nesta quarta-feira a Embaixada de Espanha em Luand\u2026 [+2029 chars]",
+      "retrievedAt": "2025-05-16 07:07:38.917485",
+      "internal_id": "64506bc498952d77e1fbff9d7bc8105c27ddb5463dc7afe1e27378ac3dae6f38",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Se confirman 3 mil 234 casos de dengue en el pa\u00eds",
+      "description": "Patricia Rodr\u00edguez Calva Hasta el pasado 5 de mayo, los casos de dengue sumaban 3 mil 234. De los 27 estados afectados, el 59 por ciento de las personas contagiadas por esta enfermedad viral se ubic\u00f3 en 5 entidades: Jalisco con 607 casos. \u2026",
+      "url": "https://www.excelsior.com.mx/nacional/se-confirman-3-mil-234-casos-de-dengue-en-el-pais/1715937",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/14/3307323.jpg",
+      "publishedAt": "2025-05-14 21:09:18",
+      "content": "Hasta el pasado 5 de mayo, los casos de dengue sumaban 3 mil 234. De los 27 estados afectados, el 59 por ciento de las personas contagiadas por esta enfermedad viral se ubic\u00f3 en 5 entidades: \u2026 [+1176 chars]",
+      "retrievedAt": "2025-05-16 07:07:36.988182",
+      "internal_id": "b99f5d83fe2de661141f72f4c9f9f4ab4ea62df6c9b047947251ef7f1d04385c",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21278,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara  Moniuszko",
+      "title": "RFK Jr. says people shouldn't take his medical advice",
+      "description": "\"My opinions about vaccines are irrelevant,\" Health and Human Services Secretary Robert F. Kennedy Jr. said during the House hearing.",
+      "url": "https://www.cbsnews.com/news/rfk-jr-medical-advice-vaccine-question-hearing/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/30/82076014-32e4-482a-9302-6425473af24c/thumbnail/1200x630/ba9709dd7478b8a11d50e5108be8cf47/cbsn-fusion-rfk-jr-falsely-claims-banning-multiple-food-dyes-thumbnail.jpg?v=d8ac70a2c93631c1c3223eab6ec7acf9",
+      "publishedAt": "2025-05-14 20:01:00",
+      "content": "When asked hypothetically if he would vaccinate his children today for measles during a House hearing Wednesday, Health and Human Services Secretary Robert F. Kennedy Jr. said \"probably,\" but added h\u2026 [+2502 chars]",
+      "retrievedAt": "2025-05-16 07:07:35.885386",
+      "internal_id": "4a7f9ff5dea3d0fdeed8d4bca9369e03bdbc192aa00d80f41de973588b2c9d24",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21282,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Neha Shukla,Faiz Rahman Siddiqui",
+      "title": "Bird flu scare in Uttar Pradesh: All zoos shut for a week",
+      "description": "India News: A day after it was confirmed that a tigress at Gorakhpur zoo had died of bird flu (H5N1), the Central Zoo Authority (CZA) ordered on Wednesday the clo.",
+      "url": "https://timesofindia.indiatimes.com/india/bird-flu-scare-in-uttar-pradesh-all-zoos-shut-for-a-week/articleshow/121171206.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121171242,width-1070,height-580,imgsize-65736,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-14 19:51:57",
+      "content": "7 exotic wildlife to spot in Uttarakhands Kedarnath Wildlife Sanctuary",
+      "retrievedAt": "2025-05-16 07:07:36.589247",
+      "internal_id": "fcdc95eba13a0d22d8da2bfb215a60f0d6130ee19a500adae12f1f7329a989ef",
+      "publishedAtLabel": "May 14"
+    },
+    {
+      "id": 21286,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Registrato un caso di Dengue nel Comune di Corciano",
+      "description": "Registrato un caso di Dengue nel Comune di Corciano. Il paziente \u00e8 ricoverato in ospedale a Perugia e le sue condizioni cliniche sono buone, secondo quanto riferisce l'Usl Umbria 1. (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2025/05/14/registrato-un-caso-di-dengue-nel-comune-di-corciano_154d4518-9079-4653-a548-5199ba8acddf.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-05-14 19:41:49",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-05-16 07:07:37.026877",
+      "internal_id": "26960bc16b277458ba14994883ea9c8d47f0aec5ef7babcf9e2da26d79b70eb0",
+      "publishedAtLabel": "May 14"
+    },
     {
       "id": 21267,
       "query": [
@@ -25559,6 +25758,96 @@
       "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
       "retrievedAt": "2025-04-01 07:07:30.350298",
       "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
+      "url": "https://www.memeorandum.com/250330/p40",
+      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
+      "publishedAt": "2025-03-30 17:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.218453",
+      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
+      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
+      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-03-30 13:00:00",
+      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.251385",
+      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19849,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, some parents become vaccine enthusiasts",
+      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
+      "publishedAt": "2025-03-30 11:00:00",
+      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.275347",
+      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19848,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Outbreak Worsens in Texas and New Mexico",
+      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
+      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-30 10:26:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.259886",
+      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19850,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
+      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-30 09:00:00",
+      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.371851",
+      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
       "publishedAtLabel": "Mar 30"
     }
   ]
