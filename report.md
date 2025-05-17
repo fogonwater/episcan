@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-05-17 07:06
-- **Most recent article:** 2025-05-16 05:53:51
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-05-17 19:05
+- **Most recent article:** 2025-05-16 18:15:42
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 145 | 82 | 107 | 88 | 82 | 55 | 634 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 23 | 171 |
-| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 6 | 168 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 19 | 161 |
-| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
-| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 12 | 84 |
+| measles | 70 | 145 | 82 | 107 | 88 | 82 | 59 | 633 |
+| h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 12 | 174 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 25 | 173 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 23 | 165 |
+| malaria | 13 | 10 | 14 | 34 | 22 | 19 | 7 | 119 |
+| mpox | 17 | 18 | 10 | 5 | 11 | 11 | 14 | 86 |
 | meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 6 | 51 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
-| zika | 4 | 7 | 7 | 2 | 3 | 6 | 1 | 30 |
+| zika | 4 | 7 | 7 | 2 | 3 | 6 | 2 | 31 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
 | hpai | 4 | 3 | 5 | 1 | 2 | 3 | 0 | 18 |
 | typhoid | 2 | 2 | 3 | 3 | 2 | 1 | 1 | 14 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-20 (zika)
+
+- [Dino exige informações do INSS sobre indenização de vítimas do Zika Vírus](https://valor.globo.com/brasil/noticia/2025/05/16/dino-exige-informaes-do-inss-sobre-indenizao-de-vtimas-do-zika-vrus.ghtml) (Globo)
 
 - [A l'occasion du lancement de la surveillance renforcée de la dengue, du chikungunya et du Zika en France métropolitaine, les autorités sanitaires rappellent l'importance de se protéger des piqûres de moustiques](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/a-l-occasion-du-lancement-de-la-surveillance-renforcee-de-la-dengue-du) (Gouv.fr)
 
@@ -53,6 +55,10 @@ Source: [News API](https://newsapi.org/)
 - [A transgenic mouse line for rabies virus-mediated trans-synaptic tracing in the postnatal developing brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323629) (Plos.org)
 
 ## 25-20 (mpox)
+
+- [Number of recorded Mpox cases now 3 – Ghana Health Service](https://3news.com/news/number-of-recorded-mpox-cases-now-3-ghana-health-service/) (3news.com)
+
+- [Tecovirimat: A journey from discovery to mechanistic insights in poxvirus inhibition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013140) (Plos.org)
 
 - [África regista 1.761 mortes de mpox desde 2024](https://observador.pt/2025/05/15/africa-regista-132-954-casos-de-mpox-e-1-761-mortes-desde-o-inicio-de-2024/) (Observador.pt)
 
@@ -93,6 +99,14 @@ Source: [News API](https://newsapi.org/)
 - [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 ## 25-20 (measles)
+
+- [Measles Outbreak Continues To Spread As Infected Passenger Travels Through Newark Airport](https://brobible.com/culture/article/measles-outbreak-infected-passenger-newark-airport/) (BroBible)
+
+- [Measles cases reach 1,024 in the US as infections confirmed in 30 states: CDC](https://abcnews.go.com/Health/measles-cases-reach-1024-us-infections-confirmed-30/story?id=121869702) (ABC News)
+
+- [How Measles, Polio and Other Eliminated Diseases Could Roar Back If U.S. Vaccination Rates Fall](https://www.scientificamerican.com/article/how-measles-polio-and-other-eliminated-diseases-could-roar-back-if-u-s/) (Scientific American)
+
+- [Canada has a measles problem](https://www.cbc.ca/radio/frontburner/canada-has-a-measles-problem-1.7536310) (CBC News)
 
 - [Province warns of measles exposures at Gretna school, Winkler church](https://www.cbc.ca/news/canada/manitoba/measles-exposures-winkler-gretna-1.7536358) (CBC News)
 
@@ -206,6 +220,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (malaria)
 
+- [Novel molecular maneuver helps malaria parasite dodge the immune system](https://www.sciencedaily.com/releases/2025/05/250516134412.htm) (Science Daily)
+
+- [Novel molecular maneuver helps malaria parasite dodge the immune system](https://phys.org/news/2025-05-molecular-maneuver-malaria-parasite-dodge.html) (Phys.Org)
+
 - [Día de la enfermera: las guardianas que defienden la salud desde la precarización](https://www.milenio.com/politica/comunidad/como-es-el-panorama-de-la-enfermeria-en-mexico) (Milenio)
 
 - [Babesiosis, a Tick-Borne Disease That Resembles Malaria, Is on the Rise](https://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/) (Grist)
@@ -222,6 +240,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (h5n1)
 
+- [Gripe aviária: qual o risco de doença se espalhar pelo Brasil?](https://www.bbc.com/portuguese/articles/c0qgwqdkjpwo) (BBC News)
+
+- [Frente da Agropecuária defende ação diplomática após gripe aviária](https://www.congressoemfoco.com.br/noticia/108582/frente-da-agropecuaria-defende-acao-diplomatica-apos-gripe-aviaria) (Congressoemfoco.com.br)
+
+- [Bancada do agro acompanha com “preocupação” foco de gripe aviária](https://www.metropoles.com/brasil/bancada-do-agro-acompanha-com-preocupacao-foco-de-gripe-aviaria) (Metropoles.com)
+
+- [Gripe aviária derruba ações do agro. Com fusão, Marfrig é exceção](https://www.metropoles.com/negocios/gripe-aviaria-derruba-acoes-do-agro-com-fusao-marfrig-e-excecao) (Metropoles.com)
+
+- [Brasil confirma primeiro caso de gripe aviária no RS; veja tudo o que você precisa saber](https://catracalivre.com.br/saude-bem-estar/brasil-confirma-primeiro-caso-de-gripe-aviaria-no-rs-veja-tudo-o-que-voce-precisa-saber/) (Catracalivre.com.br)
+
+- [CEO da BRF minimiza caso de gripe aviária no RS: “Não é situação nova”](https://www.metropoles.com/negocios/ceo-da-brf-minimiza-caso-de-gripe-aviaria-no-rs-nao-e-situacao-nova) (Metropoles.com)
+
 - [Bird flu scare in Uttar Pradesh: All zoos shut for a week](https://timesofindia.indiatimes.com/india/bird-flu-scare-in-uttar-pradesh-all-zoos-shut-for-a-week/articleshow/121171206.cms) (The Times of India)
 
 - [Investigation of Influenza A(H5N1) Virus Neutralization by Quadrivalent Seasonal Vaccines, United Kingdom, 2021–2024](https://wwwnc.cdc.gov/eid/article/31/6/24-1796_article) (Cdc.gov)
@@ -235,6 +265,14 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
+
+- [National Dengue Day 2025: Follow These Tips To Stay Safe This Monsoon](https://www.ndtv.com/health/national-dengue-day-2025-follow-these-tips-to-stay-safe-this-monsoon-8430916) (NDTV News)
+
+- [Spiralling cases of dengue in Latin America](https://www.bmj.com/content/389/bmj.r973) (The BMJ)
+
+- [National Dengue Day : एक छोटा मच्छर, बड़ी बीमारी… खतरे की घंटी है हड्डी तोड़ डेंगू फीवर, ये लक्षण न करें नजरअंदाज](https://www.dainiktribuneonline.com/news/lifestyle/national-dengue-day-a-small-mosquito-a-big-disease-bone-breaking-dengue-fever-is-a-danger-signal-do-not-ignore-these-symptoms/) (Dainiktribuneonline.com)
+
+- [National Dengue Day : साफ-सफाई से होगा डेंगू का सफाया, सीएम योगी का जनता को संदेश](https://www.dainiktribuneonline.com/news/nation/national-dengue-day-dengue-will-be-eradicated-through-cleanliness-cm-yogis-message-to-the-public/) (Dainiktribuneonline.com)
 
 - [Dengue: Saúde do DF fica em alerta para provável avanço do tipo 3](https://www.metropoles.com/distrito-federal/dengue-saude-do-df-fica-em-alerta-para-provavel-avanco-do-tipo-3) (Metropoles.com)
 
@@ -275,6 +313,10 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [Plus de 170 cas de chikungunya ont été détectés à Mayotte depuis fin mars](https://www.franceinfo.fr/france/mayotte/plus-de-170-cas-de-chikungunya-ont-ete-detectes-a-mayotte-depuis-fin-mars_7252968.html) (Franceinfo.fr)
+
+- [Chikungunya : les autorités redoutent l’importation de l’épidémie en métropole](https://www.lemonde.fr/planete/article/2025/05/16/chikungunya-les-autorites-redoutent-l-importation-de-l-epidemie-en-metropole_6606415_3244.html) (Le Monde)
 
 - [Epidemii de boli tropicale se răspândesc în Europa odată cu migrarea țânțarilor spre nord](https://www.mediafax.ro/economic/epidemii-de-boli-tropicale-se-raspandesc-in-europa-odata-cu-migrarea-tantarilor-spre-nord-23552703) (Mediafax.ro)
 
@@ -3025,16 +3067,6 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
-
-- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
-
-- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
-
-- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
-
-- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
-
-- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
