@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-05-16 19:06
-- **Most recent article:** 2025-05-15 17:54:20
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-05-17 07:06
+- **Most recent article:** 2025-05-16 05:53:51
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 145 | 82 | 107 | 88 | 82 | 52 | 626 |
-| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 21 | 169 |
+| measles | 75 | 145 | 82 | 107 | 88 | 82 | 55 | 634 |
+| chikungunya | 17 | 15 | 39 | 46 | 16 | 15 | 23 | 171 |
 | h5n1 | 46 | 66 | 9 | 15 | 15 | 11 | 6 | 168 |
-| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 17 | 159 |
+| dengue | 14 | 24 | 30 | 16 | 32 | 26 | 19 | 161 |
 | malaria | 13 | 10 | 14 | 34 | 22 | 19 | 5 | 117 |
 | mpox | 17 | 18 | 10 | 5 | 11 | 11 | 12 | 84 |
-| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 5 | 50 |
+| meningitis | 6 | 10 | 9 | 10 | 7 | 3 | 6 | 51 |
 | rabies | 7 | 7 | 0 | 3 | 4 | 12 | 3 | 36 |
 | zika | 4 | 7 | 7 | 2 | 3 | 6 | 1 | 30 |
 | pertussis | 7 | 2 | 5 | 3 | 4 | 1 | 0 | 22 |
@@ -80,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (meningitis)
 
+- [Baby becomes first patient saved by custom gene-editing | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/05/15/breaking-news/baby-becomes-first-patient-saved-by-custom-gene-editing/) (Honolulu Star-Advertiser)
+
 - [MHRA approves vaccine to protect against pneumococcal infections such as pneumonia and meningitis](https://www.gov.uk/government/news/mhra-approves-vaccine-to-protect-against-pneumococcal-infections-such-as-pneumonia-and-meningitis) (Www.gov.uk)
 
 - [Una nueva prueba diagnostica la meningitis bacteriana más rápido y mejor](https://www.infosalus.com/salud-investigacion/noticia-nueva-prueba-diagnostica-meningitis-bacteriana-mas-rapido-mejor-20250513074054.html) (Infosalus.com)
@@ -92,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (measles)
 
+- [Province warns of measles exposures at Gretna school, Winkler church](https://www.cbc.ca/news/canada/manitoba/measles-exposures-winkler-gretna-1.7536358) (CBC News)
+
+- [Purple-haired Dem gets brutal fact-check after measles remarks](https://www.wnd.com/2025/05/purple-haired-dem-gets-brutal-fact-check-after-measles-remarks/) (Wnd.com)
+
 - [Ontario reports 182 new measles cases, surpassing 1,600 since outbreak began](https://www.cbc.ca/news/canada/toronto/measles-ontario-outbreak-1.7535861) (CBC News)
 
 - [Chief rabbis urge Israelis to vaccinate amid measles outbreak](https://www.israelnationalnews.com/news/408418) (Israelnationalnews.com)
@@ -101,6 +107,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles outbreak spreads in Israel: 48 diagnosed, 3 in ICU](https://www.israelnationalnews.com/news/408394) (Israelnationalnews.com)
 
 - [RFK Jr. Brings Receipts, Drops Fact Check On Purple-Haired Dem During Hearing](https://dailycaller.com/2025/05/14/rfk-jr-purple-haired-delauro-measles/) (The Daily Caller)
+
+- [Fight to save the kids!](https://naturalnewsblogs.com/fight-to-save-the-kids/) (Naturalnewsblogs.com)
 
 - [Our Official Policy Is That Measles Can’t Hurt Us If We’re All Dead](https://www.mcsweeneys.net/articles/our-official-policy-is-that-measles-cant-hurt-us-if-were-all-dead) (Mcsweeneys.net)
 
@@ -228,6 +236,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (dengue)
 
+- [Dengue: Saúde do DF fica em alerta para provável avanço do tipo 3](https://www.metropoles.com/distrito-federal/dengue-saude-do-df-fica-em-alerta-para-provavel-avanco-do-tipo-3) (Metropoles.com)
+
+- [Epidemii de boli tropicale se răspândesc în Europa odată cu migrarea țânțarilor spre nord](https://www.mediafax.ro/economic/epidemii-de-boli-tropicale-se-raspandesc-in-europa-odata-cu-migrarea-tantarilor-spre-nord-23552703) (Mediafax.ro)
+
 - [First confirmed dengue case to be treated by Goa DHS as upsurge](https://timesofindia.indiatimes.com/city/goa/first-confirmed-dengue-case-to-be-treated-by-goa-dhs-as-upsurge/articleshow/121190695.cms) (The Times of India)
 
 - [Ni repelentes ni vacunas: esta es la alternativa de la UBA para combatir el dengue](https://www.lanacion.com.ar/lnmas/ni-repelentes-ni-vacunas-esta-es-la-alternativa-de-la-uba-para-combatir-el-dengue-nid15052025/) (La Nacion)
@@ -263,6 +275,10 @@ Source: [News API](https://newsapi.org/)
 - [Queensland city records first local dengue fever case in seven years](https://www.abc.net.au/news/2025-05-12/cairns-first-locally-acquired-dengue-fever-case-seven-years/105279964) (ABC News (AU))
 
 ## 25-20 (chikungunya)
+
+- [Epidemii de boli tropicale se răspândesc în Europa odată cu migrarea țânțarilor spre nord](https://www.mediafax.ro/economic/epidemii-de-boli-tropicale-se-raspandesc-in-europa-odata-cu-migrarea-tantarilor-spre-nord-23552703) (Mediafax.ro)
+
+- [因氣候暖化，登革熱與屈公病將在歐洲流行](https://technews.tw/2025/05/16/dengue-and-chikungunya-fever-will-become-popular-in-europe/) (Technews.tw)
 
 - [A l'occasion du lancement de la surveillance renforcée de la dengue, du chikungunya et du Zika en France métropolitaine, les autorités sanitaires rappellent l'importance de se protéger des piqûres de moustiques](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/a-l-occasion-du-lancement-de-la-surveillance-renforcee-de-la-dengue-du) (Gouv.fr)
 
@@ -3009,6 +3025,16 @@ Source: [News API](https://newsapi.org/)
 - [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-14 (malaria)
 
