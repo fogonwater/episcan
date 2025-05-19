@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-05-18 19:05
-- **Most recent article:** 2025-05-17 18:28:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-05-19 07:08
+- **Most recent article:** 2025-05-18 04:00:06
 
 ---
 
@@ -10,27 +10,35 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 130 | 82 | 107 | 88 | 82 | 62 | 551 |
-| chikungunya | 13 | 39 | 46 | 16 | 15 | 25 | 154 |
-| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 151 |
-| h5n1 | 62 | 9 | 15 | 15 | 11 | 19 | 131 |
-| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 109 |
-| mpox | 18 | 10 | 5 | 11 | 11 | 18 | 73 |
-| meningitis | 9 | 9 | 10 | 7 | 3 | 7 | 45 |
-| rabies | 6 | 0 | 3 | 4 | 12 | 3 | 28 |
-| zika | 5 | 7 | 2 | 3 | 6 | 3 | 26 |
-| hpai | 3 | 5 | 1 | 2 | 3 | 1 | 15 |
-| pertussis | 2 | 5 | 3 | 4 | 1 | 0 | 15 |
-| typhoid | 2 | 3 | 3 | 2 | 1 | 1 | 12 |
-| leptospirosis | 0 | 1 | 0 | 2 | 4 | 1 | 8 |
-| yersinia | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 143 | 82 | 107 | 88 | 82 | 75 | 0 | 577 |
+| chikungunya | 15 | 39 | 46 | 16 | 15 | 25 | 1 | 157 |
+| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 0 | 151 |
+| h5n1 | 66 | 9 | 15 | 15 | 11 | 21 | 1 | 138 |
+| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 0 | 109 |
+| mpox | 18 | 10 | 5 | 11 | 11 | 18 | 0 | 73 |
+| meningitis | 10 | 9 | 10 | 7 | 3 | 7 | 0 | 46 |
+| rabies | 7 | 0 | 3 | 4 | 12 | 3 | 0 | 29 |
+| zika | 5 | 7 | 2 | 3 | 6 | 3 | 0 | 26 |
+| pertussis | 2 | 5 | 3 | 4 | 1 | 1 | 0 | 16 |
+| hpai | 3 | 5 | 1 | 2 | 3 | 1 | 0 | 15 |
+| typhoid | 2 | 3 | 3 | 2 | 1 | 1 | 0 | 12 |
+| leptospirosis | 0 | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
+| yersinia | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-21 (h5n1)
+
+- [Gripa aviară este letală pentru pisici. Cercetătorii semnalează riscul de transmitere la oameni și iau în calcul o posibilă pandemie](https://www.digi24.ro/stiri/actualitate/sanatate/gripa-aviara-este-letala-pentru-pisici-cercetatorii-semnaleaza-riscul-de-transmitere-la-oameni-si-iau-in-calcul-o-posibila-pandemie-3237789) (Digi24.ro)
+
+## 25-21 (chikungunya)
+
+- [TWiV 1219: Koalas sweep horse shift](https://www.microbe.tv/twiv/twiv-1219/) (Microbe.tv)
 
 ## 25-20 (zika)
 
@@ -55,6 +63,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabies vaccination induces a CD4+ TEM and CD4+CD8+ TEMRA TH1 phenotype in dogs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323823) (Plos.org)
 
 - [A transgenic mouse line for rabies virus-mediated trans-synaptic tracing in the postnatal developing brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323629) (Plos.org)
+
+## 25-20 (pertussis)
+
+- [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
 
 ## 25-20 (mpox)
 
@@ -112,13 +124,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-20 (measles)
 
+- [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
+
 - [Traveler with measles was at Newark Airport while infectious, health officials say (Katie Houlis/CBS News)](https://www.memeorandum.com/250517/p46) (Memeorandum.com)
 
 - [Health officials warn of possible measles exposure at Winnipeg Jazz Orchestra concert, diner](https://www.cbc.ca/news/canada/manitoba/measles-winnipeg-exposures-1.7538034) (CBC News)
 
+- [Health ministry issues ‘measles and polio’ advisory](https://www.solomonstarnews.com/health-ministry-issues-measles-and-polio-advisory/) (Solomonstarnews.com)
+
+- [Measles cases surge in the United States amid falling vaccination rates](https://www.news-medical.net/news/20250516/Measles-cases-surge-in-the-United-States-amid-falling-vaccination-rates.aspx) (News-Medical.Net)
+
+- [TWiV 1218: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1218/) (Microbe.tv)
+
 - [Measles outbreak will continue unless more people get vaccinated: Sask. chief medical officer](https://www.cbc.ca/news/canada/saskatchewan/measles-vaccines-chief-medical-officer-1.7537483) (CBC News)
 
+- [U.S. measles cases continue to rise](https://www.thestar.com.my/news/world/2025/05/17/us-measles-cases-continue-to-rise) (The Star Online)
+
+- [Measles exposure warning issued for Newark Airport as officials urge vaccination](https://www.foxnews.com/health/measles-exposure-warning-issued-newark-airport-officials-urge-vaccination) (Fox News)
+
 - [Measles Outbreak Continues To Spread As Infected Passenger Travels Through Newark Airport](https://brobible.com/culture/article/measles-outbreak-infected-passenger-newark-airport/) (BroBible)
+
+- [Fargo Cass Public Health administers 30 doses of MMR vaccine at walk-in clinic](https://www.valleynewslive.com/2025/05/16/fargo-cass-public-health-administers-30-doses-mmr-vaccine-walk-in-clinic/) (Valley News Live)
 
 - [Measles cases reach 1,024 in the US as infections confirmed in 30 states: CDC](https://abcnews.go.com/Health/measles-cases-reach-1024-us-infections-confirmed-30/story?id=121869702) (ABC News)
 
@@ -126,11 +152,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Canada has a measles problem](https://www.cbc.ca/radio/frontburner/canada-has-a-measles-problem-1.7536310) (CBC News)
 
+- [Measles alert: 78 quarantined, hundreds traced as Auckland case sparks concern](https://www.rnz.co.nz/news/national/561260/measles-case-78-in-quarantine-as-hundreds-of-close-contacts-identified) (RNZ)
+
+- [Traveler with measles was at Newark Airport while infectious, health officials say](https://www.cbsnews.com/newyork/news/newark-airport-measles-exposure-may-2025/) (CBS News)
+
+- [Soaring number of Alberta measles cases worries health officials in both Canada, U.S. | Globalnews.ca](http://globalnews.ca/news/11182264/soaring-number-of-alberta-measles-cases-worries-health-officials-in-both-canada-u-s/) (Global News)
+
 - [Province warns of measles exposures at Gretna school, Winkler church](https://www.cbc.ca/news/canada/manitoba/measles-exposures-winkler-gretna-1.7536358) (CBC News)
+
+- [Newark Airport passengers warned of possible measles exposure by NJ health officials](https://www.nbcnewyork.com/new-jersey/newark-airport-passengers-warned-of-possible-measles-exposure-by-nj-health-officials/6266270/) (NBC New York)
 
 - [Purple-haired Dem gets brutal fact-check after measles remarks](https://www.wnd.com/2025/05/purple-haired-dem-gets-brutal-fact-check-after-measles-remarks/) (Wnd.com)
 
 - [Ontario reports 182 new measles cases, surpassing 1,600 since outbreak began](https://www.cbc.ca/news/canada/toronto/measles-ontario-outbreak-1.7535861) (CBC News)
+
+- [Israeli Health Ministry issues measles warning after five unvaccinated children sent to ICU](https://www.haaretz.com/israel-news/2025-05-15/ty-article/.premium/israeli-health-ministry-issues-measles-warning-after-five-children-hospitalized/00000196-d448-dab2-a5f6-f7d814270000) (Haaretz)
+
+- [Canadian who visited 16 U.S. locations had measles, Seattle health officials say](https://nationalpost.com/news/canada/canadian-measles-seattle) (National Post)
 
 - [Chief rabbis urge Israelis to vaccinate amid measles outbreak](https://www.israelnationalnews.com/news/408418) (Israelnationalnews.com)
 
@@ -269,6 +307,10 @@ Source: [News API](https://newsapi.org/)
 - [치킨값 또 오르나···브라질 “조류인플루엔자 발생, 한국 등 수출중단”](https://www.khan.co.kr/article/202505170740001) (Khan.co.kr)
 
 ## 25-20 (h5n1)
+
+- ['Unprecedented and alarming': Bird flu has morphed to wipe out seals](https://www.abc.net.au/news/2025-05-18/antarctica-avian-flu-h5n1-evolution-pandemic-potential/105271154) (ABC News (AU))
+
+- [México suspende importaciones avícolas de Brasil por brote de gripe aviar](https://noticiaslatam.lat/20250517/mexico-suspende-importaciones-avicolas-de-brasil-por-brote-de-gripe-aviar-1162607740.html) (Noticiaslatam.lat)
 
 - [Kitört a rendkívül ragályos vírus: egymás után jelentik be az intézkedéseket a világ országai](https://www.portfolio.hu/global/20250517/kitort-a-rendkivul-ragalyos-virus-egymas-utan-jelentik-be-az-intezkedeseket-a-vilag-orszagai-761927) (Portfolio.hu)
 
@@ -2264,6 +2306,8 @@ Source: [News API](https://newsapi.org/)
 
 - [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
 
+- [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
+
 ## 25-15 (pertussis)
 
 - [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
@@ -2327,6 +2371,8 @@ Source: [News API](https://newsapi.org/)
 - [GHS boss donates GHC 220K in medical supplies to fight meningitis in Northern Ghana](https://3news.com/health/ghs-boss-donates-ghc-220k-in-medical-supplies-to-fight-meningitis-in-northern-ghana/) (3news.com)
 
 - [23 states recorded 156 meningitis deaths, 1,858 suspected cases – NCDC](https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/) (The Punch)
+
+- [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
 
@@ -2590,6 +2636,32 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads](https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012) (Newsweek)
 
+- [Nigeria steps up advocacy for measles-rubella vaccine](https://punchng.com/nigeria-steps-up-advocacy-for-measles-rubella-vaccine/) (The Punch)
+
+- [A Second Child Dies Of Measles in Texas, Health Secretary Robert F. Kennedy Jr. Expected To Visit State](https://www.vanityfair.com/news/story/second-texas-child-measles-death-hhs-secretary-robert-f-kennedy-jr-to-visit-state) (Vanity Fair)
+
+- [Measles Outbreak: Second Child Dies In Texas As More Than 600 Cases Confirmed Nationwide](https://www.forbes.com/sites/antoniopequenoiv/2025/04/06/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
+
+- [Second child dies of measles in Texas](https://www.channelnewsasia.com/world/second-child-dies-measles-texas-5048051) (CNA)
+
+- [School-age child dies in Texas measles outbreak; health chief Kennedy now calls vaccine best protection](https://www.channelnewsasia.com/world/school-age-child-dies-texas-measles-outbreak-health-chief-kennedy-now-calls-vaccine-best-protection-5048051) (CNA)
+
+- [Second child dies from measles-related causes in West Texas](https://www.cbsnews.com/texas/news/texas-measles-outbreak-second-child-death-unvaccinated/) (CBS News)
+
+- [Second child dies of measles as Texas outbreak worsens](https://www.bbc.com/news/articles/ckg2xyyj9w5o) (BBC News)
+
+- [Second child dies of measles in Texas, media reports (Reuters)](https://www.memeorandum.com/250406/p28) (Memeorandum.com)
+
+- [Second child dies from measles-related causes in West Texas, where cases near 500](https://www.npr.org/2025/04/06/g-s1-58624/second-child-dies-from-measles-related-causes-in-west-texas-where-cases-near-500) (NPR)
+
+- [Second Child Dies From Measles-Related Causes in West Texas, Where Cases Near 500](https://time.com/7275294/second-child-dies-from-measles-related-causes-west-texas/) (Time)
+
+- [Second Child Died From Measles-Related Causes In West Texas, Where Cases Are Nearing 500](https://www.huffpost.com/entry/ap-us-measles-outbreak-death-texas_n_67f29c32e4b0abfc4625ad56) (HuffPost)
+
+- [Second measles death reported in Texas (Erika Edwards/NBC News)](https://www.memeorandum.com/250406/p13) (Memeorandum.com)
+
+- [A Second Child Dies of Measles in Texas (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250406/p10) (Memeorandum.com)
+
 ## 25-15 (malaria)
 
 - [Stakeholders seek youth participation in fight against malaria](https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/) (The Punch)
@@ -2744,6 +2816,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa](https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215) (Excelsior.com.mx)
 
+- [Meksika'da ‘H5N1’ alarmı! İlk kez bir insanda rastlandı!](https://www.haber7.com/dunya/haber/3519710-meksikada-h5n1-alarmi-ilk-kez-bir-insanda-rastlandi) (Haber7.com)
+
+- [W Meksyku stwierdzono pierwszy przypadek ptasiej grypy H5N1 u człowieka](https://www.bankier.pl/wiadomosc/W-Meksyku-stwierdzono-pierwszy-przypadek-ptasiej-grypy-H5N1-u-czlowieka-8920309.html) (Bankier.pl)
+
+- [Meksika'da ‘H5N1’ endişesi: İlk kez bir insanda görüldü](https://www.hurriyet.com.tr/dunya/meksikada-h5n1-endisesi-ilk-kez-bir-insanda-goruldu-42753558) (Hurriyet.com.tr)
+
+- [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
+
 ## 25-15 (dengue)
 
 - [Dengue cases in the West on decline - Ministry of Health - The Fiji Times](https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/) (Fijitimes.com.fj)
@@ -2819,3 +2899,7 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, aides aux agriculteurs, violences intrafamiliales... Manuel Valls sur tous les fronts pour sa deuxième journée de visite à La Réunion](https://la1ere.francetvinfo.fr/reunion/manuel-valls-sur-tous-les-fronts-pour-sa-deuxieme-journee-de-visite-a-la-reunion-1576246.html) (Francetvinfo.fr)
 
 - [Chikungunya : le début de la vaccination est "une étape importante dans la lutte contre cette épidémie", estime le directeur général de l'ARS de La Réunion](https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html) (Francetvinfo.fr)
+
+- [Plan blanc, campagne de vaccination… Ce qu’il faut savoir de l’épidémie de chikungunya à La Réunion](https://www.lepoint.fr/sante/plan-blanc-campagne-de-vaccination-ce-qu-il-faut-savoir-de-l-epidemie-de-chikungunya-a-la-reunion-06-04-2025-2586648_40.php) (Le Point)
+
+- [La Réunion : le plan blanc activé après une épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/la-reunion-le-plan-blanc-active-apres-une-epidemie-de-chikungunya_7173882.html) (Francetvinfo.fr)
