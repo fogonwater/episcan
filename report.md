@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-05-21 07:07
-- **Most recent article:** 2025-05-20 05:36:18
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-05-21 19:05
+- **Most recent article:** 2025-05-20 19:01:36
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 143 | 82 | 107 | 88 | 82 | 75 | 8 | 585 |
-| chikungunya | 15 | 39 | 46 | 16 | 15 | 25 | 3 | 159 |
-| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 7 | 158 |
-| h5n1 | 66 | 9 | 15 | 15 | 11 | 21 | 13 | 150 |
+| measles | 130 | 82 | 107 | 88 | 82 | 75 | 12 | 576 |
+| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 10 | 161 |
+| chikungunya | 13 | 39 | 46 | 16 | 15 | 25 | 6 | 160 |
+| h5n1 | 62 | 9 | 15 | 15 | 11 | 21 | 15 | 148 |
 | malaria | 9 | 14 | 34 | 22 | 19 | 11 | 8 | 117 |
 | mpox | 18 | 10 | 5 | 11 | 11 | 18 | 6 | 79 |
-| meningitis | 10 | 9 | 10 | 7 | 3 | 7 | 0 | 46 |
-| rabies | 7 | 0 | 3 | 4 | 12 | 3 | 3 | 32 |
-| zika | 5 | 7 | 2 | 3 | 6 | 3 | 2 | 28 |
+| meningitis | 9 | 9 | 10 | 7 | 3 | 7 | 0 | 45 |
+| zika | 5 | 7 | 2 | 3 | 6 | 3 | 6 | 32 |
+| rabies | 6 | 0 | 3 | 4 | 12 | 3 | 3 | 31 |
 | hpai | 3 | 5 | 1 | 2 | 3 | 1 | 1 | 16 |
 | pertussis | 2 | 5 | 3 | 4 | 1 | 1 | 0 | 16 |
 | typhoid | 2 | 3 | 3 | 2 | 1 | 1 | 0 | 12 |
 | leptospirosis | 0 | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
-| yersinia | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
+| yersinia | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,9 +34,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (zika)
 
+- [INSS vai pagar indenização de R$ 60 mil a crianças vítimas de zika](https://www.infomoney.com.br/minhas-financas/inss-vai-pagar-indenizacao-de-r-60-mil-a-criancas-vitimas-de-zika/) (InfoMoney)
+
+- [INSS vai pagar indenização de R$ 60 mil a crianças vítimas de zika](https://www.terra.com.br/vida-e-estilo/saude/inss-vai-pagar-indenizacao-de-r-60-mil-a-criancas-vitimas-de-zika,4ed89cf881023ba7971052f9c9386934vdhasslm.html) (Terra.com.br)
+
+- [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
+
+- [Decreto prevê indenização do INSS de R$ 60 mil a crianças vítimas de zika](https://valor.globo.com/brasil/noticia/2025/05/20/decreto-preve-indenizacao-do-inss-de-r-60-mil-a-criancas-vitimas-de-zika.ghtml) (Globo)
+
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
 
 - [Reduced microbe abundance in an urban larval development container increases Aedes aegypti susceptibility to Zika virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013154) (Plos.org)
+
+## 25-21 (yersinia)
+
+- [KU Leuven vindt in Sint-Truiden eerste bewijs van pestepidemie in middeleeuws Vlaanderen](https://www.vrt.be/vrtnws/nl/2025/05/20/grootste-dna-onderzoek-sint-truiden-skeletten-pest/) (Www.vrt.be)
 
 ## 25-21 (rabies)
 
@@ -61,6 +73,14 @@ Source: [News API](https://newsapi.org/)
 - [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (measles)
+
+- [Alberta reports 48 new cases of measles over the Victoria Day long weekend | Globalnews.ca](http://globalnews.ca/news/11188162/alberta-measles-update-victoria-day-weekend/) (Global News)
+
+- [Measles Updates: Texas Cases Pass 700 As Illness Reported In 30 States](https://www.forbes.com/sites/antoniopequenoiv/2025/05/20/measles-updates-texas-cases-pass-700-as-illness-reported-in-30-states/) (Forbes)
+
+- [Bobby Brainworms says no Covid vaccine for you](https://www.lawyersgunsmoneyblog.com/2025/05/bobby-brainworms-says-no-covid-vaccine-for-you) (Lawyersgunsmoneyblog.com)
+
+- [Evaluation of knowledge, attitudes and vaccine hesitancy towards MMR vaccine among parents in the United Arab Emirates](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324629) (Plos.org)
 
 - [Low risk of uncontrolled measles outbreak in Singapore because of vaccination: CDA](https://www.channelnewsasia.com/singapore/measles-outbreak-singapore-low-risk-vaccine-5141226) (CNA)
 
@@ -102,6 +122,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (h5n1)
 
+- [Há cinco investigações de suspeita de gripe aviária em andamento no Brasil](https://www.infomoney.com.br/brasil/ha-cinco-investigacoes-de-suspeita-de-gripe-aviaria-em-andamento-no-brasil/) (InfoMoney)
+
+- [Barreira ao frango inclui 17 destinos](https://valor.globo.com/impresso/noticia/2025/05/20/barreira-ao-frango-inclui-17-destinos.ghtml) (Globo)
+
 - [Brasil corre risco de ter um surto nacional de gripe aviária?](https://www.metropoles.com/saude/entenda-risco-surto-gripe-aviaria) (Metropoles.com)
 
 - [Gripe aviária: Agricultura investiga possíveis novos focos pelo país](https://www.metropoles.com/brasil/gripe-aviaria-agricultura-investiga-possiveis-novos-focos-pelo-pais) (Metropoles.com)
@@ -130,6 +154,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (dengue)
 
+- [Solução promissora poderia conter avanço do Aedes aegypti](https://olhardigital.com.br/2025/05/20/ciencia-e-espaco/solucao-promissora-poderia-conter-avanco-do-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Santé. Huit cas de dengue confirmés importés en Isère, six en Savoie : le moustique tigre frappe encore](https://www.ledauphine.com/sante/2025/05/20/huit-cas-de-dingue-confirmes-en-isere-six-en-savoie-le-moustique-tigre-frappe-encore) (Le Dauphiné Libéré)
+
+- [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
+
 - [Force of Infection Model for Estimating Time to Dengue Virus Seropositivity among Expatriate Populations, Thailand](https://wwwnc.cdc.gov/eid/article/31/6/24-1686_article) (Cdc.gov)
 
 - [Suman 3 mil 354 casos de dengue en México](https://www.excelsior.com.mx/nacional/dengue-mexico-3-mil-354-casos-muertes-2025-enfermedad/1716795) (Excelsior.com.mx)
@@ -145,6 +175,12 @@ Source: [News API](https://newsapi.org/)
 - [Students told to act as ambassadors to fight dengue in Udupi](https://timesofindia.indiatimes.com/city/mangaluru/students-told-to-act-as-ambassadors-to-fight-dengue-in-udupi/articleshow/121266775.cms) (The Times of India)
 
 ## 25-21 (chikungunya)
+
+- [Solução promissora poderia conter avanço do Aedes aegypti](https://olhardigital.com.br/2025/05/20/ciencia-e-espaco/solucao-promissora-poderia-conter-avanco-do-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Why some viral infections appear to trigger autoimmune disease](https://www.sciencedaily.com/releases/2025/05/250520121152.htm) (Science Daily)
+
+- [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
 
@@ -2418,8 +2454,6 @@ Source: [News API](https://newsapi.org/)
 
 - [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
 
-- [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
-
 ## 25-15 (pertussis)
 
 - [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
@@ -2483,8 +2517,6 @@ Source: [News API](https://newsapi.org/)
 - [GHS boss donates GHC 220K in medical supplies to fight meningitis in Northern Ghana](https://3news.com/health/ghs-boss-donates-ghc-220k-in-medical-supplies-to-fight-meningitis-in-northern-ghana/) (3news.com)
 
 - [23 states recorded 156 meningitis deaths, 1,858 suspected cases – NCDC](https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/) (The Punch)
-
-- [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
 
@@ -2748,32 +2780,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads](https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012) (Newsweek)
 
-- [Nigeria steps up advocacy for measles-rubella vaccine](https://punchng.com/nigeria-steps-up-advocacy-for-measles-rubella-vaccine/) (The Punch)
-
-- [A Second Child Dies Of Measles in Texas, Health Secretary Robert F. Kennedy Jr. Expected To Visit State](https://www.vanityfair.com/news/story/second-texas-child-measles-death-hhs-secretary-robert-f-kennedy-jr-to-visit-state) (Vanity Fair)
-
-- [Measles Outbreak: Second Child Dies In Texas As More Than 600 Cases Confirmed Nationwide](https://www.forbes.com/sites/antoniopequenoiv/2025/04/06/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
-
-- [Second child dies of measles in Texas](https://www.channelnewsasia.com/world/second-child-dies-measles-texas-5048051) (CNA)
-
-- [School-age child dies in Texas measles outbreak; health chief Kennedy now calls vaccine best protection](https://www.channelnewsasia.com/world/school-age-child-dies-texas-measles-outbreak-health-chief-kennedy-now-calls-vaccine-best-protection-5048051) (CNA)
-
-- [Second child dies from measles-related causes in West Texas](https://www.cbsnews.com/texas/news/texas-measles-outbreak-second-child-death-unvaccinated/) (CBS News)
-
-- [Second child dies of measles as Texas outbreak worsens](https://www.bbc.com/news/articles/ckg2xyyj9w5o) (BBC News)
-
-- [Second child dies of measles in Texas, media reports (Reuters)](https://www.memeorandum.com/250406/p28) (Memeorandum.com)
-
-- [Second child dies from measles-related causes in West Texas, where cases near 500](https://www.npr.org/2025/04/06/g-s1-58624/second-child-dies-from-measles-related-causes-in-west-texas-where-cases-near-500) (NPR)
-
-- [Second Child Dies From Measles-Related Causes in West Texas, Where Cases Near 500](https://time.com/7275294/second-child-dies-from-measles-related-causes-west-texas/) (Time)
-
-- [Second Child Died From Measles-Related Causes In West Texas, Where Cases Are Nearing 500](https://www.huffpost.com/entry/ap-us-measles-outbreak-death-texas_n_67f29c32e4b0abfc4625ad56) (HuffPost)
-
-- [Second measles death reported in Texas (Erika Edwards/NBC News)](https://www.memeorandum.com/250406/p13) (Memeorandum.com)
-
-- [A Second Child Dies of Measles in Texas (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250406/p10) (Memeorandum.com)
-
 ## 25-15 (malaria)
 
 - [Stakeholders seek youth participation in fight against malaria](https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/) (The Punch)
@@ -2928,14 +2934,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa](https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215) (Excelsior.com.mx)
 
-- [Meksika'da ‘H5N1’ alarmı! İlk kez bir insanda rastlandı!](https://www.haber7.com/dunya/haber/3519710-meksikada-h5n1-alarmi-ilk-kez-bir-insanda-rastlandi) (Haber7.com)
-
-- [W Meksyku stwierdzono pierwszy przypadek ptasiej grypy H5N1 u człowieka](https://www.bankier.pl/wiadomosc/W-Meksyku-stwierdzono-pierwszy-przypadek-ptasiej-grypy-H5N1-u-czlowieka-8920309.html) (Bankier.pl)
-
-- [Meksika'da ‘H5N1’ endişesi: İlk kez bir insanda görüldü](https://www.hurriyet.com.tr/dunya/meksikada-h5n1-endisesi-ilk-kez-bir-insanda-goruldu-42753558) (Hurriyet.com.tr)
-
-- [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
-
 ## 25-15 (dengue)
 
 - [Dengue cases in the West on decline - Ministry of Health - The Fiji Times](https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/) (Fijitimes.com.fj)
@@ -3011,7 +3009,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, aides aux agriculteurs, violences intrafamiliales... Manuel Valls sur tous les fronts pour sa deuxième journée de visite à La Réunion](https://la1ere.francetvinfo.fr/reunion/manuel-valls-sur-tous-les-fronts-pour-sa-deuxieme-journee-de-visite-a-la-reunion-1576246.html) (Francetvinfo.fr)
 
 - [Chikungunya : le début de la vaccination est "une étape importante dans la lutte contre cette épidémie", estime le directeur général de l'ARS de La Réunion](https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html) (Francetvinfo.fr)
-
-- [Plan blanc, campagne de vaccination… Ce qu’il faut savoir de l’épidémie de chikungunya à La Réunion](https://www.lepoint.fr/sante/plan-blanc-campagne-de-vaccination-ce-qu-il-faut-savoir-de-l-epidemie-de-chikungunya-a-la-reunion-06-04-2025-2586648_40.php) (Le Point)
-
-- [La Réunion : le plan blanc activé après une épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/la-reunion-le-plan-blanc-active-apres-une-epidemie-de-chikungunya_7173882.html) (Francetvinfo.fr)
