@@ -1,8 +1,315 @@
 {
-  "last_updated": "2025-05-23 07:07",
-  "count_articles_total": 1435,
-  "count_articles_new": 25,
+  "last_updated": "2025-05-23 19:05",
+  "count_articles_total": 1431,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 21506,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "More than 170 new measles cases reported in Ontario, bringing total to nearly 1,800",
+      "description": "Public Health Ontario says 173 more people have been infected with measles in the province over the past week, bringing the number of measles cases to 1,795 since Ontario's outbreak began last October.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-measles-outbreak-latest-1.7541098",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-22 16:57:20",
+      "content": "Public Health Ontario says 173 more people have been infected with measles in the province over the past week. That brings the number of measles cases to 1,795 since Ontario's outbreak began last Oc\u2026 [+653 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.463597",
+      "internal_id": "958ba946ab8d9bf12c506ef2c2b5aa885362914c028a152ce0696069f51b42ae",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21515,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Kedigiller aras\u0131nda ku\u015f gribi tehlikesi: 'Vir\u00fcs evrim ge\u00e7irdi ve t\u00fcrler aras\u0131nda atlama \u015fekli \u00e7ok endi\u015fe verici'",
+      "description": "Rusya'n\u0131n \u00f6nde gelen virologlar\u0131ndan Gintsburg, kedigiller aras\u0131nda H5N1 ku\u015f gribinin yay\u0131lmas\u0131n\u0131n insanlarda \u00f6l\u00fcmc\u00fcl bir salg\u0131na yol a\u00e7abilece\u011fi konusunda uyar\u0131da bulundu.",
+      "url": "https://anlatilaninotesi.com.tr/20250522/kedigiller-arasinda-kus-gribi-tehlikesi-virus-evrim-gecirdi-ve-turler-arasinda-atlama-sekli-cok-1096433205.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1096433205.jpg?10903809601747927180",
+      "publishedAt": "2025-05-22 15:19:39",
+      "content": "Vir\u00fcs evrim ge\u00e7irdi ve t\u00fcrler arasnda atlama ekli \u00e7ok endie verici. Yaz yaklarken, \u00e7iftliklerdeki ve vahi doadaki vakalarn yeniden artmasn bekliyoruz. Ku gribi kediler i\u00e7in \u00e7ok \u00f6l\u00fcmc\u00fcld\u00fcr ve insanlar\u2026 [+192 chars]",
+      "retrievedAt": "2025-05-23 19:05:50.265261",
+      "internal_id": "4c17e837c8800ef2d7d8634e4f9dbb9ee61b460cb4e0d33db1e7dbd670a593f7",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21509,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Measles, Mumps, Rubella (MMR) Vaccine (Monovalent, Trivalent) Market Trends Analysis and Growth Forecasts Report 2025-2030",
+      "description": "Government initiatives continue to play a central role in driving the MMR vaccine market growth. In February 2025, the New Mexico Department of Health launched a dedicated online resource in response to an alarming rise in measles cases. This initiative focus\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/05/22/3086861/28124/en/Measles-Mumps-Rubella-MMR-Vaccine-Monovalent-Trivalent-Market-Trends-Analysis-and-Growth-Forecasts-Report-2025-2030.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-05-22 15:18:00",
+      "content": "Dublin, May 22, 2025 (GLOBE NEWSWIRE) -- The \"Measles, Mumps, Rubella Vaccine Market Size, Share &amp; Trends Analysis Report by Type (Monovalent, Trivalent), Target Population (Infants &amp; Childre\u2026 [+8713 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.512390",
+      "internal_id": "1ddbc578a3c6bb964e85186f888e48f03b421315ec1d469965a6d4979277cb92",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21513,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Nina Golgowski",
+      "title": "Measles Alert In New Jersey After Infected Person Attends Sold-Out Shakira Show",
+      "description": "Anyone who attended the MetLife concert may have been exposed to the highly contagious virus, state health officials said.",
+      "url": "https://www.huffpost.com/entry/measles-case-shakira-concert-new-jersey_n_682f2646e4b0ef574bf5dbff",
+      "urlToImage": "https://img.huffingtonpost.com/asset/682f30f11b000024001da783.jpeg?cache=zASMGzcDGX&ops=1200_630",
+      "publishedAt": "2025-05-22 15:11:27",
+      "content": "Thousands of people may have been exposed to measles in New Jersey after attending a sold-out Shakira concert last week, health officials said. An out-of-state resident infected with the highly cont\u2026 [+3747 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.560866",
+      "internal_id": "1a4c05a6fb565e291da85aefe7effb9a5a89c9ced8fa2e7f3b74a6169ee5e525",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21518,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": "Circulating Now",
+      "title": "Remembering Mosquitoes: Malaria and Dengue Fever in WWII",
+      "description": "For many people, Memorial Day is the first official day of summer, bringing with it sunshine, warm weather, time outside, and of course the scourge of season: mosquitoes. Though mosquitoes may seem\u2026",
+      "url": "https://circulatingnow.nlm.nih.gov/2025/05/22/remembering-mosquitoes-malaria-and-dengue-fever-in-wwii/",
+      "urlToImage": "https://i0.wp.com/circulatingnow.nlm.nih.gov/wp-content/uploads/2025/05/Interior-view-of-a-patients-ward_Feature.jpg?fit=900%2C400&ssl=1",
+      "publishedAt": "2025-05-22 15:00:49",
+      "content": "For many people, Memorial Day is the first official day of summer, bringing with it sunshine, warm weather, time outside, and of course the scourge of season: mosquitoes. Though mosquitoes may seem t\u2026 [+9814 chars]",
+      "retrievedAt": "2025-05-23 19:05:50.646668",
+      "internal_id": "dd8e87a5200cd383045602b128f89812881378f5057021e9673d59dd81d19dc9",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21507,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta's measles case counts have topped 500 and doctors are worried",
+      "description": "It has taken Alberta less than three months to top 500 measles cases, sparking concern about the speed at which the virus is spreading in the province.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-s-measles-case-counts-have-topped-500-and-doctors-are-worried-1.7540588",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1716008972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-22 14:46:26",
+      "content": "It has taken Alberta less than three months to top 500 measles cases sparking concern about the speed at which the virus is spreading and fears it could lead to the death of a child. By midday Wedne\u2026 [+3777 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.479609",
+      "internal_id": "8d26463ee5940fcc1c326d592cd3a5bdd4ab8a908da67faf557208602394bb71",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21519,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "ET Online",
+      "title": "10 Types Of Headaches You Should Never Ignore",
+      "description": "10 Types Of Headaches You Should Never Ignore",
+      "url": "https://m.economictimes.com/magazines/panache/web-stories/10-types-of-headaches-you-should-never-ignore/slideshow/121343497.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121343662,width-900,height-1200,resizemode-6.cms",
+      "publishedAt": "2025-05-22 14:44:14",
+      "content": "A headache combined with a high fever, neck stiffness, confusion, or sensitivity to light could be a sign of meningitis or another brain infection.",
+      "retrievedAt": "2025-05-23 19:05:51.048089",
+      "internal_id": "76f842d3e9a6ecc080d258673b4752b932bafbe3fc24bd9f9af7e2956362f12d",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21514,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Berobbant a hal\u00e1los v\u00edrus: azonnal s\u00falyos hat\u00e1sa van a korl\u00e1toz\u00e1soknak",
+      "description": "A braz\u00edliai mad\u00e1rinfluenza-j\u00e1rv\u00e1ny jelent\u0151sen felbor\u00edtotta a d\u00e9l-koreai baromfipiacot, ami az \u00e1rak meredek emelked\u00e9s\u00e9hez vezetett. A Braz\u00edli\u00e1b\u00f3l sz\u00e1rmaz\u00f3 importkorl\u00e1toz\u00e1sok miatt a d\u00e9l-koreai v\u00e1s\u00e1rl\u00f3k alternat\u00edv beszerz\u00e9si forr\u00e1sok ut\u00e1n n\u00e9znek - k\u00f6z\u00f6lte a S&P\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20250522/berobbant-a-halalos-virus-azonnal-sulyos-hatasa-van-a-korlatozasoknak-763137",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-753145.jpg",
+      "publishedAt": "2025-05-22 14:11:00",
+      "content": "M\u00e1jus 16-\u00e1n jelentett\u00e9k be a H5N1 mad\u00e1rinfluenza kit\u00f6r\u00e9s\u00e9t a braz\u00edliai Rio Grande do Sul \u00e1llambeli Montenegr\u00f3ban, ami azonnali hat\u00e1ssal volt a d\u00e9l-koreai piacra. D\u00e9l-Korea szigor\u00fa importtilalmat veze\u2026 [+1937 chars]",
+      "retrievedAt": "2025-05-23 19:05:50.255701",
+      "internal_id": "be19410fe18a7e8594e436e4afd85a4fe72b36a378a8f8a24aa28d15e2901024",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21516,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Oliver Mendoza-Cano, Rogelio Danis-Lozano, X\u00f3chitl Trujillo, Miguel Huerta, M\u00f3nica R\u00edos-Silva, Agustin Lugo-Radillo, Jaime Alberto Bricio-Barrios, Ver\u00f3nica Benites-God\u00ednez, Herguin Benjamin Cuevas-Arellano, Juan Manuel Uribe-Ramos, Ram\u00f3n Solano-Barajas, Yolitzy C\u00e1rdenas, Jes\u00fas Venegas-Ram\u00edrez, Eder Fernando R\u00edos-Bracamontes, Luis A. Garc\u00eda-Sol\u00f3rzano, Arlette A. Camacho-delaCruz, Efr\u00e9n Murillo-Zamora",
+      "title": "Spatial patterns and clustering of dengue incidence in Mexico: Analysis of Moran\u2019s index across 2,471 municipalities from 2022 to 2024",
+      "description": "Dengue is an increasing public health challenge, with rising cases and expanding distribution. Its complex epidemiology is influenced by climate change, urbanization, and the circulation of multiple viral serotypes. This study aimed to characterize the spatia\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324754",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0324754.g003&size=inline",
+      "publishedAt": "2025-05-22 14:00:00",
+      "content": "Introduction Dengue fever, a vector-borne viral disease primarily transmitted by Aedes aegypti mosquitoes, is a major public health challenge globally, particularly in tropical and subtropical regio\u2026 [+25779 chars]",
+      "retrievedAt": "2025-05-23 19:05:50.619825",
+      "internal_id": "d9113e02a148139f4c6be6647252ad2f06fa091f62169cd9e1512b507fcba203",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21517,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Faishal F. Herdicho, F. Fatmawati, Cicik Alfiniyah, Farah P. Fajrin, Ebenezer Bonyah, Muhammad A. Rois, Olumuyiwa J. Peter",
+      "title": "Modeling the Dynamics of Dengue Transmission with Awareness and Optimal Control Analysis",
+      "description": "Dengue fever is a vector-borne disease which is transmitted by the bites of mosquitoes infected with dengue viruses. This disease is spread around the world and still as a global health problem. In this work, we formulate the dengue model by considering the p\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322702",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0322702.g014&size=inline",
+      "publishedAt": "2025-05-22 14:00:00",
+      "content": "Abstract Dengue fever is a vector-borne disease which is transmitted by the bites of mosquitoes infected with dengue viruses. This disease is spread around the world and still as a global health pro\u2026 [+38494 chars]",
+      "retrievedAt": "2025-05-23 19:05:50.636682",
+      "internal_id": "665af16bcd64c6e3a7164a5fa02d5c0b8b2daf49ea55276195489ad4709544e4",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21521,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Judith Dandi-Labou, Jonas A. Kengne-Ouafo, Leon Mugenzi, Magellan Tchouakui, Murielle Wondji, Charles S. Wondji",
+      "title": "Susceptibility profile of Anopheles and target site resistance mechanism against organophosphates in Cameroon.",
+      "description": "Escalating pyrethroid resistance in malaria vectors jeopardizes vector control, necessitating the use of alternative insecticides such as pirimiphos-methyl (organophosphate) for indoor residual spraying (IRS). Tracking the spread of resistance and elucidating\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321825",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321825.g006&size=inline",
+      "publishedAt": "2025-05-22 14:00:00",
+      "content": "Abstract Escalating pyrethroid resistance in malaria vectors jeopardizes vector control, necessitating the use of alternative insecticides such as pirimiphos-methyl (organophosphate) for indoor resi\u2026 [+56297 chars]",
+      "retrievedAt": "2025-05-23 19:05:51.673425",
+      "internal_id": "f2079d49df4a46d71177784681bde49574aa9f969539d8b8c2a6a976670cfae8",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21520,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman with Newser.AI",
+      "title": "In Quest to Vanquish Malaria, a 'Momentous Step'",
+      "description": "What if, instead of killing mosquitoes to stop malaria, we simply cured them? Harvard scientists believe giving mosquitoes anti-malarial drugs could turn these notorious disease-carriers into harmless biters. Malaria, a parasitic disease spread by female mosq\u2026",
+      "url": "https://www.newser.com/story/369075/in-quest-to-vanquish-malaria-a-momentous-step.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1612047-12-20250522080817.jpeg",
+      "publishedAt": "2025-05-22 12:41:00",
+      "content": "What if, instead of killing mosquitoes to stop malaria, we simply cured them? Harvard scientists believe giving mosquitoes anti-malarial drugs could turn these notorious disease-carriers into harmles\u2026 [+1692 chars]",
+      "retrievedAt": "2025-05-23 19:05:51.548251",
+      "internal_id": "1a3dbc02d1adf1c5876ff8da4a48854d9995706151ffd62cdf9701c7616777be",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21511,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Shakira's concert sparks measles outbreak scare: Check a list of most-affected US states, symptoms and vaccine",
+      "description": "A measles outbreak, the worst in over two decades, is sweeping the US, with Texas as the epicenter. Over 1,000 cases have been confirmed across 31 states, resulting in three deaths. Health officials are concerned about declining vaccination rates and the pote\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/shakiras-concert-sparks-measles-outbreak-scare-check-a-list-of-most-affected-us-states-symptoms-and-vaccine/articleshow/121339205.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121339330,width-1200,height-630,imgsize-88412,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-22 11:09:52",
+      "content": "New Jersey officials have warned that someone from out of state attended a Shakira concert while infected with measles. The states Department of Health shared that although cases have not yet been co\u2026 [+5665 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.536037",
+      "internal_id": "26d0024cb663cd8089cfbc1e885dd14fe17df90d24256b604314ccf143eb4f9d",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21510,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "'Rifts in families': Parents seek better talk on vaccines as measles outbreak grows",
+      "description": "Parents are feeling the strain as the measles outbreak grows, especially in southern Alberta. At a Lethbridge playground, they say they\u2019re trying to keep kids safe and navigate touchy vaccine conversations, whether they\u2019re pro-vaccines or not.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-lethbridge-parents-1.7537476",
+      "urlToImage": "https://i.cbc.ca/1.7537775.1747868309!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/mackenzie-sailer.JPG?im=Resize%3D620",
+      "publishedAt": "2025-05-22 11:00:00",
+      "content": "As the measles outbreak grows in Alberta, some parents are feeling the strain. They're trying to keep kids safe and navigate touchy vaccine conversations with friends and family, whether they're pro-\u2026 [+9105 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.520606",
+      "internal_id": "6ed8acc576ad71c35135cabe412481bef0337d071c51ad9b9c06596ecc2c0540",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21508,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Varsha Vats",
+      "title": "Measles Scare After Shakira's Concert: Signs and Symptoms Of This Highly Contagious Disease",
+      "description": "According to CDC, the two doses of MMR vaccine are 97% effective against the virus. In some countries, vaccination against chickenpox is also combined with the MMR vaccine.",
+      "url": "https://www.ndtv.com/health/measles-scare-after-shakiras-concert-signs-and-symptoms-of-this-highly-contagious-disease-8479267",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/efm6qhrs_shakira_625x300_27_September_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-05-22 10:12:03",
+      "content": "The New Jersey Department of Health has cautioned individuals who attended Shakira's concert on May 15 of a possible exposure to measles. Officials have confirmed that an infected person was present \u2026 [+2727 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.503180",
+      "internal_id": "8b0cd022c8fc866c2abeb4383fee18ca6bd27b24b7b56482c56533865877bef6",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21512,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles concerns growing for Manitoba parents as official says province is seeing outbreak",
+      "description": "Parents in Manitoba are growing more concerned as measles cases rise, and for the first time, officials have called what's happening in the province an outbreak.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/parents-measles-community-transmission-1.7540637",
+      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-22 10:00:00",
+      "content": "Parents in Manitoba are growing more concerned as measles cases rise, and for the first time, officials have called what's happening in the province an outbreak. On Wednesday, the province announced\u2026 [+5077 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.551956",
+      "internal_id": "09aa61819ea57177d81549867a09b045dd26869cfe5625765096e6d54374da8a",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21505,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Hedy Phillips",
+      "title": "Concerts and Airports Hit by Measles Exposures. Do You Need Another Measles Booster?",
+      "description": "The current measles outbreak in the US has grown to more than 1,000 cases.",
+      "url": "https://www.cnet.com/health/medical/concerts-and-airports-hit-by-measles-exposures-do-you-need-another-measles-booster/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7d1bf086f98f1a6093db16d4a03cfedc3850234d/hub/2025/03/03/cd04423f-50b4-4168-ab5d-ac469b21d68e/measles-vaccine.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-05-22 09:15:03",
+      "content": "Although the state of New Jersey has reported only three recent cases of measles, two major events may have sharply increased the odds of an outbreak in the state. On May 15, the state warned resid\u2026 [+11564 chars]",
+      "retrievedAt": "2025-05-23 19:05:49.344636",
+      "internal_id": "dff1b8973826602e29e5ceb35c3b026fd42421f2b503ebf2327384322bf47ad5",
+      "publishedAtLabel": "May 22"
+    },
     {
       "id": 21494,
       "query": [
@@ -25523,384 +25830,6 @@
       "content": "A second unvaccinated child in West Texas has died from measles-related complications, hospital officials confirmed on Sunday. The child, identified as an 8-year-old girl, died early Thursday mornin\u2026 [+4954 chars]",
       "retrievedAt": "2025-04-08 07:07:15.149824",
       "internal_id": "e0cccb42ced0397d362336eb313862cf8e95fc913a1bbcab07aa068dfa5a4421",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Nigeria steps up advocacy for measles-rubella vaccine",
-      "description": "Nigeria has stepped up advocacy efforts in preparation for introducing the measles-rubella vaccine to prevent congenital defects. The Centre for Well-Being and Integrated Nutrition Solutions, in a statement on Sunday by its Head of Mission for the Advocacy Pr\u2026",
-      "url": "https://punchng.com/nigeria-steps-up-advocacy-for-measles-rubella-vaccine/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/04/06185146/Measles-150x150-1-1024x630.jpeg",
-      "publishedAt": "2025-04-06 18:09:43",
-      "content": "Nigeria has stepped up advocacy efforts in preparation for introducing the measles-rubella vaccine to prevent congenital defects. The Centre for Well-Being and Integrated Nutrition Solutions, in a s\u2026 [+4763 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.717872",
-      "internal_id": "5290763e0ce2a1218e8b8cb7088fea8bc15e4d2842f0193b8f95f98a92f3b0d0",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20073,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Vanity Fair",
-      "author": "Katie Herchenroeder",
-      "title": "A Second Child Dies Of Measles in Texas, Health Secretary Robert F. Kennedy Jr. Expected To Visit State",
-      "description": "A longtime vaccine skeptic, RFK Jr. is planning to attend the 8-year-old girl's funeral on Sunday, according to NBC News.",
-      "url": "https://www.vanityfair.com/news/story/second-texas-child-measles-death-hhs-secretary-robert-f-kennedy-jr-to-visit-state",
-      "urlToImage": "https://media.vanityfair.com/photos/67f2b84d49b411c3bb82a6af/16:9/w_1280,c_limit/2201702057",
-      "publishedAt": "2025-04-06 17:59:16",
-      "content": "An 8-year-old girl in Lubbock, Texas died on Thursday after contracting measles, according to records obtained by The New York Timesthe second confirmed death from the growing outbreak in West Texas.\u2026 [+2766 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.578976",
-      "internal_id": "fb955d616cdfef1b2b17f3a637eb7da378a963b122da88012846169b6ed0ac99",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20069,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": "Ratnadip Choudhury",
-      "title": "Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected",
-      "description": "Multiple cases of rabies have been reported from Manipur&#039;s Churachandpur, after which authorities have put restrictions in place and declared containment zones.",
-      "url": "https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-04-06 17:25:23",
-      "content": "Guwahati: Multiple cases of rabies have been reported from Manipur's Churachandpur, after which authorities have put restrictions in place and declared containment zones. The cases of rabies started\u2026 [+1515 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.029112",
-      "internal_id": "79cf2290f092b6f751cd8c4baf21c7ae359c27e8571bb53f1a43b6c85804bb85",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20072,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
-      "title": "Measles Outbreak: Second Child Dies In Texas As More Than 600 Cases Confirmed Nationwide",
-      "description": "Texas remains the state with the highest number of cases, by far.",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/06/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-04-06 17:13:59",
-      "content": "A second child has died in Texas after contracting measles, The New York Times first reported Sundaythe second confirmed death from the disease in a decadeas more than 600 measles cases have now been\u2026 [+7604 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.549216",
-      "internal_id": "c09ff7fcd6b27535492938eec03fece8778ba48a09abc7ef634102714b085daf",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20075,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Second child dies of measles in Texas",
-      "description": "A second child with measles has died in Texas, a local hospital spokesperson confirmed on Sunday (Apr 6), as hundreds of cases of the infectious disease have been recorded in recent weeks. The developments have prompted",
-      "url": "https://www.channelnewsasia.com/world/second-child-dies-measles-texas-5048051",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Ljc02rdp--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-04-06t051936z_1_lynxnpel3501n_rtroptp_3_usa-health-measles.jpg?itok=aACz47Hb",
-      "publishedAt": "2025-04-06 17:12:07",
-      "content": "A second child with measles has died in Texas, a local hospital spokesperson confirmed on Sunday (Apr 6), as hundreds of cases of the infectious disease have been recorded in recent weeks. The devel\u2026 [+1327 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.611972",
-      "internal_id": "1d7ed79442ddaa44ba1b03b1238de38487b909c62987807b83b2a5f50d34dca5",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20077,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "School-age child dies in Texas measles outbreak; health chief Kennedy now calls vaccine best protection",
-      "description": "A second child with measles has died in Texas, state officials said on Sunday (Apr 6), in an outbreak of the childhood disease that has resulted in nearly 500 cases in Texas and has spread across 22 states. The school-aged child, who was unvaccinated and had \u2026",
-      "url": "https://www.channelnewsasia.com/world/school-age-child-dies-texas-measles-outbreak-health-chief-kennedy-now-calls-vaccine-best-protection-5048051",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Ljc02rdp--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-04-06t051936z_1_lynxnpel3501n_rtroptp_3_usa-health-measles.jpg?itok=aACz47Hb",
-      "publishedAt": "2025-04-06 17:12:00",
-      "content": "A second child with measles has died in Texas, state officials said on Sunday (Apr 6), in an outbreak of the childhood disease that has resulted in nearly 500 cases in Texas and has spread across 22 \u2026 [+1231 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.639969",
-      "internal_id": "2dfb27d976dc02e99cf5834ddeb6cda8da9b5c3bbe7d0861e2f8a5be40ef4f10",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20087,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Meningitis death toll hits 156, suspected cases 1,858",
-      "description": "The death toll from cerebrospinal meningitis in Nigeria has risen to 156, up from the previous 74, according to the Nigeria Centre for Disease Control and Prevention. The latest data, released by the NCDC on Sunday, covering week 40 of 2024 to week 12 of 2025\u2026",
-      "url": "https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/18234619/Meningitis-vaccines.jpg",
-      "publishedAt": "2025-04-06 17:10:17",
-      "content": "The death toll from cerebrospinal meningitis in Nigeria has risen to 156, up from the previous 74, according to the Nigeria Centre for Disease Control and Prevention. The latest data, released by th\u2026 [+5116 chars]",
-      "retrievedAt": "2025-04-07 19:05:56.606330",
-      "internal_id": "a01e3f8a7e083ed0cb8bc5462f1c96f0dc31d4d1080072c652db0997f8168f63",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20074,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": null,
-      "title": "Second child dies from measles-related causes in West Texas",
-      "description": "A spokesperson for UMC Health System in Lubbock, Texas, said that the child was \"receiving treatment for complications of measles while hospitalized\" and was not vaccinated.",
-      "url": "https://www.cbsnews.com/texas/news/texas-measles-outbreak-second-child-death-unvaccinated/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/06/cf09e280-a1cd-4753-97a0-cb95e5b26a62/thumbnail/1200x630/05d62c9b328116c5cd4c8892b5343f06/ap25063004603558.jpg?v=7613930c2bdb7d1bf55be910a9b022f2",
-      "publishedAt": "2025-04-06 17:10:14",
-      "content": "A second school-aged child has died in Texas from a measles-related illness, a hospital spokesperson confirmed Sunday. The child's death comes as an outbreak of measles originating in West Texas cont\u2026 [+3591 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.587803",
-      "internal_id": "496f928b735e152402c4bfa0185a2c17d11205ffd6c3c910acaeee4b6deec28f",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20071,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Second child dies of measles as Texas outbreak worsens",
-      "description": "Health Secretary Robert F Kennedy Jr is reportedly headed to the state, which has has 480 cases.",
-      "url": "https://www.bbc.com/news/articles/ckg2xyyj9w5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aa96/live/1338b8d0-12f4-11f0-8bc5-d317b6dd5c85.jpg",
-      "publishedAt": "2025-04-06 16:21:53",
-      "content": "A second child has died from the highly contagious measles virus as an outbreak in western Texas continues to grow. The school-aged child was not vaccinated, had no underlying health conditions and\u2026 [+3071 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.498334",
-      "internal_id": "49408b8f0928edfca4809d6968f720815092678d46932a2510fac54433556c95",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20079,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Second child dies of measles in Texas, media reports (Reuters)",
-      "description": "Reuters: Second child dies of measles in Texas, media reports \u2014 A second child with measles has died in Texas as hundreds of cases of the infectious disease have been recorded in recent weeks, prompting U.S. Health Secretary Robert F. Kennedy Jr. to visit t\u2026",
-      "url": "https://www.memeorandum.com/250406/p28",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XGFNALUKBBI53DXQVLINJWS4H4.jpg?auth=1e1dc862ea0878a40142872abf3453eb3bd49bff0d65e4d7b2b745d6b30d2ee9&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2025-04-06 15:50:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.664713",
-      "internal_id": "950b129f78421c77baa39b08620f4d51292e75db2169b3fafab701af9a68f720",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20080,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "The Associated Press",
-      "title": "Second child dies from measles-related causes in West Texas, where cases near 500",
-      "description": "A second school-aged child in West Texas has died from a measles-related illness, a hospital spokesman confirmed Sunday, as the outbreak continues to swell.",
-      "url": "https://www.npr.org/2025/04/06/g-s1-58624/second-child-dies-from-measles-related-causes-in-west-texas-where-cases-near-500",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5825x3277+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F69%2F6d48eb7347d19628ac87114a6b3a%2Fap25096502247905.jpg",
-      "publishedAt": "2025-04-06 15:45:26",
-      "content": "A second school-aged child in West Texas has died from a measles-related illness, a hospital spokesman confirmed Sunday, as the outbreak continues to swell. Aaron Davis, a spokesperson for UMC Healt\u2026 [+2351 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.673890",
-      "internal_id": "05675eb580a2887fc5777a416d6233b56b75bfe463ac1e3d34b8d95a952d6dea",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20070,
-      "query": [
-        "measles"
-      ],
-      "source_id": "time",
-      "source_name": "Time",
-      "author": "DEVI SHASTRI / AP",
-      "title": "Second Child Dies From Measles-Related Causes in West Texas, Where Cases Near 500",
-      "description": "The West Texas outbreak is believed to have spread to New Mexico, Oklahoma and Kansas, sickening nearly 570 people.",
-      "url": "https://time.com/7275294/second-child-dies-from-measles-related-causes-west-texas/",
-      "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/AP25058272640075.jpg?quality=85&w=1200&h=628&crop=1",
-      "publishedAt": "2025-04-06 15:27:07",
-      "content": "A second school-aged child in West Texas has died from a measles-related illness, a hospital spokesman confirmed Sunday, as the outbreak continues to swell. Aaron Davis, a spokesperson for UMC Healt\u2026 [+2399 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.481406",
-      "internal_id": "97e042e1d17f1b98a2a832c5190d482507f01a9b1e9f5a51dcdcdd3c6ae9b091",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "HuffPost",
-      "author": "AP",
-      "title": "Second Child Died From Measles-Related Causes In West Texas, Where Cases Are Nearing 500",
-      "description": "A second school-aged child in West Texas has died from a measles-related illness.",
-      "url": "https://www.huffpost.com/entry/ap-us-measles-outbreak-death-texas_n_67f29c32e4b0abfc4625ad56",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67f29c7b15000025000ac087.jpeg?ops=1200_630",
-      "publishedAt": "2025-04-06 15:24:43",
-      "content": "FILE - A measles sign is seen at the Texas Tech University Health Sciences Center, Feb. 25, 2025, in Lubbock, Texas. (AP Photo/Julio Cortez, file) A second school-aged child in West Texas has died f\u2026 [+3872 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.776231",
-      "internal_id": "45e0ce92b334e045a98916931ae7380c5317c3db73dfc5cae58ebc9d8517f1ba",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Fatih Yoncal\u0131k",
-      "title": "Meksika'da \u2018H5N1\u2019 alarm\u0131! \u0130lk kez bir insanda rastland\u0131!",
-      "description": "Meksika'da ilk kez bir insanda \u2018H5N1\u2019 t\u00fcr\u00fc ku\u015f gribine rastland\u0131. A\u00e7\u0131klamada bulunan Meksikal\u0131 yetkililer, \u2018H5N1\u2019in \u015fu ana kadar insandan insana bula\u015ft\u0131\u011f\u0131na dair bir kan\u0131t\u0131n olmad\u0131\u011f\u0131n\u0131 belirtti.",
-      "url": "https://www.haber7.com/dunya/haber/3519710-meksikada-h5n1-alarmi-ilk-kez-bir-insanda-rastlandi",
-      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/14/smxy9_1743948595_6946.jpg",
-      "publishedAt": "2025-04-06 14:32:00",
-      "content": "Meksika Salk Bakanl, \u00fclkede ilk kez bir insanda H5N1 t\u00fcr\u00fc ku gribine rastlandn bildirdi. Bakanln a\u00e7klamasna g\u00f6re, kuzeydeki Durango eyaletinde 3 yandaki kz \u00e7ocuunun ku gribi olduu doruland. Kz \u00e7ocuun\u2026 [+408 chars]",
-      "retrievedAt": "2025-04-07 19:05:55.487474",
-      "internal_id": "0ed0312c64b74a556b6c2c89bfee24a5baf5553eb866b943a5ead9b800ef1e16",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20078,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Second measles death reported in Texas (Erika Edwards/NBC News)",
-      "description": "Erika Edwards / NBC News: Second measles death reported in Texas \u2014 Health Secretary Robert F. Kennedy Jr. is expected to attend the child's funeral, which is scheduled for Sunday. \u2014 Another child with measles in Texas has died, the Department of Health an\u2026",
-      "url": "https://www.memeorandum.com/250406/p13",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250319-measles-sign-texas-inline-lr-eb8c2f.jpg",
-      "publishedAt": "2025-04-06 13:40:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.655738",
-      "internal_id": "93ec314a667a3e2107558b09643d46770ca2572c7b4aaed0fafd8151631fe14f",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20088,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Lucile Bri\u00e8re",
-      "title": "Plan blanc, campagne de vaccination\u2026 Ce qu\u2019il faut savoir de l\u2019\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union",
-      "description": "Le ministre des Outre-mer, Manuel Valls, est en deplacement a La Reunion ce dimanche 6 avril. Le pic de l'epidemie de chikungunya est attendu pour la mi-avril.",
-      "url": "https://www.lepoint.fr/sante/plan-blanc-campagne-de-vaccination-ce-qu-il-faut-savoir-de-l-epidemie-de-chikungunya-a-la-reunion-06-04-2025-2586648_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/06/27541039lpw-27541047-mega-une-jpg_11028298.jpg",
-      "publishedAt": "2025-04-06 13:37:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya s'intensifie \u00e0 La R\u00e9union. Pr\u00e8s de 6 000 nouveaux cas ont \u00e9t\u00e9 recens\u00e9s en une semaine sur l'\u00eele, portant le nombre de malades \u00e0 plus de 20 000. \u00ab Les semaines les plus d\u00e9lic\u2026 [+3856 chars]",
-      "retrievedAt": "2025-04-07 19:05:57.598018",
-      "internal_id": "ef3bdc519018b3d70f34a9bef224e85e81e8158368f361538642b827fe111514",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20076,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "A Second Child Dies of Measles in Texas (Teddy Rosenbluth/New York Times)",
-      "description": "Teddy Rosenbluth / New York Times: A Second Child Dies of Measles in Texas \u2014 It is the second confirmed measles death in the U.S. in a decade. If the outbreak continues at the current pace, the nation may lose its \u201celimination\u201d status. \u2014 2 MIN READ \u2014 H\u2026",
-      "url": "https://www.memeorandum.com/250406/p10",
-      "urlToImage": "https://static01.nyt.com/images/2025/04/06/multimedia/06hs-measles1-zjbv/06hs-measles1-zjbv-mediumSquareAt3X.jpg",
-      "publishedAt": "2025-04-06 13:05:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-07 19:05:54.628977",
-      "internal_id": "77b6abb5cefc8b65f763f8a85bf83f633836598559dbcfe3438d4ad0daa915bb",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Bankier.pl",
-      "author": "Redaktor Bankier.pl",
-      "title": "W Meksyku stwierdzono pierwszy przypadek ptasiej grypy H5N1 u cz\u0142owieka",
-      "description": "Pierwszy w Meksyku przypadek ptasiej grypy (H5N1) u cz\u0142owieka stwierdzono u trzyletniej dziewczynki ze stanu Durango na p\u00f3\u0142nocy kraju \u2013 poinformowa\u0142o ministerstwo zdrowia, cytowane w sobot\u0119 przez agencj\u0119 AP. Dziecko trafi\u0142o do szpitala, jego stan jest okre\u015bla\u2026",
-      "url": "https://www.bankier.pl/wiadomosc/W-Meksyku-stwierdzono-pierwszy-przypadek-ptasiej-grypy-H5N1-u-czlowieka-8920309.html",
-      "urlToImage": "https://galeria.bankier.pl/p/9/3/639eeedff9177f-948-568-0-270-4000-2399.jpg",
-      "publishedAt": "2025-04-06 10:23:30",
-      "content": "Pierwszy w Meksyku przypadek ptasiej grypy (H5N1) u czowieka stwierdzono u trzyletniej dziewczynki ze stanu Durango na p\u00f3nocy kraju poinformowao ministerstwo zdrowia, cytowane w sobot przez agencj AP\u2026 [+910 chars]",
-      "retrievedAt": "2025-04-07 19:05:55.510244",
-      "internal_id": "b0acaa16d69e19569ee82a9b0fad1e631b3c1415f867a9274fe6d6a95361a817",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20086,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet.com.tr",
-      "author": "hurriyet.com.tr",
-      "title": "Meksika'da \u2018H5N1\u2019 endi\u015fesi: \u0130lk kez bir insanda g\u00f6r\u00fcld\u00fc",
-      "description": "Meksika Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131, ilk kez bir insanda \u2018H5N1\u2019 t\u00fcr\u00fc ku\u015f gribinin tespit edildi\u011fini duyurdu.",
-      "url": "https://www.hurriyet.com.tr/dunya/meksikada-h5n1-endisesi-ilk-kez-bir-insanda-goruldu-42753558",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/67f24604f44eecccc99feae1.jpg",
-      "publishedAt": "2025-04-06 09:15:07",
-      "content": "p&gt;Meksika Salk Bakanl, \u00fclkede ilk kez bir insanda H5N1 t\u00fcr\u00fc ku gribine rastlandn bildirdi. Bakanln a\u00e7klamasna g\u00f6re, kuzeydeki Durango eyaletinde 3 yandaki kz \u00e7ocuunun ku gribi olduu doruland. Kz \u00e7\u2026 [+385 chars]",
-      "retrievedAt": "2025-04-07 19:05:55.732312",
-      "internal_id": "ed4fe0b536551b6c4257583ff222ec41a0a09e79a021b7ebb94c062a12f1471f",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Q&A: How Nova Scotians can help prevent the spread of bird flu",
-      "description": "Spring is in the air. That means more birds flocking to Nova Scotia and the risk of avian influenza, commonly known as bird flu.",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052",
-      "urlToImage": "https://i.cbc.ca/1.6080939.1742323097!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/1228294036.jpeg?im=Resize%3D620",
-      "publishedAt": "2025-04-06 09:00:00",
-      "content": "Spring is in the air. That means more birds flocking to Nova Scotia and the risk of avian influenza (H5N1), commonly known as bird flu. An estimated 12,000 birds in Nova Scotia have been impacted \u2026 [+4238 chars]",
-      "retrievedAt": "2025-04-07 19:05:55.666755",
-      "internal_id": "0f8d8114b91234d8d3080d12df4c6081afc201968c3f39dc3bd85ee0a1f89261",
-      "publishedAtLabel": "Apr 6"
-    },
-    {
-      "id": 20089,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "La R\u00e9union : le plan blanc activ\u00e9 apr\u00e8s une \u00e9pid\u00e9mie de chikungunya",
-      "description": "L\u2019\u00eele de La R\u00e9union fait face \u00e0 une \u00e9pid\u00e9mie de chikungunya. Pr\u00e8s de 6 000 nouveaux cas ont \u00e9t\u00e9 recens\u00e9s en une semaine, portant le nombre de malades \u00e0 plus de 20 000. Le plan blanc a \u00e9t\u00e9 activ\u00e9 au CHU de l\u2019\u00eele et une campagne de vaccination doit d\u00e9buter lund\u2026",
-      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/la-reunion-le-plan-blanc-active-apres-une-epidemie-de-chikungunya_7173882.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/bK-Vwq2bssYD30HBDO71WSWqq34/163x0:1358x672/1500x843/2025/04/06/chikungunya-67f2350f34f76684517796.png",
-      "publishedAt": "2025-04-06 08:02:58",
-      "content": "Des patients toujours plus nombreux et des urgences satur\u00e9es au CHU de La R\u00e9union o\u00f9 le plan blanc a \u00e9t\u00e9 activ\u00e9 pour faire face au chikungunya. Les soignants en cong\u00e9s sont rappel\u00e9s en renfort et les\u2026 [+761 chars]",
-      "retrievedAt": "2025-04-07 19:05:57.628411",
-      "internal_id": "cb3fd7c6f95cce850b098e34f2a7fd3a56d9b5b8d7b9a332ce86b921aaf57d48",
       "publishedAtLabel": "Apr 6"
     }
   ]
