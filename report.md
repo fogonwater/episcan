@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 37
-- **Last harvest:** 2025-05-22 19:06
-- **Most recent article:** 2025-05-21 19:00:06
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-05-23 07:07
+- **Most recent article:** 2025-05-22 05:20:02
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 130 | 82 | 107 | 88 | 82 | 75 | 32 | 596 |
-| h5n1 | 62 | 9 | 15 | 15 | 11 | 21 | 32 | 165 |
+| measles | 143 | 82 | 107 | 88 | 82 | 75 | 42 | 619 |
+| h5n1 | 66 | 9 | 15 | 15 | 11 | 21 | 36 | 173 |
+| chikungunya | 15 | 39 | 46 | 16 | 15 | 25 | 10 | 166 |
 | dengue | 23 | 30 | 16 | 32 | 26 | 24 | 13 | 164 |
-| chikungunya | 13 | 39 | 46 | 16 | 15 | 25 | 9 | 163 |
-| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 13 | 122 |
+| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 20 | 129 |
 | mpox | 18 | 10 | 5 | 11 | 11 | 18 | 8 | 81 |
-| meningitis | 9 | 9 | 10 | 7 | 3 | 7 | 3 | 48 |
-| zika | 5 | 7 | 2 | 3 | 6 | 3 | 7 | 33 |
-| rabies | 6 | 0 | 3 | 4 | 12 | 3 | 4 | 32 |
+| meningitis | 10 | 9 | 10 | 7 | 3 | 7 | 3 | 49 |
+| zika | 5 | 7 | 2 | 3 | 6 | 3 | 8 | 34 |
+| rabies | 7 | 0 | 3 | 4 | 12 | 3 | 4 | 33 |
+| pertussis | 2 | 5 | 3 | 4 | 1 | 1 | 2 | 18 |
 | hpai | 3 | 5 | 1 | 2 | 3 | 1 | 2 | 17 |
-| pertussis | 2 | 5 | 3 | 4 | 1 | 1 | 0 | 16 |
 | typhoid | 2 | 3 | 3 | 2 | 1 | 1 | 0 | 12 |
 | leptospirosis | 0 | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
 | yersinia | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-21 (zika)
+
+- [INSS paga R$ 60 mil a crianças vítimas de zika. Saiba como pedir](https://www.metropoles.com/brasil/inss-paga-r-60-mil-a-criancas-vitimas-de-zika-saiba-como-pedir) (Metropoles.com)
 
 - [Parte in E-R il piano per la lotta alle zanzare](https://www.ansa.it/emiliaromagna/notizie/2025/05/21/parte-in-e-r-il-piano-per-la-lotta-alle-zanzare_a9e2d129-d316-4e07-a5f5-96ba08f262d7.html) (ANSA.it)
 
@@ -62,6 +64,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
 
+## 25-21 (pertussis)
+
+- [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
+
+- [Hawaii pertussis cases are on the rise | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/05/21/breaking-news/hawaii-pertussis-cases-are-on-the-rise/) (Honolulu Star-Advertiser)
+
 ## 25-21 (mpox)
 
 - [มาแล้ว วัคซีนป้องกันหนองในครั้งแรกของโลก หลังยอดติดเชื้อในอังกฤษพุ่งสูงสุดในรอบศตวรรษ](https://www.thairath.co.th/news/foreign/2859619) (Thairath.co.th)
@@ -89,6 +97,26 @@ Source: [News API](https://newsapi.org/)
 - [Student, 23, who had arms and legs amputated 'wants to get message out' to stop others going through her ordeal](https://news.sky.com/story/student-23-who-lost-all-four-limbs-to-sepsis-calls-on-people-to-get-meningitis-vaccine-13371788) (Sky.com)
 
 ## 25-21 (measles)
+
+- [Manitoba becomes ground zero in Canada's measles crisis; Symptoms and treatment](https://economictimes.indiatimes.com/news/international/canada/manitoba-becomes-ground-zero-in-canadas-measles-crisis-symptoms-and-treatment/articleshow/121327391.cms) (The Times of India)
+
+- [Shakira concertgoers issued with urgent health warning in New Jersey - NewsBreak](https://www.newsbreak.com/share/4017171944891-shakira-concertgoers-issued-with-urgent-health-warning-in-new-jersey?_f=app_share&pd=01AtGpi3&lang=en_US&send_time=1747877413&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.18.0.43%22%2C%22languages%22%3A%22en%22%7D&sep=ns_local_strategy_25q1_exp-v9%2Cns_foryou_recall_exp_25q2-v5%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-v6%2Cns_foryou_rank_exp_25q2-v5&s=i2) (Newsbreak.com)
+
+- [Shakira concertgoers issued with urgent health warning in New Jersey - NewsBreak](https://www.newsbreak.com/share/4017171944891-shakira-concertgoers-issued-with-urgent-health-warning-in-new-jersey?s=a2&share_destination_id=OTU2MzU1NDYtMTc0Nzg3NjcyNjIyOA%3D%3D&pd=06THAo6M&hl=en_US&send_time=1747876726&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.20.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q2-v8%2Cns_local_strategy_25q1_exp-v5%2Cns_foryou_rank_exp_25q2-v9%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v1) (Newsbreak.com)
+
+- [Increase In Baby Vaccinations Amid Texas Measles Outbreak](https://www.huffpost.com/entry/more-babies-are-getting-vaccinated-as-the-texas-measles-outbreak-continues_n_682dfcaae4b0627160e81f40) (HuffPost)
+
+- [Colorado health officials warn of possible measles exposure at Pueblo hotel](https://www.denverpost.com/2025/05/21/measles-pueblo-hotel-holiday-inn/) (The Denver Post)
+
+- [Shakira Concert Attendees Potentially Exposed to Measles, New Jersey Officials Say](https://consequence.net/2025/05/shakira-concert-measles-exposure/) (Consequence.net)
+
+- [Measles Was the Surprise Guest at Shakira’s Concert](http://www.thecut.com/article/was-there-measles-outbreak-shakira-metlife-concert.html) (The Cut)
+
+- [Potential Measles Outbreak at Shakira's NJ Concert](https://ohnotheydidnt.livejournal.com/130599432.html) (Livejournal.com)
+
+- [Manitoba confirms 16 more measles cases, putting total at 60](https://www.cbc.ca/news/canada/manitoba/measles-updates-manitoba-1.7540182) (CBC News)
+
+- [Did Shakira's concert in New Jersey last week contribute to the spread of the world's most infectious disease? Here's what reports say](https://economictimes.indiatimes.com/news/international/us/did-shakiras-concert-in-new-jersey-last-week-contribute-to-the-spread-of-the-worlds-most-infectious-disease-heres-what-reports-say/articleshow/121324030.cms) (The Times of India)
 
 - [New Jersey Health Dept. Warns of Measles Exposure at Shakira Concert](https://legalinsurrection.com/2025/05/new-jersey-health-dept-warns-of-measles-exposure-at-shakira-concert/) (Legalinsurrection.com)
 
@@ -156,6 +184,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (malaria)
 
+- [Svensker oppfordres til å ikke slå i hjel myggen](https://www.nrk.no/nyheter/svensker-oppfordres-til-a-ikke-sla-i-hjel-myggen-1.17427390) (NRK)
+
+- [Target mosquito parasites with drugs to cut malaria, study says](https://www.bbc.co.uk/news/articles/c1j554pgjgko) (BBC News)
+
+- [Dina myggbett kan hjälpa forskningen](https://www.expressen.se/nyheter/sverige/dina-myggbett-kan--hjalpa-forskningen/) (Expressen.se)
+
+- [T-follicular helper cell profiles differ by malaria antigen and for children compared to adults](https://elifesciences.org/articles/98462) (Elifesciences.org)
+
+- [Scientists propose novel way of treating mosquitoes for malaria](https://www.bbc.com/news/articles/c1j554pgjgko) (BBC News)
+
+- [Conquista Tottenham Hotspur la Europa League en Bilbao | Video](https://aristeguinoticias.com/210525/deportes/conquista-tottenham-hotspur-la-europa-league-en-bilbao-video/) (Aristeguinoticias.com)
+
+- [Bed-netting prototypes to target malaria-causing parasites](https://www.sciencedaily.com/releases/2025/05/250521161112.htm) (Science Daily)
+
 - [Neuer Wirkstoff gegen Malaria](https://oe3.orf.at/stories/3048022/) (Oe3.orf.at)
 
 - [Investigadores de Harvard descubren una nueva estrategia de control de la malaria que elimina eficazmente los parásitos del mosquito](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13376069/05/25/investigadores-de-harvard-descubren-una-nueva-estrategia-de-control-de-la-malaria-que-elimina-eficazmente-los-parasitos-del-mosquito.html) (Eleconomista.es)
@@ -189,6 +231,14 @@ Source: [News API](https://newsapi.org/)
 - [Ragályos vírus ütötte fel a fejét, lépnek a hatóságok](https://www.portfolio.hu/global/20250519/ragalyos-virus-utotte-fel-a-fejet-lepnek-a-hatosagok-762087) (Portfolio.hu)
 
 ## 25-21 (h5n1)
+
+- [Czy koty mogą nas zarazić ptasią grypą? Zwróć uwagę na te objawy](https://geekweek.interia.pl/medycyna/news-czy-koty-moga-nas-zarazic-ptasia-grypa-zwroc-uwage-na-te-obj,nId,21400289) (Interia.pl)
+
+- [為何科學家警告禽流感可能成為下一場全球大流行病？](https://www.bbc.com/zhongwen/articles/clyrrde5vd7o/trad) (BBC News)
+
+- [Desinfecção de granja foco da gripe aviária no RS é concluída](https://www.metropoles.com/brasil/desinfeccao-de-granja-foco-da-gripe-aviaria-no-rs-e-concluida) (Metropoles.com)
+
+- [Эксперт подтвердила риск заражения кошек птичьим гриппом](https://www.ferra.ru/news/techlife/ekspert-podtverdila-risk-zarazheniya-koshek-ptichim-grippom-22-05-2025.htm) (Ferra.ru)
 
 - [Россиянам рассказали об опасности птичьего гриппа для кошек](https://news.mail.ru/society/66231565/) (Mail.ru)
 
@@ -283,6 +333,8 @@ Source: [News API](https://newsapi.org/)
 - [Students told to act as ambassadors to fight dengue in Udupi](https://timesofindia.indiatimes.com/city/mangaluru/students-told-to-act-as-ambassadors-to-fight-dengue-in-udupi/articleshow/121266775.cms) (The Times of India)
 
 ## 25-21 (chikungunya)
+
+- [CDC dos EUA aceita recomendações para vacinas contra chikungunya](https://www.terra.com.br/noticias/mundo/cdc-dos-eua-aceita-recomendacoes-para-vacinas-contra-chikungunya,f026c989b40bdb8248dca80b617d99bc2exdns7u.html) (Terra.com.br)
 
 - [Campinas confirma 1ª morte por chikungunya na história da cidade](https://www.metropoles.com/sao-paulo/campinas-morte-chikungunya) (Metropoles.com)
 
@@ -2568,6 +2620,8 @@ Source: [News API](https://newsapi.org/)
 
 - [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
 
+- [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
+
 ## 25-15 (pertussis)
 
 - [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
@@ -2631,6 +2685,8 @@ Source: [News API](https://newsapi.org/)
 - [GHS boss donates GHC 220K in medical supplies to fight meningitis in Northern Ghana](https://3news.com/health/ghs-boss-donates-ghc-220k-in-medical-supplies-to-fight-meningitis-in-northern-ghana/) (3news.com)
 
 - [23 states recorded 156 meningitis deaths, 1,858 suspected cases – NCDC](https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/) (The Punch)
+
+- [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
 
@@ -2894,6 +2950,32 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads](https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012) (Newsweek)
 
+- [Nigeria steps up advocacy for measles-rubella vaccine](https://punchng.com/nigeria-steps-up-advocacy-for-measles-rubella-vaccine/) (The Punch)
+
+- [A Second Child Dies Of Measles in Texas, Health Secretary Robert F. Kennedy Jr. Expected To Visit State](https://www.vanityfair.com/news/story/second-texas-child-measles-death-hhs-secretary-robert-f-kennedy-jr-to-visit-state) (Vanity Fair)
+
+- [Measles Outbreak: Second Child Dies In Texas As More Than 600 Cases Confirmed Nationwide](https://www.forbes.com/sites/antoniopequenoiv/2025/04/06/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
+
+- [Second child dies of measles in Texas](https://www.channelnewsasia.com/world/second-child-dies-measles-texas-5048051) (CNA)
+
+- [School-age child dies in Texas measles outbreak; health chief Kennedy now calls vaccine best protection](https://www.channelnewsasia.com/world/school-age-child-dies-texas-measles-outbreak-health-chief-kennedy-now-calls-vaccine-best-protection-5048051) (CNA)
+
+- [Second child dies from measles-related causes in West Texas](https://www.cbsnews.com/texas/news/texas-measles-outbreak-second-child-death-unvaccinated/) (CBS News)
+
+- [Second child dies of measles as Texas outbreak worsens](https://www.bbc.com/news/articles/ckg2xyyj9w5o) (BBC News)
+
+- [Second child dies of measles in Texas, media reports (Reuters)](https://www.memeorandum.com/250406/p28) (Memeorandum.com)
+
+- [Second child dies from measles-related causes in West Texas, where cases near 500](https://www.npr.org/2025/04/06/g-s1-58624/second-child-dies-from-measles-related-causes-in-west-texas-where-cases-near-500) (NPR)
+
+- [Second Child Dies From Measles-Related Causes in West Texas, Where Cases Near 500](https://time.com/7275294/second-child-dies-from-measles-related-causes-west-texas/) (Time)
+
+- [Second Child Died From Measles-Related Causes In West Texas, Where Cases Are Nearing 500](https://www.huffpost.com/entry/ap-us-measles-outbreak-death-texas_n_67f29c32e4b0abfc4625ad56) (HuffPost)
+
+- [Second measles death reported in Texas (Erika Edwards/NBC News)](https://www.memeorandum.com/250406/p13) (Memeorandum.com)
+
+- [A Second Child Dies of Measles in Texas (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250406/p10) (Memeorandum.com)
+
 ## 25-15 (malaria)
 
 - [Stakeholders seek youth participation in fight against malaria](https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/) (The Punch)
@@ -3048,6 +3130,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa](https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215) (Excelsior.com.mx)
 
+- [Meksika'da ‘H5N1’ alarmı! İlk kez bir insanda rastlandı!](https://www.haber7.com/dunya/haber/3519710-meksikada-h5n1-alarmi-ilk-kez-bir-insanda-rastlandi) (Haber7.com)
+
+- [W Meksyku stwierdzono pierwszy przypadek ptasiej grypy H5N1 u człowieka](https://www.bankier.pl/wiadomosc/W-Meksyku-stwierdzono-pierwszy-przypadek-ptasiej-grypy-H5N1-u-czlowieka-8920309.html) (Bankier.pl)
+
+- [Meksika'da ‘H5N1’ endişesi: İlk kez bir insanda görüldü](https://www.hurriyet.com.tr/dunya/meksikada-h5n1-endisesi-ilk-kez-bir-insanda-goruldu-42753558) (Hurriyet.com.tr)
+
+- [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
+
 ## 25-15 (dengue)
 
 - [Dengue cases in the West on decline - Ministry of Health - The Fiji Times](https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/) (Fijitimes.com.fj)
@@ -3123,3 +3213,7 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, aides aux agriculteurs, violences intrafamiliales... Manuel Valls sur tous les fronts pour sa deuxième journée de visite à La Réunion](https://la1ere.francetvinfo.fr/reunion/manuel-valls-sur-tous-les-fronts-pour-sa-deuxieme-journee-de-visite-a-la-reunion-1576246.html) (Francetvinfo.fr)
 
 - [Chikungunya : le début de la vaccination est "une étape importante dans la lutte contre cette épidémie", estime le directeur général de l'ARS de La Réunion](https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html) (Francetvinfo.fr)
+
+- [Plan blanc, campagne de vaccination… Ce qu’il faut savoir de l’épidémie de chikungunya à La Réunion](https://www.lepoint.fr/sante/plan-blanc-campagne-de-vaccination-ce-qu-il-faut-savoir-de-l-epidemie-de-chikungunya-a-la-reunion-06-04-2025-2586648_40.php) (Le Point)
+
+- [La Réunion : le plan blanc activé après une épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/la-reunion-le-plan-blanc-active-apres-une-epidemie-de-chikungunya_7173882.html) (Francetvinfo.fr)
