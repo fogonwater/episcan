@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-05-24 07:06
-- **Most recent article:** 2025-05-23 05:29:47
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-05-24 19:05
+- **Most recent article:** 2025-05-23 19:04:32
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 143 | 82 | 107 | 88 | 82 | 75 | 51 | 628 |
-| h5n1 | 66 | 9 | 15 | 15 | 11 | 21 | 41 | 178 |
-| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 19 | 170 |
-| chikungunya | 15 | 39 | 46 | 16 | 15 | 25 | 11 | 167 |
-| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 24 | 133 |
-| mpox | 18 | 10 | 5 | 11 | 11 | 18 | 8 | 81 |
-| meningitis | 10 | 9 | 10 | 7 | 3 | 7 | 6 | 52 |
-| rabies | 7 | 0 | 3 | 4 | 12 | 3 | 5 | 34 |
-| zika | 5 | 7 | 2 | 3 | 6 | 3 | 8 | 34 |
+| measles | 130 | 82 | 107 | 88 | 82 | 75 | 54 | 618 |
+| h5n1 | 62 | 9 | 15 | 15 | 11 | 21 | 44 | 177 |
+| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 23 | 174 |
+| chikungunya | 13 | 39 | 46 | 16 | 15 | 25 | 12 | 166 |
+| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 29 | 138 |
+| mpox | 18 | 10 | 5 | 11 | 11 | 18 | 9 | 82 |
+| meningitis | 9 | 9 | 10 | 7 | 3 | 7 | 6 | 51 |
+| zika | 5 | 7 | 2 | 3 | 6 | 3 | 9 | 35 |
+| rabies | 6 | 0 | 3 | 4 | 12 | 3 | 6 | 34 |
 | pertussis | 2 | 5 | 3 | 4 | 1 | 1 | 2 | 18 |
 | hpai | 3 | 5 | 1 | 2 | 3 | 1 | 2 | 17 |
 | typhoid | 2 | 3 | 3 | 2 | 1 | 1 | 0 | 12 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-21 (zika)
+
+- [France grapples with surging tropical diseases amid spread of tiger mosquitoes](https://www.politico.eu/article/france-grapples-with-high-cases-of-tropical-diseases-amid-spread-of-tiger-mosquitoes/) (POLITICO.eu)
 
 - [INSS paga R$ 60 mil a crianças vítimas de zika. Saiba como pedir](https://www.metropoles.com/brasil/inss-paga-r-60-mil-a-criancas-vitimas-de-zika-saiba-como-pedir) (Metropoles.com)
 
@@ -56,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (rabies)
 
+- [Bat found in Boulder residence tests positive for rabies](https://www.denverpost.com/2025/05/23/bat-rabies-boulder/) (The Denver Post)
+
 - [Fox found in Chesterfield tests positive for rabies](https://richmond.com/news/local/article_d8a7b082-a1f3-4605-b395-0c0e4d40ab53.html) (Richmond.com)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
@@ -73,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 - [Hawaii pertussis cases are on the rise | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/05/21/breaking-news/hawaii-pertussis-cases-are-on-the-rise/) (Honolulu Star-Advertiser)
 
 ## 25-21 (mpox)
+
+- [Macedonia de Nord a raportat primele sale două cazuri de infectare cu mpox. Apelul autorităților către cetățeni](https://www.digi24.ro/stiri/externe/macedonia-de-nord-a-raportat-primele-sale-doua-cazuri-de-infectare-cu-mpox-apelul-autoritatilor-catre-cetateni-3254089) (Digi24.ro)
 
 - [มาแล้ว วัคซีนป้องกันหนองในครั้งแรกของโลก หลังยอดติดเชื้อในอังกฤษพุ่งสูงสุดในรอบศตวรรษ](https://www.thairath.co.th/news/foreign/2859619) (Thairath.co.th)
 
@@ -105,6 +111,12 @@ Source: [News API](https://newsapi.org/)
 - [Student, 23, who had arms and legs amputated 'wants to get message out' to stop others going through her ordeal](https://news.sky.com/story/student-23-who-lost-all-four-limbs-to-sepsis-calls-on-people-to-get-meningitis-vaccine-13371788) (Sky.com)
 
 ## 25-21 (measles)
+
+- [Measles cases reach 1,046 in US as infections confirmed in 30 states: CDC](https://abcnews.go.com/Health/measles-cases-reach-1046-us-infections-confirmed-30/story?id=122108194) (ABC News)
+
+- [Texas Sees Surge in Babies Getting Vaccinated: 'Really Scared'](https://www.newsweek.com/texas-measles-vaccines-mmr-outbreak-babies-2076365) (Newsweek)
+
+- [Measles: 31 US states affected as WHO warns of global rise](https://www.bmj.com/content/389/bmj.r1083) (The BMJ)
 
 - [More than 170 new measles cases reported in Ontario, bringing total to nearly 1,800](https://www.cbc.ca/news/canada/toronto/ontario-measles-outbreak-latest-1.7541098) (CBC News)
 
@@ -210,6 +222,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (malaria)
 
+- [Sebastião Salgado, the Brazilian photographer who rebuilt forests and froze history and injustice in frames, died at 81](https://economictimes.indiatimes.com/news/international/canada/sebastio-salgado-the-brazilian-photographer-who-rebuilt-forests-and-froze-history-and-injustice-in-frames-died-at-81/articleshow/121369061.cms) (The Times of India)
+
+- [Fallece el fotógrafo brasileño Sebastião Salgado a los 81 años](https://forbes.com.mx/fallece-el-fotografo-brasileno-sebastiao-salgado-a-los-81-anos/) (Forbes.com.mx)
+
+- [Przez ten mechanizm pasożyty wywołujące malarię stają się "niewidzialne"](https://tvn24.pl/tvnmeteo/alergia/przez-ten-mechanizm-pasozyty-wywolujace-malarie-staja-sie-niewidzialne-st8476343) (Tvn24.pl)
+
+- [Muere Sebastiao Salgado a los 81 años, el fotógrafo que retrató la desigualdad social y la selva amazónica](https://www.20minutos.es/noticia/5715239/0/muere-sebastiao-salgado-fotografo-que-inmortalizo-selva-brasilena/) (20minutos.es)
+
+- [A Plan to End Malaria in Africa](https://www.project-syndicate.org/commentary/african-countries-must-increase-public-investment-to-end-malaria-by-jean-kaseya-2025-05) (Project Syndicate)
+
 - [Curing mosquitoes' malaria, and the history of our units](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/curing-mosquitoes-malaria-and-history-our-units) (The Naked Scientists)
 
 - [Remembering Mosquitoes: Malaria and Dengue Fever in WWII](https://circulatingnow.nlm.nih.gov/2025/05/22/remembering-mosquitoes-malaria-and-dengue-fever-in-wwii/) (National Institutes of Health)
@@ -265,6 +287,12 @@ Source: [News API](https://newsapi.org/)
 - [Ragályos vírus ütötte fel a fejét, lépnek a hatóságok](https://www.portfolio.hu/global/20250519/ragalyos-virus-utotte-fel-a-fejet-lepnek-a-hatosagok-762087) (Portfolio.hu)
 
 ## 25-21 (h5n1)
+
+- [Governo do Rio Grande do Sul reduz barreiras sanitárias contra a gripe aviária](https://www.infomoney.com.br/brasil/governo-do-rio-grande-do-sul-reduz-barreiras-sanitarias-contra-a-gripe-aviaria/) (InfoMoney)
+
+- [Retraction: Comprehensive computational analysis reveals H5N1 influenza virus-encoded miRNAs and host-specific targets associated with antiviral immune responses and protein binding](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325170) (Plos.org)
+
+- [為何科學家警告禽流感可能成為下一場全球大流行病？](https://www.thenewslens.com/article/253345) (Thenewslens.com)
 
 - [Análises de suspeitas de gripe aviária em granjas comerciais em SC e TO continuam](https://www.terra.com.br/economia/analises-de-suspeitas-de-gripe-aviaria-em-granjas-comerciais-em-sc-e-to-continuam,fbd5b240157635a6ae5e04ea85451130uu6j3pw1.html) (Terra.com.br)
 
@@ -350,6 +378,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (dengue)
 
+- [Porto Alegre promove novos mutirões contra a dengue neste sábado](https://www.terra.com.br/noticias/porto-alegre-promove-novos-mutiroes-contra-a-dengue-neste-sabado,2e5af9fb14a86c95275949ece03f185421qkmel0.html) (Terra.com.br)
+
+- [Caso di Dengue a Vasto, da domani disinfestazione](https://www.ansa.it/abruzzo/notizie/2025/05/23/caso-di-dengue-a-vasto-da-domani-disinfestazione_0866e308-2bd2-469a-bff9-402941f73b4a.html) (ANSA.it)
+
+- [Mortes por dengue sobem para 14 na capital paulista; 45 bairros enfrentam epidemia](https://www.infomoney.com.br/saude/mortes-por-dengue-sobem-para-14-na-capital-paulista-45-bairros-enfrentam-epidemia/) (InfoMoney)
+
+- [France grapples with surging tropical diseases amid spread of tiger mosquitoes](https://www.politico.eu/article/france-grapples-with-high-cases-of-tropical-diseases-amid-spread-of-tiger-mosquitoes/) (POLITICO.eu)
+
 - [La chasse au moustique-tigre est lancée en Auvergne-Rhône-Alpes face à la recrudescence de virus tropicaux importés](https://www.lemonde.fr/planete/article/2025/05/23/la-chasse-au-moustique-tigre-est-lancee-en-auvergne-rhone-alpes-face-a-la-recrudescence-de-virus-tropicaux-importes_6607838_3244.html) (Le Monde)
 
 - [Fighting dengue: Notices issued to homes for unsafe water storage](https://timesofindia.indiatimes.com/city/goa/fighting-dengue-notices-issued-to-homes-for-unsafe-water-storage/articleshow/121347893.cms) (The Times of India)
@@ -389,6 +425,8 @@ Source: [News API](https://newsapi.org/)
 - [Students told to act as ambassadors to fight dengue in Udupi](https://timesofindia.indiatimes.com/city/mangaluru/students-told-to-act-as-ambassadors-to-fight-dengue-in-udupi/articleshow/121266775.cms) (The Times of India)
 
 ## 25-21 (chikungunya)
+
+- [France grapples with surging tropical diseases amid spread of tiger mosquitoes](https://www.politico.eu/article/france-grapples-with-high-cases-of-tropical-diseases-amid-spread-of-tiger-mosquitoes/) (POLITICO.eu)
 
 - [La chasse au moustique-tigre est lancée en Auvergne-Rhône-Alpes face à la recrudescence de virus tropicaux importés](https://www.lemonde.fr/planete/article/2025/05/23/la-chasse-au-moustique-tigre-est-lancee-en-auvergne-rhone-alpes-face-a-la-recrudescence-de-virus-tropicaux-importes_6607838_3244.html) (Le Monde)
 
@@ -2678,8 +2716,6 @@ Source: [News API](https://newsapi.org/)
 
 - [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
 
-- [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
-
 ## 25-15 (pertussis)
 
 - [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
@@ -2743,8 +2779,6 @@ Source: [News API](https://newsapi.org/)
 - [GHS boss donates GHC 220K in medical supplies to fight meningitis in Northern Ghana](https://3news.com/health/ghs-boss-donates-ghc-220k-in-medical-supplies-to-fight-meningitis-in-northern-ghana/) (3news.com)
 
 - [23 states recorded 156 meningitis deaths, 1,858 suspected cases – NCDC](https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/) (The Punch)
-
-- [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
 
@@ -3008,32 +3042,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads](https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012) (Newsweek)
 
-- [Nigeria steps up advocacy for measles-rubella vaccine](https://punchng.com/nigeria-steps-up-advocacy-for-measles-rubella-vaccine/) (The Punch)
-
-- [A Second Child Dies Of Measles in Texas, Health Secretary Robert F. Kennedy Jr. Expected To Visit State](https://www.vanityfair.com/news/story/second-texas-child-measles-death-hhs-secretary-robert-f-kennedy-jr-to-visit-state) (Vanity Fair)
-
-- [Measles Outbreak: Second Child Dies In Texas As More Than 600 Cases Confirmed Nationwide](https://www.forbes.com/sites/antoniopequenoiv/2025/04/06/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
-
-- [Second child dies of measles in Texas](https://www.channelnewsasia.com/world/second-child-dies-measles-texas-5048051) (CNA)
-
-- [School-age child dies in Texas measles outbreak; health chief Kennedy now calls vaccine best protection](https://www.channelnewsasia.com/world/school-age-child-dies-texas-measles-outbreak-health-chief-kennedy-now-calls-vaccine-best-protection-5048051) (CNA)
-
-- [Second child dies from measles-related causes in West Texas](https://www.cbsnews.com/texas/news/texas-measles-outbreak-second-child-death-unvaccinated/) (CBS News)
-
-- [Second child dies of measles as Texas outbreak worsens](https://www.bbc.com/news/articles/ckg2xyyj9w5o) (BBC News)
-
-- [Second child dies of measles in Texas, media reports (Reuters)](https://www.memeorandum.com/250406/p28) (Memeorandum.com)
-
-- [Second child dies from measles-related causes in West Texas, where cases near 500](https://www.npr.org/2025/04/06/g-s1-58624/second-child-dies-from-measles-related-causes-in-west-texas-where-cases-near-500) (NPR)
-
-- [Second Child Dies From Measles-Related Causes in West Texas, Where Cases Near 500](https://time.com/7275294/second-child-dies-from-measles-related-causes-west-texas/) (Time)
-
-- [Second Child Died From Measles-Related Causes In West Texas, Where Cases Are Nearing 500](https://www.huffpost.com/entry/ap-us-measles-outbreak-death-texas_n_67f29c32e4b0abfc4625ad56) (HuffPost)
-
-- [Second measles death reported in Texas (Erika Edwards/NBC News)](https://www.memeorandum.com/250406/p13) (Memeorandum.com)
-
-- [A Second Child Dies of Measles in Texas (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250406/p10) (Memeorandum.com)
-
 ## 25-15 (malaria)
 
 - [Stakeholders seek youth participation in fight against malaria](https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/) (The Punch)
@@ -3188,14 +3196,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa](https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215) (Excelsior.com.mx)
 
-- [Meksika'da ‘H5N1’ alarmı! İlk kez bir insanda rastlandı!](https://www.haber7.com/dunya/haber/3519710-meksikada-h5n1-alarmi-ilk-kez-bir-insanda-rastlandi) (Haber7.com)
-
-- [W Meksyku stwierdzono pierwszy przypadek ptasiej grypy H5N1 u człowieka](https://www.bankier.pl/wiadomosc/W-Meksyku-stwierdzono-pierwszy-przypadek-ptasiej-grypy-H5N1-u-czlowieka-8920309.html) (Bankier.pl)
-
-- [Meksika'da ‘H5N1’ endişesi: İlk kez bir insanda görüldü](https://www.hurriyet.com.tr/dunya/meksikada-h5n1-endisesi-ilk-kez-bir-insanda-goruldu-42753558) (Hurriyet.com.tr)
-
-- [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
-
 ## 25-15 (dengue)
 
 - [Dengue cases in the West on decline - Ministry of Health - The Fiji Times](https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/) (Fijitimes.com.fj)
@@ -3271,7 +3271,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, aides aux agriculteurs, violences intrafamiliales... Manuel Valls sur tous les fronts pour sa deuxième journée de visite à La Réunion](https://la1ere.francetvinfo.fr/reunion/manuel-valls-sur-tous-les-fronts-pour-sa-deuxieme-journee-de-visite-a-la-reunion-1576246.html) (Francetvinfo.fr)
 
 - [Chikungunya : le début de la vaccination est "une étape importante dans la lutte contre cette épidémie", estime le directeur général de l'ARS de La Réunion](https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html) (Francetvinfo.fr)
-
-- [Plan blanc, campagne de vaccination… Ce qu’il faut savoir de l’épidémie de chikungunya à La Réunion](https://www.lepoint.fr/sante/plan-blanc-campagne-de-vaccination-ce-qu-il-faut-savoir-de-l-epidemie-de-chikungunya-a-la-reunion-06-04-2025-2586648_40.php) (Le Point)
-
-- [La Réunion : le plan blanc activé après une épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/la-reunion-le-plan-blanc-active-apres-une-epidemie-de-chikungunya_7173882.html) (Francetvinfo.fr)
