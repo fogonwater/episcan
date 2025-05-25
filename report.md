@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-05-24 19:05
-- **Most recent article:** 2025-05-23 19:04:32
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-05-25 07:06
+- **Most recent article:** 2025-05-24 06:21:58
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-15 | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 130 | 82 | 107 | 88 | 82 | 75 | 54 | 618 |
-| h5n1 | 62 | 9 | 15 | 15 | 11 | 21 | 44 | 177 |
-| dengue | 23 | 30 | 16 | 32 | 26 | 24 | 23 | 174 |
-| chikungunya | 13 | 39 | 46 | 16 | 15 | 25 | 12 | 166 |
-| malaria | 9 | 14 | 34 | 22 | 19 | 11 | 29 | 138 |
-| mpox | 18 | 10 | 5 | 11 | 11 | 18 | 9 | 82 |
-| meningitis | 9 | 9 | 10 | 7 | 3 | 7 | 6 | 51 |
-| zika | 5 | 7 | 2 | 3 | 6 | 3 | 9 | 35 |
-| rabies | 6 | 0 | 3 | 4 | 12 | 3 | 6 | 34 |
-| pertussis | 2 | 5 | 3 | 4 | 1 | 1 | 2 | 18 |
-| hpai | 3 | 5 | 1 | 2 | 3 | 1 | 2 | 17 |
-| typhoid | 2 | 3 | 3 | 2 | 1 | 1 | 0 | 12 |
-| leptospirosis | 0 | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
-| yersinia | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 82 | 107 | 88 | 82 | 75 | 56 | 490 |
+| chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 153 |
+| dengue | 29 | 16 | 32 | 26 | 24 | 23 | 150 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 30 | 129 |
+| h5n1 | 9 | 15 | 15 | 11 | 21 | 45 | 116 |
+| mpox | 10 | 5 | 11 | 11 | 18 | 10 | 65 |
+| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 40 |
+| zika | 7 | 2 | 3 | 6 | 3 | 9 | 30 |
+| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 28 |
+| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 15 |
+| hpai | 5 | 1 | 2 | 3 | 1 | 2 | 14 |
+| typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 10 |
+| leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -78,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (mpox)
 
+- [TWiV 1220: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1220/) (Microbe.tv)
+
 - [Macedonia de Nord a raportat primele sale două cazuri de infectare cu mpox. Apelul autorităților către cetățeni](https://www.digi24.ro/stiri/externe/macedonia-de-nord-a-raportat-primele-sale-doua-cazuri-de-infectare-cu-mpox-apelul-autoritatilor-catre-cetateni-3254089) (Digi24.ro)
 
 - [มาแล้ว วัคซีนป้องกันหนองในครั้งแรกของโลก หลังยอดติดเชื้อในอังกฤษพุ่งสูงสุดในรอบศตวรรษ](https://www.thairath.co.th/news/foreign/2859619) (Thairath.co.th)
@@ -111,6 +113,10 @@ Source: [News API](https://newsapi.org/)
 - [Student, 23, who had arms and legs amputated 'wants to get message out' to stop others going through her ordeal](https://news.sky.com/story/student-23-who-lost-all-four-limbs-to-sepsis-calls-on-people-to-get-meningitis-vaccine-13371788) (Sky.com)
 
 ## 25-21 (measles)
+
+- [AHS expands measles advisory to entire south zone due to 'widespread' exposure risk](https://www.cbc.ca/news/canada/calgary/measles-south-cases-widespread-advisory-1.7542933) (CBC News)
+
+- [Health officials warn of measles exposure at 2 schools in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-cases-1.7542479) (CBC News)
 
 - [Measles cases reach 1,046 in US as infections confirmed in 30 states: CDC](https://abcnews.go.com/Health/measles-cases-reach-1046-us-infections-confirmed-30/story?id=122108194) (ABC News)
 
@@ -222,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (malaria)
 
+- [Sebastião Salgado, scolpiva in bianco e nero un’umanità epica](https://www.corriere.it/cultura/25_maggio_23/sebastiao-salgado-scolpiva-bianco-nero-un-umanita-epica-456e9c4c-3802-11f0-8de6-8487bae846aa.shtml) (Corriere.it)
+
 - [Sebastião Salgado, the Brazilian photographer who rebuilt forests and froze history and injustice in frames, died at 81](https://economictimes.indiatimes.com/news/international/canada/sebastio-salgado-the-brazilian-photographer-who-rebuilt-forests-and-froze-history-and-injustice-in-frames-died-at-81/articleshow/121369061.cms) (The Times of India)
 
 - [Fallece el fotógrafo brasileño Sebastião Salgado a los 81 años](https://forbes.com.mx/fallece-el-fotografo-brasileno-sebastiao-salgado-a-los-81-anos/) (Forbes.com.mx)
@@ -287,6 +295,8 @@ Source: [News API](https://newsapi.org/)
 - [Ragályos vírus ütötte fel a fejét, lépnek a hatóságok](https://www.portfolio.hu/global/20250519/ragalyos-virus-utotte-fel-a-fejet-lepnek-a-hatosagok-762087) (Portfolio.hu)
 
 ## 25-21 (h5n1)
+
+- [Ученые готовятся к тому, что следующей будет пандемия птичьего гриппа. Почему именно его?](https://www.bbc.com/russian/articles/cr7zzyne99ko) (BBC News)
 
 - [Governo do Rio Grande do Sul reduz barreiras sanitárias contra a gripe aviária](https://www.infomoney.com.br/brasil/governo-do-rio-grande-do-sul-reduz-barreiras-sanitarias-contra-a-gripe-aviaria/) (InfoMoney)
 
@@ -2266,8 +2276,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
 
-- [Whooping Cough Spreads Across Japan](https://newsonjapan.com/article/145395.php) (Newsonjapan.com)
-
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2305,10 +2313,6 @@ Source: [News API](https://newsapi.org/)
 - [Experts make new recommendations on RSV and meningitis vaccines, but it's unclear what happens next](https://abcnews.go.com/Business/wireStory/experts-make-new-recommendations-rsv-meningitis-vaccines-unclear-120883921) (ABC News)
 
 - [Experts make new recommendations on RSV and meningitis vaccines, but it’s unclear what happens next](https://financialpost.com/pmn/experts-make-new-recommendations-on-rsv-and-meningitis-vaccines-but-its-unclear-what-happens-next) (Financial Post)
-
-- [Girl's meningitis leads to quadruple amputation](https://www.bbc.com/news/articles/cx2vv81k2k1o) (BBC News)
-
-- [Stockton girl's meningitis leads to quadruple amputation](https://www.bbc.co.uk/news/articles/cx2vv81k2k1o) (BBC News)
 
 ## 25-16 (measles)
 
@@ -2504,8 +2508,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Treating malaria, typhoid 10 times yearly could signal serious health condition – Expert](https://punchng.com/treating-malaria-typhoid-10-times-yearly-could-signal-serious-health-condition-expert/) (The Punch)
 
-- [Being pregnant with multiple babies may cause excessive vomiting – Gynaecologists](https://punchng.com/being-pregnant-with-multiple-babies-may-cause-excessive-vomiting-gynaecologists/) (The Punch)
-
 ## 25-16 (leptospirosis)
 
 - [Host population dynamics influence Leptospira spp. transmission patterns among Rattus norvegicus in Boston, Massachusetts, US](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012966) (Plos.org)
@@ -2602,8 +2604,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Porto Alegre ultrapassa 3,8 mil casos de dengue em 2025](https://www.terra.com.br/noticias/porto-alegre-ultrapassa-38-mil-casos-de-dengue-em-2025,60c51d32d7a384c09c4319beb1f687204qfz2ah4.html) (Terra.com.br)
 
-- [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
-
 ## 25-16 (chikungunya)
 
 - [Cyclone Chido, épidémie de chikungunya, îles Eparses… Quels sont les enjeux de la tournée d'Emmanuel Macron dans l'océan Indien ?](https://www.francetvinfo.fr/france/mayotte/cyclone-chido-epidemie-de-chikungunya-iles-eparses-quels-sont-les-enjeux-de-la-tournee-d-emmanuel-macron-dans-l-ocean-indien_7198656.html) (Francetvinfo.fr)
@@ -2683,591 +2683,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya à La Réunion : "On a franchi le pic" de l'épidémie, estime le directeur de l'ARS de l'île](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-on-a-franchi-le-pic-de-l-epidemie-estime-le-directeur-de-l-ars-de-l-ile_7189059.html) (Francetvinfo.fr)
 
 - ["On se dit que tout le monde va l'avoir" : La Réunion touchée de plein fouet par l'épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/reportage-on-se-dit-que-tout-le-monde-va-l-avoir-la-reunion-touchee-de-plein-fouet-par-l-epidemie-de-chikungunya_7187832.html) (Francetvinfo.fr)
-
-## 25-15 (zika)
-
-- [Graz sagt der Tigermücke den Kampf an](https://steiermark.orf.at/stories/3301013/) (Steiermark.orf.at)
-
-- [Žuvačkou proti chrípke aj ďalším vírusom? Vedci prišli s objavom, ktorý má potenciál spomaliť šírenie nebezpečných infekcií](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/747313-zuvackou-proti-chripke-aj-dalsim-virusom-vedci-prisli-s-velkym-objavom-ktory-ma-potencial-spomalit-sirenie-nebezpecnych-infekcii/) (Pravda.sk)
-
-- [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission) (Upenn.edu)
-
-- [Immunogenicity of a single dose of the 17DD yellow fever vaccine in a cohort of adults and children in a non-endemic area, and its association with dengue and Zika seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012993) (Plos.org)
-
-- [Environmental and anthropic factors influencing Aedes aegypti and Aedes albopictus (Diptera: Culicidae), with emphasis on natural infection and dissemination: Implications for an emerging vector in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012605) (Plos.org)
-
-## 25-15 (typhoid)
-
-- [Daredevil season 4 on Netflix would have been quite different from Daredevil: Born Again; a Typhoid Mary story with Alice Eve](https://www.joblo.com/daredevil-typhoid-mary/) (JoBlo.com)
-
-- [Bacolod: Typhoid cases up 86 percent, 3 deaths recorded in NegOcc](https://rpnradio.com/bacolod-typhoid-cases-up-86-percent-3-deaths-recorded-in-negocc/) (Rpnradio.com)
-
-## 25-15 (rabies)
-
-- [Fremont residents notified after dead bat tests positive for rabies](https://www.ktvu.com/news/fremont-residents-notified-after-dead-bat-tests-positive-rabies) (KTVU San Francisco)
-
-- [Rabies confirmed in stray cat in Amherst](https://www.wdbj7.com/2025/04/11/rabies-confirmed-stray-cat-amherst/) (WDBJ7)
-
-- [Health Ministry issues warning after calf discovered with rabies](https://www.jpost.com/breaking-news/article-849736) (The Jerusalem Post)
-
-- [Assessing anti-rabies vaccine response in humans: A rapid and high-throughput adaptable, pseudovirus-based neutralization assay as an alternative to rapid fluorescence focus inhibition test (RFFIT)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013010) (Plos.org)
-
-- [A comparative analysis of the dendritic cell response upon exposure to different rabies virus strains](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012994) (Plos.org)
-
-- [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
-
-## 25-15 (pertussis)
-
-- [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
-
-- [Whooping cough: Cases soar in US](https://www.bmj.com/content/389/bmj.r704) (The BMJ)
-
-## 25-15 (mpox)
-
-- [The Mysterious Source Behind the Monkeypox Virus Is a Squirrel](https://www.discovermagazine.com/health/the-mysterious-source-behind-the-monkeypox-virus-is-a-squirrel) (Discover Magazine)
-
-- [Africa CDC raises concern over triple health threat](https://www.premiumtimesng.com/health/health-news/787092-africa-cdc-raises-concern-over-triple-health-threat.html) (Premium Times)
-
-- [Epidemia de mpox no remite en África; registra una media de 3 mil casos semanales](https://www.milenio.com/internacional/epidemia-mpox-remite-africa-hast-3-mil-casos-por-semana) (Milenio)
-
-- [África tem em média 3.000 novos casos de Mpox por semana e epidemia continua a propagar-se](https://observador.pt/2025/04/10/africa-tem-em-media-3-000-novos-casos-de-mpox-por-semana-e-epidemia-continua-a-propagar-se/) (Observador.pt)
-
-- [Mpox: Ein totes Affenbaby führt Forscher erstmals zum Ursprung von Mpox](https://www.zeit.de/gesundheit/2025-04/mpox-virus-reservoir-tiere-babyaffe-forschung) (Die Zeit)
-
-- [Government receives a consignment of Mpox vaccines](https://www.standardmedia.co.ke/health/health-science/article/2001516116/government-receives-a-consignment-of-mpox-vaccines) (Standard Digital)
-
-- [Ministry of Health Receives 10,700 Doses of Mpox Vaccines](https://www.kenyans.co.ke/news/110898-ministry-health-receives-10700-doses-mpox-vaccines) (Kenyans.co.ke)
-
-- [Ministry Of Health Receives 10,700 Vaccines to Combat Mpox Outbreak](https://nairobileo.co.ke/news/article/20155/ministry-of-health-receives-10700-vaccines-to-combat-mpox-outbreak) (Nairobileo.co.ke)
-
-- [Vancouver Coastal Health urges mpox vaccinations amid recent increase in cases](https://www.cbc.ca/news/canada/british-columbia/vancouver-coastal-health-mpox-1.7506407) (CBC News)
-
-- [Krankheiten: Neue Mpox-Variante im Land – was der erste Fall bedeutet](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/krankheiten--neue-mpox-variante-im-land---was-der-erste-fall-bedeutet-35625260.html) (STERN.de)
-
-- [Krankheiten: Neue Mpox-Variante erstmals in Niedersachsen nachgewiesen](https://www.zeit.de/news/2025-04/09/neue-mpox-variante-erstmals-in-niedersachsen-nachgewiesen) (Die Zeit)
-
-- [Krankheiten: Neue Mpox-Variante erstmals in Niedersachsen nachgewiesen](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/krankheiten--neue-mpox-variante-erstmals-in-niedersachsen-nachgewiesen-35625260.html) (STERN.de)
-
-- [Immer mehr Mpox-Fälle in Berlin – droht ein größerer Ausbruch?](https://www.morgenpost.de/berlin/article408746072/immer-mehr-mpox-faelle-in-berlin-droht-ein-groesserer-ausbruch.html) (Berliner Morgenpost)
-
-- [Royaume-Uni: les autorités enquêtent sur un cas inexpliqué d'infection au mpox](https://www.bfmtv.com/international/europe/angleterre/royaume-uni-les-autorites-enquetent-sur-un-cas-inexplique-d-infection-au-mpox_AD-202504070712.html) (BFMTV)
-
-- [V Británii sa opäť objavil prípad opičích kiahní. Zatiaľ nie je známe, kde sa pacient mohol nakaziť](https://spravy.pravda.sk/svet/clanok/747529-v-britanii-sa-opat-objavil-pripad-opicich-kiahni-zatial-nie-je-zname-kde-sa-pacient-mohol-nakazit/) (Pravda.sk)
-
-- [Liberya 10 bin 800 doz M çiçeği aşısı teslim aldı](https://www.aa.com.tr/tr/dunya/liberya-10-bin-800-doz-m-cicegi-asisi-teslim-aldi/3530811) (Anadolu Agency)
-
-- [Caz inexplicabil de variola maimuței în Marea Britanie. Autoritățile au deschis o anchetă](https://www.digi24.ro/stiri/externe/ue/caz-inexplicabil-de-variola-maimutei-in-marea-britanie-autoritatile-au-deschis-o-ancheta-3189061) (Digi24.ro)
-
-- [Guidance: Vaccination against mpox: information for healthcare practitioners](https://www.gov.uk/government/publications/vaccination-against-mpox-information-for-healthcare-practitioners) (Www.gov.uk)
-
-## 25-15 (meningitis)
-
-- [Sokoto unveils campaign to tackle meningitis](https://punchng.com/sokoto-unveils-campaign-to-tackle-meningitis/) (The Punch)
-
-- [La OMS publica sus primeras directrices para mejorar la atención de la meningitis](https://www.montevideo.com.uy/Salud/La-OMS-publica-sus-primeras-directrices-para-mejorar-la-atencion-de-la-meningitis-uc920397) (Montevideo.com.uy)
-
-- [Preventable ‘meningitis belt’ deaths targeted in health agency action plan](https://news.un.org/en/story/2025/04/1162061) (UN News)
-
-- [Deadly outbreak leaves 150 dead in country hit by Trump health funding cut - NewsBreak](https://www.newsbreak.com/share/3955397826780-deadly-outbreak-leaves-150-dead-in-country-hit-by-trump-health-funding-cut?_f=app_share&pd=0Chpm0e2&lang=en_US&send_time=1744228433&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.14.1.4%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v2%2Cns_foryou_recall_exp_25q2-v1%2Cns_local_strategy_25q1_exp-v18%2Cns_foryou_blend_exp_25q1-v8&s=i2) (Newsbreak.com)
-
-- [Nigeria struggles to rein in a widespread meningitis outbreak that has killed at least 150](https://abcnews.go.com/International/wireStory/nigeria-struggles-rein-widespread-meningitis-outbreak-killed-150-120633888) (ABC News)
-
-- [Brote de meningitis en Nigeria deja al menos 150 muertos](https://www.milenio.com/internacional/africa/nigeria-enfrenta-brote-meningitis-150-muertos) (Milenio)
-
-- [Córdoba: antes de morir, una mujer denunció que fue violada por un enfermero](https://www.lanacion.com.ar/sociedad/cordoba-antes-de-morir-una-mujer-denuncio-que-fue-violada-por-un-enfermero-nid08042025/) (La Nacion)
-
-- [GHS boss donates GHC 220K in medical supplies to fight meningitis in Northern Ghana](https://3news.com/health/ghs-boss-donates-ghc-220k-in-medical-supplies-to-fight-meningitis-in-northern-ghana/) (3news.com)
-
-- [23 states recorded 156 meningitis deaths, 1,858 suspected cases – NCDC](https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/) (The Punch)
-
-## 25-15 (measles)
-
-- [Measles cases rise to 700, adding pressure to RFK Jr. (Filip Timotija/The Hill)](https://www.memeorandum.com/250412/p38) (Memeorandum.com)
-
-- [Possible measles exposure at Coca-Cola Coliseum concert, warns Toronto Public Health](https://www.cbc.ca/news/canada/toronto/toronto-public-health-measles-exposure-possible-downtown-concert-1.7508898) (CBC News)
-
-- [Measles spreads to more states with nationwide cases topping 700](https://www.today.com/video/indiana-becomes-sixth-state-with-3-or-more-cases-of-measles-237226565517) (TODAY)
-
-- [Backlash Ensues Over GOPer's 'Deeply Embarrassing' Lie About Measles Outbreak](https://crooksandliars.com/2025/04/backlash-ensues-after-gopers-deeply) (Crooksandliars.com)
-
-- [Measles Booster Vaccine In UK](https://ask.metafilter.com/385280/Measles-Booster-Vaccine-In-UK) (Metafilter.com)
-
-- [Deadly measles outbreak does little to counter vaccine scepticism in Texas](https://www.bbc.com/news/articles/cwy7eyde3xeo) (BBC News)
-
-- [Measles outbreaks spark concern over rare 'horrific' neurological disorder](https://www.cbc.ca/news/health/measles-complications-1.7508645) (CBC News)
-
-- [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
-
-- [Dr. Malone tackles the Texas measles epidemic](https://www.americanthinker.com/blog/2025/04/dr_malone_tackles_the_texas_measles_epidemic.html) (Americanthinker.com)
-
-- [Alberta's top doctor urges vaccination as measles cases surge](https://www.cbc.ca/news/canada/calgary/alberta-s-top-doctor-urges-vaccination-as-measles-cases-surge-1.7508423) (CBC News)
-
-- [RFK Jr Refuses To Admit Texas Child Died From Measles](https://crooksandliars.com/2025/04/rfk-jr-refuses-admit-daisy-died-measles) (Crooksandliars.com)
-
-- [New measles exposures in Prince Edward County, Trenton](https://www.cbc.ca/news/canada/ottawa/measles-kingston-belleville-case-guidance-advice-1.7508427) (CBC News)
-
-- [US measles cases surpass 700 with outbreaks in six states. Here’s what to know](https://www.bostonherald.com/2025/04/11/measles-outbreak-explained/) (Boston Herald)
-
-- [Ontario’s Measles Outbreak Requires Much More Visible & Effective Public Health Response](https://financialpost.com/globe-newswire/ontarios-measles-outbreak-requires-much-more-visible-effective-public-health-response) (Financial Post)
-
-- [Measles Is Spreading, and RFK Jr. Is Praising Quacks](https://newrepublic.com/article/193935/measles-cases-spreading-rfk-jr-vaccines) (The New Republic)
-
-- [Ontario’s Measles Outbreak Requires Much More Visible & Effective Public Health Response](https://www.globenewswire.com/news-release/2025/04/11/3060356/0/en/Ontario-s-Measles-Outbreak-Requires-Much-More-Visible-Effective-Public-Health-Response.html) (GlobeNewswire)
-
-- [Measles Outbreak Update: Infections Surge by Triple Digits](https://www.newsweek.com/measles-outbreak-update-infections-surge-2058796) (Newsweek)
-
-- [Robert F. Kennedy Jr. falsely claims measles vaccine protection 'wanes very quickly' (Aria Bendix/NBC News)](https://www.memeorandum.com/250411/p102) (Memeorandum.com)
-
-- [Measles Updates: Cases Eclipse 700 As Outbreaks Reported In 3 More States, CDC Says](https://www.forbes.com/sites/antoniopequenoiv/2025/04/11/measles-updates-cases-eclipse-700-as-outbreaks-reported-in-3-more-states-cdc-says/) (Forbes)
-
-- [Weekly measles cases top 90 in U.S. for first time in years](https://www.cbsnews.com/news/measles-cases-weekly-top-90-first-time-years-cdc/) (CBS News)
-
-- [No Sign of Texas Measles Outbreak Slowing, Contrary to RFK Jr.’s Claims](https://www.factcheck.org/2025/04/no-sign-of-texas-measles-outbreak-slowing-contrary-to-rfk-jr-s-claims/) (FactCheck.org)
-
-- [Republican Points Finger at Illegal Immigration for Measles Outbreak](https://www.newsweek.com/ryan-mckenzie-immigrants-measles-outbreak-2058503) (Newsweek)
-
-- [2 cases of measles confirmed on Prince Edward Island, in adults who travelled within Canada](https://www.cbc.ca/news/canada/prince-edward-island/pei-measles-first-two-cases-april-11-1.7508064) (CBC News)
-
-- [Republican Has New Theory for Measles Outbreak—and It’s the Worst Yet](https://newrepublic.com/post/193915/republican-new-theory-measles-outbreak-immigrants) (The New Republic)
-
-- ["Not Just Measles": Whooping Cough Cases Are Soaring as Vaccine Rates Decline (ProPublica)](https://www.memeorandum.com/250411/p54) (Memeorandum.com)
-
-- [RFK Jr.: When You Think About It, Does Two Children Dying Of Measles Even Count?](https://www.wonkette.com/p/rfk-jr-when-you-think-about-it-does) (Wonkette.com)
-
-- [At the epicentre of Ontario's measles outbreak, residents reel with concern](https://www.cbc.ca/news/canada/london/at-the-epicentre-of-ontario-s-measles-outbreak-residents-reel-with-concern-1.7507545) (CBC News)
-
-- [“Not Just Measles”: Whooping Cough Cases Are Soaring as Vaccine Rates Decline](https://www.propublica.org/article/whooping-cough-measles-outbreak-vaccine-hesitancy-trump) (ProPublica)
-
-- [Kennedy falsely claims measles vaccine protection 'wanes very quickly'](https://www.nbcnews.com/health/kids-health/health-secretary-rfk-jr-measles-vaccine-falsely-claims-wanes-rcna200636) (NBC News)
-
-- [Science Based Satire: Falling Vaccine Coverage Over The Years Is A Problem That Likely Increased Due To The Failed Covid-19 Policies That Jonathan Howard Championed.](https://sciencebasedmedicine.org/pathetic/) (Sciencebasedmedicine.org)
-
-- [The Pitt’s Taylor Dearden on That Moving Finale and Building a Nuanced Neurodivergent Character](https://www.vanityfair.com/hollywood/story/taylor-dearden-the-pitt-finale-awards-insider) (Vanity Fair)
-
-- [Extra measles vaccine shot recommended for some domestic travelers](https://www.cbsnews.com/news/measles-vaccine-cdc-texas-kansas-travel/) (CBS News)
-
-- [Outbreak spreading like wildfire...](https://www.the-express.com/news/168546) (The-express.com)
-
-- [Measles Outbreak in U.S. May Undo Formal ‘Elimination’ Status](https://www.scientificamerican.com/article/measles-outbreak-in-u-s-may-undo-formal-elimination-status/) (Scientific American)
-
-- [What RFK Jr. Told Grieving Texas Families About the Measles Vaccine (Tom Bartlett/The Atlantic)](https://www.memeorandum.com/250410/p118) (Memeorandum.com)
-
-- [Measles Updates: About 680 Cases Now Confirmed, Kennedy Says](https://www.forbes.com/sites/antoniopequenoiv/2025/04/10/measles-updates-about-680-cases-now-confirmed-kennedy-says/) (Forbes)
-
-- [RFK Jr. suggests some vaccines are risky or ineffective, downplays measles threat (Daniel Payne/STAT)](https://www.memeorandum.com/250410/p85) (Memeorandum.com)
-
-- [More potential measles exposures in Kingston, Belleville](https://www.cbc.ca/news/canada/ottawa/measles-kingston-belleville-case-guidance-advice-1.7482721) (CBC News)
-
-- [Ontario measles case count tops 800, 155 new infections since last week](https://www.cbc.ca/news/canada/toronto/ontario-measles-case-count-exceeds-800-total-1.7506928) (CBC News)
-
-- [Outbreak spreading like wildfire...](https://www.the-express.com/news/health/168546/measles-outbreak-texas-surpasses-500-unvaccinated) (The-express.com)
-
-- [Measles outbreaks in US and Canada show that MMR vaccines are needed more than ever – an expert in children’s health explains](https://theconversation.com/measles-outbreaks-in-us-and-canada-show-that-mmr-vaccines-are-needed-more-than-ever-an-expert-in-childrens-health-explains-221651) (The Conversation Africa)
-
-- [Almost 90 per cent of Ontario's growing measles cases are in the southwest](https://www.cbc.ca/news/canada/london/ontario-public-health-measles-april-cases-1.7506748) (CBC News)
-
-- [35 new measles cases reported south of London in past week](https://www.cbc.ca/news/canada/london/southwestern-public-health-measles-april-cases-1.7506748) (CBC News)
-
-- [What RFK Jr. Told Grieving Texas Families About the Measles Vaccine](https://www.theatlantic.com/health/archive/2025/04/rfk-measles-grieving-families-texas/682386/) (The Atlantic)
-
-- [RFK Jr.’s Own Movement Turns Against Him](https://politicalwire.com/2025/04/10/rfk-jr-s-own-movement-turns-against-him/) (Politicalwire.com)
-
-- [As measles spreads, federal budget cuts force closure of vaccine clinics](https://www.npr.org/sections/shots-health-news/2025/04/10/nx-s1-5357471/measles-outbreak-hhs-federal-budget-cuts-vaccine-clinics) (NPR)
-
-- [RFK Jr. praises measles response in Texas, US by making comparison to Europe](https://abcnews.go.com/Health/rfk-jr-praises-measles-response-texas-us-making/story?id=120657997) (ABC News)
-
-- [When will the US measles outbreak end?](https://www.livescience.com/health/viruses-infections-disease/when-will-the-us-measles-outbreak-end) (Live Science)
-
-- [Measles cases grow nationwide, but there’s an alternative to the vaccine](https://www.wnd.com/2025/04/measles-cases-grow-nationwide-but-theres-an-alternative-to-the-vaccine/) (Wnd.com)
-
-- [RFK Jr. Travels To Texas To Look Over What He Helped Create, Including A Tiny Casket](https://www.techdirt.com/2025/04/09/rfk-jr-travels-to-texas-to-look-over-what-he-helped-create-including-a-tiny-casket/) (Techdirt)
-
-- [Alberta's measles case counts climb with central zone hardest hit](https://www.cbc.ca/news/canada/calgary/alberta-s-measles-case-counts-climb-with-central-zone-hardest-hit-1.7505154) (CBC News)
-
-- [Apr 9: CBS News 24/7, 10am ET](https://www.cbsnews.com/video/040925-cbs-news-247-episode-1/) (CBS News)
-
-- [RFK Jr. draws from misinformation playbook by touting an inhaled steroid to treat measles](https://www.nbcnews.com/health/health-news/kennedy-draws-misinformation-playbook-touting-inhaled-steroid-treat-me-rcna200085) (NBC News)
-
-- [RFK Jr. says he's "not familiar" with all health program cuts](https://www.cbsnews.com/news/rfk-jr-sweeping-cuts-health-programs-employees-exclusive-interview/) (CBS News)
-
-- [MAGA crowd yells insults at reporter who asks RFK Jr. about deadly measles outbreak](https://www.rawstory.com/maga-crowd-yells-insults-at-reporter-as-she-asks-rfk-jr-about-measles-outbreak/) (Raw Story)
-
-- [Nationwide measles cases top 650 as outbreak continues to spread](https://www.today.com/video/measles-outbreak-spreads-to-22-states-500-cases-in-texas-alone-236906565526) (TODAY)
-
-- [Measles: Second child dies in Texas as RFK Jr finally recommends vaccination](https://www.bmj.com/content/389/bmj.r726) (The BMJ)
-
-- [Kennedy's moves on measles don't quell criticism (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250409/p16) (Memeorandum.com)
-
-- [Now we know how many kids must die from measles before RFK Jr. tries to save them | Opinion](https://www.star-telegram.com/opinion/bradford-william-davis/article303770066.html) (Fort Worth Star-Telegram)
-
-- [Ousted FDA vaccine chief says U.S. measles elimination status under threat as cases climb](https://www.nbcnews.com/health/health-news/ousted-fda-vaccine-chief-us-measles-elimination-status-threat-rcna199966) (NBC News)
-
-- [3rd measles case confirmed in Colorado; here’s where you could have been exposed](https://kdvr.com/news/health/3rd-measles-case-confirmed-in-colorado-heres-where-you-could-have-been-exposed/) (FOX 31 Denver)
-
-- [What will it take to get measles under control?](https://www.npr.org/2025/04/08/1243384827/getting-measles-under-control) (NPR)
-
-- [What will it take to get measles under control](https://www.npr.org/2025/04/08/nx-s1-5355878/what-will-it-take-to-get-measles-under-control) (NPR)
-
-- [RFK Jr. claims curve is flattening in Texas measles outbreak. Does the data agree?](https://abcnews.go.com/Health/rfk-jr-claims-curve-flattening-texas-measles-outbreak/story?id=120554374) (ABC News)
-
-- [Ontario schools begin suspending students who aren't fully vaccinated](https://www.cbc.ca/news/canada/toronto/ontario-schools-suspend-students-vaccines-1.7505150) (CBC News)
-
-- [Kennedy sends mixed messages amid measles outbreak](https://www.msnbc.com/rachel-maddow-show/maddowblog/rfk-jr-measles-texas-death-anti-vaccine-doctors-rcna200263) (MSNBC)
-
-- [Measles Cases Exceed 500 In Texas After Second Child Dies Of Illness](https://www.forbes.com/sites/antoniopequenoiv/2025/04/08/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
-
-- [Texas' measles outbreak isn't slowing down. How can that change?](https://www.npr.org/2025/04/08/nx-s1-5342706/texas-measles-outbreak-vaccine-seminole-gaines) (NPR)
-
-- [Idaho Cuts Public Health Benefits for Undocumented Immigrants](https://time.com/7275849/idaho-ends-publicly-funded-vaccinations-for-undocumented-immigrants/) (Time)
-
-- [What RFK Jr. Has Said About MMR Vaccine After Latest Measles Death](https://www.newsweek.com/rfk-jr-mmr-vaccine-measles-donald-trump-health-2056877) (Newsweek)
-
-- [4 dangerous measles myths to know as U.S. cases rise](https://www.cbsnews.com/news/measles-mmr-vaccine-myths/) (CBS News)
-
-- [Why RFK Jr. wants to ban fluoride in water](https://www.vox.com/health/407537/rfk-jr-why-remove-fluoride-in-water) (Vox)
-
-- [Measles cases in Texas surpass 500 with 24 new infections confirmed over last 5 days](https://abcnews.go.com/Health/measles-cases-texas-outbreak-surpass-500-24-new/story?id=120588600) (ABC News)
-
-- [Trump Cuts to Federal Health Funding Thwart Cities’ and States’ Measles Response](https://stateline.org/2025/04/08/some-measles-response-plans-crash-to-a-halt-after-trump-cuts/) (Stateline.org)
-
-- [Anti-Vaxxers Aren’t Happy With RFK Jr.](http://www.thecut.com/article/anti-vaxxers-upset-rfk-jr-mmr-vaccine.html) (The Cut)
-
-- [Texas measles outbreak includes multiple cases at a day care in Lubbock](https://www.bostonherald.com/2025/04/08/measles-outbreak-texas-day-care/) (Boston Herald)
-
-- [Texas measles outbreak includes multiple cases at a day care in Lubbock](https://abcnews.go.com/Health/wireStory/texas-measles-outbreak-includes-multiple-cases-day-care-120597239) (ABC News)
-
-- [Measles vaccine booster: Who should get it and why?](https://www.medicalnewstoday.com/articles/expert-qa-should-you-get-a-measles-vaccine-booster) (Medical News Today)
-
-- [Jimmy Kimmel Complains America Is “Pedaling Backwards In Every Area Of American Life” Amid Measles Outbreak, Market Drop](https://decider.com/2025/04/08/jimmy-kimmel-america-pedaling-backwards-measles-outbreak-market-drop/) (Decider)
-
-- [Links 4/8/2025](https://www.nakedcapitalism.com/2025/04/links-4-8-2025.html) (Nakedcapitalism.com)
-
-- [RFK Jr. Visits Texas Measles Epicenter After Death of Second Child Who was Infected](https://www.insurancejournal.com/news/southcentral/2025/04/08/818943.htm) (Insurance Journal)
-
-- [Why are measles cases surging?](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/why-are-measles-cases-surging) (The Naked Scientists)
-
-- [Health secretary RFK Jr. endorses the MMR vaccine — stoking fury among his supporters (Geoff Brumfiel/NPR)](https://www.memeorandum.com/250407/p159) (Memeorandum.com)
-
-- [CDC redeploys to Texas measles outbreak as RFK Jr. backs vaccine](https://www.cbsnews.com/news/cdc-texas-measles-outbreak-layoffs-rfk-vaccines/) (CBS News)
-
-- [Health secretary RFK Jr. endorses the MMR vaccine — stoking fury among his supporters](https://www.npr.org/sections/shots-health-news/2025/04/07/nx-s1-5354900/hhs-rfk-endorses-mmr-measles-vaccine-stoking-supporters-fury) (NPR)
-
-- [Ontario's large measles outbreak catches attention of New York public health officials](https://www.cbc.ca/news/canada/toronto/new-york-state-department-of-health-measles-travel-advisory-ontario-1.7504085) (CBC News)
-
-- [RFK Jr. visits family of child who died because they followed his bullshit conspiracy theories](https://www.lawyersgunsmoneyblog.com/2025/04/rfk-jr-visits-family-of-child-who-died-because-they-followed-his-bullshit-conspiracy-theories) (Lawyersgunsmoneyblog.com)
-
-- [New York State Issues Travel Advisory for 11 Countries](https://www.newsweek.com/measles-new-york-rfk-travel-advisory-vaccine-2056495) (Newsweek)
-
-- [Robert F Kennedy Jr claims anti-vax physicians healed 'some 300 measles-stricken children' (Richard Luscombe/The Guardian)](https://www.memeorandum.com/250407/p114) (Memeorandum.com)
-
-- [RFK Jr. Plugs Measles Vaccine, Along With Dubious Treatments](http://nymag.com/intelligencer/article/rfk-jr-plugs-measles-vaccine-along-with-dubious-treatments.html) (New York Magazine)
-
-- [RFK Jr. visits Texas after second child dies of measles amid outbreak (Washington Post)](https://www.memeorandum.com/250407/p91) (Memeorandum.com)
-
-- [RFK Jr. Waffles on Vaccines as Measles Rates Hit Record High](https://newrepublic.com/post/193679/robert-f-kennedy-jr-vaccines-measles-outbreak) (The New Republic)
-
-- [Kennedy to Kick Off Tour on Fighting Chronic Disease (Emily Baumgaertner Nunn/New York Times)](https://www.memeorandum.com/250407/p62) (Memeorandum.com)
-
-- [RFK Jr. Attends Measles Victim’s Funeral, Then Pitches Junk Treatment](https://gizmodo.com/rfk-jr-attends-measles-victims-funeral-then-pitches-junk-treatment-2000585910) (Gizmodo.com)
-
-- [RFK Jr. visits Texas as 2nd child dies from measles](https://theweek.com/health/measles-death-texas-rfk-jr) (The Week Magazine)
-
-- [Anti-vaxers challenge RFK Jr.’s new measles shot push by smearing dead children](https://www.dailydot.com/debug/texas-measles-deaths-rfk/) (The Daily Dot)
-
-- [4/7: CBS Morning News](https://www.cbsnews.com/video/040725-cbs-morning-news/) (CBS News)
-
-- [Children Aren’t the Only Ones Vulnerable to Measles](https://www.theatlantic.com/health/archive/2025/04/measles-outbreak-adults/682324/) (The Atlantic)
-
-- [Second US child dies of measles, almost 650 ill: officials](https://www.rawstory.com/second-us-child-dies-of-measles-almost-650-ill-officials/) (Raw Story)
-
-- [WATCH: Parachutist rescued after getting caught on stadium roof](https://abcnews.go.com/International/video/parachutist-rescued-after-caught-stadium-roof-120552972) (ABC News)
-
-- [Global markets plunge due to trade war. And, 2nd child dies in Texas from measles](https://www.npr.org/2025/04/07/g-s1-58674/up-first-newsletter-global-markets-tariffs-kilmar-armando-abrego-garcia-measles) (NPR)
-
-- [Asteroid 2024 YR4 Could Hit the Moon, Measles Cases Rise, and States Sue HHS](https://www.scientificamerican.com/podcast/episode/asteroid-2024-yr4-could-hit-the-moon-measles-cases-rise-and-states-sue-hhs/) (Scientific American)
-
-- [Second Child Dies Of Measles In Texas; Victim Was Unvaccinated, Previously Healthy](https://www.ibtimes.com/second-child-dies-measles-texas-victim-was-unvaccinated-previously-healthy-3769045) (International Business Times)
-
-- [CDC Statement on Measles Outbreak](https://www.cdc.gov/media/releases/2025/cdc-statement-on-measles-outbreak-04072025.html) (Cdc.gov)
-
-- [Morning news brief](https://www.npr.org/2025/04/07/nx-s1-5351018/morning-news-brief) (NPR)
-
-- [Second child dies from measles in Texas as outbreak spreads](https://www.npr.org/2025/04/07/nx-s1-5354181/second-child-dies-from-measles-in-texas-as-outbreak-spreads) (NPR)
-
-- [Second child dies of measles in Texas as US outbreak worsens](https://www.thejournal.ie/child-dies-measles-texas-us-outbreak-6670809-Apr2025/) (TheJournal.ie)
-
-- [Second Child Dies Of Measles In Texas;Victim Was Unvaccinated](https://www.medicaldaily.com/second-child-dies-measles-texas-victim-was-unvaccinated-previously-healthy-473338) (Medical Daily)
-
-- [Measles, MAHA, and “soft eugenics”](https://sciencebasedmedicine.org/measles-maha-and-soft-eugenics/) (Sciencebasedmedicine.org)
-
-- [RFK Jr. is advocating for the MMR vaccine to stop measles from spreading in Texas](https://www.businessinsider.com/rfk-jr-advocating-mmr-vaccine-stop-texas-measles-outbreak-2025-4) (Business Insider)
-
-- [Second US Child Dies Of Measles, Almost 650 Ill](https://www.ndtv.com/world-news/second-child-dies-from-measles-in-us-outbreak-as-cases-surge-to-650-8105804) (NDTV News)
-
-- [Second child with measles dies as US outbreak spreads](https://news.sky.com/story/texas-second-child-with-measles-dies-as-us-outbreak-spreads-13343693) (Sky.com)
-
-- [US: Second child dies of measles in Texas, hundreds sick](https://www.dw.com/en/us-second-child-dies-of-measles-in-texas-hundreds-sick/a-72157676) (DW (English))
-
-- [How concerning is the detection of the polio virus in European cities’ wastewater systems?](https://www.irishtimes.com/health/your-wellness/2025/04/07/how-concerning-is-the-detection-of-the-polio-virus-in-european-cities-wastewater-systems/) (The Irish Times)
-
-- [RFK Jr. Touts Bogus Measles Treatment Hours After Burying 8-Year-Old Child](https://www.thedailybeast.com/rfk-jr-touts-bogus-measles-treatment-hours-after-burying-8-year-old-child/) (Daily Beast)
-
-- [Second Child Dies Of Measles In Texas As Illness Hits 23 US States](https://www.globalsecurity.org/security/library/news/2025/04/sec-250407-rferl01.htm) (Globalsecurity.org)
-
-- [Second US child dies of measles, almost 650 ill: officials](https://www.bangkokpost.com/world/2997349/second-us-child-dies-of-measles-almost-650-ill-officials) (Bangkok Post)
-
-- [Second US child dies of measles, almost 650 ill: officials](https://www.digitaljournal.com/world/second-us-child-dies-of-measles-almost-650-ill-officials/article) (Digital Journal)
-
-- [RFK Jr. visits epicenter of Texas measles outbreak after death of second child who was infected](https://abcnews.go.com/Health/wireStory/rfk-jr-visits-epicenter-texas-measles-outbreak-after-120537968) (ABC News)
-
-- [Second US Child Dies Of Measles, Almost 650 Ill: Officials](https://www.ibtimes.com/second-us-child-dies-measles-almost-650-ill-officials-3768989) (International Business Times)
-
-- [Kennedy announces support for measles vaccine amid outbreak (Danny Nguyen/Politico)](https://www.memeorandum.com/250406/p63) (Memeorandum.com)
-
-- [Second child dies in Texas after measles outbreak infects nearly 500](https://www.abc.net.au/news/2025-04-07/second-child-dies-in-texas-after-measles-outbreak/105144984) (ABC News (AU))
-
-- [Second U.S. child dies of measles, almost 650 ill: officials](https://japantoday.com/category/features/health/second-us-child-dies-of-measles-almost-650-ill-officials) (Japan Today)
-
-- [Another measles death in West Texas](https://www.bostonherald.com/2025/04/06/another-measles-death-in-west-texas/) (Boston Herald)
-
-- [USA is hit by one of the world's most contagious disease. 2 children dead, over 600 cases reported. Check measles symptoms, vaccine, treatment](https://economictimes.indiatimes.com/news/international/us/usa-is-hit-by-one-of-the-worlds-most-contagious-disease-2-children-dead-over-600-cases-reported-check-measles-symptoms-vaccine-treatment/articleshow/120044961.cms) (The Times of India)
-
-- [U.S. health secretary heads to Texas after 2nd unvaccinated child dies of measles-related illness](https://www.cbc.ca/news/world/2nd-texas-unvaccinated-measles-death-1.7503364) (CBC News)
-
-- [RFK Jr. consoles Texas family: MMR vaccine ‘most effective’ way to stop measles spread](https://thehill.com/policy/healthcare/5235025-rfk-jr-consoles-texas-family-mmr-vaccine-measles/) (The Hill)
-
-- [Measles case confirmed in Kingston area](https://www.cbc.ca/news/canada/ottawa/measles-case-confirmed-in-kingston-area-1.7503349) (CBC News)
-
-- [Anti-Vax RFK Jr. to Attend Funeral of Second Child to Die in Texas Measles Outbreak](https://www.rollingstone.com/politics/politics-news/rfk-jr-measles-child-funeral-1235311560/) (Rolling Stone)
-
-- [Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads](https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012) (Newsweek)
-
-## 25-15 (malaria)
-
-- [Stakeholders seek youth participation in fight against malaria](https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/) (The Punch)
-
-- [Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febrile children under-five years in Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319913) (Plos.org)
-
-- [グローバルファンド事務局長に聞く、「グローバルヘルスの活動も効率重視」](https://bio.nikkeibp.co.jp/atcl/news/p1/25/04/03/13157/) (Nikkeibp.co.jp)
-
-- [Health Ministry calls for collective efforts to tackle malaria](https://www.nbcnews.na/node/110304) (Nbcnews.na)
-
-- [HOPS/CORVET tethering complexes are critical for endocytosis and protein trafficking to invasion related organelles in malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013053) (Plos.org)
-
-- [Delays in seeking healthcare and its determinants among malaria patients in Ethiopia: A systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320149) (Plos.org)
-
-- [Dos vacunas, una esperanza: el gran avance en la lucha contra la malaria](https://wwwhatsnew.com/2025/04/08/dos-vacunas-una-esperanza-el-gran-avance-en-la-lucha-contra-la-malaria/) (Wwwhatsnew.com)
-
-- [The Return of the Dire Wolf](https://time.com/7274542/colossal-dire-wolf/) (Time)
-
-- [La retirada de EE.UU. de la OMS amenaza con frenar décadas de avances en salud global](https://www.montevideo.com.uy/Salud/La-retirada-de-EE-UU-de-la-OMS-amenaza-con-frenar-decadas-de-avances-en-salud-global-uc919969) (Montevideo.com.uy)
-
-## 25-15 (hpai)
-
-- [Σε επιφυλακή η Κομισιόν για την καταπολέμηση εξάπλωσης της γρίπης πτηνών στην Πολωνία: Σχεδιάζει έκτακτα μέτρα](https://www.skai.gr/news/world/gripi-ton-ptinon-se-epifylaki-i-komision-gia-tin-katapolemisi-eksaplosis-tis) (Skai.gr)
-
-- [日本HP、AI PCをメインストリーム製品まで拡充](https://prtimes.jp/main/html/rd/p/000000089.000068112.html) (Prtimes.jp)
-
-- [One year later: Highly pathogenic avian influenza confirmed in dairy cattle](https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html) (Phys.Org)
-
-## 25-15 (h5n1)
-
-- [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
-
-- [Вирусолог назвала птичий грипп зомби-вирусом](https://www.ferra.ru/news/health/virusolog-nazvala-ptichii-gripp-zombi-virusom-12-04-2025.htm) (Ferra.ru)
-
-- [Figyelmeztet a szakértő: könnyen terjedhet Magyarországon egy emberre is veszélyes vírus](https://www.portfolio.hu/gazdasag/20250411/figyelmeztet-a-szakerto-konnyen-terjedhet-magyarorszagon-egy-emberre-is-veszelyes-virus-754355) (Portfolio.hu)
-
-- [Nachweis der Vogelgrippe in fünf Minuten: So funktioniert ein neuer Biosensor](https://t3n.de/news/nachweis-der-vogelgrippe-in-fuenf-minuten-so-funktioniert-ein-neuer-biosensor-1682854/) (T3n)
-
-- [É possível pegar gripe aviária consumindo leite e ovos? Entenda](https://www.metropoles.com/saude/gripe-aviaria-risco-transmissao-leite-ovos) (Metropoles.com)
-
-- [咀嚼新研香口膠 可減少流感和疱疹病毒傳播](https://unwire.hk/2025/04/11/antiviral-chewing-gum-influenza-herpes/fun-tech/) (Unwire.hk)
-
-- [ابتكار علكة مضادة للفيروسات للحد من انتشار العدوى](https://www.aljazeera.net/health/2025/4/10/%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1-%d8%b9%d9%84%d9%83%d8%a9-%d9%85%d8%b6%d8%a7%d8%af%d8%a9-%d9%84%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3%d8%a7%d8%aa-%d9%84%d9%84%d8%ad%d8%af-%d9%85%d9%86) (Aljazeera.net)
-
-- [Эксперт Коновалов: вирус гриппа птиц может обладать высоким пандемическим потенциалом](https://tass.ru/obschestvo/23645137) (Tass.ru)
-
-- [Influenza aviar en México: Tasa de letalidad es cerca del 50% en humanos, asegura Alejandro Macias](https://www.elfinanciero.com.mx/salud/2025/04/09/influenza-aviar-en-mexico-tasa-de-letalidad-es-cerca-del-50-en-humanos-asegura-alejandro-macias/) (El Financiero)
-
-- [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission) (Upenn.edu)
-
-- [Gripe aviária: criança de 3 anos é primeira vítima fatal de H5N1 no México](https://veja.abril.com.br/saude/gripe-aviaria-crianca-de-3-anos-e-primeira-vitima-fatal-de-h5n1-no-mexico/) (Abril.com.br)
-
-- [¿Puedes contagiarte de influenza aviar por consumir huevo o pollo? Ésta es la verdad](https://www.milenio.com/ciencia-y-salud/influenza-aviar-puedes-contagiarte-comiendo-huevo-pollo) (Milenio)
-
-- [Разработано способное остановить новую пандемию лекарство](https://lenta.ru/news/2025/04/09/razrabotano-sposobnoe-ostanovit-novuyu-pandemiyu-lekarstvo/) (Lenta)
-
-- [Vogelgrippe: Erster Todesfall nach Vogelgrippe-Infektion in Mexiko](https://www.spektrum.de/news/erster-todesfall-nach-vogelgrippe-infektion-in-mexiko/2262006) (Spektrum.de)
-
-- [Ssa: falleció menor de Durango que contrajo gripe aviar](https://www.jornada.com.mx/2025/04/09/politica/015n3pol) (Jornada.com.mx)
-
-- [Primo decesso umano da influenza aviaria in Messico: una bambina di 3 anni contagiata da un uccello](https://www.ilsole24ore.com/art/primo-decesso-umano-influenza-aviaria-messico-bambina-3-anni-contagiata-un-uccello-AH4xwgC) (Il Sole 24 Ore)
-
-- [Meksika’da kuş gribi ölüm getirdi: 3 yaşındaki çocuk hastalığa yenik düştü](https://www.sabah.com.tr/dunya/meksikada-kus-gribi-olum-getirdi-3-yasindaki-cocuk-hastaliga-yenik-dustu-7329685) (Sabah.com.tr)
-
-- [Erster Todesfall in Mexiko: Kind stirbt an Vogelgrippevirus H5N1](https://www.morgenpost.de/panorama/article408749052/erster-todesfall-in-mexiko-kind-stirbt-an-vogelgrippevirus-h5n1.html) (Berliner Morgenpost)
-
-- [Противовирусная жевательная резинка](https://habr.com/ru/companies/ua-hosting/articles/898660/#post-content-body) (Habr.com)
-
-- [Soffri di influenza ed herpes? Arriva la "gomma magica" che previene i virus](https://www.ilgiornale.it/news/farmaci-e-terapie/soffri-influenza-ed-herpes-arriva-gomma-magica-che-previene-2463711.html) (Ilgiornale.it)
-
-- [O fetiță de 3 ani a murit după ce a fost diagnosticată cu gripă aviară. Este primul deces cauzat de H5N1 în Mexic](https://www.digi24.ro/stiri/externe/o-fetita-de-3-ani-a-murit-dupa-ce-a-fost-diagnosticata-cu-gripa-aviara-este-primul-deces-cauzat-de-h5n1-in-mexic-3191245) (Digi24.ro)
-
-- [Influenza aviar H5N1 en México: ¿Te puedes contagiar por consumir pollo y huevo?](https://www.elfinanciero.com.mx/salud/2025/04/08/influenza-aviar-h5n1-en-mexico-te-puedes-contagiar-por-consumir-pollo-y-huevo/) (El Financiero)
-
-- [Mexique : Une petite fille de 3 ans décède de la grippe aviaire H5N1](https://www.20minutes.fr/monde/4147704-20250409-mexique-petite-fille-3-ans-decede-grippe-aviaire-h5n1) (20 Minutes)
-
-- [H5N1: Dreijährige stirbt in Mexiko an der Vogelgrippe](https://www.zeit.de/gesundheit/2025-04/vogelgrippe-mexiko-totes-maedchen-h5n1-virus) (Die Zeit)
-
-- [Dreijährige stirbt in Mexiko nach Vogelgrippe-Infektion](https://www.tagesschau.de/ausland/amerika/mexiko-vogelgrippe-todesfall-100.html) (tagesschau.de)
-
-- [Mexico reports first human death from H5N1 bird flu](https://www.abc.net.au/news/2025-04-09/first-human-death-from-bird-flu-in-mexico/105154358) (ABC News (AU))
-
-- [No hay riesgo de que México padezca situación de gripe aviar como en Asia: IMSS](https://www.excelsior.com.mx/nacional/gripe-aviar-mexico-situacion-imss-riesgo-asia/1709588) (Excelsior.com.mx)
-
-- [Au Mexique, une petite fille est morte après avoir contracté la grippe aviaire H5N1, le premier et seul cas de décès lié au virus dans le pays](https://www.francetvinfo.fr/sante/maladie/grippe-aviaire/au-mexique-une-petite-fille-est-morte-apres-avoir-contracte-la-grippe-aviaire-h5n1-le-premier-et-seul-cas-de-deces-lie-au-virus-dans-le-pays_7178532.html) (Francetvinfo.fr)
-
-- [México registra primeira morte humana pelo vírus H5N1](https://valor.globo.com/mundo/noticia/2025/04/08/mxico-registra-primeira-morte-humana-pelo-vrus-h5n1.ghtml) (Globo)
-
-- [Murió niña reportada como el primer caso de gripe aviar H5N1 en México](https://peru21.pe/mundo/mexico-murio-nina-reportada-como-el-primer-caso-de-gripe-aviar-h5n1/) (Peru21.pe)
-
-- [Groźny wirus zbiera żniwo. Ofiarą trzyletnia dziewczynka](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-zbiera-zniwo-ofiara-trzyletnia-dziewczynka,nId,21394272) (Interia.pl)
-
-- [Groźny wirus zbiera żniwo. Choroba nie oszczędza najmłodszych](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-zbiera-zniwo-choroba-nie-oszczedza-najmlodszych,nId,21394272) (Interia.pl)
-
-- [Au Mexique, une fille de 3 ans meurt de la grippe aviaire H5N1](https://www.lemonde.fr/international/article/2025/04/08/au-mexique-une-fille-de-3-ans-meurt-de-la-grippe-aviaire-h5n1_6592814_3210.html) (Le Monde)
-
-- [Mexiko zaznamenalo prvé úmrtie človeka na vtáčiu chrípku H5N1. Obeťou je iba trojročné dievčatko](https://spravy.pravda.sk/svet/clanok/747691-mexiko-zaznamenalo-prve-umrtie-cloveka-na-vtaciu-chripku-h5n1-obetou-je-iba-trojrocne-dievcatko/) (Pravda.sk)
-
-- [Premier décès d’un cas humain de grippe aviaire H5N1 au Mexique : il s’agit d’une petite fille de 3 ans](https://www.lavenir.net/actu/monde/2025/04/08/premier-deces-dun-cas-humain-de-grippe-aviaire-h5n1-au-mexique-il-sagit-dune-petite-fille-de-3-ans-GS3W3L7LEBBTJJCFXMFAJKR5NM/) (Lavenir.net)
-
-- [Kolme­vuotias kuoli lintu­influenssaan](https://www.is.fi/ulkomaat/art-2000011155834.html) (Www.is.fi)
-
-- [¿Hay riesgo de contagio de gripe aviar tras la muerte de una niña en Coahuila? Esto dice la Ssa](https://www.milenio.com/ciencia-y-salud/hay-riesgo-de-contagio-de-aviar-tras-la-muerte-de-menor-en-coahuila) (Milenio)
-
-- [Criança é primeira vítima fatal de gripe aviária H5N1 reportada no México](https://ultimosegundo.ig.com.br/afp/2025-04-08/crianca-e-primeira-vitima-fatal-de-gripe-aviaria-h5n1-reportada-no-mexico.html) (Ig.com.br)
-
-- [O fetiță de 3 ani a murit din cauza gripei aviare H5N1 în Mexic](https://www.mediafax.ro/externe/o-fetita-de-3-ani-a-murit-din-cauza-gripei-aviare-h5n1-in-mexic-23538202) (Mediafax.ro)
-
-- [H5N1: México registra 1ª morte por gripe aviária na América Latina](https://www.metropoles.com/saude/h5n1-mexico-morte-gripe-aviaria) (Metropoles.com)
-
-- [Muere niña de 3 años por influenza aviar H5N1, el primer caso detectado en México](https://www.elfinanciero.com.mx/nacional/2025/04/08/muere-nina-de-3-anos-por-influenza-aviar-h5n1-el-primer-caso-detectado-en-mexico/) (El Financiero)
-
-- [Un premier décès d’un cas humain de grippe aviaire H5N1 identifié au Mexique](https://www.lalibre.be/international/amerique/2025/04/08/un-premier-deces-dun-cas-humain-de-grippe-aviaire-h5n1-identifie-au-mexique-JHA5CIQPSBFRRL4MRFLSTYNTA4/) (Lalibre.be)
-
-- [Erstmals Mensch in Mexiko an Vogelgrippe gestorben](https://www.diepresse.com/19561644/erstmals-mensch-in-mexiko-an-vogelgrippe-gestorben) (Diepresse.com)
-
-- [Mexico melder om første dødsfald efter smitte med fugleinfluenza-variant](https://www.dr.dk/nyheder/seneste/mexico-melder-om-foerste-doedsfald-efter-smitte-med-fugleinfluenza-variant) (Www.dr.dk)
-
-- [Mexique: une petite fille de trois ans meurt de la grippe aviaire H5N1, premier décès rapporté](https://www.bfmtv.com/international/amerique-latine/mexique/mexique-une-petite-fille-de-trois-ans-meurt-de-la-grippe-aviaire-h5n1-premier-deces-rapporte_AD-202504080753.html) (BFMTV)
-
-- [Mexico reports first human death from H5N1 bird flu](https://www.thestar.com.my/news/world/2025/04/09/mexico-reports-first-human-death-from-h5n1-bird-flu) (The Star Online)
-
-- [Muere niña por influenza aviar, primer caso en México](https://www.reforma.com/muere-nina-por-influenza-aviar-primer-caso-en-mexico/ar2984109) (Reforma.com)
-
-- [Første dødsfall fra fugleinfluensa i Mexico](https://www.nrk.no/nyheter/forste-dodsfall-fra-fugleinfluensa-i-mexico-1.17375855) (NRK)
-
-- [¿Se puede contagiar la influenza aviar entre humanos?](https://www.milenio.com/ciencia-y-salud/influenza-aviar-es-contagiosa-entre-humanos) (Milenio)
-
-- [Murió la niña que fue el primer caso de influenza aviar H5N1 en México](https://forbes.com.mx/murio-la-nina-que-fue-el-primer-caso-de-influenza-aviar-h5n1-en-mexico/) (Forbes.com.mx)
-
-- [Muere niña de 3 años con influenza aviar AH5N1 en México](https://www.excelsior.com.mx/nacional/influenza-aviar-muere-nina-primer-caso-enfermedad-mexico/1709504) (Excelsior.com.mx)
-
-- [Muere niña de 3 años por gripe aviar H5N1 en Torreón](https://www.sopitas.com/noticias/gripe-aviar-h5n1-mexico-caso-confirmado-nina-3-anos/) (Sopitas.com)
-
-- [Nasal spray H5N1 avian influenza vaccine developed](https://www.sciencedaily.com/releases/2025/04/250408122112.htm) (Science Daily)
-
-- [Caso de A/H5N1 en menor se contagió de ave a humano](https://www.jornada.com.mx/2025/04/08/politica/012n2pol) (Jornada.com.mx)
-
-- [Letters to Editor - Highly pathogenic avian influenza A(H5N1) virus: Are we getting closer to another pandemic?](https://www.lescienze.it/pubblicazioni/2025/04/08/news/letters_to_editor_-_highly_pathogenic_avian_influenza_ah5n1_virus_are_we_getting_closer_to_another_pandemic-18871663/) (Lescienze.it)
-
-- [Factory farming the next global pandemic](https://theecologist.org/2025/apr/08/factory-farming-next-global-pandemic) (Theecologist.org)
-
-- [Bird Flu “On The Cusp” Of Transmitting To Humans](https://www.activistpost.com/bird-flu-on-the-cusp-of-transmitting-to-humans/) (Activistpost.com)
-
-- [First Human Case Of H5N1 Bird Flu Reported In Mexico](https://www.shtfplan.com/headline-news/first-human-case-of-h5n1-bird-flu-reported-in-mexico) (Shtfplan.com)
-
-- [One year later: Highly pathogenic avian influenza confirmed in dairy cattle](https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html) (Phys.Org)
-
-- [این آدامس ضدویروسی می‌خواهد انتقال آنفلوانزا و HSV را کاهش دهد](https://digiato.com/health/an-antiviral-chewing-gum-to-reduce-influenza) (Digiato.com)
-
-- [禽流感病毒會引發大流行嗎？距離「人傳人」還有多久？](https://www.thenewslens.com/article/250620) (Thenewslens.com)
-
-- [Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa](https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215) (Excelsior.com.mx)
-
-## 25-15 (dengue)
-
-- [Dengue cases in the West on decline - Ministry of Health - The Fiji Times](https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/) (Fijitimes.com.fj)
-
-- [Graz sagt der Tigermücke den Kampf an](https://steiermark.orf.at/stories/3301013/) (Steiermark.orf.at)
-
-- [Vacinação em massa contra a dengue é uma das principais apostas da Saúde para 2026](https://www.infomoney.com.br/saude/vacinacao-em-massa-contra-a-dengue-e-uma-das-principais-apostas-da-saude-para-2026/) (InfoMoney)
-
-- [Book Club: Readers admit they weren’t impressed with our latest novel](https://www.newscientist.com/article/2475882-book-club-readers-admit-they-werent-impressed-with-our-latest-novel/) (New Scientist)
-
-- [Curta](https://valor.globo.com/brasil/noticia/2025/04/11/3af325b8-curta.ghtml) (Globo)
-
-- [Hospitais particulares de São Paulo registram aumento de internações por dengue](https://www.terra.com.br/vida-e-estilo/saude/hospitais-particulares-de-sao-paulo-registram-aumento-de-internacoes-por-dengue,3f40c24aabdc912de5f959e43ffcb3ae39zdgq54.html) (Terra.com.br)
-
-- [Dengue cresce na cidade de São Paulo e se torna epidêmica em cinco distritos](https://valor.globo.com/brasil/noticia/2025/04/10/dengue-cresce-na-cidade-de-so-paulo-e-se-torna-epidmica-em-cinco-distritos.ghtml) (Globo)
-
-- [Campinas terá maior biofábrica de mosquito modificado contra a dengue](https://veja.abril.com.br/agenda-verde/campinas-tera-maior-biofabrica-de-mosquito-modificado-contra-a-dengue/) (Abril.com.br)
-
-- [Hospitais privados registram alta na internação por dengue no Estado de São Paulo](https://valor.globo.com/brasil/noticia/2025/04/10/hospitais-privados-registram-alta-na-internacao-por-dengue-no-estado-de-sao-paulo.ghtml) (Globo)
-
-- [WHO races to contain dengue threat in quake-hit Myanmar](https://timesofindia.indiatimes.com/world/rest-of-world/who-races-to-contain-dengue-threat-in-quake-hit-myanmar/articleshow/120152526.cms) (The Times of India)
-
-- [Drop in dengue cases to 1,021](https://www.thestar.com.my/news/nation/2025/04/10/drop-in-dengue-cases-to-1021) (The Star Online)
-
-- [Immunogenicity of a single dose of the 17DD yellow fever vaccine in a cohort of adults and children in a non-endemic area, and its association with dengue and Zika seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012993) (Plos.org)
-
-- [MPRS articula iniciativas para o enfrentamento do aumento dos casos de dengue em Porto Alegre](https://www.terra.com.br/noticias/mprs-articula-iniciativas-para-o-enfrentamento-do-aumento-dos-casos-de-dengue-em-porto-alegre,d90085ae3aedd5a6a7710c06db06b14bnnmilsz1.html) (Terra.com.br)
-
-- [Dengue: Ministério da Saúde intensifica ações em 7 estados; SP lidera em casos](https://veja.abril.com.br/saude/dengue-ministerio-da-saude-intensifica-acoes-em-7-estados-sp-lidera-em-casos/) (Abril.com.br)
-
-- [Veja as 80 cidades com maior incidência de dengue em 2025](https://www.metropoles.com/brasil/veja-as-80-cidades-com-maior-incidencia-de-dengue-em-2025) (Metropoles.com)
-
-- [Dengue: SP, PR e MG contabilizam mais de 85% das mortes em 2025](https://www.metropoles.com/brasil/dengue-sp-pr-e-mg-contabilizam-mais-de-85-das-mortes-em-2025) (Metropoles.com)
-
-- [Saúde anuncia 80 municípios prioritários para ações contra dengue](https://www.infomoney.com.br/saude/saude-anuncia-80-municipios-prioritarios-para-acoes-contra-dengue/) (InfoMoney)
-
-- [Saúde vai intensificar combate à dengue em 80 cidades mais atingidas](https://www.metropoles.com/brasil/saude-vai-intensificar-combate-a-dengue-em-80-cidades-mais-atingidas) (Metropoles.com)
-
-- [Environmental and anthropic factors influencing Aedes aegypti and Aedes albopictus (Diptera: Culicidae), with emphasis on natural infection and dissemination: Implications for an emerging vector in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012605) (Plos.org)
-
-- [El dengue y otras sorpresas](https://www.lanacion.com.ar/cultura/el-dengue-y-otras-sorpresas-nid08042025/) (La Nacion)
-
-- [Cidade de São Paulo confirma terceira morte por dengue neste ano](https://www.metropoles.com/sao-paulo/sao-paulo-terceira-morte-dengue) (Metropoles.com)
-
-- [Cidade de São Paulo registra terceira morte por dengue em 2025](https://valor.globo.com/brasil/noticia/2025/04/07/cidade-de-so-paulo-registra-terceira-morte-por-dengue-em-2025.ghtml) (Globo)
-
-- [The Return of the Dire Wolf](https://time.com/7274542/colossal-dire-wolf/) (Time)
-
-## 25-15 (chikungunya)
-
-- [Graz sagt der Tigermücke den Kampf an](https://steiermark.orf.at/stories/3301013/) (Steiermark.orf.at)
-
-- [Bengaluru feels the sting as chikungunya sees spike, dept steps up monitoring](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-feels-the-sting-as-chikungunya-sees-spike-dept-steps-up-monitoring/articleshow/120144957.cms) (The Times of India)
-
-- [Santé. À La Réunion, l'épidémie de Chikungunya est « généralisée et majeure »](https://www.ledauphine.com/sante/2025/04/09/a-la-reunion-l-epidemie-de-chikungunya-est-generalisee-et-majeure) (Le Dauphiné Libéré)
-
-- [Chikungunya à La Réunion : 6 289 cas détectés en une semaine](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-6-289-cas-detectes-en-une-semaine_7180041.html) (Francetvinfo.fr)
-
-- [Epidémie de chikungunya à La Réunion : 6 289 nouveaux cas, 22 000 consultations chez les médecins et une hausse des hospitalisations](https://la1ere.francetvinfo.fr/reunion/epidemie-de-chikungunya-a-la-reunion-6-289-nouveaux-cas-22-000-consultations-chez-les-medecins-et-une-hausse-des-hospitalisations-1576936.html) (Francetvinfo.fr)
-
-- [Environmental and anthropic factors influencing Aedes aegypti and Aedes albopictus (Diptera: Culicidae), with emphasis on natural infection and dissemination: Implications for an emerging vector in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012605) (Plos.org)
-
-- [Chikungunya : la campagne de vaccination lancée à La Réunion](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/chikungunya-la-campagne-de-vaccination-lancee-a-la-reunion_7177731.html) (Francetvinfo.fr)
-
-- [Chikungunya : comment La Réunion est devenue le cobaye d’un vaccin inédit](https://www.lepoint.fr/sante/chikungunya-a-la-reunion-le-labo-valneva-entame-une-campagne-de-vaccination-novatrice-07-04-2025-2586760_40.php) (Le Point)
-
-- [Chikungunya à La Réunion : coup d’envoi de la campagne de vaccination, alors que l’île fait face à une épidémie](https://www.lemonde.fr/planete/article/2025/04/07/chikungunya-a-la-reunion-coup-d-envoi-de-la-campagne-de-vaccination-alors-que-l-ile-fait-face-a-une-epidemie_6592340_3244.html) (Le Monde)
-
-- [Chikungunya : coup d’envoi de la campagne de vaccination à la Réunion](https://www.francetvinfo.fr/sante/chikungunya-coup-d-envoi-de-la-campagne-de-vaccination-a-la-reunion_7175937.html) (Francetvinfo.fr)
-
-- [Chikungunya à La Réunion : la vaccination commence ce lundi, après le déclenchement du plan blanc](https://www.liberation.fr/societe/sante/chikungunya-a-la-reunion-la-vaccination-commence-ce-lundi-apres-le-declenchement-du-plan-blanc-20250407_KQ7OLRNWOFAU7G2QSSNYDHV5SQ/) (Libération)
-
-- [Chikungunya, aides aux agriculteurs, violences intrafamiliales... Manuel Valls sur tous les fronts pour sa deuxième journée de visite à La Réunion](https://la1ere.francetvinfo.fr/reunion/manuel-valls-sur-tous-les-fronts-pour-sa-deuxieme-journee-de-visite-a-la-reunion-1576246.html) (Francetvinfo.fr)
-
-- [Chikungunya : le début de la vaccination est "une étape importante dans la lutte contre cette épidémie", estime le directeur général de l'ARS de La Réunion](https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html) (Francetvinfo.fr)
