@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-05-25 07:06
-- **Most recent article:** 2025-05-24 06:21:58
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-05-25 19:05
+- **Most recent article:** 2025-05-24 17:03:59
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 82 | 107 | 88 | 82 | 75 | 56 | 490 |
+| measles | 75 | 107 | 88 | 82 | 75 | 57 | 484 |
 | chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 153 |
-| dengue | 29 | 16 | 32 | 26 | 24 | 23 | 150 |
-| malaria | 13 | 34 | 22 | 19 | 11 | 30 | 129 |
-| h5n1 | 9 | 15 | 15 | 11 | 21 | 45 | 116 |
-| mpox | 10 | 5 | 11 | 11 | 18 | 10 | 65 |
+| dengue | 29 | 16 | 32 | 26 | 24 | 24 | 151 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 32 | 131 |
+| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 116 |
+| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 65 |
 | meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 40 |
-| zika | 7 | 2 | 3 | 6 | 3 | 9 | 30 |
+| zika | 7 | 2 | 3 | 6 | 3 | 10 | 31 |
 | rabies | 0 | 3 | 4 | 12 | 3 | 6 | 28 |
-| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 15 |
+| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 14 |
 | hpai | 5 | 1 | 2 | 3 | 1 | 2 | 14 |
 | typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 10 |
 | leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-21 (zika)
+
+- [Why do mosquitoes bite you more than your friends? Science reveals the surprising skin chemistry behind it](https://economictimes.indiatimes.com/magazines/panache/why-do-mosquitoes-bite-you-more-than-your-friends-science-reveals-the-surprising-skin-chemistry-behind-it/articleshow/121383596.cms) (The Times of India)
 
 - [France grapples with surging tropical diseases amid spread of tiger mosquitoes](https://www.politico.eu/article/france-grapples-with-high-cases-of-tropical-diseases-amid-spread-of-tiger-mosquitoes/) (POLITICO.eu)
 
@@ -78,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (mpox)
 
+- [Mpox - Sierra Leone: plus de 3.000 cas de mpox recensés et 14 décès, selon les autorités](https://www.lavenir.net/actu/monde/2025/05/24/mpox-sierra-leone-plus-de-3000-cas-de-mpox-recenses-et-14-deces-selon-les-autorites-LWJHTG3U35BW7FJQL4PN6V3PTA/) (Lavenir.net)
+
 - [TWiV 1220: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1220/) (Microbe.tv)
 
 - [Macedonia de Nord a raportat primele sale două cazuri de infectare cu mpox. Apelul autorităților către cetățeni](https://www.digi24.ro/stiri/externe/macedonia-de-nord-a-raportat-primele-sale-doua-cazuri-de-infectare-cu-mpox-apelul-autoritatilor-catre-cetateni-3254089) (Digi24.ro)
@@ -113,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 - [Student, 23, who had arms and legs amputated 'wants to get message out' to stop others going through her ordeal](https://news.sky.com/story/student-23-who-lost-all-four-limbs-to-sepsis-calls-on-people-to-get-meningitis-vaccine-13371788) (Sky.com)
 
 ## 25-21 (measles)
+
+- [Canada achieved measles elimination status in 1998. Now, it could lose it](https://www.cbc.ca/news/health/canada-measles-elimination-risk-1.7541504) (CBC News)
 
 - [AHS expands measles advisory to entire south zone due to 'widespread' exposure risk](https://www.cbc.ca/news/canada/calgary/measles-south-cases-widespread-advisory-1.7542933) (CBC News)
 
@@ -228,6 +234,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (malaria)
 
+- [Claim: Climate Change Could Bring Mosquito Diseases to Britain](https://wattsupwiththat.com/2025/05/24/claim-climate-change-could-bring-mosquito-borne-diseases-to-britain/) (Wattsupwiththat.com)
+
+- [Targeting malaria at the source: Drug-treated nets eliminate parasites in resistant mosquitoes](https://phys.org/news/2025-05-malaria-source-drug-nets-parasites.html) (Phys.Org)
+
 - [Sebastião Salgado, scolpiva in bianco e nero un’umanità epica](https://www.corriere.it/cultura/25_maggio_23/sebastiao-salgado-scolpiva-bianco-nero-un-umanita-epica-456e9c4c-3802-11f0-8de6-8487bae846aa.shtml) (Corriere.it)
 
 - [Sebastião Salgado, the Brazilian photographer who rebuilt forests and froze history and injustice in frames, died at 81](https://economictimes.indiatimes.com/news/international/canada/sebastio-salgado-the-brazilian-photographer-who-rebuilt-forests-and-froze-history-and-injustice-in-frames-died-at-81/articleshow/121369061.cms) (The Times of India)
@@ -295,6 +305,8 @@ Source: [News API](https://newsapi.org/)
 - [Ragályos vírus ütötte fel a fejét, lépnek a hatóságok](https://www.portfolio.hu/global/20250519/ragalyos-virus-utotte-fel-a-fejet-lepnek-a-hatosagok-762087) (Portfolio.hu)
 
 ## 25-21 (h5n1)
+
+- [El riesgo silencioso: cómo un virus entre vacas y cerdos podría desatar la próxima pandemia](https://es.gizmodo.com/el-riesgo-silencioso-como-un-virus-entre-vacas-y-cerdos-podria-desatar-la-proxima-pandemia-2000169077) (Gizmodo.com)
 
 - [Ученые готовятся к тому, что следующей будет пандемия птичьего гриппа. Почему именно его?](https://www.bbc.com/russian/articles/cr7zzyne99ko) (BBC News)
 
@@ -387,6 +399,8 @@ Source: [News API](https://newsapi.org/)
 - [Gripa aviară este letală pentru pisici. Cercetătorii semnalează riscul de transmitere la oameni și iau în calcul o posibilă pandemie](https://www.digi24.ro/stiri/actualitate/sanatate/gripa-aviara-este-letala-pentru-pisici-cercetatorii-semnaleaza-riscul-de-transmitere-la-oameni-si-iau-in-calcul-o-posibila-pandemie-3237789) (Digi24.ro)
 
 ## 25-21 (dengue)
+
+- [Why do mosquitoes bite you more than your friends? Science reveals the surprising skin chemistry behind it](https://economictimes.indiatimes.com/magazines/panache/why-do-mosquitoes-bite-you-more-than-your-friends-science-reveals-the-surprising-skin-chemistry-behind-it/articleshow/121383596.cms) (The Times of India)
 
 - [Porto Alegre promove novos mutirões contra a dengue neste sábado](https://www.terra.com.br/noticias/porto-alegre-promove-novos-mutiroes-contra-a-dengue-neste-sabado,2e5af9fb14a86c95275949ece03f185421qkmel0.html) (Terra.com.br)
 
@@ -2274,8 +2288,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
 
-- ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
-
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2295,8 +2307,6 @@ Source: [News API](https://newsapi.org/)
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
-
-- [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
 ## 25-16 (meningitis)
 
@@ -2466,20 +2476,6 @@ Source: [News API](https://newsapi.org/)
 
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
-- [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
-
-- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
-
-- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
-
-- [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
-
-- [Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)](https://www.memeorandum.com/250413/p15) (Memeorandum.com)
-
-- [Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US](https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363) (ABC News)
-
-- [Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)](https://www.memeorandum.com/250413/p14) (Memeorandum.com)
-
 ## 25-16 (malaria)
 
 - [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
@@ -2541,8 +2537,6 @@ Source: [News API](https://newsapi.org/)
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
-
-- [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 
