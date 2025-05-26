@@ -1,8 +1,333 @@
 {
-  "last_updated": "2025-05-25 19:05",
-  "count_articles_total": 1182,
-  "count_articles_new": 6,
+  "last_updated": "2025-05-26 19:05",
+  "count_articles_total": 1217,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 21576,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Virginian-Pilot",
+      "author": "The Daily Progress",
+      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
+      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
+      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
+      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 17:26:18",
+      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.311788",
+      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Ethiopia reports first mpox case",
+      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-25 17:09:00",
+      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
+      "retrievedAt": "2025-05-26 19:05:56.538122",
+      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Attila Pelit",
+      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
+      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
+      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
+      "publishedAt": "2025-05-25 17:00:30",
+      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.197216",
+      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21583,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
+      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
+      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
+      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
+      "publishedAt": "2025-05-25 14:40:28",
+      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.078898",
+      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
+      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
+      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
+      "publishedAt": "2025-05-25 14:00:41",
+      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
+      "retrievedAt": "2025-05-26 19:05:55.552382",
+      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
+      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
+      "publishedAt": "2025-05-25 12:16:38",
+      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.406035",
+      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
+      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
+      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 12:00:46",
+      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.188864",
+      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
+      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
+      "publishedAt": "2025-05-25 08:43:49",
+      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.507741",
+      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21584,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Dengue outbreaks averted in past two years, public urged to stay vigilant in 2025: NEA",
+      "description": "The warmer months from May to October usually see higher dengue transmission in Singapore.",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-aedes-mosquito-vigilant-2025-outbreaks-averted-past-2-years-5152001",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--7WNgxmum--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/31/dengue_fever_mosquito.jpg?itok=RuLa1HEu",
+      "publishedAt": "2025-05-25 05:41:31",
+      "content": "SINGAPORE: Large dengue outbreaks were averted in 2023 and 2024, the National Environment Agency (NEA) said on Sunday (May 25), adding that vigilance is needed to prevent a surge this year. In its \u2026 [+1602 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.389029",
+      "internal_id": "3096afeb6f1dd829313b00a99891281b7f2646269845367686378f92a866484b",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21590,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Menos del 1 por ciento de los infectados con el virus del Nilo desarrolla una encefalitis o meningitis que pueden ser mortales",
+      "description": "La Fiebre del Nilo Occidental (VNO) es una zoonosis causada por determinadas cepas del virus del Nilo Occidental (VNO) transmitidas por mosquitos. Dicho virus se mantiene gracias a un ciclo de transmisi\u00f3n mosquito-ave-mosquito, que se ve facilitada por la pos\u2026",
+      "url": "https://www.abc.es/sevilla/provincia/ciento-infectados-virus-nilo-desarrolla-encefalitis-meningitis-20250525124208-nts.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/05/25/virus-nilo-mosquito1-U72752753380LgY-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-05-25 04:46:03",
+      "content": "La Fiebre del Nilo Occidental (VNO) es una zoonosis causada por determinadas cepas del virus del Nilo Occidental (VNO) transmitidas por mosquitos. Dicho virus se mantiene gracias a un ciclo de transm\u2026 [+1142 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.836955",
+      "internal_id": "ba9e0e354251c0cd35f7420c64bccafe07766e450a19bd65c360c14e382e7ece",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21587,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Health emergency: Dengue fever outbreak declared in Rarotonga, New Zealand",
+      "description": "Cook Islands faces a dengue fever outbreak in Rarotonga. Seven cases are confirmed, prompting a swift response. The government initiates 'Operation Namu25' to eliminate mosquito breeding sites. Health officials urge community participation to control the spre\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/new-zealand/health-emergency-dengue-fever-outbreak-declared-in-rarotonga-new-zealand/articleshow/121388998.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121389001,width-1200,height-630,imgsize-500183,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-05-25 03:28:17",
+      "content": "The Cook Islands government has officially declared a dengue fever outbreak in Rarotonga after confirming two new cases this week, bringing the total to seven within the past 18 days. This surpasses \u2026 [+2619 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.451201",
+      "internal_id": "3bec8198da4e6e81e95d53bdcad8bca9b039c3bd715fe0bede8938423cc42798",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21566,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Progress",
+      "author": "Daily Progress Staff",
+      "title": "Second Virginia measles case reported in Charlottesville",
+      "description": "The second confirmed case of measles has been reported in Charlottesville, as the highly contagious, sometimes-fatal viral infection continues to spread nationwide.",
+      "url": "https://dailyprogress.com/news/local/business/health-care/article_cbc7996c-2192-47be-b212-03a7b8a24011.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/c/bc/cbc7996c-2192-47be-b212-03a7b8a24011/683244a6a1285.preview.jpg?crop=612%2C321%2C0%2C43",
+      "publishedAt": "2025-05-24 22:25:43",
+      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as ou\u2026 [+3693 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.214347",
+      "internal_id": "b2597e2c62bd1523b3a5c7fb38fd35e8ca0d468740eebd143abadfcbda61c882",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21562,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Progress",
+      "author": "THE (CHARLOTTESVILLE) DAILY PROGRESS",
+      "title": "Second Virginia measles case reported in Charlottesville",
+      "description": "CHARLOTTESVILLE \u2014 The second confirmed case of measles has been reported in Virginia, this time in Charlottesville.",
+      "url": "https://dailyprogress.com/tncms/asset/editorial/cbc7996c-2192-47be-b212-03a7b8a24011/",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/15/c15ec78a-c9ad-565e-8a0e-71de3811257b/68324e6f4c459.preview.jpg?crop=612%2C321%2C0%2C43",
+      "publishedAt": "2025-05-24 22:15:00",
+      "content": "CHARLOTTESVILLE The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far\u2026 [+3677 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.180357",
+      "internal_id": "8fc85b5c4771c82a076ed68a5ee8ec969c2f66cec4f4460b243938984c4b0780",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21589,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "RNZ",
+      "author": "Rnz News",
+      "title": "Pacific dengue cases surge, but don't cancel your holiday yet - health expert",
+      "description": "Dr Marc Shaw advises travellers to use insect repellent and light clothing, warning that although dengue fever is serious, it is largely preventable.",
+      "url": "https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert",
+      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--FDUEGUIW--/t_tohu-badge-facebook/v1643817321/4O0O2MS_copyright_image_138685?_a=BACCd2AD",
+      "publishedAt": "2025-05-24 22:07:17",
+      "content": "Photo: lamyai/123RF A public health expert is urging anyone travelling to places with a current dengue fever outbreak to be vigilant and take sensible precautions - but stresses the chances of contr\u2026 [+2799 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.516579",
+      "internal_id": "0f3cd511ca19f87a35627d193a3b9d4cdf446090d355a19c3bcc6898a08e6468",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21561,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "PBS News Weekend",
+      "title": "News Wrap: Ukraine and Russia exchange hundreds of POWs",
+      "description": "In our news wrap Saturday, Russia and Ukraine exchanged hundreds of prisoners hours after a large-scale Russian attack on Kyiv, dozens of staff members have been removed from Trump\u2019s National Security Council, the U.S. measles outbreak passed 1,000 confirmed \u2026",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-ukraine-and-russia-exchange-hundreds-of-pows",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/05/newswrap-28-1024x683.jpg",
+      "publishedAt": "2025-05-24 21:45:56",
+      "content": "In our news wrap Saturday, Russia and Ukraine exchanged hundreds of prisoners hours after a large-scale Russian attack on Kyiv, dozens of staff members have been removed from Trumps National Security\u2026 [+195 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.171386",
+      "internal_id": "f2ad5da7b57acb085b0fa060ce54aa86689daf1374671908c120c24598fc4bd3",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21560,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: Iowa Records First Case Since 2019 As National Cases Increase",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/05/24/measles-updates-iowa-records-first-case-since-2019-as-national-cases-increase/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-24 21:12:50",
+      "content": "Iowa reported its first case of measles since 2019 on Friday, the latest state to record a case of the highly contagious illness as the U.S. experienced a slight uptick in measles cases over the last\u2026 [+8588 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.048792",
+      "internal_id": "562d285b5bdd69ff9b5558c2af53faf2bbf145eed56dc88d878f77df4efe8e55",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21586,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Canacona health officials caution against dengue outbreak",
+      "description": "Canacona: Community health centre Canacona (CHC) has cautioned locals to be aware of the dengue and malaria outbreak which normally raises its ugly he.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/canacona-health-officials-caution-against-dengue-outbreak/articleshow/121385704.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121385704,width-1070,height-580,imgsize-1287677,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-24 19:29:12",
+      "content": "8 animals youd never guess live in India, and where to spot them",
+      "retrievedAt": "2025-05-26 19:05:54.421719",
+      "internal_id": "83278a22cd40db22cc5db4443c2c64e82319d519c5613228bd4f05002de7845f",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21592,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Imported malaria threatens Goa despite zero local cases in 2023",
+      "description": "Panaji: Despite Goa achieving the target of zero indigenous malaria cases in 2023 and moving towards elimination of the disease, the threat of importe.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/imported-malaria-threatens-goa-despite-zero-local-cases-in-2023/articleshow/121385679.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121385679,width-1070,height-580,imgsize-32500,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-24 19:28:00",
+      "content": "8 animals youd never guess live in India, and where to spot them",
+      "retrievedAt": "2025-05-26 19:05:55.609560",
+      "internal_id": "75a2eb928ec15b86bc879bcc3bd0775db383f8bee12f068a6b7c12139ed42212",
+      "publishedAtLabel": "May 24"
+    },
     {
       "id": 21556,
       "query": [
@@ -149,6 +474,60 @@
       "publishedAtLabel": "May 24"
     },
     {
+      "id": 21568,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "wtvr.com",
+      "author": "Wtvr Cbs 6 Web Staff",
+      "title": "Teen is Virginia's second case of measles; potential exposure sites in Charlottesville",
+      "description": "Virginia health officials have released potential exposure sites after a teenager who recently traveled internationally was diagnosed with measles.",
+      "url": "https://www.wtvr.com/news/local-news/virginia-measle-case-charlottesville-virginia-may-23-2025",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/8cb1469/2147483647/strip/true/crop/1617x849+0+27/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F1a%2Fc7%2F0269f52c4c58830d8ebd1eaa02be%2Fmeasles3.jpg",
+      "publishedAt": "2025-05-24 01:35:34",
+      "content": "RICHMOND, Va. Virginia health officials have released potential exposure sites after a teenager who recently traveled internationally was diagnosed with measles. Officials provided five potential e\u2026 [+4831 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.230629",
+      "internal_id": "81e3a432f084db72470228d16d2cae4e697a34d9636b6d1794b0ad9583e374ff",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21570,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJLA",
+      "author": "Sonia Dasgupta",
+      "title": "Virginia confirms second measles case of 2025 in teen, state health department reports",
+      "description": "The Virginia Department of Health (VDH) confirms the second measles case of 2025 in the state.The patient is a teenager, aged 13 to 17, in the northwest region",
+      "url": "https://wjla.com/news/local/virginia-measles-cases-2025-confirmed-health-department-vdh-teen-patient-exposure-international-travel-charlottesville-albemarle-airport-play-it-again-sports-goodwill-store-uva-health-primary-care-riverside-medical-center-er",
+      "urlToImage": "https://wjla.com/resources/media2/16x9/3060/986/0x680/90/66729e59-ce99-40ad-a657-fcf897ef11ca-GettyImages462803928.jpg",
+      "publishedAt": "2025-05-24 01:07:59",
+      "content": "RICHMOND, Va. (7News) The Virginia Department of Health (VDH) confirms the second measles case of 2025 in the state. The patient is a teenager, aged 13 to 17, in the northwest region of the state. \u2026 [+4678 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.247468",
+      "internal_id": "ea3fda01d2266e157a2020703a18b20368cc7cc66ddf947507a4189f6e187957",
+      "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21572,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Karen Bartko",
+      "title": "So many measles cases in southern Alberta, health authority issues standing advisory | Globalnews.ca",
+      "description": "'This standing advisory will replace the use of separate site-specific advisories, which no longer accurately capture the scope of potential risk at this time in the zone.'",
+      "url": "http://globalnews.ca/news/11194985/alberta-measles-outbreak-south-zone-standing-advisory/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2024/01/GettyImages-1053155538.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-05-24 01:01:05",
+      "content": "Measles is spreading rampantly across parts of Alberta so much so, the province\u2019s health authority has issued a standing measles exposure advisory for the south zone. The Alberta Health Services (AH\u2026 [+6159 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.263771",
+      "internal_id": "4d261cb707a26dc546a2595ef9ff8178844d00594a7462fa56ece759df9d2d30",
+      "publishedAtLabel": "May 24"
+    },
+    {
       "id": 21549,
       "query": [
         "measles"
@@ -165,6 +544,78 @@
       "retrievedAt": "2025-05-25 07:06:35.975717",
       "internal_id": "b58cfd307516ddf8753ccc8141a49733764481994427114fe76bb9a590156c2e",
       "publishedAtLabel": "May 24"
+    },
+    {
+      "id": 21567,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Albertahealthservices.ca",
+      "author": "Alberta Health Services",
+      "title": "Measles Outbreak prompts Standing Measles Exposure Advisory for South Zone | Alberta Health Services",
+      "description": "SOUTH ZONE - Alberta Health Services (AHS) continues to manage a significant number of cases of measles across the South Zone, including in individuals with no known exposure source",
+      "url": "https://www.albertahealthservices.ca/news/Page19022.aspx",
+      "urlToImage": "https://www.albertahealthservices.ca/images/icons/AHS-cross-icon_144x144.png",
+      "publishedAt": "2025-05-23 22:57:23",
+      "content": "SOUTH ZONE - Alberta Health Services (AHS) continues to manage a significant number of cases of measles across the South Zone, including in individuals with no known exposure source. This indicates u\u2026 [+4691 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.222338",
+      "internal_id": "13ae0626d4d8952897790f4efa6a83e7b29ee1cd6e236722833e09a76b6f677f",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21573,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Forum Staff",
+      "title": "Grand Forks County reports 1st measles cases, Cass County reports more",
+      "description": "Total measles cases in the state rose to 21 Friday, less than a month after the first case was reported in the state.",
+      "url": "https://www.inforum.com/health/grand-forks-county-reports-1st-measles-cases-cass-county-reports-more",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/1b052dc/2147483647/strip/true/crop/626x425+0+0/resize/1570x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Ff2%2F24%2Fa5a338944e19a1690ad8906c41f8%2Fmeasles-boy-cdc.jpg",
+      "publishedAt": "2025-05-23 22:09:29",
+      "content": "FARGO Less than one month after the first case of measles was reported in the state, North Dakota is reporting 21 people infected with the disease. Grand Forks County reported its first two cases Fr\u2026 [+2156 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.279273",
+      "internal_id": "ac3c02e5be78e4db1464a2dd185154752abc7e3c621500680cc9dc5c642d3b99",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21581,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Mckenzy Parsons",
+      "title": "Iowa health officials confirm Iowa's first case of measles",
+      "description": "According to the Iowa Department of Health and Human Services, the case was confirmed in an unvaccinated adult in the central part of the state.",
+      "url": "https://www.ketv.com/article/iowa-health-officials-confirm-iowas-first-case-of-measles/64867979",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-0124-6830e344af2d5.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-05-23 21:26:43",
+      "content": "OMAHA, Neb. \u2014Iowa health officials have confirmed a case of measles. According to the Department of Health and Human Services, the case was confirmed in an unvaccinated adult in the central part of \u2026 [+595 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.354235",
+      "internal_id": "3de1ef0df302a71bbbf0ebd5f11c824dad3959bb54d1372f191df9e0b7224896",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21579,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Angie Dimichele",
+      "title": "Second confirmed measles case in South Florida confirmed in child",
+      "description": "A child in Broward County was diagnosed with measles in April, making it the second confirmed case of the highly contagious disease in South Florida this year.",
+      "url": "https://www.sun-sentinel.com/2025/05/23/second-measles-case-in-south-florida-this-year-confirmed-in-4-year-old-child/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/04/RFK_Jr._First_Month_55120-1.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-23 21:06:45",
+      "content": "A child in Broward County was diagnosed with measles in April, making it the second confirmed case of the highly contagious disease in South Florida in 2025. The child, who is under the age of 4, co\u2026 [+2990 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.337089",
+      "internal_id": "425c8bf384fe89f8bc08dffb94c9ddec8beb1c0fcbb8c89134d221c43f0b7904",
+      "publishedAtLabel": "May 23"
     },
     {
       "id": 21552,
@@ -239,6 +690,24 @@
       "publishedAtLabel": "May 23"
     },
     {
+      "id": 21569,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPLG Local 10",
+      "author": "Amanda Batchelor",
+      "title": "Young child diagnosed with measles in Broward County",
+      "description": "A young child \u2013 between the ages of 0 and 4 \u2013 was diagnosed with measles last month in Broward County, Local 10 News learned Friday.",
+      "url": "https://www.local10.com/health/2025/05/23/young-child-diagnosed-with-measles-in-broward-county/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/USHV7PE3CJARDOU6ZFJ4XBNNYE.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-05-23 18:17:28",
+      "content": "BROWARD COUNTY, Fla. A young child between the ages of 0 and 4 was diagnosed with measles last month in Broward County, Local 10 News learned Friday. Leer en espa\u00f1ol The news was first reported by \u2026 [+1375 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.239487",
+      "internal_id": "095d2050b4e423af970e40159150b9cee66e598e44f7033568b37cfb6b17d277",
+      "publishedAtLabel": "May 23"
+    },
+    {
       "id": 21542,
       "query": [
         "dengue"
@@ -290,6 +759,24 @@
       "content": "El fot\u00f3grafo brasile\u00f1o Sebasti\u00e3o Salgado falleci\u00f3 este viernes a los 81 a\u00f1os, anunci\u00f3 la Academia de Bellas Artes de Francia y el Terra Institute, fundado por \u00e9l mismo. \u201cCon inmenso pesar comunicamo\u2026 [+5759 chars]",
       "retrievedAt": "2025-05-24 19:05:44.618992",
       "internal_id": "ffa2e4fb8ec7187f599283f5a53bc930790b74cf3f97b8979ef3589616efe784",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21565,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Ethiopia vaccinates over 11 mln children against measles",
+      "description": "ADDIS ABABA, May 23 (Xinhua) -- Ethiopia has vaccinated more than 11 million children as part of a nationwide campaign to contain the spread of an ongoing measles outbreak, local media reported. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/24/ethiopia-vaccinates-over-11-mln-children-against-measles",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-23 17:23:00",
+      "content": "ADDIS ABABA, May 23 (Xinhua) -- Ethiopia has vaccinated more than 11 million children as part of a nationwide campaign to contain the spread of an ongoing measles outbreak, local media reported. Th\u2026 [+890 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.206213",
+      "internal_id": "d45466ea04db22656c2e3b2dedfbb9d034113280dad67de91183cc7475d4d541",
       "publishedAtLabel": "May 23"
     },
     {
@@ -473,6 +960,24 @@
       "publishedAtLabel": "May 23"
     },
     {
+      "id": 21593,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Project Syndicate",
+      "author": "Jean Kaseya",
+      "title": "Un plan para acabar con la malaria en \u00c1frica",
+      "description": "Project Syndicate - The World\u2019s Opinion Page",
+      "url": "https://www.project-syndicate.org/commentary/african-countries-must-increase-public-investment-to-end-malaria-by-jean-kaseya-2025-05/spanish",
+      "urlToImage": "https://webapi.project-syndicate.org/library/2ccf69c1b51af519fb09eedfd1d77d86.2-1-super.1.jpg",
+      "publishedAt": "2025-05-23 11:53:17",
+      "content": "ADDIS ABEBA A pesar de ser prevenible y curable, la malaria sigue cobr\u00e1ndose vidas africanas. En 2023, el continente representaba alrededor del 95% de las 597.000 muertes por malaria en todo el mundo\u2026 [+6362 chars]",
+      "retrievedAt": "2025-05-26 19:05:55.669753",
+      "internal_id": "f2463048fcee3dcf7b862a957bc2d8dbf699a22be3e9b34eb1e51eecd577d394",
+      "publishedAtLabel": "May 23"
+    },
+    {
       "id": 21541,
       "query": [
         "dengue",
@@ -600,6 +1105,132 @@
       "retrievedAt": "2025-05-24 07:06:30.119542",
       "internal_id": "8f4239d4fd1b984a6523dc27082a3f44ebad4acf3b27f74b8e16e3e1c30e6040",
       "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21577,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Denver7.com",
+      "author": "\u00d3scar Contreras",
+      "title": "Traveler infected with measles may have exposed people at DIA, hotel: CDPHE",
+      "description": "A traveler infected with measles may have exposed thousands of people to the highly contagious virus last week at DIA and a nearby hotel, state health officials said Thursday.",
+      "url": "https://www.denver7.com/lifestyle/health/unvaccinated-traveler-infected-with-measles-may-have-exposed-people-at-dia-nearby-hotel-last-week-cdphe-says",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4c509d9/2147483647/strip/true/crop/5616x2948+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F22%2Fbb%2F663e1e6c4cbfa1fbccb5862eeeb0%2Fap23146717390600.jpg",
+      "publishedAt": "2025-05-23 01:15:38",
+      "content": "DENVER An unvaccinated individual infected with measles who arrived at DIA from an international flight before staying for the night at a nearby hotel and boarding a domestic flight the next morning \u2026 [+5573 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.320519",
+      "internal_id": "05b4ee6a11bc67f848e467d8116333bcd5fc079937f3cf0012d8ebe96a8bbb67",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21580,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Colorado Sun",
+      "author": "The Colorado Sun",
+      "title": "Measles cases went through DIA, hotel and Pueblo, state says",
+      "description": "Colorado officials warn public a measles case went through Denver International Airport and a nearby hotel, and a different case through a Pueblo hotel.",
+      "url": "http://coloradosun.com/2025/05/22/denver-international-airport-measles-colorado-pueblo/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2025/01/dia_airport_file_ak_12.jpg",
+      "publishedAt": "2025-05-23 00:38:25",
+      "content": "Coloradans potential exposure to measles grew rapidly in recent days with a confirmed travelers case coming through Denver International Airport and a nearby hotel, as well as a different case with a\u2026 [+3902 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.345486",
+      "internal_id": "aed0636fa7ade42d073e1e4e19144a4ebe2027f5eb80f179d624c7143245b773",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21582,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KRDO",
+      "author": "Sadie Buggle",
+      "title": "Colorado health officials warn of measles exposure at Denver International Airport",
+      "description": "DENVER, Colo. (KRDO) \u2013 If you\u2019ve recently traveled through the Denver International Airport (DIA), health officials warn you may have been exposed to",
+      "url": "https://krdo.com/news/2025/05/22/colorado-health-officials-warn-of-measles-exposure-at-denver-international-airport/",
+      "urlToImage": "https://krdo.b-cdn.net/2025/05/measles.png",
+      "publishedAt": "2025-05-23 00:11:23",
+      "content": "DENVER, Colo. (KRDO) If youve recently traveled through the Denver International Airport (DIA), health officials warn you may have been exposed to measles from an infectious traveler. The Colorado D\u2026 [+2933 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.362565",
+      "internal_id": "56e328720ea5181adce675358a5a0fc835c6637e07ae7d3238d943a8aea42ecb",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21575,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jesse Sarles",
+      "title": "Traveler with measles was at Denver International Airport last week, Colorado health officials issue warning",
+      "description": "Traveler with measles was at Denver International Airport last week, Colorado health officials issue warningcbsnews.com",
+      "url": "https://www.cbsnews.com/colorado/news/measles-traveler-denver-international-airport-hotel/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/12/0e088621-0844-4c60-a023-90a660b9487f/thumbnail/1200x630/4ebd9c113276c0ce8581f679db6b2f48/dia-spring-break-security.jpg?v=48f078ae8a74a1412614b0db6f935e48",
+      "publishedAt": "2025-05-23 00:07:29",
+      "content": "An out-of-state flyer in Colorado who was contagious with measles traveled through Denver International Airport last week. That's according to the Colorado Department of Public Health and Environment\u2026 [+1479 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.303364",
+      "internal_id": "81294c72d9a0c152a7319dd33e1f8944d7b9250c2cb76cfd94dbef90206064b8",
+      "publishedAtLabel": "May 23"
+    },
+    {
+      "id": 21578,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KUT",
+      "author": "Chelsey Zhu",
+      "title": "Williamson County confirms first measles case of 2025",
+      "description": "Public health officials didn't share what school the child attends, where they recently traveled or their vaccination status.",
+      "url": "https://www.kut.org/health/2025-05-22/williamson-county-measles-leander-texas-cases",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/dd5d22c/2147483647/strip/true/crop/2078x1091+0+147/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2F0f%2Fdf27fc4a43edb682f7784313ee88%2F20250227-measles-vaccine-04.JPG",
+      "publishedAt": "2025-05-22 23:28:59",
+      "content": "A school-aged child from Leander has tested positive for measles, Williamson County's public health department has confirmed. The Williamson County and Cities Health District said this is the first\u2026 [+1077 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.328911",
+      "internal_id": "1094ff6a3d6bb3dac9bf15f0fbca9d1f57b93c550820f09e7471fb262d087bab",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21574,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alaskasnewssource.com",
+      "author": "Joey Klecka",
+      "title": "Measles case reported in Anchorage, health officials say",
+      "description": "A measles case was reported in a minor in south Anchorage last week, according to the Alaska Department of Health.",
+      "url": "https://www.alaskasnewssource.com/2025/05/22/measles-case-reported-anchorage-health-officials-say/",
+      "urlToImage": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/I5UFACGTLVFFTFNSNAEEFY7P6I.png?auth=527baf924e85c67992eaab1e7548a9935ff02ef4bbaa0903ffcf03ae86b1c9e4&width=1200&height=600&smart=true",
+      "publishedAt": "2025-05-22 22:45:05",
+      "content": "ANCHORAGE, Alaska (KTUU) - A measles case was reported in a minor in south Anchorage last week, according to the Alaska Department of Health. The department reported Thursday that the young person i\u2026 [+1814 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.295053",
+      "internal_id": "bacda204ccaedfc9df1f0229a9e69b1239c184c2a497ffdad474e9fdbbc6c797",
+      "publishedAtLabel": "May 22"
+    },
+    {
+      "id": 21571,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Anchorage Daily News",
+      "author": "Michelle Theriault Boots",
+      "title": "Anchorage resident tests positive for measles as health officials warn of broader exposure",
+      "description": "Health officials said Thursday that people may have been exposed at a trampoline park, a Target store and a YMCA.",
+      "url": "https://www.adn.com/alaska-news/anchorage/2025/05/22/anchorage-resident-tests-positive-for-measles-as-health-officials-warn-of-broader-exposure/",
+      "urlToImage": "https://www.adn.com/resizer/v2/JNZGUZX7H7HJHPG72V2MH56VEA.jpg?smart=true&auth=90ececa1d4b2f164e03f7f0cbf15c7c9a5b965d6c068292ab041efce0bbe00ae&width=1200&height=630",
+      "publishedAt": "2025-05-22 22:08:33",
+      "content": "A juvenile in Anchorage has tested positive for measles, a highly contagious but preventable virus, the Anchorage Health Department said in an alert Thursday. The alert described the person as an u\u2026 [+2165 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.255783",
+      "internal_id": "313060a8ea9b456833cb2a1a2d606f68620e2177ce2d3bebae1d056b3f5f0250",
+      "publishedAtLabel": "May 22"
     },
     {
       "id": 21526,

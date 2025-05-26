@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-05-25 19:05
-- **Most recent article:** 2025-05-24 17:03:59
+- **New articles in last harvest:** 35
+- **Last harvest:** 2025-05-26 19:05
+- **Most recent article:** 2025-05-25 17:26:18
 
 ---
 
@@ -10,27 +10,61 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 75 | 107 | 88 | 82 | 75 | 57 | 484 |
-| chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 153 |
-| dengue | 29 | 16 | 32 | 26 | 24 | 24 | 151 |
-| malaria | 13 | 34 | 22 | 19 | 11 | 32 | 131 |
-| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 116 |
-| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 65 |
-| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 40 |
-| zika | 7 | 2 | 3 | 6 | 3 | 10 | 31 |
-| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 28 |
-| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 14 |
-| hpai | 5 | 1 | 2 | 3 | 1 | 2 | 14 |
-| typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 10 |
-| leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 8 |
-| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 75 | 107 | 88 | 82 | 75 | 77 | 3 | 507 |
+| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 4 | 157 |
+| chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 0 | 153 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 1 | 135 |
+| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 1 | 117 |
+| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 1 | 66 |
+| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 1 | 41 |
+| zika | 7 | 2 | 3 | 6 | 3 | 10 | 0 | 31 |
+| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 0 | 28 |
+| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 0 | 14 |
+| hpai | 5 | 1 | 2 | 3 | 1 | 2 | 0 | 14 |
+| typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 0 | 10 |
+| leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 8 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-22 (mpox)
+
+- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
+
+## 25-22 (meningitis)
+
+- [Menos del 1 por ciento de los infectados con el virus del Nilo desarrolla una encefalitis o meningitis que pueden ser mortales](https://www.abc.es/sevilla/provincia/ciento-infectados-virus-nilo-desarrolla-encefalitis-meningitis-20250525124208-nts.html) (Www.abc.es)
+
+## 25-22 (measles)
+
+- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
+
+- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
+
+- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
+
+## 25-22 (malaria)
+
+- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
+
+## 25-22 (h5n1)
+
+- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
+
+## 25-22 (dengue)
+
+- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
+
+- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
+
+- [Dengue outbreaks averted in past two years, public urged to stay vigilant in 2025: NEA](https://www.channelnewsasia.com/singapore/dengue-aedes-mosquito-vigilant-2025-outbreaks-averted-past-2-years-5152001) (CNA)
+
+- [Health emergency: Dengue fever outbreak declared in Rarotonga, New Zealand](https://economictimes.indiatimes.com/news/international/new-zealand/health-emergency-dengue-fever-outbreak-declared-in-rarotonga-new-zealand/articleshow/121388998.cms) (The Times of India)
 
 ## 25-21 (zika)
 
@@ -118,17 +152,57 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (measles)
 
+- [Second Virginia measles case reported in Charlottesville](https://dailyprogress.com/news/local/business/health-care/article_cbc7996c-2192-47be-b212-03a7b8a24011.html) (The Daily Progress)
+
+- [Second Virginia measles case reported in Charlottesville](https://dailyprogress.com/tncms/asset/editorial/cbc7996c-2192-47be-b212-03a7b8a24011/) (The Daily Progress)
+
+- [News Wrap: Ukraine and Russia exchange hundreds of POWs](https://www.pbs.org/newshour/show/news-wrap-ukraine-and-russia-exchange-hundreds-of-pows) (PBS)
+
+- [Measles Updates: Iowa Records First Case Since 2019 As National Cases Increase](https://www.forbes.com/sites/antoniopequenoiv/2025/05/24/measles-updates-iowa-records-first-case-since-2019-as-national-cases-increase/) (Forbes)
+
 - [Canada achieved measles elimination status in 1998. Now, it could lose it](https://www.cbc.ca/news/health/canada-measles-elimination-risk-1.7541504) (CBC News)
+
+- [Teen is Virginia's second case of measles; potential exposure sites in Charlottesville](https://www.wtvr.com/news/local-news/virginia-measle-case-charlottesville-virginia-may-23-2025) (wtvr.com)
+
+- [Virginia confirms second measles case of 2025 in teen, state health department reports](https://wjla.com/news/local/virginia-measles-cases-2025-confirmed-health-department-vdh-teen-patient-exposure-international-travel-charlottesville-albemarle-airport-play-it-again-sports-goodwill-store-uva-health-primary-care-riverside-medical-center-er) (WJLA)
+
+- [So many measles cases in southern Alberta, health authority issues standing advisory | Globalnews.ca](http://globalnews.ca/news/11194985/alberta-measles-outbreak-south-zone-standing-advisory/) (Global News)
 
 - [AHS expands measles advisory to entire south zone due to 'widespread' exposure risk](https://www.cbc.ca/news/canada/calgary/measles-south-cases-widespread-advisory-1.7542933) (CBC News)
 
+- [Measles Outbreak prompts Standing Measles Exposure Advisory for South Zone | Alberta Health Services](https://www.albertahealthservices.ca/news/Page19022.aspx) (Albertahealthservices.ca)
+
+- [Grand Forks County reports 1st measles cases, Cass County reports more](https://www.inforum.com/health/grand-forks-county-reports-1st-measles-cases-cass-county-reports-more) (INFORUM)
+
+- [Iowa health officials confirm Iowa's first case of measles](https://www.ketv.com/article/iowa-health-officials-confirm-iowas-first-case-of-measles/64867979) (KETV Omaha)
+
+- [Second confirmed measles case in South Florida confirmed in child](https://www.sun-sentinel.com/2025/05/23/second-measles-case-in-south-florida-this-year-confirmed-in-4-year-old-child/) (Sun Sentinel)
+
 - [Health officials warn of measles exposure at 2 schools in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-cases-1.7542479) (CBC News)
+
+- [Young child diagnosed with measles in Broward County](https://www.local10.com/health/2025/05/23/young-child-diagnosed-with-measles-in-broward-county/) (WPLG Local 10)
+
+- [Ethiopia vaccinates over 11 mln children against measles](https://www.thestar.com.my/news/world/2025/05/24/ethiopia-vaccinates-over-11-mln-children-against-measles) (The Star Online)
 
 - [Measles cases reach 1,046 in US as infections confirmed in 30 states: CDC](https://abcnews.go.com/Health/measles-cases-reach-1046-us-infections-confirmed-30/story?id=122108194) (ABC News)
 
 - [Texas Sees Surge in Babies Getting Vaccinated: 'Really Scared'](https://www.newsweek.com/texas-measles-vaccines-mmr-outbreak-babies-2076365) (Newsweek)
 
 - [Measles: 31 US states affected as WHO warns of global rise](https://www.bmj.com/content/389/bmj.r1083) (The BMJ)
+
+- [Traveler infected with measles may have exposed people at DIA, hotel: CDPHE](https://www.denver7.com/lifestyle/health/unvaccinated-traveler-infected-with-measles-may-have-exposed-people-at-dia-nearby-hotel-last-week-cdphe-says) (Denver7.com)
+
+- [Measles cases went through DIA, hotel and Pueblo, state says](http://coloradosun.com/2025/05/22/denver-international-airport-measles-colorado-pueblo/) (The Colorado Sun)
+
+- [Colorado health officials warn of measles exposure at Denver International Airport](https://krdo.com/news/2025/05/22/colorado-health-officials-warn-of-measles-exposure-at-denver-international-airport/) (KRDO)
+
+- [Traveler with measles was at Denver International Airport last week, Colorado health officials issue warning](https://www.cbsnews.com/colorado/news/measles-traveler-denver-international-airport-hotel/) (CBS News)
+
+- [Williamson County confirms first measles case of 2025](https://www.kut.org/health/2025-05-22/williamson-county-measles-leander-texas-cases) (KUT)
+
+- [Measles case reported in Anchorage, health officials say](https://www.alaskasnewssource.com/2025/05/22/measles-case-reported-anchorage-health-officials-say/) (Alaskasnewssource.com)
+
+- [Anchorage resident tests positive for measles as health officials warn of broader exposure](https://www.adn.com/alaska-news/anchorage/2025/05/22/anchorage-resident-tests-positive-for-measles-as-health-officials-warn-of-broader-exposure/) (Anchorage Daily News)
 
 - [More than 170 new measles cases reported in Ontario, bringing total to nearly 1,800](https://www.cbc.ca/news/canada/toronto/ontario-measles-outbreak-latest-1.7541098) (CBC News)
 
@@ -234,6 +308,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-21 (malaria)
 
+- [Canacona health officials caution against dengue outbreak](https://timesofindia.indiatimes.com/city/goa/canacona-health-officials-caution-against-dengue-outbreak/articleshow/121385704.cms) (The Times of India)
+
+- [Imported malaria threatens Goa despite zero local cases in 2023](https://timesofindia.indiatimes.com/city/goa/imported-malaria-threatens-goa-despite-zero-local-cases-in-2023/articleshow/121385679.cms) (The Times of India)
+
 - [Claim: Climate Change Could Bring Mosquito Diseases to Britain](https://wattsupwiththat.com/2025/05/24/claim-climate-change-could-bring-mosquito-borne-diseases-to-britain/) (Wattsupwiththat.com)
 
 - [Targeting malaria at the source: Drug-treated nets eliminate parasites in resistant mosquitoes](https://phys.org/news/2025-05-malaria-source-drug-nets-parasites.html) (Phys.Org)
@@ -249,6 +327,8 @@ Source: [News API](https://newsapi.org/)
 - [Muere Sebastiao Salgado a los 81 años, el fotógrafo que retrató la desigualdad social y la selva amazónica](https://www.20minutos.es/noticia/5715239/0/muere-sebastiao-salgado-fotografo-que-inmortalizo-selva-brasilena/) (20minutos.es)
 
 - [A Plan to End Malaria in Africa](https://www.project-syndicate.org/commentary/african-countries-must-increase-public-investment-to-end-malaria-by-jean-kaseya-2025-05) (Project Syndicate)
+
+- [Un plan para acabar con la malaria en África](https://www.project-syndicate.org/commentary/african-countries-must-increase-public-investment-to-end-malaria-by-jean-kaseya-2025-05/spanish) (Project Syndicate)
 
 - [Curing mosquitoes' malaria, and the history of our units](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/curing-mosquitoes-malaria-and-history-our-units) (The Naked Scientists)
 
@@ -399,6 +479,10 @@ Source: [News API](https://newsapi.org/)
 - [Gripa aviară este letală pentru pisici. Cercetătorii semnalează riscul de transmitere la oameni și iau în calcul o posibilă pandemie](https://www.digi24.ro/stiri/actualitate/sanatate/gripa-aviara-este-letala-pentru-pisici-cercetatorii-semnaleaza-riscul-de-transmitere-la-oameni-si-iau-in-calcul-o-posibila-pandemie-3237789) (Digi24.ro)
 
 ## 25-21 (dengue)
+
+- [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
+
+- [Canacona health officials caution against dengue outbreak](https://timesofindia.indiatimes.com/city/goa/canacona-health-officials-caution-against-dengue-outbreak/articleshow/121385704.cms) (The Times of India)
 
 - [Why do mosquitoes bite you more than your friends? Science reveals the surprising skin chemistry behind it](https://economictimes.indiatimes.com/magazines/panache/why-do-mosquitoes-bite-you-more-than-your-friends-science-reveals-the-surprising-skin-chemistry-behind-it/articleshow/121383596.cms) (The Times of India)
 
