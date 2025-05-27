@@ -1,8 +1,119 @@
 {
-  "last_updated": "2025-05-27 07:07",
-  "count_articles_total": 1232,
-  "count_articles_new": 5,
+  "last_updated": "2025-05-27 19:06",
+  "count_articles_total": 1228,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 21600,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Free Tdap vaccination offer to pregnant women at 28-32 weeks",
+      "description": "PUTRAJAYA: The Tdap vaccine (for tetanus, diphtheria and pertussis) is being offered free of charge to pregnant women between 28 and 32 weeks of gestation from yesterday, says Datuk Seri Dr Dzulkefly Ahmad (pic). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/05/27/free-tdap-vaccination-offer-to-pregnant-women-at-28-32-weeks",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/05/27/3336016.jpg",
+      "publishedAt": "2025-05-26 16:00:00",
+      "content": "PUTRAJAYA: The Tdap vaccine (for tetanus, diphtheria and pertussis) is being offered free of charge to pregnant women between 28 and 32 weeks of gestation from yesterday, says Datuk Seri Dr Dzulkefly\u2026 [+1853 chars]",
+      "retrievedAt": "2025-05-27 19:06:08.174122",
+      "internal_id": "abb36efafd42ffee4deafc080e53f241439a8ef27d0eb914d8923a842670ec77",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21602,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Sospetto caso di Dengue a Brescia, scatta la disinfestazione",
+      "description": "Un possibile caso di Dengue importato dall'estero far\u00e0 scattare nella giornata di domani a Brescia un capillare intervento anti zanzare. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2025/05/26/sospetto-caso-di-dengue-a-brescia-scatta-la-disinfestazione_95bb95a5-91ab-4d0b-80a3-4815dd986b9f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/5/26/f944e2d2ddcafe76b80bb43e3252c0a4.jpg",
+      "publishedAt": "2025-05-26 15:10:30",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-05-27 19:06:10.552095",
+      "internal_id": "8aad95510345e2de8181a84d41e00d5efb003e8ef68f2262f93a3638db8390e4",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21603,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Natemat.pl",
+      "author": "Agnieszka Sztyler-Turovsky",
+      "title": "Tropikalne choroby ju\u017c nie tylko w Afryce czy Azji. Gro\u017any komar zadomowi\u0142 si\u0119 w Europie",
+      "description": "Eksperci snuli takie wizje, ale d\u0142ugo pozostawa\u0142y w sferze fantazji. Teraz s\u0105 faktem. Po tym, jak we Francji ju\u017c u 728 os\u00f3b potwierdzono w tym roku zaka\u017cenie wirusem chikungunya, a u 123 gor\u0105czk\u0119 denga, rz\u0105d uruchomi\u0142 og\u00f3lnokrajowy system zg\u0142aszania obecno\u015bci\u2026",
+      "url": "https://zdrowie.natemat.pl/607604,komary-tygrysie-w-europie-denga-we-francji-a-kiedy-w-polsce-ocieplenie-klimatu-daje-sie-we-znaki",
+      "urlToImage": "https://m.natemat.pl/a32a707793221fd37a0564a5547114d0,1200,0,0,0.jpg",
+      "publishedAt": "2025-05-26 13:35:56",
+      "content": "Daj napiwek autorowi Daj napiwek autorowi Kilka lat temu newsy o pojawieniu si wirusa zika i gorczki Zachodniego Nilu w Europie byy sensacj. Uwaalimy, e to problem jedynie Azji, Afryki i Ameryki ac\u2026 [+3613 chars]",
+      "retrievedAt": "2025-05-27 19:06:11.970417",
+      "internal_id": "eed8066106ff4f6eeca849ccffd14a4a11e1b4f6cff8e6f6d6e40d0b4f443911",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21605,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sierraloaded.sl",
+      "author": "Kadijatu Barrie",
+      "title": "National Public Health Agency Urges Vigilance Amid Rising Mpox Cases in the Country",
+      "description": "The National Public Health Agency (NPHA) and the Ministry of Health have urged the public to remain vigilant amid rising Mpox cases in Freetown. In a press",
+      "url": "https://sierraloaded.sl/news/national-public-health-agency-vigilance-mpox/",
+      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2024/09/Mpox.jpg",
+      "publishedAt": "2025-05-26 10:25:37",
+      "content": "The National Public Health Agency (NPHA) and the Ministry of Health have urged the public to remain vigilant amid rising Mpox cases in Freetown. In a press release issued on May 25, 2025, the agencie\u2026 [+1628 chars]",
+      "retrievedAt": "2025-05-27 19:06:12.608155",
+      "internal_id": "1d3619d59c2b9da22e64d2d85d9df1302cc3288684a9089f25265295349f4896",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21601,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Dengue. Timor-Leste introduz m\u00e9todo Wolbachia",
+      "description": "O m\u00e9todo Wolbachia prev\u00ea a liberta\u00e7\u00e3o de mosquitos contaminados com a bact\u00e9ria Woldbachia, que reduz a transmiss\u00e3o de dengue, chikungunya e zika. A liberta\u00e7\u00e3o de mosquitos ser\u00e1 feita de forma faseada.",
+      "url": "https://observador.pt/2025/05/26/timor-leste-introduz-metodo-wolbachia-para-diminuir-dengue-e-chikungunya/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F03%2F10170416%2F44443118.jpg?layer=obstop:T",
+      "publishedAt": "2025-05-26 08:41:14",
+      "content": "O Minist\u00e9rio da Sa\u00fade de Timor-Leste anunciou esta segunda-feira que vai introduzir a partir de julho em D\u00edli mosquitos com a bact\u00e9ria Wolbachia, com o objetivo de reduzir os casos de dengue e chikun\u2026 [+1652 chars]",
+      "retrievedAt": "2025-05-27 19:06:10.484003",
+      "internal_id": "03ccb676b40eaf0709b9a48ef0f4ac48d86ac25ec95e997647d5b5f25b560abb",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21604,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "La Sierra Leone recense plus de 3 000 cas de mpox, et 14 d\u00e9c\u00e8s",
+      "description": "Pour tenter de contenir la propagation de ce virus, les autorit\u00e9s sanitaires ont annonc\u00e9 avoir augment\u00e9 les capacit\u00e9s d\u2019accueil des patients, en cr\u00e9ant plusieurs centaines de lits suppl\u00e9mentaires.",
+      "url": "https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html",
+      "urlToImage": "https://img.lemde.fr/2025/05/26/0/0/6847/4565/1440/960/60/0/30203e0_sirius-fs-upload-1-os6yppxzwikt-1748247032742-000-36h47a7.jpg",
+      "publishedAt": "2025-05-26 08:15:42",
+      "content": "M\u00e9decins et infirmiers p\u00e9n\u00e8trent dans la tente o\u00f9 sont hospitalis\u00e9s les patients atteints de MPOX au centre de traitement de Kamituga, dans la province du Sud-Kivu, \u00e0 lest de la R\u00e9publique d\u00e9mocratiq\u2026 [+2111 chars]",
+      "retrievedAt": "2025-05-27 19:06:12.577531",
+      "internal_id": "bafec9b2712b78624becc1fdc3093b112ac5ac77a0da4426a140dbc48fd92483",
+      "publishedAtLabel": "May 26"
+    },
     {
       "id": 21595,
       "query": [
@@ -22064,186 +22175,6 @@
       "retrievedAt": "2025-04-15 07:07:50.132866",
       "internal_id": "ea85b4c7553bf8c029ecfee90b35f499684ab660d333575e5361874c6063616d",
       "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 20369,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Alexander  Tin",
-      "title": "Former top health official criticizes RFK Jr. for downplaying measles deaths",
-      "description": "Dr. Peter Marks said that the deaths of unvaccinated children is \"just not acceptable.\"",
-      "url": "https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/11/90b30b1a-08a2-45f2-8100-a2c26bf50d1b/thumbnail/1200x630g2/9c8a482355ad301e50c3c8ad09ed3626/screenshot-2025-04-11-at-7-18-24-pm.png?v=653dd6912cdd8596c9bfea812c355f95",
-      "publishedAt": "2025-04-13 18:36:57",
-      "content": "The former top vaccines official at the Food and Drug Administration criticized Health and Human Services Secretary Robert F. Kennedy Jr. for downplaying the deaths of unvaccinated children from meas\u2026 [+5286 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.451185",
-      "internal_id": "acbf71017490690e23598bf89ebf7990a46760c2a463dc685cca1e4ef0c84ebd",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20401,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Measles explodes in Texas after stagnant vax funding",
-      "description": "Immunization programs nationwide have been left brittle by years of stagnant funding by federal, state and local governments. In Texas and elsewhere, this helped set the stage for the measles outbreak and fuelled its spread. Now cuts to federal funding threat\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-120261609,width-1200,height-630,imgsize-18828,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-04-13 18:32:14",
-      "content": "NEW YORK: The measles outbreak in West Texas didn't happen just by chance. The easily preventable disease, declared eliminated in the US in 2000, ripped through communities sprawling across more than\u2026 [+1765 chars]",
-      "retrievedAt": "2025-04-16 07:07:23.677959",
-      "internal_id": "c6a4050afa302a1a3b55d678475335e1e5f4462cf02d387d48737211c794cd11",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20402,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LancasterOnline",
-      "author": "NATHAN WILLISON | Staff Writer",
-      "title": "Pa. Department of Health reports measles case at WellSpan Ephrata",
-      "description": "The Pennsylvania Department of Health confirmed Sunday that a patient who tested positive for measles visited WellSpan Ephrata Community Hospital last week.",
-      "url": "https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/04/904de8f8-5ae1-11e4-80a3-001a4bcf6878/544947ba5df1d.image.jpg?crop=1296%2C680%2C0%2C91&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-04-13 18:30:00",
-      "content": "The Pennsylvania Department of Health confirmed Sunday that a patient who tested positive for measles visited WellSpan Ephrata Community Hospital last week. In a statement, the Department of Healt\u2026 [+2321 chars]",
-      "retrievedAt": "2025-04-16 07:07:23.686512",
-      "internal_id": "ff55dceef0c44f1c2afff17f4b5f4a5b9414a9636b112377913838c6cfaa8c9e",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20375,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "Nicole Simon",
-      "title": "Hochsicherheits-Forschung: Die Insel der gef\u00e4hrlichen Viren",
-      "description": "Vogelgrippe, Mpox, West-Nil-Virus: Erreger, die auch Menschen gef\u00e4hrlich werden, breiten sich aus. Auf einer kleinen Ostsee-Insel werden sie in Hochsicherheitslaboren erforscht.",
-      "url": "https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html",
-      "urlToImage": "https://image.stern.de/35622134/t/Ja/v5/w1440/r1.7778/-/labor--die-verbotene-insel-picture-1331363350.jpg",
-      "publishedAt": "2025-04-13 16:07:00",
-      "content": "stern+ und Klassik Radio Selectstatt 11,96 nur 1",
-      "retrievedAt": "2025-04-14 19:06:11.793600",
-      "internal_id": "ec2297b3e7bfff31682edabb65faa969cda4b76700b9a03edca602d775d36cb6",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20371,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "NewsHound Ellen",
-      "title": "RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges",
-      "description": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.\u2019s tenure as Health and Human Services secretary. Now comes norovirus \u2013 just as Kennedy has gutted the very department that could help prevent it. \u2026",
-      "url": "https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/04/rfk_jr_for_041225.jpg",
-      "publishedAt": "2025-04-13 14:00:01",
-      "content": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.s tenure as Health and Human Services secretary. Now comes norovirus just as Kennedy ha\u2026 [+2016 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.550627",
-      "internal_id": "d91c82b2136fec9d25e850bc131ba6c7fa2330b7da7fc9ab6d5d894f53c86378",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20370,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)",
-      "description": "Ashleigh Fields / The Hill: Cassidy praises Kennedy for promoting measles vaccination amid outbreak \u2014 Sen. Bill Cassidy (R-La.) applauded Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for promoting measles vaccination amid a deadly outbrea\u2026",
-      "url": "https://www.memeorandum.com/250413/p15",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cassidybill_kennedyjrrobert_013025gn01_w.jpg?w=1280",
-      "publishedAt": "2025-04-13 13:40:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.498050",
-      "internal_id": "6123f00f0925900a3b0c63c925ac3ecbfb203786753a4f20e061cfb3fd3321df",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20373,
-      "query": [
-        "measles"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "LAURA UNGAR Associated Press, MICHELLE R. SMITH Associated Press, DEVI SHASTRI Associated Press",
-      "title": "Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US",
-      "description": "The measles outbreak in West Texas didn\u2019t happen just by chance",
-      "url": "https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363",
-      "urlToImage": "https://i.abcnewsfe.com/a/c4d4abf9-62bc-430b-a324-72c012437f1a/wirestory_5785985d6b74024b0502f6a2fc1576e2_16x9.jpg?w=1600",
-      "publishedAt": "2025-04-13 13:38:32",
-      "content": "The measles outbreak in West Texas didnt happen just by chance. The easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texa\u2026 [+11732 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.644028",
-      "internal_id": "2e5f56331173fc5fa0d9b9a57803e6b52464b1fe662910948f016ca20e652aee",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20372,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)",
-      "description": "Jonathan Cohn / The Bulwark: Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines \u2014 THREE PEOPLE HAVE DIED in Texas and more than five hundred have gotten sick in what is shaping up as the largest single measles outbreak in decades. And somehow Robert F\u2026",
-      "url": "https://www.memeorandum.com/250413/p14",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd298d746-2d84-4947-93bc-af640d3d8063_5797x3865.jpeg",
-      "publishedAt": "2025-04-13 13:30:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.578010",
-      "internal_id": "f65d274aac4f32d25cabcb92a7045b4507fc80a68b40b6b271d4a60c80bc6d29",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20374,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Entekhab.ir",
-      "author": "info@entekhab.ir",
-      "title": "\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc: \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u06a9\u0644\u06cc\u062f\u06cc \u0627\u06cc\u0646 \u062f\u0648 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0686\u06cc\u0633\u062a\u061f",
-      "description": "\u062f\u0631 \u062d\u0627\u0644\u06cc\u200c\u06a9\u0647 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0648 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u0632 \u0628\u0631\u062e\u06cc \u062c\u0647\u0627\u062a \u0628\u0647 \u0647\u0645 \u0634\u0628\u0627\u0647\u062a \u062f\u0627\u0631\u0646\u062f\u060c \u0627\u0645\u0627 \u0627\u0632 \u0646\u0638\u0631 \u0645\u0646\u0634\u0623\u060c \u0646\u062d\u0648\u0647\u200c\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0648 \u062a\u0623\u062b\u06cc\u0631\u0627\u062a \u0622\u0646\u200c\u0647\u0627 \u0628\u0631 \u0633\u0644\u0627\u0645\u062a \u0627\u0646\u0633\u0627\u0646\u060c \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u0686\u0634\u0645\u06af\u06cc\u0631\u06cc \u0628\u0627 \u06cc\u06a9\u062f\u06cc\u06af\u0631 \u062f\u0627\u0631\u0646\u062f. \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0627\u06cc \u0641\u0635\u0644\u06cc \u0648 \u0634\u0646\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0634\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0622\u0646 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc\u2026",
-      "url": "https://www.entekhab.ir/fa/news/860695/\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u0645\u0639\u0645\u0648\u0644\u06cc-\u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc-\u06a9\u0644\u06cc\u062f\u06cc-\u0627\u06cc\u0646-\u062f\u0648-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u0686\u06cc\u0633\u062a",
-      "urlToImage": "https://www.entekhab.ir/files/fa/news/1404/1/24/1951048_869.jpeg",
-      "publishedAt": "2025-04-13 12:33:04",
-      "content": "(Entekhab.ir) : . () . . \u00ab \u00bb . . . . :A . H5N1 H7N9 . :A B . H1N1 H3N2 . :. . :. . :. . :( ) . :. . :. :. . :. . :. () () . :(RIDT) . . . . .",
-      "retrievedAt": "2025-04-14 19:06:10.337362",
-      "internal_id": "fcc5b67b77011d09d8ad5ce5b4e96f27ffd88db2cb14727685c26ca917d197ab",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20368,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "John Johnson",
-      "title": "'It's Not Just Measles.' Whooping Cough Cases Spike",
-      "description": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among the stats: The CDC reported 2,116 cases in 2021, amid the pa\u2026",
-      "url": "https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1603965-12-20250413060002.jpeg",
-      "publishedAt": "2025-04-13 11:00:00",
-      "content": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among \u2026 [+1366 chars]",
-      "retrievedAt": "2025-04-14 19:06:08.670592",
-      "internal_id": "ea0306c30955d0bd3d3001c8b8af468bdcde70e928f2a2d5f512eb78b818ed90",
-      "publishedAtLabel": "Apr 13"
     }
   ]
 }
