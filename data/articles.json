@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-05-26 19:05",
-  "count_articles_total": 1217,
-  "count_articles_new": 35,
+  "last_updated": "2025-05-27 07:07",
+  "count_articles_total": 1232,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 21595,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Health Ministry offers free Tdap vaccination for pregnant women",
+      "description": "PUTRAJAYA: The Tdap vaccine (for tetanus, diphtheria and pertussis) is being offered free of charge to pregnant women between 28 and 32 weeks of gestation from Monday (May 26), says Health Minister Datuk Seri Dr Dzulkefly Ahmad. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/05/26/health-ministry-offers-free-tdap-vaccination-for-pregnant-women",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/05/26/3334583.JPG",
+      "publishedAt": "2025-05-26 04:59:00",
+      "content": "PUTRAJAYA: The Tdap vaccine (for tetanus, diphtheria and pertussis) is being offered free of charge to pregnant women between 28 and 32 weeks of gestation from Monday (May 26), says Health Minister D\u2026 [+1844 chars]",
+      "retrievedAt": "2025-05-27 07:07:53.021288",
+      "internal_id": "96462ffa0aeea8e038ffe0bc0a85a65155a807dccd575512d91e5996971e5cfc",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21597,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Dengue cases in NegOcc rise to 2,253",
+      "description": "Bacolod City \u2013 The number of dengue cases in Negros Occidental, including highly urbanized Bacolod City, have risen further to 2,253, with nine fatalities, as of May 10. The Provincial Health Office logged 1,897 cases with seven dengue-related deaths, while B\u2026",
+      "url": "https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/05/dengue-cases.jpg",
+      "publishedAt": "2025-05-26 04:36:24",
+      "content": "Bacolod City \u2013 The number of dengue cases in Negros Occidental, including highly urbanized Bacolod City, have risen further to 2,253, with nine fatalities, as of May 10. The Provincial Health Office\u2026 [+887 chars]",
+      "retrievedAt": "2025-05-27 07:07:54.568711",
+      "internal_id": "7927bd7f7eb8594e2b05c61ee1626cd969418c1b9b55033079d19ae0277fe5d1",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21598,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Businessam.be",
+      "author": "businessam.be",
+      "title": "Harvard brengt nieuwe doorbraak in strijd tegen malaria",
+      "description": "Key takeaways Malaria veroorzaakt jaarlijks bijna 600.000 doden. Harvard-onderzoekers ontwikkelen een methode om parasieten in muggen te elimineren. Nieuwe aanpak is effectiever door antimalariamiddelen te gebruiken, wat resistentie tegen insecticiden vermind\u2026",
+      "url": "https://businessam.be/?p=251676",
+      "urlToImage": "https://businessam.be/media/Muggen-1656574289.jpg",
+      "publishedAt": "2025-05-26 04:30:00",
+      "content": "Key takeaways Malaria veroorzaakt jaarlijks bijna 600.000 doden. Harvard-onderzoekers ontwikkelen een methode om parasieten in muggen te elimineren.Nieuwe aanpak is effectiever door\u2026 [+2274 chars]",
+      "retrievedAt": "2025-05-27 07:07:55.035969",
+      "internal_id": "8c37d134ecf2143689963cd3e4e6c93994220b1b216e1abea2ef6ccb1dad7787",
+      "publishedAtLabel": "May 26"
+    },
+    {
+      "id": 21599,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Jean Kaseya",
+      "title": "Africa's example to end malaria",
+      "description": "Despite being preventable and curable, malaria has continued to claim African lives. In 2023, the continent accounted for about 95% of the 597,000 deaths from malaria worldwide, 76% of which were children under the age of five.",
+      "url": "https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria",
+      "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/05/26/5624980_700.jpg",
+      "publishedAt": "2025-05-25 21:00:00",
+      "content": "Despite being preventable and curable, malaria has continued to claim African lives. In 2023, the continent accounted for about 95% of the 597,000 deaths from malaria worldwide, 76% of which were chi\u2026 [+4769 chars]",
+      "retrievedAt": "2025-05-27 07:07:55.081645",
+      "internal_id": "8308d2acfa93fe42f9c287ec9082ef5913192830ea82170022dcce0a6d8a52e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21596,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "M\u00e9xico suma m\u00e1s de 3 mil 500 casos de dengue; Jalisco encabeza la lista",
+      "description": "Patricia Rodr\u00edguez Calva Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de dengue en una semana Hasta el mo\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/25/3313088.jpg",
+      "publishedAt": "2025-05-25 20:58:48",
+      "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
+      "retrievedAt": "2025-05-27 07:07:54.494958",
+      "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
+      "publishedAtLabel": "May 25"
+    },
     {
       "id": 21576,
       "query": [
@@ -21974,6 +22064,186 @@
       "retrievedAt": "2025-04-15 07:07:50.132866",
       "internal_id": "ea85b4c7553bf8c029ecfee90b35f499684ab660d333575e5361874c6063616d",
       "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20369,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander  Tin",
+      "title": "Former top health official criticizes RFK Jr. for downplaying measles deaths",
+      "description": "Dr. Peter Marks said that the deaths of unvaccinated children is \"just not acceptable.\"",
+      "url": "https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/11/90b30b1a-08a2-45f2-8100-a2c26bf50d1b/thumbnail/1200x630g2/9c8a482355ad301e50c3c8ad09ed3626/screenshot-2025-04-11-at-7-18-24-pm.png?v=653dd6912cdd8596c9bfea812c355f95",
+      "publishedAt": "2025-04-13 18:36:57",
+      "content": "The former top vaccines official at the Food and Drug Administration criticized Health and Human Services Secretary Robert F. Kennedy Jr. for downplaying the deaths of unvaccinated children from meas\u2026 [+5286 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.451185",
+      "internal_id": "acbf71017490690e23598bf89ebf7990a46760c2a463dc685cca1e4ef0c84ebd",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20401,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Measles explodes in Texas after stagnant vax funding",
+      "description": "Immunization programs nationwide have been left brittle by years of stagnant funding by federal, state and local governments. In Texas and elsewhere, this helped set the stage for the measles outbreak and fuelled its spread. Now cuts to federal funding threat\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120261609,width-1200,height-630,imgsize-18828,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-13 18:32:14",
+      "content": "NEW YORK: The measles outbreak in West Texas didn't happen just by chance. The easily preventable disease, declared eliminated in the US in 2000, ripped through communities sprawling across more than\u2026 [+1765 chars]",
+      "retrievedAt": "2025-04-16 07:07:23.677959",
+      "internal_id": "c6a4050afa302a1a3b55d678475335e1e5f4462cf02d387d48737211c794cd11",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20402,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "NATHAN WILLISON | Staff Writer",
+      "title": "Pa. Department of Health reports measles case at WellSpan Ephrata",
+      "description": "The Pennsylvania Department of Health confirmed Sunday that a patient who tested positive for measles visited WellSpan Ephrata Community Hospital last week.",
+      "url": "https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/04/904de8f8-5ae1-11e4-80a3-001a4bcf6878/544947ba5df1d.image.jpg?crop=1296%2C680%2C0%2C91&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-13 18:30:00",
+      "content": "The Pennsylvania Department of Health confirmed Sunday that a patient who tested positive for measles visited WellSpan Ephrata Community Hospital last week. In a statement, the Department of Healt\u2026 [+2321 chars]",
+      "retrievedAt": "2025-04-16 07:07:23.686512",
+      "internal_id": "ff55dceef0c44f1c2afff17f4b5f4a5b9414a9636b112377913838c6cfaa8c9e",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20375,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Simon",
+      "title": "Hochsicherheits-Forschung: Die Insel der gef\u00e4hrlichen Viren",
+      "description": "Vogelgrippe, Mpox, West-Nil-Virus: Erreger, die auch Menschen gef\u00e4hrlich werden, breiten sich aus. Auf einer kleinen Ostsee-Insel werden sie in Hochsicherheitslaboren erforscht.",
+      "url": "https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html",
+      "urlToImage": "https://image.stern.de/35622134/t/Ja/v5/w1440/r1.7778/-/labor--die-verbotene-insel-picture-1331363350.jpg",
+      "publishedAt": "2025-04-13 16:07:00",
+      "content": "stern+ und Klassik Radio Selectstatt 11,96 nur 1",
+      "retrievedAt": "2025-04-14 19:06:11.793600",
+      "internal_id": "ec2297b3e7bfff31682edabb65faa969cda4b76700b9a03edca602d775d36cb6",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20371,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges",
+      "description": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.\u2019s tenure as Health and Human Services secretary. Now comes norovirus \u2013 just as Kennedy has gutted the very department that could help prevent it. \u2026",
+      "url": "https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/04/rfk_jr_for_041225.jpg",
+      "publishedAt": "2025-04-13 14:00:01",
+      "content": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.s tenure as Health and Human Services secretary. Now comes norovirus just as Kennedy ha\u2026 [+2016 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.550627",
+      "internal_id": "d91c82b2136fec9d25e850bc131ba6c7fa2330b7da7fc9ab6d5d894f53c86378",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20370,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)",
+      "description": "Ashleigh Fields / The Hill: Cassidy praises Kennedy for promoting measles vaccination amid outbreak \u2014 Sen. Bill Cassidy (R-La.) applauded Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for promoting measles vaccination amid a deadly outbrea\u2026",
+      "url": "https://www.memeorandum.com/250413/p15",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cassidybill_kennedyjrrobert_013025gn01_w.jpg?w=1280",
+      "publishedAt": "2025-04-13 13:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.498050",
+      "internal_id": "6123f00f0925900a3b0c63c925ac3ecbfb203786753a4f20e061cfb3fd3321df",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20373,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "LAURA UNGAR Associated Press, MICHELLE R. SMITH Associated Press, DEVI SHASTRI Associated Press",
+      "title": "Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US",
+      "description": "The measles outbreak in West Texas didn\u2019t happen just by chance",
+      "url": "https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363",
+      "urlToImage": "https://i.abcnewsfe.com/a/c4d4abf9-62bc-430b-a324-72c012437f1a/wirestory_5785985d6b74024b0502f6a2fc1576e2_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-13 13:38:32",
+      "content": "The measles outbreak in West Texas didnt happen just by chance. The easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texa\u2026 [+11732 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.644028",
+      "internal_id": "2e5f56331173fc5fa0d9b9a57803e6b52464b1fe662910948f016ca20e652aee",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20372,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)",
+      "description": "Jonathan Cohn / The Bulwark: Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines \u2014 THREE PEOPLE HAVE DIED in Texas and more than five hundred have gotten sick in what is shaping up as the largest single measles outbreak in decades. And somehow Robert F\u2026",
+      "url": "https://www.memeorandum.com/250413/p14",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd298d746-2d84-4947-93bc-af640d3d8063_5797x3865.jpeg",
+      "publishedAt": "2025-04-13 13:30:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.578010",
+      "internal_id": "f65d274aac4f32d25cabcb92a7045b4507fc80a68b40b6b271d4a60c80bc6d29",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20374,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc: \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u06a9\u0644\u06cc\u062f\u06cc \u0627\u06cc\u0646 \u062f\u0648 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0686\u06cc\u0633\u062a\u061f",
+      "description": "\u062f\u0631 \u062d\u0627\u0644\u06cc\u200c\u06a9\u0647 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0648 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u0632 \u0628\u0631\u062e\u06cc \u062c\u0647\u0627\u062a \u0628\u0647 \u0647\u0645 \u0634\u0628\u0627\u0647\u062a \u062f\u0627\u0631\u0646\u062f\u060c \u0627\u0645\u0627 \u0627\u0632 \u0646\u0638\u0631 \u0645\u0646\u0634\u0623\u060c \u0646\u062d\u0648\u0647\u200c\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0648 \u062a\u0623\u062b\u06cc\u0631\u0627\u062a \u0622\u0646\u200c\u0647\u0627 \u0628\u0631 \u0633\u0644\u0627\u0645\u062a \u0627\u0646\u0633\u0627\u0646\u060c \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u0686\u0634\u0645\u06af\u06cc\u0631\u06cc \u0628\u0627 \u06cc\u06a9\u062f\u06cc\u06af\u0631 \u062f\u0627\u0631\u0646\u062f. \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0627\u06cc \u0641\u0635\u0644\u06cc \u0648 \u0634\u0646\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0634\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0622\u0646 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc\u2026",
+      "url": "https://www.entekhab.ir/fa/news/860695/\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u0645\u0639\u0645\u0648\u0644\u06cc-\u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc-\u06a9\u0644\u06cc\u062f\u06cc-\u0627\u06cc\u0646-\u062f\u0648-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u0686\u06cc\u0633\u062a",
+      "urlToImage": "https://www.entekhab.ir/files/fa/news/1404/1/24/1951048_869.jpeg",
+      "publishedAt": "2025-04-13 12:33:04",
+      "content": "(Entekhab.ir) : . () . . \u00ab \u00bb . . . . :A . H5N1 H7N9 . :A B . H1N1 H3N2 . :. . :. . :. . :( ) . :. . :. :. . :. . :. () () . :(RIDT) . . . . .",
+      "retrievedAt": "2025-04-14 19:06:10.337362",
+      "internal_id": "fcc5b67b77011d09d8ad5ce5b4e96f27ffd88db2cb14727685c26ca917d197ab",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20368,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson",
+      "title": "'It's Not Just Measles.' Whooping Cough Cases Spike",
+      "description": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among the stats: The CDC reported 2,116 cases in 2021, amid the pa\u2026",
+      "url": "https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1603965-12-20250413060002.jpeg",
+      "publishedAt": "2025-04-13 11:00:00",
+      "content": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among \u2026 [+1366 chars]",
+      "retrievedAt": "2025-04-14 19:06:08.670592",
+      "internal_id": "ea0306c30955d0bd3d3001c8b8af468bdcde70e928f2a2d5f512eb78b818ed90",
+      "publishedAtLabel": "Apr 13"
     }
   ]
 }
