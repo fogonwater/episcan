@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-05-29 07:07
-- **Most recent article:** 2025-05-28 04:00:13
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-05-29 19:06
+- **Most recent article:** 2025-05-28 18:18:07
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 82 | 107 | 88 | 82 | 75 | 77 | 13 | 524 |
-| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 13 | 166 |
-| chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 6 | 159 |
-| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 8 | 142 |
-| h5n1 | 9 | 15 | 15 | 11 | 21 | 46 | 7 | 124 |
-| mpox | 10 | 5 | 11 | 11 | 18 | 11 | 8 | 74 |
+| measles | 75 | 107 | 88 | 82 | 75 | 77 | 18 | 522 |
+| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 17 | 170 |
+| chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 12 | 165 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 9 | 143 |
+| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 10 | 126 |
+| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 8 | 73 |
 | meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 3 | 43 |
-| zika | 7 | 2 | 3 | 6 | 3 | 10 | 5 | 36 |
-| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 4 | 32 |
-| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 3 | 18 |
-| hpai | 5 | 1 | 2 | 3 | 1 | 2 | 0 | 14 |
+| zika | 7 | 2 | 3 | 6 | 3 | 10 | 7 | 38 |
+| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 5 | 33 |
+| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 3 | 17 |
+| hpai | 5 | 1 | 2 | 3 | 1 | 2 | 1 | 15 |
 | typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 2 | 12 |
 | leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 8 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-22 (zika)
+
+- [Dengue, Chikungunya, zika : face à la recrudescence de ces maladies, la chasse au moustique-tigre est lancée dans le Rhône](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/dengue-chikungunya-zika-face-a-la-recrudescence-de-ces-maladies-la-chasse-au-moustique-tigre-est-lancee-dans-le-rhone-3162075.html) (Franceinfo.fr)
+
+- [Os mosquitos te amam? A Ciência tem uma explicação](https://olhardigital.com.br/2025/05/28/medicina-e-saude/os-mosquitos-te-amam-a-ciencia-tem-uma-explicacao/) (Olhardigital.com.br)
 
 - [Zika virus uses cells' 'self-care' system to turn against host](https://www.sciencedaily.com/releases/2025/05/250527180932.htm) (Science Daily)
 
@@ -51,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 - [Ahmedabad sees rise in gastroenteritis and cholera cases over past 25 days](https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-sees-rise-in-gastroenteritis-and-cholera-cases-over-past-25-days/articleshow/121436730.cms) (The Times of India)
 
 ## 25-22 (rabies)
+
+- [Health Ministry alerts Israelis to rabid cow in western Galilee](https://www.jpost.com/breaking-news/article-855772) (The Jerusalem Post)
 
 - [9-year-old girl bitten by straydog in Badlapur dies due to rabies](https://timesofindia.indiatimes.com/city/mumbai/9-year-old-girl-bitten-by-straydog-in-badlapur-dies-due-to-rabies/articleshow/121447223.cms) (The Times of India)
 
@@ -96,6 +102,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (measles)
 
+- [Texas Lawmakers Look to Make Child Vaccine Exemptions Easier for Parents as Measles Outbreak Continues](https://www.ibtimes.com/texas-lawmakers-look-make-child-vaccine-exemptions-easier-parents-measles-outbreak-continues-3774733) (International Business Times)
+
+- [Texas Lawmakers Look to Make Child Vaccine Exemptions Easier for Parents as Measles Outbreak Continues](https://www.medicaldaily.com/texas-lawmakers-look-make-child-vaccine-exemptions-easier-parents-measles-outbreak-continues-473562) (Medical Daily)
+
+- [Collin County reports third measles case. Here's where the person was and when.](https://www.cbsnews.com/texas/news/collin-county-mckinney-measles-report-exposure-may/) (CBS News)
+
+- [Measles Updates: Texas Reports One New Case As Spread Slows](https://www.forbes.com/sites/antoniopequenoiv/2025/05/28/measles-updates-texas-reports-one-new-case-as-spread-slows/) (Forbes)
+
+- [Measles outbreak grows: 62 cases confirmed in Israel](https://www.israelnationalnews.com/news/409102) (Israelnationalnews.com)
+
 - [Measles case in Nebraska; Prevent it from entering your home](https://www.ketv.com/article/measles-vaccine-symptoms-and-more/64895522) (KETV Omaha)
 
 - [Hopkins Co. Health Dept. opens investigation into potential measles case](https://www.14news.com/2025/05/27/hopkins-co-health-dept-opens-investigation-into-potential-measles-case/) (14 News WFIE Evansville)
@@ -124,6 +140,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (malaria)
 
+- [Sudan war exacerbates risk of cholera and malaria: UNICEF](https://news.un.org/en/story/2025/05/1163811) (UN News)
+
 - [Genomic Deletion of PfHRP2 and PfHRP3 Antigens in Plasmodium falciparum Strains, Ethiopia, 2009](https://wwwnc.cdc.gov/eid/article/31/7/24-1676_article) (Cdc.gov)
 
 - [Long lived liver-resident memory T cells of biased specificities for abundant sporozoite antigens drive malaria protection by radiation-attenuated sporozoite vaccination](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012731) (Plos.org)
@@ -140,7 +158,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
+## 25-22 (hpai)
+
+- [Helport AI to Participate in the Baird Global Consumer, Technology & Services Conference on June 3-5, 2025](https://www.globenewswire.com/news-release/2025/05/28/3089476/0/en/Helport-AI-to-Participate-in-the-Baird-Global-Consumer-Technology-Services-Conference-on-June-3-5-2025.html) (GlobeNewswire)
+
 ## 25-22 (h5n1)
+
+- [Gripe aviária: com morte no Camboja, veja quantos óbitos foram registrados em 2025](https://www.infomoney.com.br/saude/gripe-aviaria-com-morte-no-camboja-veja-quantos-obitos-foram-registrados-em-2025/) (InfoMoney)
+
+- [Újabb halálos áldozatot követelt a madárinfluenza](https://www.portfolio.hu/gazdasag/20250528/ujabb-halalos-aldozatot-kovetelt-a-madarinfluenza-764441) (Portfolio.hu)
+
+- [España y toda Europa se preparan para una posible pandemia de gripe aviar](https://www.nationalgeographic.com.es/ciencia/europa-pie-guerra-sanitaria-preparativos-frente-a-posible-pandemia-gripe-aviar_25140) (Nationalgeographic.com.es)
 
 - [Камбоджа сообщила о новом случае смерти человека из-за птичьего гриппа](https://tass.ru/obschestvo/24066425) (Tass.ru)
 
@@ -157,6 +185,14 @@ Source: [News API](https://newsapi.org/)
 - [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
 
 ## 25-22 (dengue)
+
+- [Dengue, Chikungunya, zika : face à la recrudescence de ces maladies, la chasse au moustique-tigre est lancée dans le Rhône](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/dengue-chikungunya-zika-face-a-la-recrudescence-de-ces-maladies-la-chasse-au-moustique-tigre-est-lancee-dans-le-rhone-3162075.html) (Franceinfo.fr)
+
+- [Dengue Darurat Nasional, Ini Strategi Baru DPR dan Kemenkes untuk Menghadapinya](https://www.liputan6.com/health/read/6036659/dengue-darurat-nasional-ini-strategi-baru-dpr-dan-kemenkes-untuk-menghadapinya) (Liputan6.com)
+
+- [Emraan Hashmi diagnosed with dengue](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-diagnosed-with-dengue/articleshow/121463929.cms) (The Times of India)
+
+- [Os mosquitos te amam? A Ciência tem uma explicação](https://olhardigital.com.br/2025/05/28/medicina-e-saude/os-mosquitos-te-amam-a-ciencia-tem-uma-explicacao/) (Olhardigital.com.br)
 
 - [Chikungunya, dengue, zika : une année "particulièrement intense" pour les maladies du moustique-tigre en Auvergne-Rhône-Alpes](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/chikungunya-dengue-zika-une-annee-particulierement-intense-pour-les-maladies-du-moustique-tigre-en-auvergne-rhone-alpes-3160752.html) (Franceinfo.fr)
 
@@ -185,6 +221,18 @@ Source: [News API](https://newsapi.org/)
 - [Health emergency: Dengue fever outbreak declared in Rarotonga, New Zealand](https://economictimes.indiatimes.com/news/international/new-zealand/health-emergency-dengue-fever-outbreak-declared-in-rarotonga-new-zealand/articleshow/121388998.cms) (The Times of India)
 
 ## 25-22 (chikungunya)
+
+- [Dengue, Chikungunya, zika : face à la recrudescence de ces maladies, la chasse au moustique-tigre est lancée dans le Rhône](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/dengue-chikungunya-zika-face-a-la-recrudescence-de-ces-maladies-la-chasse-au-moustique-tigre-est-lancee-dans-le-rhone-3162075.html) (Franceinfo.fr)
+
+- [A La Réunion, 15 morts liées au chikungunya depuis le début de l’année, selon Santé publique France](https://www.lemonde.fr/outre-mer/article/2025/05/28/a-la-reunion-15-morts-liees-au-chikungunya-depuis-le-debut-de-l-annee-selon-sante-publique-france_6608991_1840826.html) (Le Monde)
+
+- [La Réunion. Le chikungunya fait trois nouveaux morts sur l'île, 15 depuis le début de l'année](https://www.ledauphine.com/sante/2025/05/28/le-chikungunya-fait-trois-nouveaux-morts-a-la-reunion-quinze-depuis-le-debut-de-l-annee) (Le Dauphiné Libéré)
+
+- [Epidémie de chikungunya à La Réunion : le virus fait trois nouveaux morts, portant le bilan à 15 décès au total depuis le mois de mars](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-a-la-reunion-le-virus-fait-trois-nouveaux-morts-portant-le-bilan-a-15-deces-au-total-depuis-le-mois-de-mars_7277931.html) (Franceinfo.fr)
+
+- [Chikungunya à Mayotte : une campagne de vaccination va être organisée pour certains adultes à risque](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-a-mayotte-une-campagne-de-vaccination-va-etre-organisee-pour-certains-adultes-a-risque_7277769.html) (Franceinfo.fr)
+
+- [Os mosquitos te amam? A Ciência tem uma explicação](https://olhardigital.com.br/2025/05/28/medicina-e-saude/os-mosquitos-te-amam-a-ciencia-tem-uma-explicacao/) (Olhardigital.com.br)
 
 - [Chikungunya, dengue, zika : une année "particulièrement intense" pour les maladies du moustique-tigre en Auvergne-Rhône-Alpes](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/chikungunya-dengue-zika-une-annee-particulierement-intense-pour-les-maladies-du-moustique-tigre-en-auvergne-rhone-alpes-3160752.html) (Franceinfo.fr)
 
@@ -2504,8 +2552,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
 
-- ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
-
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2525,8 +2571,6 @@ Source: [News API](https://newsapi.org/)
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
-
-- [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
 ## 25-16 (meningitis)
 
@@ -2696,20 +2740,6 @@ Source: [News API](https://newsapi.org/)
 
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
-- [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
-
-- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
-
-- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
-
-- [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
-
-- [Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)](https://www.memeorandum.com/250413/p15) (Memeorandum.com)
-
-- [Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US](https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363) (ABC News)
-
-- [Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)](https://www.memeorandum.com/250413/p14) (Memeorandum.com)
-
 ## 25-16 (malaria)
 
 - [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
@@ -2771,8 +2801,6 @@ Source: [News API](https://newsapi.org/)
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
-
-- [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 
