@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-05-28 19:06
-- **Most recent article:** 2025-05-27 18:34:55
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-05-29 07:07
+- **Most recent article:** 2025-05-28 04:00:13
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 107 | 88 | 82 | 75 | 77 | 7 | 511 |
+| measles | 82 | 107 | 88 | 82 | 75 | 77 | 13 | 524 |
 | dengue | 29 | 16 | 32 | 26 | 24 | 26 | 13 | 166 |
 | chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 6 | 159 |
-| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 7 | 141 |
-| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 6 | 122 |
-| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 7 | 72 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 8 | 142 |
+| h5n1 | 9 | 15 | 15 | 11 | 21 | 46 | 7 | 124 |
+| mpox | 10 | 5 | 11 | 11 | 18 | 11 | 8 | 74 |
 | meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 3 | 43 |
-| zika | 7 | 2 | 3 | 6 | 3 | 10 | 4 | 35 |
+| zika | 7 | 2 | 3 | 6 | 3 | 10 | 5 | 36 |
 | rabies | 0 | 3 | 4 | 12 | 3 | 6 | 4 | 32 |
-| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 2 | 16 |
+| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 3 | 18 |
 | hpai | 5 | 1 | 2 | 3 | 1 | 2 | 0 | 14 |
 | typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 2 | 12 |
 | leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-22 (zika)
+
+- [Zika virus uses cells' 'self-care' system to turn against host](https://www.sciencedaily.com/releases/2025/05/250527180932.htm) (Science Daily)
 
 - [Chikungunya, dengue, zika : une année "particulièrement intense" pour les maladies du moustique-tigre en Auvergne-Rhône-Alpes](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/chikungunya-dengue-zika-une-annee-particulierement-intense-pour-les-maladies-du-moustique-tigre-en-auvergne-rhone-alpes-3160752.html) (Franceinfo.fr)
 
@@ -60,11 +62,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (pertussis)
 
+- [American honeymoon hotspot hit by highly contagious illness, health officials warn](https://www.foxnews.com/health/american-honeymoon-hotspot-hit-highly-contagious-illness-health-officials-warn) (Fox News)
+
 - [Free Tdap vaccination offer to pregnant women at 28-32 weeks](https://www.thestar.com.my/news/nation/2025/05/27/free-tdap-vaccination-offer-to-pregnant-women-at-28-32-weeks) (The Star Online)
 
 - [Health Ministry offers free Tdap vaccination for pregnant women](https://www.thestar.com.my/news/nation/2025/05/26/health-ministry-offers-free-tdap-vaccination-for-pregnant-women) (The Star Online)
 
 ## 25-22 (mpox)
+
+- [Dipolog: ZANORTE HOSPITAL NAGHATAG UG OFFICIAL STATEMENT KABAHIN SA FAKE NEWS NGA MITUMAW KALABOT NA SA MPOX SA PROBINSYA](https://rpnradio.com/dipolog-zanorte-hospital-naghatag-ug-official-statement-kabahin-sa-fake-news-nga-mitumaw-kalabot-na-sa-mpox-sa-probinsya/) (Rpnradio.com)
 
 - [В Судане за неделю более 170 человек умерли от холеры](https://korrespondent.net/ukraine/4785465-v-sudane-za-nedelui-bolee-170-chelovek-umerly-ot-kholery) (Korrespondent.net)
 
@@ -90,6 +96,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (measles)
 
+- [Measles case in Nebraska; Prevent it from entering your home](https://www.ketv.com/article/measles-vaccine-symptoms-and-more/64895522) (KETV Omaha)
+
+- [Hopkins Co. Health Dept. opens investigation into potential measles case](https://www.14news.com/2025/05/27/hopkins-co-health-dept-opens-investigation-into-potential-measles-case/) (14 News WFIE Evansville)
+
+- [Amid Measles Outbreak, Texas Looks To Make Vaccine Exemptions Even Easier](https://www.huffpost.com/entry/texas-vaccine-exemption-measles_n_68362b10e4b06a204c7ea854) (HuffPost)
+
+- [Texas lawmakers pass bill making it easier to request vaccine exemptions](https://abcnews.go.com/US/new-texas-bill-makes-easier-request-vaccine-exemptions/story?id=122235535) (ABC News)
+
+- [Measles cases seem to be slowing down in the US. What's behind it?](https://abcnews.go.com/Health/measles-cases-slowing-us/story?id=122221061) (ABC News)
+
+- [American honeymoon hotspot hit by highly contagious illness, health officials warn](https://www.foxnews.com/health/american-honeymoon-hotspot-hit-highly-contagious-illness-health-officials-warn) (Fox News)
+
 - [Amid measles outbreak, Texas lawmakers vote to make school vaccine exemptions easier](https://www.pbs.org/newshour/nation/amid-measles-outbreak-texas-lawmakers-vote-to-make-school-vaccine-exemptions-easier) (PBS)
 
 - [Nebraska health officials confirm state's first measles case](https://www.ketv.com/article/nebraska-measles-case-reported-panhandle-health-officials/64891556) (KETV Omaha)
@@ -106,6 +124,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (malaria)
 
+- [Genomic Deletion of PfHRP2 and PfHRP3 Antigens in Plasmodium falciparum Strains, Ethiopia, 2009](https://wwwnc.cdc.gov/eid/article/31/7/24-1676_article) (Cdc.gov)
+
 - [Long lived liver-resident memory T cells of biased specificities for abundant sporozoite antigens drive malaria protection by radiation-attenuated sporozoite vaccination](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012731) (Plos.org)
 
 - [Podemos extinguir las ratas y los mosquitos que trasmiten malaria, ¿pero debemos hacerlo?](https://www.meneame.net/m/ciencia/podemos-extinguir-ratas-mosquitos-trasmiten-malaria-pero-debemos) (Meneame.net)
@@ -121,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 - [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (h5n1)
+
+- [Камбоджа сообщила о новом случае смерти человека из-за птичьего гриппа](https://tass.ru/obschestvo/24066425) (Tass.ru)
 
 - [O Dr. Oz στο πλευρό του Κατσιματίδη για τη διάσωση στρουθοκαμήλων στον Καναδά](https://www.skai.gr/news/world/o-dr-oz-sto-pleyro-tou-katsimatidi-gia-ti-diasosi-strouthokamilon-ston-kanada) (Skai.gr)
 
@@ -2482,6 +2504,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
 
+- ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
+
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2501,6 +2525,8 @@ Source: [News API](https://newsapi.org/)
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
+
+- [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
 ## 25-16 (meningitis)
 
@@ -2670,6 +2696,20 @@ Source: [News API](https://newsapi.org/)
 
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
+- [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
+
+- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
+
+- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
+
+- [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
+
+- [Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)](https://www.memeorandum.com/250413/p15) (Memeorandum.com)
+
+- [Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US](https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363) (ABC News)
+
+- [Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)](https://www.memeorandum.com/250413/p14) (Memeorandum.com)
+
 ## 25-16 (malaria)
 
 - [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
@@ -2731,6 +2771,8 @@ Source: [News API](https://newsapi.org/)
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
+
+- [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 
