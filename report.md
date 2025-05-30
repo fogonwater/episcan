@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 19
-- **Last harvest:** 2025-05-29 19:06
-- **Most recent article:** 2025-05-28 18:18:07
+- **Last harvest:** 2025-05-30 07:07
+- **Most recent article:** 2025-05-29 06:08:26
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 107 | 88 | 82 | 75 | 77 | 18 | 522 |
-| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 17 | 170 |
+| measles | 82 | 107 | 88 | 82 | 75 | 77 | 25 | 536 |
+| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 19 | 172 |
 | chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 12 | 165 |
-| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 9 | 143 |
-| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 10 | 126 |
-| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 8 | 73 |
-| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 3 | 43 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 11 | 145 |
+| h5n1 | 9 | 15 | 15 | 11 | 21 | 46 | 16 | 133 |
+| mpox | 10 | 5 | 11 | 11 | 18 | 11 | 9 | 75 |
+| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 4 | 44 |
 | zika | 7 | 2 | 3 | 6 | 3 | 10 | 7 | 38 |
 | rabies | 0 | 3 | 4 | 12 | 3 | 6 | 5 | 33 |
-| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 3 | 17 |
+| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 3 | 18 |
 | hpai | 5 | 1 | 2 | 3 | 1 | 2 | 1 | 15 |
 | typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 2 | 12 |
 | leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 8 |
@@ -76,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (mpox)
 
+- [Bacolod CHO issues health advisory on mpox](https://www.sunstar.com.ph/bacolod/bacolod-cho-issues-health-advisory-on-mpox) (Sunstar.com.ph)
+
 - [Dipolog: ZANORTE HOSPITAL NAGHATAG UG OFFICIAL STATEMENT KABAHIN SA FAKE NEWS NGA MITUMAW KALABOT NA SA MPOX SA PROBINSYA](https://rpnradio.com/dipolog-zanorte-hospital-naghatag-ug-official-statement-kabahin-sa-fake-news-nga-mitumaw-kalabot-na-sa-mpox-sa-probinsya/) (Rpnradio.com)
 
 - [В Судане за неделю более 170 человек умерли от холеры](https://korrespondent.net/ukraine/4785465-v-sudane-za-nedelui-bolee-170-chelovek-umerly-ot-kholery) (Korrespondent.net)
@@ -94,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (meningitis)
 
+- [Hospital doctor admits professional misconduct over patient’s death after dispute with nurse about dislodged breathing tube](https://www.independent.ie/irish-news/hospital-doctor-admits-professional-misconduct-over-patients-death-after-dispute-with-nurse-about-dislodged-breathing-tube/a1874134388.html) (Independent.ie)
+
 - [Mens Kasper kæmpede med morfinmisbrug, holdt kæresten sammen på familien](https://www.dr.dk/sporten/haandbold/herreligaen/mens-kasper-kaempede-med-morfinmisbrug-holdt-kaeresten-sammen-paa) (Www.dr.dk)
 
 - [Rajasthan sees Covid spike; 8 test positive in 24 hours, 1 death reported](https://timesofindia.indiatimes.com/city/jaipur/rajasthan-sees-covid-spike-8-test-positive-in-24-hours-1-death-reported/articleshow/121429526.cms) (The Times of India)
@@ -101,6 +105,20 @@ Source: [News API](https://newsapi.org/)
 - [Menos del 1 por ciento de los infectados con el virus del Nilo desarrolla una encefalitis o meningitis que pueden ser mortales](https://www.abc.es/sevilla/provincia/ciento-infectados-virus-nilo-desarrolla-encefalitis-meningitis-20250525124208-nts.html) (Www.abc.es)
 
 ## 25-22 (measles)
+
+- [Dr. Donald Trump Declares That Autism Doesn’t ‘Occur Naturally’](https://www.techdirt.com/2025/05/28/dr-donald-trump-declares-that-autism-doesnt-occur-naturally/) (Techdirt)
+
+- [Colorado toddler hospitalized with measles, state’s 6th case of 2025](https://www.cpr.org/2025/05/28/colorado-6th-measle-case-toddler-hospitalized/) (Colorado Public Radio)
+
+- [Manitoba reaches 72 confirmed measles cases, majority from spike in May](https://www.cbc.ca/news/canada/manitoba/72-confirmed-measles-cases-1.7546236) (CBC News)
+
+- [Unvaccinated Arapahoe Co. toddler becomes Colorado’s sixth measles case of 2025](https://www.denver7.com/lifestyle/health/unvaccinated-arapahoe-county-toddler-becomes-colorados-sixth-measles-case-of-2025) (Denver7.com)
+
+- [Possible measles exposures at Children’s Hospital Colorado, 3 Aurora stores after state’s 6th case confirmed](https://www.denverpost.com/2025/05/28/measles-childrens-hospital-colorado-aurora-stores/) (The Denver Post)
+
+- [At least 62 Israelis infected with measles amid outbreak, Health Ministry says](https://www.jpost.com/health-and-wellness/article-855821) (The Jerusalem Post)
+
+- [Vaccination plea after measles cases surge in Scotland](https://www.bbc.com/news/articles/c5y5lwlxxp5o) (BBC News)
 
 - [Texas Lawmakers Look to Make Child Vaccine Exemptions Easier for Parents as Measles Outbreak Continues](https://www.ibtimes.com/texas-lawmakers-look-make-child-vaccine-exemptions-easier-parents-measles-outbreak-continues-3774733) (International Business Times)
 
@@ -140,6 +158,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (malaria)
 
+- [Hernany Lima: «Meu irmán morrrería por malaria se quedase en Guinea-Bissau»](https://www.lavozdegalicia.es/noticia/carballo/2025/05/29/meu-irman-morrreria-malaria-quedase-guinea-bissau/0003_202505C29C8994.htm) (Lavozdegalicia.es)
+
+- [Hernany Lima: «Meu irmán morrería por malaria se quedase en Guinea-Bissau»](https://www.lavozdegalicia.es/noticia/carballo/2025/05/29/meu-irman-morreria-malaria-quedase-guinea-bissau/0003_202505C29C8994.htm) (Lavozdegalicia.es)
+
 - [Sudan war exacerbates risk of cholera and malaria: UNICEF](https://news.un.org/en/story/2025/05/1163811) (UN News)
 
 - [Genomic Deletion of PfHRP2 and PfHRP3 Antigens in Plasmodium falciparum Strains, Ethiopia, 2009](https://wwwnc.cdc.gov/eid/article/31/7/24-1676_article) (Cdc.gov)
@@ -164,6 +186,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (h5n1)
 
+- [HHS Terminates Moderna’s $766 Million in mRNA Bird Flu Injection Contracts](https://www.globalresearch.ca/hhs-terminates-moderna-bird-flu-injection/5888691) (Globalresearch.ca)
+
+- [Trump administration cancels $766 million Moderna contract to fight pandemic flu](https://abcnews.go.com/Business/wireStory/trump-administration-cancels-766-million-moderna-contract-fight-122291766) (ABC News)
+
+- [Trump administration cancels $766 million Moderna contract to fight pandemic flu](https://www.local10.com/business/2025/05/29/trump-administration-cancels-766-million-moderna-contract-to-fight-pandemic-flu/) (WPLG Local 10)
+
+- [Trump administration cancels $766 million Moderna contract to fight pandemic flu](https://www.bostonherald.com/2025/05/28/flu-vaccine-canceled/) (Boston Herald)
+
+- [Trump administration cancels $766 million Moderna contract to fight pandemic flu](https://www.denverpost.com/2025/05/28/flu-vaccine-canceled/) (The Denver Post)
+
+- [Trump administration cancels $766 million Moderna contract to fight pandemic flu](https://financialpost.com/pmn/trump-administration-cancels-766-million-moderna-contract-to-fight-pandemic-flu) (Financial Post)
+
 - [Gripe aviária: com morte no Camboja, veja quantos óbitos foram registrados em 2025](https://www.infomoney.com.br/saude/gripe-aviaria-com-morte-no-camboja-veja-quantos-obitos-foram-registrados-em-2025/) (InfoMoney)
 
 - [Újabb halálos áldozatot követelt a madárinfluenza](https://www.portfolio.hu/gazdasag/20250528/ujabb-halalos-aldozatot-kovetelt-a-madarinfluenza-764441) (Portfolio.hu)
@@ -185,6 +219,10 @@ Source: [News API](https://newsapi.org/)
 - [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
 
 ## 25-22 (dengue)
+
+- [Norte de SP lidera epidemia de dengue, mas pior distrito fica no sul](https://www.metropoles.com/sao-paulo/epidemia-dengue-sao-paulo) (Metropoles.com)
+
+- [Tonga Health authorities screen travellers amid dengue outbreak; cases reach 793 - Kaniva Tonga News](https://kanivatonga.co.nz/2025/05/tonga-health-authorities-screen-travellers-amid-dengue-outbreak-cases-reach-793/) (Kanivatonga.co.nz)
 
 - [Dengue, Chikungunya, zika : face à la recrudescence de ces maladies, la chasse au moustique-tigre est lancée dans le Rhône](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/dengue-chikungunya-zika-face-a-la-recrudescence-de-ces-maladies-la-chasse-au-moustique-tigre-est-lancee-dans-le-rhone-3162075.html) (Franceinfo.fr)
 
@@ -2552,6 +2590,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
 
+- ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
+
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2571,6 +2611,8 @@ Source: [News API](https://newsapi.org/)
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
+
+- [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
 ## 25-16 (meningitis)
 
@@ -2740,6 +2782,20 @@ Source: [News API](https://newsapi.org/)
 
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
+- [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
+
+- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
+
+- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
+
+- [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
+
+- [Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)](https://www.memeorandum.com/250413/p15) (Memeorandum.com)
+
+- [Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US](https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363) (ABC News)
+
+- [Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)](https://www.memeorandum.com/250413/p14) (Memeorandum.com)
+
 ## 25-16 (malaria)
 
 - [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
@@ -2801,6 +2857,8 @@ Source: [News API](https://newsapi.org/)
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
+
+- [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 
