@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-05-30 07:07
-- **Most recent article:** 2025-05-29 06:08:26
+- **New articles in last harvest:** 33
+- **Last harvest:** 2025-05-30 19:06
+- **Most recent article:** 2025-05-29 18:55:15
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 82 | 107 | 88 | 82 | 75 | 77 | 25 | 536 |
-| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 19 | 172 |
+| measles | 75 | 107 | 88 | 82 | 75 | 77 | 34 | 538 |
+| dengue | 29 | 16 | 32 | 26 | 24 | 26 | 22 | 175 |
 | chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 12 | 165 |
-| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 11 | 145 |
-| h5n1 | 9 | 15 | 15 | 11 | 21 | 46 | 16 | 133 |
-| mpox | 10 | 5 | 11 | 11 | 18 | 11 | 9 | 75 |
-| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 4 | 44 |
-| zika | 7 | 2 | 3 | 6 | 3 | 10 | 7 | 38 |
-| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 5 | 33 |
-| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 3 | 18 |
+| malaria | 13 | 34 | 22 | 19 | 11 | 35 | 12 | 146 |
+| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 27 | 143 |
+| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 10 | 75 |
+| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 5 | 45 |
+| zika | 7 | 2 | 3 | 6 | 3 | 10 | 8 | 39 |
+| rabies | 0 | 3 | 4 | 12 | 3 | 6 | 6 | 34 |
+| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 3 | 17 |
 | hpai | 5 | 1 | 2 | 3 | 1 | 2 | 1 | 15 |
 | typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 2 | 12 |
 | leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 8 |
-| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 5 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-22 (zika)
+
+- [Como estão crianças com microcefalia, 10 anos após a epidemia de zika](https://www.bbc.com/portuguese/articles/cm2612jey3qo) (BBC News)
 
 - [Dengue, Chikungunya, zika : face à la recrudescence de ces maladies, la chasse au moustique-tigre est lancée dans le Rhône](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/dengue-chikungunya-zika-face-a-la-recrudescence-de-ces-maladies-la-chasse-au-moustique-tigre-est-lancee-dans-le-rhone-3162075.html) (Franceinfo.fr)
 
@@ -48,6 +50,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue. Timor-Leste introduz método Wolbachia](https://observador.pt/2025/05/26/timor-leste-introduz-metodo-wolbachia-para-diminuir-dengue-e-chikungunya/) (Observador.pt)
 
+## 25-22 (yersinia)
+
+- [Выявлены продлившие эпидемию «черной смерти» мутации](https://news.mail.ru/society/66353490/) (Mail.ru)
+
+- [Un único gen logró que la bacteria de la peste se adaptara y causara la pandemia más mortífera de la historia](https://www.elespanol.com/ciencia/salud/20250529/unico-gen-logro-peste-negra-adaptara-sobreviviera-causara-pandemia-mortal-historia/1003743781052_0.html) (Elespanol.com)
+
+- [Evolution of a single gene allowed the plague to adapt, survive and kill much of humanity over many centuries](https://www.sciencedaily.com/releases/2025/05/250529140133.htm) (Science Daily)
+
+- [How the evolution of a single gene allowed the plague to adapt, prolonging the pandemics](https://phys.org/news/2025-05-evolution-gene-plague-prolonging-pandemics.html) (Phys.Org)
+
+- [How the bubonic plague has survived for centuries](https://www.popsci.com/health/how-bubonic-plague-survived/) (Popular Science)
+
 ## 25-22 (typhoid)
 
 - [640 gastroenteritis cases, 312 typhoid, 193 jaundice, and more: Ahmedabad logs over 1,000 waterborne illnesses in just 25 days](https://economictimes.indiatimes.com/news/new-updates/640-gastroenteritis-cases-312-typhoid-193-jaundice-and-more-ahmedabad-logs-over-1000-waterborne-illnesses-in-just-25-days/articleshow/121442943.cms) (The Times of India)
@@ -55,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 - [Ahmedabad sees rise in gastroenteritis and cholera cases over past 25 days](https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-sees-rise-in-gastroenteritis-and-cholera-cases-over-past-25-days/articleshow/121436730.cms) (The Times of India)
 
 ## 25-22 (rabies)
+
+- [Woof! What Some People Are Getting Wrong About Strays](https://timesofindia.indiatimes.com/toi-plus/health/woof-what-some-people-are-getting-wrong-about-strays/articleshow/121494896.cms) (The Times of India)
 
 - [Health Ministry alerts Israelis to rabid cow in western Galilee](https://www.jpost.com/breaking-news/article-855772) (The Jerusalem Post)
 
@@ -76,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (mpox)
 
+- [Investigating post-COVID-19 confidence in emergency use authorization vaccines: A hypothetical case of mpox](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013037) (Plos.org)
+
 - [Bacolod CHO issues health advisory on mpox](https://www.sunstar.com.ph/bacolod/bacolod-cho-issues-health-advisory-on-mpox) (Sunstar.com.ph)
 
 - [Dipolog: ZANORTE HOSPITAL NAGHATAG UG OFFICIAL STATEMENT KABAHIN SA FAKE NEWS NGA MITUMAW KALABOT NA SA MPOX SA PROBINSYA](https://rpnradio.com/dipolog-zanorte-hospital-naghatag-ug-official-statement-kabahin-sa-fake-news-nga-mitumaw-kalabot-na-sa-mpox-sa-probinsya/) (Rpnradio.com)
@@ -96,6 +114,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (meningitis)
 
+- [Sanidade administrará desde el lunes la vacuna de la meningitis B para proteger de la gonorrea a la población vulnerable](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/29/sanidade-administrara-lunes-vacuna-contra-meningitis-b-proteger-gonorrea-poblacion-vulnerable/00031748511369794683516.htm) (Lavozdegalicia.es)
+
 - [Hospital doctor admits professional misconduct over patient’s death after dispute with nurse about dislodged breathing tube](https://www.independent.ie/irish-news/hospital-doctor-admits-professional-misconduct-over-patients-death-after-dispute-with-nurse-about-dislodged-breathing-tube/a1874134388.html) (Independent.ie)
 
 - [Mens Kasper kæmpede med morfinmisbrug, holdt kæresten sammen på familien](https://www.dr.dk/sporten/haandbold/herreligaen/mens-kasper-kaempede-med-morfinmisbrug-holdt-kaeresten-sammen-paa) (Www.dr.dk)
@@ -105,6 +125,24 @@ Source: [News API](https://newsapi.org/)
 - [Menos del 1 por ciento de los infectados con el virus del Nilo desarrolla una encefalitis o meningitis que pueden ser mortales](https://www.abc.es/sevilla/provincia/ciento-infectados-virus-nilo-desarrolla-encefalitis-meningitis-20250525124208-nts.html) (Www.abc.es)
 
 ## 25-22 (measles)
+
+- [Australian measles vaccine advice reviewed amid global outbreak](https://www.abc.net.au/news/2025-05-30/children-measles-vaccination-schedule-research/105337274) (ABC News (AU))
+
+- [Marquette County Health Department reports measles case in UP](https://www.uppermichiganssource.com/2025/05/29/marquette-county-health-department-reports-measles-case-up/) (UpperMichigansSource.com)
+
+- [Eastern Iowa public health urge residents to vaccinate as measles cases rise nationwide](https://cbs2iowa.com/news/local/eastern-iowa-public-health-urge-residents-to-vaccinate-as-measles-cases-rise-nationwide) (KGAN TV)
+
+- [Confirmed case of measles prompts public alert to potential exposures in Edmonton | Alberta Health Services](https://www.albertahealthservices.ca/news/Page19042.aspx) (Albertahealthservices.ca)
+
+- [Indian WHO surveillance network to close, as doctors warn of impact on measles and polio](https://www.bmj.com/content/389/bmj.r1114) (The BMJ)
+
+- [Optimized Grasshopper Optimisation Algorithm enabled DETR (DEtection TRansformer) model for skin disease classification](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323920) (Plos.org)
+
+- [Almost 70 per cent of Canadians surveyed say child vaccines should be mandatory: poll](https://www.nationalobserver.com/2025/05/29/news/almost-70-cent-canadians-surveyed-say-child-vaccines-should-be-mandatory-poll) (National Observer)
+
+- [New Texas Bill Makes It Easier to Request Vaccine Exemptions](https://www.today.com/video/texas-bill-makes-it-easier-to-request-vaccine-exemptions-for-kids-240516677785) (TODAY)
+
+- [Southern Alberta's 472 confirmed measles cases 'tip of the iceberg,' health official says](https://www.cbc.ca/news/canada/calgary/southern-alberta-measles-cases-tip-of-iceberg-1.7546237) (CBC News)
 
 - [Dr. Donald Trump Declares That Autism Doesn’t ‘Occur Naturally’](https://www.techdirt.com/2025/05/28/dr-donald-trump-declares-that-autism-doesnt-occur-naturally/) (Techdirt)
 
@@ -158,6 +196,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (malaria)
 
+- [Sudan war exacerbates risk of cholera and malaria: UNICEF](https://www.globalsecurity.org/military/library/news/2025/05/mil-250528-unnews04.htm) (Globalsecurity.org)
+
 - [Hernany Lima: «Meu irmán morrrería por malaria se quedase en Guinea-Bissau»](https://www.lavozdegalicia.es/noticia/carballo/2025/05/29/meu-irman-morrreria-malaria-quedase-guinea-bissau/0003_202505C29C8994.htm) (Lavozdegalicia.es)
 
 - [Hernany Lima: «Meu irmán morrería por malaria se quedase en Guinea-Bissau»](https://www.lavozdegalicia.es/noticia/carballo/2025/05/29/meu-irman-morreria-malaria-quedase-guinea-bissau/0003_202505C29C8994.htm) (Lavozdegalicia.es)
@@ -185,6 +225,28 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in the Baird Global Consumer, Technology & Services Conference on June 3-5, 2025](https://www.globenewswire.com/news-release/2025/05/28/3089476/0/en/Helport-AI-to-Participate-in-the-Baird-Global-Consumer-Technology-Services-Conference-on-June-3-5-2025.html) (GlobeNewswire)
 
 ## 25-22 (h5n1)
+
+- [Loss Of MRNA, Bird Flu Vaccines Threatens Our Biosecurity](https://www.forbes.com/sites/judystone/2025/05/29/loss-of-mrna-bird-flu-vaccines-threatens-our-biosecurity/) (Forbes)
+
+- [Trump administration cancels $766 million Moderna contract to fight future pandemics including bird flu](https://www.nbcnews.com/health/health-news/trump-administration-cancels-766-million-moderna-contract-fight-future-rcna209707) (NBC News)
+
+- [Feds Pull Plug on Moderna's Bird Flu Vaccine](https://www.newser.com/story/369434/feds-pull-plug-on-modernas-bird-flu-vaccine.html) (Newser)
+
+- [Trump’s WHO Withdrawal Could Cost the US Dearly](https://www.project-syndicate.org/commentary/trump-who-withdrawal-would-weaken-us-influence-on-global-health-by-gordon-brown-2025-05) (Project Syndicate)
+
+- [Trump administration cancels Moderna contract to fight bird flu and other viruses](https://richmond.com/news/nation-world/article_9d8a09a6-c3fd-5b2c-8992-1c0a09e113e1.html) (Richmond.com)
+
+- [الولايات المتحدة تلغي عقدا بقيمة 590 مليون دولار مع موديرنا للقاح مضاد لإنفلونزا الطيور](https://www.aljazeera.net/health/2025/5/29/%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%aa%d9%84%d8%ba%d9%8a-%d8%b9%d9%82%d8%af%d8%a7-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-590) (Aljazeera.net)
+
+- [Trump administration yanks Moderna's bird flu vaccine research funding](https://www.cbsnews.com/news/moderna-bird-flu-vaccine-research-funding-trump-administration-yanks/) (CBS News)
+
+- [Bird flu’s deadly return: Are we flying blind into the next pandemic?](https://kevinmd.com/2025/05/bird-flus-deadly-return-are-we-flying-blind-into-the-next-pandemic.html) (Kevinmd.com)
+
+- [Trump Admin Cancels $766 Million Moderna Contract To Fight Pandemic Flu](https://www.huffpost.com/entry/flu-vaccine-canceled-moderna-trump-admin_n_68382f1be4b0e2e0f9a1ad26) (HuffPost)
+
+- [Ο Κένεντι και ο Οζ εναντίον της Οτάβα: Μάχη για 400 στρουθοκαμήλους](https://www.alphafreepress.gr/2025/05/29/kosmos/o-kenenti-kai-o-oz-enantion-tis-otava-maxi-gia-400-strouthokamilous/) (Alphafreepress.gr)
+
+- [ממשל טראמפ מבטל חוזה ענק לחיסונים נגד שפעת העופות](https://www.ynet.co.il/health/article/h1bfo00bmlx) (Ynet)
 
 - [HHS Terminates Moderna’s $766 Million in mRNA Bird Flu Injection Contracts](https://www.globalresearch.ca/hhs-terminates-moderna-bird-flu-injection/5888691) (Globalresearch.ca)
 
@@ -219,6 +281,12 @@ Source: [News API](https://newsapi.org/)
 - [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
 
 ## 25-22 (dengue)
+
+- [Lotta alla zanzara tigre, misure prevenzione a Fano e Pesaro](https://www.ansa.it/marche/notizie/2025/05/29/lotta-alla-zanzara-tigre-misure-prevenzione-a-fano-e-pesaro_5a7c827f-184a-4b69-8119-b269a9463eca.html) (ANSA.it)
+
+- [Dengue: ಕರ್ನಾಟಕದಲ್ಲಿ ಸಾವಿರದ ಗಡಿ ದಾಟಿದ ಡೆಂಘಿ ಪ್ರಕರಣ; ಪೋಷಕರೇ ಮಕ್ಕಳ ಬಗ್ಗೆ ಎಚ್ಚರ!](https://tv9kannada.com/health/dengue-cases-rising-in-karnataka-parents-should-aware-of-child-health-care-1030969.html) (Tv9kannada.com)
+
+- [Emraan Hashmi tests positive for dengue during 'OG' shoot; experts list symptoms amid early monsoon surge](https://www.indiatimes.com/trending/emraan-hashmi-tests-positive-for-dengue-during-og-shoot-experts-list-symptoms-amid-early-monsoon-surge-659889.html) (The Times of India)
 
 - [Norte de SP lidera epidemia de dengue, mas pior distrito fica no sul](https://www.metropoles.com/sao-paulo/epidemia-dengue-sao-paulo) (Metropoles.com)
 
@@ -2590,8 +2658,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
 
-- ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
-
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2611,8 +2677,6 @@ Source: [News API](https://newsapi.org/)
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
-
-- [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
 ## 25-16 (meningitis)
 
@@ -2782,20 +2846,6 @@ Source: [News API](https://newsapi.org/)
 
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
-- [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
-
-- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
-
-- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
-
-- [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
-
-- [Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)](https://www.memeorandum.com/250413/p15) (Memeorandum.com)
-
-- [Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US](https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363) (ABC News)
-
-- [Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)](https://www.memeorandum.com/250413/p14) (Memeorandum.com)
-
 ## 25-16 (malaria)
 
 - [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
@@ -2857,8 +2907,6 @@ Source: [News API](https://newsapi.org/)
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
-
-- [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 

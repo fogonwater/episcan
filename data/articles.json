@@ -1,8 +1,602 @@
 {
-  "last_updated": "2025-05-30 07:07",
-  "count_articles_total": 1319,
-  "count_articles_new": 19,
+  "last_updated": "2025-05-30 19:06",
+  "count_articles_total": 1342,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 21689,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Paige Cockburn",
+      "title": "Australian measles vaccine advice reviewed amid global outbreak",
+      "description": "Some Australian babies could face an increased risk of measles infection because of current vaccination guidelines, according to new research suggesting babies as young as four months may need to be vaccinated.",
+      "url": "https://www.abc.net.au/news/2025-05-30/children-measles-vaccination-schedule-research/105337274",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dfb7df499728810fed9da4ee84d8bef3?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=51&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-29 18:55:15",
+      "content": "Some Australian babies could face an increased risk of measles infection because of current vaccination guidelines, according to new research which suggests babies as young as four months may need to\u2026 [+6293 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.766315",
+      "internal_id": "9c055a3ec496ee47d7d9ea4fa6ec674dad4fc5b1a42fcc715cd22c64a37e8403",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21693,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UpperMichigansSource.com",
+      "author": "Tv6 News Team",
+      "title": "Marquette County Health Department reports measles case in UP",
+      "description": "This is the first measles case in the U.P. in 2025. The MCHD says it\u2019s the first measles case in the county in 30 years.",
+      "url": "https://www.uppermichiganssource.com/2025/05/29/marquette-county-health-department-reports-measles-case-up/",
+      "urlToImage": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/RTCRCVUTORA53ARFPVE7UU7GMU.jpg?auth=70737ba0907e2e88b047b01318cfadfb3585bbcbbc2eef2a8cb42e34782f7a0d&width=1200&height=600&smart=true",
+      "publishedAt": "2025-05-29 18:53:52",
+      "content": "MARQUETTE COUNTY, Mich. (WLUC) - Marquette County Health Department has confirmed a measles case in a Marquette County resident, according to a Thursday release. This is the first measles case in th\u2026 [+3097 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.874654",
+      "internal_id": "f83e7da60c1f7d31a7b30342339ad4b13dee1ef167c579b063a8f45b44e6fe5e",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21695,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KGAN TV",
+      "author": "Iowa's News Now Staff",
+      "title": "Eastern Iowa public health urge residents to vaccinate as measles cases rise nationwide",
+      "description": "Eastern Iowa's three most populated counties are urging you to be vaccinated for measles.Public health leaders in Johnson, Black Hawk and Linn Counties say the",
+      "url": "https://cbs2iowa.com/news/local/eastern-iowa-public-health-urge-residents-to-vaccinate-as-measles-cases-rise-nationwide",
+      "urlToImage": "https://cbs2iowa.com/resources/media2/16x9/1920/986/0x98/90/14c6ac9b-95c7-479f-b86a-a63743d51624-thumbnail_MeaslesPrevention.jpg",
+      "publishedAt": "2025-05-29 18:29:56",
+      "content": "CEDAR RAPIDS, Iowa Eastern Iowa's three most populated counties are urging you to be vaccinated for measles. Public health leaders in Johnson, Black Hawk and Linn Counties say the nation is seeing a\u2026 [+2234 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.920479",
+      "internal_id": "11135a245b912612ea766d3f8a75eab7d7644c1592a17f4d1c6d79078fc7254c",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21716,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u043d\u0435\u0441\u0441\u0430 \u041a\u0443\u0445\u0430\u0440\u0438\u0448\u0438\u043d\u0430",
+      "title": "\u0412\u044b\u044f\u0432\u043b\u0435\u043d\u044b \u043f\u0440\u043e\u0434\u043b\u0438\u0432\u0448\u0438\u0435 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e \u00ab\u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438\u00bb \u043c\u0443\u0442\u0430\u0446\u0438\u0438",
+      "description": "\u0414\u043b\u044f \u0440\u0430\u0441\u043a\u0440\u044b\u0442\u0438\u044f \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043c\u044b\u0441\u043b\u0430 \u043c\u0443\u0442\u0430\u0446\u0438\u0439 \u0432 \u0433\u0435\u043d\u0430\u0445 pla \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u0438\u0437\u0443\u0447\u0438\u043b\u0438 \u043e\u0431\u0440\u0430\u0437\u0446\u044b \u043d\u044b\u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0444\u043e\u0440\u043c Yersinia pestis.",
+      "url": "https://news.mail.ru/society/66353490/",
+      "urlToImage": "https://news.mail.ru/social_preview/66353490/?time=09771a14d8888eb6ee84098fe09e8df6",
+      "publishedAt": "2025-05-29 18:08:41",
+      "content": ", 29 . //. , , \u00ab \u00bb , - pla, , . - . () (Yersinia pestis). \u00ab \u00bb, VI-VII XIV-XV , , . , . , , , Yersinia pestis \u00ab\u00bb pla. . pla Yersinia pest\u2026 [+69 chars]",
+      "retrievedAt": "2025-05-30 19:06:08.873506",
+      "internal_id": "c89b257e29a60e3a24fc9f324bda4dac20bcaa85aa597e81748c9fd08087f739",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21719,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "J.A. G\u00f3mez",
+      "title": "Un \u00fanico gen logr\u00f3 que la bacteria de la peste se adaptara y causara la pandemia m\u00e1s mort\u00edfera de la historia",
+      "description": "Un estudio publicado en la revista 'Science' apunta que la bacteria que causaba la enfermedad ajust\u00f3 su virulencia y el tiempo que tardaba en matar. M\u00e1s informaci\u00f3n: Descubierto el lugar de origen de la peste negra, la pandemia m\u00e1s mort\u00edfera de la historia",
+      "url": "https://www.elespanol.com/ciencia/salud/20250529/unico-gen-logro-peste-negra-adaptara-sobreviviera-causara-pandemia-mortal-historia/1003743781052_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/05/29/actualidad/1003743781154_256021137_1706x960.jpg",
+      "publishedAt": "2025-05-29 18:07:04",
+      "content": "Los cient\u00edficos han documentado c\u00f3mo un solo gen en la bacteria que causa la peste bub\u00f3nica, Yersinia pestis, le permiti\u00f3 sobrevivir cientos de a\u00f1os al ajustar su virulencia y el tiempo que tardaba e\u2026 [+6098 chars]",
+      "retrievedAt": "2025-05-30 19:06:08.901977",
+      "internal_id": "9199fa436f8b7b1d80b32ed5cbf1018f53c16f86769cdbc9b6d3a08c23da0d89",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21715,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Evolution of a single gene allowed the plague to adapt, survive and kill much of humanity over many centuries",
+      "description": "Scientists have documented the way a single gene in the bacterium that causes bubonic plague, Yersinia pestis, allowed it to survive hundreds of years by adjusting its virulence and the length of time it took to kill its victims, but these forms of plague ult\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250529140133.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-29 18:01:33",
+      "content": "Scientists have documented the way a single gene in the bacterium that causes bubonic plague, Yersinia pestis, allowed it to survive hundreds of years by adjusting its virulence and the length of tim\u2026 [+5474 chars]",
+      "retrievedAt": "2025-05-30 19:06:08.864419",
+      "internal_id": "46fac39360f4f8a705f42a1b11875c7b519e6802f13758491b82438b23efcc5a",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21717,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "McMaster University",
+      "title": "How the evolution of a single gene allowed the plague to adapt, prolonging the pandemics",
+      "description": "Scientists have documented the way a single gene in the bacterium that causes bubonic plague, Yersinia pestis, allowed it to survive hundreds of years by adjusting its virulence and the length of time it took to kill its victims, but these forms of plague ult\u2026",
+      "url": "https://phys.org/news/2025-05-evolution-gene-plague-prolonging-pandemics.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/the-plague-bacillus-be.jpg",
+      "publishedAt": "2025-05-29 18:00:10",
+      "content": "Scientists have documented the way a single gene in the bacterium that causes bubonic plague, Yersinia pestis, allowed it to survive hundreds of years by adjusting its virulence and the length of tim\u2026 [+6427 chars]",
+      "retrievedAt": "2025-05-30 19:06:08.882647",
+      "internal_id": "10fb6d0e1970b888a8c74498734cc0431e21a9a1e46fea00dbd85ac7ad5b14f6",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21718,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "Laura Baisas",
+      "title": "How the bubonic plague has survived for centuries",
+      "description": "Scientists pinpoint a single gene. The post How the bubonic plague has survived for centuries appeared first on Popular Science.",
+      "url": "https://www.popsci.com/health/how-bubonic-plague-survived/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/05/plague-victims.png?quality=85",
+      "publishedAt": "2025-05-29 18:00:00",
+      "content": "The catastrophic loss of life at the hands of a single bacterium during the 14th century remains one of human historys most devastating events. Yersinia pestisthe bacterium that causes bubonic plague\u2026 [+6496 chars]",
+      "retrievedAt": "2025-05-30 19:06:08.891527",
+      "internal_id": "2b589a025aef151b24c434a755a3629a457fbf62be28a11b7ac133d0d3507ee9",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21709,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Lotta alla zanzara tigre, misure prevenzione a Fano e Pesaro",
+      "description": "A Fano, dove lo scorso anno si erano verificati circa 200 casi di Dengue (compresa la zona del Pesarese), la campagna di trattamenti anti zanzare iniziata a fine aprile \u00e8 entrata nella seconda fase. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2025/05/29/lotta-alla-zanzara-tigre-misure-prevenzione-a-fano-e-pesaro_5a7c827f-184a-4b69-8119-b269a9463eca.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/5/29/cbc835c77cb5c493b671aea6156cf705.jpg",
+      "publishedAt": "2025-05-29 17:31:18",
+      "content": "A Fano, dove lo scorso anno si erano verificati circa 200 casi di Dengue (compresa la zona del Pesarese), la campagna di trattamenti anti zanzare iniziata a fine aprile \u00e8 entrata nella seconda fas\u2026 [+3829 chars]",
+      "retrievedAt": "2025-05-30 19:06:05.121916",
+      "internal_id": "27e079e100958d7eecc5ae4ac9c8fe05d57cd286d1c2915e7731b27c73e34459",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21694,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Albertahealthservices.ca",
+      "author": "Alberta Health Services",
+      "title": "Confirmed case of measles prompts public alert to potential exposures in Edmonton | Alberta Health Services",
+      "description": "EDMONTON - Alberta Health Services (AHS) has been notified of a person with confirmed measles in the Edmonton Zone who has been in a public setting while infectious.",
+      "url": "https://www.albertahealthservices.ca/news/Page19042.aspx",
+      "urlToImage": "https://www.albertahealthservices.ca/images/icons/AHS-cross-icon_144x144.png",
+      "publishedAt": "2025-05-29 17:11:35",
+      "content": "EDMONTON - Alberta Health Services (AHS) has been notified of a person with confirmed measles in the Edmonton Zone who has been in a public setting while infectious. Additional locations may be relea\u2026 [+4355 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.883186",
+      "internal_id": "15f00ef5457aadde3a76c21ea303d0755b746f3dca5419920b1b11fee8ac50be",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21710,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tv9kannada.com",
+      "author": "Sushma Chakre",
+      "title": "Dengue: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb8\u0cbe\u0cb5\u0cbf\u0cb0\u0ca6 \u0c97\u0ca1\u0cbf \u0ca6\u0cbe\u0c9f\u0cbf\u0ca6 \u0ca1\u0cc6\u0c82\u0c98\u0cbf \u0caa\u0ccd\u0cb0\u0c95\u0cb0\u0ca3; \u0caa\u0ccb\u0cb7\u0c95\u0cb0\u0cc7 \u0cae\u0c95\u0ccd\u0c95\u0cb3 \u0cac\u0c97\u0ccd\u0c97\u0cc6 \u0c8e\u0c9a\u0ccd\u0c9a\u0cb0!",
+      "description": "\u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cad\u0cbe\u0cb0\u0cc0 \u0cae\u0cb3\u0cc6\u0caf\u0cbf\u0c82\u0ca6\u0cbe\u0c97\u0cbf \u0c86\u0cb0\u0ccb\u0c97\u0ccd\u0caf \u0cb8\u0cae\u0cb8\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc2 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb5\u0cc6. \u0c95\u0cca\u0cb5\u0cbf\u0ca1\u0ccd, \u0cae\u0cb2\u0cc7\u0cb0\u0cbf\u0caf\u0cbe, \u0c9a\u0cbf\u0c95\u0ca8\u0ccd \u0c97\u0cc1\u0ca8\u0ccd\u0caf\u0cbe, \u0ca1\u0cc6\u0c82\u0c98\u0cbf, \u0cb5\u0cc8\u0cb0\u0cb2\u0ccd \u0c9c\u0ccd\u0cb5\u0cb0 \u0cb9\u0cc0\u0c97\u0cc6 \u0ca8\u0cbe\u0ca8\u0cbe \u0cb0\u0cc0\u0ca4\u0cbf\u0caf \u0cb0\u0ccb\u0c97\u0c97\u0cb3\u0cc1 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cc1\u0ca4\u0ccd\u0ca4\u0cb2\u0cc7 \u0c87\u0cb5\u0cc6. \u0c88 \u0cae\u0cb3\u0cc6\u0c97\u0cbe\u0cb2\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cae\u0c95\u0ccd\u0c95\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0c86\u0cb0\u0ccb\u0c97\u0ccd\u0caf \u0cb8\u0cae\u0cb8\u0ccd\u0caf\u0cc6\u0c97\u0cb3\u0cc1 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbe\u0c97\u0cbf \u0c95\u0c82\u0ca1\u0cc1\u0cac\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0caa\u0ccb\u0cb7\u0c95\u0cb0\u0cc1 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cc1 \u0c8e\u0c9a\u0ccd\u0c9a\u0cb0 \u0cb5\u0cb9\u0cbf\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0c85\u0ca4\u0ccd\u0caf\u0c97\u0ca4\u0ccd\u0caf. \u0cae\u0c95\u0ccd\u2026",
+      "url": "https://tv9kannada.com/health/dengue-cases-rising-in-karnataka-parents-should-aware-of-child-health-care-1030969.html",
+      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2025/05/dengue-1.jpg",
+      "publishedAt": "2025-05-29 17:11:33",
+      "content": ", 29: (Dengue Cases) , 1 . . . , . . ?: . . . . . . . : , . . , , . 2 4 . . . ?: : . : . : . : . : . : , . : . : . . : . . * . * . * , . * * , . * 6 . : . , . , .\u2026 [+59 chars]",
+      "retrievedAt": "2025-05-30 19:06:05.172719",
+      "internal_id": "aca9f03ab5a975ed4aaa78c14c8fc67f39cc60429491d858ceee98abdb8ecaf7",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21687,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Ambika Shukla",
+      "title": "Woof! What Some People Are Getting Wrong About Strays",
+      "description": "India\u2019s Animal Birth Control programme has substantially brought down street dog numbers & rabies cases. Science & empathy, not misleading data & fear-mongering, should guide our action",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/health/woof-what-some-people-are-getting-wrong-about-strays/articleshow/121494896.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121494908,width-1070,height-580,imgsize-74928,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-05-29 15:30:49",
+      "content": "Indias Animal Birth Control programme has substantially brought down street dog numbers &amp; rabies cases. Science &amp; empathy, not misleading data &amp; fear-mongering, should guide our action",
+      "retrievedAt": "2025-05-30 19:06:01.850831",
+      "internal_id": "17080358bf7efff18ded2dd762d454046e3f641f8e1381587c82ab1d62eb19ff",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21700,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Judy Stone, Senior Contributor, \n Judy Stone, Senior Contributor\n https://www.forbes.com/sites/judystone/",
+      "title": "Loss Of MRNA, Bird Flu Vaccines Threatens Our Biosecurity",
+      "description": "Robert F. Kennedy Jr's HHS has cancelled Moderna's mRNA bird flu vaccine. That and new restrictions on Covid vaccines puts us at increased risk of deaths and a pandemic.",
+      "url": "https://www.forbes.com/sites/judystone/2025/05/29/loss-of-mrna-bird-flu-vaccines-threatens-our-biosecurity/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6837cb9e11df589c58d5584b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-29 15:29:10",
+      "content": "NEW YORK - DECEMBER 8: Chickens wait in a cage at the Chicken Market, a live chicken dealer and ... More slaughter house, December 8, 2004 in New York City. Recent outbreaks of the H5N1 strain of bir\u2026 [+7573 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.240069",
+      "internal_id": "8451410876c083ecd3a7f2026f5cb262583da24b3ee4a0c57d2f5233cbb3627e",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21699,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "The Associated Press",
+      "title": "Trump administration cancels $766 million Moderna contract to fight future pandemics including bird flu",
+      "description": "The Trump administration has canceled $766 million awarded to drugmaker Moderna Inc.",
+      "url": "https://www.nbcnews.com/health/health-news/trump-administration-cancels-766-million-moderna-contract-fight-future-rcna209707",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250529-moderna-vaccine-ch-1004-e30ecf.jpg",
+      "publishedAt": "2025-05-29 14:47:11",
+      "content": "The Trump administration has canceled $766 million awarded to drugmaker Moderna Inc. to develop a vaccine against potential pandemic influenza viruses, including the H5N1 bird flu. The company said \u2026 [+1729 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.216340",
+      "internal_id": "a17d0ed326d854af42689ba7d225eeb97db04809a9f9fab369eda572dc8e0206",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21690,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Kamala Thiagarajan",
+      "title": "Indian WHO surveillance network to close, as doctors warn of impact on measles and polio",
+      "description": "A major World Health Organization hub that provides surveillance of polio and other diseases in India is set to close. Doctors working for WHO\u2019s National Public Health Support Network (NPSN) say that the move has put the livelihood of 800 healthcare workers a\u2026",
+      "url": "https://www.bmj.com/content/389/bmj.r1114",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/389/8463.cover-source.jpg",
+      "publishedAt": "2025-05-29 14:31:07",
+      "content": "Kamala ThiagarajanTamil Nadu A major World Health Organization hub that provides surveillance of polio and other diseases in India is set to close. Doctors wo\u2026 [+832 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.796491",
+      "internal_id": "3776e986bbd8c7d3300bcd2565f258ea201f4890d94d352208aa903319d32863",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21696,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shakti Kundu, Yogesh Kumar Sharma, Khan Vajid Nabilal, Gopalsamy Venkatesan Samkumar, Sultan Mesfer Aldossary, Shanu Kuttan Rakesh, Nasratullah Nuristani, Arshad Hashmi",
+      "title": "Optimized Grasshopper Optimisation Algorithm enabled DETR (DEtection TRansformer) model for skin disease classification",
+      "description": "Skin disease classification is a choir cognate for early diagnosis and therapy. The novelty of this study lies in integrating the Grasshopper Optimisation Algorithm (GOA) with a DETR (DEtection TRansformer) model which is developed for the classification of s\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323920",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323920.g018&size=inline",
+      "publishedAt": "2025-05-29 14:00:00",
+      "content": "3.1. Dataset The Skin disease dataset contains 1601 images across nine classes of skin ailments; Acne, Chickenpox, Dermatitis Eczema Hives Measles Monkeypox Normal Psoriasis. This dataset consists o\u2026 [+27188 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.965730",
+      "internal_id": "40ed4b1673ee17dfa5ca9faa41f00d5d332d76fbeb0818e7174c6405e8bfbdac",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21714,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Li Ping Wong, Haridah Alias, Hai Yen Lee, Qinjian Zhao, Zhiwen Huang, Zhijian Hu, Yulan Lin",
+      "title": "Investigating post-COVID-19 confidence in emergency use authorization vaccines: A hypothetical case of mpox",
+      "description": "Author summary The COVID-19 pandemic has shaped how people view vaccines, especially those approved quickly for emergencies. This study explores how these experiences affect trust in a potential mpox vaccine in China. A nationwide survey of 2,000 people found\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013037",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013037.g002&size=inline",
+      "publishedAt": "2025-05-29 14:00:00",
+      "content": "Abstract Background The COVID-19 pandemic has profoundly influenced public trust in vaccines, particularly those authorized under Emergency Use Authorization (EUA). In light of the recent monkeypox\u2026 [+59624 chars]",
+      "retrievedAt": "2025-05-30 19:06:07.720204",
+      "internal_id": "dd5f3973a62ec96a235a9132a76dae2da7392f5a5d98deaf77cef75dbb3fde72",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21692,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Hannah Alberga",
+      "title": "Almost 70 per cent of Canadians surveyed say child vaccines should be mandatory: poll",
+      "description": "A new poll suggests nearly 70 per cent of Canadians support mandatory childhood vaccinations.",
+      "url": "https://www.nationalobserver.com/2025/05/29/news/almost-70-cent-canadians-surveyed-say-child-vaccines-should-be-mandatory-poll",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/05/29/d6e79a2bd209575d531b51465b3cd4752381f7ecd9084852673291c6d65e2754.jpg",
+      "publishedAt": "2025-05-29 13:50:54",
+      "content": "A new poll suggests nearly 70 per cent of Canadians support mandatory childhood vaccinations. The Angus Reid Institute survey comes as a measles outbreak touches several provinces, primarily infecti\u2026 [+1345 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.851356",
+      "internal_id": "b9cf97f48b0df62af154bb4a7e24a86270ff77c6b11973b0ca5328727c51f150",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21707,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman with Newser.AI",
+      "title": "Feds Pull Plug on Moderna's Bird Flu Vaccine",
+      "description": "The federal government is canceling a $766 million contract with Moderna to develop an mRNA-based vaccine for pandemic flu, including the H5N1 bird flu. The Department of Health and Human Services cited concerns about the safety of mRNA technology as the main\u2026",
+      "url": "https://www.newser.com/story/369434/feds-pull-plug-on-modernas-bird-flu-vaccine.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1613336-12-20250529081917.jpeg",
+      "publishedAt": "2025-05-29 13:01:00",
+      "content": "The federal government is canceling a $766 million contract with Moderna to develop an mRNA-based vaccine for pandemic flu, including the H5N1 bird flu. The Department of Health and Human Services ci\u2026 [+703 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.364609",
+      "internal_id": "aca04ab147b12ce9e631a8f6f1293822ede81db6fd5aca038fddcd11c94ccc01",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21697,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Project Syndicate",
+      "author": "Gordon Brown",
+      "title": "Trump\u2019s WHO Withdrawal Could Cost the US Dearly",
+      "description": "COVID-19 may be a distant memory for many Americans, but the spread of another infectious disease \u2013 H5N1 bird flu \u2013 in the United States highlights the need for pandemic preparedness. Instead, President Donald Trump\u2019s plan to withdraw the US from the World He\u2026",
+      "url": "https://www.project-syndicate.org/commentary/trump-who-withdrawal-would-weaken-us-influence-on-global-health-by-gordon-brown-2025-05",
+      "urlToImage": "https://webapi.project-syndicate.org/library/cd39c783a08d5a4b546c3547dceeed14.2-1-super.1.jpg",
+      "publishedAt": "2025-05-29 12:54:34",
+      "content": "COVID-19 may be a distant memory for many Americans, but the spread of another infectious disease H5N1 bird flu in the United States highlights the need for pandemic preparedness. Instead, President \u2026 [+7387 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.198276",
+      "internal_id": "7f518602b9a801059914c33c52474c3db55bf3814fc1d0abf4549e199cc00ea2",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21691,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "New Texas Bill Makes It Easier to Request Vaccine Exemptions",
+      "description": "A new bill from the Texas legislature, that still needs a signature from Gov. Greg Abbott to become law, would make it easier for parents in the state to apply for vaccine exemptions for their children. It comes amid the ongoing measles outbreak across the Un\u2026",
+      "url": "https://www.today.com/video/texas-bill-makes-it-easier-to-request-vaccine-exemptions-for-kids-240516677785",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_05/1748521915848_tdy_health_8a_anne_texas_vaccines_250529_1920x1080-xonvgt.jpg",
+      "publishedAt": "2025-05-29 12:32:01",
+      "content": "A new bill from the Texas legislature, that still needs a signature from Gov. Greg Abbott to become law, would make it easier for parents in the state to apply for vaccine exemptions for their childr\u2026 [+163 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.834321",
+      "internal_id": "9f6b5722d2b16181d7da5d267de16931929f7ac03f1f0f278c64f30bac85b6b1",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21706,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "The Associated Press",
+      "title": "Trump administration cancels Moderna contract to fight bird flu and other viruses",
+      "description": "Health Secretary Robert F. Kennedy Jr. has expressed deep skepticism regarding mRNA vaccines, despite real-world evidence that the vaccines are safe and saved millions of lives.",
+      "url": "https://richmond.com/news/nation-world/article_9d8a09a6-c3fd-5b2c-8992-1c0a09e113e1.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/d8/9d8a09a6-c3fd-5b2c-8992-1c0a09e113e1/68384596db019.preview.jpg?crop=1640%2C862%2C68%2C96&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-29 12:30:00",
+      "content": "The Trump administration has canceled $766 million awarded to drugmaker Moderna Inc. to develop a vaccine against potential pandemic influenza viruses, including the H5N1 bird flu. The company said \u2026 [+2069 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.356267",
+      "internal_id": "cb44c54a856cf550462a9f9829b654fa9eaa12427becd7363f22bc6ef13715f1",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21702,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u0644\u063a\u064a \u0639\u0642\u062f\u0627 \u0628\u0642\u064a\u0645\u0629 590 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u0645\u0639 \u0645\u0648\u062f\u064a\u0631\u0646\u0627 \u0644\u0644\u0642\u0627\u062d \u0645\u0636\u0627\u062f \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631",
+      "description": "\u0623\u0644\u063a\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0631\u0626\u064a\u0633 \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u0628 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621\u060c \u0639\u0642\u062f\u0627 \u0628\u0642\u064a\u0645\u0629 590 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u0645\u0639 \u0634\u0631\u0643\u0629 \u0645\u0648\u062f\u064a\u0631\u0646\u0627 \u0644\u062a\u0637\u0648\u064a\u0631 \u0644\u0642\u0627\u062d \u0645\u0636\u0627\u062f \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
+      "url": "https://www.aljazeera.net/health/2025/5/29/%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%aa%d9%84%d8%ba%d9%8a-%d8%b9%d9%82%d8%af%d8%a7-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-590",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2020/12/RTX86EWY.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-05-29 12:01:00",
+      "content": "-19 () 590 . . 17 / (mRNA) 51 (H5N1) . . 300 . \" 1/2 5 (H5) \". \" (mRNA) \". \" \" . -19 . \" mRNA . mRNA\".",
+      "retrievedAt": "2025-05-30 19:06:04.300426",
+      "internal_id": "a7ace80ad7ef3ca4cef111f081b7d531db3af19c80e72ad5cca2266dc8946d37",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21698,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Trump administration yanks Moderna's bird flu vaccine research funding",
+      "description": "The Trump administration has canceled $766 million awarded to Moderna to develop a vaccine against potential pandemic influenza viruses, including the H5N1 bird flu.",
+      "url": "https://www.cbsnews.com/news/moderna-bird-flu-vaccine-research-funding-trump-administration-yanks/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/10/a7243e07-401a-4ef7-bf5c-84ca0bc145e0/thumbnail/1200x630/5f1b85bec0d10abb60407dbd87722b1e/moderna-building-cambridge.jpg?v=0ec0a9b0c45ecf3b0dd269ffc8f350b0",
+      "publishedAt": "2025-05-29 11:00:49",
+      "content": "The Trump administration has canceled $766 million awarded to drugmaker Moderna Inc. to develop a vaccine against potential pandemic influenza viruses, including the H5N1 bird flu. The company said\u2026 [+3097 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.207791",
+      "internal_id": "2aaadf060af6ecc54d5b66755cb97c5f3a2c81097654e8de4ef5fba9d3323bb9",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21703,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Tista S. Ghosh, MD, MPH",
+      "title": "Bird flu\u2019s deadly return: Are we flying blind into the next pandemic?",
+      "description": "Scientists have known about bird flu (H5N1) for decades as a virus that primarily affects birds. Until suddenly, one day, it didn\u2019t. In March 2024, H5N1 showed up somewhere very unexpected\u2014in dairy cows in Texas (and their milk). And then, the virus started j\u2026",
+      "url": "https://kevinmd.com/2025/05/bird-flus-deadly-return-are-we-flying-blind-into-the-next-pandemic.html",
+      "urlToImage": "https://kevinmd.com/wp-content/uploads/6742ff30-3696-4dba-b481-9dd7bb401b24-1024x683.png",
+      "publishedAt": "2025-05-29 11:00:23",
+      "content": "Scientists have known about bird flu (H5N1) for decades as a virus that primarily affects birds. Until suddenly, one day, it didn\u2019t. In March 2024, H5N1 showed up somewhere very unexpectedin dairy co\u2026 [+3946 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.330719",
+      "internal_id": "f0276f81e237f7f6673e2b76ee89673a63ce5aa137584585520e56ffb1e4b00c",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21688,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Southern Alberta's 472 confirmed measles cases 'tip of the iceberg,' health official says",
+      "description": "As southern Alberta battles its worst measles outbreak in decades, some doctors are warning the virus is more rampant than the case counts show and they're now struggling to keep up with demand.",
+      "url": "https://www.cbc.ca/news/canada/calgary/southern-alberta-measles-cases-tip-of-iceberg-1.7546237",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-29 11:00:00",
+      "content": "As southern Alberta battles its worst measles outbreak in decades, some doctors are warning the virus is more rampant than the case counts show and they're now struggling to keep up with demand. As \u2026 [+8144 chars]",
+      "retrievedAt": "2025-05-30 19:06:02.757820",
+      "internal_id": "56293740b69d80d4ac83ce266a0f3c77bb69e132c9d64a96bb3d7cab1aa90e04",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21712,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Sudan war exacerbates risk of cholera and malaria: UNICEF",
+      "description": "The UN Children's Fund (UNICEF) has warned of an escalating public health crisis in Sudan, as conflict and mass displacement continue to drive a surge in disease, particularly cholera and malaria.",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250528-unnews04.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-05-29 10:45:18",
+      "content": "28 May 2025 - The UN Children's Fund (UNICEF) has warned of an escalating public health crisis in Sudan, as conflict and mass displacement continue to drive a surge in disease, particularly cholera a\u2026 [+3032 chars]",
+      "retrievedAt": "2025-05-30 19:06:06.524758",
+      "internal_id": "da41c49b52745143672c4a084637d8a48057b5f83008c647800b86ddd7344c8e",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21711,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Sanidade administrar\u00e1 desde el lunes la vacuna de la meningitis B para proteger de la gonorrea a la poblaci\u00f3n vulnerable",
+      "description": "La Conseller\u00eda adopta esta decisi\u00f3n tras observar un incremento de la incidencia anual de esta enfermedad en Galicia y estima la poblaci\u00f3n diana en 10.000 personas",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2025/05/29/sanidade-administrara-lunes-vacuna-contra-meningitis-b-proteger-gonorrea-poblacion-vulnerable/00031748511369794683516.htm",
+      "urlToImage": "https://img.lavdg.com/sc/1BM01iMyLbEydwfoEtsgGOGZZjM=/1280x/2025/05/29/00121748514721962387524/Foto/j_20250529_123019000.jpg",
+      "publishedAt": "2025-05-29 10:32:00",
+      "content": "La Xunta proteger\u00e1 de forma pionera a la poblaci\u00f3n frente a la gonorrea con una vacuna destinada a la inmunizaci\u00f3n de la meningitis B. As\u00ed, desde el pr\u00f3ximo 2 de junio la Conseller\u00eda de Sanidade come\u2026 [+2731 chars]",
+      "retrievedAt": "2025-05-30 19:06:05.783567",
+      "internal_id": "bb3c6e8e52063f4b8269040debde0d48f41a8876e96ad96fd6a9eaa5cad72b55",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21704,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "Trump Admin Cancels $766 Million Moderna Contract To Fight Pandemic Flu",
+      "description": "The cancelation came as Moderna announced positive interim results from an early-stage trial of a new shot.",
+      "url": "https://www.huffpost.com/entry/flu-vaccine-canceled-moderna-trump-admin_n_68382f1be4b0e2e0f9a1ad26",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6836d9d3150000ea00886a01.jpeg?cache=pTUyj6vZS6&ops=1200_630",
+      "publishedAt": "2025-05-29 10:04:20",
+      "content": "The Trump administration has canceled $766 million awarded to drugmaker Moderna Inc. to develop a vaccine against potential pandemic influenza viruses, including the H5N1 bird flu. The company said \u2026 [+3381 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.339365",
+      "internal_id": "7e8f7e3e1652aac5e7927e5cb13e080ff232a060244c722096e19faf0059667d",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21701,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03b1\u03b9 \u03bf \u039f\u03b6 \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03c4\u03b7\u03c2 \u039f\u03c4\u03ac\u03b2\u03b1: \u039c\u03ac\u03c7\u03b7 \u03b3\u03b9\u03b1 400 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03bf\u03c5\u03c2",
+      "description": "\u03a3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03c3\u03b5 \u03c6\u03ac\u03c1\u03bc\u03b1 \u03c4\u03b7\u03c2 \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u039a\u03bf\u03bb\u03bf\u03cd\u03bc\u03c0\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd. \u039f \u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2 \u03b4\u03b9\u03ad\u03c4\u03b1\u03be\u03b5 \u03c4\u03b7\u03bd \u03b5\u03be\u03bf\u03bb\u03cc\u03b8\u03c1\u03b5\u03c5\u03c3\u03b7 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bd\u03c4\u03ac\u03b4\u03c9\u03bd \u03ac\u03bb\u03bb\u03c9\u03bd",
+      "url": "https://www.alphafreepress.gr/2025/05/29/kosmos/o-kenenti-kai-o-oz-enantion-tis-otava-maxi-gia-400-strouthokamilous/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2025/05/Robert-F.-Kennedy-Jr3.jpg",
+      "publishedAt": "2025-05-29 08:59:54",
+      "content": ". . . , ; 400 . : H5N1, . , Universal Ostrich Farms , , . \u00ab\u00bb , . , . \u00ab \u00bb, (CFIA), . . , Medicare Medicaid, , 900 . , , , \u00ab \u00bb. , . , H5N1 , , . , 8,7 2022 . , . , H5N1. , 69 468 . . , , , , . . \u00ab \u2026 [+162 chars]",
+      "retrievedAt": "2025-05-30 19:06:04.277282",
+      "internal_id": "a667df18a504f9cdf90e853bbe0fa86529e704a4a59c5f162061e3e80d200f6f",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21708,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Sneha Kumari",
+      "title": "Emraan Hashmi tests positive for dengue during 'OG' shoot; experts list symptoms amid early monsoon surge",
+      "description": "Actor Emraan Hashmi started feeling unwell on the set of his Telugu debut, 'OG,' and experienced dengue-like symptoms. Following this, the actor got the necessary tests done and discovered that he is dengue positive. Experts share early symptoms and risks.",
+      "url": "https://www.indiatimes.com/trending/emraan-hashmi-tests-positive-for-dengue-during-og-shoot-experts-list-symptoms-amid-early-monsoon-surge-659889.html",
+      "urlToImage": "https://im.indiatimes.in/content/template/share/659889.jpg",
+      "publishedAt": "2025-05-29 08:12:33",
+      "content": "With the onset of early monsoon showers in Mumbai, there has been a spike in waterborne diseases in the city. Amid the surge, Bollywood actor Emraan Hashmi tested positive for dengue on Wednesday. \u2026 [+4270 chars]",
+      "retrievedAt": "2025-05-30 19:06:05.089036",
+      "internal_id": "54206c81673f55dadfabffdd032171f91dc761bdb3296ed2f35329cdfa4fcc8b",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21713,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Como est\u00e3o crian\u00e7as com microcefalia, 10 anos ap\u00f3s a epidemia de zika",
+      "description": "As mulheres foram as principais v\u00edtimas do surto de microcefalia por zika que marcou o Brasil entre 2015 e 2016. Abandonadas pelos maridos, muitas tiveram que deixar de trabalhar e se tornaram as principais cuidadoras das crian\u00e7as afetadas pelo v\u00edrus - mas pe\u2026",
+      "url": "https://www.bbc.com/portuguese/articles/cm2612jey3qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/eefd/live/e0c21d40-326c-11f0-96c3-cf669419a2b0.jpg",
+      "publishedAt": "2025-05-29 07:32:35",
+      "content": "Cr\u00e9dito, Felix Lima/BBC Brasil Legenda da foto, Anne Caroline Rosa com Mois\u00e9s e Maria: m\u00e3es solo s\u00e3o maioria das cuidadoras de crian\u00e7as com s\u00edndrome cong\u00eanita pelo zika Article informationA\u2026 [+16494 chars]",
+      "retrievedAt": "2025-05-30 19:06:07.101333",
+      "internal_id": "886bb2353c9d73b5f19f4971261ef1b7c5bff99e94b337ac9364d6bb44fe3cc0",
+      "publishedAtLabel": "May 29"
+    },
+    {
+      "id": 21705,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
+      "title": "\u05de\u05de\u05e9\u05dc \u05d8\u05e8\u05d0\u05de\u05e4 \u05de\u05d1\u05d8\u05dc \u05d7\u05d5\u05d6\u05d4 \u05e2\u05e0\u05e7 \u05dc\u05d7\u05d9\u05e1\u05d5\u05e0\u05d9\u05dd \u05e0\u05d2\u05d3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
+      "description": "\u05de\u05de\u05e9\u05dc \u05d8\u05e8\u05d0\u05de\u05e4 \u05d1\u05d9\u05d8\u05dc \u05d0\u05ea \u05d4\u05d4\u05e1\u05db\u05de\u05d9\u05dd \u05e2\u05dd \u05de\u05d5\u05d3\u05e8\u05e0\u05d4 \u05d1\u05d4\u05d9\u05e7\u05e3 \u05e9\u05dc 766 \u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05d3\u05d5\u05dc\u05e8 \u05dc\u05e4\u05d9\u05ea\u05d5\u05d7 \u05d7\u05d9\u05e1\u05d5\u05df \u05d7\u05d3\u05e9 \u05dc\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05e1\u05d5\u05d2 H5N1, \u05d1\u05d8\u05e2\u05e0\u05d4 \u05e9\u05d4\u05e4\u05e8\u05d5\u05d9\u05e7\u05d8 \"\u05dc\u05d0 \u05e2\u05de\u05d3 \u05d1\u05e1\u05d8\u05e0\u05d3\u05e8\u05d8\u05d9\u05dd \u05d4\u05de\u05d3\u05e2\u05d9\u05d9\u05dd \u05d5\u05d1\u05e6\u05d9\u05e4\u05d9\u05d5\u05ea \u05d4\u05d1\u05d8\u05d9\u05d7\u05d5\u05ea\". \u05de\u05d5\u05d3\u05e8\u05e0\u05d4: \"\u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05d4\u05d1\u05d9\u05e0\u05d9\u05d9\u05dd \u05d7\u05d9\u05d5\u05d1\u05d9\u05d5\u05ea\". \u05e4\u05e8\u05d5\u05e4' \u05e0\u05d3\u05d1 \u05d3\u05d5\u05d9\u05d3\u05d5\u05d1\u05d9\u05e5', \u05e8\u05d0\u05e9 \u05ea\u05d7\u05d5\u05dd \u05de\u05d3\u05d9\u05e0\u05d9\u05d5\u05ea \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d1\u05de\u05e8\u05db\u05d6 \u05d8\u05d0\u05d5\u05d1: \"\u05d6\u05d5 \u05d7\u2026",
+      "url": "https://www.ynet.co.il/health/article/h1bfo00bmlx",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/06/22/rk7clcxcq/rk7clcxcq_1_38_1000_563_0_large.jpg",
+      "publishedAt": "2025-05-29 07:19:40",
+      "content": ": \" (HHS), ' ', 766 , , H5N1. : 176 2024, 590 2025, - (BARDA), . , mRNA-1018, . \" , , . -, NIH -CDC, . . , . , \".",
+      "retrievedAt": "2025-05-30 19:06:04.347800",
+      "internal_id": "613e29188bf6e1430398b8ba1421fc08e04eea97f876fe4b572878fffaf80be0",
+      "publishedAtLabel": "May 29"
+    },
     {
       "id": 21675,
       "query": [
@@ -23641,186 +24235,6 @@
       "retrievedAt": "2025-04-15 07:07:50.132866",
       "internal_id": "ea85b4c7553bf8c029ecfee90b35f499684ab660d333575e5361874c6063616d",
       "publishedAtLabel": "Apr 14"
-    },
-    {
-      "id": 20369,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Alexander  Tin",
-      "title": "Former top health official criticizes RFK Jr. for downplaying measles deaths",
-      "description": "Dr. Peter Marks said that the deaths of unvaccinated children is \"just not acceptable.\"",
-      "url": "https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/11/90b30b1a-08a2-45f2-8100-a2c26bf50d1b/thumbnail/1200x630g2/9c8a482355ad301e50c3c8ad09ed3626/screenshot-2025-04-11-at-7-18-24-pm.png?v=653dd6912cdd8596c9bfea812c355f95",
-      "publishedAt": "2025-04-13 18:36:57",
-      "content": "The former top vaccines official at the Food and Drug Administration criticized Health and Human Services Secretary Robert F. Kennedy Jr. for downplaying the deaths of unvaccinated children from meas\u2026 [+5286 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.451185",
-      "internal_id": "acbf71017490690e23598bf89ebf7990a46760c2a463dc685cca1e4ef0c84ebd",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20401,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Measles explodes in Texas after stagnant vax funding",
-      "description": "Immunization programs nationwide have been left brittle by years of stagnant funding by federal, state and local governments. In Texas and elsewhere, this helped set the stage for the measles outbreak and fuelled its spread. Now cuts to federal funding threat\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-120261609,width-1200,height-630,imgsize-18828,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-04-13 18:32:14",
-      "content": "NEW YORK: The measles outbreak in West Texas didn't happen just by chance. The easily preventable disease, declared eliminated in the US in 2000, ripped through communities sprawling across more than\u2026 [+1765 chars]",
-      "retrievedAt": "2025-04-16 07:07:23.677959",
-      "internal_id": "c6a4050afa302a1a3b55d678475335e1e5f4462cf02d387d48737211c794cd11",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20402,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LancasterOnline",
-      "author": "NATHAN WILLISON | Staff Writer",
-      "title": "Pa. Department of Health reports measles case at WellSpan Ephrata",
-      "description": "The Pennsylvania Department of Health confirmed Sunday that a patient who tested positive for measles visited WellSpan Ephrata Community Hospital last week.",
-      "url": "https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/04/904de8f8-5ae1-11e4-80a3-001a4bcf6878/544947ba5df1d.image.jpg?crop=1296%2C680%2C0%2C91&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-04-13 18:30:00",
-      "content": "The Pennsylvania Department of Health confirmed Sunday that a patient who tested positive for measles visited WellSpan Ephrata Community Hospital last week. In a statement, the Department of Healt\u2026 [+2321 chars]",
-      "retrievedAt": "2025-04-16 07:07:23.686512",
-      "internal_id": "ff55dceef0c44f1c2afff17f4b5f4a5b9414a9636b112377913838c6cfaa8c9e",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20375,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "Nicole Simon",
-      "title": "Hochsicherheits-Forschung: Die Insel der gef\u00e4hrlichen Viren",
-      "description": "Vogelgrippe, Mpox, West-Nil-Virus: Erreger, die auch Menschen gef\u00e4hrlich werden, breiten sich aus. Auf einer kleinen Ostsee-Insel werden sie in Hochsicherheitslaboren erforscht.",
-      "url": "https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html",
-      "urlToImage": "https://image.stern.de/35622134/t/Ja/v5/w1440/r1.7778/-/labor--die-verbotene-insel-picture-1331363350.jpg",
-      "publishedAt": "2025-04-13 16:07:00",
-      "content": "stern+ und Klassik Radio Selectstatt 11,96 nur 1",
-      "retrievedAt": "2025-04-14 19:06:11.793600",
-      "internal_id": "ec2297b3e7bfff31682edabb65faa969cda4b76700b9a03edca602d775d36cb6",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20371,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "NewsHound Ellen",
-      "title": "RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges",
-      "description": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.\u2019s tenure as Health and Human Services secretary. Now comes norovirus \u2013 just as Kennedy has gutted the very department that could help prevent it. \u2026",
-      "url": "https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/04/rfk_jr_for_041225.jpg",
-      "publishedAt": "2025-04-13 14:00:01",
-      "content": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.s tenure as Health and Human Services secretary. Now comes norovirus just as Kennedy ha\u2026 [+2016 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.550627",
-      "internal_id": "d91c82b2136fec9d25e850bc131ba6c7fa2330b7da7fc9ab6d5d894f53c86378",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20370,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)",
-      "description": "Ashleigh Fields / The Hill: Cassidy praises Kennedy for promoting measles vaccination amid outbreak \u2014 Sen. Bill Cassidy (R-La.) applauded Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for promoting measles vaccination amid a deadly outbrea\u2026",
-      "url": "https://www.memeorandum.com/250413/p15",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cassidybill_kennedyjrrobert_013025gn01_w.jpg?w=1280",
-      "publishedAt": "2025-04-13 13:40:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.498050",
-      "internal_id": "6123f00f0925900a3b0c63c925ac3ecbfb203786753a4f20e061cfb3fd3321df",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20373,
-      "query": [
-        "measles"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "LAURA UNGAR Associated Press, MICHELLE R. SMITH Associated Press, DEVI SHASTRI Associated Press",
-      "title": "Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US",
-      "description": "The measles outbreak in West Texas didn\u2019t happen just by chance",
-      "url": "https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363",
-      "urlToImage": "https://i.abcnewsfe.com/a/c4d4abf9-62bc-430b-a324-72c012437f1a/wirestory_5785985d6b74024b0502f6a2fc1576e2_16x9.jpg?w=1600",
-      "publishedAt": "2025-04-13 13:38:32",
-      "content": "The measles outbreak in West Texas didnt happen just by chance. The easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texa\u2026 [+11732 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.644028",
-      "internal_id": "2e5f56331173fc5fa0d9b9a57803e6b52464b1fe662910948f016ca20e652aee",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20372,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)",
-      "description": "Jonathan Cohn / The Bulwark: Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines \u2014 THREE PEOPLE HAVE DIED in Texas and more than five hundred have gotten sick in what is shaping up as the largest single measles outbreak in decades. And somehow Robert F\u2026",
-      "url": "https://www.memeorandum.com/250413/p14",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd298d746-2d84-4947-93bc-af640d3d8063_5797x3865.jpeg",
-      "publishedAt": "2025-04-13 13:30:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-04-14 19:06:09.578010",
-      "internal_id": "f65d274aac4f32d25cabcb92a7045b4507fc80a68b40b6b271d4a60c80bc6d29",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20374,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Entekhab.ir",
-      "author": "info@entekhab.ir",
-      "title": "\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc: \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u06a9\u0644\u06cc\u062f\u06cc \u0627\u06cc\u0646 \u062f\u0648 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0686\u06cc\u0633\u062a\u061f",
-      "description": "\u062f\u0631 \u062d\u0627\u0644\u06cc\u200c\u06a9\u0647 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0648 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u0632 \u0628\u0631\u062e\u06cc \u062c\u0647\u0627\u062a \u0628\u0647 \u0647\u0645 \u0634\u0628\u0627\u0647\u062a \u062f\u0627\u0631\u0646\u062f\u060c \u0627\u0645\u0627 \u0627\u0632 \u0646\u0638\u0631 \u0645\u0646\u0634\u0623\u060c \u0646\u062d\u0648\u0647\u200c\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0648 \u062a\u0623\u062b\u06cc\u0631\u0627\u062a \u0622\u0646\u200c\u0647\u0627 \u0628\u0631 \u0633\u0644\u0627\u0645\u062a \u0627\u0646\u0633\u0627\u0646\u060c \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u0686\u0634\u0645\u06af\u06cc\u0631\u06cc \u0628\u0627 \u06cc\u06a9\u062f\u06cc\u06af\u0631 \u062f\u0627\u0631\u0646\u062f. \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0627\u06cc \u0641\u0635\u0644\u06cc \u0648 \u0634\u0646\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0634\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0622\u0646 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc\u2026",
-      "url": "https://www.entekhab.ir/fa/news/860695/\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u0645\u0639\u0645\u0648\u0644\u06cc-\u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc-\u06a9\u0644\u06cc\u062f\u06cc-\u0627\u06cc\u0646-\u062f\u0648-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u0686\u06cc\u0633\u062a",
-      "urlToImage": "https://www.entekhab.ir/files/fa/news/1404/1/24/1951048_869.jpeg",
-      "publishedAt": "2025-04-13 12:33:04",
-      "content": "(Entekhab.ir) : . () . . \u00ab \u00bb . . . . :A . H5N1 H7N9 . :A B . H1N1 H3N2 . :. . :. . :. . :( ) . :. . :. :. . :. . :. () () . :(RIDT) . . . . .",
-      "retrievedAt": "2025-04-14 19:06:10.337362",
-      "internal_id": "fcc5b67b77011d09d8ad5ce5b4e96f27ffd88db2cb14727685c26ca917d197ab",
-      "publishedAtLabel": "Apr 13"
-    },
-    {
-      "id": 20368,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "John Johnson",
-      "title": "'It's Not Just Measles.' Whooping Cough Cases Spike",
-      "description": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among the stats: The CDC reported 2,116 cases in 2021, amid the pa\u2026",
-      "url": "https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1603965-12-20250413060002.jpeg",
-      "publishedAt": "2025-04-13 11:00:00",
-      "content": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among \u2026 [+1366 chars]",
-      "retrievedAt": "2025-04-14 19:06:08.670592",
-      "internal_id": "ea0306c30955d0bd3d3001c8b8af468bdcde70e928f2a2d5f512eb78b818ed90",
-      "publishedAtLabel": "Apr 13"
     }
   ]
 }
