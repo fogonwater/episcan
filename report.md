@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2025-05-30 19:06
-- **Most recent article:** 2025-05-29 18:55:15
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-05-31 07:06
+- **Most recent article:** 2025-05-30 06:09:50
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-16 | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 107 | 88 | 82 | 75 | 77 | 34 | 538 |
+| measles | 82 | 107 | 88 | 82 | 75 | 77 | 43 | 554 |
 | dengue | 29 | 16 | 32 | 26 | 24 | 26 | 22 | 175 |
 | chikungunya | 39 | 46 | 16 | 15 | 25 | 12 | 12 | 165 |
+| h5n1 | 9 | 15 | 15 | 11 | 21 | 46 | 30 | 147 |
 | malaria | 13 | 34 | 22 | 19 | 11 | 35 | 12 | 146 |
-| h5n1 | 8 | 15 | 15 | 11 | 21 | 46 | 27 | 143 |
-| mpox | 9 | 5 | 11 | 11 | 18 | 11 | 10 | 75 |
-| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 5 | 45 |
+| mpox | 10 | 5 | 11 | 11 | 18 | 11 | 14 | 80 |
+| meningitis | 7 | 10 | 7 | 3 | 7 | 6 | 6 | 46 |
 | zika | 7 | 2 | 3 | 6 | 3 | 10 | 8 | 39 |
 | rabies | 0 | 3 | 4 | 12 | 3 | 6 | 6 | 34 |
-| pertussis | 3 | 3 | 4 | 1 | 1 | 2 | 3 | 17 |
+| pertussis | 4 | 3 | 4 | 1 | 1 | 2 | 3 | 18 |
 | hpai | 5 | 1 | 2 | 3 | 1 | 2 | 1 | 15 |
 | typhoid | 3 | 3 | 2 | 1 | 1 | 0 | 2 | 12 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 8 | 10 |
 | leptospirosis | 1 | 0 | 2 | 4 | 1 | 0 | 0 | 8 |
-| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 5 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -51,6 +51,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue. Timor-Leste introduz método Wolbachia](https://observador.pt/2025/05/26/timor-leste-introduz-metodo-wolbachia-para-diminuir-dengue-e-chikungunya/) (Observador.pt)
 
 ## 25-22 (yersinia)
+
+- [Gen half Pest-Bakterium zu überleben](https://science.orf.at/stories/3230424/) (Science.orf.at)
+
+- [Выявлены продлившие две крупнейшие эпидемии чумы мутации](https://lenta.ru/news/2025/05/30/vyyavleny-prodlivshie-epidemiyu-chernoy-smerti-mutatsii/) (Lenta)
+
+- [Выяснилось, как бубонная чума адаптировалась к выживанию](https://news.mail.ru/society/66357261/) (Mail.ru)
 
 - [Выявлены продлившие эпидемию «черной смерти» мутации](https://news.mail.ru/society/66353490/) (Mail.ru)
 
@@ -92,6 +98,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (mpox)
 
+- [В Австралии зафиксировали первый случай нового штамма оспы обезьян](https://vz.ru/news/2025/5/30/1335499.html) (Vz.ru)
+
+- [В Австралии зафиксировали первый случай заражения новым штаммом оспы обезьян](https://tass.ru/obschestvo/24090957) (Tass.ru)
+
+- [Cebu: SIYUDAD SA TALISAY UG DAKBAYAN SA TALISAY ADUNAY KASO SA MPOX](https://rpnradio.com/cebu-siyudad-sa-talisay-ug-dakbayan-sa-talisay-adunay-kaso-sa-mpox/) (Rpnradio.com)
+
+- [Bacolod: No mpox in Negros Occidental – DOH](https://rpnradio.com/bacolod-no-mpox-in-negros-occidental-doh/) (Rpnradio.com)
+
 - [Investigating post-COVID-19 confidence in emergency use authorization vaccines: A hypothetical case of mpox](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013037) (Plos.org)
 
 - [Bacolod CHO issues health advisory on mpox](https://www.sunstar.com.ph/bacolod/bacolod-cho-issues-health-advisory-on-mpox) (Sunstar.com.ph)
@@ -114,6 +128,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (meningitis)
 
+- [Human Streptococcus suis Infections, South America, 1995–2024](https://wwwnc.cdc.gov/eid/article/31/7/24-1835_article) (Cdc.gov)
+
 - [Sanidade administrará desde el lunes la vacuna de la meningitis B para proteger de la gonorrea a la población vulnerable](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/29/sanidade-administrara-lunes-vacuna-contra-meningitis-b-proteger-gonorrea-poblacion-vulnerable/00031748511369794683516.htm) (Lavozdegalicia.es)
 
 - [Hospital doctor admits professional misconduct over patient’s death after dispute with nurse about dislodged breathing tube](https://www.independent.ie/irish-news/hospital-doctor-admits-professional-misconduct-over-patients-death-after-dispute-with-nurse-about-dislodged-breathing-tube/a1874134388.html) (Independent.ie)
@@ -126,6 +142,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (measles)
 
+- [Bay Area health officials warn of possible measles exposure](https://abc7news.com/post/bay-area-health-officials-warn-possible-measles-exposure/16594100/) (KGO-TV)
+
+- [Colorado confirms first measles outbreak of 2025 amid uptick in statewide cases](https://www.denver7.com/lifestyle/health/colorado-confirms-first-measles-outbreak-of-2025-as-cases-reach-numbers-not-seen-in-nearly-30-years) (Denver7.com)
+
+- [Bay Area health officials warn of possible measles exposures](https://www.ktvu.com/news/bay-area-health-officials-warn-possible-measles-exposures) (KTVU San Francisco)
+
+- [Another Colorado measles case tied to Turkish Airlines flight into DIA](https://www.denverpost.com/2025/05/29/colorado-measles-dia-turkish-airlines-denver/) (The Denver Post)
+
+- [Colorado health officials confirm seventh measles case, on flight with others infected](https://www.cbsnews.com/colorado/news/colorado-health-officials-confirm-seventh-measles-case-on-same-flight-as-two-other-infected/) (CBS News)
+
+- [Burke becomes 4th North Dakota county to report measles](https://www.inforum.com/health/burke-becomes-4th-north-dakota-county-to-report-measles) (INFORUM)
+
+- [Texas Lawmakers Are Passing Anti-Vax Policies in the Midst of a Measles Outbreak](https://www.esquire.com/news-politics/politics/a64919440/texas-measles-oklahoma-schools-montana-lab/) (esquire.com)
+
+- [Should childhood vaccinations be mandatory? Almost 70% of Canadians think so, according to a new poll](https://www.cbc.ca/news/health/measles-vaccination-poll-1.7547398) (CBC News)
+
 - [Australian measles vaccine advice reviewed amid global outbreak](https://www.abc.net.au/news/2025-05-30/children-measles-vaccination-schedule-research/105337274) (ABC News (AU))
 
 - [Marquette County Health Department reports measles case in UP](https://www.uppermichiganssource.com/2025/05/29/marquette-county-health-department-reports-measles-case-up/) (UpperMichigansSource.com)
@@ -133,6 +165,8 @@ Source: [News API](https://newsapi.org/)
 - [Eastern Iowa public health urge residents to vaccinate as measles cases rise nationwide](https://cbs2iowa.com/news/local/eastern-iowa-public-health-urge-residents-to-vaccinate-as-measles-cases-rise-nationwide) (KGAN TV)
 
 - [Confirmed case of measles prompts public alert to potential exposures in Edmonton | Alberta Health Services](https://www.albertahealthservices.ca/news/Page19042.aspx) (Albertahealthservices.ca)
+
+- [Earlier measles vaccine could help curb global outbreak](https://www.sciencedaily.com/releases/2025/05/250529124357.htm) (Science Daily)
 
 - [Indian WHO surveillance network to close, as doctors warn of impact on measles and polio](https://www.bmj.com/content/389/bmj.r1114) (The BMJ)
 
@@ -225,6 +259,12 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in the Baird Global Consumer, Technology & Services Conference on June 3-5, 2025](https://www.globenewswire.com/news-release/2025/05/28/3089476/0/en/Helport-AI-to-Participate-in-the-Baird-Global-Consumer-Technology-Services-Conference-on-June-3-5-2025.html) (GlobeNewswire)
 
 ## 25-22 (h5n1)
+
+- [I Guess He Showed Us! Kennedy Yanks Funds For Bird Flu Vaccine](https://crooksandliars.com/2025/05/i-guess-he-showed-us-kennedy-yanks-funds) (Crooksandliars.com)
+
+- [RFK Jr Terminates Moderna's $766 Million Bird Flu Vaccine Contract Citing 'Serious Health Concerns'](https://thepeoplesvoice.tv/rfk-jr-terminates-modernas-766-million-bird-flu-vaccine-contract-citing-serious-health-concerns/) (Thepeoplesvoice.tv)
+
+- [Gripe aviária: Secretaria de Saúde mantém risco baixo de transmissão e ativa plano de contingência](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2025-05-29/gripe-aviaria--secretaria-de-saude-mantem-risco-baixo-de-transmissao-e-ativa-plano-de-contingencia.html) (Ig.com.br)
 
 - [Loss Of MRNA, Bird Flu Vaccines Threatens Our Biosecurity](https://www.forbes.com/sites/judystone/2025/05/29/loss-of-mrna-bird-flu-vaccines-threatens-our-biosecurity/) (Forbes)
 
@@ -2658,6 +2698,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
 
+- ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
+
 ## 25-16 (mpox)
 
 - [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
@@ -2677,6 +2719,8 @@ Source: [News API](https://newsapi.org/)
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
+
+- [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
 ## 25-16 (meningitis)
 
@@ -2846,6 +2890,20 @@ Source: [News API](https://newsapi.org/)
 
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
+- [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
+
+- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
+
+- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
+
+- [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
+
+- [Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)](https://www.memeorandum.com/250413/p15) (Memeorandum.com)
+
+- [Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US](https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363) (ABC News)
+
+- [Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)](https://www.memeorandum.com/250413/p14) (Memeorandum.com)
+
 ## 25-16 (malaria)
 
 - [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
@@ -2907,6 +2965,8 @@ Source: [News API](https://newsapi.org/)
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
+
+- [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 
