@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-06-01 07:06
-- **Most recent article:** 2025-05-31 04:55:57
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-06-01 19:06
+- **Most recent article:** 2025-05-31 17:34:19
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 106 | 88 | 82 | 75 | 77 | 58 | 486 |
-| dengue | 15 | 32 | 26 | 24 | 26 | 27 | 150 |
-| h5n1 | 14 | 15 | 11 | 21 | 46 | 34 | 141 |
-| malaria | 34 | 22 | 19 | 11 | 35 | 16 | 137 |
-| chikungunya | 45 | 16 | 15 | 25 | 12 | 12 | 125 |
-| mpox | 5 | 11 | 11 | 18 | 11 | 16 | 72 |
+| measles | 101 | 88 | 82 | 75 | 77 | 62 | 485 |
+| dengue | 12 | 32 | 26 | 24 | 26 | 27 | 147 |
+| h5n1 | 14 | 15 | 11 | 21 | 46 | 35 | 142 |
+| malaria | 33 | 22 | 19 | 11 | 35 | 16 | 136 |
+| chikungunya | 39 | 16 | 15 | 25 | 12 | 12 | 119 |
+| mpox | 5 | 11 | 11 | 18 | 11 | 17 | 73 |
 | meningitis | 9 | 7 | 3 | 7 | 6 | 7 | 39 |
-| rabies | 3 | 4 | 12 | 3 | 6 | 8 | 36 |
+| rabies | 3 | 4 | 12 | 3 | 6 | 9 | 37 |
 | zika | 2 | 3 | 6 | 3 | 10 | 8 | 32 |
 | pertussis | 3 | 4 | 1 | 1 | 2 | 3 | 14 |
-| yersinia | 0 | 0 | 0 | 1 | 1 | 10 | 12 |
+| yersinia | 0 | 0 | 0 | 1 | 1 | 11 | 13 |
 | hpai | 1 | 2 | 3 | 1 | 2 | 1 | 10 |
 | typhoid | 3 | 2 | 1 | 1 | 0 | 2 | 9 |
 | leptospirosis | 0 | 2 | 4 | 1 | 0 | 1 | 8 |
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (yersinia)
 
+- [Black Death Bacterium Evolved to be Less Aggressive to Kill Victims Slowly](https://www.discovermagazine.com/the-sciences/black-death-bacterium-evolved-to-be-less-aggressive-to-kill-victims-slowly) (Discover Magazine)
+
 - [Descubren gen que ha agravado las peores pandemias de peste de la historia](https://forbes.com.mx/descubren-gen-que-ha-agravado-las-peores-pandemias-de-peste-de-la-historia/) (Forbes.com.mx)
 
 - [Вирулентность чумной палочки уменьшалась в ходе каждой пандемии](https://nplus1.ru/news/2025/05/30/natures-own-misanthropic-art) (Nplus1.ru)
@@ -80,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-22 (rabies)
 
+- [Arvada bat is Jefferson County’s first rabies case of 2025](https://www.denverpost.com/2025/05/31/arvada-bat-rabies-jefferson-county/) (The Denver Post)
+
 - [Exposed nucleoprotein inside rabies virus particle as an ideal target for real-time quantitative evaluation of rabies virus particle integrity in vaccine quality control](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013077) (Plos.org)
 
 - [Sarawak anti-rabies vaccinations to include cats, says Deputy Premier](https://www.thestar.com.my/news/nation/2025/05/30/sarawak-anti-rabies-vaccinations-to-include-cats-says-deputy-premier) (The Star Online)
@@ -105,6 +109,8 @@ Source: [News API](https://newsapi.org/)
 - [Health Ministry offers free Tdap vaccination for pregnant women](https://www.thestar.com.my/news/nation/2025/05/26/health-ministry-offers-free-tdap-vaccination-for-pregnant-women) (The Star Online)
 
 ## 25-22 (mpox)
+
+- [Sierra Leone limits physical contact at Mass amid mpox outbreak](https://www.catholicnewsagency.com/news/264469/sierra-leone-limits-physical-contact-at-mass-amid-mpox-outbreak) (Catholicnewsagency.com)
 
 - [Africa CDC urges aggressive action to curb mpox outbreak in southern Ethiopia](https://www.thestar.com.my/news/world/2025/05/31/africa-cdc-urges-aggressive-action-to-curb-mpox-outbreak-in-southern-ethiopia) (The Star Online)
 
@@ -155,6 +161,14 @@ Source: [News API](https://newsapi.org/)
 - [Menos del 1 por ciento de los infectados con el virus del Nilo desarrolla una encefalitis o meningitis que pueden ser mortales](https://www.abc.es/sevilla/provincia/ciento-infectados-virus-nilo-desarrolla-encefalitis-meningitis-20250525124208-nts.html) (Www.abc.es)
 
 ## 25-22 (measles)
+
+- [2 new confirmed cases of Measles in Peel Region, public health agency warns](https://www.cbc.ca/news/canada/toronto/2-new-confirmed-cases-of-measles-in-peel-region-public-health-agency-warns-1.7549111) (CBC News)
+
+- [Measles is back: Why vaccination is more vital than ever](https://kevinmd.com/2025/05/measles-is-back-why-vaccination-is-more-vital-than-ever.html) (Kevinmd.com)
+
+- [How huge health funding cuts in Washington 'put lives at risk' in communities](https://abcnews.go.com/Health/wireStory/huge-health-funding-cuts-washington-put-lives-risk-122377390) (ABC News)
+
+- [Deep cuts erode the foundations of US public health system, end progress, threaten worse to come](https://www.denverpost.com/2025/05/31/deep-cuts-erode-the-foundations-of-us-public-health-system-end-progress-threaten-worse-to-come/) (The Denver Post)
 
 - [TWiV 1222: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1222-letters/) (Microbe.tv)
 
@@ -315,6 +329,8 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in the Baird Global Consumer, Technology & Services Conference on June 3-5, 2025](https://www.globenewswire.com/news-release/2025/05/28/3089476/0/en/Helport-AI-to-Participate-in-the-Baird-Global-Consumer-Technology-Services-Conference-on-June-3-5-2025.html) (GlobeNewswire)
 
 ## 25-22 (h5n1)
+
+- [US peregrine falcons adapt well to city living as coastal cousins struggle with bird flu](https://roanoke.com/news/nation-world/science/article_c2777eb8-94ee-5efd-b095-a4d9297653e9.html) (Roanoke Times)
 
 - [Race to protect Australia's vulnerable wildlife from H5N1 bird flu](https://www.abc.net.au/news/2025-05-31/concerns-for-sa-sealions-and-birds-as-bird-flu-approaches/105102764) (ABC News (AU))
 
@@ -2492,16 +2508,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Louisiana, Missouri and Virginia report first measles cases of 2025](https://www.nbcnews.com/news/us-news/louisiana-missouri-virginia-report-first-measles-cases-2025-rcna202038) (NBC News)
 
-- [Measles outbreaks spreads across to 27 states...](https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427) (Themirror.com)
-
-- [US has 800 measles cases and outbreaks in several states. Here’s what you should know](https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/) (WPXI Pittsburgh)
-
-- ['Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles](https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor) (Crooksandliars.com)
-
-- [Links 4/20/2025](https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html) (Nakedcapitalism.com)
-
-- [What causes breakthrough measles infections even if someone is vaccinated?](https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799) (NBC News)
-
 ## 25-17 (malaria)
 
 - [Malaria disrupts economic ecosystem, raises healthcare costs – Health Minister](https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html) (Premium Times)
@@ -2570,8 +2576,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
 
-- [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
-
 ## 25-17 (hpai)
 
 - [Virginia wild birds hit with 200 bird flu cases this year](https://richmond.com/news/local/government-politics/article_127cc992-55f9-4a19-9f5c-cb2785056f37.html) (Richmond.com)
@@ -2631,12 +2635,6 @@ Source: [News API](https://newsapi.org/)
 - [GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a) (Royal Society of Chemistry)
 
 - [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
-
-- [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
-
-- [Brasil ultrapassa 1 milhão de casos de dengue em 2025](https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025) (Metropoles.com)
-
-- [¿Cómo saber si tengo dengue? Esto dice el Ministerio de Salud Pública](https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271) (Montevideo.com.uy)
 
 ## 25-17 (chikungunya)
 
@@ -2717,15 +2715,3 @@ Source: [News API](https://newsapi.org/)
 - [Cyclone Garance, épidémie de chikungunya... Emmanuel Macron en visite à La Réunion](https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html) (BFMTV)
 
 - [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
-
-- [Ostrov Réunion sužuje „mini-covid“. Komáří horečku chytil už každý devátý](https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred) (Idnes.cz)
-
-- [Caos en la isla francesa de la Reunión por la epidemia de chikungunya](https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html) (Eleconomista.es)
-
-- [Las autoridades de Reunión (Francia) avisan que están al borde de la saturación por la epidemia de chikungunya](https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html) (Europapress.es)
-
-- [La Réunion. Le directeur du CHU demande des renforts pour lutter contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
-
-- [L’épidémie de chikungunya atteint son pic à La Réunion, le CHU demande des renforts pour éviter des morts](https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html) (Le HuffPost)
-
-- [Reconstruction de Mayotte, chikungunya… Les enjeux de la tournée d’Emmanuel Macron dans l’océan Indien](https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/) (L'Express)
