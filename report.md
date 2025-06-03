@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-06-02 19:06
-- **Most recent article:** 2025-06-01 18:58:02
+- **New articles in last harvest:** 3
+- **Last harvest:** 2025-06-03 07:07
+- **Most recent article:** 2025-06-02 03:24:16
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 101 | 88 | 82 | 75 | 77 | 68 | 1 | 492 |
-| dengue | 12 | 32 | 26 | 24 | 26 | 28 | 0 | 148 |
+| measles | 106 | 88 | 82 | 75 | 77 | 68 | 2 | 498 |
+| dengue | 15 | 32 | 26 | 24 | 26 | 28 | 0 | 151 |
 | h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 1 | 144 |
-| malaria | 33 | 22 | 19 | 11 | 35 | 17 | 2 | 139 |
-| chikungunya | 39 | 16 | 15 | 25 | 12 | 12 | 0 | 119 |
-| mpox | 5 | 11 | 11 | 18 | 11 | 19 | 5 | 80 |
+| malaria | 34 | 22 | 19 | 11 | 35 | 17 | 3 | 141 |
+| chikungunya | 45 | 16 | 15 | 25 | 12 | 12 | 0 | 125 |
+| mpox | 5 | 11 | 11 | 18 | 11 | 19 | 6 | 81 |
 | meningitis | 9 | 7 | 3 | 7 | 6 | 7 | 0 | 39 |
 | rabies | 3 | 4 | 12 | 3 | 6 | 9 | 0 | 37 |
 | zika | 2 | 3 | 6 | 3 | 10 | 9 | 0 | 33 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (mpox)
 
+- [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
+
 - [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
 
 - [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
@@ -46,9 +48,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (measles)
 
+- [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
+
 - [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
 
 ## 25-23 (malaria)
+
+- [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
 
 - [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
 
@@ -2558,6 +2564,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Louisiana, Missouri and Virginia report first measles cases of 2025](https://www.nbcnews.com/news/us-news/louisiana-missouri-virginia-report-first-measles-cases-2025-rcna202038) (NBC News)
 
+- [Measles outbreaks spreads across to 27 states...](https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427) (Themirror.com)
+
+- [US has 800 measles cases and outbreaks in several states. Here’s what you should know](https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/) (WPXI Pittsburgh)
+
+- ['Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles](https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor) (Crooksandliars.com)
+
+- [Links 4/20/2025](https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html) (Nakedcapitalism.com)
+
+- [What causes breakthrough measles infections even if someone is vaccinated?](https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799) (NBC News)
+
 ## 25-17 (malaria)
 
 - [Malaria disrupts economic ecosystem, raises healthcare costs – Health Minister](https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html) (Premium Times)
@@ -2626,6 +2642,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
 
+- [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
+
 ## 25-17 (hpai)
 
 - [Virginia wild birds hit with 200 bird flu cases this year](https://richmond.com/news/local/government-politics/article_127cc992-55f9-4a19-9f5c-cb2785056f37.html) (Richmond.com)
@@ -2685,6 +2703,12 @@ Source: [News API](https://newsapi.org/)
 - [GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a) (Royal Society of Chemistry)
 
 - [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
+
+- [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
+
+- [Brasil ultrapassa 1 milhão de casos de dengue em 2025](https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025) (Metropoles.com)
+
+- [¿Cómo saber si tengo dengue? Esto dice el Ministerio de Salud Pública](https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271) (Montevideo.com.uy)
 
 ## 25-17 (chikungunya)
 
@@ -2765,3 +2789,15 @@ Source: [News API](https://newsapi.org/)
 - [Cyclone Garance, épidémie de chikungunya... Emmanuel Macron en visite à La Réunion](https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html) (BFMTV)
 
 - [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
+
+- [Ostrov Réunion sužuje „mini-covid“. Komáří horečku chytil už každý devátý](https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred) (Idnes.cz)
+
+- [Caos en la isla francesa de la Reunión por la epidemia de chikungunya](https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html) (Eleconomista.es)
+
+- [Las autoridades de Reunión (Francia) avisan que están al borde de la saturación por la epidemia de chikungunya](https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html) (Europapress.es)
+
+- [La Réunion. Le directeur du CHU demande des renforts pour lutter contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
+
+- [L’épidémie de chikungunya atteint son pic à La Réunion, le CHU demande des renforts pour éviter des morts](https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html) (Le HuffPost)
+
+- [Reconstruction de Mayotte, chikungunya… Les enjeux de la tournée d’Emmanuel Macron dans l’océan Indien](https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/) (L'Express)
