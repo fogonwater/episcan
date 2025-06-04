@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2025-06-03 19:06
-- **Most recent article:** 2025-06-02 18:58:57
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-06-04 07:08
+- **Most recent article:** 2025-06-03 04:38:57
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 101 | 88 | 82 | 75 | 77 | 68 | 12 | 503 |
-| dengue | 12 | 32 | 26 | 24 | 26 | 28 | 1 | 149 |
-| h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 2 | 145 |
-| malaria | 33 | 22 | 19 | 11 | 35 | 17 | 5 | 142 |
-| chikungunya | 39 | 16 | 15 | 25 | 12 | 12 | 4 | 123 |
-| mpox | 5 | 11 | 11 | 18 | 11 | 19 | 8 | 83 |
-| meningitis | 9 | 7 | 3 | 7 | 6 | 7 | 1 | 40 |
+| measles | 106 | 88 | 82 | 75 | 77 | 68 | 30 | 526 |
+| dengue | 15 | 32 | 26 | 24 | 26 | 28 | 5 | 156 |
+| h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 3 | 146 |
+| malaria | 34 | 22 | 19 | 11 | 35 | 17 | 5 | 143 |
+| chikungunya | 45 | 16 | 15 | 25 | 12 | 12 | 6 | 131 |
+| mpox | 5 | 11 | 11 | 18 | 11 | 19 | 9 | 84 |
+| meningitis | 9 | 7 | 3 | 7 | 6 | 7 | 2 | 41 |
 | rabies | 3 | 4 | 12 | 3 | 6 | 9 | 0 | 37 |
-| zika | 2 | 3 | 6 | 3 | 10 | 9 | 1 | 34 |
+| zika | 2 | 3 | 6 | 3 | 10 | 9 | 2 | 35 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 11 | 1 | 14 |
 | pertussis | 3 | 4 | 1 | 1 | 2 | 3 | 0 | 14 |
 | hpai | 1 | 2 | 3 | 1 | 2 | 1 | 0 | 10 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (zika)
 
+- [Eau stagnante, voisins, remèdes miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet été](https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html) (Franceinfo.fr)
+
 - [Qué pasó con los niños con microcefalia 10 años después de la epidemia de zika](https://www.bbc.com/mundo/articles/cje7zzy7w7no) (BBC News)
 
 ## 25-23 (yersinia)
@@ -41,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 - [Una mutación ha suavizado a uno de los asesinos más letales de la historia](https://www.nationalgeographic.com.es/ciencia/susurro-genetico-muerte-negra-como-mutacion-ha-suavizado-a-uno-asesinos-mas-letales-historia_25171) (Nationalgeographic.com.es)
 
 ## 25-23 (mpox)
+
+- [Gov. Unabia, mipagawas og Executive Order batok MPOX](https://rpnradio.com/gov-unabia-mipagawas-og-executive-order-batok-mpox/) (Rpnradio.com)
 
 - [Zamboanga: City Health Office Monthly Conference Focuses on Public Health Updates](https://rpnradio.com/zamboanga-city-health-office-monthly-conference-focuses-on-public-health-updates/) (Rpnradio.com)
 
@@ -60,9 +64,47 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (meningitis)
 
+- [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
+
 - [Irlanda celebra el año Oscar Wilde: estos son los planes que se pueden hacer en el homenaje](https://www.eldiario.es/viajes/irlanda-celebra-ano-oscar-wilde-planes-homenaje-dublin-pm_1_12350604.html) (Eldiario.es)
 
 ## 25-23 (measles)
+
+- [Local health officials address latest measles numbers](https://www.valleynewslive.com/2025/06/03/local-health-officials-address-latest-measles-numbers/) (Valley News Live)
+
+- [Measles cases linked to international travel spark CDC warning ahead of summer trips](https://turnto10.com/news/local/measles-cases-linked-to-international-travel-spark-cdc-warning-ahead-summer-trips-traveling-abroad-illness-sickness-vaccines-june-2-2025) (Turn to 10)
+
+- [Health experts share vaccination advice amid two measles cases in the UP](https://www.uppermichiganssource.com/2025/06/02/health-experts-share-vaccination-advice-amid-two-measles-cases-up/) (UpperMichigansSource.com)
+
+- [Measles outbreak hasn’t hit Utah yet, but health officials are bracing for when it does](https://www.stgeorgeutah.com/life/measles-outbreak-hasn-t-hit-utah-yet-but-health-officials-are-bracing-for-when-it/article_efbd218b-5c76-4343-bc3f-4fa93de519c2.html) (St George News)
+
+- [CDC urges all international travelers to get measles vaccines](https://www.nbcdfw.com/news/health/cdc-measles-vaccines-international-travelers/3854295/) (NBC 5 Dallas-Fort Worth)
+
+- [Doctor explains drop in MMR vaccinations as measles cases spike](https://www.cbsnews.com/video/doctor-explains-drop-in-mmr-vaccinations-as-measles-cases-spike/) (CBS News)
+
+- [All international travelers should get measles vaccinations, CDC says (Mike Stobbe/Associated Press)](https://www.memeorandum.com/250602/p139) (Memeorandum.com)
+
+- [Colorado measles cases reach 10 as number of infected tied to DIA outbreak grows](https://www.denver7.com/lifestyle/health/colorado-measles-cases-reach-10-as-number-of-infected-tied-to-dia-outbreak-continues-to-grow) (Denver7.com)
+
+- [CDC: All international travelers should get measles vaccinations](https://www.kcra.com/article/cdc-us-travelers-measles-vaccine/64948393) (KCRA Sacramento)
+
+- [All international travelers should get measles vaccinations, CDC says](https://www.bostonherald.com/2025/06/02/all-international-travelers-should-get-measles-vaccinations-cdc-says/) (Boston Herald)
+
+- [All international travelers should get measles vaccinations, CDC says](https://www.clickorlando.com/health/2025/06/02/all-international-travelers-should-get-measles-vaccinations-cdc-says/) (WKMG News 6 & ClickOrlando)
+
+- [Measles vaccination rates have declined in most U.S. counties, study finds](https://www.cbsnews.com/news/measles-vaccination-rates-us-counties-study/) (CBS News)
+
+- [2 new measles cases confirmed in Minnesota as total climbs to 4; health officials urge vaccination](https://www.cbsnews.com/minnesota/news/2-more-measles-cases-minnesota-2025-moa/) (CBS News)
+
+- [First measles case confirmed in South Dakota](https://www.dakotanewsnow.com/2025/06/02/first-measles-case-confirmed-south-dakota/) (Dakotanewsnow.com)
+
+- [All international travelers should get measles vaccinations, CDC says](https://www.bostonherald.com/2025/06/02/measles-travel/) (Boston Herald)
+
+- [With 710 measles cases now confirmed in Alberta, this marks the worst year since 1986](https://www.cbc.ca/news/canada/calgary/alberta-measles-updated-710-cases-worst-since-1986-1.7550191) (CBC News)
+
+- [Warning of overseas outbreaks, CDC urges Americans to get the measles vaccine before traveling abroad](https://www.nbcnews.com/health/health-news/warning-overseas-outbreaks-cdc-urges-americans-get-measles-vaccine-tra-rcna210392) (NBC News)
+
+- [Measles cases confirmed in Dakota and Washington counties](https://www.twincities.com/2025/06/02/mn-measles-cases-dakota-washington-counties/) (TwinCities.com-Pioneer Press)
 
 - [Measles exposure risk for anyone who visited Mall of America evening of May 24](https://www.fox9.com/news/mall-america-measles-warning-infected-child-visited-mall-may-24) (FOX 9)
 
@@ -102,15 +144,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (h5n1)
 
+- [Περιστατικά γρίπης πτηνών ανακοίνωσε η Λετονία](https://dialogos.com.cy/peristatika-gripis-ptinon-anakoinose-i-letonia/) (Dialogos.com.cy)
+
 - [Trump’s WHO withdrawal could cost the U.S. dearly](https://www.japantimes.co.jp/commentary/2025/06/02/world/trumps-who-withdrawal/) (The Japan Times)
 
 - [गोरखपुर के इन 5 इलाकों में Bird Flu, पक्षियों को मारने का अभियान शुरू](https://www.aajtak.in/uttar-pradesh/story/gorakhpur-bird-flu-confirmed-five-localities-lclnt-dskc-2253662-2025-06-01) (Aajtak.in)
 
 ## 25-23 (dengue)
 
+- [Eau stagnante, voisins, remèdes miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet été](https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html) (Franceinfo.fr)
+
+- [INFOGRAPHIE. Visualisez comment le moustique tigre s'est installé en France métropolitaine depuis plus de vingt ans](https://www.franceinfo.fr/sante/infographie-visualisez-comment-le-moustique-tigre-s-est-installe-en-france-metropolitaine-depuis-plus-de-vingt-ans_7252881.html) (Franceinfo.fr)
+
+- [Health scare triggers clean-up](https://www.fijitimes.com.fj/health-scare-triggers-clean-up/) (Fijitimes.com.fj)
+
+- [Not all pain medications are safe to take during dengue season](https://www.channelnewsasia.com/advertorial/not-all-pain-medications-are-safe-take-during-dengue-season-4423206) (CNA)
+
 - [Soluble triggering receptor expressed on myeloid cells 1 is associated with hemoconcentration and endothelial activation in children and young adults with dengue virus infection in the Philippines](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013084) (Plos.org)
 
 ## 25-23 (chikungunya)
+
+- [Eau stagnante, voisins, remèdes miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet été](https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html) (Franceinfo.fr)
+
+- [INFOGRAPHIE. Visualisez comment le moustique tigre s'est installé en France métropolitaine depuis plus de vingt ans](https://www.franceinfo.fr/sante/infographie-visualisez-comment-le-moustique-tigre-s-est-installe-en-france-metropolitaine-depuis-plus-de-vingt-ans_7252881.html) (Franceinfo.fr)
 
 - [La phase d’épidémie du chikungunya déclarée à Mayotte](https://www.huffingtonpost.fr/france/article/la-phase-d-epidemie-du-chikungunya-declaree-a-mayotte_250814.html) (Le HuffPost)
 
@@ -2620,6 +2676,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Louisiana, Missouri and Virginia report first measles cases of 2025](https://www.nbcnews.com/news/us-news/louisiana-missouri-virginia-report-first-measles-cases-2025-rcna202038) (NBC News)
 
+- [Measles outbreaks spreads across to 27 states...](https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427) (Themirror.com)
+
+- [US has 800 measles cases and outbreaks in several states. Here’s what you should know](https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/) (WPXI Pittsburgh)
+
+- ['Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles](https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor) (Crooksandliars.com)
+
+- [Links 4/20/2025](https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html) (Nakedcapitalism.com)
+
+- [What causes breakthrough measles infections even if someone is vaccinated?](https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799) (NBC News)
+
 ## 25-17 (malaria)
 
 - [Malaria disrupts economic ecosystem, raises healthcare costs – Health Minister](https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html) (Premium Times)
@@ -2688,6 +2754,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
 
+- [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
+
 ## 25-17 (hpai)
 
 - [Virginia wild birds hit with 200 bird flu cases this year](https://richmond.com/news/local/government-politics/article_127cc992-55f9-4a19-9f5c-cb2785056f37.html) (Richmond.com)
@@ -2747,6 +2815,12 @@ Source: [News API](https://newsapi.org/)
 - [GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a) (Royal Society of Chemistry)
 
 - [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
+
+- [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
+
+- [Brasil ultrapassa 1 milhão de casos de dengue em 2025](https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025) (Metropoles.com)
+
+- [¿Cómo saber si tengo dengue? Esto dice el Ministerio de Salud Pública](https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271) (Montevideo.com.uy)
 
 ## 25-17 (chikungunya)
 
@@ -2827,3 +2901,15 @@ Source: [News API](https://newsapi.org/)
 - [Cyclone Garance, épidémie de chikungunya... Emmanuel Macron en visite à La Réunion](https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html) (BFMTV)
 
 - [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
+
+- [Ostrov Réunion sužuje „mini-covid“. Komáří horečku chytil už každý devátý](https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred) (Idnes.cz)
+
+- [Caos en la isla francesa de la Reunión por la epidemia de chikungunya](https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html) (Eleconomista.es)
+
+- [Las autoridades de Reunión (Francia) avisan que están al borde de la saturación por la epidemia de chikungunya](https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html) (Europapress.es)
+
+- [La Réunion. Le directeur du CHU demande des renforts pour lutter contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
+
+- [L’épidémie de chikungunya atteint son pic à La Réunion, le CHU demande des renforts pour éviter des morts](https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html) (Le HuffPost)
+
+- [Reconstruction de Mayotte, chikungunya… Les enjeux de la tournée d’Emmanuel Macron dans l’océan Indien](https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/) (L'Express)

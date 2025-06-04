@@ -1,8 +1,461 @@
 {
-  "last_updated": "2025-06-03 19:06",
-  "count_articles_total": 1246,
-  "count_articles_new": 23,
+  "last_updated": "2025-06-04 07:08",
+  "count_articles_total": 1286,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 21848,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Dialogos.com.cy",
+      "author": "\u0386\u03bd\u03c4\u03c1\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5",
+      "title": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ac \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03b7 \u039b\u03b5\u03c4\u03bf\u03bd\u03af\u03b1",
+      "description": "\u0397 \u039b\u03b5\u03c4\u03bf\u03bd\u03af\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c4\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1 \u03bc\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03c8\u03b7\u03bb\u03ae\u03c2 \u03c0\u03b1\u03b8\u03bf\u03b3\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H5N1 \u03c3\u03b5 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ac, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u0396\u03ce\u03c9\u03bd. \u03a4\u03bf \u03be\u03ad\u03c3\u03c0\u03b1\u03c3\u03bc\u03b1 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03c3\u03bc\u03ae\u03bd\u03bf\u03c2 190 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae Birzgales, \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03c3\u2026",
+      "url": "https://dialogos.com.cy/peristatika-gripis-ptinon-anakoinose-i-letonia/",
+      "urlToImage": "https://dialogos.com.cy/wp-content/uploads/2025/01/gripi_ptinon-768x431-1.jpg",
+      "publishedAt": "2025-06-03 04:38:57",
+      "content": "\u00a9 Dialogos Media Group - , , , / , , , , ( ) , , , , , .",
+      "retrievedAt": "2025-06-04 07:08:00.023595",
+      "internal_id": "08986ae6cdea75721680bc8d8fa28f18e5eeec994eabfc6942545631fb1154fa",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21852,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Eau stagnante, voisins, rem\u00e8des miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet \u00e9t\u00e9",
+      "description": "L'insecte est de plus en plus pr\u00e9sent dans l'Hexagone, mais vous pouvez agir pour qu'il ne s'installe pas chez vous. Franceinfo vous livre les recommandations d'un expert du sujet, \u00e0 appliquer pour emp\u00eacher la propagation du moustique tigre.",
+      "url": "https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/-gJUKteMNPcehbTjH2-PflKlvpk/0x98:2046x1249/1500x843/2025/05/20/screenshot-2025-05-20-at-5-02-32-pm-682c999319eb2818405544.png",
+      "publishedAt": "2025-06-03 03:50:06",
+      "content": "Le mois de mai marque le d\u00e9but de la p\u00e9riode renforc\u00e9e de la surveillance contre la dengue, le chikungunya et le zika, trois virus transmis par le moustique tigre. L'insecte, que l'on reconna\u00eet \u00e0 ses\u2026 [+6733 chars]",
+      "retrievedAt": "2025-06-04 07:08:00.460440",
+      "internal_id": "d314baa5ae7f8d338b26614c9bf344137fb8f2e1f0614ed8084cee20e12fe5a7",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21850,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "INFOGRAPHIE. Visualisez comment le moustique tigre s'est install\u00e9 en France m\u00e9tropolitaine depuis plus de vingt ans",
+      "description": "Rep\u00e9r\u00e9 dans l'Hexagone en 2004, ce moustique, parfois porteur de maladies comme la dengue et le chikungunya, est d\u00e9sormais pr\u00e9sent sur 84% du territoire.",
+      "url": "https://www.franceinfo.fr/sante/infographie-visualisez-comment-le-moustique-tigre-s-est-installe-en-france-metropolitaine-depuis-plus-de-vingt-ans_7252881.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/Qj1UrQ0wtT6CkkkhK0EoNBjharo/0x325:6240x3835/1500x843/2025/05/16/080-hl-nguyonnet-2519931-682736eb67631886065356.jpg",
+      "publishedAt": "2025-06-03 03:49:34",
+      "content": "Les beaux jours reviennent et les moustiques aussi. L'un d'eux inqui\u00e8te particuli\u00e8rement : Aedes albopictus, plus connu sous le nom de moustique tigre. Class\u00e9 parmi les dix esp\u00e8ces les plus invasives\u2026 [+2784 chars]",
+      "retrievedAt": "2025-06-04 07:08:00.444582",
+      "internal_id": "5ac92e01a0cd1657db84544a261c3f6b48d04ec6514aa14090af5a2888d78076",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21854,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Gov. Unabia, mipagawas og Executive Order batok MPOX",
+      "description": "Misamis Oriental \u2013 MIPAGAWAS si Gov. Peter \u2018Sr. Pedro\u2019 M. Unabia sa Executive Order No. 014 series of 2025 kon pagtuman sa mga giya sa paglikay, pagsusi, pag-isolate ug pagdumala sa MPOX (Monkeypox) Infection. Pagsunod kini sa Department of Health Memorandum \u2026",
+      "url": "https://rpnradio.com/gov-unabia-mipagawas-og-executive-order-batok-mpox/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503589580_1233124932181569_5219577264400357115_n.jpg",
+      "publishedAt": "2025-06-03 03:17:08",
+      "content": "Misamis Oriental \u2013 MIPAGAWAS si Gov. Peter Sr. Pedro M. Unabia sa Executive Order No. 014 series of 2025 kon pagtuman sa mga giya sa paglikay, pagsusi, pag-isolate ug pagdumala sa MPOX (Monkeypox) In\u2026 [+1526 chars]",
+      "retrievedAt": "2025-06-04 07:08:01.839437",
+      "internal_id": "8e084ca34e7f34f7ec3123a023cc53c388bf0c6520bff8d159e1ebf78d5ff907",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21853,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Cinthya Mart\u00ednez",
+      "title": "Carlos Jaramillo, m\u00e9dico: \u00abNo es normal necesitar un caf\u00e9 para arrancar el d\u00eda\u00bb",
+      "description": "El reconocido divulgador y autor de varios \u00abbestsellers\u00bb internacionales remarca que \u00abla mejor medicina es ense\u00f1arle a la gente a no necesitarla\u00bb",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm",
+      "urlToImage": "https://cflvdg.avoz.es/sc/lubTSDEVboEMJ4g1nuHFirT4I6I=/1280x/2025/06/02/00121748880245474308741/Foto/jaramillo.png",
+      "publishedAt": "2025-06-03 03:00:00",
+      "content": "Carlos Jaramillo estuvo a punto de morir por una meningitis a finales del 2014. Ese episodio dio un vuelco a su vida personal, pero tambi\u00e9n profesional. El reconocido doctor colombiano se marc\u00f3 una m\u2026 [+9992 chars]",
+      "retrievedAt": "2025-06-04 07:08:00.773715",
+      "internal_id": "72abea8dd42c7aaec11caeefcaa44a172d3fc67d983081df6ed0bc3fc160f107",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21838,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Valley News Live",
+      "author": "Sydney Zatz",
+      "title": "Local health officials address latest measles numbers",
+      "description": "As we continue to follow measles developments in North Dakota, health experts say there is time after you get exposed to the measles.",
+      "url": "https://www.valleynewslive.com/2025/06/03/local-health-officials-address-latest-measles-numbers/",
+      "urlToImage": "https://gray-kvly-prod.gtv-cdn.com/resizer/v2/Q3QVFX5MKZCFLNZRESBCR6ODXY.jpg?auth=607c7a55e4185650ad364287388392886f0cedd743ddb726f7eccfb7f5549e95&width=1200&height=600&smart=true",
+      "publishedAt": "2025-06-03 02:43:07",
+      "content": "FARGO, N.D. (Valley News Live) - As we continue to follow measles developments in North Dakota, health experts say there is time after you get exposed to the measles. There have been 32 total cases \u2026 [+2136 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.325095",
+      "internal_id": "583027a41e709e67074561f453cc52cfe1cf525be0c5536825118a570a5d2ca3",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21837,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Turn to 10",
+      "author": "John Perik",
+      "title": "Measles cases linked to international travel spark CDC warning ahead of summer trips",
+      "description": "The CDC is urging Americans to protect themselves against measles before traveling abroad this summer.",
+      "url": "https://turnto10.com/news/local/measles-cases-linked-to-international-travel-spark-cdc-warning-ahead-summer-trips-traveling-abroad-illness-sickness-vaccines-june-2-2025",
+      "urlToImage": "https://turnto10.com/resources/media2/16x9/1920/986/center/90/9922b9ae-9654-4b26-8a1c-f7c84620020c-PKG11PMPERIKMEASLESOUTBREAK_frame_307.jpeg",
+      "publishedAt": "2025-06-03 02:35:27",
+      "content": "WARWICK, R.I. (WJAR) The CDC is urging Americans to protect themselves against measles before traveling abroad this summer. There are 1,125 confirmed cases of measles across 33 states. Sixty-two of \u2026 [+1215 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.316645",
+      "internal_id": "f5f76187630a52be3dddca90ae0ad230a5381736c6286f6b04503f1a31c26384",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UpperMichigansSource.com",
+      "author": "Julia Seitz",
+      "title": "Health experts share vaccination advice amid two measles cases in the UP",
+      "description": "Health experts say one shot of the MMR vaccine is 93% effective against measles and two shots increase that to 97%.",
+      "url": "https://www.uppermichiganssource.com/2025/06/02/health-experts-share-vaccination-advice-amid-two-measles-cases-up/",
+      "urlToImage": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/Q3QVFX5MKZCFLNZRESBCR6ODXY.jpg?auth=607c7a55e4185650ad364287388392886f0cedd743ddb726f7eccfb7f5549e95&width=1200&height=600&smart=true",
+      "publishedAt": "2025-06-03 01:43:01",
+      "content": "MARQUETTE, Mich. (WLUC) - Health experts say its important to vaccinate more than ever now that the U.P. has two confirmed measles cases. Both cases are residents of Marquette County. Michigans Chie\u2026 [+2546 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.433211",
+      "internal_id": "741fcd551556f9c9bad93407d022471700e5a72f061ff663bd67af2e5ba2caca",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21842,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "St George News",
+      "author": "Katie Mckellar",
+      "title": "Measles outbreak hasn\u2019t hit Utah yet, but health officials are bracing for when it does",
+      "description": "Amid national outbreaks, a confirmed measles case hasn\u2019t yet hit Utah \u2014 but as nearby states report cases, the highly contagious virus could be closing in.",
+      "url": "https://www.stgeorgeutah.com/life/measles-outbreak-hasn-t-hit-utah-yet-but-health-officials-are-bracing-for-when-it/article_efbd218b-5c76-4343-bc3f-4fa93de519c2.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/stgeorgeutah.com/content/tncms/assets/v3/editorial/6/54/654b95aa-0de5-5015-8a6e-df57f3f51a5e/663f60296010a.image.jpg?crop=1762%2C926%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
+      "publishedAt": "2025-06-03 00:50:20",
+      "content": "Amid national outbreaks, a confirmed measles case hasnt yet hit Utah but as nearby states report cases, the highly contagious virus could be closing in. Meanwhile, Utahs childhood vaccination rates \u2026 [+8168 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.385474",
+      "internal_id": "1fdc59b50b8651369aad1dc987373b526b4565c21873b49674f49d7cb0ef5efc",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21843,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC 5 Dallas-Fort Worth",
+      "author": "Mike Stobbe | The Associated Press",
+      "title": "CDC urges all international travelers to get measles vaccines",
+      "description": "The travel notice advises two doses for all Americans ages 1 and older. An early dose is advised for traveling infants ages 6 months to 11 months.",
+      "url": "https://www.nbcdfw.com/news/health/cdc-measles-vaccines-international-travelers/3854295/",
+      "urlToImage": "https://media.nbcdfw.com/2025/04/GettyImages-2202122534.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-06-03 00:36:27",
+      "content": "U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no matter where they're going. U.S. residents a\u2026 [+1315 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.407262",
+      "internal_id": "a4f0c933c298ce6388dae53133981d387f36197b83862f29f45ce567425a10af",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21851,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Fijitimes.com.fj",
+      "author": "Temalesi Vono",
+      "title": "Health scare triggers clean-up",
+      "description": "Villagers of Sawani in Naitasiri have launched a monthly clean-up campaign after five residents were struck with dengue fever \u2014 a scare that nearly turned fatal.",
+      "url": "https://www.fijitimes.com.fj/health-scare-triggers-clean-up/",
+      "urlToImage": "https://www.fijitimes.com.fj/wp-content/uploads/2025/06/PF4USEYHIS2.jpg",
+      "publishedAt": "2025-06-03 00:35:18",
+      "content": "Villagers of Sawani in Naitasiri have launched a monthly clean-up campaign after five residents were struck with dengue fever a scare that nearly turned fatal. Village headman Sekove Balemila said t\u2026 [+834 chars]",
+      "retrievedAt": "2025-06-04 07:08:00.452594",
+      "internal_id": "c2e150942cfbc8c9e27089df31d475b177c5b5fa1bb54a107cba923ff52675f2",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21830,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Doctor explains drop in MMR vaccinations as measles cases spike",
+      "description": "As measles cases have topped 1,000 for the first time in six years, it may come as no surprise that fewer people are being vaccinated against the disease. Dr. Celine Gounder breaks it down.",
+      "url": "https://www.cbsnews.com/video/doctor-explains-drop-in-mmr-vaccinations-as-measles-cases-spike/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/03/0df94045-4706-4bb1-887f-ca0a11b5d577/thumbnail/1200x630/974071666d77f0329fbee2014a47606f/gettyimages-2209410399.jpg?v=56a3e14bdf9c98ad3b2e8fa3a2dc5f66",
+      "publishedAt": "2025-06-03 00:32:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-06-04 07:07:59.162605",
+      "internal_id": "645da7a34d9a785a96ca94136e055bba07fb5b353763a5d68a93efcc68cedda0",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21832,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "All international travelers should get measles vaccinations, CDC says (Mike Stobbe/Associated Press)",
+      "description": "Mike Stobbe / Associated Press: All international travelers should get measles vaccinations, CDC says \u2014 U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no\u2026",
+      "url": "https://www.memeorandum.com/250602/p139",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d0d1da1/2147483647/strip/true/crop/6883x3872+0+359/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F5e%2F0554865e7e8821cc645360386753%2Fed11a8527ce743b393a4a2d667e81d96",
+      "publishedAt": "2025-06-03 00:30:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.200559",
+      "internal_id": "991e10fd36ace2e26dce021af9db8488047a1e2130dd6487194662a8979b3fb1",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21845,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Denver7.com",
+      "author": "\u00d3scar Contreras",
+      "title": "Colorado measles cases reach 10 as number of infected tied to DIA outbreak grows",
+      "description": "The number of Coloradans with measles reached double-digits over the weekend after state health officials confirmed four additional cases tied to an outbreak at DIA.",
+      "url": "https://www.denver7.com/lifestyle/health/colorado-measles-cases-reach-10-as-number-of-infected-tied-to-dia-outbreak-continues-to-grow",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/53a92c4/2147483647/strip/true/crop/1000x525+0+71/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F41%2F54%2Fa725206d4aeda2d719e8caa1933e%2Fshutterstock-1463547920.jpg",
+      "publishedAt": "2025-06-03 00:07:33",
+      "content": "DENVER The number of Coloradans with measles reached double-digits over the weekend after state health officials confirmed four additional cases tied to an outbreak of the highly contagious disease a\u2026 [+6001 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.424972",
+      "internal_id": "9230545cd92fc239533b0a81246343e4f2d0583c046b96237f4afead80869988",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21840,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KCRA Sacramento",
+      "author": "Mike Stobbe",
+      "title": "CDC: All international travelers should get measles vaccinations",
+      "description": "U.S. health officials have changed their advice to international travelers about measles, saying Americans should be vaccinated against the disease no matter where they travel in the world",
+      "url": "https://www.kcra.com/article/cdc-us-travelers-measles-vaccine/64948393",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap2683e36d769744.jpg?crop=1.00xw:0.847xh;0,0.0600xh&resize=1200:*",
+      "publishedAt": "2025-06-02 23:55:49",
+      "content": "NEW YORK \u2014U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no matter where they're going. Relate\u2026 [+1186 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.347601",
+      "internal_id": "845df4433aa88185548eede9fae08c97820514ae56af362a1a17026c7884efd1",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21849,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Not all pain medications are safe to take during dengue season",
+      "description": "Experts share insights on managing dengue-related symptoms and why non-steroidal anti-inflammatory drugs should be avoided for dengue pain and fever.",
+      "url": "https://www.channelnewsasia.com/advertorial/not-all-pain-medications-are-safe-take-during-dengue-season-4423206",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--r8wkndlT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/06/20/bstudio_panadol_dengue_lead.jpg?itok=MTU5TxIG",
+      "publishedAt": "2025-06-02 23:53:12",
+      "content": "Severe dengue symptoms include abdominal pain, persistent vomiting and bleeding gums, and require immediate medical attention to prevent life-threatening complications. If you develop dengue symptom\u2026 [+1035 chars]",
+      "retrievedAt": "2025-06-04 07:08:00.413695",
+      "internal_id": "ae03b7c5a047680789d5eacd697c063bd4c488937cb66aaac124eb5b6ecc38bf",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21833,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "All international travelers should get measles vaccinations, CDC says",
+      "description": "U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no matter where they're going.",
+      "url": "https://www.bostonherald.com/2025/06/02/all-international-travelers-should-get-measles-vaccinations-cdc-says/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/06/AP25141591523188.jpg?w=1024&h=683",
+      "publishedAt": "2025-06-02 22:34:01",
+      "content": "NEW YORK U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no matter where they\u2019re going. U.S. re\u2026 [+1093 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.208748",
+      "internal_id": "bc1dec4901b8f3eb982e27605307bce47f492d9a3e08adaba79b9defd79c09eb",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21844,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WKMG News 6 & ClickOrlando",
+      "author": "Mike Stobbe",
+      "title": "All international travelers should get measles vaccinations, CDC says",
+      "description": "U.S. health officials have changed their advice to international travelers about measles, saying Americans should be vaccinated against the disease no matter where they travel in the world.",
+      "url": "https://www.clickorlando.com/health/2025/06/02/all-international-travelers-should-get-measles-vaccinations-cdc-says/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5SESHZXSMJEZPCJAMOIQ4AICQQ.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-06-02 22:20:26",
+      "content": "NEW YORK U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no matter where they're going. U.S. re\u2026 [+1482 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.415777",
+      "internal_id": "732b7e3965e235f1b1b6a5da44cc55819b32b2866e237575f008ead8e893e75b",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21831,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Nicole  Brown Chau",
+      "title": "Measles vaccination rates have declined in most U.S. counties, study finds",
+      "description": "Of the 2,066 counties the study looked at, 78% saw a decline in MMR vaccination rates. But rates can vary substantially within a state.",
+      "url": "https://www.cbsnews.com/news/measles-vaccination-rates-us-counties-study/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/02/a5af8e2d-44f0-4c4a-9c3b-155c627f6b78/thumbnail/1200x630/fa6341ad219aa5f8b20e66beda6362e2/gettyimages-2209607100.jpg?v=56a3e14bdf9c98ad3b2e8fa3a2dc5f66",
+      "publishedAt": "2025-06-02 22:16:44",
+      "content": "Amid a widespread decline in childhood measles vaccination rates since before the COVID-19 pandemic across the United States, a study published Monday found that coverage can vary substantially withi\u2026 [+2005 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.192148",
+      "internal_id": "f576f63ac6cab7afff52d01db89769cdae904eaaa2defb11fb13a241cf93c2eb",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21841,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Nick Lentz",
+      "title": "2 new measles cases confirmed in Minnesota as total climbs to 4; health officials urge vaccination",
+      "description": "Two more cases of Measles have been confirmed in Minnesota, bringing the total number of cases in 2025 to four, according to the Department of Health.",
+      "url": "https://www.cbsnews.com/minnesota/news/2-more-measles-cases-minnesota-2025-moa/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/23/8fdc7ed4-0241-4309-8663-38f9651e30bd/thumbnail/1200x630/3967826f7bbc62cc5886404444a04cc3/gettyimages-2152300156.jpg?v=56a3e14bdf9c98ad3b2e8fa3a2dc5f66",
+      "publishedAt": "2025-06-02 22:00:41",
+      "content": "Two more cases of Measles have been confirmed in Minnesota, bringing the total number of cases in 2025 to four, according to a release sent by the Department of Health on Monday. One case is an unva\u2026 [+2155 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.355303",
+      "internal_id": "db7937f9555a4dc00c853d8282f5e502745847da6ca5a00fbbdfcd4bbab34ce2",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21839,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dakotanewsnow.com",
+      "author": "Dakota News Now Staff",
+      "title": "First measles case confirmed in South Dakota",
+      "description": "On Monday, the South Dakota Department of Health reported the first confirmed case of measles in South Dakota for 2025.",
+      "url": "https://www.dakotanewsnow.com/2025/06/02/first-measles-case-confirmed-south-dakota/",
+      "urlToImage": "https://gray-ksfy-prod.gtv-cdn.com/resizer/v2/GAW446D25JAZHCPMGQMA5S5MKY.jpg?auth=440bd927bba7506dab8f0f0a730a9f4f2aa5bb5bd81da424f0effb689ee65be2&width=1200&height=600&smart=true",
+      "publishedAt": "2025-06-02 21:41:01",
+      "content": "PIERRE, S.D. (Dakota News Now) - On Monday, the South Dakota Department of Health reported the first confirmed case of measles in South Dakota for 2025. An adult in Meade County developed a measles\u2026 [+1958 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.332993",
+      "internal_id": "364d4284ced3e3380c2bdbc902b24818083153950162314e8ab64df944ed0ade",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21834,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "All international travelers should get measles vaccinations, CDC says",
+      "description": "The travel notice advises two doses for all Americans ages 1 and older.",
+      "url": "https://www.bostonherald.com/2025/06/02/measles-travel/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/06/Measles-How_to_Avoid_23188.jpg?w=1024&h=682",
+      "publishedAt": "2025-06-02 21:32:16",
+      "content": "By MIKE STOBBE NEW YORK (AP) U.S. health officials have changed their advice to international travelers about measles, saying that Americans should be vaccinated against the virus no matter where th\u2026 [+1392 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.217729",
+      "internal_id": "753f9a01c51d8529bdc802223c5716312d2e8f120fb7761c255a8c4c9aa33072",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21836,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "With 710 measles cases now confirmed in Alberta, this marks the worst year since 1986",
+      "description": "Alberta has now confirmed 710 measles cases so far this year, according to new data released Monday, surpassing the 690-case mark set in 1987.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-updated-710-cases-worst-since-1986-1.7550191",
+      "urlToImage": "https://i.cbc.ca/1.4815344.1746051033!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-vaccination.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-02 21:25:11",
+      "content": "Alberta has now confirmed 710 measles cases so far this year, according to new data released Monday, surpassing the 690-case mark set in 1987. This year now marks the most cases in a calendar year s\u2026 [+2226 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.240625",
+      "internal_id": "89b6c1f1c3d523c5e47ec3e2d6e1f1bd80b70e343dd0199e8c69bcdf1c29ab7b",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21835,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Warning of overseas outbreaks, CDC urges Americans to get the measles vaccine before traveling abroad",
+      "description": "The CDC is urging Americans to make sure they\u2019re protected against measles before traveling to other countries this summer.",
+      "url": "https://www.nbcnews.com/health/health-news/warning-overseas-outbreaks-cdc-urges-americans-get-measles-vaccine-tra-rcna210392",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-texas-measles-mn-1130-0c616f.jpg",
+      "publishedAt": "2025-06-02 21:11:05",
+      "content": "The Centers for Disease Control and Prevention is urging Americans to make sure theyre protected against measles before traveling to other countries this summer. Last week, the agency updated its tr\u2026 [+2372 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.232640",
+      "internal_id": "6c028265775197229e0bdcacbecba7069fd599fcbaa7b387c9fcfa1690fdd8ef",
+      "publishedAtLabel": "Jun 2"
+    },
+    {
+      "id": 21847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TwinCities.com-Pioneer Press",
+      "author": "Kristi Miller",
+      "title": "Measles cases confirmed in Dakota and Washington counties",
+      "description": "The child was infectious while at the Mall of America theme park, officials said.",
+      "url": "https://www.twincities.com/2025/06/02/mn-measles-cases-dakota-washington-counties/",
+      "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/02/b9e015adb5a2a48d61d897e49a8d71d7_8e5efd.png?w=1024&h=704",
+      "publishedAt": "2025-06-02 19:25:43",
+      "content": "To place an obituary, please include the information from the obituary checklist below in an email to obits@pioneerpress.com. There is no option to place them through our website. Feel free to conta\u2026 [+4498 chars]",
+      "retrievedAt": "2025-06-04 07:07:59.447906",
+      "internal_id": "f745b6e889143bbb46281cd5ffd63c75e8b1327e4965563a27c36eabdfade401",
+      "publishedAtLabel": "Jun 2"
+    },
     {
       "id": 21814,
       "query": [
@@ -22494,6 +22947,276 @@
       "content": "Louisiana, Missouri and Virginia have all reported their first measles cases in 2025, and they say all three patients cases are linked to international travel. The most recently announced case in no\u2026 [+2927 chars]",
       "retrievedAt": "2025-04-22 07:07:33.796258",
       "internal_id": "bc0703c8a0161b55f06394ebb24919618983b89ca11becef67900f6cf67c4554",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20562,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themirror.com",
+      "author": "the mirror us",
+      "title": "Measles outbreaks spreads across to 27 states...",
+      "description": "",
+      "url": "https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427",
+      "urlToImage": null,
+      "publishedAt": "2025-04-20 17:00:03",
+      "content": "Parts of the US are recording some of their first measles cases, with at least 27 states in America now impacted by the ongoing measles outbreak",
+      "retrievedAt": "2025-04-21 19:06:01.655199",
+      "internal_id": "7b76307292503f9000169f5e8b348fdb6d787a35a7b2b18e5521f5823de127c8",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20580,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPXI Pittsburgh",
+      "author": null,
+      "title": "US has 800 measles cases and outbreaks in several states. Here\u2019s what you should know",
+      "description": "Measles is caused by a highly contagious virus that\u2019s airborne and spreads easily when an infected person breathes, sneezes or coughs. It is preventable through vaccines, and has been considered eliminated from the U.S. since 2000.",
+      "url": "https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/",
+      "urlToImage": "https://www.wpxi.com/resizer/ZGCn3vlVm94I5vsZ5DFAamrd9_E=/arc-anglerfish-arc2-prod-cmg/public/WVMN6O5PNFFVTDQNJHCR4PFGDQ.jpeg",
+      "publishedAt": "2025-04-20 16:01:01",
+      "content": "The U.S. has 800 cases of measles nationwide as of Friday, and two more states identified outbreaks this week. Texas is driving the high numbers, with an outbreak centered in West Texas that started\u2026 [+8407 chars]",
+      "retrievedAt": "2025-04-22 07:07:33.979246",
+      "internal_id": "6e6bb592bdfdca825e2afb8c4cf35e71364d9f6c571a55bbeef3535bd66077a0",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Martim Andrade",
+      "title": "Vem a\u00ed um ver\u00e3o cheio de mosquitos. Devemos temer a dengue e a mal\u00e1ria?",
+      "description": "N\u00famero de mosquitos dever\u00e1 aumentar, acreditam os especialistas \u2014 e o controlo de esp\u00e9cies perigosas tamb\u00e9m passa pelos cidad\u00e3os. V\u00edrus do Nilo Ocidental pode ser uma amea\u00e7a desconhecida.",
+      "url": "https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A48%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F07%2F17154803%2Faedes_albopictus.jpg?layer=obstop:T",
+      "publishedAt": "2025-04-20 14:54:27",
+      "content": "Em segundo lugar, esta plataforma tamb\u00e9m permite fazer uma atualiza\u00e7\u00e3o do mapa de distribui\u00e7\u00e3o das esp\u00e9cies aut\u00f3ctones, as nativas de Portugal, que acabam por n\u00e3o passar integralmente pelas armadilha\u2026 [+4318 chars]",
+      "retrievedAt": "2025-04-21 19:06:02.760689",
+      "internal_id": "ff0cbc3804c7b93efe26fd6782880fe24b917b46faacce5ddf36e9123f85a5c1",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20569,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Alfred Hosti\u010dka, \u010cTK",
+      "title": "Ostrov R\u00e9union su\u017euje \u201emini-covid\u201c. Kom\u00e1\u0159\u00ed hore\u010dku chytil u\u017e ka\u017ed\u00fd dev\u00e1t\u00fd",
+      "description": "Epidemie nemoci chikungunya v posledn\u00edch m\u011bs\u00edc\u00edch zu\u017euje obyvatele ostrovu R\u00e9union. M\u00edstn\u00ed chorob\u011b p\u0159ezd\u00edvaj\u00ed \u201emini-covid,\u201c proto\u017ee jej\u00ed pr\u016fb\u011bh i d\u016fsledky \u0161\u00ed\u0159en\u00ed p\u0159ipom\u00ednaj\u00ed epidemii koronaviru. Virem se podle den\u00edku Le Monde nakazil v\u00edce ne\u017e ka\u017ed\u00fd dev\u00e1t\u00fd oby\u2026",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2025/4/FRE871a756c89_profimedia_0988611326.jpg",
+      "publishedAt": "2025-04-20 14:19:00",
+      "content": "Ti dny to byla opravdov\u00e1 non\u00ed mra. Po\u00e1dn jsem si to vyzkouel a jet nen\u00ed konec, sdlil francouzsk\u00e9mu m\u00e9diu uitel tlesn\u00e9 v\u00fdchovy Pascal Arville. Dvaaedes\u00e1tilet\u00e9ho sportovn zaloen\u00e9ho obyvatele msta Sai\u2026 [+3348 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.601388",
+      "internal_id": "50a944906575013d1a29be0cab4e704f90f01a9f64a6c9e36f9ae98439409355",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Brasil ultrapassa 1 milh\u00e3o de casos de dengue em 2025",
+      "description": "Apesar de queda em rela\u00e7\u00e3o a 2024, n\u00fameros indicam que 2025 ainda pode se tornar o segundo ano com mais casos da doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/14152156/combate-a-dengue4.jpg",
+      "publishedAt": "2025-04-20 14:16:19",
+      "content": "O Brasil ultrapassou neste domingo a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue registrados em 2025. Os dados do Minist\u00e9rio da Sa\u00fade apontam que at\u00e9 a 15 semana epidemiol\u00f3gica, encerrada no dia 1\u2026 [+3970 chars]",
+      "retrievedAt": "2025-04-21 19:06:02.788661",
+      "internal_id": "85c29cb40dfc83b2ca603d55fcd0aa5e3b6f27890da978b3864d00dc37f66fd3",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20561,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Conover Kennard",
+      "title": "'Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles",
+      "description": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treating children with measles and yet, he was seen on video with \u2026",
+      "url": "https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2025/04/65121.jpg",
+      "publishedAt": "2025-04-20 14:07:24",
+      "content": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treati\u2026 [+2010 chars]",
+      "retrievedAt": "2025-04-21 19:06:01.571811",
+      "internal_id": "61a895ffb80e1e2baeb8e3c73456fa2b80b88124534f4bd10601b6cd2a63e29b",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "\u00bfC\u00f3mo saber si tengo dengue? Esto dice el Ministerio de Salud P\u00fablica",
+      "description": "La cartera comunic\u00f3 los s\u00edntomas que podr\u00edan alertar sobre el contagio luego de que se detectara un nuevo caso en Paysand\u00fa.",
+      "url": "https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871745.jpg",
+      "publishedAt": "2025-04-20 12:57:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) alert\u00f3 sobre los s\u00edntomas del dengue, para evitar su propagaci\u00f3n en un comunicado difundido en redes sociales. El MSP recomienda eliminar reci\u2026 [+856 chars]",
+      "retrievedAt": "2025-04-21 19:06:02.796705",
+      "internal_id": "f23fe6fe7cfdbc0259d13b0457049954d863f9add1a77e47079159f31852ddfe",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20567,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Team BL",
+      "title": "Endgame malaria",
+      "description": "World Health Organization calls for reinvestment, reimagination, and reignition to accelerate progress towards ending malaria on World Malaria Day.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/b5k3bv/article69471172.ece/alternates/LANDSCAPE_1200/IMG_iStock-1405461058_2_1_36A6T7FQ.jpg",
+      "publishedAt": "2025-04-20 12:36:40",
+      "content": "On World Malaria Day (April 25), lets reinvest, reimagine, and reignite so that malaria ends with us, says the World Health Organization (WHO). The grassroots campaign aims to re-energise efforts f\u2026 [+1178 chars]",
+      "retrievedAt": "2025-04-21 19:06:03.627995",
+      "internal_id": "d5a40781f75f7368f55f9c40238aa701d54d68dece57452b8d5446b9c9ea2a1c",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20571,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Caos en la isla francesa de la Reuni\u00f3n por la epidemia de chikungunya",
+      "description": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
+      "url": "https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/9/e/9/hm.jpg",
+      "publishedAt": "2025-04-20 12:33:19",
+      "content": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u2026 [+1045 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.645179",
+      "internal_id": "d0b9cd511c49bacc058e28fe5966fcdc3a6e87dff39c1dcac3ac159747b34231",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20572,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Las autoridades de Reuni\u00f3n (Francia) avisan que est\u00e1n al borde de la saturaci\u00f3n por la epidemia de chikungunya",
+      "description": "Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
+      "url": "https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250420135315_1200.jpg",
+      "publishedAt": "2025-04-20 11:53:15",
+      "content": "MADRID 20 Abr. (EUROPA PRESS) - Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principio\u2026 [+1069 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.652959",
+      "internal_id": "1f24bc8c4f67ef03b11a7c3a39962cecb36b84b6b3c0d4254569c4c725d07931",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20560,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Haig Hovaness",
+      "title": "Links 4/20/2025",
+      "description": "Our strategic daily links: Wild leaps, more measles, toxic rice, robot runners, EU workers, Gaza horrors, Ukraine burning, student deportations, vanishing privacy, DOGEy moves, Trumpworld, immigration troubles, plunging markets, AI, and wretched excess",
+      "url": "https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/04/Caracal-600.jpg",
+      "publishedAt": "2025-04-20 10:55:56",
+      "content": "Solving the Trolley Problem: Towards Moral Abundance 3 Quarks Daily Does TED Still Make Sense? Quillette The amazing stunts by freerunner Dominic Di Tommaso [ domtomato]pic.twitter.com/cd0T9VCvaM \u2026 [+6596 chars]",
+      "retrievedAt": "2025-04-21 19:06:01.535576",
+      "internal_id": "d08e9fe0ab3fc21dbdc0351e1fcb11c7dd156876102ba9949a1d68099e345f73",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20563,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "David Cox",
+      "title": "What causes breakthrough measles infections even if someone is vaccinated?",
+      "description": "A small number of people who have been fully vaccinated against measles may get sick if exposed to the virus, research finds. Why do these infections happen?",
+      "url": "https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250417-measles-vaccine-vl-451p-b34c54.jpg",
+      "publishedAt": "2025-04-20 10:00:00",
+      "content": "More than 800 people in the U.S. have had measles since the beginning of the year, according to NBC News data. The majority of cases are in West Texas, where an outbreak that shows no signs of abatin\u2026 [+9661 chars]",
+      "retrievedAt": "2025-04-21 19:06:01.696471",
+      "internal_id": "ba5c948d48dfc3986b1660f156d88d401a611e4c9bde7b2eb82a5bd50d00e163",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20570,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "La R\u00e9union. Le directeur du CHU demande des renforts pour lutter contre l'\u00e9pid\u00e9mie de chikungunya",
+      "description": "Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche avoir demand\u00e9 l'envoi de renforts m\u00e9dicaux pour faire face au pic de l'\u00e9pid\u00e9mie de chikungunya, qui a d\u00e9j\u00e0 fait six morts sur l'\u00eele.",
+      "url": "https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9C81A770-1DEF-4317-944D-A7776F4F371D/FB1200/photo-1745136324.jpg",
+      "publishedAt": "2025-04-20 08:30:00",
+      "content": "Alors que l'\u00e9pid\u00e9mie de chikungunya fait des ravages \u00e0 La R\u00e9union, le directeur g\u00e9n\u00e9ral du centre hospitalier Lionel Calenge veut des renforts. Pour faire face \u00e0 une \u00ab hausse de l'activit\u00e9 aux urgenc\u2026 [+1938 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.623090",
+      "internal_id": "c84ddd68916cb6b34314531694ff701593761695e13a6327de951dca8b877826",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20568,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost avec AFP",
+      "title": "L\u2019\u00e9pid\u00e9mie de chikungunya atteint son pic \u00e0 La R\u00e9union, le CHU demande des renforts pour \u00e9viter des morts",
+      "description": "Six personnes sont d\u00e9j\u00e0 d\u00e9c\u00e9d\u00e9es sur l\u2019\u00eele \u00e0 cause de l\u2019\u00e9pid\u00e9mie de \u00ab chik \u00bb provoqu\u00e9e par des piq\u00fbres de moustiques tigre.",
+      "url": "https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/04/20/126/0/5613/3157/1820/1023/75/0/ef7e634_sirius-fs-upload-1-eakniyckcwec-1745135343150-000-39y86ke.jpg",
+      "publishedAt": "2025-04-20 07:53:03",
+      "content": "SANT\u00c9 - Le pic est l\u00e0, et il ne sait pas comment faire face. Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche 20 avril avoir demand\u00e9 lenvoi de renforts m\u00e9dic\u2026 [+2284 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.592906",
+      "internal_id": "8528bf6851786af0fba525c8f2cd1bffdf954410ac58265eb58cb05a4ae5c319",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20573,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Reconstruction de Mayotte, chikungunya\u2026 Les enjeux de la tourn\u00e9e d\u2019Emmanuel Macron dans l\u2019oc\u00e9an Indien",
+      "description": "Le pr\u00e9sident entame lundi une tourn\u00e9e de cinq jours dans l\u2019oc\u00e9an Indien afin de renforcer la place de la France dans cette r\u00e9gion strat\u00e9gique tr\u00e8s convoit\u00e9e.",
+      "url": "https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/2VE7BQ4MVVDPFLS533GOIIWXXE.jpg?auth=372c3194ca275c672f3515b165c1f26c14632361a2f6ed2b322a89fad18d81c2&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2025-04-20 07:30:00",
+      "content": "Cest une promesse que le pr\u00e9sident veut tenir. Le 18 d\u00e9cembre dernier, lorsquil est venu constater lampleur des d\u00e9g\u00e2ts du cyclone Chido, Emmanuel Macron avait promis aux Mahorais de revenir pour \"lan\u2026 [+3998 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.674104",
+      "internal_id": "47e1f4657199caec539796ce8d2c07bf7b23a8f474d4a1afb3cf996c982adb15",
       "publishedAtLabel": "Apr 20"
     }
   ]
