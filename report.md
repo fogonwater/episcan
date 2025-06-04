@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-06-04 07:08
-- **Most recent article:** 2025-06-03 04:38:57
+- **New articles in last harvest:** 23
+- **Last harvest:** 2025-06-04 19:06
+- **Most recent article:** 2025-06-03 18:05:50
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 88 | 82 | 75 | 77 | 68 | 30 | 526 |
-| dengue | 15 | 32 | 26 | 24 | 26 | 28 | 5 | 156 |
-| h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 3 | 146 |
-| malaria | 34 | 22 | 19 | 11 | 35 | 17 | 5 | 143 |
-| chikungunya | 45 | 16 | 15 | 25 | 12 | 12 | 6 | 131 |
+| measles | 101 | 88 | 82 | 75 | 77 | 68 | 33 | 524 |
+| dengue | 12 | 32 | 26 | 24 | 26 | 28 | 15 | 163 |
+| h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 8 | 151 |
+| malaria | 33 | 22 | 19 | 11 | 35 | 17 | 5 | 142 |
+| chikungunya | 39 | 16 | 15 | 25 | 12 | 12 | 7 | 126 |
 | mpox | 5 | 11 | 11 | 18 | 11 | 19 | 9 | 84 |
 | meningitis | 9 | 7 | 3 | 7 | 6 | 7 | 2 | 41 |
-| rabies | 3 | 4 | 12 | 3 | 6 | 9 | 0 | 37 |
-| zika | 2 | 3 | 6 | 3 | 10 | 9 | 2 | 35 |
-| yersinia | 0 | 0 | 0 | 1 | 1 | 11 | 1 | 14 |
+| rabies | 3 | 4 | 12 | 3 | 6 | 9 | 1 | 38 |
+| zika | 2 | 3 | 6 | 3 | 10 | 9 | 4 | 37 |
+| yersinia | 0 | 0 | 0 | 1 | 1 | 11 | 2 | 15 |
 | pertussis | 3 | 4 | 1 | 1 | 2 | 3 | 0 | 14 |
-| hpai | 1 | 2 | 3 | 1 | 2 | 1 | 0 | 10 |
+| hpai | 1 | 2 | 3 | 1 | 2 | 1 | 1 | 11 |
+| leptospirosis | 0 | 2 | 4 | 1 | 0 | 1 | 1 | 9 |
 | typhoid | 3 | 2 | 1 | 1 | 0 | 2 | 0 | 9 |
-| leptospirosis | 0 | 2 | 4 | 1 | 0 | 1 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,13 +34,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (zika)
 
+- [Secretaría de Salud presenta plan para reducir en 50% los casos de dengue](https://forbes.com.mx/secretaria-de-salud-presenta-plan-para-reducir-en-50-los-casos-de-dengue/) (Forbes.com.mx)
+
+- [The Big Zika Lies: Revisiting the Timeline, the Narratives, and the Ignored Science](https://www.globalresearch.ca/big-zika-lies-revisiting-ignored-science/5889281) (Globalresearch.ca)
+
 - [Eau stagnante, voisins, remèdes miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet été](https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html) (Franceinfo.fr)
 
 - [Qué pasó con los niños con microcefalia 10 años después de la epidemia de zika](https://www.bbc.com/mundo/articles/cje7zzy7w7no) (BBC News)
 
 ## 25-23 (yersinia)
 
+- [Νέα μελέτη αποκαλύπτει πώς η πανώλη επιβίωσε επί αιώνες - Τι μπορεί να μας διδάξει για τις σύγχρονες πανδημίες](https://www.skai.gr/news/health/nea-meleti-apokalyptei-pos-i-panoli-epiviose-epi-aiones) (Skai.gr)
+
 - [Una mutación ha suavizado a uno de los asesinos más letales de la historia](https://www.nationalgeographic.com.es/ciencia/susurro-genetico-muerte-negra-como-mutacion-ha-suavizado-a-uno-asesinos-mas-letales-historia_25171) (Nationalgeographic.com.es)
+
+## 25-23 (rabies)
+
+- [50-year-old dies in Madhya Pradesh, fifth victim of mysterious animal bite](https://timesofindia.indiatimes.com/city/bhopal/50-year-old-dies-in-madhya-pradesh-fifth-victim-of-mysterious-animal-bite/articleshow/121593842.cms) (The Times of India)
 
 ## 25-23 (mpox)
 
@@ -69,6 +79,12 @@ Source: [News API](https://newsapi.org/)
 - [Irlanda celebra el año Oscar Wilde: estos son los planes que se pueden hacer en el homenaje](https://www.eldiario.es/viajes/irlanda-celebra-ano-oscar-wilde-planes-homenaje-dublin-pm_1_12350604.html) (Eldiario.es)
 
 ## 25-23 (measles)
+
+- [First two measles cases reported in Yellowstone County](https://billingsgazette.com/news/local/article_22a1bb03-8b5a-49ff-b5c5-50b2872de673.html) (Billings Gazette)
+
+- [Measles Is Now Showing Up in Wastewater](https://time.com/7290566/wastewater-tracking-measles/) (Time)
+
+- [Noem's Big Bust Is A Big Bust](https://crooksandliars.com/2025/06/noems-big-bust-bust) (Crooksandliars.com)
 
 - [Local health officials address latest measles numbers](https://www.valleynewslive.com/2025/06/03/local-health-officials-address-latest-measles-numbers/) (Valley News Live)
 
@@ -142,7 +158,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
+## 25-23 (leptospirosis)
+
+- [Alerta: reportan la muerte de animales por una enfermedad peligrosa en zonas inundadas](https://www.lanacion.com.ar/economia/campo/alerta-reportan-la-muerte-de-animales-por-una-enfermedad-peligrosa-en-zonas-inundadas-nid03062025/) (La Nacion)
+
+## 25-23 (hpai)
+
+- [Letters to Editor: The fast evolving trajectories of HPAI A(H5N1) virus: Lots of food for thought](https://www.lescienze.it/pubblicazioni/2025/06/03/news/letters_to_editor_the_fast_evolving_trajectories_of_hpai_ah5n1_virus_lots_of_food_for_thought-19338217/) (Lescienze.it)
+
 ## 25-23 (h5n1)
+
+- [New mRNA vaccine is more effective and less costly to develop](https://www.sciencedaily.com/releases/2025/06/250603114825.htm) (Science Daily)
+
+- [¿Es seguro consumir leche de una vaca infectada por gripe aviar?](https://www.nationalgeographic.com.es/ciencia/ivan-diaz-luque-experto-sanidad-animal-beber-leche-vacas-infectadas-por-gripe-aviar-no-es-peligroso-siempre-que-esta-pasteurizada_25169) (Nationalgeographic.com.es)
+
+- [New mRNA vaccine is more effective and less costly to develop, study finds](https://medicalxpress.com/news/2025-06-mrna-vaccine-effective.html) (Medical Xpress)
+
+- [Letters to Editor: The fast evolving trajectories of HPAI A(H5N1) virus: Lots of food for thought](https://www.lescienze.it/pubblicazioni/2025/06/03/news/letters_to_editor_the_fast_evolving_trajectories_of_hpai_ah5n1_virus_lots_of_food_for_thought-19338217/) (Lescienze.it)
+
+- [Moderna Dijanjikan Dana Riset Vaksin Flu Burung, Endingnya Kena 'PHP' Trump](https://health.detik.com/berita-detikhealth/d-7946452/moderna-dijanjikan-dana-riset-vaksin-flu-burung-endingnya-kena-php-trump) (Detik.com)
 
 - [Περιστατικά γρίπης πτηνών ανακοίνωσε η Λετονία](https://dialogos.com.cy/peristatika-gripis-ptinon-anakoinose-i-letonia/) (Dialogos.com.cy)
 
@@ -151,6 +185,26 @@ Source: [News API](https://newsapi.org/)
 - [गोरखपुर के इन 5 इलाकों में Bird Flu, पक्षियों को मारने का अभियान शुरू](https://www.aajtak.in/uttar-pradesh/story/gorakhpur-bird-flu-confirmed-five-localities-lclnt-dskc-2253662-2025-06-01) (Aajtak.in)
 
 ## 25-23 (dengue)
+
+- [Zancudos en época de lluvias: ¿Por qué es peligroso tomar ibuprofeno si te da dengue?](https://www.elfinanciero.com.mx/salud/2025/06/03/zancudos-en-epoca-de-lluvias-por-que-es-peligroso-tomar-ibuprofeno-si-te-da-dengue/) (El Financiero)
+
+- [Secretaría de Salud presenta plan para reducir en 50% los casos de dengue](https://forbes.com.mx/secretaria-de-salud-presenta-plan-para-reducir-en-50-los-casos-de-dengue/) (Forbes.com.mx)
+
+- [Casa Dengue a Livorno in donna tornata viaggio all'estero](https://www.ansa.it/toscana/notizie/2025/06/03/casa-dengue-a-livorno-in-donna-tornata-viaggio-allestero_46bc4057-5614-4f66-837d-ba7c5e51b784.html) (ANSA.it)
+
+- [Tigermücken: Plagegeister ohne Eier](https://www.zeit.de/2025/23/tigermuecken-krankheiten-forschung-tessin-schweiz) (Die Zeit)
+
+- [Ssa enlista los estados con mayor presencia de dengue; se desarrollará vacuna](https://www.excelsior.com.mx/nacional/ssa-enlista-los-estados-con-mayor-presencia-de-dengue-se-desarrollara-vacuna/1719409) (Excelsior.com.mx)
+
+- [Assessing generalizability of a dengue classifier across multiple datasets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323886) (Plos.org)
+
+- [¿Cuál es el plan para prevenir el dengue en México? Dr. David Kershenobich responde](https://www.milenio.com/ciencia-y-salud/cual-es-el-plan-combate-dengue-mexico-ssa) (Milenio)
+
+- [Dengue en México: ¿Cuáles son los síntomas y qué medicamentos NO se pueden tomar?](https://www.milenio.com/ciencia-y-salud/dengue-en-mexico-sintomas-y-como-tratarlo) (Milenio)
+
+- [¿Cuáles son los estados con MÁS casos de dengue en México? Secretaría de Salud responde](https://www.milenio.com/politica/comunidad/dengue-en-mexico-estos-so-los-estados-con-mas-casos) (Milenio)
+
+- [Zamboanga: ZC LOGS 742 CASES WITH 3 DEATHS IN FIRST 5 MONTHS](https://rpnradio.com/zamboanga-zc-logs-742-cases-with-3-deaths-in-first-5-months/) (Rpnradio.com)
 
 - [Eau stagnante, voisins, remèdes miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet été](https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html) (Franceinfo.fr)
 
@@ -163,6 +217,8 @@ Source: [News API](https://newsapi.org/)
 - [Soluble triggering receptor expressed on myeloid cells 1 is associated with hemoconcentration and endothelial activation in children and young adults with dengue virus infection in the Philippines](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013084) (Plos.org)
 
 ## 25-23 (chikungunya)
+
+- [Chikungunya à Mayotte : "La transmission est intense et généralisée sur toute l'île", alerte le médecin épidémiologiste Eric d’Ortenzio](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-a-mayotte-la-transmission-est-intense-et-generalisee-sur-toute-l-ile-alerte-le-medecin-epidemiologiste-eric-d-ortenzio_7289304.html) (Franceinfo.fr)
 
 - [Eau stagnante, voisins, remèdes miracles... Cinq conseils pratiques pour lutter contre le moustique tigre cet été](https://www.franceinfo.fr/sante/eau-stagnante-voisins-remedes-miracles-cinq-conseils-pratiques-pour-lutter-contre-le-moustique-tigre-cet-ete_7261476.html) (Franceinfo.fr)
 
@@ -2676,16 +2732,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Louisiana, Missouri and Virginia report first measles cases of 2025](https://www.nbcnews.com/news/us-news/louisiana-missouri-virginia-report-first-measles-cases-2025-rcna202038) (NBC News)
 
-- [Measles outbreaks spreads across to 27 states...](https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427) (Themirror.com)
-
-- [US has 800 measles cases and outbreaks in several states. Here’s what you should know](https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/) (WPXI Pittsburgh)
-
-- ['Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles](https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor) (Crooksandliars.com)
-
-- [Links 4/20/2025](https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html) (Nakedcapitalism.com)
-
-- [What causes breakthrough measles infections even if someone is vaccinated?](https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799) (NBC News)
-
 ## 25-17 (malaria)
 
 - [Malaria disrupts economic ecosystem, raises healthcare costs – Health Minister](https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html) (Premium Times)
@@ -2754,8 +2800,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
 
-- [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
-
 ## 25-17 (hpai)
 
 - [Virginia wild birds hit with 200 bird flu cases this year](https://richmond.com/news/local/government-politics/article_127cc992-55f9-4a19-9f5c-cb2785056f37.html) (Richmond.com)
@@ -2815,12 +2859,6 @@ Source: [News API](https://newsapi.org/)
 - [GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a) (Royal Society of Chemistry)
 
 - [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
-
-- [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
-
-- [Brasil ultrapassa 1 milhão de casos de dengue em 2025](https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025) (Metropoles.com)
-
-- [¿Cómo saber si tengo dengue? Esto dice el Ministerio de Salud Pública](https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271) (Montevideo.com.uy)
 
 ## 25-17 (chikungunya)
 
@@ -2901,15 +2939,3 @@ Source: [News API](https://newsapi.org/)
 - [Cyclone Garance, épidémie de chikungunya... Emmanuel Macron en visite à La Réunion](https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html) (BFMTV)
 
 - [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
-
-- [Ostrov Réunion sužuje „mini-covid“. Komáří horečku chytil už každý devátý](https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred) (Idnes.cz)
-
-- [Caos en la isla francesa de la Reunión por la epidemia de chikungunya](https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html) (Eleconomista.es)
-
-- [Las autoridades de Reunión (Francia) avisan que están al borde de la saturación por la epidemia de chikungunya](https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html) (Europapress.es)
-
-- [La Réunion. Le directeur du CHU demande des renforts pour lutter contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
-
-- [L’épidémie de chikungunya atteint son pic à La Réunion, le CHU demande des renforts pour éviter des morts](https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html) (Le HuffPost)
-
-- [Reconstruction de Mayotte, chikungunya… Les enjeux de la tournée d’Emmanuel Macron dans l’océan Indien](https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/) (L'Express)

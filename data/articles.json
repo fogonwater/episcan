@@ -1,8 +1,424 @@
 {
-  "last_updated": "2025-06-04 07:08",
-  "count_articles_total": 1286,
-  "count_articles_new": 25,
+  "last_updated": "2025-06-04 19:06",
+  "count_articles_total": 1294,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 21867,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": null,
+      "title": "Zancudos en \u00e9poca de lluvias: \u00bfPor qu\u00e9 es peligroso tomar ibuprofeno si te da dengue?",
+      "description": "\u201cLo estamos haciendo en colaboraci\u00f3n con la Organizaci\u00f3n Panamericana de la Salud, tratando de establecer los criterios cl\u00ednicos del manejo de dengue\u201d, dijo el secretario de Salud.",
+      "url": "https://www.elfinanciero.com.mx/salud/2025/06/03/zancudos-en-epoca-de-lluvias-por-que-es-peligroso-tomar-ibuprofeno-si-te-da-dengue/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/v2/K73MZVH4NFHB7EQMBMZBSCKKGY.jpg?smart=true&auth=dbf6f47c0482dd06194d96003268834ab5815ea6c0f9236cf9f15114642423ec&width=1200&height=630",
+      "publishedAt": "2025-06-03 18:05:50",
+      "content": "En conferencia de prensa de la presidenta Claudia Sheinbaum, el secretario de Salud, David Kershenobich, inform\u00f3 sobre el tratamiento que se debe tomar en caso de que una persona sea contagiada de de\u2026 [+2351 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.732690",
+      "internal_id": "ea6a9fac13de044bfc076667187277a9d2cbd1b1b37611adb137f4c0a1b7d3e3",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21865,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Secretar\u00eda de Salud presenta plan para reducir en 50% los casos de dengue",
+      "description": "Forbes M\u00e9xico. Secretar\u00eda de Salud presenta plan para reducir en 50% los casos de dengue La dependencia inform\u00f3 que en este 2025 se han presentado 1,781 casos no graves de dengue; 1,921 casos con alarma; 155 graves y 18 defunciones. Secretar\u00eda de Salud pres\u2026",
+      "url": "https://forbes.com.mx/secretaria-de-salud-presenta-plan-para-reducir-en-50-los-casos-de-dengue/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
+      "publishedAt": "2025-06-03 17:13:52",
+      "content": "La Secretar\u00eda de Salud (SSa) present\u00f3 este martes el Plan anual contra el dengue que busca reducir en un 50% el n\u00famero de nuevos casos de enfermedades como dengue y zika, entre otros, en los pr\u00f3ximos\u2026 [+2042 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.710619",
+      "internal_id": "a328adba57d89a5b622c564f8215fa9b32cc887bac507653e628448402d830ec",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21871,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Casa Dengue a Livorno in donna tornata viaggio all'estero",
+      "description": "Un caso di Dengue \u00e8 stato diagnosticato a una livornese di circa 30 anni di ritorno da un soggiorno nel Sud-Est Asiatico. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/06/03/casa-dengue-a-livorno-in-donna-tornata-viaggio-allestero_46bc4057-5614-4f66-837d-ba7c5e51b784.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-06-03 17:03:22",
+      "content": "Un caso di Dengue \u00e8 stato diagnosticato a una livornese di circa 30 anni di ritorno da un soggiorno nel Sud-Est Asiatico. La donna, che si \u00e8 presentata al pronto soccorso con lievi sintomi febbril\u2026 [+1332 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.780124",
+      "internal_id": "20c5709faa0ffc1ebf6f4f95b1a449fbfb45f25c96bd97cca29bc46e59b4a139",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21864,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Wissen - Brigitte Wenger",
+      "title": "Tigerm\u00fccken: Plagegeister ohne Eier",
+      "description": "In Norditalien l\u00f6sen Tigerm\u00fccken l\u00e4ngst gef\u00e4hrliche Dengue-Epidemien aus. Eine Frau zeigt, wie sich das verhindern l\u00e4sst und warum die Schweiz noch tropenfieberfrei ist.",
+      "url": "https://www.zeit.de/2025/23/tigermuecken-krankheiten-forschung-tessin-schweiz",
+      "urlToImage": "https://img.zeit.de/2025/23/tigermuecken-krankheiten-forschung-bild/wide__1300x731",
+      "publishedAt": "2025-06-03 16:42:59",
+      "content": "Eleonora Flacio steht in ihrem Labor an der Fachhochschule der italienischen Schweiz (Supsi) in Mendrisio, in ihrem Ohr glitzert ein Stecker in Form einer Tigerm\u00fccke, einer zanzara tigre, wie der Pla\u2026 [+731 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.689989",
+      "internal_id": "8220266aaefa8166e8beead8ab6e319e6704a3db0c7f0df1c0caa044b5c440bd",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21858,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Billings Gazette",
+      "author": "Billings Gazette",
+      "title": "First two measles cases reported in Yellowstone County",
+      "description": "The pair had fully recovered and were no longer contagious by the time they returned to Yellowstone County so there is no risk of measles spreading here from these cases.",
+      "url": "https://billingsgazette.com/news/local/article_22a1bb03-8b5a-49ff-b5c5-50b2872de673.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/2/2a/22a1bb03-8b5a-49ff-b5c5-50b2872de673/683f22fa1892a.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-06-03 16:35:00",
+      "content": "Two confirmed cases of measles in Yellowstone County were reported Tuesday by RiverStone Health and the Montana Department of Public Health and Human Services. An unvaccinated adult and an unvaccina\u2026 [+3039 chars]",
+      "retrievedAt": "2025-06-04 19:06:11.276405",
+      "internal_id": "33b4f300f057de3a85aa0d9dc4e2494d4bca8afdb294ddca2bd6fb640e43bbd2",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21876,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Alerta: reportan la muerte de animales por una enfermedad peligrosa en zonas inundadas",
+      "description": "El asesor t\u00e9cnico en ganader\u00eda Marcos Saint Martin explic\u00f3 los motivos del incremento del riesgo de leptospirosis",
+      "url": "https://www.lanacion.com.ar/economia/campo/alerta-reportan-la-muerte-de-animales-por-una-enfermedad-peligrosa-en-zonas-inundadas-nid03062025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/un-experto-en-salud-animal-advirtio-sobre-el-P4UEIQHSI5DH5MXU3QDIQCZFEQ.png?auth=719df89c54a47e54687f303d8332aa9c939ded9cb68574e9180f67cea1b03712&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-06-03 16:32:30",
+      "content": "Una nueva preocupaci\u00f3n se gener\u00f3 tras la detecci\u00f3n de casos de leptospirosis en las zonas afectadas por las inundaciones de las \u00faltimas semanas. La advertencia la hizo el asesor t\u00e9cnico en ganader\u00eda,\u2026 [+2545 chars]",
+      "retrievedAt": "2025-06-04 19:06:14.425021",
+      "internal_id": "37def72377a98f8720164387b5736200845f557ea7ccbcf22ae58d1ebcc0e546",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21877,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u039d\u03ad\u03b1 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03b5\u03b9 \u03c0\u03ce\u03c2 \u03b7 \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03b5\u03c0\u03b9\u03b2\u03af\u03c9\u03c3\u03b5 \u03b5\u03c0\u03af \u03b1\u03b9\u03ce\u03bd\u03b5\u03c2 - \u03a4\u03b9 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03b4\u03b9\u03b4\u03ac\u03be\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b5\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b5\u03c2",
+      "description": "\u0397 \u03bd\u03cc\u03c3\u03bf\u03c2 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b2\u03b1\u03ba\u03c4\u03ae\u03c1\u03b9\u03bf Yersinia pestis, \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03b5\u03af \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf\u03c5\u03c2 \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 5.000 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1",
+      "url": "https://www.skai.gr/news/health/nea-meleti-apokalyptei-pos-i-panoli-epiviose-epi-aiones",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/shutterstock_2499118483.jpg?itok=hn07M4Ks",
+      "publishedAt": "2025-06-03 16:26:08",
+      "content": ", . CNN, , , 25 . Yersinia pestis, 5.000 . 1 .. . , . , , , . . Yersinia pestis, , . Science, , , , . , , Y. pestis . , . , . 1347 1352 30% 50% . , 541 544 .. 1850 1894. . , Y. pestis 1\u2026 [+406 chars]",
+      "retrievedAt": "2025-06-04 19:06:14.533018",
+      "internal_id": "e950729bfc1e396c21f71f13ee3620d569f75cf95fc7b013dd8c58fbdbef5213",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21856,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Alice Park",
+      "title": "Measles Is Now Showing Up in Wastewater",
+      "description": "Tracking measles through wastewater is giving health officials a new window into where the virus is spreading.",
+      "url": "https://time.com/7290566/wastewater-tracking-measles/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/06/measles-virus.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-06-03 15:57:53",
+      "content": "Measles cases in the U.S. have been rare in recent decades, thanks to a strong childhood vaccination program. But a few cases inevitably pop up each year as travelers bring the virus in from other co\u2026 [+4969 chars]",
+      "retrievedAt": "2025-06-04 19:06:11.138161",
+      "internal_id": "cd708a2a79433c0d06ed4972481bdbe6c939e8e0bbef3d76910eac41fe18cc43",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21860,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New mRNA vaccine is more effective and less costly to develop",
+      "description": "A new type of mRNA vaccine is more scalable and adaptable to continuously evolving viruses such as SARS-CoV-2 and H5N1, according to a new study.",
+      "url": "https://www.sciencedaily.com/releases/2025/06/250603114825.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-06-03 15:48:25",
+      "content": "A new type of mRNA vaccine is more scalable and adaptable to continuously evolving viruses such as SARS-CoV-2 and H5N1, according to a study by researchers at University of Pittsburgh School of Publi\u2026 [+2512 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.149380",
+      "internal_id": "c453c25ae6b1fc5714cfb640f68cb5394cc323ad0e0d15f1e8e5b96f9ed7ef27",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21857,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Chris capper Liebenthal",
+      "title": "Noem's Big Bust Is A Big Bust",
+      "description": "It's pretty obvious that the Rancid Kumquat and all of his Trumpanzees are the most incompetent bunch of neanderthals to disgrace Washington, DC. Sean Duffy is making airplane crashes great again. RFK, Jr is making measles great again. President Elmo spent ov\u2026",
+      "url": "https://crooksandliars.com/2025/06/noems-big-bust-bust",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/06/kristi_noem_-_klaudia_radecka-nurphoto_via_getty_images.jpg",
+      "publishedAt": "2025-06-03 15:22:55",
+      "content": "It's pretty obvious that the Rancid Kumquat and all of his Trumpanzees are the most incompetent bunch of neanderthals to disgrace Washington, DC. Sean Duffy is making airplane crashes great again. RF\u2026 [+3127 chars]",
+      "retrievedAt": "2025-06-04 19:06:11.216143",
+      "internal_id": "1ea943aef79f46dfac021ee896f18c18821c70db15c6656ab014159416a77f02",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21866,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Ssa enlista los estados con mayor presencia de dengue; se desarrollar\u00e1 vacuna",
+      "description": "Fernando D\u00e1vila En el marco de la conferencia ma\u00f1anera de la presidenta de M\u00e9xico, Claudia Sheinbaum Pardo, el titular de la Secretar\u00eda de Salud (Ssa), David Kershenobich Stalnikowitz, inform\u00f3 sobre los casos de dengue confirmados en el pa\u00eds durante lo que v\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/ssa-enlista-los-estados-con-mayor-presencia-de-dengue-se-desarrollara-vacuna/1719409",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/06/03/3317866.jpg",
+      "publishedAt": "2025-06-03 14:48:01",
+      "content": "En el marco de la conferencia ma\u00f1anera de la presidenta de M\u00e9xico, Claudia Sheinbaum Pardo, el titular de la Secretar\u00eda de Salud (Ssa), David Kershenobich Stalnikowitz, inform\u00f3 sobre los casos de den\u2026 [+2584 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.722144",
+      "internal_id": "85bda114766b10c14f2246ca78c982820e5772d009fa20336df3a108d1ec8871",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21872,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bingqian Lu, Yanni Li, Ciaran Evans",
+      "title": "Assessing generalizability of a dengue classifier across multiple datasets",
+      "description": "Early diagnosis of dengue fever is important for individual treatment and monitoring disease prevalence in the population. To assist diagnosis, previous studies have proposed classification models to detect dengue from symptoms and clinical measurements. Howe\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323886",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0323886.g005&size=inline",
+      "publishedAt": "2025-06-03 14:00:00",
+      "content": "Citation: Lu B, Li Y, Evans C (2025) Assessing generalizability of a dengue classifier across multiple datasets. PLoS One 20(6): e0323886. https://doi.org/10.1371/journal.pone.0323886 Editor: Har\u2026 [+53746 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.806074",
+      "internal_id": "3593f50018ed482ef1cc3a2ded4453ad87ec934aceecc5f1eff888780e5b6127",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21869,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Claudia Flores",
+      "title": "\u00bfCu\u00e1l es el plan para prevenir el dengue en M\u00e9xico? Dr. David Kershenobich responde",
+      "description": "El Secretario de Salud, Dr. David Kershenobich Stalnikowitz, confirm\u00f3 que el dengue sigue presente en el pa\u00eds y a pesar de que han disminuido en comparaci\u00f3n con el mismo periodo de 2024, se han confirmado m\u00e1s de 100 casos y present\u00f3 un plan para prevenir o co\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/cual-es-el-plan-combate-dengue-mexico-ssa",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/03/secretario-salud-recomendo-tomar-caso.jpeg",
+      "publishedAt": "2025-06-03 13:01:00",
+      "content": "El Secretario de Salud, Dr. David Kershenobich Stalnikowitz, confirm\u00f3 que el dengue sigue presente en el pa\u00eds y a pesar de que han disminuido en comparaci\u00f3n con el mismo periodo de 2024, se han confi\u2026 [+1540 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.752376",
+      "internal_id": "32dd5d249d76727620210ed1f21385c581ada0e984d99035fb8232bd8cf72e92",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21863,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergi Alcalde, Sergi Alcalde",
+      "title": "\u00bfEs seguro consumir leche de una vaca infectada por gripe aviar?",
+      "description": "El virus de la gripe aviar, (como se denomina a la cepa H5N1, del Influenzavirus A) es un viejo conocido que lleva azotando a la humanidad desde que fue identificado en Hong Kong en 1997. Pero las \u00faltimas noticias procedentes del continente americano, especia\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/ivan-diaz-luque-experto-sanidad-animal-beber-leche-vacas-infectadas-por-gripe-aviar-no-es-peligroso-siempre-que-esta-pasteurizada_25169",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2025/06/02/leche-de-vaca_c90b5e25_250602123502_1200x630.webp",
+      "publishedAt": "2025-06-03 13:00:00",
+      "content": "El virus de la gripe aviar, (como se denomina a la cepa H5N1, del Influenzavirus A) es un viejo conocido que lleva azotando a la humanidad desde que fue identificado en Hong Kong en 1997. Pero las \u00fal\u2026 [+9542 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.223960",
+      "internal_id": "a04a0ff888ee4dc3bb443ad5be875919aa04eab87560e142dcbe8f74219d1968",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21868,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Mayte Baena",
+      "title": "Dengue en M\u00e9xico: \u00bfCu\u00e1les son los s\u00edntomas y qu\u00e9 medicamentos NO se pueden tomar?",
+      "description": "La ma\u00f1ana de este martes 3 de junio, la Secretar\u00eda de Salud inform\u00f3 cu\u00e1les son los estados de la Rep\u00fablica donde se han presentado m\u00e1s casos de dengue tras la picadura de un mosquito. \u00bfSabes cu\u00e1les son los s\u00edntomas de la enfermedad y c\u00f3mo tratarla? En MILENIO\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/dengue-en-mexico-sintomas-y-como-tratarlo",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/03/estos-son-los-sintomas-que.jpeg",
+      "publishedAt": "2025-06-03 12:46:00",
+      "content": "La ma\u00f1ana de este martes 3 de junio, la Secretar\u00eda de Salud inform\u00f3 cu\u00e1les son los estados de la Rep\u00fablica donde se han presentado m\u00e1s casos de dengue tras la picadura de un mosquito. \u00bfSabes cu\u00e1les s\u2026 [+2188 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.742641",
+      "internal_id": "b91491291579184e9146bde662a54f2955b908c9e6f12681a4d2633bd89f160b",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21870,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Yareli Rafael",
+      "title": "\u00bfCu\u00e1les son los estados con M\u00c1S casos de dengue en M\u00e9xico? Secretar\u00eda de Salud responde",
+      "description": "En la conferencia matutina de este martes 03 de junio, el titular de la Secretar\u00eda de Salud, David Kershenobich Stalnikowitz, inform\u00f3 sobre los casos de dengue confirmados en M\u00e9xico durante lo que va del a\u00f1o.Desde el sal\u00f3n de Tesorer\u00eda de Palacio Nacional, el\u2026",
+      "url": "https://www.milenio.com/politica/comunidad/dengue-en-mexico-estos-so-los-estados-con-mas-casos",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/03/dengue-infeccion-transmitida-mosquito-aedes.jpeg",
+      "publishedAt": "2025-06-03 12:42:00",
+      "content": "En la conferencia matutina de este martes 03 de junio, el titular de la Secretar\u00eda de Salud, David Kershenobich Stalnikowitz, inform\u00f3 sobre los casos de dengue confirmados en M\u00e9xico durante lo que va\u2026 [+246 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.762345",
+      "internal_id": "ed1529d1d89efc3eba5c66ab23bb27de6d8a9d5c67c16a9c89f1ee745ac2ad27",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21874,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Dr. James Lyons-Weiler",
+      "title": "The Big Zika Lies: Revisiting the Timeline, the Narratives, and the Ignored Science",
+      "description": "In 2015, global media and health authorities declared war on a new public health threat: the Zika virus. Women in Brazil, particularly in the impoverished Northeast, were warned that a bite from a mosquito could lead to devastating birth defects, \u2026 The post T\u2026",
+      "url": "https://www.globalresearch.ca/big-zika-lies-revisiting-ignored-science/5889281",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2016/08/zika1.jpg",
+      "publishedAt": "2025-06-03 12:34:30",
+      "content": "In 2015, global media and health authorities declared war on a new public health threat: the Zika virus. Women in Brazil, particularly in the impoverished Northeast, were warned that a bite from a mo\u2026 [+15425 chars]",
+      "retrievedAt": "2025-06-04 19:06:13.533936",
+      "internal_id": "1834d63a098b1fa1a811f46ee7409e5a45919281a66b94965d05579bc00ee5bb",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21875,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 Mayotte : \"La transmission est intense et g\u00e9n\u00e9ralis\u00e9e sur toute l'\u00eele\", alerte le m\u00e9decin \u00e9pid\u00e9miologiste Eric d\u2019Ortenzio",
+      "description": "Le m\u00e9decin \u00e9pid\u00e9miologiste \u00e0 l\u2019ANRS MIE, Docteur Eric d\u2019Ortenzio, \u00e9tait l\u2019invit\u00e9 du 11/13 de franceinfo mardi 3 juin 2025.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-a-mayotte-la-transmission-est-intense-et-generalisee-sur-toute-l-ile-alerte-le-medecin-epidemiologiste-eric-d-ortenzio_7289304.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/a8fPTgXIxXS5dWB8chJbHRX9E-M/0x0:1424x801/1500x843/2025/06/03/eric-683ee4fc8ee94173741196.jpg",
+      "publishedAt": "2025-06-03 12:06:45",
+      "content": "Le m\u00e9decin \u00e9pid\u00e9miologiste \u00e0 lANRS MIE, Docteur Eric dOrtenzio, \u00e9tait linvit\u00e9 du 11/13 de franceinfo mardi 3 juin 2025. Mayotte est pass\u00e9e lundi 2 juin en phase \u00e9pid\u00e9mique de chikungunya. 560 cas on\u2026 [+899 chars]",
+      "retrievedAt": "2025-06-04 19:06:13.929937",
+      "internal_id": "893cc5a76664d296b470069266829101caf49bd10b33fb730f91605fa04faad8",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21855,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Animesh Jain",
+      "title": "50-year-old dies in Madhya Pradesh, fifth victim of mysterious animal bite",
+      "description": "In Barwani district, a fifth person died after being bitten by an unknown animal, raising concerns about the anti-rabies vaccine's effectiveness. Seventeen villagers were attacked, and despite treatment, fatalities occurred. Authorities are investigating the \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/50-year-old-dies-in-madhya-pradesh-fifth-victim-of-mysterious-animal-bite/articleshow/121593842.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121596361,width-1070,height-580,imgsize-20410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-06-03 10:50:18",
+      "content": "Mona Lisa to Abraham Lincoln: AI imagines what famous personalities would look like today",
+      "retrievedAt": "2025-06-04 19:06:10.705270",
+      "internal_id": "44ae6a2d3de09a9c02276f0a32d43ac0efbdacfdf5c22900f42c020ceaacbdb8",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21862,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "University Of Pittsburgh",
+      "title": "New mRNA vaccine is more effective and less costly to develop, study finds",
+      "description": "A new type of mRNA vaccine is more scalable and adaptable to continuously evolving viruses such as SARS-CoV-2 and H5N1, according to a study by researchers at the University of Pittsburgh School of Public Health and the Pennsylvania State University. The stud\u2026",
+      "url": "https://medicalxpress.com/news/2025-06-mrna-vaccine-effective.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/mrna-vaccine.jpg",
+      "publishedAt": "2025-06-03 10:39:18",
+      "content": "A new type of mRNA vaccine is more scalable and adaptable to continuously evolving viruses such as SARS-CoV-2 and H5N1, according to a study by researchers at the University of Pittsburgh School of P\u2026 [+2503 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.214007",
+      "internal_id": "e8528630e61cd1fa9dbe0b0a4c6383678a5ef815539a5ed929ad08e09f4996ab",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21859,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lescienze.it",
+      "author": "redazione@lescienze.it (Redazione Le Scienze Italia)",
+      "title": "Letters to Editor: The fast evolving trajectories of HPAI A(H5N1) virus: Lots of food for thought",
+      "description": "Nome rivista: BMJ Numero: 385 Data pubblicazione: 29/05/2025",
+      "url": "https://www.lescienze.it/pubblicazioni/2025/06/03/news/letters_to_editor_the_fast_evolving_trajectories_of_hpai_ah5n1_virus_lots_of_food_for_thought-19338217/",
+      "urlToImage": "https://www.repstatic.it/cless/channel/lescienze/2019-v1/img/favicon/favicon-1500x1500.png",
+      "publishedAt": "2025-06-03 10:04:45",
+      "content": "Autori:Nome: GiovanniCognome: Di Guardo Affiliazione: Former Professor of General Pathology and Veterinary Pathophysiology at the Veterinary Medical Faculty of the University of Teramo, 64100 Teramo\u2026 [+3626 chars]",
+      "retrievedAt": "2025-06-04 19:06:11.703272",
+      "internal_id": "716c76f512155bd955b1012992d6c8798b30f3f996d24404f27b6c82517549ae",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21873,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Zamboanga: ZC LOGS 742 CASES WITH 3 DEATHS IN FIRST 5 MONTHS",
+      "description": "Dengue cases in Zamboanga City have soared by 42% from January 1 to May 17 this year compared to the same period in 2024, according to the City Heath Office (CHO). Nonetheless, City Health Officer Dr. Dulce Miravite in a press briefing at City Hall Wednesday,\u2026",
+      "url": "https://rpnradio.com/zamboanga-zc-logs-742-cases-with-3-deaths-in-first-5-months/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503610456_1023373886570163_1700252182434715193_n.jpg",
+      "publishedAt": "2025-06-03 08:57:36",
+      "content": "Dengue cases in Zamboanga City have soared by 42% from January 1 to May 17 this year compared to the same period in 2024, according to the City Heath Office (CHO). Nonetheless, City Health Officer D\u2026 [+2066 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.840948",
+      "internal_id": "924bfb577a7561f9292beb1584d9c7ce338cb264972bd8147bb8f5f4f71a9a38",
+      "publishedAtLabel": "Jun 3"
+    },
+    {
+      "id": 21861,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Detik.com",
+      "author": "Khadijah Nur Azizah",
+      "title": "Moderna Dijanjikan Dana Riset Vaksin Flu Burung, Endingnya Kena 'PHP' Trump",
+      "description": "Pemerintahan Trump membatalkan dana USD 766 juta untuk Moderna, yang awalnya ditujukan untuk vaksin melawan flu burung H5N1.",
+      "url": "https://health.detik.com/berita-detikhealth/d-7946452/moderna-dijanjikan-dana-riset-vaksin-flu-burung-endingnya-kena-php-trump",
+      "urlToImage": "https://awsimages.detik.net.id/api/wm/2021/07/01/menganal-vaksin-moderna-yang-diklaim-ampuh-tangkis-varian-delta_169.jpeg?w=1200",
+      "publishedAt": "2025-06-03 08:34:31",
+      "content": "Jakarta - Pemerintahan Presiden AS Donald Trump membatalkan dana penelitan sebesar USD 766 juta untuk perusahaan farmasi Moderna. Awalnya, dana tersebut dijanjikan agar Moderna bisa membuat vaksin un\u2026 [+1298 chars]",
+      "retrievedAt": "2025-06-04 19:06:12.196053",
+      "internal_id": "e9430f9c872c6513c4a2e94be2ef9e61fa0cdb9447780a5b14139285ebb9d40f",
+      "publishedAtLabel": "Jun 3"
+    },
     {
       "id": 21848,
       "query": [
@@ -22947,276 +23363,6 @@
       "content": "Louisiana, Missouri and Virginia have all reported their first measles cases in 2025, and they say all three patients cases are linked to international travel. The most recently announced case in no\u2026 [+2927 chars]",
       "retrievedAt": "2025-04-22 07:07:33.796258",
       "internal_id": "bc0703c8a0161b55f06394ebb24919618983b89ca11becef67900f6cf67c4554",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20562,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Themirror.com",
-      "author": "the mirror us",
-      "title": "Measles outbreaks spreads across to 27 states...",
-      "description": "",
-      "url": "https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427",
-      "urlToImage": null,
-      "publishedAt": "2025-04-20 17:00:03",
-      "content": "Parts of the US are recording some of their first measles cases, with at least 27 states in America now impacted by the ongoing measles outbreak",
-      "retrievedAt": "2025-04-21 19:06:01.655199",
-      "internal_id": "7b76307292503f9000169f5e8b348fdb6d787a35a7b2b18e5521f5823de127c8",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20580,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WPXI Pittsburgh",
-      "author": null,
-      "title": "US has 800 measles cases and outbreaks in several states. Here\u2019s what you should know",
-      "description": "Measles is caused by a highly contagious virus that\u2019s airborne and spreads easily when an infected person breathes, sneezes or coughs. It is preventable through vaccines, and has been considered eliminated from the U.S. since 2000.",
-      "url": "https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/",
-      "urlToImage": "https://www.wpxi.com/resizer/ZGCn3vlVm94I5vsZ5DFAamrd9_E=/arc-anglerfish-arc2-prod-cmg/public/WVMN6O5PNFFVTDQNJHCR4PFGDQ.jpeg",
-      "publishedAt": "2025-04-20 16:01:01",
-      "content": "The U.S. has 800 cases of measles nationwide as of Friday, and two more states identified outbreaks this week. Texas is driving the high numbers, with an outbreak centered in West Texas that started\u2026 [+8407 chars]",
-      "retrievedAt": "2025-04-22 07:07:33.979246",
-      "internal_id": "6e6bb592bdfdca825e2afb8c4cf35e71364d9f6c571a55bbeef3535bd66077a0",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Martim Andrade",
-      "title": "Vem a\u00ed um ver\u00e3o cheio de mosquitos. Devemos temer a dengue e a mal\u00e1ria?",
-      "description": "N\u00famero de mosquitos dever\u00e1 aumentar, acreditam os especialistas \u2014 e o controlo de esp\u00e9cies perigosas tamb\u00e9m passa pelos cidad\u00e3os. V\u00edrus do Nilo Ocidental pode ser uma amea\u00e7a desconhecida.",
-      "url": "https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A48%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F07%2F17154803%2Faedes_albopictus.jpg?layer=obstop:T",
-      "publishedAt": "2025-04-20 14:54:27",
-      "content": "Em segundo lugar, esta plataforma tamb\u00e9m permite fazer uma atualiza\u00e7\u00e3o do mapa de distribui\u00e7\u00e3o das esp\u00e9cies aut\u00f3ctones, as nativas de Portugal, que acabam por n\u00e3o passar integralmente pelas armadilha\u2026 [+4318 chars]",
-      "retrievedAt": "2025-04-21 19:06:02.760689",
-      "internal_id": "ff0cbc3804c7b93efe26fd6782880fe24b917b46faacce5ddf36e9123f85a5c1",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20569,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Alfred Hosti\u010dka, \u010cTK",
-      "title": "Ostrov R\u00e9union su\u017euje \u201emini-covid\u201c. Kom\u00e1\u0159\u00ed hore\u010dku chytil u\u017e ka\u017ed\u00fd dev\u00e1t\u00fd",
-      "description": "Epidemie nemoci chikungunya v posledn\u00edch m\u011bs\u00edc\u00edch zu\u017euje obyvatele ostrovu R\u00e9union. M\u00edstn\u00ed chorob\u011b p\u0159ezd\u00edvaj\u00ed \u201emini-covid,\u201c proto\u017ee jej\u00ed pr\u016fb\u011bh i d\u016fsledky \u0161\u00ed\u0159en\u00ed p\u0159ipom\u00ednaj\u00ed epidemii koronaviru. Virem se podle den\u00edku Le Monde nakazil v\u00edce ne\u017e ka\u017ed\u00fd dev\u00e1t\u00fd oby\u2026",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2025/4/FRE871a756c89_profimedia_0988611326.jpg",
-      "publishedAt": "2025-04-20 14:19:00",
-      "content": "Ti dny to byla opravdov\u00e1 non\u00ed mra. Po\u00e1dn jsem si to vyzkouel a jet nen\u00ed konec, sdlil francouzsk\u00e9mu m\u00e9diu uitel tlesn\u00e9 v\u00fdchovy Pascal Arville. Dvaaedes\u00e1tilet\u00e9ho sportovn zaloen\u00e9ho obyvatele msta Sai\u2026 [+3348 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.601388",
-      "internal_id": "50a944906575013d1a29be0cab4e704f90f01a9f64a6c9e36f9ae98439409355",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Brasil ultrapassa 1 milh\u00e3o de casos de dengue em 2025",
-      "description": "Apesar de queda em rela\u00e7\u00e3o a 2024, n\u00fameros indicam que 2025 ainda pode se tornar o segundo ano com mais casos da doen\u00e7a",
-      "url": "https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/14152156/combate-a-dengue4.jpg",
-      "publishedAt": "2025-04-20 14:16:19",
-      "content": "O Brasil ultrapassou neste domingo a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue registrados em 2025. Os dados do Minist\u00e9rio da Sa\u00fade apontam que at\u00e9 a 15 semana epidemiol\u00f3gica, encerrada no dia 1\u2026 [+3970 chars]",
-      "retrievedAt": "2025-04-21 19:06:02.788661",
-      "internal_id": "85c29cb40dfc83b2ca603d55fcd0aa5e3b6f27890da978b3864d00dc37f66fd3",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20561,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Conover Kennard",
-      "title": "'Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles",
-      "description": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treating children with measles and yet, he was seen on video with \u2026",
-      "url": "https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor",
-      "urlToImage": "https://crooksandliars.com/files/embeds/2025/04/65121.jpg",
-      "publishedAt": "2025-04-20 14:07:24",
-      "content": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treati\u2026 [+2010 chars]",
-      "retrievedAt": "2025-04-21 19:06:01.571811",
-      "internal_id": "61a895ffb80e1e2baeb8e3c73456fa2b80b88124534f4bd10601b6cd2a63e29b",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "\u00bfC\u00f3mo saber si tengo dengue? Esto dice el Ministerio de Salud P\u00fablica",
-      "description": "La cartera comunic\u00f3 los s\u00edntomas que podr\u00edan alertar sobre el contagio luego de que se detectara un nuevo caso en Paysand\u00fa.",
-      "url": "https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871745.jpg",
-      "publishedAt": "2025-04-20 12:57:00",
-      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) alert\u00f3 sobre los s\u00edntomas del dengue, para evitar su propagaci\u00f3n en un comunicado difundido en redes sociales. El MSP recomienda eliminar reci\u2026 [+856 chars]",
-      "retrievedAt": "2025-04-21 19:06:02.796705",
-      "internal_id": "f23fe6fe7cfdbc0259d13b0457049954d863f9add1a77e47079159f31852ddfe",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20567,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Endgame malaria",
-      "description": "World Health Organization calls for reinvestment, reimagination, and reignition to accelerate progress towards ending malaria on World Malaria Day.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/b5k3bv/article69471172.ece/alternates/LANDSCAPE_1200/IMG_iStock-1405461058_2_1_36A6T7FQ.jpg",
-      "publishedAt": "2025-04-20 12:36:40",
-      "content": "On World Malaria Day (April 25), lets reinvest, reimagine, and reignite so that malaria ends with us, says the World Health Organization (WHO). The grassroots campaign aims to re-energise efforts f\u2026 [+1178 chars]",
-      "retrievedAt": "2025-04-21 19:06:03.627995",
-      "internal_id": "d5a40781f75f7368f55f9c40238aa701d54d68dece57452b8d5446b9c9ea2a1c",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20571,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Eleconomista.es",
-      "author": "elEconomista.es",
-      "title": "Caos en la isla francesa de la Reuni\u00f3n por la epidemia de chikungunya",
-      "description": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
-      "url": "https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html",
-      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/9/e/9/hm.jpg",
-      "publishedAt": "2025-04-20 12:33:19",
-      "content": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u2026 [+1045 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.645179",
-      "internal_id": "d0b9cd511c49bacc058e28fe5966fcdc3a6e87dff39c1dcac3ac159747b34231",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20572,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Las autoridades de Reuni\u00f3n (Francia) avisan que est\u00e1n al borde de la saturaci\u00f3n por la epidemia de chikungunya",
-      "description": "Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
-      "url": "https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250420135315_1200.jpg",
-      "publishedAt": "2025-04-20 11:53:15",
-      "content": "MADRID 20 Abr. (EUROPA PRESS) - Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principio\u2026 [+1069 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.652959",
-      "internal_id": "1f24bc8c4f67ef03b11a7c3a39962cecb36b84b6b3c0d4254569c4c725d07931",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20560,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 4/20/2025",
-      "description": "Our strategic daily links: Wild leaps, more measles, toxic rice, robot runners, EU workers, Gaza horrors, Ukraine burning, student deportations, vanishing privacy, DOGEy moves, Trumpworld, immigration troubles, plunging markets, AI, and wretched excess",
-      "url": "https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/04/Caracal-600.jpg",
-      "publishedAt": "2025-04-20 10:55:56",
-      "content": "Solving the Trolley Problem: Towards Moral Abundance 3 Quarks Daily Does TED Still Make Sense? Quillette The amazing stunts by freerunner Dominic Di Tommaso [ domtomato]pic.twitter.com/cd0T9VCvaM \u2026 [+6596 chars]",
-      "retrievedAt": "2025-04-21 19:06:01.535576",
-      "internal_id": "d08e9fe0ab3fc21dbdc0351e1fcb11c7dd156876102ba9949a1d68099e345f73",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20563,
-      "query": [
-        "measles"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "David Cox",
-      "title": "What causes breakthrough measles infections even if someone is vaccinated?",
-      "description": "A small number of people who have been fully vaccinated against measles may get sick if exposed to the virus, research finds. Why do these infections happen?",
-      "url": "https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250417-measles-vaccine-vl-451p-b34c54.jpg",
-      "publishedAt": "2025-04-20 10:00:00",
-      "content": "More than 800 people in the U.S. have had measles since the beginning of the year, according to NBC News data. The majority of cases are in West Texas, where an outbreak that shows no signs of abatin\u2026 [+9661 chars]",
-      "retrievedAt": "2025-04-21 19:06:01.696471",
-      "internal_id": "ba5c948d48dfc3986b1660f156d88d401a611e4c9bde7b2eb82a5bd50d00e163",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20570,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction avec AFP",
-      "title": "La R\u00e9union. Le directeur du CHU demande des renforts pour lutter contre l'\u00e9pid\u00e9mie de chikungunya",
-      "description": "Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche avoir demand\u00e9 l'envoi de renforts m\u00e9dicaux pour faire face au pic de l'\u00e9pid\u00e9mie de chikungunya, qui a d\u00e9j\u00e0 fait six morts sur l'\u00eele.",
-      "url": "https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9C81A770-1DEF-4317-944D-A7776F4F371D/FB1200/photo-1745136324.jpg",
-      "publishedAt": "2025-04-20 08:30:00",
-      "content": "Alors que l'\u00e9pid\u00e9mie de chikungunya fait des ravages \u00e0 La R\u00e9union, le directeur g\u00e9n\u00e9ral du centre hospitalier Lionel Calenge veut des renforts. Pour faire face \u00e0 une \u00ab hausse de l'activit\u00e9 aux urgenc\u2026 [+1938 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.623090",
-      "internal_id": "c84ddd68916cb6b34314531694ff701593761695e13a6327de951dca8b877826",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20568,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le HuffPost",
-      "author": "Le HuffPost avec AFP",
-      "title": "L\u2019\u00e9pid\u00e9mie de chikungunya atteint son pic \u00e0 La R\u00e9union, le CHU demande des renforts pour \u00e9viter des morts",
-      "description": "Six personnes sont d\u00e9j\u00e0 d\u00e9c\u00e9d\u00e9es sur l\u2019\u00eele \u00e0 cause de l\u2019\u00e9pid\u00e9mie de \u00ab chik \u00bb provoqu\u00e9e par des piq\u00fbres de moustiques tigre.",
-      "url": "https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html",
-      "urlToImage": "https://focus.huffingtonpost.fr/2025/04/20/126/0/5613/3157/1820/1023/75/0/ef7e634_sirius-fs-upload-1-eakniyckcwec-1745135343150-000-39y86ke.jpg",
-      "publishedAt": "2025-04-20 07:53:03",
-      "content": "SANT\u00c9 - Le pic est l\u00e0, et il ne sait pas comment faire face. Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche 20 avril avoir demand\u00e9 lenvoi de renforts m\u00e9dic\u2026 [+2284 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.592906",
-      "internal_id": "8528bf6851786af0fba525c8f2cd1bffdf954410ac58265eb58cb05a4ae5c319",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20573,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "L\u2019Express",
-      "title": "Reconstruction de Mayotte, chikungunya\u2026 Les enjeux de la tourn\u00e9e d\u2019Emmanuel Macron dans l\u2019oc\u00e9an Indien",
-      "description": "Le pr\u00e9sident entame lundi une tourn\u00e9e de cinq jours dans l\u2019oc\u00e9an Indien afin de renforcer la place de la France dans cette r\u00e9gion strat\u00e9gique tr\u00e8s convoit\u00e9e.",
-      "url": "https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/",
-      "urlToImage": "https://www.lexpress.fr/resizer/v2/2VE7BQ4MVVDPFLS533GOIIWXXE.jpg?auth=372c3194ca275c672f3515b165c1f26c14632361a2f6ed2b322a89fad18d81c2&width=1200&height=630&quality=85&smart=true",
-      "publishedAt": "2025-04-20 07:30:00",
-      "content": "Cest une promesse que le pr\u00e9sident veut tenir. Le 18 d\u00e9cembre dernier, lorsquil est venu constater lampleur des d\u00e9g\u00e2ts du cyclone Chido, Emmanuel Macron avait promis aux Mahorais de revenir pour \"lan\u2026 [+3998 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.674104",
-      "internal_id": "47e1f4657199caec539796ce8d2c07bf7b23a8f474d4a1afb3cf996c982adb15",
       "publishedAtLabel": "Apr 20"
     }
   ]
