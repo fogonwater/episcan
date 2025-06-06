@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-06-06 07:07",
-  "count_articles_total": 1346,
-  "count_articles_new": 11,
+  "last_updated": "2025-06-06 19:06",
+  "count_articles_total": 1350,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 21917,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles-infected infant dies in southwestern Ontario",
+      "description": "Ontario's Ministry of Health announced on Thursday the first recorded death of a measles patient from the current outbreak that started in October of last year.",
+      "url": "https://www.cbc.ca/news/canada/london/measles-death-1.7553265",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1746297600!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-05 17:42:30",
+      "content": "Ontario's Ministry of Health announced on Thursday the first recorded death of a measles patient from the current outbreak that started in October of last year. Dr. Kieran Moore, Ontario's chief me\u2026 [+644 chars]",
+      "retrievedAt": "2025-06-06 19:06:06.185067",
+      "internal_id": "42a8f2f1fc27752fe82415ca4664b916921edfcad939ded3bc84db5f42e13d88",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21918,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles-infected newborn baby dies in southwestern Ontario",
+      "description": "Ontario's Ministry of Health has announced the first recorded death of a measles patient from the outbreak that started in October. The newborn contracted the virus before birth from the mother, the chief medical officer of health says.",
+      "url": "https://www.cbc.ca/news/canada/london/measles-death-southwestern-ontario-1.7553265",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1746297600!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-05 17:42:30",
+      "content": "Ontario's Ministry of Health has announced the first recorded death of a measles patient from the current outbreak that started in October. Dr. Kieran Moore, chief medical officer of health, issued\u2026 [+3003 chars]",
+      "retrievedAt": "2025-06-06 19:06:06.194221",
+      "internal_id": "455dc84f559624c257f36946db528af8d8927556ed4503fd938883b58ed9e949",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21929,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Epid\u00e9mie de chikungunya \u00e0 La R\u00e9union : la vaccination s'est effondr\u00e9e apr\u00e8s des effets ind\u00e9sirables graves chez certaines personnes \u00e2g\u00e9es",
+      "description": "Seules quelques dizaines de doses de vaccin anti-chikungunya ont \u00e9t\u00e9 administr\u00e9es depuis fin avril, date \u00e0 laquelle les plus de 65 ans ont \u00e9t\u00e9 retir\u00e9s de la campagne de vaccination.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-a-la-reunion-la-vaccination-s-est-effondree-apres-des-effets-indesirables-graves-chez-certaines-personnes-agees_7294098.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/G8ozIMrnlGjK8jSx8tF6JZGZAEY/0x296:5690x3497/1500x843/2025/06/04/000-39y89g3-68404365a2918706963895.jpg",
+      "publishedAt": "2025-06-05 17:16:22",
+      "content": "Les seringues sont rest\u00e9es dans les placards. La vaccination contre le chikungunya \u00e0 La R\u00e9union est devenue presque inexistante depuis que le vaccin n'est plus recommand\u00e9 aux plus de 65 ans \u00e0 la suit\u2026 [+2107 chars]",
+      "retrievedAt": "2025-06-06 19:06:09.663466",
+      "internal_id": "60e2e065616ce1a383ec59e39782bfe3a4625484f299e14bc6ad30ca3eaa2b19",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21925,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Maryanne Murray Buechner, UNICEF USA, \n Maryanne Murray Buechner, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/maryannebuechner/",
+      "title": "UNICEF Protects Sudan\u2019s Children From Malaria, Cholera As Cases Rise",
+      "description": "Donor support is needed to help UNICEF reach the sick with lifesaving treatment, contain outbreaks and strengthen long-term disease prevention in wartorn Sudan.",
+      "url": "https://www.forbes.com/sites/unicefusa/2025/06/05/unicef-protects-sudans-children-from-malaria-cholera-as-cases-rise/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6841a4176f2a9bc3747a2e19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-05 16:31:12",
+      "content": "For children caught in Sudan's brutal conflict, one of the many devastating impacts is a heightened risk of contracting a preventable disease like malaria or cholera. Donor support is needed to help \u2026 [+9263 chars]",
+      "retrievedAt": "2025-06-06 19:06:08.574847",
+      "internal_id": "8f666c295254f62f227d2b115a1c27586fb87b3dfb02ce3bf26cda1f6d56fdcc",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21926,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Reports Positive Six-Month Antibody Persistence and Safety Phase 2 Results in Children for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae",
+      "description": "Saint-Herblain (France), June 5, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced positive six-month antibody persistence and safety data for its Phase 2 clinical trial evaluating the safety and immunogenicit\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/05/3094602/0/en/Valneva-Reports-Positive-Six-Month-Antibody-Persistence-and-Safety-Phase-2-Results-in-Children-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-06-05 15:45:00",
+      "content": "IXCHIQ\u00aewas well tolerated by children aged one to eleven years regardless of the dose or previous chikungunya infection (CHIKV)Antibody levels remained high after six months in both \u2026 [+11039 chars]",
+      "retrievedAt": "2025-06-06 19:06:09.596389",
+      "internal_id": "77a2cc3d6048c744f45c089619a30c9deedbce0b49fdff18f30dcae533eb6afb",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21927,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce des r\u00e9sultats positifs de Phase 2 \u00e0 six mois sur la persistance des anticorps et l\u2019innocuit\u00e9 de son vaccin \u00e0 dose unique contre le chikungunya IXCHIQ\u00ae chez les enfants",
+      "description": "Saint-Herblain (France), le 5 juin, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui des donn\u00e9es positives \u00e0 six mois sur l\u2019innocuit\u00e9 et la persistance des anticorps pour son essai de Phase 2 \u00e9\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/05/3094602/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-2-%C3%A0-six-mois-sur-la-persistance-des-anticorps-et-l-innocuit%C3%A9-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya-IXCHIQ-chez-les-enfan.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-06-05 15:45:00",
+      "content": "IXCHIQ\u00aea \u00e9t\u00e9 bien tol\u00e9r\u00e9 par les enfants \u00e2g\u00e9s dun \u00e0 onze ans ind\u00e9pendamment de la dose de vaccin re\u00e7ue (dose compl\u00e8te ou demi-dose) ou dune pr\u00e9c\u00e9dente infection au virus du chikungunya<l\u2026 [+12196 chars]",
+      "retrievedAt": "2025-06-06 19:06:09.611634",
+      "internal_id": "d3cde352c76bd9d70ca9b046684e54a4bfde87aa97b0c623064a5a282abdebd8",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21915,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Yashaswini Sri",
+      "title": "Karnata Govt agency orders dispatch of 89,389 vials of rabies vaccine to hospitals",
+      "description": "Bengaluru: In response to growing concerns over the shortage of emergency vaccines, the state health dept has initiated corrective measures to ensure .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnata-govt-agency-orders-dispatch-of-89389-vials-of-rabies-vaccine-to-hospitals/articleshow/121653782.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121653780,width-1070,height-580,imgsize-37942,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-06-05 15:30:30",
+      "content": "10 of the most stunning Indian villages and why they are a must-visit",
+      "retrievedAt": "2025-06-06 19:06:05.632263",
+      "internal_id": "7a154e8ad07902c84d7e0ffe13b18758075ffc4654d8a67e36ac25fed7a77a66",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21921,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Argus Leader",
+      "author": "Chris Mueller",
+      "title": "North Dakota has highest rate of measles, public health group says",
+      "description": "With 34 confirmed cases spread across four different counties, the rate of measles in North Dakota is higher than anywhere else in the country.",
+      "url": "https://www.argusleader.com/story/news/2025/06/05/north-dakota-has-highest-rate-of-measles-public-health-group-says/84047777007/",
+      "urlToImage": "https://www.argusleader.com/gcdn/authoring/authoring-images/2025/06/05/PSIF/84048174007-usatsi-19805180.jpg?crop=4520,2543,x0,y489&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2025-06-05 15:24:12",
+      "content": "With 34 confirmed cases spread across four different counties, the rate of measles in North Dakota is higher than anywhere else in the country. The state has a rate of 4.3 measles cases per 100,000 \u2026 [+2221 chars]",
+      "retrievedAt": "2025-06-06 19:06:06.411223",
+      "internal_id": "c9e0df9820d0e60005228909f12a7c8080d35590b4c60b9df45f26e89717cd3d",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21932,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Jorge Lisbona",
+      "title": "Confirmado un nuevo caso de viruela del mono en Zaragoza: \"Se han tomado las medidas de prevenci\u00f3n y control\"",
+      "description": "El Departamento de Sanidad confirma un nuevo episodio de mpox entre finales de mayo y principios de junio a trav\u00e9s del Bolet\u00edn Epidemiol\u00f3gico. M\u00e1s informaci\u00f3n: La DANA de Valencia, Topuria, Errej\u00f3n o la viruela del mono: esto fue lo m\u00e1s buscado en Google en E\u2026",
+      "url": "https://www.elespanol.com/aragon/actualidad/20250605/confirmado-nuevo-caso-viruela-mono-zaragoza-tomado-medidas-prevencion-control/1003743791300_0.html",
+      "urlToImage": "https://s1.elespanol.com/2022/07/01/ciencia/salud/684442502_225522082_1706x960.jpg",
+      "publishedAt": "2025-06-05 14:42:54",
+      "content": "El Departamento de Sanidad del Gobierno de Arag\u00f3n ha confirmado un nuevo caso de viruela del mono en la provincia de Zaragoza. El episodio se registr\u00f3 entre el 26 de mayo y el pasado 1 de junio, cor\u2026 [+1828 chars]",
+      "retrievedAt": "2025-06-06 19:06:10.070116",
+      "internal_id": "3243dd0209063d94f3845e7aee7e5c967cf917198083c09ae41615eabbe4fef1",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21933,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ellyn Lapointe",
+      "title": "This Genetic \u2018Trick\u2019 Helped the Black Death Linger for Centuries",
+      "description": "Researchers discovered that the absence of one critical gene made the plague less virulent, and may have allowed two major pandemics to last longer.",
+      "url": "https://gizmodo.com/this-genetic-trick-helped-the-black-death-linger-for-centuries-2000611344",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/macrophages-bubonic-plague-2-1200x675.jpg",
+      "publishedAt": "2025-06-05 14:35:58",
+      "content": "Yersinia pestisthe bacterium that causes the bubonic plagueexperienced a genetic tweak that allowed rodents to live longer after they were infected, according to a new study. This alteration may have\u2026 [+3667 chars]",
+      "retrievedAt": "2025-06-06 19:06:10.465047",
+      "internal_id": "031d12abca69e1c2227ca84dffab24f8de82c719800d82b1568def7032cf2636",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21930,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thekenyatimes.com",
+      "author": "Jason Ndunyu",
+      "title": "Details of Chikungunya Spreading in Mombasa After Outbreak",
+      "description": "Mombasa has been hit with an outbreak of the chikungunya with health officials confirming at least 25 positive cases following laboratory analysis at KEMRI.",
+      "url": "https://thekenyatimes.com/health/chikungunya-details-of-viral-disease-spreading-in-mombasa-after-outbreak9/",
+      "urlToImage": "https://thekenyatimes.com/wp-content/uploads/2025/06/Photo-collage-of-a-skin-rash-on-a-chikungunya-patients-feet-and-a-mosquito-PHOTO-CHS-Kenya-WHO.png",
+      "publishedAt": "2025-06-05 14:00:17",
+      "content": "Mombasa County has been hit by an outbreak of the Chikungunya disease. Health officials confirmed at least 25 positive cases following laboratory analysis at the Kenya Medical Research Institute (KEM\u2026 [+3598 chars]",
+      "retrievedAt": "2025-06-06 19:06:09.686801",
+      "internal_id": "1e339b2ea3526879f3c1af8bb92841a0d38d277a9e739b163c06f6c258cc10e0",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21919,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Y. Tony Yang, Endowed Professor of Health Policy and Associate Dean, George Washington University, Avi Dor, Professor of Health Policy and Management, George Washington University",
+      "title": "Game theory explains why reasonable parents make vaccine choices that fuel outbreaks",
+      "description": "Vaccine hesitancy isn\u2019t a moral failure \u2013 it\u2019s a property of a system in which people must balance personal and collective interests.",
+      "url": "https://theconversation.com/game-theory-explains-why-reasonable-parents-make-vaccine-choices-that-fuel-outbreaks-256975",
+      "urlToImage": "https://images.theconversation.com/files/672243/original/file-20250604-68-qjus08.jpg?ixlib=rb-4.1.0&rect=0%2C129%2C5834%2C2917&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-05 12:53:20",
+      "content": "Vaccination is an example of how people make decisions in an interconnected system. MichelleLWilson via iStock/Getty Images Plus When outbreaks of vaccine-preventable diseases such as measles occur \u2026 [+8315 chars]",
+      "retrievedAt": "2025-06-06 19:06:06.284764",
+      "internal_id": "8dac5c0167cc82a4cc01c619a4ca106825588d1255e67e8ccd0fcd043f9b598d",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS pide m\u00e1s de 128 millones de euros para el Plan Mundial de contra el Mpox ante los recortes en la financiaci\u00f3n",
+      "description": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, en la reuni\u00f3n del Comit\u00e9 de Emergencias del RSI sobre el aumento de casos de mpox, ha pedido a todos los socios y donantes que apoyen el Plan Estrat\u00e9gico Mundial de \u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-oms-pide-mas-128-millones-euros-plan-mundial-contra-mpox-recortes-financiacion-20250605144249.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250605144249_1200.jpg",
+      "publishedAt": "2025-06-05 12:42:49",
+      "content": "MADRID 5 Jun. (EUROPA PRESS) - El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, en la reuni\u00f3n del Comit\u00e9 de Emergencias del RSI sobre el aumento de cas\u2026 [+2623 chars]",
+      "retrievedAt": "2025-06-06 19:06:10.059965",
+      "internal_id": "8b7cadd37e069f9046911ce0f09ef7b1a36935d8f27cccb9f6510bc7dfe59957",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Business Wire",
+      "title": "ImmunoPrecise Announces AI-Driven Breakthrough in Universal Dengue Vaccine Discovery",
+      "description": "LENSai\u2122 powered by HYFT\u00ae technology Identifies a single multi-factorial target conserved across all dengue serotypes. AUSTIN, Texas \u2014 ImmunoPrecise Antibodies Ltd. (IPA) (NASDAQ:IPA) a leader in AI-driven biotherapeutics, announces discovery of a highly conse\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/immunoprecise-announces-ai-driven-breakthrough-in-universal-dengue-vaccine-discovery",
+      "urlToImage": null,
+      "publishedAt": "2025-06-05 12:10:45",
+      "content": "LENSai powered by HYFT\u00ae technology Identifies a single multi-factorial target conserved across all dengue serotypes. THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest n\u2026 [+8469 chars]",
+      "retrievedAt": "2025-06-06 19:06:07.706709",
+      "internal_id": "597df13fa2705e1041643b834a7410bf87bd53aec6460aa4280de1567a6315bd",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21928,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "La R\u00e9daction de L'Avenir avec AFP",
+      "title": "Cet archipel fran\u00e7ais est pass\u00e9 en phase d\u2019\u00e9pid\u00e9mie pour le chikungunya : \u201cLa situation r\u00e9elle pourrait \u00eatre largement sous-estim\u00e9e\u201d",
+      "description": "Le chikungunya est une maladie virale transmise par les piq\u00fbres de moustiques infect\u00e9s et elle pourrait mettre \u00e0 mal un syst\u00e8me de sant\u00e9 d\u00e9j\u00e0 fragilis\u00e9 \u00e0 Mayotte. Une campagne de vaccination est pr\u00e9vue pour certains adultes \u00e0 risque. ...",
+      "url": "https://www.lavenir.net/actu/societe/sante/2025/06/05/cet-archipel-francais-est-passe-en-phase-depidemie-pour-le-chikungunya-la-situation-reelle-pourrait-etre-largement-sous-estimee-UG22UBZPANAE5ARYUIBPN33NIU/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/DXYSIE3J7JDPJKPOQVCCVR2OMY.jpg?auth=be7b27070cd981d9ec7accb91027b53dba6721145e6e987913352382f8308dad&width=1200&height=630&quality=85&focal=1843%2C1229&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-06-05 11:26:35",
+      "content": "\"La situation r\u00e9elle pourrait \u00eatre largement sous-estim\u00e9e\", a rappel\u00e9 Sant\u00e9 publique France. Non seulement les tests de confirmation biologique restent suspendus aux urgences, sous une \"pression pers\u2026 [+1978 chars]",
+      "retrievedAt": "2025-06-06 19:06:09.627004",
+      "internal_id": "146ee46e641bda46642b98954b991dcda5e97b24f0c04cff07f58f3fe6fc5d71",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21924,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Aditya Eka Prawira",
+      "title": "Ciri Dengue yang Sudah Gawat pada Anak: Waspadai Gejala Dehidrasi dan Kejang",
+      "description": "Kenali ciri dengue gawat pada anak seperti dehidrasi dan kejang. Waspadai demam hari ke-3 dan segera konsultasi ke dokter untuk cegah komplikasi serius.",
+      "url": "https://www.liputan6.com/health/read/6044163/ciri-dengue-yang-sudah-gawat-pada-anak-waspadai-gejala-dehidrasi-dan-kejang",
+      "urlToImage": "https://cdn0-production-images-kly.akamaized.net/gJs1EbwuU_364jLOUqucIPGbzXA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5068462/original/098513000_1735277782-1735034891153_arti-mimpi-anak-sakit.jpg",
+      "publishedAt": "2025-06-05 11:11:57",
+      "content": "Salah satu kunci utama dalam penanganan dengue pada anak adalah menjaga agar tubuh tetap terhidrasi dengan baik. Orang tua dianjurkan untuk memberikan asupan cairan sesering mungkin, seperti air put\u2026 [+568 chars]",
+      "retrievedAt": "2025-06-06 19:06:07.780286",
+      "internal_id": "04ede49617e36d0064e0d27024e4b4118f38ea49622eba73e29ca9e3a461fae5",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21916,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Asuka Koda, CNN",
+      "title": "More measles exposures are happening at airports and tourist destinations. Here\u2019s what travelers need to know",
+      "description": "More than 1,100 measles cases have been reported in the United States this year, and the highly contagious virus has put people at risk while they wait in...",
+      "url": "https://www.cnn.com/2025/06/05/health/measles-exposures-travelers-wellness",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/117532587d93d70bb47021d2b328ccbe",
+      "publishedAt": "2025-06-05 11:00:02",
+      "content": "More than 1,100 measles cases have been reported in the United States this year, and the highly contagious virus has put people at risk while they wait in ERs and doctors offices but also at a Shakir\u2026 [+7476 chars]",
+      "retrievedAt": "2025-06-06 19:06:06.154723",
+      "internal_id": "f76b9fa76596ba49b7784c14dec5413350309db36fdd62d35671cd66d905e43c",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21922,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0413\u0440\u0430\u0444\u0441\u043a\u0430\u044f",
+      "title": "\u0421\u0442\u0430\u043b \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u0434\u0438\u0444\u0442\u0435\u0440\u0438\u0438",
+      "description": "\u041a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0430\u044f \u0437\u0430 70 \u043b\u0435\u0442 \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u0434\u0438\u0444\u0442\u0435\u0440\u0438\u0438 \u0432 \u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0415\u0432\u0440\u043e\u043f\u0435 \u043d\u0430\u0447\u0430\u043b\u0430\u0441\u044c \u043d\u0435 \u0432 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u043c\u0438\u0433\u0440\u0430\u043d\u0442\u043e\u0432, \u0430 \u0432 \u043f\u0443\u0442\u0438 \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f. \u041a \u0442\u0430\u043a\u043e\u043c\u0443 \u0432\u044b\u0432\u043e\u0434\u0443 \u043f\u0440\u0438\u0448\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u041f\u0430\u0441\u0442\u0435\u0440\u0430 \u0438 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438 Sant\u00e9 publique France, \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0432\u0448\u0438\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b\u2026",
+      "url": "https://lenta.ru/news/2025/06/05/vspyshka-difterii-v-zapadnoy-evrope-svyazana-s-migratsionnymi-marshrutami/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/06/05/11/20250605112907705/share_2094a25f5b57296e5318da850cf1018a.jpg",
+      "publishedAt": "2025-06-05 10:57:02",
+      "content": "70 , . Sant\u00e9 publique France, New England Journal of Medicine. 360 10 : , 18- , 96 . (77 ), (15 ). Corynebacterium diphtheriae, . , . , , . 2022 , 2025 , . 2022 536 , . : , , , . H5N1. , , .",
+      "retrievedAt": "2025-06-06 19:06:07.098635",
+      "internal_id": "0dd90bfe35c2a76ae33178c12197956a9ea1fb4eb9435458b15de12bf3f0d086",
+      "publishedAtLabel": "Jun 5"
+    },
+    {
+      "id": 21920,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Measles outbreaks continue with risk of holidays causing surge",
+      "description": "Latest UKHSA data shows outbreaks continuing, with 109 cases confirmed in April and 86 so far in May.",
+      "url": "https://www.gov.uk/government/news/measles-outbreaks-continue-with-risk-of-holidays-causing-surge",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/684170d0fa0289a17a3e876a/s960_Travel_news.png",
+      "publishedAt": "2025-06-05 10:27:28",
+      "content": "The UK Health Security Agency (UKHSA) today publishes its monthly update on measles cases in England, which shows outbreaks continuing, with 109 cases confirmed in April and 86 so far in May. Cases h\u2026 [+6570 chars]",
+      "retrievedAt": "2025-06-06 19:06:06.347697",
+      "internal_id": "86974bcd2d45770f1addcf19ed54bc60130c812a5a26ab36cdb560e091c9e90c",
+      "publishedAtLabel": "Jun 5"
+    },
     {
       "id": 21907,
       "query": [
@@ -24032,276 +24374,6 @@
       "content": "Louisiana, Missouri and Virginia have all reported their first measles cases in 2025, and they say all three patients cases are linked to international travel. The most recently announced case in no\u2026 [+2927 chars]",
       "retrievedAt": "2025-04-22 07:07:33.796258",
       "internal_id": "bc0703c8a0161b55f06394ebb24919618983b89ca11becef67900f6cf67c4554",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20562,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Themirror.com",
-      "author": "the mirror us",
-      "title": "Measles outbreaks spreads across to 27 states...",
-      "description": "",
-      "url": "https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427",
-      "urlToImage": null,
-      "publishedAt": "2025-04-20 17:00:03",
-      "content": "Parts of the US are recording some of their first measles cases, with at least 27 states in America now impacted by the ongoing measles outbreak",
-      "retrievedAt": "2025-04-21 19:06:01.655199",
-      "internal_id": "7b76307292503f9000169f5e8b348fdb6d787a35a7b2b18e5521f5823de127c8",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20580,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WPXI Pittsburgh",
-      "author": null,
-      "title": "US has 800 measles cases and outbreaks in several states. Here\u2019s what you should know",
-      "description": "Measles is caused by a highly contagious virus that\u2019s airborne and spreads easily when an infected person breathes, sneezes or coughs. It is preventable through vaccines, and has been considered eliminated from the U.S. since 2000.",
-      "url": "https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/",
-      "urlToImage": "https://www.wpxi.com/resizer/ZGCn3vlVm94I5vsZ5DFAamrd9_E=/arc-anglerfish-arc2-prod-cmg/public/WVMN6O5PNFFVTDQNJHCR4PFGDQ.jpeg",
-      "publishedAt": "2025-04-20 16:01:01",
-      "content": "The U.S. has 800 cases of measles nationwide as of Friday, and two more states identified outbreaks this week. Texas is driving the high numbers, with an outbreak centered in West Texas that started\u2026 [+8407 chars]",
-      "retrievedAt": "2025-04-22 07:07:33.979246",
-      "internal_id": "6e6bb592bdfdca825e2afb8c4cf35e71364d9f6c571a55bbeef3535bd66077a0",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Martim Andrade",
-      "title": "Vem a\u00ed um ver\u00e3o cheio de mosquitos. Devemos temer a dengue e a mal\u00e1ria?",
-      "description": "N\u00famero de mosquitos dever\u00e1 aumentar, acreditam os especialistas \u2014 e o controlo de esp\u00e9cies perigosas tamb\u00e9m passa pelos cidad\u00e3os. V\u00edrus do Nilo Ocidental pode ser uma amea\u00e7a desconhecida.",
-      "url": "https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A48%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F07%2F17154803%2Faedes_albopictus.jpg?layer=obstop:T",
-      "publishedAt": "2025-04-20 14:54:27",
-      "content": "Em segundo lugar, esta plataforma tamb\u00e9m permite fazer uma atualiza\u00e7\u00e3o do mapa de distribui\u00e7\u00e3o das esp\u00e9cies aut\u00f3ctones, as nativas de Portugal, que acabam por n\u00e3o passar integralmente pelas armadilha\u2026 [+4318 chars]",
-      "retrievedAt": "2025-04-21 19:06:02.760689",
-      "internal_id": "ff0cbc3804c7b93efe26fd6782880fe24b917b46faacce5ddf36e9123f85a5c1",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20569,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Alfred Hosti\u010dka, \u010cTK",
-      "title": "Ostrov R\u00e9union su\u017euje \u201emini-covid\u201c. Kom\u00e1\u0159\u00ed hore\u010dku chytil u\u017e ka\u017ed\u00fd dev\u00e1t\u00fd",
-      "description": "Epidemie nemoci chikungunya v posledn\u00edch m\u011bs\u00edc\u00edch zu\u017euje obyvatele ostrovu R\u00e9union. M\u00edstn\u00ed chorob\u011b p\u0159ezd\u00edvaj\u00ed \u201emini-covid,\u201c proto\u017ee jej\u00ed pr\u016fb\u011bh i d\u016fsledky \u0161\u00ed\u0159en\u00ed p\u0159ipom\u00ednaj\u00ed epidemii koronaviru. Virem se podle den\u00edku Le Monde nakazil v\u00edce ne\u017e ka\u017ed\u00fd dev\u00e1t\u00fd oby\u2026",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2025/4/FRE871a756c89_profimedia_0988611326.jpg",
-      "publishedAt": "2025-04-20 14:19:00",
-      "content": "Ti dny to byla opravdov\u00e1 non\u00ed mra. Po\u00e1dn jsem si to vyzkouel a jet nen\u00ed konec, sdlil francouzsk\u00e9mu m\u00e9diu uitel tlesn\u00e9 v\u00fdchovy Pascal Arville. Dvaaedes\u00e1tilet\u00e9ho sportovn zaloen\u00e9ho obyvatele msta Sai\u2026 [+3348 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.601388",
-      "internal_id": "50a944906575013d1a29be0cab4e704f90f01a9f64a6c9e36f9ae98439409355",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Brasil ultrapassa 1 milh\u00e3o de casos de dengue em 2025",
-      "description": "Apesar de queda em rela\u00e7\u00e3o a 2024, n\u00fameros indicam que 2025 ainda pode se tornar o segundo ano com mais casos da doen\u00e7a",
-      "url": "https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/14152156/combate-a-dengue4.jpg",
-      "publishedAt": "2025-04-20 14:16:19",
-      "content": "O Brasil ultrapassou neste domingo a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue registrados em 2025. Os dados do Minist\u00e9rio da Sa\u00fade apontam que at\u00e9 a 15 semana epidemiol\u00f3gica, encerrada no dia 1\u2026 [+3970 chars]",
-      "retrievedAt": "2025-04-21 19:06:02.788661",
-      "internal_id": "85c29cb40dfc83b2ca603d55fcd0aa5e3b6f27890da978b3864d00dc37f66fd3",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20561,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Conover Kennard",
-      "title": "'Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles",
-      "description": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treating children with measles and yet, he was seen on video with \u2026",
-      "url": "https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor",
-      "urlToImage": "https://crooksandliars.com/files/embeds/2025/04/65121.jpg",
-      "publishedAt": "2025-04-20 14:07:24",
-      "content": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treati\u2026 [+2010 chars]",
-      "retrievedAt": "2025-04-21 19:06:01.571811",
-      "internal_id": "61a895ffb80e1e2baeb8e3c73456fa2b80b88124534f4bd10601b6cd2a63e29b",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "\u00bfC\u00f3mo saber si tengo dengue? Esto dice el Ministerio de Salud P\u00fablica",
-      "description": "La cartera comunic\u00f3 los s\u00edntomas que podr\u00edan alertar sobre el contagio luego de que se detectara un nuevo caso en Paysand\u00fa.",
-      "url": "https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871745.jpg",
-      "publishedAt": "2025-04-20 12:57:00",
-      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) alert\u00f3 sobre los s\u00edntomas del dengue, para evitar su propagaci\u00f3n en un comunicado difundido en redes sociales. El MSP recomienda eliminar reci\u2026 [+856 chars]",
-      "retrievedAt": "2025-04-21 19:06:02.796705",
-      "internal_id": "f23fe6fe7cfdbc0259d13b0457049954d863f9add1a77e47079159f31852ddfe",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20567,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Endgame malaria",
-      "description": "World Health Organization calls for reinvestment, reimagination, and reignition to accelerate progress towards ending malaria on World Malaria Day.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/b5k3bv/article69471172.ece/alternates/LANDSCAPE_1200/IMG_iStock-1405461058_2_1_36A6T7FQ.jpg",
-      "publishedAt": "2025-04-20 12:36:40",
-      "content": "On World Malaria Day (April 25), lets reinvest, reimagine, and reignite so that malaria ends with us, says the World Health Organization (WHO). The grassroots campaign aims to re-energise efforts f\u2026 [+1178 chars]",
-      "retrievedAt": "2025-04-21 19:06:03.627995",
-      "internal_id": "d5a40781f75f7368f55f9c40238aa701d54d68dece57452b8d5446b9c9ea2a1c",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20571,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Eleconomista.es",
-      "author": "elEconomista.es",
-      "title": "Caos en la isla francesa de la Reuni\u00f3n por la epidemia de chikungunya",
-      "description": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
-      "url": "https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html",
-      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/9/e/9/hm.jpg",
-      "publishedAt": "2025-04-20 12:33:19",
-      "content": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u2026 [+1045 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.645179",
-      "internal_id": "d0b9cd511c49bacc058e28fe5966fcdc3a6e87dff39c1dcac3ac159747b34231",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20572,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Las autoridades de Reuni\u00f3n (Francia) avisan que est\u00e1n al borde de la saturaci\u00f3n por la epidemia de chikungunya",
-      "description": "Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
-      "url": "https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250420135315_1200.jpg",
-      "publishedAt": "2025-04-20 11:53:15",
-      "content": "MADRID 20 Abr. (EUROPA PRESS) - Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principio\u2026 [+1069 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.652959",
-      "internal_id": "1f24bc8c4f67ef03b11a7c3a39962cecb36b84b6b3c0d4254569c4c725d07931",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20560,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 4/20/2025",
-      "description": "Our strategic daily links: Wild leaps, more measles, toxic rice, robot runners, EU workers, Gaza horrors, Ukraine burning, student deportations, vanishing privacy, DOGEy moves, Trumpworld, immigration troubles, plunging markets, AI, and wretched excess",
-      "url": "https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/04/Caracal-600.jpg",
-      "publishedAt": "2025-04-20 10:55:56",
-      "content": "Solving the Trolley Problem: Towards Moral Abundance 3 Quarks Daily Does TED Still Make Sense? Quillette The amazing stunts by freerunner Dominic Di Tommaso [ domtomato]pic.twitter.com/cd0T9VCvaM \u2026 [+6596 chars]",
-      "retrievedAt": "2025-04-21 19:06:01.535576",
-      "internal_id": "d08e9fe0ab3fc21dbdc0351e1fcb11c7dd156876102ba9949a1d68099e345f73",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20563,
-      "query": [
-        "measles"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "David Cox",
-      "title": "What causes breakthrough measles infections even if someone is vaccinated?",
-      "description": "A small number of people who have been fully vaccinated against measles may get sick if exposed to the virus, research finds. Why do these infections happen?",
-      "url": "https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250417-measles-vaccine-vl-451p-b34c54.jpg",
-      "publishedAt": "2025-04-20 10:00:00",
-      "content": "More than 800 people in the U.S. have had measles since the beginning of the year, according to NBC News data. The majority of cases are in West Texas, where an outbreak that shows no signs of abatin\u2026 [+9661 chars]",
-      "retrievedAt": "2025-04-21 19:06:01.696471",
-      "internal_id": "ba5c948d48dfc3986b1660f156d88d401a611e4c9bde7b2eb82a5bd50d00e163",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20570,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction avec AFP",
-      "title": "La R\u00e9union. Le directeur du CHU demande des renforts pour lutter contre l'\u00e9pid\u00e9mie de chikungunya",
-      "description": "Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche avoir demand\u00e9 l'envoi de renforts m\u00e9dicaux pour faire face au pic de l'\u00e9pid\u00e9mie de chikungunya, qui a d\u00e9j\u00e0 fait six morts sur l'\u00eele.",
-      "url": "https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9C81A770-1DEF-4317-944D-A7776F4F371D/FB1200/photo-1745136324.jpg",
-      "publishedAt": "2025-04-20 08:30:00",
-      "content": "Alors que l'\u00e9pid\u00e9mie de chikungunya fait des ravages \u00e0 La R\u00e9union, le directeur g\u00e9n\u00e9ral du centre hospitalier Lionel Calenge veut des renforts. Pour faire face \u00e0 une \u00ab hausse de l'activit\u00e9 aux urgenc\u2026 [+1938 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.623090",
-      "internal_id": "c84ddd68916cb6b34314531694ff701593761695e13a6327de951dca8b877826",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20568,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le HuffPost",
-      "author": "Le HuffPost avec AFP",
-      "title": "L\u2019\u00e9pid\u00e9mie de chikungunya atteint son pic \u00e0 La R\u00e9union, le CHU demande des renforts pour \u00e9viter des morts",
-      "description": "Six personnes sont d\u00e9j\u00e0 d\u00e9c\u00e9d\u00e9es sur l\u2019\u00eele \u00e0 cause de l\u2019\u00e9pid\u00e9mie de \u00ab chik \u00bb provoqu\u00e9e par des piq\u00fbres de moustiques tigre.",
-      "url": "https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html",
-      "urlToImage": "https://focus.huffingtonpost.fr/2025/04/20/126/0/5613/3157/1820/1023/75/0/ef7e634_sirius-fs-upload-1-eakniyckcwec-1745135343150-000-39y86ke.jpg",
-      "publishedAt": "2025-04-20 07:53:03",
-      "content": "SANT\u00c9 - Le pic est l\u00e0, et il ne sait pas comment faire face. Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche 20 avril avoir demand\u00e9 lenvoi de renforts m\u00e9dic\u2026 [+2284 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.592906",
-      "internal_id": "8528bf6851786af0fba525c8f2cd1bffdf954410ac58265eb58cb05a4ae5c319",
-      "publishedAtLabel": "Apr 20"
-    },
-    {
-      "id": 20573,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "L\u2019Express",
-      "title": "Reconstruction de Mayotte, chikungunya\u2026 Les enjeux de la tourn\u00e9e d\u2019Emmanuel Macron dans l\u2019oc\u00e9an Indien",
-      "description": "Le pr\u00e9sident entame lundi une tourn\u00e9e de cinq jours dans l\u2019oc\u00e9an Indien afin de renforcer la place de la France dans cette r\u00e9gion strat\u00e9gique tr\u00e8s convoit\u00e9e.",
-      "url": "https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/",
-      "urlToImage": "https://www.lexpress.fr/resizer/v2/2VE7BQ4MVVDPFLS533GOIIWXXE.jpg?auth=372c3194ca275c672f3515b165c1f26c14632361a2f6ed2b322a89fad18d81c2&width=1200&height=630&quality=85&smart=true",
-      "publishedAt": "2025-04-20 07:30:00",
-      "content": "Cest une promesse que le pr\u00e9sident veut tenir. Le 18 d\u00e9cembre dernier, lorsquil est venu constater lampleur des d\u00e9g\u00e2ts du cyclone Chido, Emmanuel Macron avait promis aux Mahorais de revenir pour \"lan\u2026 [+3998 chars]",
-      "retrievedAt": "2025-04-21 19:06:04.674104",
-      "internal_id": "47e1f4657199caec539796ce8d2c07bf7b23a8f474d4a1afb3cf996c982adb15",
       "publishedAtLabel": "Apr 20"
     }
   ]

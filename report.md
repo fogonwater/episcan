@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-06-06 07:07
-- **Most recent article:** 2025-06-05 00:43:43
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-06-06 19:06
+- **Most recent article:** 2025-06-05 17:42:30
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-17 | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 106 | 88 | 82 | 75 | 77 | 68 | 47 | 543 |
-| dengue | 15 | 32 | 26 | 24 | 26 | 28 | 19 | 170 |
-| h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 8 | 151 |
-| malaria | 34 | 22 | 19 | 11 | 35 | 17 | 11 | 149 |
-| chikungunya | 45 | 16 | 15 | 25 | 12 | 12 | 15 | 140 |
-| mpox | 5 | 11 | 11 | 18 | 11 | 19 | 11 | 86 |
+| measles | 101 | 88 | 82 | 75 | 77 | 68 | 53 | 544 |
+| dengue | 12 | 32 | 26 | 24 | 26 | 28 | 21 | 169 |
+| h5n1 | 14 | 15 | 11 | 21 | 46 | 36 | 9 | 152 |
+| malaria | 33 | 22 | 19 | 11 | 35 | 17 | 12 | 149 |
+| chikungunya | 39 | 16 | 15 | 25 | 12 | 12 | 20 | 139 |
+| mpox | 5 | 11 | 11 | 18 | 11 | 19 | 13 | 88 |
+| rabies | 3 | 4 | 12 | 3 | 6 | 9 | 4 | 41 |
 | meningitis | 9 | 7 | 3 | 7 | 6 | 7 | 2 | 41 |
-| rabies | 3 | 4 | 12 | 3 | 6 | 9 | 3 | 40 |
 | zika | 2 | 3 | 6 | 3 | 10 | 9 | 7 | 40 |
-| yersinia | 0 | 0 | 0 | 1 | 1 | 11 | 2 | 15 |
+| yersinia | 0 | 0 | 0 | 1 | 1 | 11 | 3 | 16 |
 | pertussis | 3 | 4 | 1 | 1 | 2 | 3 | 0 | 14 |
 | hpai | 1 | 2 | 3 | 1 | 2 | 1 | 2 | 12 |
 | leptospirosis | 0 | 2 | 4 | 1 | 0 | 1 | 1 | 9 |
@@ -50,11 +50,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (yersinia)
 
+- [This Genetic ‘Trick’ Helped the Black Death Linger for Centuries](https://gizmodo.com/this-genetic-trick-helped-the-black-death-linger-for-centuries-2000611344) (Gizmodo.com)
+
 - [Νέα μελέτη αποκαλύπτει πώς η πανώλη επιβίωσε επί αιώνες - Τι μπορεί να μας διδάξει για τις σύγχρονες πανδημίες](https://www.skai.gr/news/health/nea-meleti-apokalyptei-pos-i-panoli-epiviose-epi-aiones) (Skai.gr)
 
 - [Una mutación ha suavizado a uno de los asesinos más letales de la historia](https://www.nationalgeographic.com.es/ciencia/susurro-genetico-muerte-negra-como-mutacion-ha-suavizado-a-uno-asesinos-mas-letales-historia_25171) (Nationalgeographic.com.es)
 
 ## 25-23 (rabies)
+
+- [Karnata Govt agency orders dispatch of 89,389 vials of rabies vaccine to hospitals](https://timesofindia.indiatimes.com/city/bengaluru/karnata-govt-agency-orders-dispatch-of-89389-vials-of-rabies-vaccine-to-hospitals/articleshow/121653782.cms) (The Times of India)
 
 - [Weber, Morgan health officials warn residents after bat tests positive for rabies](https://www.ksl.com/article/51324924/weber-morgan-health-officials-warn-residents-after-bat-tests-positive-for-rabies) (KSL.com)
 
@@ -63,6 +67,10 @@ Source: [News API](https://newsapi.org/)
 - [50-year-old dies in Madhya Pradesh, fifth victim of mysterious animal bite](https://timesofindia.indiatimes.com/city/bhopal/50-year-old-dies-in-madhya-pradesh-fifth-victim-of-mysterious-animal-bite/articleshow/121593842.cms) (The Times of India)
 
 ## 25-23 (mpox)
+
+- [Confirmado un nuevo caso de viruela del mono en Zaragoza: "Se han tomado las medidas de prevención y control"](https://www.elespanol.com/aragon/actualidad/20250605/confirmado-nuevo-caso-viruela-mono-zaragoza-tomado-medidas-prevencion-control/1003743791300_0.html) (Elespanol.com)
+
+- [La OMS pide más de 128 millones de euros para el Plan Mundial de contra el Mpox ante los recortes en la financiación](https://www.infosalus.com/actualidad/noticia-oms-pide-mas-128-millones-euros-plan-mundial-contra-mpox-recortes-financiacion-20250605144249.html) (Infosalus.com)
 
 - [Bacolod: Amid emerging diseases, guv rules out closing borders](https://rpnradio.com/bacolod-amid-emerging-diseases-guv-rules-out-closing-borders/) (Rpnradio.com)
 
@@ -93,6 +101,18 @@ Source: [News API](https://newsapi.org/)
 - [Irlanda celebra el año Oscar Wilde: estos son los planes que se pueden hacer en el homenaje](https://www.eldiario.es/viajes/irlanda-celebra-ano-oscar-wilde-planes-homenaje-dublin-pm_1_12350604.html) (Eldiario.es)
 
 ## 25-23 (measles)
+
+- [Measles-infected infant dies in southwestern Ontario](https://www.cbc.ca/news/canada/london/measles-death-1.7553265) (CBC News)
+
+- [Measles-infected newborn baby dies in southwestern Ontario](https://www.cbc.ca/news/canada/london/measles-death-southwestern-ontario-1.7553265) (CBC News)
+
+- [North Dakota has highest rate of measles, public health group says](https://www.argusleader.com/story/news/2025/06/05/north-dakota-has-highest-rate-of-measles-public-health-group-says/84047777007/) (Argus Leader)
+
+- [Game theory explains why reasonable parents make vaccine choices that fuel outbreaks](https://theconversation.com/game-theory-explains-why-reasonable-parents-make-vaccine-choices-that-fuel-outbreaks-256975) (The Conversation Africa)
+
+- [More measles exposures are happening at airports and tourist destinations. Here’s what travelers need to know](https://www.cnn.com/2025/06/05/health/measles-exposures-travelers-wellness) (CNN)
+
+- [Measles outbreaks continue with risk of holidays causing surge](https://www.gov.uk/government/news/measles-outbreaks-continue-with-risk-of-holidays-causing-surge) (Www.gov.uk)
 
 - [Saskatchewan expands measles vaccination to some infants as case numbers rise](https://www.cbc.ca/news/canada/saskatchewan/measles-vaccination-infants-early-dose-1.7552773) (CBC News)
 
@@ -190,6 +210,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (malaria)
 
+- [UNICEF Protects Sudan’s Children From Malaria, Cholera As Cases Rise](https://www.forbes.com/sites/unicefusa/2025/06/05/unicef-protects-sudans-children-from-malaria-cholera-as-cases-rise/) (Forbes)
+
 - [Queensland Health investigating locally acquired malaria cases](https://www.abc.net.au/news/2025-06-05/queensland-health-investigating-locally-aqcuired-malaria/105377582) (ABC News (AU))
 
 - [«Αποκάλυψη τώρα» για τα κουνούπια – Τα ηθικά ζητήματα της εξαφάνισης του πιο μισητού ζώου του πλανήτη](https://www.naftemporiki.gr/green/1964839/apokalypsi-tora-gia-ta-koynoypia-efikti-alla-me-ithika-zitimata/) (Naftemporiki.gr)
@@ -224,6 +246,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (h5n1)
 
+- [Стал известен неожиданный источник эпидемии дифтерии](https://lenta.ru/news/2025/06/05/vspyshka-difterii-v-zapadnoy-evrope-svyazana-s-migratsionnymi-marshrutami/) (Lenta)
+
 - [New mRNA vaccine is more effective and less costly to develop](https://www.sciencedaily.com/releases/2025/06/250603114825.htm) (Science Daily)
 
 - [¿Es seguro consumir leche de una vaca infectada por gripe aviar?](https://www.nationalgeographic.com.es/ciencia/ivan-diaz-luque-experto-sanidad-animal-beber-leche-vacas-infectadas-por-gripe-aviar-no-es-peligroso-siempre-que-esta-pasteurizada_25169) (Nationalgeographic.com.es)
@@ -241,6 +265,10 @@ Source: [News API](https://newsapi.org/)
 - [गोरखपुर के इन 5 इलाकों में Bird Flu, पक्षियों को मारने का अभियान शुरू](https://www.aajtak.in/uttar-pradesh/story/gorakhpur-bird-flu-confirmed-five-localities-lclnt-dskc-2253662-2025-06-01) (Aajtak.in)
 
 ## 25-23 (dengue)
+
+- [ImmunoPrecise Announces AI-Driven Breakthrough in Universal Dengue Vaccine Discovery](https://financialpost.com/pmn/business-wire-news-releases-pmn/immunoprecise-announces-ai-driven-breakthrough-in-universal-dengue-vaccine-discovery) (Financial Post)
+
+- [Ciri Dengue yang Sudah Gawat pada Anak: Waspadai Gejala Dehidrasi dan Kejang](https://www.liputan6.com/health/read/6044163/ciri-dengue-yang-sudah-gawat-pada-anak-waspadai-gejala-dehidrasi-dan-kejang) (Liputan6.com)
 
 - [La tecnología genética que puede librarnos de los mosquitos para siempre](https://www.elconfidencial.com/tecnologia/novaceno/2025-06-04/edicion-genetica-mosquitos-ciencia-investigacion-malaria_4144447/) (Elconfidencial.com)
 
@@ -281,6 +309,16 @@ Source: [News API](https://newsapi.org/)
 - [Soluble triggering receptor expressed on myeloid cells 1 is associated with hemoconcentration and endothelial activation in children and young adults with dengue virus infection in the Philippines](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013084) (Plos.org)
 
 ## 25-23 (chikungunya)
+
+- [Epidémie de chikungunya à La Réunion : la vaccination s'est effondrée après des effets indésirables graves chez certaines personnes âgées](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-a-la-reunion-la-vaccination-s-est-effondree-apres-des-effets-indesirables-graves-chez-certaines-personnes-agees_7294098.html) (Franceinfo.fr)
+
+- [Valneva Reports Positive Six-Month Antibody Persistence and Safety Phase 2 Results in Children for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2025/06/05/3094602/0/en/Valneva-Reports-Positive-Six-Month-Antibody-Persistence-and-Safety-Phase-2-Results-in-Children-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
+
+- [Valneva annonce des résultats positifs de Phase 2 à six mois sur la persistance des anticorps et l’innocuité de son vaccin à dose unique contre le chikungunya IXCHIQ® chez les enfants](https://www.globenewswire.com/news-release/2025/06/05/3094602/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-2-%C3%A0-six-mois-sur-la-persistance-des-anticorps-et-l-innocuit%C3%A9-de-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya-IXCHIQ-chez-les-enfan.html) (GlobeNewswire)
+
+- [Details of Chikungunya Spreading in Mombasa After Outbreak](https://thekenyatimes.com/health/chikungunya-details-of-viral-disease-spreading-in-mombasa-after-outbreak9/) (Thekenyatimes.com)
+
+- [Cet archipel français est passé en phase d’épidémie pour le chikungunya : “La situation réelle pourrait être largement sous-estimée”](https://www.lavenir.net/actu/societe/sante/2025/06/05/cet-archipel-francais-est-passe-en-phase-depidemie-pour-le-chikungunya-la-situation-reelle-pourrait-etre-largement-sous-estimee-UG22UBZPANAE5ARYUIBPN33NIU/) (Lavenir.net)
 
 - [Chikungunya Outbreak in Mombasa Worries Health Officials and Residents - Nyakundi Report](https://nyakundireport.com/chikungunya-outbreak-in-mombasa-worries-health-officials-and-residents/) (Nyakundireport.com)
 
@@ -2812,16 +2850,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Louisiana, Missouri and Virginia report first measles cases of 2025](https://www.nbcnews.com/news/us-news/louisiana-missouri-virginia-report-first-measles-cases-2025-rcna202038) (NBC News)
 
-- [Measles outbreaks spreads across to 27 states...](https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427) (Themirror.com)
-
-- [US has 800 measles cases and outbreaks in several states. Here’s what you should know](https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/) (WPXI Pittsburgh)
-
-- ['Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles](https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor) (Crooksandliars.com)
-
-- [Links 4/20/2025](https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html) (Nakedcapitalism.com)
-
-- [What causes breakthrough measles infections even if someone is vaccinated?](https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799) (NBC News)
-
 ## 25-17 (malaria)
 
 - [Malaria disrupts economic ecosystem, raises healthcare costs – Health Minister](https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html) (Premium Times)
@@ -2890,8 +2918,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
 
-- [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
-
 ## 25-17 (hpai)
 
 - [Virginia wild birds hit with 200 bird flu cases this year](https://richmond.com/news/local/government-politics/article_127cc992-55f9-4a19-9f5c-cb2785056f37.html) (Richmond.com)
@@ -2951,12 +2977,6 @@ Source: [News API](https://newsapi.org/)
 - [GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a) (Royal Society of Chemistry)
 
 - [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
-
-- [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
-
-- [Brasil ultrapassa 1 milhão de casos de dengue em 2025](https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025) (Metropoles.com)
-
-- [¿Cómo saber si tengo dengue? Esto dice el Ministerio de Salud Pública](https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271) (Montevideo.com.uy)
 
 ## 25-17 (chikungunya)
 
@@ -3037,15 +3057,3 @@ Source: [News API](https://newsapi.org/)
 - [Cyclone Garance, épidémie de chikungunya... Emmanuel Macron en visite à La Réunion](https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html) (BFMTV)
 
 - [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
-
-- [Ostrov Réunion sužuje „mini-covid“. Komáří horečku chytil už každý devátý](https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred) (Idnes.cz)
-
-- [Caos en la isla francesa de la Reunión por la epidemia de chikungunya](https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html) (Eleconomista.es)
-
-- [Las autoridades de Reunión (Francia) avisan que están al borde de la saturación por la epidemia de chikungunya](https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html) (Europapress.es)
-
-- [La Réunion. Le directeur du CHU demande des renforts pour lutter contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
-
-- [L’épidémie de chikungunya atteint son pic à La Réunion, le CHU demande des renforts pour éviter des morts](https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html) (Le HuffPost)
-
-- [Reconstruction de Mayotte, chikungunya… Les enjeux de la tournée d’Emmanuel Macron dans l’océan Indien](https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/) (L'Express)
