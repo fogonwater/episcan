@@ -1,8 +1,332 @@
 {
-  "last_updated": "2025-06-08 07:06",
-  "count_articles_total": 1165,
-  "count_articles_new": 9,
+  "last_updated": "2025-06-08 19:06",
+  "count_articles_total": 1179,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 21978,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KMBC Kansas City",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.kmbc.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:14:01",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.591486",
+      "internal_id": "68332ab0f0a5bbd2ef2aecbe4e47052879d27a8d7d9523dcb34b487032392461",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21981,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KOCO Oklahoma City",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.koco.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:13:56",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.632602",
+      "internal_id": "dda408d3eda405ec0881c82614f6805e99b1246e49bdbb118f66636ad1b256f4",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21977,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.ketv.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:11:36",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.582301",
+      "internal_id": "d7dd885788290466b53d1b9096fc21ef9cb5f0e5d14784694733b6b3c7cde9b5",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21975,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WGAL Susquehanna Valley Pa.",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.wgal.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:09:01",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.563630",
+      "internal_id": "b770a3bb3ce768d3ed47c7ef4713d20b5b4c4a0e7939e3c1b0f2bc4a4d17d744",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21976,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.wesh.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:08:10",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.573013",
+      "internal_id": "3dff41043d26d8c0e06688cecb50876a38c9e616401516ad79e2b2f21d335e65",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21979,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.wisn.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:08:10",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.614024",
+      "internal_id": "eb9503c78aadbca8dfa800eb907f2f7b18655b7939c83c6ea868fcb54ff5c88a",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21980,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.wyff4.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:08:05",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.622992",
+      "internal_id": "cdea3ec23c6ea67ac01274dfef147d5923de01c05adb67ec33e470d629c66a0b",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21974,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KCRA Sacramento",
+      "author": "Devi Shastri",
+      "title": "Measles outbreaks in MI, PA end; Texas logs just 4 new cases",
+      "description": "Other states with active outbreaks include Colorado, Kansas, Montana, New Mexico, North Dakota, Oklahoma, Ohio, and Tennessee. Measles is caused by a highly contagious airborne virus. It is preventable through vaccines, and has been considered eliminated from\u2026",
+      "url": "https://www.kcra.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap25129545975505-1-68447d84c43d9.jpg?crop=1.00xw:0.847xh;0,0.132xh&resize=1200:*",
+      "publishedAt": "2025-06-07 18:07:46",
+      "content": "The U.S. logged 122 more cases of measles this week but only four of them in Texas while the outbreaks in Pennsylvania and Michigan have officially ended. Related video above: Measles cases climb am\u2026 [+8311 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.554473",
+      "internal_id": "8363f726841e24b7fc270c5e5791835623faa575f2c761f36bc7bbd5ca88d3ea",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21971,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Two unvaccinated babies die of whooping cough in KY as disease rise is predicted to continue (Alternet.org)",
+      "description": "Alternet.org: Two unvaccinated babies die of whooping cough in KY as disease rise is predicted to continue \u2014 Two unvaccinated babies have died from pertussis, better known as whooping cough, in Kentucky in the last six months, the Kentucky Department for Pu\u2026",
+      "url": "https://www.memeorandum.com/250607/p38",
+      "urlToImage": "https://www.alternet.org/media-library/image.jpg?id=60626409&width=1200&height=600&coordinates=0%2C604%2C0%2C605",
+      "publishedAt": "2025-06-07 18:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-06-08 19:05:55.436062",
+      "internal_id": "64c010e9b29b2711f3cb5aea92bddbc11bbe0e6f79857d894077d01ec13919fc",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21988,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Individuato a Terni un caso di vaiolo delle scimmie",
+      "description": "Un caso di malattia infettiva da Vaiolo delle scimmie (Mpox) \u00e8 stato registrato a Terni. A darne notizia \u00e8 l'Usl Umbria 2. (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2025/06/07/individuato-a-terni-un-caso-di-vaiolo-delle-scimmie_8bf19a0e-5e0b-4929-b235-0acacba7c366.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/6/7/6c63fbe8f5c25fcfeeb637fe8b4d98ea.jpg",
+      "publishedAt": "2025-06-07 17:41:06",
+      "content": "Un caso di malattia infettiva da Vaiolo delle scimmie (Mpox) \u00e8 stato registrato a Terni. A darne notizia \u00e8 l'Usl Umbria 2. \"Il soggetto, un giovane, presenta buone condizioni generali di salute me\u2026 [+3339 chars]",
+      "retrievedAt": "2025-06-08 19:06:00.447773",
+      "internal_id": "68b30d9bbbe2c33671b3d319cfbcf7bca61df4296323d5ad91ed225682706fbc",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21986,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jalopnik",
+      "author": "staff@jalopnik.com (Amber DaSilva)",
+      "title": "Risk Of Dengue Fever Is Just Another Reason Cruises Suck",
+      "description": "A number of popular cruise destinations are facing outbreaks of dengue fever. Fun!",
+      "url": "https://www.jalopnik.com/1879390/dengue-fever-risk-popular-cruise-ports/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/risk-of-dengue-fever-is-just-another-reason-cruises-suck/l-intro-1749221840.jpg",
+      "publishedAt": "2025-06-07 16:25:00",
+      "content": "Dengue is a mosquito-borne illness, and mosquitos are famously capable of flight. Even if you stay on the ship at an affected port of call, its proximity to the shore could allow infected mosquitoes \u2026 [+727 chars]",
+      "retrievedAt": "2025-06-08 19:05:57.973239",
+      "internal_id": "1ebb7858379561df9eeede2d56f27a6f3490ed4a4a9deb36c332f8ad212bad13",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21972,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "Dr. Oz To Americans: \u2018Prove That You Matter\u2019",
+      "description": "I\u2019ve lost track of all the ways the Trump administration seems intent on killing Americans. But the worst of the worst have to be the so-called health officials like HHS Secretary \u201cLet \u2018em get bird flu and measles\u201d Robert F. Kennedy Jr. and now Medicare and M\u2026",
+      "url": "https://crooksandliars.com/2025/06/dr-oz-americans-prove-you-matter",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/06/oz_for_060625.png",
+      "publishedAt": "2025-06-07 16:06:15",
+      "content": "Ive lost track of all the ways the Trump administration seemsintentonkillingAmericans. But the worst of the worst have to be the so-called health officials like HHS Secretary Let em get bird flu and \u2026 [+1906 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.431651",
+      "internal_id": "b4bcb0a03830568f7707ffcc84eb98bfcd3fd8c6e13fc428e5d3de38bd157539",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21987,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "J\u00e9r\u00f4me Talpin",
+      "title": "J\u00e9r\u00e9my Bouyer veut \u00ab booster \u00bb la technique du moustique st\u00e9rile pour endiguer le chikungunya \u00e0 La R\u00e9union",
+      "description": "L\u2019entomologiste exp\u00e9rimente l\u2019ajout d\u2019un biocide sur les insectes rendus st\u00e9riles qu\u2019il l\u00e2che ensuite dans les zones contamin\u00e9es, emp\u00eachant les larves de devenir adultes. D\u2019ici dix ans, il souhaite remplacer cette mol\u00e9cule par un virus naturel du moustique. U\u2026",
+      "url": "https://www.lemonde.fr/sciences/article/2025/06/07/jeremy-bouyer-veut-booster-la-technique-du-moustique-sterile-pour-endiguer-le-chikungunya-a-la-reunion_6611112_1650684.html",
+      "urlToImage": "https://img.lemde.fr/2025/06/03/0/0/2500/1666/1440/960/60/0/5cd7683_sirius-fs-upload-1-cdjelimkfiah-1748961061052-bouyer-13.jpg",
+      "publishedAt": "2025-06-07 16:00:11",
+      "content": "Jeremy Bouyer, entomologiste au Cirad, procede au lacher de milliers de moustiques au-dessus d'une ravine a Saint-Joseph, dans le sud de lile de La Reunion, en mai 2021. PIERRE MARCHAL Il parle avec\u2026 [+1623 chars]",
+      "retrievedAt": "2025-06-08 19:06:00.001538",
+      "internal_id": "13b7d5c2738aa4eef2d3c481e60b35856d7596ebb580a58f91bbf7a2ef8900ef",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21973,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "christopher.lorton@gatesfoundation.org, jonathan.bloedow@gatesfoundation.org, katherine.rosenfeld@gatesfoundation.org, kevin.mccarthy@gatesfoundation.org",
+      "title": "laser-measles 0.6.0",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.6.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-07 15:46:40",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.488810",
+      "internal_id": "6bb7ffbf91209ac3d3b99a5714e0f918b8ab1053aedfe9adcafd37d563aafb39",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21985,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Robin Huebner",
+      "title": "School's out, but child care providers not letting up on measles precautions",
+      "description": "North Dakota had the highest rate of measles based on population of all states as of June 3.",
+      "url": "https://www.inforum.com/news/fargo/schools-out-but-child-care-providers-not-letting-up-on-measles-precautions",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/5efd0a3/2147483647/strip/true/crop/4733x3156+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F9b%2F09%2Fe99b30fd47d7bd94e1b2f2658d23%2F060725-n-ff-measlesspread1.jpg",
+      "publishedAt": "2025-06-07 11:04:39",
+      "content": "FARGO With a measles outbreak in North Dakota continuing to grow, local schools may be off the hook after letting out for summer vacation. Other organizations, though, must be vigilant, and theres s\u2026 [+3174 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.765837",
+      "internal_id": "fb8332b9a099c41e25f95c91310775bf006ce834e3a05ecc443e568669d40bbf",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21983,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Anna Barry",
+      "title": "Measles outbreak: Urgent summer holiday warning issued as cases surge across Europe - 'It's essential!'",
+      "description": "As Britons prepare for their summer holidays, with many jetting overseas, the UK Health Security Agency has issued a stark warning about a potential measles surge.Health officials are particularly concerned about the risk of importing cases from Europe, where\u2026",
+      "url": "https://www.gbnews.com/health/measles-outbreak-europe-summer-holiday-warning",
+      "urlToImage": "https://www.gbnews.com/media-library/mum-taking-care-of-son-who-has-measles-malaga-spain-eiffel-tower-paris-amalfi-coast-italy.jpg?id=60616220&width=1200&height=600&coordinates=108%2C0%2C29%2C269",
+      "publishedAt": "2025-06-07 11:02:53",
+      "content": "As Britons prepare for their summer holidays, with many jetting overseas, the UK Health Security Agency has issued a stark warning about a potential measles surge. Health officials are particularly \u2026 [+4301 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.671143",
+      "internal_id": "d22777da3bbeb700099439b83f5911112b552ac4a0df06e3c4f2ac70295ecdf0",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21984,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dean Fioresi",
+      "title": "Public health officials confirm new measles case in LA County",
+      "description": "The resident traveled internationally and visited three stores in the Santa Clarita Valley, including Costco, Trader Joes and Walmart, according to the Los Angeles County Department of Public Health.",
+      "url": "https://www.cbsnews.com/losangeles/news/santa-clarita-valley-measles-case/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/07/516893ec-5298-4e1a-bc9e-cf85f9d13646/thumbnail/1200x630/f21624888e8515775aeea950529813bc/cbsn-fusion-second-child-dies-in-texas-measles-outbreak-thumbnail.jpg?v=8e774d26301ae5e7a27489083c0cf8b6",
+      "publishedAt": "2025-06-07 10:29:49",
+      "content": "Los Angeles County public health officials have confirmed a new measles case in a resident who recently traveled internationally and visited at least three Santa Clarita stores in recent weeks. Acc\u2026 [+1900 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.756729",
+      "internal_id": "5f4f7ac21aebfc803542177e3e0c4e118df3a26941c655e17bc9a86abe2c7c86",
+      "publishedAtLabel": "Jun 7"
+    },
+    {
+      "id": 21982,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Anews.com.tr",
+      "author": "Agencies And A News",
+      "title": "Measles outbreaks surge in US, Canada, and Mexico",
+      "description": "Measles outbreaks are rapidly spreading across the US, Canada, and Mexico, with at least one death reported in each country. Health officials warn that low vaccination rates, particularly in Mennonite communities, are fueling the crisis.",
+      "url": "https://www.anews.com.tr/health/2025/06/07/measles-outbreaks-surge-in-us-canada-and-mexico",
+      "urlToImage": "https://ia.tmgrup.com.tr/7d67c9/806/378/0/10/650/315?u=https://i.tmgrup.com.tr/anews/v1/2025/06/07/kizamik-amerika-kitasinda-yayiliyor-meksika-ve-kanadadaki-salginlarda-olumler-yasandi-1749280424677.jpeg",
+      "publishedAt": "2025-06-07 08:25:18",
+      "content": "After a rapid increase in measles cases in the US, neighboring countries Canada and Mexico are also facing serious outbreaks. At least one death has been reported in each of the three countries. Can\u2026 [+2980 chars]",
+      "retrievedAt": "2025-06-08 19:05:56.642264",
+      "internal_id": "a7f4c07ce8a3d57a428c403e97892234ac104b85ec339ae607ea4dcf4c67b2b0",
+      "publishedAtLabel": "Jun 7"
+    },
     {
       "id": 21970,
       "query": [
@@ -20965,79 +21289,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20796,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
-      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
-      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
-      "publishedAt": "2025-04-27 17:13:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
-      "retrievedAt": "2025-04-28 19:05:53.772232",
-      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20794,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
-      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
-      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
-      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
-      "publishedAt": "2025-04-27 15:51:25",
-      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
-      "retrievedAt": "2025-04-28 19:05:52.412120",
-      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20793,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Gazette",
-      "author": "Owain Johnston-barnes",
-      "title": "Whooping cough cases in Bermuda spark call for caution",
-      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
-      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
-      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
-      "publishedAt": "2025-04-27 15:35:28",
-      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
-      "retrievedAt": "2025-04-28 19:05:50.745522",
-      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20797,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ntv.co.ug",
-      "author": null,
-      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
-      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
-      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
-      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
-      "publishedAt": "2025-04-27 09:30:38",
-      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
-      "retrievedAt": "2025-04-28 19:05:53.956355",
-      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-06-08 07:06
-- **Most recent article:** 2025-06-07 05:56:10
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-06-08 19:06
+- **Most recent article:** 2025-06-07 18:14:01
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 75 | 464 |
-| dengue | 32 | 26 | 24 | 26 | 28 | 24 | 160 |
+| measles | 87 | 82 | 75 | 77 | 68 | 89 | 478 |
+| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 160 |
 | h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 138 |
 | malaria | 20 | 19 | 11 | 35 | 17 | 16 | 118 |
-| chikungunya | 16 | 15 | 25 | 12 | 12 | 20 | 100 |
-| mpox | 11 | 11 | 18 | 11 | 19 | 14 | 84 |
+| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 99 |
+| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 84 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 40 |
 | zika | 3 | 6 | 3 | 10 | 9 | 7 | 38 |
 | meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 32 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 5 | 18 |
-| pertussis | 4 | 1 | 1 | 2 | 3 | 1 | 12 |
+| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 12 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 12 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 10 |
 | typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 6 |
@@ -76,9 +76,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (pertussis)
 
+- [Two unvaccinated babies die of whooping cough in KY as disease rise is predicted to continue (Alternet.org)](https://www.memeorandum.com/250607/p38) (Memeorandum.com)
+
 - [2 Kentucky infants die from whooping cough, health officials urge vaccinations](https://www.lex18.com/news/covering-kentucky/2-kentucky-infants-die-from-whooping-cough-health-officials-urge-vaccinations) (LEX18 Lexington KY News)
 
 ## 25-23 (mpox)
+
+- [Individuato a Terni un caso di vaiolo delle scimmie](https://www.ansa.it/umbria/notizie/2025/06/07/individuato-a-terni-un-caso-di-vaiolo-delle-scimmie_8bf19a0e-5e0b-4929-b235-0acacba7c366.html) (ANSA.it)
 
 - [New Mpox Outbreak In Africa Leads To Cases In The U.S.](https://www.shtfplan.com/headline-news/new-mpox-outbreak-in-africa-leads-to-cases-in-the-u-s) (Shtfplan.com)
 
@@ -115,6 +119,34 @@ Source: [News API](https://newsapi.org/)
 - [Irlanda celebra el año Oscar Wilde: estos son los planes que se pueden hacer en el homenaje](https://www.eldiario.es/viajes/irlanda-celebra-ano-oscar-wilde-planes-homenaje-dublin-pm_1_12350604.html) (Eldiario.es)
 
 ## 25-23 (measles)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.kmbc.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (KMBC Kansas City)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.koco.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (KOCO Oklahoma City)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.ketv.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (KETV Omaha)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.wgal.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (WGAL Susquehanna Valley Pa.)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.wesh.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (WESH Orlando)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.wisn.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (WISN Milwaukee)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.wyff4.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (WYFF4 Greenville)
+
+- [Measles outbreaks in MI, PA end; Texas logs just 4 new cases](https://www.kcra.com/article/measles-outbreaks-in-michigan-and-pennsylvania-end-texas-logs-just-4-new-cases/64999182) (KCRA Sacramento)
+
+- [Dr. Oz To Americans: ‘Prove That You Matter’](https://crooksandliars.com/2025/06/dr-oz-americans-prove-you-matter) (Crooksandliars.com)
+
+- [laser-measles 0.6.0](https://pypi.org/project/laser-measles/0.6.0/) (Pypi.org)
+
+- [School's out, but child care providers not letting up on measles precautions](https://www.inforum.com/news/fargo/schools-out-but-child-care-providers-not-letting-up-on-measles-precautions) (INFORUM)
+
+- [Measles outbreak: Urgent summer holiday warning issued as cases surge across Europe - 'It's essential!'](https://www.gbnews.com/health/measles-outbreak-europe-summer-holiday-warning) (Gbnews.com)
+
+- [Public health officials confirm new measles case in LA County](https://www.cbsnews.com/losangeles/news/santa-clarita-valley-measles-case/) (CBS News)
+
+- [Measles outbreaks surge in US, Canada, and Mexico](https://www.anews.com.tr/health/2025/06/07/measles-outbreaks-surge-in-us-canada-and-mexico) (Anews.com.tr)
 
 - [Texas measles outbreak 2025: Health officials report no new cases Friday](https://www.fox4news.com/news/texas-measles-outbreak-2025-june-6-update) (FOX 4 News)
 
@@ -336,6 +368,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-23 (dengue)
 
+- [Risk Of Dengue Fever Is Just Another Reason Cruises Suck](https://www.jalopnik.com/1879390/dengue-fever-risk-popular-cruise-ports/) (Jalopnik)
+
 - [Fewer dengue cases this year as new control strategies employed](https://timesofindia.indiatimes.com/city/goa/fewer-dengue-cases-this-year-as-new-control-strategies-employed/articleshow/121683099.cms) (The Times of India)
 
 - [(Video) ¡Cuidado! Actor Pablo Rodríguez tiene dengue y hace advertencia a los costarricenses](https://www.nacion.com/viva/video-cuidado-actor-pablo-rodriguez-tiene-dengue-y/RLF5HWETANHFJI2XV2JTUQTHHY/story/) (Nacion.com)
@@ -385,6 +419,8 @@ Source: [News API](https://newsapi.org/)
 - [Soluble triggering receptor expressed on myeloid cells 1 is associated with hemoconcentration and endothelial activation in children and young adults with dengue virus infection in the Philippines](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013084) (Plos.org)
 
 ## 25-23 (chikungunya)
+
+- [Jérémy Bouyer veut « booster » la technique du moustique stérile pour endiguer le chikungunya à La Réunion](https://www.lemonde.fr/sciences/article/2025/06/07/jeremy-bouyer-veut-booster-la-technique-du-moustique-sterile-pour-endiguer-le-chikungunya-a-la-reunion_6611112_1650684.html) (Le Monde)
 
 - [Epidémie de chikungunya à La Réunion : la vaccination s'est effondrée après des effets indésirables graves chez certaines personnes âgées](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-a-la-reunion-la-vaccination-s-est-effondree-apres-des-effets-indesirables-graves-chez-certaines-personnes-agees_7294098.html) (Franceinfo.fr)
 
@@ -2250,8 +2286,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
-- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
-
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2273,8 +2307,6 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
-
-- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2618,8 +2650,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
-- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
-
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2649,7 +2679,3 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
-
-- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
-
-- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
