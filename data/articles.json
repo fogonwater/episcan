@@ -1,8 +1,296 @@
 {
-  "last_updated": "2025-06-10 07:07",
-  "count_articles_total": 1194,
-  "count_articles_new": 5,
+  "last_updated": "2025-06-10 19:05",
+  "count_articles_total": 1206,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 22012,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Mpox Remains Global Health Emergency \u2014 WHO",
+      "description": "The Director-General of the World Health Organisation, Dr Tedros Ghebreyesus, announced on Monday that the mpox upsurge continues to meet the criteria of",
+      "url": "https://punchng.com/mpox-remains-public-health-emergency-of-international-concern-who/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/05/20133804/n.jpeg",
+      "publishedAt": "2025-06-09 17:42:47",
+      "content": "The Director-General of the World Health Organisation, Dr Tedros Ghebreyesus, announced on Monday that the mpox upsurge continues to meet the criteria of a public health emergency of international co\u2026 [+3004 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.843957",
+      "internal_id": "72beba8780c93d798fa561036ccc634292a2b099905c66efbb3ca02a6e26d1d2",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22011,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Aleksandra Czurczak",
+      "title": "\"Zagro\u017cenie o zasi\u0119gu mi\u0119dzynarodowym\". WHO podj\u0119\u0142a decyzj\u0119 ws. wirusa",
+      "description": "Ma\u0142pia ospa nadal stanowi zagro\u017cenie zdrowia publicznego o zasi\u0119gu mi\u0119dzynarodowym - poda\u0142o w poniedzia\u0142ek WHO. Szef organizacji, w oparciu o ci\u0105g\u0142y wzrost liczby przypadk\u00f3w, postanowi\u0142 \"przed\u0142u\u017cy\u0107 stan zagro\u017cenia\" i wyda\u0142 specjalne zalecenia dla kraj\u00f3w dotkn\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-zagrozenie-o-zasiegu-miedzynarodowym-who-podjela-decyzje-ws,nId,21825922",
+      "urlToImage": "https://i.iplsc.com/-/000L5UR7K66DCNAG-C461.jpg",
+      "publishedAt": "2025-06-09 17:34:20",
+      "content": "Mapia ospa (oficjalna nazwa to Mpox) nadal stanowi zagroenie zdrowia publicznego o zasigu midzynarodowym - poinformowao WHO na platformie X, po czwartym spotkaniu Komitetu ds. Nadzwyczajnych w sprawi\u2026 [+2114 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.835919",
+      "internal_id": "8d8c57cc8a5bad65b24a803c893b581386d0ffaa1b307a843672cbf466aa0db8",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22008,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS mantiene la emergencia internacional por la mpox ante el aumento de casos",
+      "description": "Forbes M\u00e9xico. OMS mantiene la emergencia internacional por la mpox ante el aumento de casos La actual alerta de la agencia sanitaria internacional por la mpox responde a la r\u00e1pida expansi\u00f3n en \u00c1frica de una nueva variante (clado Ib), diferente de la que ca\u2026",
+      "url": "https://forbes.com.mx/oms-mantiene-la-emergencia-internacional-por-la-mpox-ante-el-aumento-de-casos/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/08/mpox.webp",
+      "publishedAt": "2025-06-09 16:55:47",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) anunci\u00f3 este lunes que mantiene la emergencia sanitaria internacional por la mpox (viruela s\u00edmica) ante el incremento de casos en zonas como \u00c1frica Occidenta\u2026 [+1687 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.802554",
+      "internal_id": "8610340c71f25594b1d3b77aa9aa88aed429b4bf038c1051debcd73d74c877c2",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22010,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "La OMS advierte a nivel mundial de la reaparici\u00f3n de una enfermedad: era muy temida en el pasado",
+      "description": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha anunciado este lunes que el aumento de casos de mpox sigue cumpliendo los criterios de una emergencia de salud p\u00fablica de inter\u00e9s internacional (ESPII) establecid\u2026",
+      "url": "https://www.eleconomista.es/actualidad/noticias/13406588/06/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-era-muy-temida-en-el-pasado.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/c/9/0/mpox-salud.jpg",
+      "publishedAt": "2025-06-09 16:39:43",
+      "content": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha anunciado este lunes que el aumento de casos de mpox sigue cumpliendo los criterios de una emergencia \u2026 [+1759 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.820373",
+      "internal_id": "decf3e093c0fafb94563df4f8d3c93f22f6de3fba312109655f7eb44aabb286f",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22009,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS advierte sobre el aumento de casos de mpox y mantiene la emergencia de salud p\u00fablica internacional",
+      "description": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha anunciado este lunes que el aumento de casos de mpox sigue cumpliendo los criterios de una emergencia de salud p\u00fablica de inter\u00e9s internacional (ESPII) establecid\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-aumento-casos-mpox-mantiene-emergencia-salud-publica-internacional-20250609182525.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250609182525_1200.jpg",
+      "publishedAt": "2025-06-09 16:25:25",
+      "content": "MADRID 9 Jun. (EUROPA PRESS) - El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha anunciado este lunes que el aumento de casos de mpox sigue cumpliend\u2026 [+1711 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.811346",
+      "internal_id": "4c18340ff0dcf6c3757cfd0fd78612510a97dcfa16ce438f3593b76725550cf6",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22013,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Mpox is still a health emergency, WHO says",
+      "description": "The mpox outbreak is still a public health emergency, the World Health Organization said on Monday, with the health body's director-general issuing a revised set of temporary recommendations.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/09/mpox-is-still-a-health-emergency-who-says",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/06/09/3358731.jpg",
+      "publishedAt": "2025-06-09 15:28:46",
+      "content": "UNITED NATIONS (Reuters): The mpox outbreak is still a public health emergency, the World Health Organization said on Monday, with the health body's director-general issuing a revised set of temporar\u2026 [+362 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.852136",
+      "internal_id": "86d7b850eefba0c254b0e2fb18287307b994057342ffd99263af4f7d7fa6dd4a",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22002,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "christopher.lorton@gatesfoundation.org, jonathan.bloedow@gatesfoundation.org, katherine.rosenfeld@gatesfoundation.org, kevin.mccarthy@gatesfoundation.org",
+      "title": "laser-measles 0.6.1",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.6.1/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-09 15:27:07",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-10 19:05:56.451544",
+      "internal_id": "63decaf942535325acf953e5de4f2b55e1ad8db027527b38bcc16023d07c3aa5",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22000,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chandra Shaker Chouhan, Abu Raihan, Md. Manik Mia, Subarna Banerjee, Ishmam Shahriar, Proggananda Nath, Jasim M. Uddin, Md. Amimul Ehsan, Michael P. Ward, A. K. M. Anisur Rahman",
+      "title": "Demographic, temporal, and spatial analysis of human animal bite cases in Mymensingh District, Bangladesh",
+      "description": "Author summary This study analyzed retrospective hospital-based data from individual AB cases for 2022 and 2023, as well as monthly case counts from 2016 to 2024, at S.K Hospital in Mymensingh. We observed a notable increase in severe bites (category 3) treat\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012204",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012204.g003&size=inline",
+      "publishedAt": "2025-06-09 14:00:00",
+      "content": "1. Introduction Rabies, caused by Lyssavirus type 1 of the Rhabdoviridae family, is a fatal viral infection of the central nervous system that results in progressive encephalomyelitis [13]. The viru\u2026 [+30875 chars]",
+      "retrievedAt": "2025-06-10 19:05:55.966009",
+      "internal_id": "ea952db105c729ecb4fd46337b964313dbe7b32268f4fa610e25cc5893c9d355",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22014,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "William M. Switzer, HaoQiang Zheng, Cl\u00e1udia P. Muniz, Yi Pan, Hongwei Jia, Shaohua Tang, Anupama Shankar, Roxana Cintron, Jan Drobeniuc, Marcelo A. Soares, Walid Heneine",
+      "title": "High prevalence of simian foamy virus infection of South American Indians",
+      "description": "Author summary Retrovirus emergence raises public health concerns as all human retroviruses, including HIV, originated from cross-species infections from nonhuman primates. Simian foamy viruses (SFV) are retroviruses that widely infect nonhuman primates of Ne\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013169",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013169.g003&size=inline",
+      "publishedAt": "2025-06-09 14:00:00",
+      "content": "Introduction Emerging viral zoonoses continue to receive heightened public health attention following the pandemic spread of SARS-CoV-2, and the Mpox and Ebola epidemics [1,2]. Viral zoonosis has al\u2026 [+48095 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.860512",
+      "internal_id": "f42ecd0b2eb36138334c03ae26bbcace50dbf4e981404b3486c6b71013ff451a",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22007,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Medicines and Healthcare products Regulatory Agency",
+      "title": "Chikungunya vaccine (IXCHIQ) temporarily paused in people aged 65 and over as precautionary measure",
+      "description": "This is a precautionary measure while the MHRA conducts the safety review.",
+      "url": "https://www.gov.uk/government/news/chikungunya-vaccine-ixchiq-temporarily-paused-in-people-aged-65-and-over-as-precautionary-measure",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/6846c73957f3515d9611f0ef/s960_mosquito_960_x_640.png",
+      "publishedAt": "2025-06-09 13:04:20",
+      "content": "Following global reports of serious adverse events in older people, the governments independent expert advisory body, the Commission on Human Medicines (CHM), has temporarily restricted use of a chik\u2026 [+2752 chars]",
+      "retrievedAt": "2025-06-10 19:05:58.511006",
+      "internal_id": "9463d75e71865aa5886dadbb30f260fcd828fdbe76392cec91ebe9773d1d4f75",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22004,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "The Canadian Press",
+      "title": "6 infants born with congenital measles in Ontario from unvaccinated mothers | Globalnews.ca",
+      "description": "Ontario's chief medical officer of health says six infants have been born with congenital measles since an outbreak began last fall.",
+      "url": "http://globalnews.ca/news/11228250/ontario-measles-babies/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/03/c5a52dc415843e2fbf3a5a3a291ce8ed18c2f2f2111ae8ed62f80412fbc87dd3.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-06-09 12:52:36",
+      "content": "Ontario\u2019s chief medical officer of health says six infants have been born with congenital measles since an outbreak began last fall, adding they were infected in the womb through mothers who were not\u2026 [+2568 chars]",
+      "retrievedAt": "2025-06-10 19:05:56.515971",
+      "internal_id": "842986b6392347aeadb2a4eb8a4f7ae0c013a575a73f005e522e1bce28786a69",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22003,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Hannah Alberga",
+      "title": "Six infants were born with congenital measles in Ontario from unvaccinated mothers",
+      "description": "Ontario's chief medical officer of health says six infants have been born with congenital measles since an outbreak began last fall, adding they were infected in the womb through mothers who were not vaccinated.",
+      "url": "https://www.nationalobserver.com/2025/06/09/news/six-infants-were-born-congenital-measles-ontario-unvaccinated-mothers",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/06/09/ece3971fb2b1aa9453cc01dc24b7b63e88551623b8c2ee161a230f7492177d67.jpg",
+      "publishedAt": "2025-06-09 12:52:00",
+      "content": "Ontario's chief medical officer of health says six infants have been born with congenital measles since an outbreak began last fall, adding they were infected in the womb through mothers who were not\u2026 [+2696 chars]",
+      "retrievedAt": "2025-06-10 19:05:56.480481",
+      "internal_id": "06f8726933d2cd8224c1be5481b90c2c4985c736154fb1c08d64bda68ce38f22",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22006,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue spreads almost across country, reaching 72 districts",
+      "description": "KATHMANDU: With the arrival of monsoon, the cases of dengue infection have increased. The period from June to August is considered highly risky in terms of dengue transmission. According to the Epidemiology and Disease Control Division (EDCD), a total of 1,25\u2026",
+      "url": "https://english.khabarhub.com/2025/09/475632/",
+      "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg?fit=1200%2C630&ssl=1",
+      "publishedAt": "2025-06-09 12:45:39",
+      "content": "KATHMANDU: With the arrival of monsoon, the cases of dengue infection have increased. The period from June to August is considered highly risky in terms of dengue transmission. According to the Epi\u2026 [+1224 chars]",
+      "retrievedAt": "2025-06-10 19:05:57.416352",
+      "internal_id": "7415e561477a0ff43f0c28698bb804a26815d2d428530a71612115e95f70f807",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22001,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "6 infants born with congenital measles from unvaccinated mothers in Ontario since last fall",
+      "description": "Ontario's chief medical officer of health says six infants have been born with congenital measles since an outbreak began last fall, adding they were infected in the womb through mothers who were not vaccinated.",
+      "url": "https://www.cbc.ca/news/canada/toronto/six-ontario-infants-congenital-measles-top-doctor-says-1.7555914",
+      "urlToImage": "https://i.cbc.ca/1.7555916.1749467433!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ont-measles-infants-20250609.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-09 11:41:04",
+      "content": "Ontario's chief medical officer of health says six infants have been born with congenital measles since an outbreak began last fall, adding they were infected in the womb through mothers who were not\u2026 [+2799 chars]",
+      "retrievedAt": "2025-06-10 19:05:56.422375",
+      "internal_id": "5983ced8cd570550a32a1170c10547b1cd5bf92258d13de84656ba129f1280ab",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22005,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Measles laboratory network tries public fundraising after Trump cuts",
+      "description": "The Trump administration\u2019s gutting of global aid is threatening to collapse a network of laboratories responsible for global measles and rubella surveillance",
+      "url": "https://www.statnews.com/2025/06/09/trump-global-aid-cuts-who-foundation-tries-public-fundraising-to-save-measles-lab-network/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/02/GettyImages-1230059232-1024x576.jpg",
+      "publishedAt": "2025-06-09 08:35:50",
+      "content": "The Trump administrations gutting of global aid is threatening to collapse a critical network of laboratories responsible for measles and rubella surveillance around the world. Now, philanthropic lea\u2026 [+6796 chars]",
+      "retrievedAt": "2025-06-10 19:05:56.604051",
+      "internal_id": "f883851be9622ffefc5ed1a0171a7f937428dfeb267c4aee6b3797b23b893b8e",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 22015,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0648\u0628\u0627\u0621 \u0627\u0644\u0637\u0627\u0639\u0648\u0646.. \u0644\u0645\u0627\u0630\u0627 \u0644\u0645 \u064a\u062a\u0648\u0642\u0641 \"\u0627\u0644\u0645\u0631\u0636 \u0627\u0644\u0623\u0633\u0648\u062f\" \u0639\u0646 \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u062d\u062a\u0649 \u064a\u0648\u0645\u0646\u0627 \u0627\u0644\u062d\u0627\u0644\u064a\u061f",
+      "description": "\u0634\u0643\u0644\u0651 \u0648\u0628\u0627\u0621 \u0627\u0644\u0637\u0627\u0639\u0648\u0646 \u0627\u0644\u0645\u0644\u0642\u0651\u0628 \u0628\u0640\"\u0627\u0644\u0645\u0648\u062a \u0627\u0644\u0623\u0633\u0648\u062f\" \u0623\u062d\u0644\u0643 \u0645\u0631\u0627\u062d\u0644 \u062a\u0627\u0631\u064a\u062e \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064a \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u0637\u0649\u060c \u0625\u0630 \u062a\u0633\u0628\u0651\u0628 \u0628\u0645\u0642\u062a\u0644 \u0645\u0627 \u0644\u0627 \u064a\u0642\u0644 \u0639\u0646 25 \u0645\u0644\u064a\u0648\u0646 \u0634\u062e\u0635 \u062e\u0644\u0627\u0644 \u062e\u0645\u0633 \u0633\u0646\u0648\u0627\u062a \u0641\u0642\u0637. \u0644\u0643\u0646\u0651 \u0647\u0630\u0627 \u0627\u0644\u0645\u0631\u0636 \u0644\u0645 \u064a\u062a\u0648\u0642\u0651\u0641 \u0639\u0646\u062f \u0647\u0630\u0627 \u0627\u0644\u062d\u062f.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2025/06/09/plague-gene-evolution",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_22,w_2996,h_1685,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/06/04/images/299836.jpg",
+      "publishedAt": "2025-06-09 07:27:38",
+      "content": "(CNN) -- \"\" 25 . . . . Yersinia pestis 5,000 . . . . . Science . Yersinia pestis . . (Bubonic plague) . : \" \" 541 544 . : 1347 1352 \" \" 30 50% . : 1894.</l\u2026 [+356 chars]",
+      "retrievedAt": "2025-06-10 19:05:59.663501",
+      "internal_id": "2ddb44d85e931cc5c33e3f493979025bc6d43de84e472c33fcac9c6222fa12d5",
+      "publishedAtLabel": "Jun 9"
+    },
     {
       "id": 21995,
       "query": [
@@ -21487,79 +21775,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20796,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
-      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
-      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
-      "publishedAt": "2025-04-27 17:13:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
-      "retrievedAt": "2025-04-28 19:05:53.772232",
-      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20794,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
-      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
-      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
-      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
-      "publishedAt": "2025-04-27 15:51:25",
-      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
-      "retrievedAt": "2025-04-28 19:05:52.412120",
-      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20793,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Gazette",
-      "author": "Owain Johnston-barnes",
-      "title": "Whooping cough cases in Bermuda spark call for caution",
-      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
-      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
-      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
-      "publishedAt": "2025-04-27 15:35:28",
-      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
-      "retrievedAt": "2025-04-28 19:05:50.745522",
-      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20797,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ntv.co.ug",
-      "author": null,
-      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
-      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
-      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
-      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
-      "publishedAt": "2025-04-27 09:30:38",
-      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
-      "retrievedAt": "2025-04-28 19:05:53.956355",
-      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]
