@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-06-09 19:06",
-  "count_articles_total": 1185,
-  "count_articles_new": 3,
+  "last_updated": "2025-06-10 07:07",
+  "count_articles_total": 1194,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 21995,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Measles returns to Alabama after 23 years, sparks urgent vaccination efforts amid nationwide surge",
+      "description": "Alabama health officials are investigating a possible measles case in Lee County, potentially the state's first in many years. The individual is too young for vaccination, raising concerns for vulnerable populations. This investigation occurs amid a nationwid\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/health-crisis-after-23-years-measles-threat-returns-to-alabama-sparking-urgent-vaccination-efforts-amid-nationwide-surge/articleshow/121719236.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121719233,width-1200,height-630,imgsize-108488,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-09 05:24:46",
+      "content": "Alabama health officials are investigating a possible measles case in Lee County. It is seen as a rare event that could mark the states first case in many years. The individual involved is reportedly\u2026 [+2418 chars]",
+      "retrievedAt": "2025-06-10 07:07:26.725923",
+      "internal_id": "0b3f4029cb2796b3ded5d1086633015de72d5c00a561d18d1af05edd5ae2f4bf",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 21997,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Matheus Chaves",
+      "title": "7 dicas da ci\u00eancia para afastar mosquitos, incluindo o Aedes aegypti da dengue",
+      "description": "Existem diversos estudos sobre como estes insetos s\u00e3o atra\u00eddos para picar as pessoas. Veja o que a ci\u00eancia diz sobre e como evit\u00e1-los. O post 7 dicas da ci\u00eancia para afastar mosquitos, incluindo o Aedes aegypti da dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/04/Mosquito-da-dengue.png",
+      "publishedAt": "2025-06-09 03:05:00",
+      "content": "O Brasil tem clima quente durante boa parte do ano, o que favorece o aparecimento de mosquitos, como o Aedes aegypti, que se prolifera principalmente em per\u00edodos \u00famidos. A picada de algumas esp\u00e9cie\u2026 [+5831 chars]",
+      "retrievedAt": "2025-06-10 07:07:27.783872",
+      "internal_id": "cfae36a5c00feff80cf41ea8acbe1e794d1582be4dce818f0b58a48b6ec91ae0",
+      "publishedAtLabel": "Jun 9"
+    },
+    {
+      "id": 21998,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Singapore\u2019s dengue numbers are down. Should we still be concerned about it?",
+      "description": "Experts think it may be premature to say if existing measures can curb future outbreaks. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/76dfab3051d9053437917206f8917df081cab643e292814de7fee47cfd6fe399",
+      "publishedAt": "2025-06-08 21:39:28",
+      "content": "SINGAPORE The number of dengue cases in Singapore has dropped significantly in 2025, constituting only about a quarter of the cases recorded in the first half of 2024. Data from the National Enviro\u2026 [+4380 chars]",
+      "retrievedAt": "2025-06-10 07:07:27.829374",
+      "internal_id": "068db02fccf90706878779db4c3838f16fe63a83c394c8d8af909df8795a9d93",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21996,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Meru Sheel, Associate Professor, Infectious Diseases, Immunisation and Emergencies (IDIE) Group, Sydney School of Public Health, University of Sydney, Anita Heywood, Associate Professor, School of Population Health, UNSW Sydney",
+      "title": "Measles cases are surging globally. Should children be vaccinated earlier?",
+      "description": "Vaccination is key to protecting against measles \u2013 but the question of when exactly is best to give the vaccine is not black and white.",
+      "url": "https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942",
+      "urlToImage": "https://images.theconversation.com/files/672115/original/file-20250604-62-nbcid9.jpg?ixlib=rb-4.1.0&rect=0%2C251%2C3100%2C1550&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-08 20:13:32",
+      "content": "EyeEm Mobile GmbH/Getty Images Measles has been rising globally in recent years. There were an estimated 10.3 million cases worldwide in 2023, a 20% increase from 2022. Outbreaks are being reported\u2026 [+6633 chars]",
+      "retrievedAt": "2025-06-10 07:07:26.771879",
+      "internal_id": "76ebfc157132088aa8f3582f5d4575357212f5c7b450588086262bbd98499726",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21999,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "/FILM",
+      "author": "staff@slashfilm.com (Russell Murray)",
+      "title": "10 Worst Things Daredevil Has Ever Done",
+      "description": "Matt Murdock, aka Daredevil, is known for his murky moral code. With that in mind, here are 10 of the worst things he's done in various forms of Marvel media.",
+      "url": "https://www.slashfilm.com/1876454/daredevil-worst-things-ever-done/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/10-worst-things-daredevil-has-ever-done/l-intro-1748921273.jpg",
+      "publishedAt": "2025-06-08 19:10:00",
+      "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
+      "retrievedAt": "2025-06-10 07:07:28.924469",
+      "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
+      "publishedAtLabel": "Jun 8"
+    },
     {
       "id": 21994,
       "query": [
@@ -21397,6 +21487,79 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20796,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
+      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
+      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
+      "publishedAt": "2025-04-27 17:13:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
+      "retrievedAt": "2025-04-28 19:05:53.772232",
+      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20794,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
+      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
+      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
+      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
+      "publishedAt": "2025-04-27 15:51:25",
+      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
+      "retrievedAt": "2025-04-28 19:05:52.412120",
+      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20793,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Royal Gazette",
+      "author": "Owain Johnston-barnes",
+      "title": "Whooping cough cases in Bermuda spark call for caution",
+      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
+      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
+      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
+      "publishedAt": "2025-04-27 15:35:28",
+      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
+      "retrievedAt": "2025-04-28 19:05:50.745522",
+      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20797,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.co.ug",
+      "author": null,
+      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
+      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
+      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
+      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
+      "publishedAt": "2025-04-27 09:30:38",
+      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
+      "retrievedAt": "2025-04-28 19:05:53.956355",
+      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]

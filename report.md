@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-06-09 19:06
-- **Most recent article:** 2025-06-08 16:31:49
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-06-10 07:07
+- **Most recent article:** 2025-06-09 05:24:46
 
 ---
 
@@ -12,31 +12,39 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 90 | 1 | 480 |
-| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 1 | 161 |
+| measles | 87 | 82 | 75 | 77 | 68 | 90 | 3 | 482 |
+| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 3 | 164 |
 | h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 0 | 138 |
 | malaria | 20 | 19 | 11 | 35 | 17 | 16 | 1 | 119 |
-| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 0 | 99 |
-| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 1 | 85 |
+| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 0 | 101 |
+| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 1 | 86 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 0 | 40 |
 | zika | 3 | 6 | 3 | 10 | 9 | 7 | 0 | 38 |
 | meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 0 | 32 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 0 | 19 |
-| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 0 | 12 |
+| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 0 | 13 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 0 | 12 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 0 | 10 |
-| typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 0 | 6 |
+| typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 1 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-24 (typhoid)
+
+- [10 Worst Things Daredevil Has Ever Done](https://www.slashfilm.com/1876454/daredevil-worst-things-ever-done/) (/FILM)
+
 ## 25-24 (mpox)
 
 - [Bacolod: Negros Oriental Forms Mpox Task Force as Precaution](https://rpnradio.com/bacolod-negros-oriental-forms-mpox-task-force-as-precaution/) (Rpnradio.com)
 
 ## 25-24 (measles)
+
+- [Measles returns to Alabama after 23 years, sparks urgent vaccination efforts amid nationwide surge](https://economictimes.indiatimes.com/news/international/us/health-crisis-after-23-years-measles-threat-returns-to-alabama-sparking-urgent-vaccination-efforts-amid-nationwide-surge/articleshow/121719236.cms) (The Times of India)
+
+- [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
 - [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
 
@@ -45,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 - [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (dengue)
+
+- [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
+
+- [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
 
 - [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
@@ -2306,6 +2318,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
+- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
+
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2327,6 +2341,8 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
+
+- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2670,6 +2686,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
+
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2699,3 +2717,7 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
+
+- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
+
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
