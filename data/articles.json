@@ -1,8 +1,298 @@
 {
-  "last_updated": "2025-06-11 07:08",
-  "count_articles_total": 1222,
-  "count_articles_new": 12,
+  "last_updated": "2025-06-11 19:06",
+  "count_articles_total": 1234,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 22029,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Jaigris Hodson, Associate Professor of Interdisciplinary Studies, Royal Roads University, David Rand, Professor, Management Science and Brain and Cognitive Sciences, Massachusetts Institute of Technology (MIT), Heather Lanthorn, Assistant Director, Research and Programs at the Duke Global Health Innovation Center and Innovations in Healthcare, Duke University",
+      "title": "Chatbots can help clinicians become better communicators, and this could boost vaccine uptake",
+      "description": "AI-powered chatbots can be used in health-care education to help providers practice encounters with patients who have vaccine questions.",
+      "url": "https://theconversation.com/chatbots-can-help-clinicians-become-better-communicators-and-this-could-boost-vaccine-uptake-255045",
+      "urlToImage": "https://images.theconversation.com/files/672417/original/file-20250605-56-8aa7ip.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-10 16:49:56",
+      "content": "Strengthening doctors' communications skills is a public health benefit. (Shutterstock) Measles is back. In recent months, outbreaks have re-emerged across North America including 2,968 cases in Can\u2026 [+6194 chars]",
+      "retrievedAt": "2025-06-11 19:06:05.928765",
+      "internal_id": "36010a13d77ffb4bd61e3202e73fba62fa98aecae09f9056b8aa6f396f5ccefd",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22038,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Giuseppe Occhiuto",
+      "title": "Addio alle zanzare killer: una soluzione innovativa per fermare la malaria",
+      "description": "Un nuovo composto uccide i parassiti della malaria senza colpire le zanzare, promettendo un'alternativa efficace ed economica agli insetticidi.Per quanto possa sembrare assurdo, un recente studio pubblicato sulla prestigiosa rivista Nature, potrebbe aver indi\u2026",
+      "url": "https://tech.everyeye.it/notizie/combattere-malaria-uccidere-zanzare-possibile-806514.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/addio-zanzare-killer-soluzione-innovativa-fermare-malaria-v4-806514.jpg",
+      "publishedAt": "2025-06-10 16:37:00",
+      "content": "Per quanto possa sembrare assurdo, un recente studio pubblicato sulla prestigiosa rivista Nature, potrebbe aver individuato un\u2019alternativa in grado di uccidere solo i parassiti portatori e non le zan\u2026 [+2129 chars]",
+      "retrievedAt": "2025-06-11 19:06:07.593966",
+      "internal_id": "0e99170a7409463fcfef4a7678d8a42b08bc61435a2b7a8245e89924f03282d0",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22041,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Ken Muthomi",
+      "title": "Ministry of Health Announces Outbreak of Mpox in Four More Counties",
+      "description": "Ministry of Health Announces Outbreak of Mpox in Four More Countieskenyans.co.ke",
+      "url": "https://www.kenyans.co.ke/news/112989-ministry-health-announces-outbreak-mpox-four-more-counties",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/duale_7.jpg?itok=xEJ4M0Gn",
+      "publishedAt": "2025-06-10 14:46:06",
+      "content": "The Ministry of Health has warned that Mpox disease has, within the past two months, spread its roots to four more counties. Mpox, is an illness caused by the monkeypox virus, previously known as mo\u2026 [+3629 chars]",
+      "retrievedAt": "2025-06-11 19:06:08.436829",
+      "internal_id": "893240bd7e86c23348f5c6db732d6febc3e8411f5cffc154e779100addd4fe84",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22031,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ayumu Hyodo, Fumio Seki, Kento Fukuda, Kaede Tashiro, Yuki Kitai, Yukiko Akahori, Hideko Watabe, Hiroshi Katoh, Rikuto Osaki, Daisuke Takaya, Norihito Kawashita, Hideo Fukuhara, Satoshi Ikegame, Tomoki Yoshikawa, Park Eunsil, Shigeru Morikawa, Ryoji Yamaguchi, Benhur Lee, Katsumi Maenaka, Tsuyoshi Shirai, Kaori Fukuzawa, Shigenori Tanaka, Makoto Takeda",
+      "title": "Evolutionary and structural basis of SLAMF1 utilization in morbilliviruses\u2014Implications for host range and cross-species transmission",
+      "description": "Author summary We studied how viruses in the genus Morbillivirus, such as measles virus, canine distemper virus, and rinderpest virus, which are notorious for deadly outbreaks in humans and animals, can cause cross-species infections. The host range of morbil\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012990",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012990.g005&size=inline",
+      "publishedAt": "2025-06-10 14:00:00",
+      "content": "Citation: Hyodo A, Seki F, Fukuda K, Tashiro K, Kitai Y, Akahori Y, et al. (2025) Evolutionary and structural basis of SLAMF1 utilization in morbillivirusesImplications for host range and cross-speci\u2026 [+61557 chars]",
+      "retrievedAt": "2025-06-11 19:06:05.959651",
+      "internal_id": "584aad7f983297f51d8f660f85280a4b1358a0f24f033205ff55bb512b4e8a74",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22037,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sukai Ceesay, Martin Kampmann, Lasse Votborg-Nov\u00e9l, Helle Smedegaard Hansson, Rasmus Weisel Jensen, Manuela Carrasquilla, Hamidou Cisse, Louise Turner, Usama Dabbas, Christina Ntalla, Silke Bandermann, Safiatou Doumbo, Didier Doumtabe, Aissata Ongoiba, Kassoum Kayentao, Boubacar Traore, Peter D. Crompton, Thomas Lavstsen, Silvia Portugal",
+      "title": "Plasmodium falciparum expresses fewer var genes at lower levels during asymptomatic dry season infections than clinical malaria cases",
+      "description": "Author summary In regions like Mali, where malaria is seasonal, Plasmodium falciparum can persist in asymptomatic individuals during dry months when mosquito-borne transmission is interrupted. The mechanisms enabling parasite survival in asymptomatic hosts th\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013210",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013210.g006&size=inline",
+      "publishedAt": "2025-06-10 14:00:00",
+      "content": "Citation: Ceesay S, Kampmann M, Votborg-Nov\u00e9l L, Hansson HS, Jensen RW, Carrasquilla M, et al. (2025) Plasmodium falciparum expresses fewer var genes at lower levels during asymptomatic dry season in\u2026 [+80029 chars]",
+      "retrievedAt": "2025-06-11 19:06:07.585370",
+      "internal_id": "b5e01344bd9d54e76c04734c6401b12de8b48409dc39f2e42837676eac15fadb",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22030,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Lauren Penington",
+      "title": "Two more measles cases confirmed in Aurora, Colorado Springs",
+      "description": "An El Paso County child and an Arapahoe County adult caught the measles from two separate outbreaks, bringing Colorado's total number of cases this year up to 14, state health officials said.",
+      "url": "https://www.denverpost.com/2025/06/10/measles-aurora-arapahoe-county-colorado-springs-el-paso-county/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/01/TDP-Z-UC-Health-032423-rs_115579499.jpg?w=1024&h=683",
+      "publishedAt": "2025-06-10 13:38:55",
+      "content": "An El Paso County child and an Arapahoe County adult caught the measles from two separate outbreaks, bringing Colorado\u2019s total number of cases this year up to 14, state health officials said. The El\u2026 [+2833 chars]",
+      "retrievedAt": "2025-06-11 19:06:05.951281",
+      "internal_id": "6e99edab5e9364de2fd20acde48fbbd2f3ffaed20110a1a7d13066e7b67bcd05",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22034,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Exclaim!",
+      "author": "Alex Hudson",
+      "title": "Juliette Powell, Host of MuchMusic and MusiquePlus, Has Died",
+      "description": "Juliette Powell, who was a host for both MusiquePlus and MuchMusic in the '90s, has died at the age of 54. An obituary notes that Powell di",
+      "url": "https://exclaim.ca/music/article/former-much-music-musique-plus-host-juliette-powell-has-died",
+      "urlToImage": "https://assets.exclaim.ca/image/upload/v1749562079/Juliette_Powell_2010_6d7eaf0e65.jpg",
+      "publishedAt": "2025-06-10 13:31:14",
+      "content": "Juliette Powell, who was a host for both MusiquePlus and MuchMusic in the '90s, has died at the age of 54. An obituary notes that Powell died of acute bacterial meningitis on June 3. After growing u\u2026 [+929 chars]",
+      "retrievedAt": "2025-06-11 19:06:07.284504",
+      "internal_id": "6fc45fb3a2762644c990a77e8fd74bac4bcac184a8e10fe2888e4e53d120d954",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22042,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sunstar.com.ph",
+      "author": "Denise Mae P. Codis",
+      "title": "Lapu-Lapu Health Office confirms 1st mpox case; patient",
+      "description": "LAPU-LAPU City has recorded its first confirmed mpox case for 2025, but the patient has recovered and is no longer contagious, a local health official said.City",
+      "url": "https://www.sunstar.com.ph/cebu/lapu-lapu-health-office-confirms-1st-mpox-case-patient-recovered",
+      "urlToImage": "https://media.assettype.com/sunstar%2F2024-07%2Fdfb29177-2b05-4017-9a4e-6d3a59c26aaa%2FSunStar%20Lapu-Lapu?rect=0%2C0%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2025-06-10 12:50:23",
+      "content": "LAPU-LAPU City has recorded its first confirmed mpox case for 2025, but the patient has recovered and is no longer contagious, a local health official said. City Health Office (CHO) head Dr. Agnes R\u2026 [+2397 chars]",
+      "retrievedAt": "2025-06-11 19:06:08.445013",
+      "internal_id": "72b0d0bfaecbb3338cc887028be96e38871b3838c5086d74569f9be6f9205658",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22028,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "christopher.lorton@gatesfoundation.org, jonathan.bloedow@gatesfoundation.org, katherine.rosenfeld@gatesfoundation.org, kevin.mccarthy@gatesfoundation.org",
+      "title": "laser-measles 0.6.2",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.6.2/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-10 11:52:22",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-11 19:06:05.878028",
+      "internal_id": "dcbd12b4cb017da911aa9bd837d859ff63b70b0f7f712c34ef6b77cc071c625b",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22035,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs",
+      "description": "Researchers have a successful test of the bioengineered insecticide in West Africa. Meanwhile, record mosquito activity and West Nile Virus cases surge in Las Vegas. The post Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Res\u2026",
+      "url": "https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
+      "publishedAt": "2025-06-10 11:00:01",
+      "content": "A team of researchers, including a University of Maryland entomologist, has developed a novel method to combat malaria by exploiting a mosquito\u2019s mating behavior as a fatal vulnerability. They engin\u2026 [+4740 chars]",
+      "retrievedAt": "2025-06-11 19:06:07.567102",
+      "internal_id": "11f183261b53243c15e684012f46b4b74707a55480f79ecc12942dd9d39dedff",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22036,
+      "query": [
+        "malaria",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "UKHSA urges travellers to take steps to avoid infection abroad",
+      "description": "Typhoid and paratyphoid cases reach record high while Malaria cases remain high despite small dip in cases.",
+      "url": "https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/684804b3944a600f13bcb859/s960_african_holiday_travel_news.png",
+      "publishedAt": "2025-06-10 10:12:40",
+      "content": "The latest UK Health Security Agency (UKHSA) provisional data shows an increase in travel-associated enteric fever cases (typhoid fever and paratyphoid fever cases) in England, Wales and Northern Ire\u2026 [+4960 chars]",
+      "retrievedAt": "2025-06-11 19:06:07.576119",
+      "internal_id": "9f8c2db1a85a70b740a2de8331b31ae687b6e31bf19b0bd9d14f0fa2b9cb8c63",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22033,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Laboratory-confirmed dengue cases: statistics",
+      "description": "Epidemiological data on laboratory-confirmed dengue cases in England, Wales and Northern Ireland.",
+      "url": "https://www.gov.uk/government/publications/dengue-laboratory-confirmed-cases-in-england-wales-and-northern-ireland",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-06-10 08:30:02",
+      "content": "Summary of the epidemiology of laboratory-confirmed chikungunya cases in England, Wales and Northern Ireland, based on data from the UK Health Security Agency (UKHSA) Rare and imported pathogens labo\u2026 [+147 chars]",
+      "retrievedAt": "2025-06-11 19:06:06.804782",
+      "internal_id": "5918826a48fb18d54f3dbb4fe48395a080bbb1d56917184cbec600277358c86b",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22039,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Laboratory-confirmed Zika virus disease cases: statistics",
+      "description": "Epidemiological data on Zika virus disease cases in England, Wales and Northern Ireland.",
+      "url": "https://www.gov.uk/government/publications/laboratory-confirmed-zika-virus-disease-cases-statistics",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-06-10 08:30:02",
+      "content": "Summary of the epidemiology of laboratory-confirmed Zika virus disease cases in England, Wales and Northern Ireland, based on data from the UK Health Security Agency (UKHSA) Rare and imported pathoge\u2026 [+174 chars]",
+      "retrievedAt": "2025-06-11 19:06:07.753309",
+      "internal_id": "7e530af0dd2c8e92297a2bb29f16b5bb5c651f0c8ad184abb22c4d7e5b4aa40f",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22040,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Chikungunya: epidemiology in England, Wales and Northern Ireland",
+      "description": "Epidemiological data on chikungunya cases in England, Wales and Northern Ireland.",
+      "url": "https://www.gov.uk/government/publications/chikungunya-epidemiology-in-england-wales-and-northern-ireland",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-06-10 08:30:02",
+      "content": "Summary of the epidemiology of laboratory-confirmed chikungunya cases in England, Wales and Northern Ireland, based on data from the UK Health Security Agency (UKHSA) Rare and imported pathogens labo\u2026 [+273 chars]",
+      "retrievedAt": "2025-06-11 19:06:08.125935",
+      "internal_id": "b9e1ac9f09296f7c5f8abc7cd46a407818c60e832cff2cd5ec2bd6e67555a9de",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22043,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Laboratory-confirmed typhoid and paratyphoid cases: statistics",
+      "description": "Epidemiological data on typhoid and paratyphoid cases in England, Wales and Northern Ireland.",
+      "url": "https://www.gov.uk/government/publications/laboratory-confirmed-typhoid-and-paratyphoid-cases-statistics",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-06-10 08:30:02",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-06-11 19:06:08.808724",
+      "internal_id": "aa81ba9aa8f7f86b06098212a809832c0cc3ffc9fcfbe6c8259c16b27d694887",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22032,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Zdnet.co.kr",
+      "author": "\uae40\ubbfc\uc544 \uae30\uc790",
+      "title": "'\uae08\ub780(\u91d1\u5375)'\ub41c \ub2ec\uac40\uc5d0\u2026\ube75\u00b7\uacfc\uc790 \uac00\uaca9 \uc624\ub97c\uae4c",
+      "description": "[\uc9c0\ub514\ub137\ucf54\ub9ac\uc544]\ub2ec\uac40 \uac00\uaca9\uc774 4\ub144 \ub9cc\uc5d0 \ucd5c\uace0\uce58\ub97c \uae30\ub85d\ud55c \ub370 \uc774\uc5b4, \uc624\ub294 8\uc6d4\uae4c\uc9c0 \ud3c9\ub144 \ub300\ube44 \ub192\uc740 \uc218\uc900\uc744 \uc720\uc9c0\ud560 \uac83\uc774\ub780 \uc804\ub9dd\uc774 \ub098\uc624\uba74\uc11c \uc81c\uacfc\u00b7\uc81c\ube75\u00b7\ube59\uacfc\uc5c5\uacc4\uac00 \uac00\uaca9 \ucd94\uc774\ub97c \uc608\uc758\uc8fc\uc2dc\ud558\uace0 \uc788\ub2e4.10\uc77c \ucd95\uc0b0\ubb3c\ud488\uc9c8\ud3c9\uac00\uc6d0 \ucd95\uc0b0\uc720\ud1b5\uc815\ubcf4\uc5d0 \ub530\ub974\uba74 \uc9c0\ub09c 9\uc77c \uae30\uc900 \ud2b9\ub780 \ud55c \ud310(30\uad6c) \uc18c\ub9e4 \uac00\uaca9\uc740 7\ucc9c34\uc6d0\uc774\ub2e4. \uc774\ub294 \uc804\ub144 \ub300\ube44 11.8% \uc624\ub978 \uc218\uce58\ub85c \ub2ec\uac40 \ud55c \ud310 \uac00\uaca9\uc774 7\ucc9c\uc6d0\uc744 \ub118\uc740 \uac83\uc740 2021\ub144 \uc774\ud6c4 \ucc98\uc74c\uc774\ub2e4.\ub2ec\uac40 \uac00\uaca9\uc740 \uc9c0\ub09c 3\uc6d4\ubd80\ud130 \uc9c0\uc18d\uc801\uc73c\ub85c \uc624\ub974\uace0 \uc788\ub2e4. \uc62c\ud574 3\uc6d4 \ud2b9\u2026",
+      "url": "https://zdnet.co.kr/view/?no=20250610160048",
+      "urlToImage": "https://image.zdnet.co.kr/2025/06/10/6417e14dd3848aead335a096cc42bf41.jpg",
+      "publishedAt": "2025-06-10 07:17:49",
+      "content": "4 , 8 \u00b7\u00b7 . 10 9 (30) 734. 11.8% 7 2021 . 3 . 3 30 6393 4 6844, 5 726, 6 729 . 3 1.2% 4 4.7% 5 4.2% 6 5.6% . . (=1) 3 (HAPI) . 6 HPAI AI\u00b7(IB)\u00b7 . 7 8 10 1750~1850 , 7 7.6~13.8% . 8 8.2~14.4\u2026 [+48 chars]",
+      "retrievedAt": "2025-06-11 19:06:06.244117",
+      "internal_id": "e0b14640d6cf7ff0c32a9c97b11472f775897b167e1b65465e456290bd5f8bd1",
+      "publishedAtLabel": "Jun 10"
+    },
     {
       "id": 22017,
       "query": [
@@ -21991,79 +22281,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20796,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
-      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
-      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
-      "publishedAt": "2025-04-27 17:13:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
-      "retrievedAt": "2025-04-28 19:05:53.772232",
-      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20794,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
-      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
-      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
-      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
-      "publishedAt": "2025-04-27 15:51:25",
-      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
-      "retrievedAt": "2025-04-28 19:05:52.412120",
-      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20793,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Gazette",
-      "author": "Owain Johnston-barnes",
-      "title": "Whooping cough cases in Bermuda spark call for caution",
-      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
-      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
-      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
-      "publishedAt": "2025-04-27 15:35:28",
-      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
-      "retrievedAt": "2025-04-28 19:05:50.745522",
-      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20797,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ntv.co.ug",
-      "author": null,
-      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
-      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
-      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
-      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
-      "publishedAt": "2025-04-27 09:30:38",
-      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
-      "retrievedAt": "2025-04-28 19:05:53.956355",
-      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]

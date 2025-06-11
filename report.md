@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-06-11 07:08
-- **Most recent article:** 2025-06-10 04:08:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-06-11 19:06
+- **Most recent article:** 2025-06-10 16:49:56
 
 ---
 
@@ -12,25 +12,29 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 90 | 14 | 493 |
-| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 4 | 165 |
+| measles | 87 | 82 | 75 | 77 | 68 | 90 | 18 | 497 |
+| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 5 | 165 |
 | h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 0 | 138 |
-| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 1 | 119 |
-| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 1 | 102 |
-| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 12 | 97 |
+| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 5 | 123 |
+| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 3 | 102 |
+| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 14 | 98 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 1 | 41 |
-| zika | 3 | 6 | 3 | 10 | 9 | 7 | 0 | 38 |
-| meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 0 | 32 |
+| zika | 3 | 6 | 3 | 10 | 9 | 7 | 1 | 39 |
+| meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 1 | 33 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
-| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 1 | 14 |
-| hpai | 2 | 3 | 1 | 2 | 1 | 3 | 0 | 12 |
+| hpai | 2 | 3 | 1 | 2 | 1 | 3 | 1 | 13 |
+| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 1 | 13 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 0 | 10 |
-| typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 1 | 7 |
+| typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 3 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-24 (zika)
+
+- [Research: Laboratory-confirmed Zika virus disease cases: statistics](https://www.gov.uk/government/publications/laboratory-confirmed-zika-virus-disease-cases-statistics) (Www.gov.uk)
 
 ## 25-24 (yersinia)
 
@@ -39,6 +43,10 @@ Source: [News API](https://newsapi.org/)
 - [وباء الطاعون.. لماذا لم يتوقف "المرض الأسود" عن الانتشار حتى يومنا الحالي؟](https://arabic.cnn.com/science-and-health/article/2025/06/09/plague-gene-evolution) (CNN)
 
 ## 25-24 (typhoid)
+
+- [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
+- [Research: Laboratory-confirmed typhoid and paratyphoid cases: statistics](https://www.gov.uk/government/publications/laboratory-confirmed-typhoid-and-paratyphoid-cases-statistics) (Www.gov.uk)
 
 - [10 Worst Things Daredevil Has Ever Done](https://www.slashfilm.com/1876454/daredevil-worst-things-ever-done/) (/FILM)
 
@@ -51,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 - [Australia’s whooping cough surge is not over – and it doesn’t just affect babies](https://theconversation.com/australias-whooping-cough-surge-is-not-over-and-it-doesnt-just-affect-babies-257808) (The Conversation Africa)
 
 ## 25-24 (mpox)
+
+- [Ministry of Health Announces Outbreak of Mpox in Four More Counties](https://www.kenyans.co.ke/news/112989-ministry-health-announces-outbreak-mpox-four-more-counties) (Kenyans.co.ke)
+
+- [Lapu-Lapu Health Office confirms 1st mpox case; patient](https://www.sunstar.com.ph/cebu/lapu-lapu-health-office-confirms-1st-mpox-case-patient-recovered) (Sunstar.com.ph)
 
 - [Mpox : L’OMS maintient son alerte mondiale face à la flambée des cas](https://www.20minutes.fr/sante/4157678-20250610-mpox-oms-maintient-alerte-mondiale-face-flambee-cas) (20 Minutes)
 
@@ -76,7 +88,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Negros Oriental Forms Mpox Task Force as Precaution](https://rpnradio.com/bacolod-negros-oriental-forms-mpox-task-force-as-precaution/) (Rpnradio.com)
 
+## 25-24 (meningitis)
+
+- [Juliette Powell, Host of MuchMusic and MusiquePlus, Has Died](https://exclaim.ca/music/article/former-much-music-musique-plus-host-juliette-powell-has-died) (Exclaim!)
+
 ## 25-24 (measles)
+
+- [Chatbots can help clinicians become better communicators, and this could boost vaccine uptake](https://theconversation.com/chatbots-can-help-clinicians-become-better-communicators-and-this-could-boost-vaccine-uptake-255045) (The Conversation Africa)
+
+- [Evolutionary and structural basis of SLAMF1 utilization in morbilliviruses—Implications for host range and cross-species transmission](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012990) (Plos.org)
+
+- [Two more measles cases confirmed in Aurora, Colorado Springs](https://www.denverpost.com/2025/06/10/measles-aurora-arapahoe-county-colorado-springs-el-paso-county/) (The Denver Post)
+
+- [laser-measles 0.6.2](https://pypi.org/project/laser-measles/0.6.2/) (Pypi.org)
 
 - [Mandatory measles immunity for maids working in households with young children who are not fully vaccinated](https://www.channelnewsasia.com/singapore/measles-vaccination-maids-migrant-domestic-workers-mandatory-households-young-children-5172091) (CNA)
 
@@ -108,9 +132,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (malaria)
 
+- [Addio alle zanzare killer: una soluzione innovativa per fermare la malaria](https://tech.everyeye.it/notizie/combattere-malaria-uccidere-zanzare-possibile-806514.html) (Everyeye.it)
+
+- [Plasmodium falciparum expresses fewer var genes at lower levels during asymptomatic dry season infections than clinical malaria cases](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013210) (Plos.org)
+
+- [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
+
+- [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
 - [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
+## 25-24 (hpai)
+
+- ['금란(金卵)'된 달걀에…빵·과자 가격 오를까](https://zdnet.co.kr/view/?no=20250610160048) (Zdnet.co.kr)
+
 ## 25-24 (dengue)
+
+- [Research: Laboratory-confirmed dengue cases: statistics](https://www.gov.uk/government/publications/dengue-laboratory-confirmed-cases-in-england-wales-and-northern-ireland) (Www.gov.uk)
 
 - [Dengue spreads almost across country, reaching 72 districts](https://english.khabarhub.com/2025/09/475632/) (Khabarhub.com)
 
@@ -121,6 +159,10 @@ Source: [News API](https://newsapi.org/)
 - [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
+
+- [Research: Laboratory-confirmed dengue cases: statistics](https://www.gov.uk/government/publications/dengue-laboratory-confirmed-cases-in-england-wales-and-northern-ireland) (Www.gov.uk)
+
+- [Research: Chikungunya: epidemiology in England, Wales and Northern Ireland](https://www.gov.uk/government/publications/chikungunya-epidemiology-in-england-wales-and-northern-ireland) (Www.gov.uk)
 
 - [Chikungunya vaccine (IXCHIQ) temporarily paused in people aged 65 and over as precautionary measure](https://www.gov.uk/government/news/chikungunya-vaccine-ixchiq-temporarily-paused-in-people-aged-65-and-over-as-precautionary-measure) (Www.gov.uk)
 
@@ -2382,8 +2424,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
-- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
-
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2405,8 +2445,6 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
-
-- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2750,8 +2788,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
-- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
-
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2781,7 +2817,3 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
-
-- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
-
-- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
