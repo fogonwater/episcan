@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-06-10 19:05
-- **Most recent article:** 2025-06-09 17:42:47
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-06-11 07:08
+- **Most recent article:** 2025-06-10 04:08:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 90 | 8 | 487 |
-| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 4 | 164 |
+| measles | 87 | 82 | 75 | 77 | 68 | 90 | 14 | 493 |
+| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 4 | 165 |
 | h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 0 | 138 |
 | malaria | 20 | 19 | 11 | 35 | 17 | 16 | 1 | 119 |
-| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 1 | 100 |
-| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 8 | 92 |
+| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 1 | 102 |
+| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 12 | 97 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 1 | 41 |
 | zika | 3 | 6 | 3 | 10 | 9 | 7 | 0 | 38 |
 | meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 0 | 32 |
-| yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 1 | 20 |
-| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 0 | 12 |
+| yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
+| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 1 | 14 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 0 | 12 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 0 | 10 |
 | typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 1 | 7 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (yersinia)
 
+- [Conservar la comida en días de calor: del máximo de 48 horas en nevera de la tortilla a los tres días del filete empanado](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/09/conservar-comida-dias-calor-maximo-48-horas-nevera-tortilla-tres-dias-filete-empanado/00031749475124802174800.htm) (Lavozdegalicia.es)
+
 - [وباء الطاعون.. لماذا لم يتوقف "المرض الأسود" عن الانتشار حتى يومنا الحالي؟](https://arabic.cnn.com/science-and-health/article/2025/06/09/plague-gene-evolution) (CNN)
 
 ## 25-24 (typhoid)
@@ -44,7 +46,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Demographic, temporal, and spatial analysis of human animal bite cases in Mymensingh District, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012204) (Plos.org)
 
+## 25-24 (pertussis)
+
+- [Australia’s whooping cough surge is not over – and it doesn’t just affect babies](https://theconversation.com/australias-whooping-cough-surge-is-not-over-and-it-doesnt-just-affect-babies-257808) (The Conversation Africa)
+
 ## 25-24 (mpox)
+
+- [Mpox : L’OMS maintient son alerte mondiale face à la flambée des cas](https://www.20minutes.fr/sante/4157678-20250610-mpox-oms-maintient-alerte-mondiale-face-flambee-cas) (20 Minutes)
+
+- [Casos de Mpox crescem e OMS mantém estado de emergência](https://olhardigital.com.br/2025/06/09/medicina-e-saude/casos-de-mpox-crescem-e-oms-mantem-estado-de-emergencia/) (Olhardigital.com.br)
+
+- [OMS mantiene la alerta por la epidemia de mpox ante aumento de casos en África](https://www.milenio.com/internacional/oms-mantiene-la-alerta-por-la-epidemia-de-mpox) (Milenio)
+
+- [Mpox: OMS mantém estado de alerta e pede "apoio"](https://observador.pt/2025/06/09/mpox-oms-mantem-estado-de-alerta-e-pede-apoio-internacional-continuo/) (Observador.pt)
 
 - [Mpox Remains Global Health Emergency — WHO](https://punchng.com/mpox-remains-public-health-emergency-of-international-concern-who/) (The Punch)
 
@@ -63,6 +77,18 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Negros Oriental Forms Mpox Task Force as Precaution](https://rpnradio.com/bacolod-negros-oriental-forms-mpox-task-force-as-precaution/) (Rpnradio.com)
 
 ## 25-24 (measles)
+
+- [Mandatory measles immunity for maids working in households with young children who are not fully vaccinated](https://www.channelnewsasia.com/singapore/measles-vaccination-maids-migrant-domestic-workers-mandatory-households-young-children-5172091) (CNA)
+
+- [Two more measles cases reported in Colorado](http://coloradosun.com/2025/06/09/more-colorado-measles-cases-turkish-airlines/) (The Colorado Sun)
+
+- [CDPHE announces two more measles cases, bringing state's total to 14 this year](https://www.denver7.com/lifestyle/health/cdphe-announces-two-additional-cases-of-measles-bringing-states-total-to-14-so-far-this-year) (Denver7.com)
+
+- [Health officials announce potential measles exposure at Colorado Springs urgent care, hospital](https://krdo.com/news/2025/06/09/health-officials-announce-potential-measles-exposure-at-colorado-springs-urgent-care-hospital/) (KRDO)
+
+- [Pregnant Women 'Bearing the Burden' of Measles Outbreak](https://www.newser.com/story/369971/pregnant-women-bearing-the-burden-of-measles-outbreak.html) (Newser)
+
+- [Physicians brace for summer travel season as Alberta tops 800 measles cases](https://www.cbc.ca/news/canada/calgary/physicians-brace-for-summer-travel-season-as-alberta-tops-800-measles-cases-1.7556088) (CBC News)
 
 - [laser-measles 0.6.1](https://pypi.org/project/laser-measles/0.6.1/) (Pypi.org)
 
@@ -2356,6 +2382,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
+- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
+
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2377,6 +2405,8 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
+
+- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2720,6 +2750,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
+
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2749,3 +2781,7 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
+
+- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
+
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
