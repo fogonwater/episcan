@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-06-12 07:07",
-  "count_articles_total": 1245,
-  "count_articles_new": 7,
+  "last_updated": "2025-06-12 19:06",
+  "count_articles_total": 1251,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 22053,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSET",
+      "author": "Sam Becker",
+      "title": "Woman attacked by rabid cat in Lynchburg, health officials say",
+      "description": "A stray cat submitted for testing on Monday was positive for rabies, according to health officials.",
+      "url": "https://wset.com/news/local/woman-attacked-by-rabid-rabies-stray-cat-in-lynchburg-health-officials-say-early-street-near-hollins-mill-road-june-2025",
+      "urlToImage": "https://wset.com/resources/media2/16x9/1079/986/0x22/90/41b03f39-e958-4373-9a3a-d82ad20a24db-Screenshot20250611141255.png",
+      "publishedAt": "2025-06-11 18:19:56",
+      "content": "LYNCHBURG, Va. (WSET) A stray cat submitted for testing on Monday was positive for rabies, according to health officials. According to the Lynchburg City Health Department, a cat attacked a woman on\u2026 [+497 chars]",
+      "retrievedAt": "2025-06-12 19:05:59.286296",
+      "internal_id": "15fa7c331b154238bfb793cf920974ee35b3a48f8241cc0709920bedf8e06651",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22052,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "From staff reports",
+      "title": "Rabid raccoon bites, scratches Henrico resident",
+      "description": "It's the second confirmed case of rabies in the county this year.",
+      "url": "https://richmond.com/news/local/article_0a156972-0cb1-4941-95fb-5a56bca46751.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/a1/0a156972-0cb1-4941-95fb-5a56bca46751/6849bfa63e7b7.preview.jpg?crop=920%2C483%2C0%2C11",
+      "publishedAt": "2025-06-11 17:35:00",
+      "content": "A rabid raccoon bit and scratched a resident of Henrico County on Sunday. Henrico police responded to a report of a potential rabies exposure in the 8700 block of Butterfield Road, which is in the M\u2026 [+54042 chars]",
+      "retrievedAt": "2025-06-12 19:05:59.276197",
+      "internal_id": "c39f40e546443d488ffc317a38aef2fabe73bf48bb2e7e28d6f154913f2b0c14",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22054,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "allears.net",
+      "author": "David Goodkind",
+      "title": "CDC Warns of \u201cOngoing Risk\u201d for Travelers in New Advisory",
+      "description": "A recent measles outbreak has the CDC issuing an advisory for international travel. The post CDC Warns of \u201cOngoing Risk\u201d for Travelers in New Advisory appeared first on AllEars.Net.",
+      "url": "https://allears.net/2025/06/11/cdc-warns-of-ongoing-risk-for-travelers-in-new-advisory/",
+      "urlToImage": "https://allears.net/wp-content/uploads/2023/09/2023-Airplane-Flying-Clouds-Atmo-1.jpg",
+      "publishedAt": "2025-06-11 16:00:30",
+      "content": "The Centers for Disease Control and Prevention (CDC) issued a warning for those traveling via mass transit. Flying to Disney World this year? While often overlooked, there\u2019s an inherent health risk\u2026 [+2842 chars]",
+      "retrievedAt": "2025-06-12 19:05:59.781771",
+      "internal_id": "60d3bd5a10bbad273c6fffef4547e09a7dad128624b047adb47df7e87c8c4a20",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22056,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Backpackinglight.com",
+      "author": "Jeff de Graffenried",
+      "title": "Malaria in the Mountains \u2013 A 200-mile Scottish Coast-to-Coast Misadventure",
+      "description": "Jeff de Graffenried recounts a TGO challenge misadventure where he was beset by Malaria on trail. The post Malaria in the Mountains \u2013 A 200-mile Scottish Coast-to-Coast Misadventure appeared first on Backpacking Light.",
+      "url": "https://backpackinglight.com/malaria-in-the-mountains-200-mile-scottish-coast-to-coast-misadventure-tgo-challenge/",
+      "urlToImage": "https://backpackinglight.com/wp-content/uploads/2025/06/malaria-in-the-mountains-200-mile-scottish-coast-to-coast-misadventure-tgo-challenge-6.jpg",
+      "publishedAt": "2025-06-11 15:00:17",
+      "content": "This is a preview of a member exclusive premium article. Introduction The Scottish Highlands are famous for iconic scenery, notorious history, and rich culture. The country also boasts of one-of-a-\u2026 [+2342 chars]",
+      "retrievedAt": "2025-06-12 19:06:01.857739",
+      "internal_id": "3f0f0e98c512afea305dc2cded8e02d9d396a2b0f536661eca89a5b4689db034",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22060,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Beatris Mario Martin, Benn Sartorius, Helen J. Mayfield, Angela M. Cadavid Restrepo, Behzad Kiani, Cecilia J. Then Paulino, Marie Caroline Etienne, Ronald Skewes-Ramm, Michael de St. Aubin, Devan Dumas, Salom\u00e9 Garnier, William Duke, Farah Pe\u00f1a, Gabriela Abdalla, Lucia de la Cruz, Bernarda Henr\u00edquez, Margaret Baldwin, Adam Kucharski, Eric J. Nilles, Colleen L. Lau",
+      "title": "Geospatial analysis of leptospirosis clusters and risk factors in two provinces of the Dominican Republic",
+      "description": "Author summary Leptospirosis is a significant public health problem in Latin America and the Caribbean, accounting for one-third of all reported outbreaks globally between 1970 and 2012. In the Dominican Republic (DR), 2,860 human leptospirosis cases were rep\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013103",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013103.g002&size=inline",
+      "publishedAt": "2025-06-11 14:00:00",
+      "content": "Abstract Background Drivers of leptospirosis transmission can vary across regions, leading to spatial clustering of infections. This study aims to identify clusters of leptospirosis seroprevalence \u2026 [+42136 chars]",
+      "retrievedAt": "2025-06-12 19:06:04.039331",
+      "internal_id": "fc0cdb7341a7d8d4119f8c5ac1db7d77783e84ec50bb14c2980e9005822850c3",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22051,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041b\u0435\u043e\u043d\u0438\u0434 \u041c\u043e\u043d\u0438\u043d",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0440\u0430\u0441\u0442\u0435\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c. \u041a\u0442\u043e \u0432 \u0433\u0440\u0443\u043f\u043f\u0435 \u0440\u0438\u0441\u043a\u0430 \u0438 \u043c\u043e\u0436\u0435\u0442 \u0443\u043c\u0435\u0440\u0435\u0442\u044c",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043e\u0437\u0440\u043e\u0441\u043b\u0438 \u0441\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c, \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 \u00ab\u041a\u043e\u043c\u043c\u0435\u0440\u0441\u0430\u043d\u0442\u00bb. \u00ab\u0412\u0435\u0447\u0435\u0440\u043d\u044f\u044f \u041c\u043e\u0441\u043a\u0432\u0430\u00bb \u043e\u0431\u0441\u0443\u0434\u0438\u043b\u0430 \u0441 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u043c, \u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043e\u043f\u0430\u0441\u043d\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u043a\u0430\u043a \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0438 \u043a\u0442\u043e \u0432 \u0433\u0440\u0443\u043f\u043f\u0435 \u0440\u0438\u0441\u043a\u0430.",
+      "url": "https://news.mail.ru/society/66536676/",
+      "urlToImage": "https://news.mail.ru/social_preview/66536676/?time=1dc694fd73b049a25acd55588edda3fc",
+      "publishedAt": "2025-06-11 12:40:21",
+      "content": ", - , \u2014 , bordetella pertussis . - , , . , .",
+      "retrievedAt": "2025-06-12 19:05:58.848398",
+      "internal_id": "d009b2061b5ab8060404fd9607eb6b5809fb00b6be6976943da6ce24848a66fc",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22059,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Pardis Sabeti and Christian Happi",
+      "title": "Sierra Leone Is Battling an Mpox Outbreak. What Happens Next Affects Us All",
+      "description": "\"Mpox, as a pandemic, could be brutal,\" write Pardis Sabeti and Christian Happi.",
+      "url": "https://time.com/7291478/sierra-leone-mpox-outbreak-pardis-sabeti-christian-happi-essay/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/06/ACEGID-snapshot-kk6197.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-06-11 12:34:50",
+      "content": "A dangerous mpox outbreak is unfolding in Sierra Leone. In just the first week of May, cases rose by 61%, and suspected cases surged by 71%. Roughly half of all confirmed mpox cases in Africa now com\u2026 [+5946 chars]",
+      "retrievedAt": "2025-06-12 19:06:03.460210",
+      "internal_id": "6b9af5045549ce84a94bbd6a076d90c4bc07f856367fef3119faff562281f5e1",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22058,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "St\u00e9phane Enilorac",
+      "title": "Chikungunya : trois d\u00e9c\u00e8s suppl\u00e9mentaires confirm\u00e9s et une \u00e9pid\u00e9mie toujours de faible intensit\u00e9",
+      "description": "Le nombre de nouveaux cas de chikungunya a baiss\u00e9 de moiti\u00e9 entre la derni\u00e8re semaine du mois de mai 2025 et la suivante. Toutes les communes de La R\u00e9union restent cependant concern\u00e9es par cette \u00e9pid\u00e9mie de faible intensit\u00e9, et trois nouveaux d\u00e9c\u00e8s ont \u00e9t\u00e9 co\u2026",
+      "url": "https://la1ere.franceinfo.fr/reunion/chikungunya-3-deces-supplementaires-confirmes-et-une-epidemie-toujours-de-faible-intensite-1594701.html",
+      "urlToImage": "https://la1ere.franceinfo.fr/image/sBkTjjtbqnDwz5evMBWz9i48JBo/930x620/outremer/2019/10/03/5d965df2d6aaa_aedes_aegypti_1-1071799.jpg",
+      "publishedAt": "2025-06-11 12:33:34",
+      "content": "Sant\u00e9 Publique France annonce, ce mercredi 11 juin 2025, trois nouveaux d\u00e9c\u00e8s \u00ab indirectement \u00bb li\u00e9s au chikungunya \u00e0 La R\u00e9union. Il sagit de personnes \u00e2g\u00e9es de 41 \u00e0 95 ans qui \u00e9taient d\u00e9j\u00e0 porteuses\u2026 [+1968 chars]",
+      "retrievedAt": "2025-06-12 19:06:03.255768",
+      "internal_id": "d28b874ada3f8f0af37b476f45259e4e300c2707dda62a07631518c4631509c9",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22055,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Goi\u00e1s registra mais dois casos suspeitos de gripe avi\u00e1ria",
+      "description": "Ao todo, estado tem tr\u00eas notifica\u00e7\u00f5es sendo investigadas",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2025-06-11/goias-registra-mais-dois-casos-suspeitos-de-gripe-aviaria.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/51/c6/u4/51c6u4qoe58igarxra7918a2c.jpg",
+      "publishedAt": "2025-06-11 12:05:51",
+      "content": "O estado de Goi\u00e1s registrou mais dois casos suspeitos de Influenza Avi\u00e1ria de Alta Patogenicidade (H5N1), conforme informado nesta ter\u00e7a-feira (10) pela Ag\u00eancia Goiana de Defesa Agropecu\u00e1ria (Agrodef\u2026 [+2306 chars]",
+      "retrievedAt": "2025-06-12 19:06:00.578380",
+      "internal_id": "ec0bc7e7f0a543f1d0bc53fa11387c99a937768f5f8c46b7fc05e33e2ca2b281",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22057,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Rtve.es",
+      "author": null,
+      "title": "M\u00e1s cerca - Costa de Marfil, primer pa\u00eds africano que incluye la vacuna contra la malaria en su calendario de vacunaci\u00f3n infantil - 11/06/25",
+      "description": "La malaria afecta a 260 millones de personas en el mundo y causa 600.000 muertes al a\u00f1o. El 94 por ciento de los casos se dan en el \u00c1frica subsahariana. Y tres de cada cuatro fallecidos son ni\u00f1os menores de cinco a\u00f1os. Costa de Marfil, con la ayuda de GAVI (o\u2026",
+      "url": "https://www.rtve.es/play/audios/a-hombros-de-gigantes/mas-cerca-costa-marfil-primer-pais-africano-incluye-vacuna-contra-malaria-su-calendario-vacunacion-infantil-11-06-25/16620044/",
+      "urlToImage": "https://img2.rtve.es/a/16620044/?imgProgApi=imgBackground&w=800",
+      "publishedAt": "2025-06-11 09:54:16",
+      "content": "A hombros de gigantes Costa de Marfil, primer pa\u00eds africano que incluye la vacuna contra la malaria en su calendario de vacunaci\u00f3n infantil11/06/202508:20La OMS ha recomendado dos vacunas contra la m\u2026 [+725 chars]",
+      "retrievedAt": "2025-06-12 19:06:01.889714",
+      "internal_id": "603bdd2228fa4d7bd84dd2893d8a04942906dd44cb0f52e8f98cbf7c6c6aadbe",
+      "publishedAtLabel": "Jun 11"
+    },
     {
       "id": 22047,
       "query": [
@@ -22407,79 +22587,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20796,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
-      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
-      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
-      "publishedAt": "2025-04-27 17:13:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
-      "retrievedAt": "2025-04-28 19:05:53.772232",
-      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20794,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
-      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
-      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
-      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
-      "publishedAt": "2025-04-27 15:51:25",
-      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
-      "retrievedAt": "2025-04-28 19:05:52.412120",
-      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20793,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Gazette",
-      "author": "Owain Johnston-barnes",
-      "title": "Whooping cough cases in Bermuda spark call for caution",
-      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
-      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
-      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
-      "publishedAt": "2025-04-27 15:35:28",
-      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
-      "retrievedAt": "2025-04-28 19:05:50.745522",
-      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20797,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ntv.co.ug",
-      "author": null,
-      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
-      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
-      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
-      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
-      "publishedAt": "2025-04-27 09:30:38",
-      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
-      "retrievedAt": "2025-04-28 19:05:53.956355",
-      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]
