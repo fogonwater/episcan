@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-06-11 19:06",
-  "count_articles_total": 1234,
-  "count_articles_new": 16,
+  "last_updated": "2025-06-12 07:07",
+  "count_articles_total": 1245,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 22047,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Cameron Webb, Clinical Associate Professor and Principal Hospital Scientist, University of Sydney",
+      "title": "Malaria has returned to the Torres Strait. What does this mean for mainland Australia?",
+      "description": "Two cases of locally acquired malaria have been reported in the Torres Strait. Here\u2019s what you need to know.",
+      "url": "https://theconversation.com/malaria-has-returned-to-the-torres-strait-what-does-this-mean-for-mainland-australia-258289",
+      "urlToImage": "https://images.theconversation.com/files/673531/original/file-20250611-56-nwdmxv.jpg?ixlib=rb-4.1.0&rect=0%2C657%2C5280%2C2640&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-11 06:16:22",
+      "content": "Aspect Drones/Shutterstock Malaria is one of the deadliest diseases spread by mosquitoes. Each year, hundreds of millions of people worldwide are infected and half a million people die from the dise\u2026 [+6798 chars]",
+      "retrievedAt": "2025-06-12 07:07:52.129811",
+      "internal_id": "abe56f49da2e7a44ae6f5e3cf96a8d2f71d99ba172b50252b8233ad532dcdc1d",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22048,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Michael McDowell",
+      "title": "I gave my friends hats which said \u2018Make America Hate Again\u2019. That\u2019s what Trump is trying to do",
+      "description": "I find it hard to understand how public opinion in America is not revolted by events such as the $200 million \u2018gift\u2019 of a jumbo jet that will become the president\u2019s private property",
+      "url": "https://www.irishtimes.com/opinion/2025/06/11/i-gave-my-friends-hats-which-said-make-america-hate-again-thats-what-trump-is-trying-to-do/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/MUB5TGDW2ZHTHEVZFEJABN6VEU.jpg?smart=true&auth=f7e60e1795254820f258963c0d6421428e1897f1f89715322f0fd47396a7a5e7&width=1200&height=630",
+      "publishedAt": "2025-06-11 05:00:01",
+      "content": "Back in my youth we were taught in Latin class about the problems faced by Rome because of neighbouring wetlands known as the Pontine Marshes. Although Romans did not fully understand how malaria inf\u2026 [+4373 chars]",
+      "retrievedAt": "2025-06-12 07:07:52.162898",
+      "internal_id": "423699e09be0304ec5c76f76db652a855775423f68b5830fd46140a73cdba143",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Kelvin Le\u00e3o Nunes da Costa",
+      "title": "Por que o mosquito da dengue se chama Aedes aegypti?",
+      "description": "Aedes aegypti: voc\u00ea sabe por que o mosquito da dengue tem esse nome? Neste artigo, explicamos o motivo. Descubra agora! O post Por que o mosquito da dengue se chama Aedes aegypti? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/06/11/ciencia-e-espaco/por-que-o-mosquito-da-dengue-se-chama-aedes-aegypti/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
+      "publishedAt": "2025-06-11 04:00:00",
+      "content": "O popular mosquito da dengue possui um nome cient\u00edfico conhecido por muitos: Aedes aegypti. Mas voc\u00ea sabe de onde esse nome vem? Ele tem uma longa hist\u00f3ria e um significado que passa por diferentes c\u2026 [+2633 chars]",
+      "retrievedAt": "2025-06-12 07:07:51.293625",
+      "internal_id": "8f391bc5245e8b13b0346a3ac1926f026ea68d9e8cbcf809c9f0e980677a6316",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22046,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Juliette Powell, former MuchMusic VJ and first black Miss Canada, dies at 54 in New York",
+      "description": "Canadian media icon Juliette Powell, a former MuchMusic host and tech ethics advocate, passed away unexpectedly in New York at 54 due to complications from acute bacterial meningitis. Powell, the first Black Miss Canada in 1989, had a diverse career spanning \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/juliette-powell-former-muchmusic-vj-and-first-black-miss-canada-dies-at-54-in-new-york/articleshow/121765323.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121765357,width-1200,height-630,imgsize-22370,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-11 01:17:16",
+      "content": "Juliette Powell, a trailblazer in Canadian media, a former MuchMusic host, and a leading voice on tech ethics, died unexpectedly at 54 on June 3, 2025, in New York. She died from complications of acu\u2026 [+2536 chars]",
+      "retrievedAt": "2025-06-12 07:07:51.638415",
+      "internal_id": "8dadfe4d5a4ab0f28d443c49d16a77da166499c1116fa7b79e34d70c576d7a7a",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22049,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "AA",
+      "title": "Gana'da 34 M \u00e7i\u00e7e\u011fi vakas\u0131 tespit edildi",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Gana'da 34 yeni M \u00e7i\u00e7e\u011fi (mpox) vakas\u0131n\u0131n tespit edildi\u011fi bildirildi. \u00dclkede M \u00e7i\u00e7e\u011fi vaka say\u0131s\u0131n\u0131n 79'a y\u00fckseldiDevam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
+      "url": "https://www.sabah.com.tr/dunya/ganada-34-m-cicegi-vakasi-tespit-edildi-7368081",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/e9ff13/1200/675/0/0/864/486?u=https://isbh.tmgrup.com.tr/sbh/2025/06/11/ganada-34-m-cicegi-vakasi-tespit-edildi-1749601650876.jpeg",
+      "publishedAt": "2025-06-11 00:31:44",
+      "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, \u00fclkenin 10 vilayetinde yeni 34 M \u00e7i\u00e7ei vakasnn tespit edildii belirtilerek, \u00fclkede M \u00e7i\u00e7ei vaka saysnn 79'a y\u00fckseldii kaydedildi. Vir\u00fcs nedeniyle 4 kiin\u2026 [+373 chars]",
+      "retrievedAt": "2025-06-12 07:07:52.948342",
+      "internal_id": "472ac157a2682321f91f3718b8d18e9bcbeb41b49d0b98a3a197b25e51be6e30",
+      "publishedAtLabel": "Jun 11"
+    },
+    {
+      "id": 22044,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "christopher.lorton@gatesfoundation.org, jonathan.bloedow@gatesfoundation.org, katherine.rosenfeld@gatesfoundation.org, kevin.mccarthy@gatesfoundation.org",
+      "title": "laser-measles 0.6.3",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.6.3/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-10 22:06:14",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-12 07:07:50.510616",
+      "internal_id": "ac3cbe30d401221026a0df6c200d0cdd1880a0bec4cbbfbb158a70ced7564a8d",
+      "publishedAtLabel": "Jun 10"
+    },
+    {
+      "id": 22050,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "Dr. Tim Sandle",
+      "title": "RFK Jr.\u2019s dismissal of CDC vaccine advisory panel: Medical experts weigh in",
+      "description": "Kennedy, a longtime anti-vaccine activist who had criticized the panel of experts, said he would pick the committee's new members. The post RFK Jr.\u2019s dismissal of CDC vaccine advisory panel: Medical experts weigh in appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/tech-science/rfk-jr-s-dismissal-of-cdc-vaccine-advisory-panel-medical-experts-weigh-in/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/08/f15c72c0578c4ce0763ba065d5743bbd790a439a.jpg",
+      "publishedAt": "2025-06-10 21:11:05",
+      "content": "Danish drugmaker Bavarian Nordic said last week that it was ready to supply up to 10 million doses of its vaccine targeting mpox by the end of 2025 - Copyright GETTY IMAGES NORTH AMERICA/AFP Ian Will\u2026 [+4746 chars]",
+      "retrievedAt": "2025-06-12 07:07:52.959831",
+      "internal_id": "9127a89671e49c7ef8182b7e8adae2d6977caa4987b1ab9527b601d15e4bb8ff",
+      "publishedAtLabel": "Jun 10"
+    },
     {
       "id": 22029,
       "query": [
@@ -22281,6 +22407,79 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20796,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
+      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
+      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
+      "publishedAt": "2025-04-27 17:13:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
+      "retrievedAt": "2025-04-28 19:05:53.772232",
+      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20794,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
+      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
+      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
+      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
+      "publishedAt": "2025-04-27 15:51:25",
+      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
+      "retrievedAt": "2025-04-28 19:05:52.412120",
+      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20793,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Royal Gazette",
+      "author": "Owain Johnston-barnes",
+      "title": "Whooping cough cases in Bermuda spark call for caution",
+      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
+      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
+      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
+      "publishedAt": "2025-04-27 15:35:28",
+      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
+      "retrievedAt": "2025-04-28 19:05:50.745522",
+      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20797,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.co.ug",
+      "author": null,
+      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
+      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
+      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
+      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
+      "publishedAt": "2025-04-27 09:30:38",
+      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
+      "retrievedAt": "2025-04-28 19:05:53.956355",
+      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]

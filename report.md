@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-06-11 19:06
-- **Most recent article:** 2025-06-10 16:49:56
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-06-12 07:07
+- **Most recent article:** 2025-06-11 06:16:22
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 90 | 18 | 497 |
-| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 5 | 165 |
+| measles | 87 | 82 | 75 | 77 | 68 | 90 | 19 | 498 |
+| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 6 | 167 |
 | h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 0 | 138 |
-| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 5 | 123 |
-| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 3 | 102 |
-| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 14 | 98 |
+| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 7 | 125 |
+| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 3 | 104 |
+| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 16 | 101 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 1 | 41 |
 | zika | 3 | 6 | 3 | 10 | 9 | 7 | 1 | 39 |
-| meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 1 | 33 |
+| meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 2 | 34 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
+| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 1 | 14 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 1 | 13 |
-| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 1 | 13 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 0 | 10 |
 | typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 3 | 9 |
 
@@ -60,6 +60,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (mpox)
 
+- [Gana'da 34 M çiçeği vakası tespit edildi](https://www.sabah.com.tr/dunya/ganada-34-m-cicegi-vakasi-tespit-edildi-7368081) (Sabah.com.tr)
+
+- [RFK Jr.’s dismissal of CDC vaccine advisory panel: Medical experts weigh in](https://www.digitaljournal.com/tech-science/rfk-jr-s-dismissal-of-cdc-vaccine-advisory-panel-medical-experts-weigh-in/article) (Digital Journal)
+
 - [Ministry of Health Announces Outbreak of Mpox in Four More Counties](https://www.kenyans.co.ke/news/112989-ministry-health-announces-outbreak-mpox-four-more-counties) (Kenyans.co.ke)
 
 - [Lapu-Lapu Health Office confirms 1st mpox case; patient](https://www.sunstar.com.ph/cebu/lapu-lapu-health-office-confirms-1st-mpox-case-patient-recovered) (Sunstar.com.ph)
@@ -90,9 +94,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (meningitis)
 
+- [Juliette Powell, former MuchMusic VJ and first black Miss Canada, dies at 54 in New York](https://economictimes.indiatimes.com/news/international/canada/juliette-powell-former-muchmusic-vj-and-first-black-miss-canada-dies-at-54-in-new-york/articleshow/121765323.cms) (The Times of India)
+
 - [Juliette Powell, Host of MuchMusic and MusiquePlus, Has Died](https://exclaim.ca/music/article/former-much-music-musique-plus-host-juliette-powell-has-died) (Exclaim!)
 
 ## 25-24 (measles)
+
+- [laser-measles 0.6.3](https://pypi.org/project/laser-measles/0.6.3/) (Pypi.org)
 
 - [Chatbots can help clinicians become better communicators, and this could boost vaccine uptake](https://theconversation.com/chatbots-can-help-clinicians-become-better-communicators-and-this-could-boost-vaccine-uptake-255045) (The Conversation Africa)
 
@@ -132,6 +140,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (malaria)
 
+- [Malaria has returned to the Torres Strait. What does this mean for mainland Australia?](https://theconversation.com/malaria-has-returned-to-the-torres-strait-what-does-this-mean-for-mainland-australia-258289) (The Conversation Africa)
+
+- [I gave my friends hats which said ‘Make America Hate Again’. That’s what Trump is trying to do](https://www.irishtimes.com/opinion/2025/06/11/i-gave-my-friends-hats-which-said-make-america-hate-again-thats-what-trump-is-trying-to-do/) (The Irish Times)
+
 - [Addio alle zanzare killer: una soluzione innovativa per fermare la malaria](https://tech.everyeye.it/notizie/combattere-malaria-uccidere-zanzare-possibile-806514.html) (Everyeye.it)
 
 - [Plasmodium falciparum expresses fewer var genes at lower levels during asymptomatic dry season infections than clinical malaria cases](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013210) (Plos.org)
@@ -147,6 +159,8 @@ Source: [News API](https://newsapi.org/)
 - ['금란(金卵)'된 달걀에…빵·과자 가격 오를까](https://zdnet.co.kr/view/?no=20250610160048) (Zdnet.co.kr)
 
 ## 25-24 (dengue)
+
+- [Por que o mosquito da dengue se chama Aedes aegypti?](https://olhardigital.com.br/2025/06/11/ciencia-e-espaco/por-que-o-mosquito-da-dengue-se-chama-aedes-aegypti/) (Olhardigital.com.br)
 
 - [Research: Laboratory-confirmed dengue cases: statistics](https://www.gov.uk/government/publications/dengue-laboratory-confirmed-cases-in-england-wales-and-northern-ireland) (Www.gov.uk)
 
@@ -2424,6 +2438,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
+- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
+
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2445,6 +2461,8 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
+
+- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2788,6 +2806,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
+
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2817,3 +2837,7 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
+
+- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
+
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
