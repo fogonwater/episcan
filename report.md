@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-06-12 19:06
-- **Most recent article:** 2025-06-11 18:19:56
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-06-13 07:07
+- **Most recent article:** 2025-06-12 06:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 90 | 20 | 499 |
-| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 6 | 166 |
-| h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 1 | 139 |
+| measles | 87 | 82 | 75 | 77 | 68 | 90 | 25 | 504 |
+| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 8 | 169 |
+| h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 2 | 140 |
 | malaria | 20 | 19 | 11 | 35 | 17 | 16 | 9 | 127 |
-| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 4 | 103 |
-| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 17 | 101 |
+| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 6 | 107 |
+| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 17 | 102 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 3 | 43 |
 | zika | 3 | 6 | 3 | 10 | 9 | 7 | 1 | 39 |
 | meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 2 | 34 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
-| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 2 | 14 |
+| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 4 | 17 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 1 | 13 |
-| leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 1 | 11 |
+| leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 2 | 12 |
 | typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 3 | 9 |
 
 
@@ -59,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 - [Demographic, temporal, and spatial analysis of human animal bite cases in Mymensingh District, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012204) (Plos.org)
 
 ## 25-24 (pertussis)
+
+- [Вспышка коклюша в 2025-м: Профилактика и лечение коклюша](https://news.mail.ru/society/66542295/) (Mail.ru)
+
+- [Вспышка коклюша в 2025-м: Профилактика и лечение коклюша](https://life.ru/p/1760344) (Life.ru)
 
 - [В России растет заболеваемость коклюшем. Кто в группе риска и может умереть](https://news.mail.ru/society/66536676/) (Mail.ru)
 
@@ -107,6 +111,16 @@ Source: [News API](https://newsapi.org/)
 - [Juliette Powell, Host of MuchMusic and MusiquePlus, Has Died](https://exclaim.ca/music/article/former-much-music-musique-plus-host-juliette-powell-has-died) (Exclaim!)
 
 ## 25-24 (measles)
+
+- [Measles outbreak in Eastern Iowa: health officials confirm two active cases](https://www.kwwl.com/news/measles-outbreak-in-eastern-iowa-health-officials-confirm-two-active-cases/article_90a240cb-2abf-413d-9c4e-9d87a5b4f5b6.html) (kwwl.com)
+
+- [‘We need people to get vaccinated’ - local health official talks measles cases](https://www.kcrg.com/2025/06/11/we-need-people-get-vaccinated-local-health-official-talks-measles-cases/) (KCRG)
+
+- [Health officials urge people to confirm MMR vaccination status after 4 cases of measles in El Paso County](https://www.kktv.com/2025/06/12/health-officials-urge-people-confirm-mmr-vaccination-status-after-4-cases-measles-el-paso-county/) (KKTV 11 News)
+
+- [Iowa health officials have confirmed third measles case](https://www.ketv.com/article/iowa-health-officials-have-confirmed-third-measles-case/65039177) (KETV Omaha)
+
+- [7 measles cases confirmed in Manitoba during 1st week of June](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-june-2025-update-1.7558577) (CBC News)
 
 - [CDC Warns of “Ongoing Risk” for Travelers in New Advisory](https://allears.net/2025/06/11/cdc-warns-of-ongoing-risk-for-travelers-in-new-advisory/) (allears.net)
 
@@ -170,6 +184,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (leptospirosis)
 
+- [Peromyscus spp. Deer Mice as Rodent Model of Acute Leptospirosis](https://wwwnc.cdc.gov/eid/article/31/7/24-1579_article) (Cdc.gov)
+
 - [Geospatial analysis of leptospirosis clusters and risk factors in two provinces of the Dominican Republic](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013103) (Plos.org)
 
 ## 25-24 (hpai)
@@ -178,11 +194,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (h5n1)
 
+- [UK confirms case of bird flu in poultry in northern England](https://www.thestar.com.my/news/world/2025/06/12/uk-confirms-case-of-bird-flu-in-poultry-in-northern-england) (The Star Online)
+
 - [Goiás registra mais dois casos suspeitos de gripe aviária](https://ultimosegundo.ig.com.br/brasil/2025-06-11/goias-registra-mais-dois-casos-suspeitos-de-gripe-aviaria.html) (Ig.com.br)
 
 ## 25-24 (dengue)
 
+- [El dengue se dispara en España: el número de casos se duplica en un solo año y la transmisión autóctona marca récords](https://www.elespanol.com/ciencia/salud/20250612/dengue-dispara-espana-numero-casos-duplica-solo-ano-transmision-autoctona-marca-records/1003743800334_0.html) (Elespanol.com)
+
 - [Por que o mosquito da dengue se chama Aedes aegypti?](https://olhardigital.com.br/2025/06/11/ciencia-e-espaco/por-que-o-mosquito-da-dengue-se-chama-aedes-aegypti/) (Olhardigital.com.br)
+
+- [Dengue: Campinas repete uso de IA para aumentar adesão à 2ª dose de vacina](https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/10/dengue-campinas-repete-uso-de-ia-para-aumentar-adesao-a-2a-dose-de-vacina.ghtml) (Globo)
 
 - [Research: Laboratory-confirmed dengue cases: statistics](https://www.gov.uk/government/publications/dengue-laboratory-confirmed-cases-in-england-wales-and-northern-ireland) (Www.gov.uk)
 
@@ -195,6 +217,10 @@ Source: [News API](https://newsapi.org/)
 - [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
+
+- [Bavarian Nordic Initiates Phase 3 Study of Chikungunya Vaccine in Children](https://www.globenewswire.com/news-release/2025/06/12/3098049/0/en/Bavarian-Nordic-Initiates-Phase-3-Study-of-Chikungunya-Vaccine-in-Children.html) (GlobeNewswire)
+
+- [Bavarian Nordic påbegynder fase 3-forsøg med chikungunyavaccine i børn](https://www.globenewswire.com/news-release/2025/06/12/3098049/0/da/Bavarian-Nordic-p%C3%A5begynder-fase-3-fors%C3%B8g-med-chikungunyavaccine-i-b%C3%B8rn.html) (GlobeNewswire)
 
 - [Chikungunya : trois décès supplémentaires confirmés et une épidémie toujours de faible intensité](https://la1ere.franceinfo.fr/reunion/chikungunya-3-deces-supplementaires-confirmes-et-une-epidemie-toujours-de-faible-intensite-1594701.html) (Franceinfo.fr)
 
@@ -2462,6 +2488,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
+- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
+
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2483,6 +2511,8 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
+
+- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2826,6 +2856,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
+
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2855,3 +2887,7 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
+
+- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
+
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
