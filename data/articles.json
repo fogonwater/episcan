@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-06-13 07:07",
-  "count_articles_total": 1268,
-  "count_articles_new": 13,
+  "last_updated": "2025-06-13 19:06",
+  "count_articles_total": 1274,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 22075,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Tracy Delatte",
+      "title": "1st measles case confirmed in Dallas County",
+      "description": "According to Dallas County health officials, a woman in her mid-20s who was fully vaccinated contracted the highly contagious disease and interacted with the public while contagious at least twice.",
+      "url": "https://www.fox4news.com/news/dallas-county-measles",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2025/02/1280/720/gettyimages-930111236.jpg?ve=1&tl=1",
+      "publishedAt": "2025-06-12 18:01:29",
+      "content": "DENTON COUNTY, Texas - Health officials have confirmed the first case of measles in Dallas County. Dallas County Measles Case What we know: According to the Dallas County Health and Human Services\u2026 [+3507 chars]",
+      "retrievedAt": "2025-06-13 19:06:11.558362",
+      "internal_id": "e98fa146f04db6e0e4a77075d56d470154c4d37eb8a31b274742fcd9aab1f037",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22076,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Tarik Minor",
+      "title": "TELL US: Why are you opting not to vaccinate your child for school?",
+      "description": "News4JAX wants to hear from those who choose not to vaccinate their children for school",
+      "url": "https://www.news4jax.com/health/2025/06/12/tell-us-why-are-you-opting-not-to-vaccinate-your-child-for-school/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/224K4WDUCRFKPMYIS42DF2RQDM.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-06-12 16:26:20",
+      "content": "Childhood vaccination rates against measles have fallen dramatically since the COVID-19 pandemic. Measles has been spreading among communities because of international and domestic travel, and 2025 \u2026 [+1088 chars]",
+      "retrievedAt": "2025-06-13 19:06:11.581831",
+      "internal_id": "c8be0041dead21b73564e4fa65847d393d27081a485f99313d95a3dd16afda7b",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22081,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Swati Bharadwaj",
+      "title": "Bharat Biotech in-licences GSK's Shigella vaccine candidate",
+      "description": "Bharat Biotech has in-licensed GSK's Shigella vaccine candidate, altSonflex1-2-3, aimed at combating Shigellosis in young children in low- and middle-income countries. Following promising early-stage trials by GSK, Bharat Biotech will advance the vaccine thro\u2026",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bharat-biotech-in-licences-gsks-shigella-vaccine-candidate/articleshow/121808254.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-121808256,width-1070,height-580,imgsize-774748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-06-12 16:15:22",
+      "content": "Hemp cotton to linen: Breezy Gen-Z fabrics giving cotton a run for its money",
+      "retrievedAt": "2025-06-13 19:06:16.384492",
+      "internal_id": "6c52f8bd16b0fd2bfd56b97edbbd0ea64dc2c63739ed29bf001aa9cbdd1d5edd",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22074,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dong-Sheng Luo, Mark\u00e9ta Harazim, Corinne Maufrais, Simon Bonas, Natalia Martinkova, Aude Lalis, Emmanuel Nakoun\u00e9, Edgard Val\u00e9ry Adjogoua, Mory Douno, Blaise Kadjo, Marc L\u00f3pez-Roig, Jiri Pikula, Zheng-Li Shi, Herv\u00e9 Bourhy, Jordi Serra-Cobo, Laurent Dacheux",
+      "title": "Broad geographical circulation of a novel vesiculovirus in bats in the Mediterranean region",
+      "description": "Author summary Bats are the natural hosts for a wide variety of viruses, particularly those belonging to the family Rhabdoviridae, which include the lyssaviruses, the etiological agents of rabies. This viral family is one of the most abundant and diverse, wit\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013172",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013172.g004&size=inline",
+      "publishedAt": "2025-06-12 14:00:00",
+      "content": "1. Introduction Bats belong to the order Chiroptera, which represents the second largest mammalian order, with 1474 species extant to date, belonging to 21 bat families (https://www.mammaldiversity.\u2026 [+52302 chars]",
+      "retrievedAt": "2025-06-13 19:06:10.911472",
+      "internal_id": "e33d3a55b6388dba9fdb396febf7c13a31b3278bf73c53e27511c0e5acbb9ca2",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22080,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jia Bainga Kangbai, Umaru Sesay, Ulrich Vickos, Fatmata Kagbanda, Mosoka Papa Fallah, Augustus Osborne",
+      "title": "Mpox in Africa: What we know and what is still lacking",
+      "description": "Emerging as a major global health threat, Mpox previously known as Monkeypox has drawn attention due to a worrying surge in cases. This zoonotic disease, native to Central and West Africa, is marked by fever, rash, and lymphadenopathy and is primarily spread \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013148",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013148.g001&size=inline",
+      "publishedAt": "2025-06-12 14:00:00",
+      "content": "Abstract Emerging as a major global health threat, Mpox previously known as Monkeypox has drawn attention due to a worrying surge in cases. This zoonotic disease, native to Central and West Africa, \u2026 [+25355 chars]",
+      "retrievedAt": "2025-06-13 19:06:15.054905",
+      "internal_id": "55522d1f07b9849a55fd43e3dc3b55008da4ff1fb3901531dd68e123969c1dc1",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22078,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Tri Meilani, Raka Adji",
+      "title": "RI Govt focusing on anti-malaria efforts in Papua amid case spike",
+      "description": "The Indonesian Ministry of Health is prioritizing efforts to eliminate malaria in Papua considering the high number of cases in the region. Director of ...",
+      "url": "https://en.antaranews.com/news/359065/ri-govt-focusing-on-anti-malaria-efforts-in-papua-amid-case-spike",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/12/FotoGrid_20250612_144520440.jpg",
+      "publishedAt": "2025-06-12 13:06:56",
+      "content": "Jakarta (ANTARA) - The Indonesian Ministry of Health is prioritizing efforts to eliminate malaria in Papua considering the high number of cases in the region.Director of communicable disease at the m\u2026 [+1808 chars]",
+      "retrievedAt": "2025-06-13 19:06:13.658399",
+      "internal_id": "02179333edf1320e14442f206ee2fbcb937f79e5444db6a3181afc6680d7188f",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22083,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Bharat Biotech, GSK join hands to develop vaccine for severe diarrhoea",
+      "description": "Bharat Biotech and GSK plc have partnered to develop a vaccine for Shigellosis, a severe bacterial diarrhea. The altSonflex1-2-3 vaccine candidate, developed by GSK, will be further developed by Bharat Biotech, including Phase 3 trials and manufacturing. This\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/bharat-biotech-gsk-join-hands-to-develop-vaccine-for-severe-diarrhoea/articleshow/121803810.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121803828,width-1200,height-630,imgsize-1598549,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-12 11:57:55",
+      "content": "Bharat Biotech on Thursday said it has partnered with GSK plc for the development of a vaccine for Shigellosis, a severe form of bacterial diarrhoea.The altSonflex1-2-3 vaccine candidate, developed b\u2026 [+1437 chars]",
+      "retrievedAt": "2025-06-13 19:06:16.403354",
+      "internal_id": "bb1f5e08b25e76a12f7c2eb51f0517327bb967d2df681b81c775ccd00e3ba9a4",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22077,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gefahr von Insekten: Gesundheitsamt weitet \u00dcberwachung von Tigerm\u00fccken aus",
+      "description": "Sie klingt gef\u00e4hrlich - und ist es auch: Die Asiatische Tigerm\u00fccke kann den Erreger des Denguefiebers \u00fcbertragen. Die \u00dcberwachung des Insekts wird im Norden ausgeweitet.",
+      "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/gefahr-von-insekten--gesundheitsamt-weitet-ueberwachung-von-tigermuecken-aus-35802866.html",
+      "urlToImage": "https://image.stern.de/35802868/t/yr/v1/w1440/r1.7778/-/12--xr64z5st3ev8axs2048jpeg---73b776574d8ce352.jpg",
+      "publishedAt": "2025-06-12 10:57:20",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Sie klingt gef\u00e4hrlich - und ist es auch: Die Asiatische Tigerm\u00fccke kann den Erreger des Denguefiebers \u00fcbertragen. Die \u00dcberwachung des Insekts wir\u2026 [+2516 chars]",
+      "retrievedAt": "2025-06-13 19:06:12.508408",
+      "internal_id": "3d9028628b1be1aec400def401ae70f0107b539879a76801935e08bd67e96859",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22082,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL Hyderabad Bureau",
+      "title": "Bharat Biotech, GSK team up to develop Shigella vaccine for global health",
+      "description": "Bharat Biotech will lead Phase 3 clinical trials and large-scale manufacturing, while GSK will support with funding, clinical trial design, and access strategies.",
+      "url": "https://www.thehindubusinessline.com/companies/bharat-biotech-gsk-shigella-vaccine-development-phase3/article69686098.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/93iqm7/article69686118.ece/alternates/LANDSCAPE_1200/vaccine%20tie-up.jpg",
+      "publishedAt": "2025-06-12 07:53:32",
+      "content": "Vaccine maker Bharat Biotech International entered into a partnership with GSK plc to develop and potentially use the Shigella vaccine candidate to prevent Shigellosis. Shigellosis. is a severe form\u2026 [+1771 chars]",
+      "retrievedAt": "2025-06-13 19:06:16.394593",
+      "internal_id": "53954f92b06c0a094af513a31689d3e9f969d0765337057ed012e5fbf919f6dd",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22079,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Gana'da 34 M-\u00e7i\u00e7e\u011fi vakas\u0131 tespit edildi",
+      "description": "Bat\u0131 Afrika \u00fclkesi Gana\u2019da 34 M-\u00e7i\u00e7e\u011fi (mpox) vakas\u0131 saptand\u0131.",
+      "url": "https://www.haberturk.com/gana-da-34-m-cicegi-vakasi-tespit-edildi-3798717",
+      "urlToImage": "https://im.haberturk.com/l/2025/06/12/ver1749713599/3798717/jpg/1200x628",
+      "publishedAt": "2025-06-12 07:33:34",
+      "content": "Gana Salk Servisi (GHS), \u00fclkenin 10 vilayetinde 34 yeni M-\u00e7i\u00e7ei (mpox) vakasnn tespit edildiini duyurdu ve toplam vaka saysnn 79a ulatn bildirdi. A\u00e7klamada, vir\u00fcs nedeniyle 4 kiinin hastanede tedavi \u2026 [+239 chars]",
+      "retrievedAt": "2025-06-13 19:06:14.993408",
+      "internal_id": "f34ba38a616f1072688e01a6403c23cb7085be2c03528f5f3a62b11a0f72f48d",
+      "publishedAtLabel": "Jun 12"
+    },
     {
       "id": 22071,
       "query": [
@@ -22821,79 +23001,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20796,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
-      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
-      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
-      "publishedAt": "2025-04-27 17:13:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
-      "retrievedAt": "2025-04-28 19:05:53.772232",
-      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20794,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
-      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
-      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
-      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
-      "publishedAt": "2025-04-27 15:51:25",
-      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
-      "retrievedAt": "2025-04-28 19:05:52.412120",
-      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20793,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Gazette",
-      "author": "Owain Johnston-barnes",
-      "title": "Whooping cough cases in Bermuda spark call for caution",
-      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
-      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
-      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
-      "publishedAt": "2025-04-27 15:35:28",
-      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
-      "retrievedAt": "2025-04-28 19:05:50.745522",
-      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20797,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ntv.co.ug",
-      "author": null,
-      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
-      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
-      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
-      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
-      "publishedAt": "2025-04-27 09:30:38",
-      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
-      "retrievedAt": "2025-04-28 19:05:53.956355",
-      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]
