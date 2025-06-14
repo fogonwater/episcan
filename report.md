@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-06-14 07:06
-- **Most recent article:** 2025-06-13 02:13:44
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-06-14 19:05
+- **Most recent article:** 2025-06-13 17:30:33
 
 ---
 
@@ -13,16 +13,16 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 87 | 82 | 75 | 77 | 68 | 90 | 30 | 509 |
-| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 11 | 172 |
+| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 14 | 174 |
 | h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 4 | 142 |
-| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 11 | 129 |
-| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 6 | 107 |
-| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 21 | 106 |
-| rabies | 4 | 12 | 3 | 6 | 9 | 6 | 4 | 44 |
-| zika | 3 | 6 | 3 | 10 | 9 | 7 | 1 | 39 |
-| meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 2 | 34 |
+| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 14 | 132 |
+| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 12 | 111 |
+| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 24 | 108 |
+| rabies | 4 | 12 | 3 | 6 | 9 | 6 | 6 | 46 |
+| zika | 3 | 6 | 3 | 10 | 9 | 7 | 2 | 40 |
+| meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 4 | 36 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
-| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 4 | 17 |
+| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 4 | 16 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 1 | 13 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 2 | 12 |
 | typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 3 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-24 (zika)
+
+- [Knockdown-resistance (kdr) mutations in Indian Aedes aegypti populations: Lack of recombination among haplotypes bearing V1016G, F1534C, and F1534L kdr alleles](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013126) (Plos.org)
 
 - [Research: Laboratory-confirmed Zika virus disease cases: statistics](https://www.gov.uk/government/publications/laboratory-confirmed-zika-virus-disease-cases-statistics) (Www.gov.uk)
 
@@ -61,6 +63,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (rabies)
 
+- [Advarer mot hunder i Pasvikdalen – kan komme fra Russland](https://www.nrk.no/tromsogfinnmark/politiet-advarer-folk-i-pasvik-om-ukjente-hunder-1.17454773) (NRK)
+
+- [Politiet advarer mot løse hunder - kan være russiske og utgjøre fare for rabiessmitte](https://www.aftenposten.no/norge/i/QM65Xx/politiet-advarer-mot-loese-hunder-kan-vaere-russiske-og-utgjoere-fare-for-rabiessmitte) (Aftenposten)
+
 - [Broad geographical circulation of a novel vesiculovirus in bats in the Mediterranean region](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013172) (Plos.org)
 
 - [Woman attacked by rabid cat in Lynchburg, health officials say](https://wset.com/news/local/woman-attacked-by-rabid-rabies-stray-cat-in-lynchburg-health-officials-say-early-street-near-hollins-mill-road-june-2025) (WSET)
@@ -80,6 +86,12 @@ Source: [News API](https://newsapi.org/)
 - [Australia’s whooping cough surge is not over – and it doesn’t just affect babies](https://theconversation.com/australias-whooping-cough-surge-is-not-over-and-it-doesnt-just-affect-babies-257808) (The Conversation Africa)
 
 ## 25-24 (mpox)
+
+- [Mpox. Detetado caso de infeção em utente não residente](https://ionline.sapo.pt/2025/06/13/mpox-detetado-caso-de-infecao-em-utente-nao-residente/) (Sapo.pt)
+
+- [Guidance: Introduction of new routine mpox and 4CMenB for gonorrhoea vaccination programmes letter](https://www.gov.uk/government/publications/introduction-of-new-routine-mpox-and-4cmenb-for-gonorrhoea-vaccination-programmes-letter) (Www.gov.uk)
+
+- [Treating Mpox In Ghana: With What?](https://thechronicle.com.gh/treating-mpox-in-ghana-with-what/) (Thechronicle.com.gh)
 
 - [África, con riesgo de registrar más del doble de casos de mpox que en 2024: UA](https://www.milenio.com/internacional/africa-riesgo-registrar-mas-del-doble-casos-mpox-2024) (Milenio)
 
@@ -124,6 +136,10 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Negros Oriental Forms Mpox Task Force as Precaution](https://rpnradio.com/bacolod-negros-oriental-forms-mpox-task-force-as-precaution/) (Rpnradio.com)
 
 ## 25-24 (meningitis)
+
+- [juustme y su ADV](https://www.ascodevida.com/varios/746028) (Ascodevida.com)
+
+- ['We are waiting for apology over daughter's death'](https://www.bbc.com/news/articles/c74n28z9dpdo) (BBC News)
 
 - [Juliette Powell, former MuchMusic VJ and first black Miss Canada, dies at 54 in New York](https://economictimes.indiatimes.com/news/international/canada/juliette-powell-former-muchmusic-vj-and-first-black-miss-canada-dies-at-54-in-new-york/articleshow/121765323.cms) (The Times of India)
 
@@ -193,6 +209,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (malaria)
 
+- [Colombia fabrica por primera vez un medicamento contra la malaria: ¿por qué es tan importante este avance?](https://www.enter.co/colombia/colombia-fabrica-por-primera-vez-un-medicamento-contra-la-malaria-por-que-es-tan-importante-este-avance/) (Enter.co)
+
+- [La bilirrubina protege frente a los efectos más graves de la malaria](https://www.abc.es/salud/enfermedades/bilirrubina-protege-frente-efectos-graves-malaria-20250613153000-nt.html) (Www.abc.es)
+
+- [Apa Beda Gejala Malaria dengan DBD?](https://www.liputan6.com/health/read/6051409/apa-beda-gejala-malaria-dengan-dbd) (Liputan6.com)
+
 - [Yellow Pigment That Causes Jaundice May Shield Against Malaria](https://scienceblog.com/blog/yellow-pigment-that-causes-jaundice-may-shield-against-malaria/) (ScienceBlog.com)
 
 - [RI Govt focusing on anti-malaria efforts in Papua amid case spike](https://en.antaranews.com/news/359065/ri-govt-focusing-on-anti-malaria-efforts-in-papua-amid-case-spike) (Antaranews.com)
@@ -237,6 +259,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (dengue)
 
+- [Serum Institute to partner with DNDi for affordable dengue treatment](https://www.thehindubusinessline.com/news/national/serum-institute-to-partner-with-dndi-for-affordable-dengue-treatment/article69691642.ece) (BusinessLine)
+
+- [Knockdown-resistance (kdr) mutations in Indian Aedes aegypti populations: Lack of recombination among haplotypes bearing V1016G, F1534C, and F1534L kdr alleles](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013126) (Plos.org)
+
+- [Apa Beda Gejala Malaria dengan DBD?](https://www.liputan6.com/health/read/6051409/apa-beda-gejala-malaria-dengan-dbd) (Liputan6.com)
+
 - [Ultrafast point-of-care colorimetric detection of dengue using gold nanoparticles capped with β-cyclodextrin modified NS1 antibody](https://pubs.rsc.org/en/content/articlelanding/2025/ay/d5ay00356c) (Royal Society of Chemistry)
 
 - [VIDEO. Alerte aux moustiques tigres](https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-alerte-aux-moustiques-tigres_7301706.html) (Franceinfo.fr)
@@ -260,6 +288,18 @@ Source: [News API](https://newsapi.org/)
 - [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
+
+- [Chikungunya : opération démoustication après un premier cas détecté dans le Var](https://www.liberation.fr/societe/sante/chikungunya-operation-demoustication-apres-un-premier-cas-detecte-dans-le-var-20250613_YQ62AVTESVCC3I5SHKDWXXJLHU/) (Libération)
+
+- [Knockdown-resistance (kdr) mutations in Indian Aedes aegypti populations: Lack of recombination among haplotypes bearing V1016G, F1534C, and F1534L kdr alleles](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013126) (Plos.org)
+
+- [Var. Chikungunya : un premier cas autochtone détecté en France métropolitaine](https://www.ledauphine.com/sante/2025/06/13/chikungunya-un-premier-cas-autochtone-detecte-en-france-metropolitaine) (Le Dauphiné Libéré)
+
+- [Chikungunya : le premier cas autochtone de l’année détecté en France métropolitaine](https://www.huffingtonpost.fr/france/article/chikungunya-le-premier-cas-autochtone-de-l-annee-detecte-en-france-metropolitaine_251324.html) (Le HuffPost)
+
+- [Chikungunya : Un premier cas autochtone découvert dans le Var](https://www.20minutes.fr/sante/4158346-20250613-chikungunya-premier-cas-autochtone-decouvert-var) (20 Minutes)
+
+- [Un premier cas autochtone de chikungunya a été détecté en France métropolitaine, dans le Var, annonce l'Agence régionale de la santé](https://www.franceinfo.fr/sante/maladie/chikungunya/un-premier-cas-autochtone-de-chikungunya-a-ete-detecte-en-france-metropolitaine-dans-le-var-annonce-l-agence-regionale-de-la-sante_7310733.html) (Franceinfo.fr)
 
 - [Bavarian Nordic Initiates Phase 3 Study of Chikungunya Vaccine in Children](https://www.globenewswire.com/news-release/2025/06/12/3098049/0/en/Bavarian-Nordic-Initiates-Phase-3-Study-of-Chikungunya-Vaccine-in-Children.html) (GlobeNewswire)
 
@@ -2531,8 +2571,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
-- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
-
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2554,8 +2592,6 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
-
-- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2899,8 +2935,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
-- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
-
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2930,7 +2964,3 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
-
-- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
-
-- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)

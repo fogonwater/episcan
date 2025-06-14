@@ -1,8 +1,317 @@
 {
-  "last_updated": "2025-06-14 07:06",
-  "count_articles_total": 1288,
-  "count_articles_new": 10,
+  "last_updated": "2025-06-14 19:05",
+  "count_articles_total": 1301,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 22095,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "Gunnar S\u00e6tra",
+      "title": "Advarer mot hunder i Pasvikdalen \u2013 kan komme fra Russland",
+      "description": "Politiet i Finnmark har f\u00e5tt melding om tre hunder p\u00e5 et jorde p\u00e5 Skr\u00f8ytnes i Pasvikdalen i S\u00f8r-Varanger. Hundene kan komme fra Russland og inneb\u00e6re fare for rabies.",
+      "url": "https://www.nrk.no/tromsogfinnmark/politiet-advarer-folk-i-pasvik-om-ukjente-hunder-1.17454773",
+      "urlToImage": "https://gfx.nrk.no/p4SzCKsVcZ8sC_oCvUvYIQnnqCi27jg5vVxaS2oUhytQ.jpg",
+      "publishedAt": "2025-06-13 17:30:33",
+      "content": "Det er uvisst hvem som eier dem, og man kan ikke utelukke at dette er russiske hunder som har kommet over grensa, skriver politiet i Finnmark i Politiloggen. Politiet frykter hundene i Pasvikdalen k\u2026 [+480 chars]",
+      "retrievedAt": "2025-06-14 19:05:45.778499",
+      "internal_id": "500159ae20fad02ab5dd1aaecd5b0ff1f3896e5b8e132bb9b41b3542adc2dcd8",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22094,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "Nicholas Bergh",
+      "title": "Politiet advarer mot l\u00f8se hunder - kan v\u00e6re russiske og utgj\u00f8re fare for rabiessmitte",
+      "description": "Ble oppdaget p\u00e5 et jorde i S\u00f8r-Varanger.",
+      "url": "https://www.aftenposten.no/norge/i/QM65Xx/politiet-advarer-mot-loese-hunder-kan-vaere-russiske-og-utgjoere-fare-for-rabiessmitte",
+      "urlToImage": "https://premium.vgc.no/v2/images/76c949c2-df83-47ef-adc4-46e9a26fb22d?fit=crop&format=auto&h=392&w=892&s=ea16ba4c1c60b4ffaa8fe8964becaf9c8ca898fc",
+      "publishedAt": "2025-06-13 17:13:27",
+      "content": "Ble oppdaget p\u00e5 et jorde i S\u00f8r-Varanger. Dette skal v\u00e6re hundene som er funnet. Foto: Politiet Publisert: 13.06.2025 19:13 | Oppdatert: 13.06.2025 19:24 Fredag kveld advarer politiet mot tre hunde\u2026 [+348 chars]",
+      "retrievedAt": "2025-06-14 19:05:45.731486",
+      "internal_id": "2363035fd93305383e91c5edba049cfa48cecc89b009b13e0a053757ece849f6",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22108,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Mpox. Detetado caso de infe\u00e7\u00e3o em utente n\u00e3o residente",
+      "description": "Utente n\u00e3o era residente nos A\u00e7ores e que j\u00e1 teria contra\u00eddo a doen\u00e7a quando chegou. O conte\u00fado Mpox. Detetado caso de infe\u00e7\u00e3o em utente n\u00e3o residente aparece primeiro em Jornal i.",
+      "url": "https://ionline.sapo.pt/2025/06/13/mpox-detetado-caso-de-infecao-em-utente-nao-residente/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2025/06/dreamstime_m_330746874.jpg",
+      "publishedAt": "2025-06-13 16:30:30",
+      "content": "Utente n\u00e3o era residente nos A\u00e7ores e que j\u00e1 teria contra\u00eddo a doen\u00e7a quando chegou. Os A\u00e7ores detetaram um caso de infe\u00e7\u00e3o pelo v\u00edrus Monkeypox (mpox) numa pessoa n\u00e3o residente, revelou esta sexta-f\u2026 [+800 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.922592",
+      "internal_id": "5540fbbb0e39ba1948f44d85f1282eda5fc479dbbb85dbe5d2cf2cc6fe0bba3d",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22096,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Our Bureau",
+      "title": "Serum Institute to partner with DNDi for affordable dengue treatment",
+      "description": "Serum Institute of India and DNDi partner to develop affordable dengue treatment, conducting Phase III trials in multiple countries.",
+      "url": "https://www.thehindubusinessline.com/news/national/serum-institute-to-partner-with-dndi-for-affordable-dengue-treatment/article69691642.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/sriek8/article69692390.ece/alternates/LANDSCAPE_1200/2024-03-15T105941Z_1195255252_RC2YA6AT7CCU_RTRMADP_3_HEALTH-VACCINES-SERUM.JPG",
+      "publishedAt": "2025-06-13 16:16:15",
+      "content": "Vaccine-maker Serum Institute of India and not-for-profit medical research organization Drugs for Neglected Diseases initiative (DNDi) have formalised a memorandum of understanding (MOU) for the clin\u2026 [+3021 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.012325",
+      "internal_id": "6d699a7b3325e9ec9306f9691eeabfd890177768187f9c03a1628f967219e793",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22104,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Chikungunya : op\u00e9ration d\u00e9moustication apr\u00e8s un premier cas d\u00e9tect\u00e9 dans le Var",
+      "description": "Pour la premi\u00e8re fois en 2025, un premier cas autochtone de la maladie infectieuse a \u00e9t\u00e9 d\u00e9tect\u00e9 mercredi dans la commune de La Crau.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-operation-demoustication-apres-un-premier-cas-detecte-dans-le-var-20250613_YQ62AVTESVCC3I5SHKDWXXJLHU/",
+      "urlToImage": "https://www.liberation.fr/resizer/qSklMjN7YEP1fVBnNdxb6FsytGc=/1200x630/filters:format(jpg):quality(70):focal(2960x1736:2970x1746)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/NGQHPV354BFKFGU55423MJUYFA.jpg",
+      "publishedAt": "2025-06-13 16:03:28",
+      "content": "LAgence r\u00e9gionale de sant\u00e9 de Provence-Alpes-Cote-dAzur est sur le qui-vive. \u00abDes mesures imm\u00e9diates sont mises en uvre pour limiter tout risque de propagation\u00bb dans la commune de La Crau (Var), o\u00f9 e\u2026 [+3137 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.567644",
+      "internal_id": "97015b587a973b01c15d12ef330b756c9cceff3d3ca193777aa9078e5b370e9e",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22102,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Enter.co",
+      "author": "Digna Irene Urrea",
+      "title": "Colombia fabrica por primera vez un medicamento contra la malaria: \u00bfpor qu\u00e9 es tan importante este avance?",
+      "description": "Colombia inici\u00f3 por primera vez la producci\u00f3n nacional de un medicamento para tratar la malaria. Se trata de tabletas de cloroquina de 150 mg",
+      "url": "https://www.enter.co/colombia/colombia-fabrica-por-primera-vez-un-medicamento-contra-la-malaria-por-que-es-tan-importante-este-avance/",
+      "urlToImage": "https://www.enter.co/wp-content/uploads/2025/06/Gris-Negro-Claro-Fotografia-Experimental-Portafolio-Sitio-Web-11.jpg",
+      "publishedAt": "2025-06-13 15:51:02",
+      "content": "Colombia inici\u00f3 por primera vez la producci\u00f3n nacional de un medicamento para tratar la malaria. Se trata de tabletas de cloroquina de 150 mg desarrolladas por la Universidad de Antioquia, con respal\u2026 [+3053 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.663286",
+      "internal_id": "aac718e237ddf10b8ee1b18d902cc0cc81eb346d9c1c8cfc68f60f67925c68e9",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22097,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Taranjeet Kaur, Rajababu S. Kushwah, Sabyasachi Pradhan, Manoj K. Das, Madhavinadha P. Kona, Anushrita, Radhika Mittal, David Weetman, Rajnikant Dixit, Om P. Singh",
+      "title": "Knockdown-resistance (kdr) mutations in Indian Aedes aegypti populations: Lack of recombination among haplotypes bearing V1016G, F1534C, and F1534L kdr alleles",
+      "description": "Author summary Aedes aegypti mosquitoes transmit dengue, chikungunya, and Zika, making their control crucial in India. Pyrethroid insecticides are widely used for mosquito control, but resistance is rising due to genetic mutations in the voltage-gated sodium \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013126",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013126.g003&size=inline",
+      "publishedAt": "2025-06-13 14:00:00",
+      "content": "Background Aedes aegypti serves as a vector for several human arboviral infections including dengue virus (DENV), chikungunya virus (CHIKV), yellow fever virus (YFV), and Zika virus (ZIKV). Controll\u2026 [+31584 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.029355",
+      "internal_id": "f60921b2a59b1018bfafe3f21e7efadf219a0bb9b0b2d4b7fe3041efafba2ba8",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22101,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La bilirrubina protege frente a los efectos m\u00e1s graves de la malaria",
+      "description": "La bilirrubina, un pigmento que causa ictericia, o coloraci\u00f3n amarillenta de la piel, podr\u00eda ayudar a proteger a las personas de las consecuencias m\u00e1s graves de la malaria. Un estudio que publica la revista ' Science ' sugieren que la bilirrubina podr\u00eda ser u\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/bilirrubina-protege-frente-efectos-graves-malaria-20250613153000-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/06/13/52845988965_545f56f349_o-U70812143424VgN-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-06-13 13:30:01",
+      "content": "La bilirrubina, un pigmento que causa ictericia, o coloraci\u00f3n amarillenta de la piel, podr\u00eda ayudar a proteger a las personas de las consecuencias m\u00e1s graves de la malaria. Un estudio que publica l\u2026 [+2903 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.652327",
+      "internal_id": "ff2589e4378e62081b6375330324492d1cc778c9d0db076c64eedfcfe51bcf32",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22100,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Ascodevida.com",
+      "author": "ascodevida.com",
+      "title": "juustme y su ADV",
+      "description": "Hoy, mi pueblo est\u00e1 en alerta por meningitis. Los ni\u00f1os est\u00e1n preocupados porque ma\u00f1ana tienen que vacunarse. No les importa el dolor, les importa m\u00e1s que no podr\u00e1n emborracharse este fin de semana ya que son las fiestas del pueblo. ADV",
+      "url": "https://www.ascodevida.com/varios/746028",
+      "urlToImage": "https://statics.memondo.com/p/99/advs/2025/05/ADV_746028_varios.jpg?cb=4456577",
+      "publishedAt": "2025-06-13 13:00:02",
+      "content": "* No hay temas tab\u00fa, expr\u00e9sate en 400 caracteres. Evita historias de quincea\u00f1eras propias de la SuperPOP.* Lee y repasa tu mensaje. Escribe correctamente evitando errores ortogr\u00e1fico\u2026 [+183 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.216380",
+      "internal_id": "2b17c2f6e5c389e70fd9e1712fecb78bd298bd0b4ad233a691f0c3d5ab4a22f4",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22106,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Var. Chikungunya : un premier cas autochtone d\u00e9tect\u00e9 en France m\u00e9tropolitaine",
+      "description": "Un seul cas autochtone de ce virus transmis par le moustique tigre avait \u00e9t\u00e9 d\u00e9tect\u00e9 en 2024 en m\u00e9tropole, en Ile-de-France, aucun en 2023.",
+      "url": "https://www.ledauphine.com/sante/2025/06/13/chikungunya-un-premier-cas-autochtone-detecte-en-france-metropolitaine",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9F68CE48-2FA1-493A-AD37-F963C6A74C89/FB1200/photo-1749814866.jpg",
+      "publishedAt": "2025-06-13 11:47:00",
+      "content": "Un premier cas autochtone de chikungunya pour 2025 en m\u00e9tropole a \u00e9t\u00e9 d\u00e9tect\u00e9 mercredi dans le Var, dans la commune de La Crau, a annonc\u00e9 l'Agence r\u00e9gionale de sant\u00e9 Provence-Alpes-C\u00f4te d'Azur dans u\u2026 [+2522 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.607172",
+      "internal_id": "09c6d0f8cd8d2b2d6f13f0f21566dfb2a8e2a0fb8a0a41d0fa116640b0e5b02c",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22105,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Cl\u00e9ment Giuliano, avec AFP",
+      "title": "Chikungunya : le premier cas autochtone de l\u2019ann\u00e9e d\u00e9tect\u00e9 en France m\u00e9tropolitaine",
+      "description": "Dans le Var, une personne a \u00e9t\u00e9 infect\u00e9e sans avoir pr\u00e9alablement voyag\u00e9 dans une zone touch\u00e9e par l\u2019\u00e9pid\u00e9mie.",
+      "url": "https://www.huffingtonpost.fr/france/article/chikungunya-le-premier-cas-autochtone-de-l-annee-detecte-en-france-metropolitaine_251324.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2023/09/15/531/0/4000/2250/1820/1023/75/0/ff47ee0_1694770031849-moustique.jpeg",
+      "publishedAt": "2025-06-13 10:27:02",
+      "content": "SANT\u00c9 - Alors que l\u00e9pid\u00e9mie touche surtout La R\u00e9union, cest le premier cas autochtone recens\u00e9 dans lHexagone depuis le d\u00e9but de lann\u00e9e. Une personne a \u00e9t\u00e9 diagnostiqu\u00e9e positive au chikungunya sur la\u2026 [+2075 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.577545",
+      "internal_id": "04868e876d8a70b3df9953dcfcaf6be95463736c307495300d2ec9d6d515204f",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22103,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Chikungunya : Un premier cas autochtone d\u00e9couvert dans le Var",
+      "description": "C\u2019est le premier cas autochtone en m\u00e9tropole d\u00e9tect\u00e9 pour 2025. Une op\u00e9ration de d\u00e9moustication va \u00eatre men\u00e9e sur la commune concern\u00e9e, La Crau, dans le Var",
+      "url": "https://www.20minutes.fr/sante/4158346-20250613-chikungunya-premier-cas-autochtone-decouvert-var",
+      "urlToImage": "https://img.20mn.fr/TuszU2vKSzaYwLRy1hxL-Sk/1444x920_operation-de-demoustication-urbaine-par-les-agents-de-l-agence-regionale-de-sante-urban-mosquito-control-operation-by-agents-of-the-regional-health-agency-kochvalerie-sipa-7159-credit-valerie-koch-sipa-2504161553",
+      "publishedAt": "2025-06-13 10:24:40",
+      "content": "Le premier de 2025. Un premier cas autochtone en m\u00e9tropole de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 mercredi dans la commune de La Crau (Var), a annonc\u00e9 lAgence r\u00e9gionale de sant\u00e9 Provence-Alpes-C\u00f4te d'Azur (ARS\u2026 [+1390 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.556795",
+      "internal_id": "bc248735a86c1a9cde0e0783b4e741a08d083d3bd1da8a25892d8477c3850784",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22099,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'We are waiting for apology over daughter's death'",
+      "description": "The parents of Lila Marsland, five, say they are still waiting for a direct apology from the hospital.",
+      "url": "https://www.bbc.com/news/articles/c74n28z9dpdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4a93/live/f1fb37f0-4828-11f0-b3bf-c9f452e3175b.jpg",
+      "publishedAt": "2025-06-13 10:03:55",
+      "content": "Lauren Hirst &amp; Zoe Toase Lila's parents say more awareness is needed over the signs and symptoms of meningitis The parents of a five-year-old girl who was sent home from hospital with suspected\u2026 [+3546 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.207576",
+      "internal_id": "f3d74ab337bd919e2dc85f72e5001555e5538f35c140a2b734ccdb0dd78d83de",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22107,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Un premier cas autochtone de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 en France m\u00e9tropolitaine, dans le Var, annonce l'Agence r\u00e9gionale de la sant\u00e9",
+      "description": "Des op\u00e9rations de d\u00e9moustication ont \u00e9t\u00e9 lanc\u00e9es sur la commune de La Crau, et une enqu\u00eate de terrain en porte-\u00e0-porte est \u00e9galement men\u00e9e pour rep\u00e9rer d'\u00e9ventuels autres cas.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/un-premier-cas-autochtone-de-chikungunya-a-ete-detecte-en-france-metropolitaine-dans-le-var-annonce-l-agence-regionale-de-la-sante_7310733.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/2nyjAQt3epD1eGfHOdgUoeW-kqs/0x53:1024x629/1500x843/2025/06/13/000-33qw2bd-684be83817cd1774594748.jpg",
+      "publishedAt": "2025-06-13 09:01:24",
+      "content": "Un premier cas autochtone de chikungunya a \u00e9t\u00e9 confirm\u00e9 mercredi, dans le Var, sur la commune de La Crau, pr\u00e8s de Toulon, annonce lAgence R\u00e9gionale de Sant\u00e9 Provence-Alpes-C\u00f4te dAzur dans un communiq\u2026 [+1508 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.648111",
+      "internal_id": "56b99f07b131c128e8d616585e1f23f8b4f25e4891c51ed60de11fab01a83356",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22109,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Introduction of new routine mpox and 4CMenB for gonorrhoea vaccination programmes letter",
+      "description": "Information about the new routine mpox and 4CMenB for gonorrhoea vaccination programmes.",
+      "url": "https://www.gov.uk/government/publications/introduction-of-new-routine-mpox-and-4cmenb-for-gonorrhoea-vaccination-programmes-letter",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-06-13 08:30:10",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.963121",
+      "internal_id": "09b4d2f6f4c28ef8ded5dcd5030ee5e922bc07d65cb8df6e115ac65edbc6add3",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22098,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Dyah Puspita Wisnuwardani",
+      "title": "Apa Beda Gejala Malaria dengan DBD?",
+      "description": "Malaria kerap disamakan dengan Demam Berdarah Dengue (DBD), karena sama-sama ditularkan lewat gigitan nyamuk. Bagaimana membedakannya?",
+      "url": "https://www.liputan6.com/health/read/6051409/apa-beda-gejala-malaria-dengan-dbd",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/JJSrug1B0PYlP2perlDu-kForec=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5179582/original/056128400_1743605532-9659df25-70b6-43d7-96b3-a79ba1062e6d.jpg",
+      "publishedAt": "2025-06-13 08:23:12",
+      "content": "Liputan6.com, Jakarta - Meski dunia medis telah mengalami banyak kemajuan, malaria tetap menjadi tantangan kesehatan yang nyata di Indonesia, terutama di wilayah endemis. Penyakit yang ditularkan mel\u2026 [+1351 chars]",
+      "retrievedAt": "2025-06-14 19:05:47.047071",
+      "internal_id": "1224b32a3754badc6cdd4c6488335aaadc6c68e7752e593ba639979a956b44d1",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22110,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "admin",
+      "title": "Treating Mpox In Ghana: With What?",
+      "description": "As mpox (formerly \u201cmonkeypox\u201d) cases climb across West Africa and beyond, Ghana finds itself at a pivotal moment for outbreak control. Once confined to remote regions of Central and West Africa, clade II mpox has, since early 2022, spread to over 120 countri\u2026",
+      "url": "https://thechronicle.com.gh/treating-mpox-in-ghana-with-what/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/06/Dr-Emmanuel-Mintah-Bonku-The-writer.jpg",
+      "publishedAt": "2025-06-13 07:27:52",
+      "content": "As mpox (formerly monkeypox) cases climb across West Africa and beyond, Ghana finds itself at a pivotal moment for outbreak control. Once confined to remote regions of Central and West Africa, clade\u2026 [+5794 chars]",
+      "retrievedAt": "2025-06-14 19:05:48.979969",
+      "internal_id": "d02f11db15591fe2810815db3fd68678c63466b756261a77778ca255e4807365",
+      "publishedAtLabel": "Jun 13"
+    },
     {
       "id": 22084,
       "query": [
@@ -23181,79 +23490,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20796,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
-      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
-      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
-      "publishedAt": "2025-04-27 17:13:00",
-      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
-      "retrievedAt": "2025-04-28 19:05:53.772232",
-      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20794,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
-      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
-      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
-      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
-      "publishedAt": "2025-04-27 15:51:25",
-      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
-      "retrievedAt": "2025-04-28 19:05:52.412120",
-      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20793,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Gazette",
-      "author": "Owain Johnston-barnes",
-      "title": "Whooping cough cases in Bermuda spark call for caution",
-      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
-      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
-      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
-      "publishedAt": "2025-04-27 15:35:28",
-      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
-      "retrievedAt": "2025-04-28 19:05:50.745522",
-      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
-      "publishedAtLabel": "Apr 27"
-    },
-    {
-      "id": 20797,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ntv.co.ug",
-      "author": null,
-      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
-      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
-      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
-      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
-      "publishedAt": "2025-04-27 09:30:38",
-      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
-      "retrievedAt": "2025-04-28 19:05:53.956355",
-      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]
