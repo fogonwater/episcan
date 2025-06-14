@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-06-13 19:06",
-  "count_articles_total": 1274,
+  "last_updated": "2025-06-14 07:06",
+  "count_articles_total": 1288,
   "count_articles_new": 10,
   "articles": [
+    {
+      "id": 22084,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Y. Tony Yang & Avi Dor, The Conversation",
+      "title": "Here's Why Rational People Skip Vaccines Even When They Trust Science",
+      "description": "When outbreaks of vaccine-preventable diseases such as measles occur despite highly effective vaccines being available, it's easy to conclude that parents who don't vaccinate their children are misguided, selfish or have fallen prey to misinformation.",
+      "url": "https://www.sciencealert.com/heres-why-rational-people-skip-vaccines-even-when-they-trust-science",
+      "urlToImage": "https://www.sciencealert.com/images/2024/06/VaccineShot.jpg",
+      "publishedAt": "2025-06-13 02:13:44",
+      "content": "When outbreaks of vaccine-preventable diseases such as measles occur despite highly effective vaccines being available, it's easy to conclude that parents who don't vaccinate their children are misgu\u2026 [+8316 chars]",
+      "retrievedAt": "2025-06-14 07:06:45.909239",
+      "internal_id": "25d1931bb944b12b9329dd25501c363e6843a2478664d4fe4d6c7f89da719782",
+      "publishedAtLabel": "Jun 13"
+    },
+    {
+      "id": 22089,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Akhmad Irfan Alfiyan, Agustina Sus Andreani, Tien Setyaningtyas, Brian Yuliarto, Marissa Angelina",
+      "title": "Ultrafast point-of-care colorimetric detection of dengue using gold nanoparticles capped with \u03b2-cyclodextrin modified NS1 antibody",
+      "description": "Anal. Methods, 2025, Advance ArticleDOI: 10.1039/D5AY00356C, PaperAkhmad Irfan Alfiyan, Agustina Sus Andreani, Tien Setyaningtyas, Brian Yuliarto, Marissa AngelinaHerein, an ultrafast point-of-care detection of dengue using gold nanoparticles (AuNPs) modified\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ay/d5ay00356c",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5AY00356C",
+      "publishedAt": "2025-06-12 23:00:00",
+      "content": "* Corresponding authors a Chemistry Departement, Jenderal Soedirman University, Jl. Profesor DR. HR Boenyamin No.708, Dukuhbandong, Grendeng, Purwokerto Utara, Banyumas, Jawa Tengah 53122, Indo\u2026 [+621 chars]",
+      "retrievedAt": "2025-06-14 07:06:46.662277",
+      "internal_id": "81238727a9e6cde551449bdd5acac3c44fb8ffbb228fe960767ad5b367c16e67",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22085,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta's measles outbreaks are now the worst in nearly half a century",
+      "description": "Alberta's measles surge is so dramatic, the last time case counts were higher Calgary did not have an NHL team, 'O Canada' was not yet the official national anthem and gasoline would set you back 24 cents a litre.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-most-cases-half-century-1.7559973",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1745329562!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-12 22:57:30",
+      "content": "Alberta's measles surge is so dramatic, the last time case counts were higher Calgary did not have an NHL team, O Canada was not yet the official national anthem and gasoline would set you back 24 ce\u2026 [+3584 chars]",
+      "retrievedAt": "2025-06-14 07:06:45.942949",
+      "internal_id": "f728e975a3637995586512111ac0d3a2da1e9f53f8936cc39ce6352d6c16bdba",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22093,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "\u00c1frica, con riesgo de registrar m\u00e1s del doble de casos de mpox que en 2024: UA",
+      "description": "\u00c1frica podr\u00eda registrar este a\u00f1o m\u00e1s del doble decasos de mpox (enfermedad antes conocida como viruela del mono) que en todo 2024, alert\u00f3 este jueves la agencia de salud p\u00fablica de la Uni\u00f3n Africana (UA).\"Est\u00e1 claro que este a\u00f1o acabar\u00e1 con el doble o m\u00e1s del\u2026",
+      "url": "https://www.milenio.com/internacional/africa-riesgo-registrar-mas-del-doble-casos-mpox-2024",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/05/bavarian-nordic-realiza-registro-sanitario.jpeg",
+      "publishedAt": "2025-06-12 21:44:00",
+      "content": "\u00c1frica podr\u00eda registrar este a\u00f1o m\u00e1s del doble de casos de mpox (enfermedad antes conocida como viruela del mono) que en todo 2024, alert\u00f3 este jueves la agencia de salud p\u00fablica de la Uni\u00f3n African\u2026 [+2724 chars]",
+      "retrievedAt": "2025-06-14 07:06:48.228146",
+      "internal_id": "1961025ebce9aa6f6c1ee9881d55d61444a71de3f6277448c33004f9fd229f61",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22092,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uc774\ud61c\uc778 \uae30\uc790 hyein@kyunghyang.com",
+      "title": "\u201c\ub0b4 \uc774\ub984\uc740 \uc5ed\ud559\uc870\uc0ac\uad00, \uc9c8\ubcd1 \ub4a4\ucad3\ub294 \ud0d0\uc815\uc774\uc8e0\u201d\u2026\uc5ed\ud559\uc870\uc0ac\uad00 \ud569\ub3d9 \uac10\uc5fc\ubcd1 \ub300\uc751 \ubaa8\uc758\ud6c8\ub828 \uac00\ubcf4\ub2c8",
+      "description": "\ud558\ub098\uc758 \ub2e8\uc11c\ub85c \ubc14\uc774\ub7ec\uc2a4 \ucd94\uc801\u2026\ud6c8\ub828\ub3c4 \uc2e4\uc804\ucc98\ub7fc \uc9c0\ub09c 10\uc77c \uc11c\uc6b8 \uc911\uad6c \ud55c\uad6d\ud504\ub808\uc2a4\uc13c\ud130\uc5d0\uc11c \uc9c8\ubcd1\uad00\ub9ac\uccad \uc218\ub3c4\uad8c\uc9c8\ubcd1\ub300\uc751\uc13c\ud130 \uc8fc\uad00\uc73c\ub85c \uc5f4\ub9b0 \u20182025 \uc218\ub3c4\uad8c\uc5ed \uc9c0\uc790\uccb4 \uc5ed\ud559\uc870\uc0ac\ubc18 \ud6c8\ub828\u2019\uc5d0\uc11c \uc5ed\ud559\uc870\uc0ac\uad00\ub4e4\uc774 \ubaa8\uc758\ud6c8\ub828\uc744 \ud558\uace0 \uc788\ub2e4. \uc774\uc900\ud5cc \uae30\uc790 \ud64d\uc5ed \uac10\uc5fc \ubc1c\uc0dd \uc2dc\ub098\ub9ac\uc624 \uc9c4\ud589 \ud658\uc790 \uc815\ubcf4\ubd80\ud130 \uc774\ub3d9 \uacbd\ub85c\uae4c\uc9c0 50\uc5ec\uba85 \ud568\uaed8 \uc784\ubb34 \uc218\ud589 \u2018\ucc29\ucc29\u2019 \uac10\uc5fc\ubcd1 \uc790\uc5f0\uc720\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202506130600005",
+      "urlToImage": "https://img.khan.co.kr/news/2025/06/13/l_2025061301000330700036391.jpg",
+      "publishedAt": "2025-06-12 21:00:00",
+      "content": "10 2025 . 50 (48\u00b7) , 8 () . , 40 . . , . 4, . . . . . 10 2, 50 . \u00b7 . SNS . . . 7 . . ? ? ? ( ) . . , , . . . , . . ( ) . 2 . . . 6 , , . . 1~2 , , . , , . . 2023 4~5 (MPOX\u2026 [+26 chars]",
+      "retrievedAt": "2025-06-14 07:06:48.211866",
+      "internal_id": "60d13ebcc61933f816739c1af1dc13a03e6f99478e1ea28f70e4e077a8af918e",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22090,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "VIDEO. Alerte aux moustiques tigres",
+      "description": "Les cas de dengue se multiplient dans l'Hexagone, transmis par des moustiques tigres qui colonisent de plus en plus de d\u00e9partements. Comment enrayer leur progression et limiter les risques d'\u00e9pid\u00e9mie ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-alerte-aux-moustiques-tigres_7301706.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/G5U5oH9vN1G4IToBEW-pM9z4jTo/0x0:1920x1080/1500x843/2025/06/12/envoye-special-alerte-aux-moustiques-tigres-684b35a852676747853702.jpg",
+      "publishedAt": "2025-06-12 20:56:09",
+      "content": "Les cas de dengue se multiplient dans l'Hexagone, transmis par des moustiques tigres qui colonisent de plus en plus de d\u00e9partements. Comment enrayer leur progression et limiter les risques d'\u00e9pid\u00e9mie\u2026 [+1579 chars]",
+      "retrievedAt": "2025-06-14 07:06:46.672311",
+      "internal_id": "980019adfa93cd660118dcce659238b3428970f661e1752ddd2bafd7cd59a16c",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22091,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "ScienceBlog.com",
+      "author": "Johns Hopkins",
+      "title": "Yellow Pigment That Causes Jaundice May Shield Against Malaria",
+      "description": "The same yellow pigment that turns skin sickly during jaundice might actually save lives by protecting people from malaria\u2019s deadliest effects. New research published in Science reveals that bilirubin\u2014long dismissed as cellular waste\u2014acts like an internal bod\u2026",
+      "url": "https://scienceblog.com/blog/yellow-pigment-that-causes-jaundice-may-shield-against-malaria/",
+      "urlToImage": "https://scienceblog.com/wp-content/uploads/2017/08/Jaundice_eye_new.jpg",
+      "publishedAt": "2025-06-12 20:36:44",
+      "content": "The same yellow pigment that turns skin sickly during jaundice might actually save lives by protecting people from malaria\u2019s deadliest effects. New research published in Science reveals that bilirub\u2026 [+4512 chars]",
+      "retrievedAt": "2025-06-14 07:06:47.366529",
+      "internal_id": "32486162d20d536c0ad094cd32e3619489483a6c29d371cdd85e98ea6b583983",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22087,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Is Capable Of \u201cAirborne Transmission\u201d",
+      "description": "The H5N1 bird flu is \"capable of airborne transmission,\" meaning it has a bigger chance now of becoming the next pandemic. A new animal study from the U.S. Centers for Disease Control (CDC) has found that bird flu is primarily spread through contact with sic\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/bird-flu-is-capable-of-airborne-transmission",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
+      "publishedAt": "2025-06-12 20:00:12",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2025-06-14 07:06:46.283390",
+      "internal_id": "b9222f954e26cfa886abf705d196b0a1e86cb9770f55b9c183b06dcdfb3160dc",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22088,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mait\u00ea Doreto",
+      "title": "Zoo de Bras\u00edlia seguir\u00e1 fechado ap\u00f3s nova suspeita de gripe avi\u00e1ria",
+      "description": "Previsto para reabrir nesta sexta (13/6), o Zool\u00f3gico de bras\u00edlia confirmou nova suspeita de H5N1 e prorrogar\u00e1 a interdi\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/zoo-de-brasilia-seguira-fechado-apos-nova-suspeita-de-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/06/04140855/zoologico-de-brasilia-gripe-aviaria.jpeg",
+      "publishedAt": "2025-06-12 19:59:21",
+      "content": "O Zool\u00f3gico de Bras\u00edlia, fechado h\u00e1 15 dias, n\u00e3o reabrir\u00e1 amanh\u00e3 (13/5), como previsto. Ap\u00f3s a confirma\u00e7\u00e3o de suspeita de mais um caso de gripe avi\u00e1ria (H5N1), a Secretaria de Agricultura, Abastecime\u2026 [+2671 chars]",
+      "retrievedAt": "2025-06-14 07:06:46.292414",
+      "internal_id": "f603185e084d936fdde64cf61cead4bb5fa097077d84a51bbfa54216124eb200",
+      "publishedAtLabel": "Jun 12"
+    },
+    {
+      "id": 22086,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "The Canadian Press",
+      "title": "Ontario reports 74 new measles cases, including 28 more in the northern region | Globalnews.ca",
+      "description": "Ontario reports 74 new measles cases, totaling 2,083 since October, with a rise in northern regions. One infant death and 144 hospitalizations reported.",
+      "url": "http://globalnews.ca/news/11238208/ont-measles-outbreak-2/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/06/33f0f89806d6a7c1813f6cc4590341e500cf8fd3df9dd975fd91513821445b68.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-06-12 18:13:42",
+      "content": "Ontario is reporting 74 new measles cases over the last week, bringing the total number of people in the province who have fallen ill to 2,083 since October. That\u2019s lower than the number of new case\u2026 [+1483 chars]",
+      "retrievedAt": "2025-06-14 07:06:46.065253",
+      "internal_id": "d460e1fed842f9db74b232e3c4197bbfb41fb536f09c4ecc458ac9a0c9b69052",
+      "publishedAtLabel": "Jun 12"
+    },
     {
       "id": 22075,
       "query": [
@@ -23001,6 +23181,79 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-04-29 07:07:59.699783",
       "internal_id": "7cd3d964dda5113436cb52214ee9ba3a4b2dcab777b0c172b6c1c44a05444e29",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20796,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
+      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
+      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
+      "publishedAt": "2025-04-27 17:13:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
+      "retrievedAt": "2025-04-28 19:05:53.772232",
+      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20794,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
+      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
+      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
+      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
+      "publishedAt": "2025-04-27 15:51:25",
+      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
+      "retrievedAt": "2025-04-28 19:05:52.412120",
+      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20793,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Royal Gazette",
+      "author": "Owain Johnston-barnes",
+      "title": "Whooping cough cases in Bermuda spark call for caution",
+      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
+      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
+      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
+      "publishedAt": "2025-04-27 15:35:28",
+      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
+      "retrievedAt": "2025-04-28 19:05:50.745522",
+      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20797,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.co.ug",
+      "author": null,
+      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
+      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
+      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
+      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
+      "publishedAt": "2025-04-27 09:30:38",
+      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
+      "retrievedAt": "2025-04-28 19:05:53.956355",
+      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
       "publishedAtLabel": "Apr 27"
     }
   ]

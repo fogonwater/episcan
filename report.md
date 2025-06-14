@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 10
-- **Last harvest:** 2025-06-13 19:06
-- **Most recent article:** 2025-06-12 18:01:29
+- **Last harvest:** 2025-06-14 07:06
+- **Most recent article:** 2025-06-13 02:13:44
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-18 | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 87 | 82 | 75 | 77 | 68 | 90 | 27 | 506 |
-| dengue | 31 | 26 | 24 | 26 | 28 | 25 | 9 | 169 |
-| h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 2 | 140 |
-| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 10 | 128 |
-| chikungunya | 14 | 15 | 25 | 12 | 12 | 21 | 6 | 105 |
-| mpox | 10 | 11 | 18 | 11 | 19 | 15 | 19 | 103 |
+| measles | 87 | 82 | 75 | 77 | 68 | 90 | 30 | 509 |
+| dengue | 32 | 26 | 24 | 26 | 28 | 25 | 11 | 172 |
+| h5n1 | 15 | 11 | 21 | 46 | 36 | 9 | 4 | 142 |
+| malaria | 20 | 19 | 11 | 35 | 17 | 16 | 11 | 129 |
+| chikungunya | 16 | 15 | 25 | 12 | 12 | 21 | 6 | 107 |
+| mpox | 11 | 11 | 18 | 11 | 19 | 15 | 21 | 106 |
 | rabies | 4 | 12 | 3 | 6 | 9 | 6 | 4 | 44 |
 | zika | 3 | 6 | 3 | 10 | 9 | 7 | 1 | 39 |
 | meningitis | 7 | 3 | 7 | 6 | 7 | 2 | 2 | 34 |
 | yersinia | 0 | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
-| pertussis | 3 | 1 | 1 | 2 | 3 | 2 | 4 | 16 |
+| pertussis | 4 | 1 | 1 | 2 | 3 | 2 | 4 | 17 |
 | hpai | 2 | 3 | 1 | 2 | 1 | 3 | 1 | 13 |
 | leptospirosis | 2 | 4 | 1 | 0 | 1 | 2 | 2 | 12 |
 | typhoid | 2 | 1 | 1 | 0 | 2 | 0 | 3 | 9 |
@@ -81,6 +81,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (mpox)
 
+- [África, con riesgo de registrar más del doble de casos de mpox que en 2024: UA](https://www.milenio.com/internacional/africa-riesgo-registrar-mas-del-doble-casos-mpox-2024) (Milenio)
+
+- [“내 이름은 역학조사관, 질병 뒤쫓는 탐정이죠”…역학조사관 합동 감염병 대응 모의훈련 가보니](https://www.khan.co.kr/article/202506130600005) (Khan.co.kr)
+
 - [Mpox in Africa: What we know and what is still lacking](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013148) (Plos.org)
 
 - [Gana'da 34 M-çiçeği vakası tespit edildi](https://www.haberturk.com/gana-da-34-m-cicegi-vakasi-tespit-edildi-3798717) (Haberturk.com)
@@ -126,6 +130,12 @@ Source: [News API](https://newsapi.org/)
 - [Juliette Powell, Host of MuchMusic and MusiquePlus, Has Died](https://exclaim.ca/music/article/former-much-music-musique-plus-host-juliette-powell-has-died) (Exclaim!)
 
 ## 25-24 (measles)
+
+- [Here's Why Rational People Skip Vaccines Even When They Trust Science](https://www.sciencealert.com/heres-why-rational-people-skip-vaccines-even-when-they-trust-science) (ScienceAlert)
+
+- [Alberta's measles outbreaks are now the worst in nearly half a century](https://www.cbc.ca/news/canada/calgary/alberta-measles-most-cases-half-century-1.7559973) (CBC News)
+
+- [Ontario reports 74 new measles cases, including 28 more in the northern region | Globalnews.ca](http://globalnews.ca/news/11238208/ont-measles-outbreak-2/) (Global News)
 
 - [1st measles case confirmed in Dallas County](https://www.fox4news.com/news/dallas-county-measles) (FOX 4 News)
 
@@ -183,6 +193,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (malaria)
 
+- [Yellow Pigment That Causes Jaundice May Shield Against Malaria](https://scienceblog.com/blog/yellow-pigment-that-causes-jaundice-may-shield-against-malaria/) (ScienceBlog.com)
+
 - [RI Govt focusing on anti-malaria efforts in Papua amid case spike](https://en.antaranews.com/news/359065/ri-govt-focusing-on-anti-malaria-efforts-in-papua-amid-case-spike) (Antaranews.com)
 
 - [Malaria in the Mountains – A 200-mile Scottish Coast-to-Coast Misadventure](https://backpackinglight.com/malaria-in-the-mountains-200-mile-scottish-coast-to-coast-misadventure-tgo-challenge/) (Backpackinglight.com)
@@ -215,11 +227,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (h5n1)
 
+- [Bird Flu Is Capable Of “Airborne Transmission”](https://www.shtfplan.com/member-exclusive/bird-flu-is-capable-of-airborne-transmission) (Shtfplan.com)
+
+- [Zoo de Brasília seguirá fechado após nova suspeita de gripe aviária](https://www.metropoles.com/distrito-federal/zoo-de-brasilia-seguira-fechado-apos-nova-suspeita-de-gripe-aviaria) (Metropoles.com)
+
 - [UK confirms case of bird flu in poultry in northern England](https://www.thestar.com.my/news/world/2025/06/12/uk-confirms-case-of-bird-flu-in-poultry-in-northern-england) (The Star Online)
 
 - [Goiás registra mais dois casos suspeitos de gripe aviária](https://ultimosegundo.ig.com.br/brasil/2025-06-11/goias-registra-mais-dois-casos-suspeitos-de-gripe-aviaria.html) (Ig.com.br)
 
 ## 25-24 (dengue)
+
+- [Ultrafast point-of-care colorimetric detection of dengue using gold nanoparticles capped with β-cyclodextrin modified NS1 antibody](https://pubs.rsc.org/en/content/articlelanding/2025/ay/d5ay00356c) (Royal Society of Chemistry)
+
+- [VIDEO. Alerte aux moustiques tigres](https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-alerte-aux-moustiques-tigres_7301706.html) (Franceinfo.fr)
 
 - [Gefahr von Insekten: Gesundheitsamt weitet Überwachung von Tigermücken aus](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/gefahr-von-insekten--gesundheitsamt-weitet-ueberwachung-von-tigermuecken-aus-35802866.html) (STERN.de)
 
@@ -2511,6 +2531,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Hermon school reports whooping cough case as infections soar nationwide](http://www.bangordailynews.com/2025/04/30/bangor/bangor-health/hermon-maine-school-whooping-cough-case/) (Bangor Daily News)
 
+- [Whooping cough cases in Bermuda spark call for caution](https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/) (Royal Gazette)
+
 ## 25-18 (mpox)
 
 - [Região Norte do Brasil reforça alerta contra mpox após novos casos](https://www.infomoney.com.br/saude/regiao-norte-do-brasil-reforca-alerta-contra-mpox-apos-novos-casos/) (InfoMoney)
@@ -2532,6 +2554,8 @@ Source: [News API](https://newsapi.org/)
 - [Popular Youth Activist Black Coffee Shares Harrowing Experience After Contracting Mpox, Calls for Greater Public Awareness](https://sierraloaded.sl/health/man-battles-mpox-support-heartfelt-plea/) (Sierraloaded.sl)
 
 - [Αύξηση των κρουσμάτων της ευλογιάς των πιθήκων στη Σιέρα Λεόνε](https://www.protothema.gr/world/article/1631243/auxisi-ton-krousmaton-tis-eulogias-ton-pithikon-sti-siera-leone/) (Protothema.gr)
+
+- [Health authorities crack down on clinics mismanaging Mpox cases](https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728) (Ntv.co.ug)
 
 ## 25-18 (meningitis)
 
@@ -2875,6 +2899,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Uno más: Detectan un nuevo caso de dengue autóctono, esta vez en Montevideo](https://www.montevideo.com.uy/Noticias/Uno-mas-Detectan-un-nuevo-caso-de-dengue-autoctono-esta-vez-en-Montevideo-uc922038) (Montevideo.com.uy)
 
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
+
 ## 25-18 (chikungunya)
 
 - [Chikungunya : faut-il avoir peur du vaccin ?](https://www.lepoint.fr/sciences-nature/chikungunya-faut-il-avoir-peur-du-vaccin-03-05-2025-2588765_1924.php) (Le Point)
@@ -2904,3 +2930,7 @@ Source: [News API](https://newsapi.org/)
 - [80% des habitants de la Réunion préfèrent le chikungunya à Emmanuel Macron](https://www.legorafi.fr/2025/04/28/80-des-habitants-de-la-reunion-preferent-le-chikungunya-a-emmanuel-macron/) (Legorafi.fr)
 
 - [Un appel aux donneurs de sang du groupe AB guéris du chikungunya pour aider les nouveau-nés à La Réunion](https://la1ere.francetvinfo.fr/reunion/un-appel-aux-donneurs-de-sang-du-groupe-ab-gueris-du-chikungunya-pour-aider-les-nouveau-nes-a-la-reunion-1581890.html) (Francetvinfo.fr)
+
+- [Chikungunya : le vaccin sur le banc des accusés](https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php) (Le Point)
+
+- [Dengue, chikungunya, fièvre du Nil occidental… Comment voyagent les virus](https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670) (Courrier International)
