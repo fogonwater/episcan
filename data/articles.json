@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-06-15 07:07",
-  "count_articles_total": 1120,
-  "count_articles_new": 16,
+  "last_updated": "2025-06-15 19:05",
+  "count_articles_total": 1123,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 22129,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Colorado Sun",
+      "author": "John Ingold",
+      "title": "Measles case in Boulder may have exposed Flatiron Flyer riders",
+      "description": "A new measles case in Boulder \u2014 Colorado's 15th so far in 2025 \u2014 may have exposed passengers on the Flatiron Flyer bus.",
+      "url": "http://coloradosun.com/2025/06/14/measles-boulder-denver-flatiron-flyer/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/12/RTD-zero-fare-for-air-os-3-scaled.jpg",
+      "publishedAt": "2025-06-14 16:11:20",
+      "content": "Colorado on Friday confirmed its 15th measles case of the year, in a fully vaccinated adult from Boulder who several times may have exposed passengers riding on the Flatiron Flyer bus between downtow\u2026 [+3206 chars]",
+      "retrievedAt": "2025-06-15 19:05:49.096804",
+      "internal_id": "458a51cd5c93e6820f25cfe6690f75146f4e5c1f7555bd6451b84fc78aab399e",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 22128,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Wbz-news Staff",
+      "title": "Boston health officials warn public of possible measles exposure",
+      "description": "Health officials in Boston say a traveler with a confirmed case of measles visited Boston from June 7 to June 8.",
+      "url": "https://www.cbsnews.com/boston/news/boston-measles-exposure/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/11/5597b246-a8f7-4c23-9a4a-21393e58da58/thumbnail/1200x630/3d300a25ec0463ccbdfa8edb8a6f0520/gettyimages-2216284027.jpg?v=d2f497bd9339ad99d2e0559414346698",
+      "publishedAt": "2025-06-14 14:16:39",
+      "content": "Health officials in Boston say a traveler with a confirmed case of measles visited Boston from June 7 to June 8. Who may have been exposed to measles? The infectious person visited several places i\u2026 [+2308 chars]",
+      "retrievedAt": "2025-06-15 19:05:49.024831",
+      "internal_id": "0f39cf952f64d62eb0dc9dea6ad6ef8518cedd259b044856af88fe1a3b28cb96",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 22133,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Un gen clave explica el fin de las pandemias de peste, cient\u00edfico costarricense fue parte de hallazgo",
+      "description": "Un cient\u00edfico costarricense fue parte de un equipo internacional descubrieron por qu\u00e9 la Yersinia pestis, causante de la peste, desaparec\u00eda sola en el pasado. \u00a1Un gen clave revela el secreto!",
+      "url": "https://www.nacion.com/el-pais/un-gen-clave-explica-el-fin-de-las-pandemias-de/4RSYAEOO6VBSPFT2A4RTWXJKPM/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/IBYKRXYDUJG4RAVSOEKABF7G4I.jpg?smart=true&auth=3525ad5132ed83242090c50b8bbdac2ca55fc2ad2171ae7e1c8f61d06145e679&width=1440",
+      "publishedAt": "2025-06-14 11:45:00",
+      "content": "La bacteria Yersinia pestis, causante de la peste ha provocado tres pandemias hist\u00f3ricas. Un estudio internacional con participaci\u00f3n costarricense descifr\u00f3 por qu\u00e9 la enfermedad se extingu\u00eda sola en \u2026 [+6328 chars]",
+      "retrievedAt": "2025-06-15 19:05:52.258295",
+      "internal_id": "11dd933c75d837ed10f17863e2978441817ea299c48a9567711295a0773676d2",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 22127,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "More than 400 Manitoba infants got measles vaccine since eligibility expanded: province",
+      "description": "More than 400 children under the age of one have received the measles vaccine in Manitoba, since the government expanded eligibility for the shot last month due to a growing number of cases.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-vaccine-eligibility-1.7561335",
+      "urlToImage": "https://i.cbc.ca/1.7476522.1741363278!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122665.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-14 11:00:48",
+      "content": "More than 400 children under the age of one have received the measles vaccine in Manitoba since the government expanded eligibility for the shot last month due to a growing number of cases. The pro\u2026 [+3326 chars]",
+      "retrievedAt": "2025-06-15 19:05:48.964089",
+      "internal_id": "45513898b58e474f94c12ca7004a4252a4c675e844538f1efa52e850f7cfd52a",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 22132,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "JCTS",
+      "title": "Le chikungunya circule d\u00e9sormais \u00e0 une \"intensit\u00e9 \u00e9lev\u00e9e\" et sur l'ensemble de Mayotte, selon Sant\u00e9 Publique France",
+      "description": "Le dernier bulletin \u00e9pid\u00e9miologique de Sant\u00e9 Publique France met en \u00e9vidence que le virus du chikugunya circule maintenant de fa\u00e7on active et sur toute l'\u00eele. 882 cas ont \u00e9t\u00e9 confirm\u00e9s depuis que le virus est pr\u00e9sent \u00e0 Mayotte, mais ce chiffre est probablemen\u2026",
+      "url": "https://la1ere.franceinfo.fr/mayotte/le-chikungunya-circule-desormais-a-une-intensite-elevee-et-sur-l-ensemble-de-mayotte-selon-sante-publique-france-1595502.html",
+      "urlToImage": "https://la1ere.franceinfo.fr/image/lUHdOitFxP9xaTPi2Y4_lRvsbLk/930x620/outremer/2019/10/03/5d95de4931d87_moustique-593587.jpg",
+      "publishedAt": "2025-06-14 10:10:06",
+      "content": "Ce vendredi 13 juin, Sant\u00e9 Publique France a publi\u00e9 son bulletin hebdomadaire sur la situation \u00e9pid\u00e9mique de Mayotte, o\u00f9 le chikungunya circule d\u00e9sormais activement. Depuis le 27 mai, l'\u00e9pid\u00e9mie de\u2026 [+2154 chars]",
+      "retrievedAt": "2025-06-15 19:05:51.202507",
+      "internal_id": "4d8d94186007796423af507e46e37d296d42da10d136526977612f7145104f33",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 22130,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a3\u03b5\u03c1 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03b2\u03bf\u03cd\u03bb\u03b1: \u039f \u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac\u03c2 \u039a\u03ac\u03c1\u03bf\u03bb\u03bf\u03c2 \u03ad\u03c7\u03c1\u03b9\u03c3\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7 \u03c4\u03bf\u03bd \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc",
+      "description": "\u0399\u03c0\u03c0\u03cc\u03c4\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03a4\u03ad\u03c7\u03bd\u03b7 \u03ba\u03b1\u03b9 \u03bf \u0393\u03ba\u03ac\u03c1\u03b9 \u038c\u03bb\u03bd\u03c4\u03bc\u03b1\u03bd, \u03bf \u03bf\u03c0\u03bf\u03af\u03bf\u03c2 \u03ba\u03ad\u03c1\u03b4\u03b9\u03c3\u03b5 \u038c\u03c3\u03ba\u03b1\u03c1 \u03c4\u03bf 2018 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u03c9\u03c2 \u039f\u03c5\u03af\u03bd\u03c3\u03c4\u03bf\u03bd \u03a4\u03c3\u03cc\u03c1\u03c4\u03c3\u03b9\u03bb \u03c3\u03c4\u03bf \u00abDarkest Hour\u00bb",
+      "url": "https://www.skai.gr/news/world/nteivint-mpekam-o-vasilias-karolos-ton-exrise-ippoti",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/beckam-ape.jpg?itok=bJnwnz-Y",
+      "publishedAt": "2025-06-14 08:07:06",
+      "content": ", (13/3) 14 .\u00ab \u00bb, , , \u00ab \u00bb. 50 , 2013, , Spice Girl, . , , . UNICEF \u00abMalaria No More\u00bb, . 2024, (\u00ab )\u00bb. . 2011, 2018. , 2018 \u00abDarkest Hour\u00bb, . , The Who 1964, . , \u00abTeenage Cancer Trust\u00bb, . \u00ab\u2026 [+88 chars]",
+      "retrievedAt": "2025-06-15 19:05:50.520502",
+      "internal_id": "549bb57d414e44759055617cbfb0ee449e6f834fd79966ad05e4f7cb5ac75865",
+      "publishedAtLabel": "Jun 14"
+    },
+    {
+      "id": 22131,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0391\u03c1\u03bc\u03ac\u03bf\u03c2",
+      "title": "\u039f \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac\u03c2 \u039a\u03ac\u03c1\u03bf\u03bb\u03bf\u03c2 \u03ad\u03c7\u03c1\u03b9\u03c3\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7 \u03c4\u03bf\u03bd \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc",
+      "description": "\u039f \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc \u03c7\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac \u039a\u03ac\u03c1\u03bf\u03bb\u03bf \u0393\u0384 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c4\u03b7 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ae \u03bb\u03af\u03c3\u03c4\u03b1 \u03c4\u03b9\u03bc\u03ce\u03bd \u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03b8\u03b7\u03ba\u03b5 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u039f \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac\u03c2 \u039a\u03ac\u03c1\u03bf\u03bb\u03bf\u03c2 \u03ad\u03c7\u03c1\u03b9\u03c3\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7 \u03c4\u03bf\u03bd \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf NewsIT .",
+      "url": "https://www.newsit.gr/athlitika/o-vasilias-karolos-exrise-ippoti-ton-nteivint-mpekam/4406353/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/06/beckham-karolos-1200x630.jpg",
+      "publishedAt": "2025-06-14 07:14:10",
+      "content": ", 14 . \u00ab \u00bb, , , \u00ab \u00bb. 50 , 2013, , Spice Girl, . REUTERS/Chris J. Ratcliffe/Pool , , . UNICEF \u00abMalaria No More\u00bb, . 2024, (\u00ab )\u00bb. . 2011, 2018. REUTERS/Chris J. Ratcliffe/Pool , 2018 \u00abDarkest H\u2026 [+157 chars]",
+      "retrievedAt": "2025-06-15 19:05:50.529985",
+      "internal_id": "9c428c0c82829400bfe91ff1f2007c808b446906d59340207193166881b0cb89",
+      "publishedAtLabel": "Jun 14"
+    },
     {
       "id": 22125,
       "query": [
@@ -20155,78 +20281,6 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20997,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
-      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
-      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-04 14:50:15",
-      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
-      "retrievedAt": "2025-05-05 19:05:53.159983",
-      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20996,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
-      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
-      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-04 12:09:22",
-      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
-      "retrievedAt": "2025-05-05 19:05:52.939572",
-      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20998,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
-      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
-      "publishedAt": "2025-05-04 10:19:13",
-      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.362249",
-      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20999,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
-      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
-      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
-      "publishedAt": "2025-05-04 08:00:43",
-      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.964002",
-      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]

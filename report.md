@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-06-15 07:07
-- **Most recent article:** 2025-06-14 06:32:32
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-06-15 19:05
+- **Most recent article:** 2025-06-14 16:11:20
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 81 | 75 | 77 | 68 | 90 | 43 | 434 |
+| measles | 79 | 75 | 77 | 68 | 90 | 46 | 435 |
 | dengue | 26 | 24 | 26 | 28 | 25 | 14 | 143 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 128 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 16 | 114 |
-| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 98 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 12 | 97 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 18 | 116 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 98 |
+| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 97 |
 | rabies | 11 | 3 | 6 | 9 | 6 | 6 | 41 |
 | zika | 6 | 3 | 10 | 9 | 7 | 2 | 37 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 29 |
-| yersinia | 0 | 1 | 1 | 11 | 6 | 2 | 21 |
+| yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 13 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 11 |
-| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 10 |
+| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 9 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 3 |
 
@@ -40,6 +40,8 @@ Source: [News API](https://newsapi.org/)
 - [Research: Laboratory-confirmed Zika virus disease cases: statistics](https://www.gov.uk/government/publications/laboratory-confirmed-zika-virus-disease-cases-statistics) (Www.gov.uk)
 
 ## 25-24 (yersinia)
+
+- [Un gen clave explica el fin de las pandemias de peste, científico costarricense fue parte de hallazgo](https://www.nacion.com/el-pais/un-gen-clave-explica-el-fin-de-las-pandemias-de/4RSYAEOO6VBSPFT2A4RTWXJKPM/story/) (Nacion.com)
 
 - [Conservar la comida en días de calor: del máximo de 48 horas en nevera de la tortilla a los tres días del filete empanado](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/09/conservar-comida-dias-calor-maximo-48-horas-nevera-tortilla-tres-dias-filete-empanado/00031749475124802174800.htm) (Lavozdegalicia.es)
 
@@ -147,6 +149,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (measles)
 
+- [Measles case in Boulder may have exposed Flatiron Flyer riders](http://coloradosun.com/2025/06/14/measles-boulder-denver-flatiron-flyer/) (The Colorado Sun)
+
+- [Boston health officials warn public of possible measles exposure](https://www.cbsnews.com/boston/news/boston-measles-exposure/) (CBS News)
+
+- [More than 400 Manitoba infants got measles vaccine since eligibility expanded: province](https://www.cbc.ca/news/canada/manitoba/measles-vaccine-eligibility-1.7561335) (CBC News)
+
 - [Canada measles crisis: Alberta in panic over worst outbreak in 45 years, memories of pre-vaccine times back](https://economictimes.indiatimes.com/news/international/canada/canada-measles-crisis-alberta-in-panic-over-worst-outbreak-in-45-years-memories-of-pre-vaccine-times-back/articleshow/121842386.cms) (The Times of India)
 
 - [Public health officials say that person with measles visited Boston](https://www.boston25news.com/news/local/public-health-officials-say-that-person-with-measles-visited-boston/MUNJS4Z6DBFWRJT7FQNETB23UQ/) (Boston 25 News)
@@ -235,6 +243,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-24 (malaria)
 
+- [Σερ και με τη βούλα: Ο βασιλιάς Κάρολος έχρισε ιππότη τον Ντέιβιντ Μπέκαμ](https://www.skai.gr/news/world/nteivint-mpekam-o-vasilias-karolos-ton-exrise-ippoti) (Skai.gr)
+
+- [Ο Βασιλιάς Κάρολος έχρισε ιππότη τον Ντέιβιντ Μπέκαμ](https://www.newsit.gr/athlitika/o-vasilias-karolos-exrise-ippoti-ton-nteivint-mpekam/4406353/) (Newsit.gr)
+
 - [Ο Μπέκαμ είναι πλέον Σερ: Χρίστηκε ιππότης από τον βασιλιά Κάρολο](https://www.alphafreepress.gr/2025/06/14/kosmos/o-mpekam-einai-pleon-ser-xristike-ippotis-apo-ton-vasilia-karolo/) (Alphafreepress.gr)
 
 - [David Beckham anobli par le roi Charles III](https://www.lalibre.be/lifestyle/people/2025/06/13/david-beckham-anobli-par-le-roi-charles-iii-FBYRDTAU3FHYZKV64HUYA337O4/) (Lalibre.be)
@@ -320,6 +332,8 @@ Source: [News API](https://newsapi.org/)
 - [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
+
+- [Le chikungunya circule désormais à une "intensité élevée" et sur l'ensemble de Mayotte, selon Santé Publique France](https://la1ere.franceinfo.fr/mayotte/le-chikungunya-circule-desormais-a-une-intensite-elevee-et-sur-l-ensemble-de-mayotte-selon-sante-publique-france-1595502.html) (Franceinfo.fr)
 
 - [Chikungunya : opération démoustication après un premier cas détecté dans le Var](https://www.liberation.fr/societe/sante/chikungunya-operation-demoustication-apres-un-premier-cas-detecte-dans-le-var-20250613_YQ62AVTESVCC3I5SHKDWXXJLHU/) (Libération)
 
@@ -2225,8 +2239,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
-- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
-
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2395,10 +2407,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
-- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
-
-- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
-
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2446,8 +2454,6 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
