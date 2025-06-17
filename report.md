@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-06-17 07:07
-- **Most recent article:** 2025-06-16 04:00:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-06-17 19:06
+- **Most recent article:** 2025-06-16 19:01:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 81 | 75 | 77 | 68 | 90 | 48 | 5 | 444 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 2 | 145 |
+| measles | 79 | 75 | 77 | 68 | 90 | 48 | 8 | 445 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 5 | 148 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 1 | 129 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 0 | 117 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 1 | 99 |
-| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 1 | 99 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 1 | 118 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 4 | 102 |
+| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 1 | 98 |
 | rabies | 11 | 3 | 6 | 9 | 6 | 6 | 1 | 42 |
 | zika | 6 | 3 | 10 | 9 | 7 | 2 | 0 | 37 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 0 | 13 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
+| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -47,6 +47,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (measles)
 
+- [Sacramento County child being treated for measles after international trip](https://www.cbsnews.com/sacramento/news/sacramento-county-carmichael-measles-child-2025/) (CBS News)
+
+- [Person infectious with measles traveled through Sky Harbor, health officials say](https://www.abc15.com/news/local-news/person-infectious-with-measles-traveled-through-sky-harbor-health-officials-say) (ABC15 Arizona)
+
+- [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
+
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
 
 - [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
@@ -57,17 +63,33 @@ Source: [News API](https://newsapi.org/)
 
 - [DC health officials issue alert after measles exposure at Dulles airport, metro stations](https://wjla.com/news/local/measles-case-washington-dc-health-department-dulles-international-airport-washington-metro-area-transit-wmata-silver-red-line-baggage-claim-russian-school-of-mathematics-medstar-health-pediatric) (WJLA)
 
+## 25-25 (malaria)
+
+- [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/) (New Atlas)
+
 ## 25-25 (h5n1)
 
 - [지난 겨울 고병원성 조류인플루엔자 2.3배 증가…“올해도 유행 지속”](https://www.khan.co.kr/article/202506151201001) (Khan.co.kr)
 
 ## 25-25 (dengue)
 
+- [WHO steps up dengue response in S. Yemen amid rising cases](https://www.thestar.com.my/news/world/2025/06/17/who-steps-up-dengue-response-in-s-yemen-amid-rising-cases) (The Star Online)
+
+- [Dengue dynamics beyond biological factors: Revealing the nexus between urbanisation planning, and mobilities in Vientiane, Lao PDR](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011990) (Plos.org)
+
+- [Halálos vírusok sora kezdett el terjedni Európában, Magyarországon is megjelent a betegségek hordozója](https://www.portfolio.hu/unios-forrasok/20250616/halalos-virusok-sora-kezdett-el-terjedni-europaban-magyarorszagon-is-megjelent-a-betegsegek-hordozoja-768175) (Portfolio.hu)
+
 - [Dengue e chikungunya podem se tornar endêmicas na Europa, diz nova pesquisa](https://www.infomoney.com.br/saude/dengue-e-chikungunya-estao-podem-se-tornar-endemicas-na-europa-diz-nova-pesquisa/) (InfoMoney)
 
 - [Padre de familia de 71 años combate a diario el zancudo del dengue para sacar adelante a sus hijos](https://peru21.pe/actualidad/padre-de-familia-de-71-anos-combate-diario-el-zancudo-del-dengue-para-sacar-adelante-sus-hijos/) (Peru21.pe)
 
 ## 25-25 (chikungunya)
+
+- [Chikungunya : Après le Var, un deuxième cas autochtone découvert dans l’Hérault](https://www.20minutes.fr/sante/4158777-20250616-chikungunya-apres-var-deuxieme-cas-autochtone-decouvert-herault) (20 Minutes)
+
+- [Chikungunya : un nouveau cas autochtone détecté dans l’Hérault, le deuxième en France métropolitaine en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-un-nouveau-cas-autochtone-detecte-dans-l-herault-le-deuxieme-en-france-metropolitaine-en-2025_7317375.html) (Franceinfo.fr)
+
+- [Halálos vírusok sora kezdett el terjedni Európában, Magyarországon is megjelent a betegségek hordozója](https://www.portfolio.hu/unios-forrasok/20250616/halalos-virusok-sora-kezdett-el-terjedni-europaban-magyarorszagon-is-megjelent-a-betegsegek-hordozoja-768175) (Portfolio.hu)
 
 - [Dengue e chikungunya podem se tornar endêmicas na Europa, diz nova pesquisa](https://www.infomoney.com.br/saude/dengue-e-chikungunya-estao-podem-se-tornar-endemicas-na-europa-diz-nova-pesquisa/) (InfoMoney)
 
@@ -2283,8 +2305,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
-- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
-
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2453,10 +2473,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
-- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
-
-- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
-
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2504,8 +2520,6 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 

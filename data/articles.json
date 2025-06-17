@@ -1,8 +1,171 @@
 {
-  "last_updated": "2025-06-17 07:07",
-  "count_articles_total": 1141,
-  "count_articles_new": 3,
+  "last_updated": "2025-06-17 19:06",
+  "count_articles_total": 1146,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 22149,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cecilio Padilla",
+      "title": "Sacramento County child being treated for measles after international trip",
+      "description": "Public health officials announced Monday that a child from Sacramento County has a confirmed case of measles.",
+      "url": "https://www.cbsnews.com/sacramento/news/sacramento-county-carmichael-measles-child-2025/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/16/1fdc304e-b372-4f83-af11-a43707b13117/thumbnail/1200x630/2cdbbc7bc7914fc9e4f4ca3ee07ea11c/gettyimages-1359395709.jpg?v=615ad1f23d2ff8b4756bab8f3b539c8e",
+      "publishedAt": "2025-06-16 19:01:00",
+      "content": "Public health officials announced Monday that a child from Sacramento County has a confirmed case of measles. Sacramento County Public Health officials stated that the child, who was unvaccinated, \u2026 [+1420 chars]",
+      "retrievedAt": "2025-06-17 19:06:04.582168",
+      "internal_id": "126789d1d1d6645b5fdd160ac8092e79b481315ae979159e41e884f9c7cac7d0",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22150,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC15 Arizona",
+      "author": "Abc15.com Staff",
+      "title": "Person infectious with measles traveled through Sky Harbor, health officials say",
+      "description": "Maricopa County Department of Public Health says a person infectious with measles traveled through Phoenix Sky Harbor last week.",
+      "url": "https://www.abc15.com/news/local-news/person-infectious-with-measles-traveled-through-sky-harbor-health-officials-say",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/7761490/2147483647/strip/true/crop/2023x1062+250+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe2%2F3a%2Fae57e7394495a354182a45a695fa%2Fscreen-shot-2022-01-03-at-7.52.56%20AM.png",
+      "publishedAt": "2025-06-16 18:21:53",
+      "content": "PHOENIX Maricopa County Department of Public Health says a person infectious with measles traveled through Phoenix Sky Harbor last week. Officials are working with federal, state, and airport offici\u2026 [+1349 chars]",
+      "retrievedAt": "2025-06-17 19:06:04.591805",
+      "internal_id": "e76562d7c8a8484dec99cd3554c9d93e4c509094d634d92d82971a27947cda25",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22153,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]Murad Abdo",
+      "title": "WHO steps up dengue response in S. Yemen amid rising cases",
+      "description": "ADEN, Yemen, June 16 (Xinhua) -- The World Health Organization (WHO) on Monday ramped up a large-scale dengue fever control campaign in Yemen's southern Aden and Lahj provinces, where a surge in infections since the start of 2025 has added pressure to an alre\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/06/17/who-steps-up-dengue-response-in-s-yemen-amid-rising-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-06-16 16:17:00",
+      "content": "ADEN, Yemen, June 16 (Xinhua) -- The World Health Organization (WHO) on Monday ramped up a large-scale dengue fever control campaign in Yemen's southern Aden and Lahj provinces, where a surge in infe\u2026 [+1065 chars]",
+      "retrievedAt": "2025-06-17 19:06:05.304793",
+      "internal_id": "6b6a503a289649888b6432da366e5d876422e2f23c8e7dc3dd842c9f3d25f715",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22154,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Jay Kakade",
+      "title": "Scientists genetically engineer a lethal mosquito STD to combat malaria",
+      "description": "Mosquitoes have long been among humanity\u2019s most formidable adversaries, plaguing us for thousands of years and causing more deaths than any other animal. With traditional control methods facing mounting resistance, researchers are seeking innovative ways to c\u2026",
+      "url": "https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/fdb865e/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb3%2F9e%2Fc4069e8741f799f8644527e5bd72%2Fmosquitoes-spread-dangerous-diseases-like-dengue-and-malaria-to-hundreds-of-millions-of-people-each-year.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-06-16 16:03:00",
+      "content": "Mosquitoes have long been among humanitys most formidable adversaries, plaguing us for thousands of years and causing more deaths than any other animal. With traditional control methods facing mounti\u2026 [+2472 chars]",
+      "retrievedAt": "2025-06-17 19:06:05.996659",
+      "internal_id": "635dcfb9bebf35c14afba7ff6ed1a9bc886ffb8b8f80dc07140deaa3ed092b9c",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22155,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Chikungunya : Apr\u00e8s le Var, un deuxi\u00e8me cas autochtone d\u00e9couvert dans l\u2019H\u00e9rault",
+      "description": "Les autorit\u00e9s sanitaires invitent les personnes ayant fr\u00e9quent\u00e9 la commune de Prades-le-Lez, dans l\u2019H\u00e9rault, et qui auraient pr\u00e9sent\u00e9 des signes \u00e9vocateurs du chikungunya depuis d\u00e9but mai, \u00e0 consulter leur m\u00e9decin traitant",
+      "url": "https://www.20minutes.fr/sante/4158777-20250616-chikungunya-apres-var-deuxieme-cas-autochtone-decouvert-herault",
+      "urlToImage": "https://img.20mn.fr/DtEu4dZvSBWfz-9RvOC5dik/1444x920_a-culex-tarsalis-mosquito-is-shown-at-the-salt-lake-city-mosquito-abatement-district-on-monday-aug-28-2023-in-salt-lake-city-mosquitoes-can-carry-viruses-including-dengue-yellow-fever-chikungunya-and-zika-they-are-especially-threatening-to-public-health-in-asia-and-africa-but-are-also-closely-monitored-in-the-united-states-ap-photo-rick-bowmer-cli704-23251815588774-2309101407",
+      "publishedAt": "2025-06-16 14:11:31",
+      "content": "La saison des moustiques d\u00e9marre fort. Un nouveau cas autochtone de chikungunya, le deuxi\u00e8me en m\u00e9tropole depuis le d\u00e9but de lann\u00e9e, a \u00e9t\u00e9 d\u00e9tect\u00e9 dans lH\u00e9rault, a annonc\u00e9 lundi lAgence r\u00e9gionale de \u2026 [+1965 chars]",
+      "retrievedAt": "2025-06-17 19:06:06.516028",
+      "internal_id": "5610a904adcc894e832fce65486d38f5d14ccbbd613c888e52feb0b3204741a8",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22152,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Olivier Telle, Marc Grandadam, Damien Philippon, Elodie Calvez, Virginie Pommelet, Sebastien Marcombe, Josephin B\u00e9raud, Somphavanh Somlor, Marc Choisy",
+      "title": "Dengue dynamics beyond biological factors: Revealing the nexus between urbanisation planning, and mobilities in Vientiane, Lao PDR",
+      "description": "Author summary Dengue fever, a mosquito-borne disease, remains a major health concern in Southeast Asian cities. This study examines how urbanisation, mobility, and migration patterns influence dengue risk in Vientiane, Laos, between 2012 and 2018. Using high\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011990",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011990.g005&size=inline",
+      "publishedAt": "2025-06-16 14:00:00",
+      "content": "Abstract Background Dengue fever, a vector-borne disease transmitted by Aedes mosquitoes, poses a significant public health challenge in urban Southeast Asia. While urbanisation is widely recognise\u2026 [+52412 chars]",
+      "retrievedAt": "2025-06-17 19:06:05.272899",
+      "internal_id": "150f0d33a385b527ce117b19e7310b8e178ca15a2d6baa45045bc8d8a66eafce",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22156,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : un nouveau cas autochtone d\u00e9tect\u00e9 dans l\u2019H\u00e9rault, le deuxi\u00e8me en France m\u00e9tropolitaine en 2025",
+      "description": "\"L\u2019\u00e9tat de sant\u00e9 de la personne n\u2019inspire pas d\u2019inqui\u00e9tude\", pr\u00e9cise l\u2019ARS, dans un communiqu\u00e9.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-un-nouveau-cas-autochtone-detecte-dans-l-herault-le-deuxieme-en-france-metropolitaine-en-2025_7317375.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/z2_VRUzDQ3hJ-jZC5TO-Di7UpMM/0x477:4113x2788/1500x843/2025/06/16/maxnewsworldthree602521-68500128d2bb3065109660.jpg",
+      "publishedAt": "2025-06-16 11:36:46",
+      "content": "Lagence r\u00e9gionale de sant\u00e9 Occitanie a confirm\u00e9 la d\u00e9tection dun cas autochtone de chikungunya dans lH\u00e9rault, chez une personne nayant pas voyag\u00e9 r\u00e9cemment en zone tropicale, selon un communiqu\u00e9 publ\u2026 [+1199 chars]",
+      "retrievedAt": "2025-06-17 19:06:06.594658",
+      "internal_id": "8bd4e22b152098a273faf5a33d209e744b945bd442ad48de0f7dac6c74acfbc3",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22148,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles is surging in Alberta. Which vaccine-preventable disease could be next?",
+      "description": "Doctors and scientists worry Alberta's measles outbreaks could signal the start of a new era when other dangerous infectious diseases of the past could re-emerge and pose new health threats.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747",
+      "urlToImage": "https://i.cbc.ca/1.7560855.1749838296!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/polio-vaccine.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-16 08:00:00",
+      "content": "Doctors and scientists worry Alberta's measles outbreaks could signal the start of a new era when other dangerous infectious diseases of the past could re-emerge and pose new health threats. The pro\u2026 [+6037 chars]",
+      "retrievedAt": "2025-06-17 19:06:04.527126",
+      "internal_id": "61504c873e23f3fb7ab449678926e12f459beaa8a9e3c78ae33310a0ef26d894",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22151,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Hal\u00e1los v\u00edrusok sora kezdett el terjedni Eur\u00f3p\u00e1ban, Magyarorsz\u00e1gon is megjelent a betegs\u00e9gek hordoz\u00f3ja",
+      "description": "Nemcsak a sz\u00e9ls\u0151s\u00e9ges id\u0151j\u00e1r\u00e1s, de a tr\u00f3pusi eredet\u0171 megbeteged\u00e9sek is egyre nagyobb probl\u00e9m\u00e1t \u00e9s egyre t\u00f6bb hal\u00e1lesetet jelentenek Eur\u00f3p\u00e1ban, \u00e9s egyel\u0151re nem l\u00e1tszik, hogy val\u00f3ban \u00e1tfog\u00f3 terv k\u00e9sz\u00fclne a kl\u00edmav\u00e1ltoz\u00e1ssal \u00f6sszef\u00fcgg\u0151 eg\u00e9szs\u00e9g\u00fcgyi kih\u00edv\u00e1sok keze\u2026",
+      "url": "https://www.portfolio.hu/unios-forrasok/20250616/halalos-virusok-sora-kezdett-el-terjedni-europaban-magyarorszagon-is-megjelent-a-betegsegek-hordozoja-768175",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-laz-szunyog-stock-660021.jpg",
+      "publishedAt": "2025-06-16 07:29:00",
+      "content": "Szak\u00e9rtk figyelmeztetnek, hogy a kor\u00e1bban csak tr\u00f3pusi ter\u00fcleteken elfordul\u00f3 sz\u00fanyogok \u00e1ltal terjesztett betegs\u00e9gek, mint a dengue- \u00e9s a chikungunya-l\u00e1z, tart\u00f3san megvethetik l\u00e1bukat Eur\u00f3p\u00e1ban a tigr\u2026 [+3716 chars]",
+      "retrievedAt": "2025-06-17 19:06:05.256114",
+      "internal_id": "2bad2a343f3cdf7edb695e19f0b4191f0efb29fe811e270f3d530a551aa0ab37",
+      "publishedAtLabel": "Jun 16"
+    },
     {
       "id": 22147,
       "query": [
@@ -20534,78 +20697,6 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20997,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
-      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
-      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-04 14:50:15",
-      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
-      "retrievedAt": "2025-05-05 19:05:53.159983",
-      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20996,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
-      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
-      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-04 12:09:22",
-      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
-      "retrievedAt": "2025-05-05 19:05:52.939572",
-      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20998,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
-      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
-      "publishedAt": "2025-05-04 10:19:13",
-      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.362249",
-      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20999,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
-      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
-      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
-      "publishedAt": "2025-05-04 08:00:43",
-      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.964002",
-      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]
