@@ -1,8 +1,63 @@
 {
-  "last_updated": "2025-06-16 19:06",
-  "count_articles_total": 1134,
-  "count_articles_new": 2,
+  "last_updated": "2025-06-17 07:07",
+  "count_articles_total": 1141,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 22147,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Epidemiologic and Genomic Investigation of Sexually Transmitted Shigella sonnei, England",
+      "description": "Sexually Transmitted Shigella sonnei, England",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/7/24-1584_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-06-16 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Shigellosis is a gastroint\u2026 [+27943 chars]",
+      "retrievedAt": "2025-06-17 07:07:53.716157",
+      "internal_id": "c3df933acd3cf6f11e4238d1381430dc9fcb19eb2ee5dfb84a03c7c6a69b250c",
+      "publishedAtLabel": "Jun 16"
+    },
+    {
+      "id": 22145,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Mandy Taheri",
+      "title": "Map Shows Airports Where Health Officials Detected Measles Cases",
+      "description": "Measles, once declared eliminated in the U.S., has seen a resurgence, with recent cases linked to travelers passing through U.S. airports.",
+      "url": "https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795",
+      "urlToImage": "https://d.newsweek.com/en/full/2663537/measles.jpg",
+      "publishedAt": "2025-06-15 23:02:27",
+      "content": "Health officials have confirmed measles exposures at several major U.S. airports in recent months as infected travelers passed through terminals across the country. Newsweek has reached out to U.S. \u2026 [+5205 chars]",
+      "retrievedAt": "2025-06-17 07:07:50.791951",
+      "internal_id": "8959950a671e129d6880fc6350361f647c124227cba0c5c1054bea21882bfc88",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22146,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Dengue e chikungunya podem se tornar end\u00eamicas na Europa, diz nova pesquisa",
+      "description": "Mudan\u00e7as clim\u00e1ticas e a presen\u00e7a do mosquito tigre asi\u00e1tico est\u00e3o transformando o cen\u00e1rio na reig\u00e3o The post Dengue e chikungunya podem se tornar end\u00eamicas na Europa, diz nova pesquisa appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/dengue-e-chikungunya-estao-podem-se-tornar-endemicas-na-europa-diz-nova-pesquisa/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-06-15 19:26:28",
+      "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
+      "retrievedAt": "2025-06-17 07:07:51.742325",
+      "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
+      "publishedAtLabel": "Jun 15"
+    },
     {
       "id": 22144,
       "query": [
@@ -20479,6 +20534,78 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20997,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
+      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-04 14:50:15",
+      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
+      "retrievedAt": "2025-05-05 19:05:53.159983",
+      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20996,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
+      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-04 12:09:22",
+      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
+      "retrievedAt": "2025-05-05 19:05:52.939572",
+      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20998,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
+      "publishedAt": "2025-05-04 10:19:13",
+      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.362249",
+      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20999,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
+      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
+      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-05-04 08:00:43",
+      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.964002",
+      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-06-16 19:06
-- **Most recent article:** 2025-06-15 16:36:17
+- **New articles in last harvest:** 3
+- **Last harvest:** 2025-06-17 07:07
+- **Most recent article:** 2025-06-16 04:00:00
 
 ---
 
@@ -12,26 +12,30 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 79 | 75 | 77 | 68 | 90 | 48 | 4 | 441 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 1 | 144 |
+| measles | 81 | 75 | 77 | 68 | 90 | 48 | 5 | 444 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 2 | 145 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 1 | 129 |
 | malaria | 19 | 11 | 35 | 17 | 16 | 19 | 0 | 117 |
-| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 1 | 98 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 0 | 98 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 1 | 99 |
+| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 1 | 99 |
 | rabies | 11 | 3 | 6 | 9 | 6 | 6 | 1 | 42 |
 | zika | 6 | 3 | 10 | 9 | 7 | 2 | 0 | 37 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 0 | 13 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
+| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 3 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-25 (shigellosis)
+
+- [Epidemiologic and Genomic Investigation of Sexually Transmitted Shigella sonnei, England](https://wwwnc.cdc.gov/eid/article/31/7/24-1584_article) (Cdc.gov)
 
 ## 25-25 (rabies)
 
@@ -42,6 +46,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1227: How can antibody forget a pandemic?](https://www.microbe.tv/twiv/twiv-1227/) (Microbe.tv)
 
 ## 25-25 (measles)
+
+- [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
 
 - [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
@@ -57,7 +63,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (dengue)
 
+- [Dengue e chikungunya podem se tornar endêmicas na Europa, diz nova pesquisa](https://www.infomoney.com.br/saude/dengue-e-chikungunya-estao-podem-se-tornar-endemicas-na-europa-diz-nova-pesquisa/) (InfoMoney)
+
 - [Padre de familia de 71 años combate a diario el zancudo del dengue para sacar adelante a sus hijos](https://peru21.pe/actualidad/padre-de-familia-de-71-anos-combate-diario-el-zancudo-del-dengue-para-sacar-adelante-sus-hijos/) (Peru21.pe)
+
+## 25-25 (chikungunya)
+
+- [Dengue e chikungunya podem se tornar endêmicas na Europa, diz nova pesquisa](https://www.infomoney.com.br/saude/dengue-e-chikungunya-estao-podem-se-tornar-endemicas-na-europa-diz-nova-pesquisa/) (InfoMoney)
 
 ## 25-24 (zika)
 
@@ -2271,6 +2283,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
+- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
+
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2439,6 +2453,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
+- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
+
+- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
+
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2486,6 +2504,8 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
+
+- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
