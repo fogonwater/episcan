@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-06-18 07:08
-- **Most recent article:** 2025-06-17 05:30:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-06-18 19:06
+- **Most recent article:** 2025-06-17 17:50:22
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 81 | 75 | 77 | 68 | 90 | 48 | 11 | 450 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 5 | 148 |
+| measles | 79 | 75 | 77 | 68 | 90 | 48 | 12 | 449 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 8 | 151 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 3 | 131 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 1 | 118 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 6 | 104 |
-| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 2 | 100 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 6 | 123 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 9 | 107 |
+| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 2 | 99 |
 | rabies | 11 | 3 | 6 | 9 | 6 | 6 | 1 | 42 |
 | zika | 6 | 3 | 10 | 9 | 7 | 2 | 0 | 37 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 0 | 13 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
+| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -48,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1227: How can antibody forget a pandemic?](https://www.microbe.tv/twiv/twiv-1227/) (Microbe.tv)
 
 ## 25-25 (measles)
+
+- [CDC: At least 3% of measles cases this year were in fully vaccinated people](https://www.cbsnews.com/news/measles-cases-fully-vaccinated-3-percent-cdc/) (CBS News)
 
 - [18 new cases of measles reported in northern B.C., officials say](https://www.cbc.ca/news/canada/british-columbia/measles-wonowon-northeast-bc-1.7562997) (CBC News)
 
@@ -73,6 +75,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (malaria)
 
+- [Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013096) (Plos.org)
+
+- [Indonesia reaffirms commitment to end malaria in Asia Pacific by 2030](https://en.antaranews.com/news/359965/indonesia-reaffirms-commitment-to-end-malaria-in-asia-pacific-by-2030) (Antaranews.com)
+
+- [Govt picks Papuan regions for mass malaria medication pilot](https://en.antaranews.com/news/359961/govt-picks-papuan-regions-for-mass-malaria-medication-pilot) (Antaranews.com)
+
+- [Ministry, Papuan provinces tie up to end malaria by 2030](https://en.antaranews.com/news/359945/ministry-papuan-provinces-tie-up-to-end-malaria-by-2030) (Antaranews.com)
+
+- [Indonesia leads Asia Pacific malaria elimination by 2030](https://en.antaranews.com/news/359897/indonesia-leads-asia-pacific-malaria-elimination-by-2030) (Antaranews.com)
+
 - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/) (New Atlas)
 
 ## 25-25 (h5n1)
@@ -85,6 +97,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (dengue)
 
+- [Vaccination strategies, public health impact and cost-effectiveness of dengue vaccine TAK-003: A modeling case study in Thailand](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004631) (Plos.org)
+
+- [RI strengthens commitment to zero dengue deaths by 2030](https://en.antaranews.com/news/359949/ri-strengthens-commitment-to-zero-dengue-deaths-by-2030) (Antaranews.com)
+
+- [Johor sees rise in dengue and HFMD cases](https://www.thestar.com.my/news/nation/2025/06/17/johor-sees-rise-in-dengue-and-hfmd-cases) (The Star Online)
+
 - [WHO steps up dengue response in S. Yemen amid rising cases](https://www.thestar.com.my/news/world/2025/06/17/who-steps-up-dengue-response-in-s-yemen-amid-rising-cases) (The Star Online)
 
 - [Dengue dynamics beyond biological factors: Revealing the nexus between urbanisation planning, and mobilities in Vientiane, Lao PDR](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011990) (Plos.org)
@@ -96,6 +114,12 @@ Source: [News API](https://newsapi.org/)
 - [Padre de familia de 71 años combate a diario el zancudo del dengue para sacar adelante a sus hijos](https://peru21.pe/actualidad/padre-de-familia-de-71-anos-combate-diario-el-zancudo-del-dengue-para-sacar-adelante-sus-hijos/) (Peru21.pe)
 
 ## 25-25 (chikungunya)
+
+- [«Le chikungunya infecte un très grand nombre de personnes en peu de temps et c’est cette vague épidémique qui surprend»](https://www.liberation.fr/societe/sante/le-chikungunya-infecte-un-tres-grand-nombre-de-personnes-en-peu-de-temps-et-cest-cette-vague-epidemique-qui-surprend-20250617_3X3ZUCGDEVCUBF2P23C2XDNYQQ/) (Libération)
+
+- [Chikungunya en France métropolitaine : faut-il s’inquiéter ?](https://www.journaldugeek.com/2025/06/17/chikungunya-en-france-metropolitaine-faut-il-sinquieter/) (Journal du geek)
+
+- [Chikungunya : un nouveau cas autochtone en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-un-nouveau-cas-autochtone-en-france-metropolitaine_7319298.html) (Franceinfo.fr)
 
 - [Santé. Chikungunya : un premier cas autochtone détecté en France métropolitaine](https://www.ledauphine.com/magazine-sante/2025/06/17/chikungunya-un-premier-cas-autochtone-detecte-en-france-metropolitaine) (Le Dauphiné Libéré)
 
@@ -2321,8 +2345,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
-- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
-
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2491,10 +2513,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
-- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
-
-- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
-
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2542,8 +2560,6 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 

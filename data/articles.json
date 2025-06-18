@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-06-18 07:08",
-  "count_articles_total": 1158,
-  "count_articles_new": 8,
+  "last_updated": "2025-06-18 19:06",
+  "count_articles_total": 1166,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 22165,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander  Tin",
+      "title": "CDC: At least 3% of measles cases this year were in fully vaccinated people",
+      "description": "About three dozen of the nearly 1,200 measles infections in 2025 have been in people with two measles vaccine doses, the CDC says.",
+      "url": "https://www.cbsnews.com/news/measles-cases-fully-vaccinated-3-percent-cdc/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/04/f48d7d88-ea91-4ace-8ed8-133d46a729b8/thumbnail/1200x630/ea88335e33c25e4b5f769b6df24822d6/ap25070450755120.jpg?v=615ad1f23d2ff8b4756bab8f3b539c8e",
+      "publishedAt": "2025-06-17 17:50:22",
+      "content": "At least 3% of measles cases confirmed so far this year have been in people who received two doses of the measles vaccine, meaning they were fully vaccinated, the Centers for Disease Control and Prev\u2026 [+4011 chars]",
+      "retrievedAt": "2025-06-18 19:06:06.962447",
+      "internal_id": "a674b974a87ec625fb1769fafdbecc17398aef45bc7e82bb3b029d0804512699",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22175,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Cassandre Leray",
+      "title": "\u00abLe chikungunya infecte un tr\u00e8s grand nombre de personnes en peu de temps et c\u2019est cette vague \u00e9pid\u00e9mique qui surprend\u00bb",
+      "description": "Deux cas autochtones ont \u00e9t\u00e9 r\u00e9cemment d\u00e9tect\u00e9s dans l\u2019H\u00e9rault et le Var. Anna-Bella Failloux, de l\u2019Institut Pasteur, revient pour \u00abLib\u00e9ration\u00bb sur la pr\u00e9sence du virus en France m\u00e9tropolitaine, \u00e0 Mayotte et \u00e0 la R\u00e9union, mais aussi sur les fa\u00e7ons de s\u2019en pr\u00e9\u2026",
+      "url": "https://www.liberation.fr/societe/sante/le-chikungunya-infecte-un-tres-grand-nombre-de-personnes-en-peu-de-temps-et-cest-cette-vague-epidemique-qui-surprend-20250617_3X3ZUCGDEVCUBF2P23C2XDNYQQ/",
+      "urlToImage": "https://www.liberation.fr/resizer/EXYpHUBXDa9aw1M-GygYJTsP2jU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/W2DHSPVBMRDY3BVKTYZ5OLQMQI.jpg",
+      "publishedAt": "2025-06-17 17:25:10",
+      "content": "Le chikungunya de nouveau rep\u00e9r\u00e9 en France m\u00e9tropolitaine. Un nouveau cas autochtone de ce virus transmis par les moustiques tigres a \u00e9t\u00e9 d\u00e9tect\u00e9 dans lH\u00e9rault, a annonc\u00e9 lundi 16 juin lAgence r\u00e9gion\u2026 [+797 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.766369",
+      "internal_id": "bcbcc9c25ba5e2f68c2a4a12f6f85528ab44c2fcf4b71114c27ced67e689d6a5",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22174,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Journal du geek",
+      "author": "Antoine Gautherie",
+      "title": "Chikungunya en France m\u00e9tropolitaine : faut-il s\u2019inqui\u00e9ter ?",
+      "description": "M\u00eame si la situation est loin d'\u00eatre aussi pr\u00e9occupante qu'\u00e0 la R\u00e9union, les habitants des r\u00e9gions concern\u00e9es en m\u00e9tropole doivent tout de m\u00eame prendre quelques pr\u00e9cautions pour \u00e9viter la propagation du virus.",
+      "url": "https://www.journaldugeek.com/2025/06/17/chikungunya-en-france-metropolitaine-faut-il-sinquieter/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/06/Moustique-tigre-1600x900.jpg",
+      "publishedAt": "2025-06-17 15:34:41",
+      "content": "Selon plusieurs m\u00e9dias locaux et nationaux, lAgence r\u00e9gionale de sant\u00e9 de la r\u00e9gion Occitanie a confirm\u00e9 ce lundi 16 juin quun cas de chikungunya avait \u00e9t\u00e9 d\u00e9tect\u00e9 dans la r\u00e9gion de Montpellier. Le p\u2026 [+3659 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.757213",
+      "internal_id": "58ef078dab5d058a20c5937e3e26144c507c37c2743591a059be3b949dc4b90a",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22166,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jing Shen, Elizaveta Kharitonova, Anna Tytula, Justyna Zawieja, Samuel Aballea, Shibadas Biswal, Mayuri Sharma, Supattra Rungmaitree, Rosarin Sruamsiri, Derek Wallace, Riona Hanley",
+      "title": "Vaccination strategies, public health impact and cost-effectiveness of dengue vaccine TAK-003: A modeling case study in Thailand",
+      "description": "In a case study of Thailand, modeling vaccination with the TAK-003 dengue vaccine can help optimize strategies to reduce health and economic burdens of dengue disease.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004631",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004631.g009&size=inline",
+      "publishedAt": "2025-06-17 14:00:00",
+      "content": "Citation: Shen J, Kharitonova E, Tytula A, Zawieja J, Aballea S, Biswal S, et al. (2025) Vaccination strategies, public health impact and cost-effectiveness of dengue vaccine TAK-003: A modeling case\u2026 [+55462 chars]",
+      "retrievedAt": "2025-06-18 19:06:07.841705",
+      "internal_id": "3d31746195bf3308912c6324140ace7c42a5a08c4426dfcf0d17f0f6388345b1",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22169,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "H\u00e9l\u00e8ne Tr\u00e9hard, Guillaume Lacour, Emilie Mosnier, Amandine Guidez, Yanouk Epelboin, Yassamine Lazrek, Felix Djossou, Jean Gaudart, Isabelle Dusfour, Lise Musset",
+      "title": "Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana",
+      "description": "Author summary In areas nearing malaria elimination, where only a few cases remain, these are either sporadically disseminated throughout the country or found in hotspots where epidemics are recurrent. These persisting pockets need to be thoroughly investigat\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013096",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013096.g007&size=inline",
+      "publishedAt": "2025-06-17 14:00:00",
+      "content": "Citation: Tr\u00e9hard H, Lacour G, Mosnier E, Guidez A, Epelboin Y, Lazrek Y, et al. (2025) Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana. PLoS Negl Tr\u2026 [+50160 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.365145",
+      "internal_id": "f6d32c3fa5ba465da350b774819c3f052ede8f887af1c209301395fb4590f490",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22172,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie, Cindy Frishanti Octavia",
+      "title": "Indonesia reaffirms commitment to end malaria in Asia Pacific by 2030",
+      "description": "Indonesia has reiterated its strong commitment to lead regional efforts to eliminate malaria in the Asia-Pacific by 2030, as expressed during the 9th Asia ...",
+      "url": "https://en.antaranews.com/news/359965/indonesia-reaffirms-commitment-to-end-malaria-in-asia-pacific-by-2030",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/17/IMG-20250616-WA0056-750x536.jpg",
+      "publishedAt": "2025-06-17 10:59:43",
+      "content": "Jakarta (ANTARA) - Indonesia has reiterated its strong commitment to lead regional efforts to eliminate malaria in the Asia-Pacific by 2030, as expressed during the 9th Asia Pacific Leaders' Summit o\u2026 [+1971 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.396064",
+      "internal_id": "006774e9b6f97a7f3896678ac75a32686b4c14d9e915f45a1ff3cf68273c9b10",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22173,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Ni Putu P, Tegar Nurfitra",
+      "title": "Govt picks Papuan regions for mass malaria medication pilot",
+      "description": "The Indonesian government has designated Mimika district in Central Papua province and Keerom district in Papua province as pilot regions for a mass malaria ...",
+      "url": "https://en.antaranews.com/news/359961/govt-picks-papuan-regions-for-mass-malaria-medication-pilot",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/17/IMG_2567.jpeg",
+      "publishedAt": "2025-06-17 10:47:28",
+      "content": "Badung, Bali (ANTARA) - The Indonesian government has designated Mimika district in Central Papua province and Keerom district in Papua province as pilot regions for a mass malaria medication progr\u2026 [+2034 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.404675",
+      "internal_id": "53fcfd53fed13ddd8e9bfb062b1f8a77b0c0cfeb6465f1c49ea8f6ca727bef88",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22168,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Ida Nurcahyani, Cindy Frishanti Octavia",
+      "title": "RI strengthens commitment to zero dengue deaths by 2030",
+      "description": "The Indonesian government has reaffirmed its commitment to achieving the target of zero dengue deaths by 2030, in line with the commemoration of ASEAN Dengue ...",
+      "url": "https://en.antaranews.com/news/359949/ri-strengthens-commitment-to-zero-dengue-deaths-by-2030",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/17/WhatsApp-Image-2025-06-17-at-8.22.09-AM.jpeg",
+      "publishedAt": "2025-06-17 10:43:34",
+      "content": "Jakarta (ANTARA) - The Indonesian government has reaffirmed its commitment to achieving the target of zero dengue deaths by 2030, in line with the commemoration of ASEAN Dengue Day (ADD) 2025, which \u2026 [+2217 chars]",
+      "retrievedAt": "2025-06-18 19:06:07.898195",
+      "internal_id": "9ddc8f2dd317b16569e7ef39b661917d5a1ab6cc59360adb8bfd687a6d334ebe",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22171,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Ni Putu Putri, Raka Adji",
+      "title": "Ministry, Papuan provinces tie up to end malaria by 2030",
+      "description": "The Ministry of Health has established cooperation with the governors of all provinces in Papua to achieve the target of eliminating malaria by ...",
+      "url": "https://en.antaranews.com/news/359945/ministry-papuan-provinces-tie-up-to-end-malaria-by-2030",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/17/IMG_2563.jpeg",
+      "publishedAt": "2025-06-17 10:35:24",
+      "content": "Badung, Bali (ANTARA) - The Ministry of Health has established cooperation with the governors of all provinces in Papua to achieve the target of eliminating malaria by 2030.\"We agreed on two agreemen\u2026 [+1849 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.386747",
+      "internal_id": "e7ef944aebb8031d241e3764e792c263946510926a650ae2ee4d9001de4f7af8",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22176,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : un nouveau cas autochtone en France m\u00e9tropolitaine",
+      "description": "Un nouveau cas autochtone de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 en France m\u00e9tropolitaine, transmis par le moustique tigre d\u00e9sormais pr\u00e9sent dans plus de 80 % des d\u00e9partements. Si le risque d\u2019\u00e9pid\u00e9mie reste faible, le d\u00e9r\u00e8glement climatique augmente les conditions favo\u2026",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-un-nouveau-cas-autochtone-en-france-metropolitaine_7319298.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/Wi08U-Gva3JPNnMzSIXbS7jNbRw/0x50:1120x680/1500x843/2025/06/17/moustique-685135c4cb88a715071735.png",
+      "publishedAt": "2025-06-17 09:35:02",
+      "content": "Un nouveau cas autochtone de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 en France m\u00e9tropolitaine, transmis par le moustique tigre d\u00e9sormais pr\u00e9sent dans plus de 80 % des d\u00e9partements. Si le risque d\u00e9pid\u00e9mie reste fai\u2026 [+949 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.828994",
+      "internal_id": "3bd82cf5c9b0ffaa60a96aac6dd068b306e7f1f3df7a0993818120a90ec257dc",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22170,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Indonesia leads Asia Pacific malaria elimination by 2030",
+      "description": "The government announced that through the 9th Asia Pacific Leaders&#39; Summit on Malaria, Indonesia demonstrated its commitment to leading malaria ...",
+      "url": "https://en.antaranews.com/news/359897/indonesia-leads-asia-pacific-malaria-elimination-by-2030",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/17/drg-murti-utami.jpg",
+      "publishedAt": "2025-06-17 09:15:51",
+      "content": "Jakarta (ANTARA) - The government announced that through the 9th Asia Pacific Leaders' Summit on Malaria, Indonesia demonstrated its commitment to leading malaria elimination efforts in the Asia Paci\u2026 [+2164 chars]",
+      "retrievedAt": "2025-06-18 19:06:08.377015",
+      "internal_id": "40068f59482af93bd87af3b039af4b1d15ce7a93fa9cc1f6e9b07899a1069683",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22167,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Mysara Fauzi",
+      "title": "Johor sees rise in dengue and HFMD cases",
+      "description": "JOHOR BARU: Johor recorded an increase in dengue cases with 159 cases in epidemiological week 24 (ME24), compared to 120 cases the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/06/17/johor-sees-rise-in-dengue-and-hfmd-cases",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/06/17/3371189.jpg",
+      "publishedAt": "2025-06-17 08:26:00",
+      "content": "JOHOR BARU: Johor recorded an increase in dengue cases with 159 cases in epidemiological week 24 (ME24), compared to 120 cases the previous week. State health and unity committee chairman Ling Tian \u2026 [+1985 chars]",
+      "retrievedAt": "2025-06-18 19:06:07.873315",
+      "internal_id": "43cc6ac31f0c9161b5b42a2056c3461cb9676b77a4ba88f646bbb03ad94f97af",
+      "publishedAtLabel": "Jun 17"
+    },
     {
       "id": 22163,
       "query": [
@@ -20841,78 +21057,6 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20997,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
-      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
-      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-04 14:50:15",
-      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
-      "retrievedAt": "2025-05-05 19:05:53.159983",
-      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20996,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
-      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
-      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-04 12:09:22",
-      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
-      "retrievedAt": "2025-05-05 19:05:52.939572",
-      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20998,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
-      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
-      "publishedAt": "2025-05-04 10:19:13",
-      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.362249",
-      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20999,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
-      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
-      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
-      "publishedAt": "2025-05-04 08:00:43",
-      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.964002",
-      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]
