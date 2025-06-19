@@ -1,8 +1,476 @@
 {
-  "last_updated": "2025-06-19 07:07",
-  "count_articles_total": 1187,
-  "count_articles_new": 17,
+  "last_updated": "2025-06-19 19:05",
+  "count_articles_total": 1209,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 22205,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba reports 7 more measles cases from last week",
+      "description": "Seven more measles cases were confirmed in Manitoba during the second week of June, the province reported in its weekly update Wednesday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-1.7564457",
+      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-18 18:42:55",
+      "content": "Seven more measles cases were confirmed in Manitoba during the second week of June, the province reported in its weekly update Wednesday. The change brings the total number of confirmed measles case\u2026 [+1552 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.627573",
+      "internal_id": "c8e9a3023979a83bf2677f58b72fe3e26a39bc87eacc267a05cdd678cc26b5fc",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22200,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Engelsk bestemor d\u00f8de av rabies \u2013 ble smittet av valp i Marokko",
+      "description": "Et lite kloremerke fra en rabiessyk hund ble d\u00f8delig for en engelsk bestemor. Flere m\u00e5neder etter \u00e5 ha kommet hjem fra ferie slo sykdommen ut i full blomst. Familien til den avd\u00f8de bestemoren forteller at hun f\u00f8rst fikk symptomer for to uker siden. Da hun var\u2026",
+      "url": "https://www.nrk.no/nyheter/engelsk-bestemor-dode-av-rabies-_-ble-smittet-av-valp-i-marokko-1.17461042",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.519/common/img/default.jpg",
+      "publishedAt": "2025-06-18 17:55:57",
+      "content": "Et lite kloremerke fra en rabiessyk hund ble d\u00f8delig for en engelsk bestemor. Flere m\u00e5neder etter \u00e5 ha kommet hjem fra ferie slo sykdommen ut i full blomst. Familien til den avd\u00f8de bestemoren fortel\u2026 [+362 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.053598",
+      "internal_id": "7f2d3e51ceb931780424156edcf9cac8b2cbee4305acba2fde4b56ed5d544865",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22207,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 Atlanta",
+      "author": "Dan Raby",
+      "title": "Sixth measles case reported in Georgia, health officials say",
+      "description": "A sixth measles case has been confirmed in Georgia, linked to an unvaccinated resident who traveled internationally.",
+      "url": "https://www.fox5atlanta.com/news/sixth-measles-case-reported-georgia-health-officials-say",
+      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/06/1280/720/measles-outbreak.jpg?ve=1&tl=1",
+      "publishedAt": "2025-06-18 17:34:07",
+      "content": "Georgia health officials have confirmed a sixth case of measles in the state. The Georgia Department of Public Health tells FOX 5 that the state has now matched the number of cases it reported in al\u2026 [+2282 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.701412",
+      "internal_id": "a48916ad9dea120dd1d663eca84401244b582527ec274de2cf220d0df006990f",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22198,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Press Association",
+      "title": "Woman dies from rabies in UK after being scratched 'very slightly' by puppy in Morocco in February",
+      "description": "Yvonne Ford was on holiday in North Africa in February and only fell ill two weeks ago.",
+      "url": "https://www.thejournal.ie/woman-dies-in-uk-after-being-scratched-very-slightly-by-puppy-in-morocco-in-february-6736799-Jun2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6736799/river/?height=400&version=6736858",
+      "publishedAt": "2025-06-18 17:08:43",
+      "content": "THE FAMILY OF a grandmother in the UK who died after contracting rabies said she was scratched very slightly by a puppy while visiting Morocco in February. Yvonne Fords family said she only became i\u2026 [+3253 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.036303",
+      "internal_id": "b34c345d7e540dbfadba3f07899cd54e562d23689bb290ba720ff2b76b47e9fd",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22217,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Use of JYNNEOS (Smallpox and Mpox Vaccine, Live, Nonreplicating) for Persons Aged \u226518 Years at Risk for Mpox During an Mpox Outbreak: Recommendations of the Advisory Committee on Immunization Practices \u2014 United States, 2023",
+      "description": "This report describes ACIP\u2019s 2023 recommendation for JYNNEOS vaccine use in people 18 years and older who are at risk for mpox during an mpox outbreak.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7422a3_ACIPMpoxVaccine_IMAGE_19June2025_1200x675.png?_=75910",
+      "publishedAt": "2025-06-18 17:08:26",
+      "content": "Clinical considerations have been communicated on the CDC website since the start of the multinational clade IIb outbreak in 2022. These considerations were also reviewed by ACIP and included in this\u2026 [+12217 chars]",
+      "retrievedAt": "2025-06-19 19:05:54.282152",
+      "internal_id": "207f1882a27389044a5c07295c8129a8b45dbace87976d02b543e241893a1ca4",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22218,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Clade Ib Mpox Outbreak \u2014 Kenya, July 2024\u2013February 2025",
+      "description": "This report describes clade Ib mpox cases diagnosed in Kenya from July 2024\u2013February 2025.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7422a2_MpoxKenya_IMAGE_19June2025_1200x675_v2.png?_=63138",
+      "publishedAt": "2025-06-18 17:08:26",
+      "content": "Pius Mutuku, MSc, MBA1; Ahmed Abade, PhD2; Maurice Owiny, MSc2; Zephania Irura3; Abdi Roba4; Hilary Limo5; Amy Herman-Roloff, PhD6; Naomi Lucchi, PhD6; Nancy Bowen, MSc4; Ahmed Fidhow, MSc3; Daniel L\u2026 [+24316 chars]",
+      "retrievedAt": "2025-06-19 19:05:54.290705",
+      "internal_id": "470b4bbc0493693d7812c27dc8d8908bed91ffc5fbfc8a16a302634edbe7c47e",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Clade II Mpox Infections Among Cruise Ship Passengers and Crew Members \u2014 United States, 2024",
+      "description": "This report describes eight mpox cases on four cruise ships: four among crew members and four among passengers.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7422a1_CruiseshipMpox_IMAGE_19June2025_1200x675.png?_=75914",
+      "publishedAt": "2025-06-18 17:08:26",
+      "content": "During January 25\u2013April 18, 2024, CDC was notified of eight mpox infections among cruise travelers on four ships.\u2020 Four infections were among crew members, including one three-person cluster. Passeng\u2026 [+5920 chars]",
+      "retrievedAt": "2025-06-19 19:05:54.299181",
+      "internal_id": "b44b1b33797b72ab4bd8cd67de1a83971bc057c6157a8c30921ea0563220361f",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22204,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Jane Kirby and Tom Wilkinson",
+      "title": "Grandmother dies from rabies after \u2018very slight scratch\u2019 from puppy while visiting Morocco",
+      "description": "The family of a grandmother who died after contracting rabies said she was scratched \u201cvery slightly\u201d by a puppy while visiting Morocco in February.",
+      "url": "https://www.independent.ie/world-news/grandmother-dies-from-rabies-after-very-slight-scratch-from-puppy-while-visiting-morocco/a860862366.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/fQUGNESb7dwR0Kk4gaXv2C4LL4M=/0x102:4920x3382/629x0/prod-mh-ireland/172e4e9f-9387-492f-8f73-2dd2fc6cebfa/b9925554-6a0a-457f-a2af-e6c746416101/172e4e9f-9387-492f-8f73-2dd2fc6cebfa.jpg",
+      "publishedAt": "2025-06-18 16:31:40",
+      "content": "The family of a grandmother who died after contracting rabies said she was scratched very slightly by a puppy while visiting Morocco in February. Yvonne Fords family said she became ill only two wee\u2026 [+101 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.102819",
+      "internal_id": "db01129f1b4396f72bb198b6c4f8bc4b85e8912fcaefa3b13d140f129ed361eb",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22196,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "What is rabies and how do you avoid getting it?",
+      "description": "A grandmother from South Yorkshire has died from rabies after returning from a holiday in Morocco, where she was scratched by a puppy with the virus.",
+      "url": "https://news.sky.com/story/explainer-what-is-rabies-and-how-do-you-avoid-getting-it-13385579",
+      "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-rabies-virus-lyssavirus_6945361.jpg?20250618170117",
+      "publishedAt": "2025-06-18 15:15:00",
+      "content": "A grandmother from South Yorkshire has died from rabies after returning from a holiday in Morocco, where she was scratched by a puppy with the virus. Yvonne Ford, 59, from Barnsley, visited the Nort\u2026 [+3569 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.018812",
+      "internal_id": "25958580240f8b9109e9353d133169f35143a311d8cfcf9b4c6f01bb4b037719",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22199,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Brenna Cooper",
+      "title": "Brit woman dies of rabies after being scratched by puppy on holiday",
+      "description": "British mother Yvonne Ford, 59, from Barnsley, South Yorkshire, named as the person who died from rabies after being scratched by a dog scratch in Morocco.",
+      "url": "https://www.ladbible.com/news/uk-news/british-woman-rabies-scratch-death-359423-20250618",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt0dd4239bf0e6458d/6852d4db3358aa22056da7f3/british-woman-rabies-death.jpg",
+      "publishedAt": "2025-06-18 15:02:01",
+      "content": "A British woman has died after contracting rabies while on holiday in Morocco. The family of 59-year-old grandmother Yvonne Ford confirmed on social media that the Barnsley woman had been scratched \u2026 [+2514 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.044380",
+      "internal_id": "9e6f8e765ca5fd4349f24771a980aa8add51093fc077b5bbd573c9a38a5a55f2",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22208,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Infects a Fifth Person In Cambodia",
+      "description": "The H5N1 avian influenza has infected a fifth person in Cambodia. The infection occurred in a 65-year-old woman who had no known contact with poultry, according to an official post on its Facebook page translated and posted by Avian Flu Diary, an infectious \u2026",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-infects-a-fifth-person-in-cambodia",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/03/bird-flu-positive.jpg",
+      "publishedAt": "2025-06-18 15:00:46",
+      "content": "The H5N1 avian influenza has infected a fifth person in Cambodia. The infection occurred in a 65-year-old woman who had no known contact with poultry, according to an official post on its Facebook p\u2026 [+1666 chars]",
+      "retrievedAt": "2025-06-19 19:05:52.090842",
+      "internal_id": "8943854d2eae78c5e016c7a2855cf0b23b80713d8c2a531edb72bf07d3931e95",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22201,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Renyun Zha, Jianyun Lu, Jianying Chen, Cheng Guo, Jiahai Lu",
+      "title": "Exploring one health-based strategies for rabies elimination: Overview and future prospects",
+      "description": "Background Establishing a comprehensive and coordinated mechanism for rabies management is essential for achieving the goal of eliminating the disease. It requires the involvement of multiple disciplines and departments, as well as the implementation of neces\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013159.g002&size=inline",
+      "publishedAt": "2025-06-18 14:00:00",
+      "content": "Introduction Rabies is an acute, lethal zoonotic infectious disease caused by rabies virus (RABV) infection, and is one of the oldest and most terrifying diseases known to humans [1]. The Lyssavirus\u2026 [+45229 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.062009",
+      "internal_id": "3db30f61f314e79d9f63e59de40bf81a427b14ea2f658d7d00ced48e5da01bab",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22209,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Paige E. Haffener, Helena D. Hopson, Alejandra Herbert Mainero, Anayansi Ramirez, Ellen M. Leffler",
+      "title": "Phylogenetics and genomic variation of Hepatocystis isolated from shotgun sequencing of wild primate hosts",
+      "description": "Author summary Non-human primates are hosts to many species of Plasmodium, the parasites that cause malaria, and a closely related group of parasites called Hepatocystis. However, due to restrictions and challenges of sampling from wild populations, we lack a\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013240",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013240.g005&size=inline",
+      "publishedAt": "2025-06-18 14:00:00",
+      "content": "Citation: Haffener PE, Hopson HD, Herbert Mainero A, Ramirez A, Leffler EM (2025) Phylogenetics and genomic variation of Hepatocystis isolated from shotgun sequencing of wild primate hosts. PLoS Path\u2026 [+47338 chars]",
+      "retrievedAt": "2025-06-19 19:05:53.375855",
+      "internal_id": "57c2f804716a28474d821be755c8853b27e4cecebe6f9cd6274f08f84b53f265",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22197,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Person in UK dies after being infected with rabies while on holiday",
+      "description": "Just six cases of rabies linked to overseas infection in UK since 2000",
+      "url": "https://www.irishtimes.com/world/uk/2025/06/18/person-in-uk-dies-after-being-infected-with-rabies-while-on-holiday/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/YTXC4HKXWRHNVH354UH2LGNJGQ.jpg?smart=true&auth=5db986220e2e8035e4b167d947bea79a0adb238bf873f4a789086478f04e8d75&width=1200&height=630",
+      "publishedAt": "2025-06-18 13:39:32",
+      "content": "A person in Yorkshire has died from rabies after becoming infected while on holiday in Morocco, the UK Health Security Agency (UKHSA) has said. The person, which the Barnsley Chronicle reports is a \u2026 [+2681 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.027656",
+      "internal_id": "d89767c99c0b6c02ecc148d0ed395bf483b19ff9c540ce3a48eab959e0a6b7a5",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22216,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : les deux cas autochtones r\u00e9cents sont les plus pr\u00e9coces jamais identifi\u00e9s en m\u00e9tropole",
+      "description": "Les investigations se poursuivent, mais Sant\u00e9 publique France a d\u00e9clar\u00e9 qu\u2019au moins un cas en provenance de la R\u00e9union avait \u00e9t\u00e9 identifi\u00e9 comme possiblement \u00e0 l\u2019origine de l\u2019une des transmissions locales.",
+      "url": "https://www.lemonde.fr/planete/article/2025/06/18/chikungunya-les-deux-cas-autochtones-recents-sont-les-plus-precoces-jamais-identifies-en-metropole_6614202_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/22/2/0/7891/5260/1440/960/60/0/cfa7946_ftp-import-images-1-rbo9hjjgv0xu-5683534-01-06.jpg",
+      "publishedAt": "2025-06-18 13:20:58",
+      "content": "Un pi\u00e8ge \u00e0 moustiques, dans le cadre de la lutte contre la pand\u00e9mie de Chikungunya \u00e0 Saint-Beno\u00eet (la R\u00e9union), le 22 avril 2025. LUDOVIC MARIN / AFP Les deux cas autochtones de chikungunya rep\u00e9r\u00e9s \u2026 [+3118 chars]",
+      "retrievedAt": "2025-06-19 19:05:54.091121",
+      "internal_id": "2e6b79fc779d0039c9608ab11fa0e71dff4dca9a8061a06d6a46e575e3354428",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22214,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Amodireito.com.br",
+      "author": "amoDireito.com.br",
+      "title": "Conta de luz, meio ambiente, impostos: Congresso derruba 12 vetos de Lula",
+      "description": "Parlamentares retomaram pens\u00e3o vital\u00edcia a crian\u00e7as v\u00edtimas de Zika e derrubaram tributa\u00e7\u00e3o sobre consumo em fundos de investimento.",
+      "url": "https://www.amodireito.com.br/2025/06/congresso-derruba-12-vetos-lula-veja-quais-sao.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOq83e_SyAT-C6d_BEY8AGolzM4oIjIOfEdfkLCzP-c7QPrkZMgfM0NWz9K32WRvbttu4LDetupAjrUhvPqfcgEofb6zs6_03lMXvdNtSFSEjHZ54HdxGBrv__UA08Bac5ZGmGbGC1gaYb017QszQ8GYRJBmMzUZ37_hynZI4cpH3C2m_eIuwtiJpQSYk/s16000/congresso-derruba-12-vetos-lula-veja-quais-sao.webp",
+      "publishedAt": "2025-06-18 13:03:00",
+      "content": "Via @portalg1 | Deputados e senadores decidiram nesta quarta-feira (17) derrubar vetos do presidente Luiz In\u00e1cio Lula da Silva a diferentes projetos aprovados no Congresso Nacional.O presidente da Re\u2026 [+2714 chars]",
+      "retrievedAt": "2025-06-19 19:05:53.913877",
+      "internal_id": "123eb08a4523c4d32dfefc5d23e0243a89584b400e08bf18dd5503ae3b4cb40c",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Person dies from rabies after stray dog contact",
+      "description": "The person died after contact with a dog while on holiday in Morocco, the UK Health Security Agency says.",
+      "url": "https://www.bbc.com/news/articles/c98wyllp170o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cdf4/live/03753c60-4c43-11f0-a8b1-f318fea9c646.jpg",
+      "publishedAt": "2025-06-18 12:52:52",
+      "content": "A person from Yorkshire has died from rabies after contact with a stray dog in Morocco. The UK Health Security Agency (UKHSA) said the person became infected while on holiday in the North African co\u2026 [+924 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.002614",
+      "internal_id": "b510c26cad0008ec69e66f90291c8767aaca846cdd61243366911041d708bd13",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22203,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Jane Kirby",
+      "title": "Person dies in UK after becoming infected with rabies from stray dog while on holiday",
+      "description": "A person has died in Yorkshire from rabies after becoming infected while on holiday in Morocco, the UK Health Security Agency (UKHSA) has said.",
+      "url": "https://www.independent.ie/world-news/person-dies-in-uk-after-becoming-infected-with-rabies-from-stray-dog-while-on-holiday/a1660993571.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/Q8ukgQ9QO8_MiGILlXVkBuvts7Q=/0x843:3220x2989/629x0/prod-mh-ireland/3c9f994a-12cc-4295-b46e-9f522f294127/e0bfb3d6-44a5-4a0e-b3cd-e97c12ae5629/3c9f994a-12cc-4295-b46e-9f522f294127.jpg",
+      "publishedAt": "2025-06-18 12:41:37",
+      "content": "A person has died in Yorkshire from rabies after becoming infected while on holiday in Morocco, the UK Health Security Agency (UKHSA) has said. The person, which the Barnsley Chronicle reports is a \u2026 [+136 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.093847",
+      "internal_id": "254a3b06f0f6e9cf0df43071aa5b3b80e922cd5a0c9a5c89756e6e4a3db7d150",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22211,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca, Azis Kurmala",
+      "title": "SBY affirms support for Indonesia\u2019s anti-malaria push through APLMA",
+      "description": "The sixth Indonesian president, Susilo Bambang Yudhoyono (SBY), said that he joined the Asia Pacific Leaders Malaria Alliance (APLMA) due to his commitment to ...",
+      "url": "https://en.antaranews.com/news/360153/sby-affirms-support-for-indonesias-anti-malaria-push-through-aplma",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/18/SBY.jpg",
+      "publishedAt": "2025-06-18 11:56:33",
+      "content": "Jakarta (ANTARA) - The sixth Indonesian president, Susilo Bambang Yudhoyono (SBY), said that he joined the Asia Pacific Leaders Malaria Alliance (APLMA) due to his commitment to supporting the achiev\u2026 [+2263 chars]",
+      "retrievedAt": "2025-06-19 19:05:53.420830",
+      "internal_id": "ac193e383d36fd342d2a76ef4d21b4d49edebd32c730b89ff59b30c49a8279f2",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22202,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Rabies case confirmed following contact with animal abroad",
+      "description": "UKHSA is reminding travellers to be careful around animals when travelling to rabies affected countries.",
+      "url": "https://www.gov.uk/government/news/rabies-case-confirmed-following-contact-with-animal-abroad",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/68528fbedf3015b374b735cd/s960_rabies_news_story_june_2025.png",
+      "publishedAt": "2025-06-18 11:45:05",
+      "content": "An individual from the UK has sadly died after becoming infected with rabies, following contact with a stray dog during a visit to Morocco. The individual was diagnosed in Yorkshire and the Humber. \u2026 [+3155 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.070854",
+      "internal_id": "44cc620a1a9c00526b72a4cb5e22c20d095e870ad4be9a9c81545b33c9fa59d8",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22215,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "R\u00e9daction Outre-mer La 1\u00e8re, AFP",
+      "title": "Chikungunya : une personne contamin\u00e9e \u00e0 La R\u00e9union \"possiblement \u00e0 l\u2019origine\" d'un des deux cas autochtone identifi\u00e9s dans l'Hexagone",
+      "description": "Dans son dernier bulletin \u00e9pid\u00e9mique, Sant\u00e9 publique France souligne que les deux cas autochtones de chikungunya rep\u00e9r\u00e9s dans le Sud de l'Hexagone sont \"les plus pr\u00e9coces jamais identifi\u00e9s\". M\u00eame si les investigations sont toujours en cours, l'un d'entre eux \u2026",
+      "url": "https://la1ere.franceinfo.fr/chikungunya-une-personne-contaminee-a-la-reunion-possiblement-a-l-origine-d-un-des-deux-cas-autochtone-identifies-dans-l-hexagone-1596768.html",
+      "urlToImage": "https://la1ere.franceinfo.fr/image/h60-B8RM2J5cV25X-YDVCCMlTCk/930x620/outremer/2019/10/02/5d94c0f526631_l-insecticide-malathion-pourrrait-etre-utilise-dans-la-lutte_1020579_667x333.jpg",
+      "publishedAt": "2025-06-18 11:41:44",
+      "content": "Les deux cas autochtones de chikungunya rep\u00e9r\u00e9s dans le sud de l'Hexagone sont \"les plus pr\u00e9coces jamais identifi\u00e9s\" en m\u00e9tropole dans la saison d'activit\u00e9 du moustique tigre, a not\u00e9 mercredi Sant\u00e9 p\u2026 [+2166 chars]",
+      "retrievedAt": "2025-06-19 19:05:54.081895",
+      "internal_id": "8e5b6e790b5c24f566eea6aa561f9db0aedc0ee90c8836b23adbdf878199bae3",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22213,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Congressoemfoco.com.br",
+      "author": "",
+      "title": "Nikolas diz que errou ao votar a favor de veto sobre v\u00edtimas da zika",
+      "description": "Deputado afirma que sempre defendeu projeto e atribui voto favor\u00e1vel a erro material.",
+      "url": "https://www.congressoemfoco.com.br/noticia/109522/nikolas-diz-que-errou-ao-votar-a-favor-de-veto-sobre-vitimas-da-zika",
+      "urlToImage": "https://static.congressoemfoco.com.br/CONG_REDES_RETANGULAR/2025/06/18/20853c_CONG_REDES_RETANGULAR_800nikolasferreira.jpg",
+      "publishedAt": "2025-06-18 11:37:10",
+      "content": "O deputado federal Nikolas Ferreira (PL-MG) disse que cometeu um erro ao votar nesta ter\u00e7a-feira (17) a favor do veto de Lula ao projeto que trata de repara\u00e7\u00e3o a v\u00edtimas da zika. Segundo ele, houve u\u2026 [+1679 chars]",
+      "retrievedAt": "2025-06-19 19:05:53.905256",
+      "internal_id": "b720777aa20fe87f8e66be4534d5d49bd48d53d94025de73d20606de945e1dee",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22212,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "Derrubar veto a pens\u00e3o para v\u00edtimas do zika foi \u2018gola\u00e7o\u2019, diz Rom\u00e1rio",
+      "description": "Senador afirma que pens\u00e3o mensal vital\u00edcia \u00e0s crian\u00e7as afetadas por defici\u00eancias causadas pelo v\u00edrus \u2018n\u00e3o \u00e9 favor, \u00e9 justi\u00e7a\u2019",
+      "url": "https://veja.abril.com.br/coluna/radar/derrubar-veto-a-pensao-para-vitimas-do-zika-foi-golaco-diz-romario/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/06/54550251351_fb6ebc7a68_k.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-06-18 10:30:21",
+      "content": "Rel\u00e2mpago: Revista em casa por 8,30/semana O senador Rom\u00e1rio (Andressa Anholete/Ag\u00eancia Senado) Continua ap\u00f3s publicidade O senador Rom\u00e1rio (PL\u2013RJ) afirmou que a derrubada do veto de Lula ao pagam\u2026 [+1252 chars]",
+      "retrievedAt": "2025-06-19 19:05:53.867805",
+      "internal_id": "f473376490fc4fe4d84e36275039bb34e2096bc1dce3ba5d1aeb3742471adc9a",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22210,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Fianda Sjofjan, Raka Adji",
+      "title": "Ministry reaffirms commitment to malaria elimination by 2030",
+      "description": "The Ministry of Home Affairs highlighted its commitment to supporting the national program of eliminating malaria by 2030, especially in malaria-endemic areas ...",
+      "url": "https://en.antaranews.com/news/360101/ministry-reaffirms-commitment-to-malaria-elimination-by-2030",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/18/1000244611.jpg",
+      "publishedAt": "2025-06-18 09:02:44",
+      "content": "Jakarta (ANTARA) - The Ministry of Home Affairs highlighted its commitment to supporting the national program of eliminating malaria by 2030, especially in malaria-endemic areas such as those in Papu\u2026 [+2059 chars]",
+      "retrievedAt": "2025-06-19 19:05:53.399037",
+      "internal_id": "b4850a74d59f594af947619640af1bc9cdb2afec2e711de18758ff385be57567",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22206,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Ben Carson, M.D.",
+      "title": "BEN CARSON: After COVID confusion, how can we rebuild trust in public health leaders?",
+      "description": "Contradictory COVID-19 policies and dismissal of scientific debate undermined trust in health institutions, contributing to declining vaccination rates and measles outbreaks.",
+      "url": "https://www.foxnews.com/opinion/ben-carson-after-covid-confusion-how-can-we-rebuild-trust-public-health-leaders",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/ben-carson-campaign-new-hampshire.jpg",
+      "publishedAt": "2025-06-18 09:00:27",
+      "content": "Just over five years ago, our nation faced a moment that felt more like fiction than realitya global pandemic and a national emergency, brought on by a virus we had never seen before. Faced with fear\u2026 [+4316 chars]",
+      "retrievedAt": "2025-06-19 19:05:51.657769",
+      "internal_id": "bf98ec4bbc541262a73a2d02e0e885f3058b3e7f2bbd50d9748f3426b93a9ac3",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22194,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "\"Gebelikte bo\u011fmaca a\u015f\u0131s\u0131 bebe\u011fi koruyor\"",
+      "description": "Gebelikte uygulanan bo\u011fmaca a\u015f\u0131s\u0131, bebekleri do\u011fumdan sonra kar\u015f\u0131la\u015fabilecekleri ciddi enfeksiyonlara kar\u015f\u0131 korumak amac\u0131yla art\u0131k rutin ba\u011f\u0131\u015f\u0131klama program\u0131na dahil edildi. Bu yakla\u015f\u0131m sayesinde, bebeklerin ba\u011f\u0131\u015f\u0131kl\u0131k sistemi hen\u00fcz geli\u015fmemi\u015fken maruz kalabi\u2026",
+      "url": "https://www.haberturk.com/gebelikte-bogmaca-asisi-bebegi-koruyor-haberler-3800243",
+      "urlToImage": "https://im.haberturk.com/l/2025/06/18/ver1750231787/3800243/jpg/1200x628",
+      "publishedAt": "2025-06-18 07:30:06",
+      "content": "Bomaca, tbbi adyla pertussis, solunum yollarn etkileyen, son derece bulac ve \u00f6zellikle bebeklerde yaam kaybna varabilen sonu\u00e7lar dourabilen bakteriyel bir hastalk. D\u00fcnya genelinde yllk 20-40 milyon c\u2026 [+4663 chars]",
+      "retrievedAt": "2025-06-19 19:05:50.674513",
+      "internal_id": "036d18d8953cddc72acc99bd87c3cd7f30417a9a885a5fea7feb45ee3287b8b2",
+      "publishedAtLabel": "Jun 18"
+    },
     {
       "id": 22177,
       "query": [
@@ -21363,78 +21831,6 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20997,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
-      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
-      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-04 14:50:15",
-      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
-      "retrievedAt": "2025-05-05 19:05:53.159983",
-      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20996,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
-      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
-      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-04 12:09:22",
-      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
-      "retrievedAt": "2025-05-05 19:05:52.939572",
-      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20998,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
-      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
-      "publishedAt": "2025-05-04 10:19:13",
-      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.362249",
-      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20999,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
-      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
-      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
-      "publishedAt": "2025-05-04 08:00:43",
-      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.964002",
-      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]

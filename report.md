@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-06-19 07:07
-- **Most recent article:** 2025-06-18 07:00:00
+- **New articles in last harvest:** 26
+- **Last harvest:** 2025-06-19 19:05
+- **Most recent article:** 2025-06-18 18:42:55
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 81 | 75 | 77 | 68 | 90 | 48 | 13 | 452 |
+| measles | 79 | 75 | 77 | 68 | 90 | 48 | 16 | 453 |
 | dengue | 26 | 24 | 26 | 28 | 25 | 14 | 10 | 153 |
-| h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 3 | 131 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 10 | 127 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 10 | 108 |
-| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 4 | 102 |
-| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 2 | 43 |
-| zika | 6 | 3 | 10 | 9 | 7 | 2 | 6 | 43 |
+| h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 4 | 132 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 13 | 130 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 12 | 110 |
+| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 7 | 104 |
+| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 12 | 53 |
+| zika | 6 | 3 | 10 | 9 | 7 | 2 | 9 | 46 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
-| pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 0 | 13 |
+| pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 1 | 14 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
+| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -34,6 +34,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-25 (zika)
+
+- [Conta de luz, meio ambiente, impostos: Congresso derruba 12 vetos de Lula](https://www.amodireito.com.br/2025/06/congresso-derruba-12-vetos-lula-veja-quais-sao.html) (Amodireito.com.br)
+
+- [Nikolas diz que errou ao votar a favor de veto sobre vítimas da zika](https://www.congressoemfoco.com.br/noticia/109522/nikolas-diz-que-errou-ao-votar-a-favor-de-veto-sobre-vitimas-da-zika) (Congressoemfoco.com.br)
+
+- [Derrubar veto a pensão para vítimas do zika foi ‘golaço’, diz Romário](https://veja.abril.com.br/coluna/radar/derrubar-veto-a-pensao-para-vitimas-do-zika-foi-golaco-diz-romario/) (Abril.com.br)
 
 - [Só Nikolas e Busato votaram para manter veto de Lula à pensão da Zika](https://www.metropoles.com/brasil/so-nikolas-e-busato-votaram-para-manter-veto-de-lula-a-pensao-da-zika) (Metropoles.com)
 
@@ -53,11 +59,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (rabies)
 
+- [Engelsk bestemor døde av rabies – ble smittet av valp i Marokko](https://www.nrk.no/nyheter/engelsk-bestemor-dode-av-rabies-_-ble-smittet-av-valp-i-marokko-1.17461042) (NRK)
+
+- [Woman dies from rabies in UK after being scratched 'very slightly' by puppy in Morocco in February](https://www.thejournal.ie/woman-dies-in-uk-after-being-scratched-very-slightly-by-puppy-in-morocco-in-february-6736799-Jun2025/) (TheJournal.ie)
+
+- [Grandmother dies from rabies after ‘very slight scratch’ from puppy while visiting Morocco](https://www.independent.ie/world-news/grandmother-dies-from-rabies-after-very-slight-scratch-from-puppy-while-visiting-morocco/a860862366.html) (Independent.ie)
+
+- [What is rabies and how do you avoid getting it?](https://news.sky.com/story/explainer-what-is-rabies-and-how-do-you-avoid-getting-it-13385579) (Sky.com)
+
+- [Brit woman dies of rabies after being scratched by puppy on holiday](https://www.ladbible.com/news/uk-news/british-woman-rabies-scratch-death-359423-20250618) (LADbible)
+
+- [Exploring one health-based strategies for rabies elimination: Overview and future prospects](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013159) (Plos.org)
+
+- [Person in UK dies after being infected with rabies while on holiday](https://www.irishtimes.com/world/uk/2025/06/18/person-in-uk-dies-after-being-infected-with-rabies-while-on-holiday/) (The Irish Times)
+
+- [Person dies from rabies after stray dog contact](https://www.bbc.com/news/articles/c98wyllp170o) (BBC News)
+
+- [Person dies in UK after becoming infected with rabies from stray dog while on holiday](https://www.independent.ie/world-news/person-dies-in-uk-after-becoming-infected-with-rabies-from-stray-dog-while-on-holiday/a1660993571.html) (Independent.ie)
+
+- [Rabies case confirmed following contact with animal abroad](https://www.gov.uk/government/news/rabies-case-confirmed-following-contact-with-animal-abroad) (Www.gov.uk)
+
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
 - [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
 
+## 25-25 (pertussis)
+
+- ["Gebelikte boğmaca aşısı bebeği koruyor"](https://www.haberturk.com/gebelikte-bogmaca-asisi-bebegi-koruyor-haberler-3800243) (Haberturk.com)
+
 ## 25-25 (mpox)
+
+- [Use of JYNNEOS (Smallpox and Mpox Vaccine, Live, Nonreplicating) for Persons Aged ≥18 Years at Risk for Mpox During an Mpox Outbreak: Recommendations of the Advisory Committee on Immunization Practices — United States, 2023](https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a3.htm) (Cdc.gov)
+
+- [Clade Ib Mpox Outbreak — Kenya, July 2024–February 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a2.htm) (Cdc.gov)
+
+- [Clade II Mpox Infections Among Cruise Ship Passengers and Crew Members — United States, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a1.htm) (Cdc.gov)
 
 - [Case Report of Clade Ib Monkeypox Virus Infection Linked to Travel to Democratic Republic of the Congo, Thailand, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0255_article) (Cdc.gov)
 
@@ -68,6 +104,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1227: How can antibody forget a pandemic?](https://www.microbe.tv/twiv/twiv-1227/) (Microbe.tv)
 
 ## 25-25 (measles)
+
+- [Manitoba reports 7 more measles cases from last week](https://www.cbc.ca/news/canada/manitoba/measles-update-1.7564457) (CBC News)
+
+- [Sixth measles case reported in Georgia, health officials say](https://www.fox5atlanta.com/news/sixth-measles-case-reported-georgia-health-officials-say) (FOX 5 Atlanta)
+
+- [BEN CARSON: After COVID confusion, how can we rebuild trust in public health leaders?](https://www.foxnews.com/opinion/ben-carson-after-covid-confusion-how-can-we-rebuild-trust-public-health-leaders) (Fox News)
 
 - [New measles exposure sites confirmed in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-vaccine-1.7563560) (CBC News)
 
@@ -97,6 +139,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (malaria)
 
+- [Phylogenetics and genomic variation of Hepatocystis isolated from shotgun sequencing of wild primate hosts](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013240) (Plos.org)
+
+- [SBY affirms support for Indonesia’s anti-malaria push through APLMA](https://en.antaranews.com/news/360153/sby-affirms-support-for-indonesias-anti-malaria-push-through-aplma) (Antaranews.com)
+
+- [Ministry reaffirms commitment to malaria elimination by 2030](https://en.antaranews.com/news/360101/ministry-reaffirms-commitment-to-malaria-elimination-by-2030) (Antaranews.com)
+
 - [Sixth president joins malaria elimination fight through APLMA](https://en.antaranews.com/news/360041/sixth-president-joins-malaria-elimination-fight-through-aplma) (Antaranews.com)
 
 - [Plasmodium knowlesi Malaria in Persons Returning to Israel from Thailand, 2023](https://wwwnc.cdc.gov/eid/article/31/7/25-0444_article) (Cdc.gov)
@@ -118,6 +166,8 @@ Source: [News API](https://newsapi.org/)
 - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/) (New Atlas)
 
 ## 25-25 (h5n1)
+
+- [Bird Flu Infects a Fifth Person In Cambodia](https://www.shtfplan.com/headline-news/bird-flu-infects-a-fifth-person-in-cambodia) (Shtfplan.com)
 
 - [Ave que testou positivo para gripe aviária era do plantel do Zoo do DF](https://www.metropoles.com/distrito-federal/ave-que-testou-positivo-para-gripe-aviaria-era-do-plantel-do-zoo-do-df) (Metropoles.com)
 
@@ -148,6 +198,10 @@ Source: [News API](https://newsapi.org/)
 - [Padre de familia de 71 años combate a diario el zancudo del dengue para sacar adelante a sus hijos](https://peru21.pe/actualidad/padre-de-familia-de-71-anos-combate-diario-el-zancudo-del-dengue-para-sacar-adelante-sus-hijos/) (Peru21.pe)
 
 ## 25-25 (chikungunya)
+
+- [Chikungunya : les deux cas autochtones récents sont les plus précoces jamais identifiés en métropole](https://www.lemonde.fr/planete/article/2025/06/18/chikungunya-les-deux-cas-autochtones-recents-sont-les-plus-precoces-jamais-identifies-en-metropole_6614202_3244.html) (Le Monde)
+
+- [Chikungunya : une personne contaminée à La Réunion "possiblement à l’origine" d'un des deux cas autochtone identifiés dans l'Hexagone](https://la1ere.franceinfo.fr/chikungunya-une-personne-contaminee-a-la-reunion-possiblement-a-l-origine-d-un-des-deux-cas-autochtone-identifies-dans-l-hexagone-1596768.html) (Franceinfo.fr)
 
 - [Chikungunya : l'enjeu d'empêcher la contamination dans l'Hexagone](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-enjeu-d-empecher-la-contamination-dans-l-hexagone_7320174.html) (Franceinfo.fr)
 
@@ -2381,8 +2435,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
-- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
-
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2551,10 +2603,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
-- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
-
-- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
-
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2602,8 +2650,6 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
