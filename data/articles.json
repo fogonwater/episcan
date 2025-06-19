@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-06-18 19:06",
-  "count_articles_total": 1166,
-  "count_articles_new": 12,
+  "last_updated": "2025-06-19 07:07",
+  "count_articles_total": 1187,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 22177,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Person dies in Yorkshire from rabies after contact with stray dog while on holiday",
+      "description": "A person has died in Yorkshire from rabies after contact with a stray dog during a holiday in Morocco.",
+      "url": "https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055",
+      "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-morocco-stray-dogs_6945125.jpg?20250618131829",
+      "publishedAt": "2025-06-18 07:00:00",
+      "content": "What is rabies and how is it treated? Rabies is caused by a virus invading the central nervous system. It is spread by mammals - such as cats, dogs, bats, raccoons and foxes - but in the UK it's on\u2026 [+1018 chars]",
+      "retrievedAt": "2025-06-19 07:07:47.259314",
+      "internal_id": "c040d5d9cee51733a7287b60a41746e2ac1130d41be5293718cd5c8d0b4b81e8",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22184,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Sixth president joins malaria elimination fight through APLMA",
+      "description": "Indonesia&#39;s sixth president Susilo Bambang Yudhoyono (SBY) stated that he has joined the Asia Pacific Leaders Malaria Alliance (APLMA) to aid Indonesia in ...",
+      "url": "https://en.antaranews.com/news/360041/sixth-president-joins-malaria-elimination-fight-through-aplma",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/18/IMG-20250617-WA0046-750x536.jpg",
+      "publishedAt": "2025-06-18 05:20:32",
+      "content": "Jakarta (ANTARA) - Indonesia's sixth president Susilo Bambang Yudhoyono (SBY) stated that he has joined the Asia Pacific Leaders Malaria Alliance (APLMA) to aid Indonesia in eliminating malaria under\u2026 [+2060 chars]",
+      "retrievedAt": "2025-06-19 07:07:49.884043",
+      "internal_id": "cc14e0c94f1a5b5c22e1291570ada136452daa10b6978798a0ce9debb3fe94c4",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22181,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Plasmodium knowlesi Malaria in Persons Returning to Israel from Thailand, 2023",
+      "description": "Plasmodium knowlesi Malaria in Persons Returning to Israel from Thailand, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/7/25-0444_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-06-18 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Plasmodium knowlesi, known\u2026 [+7049 chars]",
+      "retrievedAt": "2025-06-19 07:07:49.830017",
+      "internal_id": "cbf9103eb71a58514b4be1e77e9f1ac31670a5684a0153a444aefdfaaf2d9e26",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22192,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Case Report of Clade Ib Monkeypox Virus Infection Linked to Travel to Democratic Republic of the Congo, Thailand, 2024",
+      "description": "Clade Ib Monkeypox Virus Infection, Thailand, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/25-0255_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-06-18 04:00:00",
+      "content": "Mpox is an infectious disease caused by monkeypox virus (MPXV), which is primarily transmitted through close contact with infected persons (1). In late 2023, a novel clade Ib MPXV was identified in t\u2026 [+8449 chars]",
+      "retrievedAt": "2025-06-19 07:07:51.208088",
+      "internal_id": "00e303149c6dbedfb336d48799a448f96a045288bc0712c1b4dca17e182a57d4",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22183,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Benedikta Desideria",
+      "title": "Papua Jadi Kunci Indonesia Bebas Malaria 2030, Ini Strategi Menkes Budi",
+      "description": "93 persen kasus malaria di Papua, Bila kasus malaria di Papua berhasil ditangani maka Indonesia bisa bebas dari penyakit yang disebarkan oleh nyamuk itu.",
+      "url": "https://www.liputan6.com/health/read/6055157/papua-jadi-kunci-indonesia-bebas-malaria-2030-ini-strategi-menkes-budi",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/0vCWzWMqsdGZ4Ze7s-ZvhVLRVi0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5255583/original/098550900_1750176533-ke.jpg",
+      "publishedAt": "2025-06-18 03:11:44",
+      "content": "Liputan6.com, Bali Tantangan terberat mengeliminasi kasus malaria masih di Indonesia ada di Papua. Bila kasus malaria di Papua berhasil ditangani maka Indonesia bisa bebas dari penyakit itu. Kalau k\u2026 [+1006 chars]",
+      "retrievedAt": "2025-06-19 07:07:49.855328",
+      "internal_id": "12cf6c84e69a19b5581ce0b433010d09dc0ee7eb2b3604428c1d8734a0d2d616",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22187,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mateus Salom\u00e3o",
+      "title": "S\u00f3 Nikolas e Busato votaram para manter veto de Lula \u00e0 pens\u00e3o da Zika",
+      "description": "O Congresso derrubou o veto de forma quase un\u00e2nime e restabeleceu pens\u00e3o vital\u00edcia para crian\u00e7as com defici\u00eancia causada pelo v\u00edrus Zika",
+      "url": "https://www.metropoles.com/brasil/so-nikolas-e-busato-votaram-para-manter-veto-de-lula-a-pensao-da-zika",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/06/17212641/So-Nikolas-e-Busato-votaram-para-manter-veto-de-Lula-a-pensao-da-zika.jpg",
+      "publishedAt": "2025-06-18 01:27:43",
+      "content": "O Congresso Nacional derrubou nesta ter\u00e7a-feira (17/6) o veto do presidente Luiz In\u00e1cio Lula da Silva (PT) ao projeto que garante pens\u00e3o vital\u00edcia \u00e0s crian\u00e7as com defici\u00eancia provocada por s\u00edndromes \u2026 [+1914 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.282186",
+      "internal_id": "4c41477f70d3eb54634d506465e56b450b159915cc0f7e92e98b9b47485f62b8",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22193,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Negros Occidental\u2019s 31 towns, cities remain mpox-free",
+      "description": "Bacolod City \u2013 Aside from highly urbanized Bacolod City, Negros Occidental remains mpox-free, the Provincial Health Office has declared. Provincial Health Officer Dr. Girlie Pinongan reported that a suspected case of mpox turned out to be negative after labor\u2026",
+      "url": "https://rpnradio.com/bacolod-negros-occidentals-31-towns-cities-remain-mpox-free/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/mpox.jpg",
+      "publishedAt": "2025-06-18 00:50:36",
+      "content": "Bacolod City \u2013 Aside from highly urbanized Bacolod City, Negros Occidental remains mpox-free, the Provincial Health Office has declared. Provincial Health Officer Dr. Girlie Pinongan reported that a\u2026 [+2112 chars]",
+      "retrievedAt": "2025-06-19 07:07:51.224145",
+      "internal_id": "d948fe7fbeddbab73ef34f421e555ee47c6086a47d5eb10894d3e240d0d0631b",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22180,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: PHO expects dengue cases to rise",
+      "description": "Bacolod City \u2013 The Provincial Health Office (PHO) is anticipating the increase in number of dengue cases in Negros Occidental, with the start of the rainy season, Provincial Health Officer Dr. Girlie Pinongan disclosed recently. PHO has recorded 2,326 dengue \u2026",
+      "url": "https://rpnradio.com/bacolod-pho-expects-dengue-cases-to-rise/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/dengue.jpg",
+      "publishedAt": "2025-06-18 00:49:33",
+      "content": "Bacolod City \u2013 The Provincial Health Office (PHO) is anticipating the increase in number of dengue cases in Negros Occidental, with the start of the rainy season, Provincial Health Officer Dr. Girlie\u2026 [+799 chars]",
+      "retrievedAt": "2025-06-19 07:07:49.081208",
+      "internal_id": "25e5045744dd911acd2db9c657d2fd6ed7691fb765dcbac5dc1680a5b723854d",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22186,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "BBC News Brasil",
+      "title": "Ap\u00f3s recuo de Lula, veto a pens\u00e3o a fam\u00edlias de crian\u00e7as com microcefalia por zika \u00e9 derrubado no Congresso",
+      "description": "Em grupos de WhatsApp, redes de apoio formadas entre m\u00e3es comemoravam vota\u00e7\u00e3o: 'Esperamos dez anos, mas conseguimos'.",
+      "url": "https://www.bbc.com/portuguese/articles/ckgdj0kyr3zo",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/06/17/88544441-22546420-4bc2-11f0-86d5-3b52b53af158.jpg",
+      "publishedAt": "2025-06-17 23:42:22",
+      "content": "O Congresso Nacional derrubou nesta ter\u00e7a-feira (17/6) o veto do presidente Luiz In\u00e1cio Lula da Silva ao projeto de lei que amplia o aux\u00edlio financeiro \u00e0s fam\u00edlias de crian\u00e7as com microcefalia por zi\u2026 [+8802 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.273065",
+      "internal_id": "2e9df6f76e91099f334e62e297e392b7c7bc9045891a281e683feac578ac2430",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22179,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Itapira confirma 1\u00aa morte por dengue em 2025, e regi\u00e3o chega a 134 \u00f3bitos pela doen\u00e7a no ano",
+      "description": "V\u00edtima \u00e9 um homem de 74 anos que, de acordo com a prefeitura, tinha doen\u00e7as pr\u00e9vias. Aedes Aegypti, o mosquito transmissor da dengue, em Campinas Rog\u00e9rio Capela/Prefeitura de Campinas A Prefeitura de Itapira (SP) confirmou nesta ter\u00e7a-feira (17) a 1\u00aa morte po\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/17/itapira-confirma-1a-morte-por-dengue-em-2025-e-regiao-chega-a-134-obitos-pela-doenca-no-ano.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/l4-0ZNqNK_qaidAia8ZG_oqa5nE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/51/68/12296851",
+      "publishedAt": "2025-06-17 22:29:40",
+      "content": "Segundo a administra\u00e7\u00e3o municipal, a v\u00edtima \u00e9 um homem de 74 anos portador de doen\u00e7as pr\u00e9vias, que veio a \u00f3bito em 13 de abril. As cidades de cobertura do g1 Campinas somam 134 mortes pela doen\u00e7a e\u2026 [+1864 chars]",
+      "retrievedAt": "2025-06-19 07:07:49.058520",
+      "internal_id": "72511bded8ed834f92ec91c377d91f0c00eb4d13825d9fb209813770b25f5a1c",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22188,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Augusto Ten\u00f3rio",
+      "title": "Com aval de Lula, Congresso derruba veto a pens\u00e3o a crian\u00e7as com Zika",
+      "description": "Medida foi vetada pelo governo Lula por falta de previs\u00e3o or\u00e7ament\u00e1ria, mas derrubada em sess\u00e3o do Legislativo com aval do Planalto",
+      "url": "https://www.metropoles.com/brasil/com-aval-de-lula-congresso-derruba-veto-a-pensao-a-criancas-com-zika",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2025-06-17 21:37:31",
+      "content": "O Congresso derrubou nesta ter\u00e7a-feira (17/6) um veto do presidente Luiz In\u00e1cio Lula da Silva (PT) e reestabeleceu o pagamento de pens\u00e3o vital\u00edcia a crian\u00e7as v\u00edtimas de s\u00edndromes associadas ao Zika v\u2026 [+1927 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.290791",
+      "internal_id": "4f8aaa12171f257c4f6f6c0e7f0eb1442f6978ac50c158d681e4678f211e04fd",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22185,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Congresso derruba veto de Lula ao PL que prev\u00ea repara\u00e7\u00e3o a pessoas com microcefalia causada pelo v\u00edrus Zika",
+      "description": "PL da senadora Mara Gabrilli (PSD-SP) cria compensa\u00e7\u00e3o de R$ 50 mil e benef\u00edcio no teto do INSS por toda a vida.",
+      "url": "https://www.terra.com.br/nos/congresso-derruba-veto-de-lula-ao-pl-que-preve-reparacao-a-pessoas-com-microcefalia-causada-pelo-virus-zika,bbc60f11137762b3b772c5c3ca37ac48cd312ahb.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/06/17/1430112153-wdosd3rbrnknpmmctvswv2ba64.jpg",
+      "publishedAt": "2025-06-17 21:08:52",
+      "content": "O Congresso Nacional derrubou nesta ter\u00e7a-feira, 17, o veto do presidente da Rep\u00fablica, Luiz In\u00e1cio Lula da Silva (PT) ao Projeto de Lei n\u00b0 6064/2023, da senadora Mara Gabrilli (PSD-SP), que garante \u2026 [+3561 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.264193",
+      "internal_id": "ae68ef5d7d4f72569c02873014faa7771b6cace33a6233a1e1a1612425e3abf9",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22189,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Congressoemfoco.com.br",
+      "author": "",
+      "title": "Congresso derruba veto e garante pens\u00e3o \u00e0s v\u00edtimas de Zika v\u00edrus",
+      "description": "Com a derrubada, as pessoas que nasceram com defici\u00eancia causada por zika v\u00edrus poder\u00e3o receber pens\u00e3o at\u00e9 o fim da vida fixada no teto do INSS, R$ 7,786,02.",
+      "url": "https://www.congressoemfoco.com.br/noticia/109507/congresso-derruba-veto-e-garante-pensao-as-vitimas-de-zika-virus",
+      "urlToImage": "https://static.congressoemfoco.com.br/CONG_REDES_RETANGULAR/2025/06/17/c76453_CONG_REDES_RETANGULAR_545956151073929e0665do.jpg",
+      "publishedAt": "2025-06-17 20:57:57",
+      "content": "O Congresso Nacional derrubou, em sess\u00e3o conjunta nesta ter\u00e7a-feira (17), a rejei\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica \u00e0 concess\u00e3o de pens\u00e3o mensal vital\u00edcia a v\u00edtimas do Zika v\u00edrus. Dessa forma, pessoas q\u2026 [+2419 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.299006",
+      "internal_id": "df3490d3ff1eafc2a292e074e824f4345ddbd5ed9a1c93f95a438ea9af09f423",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22191,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'enjeu d'emp\u00eacher la contamination dans l'Hexagone",
+      "description": "Un patient a contract\u00e9 le chikungunya dans l'H\u00e9rault. C'est ce qu'on appelle un cas autochtone. Le patient n'avait pas voyag\u00e9 r\u00e9cemment dans une r\u00e9gion tropicale. Il va bien, mais cette contamination sur le territoire fran\u00e7ais en Europe inqui\u00e8te. \u00c0 La R\u00e9union\u2026",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-enjeu-d-empecher-la-contamination-dans-l-hexagone_7320174.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/dCR_Oxt6Dkoi_F4g_j3lx0BXNe4/0x0:1373x773/1500x843/2025/06/17/chikun-6851d3854b948819559371.jpg",
+      "publishedAt": "2025-06-17 20:46:44",
+      "content": "Un patient a contract\u00e9 le chikungunya dans l'H\u00e9rault. C'est ce qu'on appelle un cas autochtone. Le patient n'avait pas voyag\u00e9 r\u00e9cemment dans une r\u00e9gion tropicale. Il va bien, mais cette contamination\u2026 [+1133 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.875842",
+      "internal_id": "04a23a6612bec79d29c9bca7d1cb5c5e3153bb58d6bf231271c9661b4f50ec51",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22182,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Joint Malaria control drive conducted in Chirang\u2019s Indo-Bhutan border area",
+      "description": "HT Correspondent KOKRAJHAR, June 17: In a significant move to curb vector-borne diseases and enhance regional public health cooperation, a joint malaria surveillance and prevention drive was conducted on Tuesday at Hatisar, a border village in Chirang distric\u2026",
+      "url": "https://thehillstimes.in/assam/joint-malaria-control-drive-conducted-in-chirangs-indo-bhutan-border-area",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/06/lead-44.jpg",
+      "publishedAt": "2025-06-17 20:45:00",
+      "content": "HT Correspondent KOKRAJHAR, June 17: In a significant move to curb vector-borne diseases and enhance regional public health cooperation, a joint malaria surveillance and prevention drive was conduct\u2026 [+1452 chars]",
+      "retrievedAt": "2025-06-19 07:07:49.838906",
+      "internal_id": "54e96e9c0f9fea663e8fb43c4970c356c01d0a7b131178cda2ad55279268c2d7",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22190,
+      "query": [
+        "zika"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com apoio do governo, Congresso derruba veto e garante pens\u00e3o a v\u00edtimas do zika v\u00edrus",
+      "description": "O Congresso Nacional derrubou os vetos do presiden...",
+      "url": "https://valor.globo.com/politica/noticia/2025/06/17/com-apoio-do-governo-congresso-derruba-veto-e-garante-penso-a-vtimas-do-zika-vrus.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/_4hZ_o0o8X3HCpUZTR-GlWB_06g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/l/O/UHI2m3Qty807lTqOfBxw/mosquito-da-dengue.jpg",
+      "publishedAt": "2025-06-17 20:37:36",
+      "content": "O Congresso Nacional derrubou os vetos do presidente Luiz In\u00e1cio Lula da Silva ao projeto que concede pens\u00e3o vital\u00edcia a crian\u00e7as com s\u00edndrome cong\u00eanita causada pelo zika v\u00edrus. Com isso, volta a val\u2026 [+1393 chars]",
+      "retrievedAt": "2025-06-19 07:07:50.307460",
+      "internal_id": "5e7425940a3a987431d1e377dafcf64779ab349a51b1c9ebba27e5dc7495b370",
+      "publishedAtLabel": "Jun 17"
+    },
+    {
+      "id": 22178,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles exposure sites confirmed in southern Manitoba",
+      "description": "Manitoba health officials announced Tuesday that four new measles exposure sites in southern Manitoba have been identified.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-vaccine-1.7563560",
+      "urlToImage": "https://i.cbc.ca/1.7508947.1744474099!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-17 19:06:10",
+      "content": "Manitoba health officials announced Tuesday that four new measles exposure sites have been identified in southern Manitoba. The Manitou Motor Inn in Manitou, the Triangle Oasis Restaurant in Winkle\u2026 [+2022 chars]",
+      "retrievedAt": "2025-06-19 07:07:47.796139",
+      "internal_id": "af2c444008019e5f9ab34c8a52bfa8c1a1c882a76caa50e060358c8242ebf1c5",
+      "publishedAtLabel": "Jun 17"
+    },
     {
       "id": 22165,
       "query": [
@@ -21057,6 +21363,78 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20997,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
+      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-04 14:50:15",
+      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
+      "retrievedAt": "2025-05-05 19:05:53.159983",
+      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20996,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
+      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-04 12:09:22",
+      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
+      "retrievedAt": "2025-05-05 19:05:52.939572",
+      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20998,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
+      "publishedAt": "2025-05-04 10:19:13",
+      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.362249",
+      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20999,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
+      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
+      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-05-04 08:00:43",
+      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.964002",
+      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]

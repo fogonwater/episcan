@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-06-18 19:06
-- **Most recent article:** 2025-06-17 17:50:22
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-06-19 07:07
+- **Most recent article:** 2025-06-18 07:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 79 | 75 | 77 | 68 | 90 | 48 | 12 | 449 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 8 | 151 |
+| measles | 81 | 75 | 77 | 68 | 90 | 48 | 13 | 452 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 10 | 153 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 3 | 131 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 6 | 123 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 9 | 107 |
-| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 2 | 99 |
-| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 1 | 42 |
-| zika | 6 | 3 | 10 | 9 | 7 | 2 | 0 | 37 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 10 | 127 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 10 | 108 |
+| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 4 | 102 |
+| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 2 | 43 |
+| zika | 6 | 3 | 10 | 9 | 7 | 2 | 6 | 43 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 0 | 13 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
+| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -33,21 +33,43 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-25 (zika)
+
+- [Só Nikolas e Busato votaram para manter veto de Lula à pensão da Zika](https://www.metropoles.com/brasil/so-nikolas-e-busato-votaram-para-manter-veto-de-lula-a-pensao-da-zika) (Metropoles.com)
+
+- [Após recuo de Lula, veto a pensão a famílias de crianças com microcefalia por zika é derrubado no Congresso](https://www.bbc.com/portuguese/articles/ckgdj0kyr3zo) (BBC News)
+
+- [Com aval de Lula, Congresso derruba veto a pensão a crianças com Zika](https://www.metropoles.com/brasil/com-aval-de-lula-congresso-derruba-veto-a-pensao-a-criancas-com-zika) (Metropoles.com)
+
+- [Congresso derruba veto de Lula ao PL que prevê reparação a pessoas com microcefalia causada pelo vírus Zika](https://www.terra.com.br/nos/congresso-derruba-veto-de-lula-ao-pl-que-preve-reparacao-a-pessoas-com-microcefalia-causada-pelo-virus-zika,bbc60f11137762b3b772c5c3ca37ac48cd312ahb.html) (Terra.com.br)
+
+- [Congresso derruba veto e garante pensão às vítimas de Zika vírus](https://www.congressoemfoco.com.br/noticia/109507/congresso-derruba-veto-e-garante-pensao-as-vitimas-de-zika-virus) (Congressoemfoco.com.br)
+
+- [Com apoio do governo, Congresso derruba veto e garante pensão a vítimas do zika vírus](https://valor.globo.com/politica/noticia/2025/06/17/com-apoio-do-governo-congresso-derruba-veto-e-garante-penso-a-vtimas-do-zika-vrus.ghtml) (Globo)
+
 ## 25-25 (shigellosis)
 
 - [Epidemiologic and Genomic Investigation of Sexually Transmitted Shigella sonnei, England](https://wwwnc.cdc.gov/eid/article/31/7/24-1584_article) (Cdc.gov)
 
 ## 25-25 (rabies)
 
+- [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
+
 - [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
 
 ## 25-25 (mpox)
+
+- [Case Report of Clade Ib Monkeypox Virus Infection Linked to Travel to Democratic Republic of the Congo, Thailand, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0255_article) (Cdc.gov)
+
+- [Bacolod: Negros Occidental’s 31 towns, cities remain mpox-free](https://rpnradio.com/bacolod-negros-occidentals-31-towns-cities-remain-mpox-free/) (Rpnradio.com)
 
 - [Bacolod: Bacolod City logs first mpox case](https://rpnradio.com/bacolod-bacolod-city-logs-first-mpox-case/) (Rpnradio.com)
 
 - [TWiV 1227: How can antibody forget a pandemic?](https://www.microbe.tv/twiv/twiv-1227/) (Microbe.tv)
 
 ## 25-25 (measles)
+
+- [New measles exposure sites confirmed in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-vaccine-1.7563560) (CBC News)
 
 - [CDC: At least 3% of measles cases this year were in fully vaccinated people](https://www.cbsnews.com/news/measles-cases-fully-vaccinated-3-percent-cdc/) (CBS News)
 
@@ -75,6 +97,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (malaria)
 
+- [Sixth president joins malaria elimination fight through APLMA](https://en.antaranews.com/news/360041/sixth-president-joins-malaria-elimination-fight-through-aplma) (Antaranews.com)
+
+- [Plasmodium knowlesi Malaria in Persons Returning to Israel from Thailand, 2023](https://wwwnc.cdc.gov/eid/article/31/7/25-0444_article) (Cdc.gov)
+
+- [Papua Jadi Kunci Indonesia Bebas Malaria 2030, Ini Strategi Menkes Budi](https://www.liputan6.com/health/read/6055157/papua-jadi-kunci-indonesia-bebas-malaria-2030-ini-strategi-menkes-budi) (Liputan6.com)
+
+- [Joint Malaria control drive conducted in Chirang’s Indo-Bhutan border area](https://thehillstimes.in/assam/joint-malaria-control-drive-conducted-in-chirangs-indo-bhutan-border-area) (Thehillstimes.in)
+
 - [Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013096) (Plos.org)
 
 - [Indonesia reaffirms commitment to end malaria in Asia Pacific by 2030](https://en.antaranews.com/news/359965/indonesia-reaffirms-commitment-to-end-malaria-in-asia-pacific-by-2030) (Antaranews.com)
@@ -97,6 +127,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (dengue)
 
+- [Bacolod: PHO expects dengue cases to rise](https://rpnradio.com/bacolod-pho-expects-dengue-cases-to-rise/) (Rpnradio.com)
+
+- [Itapira confirma 1ª morte por dengue em 2025, e região chega a 134 óbitos pela doença no ano](https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/17/itapira-confirma-1a-morte-por-dengue-em-2025-e-regiao-chega-a-134-obitos-pela-doenca-no-ano.ghtml) (Globo)
+
 - [Vaccination strategies, public health impact and cost-effectiveness of dengue vaccine TAK-003: A modeling case study in Thailand](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004631) (Plos.org)
 
 - [RI strengthens commitment to zero dengue deaths by 2030](https://en.antaranews.com/news/359949/ri-strengthens-commitment-to-zero-dengue-deaths-by-2030) (Antaranews.com)
@@ -114,6 +148,8 @@ Source: [News API](https://newsapi.org/)
 - [Padre de familia de 71 años combate a diario el zancudo del dengue para sacar adelante a sus hijos](https://peru21.pe/actualidad/padre-de-familia-de-71-anos-combate-diario-el-zancudo-del-dengue-para-sacar-adelante-sus-hijos/) (Peru21.pe)
 
 ## 25-25 (chikungunya)
+
+- [Chikungunya : l'enjeu d'empêcher la contamination dans l'Hexagone](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-enjeu-d-empecher-la-contamination-dans-l-hexagone_7320174.html) (Franceinfo.fr)
 
 - [«Le chikungunya infecte un très grand nombre de personnes en peu de temps et c’est cette vague épidémique qui surprend»](https://www.liberation.fr/societe/sante/le-chikungunya-infecte-un-tres-grand-nombre-de-personnes-en-peu-de-temps-et-cest-cette-vague-epidemique-qui-surprend-20250617_3X3ZUCGDEVCUBF2P23C2XDNYQQ/) (Libération)
 
@@ -2345,6 +2381,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
+- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
+
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2513,6 +2551,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
+- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
+
+- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
+
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2560,6 +2602,8 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
+
+- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
