@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-06-19 19:05",
-  "count_articles_total": 1209,
-  "count_articles_new": 26,
+  "last_updated": "2025-06-20 07:07",
+  "count_articles_total": 1222,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 22226,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Two Zika virus cases confirmed in Woodlands; pregnant women advised to take precautions",
+      "description": "Health authorities have confirmed two Zika virus cases in Singapore\u2019s Woodlands neighborhood. The National Environment Agency (NEA) and Communicable Diseases Agency (CDA) warn of \u201cpersistent Zika virus signals\u201d in the area and advise residents, particularly p\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/singapore/two-zika-virus-cases-confirmed-in-woodlands-pregnant-women-advised-to-take-precautions/articleshow/121945797.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-121945826,width-1200,height-630,imgsize-5184,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-19 05:38:11",
+      "content": "Two Zika virus cases have been confirmed in Singapore's Woodlands area, prompting authorities to urge pregnant women and residents to take precautionary measures. The announcement was made jointly by\u2026 [+2537 chars]",
+      "retrievedAt": "2025-06-20 07:07:43.573222",
+      "internal_id": "4b6af74a527a182b0861aca3ce28d53db068c575f0a54d470b3f01f3fe8ae25d",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22224,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Two Zika cases in Woodlands; pregnant women urged to guard against mosquito bites",
+      "description": "NEA also found \"persistent Zika virus signals\" in the area after wastewater and mosquito surveillance.",
+      "url": "https://www.channelnewsasia.com/singapore/zika-cases-woodlands-street-11-32-mosquito-virus-5191406",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--7WNgxmum--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/31/dengue_fever_mosquito.jpg?itok=RuLa1HEu",
+      "publishedAt": "2025-06-19 04:50:22",
+      "content": "SINGAPORE: Two Zika cases have been confirmed in Woodlands, and pregnant women in the area are urged to take precautions, said the Communicable Diseases Agency (CDA) and the National Environment Agen\u2026 [+1314 chars]",
+      "retrievedAt": "2025-06-20 07:07:43.504630",
+      "internal_id": "d27f38b1194170e7c89b346d17e9050eaeb674e7a689a35f20591517dc29b36e",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22221,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "PR Wire",
+      "title": "Uniting for Impact: \"United Against Dengue\" Collaboration Launches to Elevate Education, Advocacy and Support",
+      "description": "With dengue cases continuing to rise across Asia due to factors such as changing climate conditions, increased urbanization, and population growth, a new ...",
+      "url": "https://en.antaranews.com/news/360305/uniting-for-impact-united-against-dengue-collaboration-launches-to-elevate-education-advocacy-and-support",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/19/united.jpg",
+      "publishedAt": "2025-06-19 04:39:44",
+      "content": "Led byThe International Federation of Red Cross and Red Crescent Societies and Takeda, the regional collaboration is dedicated to supporting the World Health Organization (WHO) and ASEAN goal of elim\u2026 [+8099 chars]",
+      "retrievedAt": "2025-06-20 07:07:42.166145",
+      "internal_id": "fcd50a47eb0e49034f627fbad2166a9a542658394773de21964c0d6ca90126d1",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22223,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Aditya Eka Prawira",
+      "title": "Kemenkes Gandeng Global Fund untuk Eliminasi Malaria, Tekankan Pentingnya Kerja Sama Regional",
+      "description": "Kemenkes RI gandeng Global Fund untuk eliminasi malaria. Peter Sands tegaskan pentingnya kerja sama regional karena nyamuk tak kenal batas negara.",
+      "url": "https://www.liputan6.com/health/read/6056327/kemenkes-gandeng-global-fund-untuk-eliminasi-malaria-tekankan-pentingnya-kerja-sama-regional",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/3wcoORYRZqKMIQH1XwvQ2gXxlVg=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4998906/original/040073600_1731289962-newsCover_2024_8_19_1724051463663-g5o9z.jpeg",
+      "publishedAt": "2025-06-19 03:05:18",
+      "content": "Lebih lanjut, Sands menjelaskan bahwa eliminasi malaria bukan hanya soal menurunkan angka kesakitan, tetapi juga membuka kapasitas layanan kesehatan dasar yang lebih baik. \"Banyak tenaga medis terku\u2026 [+822 chars]",
+      "retrievedAt": "2025-06-20 07:07:43.017205",
+      "internal_id": "df14b0feeccb91abc9447225c748f6fd6ba8bac069f8603960b2ddc9eeb48232",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22228,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Man diagnosed with Mpox in Ireland despite being vaccinated, scientists reveal",
+      "description": "A middle-aged man was diagnosed with the Mpox virus even though he was fully vaccinated, research published today by Irish scientists shows.",
+      "url": "https://www.independent.ie/irish-news/man-diagnosed-with-mpox-in-ireland-despite-being-vaccinated-scientists-reveal/a1162944389.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/kh2w4sAKKlWbEwI9VR_yCZIxhts=/629x460/smart/prod-mh-ireland/ca89a1c1-c167-444e-9827-d1d838594387/61f590ef-0cd2-4e8b-b681-b91f186f2d62/ca89a1c1-c167-444e-9827-d1d838594387.jpg",
+      "publishedAt": "2025-06-19 01:30:00",
+      "content": "A middle-aged man was diagnosed with the Mpox virus even though he was fully vaccinated, research published today by Irish scientists shows. It is the first reported case of the virus being diagnose\u2026 [+95 chars]",
+      "retrievedAt": "2025-06-20 07:07:44.296520",
+      "internal_id": "4b512db3f24625f51acff6a4aac7feb84ad9197da50ffd3060d4ead8a14d3325",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22227,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Angelica Ang",
+      "title": "2 Zika cases in Woodlands; NEA says surveillance suggests persistent virus signals in the area",
+      "description": "After cases were detected, NEA began wastewater and mosquito surveillance in surrounding areas. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/two-local-zika-cases-in-woodlands-nea-says",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/bb9cb750a032a1dc0aa9a2cab3a883f4e9e0027d2855fdb6b773045ef0f52b68",
+      "publishedAt": "2025-06-19 01:06:48",
+      "content": "SINGAPORE - Two local Zika cases have been confirmed at Woodlands Street 11 and Street 32, said the National Environment Agency in conjunction with the Communicable Diseases Agency (CDA), in a Facebo\u2026 [+696 chars]",
+      "retrievedAt": "2025-06-20 07:07:43.596777",
+      "internal_id": "534144f609e8afddc5f11ccf802c8104bbf0933314ba0950ab90a60fd49ef6d4",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22225,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Manuela de Moura",
+      "title": "Nikolas Ferreira se pronuncia ap\u00f3s votar por veto \u00e0 pens\u00e3o da Zika",
+      "description": "Deputado alegou erro material na vota\u00e7\u00e3o e reafirmou apoio \u00e0s v\u00edtimas da Zika. Ele j\u00e1 havia se posicionado pela derrubada do veto em janeiro",
+      "url": "https://www.metropoles.com/brasil/nikolas-ferreira-se-pronuncia-apos-votar-por-veto-a-pensao-da-zika",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/05112351/O-deputado-Nikolas-Ferreira-em-entrevista-ao-Metropoles-2.jpg",
+      "publishedAt": "2025-06-18 22:23:49",
+      "content": "O deputado federal Nikolas Ferreira (PL-MG) se pronunciou, nessa ter\u00e7a-feira (17/6), afirmando que cometeu um erro material ao registrar voto favor\u00e1vel \u00e0 manuten\u00e7\u00e3o do veto do presidente Luiz In\u00e1cio \u2026 [+1349 chars]",
+      "retrievedAt": "2025-06-20 07:07:43.535892",
+      "internal_id": "ada4d3fe62d5b647bee4dce4ad62b75a1cdf8988a9695b628fd0385b17ce3b1c",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22220,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Vanity Fair",
+      "author": "Bess Levin",
+      "title": "RFK Jr. Hires Vaccine Skeptics for Vaccine Panel, Because Modern Medicine Is for Suckers",
+      "description": "The new group includes one person who believes vaccines cause autism and another who has claimed the Texas measles outbreak might have been caused by MMR shots.",
+      "url": "https://www.vanityfair.com/news/story/rfk-jr-hires-vaccine-skeptics-for-vaccine-panel",
+      "urlToImage": "https://media.vanityfair.com/photos/685331d706d93fa075da07bd/16:9/w_1280,c_limit/2196578499",
+      "publishedAt": "2025-06-18 21:39:37",
+      "content": "When Robert F. Kennedy Jr. announced earlier this month that he was firing an entire panel of experts that makes recommendations about vaccines to the Centers for Disease Control, he boldly claimed t\u2026 [+3530 chars]",
+      "retrievedAt": "2025-06-20 07:07:41.309868",
+      "internal_id": "68bf309ea61d2283efa2163c6ee630c6b9e5a0cec2caa4d212a4bed102b9bad1",
+      "publishedAtLabel": "Jun 18"
+    },
+    {
+      "id": 22222,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Kalita, A. I., Marois, E., Ru\u0308hle, F., Keller Valsecchi, C. I.",
+      "title": "Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development [Resource/Methodology]",
+      "description": "In this study, Kalita et al. detail the sex-specific transcriptomes and gene expression dynamics during Anopheles embryogenesis, highlighting the differences in alternative polyadenylation and splicing during zygotic genome activation. Furthermore, they repor\u2026",
+      "url": "http://genesdev.cshlp.org/content/early/2025/06/18/gad.352572.124.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2025-06-18 19:07:25",
+      "content": "Malaria-transmitting mosquitoes are extremely sexually dimorphic in their anatomy and behavior. Sex-specific gene expression in Anopheles gambiae is well studied in adult stages, but its onset duri\u2026 [+1492 chars]",
+      "retrievedAt": "2025-06-20 07:07:42.993725",
+      "internal_id": "23d1fcc6500cbc96e59014dd66229f65db23030bbba92dd56f1906ea4ea2ecd8",
+      "publishedAtLabel": "Jun 18"
+    },
     {
       "id": 22205,
       "query": [
@@ -21831,6 +21993,78 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20997,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
+      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-04 14:50:15",
+      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
+      "retrievedAt": "2025-05-05 19:05:53.159983",
+      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20996,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
+      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-04 12:09:22",
+      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
+      "retrievedAt": "2025-05-05 19:05:52.939572",
+      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20998,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
+      "publishedAt": "2025-05-04 10:19:13",
+      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.362249",
+      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
+      "publishedAtLabel": "May 4"
+    },
+    {
+      "id": 20999,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
+      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
+      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-05-04 08:00:43",
+      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
+      "retrievedAt": "2025-05-05 19:05:56.964002",
+      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]

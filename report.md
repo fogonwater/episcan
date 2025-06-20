@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2025-06-19 19:05
-- **Most recent article:** 2025-06-18 18:42:55
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-06-20 07:07
+- **Most recent article:** 2025-06-19 05:38:11
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 79 | 75 | 77 | 68 | 90 | 48 | 16 | 453 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 10 | 153 |
+| measles | 81 | 75 | 77 | 68 | 90 | 48 | 17 | 456 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 11 | 154 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 15 | 132 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 4 | 132 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 13 | 130 |
 | chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 12 | 110 |
-| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 7 | 104 |
+| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 8 | 106 |
 | rabies | 11 | 3 | 6 | 9 | 6 | 6 | 12 | 53 |
-| zika | 6 | 3 | 10 | 9 | 7 | 2 | 9 | 46 |
+| zika | 6 | 3 | 10 | 9 | 7 | 2 | 13 | 50 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 1 | 14 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
+| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -34,6 +34,14 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-25 (zika)
+
+- [Two Zika virus cases confirmed in Woodlands; pregnant women advised to take precautions](https://economictimes.indiatimes.com/news/international/singapore/two-zika-virus-cases-confirmed-in-woodlands-pregnant-women-advised-to-take-precautions/articleshow/121945797.cms) (The Times of India)
+
+- [Two Zika cases in Woodlands; pregnant women urged to guard against mosquito bites](https://www.channelnewsasia.com/singapore/zika-cases-woodlands-street-11-32-mosquito-virus-5191406) (CNA)
+
+- [2 Zika cases in Woodlands; NEA says surveillance suggests persistent virus signals in the area](https://www.straitstimes.com/singapore/health/two-local-zika-cases-in-woodlands-nea-says) (The Straits Times)
+
+- [Nikolas Ferreira se pronuncia após votar por veto à pensão da Zika](https://www.metropoles.com/brasil/nikolas-ferreira-se-pronuncia-apos-votar-por-veto-a-pensao-da-zika) (Metropoles.com)
 
 - [Conta de luz, meio ambiente, impostos: Congresso derruba 12 vetos de Lula](https://www.amodireito.com.br/2025/06/congresso-derruba-12-vetos-lula-veja-quais-sao.html) (Amodireito.com.br)
 
@@ -89,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (mpox)
 
+- [Man diagnosed with Mpox in Ireland despite being vaccinated, scientists reveal](https://www.independent.ie/irish-news/man-diagnosed-with-mpox-in-ireland-despite-being-vaccinated-scientists-reveal/a1162944389.html) (Independent.ie)
+
 - [Use of JYNNEOS (Smallpox and Mpox Vaccine, Live, Nonreplicating) for Persons Aged ≥18 Years at Risk for Mpox During an Mpox Outbreak: Recommendations of the Advisory Committee on Immunization Practices — United States, 2023](https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a3.htm) (Cdc.gov)
 
 - [Clade Ib Mpox Outbreak — Kenya, July 2024–February 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7422a2.htm) (Cdc.gov)
@@ -104,6 +114,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1227: How can antibody forget a pandemic?](https://www.microbe.tv/twiv/twiv-1227/) (Microbe.tv)
 
 ## 25-25 (measles)
+
+- [RFK Jr. Hires Vaccine Skeptics for Vaccine Panel, Because Modern Medicine Is for Suckers](https://www.vanityfair.com/news/story/rfk-jr-hires-vaccine-skeptics-for-vaccine-panel) (Vanity Fair)
 
 - [Manitoba reports 7 more measles cases from last week](https://www.cbc.ca/news/canada/manitoba/measles-update-1.7564457) (CBC News)
 
@@ -138,6 +150,10 @@ Source: [News API](https://newsapi.org/)
 - [DC health officials issue alert after measles exposure at Dulles airport, metro stations](https://wjla.com/news/local/measles-case-washington-dc-health-department-dulles-international-airport-washington-metro-area-transit-wmata-silver-red-line-baggage-claim-russian-school-of-mathematics-medstar-health-pediatric) (WJLA)
 
 ## 25-25 (malaria)
+
+- [Kemenkes Gandeng Global Fund untuk Eliminasi Malaria, Tekankan Pentingnya Kerja Sama Regional](https://www.liputan6.com/health/read/6056327/kemenkes-gandeng-global-fund-untuk-eliminasi-malaria-tekankan-pentingnya-kerja-sama-regional) (Liputan6.com)
+
+- [Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development [Resource/Methodology]](http://genesdev.cshlp.org/content/early/2025/06/18/gad.352572.124.short?rss=1) (Cshlp.org)
 
 - [Phylogenetics and genomic variation of Hepatocystis isolated from shotgun sequencing of wild primate hosts](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013240) (Plos.org)
 
@@ -176,6 +192,8 @@ Source: [News API](https://newsapi.org/)
 - [지난 겨울 고병원성 조류인플루엔자 2.3배 증가…“올해도 유행 지속”](https://www.khan.co.kr/article/202506151201001) (Khan.co.kr)
 
 ## 25-25 (dengue)
+
+- [Uniting for Impact: "United Against Dengue" Collaboration Launches to Elevate Education, Advocacy and Support](https://en.antaranews.com/news/360305/uniting-for-impact-united-against-dengue-collaboration-launches-to-elevate-education-advocacy-and-support) (Antaranews.com)
 
 - [Bacolod: PHO expects dengue cases to rise](https://rpnradio.com/bacolod-pho-expects-dengue-cases-to-rise/) (Rpnradio.com)
 
@@ -2435,6 +2453,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
+- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
+
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2603,6 +2623,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
+- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
+
+- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
+
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2650,6 +2674,8 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
+
+- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
