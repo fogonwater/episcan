@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-06-20 07:07",
-  "count_articles_total": 1222,
-  "count_articles_new": 9,
+  "last_updated": "2025-06-20 19:05",
+  "count_articles_total": 1230,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 22231,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Rabid red fox euthanized in eastern Ontario",
+      "description": "Rabies has been detected in a red fox in this part of the province, with health authorities saying the animal was euthanized and those in contact with it receiving proper treatment.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/red-fox-rabies-1.7565608",
+      "urlToImage": "https://i.cbc.ca/1.7565612.1750348655!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/red-fox-taken-may-11-2025.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-06-19 17:33:48",
+      "content": "Rabies has been detected in a red fox in eastern Ontario, with health authorities saying the animal was euthanized and appropriate treatment provided to the people who were in contact with it. The a\u2026 [+2759 chars]",
+      "retrievedAt": "2025-06-20 19:05:52.760818",
+      "internal_id": "6a7deb007c5a0427b67243807e64fac75a5b8a094a655e7dfe1f4e7e67e7cee2",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22230,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Dan Baumgardt, Senior Lecturer, School of Physiology, Pharmacology and Neuroscience, University of Bristol",
+      "title": "British holidaymaker dies from rabies: what you need to know about the disease and getting the jab if you\u2019re going abroad this summer",
+      "description": "How to stay safe from rabies on your next trip.",
+      "url": "https://theconversation.com/british-holidaymaker-dies-from-rabies-what-you-need-to-know-about-the-disease-and-getting-the-jab-if-youre-going-abroad-this-summer-259325",
+      "urlToImage": "https://images.theconversation.com/files/675411/original/file-20250619-56-j50zl1.jpg?ixlib=rb-4.1.0&rect=0%2C153%2C4272%2C2136&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-19 17:29:49",
+      "content": "Olexandr Panchenko/Shutterstock.com The recent death of a British woman from rabies after a holiday in Morocco is a sobering reminder of the risks posed by this almost universally fatal disease, onc\u2026 [+6116 chars]",
+      "retrievedAt": "2025-06-20 19:05:52.723657",
+      "internal_id": "d6f3931a1a2884a586db7bdf4e432a373755de625d455df625779198fb5e6c26",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22238,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Le mpox est transmissible pendant la grossesse, r\u00e9v\u00e8le une \u00e9tude belgo-congolaise",
+      "description": "Un nouveau variant du mpox peut \u00eatre transmis de la m\u00e8re \u00e0 l'enfant par le placenta pendant la grossesse, r\u00e9v\u00e8le jeudi l'Institut de m\u00e9decine tropicale (IMT), apr\u00e8s la publication d'une \u00e9tude men\u00e9e en collaboration avec l'Institut national de recherche biom\u00e9d\u2026",
+      "url": "https://www.lalibre.be/planete/sante/2025/06/19/le-mpox-est-transmissible-pendant-la-grossesse-revele-une-etude-belgo-congolaise-4YRGRDCTHJEDNIIERPM3EX4IOA/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/L53BEXYLI5DOPPV5R4OPAE4FLI.jpg?auth=a6ab8be9e0df6f25d733c4d51e92997ed036964449f6f4f2952d2fdd8da836ca&width=1200&height=630&quality=85&focal=2764%2C1843&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2025-06-19 16:24:28",
+      "content": "\"Le virus a infect\u00e9 les foetus par le placenta chez les trois femmes\", explique le professeur de maladies infectieuses \u00e9mergentes \u00e0 l'IMT, Laurens Liesenborghs. \"La contamination a men\u00e9 \u00e0 une fausse \u2026 [+918 chars]",
+      "retrievedAt": "2025-06-20 19:05:56.465666",
+      "internal_id": "c0272eb5cf418fa8ffa404bd844e0a027e58badca1e8330fa352e82574bfc793",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22239,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Le mpox est transmissible pendant la grossesse, r\u00e9v\u00e8le une \u00e9tude belgo-congolaise",
+      "description": "Un nouveau variant du mpox peut \u00eatre transmis de la m\u00e8re \u00e0 l'enfant par le placenta pendant la grossesse, r\u00e9v\u00e8le jeudi l'Institut de m\u00e9decine tropicale (IMT), apr\u00e8s la publication d'une \u00e9tude men\u00e9e en collaboration avec l'Institut national de recherche biom\u00e9d\u2026",
+      "url": "https://www.dhnet.be/actu/sante/2025/06/19/le-mpox-est-transmissible-pendant-la-grossesse-revele-une-etude-belgo-congolaise-PHOZ5A63HFGNDI2RU2ZCFTKSA4/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/L53BEXYLI5DOPPV5R4OPAE4FLI.jpg?auth=a6ab8be9e0df6f25d733c4d51e92997ed036964449f6f4f2952d2fdd8da836ca&width=1200&height=630&quality=85&focal=2764%2C1843&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2025-06-19 16:18:13",
+      "content": "\"Le virus a infect\u00e9 les foetus par le placenta chez les trois femmes\", explique le professeur de maladies infectieuses \u00e9mergentes \u00e0 l'IMT, Laurens Liesenborghs. \"La contamination a men\u00e9 \u00e0 une fausse \u2026 [+927 chars]",
+      "retrievedAt": "2025-06-20 19:05:56.484296",
+      "internal_id": "c20432311b1cdc4599eec08e45f7751d51129914f927913002cc43bec483bc76",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22236,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "NTB",
+      "title": "Nigeriansk selskap skal lage flere millioner hiv- og malariatester",
+      "description": "Etter at USAID-st\u00f8tten til hiv- og malariatester ble kuttet tidligere i \u00e5r, vil n\u00e5 et lokalt selskap fylle tomrommet og forsyne omr\u00e5det med tester.",
+      "url": "https://www.vg.no/nyheter/i/QM64EW/nigeriansk-selskap-skal-lage-flere-millioner-hiv-og-malariatester",
+      "urlToImage": "https://akamai.vgc.no/v2/images/a10dc005-e459-41ae-a75f-6376b36f4a48?format=auto&w=1080&s=ed19c397c4fcb31b464d1cceb5c124947242cd54",
+      "publishedAt": "2025-06-19 14:26:08",
+      "content": "Det nigerianske selskapet Codix Bio planlegger \u00e5 produsere flere millioner tester for hiv og malaria, opplyser selskapet. De \u00f8nsker \u00e5 fylle det store tomrommet etter at den amerikanske bistandsorgan\u2026 [+751 chars]",
+      "retrievedAt": "2025-06-20 19:05:55.380925",
+      "internal_id": "8046bc480d052a4f672055eec4577158556a16744c84255924c1a6e9d6bc6fd5",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22237,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Gareth Iacobucci",
+      "title": "UK pauses chikungunya vaccine (IXCHIQ) in over 65s to conduct safety review",
+      "description": "The UK\u2019s Commission on Human Medicines has temporarily restricted the use of the IXCHIQ chikungunya vaccine in people aged over 65 while officials review global reports of very rare fatal reactions.IXCHIQ, a live attenuated chikungunya vaccine, was approved b\u2026",
+      "url": "https://www.bmj.com/content/389/bmj.r1277",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/389/8465.cover-source.jpg",
+      "publishedAt": "2025-06-19 12:56:40",
+      "content": "The UKs Commission on Human Medicines has temporarily restricted the use of the IXCHIQ chikungunya vaccine in people aged over 65 while officials review global reports of very rare fatal reactions. \u2026 [+2477 chars]",
+      "retrievedAt": "2025-06-20 19:05:56.213069",
+      "internal_id": "d78e0be920b932312ab5d1ef9d7992545f49c9d4323520c6981e9e53007b57e5",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22240,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Mpox: guidance for people who are isolating at home",
+      "description": "Guidance for people who have been diagnosed with mpox or who are waiting for an mpox test result and have been advised to self-isolate at home",
+      "url": "https://www.gov.uk/government/publications/mpox-guidance-for-people-who-are-isolating-at-home",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-06-19 11:08:09",
+      "content": "This guidance is for people who have been diagnosed with mpox or who are waiting for an mpox test result and have been advised to self-isolate at home. The guidance provides information on how to re\u2026 [+314 chars]",
+      "retrievedAt": "2025-06-20 19:05:56.529217",
+      "internal_id": "565ca7927682274773e9d7d14a4765e4d46d23acc68fd5a742c9d79f64d4c2ff",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22229,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'Don't take rabies for granted', top medic urges",
+      "description": "The warning comes after a woman from Barnsley dies from the virus after catching it while abroad.",
+      "url": "https://www.bbc.com/news/articles/cwyqlgj0zrro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18f7/live/895a4b60-4cf5-11f0-8c47-237c2e4015f5.jpg",
+      "publishedAt": "2025-06-19 10:24:06",
+      "content": "Rachel Russell Prof Andrew Lee, from the UKHSA, urged everyone travelling abroad from the UK to make sure they \"get all their jabs in\" Rabies was very rare in the UK but people should not \"take for\u2026 [+3191 chars]",
+      "retrievedAt": "2025-06-20 19:05:52.688119",
+      "internal_id": "e0bb46ad1499a29a4567769591988f02b8b9aeb58e4a29cbdb35a367c1033438",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Aditya Eka Prawira",
+      "title": "Nol Kematian Akibat Dengue 2030, Mungkinkah Tercapai atau Cuma Mimpi Belaka?",
+      "description": "Indonesia catat ribuan kasus dengue hingga Mei 2025. Target nol kematian di 2030 dicanangkan. Apakah realistis? Ini kata para ahli!",
+      "url": "https://www.liputan6.com/health/read/6056854/nol-kematian-akibat-dengue-2030-mungkinkah-tercapai-atau-cuma-mimpi-belaka",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/TdwVRReJfP3CT_n9vZu4UnIh32Q=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5161333/original/026937700_1741846587-1741840710074_penyebab-dbd-selain-nyamuk.jpg",
+      "publishedAt": "2025-06-19 09:23:22",
+      "content": "Ketua IDAI Jawa Barat, Dr. dr. Anggraini Alam, Sp.A. Subsp.Inf.P.T (K), menekankan bahwa dengue bukan penyakit sepele. Karena memiliki empat serotipe virus, seseorang bisa terinfeksi lebih dari satu \u2026 [+855 chars]",
+      "retrievedAt": "2025-06-20 19:05:54.491710",
+      "internal_id": "c1074cf7b9f624281c19dac404903ed89d440136177baa018ab22a3796250030",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22235,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Strong IT-logistics system key to dengue control: RI Govt",
+      "description": "The Health Ministry highlighted the importance of pairing robust logistics with a resilient information technology system to prevent crises stemming from ...",
+      "url": "https://en.antaranews.com/news/360381/strong-it-logistics-system-key-to-dengue-control-ri-govt",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/06/11/1000266385.jpg",
+      "publishedAt": "2025-06-19 08:43:09",
+      "content": "Jakarta (ANTARA) - The Health Ministry highlighted the importance of pairing robust logistics with a resilient information technology system to prevent crises stemming from dengue fever, aiming to ac\u2026 [+2202 chars]",
+      "retrievedAt": "2025-06-20 19:05:54.514880",
+      "internal_id": "c9bf51e79fcf6e025bacd794c9c26131300bb52630f9fd847755fab7fe6f80a4",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22232,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "admin",
+      "title": "Briton dies from rabies after stray dog contact",
+      "description": "A woman from South Yorkshire has died from rabies after contact with a stray dog in Morocco. The UK Health Security Agency (UKHSA) said the woman, from Barnsley, became infected while on holiday in the North African country. The agency said there was no risk \u2026",
+      "url": "https://thechronicle.com.gh/briton-dies-from-rabies-after-stray-dog-contact/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/06/Stray-dogs.jpeg",
+      "publishedAt": "2025-06-19 08:37:15",
+      "content": "A woman from South Yorkshire has died from rabies after contact with a stray dog in Morocco. The UK Health Security Agency (UKHSA) said the woman, from Barnsley, became infected while on holiday in \u2026 [+1357 chars]",
+      "retrievedAt": "2025-06-20 19:05:52.798472",
+      "internal_id": "7dddc192e43649b704034e65daf07458ad9d1c7b6b047324a29ff92d8cd925e1",
+      "publishedAtLabel": "Jun 19"
+    },
+    {
+      "id": 22233,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Zdnet.co.kr",
+      "author": "\ubc31\ubd09\uc0bc \uae30\uc790",
+      "title": "\"\uae30\ud6c4 \uc704\uae30 \uc18d \uc2dd\ud0c1 \uc9c0\ucf1c\ub77c\"\u2026\u2018\uc560\uadf8\ud14c\ud06c\u2019 \uc8fc\ubaa9\u2191",
+      "description": "[\uc9c0\ub514\ub137\ucf54\ub9ac\uc544]\uace0\ubb3c\uac00\uc640 \uae30\ud6c4 \uc7ac\uc559\uc774 \uc138\uacc4 \uc2dd\ub7c9 \uc704\uae30\ub97c \ubd80\ucd94\uae30\uace0 \uc788\ub2e4. \ubbf8\uad6d\uc5d0\uc120 \uacc4\ub780\uac12\uc774 300% \ub118\uac8c \uc624\ub974\uace0, \uc77c\ubcf8\uc740 \uc300\uac12\uc774 \ub450 \ubc30 \uc774\uc0c1 \ub6f0\uc5c8\ub2e4. \uad6d\ub0b4\ub3c4 \uc608\uc678\ub294 \uc544\ub2c8\ub2e4. \uc774\uc5d0 \ub18d\uc5c5 \uc790\ub3d9\ud654 \uae30\uc220\uc778 \u2018\uc560\uadf8\ud14c\ud06c\u2019\uac00 \uc8fc\ubaa9\ubc1b\uace0 \uc788\ub2e4. \uc790\uc728\uc8fc\ud589 \ub18d\uae30\uacc4, AI \uae30\ubc18 \uc791\ubb3c \uc9c4\ub2e8, \uc2dd\ubb3c\uacf5\uc7a5 \uc194\ub8e8\uc158\uae4c\uc9c0 \uad6d\ub0b4 \uc2a4\ud0c0\ud2b8\uc5c5\ub4e4\uc774 \uc2dd\ub7c9 \uc548\ubcf4\ub97c \uc9c0\ud0a4\ub294 \uc0c8\ub85c\uc6b4 \uc8fc\uc5ed\uc73c\ub85c \ubd80\uc0c1\ud558\uace0 \uc788\ub2e4.\u2018\uc5d0\uadf8\ud50c\ub808\uc774\uc158\u2019\uacfc \u2018\uace0\uba54\uc1fc\ud06c\u2019\ub294 \uc804\uc138\uacc4\uc5d0 \uc2dd\ub7c9 \uc704\uae30 \uacf5\ud3ec\ub97c \ubd88\ub7ec \uc77c\uc73c\ucf30\ub2e4. \uc62c\ud574 3\uc6d4 \ubbf8\uad6d \uacc4\ub780\uac12\uc740 \ubb34\ub824 32\u2026",
+      "url": "https://zdnet.co.kr/view/?no=20250618172544",
+      "urlToImage": "https://image.zdnet.co.kr/2025/06/19/3ced6f8f41681c5423c3b0d6e54ad4e1.jpg",
+      "publishedAt": "2025-06-19 08:12:28",
+      "content": ". 300% , . . . , AI , . . 3 326% . 12 6.23, 9. . 5 5kg 4285( 4), . . 6 . . . . . 12 1300 . (FAO) HPAI . . (AgricultureTechnology) . . . . 2015 . 1 . 2023 , 2024 . , . , PRO, SS, (AI) AI \u2026 [+65 chars]",
+      "retrievedAt": "2025-06-20 19:05:53.804525",
+      "internal_id": "5b5693f88cb05f55e24119211d0d099ceb0978bf5f0aa6a2416913016bd24e4d",
+      "publishedAtLabel": "Jun 19"
+    },
     {
       "id": 22226,
       "query": [
@@ -21993,78 +22209,6 @@
       "content": "HT CorrespondentKOKRAJHAR, May 4:A malaria outbreak in Kokrajhar district has triggered alarm, with 443 positive cases reported as of April 30, 2025, and three confirmed fatalities, including a 10-ye\u2026 [+1837 chars]",
       "retrievedAt": "2025-05-06 07:07:42.962390",
       "internal_id": "c478ce25cb2b039b51f252dec08a9951681b10462ade37972539c77640ee0532",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20997,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "New measles exposure location at Winkler supermarket, Manitoba public health warns",
-      "description": "Manitoba public health officials are warning about a new measles exposure location at a retail store in Winkler in late April.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150",
-      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-04 14:50:15",
-      "content": "If you were at supermarket chain in Winkler in late April, you may have been exposed to measles, according to a warning from Manitoba public health officials. Anyone who was at the Real Canadian Sup\u2026 [+605 chars]",
-      "retrievedAt": "2025-05-05 19:05:53.159983",
-      "internal_id": "02c48ee7050356d10d8bc842aff5718743ca41ef552b90d6e41576c8660d7cf6",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20996,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Should You Get A Measles Vaccine Booster? Here Are The Considerations",
-      "description": "Whether you need an additional measles vaccine depends on when you were born and your vaccination history. The availability and types of MMR vaccines have evolved.",
-      "url": "https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681755eb08cbb03213dcd36e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-05-04 12:09:22",
-      "content": "The return of measles to the U.S. may have many people wondering whether they should get a measles ... More vaccine booster. Pictured here is an information booth for measles vaccinations offered by \u2026 [+9690 chars]",
-      "retrievedAt": "2025-05-05 19:05:52.939572",
-      "internal_id": "afe5f9a873922b807cbc3372f37558b5ab7296f3cb0bcd51b0ff13ac7f19802e",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20998,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Sierra Leone'de M \u00e7i\u00e7e\u011fi vakalar\u0131 artmaya devam ediyor",
-      "description": "Bat\u0131 Afrika \u00fclkelerinden Sierra Leone'de M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vakalar\u0131n\u0131n yay\u0131lmaya devam etti\u011fi bildirildi. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/04/thumbs_b_c_839290558ed1dba07b4ce23110e3ca20.jpg",
-      "publishedAt": "2025-05-04 10:19:13",
-      "content": "Sierra Leone Ulusal Halk Sal Kurumundan yaplan a\u00e7klamada, \u00fclkede u ana kadar 763 M \u00e7i\u00e7ei vakasnn tespit edildii ve 177 yeni vakann son haftada kaydedildii belirtildi. Artk haberler size gelsinAA'nn\u2026 [+1542 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.362249",
-      "internal_id": "35c4a047bac96a68fd1f9427bc2190be6d833354caf3e2cffa8904557c48db64",
-      "publishedAtLabel": "May 4"
-    },
-    {
-      "id": 20999,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Alerta epidemiol\u00f3gica en Ecuador tras la muerte de ocho ni\u00f1os ind\u00edgenas en la Amazonia",
-      "description": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras localidades del pa\u00eds, llevaron al Gobierno ecuatoriano de D\u2026",
-      "url": "https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/05/04/amazonia-kXDB--1024x512@diario_abc.jpg",
-      "publishedAt": "2025-05-04 08:00:43",
-      "content": "La muerte de ocho ni\u00f1os en la localidad de Taisha, en la amaz\u00f3nica provincia de Morona Santiago, fronteriza con Per\u00fa, por leptospirosis, y el aumento de casos de fiebre amarilla y tosferina, en otras\u2026 [+2588 chars]",
-      "retrievedAt": "2025-05-05 19:05:56.964002",
-      "internal_id": "ced26bec9b759fc7f9e9dcc22eedea9e8b2652b0256e5cd751d54c3f28f6e39f",
       "publishedAtLabel": "May 4"
     }
   ]

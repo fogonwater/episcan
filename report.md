@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-06-20 07:07
-- **Most recent article:** 2025-06-19 05:38:11
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-06-20 19:05
+- **Most recent article:** 2025-06-19 17:33:48
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 81 | 75 | 77 | 68 | 90 | 48 | 17 | 456 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 11 | 154 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 15 | 132 |
+| measles | 79 | 75 | 77 | 68 | 90 | 48 | 17 | 454 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 13 | 156 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 16 | 133 |
 | h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 4 | 132 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 12 | 110 |
-| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 8 | 106 |
-| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 12 | 53 |
+| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 13 | 111 |
+| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 11 | 108 |
+| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 16 | 57 |
 | zika | 6 | 3 | 10 | 9 | 7 | 2 | 13 | 50 |
 | meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 1 | 14 |
-| hpai | 3 | 1 | 2 | 1 | 3 | 1 | 0 | 11 |
-| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
+| hpai | 3 | 1 | 2 | 1 | 3 | 1 | 1 | 12 |
+| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -67,6 +67,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (rabies)
 
+- [Rabid red fox euthanized in eastern Ontario](https://www.cbc.ca/news/canada/ottawa/red-fox-rabies-1.7565608) (CBC News)
+
+- [British holidaymaker dies from rabies: what you need to know about the disease and getting the jab if you’re going abroad this summer](https://theconversation.com/british-holidaymaker-dies-from-rabies-what-you-need-to-know-about-the-disease-and-getting-the-jab-if-youre-going-abroad-this-summer-259325) (The Conversation Africa)
+
+- ['Don't take rabies for granted', top medic urges](https://www.bbc.com/news/articles/cwyqlgj0zrro) (BBC News)
+
+- [Briton dies from rabies after stray dog contact](https://thechronicle.com.gh/briton-dies-from-rabies-after-stray-dog-contact/) (Thechronicle.com.gh)
+
 - [Engelsk bestemor døde av rabies – ble smittet av valp i Marokko](https://www.nrk.no/nyheter/engelsk-bestemor-dode-av-rabies-_-ble-smittet-av-valp-i-marokko-1.17461042) (NRK)
 
 - [Woman dies from rabies in UK after being scratched 'very slightly' by puppy in Morocco in February](https://www.thejournal.ie/woman-dies-in-uk-after-being-scratched-very-slightly-by-puppy-in-morocco-in-february-6736799-Jun2025/) (TheJournal.ie)
@@ -96,6 +104,12 @@ Source: [News API](https://newsapi.org/)
 - ["Gebelikte boğmaca aşısı bebeği koruyor"](https://www.haberturk.com/gebelikte-bogmaca-asisi-bebegi-koruyor-haberler-3800243) (Haberturk.com)
 
 ## 25-25 (mpox)
+
+- [Le mpox est transmissible pendant la grossesse, révèle une étude belgo-congolaise](https://www.lalibre.be/planete/sante/2025/06/19/le-mpox-est-transmissible-pendant-la-grossesse-revele-une-etude-belgo-congolaise-4YRGRDCTHJEDNIIERPM3EX4IOA/) (Lalibre.be)
+
+- [Le mpox est transmissible pendant la grossesse, révèle une étude belgo-congolaise](https://www.dhnet.be/actu/sante/2025/06/19/le-mpox-est-transmissible-pendant-la-grossesse-revele-une-etude-belgo-congolaise-PHOZ5A63HFGNDI2RU2ZCFTKSA4/) (dh.be)
+
+- [Guidance: Mpox: guidance for people who are isolating at home](https://www.gov.uk/government/publications/mpox-guidance-for-people-who-are-isolating-at-home) (Www.gov.uk)
 
 - [Man diagnosed with Mpox in Ireland despite being vaccinated, scientists reveal](https://www.independent.ie/irish-news/man-diagnosed-with-mpox-in-ireland-despite-being-vaccinated-scientists-reveal/a1162944389.html) (Independent.ie)
 
@@ -151,6 +165,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (malaria)
 
+- [Nigeriansk selskap skal lage flere millioner hiv- og malariatester](https://www.vg.no/nyheter/i/QM64EW/nigeriansk-selskap-skal-lage-flere-millioner-hiv-og-malariatester) (Www.vg.no)
+
 - [Kemenkes Gandeng Global Fund untuk Eliminasi Malaria, Tekankan Pentingnya Kerja Sama Regional](https://www.liputan6.com/health/read/6056327/kemenkes-gandeng-global-fund-untuk-eliminasi-malaria-tekankan-pentingnya-kerja-sama-regional) (Liputan6.com)
 
 - [Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development [Resource/Methodology]](http://genesdev.cshlp.org/content/early/2025/06/18/gad.352572.124.short?rss=1) (Cshlp.org)
@@ -181,6 +197,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/) (New Atlas)
 
+## 25-25 (hpai)
+
+- ["기후 위기 속 식탁 지켜라"…‘애그테크’ 주목↑](https://zdnet.co.kr/view/?no=20250618172544) (Zdnet.co.kr)
+
 ## 25-25 (h5n1)
 
 - [Bird Flu Infects a Fifth Person In Cambodia](https://www.shtfplan.com/headline-news/bird-flu-infects-a-fifth-person-in-cambodia) (Shtfplan.com)
@@ -192,6 +212,10 @@ Source: [News API](https://newsapi.org/)
 - [지난 겨울 고병원성 조류인플루엔자 2.3배 증가…“올해도 유행 지속”](https://www.khan.co.kr/article/202506151201001) (Khan.co.kr)
 
 ## 25-25 (dengue)
+
+- [Nol Kematian Akibat Dengue 2030, Mungkinkah Tercapai atau Cuma Mimpi Belaka?](https://www.liputan6.com/health/read/6056854/nol-kematian-akibat-dengue-2030-mungkinkah-tercapai-atau-cuma-mimpi-belaka) (Liputan6.com)
+
+- [Strong IT-logistics system key to dengue control: RI Govt](https://en.antaranews.com/news/360381/strong-it-logistics-system-key-to-dengue-control-ri-govt) (Antaranews.com)
 
 - [Uniting for Impact: "United Against Dengue" Collaboration Launches to Elevate Education, Advocacy and Support](https://en.antaranews.com/news/360305/uniting-for-impact-united-against-dengue-collaboration-launches-to-elevate-education-advocacy-and-support) (Antaranews.com)
 
@@ -216,6 +240,8 @@ Source: [News API](https://newsapi.org/)
 - [Padre de familia de 71 años combate a diario el zancudo del dengue para sacar adelante a sus hijos](https://peru21.pe/actualidad/padre-de-familia-de-71-anos-combate-diario-el-zancudo-del-dengue-para-sacar-adelante-sus-hijos/) (Peru21.pe)
 
 ## 25-25 (chikungunya)
+
+- [UK pauses chikungunya vaccine (IXCHIQ) in over 65s to conduct safety review](https://www.bmj.com/content/389/bmj.r1277) (The BMJ)
 
 - [Chikungunya : les deux cas autochtones récents sont les plus précoces jamais identifiés en métropole](https://www.lemonde.fr/planete/article/2025/06/18/chikungunya-les-deux-cas-autochtones-recents-sont-les-plus-precoces-jamais-identifies-en-metropole_6614202_3244.html) (Le Monde)
 
@@ -2453,8 +2479,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
-- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
-
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2623,10 +2647,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
-- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
-
-- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
-
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2674,8 +2694,6 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
