@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-06-21 07:06
-- **Most recent article:** 2025-06-20 07:00:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-06-21 19:05
+- **Most recent article:** 2025-06-20 18:33:51
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 81 | 75 | 77 | 68 | 90 | 48 | 18 | 457 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 13 | 156 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 19 | 136 |
-| h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 4 | 132 |
+| measles | 79 | 75 | 77 | 68 | 90 | 48 | 22 | 459 |
+| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 14 | 157 |
+| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 20 | 137 |
+| h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 5 | 133 |
 | chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 13 | 111 |
-| mpox | 11 | 18 | 11 | 19 | 15 | 24 | 11 | 109 |
-| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 17 | 58 |
+| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 11 | 108 |
+| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 18 | 59 |
 | zika | 6 | 3 | 10 | 9 | 7 | 2 | 13 | 50 |
-| meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 0 | 29 |
+| meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 1 | 30 |
 | yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
-| pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 1 | 14 |
+| pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 2 | 15 |
 | hpai | 3 | 1 | 2 | 1 | 3 | 1 | 1 | 12 |
-| leptospirosis | 4 | 1 | 0 | 1 | 2 | 2 | 0 | 10 |
+| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
 | typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
@@ -67,6 +67,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (rabies)
 
+- [Rabies: is it a danger in the UK?](https://theweek.com/health/rabies-is-it-a-danger-in-the-uk) (The Week Magazine)
+
 - [Skunk captured in Kakaako Waterfront Park, tested for rabies | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/06/19/breaking-news/skunk-captured-in-kakaako-waterfront-park-tested-for-rabies/) (Honolulu Star-Advertiser)
 
 - [Rabid red fox euthanized in eastern Ontario](https://www.cbc.ca/news/canada/ottawa/red-fox-rabies-1.7565608) (CBC News)
@@ -103,6 +105,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (pertussis)
 
+- [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
+
 - ["Gebelikte boğmaca aşısı bebeği koruyor"](https://www.haberturk.com/gebelikte-bogmaca-asisi-bebegi-koruyor-haberler-3800243) (Haberturk.com)
 
 ## 25-25 (mpox)
@@ -129,7 +133,19 @@ Source: [News API](https://newsapi.org/)
 
 - [TWiV 1227: How can antibody forget a pandemic?](https://www.microbe.tv/twiv/twiv-1227/) (Microbe.tv)
 
+## 25-25 (meningitis)
+
+- [Deadly heat waves trigger shocking meningitis outbreaks](https://rollingout.com/2025/06/20/heat-waves-trigger-shocking-meningitis/) (Rolling Out)
+
 ## 25-25 (measles)
+
+- [Integrating nutrition and immunization to strengthen primary health care](https://defeatdd.org/blog/integrating-nutrition-and-immunization/) (Defeatdd.org)
+
+- [Utah's first measles case reported in Utah County](https://ksltv.com/health/utahs-first-measles-case-reported-in-utah-county/788271/) (ksltv.com)
+
+- [Alberta babies have been born with measles due to outbreaks, worrying doctors](https://www.cbc.ca/news/canada/calgary/alberta-measles-outbreak-congenital-babies-1.7565626) (CBC News)
+
+- [WA Health issues measles warning after confirmed case in returned traveller](https://www.perthnow.com.au/news/health/wa-health-issues-measles-warning-after-confirmed-case-in-returned-traveller-c-19101719) (PerthNow)
 
 - [Health experts warn Sydneysiders to stay vigilant after new measles case recorded](https://7news.com.au/news/health-experts-warn-sydneysiders-to-stay-vigilant-after-new-measles-case-recorded-c-19095652) (7NEWS.com.au)
 
@@ -168,6 +184,8 @@ Source: [News API](https://newsapi.org/)
 - [DC health officials issue alert after measles exposure at Dulles airport, metro stations](https://wjla.com/news/local/measles-case-washington-dc-health-department-dulles-international-airport-washington-metro-area-transit-wmata-silver-red-line-baggage-claim-russian-school-of-mathematics-medstar-health-pediatric) (WJLA)
 
 ## 25-25 (malaria)
+
+- [Seven malaria cases reported in Chitwan over past year](https://english.khabarhub.com/2025/20/478978/) (Khabarhub.com)
 
 - [Can Improving Taxation In Africa Help Meet Health Needs?](https://www.forbes.com/sites/christinero/2025/06/20/can-improving-taxation-in-africa-help-fill-health-needs/) (Forbes)
 
@@ -213,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (h5n1)
 
+- [Зафиксирован быстрый рост стойкости вируса птичьего гриппа к действию антител](https://news.mail.ru/society/66663532/) (Mail.ru)
+
 - [Bird Flu Infects a Fifth Person In Cambodia](https://www.shtfplan.com/headline-news/bird-flu-infects-a-fifth-person-in-cambodia) (Shtfplan.com)
 
 - [Ave que testou positivo para gripe aviária era do plantel do Zoo do DF](https://www.metropoles.com/distrito-federal/ave-que-testou-positivo-para-gripe-aviaria-era-do-plantel-do-zoo-do-df) (Metropoles.com)
@@ -222,6 +242,8 @@ Source: [News API](https://newsapi.org/)
 - [지난 겨울 고병원성 조류인플루엔자 2.3배 증가…“올해도 유행 지속”](https://www.khan.co.kr/article/202506151201001) (Khan.co.kr)
 
 ## 25-25 (dengue)
+
+- [En lo que va del año, Jalisco registra 837 contagios de dengue](https://www.jornada.com.mx/2025/06/20/politica/012n1pol) (Jornada.com.mx)
 
 - [Nol Kematian Akibat Dengue 2030, Mungkinkah Tercapai atau Cuma Mimpi Belaka?](https://www.liputan6.com/health/read/6056854/nol-kematian-akibat-dengue-2030-mungkinkah-tercapai-atau-cuma-mimpi-belaka) (Liputan6.com)
 
@@ -2489,8 +2511,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
 
-- [Sierra Leone'de M çiçeği vakaları artmaya devam ediyor](https://www.aa.com.tr/tr/dunya/sierra-leonede-m-cicegi-vakalari-artmaya-devam-ediyor/3556722) (Anadolu Agency)
-
 ## 25-19 (meningitis)
 
 - [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
@@ -2659,10 +2679,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
 
-- [New measles exposure location at Winkler supermarket, Manitoba public health warns](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-winkler-1.7526150) (CBC News)
-
-- [Should You Get A Measles Vaccine Booster? Here Are The Considerations](https://www.forbes.com/sites/brucelee/2025/05/04/should-you-get-a-measles-vaccine-booster-here-are-the-considerations/) (Forbes)
-
 ## 25-19 (malaria)
 
 - [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
@@ -2710,8 +2726,6 @@ Source: [News API](https://newsapi.org/)
 - [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
 
 - [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-- [Alerta epidemiológica en Ecuador tras la muerte de ocho niños indígenas en la Amazonia](https://www.abc.es/sociedad/alerta-epidemiologica-ecuador-tras-muerte-ocho-ninos-20250504100043-nt.html) (Www.abc.es)
 
 ## 25-19 (hpai)
 
