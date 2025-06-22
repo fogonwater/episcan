@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-06-21 19:05
-- **Most recent article:** 2025-06-20 18:33:51
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-06-22 07:07
+- **Most recent article:** 2025-06-21 06:01:49
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-19 | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 79 | 75 | 77 | 68 | 90 | 48 | 22 | 459 |
-| dengue | 26 | 24 | 26 | 28 | 25 | 14 | 14 | 157 |
-| malaria | 19 | 11 | 35 | 17 | 16 | 19 | 20 | 137 |
-| h5n1 | 11 | 21 | 46 | 36 | 9 | 5 | 5 | 133 |
-| chikungunya | 15 | 25 | 12 | 12 | 21 | 13 | 13 | 111 |
-| mpox | 10 | 18 | 11 | 19 | 15 | 24 | 11 | 108 |
-| rabies | 11 | 3 | 6 | 9 | 6 | 6 | 18 | 59 |
-| zika | 6 | 3 | 10 | 9 | 7 | 2 | 13 | 50 |
-| meningitis | 3 | 7 | 6 | 7 | 2 | 4 | 1 | 30 |
-| yersinia | 0 | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
-| pertussis | 1 | 1 | 2 | 3 | 2 | 4 | 2 | 15 |
-| hpai | 3 | 1 | 2 | 1 | 3 | 1 | 1 | 12 |
-| leptospirosis | 3 | 1 | 0 | 1 | 2 | 2 | 0 | 9 |
-| typhoid | 1 | 1 | 0 | 2 | 0 | 3 | 0 | 7 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
+| Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 75 | 77 | 68 | 90 | 48 | 28 | 386 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 15 | 132 |
+| h5n1 | 21 | 46 | 36 | 9 | 5 | 6 | 123 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 20 | 118 |
+| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 98 |
+| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 96 |
+| rabies | 3 | 6 | 9 | 6 | 6 | 18 | 48 |
+| zika | 3 | 10 | 9 | 7 | 2 | 13 | 44 |
+| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 27 |
+| yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
+| pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 14 |
+| hpai | 1 | 2 | 1 | 3 | 1 | 1 | 9 |
+| leptospirosis | 1 | 0 | 1 | 2 | 2 | 0 | 6 |
+| typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 6 |
+| shigellosis | 0 | 0 | 0 | 0 | 3 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -139,6 +139,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (measles)
 
+- [Alberta has become the second Canadian province, after Ontario, to cross more than 1,000 confirmed measles cases in 2025](https://economictimes.indiatimes.com/news/international/canada/alberta-has-become-the-second-canadian-province-after-ontario-to-cross-more-than-1000-confirmed-measles-cases-in-2025/articleshow/121987906.cms) (The Times of India)
+
+- [Urgent warning to Irish holidaymakers about measles outbreaks in European countries](https://www.independent.ie/irish-news/urgent-warning-to-irish-holidaymakers-about-measles-outbreaks-in-european-countries/a1746150816.html) (Independent.ie)
+
+- [US measles count now tops 1,200 cases, and Iowa announces an outbreak](https://www.scrippsnews.com/health/us-measles-count-now-tops-1-200-cases-and-iowa-announces-an-outbreak) (Scrippsnews.com)
+
+- [Iowa announces measles outbreak as U.S. tops 1,200 confirmed cases](https://www.pbs.org/newshour/health/iowa-announces-measles-outbreak-as-u-s-tops-1200-confirmed-cases) (PBS)
+
+- [Alberta surpasses 1,000 measles cases, AHS warns of potential exposures in Edmonton | Globalnews.ca](http://globalnews.ca/news/11252126/alberta-measles-cases-one-thousand/) (Global News)
+
+- [Gauteng Measles Outbreak | Health Department intensifies vaccination campaign](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAvtadfbFbrc) (YouTube)
+
 - [Integrating nutrition and immunization to strengthen primary health care](https://defeatdd.org/blog/integrating-nutrition-and-immunization/) (Defeatdd.org)
 
 - [Utah's first measles case reported in Utah County](https://ksltv.com/health/utahs-first-measles-case-reported-in-utah-county/788271/) (ksltv.com)
@@ -231,6 +243,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (h5n1)
 
+- [Попова отметила возможный риск новой пандемии из-за гриппа птиц](https://www.interfax.ru/russia/1032444) (Interfax.ru)
+
 - [Зафиксирован быстрый рост стойкости вируса птичьего гриппа к действию антител](https://news.mail.ru/society/66663532/) (Mail.ru)
 
 - [Bird Flu Infects a Fifth Person In Cambodia](https://www.shtfplan.com/headline-news/bird-flu-infects-a-fifth-person-in-cambodia) (Shtfplan.com)
@@ -242,6 +256,8 @@ Source: [News API](https://newsapi.org/)
 - [지난 겨울 고병원성 조류인플루엔자 2.3배 증가…“올해도 유행 지속”](https://www.khan.co.kr/article/202506151201001) (Khan.co.kr)
 
 ## 25-25 (dengue)
+
+- [Aceleração de doenças respiratórias em maio podem ajudar resultados de hospitais e farmácias, diz Citi](https://valor.globo.com/empresas/noticia/2025/06/20/aceleracao-de-doencas-respiratorias-em-maio-podem-ajudar-resultados-de-hospitais-e-farmacias-diz-citi.ghtml) (Globo)
 
 - [En lo que va del año, Jalisco registra 837 contagios de dengue](https://www.jornada.com.mx/2025/06/20/politica/012n1pol) (Jornada.com.mx)
 
@@ -2442,405 +2458,3 @@ Source: [News API](https://newsapi.org/)
 - [FDA and CDC Recommend Pause in Use of Ixchiq (Chikungunya Vaccine, Live) in Individuals 60 Years of Age and Older While Postmarketing Safety Reports are Investigated: FDA Safety Communication](https://www.fda.gov/safety/medical-product-safety-information/fda-and-cdc-recommend-pause-use-ixchiq-chikungunya-vaccine-live-individuals-60-years-age-and-older) (FDA.gov)
 
 - [Level 2 - Chikungunya in the Region of the Indian Ocean](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-indian-ocean-islands) (Cdc.gov)
-
-## 25-19 (zika)
-
-- [How a Sex-Obsessed Bacteria in Fruit Flies Could Help Stop Zika and Dengue](https://www.discovermagazine.com/planet-earth/how-a-sex-obsessed-bacteria-in-fruit-flies-could-help-stop-zika-and-dengue) (Discover Magazine)
-
-- [Strážci zdraví. Parazité se přenášejí nejen z primátů na lidi, ale i obráceně, líčí vědkyně](https://www.idnes.cz/hobby/mazlicci/klara-judita-petrzelkova-primatolozka-lidoop-prales-vyzkum.A250501_849714_hobby-mazlicci_krd) (Idnes.cz)
-
-- [Aziatische tijgermuggen gesignaleerd rond Gent: “Ze kunnen ziektes overdragen”](https://www.nieuwsblad.be/cnt/dmf20250508_95103574) (Nieuwsblad.be)
-
-- [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [Article]](https://rnajournal.cshlp.org/content/early/2025/05/08/rna.080342.124.short?rss=1) (Cshlp.org)
-
-- [Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potential by neglected vector species, Aedes scutellaris](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012530) (Plos.org)
-
-- [Pets pegam dengue?](https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html) (Terra.com.br)
-
-## 25-19 (typhoid)
-
-- [How Typhoid fever triggers severe neurological symptoms](https://news.yale.edu/2025/05/09/how-typhoid-fever-triggers-severe-neurological-symptoms) (Yale.edu)
-
-## 25-19 (rabies)
-
-- [Rabies påvist hos fjellrev på Svalbard](https://www.aftenposten.no/norge/i/kwrGEa/rabies-paavist-hos-fjellrev-paa-svalbard) (Aftenposten)
-
-- [Rabies påvist hos fjellrev på Svalbard](https://www.nrk.no/tromsogfinnmark/rabies-pavist-hos-fjellrev-pa-svalbard-1.17412056) (NRK)
-
-- [Veterinærinstituttet: Rabies påvist hos fjellrev på Svalbard](https://www.nrk.no/nyheter/veterinaerinstituttet_-rabies-pavist-hos-fjellrev-pa-svalbard-1.17412057) (NRK)
-
-- [One dies of rabies in Ichhakamana](https://english.khabarhub.com/2025/08/465003/) (Khabarhub.com)
-
-- [Bat tests positive for rabies in Weld County, first positive result for 2025](https://www.denver7.com/lifestyle/health/rabid-bat-in-weld-county-marks-first-animal-to-test-positive-for-the-virus-in-colorado-for-the-2025-season) (Denver7.com)
-
-- [Rabid skunk found in Franklin County, Virginia Department of Health confirms](https://wset.com/news/local/rabid-skunk-found-in-franklin-county-virginia-department-of-health-confirms-may-2025) (WSET)
-
-- [പേവിഷ ബാധയേറ്റുള്ള മരണങ്ങളിൽ സമഗ്ര പരിശോധന - Rabies deaths raise concern over treatment procedures kerala Health Department preparing for a comprehensive](https://www.asianetnews.com/kerala-news/rabies-deaths-raise-concern-over-treatment-procedures-kerala-health-department-preparing-for-a-comprehensive-investigation-svtodh) (Asianetnews.com)
-
-- [7-year-old dies of rabies despite getting vaccine in Kerala](https://timesofindia.indiatimes.com/india/7-year-old-dies-of-rabies-despite-getting-vaccine-in-kerala/articleshow/120910373.cms) (The Times of India)
-
-- [Improved effectiveness of vaccination campaigns against rabies by reducing spatial heterogeneity in coverage](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002872) (Plos.org)
-
-- [केरल में चौंकाने वाला केस! वैक्सीन लगने के बाद भी रेबीज से बच्ची की मौत, 1 महीने में 3 मरे](https://www.aajtak.in/india/news/story/kerala-girl-dies-rabies-despite-vaccine-third-child-death-month-lclnt-rptc-2233111-2025-05-05) (Aajtak.in)
-
-- [7-Year-Old Dies Of Rabies Despite Vaccine In Kerala, 3rd Case In Month](https://www.ndtv.com/india-news/7-year-old-dies-of-rabies-despite-vaccine-in-kerala-3rd-case-in-month-8335564) (NDTV News)
-
-## 25-19 (pertussis)
-
-- [TWiV 1216: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1216/) (Microbe.tv)
-
-## 25-19 (mpox)
-
-- [Epidemia de Mpox em Portugal afastada](https://observador.pt/2025/05/10/infecciologista-afasta-hipotese-de-epidemia-de-mpox-em-portugal/) (Observador.pt)
-
-- [Salgın büyüyor! Bir haftada vakalar yüzde 63 arttı](https://www.haber7.com/saglik/haber/3528881-salgin-buyuyor-bir-haftada-vakalar-yuzde-63-artti) (Haber7.com)
-
-- [Maymun çiçeği geri döndü: Bir haftada rekor vaka sayısı açıklandı](https://anlatilaninotesi.com.tr/20250509/maymun-cicegi-geri-dondu-bir-haftada-rekor-vaka-sayisi-aciklandi-1096075679.html) (Anlatilaninotesi.com.tr)
-
-- [TIME100 Health: Nicaise Ndembi](https://time.com/collections/time100-health-2025/7279617/nicaise-ndembi) (Time)
-
-- [Evaluating the safety and efficacy of a smallpox vaccine for preventing mpox](https://www.sciencedaily.com/releases/2025/05/250508112443.htm) (Science Daily)
-
-- [El ECDC registra 289 casos de mpox en la región europea de la OMS durante el último mes](https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-289-casos-mpox-region-europea-oms-ultimo-mes-20250507172204.html) (Infosalus.com)
-
-- [Short communication: Mpox memes, the gift that conceals a blade](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004496) (Plos.org)
-
-- [Bavarian Nordic Awarded Contract Options from the U.S. Government for Production and Supply of Freeze-dried Smallpox/Mpox Vaccines](https://www.globenewswire.com/news-release/2025/05/06/3074717/0/en/Bavarian-Nordic-Awarded-Contract-Options-from-the-U-S-Government-for-Production-and-Supply-of-Freeze-dried-Smallpox-Mpox-Vaccines.html) (GlobeNewswire)
-
-- [Bavarian Nordic er blevet tildelt kontraktoptioner fra den amerikanske regering til produktion og levering af frysetørret koppe- og mpoxvaccine](https://www.globenewswire.com/news-release/2025/05/06/3074717/0/da/Bavarian-Nordic-er-blevet-tildelt-kontraktoptioner-fra-den-amerikanske-regering-til-produktion-og-levering-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html) (GlobeNewswire)
-
-- [Região Norte do Brasil registra casos de mpox](https://veja.abril.com.br/saude/regiao-norte-do-brasil-registra-casos-de-mpox/) (Abril.com.br)
-
-## 25-19 (meningitis)
-
-- [Gripe aviar, meningitis y sarampión: los brotes que amenazan a la salud pública](https://www.latercera.com/nacional/noticia/gripe-aviar-meningitis-y-sarampion-los-brotes-que-amenazan-a-la-salud-publica/) (Latercera.com)
-
-- [Lifetime Greenlights New Original Movie, "Pretty Hurts," Starring Haylie Duff, Sarah Borne, and Kaci Barker Premiering June 28 Brought to You by GSK](http://www.thefutoncritic.com/news/2025/05/09/lifetime-greenlights-new-original-movie-pretty-hurts-starring-haylie-duff-sarah-borne-and-kaci-barker-premiering-june-28-brought-to-you-by-gsk-529310/20250509lifetime01/) (Thefutoncritic.com)
-
-- [Luis Canut, junto a Patricia Pérez, confiesa su realidad tras su enfermedad: 'Vivo más lento'](https://www.hola.com/actualidad/20250506830096/luis-canut-junto-a-patricia-perez-confiesa-su-realidad-tras-su-enfermedad-vivo-mas-lento/) (Hola)
-
-## 25-19 (measles)
-
-- [OPINION: Keep politics out of public health as measles cases rise](https://www.surreynowleader.com/opinion/opinion-keep-politics-out-of-public-health-as-measles-cases-rise-7998091) (Surrey Now-Leader)
-
-- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/news/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?noAds=1&amp;_f=app_share&amp;s=a2&amp;share_destination_id=Mjg0MjI3ODEyLTE3NDY5MTIyNzYxODg%3D) (Newsbreak.com)
-
-- [Measles Cases In The U.S. Just Hit 1,000. RFK Jr. Still Isn't Taking It Seriously.](https://www.huffpost.com/entry/us-measles-cases-1000-rfk-jr-hhs_n_681f8e4be4b0108bb6b70ed3) (HuffPost)
-
-- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.wpxi.com/news/local/us-has-1001-measles-cases-11-states-with-active-outbreaks/JZXUTYNWHZGEJL6F5VGQGTNN3Y/) (WPXI Pittsburgh)
-
-- [The US has 1,001 measles cases, 11 states with active outbreaks](https://www.nbcnewyork.com/news/national-international/united-states-1001-measles-cases-11-states-active-outbreaks/6259192/) (NBC New York)
-
-- [The US has 1,001 measles cases and 11 states with active outbreaks, including Pennsylvania and Ohio](https://www.cbsnews.com/pittsburgh/news/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/) (CBS News)
-
-- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTg0MDQ1NzQ4LTE3NDY4ODM5MzE2MDE%3D&amp;pd=0CSEhoOK&amp;hl=en_US&amp;send_time=1746883931&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_25q1_exp-v8%2Cns_foryou_rank_exp_25q2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-v1) (Newsbreak.com)
-
-- [Port: Tax the unvaccinated](https://www.inforum.com/opinion/columns/port-tax-the-unvaccinated) (INFORUM)
-
-- [Mid-South steel factory site of potential measles exposure](https://www.fox13memphis.com/health/mid-south-steel-factory-site-of-potential-measles-exposure-health-department-says/article_dcb619ec-3a53-4325-a573-1c756dc3a7a4.html) (FOX13 Memphis)
-
-- [Measles Outbreak the Worst in 25 Years With Over 1,000 Cases](https://legalinsurrection.com/2025/05/measles-outbreak-the-worst-in-25-years-with-over-1000-cases/) (Legalinsurrection.com)
-
-- [US surpasses 1,000 measles cases for 1st time in 5 years, CDC data shows](https://6abc.com/post/us-surpasses-1000-measles-cases-1st-time-5-years-cdc-data-shows/16367770/) (WPVI-TV)
-
-- ["Spreading Like Wildfire": Over 1,000 Measles Cases Reported In US](https://www.ndtv.com/world-news/spreading-like-wildfire-over-1-000-measles-cases-reported-in-us-8376150) (NDTV News)
-
-- [Measles outbreaks reported in 11 US states, surpassing 1,000 cases](https://www.abc.net.au/news/2025-05-10/us-measles-outbreak/105277230) (ABC News (AU))
-
-- [Eastern Ontario Health Unit confirms 2 cases of measles](https://www.cbc.ca/news/canada/ottawa/eastern-ontario-health-unit-confirms-2-cases-of-measles-1.7531646) (CBC News)
-
-- [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren | CNN](https://www.cnn.com/2025/05/09/health/measles-outbreak-north-dakota) (CNN)
-
-- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.ksat.com/health/2025/05/09/the-us-has-1001-measles-cases-and-11-states-with-active-outbreaks/) (KSAT San Antonio)
-
-- [The U.S. has 1,001 measles cases and 11 states with active outbreaks](https://www.nbcnews.com/health/kids-health/us-1001-measles-cases-11-states-outbreaks-virus-spreading-rcna205948) (NBC News)
-
-- [Confirmed cases of measles in Alberta now at 326, continue to rise | Globalnews.ca](http://globalnews.ca/news/11172738/confirmed-cases-measles-alberta-326/) (Global News)
-
-- [CDC Issues Measles Update as Number of Cases Grows](https://www.newsweek.com/cdc-measles-update-number-cases-increases-2070404) (Newsweek)
-
-- [The US has 1,001 measles cases and 11 states with active outbreaks](https://www.wsbradio.com/news/health/us-has-1001-measles/X4F3QRPTQVEIBKSLMS5FJVGL2E/) (WSB Radio)
-
-- [Texas measles outbreak: Spread appears to slow in West Texas](https://www.fox4news.com/news/texas-measles-outbreak-may-9) (FOX 4 News)
-
-- [U.S. reports over 1,000 measles cases so far in 2025](https://www.thestar.com.my/news/world/2025/05/10/us-reports-over-1000-measles-cases-so-far-in-2025) (The Star Online)
-
-- [U.S. measles cases top 1,000, raising fears of resurgence | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/05/09/breaking-news/u-s-measles-cases-top-1000-raising-fears-of-resurgence/) (Honolulu Star-Advertiser)
-
-- [US measles cases surpass 1,000. There were 285 total cases in 2024.](https://www.usatoday.com/story/news/health/2025/05/09/measles-cases-2025-states-outbreak-map/83371830007/) (USA Today)
-
-- [Measles math: What to know about 1,001 measles cases across the country](https://www.npr.org/sections/shots-health-news/2025/05/09/nx-s1-5393762/measles-math-what-to-know-about-1-001-measles-cases-across-the-country) (NPR)
-
-- [Measles hits 1,000 cases — for the second time in 30 years (Sophie Gardner/Politico)](https://www.memeorandum.com/250509/p78) (Memeorandum.com)
-
-- [US surpasses 1,000 measles cases for 1st time in 5 years, CDC data shows](https://abc7news.com/post/us-surpasses-1000-measles-cases-1st-time-5-years-cdc-data-shows/16367770/) (KGO-TV)
-
-- [Measles Hits 1,000 Cases](https://politicalwire.com/2025/05/09/measles-hits-1000-cases/) (Politicalwire.com)
-
-- [Measles roars back in the US, topping 1,000 cases](https://timesofindia.indiatimes.com/world/us/measles-roars-back-in-the-us-topping-1000-cases/articleshow/121036913.cms) (The Times of India)
-
-- [Measles Roars Back In The US, Topping 1,000 Cases](https://www.ibtimes.com/measles-roars-back-us-topping-1000-cases-3773080) (International Business Times)
-
-- [Measles Updates: U.S. Cases Pass 1,000 As Texas Outbreak Spreads](https://www.forbes.com/sites/antoniopequenoiv/2025/05/09/measles-updates-us-cases-pass-1000-as-texas-outbreak-spreads/) (Forbes)
-
-- [Measles roars back in the US, topping 1,000 cases](https://www.digitaljournal.com/life/measles-roars-back-in-the-us-topping-1000-cases/article) (Digital Journal)
-
-- [US surpasses 1,000 measles cases for 1st time in 5 years: CDC](https://abcnews.go.com/Health/us-surpasses-1000-measles-cases-1st-time-5/story?id=121635906) (ABC News)
-
-- [An Insider's View of the Texas Measles Outbreak](https://www.npr.org/sections/shots-health-news/2025/05/09/nx-s1-5392323/an-insiders-view-of-the-texas-measles-outbreak) (NPR)
-
-- [Vaccine teams in Mexico scramble over measles outbreak rippling out from Mennonite community](https://abcnews.go.com/International/wireStory/vaccine-teams-mexico-scramble-measles-outbreak-rippling-mennonite-121628033) (ABC News)
-
-- [With measles outbreaks growing in Canada, this mother pleads with parents to vaccinate](https://www.cbc.ca/news/health/measles-complications-1.7530506) (CBC News)
-
-- [Vaccine teams in Mexico scramble over measles outbreak from Mennonite community](https://abcnews.go.com/Health/wireStory/vaccine-teams-mexico-scramble-measles-outbreak-rippling-mennonite-121628034) (ABC News)
-
-- [Experts urge immunization as Alberta measles count passes 300](https://www.cbc.ca/news/canada/calgary/alberta-measles-three-hundred-1.7530648) (CBC News)
-
-- [New Measles Cases Confirmed in New York State](https://www.wktv.com/news/health/new-measles-cases-confirmed-in-new-york-state/article_e98d6c83-6b3c-4a27-91d6-efa310e40013.html) (WKTV)
-
-- [RFK Jr.’s Measles Policy: Deaths Are Expected And It’s The Victim’s Fault](https://www.techdirt.com/2025/05/08/rfk-jr-s-measles-policy-deaths-are-expected-and-its-the-victims-fault/) (Techdirt)
-
-- [Cuyahoga Co. confirms 1st measles case](https://www.cleveland19.com/2025/05/08/cuyahoga-co-confirms-1st-measles-case/) (Cleveland 19 News)
-
-- [Sask. measles cases more than doubled in past week, daily cases likely, chief medical officer says](https://www.cbc.ca/news/canada/saskatoon/chief-medical-officer-measles-case-doubled-week-1.7529945) (CBC News)
-
-- [Ontario reports nearly 200 new measles cases as virus spreads across Canada](https://www.cbc.ca/news/canada/toronto/measles-ontario-200-new-cases-1.7530047) (CBC News)
-
-- [Measles Outbreak Surpasses 1,000 Cases, Second Worst Year Since Declared Eliminated In US](https://dailycaller.com/2025/05/08/measles-outbreak-1000-cases-declared-eliminated-us/) (The Daily Caller)
-
-- [Toronto's Pearson airport: Possible measles exposure prompts health officials to investigate](https://nationalpost.com/news/canada/possible-measles-exposure-pearson) (National Post)
-
-- [Health officials encouraging Manitoba parents to vaccinate children as province hits 20 confirmed cases](https://www.cbc.ca/news/canada/manitoba/health-officials-encourage-measles-vaccination-1.7529117) (CBC News)
-
-- [North Dakota 11th U.S. state with measles outbreak](http://en.people.cn/n3/2025/0508/c90000-20311955.html) (People.cn)
-
-- [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/) (CNET)
-
-- [US surpasses 1,000 measles cases in 2025, second worst year since disease was declared eliminated | CNN](https://www.cnn.com/2025/05/07/health/measles-cases-one-thousand-us) (CNN)
-
-- [North Dakota 11th U.S. state with measles outbreak](https://www.thestar.com.my/news/world/2025/05/08/north-dakota-11th-us-state-with-measles-outbreak) (The Star Online)
-
-- [17 measles cases reported in Oklahoma, health officials say](https://www.news9.com/story/681b86b2aee20ec4b5806dea/oklahoma-measles-cases-grow-to-17-the-update-from-health-officials) (news9.com KWTV)
-
-- [20 cases of measles confirmed in Manitoba, province says](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-number-of-cases-1.7528688) (CBC News)
-
-- [Health minister defends Ontario's response to worsening measles outbreak](https://www.cbc.ca/news/canada/toronto/measles-ontario-response-jones-ford-1.7528656) (CBC News)
-
-- [Global resurgence of measles is a 'wake-up call'](https://www.dw.com/en/global-resurgence-of-measles-is-a-wake-up-call/a-72463486) (DW (English))
-
-- [What's behind the recent measles outbreaks around the world?](https://www.dw.com/en/global-measles-outbreak-vaccination-efforts-v2/a-72463486) (DW (English))
-
-- [Measles could again become widespread as cases surge worldwide](https://theconversation.com/measles-could-again-become-widespread-as-cases-surge-worldwide-255501) (The Conversation Africa)
-
-- [Spike in Winkler-area measles exposures due to low vaccination rates in region, health official says](https://www.cbc.ca/news/canada/manitoba/winkler-measles-vaccination-rates-1.7528339) (CBC News)
-
-- [5 more cases of measles found in western North Dakota, bringing state total to 9](https://www.inforum.com/news/north-dakota/5-more-cases-of-measles-found-in-western-north-dakota-bringing-state-total-to-9) (INFORUM)
-
-- [As measles outbreak slows in West Texas, doctors remain on alert](https://www.nbcnews.com/health/health-news/measles-outbreak-slows-west-texas-doctors-remain-alert-rcna205105) (NBC News)
-
-- [Manitoba health officials warn of possible measles exposure at Dugald School](https://www.cbc.ca/news/canada/manitoba/measles-exposure-elementary-school-may-6-1.7528134) (CBC News)
-
-- [4 charts reveal just how bad the measles outbreak has gotten](https://www.vox.com/vaccines/411756/us-measles-outbreak-cases-deaths-charts) (Vox)
-
-- [Midwestern state reports first measles case since 2011](https://www.foxnews.com/health/midwestern-state-reports-first-measles-case-since-2011) (Fox News)
-
-- [Measles Updates: Texas Outbreak Eclipses 700 Cases](https://www.forbes.com/sites/antoniopequenoiv/2025/05/06/measles-updates-texas-outbreak-eclipses-700-cases/) (Forbes)
-
-- [Texas measles outbreak 2025: Cases surpass 700 since January](https://www.fox4news.com/news/texas-measles-outbreak-2025-may-6-update) (FOX 4 News)
-
-- [Ontario measles cases up by 140 this week, province's top doctor says](https://www.cbc.ca/news/canada/toronto/ontario-measles-cases-up-to-140-top-doctor-says-1.7527759) (CBC News)
-
-- [One case of measles confirmed in Nova Scotia](https://www.cbc.ca/news/canada/nova-scotia/measles-case-robert-strang-1.7527679) (CBC News)
-
-- [East Texas measles cases no longer infectious according to state health officials](https://www.kltv.com/2025/05/06/east-texas-measles-cases-no-longer-infectious-according-state-health-officials/) (KLTV)
-
-- [Vaccine misinformation will lead to more deaths, ousted US scientist tells Sky News](https://news.sky.com/story/these-are-needless-deaths-vaccine-misinformation-will-lead-to-more-deaths-from-measles-outbreak-ousted-us-scientist-tells-sky-news-13362816) (Sky.com)
-
-- [RFK Jr.'s Measles Strategy Is Leading the US Down a Dark Path (Lisa Jarvis/Bloomberg)](https://www.memeorandum.com/250506/p24) (Memeorandum.com)
-
-- [Links 5/6/2025](https://www.nakedcapitalism.com/2025/05/links-5-6-2025.html) (Nakedcapitalism.com)
-
-- [The imbecile RFK Jr. ramping up his war on vaccines, one of the great public health triumphs of the 20th-century](https://leiterreports.typepad.com/blog/2025/05/the-imbecile-rfk-jr-ramping-up-his-war-on-vaccines-one-of-hte-great-public-health-triumphs-of-the-20.html) (Typepad.com)
-
-- [Northwest North Dakota county confirms 4 measles cases](https://www.inforum.com/health/northwest-north-dakota-county-confirms-4-measles-cases) (INFORUM)
-
-- [Do ‘Alternative’ Measles Treatments Touted by RFK Jr. Work?](https://www.scientificamerican.com/article/do-alternative-measles-treatments-touted-by-rfk-jr-work/) (Scientific American)
-
-- [Alberta government beefs up measles defence as cases rival 1980s levels](https://www.cbc.ca/news/canada/calgary/alberta-beefs-up-measles-defence-cases-rival-1980s-levels-1.7526763) (CBC News)
-
-- [Port: Please don't get your public health advice from The Brady Bunch](https://www.inforum.com/opinion/columns/port-please-dont-get-your-public-health-advice-from-the-brady-bunch) (INFORUM)
-
-- [Alberta ramps up measles vaccination campaign as 3 hospitalized in intensive care | Globalnews.ca](http://globalnews.ca/news/11164615/alberta-measles-vaccination-campaign-intensive-care/) (Global News)
-
-- [Missouri Department of Health warns of measles exposure at St. Louis Aquarium](https://www.stltoday.com/news/local/metro/article_0a641381-0dc3-4d97-82ec-955d119bf664.html) (STLtoday.com)
-
-- [North Dakota reports first measles case amid declining vaccination rates](https://www.inforum.com/news/north-dakota/north-dakota-reports-first-measles-case-amid-declining-vaccination-rates) (INFORUM)
-
-- [Health Ministry revises guidelines amid measles cases rise in Israel](https://www.jpost.com/israel-news/article-852661) (The Jerusalem Post)
-
-## 25-19 (malaria)
-
-- [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
-
-- [Goa steps up dengue, malaria prevention ahead of monsoon](https://timesofindia.indiatimes.com/city/goa/goa-steps-up-dengue-malaria-prevention-ahead-of-monsoon/articleshow/121062006.cms) (The Times of India)
-
-- [Why United are wearing a special-edition shirt](https://www.manutd.com/en/news/detail/why-man-utd-are-wearing-a-special-edition-shirt-this-weekend) (Manchester United)
-
-- [Fashionistas and flippers: Africa's top shots](https://www.bbc.com/news/articles/cq69rpn3e31o) (BBC News)
-
-- [Bill Gates haalt uit naar Elon Musk bij verhoging donaties aan goede doelen](https://nos.nl/l/2566579) (Nos.nl)
-
-- [Bill Gates va dona peste de 200 de miliarde de dolari în scopuri caritabile (combaterea bolilor, sărăciei și mortalității infantile). Acesta l-a acuzat pe Elon Musk că “ucide copiii cei mai săraci ai lumii”, din cauza reducerilor drastice a USAID.](https://www.biziday.ro/318868-2/) (Biziday.ro)
-
-- [Malaria Global Clinical Trials Review 2025: G7 & E7, Phase, Trial Status, End Points Status and Sponsor Type Coverage](https://www.globenewswire.com/news-release/2025/05/08/3077440/28124/en/Malaria-Global-Clinical-Trials-Review-2025-G7-E7-Phase-Trial-Status-End-Points-Status-and-Sponsor-Type-Coverage.html) (GlobeNewswire)
-
-- [US cuts aid to Zambia over 'systematic' medicine theft](https://www.bbc.com/news/articles/c1e6pl6302zo) (BBC News)
-
-- [Malarias Schwachstelle: Deutsche Forscher entdecken neues Ziel für Medikamente](https://www.tagesspiegel.de/wissen/malarias-schwachstelle-deutsche-forscher-entdecken-neues-ziel-fur-medikamente-13618261.html) (Der Tagesspiegel)
-
-- [Malaria free China, an academic medicine revolution, and retracted data's impact](https://thebmjpodcast.podbean.com/e/bmj-7th-may/) (Podbean.com)
-
-- [Exploring barriers and facilitators in implementation fidelity of malaria screening intervention at Nepal-India border point-of-entry health desks-A mixed method study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323116) (Plos.org)
-
-- [AI can support malaria diagnosis: BRIN](https://en.antaranews.com/news/354309/ai-can-support-malaria-diagnosis-brin) (Antaranews.com)
-
-- [A malaria-like disease spread by ticks is moving into Delaware, Maryland, and Virginia](http://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/) (Grist)
-
-- [Prabowo Temui Bill Gates, Indonesia Siap Uji Coba Vaksin TBC dan Malaria](https://www.liputan6.com/health/read/6015935/prabowo-temui-bill-gates-indonesia-siap-uji-coba-vaksin-tbc-dan-malaria) (Liputan6.com)
-
-- [Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024](https://wwwnc.cdc.gov/eid/article/31/6/24-1932_article) (Cdc.gov)
-
-- [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
-
-- [Hydroxycloroquine-Pushing COVID Truther Is Back at at the Department of Health and Human Services](https://www.thedailybeast.com/hydroxycloroquine-pushing-covid-truther-is-back-at-at-the-department-of-health-and-human-services/) (Daily Beast)
-
-- [Pharmaceutical firm unveils national competition portal to tackle malaria](https://www.premiumtimesng.com/health/health-news/792248-pharmaceutical-firm-unveils-national-competition-portal-to-tackle-malaria.html) (Premium Times)
-
-- [Malaria outbreak in Kokrajhar: 443 cases reported](https://thehillstimes.in/assam/malaria-outbreak-in-kokrajhar-443-cases-reported) (Thehillstimes.in)
-
-## 25-19 (leptospirosis)
-
-- [Leptospirosis en Taisha: niños reciben el alta en Cuenca](https://www.elmercurio.com.ec/principal/2025/05/08/leptospirosis-taisha-ninos-cuenca/) (Elmercurio.com.ec)
-
-- [Prevenir, la prioridad](https://www.elmercurio.com.ec/editorial/2025/05/07/prevenir-la-prioridad/) (Elmercurio.com.ec)
-
-- [Bacolod Records Second Leptospirosis Death in 2025](https://rpnradio.com/bacolod-records-second-leptospirosis-death-in-2025/) (Rpnradio.com)
-
-## 25-19 (hpai)
-
-- [DA confirms 1st case of H5N9 bird flu strain in PH](https://www.globalsecurity.org/security/library/news/2025/05/sec-250507-pna01.htm) (Globalsecurity.org)
-
-- [【大河原克行の「パソコン業界、東奔西走」】NPU×オンデバイスAIでPCが変わる！日本HPが描く“未来の仕事”と戦略](https://pc.watch.impress.co.jp/docs/column/gyokai/2011665.html) (Impress.co.jp)
-
-- [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
-
-## 25-19 (h5n1)
-
-- [Desconocen fuente de contagio del primer caso de influenza aviar en una niña de Durango](https://www.milenio.com/ciencia-y-salud/gripe-aviar-durango-desconoce-fuente-contagio) (Milenio)
-
-- [Bird flu in cats points to risk of another pandemic](https://phys.org/news/2025-05-bird-flu-cats-pandemic.html) (Phys.Org)
-
-- [“Es como un incendio en pasto seco”: estudio advierte que virus de la gripe aviar sufrió mutación en Chile que aceleró su propagación](https://www.latercera.com/que-pasa/noticia/es-como-un-incendio-en-pasto-seco-estudio-advierte-que-virus-de-la-gripe-aviar-sufrio-mutacion-en-chile-que-acelero-su-propagacion/) (Latercera.com)
-
-- [A Scientist Warned People Against Feeding Their Pets Raw Food. – ‘They may be infected with H5N1.’](http://twistedsifter.com/2025/05/a-scientist-warned-people-against-feeding-their-pets-raw-food-they-may-be-infected-with-h5n1/) (Twistedsifter.com)
-
-- [SK바이오-질병청, 조류독감 백신 개발 착수…국가 방역 시스템 구축 협력](https://zdnet.co.kr/view/?no=20250506130907) (Zdnet.co.kr)
-
-- [Bird Flu Poses A Rising Risk To Humans](https://www.shtfplan.com/headline-news/bird-flu-poses-a-rising-risk-to-humans) (Shtfplan.com)
-
-- [Top Animal Health Experts Address H5N1 Bird Flu in Trupanion Webinar](https://www.globenewswire.com/news-release/2025/05/05/3074084/0/en/Top-Animal-Health-Experts-Address-H5N1-Bird-Flu-in-Trupanion-Webinar.html) (GlobeNewswire)
-
-- [What is H5N1 Virus? How It Spreads to Humans](https://www.ndtv.com/health/what-is-h5n1-virus-how-it-spreads-to-humans-8336264) (NDTV News)
-
-- [Iván Restrepo: Con Trump, EU quedará rezagado](https://www.jornada.com.mx/2025/05/05/politica/015a1pol) (Jornada.com.mx)
-
-- [Veszélyes víruslaboratórium alakulhat ki – erős vészjelzést küldött az EU-s hatóság](https://www.portfolio.hu/gazdasag/20250505/veszelyes-viruslaboratorium-alakulhat-ki-eros-veszjelzest-kuldott-az-eu-s-hatosag-758829) (Portfolio.hu)
-
-- [Genesis and Spread of Novel Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Genotype EA-2023-DG Reassortant, Western Europe](https://wwwnc.cdc.gov/eid/article/31/6/24-1870_article) (Cdc.gov)
-
-## 25-19 (dengue)
-
-- [Fiji added to CDC’s travel alert after surge in dengue fever cases](https://www.foxweather.com/lifestyle/mosquito-health-alert-dengue-fever-fiji) (Foxweather.com)
-
-- [Target sites breeding dengue and malaria vectors: Govt to all depts](https://timesofindia.indiatimes.com/city/goa/target-sites-breeding-dengue-and-malaria-vectors-govt-to-all-depts/articleshow/121064677.cms) (The Times of India)
-
-- [Goa steps up dengue, malaria prevention ahead of monsoon](https://timesofindia.indiatimes.com/city/goa/goa-steps-up-dengue-malaria-prevention-ahead-of-monsoon/articleshow/121062006.cms) (The Times of India)
-
-- [Tenda estará aberta no fim de semana em Porto Alegre para atender pessoas com sintomas de dengue](https://www.terra.com.br/noticias/tenda-estara-aberta-no-fim-de-semana-em-porto-alegre-para-atender-pessoas-com-sintomas-de-dengue,9f5107a0f3931e45aa9c422ae5993f181tujxxwb.html) (Terra.com.br)
-
-- [Mobiles Labor in Mödling entwickelt](https://noe.orf.at/stories/3304212/) (Noe.orf.at)
-
-- [How a Sex-Obsessed Bacteria in Fruit Flies Could Help Stop Zika and Dengue](https://www.discovermagazine.com/planet-earth/how-a-sex-obsessed-bacteria-in-fruit-flies-could-help-stop-zika-and-dengue) (Discover Magazine)
-
-- [US Travel Warning for Popular Cruise Ship Destination](https://www.newsweek.com/us-travel-warning-fiji-popular-cruise-ship-destination-2070332) (Newsweek)
-
-- [$2.14 Bn Dengue Vaccine Market Opportunities and Strategies to 2034, Driven by Government Initiatives and Rising Healthcare Spend Despite Economic Constraints](https://www.globenewswire.com/news-release/2025/05/09/3078068/28124/en/2-14-Bn-Dengue-Vaccine-Market-Opportunities-and-Strategies-to-2034-Driven-by-Government-Initiatives-and-Rising-Healthcare-Spend-Despite-Economic-Constraints.html) (GlobeNewswire)
-
-- [Wolbachia: entenda como funciona método para o controle da dengue](https://www.metropoles.com/saude/wolbachia-como-funciona-dengue) (Metropoles.com)
-
-- [Aziatische tijgermuggen gesignaleerd rond Gent: “Ze kunnen ziektes overdragen”](https://www.nieuwsblad.be/cnt/dmf20250508_95103574) (Nieuwsblad.be)
-
-- [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [Article]](https://rnajournal.cshlp.org/content/early/2025/05/08/rna.080342.124.short?rss=1) (Cshlp.org)
-
-- [Rentokil gaat tijgermug preventief bestrijden in Wilrijk en Wijnegem](https://www.nieuwsblad.be/cnt/dmf20250508_94308379) (Nieuwsblad.be)
-
-- [Máfia vende atestados médicos falsos de UPAs a partir de R$ 30](https://www.metropoles.com/brasil/mafia-vende-atestados-medicos-falsos-de-upas-a-partir-de-r-30) (Metropoles.com)
-
-- [Intuitive At-Home Medical Tests - This Dengue Home Test Kit Concept Helps with Early Detection (TrendHunter.com)](https://www.trendhunter.com/trends/dengue-home-test-kit) (Trendhunter.com)
-
-- [Why south-east Asia must lead the fight against neglected tropical diseases](https://theconversation.com/why-south-east-asia-must-lead-the-fight-against-neglected-tropical-diseases-255640) (The Conversation Africa)
-
-- [Dengue trasmessa da zanzare tigre, disinfestazione nel Pisano](https://www.ansa.it/toscana/notizie/2025/05/07/dengue-trasmessa-da-zanzare-tigre-disinfestazione-nel-pisano_5431a2f8-0641-4852-9d36-2e4ef1ae7ddd.html) (ANSA.it)
-
-- [Dengue cases rise in Karnataka ahead of monsoon, with Bengaluru worst-hit](https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-rise-in-karnataka-ahead-of-monsoon-with-bengaluru-worst-hit/articleshow/120940825.cms) (The Times of India)
-
-- [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
-
-- [Dengue home test kit concept can help with early detection and medical intervention](https://www.yankodesign.com/2025/05/06/dengue-home-test-kit-concept-can-help-with-early-detection-and-medical-intervention/) (Yanko Design)
-
-- [Los expertos avisan de que la próxima pandemia será por gripe: es necesario aprobar la especialidad de enfermedades infecciosas](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13350336/05/25/los-expertos-avisan-de-que-la-proxima-pandemia-sera-por-gripe-es-necesario-aprobar-la-especialidad-de-enfermedades-infecciosas.html) (Eleconomista.es)
-
-- [Meghalt Millena Brandão, a Netflix 11 éves gyerekszínésze](https://www.origo.hu/teve/2025/05/millena-brandao-halal) (Origo.hu)
-
-- [Mãe lamenta morte da filha por dengue: “Nem nos meus piores sonhos”](https://www.metropoles.com/brasil/mae-lamenta-morte-da-filha-por-dengue-nem-nos-meus-piores-sonhos) (Metropoles.com)
-
-- [Trehalose supports the growth of Aedes aegypti cells and modifies gene expression and dengue virus type 2 replication](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012795) (Plos.org)
-
-- [Comprehensive intra-host infection kinetics reveals high arbo-orthoflavivirus transmission potential by neglected vector species, Aedes scutellaris](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012530) (Plos.org)
-
-- [Pets pegam dengue?](https://www.terra.com.br/noticias/pets-pegam-dengue,888ab3fad4c5033d807c69ef4e4040d49a9ewi3q.html) (Terra.com.br)
-
-- [Kolaborasi Daerah Jadi Kunci Tangkal Lonjakan Kasus Dengue](https://www.liputan6.com/health/read/6013644/kolaborasi-daerah-jadi-kunci-tangkal-lonjakan-kasus-dengue) (Liputan6.com)
-
-## 25-19 (chikungunya)
-
-- [FDA and CDC Recommend Pause in Use of Ixchiq (Chikungunya Vaccine, Live) in Individuals 60 Years of Age and Older While Postmarketing Safety Reports are Investigated](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-and-cdc-recommend-pause-use-ixchiq-chikungunya-vaccine-live-individuals-60-years-age-and-older) (FDA.gov)
-
-- [La Réunion : Une deuxième personne est décédée après avoir été vaccinée contre le chikungunya](https://www.20minutes.fr/sante/4152651-20250509-reunion-deuxieme-personne-decedee-apres-avoir-vaccinee-contre-chikungunya) (20 Minutes)
-
-- [Vaccin contre le chikungunya : un deuxième décès à La Réunion, signale l’Agence européenne du médicament](https://www.francetvinfo.fr/sante/maladie/chikungunya/vaccin-contre-le-chikungunya-un-deuxieme-deces-a-la-reunion-signale-l-agence-europeenne-du-medicament_7237272.html) (Francetvinfo.fr)
-
-- [Aziatische tijgermuggen gesignaleerd rond Gent: “Ze kunnen ziektes overdragen”](https://www.nieuwsblad.be/cnt/dmf20250508_95103574) (Nieuwsblad.be)
-
-- [Rentokil gaat tijgermug preventief bestrijden in Wilrijk en Wijnegem](https://www.nieuwsblad.be/cnt/dmf20250508_94308379) (Nieuwsblad.be)
-
-- [La EMA investiga la vacuna 'Ixchiq' contra la chikungunya tras tener efectos graves en personas mayores](https://www.abc.es/sociedad/ema-investiga-vacuna-ixchiq-chikungunya-tras-tener-20250507184120-nt.html) (Www.abc.es)
-
-- [Súlyos mellékhatások és halálesetek miatt felfüggesztettek egy új vakcinát](https://www.portfolio.hu/gazdasag/20250507/sulyos-mellekhatasok-es-halalesetek-miatt-felfuggesztettek-egy-uj-vakcinat-759593) (Portfolio.hu)
-
-- [Conclave, chikungunya à la Réunion, «briseurs de grève» à la SNCF… L’actu de ce mercredi 7 mai](https://www.liberation.fr/international/europe/conclave-chikungunya-a-la-reunion-briseurs-de-greve-a-la-sncf-lactu-de-ce-mercredi-7-mai-20250507_RL646B4IL5GLVKAGHAA4QLKKFY/) (Libération)
-
-- [Valneva Provides Update Following European Medicines Agency Announcement on Use of IXCHIQ® in Elderly](https://www.globenewswire.com/news-release/2025/05/07/3076377/0/en/Valneva-Provides-Update-Following-European-Medicines-Agency-Announcement-on-Use-of-IXCHIQ-in-Elderly.html) (GlobeNewswire)
-
-- [Chikungunya à la Réunion : 12 morts depuis le début de l’année, selon Santé publique France](https://www.liberation.fr/societe/sante/chikungunya-a-la-reunion-12-morts-depuis-le-debut-de-lannee-selon-sante-publique-france-20250507_45WUG7T5MJFNZIBHVNUXPCENFA/) (Libération)
-
-- [Le bilan de l'épidémie de chikungunya à la Réunion est désormais de 12 morts depuis le début de l'année, selon Santé publique France](https://www.francetvinfo.fr/sante/maladie/chikungunya/le-bilan-de-l-epidemie-de-chikungunya-a-la-reunion-est-desormais-de-12-morts-depuis-le-debut-de-l-annee-selon-sante-publique-france_7233234.html) (Francetvinfo.fr)
-
-- [A la Réunion, douze morts « liées au chikungunya » depuis le début de l’année, selon Santé publique France, qui évoque une tendance à la décrue de l’épidémie](https://www.lemonde.fr/outre-mer/article/2025/05/07/a-la-reunion-douze-morts-liees-au-chikungunya-depuis-le-debut-de-l-annee-selon-sante-publique-france-qui-evoque-une-tendance-a-la-decrue-de-l-epidemie_6603818_1840826.html) (Le Monde)
-
-- [How to avoid ticks and mosquitoes](https://www.futurity.org/how-to-avoid-ticks-mosquitoes-3280172/) (Futurity: Research News)
-
-- [Chikungunya On Rise In Maharashtra: Follow These Tips For Fast Recovery](https://www.ndtv.com/health/chikungunya-on-rise-in-maharashtra-follow-these-tips-for-fast-recovery-8344892) (NDTV News)
-
-- [Assessing chikungunya’s economic burden and impact on health-related quality of life: Two systematic literature reviews](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012990) (Plos.org)
