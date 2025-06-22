@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-06-22 07:07",
-  "count_articles_total": 1077,
-  "count_articles_new": 8,
+  "last_updated": "2025-06-22 19:06",
+  "count_articles_total": 1082,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 22264,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Rebecka Rosengart",
+      "title": "Klappade hund p\u00e5 semestern \u2013 dog",
+      "description": "Brittiska Yvonne Ford har d\u00f6tt i rabies efter att ha smittats under en semester i Marocko. Det d\u00f6dliga viruset \u00f6verf\u00f6rdes via kontakt med en l\u00f6s hund, enligt brittiska myndigheter.",
+      "url": "https://www.aftonbladet.se/nyheter/a/rP6170/klappade-hund-pa-semester-i-marocko-dog-i-rabies",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/1f79b67a-7b8f-4272-a2c1-0a1427bd8c38?fit=crop&format=auto&h=512&q=50&w=977&s=bae6a3993d4d9e088f7e29261d114c8b09a08d27",
+      "publishedAt": "2025-06-21 18:36:57",
+      "content": "Yvonne dog efter att ha smittats av d\u00f6dliga viruset n\u00e4r hon klappade en hund under semestern i Marocko. check Kan till en b\u00f6rjan likna influensacheck Expertens r\u00e5d",
+      "retrievedAt": "2025-06-22 19:05:57.582695",
+      "internal_id": "1084fc491dd9340395bb7ab3f590f88e9f687b483572efbf8342e0090bb362f1",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22269,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "American Society for Microbiology",
+      "title": "With AI, researchers find increasing immune evasion in H5N1",
+      "description": "The H5N1 avian influenza virus has infected birds and mammals around the world. As of June 2025, 70 people have been infected, and one person has died in the United States. A new analysis suggests that the virus is evolving clever strategies.",
+      "url": "https://phys.org/news/2025-06-ai-immune-evasion-h5n1.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-h5n1.jpg",
+      "publishedAt": "2025-06-21 17:00:02",
+      "content": "The H5N1 avian influenza virus has infected birds and mammals around the world. As of June 2025, 70 people have been infected, and one person has died in the United States. A new analysis suggests th\u2026 [+3044 chars]",
+      "retrievedAt": "2025-06-22 19:05:59.039577",
+      "internal_id": "c00d504752a26b13741216a92974b733653bc3a6a958fa64d78f4e303e8722a4",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22270,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Middle-aged man in Cambodia dies of H5N1 bird flu",
+      "description": "A 52-year-old man from southeastern Cambodia's Svay Rieng province had died of H5N1 human avian influenza, becoming the fifth human death from the virus so far this year. Read full story",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/21/middle-aged-man-in-cambodia-dies-of-h5n1-bird-flu",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/06/21/3378661.jpg",
+      "publishedAt": "2025-06-21 14:48:00",
+      "content": "PHNOM PENH (Bernama-Xinhua): A 52-year-old man from southeastern Cambodia's Svay Rieng province had died of H5N1 human avian influenza, becoming the fifth human death from the virus so far this year.\u2026 [+702 chars]",
+      "retrievedAt": "2025-06-22 19:05:59.047140",
+      "internal_id": "f6483db791ea2e1bdcbdd771800dd38be042a7855bc7432ab5ceb9e8c1198b78",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22272,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.co",
+      "author": "Jimmy Pepinosa",
+      "title": "Para Bill Gates el fin de la malaria est\u00e1 cerca gracias al desarrollo de estos avances cient\u00edficos",
+      "description": "En un an\u00e1lisis publicado en su blog personal Gates Notes, el cofundador de Microsoft, Bill Gates, afirm\u00f3 que el mundo est\u00e1 cerca de contar con las herramientas necesarias para erradicar la malaria, una enfermedad transmitida por mosquitos que a\u00fan cobra la vid\u2026",
+      "url": "https://www.xataka.com.co/medicina-y-salud/para-bill-gates-fin-malaria-esta-cerca-gracias-al-desarrollo-estos-avances-cientificos",
+      "urlToImage": "https://i.blogs.es/25374b/upscalemedia-transformed-7-/840_560.jpeg",
+      "publishedAt": "2025-06-21 14:33:32",
+      "content": "En un an\u00e1lisis publicado en su blog personal Gates Notes, el cofundador de Microsoft, Bill Gates, afirm\u00f3 que el mundo est\u00e1 cerca de contar con las herramientas necesarias para erradicar la malaria, u\u2026 [+4637 chars]",
+      "retrievedAt": "2025-06-22 19:06:00.551440",
+      "internal_id": "c2a2797431b444a440ed55053e0854b898eb6aebbf248337975f63a699a6b539",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22273,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Agyev\u0151 am\u0151ba, mal\u00e1ria, zika \u2013 nem kell f\u00e9lni az utaz\u00e1st\u00f3l, de az \u00f3vatoss\u00e1g nem \u00e1rt",
+      "description": "Egyre t\u00f6bb egzotikus \u00e9s hazai betegs\u00e9g terjed, amelyeket ak\u00e1r egy nyaral\u00e1s alkalm\u00e1val is elkaphatunk. Fert\u0151z\u00e9s utaz\u00e1s k\u00f6zben is k\u00f6nnyen megt\u00f6rt\u00e9nhet \u2013 f\u0151leg, ha nem k\u00e9sz\u00fcl\u00fcnk fel r\u00e1\u2013 figyelmeztet dr. Kecsk\u00e9s Borb\u00e1la infektol\u00f3gus a duol.hu-nak adott interj\u00faban.",
+      "url": "https://www.origo.hu/itthon/2025/06/fertozes-utazas-kozbe",
+      "urlToImage": "https://cdn.origo.hu/2025/06/hw2i3Puk9NaNL0B96blghpQ-ZwamywKyq_YasNSDaGk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzY0NDBhNTU3OTRlYzRlZTU5OTU1NTYyNzhjMmNiMDA1.webp",
+      "publishedAt": "2025-06-21 13:22:44",
+      "content": "Az \u00e9rsek\u00fajv\u00e1ri kisfi\u00fa tragikus hal\u00e1la ut\u00e1n, akit egy agyev amba fertz\u00f6tt meg, m\u00e9g nagyobb hangs\u00falyt kap a tudatoss\u00e1g. A szakember szerint nem kell f\u00e9lni az utaz\u00e1st\u00f3l, de az \u00f3vatoss\u00e1g elengedhetetlen \u2026 [+1077 chars]",
+      "retrievedAt": "2025-06-22 19:06:00.844619",
+      "internal_id": "bccb93dd7e70513122a9557a5b70a15dfc4230e87dd2411419fa4e01e83ac628",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22271,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Jess Cockerill",
+      "title": "Compound That Turns People Yellow Could Protect Against Malaria",
+      "description": "In cases of a condition called jaundice, a compound called bilirubin turns a person's skin and eyes yellow.",
+      "url": "https://www.sciencealert.com/compound-that-turns-people-yellow-could-protect-against-malaria",
+      "urlToImage": "https://www.sciencealert.com/images/2025/06/jaundice.jpg",
+      "publishedAt": "2025-06-21 13:00:28",
+      "content": "In cases of a condition called jaundice, a compound called bilirubin turns a person's skin and eyes yellow. It's usually a sign that something has gone terribly wrong with the liver. But while jaund\u2026 [+3398 chars]",
+      "retrievedAt": "2025-06-22 19:06:00.509043",
+      "internal_id": "f8199fb7ca47ad42ec849bca3faf0e625b80fb6dae651985b53aca096c51199d",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22266,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles 'out of control,' experts warn, as Alberta case counts surpass 1,000",
+      "description": "Alberta's measles outbreaks have now eclipsed the 1,000 case milestone and infectious diseases specialists are warning the virus is likely \"impossible to contain,\" given the current level of transmission.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-cases-pass-1000-1.7567488",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1750463325!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-21 10:00:00",
+      "content": "Alberta's measles outbreaks have now eclipsed the 1,000-case mark and infectious disease specialists are warning the virus is \"impossible to contain,\" given the current level of transmission. The pr\u2026 [+3947 chars]",
+      "retrievedAt": "2025-06-22 19:05:58.369547",
+      "internal_id": "b8f362da60e6b154f4a435396a29f26803a6eeb4ec501576646142ccbd3732c1",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22267,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Olivia Lynott",
+      "title": "Urgent warning to Irish holidaymakers about measles outbreaks in European countries",
+      "description": "Irish families heading to European holiday destinations this summer have been warned of large measles outbreaks. France, Spain, Romania and the Netherlands have all seen outbreaks as well the US, Canada, Vietnam, Cambodia and the Philippines.",
+      "url": "https://www.independent.ie/irish-news/urgent-warning-to-irish-holidaymakers-about-measles-outbreaks-in-european-countries/a524180625.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/oLHUsBdiCFcrcloJg6_JjVDArmo=/60x0:735x450/629x0/prod-mh-ireland/9a8b4085-979a-4153-8d63-a6b099fafee6/d2ac2435-68c4-4c65-a043-87102e14431a/video/video.jpg",
+      "publishedAt": "2025-06-21 08:37:14",
+      "content": "Irish families heading to European holiday destinations this summer have been warned of large measles outbreaks. France, Spain, Romania and the Netherlands have all seen outbreaks as well the US, Can\u2026 [+42 chars]",
+      "retrievedAt": "2025-06-22 19:05:58.421794",
+      "internal_id": "66610a287fa7db934f6d2a805eb1716bbddc3ecc9cd4f2bbf174fb661c4eafd9",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22265,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "National vaccine registry needed amid measles resurgence, Canada's outgoing top doctor says",
+      "description": "As Dr. Theresa Tam retires from her role as Canada\u2019s chief public health officer, she says there\u2019s an urgent need for a national vaccine registry to help prevent and manage crises like the resurgence of measles that the country is now facing.",
+      "url": "https://www.cbc.ca/radio/whitecoat/theresa-tam-national-vaccine-registry-1.7566745",
+      "urlToImage": "https://i.cbc.ca/1.5716280.1750455142!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/cda-covid-20200908.JPG?im=Resize%3D620",
+      "publishedAt": "2025-06-21 08:00:00",
+      "content": "As Dr. Theresa Tam retires as Canada's top doctor, she's calling for a national vaccine registry. Tam says the COVID-19 pandemic, which began in early 2020 and killed at least 60,000 Canadians, show\u2026 [+8332 chars]",
+      "retrievedAt": "2025-06-22 19:05:58.345104",
+      "internal_id": "ddd67f626a0bf5a7ff6bf6c908b3c15cc8bcde6331bd34f0d4bd8b718dc38b2a",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22268,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Simone Cordeiro",
+      "title": "Gripe avi\u00e1ria pode afetar humanos?",
+      "description": "Descubra se a gripe avi\u00e1ria pode afetar humanos, quais os riscos de transmiss\u00e3o e o que dizem os especialistas sobre o avan\u00e7o do v\u00edrus. O post Gripe avi\u00e1ria pode afetar humanos? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/06/21/medicina-e-saude/gripe-aviaria-pode-afetar-humanos/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/05/Design-sem-nome-22-scaled.jpg",
+      "publishedAt": "2025-06-21 07:20:00",
+      "content": "A gripe avi\u00e1ria, causada pelo v\u00edrus Influenza H5N1, tem sido motivo de preocupa\u00e7\u00e3o global devido ao seu impacto na sa\u00fade animal e ao risco potencial de transmiss\u00e3o para humanos. Embora a infec\u00e7\u00e3o e\u2026 [+2746 chars]",
+      "retrievedAt": "2025-06-22 19:05:59.010016",
+      "internal_id": "38dec61e751df2c21593edd8375d0dfbcf9b878933f1252ec931f2085927b4a7",
+      "publishedAtLabel": "Jun 21"
+    },
     {
       "id": 22258,
       "query": [
@@ -19353,96 +19533,6 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21187,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Simon Little",
-      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
-      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
-      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2025-05-11 18:35:34",
-      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.481516",
-      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21238,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Mercy Kahenda",
-      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
-      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
-      "publishedAt": "2025-05-11 14:30:14",
-      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
-      "retrievedAt": "2025-05-14 07:07:58.746120",
-      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21184,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Viconsortium.com",
-      "author": null,
-      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
-      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
-      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
-      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
-      "publishedAt": "2025-05-11 11:50:10",
-      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.456169",
-      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21171,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "author": "Danvictor Munene",
-      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
-      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
-      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
-      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
-      "publishedAt": "2025-05-11 09:21:11",
-      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.859398",
-      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21170,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Chip.com.tr",
-      "author": "Levent \u00d6zt\u00fcrk",
-      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
-      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
-      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
-      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
-      "publishedAt": "2025-05-11 08:23:41",
-      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.454665",
-      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]

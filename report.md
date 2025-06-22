@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-06-22 07:07
-- **Most recent article:** 2025-06-21 06:01:49
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-06-22 19:06
+- **Most recent article:** 2025-06-21 18:36:57
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 75 | 77 | 68 | 90 | 48 | 28 | 386 |
+| measles | 72 | 77 | 68 | 90 | 48 | 31 | 386 |
 | dengue | 24 | 26 | 28 | 25 | 14 | 15 | 132 |
-| h5n1 | 21 | 46 | 36 | 9 | 5 | 6 | 123 |
-| malaria | 11 | 35 | 17 | 16 | 19 | 20 | 118 |
+| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 125 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 22 | 120 |
 | mpox | 18 | 11 | 19 | 15 | 24 | 11 | 98 |
 | chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 96 |
-| rabies | 3 | 6 | 9 | 6 | 6 | 18 | 48 |
-| zika | 3 | 10 | 9 | 7 | 2 | 13 | 44 |
-| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 27 |
+| rabies | 3 | 6 | 9 | 6 | 6 | 19 | 49 |
+| zika | 3 | 10 | 9 | 7 | 2 | 14 | 45 |
+| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 26 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 14 |
 | hpai | 1 | 2 | 1 | 3 | 1 | 1 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-25 (zika)
+
+- [Agyevő amőba, malária, zika – nem kell félni az utazástól, de az óvatosság nem árt](https://www.origo.hu/itthon/2025/06/fertozes-utazas-kozbe) (Origo.hu)
 
 - [Two Zika virus cases confirmed in Woodlands; pregnant women advised to take precautions](https://economictimes.indiatimes.com/news/international/singapore/two-zika-virus-cases-confirmed-in-woodlands-pregnant-women-advised-to-take-precautions/articleshow/121945797.cms) (The Times of India)
 
@@ -66,6 +68,8 @@ Source: [News API](https://newsapi.org/)
 - [Epidemiologic and Genomic Investigation of Sexually Transmitted Shigella sonnei, England](https://wwwnc.cdc.gov/eid/article/31/7/24-1584_article) (Cdc.gov)
 
 ## 25-25 (rabies)
+
+- [Klappade hund på semestern – dog](https://www.aftonbladet.se/nyheter/a/rP6170/klappade-hund-pa-semester-i-marocko-dog-i-rabies) (Aftonbladet.se)
 
 - [Rabies: is it a danger in the UK?](https://theweek.com/health/rabies-is-it-a-danger-in-the-uk) (The Week Magazine)
 
@@ -139,6 +143,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (measles)
 
+- [Measles 'out of control,' experts warn, as Alberta case counts surpass 1,000](https://www.cbc.ca/news/canada/calgary/alberta-measles-cases-pass-1000-1.7567488) (CBC News)
+
+- [Urgent warning to Irish holidaymakers about measles outbreaks in European countries](https://www.independent.ie/irish-news/urgent-warning-to-irish-holidaymakers-about-measles-outbreaks-in-european-countries/a524180625.html) (Independent.ie)
+
+- [National vaccine registry needed amid measles resurgence, Canada's outgoing top doctor says](https://www.cbc.ca/radio/whitecoat/theresa-tam-national-vaccine-registry-1.7566745) (CBC News)
+
 - [Alberta has become the second Canadian province, after Ontario, to cross more than 1,000 confirmed measles cases in 2025](https://economictimes.indiatimes.com/news/international/canada/alberta-has-become-the-second-canadian-province-after-ontario-to-cross-more-than-1000-confirmed-measles-cases-in-2025/articleshow/121987906.cms) (The Times of India)
 
 - [Urgent warning to Irish holidaymakers about measles outbreaks in European countries](https://www.independent.ie/irish-news/urgent-warning-to-irish-holidaymakers-about-measles-outbreaks-in-european-countries/a1746150816.html) (Independent.ie)
@@ -197,6 +207,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-25 (malaria)
 
+- [Para Bill Gates el fin de la malaria está cerca gracias al desarrollo de estos avances científicos](https://www.xataka.com.co/medicina-y-salud/para-bill-gates-fin-malaria-esta-cerca-gracias-al-desarrollo-estos-avances-cientificos) (Xataka.com.co)
+
+- [Compound That Turns People Yellow Could Protect Against Malaria](https://www.sciencealert.com/compound-that-turns-people-yellow-could-protect-against-malaria) (ScienceAlert)
+
 - [Seven malaria cases reported in Chitwan over past year](https://english.khabarhub.com/2025/20/478978/) (Khabarhub.com)
 
 - [Can Improving Taxation In Africa Help Meet Health Needs?](https://www.forbes.com/sites/christinero/2025/06/20/can-improving-taxation-in-africa-help-fill-health-needs/) (Forbes)
@@ -242,6 +256,12 @@ Source: [News API](https://newsapi.org/)
 - ["기후 위기 속 식탁 지켜라"…‘애그테크’ 주목↑](https://zdnet.co.kr/view/?no=20250618172544) (Zdnet.co.kr)
 
 ## 25-25 (h5n1)
+
+- [With AI, researchers find increasing immune evasion in H5N1](https://phys.org/news/2025-06-ai-immune-evasion-h5n1.html) (Phys.Org)
+
+- [Middle-aged man in Cambodia dies of H5N1 bird flu](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/21/middle-aged-man-in-cambodia-dies-of-h5n1-bird-flu) (The Star Online)
+
+- [Gripe aviária pode afetar humanos?](https://olhardigital.com.br/2025/06/21/medicina-e-saude/gripe-aviaria-pode-afetar-humanos/) (Olhardigital.com.br)
 
 - [Попова отметила возможный риск новой пандемии из-за гриппа птиц](https://www.interfax.ru/russia/1032444) (Interfax.ru)
 
@@ -2127,8 +2147,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
-- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
-
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2275,12 +2293,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
-- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
-
-- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
-
-- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
-
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2354,8 +2366,6 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
-
-- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 
