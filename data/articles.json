@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-06-22 19:06",
-  "count_articles_total": 1082,
-  "count_articles_new": 10,
+  "last_updated": "2025-06-23 07:08",
+  "count_articles_total": 1091,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 22274,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Thesouthfirst.com",
+      "author": "Sumit Jha",
+      "title": "Interview: What is hurting rabies prevention? Vaccine maker has answers",
+      "description": "Khushboo Daga of VINS Bioproducts highlights the gap and India\u2019s crucial role in global immunization efforts.",
+      "url": "https://thesouthfirst.com/health/interview-what-is-hurting-rabies-prevention-vaccine-maker-has-answers/",
+      "urlToImage": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2025/06/VINS-Bioproducts.jpg",
+      "publishedAt": "2025-06-22 04:58:31",
+      "content": "Khushboo Daga, CEO of VINS Bioproducts Ltda key supplier of equine-derived immunoglobulinsemphasizes the urgent need for wider RIG access. VINS supports Indias immunization programs and exports to 10\u2026 [+14848 chars]",
+      "retrievedAt": "2025-06-23 07:08:49.303733",
+      "internal_id": "06af5b49afd1e73d883b5750ae1cd6d7293c47c48420c1e8eae7c98b9e1a4f88",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 22275,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Jo\u00e3o Velozo",
+      "title": "Quais testes detectam a dengue no corpo humano?",
+      "description": "Descubra quais testes para dengue existem, como funcionam e por que s\u00e3o essenciais para o diagn\u00f3stico precoce e o controle da doen\u00e7a no Brasil. O post Quais testes detectam a dengue no corpo humano? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/06/21/medicina-e-saude/quais-testes-detectam-a-dengue-no-corpo-humano/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/04/Mosquito-da-dengue.png",
+      "publishedAt": "2025-06-21 23:20:00",
+      "content": "A dengue\u00e9 uma das doen\u00e7as virais mais preocupantes no Brasil e em diversas regi\u00f5es tropicais do mundo. Transmitida pelo mosquito Aedes aegypti, a infec\u00e7\u00e3o foi diagnosticada oficialmente no Brasil p\u2026 [+6151 chars]",
+      "retrievedAt": "2025-06-23 07:08:50.495564",
+      "internal_id": "6979e550420386b97e91f0e0e795f8ec68685f98facf6de4b5882ee295ae7758",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22276,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "FAZLEENA AZIZ",
+      "title": "Turning to nature to fight dengue",
+      "description": "PETALING JAYA: A nature-based method of controlling the spread of the dengue virus has shown to be the most effective strategy in curbing dengue fever, says an expert as the scourge surges worldwide and medical authorities bank on new vaccines and drug treatm\u2026",
+      "url": "https://www.thestar.com.my/news/nation/2025/06/22/turning-to-nature-to-fight-dengue",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/06/22/3378676.jpg",
+      "publishedAt": "2025-06-21 23:00:00",
+      "content": "Using Wolbachia bacteria most effective method to tackle virus, says expert PETALING JAYA: A nature-based method of controlling the spread of the dengue virus has shown to be the most effective stra\u2026 [+3615 chars]",
+      "retrievedAt": "2025-06-23 07:08:50.519710",
+      "internal_id": "36335085134549c3f6f571d79dd4f6f3a099ed4bc5d2a86dc6a00ef7a1305091",
+      "publishedAtLabel": "Jun 21"
+    },
+    {
+      "id": 22277,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Verdaderofalso",
+      "title": "\u00c1frica : La suspensi\u00f3n de USAID amenaza el programa estrella contra la malaria, capaz de evitar 100.000 muertes y 13 millones de casos en un a\u00f1o",
+      "description": "En medio de la incertidumbre por el futuro de la iniciativa que se ejecuta en \u00c1frica desde 2005, \u2018The Lancet\u2019 publica un estudio en el que cuantifica los beneficios de invertir en mosquiteras con insecticida, tratamientos, fumigaciones y prevenci\u00f3n para comba\u2026",
+      "url": "https://www.meneame.net/m/actualidad/africa-suspension-usaid-amenaza-programa-estrella-contra-malaria",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4070804&version=0&ts=1750540146&image.webp",
+      "publishedAt": "2025-06-21 20:55:56",
+      "content": "",
+      "retrievedAt": "2025-06-23 07:08:51.253098",
+      "internal_id": "bd168ad5e2791ab64e8f8c1ebac2ef490f267d512f885ff66fb0473064ed5815",
+      "publishedAtLabel": "Jun 21"
+    },
     {
       "id": 22264,
       "query": [
@@ -19533,6 +19605,96 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Simon Little",
+      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
+      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
+      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-05-11 18:35:34",
+      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.481516",
+      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21238,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
+      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
+      "publishedAt": "2025-05-11 14:30:14",
+      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.746120",
+      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Viconsortium.com",
+      "author": null,
+      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
+      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
+      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
+      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
+      "publishedAt": "2025-05-11 11:50:10",
+      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.456169",
+      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21171,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
+      "author": "Danvictor Munene",
+      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
+      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
+      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
+      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
+      "publishedAt": "2025-05-11 09:21:11",
+      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.859398",
+      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21170,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Chip.com.tr",
+      "author": "Levent \u00d6zt\u00fcrk",
+      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
+      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
+      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
+      "publishedAt": "2025-05-11 08:23:41",
+      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.454665",
+      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]
