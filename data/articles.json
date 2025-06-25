@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-06-25 07:08",
-  "count_articles_total": 1112,
-  "count_articles_new": 4,
+  "last_updated": "2025-06-25 19:05",
+  "count_articles_total": 1120,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 22299,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "The Problem with Americans and the \"Finding Out\" Part (Jonathan V. Last/The Bulwark)",
+      "description": "Jonathan V. Last / The Bulwark: The Problem with Americans and the \u201cFinding Out\u201d Part \u2014 An anti-vaxxer in Texas almost died from measles. Real doctors saved his life. After that, he got even *more* redpilled. Plus: A Mamdani win in NYC could have uninten\u2026",
+      "url": "https://www.memeorandum.com/250624/p103",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!FXS_!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8946dbd2-c7be-4a8e-9855-48e9f7e3ae0b_6664x4108.jpeg",
+      "publishedAt": "2025-06-24 18:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-06-25 19:05:53.237028",
+      "internal_id": "cb4778baa700d3ad93b674a535c23c0826fe24716e2952a15be44a2fab9a8de6",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22309,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Chikungunya : deux cas autochtones d\u00e9tect\u00e9s en Corse, les premiers sur l\u2019\u00eele",
+      "description": "Moins de deux semaines apr\u00e8s les deux premiers cas dans l\u2019Hexagone, les deux nouvelles infections ont \u00e9t\u00e9 d\u00e9tect\u00e9es ce week-end dans la commune de Grosseto-Prugna (Corse-du-Sud), a fait savoir ce mardi 24 juin l\u2019Agence r\u00e9gionale de sant\u00e9.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-deux-cas-autochtones-detectes-en-corse-les-premiers-sur-lile-20250624_42KW6PLENJGOLHPLFIF2Z6JQB4/",
+      "urlToImage": "https://www.liberation.fr/resizer/w070PZpZaKRHjjMq6S8pKI4PiiE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/UUQT5PJ5MNHETO2U2HMSJYAQ7E.jpg",
+      "publishedAt": "2025-06-24 15:13:02",
+      "content": "Et de quatre. Deux cas autochtones suppl\u00e9mentaires de chikungunya ont \u00e9t\u00e9 relev\u00e9s ce week-end en France, cette fois dans le sud de la Corse, non loin dAjaccio. \u00abIl sagit de deux cas dune m\u00eame famille\u2026 [+2285 chars]",
+      "retrievedAt": "2025-06-25 19:05:56.365174",
+      "internal_id": "2c14266d8503e01e8b1b6473b67354ed1361a40f9cd96573ebcc24c1b5c85c18",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22311,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Corse : deux cas autochtones de chikungunya d\u00e9tect\u00e9s",
+      "description": "Deux personnes issues d'une m\u00eame famille ont \u00e9t\u00e9 contamin\u00e9es par le chikungunya, sans voyager \u00e0 l'\u00e9tranger.",
+      "url": "https://www.ledauphine.com/sante/2025/06/24/corse-deux-cas-autochtones-de-chikungunya-detectes",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C68B8F57-AD16-4A1B-A0E9-DE9486AC312F/FB1200/photo-1750775902.jpg",
+      "publishedAt": "2025-06-24 14:38:00",
+      "content": "Deux cas autochtones de chikungunya ont \u00e9t\u00e9 d\u00e9tect\u00e9s ce week-end dans la commune de Grosseto-Prugna (Corse-du-Sud), a indiqu\u00e9 mardi l'Agence r\u00e9gionale de sant\u00e9 de Corse. Le premier cas autochtone de\u2026 [+2169 chars]",
+      "retrievedAt": "2025-06-25 19:05:56.383997",
+      "internal_id": "73b4bcd0af2465fb38b36fac2687160ce5796b760ab22e4982fa37e8d706b768",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22305,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jun Li, Xiang Li, Shunhong Luo, Haishen Zhou",
+      "title": "Global, regional, and national burden of meningitis among children, 1990\u20132021: An analysis of the global burden of disease study 2021",
+      "description": "Background Childhood meningitis remains a serious and life-threatening infectious disease with considerable risk of long-term sequelae. This study aimed to provide a comprehensive evaluation of the global burden and temporal trends of childhood meningitis fro\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326992",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326992.g005&size=inline",
+      "publishedAt": "2025-06-24 14:00:00",
+      "content": "Citation: Li J, Li X, Luo S, Zhou H (2025) Global, regional, and national burden of meningitis among children, 19902021: An analysis of the global burden of disease study 2021. PLoS One 20(6): e032\u2026 [+31538 chars]",
+      "retrievedAt": "2025-06-25 19:05:54.953481",
+      "internal_id": "16a6f496ea0bfe049c1c49bb55317cc9b759453c5b143dc28439eacf8057d98d",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22308,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Joseph Okeibunor, Andrew Smith, Emma Jolley, Elizabeth Elhassan, Oluwatosin Adekeye, Lawal Hasfat Kontagora, Sunday Isiyaku, William Adamani, Caleb Mpyet, Hannah Faal, Elena Schmidt, Clare E. Gilbert",
+      "title": "Potential role of proprietary patent medicine vendors in primary eye and ear care: A mixed methods study in northern Nigeria",
+      "description": "Background In Nigeria, patent and proprietary medicine vendors (PPMVs) are permitted to sell a limited range of medication. They are important providers of health care despite their limitations and may be trained to manage specific conditions, such as malaria\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326132",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326132.t005&size=inline",
+      "publishedAt": "2025-06-24 14:00:00",
+      "content": "Abstract Background In Nigeria, patent and proprietary medicine vendors (PPMVs) are permitted to sell a limited range of medication. They are important providers of health care despite their limita\u2026 [+56732 chars]",
+      "retrievedAt": "2025-06-25 19:05:55.571923",
+      "internal_id": "cb7b15f1d569ab7d575a9970e4207029e0454e1123d9cebc3abd1f9baf7bcbc6",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Partha Sarathi Behera",
+      "title": "Chhattisgarh to screen 16.77 lakh people in intensified anti-malaria drive",
+      "description": "Chhattisgarh is launching the 12th phase of its \"Malaria Free Chhattisgarh Campaign\" on June 25, aiming for zero malaria cases by 2027. The campaign focuses on widespread testing, treatment, and public awareness, particularly in the Bastar division and other \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-to-screen-16-77-lakh-people-in-intensified-anti-malaria-drive/articleshow/122048043.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-122048043,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-06-24 11:32:43",
+      "content": "10 ways to attract butterflies and birds to the balcony garden",
+      "retrievedAt": "2025-06-25 19:05:55.529570",
+      "internal_id": "302cdbf7030505154ce4f2dde2e8669e0ba1eae692a2af563aa3f6dfeb51ba29",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22302,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "ImmunoPrecise Antibodies provides update on dengue vaccine breakthrough",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4149224/IPA-ImmunoPrecise-Antibodies-provides-update-on-dengue-vaccine-breakthrough",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-06-24 11:31:43",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-06-25 19:05:54.637059",
+      "internal_id": "9363092401a1c1f8cea596a9b0682fab7b4eb2118e925081a0c2310f9cecaebc",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22301,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "health@gnusolidario.org",
+      "title": "gnuhealth-ntd-dengue 5.0.0rc1",
+      "description": "Neglected Tropical Diseases - Dengue fever package for GNU Health",
+      "url": "https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc1/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-24 11:29:30",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-25 19:05:54.628064",
+      "internal_id": "9a9886b7e8164ef28dbb10d2eaa70624457f339a5c6611bbdc82427e66cafe93",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22307,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "health@gnusolidario.org",
+      "title": "gnuhealth-mdg6 5.0.0rc1",
+      "description": "Millenium Development Goal -MDG 6- (Tuberculosis, HIV/AIDS, Malaria) package for GNU Health",
+      "url": "https://pypi.org/project/gnuhealth-mdg6/5.0.0rc1/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-24 11:29:17",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-25 19:05:55.538660",
+      "internal_id": "8a58925117f1a62d75e97d532d89b163adf06b6d42a94826b76ee0484b108cd1",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22303,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Business Wire",
+      "title": "ImmunoPrecise Advances Universal Dengue Vaccine, Confirming Safety, Immune Activation, and Structural Stability Using its LENSai\u2122 Platform Powered by Patented HYFT\u00ae Technology",
+      "description": "Follow-Up to June 5, 2025, Announcement Demonstrates Validated Vaccine Candidate with Strong Translational Potential AUSTIN, Texas \u2014 ImmunoPrecise (NASDAQ: IPA), a leader in AI-driven biotherapeutics, provides a significant update following its June 5, 2025, \u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/immunoprecise-advances-universal-dengue-vaccine-confirming-safety-immune-activation-and-structural-stability-using-its-lensai-platform-powered-by-patented-hyft-technology",
+      "urlToImage": null,
+      "publishedAt": "2025-06-24 11:12:06",
+      "content": "Follow-Up to June 5, 2025, Announcement Demonstrates Validated Vaccine Candidate with Strong Translational Potential THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest n\u2026 [+7793 chars]",
+      "retrievedAt": "2025-06-25 19:05:54.653927",
+      "internal_id": "3b4743d28b5c35d24f4480f88666db15e8daf83881352f61cf1df878ce5d84c6",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22300,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Sheikh Sabiha ALAM",
+      "title": "Deadly Dengue Fever Impacts Climate-hit Bangladesh Coast",
+      "description": "Mosquito-borne dengue fever was rarely a major problem in Bangladesh's coastal districts, but some hospitals are so full of those with the potentially deadly virus that patients are treated on the floor.",
+      "url": "https://www.ibtimes.com/deadly-dengue-fever-impacts-climate-hit-bangladesh-coast-3776657",
+      "urlToImage": "https://d.ibtimes.com/en/full/4606982/dengue-patients-along-their-family-members-are-pictured-hospital-barguna-southern-bangladesh.jpg",
+      "publishedAt": "2025-06-24 10:06:20",
+      "content": "Mosquito-borne dengue fever was rarely a major problem in Bangladesh's coastal districts, but some hospitals are so full of those with the potentially deadly virus that patients are treated on the fl\u2026 [+3423 chars]",
+      "retrievedAt": "2025-06-25 19:05:54.619111",
+      "internal_id": "2c88acad8b19b48f0bf33474d23422f427b87ded1fb37d809767f90505687ac6",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22310,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Julia Sereni",
+      "title": "Deux cas autochtones de chikungunya identifi\u00e9s en Corse-du-Sud",
+      "description": "Deux cas de chikungunya ont \u00e9t\u00e9 d\u00e9tect\u00e9s ces 21 et 22 juin sur la commune de Grosseto-Prugna. Ce sont les premiers cas autochtones confirm\u00e9s en Corse. Des mesures imm\u00e9diates ont \u00e9t\u00e9 mises en place afin de limiter tout risque de propagation.",
+      "url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/deux-cas-autochtones-de-chikungunya-identifies-en-corse-du-sud-3176502.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/zJzS3LeZiMwQh1BLANjcJ_PHAaA/930x620/regions/2025/06/08/maxstockfr268962-6845540368da5468164435.jpg",
+      "publishedAt": "2025-06-24 10:05:07",
+      "content": "Deux cas de chikungunya ont \u00e9t\u00e9 d\u00e9tect\u00e9s ces 21 et 22 juin sur la commune de Grosseto-Prugna. Ce sont les premiers cas autochtones confirm\u00e9s en Corse. Des mesures imm\u00e9diates ont \u00e9t\u00e9 mises en place af\u2026 [+4009 chars]",
+      "retrievedAt": "2025-06-25 19:05:56.374663",
+      "internal_id": "92c828e5f37625e6be41b6520596bd59cd976743107081cebce5e18cf4eebd41",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22304,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com 39,9 mil casos, Campinas se aproxima de 3\u00ba pior epidemia de dengue da hist\u00f3ria",
+      "description": "Circula\u00e7\u00e3o de tr\u00eas sorotipos e ondas de calor explicam n\u00famero elevado de casos desde 2024 na cidade, segundo a Secretaria de Sa\u00fade. Com 8 mortes confirmadas na segunda, Campinas chegou a 11 \u00f3bitos pela doen\u00e7a em 2025. dengue Carlos Bassan/Prefeitura de Campin\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/24/com-399-mil-casos-campinas-se-aproxima-de-3o-pior-epidemia-de-dengue-da-historia.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/l4-0ZNqNK_qaidAia8ZG_oqa5nE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/51/68/12296851",
+      "publishedAt": "2025-06-24 09:55:20",
+      "content": "Campinas se aproxima dos n\u00fameros de casos registrados em 2014, quando teve 42,4 mil moradores diagnosticados com a doen\u00e7a. O total de mortes em 2025, no entanto, j\u00e1 \u00e9 maior (11 contra 10). De acord\u2026 [+3527 chars]",
+      "retrievedAt": "2025-06-25 19:05:54.686344",
+      "internal_id": "050055d497f4ed79d3c42e6afbd2fd5c2a8c7c9439af8f9afdfdb759ab91f6fb",
+      "publishedAtLabel": "Jun 24"
+    },
     {
       "id": 22296,
       "query": [
@@ -19984,96 +20218,6 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21187,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Simon Little",
-      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
-      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
-      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2025-05-11 18:35:34",
-      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.481516",
-      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21238,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Mercy Kahenda",
-      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
-      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
-      "publishedAt": "2025-05-11 14:30:14",
-      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
-      "retrievedAt": "2025-05-14 07:07:58.746120",
-      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21184,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Viconsortium.com",
-      "author": null,
-      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
-      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
-      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
-      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
-      "publishedAt": "2025-05-11 11:50:10",
-      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.456169",
-      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21171,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "author": "Danvictor Munene",
-      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
-      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
-      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
-      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
-      "publishedAt": "2025-05-11 09:21:11",
-      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.859398",
-      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21170,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Chip.com.tr",
-      "author": "Levent \u00d6zt\u00fcrk",
-      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
-      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
-      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
-      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
-      "publishedAt": "2025-05-11 08:23:41",
-      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.454665",
-      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]

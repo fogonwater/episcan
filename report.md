@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-06-25 07:08
-- **Most recent article:** 2025-06-24 03:43:04
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-06-25 19:05
+- **Most recent article:** 2025-06-24 18:45:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 77 | 68 | 90 | 48 | 31 | 1 | 390 |
-| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 6 | 140 |
-| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
-| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 3 | 124 |
+| measles | 72 | 77 | 68 | 90 | 48 | 31 | 2 | 388 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 11 | 145 |
+| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 6 | 127 |
+| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 6 | 102 |
 | mpox | 18 | 11 | 19 | 15 | 24 | 11 | 1 | 99 |
-| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 3 | 99 |
 | rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
 | zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 1 | 28 |
+| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 2 | 28 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
 | hpai | 1 | 2 | 1 | 3 | 1 | 1 | 0 | 9 |
@@ -55,13 +55,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (meningitis)
 
+- [Global, regional, and national burden of meningitis among children, 1990–2021: An analysis of the global burden of disease study 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326992) (Plos.org)
+
 - [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
 
+- [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
+
 - ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
 
 ## 25-26 (malaria)
+
+- [Potential role of proprietary patent medicine vendors in primary eye and ear care: A mixed methods study in northern Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326132) (Plos.org)
+
+- [Chhattisgarh to screen 16.77 lakh people in intensified anti-malaria drive](https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-to-screen-16-77-lakh-people-in-intensified-anti-malaria-drive/articleshow/122048043.cms) (The Times of India)
+
+- [gnuhealth-mdg6 5.0.0rc1](https://pypi.org/project/gnuhealth-mdg6/5.0.0rc1/) (Pypi.org)
 
 - [Malaria kills over 300 in Zimbabwe](https://www.thestar.com.my/news/world/2025/06/24/malaria-kills-over-300-in-zimbabwe) (The Star Online)
 
@@ -79,6 +89,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (dengue)
 
+- [ImmunoPrecise Antibodies provides update on dengue vaccine breakthrough](https://thefly.com/permalinks/entry.php/id4149224/IPA-ImmunoPrecise-Antibodies-provides-update-on-dengue-vaccine-breakthrough) (Thefly.com)
+
+- [gnuhealth-ntd-dengue 5.0.0rc1](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc1/) (Pypi.org)
+
+- [ImmunoPrecise Advances Universal Dengue Vaccine, Confirming Safety, Immune Activation, and Structural Stability Using its LENSai™ Platform Powered by Patented HYFT® Technology](https://financialpost.com/pmn/business-wire-news-releases-pmn/immunoprecise-advances-universal-dengue-vaccine-confirming-safety-immune-activation-and-structural-stability-using-its-lensai-platform-powered-by-patented-hyft-technology) (Financial Post)
+
+- [Deadly Dengue Fever Impacts Climate-hit Bangladesh Coast](https://www.ibtimes.com/deadly-dengue-fever-impacts-climate-hit-bangladesh-coast-3776657) (International Business Times)
+
+- [Com 39,9 mil casos, Campinas se aproxima de 3º pior epidemia de dengue da história](https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/24/com-399-mil-casos-campinas-se-aproxima-de-3o-pior-epidemia-de-dengue-da-historia.ghtml) (Globo)
+
 - [Campinas confirma oito mortes por dengue e total de óbitos pela doença chega a 11 em 2025](https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/23/campinas-confirma-oito-mortes-por-dengue-e-total-de-obitos-pela-doenca-chega-a-11-em-2025.ghtml) (Globo)
 
 - [Tipos de sintomas da dengue: saiba como identificar e quando procurar ajuda](https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2025/06/23/tipos-de-sintomas-da-dengue-saiba-como-identificar-e-quando-procurar-ajuda.ghtml) (Globo)
@@ -92,6 +112,12 @@ Source: [News API](https://newsapi.org/)
 - [8th Asia Dengue Summit Renews Call to Achieve Zero Dengue Deaths](https://en.antaranews.com/news/361133/8th-asia-dengue-summit-renews-call-to-achieve-zero-dengue-deaths) (Antaranews.com)
 
 ## 25-26 (chikungunya)
+
+- [Chikungunya : deux cas autochtones détectés en Corse, les premiers sur l’île](https://www.liberation.fr/societe/sante/chikungunya-deux-cas-autochtones-detectes-en-corse-les-premiers-sur-lile-20250624_42KW6PLENJGOLHPLFIF2Z6JQB4/) (Libération)
+
+- [Santé. Corse : deux cas autochtones de chikungunya détectés](https://www.ledauphine.com/sante/2025/06/24/corse-deux-cas-autochtones-de-chikungunya-detectes) (Le Dauphiné Libéré)
+
+- [Deux cas autochtones de chikungunya identifiés en Corse-du-Sud](https://france3-regions.franceinfo.fr/corse/corse-du-sud/deux-cas-autochtones-de-chikungunya-identifies-en-corse-du-sud-3176502.html) (Franceinfo.fr)
 
 - [Une opération de démoustication après le signalement d'un cas autochtone de chikungunya dans la Drôme](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/drome/une-operation-de-demoustication-apres-le-signalement-d-un-cas-autochtone-de-chikungunya-dans-la-drome-3176007.html) (Franceinfo.fr)
 
@@ -2219,8 +2245,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
-- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
-
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2367,12 +2391,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
-- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
-
-- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
-
-- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
-
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2446,8 +2464,6 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
-
-- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 
