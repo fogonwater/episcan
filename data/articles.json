@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-06-24 19:06",
-  "count_articles_total": 1103,
-  "count_articles_new": 14,
+  "last_updated": "2025-06-25 07:08",
+  "count_articles_total": 1112,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 22296,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "L\u00f8shunder skutt i S\u00f8r-Varanger \u2013 sjekkes for rabies",
+      "description": "Tre l\u00f8shunder uten halsb\u00e5nd ble mandag kveld avlivet i S\u00f8r-Varanger etter mistanke om at de hadde krysset grensen fra Russland. Viltnemnda rykket ut til Skr\u00f8ytnes-omr\u00e5det etter tips om hundene. Operasjonsleder Jan Arne Pettersen i Finnmark politidistrikt oppl\u2026",
+      "url": "https://www.nrk.no/nyheter/loshunder-skutt-i-sor-varanger-_-sjekkes-for-rabies-1.17467395",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.519/common/img/default.jpg",
+      "publishedAt": "2025-06-24 03:43:04",
+      "content": "Tre l\u00f8shunder uten halsb\u00e5nd ble mandag kveld avlivet i S\u00f8r-Varanger etter mistanke om at de hadde krysset grensen fra Russland. Viltnemnda rykket ut til Skr\u00f8ytnes-omr\u00e5det etter tips om hundene. Oper\u2026 [+226 chars]",
+      "retrievedAt": "2025-06-25 07:08:16.111188",
+      "internal_id": "910c998a135d7ee7053f64970766e8a1ef65326b912595d74382f9ffd2990375",
+      "publishedAtLabel": "Jun 24"
+    },
+    {
+      "id": 22295,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "NTB",
+      "title": "Tre l\u00f8shunder skutt i S\u00f8r-Varanger \u2013 fryktet rabies",
+      "description": "Tre l\u00f8shunder er skutt i S\u00f8r-Varanger etter mistanke om at de kom over grensen fra Russland. Hundene sjekkes n\u00e5 for rabies.",
+      "url": "https://www.vg.no/nyheter/i/1MaP9q/tre-loeshunder-skutt-i-soer-varanger-fryktet-rabies",
+      "urlToImage": "https://vgno-artikkel-pr-4048.feature.sk8s.vg.no/artikkel/api/og/1MaP9q.png",
+      "publishedAt": "2025-06-23 23:36:48",
+      "content": "Mandag kveld ble tre l\u00f8shunder skutt i S\u00f8r-Varanger etter melding om at dyr hadde kommet over grensen fra Russland. Det opplyser politiet i Finnmark. Viltnemnda i S\u00f8r-Varanger rykket ut til omr\u00e5det \u2026 [+388 chars]",
+      "retrievedAt": "2025-06-25 07:08:16.079396",
+      "internal_id": "135567af827a175e54c14a1ef1a1327d4d22ac2c5248fbe58c13d26c96f3df42",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 22298,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Pa\u00eds (Uruguay)",
+      "title": "Qu\u00e9 pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina",
+      "description": "Enfermedades como intoxicaciones alimentarias, meningitis o insuficiencia renal pueden estar relacionadas con microorganismos presentes en el interior de este electrodom\u00e9stico",
+      "url": "https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-limpieza-este-electrodomestico-puede-EFDV76775RFRFLDJANHJ6KLJ4M.jpg?auth=7bf4fe4e0cb40fd19f858544aa496308448f7b4d0fe68d33f48b4c21b902958b&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-06-23 22:33:31",
+      "content": "Una heladera limpia no solo prolonga la vida \u00fatil de los alimentos, sino que tambi\u00e9n previene enfermedades. Una mala higiene puede facilitar la proliferaci\u00f3n de bacterias que generan malos olores y c\u2026 [+1261 chars]",
+      "retrievedAt": "2025-06-25 07:08:17.570955",
+      "internal_id": "727e8e7bef919e15ef7fa18e6c7b5b7bf047e3a82ad2310f3a54766a73ce2697",
+      "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 22297,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma oito mortes por dengue e total de \u00f3bitos pela doen\u00e7a chega a 11 em 2025",
+      "description": "V\u00edtimas tinham entre 41 e 84 anos, e vieram a \u00f3bito entre 25 de mar\u00e7o e 27 de abril. Veja como identificar se os casos suspeitos s\u00e3o graves. Mosquito do Aedes aegypti, transmissor da dengue Carlos Bassan/Prefeitura de Campinas A Prefeitura de Campinas (SP) co\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/23/campinas-confirma-oito-mortes-por-dengue-e-total-de-obitos-pela-doenca-chega-a-11-em-2025.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/l4-0ZNqNK_qaidAia8ZG_oqa5nE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/51/68/12296851",
+      "publishedAt": "2025-06-23 20:34:02",
+      "content": "De acordo com a Secretaria de Sa\u00fade, as v\u00edtimas tinham entre 41 e 84 anos, e os \u00f3bitos ocorreram entre 25 de mar\u00e7o e 27 de abril. \"O desfecho \u00f3bito depende de fatores como a procura precoce por ate\u2026 [+4141 chars]",
+      "retrievedAt": "2025-06-25 07:08:17.380888",
+      "internal_id": "86adc48f7915a51250eb257e812b57a532b359a527813a9d6b1bdb37c580782f",
+      "publishedAtLabel": "Jun 23"
+    },
     {
       "id": 22286,
       "query": [
@@ -19912,6 +19984,96 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Simon Little",
+      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
+      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
+      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-05-11 18:35:34",
+      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.481516",
+      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21238,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
+      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
+      "publishedAt": "2025-05-11 14:30:14",
+      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.746120",
+      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Viconsortium.com",
+      "author": null,
+      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
+      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
+      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
+      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
+      "publishedAt": "2025-05-11 11:50:10",
+      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.456169",
+      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21171,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
+      "author": "Danvictor Munene",
+      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
+      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
+      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
+      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
+      "publishedAt": "2025-05-11 09:21:11",
+      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.859398",
+      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21170,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Chip.com.tr",
+      "author": "Levent \u00d6zt\u00fcrk",
+      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
+      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
+      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
+      "publishedAt": "2025-05-11 08:23:41",
+      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.454665",
+      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]

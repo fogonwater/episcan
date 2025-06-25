@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-06-24 19:06
-- **Most recent article:** 2025-06-23 17:57:17
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-06-25 07:08
+- **Most recent article:** 2025-06-24 03:43:04
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 72 | 77 | 68 | 90 | 48 | 31 | 1 | 387 |
-| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 5 | 139 |
-| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
+| measles | 75 | 77 | 68 | 90 | 48 | 31 | 1 | 390 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 6 | 140 |
+| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
 | malaria | 11 | 35 | 17 | 16 | 19 | 23 | 3 | 124 |
 | mpox | 18 | 11 | 19 | 15 | 24 | 11 | 1 | 99 |
 | chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 3 | 99 |
-| rabies | 3 | 6 | 9 | 6 | 6 | 19 | 1 | 50 |
+| rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
 | zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 0 | 26 |
+| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 1 | 28 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
 | hpai | 1 | 2 | 1 | 3 | 1 | 1 | 0 | 9 |
@@ -43,11 +43,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (rabies)
 
+- [Løshunder skutt i Sør-Varanger – sjekkes for rabies](https://www.nrk.no/nyheter/loshunder-skutt-i-sor-varanger-_-sjekkes-for-rabies-1.17467395) (NRK)
+
+- [Tre løshunder skutt i Sør-Varanger – fryktet rabies](https://www.vg.no/nyheter/i/1MaP9q/tre-loeshunder-skutt-i-soer-varanger-fryktet-rabies) (Www.vg.no)
+
 - [Interview: What is hurting rabies prevention? Vaccine maker has answers](https://thesouthfirst.com/health/interview-what-is-hurting-rabies-prevention-vaccine-maker-has-answers/) (Thesouthfirst.com)
 
 ## 25-26 (mpox)
 
 - [Mpox in Sierra Leone: what’s behind the recent surge and why west Africa is at risk](https://theconversation.com/mpox-in-sierra-leone-whats-behind-the-recent-surge-and-why-west-africa-is-at-risk-259286) (The Conversation Africa)
+
+## 25-26 (meningitis)
+
+- [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
 
@@ -70,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 - [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
+
+- [Campinas confirma oito mortes por dengue e total de óbitos pela doença chega a 11 em 2025](https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/23/campinas-confirma-oito-mortes-por-dengue-e-total-de-obitos-pela-doenca-chega-a-11-em-2025.ghtml) (Globo)
 
 - [Tipos de sintomas da dengue: saiba como identificar e quando procurar ajuda](https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2025/06/23/tipos-de-sintomas-da-dengue-saiba-como-identificar-e-quando-procurar-ajuda.ghtml) (Globo)
 
@@ -2209,6 +2219,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
+- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2355,6 +2367,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
+- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
+
+- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
+
+- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
+
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2428,6 +2446,8 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
+
+- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 
