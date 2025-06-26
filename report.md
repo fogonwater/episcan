@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2025-06-26 07:08
-- **Most recent article:** 2025-06-25 05:41:38
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-06-26 19:06
+- **Most recent article:** 2025-06-25 18:59:34
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 77 | 68 | 90 | 48 | 31 | 21 | 410 |
-| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 13 | 147 |
-| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
-| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 7 | 128 |
-| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 6 | 102 |
-| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 1 | 99 |
+| measles | 72 | 77 | 68 | 90 | 48 | 31 | 28 | 414 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 18 | 152 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 11 | 132 |
+| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
+| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 13 | 109 |
+| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 3 | 101 |
 | rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
 | zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 2 | 29 |
+| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 2 | 28 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
 | hpai | 1 | 2 | 1 | 3 | 1 | 1 | 0 | 9 |
@@ -53,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (mpox)
 
+- [Promotional material: Vaccine update: issue 360, July 2025, 4CMenB for gonorrhoea and mpox special](https://www.gov.uk/government/publications/vaccine-update-issue-360-july-2025-4cmenb-for-gonorrhoea-and-mpox-special) (Www.gov.uk)
+
+- [Epidemiological and clinical characteristics of Peruvian patients with mpox: A systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327097) (Plos.org)
+
 - [Mpox in Sierra Leone: what’s behind the recent surge and why west Africa is at risk](https://theconversation.com/mpox-in-sierra-leone-whats-behind-the-recent-surge-and-why-west-africa-is-at-risk-259286) (The Conversation Africa)
 
 ## 25-26 (meningitis)
@@ -62,6 +66,20 @@ Source: [News API](https://newsapi.org/)
 - [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
+
+- [Dangerous measles case hits North Carolina from overseas](https://rollingout.com/2025/06/25/dangerous-measles-hits-north-carolina/) (Rolling Out)
+
+- [Good Morning, News: Salem Comes at Preschool for All, Oregon’s Got a Case of Measles, and Zohran Mamdani’s Gonna Be the Mayor of New York](https://www.portlandmercury.com/good-morning-news/2025/06/25/47887757/good-morning-news-salem-comes-at-preschool-for-all-oregons-got-a-case-of-measles-and-zohran-mamdanis-gonna-be-the-mayor-of-new-york) (The Portland Mercury)
+
+- [Trump Keeps Siding With Israeli Intelligence Over the Pentagon](https://newrepublic.com/post/197224/trump-siding-israel-pentagon-iran-nuclear) (The New Republic)
+
+- [Stephen Miller Invokes Racist Conspiracy Theory To Dismiss Mamdani](https://newrepublic.com/post/197219/stephen-miller-invokes-racist-conspiracy-theory-zohran-mamdani) (The New Republic)
+
+- [Trump Picks Bonkers Time to Talk About Nuking Foreign Cities](https://newrepublic.com/post/197214/donald-trump-nuking-iran-hiroshima-nagasaki) (The New Republic)
+
+- [MAGA Enters Racist Meltdown Mode Over Zohran Mamdani’s New York Win](https://newrepublic.com/post/197201/maga-racist-meltdown-zohran-mamdani-new-york-mayor) (The New Republic)
+
+- [Trump Lashes Out Over Reports His Iran Strikes Accomplished Nothing](https://newrepublic.com/post/197198/donald-trump-lashes-out-iran-strikes-accomplished-nothing) (The New Republic)
 
 - [Zohran Mamdani Wins NYC Democratic Mayoral Primary in Massive Upset](https://newrepublic.com/post/197182/new-york-city-mayor-primary-zohran-mamdani) (The New Republic)
 
@@ -107,6 +125,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (malaria)
 
+- [Bharat Biotech, GSK to slash malaria vaccine price](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bharat-biotech-gsk-to-slash-malaria-vaccine-price/articleshow/122076801.cms) (The Times of India)
+
+- [Bharat Biotech, GSK to slash malaria vax prices to less than $5 per dose by 2028](https://timesofindia.indiatimes.com/business/india-business/bharat-biotech-gsk-to-slash-malaria-vax-prices-to-less-than-5-per-dose-by-2028/articleshow/122074404.cms) (The Times of India)
+
+- [Bharat Biotech, GSK to supply world’s first malaria vaccine to Gavi](https://www.thehindubusinessline.com/companies/bharat-biotech-gsk-to-supply-worlds-first-malaria-vaccine-to-gavi/article69735068.ece) (BusinessLine)
+
+- [Bharat Biotech, GSK to halve price of malaria vaccine by 2028](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bharat-biotech-gsk-to-halve-price-of-malaria-vaccine-by-2028/articleshow/122064325.cms) (The Times of India)
+
 - [Addressing reductions in US global health funding: An opportunity for a rethink, or more of the same?](https://speakingofmedicine.plos.org/2025/06/24/addressing-reductions-in-us-global-health-funding-an-opportunity-for-a-rethink-or-more-of-the-same/) (Plos.org)
 
 - [Potential role of proprietary patent medicine vendors in primary eye and ear care: A mixed methods study in northern Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326132) (Plos.org)
@@ -130,6 +156,16 @@ Source: [News API](https://newsapi.org/)
 - [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
+
+- [Drôme. Un cas de dengue détecté à Romans-sur-Isère, le moustique tigre dans le collimateur](https://www.ledauphine.com/faits-divers-justice/2025/06/25/un-cas-de-dengue-detecte-a-romans-sur-isere-le-moustique-tigre-dans-le-collimateur) (Le Dauphiné Libéré)
+
+- [Dengue: vacina do Butantan deve estar disponível no início de 2026](https://www.infomoney.com.br/saude/dengue-vacina-do-butantan-deve-estar-disponivel-no-inicio-de-2026/) (InfoMoney)
+
+- [Infektionsschutz: Wie sich Bayern gegen die Tigermücke rüstet](https://www.sueddeutsche.de/bayern/bayern-tigermuecke-abwehr-li.3274540) (Süddeutsche Zeitung)
+
+- [Annual global dengue dynamics are related to multi-source factors revealed by a machine learning prediction analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013232) (Plos.org)
+
+- [Que se passerait-il dans le monde si plus personne ne se vaccinait ?](https://www.nouvelobs.com/sciences/20250625.OBS105291/que-se-passerait-il-dans-le-monde-si-plus-personne-ne-se-vaccinait.html) (L'Obs)
 
 - [Emraan Hashmi is 'back in action' recovering from dengue](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-is-back-in-action-recovering-from-dengue/articleshow/122062169.cms) (The Times of India)
 
@@ -158,6 +194,20 @@ Source: [News API](https://newsapi.org/)
 - [8th Asia Dengue Summit Renews Call to Achieve Zero Dengue Deaths](https://en.antaranews.com/news/361133/8th-asia-dengue-summit-renews-call-to-achieve-zero-dengue-deaths) (Antaranews.com)
 
 ## 25-26 (chikungunya)
+
+- [França: casos precoces de transmissão local da chikungunya colocam autoridades sanitárias em alerta](https://www.terra.com.br/noticias/mundo/europa/franca-casos-precoces-de-transmissao-local-da-chikungunya-colocam-autoridades-sanitarias-em-alerta,eec9bcd540a6424ae8ea7da0f1e1b688nqzxttut.html) (Terra.com.br)
+
+- [Chikungunya : la France métropolitaine enregistre un nombre de cas «jamais observés jusqu’à présent» en cette saison](https://www.liberation.fr/societe/sante/chikungunya-la-france-metropolitaine-enregistre-un-nombre-de-cas-jamais-observes-jusqua-present-en-cette-saison-20250625_NLZ6ARDRCZBI5PHWZBYXRVMETY/) (Libération)
+
+- [Chikungunya : huit cas autochtones enregistrés en métropole, un niveau jamais vu aussi tôt dans l’année](https://www.lemonde.fr/sante/article/2025/06/25/chikungunya-huit-cas-autochtones-enregistres-en-metropole-un-niveau-jamais-vu-aussi-tot-dans-l-annee_6615863_1651302.html) (Le Monde)
+
+- [Santé. Un cas "autochtone" de chikungunya confirmé dans la Drôme](https://www.ledauphine.com/sante/2025/06/25/un-cas-autochtone-de-chikungunya-confirme-dans-la-drome) (Le Dauphiné Libéré)
+
+- [Santé. Le chikungunya circule en métropole à un niveau jamais vu à cette période de l'année](https://www.ledauphine.com/sante/2025/06/25/le-chikungunya-circule-en-metropole-a-un-niveau-jamais-vu-a-cette-periode-de-l-annee) (Le Dauphiné Libéré)
+
+- [Le chikungunya circule à un niveau jamais vu dans l'Hexagone et en Corse aussi tôt dans l'année, prévient Santé publique France](https://www.franceinfo.fr/sante/maladie/chikungunya/le-chikungunya-circule-a-un-niveau-jamais-vu-dans-l-hexagone-et-en-corse-aussi-tot-dans-l-annee-previent-sante-publique-france_7336629.html) (Franceinfo.fr)
+
+- [Chikungunya : deux premiers cas autochtones détectés dans les Bouches-du-Rhône, soit six cas désormais en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-deux-premiers-cas-autochtones-detectes-dans-les-bouches-du-rhone-soit-six-cas-desormais-en-france-metropolitaine_7336518.html) (Franceinfo.fr)
 
 - [Chikungunya : deux cas autochtones détectés en Corse, les premiers sur l’île](https://www.liberation.fr/societe/sante/chikungunya-deux-cas-autochtones-detectes-en-corse-les-premiers-sur-lile-20250624_42KW6PLENJGOLHPLFIF2Z6JQB4/) (Libération)
 
@@ -2291,8 +2341,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
-- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
-
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2439,12 +2487,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
-- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
-
-- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
-
-- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
-
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2518,8 +2560,6 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
-
-- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 

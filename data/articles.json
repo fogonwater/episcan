@@ -1,8 +1,458 @@
 {
-  "last_updated": "2025-06-26 07:08",
-  "count_articles_total": 1148,
-  "count_articles_new": 23,
+  "last_updated": "2025-06-26 19:06",
+  "count_articles_total": 1168,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 22350,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Bureau",
+      "title": "Bharat Biotech, GSK to slash malaria vaccine price",
+      "description": "Bharat Biotech and GSK will lower the malaria vaccine price to under $5 by 2028. This is due to better processes and more production. They pledged this to Gavi. Bharat Biotech invested over $200 million to boost production. Twelve African countries will use t\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bharat-biotech-gsk-to-slash-malaria-vaccine-price/articleshow/122076801.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122076830,width-1200,height-630,imgsize-34816,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-25 18:59:34",
+      "content": "Bharat Biotech and GSK have decided to progressively reduce the price of their malaria vaccine by more than half to less than $5 per dose by 2028, the companies said on Wednesday.The move is driven b\u2026 [+1513 chars]",
+      "retrievedAt": "2025-06-26 19:06:11.694473",
+      "internal_id": "7985855232addd71c212925e924dc334190b103b821f813b9b0a5e4474589942",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22335,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "Tega Egwabor",
+      "title": "Dangerous measles case hits North Carolina from overseas",
+      "description": "North Carolina health officials are sounding the alarm after confirming the state\u2019s first measles case of 2025, marking a concerning development that has prompted immediate action across two counties to prevent further spread of this highly contagious disease\u2026",
+      "url": "https://rollingout.com/2025/06/25/dangerous-measles-hits-north-carolina/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/06/shutterstock_506683222-scaled.jpg",
+      "publishedAt": "2025-06-25 18:52:03",
+      "content": "North Carolina health officials are sounding the alarm after confirming the state\u2019s first measles case of 2025, marking a concerning development that has prompted immediate action across two counties\u2026 [+9922 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.772826",
+      "internal_id": "446b7acbdeb67fd718f6433effd9e6e046589b90447766ccbd36a631a1e10d6e",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22348,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Swati Bharadwaj",
+      "title": "Bharat Biotech, GSK to slash malaria vax prices to less than $5 per dose by 2028",
+      "description": "India Business News: HYDERABAD: Vaccine maker Bharat Biotech International Ltd and British biopharma giant GSK plc will be slashing the prices of the world\u2019s first malaria.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bharat-biotech-gsk-to-slash-malaria-vax-prices-to-less-than-5-per-dose-by-2028/articleshow/122074404.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-122074428,width-1070,height-580,imgsize-528721,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-06-25 16:03:44",
+      "content": "8 types of traditional bangle sets worn across India",
+      "retrievedAt": "2025-06-26 19:06:11.653641",
+      "internal_id": "2175e586f84089d53c4ebb51cf4aba0a21889e303c2ec082e1ea70deab160071",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22358,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Promotional material: Vaccine update: issue 360, July 2025, 4CMenB for gonorrhoea and mpox special",
+      "description": "Latest developments in vaccines, vaccination policies and procedures for immunisation practitioners.",
+      "url": "https://www.gov.uk/government/publications/vaccine-update-issue-360-july-2025-4cmenb-for-gonorrhoea-and-mpox-special",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-06-25 16:01:25",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-06-26 19:06:13.146954",
+      "internal_id": "0bb6437f78219d318da02b10241648cd9124259d8bcb9a14a4a76c265ab4feab",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22341,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Portland Mercury",
+      "author": "Taylor Griggs",
+      "title": "Good Morning, News: Salem Comes at Preschool for All, Oregon\u2019s Got a Case of Measles, and Zohran Mamdani\u2019s Gonna Be the Mayor of New York",
+      "description": "by Taylor Griggs If you\u2019re reading this, you probably know the value of the Mercury\u2019s news reporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps our city shine, but we can\u2019t do it\u2026",
+      "url": "https://www.portlandmercury.com/good-morning-news/2025/06/25/47887757/good-morning-news-salem-comes-at-preschool-for-all-oregons-got-a-case-of-measles-and-zohran-mamdanis-gonna-be-the-mayor-of-new-york",
+      "urlToImage": "https://media2.fdncms.com/portmerc/imager/u/large/47887956/screenshot_2025-06-24_at_11.33.30___pm.png",
+      "publishedAt": "2025-06-25 15:30:00",
+      "content": "If youre reading this, you probably know the value of the Mercurys newsreporting, arts and culture coverage, event calendar, and the bevy of events we host throughout the year. The work we do helps o\u2026 [+9899 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.868914",
+      "internal_id": "89174c4384e614ed84d840bab18994e843de19971c5a7a3a8df2bd4f4ae37717",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22343,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "J.C",
+      "title": "Dr\u00f4me. Un cas de dengue d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re, le moustique tigre dans le collimateur",
+      "description": "Ce n\u2019est pas un cas exceptionnel mais toujours une urgence. Une personne revenue des Antilles a \u00e9t\u00e9 d\u00e9tect\u00e9e porteuse du virus de la Dengue \u00e0 ...",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2025/06/25/un-cas-de-dengue-detecte-a-romans-sur-isere-le-moustique-tigre-dans-le-collimateur",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/CD7A67BB-E16E-482E-A405-F70E8FAC77D8/FB1200/photo-1750864833.jpg",
+      "publishedAt": "2025-06-25 15:20:00",
+      "content": "Ce n\u2019est pas un cas exceptionnel mais toujours une urgence. Une personne revenue des Antilles a \u00e9t\u00e9 d\u00e9tect\u00e9e porteuse du virus de la Dengue \u00e0 Romans-sur-Is\u00e8re. Il ne s\u2019agit pas d\u2019un cas suspect\u00e9 comm\u2026 [+1098 chars]",
+      "retrievedAt": "2025-06-26 19:06:10.391467",
+      "internal_id": "d4c18a98ba8aecbed37fecf34c395cf3157e8ed7e7b10256246253ecf99f170f",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22351,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "RFI",
+      "title": "Fran\u00e7a: casos precoces de transmiss\u00e3o local da chikungunya colocam autoridades sanit\u00e1rias em alerta",
+      "description": "A doen\u00e7a, transmitida pelo mosquito tigre, j\u00e1 circula em um n\u00edvel in\u00e9dito para esta \u00e9poca do ano. O alerta foi feito nesta quarta-feira (25) pela ag\u00eancia de sa\u00fade p\u00fablica francesa, a Sant\u00e9 publique France, em seu boletim semanal.",
+      "url": "https://www.terra.com.br/noticias/mundo/europa/franca-casos-precoces-de-transmissao-local-da-chikungunya-colocam-autoridades-sanitarias-em-alerta,eec9bcd540a6424ae8ea7da0f1e1b688nqzxttut.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/06/25/1677386893-chikungunya-moustique-tigre-rc3a9union.jpg",
+      "publishedAt": "2025-06-25 15:07:02",
+      "content": "A doen\u00e7a, transmitida pelo mosquito tigre, j\u00e1 circula em um n\u00edvel in\u00e9dito para esta \u00e9poca do ano. O alerta foi feito nesta quarta-feira (25) pela ag\u00eancia de sa\u00fade p\u00fablica francesa, a Sant\u00e9 publique F\u2026 [+2998 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.686063",
+      "internal_id": "5dc8fd4270e87b8ec0319675abc2040ad24ca83dbe27a903ed3c7b9cde0893b4",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Vict\u00f3ria Anhesini",
+      "title": "Dengue: vacina do Butantan deve estar dispon\u00edvel no in\u00edcio de 2026",
+      "description": "Medicamento est\u00e1 sendo avaliado pela Anvisa The post Dengue: vacina do Butantan deve estar dispon\u00edvel no in\u00edcio de 2026 appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/dengue-vacina-do-butantan-deve-estar-disponivel-no-inicio-de-2026/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/06/25062025-pzzb3290.webp?quality=70",
+      "publishedAt": "2025-06-25 15:02:07",
+      "content": "A aprova\u00e7\u00e3o da vacina da dengue produzida pelo Instituto Butantan segue sob an\u00e1lise na Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), em Bras\u00edlia. A expectativa do governo federal, de acordo com \u2026 [+1733 chars]",
+      "retrievedAt": "2025-06-26 19:06:10.353473",
+      "internal_id": "be8b470e352630d28ea3eee75bf979f8ea4a5880ea07536e6c1f8cc7e2858aec",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22336,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Malcolm Ferguson",
+      "title": "Trump Keeps Siding With Israeli Intelligence Over the Pentagon",
+      "description": "American military intelligence found that President Trump\u2019s strikes on Iranian nuclear facilities failed to \u201ccompletely and totally obliterate\u201d the sites like Trump promised they did. Instead of admitting his folly, Trump cherry-picked an Israeli source that \u2026",
+      "url": "https://newrepublic.com/post/197224/trump-siding-israel-pentagon-iran-nuclear",
+      "urlToImage": "https://images.newrepublic.com/f8b8a4870550fa3fa0c8ddd1ad5a07a7f952c760.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-06-25 14:50:19",
+      "content": "Despite issuing guidance that measles can be treated with simple vitamins, Health Secretary Robert F. Kennedy Jr. admitted Tuesday that hes never actually had to help someone recover from the disease\u2026 [+2254 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.810293",
+      "internal_id": "ca867350f719e57c1969132793fcfec282fd18bc5cc2846fd4f00e15f4f6627f",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22337,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Robert McCoy",
+      "title": "Stephen Miller Invokes Racist Conspiracy Theory To Dismiss Mamdani",
+      "description": "Trump consigliere Stephen Miller contributed to the ongoing meltdown over Zohran Mamdani\u2019s upset victory in New York City\u2019s Democratic mayoral primary with a nod to what\u2019s known as the \u201cgreat replacement theory.\u201d Miller has long elevated the racist right-win\u2026",
+      "url": "https://newrepublic.com/post/197219/stephen-miller-invokes-racist-conspiracy-theory-zohran-mamdani",
+      "urlToImage": "https://images.newrepublic.com/d9f7485f7edcf5e3638adc8c8b07ecfcd01592b4.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-06-25 14:41:46",
+      "content": "Despite issuing guidance that measles can be treated with simple vitamins, Health Secretary Robert F. Kennedy Jr. admitted Tuesday that hes never actually had to help someone recover from the disease\u2026 [+2254 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.819178",
+      "internal_id": "e5d80f54f60219edf43e7ff3a364744338c61ef307f06690045f12c9fa3a01e1",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Elena Zengel",
+      "title": "Infektionsschutz: Wie sich Bayern gegen die Tigerm\u00fccke r\u00fcstet",
+      "description": "Das Landesamt f\u00fcr Gesundheit und Lebensmittelsicherheit will st\u00e4rker \u00fcberwachen, wo sich die Asiatische Tigerm\u00fccke ausbreitet. Welche Gefahr von ihr ausgeht und wie wahrscheinlich eine Infektion mit einer Tropenkrankheit wie dem Dengue-Fieber in Bayern ist.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-tigermuecke-abwehr-li.3274540",
+      "urlToImage": "https://www.sueddeutsche.de/2025/04/18/f9561058-b7e3-494e-ba87-2262bf70659f.jpeg?q=60&fm=webp&width=1200&rect=0%2C96%2C1840%2C1035",
+      "publishedAt": "2025-06-25 14:13:41",
+      "content": "Dazu haben verschiedene Landkreisverwaltungen in ganz Bayern insgesamt 34 Stechm\u00fcckenfallen des LGL aufgestellt. Die Fallen stehen in den Landkreisen Rosenheim, Memmingen, Schweinfurt, N\u00fcrnberg und n\u2026 [+3960 chars]",
+      "retrievedAt": "2025-06-26 19:06:10.430534",
+      "internal_id": "5bc58944843bdcaad247c9e47d11932c4814050da8c965cf1e0187972aa672c9",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22338,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "Trump Picks Bonkers Time to Talk About Nuking Foreign Cities",
+      "description": "Donald Trump compared his strike on three Iranian nuclear facilities to a war-ending nuclear attack, while his own government has given an early assessment that the mission wasn\u2019t the success he\u2019s claimed. During a press conference Wednesday at the NATO summ\u2026",
+      "url": "https://newrepublic.com/post/197214/donald-trump-nuking-iran-hiroshima-nagasaki",
+      "urlToImage": "https://images.newrepublic.com/ca13a70f140c893924f9f7fa3b3c1c1f63c54f14.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-06-25 14:09:57",
+      "content": "Despite issuing guidance that measles can be treated with simple vitamins, Health Secretary Robert F. Kennedy Jr. admitted Tuesday that hes never actually had to help someone recover from the disease\u2026 [+2254 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.828185",
+      "internal_id": "3c440e8f8159319eabbe6bc31936ca3abee1a2dae7f1154888b4d28c24536780",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22344,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Haoyu Long, Yilin Chen, Jingru Feng, Jian Chen, Xue Zhang, Wenjie Han, Min Kang, Xiangjun Du",
+      "title": "Annual global dengue dynamics are related to multi-source factors revealed by a machine learning prediction analysis",
+      "description": "Author summary Dengue is a serious health issue worldwide, spread by mosquitoes and affected by multiple factors. By studying multi-source factors, including historical cases, population, climate, air travel, forest, anemia, vector, serotype and socioeconomic\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013232",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013232.g003&size=inline",
+      "publishedAt": "2025-06-25 14:00:00",
+      "content": "Citation: Long H, Chen Y, Feng J, Chen J, Zhang X, Han W, et al. (2025) Annual global dengue dynamics are related to multi-source factors revealed by a machine learning prediction analysis. PLoS Negl\u2026 [+51168 chars]",
+      "retrievedAt": "2025-06-26 19:06:10.422029",
+      "internal_id": "32a282774f7176bf048333450b8a169cffa3cba269d1d9c24510bee7874ae523",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22359,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Darwin A. Le\u00f3n-Figueroa, Edwin Aguirre-Milachay, Milagros Diaz-Torres, Virgilio E. Failoc-Rojas, Rodrigo Camacho-Neciosup, Abel Eduardo Ch\u00e1varry Isla, Mario J. Valladares-Garrido",
+      "title": "Epidemiological and clinical characteristics of Peruvian patients with mpox: A systematic review and meta-analysis",
+      "description": "Background Mpox has become a public health problem due to its rapid evolution and clinical variability. In Latin America, Peru ranks fifth in terms of the number of cases. The main objective of this study is to determine the epidemiological and clinical chara\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327097",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327097.g002&size=inline",
+      "publishedAt": "2025-06-25 14:00:00",
+      "content": "Citation: Le\u00f3n-Figueroa DA, Aguirre-Milachay E, Diaz-Torres M, Failoc-Rojas VE, Camacho-Neciosup R, Ch\u00e1varry Isla AE, et al. (2025) Epidemiological and clinical characteristics of Peruvian patients w\u2026 [+34117 chars]",
+      "retrievedAt": "2025-06-26 19:06:13.155814",
+      "internal_id": "5753d5118d6b76c6b93e194772b4f215dfb2e4b8866969464bda7956adbc0fa0",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22339,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "MAGA Enters Racist Meltdown Mode Over Zohran Mamdani\u2019s New York Win",
+      "description": "A progressive won New York City\u2019s Democratic mayoral primary Tuesday, sending the far-right media sphere into a tailspin. Zohran Mamdani\u2019s campaign platform was practically the opposite of the president\u2019s, arguing for higher taxes on corporations and the ult\u2026",
+      "url": "https://newrepublic.com/post/197201/maga-racist-meltdown-zohran-mamdani-new-york-mayor",
+      "urlToImage": "https://images.newrepublic.com/e0f0226966bf21c900659ec27b48d2dc2059a805.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-06-25 13:58:47",
+      "content": "Despite issuing guidance that measles can be treated with simple vitamins, Health Secretary Robert F. Kennedy Jr. admitted Tuesday that hes never actually had to help someone recover from the disease\u2026 [+2254 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.843998",
+      "internal_id": "e5a8ed35e5c8bc1baf194712f49d4e2428cb0a40c691a070389b9935899dc7b7",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22340,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "Trump Lashes Out Over Reports His Iran Strikes Accomplished Nothing",
+      "description": "Donald Trump furiously pushed back Wednesday against reports that his surprise strike on three of Iran\u2019s nuclear facilities hadn\u2019t \u201ccompletely and fully obliterated them\u201d as he\u2019s previously claimed. While attending a NATO summit in The Hague, Trump attacked\u2026",
+      "url": "https://newrepublic.com/post/197198/donald-trump-lashes-out-iran-strikes-accomplished-nothing",
+      "urlToImage": "https://images.newrepublic.com/5dfa02826ca8a86a0477dcbdd3489e91b0ccad8a.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-06-25 13:14:56",
+      "content": "Despite issuing guidance that measles can be treated with simple vitamins, Health Secretary Robert F. Kennedy Jr. admitted Tuesday that hes never actually had to help someone recover from the disease\u2026 [+2254 chars]",
+      "retrievedAt": "2025-06-26 19:06:08.852952",
+      "internal_id": "5001790e9cda9e395656e69e24b4204da78a84e0d7cf908125eac10c5623541b",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22355,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Olivier Monod, AFP",
+      "title": "Chikungunya : la France m\u00e9tropolitaine enregistre un nombre de cas \u00abjamais observ\u00e9s jusqu\u2019\u00e0 pr\u00e9sent\u00bb en cette saison",
+      "description": "Avec huit cas autochtones d\u00e9tect\u00e9s pour l\u2019heure en m\u00e9tropole, la maladie transmise par le moustique tigre circule \u00e0 un niveau sans pr\u00e9c\u00e9dent si t\u00f4t de l\u2019ann\u00e9e, souligne Sant\u00e9 publique France ce mercredi 25 juin.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-la-france-metropolitaine-enregistre-un-nombre-de-cas-jamais-observes-jusqua-present-en-cette-saison-20250625_NLZ6ARDRCZBI5PHWZBYXRVMETY/",
+      "urlToImage": "https://www.liberation.fr/resizer/PCrkPQGuO57ps06SkVar3zbOvcg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/HSE5UDMNRRAR5EONAQUW3EZ5LU.jpg",
+      "publishedAt": "2025-06-25 13:09:58",
+      "content": "\u00abUne telle pr\u00e9cocit\u00e9 dans la saison dactivit\u00e9 du moustique et un nombre aussi \u00e9lev\u00e9 d\u00e9pisodes [de chikungunya] navaient jamais \u00e9t\u00e9 observ\u00e9s jusqu\u00e0 pr\u00e9sent\u00bb. Sant\u00e9 publique France ne cache pas son inq\u2026 [+2691 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.753548",
+      "internal_id": "0fb969f299268d459dbc2f02a813c4e9f5d1358c6a05ade072f6879ea936a3cd",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22352,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : huit cas autochtones enregistr\u00e9s en m\u00e9tropole, un niveau jamais vu aussi t\u00f4t dans l\u2019ann\u00e9e",
+      "description": "Les d\u00e9partements concern\u00e9s sont l\u2019H\u00e9rault, le Var, les Bouches-du-Rh\u00f4ne, la Dr\u00f4me, le Gard et la Corse-du-Sud, selon Sant\u00e9 publique France.",
+      "url": "https://www.lemonde.fr/sante/article/2025/06/25/chikungunya-huit-cas-autochtones-enregistres-en-metropole-un-niveau-jamais-vu-aussi-tot-dans-l-annee_6615863_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2025/06/25/99/0/3800/2533/1440/960/60/0/1bc09bf_upload-1-kqsrndxy8tna-000-par7264450.jpg",
+      "publishedAt": "2025-06-25 11:21:53",
+      "content": "Des moustiques-tigres, vecteurs du chikungunya et dautres maladies, \u00e9tudi\u00e9s dans un laboratoire de lentente interd\u00e9partementale pour la d\u00e9moustication (EID), \u00e0 Montpellier, le 9 ao\u00fbt 2012. PASCAL GUY\u2026 [+2330 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.702920",
+      "internal_id": "cf191933bd0ffd5d7c84d5df02060a97a447be5a92e3fd129dafff3d34bd9a3a",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22353,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Sant\u00e9. Un cas \"autochtone\" de chikungunya confirm\u00e9 dans la Dr\u00f4me",
+      "description": "Un cas autochtone de chikungunya \u00e0 Montoison a \u00e9t\u00e9 confirm\u00e9 par le Centre national de r\u00e9f\u00e9rence des arbovirus.",
+      "url": "https://www.ledauphine.com/sante/2025/06/25/un-cas-autochtone-de-chikungunya-confirme-dans-la-drome",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9DA94BAB-851E-47B7-A690-FAF1CECAB541/FB1200/photo-1750848296.jpg",
+      "publishedAt": "2025-06-25 10:46:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.718974",
+      "internal_id": "8292f58b4fc31a011bb351ca0cd15405a28abd54c573516cfe3832fc80d6d155",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22354,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Le chikungunya circule en m\u00e9tropole \u00e0 un niveau jamais vu \u00e0 cette p\u00e9riode de l'ann\u00e9e",
+      "description": "Huit cas autochtones ont d\u00e9j\u00e0 \u00e9t\u00e9 d\u00e9tect\u00e9s dans le sud du pays. Et selon Sant\u00e9 publique France, une telle pr\u00e9cocit\u00e9 dans la saison d'activit\u00e9 du moustique et un nombre aussi \u00e9lev\u00e9 d'\u00e9pisodes n'avaient jamais \u00e9t\u00e9 observ\u00e9s jusqu'\u00e0 pr\u00e9sent.",
+      "url": "https://www.ledauphine.com/sante/2025/06/25/le-chikungunya-circule-en-metropole-a-un-niveau-jamais-vu-a-cette-periode-de-l-annee",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/E141A350-E051-495D-8781-C12DF22261A1/FB1200/photo-1750847535.jpg",
+      "publishedAt": "2025-06-25 10:35:00",
+      "content": "Avec huit cas autochtones d\u00e9j\u00e0 d\u00e9tect\u00e9s en m\u00e9tropole, le chikungunya circule \u00e0 un niveau sans pr\u00e9c\u00e9dent aussi t\u00f4t dans l'ann\u00e9e, alerte ce mercredi l'agence Sant\u00e9 publique France, \u00e9tablissant un lien \u2026 [+2387 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.735759",
+      "internal_id": "be461b998aad688e4f60c01b2d898c827e107567f0982aacd96c4f49e8a89838",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22346,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Lou Thomas",
+      "title": "Que se passerait-il dans le monde si plus personne ne se vaccinait ?",
+      "description": "Alors que l\u2019\u00e9pid\u00e9mie de rougeole se poursuit aux Etats-Unis sur fond de d\u00e9fiance vaccinale, la perte de confiance dans les vaccins se retrouve dans la plupart de r\u00e9gions du monde. Quelles cons\u00e9quences si ce mouvement s\u2019amplifiait ? El\u00e9ments de r\u00e9ponse.",
+      "url": "https://www.nouvelobs.com/sciences/20250625.OBS105291/que-se-passerait-il-dans-le-monde-si-plus-personne-ne-se-vaccinait.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/06/25/0/0/3000/2000/1200/800/0/0/a416558_upload-1-zdk4gzvd5l0d-020-2032825189.jpg",
+      "publishedAt": "2025-06-25 10:30:13",
+      "content": "Campagne de vaccination contre la dengue \u00e0 Rio de Janeiro, au Br\u00e9sil, en f\u00e9vrier 2024. BUDA MENDES / GETTY IMAGES VIA AFP Commenter Google Actualit\u00e9s Partager Sabonner pour lire Temps de lectur\u2026 [+1721 chars]",
+      "retrievedAt": "2025-06-26 19:06:10.476812",
+      "internal_id": "19409a1da1b192106bb975b0758e4799cb57dc6fd481058ee63290581fdc67ec",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22356,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Le chikungunya circule \u00e0 un niveau jamais vu dans l'Hexagone et en Corse aussi t\u00f4t dans l'ann\u00e9e, pr\u00e9vient Sant\u00e9 publique France",
+      "description": "L'agence de sant\u00e9 publique pr\u00e9cise qu'un lien avec La R\u00e9union est \"probablement \u00e0 l'origine\" d'au moins deux cas, alors que l'\u00e9pid\u00e9mie a \u00e9t\u00e9 tr\u00e8s meurtri\u00e8re sur l'\u00eele.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/le-chikungunya-circule-a-un-niveau-jamais-vu-dans-l-hexagone-et-en-corse-aussi-tot-dans-l-annee-previent-sante-publique-france_7336629.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/CVFrZtSCGrec7RfE43QV7A3_qO4/0x29:1024x604/1500x843/2025/06/25/000-39y829f-685bc8f16c75f154387324.jpg",
+      "publishedAt": "2025-06-25 10:13:43",
+      "content": "Le chikungunya circule \u00e0 un niveau sans pr\u00e9c\u00e9dent aussi t\u00f4t dans l'ann\u00e9e en France hexagonale et en Corse, avec huit cas autochtones d\u00e9tect\u00e9s pour l'heure, a signal\u00e9 mercredi 25 juin Sant\u00e9 publique F\u2026 [+1262 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.762412",
+      "internal_id": "474a0ce06fd9214aceab822a7f6c90edfd5b6a4ffa2dbd35c53eea60a6eaf088",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22357,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : deux premiers cas autochtones d\u00e9tect\u00e9s dans les Bouches-du-Rh\u00f4ne, soit six cas d\u00e9sormais en France m\u00e9tropolitaine",
+      "description": "Les deux nouveaux cas ont \u00e9t\u00e9 localis\u00e9s vendredi dans la commune de Salon-de-Provence.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-deux-premiers-cas-autochtones-detectes-dans-les-bouches-du-rhone-soit-six-cas-desormais-en-france-metropolitaine_7336518.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/f7KDEPi3qhDAgC6RMzPy9HjSUXg/0x80:1024x656/1500x843/2025/06/25/000-par7264450-685bb92e91b58228385799.jpg",
+      "publishedAt": "2025-06-25 08:56:44",
+      "content": "L'ARS des Bouches-du-Rh\u00f4ne a d\u00e9tect\u00e9 la semaine derni\u00e8re, le vendredi 20 juin, deux premiers cas autochtones de chikungunya, selon un communiqu\u00e9 publi\u00e9 mercredi 25 juin. Ces deux cas ont \u00e9t\u00e9 localis\u00e9\u2026 [+799 chars]",
+      "retrievedAt": "2025-06-26 19:06:12.771023",
+      "internal_id": "f389bbfafad1e3e7ea666855caf62dcd7b6a6f2d2f01b7600b9437a22fb80802",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22347,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G Naga Sridhar",
+      "title": "Bharat Biotech, GSK to supply world\u2019s first malaria vaccine to Gavi",
+      "description": "GSK and Bharat Biotech collaborate to reduce malaria vaccine price, enhance production, and supply to Gavi by 2028.",
+      "url": "https://www.thehindubusinessline.com/companies/bharat-biotech-gsk-to-supply-worlds-first-malaria-vaccine-to-gavi/article69735068.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nu0kzi/article69735173.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U1F6Q2JAN_R1575386260_0_d9b12e42-bc48-4498-bcbd-e4f6f67fd2ba.jpg",
+      "publishedAt": "2025-06-25 08:19:56",
+      "content": "Bharat Biotech International Ltd (BBIL) and GSK plc will be supplying worlds first malaria vaccine (RTS,S) to global vaccine alliance Gavi for its next vaccine replenishment phase during 2026-2030. \u2026 [+3242 chars]",
+      "retrievedAt": "2025-06-26 19:06:11.636812",
+      "internal_id": "2e0c7b31432a1eb99410eef6b6a4969e06ca8e8ddbf3653f5130793f91c157b4",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Bharat Biotech, GSK to halve price of malaria vaccine by 2028",
+      "description": "Drugmakers Bharat Biotech and GSK will reduce the price of their malaria vaccine, Mosquirix, to $5 per dose by 2028, more than halving the current cost. This price cut, driven by process improvements and expanded production, aims to improve access to the vacc\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bharat-biotech-gsk-to-halve-price-of-malaria-vaccine-by-2028/articleshow/122064325.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122064403,width-1200,height-630,imgsize-1598549,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-06-25 07:15:15",
+      "content": "Drugmakers Bharat Biotech and GSK will cut the price of their malaria vaccine to $5 per dose by 2028, more than halving its current cost, they said on Wednesday.The vaccine, Mosquirix or RTS,S, was d\u2026 [+2161 chars]",
+      "retrievedAt": "2025-06-26 19:06:11.677652",
+      "internal_id": "f6d37215a75f8cd43458ba29752cfb3efa08d91ab952290de9fc4d7442fb49fc",
+      "publishedAtLabel": "Jun 25"
+    },
     {
       "id": 22331,
       "query": [
@@ -20632,96 +21082,6 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21187,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Simon Little",
-      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
-      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
-      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2025-05-11 18:35:34",
-      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.481516",
-      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21238,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Mercy Kahenda",
-      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
-      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
-      "publishedAt": "2025-05-11 14:30:14",
-      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
-      "retrievedAt": "2025-05-14 07:07:58.746120",
-      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21184,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Viconsortium.com",
-      "author": null,
-      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
-      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
-      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
-      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
-      "publishedAt": "2025-05-11 11:50:10",
-      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.456169",
-      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21171,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "author": "Danvictor Munene",
-      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
-      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
-      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
-      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
-      "publishedAt": "2025-05-11 09:21:11",
-      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.859398",
-      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21170,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Chip.com.tr",
-      "author": "Levent \u00d6zt\u00fcrk",
-      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
-      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
-      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
-      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
-      "publishedAt": "2025-05-11 08:23:41",
-      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.454665",
-      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]
