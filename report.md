@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-06-25 19:05
-- **Most recent article:** 2025-06-24 18:45:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2025-06-26 07:08
+- **Most recent article:** 2025-06-25 05:41:38
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 72 | 77 | 68 | 90 | 48 | 31 | 2 | 388 |
-| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 11 | 145 |
-| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
-| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 6 | 127 |
+| measles | 75 | 77 | 68 | 90 | 48 | 31 | 21 | 410 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 13 | 147 |
+| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 7 | 128 |
 | chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 6 | 102 |
 | mpox | 18 | 11 | 19 | 15 | 24 | 11 | 1 | 99 |
 | rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
 | zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 2 | 28 |
+| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 2 | 29 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
 | hpai | 1 | 2 | 1 | 3 | 1 | 1 | 0 | 9 |
-| typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 1 | 7 |
+| typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 2 | 8 |
 | leptospirosis | 1 | 0 | 1 | 2 | 2 | 0 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 0 | 3 | 1 | 0 | 4 |
 
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue mosquito is a much smarter predator than thought, it uses a stealth mode to hunt humans even without smell, study finds](https://economictimes.indiatimes.com/news/new-updates/dengue-mosquito-is-a-much-smarter-predator-than-thought-it-uses-a-stealth-mode-to-hunt-humans-even-without-smell-study-finds/articleshow/122022022.cms) (The Times of India)
 
 ## 25-26 (typhoid)
+
+- [Distinct adaptation and epidemiological success of different genotypes within Salmonella enterica serovar Dublin](https://elifesciences.org/articles/102253) (Elifesciences.org)
 
 - [Length of hospital stay and associated treatment costs for patients with susceptible and antibiotic-resistant Salmonella infections: a systematic review and meta-analysis](https://bmjopen.bmj.com/content/15/6/e092494) (The BMJ)
 
@@ -61,11 +63,51 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (measles)
 
+- [Zohran Mamdani Wins NYC Democratic Mayoral Primary in Massive Upset](https://newrepublic.com/post/197182/new-york-city-mayor-primary-zohran-mamdani) (The New Republic)
+
+- [Measles cases confirmed in Kamloops, Chilliwack: B.C. health officials](https://www.cbc.ca/news/canada/british-columbia/measles-chilliwack-kalmloops-1.7569918) (CBC News)
+
+- [Oregon Health Authority confirms first measles case of 2025](https://www.opb.org/article/2025/06/24/oregon-health-authority-first-measles-case-2025/) (OPB News)
+
+- [Alberta baby recovering from measles faces ‘long, painful road’ | Globalnews.ca](http://globalnews.ca/news/11259728/alberta-baby-recovering-from-measles-faces-long-painful-road/) (Global News)
+
+- [Global vaccination efforts stall, leaving millions vulnerable to preventable diseases](https://abcnews.go.com/Health/wireStory/global-vaccination-efforts-stall-leaving-millions-children-vulnerable-123175542) (ABC News)
+
+- [Utah health officials report 3 positive measles cases across state](https://kutv.com/news/local/utah-health-officials-report-3-positive-measles-cases-across-state) (KUTV 2News)
+
+- [Millions of children at risk as vaccine uptake stalls](https://www.bbc.com/news/articles/c1ljv2mvr00o) (BBC News)
+
+- [Measles outbreak confirmed in Grand Traverse County, health officials urge caution](https://upnorthlive.com/news/local/measles-outbreak-confirmed-in-grand-traverse-county-health-officials-urge-caution) (UpNorthLive.com)
+
+- [Oregon confirms first measles case of 2025, linked to international travel](https://www.oregonlive.com/health/2025/06/oregon-confirms-first-measles-case-of-2025-linked-to-international-travel.html) (OregonLive)
+
+- [Republican Representative Admits Trump Deportations Are Causing Chaos](https://newrepublic.com/post/197152/republican-representative-salazar-trump-deportations) (The New Republic)
+
+- [1st measles case of 2025 confirmed in North Carolina](https://www.wsoctv.com/news/local/1st-measles-case-2025-confirmed-north-carolina/4MDTY432NFF4DC247JCQUVDHJU/) (WSOC Charlotte)
+
+- [NCDHHS confirms first case of measles in North Carolina this year](https://abc11.com/post/measles-nc-ncdhhs-reports-first-case-north-carolina-year/16838494/) (WTVD-TV)
+
+- [3 locally-acquired measles cases confirmed in Chilliwack | Globalnews.ca](http://globalnews.ca/news/11259468/chilliwack-measles-unvaccinated/) (Global News)
+
+- [2 new measles cases confirmed in Utah](https://ksltv.com/health/2-new-measles-cases-confirmed-in-utah/789548/) (ksltv.com)
+
+- [North Carolina health officials confirm state's first measles case of 2025](https://wlos.com/news/local/north-carolina-officials-confirm-states-first-2025-measles-case-department-health-human-services-vaccination-unvaccinated-ncdhhs-exposure-symptoms-doctor) (WLOS)
+
+- [Public health professionals have discovered two new cases of measles in Utah](https://www.sltrib.com/news/2025/06/24/public-health-professionals-have/) (Salt Lake Tribune)
+
+- [NC's first measles case in 2025 reported in Forsyth, Guilford counties](https://www.wral.com/lifestyle/health/nc-first-measles-case-june-2025/) (WRAL.com)
+
+- [Turns Out, Trump’s Reckless Iran Strikes Didn’t Achieve Anything](https://newrepublic.com/post/197179/donald-trump-iran-strikes-achieve-nothing) (The New Republic)
+
+- [RFK Jr. Admits He Knows Nothing About Actually Treating Measles](https://newrepublic.com/post/197175/robert-f-kennedy-jr-knows-nothing-measles-vaccines) (The New Republic)
+
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
 - ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
 
 ## 25-26 (malaria)
+
+- [Addressing reductions in US global health funding: An opportunity for a rethink, or more of the same?](https://speakingofmedicine.plos.org/2025/06/24/addressing-reductions-in-us-global-health-funding-an-opportunity-for-a-rethink-or-more-of-the-same/) (Plos.org)
 
 - [Potential role of proprietary patent medicine vendors in primary eye and ear care: A mixed methods study in northern Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326132) (Plos.org)
 
@@ -88,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 - [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
+
+- [Emraan Hashmi is 'back in action' recovering from dengue](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-is-back-in-action-recovering-from-dengue/articleshow/122062169.cms) (The Times of India)
+
+- [Emraan Hashmi resumes shooting after recovering from dengue](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-resumes-shooting-after-recovering-from-dengue/articleshow/122061716.cms) (The Times of India)
 
 - [ImmunoPrecise Antibodies provides update on dengue vaccine breakthrough](https://thefly.com/permalinks/entry.php/id4149224/IPA-ImmunoPrecise-Antibodies-provides-update-on-dengue-vaccine-breakthrough) (Thefly.com)
 
@@ -2245,6 +2291,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
+- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2391,6 +2439,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
+- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
+
+- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
+
+- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
+
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2464,6 +2518,8 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
+
+- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 
