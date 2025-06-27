@@ -1,8 +1,512 @@
 {
-  "last_updated": "2025-06-27 07:08",
-  "count_articles_total": 1183,
-  "count_articles_new": 10,
+  "last_updated": "2025-06-27 19:06",
+  "count_articles_total": 1206,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 22371,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Limerick hospital apologises in High Court for baby\u2019s death at 16 weeks old",
+      "description": "Infant developed meningitis, but family alleged failure to take proper action in response to his condition",
+      "url": "https://www.irishtimes.com/crime-law/courts/2025/06/26/limerick-hospital-apologises-in-high-court-for-babys-death-at-16-weeks-old/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/XPO4JZCG3ZG55GNIPVJR4RPGJE.jpg?smart=true&auth=2b282352e6425d8ee3f91bc7a87b7cd06bcd6524649da6ea39d878f1c0185a48&width=1200&height=630",
+      "publishedAt": "2025-06-26 17:16:36",
+      "content": "University Maternity Hospital Limerick has apologised after acknowledging it breached its duty of care to a baby boy who died following a delayed diagnosis. The apology came as the infants mother se\u2026 [+1838 chars]",
+      "retrievedAt": "2025-06-27 19:06:03.323954",
+      "internal_id": "eb28bfaa5ce762d6bcd71f444b2282c287daf829dffa8cdb79373281285725a9",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22394,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Sanidad ordena tener cuidado en verano: notifica la muerte por mpox de una persona en Espa\u00f1a",
+      "description": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estaba vacunada frente a mpox.",
+      "url": "https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13435886/06/25/sanidad-ordena-tener-cuidado-en-verano-notifica-la-muerte-por-mpox-de-una-persona-en-espana.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/f/6/a/mpox-salud.jpg",
+      "publishedAt": "2025-06-26 16:28:02",
+      "content": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estab\u2026 [+1557 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.109648",
+      "internal_id": "2275c38b7ec182b0b550b89c66e158beaf541e37dd85242c44bedacbab2f21de",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22375,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "\u00c9pid\u00e9mie chikungunya : de nombreux cas d\u00e9tect\u00e9s en France m\u00e9tropolitaine",
+      "description": "L'inqui\u00e9tude monte en raison du niveau de l'\u00e9pid\u00e9mie de chikungunya. Apr\u00e8s La R\u00e9union, le virus atteint un niveau jamais vu aussi t\u00f4t dans l'ann\u00e9e en m\u00e9tropole. Plusieurs cas ont \u00e9t\u00e9 enregistr\u00e9s, notamment dans le sud de la France. Alors, comment s'en pr\u00e9muni\u2026",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-chikungunya-de-nombreux-cas-detectes-en-france-metropolitaine_7339305.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/UsBYSeOTnFg5c-dFdPXg76u-wEY/300x0:1770x826/1500x843/2025/06/26/epidemie-chikungunya-de-nombreux-cas-detectes-en-france-metropolitaine-685d65dcf0e10137785515.jpg",
+      "publishedAt": "2025-06-26 15:38:05",
+      "content": "L'inqui\u00e9tude monte en raison du niveau de l'\u00e9pid\u00e9mie de chikungunya. Apr\u00e8s La R\u00e9union, le virus atteint un niveau jamais vu aussi t\u00f4t dans l'ann\u00e9e en m\u00e9tropole. Plusieurs cas ont \u00e9t\u00e9 enregistr\u00e9s, not\u2026 [+974 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.152836",
+      "internal_id": "5deb379d101af90ca2bc8862c8a4dfe4f4ddcc8973dae4d84728a574c2b842b2",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22370,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Cases Soar in California",
+      "description": "\"California has already reported more measles cases this year than in all of 2024, a worrisome development that comes as the nation is suffering its largest outbreak of the super-infectious disease in decades,\" the Los",
+      "url": "https://politicalwire.com/2025/06/26/measles-cases-soar-in-california/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-06-26 15:28:58",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-06-27 19:06:01.092207",
+      "internal_id": "c619afaf9f410df07e2b161bc62825e66f0f55e763086ae07273462695edc63a",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22372,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Joanna L. Whisnant, Mustafa Kamal Sikder, Gizachew Taddesse Akalu, Tsegaye Alemu, Mubarek Yesse Ashemo, Amelia Bertozzi-Villa, Annie J. Browne, Ewerton Cousin, Paulina Agnieszka Dzianach, Yalemzewod Assefa Gelaw, Peter W. Gething, Taren M. Gorman, Simon I. Hay, Olayinka Stephen Ilesanmi, Cathleen Keller, Juniper Boroka Kiss, Jailos Lubinda, Michael A. McPhail, Olivia D. Nesbit, Gideon Olamilekan Oluwatunase, Verner N. Orish, Amel Ouyahia, Susan Fred Rumisha, Adam Saddler, Afeez Abolarinwa Salami, Francesca Sanna, Desalegn Shiferaw, Jacques Lukenze Tamuzi, Daniel J. Weiss, Naod Gebrekrstos Zeru, Francis Zeukeng, Stephanie R. M. Zimsen, Jonathan F. Mosser",
+      "title": "Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa",
+      "description": "Author summary Lymphatic filariasis is a vector-borne disease that can cause significant disability. There is evidence that insecticide-treated nets used by malaria programs can contribute to lymphatic filariasis elimination, but current lymphatic filariasis \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013165.g004&size=inline",
+      "publishedAt": "2025-06-26 14:00:00",
+      "content": "Abstract Eradication and elimination strategies for lymphatic filariasis (LF) primarily rely on multiple rounds of annual mass drug administration (MDA), but also may benefit from vector control int\u2026 [+42714 chars]",
+      "retrievedAt": "2025-06-27 19:06:03.821656",
+      "internal_id": "3eff7c907b9c70b3f002ba87e2bdff0db027f7fdc2b17bd9feb7517fd5571d61",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22377,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "EFE",
+      "title": "Espa\u00f1a notifica la primera muerte de mpox desde 2022 en un hombre inmunodeprimido sin vacunar",
+      "description": "Espa\u00f1a ha notificado el primer fallecimiento por mpox desde 2022, en este caso el de un hombre con sida que no se hab\u00eda vacunado, con lo que se elevan a tres el n\u00famero de muertos en nuestro pa\u00eds por viruela del mono desde que se desatara el brote \u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/espana-notifica-primera-muerte-mpox-2022-hombre-inmunodeprimido-vacunar.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2022/12/10/6393e7f6394db.jpeg",
+      "publishedAt": "2025-06-26 13:32:09",
+      "content": "Espa\u00f1a ha notificado el primer fallecimiento por mpox desde 2022, en este caso el de un hombre con sida que no se hab\u00eda vacunado, con lo que se elevan a tres el n\u00famero de muertos en nuestro pa\u00eds por \u2026 [+2281 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.947583",
+      "internal_id": "c41a31c81b32b6c06ef3759a550d9a99817f79411d8d0b8562b76e64026407aa",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22373,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "V\u00e9ronique Mol\u00e9nat, Journaliste",
+      "title": "Jamais vu si t\u00f4t : l\u2019inqui\u00e9tante pouss\u00e9e du chikungunya en m\u00e9tropole interroge les scientifiques",
+      "description": "Dans son dernier bulletin trimestriel, Sant\u00e9 publique France s\u2019alarme de la multiplication des cas de chikungunya en France m\u00e9tropolitaine. Comment expliquer cette recrudescence ? Comment se pr\u00e9munir ? On fait le point.",
+      "url": "https://www.futura-sciences.com/sante/actualites/epidemie-jamais-vu-si-tot-inquietante-poussee-chikungunya-metropole-interroge-scientifiques-123230/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/4/d/e4dea4d247_50232966_2-moustique.jpg",
+      "publishedAt": "2025-06-26 13:27:11",
+      "content": "Il n'y a pas que le mercuremercure qui augmente en ce moment en France. L'inqui\u00e9tude d'une multiplication incontr\u00f4l\u00e9e des cas de chikungunya aussi ! Selon Sant\u00e9 publique France (SPF), huit cas de cet\u2026 [+4218 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.050473",
+      "internal_id": "33b0c85cd777ccd49089801ed3919e05a7a8b882eb207a99de363bb3cea69e24",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22374,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : \"Ce que les \u00e9pid\u00e9miologistes redoutaient est en train d'arriver, ce ne sont plus des maladies tropicales\", d\u00e9plore William Dab, professeur en \u00e9pid\u00e9miologie",
+      "description": "Le chikungunya circule \u00e0 nouveau en France m\u00e9tropolitaine. Huit cas autochtones ont \u00e9t\u00e9 d\u00e9tect\u00e9s par Sant\u00e9 publique France, une premi\u00e8re si t\u00f4t dans l'ann\u00e9e. Faut-il s'en inqui\u00e9ter ? William Dab, professeur en \u00e9pid\u00e9miologie et ancien directeur g\u00e9n\u00e9ral de la S\u2026",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-ce-que-les-epidemiologistes-redoutaient-est-en-train-d-arriver-ce-ne-sont-plus-des-maladies-tropicales-deplore-william-dab-professeur-en-epidemiologie_7339059.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/b4qsdE2G8cyk84-pD6kqeHHBY5k/91x0:1377x723/1500x843/2025/06/26/chikungunya-interview-685d450b741f2950518452.jpg",
+      "publishedAt": "2025-06-26 13:04:25",
+      "content": "Le chikungunya circule \u00e0 nouveau en France m\u00e9tropolitaine. Huit cas autochtones ont \u00e9t\u00e9 d\u00e9tect\u00e9s par Sant\u00e9 publique France, une premi\u00e8re si t\u00f4t dans l'ann\u00e9e. Faut-il s'en inqui\u00e9ter ? William Dab, pro\u2026 [+5669 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.143139",
+      "internal_id": "d759b164d5ea1452d6e8e23ec91c726d978b6d8171b42c0ba2659237f6a7e06a",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22376,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "\"Quand on a des sympt\u00f4mes, c'est important de consulter\" : trois questions \u00e0 un m\u00e9decin sur les cas autochtones de chikungunya en France",
+      "description": "Mercredi, Sant\u00e9 Publique France a recens\u00e9 huit cas autochtones de chikungunya en France, et 645 \"cas import\u00e9s\" depuis le 1er mai. Le m\u00e9decin \u00e9pid\u00e9miologiste, \u00c9ric d\u2019Ortenzio, r\u00e9pond aux questions de franceinfo.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/quand-on-a-des-symptomes-c-est-important-de-consulter-trois-questions-a-un-medecin-sur-les-cas-autochtones-de-chikungunya-en-france_7338753.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/ZKbFYsM5Ryk5MU0-ZcW2tNW2NCI/0x204:2680x1710/1500x843/2025/06/26/075-roy-notitle240831-npsj4-1-685d12c98df62606630554.jpg",
+      "publishedAt": "2025-06-26 10:15:14",
+      "content": "Le chikungunya circule \u00e0 un niveau sans pr\u00e9c\u00e9dent aussi t\u00f4t dans l'ann\u00e9e en m\u00e9tropole, avec huit cas autochtones d\u00e9tect\u00e9s pour le moment, a signal\u00e9 l'Agence de sant\u00e9 publique, mercredi 25 juin, \u00e9tabl\u2026 [+2856 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.169777",
+      "internal_id": "e5c7755997bba03804db13b0ef9eb4e85b74b8bf45add225e0478f856d5a58f7",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22397,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Sanidad notifica la muerte por mpox en Espa\u00f1a de una persona en estado avanzado de inmunosupresi\u00f3n",
+      "description": "Se trata de un hombre de entre 30 y 40 a\u00f1os de edad que no estaba vacunado",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2025/06/26/sanidad-notifica-muerte-mpox-espana-persona-estado-avanzado-inmunosupresion/00031750929191973330772.htm",
+      "urlToImage": "https://img.lavdg.com/sc/lwnampTwGwIJ9is9INjMYt-ZyCE=/1280x/2025/06/26/00121750932481586399657/Foto/j_20250626_120615000.jpg",
+      "publishedAt": "2025-06-26 10:09:00",
+      "content": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox \u2014antes denominada viruela del mono\u2014 de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estab\u2026 [+973 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.167514",
+      "internal_id": "16f9ef20f0ee2604957b6c79bd51650190175d887e17765a13d45e4364645b3a",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22396,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "J.A. G\u00f3mez",
+      "title": "Muere un hombre en Espa\u00f1a tras contraer la viruela del mono: no estaba vacunado y ten\u00eda una infecci\u00f3n por VIH",
+      "description": "El Instituto de Salud Carlos III ha registrado 273 casos de mpox en lo que va de a\u00f1o, siendo Catalu\u00f1a y Madrid las regiones con m\u00e1s contagios. M\u00e1s informaci\u00f3n: Viruela del mono (mpox): c\u00f3mo se contagia la enfermedad y cu\u00e1les son los principales s\u00edntomas",
+      "url": "https://www.elespanol.com/ciencia/salud/20250626/muere-hombre-espana-contraer-viruela-mono-no-vacunado-infeccion-vih/1003743821934_0.html",
+      "urlToImage": "https://s1.elespanol.com/2022/05/19/ciencia/salud/673693266_224433177_1706x960.jpg",
+      "publishedAt": "2025-06-26 10:06:39",
+      "content": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estab\u2026 [+972 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.158337",
+      "internal_id": "4c9849b1b03745d6f9216a8d6b66e0ce021eed7c54f4d11378d8c51da7853dfc",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22378,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Sanidad notifica la muerte por viruela del mono de un paciente con un VIH en estado avanzado",
+      "description": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estaba vacunada frente a mpox. As\u00ed lo ha indicado el ISCIII en el\u2026",
+      "url": "https://www.abc.es/sociedad/sanidad-notifica-muerte-viruela-mono-paciente-vih-20250626120146-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/06/26/viruela-mpox-U30182851601dkF-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-06-26 10:01:47",
+      "content": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estab\u2026 [+1015 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.957297",
+      "internal_id": "b6bab45260a234f17c84f770e8d7594ec1d412865c2d3489e6e6e3e2ceb0b23b",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22393,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Laatstejaars Stella Matutina studeren af en gooien afstudeerhoedje op",
+      "description": "Alle zestig leerlingen van de zesde en zevende jaren van Stella Matutina mochten na de academische zitting van het promotiefeest hun afstudeerhoedje opgooien.",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/laatstejaars-stella-matutina-studeren-af-en-gooien-afstudeerhoedje-op/73918235.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/pehxzo-laatstejaars-stella-matutina-michelbeke-studeren-af-en-gooien-afstudeerhoedje-omhoog/alternates/SIXTEEN_NINE_1200/Laatstejaars%20Stella%20Matutina%20Michelbeke%20studeren%20af%20en%20gooien%20afstudeerhoedje%20omhoog",
+      "publishedAt": "2025-06-26 09:59:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.101154",
+      "internal_id": "5a9116e3da6f007cfee80aabb03efd34ef7a0f44271e6900a98bf7c41a9035f4",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22389,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "Eddy Vandoren",
+      "title": "Buurtbewoners geven tegenwind aan windmolenpark Ventori: \u201cDit plan is waanzin\u201d",
+      "description": "Geen overvolle zaal in Millen, maar toch zowat negentig buurtbewoners uit Tongeren en Riemst waren woensdag aanwezig op de infoavond over het Ventori windmolenproject dat in de steigers staat. Ze gingen massaal in op de oproep van het actiecomit\u00e9 om zoveel mo\u2026",
+      "url": "https://www.hbvl.be/regio/limburg/riemst/buurtbewoners-geven-tegenwind-aan-windmolenpark-ventori-dit-plan-is-waanzin/73746788.html",
+      "urlToImage": "https://prod-img.hbvl.be/public/nieuws/avw16x-zowat-negentig-bezorgde-buurtbewoners-waren-aanwezig-en-wilden-meteen-het-bezwaarschrift-ondertekenen./alternates/SIXTEEN_NINE_1200/Zowat%20negentig%20bezorgde%20buurtbewoners%20waren%20aanwezig%20en%20wilden%20meteen%20het%20bezwaarschrift%20ondertekenen.",
+      "publishedAt": "2025-06-26 09:52:21",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.064954",
+      "internal_id": "d0dfd927ef9b269cc82f9c32ccfe6c8a6afdac9a4094cfdafab8c93266b1153e",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22382,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jonathan Folens",
+      "title": "Jeugdhuis \u2019t Sloefke maakt plaats voor appartementen: \u201cHier hebben we de gouden tijden beleefd\u201d",
+      "description": "De oude herberg waar decennialang jeugdhuis \u2019t Sloefke gehuisvest was, maakt binnenkort plaats voor een nieuwe verkaveling. Het gebouw wordt de komende weken afgebroken. Medeoprichter Rudy Vandermeeren (67) blikt terug op de hoogdagen van het jeugdhuis. \u201cIn d\u2026",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/zulte/jeugdhuis-t-sloefke-maakt-plaats-voor-appartementen-hier-hebben-we-de-gouden-tijden-beleefd/73021802.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/q87m86-rudy-vandermeeren-lag-ruim-vijftig-jaar-geleden-mee-aan-de-basis-van-jeugdhuis-t-sloefke./alternates/SIXTEEN_NINE_1200/Rudy%20Vandermeeren%20lag%20ruim%20vijftig%20jaar%20geleden%20mee%20aan%20de%20basis%20van%20jeugdhuis%20t%20Sloefke.",
+      "publishedAt": "2025-06-26 09:51:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.001428",
+      "internal_id": "be2bdb76f25328c00e570b8265f8b04c20497388815713668628df8f8ca96cb6",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22388,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jeffrey Roos",
+      "title": "Oostendse musea houden avondopeningen tijdens zomervakantie",
+      "description": "De Oostendse musea openen tijdens de zomermaanden op zaterdagavond hun deuren. Elke zaterdag zal er \u00e9\u00e9n museum te bezoeken zijn tussen 18 en 22 uur, te beginnen op 5 juli.",
+      "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/oostendse-musea-houden-avondopeningen-tijdens-zomervakantie/73923537.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/873st0-mu.zee-gaanderijen.jpg/alternates/SIXTEEN_NINE_1200/Mu.ZEE%20Gaanderijen.jpg",
+      "publishedAt": "2025-06-26 09:50:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.056194",
+      "internal_id": "c2228a3510a8c7f210e1cc78a33d3b4981ec55ae9603ee195cfc931e9081e820",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22387,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Bert Staes",
+      "title": "Drukke steenweg wordt zone 30: \u201cVeiliger maken voor talrijke fietsers en voetgangers\u201d",
+      "description": "De Brugsesteenweg, een drukke as in het noorden van Gent, wordt een zone 30. Dat maakt schepen van Mobiliteit Joris Vandenbroucke (Voor Gent) bekend.",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/drukke-steenweg-wordt-zone-30-veiliger-maken-voor-talrijke-fietsers-en-voetgangers/73970339.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/pq3phr-de-brugsesteenweg-loopt-van-de-brugse-poort-via-mariakerke-naar-wondelgem./alternates/SIXTEEN_NINE_1200/De%20Brugsesteenweg%20loopt%20van%20de%20Brugse%20Poort%20via%20Mariakerke%20naar%20Wondelgem.",
+      "publishedAt": "2025-06-26 09:46:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.047615",
+      "internal_id": "29513bd7626f11066071cec5b66b3c6cb783393b24d41475860971e7c1d7f882",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22384,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Annabel Podevyn",
+      "title": "Wie blinkt uit in Aalsterse gemeenteraad? Podcastduo Daan (30) en Emily (26) delen rapporten uit na laatste gemeenteraad",
+      "description": "De laatste Aalsterse gemeenteraad voor de zomervakantie was voor de \u2018Gemeenteraadsels\u2019-podcastmakers Daan Zwaenepoel (30) en Emily Mortier (26) de uitgelezen kans om rapporten uit te delen aan de raadsleden. Wie stelde het meeste vragen in het vragenuur? Welk\u2026",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/wie-blinkt-uit-in-aalsterse-gemeenteraad-podcastduo-daan-30-en-emily-26-delen-rapporten-uit-na-laatste-gemeenteraad/73917301.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/z3yhvc-de-laatste-aalsterse-gemeenteraad-voor-de-zomervakantie-was-voor-de-gemeenteraadsels-podcastmakers-daan-zwaenepoel-30-en-emily-mortier-26-de-uitgelezen-kans-om-rapporten-uit-te-delen-aan-de-raadsleden./alternates/SIXTEEN_NINE_1200/De%20laatste%20Aalsterse%20gemeenteraad%20voor%20de%20zomervakantie%20was%20voor%20de%20%E2%80%98Gemeenteraadsels%E2%80%99-podcastmakers%20Daan%20Zwaenepoel%2030%20en%20Emily%20Mortier%2026%20de%20uitgelezen%20kans%20om%20rapporten%20uit%20te%20delen%20aan%20de%20raadsleden.",
+      "publishedAt": "2025-06-26 09:45:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.020754",
+      "internal_id": "735d6868967bc2176a433d9f7a9fc56caf51827a8df1812ce0fd63a34b7b41f7",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22380,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "Bieke Lathouwers",
+      "title": "Chimpansee Lomela aan de haal met baby Zabari in Zoo Antwerpen: \u201cMarit durfde haar zoontje niet opnieuw afpakken\u201d",
+      "description": "In de Mensapenvallei van de Antwerpse Zoo is chimpanseebaby Zabari intussen zes maanden oud. De zoon van Marit heeft een hele schare fans en doet het prima. Nochtans was het onlangs even spannend, toen Lomela het jong een tijdlang afnam van zijn moeder.",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/chimpansee-lomela-aan-de-haal-met-baby-zabari-in-zoo-antwerpen-marit-durfde-haar-zoontje-niet-opnieuw-afpakken/73550420.html",
+      "urlToImage": "https://prod-img.gva.be/public/incoming/jwkx4f-499761069-10163311094235908-2193987454218676750-n.jpg/alternates/SIXTEEN_NINE_1200/499761069_10163311094235908_2193987454218676750_n.jpg",
+      "publishedAt": "2025-06-26 09:40:54",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.983860",
+      "internal_id": "336a9c120f9afb211131d20afc94b58e92230966f04c15a7b87af534db1893c4",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22386,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": ",Jan-Pieter Van Oost",
+      "title": "Geen meldpunt na racistische incidenten: \u201cWij kunnen moeilijk politie vervangen\u201d",
+      "description": "De gemeente Tervuren gaat geen meldpunt tegen racisme oprichten. Die vraag kwam er vanuit burgerbeweging Hand in Hand Tegen Racisme na enkele incidenten.",
+      "url": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tervuren/geen-meldpunt-na-racistische-incidenten-wij-kunnen-moeilijk-politie-vervangen/73956434.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/wcx32z-de-actievoerders-dienden-in-april-een-verzoekschrift-bij-de-gemeenteraad-in./alternates/SIXTEEN_NINE_1200/De%20actievoerders%20dienden%20in%20april%20een%20verzoekschrift%20bij%20de%20gemeenteraad%20in.",
+      "publishedAt": "2025-06-26 09:37:26",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.038940",
+      "internal_id": "02917810370ab6c591dc9001db05be617160077ab2711bc89e9960b09706fb3a",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22390,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jeroen D'hulster",
+      "title": "Nicola Stampaert vormt duo met Steve Matterne in Ypres Rally: \u201cTop tien halen is toch wel de ambitie\u201d",
+      "description": "Nicola Stampaert is intussen een van de habitu\u00e9s in het Belgisch kampioenschap. In de Ypres Rally hoopt de Skoda-rijder dankzij de ervaring van copiloot Steve Matterne een plek in de top tien te bemachtigen",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/vlaamse-ardennen/kruisem/nicola-stampaert-vormt-duo-met-steve-matterne-in-ypres-rally-top-tien-halen-is-toch-wel-de-ambitie/73381390.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/3z1qfz-thumbnail-img-6086-stampaert-nicolas-1.jpg/alternates/SIXTEEN_NINE_1200/thumbnail_IMG_6086_Stampaert%20Nicolas_1.jpg",
+      "publishedAt": "2025-06-26 09:35:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.074481",
+      "internal_id": "caf819c74e76918157a864b9558bddb2ad25cfbfb517437c22c52d0d5cd6ee35",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22383,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Yannick Joos",
+      "title": "Heraanleg Watermolenstraat zorgt voor veiligere aanloop naar nieuwe sportsite",
+      "description": "De vernieuwing van de Watermolenstraat is van start gegaan en moet zorgen voor een veiligere en toekomstgerichte woonomgeving \u00e9n aanloop naar het nieuwe Sportkringpark. De werken moeten in het voorjaar van 2026 klaar zijn.",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/heraanleg-watermolenstraat-zorgt-voor-veiligere-aanloop-naar-nieuwe-sportsite/73916598.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/fncoy8-watermolenstraat-in-sint-niklaas/alternates/SIXTEEN_NINE_1200/Watermolenstraat%20in%20Sint-Niklaas",
+      "publishedAt": "2025-06-26 09:30:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.011846",
+      "internal_id": "c1388b1c1c1c3a47eb391535aec39acae789fcf6e2567a2c6793e44d4c1658ab",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22385,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Arthur Carton",
+      "title": "Enthousiasme en duurzaamheid troef op eerste dag Rock Voor Specials: \u201cEen absoluut plezier hier weer te mogen zijn\u201d",
+      "description": "Ja, er zijn enkele uitdagingen geweest op de eerste dag van Rock Voor Specials, het festival voor mensen met een beperking en hun begeleiders. Maar laten we wel wezen, op zo\u2019n openingsdag mag je apetrots terugblikken. De 28ste editie van het meest buitengewon\u2026",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/evergem/enthousiasme-en-duurzaamheid-troef-op-eerste-dag-rock-voor-specials-een-absoluut-plezier-hier-weer-te-mogen-zijn/73656742.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/1t3kqc-rock-voor-specials/alternates/SIXTEEN_NINE_1200/Rock%20Voor%20Specials",
+      "publishedAt": "2025-06-26 09:30:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.029816",
+      "internal_id": "56d69d668c0d15f5ce5ce71d27ba9d4d1a3d92f9e564aa7d60075cc397c68b8d",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22391,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Brent Saey",
+      "title": "Overleden huisdieren bijplaatsen voortaan mogelijk op gemeentelijke begraafplaatsen",
+      "description": "Eerder overleden huisdieren kunnen voortaan ook bijgeplaatst worden bij een overleden persoon op de begraafplaatsen in Wichelen. De gemeenteraad stemde daarvoor een aangepast huishoudelijk reglement goed. Ook urnen van eerder overleden personen kunnen nu bij \u2026",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/wichelen/overleden-huisdieren-bijplaatsen-voortaan-mogelijk-op-gemeentelijke-begraafplaatsen/73925407.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/vfs1p9-op-de-begraafplaatsen-van-wichelen-kunnen-voortaan-eerder-overleden-personen-en-gezelschapsdieren-worden-bijgeplaatst-bij-pas-overledenen./alternates/SIXTEEN_NINE_1200/Op%20de%20begraafplaatsen%20van%20Wichelen%20kunnen%20voortaan%20eerder%20overleden%20personen%20en%20gezelschapsdieren%20worden%20bijgeplaatst%20bij%20pas%20overledenen.",
+      "publishedAt": "2025-06-26 09:30:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.083226",
+      "internal_id": "46b9883b9bb8817540e75a92f550a7f39ca9192c497ed258a38e2e12f6496580",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22381,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Daron Mertens",
+      "title": "Basisschool W'ijzer wint eerste prijs bij techniekwedstrijd",
+      "description": "GO! Basisschool W\u2019ijzer in Diksmuide heeft de eerste prijs gewonnen bij de wedstrijd \u2018Escape form your school\u2019 van techniekevent Technoboost. Afgelopen schooljaar namen maar liefst 81 West-Vlaamse basisscholen deel.",
+      "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/basisschool-wijzer-wint-eerste-prijs-bij-techniekwedstrijd/73968301.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/60hn2t-go-basisschool-wijzer-in-diksmuide-heeft-de-eerste-prijs-gewonnen-bij-de-wedstrijd-van-techniekevent-technoboost./alternates/SIXTEEN_NINE_1200/GO%20Basisschool%20Wijzer%20in%20Diksmuide%20heeft%20de%20eerste%20prijs%20gewonnen%20bij%20de%20wedstrijd%20van%20techniekevent%20Technoboost.",
+      "publishedAt": "2025-06-26 09:28:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.992491",
+      "internal_id": "9580274cad5927e6dcd4af421cca81adfde3474eaf1b6bc7a0726b0d6ecda83f",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22392,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "William Defraigne",
+      "title": "Vijf Oost-Vlamingen trekken naar Amsterdamse Bosbaan: \u201cDe kloof met onze noorderburen zo klein mogelijk houden\u201d",
+      "description": "Dit weekend trekt Jonas Deconinck, de beloftecoach van de Vlaamse Roeiliga, met een skiffeur, een dubbelvier mannen en een vier zonder stuurvrouw naar de Amsterdamse Bosbaan. In de nationale kern zitten vijf Oost-Vlamingen. KR Club Gent stuurt Louise Gyssels \u2026",
+      "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/vijf-oost-vlamingen-trekken-naar-amsterdamse-bosbaan-de-kloof-met-onze-noorderburen-zo-klein-mogelijk-houden/73558108.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/e6fl53-2025-06-25-vrl-coach-u23-jonas-deconinck-rechts-trekt-met-vier-gentse-u23-internationals-naar-de-holland-beker-boris-taeldema-neal-laureyns-dean-laureyns-en-louise-gyssels.jpg/alternates/SIXTEEN_NINE_1200/2025%2006%2025%20VRL%20coach%20U23%20Jonas%20Deconinck%20rechts%20trekt%20met%20vier%20Gentse%20U23%20internationals%20naar%20de%20Holland%20Beker%20Boris%20Taeldema%20Neal%20Laureyns%20Dean%20Laureyns%20en%20Louise%20Gyssels.jpg",
+      "publishedAt": "2025-06-26 09:22:00",
+      "content": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken).\u2026 [+228 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.091769",
+      "internal_id": "c319d68f662698f9205eb07ba6320e4e3bdd63a8c55953bff783c60ebf130df9",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22395,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo",
+      "description": "In Boende, in de Democratische Republiek Congo, zijn de eerste baby's gevaccineerd tegen mpox (voorheen bekend als apenpokken). Ook zwangere vrouwen maken deel uit van de internationale klinische studie die jonge moeders wil beschermen tegen het virus. \u201cHet e\u2026",
+      "url": "https://www.nieuwsblad.be/buitenland/eerste-babys-gevaccineerd-tegen-mpox-in-democratische-republiek-congo/73964073.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/10zmal-africa-mpox-explainer/alternates/SIXTEEN_NINE_1200/Africa%20Mpox%20Explainer",
+      "publishedAt": "2025-06-26 09:21:08",
+      "content": "Grootschalige vaccinatiecampagnes worden vandaag belemmerd door het feit dat het mpox-vaccin niet is goedgekeurd voor baby's en zwangere vrouwen. Het zogenaamde PregInPoxVac-onderzoeksproject moet da\u2026 [+947 chars]",
+      "retrievedAt": "2025-06-27 19:06:06.119630",
+      "internal_id": "0b41fed38a6291570dcdf4ffa0be290eb59342a215af6ca46bf517ffd30a8c14",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22379,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Sanidad notifica la muerte por mpox en Espa\u00f1a de una persona en estado avanzado de inmunosupresi\u00f3n",
+      "description": "El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecci\u00f3n avanzada por VIH y que no estaba vacunada frente a mpox.",
+      "url": "https://www.infosalus.com/actualidad/noticia-sanidad-notifica-muerte-mpox-espana-persona-estado-avanzado-inmunosupresion-20250626111207.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250626111207_1200.jpg",
+      "publishedAt": "2025-06-26 09:12:07",
+      "content": "MADRID 26 Jun. (EUROPA PRESS) - El Instituto de Salud Carlos III (ISCIII) ha comunicado el fallecimiento por mpox -antes denominada viruela del mono- de una persona en Espa\u00f1a que presentaba infecc\u2026 [+1011 chars]",
+      "retrievedAt": "2025-06-27 19:06:05.973979",
+      "internal_id": "408793cb5648db341d3197b5dbfa295fb26e075dbb9a2f529559115bd4a50f2f",
+      "publishedAtLabel": "Jun 26"
+    },
     {
       "id": 22367,
       "query": [
@@ -21262,96 +21766,6 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21187,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Simon Little",
-      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
-      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
-      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2025-05-11 18:35:34",
-      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.481516",
-      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21238,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Mercy Kahenda",
-      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
-      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
-      "publishedAt": "2025-05-11 14:30:14",
-      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
-      "retrievedAt": "2025-05-14 07:07:58.746120",
-      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21184,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Viconsortium.com",
-      "author": null,
-      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
-      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
-      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
-      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
-      "publishedAt": "2025-05-11 11:50:10",
-      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.456169",
-      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21171,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "author": "Danvictor Munene",
-      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
-      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
-      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
-      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
-      "publishedAt": "2025-05-11 09:21:11",
-      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.859398",
-      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21170,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Chip.com.tr",
-      "author": "Levent \u00d6zt\u00fcrk",
-      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
-      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
-      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
-      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
-      "publishedAt": "2025-05-11 08:23:41",
-      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.454665",
-      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]

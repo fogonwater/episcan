@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-06-27 07:08
-- **Most recent article:** 2025-06-26 06:00:00
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-06-27 19:06
+- **Most recent article:** 2025-06-26 17:16:36
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 77 | 68 | 90 | 48 | 31 | 32 | 421 |
+| measles | 72 | 77 | 68 | 90 | 48 | 31 | 33 | 419 |
 | dengue | 24 | 26 | 28 | 25 | 14 | 17 | 19 | 153 |
-| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 12 | 133 |
-| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
-| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 14 | 110 |
-| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 5 | 103 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 13 | 134 |
+| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
+| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 26 | 124 |
+| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 18 | 114 |
 | rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
 | zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 2 | 29 |
+| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 3 | 29 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
 | typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 3 | 9 |
@@ -55,6 +55,48 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (mpox)
 
+- [Sanidad ordena tener cuidado en verano: notifica la muerte por mpox de una persona en España](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13435886/06/25/sanidad-ordena-tener-cuidado-en-verano-notifica-la-muerte-por-mpox-de-una-persona-en-espana.html) (Eleconomista.es)
+
+- [España notifica la primera muerte de mpox desde 2022 en un hombre inmunodeprimido sin vacunar](https://www.huffingtonpost.es/life/salud/espana-notifica-primera-muerte-mpox-2022-hombre-inmunodeprimido-vacunar.html) (Huffingtonpost.es)
+
+- [Sanidad notifica la muerte por mpox en España de una persona en estado avanzado de inmunosupresión](https://www.lavozdegalicia.es/noticia/sociedad/2025/06/26/sanidad-notifica-muerte-mpox-espana-persona-estado-avanzado-inmunosupresion/00031750929191973330772.htm) (Lavozdegalicia.es)
+
+- [Muere un hombre en España tras contraer la viruela del mono: no estaba vacunado y tenía una infección por VIH](https://www.elespanol.com/ciencia/salud/20250626/muere-hombre-espana-contraer-viruela-mono-no-vacunado-infeccion-vih/1003743821934_0.html) (Elespanol.com)
+
+- [Sanidad notifica la muerte por viruela del mono de un paciente con un VIH en estado avanzado](https://www.abc.es/sociedad/sanidad-notifica-muerte-viruela-mono-paciente-vih-20250626120146-nt.html) (Www.abc.es)
+
+- [Laatstejaars Stella Matutina studeren af en gooien afstudeerhoedje op](https://www.nieuwsblad.be/regio/oost-vlaanderen/laatstejaars-stella-matutina-studeren-af-en-gooien-afstudeerhoedje-op/73918235.html) (Nieuwsblad.be)
+
+- [Buurtbewoners geven tegenwind aan windmolenpark Ventori: “Dit plan is waanzin”](https://www.hbvl.be/regio/limburg/riemst/buurtbewoners-geven-tegenwind-aan-windmolenpark-ventori-dit-plan-is-waanzin/73746788.html) (Hbvl.be)
+
+- [Jeugdhuis ’t Sloefke maakt plaats voor appartementen: “Hier hebben we de gouden tijden beleefd”](https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/zulte/jeugdhuis-t-sloefke-maakt-plaats-voor-appartementen-hier-hebben-we-de-gouden-tijden-beleefd/73021802.html) (Nieuwsblad.be)
+
+- [Oostendse musea houden avondopeningen tijdens zomervakantie](https://www.nieuwsblad.be/regio/west-vlaanderen/oostendse-musea-houden-avondopeningen-tijdens-zomervakantie/73923537.html) (Nieuwsblad.be)
+
+- [Drukke steenweg wordt zone 30: “Veiliger maken voor talrijke fietsers en voetgangers”](https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/drukke-steenweg-wordt-zone-30-veiliger-maken-voor-talrijke-fietsers-en-voetgangers/73970339.html) (Nieuwsblad.be)
+
+- [Wie blinkt uit in Aalsterse gemeenteraad? Podcastduo Daan (30) en Emily (26) delen rapporten uit na laatste gemeenteraad](https://www.nieuwsblad.be/regio/oost-vlaanderen/wie-blinkt-uit-in-aalsterse-gemeenteraad-podcastduo-daan-30-en-emily-26-delen-rapporten-uit-na-laatste-gemeenteraad/73917301.html) (Nieuwsblad.be)
+
+- [Chimpansee Lomela aan de haal met baby Zabari in Zoo Antwerpen: “Marit durfde haar zoontje niet opnieuw afpakken”](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/chimpansee-lomela-aan-de-haal-met-baby-zabari-in-zoo-antwerpen-marit-durfde-haar-zoontje-niet-opnieuw-afpakken/73550420.html) (Www.gva.be)
+
+- [Geen meldpunt na racistische incidenten: “Wij kunnen moeilijk politie vervangen”](https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tervuren/geen-meldpunt-na-racistische-incidenten-wij-kunnen-moeilijk-politie-vervangen/73956434.html) (Nieuwsblad.be)
+
+- [Nicola Stampaert vormt duo met Steve Matterne in Ypres Rally: “Top tien halen is toch wel de ambitie”](https://www.nieuwsblad.be/regio/oost-vlaanderen/vlaamse-ardennen/kruisem/nicola-stampaert-vormt-duo-met-steve-matterne-in-ypres-rally-top-tien-halen-is-toch-wel-de-ambitie/73381390.html) (Nieuwsblad.be)
+
+- [Heraanleg Watermolenstraat zorgt voor veiligere aanloop naar nieuwe sportsite](https://www.nieuwsblad.be/regio/oost-vlaanderen/heraanleg-watermolenstraat-zorgt-voor-veiligere-aanloop-naar-nieuwe-sportsite/73916598.html) (Nieuwsblad.be)
+
+- [Enthousiasme en duurzaamheid troef op eerste dag Rock Voor Specials: “Een absoluut plezier hier weer te mogen zijn”](https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/evergem/enthousiasme-en-duurzaamheid-troef-op-eerste-dag-rock-voor-specials-een-absoluut-plezier-hier-weer-te-mogen-zijn/73656742.html) (Nieuwsblad.be)
+
+- [Overleden huisdieren bijplaatsen voortaan mogelijk op gemeentelijke begraafplaatsen](https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/wichelen/overleden-huisdieren-bijplaatsen-voortaan-mogelijk-op-gemeentelijke-begraafplaatsen/73925407.html) (Nieuwsblad.be)
+
+- [Basisschool W'ijzer wint eerste prijs bij techniekwedstrijd](https://www.nieuwsblad.be/regio/west-vlaanderen/basisschool-wijzer-wint-eerste-prijs-bij-techniekwedstrijd/73968301.html) (Nieuwsblad.be)
+
+- [Vijf Oost-Vlamingen trekken naar Amsterdamse Bosbaan: “De kloof met onze noorderburen zo klein mogelijk houden”](https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/vijf-oost-vlamingen-trekken-naar-amsterdamse-bosbaan-de-kloof-met-onze-noorderburen-zo-klein-mogelijk-houden/73558108.html) (Nieuwsblad.be)
+
+- [Eerste baby's gevaccineerd tegen mpox in Democratische Republiek Congo](https://www.nieuwsblad.be/buitenland/eerste-babys-gevaccineerd-tegen-mpox-in-democratische-republiek-congo/73964073.html) (Nieuwsblad.be)
+
+- [Sanidad notifica la muerte por mpox en España de una persona en estado avanzado de inmunosupresión](https://www.infosalus.com/actualidad/noticia-sanidad-notifica-muerte-mpox-espana-persona-estado-avanzado-inmunosupresion-20250626111207.html) (Infosalus.com)
+
 - [Bavarian Nordic Announces the Initiation of Clinical Trials of Mpox Vaccine in Infants and Pregnant Women](https://www.globenewswire.com/news-release/2025/06/26/3105566/0/en/Bavarian-Nordic-Announces-the-Initiation-of-Clinical-Trials-of-Mpox-Vaccine-in-Infants-and-Pregnant-Women.html) (GlobeNewswire)
 
 - [Kliniske forsøg med Bavarian Nordics mpox-vaccine er påbegyndt i spædbørn og gravide kvinder](https://www.globenewswire.com/news-release/2025/06/26/3105566/0/da/Kliniske-fors%C3%B8g-med-Bavarian-Nordics-mpox-vaccine-er-p%C3%A5begyndt-i-sp%C3%A6db%C3%B8rn-og-gravide-kvinder.html) (GlobeNewswire)
@@ -67,11 +109,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (meningitis)
 
+- [Limerick hospital apologises in High Court for baby’s death at 16 weeks old](https://www.irishtimes.com/crime-law/courts/2025/06/26/limerick-hospital-apologises-in-high-court-for-babys-death-at-16-weeks-old/) (The Irish Times)
+
 - [Global, regional, and national burden of meningitis among children, 1990–2021: An analysis of the global burden of disease study 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326992) (Plos.org)
 
 - [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
+
+- [Measles Cases Soar in California](https://politicalwire.com/2025/06/26/measles-cases-soar-in-california/) (Politicalwire.com)
 
 - [B.C. premier pins measles surge on anti-vaccine ‘recklessness’ | Globalnews.ca](http://globalnews.ca/news/11261011/bc-measles-vaccine-recklessness/) (Global News)
 
@@ -138,6 +184,8 @@ Source: [News API](https://newsapi.org/)
 - ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
 
 ## 25-26 (malaria)
+
+- [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
 
 - [District-level meeting held in Kokrajhar to tackle rise in malaria cases](https://thehillstimes.in/assam/district-level-meeting-held-in-kokrajhar-to-tackle-rise-in-malaria-cases) (Thehillstimes.in)
 
@@ -212,6 +260,14 @@ Source: [News API](https://newsapi.org/)
 - [8th Asia Dengue Summit Renews Call to Achieve Zero Dengue Deaths](https://en.antaranews.com/news/361133/8th-asia-dengue-summit-renews-call-to-achieve-zero-dengue-deaths) (Antaranews.com)
 
 ## 25-26 (chikungunya)
+
+- [Épidémie chikungunya : de nombreux cas détectés en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-chikungunya-de-nombreux-cas-detectes-en-france-metropolitaine_7339305.html) (Franceinfo.fr)
+
+- [Jamais vu si tôt : l’inquiétante poussée du chikungunya en métropole interroge les scientifiques](https://www.futura-sciences.com/sante/actualites/epidemie-jamais-vu-si-tot-inquietante-poussee-chikungunya-metropole-interroge-scientifiques-123230/) (Futura)
+
+- [Chikungunya : "Ce que les épidémiologistes redoutaient est en train d'arriver, ce ne sont plus des maladies tropicales", déplore William Dab, professeur en épidémiologie](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-ce-que-les-epidemiologistes-redoutaient-est-en-train-d-arriver-ce-ne-sont-plus-des-maladies-tropicales-deplore-william-dab-professeur-en-epidemiologie_7339059.html) (Franceinfo.fr)
+
+- ["Quand on a des symptômes, c'est important de consulter" : trois questions à un médecin sur les cas autochtones de chikungunya en France](https://www.franceinfo.fr/sante/maladie/chikungunya/quand-on-a-des-symptomes-c-est-important-de-consulter-trois-questions-a-un-medecin-sur-les-cas-autochtones-de-chikungunya-en-france_7338753.html) (Franceinfo.fr)
 
 - [Level 2 - Chikungunya in Bolivia](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-bolivia) (Cdc.gov)
 
@@ -2361,8 +2417,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
-- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
-
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2509,12 +2563,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
-- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
-
-- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
-
-- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
-
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2588,8 +2636,6 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
-
-- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 
