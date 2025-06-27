@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-06-26 19:06
-- **Most recent article:** 2025-06-25 18:59:34
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-06-27 07:08
+- **Most recent article:** 2025-06-26 06:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 72 | 77 | 68 | 90 | 48 | 31 | 28 | 414 |
-| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 18 | 152 |
-| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 11 | 132 |
-| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
-| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 13 | 109 |
-| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 3 | 101 |
+| measles | 75 | 77 | 68 | 90 | 48 | 31 | 32 | 421 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 19 | 153 |
+| malaria | 11 | 35 | 17 | 16 | 19 | 23 | 12 | 133 |
+| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
+| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 14 | 110 |
+| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 5 | 103 |
 | rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
 | zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 2 | 28 |
+| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 2 | 29 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
+| typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 3 | 9 |
 | hpai | 1 | 2 | 1 | 3 | 1 | 1 | 0 | 9 |
-| typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 2 | 8 |
 | leptospirosis | 1 | 0 | 1 | 2 | 2 | 0 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 0 | 3 | 1 | 0 | 4 |
 
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue mosquito is a much smarter predator than thought, it uses a stealth mode to hunt humans even without smell, study finds](https://economictimes.indiatimes.com/news/new-updates/dengue-mosquito-is-a-much-smarter-predator-than-thought-it-uses-a-stealth-mode-to-hunt-humans-even-without-smell-study-finds/articleshow/122022022.cms) (The Times of India)
 
 ## 25-26 (typhoid)
+
+- [What to know about thimerosal, a target of RFK Jr.’s new CDC vaccine advisers | CNN](https://www.cnn.com/2025/06/25/health/thimerosal-controversy-rfk-explained) (CNN)
 
 - [Distinct adaptation and epidemiological success of different genotypes within Salmonella enterica serovar Dublin](https://elifesciences.org/articles/102253) (Elifesciences.org)
 
@@ -53,6 +55,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (mpox)
 
+- [Bavarian Nordic Announces the Initiation of Clinical Trials of Mpox Vaccine in Infants and Pregnant Women](https://www.globenewswire.com/news-release/2025/06/26/3105566/0/en/Bavarian-Nordic-Announces-the-Initiation-of-Clinical-Trials-of-Mpox-Vaccine-in-Infants-and-Pregnant-Women.html) (GlobeNewswire)
+
+- [Kliniske forsøg med Bavarian Nordics mpox-vaccine er påbegyndt i spædbørn og gravide kvinder](https://www.globenewswire.com/news-release/2025/06/26/3105566/0/da/Kliniske-fors%C3%B8g-med-Bavarian-Nordics-mpox-vaccine-er-p%C3%A5begyndt-i-sp%C3%A6db%C3%B8rn-og-gravide-kvinder.html) (GlobeNewswire)
+
 - [Promotional material: Vaccine update: issue 360, July 2025, 4CMenB for gonorrhoea and mpox special](https://www.gov.uk/government/publications/vaccine-update-issue-360-july-2025-4cmenb-for-gonorrhoea-and-mpox-special) (Www.gov.uk)
 
 - [Epidemiological and clinical characteristics of Peruvian patients with mpox: A systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327097) (Plos.org)
@@ -66,6 +72,14 @@ Source: [News API](https://newsapi.org/)
 - [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
+
+- [B.C. premier pins measles surge on anti-vaccine ‘recklessness’ | Globalnews.ca](http://globalnews.ca/news/11261011/bc-measles-vaccine-recklessness/) (Global News)
+
+- [Not all Alberta babies are eligible for early measles shot, worrying Calgary mom](https://www.cbc.ca/news/canada/calgary/alberta-measles-early-vaccine-babies-1.7570557) (CBC News)
+
+- [Triangle hospitals on the lookout for patients with measles after first reported case in NC](https://www.wral.com/lifestyle/health/triangle-hospitals-alert-measles-case-nc-june-2025/) (WRAL.com)
+
+- [Manitoba reports 3 more measles cases in 3rd week of June](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-weekly-update-1.7570758) (CBC News)
 
 - [Dangerous measles case hits North Carolina from overseas](https://rollingout.com/2025/06/25/dangerous-measles-hits-north-carolina/) (Rolling Out)
 
@@ -125,6 +139,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (malaria)
 
+- [District-level meeting held in Kokrajhar to tackle rise in malaria cases](https://thehillstimes.in/assam/district-level-meeting-held-in-kokrajhar-to-tackle-rise-in-malaria-cases) (Thehillstimes.in)
+
 - [Bharat Biotech, GSK to slash malaria vaccine price](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bharat-biotech-gsk-to-slash-malaria-vaccine-price/articleshow/122076801.cms) (The Times of India)
 
 - [Bharat Biotech, GSK to slash malaria vax prices to less than $5 per dose by 2028](https://timesofindia.indiatimes.com/business/india-business/bharat-biotech-gsk-to-slash-malaria-vax-prices-to-less-than-5-per-dose-by-2028/articleshow/122074404.cms) (The Times of India)
@@ -156,6 +172,8 @@ Source: [News API](https://newsapi.org/)
 - [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
+
+- [Vacina do Butantan contra dengue pode estar disponível em 2026](https://olhardigital.com.br/2025/06/25/medicina-e-saude/vacina-do-butantan-contra-dengue-pode-estar-disponivel-em-2026/) (Olhardigital.com.br)
 
 - [Drôme. Un cas de dengue détecté à Romans-sur-Isère, le moustique tigre dans le collimateur](https://www.ledauphine.com/faits-divers-justice/2025/06/25/un-cas-de-dengue-detecte-a-romans-sur-isere-le-moustique-tigre-dans-le-collimateur) (Le Dauphiné Libéré)
 
@@ -194,6 +212,8 @@ Source: [News API](https://newsapi.org/)
 - [8th Asia Dengue Summit Renews Call to Achieve Zero Dengue Deaths](https://en.antaranews.com/news/361133/8th-asia-dengue-summit-renews-call-to-achieve-zero-dengue-deaths) (Antaranews.com)
 
 ## 25-26 (chikungunya)
+
+- [Level 2 - Chikungunya in Bolivia](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-bolivia) (Cdc.gov)
 
 - [França: casos precoces de transmissão local da chikungunya colocam autoridades sanitárias em alerta](https://www.terra.com.br/noticias/mundo/europa/franca-casos-precoces-de-transmissao-local-da-chikungunya-colocam-autoridades-sanitarias-em-alerta,eec9bcd540a6424ae8ea7da0f1e1b688nqzxttut.html) (Terra.com.br)
 
@@ -2341,6 +2361,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
+- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
+
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2487,6 +2509,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
+- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
+
+- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
+
+- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
+
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2560,6 +2588,8 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
+
+- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 

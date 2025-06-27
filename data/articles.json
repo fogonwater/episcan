@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-06-26 19:06",
-  "count_articles_total": 1168,
-  "count_articles_new": 25,
+  "last_updated": "2025-06-27 07:08",
+  "count_articles_total": 1183,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 22367,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Announces the Initiation of Clinical Trials of Mpox Vaccine in Infants and Pregnant Women",
+      "description": "COPENHAGEN, Denmark, June 26, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today the initiation of the first of two clinical trials designed to support approval and use of the MVA-BN\u00ae mpox/smallpox vaccine in vulnerable populations: infants under 2 years \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/26/3105566/0/en/Bavarian-Nordic-Announces-the-Initiation-of-Clinical-Trials-of-Mpox-Vaccine-in-Infants-and-Pregnant-Women.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-06-26 06:00:00",
+      "content": "First studies to evaluate MVA-BN in infants under 2 years of age and pregnant and breastfeeding women.The multi-partner research project is aimed at expanding access to mpox vaccines\u2026 [+4305 chars]",
+      "retrievedAt": "2025-06-27 07:08:18.261785",
+      "internal_id": "ce166772b3f5aa4e45e25ecd43172222840e13c30e123bf0744963c0ab1df276",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22368,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Kliniske fors\u00f8g med Bavarian Nordics mpox-vaccine er p\u00e5begyndt i sp\u00e6db\u00f8rn og gravide kvinder",
+      "description": "K\u00d8BENHAVN, Danmark, 26. juni 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) offentliggjorde i dag p\u00e5begyndelsen af det f\u00f8rste af to kliniske fors\u00f8g, der er designet til at underst\u00f8tte godkendelse og anvendelse af MVA-BN\u00ae mpox-/koppevaccine i s\u00e5rbare befolkningsgruppe\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/26/3105566/0/da/Kliniske-fors%C3%B8g-med-Bavarian-Nordics-mpox-vaccine-er-p%C3%A5begyndt-i-sp%C3%A6db%C3%B8rn-og-gravide-kvinder.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-06-26 06:00:00",
+      "content": "Fors\u00f8gene er de f\u00f8rste, der evaluerer MVA-BN hos sp\u00e6db\u00f8rn under 2 \u00e5r samt gravide og ammende kvinder.Forskningsprojekt har til form\u00e5l at udvide adgangen til mpox-vacciner for s\u00e5rbare\u2026 [+4402 chars]",
+      "retrievedAt": "2025-06-27 07:08:18.270329",
+      "internal_id": "a635c89df09c57acbe5c62e351748fb94a0074f68b33c6cd79a502ee7b1bdd47",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22366,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Bolivia",
+      "description": "There is an outbreak of chikungunya in the department of Santa Cruz in Bolivia.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-bolivia",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-06-26 04:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+700 chars]",
+      "retrievedAt": "2025-06-27 07:08:17.755022",
+      "internal_id": "9b70fdbd494506bfa783aca748cd8b76ae04a00f7b74d5148e8bdda8f819e39f",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22369,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Meg Tirrell",
+      "title": "What to know about thimerosal, a target of RFK Jr.\u2019s new CDC vaccine advisers | CNN",
+      "description": "The preservative thimerosal has been removed from all but a few vaccines, and studies have confirmed no link to neurodevelopmental issues including autism. So public health experts were puzzled when it appeared on the agenda for this week\u2019s meeting of outside\u2026",
+      "url": "https://www.cnn.com/2025/06/25/health/thimerosal-controversy-rfk-explained",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1229717412.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-26 03:01:04",
+      "content": "See all topics A century ago, one of the biggest safety concerns about vaccines involved bacterial contamination. In 1916, four young children died in South Carolina after receiving typhoid vaccine \u2026 [+10267 chars]",
+      "retrievedAt": "2025-06-27 07:08:18.499973",
+      "internal_id": "454b11838129a1b6355c5742247ad36219cd1cddf0af0dddc20683264d2a6544",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22362,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Simon Little",
+      "title": "B.C. premier pins measles surge on anti-vaccine \u2018recklessness\u2019 | Globalnews.ca",
+      "description": "Measles has been surging in parts of Canada, particularly Alberta and Ontario for months, and the virus appears now to be spreading within British Columbia.",
+      "url": "http://globalnews.ca/news/11261011/bc-measles-vaccine-recklessness/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/06/baby-measles-6_1.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-06-26 01:48:15",
+      "content": "British Columbia\u2019s premier is blaming a surge in measles cases on political leaders who\u2019ve flirted with the anti-vaccine movement. \u201cThis is the sadly predictable outcome of some recklessness, frankl\u2026 [+2648 chars]",
+      "retrievedAt": "2025-06-27 07:08:13.429659",
+      "internal_id": "88209e58f47a79ff067bf729cb2f9af9584e53e6f94509fbde4e96191809efd7",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22360,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Not all Alberta babies are eligible for early measles shot, worrying Calgary mom",
+      "description": "A Calgary mother is urging the Alberta government to make an early measles vaccine dose available to babies in all parts of the province as outbreaks grow. And several doctors are calling for this too.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-early-vaccine-babies-1.7570557",
+      "urlToImage": "https://i.cbc.ca/1.7570874.1750883114!/fileImage/httpImage/image.JPEG_gen/derivatives/16x9_1180/baby-early-dose-vaccine-alberta.JPEG?im=Resize%3D620",
+      "publishedAt": "2025-06-25 23:37:34",
+      "content": "A Calgary mother is urging the Alberta government to make an early measles vaccine dose available to babies in all parts of the province as outbreaks grow. And several doctors are calling for this to\u2026 [+5057 chars]",
+      "retrievedAt": "2025-06-27 07:08:13.296928",
+      "internal_id": "4ca5f11560514bee670d0f6a8b34e53a3da6ada5a552be945db923be5e5012c2",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Vacina do Butantan contra dengue pode estar dispon\u00edvel em 2026",
+      "description": "Anvisa segue an\u00e1lise t\u00e9cnica; governo aposta em registro at\u00e9 o fim de 2025 para iniciar imuniza\u00e7\u00e3o nacional. O post Vacina do Butantan contra dengue pode estar dispon\u00edvel em 2026 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/06/25/medicina-e-saude/vacina-do-butantan-contra-dengue-pode-estar-disponivel-em-2026/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/vacina-dengue-1-1920x1080-1.jpg",
+      "publishedAt": "2025-06-25 23:11:46",
+      "content": "A vacina contra a dengue desenvolvida pelo Instituto Butantan ainda est\u00e1 em fase de an\u00e1lise pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), mas a aprova\u00e7\u00e3o pode ocorrer em breve. A expectat\u2026 [+1448 chars]",
+      "retrievedAt": "2025-06-27 07:08:15.139785",
+      "internal_id": "5cb95b7bf3e9e877071cce129d81e75e940aa7003397c19593c5b311a8cacb7e",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22363,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WRAL.com",
+      "author": "Grace Hayba",
+      "title": "Triangle hospitals on the lookout for patients with measles after first reported case in NC",
+      "description": "North Carolina hospitals are on high alert after confirming the state's first measles case in a young child from Greensboro. Health officials urge the public to monitor for symptoms, especially those who may have been in contact with the infected child in pub\u2026",
+      "url": "https://www.wral.com/lifestyle/health/triangle-hospitals-alert-measles-case-nc-june-2025/",
+      "urlToImage": "https://images.wral.com/88a23600-f814-4c0d-bb9c-a81b522fef25?w=1200&h=630",
+      "publishedAt": "2025-06-25 22:22:43",
+      "content": "North Carolina hospitals are on the lookout for patients with symptoms of measles after the first reported case in the state this week. The state health department confirmed on Tuesday a child in\u2026 [+3462 chars]",
+      "retrievedAt": "2025-06-27 07:08:13.444996",
+      "internal_id": "6e4afaee1dc03cc1abb6e5df4b7888df0018f3c1f3802e3db43c12ef7ef9e3f9",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22365,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "District-level meeting held in Kokrajhar to tackle rise in malaria cases",
+      "description": "HT Correspondent KOKRAJHAR, June 25: A district-level meeting to address the recent surge in malaria cases in parts of Kokrajhar was held on Wednesday at the conference hall of the Joint Director of Health Services (Jt DHS), Kokrajhar, with participation from\u2026",
+      "url": "https://thehillstimes.in/assam/district-level-meeting-held-in-kokrajhar-to-tackle-rise-in-malaria-cases",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/06/District-level-meeting-held-in-Kokrajhar-to-tackle-rise-in-malaria-cases.jpg",
+      "publishedAt": "2025-06-25 21:00:00",
+      "content": "HT Correspondent KOKRAJHAR, June 25: A district-level meeting to address the recent surge in malaria cases in parts of Kokrajhar was held on Wednesday at the conference hall of the Joint Director of\u2026 [+1101 chars]",
+      "retrievedAt": "2025-06-27 07:08:16.512987",
+      "internal_id": "6040e06ed33eea8ae4bec6ede6dc1a37373fff9ebe7d35fe245064a3a8b7f0b5",
+      "publishedAtLabel": "Jun 25"
+    },
+    {
+      "id": 22361,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba reports 3 more measles cases in 3rd week of June",
+      "description": "Three more measles cases were confirmed in Manitoba during the third week of June, bringing the total number of confirmed infections to 108 so far this year.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-weekly-update-1.7570758",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-25 19:59:13",
+      "content": "Three more measles cases were confirmed in Manitoba during the third week of June, the province's weekly update says. The most recent data was posted on Wednesday and only goes to June 21. The new\u2026 [+2299 chars]",
+      "retrievedAt": "2025-06-27 07:08:13.329719",
+      "internal_id": "244d0f5c7146e54cf58b299a611c2ebc0d04896782a973bfd6c82b67c19f3010",
+      "publishedAtLabel": "Jun 25"
+    },
     {
       "id": 22350,
       "query": [
@@ -21082,6 +21262,96 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Simon Little",
+      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
+      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
+      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-05-11 18:35:34",
+      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.481516",
+      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21238,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
+      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
+      "publishedAt": "2025-05-11 14:30:14",
+      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.746120",
+      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Viconsortium.com",
+      "author": null,
+      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
+      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
+      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
+      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
+      "publishedAt": "2025-05-11 11:50:10",
+      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.456169",
+      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21171,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
+      "author": "Danvictor Munene",
+      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
+      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
+      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
+      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
+      "publishedAt": "2025-05-11 09:21:11",
+      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.859398",
+      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21170,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Chip.com.tr",
+      "author": "Levent \u00d6zt\u00fcrk",
+      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
+      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
+      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
+      "publishedAt": "2025-05-11 08:23:41",
+      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.454665",
+      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]
