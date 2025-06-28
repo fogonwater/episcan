@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-06-28 07:06
-- **Most recent article:** 2025-06-27 01:02:53
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-06-28 19:06
+- **Most recent article:** 2025-06-27 18:00:30
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-20 | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 77 | 68 | 90 | 48 | 31 | 38 | 427 |
-| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 20 | 154 |
+| measles | 72 | 77 | 68 | 90 | 48 | 31 | 42 | 428 |
+| dengue | 24 | 26 | 28 | 25 | 14 | 17 | 22 | 156 |
 | malaria | 11 | 35 | 17 | 16 | 19 | 23 | 13 | 134 |
-| h5n1 | 21 | 46 | 36 | 9 | 5 | 9 | 3 | 129 |
-| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 26 | 124 |
-| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 18 | 114 |
+| h5n1 | 20 | 46 | 36 | 9 | 5 | 9 | 3 | 128 |
+| mpox | 18 | 11 | 19 | 15 | 24 | 11 | 27 | 125 |
+| chikungunya | 25 | 12 | 12 | 21 | 13 | 13 | 19 | 115 |
 | rabies | 3 | 6 | 9 | 6 | 6 | 19 | 3 | 52 |
-| zika | 3 | 10 | 9 | 7 | 2 | 14 | 1 | 46 |
-| meningitis | 7 | 6 | 7 | 2 | 4 | 1 | 3 | 30 |
+| zika | 3 | 10 | 9 | 7 | 2 | 14 | 2 | 47 |
+| meningitis | 6 | 6 | 7 | 2 | 4 | 1 | 3 | 29 |
 | yersinia | 1 | 1 | 11 | 6 | 3 | 0 | 0 | 22 |
 | pertussis | 1 | 2 | 3 | 2 | 4 | 2 | 0 | 14 |
 | typhoid | 1 | 0 | 2 | 0 | 3 | 0 | 3 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-26 (zika)
+
+- [Zika Virus Testing Market Research 2025 | Navigating the $233.75 Mn Competitive Landscape - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F](https://www.globenewswire.com/news-release/2025/06/27/3106429/28124/en/Zika-Virus-Testing-Market-Research-2025-Navigating-the-233-75-Mn-Competitive-Landscape-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2020-2030F.html) (GlobeNewswire)
 
 - [Dengue mosquito is a much smarter predator than thought, it uses a stealth mode to hunt humans even without smell, study finds](https://economictimes.indiatimes.com/news/new-updates/dengue-mosquito-is-a-much-smarter-predator-than-thought-it-uses-a-stealth-mode-to-hunt-humans-even-without-smell-study-finds/articleshow/122022022.cms) (The Times of India)
 
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Interview: What is hurting rabies prevention? Vaccine maker has answers](https://thesouthfirst.com/health/interview-what-is-hurting-rabies-prevention-vaccine-maker-has-answers/) (Thesouthfirst.com)
 
 ## 25-26 (mpox)
+
+- [La OMS notifica casi 7.000 nuevos casos de mpox en mayo, la mayoría de ellos en la región de África](https://www.infosalus.com/salud-investigacion/noticia-oms-notifica-casi-7000-nuevos-casos-mpox-mayo-mayoria-ellos-region-africa-20250627183007.html) (Infosalus.com)
 
 - [Sanidad ordena tener cuidado en verano: notifica la muerte por mpox de una persona en España](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13435886/06/25/sanidad-ordena-tener-cuidado-en-verano-notifica-la-muerte-por-mpox-de-una-persona-en-espana.html) (Eleconomista.es)
 
@@ -116,6 +120,14 @@ Source: [News API](https://newsapi.org/)
 - [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
+
+- [Coffee Break: Funding Medical Education, A Human Ancestor, Tardigrades to the Rescue, Trashing the Earth, Plus MAHA and Measles](https://www.nakedcapitalism.com/?p=294651) (Nakedcapitalism.com)
+
+- [RFK Jr's plan to kill us all: measles edition](https://leiterreports.typepad.com/blog/2025/06/rfk-jrs-plan-to-kill-us-all-measles-edition.html) (Typepad.com)
+
+- [10 infants need protective medication after potential measles exposure, CPHO says](https://www.cbc.ca/news/canada/prince-edward-island/pei-measles-update-1.7572425) (CBC News)
+
+- [Measles Outbreak Hits County Jail in New Mexico](https://www.newser.com/story/371014/measles-outbreak-hits-county-jail-in-new-mexico.html) (Newser)
 
 - [B.C.'s Interior Health Authority confirms additional measles cases](https://www.cbc.ca/news/canada/british-columbia/bc-interior-new-measles-cases-1.7572321) (CBC News)
 
@@ -231,6 +243,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (dengue)
 
+- [What is the optimal In2Care stations density to achieve Aedes aegypti population reduction in a dengue endemic setting?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013264) (Plos.org)
+
+- [Monsoon brings rising dengue threat across Nepal, with over 1500 cases in 6 months](https://mypeoplesreview.com/2025/06/27/monsoon-brings-rising-dengue-threat-across-nepal-with-over-1500-cases-in-6-months/) (Mypeoplesreview.com)
+
 - [Climate change impact: Dengue infections now detected year-round in Sudurpaschim Province](https://english.khabarhub.com/2025/27/480736/) (Khabarhub.com)
 
 - [Vacina do Butantan contra dengue pode estar disponível em 2026](https://olhardigital.com.br/2025/06/25/medicina-e-saude/vacina-do-butantan-contra-dengue-pode-estar-disponivel-em-2026/) (Olhardigital.com.br)
@@ -272,6 +288,8 @@ Source: [News API](https://newsapi.org/)
 - [8th Asia Dengue Summit Renews Call to Achieve Zero Dengue Deaths](https://en.antaranews.com/news/361133/8th-asia-dengue-summit-renews-call-to-achieve-zero-dengue-deaths) (Antaranews.com)
 
 ## 25-26 (chikungunya)
+
+- [Chikungunya : l'inquiétude monte en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-inquietude-monte-en-france-metropolitaine_7341135.html) (Franceinfo.fr)
 
 - [Épidémie chikungunya : de nombreux cas détectés en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-chikungunya-de-nombreux-cas-detectes-en-france-metropolitaine_7339305.html) (Franceinfo.fr)
 
@@ -2429,8 +2447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rtf1 HMD domain facilitates global histone H2B monoubiquitination and regulates morphogenesis and virulence in the meningitis-causing pathogen Cryptococcus neoformans](https://elifesciences.org/articles/99229) (Elifesciences.org)
 
-- [Kirigo Ngarua Pens Touching Post to Edward Kwach as He’s Buried: "Rest Now"](https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
-
 ## 25-20 (measles)
 
 - [I Am Calling on Dr. Vinay Prasad, the Medical Establishment, to Break His Silence on Vaccines as Measles And Pertussis Spread Under His Watch](https://sciencebasedmedicine.org/i-am-calling-on-dr-vinay-prasad-the-medical-establishment-to-break-his-silence-on-vaccines-as-measles-and-pertussis-spread-under-his-watch/) (Sciencebasedmedicine.org)
@@ -2577,12 +2593,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in North Dakota prompts local health officials to quarantine unvaccinated schoolchildren - NewsBreak](https://www.newsbreak.com/share/3999725586902-measles-outbreak-in-north-dakota-prompts-local-health-officials-to-quarantine-unvaccinated-schoolchildren?s=a2&amp;share_destination_id=MTc0NjgxNTIwLTE3NDY5OTA1OTA4Njk%3D&amp;pd=0BowdsUz&amp;hl=en_US&amp;send_time=1746990590&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.18.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q2-control%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_recall_exp_25q2-v4%2Cns_local_strategy_25q1_exp-v4%2Cns_foryou_rank_exp_25q2-control) (Newsbreak.com)
 
-- [AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca](http://globalnews.ca/news/11174644/new-alberta-measles-exposures/) (Global News)
-
-- [Experts warn of polio, measles comeback as donor vaccine funding ends](https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends) (Standard Digital)
-
-- [With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow](https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow) (Viconsortium.com)
-
 ## 25-20 (malaria)
 
 - [Namibia records 5,921 new malaria cases, 8 deaths in one week](https://www.thestar.com.my/news/world/2025/05/18/namibia-records-5921-new-malaria-cases-8-deaths-in-one-week) (The Star Online)
@@ -2656,8 +2666,6 @@ Source: [News API](https://newsapi.org/)
 - [Стало известно о возникновении риска новой пандемии](https://lenta.ru/news/2025/05/13/stalo-izvestno-o-vozniknovenii-riska-novoy-pandemii/) (Lenta)
 
 - [무너지는 종 사이 경계… 다음 팬데믹은 조류 인플루엔자?](https://www.khan.co.kr/article/202505121918001) (Khan.co.kr)
-
-- [Kuş gribi için yeni tehlike: Bu kez başrolde kediler var](https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html) (Chip.com.tr)
 
 ## 25-20 (dengue)
 

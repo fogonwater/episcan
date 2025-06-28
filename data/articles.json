@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-06-28 07:06",
-  "count_articles_total": 1217,
-  "count_articles_new": 6,
+  "last_updated": "2025-06-28 19:06",
+  "count_articles_total": 1221,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 22404,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "KLG",
+      "title": "Coffee Break: Funding Medical Education, A Human Ancestor, Tardigrades to the Rescue, Trashing the Earth, Plus MAHA and Measles",
+      "description": "Part the First: Financing Professional Education in the United States. College costs too much in the United States. Professional School costs way to much. Up until the present \u2013 who knows what will happen next as the broad attacks on American universities \u2026",
+      "url": "https://www.nakedcapitalism.com/?p=294651",
+      "urlToImage": null,
+      "publishedAt": "2025-06-27 18:00:30",
+      "content": "Part the First: Financing Professional Education in the United States. College costs too much in the United States. Professional School costs way to much. Up until the present who knows what will \u2026 [+18504 chars]",
+      "retrievedAt": "2025-06-28 19:05:59.888011",
+      "internal_id": "706138db9b3417597d4d9cf085cdcfe21ae5a0073953baa79c7d9a85c6bb432c",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22412,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS notifica casi 7.000 nuevos casos de mpox en mayo, la mayor\u00eda de ellos en la regi\u00f3n de \u00c1frica",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) notific\u00f3 en el mes de mayo un total de 6.823 casos confirmados de mpox -antes denominada viruela del mono- y 16 muertes, procedentes de 49 pa\u00edses de todas las regiones de la OMS, aunque la mayor\u00eda de ellos se siguen r\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-notifica-casi-7000-nuevos-casos-mpox-mayo-mayoria-ellos-region-africa-20250627183007.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250627183007_1200.jpg",
+      "publishedAt": "2025-06-27 16:30:07",
+      "content": "MADRID 27 Jun. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) notific\u00f3 en el mes de mayo un total de 6.823 casos confirmados de mpox -antes denominada viruela del mono- y 16 muertes, p\u2026 [+1994 chars]",
+      "retrievedAt": "2025-06-28 19:06:04.242538",
+      "internal_id": "fd8ace7e65eedbe49416007e55b1f70690982a88ed391ff0ad7b8fa2084602e2",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22405,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Typepad.com",
+      "author": "Brian Leiter",
+      "title": "RFK Jr's plan to kill us all: measles edition",
+      "description": "If he depresses vaccination rates further with his pathological ignorance, then we're in big trouble: Measles was eliminated in the U.S. decades ago, but millions of new measles cases could pop up across the country over the next 25 years...",
+      "url": "https://leiterreports.typepad.com/blog/2025/06/rfk-jrs-plan-to-kill-us-all-measles-edition.html",
+      "urlToImage": null,
+      "publishedAt": "2025-06-27 14:01:28",
+      "content": "If he depresses vaccination rates further with his pathological ignorance, then we're in big trouble:Measles was eliminated in the U.S. decades ago, but millions of new measles cases could pop up acr\u2026 [+1687 chars]",
+      "retrievedAt": "2025-06-28 19:05:59.922769",
+      "internal_id": "31f54bad88db9d2d7954c19c7fb1eb5dec3b8bbdc081c2628881f8ebf389ec27",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Welington Trist\u00e3o, Murilo Reis, Pedro G. G. Moraes, Lara H. Pires-Vieira, Andr\u00e9 S. Leandro, Wagner A. Chiba de Castro, Rafael Maciel-de-Freitas",
+      "title": "What is the optimal In2Care stations density to achieve Aedes aegypti population reduction in a dengue endemic setting?",
+      "description": "Author summary Autodissemination traps are an exciting new approach to controlling mosquito populations. These traps are especially useful for fighting Aedes aegypti mosquitoes because of their unique egg-laying behavior, where they spread their eggs across m\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013264",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013264.g005&size=inline",
+      "publishedAt": "2025-06-27 14:00:00",
+      "content": "Citation: Trist\u00e3o W, Reis M, Moraes PGG, Pires-Vieira LH, Leandro AS, Chiba de Castro WA, et al. (2025) What is the optimal In2Care stations density to achieve Aedes aegypti population reduction in a\u2026 [+32720 chars]",
+      "retrievedAt": "2025-06-28 19:06:01.493275",
+      "internal_id": "10db48eebed7c303e2bc4755ce8d475735f8b0fb3b6983b3fc29adcddf07bd58",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22406,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "10 infants need protective medication after potential measles exposure, CPHO says",
+      "description": "Prince Edward Island's Chief Public Health Office has now identified 10 infants who require medication to protect them against measles, related to two new infections confirmed on the Island.",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-measles-update-1.7572425",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-27 13:16:07",
+      "content": "Prince Edward Island's Chief Public Health Office has now identified 10 infants who will require medication to protect them against measles, given that they are too young to have been vaccinated. On\u2026 [+6359 chars]",
+      "retrievedAt": "2025-06-28 19:05:59.976048",
+      "internal_id": "a8fd06c8a50384299f931e635ba198f69ac3bb9d69a6671823d384fa0f403f5c",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mypeoplesreview.com",
+      "author": "People's Review",
+      "title": "Monsoon brings rising dengue threat across Nepal, with over 1500 cases in 6 months",
+      "description": "Kathmandu, June 27: With the onset of the monsoon, the risk of dengue infection is once again on the rise [\u2026] The post Monsoon brings rising dengue threat across Nepal, with over 1500 cases in 6 months appeared first on Peoples' Review.",
+      "url": "https://mypeoplesreview.com/2025/06/27/monsoon-brings-rising-dengue-threat-across-nepal-with-over-1500-cases-in-6-months/",
+      "urlToImage": "https://mypeoplesreview.com/wp-content/uploads/2025/06/dengue-mosquito.jpg",
+      "publishedAt": "2025-06-27 11:05:00",
+      "content": "Kathmandu, June 27: With the onset of the monsoon, the risk of dengue infection is once again on the rise in Nepal. According to the Epidemiology and Disease Control Division (EDCD) under the Departm\u2026 [+4560 chars]",
+      "retrievedAt": "2025-06-28 19:06:01.525113",
+      "internal_id": "68cf45913ca78f8f9629f3b6ff93344fc2b584b8490b220286e2083b55d09149",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22411,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'inqui\u00e9tude monte en France m\u00e9tropolitaine",
+      "description": "Huit cas de chikungunya, une maladie transmise par la piq\u00fbre du moustique tigre, ont \u00e9t\u00e9 recens\u00e9s dans le sud-est de la France, dont deux dans la ville de Salon-de-Provence, dans les Bouches-du-Rh\u00f4ne.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-inquietude-monte-en-france-metropolitaine_7341135.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/XsZYg_c2xrO81lmqF6ZjsTk4dIw/36x0:1275x696/1500x843/2025/06/27/chikungunya-685e6857d66ae190897479.jpg",
+      "publishedAt": "2025-06-27 09:47:28",
+      "content": "Huit cas de chikungunya, une maladie transmise par la piq\u00fbre du moustique tigre, ont \u00e9t\u00e9 recens\u00e9s dans le sud-est de la France, dont deux dans la ville de Salon-de-Provence, dans les Bouches-du-Rh\u00f4ne\u2026 [+967 chars]",
+      "retrievedAt": "2025-06-28 19:06:03.463594",
+      "internal_id": "a320d87fe04c2e45026ae49694f2afdb203ca2032a4e22c3f369fa747dc476d9",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22410,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Zika Virus Testing Market Research 2025 | Navigating the $233.75 Mn Competitive Landscape - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F",
+      "description": "Rising Zika awareness, outbreaks, and maternal health impact drive the market for diagnostic tools like PCR and rapid tests. Global surveillance networks bolster testing demand. Challenges remain from competing health priorities, but a focus on infrastructure\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/27/3106429/28124/en/Zika-Virus-Testing-Market-Research-2025-Navigating-the-233-75-Mn-Competitive-Landscape-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2020-2030F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-06-27 09:31:00",
+      "content": "Dublin, June 27, 2025 (GLOBE NEWSWIRE) -- The \"Zika Virus Testing Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2020-2030F\" report has been added to ResearchAndMarkets.com'\u2026 [+5789 chars]",
+      "retrievedAt": "2025-06-28 19:06:02.870770",
+      "internal_id": "5533fc09a226501bfb628282cc58c3998ab75b87760ba9fa6377f05a6abe8df0",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22407,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Rob Quinn with Newser.AI",
+      "title": "Measles Outbreak Hits County Jail in New Mexico",
+      "description": "A measles outbreak has reached the Luna County Detention Center in Deming, New Mexico, marking the first confirmed cases in the area amid a broader surge across the state. Health officials are racing to contain the spread within the facility and the local com\u2026",
+      "url": "https://www.newser.com/story/371014/measles-outbreak-hits-county-jail-in-new-mexico.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1619021-12-20250627040508.jpeg",
+      "publishedAt": "2025-06-27 09:05:08",
+      "content": "Brice says the inmates are being quarantined in two pods, each with the capacity to hold 40 people. Two pregnant employees have been moved to other local offices. \"We're trying to do our best to keep\u2026 [+863 chars]",
+      "retrievedAt": "2025-06-28 19:06:00.030375",
+      "internal_id": "62c5b96f3674308f8e3a0f9830869b66939b9dc52f422fa2c6473d6a3f500706",
+      "publishedAtLabel": "Jun 27"
+    },
     {
       "id": 22400,
       "query": [
@@ -21874,96 +22036,6 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21187,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Simon Little",
-      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
-      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
-      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2025-05-11 18:35:34",
-      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.481516",
-      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21238,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Mercy Kahenda",
-      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
-      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
-      "publishedAt": "2025-05-11 14:30:14",
-      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
-      "retrievedAt": "2025-05-14 07:07:58.746120",
-      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21184,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Viconsortium.com",
-      "author": null,
-      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
-      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
-      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
-      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
-      "publishedAt": "2025-05-11 11:50:10",
-      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
-      "retrievedAt": "2025-05-13 07:07:59.456169",
-      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21171,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
-      "author": "Danvictor Munene",
-      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
-      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
-      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
-      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
-      "publishedAt": "2025-05-11 09:21:11",
-      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.859398",
-      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
-      "publishedAtLabel": "May 11"
-    },
-    {
-      "id": 21170,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Chip.com.tr",
-      "author": "Levent \u00d6zt\u00fcrk",
-      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
-      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
-      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
-      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
-      "publishedAt": "2025-05-11 08:23:41",
-      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
-      "retrievedAt": "2025-05-12 19:06:25.454665",
-      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]
