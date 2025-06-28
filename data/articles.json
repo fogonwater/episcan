@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-06-27 19:06",
-  "count_articles_total": 1206,
-  "count_articles_new": 28,
+  "last_updated": "2025-06-28 07:06",
+  "count_articles_total": 1217,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 22400,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "B.C.'s Interior Health Authority confirms additional measles cases",
+      "description": "B.C.'s Interior Health Authority says there are now confirmed cases of measles in Kamloops, Kelowna, Salmon Arm and the Nelson area.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-interior-new-measles-cases-1.7572321",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-27 01:02:53",
+      "content": "British Columbia's Interior Health Authority says it has confirmed additional cases of measles in the region spanning the province's southern Interior. A statement from Interior Health says communit\u2026 [+1529 chars]",
+      "retrievedAt": "2025-06-28 07:06:44.198840",
+      "internal_id": "a81158f39f30b39fe576de21ca3b85aba4aec07e4cf905eda2d327f39ec4f0e6",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Climate change impact: Dengue infections now detected year-round in Sudurpaschim Province",
+      "description": "KANCHANPUR: Dengue, which was once limited to the summer and monsoon seasons, is now being reported throughout the year in Nepal\u2019s Sudurpaschim Province. Experts attribute this worrying trend to the effects of climate change, including prolonged mosquito bree\u2026",
+      "url": "https://english.khabarhub.com/2025/27/480736/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-06-27 00:30:14",
+      "content": "KANCHANPUR: Dengue, which was once limited to the summer and monsoon seasons, is now being reported throughout the year in Nepals Sudurpaschim Province. Experts attribute this worrying trend to the \u2026 [+2504 chars]",
+      "retrievedAt": "2025-06-28 07:06:45.147145",
+      "internal_id": "c7955a5856f3b7940e917c32bf79735f1688937737958c6f150023492222164f",
+      "publishedAtLabel": "Jun 27"
+    },
+    {
+      "id": 22402,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Province warns of possible measles exposures at Boundary Trails ER, Winkler medical centre",
+      "description": "Manitoba Health is warning the public of possible exposure to measles at Boundary Trails hospital, between Winkler and Morden, and at a medical centre in Winkler.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposures-boundary-trails-winkler-1.7572132",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-26 23:23:15",
+      "content": "Manitoba Health is warning the public of possible exposure to measles at Boundary Trails hospital, between Winkler and Morden, and at a medical centre in Winkler. There were three recent possible ex\u2026 [+1935 chars]",
+      "retrievedAt": "2025-06-28 07:06:44.262923",
+      "internal_id": "7aaa1ab2f3cef3ef5907fa538f2ff72f38627ad4c078418d739054b6dae92ff3",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22399,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Vanity Fair",
+      "author": "Bess Levin",
+      "title": "Asbestos, Measles, Coal Plants: How Kennedy and Trump are Making America \u201cHealthy\u201d Again",
+      "description": "Does undermining life-saving vaccines make people healthy? Asking for an entire country.",
+      "url": "https://www.vanityfair.com/news/story/asbestos-measles-coal-plants-how-kennedy-and-trump-are-making-america-healthy-again",
+      "urlToImage": "https://media.vanityfair.com/photos/68308bf9a5385b02d43c0bfb/16:9/w_1280,c_limit/2215816493",
+      "publishedAt": "2025-06-26 22:03:21",
+      "content": "As secretary of Health and Human Services, Robert F. Kennedy Jr. has made it his mission to make America healthy again. Yet so farand you may want to sit down for thisit appears that Worm Guys action\u2026 [+6560 chars]",
+      "retrievedAt": "2025-06-28 07:06:44.181716",
+      "internal_id": "f0e909b416fb3900e5b159249818984a81094239762f5c61733a45071e8eed0b",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22398,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2 cases of measles confirmed in P.E.I., with many public exposure sites listed",
+      "description": "Two new cases of measles have been confirmed in Prince Edward Island, with the people involved unrelated to each other and linked to possible public exposure sites, the province's Chief Public Health Officer says.",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-measles-two-confirmed-cases-june-26-1.7572042",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1750463325!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-06-26 20:42:53",
+      "content": "Two new cases of measles have been confirmed in Prince Edward Island, with the people involved unrelated to each other and linked to possible public exposure sites, the province's Chief Public Health\u2026 [+5213 chars]",
+      "retrievedAt": "2025-06-28 07:06:44.151263",
+      "internal_id": "2e26f37de0f7e46bb8f5dcccb6058e2cec7ac48cc71f148c68e1de2e4b69b521",
+      "publishedAtLabel": "Jun 26"
+    },
+    {
+      "id": 22401,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI AP health writer",
+      "title": "New Mexico announces measles outbreak in a county detention facility",
+      "description": "The New Mexico state health department says five people in a county detention facility have measles",
+      "url": "https://abcnews.go.com/Health/wireStory/new-mexico-announces-measles-outbreak-county-detention-facility-123245115",
+      "urlToImage": "https://i.abcnewsfe.com/a/6c43d953-96a8-438d-97fd-8935952ab057/wirestory_c7f5897ebba85a59548d279c500adaea_16x9.jpg?w=1600",
+      "publishedAt": "2025-06-26 19:50:17",
+      "content": "Five people who are incarcerated at a New Mexico county detention facility have measles, the state health department said Thursday. The Luna County Detention Center, located in the southwest New Me\u2026 [+2217 chars]",
+      "retrievedAt": "2025-06-28 07:06:44.223194",
+      "internal_id": "9964a2bcf63972da214d46c807afe42609e62132d5e5619db62803feaa6e3f65",
+      "publishedAtLabel": "Jun 26"
+    },
     {
       "id": 22371,
       "query": [
@@ -21766,6 +21874,96 @@
       "content": "Trump Has Total Meltdown After MSNBC Exposes Tariffs Disaster A two-minute-long takedown of his trade policies on MSNBC sent the president into a rage on Friday. Donald Trump is backed into a corne\u2026 [+471 chars]",
       "retrievedAt": "2025-05-14 07:07:58.721295",
       "internal_id": "47d38cccb292a19fee5b26d9c9340200fe60c6bfb242e734a612756c9fca0f5b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Simon Little",
+      "title": "AHS warns of possible measles exposures in Taber, Whitecourt and Grimshaw | Globalnews.ca",
+      "description": "Alberta Health Services has warned of possible measles exposure in Taber, Whitecourt and Grimshaw and urges people to monitor for symptoms and check vaccination records.",
+      "url": "http://globalnews.ca/news/11174644/new-alberta-measles-exposures/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/05/measles-from-gn-4.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-05-11 18:35:34",
+      "content": "Alberta Health Services is warning the public of possible measles exposures in both the North and South Health Zones. The agency said it was notified of people with confirmed cases of the virus who \u2026 [+1385 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.481516",
+      "internal_id": "9da879e9ca98d09b0bc87186d4a5cb4a311a5e5a04279335d43f0a9540245197",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21238,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Experts warn of polio, measles comeback as donor vaccine funding ends",
+      "description": "Kenya\u2019s routine childhood vaccinations are administered under the Expanded Programme on Immunization (EPI), program driven by the donor.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001518736/experts-warn-of-polio-measles-comeback-as-donor-vaccine-funding-ends",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kpJHDTSaIPZijevGMvNZI14vyLHyCS3WDwfFk0GW.jpg",
+      "publishedAt": "2025-05-11 14:30:14",
+      "content": "A Community Health Promoter gives polio drops to a child during a vaccination campaign in West Pokot County. [Courtesy] Health experts are warning of a potential resurgence of polio and measles in K\u2026 [+5890 chars]",
+      "retrievedAt": "2025-05-14 07:07:58.746120",
+      "internal_id": "bf49cb2a7da67cddf3b5b99b8fee6ff5b30fd4945140c4f3154962ca5cd4ade3",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Viconsortium.com",
+      "author": null,
+      "title": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Grow",
+      "description": "With Over Half of USVI Children Unvaccinated, Health Officials Urge Action as U.S. Measles Outbreaks Growviconsortium.com",
+      "url": "https://viconsortium.com/vi-health/virgin-islands-with-over-half-of-usvi-children-unvaccinated--health-officials-urge-action-as-u-s--measles-outbreaks-grow",
+      "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/measles-mmr-vaccine-VIC.jpg",
+      "publishedAt": "2025-05-11 11:50:10",
+      "content": "With measles cases in the United States now exceeding 1,000 and 14 active outbreaks (defined as three or more related cases) confirmed, the V.I. Department of Health said it is ramping up efforts to\u2026 [+3740 chars]",
+      "retrievedAt": "2025-05-13 07:07:59.456169",
+      "internal_id": "e9bba29a9a602bcf5e27084f1229a0a2b17ad82d402a0b93a7d34d4d38ad8fed",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21171,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
+      "author": "Danvictor Munene",
+      "title": "Kirigo Ngarua Pens Touching Post to Edward Kwach as He\u2019s Buried: \"Rest Now\"",
+      "description": "Edward Kwach was laid to rest in Siaya after battling meningitis. Media peers including Kirigo Ngarua, Jalang\u2019o, and Wilbroda paid moving tributes.",
+      "url": "https://www.tuko.co.ke/entertainment/celebrities/588791-kirigo-ngarua-pens-touching-post-edward-kwach-sburied/",
+      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/2a5b66f162e289b5.jpeg?v=1",
+      "publishedAt": "2025-05-11 09:21:11",
+      "content": "Kirigo Ngarua honoured her former co-host Edward Kwach with a deeply emotional tribute, reflecting on his impact on her personal and professional journeyThe burial brought together t\u2026 [+3681 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.859398",
+      "internal_id": "bbfb3bb199e818e75d3d753eb7d188924d006a78dbeab65547a8b21a2492266b",
+      "publishedAtLabel": "May 11"
+    },
+    {
+      "id": 21170,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Chip.com.tr",
+      "author": "Levent \u00d6zt\u00fcrk",
+      "title": "Ku\u015f gribi i\u00e7in yeni tehlike: Bu kez ba\u015frolde kediler var",
+      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 vir\u00fcs\u00fcn\u00fcn kediler aras\u0131nda yay\u0131lma potansiyelinin insan sa\u011fl\u0131\u011f\u0131 a\u00e7\u0131s\u0131ndan yeterince ciddiye al\u0131nmad\u0131\u011f\u0131n\u0131 ortaya koyuyor. Takip eksikli\u011fi, tespit edilen vakalar\u0131n buzda\u011f\u0131n\u0131n sadece g\u00f6r\u00fcnen k\u0131sm\u0131 olmas\u0131 tehlikesini de beraberinde getiri\u2026",
+      "url": "https://www.chip.com.tr/haber/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir_169438.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/05/09/kediler-kus-gribine-karsi-cok-zayif-bir-konumda-olabilir-cywf.jpg",
+      "publishedAt": "2025-05-11 08:23:41",
+      "content": "Yeni ve kapsaml\u0131 bir ara\u015ft\u0131rma, ku\u015f gribi vir\u00fcs\u00fc H5N1'in d\u00fcnya genelindeki hayvanlar aras\u0131nda yay\u0131lma bi\u00e7imini yeniden g\u00fcndeme ta\u015f\u0131yor. \u00d6zellikle evcil kedilerin bu s\u00fcre\u00e7teki rol\u00fc dikkat \u00e7ekici. \u00c7al\u0131\u2026 [+3577 chars]",
+      "retrievedAt": "2025-05-12 19:06:25.454665",
+      "internal_id": "1253487d21df1842aa2bd158ab992be922a60303ae9d019eeeb8cd8e4527606f",
       "publishedAtLabel": "May 11"
     }
   ]
