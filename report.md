@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-06-29 07:06
-- **Most recent article:** 2025-06-28 06:42:32
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-06-29 19:05
+- **Most recent article:** 2025-06-28 17:44:27
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 77 | 68 | 90 | 48 | 31 | 43 | 357 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 24 | 134 |
+| measles | 75 | 68 | 90 | 48 | 31 | 44 | 356 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 136 |
 | malaria | 35 | 17 | 16 | 19 | 23 | 13 | 123 |
-| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 107 |
-| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 107 |
-| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 90 |
-| rabies | 6 | 9 | 6 | 6 | 19 | 3 | 49 |
+| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 106 |
+| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 106 |
+| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 89 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 33 | 53 |
+| rabies | 3 | 9 | 6 | 6 | 19 | 4 | 47 |
 | zika | 10 | 9 | 7 | 2 | 14 | 2 | 44 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 17 | 37 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 13 |
 | typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 8 |
@@ -48,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Length of hospital stay and associated treatment costs for patients with susceptible and antibiotic-resistant Salmonella infections: a systematic review and meta-analysis](https://bmjopen.bmj.com/content/15/6/e092494) (The BMJ)
 
 ## 25-26 (rabies)
+
+- [Toronto Public Health seeking person who 'physically handled' bat that may have rabies](https://www.cbc.ca/news/canada/toronto/toronto-public-health-seeking-person-handled-bat-with-rabies-1.7573562) (CBC News)
 
 - [Løshunder skutt i Sør-Varanger – sjekkes for rabies](https://www.nrk.no/nyheter/loshunder-skutt-i-sor-varanger-_-sjekkes-for-rabies-1.17467395) (NRK)
 
@@ -113,6 +115,38 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (meningitis)
 
+- [Spain's Aitana Bonmatí Hospitalized With Meningitis Ahead of Women's Euro](https://www.foxsports.com/stories/other/spain-star-aitana-bonmati-hospitalized-with-meningitis-less-than-a-week-before-euro-2025) (Fox Sports)
+
+- ["Hay que esperar a Aitana tarde lo que tarde"](https://www.marca.com/radio/opinion/2025/06/28/hay-esperar-aitana-tarde-tarde.html) (Marca)
+
+- [Frauen-Fußball: Weltfußballerin Bonmati kurz vor der EM schwer erkrankt](https://www.zeit.de/sport/2025-06/aitana-bonmati-spanien-fussball-europameisterschaft-ausfall-star-em) (Die Zeit)
+
+- [Reigning Ballon d’Or winner Aitana Bonmatí hospitalized with meningitis less than a week before Euro 2025](https://www.cnn.com/2025/06/28/sport/aitana-bonmati-meningitis-euro-2025-spt-intl) (CNN)
+
+- [Spanierinnen bangen vor EM um Superstar](https://sport.orf.at/stories/3142850/) (Sport.orf.at)
+
+- [La última hora sobre el estado de salud de Aitana Bonmatí](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250628/1002490832/ultima-hora-sobre-salud-aitana-bonmati.html) (Mundodeportivo.com)
+
+- [Fußball-EM der Frauen: Spanien-Star Bonmati mit viraler Meningitis im Krankenhaus](https://www.tagesspiegel.de/sport/fussball-em-der-frauen-spanien-star-bonmati-mit-viraler-meningitis-im-krankenhaus-13933138.html) (Der Tagesspiegel)
+
+- [Spain’s Bonmati hospitalised with meningitis ahead of Euro 2025](https://www.aljazeera.com/sports/2025/6/28/spains-bonmati-hospitalized-with-meningitis-ahead-of-euro-2025) (Al Jazeera English)
+
+- [España tiene hasta el próximo jueves para suplir a Aitana Bonmatí](https://www.mundodeportivo.com/seleccion-espanola/20250628/1002490818/espana-proximo-jueves-suplir-aitana-bonmati.html) (Mundodeportivo.com)
+
+- [Alarma ante posibles contagios por la meningitis de Aitana](https://www.mundodeportivo.com/futbol/femenino/20250628/1002490807/alarma-posibles-contagios-meningitis-aitana.html) (Mundodeportivo.com)
+
+- [Weltfußballerin Bonmati mit Meningitis im Spital](https://sport.orf.at/stories/3142847/) (Sport.orf.at)
+
+- [Spain's Bonmati in hospital with viral meningitis days before Euro 2025](https://www.skysports.com/football/news/11095/13389642/spains-aitana-bonmati-in-hospital-with-viral-meningitis-days-before-euro-2025) (Sky Sports)
+
+- [Aitana Bonmatí, ingresada por meningitis vírica a días de la Eurocopa](https://www.hola.com/actualidad/20250628840885/aitana-bonmati-ingresada-meningitis-virica-dias-antes-comienzo-eurocopa/) (Hola)
+
+- [Aitana Bonmati in hospital, Women's EURO at risk](https://onefootball.com/en/news/aitana-bonmati-in-hospital-womens-euro-at-risk-41301620) (Onefootball.com)
+
+- [Spain's Bonmati in hospital with viral meningitis](https://www.bbc.com/sport/football/articles/c9w184xndyeo) (BBC News)
+
+- [Aitana Bonmatí, hospitalizada por una meningitis vírica a una semana de la Eurocopa](https://www.libertaddigital.com/deportes/futbol/2025-06-28/aitana-bonmati-hospitalizada-por-una-meningitis-virica-a-una-semana-de-la-eurocopa-7270888/) (Libertaddigital.com)
+
 - [Aitana Bonmatí, ingresada por una meningitis vírica a una semana de la Eurocopa](https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-meningitis-virica-semana-eurocopa-20250628084231-nt.html) (Www.abc.es)
 
 - [Verdens bedste kvindelige fodboldspiller ramt af meningitis kort før EM](https://www.dr.dk/sporten/seneste-sport/verdens-bedste-kvindelige-fodboldspiller-ramt-af-meningitis-kort-foer-em) (Www.dr.dk)
@@ -148,6 +182,8 @@ Source: [News API](https://newsapi.org/)
 - [Qué pasa si no limpias la heladera: consejos para mantener la higiene y neutralizar los olores en la cocina](https://www.lanacion.com.ar/salud/que-pasa-si-no-limpias-la-heladera-consejos-para-mantener-la-higiene-y-neutralizar-los-olores-en-la-nid23062025/) (La Nacion)
 
 ## 25-26 (measles)
+
+- [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families](https://abcnews.go.com/Technology/wireStory/forget-damage-diseases-whooping-cough-measles-rubella-families-123299154) (ABC News)
 
 - [I found a bacteria-eating virus in my loo - could it save your life?](https://www.bbc.com/news/articles/czryvm3nlvdo) (BBC News)
 
@@ -272,6 +308,10 @@ Source: [News API](https://newsapi.org/)
 - [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
+
+- [Dengue: com 40 mil casos, Campinas faz mutirão de combate ao mosquito em seis bairros](https://g1.globo.com/sp/campinas-regiao/noticia/2025/06/28/dengue-com-40-mil-casos-campinas-faz-mutirao-de-combate-ao-mosquito-em-seis-bairros.ghtml) (Globo)
+
+- [Dengue cases surge in Jhapa](https://english.khabarhub.com/2025/28/481165/) (Khabarhub.com)
 
 - [Morre o comentarista Ruy Carlos Ostermann, autor do livro do Penta, aos 90 anos](https://www.diariodocentrodomundo.com.br/morre-o-comentarista-ruy-carlos-ostermann-autor-do-livro-do-penta-aos-90-anos/) (Diariodocentrodomundo.com.br)
 
@@ -1945,12 +1985,6 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
-- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
-
-- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
-
-- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
-
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -1978,8 +2012,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
-
-- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2146,10 +2178,6 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
-
-- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
-
-- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2319,8 +2347,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
-- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
-
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2396,5 +2422,3 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
-
-- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
