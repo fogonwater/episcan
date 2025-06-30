@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-06-29 19:05
-- **Most recent article:** 2025-06-28 17:44:27
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-06-30 07:09
+- **Most recent article:** 2025-06-29 02:17:25
 
 ---
 
@@ -10,28 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 75 | 68 | 90 | 48 | 31 | 44 | 356 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 136 |
-| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 123 |
-| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 106 |
-| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 106 |
-| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 89 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 33 | 53 |
-| rabies | 3 | 9 | 6 | 6 | 19 | 4 | 47 |
-| zika | 10 | 9 | 7 | 2 | 14 | 2 | 44 |
-| yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 21 |
-| pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 13 |
-| typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 8 |
-| hpai | 2 | 1 | 3 | 1 | 1 | 0 | 8 |
-| leptospirosis | 0 | 1 | 2 | 2 | 0 | 0 | 5 |
-| shigellosis | 0 | 0 | 0 | 3 | 1 | 0 | 4 |
+| Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 77 | 68 | 90 | 48 | 31 | 53 | 1 | 368 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 0 | 136 |
+| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 0 | 123 |
+| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 0 | 107 |
+| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 0 | 107 |
+| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 0 | 90 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 1 | 56 |
+| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 0 | 51 |
+| zika | 10 | 9 | 7 | 2 | 14 | 2 | 0 | 44 |
+| yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
+| pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
+| typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 0 | 8 |
+| hpai | 2 | 1 | 3 | 1 | 1 | 0 | 0 | 8 |
+| leptospirosis | 0 | 1 | 2 | 2 | 0 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-27 (meningitis)
+
+- [Preocupación en España por el riesgo de contagio tras la meningitis de Aitana](https://www.abc.es/deportes/futbol/preocupacion-espana-riesgo-contagio-tras-meningitis-aitana-20250628140742-nt.html) (Www.abc.es)
+
+## 25-27 (measles)
+
+- [Health alert: Measles cases surge across BC Interior, flights, gatherings, and public exposed, health officials urge vaccinatio](https://economictimes.indiatimes.com/news/international/canada/health-alert-measles-cases-surge-across-bc-interior-flights-gatherings-and-public-exposed-health-officials-urge-vaccinatio/articleshow/122137448.cms) (The Times of India)
 
 ## 25-26 (zika)
 
@@ -48,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Length of hospital stay and associated treatment costs for patients with susceptible and antibiotic-resistant Salmonella infections: a systematic review and meta-analysis](https://bmjopen.bmj.com/content/15/6/e092494) (The BMJ)
 
 ## 25-26 (rabies)
+
+- [Vets on wheels: Can Jakarta's new service address animal care challenges faced by city, pet owners?](https://www.channelnewsasia.com/asia/could-jakarta-mobile-veterinary-vehicles-help-pet-and-animal-care-5204766) (CNA)
 
 - [Toronto Public Health seeking person who 'physically handled' bat that may have rabies](https://www.cbc.ca/news/canada/toronto/toronto-public-health-seeking-person-handled-bat-with-rabies-1.7573562) (CBC News)
 
@@ -114,6 +124,10 @@ Source: [News API](https://newsapi.org/)
 - [Mpox in Sierra Leone: what’s behind the recent surge and why west Africa is at risk](https://theconversation.com/mpox-in-sierra-leone-whats-behind-the-recent-surge-and-why-west-africa-is-at-risk-259286) (The Conversation Africa)
 
 ## 25-26 (meningitis)
+
+- [Aitana Bonmatí es hospitalizada por meningitis a días del debut de España en la Eurocopa Femenina 2025](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-hospitalizada-por-meningitis-a-dias-de-la-euro-2025) (Milenio)
+
+- [An der letzten EM wünschte sich die beste Fussballerin der Welt nach Hause – nun ist ihre Teilnahme am Turnier in der Schweiz gefährdet](https://www.nzz.ch/sport/fussball/an-der-letzten-em-wuenschte-sich-die-beste-fussballerin-der-welt-nach-hause-jetzt-will-sie-spanien-zum-titel-fuehren-ld.1890512) (Www.nzz.ch)
 
 - [Spain's Aitana Bonmatí Hospitalized With Meningitis Ahead of Women's Euro](https://www.foxsports.com/stories/other/spain-star-aitana-bonmati-hospitalized-with-meningitis-less-than-a-week-before-euro-2025) (Fox Sports)
 
@@ -183,9 +197,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-26 (measles)
 
+- [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families (Laura Ungar/Associated Press)](https://www.memeorandum.com/250628/p73) (Memeorandum.com)
+
 - [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families](https://abcnews.go.com/Technology/wireStory/forget-damage-diseases-whooping-cough-measles-rubella-families-123299154) (ABC News)
 
+- [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families](https://www.seattlepi.com/news/article/many-forget-the-damage-done-by-diseases-like-20398610.php) (seattlepi.com)
+
+- [Takeaways from interviews with families forever changed by diseases that vaccines can prevent](https://www.seattlepi.com/news/article/takeaways-from-interviews-with-families-forever-20398611.php) (seattlepi.com)
+
+- [Health department confirms two new measles cases, advises monitoring in Orem areas](https://kutv.com/news/local/health-department-confirms-two-new-measles-cases-advises-monitoring-in-orem-areas) (KUTV 2News)
+
 - [I found a bacteria-eating virus in my loo - could it save your life?](https://www.bbc.com/news/articles/czryvm3nlvdo) (BBC News)
+
+- [Utah health officials report two new cases of measles, statewide total now 7](https://kslnewsradio.com/utah/measles-utah-new-cases/2225178/) (kslnewsradio.com)
+
+- [Four new measles cases reported in Kentucky, health officials say](https://www.wsmv.com/2025/06/27/four-new-measles-cases-reported-kentucky-health-officials-say/) (WSMV Nashville)
+
+- [4 new measles cases reported in Kentucky, health officials say](https://www.lex18.com/news/covering-kentucky/4-new-measles-cases-reported-in-kentucky-health-officials-say) (LEX18 Lexington KY News)
 
 - [Coffee Break: Funding Medical Education, A Human Ancestor, Tardigrades to the Rescue, Trashing the Earth, Plus MAHA and Measles](https://www.nakedcapitalism.com/?p=294651) (Nakedcapitalism.com)
 
@@ -204,6 +232,10 @@ Source: [News API](https://newsapi.org/)
 - [2 cases of measles confirmed in P.E.I., with many public exposure sites listed](https://www.cbc.ca/news/canada/prince-edward-island/pei-measles-two-confirmed-cases-june-26-1.7572042) (CBC News)
 
 - [New Mexico announces measles outbreak in a county detention facility](https://abcnews.go.com/Health/wireStory/new-mexico-announces-measles-outbreak-county-detention-facility-123245115) (ABC News)
+
+- [Potential measles exposure reported in West Michigan](https://www.mlive.com/news/2025/06/potential-measles-exposure-reported-in-west-michigan.html) (mlive.com)
+
+- [Five inmates test positive for measles in southern New Mexico](https://www.koat.com/article/luna-county-detention-center-measles-outbreak-2025/65207423) (KOAT New Mexico)
 
 - [Measles Cases Soar in California](https://politicalwire.com/2025/06/26/measles-cases-soar-in-california/) (Politicalwire.com)
 
@@ -1985,6 +2017,12 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
+- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
+
+- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
+
+- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
+
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2012,6 +2050,8 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
+
+- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2178,6 +2218,10 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
+
+- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
+
+- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2347,6 +2391,8 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
+- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
+
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2422,3 +2468,5 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
+
+- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
