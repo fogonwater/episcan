@@ -1,8 +1,369 @@
 {
-  "last_updated": "2025-07-01 07:08",
-  "count_articles_total": 1117,
-  "count_articles_new": 4,
+  "last_updated": "2025-07-01 19:06",
+  "count_articles_total": 1129,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 22487,
+      "query": [
+        "measles"
+      ],
+      "source_id": "medical-news-today",
+      "source_name": "Medical News Today",
+      "author": "Yasemin Nicola Sakay",
+      "title": "Measles risk while traveling: How to avoid infection",
+      "description": "Experts share their tips on preventing measles during travel, including when to get vaccinated and how long to isolate if infected, in light of recent measles outbreaks and new CDC measles travel recommendations.",
+      "url": "https://www.medicalnewstoday.com/articles/qa-how-to-stay-safe-against-measles-while-traveling",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/06/measles-vaccination-vial-1200-628-facebook.jpg",
+      "publishedAt": "2025-06-30 17:30:00",
+      "content": "Measles is an airborne disease that is very transmissible and may spread easily and rapidly on a plane, bus, or train.The United States and some other countries have recently seen a \u2026 [+8407 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.151309",
+      "internal_id": "b9e3d59c3b1207856ab372231d441f9d4b4e4d98ecd94c5f195e09c944ada176",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22490,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LEX18 Lexington KY News",
+      "author": "Cherish Walters",
+      "title": "Public health officials warn of measles exposure at Nicholasville water park",
+      "description": "The Jessamine County Health Department and the Kentucky Department of Public Health are warning the public about a measles exposure at a Nicholasville water park.",
+      "url": "https://www.lex18.com/news/public-health-officials-warn-of-measles-exposure-at-nicholasville-water-park",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/8c49338/2147483647/strip/true/crop/1920x1008+0+21/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fed%2F11%2F2a5d5f674ee99054c0b61eb7014b%2Fmugshot-template-75.png",
+      "publishedAt": "2025-06-30 17:06:02",
+      "content": "JESSAMINE COUNTY, Ky. (LEX 18) The Jessamine County Health Department and the Kentucky Department of Public Health are warning the public about a measles exposure at a Nicholasville water park. Off\u2026 [+224 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.253531",
+      "internal_id": "c6dc0ba64fc5b337aaf674d0474d61df8a124609d4fcce89ff2cfbb96420afd3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22498,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "WHO erkl\u00e4rt Surinam f\u00fcr malariafrei",
+      "description": "",
+      "url": "https://orf.at/stories/3398272/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2025-06-30 16:38:47",
+      "content": "Als erstes Land in der Amazonas-Region ist Surinam von der Weltgesundheitsorganisation (WHO) f\u00fcr malariafrei erkl\u00e4rt worden. Surinam hat alles getan, was f\u00fcr die Eliminierung von Malaria notwendig wa\u2026 [+1157 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.361745",
+      "internal_id": "9f8516d6e8bfe3f9a843e73dd3dab2a686f95f117a390d19b5a038e55afb4b0b",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22499,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: WHO erkl\u00e4rt Suriname f\u00fcr malariafrei",
+      "description": "Als erstes Land in der Amazonasregion hat Suriname die Infektionskrankheit ausgerottet. Geholfen haben umfassende Kontrollen und kostenlose Behandlungen auch in weit abgelegenen D\u00f6rfern im Regenwald.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-who-erklart-suriname-fur-malariafrei-13943932.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13943929/alternates/BASE_16_9_W1400/1751300953000/anopheles-gambiae-mucke.jpeg",
+      "publishedAt": "2025-06-30 16:29:13",
+      "content": "Als erstes Land in der Amazonasregion ist Suriname von der Weltgesundheitsorganisation (WHO) f\u00fcr malariafrei erkl\u00e4rt worden. Suriname hat alles getan, was f\u00fcr die Eliminierung von Malaria notwendig w\u2026 [+1922 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.370541",
+      "internal_id": "1cecc1f8979b7115d4fc865bf79488c91f91c8be76d3d1355b22100c80169a64",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22497,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: WHO erkl\u00e4rt Suriname f\u00fcr malariafrei",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eWHO erkl\u00e4rt Suriname f\u00fcr malariafrei\u201c.",
+      "url": "https://www.zeit.de/news/2025-06/30/who-erklaert-suriname-fuer-malariafrei",
+      "urlToImage": "https://img.zeit.de/news/2025-06/30/who-erklaert-suriname-fuer-malariafrei-image-group/wide__1300x731",
+      "publishedAt": "2025-06-30 16:28:12",
+      "content": "Als erstes Land in der Amazonasregion ist Suriname von der Weltgesundheitsorganisation (WHO) f\u00fcr malariafrei erkl\u00e4rt worden. \u00abSuriname hat alles getan, was f\u00fcr die Eliminierung von Malaria notwendig \u2026 [+1201 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.352249",
+      "internal_id": "8af7ef08fc729b7f63d33361495d665b344eb61d52c078259add0facbb35f65a",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22501,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: WHO erkl\u00e4rt Suriname f\u00fcr malariafrei",
+      "description": "Als erstes Land in der Amazonasregion hat Suriname die Infektionskrankheit ausgerottet. Geholfen haben umfassende Kontrollen und kostenlose Behandlungen auch in weit abgelegenen D\u00f6rfern im Regenwald.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--who-erklaert-suriname-fuer-malariafrei-35853930.html",
+      "urlToImage": "https://image.stern.de/35853932/t/18/v1/w1440/r1.7778/-/30--ieufz6nsh5v3axs2048jpeg---602d8ab313bf53d8.jpg",
+      "publishedAt": "2025-06-30 16:28:12",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Als erstes Land in der Amazonasregion hat Suriname die Infektionskrankheit ausgerottet. Geholfen haben umfassende Kontrollen und kostenlose Behan\u2026 [+1416 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.396228",
+      "internal_id": "763e8227c9cb8c6bd78c8ad9d751b92979f2f32f8c6ae2d8f20f8364eb2823da",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22495,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "MYSARA FAUZI",
+      "title": "Twins excel in SPM despite illness",
+      "description": "JOHOR BARU: Twins K. Leena and K. Leetha battled chicken pox and dengue fever during the Sijil Pelajaran Malaysia (SPM) examinations. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/01/twins-excel-in-spm-despite-illness",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/01/3393291.jpg",
+      "publishedAt": "2025-06-30 16:00:00",
+      "content": "JOHOR BARU: Twins K. Leena and K. Leetha battled chicken pox and dengue fever during the Sijil Pelajaran Malaysia (SPM) examinations. Despite the odds, they managed to achieve excellent results. Th\u2026 [+2345 chars]",
+      "retrievedAt": "2025-07-01 19:06:17.117642",
+      "internal_id": "b2d4fc77f58fe4ce7be9cc1dc939a33c4cf1cd3d43a7771527602b39c829fc54",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22485,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Soo Kim",
+      "title": "Gen Zer Scratched by Street Cat in Thailand\u2014then Comes Chilling Realization",
+      "description": "\"I didn't take the risk of not getting the vaccine as it's such a deadly disease,\" the Gen Z traveler told Newsweek.",
+      "url": "https://www.newsweek.com/tourist-bitten-cat-rabies-vaccination-viral-video-2092592",
+      "urlToImage": "https://d.newsweek.com/en/full/2674063/british-tourist-izzy-sampson-thai-clinic.jpg",
+      "publishedAt": "2025-06-30 15:55:48",
+      "content": "A British teenager's vacation took a frightening turn after a seemingly minor cat scratch led to an urgent hospital visit and a series of rabies vaccinations across two countries. Izzy Sampson, 19, \u2026 [+3537 chars]",
+      "retrievedAt": "2025-07-01 19:06:15.586550",
+      "internal_id": "fbc08b88008d180a68d42f728fd9f3d92e3e2bb365c365cb856ce23c648500c3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22500,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Albares destaca el \"esfuerzo\" de Espa\u00f1a con la salud global aumentando fondos frente al Sida, la malaria y tuberculosis",
+      "description": "El ministro de Asuntos Exteriores, Uni\u00f3n Europea y Cooperaci\u00f3n, Jos\u00e9 Manuel Albares, ha destacado este lunes el \"compromiso\" y el \"esfuerzo\" de Espa\u00f1a con la salud mundial global que, seg\u00fan ha a\u00f1adido, se materializa en la nueva contribuci\u00f3n de 145 millones d\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-albares-destaca-esfuerzo-espana-salud-global-aumentando-fondos-frente-sida-malaria-tuberculosis-20250630172842.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250630172842_1200.jpg",
+      "publishedAt": "2025-06-30 15:28:42",
+      "content": "SEVILLA 30 Jun. (EUROPA PRESS) - El ministro de Asuntos Exteriores, Uni\u00f3n Europea y Cooperaci\u00f3n, Jos\u00e9 Manuel Albares, ha destacado este lunes el \"compromiso\" y el \"esfuerzo\" de Espa\u00f1a con la salud\u2026 [+3728 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.386970",
+      "internal_id": "0d453e0f95801e2340b3c82510007632eea2a56ca603049c49a59248411b505d",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22504,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Suriname certified malaria-free by WHO",
+      "description": "Today, Suriname became the first country in the Amazon region to receive malaria-free certification from the World Health Organization (WHO). This historic milestone follows nearly 70 years of commitment by the government and people of Suriname to eliminat\u2026",
+      "url": "https://www.who.int/news/item/30-06-2025-suriname-certified-malaria-free-by-who",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/malaria/malaria-paho.tmb-1200v.jpg?sfvrsn=4f9a70ed_5",
+      "publishedAt": "2025-06-30 15:15:38",
+      "content": "Today, Suriname became the first country in the Amazon region to receive malaria-free certification from the World Health Organization (WHO). This historic milestone follows nearly 70 years of commit\u2026 [+6101 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.439535",
+      "internal_id": "b541bf2d4b2b660ec9552cdeb641505a779118c1ee28617575934cb9f3f3325f",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22494,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Aviso de Sanidad a la ciudadan\u00eda por el mosquito tigre y el de Jap\u00f3n: se multiplican los casos de dengue y virus del Nilo en Espa\u00f1a",
+      "description": "Ante la expansi\u00f3n acelerada del mosquito tigre y la reciente aparici\u00f3n de brotes de dengue y virus del Nilo Occidental en Espa\u00f1a, el Ministerio de Sanidad y la iniciativa de ciencia ciudadana 'Mosquito Alert' han reforzado el sistema de vigilancia entomol\u00f3gic\u2026",
+      "url": "https://www.eleconomista.es/actualidad/noticias/13441003/06/25/aviso-de-sanidad-a-la-ciudadania-por-el-mosquito-tigre-y-el-de-japon-se-multiplican-los-casos-de-dengue-y-virus-del-nilo-en-espana.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/d/5/e/2025-06-30T155018899.jpg",
+      "publishedAt": "2025-06-30 14:27:18",
+      "content": "Ante la expansi\u00f3n acelerada del mosquito tigre y la reciente aparici\u00f3n de brotes de dengue y virus del Nilo Occidental en Espa\u00f1a, el Ministerio de Sanidad y la iniciativa de ciencia ciudadana 'Mosqui\u2026 [+2751 chars]",
+      "retrievedAt": "2025-07-01 19:06:17.093268",
+      "internal_id": "75e5018bba4ff6fc927c5fc8cc0d6c2b685409006a2a9c610ae564b2aa28a4f3",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22493,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Solenne Robert, Potiandi Serge Diagbouga, Arthur Diakourga Djibougou, Danielle Guy, Robert Bagnall, Fanette Ravel",
+      "title": "Dengue diagnosis and impact on clinical management: A literature review",
+      "description": "Author summary Dengue is a mosquito-borne viral disease that causes symptoms such as fever, headache, rash, joint pain, and nausea. These symptoms are very similar to those of other common illnesses like malaria, making it difficult to diagnose correctly. In \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013196.g002&size=inline",
+      "publishedAt": "2025-06-30 14:00:00",
+      "content": "Abstract Background Dengue is a re-emerging infectious disease that poses substantial challenges to healthcare systems in endemic regions, such as West Africa. Owing to its nonspecific and overlapp\u2026 [+41066 chars]",
+      "retrievedAt": "2025-07-01 19:06:17.084136",
+      "internal_id": "3fbc53ef31d75fcae52bec64aad88d846fad2ee4a5d97370e512e2ae2dc2ce6a",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22502,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fhabi\u00e1n S. Carri\u00f3n-Nessi, Eva Salazar-Alcal\u00e1, David A. Forero-Pe\u00f1a, Kellys A. Curiel, Mary Lopez-Perez, Mercedes Fern\u00e1ndez-Mestre",
+      "title": "TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody response against PvCSP variants in symptomatic P. vivax infections in Venezuela",
+      "description": "Author summary In this study, we investigated how human genetic differences might affect the immune responses to malaria. Specifically, we looked at how certain genetic variations in the TLR9 gene, which is part of the immune system, might affect the producti\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013262",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013262.g004&size=inline",
+      "publishedAt": "2025-06-30 14:00:00",
+      "content": "Citation: Carri\u00f3n-Nessi FS, Salazar-Alcal\u00e1 E, Forero-Pe\u00f1a DA, Curiel KA, Lopez-Perez M, Fern\u00e1ndez-Mestre M (2025) TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody respo\u2026 [+30037 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.405536",
+      "internal_id": "d71545780bb52fb4ec51d4f67907f6e1028ee0b02689f8c6bb3387f3254f7ebc",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22492,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Ten cases of bird flu reported in Cambodia so far in 2025",
+      "description": "Ten cases of H5N1 avian influenza have been detected in Cambodia so far in 2025. The two most recent patients are a mother and son from Siem Reap province. Read full story",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/06/30/3393116.jpg",
+      "publishedAt": "2025-06-30 13:16:00",
+      "content": "PHNOM PENH (Phnom Penh Post/ANN): Ten cases of H5N1 avian influenza have been detected in Cambodia so far in 2025. The two most recent patients are a mother and son from Siem Reap province. On June \u2026 [+2559 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.794722",
+      "internal_id": "0cf607b2fc8cadf124b4c43943a8fbd0d46d63b3e75cd7f567e9366e17e12920",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22489,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "The Associated Press",
+      "title": "Michigan announces second measles outbreak as US goes past 1,200 cases",
+      "description": "Measles is caused by a highly contagious virus that\u2019s airborne. It is preventable through vaccines and has been considered eliminated from the U.S. since 2000.",
+      "url": "https://www.mlive.com/news/2025/06/michigan-announces-second-measles-outbreak-as-us-goes-past-1200-cases.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/TTJXBHP4AFDMTCP67F37DA7NDM.jpg?auth=ad1f8d971756ca4febac5d34678fa8681c2144405274a8ea92b691a26838eea9&width=1280&quality=90",
+      "publishedAt": "2025-06-30 12:12:27",
+      "content": "By DEVI SHASTRI AP Health Writer Michigan has its second measles outbreak of the year, Utah has seven cases and health workers in New Mexico are rushing to contain an outbreak in a county jail. But\u2026 [+10270 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.221968",
+      "internal_id": "2d5f2cb0240a8546d855563cf88ffd4706e0ead8015dc0e0e01c468173e6436c",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22486,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Julie Appleby, KFF Health News",
+      "title": "'It's insane': Family of Texas 4-year-old hit with $1.4K bill for measles shot",
+      "description": "In the early days of the West Texas measles outbreak, Thang Nguyen eyed the rising number of cases and worried. His 4-year-old son was at risk because he had received only the first of the vaccine\u2019s two doses.So, in mid-March, he took his family to a primary \u2026",
+      "url": "https://www.rawstory.com/a-texas-boy-needed-protection-from-measles-the-vaccine-cost-1400/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.webp?id=61125243&width=1200&height=600&coordinates=0%2C320%2C0%2C320",
+      "publishedAt": "2025-06-30 11:17:47",
+      "content": "In the early days of the West Texas measles outbreak, Thang Nguyen eyed the rising number of cases and worried. His 4-year-old son was at risk because he had received only the first of the vaccines t\u2026 [+9210 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.126676",
+      "internal_id": "7b75d4529a7f2f42575cc8ba998766e026c5c85ac1af524101172fd9059ba39a",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22503,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "PLOS Global Public Health",
+      "title": "Malaria Is Evolving\u2014Our Response Should Too",
+      "description": "By guest contributors Christine M. Bachman and Dr. Kavitha Saravu In the past decade, we\u2019ve seen real progress in malaria control. New\u2026 The post Malaria Is Evolving\u2014Our Response Should Too appeared first on Speaking of Medicine and Health.",
+      "url": "https://speakingofmedicine.plos.org/2025/06/30/malaria-is-evolving-our-response-should-too/",
+      "urlToImage": "https://speakingofmedicine.plos.org/wp-content/uploads/sites/14/2022/04/world-malaria-day.jpg",
+      "publishedAt": "2025-06-30 11:01:39",
+      "content": "By guest contributors Christine M. Bachman and Dr. Kavitha Saravu In the past decade, we\u2019ve seen real progress in malaria control. New countries have achieved elimination status, malaria-attributed \u2026 [+6253 chars]",
+      "retrievedAt": "2025-07-01 19:06:18.414064",
+      "internal_id": "b2c52c1d361be56343942a6d0690e55dbf727ae2878c5b517448c68a4f2c1621",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22488,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Julie Appleby, KFF Health News",
+      "title": "A Texas Boy Needed Protection From Measles. The Vaccine Cost $1,400.",
+      "description": "A family living in Galveston was surprised to be charged thousands of dollars for immunizations for their children. Their insurance plan didn\u2019t cover the shots, and the cost of the measles vaccine in particular was more than five times what health officials s\u2026",
+      "url": "https://kffhealthnews.org/news/article/bill-of-the-month-texas-measles-vaccine-insurance-charge-outbreak-international/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/06/BOTM-June2025_Nguyen-Family01_3840x2560web.jpg",
+      "publishedAt": "2025-06-30 09:00:00",
+      "content": "Julie Appleby, KFF Health NewsIn the early days of the West Texas measles outbreak, Thang Nguyen eyed the rising number of cases and worried. His 4-year-old son was at risk because he had received on\u2026 [+8883 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.197657",
+      "internal_id": "36271253e7be5bf07f88da26671c1d3034551ac08c703619fd6122b56b95dd4b",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22491,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u65e5\u672cHP\u3001AI PC\u3092\u6d3b\u7528\u3057\u305f\u672a\u6765\u306e\u50cd\u304d\u65b9\uff08Future of Work\uff09\u3092\u63d0\u6848",
+      "description": "[\u682a\u5f0f\u4f1a\u793e \u65e5\u672cHP] \u682a\u5f0f\u4f1a\u793e \u65e5\u672cHP\uff08\u672c\u793e\uff1a\u6771\u4eac\u90fd\u6e2f\u533a\u3001\u4ee3\u8868\u53d6\u7de0\u5f79 \u793e\u9577\u57f7\u884c\u5f79\u54e1\uff1a\u5ca1\u6238 \u4f38\u6a39\uff09\u306f\u3001\u50cd\u304f\u4eba\u3005\u306e\u751f\u7523\u6027\u3068\u5275\u9020\u6027\u3092\u9ad8\u3081\u3001\u4f01\u696d\u306e\u5909\u9769\u3001\u30a6\u30a7\u30eb\u30d3\u30fc\u30a4\u30f3\u30b0\u306e\u5411\u4e0a\u3092\u5f8c\u62bc\u3057\u3059\u308b\u300cFuture of Work\u300d\u6226\u7565\u306e\u4e00\u74b0\u3068\u3057\u3066\u3001\u300c\u30aa\u30f3\u30c7...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000068112.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/68112/102/68112-102-5b4c66e39cb5fa066292fd3f104b1f06-800x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2025-06-30 08:40:02",
+      "content": "HP Future of WorkAIHP Future of Work AI Conference 20252025103 HP Future of Work AI Conference 2025 AIAIAI PCAIAIAIAI HP Future of Work AI Conference 2025AIHPAIAI PC 202510312001830 B351 HP \u2026 [+509 chars]",
+      "retrievedAt": "2025-07-01 19:06:16.480268",
+      "internal_id": "75e6b99a658ab4a9ccdbe26da905d47740103746b454004404fb6cc2ccb131fa",
+      "publishedAtLabel": "Jun 30"
+    },
+    {
+      "id": 22496,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Manasi Pathak, Contributor, \n Manasi Pathak, Contributor\n https://www.forbes.com/sites/manasipathak/",
+      "title": "Spain\u2019s Bonmati Discharged From Hospital Ahead Of UEFA Women\u2019s Euro",
+      "description": "Spain\u2019s Aitana Bonmati has been discharged from hospital after undergoing treatment for viral meningitis and is expected to rejoin the squad in \u201cthe coming days\u201d.",
+      "url": "https://www.forbes.com/sites/manasipathak-1/2025/06/30/spains-bonmati-discharged-from-hospital-ahead-of-uefa-womens-euro/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686242165f5e372b8cd0c83e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-30 08:01:22",
+      "content": "LAS ROZAS, SPAIN - JUNE 24: Aitana Bonmati of Spain attends during the Media day of the Spanish ... More women's team ahead UEFA Women's Euro 2025 at Ciudad del Futbol on June 24, 2025, in Las Rozas,\u2026 [+1827 chars]",
+      "retrievedAt": "2025-07-01 19:06:17.606180",
+      "internal_id": "76111777a40aef1ed0f71135e0f2b7f0fda084b5d998925c165a9f81a967a179",
+      "publishedAtLabel": "Jun 30"
+    },
     {
       "id": 22484,
       "query": [
@@ -20007,150 +20368,6 @@
       "content": "O Rio Grande do Sul declarou situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade animal para controle de focos de influenza avi\u00e1ria de alta patogenicidade (H5N1) em munic\u00edpios pr\u00f3ximos do raio do foco. A decis\u00e3o ocorre \u2026 [+1571 chars]",
       "retrievedAt": "2025-05-20 07:07:49.522026",
       "internal_id": "7970a4772309dfa91f67879a86ff29429dc55854066f80ed0f6d30cef1a03676",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21374,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Tomasz Kilian",
-      "title": "Komary tygrysie ju\u017c tu s\u0105. Europa nara\u017cona na gro\u017ane choroby",
-      "description": "Zmiany klimatyczne sprzyjaj\u0105 komarom tygrysim, kt\u00f3re coraz ch\u0119tniej rozprzestrzeniaj\u0105 si\u0119 w Europie. A razem z nimi pojawiaj\u0105 si\u0119 te\u017c choroby tropikalne, w tym tak gro\u017ane, jak denga i chikungunya. Takie s\u0105 wnioski najnowszego badania opublikowanego w czasopi\u015b\u2026",
-      "url": "https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html",
-      "urlToImage": "https://bi.im-g.pl/im/e5/76/1e/z31942117IER,komar-tygrysi.jpg",
-      "publishedAt": "2025-05-18 17:12:00",
-      "content": "Komar tygrysi (Aedes albopictus, nazywany tak ze wzgl\u0119du na paski) wyst\u0119puje licznie w Azji Po\u0142udniowo-Wschodniej, sk\u0105d jednak zosta\u0142 zawleczony na inne kontynenty. R\u00f3wnie\u017c do Europy, gdzie coraz bar\u2026 [+1960 chars]",
-      "retrievedAt": "2025-05-19 19:06:11.525497",
-      "internal_id": "c6217bef9b5e92d9a92a2db6545fb4445dbd67d88bb250c836c6a16e1db65101",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21370,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Scarcity of anti-rabies vaccine in Baitadi",
-      "description": "BAITADI: A shortage of anti-rabies vaccine in Baitadi district has forced residents to travel outside the district to receive necessary vaccinations. According to Harish Pant, Information Officer at the District Hospital, the vaccine has been out of stock at \u2026",
-      "url": "https://english.khabarhub.com/2025/18/468050/",
-      "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2022/12/baitadi-district-hospital.jpg?fit=800%2C450&ssl=1",
-      "publishedAt": "2025-05-18 13:15:59",
-      "content": "BAITADI: A shortage of anti-rabies vaccine in Baitadi district has forced residents to travel outside the district to receive necessary vaccinations. According to Harish Pant, Information Officer at\u2026 [+468 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.508253",
-      "internal_id": "bd207a63ac6d25827bcb637f1ec961876494175616b6ae9143353b579e06339c",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21371,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)",
-      "description": "Sheryl Gay Stolberg / New York Times: Energized by Kennedy, Texas \u2018Mad Moms\u2019 Are Chipping Away at Vaccine Mandates \u2014 A measles outbreak in the state has not stopped \u201cmedical freedom\u201d activists from pushing forward with their goal. They now have an influent\u2026",
-      "url": "https://www.memeorandum.com/250518/p12",
-      "urlToImage": "https://static01.nyt.com/images/2025/05/16/multimedia/00dc-rfk-texas-01-vjth/00dc-rfk-texas-01-vjth-facebookJumbo.jpg",
-      "publishedAt": "2025-05-18 12:00:05",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.849650",
-      "internal_id": "ee731cb0bca2b31147850239b8d4cb8fce4f73514fe037f3c929a6563babc279",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21372,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccine skepticism a growing concern, virologist warns amid rising measles caseload",
-      "description": "Misinformation is making it hard for Canada to reach the vaccination levels needed to prevent the spread of measles, experts say as the country deals with the largest outbreak of the disease in almost three decades.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489",
-      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-18 11:00:00",
-      "content": "Misinformation is making it hard for Canada to reach the vaccination levels needed to prevent the spread of measles, experts say as the country deals with the largest outbreak of the disease in almos\u2026 [+4407 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.891124",
-      "internal_id": "2151fb7254bc4d457f479cb8a826ec3cdbadafbe84cb949960c67e300c1fa237",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "vanessa.lozano",
-      "title": "Brote de gripe aviar: Frenan importaci\u00f3n av\u00edcola desde Brasil",
-      "description": "Vanessa Arteaga / AFP M\u00e9xico suspendi\u00f3 la importaci\u00f3n de pollo proveniente de Brasil debido a un brote de gripe aviar detectado en ese pa\u00eds, inform\u00f3 ayer la Secretar\u00eda de Agricultura. El brote de influenza aviar de alta patogenicidad H5N1 ya provoc\u00f3 el ces\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/18/3309098.jpg",
-      "publishedAt": "2025-05-18 10:12:35",
-      "content": "M\u00e9xico suspendi\u00f3 la importaci\u00f3n de pollo proveniente de Brasil debido a un brote de gripe aviar detectado en ese pa\u00eds, inform\u00f3 ayer la Secretar\u00eda de Agricultura. El brote de influenza aviar de alta \u2026 [+1928 chars]",
-      "retrievedAt": "2025-05-19 19:06:10.450356",
-      "internal_id": "c17fd93a6e60dcb62f2bc84e9c0bcc98e1c7578334c7dbd68fb63f9178f4c20b",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21369,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "SAM METZ Associated Press",
-      "title": "Morocco unveils policies it hopes bolster the care and management of stray dogs",
-      "description": "Morocco is expanding its efforts to humanely manage the millions of stray dogs that roam the country's streets",
-      "url": "https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716",
-      "urlToImage": "https://i.abcnewsfe.com/a/d7ffbc15-a6ed-4b57-a8d6-5163f9e00f3e/wirestory_d8452e6aa0005e0cd71462ab7daf9bf5_16x9.jpg?w=1600",
-      "publishedAt": "2025-05-18 08:06:30",
-      "content": "EL AARJATE, Morocco -- A mutt with a blue tag clipped to her ear whimpers as shes lifted from a cage and carried to a surgery table for a spay and a rabies vaccine, two critical steps before shes rel\u2026 [+4456 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.499725",
-      "internal_id": "f8598fc12a2588811ee8eb7418f9a80c2e1b149f1280fa56d812da8f58b53910",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21368,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Boston Herald",
-      "author": "Dr. John De Jong",
-      "title": "Rescued cat has some issues",
-      "description": "I noticed that she has a dark area near the inside corner of her right eye that looks like she is constantly weeping.",
-      "url": "https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/migration/2006/12/15/042317vet3.jpg?w=1024&h=670",
-      "publishedAt": "2025-05-18 07:56:49",
-      "content": "Dear Dr. John, I adopted a cat recently who is an absolute sweetheart! She is around five years old and was apparently rescued from Puerto Rico. She is scheduled to have a new updated rabies vaccine\u2026 [+1953 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.466151",
-      "internal_id": "a525bbe40b9d7e0c36e5ffbfad9fb4d346098311a3443ef4984fc504040e1630",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21375,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": "Reuters",
-      "title": "World Health Organization Looks Ahead To Life Without The US",
-      "description": "World Health Organization officials will join donors and diplomats with one question - how to cope with crises without their main funder, the US.",
-      "url": "https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043",
-      "urlToImage": "https://c.ndtvimg.com/2025-04/m9jnpr8g_world-health-organisation_625x300_25_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-05-18 07:55:29",
-      "content": "London: Hundreds of officials from the World Health Organization will join donors and diplomats in Geneva from Monday with one question dominating their thoughts - how to cope with crises from mpox t\u2026 [+4053 chars]",
-      "retrievedAt": "2025-05-19 19:06:11.855390",
-      "internal_id": "ebbc4a1faa98a0bff7b869fc35fd78c9516d6d76ef8eca93905b7f2ef66a55d4",
       "publishedAtLabel": "May 18"
     }
   ]

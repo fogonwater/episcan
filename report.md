@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-07-01 07:08
-- **Most recent article:** 2025-06-30 05:39:04
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-07-01 19:06
+- **Most recent article:** 2025-06-30 17:30:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 77 | 68 | 90 | 48 | 31 | 53 | 1 | 368 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 2 | 138 |
-| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 1 | 124 |
-| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 1 | 108 |
-| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 0 | 107 |
-| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 0 | 90 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 17 | 72 |
-| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 0 | 51 |
+| measles | 75 | 68 | 90 | 48 | 31 | 53 | 6 | 371 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 5 | 141 |
+| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 10 | 133 |
+| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 1 | 107 |
+| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 1 | 107 |
+| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 0 | 89 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 18 | 73 |
+| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 1 | 49 |
 | zika | 10 | 9 | 7 | 2 | 14 | 2 | 0 | 44 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
+| hpai | 2 | 1 | 3 | 1 | 1 | 0 | 1 | 9 |
 | typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 0 | 8 |
-| hpai | 2 | 1 | 3 | 1 | 1 | 0 | 0 | 8 |
 | leptospirosis | 0 | 1 | 2 | 2 | 0 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 4 |
 
@@ -33,11 +33,17 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-27 (rabies)
+
+- [Gen Zer Scratched by Street Cat in Thailand—then Comes Chilling Realization](https://www.newsweek.com/tourist-bitten-cat-rabies-vaccination-viral-video-2092592) (Newsweek)
+
 ## 25-27 (mpox)
 
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Spain’s Bonmati Discharged From Hospital Ahead Of UEFA Women’s Euro](https://www.forbes.com/sites/manasipathak-1/2025/06/30/spains-bonmati-discharged-from-hospital-ahead-of-uefa-womens-euro/) (Forbes)
 
 - [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
 
@@ -75,13 +81,55 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (measles)
 
+- [Measles risk while traveling: How to avoid infection](https://www.medicalnewstoday.com/articles/qa-how-to-stay-safe-against-measles-while-traveling) (Medical News Today)
+
+- [Public health officials warn of measles exposure at Nicholasville water park](https://www.lex18.com/news/public-health-officials-warn-of-measles-exposure-at-nicholasville-water-park) (LEX18 Lexington KY News)
+
+- [Michigan announces second measles outbreak as US goes past 1,200 cases](https://www.mlive.com/news/2025/06/michigan-announces-second-measles-outbreak-as-us-goes-past-1200-cases.html) (mlive.com)
+
+- ['It's insane': Family of Texas 4-year-old hit with $1.4K bill for measles shot](https://www.rawstory.com/a-texas-boy-needed-protection-from-measles-the-vaccine-cost-1400/) (Raw Story)
+
+- [A Texas Boy Needed Protection From Measles. The Vaccine Cost $1,400.](https://kffhealthnews.org/news/article/bill-of-the-month-texas-measles-vaccine-insurance-charge-outbreak-international/) (Kffhealthnews.org)
+
 - [Health alert: Measles cases surge across BC Interior, flights, gatherings, and public exposed, health officials urge vaccinatio](https://economictimes.indiatimes.com/news/international/canada/health-alert-measles-cases-surge-across-bc-interior-flights-gatherings-and-public-exposed-health-officials-urge-vaccinatio/articleshow/122137448.cms) (The Times of India)
 
 ## 25-27 (malaria)
 
+- [WHO erklärt Surinam für malariafrei](https://orf.at/stories/3398272/) (Orf.at)
+
+- [Krankheiten: WHO erklärt Suriname für malariafrei](https://www.tagesspiegel.de/wissen/krankheiten-who-erklart-suriname-fur-malariafrei-13943932.html) (Der Tagesspiegel)
+
+- [Krankheiten: WHO erklärt Suriname für malariafrei](https://www.zeit.de/news/2025-06/30/who-erklaert-suriname-fuer-malariafrei) (Die Zeit)
+
+- [Krankheiten: WHO erklärt Suriname für malariafrei](https://www.stern.de/panorama/wissen/krankheiten--who-erklaert-suriname-fuer-malariafrei-35853930.html) (STERN.de)
+
+- [Albares destaca el "esfuerzo" de España con la salud global aumentando fondos frente al Sida, la malaria y tuberculosis](https://www.infosalus.com/actualidad/noticia-albares-destaca-esfuerzo-espana-salud-global-aumentando-fondos-frente-sida-malaria-tuberculosis-20250630172842.html) (Infosalus.com)
+
+- [Suriname certified malaria-free by WHO](https://www.who.int/news/item/30-06-2025-suriname-certified-malaria-free-by-who) (World Health Organization)
+
+- [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
+
+- [TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody response against PvCSP variants in symptomatic P. vivax infections in Venezuela](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013262) (Plos.org)
+
+- [Malaria Is Evolving—Our Response Should Too](https://speakingofmedicine.plos.org/2025/06/30/malaria-is-evolving-our-response-should-too/) (Plos.org)
+
 - [gnuhealth-mdg6 5.0.0](https://pypi.org/project/gnuhealth-mdg6/5.0.0/) (Pypi.org)
 
+## 25-27 (hpai)
+
+- [日本HP、AI PCを活用した未来の働き方（Future of Work）を提案](https://prtimes.jp/main/html/rd/p/000000102.000068112.html) (Prtimes.jp)
+
+## 25-27 (h5n1)
+
+- [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
+
 ## 25-27 (dengue)
+
+- [Twins excel in SPM despite illness](https://www.thestar.com.my/news/nation/2025/07/01/twins-excel-in-spm-despite-illness) (The Star Online)
+
+- [Aviso de Sanidad a la ciudadanía por el mosquito tigre y el de Japón: se multiplican los casos de dengue y virus del Nilo en España](https://www.eleconomista.es/actualidad/noticias/13441003/06/25/aviso-de-sanidad-a-la-ciudadania-por-el-mosquito-tigre-y-el-de-japon-se-multiplican-los-casos-de-dengue-y-virus-del-nilo-en-espana.html) (Eleconomista.es)
+
+- [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
 
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
 
@@ -2063,12 +2111,6 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
-- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
-
-- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
-
-- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
-
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2096,8 +2138,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
-
-- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2264,10 +2304,6 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
-
-- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
-
-- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2437,8 +2473,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
-- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
-
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2514,5 +2548,3 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
-
-- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
