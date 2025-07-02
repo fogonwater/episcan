@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-07-02 07:08
-- **Most recent article:** 2025-07-01 06:25:09
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-07-02 19:06
+- **Most recent article:** 2025-07-01 17:30:49
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 77 | 68 | 90 | 48 | 31 | 53 | 8 | 375 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 5 | 141 |
-| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 12 | 135 |
-| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 1 | 108 |
-| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 1 | 108 |
-| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 0 | 90 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 24 | 79 |
-| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 1 | 52 |
-| zika | 10 | 9 | 7 | 2 | 14 | 2 | 0 | 44 |
+| measles | 75 | 68 | 90 | 48 | 31 | 53 | 11 | 376 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 9 | 145 |
+| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 13 | 136 |
+| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 6 | 112 |
+| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 1 | 107 |
+| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 3 | 92 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 28 | 83 |
+| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 2 | 50 |
+| zika | 10 | 9 | 7 | 2 | 14 | 2 | 2 | 46 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
 | typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 1 | 9 |
@@ -33,19 +33,45 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-27 (zika)
+
+- [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
+
+- [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
+
 ## 25-27 (typhoid)
 
 - [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
 
 ## 25-27 (rabies)
 
+- [Rabies påvist hos rev på Svalbard: Ber folk vere oppmerksamme](https://www.nrk.no/tromsogfinnmark/rabies-pavist-hos-rev-pa-svalbard_-ber-folk-vere-oppmerksamme-1.17477083) (NRK)
+
 - [Gen Zer Scratched by Street Cat in Thailand—then Comes Chilling Realization](https://www.newsweek.com/tourist-bitten-cat-rabies-vaccination-viral-video-2092592) (Newsweek)
 
 ## 25-27 (mpox)
 
+- [Mpox en Sierra Leone : les raisons de la récente recrudescence et les risques pour l'Afrique de l'Ouest](https://theconversation.com/mpox-en-sierra-leone-les-raisons-de-la-recente-recrudescence-et-les-risques-pour-lafrique-de-louest-259828) (The Conversation Africa)
+
+- [Awareness campaigns and strengthened prevention as alternatives to banning: Preventing zoonotic diseases from wildlife in the Democratic Republic of Congo](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327590) (Plos.org)
+
+- [Ghana confirms 14 new Mpox cases, total reaches 133](https://thechronicle.com.gh/ghana-confirms-14-new-mpox-cases-total-reaches-133/) (Thechronicle.com.gh)
+
+- [ΕΟΔΥ: Πολλαπλασιάστηκαν τα κρούσματα γονόρροιας και σύφιλης στην Ελλάδα – Προσοχή στα Σεξουαλικώς Μεταδιδόμενα Νοσήματα](https://www.newsit.gr/ellada/eody-pollaplasiastikan-ta-krousmata-gonorroias-kai-syfilis-stin-ellada-prosoxi-sta-seksoualikos-metadidomena-nosimata/4420048/) (Newsit.gr)
+
+- [Προσοχή στα ΣΜΝ -Τριπλασιάστηκαν τα περιστατικά γονόρροιας - Διπλασιάστηκαν οι διαγνώσεις πρώιμης σύφιλης](https://www.skai.gr/news/health/smn-diplasiastikan-oi-diagnoseis-syfilis-triplasiastikan-ta-peristatika-gonorroias) (Skai.gr)
+
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Una mejoría de récord: Aitana ya se entrena en Suiza y amenaza a Portugal](https://www.abc.es/deportes/futbol/mejoria-record-aitana-entrena-suiza-amenaza-portugal-20250701163413-nt.html) (Www.abc.es)
+
+- [Superstar Bonmati im spanischen Teamhotel eingetroffen](https://sport.orf.at/stories/3142944/) (Sport.orf.at)
+
+- [EM in der Schweiz: Weltfußballerin Bonmati stößt nach Meningitis zum Team](https://www.tagesspiegel.de/sport/em-in-der-schweiz-weltfussballerin-bonmati-stosst-nach-meningitis-zum-team-13945588.html) (Der Tagesspiegel)
+
+- [Bonmati returns to Spain squad at Euro 2025](https://www.espn.com/soccer/story/_/id/45626868/euro-2025-aitana-bonmati-rejoins-spain-squad-hospital-discharge) (ESPN)
 
 - [Bonmati back with Spain at Euro 2025, although her status remains unclear](https://www.channelnewsasia.com/sport/bonmati-back-spain-euro-2025-although-her-status-remains-unclear-5213521) (CNA)
 
@@ -97,6 +123,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (measles)
 
+- [Texas measles outbreak: 3 new cases in connection to West Texas outbreak](https://www.fox4news.com/news/texas-measles-outbreak-july-1-2025) (FOX 4 News)
+
+- [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families](https://www.bostonherald.com/2025/07/01/vaccine-preventable-diseases/) (Boston Herald)
+
+- [A Texas boy needed protection from measles. The vaccine cost $1,400. (Julie Appleby/Washington Post)](https://www.memeorandum.com/250701/p24) (Memeorandum.com)
+
 - [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
 
 - [Province warns of possible measles exposure at Winnipeg children's hospital ER](https://www.cbc.ca/news/canada/manitoba/winnipeg-health-sciences-centre-childrens-er-measles-1.7574586) (CBC News)
@@ -114,6 +146,8 @@ Source: [News API](https://newsapi.org/)
 - [Health alert: Measles cases surge across BC Interior, flights, gatherings, and public exposed, health officials urge vaccinatio](https://economictimes.indiatimes.com/news/international/canada/health-alert-measles-cases-surge-across-bc-interior-flights-gatherings-and-public-exposed-health-officials-urge-vaccinatio/articleshow/122137448.cms) (The Times of India)
 
 ## 25-27 (malaria)
+
+- [Ethiopia reports over 520,000 malaria cases in May: WHO](https://www.thestar.com.my/news/world/2025/07/02/ethiopia-reports-over-520000-malaria-cases-in-may-who) (The Star Online)
 
 - [WHO verklaart Suriname als eerste land in Amazonegebied ‘malariavrij’](https://www.nrc.nl/nieuws/2025/07/01/who-verklaart-suriname-als-eerste-land-in-amazonegebied-malariavrij-a4898886) (Www.nrc.nl)
 
@@ -149,6 +183,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (dengue)
 
+- [Dengue: dalle zanzare ai viaggi in zone a rischio, come si previene l'esposizione](https://www.ilgiornale.it/news/adnkronos/dengue-dalle-zanzare-ai-viaggi-zone-rischio-si-previene-2503572.html) (Ilgiornale.it)
+
+- [Safety and tolerability of metformin in overweight and obese patients with dengue: An open-label clinical trial (MeDO)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013281) (Plos.org)
+
+- [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
+
+- [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
+
 - [Twins excel in SPM despite illness](https://www.thestar.com.my/news/nation/2025/07/01/twins-excel-in-spm-despite-illness) (The Star Online)
 
 - [Aviso de Sanidad a la ciudadanía por el mosquito tigre y el de Japón: se multiplican los casos de dengue y virus del Nilo en España](https://www.eleconomista.es/actualidad/noticias/13441003/06/25/aviso-de-sanidad-a-la-ciudadania-por-el-mosquito-tigre-y-el-de-japon-se-multiplican-los-casos-de-dengue-y-virus-del-nilo-en-espana.html) (Eleconomista.es)
@@ -158,6 +200,14 @@ Source: [News API](https://newsapi.org/)
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
 
 - [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
+
+## 25-27 (chikungunya)
+
+- [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
+
+- [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
+
+- [La Réunion tourne la page du chikungunya](https://www.opinion-internationale.com/2025/07/01/la-reunion-tourne-la-page-du-chikungunya_135704.html) (Opinion-internationale.com)
 
 ## 25-26 (zika)
 
@@ -2135,12 +2185,6 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
-- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
-
-- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
-
-- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
-
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2168,8 +2212,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
-
-- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2336,10 +2378,6 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
-
-- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
-
-- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2509,8 +2547,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
-- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
-
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2586,5 +2622,3 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
-
-- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
