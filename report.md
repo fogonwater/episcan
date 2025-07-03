@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-07-02 19:06
-- **Most recent article:** 2025-07-01 17:30:49
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-07-03 07:08
+- **Most recent article:** 2025-07-02 07:00:39
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 68 | 90 | 48 | 31 | 53 | 11 | 376 |
+| measles | 77 | 68 | 90 | 48 | 31 | 53 | 14 | 381 |
 | dengue | 26 | 28 | 25 | 14 | 17 | 26 | 9 | 145 |
-| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 13 | 136 |
-| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 6 | 112 |
-| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 1 | 107 |
-| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 3 | 92 |
+| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 14 | 137 |
+| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 6 | 113 |
+| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 2 | 109 |
+| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 3 | 93 |
 | meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 28 | 83 |
-| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 2 | 50 |
+| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 3 | 54 |
 | zika | 10 | 9 | 7 | 2 | 14 | 2 | 2 | 46 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
 
 ## 25-27 (rabies)
+
+- [Man contracts first confirmed NSW case of 'rabies-like' bat disease](https://www.abc.net.au/news/2025-07-02/nsw-man-australian-bat-lyssavirus-infection/105486912) (ABC News (AU))
 
 - [Rabies påvist hos rev på Svalbard: Ber folk vere oppmerksamme](https://www.nrk.no/tromsogfinnmark/rabies-pavist-hos-rev-pa-svalbard_-ber-folk-vere-oppmerksamme-1.17477083) (NRK)
 
@@ -123,6 +125,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (measles)
 
+- [Health department reports 9 total cases of measles in Utah](https://kutv.com/news/local/health-department-reports-9-total-cases-of-measles-in-utah) (KUTV 2News)
+
+- [Department of State Health Services reports first measles case of 2025 in Bexar County](https://www.ksat.com/news/local/2025/07/01/department-of-state-health-services-reports-first-measles-case-of-2025-in-bexar-county/) (KSAT San Antonio)
+
+- [First Wyoming measles case in 15 years reported in Casper](http://oilcity.news/community/health/2025/07/01/first-wyoming-measles-case-in-15-years-reported-in-casper/) (Oil City News)
+
 - [Texas measles outbreak: 3 new cases in connection to West Texas outbreak](https://www.fox4news.com/news/texas-measles-outbreak-july-1-2025) (FOX 4 News)
 
 - [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families](https://www.bostonherald.com/2025/07/01/vaccine-preventable-diseases/) (Boston Herald)
@@ -146,6 +154,8 @@ Source: [News API](https://newsapi.org/)
 - [Health alert: Measles cases surge across BC Interior, flights, gatherings, and public exposed, health officials urge vaccinatio](https://economictimes.indiatimes.com/news/international/canada/health-alert-measles-cases-surge-across-bc-interior-flights-gatherings-and-public-exposed-health-officials-urge-vaccinatio/articleshow/122137448.cms) (The Times of India)
 
 ## 25-27 (malaria)
+
+- [Pair of malaria parasite proteins could lead to targeted therapies](https://phys.org/news/2025-07-pair-malaria-parasite-proteins-therapies.html) (Phys.Org)
 
 - [Ethiopia reports over 520,000 malaria cases in May: WHO](https://www.thestar.com.my/news/world/2025/07/02/ethiopia-reports-over-520000-malaria-cases-in-may-who) (The Star Online)
 
@@ -178,6 +188,8 @@ Source: [News API](https://newsapi.org/)
 - [日本HP、AI PCを活用した未来の働き方（Future of Work）を提案](https://prtimes.jp/main/html/rd/p/000000102.000068112.html) (Prtimes.jp)
 
 ## 25-27 (h5n1)
+
+- [Anvisa autoriza testes em humanos com vacina contra gripe aviária do Butantan](https://veja.abril.com.br/saude/anvisa-autoriza-testes-em-humanos-com-vacina-contra-gripe-aviaria-do-butantan/) (Abril.com.br)
 
 - [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
 
@@ -2185,6 +2197,12 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
+- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
+
+- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
+
+- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
+
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2212,6 +2230,8 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
+
+- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2378,6 +2398,10 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
+
+- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
+
+- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2547,6 +2571,8 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
+- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
+
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2622,3 +2648,5 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
+
+- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
