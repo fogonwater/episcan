@@ -1,8 +1,459 @@
 {
-  "last_updated": "2025-07-03 07:08",
-  "count_articles_total": 1172,
-  "count_articles_new": 6,
+  "last_updated": "2025-07-03 19:06",
+  "count_articles_total": 1189,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 22547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "June dengue cases fall to 10 from 60 in 2024",
+      "description": "Panaji/Canacona: Goa recorded 10 dengue cases in June 2025 compared to 60 in the same month last year. In the Jan-June period this year, Goa registere.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/june-dengue-cases-fall-to-10-from-60-in-2024/articleshow/122212032.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-122212026,width-1070,height-580,imgsize-116934,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-07-02 18:37:54",
+      "content": "Anju Kurian shines in style",
+      "retrievedAt": "2025-07-03 19:06:01.975668",
+      "internal_id": "66a5a2cf95975e742823d74a4086ce1cc1a5d9f4617039762abda6962559d9b6",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22553,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "fox-sports",
+      "source_name": "Fox Sports",
+      "author": null,
+      "title": "Aitana Bonmat\u00ed making 'very positive' progress, could play in Spain's Euro 2025 opener",
+      "description": "The two-time Ballon d\u2019Or winner's participation in the tournament was in doubt last week when she was hospitalized after falling ill with a fever late Friday.",
+      "url": "https://www.foxsports.com/stories/soccer/aitana-bonmati-making-very-positive-progress-could-play-spains-euro-2025-opener",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/07/1408/814/bonmati1.jpg?ve=1&tl=1",
+      "publishedAt": "2025-07-02 18:09:12",
+      "content": "Spain star Aitana Bonmat\u00ed is making good progress after recovering from viral meningitis and might even be available for the world champions opening match at the UEFA Women's Euro 2025, coach Montse \u2026 [+1308 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.535693",
+      "internal_id": "5781524e0c1452c9e9308ce74579319609b7dd3a59250aaee34fb28e69ff7db9",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22541,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salt Lake Tribune",
+      "author": null,
+      "title": "Nine measles cases in Utah, and most are in one county, health officials say",
+      "description": "The state of Utah is up to nine cases of measles, health officials say. Most are in one county, and all are people who were unvaccinated.",
+      "url": "https://www.sltrib.com/news/2025/07/02/nine-measles-cases-utah-most-are/",
+      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMVSOXNF7JJG5HCTRGSI32RA5BA.jpg?auth=e2339f1afc792fcd39840d0f2a28209f233f6279fa2092c5d1ffa4797cc690b2&width=1200",
+      "publishedAt": "2025-07-02 18:03:56",
+      "content": "Note to readers The Salt Lake Tribune is making this story free to all. The Utah Department of Health and Human Services has confirmed nine measles cases in the state of Utah, as of Tuesday. Accord\u2026 [+3018 chars]",
+      "retrievedAt": "2025-07-03 19:06:00.973319",
+      "internal_id": "9beaeafe71a9c3f43f3fab8dec5a6ad289335a30e03e5f734241ab244434d205",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22544,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Cambodia Reports 10 Cases of Bird Flu This Year",
+      "description": "Cambodia has just reported its tenth case of bird flu this year. Some of the patients who had contracted the H5N1 highly pathogenic avian influenza (HPAI) had reportedly handled and come into contact with ill poultry, which they then prepared and ate.",
+      "url": "https://www.shtfplan.com/headline-news/cambodia-reports-10-cases-of-bird-flu-this-year",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-07-02 17:30:00",
+      "content": "Cambodia has just reported its tenth case of bird flu this year. Some of the patients who had contracted the H5N1 highly pathogenic avian influenza (HPAI) had reportedly handled and come into contact\u2026 [+2148 chars]",
+      "retrievedAt": "2025-07-03 19:06:01.335680",
+      "internal_id": "7f28b6d8bbdd39825c8b99491a3c01bc10465249a4191977af9eca7c203abfe8",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22555,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "espn",
+      "source_name": "ESPN",
+      "author": "Sam Marsden and Moises Llorens",
+      "title": "Spain coach Tom\u00e9 upbeat about Bonmat\u00ed fitness",
+      "description": "Spain coach Montse Tom\u00e9 says she has to rein Aitana Bonmat\u00ed in as the midfielder pushes to start Thursday's European Championship opener against Portugal after recovering from viral meningitis.",
+      "url": "https://www.espn.com/soccer/story/_/id/45645763/euro-2025-spain-coach-tome-upbeat-aitana-bonmati-fitness",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0702%2Fr1514029_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-07-02 17:20:02",
+      "content": "Spain coach Montse Tom\u00e9 has said she has to rein Aitana Bonmat\u00ed in as the midfielder pushes to start Thursday's European Championship opener against Portugal after recovering from viral meningitis. \u2026 [+2342 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.664384",
+      "internal_id": "ad140b7db5bd413bb98e861cdde805d3b04c94aad1845f19e8b4c817fa3584e1",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22540,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Boredpanda.com",
+      "author": "Asli Akalin",
+      "title": "\u201cNot Worth The Rabies Shots\u201d: 23 Life-Saving Tips On What Not To Do When Visiting The US",
+      "description": "The beautiful thing about traveling is that it allows you to experience different cultures and learn about other ways of life. However, this wonderful opportunity comes with the responsibility to respect and appreciate the customs of the people who are hostin\u2026",
+      "url": "https://www.boredpanda.com/actions-avoid-doing-visiting-america-msn/",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2023/11/actions-avoid-doing-visiting-america-fb-65462b20803fc.png",
+      "publishedAt": "2025-07-02 17:10:49",
+      "content": "Article created by: Rugil\u0117 \u017demaityt\u0117 The beautiful thing about traveling is that it allows you to experience different cultures and learn about other ways of life. However, this wonderful opportunit\u2026 [+654 chars]",
+      "retrievedAt": "2025-07-03 19:06:00.633272",
+      "internal_id": "23807115789d3e291ec87cdb0f3a955c3099d2b48417b035e37f358022157551",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22552,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Neil Johnston",
+      "title": "Spain's Bonmati 'eager' to play after meningitis scare",
+      "description": "Aitana Bonmati is \"so eager\" to play in Spain's Euro 2025 opening match against Portugal - but she could be held back after recent hospital treatment for viral meningitis.",
+      "url": "https://www.bbc.com/sport/football/articles/cm2zvz0lzlro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/11ea/live/f7717bb0-575d-11f0-9ba9-9f966e2be36f.png",
+      "publishedAt": "2025-07-02 16:36:50",
+      "content": "Aitana Bonmati is \"so eager\" to play in Spain's opening Euro 2025 match against Portugal despite being treated for viral meningitis just days ago, says head coach Montse Tome. However, Bonmati remai\u2026 [+1054 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.504278",
+      "internal_id": "14f737a2819ac7fcaedc83c2d5c78db7dbcf8afd573ebcab71361170f98c4640",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22563,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Gana'da M \u00e7i\u00e7e\u011fi vaka say\u0131s\u0131 133'e y\u00fckseldi",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Gana'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) vaka say\u0131s\u0131n\u0131n 133'e \u00e7\u0131kt\u0131\u011f\u0131 bildirildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/ganada-m-cicegi-vaka-sayisi-133e-yukseldi/3620026",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/07/02/thumbs_b_c_26d78ddbe865e70ac20040d89183b338.jpg",
+      "publishedAt": "2025-07-02 16:22:56",
+      "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, \u00fclkenin 10 vilayetine bal 46 b\u00f6lgesinde M \u00e7i\u00e7ei vakasnn yaylmaya devam ettii belirtildi. A\u00e7klamada, \u00fclkede bir haftada 14 yeni M \u00e7i\u00e7ei vakasnn tespit ed\u2026 [+1462 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.627597",
+      "internal_id": "81bd509f0a5d08336685b58d8e4f92acbbd8a6f48c73bcb5d9a8641fdce3e77e",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22558,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Congressoemfoco.com.br",
+      "author": "",
+      "title": "Nova lei garante indeniza\u00e7\u00e3o e pens\u00e3o a v\u00edtimas do Zika v\u00edrus",
+      "description": "A Lei 15.156, de 2025, assegura indeniza\u00e7\u00e3o e pens\u00e3o vital\u00edcia a v\u00edtimas do Zika v\u00edrus, ap\u00f3s a derrubada do veto presidencial.",
+      "url": "https://www.congressoemfoco.com.br/noticia/109890/nova-lei-garante-indenizacao-e-pensao-a-vitimas-do-zika-virus",
+      "urlToImage": "https://static.congressoemfoco.com.br/CONG_REDES_RETANGULAR/2025/07/02/42fd97_CONG_REDES_RETANGULAR_MANUAL_2502201620160225110318.jpg",
+      "publishedAt": "2025-07-02 15:27:43",
+      "content": "A Lei n\u00ba 15.156, de 2025, foi oficialmente promulgada, estabelecendo o direito \u00e0 indeniza\u00e7\u00e3o por danos morais e \u00e0 percep\u00e7\u00e3o de pens\u00e3o especial para indiv\u00edduos afetados pelo Zika v\u00edrus. A referida nor\u2026 [+3296 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.250602",
+      "internal_id": "7d668f60ab556f89867f9ee36086453a9f38fb009bfdc687d7353d080b3b43ef",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22556,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Montse Tom\u00e9 deja entrever que Aitana no jugar\u00e1 ante Portugal: \u00abTiene muchas ganas, pero hay que ir fren\u00e1ndola\u00bb",
+      "description": "Una de las grandes inc\u00f3gnitas para el debut de Espa\u00f1a ante Portugal es la disponibilidad de Aitana Bonmat\u00ed despu\u00e9s de que la centrocampista haya superado una meningitis v\u00edrica que dej\u00f3 en el aire su participaci\u00f3n en la Eurocopa. La azulgrana lleg\u00f3 el lunes y \u2026",
+      "url": "https://www.abc.es/deportes/futbol/montse-tome-deja-entrever-aitana-jugara-ante-20250702170836-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/07/02/tomeefe-U52758488537VgT-1024x512@diario_abc.JPG",
+      "publishedAt": "2025-07-02 15:08:37",
+      "content": "Una de las grandes inc\u00f3gnitas para el debut de Espa\u00f1a ante Portugal es la disponibilidad de Aitana Bonmat\u00ed despu\u00e9s de que la centrocampista haya superado una meningitis v\u00edrica que dej\u00f3 en el aire su \u2026 [+4465 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.729906",
+      "internal_id": "e6557156ce1a7b4fc826198f6437fc8f13a2e913e4df535a6caf67c472ea1cfb",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22543,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in US",
+      "description": "Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in USgo.com",
+      "url": "https://abcnews.go.com/Health/wyoming-confirms-1st-case-measles-15-years-infections/story?id=123407276",
+      "urlToImage": "https://i.abcnewsfe.com/a/96cbf0af-721a-49d6-8ca6-c3054c6b7bfb/measles-sign-ap-jt-250311_1741732269895_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-02 14:55:49",
+      "content": "Wyoming is reporting its first measles case in 15 years as the infectious disease continues to spread across the United States. The state's Department of Health said on Tuesday that it had confirmed\u2026 [+2537 chars]",
+      "retrievedAt": "2025-07-03 19:06:00.991649",
+      "internal_id": "455fcfa9141b40d13a9c9347b4d2c832cda47b1d8c6f618466cb3f211c57cf57",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22554,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Bego\u00f1a Villarrubia Renom",
+      "title": "Montse Tom\u00e9: \"Aitana tiene muchas ganas de jugar y hay que ir fren\u00e1ndola\"",
+      "description": "Montse Tom\u00e9 habl\u00f3 antes del estreno de Espa\u00f1a ante Portugal en la Eurocopa femenina de c\u00f3mo se encuentran Aitana Bonmat\u00ed y Cata Coll, que han estado con meningitis y amigdalitis en estos \u00faltimos d\u00edas y entrenando al margen: \"Ayer Aitana hizo una parte del ent\u2026",
+      "url": "https://www.mundodeportivo.com/futbol/femenino/20250702/1002493303/montse-tome-aitana-muchas-ganas-jugar-hay-frenandola.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/06/28/685f18da4f28c.r_d.479-109-0.jpeg",
+      "publishedAt": "2025-07-02 14:31:41",
+      "content": "Montse Tom\u00e9 habl\u00f3 antes del estreno de Espa\u00f1a ante Portugal en la Eurocopa femenina de c\u00f3mo se encuentran Aitana Bonmat\u00ed y Cata Coll, que han estado con meningitis y amigdalitis en estos \u00faltimos d\u00edas\u2026 [+2139 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.552238",
+      "internal_id": "16e2d159273b00c0395a98283b92b651b0b243cbceaad31025de8487d9b99d78",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22546,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "South Africa reports H5N1 bird flu on poultry farms, international agency says",
+      "description": "PARIS (Reuters) -South Africa has reported outbreaks of the highly pathogenic H5N1 strain of avian influenza, or bird flu, on two poultry farms in the country, the World Organisation for Animal Health said on Wednesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/07/02/south-africa-reports-h5n1-bird-flu-on-poultry-farms-international-agency-says",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/02/3396958.jpg",
+      "publishedAt": "2025-07-02 14:06:00",
+      "content": "PARIS (Reuters) -South Africa has reported outbreaks of the highly pathogenic H5N1 strain of avian influenza, or bird flu, on two poultry farms in the country, the World Organisation for Animal Healt\u2026 [+193 chars]",
+      "retrievedAt": "2025-07-03 19:06:01.519369",
+      "internal_id": "a38c49ab91fa2f986023160a1a453d5aada21bc0ccaf600a7cfda784200d4e10",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22542,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "Kent County issues measles exposure warning after 2nd infection",
+      "description": "Michigan has reported 17 confirmed cases in 2025, including recent infections in Kent, Muskegon and Grand Traverse counties.",
+      "url": "https://www.mlive.com/news/2025/07/kent-county-issues-measles-exposure-warning-after-2nd-infection.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/WPTBY72PQNFMNHUCASBP7QJDDQ.jpg?auth=0f6f6deeaf666635f3e671c61cc6c033d2696850a1d689b41179d2a2dd428b29&width=1280&quality=90",
+      "publishedAt": "2025-07-02 13:19:31",
+      "content": "GRAND RAPIDS, MI -- Kent County has confirmed its second measles case of the year in a young child. The childs family had a recent history of international travel, the Kent County Health Department \u2026 [+2742 chars]",
+      "retrievedAt": "2025-07-03 19:06:00.982946",
+      "internal_id": "5dcf2679527b392e9d51f6798ccf5433f01618af10903b65ff1411eaf8bf993b",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22564,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "FT: \u0443 \u0410\u0444\u0440\u0438\u043a\u0438 \u043d\u0435\u0442 \u0434\u0435\u043d\u0435\u0433 \u0434\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0441 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0435\u0439 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u042d\u0442\u043e \u0441\u0432\u044f\u0437\u0430\u043d\u043e \u0441 \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435\u043c \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0421\u0428\u0410 \u0438 \u0435\u0435 \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435\u043c \u0415\u0432\u0440\u043e\u0441\u043e\u044e\u0437\u043e\u043c, \u043f\u0438\u0448\u0435\u0442 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+      "url": "https://tass.ru/obschestvo/24412515",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/24412515?u=2025-07-02T12:20:08.773547",
+      "publishedAt": "2025-07-02 12:20:08",
+      "content": ", 2 . //. mpox (\"\", ) - . Financial Times (). \" [ ] \", - mpox . , 13 21 . mpox 19,7 . 2024 . , , mpox . mpox , - (). 2024 mpox 200 . 1 . . Mpox - , , . 1970 .",
+      "retrievedAt": "2025-07-03 19:06:03.636627",
+      "internal_id": "9fca82277bb65f08cc5edee56e79feeb05befb59163e1871749f27fc90a3b082",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22559,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : une transmission autochtone d\u00e9tect\u00e9e dans la r\u00e9gion Grand-Est \u00ab confirme le risque important \u00bb en m\u00e9tropole",
+      "description": "L\u2019extension du chikungunya au-del\u00e0 du sud de l\u2019Hexagone inqui\u00e8te les autorit\u00e9s, alors que la pr\u00e9cocit\u00e9 des cas et la chaleur favorisent la propagation du virus. Au total, sept cas ont \u00e9t\u00e9 identifi\u00e9s, concernant cinq r\u00e9gions.",
+      "url": "https://www.lemonde.fr/sante/article/2025/07/02/chikungunya-une-transmission-autochtone-detectee-dans-la-region-grand-est-confirme-le-risque-important-en-metropole_6617389_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2025/06/25/0/0/4999/3333/1440/960/60/0/570d52e_ftp-import-images-1-y89zeiscnler-2025-06-25t070111z-1197456897-rc2u59atibvg-rtrmadp-3-gsk-vaccine.JPG",
+      "publishedAt": "2025-07-02 12:12:40",
+      "content": "Un moustique tigre est photographi\u00e9 \u00e0 travers un microscope optique 20 \u00d7, \u00e0 Moncada, Espagne, le 19 juillet 2024. EVA MANEZ / REUTERS Un \u00e9pisode de transmission autochtone du chikungunya a \u00e9t\u00e9 d\u00e9tec\u2026 [+2514 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.378472",
+      "internal_id": "101978532e91b84ab286eddcde1bc1fcb7f4ad7c3168349aad9d2a2a165421b9",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22561,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : un lien \u00e9tabli avec le vaccin dans la moiti\u00e9 des cas d'effets ind\u00e9sirables graves",
+      "description": "L'Agence du m\u00e9dicament a rapport\u00e9 mercredi que sur les 18 cas d\u2019effets ind\u00e9sirables graves rapport\u00e9s apr\u00e8s l'administration du vaccin Ixchiq contre le chikungunya, un lien avec le vaccin a \u00e9t\u00e9 \u00e9tabli pour la moiti\u00e9 d\u2019entre eux, selon une \u00e9valuation pharmacolo\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/07/02/chikungunya-un-lien-etabli-avec-le-vaccin-dans-la-moitie-des-cas-d-effets-indesirables-graves",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C78880C2-8903-46B3-BDE8-93CECB329D61/FB1200/photo-1751456631.jpg",
+      "publishedAt": "2025-07-02 11:43:00",
+      "content": "Depuis le d\u00e9but de la vaccination avec le vaccin Ixchiq en France, les autorit\u00e9s sanitaires pilotent une surveillance renforc\u00e9e qui comprend une enqu\u00eate de pharmacovigilance. Les premi\u00e8res analyses d\u2026 [+2105 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.397518",
+      "internal_id": "3f9f3cde92f175d6b027bc310b8842768cf646268b7dd64e9fdf572f23f8fbd0",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Azienda sanitaria, caso di virus Dengue nel Goriziano",
+      "description": "L'Azienda sanitaria universitaria giuliano isontina ha comunicato che ieri \u00e8 stato segnalato un caso accertato di Dengue, che riguarda una persona rientrata da un viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/07/02/azienda-sanitaria-caso-di-virus-dengue-nel-goriziano_e16edeb9-0bf1-48ca-b332-134bab3ded32.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-02 11:01:35",
+      "content": "L'Azienda sanitaria universitaria giuliano isontina ha comunicato che ieri \u00e8 stato segnalato un caso accertato di Dengue, che riguarda una persona rientrata da un viaggio all'estero. Come previsto\u2026 [+1775 chars]",
+      "retrievedAt": "2025-07-03 19:06:01.991954",
+      "internal_id": "3720b434ca3463bf2a88e2a96a9101e8fbb7cd3acd11187b278c17181f0a873e",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22549,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Azienda sanitaria, caso di virus Dengue nel Goriziano",
+      "description": "L'Azienda sanitaria universitaria giuliano isontina ha comunicato che ieri \u00e8 stato segnalato un caso accertato di Dengue, che riguarda una persona rientrata da un viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2025/07/02/azienda-sanitaria-caso-di-virus-dengue-nel-goriziano_f286def4-8511-4c24-ad59-3c4f1448ba96.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-02 11:01:33",
+      "content": "L'Azienda sanitaria universitaria giuliano isontina ha comunicato che ieri \u00e8 stato segnalato un caso accertato di Dengue, che riguarda una persona rientrata da un viaggio all'estero. Come previsto\u2026 [+1775 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.029948",
+      "internal_id": "98172e41596e2e6d760f88787d1f146bfc90dc995c7b66ff21ca06c0e685a726",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22545,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 7/2/2025",
+      "description": "Our peripatetic daily links: communicating cat? H5N1 human outbreak, Vietnam v. China in Spratlys, Denmark to draft women, IAEA MI6 agent outed, US cutting Ukraine arms, 23&Me data sold, \"Big bill\" casualites, Trump threatens Musk, ICE custody death, US const\u2026",
+      "url": "https://www.nakedcapitalism.com/2025/07/links-7-2-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-3.42.01\u202fPM.png",
+      "publishedAt": "2025-07-02 10:55:55",
+      "content": "Highly Intelligent Cat Communicates With His Human Verbally and With a Talking Button Board Laughing Squid Stanford paid 35,000 people to quit social media. This was the largest study on emotional \u2026 [+8929 chars]",
+      "retrievedAt": "2025-07-03 19:06:01.478788",
+      "internal_id": "9eeeb5e98ae56c8c8ee2104e38255be99253de59bba4e8abf46929ad02b132d8",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22560,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : un \u00e9pisode de transmission autochtone dans la r\u00e9gion Grand Est, une premi\u00e8re",
+      "description": "Un \u00e9pisode de transmission autochtone du chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 dans le Grand Est, ce qui, avec la pr\u00e9cocit\u00e9 et le nombre d'\u00e9pisodes d\u00e9j\u00e0 identifi\u00e9s, \u00ab confirme le risque important de transmission autochtone \u00bb en m\u00e9tropole, a indiqu\u00e9 mercredi Sant\u00e9 publiqu\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/07/02/chikungunya-un-episode-de-transmission-autochtone-dans-la-region-grand-est-une-premiere",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/17037292-90EC-4B22-B77D-E6CC9710C94C/FB1200/photo-1751453319.jpg",
+      "publishedAt": "2025-07-02 10:48:00",
+      "content": "Une premi\u00e8re : un \u00e9pisode de transmission autochtone du chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 dans le Grand Est, ce qui, avec la pr\u00e9cocit\u00e9 et le nombre d'\u00e9pisodes d\u00e9j\u00e0 identifi\u00e9s, \u00ab confirme le risque important \u2026 [+2347 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.388614",
+      "internal_id": "8a893cd3e68739d8d2d9d4f1ff6db38fe8ba6d4362315359200178f1559fd2e7",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22562,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : un cas autochtone identifi\u00e9 pour la premi\u00e8re fois dans la r\u00e9gion Grand Est",
+      "description": "Au total, Sant\u00e9 publique France d\u00e9nombre 14 cas autochtones de la maladie en France m\u00e9tropolitaine depuis la fin du mois de mai.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-un-cas-autochtone-identifie-pour-la-premiere-fois-dans-la-region-grand-est_7350510.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/Hd4c64ctI2l8H_6pYrZlPIIM_sk/0x48:1024x624/1500x843/2025/07/02/075-roy-notitle250607-npzfl-6864f86114eae004919515.jpg",
+      "publishedAt": "2025-07-02 09:26:41",
+      "content": "Une \u00e9pid\u00e9mie pr\u00e9coce et in\u00e9dite. Sept \u00e9pisodes de transmission du chikungunya ont \u00e9t\u00e9 recens\u00e9s en France m\u00e9tropolitaine par Sant\u00e9 publique France (SPF), selon le bulletin hebdomadaire de l'agence san\u2026 [+1028 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.420522",
+      "internal_id": "569af4758164a41fe051f6e34dbcd4dbabc3ee282dbce8cfda427ab46d6adb64",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22557,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "United States Virology, Bacteriology, Parasitology and Mycology Market Forecasts and Supplier Shares: Supplier Shares and Future Forecasts Revealed for Major Infectious Disease Tests",
+      "description": "Discover the latest supplier shares and projections for major infectious disease tests through 2028. This comprehensive database includes innovations in AIDS/HIV, Hepatitis, Malaria, and more, detailing companies leading advancements in infectious disease dia\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/02/3108981/28124/en/United-States-Virology-Bacteriology-Parasitology-and-Mycology-Market-Forecasts-and-Supplier-Shares-Supplier-Shares-and-Future-Forecasts-Revealed-for-Major-Infectious-Disease-Tests.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-07-02 09:07:00",
+      "content": "Dublin, July 02, 2025 (GLOBE NEWSWIRE) -- The \"2025 U.S. Virology, Bacteriology, Parasitology and Mycology Market Forecasts and Supplier Shares: Shares, Volume and Sales Segment Forecasts for 100 Res\u2026 [+2560 chars]",
+      "retrievedAt": "2025-07-03 19:06:03.048940",
+      "internal_id": "438bab341430898ef211637e53558b0deb8258dfa941128e637e3b6baa2c32f2",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Phillip Reese",
+      "title": "Con el verano hay m\u00e1s mosquitos y, temen oficiales, m\u00e1s casos de dengue",
+      "description": "El a\u00f1o pasado se reportaron alrededor de 3.700 nuevas infecciones por dengue en Estados Unidos, frente a las 2.050 de 2023, seg\u00fan los Centros para el Control y Prevenci\u00f3n de Enfermedades.",
+      "url": "https://kffhealthnews.org/news/article/con-el-verano-hay-mas-mosquitos-y-temen-oficiales-mas-casos-de-dengue/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/07/POH-dengue-spanish-thumb.jpg",
+      "publishedAt": "2025-07-02 09:00:00",
+      "content": "Phillip ReeseCon el verano marcando el comienzo de la temporada alta de mosquitos, autoridades sanitarias y de control de vectores se preparan para la posibilidad de otro a\u00f1o con tasas hist\u00f3ricas de \u2026 [+7303 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.038916",
+      "internal_id": "dfe7cb69d745f958304070abcc90416e22b429d84a7f8b27f0809091ae926b1e",
+      "publishedAtLabel": "Jul 2"
+    },
+    {
+      "id": 22551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Phillip Reese",
+      "title": "As Mosquito Season Peaks, Officials Brace for New Normal of Dengue Cases",
+      "description": "In recent years, locally acquired dengue cases have appeared in California, Florida, and Texas, parts of the U.S. where the disease isn\u2019t endemic. Health and vector control officials worry that with climate change and the lack of a vaccine, dengue will take h\u2026",
+      "url": "https://kffhealthnews.org/news/article/mosquito-season-new-normal-dengue-vaccine-florida-california-climate-change/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/06/OYFLH-dengue-case-rates-rise-in-california-florida-and-texas.png",
+      "publishedAt": "2025-07-02 09:00:00",
+      "content": "Phillip ReeseAs summer ushers in peak mosquito season, health and vector control officials are bracing for the possibility of another year of historic rates of dengue. And with climate change, the la\u2026 [+6445 chars]",
+      "retrievedAt": "2025-07-03 19:06:02.048058",
+      "internal_id": "0f56f5d3a08c5fbbd11fa47a9c0ce3108c293410337c139695bb758acd9f3ef9",
+      "publishedAtLabel": "Jul 2"
+    },
     {
       "id": 22534,
       "query": [
@@ -21003,150 +21454,6 @@
       "content": "O Rio Grande do Sul declarou situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade animal para controle de focos de influenza avi\u00e1ria de alta patogenicidade (H5N1) em munic\u00edpios pr\u00f3ximos do raio do foco. A decis\u00e3o ocorre \u2026 [+1571 chars]",
       "retrievedAt": "2025-05-20 07:07:49.522026",
       "internal_id": "7970a4772309dfa91f67879a86ff29429dc55854066f80ed0f6d30cef1a03676",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21374,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Tomasz Kilian",
-      "title": "Komary tygrysie ju\u017c tu s\u0105. Europa nara\u017cona na gro\u017ane choroby",
-      "description": "Zmiany klimatyczne sprzyjaj\u0105 komarom tygrysim, kt\u00f3re coraz ch\u0119tniej rozprzestrzeniaj\u0105 si\u0119 w Europie. A razem z nimi pojawiaj\u0105 si\u0119 te\u017c choroby tropikalne, w tym tak gro\u017ane, jak denga i chikungunya. Takie s\u0105 wnioski najnowszego badania opublikowanego w czasopi\u015b\u2026",
-      "url": "https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html",
-      "urlToImage": "https://bi.im-g.pl/im/e5/76/1e/z31942117IER,komar-tygrysi.jpg",
-      "publishedAt": "2025-05-18 17:12:00",
-      "content": "Komar tygrysi (Aedes albopictus, nazywany tak ze wzgl\u0119du na paski) wyst\u0119puje licznie w Azji Po\u0142udniowo-Wschodniej, sk\u0105d jednak zosta\u0142 zawleczony na inne kontynenty. R\u00f3wnie\u017c do Europy, gdzie coraz bar\u2026 [+1960 chars]",
-      "retrievedAt": "2025-05-19 19:06:11.525497",
-      "internal_id": "c6217bef9b5e92d9a92a2db6545fb4445dbd67d88bb250c836c6a16e1db65101",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21370,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Scarcity of anti-rabies vaccine in Baitadi",
-      "description": "BAITADI: A shortage of anti-rabies vaccine in Baitadi district has forced residents to travel outside the district to receive necessary vaccinations. According to Harish Pant, Information Officer at the District Hospital, the vaccine has been out of stock at \u2026",
-      "url": "https://english.khabarhub.com/2025/18/468050/",
-      "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2022/12/baitadi-district-hospital.jpg?fit=800%2C450&ssl=1",
-      "publishedAt": "2025-05-18 13:15:59",
-      "content": "BAITADI: A shortage of anti-rabies vaccine in Baitadi district has forced residents to travel outside the district to receive necessary vaccinations. According to Harish Pant, Information Officer at\u2026 [+468 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.508253",
-      "internal_id": "bd207a63ac6d25827bcb637f1ec961876494175616b6ae9143353b579e06339c",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21371,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)",
-      "description": "Sheryl Gay Stolberg / New York Times: Energized by Kennedy, Texas \u2018Mad Moms\u2019 Are Chipping Away at Vaccine Mandates \u2014 A measles outbreak in the state has not stopped \u201cmedical freedom\u201d activists from pushing forward with their goal. They now have an influent\u2026",
-      "url": "https://www.memeorandum.com/250518/p12",
-      "urlToImage": "https://static01.nyt.com/images/2025/05/16/multimedia/00dc-rfk-texas-01-vjth/00dc-rfk-texas-01-vjth-facebookJumbo.jpg",
-      "publishedAt": "2025-05-18 12:00:05",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.849650",
-      "internal_id": "ee731cb0bca2b31147850239b8d4cb8fce4f73514fe037f3c929a6563babc279",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21372,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccine skepticism a growing concern, virologist warns amid rising measles caseload",
-      "description": "Misinformation is making it hard for Canada to reach the vaccination levels needed to prevent the spread of measles, experts say as the country deals with the largest outbreak of the disease in almost three decades.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489",
-      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-18 11:00:00",
-      "content": "Misinformation is making it hard for Canada to reach the vaccination levels needed to prevent the spread of measles, experts say as the country deals with the largest outbreak of the disease in almos\u2026 [+4407 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.891124",
-      "internal_id": "2151fb7254bc4d457f479cb8a826ec3cdbadafbe84cb949960c67e300c1fa237",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "vanessa.lozano",
-      "title": "Brote de gripe aviar: Frenan importaci\u00f3n av\u00edcola desde Brasil",
-      "description": "Vanessa Arteaga / AFP M\u00e9xico suspendi\u00f3 la importaci\u00f3n de pollo proveniente de Brasil debido a un brote de gripe aviar detectado en ese pa\u00eds, inform\u00f3 ayer la Secretar\u00eda de Agricultura. El brote de influenza aviar de alta patogenicidad H5N1 ya provoc\u00f3 el ces\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/18/3309098.jpg",
-      "publishedAt": "2025-05-18 10:12:35",
-      "content": "M\u00e9xico suspendi\u00f3 la importaci\u00f3n de pollo proveniente de Brasil debido a un brote de gripe aviar detectado en ese pa\u00eds, inform\u00f3 ayer la Secretar\u00eda de Agricultura. El brote de influenza aviar de alta \u2026 [+1928 chars]",
-      "retrievedAt": "2025-05-19 19:06:10.450356",
-      "internal_id": "c17fd93a6e60dcb62f2bc84e9c0bcc98e1c7578334c7dbd68fb63f9178f4c20b",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21369,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "SAM METZ Associated Press",
-      "title": "Morocco unveils policies it hopes bolster the care and management of stray dogs",
-      "description": "Morocco is expanding its efforts to humanely manage the millions of stray dogs that roam the country's streets",
-      "url": "https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716",
-      "urlToImage": "https://i.abcnewsfe.com/a/d7ffbc15-a6ed-4b57-a8d6-5163f9e00f3e/wirestory_d8452e6aa0005e0cd71462ab7daf9bf5_16x9.jpg?w=1600",
-      "publishedAt": "2025-05-18 08:06:30",
-      "content": "EL AARJATE, Morocco -- A mutt with a blue tag clipped to her ear whimpers as shes lifted from a cage and carried to a surgery table for a spay and a rabies vaccine, two critical steps before shes rel\u2026 [+4456 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.499725",
-      "internal_id": "f8598fc12a2588811ee8eb7418f9a80c2e1b149f1280fa56d812da8f58b53910",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21368,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Boston Herald",
-      "author": "Dr. John De Jong",
-      "title": "Rescued cat has some issues",
-      "description": "I noticed that she has a dark area near the inside corner of her right eye that looks like she is constantly weeping.",
-      "url": "https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/migration/2006/12/15/042317vet3.jpg?w=1024&h=670",
-      "publishedAt": "2025-05-18 07:56:49",
-      "content": "Dear Dr. John, I adopted a cat recently who is an absolute sweetheart! She is around five years old and was apparently rescued from Puerto Rico. She is scheduled to have a new updated rabies vaccine\u2026 [+1953 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.466151",
-      "internal_id": "a525bbe40b9d7e0c36e5ffbfad9fb4d346098311a3443ef4984fc504040e1630",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21375,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": "Reuters",
-      "title": "World Health Organization Looks Ahead To Life Without The US",
-      "description": "World Health Organization officials will join donors and diplomats with one question - how to cope with crises without their main funder, the US.",
-      "url": "https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043",
-      "urlToImage": "https://c.ndtvimg.com/2025-04/m9jnpr8g_world-health-organisation_625x300_25_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-05-18 07:55:29",
-      "content": "London: Hundreds of officials from the World Health Organization will join donors and diplomats in Geneva from Monday with one question dominating their thoughts - how to cope with crises from mpox t\u2026 [+4053 chars]",
-      "retrievedAt": "2025-05-19 19:06:11.855390",
-      "internal_id": "ebbc4a1faa98a0bff7b869fc35fd78c9516d6d76ef8eca93905b7f2ef66a55d4",
       "publishedAtLabel": "May 18"
     }
   ]
