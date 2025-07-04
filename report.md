@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-07-03 19:06
-- **Most recent article:** 2025-07-02 18:37:54
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-07-04 07:08
+- **Most recent article:** 2025-07-03 06:36:22
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 68 | 90 | 48 | 31 | 53 | 17 | 382 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 14 | 150 |
-| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 15 | 138 |
-| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 8 | 114 |
-| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 5 | 111 |
-| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 7 | 96 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 33 | 88 |
-| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 4 | 52 |
+| measles | 77 | 68 | 90 | 48 | 31 | 53 | 20 | 387 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 16 | 152 |
+| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 16 | 139 |
+| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 8 | 115 |
+| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 5 | 112 |
+| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 7 | 97 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 34 | 89 |
+| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 8 | 59 |
 | zika | 10 | 9 | 7 | 2 | 14 | 2 | 3 | 47 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
+| typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 2 | 10 |
 | hpai | 2 | 1 | 3 | 1 | 1 | 0 | 2 | 10 |
-| typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 1 | 9 |
 | leptospirosis | 0 | 1 | 2 | 2 | 0 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 4 |
 
@@ -43,9 +43,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (typhoid)
 
+- [Kenya to vaccinate children against typhoid and measles-rubella](https://www.standardmedia.co.ke/health/health-science/article/2001523252/kenya-to-vaccinate-children-against-typhoid-and-measles-rubella) (Standard Digital)
+
 - [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
 
 ## 25-27 (rabies)
+
+- [जिस पिल्ले को बचाया, उसी के काटने से गई जान, UP में रेबीज से कबड्डी खिलाड़ी की दर्दनाक मौत](https://www.dainiktribuneonline.com/news/sports/the-puppy-he-saved-bit-him-and-he-died-a-kabaddi-player-died-a-painful-death-due-to-rabies-in-up/) (Dainiktribuneonline.com)
+
+- [Australian man dies from 'extremely rare' bat bite virus](https://japantoday.com/category/world/australian-man-dies-from-%27extremely-rare%27-bat-bite-virus) (Japan Today)
+
+- [Lyssavirus alert: NSW Health issue warning after man dies from rabies-like bat virus with no cure](https://thenightly.com.au/australia/nsw/lyssavirus-alert-nsw-health-issue-warning-after-man-dies-from-rabies-like-bat-virus-with-no-cure-c-19235830) (Thenightly.com.au)
+
+- [Breaking: Man dies from 'rabies-like' virus after bat bite in NSW first](https://www.abc.net.au/news/2025-07-03/nsw-man-dies-lyssavirus-bitten-by-bat/105490606) (ABC News (AU))
 
 - [“Not Worth The Rabies Shots”: 23 Life-Saving Tips On What Not To Do When Visiting The US](https://www.boredpanda.com/actions-avoid-doing-visiting-america-msn/) (Boredpanda.com)
 
@@ -74,6 +84,8 @@ Source: [News API](https://newsapi.org/)
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Aitana Bonmatí mejora tras meningitis y podría jugar en debut de España en la Eurocopa Femenina 2025](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-podria-jugar-en-debut-de-espana-en-euro-femenina-2025) (Milenio)
 
 - [Aitana Bonmatí making 'very positive' progress, could play in Spain's Euro 2025 opener](https://www.foxsports.com/stories/soccer/aitana-bonmati-making-very-positive-progress-could-play-spains-euro-2025-opener) (Fox Sports)
 
@@ -143,6 +155,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (measles)
 
+- [8 more measles cases reported in Manitoba, bringing total to 116](https://www.cbc.ca/news/canada/manitoba/measles-update-june-28-1.7575702) (CBC News)
+
+- [Health department warns of possible measles exposure in W. Va.](https://www.wsaz.com/2025/07/02/health-department-warns-possible-measles-exposure-wva/) (WSAZ-TV)
+
+- [Kenya to vaccinate children against typhoid and measles-rubella](https://www.standardmedia.co.ke/health/health-science/article/2001523252/kenya-to-vaccinate-children-against-typhoid-and-measles-rubella) (Standard Digital)
+
 - [Nine measles cases in Utah, and most are in one county, health officials say](https://www.sltrib.com/news/2025/07/02/nine-measles-cases-utah-most-are/) (Salt Lake Tribune)
 
 - [Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in US](https://abcnews.go.com/Health/wyoming-confirms-1st-case-measles-15-years-infections/story?id=123407276) (ABC News)
@@ -178,6 +196,8 @@ Source: [News API](https://newsapi.org/)
 - [Health alert: Measles cases surge across BC Interior, flights, gatherings, and public exposed, health officials urge vaccinatio](https://economictimes.indiatimes.com/news/international/canada/health-alert-measles-cases-surge-across-bc-interior-flights-gatherings-and-public-exposed-health-officials-urge-vaccinatio/articleshow/122137448.cms) (The Times of India)
 
 ## 25-27 (malaria)
+
+- [Los trastornos de salud mental, la malaria y las enfermedades cardíacas, los más afectados por la pandemia de COVID-19](https://www.infosalus.com/salud-investigacion/noticia-trastornos-salud-mental-malaria-enfermedades-cardiacas-mas-afectados-pandemia-covid-19-20250703070750.html) (Infosalus.com)
 
 - [United States Virology, Bacteriology, Parasitology and Mycology Market Forecasts and Supplier Shares: Supplier Shares and Future Forecasts Revealed for Major Infectious Disease Tests](https://www.globenewswire.com/news-release/2025/07/02/3108981/28124/en/United-States-Virology-Bacteriology-Parasitology-and-Mycology-Market-Forecasts-and-Supplier-Shares-Supplier-Shares-and-Future-Forecasts-Revealed-for-Major-Infectious-Disease-Tests.html) (GlobeNewswire)
 
@@ -228,6 +248,10 @@ Source: [News API](https://newsapi.org/)
 - [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
 
 ## 25-27 (dengue)
+
+- [Dengue scare: Cases may exceed 60,000 this year](https://english.khabarhub.com/2025/03/482692/) (Khabarhub.com)
+
+- [Suman 22 muertes por dengue en México; van más de 4 mil 500 casos en 2025](https://www.excelsior.com.mx/nacional/dengue-mexico-muertes-casos-2025-salud-estados/1725042) (Excelsior.com.mx)
 
 - [June dengue cases fall to 10 from 60 in 2024](https://timesofindia.indiatimes.com/city/goa/june-dengue-cases-fall-to-10-from-60-in-2024/articleshow/122212032.cms) (The Times of India)
 
@@ -2249,6 +2273,12 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
+- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
+
+- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
+
+- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
+
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2276,6 +2306,8 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
+
+- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2442,6 +2474,10 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
+
+- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
+
+- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2611,6 +2647,8 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
+- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
+
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2686,3 +2724,5 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
+
+- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
