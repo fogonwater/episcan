@@ -1,8 +1,440 @@
 {
-  "last_updated": "2025-07-04 07:08",
-  "count_articles_total": 1208,
-  "count_articles_new": 11,
+  "last_updated": "2025-07-04 19:06",
+  "count_articles_total": 1224,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 22590,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Kate Byrne",
+      "title": "Avian flu detected in groups of sea birds washing up along west coast of Ireland",
+      "description": "Gulls and Guillemot confirmed to have Highly Pathogenic Avian Influenza (HPAI)",
+      "url": "https://www.irishtimes.com/ireland/2025/07/03/avian-flu-detected-in-groups-of-sea-birds-washing-up-along-west-coast-of-ireland/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/STVQ4MVS7T5Y5ZHIMEWILUDO7Q.jpg?smart=true&auth=2ac726d7f98a08d84b41a6e7198d11d7415f5a27708548f51fbf943fefec012d&width=1200&height=630",
+      "publishedAt": "2025-07-03 18:25:55",
+      "content": "Groups of dead birds, a number of which were confirmed to be carrying the highly contagious avian flu, washed up on shorelines across the West of Ireland. On Thursday, the National Parks and Wildli\u2026 [+1710 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.709527",
+      "internal_id": "5b34af2fc3dcc6d15a61ae443106d35ad5aece84078c2588eb82f9c4581a3895",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22592,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "ben.turner@futurenet.com (Ben Turner) , Ben Turner",
+      "title": "RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn",
+      "description": "HHS Secretary Robert F. Kennedy Jr. and Secretary of Agriculture Brooke Rollins have expressed interest in letting H5N1 outbreaks spread unchecked through U.S. poultry farms. Health experts warn it could lead to a new pandemic.",
+      "url": "https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9Zp6mXNKBBsx6KVNaMvDfc.jpg",
+      "publishedAt": "2025-07-03 18:09:52",
+      "content": "High-ranking federal officials have suggested that bird flu virus should be left to \"rip\" through poultry farms across the U.S. \u2014 but experts warn that this hands-off approach could hasten the beginn\u2026 [+7461 chars]",
+      "retrievedAt": "2025-07-04 19:06:00.271963",
+      "internal_id": "01347e2564120cc0168ce363128366484bfd722d710eaaefe5cbac8225d004b7",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22585,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario reports 12 new measles cases, continuing downward trend",
+      "description": "Public Health Ontario has logged a total of 2,223 measles cases since outbreak began last October.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-measles-case-july-3-2025-1.7576381",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-03 17:19:19",
+      "content": "A Public Health Ontario report released Thursday suggests a continuing downward trend in new measles cases. The health agency is reporting 12 new cases in the province, down from 33 new cases last w\u2026 [+857 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.387521",
+      "internal_id": "54661c282ec5ece0deea89134bc4c27e6f58af3ccac30dd0ec768ada9cb8b7f1",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22589,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "The Canadian Press",
+      "title": "Fewer new measles cases in Ontario, public health data shows | Globalnews.ca",
+      "description": "The health agency is reporting 12 new cases in the province, down from 33 new cases last week and 96 the week before that.",
+      "url": "http://globalnews.ca/news/11272121/ontario-measles-update-july-3/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/06/641d3c5ac0a6fb4bc77262edb9fec1ee9a5b9a1cb2984da5d7c5af7d7828758e.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-07-03 17:09:32",
+      "content": "A Public Health Ontario report released today suggests a continuing downward trend in new measles cases. The health agency is reporting 12 new cases in the province, down from 33 new cases last week\u2026 [+648 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.517931",
+      "internal_id": "0b0465d268c7b3535b5703c45c501c7f836229ed359cfa24223515c35b35cb4a",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22591,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Zodidi Mhlana, Bai Ge",
+      "title": "South Africa begins first-ever poultry vaccination to minimize bird flu outbreaks",
+      "description": "JOHANNESBURG, July 3 (Xinhua) -- South Africa has commenced its first-ever poultry vaccination campaign, a move expected to play a key role in minimizing the risk of highly pathogenic avian influenza (HPAI) outbreaks. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/07/04/south-africa-begins-first-ever-poultry-vaccination-to-minimize-bird-flu-outbreaks",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-03 16:54:00",
+      "content": "JOHANNESBURG, July 3 (Xinhua) -- South Africa has commenced its first-ever poultry vaccination campaign, a move expected to play a key role in minimizing the risk of highly pathogenic avian influenza\u2026 [+1429 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.726389",
+      "internal_id": "547517e7ffb9f3a2241768d5e63e32bd76f4123883b3a04097cc676b0d0bddec",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22583,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "New State Reports Measles Outbreak as RFK Jr. Guts Vaccine Access",
+      "description": "Measles is on the rise in Kentucky. Health officials in the state confirmed that the disease has spread to Fayette County, marking the seventh case of the highly contagious illness in Kentucky since the beginning of the year. Previous cases had been reported\u2026",
+      "url": "https://newrepublic.com/post/197597/robert-f-kennedy-jr-measles-outbreak-kentucky-vaccines",
+      "urlToImage": "https://images.newrepublic.com/684cf1a5bd54fdce0257b6fef3fdef0a0d423103.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-07-03 16:34:04",
+      "content": "President Donald Trumps efforts to coax wary House Republicans off the fence to support his big, beautiful bill have seemingly succeeded, as GOP leaders say the presidents centerpiece legislation wil\u2026 [+1966 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.346977",
+      "internal_id": "3b5c9bb81695355797d07d6248c55b169673b46d2373dc05862d279207a05149",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22586,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "Measles Outbreak Hits Another State",
+      "description": "The U.S. case count is approaching a 30-year-high.",
+      "url": "https://www.huffpost.com/entry/kentucky-measles-outbreak_n_6866a6a7e4b0225e8f8bae70",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6866ac1c190000e67e2492ed.jpeg?cache=6vpVGXekcM&ops=1200_630",
+      "publishedAt": "2025-07-03 16:17:35",
+      "content": "Kentucky has its first measles outbreak of 2025, as the U.S. case count sits just short of a 30-year high. There have been 1,267 confirmed measles cases this year, the Centers for Disease Control an\u2026 [+2894 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.403492",
+      "internal_id": "946a584500f443549209695730dae040524bcaacdd9284280d6dd51ba0933294",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22599,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Vaiolo scimmie, in Italia primo caso del clade Ib: tornato da viaggio in Tanzania",
+      "description": "Descrizione contenuto Vaiolo scimmie, in Italia primo caso del clade Ib: tornato da viaggio in Tanzania",
+      "url": "https://www.ilgiornale.it/news/adnkronos/vaiolo-scimmie-italia-primo-caso-clade-ib-tornato-viaggio-2504854.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/07/03/vaiolo_scimmie_Mpox_ipa.jpg?_=1751558403",
+      "publishedAt": "2025-07-03 16:00:03",
+      "content": "Roma, 3 lug. (Adnkronos Salute) - In Italia \u00e8 stato segnalato il primo caso di Mpox (gi\u00e0 vaiolo delle scimmie) dovuto al clade Ib Mpxv, identificato come pi\u00f9 pericoloso, con maggiore letalit\u00e0 e trasm\u2026 [+1035 chars]",
+      "retrievedAt": "2025-07-04 19:06:03.231364",
+      "internal_id": "e3b69d3e50aaef291b75b0dc4283ba7a6bdd243c1d1c7c1e31a9eddfa20a5212",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22578,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier with Newser.AI",
+      "title": "He Died From a Bat Bite. It Wasn't Rabies",
+      "description": "An Australian man has died after becoming just the fourth known person to contract an extremely rare, bat-borne virus. Australian bat lyssavirus (ABLV)\u2014unique to Australia, where it was first identified in 1996\u2014is closely related to rabies and can cause fatal\u2026",
+      "url": "https://www.newser.com/story/371329/he-died-from-a-bat-bite-it-wasnt-rabies.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1620194-12-20250703103231.jpeg",
+      "publishedAt": "2025-07-03 15:14:00",
+      "content": "An Australian man has died after becoming just the fourth known person to contract an extremely rare, bat-borne virus. Australian bat lyssavirus (ABLV)\u2014unique to Australia, where it was first identif\u2026 [+1175 chars]",
+      "retrievedAt": "2025-07-04 19:05:58.978837",
+      "internal_id": "7c26579585c84c6479a2065020e2c9a9cf2ae03e70ee8f2cefaa08b30e547bf9",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22580,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Australsk mann d\u00f8ydde etter flaggermusbit",
+      "description": "Etter \u00e5 ha blitt bite av ei flaggermus, skal ein australsk mann ha p\u00e5dradd seg ein rabies-liknande infeksjon. Han d\u00f8ydde av bitet, melder NTB. \u2013 Sj\u00f8lv om det er ekstremt sjeldan \u00e5 sj\u00e5 eit tilfelle av flaggermus-lyssavirus, finst det inga effektiv behandling f\u2026",
+      "url": "https://www.nrk.no/nyheter/australsk-mann-doydde-etter-flaggermusbit-1.17480149",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.519/common/img/default.jpg",
+      "publishedAt": "2025-07-03 15:03:03",
+      "content": "Etter \u00e5 ha blitt bite av ei flaggermus, skal ein australsk mann ha p\u00e5dradd seg ein rabies-liknande infeksjon. Han d\u00f8ydde av bitet, melder NTB. Sj\u00f8lv om det er ekstremt sjeldan \u00e5 sj\u00e5 eit tilfelle av\u2026 [+251 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.004580",
+      "internal_id": "3e84d44dc2d479d10fce5091ddc0b787c1a5842c0aa5fa1c7fa4d5e392fd0484",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22584,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Fast Company",
+      "author": "Associated Press",
+      "title": "Measles update: Kentucky now has a confirmed outbreak",
+      "description": "Kentucky has its first measles outbreak of 2025, as the U.S. case count sits just short of a 30-year high.There have been 1,267 confirmed measles cases this year, the Centers for Disease Control and Prevention said Wednesday. Texas confirmed three more measle\u2026",
+      "url": "https://www.fastcompany.com/91362786/measles-update-kentucky-now-confirmed-outbreak",
+      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/07/p-1-91362786-Impact-Kentucky-confirms-measles-outbreak-as-US-nears-its-highest-case-count-in-more-than-30-years.jpg",
+      "publishedAt": "2025-07-03 14:43:56",
+      "content": "Kentucky has its first measlesoutbreak of 2025, as the U.S. case count sits just short of a 30-year high. There have been 1,267 confirmed measles cases this year, the Centers for Disease Control and\u2026 [+10071 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.356184",
+      "internal_id": "dec404071638a748752ee23a0c74f02b17b0595da4f5b6c8f4ca6f8ff616dcbc",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22576,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Man dies after being bitten by bat with \"extremely rare\" infection",
+      "description": "A man has died from an \"extremely rare\" rabies-like infection transmitted by a bat bite, Australian health officials said.",
+      "url": "https://www.cbsnews.com/news/man-dies-bat-bite-extremely-rare-infection-australia/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/24/866c9fd0-e73b-497a-95b5-3e13ef152028/thumbnail/1200x630/fbab000bc97b9b831be931ff0bbda8a6/gettyimages-1288901710.jpg",
+      "publishedAt": "2025-07-03 14:12:45",
+      "content": "An Australian man has died from an \"extremely rare\" rabies-like infection transmitted by a bat bite, health officials said Thursday. The man in his 50s was bitten by a bat carrying Australian bat ly\u2026 [+3542 chars]",
+      "retrievedAt": "2025-07-04 19:05:58.915948",
+      "internal_id": "7c4f22e5eb545a258184b3c47076571767690a870c3b0ba0e96bb3f16a618096",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22581,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Weerakorn Thichumpa, Anuwat Wiratsudakul, Saranath Lawpoolsri, Yanin Limpanont, Weerapong Thanapongtharm, Lauren M. Smith, Sarawut Maneewong, Wirichada Pan-ngum",
+      "title": "Optimizing dog population control strategies in Thailand using mathematical and economic modeling",
+      "description": "Author summary Free-roaming dogs present a risk to community health, particularly in low- and middle-income countries where dog-mediated rabies remains a critical issue. Rabies control strategies basically integrate mass vaccination with sterilization program\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013202",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013202.g005&size=inline",
+      "publishedAt": "2025-07-03 14:00:00",
+      "content": "Citation: Thichumpa W, Wiratsudakul A, Lawpoolsri S, Limpanont Y, Thanapongtharm W, Smith LM, et al. (2025) Optimizing dog population control strategies in Thailand using mathematical and economic mo\u2026 [+39405 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.013291",
+      "internal_id": "c978407fb875153b66885582a339d869b620db9fd7a7d3c3835e67de49db253b",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22593,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Edwige M. A. Y. Kadjo, Sylla Yahaya, N\u00e9gnorogo Guindo-Coulibaly, Valery E. Adjogoua, Danielle D. Zoh, Fran\u00e7ois D. Traor\u00e9, Fabrice K. Assouho, Mardoch\u00e9 R. K. Azongnibo, St\u00e9phane D. M. Kpan, Ahoua Yapi, Fabrice Chandre, Maurice A. Adja",
+      "title": "Aedes aegypti ecology and dengue infection in three agricultural areas of C\u00f4te d\u2019Ivoire",
+      "description": "Author summary Dengue has been identified as a significant public health concern in C\u00f4te d\u2019Ivoire, with Aedes aegypti identified as the primary vector. The most effective method of controlling arboviral disease is to control the vector mosquitoes. These contr\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013255",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013255.g003&size=inline",
+      "publishedAt": "2025-07-03 14:00:00",
+      "content": "Abstract Background Over the last ten years, there has been an upsurge of dengue outbreaks in C\u00f4te dIvoire, with Aedes aegypti as the principal vector. The intensification of farming activities and\u2026 [+47583 chars]",
+      "retrievedAt": "2025-07-04 19:06:00.735344",
+      "internal_id": "790c8316b06598d31333cc37a5cc7c26027d1cdf9c193591969ca66ddfe8e91f",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22594,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sumedha Ravishankar, Samantha M. Tuohey, Nicole O. Ramos, Satoshi Uchiyama, Megan I. Hayes, Kalisa Kang, Victor Nizet, Cressida A. Madigan",
+      "title": "Group B Streptococci lyse endothelial cells to infect the brain in a zebrafish meningitis model",
+      "description": "Group B Streptococcus bacteria cause meningitis when they cross the endothelial cells of the blood-brain barrier, but how they traverse it remains unclear. This study shows that bacteria perforate and lyse endothelial cells in the brain blood vessels, facilit\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003236",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003236.g008&size=inline",
+      "publishedAt": "2025-07-03 14:00:00",
+      "content": "Citation: Ravishankar S, Tuohey SM, Ramos NO, Uchiyama S, Hayes MI, Kang K, et al. (2025) Group B Streptococci lyse endothelial cells to infect the brain in a zebrafish meningitis model. PLoS Biol 23\u2026 [+81279 chars]",
+      "retrievedAt": "2025-07-04 19:06:01.592353",
+      "internal_id": "e48f4887dc7093cc6addb3a8aa4f7767e7f8660d6efd692c3fb09b6731fa9037",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22596,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "George-Rafael Samantsidis, Hyeogsun Kwon, Megan Wendland, Catherine Fonder, Ryan C. Smith",
+      "title": "TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae",
+      "description": "Author summary Mosquito innate immunity is a major determinant of vector competence with significant implications in malaria transmission. During infection with the Plasmodium parasite, mosquitoes mount a sequence of immune signals originating from the mosqui\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013329",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013329.g007&size=inline",
+      "publishedAt": "2025-07-03 14:00:00",
+      "content": "Citation: Samantsidis G-R, Kwon H, Wendland M, Fonder C, Smith RC (2025) TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae. PLoS \u2026 [+55712 chars]",
+      "retrievedAt": "2025-07-04 19:06:02.217090",
+      "internal_id": "7f97099e07994e9dfe872a5d3ad6d2d495aa9a488504706dbfd1d148b32ebb43",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22597,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alicer K. Andrew, Tara C. Bracken, Nicole M. Nazario-Maldonado, Brittany N. Russ, Kathyrn T. Gonzalvo, Benjamin M. Brainard, Nigel Mackman, Julie M. Moore",
+      "title": "Anticoagulant therapy and altered tissue factor expression protect against experimental placental and cerebral malaria",
+      "description": "Author summary Despite decades of research, the mechanistic drivers of severe malaria development are not well understood. Mouse models of severe disease, though imperfect, are an invaluable resource for investigating the underlying causes of severe disease, \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013259",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013259.g006&size=inline",
+      "publishedAt": "2025-07-03 14:00:00",
+      "content": "Abstract Severe malaria remains a major public health concern in regions of moderate to high Plasmodium falciparum transmission. Women and young children are especially vulnerable to two clinical ma\u2026 [+64888 chars]",
+      "retrievedAt": "2025-07-04 19:06:02.226264",
+      "internal_id": "6e30be5cccb26af2b3e8d4fd49a4b608069601049020a1dc3d4c63d8382c7cb5",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22598,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mar\u00eda P\u00eda Alberione, Yunuen Avalos-Padilla, Gabriel W. Rangel, Miriam Ram\u00edrez, Tais Romero-Uru\u00f1uela, \u00c0ngel Fenollar, Jonathan Ortega-Barrionuevo, Marcell Crispim, Terry K. Smith, Manuel Llin\u00e1s, Luis Izquierdo",
+      "title": "Hexosamine biosynthesis disruption impairs GPI production and arrests Plasmodium falciparum growth at schizont stages",
+      "description": "Author summary Malaria remains a major cause of illness and death, particularly in sub-Saharan Africa, with increasing resistance to treatments highlighting the urgent need for new strategies. Malaria parasites rely on the hexosamine biosynthetic pathway to p\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012832",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012832.g006&size=inline",
+      "publishedAt": "2025-07-03 14:00:00",
+      "content": "Citation: Alberione MP, Avalos-Padilla Y, Rangel GW, Ram\u00edrez M, Romero-Uru\u00f1uela T, Fenollar \u00c0, et al. (2025) Hexosamine biosynthesis disruption impairs GPI production and arrests Plasmodium falciparu\u2026 [+81628 chars]",
+      "retrievedAt": "2025-07-04 19:06:02.235532",
+      "internal_id": "1b3c2c9bb090ebcd70f14938e87f7dc75dd74c7011eb5b6b52354c350793c720",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22587,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "DEVI SHASTRI Associated Press",
+      "title": "Kentucky confirms measles outbreak as US nears its highest case count in more than 30 years",
+      "description": "Measles is preventable through vaccines and has been considered eliminated from the U.S. since 2000.",
+      "url": "https://richmond.com/news/nation-world/article_9d9b4b48-567a-53ac-96d6-cfc1601ef355.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/d9/9d9b4b48-567a-53ac-96d6-cfc1601ef355/68666c63d27e5.preview.jpg?crop=1693%2C889%2C37%2C176&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-03 13:30:00",
+      "content": "Kentucky has its first measles outbreak of 2025, as the U.S. case count sits just short of a 30-year high. There have been 1,267 confirmed measles cases this year, the Centers for Disease Control an\u2026 [+10809 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.426947",
+      "internal_id": "376e32af6f8cd1fd8f4526eda34f7e36f8b71edcc8851c2e57c799557aa7ec30",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22588,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier",
+      "title": "Kentucky Measles Outbreak Raises Fear for Kindergarteners",
+      "description": "A measles outbreak has emerged in central Kentucky. There are four confirmed cases: Three were confirmed in Woodford County before a fourth emerged in nearby Fayette County, per WKYT . The Kentucky Department of Public Health has also reported a confirmed mea\u2026",
+      "url": "https://www.newser.com/story/371308/kentucky-measles-outbreak-raises-fear-for-kindergarteners.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1620139-12-20250703072310.jpeg",
+      "publishedAt": "2025-07-03 12:11:00",
+      "content": "A dozen US states are experiencing active measles outbreaks, involving three or more related cases. Major outbreaks are occurring in Texas, New Mexico, in the Canadian provinces of Ontario and Albert\u2026 [+571 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.436949",
+      "internal_id": "4d0122cb38cf1d63d9fb0f998c2e2c1c3bc37af0200f3250506f93d05199109c",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22577,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Australian man dies from 'extremely rare' bat bite virus",
+      "description": "An Australian man has died from an \"extremely rare\" rabies-like infection transmitted by a bat bite, health officials said on July 3.",
+      "url": "https://www.hurriyetdailynews.com/australian-man-dies-from-extremely-rare-bat-bite-virus-211046",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/68665d873c0aff18a706c068.jpg",
+      "publishedAt": "2025-07-03 10:38:04",
+      "content": "SYDNEY An Australian man has died from an \"extremely rare\" rabies-like infection transmitted by a bat bite, health officials said on July 3. The man in his 50s was bitten by a bat carrying Australi\u2026 [+1290 chars]",
+      "retrievedAt": "2025-07-04 19:05:58.970057",
+      "internal_id": "730df9d6dec9e7aa0ceafa27a1d9f1908aa11bf9250a47daec02a265f6687900",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22579,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "State-level Kabaddi player dies of rabies after rescuing puppy from drain and ignoring vaccine, calling bite 'nothing serious'",
+      "description": "Tragedy struck Farana village as 22-year-old kabaddi player Brijesh succumbed to rabies after neglecting to get vaccinated following a puppy bite two months prior. Despite being a state-level athlete, he dismissed the incident, leading to a fatal outcome conf\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/state-level-kabaddi-player-dies-of-rabies-after-rescuing-puppy-from-drain-and-ignoring-vaccine-calling-bite-nothing-serious/articleshow/122223516.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122224485,width-1200,height-630,imgsize-83690,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-03 09:17:31",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Porfolio Ge\u2026 [+438 chars]",
+      "retrievedAt": "2025-07-04 19:05:58.995450",
+      "internal_id": "b2ebdcc0a84bb0762fa4f7f2880db3d901c34924b4fedc06c0c05ec05f4669e3",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22582,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rediff.com",
+      "author": "sports@rediff.co.in (REDIFF SPORTS)",
+      "title": "Kabaddi player dies of rabies after rescuing puppy",
+      "description": "Brijesh's brother Sandeep demanded that one of the family members be provided with a job as Brijesh was the sole breadwinner.",
+      "url": "https://www.rediff.com/sports/report/kabaddi-player-dies-of-rabies-after-rescuing-puppy/20250703.htm",
+      "urlToImage": "https://im.rediff.com/sports/2025/jul/03brijesh-solanki.jpg",
+      "publishedAt": "2025-07-03 08:07:38",
+      "content": "IMAGE: Brijesh Solanki was a budding Kabaddi player and a Pro Kabaddi League hopeful. Photograph: BCCI A 22-year-old state-level kabaddi player, who was bitten by a puppy while he was rescuing it a\u2026 [+1812 chars]",
+      "retrievedAt": "2025-07-04 19:05:59.022261",
+      "internal_id": "1ed0312e67e8d1822c4fb9c1040b5b8a082e8726fe31db68ab2a17aa3dcceb3c",
+      "publishedAtLabel": "Jul 3"
+    },
+    {
+      "id": 22595,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Noticiaslatam.lat",
+      "author": "Sputnik Mundo",
+      "title": "Los BRICS lanzar\u00e1n un plan para erradicar la malaria y otras enfermedades desatendidas",
+      "description": "Los BRICS lanzar\u00e1n una alianza en la cumbre que se celebrar\u00e1 en R\u00edo de Janeiro los d\u00edas 6 y 7 de julio para erradicar la malaria y otras enfermedades a las que las grandes farmac\u00e9uticas de los pa\u00edses ricos prestan poca atenci\u00f3n, seg\u00fan afirm\u00f3 el sherpa brasile\u2026",
+      "url": "https://noticiaslatam.lat/20250703/los-brics-lanzaran-un-plan-para-erradicar-la-malaria-y-otras-enfermedades-desatendidas-1164059588.html",
+      "urlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1164059588.jpg?11640597121751529602",
+      "publishedAt": "2025-07-03 08:00:00",
+      "content": "\"Si todo va bien, lanzaremos una alianza para erradicar enfermedades socialmente determinadas y enfermedades tropicales desatendidas, que ocurren en pa\u00edses en v\u00edas de desarrollo como los nuestros\", a\u2026 [+48 chars]",
+      "retrievedAt": "2025-07-04 19:06:02.183595",
+      "internal_id": "c7118c8cd2d7784d73c31b1d910dd25200d6870bd8f5815da974ab9d5d3ce413",
+      "publishedAtLabel": "Jul 3"
+    },
     {
       "id": 22567,
       "query": [
@@ -21653,150 +22085,6 @@
       "content": "O Rio Grande do Sul declarou situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade animal para controle de focos de influenza avi\u00e1ria de alta patogenicidade (H5N1) em munic\u00edpios pr\u00f3ximos do raio do foco. A decis\u00e3o ocorre \u2026 [+1571 chars]",
       "retrievedAt": "2025-05-20 07:07:49.522026",
       "internal_id": "7970a4772309dfa91f67879a86ff29429dc55854066f80ed0f6d30cef1a03676",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21374,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Tomasz Kilian",
-      "title": "Komary tygrysie ju\u017c tu s\u0105. Europa nara\u017cona na gro\u017ane choroby",
-      "description": "Zmiany klimatyczne sprzyjaj\u0105 komarom tygrysim, kt\u00f3re coraz ch\u0119tniej rozprzestrzeniaj\u0105 si\u0119 w Europie. A razem z nimi pojawiaj\u0105 si\u0119 te\u017c choroby tropikalne, w tym tak gro\u017ane, jak denga i chikungunya. Takie s\u0105 wnioski najnowszego badania opublikowanego w czasopi\u015b\u2026",
-      "url": "https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html",
-      "urlToImage": "https://bi.im-g.pl/im/e5/76/1e/z31942117IER,komar-tygrysi.jpg",
-      "publishedAt": "2025-05-18 17:12:00",
-      "content": "Komar tygrysi (Aedes albopictus, nazywany tak ze wzgl\u0119du na paski) wyst\u0119puje licznie w Azji Po\u0142udniowo-Wschodniej, sk\u0105d jednak zosta\u0142 zawleczony na inne kontynenty. R\u00f3wnie\u017c do Europy, gdzie coraz bar\u2026 [+1960 chars]",
-      "retrievedAt": "2025-05-19 19:06:11.525497",
-      "internal_id": "c6217bef9b5e92d9a92a2db6545fb4445dbd67d88bb250c836c6a16e1db65101",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21370,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Scarcity of anti-rabies vaccine in Baitadi",
-      "description": "BAITADI: A shortage of anti-rabies vaccine in Baitadi district has forced residents to travel outside the district to receive necessary vaccinations. According to Harish Pant, Information Officer at the District Hospital, the vaccine has been out of stock at \u2026",
-      "url": "https://english.khabarhub.com/2025/18/468050/",
-      "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2022/12/baitadi-district-hospital.jpg?fit=800%2C450&ssl=1",
-      "publishedAt": "2025-05-18 13:15:59",
-      "content": "BAITADI: A shortage of anti-rabies vaccine in Baitadi district has forced residents to travel outside the district to receive necessary vaccinations. According to Harish Pant, Information Officer at\u2026 [+468 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.508253",
-      "internal_id": "bd207a63ac6d25827bcb637f1ec961876494175616b6ae9143353b579e06339c",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21371,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)",
-      "description": "Sheryl Gay Stolberg / New York Times: Energized by Kennedy, Texas \u2018Mad Moms\u2019 Are Chipping Away at Vaccine Mandates \u2014 A measles outbreak in the state has not stopped \u201cmedical freedom\u201d activists from pushing forward with their goal. They now have an influent\u2026",
-      "url": "https://www.memeorandum.com/250518/p12",
-      "urlToImage": "https://static01.nyt.com/images/2025/05/16/multimedia/00dc-rfk-texas-01-vjth/00dc-rfk-texas-01-vjth-facebookJumbo.jpg",
-      "publishedAt": "2025-05-18 12:00:05",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.849650",
-      "internal_id": "ee731cb0bca2b31147850239b8d4cb8fce4f73514fe037f3c929a6563babc279",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21372,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccine skepticism a growing concern, virologist warns amid rising measles caseload",
-      "description": "Misinformation is making it hard for Canada to reach the vaccination levels needed to prevent the spread of measles, experts say as the country deals with the largest outbreak of the disease in almost three decades.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489",
-      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
-      "publishedAt": "2025-05-18 11:00:00",
-      "content": "Misinformation is making it hard for Canada to reach the vaccination levels needed to prevent the spread of measles, experts say as the country deals with the largest outbreak of the disease in almos\u2026 [+4407 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.891124",
-      "internal_id": "2151fb7254bc4d457f479cb8a826ec3cdbadafbe84cb949960c67e300c1fa237",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "vanessa.lozano",
-      "title": "Brote de gripe aviar: Frenan importaci\u00f3n av\u00edcola desde Brasil",
-      "description": "Vanessa Arteaga / AFP M\u00e9xico suspendi\u00f3 la importaci\u00f3n de pollo proveniente de Brasil debido a un brote de gripe aviar detectado en ese pa\u00eds, inform\u00f3 ayer la Secretar\u00eda de Agricultura. El brote de influenza aviar de alta patogenicidad H5N1 ya provoc\u00f3 el ces\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/05/18/3309098.jpg",
-      "publishedAt": "2025-05-18 10:12:35",
-      "content": "M\u00e9xico suspendi\u00f3 la importaci\u00f3n de pollo proveniente de Brasil debido a un brote de gripe aviar detectado en ese pa\u00eds, inform\u00f3 ayer la Secretar\u00eda de Agricultura. El brote de influenza aviar de alta \u2026 [+1928 chars]",
-      "retrievedAt": "2025-05-19 19:06:10.450356",
-      "internal_id": "c17fd93a6e60dcb62f2bc84e9c0bcc98e1c7578334c7dbd68fb63f9178f4c20b",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21369,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "SAM METZ Associated Press",
-      "title": "Morocco unveils policies it hopes bolster the care and management of stray dogs",
-      "description": "Morocco is expanding its efforts to humanely manage the millions of stray dogs that roam the country's streets",
-      "url": "https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716",
-      "urlToImage": "https://i.abcnewsfe.com/a/d7ffbc15-a6ed-4b57-a8d6-5163f9e00f3e/wirestory_d8452e6aa0005e0cd71462ab7daf9bf5_16x9.jpg?w=1600",
-      "publishedAt": "2025-05-18 08:06:30",
-      "content": "EL AARJATE, Morocco -- A mutt with a blue tag clipped to her ear whimpers as shes lifted from a cage and carried to a surgery table for a spay and a rabies vaccine, two critical steps before shes rel\u2026 [+4456 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.499725",
-      "internal_id": "f8598fc12a2588811ee8eb7418f9a80c2e1b149f1280fa56d812da8f58b53910",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21368,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Boston Herald",
-      "author": "Dr. John De Jong",
-      "title": "Rescued cat has some issues",
-      "description": "I noticed that she has a dark area near the inside corner of her right eye that looks like she is constantly weeping.",
-      "url": "https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/migration/2006/12/15/042317vet3.jpg?w=1024&h=670",
-      "publishedAt": "2025-05-18 07:56:49",
-      "content": "Dear Dr. John, I adopted a cat recently who is an absolute sweetheart! She is around five years old and was apparently rescued from Puerto Rico. She is scheduled to have a new updated rabies vaccine\u2026 [+1953 chars]",
-      "retrievedAt": "2025-05-19 19:06:09.466151",
-      "internal_id": "a525bbe40b9d7e0c36e5ffbfad9fb4d346098311a3443ef4984fc504040e1630",
-      "publishedAtLabel": "May 18"
-    },
-    {
-      "id": 21375,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": "Reuters",
-      "title": "World Health Organization Looks Ahead To Life Without The US",
-      "description": "World Health Organization officials will join donors and diplomats with one question - how to cope with crises without their main funder, the US.",
-      "url": "https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043",
-      "urlToImage": "https://c.ndtvimg.com/2025-04/m9jnpr8g_world-health-organisation_625x300_25_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2025-05-18 07:55:29",
-      "content": "London: Hundreds of officials from the World Health Organization will join donors and diplomats in Geneva from Monday with one question dominating their thoughts - how to cope with crises from mpox t\u2026 [+4053 chars]",
-      "retrievedAt": "2025-05-19 19:06:11.855390",
-      "internal_id": "ebbc4a1faa98a0bff7b869fc35fd78c9516d6d76ef8eca93905b7f2ef66a55d4",
       "publishedAtLabel": "May 18"
     }
   ]

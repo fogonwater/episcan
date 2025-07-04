@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-07-04 07:08
-- **Most recent article:** 2025-07-03 06:36:22
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-07-04 19:06
+- **Most recent article:** 2025-07-03 18:25:55
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 77 | 68 | 90 | 48 | 31 | 53 | 20 | 387 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 16 | 152 |
-| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 16 | 139 |
-| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 8 | 115 |
-| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 5 | 112 |
-| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 7 | 97 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 34 | 89 |
-| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 8 | 59 |
+| measles | 75 | 68 | 90 | 48 | 31 | 53 | 27 | 392 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 17 | 153 |
+| malaria | 35 | 17 | 16 | 19 | 23 | 13 | 20 | 143 |
+| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 9 | 115 |
+| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 6 | 112 |
+| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 7 | 96 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 35 | 90 |
+| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 15 | 63 |
 | zika | 10 | 9 | 7 | 2 | 14 | 2 | 3 | 47 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
+| hpai | 2 | 1 | 3 | 1 | 1 | 0 | 4 | 12 |
 | typhoid | 0 | 2 | 0 | 3 | 0 | 3 | 2 | 10 |
-| hpai | 2 | 1 | 3 | 1 | 1 | 0 | 2 | 10 |
 | leptospirosis | 0 | 1 | 2 | 2 | 0 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 4 |
 
@@ -49,6 +49,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (rabies)
 
+- [He Died From a Bat Bite. It Wasn't Rabies](https://www.newser.com/story/371329/he-died-from-a-bat-bite-it-wasnt-rabies.html) (Newser)
+
+- [Australsk mann døydde etter flaggermusbit](https://www.nrk.no/nyheter/australsk-mann-doydde-etter-flaggermusbit-1.17480149) (NRK)
+
+- [Man dies after being bitten by bat with "extremely rare" infection](https://www.cbsnews.com/news/man-dies-bat-bite-extremely-rare-infection-australia/) (CBS News)
+
+- [Optimizing dog population control strategies in Thailand using mathematical and economic modeling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013202) (Plos.org)
+
+- [Australian man dies from 'extremely rare' bat bite virus](https://www.hurriyetdailynews.com/australian-man-dies-from-extremely-rare-bat-bite-virus-211046) (Hurriyet Daily News)
+
+- [State-level Kabaddi player dies of rabies after rescuing puppy from drain and ignoring vaccine, calling bite 'nothing serious'](https://economictimes.indiatimes.com/news/india/state-level-kabaddi-player-dies-of-rabies-after-rescuing-puppy-from-drain-and-ignoring-vaccine-calling-bite-nothing-serious/articleshow/122223516.cms) (The Times of India)
+
+- [Kabaddi player dies of rabies after rescuing puppy](https://www.rediff.com/sports/report/kabaddi-player-dies-of-rabies-after-rescuing-puppy/20250703.htm) (Rediff.com)
+
 - [जिस पिल्ले को बचाया, उसी के काटने से गई जान, UP में रेबीज से कबड्डी खिलाड़ी की दर्दनाक मौत](https://www.dainiktribuneonline.com/news/sports/the-puppy-he-saved-bit-him-and-he-died-a-kabaddi-player-died-a-painful-death-due-to-rabies-in-up/) (Dainiktribuneonline.com)
 
 - [Australian man dies from 'extremely rare' bat bite virus](https://japantoday.com/category/world/australian-man-dies-from-%27extremely-rare%27-bat-bite-virus) (Japan Today)
@@ -67,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (mpox)
 
+- [Vaiolo scimmie, in Italia primo caso del clade Ib: tornato da viaggio in Tanzania](https://www.ilgiornale.it/news/adnkronos/vaiolo-scimmie-italia-primo-caso-clade-ib-tornato-viaggio-2504854.html) (Ilgiornale.it)
+
 - [Gana'da M çiçeği vaka sayısı 133'e yükseldi](https://www.aa.com.tr/tr/dunya/ganada-m-cicegi-vaka-sayisi-133e-yukseldi/3620026) (Anadolu Agency)
 
 - [FT: у Африки нет денег для борьбы с эпидемией оспы обезьян](https://tass.ru/obschestvo/24412515) (Tass.ru)
@@ -84,6 +100,8 @@ Source: [News API](https://newsapi.org/)
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Group B Streptococci lyse endothelial cells to infect the brain in a zebrafish meningitis model](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003236) (Plos.org)
 
 - [Aitana Bonmatí mejora tras meningitis y podría jugar en debut de España en la Eurocopa Femenina 2025](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-podria-jugar-en-debut-de-espana-en-euro-femenina-2025) (Milenio)
 
@@ -155,6 +173,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (measles)
 
+- [Ontario reports 12 new measles cases, continuing downward trend](https://www.cbc.ca/news/canada/toronto/ontario-measles-case-july-3-2025-1.7576381) (CBC News)
+
+- [Fewer new measles cases in Ontario, public health data shows | Globalnews.ca](http://globalnews.ca/news/11272121/ontario-measles-update-july-3/) (Global News)
+
+- [New State Reports Measles Outbreak as RFK Jr. Guts Vaccine Access](https://newrepublic.com/post/197597/robert-f-kennedy-jr-measles-outbreak-kentucky-vaccines) (The New Republic)
+
+- [Measles Outbreak Hits Another State](https://www.huffpost.com/entry/kentucky-measles-outbreak_n_6866a6a7e4b0225e8f8bae70) (HuffPost)
+
+- [Measles update: Kentucky now has a confirmed outbreak](https://www.fastcompany.com/91362786/measles-update-kentucky-now-confirmed-outbreak) (Fast Company)
+
+- [Kentucky confirms measles outbreak as US nears its highest case count in more than 30 years](https://richmond.com/news/nation-world/article_9d9b4b48-567a-53ac-96d6-cfc1601ef355.html) (Richmond.com)
+
+- [Kentucky Measles Outbreak Raises Fear for Kindergarteners](https://www.newser.com/story/371308/kentucky-measles-outbreak-raises-fear-for-kindergarteners.html) (Newser)
+
 - [8 more measles cases reported in Manitoba, bringing total to 116](https://www.cbc.ca/news/canada/manitoba/measles-update-june-28-1.7575702) (CBC News)
 
 - [Health department warns of possible measles exposure in W. Va.](https://www.wsaz.com/2025/07/02/health-department-warns-possible-measles-exposure-wva/) (WSAZ-TV)
@@ -197,6 +229,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (malaria)
 
+- [TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013329) (Plos.org)
+
+- [Anticoagulant therapy and altered tissue factor expression protect against experimental placental and cerebral malaria](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013259) (Plos.org)
+
+- [Hexosamine biosynthesis disruption impairs GPI production and arrests Plasmodium falciparum growth at schizont stages](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012832) (Plos.org)
+
+- [Los BRICS lanzarán un plan para erradicar la malaria y otras enfermedades desatendidas](https://noticiaslatam.lat/20250703/los-brics-lanzaran-un-plan-para-erradicar-la-malaria-y-otras-enfermedades-desatendidas-1164059588.html) (Noticiaslatam.lat)
+
 - [Los trastornos de salud mental, la malaria y las enfermedades cardíacas, los más afectados por la pandemia de COVID-19](https://www.infosalus.com/salud-investigacion/noticia-trastornos-salud-mental-malaria-enfermedades-cardiacas-mas-afectados-pandemia-covid-19-20250703070750.html) (Infosalus.com)
 
 - [United States Virology, Bacteriology, Parasitology and Mycology Market Forecasts and Supplier Shares: Supplier Shares and Future Forecasts Revealed for Major Infectious Disease Tests](https://www.globenewswire.com/news-release/2025/07/02/3108981/28124/en/United-States-Virology-Bacteriology-Parasitology-and-Mycology-Market-Forecasts-and-Supplier-Shares-Supplier-Shares-and-Future-Forecasts-Revealed-for-Major-Infectious-Disease-Tests.html) (GlobeNewswire)
@@ -231,11 +271,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (hpai)
 
+- [Avian flu detected in groups of sea birds washing up along west coast of Ireland](https://www.irishtimes.com/ireland/2025/07/03/avian-flu-detected-in-groups-of-sea-birds-washing-up-along-west-coast-of-ireland/) (The Irish Times)
+
+- [South Africa begins first-ever poultry vaccination to minimize bird flu outbreaks](https://www.thestar.com.my/news/world/2025/07/04/south-africa-begins-first-ever-poultry-vaccination-to-minimize-bird-flu-outbreaks) (The Star Online)
+
 - [Cambodia Reports 10 Cases of Bird Flu This Year](https://www.shtfplan.com/headline-news/cambodia-reports-10-cases-of-bird-flu-this-year) (Shtfplan.com)
 
 - [日本HP、AI PCを活用した未来の働き方（Future of Work）を提案](https://prtimes.jp/main/html/rd/p/000000102.000068112.html) (Prtimes.jp)
 
 ## 25-27 (h5n1)
+
+- [RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn) (Live Science)
 
 - [Cambodia Reports 10 Cases of Bird Flu This Year](https://www.shtfplan.com/headline-news/cambodia-reports-10-cases-of-bird-flu-this-year) (Shtfplan.com)
 
@@ -248,6 +294,8 @@ Source: [News API](https://newsapi.org/)
 - [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
 
 ## 25-27 (dengue)
+
+- [Aedes aegypti ecology and dengue infection in three agricultural areas of Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013255) (Plos.org)
 
 - [Dengue scare: Cases may exceed 60,000 this year](https://english.khabarhub.com/2025/03/482692/) (Khabarhub.com)
 
@@ -2273,12 +2321,6 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
-- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
-
-- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
-
-- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
-
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2306,8 +2348,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
-
-- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2474,10 +2514,6 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
-
-- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
-
-- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2647,8 +2683,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
-- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
-
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2724,5 +2758,3 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
-
-- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
