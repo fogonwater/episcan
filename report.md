@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-07-05 07:06
-- **Most recent article:** 2025-07-03 22:16:32
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-07-05 19:06
+- **Most recent article:** 2025-07-04 18:40:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 77 | 68 | 90 | 48 | 31 | 53 | 27 | 394 |
-| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 17 | 153 |
+| measles | 75 | 68 | 90 | 48 | 31 | 53 | 28 | 393 |
+| dengue | 26 | 28 | 25 | 14 | 17 | 26 | 20 | 156 |
 | malaria | 35 | 17 | 16 | 19 | 23 | 13 | 20 | 143 |
-| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 9 | 116 |
-| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 6 | 113 |
-| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 7 | 97 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 38 | 93 |
-| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 15 | 66 |
-| zika | 10 | 9 | 7 | 2 | 14 | 2 | 3 | 47 |
+| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 10 | 116 |
+| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 6 | 112 |
+| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 7 | 96 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 40 | 95 |
+| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 16 | 64 |
+| zika | 10 | 9 | 7 | 2 | 14 | 2 | 6 | 50 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
 | hpai | 2 | 1 | 3 | 1 | 1 | 0 | 4 | 12 |
@@ -35,11 +35,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (zika)
 
+- [Portable Mosquito Defense System Zaps Blood-Sucking Pests With Lasers](https://hothardware.com/news/mosquito-defense-zaps-blood-sucking-pests-lasers) (Hot Hardware)
+
+- [El Govern lanza un frente común contra las enfermedades transmitidas por mosquitos, sobre todo el dengue](https://www.elperiodico.com/es/sanidad/20250704/frente-comun-govern-enfermedades-transmitidas-mosquitos-dengue-zika-calor-cataluna-119355106) (Elperiodico.com)
+
 - [Nova lei garante indenização e pensão a vítimas do Zika vírus](https://www.congressoemfoco.com.br/noticia/109890/nova-lei-garante-indenizacao-e-pensao-a-vitimas-do-zika-virus) (Congressoemfoco.com.br)
 
 - [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
 
 - [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
+
+- [飛行機撮影の聖地に新名所誕生！豊中つばさ公園『ma-zika』一部開園](https://prtimes.jp/main/html/rd/p/000000865.000078420.html) (Prtimes.jp)
 
 ## 25-27 (typhoid)
 
@@ -48,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
 
 ## 25-27 (rabies)
+
+- [What is lyssavirus? The deadly ‘bat rabies’ that’s been found in the UK](https://www.the-independent.com/life-style/health-and-families/lyssavirus-symptoms-bat-rabies-uk-australia-b2782803.html) (The-independent.com)
 
 - [He Died From a Bat Bite. It Wasn't Rabies](https://www.newser.com/story/371329/he-died-from-a-bat-bite-it-wasnt-rabies.html) (Newser)
 
@@ -81,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (mpox)
 
+- [Роспотребнадзор не фиксировал случаи оспы обезьян в РФ в 2025 году](https://tass.ru/obschestvo/24430351) (Tass.ru)
+
 - [Vaiolo scimmie, in Italia primo caso del clade Ib: tornato da viaggio in Tanzania](https://www.ilgiornale.it/news/adnkronos/vaiolo-scimmie-italia-primo-caso-clade-ib-tornato-viaggio-2504854.html) (Ilgiornale.it)
 
 - [Gana'da M çiçeği vaka sayısı 133'e yükseldi](https://www.aa.com.tr/tr/dunya/ganada-m-cicegi-vaka-sayisi-133e-yukseldi/3620026) (Anadolu Agency)
@@ -100,6 +110,10 @@ Source: [News API](https://newsapi.org/)
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Mensaje de Aitana Bonmatí tras su meningitis](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250704/1002494432/aitana-bonmati-agradecida-haber-podido-volver-sana-fuerte.html) (Mundodeportivo.com)
+
+- [Ha nacido una estrella: Vicky López, un récord y dedicatorias al cielo](https://www.abc.es/deportes/futbol/nacido-estrella-vicky-lopez-record-dedicatorias-cielo-20250704123044-nt.html) (Www.abc.es)
 
 - [Alexia, feliz pero prudente: «Solo hemos ganado un partido»](https://www.abc.es/deportes/futbol/alexia-feliz-prudente-solo-ganado-partido-20250704001631-nt.html) (Www.abc.es)
 
@@ -178,6 +192,8 @@ Source: [News API](https://newsapi.org/)
 - [Preocupación en España por el riesgo de contagio tras la meningitis de Aitana](https://www.abc.es/deportes/futbol/preocupacion-espana-riesgo-contagio-tras-meningitis-aitana-20250628140742-nt.html) (Www.abc.es)
 
 ## 25-27 (measles)
+
+- [Keep babies, high risk Albertans away from Stampede due to measles, doctors caution](https://www.cbc.ca/news/canada/calgary/keep-babies-high-risk-albertans-away-from-stampede-due-to-measles-doctors-caution-1.7576448) (CBC News)
 
 - [Ontario reports 12 new measles cases, continuing downward trend](https://www.cbc.ca/news/canada/toronto/ontario-measles-case-july-3-2025-1.7576381) (CBC News)
 
@@ -300,6 +316,12 @@ Source: [News API](https://newsapi.org/)
 - [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
 
 ## 25-27 (dengue)
+
+- [Aumentan un 116% los casos de dengue en Cataluña entre 2022 y 2024](https://www.abc.es/sociedad/aumentan-116-casos-dengue-cataluna-2022-2024-20250704154107-nt.html) (Www.abc.es)
+
+- [El Govern lanza un frente común contra las enfermedades transmitidas por mosquitos, sobre todo el dengue](https://www.elperiodico.com/es/sanidad/20250704/frente-comun-govern-enfermedades-transmitidas-mosquitos-dengue-zika-calor-cataluna-119355106) (Elperiodico.com)
+
+- [Se confirman 4 mil 740 casos de dengue en el país, menos de la cuarta parte de los reportados en 2024](https://www.jornada.com.mx/2025/07/04/politica/010n3pol) (Jornada.com.mx)
 
 - [Aedes aegypti ecology and dengue infection in three agricultural areas of Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013255) (Plos.org)
 
@@ -2327,12 +2349,6 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
-- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
-
-- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
-
-- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
-
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2360,8 +2376,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
-
-- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2528,10 +2542,6 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
-
-- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
-
-- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2701,8 +2711,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
-- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
-
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2778,5 +2786,3 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
-
-- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
