@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2025-07-04 19:06
-- **Most recent article:** 2025-07-03 18:25:55
+- **New articles in last harvest:** 3
+- **Last harvest:** 2025-07-05 07:06
+- **Most recent article:** 2025-07-03 22:16:32
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-21 | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 75 | 68 | 90 | 48 | 31 | 53 | 27 | 392 |
+| measles | 77 | 68 | 90 | 48 | 31 | 53 | 27 | 394 |
 | dengue | 26 | 28 | 25 | 14 | 17 | 26 | 17 | 153 |
 | malaria | 35 | 17 | 16 | 19 | 23 | 13 | 20 | 143 |
-| mpox | 10 | 19 | 15 | 24 | 11 | 27 | 9 | 115 |
-| h5n1 | 44 | 36 | 9 | 5 | 9 | 3 | 6 | 112 |
-| chikungunya | 10 | 12 | 21 | 13 | 13 | 20 | 7 | 96 |
-| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 35 | 90 |
-| rabies | 3 | 9 | 6 | 6 | 19 | 5 | 15 | 63 |
+| mpox | 11 | 19 | 15 | 24 | 11 | 27 | 9 | 116 |
+| h5n1 | 45 | 36 | 9 | 5 | 9 | 3 | 6 | 113 |
+| chikungunya | 11 | 12 | 21 | 13 | 13 | 20 | 7 | 97 |
+| meningitis | 6 | 7 | 2 | 4 | 1 | 35 | 38 | 93 |
+| rabies | 6 | 9 | 6 | 6 | 19 | 5 | 15 | 66 |
 | zika | 10 | 9 | 7 | 2 | 14 | 2 | 3 | 47 |
 | yersinia | 1 | 11 | 6 | 3 | 0 | 0 | 0 | 21 |
 | pertussis | 2 | 3 | 2 | 4 | 2 | 0 | 0 | 13 |
@@ -100,6 +100,12 @@ Source: [News API](https://newsapi.org/)
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Alexia, feliz pero prudente: «Solo hemos ganado un partido»](https://www.abc.es/deportes/futbol/alexia-feliz-prudente-solo-ganado-partido-20250704001631-nt.html) (Www.abc.es)
+
+- [Vicky López: "Hemos sido unas bestias"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250704/1002494234/vicky-lopez-hemos-sido-bestias.html) (Mundodeportivo.com)
+
+- [Alexia se suma a la fiesta de España con mucha clase](https://www.mundodeportivo.com/futbol/femenino/eurocopa/20250703/1002494118/alexia-suma-fiesta-espana-clase.html) (Mundodeportivo.com)
 
 - [Group B Streptococci lyse endothelial cells to infect the brain in a zebrafish meningitis model](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003236) (Plos.org)
 
@@ -2321,6 +2327,12 @@ Source: [News API](https://newsapi.org/)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/6/25-0167_article) (Cdc.gov)
 
+- [Scarcity of anti-rabies vaccine in Baitadi](https://english.khabarhub.com/2025/18/468050/) (Khabarhub.com)
+
+- [Morocco unveils policies it hopes bolster the care and management of stray dogs](https://abcnews.go.com/International/wireStory/morocco-unveils-policies-hopes-bolster-care-management-stray-121919716) (ABC News)
+
+- [Rescued cat has some issues](https://www.bostonherald.com/2025/05/18/rescued-cat-has-some-issues/) (Boston Herald)
+
 ## 25-21 (pertussis)
 
 - [Whooping cough cases surge in Hawaii](https://www.hawaiinewsnow.com/2025/05/22/whooping-cough-cases-surge-hawaii/) (Hawaii News Now)
@@ -2348,6 +2360,8 @@ Source: [News API](https://newsapi.org/)
 - [WHO plans future without US as funding crisis looms](https://www.thehindubusinessline.com/news/who-plans-future-without-us-as-funding-crisis-looms/article69593449.ece) (BusinessLine)
 
 - [World Health Organization looks ahead to life without U.S.](https://japantoday.com/category/features/health/world-health-organization-looks-ahead-to-life-without-the-us) (Japan Today)
+
+- [World Health Organization Looks Ahead To Life Without The US](https://www.ndtv.com/world-news/world-health-organization-looks-ahead-to-life-without-the-us-8444043) (NDTV News)
 
 ## 25-21 (meningitis)
 
@@ -2514,6 +2528,10 @@ Source: [News API](https://newsapi.org/)
 - [State health department confirms new measles case in Georgia](https://www.wsbtv.com/news/local/atlanta/state-health-department-confirms-4th-measles-case-georgia/2IPHFPD7MRGLBN4ZIABYPBP6DA/) (WSB Atlanta)
 
 - [Public health officials issue warning over possible measles exposure in Montreal](https://www.cbc.ca/news/canada/montreal/montreal-public-health-measles-case-1.7538338) (CBC News)
+
+- [Energized by Kennedy, Texas 'Mad Moms' Are Chipping Away at Vaccine Mandates (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250518/p12) (Memeorandum.com)
+
+- [Vaccine skepticism a growing concern, virologist warns amid rising measles caseload](https://www.cbc.ca/news/canada/manitoba/vaccine-skepticism-misinformation-measles-outbreak-1.7532489) (CBC News)
 
 ## 25-21 (malaria)
 
@@ -2683,6 +2701,8 @@ Source: [News API](https://newsapi.org/)
 
 - [RS declara estado de emergência em saúde animal para gripe aviária e inicia vistorias](https://www.infomoney.com.br/politica/rs-declara-estado-de-emergencia-em-saude-animal-para-gripe-aviaria-e-inicia-vistorias/) (InfoMoney)
 
+- [Brote de gripe aviar: Frenan importación avícola desde Brasil](https://www.excelsior.com.mx/nacional/brote-de-gripe-aviar-frenan-importacion-avicola-desde-brasil/1716554) (Excelsior.com.mx)
+
 ## 25-21 (dengue)
 
 - [Pacific dengue cases surge, but don't cancel your holiday yet - health expert](https://www.rnz.co.nz/news/national/562046/pacific-dengue-cases-surge-but-don-t-cancel-your-holiday-yet-health-expert) (RNZ)
@@ -2758,3 +2778,5 @@ Source: [News API](https://newsapi.org/)
 - [Dengue, chikungunya, Zika...la présence du moustique tigre en Auvergne Rhône-Alpes se développe chaque année un peu plus](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/dengue-chikungunya-zika-la-presence-du-moustique-tigre-en-auvergne-rhone-alpes-se-developpe-chaque-annee-un-peu-plus-3156888.html) (Franceinfo.fr)
 
 - [Cette étrange bactérie pourrait venir à bout des pires virus tropicaux](https://www.presse-citron.net/bacterie-venir-bout-pires-virus-tropicaux/) (Presse-citron)
+
+- [Komary tygrysie już tu są. Europa narażona na groźne choroby](https://next.gazeta.pl/next/7,172392,31942042,komary-tygrysie-przenosza-grozne-choroby-przez-zmiany-klimatu.html) (Gazeta.pl)
