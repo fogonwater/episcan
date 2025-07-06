@@ -1,8 +1,172 @@
 {
-  "last_updated": "2025-07-06 07:06",
-  "count_articles_total": 1033,
-  "count_articles_new": 7,
+  "last_updated": "2025-07-06 19:05",
+  "count_articles_total": 1034,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 22625,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn (Ben Turner/LiveScience)",
+      "description": "Ben Turner / LiveScience: RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn \u2014 HHS Secretary Robert F. Kennedy Jr. and Secretary of Agriculture Brooke Rollins have expressed interest in letting H5N1 outbreaks \u2026",
+      "url": "https://www.memeorandum.com/250705/p43",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9Zp6mXNKBBsx6KVNaMvDfc.jpg",
+      "publishedAt": "2025-07-05 19:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-06 19:05:51.157942",
+      "internal_id": "890c79d95c8b15faa786983c65d4debb05cb76b7bf1f817a4660697aab58a469",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22621,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Is US measles elimination status in danger as cases surge to record high in 2025?",
+      "description": "The United States is witnessing a record surge in measles cases in 2025. Confirmed cases have crossed 1,200, exceeding the 2019 record. A major outbreak in West Texas is a key factor. The country risks losing its measles elimination status achieved in 2000. T\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/is-us-measles-elimination-status-in-danger-as-cases-surge-to-record-high-in-2025/articleshow/122271486.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122271493,width-1200,height-630,imgsize-25330,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-05 18:15:06",
+      "content": "The United States has been witnessing a record rise in measles cases in 2025, with at least 1,200 confirmed cases. This comes as experts have claimed that many of the cases have gone unreported. The \u2026 [+2099 chars]",
+      "retrievedAt": "2025-07-06 19:05:50.767576",
+      "internal_id": "0b574736d59082e6e728c2b623b569e2bfd1b927615aa4220a3018265ede339d",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22626,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Destination Sant\u00e9 et Futura",
+      "title": "Produits anti-moustiques : lequel choisir pour \u00eatre bien prot\u00e9g\u00e9 ?",
+      "description": "Avec l'\u00e9t\u00e9, les moustiques sont de retour... et le moustique-tigre est bien implant\u00e9 sur le territoire fran\u00e7ais. Connu pour \u00eatre vecteur de maladies telles que la dengue, le chikungunya ou le zika, il repr\u00e9sente une menace bien r\u00e9elle. Alors quel produit choi\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/f/d/b/fdb39cbdd6_50233458_produit-antimoustique.jpg",
+      "publishedAt": "2025-07-05 17:01:40",
+      "content": "Devant la multitude de produits disponibles sur le march\u00e9, comment s'y retrouver ? Charles Jeannin, entomologisteentomologiste m\u00e9dical \u00e0 l'EID M\u00e9diterran\u00e9e (Entente interd\u00e9partementale pour la d\u00e9mous\u2026 [+4062 chars]",
+      "retrievedAt": "2025-07-06 19:05:51.458626",
+      "internal_id": "15d8d86d2a99091e5dd07ae16aac34dfbfb7ba9a8c4e8dd59527bb5676dce40c",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22624,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre Mcphillips",
+      "title": "Measles cases surge to record high since disease was declared eliminated in the US | CNN",
+      "description": "There have been more measles cases in the US this year than any other since the disease was declared eliminated a quarter-century ago.",
+      "url": "https://www.cnn.com/2025/07/05/health/measles-cases-us-record-since-elimination",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25099777431187-20250702023034005.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-05 14:32:03",
+      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6778 chars]",
+      "retrievedAt": "2025-07-06 19:05:50.832286",
+      "internal_id": "82d99918c4056f338d0d62b3af9f67bef2cc11cda2dd233ce8d2d2518d5d090c",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22627,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Maria Tikas",
+      "title": "Aitana, con \"ganas de m\u00e1s\" y B\u00e9lgica entre ceja y ceja",
+      "description": "A seis d\u00edas del debut de la selecci\u00f3n espa\u00f1ola en la Eurocopa, Aitana Bonmat\u00ed miraba el \u00faltimo amistoso de preparaci\u00f3n contra Jap\u00f3n desde la cama de un hospital de Madrid y medicaci\u00f3n por v\u00eda intravenosa. Dos d\u00edas con fiebres altas destaparon una meningitis v\u2026",
+      "url": "https://www.elperiodico.com/es/deportes/20250705/aitana-ganas-belgica-ceja-ceja-119387650",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/2d1920c2-1554-460c-9c46-536cd38097a7_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-07-05 14:17:58",
+      "content": "A seis d\u00edas del debut de la selecci\u00f3n espa\u00f1ola en la Eurocopa, Aitana Bonmat\u00ed miraba el \u00faltimo amistoso de preparaci\u00f3n contra Jap\u00f3n desde la cama de un hospital de Madrid y medicaci\u00f3n por v\u00eda intrave\u2026 [+2121 chars]",
+      "retrievedAt": "2025-07-06 19:05:52.163344",
+      "internal_id": "062599fedade344223f204eca3616a3a306a8e515091f9cd5acfaad0ae4b1cce",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22620,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Sripriya Sambathkumar",
+      "title": "Rabies: \u0ba8\u0bbe\u0baf\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0ba4\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd.... \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0bb0\u0bc7\u0baa\u0bbf\u0bb8\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8",
+      "description": "Rabies Prevention After Dog Bite: \u0bb0\u0bc7\u0baa\u0bbf\u0bb8\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0bae\u0bc2\u0bb3\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bb0\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bca\u0b9f\u0bbf\u0baf \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0ba8\u0bcb\u0baf\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9f\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd \u0b9f\u0bbf.\u0b8e\u0bb8\u0bcd. \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bb5\u0bbf\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd. \u0b85\u0ba4\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bcb\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b95\u2026",
+      "url": "https://zeenews.india.com/tamil/health/rabies-prevention-advisory-from-tamil-nadu-government-what-to-if-a-dog-bites-you-see-doctor-advice-here-596391",
+      "urlToImage": "https://tamil.cdn.zeenews.com/tamil/sites/default/files/2025/07/05/520248-rabies.jpg",
+      "publishedAt": "2025-07-05 11:23:58",
+      "content": "Rabies Prevention After Dog Bite: , . 2 , . PEP (Post-exposure prophylaxis) . PEP - (RIG) (ARV) . ? .. . . . 2 . ( ) , III ( ) , , . 1. , , (RIG) . 2. RIG , . . . 3. , 15 . . . , . . \u2026 [+329 chars]",
+      "retrievedAt": "2025-07-06 19:05:50.512721",
+      "internal_id": "3d884158670c3df198281cefca6ddd0e8dac16b3e6769cb91d3488bef1ab86ef",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22623,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Vaccinations rise when states button up religious loopholes",
+      "description": "Unlike other kids in Massachusetts, students living in one Boston suburb won\u2019t be able to go back to school next month unless they\u2019ve had their chickenpox and measles shots, as well as other routine childhood vaccinations.\u201cAny student not fully vaccinated wit\u2026",
+      "url": "https://www.nbcnews.com/health/health-news/vaccinations-rise-states-religious-loopholes-exemptions-rcna212334",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250326-mmr-vaccine-ch-1257-e0268b.jpg",
+      "publishedAt": "2025-07-05 10:00:00",
+      "content": "Unlike other kids in Massachusetts, students living in one Boston suburb wont be able to go back to school next month unless theyve had their chickenpox and measles shots, as well as other routine ch\u2026 [+6483 chars]",
+      "retrievedAt": "2025-07-06 19:05:50.794263",
+      "internal_id": "5bcb489f31175a79f21e4fb40096ee708db2042e775ef3994fb89988e790eb8c",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22622,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "How Canada could boost disease surveillance to make up for U.S. health cuts",
+      "description": "With measles outbreaks, avian influenza and syphilis and HIV on the rise, Canada needs to strengthen its disease surveillance systems as cuts to U.S. health institutions threaten access to crucial monitoring data, experts say in an editorial published in the \u2026",
+      "url": "https://www.cbc.ca/news/health/cmaj-editorial-canada-us-cuts-surveillance-1.7577992",
+      "urlToImage": "https://i.cbc.ca/1.6949862.1751668118!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/wastewater-uwo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-05 08:00:00",
+      "content": "Canada should do more to strengthen its health surveillance systems as cuts to U.S. health institutions threaten access to crucial monitoring data, experts say in an editorial published in the Canadi\u2026 [+4722 chars]",
+      "retrievedAt": "2025-07-06 19:05:50.784177",
+      "internal_id": "643371a6889e8df4b19431bf59b45794dbb2026a7272613d80cbaf6194277679",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 22628,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Oana Ababei",
+      "title": "Avertisment pentru turi\u0219ti. Virus tropical care poate duce la afectarea organelor, depistat \u00eentr-o destina\u021bie popular\u0103 de vacan\u021b\u0103",
+      "description": "Turi\u0219tii care pl\u0103nuiesc vacan\u021be \u00een Fran\u021ba sunt avertiza\u021bi asupra riscului de infectare cu Chikungunya, un virus tropical periculos care provoac\u0103 dureri puternice \u00een corp \u0219i, \u00een cazuri severe, afectarea organelor.",
+      "url": "https://adevarul.ro/stil-de-viata/calatorii/avertisment-pentru-turisti-virus-tropical-care-2455639.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/bbd2daa9-bc2c-4c1e-84f0-85ab0cdc58cf/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-07-05 07:13:58",
+      "content": "Turitii care plnuiesc vacane \u00een Frana sunt avertizai asupra riscului de infectare cu Chikungunya, un virus tropical periculos care provoac dureri puternice \u00een corp i, \u00een cazuri severe, afectarea orga\u2026 [+2225 chars]",
+      "retrievedAt": "2025-07-06 19:05:53.341875",
+      "internal_id": "fd1e6dd47f232697ce24ead01582024db48da49a41eed10cac75302264138f57",
+      "publishedAtLabel": "Jul 5"
+    },
     {
       "id": 22619,
       "query": [
@@ -18490,150 +18654,6 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21576,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Virginian-Pilot",
-      "author": "The Daily Progress",
-      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
-      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
-      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
-      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 17:26:18",
-      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.311788",
-      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21594,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Liu Fangqiang, Habtamu",
-      "title": "Ethiopia reports first mpox case",
-      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-05-25 17:09:00",
-      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
-      "retrievedAt": "2025-05-26 19:05:56.538122",
-      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21564,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Attila Pelit",
-      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
-      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
-      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
-      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
-      "publishedAt": "2025-05-25 17:00:30",
-      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.197216",
-      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21583,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
-      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
-      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
-      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
-      "publishedAt": "2025-05-25 14:40:28",
-      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.078898",
-      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21591,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
-      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
-      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
-      "publishedAt": "2025-05-25 14:00:41",
-      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
-      "retrievedAt": "2025-05-26 19:05:55.552382",
-      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21585,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Porto Alegre 24 horas",
-      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
-      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
-      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
-      "publishedAt": "2025-05-25 12:16:38",
-      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.406035",
-      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21563,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "Meg Wingerter",
-      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
-      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
-      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 12:00:46",
-      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.188864",
-      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
-      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
-      "publishedAt": "2025-05-25 08:43:49",
-      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.507741",
-      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]

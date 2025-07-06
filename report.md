@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-07-06 07:06
-- **Most recent article:** 2025-07-05 05:58:18
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-07-06 19:05
+- **Most recent article:** 2025-07-05 19:05:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 68 | 90 | 48 | 31 | 53 | 30 | 320 |
-| dengue | 26 | 25 | 14 | 17 | 26 | 23 | 131 |
-| malaria | 17 | 16 | 19 | 23 | 13 | 21 | 109 |
-| mpox | 19 | 15 | 24 | 11 | 27 | 10 | 106 |
-| meningitis | 6 | 2 | 4 | 1 | 35 | 40 | 88 |
-| chikungunya | 12 | 21 | 13 | 13 | 20 | 8 | 87 |
-| h5n1 | 36 | 9 | 5 | 9 | 3 | 7 | 69 |
-| rabies | 9 | 6 | 6 | 19 | 5 | 16 | 61 |
-| zika | 9 | 7 | 2 | 14 | 2 | 7 | 41 |
+| measles | 65 | 90 | 48 | 31 | 53 | 34 | 321 |
+| dengue | 24 | 25 | 14 | 17 | 26 | 24 | 130 |
+| malaria | 16 | 16 | 19 | 23 | 13 | 21 | 108 |
+| mpox | 18 | 15 | 24 | 11 | 27 | 10 | 105 |
+| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 89 |
+| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 89 |
+| h5n1 | 35 | 9 | 5 | 9 | 3 | 8 | 69 |
+| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 62 |
+| zika | 9 | 7 | 2 | 14 | 2 | 8 | 42 |
 | yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 20 |
 | pertussis | 3 | 2 | 4 | 2 | 0 | 0 | 11 |
 | hpai | 1 | 3 | 1 | 1 | 0 | 4 | 10 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-27 (zika)
+
+- [Produits anti-moustiques : lequel choisir pour être bien protégé ?](https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/) (Futura)
 
 - [SES-DF adota método com bactéria que ajuda a combater vírus da dengue](https://www.metropoles.com/distrito-federal/saude-adota-metodo-com-bacteria-que-ajuda-a-combater-virus-da-dengue) (Metropoles.com)
 
@@ -56,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
 
 ## 25-27 (rabies)
+
+- [Rabies: நாய் கடித்தால் இதை முதலில் செய்யவும்.... தமிழ்நாடு அரசின் ரேபிஸ் தடுப்பு ஆலோசனை](https://zeenews.india.com/tamil/health/rabies-prevention-advisory-from-tamil-nadu-government-what-to-if-a-dog-bites-you-see-doctor-advice-here-596391) (India.com)
 
 - [What is lyssavirus? The deadly ‘bat rabies’ that’s been found in the UK](https://www.the-independent.com/life-style/health-and-families/lyssavirus-symptoms-bat-rabies-uk-australia-b2782803.html) (The-independent.com)
 
@@ -112,6 +116,8 @@ Source: [News API](https://newsapi.org/)
 - [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
 
 ## 25-27 (meningitis)
+
+- [Aitana, con "ganas de más" y Bélgica entre ceja y ceja](https://www.elperiodico.com/es/deportes/20250705/aitana-ganas-belgica-ceja-ceja-119387650) (Elperiodico.com)
 
 - [Mensaje de Aitana Bonmatí tras su meningitis](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250704/1002494432/aitana-bonmati-agradecida-haber-podido-volver-sana-fuerte.html) (Mundodeportivo.com)
 
@@ -194,6 +200,14 @@ Source: [News API](https://newsapi.org/)
 - [Preocupación en España por el riesgo de contagio tras la meningitis de Aitana](https://www.abc.es/deportes/futbol/preocupacion-espana-riesgo-contagio-tras-meningitis-aitana-20250628140742-nt.html) (Www.abc.es)
 
 ## 25-27 (measles)
+
+- [Is US measles elimination status in danger as cases surge to record high in 2025?](https://economictimes.indiatimes.com/news/international/us/is-us-measles-elimination-status-in-danger-as-cases-surge-to-record-high-in-2025/articleshow/122271486.cms) (The Times of India)
+
+- [Measles cases surge to record high since disease was declared eliminated in the US | CNN](https://www.cnn.com/2025/07/05/health/measles-cases-us-record-since-elimination) (CNN)
+
+- [Vaccinations rise when states button up religious loopholes](https://www.nbcnews.com/health/health-news/vaccinations-rise-states-religious-loopholes-exemptions-rcna212334) (NBC News)
+
+- [How Canada could boost disease surveillance to make up for U.S. health cuts](https://www.cbc.ca/news/health/cmaj-editorial-canada-us-cuts-surveillance-1.7577992) (CBC News)
 
 - [Manitoba warns of further measles exposure at Winnipeg children's hospital](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-children-s-hospital-boundary-trails-health-centre-1.7577917) (CBC News)
 
@@ -311,6 +325,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-27 (h5n1)
 
+- [RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn (Ben Turner/LiveScience)](https://www.memeorandum.com/250705/p43) (Memeorandum.com)
+
 - [Újra robban a halálos vírus: egymás után jönnek az új esetek](https://www.portfolio.hu/gazdasag/20250704/ujra-robban-a-halalos-virus-egymas-utan-jonnek-az-uj-esetek-772599) (Portfolio.hu)
 
 - [RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn) (Live Science)
@@ -326,6 +342,8 @@ Source: [News API](https://newsapi.org/)
 - [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
 
 ## 25-27 (dengue)
+
+- [Produits anti-moustiques : lequel choisir pour être bien protégé ?](https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/) (Futura)
 
 - [Dengue no longer a seasonal disease in Nepal as year-round infections surge](https://english.khabarhub.com/2025/05/483274/) (Khabarhub.com)
 
@@ -374,6 +392,10 @@ Source: [News API](https://newsapi.org/)
 - [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
 
 ## 25-27 (chikungunya)
+
+- [Produits anti-moustiques : lequel choisir pour être bien protégé ?](https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/) (Futura)
+
+- [Avertisment pentru turiști. Virus tropical care poate duce la afectarea organelor, depistat într-o destinație populară de vacanță](https://adevarul.ro/stil-de-viata/calatorii/avertisment-pentru-turisti-virus-tropical-care-2455639.html) (Adevarul.ro)
 
 - [Chikungunya en Outremer et dans l’hexagone : le vaccin Ixchiq en cause dans la moitié des cas graves signalés](https://www.opinion-internationale.com/2025/07/05/chikungunya-en-outremer-et-dans-lhexagone-le-vaccin-ixchiq-en-cause-dans-la-moitie-des-cas-graves-signales_135827.html) (Opinion-internationale.com)
 
@@ -1975,8 +1997,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La Sierra Leone recense plus de 3 000 cas de mpox, et 14 décès](https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html) (Le Monde)
 
-- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
-
 ## 25-22 (meningitis)
 
 - [¿Quién puede vacunarse frente a la gonorrea? ¿Cuánto protege la inyección? ¿Como sé si estoy infectado?](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/31/podran-vacunarse-gonorrea-hayan-tenido-ets-ultimo-anotitular-1-col-cuerpo-166-noticias-secundarias-5-lineas/0003_202505G31P26991.htm) (Lavozdegalicia.es)
@@ -2123,12 +2143,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Three-quarters of all measles cases in Alberta are in the southern part of the province | Globalnews.ca](http://globalnews.ca/news/11197726/three-quarters-measles-case-alberta-southern-part-of-province/) (Global News)
 
-- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
-
-- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
-
-- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
-
 ## 25-22 (malaria)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2162,8 +2176,6 @@ Source: [News API](https://newsapi.org/)
 - [Harvard brengt nieuwe doorbraak in strijd tegen malaria](https://businessam.be/?p=251676) (Businessam.be)
 
 - [Africa's example to end malaria](https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria) (Bangkok Post)
-
-- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (leptospirosis)
 
@@ -2245,8 +2257,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pelo menos 20 vacinas contra gripe aviária têm uso aprovado no mundo](https://www.metropoles.com/saude/20-vacinas-gripe-aviaria-aprovadas) (Metropoles.com)
 
-- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
-
 ## 25-22 (dengue)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2296,10 +2306,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue cases in NegOcc rise to 2,253](https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/) (Rpnradio.com)
 
 - [México suma más de 3 mil 500 casos de dengue; Jalisco encabeza la lista](https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862) (Excelsior.com.mx)
-
-- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
-
-- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
 
 ## 25-22 (chikungunya)
 
