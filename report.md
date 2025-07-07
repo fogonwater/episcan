@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-07-06 19:05
-- **Most recent article:** 2025-07-05 19:05:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-07-07 07:09
+- **Most recent article:** 2025-07-06 03:39:31
 
 ---
 
@@ -10,28 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 65 | 90 | 48 | 31 | 53 | 34 | 321 |
-| dengue | 24 | 25 | 14 | 17 | 26 | 24 | 130 |
-| malaria | 16 | 16 | 19 | 23 | 13 | 21 | 108 |
-| mpox | 18 | 15 | 24 | 11 | 27 | 10 | 105 |
-| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 89 |
-| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 89 |
-| h5n1 | 35 | 9 | 5 | 9 | 3 | 8 | 69 |
-| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 62 |
-| zika | 9 | 7 | 2 | 14 | 2 | 8 | 42 |
-| yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 20 |
-| pertussis | 3 | 2 | 4 | 2 | 0 | 0 | 11 |
-| hpai | 1 | 3 | 1 | 1 | 0 | 4 | 10 |
-| typhoid | 2 | 0 | 3 | 0 | 3 | 2 | 10 |
-| leptospirosis | 1 | 2 | 2 | 0 | 0 | 0 | 5 |
-| shigellosis | 0 | 0 | 3 | 1 | 0 | 0 | 4 |
+| Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 68 | 90 | 48 | 31 | 53 | 36 | 1 | 327 |
+| dengue | 26 | 25 | 14 | 17 | 26 | 24 | 1 | 133 |
+| malaria | 17 | 16 | 19 | 23 | 13 | 21 | 0 | 109 |
+| mpox | 19 | 15 | 24 | 11 | 27 | 10 | 0 | 106 |
+| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 0 | 89 |
+| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 0 | 89 |
+| h5n1 | 36 | 9 | 5 | 9 | 3 | 8 | 0 | 70 |
+| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 0 | 62 |
+| zika | 9 | 7 | 2 | 14 | 2 | 8 | 0 | 42 |
+| yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 0 | 20 |
+| pertussis | 3 | 2 | 4 | 2 | 0 | 0 | 0 | 11 |
+| hpai | 1 | 3 | 1 | 1 | 0 | 4 | 0 | 10 |
+| typhoid | 2 | 0 | 3 | 0 | 3 | 2 | 0 | 10 |
+| leptospirosis | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-28 (measles)
+
+- [Measles cases surge to record high since disease was declared eliminated in the US (Deidre McPhillips/CNN)](https://www.memeorandum.com/250705/p70) (Memeorandum.com)
+
+## 25-28 (dengue)
+
+- [Dengue cases spike: Telangana health minister orders anti-larval drive expansion; GHMC told to deploy officers](https://timesofindia.indiatimes.com/city/hyderabad/dengue-cases-spike-telangana-health-minister-orders-anti-larval-drive-expansion-ghmc-told-to-deploy-officers/articleshow/122275407.cms) (The Times of India)
 
 ## 25-27 (zika)
 
@@ -200,6 +208,10 @@ Source: [News API](https://newsapi.org/)
 - [Preocupación en España por el riesgo de contagio tras la meningitis de Aitana](https://www.abc.es/deportes/futbol/preocupacion-espana-riesgo-contagio-tras-meningitis-aitana-20250628140742-nt.html) (Www.abc.es)
 
 ## 25-27 (measles)
+
+- [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
+
+- [Boy with measles visited Osaka Expo; officials urge caution](https://japantoday.com/category/national/boy-with-measles-visited-osaka-expo-officials-urge-caution) (Japan Today)
 
 - [Is US measles elimination status in danger as cases surge to record high in 2025?](https://economictimes.indiatimes.com/news/international/us/is-us-measles-elimination-status-in-danger-as-cases-surge-to-record-high-in-2025/articleshow/122271486.cms) (The Times of India)
 
@@ -1997,6 +2009,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La Sierra Leone recense plus de 3 000 cas de mpox, et 14 décès](https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html) (Le Monde)
 
+- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
+
 ## 25-22 (meningitis)
 
 - [¿Quién puede vacunarse frente a la gonorrea? ¿Cuánto protege la inyección? ¿Como sé si estoy infectado?](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/31/podran-vacunarse-gonorrea-hayan-tenido-ets-ultimo-anotitular-1-col-cuerpo-166-noticias-secundarias-5-lineas/0003_202505G31P26991.htm) (Lavozdegalicia.es)
@@ -2143,6 +2157,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Three-quarters of all measles cases in Alberta are in the southern part of the province | Globalnews.ca](http://globalnews.ca/news/11197726/three-quarters-measles-case-alberta-southern-part-of-province/) (Global News)
 
+- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
+
+- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
+
+- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
+
 ## 25-22 (malaria)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2176,6 +2196,8 @@ Source: [News API](https://newsapi.org/)
 - [Harvard brengt nieuwe doorbraak in strijd tegen malaria](https://businessam.be/?p=251676) (Businessam.be)
 
 - [Africa's example to end malaria](https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria) (Bangkok Post)
+
+- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (leptospirosis)
 
@@ -2257,6 +2279,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Pelo menos 20 vacinas contra gripe aviária têm uso aprovado no mundo](https://www.metropoles.com/saude/20-vacinas-gripe-aviaria-aprovadas) (Metropoles.com)
 
+- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
+
 ## 25-22 (dengue)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2306,6 +2330,10 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue cases in NegOcc rise to 2,253](https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/) (Rpnradio.com)
 
 - [México suma más de 3 mil 500 casos de dengue; Jalisco encabeza la lista](https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862) (Excelsior.com.mx)
+
+- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
+
+- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
 
 ## 25-22 (chikungunya)
 
