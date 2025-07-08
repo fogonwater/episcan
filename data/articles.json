@@ -1,8 +1,494 @@
 {
-  "last_updated": "2025-07-08 07:08",
-  "count_articles_total": 1071,
-  "count_articles_new": 3,
+  "last_updated": "2025-07-08 19:06",
+  "count_articles_total": 1090,
+  "count_articles_new": 27,
   "articles": [
+    {
+      "id": 22658,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Measles cases in the US reach 33-year high",
+      "description": "It is the latest milestone in the ongoing outbreak of a disease that was once thought to be eliminated in the US.",
+      "url": "https://www.bbc.com/news/articles/c98jng7j1llo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ec2e/live/2a008720-5b59-11f0-942c-ebb3833da82f.jpg",
+      "publishedAt": "2025-07-07 18:54:52",
+      "content": "The number of reported measles cases in the US has reached a 33-year high, with nearly 1,300 confirmed infections across the country as of Friday. The data, released by John Hopkins University, mar\u2026 [+2843 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.296457",
+      "internal_id": "bbd13e5e7486505f4429778e123830c65b2d06d5dc389d1f9d778726bde93b9b",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22666,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Once declared eliminated from the US, measles cases hit six-year high amid drop in vaccinations",
+      "description": "Vaccine uptake has seen a sharp decline in states such as Texas and New Mexico",
+      "url": "https://www.irishtimes.com/world/us/2025/07/07/once-declared-eliminated-from-the-us-measles-cases-hit-six-year-high-amid-drop-in-vaccinations/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/NAMKN4PIABF4JHSJGN2ZNDHNCE.jpg?smart=true&auth=29bd37b3f915e3a4b4e48f49d0f407bd068881a596e3d13183397da924d1b780&width=1200&height=630",
+      "publishedAt": "2025-07-07 17:48:48",
+      "content": "Measles cases in the United States have already reached a six-year high this year, data from Johns Hopkins Universitys outbreak response centre showed, as a drop in vaccination rates causes a surge i\u2026 [+1695 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.451940",
+      "internal_id": "2750e47c553bf351609cca7262e83e5dbbf8c00a26ba10da45ef2d08c590a5f4",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22661,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Andrew Stanton",
+      "title": "Map Shows States Hit Hardest by Measles Outbreak as Cases Break Record",
+      "description": "The U.S. has seen more measles cases in 2025 than in any year since the virus was declared \"eliminated\" in 2000.",
+      "url": "https://www.newsweek.com/measles-map-shows-states-hit-hardest-break-record-2095583",
+      "urlToImage": "https://d.newsweek.com/en/full/2678315/measles-map.png",
+      "publishedAt": "2025-07-07 17:39:31",
+      "content": "The United States has already seen more measles cases in 2025 than in any year since the virus was declared eliminated nationally in 2000, with 1,277 confirmed cases as of Saturday, according to the \u2026 [+5642 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.348025",
+      "internal_id": "84b63b4721f21066bfc16d4e625c3e94de935531b5303819533ea29c36e2a389",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22678,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Tropen-Krankheit: Chikungunya-Infektion im Elsass \u2013 nahe der deutschen Grenze",
+      "description": "Nahe Stra\u00dfburg hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Die Verbreitung der Tigerm\u00fccke und hohe Temperaturen beg\u00fcnstigen das Vordringen des Erregers.",
+      "url": "https://www.stern.de/gesundheit/chikungunya-infektion-im-elsass---nahe-der-deutschen-grenze-35874016.html",
+      "urlToImage": "https://image.stern.de/35874018/t/9w/v5/w1440/r1.7778/-/chikungunya-bild-1.jpg",
+      "publishedAt": "2025-07-07 17:38:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Nahe Stra\u00dfburg hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Die Verbreitung der Tigerm\u00fccke und hohe Temperaturen beg\u00fcnstigen das Vor\u2026 [+2764 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.701602",
+      "internal_id": "27d593281ea8825111432c2031f3ebab475ca82a1c0ce4b66b948682f3c120d4",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brics anuncia parceria para erradicar doen\u00e7as em pa\u00edses do Sul Global",
+      "description": "Novo Banco de Desenvolvimento (NBB), Banco Mundial e institui\u00e7\u00f5es financeiras multilaterais se engajar\u00e3o para estruturar mecanismos de financiamento",
+      "url": "https://valor.globo.com/brasil/noticia/2025/07/07/brics-anuncia-parceria-para-erradicar-doencas-em-paises-do-sul-global.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/-4UeQZjV8Q3pQsdPT9o37iHS8zc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/Y/8/aAQB9aRZy2Lw6p1WjVfA/4b923348-569b-4b6e-b50a-aed5a5fccac7.jpeg",
+      "publishedAt": "2025-07-07 17:22:36",
+      "content": "O Brics anunciou uma parceria para \"Elimina\u00e7\u00e3o de Doen\u00e7as Socialmente Determinadas\", que ser\u00e3o identificadas pela sigla DSDs. Entre essas doen\u00e7as, est\u00e3o a tuberculose, hansen\u00edase, mal\u00e1ria e dengue, c\u2026 [+2672 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.190180",
+      "internal_id": "506457431d54a5bacbae6a07e7adfb0fce3e28458effa08f54779d277b01ef89",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22676,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Nahe Baden-W\u00fcrttemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eNahe Baden-W\u00fcrttemberg\u201c. Lesen Sie jetzt \u201eChikungunya-Infektion im Elsass - nahe der deutschen Grenze\u201c.",
+      "url": "https://www.zeit.de/news/2025-07/07/chikungunya-infektion-im-elsass-nahe-der-deutschen-grenze",
+      "urlToImage": "https://img.zeit.de/news/2025-07/07/chikungunya-infektion-im-elsass-nahe-der-deutschen-grenze-image-group/wide__1300x731",
+      "publishedAt": "2025-07-07 16:55:36",
+      "content": "Nur wenige Kilometer von der deutschen Grenze entfernt hat sich in Frankreich ein Mensch mit dem Chikungunya-Virus angesteckt. Wie das Robert Koch-Institut (RKI) mitteilte, wurde die insbesondere von\u2026 [+2649 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.668705",
+      "internal_id": "da455c2da5470f0b19dfd9f7f87488466d0fb7a9937ae7728e6605b664a6f728",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com 41,4 mil casos e 17 mortes por dengue em 2025, Campinas visita 757,3 mil im\u00f3veis no 1\u00ba semestre",
+      "description": "A\u00e7\u00f5es foram em 11 mutir\u00f5es de combate ao Aedes Aegypti, que transmite a doen\u00e7a e outras arboviroses. Na \u00faltima semana, prefeitura confirmou seis novos \u00f3bitos. Dengue Carlos Bassan/Prefeitura de Campinas Com 41,4 mil casos e 17 mortes confirmadas por dengue ne\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/07/com-414-mil-casos-e-17-mortes-por-dengue-campinas-visita-7573-mil-imoveis-no-1o-semestre.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/twwXBPfJsJxJ_H8PWNyD2V0cTjE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/37/79/13607937",
+      "publishedAt": "2025-07-07 16:24:07",
+      "content": "O total de visitas contabilizadas pela Secretaria de Sa\u00fade considera a\u00e7\u00f5es das equipes em resid\u00eancias e com\u00e9rcios do munic\u00edpio para controle de criadouros do mosquito, transmissor da dengue e outras \u2026 [+4246 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.173075",
+      "internal_id": "16908d7de1071f7ec514e34e52a6e57aaa594eb7b9caed5d04b5b5f7bc7fead4",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22673,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Guillermo Echeverr\u00eda",
+      "title": "Espa\u00f1a - B\u00e9lgica, en directo Eurocopa femenina: resultado y goleadores, en vivo online",
+      "description": "Espa\u00f1a, campeona mundial y gran favorita, se enfrenta a B\u00e9lgica el 7 de julio a las 18:00 en Thun. Aitana Bonmat\u00ed ya est\u00e1 disponible si Montse Tom\u00e9 as\u00ed lo desea tras la meningitis. B\u00e9lgica, tras perder 1-0 con Italia, necesita sumar para seguir viva en el gru\u2026",
+      "url": "https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html",
+      "urlToImage": "https://s1.elespanol.com/2025/07/07/actualidad/1003743837724_257096356_1706x960.jpg",
+      "publishedAt": "2025-07-07 16:02:00",
+      "content": "Espa\u00f1a - B\u00e9lgica, en directo | El once espa\u00f1ol Esta es la alineaci\u00f3n elegida por Montse Tom\u00e9 para sellar el pase a la siguiente ronda: Nanclares, Ona, Paredes, Aleixandri, Olga, Patri, Vicky, Alexia\u2026 [+24 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.494899",
+      "internal_id": "ecd54885e54649a9ec03af39fa9386692caf364fe9cff2d34897ec03e3dee2d4",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22672,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Guillermo Echeverr\u00eda",
+      "title": "Espa\u00f1a - B\u00e9lgica, en directo: alineaciones, horario y d\u00f3nde ver el segundo partido de la Selecci\u00f3n en la Eurocopa femenina",
+      "description": "Espa\u00f1a, campeona mundial y gran favorita, se enfrenta a B\u00e9lgica el 7 de julio a las 18:00 en Thun. Aitana Bonmat\u00ed ya est\u00e1 disponible si Montse Tom\u00e9 as\u00ed lo desea tras la meningitis. B\u00e9lgica, tras perder 1-0 con Italia, necesita sumar para seguir viva en el gru\u2026",
+      "url": "https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-horario-ver-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html",
+      "urlToImage": "https://s1.elespanol.com/2025/07/07/actualidad/1003743837689_257095662_1706x960.jpg",
+      "publishedAt": "2025-07-07 15:15:46",
+      "content": "Espa\u00f1a - B\u00e9lgica, en directo | El once espa\u00f1ol Esta es la alineaci\u00f3n elegida por Montse Tom\u00e9 para sellar el pase a la siguiente ronda: Nanclares, Ona, Paredes, Aleixandri, Olga, Patri, Vicky, Alexia\u2026 [+24 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.485929",
+      "internal_id": "fb65bdf33ab2ee33727ebbab8ac1107c047c2730736c35712fddf27d94dccd2f",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22682,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Dolores Mazzola",
+      "title": "Un cas de chikungunya d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re : une enqu\u00eate de terrain programm\u00e9e, les habitants seront inform\u00e9s si besoin",
+      "description": "Un cas de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re, a indiqu\u00e9 ce lundi 7 juillet, la municipalit\u00e9 dr\u00f4moise. Il s\u2019agit d\u2019un cas import\u00e9 \u00e0 la suite d'un voyage dans l'Oc\u00e9an indien, a pr\u00e9cis\u00e9 la ville. Une enqu\u00eate va \u00eatre r\u00e9alis\u00e9e d\u00e8s le 8 juillet par l'Ente\u2026",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/drome/valence/un-cas-de-chikungunya-detecte-a-romans-sur-isere-une-enquete-de-terrain-programmee-les-habitants-seront-informes-si-besoin-3184455.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/dVM8Cnl9F7wLqfWdRe7n6kmsXsk/930x620/regions/2022/09/21/632ace1e9b026_moustique.jpg",
+      "publishedAt": "2025-07-07 14:53:22",
+      "content": "Un cas de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re, a indiqu\u00e9 ce lundi 7 juillet, la municipalit\u00e9 dr\u00f4moise. Il sagit dun cas import\u00e9 \u00e0 la suite d'un voyage dans l'Oc\u00e9an indien, a pr\u00e9cis\u00e9 la ville\u2026 [+3409 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.738137",
+      "internal_id": "2307f34e6c3bfabf0016c6a4ccf6ead7e53176b37c13a7a193d3063783bee544",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22659,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "The US just recorded the most measles cases in 30 years",
+      "description": "The US has now recorded 1,277 measles cases this year, according to case data collected by Johns Hopkins University, making the current outbreak the most severe since 1992. The disease continues to spread, and by now most schools are out for the summer. July \u2026",
+      "url": "https://www.vox.com/health/418961/measles-outbreak-cases-vaccine-trump-rfk",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/GettyImages-2201702412.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-07 14:40:07",
+      "content": "The US has seen more measles cases in 2025 than in any year since 1992. | Jan Sonnenmair/Getty Images The US has now recorded 1,277 measles cases this year, according to case data collected by Joh\u2026 [+8832 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.315870",
+      "internal_id": "b31b8cd21d2882a7c85df4221c852c452d21acaba2a74e9ab693ffed73019e91",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22683,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03c0\u03c0\u03ac\u03c2",
+      "title": "\u0395\u0395: \u03a3\u03c7\u03ad\u03b4\u03b9\u03bf \u201cATHINA\u201d \u03b3\u03b9\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7\u03c2 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7\u03c2 \u03c3\u03c4\u03bf\u03bd \u03c4\u03bf\u03bc\u03ad\u03b1 \u03c4\u03b7\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2",
+      "description": "\u0397 \u039a\u03bf\u03bc\u03b9\u03c3\u03b9\u03cc\u03bd \u03b5\u03c0\u03b9\u03b4\u03b9\u03ce\u03ba\u03b5\u03b9 \u03c3\u03c4\u03b5\u03bd\u03ae \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd\u03c2 \u0386\u03bc\u03c5\u03bd\u03b1\u03c2 \u03c4\u03b7\u03c2 \u0395\u0395 \u03c3\u03c4\u03bf \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf \u03b5\u03bd\u03cc\u03c2 \u03bd\u03ad\u03bf\u03c5 \u03c3\u03c7\u03b5\u03b4\u03af\u03bf\u03c5 \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ce\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03bc\u03b5 \u03c4\u03b7\u03bd \u03ba\u03c9\u03b4\u03b9\u03ba\u03ae \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u201cATHINA\u201d, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ce\u03bd \u03ba\u03c1\u03af\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u03c4\u03bf\u03bc\u03ad\u03b1\u2026 \u0395\u0395: \u03a3\u03c7\u03ad\u03b4\u03b9\u03bf \u201cATHINA\u201d \u03b3\u03b9\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7\u03c2 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7\u03c2 \u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1978134/ee-schedio-athina-gia-katastaseis-ektaktis-anagkis-ston-tomea-tis-ygeias/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2025/07/komision_ektakti_anagki_ygeia.jpg",
+      "publishedAt": "2025-07-07 14:39:35",
+      "content": "ATHINA, , Euractiv. : , , (AMR). , , , . Euractiv, \u00ab . , , , \u00bb. \u00ab \u00bb , \u00abATHINA\u00bb, . , COVID-19, , Mpox. , ( , ). , , \u00ab \u00bb, . , - \u2013 . , , \u00ab \u00bb. . , , , , , , . . . 2026, Medifence,\u2026 [+34 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.890925",
+      "internal_id": "8fcb67ccdd6d5320bfa6c253627872470ee3ff70981ae8771ee6d59ebd2e2c57",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22665,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier with Newser.AI",
+      "title": "Measles Cases Hit 33-Year High",
+      "description": "The US has recorded its highest number of measles cases in 33 years, with at least 1,277 confirmed cases across 38 states and the District of Columbia, according to data from Johns Hopkins University's Center for Outbreak Response Innovation . This surpasses \u2026",
+      "url": "https://www.newser.com/story/371454/measles-cases-hit-33-year-high.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1620755-12-20250707092402.jpeg",
+      "publishedAt": "2025-07-07 14:24:00",
+      "content": "The US has recorded its highest number of measles cases in 33 years, with at least 1,277 confirmed cases across 38 states and the District of Columbia, according to data from Johns Hopkins University\u2026 [+1348 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.442722",
+      "internal_id": "8b690506f2b1aa53329fe7724d5eb1c9492ca8cacabdb59cd5e2b8e0a3ba9427",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22681,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Mensch steckt sich im Elsass mit Chikungunya an",
+      "description": "Nahe der deutschen Grenze zu Frankreich hat sich ein Mensch mit dem Chikungunya-Virus infiziert. Die hohen Temperaturen sorgen daf\u00fcr, dass sich der \u00dcbertr\u00e4ger \u2013 die Tigerm\u00fccke \u2013 auch hierzulande verbreitet.",
+      "url": "https://www.welt.de/gesundheit/article256360714/Chikungunya-Virus-Mensch-im-Elsass-durch-Mueckenstich-infiziert.html",
+      "urlToImage": "https://images.welt.de/686bceb9d009353a0c962d48/a47e72e49fa2f9fd9fb27d19cab92e1d-master/ci16x9-w1200/asian-tiger-mosquito",
+      "publishedAt": "2025-07-07 14:22:04",
+      "content": "Nahe der deutschen Grenze zu Frankreich hat sich ein Mensch mit dem Chikungunya-Virus infiziert. Die hohen Temperaturen sorgen daf\u00fcr, dass sich der \u00dcbertr\u00e4ger die Tigerm\u00fccke auch hierzulande verbreit\u2026 [+2521 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.729224",
+      "internal_id": "bb3a7ce515645e89664b14a2aa8a4620c430cd6ae642c33e17d51d8d745775d5",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22667,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jamie Dunning, Josh A. Firth, Alastair I. Ward",
+      "title": "The spread of highly pathogenic avian influenza virus is a social network problem",
+      "description": "Despite identification of Highly Pathogenic Avian Influenza viruses nearly 75 years ago, the transmission pathways among wild animals remain incompletely described. We propose the use of social networks, to complement phylodynamic modeling, for better surveil\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013233",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013233.g001&size=inline",
+      "publishedAt": "2025-07-07 14:00:00",
+      "content": "New types of Highly Pathogenic Avian Influenza (HPAI) have emerged repeatedly and unpredictably in recent years, and in greater numbers of novel host species [13], each with differing spatial and soc\u2026 [+11105 chars]",
+      "retrievedAt": "2025-07-08 19:06:06.234872",
+      "internal_id": "4a6254f8b352718e3919c3bd13a03020bd92d4424b8a3c200cb29476c4509a6a",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22674,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yonghui Feng, Wenyan Gao, Chengqi Wang, Shuangrui Shi, Dan Zhou, Lin Sun, Liying Zhu, Liwang Cui, Yaming Cao, Xiaotong Zhu",
+      "title": "Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei",
+      "description": "Author summary Malaria transmission begins when Plasmodium gametocytes, ingested by a female Anopheles mosquito, activate and differentiate into gametes in the midgut. Through genetic and multi-omics analyses, we identified the protein phosphatase PbPP6 as a \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013318",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013318.g005&size=inline",
+      "publishedAt": "2025-07-07 14:00:00",
+      "content": "Citation: Feng Y, Gao W, Wang C, Shi S, Zhou D, Sun L, et al. (2025) Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei. P\u2026 [+69314 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.673313",
+      "internal_id": "3f356c200174651fd2e87dbb4bb4c5a01cf1309c50cc022443ca03bda6ee0688",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22675,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abraham Keffale Mengistu",
+      "title": "Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data",
+      "description": "Introduction Malaria remains a significant public health challenge in Ethiopia, with over 7.3 million cases and 1,157 deaths reported between January 1 and October 20, 2024. Despite extensive distribution campaigns, 35% of insecticide-treated nets (ITNs) rema\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327800",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327800.g009&size=inline",
+      "publishedAt": "2025-07-07 14:00:00",
+      "content": "Citation: Mengistu AK (2025) Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data. PLoS One 20(7): e0327\u2026 [+30802 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.683326",
+      "internal_id": "e51f1e22396e1fe707bc666c79efcb0b827b1dd3759ec2ab3c1170aada0553d3",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22684,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Justin Greene, Katherine L. Cotten, Rhett A. Snyder, Ryan C. Huiszoon, Sangwook Chu, Rezia Era D. Braza, Ashley A. Chapin, Justin M. Stine, William E. Bentley, Reza Ghodssi, Kimberly M. Davis",
+      "title": "Yersinia pseudotuberculosis growth arrest during type-III secretion system expression is associated with altered ribosomal protein expression and decreased gentamicin susceptibility",
+      "description": "Author summary Slow-growing bacterial cells generally have reduced antibiotic susceptibility, rendering them difficult to eliminate during antibiotic treatment. However, for many key virulence factors (bacterial factors required to promote infection), it rema\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012548",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012548.g008&size=inline",
+      "publishedAt": "2025-07-07 14:00:00",
+      "content": "Citation: Greene J, Cotten KL, Snyder RA, Huiszoon RC, Chu S, Braza RED, et al. (2025) Yersinia pseudotuberculosis growth arrest during type-III secretion system expression is associated with altered\u2026 [+73652 chars]",
+      "retrievedAt": "2025-07-08 19:06:09.751199",
+      "internal_id": "1357912506738e311fa0da70444c388252a6f6333f7e5a989588896df1797873",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22662,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "U.S. measles cases reach 33-year record high as outbreaks spread (Lena H. Sun/Washington Post)",
+      "description": "Lena H. Sun / Washington Post: U.S. measles cases reach 33-year record high as outbreaks spread \u2014 Johns Hopkins University data reflects the public health reversal in defeating the vaccine-preventable disease since measles was officially eliminated from the\u2026",
+      "url": "https://www.memeorandum.com/250707/p27",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOX2HJGMSOUFT77TNID5MEFXZU.JPG&w=1440",
+      "publishedAt": "2025-07-07 13:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.356772",
+      "internal_id": "5aa405f4501e7721671d466f2c430ed8c609b187316ce224804eaebfb5278418",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22680,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Dr\u00f4me. Apr\u00e8s celui de Montoison, un nouveau cas de chikungunya d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re",
+      "description": "Un cas de chikungunya, import\u00e9 d\u2019un voyage dans l\u2019Oc\u00e9an indien, a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re, annonce la Ville dans un communiqu\u00e9, ce lundi 7 juillet.",
+      "url": "https://www.ledauphine.com/environnement/2025/07/07/apres-celui-de-montoison-un-nouveau-cas-de-chikungunya-detecte-a-romans-sur-isere",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/201D64D0-5B06-4BE1-9002-2C9FDF866399/FB1200/photo-1751898826.jpg",
+      "publishedAt": "2025-07-07 13:30:00",
+      "content": "Un cas de chikungunya, import\u00e9 d\u2019un voyage dans l\u2019Oc\u00e9an indien, a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Romans-sur-Is\u00e8re, annonce la Ville dans un communiqu\u00e9, ce lundi 7 juillet. Suite \u00e0 la d\u00e9tection du cas, une enqu\u00eate en\u2026 [+885 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.720335",
+      "internal_id": "2283cf7aa62be39b819eba8a4b178539fe51c99336f516caf468e6336aae78dd",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22660,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "U.S. Measles Cases Reach 33-Year High",
+      "description": "\"The United States has reached its highest annual measles case tally in 33 years, hitting at least 1,277 confirmed cases across 38 states and the District of Columbia,\" the Washington Post reports. \"The milestone marks",
+      "url": "https://politicalwire.com/2025/07/07/u-s-measles-cases-reach-33-year-high/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-07-07 13:23:21",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.339389",
+      "internal_id": "f916b128ffa20d69ea0eaab3985ba2cf5391073fd244de0f5dd0d037219a22ca",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22677,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Nahe Baden-W\u00fcrttemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze",
+      "description": "In der N\u00e4he von Stra\u00dfburg hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Die Verbreitung der Tigerm\u00fccke und hohe Temperaturen beg\u00fcnstigen das Vordringen dieses Erregers auch in Deutschland.",
+      "url": "https://www.tagesspiegel.de/wissen/nahe-baden-wurttemberg-chikungunya-infektion-im-elsass-nahe-der-deutschen-grenze-13984076.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13984073/alternates/BASE_16_9_W1400/1751894355000/lokale-infektion-mit-chikungunya-virus-im-elsass-entdeckt.jpeg",
+      "publishedAt": "2025-07-07 13:19:16",
+      "content": "Nur wenige Kilometer von der deutschen Grenze entfernt hat sich in Frankreich ein Mensch mit dem Chikungunya-Virus angesteckt. Wie das Robert Koch-Institut (RKI) mitteilte, wurde die insbesondere von\u2026 [+2441 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.692656",
+      "internal_id": "57ad40fdba304505231a42712d6398b21496c0b5b4b935a1f486652a0b31ffe2",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22679,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Nahe Baden-W\u00fcrttemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze",
+      "description": "In der N\u00e4he von Stra\u00dfburg hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Die Verbreitung der Tigerm\u00fccke und hohe Temperaturen beg\u00fcnstigen das Vordringen dieses Erregers auch in Deutschland.",
+      "url": "https://www.stern.de/panorama/wissen/nahe-baden-wuerttemberg--chikungunya-infektion-im-elsass---nahe-der-deutschen-grenze-35874016.html",
+      "urlToImage": "https://image.stern.de/35874018/t/44/v1/w1440/r1.7778/-/07--3otm3f5amcv9axs2048jpeg---853693051f117b3e.jpg",
+      "publishedAt": "2025-07-07 13:17:15",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen In der N\u00e4he von Stra\u00dfburg hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Die Verbreitung der Tigerm\u00fccke und hohe Temperaturen beg\u00fcnsti\u2026 [+2601 chars]",
+      "retrievedAt": "2025-07-08 19:06:08.711140",
+      "internal_id": "615818da4b1a83756b40680c4721cb3660cdb81f70b582ffd88c067124ad1cde",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22671,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Jos\u00e9 Luis Art\u00fas Tejero",
+      "title": "Aitana lo cuenta todo: \"Entr\u00e9 en el hospital y me dijeron que me quedaba ingresada, me dol\u00eda much\u00edsimo\"",
+      "description": "A escasas horas de que Espa\u00f1a juegue ante B\u00e9lgica su segundo partido de la Eurocopa de Suiza, Aitana Bonmat\u00ed cuenta en una entrevista concedida al diario 'As' todo lo que pas\u00f3 cuando se le diagnostic\u00f3 una meningitis por la que tuvo que ser hospitalizada y que\u2026",
+      "url": "https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250707/1002495919/aitana-cuenta-entre-hospital-me-dijeron-me-quedaba-ingresada-me-dolia.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/07/01/6863b28d48c62.r_d.1497-793-0.jpeg",
+      "publishedAt": "2025-07-07 10:07:38",
+      "content": "A escasas horas de que Espa\u00f1a juegue ante B\u00e9lgica su segundo partido de la Eurocopa de Suiza, Aitana Bonmat\u00ed cuenta en una entrevista concedida al diario 'As' todo lo que pas\u00f3 cuando se le diagnostic\u2026 [+1977 chars]",
+      "retrievedAt": "2025-07-08 19:06:07.468462",
+      "internal_id": "65956beef16fbb524544df1a74d490d6b97e7f74379f7aaf2fa70c4ebe708b76",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22663,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Ashish K Jha, Stephanie Psaki",
+      "title": "Measles: restoring confidence in vaccine information",
+      "description": "Public health must reclaim digital spaces to boost trust Outbreaks of measles, which is both deadly and readily preventable, are symptoms of a global health system in trouble. Between 2022 and 2023, global measles cases increased by 20%, with 57 countries fa\u2026",
+      "url": "https://www.bmj.com/content/390/bmj.r1389",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/389/8466.cover-source.jpg",
+      "publishedAt": "2025-07-07 09:36:10",
+      "content": "Ashish K Jha, dean1, Stephanie Psaki, distinguished senior fellow11Brown University School of Public Health, Providence, Rhode Island, USA Corre\u2026 [+1169 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.372690",
+      "internal_id": "c1de7877e2c6f80a55637630a03ed56ea2ea6e4b786fd874499176f8ff11fe95",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22664,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "N.L. prepares for upcoming Canada Games amid measles outbreaks across the country",
+      "description": "Newfoundland and Labrador's top medical officials are keeping a close eye on the measles as thousands of people from across Canada prepare to travel to St. John's for the Canada Games in August.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/measles-canada-games-newfoundland-1.7577494",
+      "urlToImage": "https://i.cbc.ca/1.7577571.1751652516!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/dr-janice-fitzgerald.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-07-07 08:30:00",
+      "content": "Newfoundland and Labrador's top medical officials are keeping a close eye on measles as thousands of people from across Canada prepare to travel to St. John's for the Canada Games in August. Outbrea\u2026 [+4785 chars]",
+      "retrievedAt": "2025-07-08 19:06:05.419021",
+      "internal_id": "b8c2b16d078145771a517f8beaa736a4ad09e08bbe4dbb97483da93496828094",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22668,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hi-news.ru",
+      "author": "\u0420\u0430\u043c\u0438\u0441 \u0413\u0430\u043d\u0438\u0435\u0432",
+      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0432 \u0421\u0428\u0410 \u0445\u043e\u0442\u044f\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f \u043f\u043e \u0432\u0441\u0435\u043c \u0444\u0435\u0440\u043c\u0430\u043c",
+      "description": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0421\u0428\u0410 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u043b \u043f\u0443\u0441\u0442\u0438\u0442\u044c \u043f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f \u043d\u0430 \u0441\u0430\u043c\u043e\u0442\u0435\u043a. \u0417\u0432\u0443\u0447\u0438\u0442 \u043a\u0430\u043a \u0431\u0435\u0437\u0443\u043c\u0438\u0435, \u043d\u043e \u044d\u0442\u0443 \u0438\u0434\u0435\u044e \u0432\u0441\u0435\u0440\u044c\u0435\u0437 \u043e\u0431\u0441\u0443\u0436\u0434\u0430\u043b\u0438 \u043d\u0430 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0443\u0440\u043e\u0432\u043d\u0435. \u041d\u0435\u0443\u0436\u0435\u043b\u0438 \u044d\u0442\u043e \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u0438\u0434\u0435\u044f?",
+      "url": "https://hi-news.ru/eto-interesno/pochemu-v-ssha-xotyat-rasprostranit-ptichij-gripp-po-vsem-fermam.html",
+      "urlToImage": "https://hi-news.ru/wp-content/uploads/2025/07/chicken_virus_1-1000x526.jpg",
+      "publishedAt": "2025-07-07 07:41:41",
+      "content": ": . -, . H5N1 , - , . ? \u00ab \u00bb , . , H5N1 , , . , , . : . -, . , . , , , . , , . , , -, . , , . \u00ab \u00bb . , H5N1 . . , . . : , , . , . , -. 100 ! , \u00ab \u00bb : , . , , . , .",
+      "retrievedAt": "2025-07-08 19:06:06.614515",
+      "internal_id": "840132061b8aa76acbf439ca69133b5b5f35888082d30d0f9feb587dcf41c9d1",
+      "publishedAtLabel": "Jul 7"
+    },
     {
       "id": 22656,
       "query": [
@@ -19176,150 +19662,6 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21576,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Virginian-Pilot",
-      "author": "The Daily Progress",
-      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
-      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
-      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
-      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 17:26:18",
-      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.311788",
-      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21594,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Liu Fangqiang, Habtamu",
-      "title": "Ethiopia reports first mpox case",
-      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-05-25 17:09:00",
-      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
-      "retrievedAt": "2025-05-26 19:05:56.538122",
-      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21564,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Attila Pelit",
-      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
-      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
-      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
-      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
-      "publishedAt": "2025-05-25 17:00:30",
-      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.197216",
-      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21583,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
-      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
-      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
-      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
-      "publishedAt": "2025-05-25 14:40:28",
-      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.078898",
-      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21591,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
-      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
-      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
-      "publishedAt": "2025-05-25 14:00:41",
-      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
-      "retrievedAt": "2025-05-26 19:05:55.552382",
-      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21585,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Porto Alegre 24 horas",
-      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
-      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
-      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
-      "publishedAt": "2025-05-25 12:16:38",
-      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.406035",
-      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21563,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "Meg Wingerter",
-      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
-      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
-      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 12:00:46",
-      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.188864",
-      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
-      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
-      "publishedAt": "2025-05-25 08:43:49",
-      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.507741",
-      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]
