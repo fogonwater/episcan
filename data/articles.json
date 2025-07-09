@@ -1,8 +1,620 @@
 {
-  "last_updated": "2025-07-09 07:08",
-  "count_articles_total": 1117,
-  "count_articles_new": 19,
+  "last_updated": "2025-07-09 19:06",
+  "count_articles_total": 1143,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 22714,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "CDC ends bird flu emergency (Alejandra O'Connell-Domenech/The Hill)",
+      "description": "Alejandra O'Connell-Domenech / The Hill: CDC ends bird flu emergency \u2014 The Centers for Disease Control and Prevention (CDC) has ended its emergency response to the H5N1 avian flu. \u2014 A spokesperson for the Department of Health and Human Services (HHS) said\u2026",
+      "url": "https://www.memeorandum.com/250708/p94",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/AP23276424031601-e1737816580127.jpg?w=1280",
+      "publishedAt": "2025-07-08 18:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-09 19:06:30.493287",
+      "internal_id": "f3d496e2ed2cfb1577eb3ddf776f5363dbaed486a906d941fd8551fa3c492708",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22707,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "Measles Cases In The U.S. Are At Highest Point Since The Disease Was \u2018Eliminated\u2019 In 2000",
+      "description": "Before immunization was widely available in the United States, there were between three and four million cases of measles each year. After immunization became available, the number of measles cases in the U.S. dropped to a then record-low of just 86 cases bei\u2026",
+      "url": "https://brobible.com/culture/article/measles-cases-us-highest-point-since-eliminated/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/07/Definition-of-measles.jpg",
+      "publishedAt": "2025-07-08 18:24:14",
+      "content": "iStockphoto Audio By Carbonatix Before immunization was widely available in the United States, there were between three and four million cases of measles each year. After immunization became availa\u2026 [+2635 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.623163",
+      "internal_id": "d5e920b6f3d7a732aa30db45fccf6284e7b8f99dcdddb58013258a2981e12119",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22704,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru",
+      "description": "Bengaluru: Bruhat Bengaluru Mahanagara Palike (BBMP) launched LED-mounted mobile vans to spread awareness about rabies across its 243 wards as part of.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117518782,width-1070,height-580,imgsize-94950,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-07-08 18:16:43",
+      "content": "These homes are so expensive, only royals or billionaires have ever lived in them",
+      "retrievedAt": "2025-07-09 19:06:29.095576",
+      "internal_id": "b8638753346b23e51ffb30ee71eb0bb89b78abe93ca1afad91d48b5ffeb03f8e",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22709,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Jonanthan Pitts",
+      "title": "As RFK Jr. pushes to limit vaccines, MMR pioneer defends their lifesaving power",
+      "description": "Dr. Stanley Plotkin calls out HHS secretary: 'He operates on a zero scientific basis'",
+      "url": "https://www.bostonherald.com/2025/07/08/stanley-plotkin-mmr-pioneer-vaccines/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/GettyImages-2202122601.jpg?w=1024&h=682",
+      "publishedAt": "2025-07-08 18:05:51",
+      "content": "German measles, the viral infection known as rubella, devastated families across the United States during its epidemic between 1962 and 1965. It sickened about 12.5 million, ended 11,000 pregnancies,\u2026 [+6895 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.655348",
+      "internal_id": "2d90ee90e5ff7f7b5ab9912521c57195f9c6c0e28a19b20247460a76b775dcb1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22713,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Justin Boggs",
+      "title": "Measles cases skyrocket in US, reaching 33-year high amid vaccination concerns",
+      "description": "Measles cases in the U.S. reach a 33-year high with 1,300 infections across 38 states, mostly in unvaccinated individuals, prompting calls for vaccinations.",
+      "url": "https://www.scrippsnews.com/health/measles-cases-skyrocket-in-us-reaching-33-year-high-amid-vaccination-concerns",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2ea57cd/2147483647/strip/true/crop/5825x3058+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F61%2F4d%2Fdce3614045a2af13cde93391acdf%2Fap25096502247905.jpg",
+      "publishedAt": "2025-07-08 17:53:33",
+      "content": "Measles cases in the United States have surged to a 33-year high, with nearly 1,300 confirmed infections, according to data from Johns Hopkins University. This marks a grim milestone in the ongoing o\u2026 [+2202 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.768174",
+      "internal_id": "978925e2cde3b50e746c1c6911f7bbd513ea5d9a21ef8d4580745f33953d15dd",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22718,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "saidouyameogo3@gmail.com",
+      "title": "dengsurvap-bf 0.1.0",
+      "description": "Client Python pour l'API de surveillance de la dengue",
+      "url": "https://pypi.org/project/dengsurvap-bf/0.1.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-07-08 17:43:02",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-07-09 19:06:30.931252",
+      "internal_id": "b3a02619a3ed75e4e979f64a5b3a113ef9dee3b4017b0f61d388883172f33b2d",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "saidouyameogo3@gmail.com",
+      "title": "dengsurvap-bf added to PyPI",
+      "description": "Client Python pour l'API de surveillance de la dengue",
+      "url": "https://pypi.org/project/dengsurvap-bf/",
+      "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "publishedAt": "2025-07-08 17:43:02",
+      "content": "Client Python officiel pour l'API de surveillance de la dengue Appi. Ce package permet d'acc\u00e9der facilement aux donn\u00e9es \u00e9pid\u00e9miologiques, de g\u00e9rer les alertes et d'effectuer des analyses avanc\u00e9es. \u2026 [+6770 chars]",
+      "retrievedAt": "2025-07-09 19:06:30.947706",
+      "internal_id": "547c2b7950974a171ce111c3a2d34c3143032d26e5926f94f4a8ed9130e01e4d",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22705,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Jessica Hullinger) , Jessica Hullinger",
+      "title": "Measles cases surge to 33-year high",
+      "description": "The infection was declared eliminated from the US in 2000 but has seen a resurgence amid vaccine hesitancy",
+      "url": "https://theweek.com/health/measles-cases-hit-record",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MpMoHDjoKACzoUuExnLbhS.jpg",
+      "publishedAt": "2025-07-08 17:37:40",
+      "content": "What happened The U.S. has reached its highest annual measles cases tally since 1992, with 1,277 confirmed cases across 38 states and the District of Columbia, according to the latest data from the \u2026 [+1781 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.530514",
+      "internal_id": "55eac2e56c327803bbcef72e48a2050395a96666b723ba8ff4d00788deb2f62b",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22708,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themirror.com",
+      "author": "the mirror us",
+      "title": "RFK sued over vaccine changes as measles reaches 33-year high...",
+      "description": "",
+      "url": "https://www.themirror.com/news/health/rfk-sued-doctors-vaccine-measles-1252939",
+      "urlToImage": null,
+      "publishedAt": "2025-07-08 17:00:03",
+      "content": "A coalition of doctors' groups and public health organizations sued the US government on Monday over what they are calling 'unlawful, unilateral vaccine changes' amid measles and flu outbreaks",
+      "retrievedAt": "2025-07-09 19:06:29.646579",
+      "internal_id": "0f8c58701a94eeb8369d2d151dc50e8fe5e78b60559edbf8da069dd6b390a4fc",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22706,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Ashley Lutz, Fortune Intelligence",
+      "title": "America faces worst measles outbreak since 1992 with low-vaccinated Texas at the epicenter",
+      "description": "In total, 38 states and territories have documented cases this year.",
+      "url": "https://fortune.com/2025/07/08/america-faces-worst-measles-outbreak-since-1992-vaccines-texas/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-2202122665-e1743608589457.jpg?resize=1200,600",
+      "publishedAt": "2025-07-08 16:06:52",
+      "content": "Public health officials are sounding the alarm as the nation grapples with a resurgence of a disease once declared eliminated, driven largely by falling vaccination rates and growing vaccine hesitanc\u2026 [+2089 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.606819",
+      "internal_id": "c71abe55cab6bd5e604619165ff72fd875c1770accb05a124a5f38b57629f4e9",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22725,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JAMEY KEATEN Associated Press",
+      "title": "Swiss medicines authority issues first approval for antimalarial drug for treatment of infants",
+      "description": "Switzerland\u2019s medical products authority has granted the first approval for a malaria medicine designed for small infants",
+      "url": "https://abcnews.go.com/Business/wireStory/swiss-medicines-authority-issues-approval-antimalarial-drug-treatment-123570350",
+      "urlToImage": "https://i.abcnewsfe.com/a/5416c2e9-2078-4b9e-b046-6f7da36d8295/wirestory_5c990638a700322d88ddbeea67bda158_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-08 15:58:25",
+      "content": "GENEVA -- Switzerland's medical products authority has granted the first approval for a malaria medicine designed for small infants, touted as an advance against a disease that takes hundreds of thou\u2026 [+3170 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.816923",
+      "internal_id": "5414697ca5966267033200e963258ce02a640760d50a376e87cf308fcc416d75",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22720,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "PNAS Nexus",
+      "title": "Prairie dog genes reveal secrets of plague survival",
+      "description": "A study of the genetic basis of plague immunity in prairie dogs has broad implications for conservation. From white-nose syndrome in bats to avian malaria in Hawaiian birds, introduced pathogens are a major cause of population declines in native species. Many\u2026",
+      "url": "https://phys.org/news/2025-07-prairie-dog-genes-reveal-secrets.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/genes-for-surviving-pl.jpg",
+      "publishedAt": "2025-07-08 14:56:03",
+      "content": "A study of the genetic basis of plague immunity in prairie dogs has broad implications for conservation. From white-nose syndrome in bats to avian malaria in Hawaiian birds, introduced pathogens are \u2026 [+2195 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.744449",
+      "internal_id": "9cb04340e1c226224a9379e439402ea815b7e3e989fcaf87998db17554a632fc",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22722,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Tania Andersen",
+      "title": "Stort gennembrud: Nu kan sp\u00e6db\u00f8rn behandles mod malaria",
+      "description": "Behandlingen ventes at blive rullet ud inden for f\u00e5 uger.",
+      "url": "https://ing.dk/artikel/stort-gennembrud-nu-kan-spaedboern-behandles-mod-malaria",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2025-07/24344667266173-1920x1280web.jpg?itok=WUskwIMo",
+      "publishedAt": "2025-07-08 14:30:00",
+      "content": "Sygdommen malaria kostede med seneste tal fra 2023 597.000 liv, hvor tre fjerdedele var b\u00f8rn under fem \u00e5r. Tidligere blev de mindste behandlet med malaria-medicin, der var rettet mod \u00e6ldre b\u00f8rn, med\u2026 [+268 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.772672",
+      "internal_id": "9fbc5efce086bdd6316c23ce941619cae93ddef0ac74e1f05f3e7ca9190d967c",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22721,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0421\u043e\u0437\u0434\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0432 \u043c\u0438\u0440\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043c\u0430\u043b\u044f\u0440\u0438\u0439\u043d\u044b\u0439 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442 \u0434\u043b\u044f \u043c\u043b\u0430\u0434\u0435\u043d\u0446\u0435\u0432",
+      "description": "\u041e\u0434\u043e\u0431\u0440\u0435\u043d\u043d\u044b\u0445 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432 \u043e\u0442 \u043c\u0430\u043b\u044f\u0440\u0438\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0434\u043b\u044f \u043c\u043b\u0430\u0434\u0435\u043d\u0446\u0435\u0432 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e, \u043d\u043e \u0442\u0435\u043f\u0435\u0440\u044c Novartis \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u043b\u0430 Coartem Baby \u0438\u043b\u0438 Riamet Baby.",
+      "url": "https://korrespondent.net/tech/4797033-sozdan-pervyi-v-myre-protyvomaliaryinyi-preparat-dlia-mladentsev",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4334668.jpeg",
+      "publishedAt": "2025-07-08 14:29:00",
+      "content": ", , . . BBC. , . , , . 2023 , 597 000 . , . , , \u00ab \u00bb. , Novartis, , , . Novartis . , Coartem Baby Riamet Baby, Novartis Medicines for Malaria Venture (MMV), , , , . . , . : 11 .net Telegra\u2026 [+48 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.762054",
+      "internal_id": "47282e4601c6be36de1a58ccbfc80bd02109a5df0b5ad0c6b699bc2e148e93da",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22730,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0421\u0442\u0432\u043e\u0440\u0435\u043d\u043e \u043f\u0435\u0440\u0448\u0438\u0439 \u0443 \u0441\u0432\u0456\u0442\u0456 \u043f\u0440\u043e\u0442\u0438\u043c\u0430\u043b\u044f\u0440\u0456\u0439\u043d\u0438\u0439 \u043f\u0440\u0435\u043f\u0430\u0440\u0430\u0442 \u0434\u043b\u044f \u043d\u0435\u043c\u043e\u0432\u043b\u044f\u0442",
+      "description": "\u0421\u0445\u0432\u0430\u043b\u0435\u043d\u0438\u0445 \u043b\u0456\u043a\u0456\u0432 \u0432\u0456\u0434 \u043c\u0430\u043b\u044f\u0440\u0456\u0457 \u0441\u0430\u043c\u0435 \u0434\u043b\u044f \u043d\u0435\u043c\u043e\u0432\u043b\u044f\u0442 \u0434\u043e\u0441\u0456 \u043d\u0435 \u0456\u0441\u043d\u0443\u0432\u0430\u043b\u043e, \u0430\u043b\u0435 \u0442\u0435\u043f\u0435\u0440 Novartis \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0443\u0432\u0430\u043b\u0430 Coartem Baby \u0430\u0431\u043e Riamet Baby.",
+      "url": "https://ua.korrespondent.net/tech/4797033-stvoreno-pershyi-u-sviti-protymaliariinyi-preparat-dlia-nemovliat",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4334668.jpeg",
+      "publishedAt": "2025-07-08 14:29:00",
+      "content": ", , . . BBC. , . , , . 2023 - , - ' 597 000 . , ' . , , \" \". , Novartis, , , . Novartis . , Coartem Baby Riamet Baby, Novartis Medicines for Malaria Venture (MMV), , , , . . , . : 11 .net\u2026 [+56 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.888059",
+      "internal_id": "491c2e6d20ec6e9369559775702885b837470d5b7c2276c393356ef3c87103c1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22726,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Associated Press",
+      "title": "Swiss medicines authority issues first approval for antimalarial drug for treatment of infants",
+      "description": "GENEVA (AP) \u2014 Switzerland\u2019s medical products authority has granted the first approval for a malaria medicine designed for small infants, touted as a breakthrough against a disease that takes hundreds of thousands of lives \u2014 nearly all in Africa \u2014 each year. S\u2026",
+      "url": "https://financialpost.com/pmn/swiss-medicines-authority-issues-first-approval-for-antimalarial-drug-for-treatment-of-infants",
+      "urlToImage": null,
+      "publishedAt": "2025-07-08 14:20:58",
+      "content": "GENEVA (AP) Switzerlands medical products authority has granted the first approval for a malaria medicine designed for small infants, touted as a breakthrough against a disease that takes hundreds of\u2026 [+4447 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.833703",
+      "internal_id": "a416d636a1da4b22e73601d9c9e1a0662d3317887dda6809b55ecd3537aa1160",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22710,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Measles cases in US reach all-time high after disease was declared 'eliminated': Check symptoms and prevention tips",
+      "description": "Measles in US: US is seeing a surge in number of measles cases since the disease was declared \"eliminated\" in 2000. The US is seeing a worst outbreak of measles cases with 1,277 confirmed cases reported as of July 5. Anti-vaccine messaging and distrust in fed\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-measles-cases-in-us-reach-all-time-high-after-disease-was-declared-eliminated-check-symptoms-and-prevention-tips/articleshow/122323240.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122323278,width-1200,height-630,imgsize-703948,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-08 14:14:49",
+      "content": "The United States has broken its record for the highest number of measles cases in the country since the disease was eliminated in 2000, according to data from the Johns Hopkins University Center for\u2026 [+4531 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.665015",
+      "internal_id": "f4d815be7f48120091c1a6cd2963c0fac842350275ecb799281dabedd2043051",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22724,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Malaria breakthrough for babies",
+      "description": "A new treatment for malaria in babies and very small children has just been approved; we hear more about the drug expected to save many lives. Also in the programme: is Israel's new plan to create a so-called \u201chumanitarian city\u201d for Palestinians in Gaza from\u2026",
+      "url": "https://www.bbc.co.uk/programmes/w172zss4x5vdwf7",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0lnw92n.jpg",
+      "publishedAt": "2025-07-08 14:11:00",
+      "content": "A new treatment for malaria in babies and very small children has just been approved; we hear more about the drug expected to save many lives. Also in the programme: is Israel's new plan to create a\u2026 [+696 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.807815",
+      "internal_id": "32f15ca147615fb3a5c068ccdc3dc589cb55d9acdf80e4efe4d63541653842f7",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22728,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Brianne Roper, Deepika Kannan, Emily S. Mathews, Audrey R. Odom John",
+      "title": "Essential role for PfHSP40 in asexual replication and thermotolerance of malaria parasites",
+      "description": "Author summary Malaria parasites have evolved to survive and cause disease in humans even when they are challenged by the temperature shifts of fever. We are interested in uncovering how malaria parasites persist despite exposure to febrile temperatures. We k\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013313",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013313.g007&size=inline",
+      "publishedAt": "2025-07-08 14:00:00",
+      "content": "Abstract Plasmodium falciparum, the parasite responsible for nearly all cases of severe malaria, must survive challenging environments to persist in its human host. Symptomatic malaria is characteri\u2026 [+60362 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.860651",
+      "internal_id": "eb79ebab9847b124ffb7d84efdf10198fa37dcb5039c2c2272e275c03210f520",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22729,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nutpakal Ketprasit, Chia-Wei Tai, Vivek Kumar Sharma, Yogavel Manickam, Yogesh Khandokar, Xi Ye, Con Dogovski, David H. Hilko, Craig J. Morton, Anne-Sophie C. Braun, Michael G. Leeming, Bagale Siddharam, Gerald J. Shami, P. I. Pradeepkumar, Santosh Panjikar, Sally-Ann Poulsen, Michael D. W. Griffin, Amit Sharma, Leann Tilley, Stanley C. Xie",
+      "title": "Natural product-mediated reaction hijacking mechanism validates Plasmodium aspartyl-tRNA synthetase as an antimalarial drug target",
+      "description": "Author summary Every year, at least 200 million new malaria infections are diagnosed, causing more than 500,000 deaths, mostly in Africa. Increasing levels of resistance to current antimalarials were exacerbated by disruptions to health services during the CO\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013057",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013057.g007&size=inline",
+      "publishedAt": "2025-07-08 14:00:00",
+      "content": "Citation: Ketprasit N, Tai C-W, Sharma VK, Manickam Y, Khandokar Y, Ye X, et al. (2025) Natural product-mediated reaction hijacking mechanism validates Plasmodium aspartyl-tRNA synthetase as an antim\u2026 [+63126 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.870080",
+      "internal_id": "b77d12b88c398d19c1459256e02fe1a210dd73c28d7b2278fc11b257ae577a92",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22736,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Catherine Troman, Samuel T. Horsfield, Dilip Abraham, Venkata Raghava Mohan, Sidhartha Giri, Satheesh Nair, Alexander G. Shaw, Zoe Dyson, Kathryn E. Holt, Nicholas C. Grassly",
+      "title": "Determining genotype and antimicrobial resistance of Salmonella Typhi in environmental samples by amplicon sequencing",
+      "description": "Author summary This study investigated the application of wastewater surveillance for detection of S. Typhi. Wastewater surveillance is of increasing interest for public health as a potential lower-cost alternative or complement to clinical surveillance. As w\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013211",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013211.g004&size=inline",
+      "publishedAt": "2025-07-08 14:00:00",
+      "content": "Abstract Background Estimates of the burden of typhoid fever due to Salmonella enterica serovar Typhi (S. Typhi) rely on data from clinical surveillance, which is rarely done in low income settings\u2026 [+48945 chars]",
+      "retrievedAt": "2025-07-09 19:06:33.110680",
+      "internal_id": "936c182589e0f2309d00736c8aee0ab5d0a1924c8566b4173ddcf1f09bc5e55a",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22737,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dickson A. Musa, Hussaini Majiya, Umar A., Shedrack E. Akor, Salamatu Mambula-Machunga, Harun K. Aremu, Enyo Sule, Samuel E. Abah, Vincent T. Balogu, Andrew C. Iloh, Stella I. Smith",
+      "title": "Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria",
+      "description": "Background This study investigated the prevalence of typhoid fever and the factors contributing to multidrug resistance in Niger State, Nigeria, a region affected by limited sanitation and healthcare access. Methodology A cross-sectional study design was em\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327740.g002&size=inline",
+      "publishedAt": "2025-07-08 14:00:00",
+      "content": "Introduction Typhoid fever remains a significant public health issue in low- and middle-income countries, particularly in sub-Saharan Africa, with an estimated 7.2 million cases annually [1]. A 2024\u2026 [+32082 chars]",
+      "retrievedAt": "2025-07-09 19:06:33.121304",
+      "internal_id": "83210065b9198e322a1610f77d8c6a1d516f41808755a34bea00537f84fbed31",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22734,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : dix cas autochtones d\u00e9tect\u00e9s dans un m\u00eame quartier de Salon-de-Provence",
+      "description": "Deux autres cas ont \u00e9t\u00e9 d\u00e9tect\u00e9s dans la commune de Grans et dans celle de Lambesc portant le bilan \u00e0 \"douze cas autochtones\", ajoute l'ARS.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-dix-cas-autochtones-detectes-dans-un-meme-quartier-de-salon-de-provence_7364985.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/jAw3q_ivTjCDdiuLSAFuEDK57Gg/630x780:4482x2951/1500x843/2025/03/05/maxnewsspecial859469-67c85b7fb763f985437956.jpg",
+      "publishedAt": "2025-07-08 13:54:45",
+      "content": "Dix cas autochtones de Chikungunya ont \u00e9t\u00e9 d\u00e9tect\u00e9s en une quinzaine de jours dans un m\u00eame quartier de Salon-de-Provence (Bouches-du-Rh\u00f4ne), portant \u00e0 douze le nombre de cas autochtones d\u00e9compt\u00e9s dan\u2026 [+1405 chars]",
+      "retrievedAt": "2025-07-09 19:06:32.664815",
+      "internal_id": "5c8f84e0a6fe23fa3cc674b8e03b4e9ff025b580d479233b9ed9e5a588165cd7",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22712,
+      "query": [
+        "measles"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Business Wire",
+      "title": "Vanderbilt Selects Parse Biosciences GigaLab to Generate Atlas of Early Neutralizing Antibodies to Measles, Mumps, and Rubella",
+      "description": "Researchers aim to discover dominant subtypes of plasmablasts initiating from the MMR vaccine in order to develop neutralizing antibody candidate therapies SEATTLE \u2014 The Vanderbilt University Medical Center and Parse Biosciences today announced a strategic co\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/vanderbilt-selects-parse-biosciences-gigalab-to-generate-atlas-of-early-neutralizing-antibodies-to-measles-mumps-and-rubella",
+      "urlToImage": null,
+      "publishedAt": "2025-07-08 12:14:04",
+      "content": "Researchers aim to discover dominant subtypes of plasmablasts initiating from the MMR vaccine in order to develop neutralizing antibody candidate therapies THIS CONTENT IS RESERVED FOR SUBSCRIBERS O\u2026 [+5160 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.728271",
+      "internal_id": "d3b88b0453ac336570074f8721e7a542d4853a5b41ccd0648f51040c9d425fa6",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22711,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "Measles cases reach highest point since the disease was eliminated from U.S. in 2000",
+      "description": "Measles cases in the United States are the highest they\u2019ve been since the country eliminated the disease in 2000.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-cases-reach-highest-point-disease-was-eliminated-us-2000-rcna201421",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-measles-Texas-aa-1111-b3c64a.jpg",
+      "publishedAt": "2025-07-08 11:45:20",
+      "content": "Measles cases in the United States are the highest theyve been since the country eliminated the disease in 2000. The U.S. has reported 1,277 cases since the start of the year, according to NBC News t\u2026 [+4366 chars]",
+      "retrievedAt": "2025-07-09 19:06:29.673673",
+      "internal_id": "2a028f2c4c8def1dbb625a0ca8a5266b30a79f3bb0ed20a0748d95e3b9857a01",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22715,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u092b\u093f\u0930 \u0916\u094b\u0932\u0947 \u0917\u090f \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u0914\u0930 \u0915\u093e\u0928\u092a\u0941\u0930 \u0915\u0947 \u091a\u093f\u095c\u093f\u092f\u093e\u0918\u0930, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u092a\u094d\u0930\u0915\u094b\u092a \u0915\u0947 \u0915\u093e\u0930\u0923 56 \u0926\u093f\u0928 \u0938\u0947 \u0925\u0947 \u092c\u0902\u0926",
+      "description": "\u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u091a\u0932\u0924\u0947 56 \u0926\u093f\u0928\u094b\u0902 \u0924\u0915 \u092c\u0902\u0926 \u0930\u0939\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u0914\u0930 \u0915\u093e\u0928\u092a\u0941\u0930 \u0915\u0947 \u091a\u093f\u0921\u093c\u093f\u092f\u093e\u0918\u0930 \u0906\u091c \u092b\u093f\u0930 \u0938\u0947 \u0916\u0941\u0932 \u0917\u090f. \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0928\u0947 \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092e\u0947\u0902 \u0926\u094b \u092c\u093e\u0918\u094b\u0902, \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 \u0914\u0930 \u090f\u0915 \u0938\u0947\u0935\u0932 \u0938\u0939\u093f\u0924 \u091a\u093e\u0930 \u092c\u0921\u093c\u0940 \u092c\u093f\u0932\u094d\u0932\u093f\u092f\u094b\u0902 \u0914\u0930 \u0915\u093e\u0928\u092a\u0941\u0930 \u092e\u0947\u0902 \u090f\u0915 \u092e\u094b\u0930 \u0914\u0930 \u090f\u0915 \u090f\u0936\u093f\u092f\u093e\u0908 \u0936\u0947\u0930 \u0915\u0940 \u091c\u093e\u0928 \u0932\u0947 \u0932\u0940 \u0925\u0940.",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/zoos-of-gorakhpur-and-kanpur-reopened-were-closed-for-56-days-due-to-bird-flu-outbreak-lclam-dskc-2282694-2025-07-08",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202507/686cfe9e36c9e-kanpur-zoo-reopened-081848475-16x9.jpg",
+      "publishedAt": "2025-07-08 11:21:00",
+      "content": "56 . , . , H5N1 13 . . : - , . - , -- . - . (NIHSAD) 72 . 4 7 . : , , 7 , NIHSAD, 26 17 . . - . . , , . : ! 9 . , \" .\" , 9 11 400 . , \" .\"",
+      "retrievedAt": "2025-07-09 19:06:30.502549",
+      "internal_id": "295a3f84f80272fe0f5a6487f40420fa815aa0b577bf88e109a6dcdcd08ce9d8",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22732,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Lison Chambe",
+      "title": "Sant\u00e9. Chikungunya dans la r\u00e9gion : \u201cPartout o\u00f9 le moustique tigre existe, il y a un risque\u201d",
+      "description": "Deux cas dans la Dr\u00f4me, un suspect\u00e9 en Is\u00e8re, ces derni\u00e8res semaines, les cas de Chikungunya se multiplient dans la r\u00e9gion. Si des op\u00e9rations de traitement ont tout de suite \u00e9t\u00e9 mises en place, aujourd\u2019hui le risque d\u2019apparition du chikungunya est conditionn\u00e9\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/07/08/chikungunya-dans-la-region-partout-ou-le-moustique-tigre-existe-il-y-a-un-risque",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/0DFA6C55-2BA0-40F7-86DE-E7ED01CBC4C1/FB1200/photo-1751972473.jpg",
+      "publishedAt": "2025-07-08 11:20:00",
+      "content": "\u00ab On l\u2019appelle aussi la \"maladie de l\u2019homme courb\u00e9\" car elle provoque de tr\u00e8s fortes douleurs aux articulations, parfois m\u00eame paralysantes \u00bb, explique Dominique Soulanc\u00e9, g\u00e9ographe de la sant\u00e9. Ce m\u2026 [+4855 chars]",
+      "retrievedAt": "2025-07-09 19:06:32.631327",
+      "internal_id": "162ba293287f0f28521f14d5dc79fad9b953737c6a68872650b50e6dc244a5fa",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22717,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "MediaNama.com",
+      "author": "Chaitanya Kohli",
+      "title": "Andhra Pradesh To Launch AI-Driven Mosquito Surveillance System",
+      "description": "Andhra Pradesh deploys AI to track mosquitoes and prevent dengue outbreaks during the monsoon. The post Andhra Pradesh To Launch AI-Driven Mosquito Surveillance System appeared first on MEDIANAMA.",
+      "url": "https://www.medianama.com/2025/07/223-andhra-pradesh-ai-mosquito-surveillance/",
+      "urlToImage": "https://www.medianama.com/wp-content/uploads/2025/07/Gemini_Generated_Image_pyob4mpyob4mpyob-scaled.png",
+      "publishedAt": "2025-07-08 10:57:17",
+      "content": "Andhra Pradesh is launching an AI-powered Smart Mosquito Surveillance System (SMoSS) in 66 locations spanning six municipal corporations namely Visakhapatnam, Vijayawada, Kakinada, Rajamahendravaram,\u2026 [+3990 chars]",
+      "retrievedAt": "2025-07-09 19:06:30.914817",
+      "internal_id": "4e94adc2317b8950b4d6535c5efad5efced66063232219ca58bdd2c688bd104b",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22723,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c6\u03c9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bf\u03bd\u03bf\u03c3\u03af\u03b1\u03c2 \u03b5\u03b9\u03b4\u03b9\u03ba\u03ac \u03b3\u03b9\u03b1 \u03b2\u03c1\u03ad\u03c6\u03b7 - \u03a6\u03c4\u03ac\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b7\u03bd \u0391\u03c6\u03c1\u03b9\u03ba\u03ae \u03b5\u03bd\u03c4\u03cc\u03c2 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03c9\u03bd",
+      "description": "\u03a4\u03bf \u03bd\u03ad\u03bf \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03bf \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03b5\u03b9 \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae \u03bb\u03cd\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03bd\u03b5\u03bf\u03b3\u03bd\u03ac \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 4,5 \u03ba\u03b9\u03bb\u03ce\u03bd, \u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03bd\u03c4\u03b1\u03c2 \u03ba\u03c1\u03af\u03c3\u03b9\u03bc\u03bf \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u03ba\u03b5\u03bd\u03cc \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 75% \u03c4\u03c9\u03bd \u03b8\u03c5\u03bc\u03ac\u03c4\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 5 \u03b5\u03c4\u03ce\u03bd",
+      "url": "https://www.skai.gr/news/health/elonosia-prasino-fos-gia-tin-proti-therapeia-eidika-gia-vrefi",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/elonosia-ap.jpg?itok=oOmCUK4-",
+      "publishedAt": "2025-07-08 10:09:45",
+      "content": ", Novartis. . BBC, . , , . 597.000 2023 75% 5 2023, 597.000, . , 75% 5 , 4,5 . , Coartem BabyRiamet Baby, Novartis Medicines for Malaria Venture (MMV). , , . . \u00ab \u00bb Novartis, Vas Narasimha\u2026 [+161 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.782883",
+      "internal_id": "e56a59e0c230a5ec4af0bc50920b83853773e53989a99c5a717013e0018ace53",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22731,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Ralf Klostermann",
+      "title": "Chikungunya - Tropen-Virus an deutscher Grenze aufgetaucht",
+      "description": "Infektion des Chikungunya-Virus nahe der deutschen Grenze im Elsass. Der Betroffene wurde durch M\u00fcckenstich infiziert.",
+      "url": "https://www.bild.de/leben-wissen/medizin/chikungunya-virus-wie-sie-sich-schuetzen-welche-regionen-betroffen-sind-686cd469d009353a0c9638a3",
+      "urlToImage": "https://images.bild.de/686cd469d009353a0c9638a3/c3bca59e6912827a1bccddc9a1561969,736478cb?w=1280",
+      "publishedAt": "2025-07-08 09:51:50",
+      "content": "Um den TTS Player darzustellen, brauchen wir deine Zustimmung. externen Inhalt aktivieren Um eingebettete Inhalte anzuzeigen, ist Ihre jederzeit widerrufliche Einwilligung (\u00fcber den Schalter oder \u2026 [+2650 chars]",
+      "retrievedAt": "2025-07-09 19:06:32.582726",
+      "internal_id": "e5b1b0c53e05d9be8de1a9bf9e31cadd56ea6c666ed0cd26650e080ec4f031d1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22716,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "ABC 12 News",
+      "author": "Seth Wenig/ap Via Cnn Newsource",
+      "title": "CDC ends emergency response to H5N1 bird flu",
+      "description": "The U.S. Centers for Disease Control and Prevention says it has ended its emergency response to H5N1 bird flu, citing a drop in cases.",
+      "url": "https://www.abc12.com/news/health/cdc-ends-emergency-response-to-h5n1-bird-flu/article_80656eb0-c64f-5d80-a26b-0d7d7ac2ed00.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/9/e1/9e17f4ae-aa20-53a2-a20a-d976537065db/686c6b113b728.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-08 09:14:36",
+      "content": "The U.S. Centers for Disease Control and Prevention says it has ended its emergency response to H5N1 bird flu, citing a drop in cases. \"As reports of animal infections with avian influenza A(H5N1) v\u2026 [+2543 chars]",
+      "retrievedAt": "2025-07-09 19:06:30.518890",
+      "internal_id": "4b67f5dcda13f1f4fd213a19a96fc6457b54b22347bbffe358cb8b7db32302d3",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22735,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Antoine Belhassen",
+      "title": "Un cas autochtone de chikungunya suspect\u00e9 pr\u00e8s de Grenoble, le secteur sera d\u00e9moustiqu\u00e9",
+      "description": "Un cas autochtone de chikungunya est suspect\u00e9 sur la commune de Claix (Is\u00e8re), pr\u00e8s de Grenoble, a indiqu\u00e9 l'Agence r\u00e9gionale de sant\u00e9 (ARS) ce lundi 7 juillet. Une op\u00e9ration de d\u00e9moustification sera men\u00e9e dans la nuit de ce mardi \u00e0 mercredi.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-cas-autochtone-de-chikungunya-suspecte-pres-de-grenoble-le-secteur-sera-demoustique-3184737.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/eMQaJFw4BQElQLw6thefL7ajLJU/930x620/regions/2025/07/08/080-hl-nguyonnet-2519933-686cd9dacdcdf812075292.jpg",
+      "publishedAt": "2025-07-08 09:08:54",
+      "content": "Un cas autochtone de chikungunya est suspect\u00e9 sur la commune de Claix (Is\u00e8re), pr\u00e8s de Grenoble, a indiqu\u00e9 l'Agence r\u00e9gionale de sant\u00e9 (ARS) ce lundi 7 juillet. Une op\u00e9ration de d\u00e9moustification sera\u2026 [+2307 chars]",
+      "retrievedAt": "2025-07-09 19:06:32.673514",
+      "internal_id": "14796c29dc7e234480eb9a0e1e125a83aa1c396b2665cea7a25596a99d654eaa",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22727,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Megan Harwood-Baynes",
+      "title": "First malaria treatment for babies and infants approved for use",
+      "description": "The first malaria treatment for babies and young children has been approved for use.",
+      "url": "https://news.sky.com/story/first-malaria-treatment-for-babies-and-infants-approved-for-use-13393951",
+      "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-malaria-treatment_6959947.jpg?20250708104059",
+      "publishedAt": "2025-07-08 09:08:00",
+      "content": "The first malaria treatment for babies and young children has been approved for use. The treatment is dissolvable, including in breast milk, and has a sweet cherry flavour to make it easier to admin\u2026 [+1542 chars]",
+      "retrievedAt": "2025-07-09 19:06:31.851445",
+      "internal_id": "2130ea11c7b87d9407353d8b994f19dc72feaf1a37a181d01897dd24b2e8731b",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22733,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Is\u00e8re. Une suspicion de cas de chikungunya \u00e0 Claix : une d\u00e9moustication programm\u00e9e dans la nuit du 8 au 9 juillet",
+      "description": "Apr\u00e8s un premier cas - puis deux autres - confirm\u00e9s fin juin et d\u00e9but juillet dans la Dr\u00f4me, le chikungunya fait peut-\u00eatre son apparition en Is\u00e8re.",
+      "url": "https://www.ledauphine.com/sante/2025/07/08/isere-une-suspicion-de-cas-de-chikungunya-a-claix-une-demoustication-programmee-dans-la-nuit-du-8-au-9-juillet",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/4413CAA8-CD14-4F5D-BF4D-2C86B032496C/FB1200/photo-1751965021.jpg",
+      "publishedAt": "2025-07-08 08:59:00",
+      "content": "Apr\u00e8s un premier cas - puis deux autres - confirm\u00e9s fin juin et d\u00e9but juillet dans la Dr\u00f4me, le chikungunya fait peut-\u00eatre son apparition en Is\u00e8re. L\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) vient en effet d\u2019\u2026 [+1984 chars]",
+      "retrievedAt": "2025-07-09 19:06:32.647701",
+      "internal_id": "aa297bbc412837d56a50bebf4f79809dbfd9b4a9f4ea3599c370a8a1f035d6e7",
+      "publishedAtLabel": "Jul 8"
+    },
     {
       "id": 22700,
       "query": [
@@ -20006,150 +20618,6 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21576,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Virginian-Pilot",
-      "author": "The Daily Progress",
-      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
-      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
-      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
-      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 17:26:18",
-      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.311788",
-      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21594,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Liu Fangqiang, Habtamu",
-      "title": "Ethiopia reports first mpox case",
-      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-05-25 17:09:00",
-      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
-      "retrievedAt": "2025-05-26 19:05:56.538122",
-      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21564,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Attila Pelit",
-      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
-      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
-      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
-      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
-      "publishedAt": "2025-05-25 17:00:30",
-      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.197216",
-      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21583,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
-      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
-      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
-      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
-      "publishedAt": "2025-05-25 14:40:28",
-      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.078898",
-      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21591,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
-      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
-      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
-      "publishedAt": "2025-05-25 14:00:41",
-      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
-      "retrievedAt": "2025-05-26 19:05:55.552382",
-      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21585,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Porto Alegre 24 horas",
-      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
-      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
-      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
-      "publishedAt": "2025-05-25 12:16:38",
-      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.406035",
-      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21563,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "Meg Wingerter",
-      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
-      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
-      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 12:00:46",
-      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.188864",
-      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
-      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
-      "publishedAt": "2025-05-25 08:43:49",
-      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.507741",
-      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]
