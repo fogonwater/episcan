@@ -1,8 +1,352 @@
 {
-  "last_updated": "2025-07-08 19:06",
-  "count_articles_total": 1090,
-  "count_articles_new": 27,
+  "last_updated": "2025-07-09 07:08",
+  "count_articles_total": 1117,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 22700,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Voor het eerst wordt behandeling malaria bij baby's goedgekeurd",
+      "description": "Novartis heeft in thuisland Zwitserland goedkeuring gekregen voor een behandeling van malaria bij baby's.",
+      "url": "https://www.nieuwsblad.be/nieuws/voor-het-eerst-wordt-behandeling-malaria-bij-babys-goedgekeurd/76378509.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/6e06zl-een-mug-op-een-arm/alternates/SIXTEEN_NINE_1200/Een%20mug%20op%20een%20arm",
+      "publishedAt": "2025-07-08 06:48:45",
+      "content": "De Zwitserse geneesmiddelenwaakhond keurde de behandeling goed voor pasgeborenen van minder dan 4,5 kilogram. Novartis gaat ervan uit dat acht Afrikaanse landen ook groen licht zullen geven. Tot op\u2026 [+347 chars]",
+      "retrievedAt": "2025-07-09 07:08:30.167634",
+      "internal_id": "6bc8beb2da98788d69e321564267a0c0c9887d9e00fd3481bfd97036ec7c32fc",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22703,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Dominic Hughes",
+      "title": "First malaria vaccine for babies approved for use",
+      "description": "Until now, there had only been a vaccine for older children which carried an overdose risk for the young.",
+      "url": "https://www.bbc.co.uk/news/articles/c89e872jdjxo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f707/live/045c7fc0-5b44-11f0-b376-d3bebe05d078.jpg",
+      "publishedAt": "2025-07-08 06:29:32",
+      "content": "The company's chief executive, Vas Narasimhan, says this is an important moment. \"For more than three decades, we have stayed the course in the fight against malaria, working relentlessly to deliver\u2026 [+1857 chars]",
+      "retrievedAt": "2025-07-09 07:08:30.208849",
+      "internal_id": "b7f5eb9b969805ddb621df664fe8b6a3328765499d72a7ac8f8b2337bb849de3",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22699,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "F\u00f8rste malariavaccine til babyer og sm\u00e5 b\u00f8rn er godkendt til brug",
+      "description": "For f\u00f8rste gang er en vaccine mod malaria godkendt til brug hos babyer og sm\u00e5 b\u00f8rn.",
+      "url": "https://www.dr.dk/nyheder/seneste/foerste-malariavaccine-til-babyer-og-smaa-boern-er-godkendt-til-brug",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-07-08 06:01:00",
+      "content": "Rusland og Sydafrika svarer nu igen, efter USA's pr\u00e6sident, Donald Trump, tidligere i dag langede ud efter BRIKS-landene i et opslag p\u00e5 Truth Social. Trump skrev, at han vil p\u00e5l\u00e6gge ethvert land, de\u2026 [+685 chars]",
+      "retrievedAt": "2025-07-09 07:08:30.158870",
+      "internal_id": "a7fac0d231d7068c8f73f3dfe930492665d2bbf65a189cbe8fc2c4de42390f0a",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22702,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Novartis gets approval for first malaria drug for babies and children",
+      "description": "Novartis has secured approval in Switzerland for Coartem Baby, a groundbreaking medication designed to treat malaria in babies and young children. Eight African nations, including Burkina Faso and Nigeria, are expected to swiftly approve the treatment, known \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/business/novartis-gets-approval-for-first-malaria-drug-for-babies-and-children/articleshow/122312871.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122312904,width-1200,height-630,imgsize-26408,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-08 05:58:18",
+      "content": "Novartis on Tuesday said it had received approval in Switzerland for Coartem Baby, which it said was the first drug to treat malaria in babies and young children.Eight African countries who participa\u2026 [+948 chars]",
+      "retrievedAt": "2025-07-09 07:08:30.192776",
+      "internal_id": "b666b66d8b0541e18ae161f652fa2306fcac5048206c6cad2b320d31c78de1c7",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22698,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "First malaria treatment for babies approved for use",
+      "description": "Until now, there had only been a vaccine for older children which carried an overdose risk for the young.",
+      "url": "https://www.bbc.com/news/articles/c89e872jdjxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f707/live/045c7fc0-5b44-11f0-b376-d3bebe05d078.jpg",
+      "publishedAt": "2025-07-08 05:15:08",
+      "content": "Dominic HughesGlobal Health Correspondent The first malaria treatment suitable for babies and very young children has been approved for use. It's expected to be rolled out in African countries with\u2026 [+3267 chars]",
+      "retrievedAt": "2025-07-09 07:08:30.149528",
+      "internal_id": "5bccb698a86be0810b62a8295f3f9dc1520661e6bd43596cbc997a4b25c414d8",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22701,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Novartis Pharma  AG",
+      "title": "Novartis receives approval for first malaria medicine for newborn babies and young infants",
+      "description": "Basel, July 8, 2025 \u2013 Novartis today announced Coartem\u00ae (artemether-lumefantrine) Baby has been approved by Swissmedic as the first malaria medicine for newborns and young infants. The new treatment, also known as Riamet\u00ae Baby in some countries, was developed\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/08/3111436/0/en/Novartis-receives-approval-for-first-malaria-medicine-for-newborn-babies-and-young-infants.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/5d242013-5d1f-440c-8ba6-3b5d3799b035",
+      "publishedAt": "2025-07-08 05:15:00",
+      "content": "Coartem\u00ae (artemether-lumefantrine) Baby becomes first malaria treatment approved for newborn babies and young infantsRapid approvals in eight African countries now expected \u2026 [+10131 chars]",
+      "retrievedAt": "2025-07-09 07:08:30.176673",
+      "internal_id": "297e845f2ada4670c4e50b2787ff192e2fdd2c2076e484d4753603cf9e4f60f6",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22686,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "RFK\u2019s mass murder event",
+      "description": "And, hence, the Republican Party\u2019s: There have been 1,267 confirmed cases of measles in the U.S. this year, almost 4.5 times the total for all of last year and on track to pass the highest annual count since the disease was declared eliminated in 2000, accord\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/07/rfks-mass-murder-event",
+      "urlToImage": null,
+      "publishedAt": "2025-07-08 04:03:10",
+      "content": "And, hence, the Republican Party\u2019s: There have been 1,267 confirmed cases of measles in the U.S. this year, almost 4.5 times the total for all of last year and on track to pass the highest annual co\u2026 [+1070 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.549388",
+      "internal_id": "2872de0e909a257f6dc27a162053c7996ae7de9037f8e7ef1b4d157c801ce5e1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22695,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "De nouvelles armes dans la lutte contre les moustiques et les maladies qu\u2019ils transmettent",
+      "description": "Les m\u00e9thodes traditionnelles pour endiguer le chikungunya, la dengue et le virus Zika, propag\u00e9s par les moustiques en m\u00e9tropole et dans les outre-mer, montrent leurs limites. De nouvelles techniques sont exp\u00e9riment\u00e9es, avec, pour certaines, des r\u00e9sultats prob\u2026",
+      "url": "https://www.lemonde.fr/planete/article/2025/07/08/de-nouvelles-armes-dans-la-lutte-contre-les-moustiques-et-les-maladies-qu-ils-transmettent_6619818_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/07/04/0/0/4252/2834/1440/960/60/0/7d30663_upload-1-ozlne0sk4osr-maxnewsspecialtwo212483.jpg",
+      "publishedAt": "2025-07-08 03:00:18",
+      "content": "L\u00e2cher de moustiques-tigres st\u00e9riles par la soci\u00e9t\u00e9 Terratis, \u00e0 Brive-la-Gaillarde (Corr\u00e8ze), le 13 mai 2025. ST\u00c9PHANIE PARA/LA MONTAGNE/MAXPPP Cette ann\u00e9e, le chikungunya fait une entr\u00e9e fracassant\u2026 [+1199 chars]",
+      "retrievedAt": "2025-07-09 07:08:29.099794",
+      "internal_id": "0a19f1d1d10b4414c02c995020051ae005bb0af9e7d5c9bf5445aebfec064e2e",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22693,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre chega a 22 mortes por dengue em 2025",
+      "description": "A Diretoria de Vigil\u00e2ncia em Sa\u00fade de Porto Alegre confirmou, na \u00faltima Sexta-Feira (4), a ...",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-chega-a-22-mortes-por-dengue-em-2025,941461f63b49c8d5dc2ceec9b424f8fd16ncygp5.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/07/07/569905800-161733372065245gdo.jpeg",
+      "publishedAt": "2025-07-07 23:48:46",
+      "content": "A Diretoria de Vigil\u00e2ncia em Sa\u00fade de Porto Alegre confirmou, na \u00faltima Sexta-Feira (4), a vig\u00e9sima primeira e a vig\u00e9sima segunda mortes pela doen\u00e7a neste ano. Ambas as v\u00edtimas, uma mulher de 95 anos\u2026 [+706 chars]",
+      "retrievedAt": "2025-07-09 07:08:29.081816",
+      "internal_id": "f7b6fa48bfafe73f2d453d2302c9550568c5e15414cab9f89ab5790d3897ed3c",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22689,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lexington Herald Leader",
+      "author": "Valarie Honeycutt Spears",
+      "title": "Four new cases of measles in Fayette County; eight now tied to Central KY outbreak",
+      "description": "As of July 7, there were eight confirmed cases of the measles virus connected to an outbreak in Woodford and Fayette counties.",
+      "url": "https://www.kentucky.com/news/health-and-medicine/article310171055.html",
+      "urlToImage": "https://media.zenfs.com/en/lexington_herald_leader_mcclatchy_articles_314/92e1b21b24230f6f03ed6f54c908dac5",
+      "publishedAt": "2025-07-07 22:26:58",
+      "content": "The measles outbreak in Central Kentucky is growing. As of July 7, there were eight confirmed cases of the highly contagious measles virus connected to an outbreak in Woodford and Fayette counties, \u2026 [+1635 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.604019",
+      "internal_id": "dc9004246b8a812c9a0a0fbec3d6672e95814178bc293fd7315c2b89b1dc3420",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22691,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba Health warns of possible measles exposure at Winkler clinic last week",
+      "description": "Members of the public who were at the Winkler Medical Clinic in Winkler, Man., last Wednesday may have been exposed to measles, Manitoba Health warned on Monday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/public-health-winkler-medical-clinic-measles-1.7579267",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-07 22:20:54",
+      "content": "Members of the public who were at the Winkler Medical Clinic in Winkler, Man., last Wednesday may have been exposed to measles, Manitoba Health warned on Monday. Anyone who was at the 1st Street cl\u2026 [+840 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.629252",
+      "internal_id": "cfda4206a065f3ce0324d3e9819bc7caca7afedefa992b02cf499a4f0ed1e773",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22692,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sarah Owermohle",
+      "title": "CDC ends emergency response to H5N1 bird flu | CNN",
+      "description": "The US Centers for Disease Control and Prevention says it has ended its emergency response to H5N1 bird flu, citing a drop in cases.",
+      "url": "https://www.cnn.com/2025/07/07/health/cdc-bird-flu-response",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25147505050149.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-07 22:07:12",
+      "content": "The US Centers for Disease Control and Prevention says it has ended its emergency response to H5N1 bird flu, citing a drop in cases. As reports of animal infections with avian influenza A(H5N1) viru\u2026 [+2415 chars]",
+      "retrievedAt": "2025-07-09 07:08:28.530246",
+      "internal_id": "ad2e78d814d6f5685cde3d24f0827abf9130d1a7fa8cf2a5c650f28fcdaee732",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22685,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "U.S. measles epidemic its worst of 21st century",
+      "description": "The United States in 2025 has recorded its worst measles epidemic in more than 30 years, according to a count released Monday by Johns Hopkins University, highlighting a crisis that President Donald Trump's vaccine-skeptic U.S. health secretary is accused of \u2026",
+      "url": "https://japantoday.com/category/world/us-measles-epidemic-its-worst-of-21st-century",
+      "urlToImage": null,
+      "publishedAt": "2025-07-07 21:44:49",
+      "content": "The United States in 2025 has recorded its worst measles epidemic in more than 30 years, according to a count released Monday by Johns Hopkins University, highlighting a crisis that President Donald \u2026 [+1962 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.518140",
+      "internal_id": "366f1656bb639269342ba94e08c63d4ede55a6ae9b9263298dc19f09832727ce",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22697,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": null,
+      "title": "Doctors alarmed at rising meningitis cases in Gaza\u2019s children",
+      "description": "A 16-month-old Palestinian baby is among a growing number of children in Gaza suffering from meningitis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/7/7/doctors-alarmed-at-rising-meningitis-cases-in-gazas-children-2",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1751923784.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-07-07 21:30:18",
+      "content": "NewsFeed A 16-month-old Palestinian baby is among a growing number of children in Gaza suffering from meningitis, as overcrowding, poor sanitation, and collapsing healthcare caused by Israels war on\u2026 [+35 chars]",
+      "retrievedAt": "2025-07-09 07:08:29.463999",
+      "internal_id": "c1a65d37447a1eca9402257b7c033af312b73d4ad5b1e6fd97144ad9cb998580",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22688,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "US measles cases surge to highest since disease was 'eliminated' (Nathaniel Weixel/The Hill)",
+      "description": "Nathaniel Weixel / The Hill: US measles cases surge to highest since disease was \u2018eliminated\u2019 \u2014 The United States has broken its record for the highest number of measles cases in the country since the disease was eliminated in 2000. \u2014 It comes amid fallin\u2026",
+      "url": "https://www.memeorandum.com/250707/p93",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/06/AP25141591523188-e1750266531938.jpg?w=1280",
+      "publishedAt": "2025-07-07 21:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.581223",
+      "internal_id": "e522fd297d3c5acdab81978e2afb3baa36d9491f0f5ed09a4f3232198adbe26d",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22690,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles case detected in Pictou County",
+      "description": "Nova Scotia Health says the northern zone case is believed to be connected to travel within Canada. Public Health says there are also \"additional contacts who are also ill with measles-like symptoms.\"",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/measles-case-detected-in-pictou-county-northern-zone-1.7579033",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-07 19:59:40",
+      "content": "Nova Scotia Health is investigating a lab-confirmed case of measles in Pictou County and suggests there could be more cases, with \"additional contacts who are also ill with measles-like symptoms.\" I\u2026 [+1412 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.620267",
+      "internal_id": "ad2b37616f11536f44e37bcbee66b782b41412613cb4db75674e46a86a49936a",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22696,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Orlando Sentinel",
+      "author": "Kff Health News",
+      "title": "As mosquito season peaks, officials brace for new normal of dengue cases",
+      "description": "Health and vector control officials are bracing for another year of historic rates of dengue.",
+      "url": "https://www.orlandosentinel.com/2025/07/07/dengue-cases-new-normal/",
+      "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2025/07/US-NEWS-HEALTH-DENGUE-GET.jpg?w=1024&h=682",
+      "publishedAt": "2025-07-07 19:56:27",
+      "content": "Phillip Reese, KFF Health News As summer ushers in peak mosquito season, health and vector control officials are bracing for the possibility of another year of historic rates of dengue. And with cli\u2026 [+6787 chars]",
+      "retrievedAt": "2025-07-09 07:08:29.132576",
+      "internal_id": "3875078de2e231127f2a8ff0b111b524bf7de300d3def3c1a58664a11c74ff4d",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22694,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Kff Health News",
+      "title": "As mosquito season peaks, officials brace for new normal of dengue cases",
+      "description": "Health and vector control officials are bracing for another year of historic rates of dengue.",
+      "url": "https://www.bostonherald.com/2025/07/07/dengue-cases-new-normal/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/US-NEWS-HEALTH-DENGUE-GET.jpg?w=1024&h=682",
+      "publishedAt": "2025-07-07 19:52:46",
+      "content": "Phillip Reese, KFF Health News As summer ushers in peak mosquito season, health and vector control officials are bracing for the possibility of another year of historic rates of dengue. And with cli\u2026 [+6787 chars]",
+      "retrievedAt": "2025-07-09 07:08:29.090848",
+      "internal_id": "9fb2b4fc2473441c7c71baddb173452766943b7001ead368221d734f28f10fb1",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 22687,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Northern Health warns of possible measles exposure at prenatal clinic in Fort St. John",
+      "description": "Northern Health says the potential exposure happened at Fort St. John Prenatal Clinic on June 27, between 10:30 a.m. and 1:15 p.m. It's the latest of numerous cases reported in the region in recent weeks.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/potential-measles-exposure-fort-st-john-northern-health-1.7579041",
+      "urlToImage": "https://i.cbc.ca/1.7508947.1744474099!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-07 19:51:28",
+      "content": "Northern Health is warning residents of a potential measles exposure at a prenatal clinic in the Fort St. John, B.C., area. In a social media post, the health authority said the potential exposure \u2026 [+2491 chars]",
+      "retrievedAt": "2025-07-09 07:08:27.565400",
+      "internal_id": "8d5e1d960258b30fb9773743fc4a681a9c365344c8b0323a7ed0b2802abd835d",
+      "publishedAtLabel": "Jul 7"
+    },
     {
       "id": 22658,
       "query": [
@@ -19662,6 +20006,150 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21576,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Virginian-Pilot",
+      "author": "The Daily Progress",
+      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
+      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
+      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
+      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 17:26:18",
+      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.311788",
+      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Ethiopia reports first mpox case",
+      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-25 17:09:00",
+      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
+      "retrievedAt": "2025-05-26 19:05:56.538122",
+      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Attila Pelit",
+      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
+      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
+      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
+      "publishedAt": "2025-05-25 17:00:30",
+      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.197216",
+      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21583,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
+      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
+      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
+      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
+      "publishedAt": "2025-05-25 14:40:28",
+      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.078898",
+      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
+      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
+      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
+      "publishedAt": "2025-05-25 14:00:41",
+      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
+      "retrievedAt": "2025-05-26 19:05:55.552382",
+      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
+      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
+      "publishedAt": "2025-05-25 12:16:38",
+      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.406035",
+      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
+      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
+      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 12:00:46",
+      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.188864",
+      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
+      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
+      "publishedAt": "2025-05-25 08:43:49",
+      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.507741",
+      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]
