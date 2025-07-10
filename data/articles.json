@@ -1,8 +1,280 @@
 {
-  "last_updated": "2025-07-09 19:06",
-  "count_articles_total": 1143,
-  "count_articles_new": 34,
+  "last_updated": "2025-07-10 07:08",
+  "count_articles_total": 1166,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 22746,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Chikungunya-Fall an deutscher Grenze: Was Sie \u00fcber das Tropenvirus wissen sollten",
+      "description": "Im Elsass, an der Grenze zu Deutschland, hat sich ein Mensch mit dem von der Tigerm\u00fccke \u00fcbertragenen Chikungunya-Virus angesteckt. Ein Experte verr\u00e4t, ob sich das Virus auch in Deutschland ausbreitet und wie Sie sich gegen die M\u00fccke sch\u00fctzen.",
+      "url": "https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/b0a4430b-f101-42a3-812e-1baa06881e7d.8b8d55c2-bd7f-4803-8401-16ff29ebf464.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%28394%2C231%29&hash=f8d05d57e10fb08ec23224350ff3b0c71b8d9ebeb66f4f6497fa49da84e6e759",
+      "publishedAt": "2025-07-09 06:59:10",
+      "content": "Tropenviren wie Dengue, Gelbfieber und Hanta sind hierzulande nicht unbekannt. Vom Chikungunya-Virus haben viele dagegen noch nicht geh\u00f6rt. Dabei sind seine Tr\u00e4ger, die Tigerm\u00fccken, auch in Freiburg,\u2026 [+5963 chars]",
+      "retrievedAt": "2025-07-10 07:08:39.466294",
+      "internal_id": "c2758634f05d091767ff7897a3f990fb7058a8ce1190f43c5084c29548349909",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22745,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "ET Online",
+      "title": "7 preventive tips to avoid dengue & malaria this monsoon",
+      "description": "",
+      "url": "https://m.economictimes.com/news/web-stories/7-preventive-tips-to-avoid-dengue-malaria-this-monsoon/slideshow/122335088.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122335114,width-900,height-1200,resizemode-6.cms",
+      "publishedAt": "2025-07-09 05:55:23",
+      "content": "Cover your arms and legs with loose, full-sleeved clothespreferably in light colours. This reduces chances of bites, especially during early morning and late evening hours when mosquitoes are most ac\u2026 [+4 chars]",
+      "retrievedAt": "2025-07-10 07:08:39.425871",
+      "internal_id": "7d53787e6face9024277bfc96b87807f98c20da712e7d52edb287392189fda92",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22742,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Natasha Gordon",
+      "title": "New measles cases: Three infected people visit Masterton Pak\u2019nSave, Carterton library",
+      "description": "The trio visited Pak'nSave Masterton and the Carterton Library while infectious.",
+      "url": "https://www.nzherald.co.nz/nz/new-measles-cases-three-infected-people-visit-masterton-pakn-save-carterton-library/FXXE5WJE5VCYXONJ5YVIWIQMQI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NPGJGUCFJVH43BSITLWQUCMZUI.jpg?auth=e06f19ccf9fe585f4effb0c3bf4e0e8bb410de37f9e92af992acead5c2e8c892&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-07-09 05:16:55",
+      "content": "Health New Zealand Te Whatu Ora has confirmed three connected cases of measles in the Wairarapa region are linked to recent overseas travel. Photo / 123rfThree new measles cases linked to overseas tr\u2026 [+548 chars]",
+      "retrievedAt": "2025-07-10 07:08:38.662366",
+      "internal_id": "7f2c95bc9663c09c12ae5d4dfffc2bd0bfc442cfb2a92c6b5117d60075ecc14c",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22740,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Ismedia.jp",
+      "author": "BBC News",
+      "title": "\u30a2\u30e1\u30ea\u30ab\u3067\u306f\u3057\u304b\u306e\u611f\u67d3\u62e1\u5927\u3001\u75c7\u4f8b\u6570\u304c\u904e\u53bb33\u5e74\u3067\u6700\u591a\u306b",
+      "description": "\u30a2\u30e1\u30ea\u30ab\u30674\u65e5\u3001\u306f\u3057\u304b\u306e\u611f\u67d3\u8005\u6570\u304c33\u5e74\u3076\u308a\u306e\u9ad8\u6c34\u6e96\u306b\u9054\u3057\u305f\u3002\u5168\u7c73\u3067\u78ba\u8a8d\u3055\u308c\u305f\u611f\u67d3\u8005\u6570\u306f\u7d041300\u4eba\u306b\u4e0a\u308b\u3002\u30ef\u30af\u30c1\u30f3\u3067\u4e88\u9632\u53ef\u80fd\u306a\u3053\u306e\u75c5\u6c17\u306f\u3001\u304b\u3064\u3066\u30a2\u30e1\u30ea\u30ab\u3067\u306f\u6839\u7d76\u3055\u308c\u305f\u3068\u601d\u308f\u308c\u3066\u3044\u305f\u3002",
+      "url": "https://wedge.ismedia.jp/articles/-/38211",
+      "urlToImage": "https://wedge.ismcdn.jp/mwimgs/3/0/1024/img_30d1aa38b6b56867f17b4ca68deb743c51605.jpg",
+      "publishedAt": "2025-07-09 04:00:00",
+      "content": "4331300 383155 CDC92 CDC700 FX CDC199028000 200090 2014201920191274202520191277 12 11316173000158000 MMR97 201230001529 20253000 Measles cases in the US reach 33-year high https://www.b\u2026 [+36 chars]",
+      "retrievedAt": "2025-07-10 07:08:38.524337",
+      "internal_id": "8d41addd88daa9fd3a14e650c4201e2a3c7b18cdebc47aeca0ea4713636563c1",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22752,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Nahe Baden-W\u00fcrttemberg: Tropenvirus angekommen: Wie gef\u00e4hrlich ist Chikungunya?",
+      "description": "Die Asiatische Tigerm\u00fccke breitet sich aus \u2013 und mit ihr w\u00e4chst die Sorge vor tropischen Krankheiten wie dem Chikungunya-Virus. Nach einer Infektion im Elsass kommt die Gefahr n\u00e4her. Was das bedeutet.",
+      "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/nahe-baden-wuerttemberg--tropenvirus-angekommen--wie-gefaehrlich-ist-chikungunya--35878548.html",
+      "urlToImage": "https://image.stern.de/35878550/t/cV/v1/w1440/r1.7778/-/09--uoyopmsbcyv2axs2048jpeg---8c88566c66602743.jpg",
+      "publishedAt": "2025-07-09 02:00:42",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Asiatische Tigerm\u00fccke breitet sich aus und mit ihr w\u00e4chst die Sorge vor tropischen Krankheiten wie dem Chikungunya-Virus. Nach einer Infektio\u2026 [+6184 chars]",
+      "retrievedAt": "2025-07-10 07:08:40.648660",
+      "internal_id": "bb08bd4e80d5878d3c1a0a8d314a5df0e59d6b832324f5c4b913248456b8af00",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22751,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "van Wyk, S., Dahal, P., Vouvoungui, C., Ayuen, D. S., Shokraneh, F., Soma, A., Watson, J. A., Guerin, P., Barnes, K. I.",
+      "title": "Investigating the relationship between Pfkelch13 mutations and response to artemisinin-based treatment for uncomplicated falciparum malaria: a protocol for a systematic review and individual patient data meta-analysis",
+      "description": "Introduction Artemisinin-based combination therapies (ACTs) remain the WHO-recommended treatment for uncomplicated Plasmodium falciparum malaria. However, the emergence and spread of artemisinin resistance (ART-R) threatens ACT efficacy. ART-R is phenotypic\u2026",
+      "url": "https://bmjopen.bmj.com/content/15/7/e100251",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-07-09 01:44:10",
+      "content": "Introduction Artemisinin-based combination therapies (ACTs) are the cornerstone for treating uncomplicated Plasmodium falciparum malaria globally. These therapies combine a fast-acting artemisinin d\u2026 [+11264 chars]",
+      "retrievedAt": "2025-07-10 07:08:40.190958",
+      "internal_id": "d48c4cc2c4663f513205ddf2de90f36c84ff70066e70c481d1fb30a2cc97de40",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22749,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "The first drug to treat infants sick with malaria is approved by Swiss authority",
+      "description": "Swissmedic has approved Coartem Baby, a malaria medicine specifically formulated for infants weighing 2 to 5 kilograms. This marks the first such approval and offers a safer, more precise treatment option compared to administering adult medications to vulnera\u2026",
+      "url": "https://economictimes.indiatimes.com/news/science/the-first-drug-to-treat-infants-sick-with-malaria-is-approved-by-swiss-authority/articleshow/122330913.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122330915,width-1200,height-630,imgsize-78570,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-09 01:13:01",
+      "content": "GENEVA: Switzerland's medical products authority has granted the first approval for a malaria medicine designed for small infants, touted as an advance against a disease that takes hundreds of thousa\u2026 [+3270 chars]",
+      "retrievedAt": "2025-07-10 07:08:40.159289",
+      "internal_id": "0e54bfdb6703de816436b58d33c61c1341948f5a370dcf0fe87e8a6409ef3129",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22738,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Doctors face new challenge as U.S. measles cases hit 33-year high",
+      "description": "A measles outbreak centered in Texas has driven measles cases in the U.S. to the highest number in 33 years. Measles is preventable with a vaccine, but because so many aren't getting it, doctors are facing a new challenge. Dr. Jon LaPook reports.",
+      "url": "https://www.cbsnews.com/video/doctors-face-new-challenge-as-us-measles-cases-hit-33-year-high/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/08/d0cfc993-86d9-4d8d-9ab3-b79e585b30e6/thumbnail/1200x630/ee06550a65fb9749e2a0ef7bc8b2ba24/cbsn-fusion-doctors-face-new-challenge-as-us-measles-cases-hit-33-year-high-thumbnail.jpg",
+      "publishedAt": "2025-07-08 23:41:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-07-10 07:08:38.417061",
+      "internal_id": "62ec652a46c9544eba864a2479cd9a9eb79ab21c3ffbe7a349841c015940c1db",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22743,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LEX18 Lexington KY News",
+      "author": "Lauren Minor",
+      "title": "Health officials respond to growing concerns amid new measles cases",
+      "description": "Measles, a highly contagious respiratory illness spread through coughing and sneezing, is making headlines as cases rise in Kentucky.",
+      "url": "https://www.lex18.com/news/covering-kentucky/health-officials-respond-to-growing-concerns-amid-new-measles-cases",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/1e5c9c5/2147483647/strip/true/crop/6850x3596+0+746/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fe1%2Ff0%2F649cb6764a3db473604e4046a322%2Fap25099777431187.jpg",
+      "publishedAt": "2025-07-08 23:06:13",
+      "content": "(LEX 18) Measles, a highly contagious respiratory illness spread through coughing and sneezing, is making headlines as cases rise in Kentucky. The Cleveland Clinic says unvaccinated children are at\u2026 [+2316 chars]",
+      "retrievedAt": "2025-07-10 07:08:38.787203",
+      "internal_id": "9e8f0f74e9f7ae4c4652816bc85c23e5864b1b184510fc7d26b69b539f33bac8",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22750,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Israel's plan to move Gazans into a camp",
+      "description": "Israel's defence minister says he has instructed its military to prepare a plan to move all Palestinians in Gaza into a camp in the south of the territory. Also on the programme, the first malaria treatment suitable for babies and very young children has been\u2026",
+      "url": "https://www.bbc.co.uk/programmes/w172zss4x5vfqn4",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0lny2qc.jpg",
+      "publishedAt": "2025-07-08 21:14:00",
+      "content": "Israel's defence minister says he has instructed its military to prepare a plan to move all Palestinians in Gaza into a camp in the south of the territory. Also on the programme, the first malaria tr\u2026 [+335 chars]",
+      "retrievedAt": "2025-07-10 07:08:40.168064",
+      "internal_id": "d33adbb51186b5c0df0c191617d86bf3e4d0bad247b0894f03ca91c23009186c",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22744,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "CDC declares bird flu emergency over as experts warn of possible fall resurgence",
+      "description": "The CDC ends its emergency response to H5N1 bird flu after recording 70 human cases and one death nationally, even as experts note seasonal patterns may increase fall cases.",
+      "url": "https://www.foxnews.com/health/cdc-declares-bird-flu-emergency-over-experts-warn-possible-fall-resurgence",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/handling-chicken-bird-flu.jpg",
+      "publishedAt": "2025-07-08 21:11:06",
+      "content": "The bird flu emergency is officially over, according to the U.S. Centers for Disease Control and Prevention (CDC). The agencys emergency response to H5N1 bird flu, which was activated on April 4, 20\u2026 [+1461 chars]",
+      "retrievedAt": "2025-07-10 07:08:39.048190",
+      "internal_id": "e6e23226eb914155d8269fce54f4b08b6d1e3a83efaed7ebd401df2ac206cb25",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22748,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Mohammed Odwan",
+      "title": "Gaza health authorities warn of \"worrying\" rise in meningitis cases",
+      "description": "GAZA, July 8 (Xinhua) -- The health authorities in Gaza warned on Tuesday of a \"worrying increase\" in the number of cases of meningitis, especially among children, in the Gaza Strip amid \"an unprecedented health, humanitarian, and environmental crisis.\" Read \u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/07/09/gaza-health-authorities-warn-of-worrying-rise-in-meningitis-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-08 20:43:00",
+      "content": "GAZA, July 8 (Xinhua) -- The health authorities in Gaza warned on Tuesday of a \"worrying increase\" in the number of cases of meningitis, especially among children, in the Gaza Strip amid \"an unpreced\u2026 [+1005 chars]",
+      "retrievedAt": "2025-07-10 07:08:39.802361",
+      "internal_id": "1dfdf64762d24d4e044e063bb45bc8e4275f97b489d597cf5c02ae78b342e4e9",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22747,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Rathindra",
+      "title": "Sri Lanka to take legal action against nearly 1,000 for negligence of mosquito breeding",
+      "description": "COLOMBO, July 8 (Xinhua) -- Sri Lankan health officials have planned to take legal action against 982 individuals for allowing mosquito breeding sites on their properties, the National Dengue Control Unit said on Tuesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/07/09/sri-lanka-to-take-legal-action-against-nearly-1000-for-negligence-of-mosquito-breeding",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-08 20:35:00",
+      "content": "COLOMBO, July 8 (Xinhua) -- Sri Lankan health officials have planned to take legal action against 982 individuals for allowing mosquito breeding sites on their properties, the National Dengue Control\u2026 [+719 chars]",
+      "retrievedAt": "2025-07-10 07:08:39.483651",
+      "internal_id": "3985f17de7e316ed9b2708f85297de8780d585617807704738b0d0962c0c4bc3",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22741,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Nina Golgowski",
+      "title": "Measles Cases Surge To Highest Level Since The Disease Was Eliminated In U.S.",
+      "description": "At least 1,277 cases have been reported as of Monday, surpassing the previous record set in 2019, despite 2025 being only halfway over.",
+      "url": "https://www.huffpost.com/entry/measles-cases-rise-to-highest-level-since-its-elimination_n_686d1da6e4b0525032870a1a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/686d590d1b00002b3217b2a8.jpeg?cache=tQoBbgioqc&ops=1200_630",
+      "publishedAt": "2025-07-08 19:58:17",
+      "content": "There have been more measles cases reported in the U.S. this year than in any other year since the disease was declared eliminated in the country a quarter-century ago, according to a new count. At \u2026 [+4968 chars]",
+      "retrievedAt": "2025-07-10 07:08:38.569928",
+      "internal_id": "d2810cfd58ef65cfa798c1c6f49bb19cacc987b927dce8a5f3aea43084a3197b",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 22739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Chris Walker",
+      "title": "At Least 1,277 Measles Cases Identified in 2025 \u2014 the Highest Number Since 1992",
+      "description": "Health experts describe the count as \u201cdevastating,\u201d as the virus was deemed virtually eradicated in the early 2000s.",
+      "url": "https://truthout.org/articles/at-least-1277-measles-cases-identified-in-2025-the-highest-number-since-1992/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/07/2025_0708-rfk-jr-scaled.jpg",
+      "publishedAt": "2025-07-08 19:12:35",
+      "content": "Support justice-driven, accurate and transparent news make a quick donation to Truthout today! Measles cases in the United States have surpassed the highest numbers seen in over three decades despi\u2026 [+3715 chars]",
+      "retrievedAt": "2025-07-10 07:08:38.435068",
+      "internal_id": "f603a4ca6f06d4fb05bdf6972d9a13b90a4bee0c9c13bad958ceab5c25a7b2d2",
+      "publishedAtLabel": "Jul 8"
+    },
     {
       "id": 22714,
       "query": [
@@ -20618,6 +20890,150 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21576,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Virginian-Pilot",
+      "author": "The Daily Progress",
+      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
+      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
+      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
+      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 17:26:18",
+      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.311788",
+      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Ethiopia reports first mpox case",
+      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-25 17:09:00",
+      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
+      "retrievedAt": "2025-05-26 19:05:56.538122",
+      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Attila Pelit",
+      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
+      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
+      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
+      "publishedAt": "2025-05-25 17:00:30",
+      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.197216",
+      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21583,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
+      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
+      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
+      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
+      "publishedAt": "2025-05-25 14:40:28",
+      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.078898",
+      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
+      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
+      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
+      "publishedAt": "2025-05-25 14:00:41",
+      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
+      "retrievedAt": "2025-05-26 19:05:55.552382",
+      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
+      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
+      "publishedAt": "2025-05-25 12:16:38",
+      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.406035",
+      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
+      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
+      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 12:00:46",
+      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.188864",
+      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
+      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
+      "publishedAt": "2025-05-25 08:43:49",
+      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.507741",
+      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]

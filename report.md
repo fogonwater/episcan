@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2025-07-09 19:06
-- **Most recent article:** 2025-07-08 18:40:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-07-10 07:08
+- **Most recent article:** 2025-07-09 06:59:10
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 65 | 90 | 48 | 31 | 53 | 36 | 46 | 369 |
-| dengue | 24 | 25 | 14 | 17 | 26 | 24 | 11 | 141 |
-| malaria | 16 | 16 | 19 | 23 | 13 | 21 | 20 | 128 |
-| mpox | 18 | 15 | 24 | 11 | 27 | 10 | 1 | 106 |
-| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 14 | 103 |
-| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 5 | 94 |
-| h5n1 | 35 | 9 | 5 | 9 | 3 | 8 | 5 | 74 |
+| measles | 68 | 90 | 48 | 31 | 53 | 36 | 52 | 378 |
+| dengue | 26 | 25 | 14 | 17 | 26 | 24 | 14 | 146 |
+| malaria | 17 | 16 | 19 | 23 | 13 | 21 | 24 | 133 |
+| mpox | 19 | 15 | 24 | 11 | 27 | 10 | 1 | 107 |
+| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 16 | 105 |
+| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 6 | 95 |
+| h5n1 | 36 | 9 | 5 | 9 | 3 | 8 | 6 | 76 |
 | rabies | 9 | 6 | 6 | 19 | 5 | 17 | 2 | 64 |
 | zika | 9 | 7 | 2 | 14 | 2 | 8 | 1 | 43 |
 | yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 1 | 21 |
@@ -59,6 +59,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (meningitis)
 
+- [Gaza health authorities warn of "worrying" rise in meningitis cases](https://www.thestar.com.my/news/world/2025/07/09/gaza-health-authorities-warn-of-worrying-rise-in-meningitis-cases) (The Star Online)
+
 - [Doctors alarmed at rising meningitis cases in Gaza’s children](https://www.aljazeera.com/video/newsfeed/2025/7/7/doctors-alarmed-at-rising-meningitis-cases-in-gazas-children-2) (Al Jazeera English)
 
 - [España - Bélgica, en directo Eurocopa femenina: resultado y goleadores, en vivo online](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
@@ -70,6 +72,18 @@ Source: [News API](https://newsapi.org/)
 - [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
+
+- [New measles cases: Three infected people visit Masterton Pak’nSave, Carterton library](https://www.nzherald.co.nz/nz/new-measles-cases-three-infected-people-visit-masterton-pakn-save-carterton-library/FXXE5WJE5VCYXONJ5YVIWIQMQI/) (New Zealand Herald)
+
+- [アメリカではしかの感染拡大、症例数が過去33年で最多に](https://wedge.ismedia.jp/articles/-/38211) (Ismedia.jp)
+
+- [Doctors face new challenge as U.S. measles cases hit 33-year high](https://www.cbsnews.com/video/doctors-face-new-challenge-as-us-measles-cases-hit-33-year-high/) (CBS News)
+
+- [Health officials respond to growing concerns amid new measles cases](https://www.lex18.com/news/covering-kentucky/health-officials-respond-to-growing-concerns-amid-new-measles-cases) (LEX18 Lexington KY News)
+
+- [Measles Cases Surge To Highest Level Since The Disease Was Eliminated In U.S.](https://www.huffpost.com/entry/measles-cases-rise-to-highest-level-since-its-elimination_n_686d1da6e4b0525032870a1a) (HuffPost)
+
+- [At Least 1,277 Measles Cases Identified in 2025 — the Highest Number Since 1992](https://truthout.org/articles/at-least-1277-measles-cases-identified-in-2025-the-highest-number-since-1992/) (Truthout)
 
 - [Measles Cases In The U.S. Are At Highest Point Since The Disease Was ‘Eliminated’ In 2000](https://brobible.com/culture/article/measles-cases-us-highest-point-since-eliminated/) (BroBible)
 
@@ -165,6 +179,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (malaria)
 
+- [7 preventive tips to avoid dengue & malaria this monsoon](https://m.economictimes.com/news/web-stories/7-preventive-tips-to-avoid-dengue-malaria-this-monsoon/slideshow/122335088.cms) (Economictimes.com)
+
+- [Investigating the relationship between Pfkelch13 mutations and response to artemisinin-based treatment for uncomplicated falciparum malaria: a protocol for a systematic review and individual patient data meta-analysis](https://bmjopen.bmj.com/content/15/7/e100251) (The BMJ)
+
+- [The first drug to treat infants sick with malaria is approved by Swiss authority](https://economictimes.indiatimes.com/news/science/the-first-drug-to-treat-infants-sick-with-malaria-is-approved-by-swiss-authority/articleshow/122330913.cms) (The Times of India)
+
+- [Israel's plan to move Gazans into a camp](https://www.bbc.co.uk/programmes/w172zss4x5vfqn4) (BBC News)
+
 - [Swiss medicines authority issues first approval for antimalarial drug for treatment of infants](https://abcnews.go.com/Business/wireStory/swiss-medicines-authority-issues-approval-antimalarial-drug-treatment-123570350) (ABC News)
 
 - [Prairie dog genes reveal secrets of plague survival](https://phys.org/news/2025-07-prairie-dog-genes-reveal-secrets.html) (Phys.Org)
@@ -211,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (h5n1)
 
+- [CDC declares bird flu emergency over as experts warn of possible fall resurgence](https://www.foxnews.com/health/cdc-declares-bird-flu-emergency-over-experts-warn-possible-fall-resurgence) (Fox News)
+
 - [CDC ends bird flu emergency (Alejandra O'Connell-Domenech/The Hill)](https://www.memeorandum.com/250708/p94) (Memeorandum.com)
 
 - [फिर खोले गए गोरखपुर और कानपुर के चिड़ियाघर, बर्ड फ्लू के प्रकोप के कारण 56 दिन से थे बंद](https://www.aajtak.in/uttar-pradesh/story/zoos-of-gorakhpur-and-kanpur-reopened-were-closed-for-56-days-due-to-bird-flu-outbreak-lclam-dskc-2282694-2025-07-08) (Aajtak.in)
@@ -222,6 +246,12 @@ Source: [News API](https://newsapi.org/)
 - [Почему в США хотят распространить птичий грипп по всем фермам](https://hi-news.ru/eto-interesno/pochemu-v-ssha-xotyat-rasprostranit-ptichij-gripp-po-vsem-fermam.html) (Hi-news.ru)
 
 ## 25-28 (dengue)
+
+- [Chikungunya-Fall an deutscher Grenze: Was Sie über das Tropenvirus wissen sollten](https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html) (Focus)
+
+- [7 preventive tips to avoid dengue & malaria this monsoon](https://m.economictimes.com/news/web-stories/7-preventive-tips-to-avoid-dengue-malaria-this-monsoon/slideshow/122335088.cms) (Economictimes.com)
+
+- [Sri Lanka to take legal action against nearly 1,000 for negligence of mosquito breeding](https://www.thestar.com.my/news/world/2025/07/09/sri-lanka-to-take-legal-action-against-nearly-1000-for-negligence-of-mosquito-breeding) (The Star Online)
 
 - [dengsurvap-bf 0.1.0](https://pypi.org/project/dengsurvap-bf/0.1.0/) (Pypi.org)
 
@@ -246,6 +276,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases spike: Telangana health minister orders anti-larval drive expansion; GHMC told to deploy officers](https://timesofindia.indiatimes.com/city/hyderabad/dengue-cases-spike-telangana-health-minister-orders-anti-larval-drive-expansion-ghmc-told-to-deploy-officers/articleshow/122275407.cms) (The Times of India)
 
 ## 25-28 (chikungunya)
+
+- [Chikungunya-Fall an deutscher Grenze: Was Sie über das Tropenvirus wissen sollten](https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html) (Focus)
+
+- [Nahe Baden-Württemberg: Tropenvirus angekommen: Wie gefährlich ist Chikungunya?](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/nahe-baden-wuerttemberg--tropenvirus-angekommen--wie-gefaehrlich-ist-chikungunya--35878548.html) (STERN.de)
 
 - [Chikungunya : dix cas autochtones détectés dans un même quartier de Salon-de-Provence](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-dix-cas-autochtones-detectes-dans-un-meme-quartier-de-salon-de-provence_7364985.html) (Franceinfo.fr)
 
@@ -2243,6 +2277,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La Sierra Leone recense plus de 3 000 cas de mpox, et 14 décès](https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html) (Le Monde)
 
+- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
+
 ## 25-22 (meningitis)
 
 - [¿Quién puede vacunarse frente a la gonorrea? ¿Cuánto protege la inyección? ¿Como sé si estoy infectado?](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/31/podran-vacunarse-gonorrea-hayan-tenido-ets-ultimo-anotitular-1-col-cuerpo-166-noticias-secundarias-5-lineas/0003_202505G31P26991.htm) (Lavozdegalicia.es)
@@ -2389,6 +2425,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Three-quarters of all measles cases in Alberta are in the southern part of the province | Globalnews.ca](http://globalnews.ca/news/11197726/three-quarters-measles-case-alberta-southern-part-of-province/) (Global News)
 
+- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
+
+- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
+
+- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
+
 ## 25-22 (malaria)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2422,6 +2464,8 @@ Source: [News API](https://newsapi.org/)
 - [Harvard brengt nieuwe doorbraak in strijd tegen malaria](https://businessam.be/?p=251676) (Businessam.be)
 
 - [Africa's example to end malaria](https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria) (Bangkok Post)
+
+- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (leptospirosis)
 
@@ -2503,6 +2547,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Pelo menos 20 vacinas contra gripe aviária têm uso aprovado no mundo](https://www.metropoles.com/saude/20-vacinas-gripe-aviaria-aprovadas) (Metropoles.com)
 
+- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
+
 ## 25-22 (dengue)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2552,6 +2598,10 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue cases in NegOcc rise to 2,253](https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/) (Rpnradio.com)
 
 - [México suma más de 3 mil 500 casos de dengue; Jalisco encabeza la lista](https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862) (Excelsior.com.mx)
+
+- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
+
+- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
 
 ## 25-22 (chikungunya)
 
