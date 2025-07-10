@@ -1,8 +1,824 @@
 {
-  "last_updated": "2025-07-10 07:08",
-  "count_articles_total": 1166,
-  "count_articles_new": 15,
+  "last_updated": "2025-07-10 19:06",
+  "count_articles_total": 1205,
+  "count_articles_new": 47,
   "articles": [
+    {
+      "id": 22768,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Measles cases hit 33-year high in U.S.: How did it spread? Symptoms and risks explained",
+      "description": "Measles outbreak: In the first seven months of 2025, health officials have confirmed 1,288 measles cases nationwide, the highest count recorded since 1992. The outbreak is concentrated in Texas, which accounts for at least 750 cases.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/measles-cases-hit-33-year-high-in-u-s-how-did-it-spread-symptoms-and-risks-explained/articleshow/122349475.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122349893,width-1200,height-630,imgsize-41876,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-09 18:58:08",
+      "content": "Measles outbreak: In the first seven months of 2025, health officials have confirmed 1,288 measles cases nationwide, the highest count recorded since 1992. The outbreak is concentrated in Texas, whic\u2026 [+33 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.401966",
+      "internal_id": "8525bbf0626243a8926100d344c9021101a10a588f1aec21fd7130272eb31694",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22788,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Wang Yanan",
+      "title": "Swiss health regulator approves first antimalarial for infants weighing 2-5kg",
+      "description": "GENEVA, July 9 (Xinhua) -- Switzerland's health regulator Swissmedic has granted on Tuesday marketing authorization for Novartis Riamet Baby, also known as Coartem Baby, a novel antimalarial medicine specifically designed for infants weighing 2-5kg. Read full\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-09 18:40:00",
+      "content": "GENEVA, July 9 (Xinhua) -- Switzerland's health regulator Swissmedic has granted on Tuesday marketing authorization for Novartis Riamet Baby, also known as Coartem Baby, a novel antimalarial medicine\u2026 [+1182 chars]",
+      "retrievedAt": "2025-07-10 19:06:08.434740",
+      "internal_id": "9e5775266baeefb7d9bbeebb3b9ed75a8ea5b29a1d17ea1d56c33d54c780e8ce",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22763,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Fast Company",
+      "author": "Taylor Hatmaker",
+      "title": "A disease we thought was gone is roaring back\u2014here\u2019s why",
+      "description": "An infectious disease once eradicated in the U.S. is making a grim comeback this year. New CDC data reported on Wednesday reveals that the country tallied its highest number of measles cases since 1992. As of July 8, the U.S. has reported 1,288 cases of m\u2026",
+      "url": "https://www.fastcompany.com/91365418/a-disease-we-thought-was-gone-is-roaring-back-heres-why",
+      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/07/p-1-91365418-us-measles-cases-top-1200-33-year-high.jpg",
+      "publishedAt": "2025-07-09 17:45:00",
+      "content": "An infectious disease once eradicated in the U.S. is making a grim comeback this year. New CDC data reported on Wednesday reveals that the country tallied its highest number of measles cases since \u2026 [+3911 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.202758",
+      "internal_id": "3c69b967e9c5a03382f8a31a910a41a9e48efcd4cd7add4ca1c0298ee70495f8",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22771,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Norman",
+      "title": "US measles cases hit highest level in more than 30 years, CDC data shows",
+      "description": "There are 1,288 measles cases throughout 38 U.S. states so far this year, which is the most since 1992, according to new data from the CDC released this week.",
+      "url": "https://www.foxnews.com/health/us-measles-cases-hit-highest-level-more-than-30-years-cdc-data-shows",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/measles-vaccine.jpg",
+      "publishedAt": "2025-07-09 17:05:22",
+      "content": "The current number of measles cases in the U.S. is at its highest level in more than 30 years, according to new data released Wednesday by the Centers for Disease Control and Prevention. The CDC sa\u2026 [+2854 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.457846",
+      "internal_id": "7f6e04a60ecb1411279832d5cf67c4fd94ce31e113533bccefaa3d9aa8eef910",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22762,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "U.S. measles numbers reach highest levels in 33 years",
+      "description": "There are 1,288 confirmed measles cases across the U.S., the Centers for Disease Control and Prevention (CDC) said, warning that numbers are the highest they've been since 1992. Dr. Celine Gounder joins \"CBS News 24/7\" with more details.",
+      "url": "https://www.cbsnews.com/video/us-measles-numbers-reach-highest-levels-in-33-years/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/09/e23e830e-ad28-4a0e-8223-989f598e7532/thumbnail/1200x630/9f1f1b87d3c44038e302a27ea7bc7a3c/cbsn-fusion-us-measles-numbers-reach-highest-levels-in-33-years-thumbnail.jpg",
+      "publishedAt": "2025-07-09 15:43:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-07-10 19:06:05.178388",
+      "internal_id": "a5ae5ee842d8a7dcdb22d25af45e0c75a65c021868b95443010e38ec7a2b820f",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22765,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles Cases Hit Record High, 25 Years After U.S. Eliminated the Disease (New York Times)",
+      "description": "New York Times: Measles Cases Hit Record High, 25 Years After U.S. Eliminated the Disease \u2014 Experts worry that if vaccination rates do not improve, deadly outbreaks will become the new normal. \u2014 There have now been more measles cases in 2025 than in any o\u2026",
+      "url": "https://www.memeorandum.com/250709/p72",
+      "urlToImage": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-facebookJumbo-v3.png",
+      "publishedAt": "2025-07-09 15:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.272098",
+      "internal_id": "b35843fcc004d1f270a3d4267b1390547d52cafc30f9e585eec9b6070f96b13e",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22758,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "U.S. measles cases hit highest level in 33 years, CDC reports",
+      "description": "The U.S. has hit an unwelcome milestone in measles cases this year. The CDC is reporting 1,288 cases across the country. The disease was declared eliminated 25 years ago.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5461155/measles-outbreak-cdc-vaccination-health",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+98/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F10%2F48eee82c47b28b71d07ebb5d1126%2Fgettyimages-2201696919.jpg",
+      "publishedAt": "2025-07-09 15:30:11",
+      "content": "The U.S. has reported 1,288 measles cases this year the highest number in 33 years, according to the latest figures from the Centers for Disease Control and Prevention. The last time the U.S. saw mor\u2026 [+3582 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.116853",
+      "internal_id": "5f62f94001dd5c0512f08e1e4c71234b16f8f31f384caeef70d177350bff6ded",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22759,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "US measles cases hit highest number in 33 years, CDC data shows",
+      "description": "Measles cases in the United States have reached their highest number in more than 30 years, according to new federal data published Wednesday.",
+      "url": "https://abcnews.go.com/Health/us-measles-cases-hit-highest-number-33-years/story?id=123564379",
+      "urlToImage": "https://i.abcnewsfe.com/a/96cbf0af-721a-49d6-8ca6-c3054c6b7bfb/measles-sign-ap-jt-250311_1741732269895_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-09 15:21:52",
+      "content": "Measles cases in the United States have reached their highest number in more than 30 years, according to new federal data published Wednesday. There have been 1,288 confirmed measles cases across 38\u2026 [+1743 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.126291",
+      "internal_id": "c05a41b4ea03b704a34db18147e0bc56073bc10c5b10a5aa8c8c7d17b1fbcd56",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22778,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "M\u0103d\u0103lina Dinu",
+      "title": "\u021a\u00e2n\u021barul a devenit cea mai letal\u0103 insect\u0103 de pe planet\u0103. Ce boli transmite \u0219i la ce s\u0103 fii atent",
+      "description": "Mediafax \u00centr-un peisaj epidemiologic tot mai complex, din cauza mai multor factori (de la mobilitatea global\u0103 la pierderea biodiversit\u0103\u021bii), impactul zoonozelor, bolile infec\u021bioase care se transmit de la animale la oameni, este tot mai mare. Articolul \u021a\u00e2n\u021bar\u2026",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/05/west-nile-tantar.png",
+      "publishedAt": "2025-07-09 15:13:41",
+      "content": "Boli precum dengue, zika, febra hemoragic Crimeea-Congo sau boala Lyme s-au rsp\u00e2ndit \u00een ultimii ani, pe fondul creterii numrului de vectori precum \u00e2narii i cpuele, care transport virusuri i bacterii.\u2026 [+1710 chars]",
+      "retrievedAt": "2025-07-10 19:06:06.988771",
+      "internal_id": "154e4993f3e1ba539fecd28097bbb1fafc2ca4b78f0329a9ad5dfadcceca93aa",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22770,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By DEVI SHASTRI, Associated Press",
+      "title": "The US is having its worst year for measles in more than three decades",
+      "description": "Measles cases in the U.S. are at their highest in three decades. The U.S. Centers for Disease Control and Prevention says the U.S. has 1,288 cases since the beginning of the year. That\u2019s higher than 2019, when there 1,274 cases driven by 22 outbreaks over 12 \u2026",
+      "url": "https://www.seattlepi.com/news/article/the-us-is-having-its-worst-year-for-measles-in-20762787.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/52/07/31/27817588/9/rawImage.jpg",
+      "publishedAt": "2025-07-09 15:09:12",
+      "content": "FILE - A sign is displayed outside the Seminole Hospital District offering measles testing, Feb. 21, 2025, in Seminole, Texas. Julio Cortez/AP The U.S. is having its worst year for measles spread i\u2026 [+3367 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.447934",
+      "internal_id": "2ac114879a072519a6951c94cd691b5507866ac8a6545bf69566fca29c816ca1",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22764,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "The US is having its worst year for measles in more than three decades",
+      "description": "Experts fear the U.S. may lose its status as having eliminated the vaccine-preventable disease.",
+      "url": "https://www.bostonherald.com/2025/07/09/measles-outbreak-high-count/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Global_Vaccinated_Children_44323.jpg?w=1024&h=682",
+      "publishedAt": "2025-07-09 15:06:50",
+      "content": "By DEVI SHASTRI The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Di\u2026 [+3088 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.248518",
+      "internal_id": "d573cceb470377aeb8286b4183b8b58b9eaaf935e030951e8b618f449c7f5736",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22772,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "The Associated Press",
+      "title": "The US is having its worst year for measles in more than three decades",
+      "description": "Experts fear the U.S. may lose its status as having eliminated the vaccine-preventable disease.",
+      "url": "https://www.denverpost.com/2025/07/09/measles-outbreak-high-count/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Global_Vaccinated_Children_44323.jpg?w=1024&h=682",
+      "publishedAt": "2025-07-09 15:06:50",
+      "content": "By DEVI SHASTRI The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Di\u2026 [+3087 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.466656",
+      "internal_id": "ba05d803f14d00425bdae397afd578359105809c93a4f129078b22e205288948",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22767,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI Associated Press",
+      "title": "The US is having its worst year for measles in more than three decades",
+      "description": "Measles cases in the U.S. are at their highest in three decades",
+      "url": "https://abcnews.go.com/Health/wireStory/us-worst-year-measles-decades-123611615",
+      "urlToImage": "https://i.abcnewsfe.com/a/0662ae9e-9a41-4cc5-84d8-589f52e9c4d7/wirestory_144ed193e13de675a750e52a505423e9_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-09 15:02:07",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and\u2026 [+3035 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.356249",
+      "internal_id": "427dd90903503326fe3c5b8dae4ff3c4939203b586953399a7d4a4e84af9e209",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22790,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Zika: nova vacina apresenta resultados promissores contra o v\u00edrus",
+      "description": "Al\u00e9m de induzir uma resposta imune contra o v\u00edrus, imunizante impediu danos cerebrais e testiculares associados \u00e0 infec\u00e7\u00e3o viral O post Zika: nova vacina apresenta resultados promissores contra o v\u00edrus apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/07/09/medicina-e-saude/zika-nova-vacina-apresenta-resultados-promissores-contra-o-virus/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/02/enfermeiro-segurando-uma-vacina-seringa-insumo-imunizante.png",
+      "publishedAt": "2025-07-09 14:47:05",
+      "content": "Ap\u00f3s dez anos da epidemia no Brasil, o zika v\u00edrus continua sendo uma amea\u00e7a \u00e0 sa\u00fade p\u00fablica, especialmente para gestantes e beb\u00eas. Mas o desenvolvimento de uma nova vacina pode ajudar a combater a do\u2026 [+2197 chars]",
+      "retrievedAt": "2025-07-10 19:06:08.889580",
+      "internal_id": "7f4be06bb27d55478926060a278aed81841090c414f3d73aa59587b37dceadbe",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22797,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Enters New Smallpox/Mpox Vaccine Supply Contract with European Country",
+      "description": "COPENHAGEN, Denmark, July 9, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced the award of a contract valued over DKK 200 million to supply its MVA-BN\u00ae smallpox/mpox vaccine to a European country. This is another larger order in recent years from the co\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/09/3112723/0/en/Bavarian-Nordic-Enters-New-Smallpox-Mpox-Vaccine-Supply-Contract-with-European-Country.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-07-09 14:46:00",
+      "content": "Recurring order from an undisclosed European country to strengthen public preparedness.Combined with other recent orders from non-European countries, the Company has now secured abov\u2026 [+4126 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.795765",
+      "internal_id": "6c981f7d8ad9f78d8a60e8ebeeff40c64d4c42e0aecd43ee9c72ed7f3a6c814c",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22798,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager ny ordre p\u00e5 koppe-/mpoxvacciner fra europ\u00e6isk land",
+      "description": "K\u00d8BENHAVN, Danmark, 9. juli 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har modtaget en kontrakt til en v\u00e6rdi p\u00e5 over DKK 200 mio. p\u00e5 levering af MVA-BN\u00ae koppe-/mpoxvaccine til et europ\u00e6isk land. Dette er endnu en st\u00f8rre ordre i de sen\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/09/3112723/0/da/Bavarian-Nordic-modtager-ny-ordre-p%C3%A5-koppe-mpoxvacciner-fra-europ%C3%A6isk-land.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-07-09 14:46:00",
+      "content": "Gentagen ordre fra unavngivet europ\u00e6isk land til styrkelse af det offentlige beredskab.Sammen med andre nylige ordrer fra ikke-europ\u00e6iske lande har selskabet nu sikret kontrakter for\u2026 [+4271 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.805242",
+      "internal_id": "ce87bbb1e63b3762be72c4bfa19db52fbc81ba141b89bcc8add64a0b499c946c",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22761,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara  Moniuszko, Taylor  Johnston",
+      "title": "Measles cases in the U.S. hit 1,288, the highest in more than 30 years",
+      "description": "The number of measles cases in the United States has surpassed 2019's wave of infections, according to Centers for Disease Control and Prevention data.",
+      "url": "https://www.cbsnews.com/news/measles-us-cases-record-high-since-1992/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/23/8fdc7ed4-0241-4309-8663-38f9651e30bd/thumbnail/1200x630/3967826f7bbc62cc5886404444a04cc3/gettyimages-2152300156.jpg",
+      "publishedAt": "2025-07-09 14:30:00",
+      "content": "The United States has recorded 1,288 measles cases so far this year, the highest total in 33 years, according to Centers for Disease Control and Prevention data out Wednesday. Just over halfway th\u2026 [+3583 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.162000",
+      "internal_id": "083d2d86717e5b17741df66b5ee815e02c9893f3e4b3415dbbe78d51f22bb1cd",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22777,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matt D. T. Hitchings, Yi Xu, Bernardo Garc\u00eda-Carreras, Adriana Gallagher, Justin J. O\u2019Hagan, Derek A. T. Cummings",
+      "title": "Estimating the incidence of dengue in international air travelers from non-endemic countries between 2010\u20132019",
+      "description": "Author summary Thousands of dengue cases are reported in non-endemic countries each year due to returning travelers having been infected in tropical and subtropical regions. However, the true number of dengue illnesses among travelers is unknown because not a\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013291",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013291.g003&size=inline",
+      "publishedAt": "2025-07-09 14:00:00",
+      "content": "Citation: Hitchings MDT, Xu Y, Garc\u00eda-Carreras B, Gallagher A, OHagan JJ, Cummings DAT (2025) Estimating the incidence of dengue in international air travelers from non-endemic countries between 2010\u2026 [+36258 chars]",
+      "retrievedAt": "2025-07-10 19:06:06.979813",
+      "internal_id": "bacecf97106eae5070ec08bcadb83b2d6e6e9b2d02b96523f54ecc9538ebd711",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22779,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yulun Xie, Bingbing Wang, Qi Chen, Hongjie Wei, Yanshu Ke, Fang Xie, Xuhua Guan, Jia Rui, Tianmu Chen",
+      "title": "Forecasting high-risk areas for dengue outbreaks in China: A trend analysis of Aedes albopictus and Aedes aegypti distributions from 2014 to 2030",
+      "description": "Author summary Dengue fever is one of the most significant mosquito-borne diseases in tropical and subtropical regions. In June 2024, the World Health Organization (WHO) Pathogens Prioritization framework identified Orthoflavivirus denguei as a priority patho\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013237",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013237.g009&size=inline",
+      "publishedAt": "2025-07-09 14:00:00",
+      "content": "Citation: Xie Y, Wang B, Chen Q, Wei H, Ke Y, Xie F, et al. (2025) Forecasting high-risk areas for dengue outbreaks in China: A trend analysis of Aedes albopictus and Aedes aegypti distributions from\u2026 [+33531 chars]",
+      "retrievedAt": "2025-07-10 19:06:06.997487",
+      "internal_id": "7c91cac5bc639410067fb9b3d2ca5eef4426a04be1688e489b64d0826bca3792",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22780,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sol\u00e8ne Marquine, S\u00e9bastien Briolant, Damien Claverie, Jessica Denis, Manon Geulen, Laurent Bosio, Bernard Tenebray, Sarah Attoumani, Annabelle Garnier, Laurence Cheutin, Gilda Grard, Bruno Coutard, Guillaume A. Durand, Cyril Badaut",
+      "title": "Zika virus-specific and orthoflavivirus-cross-reactive IgGs correlate with Zika virus seroneutralization depending on prior dengue virus infection",
+      "description": "Author summary Zika and dengue viruses are closely related and often spread in the same regions of the world. Due to their similarities, the immune system produces antibodies that react to both viruses. However, other antibodies are specific and only recogniz\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013274",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013274.g004&size=inline",
+      "publishedAt": "2025-07-09 14:00:00",
+      "content": "Citation: Marquine S, Briolant S, Claverie D, Denis J, Geulen M, Bosio L, et al. (2025) Zika virus-specific and orthoflavivirus-cross-reactive IgGs correlate with Zika virus seroneutralization depend\u2026 [+33214 chars]",
+      "retrievedAt": "2025-07-10 19:06:07.006583",
+      "internal_id": "65523bb3cfdca9478c869f09fbea361d1489921aa28f34ac288d87613647afc6",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22781,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Luciana Lepore, Veerle Vanlerberghe, Kristien Verdonck, Emery Metelo, Mawlouth Diallo, Wim Van Bortel",
+      "title": "Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review",
+      "description": "Author summary To date, solid evidence on the effectiveness of vector control methods against Aedes mosquitoes is scarce, with most research coming from Latin America and Asia, although arboviruses are known to circulate in sub-Saharan Africa as well. Our sco\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013203.g001&size=inline",
+      "publishedAt": "2025-07-09 14:00:00",
+      "content": "Introduction Aedes aegypti and Aedes albopictus mosquitoes are competent vectors for several arboviruses, including dengue (DEN), yellow fever (YF), chikungunya (CHIK) and Zika (ZIK), which signific\u2026 [+46696 chars]",
+      "retrievedAt": "2025-07-10 19:06:07.015446",
+      "internal_id": "4567672fcd9abecbe74b247ef4785f0b5a90263a6843c4147c6d85aab7831080",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22782,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amar Waiba, Anuraj Phunyal, Tika Ram Lamichhane, Madhav Prasad Ghimire, Hari Nyaupane, Ashish Phuyal, Achyut Adhikari",
+      "title": "Computational insights into flavonoids inhibition of dengue virus envelope protein: ADMET profiling, molecular docking, dynamics, PCA, and end-state free energy calculations",
+      "description": "Dengue virus is a critical worldwide health concern, and efforts to identify useful antiviral drugs remain imperative. This study utilized computational techniques to investigate the flavonoids as a potential inhibitor of the dengue virus envelope protein (PD\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327862",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327862.g006&size=inline",
+      "publishedAt": "2025-07-09 14:00:00",
+      "content": "Abstract Dengue virus is a critical worldwide health concern, and efforts to identify useful antiviral drugs remain imperative. This study utilized computational techniques to investigate the flavon\u2026 [+44773 chars]",
+      "retrievedAt": "2025-07-10 19:06:07.039981",
+      "internal_id": "26a488e0ca9bce305aff7286dc30a2056fbd2d2c227d493252e848069221742e",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22791,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ana Carolyne de Carvalho Lucena S\u00e1, Andr\u00e9 Luiz S\u00e1 de Oliveira, Dem\u00f3crito de Barros Miranda-Filho, Celina Maria Turchi Martelli, Thalia Velho Barreto de Ara\u00fajo, Elizabeth B. Brickley, Ricardo Arraes de Alencar Ximenes, Ulisses Ramos Montarroyos",
+      "title": "Mapping the risk of Zika virus infections in pregnant persons and microcephaly in newborns in relation to socioeconomic indicators in Recife, Pernambuco, Brazil: A spatial analysis (2015 to 2021)",
+      "description": "Author summary When cities lack proper planning, land use becomes disorganized, which creates ideal conditions for mosquitoes to thrive and spread diseases \u2014 especially affecting poorer communities. This study looked at how social and economic factors are con\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013240",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013240.g005&size=inline",
+      "publishedAt": "2025-07-09 14:00:00",
+      "content": "Abstract Objective Using spatial analysis techniques, this study investigates the associations between socioeconomic indicators measured at the census tract level and the incidence of Zika virus (Z\u2026 [+45907 chars]",
+      "retrievedAt": "2025-07-10 19:06:08.922739",
+      "internal_id": "7fca3c7077bc567a0612b98f473139dc33316404e7c8396c406ffeb9a92cf637",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22756,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "Marie Dreyer Bakken",
+      "title": "NRK: To fjellrever har f\u00e5tt p\u00e5vist rabiessmitte p\u00e5 Svalbard",
+      "description": "I l\u00f8pet av to m\u00e5neder har to fjellrever f\u00e5tt p\u00e5vist smitten.",
+      "url": "https://www.vg.no/nyheter/i/alzlE2/nrk-to-fjellrever-har-faatt-paavist-rabiessmitte-paa-svalbard",
+      "urlToImage": "https://vgno-artikkel-pr-4048.feature.sk8s.vg.no/artikkel/api/og/alzlE2.png",
+      "publishedAt": "2025-07-09 13:33:55",
+      "content": "En ny fjellrev p\u00e5 Svalbard har f\u00e5tt p\u00e5vist rabies, bare to m\u00e5neder etter et annet tilfelle. Det d\u00f8de dyret ble funnet cirka 75 kilometer s\u00f8rvest for Pyramiden, melder NRK. Dersom du observerer fjel\u2026 [+484 chars]",
+      "retrievedAt": "2025-07-10 19:06:04.363820",
+      "internal_id": "6730151b7b8108a62ebdf035d5837524983566c6e01c8d636e5c2f4c8119cf44",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22754,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "Andreas Bratt\u00e5ker St\u00f8yva, Preben Br\u00e6kstad",
+      "title": "Rabiessmitte funnet p\u00e5 Svalbard",
+      "description": "Det er f\u00f8rste gang siden 2018 det er blitt p\u00e5vist smitte p\u00e5 \u00f8ygruppen. Den gang ble sykdommen p\u00e5vist hos fire fjellrever og ett reinsdyr, skriver Veterin\u00e6rinstituttet.",
+      "url": "https://www.aftenposten.no/norge/i/W0p0Ad/rabiessmitte-funnet-hos-fjellrev-svalbard",
+      "urlToImage": "https://premium.vgc.no/v2/images/770e7d3c-40f1-4170-ae30-3ddced4496ce?fit=crop&format=auto&h=576&w=768&s=6716cad46d40c660914c777b4ec7e5e1e3c7eb47",
+      "publishedAt": "2025-07-09 13:29:06",
+      "content": "Akkurat n\u00e5 Det er f\u00f8rste gang siden 2018 det er blitt p\u00e5vist smitte p\u00e5 \u00f8ygruppen. Den gang ble sykdommen p\u00e5vist hos fire fjellrever og ett reinsdyr, skriver Veterin\u00e6rinstituttet. Denne fjellreven \u2026 [+1343 chars]",
+      "retrievedAt": "2025-07-10 19:06:04.327379",
+      "internal_id": "4e3682be2e8e08c8a603a164e23e2dec200cb0b681832efee36f096cf208ada9",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22769,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "The Canadian Press",
+      "title": "Vaccination rates among children in Maritimes too low to stop spread of measles",
+      "description": "At least three out of the four Atlantic provinces have released data revealing their measles vaccination rates in children are below levels recommended by scientists to prevent the disease from spreading.",
+      "url": "https://www.nationalobserver.com/2025/07/09/news/vaccination-rates-among-children-maritimes-too-low-stop-spread-measles",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/07/09/e16773a61295dd9855c60ec94c345e79399a1df1e315bfda4e29a1fcc9ccd552.jpg",
+      "publishedAt": "2025-07-09 13:21:34",
+      "content": "At least three out of the four Atlantic provinces have released data revealing their measles vaccination rates in children are below levels recommended by scientists to prevent the disease from sprea\u2026 [+687 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.430843",
+      "internal_id": "913dc2410ce8cb91c63b43d1478131ad4186c6b7ef4e44a646419475ca281b9a",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22757,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "Marita Solheim",
+      "title": "To fjellrevar har f\u00e5tt p\u00e5vist rabiessmitte p\u00e5 Svalbard",
+      "description": "\u00ad",
+      "url": "https://www.nrk.no/tromsogfinnmark/to-fjellrevar-har-fatt-pavist-rabiessmitte-pa-svalbard-1.17486585",
+      "urlToImage": "https://gfx.nrk.no/rb6BE-19y-DacDesm_-BRwU7UFK7xPoYhS_FKF9ibOcQ.jpg",
+      "publishedAt": "2025-07-09 12:51:14",
+      "content": "Veterin\u00e6rinstituttet har p\u00e5vist rabies hos end\u00e5 ein fjellrev p\u00e5 Svalbard i 2025. Fjellreven blei funnen p\u00e5 \u00abAlkepynten\u00bb ca. 75 km s\u00f8rvest for Pyramiden p\u00e5 Svalbard, der den f\u00f8rre smitta reven vart f\u2026 [+1196 chars]",
+      "retrievedAt": "2025-07-10 19:06:04.372700",
+      "internal_id": "55edc1b6980817008640648a9b7b27c98c9eb93ccba215cfa960feeea0034e78",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22776,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Dengue : le premier \u00e9pisode de transmission autochtone de l\u2019ann\u00e9e a \u00e9t\u00e9 identifi\u00e9 en m\u00e9tropole, en Auvergne-Rh\u00f4ne-Alpes",
+      "description": "Sant\u00e9 publique France alerte \u00e9galement sur la circulation du chikungunya, pour lequel neuf foyers sont identifi\u00e9s en m\u00e9tropole. Les temp\u00e9ratures \u00e9lev\u00e9es contribuent \u00e0 la circulation du moustique tigre, qui v\u00e9hicule ces virus.",
+      "url": "https://www.lemonde.fr/societe/article/2025/07/09/dengue-le-premier-episode-de-transmission-autochtone-de-l-annee-a-ete-identifie-en-metropole-en-auvergne-rhone-alpes_6620185_3224.html",
+      "urlToImage": "https://img.lemde.fr/2022/07/01/0/8/4272/2848/1440/960/60/0/46eb983_1656687692661-bios-1796371.jpg",
+      "publishedAt": "2025-07-09 12:48:17",
+      "content": "Un moustique tigre asiatique. ROGER ERITJA/BIOSPHOTO Un premier \u00e9pisode de transmission autochtone de dengue cette ann\u00e9e en m\u00e9tropole a \u00e9t\u00e9 identifi\u00e9 en r\u00e9gion Auvergne-Rh\u00f4ne-Alpes et neuf sont d\u00e9so\u2026 [+2318 chars]",
+      "retrievedAt": "2025-07-10 19:06:06.940496",
+      "internal_id": "ba84db3b441b24493ac7ca380f4e68cea6a339a18fb225ad3004fb882c279f6f",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22775,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Nahe Baden-W\u00fcrttemberg: Unaussprechliches Virus: Wie gef\u00e4hrlich ist Chikungunya?",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eNahe Baden-W\u00fcrttemberg\u201c. Lesen Sie jetzt \u201eUnaussprechliches Virus: Wie gef\u00e4hrlich ist Chikungunya?\u201c.",
+      "url": "https://www.zeit.de/news/2025-07/09/tropenvirus-angekommen-wie-gefaehrlich-ist-chikungunya",
+      "urlToImage": "https://img.zeit.de/news/2025-07/09/tropenvirus-angekommen-wie-gefaehrlich-ist-chikungunya-image-group/wide__1300x731",
+      "publishedAt": "2025-07-09 12:40:18",
+      "content": "Tropenviren wie Dengue, Gelbfieber und Hanta sind hierzulande nicht unbekannt. Vom Chikungunya-Virus haben viele dagegen noch nicht geh\u00f6rt. Dabei sind seine Tr\u00e4ger, die Tigerm\u00fccken, auch in Freiburg,\u2026 [+6262 chars]",
+      "retrievedAt": "2025-07-10 19:06:06.908234",
+      "internal_id": "cdb86b765ae9c2a20ffb1a23ba3b8edb3f1d4d60ecdfc064e01e7652fb4de4f7",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22794,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Nahe Baden-W\u00fcrttemberg: Unaussprechliches Virus: Wie gef\u00e4hrlich ist Chikungunya?",
+      "description": "Die Asiatische Tigerm\u00fccke breitet sich aus \u2013 und mit ihr w\u00e4chst die Sorge vor tropischen Krankheiten wie dem Chikungunya-Virus. Nach einer Infektion im Elsass kommt die Gefahr n\u00e4her. Was das bedeutet.",
+      "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/nahe-baden-wuerttemberg--unaussprechliches-virus--wie-gefaehrlich-ist-chikungunya--35878548.html",
+      "urlToImage": "https://image.stern.de/35880440/t/xi/v1/w1440/r1.7778/-/09--uoyopmsbcyv3axs2048jpeg---ba3786fe166439e2.jpg",
+      "publishedAt": "2025-07-09 12:40:18",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Asiatische Tigerm\u00fccke breitet sich aus und mit ihr w\u00e4chst die Sorge vor tropischen Krankheiten wie dem Chikungunya-Virus. Nach einer Infektio\u2026 [+6478 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.402402",
+      "internal_id": "8165e1a44ec25d4898679da50e0884e2287a0a3f9263e73cfe3e1063c7cafbd9",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22792,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Viruserkrankung: Bislang 15 importierte Chikungunya-Infektionen im S\u00fcdwesten",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eViruserkrankung\u201c. Lesen Sie jetzt \u201eBislang 15 importierte Chikungunya-Infektionen im S\u00fcdwesten\u201c.",
+      "url": "https://www.zeit.de/news/2025-07/09/bislang-15-importierte-chikungunya-infektionen-im-suedwesten",
+      "urlToImage": "https://img.zeit.de/news/2025-07/09/bislang-15-importierte-chikungunya-infektionen-im-suedwesten-image-group/wide__1300x731",
+      "publishedAt": "2025-07-09 12:27:03",
+      "content": "Nachdem sich erstmals ein Mensch vor Ort und in einer grenznahen els\u00e4ssischen Region mit dem Chikungunya-Virus infiziert hat, werden \u00e4hnliche F\u00e4lle im S\u00fcdwesten nicht mehr ausgeschlossen. Diese sogen\u2026 [+1000 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.317310",
+      "internal_id": "73f90e4ba2ff66516178b3c04732f7cfd02fd57f53c9e92e05bf69136dd08466",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22793,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Viruserkrankung: Bislang 15 importierte Chikungunya-Infektionen im S\u00fcdwesten",
+      "description": "Im Elsass hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Es scheint nur eine Frage der Zeit, bis es solch einen Fall auch im S\u00fcdwesten gibt. Bislang wurden Infektionen nur importiert.",
+      "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/viruserkrankung--bislang-15-importierte-chikungunya-infektionen-im-suedwesten-35880320.html",
+      "urlToImage": "https://image.stern.de/35880322/t/bp/v1/w1440/r1.7778/-/09--qsisupgccnv3axs2048jpeg---b1f6177d35793d46.jpg",
+      "publishedAt": "2025-07-09 12:27:03",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Im Elsass hat sich ein Mensch mit dem Chikungunya-Virus angesteckt. Es scheint nur eine Frage der Zeit, bis es solch einen Fall auch im S\u00fcdwesten\u2026 [+1211 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.342276",
+      "internal_id": "75ae501029c8c0b7e3a0f39b8937edcee35d5a8efa3580aa1b7cab30fc7a7700",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22755,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Ny fjellrev med p\u00e5vist rabies p\u00e5 Svalbard",
+      "description": "Ein ny rev p\u00e5 Svalbard har f\u00e5tt p\u00e5vist rabiessmitte. Det melder Veterin\u00e6rinstituttet i ei pressemelding. Fjellreven blei funnen p\u00e5 \u00abAlkepynten\u00bb ca. 75 km s\u00f8rvest for Pyramiden p\u00e5 Svalbard, der den f\u00f8rre smitta reven kom fr\u00e5. \u2013 Dersom du observerer fjellrev el\u2026",
+      "url": "https://www.nrk.no/tromsogfinnmark/ny-fjellrev-med-pavist-rabies-pa-svalbard-1.17486397",
+      "urlToImage": "https://gfx.nrk.no/rb6BE-19y-DacDesm_-BRwU7UFK7xPoYhS_FKF9ibOcQ.jpg",
+      "publishedAt": "2025-07-09 12:21:17",
+      "content": "Ein ny rev p\u00e5 Svalbard har f\u00e5tt p\u00e5vist rabiessmitte. Det melder Veterin\u00e6rinstituttet i ei pressemelding. Fjellreven blei funnen p\u00e5 \u00abAlkepynten\u00bb ca. 75 km s\u00f8rvest for Pyramiden p\u00e5 Svalbard, der den f\u2026 [+291 chars]",
+      "retrievedAt": "2025-07-10 19:06:04.346916",
+      "internal_id": "ad784b2edc07dbc8771e308512d47a88050583fed3aa4d8730702c74f78a9f66",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22753,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Johan Nilsson",
+      "title": "Klibbig gel vaccinerade vampyrer mot rabies",
+      "description": "Forskare kan ha kommit p\u00e5 ett s\u00e4tt att vaccinera hela kolonier av blodsugande fladderm\u00f6ss, s\u00e5 kallade vampyrer, mot rabies och andra sjukdomar. De utnyttjar helt enkelt deras f\u00e4bless f\u00f6r att putsa varandra.",
+      "url": "https://www.dn.se/varlden/klibbig-gel-vaccinerade-vampyrer-mot-rabies/",
+      "urlToImage": "https://static.bonniernews.se/ba/966ee618-7b11-422b-bff2-0985594c048c.jpeg?io=1&crop=1200:630,smart&width=1200&height=630",
+      "publishedAt": "2025-07-09 12:08:25",
+      "content": "I Syd- och Mellanamerika st\u00e4ller fladderm\u00f6ss som lever av blod till med stora problem f\u00f6r alla de b\u00f6nder eller ranch\u00e4gare som har boskap. Nattetid biter vampyrerna djuren s\u00e5 att de f\u00f6rsvagas och blir\u2026 [+2263 chars]",
+      "retrievedAt": "2025-07-10 19:06:04.308490",
+      "internal_id": "803cc6cd9a4235bb794fd149ff2ef2ec1f2eb0631cae79fb61e53a4dea11fa6c",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22766,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STLtoday.com",
+      "author": "By Michele Munz St. Louis Post-Dispatch",
+      "title": "Measles outbreak reported in southwest Missouri county as US cases continue to climb",
+      "description": "Five people have contracted measles in Cedar County, which is located northwest of Springfield, state and county health officials say.",
+      "url": "https://www.stltoday.com/news/local/business/health-care/article_0731511c-bdd8-4d90-9c7e-d8f3903a01cc.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/73/0731511c-bdd8-4d90-9c7e-d8f3903a01cc/686dbc265a308.preview.jpg?crop=1917%2C1006%2C0%2C37&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-09 11:30:00",
+      "content": "CEDAR COUNTY, Mo. The total number of measles cases in Missouri has climbed to seven as the U.S. this week reached its highest annual measles tally in 33 years, according to the Center for Outbreak \u2026 [+4757 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.347003",
+      "internal_id": "fd7ee01dcc59475fe900c4c4b3e73a4d17443a38046ebb516a5bc8d1680298d9",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22760,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 7/9/2025",
+      "description": "Our boisterous daily links: Type 1 diabetes Barbie, superheated peaks, China military dominance, US measles record, EU green deal faill, Israel tortures. Russia drone lead, FDA wreckage, moar Trump tariff flip flops, Mamdani, AI fakes Rubio.",
+      "url": "https://www.nakedcapitalism.com/2025/07/links-7-9-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/07/00-tigers.jpg",
+      "publishedAt": "2025-07-09 10:55:05",
+      "content": "Blood in the Water, Blood on the Beach: History of Naval Warfare, Part 11 Big Serge How SpaceX is blocking astronomers\u2019 view of space Musk Watch Why don\u2019t we trust technology in sport? BBC. resilc:\u2026 [+10072 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.149646",
+      "internal_id": "01621632a70cc09bd1747ff81e8d2914a8fe4ed2f3b1ac7e63f0845b989df754",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22799,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Citizen.digital",
+      "author": "Guest Writer",
+      "title": "OPINION: Vaccination is a lifeline for mothers and children, and a pillar of Kenya\u2019s health transformation",
+      "description": "These vaccines are doing much more than preventing illness\u2014they are strengthening maternal and family health, easing the burden on mothers, and contributing to Kenya\u2019s long-term development agenda.",
+      "url": "https://www.citizen.digital/opinion-blogs/opinion-vaccination-is-a-lifeline-for-mothers-and-children-and-a-pillar-of-kenyas-health-transformation-n365992",
+      "urlToImage": "https://assets.citizen.digital/155333/conversions/Screenshot-2025-07-09-at-13.21.57-og_image.webp",
+      "publishedAt": "2025-07-09 10:33:27",
+      "content": "Head, Directorate of Family Health, Ministry of Health Kenya As the Ministry of Health rolls out the Typhoid Conjugate Vaccine (TCV) and Measles-Rubella (MR) vaccination campaigns across Kenya, I ta\u2026 [+4097 chars]",
+      "retrievedAt": "2025-07-10 19:06:10.259542",
+      "internal_id": "71fd57e5eae7f711549e0aeceb3815dc2c54d164c35e68017f1e95fc9b702dae",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22784,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Jean-Christophe Adde",
+      "title": "Un cas de dengue autochtone dans la Loire : enqu\u00eate et d\u00e9moustication en cours",
+      "description": "L'Agence R\u00e9gionale de Sant\u00e9 vient de publier sur son site une alerte \"dengue en cours\". L'ARS a re\u00e7u le signalement d'une forte suspicion de dengue autochtone \u00e0 Saint-Chamond dans la Loire. Une enqu\u00eate va \u00eatre lanc\u00e9e et une op\u00e9ration de d\u00e9moustication est pr\u00e9\u2026",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/un-cas-de-dengue-autochtone-dans-la-loire-enquete-et-demoustication-en-cours-3185490.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/YenKHnf4oLP1cVH6LtolcwBgXgI/930x620/regions/2025/07/09/maxstockfr270364-686e3b82cb493140296397.jpg",
+      "publishedAt": "2025-07-09 10:01:55",
+      "content": "L'Agence R\u00e9gionale de Sant\u00e9 vient de publier sur son site une alerte \"dengue en cours\". L'ARS a re\u00e7u le signalement d'une forte suspicion de dengue autochtone \u00e0 Saint-Chamond dans la Loire. Une enqu\u00ea\u2026 [+2241 chars]",
+      "retrievedAt": "2025-07-10 19:06:07.088197",
+      "internal_id": "bea052264a063c965d622a6685605186acfaa84b19536bd3b5587a52215c82a7",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22789,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Olivia Kemp",
+      "title": "First malaria drug for newborns and young infants expected to be approved in Africa within weeks | CNN",
+      "description": "The approval of the first malaria treatment for newborns and young infants could lead to imminent widespread use in Africa, drugmaker Novartis said Tuesday.",
+      "url": "https://www.cnn.com/2025/07/09/health/malaria-drug-babies-africa-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209053250.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-09 09:52:54",
+      "content": "The approval of the first malaria treatment for newborns and young infants could lead to imminent widespread use in Africa, drugmaker Novartis said Tuesday. The drug, known as Coartem Baby or Riamet\u2026 [+2089 chars]",
+      "retrievedAt": "2025-07-10 19:06:08.503756",
+      "internal_id": "1af671368fc58003328ad99702ed91a489e1f888150a36525a0fcc835d8abc9f",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22783,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Premier \u00e9pisode de transmission autochtone de dengue pour cette ann\u00e9e 2025 identifi\u00e9 en r\u00e9gion Auvergne-Rh\u00f4ne-Alpes",
+      "description": "Au 8 juillet, Sant\u00e9 publique France a recens\u00e9 10 \u00e9pisodes de contamination via des moustiques tigre en France hexagonale.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/premier-episode-de-transmission-autochtone-de-dengue-pour-cette-annee-2025-identifie-en-region-auvergne-rhone-alpes_7366761.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/ZKbFYsM5Ryk5MU0-ZcW2tNW2NCI/0x204:2680x1710/1500x843/2025/06/26/075-roy-notitle240831-npsj4-1-685d12c98df62606630554.jpg",
+      "publishedAt": "2025-07-09 09:45:53",
+      "content": "Un premier \u00e9pisode de transmission autochtone de dengue pour cette ann\u00e9e 2025 a \u00e9t\u00e9 identifi\u00e9 en r\u00e9gion Auvergne-Rh\u00f4ne-Alpes, rapporte, mercredi 9 juillet, le bulletin de Sant\u00e9 publique France. Le ca\u2026 [+1358 chars]",
+      "retrievedAt": "2025-07-10 19:06:07.079191",
+      "internal_id": "4e867f34d3c89c4218123ebd978808969ace2264dbb50e6f51fb9857741f0854",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22795,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Chikungunya-Fall im Elsass: Bringt die Tigerm\u00fccke Tropenkrankheiten nach Europa?",
+      "description": "Ein Chikungunya-Fall im Elsass alarmiert Experten. Das Tropenvirus r\u00fcckt durch die Ausbreitung der Tigerm\u00fccke n\u00e4her an Deutschland heran. Muss man sich jetzt Sorgen machen? Und wie kann man sich sch\u00fctzen? ntv.de beantwortet die wichtigsten Fragen.",
+      "url": "https://www.n-tv.de/wissen/Bringt-die-Tigermuecke-Tropenkrankheiten-nach-Europa-article25888514.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25888517/1131327171-cImg_16_9-w1200/534023843.jpg",
+      "publishedAt": "2025-07-09 09:30:19",
+      "content": "Ein Chikungunya-Fall im Elsass alarmiert Experten. Das Tropenvirus r\u00fcckt durch die Ausbreitung der Tigerm\u00fccke n\u00e4her an Deutschland heran. Muss man sich jetzt Sorgen machen? Und wie kann man sich sch\u00fc\u2026 [+6180 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.456003",
+      "internal_id": "a9406d4bf266bb5d74c8b1c5944a7126f003ef23cc09716adb8d774507c3964a",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22786,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Jamey Keaten, The Associated Press",
+      "title": "Switzerland approves first antimalarial drug for infants in advance on disease that kills hundreds of thousands in Africa each year",
+      "description": "It could pave the way for hard-hit African nations to follow suit in coming months.",
+      "url": "https://fortune.com/europe/2025/07/09/switzerland-approves-first-antimalarial-drug-for-infants/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2211390090-e1752052195372.jpg?resize=1200,600",
+      "publishedAt": "2025-07-09 09:11:48",
+      "content": "Switzerlands medical products authority has granted the first approval for a malaria medicine designed for small infants, touted as an advance against a disease that takes hundreds of thousands of li\u2026 [+3156 chars]",
+      "retrievedAt": "2025-07-10 19:06:08.332033",
+      "internal_id": "84d7cd7052cf8b7cd5853b98086fb770461d6f312eb2a902f5fe912e0800b376",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22796,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Joane M\u00e9riot",
+      "title": "Un cas de chikungunya autochtone confirm\u00e9 pr\u00e8s de Grenoble, en Is\u00e8re",
+      "description": "L\u2019agence r\u00e9gionale de sant\u00e9 (ARS) confirme ce mardi 8 juillet un cas autochtone de chikungunya \u00e0 Claix, en Is\u00e8re, pr\u00e8s de Grenoble. Une op\u00e9ration de d\u00e9moustication a eu lieu sur le secteur dans la nuit.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-cas-de-chikungunya-autochtone-confirme-pres-de-grenoble-en-isere-3185415.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/xsZKgxlbmXnmd-QfHS5rS5ct5G8/930x620/regions/2025/07/09/maxstockfr268962-686e2ed6d506b674039402.jpg",
+      "publishedAt": "2025-07-09 09:10:26",
+      "content": "Lagence r\u00e9gionale de sant\u00e9 (ARS) confirme ce mardi 8 juillet un cas autochtone de chikungunya \u00e0 Claix, en Is\u00e8re, pr\u00e8s de Grenoble. Une op\u00e9ration de d\u00e9moustication a eu lieu sur le secteur dans la nui\u2026 [+1847 chars]",
+      "retrievedAt": "2025-07-10 19:06:09.489304",
+      "internal_id": "b61fd588d97d83d0b56bf1dfb99ff4f18b1a79626ef1e99193d4c2414ded9f8c",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22787,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Avance hist\u00f3rico en la medicina: unos cient\u00edficos desarrollan el primer tratamiento mundial contra la malaria para reci\u00e9n nacidos",
+      "description": "Swissmedic, la autoridad suiza reguladora de medicamentos, ha aprobado el primer tratamiento contra la malaria para beb\u00e9s reci\u00e9n nacidos desarrollado por la farmac\u00e9utica Novartis. Se prev\u00e9 que este medicamento est\u00e9 disponible en zonas de \u00c1frica donde esta enf\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13454949/07/25/avance-historico-en-la-medicina-unos-cientificos-desarrollan-el-primer-tratamiento-mundial-contra-la-malaria-para-recien-nacidos.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/2018x1101/5/3/4/1200x655_bebe-recien-nacido-de-la-mano-de-su-madre.jpg",
+      "publishedAt": "2025-07-09 08:25:10",
+      "content": "Swissmedic, la autoridad suiza reguladora de medicamentos, ha aprobado el primer tratamiento contra la malaria para beb\u00e9s reci\u00e9n nacidos desarrollado por la farmac\u00e9utica Novartis. Se prev\u00e9 que este m\u2026 [+2157 chars]",
+      "retrievedAt": "2025-07-10 19:06:08.418204",
+      "internal_id": "63d2a391bc86f36ad8296eab538dc5fd077f12ae1811354b958576fa93a2697d",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22785,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u4e2d\u592e\u793e",
+      "title": "\u5168\u7403\u7b2c\u4e00\u6b3e\u5b30\u5e7c\u5152\u7627\u75be\u85e5\u7269\uff0c\u7372\u745e\u58eb\u6279\u51c6",
+      "description": "\u570b\u969b\u88fd\u85e5\u5de8\u64d8\u8afe\u83ef\u96c6\u5718\uff08Novartis\uff09\u4eca\u5929\u8868\u793a\uff0c\u7b2c\u4e00\u6b3e\u91dd\u5c0d\u65b0\u751f\u5152\u548c\u5b30\u5e7c\u5152\u8a2d\u8a08\u7684\u7627\u75be\u85e5\u7269\u5df2\u53d6\u5f97\u745e\u58eb\u885b\u751f\u76e3\u7ba1\u6a5f\u95dc\u7684\u6279\u51c6\uff0c8 \u500b\u975e\u6d32\u570b\u5bb6\u9810\u8a08\u5f88\u5feb\u5c31\u6703\u958b\u59cb\u6295\u85e5\u3002 \u300a\u6cd5\u65b0\u793e\u300b\u5831\u5c0e\uff0c\u7627\u75be\u662f\u975e\u6d32\u570b\u5bb6\u4e00\u5927\u6b7b\u56e0\u3002\u6839\u64da\u4e16\u754c\u885b\u751f\u7d44\u7e54\uff08WHO\uff09\u7684\u6578\u64da\uff0c2023\u5e74\u5168\u7403\u670959.7\u842c\u4eba\u547d\u55aa\u7627\u75be\uff0c\u975e\u6d32\u5c31\u5360\u4e8695%\u3002 \u4e16\u885b\u6578\u64da\u540c\u6642...",
+      "url": "https://technews.tw/2025/07/09/novartis-coartem-riamet/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2020/08/10134455/shutterstock_326382599-e1597038321319.jpg",
+      "publishedAt": "2025-07-09 07:30:08",
+      "content": "Novartis8 WHO202359.795% 576%43.2 CoartemRiametMedicines for Malaria VentureMMV 4.5 25 88 202326,300 shutterstock",
+      "retrievedAt": "2025-07-10 19:06:08.322354",
+      "internal_id": "b0a4c65ec99c850b697ea6465fef51b2baaea0d45a2067e5f9392ddbe9e5e1d8",
+      "publishedAtLabel": "Jul 9"
+    },
     {
       "id": 22746,
       "query": [
@@ -75,6 +891,44 @@
       "content": "4331300 383155 CDC92 CDC700 FX CDC199028000 200090 2014201920191274202520191277 12 11316173000158000 MMR97 201230001529 20253000 Measles cases in the US reach 33-year high https://www.b\u2026 [+36 chars]",
       "retrievedAt": "2025-07-10 07:08:38.524337",
       "internal_id": "8d41addd88daa9fd3a14e650c4201e2a3c7b18cdebc47aeca0ea4713636563c1",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22773,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Transmission Dynamics of Highly Pathogenic Avian Influenza A(H5N1) and A(H5N6) Viruses in Wild Birds, South Korea, 2023\u20132024",
+      "description": "HPAI H5N1 and H5N6 Viruses in Wild Birds",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/25-0373_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-09 04:00:00",
+      "content": "Highly pathogenic avian influenza viruses (HPAIVs) cause severe clinical signs and high mortality rates in gallinaceous birds, leading to substantial economic losses in the poultry industry (1). Amon\u2026 [+23340 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.749301",
+      "internal_id": "ff362d8cd3ab1726c1762b4d1e8e74752b922918cb4b1337e15d57e275b7016d",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22774,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Genetic Characterization of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024",
+      "description": "Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/25-0186_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-09 04:00:00",
+      "content": "Highly pathogenic avian influenza (HPAI) A(H5N1) has been causing a panzootic since its resurgence in 2021 (1). H5N1 clade 2.3.4.4b virus has spread among domestic and wild animals; multiple spillove\u2026 [+8853 chars]",
+      "retrievedAt": "2025-07-10 19:06:05.758959",
+      "internal_id": "679bb223c16e5238cc4a437bed1cdbfb842ae554d4ad9cf09f1d01af4336ddb8",
       "publishedAtLabel": "Jul 9"
     },
     {
@@ -20890,150 +21744,6 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21576,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Virginian-Pilot",
-      "author": "The Daily Progress",
-      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
-      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
-      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
-      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 17:26:18",
-      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.311788",
-      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21594,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Liu Fangqiang, Habtamu",
-      "title": "Ethiopia reports first mpox case",
-      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-05-25 17:09:00",
-      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
-      "retrievedAt": "2025-05-26 19:05:56.538122",
-      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21564,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Attila Pelit",
-      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
-      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
-      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
-      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
-      "publishedAt": "2025-05-25 17:00:30",
-      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.197216",
-      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21583,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
-      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
-      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
-      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
-      "publishedAt": "2025-05-25 14:40:28",
-      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.078898",
-      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21591,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
-      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
-      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
-      "publishedAt": "2025-05-25 14:00:41",
-      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
-      "retrievedAt": "2025-05-26 19:05:55.552382",
-      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21585,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Porto Alegre 24 horas",
-      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
-      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
-      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
-      "publishedAt": "2025-05-25 12:16:38",
-      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.406035",
-      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21563,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "Meg Wingerter",
-      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
-      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
-      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 12:00:46",
-      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.188864",
-      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
-      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
-      "publishedAt": "2025-05-25 08:43:49",
-      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.507741",
-      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]

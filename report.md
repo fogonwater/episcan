@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-07-10 07:08
-- **Most recent article:** 2025-07-09 06:59:10
+- **New articles in last harvest:** 47
+- **Last harvest:** 2025-07-10 19:06
+- **Most recent article:** 2025-07-09 18:58:08
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 68 | 90 | 48 | 31 | 53 | 36 | 52 | 378 |
-| dengue | 26 | 25 | 14 | 17 | 26 | 24 | 14 | 146 |
-| malaria | 17 | 16 | 19 | 23 | 13 | 21 | 24 | 133 |
-| mpox | 19 | 15 | 24 | 11 | 27 | 10 | 1 | 107 |
-| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 16 | 105 |
+| measles | 65 | 90 | 48 | 31 | 53 | 36 | 67 | 390 |
+| dengue | 24 | 25 | 14 | 17 | 26 | 24 | 24 | 154 |
+| malaria | 16 | 16 | 19 | 23 | 13 | 21 | 29 | 137 |
+| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 24 | 113 |
+| mpox | 18 | 15 | 24 | 11 | 27 | 10 | 3 | 108 |
 | meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 6 | 95 |
-| h5n1 | 36 | 9 | 5 | 9 | 3 | 8 | 6 | 76 |
-| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 2 | 64 |
-| zika | 9 | 7 | 2 | 14 | 2 | 8 | 1 | 43 |
+| h5n1 | 35 | 9 | 5 | 9 | 3 | 8 | 8 | 77 |
+| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 7 | 69 |
+| zika | 9 | 7 | 2 | 14 | 2 | 8 | 6 | 48 |
 | yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 1 | 21 |
-| typhoid | 2 | 0 | 3 | 0 | 3 | 2 | 2 | 12 |
-| hpai | 1 | 3 | 1 | 1 | 0 | 4 | 1 | 11 |
+| typhoid | 2 | 0 | 3 | 0 | 3 | 2 | 3 | 13 |
+| hpai | 1 | 3 | 1 | 1 | 0 | 4 | 3 | 13 |
 | pertussis | 3 | 2 | 4 | 2 | 0 | 0 | 0 | 11 |
 | leptospirosis | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 3 | 1 | 0 | 0 | 0 | 4 |
@@ -35,6 +35,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (zika)
 
+- [Țânțarul a devenit cea mai letală insectă de pe planetă. Ce boli transmite și la ce să fii atent](https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078) (Mediafax.ro)
+
+- [Zika: nova vacina apresenta resultados promissores contra o vírus](https://olhardigital.com.br/2025/07/09/medicina-e-saude/zika-nova-vacina-apresenta-resultados-promissores-contra-o-virus/) (Olhardigital.com.br)
+
+- [Zika virus-specific and orthoflavivirus-cross-reactive IgGs correlate with Zika virus seroneutralization depending on prior dengue virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013274) (Plos.org)
+
+- [Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203) (Plos.org)
+
+- [Mapping the risk of Zika virus infections in pregnant persons and microcephaly in newborns in relation to socioeconomic indicators in Recife, Pernambuco, Brazil: A spatial analysis (2015 to 2021)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013240) (Plos.org)
+
 - [De nouvelles armes dans la lutte contre les moustiques et les maladies qu’ils transmettent](https://www.lemonde.fr/planete/article/2025/07/08/de-nouvelles-armes-dans-la-lutte-contre-les-moustiques-et-les-maladies-qu-ils-transmettent_6619818_3244.html) (Le Monde)
 
 ## 25-28 (yersinia)
@@ -43,17 +53,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (typhoid)
 
+- [OPINION: Vaccination is a lifeline for mothers and children, and a pillar of Kenya’s health transformation](https://www.citizen.digital/opinion-blogs/opinion-vaccination-is-a-lifeline-for-mothers-and-children-and-a-pillar-of-kenyas-health-transformation-n365992) (Citizen.digital)
+
 - [Determining genotype and antimicrobial resistance of Salmonella Typhi in environmental samples by amplicon sequencing](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013211) (Plos.org)
 
 - [Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740) (Plos.org)
 
 ## 25-28 (rabies)
 
+- [NRK: To fjellrever har fått påvist rabiessmitte på Svalbard](https://www.vg.no/nyheter/i/alzlE2/nrk-to-fjellrever-har-faatt-paavist-rabiessmitte-paa-svalbard) (Www.vg.no)
+
+- [Rabiessmitte funnet på Svalbard](https://www.aftenposten.no/norge/i/W0p0Ad/rabiessmitte-funnet-hos-fjellrev-svalbard) (Aftenposten)
+
+- [To fjellrevar har fått påvist rabiessmitte på Svalbard](https://www.nrk.no/tromsogfinnmark/to-fjellrevar-har-fatt-pavist-rabiessmitte-pa-svalbard-1.17486585) (NRK)
+
+- [Ny fjellrev med påvist rabies på Svalbard](https://www.nrk.no/tromsogfinnmark/ny-fjellrev-med-pavist-rabies-pa-svalbard-1.17486397) (NRK)
+
+- [Klibbig gel vaccinerade vampyrer mot rabies](https://www.dn.se/varlden/klibbig-gel-vaccinerade-vampyrer-mot-rabies/) (Www.dn.se)
+
 - [LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms) (The Times of India)
 
 - [Louis Pasteur: The Man Who Said, “Science Brings Men Closer to God”](https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/) (Answersingenesis.org)
 
 ## 25-28 (mpox)
+
+- [Bavarian Nordic Enters New Smallpox/Mpox Vaccine Supply Contract with European Country](https://www.globenewswire.com/news-release/2025/07/09/3112723/0/en/Bavarian-Nordic-Enters-New-Smallpox-Mpox-Vaccine-Supply-Contract-with-European-Country.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager ny ordre på koppe-/mpoxvacciner fra europæisk land](https://www.globenewswire.com/news-release/2025/07/09/3112723/0/da/Bavarian-Nordic-modtager-ny-ordre-p%C3%A5-koppe-mpoxvacciner-fra-europ%C3%A6isk-land.html) (GlobeNewswire)
 
 - [ΕΕ: Σχέδιο “ATHINA” για καταστάσεις έκτακτης ανάγκης στον τομέα της υγείας](https://www.naftemporiki.gr/kosmos/1978134/ee-schedio-athina-gia-katastaseis-ektaktis-anagkis-ston-tomea-tis-ygeias/) (Naftemporiki.gr)
 
@@ -72,6 +98,36 @@ Source: [News API](https://newsapi.org/)
 - [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
+
+- [Measles cases hit 33-year high in U.S.: How did it spread? Symptoms and risks explained](https://economictimes.indiatimes.com/news/international/us/measles-cases-hit-33-year-high-in-u-s-how-did-it-spread-symptoms-and-risks-explained/articleshow/122349475.cms) (The Times of India)
+
+- [A disease we thought was gone is roaring back—here’s why](https://www.fastcompany.com/91365418/a-disease-we-thought-was-gone-is-roaring-back-heres-why) (Fast Company)
+
+- [US measles cases hit highest level in more than 30 years, CDC data shows](https://www.foxnews.com/health/us-measles-cases-hit-highest-level-more-than-30-years-cdc-data-shows) (Fox News)
+
+- [U.S. measles numbers reach highest levels in 33 years](https://www.cbsnews.com/video/us-measles-numbers-reach-highest-levels-in-33-years/) (CBS News)
+
+- [Measles Cases Hit Record High, 25 Years After U.S. Eliminated the Disease (New York Times)](https://www.memeorandum.com/250709/p72) (Memeorandum.com)
+
+- [U.S. measles cases hit highest level in 33 years, CDC reports](https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5461155/measles-outbreak-cdc-vaccination-health) (NPR)
+
+- [US measles cases hit highest number in 33 years, CDC data shows](https://abcnews.go.com/Health/us-measles-cases-hit-highest-number-33-years/story?id=123564379) (ABC News)
+
+- [The US is having its worst year for measles in more than three decades](https://www.seattlepi.com/news/article/the-us-is-having-its-worst-year-for-measles-in-20762787.php) (seattlepi.com)
+
+- [The US is having its worst year for measles in more than three decades](https://www.bostonherald.com/2025/07/09/measles-outbreak-high-count/) (Boston Herald)
+
+- [The US is having its worst year for measles in more than three decades](https://www.denverpost.com/2025/07/09/measles-outbreak-high-count/) (The Denver Post)
+
+- [The US is having its worst year for measles in more than three decades](https://abcnews.go.com/Health/wireStory/us-worst-year-measles-decades-123611615) (ABC News)
+
+- [Measles cases in the U.S. hit 1,288, the highest in more than 30 years](https://www.cbsnews.com/news/measles-us-cases-record-high-since-1992/) (CBS News)
+
+- [Vaccination rates among children in Maritimes too low to stop spread of measles](https://www.nationalobserver.com/2025/07/09/news/vaccination-rates-among-children-maritimes-too-low-stop-spread-measles) (National Observer)
+
+- [Measles outbreak reported in southwest Missouri county as US cases continue to climb](https://www.stltoday.com/news/local/business/health-care/article_0731511c-bdd8-4d90-9c7e-d8f3903a01cc.html) (STLtoday.com)
+
+- [Links 7/9/2025](https://www.nakedcapitalism.com/2025/07/links-7-9-2025.html) (Nakedcapitalism.com)
 
 - [New measles cases: Three infected people visit Masterton Pak’nSave, Carterton library](https://www.nzherald.co.nz/nz/new-measles-cases-three-infected-people-visit-masterton-pakn-save-carterton-library/FXXE5WJE5VCYXONJ5YVIWIQMQI/) (New Zealand Herald)
 
@@ -179,6 +235,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (malaria)
 
+- [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
+
+- [First malaria drug for newborns and young infants expected to be approved in Africa within weeks | CNN](https://www.cnn.com/2025/07/09/health/malaria-drug-babies-africa-intl) (CNN)
+
+- [Switzerland approves first antimalarial drug for infants in advance on disease that kills hundreds of thousands in Africa each year](https://fortune.com/europe/2025/07/09/switzerland-approves-first-antimalarial-drug-for-infants/) (Fortune)
+
+- [Avance histórico en la medicina: unos científicos desarrollan el primer tratamiento mundial contra la malaria para recién nacidos](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13454949/07/25/avance-historico-en-la-medicina-unos-cientificos-desarrollan-el-primer-tratamiento-mundial-contra-la-malaria-para-recien-nacidos.html) (Eleconomista.es)
+
+- [全球第一款嬰幼兒瘧疾藥物，獲瑞士批准](https://technews.tw/2025/07/09/novartis-coartem-riamet/) (Technews.tw)
+
 - [7 preventive tips to avoid dengue & malaria this monsoon](https://m.economictimes.com/news/web-stories/7-preventive-tips-to-avoid-dengue-malaria-this-monsoon/slideshow/122335088.cms) (Economictimes.com)
 
 - [Investigating the relationship between Pfkelch13 mutations and response to artemisinin-based treatment for uncomplicated falciparum malaria: a protocol for a systematic review and individual patient data meta-analysis](https://bmjopen.bmj.com/content/15/7/e100251) (The BMJ)
@@ -229,9 +295,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (hpai)
 
+- [Transmission Dynamics of Highly Pathogenic Avian Influenza A(H5N1) and A(H5N6) Viruses in Wild Birds, South Korea, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0373_article) (Cdc.gov)
+
+- [Genetic Characterization of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0186_article) (Cdc.gov)
+
 - [The spread of highly pathogenic avian influenza virus is a social network problem](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013233) (Plos.org)
 
 ## 25-28 (h5n1)
+
+- [Transmission Dynamics of Highly Pathogenic Avian Influenza A(H5N1) and A(H5N6) Viruses in Wild Birds, South Korea, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0373_article) (Cdc.gov)
+
+- [Genetic Characterization of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0186_article) (Cdc.gov)
 
 - [CDC declares bird flu emergency over as experts warn of possible fall resurgence](https://www.foxnews.com/health/cdc-declares-bird-flu-emergency-over-experts-warn-possible-fall-resurgence) (Fox News)
 
@@ -246,6 +320,26 @@ Source: [News API](https://newsapi.org/)
 - [Почему в США хотят распространить птичий грипп по всем фермам](https://hi-news.ru/eto-interesno/pochemu-v-ssha-xotyat-rasprostranit-ptichij-gripp-po-vsem-fermam.html) (Hi-news.ru)
 
 ## 25-28 (dengue)
+
+- [Țânțarul a devenit cea mai letală insectă de pe planetă. Ce boli transmite și la ce să fii atent](https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078) (Mediafax.ro)
+
+- [Estimating the incidence of dengue in international air travelers from non-endemic countries between 2010–2019](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013291) (Plos.org)
+
+- [Forecasting high-risk areas for dengue outbreaks in China: A trend analysis of Aedes albopictus and Aedes aegypti distributions from 2014 to 2030](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013237) (Plos.org)
+
+- [Zika virus-specific and orthoflavivirus-cross-reactive IgGs correlate with Zika virus seroneutralization depending on prior dengue virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013274) (Plos.org)
+
+- [Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203) (Plos.org)
+
+- [Computational insights into flavonoids inhibition of dengue virus envelope protein: ADMET profiling, molecular docking, dynamics, PCA, and end-state free energy calculations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327862) (Plos.org)
+
+- [Dengue : le premier épisode de transmission autochtone de l’année a été identifié en métropole, en Auvergne-Rhône-Alpes](https://www.lemonde.fr/societe/article/2025/07/09/dengue-le-premier-episode-de-transmission-autochtone-de-l-annee-a-ete-identifie-en-metropole-en-auvergne-rhone-alpes_6620185_3224.html) (Le Monde)
+
+- [Nahe Baden-Württemberg: Unaussprechliches Virus: Wie gefährlich ist Chikungunya?](https://www.zeit.de/news/2025-07/09/tropenvirus-angekommen-wie-gefaehrlich-ist-chikungunya) (Die Zeit)
+
+- [Un cas de dengue autochtone dans la Loire : enquête et démoustication en cours](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/un-cas-de-dengue-autochtone-dans-la-loire-enquete-et-demoustication-en-cours-3185490.html) (Franceinfo.fr)
+
+- [Premier épisode de transmission autochtone de dengue pour cette année 2025 identifié en région Auvergne-Rhône-Alpes](https://www.franceinfo.fr/sante/maladie/chikungunya/premier-episode-de-transmission-autochtone-de-dengue-pour-cette-annee-2025-identifie-en-region-auvergne-rhone-alpes_7366761.html) (Franceinfo.fr)
 
 - [Chikungunya-Fall an deutscher Grenze: Was Sie über das Tropenvirus wissen sollten](https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html) (Focus)
 
@@ -276,6 +370,22 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases spike: Telangana health minister orders anti-larval drive expansion; GHMC told to deploy officers](https://timesofindia.indiatimes.com/city/hyderabad/dengue-cases-spike-telangana-health-minister-orders-anti-larval-drive-expansion-ghmc-told-to-deploy-officers/articleshow/122275407.cms) (The Times of India)
 
 ## 25-28 (chikungunya)
+
+- [Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203) (Plos.org)
+
+- [Dengue : le premier épisode de transmission autochtone de l’année a été identifié en métropole, en Auvergne-Rhône-Alpes](https://www.lemonde.fr/societe/article/2025/07/09/dengue-le-premier-episode-de-transmission-autochtone-de-l-annee-a-ete-identifie-en-metropole-en-auvergne-rhone-alpes_6620185_3224.html) (Le Monde)
+
+- [Nahe Baden-Württemberg: Unaussprechliches Virus: Wie gefährlich ist Chikungunya?](https://www.zeit.de/news/2025-07/09/tropenvirus-angekommen-wie-gefaehrlich-ist-chikungunya) (Die Zeit)
+
+- [Nahe Baden-Württemberg: Unaussprechliches Virus: Wie gefährlich ist Chikungunya?](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/nahe-baden-wuerttemberg--unaussprechliches-virus--wie-gefaehrlich-ist-chikungunya--35878548.html) (STERN.de)
+
+- [Viruserkrankung: Bislang 15 importierte Chikungunya-Infektionen im Südwesten](https://www.zeit.de/news/2025-07/09/bislang-15-importierte-chikungunya-infektionen-im-suedwesten) (Die Zeit)
+
+- [Viruserkrankung: Bislang 15 importierte Chikungunya-Infektionen im Südwesten](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/viruserkrankung--bislang-15-importierte-chikungunya-infektionen-im-suedwesten-35880320.html) (STERN.de)
+
+- [Chikungunya-Fall im Elsass: Bringt die Tigermücke Tropenkrankheiten nach Europa?](https://www.n-tv.de/wissen/Bringt-die-Tigermuecke-Tropenkrankheiten-nach-Europa-article25888514.html) (N-tv.de)
+
+- [Un cas de chikungunya autochtone confirmé près de Grenoble, en Isère](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-cas-de-chikungunya-autochtone-confirme-pres-de-grenoble-en-isere-3185415.html) (Franceinfo.fr)
 
 - [Chikungunya-Fall an deutscher Grenze: Was Sie über das Tropenvirus wissen sollten](https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html) (Focus)
 
@@ -2277,8 +2387,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La Sierra Leone recense plus de 3 000 cas de mpox, et 14 décès](https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html) (Le Monde)
 
-- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
-
 ## 25-22 (meningitis)
 
 - [¿Quién puede vacunarse frente a la gonorrea? ¿Cuánto protege la inyección? ¿Como sé si estoy infectado?](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/31/podran-vacunarse-gonorrea-hayan-tenido-ets-ultimo-anotitular-1-col-cuerpo-166-noticias-secundarias-5-lineas/0003_202505G31P26991.htm) (Lavozdegalicia.es)
@@ -2425,12 +2533,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Three-quarters of all measles cases in Alberta are in the southern part of the province | Globalnews.ca](http://globalnews.ca/news/11197726/three-quarters-measles-case-alberta-southern-part-of-province/) (Global News)
 
-- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
-
-- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
-
-- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
-
 ## 25-22 (malaria)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2464,8 +2566,6 @@ Source: [News API](https://newsapi.org/)
 - [Harvard brengt nieuwe doorbraak in strijd tegen malaria](https://businessam.be/?p=251676) (Businessam.be)
 
 - [Africa's example to end malaria](https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria) (Bangkok Post)
-
-- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (leptospirosis)
 
@@ -2547,8 +2647,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pelo menos 20 vacinas contra gripe aviária têm uso aprovado no mundo](https://www.metropoles.com/saude/20-vacinas-gripe-aviaria-aprovadas) (Metropoles.com)
 
-- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
-
 ## 25-22 (dengue)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2598,10 +2696,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue cases in NegOcc rise to 2,253](https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/) (Rpnradio.com)
 
 - [México suma más de 3 mil 500 casos de dengue; Jalisco encabeza la lista](https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862) (Excelsior.com.mx)
-
-- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
-
-- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
 
 ## 25-22 (chikungunya)
 
