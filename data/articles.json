@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-07-10 19:06",
-  "count_articles_total": 1205,
-  "count_articles_new": 47,
+  "last_updated": "2025-07-11 07:08",
+  "count_articles_total": 1225,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 22810,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Une \u00e9pid\u00e9mie de chikungunya est-elle \u00e0 craindre en France hexagonale, o\u00f9 les cas de transmission se multiplient ?",
+      "description": "Alors qu'une \u00e9pid\u00e9mie de ce virus port\u00e9 par les moustiques fait d\u00e9j\u00e0 rage \u00e0 La R\u00e9union et \u00e0 Mayotte, 25 cas de malades contamin\u00e9s dans l'Hexagone ont \u00e9t\u00e9 recens\u00e9s cet \u00e9t\u00e9, jusque dans la r\u00e9gion Grand Est. Du jamais vu \u00e0 ce stade de la saison.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/une-epidemie-de-chikungunya-est-elle-a-craindre-en-france-hexagonale-ou-les-cas-de-transmission-se-multiplient_7364607.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/JU-L-JLhGnSICciaWP0aCaFTmes/0x61:1024x637/1500x843/2025/07/08/075-roy-notitle250607-np5lk-686ce4be69ecb925190830.jpg",
+      "publishedAt": "2025-07-10 04:01:52",
+      "content": "Une maladie tropicale qui s'installe progressivement sur le continent europ\u00e9en. Pour la premi\u00e8re fois, le 2 juillet, un \u00e9pisode de transmission autochtone du chikungunya \u00e9tait d\u00e9tect\u00e9 dans la moiti\u00e9 \u2026 [+7565 chars]",
+      "retrievedAt": "2025-07-11 07:08:49.551702",
+      "internal_id": "fe01c826739fcc5dae2aa4eaf3e189f6d945559adacc6348e664bf5748c73031",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22811,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Mpox [em\u2032poks] and Monkeypox Virus [muhng\u2032kee poks\u2032 v\u012b-ruhs\u2032]",
+      "description": "Mpox and Monkeypox Virus",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/24-0211_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-10 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox, the infectious disea\u2026 [+1732 chars]",
+      "retrievedAt": "2025-07-11 07:08:49.833237",
+      "internal_id": "04d4c4c96fd98c8b893493e649eafcda80d94162a968e942f5656cf1e5b58d37",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22808,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "The US is having its worst year for measles in more than three decades",
+      "description": "The U.S. is grappling with its worst measles outbreak in over three decades, with over 1,288 cases reported this year. Public health officials are concerned about declining vaccination rates, especially among children, and stagnant funding for local health de\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/the-us-is-having-its-worst-year-for-measles-in-more-than-three-decades/articleshow/122353775.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122354543,width-1200,height-630,imgsize-69136,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-10 01:32:17",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, and the year is only half over.The national case count reached 1,288 on Wednesday, according to the U.S. Centers for D\u2026 [+3966 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.838901",
+      "internal_id": "c1d3529fc87b259f0dafa590be688a3e2635bd0c6b3eb7ec00cbcf42c5812d1f",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22803,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Why a seemingly small drop in measles vaccine rates is making such a big impact",
+      "description": "The Centers for Disease Control and Prevention says nearly 1,300 measles cases have been reported so far this year across the U.S. -- the most in more than 30 years. Dr. C\u00e9line Gounder has more.",
+      "url": "https://www.cbsnews.com/video/why-a-seemingly-small-drop-in-measles-vaccine-rates-is-making-such-a-big-impact/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/10/3c5b75e2-37d6-4c6b-ab92-f7261942c715/thumbnail/1200x630/d3a5ed09c8a3b261cb36906b648df097/cbsn-fusion-why-a-seemingly-small-drop-in-measles-vaccine-rates-is-making-such-a-big-impact-thumbnail.jpg",
+      "publishedAt": "2025-07-10 00:01:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-07-11 07:08:46.609980",
+      "internal_id": "07d5e3b6b4c41614fc4d3e266c6efaecf004556bb5c6c98e33ae073d399a3b92",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22806,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Some Alberta hospitals triaging probable measles patients in vehicles",
+      "description": "Some Alberta hospitals are triaging probable measles patients in their vehicles, as the province's outbreak continues to grow.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/some-alberta-hospitals-triaging-probable-measles-patients-in-vehicles-1.7581220",
+      "urlToImage": "https://i.cbc.ca/1.7110648.1707503678!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-vaccine.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-09 23:19:21",
+      "content": "Some Alberta hospitals are triaging probable measles patients in their vehicles, as the province's outbreak continues to grow. Harkening back to the COVID-19 days, patients showing up at the Grey N\u2026 [+3781 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.782620",
+      "internal_id": "3fb6899b25dabb3187c44f0677f531a51d0c2f09da0093f9cbe1174a46649208",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22800,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Rabiessmitta p\u00e5 Svalbard",
+      "description": "Under loppet av tv\u00e5 m\u00e5nader har tv\u00e5 fj\u00e4llr\u00e4var p\u00e5 Svalbard bekr\u00e4ftats smittade med rabies, rapporterar NRK.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1388960",
+      "urlToImage": "https://imbo.vgc.no/users/bt/images/ba22b0e9211d12e12b7c12b4c85ad8a0?t%5B%5D=crop%3Awidth%3D6141%2Cheight%3D3987%2Cx%3D1033%2Cy%3D484&t%5B%5D=maxSize%3Awidth%3D1200&publicKey=bt-w&accessToken=0f9972a7d6394af04fb110676e4a4c067c72d2369d249e9b364b24490a48e218",
+      "publishedAt": "2025-07-09 22:23:17",
+      "content": " Myndigehterna p\u00e5 Svalbard uppmanar befolkningen att rapportera in onormalt beteende hos djur, sedan tv\u00e5 fj\u00e4llr\u00e4var bekr\u00e4ftats smittade med rabies. Genrebild. Foto: Henrik Montgomery/TT Und\u2026 [+10345 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.000547",
+      "internal_id": "b4d88b75c83d1ea0678d4945b06321123aaf20774d6eb8c506f107a0dbc41e9f",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22801,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT",
+      "title": "Rabiessmitta p\u00e5 Svalbard",
+      "description": "Under loppet av tv\u00e5 m\u00e5nader har tv\u00e5 fj\u00e4llr\u00e4var p\u00e5 Svalbard bekr\u00e4ftats smittade med rabies, rapporterar NRK. De b\u00e5da smittade fj\u00e4llr\u00e4varna har hittats p\u00e5 samma plats \u2013 men vid olika tillf\u00e4llen \u2013 och var avlidna n\u00e4r de p\u00e5tr\u00e4ffades. Lokala myndigheter uppmanar n\u2026",
+      "url": "https://www.svd.se/a/OoxkdV/rabiessmitta-pa-svalbard",
+      "urlToImage": "https://svd.vgc.no/v2/images/e7e3c7a6-5952-42ae-9475-2a57f418dd89?h=630&q=80&upscale=true&w=1200&s=b0560c328c42ec66972a2b3a309c845c0ec13a0d",
+      "publishedAt": "2025-07-09 22:18:54",
+      "content": "Under loppet av tv\u00e5 m\u00e5nader har tv\u00e5 fj\u00e4llr\u00e4var p\u00e5 Svalbard bekr\u00e4ftats smittade med rabies, rapporterar NRK. De b\u00e5da smittade fj\u00e4llr\u00e4varna har hittats p\u00e5 samma plats men vid olika tillf\u00e4llen och var \u2026 [+26 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.025523",
+      "internal_id": "377f49ee36b25206d48d1ad05999310a582605510a3c76996096c8ee3eac5ede",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22802,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Rabiessmitta p\u00e5 Svalbard",
+      "description": "Under loppet av tv\u00e5 m\u00e5nader har tv\u00e5 fj\u00e4llr\u00e4var p\u00e5 Svalbard bekr\u00e4ftats smittade med rabies, rapporterar NRK.",
+      "url": "https://www.aftonbladet.se/nyheter/a/wglr2o/rabiessmitta-pa-svalbard",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/832bca1e-282d-4f8f-98b0-66a260e7ddce?fit=crop&format=auto&h=1267&q=50&w=1900&s=28d1882d39d0a682db4f00b68d12a9a1195fbd46",
+      "publishedAt": "2025-07-09 22:18:53",
+      "content": "Under loppet av tv\u00e5 m\u00e5nader har tv\u00e5 fj\u00e4llr\u00e4var p\u00e5 Svalbard bekr\u00e4ftats smittade med rabies, rapporterar NRK. De b\u00e5da smittade fj\u00e4llr\u00e4varna har hittats p\u00e5 samma plats men vid olika tillf\u00e4llen och var \u2026 [+209 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.041767",
+      "internal_id": "6475106d3e470762ef95e508eed7e2c470bbd14c64b29efe4668d07abda047bd",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22805,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "U.S. sees most single-year measles cases since it declared disease eliminated (Helen Branswell/STAT)",
+      "description": "Helen Branswell / STAT: U.S. sees most single-year measles cases since it declared disease eliminated \u2014 As anti-vaccine sentiment rises, experts predict country is on dangerous course \u2014 The United States has now recorded more confirmed measles cases this \u2026",
+      "url": "https://www.memeorandum.com/250709/p117",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/07/Measles-red-909x576.jpg",
+      "publishedAt": "2025-07-09 21:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.700324",
+      "internal_id": "73f7ce76ad3a47578afb86576079d3158df140306c77ed7845731fc0de3f1dd8",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22804,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "U.S. having its worst year for measles in more than three decades",
+      "description": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and Prevention said Wednesday that the national case count surpa\u2026",
+      "url": "https://japantoday.com/category/features/health/the-us-is-having-its-worst-year-for-measles-in-more-than-three-decades",
+      "urlToImage": null,
+      "publishedAt": "2025-07-09 21:31:11",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and\u2026 [+2963 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.618503",
+      "internal_id": "07baa75f3ab67d0836a6447d50314844ecc45d00512f3db48dda84171be71c19",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22807,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Province warns of possible measles exposure at Winkler clinic, reports 14 more cases",
+      "description": "Manitoba public health officials are warning of possible measles exposure at a medical centre in Winkler, as the province also confirmed 14 new cases since its last update.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-numbers-exposure-site-1.7581100",
+      "urlToImage": "https://i.cbc.ca/1.7508947.1744474099!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-09 20:53:02",
+      "content": "Manitoba public health officials are warning of possible measles exposure at a medical centre in Winkler, as the province also confirmed 14 new cases since its last update. Anyone who was in the Win\u2026 [+2353 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.800269",
+      "internal_id": "8d5fb5e1fca60a596bc63d89dfbbeb9e244a4fc2033cd76d9bb0bff3c5483e9b",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 22809,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Devi Shastri, Associated Press",
+      "title": "The U.S. is having its worst year of measles cases in more than three decades",
+      "description": "The U.S. Centers for Disease Control and Prevention said Wednesday that the national case count surpassed 2019, when there were 1,274 cases for the year and the country almost lost its status of having eliminated the vaccine-preventable illness. That could ha\u2026",
+      "url": "https://www.pbs.org/newshour/health/the-u-s-is-having-its-worst-year-of-measles-cases-in-more-than-three-decades",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/02/NewsWrap-18-1024x768.jpg",
+      "publishedAt": "2025-07-09 19:40:31",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and\u2026 [+3191 chars]",
+      "retrievedAt": "2025-07-11 07:08:46.862490",
+      "internal_id": "c483544c5daef535a244b1a9063263a5865ee0e178445229244480668cb33709",
+      "publishedAtLabel": "Jul 9"
+    },
     {
       "id": 22768,
       "query": [
@@ -21744,6 +21960,150 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21576,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Virginian-Pilot",
+      "author": "The Daily Progress",
+      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
+      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
+      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
+      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 17:26:18",
+      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.311788",
+      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Ethiopia reports first mpox case",
+      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-25 17:09:00",
+      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
+      "retrievedAt": "2025-05-26 19:05:56.538122",
+      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Attila Pelit",
+      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
+      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
+      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
+      "publishedAt": "2025-05-25 17:00:30",
+      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.197216",
+      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21583,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
+      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
+      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
+      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
+      "publishedAt": "2025-05-25 14:40:28",
+      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.078898",
+      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
+      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
+      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
+      "publishedAt": "2025-05-25 14:00:41",
+      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
+      "retrievedAt": "2025-05-26 19:05:55.552382",
+      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
+      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
+      "publishedAt": "2025-05-25 12:16:38",
+      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.406035",
+      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
+      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
+      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 12:00:46",
+      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.188864",
+      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
+      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
+      "publishedAt": "2025-05-25 08:43:49",
+      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.507741",
+      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]
