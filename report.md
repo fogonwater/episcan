@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-07-11 07:08
-- **Most recent article:** 2025-07-10 04:01:52
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-07-11 19:06
+- **Most recent article:** 2025-07-10 19:04:43
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 68 | 90 | 48 | 31 | 53 | 36 | 74 | 400 |
-| dengue | 26 | 25 | 14 | 17 | 26 | 24 | 24 | 156 |
-| malaria | 17 | 16 | 19 | 23 | 13 | 21 | 29 | 138 |
-| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 25 | 114 |
-| mpox | 19 | 15 | 24 | 11 | 27 | 10 | 4 | 110 |
-| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 6 | 95 |
-| h5n1 | 36 | 9 | 5 | 9 | 3 | 8 | 8 | 78 |
+| measles | 65 | 90 | 48 | 31 | 53 | 36 | 83 | 406 |
+| dengue | 24 | 25 | 14 | 17 | 26 | 24 | 29 | 159 |
+| malaria | 16 | 16 | 19 | 23 | 13 | 21 | 29 | 137 |
+| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 30 | 119 |
+| mpox | 18 | 15 | 24 | 11 | 27 | 10 | 4 | 109 |
+| meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 7 | 96 |
+| h5n1 | 35 | 9 | 5 | 9 | 3 | 8 | 9 | 78 |
 | rabies | 9 | 6 | 6 | 19 | 5 | 17 | 10 | 72 |
-| zika | 9 | 7 | 2 | 14 | 2 | 8 | 6 | 48 |
+| zika | 9 | 7 | 2 | 14 | 2 | 8 | 8 | 50 |
 | yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 1 | 21 |
 | typhoid | 2 | 0 | 3 | 0 | 3 | 2 | 3 | 13 |
 | hpai | 1 | 3 | 1 | 1 | 0 | 4 | 3 | 13 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-28 (zika)
+
+- [La OMS advierte a nivel mundial de la reaparición de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/actualidad/noticias/13457719/07/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
+
+- [Nova vacina contra zika vírus é bem-sucedida em testes](https://veja.abril.com.br/saude/nova-vacina-contra-zika-virus-e-bem-sucedida-em-testes/) (Abril.com.br)
 
 - [Țânțarul a devenit cea mai letală insectă de pe planetă. Ce boli transmite și la ce să fii atent](https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078) (Mediafax.ro)
 
@@ -93,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (meningitis)
 
+- [Meningitis outbreak kills 2 in Zambia](https://www.thestar.com.my/news/world/2025/07/11/meningitis-outbreak-kills-2-in-zambia) (The Star Online)
+
 - [Gaza health authorities warn of "worrying" rise in meningitis cases](https://www.thestar.com.my/news/world/2025/07/09/gaza-health-authorities-warn-of-worrying-rise-in-meningitis-cases) (The Star Online)
 
 - [Doctors alarmed at rising meningitis cases in Gaza’s children](https://www.aljazeera.com/video/newsfeed/2025/7/7/doctors-alarmed-at-rising-meningitis-cases-in-gazas-children-2) (Al Jazeera English)
@@ -106,6 +112,24 @@ Source: [News API](https://newsapi.org/)
 - [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
+
+- [Measles Cases At A 33 Year High, According To CDC Report](https://www.forbes.com/sites/davewessner/2025/07/10/measles-cases-at-a-33-year-high-according-to-cdc-report/) (Forbes)
+
+- [What to know as measles cases in U.S. hit highest level recorded in over 30 years](https://www.cbsnews.com/video/what-to-know-as-measles-cases-in-u-s-hit-highest-level-recorded-in-over-30-years/) (CBS News)
+
+- [Measles Cases in the US Hit 33-Year High](https://www.today.com/video/measles-count-in-us-at-nearly-1-300-in-worst-year-in-3-decades-242993733816) (TODAY)
+
+- [Data reveals FEMA missed major flood risks. And, measles hit highest level in decades](https://www.npr.org/2025/07/10/g-s1-76933/up-first-newsletter-texas-floods-vigil-fema-measles) (NPR)
+
+- [Once Eliminated, Measles Cases Now Reach Record High In U.S.](https://crooksandliars.com/2025/07/once-eliminated-measles-cases-reach-record) (Crooksandliars.com)
+
+- [Morning news brief](https://www.npr.org/2025/07/10/nx-s1-5458431/morning-news-brief) (NPR)
+
+- [U.S. has already posted more measles cases than in any year since 1991 and 2025 is only half over](https://fortune.com/2025/07/10/us-posted-more-measles-cases-since-1991-and-2025-only-half-over/) (Fortune)
+
+- [Measles vaccination rate inadequate, Nova Scotia's chief medical officer says](https://www.cbc.ca/news/canada/nova-scotia/measles-vaccination-rate-inadequate-robert-strang-1.7581243) (CBC News)
+
+- [Editorial: Golden age for disease: RFK presides over rampant measles](https://www.nydailynews.com/2025/07/09/golden-age-for-disease-rfk-presides-over-rampant-measles/) (New York Daily News)
 
 - [The US is having its worst year for measles in more than three decades](https://economictimes.indiatimes.com/news/international/global-trends/the-us-is-having-its-worst-year-for-measles-in-more-than-three-decades/articleshow/122353775.cms) (The Times of India)
 
@@ -325,6 +349,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (h5n1)
 
+- [Child hospitalised as bird flu cases climb in Cambodia](https://theconversation.com/child-hospitalised-as-bird-flu-cases-climb-in-cambodia-260565) (The Conversation Africa)
+
 - [Transmission Dynamics of Highly Pathogenic Avian Influenza A(H5N1) and A(H5N6) Viruses in Wild Birds, South Korea, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0373_article) (Cdc.gov)
 
 - [Genetic Characterization of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0186_article) (Cdc.gov)
@@ -342,6 +368,16 @@ Source: [News API](https://newsapi.org/)
 - [Почему в США хотят распространить птичий грипп по всем фермам](https://hi-news.ru/eto-interesno/pochemu-v-ssha-xotyat-rasprostranit-ptichij-gripp-po-vsem-fermam.html) (Hi-news.ru)
 
 ## 25-28 (dengue)
+
+- [Kalyan man is Mumbai Metropolitan Region’s first dengue casualty this monsoon](https://timesofindia.indiatimes.com/city/mumbai/kalyan-man-is-mumbai-metropolitan-regions-first-dengue-casualty-this-monsoon/articleshow/122372779.cms) (The Times of India)
+
+- [Dengue e Chikungunya: la mappa del rischio in Italia e i consigli degli esperti](https://www.ilsole24ore.com/art/dengue-e-chikungunya-mappa-rischio-italia-e-consigli-esperti-AHa2yTeB) (Il Sole 24 Ore)
+
+- [La OMS advierte a nivel mundial de la reaparición de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/actualidad/noticias/13457719/07/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
+
+- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_9dcbedf3-993b-4e07-98b3-fe1293c592d9.html) (ANSA.it)
+
+- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/sito/notizie/topnews/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_c683474c-dd7c-48f9-ae69-5c335b2a1498.html) (ANSA.it)
 
 - [Țânțarul a devenit cea mai letală insectă de pe planetă. Ce boli transmite și la ce să fii atent](https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078) (Mediafax.ro)
 
@@ -392,6 +428,16 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases spike: Telangana health minister orders anti-larval drive expansion; GHMC told to deploy officers](https://timesofindia.indiatimes.com/city/hyderabad/dengue-cases-spike-telangana-health-minister-orders-anti-larval-drive-expansion-ghmc-told-to-deploy-officers/articleshow/122275407.cms) (The Times of India)
 
 ## 25-28 (chikungunya)
+
+- [Dengue e Chikungunya: la mappa del rischio in Italia e i consigli degli esperti](https://www.ilsole24ore.com/art/dengue-e-chikungunya-mappa-rischio-italia-e-consigli-esperti-AHa2yTeB) (Il Sole 24 Ore)
+
+- [La OMS advierte a nivel mundial de la reaparición de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/actualidad/noticias/13457719/07/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
+
+- [Erste Chikungunya-Infektion in Mitteleuropa](https://science.orf.at/stories/3231051/) (Science.orf.at)
+
+- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_9dcbedf3-993b-4e07-98b3-fe1293c592d9.html) (ANSA.it)
+
+- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/sito/notizie/topnews/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_c683474c-dd7c-48f9-ae69-5c335b2a1498.html) (ANSA.it)
 
 - [Une épidémie de chikungunya est-elle à craindre en France hexagonale, où les cas de transmission se multiplient ?](https://www.franceinfo.fr/sante/maladie/chikungunya/une-epidemie-de-chikungunya-est-elle-a-craindre-en-france-hexagonale-ou-les-cas-de-transmission-se-multiplient_7364607.html) (Franceinfo.fr)
 
@@ -2411,8 +2457,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La Sierra Leone recense plus de 3 000 cas de mpox, et 14 décès](https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html) (Le Monde)
 
-- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
-
 ## 25-22 (meningitis)
 
 - [¿Quién puede vacunarse frente a la gonorrea? ¿Cuánto protege la inyección? ¿Como sé si estoy infectado?](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/31/podran-vacunarse-gonorrea-hayan-tenido-ets-ultimo-anotitular-1-col-cuerpo-166-noticias-secundarias-5-lineas/0003_202505G31P26991.htm) (Lavozdegalicia.es)
@@ -2559,12 +2603,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Three-quarters of all measles cases in Alberta are in the southern part of the province | Globalnews.ca](http://globalnews.ca/news/11197726/three-quarters-measles-case-alberta-southern-part-of-province/) (Global News)
 
-- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
-
-- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
-
-- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
-
 ## 25-22 (malaria)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2598,8 +2636,6 @@ Source: [News API](https://newsapi.org/)
 - [Harvard brengt nieuwe doorbraak in strijd tegen malaria](https://businessam.be/?p=251676) (Businessam.be)
 
 - [Africa's example to end malaria](https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria) (Bangkok Post)
-
-- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (leptospirosis)
 
@@ -2681,8 +2717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pelo menos 20 vacinas contra gripe aviária têm uso aprovado no mundo](https://www.metropoles.com/saude/20-vacinas-gripe-aviaria-aprovadas) (Metropoles.com)
 
-- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
-
 ## 25-22 (dengue)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2732,10 +2766,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue cases in NegOcc rise to 2,253](https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/) (Rpnradio.com)
 
 - [México suma más de 3 mil 500 casos de dengue; Jalisco encabeza la lista](https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862) (Excelsior.com.mx)
-
-- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
-
-- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
 
 ## 25-22 (chikungunya)
 
