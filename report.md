@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-07-12 07:07
-- **Most recent article:** 2025-07-11 06:14:59
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-07-12 19:05
+- **Most recent article:** 2025-07-11 18:02:15
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-22 | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 68 | 90 | 48 | 31 | 53 | 36 | 89 | 415 |
-| dengue | 26 | 25 | 14 | 17 | 26 | 24 | 31 | 163 |
-| malaria | 17 | 16 | 19 | 23 | 13 | 21 | 29 | 138 |
-| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 34 | 123 |
-| mpox | 19 | 15 | 24 | 11 | 27 | 10 | 4 | 110 |
+| measles | 65 | 90 | 48 | 31 | 53 | 36 | 92 | 415 |
+| dengue | 24 | 25 | 14 | 17 | 26 | 24 | 33 | 163 |
+| malaria | 16 | 16 | 19 | 23 | 13 | 21 | 29 | 137 |
+| chikungunya | 12 | 21 | 13 | 13 | 20 | 10 | 40 | 129 |
+| mpox | 18 | 15 | 24 | 11 | 27 | 10 | 6 | 111 |
 | meningitis | 6 | 2 | 4 | 1 | 35 | 41 | 7 | 96 |
-| h5n1 | 36 | 9 | 5 | 9 | 3 | 8 | 9 | 79 |
-| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 11 | 73 |
-| zika | 9 | 7 | 2 | 14 | 2 | 8 | 10 | 52 |
-| yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 1 | 21 |
+| h5n1 | 35 | 9 | 5 | 9 | 3 | 8 | 9 | 78 |
+| rabies | 9 | 6 | 6 | 19 | 5 | 17 | 14 | 76 |
+| zika | 9 | 7 | 2 | 14 | 2 | 8 | 12 | 54 |
+| yersinia | 11 | 6 | 3 | 0 | 0 | 0 | 2 | 22 |
 | typhoid | 2 | 0 | 3 | 0 | 3 | 2 | 3 | 13 |
 | hpai | 1 | 3 | 1 | 1 | 0 | 4 | 3 | 13 |
 | pertussis | 3 | 2 | 4 | 2 | 0 | 0 | 0 | 11 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-28 (zika)
+
+- [Oito crianças com síndrome causada pelo Zika vírus morreram nos últimos 20 dias; famílias aguardam pensão autorizada por lei](https://www.terra.com.br/nos/oito-criancas-com-sindrome-causada-pelo-zika-virus-morreram-nos-ultimos-20-dias-familias-aguardam-pensao-autorizada-por-lei,f987b828ec4f7f1e097f5c87329ee732qkokfxzn.html) (Terra.com.br)
+
+- [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
 
 - [OMS lança primeira diretriz para o manejo de quatro doenças transmitidas por mosquitos](https://veja.abril.com.br/saude/oms-lanca-primeira-diretriz-para-o-manejo-de-quatro-doencas-transmitidas-por-mosquitos/) (Abril.com.br)
 
@@ -57,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (yersinia)
 
+- [Rare Plague Death Reported in Arizona](https://www.newsweek.com/plague-death-pneumonic-arizona-patient-disease-2097973) (Newsweek)
+
 - [Yersinia pseudotuberculosis growth arrest during type-III secretion system expression is associated with altered ribosomal protein expression and decreased gentamicin susceptibility](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012548) (Plos.org)
 
 ## 25-28 (typhoid)
@@ -68,6 +74,12 @@ Source: [News API](https://newsapi.org/)
 - [Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740) (Plos.org)
 
 ## 25-28 (rabies)
+
+- [Louisville health officials warn residents after rabid bat found in Okolona](https://www.wdrb.com/news/louisville-health-officials-warn-residents-after-rabid-bat-found-in-okolona/article_8dd16da3-d14d-484d-8ddf-3ab93058cd72.html) (WDRB)
+
+- [Traditional medicine use among rabies exposed individuals in Ethiopia: A systematic review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013319) (Plos.org)
+
+- [150g chicken, 100g rice: Bengaluru municipality rolls out Rs 3 crore diet plan for street dogs, Bengalureans say, “please add desserts too”](https://economictimes.indiatimes.com/news/new-updates/150g-chicken-100g-rice-bengaluru-municipality-rolls-out-rs-3-crore-diet-plan-for-street-dogs-bengalureans-say-please-add-desserts-too/articleshow/122384346.cms) (The Times of India)
 
 - [Fitzgerald warns of rabies in Labrador after dog tests positive from fox encounter in Hopedale](https://www.cbc.ca/news/canada/newfoundland-labrador/rabies-hopedale-labrador-1.7582173) (CBC News)
 
@@ -92,6 +104,10 @@ Source: [News API](https://newsapi.org/)
 - [Louis Pasteur: The Man Who Said, “Science Brings Men Closer to God”](https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/) (Answersingenesis.org)
 
 ## 25-28 (mpox)
+
+- [Moçambique confirma três casos do atual surto de mpox](https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/) (Observador.pt)
+
+- [Africa records over 4,200 cholera, mpox deaths in 2025: Africa CDC](https://www.thestar.com.my/news/world/2025/07/12/africa-records-over-4200-cholera-mpox-deaths-in-2025-africa-cdc) (The Star Online)
 
 - [Mpox [em′poks] and Monkeypox Virus [muhng′kee poks′ vī-ruhs′]](https://wwwnc.cdc.gov/eid/article/31/8/24-0211_article) (Cdc.gov)
 
@@ -118,6 +134,12 @@ Source: [News API](https://newsapi.org/)
 - [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
+
+- [Public Health urging people in Sussex to test for measles, get vaccinated after confirmed case](https://www.cbc.ca/news/canada/new-brunswick/public-health-confirmed-measles-sussex-region-nb-kim-barker-1.7582760) (CBC News)
+
+- [Health-care providers urge vigilance as more measles cases confirmed in Pictou County](https://www.cbc.ca/news/canada/nova-scotia/more-measles-in-pictou-county-1.7582950) (CBC News)
+
+- [Hot Measles Summer](https://slate.com/podcasts/what-next-tbd/2025/07/measles-has-a-messaging-problem) (Slate Magazine)
 
 - [Manitoba Health warns of 2 new measles exposures sites in Morden](https://www.cbc.ca/news/canada/manitoba/measles-vaccination-public-health-1.7582525) (CBC News)
 
@@ -387,6 +409,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (dengue)
 
+- [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
+
+- [Vítima da dengue: morre no DF o ator e iluminador cênico Josias Silva](https://www.metropoles.com/distrito-federal/vitima-da-dengue-morre-no-df-o-ator-e-iluminador-cenico-josias-silva) (Metropoles.com)
+
 - [OMS lança primeira diretriz para o manejo de quatro doenças transmitidas por mosquitos](https://veja.abril.com.br/saude/oms-lanca-primeira-diretriz-para-o-manejo-de-quatro-doencas-transmitidas-por-mosquitos/) (Abril.com.br)
 
 - [OMS considera prioridade combater malária em Cabo Verde](https://observador.pt/2025/07/10/oms-considera-prioridade-combater-malaria-que-ameaca-certificacao-de-cabo-verde/) (Observador.pt)
@@ -450,6 +476,18 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases spike: Telangana health minister orders anti-larval drive expansion; GHMC told to deploy officers](https://timesofindia.indiatimes.com/city/hyderabad/dengue-cases-spike-telangana-health-minister-orders-anti-larval-drive-expansion-ghmc-told-to-deploy-officers/articleshow/122275407.cms) (The Times of India)
 
 ## 25-28 (chikungunya)
+
+- [Valneva Announces Lifting of European Medicines Agency’s Temporary Restriction on Use of Chikungunya Vaccine IXCHIQ® in Elderly](https://www.globenewswire.com/news-release/2025/07/11/3114143/0/en/Valneva-Announces-Lifting-of-European-Medicines-Agency-s-Temporary-Restriction-on-Use-of-Chikungunya-Vaccine-IXCHIQ-in-Elderly.html) (GlobeNewswire)
+
+- [Valneva annonce la levée de la restriction temporaire de l'Agence européenne des médicaments sur l'utilisation du vaccin contre le chikungunya IXCHIQ® chez les personnes âgées](https://www.globenewswire.com/news-release/2025/07/11/3114143/0/fr/Valneva-annonce-la-lev%C3%A9e-de-la-restriction-temporaire-de-l-Agence-europ%C3%A9enne-des-m%C3%A9dicaments-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es.html) (GlobeNewswire)
+
+- [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
+
+- [Chikungunya dans l'Hexagone : "Tous les ingrédients sont réunis pour que les cas flambent et qu’une épidémie se propage"](https://www.marianne.net/societe/sante/chikungunya-dans-l-hexagone-tous-les-ingredients-sont-reunis-pour-que-les-cas-flambent-et-quune-epidemie-se-propage) (Marianne.net)
+
+- [Infektionsrisiko in Deutschland: Tigermücken auf dem Vormarsch: Wo die Gefahr besonders groß ist](https://www.stern.de/panorama/tigermuecken---wo-sie-leben--was-ein-stich-ausloesen-kann-35886556.html) (STERN.de)
+
+- [Tigermücke überträgt es - Stiko empfiehlt Impfung gegen Chikungunya-Virus](https://www.bild.de/leben-wissen/wissenschaft/chikungunya-virus-stiko-empfiehlt-impfung-6870a253d1592e395c9d76b7) (Bild)
 
 - [Tropikalny wirus chikungunya w Alzacji. Specjaliści biją na alarm](https://wydarzenia.interia.pl/zagranica/news-tropikalny-wirus-chikungunya-w-alzacji-zakazony-nie-wyjezdza,nId,22164206) (Interia.pl)
 
@@ -2487,8 +2525,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La Sierra Leone recense plus de 3 000 cas de mpox, et 14 décès](https://www.lemonde.fr/afrique/article/2025/05/26/la-sierra-leone-recense-plus-de-3-000-cas-de-mpox-et-14-deces_6608595_3212.html) (Le Monde)
 
-- [Ethiopia reports first mpox case](https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case) (The Star Online)
-
 ## 25-22 (meningitis)
 
 - [¿Quién puede vacunarse frente a la gonorrea? ¿Cuánto protege la inyección? ¿Como sé si estoy infectado?](https://www.lavozdegalicia.es/noticia/sociedad/2025/05/31/podran-vacunarse-gonorrea-hayan-tenido-ets-ultimo-anotitular-1-col-cuerpo-166-noticias-secundarias-5-lineas/0003_202505G31P26991.htm) (Lavozdegalicia.es)
@@ -2635,12 +2671,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Three-quarters of all measles cases in Alberta are in the southern part of the province | Globalnews.ca](http://globalnews.ca/news/11197726/three-quarters-measles-case-alberta-southern-part-of-province/) (Global News)
 
-- [Virginia’s 2nd measles case reported in Charlottesville](https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/) (The Virginian-Pilot)
-
-- [Diseases Are Spreading. The CDC Isn’t Warning the Public Like It Was Months Ago](https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago) (KQED)
-
-- [Parts of Colorado face measles risk as high as West Texas due to low vaccination rates](https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/) (The Denver Post)
-
 ## 25-22 (malaria)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2674,8 +2704,6 @@ Source: [News API](https://newsapi.org/)
 - [Harvard brengt nieuwe doorbraak in strijd tegen malaria](https://businessam.be/?p=251676) (Businessam.be)
 
 - [Africa's example to end malaria](https://www.bangkokpost.com/opinion/opinion/3034160/africas-example-to-end-malaria) (Bangkok Post)
-
-- [Pilotprojekt in Uganda: Gen-Mücken sollen Malaria besiegen](https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html) (N-tv.de)
 
 ## 25-22 (leptospirosis)
 
@@ -2757,8 +2785,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pelo menos 20 vacinas contra gripe aviária têm uso aprovado no mundo](https://www.metropoles.com/saude/20-vacinas-gripe-aviaria-aprovadas) (Metropoles.com)
 
-- [Παρέμβαση Κένεντι για τη διάσωση στρουθοκαμήλων στον Καναδά μετά από παρότρυνση Κατσιματίδη](https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous) (Skai.gr)
-
 ## 25-22 (dengue)
 
 - [Docs see rise in dengue & malaria cases as rains arrive early; BMC says no spike](https://timesofindia.indiatimes.com/city/mumbai/docs-see-rise-in-dengue-malaria-cases-as-rains-arrive-early-bmc-says-no-spike/articleshow/121540859.cms) (The Times of India)
@@ -2808,10 +2834,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue cases in NegOcc rise to 2,253](https://rpnradio.com/bacolod-dengue-cases-in-negocc-rise-to-2253/) (Rpnradio.com)
 
 - [México suma más de 3 mil 500 casos de dengue; Jalisco encabeza la lista](https://www.excelsior.com.mx/nacional/mexico-suma-mas-de-3-mil-500-casos-de-dengue-jalisco-encabeza-la-lista/1717862) (Excelsior.com.mx)
-
-- [Porto Alegre aplica mais de 50 mil doses no Dia D da vacinação](https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html) (Terra.com.br)
-
-- [Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024](https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024) (The Straits Times)
 
 ## 25-22 (chikungunya)
 

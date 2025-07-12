@@ -1,8 +1,316 @@
 {
-  "last_updated": "2025-07-12 07:07",
-  "count_articles_total": 1256,
-  "count_articles_new": 13,
+  "last_updated": "2025-07-12 19:05",
+  "count_articles_total": 1265,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 22857,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mo\u00e7ambique confirma tr\u00eas casos do atual surto de mpox",
+      "description": "Os pacientes encontram-se de momento est\u00e1veis e em isolamento domicili\u00e1rio. Os tr\u00eas casos foram confirmados na prov\u00edncia do Niassa, perto da fronteira de Mo\u00e7ambique com a Tanz\u00e2nia.",
+      "url": "https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F07%2F11164855%2F43681522.jpg?layer=obstop:T",
+      "publishedAt": "2025-07-11 18:02:15",
+      "content": "Mo\u00e7ambique confirmou esta sexta-feira os primeiros tr\u00eas casos de mpox no atual surto que afeta v\u00e1rios pa\u00edses africanos, detetados na prov\u00edncia do Niassa, no noroeste, com os pacientes est\u00e1veis e em i\u2026 [+544 chars]",
+      "retrievedAt": "2025-07-12 19:05:54.311654",
+      "internal_id": "c783de4b10aca2afd80507450506c8f5b41af56601f07382f6067788d6e04ee6",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22859,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "Rare Plague Death Reported in Arizona",
+      "description": "Officials clarified that the death is unrelated to a recent prairie dog die-off in the Townsend-Winona area northeast of Flagstaff.",
+      "url": "https://www.newsweek.com/plague-death-pneumonic-arizona-patient-disease-2097973",
+      "urlToImage": "https://d.newsweek.com/en/full/2450666/breaking-news.jpg",
+      "publishedAt": "2025-07-11 17:52:35",
+      "content": "Coconino County, Arizona, officials confirmed on Friday that a resident has died from pneumonic plague, a lung infection caused by the Yersinia pestis bacterium. Health and Human Services officials \u2026 [+340 chars]",
+      "retrievedAt": "2025-07-12 19:05:55.542174",
+      "internal_id": "c16f88099954ea4ae002dae5669d9821e6db77a9ab8d3ba06ce55db8402b09fa",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22848,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Public Health urging people in Sussex to test for measles, get vaccinated after confirmed case",
+      "description": "Public Health is asking New Brunswickers in Sussex or people who recently visited the region to monitor for measles symptoms and get vaccinated, following a confirmed case of the illness.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/public-health-confirmed-measles-sussex-region-nb-kim-barker-1.7582760",
+      "urlToImage": "https://i.cbc.ca/1.7207877.1745705736!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus-particle.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-11 17:41:16",
+      "content": "Public Health is asking New Brunswickers in Sussex or people who recently visited the region to monitor for measles symptoms and get vaccinated, following a confirmed case of the illness. The case, \u2026 [+3561 chars]",
+      "retrievedAt": "2025-07-12 19:05:49.743688",
+      "internal_id": "eed1ba712fd47daa1a5c4681951e165d4b23ea390fc37dd0b85e5f3cf562e2e3",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22851,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Oito crian\u00e7as com s\u00edndrome causada pelo Zika v\u00edrus morreram nos \u00faltimos 20 dias; fam\u00edlias aguardam pens\u00e3o autorizada por lei",
+      "description": "UniZika confirma falecimentos e acresenta que 30 meninas e meninos est\u00e3o em UTIs; senadora Mara Gabrilli protocolou of\u00edcios cobrando governo pela regulamenta\u00e7\u00e3o urgente; ainda n\u00e3o h\u00e1 previs\u00e3o para in\u00edcio do pagamento.",
+      "url": "https://www.terra.com.br/nos/oito-criancas-com-sindrome-causada-pelo-zika-virus-morreram-nos-ultimos-20-dias-familias-aguardam-pensao-autorizada-por-lei,f987b828ec4f7f1e097f5c87329ee732qkokfxzn.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-07-11 17:23:09",
+      "content": "A organiza\u00e7\u00e3o 'Unidas pela luta dos direitos das fam\u00edlias afetadas pelo Zika v\u00edrus (UniZika)' confirmou ao blog Vencer Limites que oito crian\u00e7as nascidas com a S\u00edndrome Cong\u00eanita do Zika V\u00edrus morrer\u2026 [+3055 chars]",
+      "retrievedAt": "2025-07-12 19:05:52.977343",
+      "internal_id": "b55861f6f8dce09a4053df24bc3da56e4e753ef4efe9ada7e25cf6cec13dd2b4",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22847,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health-care providers urge vigilance as more measles cases confirmed in Pictou County",
+      "description": "Heath experts encourage awareness when making summer plans as four cases of measles are under investigation in Pictou County.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/more-measles-in-pictou-county-1.7582950",
+      "urlToImage": "https://i.cbc.ca/1.5951753.1752250494!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ns-mobile-covid-test.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-11 16:58:32",
+      "content": "Heath experts encourage awareness when making summer plans as four cases of measles are under investigation in Pictou County. Dr. Cristin Muecke, the regional medical officer of health for the nort\u2026 [+1881 chars]",
+      "retrievedAt": "2025-07-12 19:05:49.720566",
+      "internal_id": "06d68f4e80bfb998e307a3bbdd84d6603a95004be88a366a435f951795985a77",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22858,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Africa records over 4,200 cholera, mpox deaths in 2025: Africa CDC",
+      "description": "ADDIS ABABA, July 11 (Xinhua) -- Africa has recorded more than 4,200 deaths due to ongoing cholera and mpox outbreaks in different parts of the continent in 2025, the Africa Centers for Disease Control and Prevention (Africa CDC) has said. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/07/12/africa-records-over-4200-cholera-mpox-deaths-in-2025-africa-cdc",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-11 16:39:00",
+      "content": "ADDIS ABABA, July 11 (Xinhua) -- Africa has recorded more than 4,200 deaths due to ongoing cholera and mpox outbreaks in different parts of the continent in 2025, the Africa Centers for Disease Contr\u2026 [+1225 chars]",
+      "retrievedAt": "2025-07-12 19:05:54.343375",
+      "internal_id": "92dd682a218bd907d61e2eac63a2e71429fbc5bffb6fbfc3da794748f03cc679",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22854,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Announces Lifting of European Medicines Agency\u2019s Temporary Restriction on Use of Chikungunya Vaccine IXCHIQ\u00ae in Elderly",
+      "description": "Saint Herblain (France), July, 11 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Medicines Agency (EMA) will lift the temporary restriction on vaccinating people aged 65 years and above af\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/11/3114143/0/en/Valneva-Announces-Lifting-of-European-Medicines-Agency-s-Temporary-Restriction-on-Use-of-Chikungunya-Vaccine-IXCHIQ-in-Elderly.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-07-11 15:35:00",
+      "content": "Saint Herblain (France), July, 11 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Medicines Agency (EMA) will lift the temporary res\u2026 [+6188 chars]",
+      "retrievedAt": "2025-07-12 19:05:53.969932",
+      "internal_id": "820bc0c0c5b6fce764d75ee03abd7469a94a8169fb5130ff885187ea99ff265b",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22855,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce la lev\u00e9e de la restriction temporaire de l'Agence europ\u00e9enne des m\u00e9dicaments sur l'utilisation du vaccin contre le chikungunya IXCHIQ\u00ae chez les personnes \u00e2g\u00e9es",
+      "description": "Saint Herblain (France), le 11 juillet 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui que l\u2019agence europ\u00e9enne des m\u00e9dicaments (EMA) allait l\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/11/3114143/0/fr/Valneva-annonce-la-lev%C3%A9e-de-la-restriction-temporaire-de-l-Agence-europ%C3%A9enne-des-m%C3%A9dicaments-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-07-11 15:35:00",
+      "content": "Saint Herblain (France), le 11 juillet 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'h\u2026 [+7104 chars]",
+      "retrievedAt": "2025-07-12 19:05:53.978944",
+      "internal_id": "b9c44e46133cdecef1988b26b0758df32e56627399f997f3a88f35b28d0523f0",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22845,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WDRB",
+      "author": "",
+      "title": "Louisville health officials warn residents after rabid bat found in Okolona",
+      "description": "Louisville health officials warn residents after rabid bat found in Okolonawdrb.com",
+      "url": "https://www.wdrb.com/news/louisville-health-officials-warn-residents-after-rabid-bat-found-in-okolona/article_8dd16da3-d14d-484d-8ddf-3ab93058cd72.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/3/8c/38c97d82-1d79-11ed-b85a-c3adb50a1609/62fbb99c65093.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-11 14:08:58",
+      "content": "LOUISVILLE, Ky. (WDRB) -- A deceased bat found in Louisville tested positive for rabies. The bat was found outside a home in Okolona, in the 40219 zip code, according to a news release Friday from o\u2026 [+3545 chars]",
+      "retrievedAt": "2025-07-12 19:05:48.716466",
+      "internal_id": "92f73a7009eeaa468fb4a864c202c248539afc7e1a64261bc64e15d31e3029d6",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22844,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Gizew Dessie Asres, Yeshiwork Kebede Gessesse, Desalew Salew, Negese Sewagegn Semie, Etsegenet Kindie, Molalign Tarekegn Minwagaw, Wudu Tafere, Zewudu Belay, Habtamu Alebachew, Getasew Mulat Bantie, Taye Zeru",
+      "title": "Traditional medicine use among rabies exposed individuals in Ethiopia: A systematic review and meta-analysis",
+      "description": "Author summary Traditional medicine plays important role in healthcare across many countries, including Ethiopia, though it is often ignored by the formal health system. In Ethiopia, traditional remedies are commonly used for a range of illnesses, including r\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013319",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013319.g006&size=inline",
+      "publishedAt": "2025-07-11 14:00:00",
+      "content": "Introduction Traditional medicine (TM) has a long history and is defined as the total of the knowledge, skill, and practices based on the theories, beliefs, and experiences indigenous to different c\u2026 [+21524 chars]",
+      "retrievedAt": "2025-07-12 19:05:48.686277",
+      "internal_id": "d5d5e01a52f0761fd586fb9ee86cfea0bf2ee75619ef9c551356b46dd5a90f89",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22850,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rachel Morreale, Danilo O. Carvalho, Steven Stenhouse, Johanna Bajonero, Rui Pereira, Daniel A. Hahn, Aaron Lloyd, David F. Hoel",
+      "title": "Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022",
+      "description": "Author summary Aedes aegypti is a major nuisance mosquito in many warm places across the world. This species is particularly significant for vector control programs because it has high capacity to transmit viruses that can cause human disease including dengue\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013256.g005&size=inline",
+      "publishedAt": "2025-07-11 14:00:00",
+      "content": "Abstract Aedes aegypti, an aggressive nuisance biter and the primary vector for numerous arboviruses, such as chikungunya, dengue, and Zika, presents significant control challenges due to its abilit\u2026 [+68861 chars]",
+      "retrievedAt": "2025-07-12 19:05:51.598774",
+      "internal_id": "4bf2979d32c0b19581b5212e8abcdfe7bb4fb0537666ef8935e47daebc5b2b16",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22852,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marianne.net",
+      "author": "Chlo\u00e9 S\u00e9mat",
+      "title": "Chikungunya dans l'Hexagone : \"Tous les ingr\u00e9dients sont r\u00e9unis pour que les cas flambent et qu\u2019une \u00e9pid\u00e9mie se propage\"",
+      "description": "Selon le dernier bilan de Sant\u00e9 publique France, 26 cas de chikungunya ont d\u00e9j\u00e0 \u00e9t\u00e9 recens\u00e9s dans l'Hexagone. Une telle pr\u00e9cocit\u00e9 inqui\u00e8te les experts, qui craignent un risque d'\u00e9pid\u00e9mie semblable aux territoires de l'oc\u00e9an Indien, comme Mayotte ou La R\u00e9union\u2026",
+      "url": "https://www.marianne.net/societe/sante/chikungunya-dans-l-hexagone-tous-les-ingredients-sont-reunis-pour-que-les-cas-flambent-et-quune-epidemie-se-propage",
+      "urlToImage": "https://media.marianne.net/assets/asqlQYNLpRwt18E4t.jpg?w=1540&h=924&r=fill",
+      "publishedAt": "2025-07-11 12:00:00",
+      "content": "En ce d\u00e9but de saison estivale, quel est le point commun entre les r\u00e9gions Grand Est et Nouvelle-Aquitaine ? Outre les fortes chaleurs qui ont terrass\u00e9 ces zones, elles ont toutes deux, pour la premi\u2026 [+1022 chars]",
+      "retrievedAt": "2025-07-12 19:05:53.881040",
+      "internal_id": "07288c1d41dc311b9b729aab45a57cfe295b17313d1bf78274d0d85d06f124c4",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22849,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "V\u00edtima da dengue: morre no DF o ator e iluminador c\u00eanico Josias Silva",
+      "description": "Josias tinha 31 anos e contraiu doen\u00e7a em viagem \u00e0 Bahia. Vel\u00f3rio ser\u00e1 nesta 6\u00aa, das 13h \u00e0s 16h, no Espa\u00e7o Multicultural Casa dos Quatro",
+      "url": "https://www.metropoles.com/distrito-federal/vitima-da-dengue-morre-no-df-o-ator-e-iluminador-cenico-josias-silva",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/07/11080101/Josias-Silva.jpg",
+      "publishedAt": "2025-07-11 11:45:49",
+      "content": "O ator, iluminador c\u00eanico e ativista Josias Silva, 31 anos, morreu nessa quinta-feira (10/7), no Distrito Federal, devido a complica\u00e7\u00f5es decorrentes de um quadro de dengue hemorr\u00e1gica. Josias contra\u2026 [+1273 chars]",
+      "retrievedAt": "2025-07-12 19:05:51.516752",
+      "internal_id": "7903c3f8213216e861ce184489fc5c845cb874f34811820adbfcdf71d4d9069b",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22856,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "https://www.facebook.com/stern",
+      "title": "Infektionsrisiko in Deutschland: Tigerm\u00fccken auf dem Vormarsch: Wo die Gefahr besonders gro\u00df ist",
+      "description": "Tigerm\u00fccken \u00fcbertragen Tropenkrankheiten wie das Chikungunya-Virus \u2013 und breiten sich auch in Deutschland aus. Eine Dermatologin erkl\u00e4rt, wann ein Stich gef\u00e4hrlich wird.",
+      "url": "https://www.stern.de/panorama/tigermuecken---wo-sie-leben--was-ein-stich-ausloesen-kann-35886556.html",
+      "urlToImage": "https://image.stern.de/35886620/t/Cn/v3/w1440/r1.7778/-/tigermuecke.jpg",
+      "publishedAt": "2025-07-11 11:35:00",
+      "content": "Zugang zu stern+statt 11,96 nur 1",
+      "retrievedAt": "2025-07-12 19:05:54.016108",
+      "internal_id": "ac3f4a471da9393acaa4674b6933cb40976ca199f847a5f15d5b85c7ad59b1f6",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Cheyna Roth",
+      "title": "Hot Measles Summer",
+      "description": "Misinformation on vaccines spreads as easily as, well, measles.",
+      "url": "https://slate.com/podcasts/what-next-tbd/2025/07/measles-has-a-messaging-problem",
+      "urlToImage": "https://compote.slate.com/images/ff58c19d-acc7-4059-8574-3b53dc7c3244.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-07-11 09:30:00",
+      "content": "Its a record-breaking year for America: weve now had the most reported cases of measles since the disease was declared eradicated in 2000. How did public health backslide so hard that it undid decad\u2026 [+475 chars]",
+      "retrievedAt": "2025-07-12 19:05:49.446922",
+      "internal_id": "9d8e413b7b7cfb73725ead13b4ed4023b540fd28907ae60819cec765ca8d43e8",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22843,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "150g chicken, 100g rice: Bengaluru municipality rolls out Rs 3 crore diet plan for street dogs, Bengalureans say, \u201cplease add desserts too\u201d",
+      "description": "Bengaluru's BBMP is launching a unique initiative to feed 5,000 stray dogs daily with chicken, rice, and vegetables, costing \u20b92.9 crore. The move aims to reduce aggression, improve public safety, and aid in rabies control through easier monitoring and vaccina\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/150g-chicken-100g-rice-bengaluru-municipality-rolls-out-rs-3-crore-diet-plan-for-street-dogs-bengalureans-say-please-add-desserts-too/articleshow/122384346.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122384772,width-1200,height-630,imgsize-1784424,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-11 08:54:13",
+      "content": "In a first-of-its-kind move, Bengalurus civic body BBMP is set to serve up chicken and rice, not to school kids or hospitals, but to stray dogs. With a price tag of Rs 2.9 crore, the daily feeding pl\u2026 [+2447 chars]",
+      "retrievedAt": "2025-07-12 19:05:48.654859",
+      "internal_id": "38907b7e3aa74a3bf0639ad416f1114a48d2d98655b39b39213abb792b729e99",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22853,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Michael Niehus",
+      "title": "Tigerm\u00fccke \u00fcbertr\u00e4gt es - Stiko empfiehlt Impfung gegen Chikungunya-Virus",
+      "description": "Stiko empfiehlt Impfung f\u00fcr Urlauber in Ausbruchsgebieten, um Infektionen zu vermeiden. Auch an der Grenze zu Deutschland ist ein erster Fall aufgetreten.",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/chikungunya-virus-stiko-empfiehlt-impfung-6870a253d1592e395c9d76b7",
+      "urlToImage": "https://images.bild.de/6870a253d1592e395c9d76b7/c3bca59e6912827a1bccddc9a1561969,736478cb?w=1280",
+      "publishedAt": "2025-07-11 08:27:23",
+      "content": "Um den TTS Player darzustellen, brauchen wir deine Zustimmung. externen Inhalt aktivieren Um eingebettete Inhalte anzuzeigen, ist Ihre jederzeit widerrufliche Einwilligung (\u00fcber den Schalter oder \u2026 [+2306 chars]",
+      "retrievedAt": "2025-07-12 19:05:53.896624",
+      "internal_id": "95ea777fb9bef7c062ac09a4d3c9a45bd2d07b894e9c4709e01847e4abf4d81d",
+      "publishedAtLabel": "Jul 11"
+    },
     {
       "id": 22842,
       "query": [
@@ -22525,150 +22833,6 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21576,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Virginian-Pilot",
-      "author": "The Daily Progress",
-      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
-      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
-      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
-      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 17:26:18",
-      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.311788",
-      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21594,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Liu Fangqiang, Habtamu",
-      "title": "Ethiopia reports first mpox case",
-      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-05-25 17:09:00",
-      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
-      "retrievedAt": "2025-05-26 19:05:56.538122",
-      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21564,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Attila Pelit",
-      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
-      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
-      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
-      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
-      "publishedAt": "2025-05-25 17:00:30",
-      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.197216",
-      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21583,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
-      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
-      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
-      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
-      "publishedAt": "2025-05-25 14:40:28",
-      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.078898",
-      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21591,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
-      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
-      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
-      "publishedAt": "2025-05-25 14:00:41",
-      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
-      "retrievedAt": "2025-05-26 19:05:55.552382",
-      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21585,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Porto Alegre 24 horas",
-      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
-      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
-      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
-      "publishedAt": "2025-05-25 12:16:38",
-      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.406035",
-      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21563,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "Meg Wingerter",
-      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
-      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
-      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
-      "publishedAt": "2025-05-25 12:00:46",
-      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
-      "retrievedAt": "2025-05-26 19:05:53.188864",
-      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
-      "publishedAtLabel": "May 25"
-    },
-    {
-      "id": 21588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Zhaki Abdullah",
-      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
-      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
-      "publishedAt": "2025-05-25 08:43:49",
-      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
-      "retrievedAt": "2025-05-26 19:05:54.507741",
-      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]
