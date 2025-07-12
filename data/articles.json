@@ -1,8 +1,226 @@
 {
-  "last_updated": "2025-07-11 19:06",
-  "count_articles_total": 1235,
-  "count_articles_new": 18,
+  "last_updated": "2025-07-12 07:07",
+  "count_articles_total": 1256,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 22842,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Dagmara Paku\u0142a",
+      "title": "Tropikalny wirus chikungunya w Alzacji. Specjali\u015bci bij\u0105 na alarm",
+      "description": "Przypadek gor\u0105czki chikungunya - wywo\u0142ywanej przez wirusa o tej samej nazwie - odnotowano we Francji, w przygranicznym regionie Alzacji. Ta diagnoza r\u00f3\u017cni si\u0119 jednak od poprzednich - do zaka\u017cenia dosz\u0142o lokalnie, bez wyjazdu w tropikalne kraje. Ministerstwo z\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-tropikalny-wirus-chikungunya-w-alzacji-zakazony-nie-wyjezdza,nId,22164206",
+      "urlToImage": "https://i.iplsc.com/-/000LAZK16YE392IF-C461.jpg",
+      "publishedAt": "2025-07-11 06:14:59",
+      "content": "W skr\u00f3cie We Francji odnotowano przypadek lokalnego zakaenia gorczk chikungunya, bez wczeniejszego wyjazdu w regiony tropikalne. Eksperci ostrzegaj, e autochtoniczne transmisje\u2026 [+2728 chars]",
+      "retrievedAt": "2025-07-12 07:07:32.616796",
+      "internal_id": "f280649766e1c5eaa899088803a5633227dd2477fc3be5042bc171b919848313",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22840,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Ein Vakzin nur f\u00fcr bestimmte Gruppen ratsam : Stiko empfiehlt Chikungunya-Impfung",
+      "description": "Nach lokalen Chikungunya-F\u00e4llen in Frankreich empfiehlt die St\u00e4ndige Impfkommission erstmals eine Reiseimpfung gegen das Virus. Bei der Wahl des Impfstoffes gibt es aber Einschr\u00e4nkungen.",
+      "url": "https://www.tagesspiegel.de/gesundheit/ein-vakzin-nur-fur-bestimmte-gruppen-ratsam-stiko-empfiehlt-chikungunya-impfung-14006258.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14006264/alternates/BASE_16_9_W1400/1752208499000/tigermucke.jpeg",
+      "publishedAt": "2025-07-11 04:58:22",
+      "content": "Die St\u00e4ndige Impfkommission (Stiko) hat erstmals eine Reiseimpfung gegen Chikungunya f\u00fcr bestimmte Personengruppen empfohlen. So sollten sich Personen ab zw\u00f6lf Jahren, die in Gebiete mit aktuellem Ch\u2026 [+3025 chars]",
+      "retrievedAt": "2025-07-12 07:07:32.531099",
+      "internal_id": "29f635d500ac9130ebd426757ff4823aa42d2d60d303ebbcb35189661eaba9f4",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22841,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Stiko empfiehlt Chikungunya-Impfung: Bei einem der Impfstoffe k\u00f6nnte es jedoch Probleme geben",
+      "description": "Nach lokalen Chikungunya-F\u00e4llen in Frankreich empfiehlt die St\u00e4ndige Impfkommission erstmals eine Reiseimpfung gegen das Virus. Bei der Wahl des Impfstoffes gibt es aber Einschr\u00e4nkungen.",
+      "url": "https://www.tagesspiegel.de/gesundheit/stiko-empfiehlt-chikungunya-impfung-bei-einem-der-impfstoffe-konnte-es-jedoch-probleme-geben-14006258.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14006264/alternates/BASE_16_9_W1400/1752208499000/tigermucke.jpeg",
+      "publishedAt": "2025-07-11 04:58:22",
+      "content": "Die St\u00e4ndige Impfkommission (Stiko) hat erstmals eine Reiseimpfung gegen Chikungunya f\u00fcr bestimmte Personengruppen empfohlen. So sollten sich Personen ab zw\u00f6lf Jahren, die in Gebiete mit aktuellem Ch\u2026 [+3024 chars]",
+      "retrievedAt": "2025-07-12 07:07:32.539440",
+      "internal_id": "dc0fa7c8685436f459fd5325a8f193c1347ea9dce16d1bd41243add864401867",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22833,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba Health warns of 2 new measles exposures sites in Morden",
+      "description": "The province is once again warning of new measles exposure sites, as cases of the infectious disease continue to spread in Manitoba.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-vaccination-public-health-1.7582525",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-11 00:49:18",
+      "content": "The province is once again warning of new measles exposure sites, as cases of the infectious disease continue to spread in Manitoba. In a Thursday news release, Manitoba health officials said there\u2026 [+1704 chars]",
+      "retrievedAt": "2025-07-12 07:07:30.479359",
+      "internal_id": "cd7d134611d9889bb34eef1deac8cfabea3cf2dd65f2a5854ee018a7141608de",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22834,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "PBS News Hour",
+      "title": "July 10, 2025 \u2013 PBS News Hour full episode",
+      "description": "Thursday on the News Hour, a look at why previous efforts to fund a flood warning system in Texas failed and if last week's deadly flooding will change that. The struggle to get measles under control as cases surge to their highest levels in 30 years. Plus, a\u2026",
+      "url": "https://www.pbs.org/newshour/show/july-10-2025-pbs-news-hour-full-episode",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/fullepisode-9-1024x683.jpg",
+      "publishedAt": "2025-07-10 23:37:35",
+      "content": "Thursday on the News Hour, a look at why previous efforts to fund a flood warning system in Texas failed and if last week's deadly flooding will change that. The struggle to get measles under control\u2026 [+194 chars]",
+      "retrievedAt": "2025-07-12 07:07:30.528819",
+      "internal_id": "185a43a1e6432be270e30748e03fd3ea1a362f085f903a6ec4b43a8a7ffd7f46",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22831,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Putting the 33-year measles high in perspective",
+      "description": "Measles cases across the U.S. have hit the highest level in 33 years, according to the CDC. CBS News chief medical correspondent Dr. Jon LaPook joins \"The Takeout\" to dive into the numbers.",
+      "url": "https://www.cbsnews.com/video/putting-33-year-measles-high-in-perspective/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/10/ca657d50-bfa3-4578-90b5-4c91b8acee2f/thumbnail/1200x630/e3da983a20be337094480a1340a41990/measles.jpg",
+      "publishedAt": "2025-07-10 23:27:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-07-12 07:07:30.296911",
+      "internal_id": "452868e83456be56c1d713e00b8c6a02f642b190d14995298d1b4e1843d6f3f8",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22837,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "OMS lan\u00e7a primeira diretriz para o manejo de quatro doen\u00e7as transmitidas por mosquitos",
+      "description": "Documento traz orienta\u00e7\u00f5es para cuidado de pacientes com dengue, chikungunya, zika e febre amarela; mundo tem 5,6 bilh\u00f5es de pessoas em risco de infec\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/oms-lanca-primeira-diretriz-para-o-manejo-de-quatro-doencas-transmitidas-por-mosquitos/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/01/GettyImages-611200142-e1709240021521.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-10 23:22:38",
+      "content": "Inverno: Revista em casa por 8,98/semanaAedes aegypti', mosquito transmissor da dengue, chikungunya e zika v\u00edrus (//Getty Images) Continua ap\u00f3s publicidade Com o avan\u00e7o de doen\u00e7as transmitidas por \u2026 [+3367 chars]",
+      "retrievedAt": "2025-07-12 07:07:31.225367",
+      "internal_id": "51025fe5a341409262555986bc7d45e9eee5e87c758002644fbc1e7b57b3c19e",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22835,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Amna Nawaz, Jackson Hudgins, Jenna Bloom",
+      "title": "Measles cases surge to highest levels in over 30 years, CDC data shows",
+      "description": "CDC data shows 2025 is now the worst year for measles cases in this country in more than three decades. More than 150 people have been hospitalized due to the growing outbreak and three have died, including two unvaccinated children in Texas. Amna Nawaz discu\u2026",
+      "url": "https://www.pbs.org/newshour/show/measles-cases-surge-to-highest-levels-in-over-30-years-cdc-data-shows",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/returnofmeasles-1024x683.jpg",
+      "publishedAt": "2025-07-10 22:45:32",
+      "content": "CDC data shows 2025 is now the worst year for measles cases in this country in more than three decades. More than 150 people have been hospitalized due to the growing outbreak and three have died, in\u2026 [+194 chars]",
+      "retrievedAt": "2025-07-12 07:07:30.543994",
+      "internal_id": "1b0bba193c15274943f29bc307776a6751320aedc7e98fbf8c02be97ee1cbab4",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22839,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Eduardo Lima",
+      "title": "Vacina brasileira contra zika tem bons resultados em testes com camundongos",
+      "description": "O imunizante foi desenvolvido com o m\u00e9todo de part\u00edculas pseudovirais, uma tecnologia diferente das tradicionais; entenda.",
+      "url": "https://super.abril.com.br/saude/vacina-brasileira-contra-zika-tem-bons-resultados-em-testes-com-camundongos/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2025/07/1007-ZIKA-layout_site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-10 21:00:43",
+      "content": "Inverno: Assine Digital Completo por 5,99O imunizante foi desenvolvido com o m\u00e9todo de part\u00edculas pseudovirais, uma tecnologia diferente das tradicionais; entenda. Por Eduardo Lima 10 jul 2025, 18\u2026 [+4276 chars]",
+      "retrievedAt": "2025-07-12 07:07:32.293436",
+      "internal_id": "dde8c739fa0f0dd97f23ca9e686a6d6b8b3e0265d8a800b85402bc522435ac88",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22830,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Fitzgerald warns of rabies in Labrador after dog tests positive from fox encounter in Hopedale",
+      "description": "Twenty people in Labrador are at risk of rabies after a dog tested positive for the disease after encountering a fox in Hopedale.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rabies-hopedale-labrador-1.7582173",
+      "urlToImage": "https://i.cbc.ca/1.3393729.1752175796!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-red-fox-852.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-10 19:41:57",
+      "content": "Newfoundland and Labrador's top doctor is warning residents in the Big Land about rabies after a dog in Hopedale tested positive after coming into contact with a fox. Chief Medical Officer of Health\u2026 [+2195 chars]",
+      "retrievedAt": "2025-07-12 07:07:29.952377",
+      "internal_id": "ced5039d3354f9c2fcc1eb37d4b04c3c4431e48572da4f295e4664e6efb5c20b",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22838,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "OMS considera prioridade combater mal\u00e1ria em Cabo Verde",
+      "description": "Governo declarou situa\u00e7\u00e3o de conting\u00eancia em todo pa\u00eds, h\u00e1 uma semana, face ao risco de multiplica\u00e7\u00e3o de mosquitos (transmissores de doen\u00e7as como mal\u00e1ria e dengue) com a chegada da \u00e9poca das chuvas.",
+      "url": "https://observador.pt/2025/07/10/oms-considera-prioridade-combater-malaria-que-ameaca-certificacao-de-cabo-verde/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A211%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F07%2F10194657%2F43716308.jpg?layer=obstop:T",
+      "publishedAt": "2025-07-10 19:37:26",
+      "content": "A nova representante da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) em Cabo Verde, Ann Lindstrand, considerou esta quinta-feira uma prioridade combater novos casos que amea\u00e7am a certifica\u00e7\u00e3o do arquip\u00e9lago co\u2026 [+3383 chars]",
+      "retrievedAt": "2025-07-12 07:07:31.234450",
+      "internal_id": "37bd73eac98db60d67865362ba5a24386b3487b8f38919e09b99a0e829824a4d",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22832,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Hedy Phillips",
+      "title": "Measles Cases Hit the Highest Number in 33 Years. Do You Need a Measles Vaccine Booster?",
+      "description": "The number of measles cases in the US has risen to a record level. Learn how to protect yourself.",
+      "url": "https://www.cnet.com/health/medical/measles-cases-hit-the-highest-number-in-33-years-do-you-need-a-measles-vaccine-booster/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7d1bf086f98f1a6093db16d4a03cfedc3850234d/hub/2025/03/03/cd04423f-50b4-4168-ab5d-ac469b21d68e/measles-vaccine.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-10 19:25:00",
+      "content": "The measles outbreak that started in West Texas has now spread to nearly every US state and infected 1,288 people, according to NPR. That's the largest number of measles cases since 1992. With meas\u2026 [+11092 chars]",
+      "retrievedAt": "2025-07-12 07:07:30.443278",
+      "internal_id": "a3f2f7c5092f1ecea64ca57cba9f7f3e769bcb98cb3fadba7da2166d1a21a556",
+      "publishedAtLabel": "Jul 10"
+    },
     {
       "id": 22826,
       "query": [
@@ -112,6 +330,24 @@
       "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha publicado por primera vez directrices globales para el manejo cl\u00ednico de los arbovirus, como el dengue, el chikungunya, el virus Zika o la fiebre amarilla\u2026 [+4752 chars]",
       "retrievedAt": "2025-07-11 19:06:23.189609",
       "internal_id": "594f5791c857dc8da2529847010586be1abb0dea30823c8734f6574ba68e931a",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22836,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Thursday, July 10, 2025",
+      "description": "Preventive care task force meeting, a grim measles milestone, vaccine coverage, Medicaid cuts, cancer screening costs, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/thursday-july-10-2025/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing1.jpg",
+      "publishedAt": "2025-07-10 13:16:00",
+      "content": "RFK Jr. Pushes Off Next Meeting Of HHS' Preventive Services Committee In a move that raises questions about its future role and composition, HHS Secretary Robert F. Kennedy Jr.'s office has called o\u2026 [+5838 chars]",
+      "retrievedAt": "2025-07-12 07:07:30.559081",
+      "internal_id": "aead7bbfd24e4c9fb1922c05de99e65c5b6b12640c3f2d8b5bf03cdff2095564",
       "publishedAtLabel": "Jul 10"
     },
     {
@@ -22289,6 +22525,150 @@
       "content": "Al corte del 19 de mayo, los casos de dengue aumentaron a 3 mil 511, debido a que durante la \u00faltima semana se reportaron 157 nuevos contagios. TE PUEDE INTERESAR: Se reportan 210 nuevos casos de d\u2026 [+1373 chars]",
       "retrievedAt": "2025-05-27 07:07:54.494958",
       "internal_id": "6c86e1e2a0df26266092d61580aff9c0ff1e3ad141ebf4b6ab54901949ce70d0",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21576,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Virginian-Pilot",
+      "author": "The Daily Progress",
+      "title": "Virginia\u2019s 2nd measles case reported in Charlottesville",
+      "description": "The child in the Charlottesville case is between 13 and 17 years old, according to the Virginia Department of Health, and had recently traveled internationally.",
+      "url": "https://www.pilotonline.com/2025/05/25/virginias-second-measles-case-charlottesville/",
+      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/RFK_Jr_1093409203.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 17:26:18",
+      "content": "The second confirmed case of measles has been reported in Virginia, this time in Charlottesville. There have been 1,046 confirmed cases and three confirmed deaths in the U.S. so far this year as out\u2026 [+1935 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.311788",
+      "internal_id": "143879b9df418be54bf5158ed42d3902634d78edac667439c4da0b40b12e43f9",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Ethiopia reports first mpox case",
+      "description": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/05/26/ethiopia-reports-first-mpox-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-05-25 17:09:00",
+      "content": "ADDIS ABABA, May 25 (Xinhua) -- Ethiopia has recorded its first mpox case since the outbreak in Africa last year, the country's health authorities confirmed on Sunday. A 21-day-old infant has teste\u2026 [+2315 chars]",
+      "retrievedAt": "2025-05-26 19:05:56.538122",
+      "internal_id": "5acc197cfede602c5e57b867cd8cb41a696b69109c076cac6e209e71485b97ea",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Attila Pelit",
+      "title": "Diseases Are Spreading. The CDC Isn\u2019t Warning the Public Like It Was Months Ago",
+      "description": "Health emergencies have not paused since January as cases of measles, salmonella, listeria and hepatitis A and C have spread throughout the country.",
+      "url": "https://www.kqed.org/news/12041412/diseases-are-spreading-the-cdc-isnt-warning-the-public-like-it-was-months-ago",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/05/npr.brightspotcdn-copy-8-1020x680.jpg",
+      "publishedAt": "2025-05-25 17:00:30",
+      "content": "On April 24, some employees were sent an email from a supervisor that confirmed that HHS now owned the CDC\u2019s main social media platforms, including its X, Instagram, LinkedIn and Facebook accounts. \u2026 [+4133 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.197216",
+      "internal_id": "6eff1c1901789c675e1568262a50cfd49e198ffe2e74f852b8c8bee9b69bf84b",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21583,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c3\u03c9\u03c3\u03b7 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03b1\u03bc\u03ae\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03cc\u03c4\u03c1\u03c5\u03bd\u03c3\u03b7 \u039a\u03b1\u03c4\u03c3\u03b9\u03bc\u03b1\u03c4\u03af\u03b4\u03b7",
+      "description": "\u039f \u039a\u03ad\u03bd\u03b5\u03bd\u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03bd\u03b1 \u03bc\u03b7 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03bf\u03ba\u03ac\u03bc\u03b7\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 50 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac",
+      "url": "https://www.skai.gr/news/world/ipa-paremvasi-kenenti-meta-tin-parotrynsi-katsimatidi-gia-tis-strouthokamilous",
+      "urlToImage": "https://www.skai.gr/sites/default/files/styles/article_16_9/public/2025-02/kennedy_ap25044056217802.jpg?itok=cMdMni0a",
+      "publishedAt": "2025-05-25 14:40:28",
+      "content": ", , . , . , , (CFIA), Paul MacKinnon, , 50 H5N1 . , , ' . . Gristedes 77 WABC \u00ab \u00bb, 400 , . , . \u00ab\u00bb, \u00ab , \u00bb, pagesix.com. \u00ab !\u00bb, . \u00ab . , - . ;\u00bb, . \u00ab\u00bb, , . \u00ab . . - \u00bb, . .Skai.gr Google \u2026 [+5 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.078898",
+      "internal_id": "8b85066de1b5add96e67b2d97b7198a7854b5b0601194572ea88255fcc86cc3f",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Pilotprojekt in Uganda: Gen-M\u00fccken sollen Malaria besiegen",
+      "description": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unter f\u00fcnf Jahren an dem Fieber. Nun sollen die Gen-M\u00fccken erst\u2026",
+      "url": "https://www.n-tv.de/wissen/Gen-Muecken-sollen-Malaria-besiegen-article25788714.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25788930/533132829-cImg_16_9-w1200/Labor-2.jpg",
+      "publishedAt": "2025-05-25 14:00:41",
+      "content": "In Uganda arbeiten Forscher an einem weltweit einzigartigen Projekt: Mit genetisch ver\u00e4nderten Moskitos soll die Verbreitung von Malaria gestoppt werden. Fast jede Minute stirbt weltweit ein Kind unt\u2026 [+6304 chars]",
+      "retrievedAt": "2025-05-26 19:05:55.552382",
+      "internal_id": "a58038cc110e6ad2bbf76c9728fbae1b0512bb4712454503355bf948370767e3",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre aplica mais de 50 mil doses no Dia D da vacina\u00e7\u00e3o",
+      "description": "A campanha de vacina\u00e7\u00e3o segue nas pr\u00f3ximas semanas, com a oferta das vacinas contra a gripe (influenza), dengue (para crian\u00e7as e adolescentes de 10 a 14 anos), HPV (de 9 a 19 anos) e as demais vacinas do calend\u00e1rio nacional de imuniza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-aplica-mais-de-50-mil-doses-no-dia-d-da-vacinacao,ebf7cfb6ae77f771481fca7a9831a8c3uitxr9l8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/05/25/890196318-20250524cesar-lopessebastiao-melo-30.jpeg",
+      "publishedAt": "2025-05-25 12:16:38",
+      "content": "Porto Alegre realizou neste s\u00e1bado (24) o Dia D da vacina\u00e7\u00e3o contra a influenza, com 134 unidades de sa\u00fade abertas para ampliar o acesso da popula\u00e7\u00e3o \u00e0 imuniza\u00e7\u00e3o. Conforme levantamento preliminar da\u2026 [+1099 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.406035",
+      "internal_id": "0ff6c58bae276d54e34ca72de42da9baca47709d7e80d6e2aa46c781a917096a",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Parts of Colorado face measles risk as high as West Texas due to low vaccination rates",
+      "description": "For the last 25 years, communities typically didn't see any consequences from those low rates. Those days may be over.",
+      "url": "https://www.denverpost.com/2025/05/25/measles-outbreak-cases-colorado-texas-vaccine/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/05/TDP-Z-AP25069753134957.jpg?w=1024&h=683",
+      "publishedAt": "2025-05-25 12:00:46",
+      "content": "Parts of Colorado are as vulnerable to measles as West Texas, where the highly contagious virus has infected hundreds of people and killed two. Colorado has recorded more confirmed measles cases so \u2026 [+14687 chars]",
+      "retrievedAt": "2025-05-26 19:05:53.188864",
+      "internal_id": "af544a41d777b48fa1a4994affaad0eef8a51dac0aba6bb5a3b8e83aa070e2f5",
+      "publishedAtLabel": "May 25"
+    },
+    {
+      "id": 21588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Almost 2,000 dengue cases in Singapore so far in 2025, 74% drop from 2024",
+      "description": "There were two deaths due to local dengue infection as of May 15. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/almost-2000-dengue-cases-in-singapore-so-far-in-2025-74-drop-from-2024",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b4afbfd68c0398176cdd5dead8476ea87c97633582a882affe1ef8726e0731",
+      "publishedAt": "2025-05-25 08:43:49",
+      "content": "SINGAPORE The number of dengue cases for January to May 2025 has dropped about 74 per cent from the same period in 2024, with almost 2,000 cases recorded for the year to date, according to figures fr\u2026 [+3691 chars]",
+      "retrievedAt": "2025-05-26 19:05:54.507741",
+      "internal_id": "229446d2b8c733a7e7df3c3fed41daa67645fa3de0fe60bb1f2637973a9d73e3",
       "publishedAtLabel": "May 25"
     }
   ]
