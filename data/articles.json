@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-07-13 07:08",
-  "count_articles_total": 1106,
-  "count_articles_new": 44,
+  "last_updated": "2025-07-13 19:06",
+  "count_articles_total": 1107,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 22908,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "\u041f\u0443\u0441\u0442\u0456\u0432\u0430 \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u0430",
+      "title": "\u0412 \u0448\u0442\u0430\u0442\u0435 \u0410\u0440\u0438\u0437\u043e\u043d\u0430 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u0435\u0440\u0432\u0430\u044f \u0441 2007 \u0433\u043e\u0434\u0430 \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u0447\u0443\u043c\u044b",
+      "description": "\u041b\u0435\u0433\u043e\u0447\u043d\u0430\u044f \u0447\u0443\u043c\u0430 \u2014 \u0442\u044f\u0436\u0435\u043b\u043e\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0435 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0435\u0439 Yersinia pestis. \u0412 \u0421\u0440\u0435\u0434\u043d\u0438\u0435 \u0432\u0435\u043a\u0430 \u044d\u0442\u0430 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u043a\u0430\u043a \u00ab\u0447\u0435\u0440\u043d\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c\u00bb, \u0432\u044b\u0437\u0432\u0430\u043b\u0430 \u043c\u0430\u0441\u0441\u043e\u0432\u044b\u0435 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u0432 \u0415\u0432\u0440\u043e\u043f\u0435.",
+      "url": "https://korrespondent.net/world/4798294-v-shtate-aryzona-zarehystryrovana-pervaia-s-2007-hoda-smert-ot-chumy",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4335821.jpg",
+      "publishedAt": "2025-07-12 16:33:00",
+      "content": ". BBC. , 2007 . , , . , Yersiniapestis. , \u00ab \u00bb, . . (CDC), . , . , . , . 28 , , , . , 10 .net Telegram WhatsApp. https://t.me/korrespondentnetWhatsApp",
+      "retrievedAt": "2025-07-13 19:06:00.976275",
+      "internal_id": "d85560d644bfce4408a4948172354c741606be37975f4883ee73c532066d63b7",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22905,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Cybele Mayes-Osterman, USA TODAY",
+      "title": "Schumer demands RFK Jr. declare measles emergency, saying he 'walked' US into outbreak",
+      "description": "Sen. Chuck Schumer, the Senate minority leader, accused Health and Human Services Secretary Robert F. Kennedy Jr. of gutting public health.",
+      "url": "https://www.usatoday.com/story/news/politics/2025/07/12/schumer-letter-rfk-jr-measles-emergency/84782033007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XRGFCOuNy8J7RLiXFaX.Ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/4a34bc9acb25c7810dfbfb8f258b3e1e",
+      "publishedAt": "2025-07-12 15:57:49",
+      "content": "Senate Minority Leader Chuck Schumer demanded Health and Human Services Secretary Robert F. Kennedy Jr. declare a nationwide emergency over spiking measles cases, accusing him of fueling the outbreak\u2026 [+3418 chars]",
+      "retrievedAt": "2025-07-13 19:05:57.759286",
+      "internal_id": "86fa872ab1e00f401068a0a60402a6edfb1c96be441e77607efd7574a06d161f",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22906,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles spread 'like wildfire' among unvaccinated children in northeast B.C., health officer says",
+      "description": "Ten people, the majority infected children, have been hospitalized in B.C. as health officials hope the spread of the virus in the northeast has peaked.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/measles-spread-like-wildfire-in-northeast-b-c-1.7583583",
+      "urlToImage": "https://i.cbc.ca/1.7583638.1752282578!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-b-c.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-12 13:00:00",
+      "content": "A pocket of unvaccinated children in northeast B.C. allowed cases of measles in the region to spread \"like wildfire,\" says B.C.'s deputy provincial health officer, Dr. Martin Lavoie. He made the rem\u2026 [+6274 chars]",
+      "retrievedAt": "2025-07-13 19:05:57.856250",
+      "internal_id": "230d6947c034ece7fc1c496abea904d67bb998216b938ea846536414fdb77f12",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22904,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Scott Simon",
+      "title": "A new study shows promise in a new method to vaccinate vampire bats",
+      "description": "Vaccinating vampire bats against rabies can help prevent the spread of the disease to livestock and humans. NPR's Scott Simon talks with epidemiologist Tonie Rocke about a new way to vaccinate bats.",
+      "url": "https://www.npr.org/2025/07/12/nx-s1-5463583/a-new-study-shows-promise-in-a-new-method-to-vaccinate-vampire-bats",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-07-12 12:07:39",
+      "content": "Vaccinating vampire bats against rabies can help prevent the spread of the disease to livestock and humans. NPR's Scott Simon talks with epidemiologist Tonie Rocke about a new way to vaccinate bats.",
+      "retrievedAt": "2025-07-13 19:05:56.830330",
+      "internal_id": "bd7f9b149e5fe9536c4478643f926f0a886a0eae7e37e60c7fca240905338350",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22909,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430. \u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0423 \u0421\u0428\u0410 \u043b\u044e\u0434\u0438\u043d\u0430 \u043f\u043e\u043c\u0435\u0440\u043b\u0430 \u0432\u0456\u0434 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u0444\u043e\u0440\u043c\u0438 \u0447\u0443\u043c\u0438",
+      "description": "",
+      "url": "https://life.pravda.com.ua/health/u-ssha-lyudina-pomerla-vid-naybilsh-letalnoji-formi-chumi-309177/",
+      "urlToImage": "https://imglife.pravda.com.ua/life/images/doc/c/e/101297/ce0a12ab06f7bbf1acb7f56888ef679b.jpeg?w=1920&q=90",
+      "publishedAt": "2025-07-12 11:33:00",
+      "content": ". 2007 . , , ,Associated Press . , , 50 XIV . Yersinia pestis, . (), , . , . , 30 100% . . : : , ,, , . , . , , . , , . 1990- . , 2024 .",
+      "retrievedAt": "2025-07-13 19:06:00.985391",
+      "internal_id": "d01d6ec1b0051df50a93fd7e53448a04e6e6c85cb50d30d387cf053e69112b73",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22907,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Malaysia records 58.6% drop in dengue cases as of July 5",
+      "description": "KUALA LUMPUR: Dengue cases in the country dropped to 32,299 between Jan 1 and July 5 this year, compared to 78,068 cases during the same period last year, a decrease of 58.6%. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/12/malaysia-records-586-drop-in-dengue-cases-as-of-july-5",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/12/3413348.JPG",
+      "publishedAt": "2025-07-12 10:40:00",
+      "content": "KUALA LUMPUR: Dengue cases in the country dropped to 32,299 between Jan 1 and July 5 this year, compared to 78,068 cases during the same period last year, a decrease of 58.6%. Health Minister Datuk \u2026 [+2017 chars]",
+      "retrievedAt": "2025-07-13 19:05:58.703815",
+      "internal_id": "3128a9ce404327b92a164213a2732f7486b780ce1566f80b3ca7efa99b31ab50",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22910,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Ruttokuolema USA:ssa",
+      "description": "Menehtyneell\u00e4 henkil\u00f6ll\u00e4 oli keuhkorutto, joka voi levit\u00e4 my\u00f6s ihmisest\u00e4 toiseen. Ihminen on kuollut ruttoon Yhdysvaltain Arizonassa, kertoo uutistoimisto AP. Rutto on Duodecimin terveyskirjaston mukaan Yersinia pestis-bakteerin aiheuttama tauti, jota esiinty\u2026",
+      "url": "https://www.iltalehti.fi/ulkomaat/a/22418ce0-cf92-4cb3-994f-3fbf366832f0",
+      "urlToImage": "https://img.ilcdn.fi/KGZ98sJHSyMWgKSHogFloYiRmTw=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/77064df842396e677550c313140a9f4dcadd54b82bd808596fff8c8085013a21.jpg",
+      "publishedAt": "2025-07-12 08:36:39",
+      "content": "Ihminen on kuollut ruttoon Yhdysvaltain Arizonassa, kertoo uutistoimisto AP. Rutto on Duodecimin terveyskirjaston mukaanYersinia pestis-bakteerin aiheuttama tauti, jota esiintyy p\u00e4\u00e4s\u00e4\u00e4nt\u00f6isesti jyrs\u2026 [+1187 chars]",
+      "retrievedAt": "2025-07-13 19:06:00.994140",
+      "internal_id": "32d1e05e5446f5ca2f343906e4cc6536a7be71c981c9658e880b7091075705d7",
+      "publishedAtLabel": "Jul 12"
+    },
     {
       "id": 22902,
       "query": [
@@ -19851,114 +19977,6 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21799,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.vrt.be",
-      "author": "VRT NWS",
-      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
-      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
-      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
-      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
-      "publishedAt": "2025-06-01 18:58:02",
-      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.962760",
-      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21800,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "vea",
-      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
-      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2025-06-01 17:49:28",
-      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.971288",
-      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21798,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Sarika N",
-      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
-      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
-      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
-      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2025-06-01 10:08:43",
-      "content": "",
-      "retrievedAt": "2025-06-02 19:06:01.040343",
-      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21803,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Regional News",
-      "title": "Publiko gipahimangnoan kalabot sa MPOX",
-      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
-      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
-      "publishedAt": "2025-06-01 07:28:44",
-      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.693619",
-      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21801,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
-      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
-      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
-      "publishedAt": "2025-06-01 07:25:31",
-      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.587795",
-      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21802,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 - \u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03ba\u03b9\u03bd\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
-      "description": "\u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 3.300 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 16 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u039d\u03ad\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03a6\u03c1\u03b9\u03c4\u03ac\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae 20.000 \u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd | \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-06-01/mpox.jpg",
-      "publishedAt": "2025-06-01 07:09:29",
-      "content": "mpox , , .\u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , ., 42.872 , . mpox, , , . , 1970, .2022 , . 2024 mp\u2026 [+31 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.663173",
-      "internal_id": "f58eabf0a0a2aca79b9ecb511202393065c365002db8b779f3de288e7425fe28",
       "publishedAtLabel": "Jun 1"
     }
   ]

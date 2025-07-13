@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 44
-- **Last harvest:** 2025-07-13 07:08
-- **Most recent article:** 2025-07-12 07:00:38
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-07-13 19:06
+- **Most recent article:** 2025-07-12 16:33:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 97 | 355 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 33 | 139 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 121 |
+| measles | 89 | 48 | 31 | 53 | 36 | 99 | 356 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 140 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 119 |
 | chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 117 |
-| mpox | 13 | 24 | 11 | 27 | 10 | 6 | 91 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 90 |
-| rabies | 6 | 6 | 19 | 5 | 17 | 16 | 69 |
-| yersinia | 6 | 3 | 0 | 0 | 0 | 39 | 48 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 88 |
+| rabies | 6 | 6 | 19 | 5 | 17 | 17 | 70 |
+| yersinia | 6 | 3 | 0 | 0 | 0 | 42 | 51 |
 | zika | 7 | 2 | 14 | 2 | 8 | 12 | 45 |
 | h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 42 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 12 |
@@ -60,6 +60,12 @@ Source: [News API](https://newsapi.org/)
 - [De nouvelles armes dans la lutte contre les moustiques et les maladies qu’ils transmettent](https://www.lemonde.fr/planete/article/2025/07/08/de-nouvelles-armes-dans-la-lutte-contre-les-moustiques-et-les-maladies-qu-ils-transmettent_6619818_3244.html) (Le Monde)
 
 ## 25-28 (yersinia)
+
+- [В штате Аризона зарегистрирована первая с 2007 года смерть от чумы](https://korrespondent.net/world/4798294-v-shtate-aryzona-zarehystryrovana-pervaia-s-2007-hoda-smert-ot-chumy) (Korrespondent.net)
+
+- [У США людина померла від найбільш летальної форми чуми](https://life.pravda.com.ua/health/u-ssha-lyudina-pomerla-vid-naybilsh-letalnoji-formi-chumi-309177/) (Pravda.com.ua)
+
+- [Ruttokuolema USA:ssa](https://www.iltalehti.fi/ulkomaat/a/22418ce0-cf92-4cb3-994f-3fbf366832f0) (Iltalehti.fi)
 
 - [Patient dies in emergency room from plague, health officials say](https://www.wave3.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WAVE 3)
 
@@ -149,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-28 (rabies)
 
+- [A new study shows promise in a new method to vaccinate vampire bats](https://www.npr.org/2025/07/12/nx-s1-5463583/a-new-study-shows-promise-in-a-new-method-to-vaccinate-vampire-bats) (NPR)
+
 - [Free anti-rabies vaccination drive launched in Sivasagar](https://thehillstimes.in/assam/free-anti-rabies-vaccination-drive-launched-in-sivasagar) (Thehillstimes.in)
 
 - [Man in Australia dies of rare, rabies-like disease](https://www.livescience.com/health/viruses-infections-disease/man-in-australia-dies-of-rare-rabies-like-disease) (Live Science)
@@ -212,6 +220,10 @@ Source: [News API](https://newsapi.org/)
 - [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
+
+- [Schumer demands RFK Jr. declare measles emergency, saying he 'walked' US into outbreak](https://www.usatoday.com/story/news/politics/2025/07/12/schumer-letter-rfk-jr-measles-emergency/84782033007/) (USA Today)
+
+- [Measles spread 'like wildfire' among unvaccinated children in northeast B.C., health officer says](https://www.cbc.ca/news/canada/british-columbia/measles-spread-like-wildfire-in-northeast-b-c-1.7583583) (CBC News)
 
 - [Schumer presses RFK Jr. to declare measles emergency (Alexander Bolton/The Hill)](https://www.memeorandum.com/250711/p77) (Memeorandum.com)
 
@@ -496,6 +508,8 @@ Source: [News API](https://newsapi.org/)
 - [Почему в США хотят распространить птичий грипп по всем фермам](https://hi-news.ru/eto-interesno/pochemu-v-ssha-xotyat-rasprostranit-ptichij-gripp-po-vsem-fermam.html) (Hi-news.ru)
 
 ## 25-28 (dengue)
+
+- [Malaysia records 58.6% drop in dengue cases as of July 5](https://www.thestar.com.my/news/nation/2025/07/12/malaysia-records-586-drop-in-dengue-cases-as-of-july-5) (The Star Online)
 
 - [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
 
@@ -2135,12 +2149,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
-- [Σιέρα Λεόνε - Θερίζει η ευλογιά των πιθήκων: συναγερμός για την εξάπλωση και διεθνής κινητοποίηση](https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/) (Protothema.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2327,8 +2335,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2358,10 +2364,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
