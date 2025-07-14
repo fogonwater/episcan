@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-07-13 19:06",
-  "count_articles_total": 1107,
-  "count_articles_new": 7,
+  "last_updated": "2025-07-14 07:10",
+  "count_articles_total": 1130,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 22911,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "UK measles cases rising among children - with leading NHS hospital 'concerned'",
+      "description": "A leading NHS hospital has warned measles is on the rise among children in the UK, after treating 17 cases since June.",
+      "url": "https://news.sky.com/story/uk-measles-cases-rising-among-children-with-leading-nhs-hospital-concerned-13396026",
+      "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-istock-stock-file-little_6963811.jpg?20250713093029",
+      "publishedAt": "2025-07-13 06:38:00",
+      "content": "A leading NHS hospital has warned measles is on the rise among children in the UK, after treating 17 cases since June. Alder Hey Children's Hospital in Liverpool said it is \"concerned\" about the inc\u2026 [+3683 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.259571",
+      "internal_id": "d481b368ff2cd28d45e0e2629e5b26eeaade973a024658172152e01a84e96400",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22926,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Thekenyatimes.com",
+      "author": "Timothy Osoro",
+      "title": "Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children",
+      "description": "The Ministry of Health is urging parents and caregivers to ensure their children receive typhoid and measles-rubella vaccinations within the next 48 hours, as",
+      "url": "https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/",
+      "urlToImage": "https://thekenyatimescdn-ese7d3e7ghdnbfa9.z01.azurefd.net/prodimages/uploads/2022/05/urn_newsml_afp.com_20220524_0ac4ca40-4059-4998-9253-1f686511d980_ipad.jpg",
+      "publishedAt": "2025-07-13 06:19:44",
+      "content": "The Ministry of Health is urging parents and caregivers to ensure their children receive typhoid and measles-rubella vaccinations within the next 48 hours, as Kenyas national immunization campaign en\u2026 [+3117 chars]",
+      "retrievedAt": "2025-07-14 07:10:20.304591",
+      "internal_id": "b35eda76d742ca64e805788798135d1f17e80a97932e2561b61345ba6ce6663a",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22925,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Ken Muthomi",
+      "title": "Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parents",
+      "description": "Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parentskenyans.co.ke",
+      "url": "https://www.kenyans.co.ke/news/114116-ensure-children-get-typhoid-measles-rubella-jabs-48-hours-health-ministry-warns-parents",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/parents%20at%20a%20school.jpg?itok=ifTDOcXu",
+      "publishedAt": "2025-07-13 05:28:32",
+      "content": "The Ministry of Health has urged parents and guardians to ensure that their children receive the Typhoid Conjugate Vaccine (TCV) and the Measles-Rubella vaccine before the ten-day vaccination campai\u2026 [+2888 chars]",
+      "retrievedAt": "2025-07-14 07:10:20.294540",
+      "internal_id": "e93617c038a95cfc146f6349db53686af780969c1afece9df66a1d114b6cca1d",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22912,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Emergency vaccines slash deaths by 60%",
+      "description": "Emergency vaccination during outbreaks of diseases like cholera, Ebola and measles have over the past quarter-century reduced deaths from such illness.",
+      "url": "https://timesofindia.indiatimes.com/science/emergency-vaccines-slash-deaths-by-60/articleshow/122414798.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-122414796,width-1070,height-580,imgsize-501395,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-07-13 04:46:39",
+      "content": "News Emergency vaccines slash deaths by 60% Follow Us On Social Media",
+      "retrievedAt": "2025-07-14 07:10:17.291224",
+      "internal_id": "5613c0cedc95a45c580640e665f9eb773166d97199ce79e0c15a4acc047c1730",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22927,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariah Aquino",
+      "title": "Paciente nos EUA morre com bact\u00e9ria da \u201cGrande Peste\u201d da Idade M\u00e9dia",
+      "description": "De acordo com o hospital, o paciente morreu menos de 24 horas ap\u00f3s dar entrada na unidade hospitalar e n\u00e3o resistiu",
+      "url": "https://www.metropoles.com/mundo/paciente-nos-eua-morre-com-bacteria-da-grande-peste-da-idade-media",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/07/12230904/bacteria-peste-Yersinia-pestis.jpg",
+      "publishedAt": "2025-07-13 02:35:45",
+      "content": "Uma pessoa morreu no estado de Arizona, nos Estados Unidos, depois de contrair a peste pneum\u00f4nica, ap\u00f3s ser contaminada com a bact\u00e9ria Yersinia pestis. O micro-organismo \u00e9 o causador das doen\u00e7as rela\u2026 [+870 chars]",
+      "retrievedAt": "2025-07-14 07:10:20.950626",
+      "internal_id": "d5f006b90b271e05b7c6684ecd7f353629ae250bd7a70303a9e6a0b05bceb045",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22924,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e42\u0e23\u0e04 \"\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\" \u0e1e\u0e1a\u0e1b\u0e48\u0e27\u0e22\u0e2a\u0e30\u0e2a\u0e21 40 \u0e04\u0e19",
+      "description": "\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e25\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e42\u0e23\u0e04\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e35\u0e01\u0e32\u0e23\u0e23\u0e30\u0e1a\u0e32\u0e14\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e1b\u0e35\u0e01\u0e25\u0e32\u0e22\u0e41\u0e15\u0e48\u0e04\u0e27\u0e23\u0e23\u0e30\u0e27\u0e31\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e40\u0e1e\u0e28\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c\u0e01\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e38\u0e49\u0e19\u0e40\u0e04\u0e22 \u0e41\u0e19\u0e30\u0e2a\u0e27\u0e21\u0e16\u0e38\u0e07\u0e22\u0e32\u0e07\u0e2d\u0e19\u0e32\u0e21\u0e31\u0e22\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://www.thairath.co.th/news/local/2870097",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rfhFqZoM3LGBRMEjwJCRDrWSPeB1QSKKLWrYlPKd0NySPYHfTe.jpg",
+      "publishedAt": "2025-07-13 02:15:00",
+      "content": "(Mpox) .. 12 .. 2568 2567 40 2567 176 2566 676 13 5 . 1 .. 40 12 .. . 2565 26 5 2568 12 ..2568 4 Clade II \"\"",
+      "retrievedAt": "2025-07-14 07:10:19.936495",
+      "internal_id": "3aa29f162425a8106aefbf4f7c26a894398c61c297799f168ee4313d714728d1",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22928,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041e\u043b\u044c\u0433\u0430 \u0428\u0443\u043c\u0435\u0439\u043a\u043e",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0446\u0435\u043d\u0438\u043b\u0438 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0447\u0443\u043c\u044b",
+      "description": "\u0420\u0438\u0441\u043a \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0438 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u0442 \u0447\u0443\u043c\u044b \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043a\u0440\u0430\u0439\u043d\u0435 \u043d\u0438\u0437\u043a\u0438\u043c \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0435 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0430, \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0438\u0440\u0443\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0441 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043d\u044b\u043c \u0441\u043b\u0443\u0447\u0430\u0435\u043c \u0447\u0443\u043c\u044b \u0432 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u043c \u0448\u0442\u0430\u0442\u0435 \u0410\u0440\u0438\u0437\u043e\u043d\u0430.",
+      "url": "https://news.mail.ru/society/66981836/",
+      "urlToImage": "https://news.mail.ru/social_preview/66981836/?time=493c6382cd9334f3237347105c8c3049",
+      "publishedAt": "2025-07-12 23:18:08",
+      "content": "() . . 2007 . , Yersinia pestis.",
+      "retrievedAt": "2025-07-14 07:10:20.959364",
+      "internal_id": "4a345e325faabe14fd1161f23e0936888237613ca894252ab5c9a120d3698c44",
+      "publishedAtLabel": "Jul 12"
+    },
     {
       "id": 22908,
       "query": [
@@ -109,6 +235,24 @@
       "content": "KUALA LUMPUR: Dengue cases in the country dropped to 32,299 between Jan 1 and July 5 this year, compared to 78,068 cases during the same period last year, a decrease of 58.6%. Health Minister Datuk \u2026 [+2017 chars]",
       "retrievedAt": "2025-07-13 19:05:58.703815",
       "internal_id": "3128a9ce404327b92a164213a2732f7486b780ce1566f80b3ca7efa99b31ab50",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22913,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Journalists Tally State and Local Health Care Implications of GOP Megabill",
+      "description": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here\u2019s a collection of their appearances.",
+      "url": "https://kffhealthnews.org/news/article/on-air-july-12-2025-big-beautiful-bill-megabill-medicaid-cuts-hospitals-states/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_kffhealthnews-on-air_weekly.jpg",
+      "publishedAt": "2025-07-12 09:00:00",
+      "content": "C\u00e9line Gounder, KFF Health News\u2019 editor-at-large for public health, discussed measles cases on CBS News\u2019 \u201cCBS News 24/7\u201d on July 9. Gounder also discussed the presence of Immigration and Customs Enfo\u2026 [+954 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.385455",
+      "internal_id": "6489ab58690ae4214bcf59e91b985d0fd19df46fc8d714f41db8b1be127731b9",
       "publishedAtLabel": "Jul 12"
     },
     {
@@ -325,6 +469,24 @@
       "content": "FLAGSTAFF, AZ. (KPHO/Gray News) - A person in Arizona has died from the plague, health officials confirmed on Friday. The person was recently treated in a Flagstaff emergency room and died the same \u2026 [+2150 chars]",
       "retrievedAt": "2025-07-13 07:08:13.839623",
       "internal_id": "959ffa40f16febfc438c39e043af7e01d0909f501b9b0f5469c86ca97e3d8950",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 22916,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Southernillinoisnow.com",
+      "author": "Bruce Kropp",
+      "title": "Illinois Department of Public Health Declares Southern Illinois Measles Outbreak Over",
+      "description": "The Illinois Department of Public Health has declared the Southern Illinois measles outbreak over. There were ...",
+      "url": "https://southernillinoisnow.com/2025/07/11/253416/",
+      "urlToImage": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2745/files/2025/07/809691544-1200x675.jpg",
+      "publishedAt": "2025-07-12 00:34:39",
+      "content": "The Illinois Department of Public Health has declared the Southern Illinois measles outbreak over. There were eight total cases that were all linked to one another in April and May in the Williamson\u2026 [+2050 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.411613",
+      "internal_id": "a09e5e27a28fdd7aea38939f070250b3a31229957bc080645ec5e3a947f2c990",
       "publishedAtLabel": "Jul 12"
     },
     {
@@ -850,6 +1012,24 @@
       "publishedAtLabel": "Jul 11"
     },
     {
+      "id": 22920,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WIFR",
+      "author": "Anna Sieg",
+      "title": "Illinois Department of Public Health works to stop the spread of measles",
+      "description": "The outbreak of measles in southern Illinois is over, according to IDPH, with no news cases reported since May 22.",
+      "url": "https://www.wifr.com/2025/07/11/illinois-department-public-health-works-stop-spread-measles/",
+      "urlToImage": "https://gray-wifr-prod.gtv-cdn.com/resizer/v2/MQQOC2MHZNHRHD4YLPBIUROEPA.png?auth=ee0a4504946137e0a122b5baf480091245fa20b78d4eed300cb89f8b0ee75038&width=1200&height=600&smart=true",
+      "publishedAt": "2025-07-11 19:30:41",
+      "content": "SPRINGFIELD, Ill. (WIFR) - The outbreak of measles in southern Illinois is over, according to IDPH, with no news cases reported since May 22. Eight cases of measles were reported in the southern Ill\u2026 [+1617 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.447726",
+      "internal_id": "055cf70b47bdd62cb83e6c41dba0206e6a6ed8734afddde57ef4f3ad5c0505be",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
       "id": 22862,
       "query": [
         "measles"
@@ -865,6 +1045,24 @@
       "content": "from the we-chose-this dept We haven\u2019t talked about the numbers in America\u2019s measles outbreak in a couple of months, but that certainly doesn\u2019t mean the problem has gone away. It was back in April t\u2026 [+4034 chars]",
       "retrievedAt": "2025-07-13 07:08:09.675093",
       "internal_id": "71c454eefcf25424e42a9c0ed9475cc98063808f6c8782c39b64f0bf307f7237",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22918,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Oil City News",
+      "author": "Oil City Staff",
+      "title": "Second Wyoming measles case reported in Niobrara County",
+      "description": "CASPER, Wyo. \u2014 Wyoming's second case of measles has been reported in an unvaccinated child in Niobrara County. According to the Wyoming Department of",
+      "url": "http://oilcity.news/community/health/2025/07/11/second-wyoming-measles-case-reported-in-niobrara-county/",
+      "urlToImage": "https://oilcity.news/wp-content/uploads/2019/04/shutterstock_1323694607.jpg",
+      "publishedAt": "2025-07-11 19:08:36",
+      "content": "CASPER, Wyo. Wyoming\u2019s second case of measles has been reported in an unvaccinated child in Niobrara County. According to the Wyoming Department of Health, the source of the child\u2019s exposure is not \u2026 [+1243 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.430224",
+      "internal_id": "70b049e2a6619ae60e6cb77d127e0bc332ba2b54bcd803215814f7a17f3147dd",
       "publishedAtLabel": "Jul 11"
     },
     {
@@ -1086,6 +1284,24 @@
       "publishedAtLabel": "Jul 11"
     },
     {
+      "id": 22917,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC Chicago",
+      "author": "Nbc Chicago Staff",
+      "title": "Illinois holds update on measles as cases spike across US",
+      "description": "Measles, caused by a highly contagious virus, has been considered eliminated from the U.S. since 2000.",
+      "url": "https://www.nbcchicago.com/news/local/how-many-measles-cases-in-illinois-where-measles-cases-update-idph/3787359/",
+      "urlToImage": "https://media.nbcchicago.com/2025/02/GettyImages-2152300024.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-07-11 13:53:38",
+      "content": "As the U.S. records its worth year for measles spread since 2019, the Illinois Department of Public Health Friday will hold an update on the status of the highly contagious virus with cases across th\u2026 [+3423 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.421173",
+      "internal_id": "6c3638b7de93ffdb325118e4af9fdc1c249bffc3b615387f4c0f7fa389bdd733",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
       "id": 22865,
       "query": [
         "measles"
@@ -1173,6 +1389,24 @@
       "content": "Zugang zu stern+statt 11,96 nur 1",
       "retrievedAt": "2025-07-12 19:05:54.016108",
       "internal_id": "ac3f4a471da9393acaa4674b6933cb40976ca199f847a5f15d5b85c7ad59b1f6",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 22914,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Jasmine Minor",
+      "title": "2025 Illinois measles cases: Health officials to give update on measles cases Friday",
+      "description": "2025 Illinois measles cases: Health officials to give update on measles cases Fridayabc7chicago.com",
+      "url": "https://abc7chicago.com/post/2025-illinois-measles-cases-health-officials-give-update-friday/17065959/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17074277_071125-wls-schulte-il-measles-430p-vid.jpg?w=1600",
+      "publishedAt": "2025-07-11 10:53:52",
+      "content": "CHICAGO (WLS) -- Health officials in Illinois declared an end to an outbreak in the state. There were a total of eight cases in southern Illinois and two unrelated cases in Cook County in April and \u2026 [+1963 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.394862",
+      "internal_id": "f32c592c3a5f655ba07eb2a6965334e7e1174ff0dc04a3a77286e0d37477c286",
       "publishedAtLabel": "Jul 11"
     },
     {
@@ -1284,6 +1518,24 @@
       "publishedAtLabel": "Jul 11"
     },
     {
+      "id": 22915,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Natasha Gordon",
+      "title": "Wairarapa measles outbreak grows: Fourth case confirmed",
+      "description": "Locals are being urged to get immunised as another case is confirmed.",
+      "url": "https://www.nzherald.co.nz/nz/wairarapa-measles-outbreak-grows-fourth-case-confirmed/OS5ITZ2AHZHAVDQTI7ZB2NMFAA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NPGJGUCFJVH43BSITLWQUCMZUI.jpg?auth=e06f19ccf9fe585f4effb0c3bf4e0e8bb410de37f9e92af992acead5c2e8c892&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-07-11 04:28:57",
+      "content": "The latest case had already been isolating to help prevent any spread, with all four cases receiving appropriate care and support, said National Public Health Service (NPHS) medical officer of health\u2026 [+2936 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.403277",
+      "internal_id": "fecce3a5375ca83f417af75152ce11c9a8a5b072831d630dc5e1f7f68c71c701",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
       "id": 22833,
       "query": [
         "measles"
@@ -1373,6 +1625,24 @@
       "content": "CDC data shows 2025 is now the worst year for measles cases in this country in more than three decades. More than 150 people have been hospitalized due to the growing outbreak and three have died, in\u2026 [+194 chars]",
       "retrievedAt": "2025-07-12 07:07:30.543994",
       "internal_id": "1b0bba193c15274943f29bc307776a6751320aedc7e98fbf8c02be97ee1cbab4",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22919,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "April Baumgarten",
+      "title": "North Dakota reports first case of measles in more than a month",
+      "description": "The U.S. hit its highest count of measles in three decades. North Dakota has reported 35 cases.",
+      "url": "https://www.inforum.com/health/north-dakota-reports-first-case-of-measles-in-more-than-a-month-just-as-it-reached-outbreak-over-milestone",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/b11ff3f/2147483647/strip/true/crop/4590x3466+0+0/resize/1412x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F83%2Fe6%2F750d85124bb887ad635aa13a1476%2F071125-n-ff-measles-02.jpg",
+      "publishedAt": "2025-07-10 22:43:14",
+      "content": "FARGO North Dakota has reported its first case of measles in more than a month, just as the state hit a milestone that declared the outbreak in the state over. The state Department of Health and \u2026 [+5145 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.439138",
+      "internal_id": "c9558e6a9b65c9649edb59667980e8617b38527079cf264938e24d544cdfce08",
       "publishedAtLabel": "Jul 10"
     },
     {
@@ -1795,6 +2065,42 @@
       "publishedAtLabel": "Jul 10"
     },
     {
+      "id": 22923,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Devi Shastri",
+      "title": "Measles outbreak: United States having worst year for measles in more than 3 decades, CDC says",
+      "description": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025.",
+      "url": "https://6abc.com/post/measles-outbreak-united-states-having-worst-year-more-3-decades-cdc-says/17039833/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17041028_070925-wls-measles-vax-clean-img.jpg?w=1600",
+      "publishedAt": "2025-07-10 06:00:44",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and\u2026 [+3108 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.473346",
+      "internal_id": "98cbb5bbcd74d40ef3596f6f030efbfcf440ceff7cb5db8db1fc5cf9a7019c86",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22921,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTRK-TV",
+      "author": "Devi Shastri",
+      "title": "Measles outbreak: United States having worst year for measles in more than 3 decades, CDC says",
+      "description": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025.",
+      "url": "https://abc13.com/post/measles-outbreak-united-states-having-worst-year-more-3-decades-cdc-says/17039833/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17041028_070925-wls-measles-vax-clean-img.jpg?w=1600",
+      "publishedAt": "2025-07-10 04:40:34",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and\u2026 [+3108 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.456081",
+      "internal_id": "32cc82fc9d86649c5e27e5c5d4c174e20c9b85085036c5b8ca15e6d2859364f7",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
       "id": 22810,
       "query": [
         "chikungunya"
@@ -1846,6 +2152,24 @@
       "content": "The U.S. is having its worst year for measles spread in more than three decades, and the year is only half over.The national case count reached 1,288 on Wednesday, according to the U.S. Centers for D\u2026 [+3966 chars]",
       "retrievedAt": "2025-07-11 07:08:46.838901",
       "internal_id": "c1d3529fc87b259f0dafa590be688a3e2635bd0c6b3eb7ec00cbcf42c5812d1f",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 22922,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Devi Shastri",
+      "title": "Measles outbreak: United States having worst year for measles in more than 3 decades, CDC says",
+      "description": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025.",
+      "url": "https://abc7ny.com/post/measles-outbreak-united-states-having-worst-year-more-3-decades-cdc-says/17039833/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17041028_070925-wls-measles-vax-clean-img.jpg?w=1600",
+      "publishedAt": "2025-07-10 01:30:44",
+      "content": "The U.S. is having its worst year for measles spread in more than three decades, with a total of 1,288 cases nationally and another six months to go in 2025. The U.S. Centers for Disease Control and\u2026 [+3108 chars]",
+      "retrievedAt": "2025-07-14 07:10:17.464745",
+      "internal_id": "f13add4af39f9bf597e676d9c8473a886bdb639a84d448c0cc42b11fa1b90915",
       "publishedAtLabel": "Jul 10"
     },
     {
@@ -19977,6 +20301,96 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": "VRT NWS",
+      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
+      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
+      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
+      "publishedAt": "2025-06-01 18:58:02",
+      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.962760",
+      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "vea",
+      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
+      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-06-01 17:49:28",
+      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.971288",
+      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Sarika N",
+      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
+      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
+      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
+      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2025-06-01 10:08:43",
+      "content": "",
+      "retrievedAt": "2025-06-02 19:06:01.040343",
+      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Publiko gipahimangnoan kalabot sa MPOX",
+      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
+      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
+      "publishedAt": "2025-06-01 07:28:44",
+      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.693619",
+      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
+      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
+      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
+      "publishedAt": "2025-06-01 07:25:31",
+      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.587795",
+      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
       "publishedAtLabel": "Jun 1"
     }
   ]
