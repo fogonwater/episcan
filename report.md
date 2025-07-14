@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-07-14 07:10
-- **Most recent article:** 2025-07-13 06:38:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-07-14 19:07
+- **Most recent article:** 2025-07-13 18:18:12
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 110 | 2 | 370 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 0 | 140 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 0 | 121 |
+| measles | 89 | 48 | 31 | 53 | 36 | 110 | 8 | 375 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 4 | 144 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 1 | 120 |
 | chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 0 | 117 |
-| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 1 | 91 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 0 | 90 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 1 | 89 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
-| yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 1 | 53 |
+| yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 3 | 55 |
 | zika | 7 | 2 | 14 | 2 | 8 | 12 | 0 | 45 |
-| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 0 | 42 |
-| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 2 | 13 |
+| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 1 | 43 |
+| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 3 | 14 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 0 | 12 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 0 | 8 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
@@ -35,9 +35,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (yersinia)
 
+- [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
+
+- [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
+
 - [Paciente nos EUA morre com bactéria da “Grande Peste” da Idade Média](https://www.metropoles.com/mundo/paciente-nos-eua-morre-com-bacteria-da-grande-peste-da-idade-media) (Metropoles.com)
 
 ## 25-29 (typhoid)
+
+- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 - [Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children](https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/) (Thekenyatimes.com)
 
@@ -49,9 +55,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (measles)
 
+- [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
+
+- [Measles explained: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html) (The-independent.com)
+
+- [Child dies at Alder Hey as measles cases surge](https://www.bbc.com/news/articles/c8j1k3k44e2o) (BBC News)
+
+- [Measles: Child dies at Alder Hey Children's hospital as cases surge](https://www.bbc.co.uk/news/articles/c8j1k3k44e2o) (BBC News)
+
+- [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
+
+- [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
+
 - [UK measles cases rising among children - with leading NHS hospital 'concerned'](https://news.sky.com/story/uk-measles-cases-rising-among-children-with-leading-nhs-hospital-concerned-13396026) (Sky.com)
 
 - [Emergency vaccines slash deaths by 60%](https://timesofindia.indiatimes.com/science/emergency-vaccines-slash-deaths-by-60/articleshow/122414798.cms) (The Times of India)
+
+## 25-29 (malaria)
+
+- [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
+
+## 25-29 (h5n1)
+
+- [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
+
+## 25-29 (dengue)
+
+- [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
+
+- [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
+
+- [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
+
+- [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-28 (zika)
 
@@ -2193,10 +2229,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2383,8 +2415,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2414,10 +2444,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
