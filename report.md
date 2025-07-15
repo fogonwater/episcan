@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 0
-- **Last harvest:** 2025-07-15 07:10
-- **Most recent article:** 2025-07-13 18:18:12
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-07-15 19:07
+- **Most recent article:** 2025-07-14 18:41:53
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 110 | 8 | 376 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 4 | 144 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 1 | 122 |
-| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 0 | 117 |
-| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 1 | 91 |
-| meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 0 | 90 |
+| measles | 89 | 48 | 31 | 53 | 36 | 114 | 20 | 391 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 6 | 146 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 4 | 123 |
+| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 5 | 122 |
+| meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 1 | 91 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 2 | 90 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
-| yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 3 | 55 |
-| zika | 7 | 2 | 14 | 2 | 8 | 12 | 0 | 45 |
+| yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 4 | 56 |
+| zika | 7 | 2 | 14 | 2 | 8 | 12 | 1 | 46 |
 | h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 1 | 43 |
-| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 3 | 14 |
+| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 5 | 16 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 0 | 12 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 0 | 8 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
@@ -33,7 +33,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-29 (zika)
+
+- [African strains of Zika virus resist ISG-mediated restriction](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013326) (Plos.org)
+
 ## 25-29 (yersinia)
+
+- [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
 - [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
 
@@ -43,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (typhoid)
 
+- [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
+
+- [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
+
 - [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 - [Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children](https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/) (Thekenyatimes.com)
@@ -51,9 +61,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (mpox)
 
+- [La OMS registra más de 26.000 casos de mpox en la primera mitad del año, la mayoría en África](https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-26000-casos-mpox-primera-mitad-ano-mayoria-africa-20250714120241.html) (Infosalus.com)
+
 - [เตือนสถานการณ์โรค "ฝีดาษลิง" พบป่วยสะสม 40 คน](https://www.thairath.co.th/news/local/2870097) (Thairath.co.th)
 
+## 25-29 (meningitis)
+
+- [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
+
 ## 25-29 (measles)
+
+- [Alberta surpasses all of the United States in confirmed measles cases | Globalnews.ca](http://globalnews.ca/news/11287924/alberta-measles-july-14-2025/) (Global News)
+
+- [Alberta's measles outbreaks top case counts reported for entire U.S.](https://www.cbc.ca/news/canada/calgary/alberta-s-measles-outbreaks-surpass-case-counts-reported-for-entire-u-s-1.7584490) (CBC News)
+
+- [Measles Cases Could Cost the U.S. Its Elimination Status. Here's What That Means And How Close We Are.](https://www.huffpost.com/entry/measles-us-elimination-status_n_687148e4e4b07da2c0819b46) (HuffPost)
+
+- [We're now all at risk — Thanks to President Donald Trump and his health secretary ... (Jeff Nesbit/The Contrarian)](https://www.memeorandum.com/250714/p60) (Memeorandum.com)
+
+- [Measles Returns, 25 Years After It Was Eradicated](https://dianeravitch.net/2025/07/14/measles-return-25-years-after-it-was-eradicated/) (Dianeravitch.net)
+
+- [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
+
+- [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
+
+- [Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60%](https://www.sciencealert.com/emergency-vaccines-reduce-disease-outbreak-deaths-by-almost-60) (ScienceAlert)
 
 - [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
 
@@ -65,13 +97,27 @@ Source: [News API](https://newsapi.org/)
 
 - [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
 
+- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
+
 - [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
 
+- [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
+
 - [UK measles cases rising among children - with leading NHS hospital 'concerned'](https://news.sky.com/story/uk-measles-cases-rising-among-children-with-leading-nhs-hospital-concerned-13396026) (Sky.com)
+
+- [Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children](https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/) (Thekenyatimes.com)
+
+- [Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parents](https://www.kenyans.co.ke/news/114116-ensure-children-get-typhoid-measles-rubella-jabs-48-hours-health-ministry-warns-parents) (Kenyans.co.ke)
 
 - [Emergency vaccines slash deaths by 60%](https://timesofindia.indiatimes.com/science/emergency-vaccines-slash-deaths-by-60/articleshow/122414798.cms) (The Times of India)
 
 ## 25-29 (malaria)
+
+- [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Ey4zip3&amp;lang=en_US&amp;send_time=1752518484&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_recall_exp_25q3-v6%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-control&amp;s=i2) (Newsbreak.com)
+
+- [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
+
+- [A Senate vote this week will test the popularity of DOGE spending cuts](https://financialpost.com/pmn/a-senate-vote-this-week-will-test-the-popularity-of-doge-spending-cuts) (Financial Post)
 
 - [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
@@ -81,6 +127,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (dengue)
 
+- [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
+
+- [En lo que va del año suman 4 mil 945 casos y 22 muertos por dengue en el país](https://www.excelsior.com.mx/nacional/en-lo-que-va-del-ano-suman-4-mil-945-casos-y-22-muertos-por-dengue-en-el-pais/1726882) (Excelsior.com.mx)
+
 - [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
 
 - [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
@@ -88,6 +138,18 @@ Source: [News API](https://newsapi.org/)
 - [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
 
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
+
+## 25-29 (chikungunya)
+
+- [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Ey4zip3&amp;lang=en_US&amp;send_time=1752518484&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_recall_exp_25q3-v6%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-control&amp;s=i2) (Newsbreak.com)
+
+- [Chikungunya, caso confermato in provincia di Piacenza. Il paziente non aveva viaggiato](https://www.ilfattoquotidiano.it/2025/07/14/chikungunya-caso-autoctono-piacenza-zanzara-tigre-notizie/8061562/) (Ilfattoquotidiano.it)
+
+- [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
+
+- [Gefährliche Krankheit: Chikungunya-Impfung: Wichtige Infos für deine nächste Reise](https://www.fitforfun.de/news/chikungunya-impfung-wichtige-infos-fuer-deine-naechste-reise-759176.html) (FIT FOR FUN)
+
+- [Das Chikungunya-Fieber grassiert auf La Réunion. Jetzt könnte das Virus den Sprung nach Europa schaffen](https://www.nzz.ch/wissenschaft/chikungunya-fieber-auf-la-reunion-droht-eine-ausbreitung-nach-europa-ld.1891008) (Www.nzz.ch)
 
 ## 25-28 (zika)
 
@@ -283,9 +345,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles spread 'like wildfire' among unvaccinated children in northeast B.C., health officer says](https://www.cbc.ca/news/canada/british-columbia/measles-spread-like-wildfire-in-northeast-b-c-1.7583583) (CBC News)
 
+- ['We're on a slippery slope': Alarming number of measles cases sees U.S. on course to no longer consider the disease eradicated](https://www.post-gazette.com/news/health/2025/07/12/us-measles-cases-elimination/stories/202507110042) (Pittsburgh Post-Gazette)
+
 - [Journalists Tally State and Local Health Care Implications of GOP Megabill](https://kffhealthnews.org/news/article/on-air-july-12-2025-big-beautiful-bill-megabill-medicaid-cuts-hospitals-states/) (Kffhealthnews.org)
 
 - [Illinois Department of Public Health Declares Southern Illinois Measles Outbreak Over](https://southernillinoisnow.com/2025/07/11/253416/) (Southernillinoisnow.com)
+
+- [Measles reaches highest level in 33 years, now in 39 states](https://www.idahostatejournal.com/news/local/measles-reaches-highest-level-in-33-years-now-in-39-states/article_c340024a-06f5-4a16-b959-765a6b7c973f.html) (Idaho State Journal)
 
 - [Schumer presses RFK Jr. to declare measles emergency (Alexander Bolton/The Hill)](https://www.memeorandum.com/250711/p77) (Memeorandum.com)
 
@@ -294,6 +360,8 @@ Source: [News API](https://newsapi.org/)
 - [America’s Measles Counts Surpass 2019 Outbreak, Highest In Over Three Decades](https://www.techdirt.com/2025/07/11/americas-measles-counts-surpass-2019-outbreak-highest-in-over-three-decades/) (Techdirt)
 
 - [Second Wyoming measles case reported in Niobrara County](http://oilcity.news/community/health/2025/07/11/second-wyoming-measles-case-reported-in-niobrara-county/) (Oil City News)
+
+- [Illinois health director praises coordinated effort to stop measles outbreak](https://www.shawlocal.com/news/2025/07/11/illinois-health-director-praises-coordinated-effort-to-stop-measles-outbreak/) (Shawlocal.com)
 
 - [Public Health urging people in Sussex to test for measles, get vaccinated after confirmed case](https://www.cbc.ca/news/canada/new-brunswick/public-health-confirmed-measles-sussex-region-nb-kim-barker-1.7582760) (CBC News)
 
@@ -308,6 +376,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles lands 10 British Columbians in hospital as disease spreads in north](https://www.nationalobserver.com/2025/07/11/news/ten-british-columbians-hospital-measles-disease-spreads-north) (National Observer)
 
 - [2025 Illinois measles cases: Health officials to give update on measles cases Friday](https://abc7chicago.com/post/2025-illinois-measles-cases-health-officials-give-update-friday/17065959/) (WLS-TV)
+
+- [WA Health says undetected measles cases a possibility after locally acquired case confirmed](https://thewest.com.au/news/health/wa-health-says-undetected-measles-cases-a-possibility-after-locally-acquired-case-confirmed-c-19326032) (The West Australian)
 
 - [Hot Measles Summer](https://slate.com/podcasts/what-next-tbd/2025/07/measles-has-a-messaging-problem) (Slate Magazine)
 
@@ -2229,10 +2299,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2419,8 +2485,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2450,10 +2514,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
