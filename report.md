@@ -1,7 +1,7 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-07-14 19:07
+- **New articles in last harvest:** 0
+- **Last harvest:** 2025-07-15 07:10
 - **Most recent article:** 2025-07-13 18:18:12
 
 ---
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 89 | 48 | 31 | 53 | 36 | 110 | 8 | 375 |
+| measles | 90 | 48 | 31 | 53 | 36 | 110 | 8 | 376 |
 | dengue | 25 | 14 | 17 | 26 | 24 | 34 | 4 | 144 |
-| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 1 | 120 |
+| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 1 | 122 |
 | chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 0 | 117 |
+| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 1 | 91 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 0 | 90 |
-| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 1 | 89 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 3 | 55 |
 | zika | 7 | 2 | 14 | 2 | 8 | 12 | 0 | 45 |
@@ -2229,6 +2229,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
+- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
+
+- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
+
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2415,6 +2419,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
+- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
+
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2444,6 +2450,10 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
+
+- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
+
+- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
