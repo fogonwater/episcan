@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-07-16 07:09
-- **Most recent article:** 2025-07-15 06:41:09
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-07-16 19:07
+- **Most recent article:** 2025-07-15 16:42:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 114 | 27 | 399 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 8 | 148 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 4 | 125 |
+| measles | 89 | 48 | 31 | 53 | 36 | 114 | 34 | 405 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 10 | 150 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 5 | 124 |
 | chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 5 | 122 |
-| mpox | 13 | 24 | 11 | 27 | 10 | 6 | 3 | 94 |
-| meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 1 | 91 |
+| meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 3 | 93 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 3 | 91 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
-| yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 4 | 56 |
+| yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 5 | 57 |
 | zika | 7 | 2 | 14 | 2 | 8 | 12 | 3 | 48 |
-| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 1 | 43 |
-| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 5 | 16 |
+| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 3 | 45 |
+| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 8 | 19 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 0 | 12 |
-| pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 1 | 9 |
+| pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 3 | 11 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
 | leptospirosis | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 4 |
 
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (yersinia)
 
+- [Homem morre após contrair peste pulmonar nos EUA](https://www.terra.com.br/noticias/mundo/homem-morre-apos-contrair-peste-pulmonar-nos-eua,2f2490a96ee5e6d5f6274c85f0ba9e274cv8rpya.html) (Terra.com.br)
+
 - [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
 - [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
@@ -52,6 +54,12 @@ Source: [News API](https://newsapi.org/)
 - [Paciente nos EUA morre com bactéria da “Grande Peste” da Idade Média](https://www.metropoles.com/mundo/paciente-nos-eua-morre-com-bacteria-da-grande-peste-da-idade-media) (Metropoles.com)
 
 ## 25-29 (typhoid)
+
+- [Guidance: Typhoid: health advice for travellers](https://www.gov.uk/government/publications/typhoid-health-advice-for-travellers) (Www.gov.uk)
+
+- [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Warns Study](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-warns-study) (ScienceAlert)
+
+- [More children receive measles, typhoid vaccines as drive ends](https://www.standardmedia.co.ke/health/health-science/article/2001524317/more-children-receive-measles-typhoid-vaccines-as-drive-ends) (Standard Digital)
 
 - [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
 
@@ -65,6 +73,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (pertussis)
 
+- [Pertussis: background information on prevention and management](https://www.gov.uk/guidance/pertussis-clinical-and-public-health-management) (Www.gov.uk)
+
+- [Modest gains in global childhood vaccination, yet 14 million children received “zero-dose”: WHO/ Unicef report](https://www.thehindubusinessline.com/news/national/modest-gains-in-global-childhood-vaccination-yet-14-million-children-received-zero-dose-who-unicef-report/article69814194.ece) (BusinessLine)
+
 - [Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated – WHO, UNICEF](https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef) (World Health Organization)
 
 ## 25-29 (mpox)
@@ -77,9 +89,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (meningitis)
 
+- [Guidance: Meningitis and septicaemia: prevention and management in higher education institutions](https://www.gov.uk/government/publications/meningitis-and-septicaemia-prevention-and-management-in-higher-education-institutions) (Www.gov.uk)
+
+- [La gripe obliga a Suiza a suspender el entrenamiento pero España no se fía: "Te meten un gol y te vas para casa"](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/07/15/687623e9e85ece4d3c8b457e.html) (El Mundo)
+
 - [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
 
 ## 25-29 (measles)
+
+- [Guidance: Measles, mumps, rubella (MMR): use of combined vaccine instead of single vaccines](https://www.gov.uk/government/publications/mmr-vaccine-dispelling-myths) (Www.gov.uk)
+
+- [MMR catchup programme: diagnosis, case management, and advice](https://www.gov.uk/guidance/mmr-catchup-programme-diagnosis-case-management-and-advice) (Www.gov.uk)
+
+- [Guidance: Measles: protect yourself, protect others](https://www.gov.uk/government/publications/measles-protect-yourself-protect-others) (Www.gov.uk)
+
+- [Measles, rubella and polio: The return of preventable diseases (Zach Kaplan/The Hill)](https://www.memeorandum.com/250715/p17) (Memeorandum.com)
+
+- [More children receive measles, typhoid vaccines as drive ends](https://www.standardmedia.co.ke/health/health-science/article/2001524317/more-children-receive-measles-typhoid-vaccines-as-drive-ends) (Standard Digital)
+
+- [Concern as measles cases almost treble in Ireland over last seven years](https://www.independent.ie/irish-news/concern-as-measles-cases-almost-treble-in-ireland-over-last-seven-years/a1893395677.html) (Independent.ie)
+
+- [Links 7/15/2025](https://www.nakedcapitalism.com/2025/07/links-7-15-2025.html) (Nakedcapitalism.com)
 
 - [Measles case confirmed for major iron ore miner](https://www.abc.net.au/news/2025-07-15/bhp-fly-in-fly-out-pilbara-measles-case-confirmation/105534576) (ABC News (AU))
 
@@ -137,6 +167,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (malaria)
 
+- [Cote d'Ivoire launches national malaria vaccination campaign](https://www.thestar.com.my/news/world/2025/07/16/cote-d039ivoire-launches-national-malaria-vaccination-campaign) (The Star Online)
+
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Ey4zip3&amp;lang=en_US&amp;send_time=1752518484&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_recall_exp_25q3-v6%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-control&amp;s=i2) (Newsbreak.com)
 
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
@@ -147,9 +179,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (h5n1)
 
+- [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
+
+- [Bird Flu Is out of the News but Still Circulating](https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/) (Scientific American)
+
 - [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
+
+- [GO: 2 municípios receberão mosquitos com bactéria que combate a dengue](https://www.metropoles.com/brasil/go-2-municipios-receberao-mosquitos-com-bacteria-que-combate-dengue) (Metropoles.com)
+
+- [EUA se preparam para um ‘novo normal’ com dengue](https://veja.abril.com.br/saude/eua-se-preparam-para-um-novo-normal-com-dengue-endemica/) (Abril.com.br)
 
 - [Una española coge el dengue en su viaje por Filipinas y explica el infierno que ha vivido: «Perdí muchos kilos»](https://www.abc.es/recreo/espanola-coge-dengue-viaje-filipinas-explica-infierno-20250715191310-nt.html) (Www.abc.es)
 
@@ -2327,12 +2367,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
-- [Σιέρα Λεόνε - Θερίζει η ευλογιά των πιθήκων: συναγερμός για την εξάπλωση και διεθνής κινητοποίηση](https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/) (Protothema.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2519,8 +2553,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2550,10 +2582,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 

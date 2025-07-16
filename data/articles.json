@@ -1,8 +1,351 @@
 {
-  "last_updated": "2025-07-16 07:09",
-  "count_articles_total": 1184,
-  "count_articles_new": 13,
+  "last_updated": "2025-07-16 19:07",
+  "count_articles_total": 1197,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 22997,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Si Yuan",
+      "title": "Cote d'Ivoire launches national malaria vaccination campaign",
+      "description": "ABIDJAN, July 15 (Xinhua) -- The government of Cote d'Ivoire on Monday launched a nationwide malaria vaccination campaign for nearly 420,000 children aged six to 23 months across the country's 115 health districts. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/07/16/cote-d039ivoire-launches-national-malaria-vaccination-campaign",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-15 16:42:00",
+      "content": "ABIDJAN, July 15 (Xinhua) -- The government of Cote d'Ivoire on Monday launched a nationwide malaria vaccination campaign for nearly 420,000 children aged six to 23 months across the country's 115 he\u2026 [+691 chars]",
+      "retrievedAt": "2025-07-16 19:07:02.904394",
+      "internal_id": "374b1b81b31451c0c1dba73b6e4e1331036cf3b517c52e30c518e72bc0c82828",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22988,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Measles, mumps, rubella (MMR): use of combined vaccine instead of single vaccines",
+      "description": "The benefits of using the combined measles, mumps, rubella (MMR) vaccine instead of single vaccines for the 3 diseases.",
+      "url": "https://www.gov.uk/government/publications/mmr-vaccine-dispelling-myths",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-15 15:50:27",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.639463",
+      "internal_id": "e8f0bc5fa9d9076abcda5a1e92cb4b136ec03b85b551a8d3980fb878694b8596",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22999,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Typhoid: health advice for travellers",
+      "description": "Advice on typhoid and paratyphoid (enteric fever) for health professionals to give to travellers, available in Bengali, Gujarati, Punjabi, Urdu and English.",
+      "url": "https://www.gov.uk/government/publications/typhoid-health-advice-for-travellers",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-15 15:50:19",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-07-16 19:07:04.390465",
+      "internal_id": "8870dfdb0075ec0e5b12dc43c7032ca3444a79f91ba7b4ade61eb6a84b4bacb0",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22982,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Pertussis: background information on prevention and management",
+      "description": "Information for healthcare professionals on pertussis (whooping cough).",
+      "url": "https://www.gov.uk/guidance/pertussis-clinical-and-public-health-management",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-15 15:49:53",
+      "content": "This content was originally produced by Public Health England (PHE). This content is now owned and managed by the UK Health Security Agency (UKHSA) Diagnosis Whooping cough is a notifiable disease \u2026 [+3687 chars]",
+      "retrievedAt": "2025-07-16 19:06:59.499825",
+      "internal_id": "c35d0f2283d2935634ec62ea5104cb4fd41de5a944bb2c8bb412a335355e4f39",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22986,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "MMR catchup programme: diagnosis, case management, and advice",
+      "description": "How to confirm a measles diagnosis, manage cases and contacts, control infection, and vaccinate young or partially-covered patients.",
+      "url": "https://www.gov.uk/guidance/mmr-catchup-programme-diagnosis-case-management-and-advice",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-15 15:49:11",
+      "content": "This content was originally produced by Public Health England (PHE). This content is now owned and managed by the UK Health Security Agency (UKHSA). This guide is for health care workers (HCW), cove\u2026 [+7558 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.621814",
+      "internal_id": "93eaaa19d8616325ce6ef0b91f53cf89194b245231424d24aa0f92a5d36f4da8",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22996,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Meningitis and septicaemia: prevention and management in higher education institutions",
+      "description": "Guidance for higher education institutions on meningoccocal disease.",
+      "url": "https://www.gov.uk/government/publications/meningitis-and-septicaemia-prevention-and-management-in-higher-education-institutions",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-15 15:44:14",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-07-16 19:07:02.574154",
+      "internal_id": "7fae065282fc2d6742a1fb525ff2ba1c30c8aeb7ddfc18ab969671f70055d8a9",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22987,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Measles: protect yourself, protect others",
+      "description": "This leaflet gives information about measles, and the MMR (measles, mumps and rubella) vaccine.",
+      "url": "https://www.gov.uk/government/publications/measles-protect-yourself-protect-others",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-15 15:42:39",
+      "content": "This content was originally produced by Public Health England (PHE). This content is now owned and managed by the UK Health Security Agency (UKHSA) This leaflet, aimed at adults as well as parents o\u2026 [+170 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.631002",
+      "internal_id": "6626b1d37184c367eadffe0bda0dd0a2bd5c7e1faea983302c70fd0bb0cbddbc",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 23000,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Homem morre ap\u00f3s contrair peste pulmonar nos EUA",
+      "description": "Um homem morreu nos Estados Unidos v\u00edtima de um caso raro de peste pulmonar, doen\u00e7a provocada ...",
+      "url": "https://www.terra.com.br/noticias/mundo/homem-morre-apos-contrair-peste-pulmonar-nos-eua,2f2490a96ee5e6d5f6274c85f0ba9e274cv8rpya.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-07-15 13:43:09",
+      "content": "Um homem morreu nos Estados Unidos v\u00edtima de um caso raro de peste pulmonar, doen\u00e7a provocada pela bact\u00e9ria Yersinia pestis. O indiv\u00edduo faleceu logo ap\u00f3s dar entrada em um hospital de Flagsta\u2026 [+1409 chars]",
+      "retrievedAt": "2025-07-16 19:07:05.284098",
+      "internal_id": "6be7c5982c1e0ab24563ccf8f481e8ba687cbb708d27e683bb98f64c7d92827a",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22994,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "GO: 2 munic\u00edpios receber\u00e3o mosquitos com bact\u00e9ria que combate a dengue",
+      "description": "Mosquitos ser\u00e3o soltos nos munic\u00edpios de Luzi\u00e2nia e Valpara\u00edso de Goi\u00e1s, ambos no Entorno do DF. Medida ser\u00e1 adotada em car\u00e1ter auxiliar",
+      "url": "https://www.metropoles.com/brasil/go-2-municipios-receberao-mosquitos-com-bacteria-que-combate-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/28074139/dengue-8.jpg",
+      "publishedAt": "2025-07-15 13:30:49",
+      "content": "Goi\u00e2nia \u2013 Os munic\u00edpios goianos de Valpara\u00edso de Goi\u00e1s e Luzi\u00e2nia, ambos no Entorno do Distrito Federal (DF), ser\u00e3o alvos de uma nova estrat\u00e9gia da Secretaria de Estado da Sa\u00fade de Goi\u00e1s (SES-GO) no \u2026 [+2642 chars]",
+      "retrievedAt": "2025-07-16 19:07:01.958683",
+      "internal_id": "30ca64a5da5d0e338c95e0b9683da93388f24408076c4745639fd851d59692ca",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "EUA se preparam para um \u2018novo normal\u2019 com dengue",
+      "description": "Pa\u00eds pode enfrentar taxas hist\u00f3ricas da doen\u00e7a com combina\u00e7\u00e3o entre mudan\u00e7as clim\u00e1ticas, falta de uma vacina eficaz e cortes na pesquisa federal",
+      "url": "https://veja.abril.com.br/saude/eua-se-preparam-para-um-novo-normal-com-dengue-endemica/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?resize=1080,565&crop=1",
+      "publishedAt": "2025-07-15 13:00:25",
+      "content": "Cerca de 3.700 novas infec\u00e7\u00f5es por dengue foram relatadas no ano passado nos Estados Unidos cont\u00edguos, acima de cerca de 2.050 em 2023, de acordo com o Centro de Controle e Preven\u00e7\u00e3o de Doen\u00e7as (CDC)\u2026 [+7025 chars]",
+      "retrievedAt": "2025-07-16 19:07:01.927933",
+      "internal_id": "fc1e86504a6d7dec98be93f8006e6a87bee10c06695cf20a414a08e74bff9741",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22991,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Stephanie Pappas",
+      "title": "Could Bird Flu Spread between Humans? Here\u2019s What It Would Take",
+      "description": "The H5N1 avian flu is circulating in cows and other mammals. Whether it will make a permanent leap to humans is another question",
+      "url": "https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/2e025a4c24db69f2/original/farmer-petting-cow.jpg?m=1752526839.736&w=1200",
+      "publishedAt": "2025-07-15 13:00:00",
+      "content": "H5N1 avian influenza has long been a concerning virus. Since its discovery in 1996 in waterfowl, bird flu has occasionally caused isolated human cases that have quite often been fatal. But last year \u2026 [+15489 chars]",
+      "retrievedAt": "2025-07-16 19:07:01.291429",
+      "internal_id": "ea5afdcb798a43abd39d2437f868f9a6c7987058d2c6c7a9a440123097180459",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22992,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Meghan Bartels",
+      "title": "Bird Flu Is out of the News but Still Circulating",
+      "description": "Bird flu was nearly everywhere in the U.S.\u2014in chickens, cows, pet cats and even humans. Cases have gone down, but experts warn that it hasn\u2019t disappeared",
+      "url": "https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/1d8d61d69e8082ee/original/man-releases-duck.jpg?m=1752523756.221&w=1200",
+      "publishedAt": "2025-07-15 13:00:00",
+      "content": "For months, bird flu was seemingly everywhere in the U.S.: news headlines reported the highly pathogenic H5N1 avian influenza virus was rapidly sweeping through hundreds of herds of dairy cattle and \u2026 [+8540 chars]",
+      "retrievedAt": "2025-07-16 19:07:01.300249",
+      "internal_id": "7f36d0a612461640545508fa5fe836c2c92fc2393019f35e67ca7a75d03278c0",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22998,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Carly Cassella",
+      "title": "Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Warns Study",
+      "description": "In spite of having plagued humans for millennia, typhoid fever is rarely considered in developed countries today.",
+      "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-warns-study",
+      "urlToImage": "https://www.sciencealert.com/images/2022-06/processed/Typhoidbacterium_1024.jpg",
+      "publishedAt": "2025-07-15 13:00:00",
+      "content": "In spite of having plagued humans for millennia, typhoid fever is rarely considered in developed countries today. But this ancient threat is still very much a danger in our modern world. According t\u2026 [+4750 chars]",
+      "retrievedAt": "2025-07-16 19:07:04.381336",
+      "internal_id": "5084a3dce781dde6845f30b9c4eff0706f6c16e6f3fea7e6d1478233ddfe316f",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22985,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles, rubella and polio: The return of preventable diseases (Zach Kaplan/The Hill)",
+      "description": "Zach Kaplan / The Hill: Measles, rubella and polio: The return of preventable diseases \u2014 Vaccine rates are falling fast across the US - Measles cases have hit a 30-year high in 2025 - Polio and rubella could return after decades \u2014 With outbreaks of previou\u2026",
+      "url": "https://www.memeorandum.com/250715/p17",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/07/683e1f0008a4d7.38681182-e1752577835853.jpeg?w=1280",
+      "publishedAt": "2025-07-15 11:55:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.533998",
+      "internal_id": "bcc2a9c0f46200eb2b3462c4c9e7b71c494b05ee718cd3e0dbf6de6e12155004",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22995,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Inma Lid\u00f3n",
+      "title": "La gripe obliga a Suiza a suspender el entrenamiento pero Espa\u00f1a no se f\u00eda: \"Te meten un gol y te vas para casa\"",
+      "description": "Espa\u00f1a arranc\u00f3 la Eurocopa con una meningitis v\u00edrica y una amigdalitis privando a Montse Tom\u00e9 de dos jugadoras imprescindibles como Aitana Bonmat\u00ed y Cata Coll. Ahora vive...",
+      "url": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/07/15/687623e9e85ece4d3c8b457e.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/477b66403f3a21f90df5e47fc3d20e1c/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/15/17525795822071.jpg",
+      "publishedAt": "2025-07-15 11:40:41",
+      "content": "Espa\u00f1a arranc\u00f3 la Eurocopa con una meningitis v\u00edrica y una amigdalitis privando a Montse Tom\u00e9 de dos jugadoras imprescindibles como Aitana Bonmat\u00ed y Cata Coll. Ahora vive pendiente de las molestias d\u2026 [+3365 chars]",
+      "retrievedAt": "2025-07-16 19:07:02.556515",
+      "internal_id": "04b902423fc9acd228644ada2d962d6693439a48a1881e6162d1bc023893b436",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22990,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "More children receive measles, typhoid vaccines as drive ends",
+      "description": "A large number of children have turned out for measles and typhoid vaccines as the Ministry of Health concludes its nationwide mass vaccination campaign.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001524317/more-children-receive-measles-typhoid-vaccines-as-drive-ends",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/xyeHa4in39PiRyPCrlR1QU2VqYi4TkHI3rztcUl8.jpg",
+      "publishedAt": "2025-07-15 11:30:43",
+      "content": "A medic from Mater Hospital administers the typhoid vaccine to a child during the wellness clinic in Buruburu, Nairobi, on July 13, 2025. The campaign for mass vaccination for typhoid and measles end\u2026 [+2327 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.735676",
+      "internal_id": "3f052193bf863692742fe289e25dc93dd6302cdee93202ffc1d60709df032ffe",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22989,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Ralph Riegel",
+      "title": "Concern as measles cases almost treble in Ireland over last seven years",
+      "description": "IRELAND has witnessed a near trebling in the number of measles cases over the past seven years - despite the Covid-19 lockdown having resulted in no measles detections in 2021.",
+      "url": "https://www.independent.ie/irish-news/concern-as-measles-cases-almost-treble-in-ireland-over-last-seven-years/a1893395677.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/BdozaLukRkIdENz1x71p8hH4Cbk=/629x460/smart/prod-mh-ireland/2f21f31e-b4ea-43e5-9871-07dfeb4fc783/d89ca770-aafc-4d07-820b-6e09205d7b4d/2f21f31e-b4ea-43e5-9871-07dfeb4fc783.jpg",
+      "publishedAt": "2025-07-15 11:18:07",
+      "content": "IRELAND has witnessed a near trebling in the number of measles cases over the past seven years - despite the Covid-19 lockdown having resulted in no measles detections in 2021. There were 207 notifi\u2026 [+110 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.669627",
+      "internal_id": "4bd625bdc6a5ae6dca52949efa62d7d61e621002230985d667184544b00ed90a",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22984,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 7/15/2025",
+      "description": "Our scampering daily links: animals hear plants? non-partying Americans, measles, improving soil, China power advantage, \"Baltic triangle\"? UK economic tsuris, moar Israeli abject brutality, Trump's Russia bluster, Epstein corrosion of Trump support, Tucker v\u2026",
+      "url": "https://www.nakedcapitalism.com/2025/07/links-7-15-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/07/00-measles.png",
+      "publishedAt": "2025-07-15 10:55:00",
+      "content": "Animals react to secret sounds from plants, say scientists BBC 2.35-billion-year-old Moon rock found in Africa rewrites lunar history ScienceDaily (Kevin W) Lecture 19 \u2013 Weber on Charismatic Author\u2026 [+8907 chars]",
+      "retrievedAt": "2025-07-16 19:07:00.514681",
+      "internal_id": "f9875f0fc2b5b5ee70bd6d8891e2d8f19cf438b2d4a3a52626ccf72658eae44e",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22983,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PT Jyothi Datta",
+      "title": "Modest gains in global childhood vaccination, yet 14 million children received \u201czero-dose\u201d: WHO/ Unicef report",
+      "description": "Nearly 20 million infants missed at least one dose of DTP (diphtheria, tetanus and pertussis)-containing vaccine last year, including 14.3 million \u201czero-dose\u201d children who never received a single dose of any vaccine, according to national immunisation coverag\u2026",
+      "url": "https://www.thehindubusinessline.com/news/national/modest-gains-in-global-childhood-vaccination-yet-14-million-children-received-zero-dose-who-unicef-report/article69814194.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/5mk2r5/article69814266.ece/alternates/LANDSCAPE_1200/IPV-VACCINE-06.JPG",
+      "publishedAt": "2025-07-15 08:59:40",
+      "content": "Nearly 20 million infants missed at least one dose of DTP (diphtheria, tetanus and pertussis)-containing vaccine last year, including 14.3 million zero-dose children who never received a single dose \u2026 [+4336 chars]",
+      "retrievedAt": "2025-07-16 19:06:59.510080",
+      "internal_id": "add3e7c9db21964e6d8ff41c4a175f6fba3a4582dbb9ffb41feba0dd9b26d16c",
+      "publishedAtLabel": "Jul 15"
+    },
     {
       "id": 22973,
       "query": [
@@ -21262,114 +21605,6 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21799,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.vrt.be",
-      "author": "VRT NWS",
-      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
-      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
-      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
-      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
-      "publishedAt": "2025-06-01 18:58:02",
-      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.962760",
-      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21800,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "vea",
-      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
-      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2025-06-01 17:49:28",
-      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.971288",
-      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21798,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Sarika N",
-      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
-      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
-      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
-      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2025-06-01 10:08:43",
-      "content": "",
-      "retrievedAt": "2025-06-02 19:06:01.040343",
-      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21803,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Regional News",
-      "title": "Publiko gipahimangnoan kalabot sa MPOX",
-      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
-      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
-      "publishedAt": "2025-06-01 07:28:44",
-      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.693619",
-      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21801,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
-      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
-      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
-      "publishedAt": "2025-06-01 07:25:31",
-      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.587795",
-      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21802,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 - \u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03ba\u03b9\u03bd\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
-      "description": "\u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 3.300 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 16 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u039d\u03ad\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03a6\u03c1\u03b9\u03c4\u03ac\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae 20.000 \u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd | \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-06-01/mpox.jpg",
-      "publishedAt": "2025-06-01 07:09:29",
-      "content": "mpox , , .\u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , ., 42.872 , . mpox, , , . , 1970, .2022 , . 2024 mp\u2026 [+31 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.663173",
-      "internal_id": "f58eabf0a0a2aca79b9ecb511202393065c365002db8b779f3de288e7425fe28",
       "publishedAtLabel": "Jun 1"
     }
   ]
