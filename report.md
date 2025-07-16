@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-07-15 19:07
-- **Most recent article:** 2025-07-14 18:41:53
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-07-16 07:09
+- **Most recent article:** 2025-07-15 06:41:09
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 89 | 48 | 31 | 53 | 36 | 114 | 20 | 391 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 6 | 146 |
-| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 4 | 123 |
+| measles | 90 | 48 | 31 | 53 | 36 | 114 | 27 | 399 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 8 | 148 |
+| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 4 | 125 |
 | chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 5 | 122 |
+| mpox | 13 | 24 | 11 | 27 | 10 | 6 | 3 | 94 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 1 | 91 |
-| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 2 | 90 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 4 | 56 |
-| zika | 7 | 2 | 14 | 2 | 8 | 12 | 1 | 46 |
+| zika | 7 | 2 | 14 | 2 | 8 | 12 | 3 | 48 |
 | h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 1 | 43 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 5 | 16 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 0 | 12 |
-| pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 0 | 8 |
+| pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 1 | 9 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
 | leptospirosis | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 4 |
 
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-29 (zika)
+
+- [Cercetare: Au fost identificați compuși naturali care ajută celulele să lupte împotriva mai multor virusuri](https://www.mediafax.ro/stiinta-sanatate/cercetare-au-fost-identificati-compusi-naturali-care-ajuta-celulele-sa-lupte-impotriva-mai-multor-virusuri-23581290) (Mediafax.ro)
+
+- [New discovery may bring a 'one-for-all' treatment for incurable diseases like HIV, Zika, herpes, and RSV](https://www.notebookcheck.net/New-discovery-may-bring-a-one-for-all-treatment-for-incurable-diseases-like-HIV-Zika-herpes-and-RSV.1058035.0.html) (Notebookcheck.net)
 
 - [African strains of Zika virus resist ISG-mediated restriction](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013326) (Plos.org)
 
@@ -59,7 +63,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parents](https://www.kenyans.co.ke/news/114116-ensure-children-get-typhoid-measles-rubella-jabs-48-hours-health-ministry-warns-parents) (Kenyans.co.ke)
 
+## 25-29 (pertussis)
+
+- [Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated – WHO, UNICEF](https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef) (World Health Organization)
+
 ## 25-29 (mpox)
+
+- [Neue Variante, neue Gefahr: Mpox breitet sich in Afrika rasant aus](https://www.tagesspiegel.de/wissen/neue-variante-neue-gefahr-mpox-breitet-sich-in-afrika-rasant-aus-14011013.html) (Der Tagesspiegel)
 
 - [La OMS registra más de 26.000 casos de mpox en la primera mitad del año, la mayoría en África](https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-26000-casos-mpox-primera-mitad-ano-mayoria-africa-20250714120241.html) (Infosalus.com)
 
@@ -70,6 +80,20 @@ Source: [News API](https://newsapi.org/)
 - [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
 
 ## 25-29 (measles)
+
+- [Measles case confirmed for major iron ore miner](https://www.abc.net.au/news/2025-07-15/bhp-fly-in-fly-out-pilbara-measles-case-confirmation/105534576) (ABC News (AU))
+
+- [Alberta surpasses the United States in measles cases as outbreak worsens; Know the disease, symptoms, and how to stay safe](https://economictimes.indiatimes.com/news/international/canada/alberta-surpasses-the-united-states-in-measles-cases-as-outbreak-worsens-know-the-disease-symptoms-and-how-to-stay-safe/articleshow/122481383.cms) (The Times of India)
+
+- [Union Health implements measles screenings for patients](https://www.wthitv.com/news/union-health-implements-measles-screenings-for-patients/article_5aa469b0-4e4f-4a16-a5c1-88efc0d58f62.html) (WTHITV.com)
+
+- [Iowa Health Officials Confirm Measles Case, Release Locations for Potential Exposures](https://hhs.iowa.gov/news-release/2025-07-14/iowa-health-officials-confirm-measles-case-release-locations-potential-exposures) (Iowa.gov)
+
+- [Health officials confirm measles in eastern Iowa, list exposure locations](https://www.kwwl.com/news/top-stories/health-officials-confirm-measles-in-eastern-iowa-list-exposure-locations/article_2ffae5a2-8117-4336-90f8-92738a18cad1.html) (kwwl.com)
+
+- ['It's a really nasty virus': Liverpool health official urges public to be aware of measles symptoms after child dies](https://news.sky.com/story/measles-liverpool-health-official-urges-public-to-be-aware-of-symptoms-after-child-dies-13396771) (Sky.com)
+
+- [Measles cases reach 33-year high nationwide as NYC urges vaccination](https://gothamist.com/news/measles-cases-reach-33-year-high-nationwide-as-nyc-urges-vaccination) (Gothamist)
 
 - [Alberta surpasses all of the United States in confirmed measles cases | Globalnews.ca](http://globalnews.ca/news/11287924/alberta-measles-july-14-2025/) (Global News)
 
@@ -126,6 +150,10 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
+
+- [Una española coge el dengue en su viaje por Filipinas y explica el infierno que ha vivido: «Perdí muchos kilos»](https://www.abc.es/recreo/espanola-coge-dengue-viaje-filipinas-explica-infierno-20250715191310-nt.html) (Www.abc.es)
+
+- [Cómo distinguir un mosquito peligroso de otro inofensivo](https://www.expansion.com/directivos/estilo-vida/salud/2025/07/15/686f8e85468aebf25e8b4592.html) (Expansion.com)
 
 - [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
 
@@ -2299,6 +2327,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
+- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
+
+- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
+
+- [Σιέρα Λεόνε - Θερίζει η ευλογιά των πιθήκων: συναγερμός για την εξάπλωση και διεθνής κινητοποίηση](https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/) (Protothema.gr)
+
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2485,6 +2519,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
+- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
+
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2514,6 +2550,10 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
+
+- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
+
+- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 

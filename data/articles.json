@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-07-15 19:07",
-  "count_articles_total": 1165,
-  "count_articles_new": 25,
+  "last_updated": "2025-07-16 07:09",
+  "count_articles_total": 1184,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 22973,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Charlie Mills",
+      "title": "Measles case confirmed for major iron ore miner",
+      "description": "Western Australia's iron ore industry is on alert after the confirmation of a measles case on a BHP mine site in the Pilbara.",
+      "url": "https://www.abc.net.au/news/2025-07-15/bhp-fly-in-fly-out-pilbara-measles-case-confirmation/105534576",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/92d0c728b49f2fba1fdab4730475dc4d?impolicy=wcms_watermark_news&cropH=2916&cropW=5184&xPos=0&yPos=270&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-15 06:41:09",
+      "content": "Several staff members at a mine site in WA's north are isolating, after two people with measles visited the Pilbara region in early July. Mining giant BHP confirmed to the ABC that one of the cases\u2026 [+3264 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.116697",
+      "internal_id": "f57a3c4309bb41ab059041cecfe94f5863073f36a6ea44f7ecce15aea152c42c",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22969,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated \u2013 WHO, UNICEF",
+      "description": "In 2024, 89% of infants globally \u2013 about 115 million \u2013 received at least one dose of the diphtheria, tetanus and pertussis (DTP)-containing vaccine, and 85% \u2013 roughly 109 million \u2013 completed all three doses, according to new national immunization coverage \u2026",
+      "url": "https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/cholera/cholera-vaccination-cards-yemen.tmb-1200v.jpg?sfvrsn=ba90e797_1",
+      "publishedAt": "2025-07-15 06:05:41",
+      "content": "In 2024, 89% of infants globally \u2013 about 115 million \u2013 received at least one dose of the diphtheria, tetanus and pertussis (DTP)-containing vaccine, and 85% \u2013 roughly 109 million \u2013 completed all thre\u2026 [+8538 chars]",
+      "retrievedAt": "2025-07-16 07:09:18.436919",
+      "internal_id": "05cc1aaeffc5d7d80a6f8c50d23c8b460102f3cc05fe2641372e293d7ff0191a",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22981,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Hermann Feldmeier",
+      "title": "Neue Variante, neue Gefahr: Mpox breitet sich in Afrika rasant aus",
+      "description": "Es schien still geworden zu sein um die Krankheit Mpox. Doch die Infektionszahlen steigen in einigen Regionen in Afrika deutlich an. Und auch in Deutschland werden wieder mehr F\u00e4lle festgestellt.",
+      "url": "https://www.tagesspiegel.de/wissen/neue-variante-neue-gefahr-mpox-breitet-sich-in-afrika-rasant-aus-14011013.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14019224/alternates/BASE_16_9_W1400/1752558298000/nsimire-nakaziba-pricks-the-rashes-on-her-sister-sifa-mwakasisi-to-relieve-pain-inside-a-tent-where-she-is-undergoing-treatment-against-mpox-at-the-kavumu-hospital-in-kabare-territory.jpeg",
+      "publishedAt": "2025-07-15 06:01:29",
+      "content": "Es schien still geworden zu sein um die Krankheit Mpox. Doch die Infektionszahlen steigen in einigen Regionen in Afrika deutlich an. Und auch in Deutschland werden wieder mehr F\u00e4lle festgestellt.",
+      "retrievedAt": "2025-07-16 07:09:21.081268",
+      "internal_id": "17a1dc86741a00c592a2dcd89c1c4ae0aa0dd03bae2f4848e3f89a8ecfc626c3",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22978,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Una espa\u00f1ola coge el dengue en su viaje por Filipinas y explica el infierno que ha vivido: \u00abPerd\u00ed muchos kilos\u00bb",
+      "description": "Filipinas experiment\u00f3 un \u00abaumento inusual\u00bb de casos de dengue en el inicio de 2025, con 28.200 pacientes registrados solo en el primer mes del a\u00f1o, seg\u00fan el portavoz del Departamento de Salud, Dr. Albert Domingo. Esto supon\u00eda un aumento del 40 por ciento resp\u2026",
+      "url": "https://www.abc.es/recreo/espanola-coge-dengue-viaje-filipinas-explica-infierno-20250715191310-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/recreo/2025/07/15/dengue-filipinas-kSEE--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-07-15 05:45:00",
+      "content": "Filipinas experiment\u00f3 un \u00abaumento inusual\u00bb de casos de dengue en el inicio de 2025, con 28.200 pacientes registrados solo en el primer mes del a\u00f1o, seg\u00fan el portavoz del Departamento de Salud, Dr. Al\u2026 [+2796 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.852539",
+      "internal_id": "2b492036e4d8b5b798fcc2a16513ad555e822aae3dc551d067ba8207ce88c6e2",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22972,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Alberta surpasses the United States in measles cases as outbreak worsens; Know the disease, symptoms, and how to stay safe",
+      "description": "Alberta has surpassed the United States in confirmed measles cases this year, reporting 1,314 infections since early March. This surge has positioned Alberta as the epicenter of North America's measles resurgence, raising concerns among public health experts.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/alberta-surpasses-the-united-states-in-measles-cases-as-outbreak-worsens-know-the-disease-symptoms-and-how-to-stay-safe/articleshow/122481383.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122481504,width-1200,height-630,imgsize-2469380,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-15 03:47:06",
+      "content": "Alberta has overtaken the United States in confirmed measles cases this year, with 1,314 infections reported since early March, surpassing the US total of 1,288 across 39 states. The sudden rise has \u2026 [+3659 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.078651",
+      "internal_id": "bf2f8ef7c42847689de84e3bb3f8c3a8ca142b063a22faca1ad0a2a7b9db6278",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22979,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petre Apostol",
+      "title": "Cercetare: Au fost identifica\u021bi compu\u0219i naturali care ajut\u0103 celulele s\u0103 lupte \u00eempotriva mai multor virusuri",
+      "description": "Mediafax O echip\u0103 de cercet\u0103tori de la MIT a identificat compu\u0219i care activeaz\u0103 un mecanism natural al celulelor, ajut\u00e2nd la combaterea virusurilor precum Zika, herpes \u0219i virusul sinci\u021bial respirator (RSV). Ace\u0219tia ar putea fi folosi\u021bi pentru dezvoltarea unor\u2026",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/cercetare-au-fost-identificati-compusi-naturali-care-ajuta-celulele-sa-lupte-impotriva-mai-multor-virusuri-23581290",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/06/7598233-mediafax_foto-ap-1024x656.jpg",
+      "publishedAt": "2025-07-15 03:32:05",
+      "content": "Compuii descoperii intensific activarea acestei ci celulare, care determin oprirea sintezei proteinelor \u00een celul, bloc\u00e2nd astfel capacitatea virusurilor de a se multiplica. Descoperirea a fost fcut \u00ee\u2026 [+888 chars]",
+      "retrievedAt": "2025-07-16 07:09:20.761528",
+      "internal_id": "57184cdb3397ed87f7e04fd6d7977e96160fbee4c50082d3ae8ce8dd8ca9902c",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22974,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTHITV.com",
+      "author": "",
+      "title": "Union Health implements measles screenings for patients",
+      "description": "Union Health will start screening its patients for measles after cases are reported in Indiana and neighboring states.",
+      "url": "https://www.wthitv.com/news/union-health-implements-measles-screenings-for-patients/article_5aa469b0-4e4f-4a16-a5c1-88efc0d58f62.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wthitv.com/content/tncms/assets/v3/editorial/8/87/887fa82b-57b1-5f7e-9843-cb78b3ea60a2/619568343523c.image.jpg?crop=1078%2C566%2C0%2C16",
+      "publishedAt": "2025-07-15 02:12:16",
+      "content": "TERRE HAUTE, Ind. (WTHI) - Union Health announced it will start screening its patients for measles as cases are reported in Indiana and neighboring states. Measles is a highly contagious viral illne\u2026 [+1544 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.170417",
+      "internal_id": "842135fea286d58d9df1ba8c066709c26f1ca1ce40140abb846a488bd1aaf983",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 22975,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Iowa.gov",
+      "author": null,
+      "title": "Iowa Health Officials Confirm Measles Case, Release Locations for Potential Exposures",
+      "description": "Iowa Health Officials Confirm Measles Case, Release Locations for Potential Exposuresiowa.gov",
+      "url": "https://hhs.iowa.gov/news-release/2025-07-14/iowa-health-officials-confirm-measles-case-release-locations-potential-exposures",
+      "urlToImage": "https://hhs.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "publishedAt": "2025-07-14 23:06:59",
+      "content": "The Iowa Department of Health and Human Services (HHS) has confirmed a case of measles in an adult resident of Eastern Iowa and is notifying the public of potential exposure locations. The individua\u2026 [+3740 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.181456",
+      "internal_id": "37cf18162f62c8c4c91b42e10ba41c425905305c7b00084547fb58cfa6f57fe5",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 22980,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Notebookcheck.net",
+      "author": "Chibuike Okpara",
+      "title": "New discovery may bring a 'one-for-all' treatment for incurable diseases like HIV, Zika, herpes, and RSV",
+      "description": "In a major breakthrough, researchers have identified a new class of broad-spectrum antiviral compounds that work by amplifying a cell's own natural defenses, showing effectiveness against viruses like Zika, herpes, and RSV.",
+      "url": "https://www.notebookcheck.net/New-discovery-may-bring-a-one-for-all-treatment-for-incurable-diseases-like-HIV-Zika-herpes-and-RSV.1058035.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/illustrative-image-of-the-screening-process.png",
+      "publishedAt": "2025-07-14 22:35:00",
+      "content": "A team of researchers just discovered compounds that could lead to a new generation of antiviral drugs capable of fighting many viruses at once. Instead of targeting a specific virus, the new molecul\u2026 [+1531 chars]",
+      "retrievedAt": "2025-07-16 07:09:20.771115",
+      "internal_id": "c6c7603fed0b48d8fae96faefdbdfdde0a575583b4f1dc1285723c52152ed649",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 22976,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "kwwl.com",
+      "author": "",
+      "title": "Health officials confirm measles in eastern Iowa, list exposure locations",
+      "description": "DES MOINES, Iowa \u2014 The Iowa Department of Health and Human Services has confirmed a measles case in an adult from Eastern Iowa, urging the public to be aware of",
+      "url": "https://www.kwwl.com/news/top-stories/health-officials-confirm-measles-in-eastern-iowa-list-exposure-locations/article_2ffae5a2-8117-4336-90f8-92738a18cad1.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/1/42/142243ff-cf38-4113-bf5c-c11520904b6b/6875876630fd6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-14 22:20:00",
+      "content": "DES MOINES, Iowa The Iowa Department of Health and Human Services has confirmed a measles case in an adult from Eastern Iowa, urging the public to be aware of potential exposure locations. The indivi\u2026 [+2231 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.227753",
+      "internal_id": "0a0a12dab9bd5e7f9fc7a414a47bab5b69c95c639d3f0c71629bb8081e3a4c7e",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 22977,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expansion.com",
+      "author": "Marga Castillo",
+      "title": "C\u00f3mo distinguir un mosquito peligroso de otro inofensivo",
+      "description": "En verano llegan las vacaciones, las piscinas, las playas y tambi\u00e9n los mosquitos. \u00bfC\u00f3mo distinguir las especies invasoras capaces de provocar enfermedades como dengue, la fiebre amarilla o el virus del Nilo? \u00bfPodemos evitar las molestas picaduras? Leer",
+      "url": "https://www.expansion.com/directivos/estilo-vida/salud/2025/07/15/686f8e85468aebf25e8b4592.html",
+      "urlToImage": "https://phantom-expansion.uecdn.es/b11f71fe1c353b79d3362f58749fdbfa/crop/36x14/1047x688/f/webp/assets/multimedia/imagenes/2025/07/11/17522288214318.jpg",
+      "publishedAt": "2025-07-14 22:00:00",
+      "content": "En verano llegan las vacaciones, las piscinas, las playas y tambi\u00e9n los mosquitos. \u00bfC\u00f3mo distinguir las especies invasoras capaces de provocar enfermedades como dengue, la fiebre amarilla o el virus \u2026 [+5681 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.827782",
+      "internal_id": "60c7aa9b753440f10c3626a064e5e3e88c690fef57c591d01fe730aaac6d247d",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 22971,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "'It's a really nasty virus': Liverpool health official urges public to be aware of measles symptoms after child dies",
+      "description": "A Liverpool City Council official has urged the public to be aware of the symptoms of measles after a child died from the disease.",
+      "url": "https://news.sky.com/story/measles-liverpool-health-official-urges-public-to-be-aware-of-symptoms-after-child-dies-13396771",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-sherry-andrews-mmr_6908224.jpg?20250506161629",
+      "publishedAt": "2025-07-14 21:06:00",
+      "content": "A Liverpool City Council official has urged the public to be aware of the symptoms of measles after a child died from the disease. Speaking on The UK Tonight with Sarah-Jane Mee, director of public \u2026 [+3475 chars]",
+      "retrievedAt": "2025-07-16 07:09:19.048080",
+      "internal_id": "51a21ae9613d5e255a66c6cd7c7aada1bff36bef3581ab5a77f8bc9cf28ec937",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 22970,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gothamist",
+      "author": "Caroline Lewis",
+      "title": "Measles cases reach 33-year high nationwide as NYC urges vaccination",
+      "description": "A child being given the MMR (mumps, measles, rubella) vaccination. There have been seven cases in New York City so far this year. [ more \u203a ]",
+      "url": "https://gothamist.com/news/measles-cases-reach-33-year-high-nationwide-as-nyc-urges-vaccination",
+      "urlToImage": "https://api-prod.gothamist.com/images/352362/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2025-07-14 20:40:00",
+      "content": "New York City hasnt had any measles outbreaks yet this year, even as cases nationwide hit a 33-year high. But individual cases continue to be reported and officials continue to urge vaccination and c\u2026 [+3591 chars]",
+      "retrievedAt": "2025-07-16 07:09:18.993591",
+      "internal_id": "2da058e24a30f11f18a5c1b1d20a9ca720f1f858c884e1bb06eadc3b05e4bfb0",
+      "publishedAtLabel": "Jul 14"
+    },
     {
       "id": 22962,
       "query": [
@@ -21028,6 +21262,114 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": "VRT NWS",
+      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
+      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
+      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
+      "publishedAt": "2025-06-01 18:58:02",
+      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.962760",
+      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "vea",
+      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
+      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-06-01 17:49:28",
+      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.971288",
+      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Sarika N",
+      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
+      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
+      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
+      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2025-06-01 10:08:43",
+      "content": "",
+      "retrievedAt": "2025-06-02 19:06:01.040343",
+      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Publiko gipahimangnoan kalabot sa MPOX",
+      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
+      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
+      "publishedAt": "2025-06-01 07:28:44",
+      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.693619",
+      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
+      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
+      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
+      "publishedAt": "2025-06-01 07:25:31",
+      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.587795",
+      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21802,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 - \u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03ba\u03b9\u03bd\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
+      "description": "\u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 3.300 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 16 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u039d\u03ad\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03a6\u03c1\u03b9\u03c4\u03ac\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae 20.000 \u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd | \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-06-01/mpox.jpg",
+      "publishedAt": "2025-06-01 07:09:29",
+      "content": "mpox , , .\u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , ., 42.872 , . mpox, , , . , 1970, .2022 , . 2024 mp\u2026 [+31 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.663173",
+      "internal_id": "f58eabf0a0a2aca79b9ecb511202393065c365002db8b779f3de288e7425fe28",
       "publishedAtLabel": "Jun 1"
     }
   ]
