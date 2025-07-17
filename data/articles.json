@@ -1,8 +1,154 @@
 {
-  "last_updated": "2025-07-16 19:07",
-  "count_articles_total": 1197,
-  "count_articles_new": 19,
+  "last_updated": "2025-07-17 07:09",
+  "count_articles_total": 1211,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 23008,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "\u201eWir m\u00fcssen schon bald mit lokalen Ausbr\u00fcchen in Deutschland rechnen\u201c",
+      "description": "Im Elsass \u00fcbertr\u00e4gt eine Tigerm\u00fccke Chikungunya. Auch in Deutschland beobachten Forscher die Ausbreitung invasiver Arten, wodurch auch die Gefahr f\u00fcr die Infektion mit tropischen Krankheiten steigt. Teilweise reisen die M\u00fccken \u00fcber die Autobahn ein.",
+      "url": "https://www.welt.de/gesundheit/article256406984/Tigermuecken-Tropenkrankheiten-Wir-muessen-mit-lokalen-Ausbruechen-in-Deutschland-rechnen.html",
+      "urlToImage": "https://images.welt.de/687679975198ab3afa873a39/a2bc7e2afd7d234abbefe6989854f8f2-master/ci16x9-w1200/gestreifte-gefahr-tigermuecke-im-anflug",
+      "publishedAt": "2025-07-16 05:11:38",
+      "content": "Im Elsass \u00fcbertr\u00e4gt eine Tigerm\u00fccke Chikungunya. Auch in Deutschland beobachten Forscher die Ausbreitung invasiver Arten, wodurch auch die Gefahr f\u00fcr die Infektion mit tropischen Krankheiten steigt. \u2026 [+3101 chars]",
+      "retrievedAt": "2025-07-17 07:09:42.935368",
+      "internal_id": "c94adb184ac82c07ce3aba7e01d4010ed3cd64b6b77c945582f37b230c0fd301",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23004,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Multidisciplinary Tracking of Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Griffon Vultures, Southern Europe, 2022",
+      "description": "Tracking HPAI A(H5N1) Outbreak in Vultures, Europe",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/24-1456_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-16 04:00:00",
+      "content": "Since 2021, highly pathogenic avian influenza (HPAI) A(H5N1) clade 2.3.4.4b virus has emerged as a devastating pathogen in terms of bird species diversity, abundance, geographic extent, and economic \u2026 [+24989 chars]",
+      "retrievedAt": "2025-07-17 07:09:39.206753",
+      "internal_id": "bceb188018fe19cf0c8270fd03bd182f5190094e658ed9e82041f00eef342ae4",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23005,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Isolation of Highly Pathogenic Avian Influenza A(H5N1) Virus from Cat Urine after Raw Milk Ingestion, United States",
+      "description": "Influenza A(H5N1) Virus from Cat Urine",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/25-0309_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-16 04:00:00",
+      "content": "Highly pathogenic avian influenza (HPAI) H5N1 virus infects felids, causing neurologic signs and death (16). In March 2024, H5N1 clade 2.3.4.4b genotype B3.13 was first detected in milk from dairy ca\u2026 [+8234 chars]",
+      "retrievedAt": "2025-07-17 07:09:39.216188",
+      "internal_id": "2295550cd2fef15581bb76692b4c21150218170a428a1ea708273b8e98c646f8",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23006,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Jhonatan Gonz\u00e1lez",
+      "title": "Reportan dos muertes por dengue en Chiapas; entidad es sexto lugar de casos en M\u00e9xico",
+      "description": "De acuerdo con el \u00faltimo reporte del Sistema Especial de Vigilancia Epidemiol\u00f3gica de la Secretar\u00eda de Salud federal, Chiapas ocupa el sexto lugar a nivel nacional por casos confirmados acumulados de dengue, as\u00ed como dos muertes a causa de esta enfermedad.Rev\u2026",
+      "url": "https://www.milenio.com/estados/reportan-muertes-dengue-chiapas-entidad-sexto-casos",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/03/estos-son-los-sintomas-que.jpeg",
+      "publishedAt": "2025-07-16 02:17:27",
+      "content": "Chiapas ocupa el sexto lugar a nivel nacional por casos confirmados acumulados de dengue, as\u00ed como dos muertes a causa de esta enfermedad, de acuerdo con el \u00faltimo reporte del Sistema Especial de Vig\u2026 [+1914 chars]",
+      "retrievedAt": "2025-07-17 07:09:40.565595",
+      "internal_id": "b5c8a66140952a09e03fcdadd7b697926030698c46ffb7ebb604b984e036a5ec",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23009,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tistory.com",
+      "author": "\u60f3\u50cf",
+      "title": "\uc778\ub3c4\ub124\uc2dc\uc544 \ubc1c\ub9ac \uac80\uc5ed \uac74\uac15 \ud328\uc2a4 (Satusehat Health Pass) \uc791\uc131 \ubc29\ubc95",
+      "description": "\uc778\ub3c4\ub124\uc2dc\uc544 \uc815\ubd80\ub294 2024\ub144 8\uc6d4 29\uc77c \ubd80\ud130 \ubc1c\ub9ac\uc12c \ud3ec\ud568\ud574 \uc778\ub3c4\ub124\uc2dc\uc544\ub97c \uc785\uad6d\ud558\ub294 \ubaa8\ub4e0 \ud574\uc678 \uc5ec\ud589\uc790\uc5d0\uac8c \uc6d0\uc22d\uc774 \ub450\ucc3d(Mpox) \ud655\uc0b0 \uad00\ub828 \uac74\uac15 \uc2e0\uace0 \uc758\ubb34\ud654\ub97c \uc2dc\ud589\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ud574\uc678\uc5d0\uc11c \ucd9c\ubc1c\ud558\ub294 \ubaa8\ub4e0 \uc2b9\uac1d \ubc0f \ud56d\uacf5\uae30 \uc9c1\uc6d0\uc740 \uc778\ub3c4\ub124\uc2dc\uc544 \uc785\uad6d\uc744 \uc704\ud55c 'SATUSEHAT Health Pass(SSHP)'\ub97c \uc791\uc131\ud574\uc57c \ud569\ub2c8\ub2e4. \uc774\ub294 \ub2f9\uc0ac\uc790\uc758 \uac74\uac15 \uc0c1\ud0dc\uc640 \uc5ec\ud589 \uc774\ub825\uc744 \uc2e0\uace0\ud568\uc73c\ub85c\uc368 \uc778\ub3c4\ub124\uc2dc\uc544(\ubc1c\ub9ac)\uc5d0\uc11c \ubcf4\ub2e4 \uc548\uc804\ud55c \uc5ec\ud589\uc5d0 \uae30\uc5ec\ud55c\ub2e4\ub294 \ucde8\uc9c0\ub85c \uc2dc\ud589\ud55c\ub2e4\uace0 \ud569\ub2c8\ub2e4. \uc778\ub3c4\ub124\uc2dc\uc544 \uac74\u2026",
+      "url": "https://jsksoft.tistory.com/561836",
+      "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FUTvE7%2FbtsPjI3U9SB%2FAAAAAAAAAAAAAAAAAAAAAGPlXR0a6jVeW_gEW0-gikZQuVv9itIYZPEpkgb_VHvi%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3DoMUPCOtdVnwoKsDlKPL45raaDLg%253D",
+      "publishedAt": "2025-07-16 01:09:30",
+      "content": "2024 8 29 (Mpox) . 'SATUSEHAT Health Pass(SSHP)' . () . (Satusehat Health Pass) . QR (Satusehat Health Pass) 1. ( https://sshp.kemkes.go.id/ ) ( PC )\u2026 [+237 chars]",
+      "retrievedAt": "2025-07-17 07:09:43.151225",
+      "internal_id": "210eb4d6410f20fe8cbab094c72e3a9b5f7772de5ba3926675ba9df1a5c941a6",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23002,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WAVE 3",
+      "author": "Fernando Garcia-franceschini",
+      "title": "Louisville Metro reports its first measles case in more than a decade",
+      "description": "Health officials believe a decline in vaccination rates may be behind the rise in measles cases in Kentucky.",
+      "url": "https://www.wave3.com/2025/07/15/louisville-metro-reports-its-first-measles-case-more-than-decade/",
+      "urlToImage": "https://gray-wave-prod.gtv-cdn.com/resizer/v2/A7TZDOEOXFCXFJDMSFJ3VH5FZ4.png?auth=9c15add11344730c5fddbe4d010e711e218caae77ddaba96e2dcdc49223684fa&width=1200&height=600&smart=true",
+      "publishedAt": "2025-07-15 23:02:33",
+      "content": "LOUISVILLE, Ky. (WAVE) - Louisville Metro leaders have announced the first confirmed case of measles in Jefferson County. It now makes 13 cases across the state of Kentucky. In a press conference on\u2026 [+2618 chars]",
+      "retrievedAt": "2025-07-17 07:09:38.849803",
+      "internal_id": "f1bb634b073427f1a8f102f8b87385bc588fed3bac55d5d90ef60ce762d809b7",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 23001,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Post",
+      "author": "Rahim Mohamed",
+      "title": "Measles outbreak can be traced to Trudeau politicizing COVID vaccines, Tory MP claims",
+      "description": "Michelle Rempel Garner said the downplaying of 'rare but serious' side effects spurred broader vaccine hesitancy, including for measles",
+      "url": "https://nationalpost.com/news/canada/measles-outbreak-can-be-traced-to-trudeau-politicizing-covid-vaccines-tory-mp-claims",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/07/0715-mrg-measles.jpg",
+      "publishedAt": "2025-07-15 20:13:01",
+      "content": "OTTAWA An Alberta Conservative MP said she thinks the measles outbreak in her province can be traced back to the COVID pandemic and loss of trust in vaccines due to the federal governments lack of tr\u2026 [+4081 chars]",
+      "retrievedAt": "2025-07-17 07:09:38.804737",
+      "internal_id": "c41f6b0b17e2e48f504c109f0f3a638118507836f89549ad29bc290dbb7e51c7",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 23007,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Santo Ant\u00f4nio do Jardim confirma primeira morte por dengue em 2025",
+      "description": "Mosquito do Aedes aegypti, transmissor da dengue Carlos Bassan/Prefeitura de Campinas A prefeitura de Santo Ant\u00f4nio do Jardim (SP) confirmou, nesta ter\u00e7a-feira (15), a primeira morte causada por dengue no munic\u00edpio. O \u00f3bito aconteceu em maio, mas n\u00e3o foram di\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/15/santo-antonio-do-jardim-confirma-primeira-morte-por-dengue-em-2025.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/HO_qk4PetMcc73kmUU4GNHnTGxs=/1844x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/B/3RRapaQsuZLAGLkdBPHg/211124-dengue-aedes-aegypti-larvas-e-mosquiro-foto-carlos-bassan-64-.jpg",
+      "publishedAt": "2025-07-15 19:32:57",
+      "content": "Ao todo, a regi\u00e3o de Campinas(SP) possui 162 mortes causadas pela doen\u00e7a este ano. O munic\u00edpio com maior n\u00famero de mortes, at\u00e9 o momento, \u00e9 Americana (SP), onde foram registrados 29 \u00f3bitos em 2025. C\u2026 [+2609 chars]",
+      "retrievedAt": "2025-07-17 07:09:40.588323",
+      "internal_id": "b3937a72c7f423f9f7dc034007ae00fe434cffe7cf555bc8824f0903162903f9",
+      "publishedAtLabel": "Jul 15"
+    },
     {
       "id": 22997,
       "query": [
@@ -344,6 +490,24 @@
       "content": "Nearly 20 million infants missed at least one dose of DTP (diphtheria, tetanus and pertussis)-containing vaccine last year, including 14.3 million zero-dose children who never received a single dose \u2026 [+4336 chars]",
       "retrievedAt": "2025-07-16 19:06:59.510080",
       "internal_id": "add3e7c9db21964e6d8ff41c4a175f6fba3a4582dbb9ffb41feba0dd9b26d16c",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 23003,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The West Australian",
+      "author": "The West Australian",
+      "title": "Workers isolating after measles case confirmed at BHP Newman minesite",
+      "description": "A Qantas crew member and a miner in WA\u2019s north are among the latest measles cases, with some staff at the Pilbara mine site isolating following the exposure.",
+      "url": "https://thewest.com.au/news/health/workers-isolating-after-measles-case-confirmed-at-bhp-newman-minesite-c-19365452",
+      "urlToImage": "https://images.thewest.com.au/publication/C-19365452/c5a7a1a53bf6f1bda99178ca7c084a33f73f4f93-16x9-x482y312w3136h1764.jpg?imwidth=1200",
+      "publishedAt": "2025-07-15 08:44:45",
+      "content": "A Qantas crew member and a miner in WAs north are among the latest measles cases, with some staff at the Pilbara mine site isolating following the exposure. Mining company BHP confirmed a staff memb\u2026 [+3816 chars]",
+      "retrievedAt": "2025-07-17 07:09:38.900423",
+      "internal_id": "1879595f8a3bbef39ebaa3b4e63211a144c1dfaa3195bf998e774779c793a8eb",
       "publishedAtLabel": "Jul 15"
     },
     {
@@ -21605,6 +21769,96 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": "VRT NWS",
+      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
+      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
+      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
+      "publishedAt": "2025-06-01 18:58:02",
+      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.962760",
+      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "vea",
+      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
+      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-06-01 17:49:28",
+      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.971288",
+      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Sarika N",
+      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
+      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
+      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
+      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2025-06-01 10:08:43",
+      "content": "",
+      "retrievedAt": "2025-06-02 19:06:01.040343",
+      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Publiko gipahimangnoan kalabot sa MPOX",
+      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
+      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
+      "publishedAt": "2025-06-01 07:28:44",
+      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.693619",
+      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
+      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
+      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
+      "publishedAt": "2025-06-01 07:25:31",
+      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.587795",
+      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
       "publishedAtLabel": "Jun 1"
     }
   ]

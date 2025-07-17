@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-07-16 19:07
-- **Most recent article:** 2025-07-15 16:42:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-07-17 07:09
+- **Most recent article:** 2025-07-16 05:11:38
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 89 | 48 | 31 | 53 | 36 | 114 | 34 | 405 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 10 | 150 |
-| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 5 | 124 |
-| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 5 | 122 |
+| measles | 90 | 48 | 31 | 53 | 36 | 114 | 37 | 409 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 12 | 152 |
+| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 5 | 126 |
+| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 6 | 123 |
+| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 4 | 94 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 3 | 93 |
-| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 3 | 91 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 5 | 57 |
 | zika | 7 | 2 | 14 | 2 | 8 | 12 | 3 | 48 |
-| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 3 | 45 |
+| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 5 | 47 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 8 | 19 |
-| hpai | 3 | 1 | 1 | 0 | 4 | 3 | 0 | 12 |
+| hpai | 3 | 1 | 1 | 0 | 4 | 3 | 2 | 14 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 3 | 11 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
 | leptospirosis | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 4 |
@@ -81,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (mpox)
 
+- [인도네시아 발리 검역 건강 패스 (Satusehat Health Pass) 작성 방법](https://jsksoft.tistory.com/561836) (Tistory.com)
+
 - [Neue Variante, neue Gefahr: Mpox breitet sich in Afrika rasant aus](https://www.tagesspiegel.de/wissen/neue-variante-neue-gefahr-mpox-breitet-sich-in-afrika-rasant-aus-14011013.html) (Der Tagesspiegel)
 
 - [La OMS registra más de 26.000 casos de mpox en la primera mitad del año, la mayoría en África](https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-26000-casos-mpox-primera-mitad-ano-mayoria-africa-20250714120241.html) (Infosalus.com)
@@ -97,6 +99,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (measles)
 
+- [Louisville Metro reports its first measles case in more than a decade](https://www.wave3.com/2025/07/15/louisville-metro-reports-its-first-measles-case-more-than-decade/) (WAVE 3)
+
+- [Measles outbreak can be traced to Trudeau politicizing COVID vaccines, Tory MP claims](https://nationalpost.com/news/canada/measles-outbreak-can-be-traced-to-trudeau-politicizing-covid-vaccines-tory-mp-claims) (National Post)
+
 - [Guidance: Measles, mumps, rubella (MMR): use of combined vaccine instead of single vaccines](https://www.gov.uk/government/publications/mmr-vaccine-dispelling-myths) (Www.gov.uk)
 
 - [MMR catchup programme: diagnosis, case management, and advice](https://www.gov.uk/guidance/mmr-catchup-programme-diagnosis-case-management-and-advice) (Www.gov.uk)
@@ -110,6 +116,8 @@ Source: [News API](https://newsapi.org/)
 - [Concern as measles cases almost treble in Ireland over last seven years](https://www.independent.ie/irish-news/concern-as-measles-cases-almost-treble-in-ireland-over-last-seven-years/a1893395677.html) (Independent.ie)
 
 - [Links 7/15/2025](https://www.nakedcapitalism.com/2025/07/links-7-15-2025.html) (Nakedcapitalism.com)
+
+- [Workers isolating after measles case confirmed at BHP Newman minesite](https://thewest.com.au/news/health/workers-isolating-after-measles-case-confirmed-at-bhp-newman-minesite-c-19365452) (The West Australian)
 
 - [Measles case confirmed for major iron ore miner](https://www.abc.net.au/news/2025-07-15/bhp-fly-in-fly-out-pilbara-measles-case-confirmation/105534576) (ABC News (AU))
 
@@ -177,7 +185,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
+## 25-29 (hpai)
+
+- [Multidisciplinary Tracking of Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Griffon Vultures, Southern Europe, 2022](https://wwwnc.cdc.gov/eid/article/31/8/24-1456_article) (Cdc.gov)
+
+- [Isolation of Highly Pathogenic Avian Influenza A(H5N1) Virus from Cat Urine after Raw Milk Ingestion, United States](https://wwwnc.cdc.gov/eid/article/31/8/25-0309_article) (Cdc.gov)
+
 ## 25-29 (h5n1)
+
+- [Multidisciplinary Tracking of Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Griffon Vultures, Southern Europe, 2022](https://wwwnc.cdc.gov/eid/article/31/8/24-1456_article) (Cdc.gov)
+
+- [Isolation of Highly Pathogenic Avian Influenza A(H5N1) Virus from Cat Urine after Raw Milk Ingestion, United States](https://wwwnc.cdc.gov/eid/article/31/8/25-0309_article) (Cdc.gov)
 
 - [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
 
@@ -186,6 +204,10 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
+
+- [Reportan dos muertes por dengue en Chiapas; entidad es sexto lugar de casos en México](https://www.milenio.com/estados/reportan-muertes-dengue-chiapas-entidad-sexto-casos) (Milenio)
+
+- [Santo Antônio do Jardim confirma primeira morte por dengue em 2025](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/15/santo-antonio-do-jardim-confirma-primeira-morte-por-dengue-em-2025.ghtml) (Globo)
 
 - [GO: 2 municípios receberão mosquitos com bactéria que combate a dengue](https://www.metropoles.com/brasil/go-2-municipios-receberao-mosquitos-com-bacteria-que-combate-dengue) (Metropoles.com)
 
@@ -208,6 +230,8 @@ Source: [News API](https://newsapi.org/)
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
+
+- [„Wir müssen schon bald mit lokalen Ausbrüchen in Deutschland rechnen“](https://www.welt.de/gesundheit/article256406984/Tigermuecken-Tropenkrankheiten-Wir-muessen-mit-lokalen-Ausbruechen-in-Deutschland-rechnen.html) (DIE WELT)
 
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Ey4zip3&amp;lang=en_US&amp;send_time=1752518484&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_recall_exp_25q3-v6%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-control&amp;s=i2) (Newsbreak.com)
 
@@ -2367,6 +2391,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
+- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
+
+- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
+
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2553,6 +2581,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
+- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
+
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2582,6 +2612,10 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
+
+- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
+
+- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
