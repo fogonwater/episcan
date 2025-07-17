@@ -1,8 +1,424 @@
 {
-  "last_updated": "2025-07-17 07:09",
-  "count_articles_total": 1211,
-  "count_articles_new": 9,
+  "last_updated": "2025-07-17 19:07",
+  "count_articles_total": 1229,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 23015,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "16 more measles cases confirmed in Manitoba, bringing total to 146",
+      "description": "According to the province's most recent data, there were 16 new confirmed measles cases between July 5 and 12, bringing the total number of confirmed measles infections to 146 so far this year.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-july-16-2025-1.7586604",
+      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-16 19:04:06",
+      "content": "Manitoba has seen 16 more confirmed cases of measles, the province says in its latest update. According to the province's most recent data , updated Wednesday, there were 16 new confirmed cases bet\u2026 [+2098 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.347313",
+      "internal_id": "e5b5eaeb9bf2707984c488f045511ce2c6532695d3c4c3ba56b2684f25d5a019",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23027,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : douze foyers de transmission identifi\u00e9s en m\u00e9tropole ; Sant\u00e9 publique France alerte sur le risque d\u2019\u00e9pid\u00e9mie",
+      "description": "En raison de la propagation in\u00e9dite du chikungunya en France hexagonale, les autorit\u00e9s sanitaires redoutent l\u2019apparition de foyers en dehors des zones habituellement touch\u00e9es.",
+      "url": "https://www.lemonde.fr/sante/article/2025/07/16/chikungunya-douze-foyers-de-transmission-identifies-en-metropole-sante-publique-france-alerte-sur-le-risque-d-epidemie_6621656_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2025/06/25/0/0/4999/3333/1440/960/60/0/570d52e_ftp-import-images-1-y89zeiscnler-2025-06-25t070111z-1197456897-rc2u59atibvg-rtrmadp-3-gsk-vaccine.JPG",
+      "publishedAt": "2025-07-16 18:50:03",
+      "content": "Un moustique-tigre (\u00ab Aedes albopictus \u00bb) est photographi\u00e9 \u00e0 travers un microscope optique 20x, \u00e0 Moncada, Espagne, le 19 juillet 2024. EVA MANEZ / REUTERS Douze foyers de transmission du chikunguny\u2026 [+1649 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.447411",
+      "internal_id": "be02d74e57763ec37f589c4b2c700478c045723bb85bb0116404f50e240382e1",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23011,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Emily Mullin",
+      "title": "Can US Measles Outbreaks Be Stopped?",
+      "description": "The US almost lost its measles elimination status once. Lessons from that episode suggest it will be more difficult to avoid doing so now.",
+      "url": "https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/",
+      "urlToImage": "https://media.wired.com/photos/686c0b9c006ed189517b4339/191:100/w_1280,c_limit/WIRED_Measles-Outbreak.jpg",
+      "publishedAt": "2025-07-16 18:42:32",
+      "content": "Health officials also worked to combat misinformation. A Jewish anti-vaccine group called Parents Teaching and Advocating for Childrens Health, or PEACH, distributed a 40-page anti-vaccination bookle\u2026 [+3281 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.195342",
+      "internal_id": "e7ed51a2601301057f538f2ef0d672a59dfaf44c8ae944b5322204125c1b6595",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23023,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Chikungunya : 12 foyers de transmission identifi\u00e9s en m\u00e9tropole",
+      "description": "Une trentaine de cas au total ont \u00e9t\u00e9 recens\u00e9s, annonce ce mercredi 16 juillet Sant\u00e9 publique France. Cette tendance \u00e0 la hausse risque de se prolonger.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-12-foyers-de-transmission-identifies-en-metropole-20250716_JZ5I3MKIRRHI5HV57VS5EYCCIQ/",
+      "urlToImage": "https://www.liberation.fr/resizer/v2/EDAH2OHSY5AANJK6PDX6WFR44Y.jpg?auth=e660219c8d623a541274a04e176a5a5437c6eb8fc4a6ddaf11f1d779e85c6967&quality=70&width=1200&height=630&focal=2984%2C1419",
+      "publishedAt": "2025-07-16 17:02:37",
+      "content": "Et de douze. Le nombre de foyers de transmission du chikungunya a encore grimp\u00e9 en France m\u00e9tropolitaine, annonce Sant\u00e9 publique France ce mercredi 16 juillet dans son bulletin hebdomadaire. Un autre\u2026 [+2277 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.397373",
+      "internal_id": "f6d9eaeac1d2ca6664515d811493970c2b76b40d50ce577438a8434706defe89",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23017,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Yan Yujing, Bedah Mengo",
+      "title": "Kenya vaccinates over 21 mln children against typhoid, measles",
+      "description": "NAIROBI, July 16 (Xinhua) -- Kenya has vaccinated some 21.3 million children against typhoid and measles in its latest campaign against the two infectious diseases, the biggest vaccination drive in the East African nation's history, a government official has \u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-16 16:32:00",
+      "content": "NAIROBI, July 16 (Xinhua) -- Kenya has vaccinated some 21.3 million children against typhoid and measles in its latest campaign against the two infectious diseases, the biggest vaccination drive in t\u2026 [+1051 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.372101",
+      "internal_id": "ae4e7af1b7deac216f3976878bc0dc9953764b30c08ff2c667709826be491f3a",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23020,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Abram, Q. H., Matthews, L. A., Guarne, A., Sagan, S. M.",
+      "title": "Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [ARTICLE]",
+      "description": "Flavivirus infections, including those of Dengue virus (DENV) and Zika virus (ZIKV), result in a high disease burden globally, yet many aspects of their viral life cycle remain poorly understood. For example, while some features of the mechanism of negative-s\u2026",
+      "url": "https://rnajournal.cshlp.org/content/31/8/1139.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2025-07-16 16:04:37",
+      "content": "Flavivirus infections, including those of Dengue virus (DENV) and Zika virus (ZIKV), result in a high disease burden globally, yet many aspects of their viral life cycle remain poorly understood. F\u2026 [+1692 chars]",
+      "retrievedAt": "2025-07-17 19:07:09.848098",
+      "internal_id": "6ddd45b7bc143fead1c68dbfe72079172567ba48b2c77003040b66b02cb0fdca",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23032,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Yannick Simonin, Virologiste sp\u00e9cialiste en surveillance et \u00e9tude des maladies virales \u00e9mergentes. Professeur des Universit\u00e9s, Universit\u00e9 de Montpellier",
+      "title": "Virus \u00ab exotiques \u00bb dans l\u2019Hexagone : que faut-il savoir du chikungunya ?",
+      "description": "Le virus chikungunya est \u00e0 l\u2019origine de graves douleurs laissant parfois des s\u00e9quelles tr\u00e8s invalidantes. Ses flamb\u00e9es deviennent plus fr\u00e9quentes, comme en t\u00e9moigne le nombre de cas record en France, en ce d\u00e9but d\u2019\u00e9t\u00e9.",
+      "url": "https://theconversation.com/virus-exotiques-dans-lhexagone-que-faut-il-savoir-du-chikungunya-261034",
+      "urlToImage": "https://images.theconversation.com/files/679821/original/file-20250714-66-1odm50.jpg?ixlib=rb-4.1.0&rect=0%2C255%2C2353%2C1176&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-16 16:01:24",
+      "content": "Repr\u00e9sentation en trois dimensions et fausses couleurs de particules virales similaires au virus chikungunya. National Institute of Allergy and Infectious Diseases (NIAID) Depuis le d\u00e9but de l\u2019\u00e9t\u00e9, \u2026 [+13874 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.497183",
+      "internal_id": "31a93ad5d1404b071f15f8cfd4c7097a0d34cbfe6ac73f1efc4a55c8e9e573f4",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23028,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : 12 foyers de transmission identifi\u00e9s en m\u00e9tropole",
+      "description": "Sant\u00e9 publique France a annonc\u00e9 ce mercredi que 12 foyers de transmission du chikungunya ont \u00e9t\u00e9 recens\u00e9s sur l'Hexagone, faisant 31 cas au total.",
+      "url": "https://www.ledauphine.com/sante/2025/07/16/chikungunya-12-foyers-de-transmission-identifies-en-metropole",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/B990F26B-72DF-4DA1-B358-3D787792C2B4/FB1200/photo-1752677602.jpg",
+      "publishedAt": "2025-07-16 14:53:00",
+      "content": "Douze foyers de transmission du chikungunya sont d\u00e9sormais recens\u00e9s en m\u00e9tropole, pour une trentaine de cas au total, a annonc\u00e9 ce mercredi Sant\u00e9 publique France, qui pr\u00e9vient que cette tendance \u00e0 la\u2026 [+1808 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.455831",
+      "internal_id": "5f35c588e24c6417dc939000ec4a7662554fe2a3c70a23c6115e5fccad10a79c",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23024,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Chikungunya : Douze foyers de transmission et une trentaine de cas identifi\u00e9s en m\u00e9tropole",
+      "description": "Douze foyers de transmission du chikungunya ont \u00e9t\u00e9 identifi\u00e9s en France m\u00e9tropolitaine. Pour l\u2019instant, une trentaine de cas sont recens\u00e9s, mais d\u2019autres s\u2019ajouteront vraisemblablement au bilan",
+      "url": "https://www.20minutes.fr/sante/4163896-20250716-chikungunya-douze-foyers-transmission-trentaine-cas-identifies-metropole",
+      "urlToImage": "https://img.20mn.fr/pwmUk8NiQxW1r8A2QMPLyCk/1444x920_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
+      "publishedAt": "2025-07-16 14:19:40",
+      "content": "Alors que le virus circule \u00e0 un niveau jamais vu en France m\u00e9tropolitaine depuis plusieurs semaines, douze foyers de transmission du chikungunya y sont d\u00e9sormais recens\u00e9s. Une trentaine de cas au tot\u2026 [+1534 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.406362",
+      "internal_id": "7dcafe62614c22279d243a08d9cf61a7f5f36cdb94e0f9062d6d8ea42ef5155b",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23014,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Global Virus Network",
+      "title": "A Statement from the Global Virus Network (GVN) on the Rapidly Escalating Measles Crisis in the U.S. and Worldwide",
+      "description": "GVN is sounding the alarm over a sharp resurgence of measles cases in the United States and globally.......",
+      "url": "https://www.globenewswire.com/news-release/2025/07/16/3116559/0/en/A-Statement-from-the-Global-Virus-Network-GVN-on-the-Rapidly-Escalating-Measles-Crisis-in-the-U-S-and-Worldwide.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6c1b2724-7b9b-469a-a7c3-bc0a64d716ae",
+      "publishedAt": "2025-07-16 14:00:00",
+      "content": "TAMPA, Fla., July 16, 2025 (GLOBE NEWSWIRE) -- The Global Virus Network (GVN) , a coalition of leading human and animal virologists from 80+ Centers of Excellence and Affiliates in more than 40 coun\u2026 [+5689 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.331573",
+      "internal_id": "c048ab69ea2a5c28d4e5e1f620c228d87348267a4c9a416fc522e94e23468398",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23031,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Blenda de Jesus Pereira, Michelle Queiroz Aguiar Brasil, Jessica de Jesus Silva, Juqueline Rocha Cristal, Isabele de P\u00e1dua Carvalho, Maria Carolina Prado Miranda, Daniela Paix\u00e3o, Ricardo Khouri, Thiago Cerqueira-Silva, Fernanda Castro Boulos, Manoel Barral-Netto, Esper Georges Kalas, Aldina Barral, Ant\u00f4nio Bandeira, Viviane Sampaio Boaventura",
+      "title": "Chikungunya in a pediatric cohort: Asymptomatic infection, seroconversion, and chronicity rates",
+      "description": "Author summary Chikungunya is an infectious disease that can frequently cause chronic and debilitating muscle skeletal symptoms. While adults often experience severe symptoms and long-term effects, less information is available on children. This study investi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013254",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013254.g001&size=inline",
+      "publishedAt": "2025-07-16 14:00:00",
+      "content": "Abstract Chikungunya disease, caused by the chikungunya virus (CHIKV), is an acute febrile syndrome that frequently leads to chronic musculoskeletal manifestations. Little is known about the inciden\u2026 [+33436 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.481318",
+      "internal_id": "80a33e786da25fea3b6451df871113467c6600a678d081d572305d64cfb2eb39",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23018,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Dr Antony Black",
+      "title": "Scientists reveal the long-term impact of measles on children",
+      "description": "New research suggests that measles infection doesn\u2019t just make you ill in the short term; it may also undo years of immune protection",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-symptoms-vaccine-low-immune-system-b2790123.html",
+      "urlToImage": "https://static.the-independent.com/2024/11/15/18/iStock-2053751760.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-07-16 13:34:55",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+4978 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.409809",
+      "internal_id": "513531cfc410a2c2871b515d3c368e7cb373361b3a4e703ed4fb958175336c73",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23026,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Usine Nouvelle",
+      "author": "Sylvie\u00a0Brouillet",
+      "title": "Chikungunya : A Montpellier, une usine de moustiques tigres st\u00e9riles pour limiter la prolif\u00e9ration des maladies",
+      "description": "Dans son site pilote inaugur\u00e9 fin juin, le jeune pousse montpelli\u00e9raine de biocontr\u00f4le Terratis produit un million de moustiques tigres m\u00e2les st\u00e9rilis\u00e9s par semaine, utilis\u00e9 pour r\u00e9duire les populations d\u2019insectes. Elle imagine d\u00e9j\u00e0 une usine capable de produ\u2026",
+      "url": "https://www.usinenouvelle.com/article/chikungunya-a-montpellier-une-usine-de-moustiques-tigres-steriles-pour-limiter-la-proliferation-des-maladies.N2235251",
+      "urlToImage": "https://www.usinenouvelle.com/mediatheque/1/4/5/001529541_896x598_c.jpg",
+      "publishedAt": "2025-07-16 13:30:00",
+      "content": "\u00abNous produisons aujourd\u2019hui 1 million de moustiques-tigres m\u00e2les st\u00e9rilis\u00e9s par semaine. Sur notre site-pilote dans lequel nous avons investi 400000 euros, nous pourrons monter jusqu\u2019\u00e0 4 \u00e0 5 million\u2026 [+3988 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.439161",
+      "internal_id": "c17feb1d283154f2d4ec8b2601fc48c7d60a534c093f778e4ba68f46b1f759f8",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23010,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Rabies Fear Grips Kathmandu: Worried About Dog Bites & Rabies? What You Need to Know for Safety!",
+      "description": "Rabies Awareness: What You Need to Know After a Dog Bite Have you or someone you know been bitten by a dog or any other animal? Recent news of a state-level kabaddi player in India succumbing to rabies has caused a surge in concern, leading many to seek infor\u2026",
+      "url": "https://nep123.com/rabies-fear-grips-kathmandu-worried-about-dog-bites-rabies-what-you-need-to-know-for-safety/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "publishedAt": "2025-07-16 12:36:52",
+      "content": "Have you or someone you know been bitten by a dog or any other animal? Recent news of a state-level kabaddi player in India succumbing to rabies has caused a surge in concern, leading many to seek in\u2026 [+3871 chars]",
+      "retrievedAt": "2025-07-17 19:07:07.579574",
+      "internal_id": "2266ac5946252d9359e609aadb5e22f9ddb1eae2c0ab41c837197a6b7b2c3658",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23030,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department of Health and Social Care",
+      "title": "Independent report: Chikungunya vaccine for UK travellers: JCVI advice, 16 July 2025",
+      "description": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the use of chikungunya vaccines in UK travellers.",
+      "url": "https://www.gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-16 12:30:01",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.473047",
+      "internal_id": "0d866e17c58e0347b288e41bc1ec5221b2241819a09b054a8780ccc056d4966b",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23029,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Patr\u00edcia Calder\u00f3n, correspondente do iG na Europa, Patr\u00edcia Calder\u00f3n, correspondente do iG na Europa",
+      "title": "China: surto de chikungunya deixa popula\u00e7\u00e3o em alerta",
+      "description": "Calor e chuvas favorecem avan\u00e7o da doen\u00e7a transmitida por mosquitos",
+      "url": "https://ultimosegundo.ig.com.br/mundo/2025-07-16/china--surto-de-chikungunya-deixa-populacao-em-alerta.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8t/5s/3c/8t5s3ckxnipn9hz1qkv3f3jj1.jpg",
+      "publishedAt": "2025-07-16 12:29:08",
+      "content": "Clima abafado, chuvas di\u00e1rias e a amea\u00e7a que vem de um mosquito. Esse \u00e9 o cen\u00e1rio que moradores da cidade de Foshan, no sudeste da China, est\u00e3o enfrentando nos \u00faltimos dias. Um surto de febre chikung\u2026 [+1844 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.464641",
+      "internal_id": "2fa05548dcedce8eb07b508e31d64e7b6392522de5e4f1c1b13078e64c2c3894",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23016,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Antony Black, Lecturer, Life Sciences, University of Westminster",
+      "title": "Measles isn\u2019t just dangerous \u2013 it may erase your immune system",
+      "description": "The measles vaccine may do more than we thought \u2013 and the growing number of outbreaks makes ensuring you\u2019re protected ever more urgent.",
+      "url": "https://theconversation.com/measles-isnt-just-dangerous-it-may-erase-your-immune-system-261136",
+      "urlToImage": "https://images.theconversation.com/files/680327/original/file-20250716-56-yq6r80.jpg?ixlib=rb-4.1.0&rect=0%2C411%2C3758%2C1879&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-16 12:05:56",
+      "content": "INSAGO/Shutterstock Blindness, pneumonia, severe diarrhoea and even death \u2013 measles virus infections, especially in children, can have devastating consequences. Fortunately, we have a safe and effec\u2026 [+4345 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.363317",
+      "internal_id": "ecf17732151ccfe485cf690fbd9d6a9a62787caf50a61f9be8cc5cd35aaf8228",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23013,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta wastewater unlocked key information about COVID-19. Could it help with measles too?",
+      "description": "As Alberta's measles outbreaks grow, researchers are watching the province's wastewater for the highly contagious virus and hoping to determine if the technology could eventually serve as an early detection tool.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-wastewater-unlocked-key-information-about-covid-19-could-it-help-with-measles-too-1.7585529",
+      "urlToImage": "https://i.cbc.ca/1.7485170.1742149219!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/covid-explainer-wastewater-surveillance-20211231.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-16 12:00:00",
+      "content": "As Alberta's measles outbreaks grow, researchers are now watching the province's wastewater for the highly contagious virus and hoping to determine if the technology could eventually serve as an earl\u2026 [+5174 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.301268",
+      "internal_id": "acd5d0020c4d5d42401cf1c38298c8ec26aac45d10fd9d376ca4a4ca17fd0c0e",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23012,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Why are measles cases rising in the UK?",
+      "description": "What are the symptoms of measles and how dangerous is the disease?",
+      "url": "https://www.bbc.com/news/articles/c3w42xz34zjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/63b6/live/a5568700-6237-11f0-95b1-6318e9091eec.jpg",
+      "publishedAt": "2025-07-16 11:24:54",
+      "content": "A young child has died at Liverpool's Alder Hey Hospital after contracting measles, raising concerns about the spread of the disease. Cases have been rising in the UK and around the world, with more\u2026 [+5126 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.211633",
+      "internal_id": "914f4654cac1ba09b591e878c5f554fa407633bf39d4b6d3d7c1d59c5a1c7981",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23022,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mypeoplesreview.com",
+      "author": "People's Review",
+      "title": "Dengue tests should be made free to protect poor: Minister Paudel",
+      "description": "Kathmandu, July 16: Minister for Health and Population, Pradeep Paudel, has emphasized the need to fix charges for dengue tests. [\u2026] The post Dengue tests should be made free to protect poor: Minister Paudel appeared first on Peoples' Review.",
+      "url": "https://mypeoplesreview.com/2025/07/16/dengue-tests-should-be-made-free-to-protect-poor-minister-paudel/",
+      "urlToImage": "https://mypeoplesreview.com/wp-content/uploads/2025/07/pra1.jpg",
+      "publishedAt": "2025-07-16 10:45:00",
+      "content": "Kathmandu, July 16: Minister for Health and Population, Pradeep Paudel, has emphasized the need to fix charges for dengue tests. Speaking at the announcement program of Shrawan Dengue Awareness Month\u2026 [+1377 chars]",
+      "retrievedAt": "2025-07-17 19:07:09.881058",
+      "internal_id": "25063f5cbaee297e8de5151671430702050c1ad1cb92bd62d74b7fac8755e223",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23019,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Advocate",
+      "author": "BY MARK BALLARD | Staff writer",
+      "title": "Louisiana's Bill Cassidy says measles outbreak has peaked as Democrats blame RFK Jr.",
+      "description": "WASHINGTON \u2013 The nation\u2019s measles crisis has peaked and is fast resolving because of efforts by state and federal authorities to get people vaccinated against the often-deadly disease that had once been considered eradicated, U.S. Sen. Bill Cassidy said Tuesd\u2026",
+      "url": "https://www.theadvocate.com/baton_rouge/news/politics/bill-cassidy-says-measles-epidemic-is-over/article_cb35ff47-12d8-5d4b-9158-24622e17c1b3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/5/5c/55c8c4d5-c7f1-54e4-8ad4-511e218e612c/68251bd2c7599.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-16 09:00:00",
+      "content": "A physician for 30 years, Cassidy noted that people who catch measles and survive are immunized from catching the disease again. But he hopes that the decline was mostly attributable to more people g\u2026 [+538 chars]",
+      "retrievedAt": "2025-07-17 19:07:08.447670",
+      "internal_id": "9bd184e8f6f838cc3655fd2e3a2f0a1b69790c20e84db4a7eb127210ad0b05f4",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23025,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "China regista surto de febre chikunyunga com 478 casos",
+      "description": "O surto, no sudeste da China e que surge em plena \u00e9poca de calor e chuvas no sul, foi detetado a 8 de julho atrav\u00e9s dos sistemas locais de vigil\u00e2ncia epidemiol\u00f3gica. Foram registados 478 casos.",
+      "url": "https://observador.pt/2025/07/16/china-regista-surto-de-febre-chikunyunga-com-478-casos-no-sudeste-do-pais/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A155%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F07%2F16044637%2F43619537.jpg?layer=obstop:T",
+      "publishedAt": "2025-07-16 08:50:03",
+      "content": "As autoridades de sa\u00fade da cidade chinesa de Foshan, no sudeste do pa\u00eds, alertaram esta quarta-feira para um surto local de febre chikungunya, associado a um caso importado, com 478 infe\u00e7\u00f5es confirma\u2026 [+1047 chars]",
+      "retrievedAt": "2025-07-17 19:07:11.430288",
+      "internal_id": "6e7361b62f71c524b56cc0bee8b7296947390c3469c62cb45b7868b579d7e726",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 23021,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Stop the Dengue Test Rip-Off! Health Officials Need to Crack Down on Price Gouging and Scamming Patients in Nepal!",
+      "description": "Breaking News: Minister Calls for **Dengue Test Price Regulation** Amid Rising **Dengue Fever Cases** In a recent announcement, Health and Population Minister Pradeep Paudel has addressed the pressing need for **dengue test price regulation**. The Minister em\u2026",
+      "url": "https://nep123.com/stop-the-dengue-test-rip-off-health-officials-need-to-crack-down-on-price-gouging-and-scamming-patients-in-nepal/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "publishedAt": "2025-07-16 07:11:53",
+      "content": "In a recent announcement, Health and Population Minister Pradeep Paudel has addressed the pressing need for **dengue test price regulation**. The Minister emphasized the importance of making **dengue\u2026 [+2201 chars]",
+      "retrievedAt": "2025-07-17 19:07:09.872706",
+      "internal_id": "ca9d5e38120aca0a3e9d6e3954f221d382ce4fd6ee4a2ddcb25499c1a0ad131d",
+      "publishedAtLabel": "Jul 16"
+    },
     {
       "id": 23008,
       "query": [
@@ -21769,96 +22185,6 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21799,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.vrt.be",
-      "author": "VRT NWS",
-      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
-      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
-      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
-      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
-      "publishedAt": "2025-06-01 18:58:02",
-      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.962760",
-      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21800,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "vea",
-      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
-      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2025-06-01 17:49:28",
-      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.971288",
-      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21798,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Sarika N",
-      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
-      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
-      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
-      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2025-06-01 10:08:43",
-      "content": "",
-      "retrievedAt": "2025-06-02 19:06:01.040343",
-      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21803,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Regional News",
-      "title": "Publiko gipahimangnoan kalabot sa MPOX",
-      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
-      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
-      "publishedAt": "2025-06-01 07:28:44",
-      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.693619",
-      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21801,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
-      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
-      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
-      "publishedAt": "2025-06-01 07:25:31",
-      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.587795",
-      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
       "publishedAtLabel": "Jun 1"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-07-17 07:09
-- **Most recent article:** 2025-07-16 05:11:38
+- **New articles in last harvest:** 23
+- **Last harvest:** 2025-07-17 19:07
+- **Most recent article:** 2025-07-16 19:04:06
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 114 | 37 | 409 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 12 | 152 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 5 | 126 |
-| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 6 | 123 |
-| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 4 | 94 |
+| measles | 89 | 48 | 31 | 53 | 36 | 114 | 46 | 417 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 15 | 155 |
+| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 16 | 133 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 5 | 124 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 3 | 93 |
-| rabies | 6 | 6 | 19 | 5 | 17 | 17 | 0 | 70 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 4 | 92 |
+| rabies | 6 | 6 | 19 | 5 | 17 | 17 | 1 | 71 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 5 | 57 |
-| zika | 7 | 2 | 14 | 2 | 8 | 12 | 3 | 48 |
+| zika | 7 | 2 | 14 | 2 | 8 | 12 | 4 | 49 |
 | h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 5 | 47 |
-| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 8 | 19 |
+| typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 9 | 20 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 2 | 14 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 3 | 11 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-29 (zika)
+
+- [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [ARTICLE]](https://rnajournal.cshlp.org/content/31/8/1139.short?rss=1) (Cshlp.org)
 
 - [Cercetare: Au fost identificați compuși naturali care ajută celulele să lupte împotriva mai multor virusuri](https://www.mediafax.ro/stiinta-sanatate/cercetare-au-fost-identificati-compusi-naturali-care-ajuta-celulele-sa-lupte-impotriva-mai-multor-virusuri-23581290) (Mediafax.ro)
 
@@ -55,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (typhoid)
 
+- [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
+
 - [Guidance: Typhoid: health advice for travellers](https://www.gov.uk/government/publications/typhoid-health-advice-for-travellers) (Www.gov.uk)
 
 - [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Warns Study](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-warns-study) (ScienceAlert)
@@ -70,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 - [Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children](https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/) (Thekenyatimes.com)
 
 - [Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parents](https://www.kenyans.co.ke/news/114116-ensure-children-get-typhoid-measles-rubella-jabs-48-hours-health-ministry-warns-parents) (Kenyans.co.ke)
+
+## 25-29 (rabies)
+
+- [Rabies Fear Grips Kathmandu: Worried About Dog Bites & Rabies? What You Need to Know for Safety!](https://nep123.com/rabies-fear-grips-kathmandu-worried-about-dog-bites-rabies-what-you-need-to-know-for-safety/) (Nep123.com)
 
 ## 25-29 (pertussis)
 
@@ -98,6 +106,24 @@ Source: [News API](https://newsapi.org/)
 - [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
 
 ## 25-29 (measles)
+
+- [16 more measles cases confirmed in Manitoba, bringing total to 146](https://www.cbc.ca/news/canada/manitoba/measles-update-july-16-2025-1.7586604) (CBC News)
+
+- [Can US Measles Outbreaks Be Stopped?](https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/) (Wired)
+
+- [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
+
+- [A Statement from the Global Virus Network (GVN) on the Rapidly Escalating Measles Crisis in the U.S. and Worldwide](https://www.globenewswire.com/news-release/2025/07/16/3116559/0/en/A-Statement-from-the-Global-Virus-Network-GVN-on-the-Rapidly-Escalating-Measles-Crisis-in-the-U-S-and-Worldwide.html) (GlobeNewswire)
+
+- [Scientists reveal the long-term impact of measles on children](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-vaccine-low-immune-system-b2790123.html) (The-independent.com)
+
+- [Measles isn’t just dangerous – it may erase your immune system](https://theconversation.com/measles-isnt-just-dangerous-it-may-erase-your-immune-system-261136) (The Conversation Africa)
+
+- [Alberta wastewater unlocked key information about COVID-19. Could it help with measles too?](https://www.cbc.ca/news/canada/calgary/alberta-wastewater-unlocked-key-information-about-covid-19-could-it-help-with-measles-too-1.7585529) (CBC News)
+
+- [Why are measles cases rising in the UK?](https://www.bbc.com/news/articles/c3w42xz34zjo) (BBC News)
+
+- [Louisiana's Bill Cassidy says measles outbreak has peaked as Democrats blame RFK Jr.](https://www.theadvocate.com/baton_rouge/news/politics/bill-cassidy-says-measles-epidemic-is-over/article_cb35ff47-12d8-5d4b-9158-24622e17c1b3.html) (The Advocate)
 
 - [Louisville Metro reports its first measles case in more than a decade](https://www.wave3.com/2025/07/15/louisville-metro-reports-its-first-measles-case-more-than-decade/) (WAVE 3)
 
@@ -205,6 +231,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (dengue)
 
+- [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [ARTICLE]](https://rnajournal.cshlp.org/content/31/8/1139.short?rss=1) (Cshlp.org)
+
+- [Dengue tests should be made free to protect poor: Minister Paudel](https://mypeoplesreview.com/2025/07/16/dengue-tests-should-be-made-free-to-protect-poor-minister-paudel/) (Mypeoplesreview.com)
+
+- [Stop the Dengue Test Rip-Off! Health Officials Need to Crack Down on Price Gouging and Scamming Patients in Nepal!](https://nep123.com/stop-the-dengue-test-rip-off-health-officials-need-to-crack-down-on-price-gouging-and-scamming-patients-in-nepal/) (Nep123.com)
+
 - [Reportan dos muertes por dengue en Chiapas; entidad es sexto lugar de casos en México](https://www.milenio.com/estados/reportan-muertes-dengue-chiapas-entidad-sexto-casos) (Milenio)
 
 - [Santo Antônio do Jardim confirma primeira morte por dengue em 2025](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/15/santo-antonio-do-jardim-confirma-primeira-morte-por-dengue-em-2025.ghtml) (Globo)
@@ -230,6 +262,26 @@ Source: [News API](https://newsapi.org/)
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
+
+- [Chikungunya : douze foyers de transmission identifiés en métropole ; Santé publique France alerte sur le risque d’épidémie](https://www.lemonde.fr/sante/article/2025/07/16/chikungunya-douze-foyers-de-transmission-identifies-en-metropole-sante-publique-france-alerte-sur-le-risque-d-epidemie_6621656_1651302.html) (Le Monde)
+
+- [Chikungunya : 12 foyers de transmission identifiés en métropole](https://www.liberation.fr/societe/sante/chikungunya-12-foyers-de-transmission-identifies-en-metropole-20250716_JZ5I3MKIRRHI5HV57VS5EYCCIQ/) (Libération)
+
+- [Virus « exotiques » dans l’Hexagone : que faut-il savoir du chikungunya ?](https://theconversation.com/virus-exotiques-dans-lhexagone-que-faut-il-savoir-du-chikungunya-261034) (The Conversation Africa)
+
+- [Santé. Chikungunya : 12 foyers de transmission identifiés en métropole](https://www.ledauphine.com/sante/2025/07/16/chikungunya-12-foyers-de-transmission-identifies-en-metropole) (Le Dauphiné Libéré)
+
+- [Chikungunya : Douze foyers de transmission et une trentaine de cas identifiés en métropole](https://www.20minutes.fr/sante/4163896-20250716-chikungunya-douze-foyers-transmission-trentaine-cas-identifies-metropole) (20 Minutes)
+
+- [Chikungunya in a pediatric cohort: Asymptomatic infection, seroconversion, and chronicity rates](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013254) (Plos.org)
+
+- [Chikungunya : A Montpellier, une usine de moustiques tigres stériles pour limiter la prolifération des maladies](https://www.usinenouvelle.com/article/chikungunya-a-montpellier-une-usine-de-moustiques-tigres-steriles-pour-limiter-la-proliferation-des-maladies.N2235251) (L'Usine Nouvelle)
+
+- [Independent report: Chikungunya vaccine for UK travellers: JCVI advice, 16 July 2025](https://www.gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025) (Www.gov.uk)
+
+- [China: surto de chikungunya deixa população em alerta](https://ultimosegundo.ig.com.br/mundo/2025-07-16/china--surto-de-chikungunya-deixa-populacao-em-alerta.html) (Ig.com.br)
+
+- [China regista surto de febre chikunyunga com 478 casos](https://observador.pt/2025/07/16/china-regista-surto-de-febre-chikunyunga-com-478-casos-no-sudeste-do-pais/) (Observador.pt)
 
 - [„Wir müssen schon bald mit lokalen Ausbrüchen in Deutschland rechnen“](https://www.welt.de/gesundheit/article256406984/Tigermuecken-Tropenkrankheiten-Wir-muessen-mit-lokalen-Ausbruechen-in-Deutschland-rechnen.html) (DIE WELT)
 
@@ -2391,10 +2443,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2581,8 +2629,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2612,10 +2658,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
