@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2025-07-17 19:07
-- **Most recent article:** 2025-07-16 19:04:06
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-07-18 07:09
+- **Most recent article:** 2025-07-17 06:59:35
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 89 | 48 | 31 | 53 | 36 | 114 | 46 | 417 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 15 | 155 |
+| measles | 90 | 48 | 31 | 53 | 36 | 114 | 48 | 420 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 17 | 157 |
 | chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 16 | 133 |
-| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 5 | 124 |
+| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 8 | 129 |
+| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 5 | 95 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 3 | 93 |
-| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 4 | 92 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 1 | 71 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 5 | 57 |
-| zika | 7 | 2 | 14 | 2 | 8 | 12 | 4 | 49 |
+| zika | 7 | 2 | 14 | 2 | 8 | 12 | 5 | 50 |
 | h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 5 | 47 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 9 | 20 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 2 | 14 |
-| pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 3 | 11 |
+| pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 4 | 12 |
 | shigellosis | 0 | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
 | leptospirosis | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 4 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-29 (zika)
+
+- [Identification of Co-Circulating Dengue and South America–Origin Zika Viruses, Pakistan, 2021–2022](https://wwwnc.cdc.gov/eid/article/31/8/25-0342_article) (Cdc.gov)
 
 - [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [ARTICLE]](https://rnajournal.cshlp.org/content/31/8/1139.short?rss=1) (Cshlp.org)
 
@@ -81,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (pertussis)
 
+- [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2025/db250716.doc.htm) (UN News)
+
 - [Pertussis: background information on prevention and management](https://www.gov.uk/guidance/pertussis-clinical-and-public-health-management) (Www.gov.uk)
 
 - [Modest gains in global childhood vaccination, yet 14 million children received “zero-dose”: WHO/ Unicef report](https://www.thehindubusinessline.com/news/national/modest-gains-in-global-childhood-vaccination-yet-14-million-children-received-zero-dose-who-unicef-report/article69814194.ece) (BusinessLine)
@@ -88,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 - [Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated – WHO, UNICEF](https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef) (World Health Organization)
 
 ## 25-29 (mpox)
+
+- [Level 2 - Clade II Mpox in Sierra Leone](https://wwwnc.cdc.gov/travel/notices/level2/mpox-sierra-leone) (Cdc.gov)
 
 - [인도네시아 발리 검역 건강 패스 (Satusehat Health Pass) 작성 방법](https://jsksoft.tistory.com/561836) (Tistory.com)
 
@@ -106,6 +112,10 @@ Source: [News API](https://newsapi.org/)
 - [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
 
 ## 25-29 (measles)
+
+- [Louisville health officials warn of possible measles exposure at Kroger on Dixie Highway in PRP](https://www.wdrb.com/news/louisville-health-officials-warn-of-possible-measles-exposure-at-kroger-on-dixie-highway-in-prp/article_5ea1189c-fe84-4022-ae33-a83a692685be.html) (WDRB)
+
+- [Louisville health officials conducting contact tracing after child with measles visited Kroger](https://www.wlky.com/article/louisville-health-officials-contact-tracing-child-measles-kroger/65430214) (WLKY Louisville)
 
 - [16 more measles cases confirmed in Manitoba, bringing total to 146](https://www.cbc.ca/news/canada/manitoba/measles-update-july-16-2025-1.7586604) (CBC News)
 
@@ -201,6 +211,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (malaria)
 
+- [Medikamente, Impfungen und Insektenmittel: Das gehört alles in die Reiseapotheke](https://www.tagesspiegel.de/gesundheit/medikamente-impfungen-und-insektenmittel-das-gehort-alles-in-die-reiseapotheke-14027840.html) (Der Tagesspiegel)
+
+- [Las proteínas en sangre pueden revelar la gravedad de la malaria](https://www.infosalus.com/salud-investigacion/noticia-proteinas-sangre-pueden-revelar-gravedad-malaria-20250717071948.html) (Infosalus.com)
+
+- [Influencers are drinking fabric dye for brain health—could it possibly work?](https://www.nationalgeographic.com/health/article/what-is-methylene-blue-health-effects) (National Geographic)
+
 - [Cote d'Ivoire launches national malaria vaccination campaign](https://www.thestar.com.my/news/world/2025/07/16/cote-d039ivoire-launches-national-malaria-vaccination-campaign) (The Star Online)
 
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Ey4zip3&amp;lang=en_US&amp;send_time=1752518484&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_recall_exp_25q3-v6%2Cns_foryou_blend_exp_25q2-v8%2Cns_foryou_model_exp_25q2_v2-control&amp;s=i2) (Newsbreak.com)
@@ -230,6 +246,10 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
+
+- [Medikamente, Impfungen und Insektenmittel: Das gehört alles in die Reiseapotheke](https://www.tagesspiegel.de/gesundheit/medikamente-impfungen-und-insektenmittel-das-gehort-alles-in-die-reiseapotheke-14027840.html) (Der Tagesspiegel)
+
+- [Identification of Co-Circulating Dengue and South America–Origin Zika Viruses, Pakistan, 2021–2022](https://wwwnc.cdc.gov/eid/article/31/8/25-0342_article) (Cdc.gov)
 
 - [Structural and functional characterization of the SLA' structure at the 3' terminus of the Zika virus negative-strand intermediate [ARTICLE]](https://rnajournal.cshlp.org/content/31/8/1139.short?rss=1) (Cshlp.org)
 
@@ -2443,6 +2463,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
+- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
+
+- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
+
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2629,6 +2653,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
+- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
+
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2658,6 +2684,10 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
+
+- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
+
+- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 

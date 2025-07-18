@@ -1,8 +1,154 @@
 {
-  "last_updated": "2025-07-17 19:07",
-  "count_articles_total": 1229,
-  "count_articles_new": 23,
+  "last_updated": "2025-07-18 07:09",
+  "count_articles_total": 1242,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 23036,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Hauke Hohensee",
+      "title": "Medikamente, Impfungen und Insektenmittel: Das geh\u00f6rt alles in die Reiseapotheke",
+      "description": "Hepatitis A, Dengue-Fieber oder Malaria: Bei Fernreisen k\u00f6nnen Urlauber mit gef\u00e4hrlichen Krankheitserregern in Kontakt kommen: Welche Medikamente dann ratsam sind und welche eher kontraproduktiv wirken.",
+      "url": "https://www.tagesspiegel.de/gesundheit/medikamente-impfungen-und-insektenmittel-das-gehort-alles-in-die-reiseapotheke-14027840.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14028626/alternates/BASE_16_9_W1400/1752588244000/sick-man-traveler-the-man-caught-a-cold-on-vacation-sits-sad-at-the-pool-drinking-tea-and-blows-his-nose-into-a-napkin-his-son-is-healthy-and-swimming-in-the-pool-travel-insurance-concept.jpeg",
+      "publishedAt": "2025-07-17 06:59:35",
+      "content": "Urlaubszeit ist wahlweise Abenteuer- oder Erholungszeit. Normalerweise. Manchmal wird sie aber auch zur Krankheitszeit. Deshalb sollte man auch auf Reisen f\u00fcr den Worst Case ger\u00fcstet sein, zumal wenn\u2026 [+990 chars]",
+      "retrievedAt": "2025-07-18 07:09:55.662444",
+      "internal_id": "f8c0cd1e3590337cab9dfd08d2cc0eed1a39f5699456f2f1809c076b432acb2c",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23039,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Las prote\u00ednas en sangre pueden revelar la gravedad de la malaria",
+      "description": "Investigadores del Instituto Karolinska (Suecia) han identificado m\u00e1s de 250 prote\u00ednas que se ven fuertemente afectadas por la malaria, lo que podr\u00eda ayudar a predecir la gravedad de la enfermedad y permitir as\u00ed un tratamiento m\u00e1s r\u00e1pido para los pacientes m\u00e1\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-proteinas-sangre-pueden-revelar-gravedad-malaria-20250717071948.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250717071948_1200.jpg",
+      "publishedAt": "2025-07-17 05:19:48",
+      "content": "MADRID, 17 Jul. (EUROPA PRESS) - Investigadores del Instituto Karolinska (Suecia) han identificado m\u00e1s de 250 prote\u00ednas que se ven fuertemente afectadas por la malaria, lo que podr\u00eda ayudar a p\u2026 [+2109 chars]",
+      "retrievedAt": "2025-07-18 07:09:56.440467",
+      "internal_id": "6a4719ebcb4c42c2bc28b29da7bc27084b97ccd5a9c65cb08d263fe07ccac1eb",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23037,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Identification of Co-Circulating Dengue and South America\u2013Origin Zika Viruses, Pakistan, 2021\u20132022",
+      "description": "Identification of Co-Circulating Dengue and South America\u2013Origin Zika Viruses, Pakistan, 2021\u20132022",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/25-0342_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-17 04:00:00",
+      "content": "Orthoflavivirus is a genus of arthropod-borne, positive-strand RNA viruses capable of causing serious disease outbreaks in humans (1). Dengue virus (DENV) and Zika virus (ZIKV) are clinically relevan\u2026 [+9229 chars]",
+      "retrievedAt": "2025-07-18 07:09:55.673974",
+      "internal_id": "3a74a48331f8bf911dc019fe5cb68b2cee7a1757b68838957b7807cff419dbfd",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23040,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Clade II Mpox in Sierra Leone",
+      "description": "There is an outbreak of clade II mpox in Sierra Leone, where mpox is endemic.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/mpox-sierra-leone",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-07-17 04:00:00",
+      "content": "Mpox is a disease caused by infection with Monkeypox virus. Mpox is endemic in forested areas of Central and West Africa. Both clades of mpox can be spread, treated, and prevented the same way, but \u2026 [+647 chars]",
+      "retrievedAt": "2025-07-18 07:09:57.414921",
+      "internal_id": "81aee6a78ca0fc2615597f625172f2815501ad5df124c148c74b1a0ac8dd1870",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23035,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDRB",
+      "author": "",
+      "title": "Louisville health officials warn of possible measles exposure at Kroger on Dixie Highway in PRP",
+      "description": "Mayor Craig Greenberg's office said the health department learned the child infected with measles visited the Little Clinic inside the Kroger at 4915 Dixie Highway.",
+      "url": "https://www.wdrb.com/news/louisville-health-officials-warn-of-possible-measles-exposure-at-kroger-on-dixie-highway-in-prp/article_5ea1189c-fe84-4022-ae33-a83a692685be.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/4/3d/43d7b979-e479-453c-b89a-4ea24f7f3330/67e527a9bd474.image.jpg?crop=1728%2C907%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-17 01:39:24",
+      "content": "LOUISVILLE, Ky. (WDRB) -- City officials are encouraging residents who may have visited the Little Clinic inside a Louisville Kroger earlier this month may have been exposed to measles. Tuesday, May\u2026 [+5075 chars]",
+      "retrievedAt": "2025-07-18 07:09:54.527021",
+      "internal_id": "8466bfe707fffa79414367a973a90664d4f202d09fe039df5534cb5726c66a32",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23034,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLKY Louisville",
+      "author": "Matthew Keck",
+      "title": "Louisville health officials conducting contact tracing after child with measles visited Kroger",
+      "description": "Health officials confirmed a case of the measles in Louisville earlier this week, and now they say there was exposure to the infection at an area Kroger.",
+      "url": "https://www.wlky.com/article/louisville-health-officials-contact-tracing-child-measles-kroger/65430214",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/5cf335d8-d008-4b2f-92f0-51d4350c2fa8/8512cbcc-f232-40c4-a2f4-945d0290974c.jpg?crop=0.788xw:0.789xh;0.152xw,0&resize=1200:*",
+      "publishedAt": "2025-07-17 01:28:03",
+      "content": "LOUISVILLE, Ky. \u2014Health officials confirmed a case of the measles in Louisville earlier this week, and now they say there was exposure to the infection at an area Kroger. Officials announced on Tue\u2026 [+1775 chars]",
+      "retrievedAt": "2025-07-18 07:09:54.489592",
+      "internal_id": "64f403c1aec82dbaead3b5f90fa8e1033f69da7f900e57c65bfc53f69664366e",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23038,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "national-geographic",
+      "source_name": "National Geographic",
+      "author": "Katie Wright",
+      "title": "Influencers are drinking fabric dye for brain health\u2014could it possibly work?",
+      "description": "The trendy supplement was originally developed as a fabric dye\u2014and later used as a malaria treatment. We asked experts if it really has the cognitive benefits touted on social media.",
+      "url": "https://www.nationalgeographic.com/health/article/what-is-methylene-blue-health-effects",
+      "urlToImage": "https://i.natgeofe.com/n/f8888bc2-8a97-4f33-aa78-faa39d13ec54/GettyImages-1276416824_16x9.jpg?w=1200",
+      "publishedAt": "2025-07-17 00:00:00",
+      "content": "(How to get high on your own hormonesnaturally.) However, evidence for these effects in humans is limited, Rothenberg says. This is based entirely in theory, from studies on isolated tissue cultures\u2026 [+1954 chars]",
+      "retrievedAt": "2025-07-18 07:09:56.415685",
+      "internal_id": "6a55a4ce548964a88d3706c1b7c5b39d2d66c18ebd7c128cd3febb270da5e1db",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23033,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "United Nations",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "description": "According to the World Health Organization (WHO) and UN Children\u2019s Fund (UNICEF), more than half of all infants in Sudan, that\u2019s 880,000 babies and toddlers, missed last year their first doses of vaccines to protect against diphtheria, tetanus and pertussis. \u2026",
+      "url": "https://press.un.org/en/2025/db250716.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-07-16 23:59:14",
+      "content": "The following is a near-verbatim transcript of todays briefing by St\u00e9phane Dujarric, Spokesman for the Secretary-General. **Informal Meeting on Cyprus Just a programming note, first, as you all kno\u2026 [+25587 chars]",
+      "retrievedAt": "2025-07-18 07:09:53.882052",
+      "internal_id": "d1f63e2e65bab253a6572f77eb32d82e76cfb5e0f3068bed0141c7e0ce7da1f0",
+      "publishedAtLabel": "Jul 16"
+    },
     {
       "id": 23015,
       "query": [
@@ -22185,6 +22331,96 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": "VRT NWS",
+      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
+      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
+      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
+      "publishedAt": "2025-06-01 18:58:02",
+      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.962760",
+      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "vea",
+      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
+      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-06-01 17:49:28",
+      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.971288",
+      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Sarika N",
+      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
+      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
+      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
+      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2025-06-01 10:08:43",
+      "content": "",
+      "retrievedAt": "2025-06-02 19:06:01.040343",
+      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Publiko gipahimangnoan kalabot sa MPOX",
+      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
+      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
+      "publishedAt": "2025-06-01 07:28:44",
+      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.693619",
+      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
+      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
+      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
+      "publishedAt": "2025-06-01 07:25:31",
+      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.587795",
+      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
       "publishedAtLabel": "Jun 1"
     }
   ]
