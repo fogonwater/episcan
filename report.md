@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-07-18 07:09
-- **Most recent article:** 2025-07-17 06:59:35
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-07-18 19:06
+- **Most recent article:** 2025-07-17 19:00:34
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 114 | 48 | 420 |
-| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 17 | 157 |
-| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 16 | 133 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 8 | 129 |
-| mpox | 12 | 24 | 11 | 27 | 10 | 6 | 5 | 95 |
-| meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 3 | 93 |
+| measles | 89 | 48 | 31 | 53 | 36 | 114 | 51 | 422 |
+| dengue | 25 | 14 | 17 | 26 | 24 | 34 | 19 | 159 |
+| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 17 | 134 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 9 | 128 |
+| meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 5 | 95 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 5 | 93 |
 | rabies | 6 | 6 | 19 | 5 | 17 | 17 | 1 | 71 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 5 | 57 |
-| zika | 7 | 2 | 14 | 2 | 8 | 12 | 5 | 50 |
-| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 5 | 47 |
+| zika | 7 | 2 | 14 | 2 | 8 | 12 | 6 | 51 |
+| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 6 | 48 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 9 | 20 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 2 | 14 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 4 | 12 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-29 (zika)
+
+- [Vacina contra o vírus zika mostra resultados promissores em testes com camundongos](https://gizmodo.uol.com.br/vacina-contra-o-virus-zika-mostra-resultados-promissores-em-testes-com-camundongos/) (Uol.com.br)
 
 - [Identification of Co-Circulating Dengue and South America–Origin Zika Viruses, Pakistan, 2021–2022](https://wwwnc.cdc.gov/eid/article/31/8/25-0342_article) (Cdc.gov)
 
@@ -105,6 +107,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (meningitis)
 
+- [Aitana desvela su sufrimiento durante su enfermedad: «Los malos momentos existen para sacar lo mejor de cada uno»](https://www.abc.es/deportes/futbol/aitana-desvela-sufrimiento-enfermedad-malos-momentos-existen-20250717203847-nt.html) (Www.abc.es)
+
+- [Grateful Bonmati relishing Spain's clash with Switzerland after health scare](https://www.channelnewsasia.com/sport/grateful-bonmati-relishing-spains-clash-switzerland-after-health-scare-5244331) (CNA)
+
 - [Guidance: Meningitis and septicaemia: prevention and management in higher education institutions](https://www.gov.uk/government/publications/meningitis-and-septicaemia-prevention-and-management-in-higher-education-institutions) (Www.gov.uk)
 
 - [La gripe obliga a Suiza a suspender el entrenamiento pero España no se fía: "Te meten un gol y te vas para casa"](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/07/15/687623e9e85ece4d3c8b457e.html) (El Mundo)
@@ -112,6 +118,12 @@ Source: [News API](https://newsapi.org/)
 - [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
 
 ## 25-29 (measles)
+
+- [How declining MMR vaccination rates put future generations at risk](https://kevinmd.com/2025/07/how-declining-mmr-vaccination-rates-put-future-generations-at-risk.html) (Kevinmd.com)
+
+- [Measles cases rise in popular Ontario travel hot spot](https://www.cbc.ca/news/canada/toronto/measles-ontario-summer-travel-1.7587581) (CBC News)
+
+- [Day care measles exposure forces Iowa family to take weeks off work for baby: 'It only takes one'](https://www.nbcnews.com/health/health-news/day-care-measles-exposure-forces-iowa-family-take-weeks-work-baby-only-rcna218899) (NBC News)
 
 - [Louisville health officials warn of possible measles exposure at Kroger on Dixie Highway in PRP](https://www.wdrb.com/news/louisville-health-officials-warn-of-possible-measles-exposure-at-kroger-on-dixie-highway-in-prp/article_5ea1189c-fe84-4022-ae33-a83a692685be.html) (WDRB)
 
@@ -211,6 +223,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (malaria)
 
+- [Prevalence of malaria, anemia and associated factors among school children in Hawassa city, Sidama, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327378) (Plos.org)
+
 - [Medikamente, Impfungen und Insektenmittel: Das gehört alles in die Reiseapotheke](https://www.tagesspiegel.de/gesundheit/medikamente-impfungen-und-insektenmittel-das-gehort-alles-in-die-reiseapotheke-14027840.html) (Der Tagesspiegel)
 
 - [Las proteínas en sangre pueden revelar la gravedad de la malaria](https://www.infosalus.com/salud-investigacion/noticia-proteinas-sangre-pueden-revelar-gravedad-malaria-20250717071948.html) (Infosalus.com)
@@ -235,6 +249,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (h5n1)
 
+- [Распространение птичьего гриппа в Европе может быть связано с перелетами лебедей-шипунов](https://tass.ru/mezhdunarodnaya-panorama/24543299) (Tass.ru)
+
 - [Multidisciplinary Tracking of Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Griffon Vultures, Southern Europe, 2022](https://wwwnc.cdc.gov/eid/article/31/8/24-1456_article) (Cdc.gov)
 
 - [Isolation of Highly Pathogenic Avian Influenza A(H5N1) Virus from Cat Urine after Raw Milk Ingestion, United States](https://wwwnc.cdc.gov/eid/article/31/8/25-0309_article) (Cdc.gov)
@@ -246,6 +262,10 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
+
+- [Két súlyos trópusi betegség is megjelent Magyarországon](https://index.hu/belfold/2025/07/17/magyarorszag-halalos-betegseg-szunyog-dengue-laz/) (Index.hu)
+
+- [Dengue Fever Risk on the Rise in Kathmandu: Stay Aware and Take Precautions, Urges the City Authorities](https://nep123.com/dengue-fever-risk-on-the-rise-in-kathmandu-stay-aware-and-take-precautions-urges-the-city-authorities/) (Nep123.com)
 
 - [Medikamente, Impfungen und Insektenmittel: Das gehört alles in die Reiseapotheke](https://www.tagesspiegel.de/gesundheit/medikamente-impfungen-und-insektenmittel-das-gehort-alles-in-die-reiseapotheke-14027840.html) (Der Tagesspiegel)
 
@@ -282,6 +302,8 @@ Source: [News API](https://newsapi.org/)
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
+
+- [Le nombre de foyers de chikungunya grimpe en flèche en Hexagone, les conseils pour se protéger](https://www.huffingtonpost.fr/life/article/le-nombre-de-foyers-de-chikungunya-grimpe-en-fleche-en-hexagone-les-conseils-pour-se-proteger_252686.html) (Le HuffPost)
 
 - [Chikungunya : douze foyers de transmission identifiés en métropole ; Santé publique France alerte sur le risque d’épidémie](https://www.lemonde.fr/sante/article/2025/07/16/chikungunya-douze-foyers-de-transmission-identifies-en-metropole-sante-publique-france-alerte-sur-le-risque-d-epidemie_6621656_1651302.html) (Le Monde)
 
@@ -2463,10 +2485,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2653,8 +2671,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2684,10 +2700,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 
