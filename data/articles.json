@@ -1,8 +1,226 @@
 {
-  "last_updated": "2025-07-18 19:06",
-  "count_articles_total": 1248,
-  "count_articles_new": 11,
+  "last_updated": "2025-07-19 07:07",
+  "count_articles_total": 1267,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 23056,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Ancient Antarctic ice cores & is a sense of humour genetic?",
+      "description": "In this edition of The Naked Scientists: Scientists get their hands on the oldest ice on Earth, and we've been to see it, but what's it going to reveal? Also, measles is on the up, again; we find out why. And, is humour genetic? We talk to the scientist who h\u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/ancient-antarctic-ice-cores-sense-humour-genetic",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/images/Liz_cores_01.jpg?itok=CqJacBRx",
+      "publishedAt": "2025-07-18 03:13:11",
+      "content": "A shipment of ancient ice has arrived at the British Antarctic Survey in Cambridge, following its extraction from deep under East Antarctica. These ice cores are a bit like tree-rings: they contain a\u2026 [+8421 chars]",
+      "retrievedAt": "2025-07-19 07:07:30.954600",
+      "internal_id": "9a1ba7141f1a116a05b1e41caa600db10eebdd7d7e5e4978536d6f7003027ea0",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23055,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "In rural Canadian town, new risk of measles deepens vaccine tensions",
+      "description": "In the Canadian town of Aylmer, where Mennonites in traditional dress walk down the main street alongside secular locals, bitter divisions over vaccine skepticism that arose during Covid have intensified with the reemergence of measles. Canada, which official\u2026",
+      "url": "https://www.digitaljournal.com/world/in-rural-canadian-town-new-risk-of-measles-deepens-vaccine-tensions/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/07/c26851bdde5be6d83dfdb8c199d3f44d68b8951f.jpg",
+      "publishedAt": "2025-07-18 02:52:20",
+      "content": "A woman dressed in traditional Mennonite clothing walks through the downtown of Aylmer, Canada in July - Copyright AFP/File In the Canadian town of Aylmer, where Mennonites in traditional dress wal\u2026 [+4232 chars]",
+      "retrievedAt": "2025-07-19 07:07:30.945932",
+      "internal_id": "5c64f7aa83dc6f3c8f81b1a089347af1cd7ad75a6cea0f51a6d72f8fa1ab00f8",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23052,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Antony Black, The Conversation",
+      "title": "Measles Can Erase Your Immune System's Memory, Expert Says",
+      "description": "Blindness, pneumonia, severe diarrhoea and even death \u2013 measles virus infections, especially in children, can have devastating consequences.",
+      "url": "https://www.sciencealert.com/measles-can-erase-your-immune-systems-memory-expert-says",
+      "urlToImage": "https://www.sciencealert.com/images/2025/03/Measles-Virus.jpg",
+      "publishedAt": "2025-07-18 02:15:07",
+      "content": "Blindness, pneumonia, severe diarrhoea and even death measles virus infections, especially in children, can have devastating consequences. Fortunately, we have a safe and effective defence. Measles \u2026 [+4258 chars]",
+      "retrievedAt": "2025-07-19 07:07:30.890123",
+      "internal_id": "ec7f7c39758806494b0cc0bfacc583577b9fde8a6ed804d9eee28d52b9c300cf",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23053,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Ben Simon",
+      "title": "In Rural Canadian Town, New Risk Of Measles Deepens Vaccine Tensions",
+      "description": "In the Canadian town of Aylmer, where Mennonites in traditional dress walk down the main street alongside secular locals, bitter divisions over vaccine skepticism that arose during Covid have intensified with the reemergence of measles.",
+      "url": "https://www.ibtimes.com/rural-canadian-town-new-risk-measles-deepens-vaccine-tensions-3778823",
+      "urlToImage": "https://d.ibtimes.com/en/full/4611479/woman-dressed-traditional-mennonite-clothing-walks-through-downtown-aylmer-canada-july.jpg",
+      "publishedAt": "2025-07-18 01:45:26",
+      "content": "In the Canadian town of Aylmer, where Mennonites in traditional dress walk down the main street alongside secular locals, bitter divisions over vaccine skepticism that arose during Covid have intensi\u2026 [+4049 chars]",
+      "retrievedAt": "2025-07-19 07:07:30.906597",
+      "internal_id": "caf11857a21ad079e6663a8534e80707cb1085e895f1a228b4dbb29bcf447132",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23063,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue risk rises in Kathmandu amid ongoing rainfall",
+      "description": "KATHMANDU: With the onset of continuous monsoon rains, Kathmandu is witnessing a surge in dengue risk, prompting health authorities to issue a public advisory and ramp up preventive measures across all wards. According to Rishi Bhusal, the focal person for ep\u2026",
+      "url": "https://english.khabarhub.com/2025/18/486036/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-18 00:15:23",
+      "content": "KATHMANDU: With the onset of continuous monsoon rains, Kathmandu is witnessing a surge in dengue risk, prompting health authorities to issue a public advisory and ramp up preventive measures across a\u2026 [+907 chars]",
+      "retrievedAt": "2025-07-19 07:07:32.593876",
+      "internal_id": "45ab438a428115d1187525af44e8ac2e1ad5e5b1b6d58d8cc24279a1531e3f6c",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23054,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "The world is losing major ground in the fight against measles",
+      "description": "A wave of anti-vaccine sentiment has spurred measles outbreaks around the world, and could lead to outbreaks of other preventable illnesses",
+      "url": "https://www.newscientist.com/article/2488764-the-world-is-losing-major-ground-in-the-fight-against-measles/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/07/17195657/SEI_259309693.jpg",
+      "publishedAt": "2025-07-17 21:30:29",
+      "content": "A 7-year-old receiving an MMR vaccine in Texas, where a major outbreak of measles is occurring Jan Sonnenmair/Getty Images A child in the UK died from measles this month. A baby in Canada died from\u2026 [+5047 chars]",
+      "retrievedAt": "2025-07-19 07:07:30.916239",
+      "internal_id": "dabadd434c8891259070827e6411442fc98626f088cdc622f69c5db7b0bb1e3b",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23064,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Fromthespot.co.uk",
+      "author": "Rhys Webb, Rhys Webb",
+      "title": "Aitana Bonmat\u00ed \u201cgrateful\u201d to be preparing for quarter-finals after \u201cfrustrating\u201d meningitis hospitalisation",
+      "description": "Aitana Bonmat\u00ed revealed that she is \u201cgrateful\u201d to be part of Spain\u2019s squad as the World Champions prepare to face Switzerland in the UEFA Women\u2019s Euro 2025 quarter-finals, just weeks after sh...",
+      "url": "https://fromthespot.co.uk/20740/aitana-bonmati-grateful-to-be-preparing-for-quarter-finals-after-frustrating-meningitis-hospitalisation/",
+      "urlToImage": "https://fromthespot.co.uk/wp-content/uploads/2025/07/italy-v-spain-uefa-womens-euro-2025-group-b-scaled.webp",
+      "publishedAt": "2025-07-17 21:30:00",
+      "content": "Aitana Bonmat\u00ed revealed that she is \u201cgrateful\u201d to be part of Spain\u2019s squad as the World Champions prepare to face Switzerland in the UEFA Women\u2019s Euro 2025 quarter-finals, just weeks after she was ho\u2026 [+1665 chars]",
+      "retrievedAt": "2025-07-19 07:07:33.133245",
+      "internal_id": "f66ec43663f2176d8ea33e8a1f16e46572e81592b9ea66da66a6469401c2fe6a",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23058,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDRB",
+      "author": "Dalton Godbey",
+      "title": "Louisville health officials urge vaccines after measles exposure at Kroger in PRP",
+      "description": "The measles virus can remain in the air for up to two hours after an infected person leaves an area.",
+      "url": "https://www.wdrb.com/news/louisville-health-officials-urge-vaccines-after-measles-exposure-at-kroger-in-prp/article_16ac0a49-94d8-4bb1-b2c4-7e31c05c15b8.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/0/3b/03b5518c-c9af-11e9-bc9c-dfcba3a3246b/5d66a89104bfd.image.jpg?crop=800%2C420%2C0%2C58",
+      "publishedAt": "2025-07-17 21:08:45",
+      "content": "LOUISVILLE, Ky. (WDRB) -- Public health officials in Louisville are reminding people about the importance of the MMR (measles, mumps, rubella) vaccine following a confirmed case in a Louisville boy t\u2026 [+2700 chars]",
+      "retrievedAt": "2025-07-19 07:07:31.082062",
+      "internal_id": "d2a679052934d17c9cece520b397cf553e7cf001fd59764b5cb3e1f485331978",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23062,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Repelente para crian\u00e7as: tudo que voc\u00ea precisa saber para proteger seu filho",
+      "description": "Cr\u00e9dito: Divulga\u00e7\u00e3o Com a chegada do calor e da temporada de chuvas, cresce tamb\u00e9m a preocupa\u00e7\u00e3o com o mosquito Aedes aegypti, respons\u00e1vel pela transmiss\u00e3o de dengue, zika e chikungunya. Para quem tem filhos, essa preocupa\u00e7\u00e3o fica ainda maior. Por isso, esco\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2025/07/17/repelente-para-criancas-tudo-que-voce-precisa-saber-para-proteger-seu-filho.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/zkUh12H6LuEDJivfHE-6BL2OqDM=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/E/qMiBDCTkG5wtfIFZztGA/20-5-.png",
+      "publishedAt": "2025-07-17 20:07:42",
+      "content": "Com a chegada do calor e da temporada de chuvas, cresce tamb\u00e9m a preocupa\u00e7\u00e3o com o mosquito Aedes aegypti, respons\u00e1vel pela transmiss\u00e3o de dengue, zika e chikungunya. Para quem tem filhos, essa preoc\u2026 [+5823 chars]",
+      "retrievedAt": "2025-07-19 07:07:32.563192",
+      "internal_id": "8d105e38e694bdc85e6cdb09590cb677d08864805614d403ba58a87ea9ba48e8",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23061,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Mulher de 36 anos morre por dengue em Campinas, e total de \u00f3bitos pela doen\u00e7a chega a 21 em 2025",
+      "description": "Dengue Carlos Bassan/Prefeitura de Campinas A Prefeitura de Campinas (SP) confirmou, nesta quinta-feira (17), mais quatro mortes por dengue em 2025, o que elevou o total de \u00f3bitos pela doen\u00e7a para 21 neste ano. Entre as v\u00edtimas est\u00e1 uma mulher de 36 anos que \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/17/dengue-campinas-confirma-mais-quatro-mortes-pela-doenca-e-chega-a-21-em-2025.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/C-yp1qEJoOP1mSpxH7QMELMnLBw=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/13607937.jpg",
+      "publishedAt": "2025-07-17 19:49:35",
+      "content": "Homem, 86 anos, com outras doen\u00e7as (comorbidades). Ele foi atendido na rede particular e morava na \u00e1rea do Centro de Sa\u00fade (CS) Eulina. O in\u00edcio dos sintomas ocorreu em 26 de maio e a morte f\u2026 [+3387 chars]",
+      "retrievedAt": "2025-07-19 07:07:32.552542",
+      "internal_id": "afabf44c82518329cc767e11b126adbc745e8c3ea23741138ba30557d75c108e",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23057,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "laser-measles 0.7.2.dev0",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.7.2.dev0/",
+      "urlToImage": null,
+      "publishedAt": "2025-07-17 19:37:46",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-07-19 07:07:30.970776",
+      "internal_id": "762482ae5ffe03a0fcb748e0d17319efe380dcc9e7c23dad0c7b5e227b29429d",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23060,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina da dengue \u00e9 segura? Saiba tudo sobre a preven\u00e7\u00e3o e tire suas d\u00favidas",
+      "description": "Cr\u00e9dito: Divulga\u00e7\u00e3o Se voc\u00ea acompanha as not\u00edcias, j\u00e1 deve ter visto que os casos de dengue dispararam nos \u00faltimos anos. E junto com essa preocupa\u00e7\u00e3o, tamb\u00e9m surgem muitas d\u00favidas sobre preven\u00e7\u00e3o e principalmente sobre a vacina. Muita gente quer saber: a vac\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2025/07/17/vacina-da-dengue-e-segura-saiba-tudo-sobre-a-prevencao-e-tire-suas-duvidas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/4HEGNUuYQ9XmZdqRKi0LVFK_Yu4=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/G/szr2mRTYAne9EYu3Cvxw/22-3-.png",
+      "publishedAt": "2025-07-17 19:30:01",
+      "content": "Neste artigo, vamos esclarecer essas quest\u00f5es de forma simples algumas d\u00favidas frequentes para que voc\u00ea entenda por que \u00e9 importante continuar cuidando da preven\u00e7\u00e3o no dia a dia, mesmo que esteja vac\u2026 [+5401 chars]",
+      "retrievedAt": "2025-07-19 07:07:32.529184",
+      "internal_id": "0cfcec63c2288e146fcbc84e2f4b15c9be76f4677b02286a85d7ef759621f4bc",
+      "publishedAtLabel": "Jul 17"
+    },
     {
       "id": 23043,
       "query": [
@@ -199,6 +417,24 @@
       "content": "Martha Martin has to use up all of her remaining vacation days for the year to stay home with her infant son, and it still wont be enough. Nine-month-old Hal was recently exposed to measles at day \u2026 [+3710 chars]",
       "retrievedAt": "2025-07-18 19:06:40.826175",
       "internal_id": "5cbac40474cce5e7b1938c4b6f2df649cc10209a66a218a5e38cee693d367587",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 23059,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jazlyn Whales",
+      "title": "Wairarapa measles outbreak spreads to Manawat\u016b, 3 new cases confirmed",
+      "description": "The outbreak remains connected to an initial three cases.",
+      "url": "https://www.nzherald.co.nz/nz/wairarapa-measles-outbreak-spreads-to-manawatu-3-new-cases-confirmed/VX3AY6YLIFCZ3FL4GGWREBWCUU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NPGJGUCFJVH43BSITLWQUCMZUI.jpg?auth=e06f19ccf9fe585f4effb0c3bf4e0e8bb410de37f9e92af992acead5c2e8c892&width=1200&height=675&quality=70&focal=1053%2C814&smart=false",
+      "publishedAt": "2025-07-17 07:43:33",
+      "content": "The ministry says all the cases are connected to the initial Wairarapa outbreak at the start of July, which was linked to international travel. Everyone had gone into quarantine but one person was \u2026 [+3479 chars]",
+      "retrievedAt": "2025-07-19 07:07:31.105257",
+      "internal_id": "31e075a7050f4f179e3f0b630d65649901745084faf3df8e60e8d0de2780e32a",
       "publishedAtLabel": "Jul 17"
     },
     {
@@ -22529,6 +22765,114 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": "VRT NWS",
+      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
+      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
+      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
+      "publishedAt": "2025-06-01 18:58:02",
+      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.962760",
+      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "vea",
+      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
+      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-06-01 17:49:28",
+      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
+      "retrievedAt": "2025-06-02 19:06:02.971288",
+      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Sarika N",
+      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
+      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
+      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
+      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2025-06-01 10:08:43",
+      "content": "",
+      "retrievedAt": "2025-06-02 19:06:01.040343",
+      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Publiko gipahimangnoan kalabot sa MPOX",
+      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
+      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
+      "publishedAt": "2025-06-01 07:28:44",
+      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.693619",
+      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
+      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
+      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
+      "publishedAt": "2025-06-01 07:25:31",
+      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.587795",
+      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
+      "publishedAtLabel": "Jun 1"
+    },
+    {
+      "id": 21802,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 - \u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03ba\u03b9\u03bd\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
+      "description": "\u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 3.300 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 16 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u039d\u03ad\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03a6\u03c1\u03b9\u03c4\u03ac\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae 20.000 \u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd | \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-06-01/mpox.jpg",
+      "publishedAt": "2025-06-01 07:09:29",
+      "content": "mpox , , .\u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , ., 42.872 , . mpox, , , . , 1970, .2022 , . 2024 mp\u2026 [+31 chars]",
+      "retrievedAt": "2025-06-02 19:06:03.663173",
+      "internal_id": "f58eabf0a0a2aca79b9ecb511202393065c365002db8b779f3de288e7425fe28",
       "publishedAtLabel": "Jun 1"
     }
   ]
