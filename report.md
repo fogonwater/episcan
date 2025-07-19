@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-07-19 07:07
-- **Most recent article:** 2025-07-18 03:13:11
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-07-19 19:05
+- **Most recent article:** 2025-07-18 18:39:14
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-23 | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 90 | 48 | 31 | 53 | 36 | 114 | 59 | 431 |
+| measles | 89 | 48 | 31 | 53 | 36 | 114 | 59 | 430 |
 | dengue | 25 | 14 | 17 | 26 | 24 | 34 | 23 | 163 |
-| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 18 | 135 |
-| malaria | 16 | 19 | 23 | 13 | 21 | 29 | 9 | 130 |
+| chikungunya | 21 | 13 | 13 | 20 | 10 | 40 | 19 | 136 |
+| malaria | 14 | 19 | 23 | 13 | 21 | 29 | 9 | 128 |
 | meningitis | 2 | 4 | 1 | 35 | 41 | 7 | 6 | 96 |
-| mpox | 13 | 24 | 11 | 27 | 10 | 6 | 5 | 96 |
-| rabies | 6 | 6 | 19 | 5 | 17 | 17 | 1 | 71 |
+| mpox | 10 | 24 | 11 | 27 | 10 | 6 | 6 | 94 |
+| rabies | 6 | 6 | 19 | 5 | 17 | 17 | 3 | 73 |
 | yersinia | 6 | 3 | 0 | 0 | 0 | 43 | 5 | 57 |
 | zika | 7 | 2 | 14 | 2 | 8 | 12 | 7 | 52 |
-| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 6 | 48 |
+| h5n1 | 8 | 5 | 9 | 3 | 8 | 9 | 9 | 51 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 3 | 9 | 20 |
 | hpai | 3 | 1 | 1 | 0 | 4 | 3 | 2 | 14 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 0 | 4 | 12 |
@@ -83,6 +83,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (rabies)
 
+- [Coventry to host emergency rabies clinic after discovery of rabid cat](https://www.providencejournal.com/story/news/local/2025/07/18/rabid-cat-prompts-emergency-rabies-clinic-in-coventry/85276285007/) (The Providence Journal)
+
+- [Enhanced rabies surveillance in roadkill specimens by real-time RT-PCR](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013348) (Plos.org)
+
 - [Rabies Fear Grips Kathmandu: Worried About Dog Bites & Rabies? What You Need to Know for Safety!](https://nep123.com/rabies-fear-grips-kathmandu-worried-about-dog-bites-rabies-what-you-need-to-know-for-safety/) (Nep123.com)
 
 ## 25-29 (pertussis)
@@ -96,6 +100,8 @@ Source: [News API](https://newsapi.org/)
 - [Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated – WHO, UNICEF](https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef) (World Health Organization)
 
 ## 25-29 (mpox)
+
+- ['Crisis of Disrupted Care': Nearly 800,000 Mpox Vaccines Meant for Africa Wasted Due to Trump USAID Cuts](https://www.commondreams.org/news/mpox-vaccines-wasted-africa-trump) (Common Dreams)
 
 - [Level 2 - Clade II Mpox in Sierra Leone](https://wwwnc.cdc.gov/travel/notices/level2/mpox-sierra-leone) (Cdc.gov)
 
@@ -269,6 +275,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (h5n1)
 
+- [Una granja de pavos en Badajoz declara un brote de gripe aviar tras dos años sin casos en España](https://www.libertaddigital.com/ciencia-tecnologia/salud/2025-07-18/una-granja-de-pavos-en-badajoz-declara-un-brote-de-gripe-aviar-tras-dos-anos-sin-casos-en-espana-7278248/) (Libertaddigital.com)
+
+- [Alerta por gripe aviar en una granja de pavos en Ahillones (Badajoz)](https://www.huffingtonpost.es/life/salud/alerta-gripe-aviar-granja-pavos-ahillones-badajozbr.html) (Huffingtonpost.es)
+
+- [Declarado un foco de gripe aviar en una granja de pavos de Badajoz](https://www.elmundo.es/economia/2025/07/18/687a3eec21efa09f538b4594.html) (El Mundo)
+
 - [Распространение птичьего гриппа в Европе может быть связано с перелетами лебедей-шипунов](https://tass.ru/mezhdunarodnaya-panorama/24543299) (Tass.ru)
 
 - [Multidisciplinary Tracking of Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Griffon Vultures, Southern Europe, 2022](https://wwwnc.cdc.gov/eid/article/31/8/24-1456_article) (Cdc.gov)
@@ -330,6 +342,8 @@ Source: [News API](https://newsapi.org/)
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
+
+- [Tropikalny wirus w Europie. Czy grozi nam epidemia? Ekspertka: "W Polsce już są przypadki gorączki"](https://zdrowie.natemat.pl/615959,tropikalny-wirus-w-europie-ekspertka-w-polsce-sa-juz-przypadki) (Natemat.pl)
 
 - [Repelente para crianças: tudo que você precisa saber para proteger seu filho](https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2025/07/17/repelente-para-criancas-tudo-que-voce-precisa-saber-para-proteger-seu-filho.ghtml) (Globo)
 
@@ -2515,12 +2529,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Prioritize patients with mpox symptoms – DOH to hospitals](https://rpnradio.com/bacolod-prioritize-patients-with-mpox-symptoms-doh-to-hospitals/) (Rpnradio.com)
 
-- [Publiko gipahimangnoan kalabot sa MPOX](https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/) (Rpnradio.com)
-
-- [Διεθνή βοήθεια για να ανακόψει την εξάπλωση της επιδημίας mpox ζητά η Σιέρα Λεόνε](https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone) (Skai.gr)
-
-- [Σιέρα Λεόνε - Θερίζει η ευλογιά των πιθήκων: συναγερμός για την εξάπλωση και διεθνής κινητοποίηση](https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/) (Protothema.gr)
-
 ## 25-23 (meningitis)
 
 - [Carlos Jaramillo, médico: «No es normal necesitar un café para arrancar el día»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/vida-saludable/2025/06/02/carlos-jaramillo-medico-funcional-normal-necesitar-cafe-arrancar-dia/00031748874576436458909.htm) (Lavozdegalicia.es)
@@ -2707,8 +2715,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles outbreak: 3 more cases tied to Turkish Airlines flight](http://coloradosun.com/2025/06/01/colorado-measles-outbreak-turkish-airlines-denver-international-airport/) (The Colorado Sun)
 
-- [Measles: നിങ്ങളുടെ കുഞ്ഞിന് വിട്ടുമാറാത്ത പനിയും ജലദോഷവും ഉണ്ടോ? അഞ്ചാം പനി നിസാരക്കാരനല്ല](https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html) (News18)
-
 ## 25-23 (malaria)
 
 - [South Sudan deportations have placed migrants, and ICE officials, in danger: new court filing](https://www.foxnews.com/politics/south-sudan-deportations-have-placed-migrants-ice-officials-danger-new-court-filing) (Fox News)
@@ -2738,10 +2744,6 @@ Source: [News API](https://newsapi.org/)
 - [Net als Jef Neve lopen steeds meer Belgen malaria op: hoe gevaarlijk is de ziekte? En hoe voorkom je een besmetting?](https://www.vrt.be/vrtnws/nl/2025/06/02/malaria-aantal-gevallen-dodelijk-belgie-jef-neve/) (Www.vrt.be)
 
 - [Componist Jef Neve opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.standaard.be/binnenland/componist-jef-neve-opgenomen-in-ziekenhuis-met-malaria-ik-ben-in-goede-handen/69682111.html) (Standaard.be)
-
-- [Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia](https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/) (Www.vrt.be)
-
-- [Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: “Ik ben in goede handen”](https://www.nieuwsblad.be/cnt/dmf20250601_96417729) (Nieuwsblad.be)
 
 ## 25-23 (leptospirosis)
 

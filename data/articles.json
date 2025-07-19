@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-07-19 07:07",
-  "count_articles_total": 1267,
-  "count_articles_new": 13,
+  "last_updated": "2025-07-19 19:05",
+  "count_articles_total": 1268,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 23065,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Providence Journal",
+      "author": "Jack Perry, Providence Journal",
+      "title": "Coventry to host emergency rabies clinic after discovery of rabid cat",
+      "description": "Coventry Animal Control is hosting an emergency rabies clinic for pets after a feral cat was found to be rabid last week.",
+      "url": "https://www.providencejournal.com/story/news/local/2025/07/18/rabid-cat-prompts-emergency-rabies-clinic-in-coventry/85276285007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Idn_4tpvzirEOLiAGiVrQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTg7Y2Y9d2VicA--/https://media.zenfs.com/en/the-providence-journal/fd4804ad700cef49b0357bc6a0c48c0d",
+      "publishedAt": "2025-07-18 18:39:14",
+      "content": "COVENTRY Coventry Animal Control is hosting an emergency rabies clinic for pets after a feral cat was found to be rabid last week. The clinic will be from 6 to 7 p.m. on July 30 at the Coventry Town\u2026 [+1110 chars]",
+      "retrievedAt": "2025-07-19 19:05:50.241550",
+      "internal_id": "0d8351a40486f7a902beb277900bdd2dd77fbaf1a120b37d93bd45a459766fd6",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23071,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Common Dreams",
+      "author": "Stephen Prager",
+      "title": "'Crisis of Disrupted Care': Nearly 800,000 Mpox Vaccines Meant for Africa Wasted Due to Trump USAID Cuts",
+      "description": "Nearly 800,000 doses of the mpox vaccine, which were initially promised to fight the epidemic in Africa, are set to go to waste due to Trump's cuts to the U.S. Agency for International Development.According to Politico, which quotes the Africa Centres for Dis\u2026",
+      "url": "https://www.commondreams.org/news/mpox-vaccines-wasted-africa-trump",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=61243273&width=1200&height=600&coordinates=0%2C83%2C0%2C83",
+      "publishedAt": "2025-07-18 15:06:40",
+      "content": "Nearly 800,000 doses of the mpox vaccine, which were initially promised to fight the epidemic in Africa, are set to go to waste due to Trump's cuts to the U.S. Agency for International Development. \u2026 [+5241 chars]",
+      "retrievedAt": "2025-07-19 19:05:53.736236",
+      "internal_id": "e4ca9e660489dc52404ce13841345fe6c302ed479d576cb2f0d39e7fd6c53b0f",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23068,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Libertad Digital",
+      "title": "Una granja de pavos en Badajoz declara un brote de gripe aviar tras dos a\u00f1os sin casos en Espa\u00f1a",
+      "description": "Adem\u00e1s, se han recogido otros dos focos de influenza aviar en aves silvestres en Extremadura.",
+      "url": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2025-07-18/una-granja-de-pavos-en-badajoz-declara-un-brote-de-gripe-aviar-tras-dos-anos-sin-casos-en-espana-7278248/",
+      "urlToImage": "https://s.libertaddigital.com/2025/07/18/1200/627/ld/pavos-granja-avicola.jpg",
+      "publishedAt": "2025-07-18 14:22:58",
+      "content": "Las autoridades de sanidad y producci\u00f3n animal han detectado un foco de gripe aviar de alta patogenicidad, serotipo H5N1, en aves de corral en una granja del t\u00e9rmino municipal de Ahillones (Badajoz);\u2026 [+2259 chars]",
+      "retrievedAt": "2025-07-19 19:05:51.410078",
+      "internal_id": "2ad2586dfe99fce8ec0e99331e1425dd6dbf809719ddcc4b3743675f1c02d03c",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23066,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Crystal M. Gigante, Claire Hartloge, Rene Edgar Condori, Jordona D. Kirby, Lauren Hovis, Kathleen M. Nelson, Ryan Wallace, Yu Li, Richard B. Chipman",
+      "title": "Enhanced rabies surveillance in roadkill specimens by real-time RT-PCR",
+      "description": "Author summary Roadkills represent potential unrealized samples for detecting and monitoring diseases in wildlife. However, roadkills are often in poor condition, which can affect test results. In this study, a PCR test (LN34 assay) was able to detect rabies \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013348",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013348.g005&size=inline",
+      "publishedAt": "2025-07-18 14:00:00",
+      "content": "Abstract Roadkill specimens are an important source of samples for enhanced rabies surveillance (ERS) in areas where other methods of sample collection may not be practical. However, the physical co\u2026 [+51150 chars]",
+      "retrievedAt": "2025-07-19 19:05:50.262110",
+      "internal_id": "1b573f976d7d2099115526306938d5be1419f05aae2b19c47a5f802b7baa1f45",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23067,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "EFE",
+      "title": "Alerta por gripe aviar en una granja de pavos en Ahillones (Badajoz)",
+      "description": "Las autoridades de sanidad y producci\u00f3n animal han detectado un foco de gripe aviar de alta patogenicidad, serotipo H5N1, en aves de corral en una granja del t\u00e9rmino municipal de Ahillones (Badajoz) y fuentes municipales han confirmado que se trat\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/alerta-gripe-aviar-granja-pavos-ahillones-badajozbr.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/06/07/cientifica-con-muestras-de-gripe-aviar.jpeg",
+      "publishedAt": "2025-07-18 12:43:34",
+      "content": "Las autoridades de sanidad y producci\u00f3n animal han detectado un foco de gripe aviar de alta patogenicidad, serotipo H5N1, en aves de corral en una granja del t\u00e9rmino municipal de Ahillones (Badajoz) \u2026 [+3797 chars]",
+      "retrievedAt": "2025-07-19 19:05:51.378336",
+      "internal_id": "e11edf0feebb4f584213b81a4e4ed1258034934ea4bf294d3fe67c333c446977",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23069,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "David Vigario",
+      "title": "Declarado un foco de gripe aviar en una granja de pavos de Badajoz",
+      "description": "Las autoridades de Sanidad y Producci\u00f3n Animal han comunicado oficialmente hoy que han detectado un foco de gripe aviar de alta patogenicidad, del serotipo H5N1, en aves de corral...",
+      "url": "https://www.elmundo.es/economia/2025/07/18/687a3eec21efa09f538b4594.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/2265b9c460c990e40740356864eef638/crop/0x13/680x467/f/webp/assets/multimedia/imagenes/2025/07/18/17528421972204.jpg",
+      "publishedAt": "2025-07-18 12:38:10",
+      "content": "Las autoridades de Sanidad y Producci\u00f3n Animal han comunicado oficialmente hoy que han detectado un foco de gripe aviar de alta patogenicidad, del serotipo H5N1, en aves de corral en una granja del t\u2026 [+973 chars]",
+      "retrievedAt": "2025-07-19 19:05:51.419410",
+      "internal_id": "84927f992bf10c0cd106d32073a1192c719d2ed47c6c9b458254149d0e534f65",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 23070,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Natemat.pl",
+      "author": "Dorota Szadkowska",
+      "title": "Tropikalny wirus w Europie. Czy grozi nam epidemia? Ekspertka: \"W Polsce ju\u017c s\u0105 przypadki gor\u0105czki\"",
+      "description": "Tysi\u0105ce zaka\u017ce\u0144 na wyspie Reunion to jeszcze nie koniec. Wirus chikungunya przeni\u00f3s\u0142 si\u0119 ju\u017c do kontynentalnej Francji. Co z Polsk\u0105? O komentarz poprosili\u015bmy prof. dr hab. med. Katarzyn\u0119 Sikorsk\u0105 z Krajowego O\u015brodka Medycyny Tropikalnej. Ekspertka wskaza\u0142a na\u2026",
+      "url": "https://zdrowie.natemat.pl/615959,tropikalny-wirus-w-europie-ekspertka-w-polsce-sa-juz-przypadki",
+      "urlToImage": "https://m.natemat.pl/63f2d49e5414de4285b1018953dc2503,1200,0,0,0.jpg",
+      "publishedAt": "2025-07-18 10:42:01",
+      "content": "Daj napiwek autorowi Daj napiwek autorowi Wirusy s nieprzewidywalne, nigdy nie wiadomo, gdzie i kiedy si uaktywni. Na Reunion, francuskiej wyspie u wschodnich wybrzey Afryki, odnotowano w tym rok\u2026 [+5449 chars]",
+      "retrievedAt": "2025-07-19 19:05:53.305359",
+      "internal_id": "36d169f584b53dd4b7df6e97535065332d51ef9cc9fa180671a8874d6b808efe",
+      "publishedAtLabel": "Jul 18"
+    },
     {
       "id": 23056,
       "query": [
@@ -22765,114 +22891,6 @@
       "content": "Helaas, geveld voor de allereerste keer in mijn carri\u00e8re ga ik het podium vanavond niet kunnen bestijgen in LantarenVenster met mijn maatje Teus Nobel. Zo kondigde de componist gisteren aan. Nu is \u2026 [+849 chars]",
       "retrievedAt": "2025-06-03 07:07:57.994161",
       "internal_id": "25b3f468be8c0d7cc9bb7aa608eb86fe12ced193db14c6a0ac8d1d3324e2c35b",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21799,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.vrt.be",
-      "author": "VRT NWS",
-      "title": "Jazzmuzikant Jef Neve opgenomen met malaria in UZ Gent na benefietreis in Kenia",
-      "description": "Pianist Jef Neve is met malaria opgenomen in het UZ Gent. De muzikant uit Aalter heeft de ziekte opgelopen tijdens een benefietreis in Kenia. Dat laat hij zelf weten via Instagram. Door de ziekte kon Neve afgelopen vrijdag niet optreden in Rotterdam.",
-      "url": "https://www.vrt.be/vrtnws/nl/2025/06/01/jef-neve-uz-gent-malaria/",
-      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/08/27/439d7de4-da38-441b-bf1e-71f9dc691353.jpg",
-      "publishedAt": "2025-06-01 18:58:02",
-      "content": "Wat is malaria Malaria is een infectieziekte die wordt veroorzaakt door een parasiet. Muggen geven de ziekte door wanneer ze bloed drinken. De symptomen doen in het begin aan griep denken, maar wor\u2026 [+213 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.962760",
-      "internal_id": "1e52c8bd89dab79abf1cd9ff4ad82ba48ead0366f36334928975d9eedb593c1e",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21800,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "vea",
-      "title": "Componist Jef Neve (48) opgenomen in ziekenhuis met malaria: \u201cIk ben in goede handen\u201d",
-      "description": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in Rotterdam. Maar dat optreden kon wegens ziekte niet doorgaan.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20250601_96417729",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/06/01/33e19dfe-42e8-4d2e-8f93-4bc805d8fb8d.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2025-06-01 17:49:28",
-      "content": "Jef Neve (48) is opgenomen in het UZ Gent met malaria. Dat laat de componist weten op zijn sociale media. Hij zou normaal gezien gisteren samen met de Nederlandse Jazz Artist Teus Nobel optreden in R\u2026 [+1121 chars]",
-      "retrievedAt": "2025-06-02 19:06:02.971288",
-      "internal_id": "25cf4828d5fcf34dfd55fd08a1625b8d8613397bcefbded395785746d4c2cc92",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21798,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Sarika N",
-      "title": "Measles: \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d3f\u0d28\u0d4d \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d3e\u0d31\u0d3e\u0d24\u0d4d\u0d24 \u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d35\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d4b? \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d02 \u0d2a\u0d28\u0d3f \u0d28\u0d3f\u0d38\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32",
-      "description": "\u0d05\u0d38\u0d41\u0d16\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d12\u0d30\u0d3e\u0d33\u0d41\u0d1f\u0d46 \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d4d\u0d30\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4b \u0d1a\u0d41\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d24\u0d41\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d34\u0d41\u0d02 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d15\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d34\u0d3f\u0d2f\u0d4b \u0d30\u0d4b\u0d17\u0d2a\u0d4d\u0d2a\u0d15\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d3e\u0d02",
-      "url": "https://malayalam.news18.com/photogallery/life/health-measles-causes-symptoms-and-treatment-things-to-keep-in-mind-srn-726405.html",
-      "urlToImage": "https://images.news18.com/malayalam/uploads/2025/06/Measles-causes-symptoms-1-2025-06-55fe69cb9b592621dd0231f9132c7d2e-3x2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2025-06-01 10:08:43",
-      "content": "",
-      "retrievedAt": "2025-06-02 19:06:01.040343",
-      "internal_id": "b0ab17931134159354f9695e8a9b3934f23555e090a8b0ab7d376147d8753d6c",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21803,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Regional News",
-      "title": "Publiko gipahimangnoan kalabot sa MPOX",
-      "description": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao. Matud ni Mayor Klarex nga angay sundon sa katawhan ang pahimangno sa City Health Office (CHO), apan gipasabot u\u2026",
-      "url": "https://rpnradio.com/publiko-gipahimangnoan-kalabot-sa-mpox/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/06/503334786_699011549543312_8993648050636458109_n-1.jpg",
-      "publishedAt": "2025-06-01 07:28:44",
-      "content": "GIPAHINUMDOMAN ni Mayor Klarex Uy ang katawhan sa pag-amping aron malikay nga matakdan sa Monkey Pox nga karon nasinati sa ubang dapit sa Mindanao.Matud ni Mayor Klarex nga angay sundon sa katawhan a\u2026 [+672 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.693619",
-      "internal_id": "555b88304f285be7749f2c305a10ea95b243d7ea8d3ab64a345f97a4860559c2",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21801,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 mpox \u03b6\u03b7\u03c4\u03ac \u03b7 \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5",
-      "description": "\u0391\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03c5\u03bd \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03cc\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9",
-      "url": "https://www.skai.gr/news/world/diethni-voitheia-gia-na-anakopsei-tin-epidimia-mpox-zita-i-siera-leone",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-06/mpox-ap.jpg?itok=OKtuzx5x",
-      "publishedAt": "2025-06-01 07:25:31",
-      "content": "mpox , , . \u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , . , 42.872 , . mpox, , , . , 1970, . 2\u2026 [+74 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.587795",
-      "internal_id": "85abfe6edd89e926ef8bfa1e0c9314c0fe965425806eafc41a01ad93dfaebcf6",
-      "publishedAtLabel": "Jun 1"
-    },
-    {
-      "id": 21802,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 - \u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03ba\u03b9\u03bd\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
-      "description": "\u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 3.300 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 16 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u039d\u03ad\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03a6\u03c1\u03b9\u03c4\u03ac\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae 20.000 \u03b4\u03cc\u03c3\u03b5\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd | \u03a3\u03b9\u03ad\u03c1\u03b1 \u039b\u03b5\u03cc\u03bd\u03b5 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1648284/siera-leone-therizei-i-eulogia-ton-pithikon-sunagermos-gia-tin-exaplosi-kai-diethnis-kinitopoiisi/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-06-01/mpox.jpg",
-      "publishedAt": "2025-06-01 07:09:29",
-      "content": "mpox , , .\u00ab ( ) . mpox \u00bb, . \u00ab 24 24 . , \u00bb, . . , 3.350 . , 1.779 , 16 , AFP. , 23 , 3.011 14 . . mpox, 400 , . \u00ab \u00bb , . . , . \u00ab\u00bb / \u00ab \u00bb, , , ., 42.872 , . mpox, , , . , 1970, .2022 , . 2024 mp\u2026 [+31 chars]",
-      "retrievedAt": "2025-06-02 19:06:03.663173",
-      "internal_id": "f58eabf0a0a2aca79b9ecb511202393065c365002db8b779f3de288e7425fe28",
       "publishedAtLabel": "Jun 1"
     }
   ]
