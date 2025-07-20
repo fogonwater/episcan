@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-07-20 07:06",
-  "count_articles_total": 1088,
-  "count_articles_new": 8,
+  "last_updated": "2025-07-20 19:05",
+  "count_articles_total": 1090,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 23082,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0413\u0440\u0430\u0444\u0441\u043a\u0430\u044f",
+      "title": "\u041c\u0443\u0445\u0438 \u043e\u043a\u0430\u0437\u0430\u043b\u0438\u0441\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u043c\u0438 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410\u043d\u0447\u0430 \u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0430, \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043b\u043e\u0433 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0414\u0436\u043e\u0440\u0434\u0436\u0430 \u041c\u0435\u0439\u0441\u043e\u043d\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u0432 \u0441\u0432\u043e\u0435\u043c Telegram\u2011\u043a\u0430\u043d\u0430\u043b\u0435, \u0447\u0442\u043e \u043e\u0431\u044b\u0447\u043d\u044b\u0435 \u043c\u0443\u0445\u0438 \u043c\u043e\u0433\u0443\u0442 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442\u044c \u0447\u0430\u0441\u0442\u0438\u0446\u044b \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043d\u0430 \u043b\u0430\u043f\u043a\u0430\u0445. \u041f\u043e \u0441\u043b\u043e\u0432\u0430\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u044b, \u044d\u0442\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0438\u0440\u0443\u0441\u0443 \u043f\u0443\u0442\u044c \u043a \u0431\u043e\u043b\u0435\u0435 \u2026",
+      "url": "https://lenta.ru/news/2025/07/19/muhi-okazalis-vozmozhnymi-perenoschikami-ptichiego-grippa-h5n1/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/07/19/20/20250719202725768/share_993ed41b041d2f7a67e221195c0e71bb.jpg",
+      "publishedAt": "2025-07-19 17:33:31",
+      "content": ", , Telegram, H5N1 . , , . , , . : , , . . H5N1 , . H5N1 . : , , \u00ab\u00bb .",
+      "retrievedAt": "2025-07-20 19:05:51.176276",
+      "internal_id": "292ff6c34593417846b053c2aff2add55166becb0c850b486b316ac0d5b75b2a",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23080,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Kirk Swearingen",
+      "title": "Why MAGA hates science so much",
+      "description": "Billionaires hate the rest of us \u2014 and Trump's loyalists would rather suffer, even die, than face the truth",
+      "url": "https://www.salon.com/2025/07/19/why-maga-hates-science-so-much/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/01/donald_trump_robert_f_kennedy_jr_harm_reduction_syringes_sharps_bin_1695225720.jpg",
+      "publishedAt": "2025-07-19 13:00:07",
+      "content": "Against all the evidence of horrific, devastating weather around us, climate change is still a hoax. A measles outbreak sparked by anti-vaccineconspiracy theorists now extends beyond Texas to 34 stat\u2026 [+9608 chars]",
+      "retrievedAt": "2025-07-20 19:05:50.566800",
+      "internal_id": "e6298255ffa5bc20cdee86c3c7c5969fc5a1783a03aafd549d8a57e71b5d20cd",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23081,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "At-risk Albertans mindful of summer plans as measles cases climb",
+      "description": "As the measles outbreak grows in Alberta, some who are vulnerable are taking extra precautions as summer events kick into high gear.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/at-risk-albertans-mindful-of-summer-plans-as-measles-cases-climb-1.7588156",
+      "urlToImage": "https://i.cbc.ca/1.7588157.1752859277!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/carla-jacobson.JPG?im=Resize%3D620",
+      "publishedAt": "2025-07-19 12:00:00",
+      "content": "As a measles outbreak grows in Alberta, some who are vulnerable are taking extra precautions as summer events kick into high gear. Carla Jacobson lives in Edmonton and has four children, including a\u2026 [+3952 chars]",
+      "retrievedAt": "2025-07-20 19:05:50.655664",
+      "internal_id": "204c1600c5ebf4dce838a59dc5fbc6eed765410ce611322cc7ee329c8f787ad9",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23084,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: Gesundheit - Florian Schumann",
+      "title": "Chikungunya: Tut sehr weh, gibt es bald auch in Deutschland",
+      "description": "Schmerzen, die manchmal nicht mehr weggehen: Deutschland steht vor der ersten Chikungunya-\u00dcbertragung durch die Tigerm\u00fccke. Was mit der Tropenkrankheit auf uns zukommt.",
+      "url": "https://www.zeit.de/gesundheit/2025-07/chikungunya-fieber-tropenkrankheit-muecken-virus-impfung",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-07/chikungunya-fieber-tropenkrankheit-muecken-virus-impfung-labor/wide__1300x731",
+      "publishedAt": "2025-07-19 10:11:05",
+      "content": "Schlie\u00dfen Artikelzusammenfassung Chikungunya, eine Tropenkrankheit, die vor 70 Jahren in Tansania entdeckt wurde, k\u00f6nnte nun auch Deutschland erreichen. Die Asiatische Tigerm\u00fccke, \u00dcbertr\u00e4ger des Ch\u2026 [+682 chars]",
+      "retrievedAt": "2025-07-20 19:05:52.817895",
+      "internal_id": "82018b6570ddf06f8fbc01bebc366bef982d85dd8ca90fdd3d37d0b175afae20",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "karakol",
+      "title": "La ignorancia e incompetencia de Rober Kennedy Jr. puede llevar al mundo a otra pandemia",
+      "description": "El secretario de Salud y Servicios Humanos, Robert F. Kennedy Jr., y la secretaria de Agricultura, Brooke Rollins, ambos colocados en su puesto por Donald Trump, tienen una idea: permitir que el virus H5N1, responsable de la actual epidemia de gripe aviar, se\u2026",
+      "url": "https://www.meneame.net/m/ciencia/ignorancia-incompetencia-rober-kennedy-jr-puede-llevar-mundo",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4079064&version=0&ts=1752909726&image.webp",
+      "publishedAt": "2025-07-19 07:17:57",
+      "content": "",
+      "retrievedAt": "2025-07-20 19:05:51.214875",
+      "internal_id": "5803f91a1c9586639e613c1014b59e83c9e575ffac3e962ca587b368f529228c",
+      "publishedAtLabel": "Jul 19"
+    },
     {
       "id": 23074,
       "query": [
@@ -19590,60 +19680,6 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21994,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Obed Nares",
-      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
-      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
-      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
-      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
-      "publishedAt": "2025-06-08 16:31:49",
-      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
-      "retrievedAt": "2025-06-09 19:06:04.659724",
-      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
-      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-06-08 10:55:42",
-      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
-      "retrievedAt": "2025-06-09 19:06:03.611880",
-      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21992,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Jacob Paul",
-      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
-      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
-      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
-      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
-      "publishedAt": "2025-06-08 08:16:49",
-      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
-      "retrievedAt": "2025-06-09 19:06:01.948278",
-      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]

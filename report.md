@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-07-20 07:06
-- **Most recent article:** 2025-07-19 04:00:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-07-20 19:05
+- **Most recent article:** 2025-07-19 17:33:31
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 48 | 31 | 53 | 36 | 114 | 62 | 344 |
-| dengue | 14 | 17 | 26 | 24 | 34 | 23 | 138 |
-| malaria | 19 | 23 | 13 | 21 | 29 | 11 | 116 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 19 | 115 |
+| measles | 47 | 31 | 53 | 36 | 114 | 64 | 345 |
+| dengue | 13 | 17 | 26 | 24 | 34 | 23 | 137 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 20 | 116 |
+| malaria | 18 | 23 | 13 | 21 | 29 | 11 | 115 |
 | meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 95 |
 | mpox | 23 | 11 | 27 | 10 | 6 | 6 | 83 |
 | rabies | 6 | 19 | 5 | 17 | 17 | 4 | 68 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 52 |
+| h5n1 | 5 | 9 | 3 | 8 | 9 | 12 | 46 |
 | zika | 2 | 14 | 2 | 8 | 12 | 7 | 45 |
-| h5n1 | 5 | 9 | 3 | 8 | 9 | 10 | 44 |
 | typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 20 |
 | hpai | 1 | 1 | 0 | 4 | 3 | 2 | 11 |
 | pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 10 |
@@ -134,6 +134,10 @@ Source: [News API](https://newsapi.org/)
 - [Roundup: Rising meningitis cases in Gaza raise alarm amid healthcare collapse](https://www.thestar.com.my/news/world/2025/07/15/roundup-rising-meningitis-cases-in-gaza-raise-alarm-amid-healthcare-collapse) (The Star Online)
 
 ## 25-29 (measles)
+
+- [Why MAGA hates science so much](https://www.salon.com/2025/07/19/why-maga-hates-science-so-much/) (Salon)
+
+- [At-risk Albertans mindful of summer plans as measles cases climb](https://www.cbc.ca/news/canada/edmonton/at-risk-albertans-mindful-of-summer-plans-as-measles-cases-climb-1.7588156) (CBC News)
 
 - [TWiV 1236: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1236/) (Microbe.tv)
 
@@ -291,6 +295,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (h5n1)
 
+- [Мухи оказались возможными переносчиками птичьего гриппа](https://lenta.ru/news/2025/07/19/muhi-okazalis-vozmozhnymi-perenoschikami-ptichiego-grippa-h5n1/) (Lenta)
+
+- [La ignorancia e incompetencia de Rober Kennedy Jr. puede llevar al mundo a otra pandemia](https://www.meneame.net/m/ciencia/ignorancia-incompetencia-rober-kennedy-jr-puede-llevar-mundo) (Meneame.net)
+
 - [TWiV 1236: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1236/) (Microbe.tv)
 
 - [Una granja de pavos en Badajoz declara un brote de gripe aviar tras dos años sin casos en España](https://www.libertaddigital.com/ciencia-tecnologia/salud/2025-07-18/una-granja-de-pavos-en-badajoz-declara-un-brote-de-gripe-aviar-tras-dos-anos-sin-casos-en-espana-7278248/) (Libertaddigital.com)
@@ -360,6 +368,8 @@ Source: [News API](https://newsapi.org/)
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
+
+- [Chikungunya: Tut sehr weh, gibt es bald auch in Deutschland](https://www.zeit.de/gesundheit/2025-07/chikungunya-fieber-tropenkrankheit-muecken-virus-impfung) (Die Zeit)
 
 - [Tropikalny wirus w Europie. Czy grozi nam epidemia? Ekspertka: "W Polsce już są przypadki gorączki"](https://zdrowie.natemat.pl/615959,tropikalny-wirus-w-europie-ekspertka-w-polsce-sa-juz-przypadki) (Natemat.pl)
 
@@ -2351,8 +2361,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
-- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
-
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2390,8 +2398,6 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
-
-- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2442,8 +2448,6 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
-
-- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 
