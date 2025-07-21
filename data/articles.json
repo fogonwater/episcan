@@ -1,8 +1,154 @@
 {
-  "last_updated": "2025-07-20 19:05",
-  "count_articles_total": 1090,
-  "count_articles_new": 5,
+  "last_updated": "2025-07-21 07:12",
+  "count_articles_total": 1101,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 23088,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Development of indigenous multi-stage Malaria vaccine 'AdFalciVax' is underway",
+      "description": "India is developing a new malaria vaccine. The Indian Council of Medical Research is leading the effort. The vaccine is called AdFalciVax. It targets two stages of the malaria parasite. Preclinical data shows excellent efficacy. The vaccine could prevent infe\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/development-of-indigenous-multi-stage-malaria-vaccine-adfalcivax-is-underway/articleshow/122794500.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122794505,width-1200,height-630,imgsize-16310,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-20 06:43:14",
+      "content": "The Indian Council of Medical Research (ICMR), through its Regional Medical Research Centre, Bhubaneswar (RMRCBB) and National Institute of Malaria Research (NIMR), in partnership with the Department\u2026 [+2240 chars]",
+      "retrievedAt": "2025-07-21 07:12:25.836589",
+      "internal_id": "3bc3ba81307813e7f5cf08c8f759e1df9238a69450d9a53932abb402548dc331",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23089,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PTI",
+      "title": "ICMR invites expression of interest for commercial production of advanced malaria vaccine",
+      "description": "The ICMR, Delhi, has invited EoI from eligible organisations, companies and manufacturers enthusiastic about the Transfer of Technology for commercial production of \"a recombinant chimeric multi-stage malaria vaccine (AdFalciVax) against plasmodium falciparum",
+      "url": "https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ratjma/article69833771.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U1F6Q2JAN_R1575386260_0_d9b12e42-bc48-4498-bcbd-e4f6f67fd2ba.jpg",
+      "publishedAt": "2025-07-20 03:55:34",
+      "content": "The Regional Medical Research Centre in Bhubaneswar under the Indian Council of Medical Research (ICMR) has developed an advanced malaria vaccine that can prevent plasmodium falciparum infection in i\u2026 [+1303 chars]",
+      "retrievedAt": "2025-07-21 07:12:25.853164",
+      "internal_id": "e1333d74fa01c60cf65d41e59bec4cf5de1af3d46b58fa69b199e86427ed3010",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23092,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "7news",
+      "title": "Contact tracing ongoing after rare mpox strain detected in Logan",
+      "description": "Contact tracing is continuing for hospital staff who may have been exposed to a man who returned from Africa.",
+      "url": "https://7news.com.au/news/contact-tracing-ongoing-after-rare-mpox-strain-detected-in-logan-c-19414940",
+      "urlToImage": "https://images.7news.com.au/publication/C-19414940/ad6f7920349fc842aa82924f673438723559fdaf-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-07-20 03:09:54",
+      "content": "Authorities fear the number of hospital contacts could grow as they trace health staff after a rare strain of mpox was detected in an overseas traveller. Health officials in Queensland believe 19 co\u2026 [+2687 chars]",
+      "retrievedAt": "2025-07-21 07:12:26.352912",
+      "internal_id": "5ed96479021e82e1a3b11d2d688c924253c3064514e7c575d22ad4b5b9a3079c",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23091,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Health emergency: Deadly Mpox strain Clade 1 hits Australia, only the 2nd case ever",
+      "description": "Queensland confirms its first case of Mpox Clade 1. This strain is more severe than previous ones. The patient recently returned from overseas. Health officials are tracing contacts. Clade 1 causes widespread rashes and high fevers. It spreads through close c\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/australia/health-emergency-deadly-mpox-strain-clade-1-hits-australia-only-the-2nd-case-ever/articleshow/122792785.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122792787,width-1200,height-630,imgsize-11862,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-20 02:37:40",
+      "content": "A rare and more dangerous strain of the Mpox virus, known as Clade 1, has been confirmed in Queensland, marking the first-ever case in the state and only the second known detection of this strain in \u2026 [+2642 chars]",
+      "retrievedAt": "2025-07-21 07:12:26.336515",
+      "internal_id": "6112b57f6f466aa3a89b87171508511265779dc4d5fbb804a5f57c08795e6e59",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23090,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Second Australian case of new mpox strain detected in Queensland",
+      "description": "Queensland Health says contact tracing is underway for the overseas-acquired case and the public \"should not be concerned\".",
+      "url": "https://www.abc.net.au/news/2025-07-20/second-case-detected-new-mpox-strain-queensland/105551882",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c69703f380cea256ee833be664ef7e46?impolicy=wcms_watermark_news&cropH=1450&cropW=2577&xPos=0&yPos=134&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-19 23:13:45",
+      "content": "The second Australian case of a new strain of mpox virus has been detected in south-east Queensland. Queensland Health confirmed yesterday a patient with the clade 1 mpox strain known to cause more \u2026 [+1432 chars]",
+      "retrievedAt": "2025-07-21 07:12:26.318583",
+      "internal_id": "bfec276b72362725bf90dbb242ecb63c3429b1be83f5e0d756471e0fa5894386",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23086,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "jamilleniero",
+      "title": "Brasil inaugura maior biof\u00e1brica do mundo de mosquitos \u201cdo bem\u201d",
+      "description": "M\u00e9todo promete reduzir drasticamente a transmiss\u00e3o e os gastos com os tratamentos de doen\u00e7as como dengue, chikungunya e zika The post Brasil inaugura maior biof\u00e1brica do mundo de mosquitos \u201cdo bem\u201d appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/brasil-inaugura-maior-biofabrica-do-mundo-de-mosquitos-do-bem/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-07-19 21:44:45",
+      "content": "O Instituto de Biologia Molecular do Paran\u00e1 (IBMP) e o World Mosquito Program (WMP) inauguraram neste s\u00e1bado (19) a Wolbito do Brasil, maior biof\u00e1brica do mundo especializada na cria\u00e7\u00e3o do mosquito A\u2026 [+3564 chars]",
+      "retrievedAt": "2025-07-21 07:12:24.878793",
+      "internal_id": "9a2b8fa327695a8512f75bccf8aaf8ded2c5ce0ed11f275d15e8ec240dbfac73",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23087,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Elina Karjalainen",
+      "title": "Guardian: R\u00e4j\u00e4hdysm\u00e4inen kasvu t\u00e4m\u00e4n maan malaria\u00adtapauksissa \u2013 Trumpin hallinto leikkasi aiemmin avusta",
+      "description": "Taustalla vaikuttaa Yhdysvaltain presidentti Donald Trumpin hallinnon p\u00e4\u00e4t\u00f6s ajaa alas maan humanitaarisen avun virasto USAID.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011375734.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/10bf854875cc57a4c4cb321b4c05b20a/some/is-default.jpg",
+      "publishedAt": "2025-07-19 20:56:00",
+      "content": "Taustalla vaikuttaa Yhdysvaltain presidentti Donald Trumpin hallinnon p\u00e4\u00e4t\u00f6s ajaa alas maan humanitaarisen avun virasto USAID.Zimbabwe tuskailee r\u00e4j\u00e4hdysm\u00e4isesti lis\u00e4\u00e4ntyneiden malariatapausten kanss\u2026 [+1521 chars]",
+      "retrievedAt": "2025-07-21 07:12:25.827337",
+      "internal_id": "6c422820401a811bfd9a0e95912a300fa0d5c0b0063888dad2123ab1418e2556",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 23085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Carlos Rydlewski",
+      "title": "Cear\u00e1 registra primeiro foco de gripe avi\u00e1ria em aves dom\u00e9sticas",
+      "description": "Doen\u00e7a foi identificada em uma propriedade com cria\u00e7\u00e3o de subsist\u00eancia, em Quixeramobim. \u00c1rea foi isolada",
+      "url": "https://www.metropoles.com/negocios/ceara-registra-primeiro-foco-de-gripe-aviaria-em-aves-domesticas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/05/25160337/gripe-aviaria-galinha.jpg",
+      "publishedAt": "2025-07-19 19:17:39",
+      "content": "O Cear\u00e1 registrou o primeiro caso de gripe avi\u00e1ria do tipo H5N1 em aves dom\u00e9sticas. O registro ocorreu numa cria\u00e7\u00e3o de subsist\u00eancia, em que as aves s\u00e3o produzidas para consumo pr\u00f3prio, em Quixeramobi\u2026 [+1173 chars]",
+      "retrievedAt": "2025-07-21 07:12:24.493232",
+      "internal_id": "b90b4d0d32e8d801f825a6c47083f64a2048a92ab54824c9f4de873d5fd3594d",
+      "publishedAtLabel": "Jul 19"
+    },
     {
       "id": 23082,
       "query": [
@@ -19680,6 +19826,60 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21994,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Obed Nares",
+      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
+      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
+      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
+      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
+      "publishedAt": "2025-06-08 16:31:49",
+      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
+      "retrievedAt": "2025-06-09 19:06:04.659724",
+      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
+      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-06-08 10:55:42",
+      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
+      "retrievedAt": "2025-06-09 19:06:03.611880",
+      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21992,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LBC",
+      "author": "Jacob Paul",
+      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
+      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
+      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
+      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
+      "publishedAt": "2025-06-08 08:16:49",
+      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
+      "retrievedAt": "2025-06-09 19:06:01.948278",
+      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-07-20 19:05
-- **Most recent article:** 2025-07-19 17:33:31
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-07-21 07:12
+- **Most recent article:** 2025-07-20 06:43:14
 
 ---
 
@@ -10,30 +10,44 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 47 | 31 | 53 | 36 | 114 | 64 | 345 |
-| dengue | 13 | 17 | 26 | 24 | 34 | 23 | 137 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 20 | 116 |
-| malaria | 18 | 23 | 13 | 21 | 29 | 11 | 115 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 95 |
-| mpox | 23 | 11 | 27 | 10 | 6 | 6 | 83 |
-| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 68 |
-| yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 52 |
-| h5n1 | 5 | 9 | 3 | 8 | 9 | 12 | 46 |
-| zika | 2 | 14 | 2 | 8 | 12 | 7 | 45 |
-| typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 20 |
-| hpai | 1 | 1 | 0 | 4 | 3 | 2 | 11 |
-| pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 10 |
-| shigellosis | 3 | 1 | 0 | 0 | 0 | 0 | 4 |
-| leptospirosis | 2 | 0 | 0 | 0 | 0 | 0 | 2 |
+| Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 48 | 31 | 53 | 36 | 114 | 64 | 0 | 346 |
+| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 0 | 139 |
+| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 2 | 119 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 0 | 117 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 0 | 95 |
+| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 2 | 86 |
+| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 0 | 68 |
+| yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 0 | 52 |
+| h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 0 | 47 |
+| zika | 2 | 14 | 2 | 8 | 12 | 8 | 0 | 46 |
+| typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 0 | 20 |
+| hpai | 1 | 1 | 0 | 4 | 3 | 2 | 0 | 11 |
+| pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 0 | 10 |
+| shigellosis | 3 | 1 | 0 | 0 | 0 | 0 | 0 | 4 |
+| leptospirosis | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-30 (mpox)
+
+- [Contact tracing ongoing after rare mpox strain detected in Logan](https://7news.com.au/news/contact-tracing-ongoing-after-rare-mpox-strain-detected-in-logan-c-19414940) (7NEWS.com.au)
+
+- [Health emergency: Deadly Mpox strain Clade 1 hits Australia, only the 2nd case ever](https://economictimes.indiatimes.com/news/international/australia/health-emergency-deadly-mpox-strain-clade-1-hits-australia-only-the-2nd-case-ever/articleshow/122792785.cms) (The Times of India)
+
+## 25-30 (malaria)
+
+- [Development of indigenous multi-stage Malaria vaccine 'AdFalciVax' is underway](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/development-of-indigenous-multi-stage-malaria-vaccine-adfalcivax-is-underway/articleshow/122794500.cms) (The Times of India)
+
+- [ICMR invites expression of interest for commercial production of advanced malaria vaccine](https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece) (BusinessLine)
+
 ## 25-29 (zika)
+
+- [Brasil inaugura maior biofábrica do mundo de mosquitos “do bem”](https://www.infomoney.com.br/saude/brasil-inaugura-maior-biofabrica-do-mundo-de-mosquitos-do-bem/) (InfoMoney)
 
 - [Repelente para crianças: tudo que você precisa saber para proteger seu filho](https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2025/07/17/repelente-para-criancas-tudo-que-voce-precisa-saber-para-proteger-seu-filho.ghtml) (Globo)
 
@@ -104,6 +118,8 @@ Source: [News API](https://newsapi.org/)
 - [Global childhood vaccination coverage holds steady, yet over 14 million infants remain unvaccinated – WHO, UNICEF](https://www.who.int/news/item/15-07-2025-global-childhood-vaccination-coverage-holds-steady-yet-over-14-million-infants-remain-unvaccinated-who-unicef) (World Health Organization)
 
 ## 25-29 (mpox)
+
+- [Second Australian case of new mpox strain detected in Queensland](https://www.abc.net.au/news/2025-07-20/second-case-detected-new-mpox-strain-queensland/105551882) (ABC News (AU))
 
 - ['Crisis of Disrupted Care': Nearly 800,000 Mpox Vaccines Meant for Africa Wasted Due to Trump USAID Cuts](https://www.commondreams.org/news/mpox-vaccines-wasted-africa-trump) (Common Dreams)
 
@@ -265,6 +281,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (malaria)
 
+- [Guardian: Räjähdysmäinen kasvu tämän maan malaria­tapauksissa – Trumpin hallinto leikkasi aiemmin avusta](https://www.is.fi/ulkomaat/art-2000011375734.html) (Www.is.fi)
+
 - [Podcast Episode 8: Malaria Funding at a Crossroads](https://blog.givewell.org/2025/07/18/podcast-episode-8-malaria-funding-at-a-crossroads/) (Givewell.org)
 
 - [Cyclones stoke malaria in Madagascar](https://www.npr.org/2025/07/18/nx-s1-5468429/cyclones-stoke-malaria-in-madagascar) (NPR)
@@ -295,6 +313,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-29 (h5n1)
 
+- [Ceará registra primeiro foco de gripe aviária em aves domésticas](https://www.metropoles.com/negocios/ceara-registra-primeiro-foco-de-gripe-aviaria-em-aves-domesticas) (Metropoles.com)
+
 - [Мухи оказались возможными переносчиками птичьего гриппа](https://lenta.ru/news/2025/07/19/muhi-okazalis-vozmozhnymi-perenoschikami-ptichiego-grippa-h5n1/) (Lenta)
 
 - [La ignorancia e incompetencia de Rober Kennedy Jr. puede llevar al mundo a otra pandemia](https://www.meneame.net/m/ciencia/ignorancia-incompetencia-rober-kennedy-jr-puede-llevar-mundo) (Meneame.net)
@@ -320,6 +340,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
+
+- [Brasil inaugura maior biofábrica do mundo de mosquitos “do bem”](https://www.infomoney.com.br/saude/brasil-inaugura-maior-biofabrica-do-mundo-de-mosquitos-do-bem/) (InfoMoney)
 
 - [Dengue risk rises in Kathmandu amid ongoing rainfall](https://english.khabarhub.com/2025/18/486036/) (Khabarhub.com)
 
@@ -368,6 +390,8 @@ Source: [News API](https://newsapi.org/)
 - [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
+
+- [Brasil inaugura maior biofábrica do mundo de mosquitos “do bem”](https://www.infomoney.com.br/saude/brasil-inaugura-maior-biofabrica-do-mundo-de-mosquitos-do-bem/) (InfoMoney)
 
 - [Chikungunya: Tut sehr weh, gibt es bald auch in Deutschland](https://www.zeit.de/gesundheit/2025-07/chikungunya-fieber-tropenkrankheit-muecken-virus-impfung) (Die Zeit)
 
@@ -2361,6 +2385,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
+- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
+
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2398,6 +2424,8 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
+- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2448,6 +2476,8 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
+
+- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 
