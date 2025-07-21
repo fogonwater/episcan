@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 8
-- **Last harvest:** 2025-07-21 07:12
-- **Most recent article:** 2025-07-20 06:43:14
+- **Last harvest:** 2025-07-21 19:07
+- **Most recent article:** 2025-07-20 17:58:33
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 48 | 31 | 53 | 36 | 114 | 64 | 0 | 346 |
-| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 0 | 139 |
-| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 2 | 119 |
+| measles | 47 | 31 | 53 | 36 | 114 | 64 | 2 | 347 |
+| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 4 | 142 |
+| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 3 | 119 |
 | chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 0 | 117 |
 | meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 0 | 95 |
 | mpox | 23 | 11 | 27 | 10 | 6 | 7 | 2 | 86 |
 | rabies | 6 | 19 | 5 | 17 | 17 | 4 | 0 | 68 |
-| yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 0 | 52 |
+| yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
 | h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 0 | 47 |
 | zika | 2 | 14 | 2 | 8 | 12 | 8 | 0 | 46 |
-| typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 0 | 20 |
+| typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 1 | 21 |
 | hpai | 1 | 1 | 0 | 4 | 3 | 2 | 0 | 11 |
 | pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 0 | 10 |
 | shigellosis | 3 | 1 | 0 | 0 | 0 | 0 | 0 | 4 |
@@ -33,17 +33,43 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-30 (yersinia)
+
+- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
+
+## 25-30 (typhoid)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (mpox)
 
 - [Contact tracing ongoing after rare mpox strain detected in Logan](https://7news.com.au/news/contact-tracing-ongoing-after-rare-mpox-strain-detected-in-logan-c-19414940) (7NEWS.com.au)
 
 - [Health emergency: Deadly Mpox strain Clade 1 hits Australia, only the 2nd case ever](https://economictimes.indiatimes.com/news/international/australia/health-emergency-deadly-mpox-strain-clade-1-hits-australia-only-the-2nd-case-ever/articleshow/122792785.cms) (The Times of India)
 
+## 25-30 (measles)
+
+- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (malaria)
+
+- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 - [Development of indigenous multi-stage Malaria vaccine 'AdFalciVax' is underway](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/development-of-indigenous-multi-stage-malaria-vaccine-adfalcivax-is-underway/articleshow/122794500.cms) (The Times of India)
 
 - [ICMR invites expression of interest for commercial production of advanced malaria vaccine](https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece) (BusinessLine)
+
+## 25-30 (dengue)
+
+- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
+
+- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
+
+- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
+
+- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-29 (zika)
 
@@ -2385,8 +2411,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
-- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
-
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2424,8 +2448,6 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
-
-- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2476,8 +2498,6 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
-
-- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 
