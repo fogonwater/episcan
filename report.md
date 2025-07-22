@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-07-21 19:07
-- **Most recent article:** 2025-07-20 17:58:33
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-07-22 07:10
+- **Most recent article:** 2025-07-21 05:02:18
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 31 | 53 | 36 | 114 | 64 | 2 | 347 |
-| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 4 | 142 |
-| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 3 | 119 |
+| measles | 48 | 31 | 53 | 36 | 114 | 64 | 7 | 353 |
+| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 6 | 145 |
+| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 3 | 120 |
 | chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 0 | 117 |
 | meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 0 | 95 |
 | mpox | 23 | 11 | 27 | 10 | 6 | 7 | 2 | 86 |
@@ -49,6 +49,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (measles)
 
+- [Why are ethnic minority groups falling behind on vaccines?](https://www.bbc.com/news/articles/cd6geyjd15lo) (BBC News)
+
+- [UK battles anti-vax misinformation after child’s death](https://www.nzherald.co.nz/world/uk-battles-anti-vax-misinformation-after-childs-death/RC5U7FAP4JAXRLLPZMBEDZ5AWI/) (New Zealand Herald)
+
+- [UK Battles Anti-vax Misinformation After Child's Death](https://www.ibtimes.com/uk-battles-anti-vax-misinformation-after-childs-death-3778986) (International Business Times)
+
+- [UK battles anti-vax misinformation after child’s death](https://www.digitaljournal.com/life/uk-battles-anti-vax-misinformation-after-childs-death/article) (Digital Journal)
+
+- [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
+
 - [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
 
 - [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
@@ -62,6 +72,10 @@ Source: [News API](https://newsapi.org/)
 - [ICMR invites expression of interest for commercial production of advanced malaria vaccine](https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece) (BusinessLine)
 
 ## 25-30 (dengue)
+
+- [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
+
+- [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
 
 - [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
 
@@ -2411,6 +2425,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
+- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
+
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2448,6 +2464,8 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
+- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2498,6 +2516,8 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
+
+- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 
