@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-07-22 07:10
-- **Most recent article:** 2025-07-21 05:02:18
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-07-22 19:07
+- **Most recent article:** 2025-07-21 18:18:04
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 48 | 31 | 53 | 36 | 114 | 64 | 7 | 353 |
-| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 6 | 145 |
-| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 3 | 120 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 0 | 117 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 0 | 95 |
+| measles | 47 | 31 | 53 | 36 | 114 | 64 | 11 | 356 |
+| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 9 | 147 |
+| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 6 | 122 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 1 | 118 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 2 | 97 |
 | mpox | 23 | 11 | 27 | 10 | 6 | 7 | 2 | 86 |
 | rabies | 6 | 19 | 5 | 17 | 17 | 4 | 0 | 68 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
@@ -47,7 +47,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Health emergency: Deadly Mpox strain Clade 1 hits Australia, only the 2nd case ever](https://economictimes.indiatimes.com/news/international/australia/health-emergency-deadly-mpox-strain-clade-1-hits-australia-only-the-2nd-case-ever/articleshow/122792785.cms) (The Times of India)
 
+## 25-30 (meningitis)
+
+- [Forensic Service of Patras – They wrote “meningitis” for death caused by injuries](https://en.protothema.gr/2025/07/21/forensic-service-of-patras-they-wrote-meningitis-for-death-caused-by-injuries/) (Protothema.gr)
+
+- [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
+
 ## 25-30 (measles)
+
+- [It’s like raaaain on your wedding day…](https://freethoughtblogs.com/pharyngula/2025/07/21/its-like-raaaain-on-your-wedding-day/) (Freethoughtblogs.com)
+
+- [Alberta Claims Top Spot For Measles, Sorry American MAGA States!](https://www.wonkette.com/p/alberta-claims-top-spot-for-measles) (Wonkette.com)
+
+- [Brown University's pandemic tracker is filling a gap in federal health data](https://www.bostonglobe.com/2025/07/21/metro/ri-brown-university-covid-19-pandemic-tracker/) (The Boston Globe)
+
+- [Getting Anti-Vaxxers To Roll Up Their Sleeves](https://slate.com/podcasts/what-next/2025/07/how-to-get-anti-vaxxers-to-take-the-shot) (Slate Magazine)
 
 - [Why are ethnic minority groups falling behind on vaccines?](https://www.bbc.com/news/articles/cd6geyjd15lo) (BBC News)
 
@@ -65,6 +79,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (malaria)
 
+- [Thrombocytopenia in patients with Plasmodium vivax in Colombia is associated with anti-phosphatidylserine autoantibodies and IL-6, IFNγ, IL-10 and TGF-β](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013284) (Plos.org)
+
+- [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
+
+- [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
+
 - [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 - [Development of indigenous multi-stage Malaria vaccine 'AdFalciVax' is underway](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/development-of-indigenous-multi-stage-malaria-vaccine-adfalcivax-is-underway/articleshow/122794500.cms) (The Times of India)
@@ -72,6 +92,12 @@ Source: [News API](https://newsapi.org/)
 - [ICMR invites expression of interest for commercial production of advanced malaria vaccine](https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece) (BusinessLine)
 
 ## 25-30 (dengue)
+
+- [Un deuxième cas autochtone de dengue signalé dans la Loire en quelques jours](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/un-deuxieme-cas-autochtone-de-dengue-signale-dans-la-loire-en-quelques-jours-3191145.html) (Franceinfo.fr)
+
+- [Un deuxième cas de dengue autochtone signalé dans la Loire, les premiers en France cette année](https://www.franceinfo.fr/sante/un-deuxieme-cas-de-dengue-autochtone-signale-dans-la-loire-les-premiers-en-france-cette-annee_7390372.html) (Franceinfo.fr)
+
+- [Substância da própolis de abelha sem ferrão mata larvas do mosquito da dengue](https://veja.abril.com.br/saude/substancia-da-propolis-de-abelha-sem-ferrao-mata-larvas-do-mosquito-da-dengue/) (Abril.com.br)
 
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
@@ -84,6 +110,10 @@ Source: [News API](https://newsapi.org/)
 - [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
 
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
+
+## 25-30 (chikungunya)
+
+- [Tigermücke überträgt Virus in Europa : Sind Berliner Kleingärten gegen die Ausbreitung gewappnet?](https://www.tagesspiegel.de/wissen/tigermucke-ubertragt-virus-in-europa-sind-berliner-kleingarten-gegen-die-ausbreitung-gewappnet-14057681.html) (Der Tagesspiegel)
 
 ## 25-29 (zika)
 
@@ -2425,8 +2455,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
-- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
-
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2464,8 +2492,6 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
-
-- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2516,8 +2542,6 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
-
-- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 

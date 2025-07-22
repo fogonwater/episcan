@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-07-22 07:10",
-  "count_articles_total": 1116,
-  "count_articles_new": 7,
+  "last_updated": "2025-07-22 19:07",
+  "count_articles_total": 1126,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 23109,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Freethoughtblogs.com",
+      "author": "PZ Myers",
+      "title": "It\u2019s like raaaain on your wedding day\u2026",
+      "description": "This is Brian Hooker, Ph.D., an anti-vaxxer who traveled to Texas during a measles outbreak to spread some anti-science propaganda. He\u2019s best known as a promoter of the idea that vaccines cause autism. He was making a video with Ben Edwards, an anti-vax docto\u2026",
+      "url": "https://freethoughtblogs.com/pharyngula/2025/07/21/its-like-raaaain-on-your-wedding-day/",
+      "urlToImage": "https://freethoughtblogs.com/pharyngula/wp-content/themes/ftb2-theme/images/logo.gif",
+      "publishedAt": "2025-07-21 18:18:04",
+      "content": "This is Brian Hooker, Ph.D., an anti-vaxxer who traveled to Texas during a measles outbreak to spread some anti-science propaganda. He\u2019s best known as a promoter of the idea that vaccines cause autis\u2026 [+1909 chars]",
+      "retrievedAt": "2025-07-22 19:07:20.963102",
+      "internal_id": "30e04aa21b117d09aa7d45ca15ec3638750d8381119468f6acb22c3a20cde169",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23116,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Electra Delavogia",
+      "title": "Forensic Service of Patras \u2013 They wrote \u201cmeningitis\u201d for death caused by injuries",
+      "description": "Dossiers of high-profile cases are being reopened following revelations from the Ministry of Justice investigation \u2013 Alarming findings from the review of 4,000 seized files \u2013 Hundreds of pre-signed and stamped certificates were found listing the cause of deat\u2026",
+      "url": "https://en.protothema.gr/2025/07/21/forensic-service-of-patras-they-wrote-meningitis-for-death-caused-by-injuries/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/07/mourtzoukou_arthrou-1.jpg-1.jpg",
+      "publishedAt": "2025-07-21 15:07:35",
+      "content": "Hundreds of mass-produced, pre-signed, and stamped certificates that listed the cause of death and only required filling in the deceaseds information are among the 4,000 forensic case files issued ov\u2026 [+4029 chars]",
+      "retrievedAt": "2025-07-22 19:07:22.053958",
+      "internal_id": "ee4c7c06fbf77d0af988548b68e72beba402ccc3c9ee926e2d3983276a372af5",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23114,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Silvie Boschiero",
+      "title": "Un deuxi\u00e8me cas autochtone de dengue signal\u00e9 dans la Loire en quelques jours",
+      "description": "L'Agence R\u00e9gionale de Sant\u00e9 confirme que deux cas de dengue autochtone ont \u00e9t\u00e9 signal\u00e9s en quelques jours \u00e0 Saint-Chamond, dans la Loire.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/un-deuxieme-cas-autochtone-de-dengue-signale-dans-la-loire-en-quelques-jours-3191145.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/aba5PjdGAykq16djPDEQ-bDpjHQ/930x620/regions/2025/07/21/058-2565376-687e4dd1e78f8703807297.jpg",
+      "publishedAt": "2025-07-21 14:51:06",
+      "content": "L'Agence R\u00e9gionale de Sant\u00e9 confirme que deux cas de dengue autochtone ont \u00e9t\u00e9 signal\u00e9s en quelques jours \u00e0 Saint-Chamond, dans la Loire. De la vie quotidienne aux grands enjeux, recevez tous les jo\u2026 [+3039 chars]",
+      "retrievedAt": "2025-07-22 19:07:21.715640",
+      "internal_id": "0c43e25bf1d155f9f7b4590e8623f73189916edb5f9cae24e4586c7451df2da0",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23110,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Andrew Fleming",
+      "title": "Alberta Claims Top Spot For Measles, Sorry American MAGA States!",
+      "description": "Conservatives blame Justin Trudeau, as they do.",
+      "url": "https://www.wonkette.com/p/alberta-claims-top-spot-for-measles",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!VAK7!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c895209-fd1d-4274-93a4-49bc966e4f8e_900x640.gif",
+      "publishedAt": "2025-07-21 14:10:27",
+      "content": "Theres a famous scene from Aaron Sorkins newsroom drama The Newsroom a far inferior show to an earlier Canadian comedy of the same name where jaded anchorman Will McAvoy (Jeff Daniels) argues America\u2026 [+6173 chars]",
+      "retrievedAt": "2025-07-22 19:07:20.980163",
+      "internal_id": "ecc9cff45407258c7f52405f0de59b395d97f750b27d87432274d64b2d0312f7",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23118,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mar\u00eda Camila Velasco-Pareja, Catalina Tovar-Acero, Miriam E. Cantero Guevara, Ana Rodriguez, Juan Rivera-Correa, Mar\u00eda Fernanda Yasnot-Acosta",
+      "title": "Thrombocytopenia in patients with Plasmodium vivax in Colombia is associated with anti-phosphatidylserine autoantibodies and IL-6, IFN\u03b3, IL-10 and TGF-\u03b2",
+      "description": "Author summary Malaria remains a major global health concern, with Plasmodium vivax being the most prevalent species in the Americas. Although historically regarded as less severe than P. falciparum, P. vivax is increasingly associated with severe and complic\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013284",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013284.g006&size=inline",
+      "publishedAt": "2025-07-21 14:00:00",
+      "content": "Abstract Plasmodium vivax is the most widely distributed human protozoan in the world. It is a causative agent of malaria, with thrombocytopenia being a frequent complication. This study aimed to ev\u2026 [+33354 chars]",
+      "retrievedAt": "2025-07-22 19:07:22.410054",
+      "internal_id": "35aae82fc4b797382f38971f8839faff05e257dcb67932db8c86a21e84d50a74",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23119,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Faizul Akmal Abdul Rahim, Mohd Amierul Fikri Mahmud, Mohd Hatta Abdul Mutalip, Norzawati Yoep, Mohd Amiru Hariz Aminuddin, Ahmad Mohiddin Mohd Ngesom",
+      "title": "A scoping review of community knowledge in malaria prevention and control programmes",
+      "description": "Background Malaria remains a significant global health challenge, particularly in sub-Saharan Africa and Southeast Asia. Despite considerable progress through biomedical interventions, persistent transmission underscores the need to examine additional influen\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328703.g003&size=inline",
+      "publishedAt": "2025-07-21 14:00:00",
+      "content": "Citation: Abdul Rahim FA, Mahmud MAF, Abdul Mutalip MH, Yoep N, Aminuddin MAH, Mohd Ngesom AM (2025) A scoping review of community knowledge in malaria prevention and control programmes. PLoS One 20(\u2026 [+33469 chars]",
+      "retrievedAt": "2025-07-22 19:07:22.434264",
+      "internal_id": "f0a2af8e2e400d123ab464117ad93cd1ec30eaf65eec8066ba379ef99b5e2dfc",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23120,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Roland Knauer",
+      "title": "Tigerm\u00fccke \u00fcbertr\u00e4gt Virus in Europa : Sind Berliner Kleing\u00e4rten gegen die Ausbreitung gewappnet?",
+      "description": "Erstmals in Frankreich haben sich Menschen mit Chikungunya infiziert \u2013 schuld ist die Asiatische Tigerm\u00fccke. Das Tierchen gibt es auch in Berlin. Wie gut funktionieren hier die Bek\u00e4mpfungsmechanismen?",
+      "url": "https://www.tagesspiegel.de/wissen/tigermucke-ubertragt-virus-in-europa-sind-berliner-kleingarten-gegen-die-ausbreitung-gewappnet-14057681.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14059661/alternates/BASE_16_9_W1400/1753100969000/asiatische-tigermucke-mucke021.jpeg",
+      "publishedAt": "2025-07-21 13:09:40",
+      "content": "Die Asiatische Tigerm\u00fccke ist f\u00fcr Berlin ein alter Bekannter, seit Jahren wird sie immer wieder im Stadtgebiet nachgewiesen. Doch mit den Regenf\u00e4llen der letzten Zeit entstehen nun besonders in G\u00e4rte\u2026 [+536 chars]",
+      "retrievedAt": "2025-07-22 19:07:22.830149",
+      "internal_id": "4dff7ea2a2363019ea720feefe824467bdbcb20ea98ccca6a640f5ff9f56db65",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23115,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "The world keeps millions of vaccines on ice. Is it worth it?",
+      "description": "It costs nearly $100 million a year to maintain global stockpiles of vaccines for Ebola, cholera, meningitis and yellow fever in case of emergency. A new study estimates how many lives they've saved.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3094+0+287/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2Fff%2F2273979f4e6c8f1f5d64ab213a84%2F2024-01-17t161802z-666679650-rc2pj5anqj64-rtrmadp-3-zambia-cholera.JPG",
+      "publishedAt": "2025-07-21 12:14:50",
+      "content": "In South Korea, there's a long hallway lined with walk-in refrigerators. Inside are boxes filled with oral cholera vaccines. This is the emergency cholera vaccine stockpile and boxes are flying off t\u2026 [+6742 chars]",
+      "retrievedAt": "2025-07-22 19:07:22.044303",
+      "internal_id": "f0ddd5a8857babd34884beb90300a8da7895e4dd133385f9053ac78443d5c432",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23113,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Un deuxi\u00e8me cas de dengue autochtone signal\u00e9 dans la Loire, les premiers en France cette ann\u00e9e",
+      "description": "D\u00e9but 2025, le moustique tigre \u00e9tait implant\u00e9 dans 81 d\u00e9partements, soit 84% des d\u00e9partements m\u00e9tropolitains.",
+      "url": "https://www.franceinfo.fr/sante/un-deuxieme-cas-de-dengue-autochtone-signale-dans-la-loire-les-premiers-en-france-cette-annee_7390372.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/YrsCUIpj1L9tYL_qmqZ51ED41zw/0x440:5000x3251/1500x843/2025/07/21/maxnewsspecial859469-687e1d9fd886e143229209.jpg",
+      "publishedAt": "2025-07-21 11:02:03",
+      "content": "Un deuxi\u00e8me cas de dengue autochtone dans le d\u00e9partement de la Loire a \u00e9t\u00e9 signal\u00e9 \u00e0 l'Agence r\u00e9gionale de sant\u00e9 (ARS) le 15 juillet \u00e0 Saint-Chamond, rapporte lundi 21 juillet ICI Saint-\u00c9tienne Loire\u2026 [+1093 chars]",
+      "retrievedAt": "2025-07-22 19:07:21.706552",
+      "internal_id": "4f96316e8072493a0795d0ce89744bc52af5b3bc5e93c31436cd1a6c62b16a97",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23111,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Carlos Mu\u00f1oz",
+      "title": "Brown University's pandemic tracker is filling a gap in federal health data",
+      "description": "Once used for tracking COVID-19 cases, the tracker has become a resource for virus trends in general, including measles.",
+      "url": "https://www.bostonglobe.com/2025/07/21/metro/ri-brown-university-covid-19-pandemic-tracker/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SFOMFH4LGFHRNMPPVJ65UGEEKI.png?auth=3d11bd68600df6436073f93364ba4d46528aa8a5e78a903904eee4077662f77d&width=1440",
+      "publishedAt": "2025-07-21 10:08:32",
+      "content": "Nuzzo told the Globe how the Pandemic Tracker, which has nearly 10,000 subscribers, has become a go-to resource for virus trends, especially as federal communications have slowed, according to the Pa\u2026 [+6296 chars]",
+      "retrievedAt": "2025-07-22 19:07:21.089539",
+      "internal_id": "4a048841e56a93e655de0b9ed9b108f0f9e5f34b92dbe2fead2d2738fa73461f",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23112,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Subst\u00e2ncia da pr\u00f3polis de abelha sem ferr\u00e3o mata larvas do mosquito da dengue",
+      "description": "Cientistas constataram em experimentos que mol\u00e9cula pode eliminar mais de 90% das larvas de Aedes",
+      "url": "https://veja.abril.com.br/saude/substancia-da-propolis-de-abelha-sem-ferrao-mata-larvas-do-mosquito-da-dengue/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2016/06/medicina-dengue-aedes-aegypti-20130227-001-original.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-21 09:54:18",
+      "content": "Abril Day: Assine Digital Completo por 2,99 Por Andr\u00e9 Juli\u00e3o | Ag\u00eancia FAPESP 21 jul 2025, 06h54 Combate ao vetor: pr\u00f3polis de abelha nativa sem ferr\u00e3o superou o da abelha de origem europeia no\u2026 [+5194 chars]",
+      "retrievedAt": "2025-07-22 19:07:21.679995",
+      "internal_id": "ddff226700429ab8f91d85f3f09741fdb9cf1006154bdc0874c7c7ce4ea45aeb",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23108,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Mary Harris",
+      "title": "Getting Anti-Vaxxers To Roll Up Their Sleeves",
+      "description": "Lessons from the Marin County measles outbreak.",
+      "url": "https://slate.com/podcasts/what-next/2025/07/how-to-get-anti-vaxxers-to-take-the-shot",
+      "urlToImage": "https://compote.slate.com/images/cf9c374a-0c33-4d55-bb02-559a4cfce3d0.jpeg?crop=4500%2C3000%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-07-21 09:20:00",
+      "content": "Their son was immunocompromised and couldnt get the measles vaccines. So his dad asked if everyone going to his school would get vaccinated. And the thing ispeople listened. Guest: Carl and Rhett \u2026 [+431 chars]",
+      "retrievedAt": "2025-07-22 19:07:20.944723",
+      "internal_id": "cbd5a2f6004d8f5c171ea5a7d0704c73cfdf04cc6eda8f7cc0eb6762f1bc6351",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23117,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health",
+      "description": "The Kenya in vitro diagnostics (IVD) market is set for significant growth, driven by a high incidence of infectious diseases like HIV, TB, and malaria, government health initiatives, and increasing demand for quality diagnostics. Key players include Abbott La\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-07-21 09:20:00",
+      "content": "Dublin, July 21, 2025 (GLOBE NEWSWIRE) -- The \"Kenya IVD Market By Offering, Technology, Application, Diagnostic Approach, End User - Forecast to 2032\" report has been added to ResearchAndMarkets.com\u2026 [+9975 chars]",
+      "retrievedAt": "2025-07-22 19:07:22.401144",
+      "internal_id": "f8412eada45295f3df2ccbe28fdad07401d97b20dceac9d268166a1b676215db",
+      "publishedAtLabel": "Jul 21"
+    },
     {
       "id": 23103,
       "query": [
@@ -20097,60 +20331,6 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21994,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Obed Nares",
-      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
-      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
-      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
-      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
-      "publishedAt": "2025-06-08 16:31:49",
-      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
-      "retrievedAt": "2025-06-09 19:06:04.659724",
-      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
-      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-06-08 10:55:42",
-      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
-      "retrievedAt": "2025-06-09 19:06:03.611880",
-      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21992,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Jacob Paul",
-      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
-      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
-      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
-      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
-      "publishedAt": "2025-06-08 08:16:49",
-      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
-      "retrievedAt": "2025-06-09 19:06:01.948278",
-      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
