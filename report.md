@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-07-22 19:07
-- **Most recent article:** 2025-07-21 18:18:04
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-07-23 07:10
+- **Most recent article:** 2025-07-22 06:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 31 | 53 | 36 | 114 | 64 | 11 | 356 |
-| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 9 | 147 |
-| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 6 | 122 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 1 | 118 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 2 | 97 |
-| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 2 | 86 |
-| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 0 | 68 |
+| measles | 48 | 31 | 53 | 36 | 114 | 64 | 13 | 359 |
+| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 13 | 152 |
+| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 6 | 123 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 3 | 120 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 4 | 99 |
+| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 3 | 87 |
+| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 1 | 69 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
 | h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 0 | 47 |
 | zika | 2 | 14 | 2 | 8 | 12 | 8 | 0 | 46 |
@@ -41,7 +41,13 @@ Source: [News API](https://newsapi.org/)
 
 - [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
 
+## 25-30 (rabies)
+
+- [Bali tourists warned of rabies risk as cases surge and red zones declared in the holiday hotspot](https://7news.com.au/news/bali-tourists-warned-of-rabies-risk-as-cases-surge-and-red-zones-declared-in-the-holiday-hot-spot--c-19434549) (7NEWS.com.au)
+
 ## 25-30 (mpox)
+
+- [Level 2 - Clade II Mpox in Liberia and Sierra Leone](https://wwwnc.cdc.gov/travel/notices/level2/mpox-sierra-leone-liberia) (Cdc.gov)
 
 - [Contact tracing ongoing after rare mpox strain detected in Logan](https://7news.com.au/news/contact-tracing-ongoing-after-rare-mpox-strain-detected-in-logan-c-19414940) (7NEWS.com.au)
 
@@ -49,11 +55,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (meningitis)
 
+- [Meningitis to MVP: Bonmatí proud of recovery journey](https://www.espn.com/soccer/story/_/id/45790241/bonmati-proud-journey-meningitis-qf-mvp) (ESPN)
+
+- [Big Lake baby died of bacterial meningitis in 'dirty and cluttered house': deputies](https://www.fox9.com/news/big-lake-baby-died-bacterial-meningitis-dirty-cluttered-house-deputies) (FOX 9)
+
 - [Forensic Service of Patras – They wrote “meningitis” for death caused by injuries](https://en.protothema.gr/2025/07/21/forensic-service-of-patras-they-wrote-meningitis-for-death-caused-by-injuries/) (Protothema.gr)
 
 - [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
 
 ## 25-30 (measles)
+
+- [Prominent US anti-vaxxer says he caught measles and traveled back home (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250721/p137) (Memeorandum.com)
+
+- [When measles hits day cares, there are more than just health concerns](https://19thnews.org/2025/07/measles-day-care-outbreak-concerns/) (19thnews.org)
 
 - [It’s like raaaain on your wedding day…](https://freethoughtblogs.com/pharyngula/2025/07/21/its-like-raaaain-on-your-wedding-day/) (Freethoughtblogs.com)
 
@@ -93,6 +107,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (dengue)
 
+- [Health Ministry using AI to map potential dengue hotspots, says Dzulkefly](https://www.thestar.com.my/news/nation/2025/07/22/health-ministry-using-ai-to-map-potential-dengue-hotspots-says-dzulkefly) (The Star Online)
+
+- [ONG suspeita recebeu R$ 74 milhões para projeto gamer, combate à dengue, shows e aulões do Enem](https://www.metropoles.com/colunas/grande-angular/ong-suspeita-recebeu-r-74-milhoes-para-projeto-gamer-combate-a-dengue-shows-e-auloes-do-enem) (Metropoles.com)
+
+- [Govt halts leave for civil servants amid monsoon disasters, launches dengue, drought response](https://mypeoplesreview.com/2025/07/22/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-drought-response/) (Mypeoplesreview.com)
+
+- [Brasil inaugura a maior biofábrica do mundo de mosquitos contra dengue](https://www.metropoles.com/saude/biofabrica-dengue-wolbachia) (Metropoles.com)
+
 - [Un deuxième cas autochtone de dengue signalé dans la Loire en quelques jours](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/un-deuxieme-cas-autochtone-de-dengue-signale-dans-la-loire-en-quelques-jours-3191145.html) (Franceinfo.fr)
 
 - [Un deuxième cas de dengue autochtone signalé dans la Loire, les premiers en France cette année](https://www.franceinfo.fr/sante/un-deuxieme-cas-de-dengue-autochtone-signale-dans-la-loire-les-premiers-en-france-cette-annee_7390372.html) (Franceinfo.fr)
@@ -112,6 +134,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [Bavarian Nordic Receives Acceptance from Health Canada for Review of the New Drug Submission for its Chikungunya Vaccine](https://www.globenewswire.com/news-release/2025/07/22/3119155/0/en/Bavarian-Nordic-Receives-Acceptance-from-Health-Canada-for-Review-of-the-New-Drug-Submission-for-its-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordics ansøgning om markedsføringstilladelse for chikungunyavaccinen er blevet accepteret til gennemgang af de canadiske lægemiddelmyndigheder](https://www.globenewswire.com/news-release/2025/07/22/3119155/0/da/Bavarian-Nordics-ans%C3%B8gning-om-markedsf%C3%B8ringstilladelse-for-chikungunyavaccinen-er-blevet-accepteret-til-gennemgang-af-de-canadiske-l%C3%A6gemiddelmyndigheder.html) (GlobeNewswire)
 
 - [Tigermücke überträgt Virus in Europa : Sind Berliner Kleingärten gegen die Ausbreitung gewappnet?](https://www.tagesspiegel.de/wissen/tigermucke-ubertragt-virus-in-europa-sind-berliner-kleingarten-gegen-die-ausbreitung-gewappnet-14057681.html) (Der Tagesspiegel)
 
@@ -2455,6 +2481,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
+- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
+
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2492,6 +2520,8 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
+- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2542,6 +2572,8 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
+
+- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 

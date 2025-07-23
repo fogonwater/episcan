@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-07-22 19:07",
-  "count_articles_total": 1126,
-  "count_articles_new": 13,
+  "last_updated": "2025-07-23 07:10",
+  "count_articles_total": 1141,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 23130,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives Acceptance from Health Canada for Review of the New Drug Submission for its Chikungunya Vaccine",
+      "description": "COPENHAGEN, Denmark, July 22, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today that Health Canada has accepted for review the Company\u2019s application for licensure of the single-dose, virus-like particle (VLP) chikungunya vaccine candidate, CHIKV VLP, for\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119155/0/en/Bavarian-Nordic-Receives-Acceptance-from-Health-Canada-for-Review-of-the-New-Drug-Submission-for-its-Chikungunya-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-07-22 06:00:00",
+      "content": "COPENHAGEN, Denmark, July 22, 2025 Bavarian Nordic A/S (OMX: BAVA) announced today that Health Canada has accepted for review the Companys application for licensure of the single-dose, virus-like par\u2026 [+6585 chars]",
+      "retrievedAt": "2025-07-23 07:10:45.868782",
+      "internal_id": "44084cf0a52c7d730b6c5815f21c20b0f865efde50b55da0b7633d413f477c1c",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23131,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordics ans\u00f8gning om markedsf\u00f8ringstilladelse for chikungunyavaccinen er blevet accepteret til gennemgang af de canadiske l\u00e6gemiddelmyndigheder",
+      "description": "K\u00d8BENHAVN, Danmark, 22. juli 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) offentliggjorde i dag, at de canadiske l\u00e6gemiddelmyndigheder, Health Canada, har accepteret selskabets ans\u00f8gning om markedsf\u00f8ringstilladelse for den virus-lignende partikel (VLP)-baserede, en\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/22/3119155/0/da/Bavarian-Nordics-ans%C3%B8gning-om-markedsf%C3%B8ringstilladelse-for-chikungunyavaccinen-er-blevet-accepteret-til-gennemgang-af-de-canadiske-l%C3%A6gemiddelmyndigheder.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-07-22 06:00:00",
+      "content": "K\u00d8BENHAVN, Danmark, 22. juli 2025 Bavarian Nordic A/S (OMX: BAVA) offentliggjorde i dag, at de canadiske l\u00e6gemiddelmyndigheder, Health Canada, har accepteret selskabets ans\u00f8gning om markedsf\u00f8ringstil\u2026 [+6677 chars]",
+      "retrievedAt": "2025-07-23 07:10:45.878191",
+      "internal_id": "ca90313c27c6c5e35fd6e7e178ccb4379badc451c046a9d9b00038949d9473e7",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23126,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "KHOO GEK SAN, MARTIN CARVALHO, JUNAID IBRAHIM",
+      "title": "Health Ministry using AI to map potential dengue hotspots, says Dzulkefly",
+      "description": "KUALA LUMPUR: The Health Ministry is utilising artificial intelligence (AI) to predict future dengue hotspots, with the aim of enhancing targeted interventions against the disease. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/22/health-ministry-using-ai-to-map-potential-dengue-hotspots-says-dzulkefly",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/22/3428916.jpg",
+      "publishedAt": "2025-07-22 05:42:00",
+      "content": "KUALA LUMPUR: The Health Ministry is utilising artificial intelligence (AI) to predict future dengue hotspots, with the aim of enhancing targeted interventions against the disease. Health Minister D\u2026 [+2879 chars]",
+      "retrievedAt": "2025-07-23 07:10:44.274323",
+      "internal_id": "e1d7b5ca68fd7396038158b7774d4156460837d1dcb82dae966c77ddac89076e",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23125,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "ONG suspeita recebeu R$ 74 milh\u00f5es para projeto gamer, combate \u00e0 dengue, shows e aul\u00f5es do Enem",
+      "description": "A Associa\u00e7\u00e3o Mori\u00e1 teve repasses suspensos ap\u00f3s reportagens do Metr\u00f3poles. Ministro do STF, Fl\u00e1vio Dino cobrou esclarecimentos do governo",
+      "url": "https://www.metropoles.com/colunas/grande-angular/ong-suspeita-recebeu-r-74-milhoes-para-projeto-gamer-combate-a-dengue-shows-e-auloes-do-enem",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/07/16194041/jedis-rio-de-janeiro-associacao-moria.jpg",
+      "publishedAt": "2025-07-22 05:04:49",
+      "content": "A Associa\u00e7\u00e3o Mori\u00e1, entidade suspeita de irregularidades, foi escolhida para atua\u00e7\u00e3o em \u00e1reas diversas e desconexas, como projeto gamer, combate \u00e0 dengue, shows e cursinhos preparat\u00f3rios para o Exame\u2026 [+7486 chars]",
+      "retrievedAt": "2025-07-23 07:10:44.257604",
+      "internal_id": "5c42122a0a19975ab4626fd3b966c26bbc63f4741d81a6346ad161d772024cb5",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23127,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mypeoplesreview.com",
+      "author": "People's Review",
+      "title": "Govt halts leave for civil servants amid monsoon disasters, launches dengue, drought response",
+      "description": "Kathmandu, July 22: Amid growing risks of monsoon-related disasters, the government has barred civil servants across all three tiers of [\u2026] The post Govt halts leave for civil servants amid monsoon disasters, launches dengue, drought response appeared first o\u2026",
+      "url": "https://mypeoplesreview.com/2025/07/22/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-drought-response/",
+      "urlToImage": "https://mypeoplesreview.com/wp-content/uploads/2025/07/prepared.jpg",
+      "publishedAt": "2025-07-22 04:00:00",
+      "content": "Kathmandu, July 22: Amid growing risks of monsoon-related disasters, the government has barred civil servants across all three tiers of government from taking leave or leaving their stations except f\u2026 [+3054 chars]",
+      "retrievedAt": "2025-07-23 07:10:44.329279",
+      "internal_id": "6320ec609968298a1b91d69ec2f70b28dd95f4a8baa2e9eb2037225cd299542b",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23132,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Clade II Mpox in Liberia and Sierra Leone",
+      "description": "There are outbreaks of clade II mpox in Liberia and Sierra Leone, where mpox is endemic. Country List : Sierra Leone, Liberia",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/mpox-sierra-leone-liberia",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-07-22 04:00:00",
+      "content": "Mpox is a disease caused by infection with Monkeypox virus. Mpox is endemic in forested areas of Central and West Africa. Both clades of mpox can be spread, treated, and prevented the same way, but \u2026 [+647 chars]",
+      "retrievedAt": "2025-07-23 07:10:46.342934",
+      "internal_id": "bed583236b629bd9eb9d8da2a3d8681f24d0bc0e1feba670bd3d1c706eeab1ff",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23121,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Caleb Taylor",
+      "title": "Bali tourists warned of rabies risk as cases surge and red zones declared in the holiday hotspot",
+      "description": "Bali tourists warned of rabies risk as cases surge and red zones declared in the holiday hotspot7news.com.au",
+      "url": "https://7news.com.au/news/bali-tourists-warned-of-rabies-risk-as-cases-surge-and-red-zones-declared-in-the-holiday-hot-spot--c-19434549",
+      "urlToImage": "https://images.7news.com.au/publication/C-19434549/dd3677ff69b85b32b43293c369066acec8aeb271-16x9-x4y0w5442h3061.jpg?imwidth=1200",
+      "publishedAt": "2025-07-22 03:46:51",
+      "content": "Tourists visiting Bali are being warned about a spike in rabies cases, particularly in popular areas such as South Kuta and Mengwi District. Red zones have been declared in several locations after a\u2026 [+1944 chars]",
+      "retrievedAt": "2025-07-23 07:10:42.480863",
+      "internal_id": "a6a2ad0eacedf8e444850d9fd632abdc76cae140f5a658587449b75e9d330a71",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23122,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Prominent US anti-vaxxer says he caught measles and traveled back home (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: Prominent US anti-vaxxer says he caught measles and traveled back home \u2014 Brian Hooker seems to not have alerted authorities of his illness after leaving west Texas \u2014 One of the most prominent anti-vaccine activists in the \u2026",
+      "url": "https://www.memeorandum.com/250721/p137",
+      "urlToImage": "https://i.guim.co.uk/img/media/b6a9630ba146d773461eaf6f6e29e5e7d62f2e6a/63_0_3331_2666/master/3331.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-07-22 01:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-07-23 07:10:43.219753",
+      "internal_id": "a11227bdf3ce1de6be376c3c852a6c83f594a7d332ea08524932ae656ddef326",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23128,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "espn",
+      "source_name": "ESPN",
+      "author": "Sam Marsden and Itzel Bandin",
+      "title": "Meningitis to MVP: Bonmat\u00ed proud of recovery journey",
+      "description": "Aitana Bonmat\u00ed has told ESPN of her pride at recovering from viral meningitis to be named MVP during Spain's 2-0 European Championship quarterfinal win over hosts Switzerland.",
+      "url": "https://www.espn.com/soccer/story/_/id/45790241/bonmati-proud-journey-meningitis-qf-mvp",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0721%2Fr1521854_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-07-21 22:51:42",
+      "content": "Jul 21, 2025, 06:29 PM ET LAUSANNE -- Aitana Bonmat\u00ed has told ESPN of her pride at recovering from viral meningitis to be named MVP during Spain's 2-0 European Championship quarterfinal win over hos\u2026 [+4555 chars]",
+      "retrievedAt": "2025-07-23 07:10:44.525172",
+      "internal_id": "853c2cdbe380e5b539ebc79def65cbd8cad9792c7a00ed05070935f0d8b2481d",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23123,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "19thnews.org",
+      "author": "Barbara Rodriguez",
+      "title": "When measles hits day cares, there are more than just health concerns",
+      "description": "Children\u2019s health is the most immediate challenge amid an exposure, but parents are grappling with tough choices and quarantines.",
+      "url": "https://19thnews.org/2025/07/measles-day-care-outbreak-concerns/",
+      "urlToImage": "https://19thnews.org/wp-content/uploads/2025/07/measles-daycare.jpg",
+      "publishedAt": "2025-07-21 21:49:29",
+      "content": "Measles is spreading in the United States, and so is the risk of exposure and infection at child care facilities, which often serve kids too young to be vaccinated against the highly contagious disea\u2026 [+7708 chars]",
+      "retrievedAt": "2025-07-23 07:10:43.289717",
+      "internal_id": "2f499f4f3b4881b5a98951949790c6b762a21cec651925365e48af7edb20f3a8",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23129,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "FOX 9",
+      "author": "Howard Thompson",
+      "title": "Big Lake baby died of bacterial meningitis in 'dirty and cluttered house': deputies",
+      "description": "The death of an infant in Big Lake, Minn. was caused by bacterial meningitis, an autopsy has found. At the same time, deputies say the child was living in an \u201cextremely dirty and cluttered house\" and the investigation into the death is ongoing.",
+      "url": "https://www.fox9.com/news/big-lake-baby-died-bacterial-meningitis-dirty-cluttered-house-deputies",
+      "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2025/07/1280/720/9p-big-lake-baby-death-_-mcguire_00.00.48.26.jpg?ve=1&tl=1",
+      "publishedAt": "2025-07-21 21:44:27",
+      "content": "BIG LAKE, Minn. (FOX 9) - The death of a baby in Big Lake was caused by bacterial meningitis, according to the results of an autopsy. Big Lake baby dies The backstory: Over the weekend, Big Lake p\u2026 [+1163 chars]",
+      "retrievedAt": "2025-07-23 07:10:44.549773",
+      "internal_id": "943daea6aada1e950b43b4792713195d0bc15ced740f34e66b139ce07d69f054",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 23124,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jorge Agle",
+      "title": "Brasil inaugura a maior biof\u00e1brica do mundo de mosquitos contra dengue",
+      "description": "A Wolbito do Brasil tem capacidade para produzir semanalmente 100 milh\u00f5es ovos de mosquito Aedes aegypti inoculado com a bact\u00e9ria Wolbachia",
+      "url": "https://www.metropoles.com/saude/biofabrica-dengue-wolbachia",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/07/21160810/wolbito.jpg",
+      "publishedAt": "2025-07-21 21:11:16",
+      "content": "O Instituto de Biologia Molecular do Paran\u00e1 (IBMP) e o World Mosquito Program (WMP) inauguraram, no s\u00e1bado (19/7), a maior biof\u00e1brica do mundo voltada para a cria\u00e7\u00e3o do mosquito Aedes aegypti inocula\u2026 [+2817 chars]",
+      "retrievedAt": "2025-07-23 07:10:44.248640",
+      "internal_id": "fd9a8cd14049bc10e178a438329fae6a6fe4dea57be855db791877b3346af9d4",
+      "publishedAtLabel": "Jul 21"
+    },
     {
       "id": 23109,
       "query": [
@@ -20331,6 +20547,60 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21994,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Obed Nares",
+      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
+      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
+      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
+      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
+      "publishedAt": "2025-06-08 16:31:49",
+      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
+      "retrievedAt": "2025-06-09 19:06:04.659724",
+      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
+      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-06-08 10:55:42",
+      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
+      "retrievedAt": "2025-06-09 19:06:03.611880",
+      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21992,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LBC",
+      "author": "Jacob Paul",
+      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
+      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
+      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
+      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
+      "publishedAt": "2025-06-08 08:16:49",
+      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
+      "retrievedAt": "2025-06-09 19:06:01.948278",
+      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
