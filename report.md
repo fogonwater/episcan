@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-07-23 07:10
-- **Most recent article:** 2025-07-22 06:00:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2025-07-23 19:07
+- **Most recent article:** 2025-07-22 19:02:29
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 48 | 31 | 53 | 36 | 114 | 64 | 13 | 359 |
-| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 13 | 152 |
-| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 6 | 123 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 3 | 120 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 4 | 99 |
+| measles | 47 | 31 | 53 | 36 | 114 | 64 | 16 | 361 |
+| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 19 | 157 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 11 | 128 |
+| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 7 | 123 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 5 | 100 |
 | mpox | 23 | 11 | 27 | 10 | 6 | 7 | 3 | 87 |
-| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 1 | 69 |
+| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 5 | 73 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
+| zika | 2 | 14 | 2 | 8 | 12 | 8 | 1 | 47 |
 | h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 0 | 47 |
-| zika | 2 | 14 | 2 | 8 | 12 | 8 | 0 | 46 |
 | typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 1 | 21 |
+| pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 1 | 11 |
 | hpai | 1 | 1 | 0 | 4 | 3 | 2 | 0 | 11 |
-| pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 0 | 10 |
 | shigellosis | 3 | 1 | 0 | 0 | 0 | 0 | 0 | 4 |
 | leptospirosis | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
 
@@ -32,6 +32,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-30 (zika)
+
+- [Brasil inaugura a maior biofábrica de mosquitos do mundo](https://veja.abril.com.br/agenda-verde/brasil-inaugura-a-maior-biofabrica-de-mosquitos-do-mundo/) (Abril.com.br)
 
 ## 25-30 (yersinia)
 
@@ -43,7 +47,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (rabies)
 
+- [Nassau County warns residents about spread of rabies among raccoons and feral cats](https://abc7ny.com/post/nassau-county-warns-residents-spread-rabies-among-raccoons-feral-cats/17241269/) (WABC-TV)
+
+- [Nassau County declares rabies an imminent public health threat as cases rise. Here's what to know.](https://www.cbsnews.com/newyork/news/nassau-county-rabies-public-health-threat/) (CBS News)
+
+- [Festus to consider a trap-neuter-release program for feral cats](https://www.stltoday.com/news/local/metro/article_9eedba69-bd3e-4e75-bfdd-da7bde6c6dbb.html) (STLtoday.com)
+
+- [Imminent public health threat for rabies issued in Nassau County](https://longisland.news12.com/imminent-public-health-threat-for-rabies-issued-in-nassau-county) (News12.com)
+
 - [Bali tourists warned of rabies risk as cases surge and red zones declared in the holiday hotspot](https://7news.com.au/news/bali-tourists-warned-of-rabies-risk-as-cases-surge-and-red-zones-declared-in-the-holiday-hot-spot--c-19434549) (7NEWS.com.au)
+
+## 25-30 (pertussis)
+
+- [В Новосибирске разработали тесты для быстрой диагностики коклюша](https://rg.ru/2025/07/22/reg-sibfo/v-novosibirske-razrabotali-testy-dlia-bystroj-diagnostiki-kokliusha.html) (Rg.ru)
 
 ## 25-30 (mpox)
 
@@ -55,6 +71,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (meningitis)
 
+- [Post-vaccination Streptococcus pneumoniae colonization and respiratory manifestations in children: A prospective cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328516) (Plos.org)
+
 - [Meningitis to MVP: Bonmatí proud of recovery journey](https://www.espn.com/soccer/story/_/id/45790241/bonmati-proud-journey-meningitis-qf-mvp) (ESPN)
 
 - [Big Lake baby died of bacterial meningitis in 'dirty and cluttered house': deputies](https://www.fox9.com/news/big-lake-baby-died-bacterial-meningitis-dirty-cluttered-house-deputies) (FOX 9)
@@ -64,6 +82,12 @@ Source: [News API](https://newsapi.org/)
 - [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
 
 ## 25-30 (measles)
+
+- [Measles exposure alert issued for Alberta Children's Hospital emergency room](https://www.cbc.ca/news/canada/calgary/ach-er-measles-exposure-july-13-alert-1.7591009) (CBC News)
+
+- [Alberta mother feared the worst for 4-month-old with measles](https://www.cbc.ca/news/canada/edmonton/alta-measles-infant-1.7590756) (CBC News)
+
+- [How falling vaccination rates are fuelling the antibiotic resistance crisis](https://theconversation.com/how-falling-vaccination-rates-are-fuelling-the-antibiotic-resistance-crisis-259682) (The Conversation Africa)
 
 - [Prominent US anti-vaxxer says he caught measles and traveled back home (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250721/p137) (Memeorandum.com)
 
@@ -93,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (malaria)
 
+- [A chaperonin complex regulates organelle proteostasis in malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013275) (Plos.org)
+
 - [Thrombocytopenia in patients with Plasmodium vivax in Colombia is associated with anti-phosphatidylserine autoantibodies and IL-6, IFNγ, IL-10 and TGF-β](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013284) (Plos.org)
 
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
@@ -106,6 +132,18 @@ Source: [News API](https://newsapi.org/)
 - [ICMR invites expression of interest for commercial production of advanced malaria vaccine](https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece) (BusinessLine)
 
 ## 25-30 (dengue)
+
+- [Brasil inaugura a maior biofábrica de mosquitos do mundo](https://veja.abril.com.br/agenda-verde/brasil-inaugura-a-maior-biofabrica-de-mosquitos-do-mundo/) (Abril.com.br)
+
+- [‘AI used to aid dengue efforts’](https://www.thestar.com.my/news/nation/2025/07/23/ai-used-to-aid-dengue-efforts) (The Star Online)
+
+- [Assessing Aedes mosquito larval indicators, dengue virus infection rates, and risk factors in Khyber Pakhtunkhwa: Insights for improved vector control strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013252) (Plos.org)
+
+- [Brasil vai "fabricar mosquitos" para combater a dengue; entenda](https://saude.ig.com.br/2025-07-22/brasil-vai-fabricar-mosquitos-para-combater-a-dengue-entenda.html) (Ig.com.br)
+
+- [Caso di Dengue a Pisa, dimessa da ospedale donna](https://www.ansa.it/toscana/notizie/2025/07/22/caso-di-dengue-a-pisa-dimessa-da-ospedale-donna_98065ab4-43a2-429c-b021-5fd989c800a6.html) (ANSA.it)
+
+- [Health Ministry developing AI to predict dengue hotspots](https://www.malaysiakini.com/news/749782) (Malaysiakini)
 
 - [Health Ministry using AI to map potential dengue hotspots, says Dzulkefly](https://www.thestar.com.my/news/nation/2025/07/22/health-ministry-using-ai-to-map-potential-dengue-hotspots-says-dzulkefly) (The Star Online)
 
@@ -134,6 +172,22 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie](https://www.stern.de/news/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie-35915590.html) (STERN.de)
+
+- [WHO varoittaa chikungunya-epidemian leviämisestä](https://yle.fi/a/74-20173892) (YLE News)
+
+- [Țânțarii aduc un nou pericol în Europa. OMS: „Vedem cum istoria se repetă”](http://hotnews.ro/tantarii-aduc-un-nou-pericol-in-europa-oms-vedem-cum-istoria-se-repeta-2029510) (Hotnews.ro)
+
+- [WHO Sounds Alarm On Risk Of Chikungunya Epidemic](https://www.barrons.com/articles/who-sounds-alarm-on-risk-of-chikungunya-epidemic-91744d0d) (Barron's)
+
+- [Brasil inaugura a maior biofábrica de mosquitos do mundo](https://veja.abril.com.br/agenda-verde/brasil-inaugura-a-maior-biofabrica-de-mosquitos-do-mundo/) (Abril.com.br)
+
+- [World Health Organization raises concern about spread of mosquito-borne Chikungunya virus](https://www.thestar.com.my/news/world/2025/07/22/world-health-organization-raises-concern-about-spread-of-mosquito-borne-chikungunya-virus) (The Star Online)
+
+- [Un deuxième cas de chikungunya autochtone confirmé près de Grenoble, une nouvelle opération de démoustication programmée](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-deuxieme-cas-de-chikungunya-autochtone-confirme-pres-de-grenoble-une-nouvelle-operation-de-demoustication-programmee-3191493.html) (Franceinfo.fr)
+
+- [Isère. Chikungunya : un second cas autochtone détecté](https://www.ledauphine.com/faits-divers-justice/2025/07/22/chikungunya-un-second-cas-autochtone-detecte) (Le Dauphiné Libéré)
 
 - [Bavarian Nordic Receives Acceptance from Health Canada for Review of the New Drug Submission for its Chikungunya Vaccine](https://www.globenewswire.com/news-release/2025/07/22/3119155/0/en/Bavarian-Nordic-Receives-Acceptance-from-Health-Canada-for-Review-of-the-New-Drug-Submission-for-its-Chikungunya-Vaccine.html) (GlobeNewswire)
 
@@ -2481,8 +2535,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
-- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
-
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2520,8 +2572,6 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
-
-- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2572,8 +2622,6 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
-
-- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 

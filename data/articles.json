@@ -1,8 +1,424 @@
 {
-  "last_updated": "2025-07-23 07:10",
-  "count_articles_total": 1141,
-  "count_articles_new": 12,
+  "last_updated": "2025-07-23 19:07",
+  "count_articles_total": 1161,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 23151,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie",
+      "description": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt. Die Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, \"wodurch 5,6 Milliarden Menschen gef\u00e4hrdet sind\", sagte WHO-\u2026",
+      "url": "https://www.stern.de/news/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie-35915590.html",
+      "urlToImage": "https://image.stern.de/35915592/t/GL/v1/w1440/r1.7778/-/22--impfung-gegen-die-viruserkrankung-chikungunya---2e3ad001ca85dc6e.jpg",
+      "publishedAt": "2025-07-22 19:02:29",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt. Die Kran\u2026 [+2033 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.349847",
+      "internal_id": "2dd203f64d9b34168062c28927233f150ba57587649080335750c08214be7602",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23150,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "WHO varoittaa chikungunya-epidemian levi\u00e4misest\u00e4",
+      "description": "WHOI va",
+      "url": "https://yle.fi/a/74-20173892",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_622,w_6720,h_3780/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1753204865/39-1497125687fc7a964096",
+      "publishedAt": "2025-07-22 17:08:00",
+      "content": "Maailman terveysj\u00e4rjest\u00f6 WHO vaatii pikaisia toimia chikungunya-kuumeen levi\u00e4misen est\u00e4miseksi. Chikungunya on moskiittojen levitt\u00e4m\u00e4 virussairaus, joka aiheuttaa kovaa kipua ja korkeaa kuumetta, W\u2026 [+370 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.333471",
+      "internal_id": "9b73140e909f2c68ce715f6bf33df58483c77551199fa0f14c476a0d46dd6b0f",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23149,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Ana Te\u0219can",
+      "title": "\u021a\u00e2n\u021barii aduc un nou pericol \u00een Europa. OMS: \u201eVedem cum istoria se repet\u0103\u201d",
+      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii a lansat mar\u021bi un apel urgent la ac\u021biune pentru a preveni repetarea unei epidemii de virus chikungunya, transmis de \u021b\u00e2n\u021bari, care a f\u0103cut ravagii \u00een urm\u0103 cu dou\u0103 decenii, \u00een contextul\u2026",
+      "url": "http://hotnews.ro/tantarii-aduc-un-nou-pericol-in-europa-oms-vedem-cum-istoria-se-repeta-2029510",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2025/07/profimedia-0911444030.jpg",
+      "publishedAt": "2025-07-22 17:02:49",
+      "content": "Organizaia Mondial a Sntii a lansat mari un apel urgent la aciune pentru a preveni repetarea unei epidemii de virus chikungunya, transmis de \u00e2nari, care a fcut ravagii \u00een urm cu dou decenii, \u00een conte\u2026 [+1916 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.306992",
+      "internal_id": "3241577b5bc36768630a618c7e40b65126f5f71ecfcdd1f3731dd2ac5d4512f0",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23155,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Barron's",
+      "author": "Afp - Agence France Presse",
+      "title": "WHO Sounds Alarm On Risk Of Chikungunya Epidemic",
+      "description": "WHO Sounds Alarm On Risk Of Chikungunya Epidemicbarrons.com",
+      "url": "https://www.barrons.com/articles/who-sounds-alarm-on-risk-of-chikungunya-epidemic-91744d0d",
+      "urlToImage": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+      "publishedAt": "2025-07-22 16:45:28",
+      "content": "The World Health Organization warned on Tuesday a major chikungunya virus epidemic risks sweeping around the globe, calling for urgent action to prevent it. The Barron's news department was not invo\u2026 [+132 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.406730",
+      "internal_id": "f2683afc1cc89dded421c06158784fb861da6045c5d702200b0867a1a4b7eaef",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23139,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles exposure alert issued for Alberta Children's Hospital emergency room",
+      "description": "Alberta Health Services has issued a measles exposure alert for the Alberta Children's Hospital in Calgary after a person with a confirmed case of measles visited the hospital's emergency department while infectious.",
+      "url": "https://www.cbc.ca/news/canada/calgary/ach-er-measles-exposure-july-13-alert-1.7591009",
+      "urlToImage": "https://i.cbc.ca/1.6684071.1734565978!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/alberta-children-s-hospital.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-22 16:38:28",
+      "content": "Alberta Health Services has issued a measles exposure alert for the Alberta Children's Hospital in Calgary after a person with a confirmed case of measles visited the hospital's emergency department \u2026 [+1474 chars]",
+      "retrievedAt": "2025-07-23 19:07:24.087086",
+      "internal_id": "27ca0a31d22c008a7d53920e9b6936c4e9c7f8316140c621c85bf26111792ed9",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23142,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Val\u00e9ria Fran\u00e7a",
+      "title": "Brasil inaugura a maior biof\u00e1brica de mosquitos do mundo",
+      "description": "Iniciativa tem como objetivo produzir uma gera\u00e7\u00e3o de insetos Aedes aegypti n\u00e3o suscet\u00edveis ao v\u00edrus da dengue, Zika, Chikungunya e febre amarela",
+      "url": "https://veja.abril.com.br/agenda-verde/brasil-inaugura-a-maior-biofabrica-de-mosquitos-do-mundo/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/02/GettyImages-1139720793.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-22 16:35:18",
+      "content": "Inverno: Revista em casa por 8,98/semanaAEDES AEGYPTI - Nova gera\u00e7\u00e3o de mosquitos devem repovoar os locais onde ser\u00e3o liberados: possuem maior capacidade reprodutiva que os encontrados na natureza (J\u2026 [+2307 chars]",
+      "retrievedAt": "2025-07-23 19:07:25.408500",
+      "internal_id": "4a13651725874d388092c92258da30155a34c97dc7ce1bb4f203c61ce6b0b4b6",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23140,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta mother feared the worst for 4-month-old with measles",
+      "description": "Months after fearing she would lose her baby girl to measles, Morgan Birch says she wants Canadians to educate themselves more about the importance of vaccines.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alta-measles-infant-1.7590756",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-22 16:07:28",
+      "content": "Months after fearing she would lose her baby girl to measles, Morgan Birch says she wants Canadians to educate themselves more about the importance of vaccines. Birch's daughter, Kimie Fukuta-Birch,\u2026 [+7020 chars]",
+      "retrievedAt": "2025-07-23 19:07:24.096032",
+      "internal_id": "949727c4ca0186e5062a498fda9d2445232fb1696507b3dac1b4cbbeb0778451",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23141,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "\u2018AI used to aid dengue efforts\u2019",
+      "description": "THE Health Ministry is utilising artificial intelligence (AI) to predict future dengue hotspots, with the aim of enhancing targeted interventions against the disease. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/07/23/ai-used-to-aid-dengue-efforts",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/23/3430491.JPG",
+      "publishedAt": "2025-07-22 16:00:00",
+      "content": "THE Health Ministry is utilising artificial intelligence (AI) to predict future dengue hotspots, with the aim of enhancing targeted interventions against the disease. Health Minister Datuk Seri Dr D\u2026 [+771 chars]",
+      "retrievedAt": "2025-07-23 19:07:25.399733",
+      "internal_id": "5965dd3850299fcd8328fcdac1d102f0a7161ab75aef6dcd925367bbac9db9f6",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23154,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Olivia Le Poidevin",
+      "title": "World Health Organization raises concern about spread of mosquito-borne Chikungunya virus",
+      "description": "GENEVA (Reuters) -The World Health Organization issued an urgent call for action on Tuesday to prevent a repeat of an epidemic of the mosquito-borne chikungunya virus that swept the globe two decades ago, as new outbreaks linked to the Indian Ocean region spr\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/07/22/world-health-organization-raises-concern-about-spread-of-mosquito-borne-chikungunya-virus",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/07/22/3430125.jpg",
+      "publishedAt": "2025-07-22 15:55:00",
+      "content": "GENEVA (Reuters) -The World Health Organization issued an urgent call for action on Tuesday to prevent a repeat of an epidemic of the mosquito-borne chikungunya virus that swept the globe two decades\u2026 [+1824 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.398222",
+      "internal_id": "29604c64a7fcac6b1f65f19d44b1740c6cc8afc1cb34c541cf5c909457e7dba4",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23138,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, London Health Sciences Centre and Schulich School of Medicine and Dentistry, Western University",
+      "title": "How falling vaccination rates are fuelling the antibiotic resistance crisis",
+      "description": "Measles is a viral infection, so antibiotics don\u2019t treat it directly. But it weakens the immune system, leading to bacterial infections like pneumonia or ear infections, which do require antibiotics.",
+      "url": "https://theconversation.com/how-falling-vaccination-rates-are-fuelling-the-antibiotic-resistance-crisis-259682",
+      "urlToImage": "https://images.theconversation.com/files/680989/original/file-20250718-56-ayetcs.JPG?ixlib=rb-4.1.0&rect=0%2C837%2C8192%2C4096&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-22 15:21:20",
+      "content": "Antibiotic resistance is one of the biggest health threats we face today. It\u2019s often blamed on the overuse of antibiotics, and for a good reason. But there\u2019s another major factor quietly driving this\u2026 [+5095 chars]",
+      "retrievedAt": "2025-07-23 19:07:24.063465",
+      "internal_id": "44a4e0a8db704556b3599aa1a42801e0ae613d314025dfddae7df434898f39ab",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23143,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jehangir Khan, Muhammad Adil, Tsheten Tsheten, Pablo Manrique-Saide, Dongjing Zhang, Abdul Aziz, Zhiyue Lv, Tao Chen",
+      "title": "Assessing Aedes mosquito larval indicators, dengue virus infection rates, and risk factors in Khyber Pakhtunkhwa: Insights for improved vector control strategies",
+      "description": "Author summary Since 2013, dengue has spread rapidly throughout KP Province, northern Pakistan, resulting in major outbreaks with over 20,000 reported cases and nearly 100 fatalities. Ae. aegypti is the primary dengue vector, with Ae. albopictus emerging as a\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013252",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013252.g005&size=inline",
+      "publishedAt": "2025-07-22 14:00:00",
+      "content": "Citation: Khan J, Adil M, Tsheten T, Manrique-Saide P, Zhang D, Aziz A, et al. (2025) Assessing Aedes mosquito larval indicators, dengue virus infection rates, and risk factors in Khyber Pakhtunkhwa:\u2026 [+34967 chars]",
+      "retrievedAt": "2025-07-23 19:07:25.447225",
+      "internal_id": "91d6d702b2f674cbc3f23951330f32b953b7e623d722b32dd93ebdb7611d347d",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23147,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jaqueline Elisa Verardo Benedetti, Kauana Pizzutti, Mariana Preussler Mott, Pedro Uriel Pedrotti Vieira, Neide Maria Bruscato, Emilio Hideyuki Moriguchi, Roberta Rigo Dalla Corte, Jo\u00e3o Carlos Batista Santana, C\u00edcero Dias",
+      "title": "Post-vaccination Streptococcus pneumoniae colonization and respiratory manifestations in children: A prospective cohort study",
+      "description": "Background Streptococcus pneumoniae is considered one of the main agents for pneumonia, meningitis, bacteremia, sinusitis, and acute otitis media (AOM)especially in children under 5 years, and a cause for morbidity and mortality due to respiratory infections \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328516",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328516.g001&size=inline",
+      "publishedAt": "2025-07-22 14:00:00",
+      "content": "Abstract Background Streptococcus pneumoniae is considered one of the main agents for pneumonia, meningitis, bacteremia, sinusitis, and acute otitis media (AOM)especially in children under 5 years,\u2026 [+37673 chars]",
+      "retrievedAt": "2025-07-23 19:07:26.064507",
+      "internal_id": "2d30686db647144ab344fb4bd618332b80b8255d05b28e07e9f5f9b10dab82f8",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23148,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amanda Tissawak, Yarden Rosin, Shirly Katz Galay, Alia Qasem, Michal Shahar, Nirit Trabelsi, Ora Furman-Schueler, Steven M. Johnson, Anat Florentin",
+      "title": "A chaperonin complex regulates organelle proteostasis in malaria parasites",
+      "description": "Author summary The cell of the human malaria parasite Plasmodium falciparum has a unique organelle called the apicoplast that produces essential metabolites, but it is unclear how it maintains a stable proteome. Here, we address the question of organelle prot\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013275",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013275.g009&size=inline",
+      "publishedAt": "2025-07-22 14:00:00",
+      "content": "Citation: Tissawak A, Rosin Y, Katz Galay S, Qasem A, Shahar M, Trabelsi N, et al. (2025) A chaperonin complex regulates organelle proteostasis in malaria parasites. PLoS Pathog 21(7): e1013275. h\u2026 [+75562 chars]",
+      "retrievedAt": "2025-07-23 19:07:26.559336",
+      "internal_id": "077d1e778370d23cc1304788975fb36147356daa39f01fcde03340a04293438c",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23144,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "Brasil vai \"fabricar mosquitos\" para combater a dengue; entenda",
+      "description": "Biof\u00e1brica da Wolbito em Curitiba aposta em tecnologia natural para frear avan\u00e7o das arboviroses",
+      "url": "https://saude.ig.com.br/2025-07-22/brasil-vai-fabricar-mosquitos-para-combater-a-dengue-entenda.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-07-22 12:34:55",
+      "content": "No \u00faltimo s\u00e1bado (19), foi inaugurada a Wolbito do Brasil, a maior biof\u00e1brica do mundo dedicada \u00e0 produ\u00e7\u00e3o de mosquitos Aedes aegypti inoculados com a bact\u00e9ria Wolbachia, capazes de impedir a transmi\u2026 [+3076 chars]",
+      "retrievedAt": "2025-07-23 19:07:25.456544",
+      "internal_id": "6ee25796967279e5139dbc2ee1e8da1a663b8bfb38f921e27b4285c4a36a5519",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23137,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Eyewitness News",
+      "title": "Nassau County warns residents about spread of rabies among raccoons and feral cats",
+      "description": "The county's Department of Health issued a formal declaration of an imminent public health threat in response to the ongoing spread of rabies among wild and feral-domesticated animals.",
+      "url": "https://abc7ny.com/post/nassau-county-warns-residents-spread-rabies-among-raccoons-feral-cats/17241269/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17241368_072225-wabc-rabies-warning-nassau-img.jpg?w=1600",
+      "publishedAt": "2025-07-22 12:34:44",
+      "content": "NASSAU COUNTY (WABC) -- Nassau County officials are warning residents about the spread of rabies in the area. The county's Department of Health issued a formal declaration of an imminent public heal\u2026 [+3338 chars]",
+      "retrievedAt": "2025-07-23 19:07:23.344545",
+      "internal_id": "49d226735725b1bfee3558da9ff9aa98e228265de752a5a4d38bf47fa6d9a954",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23135,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Renee Anderson",
+      "title": "Nassau County declares rabies an imminent public health threat as cases rise. Here's what to know.",
+      "description": "Nassau County declares rabies an imminent public health threat as cases rise. Here's what to know.cbsnews.com",
+      "url": "https://www.cbsnews.com/newyork/news/nassau-county-rabies-public-health-threat/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/07/22/4a78c77a-95c7-41ac-8036-92bd24988755/thumbnail/1200x630/fbaa7bced2e77ecb0e0abd3435abff83/gettyimages-2089434003.jpg",
+      "publishedAt": "2025-07-22 12:24:00",
+      "content": "Nassau County is warning residents about the rise of rabies. The Department of Health declared an imminent public health threat Monday over the spread of rabies among wild animals. Health officials\u2026 [+3795 chars]",
+      "retrievedAt": "2025-07-23 19:07:23.327172",
+      "internal_id": "5de574f8824077485f99157f8ce8142a6ab5d19530f59693780911a606f43dbc",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23134,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "STLtoday.com",
+      "author": "Hannah Wyman St. Louis Post-Dispatch",
+      "title": "Festus to consider a trap-neuter-release program for feral cats",
+      "description": "Volunteers would be allowed to trap feral cats within city limits and take them to be spayed or neutered and vaccinated for rabies.",
+      "url": "https://www.stltoday.com/news/local/metro/article_9eedba69-bd3e-4e75-bfdd-da7bde6c6dbb.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/ee/9eedba69-bd3e-4e75-bfdd-da7bde6c6dbb/687eb807392a7.preview.jpg?crop=1784%2C937%2C0%2C112&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-22 11:00:00",
+      "content": "FESTUS The city council will consider a trap-neuter-return program to manage feral cats here, after a recent ban against feeding the felines was met with public outrage. According to the proposed bi\u2026 [+2542 chars]",
+      "retrievedAt": "2025-07-23 19:07:23.310253",
+      "internal_id": "3624a3066474f6d3f94298a0b28d571ee7b55c5c098f598785944598ae039fab",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23153,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Margot Desmas",
+      "title": "Un deuxi\u00e8me cas de chikungunya autochtone confirm\u00e9 pr\u00e8s de Grenoble, une nouvelle op\u00e9ration de d\u00e9moustication programm\u00e9e",
+      "description": "Une nouvelle op\u00e9ration de d\u00e9moustication doit avoir lieu dans la nuit de mardi \u00e0 mercredi \u00e0 Claix, apr\u00e8s la d\u00e9couverte d'un second cas de chikungunya autochtone dans cette commune situ\u00e9e en p\u00e9riph\u00e9rie de Grenoble. La maladie se transmet par l\u2019interm\u00e9diaire du\u2026",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-deuxieme-cas-de-chikungunya-autochtone-confirme-pres-de-grenoble-une-nouvelle-operation-de-demoustication-programmee-3191493.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/Y4WwphDNUj52R6a6ikLZnlgM2w0/930x620/regions/2025/07/22/058-482195-687f5c327dafe952822996.jpg",
+      "publishedAt": "2025-07-22 09:59:35",
+      "content": "Une nouvelle op\u00e9ration de d\u00e9moustication doit avoir lieu dans la nuit de mardi \u00e0 mercredi \u00e0 Claix, apr\u00e8s la d\u00e9couverte d'un second cas de chikungunya autochtone dans cette commune situ\u00e9e en p\u00e9riph\u00e9ri\u2026 [+2685 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.389687",
+      "internal_id": "b5a9f19ba4156197896c1e3eae9116fbb9b45ae4f42941fda315b342129f9085",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23136,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "News12.com",
+      "author": "Jonathan Gordon",
+      "title": "Imminent public health threat for rabies issued in Nassau County",
+      "description": "Nassau County Health Department officials said an aggressive rabies prevention program is required to control the spread of the virus.",
+      "url": "https://longisland.news12.com/imminent-public-health-threat-for-rabies-issued-in-nassau-county",
+      "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/CwbpL5q9jY2Ivi6SzAFFy/a29df40aa856955a454001b27b12d77b/cbc8e926-b68b-4552-9a94-856164b41c2b.jpg?fit=thumb&w=600&h=340&q=80&fm=webp",
+      "publishedAt": "2025-07-22 09:14:20",
+      "content": "Topics you care about, straight to your inbox",
+      "retrievedAt": "2025-07-23 19:07:23.336168",
+      "internal_id": "e4b6a568ded07419566322eb6f93244bf4db93f9c88a4d076c7e177f253993da",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Pisa, dimessa da ospedale donna",
+      "description": "E' stata dimessa dall'ospedale di Livorno la donna, proveniente dalla provincia di Pisa, ricoverata nei giorni scorsi nel reparto di malattie infettive per Dengue: la paziente, recentemente tornata da un soggiorno nel Sud-Est Asiatico, \"\u00e8 in buone condizio...\u2026",
+      "url": "https://www.ansa.it/toscana/notizie/2025/07/22/caso-di-dengue-a-pisa-dimessa-da-ospedale-donna_98065ab4-43a2-429c-b021-5fd989c800a6.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/7/22/72242ad6c4ef4b29d83b262bae43c1c0.jpg",
+      "publishedAt": "2025-07-22 09:11:20",
+      "content": "E' stata dimessa dall'ospedale di Livorno la donna, proveniente dalla provincia di Pisa, ricoverata nei giorni scorsi nel reparto di malattie infettive per Dengue: la paziente, recentemente tornat\u2026 [+1757 chars]",
+      "retrievedAt": "2025-07-23 19:07:25.472548",
+      "internal_id": "3d9256a3dbad431a43be04d39a09dec109bbf656e870d9a1de2254255adef95c",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23152,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Is\u00e8re. Chikungunya : un second cas autochtone d\u00e9tect\u00e9",
+      "description": "Un second cas autochtone de chikungunya a \u00e9t\u00e9 signal\u00e9 le 18 juillet \u00e0 Claix, deux semaines apr\u00e8s un premier cas. Une nouvelle op\u00e9ration de d\u00e9moustication doit avoir lieu dans la nuit du mardi 22 au mercredi 23 juillet.",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2025/07/22/chikungunya-un-second-cas-autochtone-detecte",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C6FCFF08-0CB7-4831-A011-6401825BC7A4/FB1200/photo-1753175258.jpg",
+      "publishedAt": "2025-07-22 09:09:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-07-23 19:07:27.373564",
+      "internal_id": "3fb7050794314de14797d4d69bca6b413ad9d7cecb74deb89bc1deebe0aeb2d2",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23133,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0412 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0442\u0435\u0441\u0442\u044b \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0439 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u043a\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0430",
+      "description": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0442\u0435\u0441\u0442\u044b \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0438\u0437\u043e\u0442\u0435\u0440\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0435\u0442\u043b\u0435\u0432\u043e\u0439 \u0430\u043c\u043f\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 LAMP \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0439 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u043a\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0430.",
+      "url": "https://rg.ru/2025/07/22/reg-sibfo/v-novosibirske-razrabotali-testy-dlia-bystroj-diagnostiki-kokliusha.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/07/22/1_19e.jpg",
+      "publishedAt": "2025-07-22 08:40:27",
+      "content": "- . , , 90% , , . , - , , . - Bordetella. LAMP : B. pertussis, B. parapertussis, B. bronchiseptica B. holmesii. , - ( ), . , , . LAMP 94,5%, , - . Methods.",
+      "retrievedAt": "2025-07-23 19:07:22.728715",
+      "internal_id": "a51cb6a3f6b802ca311970eebfbc8581b418cf695b0ab8faa29bf9d83e25e369",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23146,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malaysiakini",
+      "author": "Bernama",
+      "title": "Health Ministry developing AI to predict dengue hotspots",
+      "description": "Health Ministry developing AI to predict dengue hotspotsmalaysiakini.com",
+      "url": "https://www.malaysiakini.com/news/749782",
+      "urlToImage": "https://i.malaysiakini.com/1189/daf956708c5ef8d662920b58c5b4f23a.jpeg",
+      "publishedAt": "2025-07-22 08:40:01",
+      "content": "The Health Ministry is developing an AI system to predict dengue hotspots, as part of efforts to strengthen early detection and outbreak response.Health Minister Dzulkefly Ahmad told the Dewan Rakyat\u2026 [+162 chars]",
+      "retrievedAt": "2025-07-23 19:07:25.503645",
+      "internal_id": "38781e6176a2c19bfc61aa5279aa0a382be92c0faa1ed977b94c3a7c7bdc2e9d",
+      "publishedAtLabel": "Jul 22"
+    },
     {
       "id": 23130,
       "query": [
@@ -20547,60 +20963,6 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21994,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Obed Nares",
-      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
-      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
-      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
-      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
-      "publishedAt": "2025-06-08 16:31:49",
-      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
-      "retrievedAt": "2025-06-09 19:06:04.659724",
-      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
-      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-06-08 10:55:42",
-      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
-      "retrievedAt": "2025-06-09 19:06:03.611880",
-      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21992,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Jacob Paul",
-      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
-      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
-      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
-      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
-      "publishedAt": "2025-06-08 08:16:49",
-      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
-      "retrievedAt": "2025-06-09 19:06:01.948278",
-      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
