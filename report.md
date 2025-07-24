@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2025-07-23 19:07
-- **Most recent article:** 2025-07-22 19:02:29
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-07-24 07:10
+- **Most recent article:** 2025-07-23 07:09:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 31 | 53 | 36 | 114 | 64 | 16 | 361 |
-| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 19 | 157 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 11 | 128 |
-| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 7 | 123 |
+| measles | 48 | 31 | 53 | 36 | 114 | 64 | 19 | 365 |
+| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 22 | 161 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 23 | 140 |
+| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 7 | 124 |
 | meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 5 | 100 |
-| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 3 | 87 |
+| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 6 | 90 |
 | rabies | 6 | 19 | 5 | 17 | 17 | 4 | 5 | 73 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
+| h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 1 | 48 |
 | zika | 2 | 14 | 2 | 8 | 12 | 8 | 1 | 47 |
-| h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 0 | 47 |
 | typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 1 | 21 |
 | pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 1 | 11 |
 | hpai | 1 | 1 | 0 | 4 | 3 | 2 | 0 | 11 |
@@ -63,6 +63,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (mpox)
 
+- [Emergence of Clade Ib Monkeypox Virus—Current State of Evidence](https://wwwnc.cdc.gov/eid/article/31/8/24-1551_article) (Cdc.gov)
+
+- [Mpox duikt op in Gambia: autoriteiten slaan alarm na eerste besmetting](https://www.nieuwsblad.be/net-binnen/mpox-duikt-op-in-gambia-autoriteiten-slaan-alarm-na-eerste-besmetting/79349492.html) (Nieuwsblad.be)
+
+- [Συναγερμός στην Γκάμπια μετά τον εντοπισμό κρούσματος της mpox](https://www.skai.gr/news/world/synagermos-stin-gkampia-meta-ton-entopismo-krousmatos-tis-mpox) (Skai.gr)
+
 - [Level 2 - Clade II Mpox in Liberia and Sierra Leone](https://wwwnc.cdc.gov/travel/notices/level2/mpox-sierra-leone-liberia) (Cdc.gov)
 
 - [Contact tracing ongoing after rare mpox strain detected in Logan](https://7news.com.au/news/contact-tracing-ongoing-after-rare-mpox-strain-detected-in-logan-c-19414940) (7NEWS.com.au)
@@ -82,6 +88,12 @@ Source: [News API](https://newsapi.org/)
 - [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
 
 ## 25-30 (measles)
+
+- [Singapore sees rise in measles cases but risk of large outbreaks is low: CDA](https://www.channelnewsasia.com/singapore/measles-singapore-cases-rise-low-risk-vaccine-5253266) (CNA)
+
+- [Measles out of control ahead of September school start, doctors warn](https://www.cbc.ca/news/canada/calgary/measles-out-of-control-ahead-of-september-school-start-doctors-warn-1.7591542) (CBC News)
+
+- [West Central District Health Department to give vaccinations at Community Health Fair in North Platte](https://nebraskapublicmedia.org/en/news/news-articles/west-central-district-health-department-to-give-vaccinations-at-community-health-fair-in-north-platte/) (Nebraskapublicmedia.org)
 
 - [Measles exposure alert issued for Alberta Children's Hospital emergency room](https://www.cbc.ca/news/canada/calgary/ach-er-measles-exposure-july-13-alert-1.7591009) (CBC News)
 
@@ -131,7 +143,17 @@ Source: [News API](https://newsapi.org/)
 
 - [ICMR invites expression of interest for commercial production of advanced malaria vaccine](https://www.thehindubusinessline.com/news/icmr-invites-expression-of-interest-for-commercial-production-of-advanced-malaria-vaccine/article69833770.ece) (BusinessLine)
 
+## 25-30 (h5n1)
+
+- [В Камбодже выявили новый случай заражения человека птичьим гриппом](https://tass.ru/obschestvo/24583629) (Tass.ru)
+
 ## 25-30 (dengue)
+
+- [Bacolod: Bacolod records 11 deaths with suspected links to dengue](https://rpnradio.com/bacolod-bacolod-records-11-deaths-with-suspected-links-to-dengue/) (Rpnradio.com)
+
+- [Dengue cases surge in Pacific, highest since 2016 says WHO](https://www.nzherald.co.nz/talanoa/dengue-cases-surge-in-pacific-highest-since-2016-says-who/G3VFO2TMCFFDZJPVTTP2GDMK4Q/) (New Zealand Herald)
+
+- [Nuevo León registra su primera muerte a causa dengue en este año](https://www.excelsior.com.mx/nacional/nuevo-leon-registra-su-primera-muerte-por-dengue-del-2025/1728501) (Excelsior.com.mx)
 
 - [Brasil inaugura a maior biofábrica de mosquitos do mundo](https://veja.abril.com.br/agenda-verde/brasil-inaugura-a-maior-biofabrica-de-mosquitos-do-mundo/) (Abril.com.br)
 
@@ -172,6 +194,30 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [WHO schlägt Alarm: Chikungunya-Epidemie könnte Milliarden gefährden](https://www.focus.de/panorama/who-schlaegt-alarm-chikungunya-epidemie-koennte-milliarden-gefaehrden_312a4ba8-1f0f-4bed-b9ef-5aa44744516a.html) (Focus)
+
+- [Gefährliche Krankheit: WHO warnt vor Chikungunya-Virus: Was jetzt für die Impfung wichtig ist](https://www.fitforfun.de/news/who-warnt-vor-chikungunya-virus-was-jetzt-fuer-die-impfung-wichtig-ist-759176.html) (FIT FOR FUN)
+
+- [WHO warnt vor weltweiter Chikungunya-Epidemie: Stiko empfiehlt Reiseimpfung](https://www.tagesspiegel.de/gesundheit/who-warnt-vor-weltweiter-chikungunya-epidemie-stiko-empfiehlt-reiseimpfung-14069915.html) (Der Tagesspiegel)
+
+- [WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie](https://www.diepresse.com/19926114/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie) (Diepresse.com)
+
+- [A WHO figyelmeztet, Európában is terjed a veszélyes vírus](https://www.origo.hu/nagyvilag/2025/07/virus-who-chikungunya-tigrisszunyog-franciaorszag-eu) (Origo.hu)
+
+- [World Health Organization raises concern about spread of mosquito-borne Chikungunya virus](https://economictimes.indiatimes.com/news/international/world-news/world-health-organization-raises-concern-about-spread-of-mosquito-borne-chikungunya-virus/articleshow/122848460.cms) (The Times of India)
+
+- [Outbreak of Chikungunya Virus Poses Global Risk, Warns WHO](https://www.sciencealert.com/outbreak-of-chikungunya-virus-poses-global-risk-warns-who) (ScienceAlert)
+
+- [Weltgesundheitsorganisation: WHO warnt vor weltweiter Ausbreitung des Chikungunya-Virus](https://www.zeit.de/gesundheit/2025-07/weltgesundheitsorganisation-muecken-chikungunya-virus-epidemie) (Die Zeit)
+
+- [WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie](https://www.focus.de/gesundheit/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie_7bf23fb2-4858-4d5d-900c-3eae968ac51e.html) (Focus)
+
+- [Brote de chikungunya pone en riesgo a millones: OMS](https://www.excelsior.com.mx/global/riesgo-chikungunya-brote-global-oms/1728514) (Excelsior.com.mx)
+
+- [WHO sounds alarm on risk of chikungunya epidemic](https://timesofmalta.com/article/who-sounds-alarm-risk-chikungunya-epidemic.1113478) (Times of Malta)
+
+- [WHO warnt vor Risiko von Chikungunya-Epidemie](https://orf.at/stories/3400447/) (Orf.at)
 
 - [WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie](https://www.stern.de/news/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie-35915590.html) (STERN.de)
 
@@ -2535,6 +2581,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
+- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
+
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2572,6 +2620,8 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
+- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2622,6 +2672,8 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
+
+- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 

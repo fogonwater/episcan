@@ -1,8 +1,404 @@
 {
-  "last_updated": "2025-07-23 19:07",
-  "count_articles_total": 1161,
-  "count_articles_new": 23,
+  "last_updated": "2025-07-24 07:10",
+  "count_articles_total": 1186,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 23172,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS-online-Redaktion, afp",
+      "title": "WHO schl\u00e4gt Alarm: Chikungunya-Epidemie k\u00f6nnte Milliarden gef\u00e4hrden",
+      "description": "Die WHO warnt vor einer m\u00f6glichen globalen Chikungunya-Epidemie, da das Virus zunehmend in tropischen und subtropischen Regionen auftaucht.",
+      "url": "https://www.focus.de/panorama/who-schlaegt-alarm-chikungunya-epidemie-koennte-milliarden-gefaehrden_312a4ba8-1f0f-4bed-b9ef-5aa44744516a.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/c05123d3-0096-40e8-96bd-5e409f30ccb4.61c3ba2b-f018-4dcd-9278-001103ab9422.jpeg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281782%2C1105%29&hash=b6d9990e040a449196e5f70b07a76ff5136367e9c759544a9994a93bf87031ca",
+      "publishedAt": "2025-07-23 07:09:00",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt. Die Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, \u2026 [+2051 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.062615",
+      "internal_id": "9a0e75cddf1b4ddd71757043326c3367579b88a23e1ee0ddcf4fe290971bb15d",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23173,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FIT FOR FUN",
+      "author": "Deutsche Presse-Agentur (dpa)",
+      "title": "Gef\u00e4hrliche Krankheit: WHO warnt vor Chikungunya-Virus: Was jetzt f\u00fcr die Impfung wichtig ist",
+      "description": "Chikungunya kann Fieber und Gelenkschmerzen ausl\u00f6sen. Die WHO warnt vor seiner Ausbreitung. Vor Reisen in Risikogebiete wird eine Impfung empfohlen. Hier erf\u00e4hrst du, was du \u00fcber den Schutz wissen musst.",
+      "url": "https://www.fitforfun.de/news/who-warnt-vor-chikungunya-virus-was-jetzt-fuer-die-impfung-wichtig-ist-759176.html",
+      "urlToImage": "https://www.fitforfun.de/files/images/202507/0/stechmuecke-der-art-aedes-aegypti,759183_3x2_n.jpg",
+      "publishedAt": "2025-07-23 06:25:00",
+      "content": "Bislang gehen die in Deutschland registrierten Erkrankungen aber allesamt auf Reiser\u00fcckkehrer zur\u00fcck - 84 waren es laut RKI-Daten bis Juli. Lesetipp Zu einer Impfung r\u00e4t die Kommission au\u00dferdem all\u2026 [+314 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.071088",
+      "internal_id": "e23648acd330ff74d8b83eed86bfbfb3d535ed7a94f4a4f8fced0f70de5753dc",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23168,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "WHO warnt vor weltweiter Chikungunya-Epidemie: Stiko empfiehlt Reiseimpfung",
+      "description": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt. Die Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, sagte WHO-Sprecherin Diana Rojas Alvarez.",
+      "url": "https://www.tagesspiegel.de/gesundheit/who-warnt-vor-weltweiter-chikungunya-epidemie-stiko-empfiehlt-reiseimpfung-14069915.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12854471/alternates/BASE_16_9_W1400/1753249872000/dengue-fieber-in-brasilien.jpeg",
+      "publishedAt": "2025-07-23 05:53:25",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt. Die Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, \u2026 [+2543 chars]",
+      "retrievedAt": "2025-07-24 07:10:02.998171",
+      "internal_id": "f906b136f27e99a1f0537baab9b6d4d7657f4b1b9ef15a327283a2f0108f5833",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23165,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie",
+      "description": "Die Viruserkrankung wird von der M\u00fccke \u00fcbertragen und wurde bereits in 119 L\u00e4ndern nachgewiesen.",
+      "url": "https://www.diepresse.com/19926114/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie",
+      "urlToImage": "https://img.diepresse.com/public/incoming/bumx2x-imago-images-0203179263/alternates/DPR_SOCIAL_NACHRICHTEN/imago%20images%200203179263",
+      "publishedAt": "2025-07-23 05:28:06",
+      "content": "Die Viruserkrankung wird von der M\u00fccke \u00fcbertragen und wurde bereits in 119 L\u00e4ndern nachgewiesen. Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen \u2026 [+2110 chars]",
+      "retrievedAt": "2025-07-24 07:10:02.964310",
+      "internal_id": "112b7d65eaf637bea211bf636644e65cd103043088835d356edcd922d596d0fd",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23159,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u043d\u043e\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "H5N1 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0443 \u0448\u0435\u0441\u0442\u0438\u043b\u0435\u0442\u043d\u0435\u0433\u043e \u0440\u0435\u0431\u0435\u043d\u043a\u0430 \u0432 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0422\u0431\u043e\u043d\u0433\u0445\u043c\u0443\u043c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u041c\u0438\u043d\u0437\u0434\u0440\u0430\u0432\u0435 \u0441\u0442\u0440\u0430\u043d\u044b",
+      "url": "https://tass.ru/obschestvo/24583629",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/24583629?u=2025-07-23T04:57:54.270905",
+      "publishedAt": "2025-07-23 04:57:54",
+      "content": ", 23 . //. H5N1. Khmer Times. , H5N1 - . . 2025 13 , 5 , . () 2024 H5N1 , . . 70 H5N1 47 .",
+      "retrievedAt": "2025-07-24 07:10:01.216423",
+      "internal_id": "aaa7a98e152874071566becb88f6de31e3debed468666f2b74092744bfe6565c",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23156,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Singapore sees rise in measles cases but risk of large outbreaks is low: CDA",
+      "description": "There were 14 measles cases as of the week ending Jul 12, compared with 11 cases in the whole of 2024.",
+      "url": "https://www.channelnewsasia.com/singapore/measles-singapore-cases-rise-low-risk-vaccine-5253266",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--DBZhXWCt--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/06/10/istock-1803648552.jpg?itok=vCYF7Y3q",
+      "publishedAt": "2025-07-23 04:16:57",
+      "content": "SINGAPORE: Singapore has reported a rise in the number of measles cases this year, with 14 infections as of the week ending Jul 12, compared with 11 cases in the whole of 2024 and eight cases in 2023\u2026 [+1732 chars]",
+      "retrievedAt": "2025-07-24 07:10:00.710298",
+      "internal_id": "067fb0693499a25ed00be7ad98a7819688bba1c4006d007cdf242675e1c40f40",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23170,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "A WHO figyelmeztet, Eur\u00f3p\u00e1ban is terjed a vesz\u00e9lyes v\u00edrus",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/nagyvilag/2025/07/virus-who-chikungunya-tigrisszunyog-franciaorszag-eu",
+      "urlToImage": "https://cdn.origo.hu/2025/07/qA3JxaIiIWcEggHr2RSuHcJnYN9cgN-C4Ng_jdiXFJ8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MwNzkyZTQ5YzBjMjRjNThiZGVmZWNhZmExZmU4OGFi.webp",
+      "publishedAt": "2025-07-23 04:05:00",
+      "content": "A Chikungunya-v\u00edrus terjed\u00e9se ism\u00e9t komoly nemzetk\u00f6zi aggodalmat kelt, miut\u00e1n a 2025 elej\u00e9n \u00fajraindult j\u00e1rv\u00e1ny \u00fajabb f\u00f6ldr\u00e9szeket \u00e9rt el, figyelmeztetett a WHO genfi sajt\u00f3t\u00e1j\u00e9koztat\u00f3j\u00e1n Diana Rojas A\u2026 [+1971 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.045372",
+      "internal_id": "183b33daba2c0c7538e72d90a6cafc40204ba2b4f7ebd5107489e7b2f8c20947",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23176,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Emergence of Clade Ib Monkeypox Virus\u2014Current State of Evidence",
+      "description": "Because of spread to countries that historically did not see cases, effective therapeutic agents for mpox are urgently needed.",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/8/24-1551_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-07-23 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Monkeypox virus (MPXV), th\u2026 [+22023 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.422718",
+      "internal_id": "0522c8781b552fc2333d74c38cd994b94586c5b3a6804d3ac0c75c4bc9750236",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23177,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Mpox duikt op in Gambia: autoriteiten slaan alarm na eerste besmetting",
+      "description": "Gambia heeft alarm geslagen nadat voor het eerst een geval van mpox is vastgesteld op het grondgebied. Het virus werd ontdekt via het reguliere gezondheidstoezicht, meldt het ministerie van Volksgezondheid.",
+      "url": "https://www.nieuwsblad.be/net-binnen/mpox-duikt-op-in-gambia-autoriteiten-slaan-alarm-na-eerste-besmetting/79349492.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/bz9axq-health-mpoxzambia/alternates/SIXTEEN_NINE_1200/HEALTH-MPOXZAMBIA",
+      "publishedAt": "2025-07-23 03:53:37",
+      "content": "PremiumTopvrouw van de NMBS Sophie Dutordoir over haar Spartaanse levenshouding: Ik zit nooit in een fauteuil. Nooit. Nergens In de aankomsthal van de luchthaven straalt ze het klassiek-nonchalante \u2026 [+425 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.431221",
+      "internal_id": "efb8660eb62ce4c6c4afdf382159db6ebbfd7aa65ddb4e578fb8cb181fdc4b1b",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23175,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0393\u03ba\u03ac\u03bc\u03c0\u03b9\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03bc\u03cc \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 mpox",
+      "description": "\u0397 mpox, \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03b9\u03cc\u03c2 \u03c4\u03b7\u03c2 \u03af\u03b4\u03b9\u03b1\u03c2 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1\u03c2 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2, \u03b5\u03ba\u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03bc\u03b5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc, \u03bc\u03c5\u03b1\u03bb\u03b3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03b5\u03be\u03b1\u03bd\u03b8\u03ae\u03bc\u03b1\u03c4\u03b1",
+      "url": "https://www.skai.gr/news/world/synagermos-stin-gkampia-meta-ton-entopismo-krousmatos-tis-mpox",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/ap24275488868227-mpox.jpg?itok=IgZe5UAe",
+      "publishedAt": "2025-07-23 03:18:56",
+      "content": "mpox, , , mpox, , , . \u00ab mpox , () \u00bb, . \u00ab mpox (...) \u00bb, . . mpox, , , . , 1970, . , \u00ab\u00bb 1 2. 2022 , . , . 2024, mpox. , . .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
+      "retrievedAt": "2025-07-24 07:10:03.413812",
+      "internal_id": "ff28dc68ccd1ebc919798f161dd1f6fab546cbee7b73ae0d9ebbc9515639ec52",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23171,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "World Health Organization raises concern about spread of mosquito-borne Chikungunya virus",
+      "description": "The World Health Organization has issued a warning about the resurgence of the chikungunya virus, reminiscent of the 2004-2005 epidemic. Originating in the Indian Ocean region in early 2025, outbreaks have spread to Southeast Asia and, alarmingly, Europe, wit\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/world-health-organization-raises-concern-about-spread-of-mosquito-borne-chikungunya-virus/articleshow/122848460.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122848475,width-1200,height-630,imgsize-34308,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-23 02:22:58",
+      "content": "The World Health Organization issued an urgent call for action on Tuesday to prevent a repeat of an epidemic of the mosquito-borne chikungunya virus that swept the globe two decades ago, as new outbr\u2026 [+1811 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.054021",
+      "internal_id": "eafb0f552cd73398182144d4f24fdcfe542a98b9a7a0d2cd2296c0601bb770da",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23166,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "AFP",
+      "title": "Outbreak of Chikungunya Virus Poses Global Risk, Warns WHO",
+      "description": "The World Health Organization warned on Tuesday a major chikungunya virus epidemic risks sweeping around the globe, calling for urgent action to prevent it.",
+      "url": "https://www.sciencealert.com/outbreak-of-chikungunya-virus-poses-global-risk-warns-who",
+      "urlToImage": "https://www.sciencealert.com/images/2025/07/Chikungunya_virus_header.jpg",
+      "publishedAt": "2025-07-23 01:52:44",
+      "content": "The World Health Organization warned on Tuesday a major chikungunya virusepidemic risks sweeping around the globe, calling for urgent action to prevent it. The WHO said it was picking up exactly the\u2026 [+2974 chars]",
+      "retrievedAt": "2025-07-24 07:10:02.973298",
+      "internal_id": "6e54594a8ded1b9fe3dc03997491f2f4cabe5f8ef2cb579ed71f51cbe8ed3a76",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23162,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Bacolod records 11 deaths with suspected links to dengue",
+      "description": "Bacolod City \u2013 The city is facing a health problem as cases of dengue and other waterborne diseases have been increasing. Based on the latest updates from the Bacolod City Health Office, the city recorded a total of 11 probable and suspected deaths from mosqu\u2026",
+      "url": "https://rpnradio.com/bacolod-bacolod-records-11-deaths-with-suspected-links-to-dengue/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/07/bacolod-dengue-cases.jpg",
+      "publishedAt": "2025-07-23 01:15:23",
+      "content": "Bacolod City The city is facing a health problem as cases of dengue and other waterborne diseases have been increasing. Based on the latest updates from the Bacolod City Health Office, the city reco\u2026 [+1614 chars]",
+      "retrievedAt": "2025-07-24 07:10:01.863092",
+      "internal_id": "52018597967bceea130c75ea1131bf702b279770de267d233918afaded307729",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23157,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles out of control ahead of September school start, doctors warn",
+      "description": "Several Alberta doctors are warning the province could face \"a perfect storm\" as measles outbreaks balloon and children head back to school in September.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-out-of-control-ahead-of-september-school-start-doctors-warn-1.7591542",
+      "urlToImage": "https://i.cbc.ca/1.7110648.1707503678!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-vaccine.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-22 23:52:48",
+      "content": "Several Alberta doctors are warning the province could face \"a perfect storm\" as measles outbreaks balloon and children head back to school in September. During a media availability hosted by the A\u2026 [+5826 chars]",
+      "retrievedAt": "2025-07-24 07:10:00.772827",
+      "internal_id": "c4f40617f21d378242e5c2196b4e0641d0b83f260937a2b670ebe7869d14349d",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23158,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nebraskapublicmedia.org",
+      "author": "Nebraska Public Media",
+      "title": "West Central District Health Department to give vaccinations at Community Health Fair in North Platte",
+      "description": "As measles cases rise nationally, Nebraska\u2019s overall vaccination rates are decreasing across the state. The West Central District Health Department is taking action to improve vaccination rates in its district.",
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/west-central-district-health-department-to-give-vaccinations-at-community-health-fair-in-north-platte/",
+      "urlToImage": "https://nebraskapublicmedia.org/assets/images/489792128_1146107940860382_894480.2e16d0ba.fill-1200x630.jpg",
+      "publishedAt": "2025-07-22 23:30:44",
+      "content": "As measles cases rise nationally, Nebraskas overall vaccination rates are decreasing across the state. The West Central District Health Department is taking action to improve vaccination rates in its\u2026 [+1481 chars]",
+      "retrievedAt": "2025-07-24 07:10:00.819228",
+      "internal_id": "f422cff942d5b26915568e4f781286ba985773bb8a86a4a766fac9f72c4793e8",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23161,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "RNZ",
+      "title": "Dengue cases surge in Pacific, highest since 2016 says WHO",
+      "description": "Fiji reported the most suspected cases with 13,702, followed by Tonga and French Polynesia.",
+      "url": "https://www.nzherald.co.nz/talanoa/dengue-cases-surge-in-pacific-highest-since-2016-says-who/G3VFO2TMCFFDZJPVTTP2GDMK4Q/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/EB2KTRCLYVG5ZHOSL5W6O56SBQ.png?auth=8a0f8d9c608a7c847eb76dfc391fb0d7687f9ae1f5ff3b9914460acf4929696c&width=1200&height=675&quality=70&focal=478%2C270&smart=false",
+      "publishedAt": "2025-07-22 23:18:19",
+      "content": "Weve been seeing a gradual increase in dengue in the Pacific for at least the last couple of decades. But looking at the last 10 years, what we tend to see is peaks in some years and then lower level\u2026 [+3527 chars]",
+      "retrievedAt": "2025-07-24 07:10:01.808692",
+      "internal_id": "3f11c4f4138fe38f5bdf5bc0603fe32f4a3de39c1989e111dc6e318d786bbe01",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23163,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: Gesundheit - Luis Kumpfm\u00fcller",
+      "title": "Weltgesundheitsorganisation: WHO warnt vor weltweiter Ausbreitung des Chikungunya-Virus",
+      "description": "Das von Stechm\u00fccken \u00fcbertragene Chikungunya-Virus ist laut WHO schon in 119 L\u00e4ndern nachgewiesen worden. Weltweit seien mehr als f\u00fcnf Milliarden Menschen gef\u00e4hrdet.",
+      "url": "https://www.zeit.de/gesundheit/2025-07/weltgesundheitsorganisation-muecken-chikungunya-virus-epidemie",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-07/weltgesundheitsorganisation-muecken-chikungunya-virus-epidemie-bild-2/wide__1300x731",
+      "publishedAt": "2025-07-22 21:09:50",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Ausbreitung des Chikungunya-Virus gewarnt. Die durch Stechm\u00fccken \u00fcbertragene Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, w\u2026 [+1856 chars]",
+      "retrievedAt": "2025-07-24 07:10:02.923701",
+      "internal_id": "3b9ddd698af18304c3047f758f2da2a2b12f7f572b14a8b2eb6eecd130ad2b40",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23169,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS-online-Redaktion",
+      "title": "WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie",
+      "description": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt.",
+      "url": "https://www.focus.de/gesundheit/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie_7bf23fb2-4858-4d5d-900c-3eae968ac51e.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/c05123d3-0096-40e8-96bd-5e409f30ccb4.61c3ba2b-f018-4dcd-9278-001103ab9422.jpeg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281782%2C1105%29&hash=b6d9990e040a449196e5f70b07a76ff5136367e9c759544a9994a93bf87031ca",
+      "publishedAt": "2025-07-22 20:55:43",
+      "content": "Die Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, \"wodurch 5,6 Milliarden Menschen gef\u00e4hrdet sind\", sagte WHO-Sprecherin Diana Rojas Alvarez am Dienstag vor Journalisten in Genf. \"Wir sch\u2026 [+1994 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.036113",
+      "internal_id": "e0175699f2d0701d534d795d43c706187dc3dd958dea4427058f6d25267faca9",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23167,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "oswaldo.rojas",
+      "title": "Brote de chikungunya pone en riesgo a millones: OMS",
+      "description": "Oswaldo Rojas La Organizaci\u00f3n Mundial de la Salud (OMS) hizo el martes un llamado urgente a la acci\u00f3n para evitar que se repita una epidemia del virus chikungunya como la de hace dos d\u00e9cadas, a medida que nuevos brotes relacionados con la regi\u00f3n del Oc\u00e9ano \u00cd\u2026",
+      "url": "https://www.excelsior.com.mx/global/riesgo-chikungunya-brote-global-oms/1728514",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/22/3346515.jpg",
+      "publishedAt": "2025-07-22 20:12:01",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) hizo el martes un llamado urgente a la acci\u00f3n para evitar que se repita una epidemia del virus chikungunya como la de hace dos d\u00e9cadas, a medida que nuevos b\u2026 [+1979 chars]",
+      "retrievedAt": "2025-07-24 07:10:02.989352",
+      "internal_id": "541e3904425ea9a2edbb001d8ff180cbc2c7c42ce3f155aa679c896b7e1ab3a5",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23174,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Times of Malta",
+      "author": "Afp",
+      "title": "WHO sounds alarm on risk of chikungunya epidemic",
+      "description": "Local transmission has been reported in France, and suspected cases detected in Italy.",
+      "url": "https://timesofmalta.com/article/who-sounds-alarm-risk-chikungunya-epidemic.1113478",
+      "urlToImage": "https://cdn-attachments.timesofmalta.com/533e1a3e0e60a88383594b238f25ef2bdea128ce-1753204084-936297d9-1200x630.jpg",
+      "publishedAt": "2025-07-22 19:50:21",
+      "content": "The World Health Organization warned on Tuesday a major chikungunya virus epidemic risks sweeping around the globe, calling for urgent action to prevent it. The WHO said it was picking up exactly th\u2026 [+2772 chars]",
+      "retrievedAt": "2025-07-24 07:10:03.101973",
+      "internal_id": "39a46f4f22bde41738b7b4426d9bbdda43daf969eda7ca2378775686165ece35",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23160,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "Nuevo Le\u00f3n registra su primera muerte a causa dengue en este a\u00f1o",
+      "description": "Alejandra P\u00e9rez / ABC Noticias El estado de Nuevo Le\u00f3n registr\u00f3 su primera defunci\u00f3n por dengue en lo que va del a\u00f1o, de acuerdo con el m\u00e1s reciente reporte del Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (CONAVE) correspondiente a la semana 28. De \u2026",
+      "url": "https://www.excelsior.com.mx/nacional/nuevo-leon-registra-su-primera-muerte-por-dengue-del-2025/1728501",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/07/22/3346473.jpg",
+      "publishedAt": "2025-07-22 19:38:52",
+      "content": "El estado de Nuevo Le\u00f3n registr\u00f3 su primera defunci\u00f3n por dengue en lo que va del a\u00f1o, de acuerdo con el m\u00e1s reciente reporte del Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (CONAVE) correspond\u2026 [+2216 chars]",
+      "retrievedAt": "2025-07-24 07:10:01.731550",
+      "internal_id": "402cda6fa4cda3e3ce9d31007976f93453decbb6de70790699919b2513784b58",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 23164,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "WHO warnt vor Risiko von Chikungunya-Epidemie",
+      "description": "",
+      "url": "https://orf.at/stories/3400447/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2025-07-22 19:11:46",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat vor einer weltweiten Epidemie der von M\u00fccken \u00fcbertragenen Viruserkrankung Chikungunya gewarnt. Die Krankheit sei bereits in 119 L\u00e4ndern nachgewiesen worden, \u2026 [+1633 chars]",
+      "retrievedAt": "2025-07-24 07:10:02.948001",
+      "internal_id": "3b450abee74d9139858eb77c1bc939cd3e64388145efcb551bf69a11a72b0db0",
+      "publishedAtLabel": "Jul 22"
+    },
     {
       "id": 23151,
       "query": [
@@ -20963,6 +21359,60 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21994,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Obed Nares",
+      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
+      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
+      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
+      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
+      "publishedAt": "2025-06-08 16:31:49",
+      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
+      "retrievedAt": "2025-06-09 19:06:04.659724",
+      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
+      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-06-08 10:55:42",
+      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
+      "retrievedAt": "2025-06-09 19:06:03.611880",
+      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21992,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LBC",
+      "author": "Jacob Paul",
+      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
+      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
+      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
+      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
+      "publishedAt": "2025-06-08 08:16:49",
+      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
+      "retrievedAt": "2025-06-09 19:06:01.948278",
+      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
