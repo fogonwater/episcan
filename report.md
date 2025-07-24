@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-07-24 07:10
-- **Most recent article:** 2025-07-23 07:09:00
+- **New articles in last harvest:** 34
+- **Last harvest:** 2025-07-24 19:07
+- **Most recent article:** 2025-07-23 17:38:23
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 48 | 31 | 53 | 36 | 114 | 64 | 19 | 365 |
-| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 22 | 161 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 23 | 140 |
-| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 7 | 124 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 5 | 100 |
-| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 6 | 90 |
-| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 5 | 73 |
+| measles | 47 | 31 | 53 | 36 | 114 | 64 | 25 | 370 |
+| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 25 | 163 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 42 | 159 |
+| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 10 | 126 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 6 | 101 |
+| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 7 | 91 |
+| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 8 | 76 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
+| zika | 2 | 14 | 2 | 8 | 12 | 8 | 2 | 48 |
 | h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 1 | 48 |
-| zika | 2 | 14 | 2 | 8 | 12 | 8 | 1 | 47 |
 | typhoid | 3 | 0 | 3 | 2 | 3 | 9 | 1 | 21 |
 | pertussis | 4 | 2 | 0 | 0 | 0 | 4 | 1 | 11 |
 | hpai | 1 | 1 | 0 | 4 | 3 | 2 | 0 | 11 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (zika)
 
+- [The long-term persistence of the wMel strain in Rio de Janeiro is threatened by poor integrated vector management and bacterium fitness cost on Aedes aegypti](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013372) (Plos.org)
+
 - [Brasil inaugura a maior biofábrica de mosquitos do mundo](https://veja.abril.com.br/agenda-verde/brasil-inaugura-a-maior-biofabrica-de-mosquitos-do-mundo/) (Abril.com.br)
 
 ## 25-30 (yersinia)
@@ -46,6 +48,12 @@ Source: [News API](https://newsapi.org/)
 - [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
 
 ## 25-30 (rabies)
+
+- [Two bats test positive for rabies in Denver, DDPHE announces Wednesday](https://www.denver7.com/lifestyle/health/two-bats-test-positive-for-rabies-in-denver-citys-department-of-public-health-announces-wednesday) (Denver7.com)
+
+- [An implementation science framework to understand low coverage in mass dog rabies vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012869) (Plos.org)
+
+- [37 lakh dog bites in a year: Karti Chidambaram raises alarm about dangerous surge, says we can’t ignore this any more](https://economictimes.indiatimes.com/news/new-updates/37-lakh-dog-bites-in-a-year-karti-chidambaram-raises-alarm-about-dangerous-surge-says-we-cant-ignore-this-any-more/articleshow/122855228.cms) (The Times of India)
 
 - [Nassau County warns residents about spread of rabies among raccoons and feral cats](https://abc7ny.com/post/nassau-county-warns-residents-spread-rabies-among-raccoons-feral-cats/17241269/) (WABC-TV)
 
@@ -63,6 +71,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (mpox)
 
+- [Warnings Issues to Americans Traveling to Three Destinations](https://www.newsweek.com/warnings-issues-americans-traveling-three-destinations-2102872) (Newsweek)
+
 - [Emergence of Clade Ib Monkeypox Virus—Current State of Evidence](https://wwwnc.cdc.gov/eid/article/31/8/24-1551_article) (Cdc.gov)
 
 - [Mpox duikt op in Gambia: autoriteiten slaan alarm na eerste besmetting](https://www.nieuwsblad.be/net-binnen/mpox-duikt-op-in-gambia-autoriteiten-slaan-alarm-na-eerste-besmetting/79349492.html) (Nieuwsblad.be)
@@ -77,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (meningitis)
 
+- [Integrated in silico identification of cholinesterase inhibitors from Nyctanthes arbor-tristis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328457) (Plos.org)
+
 - [Post-vaccination Streptococcus pneumoniae colonization and respiratory manifestations in children: A prospective cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328516) (Plos.org)
 
 - [Meningitis to MVP: Bonmatí proud of recovery journey](https://www.espn.com/soccer/story/_/id/45790241/bonmati-proud-journey-meningitis-qf-mvp) (ESPN)
@@ -88,6 +100,18 @@ Source: [News API](https://newsapi.org/)
 - [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
 
 ## 25-30 (measles)
+
+- [Do traces of measles in Austin wastewater mean there's an outbreak?](https://www.kut.org/health/2025-07-23/measles-cases-austin-travis-county-texas-wastewater-detected) (KUT)
+
+- [Visitors to an RV park, hospital in Gunnison County may have been exposed to measles](https://www.denverpost.com/2025/07/23/measles-exposure-colorado-gunnison-county-rv-park-hospital/) (The Denver Post)
+
+- [laser-measles 0.7.2.dev1](https://pypi.org/project/laser-measles/0.7.2.dev1/) (Pypi.org)
+
+- [8th measles case in Iowa confirmed](https://www.ketv.com/article/iowa-8th-case-measles/65485655) (KETV Omaha)
+
+- [The Plot Against Vaccines](https://www.motherjones.com/politics/2025/07/the-plot-against-vaccines/) (Mother Jones)
+
+- [Measles cases extend beyond Alberta, Ontario, hotspot map shows](https://www.cbc.ca/news/health/measles-map-1.7591621) (CBC News)
 
 - [Singapore sees rise in measles cases but risk of large outbreaks is low: CDA](https://www.channelnewsasia.com/singapore/measles-singapore-cases-rise-low-risk-vaccine-5253266) (CNA)
 
@@ -129,6 +153,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (malaria)
 
+- [E' vero che le zanzare sono molto pericolose anche in Italia?](https://www.ansa.it/ansa_verified/verifica_dei_fatti/salute/2025/07/23/e-vero-che-le-zanzare-sono-molto-pericolose-anche-in-italia_9829e1d7-b8ff-45d2-ae4d-49c76856f3e3.html) (ANSA.it)
+
+- [A genetic tweak could prevent mosquitoes from transmitting malaria](https://www.npr.org/sections/goats-and-soda/2025/07/23/g-s1-78741/a-genetic-tweak-could-prevent-mosquitoes-from-transmitting-malaria) (NPR)
+
+- [KU Leuven-onderzoekers vinden veelbelovend medicijn voor behandeling van ernstige malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/ku-leuven-onderzoekers-vinden-veelbelovend-medicijn-voor-behandeling-van-ernstige-malaria/79421112.html) (Nieuwsblad.be)
+
 - [A chaperonin complex regulates organelle proteostasis in malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013275) (Plos.org)
 
 - [Thrombocytopenia in patients with Plasmodium vivax in Colombia is associated with anti-phosphatidylserine autoantibodies and IL-6, IFNγ, IL-10 and TGF-β](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013284) (Plos.org)
@@ -148,6 +178,12 @@ Source: [News API](https://newsapi.org/)
 - [В Камбодже выявили новый случай заражения человека птичьим гриппом](https://tass.ru/obschestvo/24583629) (Tass.ru)
 
 ## 25-30 (dengue)
+
+- [Spatial occurrence-intensity modeling of dengue incidence in southernmost provinces of Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013347) (Plos.org)
+
+- [The long-term persistence of the wMel strain in Rio de Janeiro is threatened by poor integrated vector management and bacterium fitness cost on Aedes aegypti](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013372) (Plos.org)
+
+- [Deux nouveaux foyers autochtones de dengue en France, trois en tout, nombre d'épisodes inchangés pour le chigungunya](https://www.franceinfo.fr/sante/maladie/chikungunya/deux-nouveaux-foyers-autochtones-de-dengue-en-france-trois-en-tout-nombre-d-episodes-inchanges-pour-le-chigungunya_7394248.html) (Franceinfo.fr)
 
 - [Bacolod: Bacolod records 11 deaths with suspected links to dengue](https://rpnradio.com/bacolod-bacolod-records-11-deaths-with-suspected-links-to-dengue/) (Rpnradio.com)
 
@@ -194,6 +230,44 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [Chikungunya-virus duikt weer op met ook besmettingen in Europa](https://businessam.be/chikungunya-virus-besmettingen-europa/) (Businessam.be)
+
+- [WHO ostrzega przed wirusem chikungunya. Jest już w Europie](https://tvn24.pl/zdrowie/wirus-chikungunya-objawy-profilaktyka-gdzie-potwierdzono-przypadki-zakazenia-st8569038) (Tvn24.pl)
+
+- [Chikungunya-Virus breitet sich in China rasch aus – WHO alarmiert](https://www.welt.de/wissenschaft/article6880e25ac1ef6365168b7e8e/Chikungunya-Virus-breitet-sich-in-China-rasch-aus-WHO-alarmiert.html) (DIE WELT)
+
+- [The long-term persistence of the wMel strain in Rio de Janeiro is threatened by poor integrated vector management and bacterium fitness cost on Aedes aegypti](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013372) (Plos.org)
+
+- [Schon 119 Länder betroffen: Chikungunya-Virus breitet sich rasant aus](https://www.n-tv.de/panorama/Chikungunya-Virus-breitet-sich-rasant-aus-article25920414.html) (N-tv.de)
+
+- [WHO befürchtet Ausbreitung: Chikungunya-Virus grassiert in Südchina](https://www.n-tv.de/wissen/Chikungunya-Virus-grassiert-in-Suedchina-article25920414.html) (N-tv.de)
+
+- [OMS alerta para risco global de surto do vírus chikungunya](https://www.metropoles.com/saude/oms-alerta-risco-global-chikungunya) (Metropoles.com)
+
+- [WHO bije na alarm. Chikungunya grozi globalną epidemią](https://geekweek.interia.pl/medycyna/news-who-bije-na-alarm-chikungunya-grozi-globalna-epidemia,nId,22167958) (Interia.pl)
+
+- [Krankheiten: Chikungunya breitet sich in China aus - WHO warnt global](https://www.tagesspiegel.de/wissen/krankheiten-chikungunya-breitet-sich-in-china-aus-who-warnt-global-14072639.html) (Der Tagesspiegel)
+
+- [Krankheiten: Chikungunya breitet sich in China aus - WHO warnt global](https://www.zeit.de/news/2025-07/23/chikungunya-breitet-sich-in-china-aus-who-warnt-global) (Die Zeit)
+
+- [Krankheiten: Chikungunya breitet sich in China aus - WHO warnt global](https://www.stern.de/panorama/wissen/krankheiten--chikungunya-breitet-sich-in-china-aus---who-warnt-global-35917572.html) (STERN.de)
+
+- [Santé. Chikungunya : les cas importés de La Réunion en baisse, le risque de cas autochtones toujours important](https://www.ledauphine.com/sante/2025/07/23/chikungunya-les-cas-importes-de-la-reunion-en-baisse-le-risque-de-cas-autochtones-toujours-important) (Le Dauphiné Libéré)
+
+- [WHO warnt vor globaler Chikungunya-Epidemie](https://www.telepolis.de/features/WHO-warnt-vor-globaler-Chikungunya-Epidemie-10496904.html) (Telepolis.de)
+
+- [Deux nouveaux foyers autochtones de dengue en France, trois en tout, nombre d'épisodes inchangés pour le chigungunya](https://www.franceinfo.fr/sante/maladie/chikungunya/deux-nouveaux-foyers-autochtones-de-dengue-en-france-trois-en-tout-nombre-d-episodes-inchanges-pour-le-chigungunya_7394248.html) (Franceinfo.fr)
+
+- [WHO warnt vor Chikungunya](https://www.faz.net/aktuell/wissen/chikungunya-virus-who-warnt-vor-einer-epidemie-110603528.html) (Faz.net)
+
+- [WHO warnt vor einer Epidemie](https://www.faz.net/aktuell/chikungunya-virus-who-warnt-vor-einer-epidemie-110603528.html) (Faz.net)
+
+- [Medizin: Was man über das Chikungunya-Fieber wissen sollte](https://www.sueddeutsche.de/gesundheit/chikungunya-fieber-ausbreitung-europa-li.3288362) (Süddeutsche Zeitung)
+
+- [WHO warnt vor Chikungunya-Virus – Stechmücken sind Träger](https://www.morgenpost.de/panorama/article409578768/who-warnt-vor-chikungunya-virus-stechmuecken-sind-traeger.html) (Berliner Morgenpost)
+
+- [Gefährliches Virus: WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie](https://www.stern.de/gesundheit/chikungunya--who-warnt-vor-epidemie-des-gefaehrlichen-virus-35915590.html) (STERN.de)
 
 - [WHO schlägt Alarm: Chikungunya-Epidemie könnte Milliarden gefährden](https://www.focus.de/panorama/who-schlaegt-alarm-chikungunya-epidemie-koennte-milliarden-gefaehrden_312a4ba8-1f0f-4bed-b9ef-5aa44744516a.html) (Focus)
 
@@ -2581,8 +2655,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
-- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
-
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2620,8 +2692,6 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
-
-- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2672,8 +2742,6 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
-
-- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 

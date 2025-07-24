@@ -1,8 +1,623 @@
 {
-  "last_updated": "2025-07-24 07:10",
-  "count_articles_total": 1186,
-  "count_articles_new": 22,
+  "last_updated": "2025-07-24 19:07",
+  "count_articles_total": 1217,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 23192,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "E' vero che le zanzare sono molto pericolose anche in Italia?",
+      "description": "Si. Anche se le specie presenti non veicolano la malaria, possono per\u00f2 essere portatrici di vari virus (ANSA)",
+      "url": "https://www.ansa.it/ansa_verified/verifica_dei_fatti/salute/2025/07/23/e-vero-che-le-zanzare-sono-molto-pericolose-anche-in-italia_9829e1d7-b8ff-45d2-ae4d-49c76856f3e3.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_620x438/2018/8/20/ca616dcbd0b2ad165ccbe543b2ca1668.jpg",
+      "publishedAt": "2025-07-23 17:38:23",
+      "content": "COSA VERIFICHIAMO Nonostante le loro piccole dimensioni, le zanzare sono considerate gli animali pi\u00f9 pericolosi al mondo. Ogni anno, milioni di persone si ammalano a causa delle malattie trasmesse d\u2026 [+6015 chars]",
+      "retrievedAt": "2025-07-24 19:07:12.562608",
+      "internal_id": "89e84579bfd58ae1a2fbc8be4735377b12a00d282c87d6ac054ea2ccee4e5c9c",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23191,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Jonathan Lambert",
+      "title": "A genetic tweak could prevent mosquitoes from transmitting malaria",
+      "description": "A new study reports on a novel way to short-circuit the parasite that spreads the disease so people wouldn't get infected with a mosquito's bite.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/07/23/g-s1-78741/a-genetic-tweak-could-prevent-mosquitoes-from-transmitting-malaria",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3725x2095+0+138/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2F4a%2Fbe97380844fcb512de4f9feac069%2Fgettyimages-154728107.jpg",
+      "publishedAt": "2025-07-23 17:02:33",
+      "content": "Each year, 263 million people get malaria. But from the parasite's perspective, infecting humans is harder than you might think, and requires completing an epic journey within the tiny body of a mosq\u2026 [+5554 chars]",
+      "retrievedAt": "2025-07-24 19:07:12.553555",
+      "internal_id": "e261a4fd56cd4eab97c9fecd392ceece594b8d076dd017a5e16eeb1a49fb9691",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23180,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Denver7.com",
+      "author": "Katie Parkins",
+      "title": "Two bats test positive for rabies in Denver, DDPHE announces Wednesday",
+      "description": "Two bats tested positive for the rabies virus in Denver, the city's department of public health announced Wednesday.",
+      "url": "https://www.denver7.com/lifestyle/health/two-bats-test-positive-for-rabies-in-denver-citys-department-of-public-health-announces-wednesday",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3335d04/2147483647/strip/true/crop/6016x3158+0+429/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6d%2Fee%2F12a178a544f286a14ec42a09abd9%2Fshutterstock-1810226581.jpg",
+      "publishedAt": "2025-07-23 17:00:44",
+      "content": "DENVER Two bats tested positive for the rabies virus in Denver, the city's department of public health announced Wednesday. One was found in the Sloan Lake neighborhood on July 8, marking the first \u2026 [+2005 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.427668",
+      "internal_id": "87a48a412ad88f9e99580d1e3401129f5dabb7c553c45b9e2ed5bb96a7940867",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23185,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KUT",
+      "author": "Katy Mcafee",
+      "title": "Do traces of measles in Austin wastewater mean there's an outbreak?",
+      "description": "Wastewater detection doesn\u2019t mean measles is already running rampant in Austin, but its detection does put public health officials on alert.",
+      "url": "https://www.kut.org/health/2025-07-23/measles-cases-austin-travis-county-texas-wastewater-detected",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/b07a11e/2147483647/strip/true/crop/2078x1091+0+147/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F87%2F5e5c1c45435fb42f9049ddb7bc5f%2F20250227-measles-vaccine-01.jpg",
+      "publishedAt": "2025-07-23 16:58:08",
+      "content": "Traces of measles were found in Travis County wastewater, Austin Public Health officials confirmed Monday. The virus was detected during wastewater surveillance during the first week of July, and AP\u2026 [+3176 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.789634",
+      "internal_id": "d0b7fe79d99a8e3460bec6bcd7e8451882024ded7c20cdbbc49353f95557bcaa",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23206,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Businessam.be",
+      "author": "businessam.be",
+      "title": "Chikungunya-virus duikt weer op met ook besmettingen in Europa",
+      "description": "Key takeaways De Wereldgezondheidsorganisatie (WHO) heeft alarm geslagen over de opleving van het chikungunya-virus. Dat meldt Reuters. Deze door muggen overgedragen ziekte vormt een grote bedreiging voor miljarden mensen over de hele wereld. Het virus kan sl\u2026",
+      "url": "https://businessam.be/chikungunya-virus-besmettingen-europa/",
+      "urlToImage": "https://media.businessam.be/Chikungunya-virus-mug.jpg",
+      "publishedAt": "2025-07-23 16:29:00",
+      "content": "Key takeaways Chikungunya is een door muggen overgedragen virus dat hoge koorts en ernstige gewrichtspijn veroorzaakt.Het chikungunya-virus verspreidt zich wereldwijd, met gemelde g\u2026 [+2113 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.283485",
+      "internal_id": "3ca0da13a6885f7e555eecf987d06b106ed4741b60a574ecc997090197877697",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23183,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Visitors to an RV park, hospital in Gunnison County may have been exposed to measles",
+      "description": "Measles symptoms include fever, cough, a runny nose, red eyes and a rash that typically starts on the face. The rash usually appears about four days after a person becomes contagious.",
+      "url": "https://www.denverpost.com/2025/07/23/measles-exposure-colorado-gunnison-county-rv-park-hospital/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2016/04/20160224__Mumps_Vaccinep1.jpg?w=654&h=435",
+      "publishedAt": "2025-07-23 15:43:46",
+      "content": "Coloradans who visited an RV park or a hospital in Gunnison County in mid-July should watch for symptoms after a visitor from out of state came down with measles. People could have encountered the h\u2026 [+1561 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.757336",
+      "internal_id": "50b3e141656f661e0c281ead9ce58fbc126947844db94771b9d7edac5009d18c",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23211,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jasmine Laws",
+      "title": "Warnings Issues to Americans Traveling to Three Destinations",
+      "description": "The CDC warned travelers of \"confirmed\" cases of diphtheria in Guinea, as well as outbreaks of mpox in Liberia and Sierra Leone.",
+      "url": "https://www.newsweek.com/warnings-issues-americans-traveling-three-destinations-2102872",
+      "urlToImage": "https://d.newsweek.com/en/full/2688771/liberia.jpg",
+      "publishedAt": "2025-07-23 15:18:40",
+      "content": "The Centers for Disease Control and Prevention (CDC) has issued two travel warnings, advising Americans to practice \"enhanced precautions\" when traveling to three countries. The CDC warned travelers\u2026 [+4472 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.703256",
+      "internal_id": "db7e4c8c82cfc73681846c5ebb684f9a75e8d0c0000cf92659ef028c746d5277",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23182,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "laser-measles 0.7.2.dev1",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.7.2.dev1/",
+      "urlToImage": null,
+      "publishedAt": "2025-07-23 14:42:30",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.747898",
+      "internal_id": "44c724170b1f2d9eb27cd9daa18366ad104e08e05eb090b69af0c8f192026269",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23199,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "zk",
+      "title": "WHO ostrzega przed wirusem chikungunya. Jest ju\u017c w Europie",
+      "description": "\u015awiatowa Organizacja Zdrowia (WHO) ostrzega przed wirusem chikungunya przenoszonym przez komary tygrysie. Najwi\u0119ksze zagro\u017cenie jest na wyspach Oceanu Indyjskiego, ale potwierdzono tak\u017ce kilkaset zaka\u017ce\u0144 we Francji i jedno we W\u0142oszech.",
+      "url": "https://tvn24.pl/zdrowie/wirus-chikungunya-objawy-profilaktyka-gdzie-potwierdzono-przypadki-zakazenia-st8569038",
+      "urlToImage": "https://tvn24.pl/_e/i/najnowsze/cdn-zdjecie-6246105-aedes-aegypti-czyli-komar-egipski-roznosi-rozne-wirusy-ph8510786/alternates/WEBP_LANDSCAPE_840",
+      "publishedAt": "2025-07-23 14:30:45",
+      "content": "r\u00f3do: Discovery/Player.pl wiatowa Organizacja Zdrowia (WHO) ostrzega przed wirusem chikungunya przenoszonym przez komary tygrysie. Najwiksze zagroenie jest na wyspach Oceanu Indyjskiego, ale potwier\u2026 [+2389 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.117691",
+      "internal_id": "31be382c2f2ccdb5512badcfd13bb0c8435169ead963fd06ea3c070fd5736b6b",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23207,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Chikungunya-Virus breitet sich in China rasch aus \u2013 WHO alarmiert",
+      "description": "Die WHO ist wegen des von Stechm\u00fccken \u00fcbertragenen Chikungunya-Virus in Sorge. In S\u00fcdchina steigen derzeit die Fallzahlen. Weltweit k\u00f6nnten sich laut WHO theoretisch 5,6 Milliarden Menschen anstecken.",
+      "url": "https://www.welt.de/wissenschaft/article6880e25ac1ef6365168b7e8e/Chikungunya-Virus-breitet-sich-in-China-rasch-aus-WHO-alarmiert.html",
+      "urlToImage": "https://images.welt.de/6880e25ac1ef6365168b7e8e/ed7ee29c236cdd9a88cb3a5287b81cfb-master/ci16x9-w1200/asiatische-tigermuecke",
+      "publishedAt": "2025-07-23 14:19:20",
+      "content": "Die WHO ist wegen des von Stechm\u00fccken \u00fcbertragenen Chikungunya-Virus in Sorge. In S\u00fcdchina steigen derzeit die Fallzahlen. Weltweit k\u00f6nnten sich laut WHO theoretisch 5,6 Milliarden Menschen anstecken\u2026 [+3978 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.292388",
+      "internal_id": "0f4a286d604bf14c94de66810366c2b1fd6074040b18429f873d0197ae460aff",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23179,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricardo Castillo-Neyra, Lizzie Ortiz-Cam, Jorge L. Ca\u00f1ari-Casa\u00f1o, Elvis W. Diaz, Laura D. Tamayo, Guillermo Porras, Sergio E. Recuenco, Valerie A. Paz-Soldan",
+      "title": "An implementation science framework to understand low coverage in mass dog rabies vaccination",
+      "description": "Author summary Dog-mediated human rabies, a fatal and preventable disease, remains a significant public health challenge in some parts of Latin America, including Arequipa, Peru. Despite efforts to control the disease through mass dog vaccination campaigns (M\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012869",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012869.t001&size=inline",
+      "publishedAt": "2025-07-23 14:00:00",
+      "content": "Abstract Background Dog-mediated human rabies has been greatly reduced in the Americas and eliminated from most high-income countries. However, many countries in Africa, Asia, and parts of Latin Am\u2026 [+65052 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.394470",
+      "internal_id": "bc62d60e6878a05f58760d86106fd5e9f6feb514dd8139759a1c2dcbb546d895",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23187,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Apiradee Lim, Lumpoo Ammatawiyanon, Haris Khurram, Phattrawan Tongkumchum, Don McNeil",
+      "title": "Spatial occurrence-intensity modeling of dengue incidence in southernmost provinces of Thailand",
+      "description": "Author summary Dengue has dramatically spread globally, which occurs almost every year, especially in the topical areas. In Thailand, the outbreak of dengue occurs almost every year. The spatial distribution of the outbreak of the areas on a small scale has n\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013347",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013347.g007&size=inline",
+      "publishedAt": "2025-07-23 14:00:00",
+      "content": "Abstract Background Dengue is currently spreading and is considered a hyperendemic in Thailand. Outbreaks happen almost every year in various provinces of Thailand, especially the four southernmost\u2026 [+28419 chars]",
+      "retrievedAt": "2025-07-24 19:07:11.960016",
+      "internal_id": "f83aa766f5a4565b826a3a330013af88858bfb1b6b67a5ae4dd5bf42c1e9858b",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23188,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "M\u00e1rcio Galv\u00e3o Pavan, Franck Jeannot Gnonhoue, Jessica Corr\u00eaa-Ant\u00f4nio, Karine Pedreira Padilha, Gabriela Azambuja Garcia, Felipe de Oliveira, Luiz Paulo Brito, Luciana Dias, Ademir Jesus Martins, Vincent Corbel, Jos\u00e9 Bento Pereira Lima, Gabriel Luz Wallau, Ary Hoffmann, Oswaldo Gon\u00e7alves Cruz, Daniel Antunes Maciel Villela, Rafael Maciel-de-Freitas",
+      "title": "The long-term persistence of the wMel strain in Rio de Janeiro is threatened by poor integrated vector management and bacterium fitness cost on Aedes aegypti",
+      "description": "Author summary In Rio de Janeiro, efforts to control diseases like dengue and chikungunya involve a myriad of approaches, including targeting breeding sites, insecticide application, engaging communities on good practices, and the deployment of Wolbachia wMel\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013372",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013372.g006&size=inline",
+      "publishedAt": "2025-07-23 14:00:00",
+      "content": "Abstract New tools and methods are currently under evaluation by the World Health Organization for preventing arbovirus transmission, such as dengue, Zika, and chikungunya. One promising approach in\u2026 [+71871 chars]",
+      "retrievedAt": "2025-07-24 19:07:12.000264",
+      "internal_id": "002d6f08d31a6656409bdbd321c1ec36923d4daa6f8f1e3b4743f2a5901a9436",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23190,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Qazi Mohammad Sajid Jamal, Ali H. Alharbi, Varish Ahmad, Khurshid Ahmad",
+      "title": "Integrated in silico identification of cholinesterase inhibitors from Nyctanthes arbor-tristis",
+      "description": "Alzheimer\u2019s disease (AD) remains a major neurodegenerative disorder, characterized by cognitive decline alongside functional impairments that affect daily living. Natural therapeutic alternatives have spurred the search for novel inhibitors targeting acetylch\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328457",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328457.g011&size=inline",
+      "publishedAt": "2025-07-23 14:00:00",
+      "content": "Introduction Neurological disorders, such as Alzheimers disease (AD), epilepsy, seizures, brain aneurysms, meningitis, memory loss, muscular dystrophy, multiple sclerosis, Parkinsons disease, migrai\u2026 [+28238 chars]",
+      "retrievedAt": "2025-07-24 19:07:12.314298",
+      "internal_id": "d5a787b73d471cb044fe3827aba9738b8d81fe469e064ad0d7bb8f843900c7ec",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23200,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Schon 119 L\u00e4nder betroffen: Chikungunya-Virus breitet sich rasant aus",
+      "description": "Die WHO ist besorgt: In einem gro\u00dfen Teil der Welt leiden immer mehr Menschen an einem von M\u00fccken \u00fcbertragenen Virus. Dieses ruft Fieber sowie schwere Gelenk- und Muskelschmerzen hervor. Und viele Patienten haben auch noch Jahre nach einer Infektion Probleme.",
+      "url": "https://www.n-tv.de/panorama/Chikungunya-Virus-breitet-sich-rasant-aus-article25920414.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25920405/7421325856-cImg_16_9-w1200/AP23062506212000.jpg",
+      "publishedAt": "2025-07-23 13:46:52",
+      "content": "Die WHO ist besorgt: In einem gro\u00dfen Teil der Welt leiden immer mehr Menschen an einem von M\u00fccken \u00fcbertragenen Virus. Dieses ruft Fieber sowie schwere Gelenk- und Muskelschmerzen hervor. Und viele Pa\u2026 [+4036 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.148570",
+      "internal_id": "7511839d7adfbc8dba4f570b054ea2e30d8435cd6a2a6b32cbdeb08ba89f3d7f",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23209,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "WHO bef\u00fcrchtet Ausbreitung: Chikungunya-Virus grassiert in S\u00fcdchina",
+      "description": "In der chinesischen Gro\u00dfstadt Foshan werden mehr als 2600 F\u00e4lle des Chikungunya-Virus festgestellt. Die WHO warnt vor einer weltweiten Verbreitung des Virus. \u00dcbertr\u00e4ger, wie etwa die Asiatische Tigerm\u00fccke, gibt es weltweit - auch in Deutschland ist sie mittle\u2026",
+      "url": "https://www.n-tv.de/wissen/Chikungunya-Virus-grassiert-in-Suedchina-article25920414.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25920405/7421325856-cImg_16_9-w1200/AP23062506212000.jpg",
+      "publishedAt": "2025-07-23 13:46:52",
+      "content": "In der chinesischen Gro\u00dfstadt Foshan werden mehr als 2600 F\u00e4lle des Chikungunya-Virus festgestellt. Die WHO warnt vor einer weltweiten Verbreitung des Virus. \u00dcbertr\u00e4ger, wie etwa die Asiatische Tiger\u2026 [+4059 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.324549",
+      "internal_id": "14fbc59070307dfbea0ed15e6e6c4ecff3d1eacf2f516a8c0093862d3419f1ba",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23208,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "OMS alerta para risco global de surto do v\u00edrus chikungunya",
+      "description": "Organiza\u00e7\u00e3o internacional pede a\u00e7\u00f5es urgentes para conter avan\u00e7o da doen\u00e7a transmitida por mosquitos",
+      "url": "https://www.metropoles.com/saude/oms-alerta-risco-global-chikungunya",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/09175317/chikungunya.jpg",
+      "publishedAt": "2025-07-23 13:22:50",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) emitiu um alerta nessa ter\u00e7a-feira (22/7) sobre o risco de uma nova epidemia global do v\u00edrus chikungunya, doen\u00e7a viral transmitida por mosquitos que pode causar f\u2026 [+2679 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.300940",
+      "internal_id": "d0e5c94ec10ec77b5ebe646f8173e2b586aa1d4ec79d9dbcd8c98c1d5da6489f",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23203,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina Majchrzak",
+      "title": "WHO bije na alarm. Chikungunya grozi globaln\u0105 epidemi\u0105",
+      "description": "\u015awiatowa Organizacja Zdrowia bije na alarm. Wirus chikungunya, powoduj\u0105cy wysok\u0105 gor\u0105czk\u0119 i bolesne zapalenie staw\u00f3w, rozprzestrzenia si\u0119 w b\u0142yskawicznym tempie. \"Zaczyna si\u0119 tak samo jak wtedy\" - ostrzegaj\u0105 eksperci, przypominaj\u0105c epidemi\u0119 sprzed 20 lat.",
+      "url": "https://geekweek.interia.pl/medycyna/news-who-bije-na-alarm-chikungunya-grozi-globalna-epidemia,nId,22167958",
+      "urlToImage": "https://i.iplsc.com/-/0006OGV247LE94UV-C461.jpg",
+      "publishedAt": "2025-07-23 12:49:18",
+      "content": "Wirus chikungunya, przenoszony g\u00f3wnie przez komara tygrysiego (Aedes albopictus), w 2005 roku spowodowa ogromn fal zakae, kt\u00f3ra obja niemal p\u00f3 miliona os\u00f3b na caym wiecie. Teraz WHO obserwuje niemal \u2026 [+2350 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.235456",
+      "internal_id": "5deb3c3591069308991c1f5f577d0fa7a951b8d5580dcea2208add67144196bd",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23186,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Keeley Thomas",
+      "title": "8th measles case in Iowa confirmed",
+      "description": "The patient has no known link to the other seven previous cases and has not traveled outside of the state recently, Iowa DHHS said.",
+      "url": "https://www.ketv.com/article/iowa-8th-case-measles/65485655",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/ce17fc17-f25c-471e-9020-614948bbe969/253af52c-f37d-47dc-a977-194aaaebf06b.jpg?crop=0.779xw:0.780xh;0.117xw,0&resize=1200:*",
+      "publishedAt": "2025-07-23 12:08:33",
+      "content": ", Iowa \u2014Iowa health officials have confirmed the eighth measles case in the state. A vaccinated adult in Western Iowa tested positive, according to the Iowa Department of Health and Human Services.\u2026 [+474 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.805480",
+      "internal_id": "1583acc8f6328bfed42f07b1360cc030a0b3c2b9856e64766712e838d4e8a1a7",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23210,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Chikungunya breitet sich in China aus - WHO warnt global",
+      "description": "Tigerm\u00fccken k\u00f6nnen das Chikungunya-Virus \u00fcbertragen, wenn sie zustechen. Die WHO ist alarmiert. Die M\u00fccke ist auch schon in Deutschland unterwegs.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-chikungunya-breitet-sich-in-china-aus-who-warnt-global-14072639.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14072636/alternates/BASE_16_9_W1400/1753270619000/asiatische-tigermucke.jpeg",
+      "publishedAt": "2025-07-23 11:37:00",
+      "content": "In S\u00fcdchina breitet sich seit Kurzem das von M\u00fccken \u00fcbertragene Chikungunya-Virus rasch aus. Die Weltgesundheitsorganisation (WHO) warnt auch vor einer Verbreitung in anderen Teilen der Welt. In der \u2026 [+3922 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.340544",
+      "internal_id": "242c694a38d8a937ecbe1b71be1c6c19c4b49574c12116265d70057f45da1c65",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23195,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Krankheiten: Chikungunya breitet sich in China aus - WHO warnt global",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eChikungunya breitet sich in China aus - WHO warnt global\u201c.",
+      "url": "https://www.zeit.de/news/2025-07/23/chikungunya-breitet-sich-in-china-aus-who-warnt-global",
+      "urlToImage": "https://img.zeit.de/news/2025-07/23/chikungunya-breitet-sich-in-china-aus-who-warnt-global-image-group/wide__1300x731",
+      "publishedAt": "2025-07-23 11:35:51",
+      "content": "In S\u00fcdchina breitet sich seit Kurzem das von M\u00fccken \u00fcbertragene Chikungunya-Virus rasch aus. Die Weltgesundheitsorganisation (WHO) warnt auch vor einer Verbreitung in anderen Teilen der Welt. In der \u2026 [+3863 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.074655",
+      "internal_id": "c9861e6fc3e13a19527c31aa9a33e92a8052373ceab70109bf4d669148418205",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23198,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Chikungunya breitet sich in China aus - WHO warnt global",
+      "description": "Genf/Peking - In S\u00fcdchina breitet sich seit Kurzem das von M\u00fccken \u00fcbertragene Chikungunya-Virus rasch aus. Die Weltgesundheitsorganisation (WHO) warnt",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--chikungunya-breitet-sich-in-china-aus---who-warnt-global-35917572.html",
+      "urlToImage": "https://image.stern.de/35917574/t/Je/v1/w1440/r1.7778/-/23--h77e36ngdqv12axs2048jpeg---a6acd1c15ff30d8f.jpg",
+      "publishedAt": "2025-07-23 11:35:51",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Tigerm\u00fccken k\u00f6nnen das Chikungunya-Virus \u00fcbertragen, wenn sie zustechen. Die WHO ist alarmiert. Die M\u00fccke ist auch schon in Deutschland unterwegs\u2026 [+4026 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.108449",
+      "internal_id": "4bb6256e364e1e9c7064e14a0088c1799fef3ce29da67702523a794af3386738",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23204,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : les cas import\u00e9s de La R\u00e9union en baisse, le risque de cas autochtones toujours important",
+      "description": "Douze foyers de transmission du chikungunya ont \u00e9t\u00e9 signal\u00e9s pour un total de trente huit cas autochtones, selon un bilan hebdomadaire de l'agence de sant\u00e9 publique.",
+      "url": "https://www.ledauphine.com/sante/2025/07/23/chikungunya-les-cas-importes-de-la-reunion-en-baisse-le-risque-de-cas-autochtones-toujours-important",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/FB7F2863-A973-4A76-BFE5-23683D793C4F/FB1200/photo-1753269311.jpg",
+      "publishedAt": "2025-07-23 11:15:00",
+      "content": "L'agence Sant\u00e9 publique France a constat\u00e9 mercredi \u00ab une baisse du nombre de cas import\u00e9s de chikungunya en provenance de La R\u00e9union et de l\u2019Oc\u00e9an Indien \u00bb mais consid\u00e8re que le risque de voir appara\u2026 [+1639 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.266336",
+      "internal_id": "2dbd54148f374437c68a7824bc4e2e909a4ede1568a0f26265ee8db764baba2b",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23193,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jef Van Hoofstat",
+      "title": "KU Leuven-onderzoekers vinden veelbelovend medicijn voor behandeling van ernstige malaria",
+      "description": "Het onderzoeksteam van het Rega Instituut van de KU Leuven heeft een medicijn gevonden dat mogelijk helpt in de strijd tegen ernstige malaria. Dat laat KU Leuven woensdag weten. Het medicijn ruxolitinib zou specifiek ingezet kunnen worden om ontsteking en sui\u2026",
+      "url": "https://www.nieuwsblad.be/natuur-en-wetenschap/ku-leuven-onderzoekers-vinden-veelbelovend-medicijn-voor-behandeling-van-ernstige-malaria/79421112.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/3pay8b-usa-files-nile-virus/alternates/SIXTEEN_NINE_1200/USA%20FILES%20NILE%20VIRUS",
+      "publishedAt": "2025-07-23 10:49:14",
+      "content": "De onderzoekers testten het medicijn tot nu toe enkel op muizen die leden aan ernstige malaria. De dieren toonden dezelfde ziektesymptomen als menselijke pati\u00ebnten. Het stresshormoon glucocortico\u00efden\u2026 [+1493 chars]",
+      "retrievedAt": "2025-07-24 19:07:12.571423",
+      "internal_id": "20cf0966d95be94843a0eb4b5c331c338dd63e6703254935092bc32d962aa0c4",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23196,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Marcel Kunzmann",
+      "title": "WHO warnt vor globaler Chikungunya-Epidemie",
+      "description": "Die Weltgesundheitsorganisation sieht dieselben Warnsignale wie vor 20 Jahren. Bereits ein Drittel der Bev\u00f6lkerung von R\u00e9union ist infiziert. Auch Europa potentiell gef\u00e4hrdet.",
+      "url": "https://www.telepolis.de/features/WHO-warnt-vor-globaler-Chikungunya-Epidemie-10496904.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/0/2/4/6/0/shutterstock_1896812266-f494bdcf95f95208.jpeg",
+      "publishedAt": "2025-07-23 10:30:00",
+      "content": "Chikungunya wird durch M\u00fcckenstiche \u00fcbertragen (Bild: nechaevkon/Shutterstock.com) Die Weltgesundheitsorganisation sieht dieselben Warnsignale wie vor 20 Jahren. Bereits ein Drittel der Bev\u00f6lkerung\u2026 [+3121 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.090954",
+      "internal_id": "6204c3cd89c76761707c04f847f221be8aa65871025d9e962c096090286cfe48",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23189,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Deux nouveaux foyers autochtones de dengue en France, trois en tout, nombre d'\u00e9pisodes inchang\u00e9s pour le chigungunya",
+      "description": "En tout, 15 foyers de transmission autochtone de dengue et de chikungunya ont \u00e9t\u00e9 identifi\u00e9s en France hexagonale entre le 1er mai et le 22 juillet, selon Sant\u00e9 publique France.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/deux-nouveaux-foyers-autochtones-de-dengue-en-france-trois-en-tout-nombre-d-episodes-inchanges-pour-le-chigungunya_7394248.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/1oIwkM78O1IOg46AIBoSb69MUqg/0x570:5000x3380/1500x843/2025/07/23/maxstockfr272058-6880b6b82c9b8461870090.jpg",
+      "publishedAt": "2025-07-23 10:19:53",
+      "content": "Deux nouveaux foyers de transmission (appel\u00e9s \"\u00e9pisodes\" par Sant\u00e9 Publique France) de la dengue ont \u00e9t\u00e9 identifi\u00e9s, soit au total trois \u00e9pisodes autochtones de dengue cette ann\u00e9e, annonce Sant\u00e9 publ\u2026 [+1696 chars]",
+      "retrievedAt": "2025-07-24 19:07:12.024284",
+      "internal_id": "f1b091a1706593ee58cf71cf6c21aaf73f992017fef9677ccdefe2731e1b8b9c",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Kiera Butler and Anna Merlan",
+      "title": "The Plot Against Vaccines",
+      "description": "The seeds of a court case that has lasted for more than 20 years were planted in February 2001, when the parents of 11-month-old Yates Hazlehurst took him to the doctor for a routine measles, mumps, and rubella (MMR) vaccine. Soon after, his family would alle\u2026",
+      "url": "https://www.motherjones.com/politics/2025/07/the-plot-against-vaccines/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/07/505_RFK_A_2000_e4d295.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-07-23 10:00:00",
+      "content": "Get your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily. The seeds of a court case that has lasted for more than 20 years were planted in Feb\u2026 [+26214 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.765990",
+      "internal_id": "27e984224214ebbba01b0e9f07d05a905da8934f8ef1ed0bf60712aed9a1bdfe",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23194,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Pia Heinemann",
+      "title": "WHO warnt vor Chikungunya",
+      "description": "Die Weltgesundheitsorganisation warnt davor, dass sich viele Menschen mit dem Chikungunya-Virus anstecken k\u00f6nnten. In Deutschland ist die Gefahr noch gering, doch das k\u00f6nnte sich \u00e4ndern.",
+      "url": "https://www.faz.net/aktuell/wissen/chikungunya-virus-who-warnt-vor-einer-epidemie-110603528.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/112364445/1.10603598/facebook_teaser/vor-muecken-wie-der.jpg",
+      "publishedAt": "2025-07-23 09:18:36",
+      "content": "Gerade erst hatte die Meldung Wissenschaftler aufgeschreckt, dass im Elsass, nur wenige Meter von der deutschen Grenze entfernt, ein Mensch am Chikungunya-Fieber erkrankt war. Nun warnt die Weltgesun\u2026 [+4277 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.064113",
+      "internal_id": "20f9156dcbbd5a8d4b9ec5c18974baf0021bf94b5493ff30cd5c0789c714d785",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23202,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "FAZ.net",
+      "title": "WHO warnt vor einer Epidemie",
+      "description": "Die Weltgesundheitsorganisation warnt davor, dass sich viele Menschen mit dem Chikungunya-Virus anstecken k\u00f6nnten. In Deutschland ist die Gefahr noch gering, doch das k\u00f6nnte sich \u00e4ndern.",
+      "url": "https://www.faz.net/aktuell/chikungunya-virus-who-warnt-vor-einer-epidemie-110603528.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/112364445/1.10603598/facebook_teaser/vor-muecken-wie-der.jpg",
+      "publishedAt": "2025-07-23 09:18:36",
+      "content": "Gerade erst hatte die Meldung Wissenschaftler aufgeschreckt, dass im Elsass, nur wenige Meter von der deutschen Grenze entfernt, ein Mensch am Chikungunya-Fieber erkrankt war. Nun warnt die Weltgesun\u2026 [+4277 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.211299",
+      "internal_id": "9a31d3ffaca4b20e687b314679a9a12e77a9a13d6133866bfff92865947e0d93",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23205,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "Medizin: Was man \u00fcber das Chikungunya-Fieber wissen sollte",
+      "description": "Die WHO warnt vor der weltweiten Ausbreitung der Krankheit, \u00fcbertragen durch Stechm\u00fccken. Wie gro\u00df das Risiko einer Ansteckung in Europa ist \u2013 und wie sich Reisende sch\u00fctzen k\u00f6nnen.",
+      "url": "https://www.sueddeutsche.de/gesundheit/chikungunya-fieber-ausbreitung-europa-li.3288362",
+      "urlToImage": "https://www.sueddeutsche.de/2022/06/08/b1dde245-8b69-4019-a02f-c055c0419075.jpeg?q=60&fm=webp&width=1200&rect=0%2C68%2C1359%2C764",
+      "publishedAt": "2025-07-23 09:18:32",
+      "content": "5,6 Milliarden Menschen in 119 L\u00e4ndern leben in Risikogebieten, warnte Diana Rojas Alvarez, medizinische Beauftragte der WHO, bei einer Pressekonferenz in Genf. Wir erleben, wie sich die Geschichte w\u2026 [+3886 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.275086",
+      "internal_id": "1c0d5309756cdd46996f38d6a29509cc4519d96252633a2f636a3ad627ee4449",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23201,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Vivien Valentiner",
+      "title": "WHO warnt vor Chikungunya-Virus \u2013 Stechm\u00fccken sind Tr\u00e4ger",
+      "description": "Das Chikungunya-Virus k\u00f6nnte zur Epidemie werden, warnt die WHO. In 119 L\u00e4ndern sind F\u00e4lle nachgewiesen, zuletzt bereitete ein Fall im Elsass an der Grenze zu Deutschland Sorgen.",
+      "url": "https://www.morgenpost.de/panorama/article409578768/who-warnt-vor-chikungunya-virus-stechmuecken-sind-traeger.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406127812/406127812_1753261772_v16_9_1600.jpeg",
+      "publishedAt": "2025-07-23 09:09:32",
+      "content": "Berlin. Das Chikungunya-Virus k\u00f6nnte zur Epidemie werden, warnt die WHO. In 119 L\u00e4ndern sind F\u00e4lle nachgewiesen, zuletzt bereitete ein Fall Sorgen. Die Weltgesundheitsorganisation (WHO) warnt vor ei\u2026 [+4949 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.194992",
+      "internal_id": "e3b86b49ad9a3a9da6749925400b1d092091e6902d42f026da33a22095590c54",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23178,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "37 lakh dog bites in a year: Karti Chidambaram raises alarm about dangerous surge, says we can\u2019t ignore this any more",
+      "description": "Karti Chidambaram raises concerns about increasing stray dog menace in India. Over 37 lakh dog bite cases reported in 2024. The Centre provides financial aid for anti-rabies vaccines. Karnataka and Kerala witness a surge in cases. Bengaluru plans to feed stra\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/37-lakh-dog-bites-in-a-year-karti-chidambaram-raises-alarm-about-dangerous-surge-says-we-cant-ignore-this-any-more/articleshow/122855228.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122855304,width-1200,height-630,imgsize-9556,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-23 08:41:06",
+      "content": "Congress MP Karti Chidambaram on Tuesday voiced serious concern about the escalating threat posed by stray dogs across India, following alarming data shared by the Centre in Parliament. According to \u2026 [+2865 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.376333",
+      "internal_id": "01661e67d04c434240d6eac5d05a232ba6df8d7c05cea404c4121ce8acfa84a0",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23181,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles cases extend beyond Alberta, Ontario, hotspot map shows",
+      "description": "The spread of measles both between provinces and within is keeping doctors and health officials across much of Canada on their toes.",
+      "url": "https://www.cbc.ca/news/health/measles-map-1.7591621",
+      "urlToImage": "https://i.cbc.ca/1.7591632.1753228122!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/measles-hospital-precautions.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-07-23 08:00:00",
+      "content": "The spread of measles both within provinces and between one another is keeping doctors and health officials across much of Canada on their toes. The pace of the outbreak is accelerating in Alberta a\u2026 [+4515 chars]",
+      "retrievedAt": "2025-07-24 19:07:10.715532",
+      "internal_id": "52bf3b38e51e8690bc0c7bf216d24d1396e225d0f7db1a18f4a5b107a1733b97",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23197,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gef\u00e4hrliches Virus: WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie",
+      "description": "Die Weltgesundheitsorganisation (WHO) schl\u00e4gt Alarm: Die Viruserkrankung Chikungunya, \u00fcbertragen durch M\u00fccken, k\u00f6nnte zu einer weltweiten Epidemie anwachsen.",
+      "url": "https://www.stern.de/gesundheit/chikungunya--who-warnt-vor-epidemie-des-gefaehrlichen-virus-35915590.html",
+      "urlToImage": "https://image.stern.de/35916344/t/yE/v1/w1440/r1.7778/-/chikungunya.jpg",
+      "publishedAt": "2025-07-23 07:46:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Weltgesundheitsorganisation (WHO) schl\u00e4gt Alarm: Die Viruserkrankung Chikungunya, \u00fcbertragen durch M\u00fccken, k\u00f6nnte zu einer weltweiten Epidemi\u2026 [+2193 chars]",
+      "retrievedAt": "2025-07-24 19:07:13.099788",
+      "internal_id": "81d463161e7caeb7f799ac3d2b23ed3246bbd38d2a3baabbf610d529283d94af",
+      "publishedAtLabel": "Jul 23"
+    },
     {
       "id": 23172,
       "query": [
@@ -21359,60 +21974,6 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21994,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Obed Nares",
-      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
-      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
-      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
-      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
-      "publishedAt": "2025-06-08 16:31:49",
-      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
-      "retrievedAt": "2025-06-09 19:06:04.659724",
-      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
-      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-06-08 10:55:42",
-      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
-      "retrievedAt": "2025-06-09 19:06:03.611880",
-      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21992,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Jacob Paul",
-      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
-      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
-      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
-      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
-      "publishedAt": "2025-06-08 08:16:49",
-      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
-      "retrievedAt": "2025-06-09 19:06:01.948278",
-      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
