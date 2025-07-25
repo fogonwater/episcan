@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2025-07-24 19:07
-- **Most recent article:** 2025-07-23 17:38:23
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-07-25 07:10
+- **Most recent article:** 2025-07-24 05:00:01
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 31 | 53 | 36 | 114 | 64 | 25 | 370 |
-| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 25 | 163 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 42 | 159 |
-| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 10 | 126 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 6 | 101 |
-| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 7 | 91 |
-| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 8 | 76 |
+| measles | 48 | 31 | 53 | 36 | 114 | 64 | 30 | 376 |
+| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 26 | 165 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 43 | 160 |
+| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 10 | 127 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 8 | 103 |
+| mpox | 23 | 11 | 27 | 10 | 6 | 7 | 9 | 93 |
+| rabies | 6 | 19 | 5 | 17 | 17 | 4 | 9 | 77 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 1 | 53 |
 | zika | 2 | 14 | 2 | 8 | 12 | 8 | 2 | 48 |
 | h5n1 | 5 | 9 | 3 | 8 | 9 | 13 | 1 | 48 |
@@ -49,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (rabies)
 
+- [Biological treatment service for rabies ceases, leading to fears for people exposed to virus](https://www.irishtimes.com/health/2025/07/24/biological-treatment-service-for-rabies-ceases-leading-to-fears-for-people-exposed-to-virus/) (The Irish Times)
+
 - [Two bats test positive for rabies in Denver, DDPHE announces Wednesday](https://www.denver7.com/lifestyle/health/two-bats-test-positive-for-rabies-in-denver-citys-department-of-public-health-announces-wednesday) (Denver7.com)
 
 - [An implementation science framework to understand low coverage in mass dog rabies vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012869) (Plos.org)
@@ -71,6 +73,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (mpox)
 
+- [800,000 U.S. taxpayer-funded vaccine doses may expire, lawmakers say](https://www.japantimes.co.jp/news/2025/07/24/world/politics/us-taxpayer-vaccine-expire/) (The Japan Times)
+
+- [800,000 Vaccine Doses The U.S. Pledged To Send To Africa Are About To Expire Instead](https://www.huffpost.com/entry/us-vaccines-africa-expire-mpox_n_68812d04e4b0274beaa5d0af) (HuffPost)
+
 - [Warnings Issues to Americans Traveling to Three Destinations](https://www.newsweek.com/warnings-issues-americans-traveling-three-destinations-2102872) (Newsweek)
 
 - [Emergence of Clade Ib Monkeypox Virus—Current State of Evidence](https://wwwnc.cdc.gov/eid/article/31/8/24-1551_article) (Cdc.gov)
@@ -87,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (meningitis)
 
+- [From hospital bed to hero status - Bonmati 'could write a book'](https://www.bbc.com/sport/football/articles/c74w2elr2x7o) (BBC News)
+
+- [Una genialidad de Aitana Bonmatí lleva a España a la final de la Eurocopa y la abraza a la gloria](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/07/23/68811767e9cf4a004d8b457c.html) (El Mundo)
+
 - [Integrated in silico identification of cholinesterase inhibitors from Nyctanthes arbor-tristis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328457) (Plos.org)
 
 - [Post-vaccination Streptococcus pneumoniae colonization and respiratory manifestations in children: A prospective cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328516) (Plos.org)
@@ -100,6 +110,16 @@ Source: [News API](https://newsapi.org/)
 - [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
 
 ## 25-30 (measles)
+
+- [Health officials confirm two more measles cases in Kent County, Michigan](https://www.cbsnews.com/detroit/news/two-new-measles-cases-confirmed-kent-county/) (CBS News)
+
+- [Move over Texas, Canada Is Now the New North American Measles Hot Spot](https://legalinsurrection.com/2025/07/move-over-texas-canada-is-now-the-new-north-american-measles-hot-spot/) (Legalinsurrection.com)
+
+- [Campground guests, Gunnison hospital patients may have been exposed to measles](https://www.denver7.com/lifestyle/health/campground-visitors-patients-at-gunnison-hospital-may-have-been-exposed-to-measles-cdphe-says) (Denver7.com)
+
+- [2 new measles cases confirmed by Kent County Health Department](https://www.mlive.com/news/grand-rapids/2025/07/2-new-measles-cases-confirmed-by-kent-county-health-department.html) (mlive.com)
+
+- [Manitoba reports 12 more confirmed measles cases since last week's update](https://www.cbc.ca/news/canada/manitoba/measles-update-1.7592317) (CBC News)
 
 - [Do traces of measles in Austin wastewater mean there's an outbreak?](https://www.kut.org/health/2025-07-23/measles-cases-austin-travis-county-texas-wastewater-detected) (KUT)
 
@@ -179,6 +199,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (dengue)
 
+- [Pacific dengue cases highest in a decade: World Health Organization](https://www.abc.net.au/pacific/pacific-dengue-cases-highest-in-a-decade-who-says/105566920) (ABC News (AU))
+
 - [Spatial occurrence-intensity modeling of dengue incidence in southernmost provinces of Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013347) (Plos.org)
 
 - [The long-term persistence of the wMel strain in Rio de Janeiro is threatened by poor integrated vector management and bacterium fitness cost on Aedes aegypti](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013372) (Plos.org)
@@ -230,6 +252,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [全球屈公病升溫：巴西等國旅遊疫情建議升至第2級，中國廣東確診激增至2659例](https://www.thenewslens.com/article/256205) (Thenewslens.com)
 
 - [Chikungunya-virus duikt weer op met ook besmettingen in Europa](https://businessam.be/chikungunya-virus-besmettingen-europa/) (Businessam.be)
 
@@ -2655,6 +2679,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
+- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
+
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2692,6 +2718,8 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
+
+- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2742,6 +2770,8 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
+
+- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 

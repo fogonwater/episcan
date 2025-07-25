@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-07-24 19:07",
-  "count_articles_total": 1217,
-  "count_articles_new": 34,
+  "last_updated": "2025-07-25 07:10",
+  "count_articles_total": 1232,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 23212,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Biological treatment service for rabies ceases, leading to fears for people exposed to virus",
+      "description": "HSE now looking for replacement for service responsible for assessment of patients and delivery of \u2018critical\u2019 biologics",
+      "url": "https://www.irishtimes.com/health/2025/07/24/biological-treatment-service-for-rabies-ceases-leading-to-fears-for-people-exposed-to-virus/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/X4MA4XDZEIDHN3XVWCE3M5CEW4.jpg?smart=true&auth=2953099f01292317024b01a3779a7f375bed5c17a2b9131fda72f5a6030b14bd&width=1200&height=630",
+      "publishedAt": "2025-07-24 05:00:01",
+      "content": "People exposed to rabies are at risk of being missed, lost to follow up or inappropriately managed after a service providing biological treatment for such patients stopped operating, a senior HSE off\u2026 [+3010 chars]",
+      "retrievedAt": "2025-07-25 07:09:58.589670",
+      "internal_id": "2a4fbd2562957ac987f4be7e60ebdc229dea8ac29f6a91b629af070fb4034287",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23218,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Abc Pacific",
+      "title": "Pacific dengue cases highest in a decade: World Health Organization",
+      "description": "Dengue cases in the Pacific are at their highest since 2016, with nearly 19,000 people affected, the World Health Organisation says.",
+      "url": "https://www.abc.net.au/pacific/pacific-dengue-cases-highest-in-a-decade-who-says/105566920",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/792b6015cd4e811ddde1cf3f363a7f0d?impolicy=wcms_crop_resize&cropH=805&cropW=1431&xPos=0&yPos=46&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-24 03:53:27",
+      "content": "Dengue cases in the Pacific are at their highest since 2016, with nearly 19,000 people affected, the World Health Organisation (WHO) says. The new figures come as multiple nations in the region grap\u2026 [+4173 chars]",
+      "retrievedAt": "2025-07-25 07:10:00.450828",
+      "internal_id": "a9a9e29a294ac68424b3474df155758d1cab9b86a2ff67a2b4cca6ec4ee24943",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23223,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Patricia Zengerle",
+      "title": "800,000 U.S. taxpayer-funded vaccine doses may expire, lawmakers say",
+      "description": "A letter said 220,000 doses could be viable if the State Department begins shipping them immediately.",
+      "url": "https://www.japantimes.co.jp/news/2025/07/24/world/politics/us-taxpayer-vaccine-expire/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/07/24/483142.jpg?v=3.1",
+      "publishedAt": "2025-07-24 02:32:00",
+      "content": "Washington Hundreds of thousands of doses of mpox vaccine that the United States had promised to send to African nations are in danger of going to waste, dozens of congressional Democrats said in a l\u2026 [+478 chars]",
+      "retrievedAt": "2025-07-25 07:10:03.723825",
+      "internal_id": "c1f58783724d379aa45d5c4444e1797bc1fe18a7ed4d7785a808978576ed4039",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23217,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dejanay Booth-singleton",
+      "title": "Health officials confirm two more measles cases in Kent County, Michigan",
+      "description": "Health officials in Kent County, Michigan, announced on Wednesday that two more measles cases were detected, bringing the total to four in the county.",
+      "url": "https://www.cbsnews.com/detroit/news/two-new-measles-cases-confirmed-kent-county/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/23/8fdc7ed4-0241-4309-8663-38f9651e30bd/thumbnail/1200x630/3967826f7bbc62cc5886404444a04cc3/gettyimages-2152300156.jpg",
+      "publishedAt": "2025-07-24 02:00:42",
+      "content": "Health officials in Kent County, Michigan, announced on Wednesday that two more measles cases were detected, bringing the total to four in the county. Dr. Adam London, county administrative health o\u2026 [+1809 chars]",
+      "retrievedAt": "2025-07-25 07:09:59.203321",
+      "internal_id": "9db5bbf45f4e3fe5fd1352a6eea88b4ae64fd0ed3f4c9a59cd20d62289917d60",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23221,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thenewslens.com",
+      "author": "\u4e2d\u592e\u901a\u8a0a\u793e",
+      "title": "\u5168\u7403\u5c48\u516c\u75c5\u5347\u6eab\uff1a\u5df4\u897f\u7b49\u570b\u65c5\u904a\u75ab\u60c5\u5efa\u8b70\u5347\u81f3\u7b2c2\u7d1a\uff0c\u4e2d\u570b\u5ee3\u6771\u78ba\u8a3a\u6fc0\u589e\u81f32659\u4f8b",
+      "description": "WHO\u8868\u793a\uff0c\u9019\u6b21\u5c48\u516c\u75c5\u75ab\u60c5\u7684\u65e9\u671f\u9810\u8b66\u8a0a\u865f\uff0c\u820720\u5e74\u524d\u90a3\u6b21\u91cd\u5927\u75ab\u60c5\u6a21\u5f0f\u5b8c\u5168\u76f8\u540c\uff0c\u4ed6\u5011\u8981\u9632\u6b62\u75ab\u60c5\u91cd\u6f14\u3002 \u5c48\u516c\u75c5\u662f\u7531\u75c5\u5a92\u868a\u50b3\u64ad\u7684\u75c5\u6bd2\u6027\u75be\u75c5\uff0c\u6703\u5f15\u8d77\u767c\u71d2\u548c\u56b4\u91cd\u7684\u95dc\u7bc0\u75db\uff0c\u9019\u4e9b\u75c7\u72c0\u5e38\u8b93\u4eba\u611f\u5230\u865b\u5f31\uff0c\u5728\u67d0\u4e9b\u60c5\u6cc1\u4e0b\u751a\u81f3\u53ef\u80fd\u81f4\u547d\u3002",
+      "url": "https://www.thenewslens.com/article/256205",
+      "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2025/07/8ae7edf4-f897-42da-b898-c46fcf53eadb.jpg",
+      "publishedAt": "2025-07-24 01:07:00",
+      "content": "20 WHO20 20 chikungunya Diana Rojas Alvarez2004200550 2025ReunionMayotteMauritius1/3 MadagascarSomaliaKenya 51800 121 2 2321 2325WHO722 32600 307991786 23TOCC 21 7221513162020202405 \u2026 [+111 chars]",
+      "retrievedAt": "2025-07-25 07:10:02.919410",
+      "internal_id": "3f46db83e002c934a78b7f230de7a035568e171b9a3cf94c32b7bfa1d741fa8d",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23219,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Emily Salley",
+      "title": "From hospital bed to hero status - Bonmati 'could write a book'",
+      "description": "Aitana Bonmati's place at Euro 2025 was under threat when she was struck down with viral meningitis before the tournament. She might yet leave it with a winner's medal.",
+      "url": "https://www.bbc.com/sport/football/articles/c74w2elr2x7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d1bd/live/a77d6a80-681d-11f0-af20-030418be2ca5.jpg",
+      "publishedAt": "2025-07-23 23:54:55",
+      "content": "Spain had dominated possession, but they had struggled to break through a resilient defence in Zurich as Christian Wuck's side dug deep to force extra time. But with the game looking destined for a \u2026 [+1427 chars]",
+      "retrievedAt": "2025-07-25 07:10:01.153693",
+      "internal_id": "1c908815026984de4814fe362be4775f7ef97a9ba9c5615064ff8b3215d5e088",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23213,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Move over Texas, Canada Is Now the New North American Measles Hot Spot",
+      "description": "Unable to blame RFK Jr., journalists have turned their attention to the Mennonite population in Ontario. But it turns out the area is also a hotspot for immigration from regions where measles is more prevalent. The post Move over Texas, Canada Is Now the New \u2026",
+      "url": "https://legalinsurrection.com/2025/07/move-over-texas-canada-is-now-the-new-north-american-measles-hot-spot/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/05/Measles.jpg",
+      "publishedAt": "2025-07-23 23:00:55",
+      "content": "This spring, as Texas was dealing with a significant measles outbreak, Canada was also dealing with the disease. In fact, Canada is currently experiencing one of the largest measles outbreaks in Nor\u2026 [+4464 chars]",
+      "retrievedAt": "2025-07-25 07:09:59.066996",
+      "internal_id": "7cfd6f4e4b7bed49b05f2017d706c8be88ccec8cbcd8a8e9c6e3902467eac68c",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23216,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Denver7.com",
+      "author": "\u00d3scar Contreras",
+      "title": "Campground guests, Gunnison hospital patients may have been exposed to measles",
+      "description": "Visitors at a campground in Almont and patients who visited a hospital in Gunnison earlier this month may have been exposed to measles, state health officials said Tuesday.",
+      "url": "https://www.denver7.com/lifestyle/health/campground-visitors-patients-at-gunnison-hospital-may-have-been-exposed-to-measles-cdphe-says",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ad299f2/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F28%2F8a%2F7d97420b4bf28ce6a84603f9f019%2Fap23320622106031.jpg",
+      "publishedAt": "2025-07-23 22:30:33",
+      "content": "GUNNISON COUNTY, Colo. Visitors at a campground in Almont and patients who visited a hospital in Gunnison earlier this month may have been exposed to measles and should monitor for symptoms for the n\u2026 [+3230 chars]",
+      "retrievedAt": "2025-07-25 07:09:59.187599",
+      "internal_id": "fc3027a0329b3f8664799ddaf85470488d62c8b3f2ae3b6a0274401c03deb520",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23215,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Dylan Goetz | Dgoetz@mlive.com",
+      "title": "2 new measles cases confirmed by Kent County Health Department",
+      "description": "Neither case involved public exposure sites nor posed a risk to the general public, officials said.",
+      "url": "https://www.mlive.com/news/grand-rapids/2025/07/2-new-measles-cases-confirmed-by-kent-county-health-department.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/VCKZBR3TYFHAJNWGU66NCDBEWI.jpg?auth=af02efe05728378edf13227cea1eba3edbe2a85544be8312d96b4379d2e971d1&width=1280&quality=90",
+      "publishedAt": "2025-07-23 22:08:34",
+      "content": "KENT COUNTY, MI Third and fourth measles cases were confirmed by the Kent County Health Department last week. Neither case involved public exposure sites nor posed a risk to the general public, acc\u2026 [+2037 chars]",
+      "retrievedAt": "2025-07-25 07:09:59.171684",
+      "internal_id": "a476d8c001911e12071c9d0cdae1f4fba7e74f77927cf70ee73540bb34c39ebe",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23220,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Inma Lid\u00f3n",
+      "title": "Una genialidad de Aitana Bonmat\u00ed lleva a Espa\u00f1a a la final de la Eurocopa y la abraza a la gloria",
+      "description": "Se perdi\u00f3 los primeros partidos por meningitis pero apareci\u00f3 en el minuto 113 de la pr\u00f3rroga para tumbar a Alemania por primera vez en la historia y poner a la selecci\u00f3n camino de otro t\u00edtulo. Leer",
+      "url": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/07/23/68811767e9cf4a004d8b457c.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/0ea5804eafd4686adeb7330c012502f0/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/23/17533070695700.jpg",
+      "publishedAt": "2025-07-23 21:50:28",
+      "content": "incomDe la cama de un hospital con meningitis a golpear una pelota casi desde la l\u00ednea de fondo para encontrar el \u00fanico hueco que dej\u00f3 Berger. Aitana Bonmat\u00ed, la genio que nadie pod\u00eda atar a un banqu\u2026 [+4491 chars]",
+      "retrievedAt": "2025-07-25 07:10:01.162563",
+      "internal_id": "61d7f39245a0317b2366aa4cc1ac4a23a82d3429d987006d7005004d669dec55",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23214,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba reports 12 more confirmed measles cases since last week's update",
+      "description": "Manitoba confirmed 12 more cases of measles in its weekly update posted online Wednesday, with the total number of confirmed cases now up to 158 from 146 the previous week.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-1.7592317",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-23 19:52:30",
+      "content": "Manitoba confirmed 12 more cases of measles in its weekly update posted online Wednesday, with the total number of confirmed cases now up to 158 from 146 the previous week. Those numbers are up-to-d\u2026 [+4010 chars]",
+      "retrievedAt": "2025-07-25 07:09:59.126373",
+      "internal_id": "1ed81d76e53d4d82634d2da0d5f0ff87698b3117618476692d2611bf7e3b0cfe",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 23222,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Reuters",
+      "title": "800,000 Vaccine Doses The U.S. Pledged To Send To Africa Are About To Expire Instead",
+      "description": "\"This is a moral, strategic, and public health failure in the making,\" lawmakers told the U.S. State Department Wednesday.",
+      "url": "https://www.huffpost.com/entry/us-vaccines-africa-expire-mpox_n_68812d04e4b0274beaa5d0af",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68813578160000c9555d72ac.jpeg?cache=UTf4ljFtIe&ops=1200_630",
+      "publishedAt": "2025-07-23 19:21:55",
+      "content": "WASHINGTON, July 23 (Reuters) - Hundreds of thousands of doses of mpox vaccine that the United States had promised to send to African nations are in danger of going to waste, dozens of congressional \u2026 [+1827 chars]",
+      "retrievedAt": "2025-07-25 07:10:03.699765",
+      "internal_id": "b4d17be5f246df4af53ccc10423704ef1720c437a6bd277285e6c747068f4432",
+      "publishedAtLabel": "Jul 23"
+    },
     {
       "id": 23192,
       "query": [
@@ -21974,6 +22190,60 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21994,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Obed Nares",
+      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
+      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
+      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
+      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
+      "publishedAt": "2025-06-08 16:31:49",
+      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
+      "retrievedAt": "2025-06-09 19:06:04.659724",
+      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
+      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-06-08 10:55:42",
+      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
+      "retrievedAt": "2025-06-09 19:06:03.611880",
+      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21992,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LBC",
+      "author": "Jacob Paul",
+      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
+      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
+      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
+      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
+      "publishedAt": "2025-06-08 08:16:49",
+      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
+      "retrievedAt": "2025-06-09 19:06:01.948278",
+      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
