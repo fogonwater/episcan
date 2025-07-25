@@ -1,8 +1,406 @@
 {
-  "last_updated": "2025-07-25 07:10",
-  "count_articles_total": 1232,
-  "count_articles_new": 12,
+  "last_updated": "2025-07-25 19:07",
+  "count_articles_total": 1251,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 23226,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]Eran Lahav",
+      "title": "Israel measles outbreak rises to 246 cases",
+      "description": "JERUSALEM, July 24 (Xinhua) -- Israel's Health Ministry on Thursday reported 55 new measles cases, bringing the total number of verified infections to 246 since the outbreak began in early April. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/07/25/israel-measles-outbreak-rises-to-246-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-07-24 18:54:00",
+      "content": "JERUSALEM, July 24 (Xinhua) -- Israel's Health Ministry on Thursday reported 55 new measles cases, bringing the total number of verified infections to 246 since the outbreak began in early April. A\u2026 [+1055 chars]",
+      "retrievedAt": "2025-07-25 19:07:01.961837",
+      "internal_id": "fbd36ba16c9fa50a75df8ac0f2d1e3293f872984b34093a4711ef58bb634172d",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23229,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": "Matthew Cardenas",
+      "title": "Tulare County health officials confirm 2 cases of measles",
+      "description": "It comes as the CDC says the U.S. is having its worst year for measles spread in more than three decades.",
+      "url": "https://abc30.com/post/tulare-county-health-officials-confirm-2-cases-measles/17275954/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16051751_031925-kfsn-mid-measles-case-vid.jpg?w=1600",
+      "publishedAt": "2025-07-24 16:40:30",
+      "content": "TULARE COUNTY, Calif. (KFSN) -- The Tulare County Public Health Department has confirmed two cases of measles. Health officials say both cases were in children who were unvaccinated. They are the f\u2026 [+738 chars]",
+      "retrievedAt": "2025-07-25 19:07:02.042283",
+      "internal_id": "8d96633487bb8f157049a59cd6cb1274d5f7ec1a151b216775ec9ce95ea4e64c",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23228,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "Measles cases in US over 4.5 times higher than all of last year",
+      "description": "Measles cases in US over 4.5 times higher than all of last yeargo.com",
+      "url": "https://abcnews.go.com/Health/measles-cases-us-45-times-higher-year/story?id=124036433",
+      "urlToImage": "https://i.abcnewsfe.com/a/96cbf0af-721a-49d6-8ca6-c3054c6b7bfb/measles-sign-ap-jt-250311_1741732269895_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-24 16:14:42",
+      "content": "Measles cases in the United States are continuing to rise after breaking a decades-long record just two weeks ago. There are now 1,319 confirmed measles cases across 39 states, according to data fro\u2026 [+1925 chars]",
+      "retrievedAt": "2025-07-25 19:07:02.003527",
+      "internal_id": "4fb676932be05b7a8e8a130d936c99c52c5cde8237acfeb517e0844841d9eed3",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23243,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Emmi Julkunen",
+      "title": "WHO varoittaa uudesta epidemiasta",
+      "description": "Virusta ei esiinny kotoper\u00e4isesti Suomessa.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011384944.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/73f06369c9ef1bf8b0850b0fdd0992d8/some/is-default.jpg",
+      "publishedAt": "2025-07-24 15:15:00",
+      "content": "Virusta ei esiinny kotoper\u00e4isesti Suomessa.Maailman terveysj\u00e4rjest\u00f6 WHO varoitti tiistaina, ett\u00e4 suuri chikungunyavirus-epidemia uhkaa levit\u00e4 maailmanlaajuisesti. WHO vaatii kiireellisi\u00e4 toimia epide\u2026 [+3006 chars]",
+      "retrievedAt": "2025-07-25 19:07:06.141662",
+      "internal_id": "a64288b8f1105c47410b575503875e6d50748581ff2d3d97fc6c9a15f5a04e3a",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23225,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Number of measles cases in N.S. continues to rise",
+      "description": "There are now 30 cases of the measles in the northern area of the province. Nova Scotia Health says the new cases are in \"large households and specific small communities with close contact.\"",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/number-of-measles-cases-in-n-s-continues-to-rise-1.7592867",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-24 14:22:12",
+      "content": "The number of measles cases continues to rise in Nova Scotia. Nova Scotia Health says there are now 30 cases of measles in its northern zone, with eight of those lab-confirmed and the others conside\u2026 [+1627 chars]",
+      "retrievedAt": "2025-07-25 19:07:01.952541",
+      "internal_id": "79892080ff65441fe4860fdaa1ace19d1163e6a1f59d4f2551742fe392a73aba",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23235,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Katalina Bobowik, Muhamad Fachrul, Chelzie Crenna Darusallam, Pradiptajati Kusuma, Herawati Sudoyo, Clarissa A. Febinia, Safarina G. Malik, Christine A. Wells, Irene Gallego Romero",
+      "title": "Whole blood transcriptomics analysis of Indonesians reveals translocated and pathogenic microbiota in blood",
+      "description": "Pathogens found within local environments are a major cause of morbidity and mortality. This is particularly true in Indonesia, where infectious diseases such as malaria or dengue are a significant part of the disease burden. Unequal investment in medical fun\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328788",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0328788.g004&size=inline",
+      "publishedAt": "2025-07-24 14:00:00",
+      "content": "Abstract Pathogens found within local environments are a major cause of morbidity and mortality. This is particularly true in Indonesia, where infectious diseases such as malaria or dengue are a sig\u2026 [+50211 chars]",
+      "retrievedAt": "2025-07-25 19:07:03.421444",
+      "internal_id": "dc2aab48e82c975a3af205de2b22e930b80d8407e26693b61377afe713de946b",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23245,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Beza Ramasindrazana, Zo\u00e9 A. Rahalison, Philippe Gauthier, Guillain Mikaty, Zaina I. Bodoarison, Lanto A. Maminirina, Soloandry Rahajandraibe, Mamy G. Randriamanantsoa, Gilbert Kayoko, Jean-Claude Manuguerra, Anne-Sophie Le Guern, Andriamiliharison J. Rasamindrakotroka, Minoarisoa Rajerison",
+      "title": "Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar",
+      "description": "Author\u2019s summary Plague, a severe infectious disease caused by the bacterium Yersinia pestis, remains a significant public health concern in Madagascar, where seasonal outbreaks continue to occur. Rapid and accurate diagnosis is critical for timely treatment \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013278.g002&size=inline",
+      "publishedAt": "2025-07-24 14:00:00",
+      "content": "Abstract Background The plague, caused by Yersinia pestis, remains a critical public health issue, particularly in endemic regions like Madagascar. Rapid and accurate detection of this pathogen is \u2026 [+42284 chars]",
+      "retrievedAt": "2025-07-25 19:07:07.617767",
+      "internal_id": "e8dd55600e49a0bc4a0e218d0455c1a992085bd77e402a60285a6e0116392670",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Natalia Tiemi Hanada",
+      "title": "Mol\u00e9cula em pr\u00f3polis de abelha mata larvas de mosquito da dengue, aponta estudo",
+      "description": "Pesquisadores encontraram uma subst\u00e2ncia que promove a morte de 90% a 100% de larvas do Aedes aegypti em pr\u00f3polis de manda\u00e7aia, abelha nativa do Brasil",
+      "url": "https://veja.abril.com.br/ciencia/molecula-em-propolis-de-abelha-mata-larvas-de-mosquito-da-dengue-aponta-estudo/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/07/abelha.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-24 13:15:11",
+      "content": "Dia dos Pais: Revista em casa por 7,50/semana Por Andr\u00e9 Juli\u00e3o | Ag\u00eancia FAPESP 24 jul 2025, 10h15 Geopr\u00f3polis da Melipona quadrifasciata eliminou totalmente as larvas de 'Aedes aegypti' em 48 \u2026 [+5192 chars]",
+      "retrievedAt": "2025-07-25 19:07:03.315840",
+      "internal_id": "e500f8e1d740c75be68b02ebc68a02897c276673d6194746b5253ff2f11ab946",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23244,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Vakava varoitus uudesta epidemiasta",
+      "description": "Virus aiheutti merkitt\u00e4v\u00e4n epidemian viimeksi 20 vuotta sitten. Nyt WHO:n mukaan ilmassa on samanlaisia merkkej\u00e4. Maailman terveysj\u00e4rjest\u00f6 WHO varoittaa chikungunya-viruksen levi\u00e4misest\u00e4. WHO vaatii v\u00e4litt\u00f6mi\u00e4 toimia, jotta taudin levi\u00e4minen voidaan ehk\u00e4ist\u00e4.\u2026",
+      "url": "https://www.iltalehti.fi/ulkomaat/a/8ba381ea-a75c-4271-b0dd-373ce3539358",
+      "urlToImage": "https://img.ilcdn.fi/2CcBk4sSNIhdl3vMizpeuFC4kNA=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/3a5e95ac3022b0e731fc182ac262f8ecdbd0d215808352757ab4ecca61c9833d.jpg",
+      "publishedAt": "2025-07-24 13:01:30",
+      "content": "Maailman terveysj\u00e4rjest\u00f6 WHO varoittaa chikungunya-viruksen levi\u00e4misest\u00e4. WHO vaatii v\u00e4litt\u00f6mi\u00e4 toimia, jotta taudin levi\u00e4minen voidaan ehk\u00e4ist\u00e4. Asiasta kertoo uutistoimisto AFP. Chikungunya on hyt\u2026 [+1124 chars]",
+      "retrievedAt": "2025-07-25 19:07:06.151067",
+      "internal_id": "9fcd80a1eec6fe8cca4b035076f971a60aa8560986def0a542d05720e7fc5e34",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23234,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "OMS alerta para risco de dissemina\u00e7\u00e3o global de Chikungunya",
+      "description": "De acordo com a entidade internacional, padr\u00e3o que precedeu epidemia da doen\u00e7a h\u00e1 20 anos vem se repetindo desde o in\u00edcio de 2025",
+      "url": "https://veja.abril.com.br/saude/oms-alerta-para-risco-de-disseminacao-global-de-chikungunya/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2016/05/medicina-dengue-aedes-aegypti-20140423-010-original30.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-24 12:35:29",
+      "content": "Dia dos Pais: Revista em casa por 7,50/semanaMosquito 'Aedes aegypti', transmissor da dengue, tamb\u00e9m passa o v\u00edrus chikungunya (Andr\u00e9 Lucas Almeida/Futura Press/VEJA/VEJA) Continua ap\u00f3s publicidade \u2026 [+4941 chars]",
+      "retrievedAt": "2025-07-25 19:07:03.331927",
+      "internal_id": "e24ecb0fe212d68cbd8f243468c3fc580c9afb5996d75427a5234c36f0396063",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23237,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Javier Cabello",
+      "title": "Aitana Bonmat\u00ed, hero\u00edna de la selecci\u00f3n espa\u00f1ola en la Eurocopa: de superar una meningitis a colarnos en la final",
+      "description": "Campeona del mundo, doble Bal\u00f3n de Oro y firme defensora de la igualdad, su trayectoria y valores la convierten en un icono dentro y fuera del campo",
+      "url": "https://www.hola.com/actualidad/20250724846288/aitana-bonmati-la-gran-referente-del-futbol-mundial/",
+      "urlToImage": "https://www.hola.com/horizon/landscape/712809df692e-img6816.jpg?im=Resize=(1200)",
+      "publishedAt": "2025-07-24 12:03:58",
+      "content": "Aitana Bonmat\u00ed es hoy una de las figuras m\u00e1s destacadas del deporte a nivel internacional. Nacida en 1998 en Sant Pere de Ribes, Barcelona, es centrocampista del F\u00fatbol Club Barcelona y de la selecci\u2026 [+2901 chars]",
+      "retrievedAt": "2025-07-25 19:07:04.166251",
+      "internal_id": "bee90757a6d7d51f9d3d093eace2f01f642ce7fb3597e1fceb2d3e69b61b0893",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23239,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcworldservice/",
+      "title": "\u83ef\u5357\u8207\u4e16\u754c\u57fa\u5b54\u80af\u96c5\u71b1\u75ab\u60c5\uff1a\u6211\u5011\u90fd\u77e5\u9053\u751a\u9ebc",
+      "description": "\u4e16\u885b\u7d44\u7e54\u8b66\u544a\u5168\u7403\u6ce8\u610f\u7d93\u7531\u868a\u5b50\u50b3\u64ad\u7684\u57fa\u5b54\u80af\u96c5\u71b1\uff08\u5c48\u516c\u75c5\uff09\u64f4\u6563\uff0c\u4e2d\u570b\u5357\u65b9\u9304\u5f97\u5927\u91cf\u75c5\u4f8b\u3002\u9019\u5230\u5e95\u662f\u500b\u751a\u9ebc\u75c5\uff1f",
+      "url": "https://www.bbc.com/zhongwen/articles/cr7975pp97zo/trad",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/ff35/live/78254cc0-6878-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-07-24 11:48:21",
+      "content": "EPA WHOChikungunya fever3000 Chikungunya Fever iStock/Getty Images Plus 1952Kimakonde Yellow fever mosquitoAsian tiger mosquitoDengue feverZika virus 12 Bamburi, MombasaMercyBBC BBC News Swahi\u2026 [+408 chars]",
+      "retrievedAt": "2025-07-25 19:07:05.854541",
+      "internal_id": "22cb4f1ff6664aeba20acb63807cf29a4f219fba0b25ee1fb8704c7f2f204208",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23224,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Dpa-international.com",
+      "author": "DPA",
+      "title": "Tourists in Bali at risk of catching rabies, Indonesian officials say",
+      "description": "Health authorities at one of Asia's most popular tourist destinations are warning about an apparent outbreak of rabies after several people on the Indonesian...",
+      "url": "https://dpa-international.com/trends-and-features/urn:newsml:dpa.com:20090101:250724-99-544837/",
+      "urlToImage": "https://media.zenfs.com/en/dpa_international_526/f7598611bb5a3e0b924779a14aa56069",
+      "publishedAt": "2025-07-24 11:43:30",
+      "content": "Health authorities at one of Asia's most popular tourist destinations are warning about an apparent outbreak of rabies after several people on the Indonesian island of Bali were bitten by infected an\u2026 [+1782 chars]",
+      "retrievedAt": "2025-07-25 19:07:01.010041",
+      "internal_id": "6b46f3efbd79812c1d10cd79281451878f72630c3cb72d200b9a466e72e595f6",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23236,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Total dengue infections cross 2,200 in Nepal",
+      "description": "KATHMANDU: Nepal has reported 147 new dengue cases in the past week, pushing the total number of confirmed infections this year to 2,238, according to the Epidemiology and Disease Control Division (EDCD). The mosquito-borne disease is spreading steadily acros\u2026",
+      "url": "https://english.khabarhub.com/2025/24/487287/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-24 11:15:16",
+      "content": "KATHMANDU: Nepal has reported 147 new dengue cases in the past week, pushing the total number of confirmed infections this year to 2,238, according to the Epidemiology and Disease Control Division (E\u2026 [+605 chars]",
+      "retrievedAt": "2025-07-25 19:07:03.452290",
+      "internal_id": "600f5f1f953770991c37258edd917f7ebb4aef4da596e08d567eb839dbc5fb86",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23231,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "Microbix Exhibiting & Presenting at ADLM",
+      "description": "Microbix & API Presenting H5N1 Pandemic Preparedness Results MISSISSAUGA, Ontario, July 24, 2025 (GLOBE NEWSWIRE) \u2014 Microbix Biosystems Inc. (TSX: MBX, OTCQX: MBXBF, Microbix\u00ae), a life sciences innovator, manufacturer, and exporter, announces that it will be \u2026",
+      "url": "https://financialpost.com/globe-newswire/microbix-exhibiting-presenting-at-adlm",
+      "urlToImage": null,
+      "publishedAt": "2025-07-24 11:04:12",
+      "content": "Microbix also applies its biological expertise and infrastructure to develop other proprietary products and technologies, most notably Kinlytic\u00ae urokinase, a biologic thrombolytic drug used to treat \u2026 [+2191 chars]",
+      "retrievedAt": "2025-07-25 19:07:02.774757",
+      "internal_id": "38af8f9a79e4a4724eeecb575c06b527b47fb2dbe0eb02bb32a86079b67b7335",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23241,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "K\u00fcbra Y\u0131lmaz",
+      "title": "Keneden sonra yeni vir\u00fcs uyar\u0131s\u0131! Chikungunya'dan korunmak i\u00e7in bunlar\u0131 yap\u0131n",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, sivrisinekler arac\u0131l\u0131\u011f\u0131yla bula\u015fan chikungunya vir\u00fcs\u00fc hakk\u0131nda \u00f6nemli bir uyar\u0131 yapt\u0131. DS\u00d6, vir\u00fcs\u00fcn k\u00fcresel \u00f6l\u00e7ekte ciddi bir salg\u0131na d\u00f6n\u00fc\u015fme potansiyeline dikkat \u00e7ekerek acil \u00f6nlemlerin al\u0131nmas\u0131 gerekti\u011fini vurgulad\u0131. Peki, chikungunya v\u2026",
+      "url": "https://www.haber7.com/saglik/haber/3549846-keneden-sonra-yeni-virus-uyarisi-chikungunyadan-korunmak-icin-bunlari-yapin",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/30/keneden_sonra_yeni_virus_uyarisi_chikungunyadan_korunmak_icin_bunlari_yapin_1753354236_7991.jpg",
+      "publishedAt": "2025-07-24 11:01:00",
+      "content": "D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6), sivrisinek kaynakl chikungunya vir\u00fcs\u00fcne kar d\u00fcnyay uyard. Aedes aegypti ve Aedes albopictus t\u00fcr\u00fc sivrisineklerle bulaan bu viral hastalk, 119 \u00fclkede g\u00f6r\u00fclm\u00fc durumda. DS\u00d6 yetk\u2026 [+1775 chars]",
+      "retrievedAt": "2025-07-25 19:07:05.958822",
+      "internal_id": "d8edf85b525e885533f5298bedac194ed14f72ebbb6d16f4ce9310a643dcf1b2",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Timor-Leste certified malaria-free by WHO",
+      "description": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.\u201cWHO cong\u2026",
+      "url": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/malaria/children-under-mosquito-bed-net-in-timor-leste.tmb-1200v.jpg?sfvrsn=8dabb97_3",
+      "publishedAt": "2025-07-24 10:23:05",
+      "content": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sh\u2026 [+4781 chars]",
+      "retrievedAt": "2025-07-25 19:07:04.551690",
+      "internal_id": "0a5ac0cb8087e885d59608b563f26d37587ad448778938588d93bb89c56d70c4",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23240,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Local Germany",
+      "author": "Tom Pugh",
+      "title": "EXPLAINED: Should people in Germany be worried about the chikungunya virus?",
+      "description": "Chikungunya infections are on the rise among travellers returning to Germany, and local cases have been recorded near the border. Here's what to know about the mosquito borne illness and how real the threat is.",
+      "url": "https://www.thelocal.de/20250724/explained-should-people-in-germany-be-worried-about-the-chikungunya-virus",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/07/watermarks-logo-AFP__20130326__Par7515232__v5001__HighRes__FranceHealthMosquito.jpg@webp",
+      "publishedAt": "2025-07-24 09:12:56",
+      "content": "Chikungunya infections are on the rise among travellers returning to Germany, and local cases have been recorded near the border. Here's what to know about the mosquito borne illness and how real the\u2026 [+4188 chars]",
+      "retrievedAt": "2025-07-25 19:07:05.940990",
+      "internal_id": "8d5af26d7785659ef70a273ba3835707c3128f4742c71876719ba852f15f7f93",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23230,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Independent report: Vaccination of poultry against highly pathogenic avian influenza",
+      "description": "A joint industry, cross-government report on the potential use of vaccination of poultry as a preventative measure against HPAI in the UK.",
+      "url": "https://www.gov.uk/government/publications/vaccination-of-poultry-against-highly-pathogenic-avian-influenza",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-07-24 09:00:04",
+      "content": "The joint industry, cross-government avian influenza vaccination taskforce (the Taskforce) was established to explore the UKs position on avian influenza vaccination and make recommendations for the \u2026 [+947 chars]",
+      "retrievedAt": "2025-07-25 19:07:02.294565",
+      "internal_id": "730f00512d3b6f7eb4158ed38369a8ea6cbc25b7d132451fdd4715acc95fc5dd",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23227,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Arielle Zionts",
+      "title": "Tribal Health Officials Work To Fill Vaccination Gaps as Measles Outbreak Spreads",
+      "description": "Native American tribes and health organizations are hosting clinics and calling patients to counteract low measles vaccination rates and limited access to health care as the disease spreads across the country.",
+      "url": "https://kffhealthnews.org/news/article/native-american-measles-outbreak-vaccination-south-dakota-indian-health-service/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/07/Measles_01.jpg",
+      "publishedAt": "2025-07-24 09:00:00",
+      "content": "Arielle ZiontsRAPID CITY, S.D. Cassandra Palmier had been meaning to get her son the second and final dose of the measles vaccine. But car problems made it difficult to get to the doctor. So she pou\u2026 [+7137 chars]",
+      "retrievedAt": "2025-07-25 19:07:01.993462",
+      "internal_id": "66e6b252bc9b037b654451ffa99fd83a9c294bfd872196b6a0d5432f547b604b",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23242,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "\u015eule Alt\u0131nel",
+      "title": "DS\u00d6'den Chikungunya uyar\u0131s\u0131: 5,6 milyar ki\u015fi risk alt\u0131nda! T\u00fcrkiye'de de g\u00f6r\u00fcld\u00fc",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, 119 \u00fclkede sivrisineklerde tespit edilen chikungunya vir\u00fcs\u00fcn\u00fcn k\u00fcresel salg\u0131na d\u00f6n\u00fc\u015febilece\u011fi konusunda uyard\u0131. 5,6 milyar insan risk alt\u0131nda oldu\u011fu belirtilirken, T\u00fcrkiye\u2019de de 2 b\u00f6lgede g\u00f6r\u00fcld\u00fc.",
+      "url": "https://www.haber7.com/saglik/haber/3549786-dsoden-chikungunya-uyarisi-56-milyar-kisi-risk-altinda-turkiyede-de-goruldu",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/30/dsoden_chikungunya_uyarisi_56_milyar_kisi_risk_altinda_turkiyede_de_goruldu_1753345589_3439.jpg",
+      "publishedAt": "2025-07-24 08:26:00",
+      "content": "D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6), sivrisinekler yoluyla bulaan chikungunya vir\u00fcs\u00fcn\u00fcn k\u00fcresel bir salgna d\u00f6n\u00fcme riski tad uyarsnda bulundu. DS\u00d6 uzman Diana Rojas Alvarez, vir\u00fcs\u00fcn u anda d\u00fcnya genelinde 119 \u00fclk\u2026 [+1775 chars]",
+      "retrievedAt": "2025-07-25 19:07:05.975609",
+      "internal_id": "e3d013e2c3ab238e76c7749dce614829c247fcb37d21d0ae4865d1a8c136261e",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23232,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "La lotta biologica per combattere le zanzare: il laboratorio che produce maschi sterili ai raggi X",
+      "description": "La disinfestazione e i repellenti spesso non sono sufficienti per contenere lo sviluppo della zanzara, in particolare quella tigre, e combattere cos\u00ec le malattie che derivano dalle punture dell\u2019insetto, inclusa la dengue. Per questo c\u2019\u00e8 chi ha avviato progett\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/07/24/la-lotta-biologica-per-combattere-le-zanzare-il-laboratorio-che-produce-maschi-sterili-ai-raggi-x/8071421/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
+      "publishedAt": "2025-07-24 07:17:40",
+      "content": "Roma, 23 lug. (Adnkronos) - Il vertice intergovernativo tra Italia e Algeria a Villa Doria Pamphilj fa da cornice alla firma di un pacchetto di accordi che rafforzano la cooperazione bilaterale tra i\u2026 [+2693 chars]",
+      "retrievedAt": "2025-07-25 19:07:03.282450",
+      "internal_id": "2276c1e348b7679c732f4c4c7e29c0706ad8776931b6bcc9b3d55e186468ec20",
+      "publishedAtLabel": "Jul 24"
+    },
     {
       "id": 23212,
       "query": [
@@ -22190,60 +22588,6 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21994,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Obed Nares",
-      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
-      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
-      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
-      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
-      "publishedAt": "2025-06-08 16:31:49",
-      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
-      "retrievedAt": "2025-06-09 19:06:04.659724",
-      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
-      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-06-08 10:55:42",
-      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
-      "retrievedAt": "2025-06-09 19:06:03.611880",
-      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21992,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Jacob Paul",
-      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
-      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
-      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
-      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
-      "publishedAt": "2025-06-08 08:16:49",
-      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
-      "retrievedAt": "2025-06-09 19:06:01.948278",
-      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
