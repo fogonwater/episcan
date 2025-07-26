@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-07-25 19:07",
-  "count_articles_total": 1251,
-  "count_articles_new": 22,
+  "last_updated": "2025-07-26 07:07",
+  "count_articles_total": 1264,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 23255,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Jacqueline Stephens, Associate Professor in Public Health, Flinders University, Jill Carr, Professor, College of Medicine and Public Health, Flinders University",
+      "title": "What is chikungunya virus, and should we be worried about it in Australia?",
+      "description": "The main symptoms include fever, joint pain and joint swelling. Here\u2019s what else to know.",
+      "url": "https://theconversation.com/what-is-chikungunya-virus-and-should-we-be-worried-about-it-in-australia-261847",
+      "urlToImage": "https://images.theconversation.com/files/682161/original/file-20250725-56-jwik0h.jpg?ixlib=rb-4.1.0&rect=0%2C526%2C4306%2C2153&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-25 04:15:14",
+      "content": "Noppharat05081977/Getty Images This week, the World Health Organization (WHO) raised concerns about a surge in the number of cases of a mosquito-borne viral infection called chikungunya. Diana Roj\u2026 [+5705 chars]",
+      "retrievedAt": "2025-07-26 07:07:46.512343",
+      "internal_id": "349738f07e19d61e76cac9b9092ff801d71e5c105c192415aeee68f158947a8c",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23246,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Wien.orf.at",
+      "author": "ORF.at",
+      "title": "Deutlich weniger Keuchhusten-F\u00e4lle",
+      "description": "Die Keuchhustenf\u00e4lle sind wieder zur\u00fcckgegangen, nach einem europaweit enormen Anstieg im vergangenen Jahr. Enorme Impfl\u00fccken hat die \u00c4rztekammer daf\u00fcr verantwortlich gemacht. Heuer gab es bisher 83 F\u00e4lle in Wien.",
+      "url": "https://wien.orf.at/stories/3314919/",
+      "urlToImage": "https://ibs.orf.at/wie?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2024%2F24%2F11%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2242166_master_851711_240613_ooeh_keuchhusten_00_00_41_23.jpg%3Fs%3D640b594866a4dc46808f4e1cde688e5e5023698e",
+      "publishedAt": "2025-07-25 04:00:00",
+      "content": "Keuchhusten, auch Pertussis genannt, kann vor allem f\u00fcr Babys lebensbedrohlich sein. Knapp 1.700 F\u00e4lle waren es im vergangenen Jahr in Wien, heuer gab es bisher nur 83. \u00d6sterreichweit sind es rund 1.\u2026 [+674 chars]",
+      "retrievedAt": "2025-07-26 07:07:42.897324",
+      "internal_id": "7c9851d7d9357670d61f06fcdcb9c2f9147f333f77f2cfb1b7e59c0c87bbf2df",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23252,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Malaria bites back, and the lunar base race",
+      "description": "In the news podcast, what's causing the uptick in malaria cases in Africa? Also, scientists show statistically that the sex of a baby at birth is not random, and South Korea joins the throng in the race for settling on the Moon. Then, we hear how computer sci\u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/malaria-bites-back-and-lunar-base-race",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/158669.jpg?itok=10YpYBwG",
+      "publishedAt": "2025-07-25 03:13:35",
+      "content": "South Korea has said it wants to establish a lunar base by 2045. The proposal - which is part of a wider roadmap unveiled by the Korea AeroSpace Administration - will include missions in low Earth or\u2026 [+6155 chars]",
+      "retrievedAt": "2025-07-26 07:07:45.619252",
+      "internal_id": "a4fe38e599fa05cb5917ac5925c700456d80abecb94a91ea54e22d8ccc0df56d",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23251,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "De una meningitis a la final de la Eurocopa: los 26 largos d\u00edas de recuperaci\u00f3n de Aitana Bonmat\u00ed",
+      "description": "Solo 26 d\u00edas despu\u00e9s de mostrarse en una cama de hospital con una v\u00eda en el brazo y anunciar que padec\u00eda meningitis v\u00edrica, Aitana Bonmat\u00ed marcaba el gol que derrotaba por vez primera a Alemania y clasificaba a Espa\u00f1a para la final de la Eurocopa. Casi un mes\u2026",
+      "url": "https://www.abc.es/deportes/futbol/meningitis-final-eurocopa-largos-dias-recuperacion-aitana-20250725035908-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/07/24/aitaafp-U55132035410DdR-1024x512@diario_abc.JPG",
+      "publishedAt": "2025-07-25 01:59:09",
+      "content": "Solo 26 d\u00edas despu\u00e9s de mostrarse en una cama de hospital con una v\u00eda en el brazo y anunciar que padec\u00eda meningitis v\u00edrica, Aitana Bonmat\u00ed marcaba el gol que derrotaba por vez primera a Alemania y cl\u2026 [+5187 chars]",
+      "retrievedAt": "2025-07-26 07:07:45.227632",
+      "internal_id": "f0a607a78e82e06e5ea2761bba18a7309a45ecf363e35ed5c35014606f09131c",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23248,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "The Podcast by KevinMD",
+      "title": "Confronting the return of measles and vaccine misinformation [PODCAST]",
+      "description": "Infectious disease physician Janet A. Jokela discusses her article, \"Measles is back: Why vaccination is more vital than ever.\" Recounting her own experience diagnosing a case in the 1990s, Janet contrasts that contained incident with the current crisis in 20\u2026",
+      "url": "https://kevinmd.com/2025/07/confronting-the-return-of-measles-and-vaccine-misinformation-podcast.html",
+      "urlToImage": "https://kevinmd.com/wp-content/uploads/Design-3-scaled.jpg",
+      "publishedAt": "2025-07-24 23:00:02",
+      "content": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Infectious disease physician Janet A. Jokela discusses her article, \u201cMeasles is back: Why vaccination is more vital t\u2026 [+19815 chars]",
+      "retrievedAt": "2025-07-26 07:07:43.863735",
+      "internal_id": "f56aaecc30074fa40925c67d661cf08de3577127294c5619e274f42f9c3e3b01",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23254,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "United Nations",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "description": "The World Health Organization (WHO) today announced that it has certified Timor-Leste as malaria-free. WHO noted that this is a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after g\u2026",
+      "url": "https://press.un.org/en/2025/db250724.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-07-24 22:57:50",
+      "content": "The following is a near-verbatim transcript of todays briefing by Farhan Haq, Deputy Spokesman for the Secretary-General. **Thailand Cambodia All right, good afternoon, everyone. Some of you have \u2026 [+32438 chars]",
+      "retrievedAt": "2025-07-26 07:07:45.661183",
+      "internal_id": "018d8aff1c3bb2743e54540560145518c182283e4b1057b6de57eabcf36d9fe5",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23253,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Fresita_Kawaii",
+      "title": "Utilizando un alelo protector del gen FREP1 del mosquito para combatir la malaria [ENG] - Nature",
+      "description": "Cient\u00edficos han desarrollado una innovadora estrategia gen\u00e9tica que podr\u00eda transformar el control de la malaria mediante la modificaci\u00f3n de mosquitos vectores. La investigaci\u00f3n, publicada en Nature, demuestra c\u00f3mo una simple variaci\u00f3n gen\u00e9tica natural puede c\u2026",
+      "url": "https://www.meneame.net/m/ciencia/utilizando-alelo-protector-gen-frep1-mosquito-combatir-malaria",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-07-24 20:29:07",
+      "content": "Cient\u00edficos han desarrollado una innovadora estrategia gen\u00e9tica que podr\u00eda transformar el control de la malaria mediante la modificaci\u00f3n de mosquitos vectores. La investigaci\u00f3n, publicada en Nature, \u2026 [+167 chars]",
+      "retrievedAt": "2025-07-26 07:07:45.636730",
+      "internal_id": "abec2b6981d5364b8eaec4bef81ea25e40b7be254f9a367b6a1697fc1b715c4e",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23247,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Southwestern Ontario region sees no new measles cases for first time since spring",
+      "description": "Data released by Public Health Ontario shows no additional illnesses in the area covered by Southwestern Public Health over the past week, which in April accounted for 45 per cent of the province's cases and the highest count in Canada.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-measles-update-southwestern-ontario-1.7593303",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-24 19:51:35",
+      "content": "Canada's former measles hot spot is reporting no new cases for the first time since a spring surge. Data released by Public Health Ontario shows no additional illnesses in the area covered by Southw\u2026 [+2330 chars]",
+      "retrievedAt": "2025-07-26 07:07:43.794232",
+      "internal_id": "d9b5d85b8438b33675e0ea3c61b2fd955582a2c31deb75e1c173a9c39477aec1",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23249,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "The Canadian Press",
+      "title": "Ontario sees no new measles cases in former hot spot for first time since spring | Globalnews.ca",
+      "description": "Ontario sees no new measles cases in former hot spot for first time since spring | Globalnews.caglobalnews.ca",
+      "url": "http://globalnews.ca/news/11302630/ontario-measles-cases-july-24/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/07/9886504f9df3a73a4969344046b4c6ff3941e5ca6aef46f8ee76047033366c2b.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-07-24 19:22:31",
+      "content": "Canada\u2019s former measles hot spot is reporting no new cases for the first time since a spring surge. Data released by Public Health Ontario shows no additional illnesses in the area covered by Southw\u2026 [+2421 chars]",
+      "retrievedAt": "2025-07-26 07:07:43.918357",
+      "internal_id": "16d51fd8d7e8bf0bb9e19e21b08e817d4107ef836bb92ec1791e2de2ddab8814",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 23250,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "David Vigario",
+      "title": "Detectado un segundo caso de gripe aviar en otra finca de Badajoz",
+      "description": "Las autoridades sanitarias y de producci\u00f3n animal han confirmado la presencia del subtipo H5N1 del virus de la influenza aviar altamente pat\u00f3gena (IAAP) -conocida como gripe...",
+      "url": "https://www.elmundo.es/economia/2025/07/24/6882848e21efa0b23c8b4580.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/578f71bd4af33ee37e03af64f28ba2bf/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/24/17533843813872.jpg",
+      "publishedAt": "2025-07-24 19:13:47",
+      "content": "Las autoridades sanitarias y de producci\u00f3n animal han confirmado la presencia del subtipo H5N1 del virus de la influenza aviar altamente pat\u00f3gena (IAAP) -conocida como gripe aviar- en otra granja de \u2026 [+1528 chars]",
+      "retrievedAt": "2025-07-26 07:07:44.364295",
+      "internal_id": "47595c89756ff27977af70f6ae32f47843188b6e5042e5c2ae3f096a34d02f07",
+      "publishedAtLabel": "Jul 24"
+    },
     {
       "id": 23226,
       "query": [
@@ -22588,6 +22768,60 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21994,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Obed Nares",
+      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
+      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
+      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
+      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
+      "publishedAt": "2025-06-08 16:31:49",
+      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
+      "retrievedAt": "2025-06-09 19:06:04.659724",
+      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
+      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-06-08 10:55:42",
+      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
+      "retrievedAt": "2025-06-09 19:06:03.611880",
+      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
+      "publishedAtLabel": "Jun 8"
+    },
+    {
+      "id": 21992,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LBC",
+      "author": "Jacob Paul",
+      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
+      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
+      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
+      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
+      "publishedAt": "2025-06-08 08:16:49",
+      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
+      "retrievedAt": "2025-06-09 19:06:01.948278",
+      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]
