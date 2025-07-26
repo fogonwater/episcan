@@ -1,8 +1,206 @@
 {
-  "last_updated": "2025-07-26 07:07",
-  "count_articles_total": 1264,
-  "count_articles_new": 10,
+  "last_updated": "2025-07-26 19:06",
+  "count_articles_total": 1272,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 23262,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Aitana Bonmat\u00ed: \"Es un poco cerrar el c\u00edrculo, ganar los grandes torneos\"",
+      "description": "La centrocampista de la selecci\u00f3n espa\u00f1ola Aitana Bonmat\u00ed destac\u00f3 su \"predisposici\u00f3n\" y capacidad de superaci\u00f3n para dar la vuelta a un inicio de Eurocopa duro, por culpa de la meningitis que sufri\u00f3, y estar a las puertas de \"cerrar el c\u00edrculo\" de los \"grande\u2026",
+      "url": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-poco-cerrar-circulo-ganar-grandes-torneos-20250725204304.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250725204304_1200.jpg",
+      "publishedAt": "2025-07-25 18:43:04",
+      "content": "MADRID 25 Jul. (EUROPA PRESS) - La centrocampista de la selecci\u00f3n espa\u00f1ola Aitana Bonmat\u00ed destac\u00f3 su \"predisposici\u00f3n\" y capacidad de superaci\u00f3n para dar la vuelta a un inicio de Eurocopa duro, por\u2026 [+1935 chars]",
+      "retrievedAt": "2025-07-26 19:05:57.712507",
+      "internal_id": "c7f456f37931d5c58439733709186790f35ab8904210dc1b45d37b0915a29609",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23256,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Arielle Zionts",
+      "title": "Public Health Officials Move To Protect Native Americans Against Measles Outbreak",
+      "description": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
+      "url": "https://kffhealthnews.org/news/article/the-week-in-brief-native-american-communities-measles-outbreak-public-health/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/01/the-week-in-brief-thumbnail.jpg",
+      "publishedAt": "2025-07-25 18:30:00",
+      "content": "Arielle ZiontsRAPID CITY, S.D. Native American tribes and health organizations are responding to concerns about low measles vaccination rates and patients\u2019 difficulty getting care as an outbreak of t\u2026 [+2356 chars]",
+      "retrievedAt": "2025-07-26 19:05:56.194209",
+      "internal_id": "efd9b2b1cbada30b98025797cdc7b70ba1480db3ceb5a55a568758e4d5d15ea6",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23258,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KABC-TV",
+      "author": null,
+      "title": "Measles case confirmed in traveler who passed through LAX, county health officials say",
+      "description": "Public Health officials have confirmed a case of measles in a traveler who passed through Los Angeles International Airport while infectious earlier this month.",
+      "url": "https://abc7.com/post/measles-case-confirmed-traveler-passed-lax-county-health-officials-say/17293803/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14876433_meales-with-courtesy.jpg?w=1600",
+      "publishedAt": "2025-07-25 18:26:55",
+      "content": "LOS ANGELES (CNS) -- Public Health officials have confirmed a case of measles in a traveler who passed through Los Angeles International Airport while infectious earlier this month. County Departmen\u2026 [+1506 chars]",
+      "retrievedAt": "2025-07-26 19:05:56.372388",
+      "internal_id": "0d58cab92af04733285a626e29fbbcfb9fe177c11f6a5599aa040a682fa884ae",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23259,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Ken Macgillivray",
+      "title": "AHS limits visitors at cancer facilities in Alberta to help control measles spread | Globalnews.ca",
+      "description": "AHS has also issued a growing number of public alerts in recent weeks for possible measles exposures at health-care facilities in the province.",
+      "url": "http://globalnews.ca/news/11303165/ahs-limits-visitors-cancer-facilities-measles/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/07/calgary-cancer-centre-3_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-07-25 17:02:44",
+      "content": "Alberta Health Services has announced new restrictions on the number of visitors at some health-care facilities in the province to help prevent the spread of measles. Spokesperson Kristi Bland tells\u2026 [+2389 chars]",
+      "retrievedAt": "2025-07-26 19:05:56.388753",
+      "internal_id": "6223546f0ac4ed15eb732a0d77e0c4b539b7934eae8755f59e0f8c955c3b6870",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23264,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Avrupa'da yerel Chikungunya vakas\u0131 bildirildi",
+      "description": "\u0130talya\u2019n\u0131n kuzeyindeki Emilia-Romagna b\u00f6lgesindeki Piacenza eyaletinde 2017\u2019den bu yana ilk yerel Chikungunya vakas\u0131n\u0131n bildirildi\u011fini duyurdu.",
+      "url": "https://www.haberturk.com/avrupa-da-yerel-chikungunya-vakasi-bildirildi-haberler-3810024",
+      "urlToImage": "https://im.haberturk.com/l/2025/07/25/ver1753454747/3810024/jpg/1200x628",
+      "publishedAt": "2025-07-25 14:45:57",
+      "content": "Avrupa Hastalk \u00d6nleme ve Kontrol Merkezi (ECDC), ge\u00e7en hafta yaymlad haftalk bulac hastalk raporunda, talyann kuzeyindeki Emilia-Romagna b\u00f6lgesindeki Piacenza eyaletinde 2017den bu yana ilk yerel chi\u2026 [+507 chars]",
+      "retrievedAt": "2025-07-26 19:05:59.144862",
+      "internal_id": "4924ffb505653d28dc6dc917504ba092e57c546a0364ae7920657d76872c5afb",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23261,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Stop Dengue! Fight Back with This Simple Guide!",
+      "description": "Beat the Bite: Your Guide to Dengue Fever Prevention and Staying Healthy Hey everyone! Summer\u2019s here (or is just around the corner!), and while that means sunshine, vacations, and fun, it also brings something a little less desirable: dengue fever. That\u2019s why\u2026",
+      "url": "https://nep123.com/stop-dengue-%f0%9f%a6%9f-fight-back-with-this-simple-guide-%f0%9f%92%aa/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "publishedAt": "2025-07-25 10:35:19",
+      "content": "Hey everyone! Summer\u2019s here (or is just around the corner!), and while that means sunshine, vacations, and fun, it also brings something a little less desirable: dengue fever. That\u2019s why it\u2019s super i\u2026 [+4125 chars]",
+      "retrievedAt": "2025-07-26 19:05:57.293405",
+      "internal_id": "73dec96bb7d4b983302ba839b520f9b0c300b80f97e63424a51f77c16eeb8532",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23266,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Secretchina.com",
+      "author": "www.secretchina.com",
+      "title": "\u4f5b\u5c71\u65b0\u75ab\u60c5\u5168\u5e02\u6ca6\u9677 \u4e16\u536b\u8b66\u544a\uff1a\u57fa\u5b54\u80af\u96c5\u70ed\u75ab\u60c5\u6b63\u5728\u6269\u6563(\u56fe)",
+      "description": "\u8fd1\u65e5\uff0c\u5e7f\u4e1c\u7701\u4f5b\u5c71\u5e02\u57fa\u5b54\u80af\u96c5\u70ed\u52a0\u5267\uff0c\u6bcf\u5929\u4ee5\u6570\u767e\u75c5\u4f8b\u9012\u589e\uff0c\u5df2\u4ece\u987a\u5fb7\u533a\u8513\u5ef6\u5230\u5176\u5b834\u4e2a\u533a\uff0c\u4f5b\u5c71\u5e02\u6574\u4f53\u6ca6\u9677\uff0c\u76ee\u524d\u7d2f\u8ba1\u57fa\u5b54\u80af\u96c5\u70ed\u786e\u8bca\u75c5\u4f8b3645\u4f8b\uff0c\u5747\u4e3a\u8f7b\u75c7\u3002\u4e16\u536b\u7ec4\u7ec7\u8b66\u544a\uff1a\u57fa\u5b54\u80af\u96c5\u70ed\u75ab\u60c5\u6b63\u5728\u6269\u6563\uff0c\u547c\u5401\u5404\u56fd\u52a0\u4ee5\u9632\u8303\u3002",
+      "url": "https://www.secretchina.com/news/gb/2025/07/25/1085778.html",
+      "urlToImage": "https://img6.secretchina.com/pic/2025/7-25/p3675141a354169175-ss.jpg",
+      "publishedAt": "2025-07-25 09:55:36",
+      "content": "Getty Images 202572543645 78115478191873202285212659223195 7233645 24233317 23178141 533600400 35 724 723 61 BBC24WHO3000 Chikungunya Fever : : .",
+      "retrievedAt": "2025-07-26 19:05:59.484026",
+      "internal_id": "9cd1530418117267517958a5acd540fd219af0cec44a296c8eed8c718102e0cc",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23257,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles outbreak: Two-year-old on ECMO machine due to measles complications",
+      "description": "Twelve children hospitalized due to measles, three of them in serious condition; Health Ministry urges vaccination.",
+      "url": "https://www.israelnationalnews.com/news/412243",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1054085.jpg",
+      "publishedAt": "2025-07-25 08:45:57",
+      "content": "The Health Ministry on Thursday reported that since the measles outbreak began in Israel three months ago, 245 cases have been diagnosed. Of these, 91 are active cases, with about half diagnosed in \u2026 [+849 chars]",
+      "retrievedAt": "2025-07-26 19:05:56.324849",
+      "internal_id": "8854df0c62854283618113d5e5bd23c00513e4344917408f8f3bf3dddc31b9cd",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23263,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Jonathan Lambert",
+      "title": "New research suggests a way to prevent the spread of Malaria",
+      "description": "A new study reports on a novel way to short-circuit the parasite that spreads Malaria, so people wouldn't get infected with a mosquito's bite.",
+      "url": "https://www.npr.org/2025/07/25/nx-s1-5478544/new-research-suggests-a-way-to-prevent-the-spread-of-malaria",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-07-25 08:10:54",
+      "content": "A new study reports on a novel way to short-circuit the parasite that spreads Malaria, so people wouldn't get infected with a mosquito's bite.",
+      "retrievedAt": "2025-07-26 19:05:58.242444",
+      "internal_id": "751cceb43ec7670b4524c52d41ff5c9a6d771463d048957d6865ebecd1c3316d",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23260,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue in Italia: 96 casi confermati nel 2025, trend in aumento",
+      "description": "Sono 96 i casi confermati di Dengue in Italia da inizio del 2025. A dirlo i dati dell\u2019Istituto superiore di sanit\u00e0, aggiornati al 22 luglio. L\u2019Iss conferma un trend in aumento nell\u2019ultima settimana, tredici casi in pi\u00f9 rispetto al bollettino del 15 luglio. In\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/07/25/dengue-italia-casi-confermati-news/8073550/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-07-25 08:05:31",
+      "content": "Roma, 25 lug. - (Adnkronos) - Nel primo semestre 2025, i ricavi di Webuild si attestano a 6,7 miliardi di euro con un miglioramento del 22% rispetto al primo semestre 2024 e lEbitda raggiunge i 564 m\u2026 [+5770 chars]",
+      "retrievedAt": "2025-07-26 19:05:57.210281",
+      "internal_id": "1403a7856ee343f2f03839cf331ad9e12ff2566cfc435e9de8d8b72577e25af8",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 23265,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0906\u091c\u0924\u0915 \u0932\u093e\u0907\u092b\u0938\u094d\u091f\u093e\u0907\u0932 \u0921\u0947\u0938\u094d\u0915",
+      "title": "\u091a\u0940\u0928 \u092a\u0930 20 \u0938\u093e\u0932 \u092e\u0947\u0902 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u092a\u094d\u0930\u0915\u094b\u092a! \u0939\u0947\u0932\u094d\u0925 \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f \u0928\u0947 \u092c\u0924\u093e\u090f 3 \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u0915\u093e\u0930\u0923",
+      "description": "China hit by worst outbreak in 20 years: \u091a\u0940\u0928 \u092e\u0947\u0902 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u092a\u094d\u0930\u0915\u094b\u092a \u0926\u0947\u0916\u0928\u0947 \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u0948. \u0935\u0939\u093e\u0902 \u092a\u0930 3100 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902. \u0906\u0916\u093f\u0930\u0915\u093e\u0930 \u091a\u0940\u0928 \u092e\u0947\u0902 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092b\u0948\u0932\u0928\u0947 \u0915\u0947 \u0915\u094d\u092f\u093e \u0915\u093e\u0930\u0923 \u092e\u093e\u0928\u0947 \u091c\u093e \u0930\u0939\u0947 \u0939\u0948\u0902, \u0907\u0938 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0947\u0902\u0917\u0947.",
+      "url": "https://www.aajtak.in/health/story/china-is-facing-its-worst-chikungunya-outbreak-experts-blame-climate-change-low-immunity-and-mosquito-breeding-due-to-hot-humid-conditions-tvism-dskc-2295892-2025-07-25",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202507/688330c7be58c-china-records-worst-chikungunya-252238898-16x9.jpg",
+      "publishedAt": "2025-07-25 07:28:07",
+      "content": "Chikungunya Virus Outbreak in China: . 3100 . , . 20 . , . ? . , . , ' . , .' WHO . . () , 2025 14 2.20 80 . , . WHO 119 5 . (Patricia Gallego Delgado) , ' . .' ? (WHO) , . , , . . \u2026 [+35 chars]",
+      "retrievedAt": "2025-07-26 19:05:59.385159",
+      "internal_id": "4f41a5fc06039a350a528d9bb0d72a32da3d302ff6244481ce9c42ce17bb6190",
+      "publishedAtLabel": "Jul 25"
+    },
     {
       "id": 23255,
       "query": [
@@ -22768,60 +22966,6 @@
       "content": "If there's anyone besides Heather Glenn and the women mentioned above who could easily sue Matt Murdock for emotional distress, it's Mary Walker the mutant supervillain better known as Typhoid Mary. \u2026 [+1795 chars]",
       "retrievedAt": "2025-06-10 07:07:28.924469",
       "internal_id": "49fa0e4288ff179f3668bdc87af998a9206a591435b6bc626f80d86e9246a157",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21994,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Obed Nares",
-      "title": "Este medicamento vuelve t\u00f3xica tu sangre para los mosquitos y puede ser la soluci\u00f3n con la malaria",
-      "description": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado nitisinona. Seg\u00fan una investigaci\u00f3n publicada en Science Transla\u2026",
-      "url": "https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria",
-      "urlToImage": "https://i.blogs.es/661ad5/pexels-ekamelev-1685610/840_560.jpeg",
-      "publishedAt": "2025-06-08 16:31:49",
-      "content": "Los mosquitos del g\u00e9nero Anopheles, responsables de transmitir la malaria a millones de personas cada a\u00f1o, podr\u00edan enfrentarse a un nuevo enemigo, la sangre humana tratada con un f\u00e1rmaco llamado niti\u2026 [+3405 chars]",
-      "retrievedAt": "2025-06-09 19:06:04.659724",
-      "internal_id": "7287bbe9c1cfa6c6bb3bc46b42c53a13c9b7b3f9766f0d68f1d1d428f35dde25",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Registran 22 muertes y 3 mil 857 contagios por dengue en el pa\u00eds",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los contagios verificados por laboratorio 165 se reportaron en la semana epidemiol\u00f3gica 22, con corte al 5 de junio.",
-      "url": "https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-06-08 10:55:42",
-      "content": "Peri\u00f3dico La JornadaDomingo 8 de junio de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) inform\u00f3 en lo que va del a\u00f1o se han confirmado 3 mil 857 casos de dengue en el pa\u00eds, as\u00ed como 22 decesos. De los co\u2026 [+1355 chars]",
-      "retrievedAt": "2025-06-09 19:06:03.611880",
-      "internal_id": "cd80b35463b4e050eaf32bcc784fef9191c1353fde48f521df13edc7220e61b1",
-      "publishedAtLabel": "Jun 8"
-    },
-    {
-      "id": 21992,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Jacob Paul",
-      "title": "Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...",
-      "description": "The number of children in Britain being vaccinated against routine diseases such as measles has plunged to the lowest levels in over a decade",
-      "url": "https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/",
-      "urlToImage": "https://images.lbc.co.uk/images/729821?width=1200&crop=16_9&signature=K_EegbtFqin5ZKALEOSsoWi1SPs=",
-      "publishedAt": "2025-06-08 08:16:49",
-      "content": "8 June 2025, 09:15 A teenager having a measles vaccination. Picture: Alamy By Jacob Paul The number of children in Britain being vaccinated against routine diseases such as measles has plunged \u2026 [+4455 chars]",
-      "retrievedAt": "2025-06-09 19:06:01.948278",
-      "internal_id": "18353ad50f0686c92013f76ad5e4100dd925e852a650566625f0324f27de9977",
       "publishedAtLabel": "Jun 8"
     }
   ]

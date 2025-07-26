@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-07-26 07:07
-- **Most recent article:** 2025-07-25 04:15:14
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-07-26 19:06
+- **Most recent article:** 2025-07-25 18:43:04
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-24 | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 48 | 31 | 53 | 36 | 114 | 64 | 38 | 384 |
-| dengue | 14 | 17 | 26 | 24 | 34 | 24 | 31 | 170 |
-| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 51 | 168 |
-| malaria | 19 | 23 | 13 | 21 | 29 | 12 | 15 | 132 |
-| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 10 | 105 |
+| measles | 47 | 31 | 53 | 36 | 114 | 64 | 42 | 387 |
+| chikungunya | 13 | 13 | 20 | 10 | 40 | 21 | 54 | 171 |
+| dengue | 13 | 17 | 26 | 24 | 34 | 24 | 33 | 171 |
+| malaria | 18 | 23 | 13 | 21 | 29 | 12 | 16 | 132 |
+| meningitis | 4 | 1 | 35 | 41 | 7 | 7 | 11 | 106 |
 | mpox | 23 | 11 | 27 | 10 | 6 | 7 | 9 | 93 |
 | rabies | 6 | 19 | 5 | 17 | 17 | 4 | 10 | 78 |
 | yersinia | 3 | 0 | 0 | 0 | 43 | 6 | 2 | 54 |
@@ -99,6 +99,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (meningitis)
 
+- [Aitana Bonmatí: "Es un poco cerrar el círculo, ganar los grandes torneos"](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-poco-cerrar-circulo-ganar-grandes-torneos-20250725204304.html) (Europapress.es)
+
 - [De una meningitis a la final de la Eurocopa: los 26 largos días de recuperación de Aitana Bonmatí](https://www.abc.es/deportes/futbol/meningitis-final-eurocopa-largos-dias-recuperacion-aitana-20250725035908-nt.html) (Www.abc.es)
 
 - [Aitana Bonmatí, heroína de la selección española en la Eurocopa: de superar una meningitis a colarnos en la final](https://www.hola.com/actualidad/20250724846288/aitana-bonmati-la-gran-referente-del-futbol-mundial/) (Hola)
@@ -120,6 +122,14 @@ Source: [News API](https://newsapi.org/)
 - [The world keeps millions of vaccines on ice. Is it worth it?](https://www.npr.org/sections/goats-and-soda/2025/07/21/nx-s1-5468569/vaccine-stockpiles-cholera-ebola-meningitis-emergency) (NPR)
 
 ## 25-30 (measles)
+
+- [Public Health Officials Move To Protect Native Americans Against Measles Outbreak](https://kffhealthnews.org/news/article/the-week-in-brief-native-american-communities-measles-outbreak-public-health/) (Kffhealthnews.org)
+
+- [Measles case confirmed in traveler who passed through LAX, county health officials say](https://abc7.com/post/measles-case-confirmed-traveler-passed-lax-county-health-officials-say/17293803/) (KABC-TV)
+
+- [AHS limits visitors at cancer facilities in Alberta to help control measles spread | Globalnews.ca](http://globalnews.ca/news/11303165/ahs-limits-visitors-cancer-facilities-measles/) (Global News)
+
+- [Measles outbreak: Two-year-old on ECMO machine due to measles complications](https://www.israelnationalnews.com/news/412243) (Israelnationalnews.com)
 
 - [Confronting the return of measles and vaccine misinformation [PODCAST]](https://kevinmd.com/2025/07/confronting-the-return-of-measles-and-vaccine-misinformation-podcast.html) (Kevinmd.com)
 
@@ -199,6 +209,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (malaria)
 
+- [New research suggests a way to prevent the spread of Malaria](https://www.npr.org/2025/07/25/nx-s1-5478544/new-research-suggests-a-way-to-prevent-the-spread-of-malaria) (NPR)
+
 - [Malaria bites back, and the lunar base race](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/malaria-bites-back-and-lunar-base-race) (The Naked Scientists)
 
 - [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2025/db250724.doc.htm) (UN News)
@@ -242,6 +254,10 @@ Source: [News API](https://newsapi.org/)
 - [В Камбодже выявили новый случай заражения человека птичьим гриппом](https://tass.ru/obschestvo/24583629) (Tass.ru)
 
 ## 25-30 (dengue)
+
+- [Stop Dengue! Fight Back with This Simple Guide!](https://nep123.com/stop-dengue-%f0%9f%a6%9f-fight-back-with-this-simple-guide-%f0%9f%92%aa/) (Nep123.com)
+
+- [Dengue in Italia: 96 casi confermati nel 2025, trend in aumento](https://www.ilfattoquotidiano.it/2025/07/25/dengue-italia-casi-confermati-news/8073550/) (Ilfattoquotidiano.it)
 
 - [Whole blood transcriptomics analysis of Indonesians reveals translocated and pathogenic microbiota in blood](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328788) (Plos.org)
 
@@ -306,6 +322,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [Avrupa'da yerel Chikungunya vakası bildirildi](https://www.haberturk.com/avrupa-da-yerel-chikungunya-vakasi-bildirildi-haberler-3810024) (Haberturk.com)
+
+- [佛山新疫情全市沦陷 世卫警告：基孔肯雅热疫情正在扩散(图)](https://www.secretchina.com/news/gb/2025/07/25/1085778.html) (Secretchina.com)
+
+- [चीन पर 20 साल में चिकनगुनिया का सबसे बड़ा प्रकोप! हेल्थ एक्सपर्ट ने बताए 3 सबसे बड़े कारण](https://www.aajtak.in/health/story/china-is-facing-its-worst-chikungunya-outbreak-experts-blame-climate-change-low-immunity-and-mosquito-breeding-due-to-hot-humid-conditions-tvism-dskc-2295892-2025-07-25) (Aajtak.in)
 
 - [What is chikungunya virus, and should we be worried about it in Australia?](https://theconversation.com/what-is-chikungunya-virus-and-should-we-be-worried-about-it-in-australia-261847) (The Conversation Africa)
 
@@ -2749,8 +2771,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases are surging globally. Should children be vaccinated earlier?](https://theconversation.com/measles-cases-are-surging-globally-should-children-be-vaccinated-earlier-257942) (The Conversation Africa)
 
-- [Child vaccinations for deadly diseases plunge to lowest levels in over a decade as...](https://www.lbc.co.uk/news/health/child-vaccinations-diseases-lowest-levels-measles/) (LBC)
-
 ## 25-24 (malaria)
 
 - [Wie die Kerntechnik Nashörner schützt und Malaria bekämpft](https://www.faz.net/aktuell/wirtschaft/un-atombehoerde-mehr-als-nur-nuklearueberwachung-110520209.html) (Faz.net)
@@ -2788,8 +2808,6 @@ Source: [News API](https://newsapi.org/)
 - [Researchers Create Mosquito STD to Combat Malaria, Effective Against Insecticide-Resistant Bugs](https://legalinsurrection.com/2025/06/researchers-create-mosquito-std-to-combat-malaria-effective-against-insecticide-resistant-bugs/) (Legalinsurrection.com)
 
 - [UKHSA urges travellers to take steps to avoid infection abroad](https://www.gov.uk/government/news/ukhsa-urges-travellers-to-take-steps-to-avoid-infection-abroad) (Www.gov.uk)
-
-- [Este medicamento vuelve tóxica tu sangre para los mosquitos y puede ser la solución con la malaria](https://www.xataka.com.mx/investigacion/este-medicamento-vuelve-toxica-tu-sangre-para-mosquitos-puede-ser-solucion-malaria) (Xataka.com.mx)
 
 ## 25-24 (leptospirosis)
 
@@ -2840,8 +2858,6 @@ Source: [News API](https://newsapi.org/)
 - [7 dicas da ciência para afastar mosquitos, incluindo o Aedes aegypti da dengue](https://olhardigital.com.br/2025/06/09/ciencia-e-espaco/7-dicas-da-ciencia-para-afastar-mosquitos-incluindo-o-aedes-aegypti-da-dengue/) (Olhardigital.com.br)
 
 - [Singapore’s dengue numbers are down. Should we still be concerned about it?](https://www.straitstimes.com/singapore/health/singapores-dengue-numbers-are-down-should-we-still-be-concerned) (The Straits Times)
-
-- [Registran 22 muertes y 3 mil 857 contagios por dengue en el país](https://www.jornada.com.mx/2025/06/08/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-24 (chikungunya)
 
