@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-07-27 07:07
-- **Most recent article:** 2025-07-26 06:24:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-07-27 19:06
+- **Most recent article:** 2025-07-26 17:32:42
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 45 | 340 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 59 | 163 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 33 | 157 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 16 | 114 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 341 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 167 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 160 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 116 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 103 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 73 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 72 |
 | mpox | 10 | 27 | 10 | 6 | 7 | 9 | 69 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 51 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 46 |
@@ -128,6 +128,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (measles)
 
+- [Opinion: Bay Area doctors warn of danger from RFK Jr. assault on vaccines](https://www.mercurynews.com/2025/07/26/opinion-bay-area-physicians-warn-of-danger-from-rfk-jr-assault-on-vaccines/) (The Mercury News)
+
+- [Measles alert for NT as infected tourist visits Darwin and Alice Springs Airport, Litchfield National Park](https://7news.com.au/news/public-health/measles-alert-for-nt-as-infected-tourist-visits-darwin-and-alice-springs-airport-litchfield-national-park-c-19482017) (7NEWS.com.au)
+
 - [TWiV 1238: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1238/) (Microbe.tv)
 
 - [Manitoba warns of measles exposure in Portage la Prairie restaurant](https://www.cbc.ca/news/canada/manitoba/measles-exposure-portage-la-prairie-1.7594509) (CBC News)
@@ -220,6 +224,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-30 (malaria)
 
+- [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
+
+- [Ivermectin: The mosquito-killing pill that dropped malaria by 26%](https://www.sciencedaily.com/releases/2025/07/250724232415.htm) (Science Daily)
+
 - [New research suggests a way to prevent the spread of Malaria](https://www.npr.org/2025/07/25/nx-s1-5478544/new-research-suggests-a-way-to-prevent-the-spread-of-malaria) (NPR)
 
 - [Malaria bites back, and the lunar base race](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/malaria-bites-back-and-lunar-base-race) (The Naked Scientists)
@@ -267,6 +275,12 @@ Source: [News API](https://newsapi.org/)
 - [В Камбодже выявили новый случай заражения человека птичьим гриппом](https://tass.ru/obschestvo/24583629) (Tass.ru)
 
 ## 25-30 (dengue)
+
+- [Estudo aponta molécula capaz de matar larvas do mosquito da dengue em própolis de abelha sem ferrão](https://gizmodo.uol.com.br/estudo-aponta-molecula-capaz-de-matar-larvas-do-mosquito-da-dengue-em-propolis-de-abelha-sem-ferrao/) (Uol.com.br)
+
+- [Get ready, Brazil. The 'good mosquitoes' are coming](https://www.npr.org/sections/goats-and-soda/2025/07/26/g-s1-78705/mosquitoes-brazil-dengue-bacteria) (NPR)
+
+- [Reporta Ssa 5 mil 379 casos de dengue y 32 decesos en este año](https://www.jornada.com.mx/2025/07/26/politica/010n1pol) (Jornada.com.mx)
 
 - [Stop Dengue! Fight Back with This Simple Guide!](https://nep123.com/stop-dengue-%f0%9f%a6%9f-fight-back-with-this-simple-guide-%f0%9f%92%aa/) (Nep123.com)
 
@@ -335,6 +349,14 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
+
+- [Chikungunya, in Italia negli anni centinaia di casi autoctoni](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/07/26/chikungunya-in-italia-negli-anni-centinaia-di-casi-autoctoni_fb67132c-9b89-4c9d-a03c-3d5f04313740.html) (ANSA.it)
+
+- [Stay alert for chikungunya fever threat, leading expert tells Hongkongers](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/07/26/stay-alert-for-chikungunya-fever-threat-leading-expert-tells-hongkongers) (The Star Online)
+
+- [El sur de China registra brote de chikungunya con miles de casos](https://www.elmundo.es/ciencia-y-salud/salud/2025/07/26/6884b18efc6c836f518b456e.html) (El Mundo)
+
+- [Chikungunya virüsünün görüldüğü ülkeler: Chikungunya virüsü nedir, belirtileri neler?](https://www.ntv.com.tr/galeri/saglik/chikungunya-virusunun-goruldugu-ulkeler-chikungunya-virusu-nedir-belirtileri-neler,XWVct5EUlkSaMtnbVw3ANg) (Ntv.com.tr)
 
 - [WHO slaat alarm: muggenvirus chikungunya rukt op in Europa](https://newsmonkey.be/who-muggen-chikungunya-europa/) (Newsmonkey.be)
 
@@ -2350,8 +2372,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2439,8 +2459,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
