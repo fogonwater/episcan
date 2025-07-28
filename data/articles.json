@@ -1,8 +1,26 @@
 {
-  "last_updated": "2025-07-27 19:06",
-  "count_articles_total": 1143,
-  "count_articles_new": 11,
+  "last_updated": "2025-07-28 07:11",
+  "count_articles_total": 1146,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 23288,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thenewslens.com",
+      "author": "BBC News \u4e2d\u6587",
+      "title": "WHO\u8b66\u544a\u5c48\u516c\u75c5\u75ab\u60c5\u6b63\u5728\u64f4\u6563\uff0c\u60a3\u8005\u6703\u6709\u54ea\u4e9b\u75c7\u72c0\uff1f\u8a72\u5982\u4f55\u6cbb\u7642\uff1f",
+      "description": "\u5c48\u516c\u75c5\u75ab\u60c5\u64f4\u6563\uff0c\u4e2d\u570b\u5927\u9678\u8207\u6fb3\u9580\u75c5\u4f8b\u8d85\u904e3000\u5b97\u3002\u6b64\u75c5\u7531\u868a\u5b50\u50b3\u64ad\uff0c\u81f4\u6b7b\u7387\u4f4e\uff0c\u4f46\u75c7\u72c0\u985e\u4f3c\u767b\u9769\u71b1\u548c\u8332\u5361\u75c5\u6bd2\uff0c\u6613\u8aa4\u8a3a\u3002\u885b\u751f\u90e8\u9580\u547c\u7c72\u6ec5\u868a\u548c\u500b\u4eba\u9632\u8b77\u3002\u5168\u7403\u75c5\u4f8b\u6fc0\u589e\uff0c\u4e16\u885b\u7d44\u7e54\u5df2\u767c\u51fa\u8b66\u544a\u3002",
+      "url": "https://www.thenewslens.com/article/256273",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/raw/cpsprodpb/ff35/live/78254cc0-6878-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-07-27 04:00:00",
+      "content": "WHO3000 Chikungunya Fever Photo Credit: iStock/Getty Images Plus / BBC News 1952Kimakonde Yellow fever mosquitoAsian tiger mosquitoDengue feverZika virus 12 Bamburi, MombasaMercyBBCBBC News Swa\u2026 [+519 chars]",
+      "retrievedAt": "2025-07-28 07:11:49.095604",
+      "internal_id": "3e25b426b7f20d13216556923e9008ae966137ccf731e6b859cf6a397ae9583b",
+      "publishedAtLabel": "Jul 27"
+    },
     {
       "id": 23283,
       "query": [
@@ -20641,6 +20659,42 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22144,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "12onyourside.com",
+      "author": "12 On Your Side Digital Team",
+      "title": "Health officials investigating possible measles exposure in Northern Virginia",
+      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
+      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
+      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
+      "publishedAt": "2025-06-15 16:36:17",
+      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
+      "retrievedAt": "2025-06-16 19:06:08.908797",
+      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22143,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
+      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
+      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
+      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
+      "publishedAt": "2025-06-15 09:25:34",
+      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
+      "retrievedAt": "2025-06-16 19:06:07.950040",
+      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]
