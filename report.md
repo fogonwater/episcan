@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2025-07-28 07:11
-- **Most recent article:** 2025-07-27 04:00:00
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-07-28 19:08
+- **Most recent article:** 2025-07-27 15:28:15
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 47 | 0 | 342 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 1 | 168 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 0 | 341 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 2 | 169 |
 | dengue | 16 | 26 | 24 | 34 | 24 | 36 | 0 | 160 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 0 | 116 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 1 | 117 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 0 | 103 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 0 | 73 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 0 | 72 |
 | mpox | 10 | 27 | 10 | 6 | 7 | 9 | 0 | 69 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 0 | 51 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 0 | 46 |
@@ -32,7 +32,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-31 (malaria)
+
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (chikungunya)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
 
 - [WHO警告屈公病疫情正在擴散，患者會有哪些症狀？該如何治療？](https://www.thenewslens.com/article/256273) (Thenewslens.com)
 
@@ -2376,8 +2382,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2465,8 +2469,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
