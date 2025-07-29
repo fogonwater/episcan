@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-07-28 19:08
-- **Most recent article:** 2025-07-27 15:28:15
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-07-29 07:10
+- **Most recent article:** 2025-07-28 05:55:54
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 53 | 36 | 114 | 64 | 47 | 0 | 341 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 2 | 169 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 0 | 160 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 1 | 117 |
+| measles | 28 | 53 | 36 | 114 | 64 | 47 | 2 | 344 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 4 | 171 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 4 | 164 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 2 | 118 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 0 | 103 |
-| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 0 | 72 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 0 | 69 |
+| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 1 | 74 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 5 | 74 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 0 | 51 |
-| zika | 14 | 2 | 8 | 12 | 8 | 2 | 0 | 46 |
+| zika | 14 | 2 | 8 | 12 | 8 | 2 | 1 | 47 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 0 | 45 |
 | typhoid | 0 | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
 | hpai | 1 | 0 | 4 | 3 | 2 | 1 | 0 | 11 |
@@ -32,11 +32,53 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-31 (zika)
+
+- [How billions of modified mosquitoes can help Brazil banish dengue fever](https://www.independent.ie/irish-news/health/how-billions-of-modified-mosquitoes-can-help-brazil-banish-dengue-fever/a1173095170.html) (Independent.ie)
+
+## 25-31 (rabies)
+
+- [SC takes suo motu cognisance of report over dog bites leading to rabies](https://economictimes.indiatimes.com/news/india/sc-takes-suo-motu-cognisance-of-report-over-dog-bites-leading-to-rabies/articleshow/122946559.cms) (The Times of India)
+
+## 25-31 (mpox)
+
+- [Gana'da M çiçeği virüsünden ilk ölümler gerçekleşti](https://www.hurriyet.com.tr/dunya/m-cicegi-virusunden-ilk-olumler-gerceklesti-42894440) (Hurriyet.com.tr)
+
+- [Καταγράφηκε ο πρώτος θάνατος στη Γκάνα από mpox](https://dialogos.com.cy/katagrafike-o-protos-thanatos-sti-gkana-apo-mpox/) (Dialogos.com.cy)
+
+- [Πρώτος θάνατος στη Γκάνα εξαιτίας της επιδημίας mpox](https://www.protothema.gr/world/article/1675079/protos-thanatos-sti-gana-exaitias-tis-epidimias-mpox/) (Protothema.gr)
+
+- [M çiçeği virüsü kaynaklı ilk ölüm gerçekleşti](https://www.hurriyet.com.tr/gundem/m-cicegi-virusu-kaynakli-ilk-olum-gerceklesti-42894421) (Hurriyet.com.tr)
+
+- [Gana'da M çiçeği virüsü kaynaklı ilk ölüm kayıtlara geçti](https://www.patronlardunyasi.com/ganada-m-cicegi-virusu-kaynakli-ilk-olum-kayitlara-gecti) (Patronlardunyasi.com)
+
+## 25-31 (measles)
+
+- [Measles outbreak: Second child connected to ECMO machine](https://www.israelnationalnews.com/news/412352) (Israelnationalnews.com)
+
+- [Twelve children hospitalized with measles, most were unvaccinated](https://www.haaretz.com/israel-news/2025-07-28/ty-article/.premium/twelve-children-hospitalized-with-measles-most-unvaccinated/00000198-4d3b-de88-a9d8-4ffb1f7a0000) (Haaretz)
+
 ## 25-31 (malaria)
+
+- [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
 - [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
 
+## 25-31 (dengue)
+
+- [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
+
+- [How billions of modified mosquitoes can help Brazil banish dengue fever](https://www.independent.ie/irish-news/health/how-billions-of-modified-mosquitoes-can-help-brazil-banish-dengue-fever/a1173095170.html) (Independent.ie)
+
+- [দেশে উপকারী মশা বিলুপ্তপ্রায়, বেড়েছে এডিস](https://www.banglanews24.com/banglanews-special/news/bd/1562877.details) (Banglanews24.com)
+
+- [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
+
 ## 25-31 (chikungunya)
+
+- [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
+
+- [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
 
 - [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
 
@@ -2382,6 +2424,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
+- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
+
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2469,6 +2513,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
+
+- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
