@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-07-29 07:10
-- **Most recent article:** 2025-07-28 05:55:54
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-07-29 19:08
+- **Most recent article:** 2025-07-28 17:30:04
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 47 | 2 | 344 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 4 | 171 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 4 | 164 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 2 | 118 |
-| meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 0 | 103 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 1 | 74 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 5 | 74 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 4 | 345 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 8 | 175 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 10 | 170 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 5 | 121 |
+| meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 1 | 104 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 6 | 75 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 2 | 74 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 0 | 51 |
-| zika | 14 | 2 | 8 | 12 | 8 | 2 | 1 | 47 |
-| h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 0 | 45 |
+| zika | 14 | 2 | 8 | 12 | 8 | 2 | 4 | 50 |
+| h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
 | typhoid | 0 | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
 | hpai | 1 | 0 | 4 | 3 | 2 | 1 | 0 | 11 |
 | pertussis | 2 | 0 | 0 | 0 | 4 | 3 | 0 | 9 |
@@ -34,13 +34,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (zika)
 
+- [High seroprevalence of antibodies to Dengue, Chikungunya, and Zika viruses in Dire Dawa, Ethiopia: A cross-sectional survey in 2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357) (Plos.org)
+
+- [Knowledge, attitude, and practice (KAP), and acceptance and willingness to pay (WTP) for mosquito-borne diseases control through sterile mosquito release in Bangkok, Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011935) (Plos.org)
+
+- [Assessing the spatio-temporal risk of Aedes-borne arboviral diseases in non-endemic regions: The case of Northern Spain](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013325) (Plos.org)
+
 - [How billions of modified mosquitoes can help Brazil banish dengue fever](https://www.independent.ie/irish-news/health/how-billions-of-modified-mosquitoes-can-help-brazil-banish-dengue-fever/a1173095170.html) (Independent.ie)
 
 ## 25-31 (rabies)
 
+- [Health Ministry dispatches rabies vaccines and antivenin across Nepal](https://english.khabarhub.com/2025/28/488031/) (Khabarhub.com)
+
 - [SC takes suo motu cognisance of report over dog bites leading to rabies](https://economictimes.indiatimes.com/news/india/sc-takes-suo-motu-cognisance-of-report-over-dog-bites-leading-to-rabies/articleshow/122946559.cms) (The Times of India)
 
 ## 25-31 (mpox)
+
+- [New Publication in Expert Review of Anti-infective Therapy Evaluates Brincidofovir as Potential Antiviral Treatment for Mpox](https://www.globenewswire.com/news-release/2025/07/28/3122491/33240/en/New-Publication-in-Expert-Review-of-Anti-infective-Therapy-Evaluates-Brincidofovir-as-Potential-Antiviral-Treatment-for-Mpox.html) (GlobeNewswire)
 
 - [Gana'da M çiçeği virüsünden ilk ölümler gerçekleşti](https://www.hurriyet.com.tr/dunya/m-cicegi-virusunden-ilk-olumler-gerceklesti-42894440) (Hurriyet.com.tr)
 
@@ -52,7 +62,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Gana'da M çiçeği virüsü kaynaklı ilk ölüm kayıtlara geçti](https://www.patronlardunyasi.com/ganada-m-cicegi-virusu-kaynakli-ilk-olum-kayitlara-gecti) (Patronlardunyasi.com)
 
+## 25-31 (meningitis)
+
+- [La amarga Eurocopa de Aitana Bonmatí: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin título](https://www.eldiario.es/spin/deportes/amarga-eurocopa-aitana-bonmati-hospital-meningitis-mejor-jugadora-eurocopa-titulo-pm_1_12496955.html) (Eldiario.es)
+
 ## 25-31 (measles)
+
+- [Doctors brace for potential measles surge in Calgary as Alberta's outbreaks drag on](https://www.cbc.ca/news/canada/calgary/doctors-brace-for-potential-measles-surge-in-calgary-as-alberta-s-outbreaks-drag-on-1.7594340) (CBC News)
+
+- [Measles cases in Alberta pose risk for the territory, says N.W.T. public health](https://www.cbc.ca/news/canada/north/alberta-measles-cases-risk-for-n-w-t-public-health-1.7594522) (CBC News)
 
 - [Measles outbreak: Second child connected to ECMO machine](https://www.israelnationalnews.com/news/412352) (Israelnationalnews.com)
 
@@ -60,11 +78,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (malaria)
 
+- [Impact of co-infection with Plasmodium berghei ANKA in Leishmania major-parasitized mice on immune modulation and cutaneous leishmaniasis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013302) (Plos.org)
+
+- [Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013287) (Plos.org)
+
+- [The plasmepsin-piperaquine paradox persists](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012779) (Plos.org)
+
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
 - [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
 
+## 25-31 (h5n1)
+
+- [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
+
 ## 25-31 (dengue)
+
+- [Effects of environmental factors on dengue incidence in the Central Region, Burkina Faso: A time series analyses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013356) (Plos.org)
+
+- [Noncommunicable diseases associated with bleeding disorders, hospitalization, and mortality in patients with dengue in Mexico: A national analysis of confirmed cases in 2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012933) (Plos.org)
+
+- [High seroprevalence of antibodies to Dengue, Chikungunya, and Zika viruses in Dire Dawa, Ethiopia: A cross-sectional survey in 2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357) (Plos.org)
+
+- [Knowledge, attitude, and practice (KAP), and acceptance and willingness to pay (WTP) for mosquito-borne diseases control through sterile mosquito release in Bangkok, Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011935) (Plos.org)
+
+- [Assessing the spatio-temporal risk of Aedes-borne arboviral diseases in non-endemic regions: The case of Northern Spain](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013325) (Plos.org)
+
+- [⚠️ KOSHI PROVINCE DENGUE OUTBREAK: 3 Deaths & Thousands Infected! Protect Yourself NOW!](https://nep123.com/koshi-province-dengue-outbreak-3-deaths-thousands-infected-protect-yourself-now/) (Nep123.com)
 
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
@@ -75,6 +115,14 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Un cas autochtone de chikungunya confirmé dans les Landes](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/landes/dax/un-cas-autochtone-de-chikungunya-confirme-dans-les-landes-3194508.html) (Franceinfo.fr)
+
+- [High seroprevalence of antibodies to Dengue, Chikungunya, and Zika viruses in Dire Dawa, Ethiopia: A cross-sectional survey in 2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357) (Plos.org)
+
+- [Knowledge, attitude, and practice (KAP), and acceptance and willingness to pay (WTP) for mosquito-borne diseases control through sterile mosquito release in Bangkok, Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011935) (Plos.org)
+
+- [Assessing the spatio-temporal risk of Aedes-borne arboviral diseases in non-endemic regions: The case of Northern Spain](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013325) (Plos.org)
 
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
@@ -2424,8 +2472,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2513,8 +2559,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 

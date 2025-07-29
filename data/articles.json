@@ -1,8 +1,302 @@
 {
-  "last_updated": "2025-07-29 07:10",
-  "count_articles_total": 1162,
-  "count_articles_new": 14,
+  "last_updated": "2025-07-29 19:08",
+  "count_articles_total": 1176,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 23319,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Franck Leconte",
+      "title": "Un cas autochtone de chikungunya confirm\u00e9 dans les Landes",
+      "description": "L\u2019Agence r\u00e9gionale de sant\u00e9 annonce qu\u2019un Landais a contract\u00e9 la maladie dans le d\u00e9partement. Son \u00e9tat de sant\u00e9 n\u2019inspire pas d\u2019inqui\u00e9tude.",
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/landes/dax/un-cas-autochtone-de-chikungunya-confirme-dans-les-landes-3194508.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/_rQCMqoyyB_0Hik7AUvNj0jMGP8/930x620/regions/2025/07/07/maxppp-moustique-tigre-686b9ce1c7b4a705406811.jpg",
+      "publishedAt": "2025-07-28 17:30:04",
+      "content": "LAgence r\u00e9gionale de sant\u00e9 annonce quun Landais a contract\u00e9 la maladie dans le d\u00e9partement. Son \u00e9tat de sant\u00e9 ninspire pas dinqui\u00e9tude. De la vie quotidienne aux grands enjeux, recevez tous les jour\u2026 [+2078 chars]",
+      "retrievedAt": "2025-07-29 19:08:45.048766",
+      "internal_id": "5aee1025557adc2853b16a35d6222cc5a435dde4c2a638c2212d5acd64f9317f",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23309,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jean Claude Romaric Pingdwind\u00e9 Ou\u00e9draogo, Sylvain Ilboudo, Richard Joshua Tetteh, Charles Kyei, Siaka Lougu\u00e9, Wendlasida Thomas Ou\u00e9draogo, Salfo Ou\u00e9draogo, David Dosoo, Kwaku Poku Asante, L\u00e9on Gueswend\u00e9 Blaise Savadogo",
+      "title": "Effects of environmental factors on dengue incidence in the Central Region, Burkina Faso: A time series analyses",
+      "description": "Author summary Dengue fever is a growing global threat, partially due to unplanned urbanization and climatic change. Africa, which is increasingly paying the price, lacks comprehensive data on the disease. Dengue fever has become increasingly threatening in B\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013356",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013356.g004&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Abstract Background Dengue is endemic in Burkina Faso with sporadic outbreaks during the decade 20112021. Dengue control depends on the ability to predict future outbreaks. This study aimed to fore\u2026 [+32486 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.413095",
+      "internal_id": "2ac8aeb8792e1bce61f8e66dfa26e21e485f4cf22024420c59871d19dfbac278",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23310,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Diego Rolando Hern\u00e1ndez-Galdamez, Miguel \u00c1ngel Gonz\u00e1lez-Block, Daniela Karola Romo-Due\u00f1as, Erick Antonio Osorio-L\u00f3pez, Rosalba Cer\u00f3n-Meza, Pablo M\u00e9ndez-Hern\u00e1ndez",
+      "title": "Noncommunicable diseases associated with bleeding disorders, hospitalization, and mortality in patients with dengue in Mexico: A national analysis of confirmed cases in 2024",
+      "description": "Author summary Dengue infection has shown a significant increase over the last decade, with 2024 marking a record number of cases across Latin America. Although dengue is considered an endemic disease in the region, the magnitude of reported infections in rec\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012933",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012933.g002&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Abstract Background In Mexico, some of the most prevalent noncommunicable diseases (NCDs) among adults are diabetes, hypertension, and chronic kidney disease (CKD). Mexico is currently facing a syn\u2026 [+23396 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.421491",
+      "internal_id": "8cef54f54f8b0e03e3275f9ede7d63def48820ff6c2b9c42b84efdd27ba3d756",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23311,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Daniel M. Parker, Werissaw Haileselassie, Temesgen Sisay Hailemariam, Arsema Workenh, Salle Workineh, Xiaoming Wang, Ming-Chieh Lee, Guiyun Yan",
+      "title": "High seroprevalence of antibodies to Dengue, Chikungunya, and Zika viruses in Dire Dawa, Ethiopia: A cross-sectional survey in 2024",
+      "description": "Author summary Mosquito-borne viruses such as dengue, chikungunya, and Zika pose growing public health challenges in many parts of Africa, but limited surveillance makes it difficult to assess their true burden. We conducted a serosurvey in Dire Dawa, a city \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013357.g002&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Citation: Parker DM, Haileselassie W, Hailemariam TS, Workenh A, Workineh S, Wang X, et al. (2025) High seroprevalence of antibodies to Dengue, Chikungunya, and Zika viruses in Dire Dawa, Ethiopia: A\u2026 [+36380 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.430536",
+      "internal_id": "52257ac81d0f62c68272d8bf1a75249e790c378c52bb4ded1c05429b06298676",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23312,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pattamaporn Kittayapong, Suwannapa Ninphanomchai, Namon Jalichandra, Luechai Sringernyuang, Penchan Sherer, Natthani Meemon",
+      "title": "Knowledge, attitude, and practice (KAP), and acceptance and willingness to pay (WTP) for mosquito-borne diseases control through sterile mosquito release in Bangkok, Thailand",
+      "description": "Author summary A questionnaire survey was conducted in seven communities in Bangkok, Thailand to obtain baseline information on knowledge, attitudes and practices (KAP) related to mosquito-borne diseases, i.e., dengue, chikungunya and Zika, including mosquito\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011935",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011935.g002&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Citation: Kittayapong P, Ninphanomchai S, Jalichandra N, Sringernyuang L, Sherer P, Meemon N (2025) Knowledge, attitude, and practice (KAP), and acceptance and willingness to pay (WTP) for mosquito-b\u2026 [+51518 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.445801",
+      "internal_id": "86e234fa6c354222cb175bd62cc6ae2fdfe78a000e952cee962e1d30d3b65d24",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23313,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bruno V. Guerrero, Vanessa Steindorf, Rub\u00e9n Blasco-Aguado, Lu\u00eds Mateus, Aitor Cevidanes, Jes\u00fas F. Barandika, Ana Ram\u00edrez de La Peci\u00f1a P\u00e9rez, Joseba Bidaurrazaga Van-Dierdonck, Jes\u00fas Angel Ocio Armentia, Nico Stollenwerk, Ma\u00edra Aguiar",
+      "title": "Assessing the spatio-temporal risk of Aedes-borne arboviral diseases in non-endemic regions: The case of Northern Spain",
+      "description": "Author summary Arboviral diseases such as dengue, Zika, and chikungunya are an increasing global health concern. While traditionally confined to tropical regions, these diseases are now emerging in new areas, including parts of Europe, due to rising internati\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013325",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013325.g008&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Abstract Arboviral diseases represent a growing global health challenge. While dengue cases surge in endemic regions, non-endemic areas in southern Europe are seeing a rise in imported cases of deng\u2026 [+66560 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.461544",
+      "internal_id": "8c52adc2c8f48645c40e0a7b54dc808e3d9b4e818437788df12363f186ca7da6",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23316,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Uyla Ornellas-Garcia, Lucas Freire-Antunes, Marcos Rangel-Ferreira, Carina Heusner Gon\u00e7alves de Sousa, M\u00f4nica Lucas Ribeiro-Almeida, Cl\u00e1udio Tadeu Daniel-Ribeiro, Patricia Cuervo, Fl\u00e1via Lima Ribeiro-Gomes",
+      "title": "Impact of co-infection with Plasmodium berghei ANKA in Leishmania major-parasitized mice on immune modulation and cutaneous leishmaniasis",
+      "description": "Author summary The co-endemicity of malaria and leishmaniasis affects thousands of individuals annually, potentially complicating the diagnosis and resolution of both diseases. However, few studies have explored how the presence of a secondary infection might\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013302",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013302.g008&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Citation: Ornellas-Garcia U, Freire-Antunes L, Rangel-Ferreira M, de Sousa CHG, Ribeiro-Almeida ML, Daniel-Ribeiro CT, et al. (2025) Impact of co-infection with Plasmodium berghei ANKA in Leishmania \u2026 [+46369 chars]",
+      "retrievedAt": "2025-07-29 19:08:44.206979",
+      "internal_id": "32c6705ce1f564c0d1479399ce9a4a7899b10cad0cdaf88b3b275497ea3a071c",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23317,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ellie Sherrard-Smith, Ulrike Fillinger, Jean-Philippe B. Tia, Peter Winskill, Benjamin G. Koudou, Emile S. F. Tchicaya, Antoine Sanou, Fredros Okumu, Mercy Opiyo, Silas Majambere, Arran Hamlet, Giovanni Charles, Ben Lambert, Thomas S. Churcher",
+      "title": "Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation",
+      "description": "Author summary Additional preventative strategies are needed to address protection gaps in malaria control. One potential opportunity is larval source management (LSM), which reduces the number of mosquito adults emerging by modifying, treating or removing aq\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013287",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013287.g005&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Citation: Sherrard-Smith E, Fillinger U, Tia J-PB, Winskill P, Koudou BG, Tchicaya ESF, et al. (2025) Heterogeneous impacts for malaria control from larviciding across villages and considerations for\u2026 [+80926 chars]",
+      "retrievedAt": "2025-07-29 19:08:44.216172",
+      "internal_id": "8d17eb0898d9bc47221aee9442d24d756f7d3ea65cb4a70365d58aedb6a7952e",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23318,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Breanna Walsh, Robert L. Summers, Gabriel W. Rangel, Laura Hagenah, Sachel Mok, Manuel Llin\u00e1s, David A. Fidock, Dyann F. Wirth, Selina Bopp",
+      "title": "The plasmepsin-piperaquine paradox persists",
+      "description": "Author summary Global malaria control has plateaued, with drug-resistant Plasmodium falciparum posing a significant challenge. Artemisinin-based combination therapies (ACTs) are becoming less effective, especially in Southeast Asia, where resistance to dihydr\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012779",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012779.g007&size=inline",
+      "publishedAt": "2025-07-28 14:00:00",
+      "content": "Citation: Walsh B, Summers RL, Rangel GW, Hagenah L, Mok S, Llin\u00e1s M, et al. (2025) The plasmepsin-piperaquine paradox persists. PLoS Pathog 21(7): e1012779. https://doi.org/10.1371/journal.ppat.1\u2026 [+87217 chars]",
+      "retrievedAt": "2025-07-29 19:08:44.225188",
+      "internal_id": "965bd9123309e7ee344e308e0ba770b8f8b27eff49c1135246ab7c1e25c1a804",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23320,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Emergent Biosolutions, Inc.",
+      "title": "New Publication in Expert Review of Anti-infective Therapy Evaluates Brincidofovir as Potential Antiviral Treatment for Mpox",
+      "description": "Ongoing mpox outbreak continues to be a global health threat and is driving need for greater therapeutic research and innovation Ongoing mpox outbreak continues to be a global health threat and is driving need for greater therapeutic research and innovation",
+      "url": "https://www.globenewswire.com/news-release/2025/07/28/3122491/33240/en/New-Publication-in-Expert-Review-of-Anti-infective-Therapy-Evaluates-Brincidofovir-as-Potential-Antiviral-Treatment-for-Mpox.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/56a9097d-af91-4bcf-8c42-5905e1614ef1",
+      "publishedAt": "2025-07-28 12:50:00",
+      "content": "GAITHERSBURG, Md., July 28, 2025 (GLOBE NEWSWIRE) -- Emergent BioSolutions Inc. (NYSE: EBS) today announced the publication of a comprehensive review article, \"Brincidofovir in the Era of Mpox,\" in t\u2026 [+4733 chars]",
+      "retrievedAt": "2025-07-29 19:08:45.296884",
+      "internal_id": "0f3dc14f23cd6a978722685709858959543b5df8843cd816ad09d2edcb6b88b1",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23306,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Doctors brace for potential measles surge in Calgary as Alberta's outbreaks drag on",
+      "description": "Health experts are keeping a close eye on the measles situation in Calgary as case counts tick up. And they warn vigilance is key.",
+      "url": "https://www.cbc.ca/news/canada/calgary/doctors-brace-for-potential-measles-surge-in-calgary-as-alberta-s-outbreaks-drag-on-1.7594340",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1750463325!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-28 12:00:00",
+      "content": "Health experts are keeping a close eye on the measles situation in Calgary as case counts tick up and they're warning that vigilance is key. With a new case reported in the Calgary health zone on Fr\u2026 [+5286 chars]",
+      "retrievedAt": "2025-07-29 19:08:42.244411",
+      "internal_id": "61188669cbf7d085941387be85400b89ff514cd1ec92220285e546e1ca9b8846",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23315,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Raquel S\u00e1ez",
+      "title": "La amarga Eurocopa de Aitana Bonmat\u00ed: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin t\u00edtulo",
+      "description": "La futbolista no pudo redondear su torneo en el partido por el t\u00edtulo, que revalid\u00f3 Inglaterra en la tanda de penaltis M\u00e1s p\u00fablico que nunca y muchos penaltis: todos los r\u00e9cords que deja la Eurocopa femenina de f\u00fatbol La Eurocopa de Aitana Bonmat\u00ed ha sid\u2026",
+      "url": "https://www.eldiario.es/spin/deportes/amarga-eurocopa-aitana-bonmati-hospital-meningitis-mejor-jugadora-eurocopa-titulo-pm_1_12496955.html",
+      "urlToImage": "https://static.eldiario.es/clip/7d681309-2c5c-439e-85ba-ceb891ba156e_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-07-28 11:48:05",
+      "content": "La Eurocopa de Aitana Bonmat\u00ed ha sido una aut\u00e9ntica monta\u00f1a rusa. La doble Bal\u00f3n de Oro estuvo varios d\u00edas ingresada en el hospital por una meningitis v\u00edrica, se incorpor\u00f3 progresivamente al equipo d\u2026 [+2978 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.929551",
+      "internal_id": "ac5f22192505e3e47414a385683a77aa5aead63f3455ea2571fab54e8cdebbbe",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23314,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "\u26a0\ufe0f KOSHI PROVINCE DENGUE OUTBREAK: 3 Deaths & Thousands Infected! Protect Yourself NOW!",
+      "description": "Dengue Fever Outbreak in Koshi Province, Nepal: What You Need to Know Dengue fever is spreading rapidly across Koshi Province in Nepal, according to the Health Directorate in Dhankuta. Public Health Officer Suraksha Khatri reports a concerning number of dengu\u2026",
+      "url": "https://nep123.com/koshi-province-dengue-outbreak-3-deaths-thousands-infected-protect-yourself-now/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/07/city_road_ghanta.jpg",
+      "publishedAt": "2025-07-28 10:54:53",
+      "content": "Dengue fever is spreading rapidly across Koshi Province in Nepal, according to the Health Directorate in Dhankuta. Public Health Officer Suraksha Khatri reports a concerning number of dengue cases wi\u2026 [+2362 chars]",
+      "retrievedAt": "2025-07-29 19:08:43.477886",
+      "internal_id": "4a1359ac930f094c0cf298fb9aee14698aa0ee6bdcf852890215134b725015bd",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23305,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Health Ministry dispatches rabies vaccines and antivenin across Nepal",
+      "description": "KATHMANDU: The Ministry of Health and Population has dispatched rabies vaccines and snakebite antivenins to all seven provinces to address reported shortages in health institutions under provincial governments. Dr. Pawan Jung Rayamajhi, Chief of the Managemen\u2026",
+      "url": "https://english.khabarhub.com/2025/28/488031/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2021/11/corona-vaccine.jpg",
+      "publishedAt": "2025-07-28 10:45:41",
+      "content": "KATHMANDU: The Ministry of Health and Population has dispatched rabies vaccines and snakebite antivenins to all seven provinces to address reported shortages in health institutions under provincial g\u2026 [+743 chars]",
+      "retrievedAt": "2025-07-29 19:08:41.859996",
+      "internal_id": "7948df07124ec7735e2c6400cc2297028d3b33ac2eac6c4437ba336364997ed5",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23308,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Imunidade pr\u00e9-existente \u00e0 gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos fur\u00f5es",
+      "description": "Um estudo realizado em fur\u00f5es revelou que a imunidade pr\u00e9-existente ao v\u00edrus da gripe H1N1 de 2009 pode ajudar a prevenir a infe\u00e7\u00e3o grave pela gripe avi\u00e1ria H5N1 e reduzir as hip\u00f3teses de apanhar o H5N1 de outro fur\u00e3o infetado, de acordo com uma investiga\u00e7\u00e3o \u2026",
+      "url": "https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2025/07/Furao.jpg",
+      "publishedAt": "2025-07-28 08:00:30",
+      "content": "Ter imunidade pr\u00e9via contra a gripe pand\u00e9mica H1N1 de 2009 \u2013 tamb\u00e9m conhecida como gripe su\u00edna \u2013 pode proteger contra infe\u00e7\u00f5es e doen\u00e7as graves provocadas pelo v\u00edrus H5N1, de acordo com um novo traba\u2026 [+1876 chars]",
+      "retrievedAt": "2025-07-29 19:08:42.811387",
+      "internal_id": "ba31061df1167c7f0cfa58cee5d5ebecfc847ae89340be55aa4c32bab4394493",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 23307,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles cases in Alberta pose risk for the territory, says N.W.T. public health",
+      "description": "The N.W.T. chief public health officer says travel to northern Alberta increases the risk of measles exposure for Northwest Territories residents, and is urging people to check their vaccination status.",
+      "url": "https://www.cbc.ca/news/canada/north/alberta-measles-cases-risk-for-n-w-t-public-health-1.7594522",
+      "urlToImage": "https://i.cbc.ca/1.7594545.1753481523!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/kami-kandola.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-28 08:00:00",
+      "content": "As many people living in the Northwest Territories travel through Alberta over the summer, the territory's chief public health officer says that comes with a risk of measles exposure and she's urging\u2026 [+3110 chars]",
+      "retrievedAt": "2025-07-29 19:08:42.253823",
+      "internal_id": "46104cde8fe68876fcbff9c0797cf22c7002f7faff5413f40d50ad5bc964fc81",
+      "publishedAtLabel": "Jul 28"
+    },
     {
       "id": 23291,
       "query": [
@@ -20949,42 +21243,6 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22144,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "12onyourside.com",
-      "author": "12 On Your Side Digital Team",
-      "title": "Health officials investigating possible measles exposure in Northern Virginia",
-      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
-      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
-      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
-      "publishedAt": "2025-06-15 16:36:17",
-      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
-      "retrievedAt": "2025-06-16 19:06:08.908797",
-      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22143,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
-      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
-      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
-      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
-      "publishedAt": "2025-06-15 09:25:34",
-      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
-      "retrievedAt": "2025-06-16 19:06:07.950040",
-      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]
