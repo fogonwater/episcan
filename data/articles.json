@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-07-30 07:11",
-  "count_articles_total": 1184,
-  "count_articles_new": 6,
+  "last_updated": "2025-07-30 19:07",
+  "count_articles_total": 1197,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 23338,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Kamila Cie\u015blik",
+      "title": "WHO ostrzega: Pojawi\u0142o si\u0119 ryzyko epidemii w Europie. \"Widzimy, \u017ce historia si\u0119 powtarza\"",
+      "description": "Nowe zagro\u017cenie w Europie? WHO alarmuje w sprawie wirusa przenoszonego przez komary. Chikungunya wywo\u0142a\u0142a ju\u017c epidemi\u0119 dwie dekady temu. Tymczasem we Francji i W\u0142oszech odnotowano przypadki zaka\u017ce\u0144.",
+      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114881,32137951,who-ostrzega-pojawilo-sie-ryzyko-epidemii-w-europie-widzimy.html",
+      "urlToImage": "https://bi.im-g.pl/im/60/a6/1e/z32138080IER,Komar-tygrysi.jpg",
+      "publishedAt": "2025-07-29 17:50:00",
+      "content": "Kilka dni tego \u015awiatowa Organizacja Zdrowia (WHO) zaapelowa\u0142a o pilne dzia\u0142anie w sprawie wirusa chikungunya przenoszonego przez komary. Epidemia z lat 2004-2005 dotkn\u0119\u0142a prawie p\u00f3\u0142 miliona ludzi. - \u2026 [+1754 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.327517",
+      "internal_id": "96a7c02021ab2b0aee15ba6e85c4b6e843745b94e9139ffd97d4c88d35cc8af9",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23329,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di dengue nel Vicentino, scatta disinfestazione zona",
+      "description": "Caso di dengue a Schio (Vicenza) e scatta la disinfestazione a tappeto attorno all'abitazione dell'uomo che si trova in isolamento domiciliare, in buone condizioni di salute. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2025/07/29/caso-di-dengue-nel-vicentino-scatta-disinfestazione-zona_e70a8c2d-4d0d-4a66-b081-cfaa0a3cface.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-29 16:57:01",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-07-30 19:07:54.029784",
+      "internal_id": "3250eb88b9603e6d8662d57ceb0f5431add11c69e907294ed6d53393d3d0aeef",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23328,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di dengue nel Vicentino, scatta disinfestazione zona",
+      "description": "Caso di dengue a Schio (Vicenza) e scatta la disinfestazione a tappeto attorno all'abitazione dell'uomo che si trova in isolamento domiciliare, in buone condizioni di salute. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/07/29/caso-di-dengue-nel-vicentino-scatta-disinfestazione-zona_49e8de2f-59ea-4b65-947b-ee561c207d6c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-29 16:49:23",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-07-30 19:07:53.974646",
+      "internal_id": "9f7cc5170f9521b0b7858c632527ec93f796e438e41c24ae0690a4593175a610",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23327,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isabella Fran\u00e7a",
+      "title": "Abelha nativa do Brasil \u00e9 nova esperan\u00e7a contra dengue, mostra estudo",
+      "description": "Pesquisa revela que uma subst\u00e2ncia produzida pela abelha manda\u00e7aia tem o poder de exterminar larvas do mosquito Aedes aegypti",
+      "url": "https://www.metropoles.com/ciencia/abelha-brasil-esperanca-contra-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/07/29115306/mandacaia.jpg",
+      "publishedAt": "2025-07-29 16:05:33",
+      "content": "Pesquisadores brasileiros identificaram no pr\u00f3polis da abelha manda\u00e7aia (Melipona quadrifasciata), uma esp\u00e9cie nativa sem ferr\u00e3o, uma subst\u00e2ncia com potente a\u00e7\u00e3o larvicida contra o mosquito Aedes aeg\u2026 [+1715 chars]",
+      "retrievedAt": "2025-07-30 19:07:53.956047",
+      "internal_id": "fb144fa4b0e7f09a2da874e411422dcf8d030efd62ed3a1cfb51c896c327a8b9",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23341,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u042e\u0440\u0438\u0439 \u041b\u044b\u0441\u0435\u043d\u043a\u043e",
+      "title": "\u0412\u0440\u0430\u0447 \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b\u0430, \u043a\u0430\u043a \u043d\u0435 \u0434\u0430\u0442\u044c \u00ab\u043c\u044b\u0448\u0438\u043d\u043e\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u0438\u00bb \u0437\u0430\u0445\u0432\u0430\u0442\u0438\u0442\u044c \u0432\u0430\u0448 \u0445\u043e\u043b\u043e\u0434\u0438\u043b\u044c\u043d\u0438\u043a",
+      "description": "\u041b\u0435\u0442\u043e\u043c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u0440\u0438\u0441\u043a \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0438\u0435\u0440\u0441\u0438\u043d\u0438\u043e\u0437\u043e\u043c \u2014 \u043e\u043f\u0430\u0441\u043d\u043e\u0439 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0435\u0439, \u043f\u0435\u0440\u0435\u0434\u0430\u044e\u0449\u0435\u0439\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b, \u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0451\u043d\u043d\u044b\u0435 \u0433\u0440\u044b\u0437\u0443\u043d\u0430\u043c\u0438. \u041e \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u0430\u0445 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0435 \u00ab\u043c\u044b\u0448\u0438\u043d\u043e\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u0438\u00bb \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0432\u0440\u0430\u0447-\u0438\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u0438\u0441\u0442 \u0412\u0435\u0440\u0430 \u0421\u0435\u0440\u0451\u0436\u0438\u043d\u0430.",
+      "url": "https://life.ru/p/1775025",
+      "urlToImage": "https://static.life.ru/publications/2025/7/29/1373427605050.8513.webp",
+      "publishedAt": "2025-07-29 15:33:51",
+      "content": ", , . \u00ab \u00bb - . \u00ab , , \u00bb,. , , . , . , . , . , , . 17 40\u00b0C, , , . , , , , . - Yersinia enterocolitica Yersinia pseudotuberculosis. , , , 20 , . . . , . , , . , .",
+      "retrievedAt": "2025-07-30 19:07:56.021540",
+      "internal_id": "164d23cc3f3ed7eb1e01b7cf22c235d31a7becffdbcd33e8a03dac8647df2e0f",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23330,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "CBS Sports",
+      "author": "Chris Bengel",
+      "title": "Texans' Sheldon Rankins details frightening bout with meningitis, shingles during 2024 season",
+      "description": "Rankins says the medical conditions 'knocked me out for a while' as he lost over 50 pounds",
+      "url": "https://www.cbssports.com/nfl/news/texans-sheldon-rankins-details-frightening-bout-with-meningitis-shingles-during-2024-season/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/29/eea2c9db-5361-4957-91ae-b142815cfe2d/thumbnail/1200x675/211e36c459622419fc6d131ba30c94d2/rankins.jpg",
+      "publishedAt": "2025-07-29 15:17:39",
+      "content": "Sheldon Rankins has returned for a second stint with the Houston Texans after spending the 2024 season with the Cincinnati Bengals. On Monday, Rankins revealed that he dealt with quite a bit of adver\u2026 [+1846 chars]",
+      "retrievedAt": "2025-07-30 19:07:54.203992",
+      "internal_id": "e04c8702edf9601f03f139a7bf8e3c665905a7bb93155bf48c1d5d67bdc08d2f",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23331,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Post",
+      "author": "Chris Knight",
+      "title": "Scientists are studying ways to make your blood deadly to mosquitos",
+      "description": "Recent studies of the \"mosquitocidal drug\" ivermectin found a 26 per cent reduction in malaria cases among users.",
+      "url": "https://nationalpost.com/news/world/scientists-are-studying-ways-to-make-your-blood-deadly-to-mosquitos",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/09/gettyimages-1858120401.jpg",
+      "publishedAt": "2025-07-29 14:56:18",
+      "content": "A new study in the New England Journal of Medicine has found that ivermectin, an antiparasitic drug used to treat tropical diseases such as river blindness, can also fight the spread of malaria. It d\u2026 [+4341 chars]",
+      "retrievedAt": "2025-07-30 19:07:54.622332",
+      "internal_id": "9bf2acb18d1baf1c98146dc1ea10e3b9bc1b339da8ac6da857832772f9fdc593",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23332,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Fortunate Mokoena, Senior lecturer, Biochemistry, North-West University",
+      "title": "First malaria treatment for babies is a major step to ending the disease in Africa - biochemist",
+      "description": "A recently approved drug for malaria treatment offers hope to millions of children who suffer from the disease in Africa.",
+      "url": "https://theconversation.com/first-malaria-treatment-for-babies-is-a-major-step-to-ending-the-disease-in-africa-biochemist-261771",
+      "urlToImage": "https://images.theconversation.com/files/682391/original/file-20250728-56-uz0xm7.jpg?ixlib=rb-4.1.0&rect=0%2C288%2C3472%2C1736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-07-29 14:28:30",
+      "content": "The first malaria treatment for babies and very young children of 2 months up to 5 years was approved for use by Swiss agency for therapeutic products, Swissmedic, in early July 2025. Until now, babi\u2026 [+5994 chars]",
+      "retrievedAt": "2025-07-30 19:07:54.639651",
+      "internal_id": "ef7654b0949955744dbc675007c122b33134ab20eb22c12f8e7eff40aa3ac9e1",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23336,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Landes. Un cas autochtone de chikungunya confirm\u00e9, des op\u00e9rations de d\u00e9moustication pr\u00e9vues",
+      "description": "Un cas autochtone de chikungunya a \u00e9t\u00e9 recens\u00e9 et confirm\u00e9 lundi 28 juillet dans les Landes. Le patient, situ\u00e9 \u00e0 Dax, n\u2019avait pas voyag\u00e9 dans une zone contamin\u00e9e avant de contracter la maladie et son \u00e9tat n\u2019est pas inqui\u00e9tant. L\u2019ARS et Sant\u00e9 publique France o\u2026",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/landes-un-cas-autochtone-de-chikungunya-confirme-des-operations-de-demoustication-prevues-e1742228-6c83-11f0-a697-d26efa6b0818",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA3YzExZmY3NjYyZDAyNzEwYWY4ZWNkYjE1ZGEwNTBmYjU?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2a6ffafd237f3d38e08141d43f0361aa8c2b92715a938c373769b5dd19638c2a",
+      "publishedAt": "2025-07-29 14:24:59",
+      "content": "Le chikungunya est bel et bien en Nouvelle Aquitaine. LAgence r\u00e9gionale de sant\u00e9 (ARS) locale a confirm\u00e9 lundi 28 juillet 2025 la pr\u00e9sence dun cas \u00e0 Dax (Landes). L\u00e9tat de sant\u00e9 du patient \u00ab ninspire\u2026 [+1474 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.278980",
+      "internal_id": "2024e1f1ae7b66a3372c08d5f4cc975b9cd57aefb83697869045ea5a833b451d",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23337,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u039a\u03af\u03c1\u03ba\u03b7 \u03a3\u03b9\u03ac\u03c4\u03b7",
+      "title": "\u039a\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9 \u03c4\u03af\u03b3\u03c1\u03b7\u03c2: \u0397 \u03c3\u03b9\u03c9\u03c0\u03b7\u03bb\u03ae \u03b1\u03c0\u03b5\u03b9\u03bb\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03ba\u03c1\u03af\u03c3\u03b7\u03c2",
+      "description": "\u03bf \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9 \u03c4\u03af\u03b3\u03c1\u03b7\u03c2 (Aedes albopictus), \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03b5\u03be\u03b1\u03c0\u03bb\u03c9\u03bc\u03ad\u03bd\u03bf \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u03b5\u03bc\u03c0\u03bf\u03c1\u03af\u03bf\u03c5, \u03b5\u03be\u03b5\u03bb\u03af\u03c3\u03c3\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ae \u03b1\u03c0\u03b5\u03b9\u03bb\u03ae \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1 \u03c5\u03b3\u03b5\u03af\u03b1 \u03c3\u03c4\u03b7",
+      "url": "https://www.alphafreepress.gr/2025/07/29/plus/perivalon/kounoupi-tigris-i-siopili-apeili-tis-klimatikis-krisis/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2025/06/pexels-pixabay-462089-scaled.jpg",
+      "publishedAt": "2025-07-29 14:00:57",
+      "content": "(Aedes albopictus), , , . , , Chikungunya . 2003, , , . . , . , . : : , . : , DEET, IR3535 Citriodiol/Eucalyptus citriodora oil. , .",
+      "retrievedAt": "2025-07-30 19:07:55.310885",
+      "internal_id": "065c84754a513645826fcac96c9afdc02add618217a8580e0baf29130b07e1bb",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23340,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mo\u00e7ambique refor\u00e7a vigil\u00e2ncia fronteiri\u00e7a para travar Mpox",
+      "description": "Rastreamento comunit\u00e1rio foi considerado como o melhor m\u00e9todo para travar a propaga\u00e7\u00e3o da doen\u00e7a, mas h\u00e1 v\u00e1rios pontos de entrada e sa\u00edda nas fronteiras do pa\u00eds que n\u00e3o s\u00e3o f\u00e1ceis de controlar.",
+      "url": "https://observador.pt/2025/07/29/mocambique-reforca-vigilancia-fronteirica-para-travar-propagacao-de-casos-de-mpox/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A159%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F26181240%2F43427356.jpg?layer=obstop:T",
+      "publishedAt": "2025-07-29 12:27:59",
+      "content": "O Governo mo\u00e7ambicano est\u00e1 a refor\u00e7ar a vigil\u00e2ncia fronteiri\u00e7a, com equipas de rastreio e testagem, para travar a propaga\u00e7\u00e3o de casos de Mpox, com o pa\u00eds a registar atualmente 17 casos e 92 suspeitos\u2026 [+3329 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.514689",
+      "internal_id": "eee4e81ec68e47c5f34dd9e560b938bc1dec1cbdcb0ccb7360d26f56284df3b2",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23339,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Pawe\u0142 Basiak",
+      "title": "Tropikalny wirus rozlewa si\u0119 po \u015bwiecie. Polskie MSZ bije na alarm",
+      "description": "Ponad 4800 przypadk\u00f3w zachorowa\u0144 na gor\u0105czk\u0119 chikungunya odnotowa\u0142y w\u0142adze chi\u0144skiej prowincji Guangdong. Przed chorob\u0105 wirusow\u0105 przenoszon\u0105 przez komary tygrysie ostrzega polskie MSZ. Przypadki zaka\u017ce\u0144 w ostatnich tygodniach pojawiaj\u0105 si\u0119 coraz bli\u017cej Polski\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-tropikalny-wirus-rozlewa-sie-po-swiecie-polskie-msz-bije-na,nId,22169715",
+      "urlToImage": "https://i.iplsc.com/-/000LDTCBC5O127VR-C461.jpg",
+      "publishedAt": "2025-07-29 08:26:05",
+      "content": "W skr\u00f3cie Wadze chiskiej prowincji Guangdong odnotoway ponad 4800 przypadk\u00f3w gorczki chikungunya transmitowanej przez komary tygrysie. Choroba szybko rozprzestrzenia si poza Az\u2026 [+3852 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.360083",
+      "internal_id": "218c9a247aeba3b1d89d63f66eecae3466e73b956c28ee285a902f728b5751e4",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23334,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ahmet Aydemir",
+      "title": "Prof. Dr. \u00d6zl\u00fc'den \u2018Chikungunya\u2019 vir\u00fcs\u00fc a\u00e7\u0131klamas\u0131: Yak\u0131n bir tehdit s\u00f6z konusu mu?",
+      "description": "Sivrisinekler yoluyla bula\u015fan 'Chikungunya' vir\u00fcs\u00fcne ili\u015fkin konu\u015fan Prof. Dr. Tevfik \u00d6zl\u00fc, \u201cHen\u00fcz T\u00fcrkiye\u2019de b\u00f6yle bir vaka bildirilmi\u015f de\u011fil. Bu y\u00fczden yak\u0131n bir tehdit s\u00f6z konusu de\u011fildir\u201d dedi.",
+      "url": "https://www.haber7.com/saglik/haber/3551045-prof-dr-ozluden-chikungunya-virusu-aciklamasi-yakin-bir-tehdit-soz-konusu-mu",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/31/prof_dr_ozluden_chikungunya_virusu_aciklamasi_yakin_bir_tehdit_soz_konusu_mu_1753777137_7123.jpg",
+      "publishedAt": "2025-07-29 08:19:00",
+      "content": "D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6), sivrisinek yoluyla bulaan Chikungunya vir\u00fcs\u00fcn\u00fcn \u00f6n\u00fcm\u00fczdeki yllarda k\u00fcresel bir salgna d\u00f6n\u00fcebilecei uyarsnda bulundu. T\u00fcrkiyede hen\u00fcz vaka g\u00f6r\u00fclmediini ancak yaz aylarnda sivr\u2026 [+2105 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.258693",
+      "internal_id": "5c91f5bae52a4718c0bfb4fb4b051f1c65c71dd34471d69eccad756d67c9dcad",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23333,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "Sivrisineklerden bula\u015f\u0131yor! Uzman isimden 'Chikungunya' vir\u00fcs\u00fc a\u00e7\u0131klamas\u0131: Yak\u0131n bir tehdit s\u00f6z konusu de\u011fil",
+      "description": "G\u00f6\u011f\u00fcs Hastal\u0131klar\u0131 Uzman\u0131 Prof. Dr. Tevfik \u00d6zl\u00fc, sivrisinekler yoluyla bula\u015f\u0131p, son d\u00f6nemde Avrupa\u2019da da vakalar\u0131 g\u00f6r\u00fclmeye ba\u015flanan 'Chikungunya' vir\u00fcs\u00fcne ili\u015fkin, \"Chikungunya vir\u00fcs\u00fc, sivrisinekler yolu ile bula\u015ft\u0131\u011f\u0131 i\u00e7in, sineklerin \u00e7o\u011falmas\u0131 ve \u00fcremesiyle\u2026",
+      "url": "https://www.hurriyet.com.tr/gundem/sivrisineklerden-bulasiyor-uzman-isimden-chikungunya-virusu-aciklamasi-yakin-bir-tehdit-soz-konusu-degil-42895670",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/68887b000927aa718fcc1786.jpg",
+      "publishedAt": "2025-07-29 07:41:40",
+      "content": "p&gt;D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6), sivrisinek yoluyla bulaan Chikungunya vir\u00fcs\u00fcn\u00fcn \u00f6n\u00fcm\u00fczdeki yllarda k\u00fcresel bir salgna d\u00f6n\u00fcebilecei uyarsnda bulundu. T\u00fcrkiyede hen\u00fcz vaka g\u00f6r\u00fclmediini ancak yaz aylarnda\u2026 [+2086 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.211605",
+      "internal_id": "41969a4902b9e504e49fc9c90b5069937b31dddcb6eea8a5678d107767686cc0",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23335,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ay\u015fe Tan",
+      "title": "Chikungunya vir\u00fcs\u00fc nedir? T\u00fcrkiye'de vaka var m\u0131? Uzman\u0131 a\u00e7\u0131klad\u0131",
+      "description": "Prof. Dr. Tevfik \u00d6zl\u00fc, \"Chikungunya vir\u00fcs\u00fc, sivrisinekler yolu ile bula\u015ft\u0131\u011f\u0131 i\u00e7in, sineklerin \u00e7o\u011falmas\u0131 ve \u00fcremesiyle ilgili ortamlar\u0131n \u0131slah edilmesi laz\u0131m. Hen\u00fcz T\u00fcrkiye\u2019de b\u00f6yle bir vaka bildirilmi\u015f de\u011fil. Tehdit s\u00f6z konusu de\u011fil\u201d dedi.",
+      "url": "https://www.haber7.com/guncel/haber/3551016-chikungunya-virusu-nedir-turkiyede-vaka-var-mi-uzmani-acikladi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/31/chikungunya_virusu_nedir_turkiyede_vaka_var_mi_uzmani_acikladi_1753773913_8487.jpg",
+      "publishedAt": "2025-07-29 07:25:00",
+      "content": "D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6), sivrisinek yoluyla bulaan Chikungunya vir\u00fcs\u00fcn\u00fcn \u00f6n\u00fcm\u00fczdeki yllarda k\u00fcresel bir salgna d\u00f6n\u00fcebilecei uyarsnda bulundu. T\u00fcrkiyede hen\u00fcz vaka g\u00f6r\u00fclmediini ancak yaz aylarnda sivr\u2026 [+2072 chars]",
+      "retrievedAt": "2025-07-30 19:07:55.268743",
+      "internal_id": "4094f9b20e8c66ff8202666cc0b69c86593ff2758eaeacbba14bcc80e5ab0353",
+      "publishedAtLabel": "Jul 29"
+    },
     {
       "id": 23326,
       "query": [
@@ -21353,42 +21623,6 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22144,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "12onyourside.com",
-      "author": "12 On Your Side Digital Team",
-      "title": "Health officials investigating possible measles exposure in Northern Virginia",
-      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
-      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
-      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
-      "publishedAt": "2025-06-15 16:36:17",
-      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
-      "retrievedAt": "2025-06-16 19:06:08.908797",
-      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22143,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
-      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
-      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
-      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
-      "publishedAt": "2025-06-15 09:25:34",
-      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
-      "retrievedAt": "2025-06-16 19:06:07.950040",
-      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]

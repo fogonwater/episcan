@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-07-30 07:11
-- **Most recent article:** 2025-07-29 06:15:03
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-07-30 19:07
+- **Most recent article:** 2025-07-29 17:50:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 47 | 6 | 348 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 9 | 176 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 13 | 173 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 5 | 121 |
-| meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 1 | 104 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 3 | 76 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 6 | 75 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 6 | 347 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 16 | 183 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 16 | 176 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 7 | 123 |
+| meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 2 | 105 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 7 | 76 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 3 | 75 |
+| yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 5 | 51 |
-| yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 0 | 51 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
 | typhoid | 0 | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
 | hpai | 1 | 0 | 4 | 3 | 2 | 1 | 0 | 11 |
@@ -44,6 +44,10 @@ Source: [News API](https://newsapi.org/)
 
 - [How billions of modified mosquitoes can help Brazil banish dengue fever](https://www.independent.ie/irish-news/health/how-billions-of-modified-mosquitoes-can-help-brazil-banish-dengue-fever/a1173095170.html) (Independent.ie)
 
+## 25-31 (yersinia)
+
+- [Врач объяснила, как не дать «мышиной болезни» захватить ваш холодильник](https://life.ru/p/1775025) (Life.ru)
+
 ## 25-31 (rabies)
 
 - [Daughter speaks out as Brit woman dies of rabies after being scratched by puppy on holiday](https://www.ladbible.com/news/uk-news/woman-dies-rabies-scratch-daughter-speaks-out-morocco-496235-20250728) (LADbible)
@@ -53,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 - [SC takes suo motu cognisance of report over dog bites leading to rabies](https://economictimes.indiatimes.com/news/india/sc-takes-suo-motu-cognisance-of-report-over-dog-bites-leading-to-rabies/articleshow/122946559.cms) (The Times of India)
 
 ## 25-31 (mpox)
+
+- [Moçambique reforça vigilância fronteiriça para travar Mpox](https://observador.pt/2025/07/29/mocambique-reforca-vigilancia-fronteirica-para-travar-propagacao-de-casos-de-mpox/) (Observador.pt)
 
 - [New Publication in Expert Review of Anti-infective Therapy Evaluates Brincidofovir as Potential Antiviral Treatment for Mpox](https://www.globenewswire.com/news-release/2025/07/28/3122491/33240/en/New-Publication-in-Expert-Review-of-Anti-infective-Therapy-Evaluates-Brincidofovir-as-Potential-Antiviral-Treatment-for-Mpox.html) (GlobeNewswire)
 
@@ -67,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [Gana'da M çiçeği virüsü kaynaklı ilk ölüm kayıtlara geçti](https://www.patronlardunyasi.com/ganada-m-cicegi-virusu-kaynakli-ilk-olum-kayitlara-gecti) (Patronlardunyasi.com)
 
 ## 25-31 (meningitis)
+
+- [Texans' Sheldon Rankins details frightening bout with meningitis, shingles during 2024 season](https://www.cbssports.com/nfl/news/texans-sheldon-rankins-details-frightening-bout-with-meningitis-shingles-during-2024-season/) (CBS Sports)
 
 - [La amarga Eurocopa de Aitana Bonmatí: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin título](https://www.eldiario.es/spin/deportes/amarga-eurocopa-aitana-bonmati-hospital-meningitis-mejor-jugadora-eurocopa-titulo-pm_1_12496955.html) (Eldiario.es)
 
@@ -86,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (malaria)
 
+- [Scientists are studying ways to make your blood deadly to mosquitos](https://nationalpost.com/news/world/scientists-are-studying-ways-to-make-your-blood-deadly-to-mosquitos) (National Post)
+
+- [First malaria treatment for babies is a major step to ending the disease in Africa - biochemist](https://theconversation.com/first-malaria-treatment-for-babies-is-a-major-step-to-ending-the-disease-in-africa-biochemist-261771) (The Conversation Africa)
+
 - [Impact of co-infection with Plasmodium berghei ANKA in Leishmania major-parasitized mice on immune modulation and cutaneous leishmaniasis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013302) (Plos.org)
 
 - [Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013287) (Plos.org)
@@ -101,6 +113,12 @@ Source: [News API](https://newsapi.org/)
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
 
 ## 25-31 (dengue)
+
+- [Caso di dengue nel Vicentino, scatta disinfestazione zona](https://www.ansa.it/veneto/notizie/2025/07/29/caso-di-dengue-nel-vicentino-scatta-disinfestazione-zona_e70a8c2d-4d0d-4a66-b081-cfaa0a3cface.html) (ANSA.it)
+
+- [Caso di dengue nel Vicentino, scatta disinfestazione zona](https://www.ansa.it/sito/notizie/cronaca/2025/07/29/caso-di-dengue-nel-vicentino-scatta-disinfestazione-zona_49e8de2f-59ea-4b65-947b-ee561c207d6c.html) (ANSA.it)
+
+- [Abelha nativa do Brasil é nova esperança contra dengue, mostra estudo](https://www.metropoles.com/ciencia/abelha-brasil-esperanca-contra-dengue) (Metropoles.com)
 
 - [Contra a dengue, DF começa a usar aedes aegypti infectado com bactéria](https://www.metropoles.com/distrito-federal/contra-a-dengue-df-comeca-a-usar-aedes-aegypti-infectado-com-bacteria) (Metropoles.com)
 
@@ -129,6 +147,20 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [WHO ostrzega: Pojawiło się ryzyko epidemii w Europie. "Widzimy, że historia się powtarza"](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,32137951,who-ostrzega-pojawilo-sie-ryzyko-epidemii-w-europie-widzimy.html) (Gazeta.pl)
+
+- [Landes. Un cas autochtone de chikungunya confirmé, des opérations de démoustication prévues](https://sante.ouest-france.fr/maladies/chikungunya/landes-un-cas-autochtone-de-chikungunya-confirme-des-operations-de-demoustication-prevues-e1742228-6c83-11f0-a697-d26efa6b0818) (Ouest-France)
+
+- [Κουνούπι τίγρης: Η σιωπηλή απειλή της κλιματικής κρίσης](https://www.alphafreepress.gr/2025/07/29/plus/perivalon/kounoupi-tigris-i-siopili-apeili-tis-klimatikis-krisis/) (Alphafreepress.gr)
+
+- [Tropikalny wirus rozlewa się po świecie. Polskie MSZ bije na alarm](https://wydarzenia.interia.pl/zagranica/news-tropikalny-wirus-rozlewa-sie-po-swiecie-polskie-msz-bije-na,nId,22169715) (Interia.pl)
+
+- [Prof. Dr. Özlü'den ‘Chikungunya’ virüsü açıklaması: Yakın bir tehdit söz konusu mu?](https://www.haber7.com/saglik/haber/3551045-prof-dr-ozluden-chikungunya-virusu-aciklamasi-yakin-bir-tehdit-soz-konusu-mu) (Haber7.com)
+
+- [Sivrisineklerden bulaşıyor! Uzman isimden 'Chikungunya' virüsü açıklaması: Yakın bir tehdit söz konusu değil](https://www.hurriyet.com.tr/gundem/sivrisineklerden-bulasiyor-uzman-isimden-chikungunya-virusu-aciklamasi-yakin-bir-tehdit-soz-konusu-degil-42895670) (Hurriyet.com.tr)
+
+- [Chikungunya virüsü nedir? Türkiye'de vaka var mı? Uzmanı açıkladı](https://www.haber7.com/guncel/haber/3551016-chikungunya-virusu-nedir-turkiyede-vaka-var-mi-uzmani-acikladi) (Haber7.com)
 
 - [Contra a dengue, DF começa a usar aedes aegypti infectado com bactéria](https://www.metropoles.com/distrito-federal/contra-a-dengue-df-comeca-a-usar-aedes-aegypti-infectado-com-bacteria) (Metropoles.com)
 
@@ -2488,8 +2520,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2577,8 +2607,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
