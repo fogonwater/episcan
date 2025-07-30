@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-07-29 19:08
-- **Most recent article:** 2025-07-28 17:30:04
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-07-30 07:11
+- **Most recent article:** 2025-07-29 06:15:03
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 53 | 36 | 114 | 64 | 47 | 4 | 345 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 8 | 175 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 10 | 170 |
+| measles | 28 | 53 | 36 | 114 | 64 | 47 | 6 | 348 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 9 | 176 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 13 | 173 |
 | malaria | 23 | 13 | 21 | 29 | 12 | 18 | 5 | 121 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 1 | 104 |
+| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 3 | 76 |
 | mpox | 10 | 27 | 10 | 6 | 7 | 9 | 6 | 75 |
-| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 2 | 74 |
+| zika | 14 | 2 | 8 | 12 | 8 | 2 | 5 | 51 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 0 | 51 |
-| zika | 14 | 2 | 8 | 12 | 8 | 2 | 4 | 50 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
 | typhoid | 0 | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
 | hpai | 1 | 0 | 4 | 3 | 2 | 1 | 0 | 11 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (zika)
 
+- [Contra a dengue, DF começa a usar aedes aegypti infectado com bactéria](https://www.metropoles.com/distrito-federal/contra-a-dengue-df-comeca-a-usar-aedes-aegypti-infectado-com-bacteria) (Metropoles.com)
+
 - [High seroprevalence of antibodies to Dengue, Chikungunya, and Zika viruses in Dire Dawa, Ethiopia: A cross-sectional survey in 2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357) (Plos.org)
 
 - [Knowledge, attitude, and practice (KAP), and acceptance and willingness to pay (WTP) for mosquito-borne diseases control through sterile mosquito release in Bangkok, Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011935) (Plos.org)
@@ -43,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 - [How billions of modified mosquitoes can help Brazil banish dengue fever](https://www.independent.ie/irish-news/health/how-billions-of-modified-mosquitoes-can-help-brazil-banish-dengue-fever/a1173095170.html) (Independent.ie)
 
 ## 25-31 (rabies)
+
+- [Daughter speaks out as Brit woman dies of rabies after being scratched by puppy on holiday](https://www.ladbible.com/news/uk-news/woman-dies-rabies-scratch-daughter-speaks-out-morocco-496235-20250728) (LADbible)
 
 - [Health Ministry dispatches rabies vaccines and antivenin across Nepal](https://english.khabarhub.com/2025/28/488031/) (Khabarhub.com)
 
@@ -67,6 +71,10 @@ Source: [News API](https://newsapi.org/)
 - [La amarga Eurocopa de Aitana Bonmatí: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin título](https://www.eldiario.es/spin/deportes/amarga-eurocopa-aitana-bonmati-hospital-meningitis-mejor-jugadora-eurocopa-titulo-pm_1_12496955.html) (Eldiario.es)
 
 ## 25-31 (measles)
+
+- [Resurgence of old diseases on agenda for global nursing conference in Calgary](https://www.cbc.ca/news/canada/calgary/alberta-measles-calgary-public-health-nursing-conference-exposure-alert-1.7595661) (CBC News)
+
+- [Officials warn of possible measles exposure at 4 Winnipeg sites](https://www.cbc.ca/news/canada/manitoba/measles-exposure-winnipeg-july-21-2025-1.7595674) (CBC News)
 
 - [Doctors brace for potential measles surge in Calgary as Alberta's outbreaks drag on](https://www.cbc.ca/news/canada/calgary/doctors-brace-for-potential-measles-surge-in-calgary-as-alberta-s-outbreaks-drag-on-1.7594340) (CBC News)
 
@@ -94,6 +102,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (dengue)
 
+- [Contra a dengue, DF começa a usar aedes aegypti infectado com bactéria](https://www.metropoles.com/distrito-federal/contra-a-dengue-df-comeca-a-usar-aedes-aegypti-infectado-com-bacteria) (Metropoles.com)
+
+- [Presencia de dengue en México: cerca de 4 mil casos en lo que va del año](https://www.excelsior.com.mx/nacional/casos-dengue-america-prevencion/1729586) (Excelsior.com.mx)
+
+- [Dengue en México: Van cerca de 4 mil casos a nivel nacional en lo que va del año](https://www.milenio.com/ciencia-y-salud/dengue-mexico-4-mil-casos-confirmados-2025) (Milenio)
+
 - [Effects of environmental factors on dengue incidence in the Central Region, Burkina Faso: A time series analyses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013356) (Plos.org)
 
 - [Noncommunicable diseases associated with bleeding disorders, hospitalization, and mortality in patients with dengue in Mexico: A national analysis of confirmed cases in 2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012933) (Plos.org)
@@ -115,6 +129,8 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Contra a dengue, DF começa a usar aedes aegypti infectado com bactéria](https://www.metropoles.com/distrito-federal/contra-a-dengue-df-comeca-a-usar-aedes-aegypti-infectado-com-bacteria) (Metropoles.com)
 
 - [Un cas autochtone de chikungunya confirmé dans les Landes](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/landes/dax/un-cas-autochtone-de-chikungunya-confirme-dans-les-landes-3194508.html) (Franceinfo.fr)
 
@@ -2472,6 +2488,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
+- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
+
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2559,6 +2577,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
+
+- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
