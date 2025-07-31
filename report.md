@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-07-31 07:10
-- **Most recent article:** 2025-07-30 06:00:38
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-07-31 19:08
+- **Most recent article:** 2025-07-30 18:41:27
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 47 | 6 | 348 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 18 | 185 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 17 | 177 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 8 | 349 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 20 | 187 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 19 | 179 |
 | malaria | 23 | 13 | 21 | 29 | 12 | 18 | 7 | 123 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 2 | 105 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 5 | 78 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 6 | 78 |
 | mpox | 10 | 27 | 10 | 6 | 7 | 9 | 8 | 77 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 5 | 51 |
@@ -49,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 - [Врач объяснила, как не дать «мышиной болезни» захватить ваш холодильник](https://life.ru/p/1775025) (Life.ru)
 
 ## 25-31 (rabies)
+
+- [Woman Opens Door to 'a Giant Ball of Viciousness'](https://www.newser.com/story/372688/woman-opens-door-to-a-giant-ball-of-viciousness.html) (Newser)
 
 - [3 bats test positive for rabies in New Fairfield](https://www.wfsb.com/2025/07/29/3-bats-test-positive-rabies-new-fairfield/) (WFSB)
 
@@ -86,6 +88,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (measles)
 
+- [2 new exposure sites identified as measles cluster grows in N.S.](https://www.cbc.ca/news/canada/nova-scotia/exposure-sites-measles-cluster-grows-1.7597295) (CBC News)
+
+- [laser-measles 0.7.2.dev3](https://pypi.org/project/laser-measles/0.7.2.dev3/) (Pypi.org)
+
 - [Resurgence of old diseases on agenda for global nursing conference in Calgary](https://www.cbc.ca/news/canada/calgary/alberta-measles-calgary-public-health-nursing-conference-exposure-alert-1.7595661) (CBC News)
 
 - [Officials warn of possible measles exposure at 4 Winnipeg sites](https://www.cbc.ca/news/canada/manitoba/measles-exposure-winnipeg-july-21-2025-1.7595674) (CBC News)
@@ -119,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
 
 ## 25-31 (dengue)
+
+- [4 confirmed cases of ‘locally acquired’ dengue found in Brevard County, DOH says](https://www.clickorlando.com/news/local/2025/07/30/4-confirmed-cases-of-locally-acquired-dengue-found-in-brevard-county-doh-says/) (WKMG News 6 & ClickOrlando)
+
+- [Dengue e chikungunya encurtaram vidas em até 22 anos no Brasil](https://veja.abril.com.br/saude/dengue-e-chikungunya-encurtaram-vidas-em-ate-22-anos-no-brasil/) (Abril.com.br)
 
 - [Ante la explosión de casos a nivel mundial, los expertos recuerdan que el sarampión también viaja: "Debemos conocer si estamos vacunados o no"](https://www.elmundo.es/ciencia-y-salud/salud/2025/07/30/6888d50be9cf4afa138b459e.html) (El Mundo)
 
@@ -155,6 +165,10 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Dengue e chikungunya encurtaram vidas em até 22 anos no Brasil](https://veja.abril.com.br/saude/dengue-e-chikungunya-encurtaram-vidas-em-ate-22-anos-no-brasil/) (Abril.com.br)
+
+- [En Chine, la propagation du chikungunya rappelle les années noires du Covid-19](https://www.courrierinternational.com/article/sante-en-chine-la-rapide-propagation-du-chikungunya-rappelle-les-annees-noires-du-covid-19_233609) (Courrier International)
 
 - [Nový vírus sa šíri ako pred 20 rokmi: Chikungunya dorazil do Európy a WHO varuje pred globálnou katastrofou](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/761264-novy-virus-sa-siri-ako-pred-20-rokmi-chikungunya-dorazil-do-europy-a-who-varuje-pred-globalnou-katastrofou/) (Pravda.sk)
 
@@ -2532,8 +2546,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2621,8 +2633,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 

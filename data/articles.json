@@ -1,8 +1,117 @@
 {
-  "last_updated": "2025-07-31 07:10",
-  "count_articles_total": 1204,
-  "count_articles_new": 5,
+  "last_updated": "2025-07-31 19:08",
+  "count_articles_total": 1208,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 23351,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WKMG News 6 & ClickOrlando",
+      "author": "Justice Covert",
+      "title": "4 confirmed cases of \u2018locally acquired\u2019 dengue found in Brevard County, DOH says",
+      "description": "The Florida Department of Health in Brevard County has found four confirmed cases of \u201clocally acquired\u201d dengue, a news release stated.",
+      "url": "https://www.clickorlando.com/news/local/2025/07/30/4-confirmed-cases-of-locally-acquired-dengue-found-in-brevard-county-doh-says/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3OVMFOPN25FY5I3TPHPKZUY4AI.png?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-07-30 18:41:27",
+      "content": "BREVARD COUNTY, Fla. The Florida Department of Health in Brevard County has found four confirmed cases of locally acquired dengue, a news release stated. In response to the confirmed cases, official\u2026 [+1164 chars]",
+      "retrievedAt": "2025-07-31 19:08:14.103770",
+      "internal_id": "120972686e392b3b70ae5beff6c493df2b57236ed99af4a7d274f282f6b79f0f",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23350,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "Dengue e chikungunya encurtaram vidas em at\u00e9 22 anos no Brasil",
+      "description": "Maior an\u00e1lise j\u00e1 feita no pa\u00eds, publicada na revista The Lancet, revela perda precoce de anos de vida e impacto desproporcional segundo cor da pele e regi\u00e3o",
+      "url": "https://veja.abril.com.br/saude/dengue-e-chikungunya-encurtaram-vidas-em-ate-22-anos-no-brasil/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/05/2D-2-DENGUE-TENDAS-DISTRITO-FEDERAL-2024-1-h.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-07-30 18:00:30",
+      "content": "Dia dos Pais: Revista em casa por 7,50/semanaDengue e chikungunya: regi\u00f5es com maior popula\u00e7\u00e3o de pessoas negras e ind\u00edgenas s\u00e3o as mais afetadas (Sandro Ara\u00fajo/Ag\u00eancia Sa\u00fade DF//) Continua ap\u00f3s pub\u2026 [+5683 chars]",
+      "retrievedAt": "2025-07-31 19:08:13.981776",
+      "internal_id": "8df9b7ae20875c80c637ab7c62ba208a01341a4a4733978108d352dae0c3e3e4",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23352,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": "Zhang Zhulin",
+      "title": "En Chine, la propagation du chikungunya rappelle les ann\u00e9es noires du Covid-19",
+      "description": "Dans la province du Guangdong, 5 000 cas de chikungunya ont \u00e9t\u00e9 enregistr\u00e9s au 26 juillet, avec un \u00e9picentre de l\u2019\u00e9pid\u00e9mie \u00e0 Foshan. La maladie est principalement transmise par des piqures de moustiques-tigres. Si les autorit\u00e9s locales veulent r\u00e9agir vite et \u2026",
+      "url": "https://www.courrierinternational.com/article/sante-en-chine-la-rapide-propagation-du-chikungunya-rappelle-les-annees-noires-du-covid-19_233609",
+      "urlToImage": "https://focus.courrierinternational.com/2025/07/30/0/13/4123/2749/1200/630/60/0/3b02300_upload-1-xcvqm5w3kacz-075-roy-notitle250607-npyzd.jpg",
+      "publishedAt": "2025-07-30 16:24:34",
+      "content": "Pr\u00e8s de 5 000 habitants de la province du Guangdong (sud de la Chine) ont \u00e9t\u00e9 infect\u00e9s par le chikungunya \u00e0 la date du 26 juillet, alerte sur son compte WeChat Plex Biotechnology. Aucun cas grave ni \u2026 [+3808 chars]",
+      "retrievedAt": "2025-07-31 19:08:15.995234",
+      "internal_id": "a87191893709eee5f8a5ea32f741c6dc1a50a9e019e9b0ec9d055623299ef3cf",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23349,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2 new exposure sites identified as measles cluster grows in N.S.",
+      "description": "There are five more cases of measles in Northern Nova Scotia, bringing the total number of cases in the province to 35. Public Health expected the number to rise, and said these new cases are all connected.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/exposure-sites-measles-cluster-grows-1.7597295",
+      "urlToImage": "https://i.cbc.ca/1.7518201.1750463325!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-30 15:10:34",
+      "content": "There are five more cases of measles in Northern Nova Scotia, bringing the total number of cases in the province to 35. Public Health expected the number to rise, and said these new cases are all co\u2026 [+2218 chars]",
+      "retrievedAt": "2025-07-31 19:08:12.947322",
+      "internal_id": "67176daa7d2f32d70b484ce4a0efef8f6753c0ac5520e032ea6348fc6c6a1f8a",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23348,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "laser-measles 0.7.2.dev3",
+      "description": "Spatial models of measles implemented with the LASER toolkit.",
+      "url": "https://pypi.org/project/laser-measles/0.7.2.dev3/",
+      "urlToImage": null,
+      "publishedAt": "2025-07-30 14:48:35",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-07-31 19:08:12.930675",
+      "internal_id": "88386c5c49a664f1a0ba193507d908d2a6d096b75446bbae4a59f63ab112b357",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23347,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier with Newser.AI",
+      "title": "Woman Opens Door to 'a Giant Ball of Viciousness'",
+      "description": "A Massachusetts woman's late-night encounter with an aggressive assailant left her bloodied\u2014and in need of rabies treatment. Katharine VanBuskirk, 69, says she was attacked by a relentless raccoon outside her Somerville home around 1am Saturday while letting \u2026",
+      "url": "https://www.newser.com/story/372688/woman-opens-door-to-a-giant-ball-of-viciousness.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1625132-12-20250730040002.jpeg",
+      "publishedAt": "2025-07-30 09:00:00",
+      "content": "A Massachusetts woman's late-night encounter with an aggressive assailant left her bloodied\u2014and in need of rabies treatment. Katharine VanBuskirk, 69, says she was attacked by a relentless raccoon ou\u2026 [+431 chars]",
+      "retrievedAt": "2025-07-31 19:08:12.092301",
+      "internal_id": "fd7fb1df2f8fc2598301fa45573eb75ecf07b8c60945a477abcc2f264a78a0a2",
+      "publishedAtLabel": "Jul 30"
+    },
     {
       "id": 23346,
       "query": [
@@ -21714,42 +21823,6 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22144,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "12onyourside.com",
-      "author": "12 On Your Side Digital Team",
-      "title": "Health officials investigating possible measles exposure in Northern Virginia",
-      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
-      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
-      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
-      "publishedAt": "2025-06-15 16:36:17",
-      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
-      "retrievedAt": "2025-06-16 19:06:08.908797",
-      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22143,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
-      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
-      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
-      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
-      "publishedAt": "2025-06-15 09:25:34",
-      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
-      "retrievedAt": "2025-06-16 19:06:07.950040",
-      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]
