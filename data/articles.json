@@ -1,8 +1,99 @@
 {
-  "last_updated": "2025-07-30 19:07",
-  "count_articles_total": 1197,
-  "count_articles_new": 15,
+  "last_updated": "2025-07-31 07:10",
+  "count_articles_total": 1204,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 23346,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Experts blame relaxed restrictions as Mpox cases rise in Mombasa",
+      "description": "The Mpox outbreak has now spread across the country, with Trans Nzoia becoming the latest county to confirm an infection.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525614/experts-blame-relaxed-restrictions-as-mpox-cases-rise-in-mombasa",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/oMpjLyk0q8D5cTNXSLvpnnVa1gM1lyTihA0ZKpP7.jpg",
+      "publishedAt": "2025-07-30 06:00:38",
+      "content": "Loosened restrictions are fuelling the spread of Mpox, with Mombasa reporting a surge in cases, health experts have warned. The outbreak has now spread across the country, with Trans Nzoia becoming \u2026 [+2229 chars]",
+      "retrievedAt": "2025-07-31 07:10:36.247711",
+      "internal_id": "f3f3c1a0bdce382ed4434bcbeb093e67a6888520b6775cb3d82e9b7abd656cfb",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23345,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "Vanessa Teluchov\u00e1, TASR",
+      "title": "Nov\u00fd v\u00edrus sa \u0161\u00edri ako pred 20 rokmi: Chikungunya dorazil do Eur\u00f3py a WHO varuje pred glob\u00e1lnou katastrofou",
+      "description": "Svetov\u00e1 zdravotn\u00edcka organiz\u00e1cia (WHO) varuje, \u017ee sa opakuj\u00fa rovnak\u00e9 varovn\u00e9 sign\u00e1ly ako pri ve\u013ekej epid\u00e9mii spred 20 rokov.",
+      "url": "https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/761264-novy-virus-sa-siri-ako-pred-20-rokmi-chikungunya-dorazil-do-europy-a-who-varuje-pred-globalnou-katastrofou/",
+      "urlToImage": "http://ipravda.sk/res/2025/07/29/thumbs/komar_01-clanokW.png",
+      "publishedAt": "2025-07-30 04:00:00",
+      "content": "V\u00edrus chikungunya, ktor\u00fd sp\u00f4sobuje vysok\u00e9 hor\u00faky a neznesiten\u00e9 bolesti kbov, op\u00e4 naber\u00e1 na sile a tentoraz sa neobmedzuje len na tropick\u00e9 oblasti. Svetov\u00e1 zdravotn\u00edcka organiz\u00e1cia (WHO) varuje, e sa \u2026 [+4346 chars]",
+      "retrievedAt": "2025-07-31 07:10:35.582257",
+      "internal_id": "51b90df1e738642c53420f933b60231d74a2c8056fef95dbe115405da9055dcc",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23344,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pilar P\u00e9rez",
+      "title": "Ante la explosi\u00f3n de casos a nivel mundial, los expertos recuerdan que el sarampi\u00f3n tambi\u00e9n viaja: \"Debemos conocer si estamos vacunados o no\"",
+      "description": "Los m\u00e9dicos instan a revisar la cartilla, sobre todo ahora, cuando aumentan los desplazamientos desde pa\u00edses con circulaci\u00f3n activa del virus y evitar la importaci\u00f3n de contagios Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/07/30/6888d50be9cf4afa138b459e.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/5ada225d3c41017dceb9dbd1f2c671b9/crop/566x161/2727x1602/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/29/17538065281885.jpg",
+      "publishedAt": "2025-07-30 00:48:57",
+      "content": "Ni dengue, ni fiebre del Nilo, ni chikungunya... No hace falta centrarse en infecciones que suelen considerarse de otras latitudes. M\u00e1s bien poner el foco en otras m\u00e1s conocidas: sarampi\u00f3n. El brote \u2026 [+6385 chars]",
+      "retrievedAt": "2025-07-31 07:10:34.147228",
+      "internal_id": "3613b5f6672044df9c6114248d2c89267e3c0016e7b0e7344e50fbd7aae06141",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23343,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WFSB",
+      "author": "Zoe Strothers",
+      "title": "3 bats test positive for rabies in New Fairfield",
+      "description": "3 bats in New Fairfield have tested positive for rabies in New Fairfield.",
+      "url": "https://www.wfsb.com/2025/07/29/3-bats-test-positive-rabies-new-fairfield/",
+      "urlToImage": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/4BO2G4AAWBH2DBQAX6JTBVJNYY.jpg?auth=4ae33c980da37dc0b0367045093d13b5785f641842dacf20bd97aed8b0807221&width=1200&height=600&smart=true",
+      "publishedAt": "2025-07-29 23:24:06",
+      "content": "NEW FAIRFIELD, Conn. (WFSB) - 3 bats in New Fairfield have tested positive for rabies in New Fairfield. The towns health director said this is a higher number than seen in previous years. The hea\u2026 [+381 chars]",
+      "retrievedAt": "2025-07-31 07:10:32.067223",
+      "internal_id": "fe4a0bb0f60511d2a573ed9664809ce723802907934916f85d3c7861c8ca3e48",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 23342,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "Payton Kifus Staff Writer",
+      "title": "Cat tests positive for the rabies virus in Mechanicsville",
+      "description": "A cat in Mechanicsville tests positive for rabies. Residents notified of rabid cat in Berkley Forest Subdivision. Exposures should contact Hanover Health Department or Animal Control. Rabies prevention guidelines emphasized.",
+      "url": "https://richmond.com/news/community/mechanicsville-local/article_f2e867ad-d508-4b72-bbf0-6d42cfa3d969.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/f/2e/f2e867ad-d508-4b72-bbf0-6d42cfa3d969/6889281e40d9f.preview.jpg?crop=1530%2C803%2C0%2C108&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-07-29 19:37:00",
+      "content": "A cat in a Mechanicsville neighborhood tested positive for rabies this past week. The Chickahominy Health District has notified residents of the Berkley Forest Subdivision that a cat has tested pos\u2026 [+1055 chars]",
+      "retrievedAt": "2025-07-31 07:10:32.047542",
+      "internal_id": "e3e9a4cd1488e96af8d6d328af69e7ec29a27d2d4211a273d1f1f2f6707d7211",
+      "publishedAtLabel": "Jul 29"
+    },
     {
       "id": 23338,
       "query": [
@@ -21623,6 +21714,42 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22144,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "12onyourside.com",
+      "author": "12 On Your Side Digital Team",
+      "title": "Health officials investigating possible measles exposure in Northern Virginia",
+      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
+      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
+      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
+      "publishedAt": "2025-06-15 16:36:17",
+      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
+      "retrievedAt": "2025-06-16 19:06:08.908797",
+      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22143,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
+      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
+      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
+      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
+      "publishedAt": "2025-06-15 09:25:34",
+      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
+      "retrievedAt": "2025-06-16 19:06:07.950040",
+      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]

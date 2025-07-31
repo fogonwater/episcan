@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-07-30 19:07
-- **Most recent article:** 2025-07-29 17:50:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-07-31 07:10
+- **Most recent article:** 2025-07-30 06:00:38
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 53 | 36 | 114 | 64 | 47 | 6 | 347 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 16 | 183 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 16 | 176 |
+| measles | 28 | 53 | 36 | 114 | 64 | 47 | 6 | 348 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 18 | 185 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 17 | 177 |
 | malaria | 23 | 13 | 21 | 29 | 12 | 18 | 7 | 123 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 2 | 105 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 7 | 76 |
-| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 3 | 75 |
+| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 5 | 78 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 8 | 77 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 5 | 51 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
@@ -50,6 +50,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (rabies)
 
+- [3 bats test positive for rabies in New Fairfield](https://www.wfsb.com/2025/07/29/3-bats-test-positive-rabies-new-fairfield/) (WFSB)
+
+- [Cat tests positive for the rabies virus in Mechanicsville](https://richmond.com/news/community/mechanicsville-local/article_f2e867ad-d508-4b72-bbf0-6d42cfa3d969.html) (Richmond.com)
+
 - [Daughter speaks out as Brit woman dies of rabies after being scratched by puppy on holiday](https://www.ladbible.com/news/uk-news/woman-dies-rabies-scratch-daughter-speaks-out-morocco-496235-20250728) (LADbible)
 
 - [Health Ministry dispatches rabies vaccines and antivenin across Nepal](https://english.khabarhub.com/2025/28/488031/) (Khabarhub.com)
@@ -57,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 - [SC takes suo motu cognisance of report over dog bites leading to rabies](https://economictimes.indiatimes.com/news/india/sc-takes-suo-motu-cognisance-of-report-over-dog-bites-leading-to-rabies/articleshow/122946559.cms) (The Times of India)
 
 ## 25-31 (mpox)
+
+- [Experts blame relaxed restrictions as Mpox cases rise in Mombasa](https://www.standardmedia.co.ke/health/health-science/article/2001525614/experts-blame-relaxed-restrictions-as-mpox-cases-rise-in-mombasa) (Standard Digital)
 
 - [Moçambique reforça vigilância fronteiriça para travar Mpox](https://observador.pt/2025/07/29/mocambique-reforca-vigilancia-fronteirica-para-travar-propagacao-de-casos-de-mpox/) (Observador.pt)
 
@@ -114,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (dengue)
 
+- [Ante la explosión de casos a nivel mundial, los expertos recuerdan que el sarampión también viaja: "Debemos conocer si estamos vacunados o no"](https://www.elmundo.es/ciencia-y-salud/salud/2025/07/30/6888d50be9cf4afa138b459e.html) (El Mundo)
+
 - [Caso di dengue nel Vicentino, scatta disinfestazione zona](https://www.ansa.it/veneto/notizie/2025/07/29/caso-di-dengue-nel-vicentino-scatta-disinfestazione-zona_e70a8c2d-4d0d-4a66-b081-cfaa0a3cface.html) (ANSA.it)
 
 - [Caso di dengue nel Vicentino, scatta disinfestazione zona](https://www.ansa.it/sito/notizie/cronaca/2025/07/29/caso-di-dengue-nel-vicentino-scatta-disinfestazione-zona_49e8de2f-59ea-4b65-947b-ee561c207d6c.html) (ANSA.it)
@@ -147,6 +155,10 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Nový vírus sa šíri ako pred 20 rokmi: Chikungunya dorazil do Európy a WHO varuje pred globálnou katastrofou](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/761264-novy-virus-sa-siri-ako-pred-20-rokmi-chikungunya-dorazil-do-europy-a-who-varuje-pred-globalnou-katastrofou/) (Pravda.sk)
+
+- [Ante la explosión de casos a nivel mundial, los expertos recuerdan que el sarampión también viaja: "Debemos conocer si estamos vacunados o no"](https://www.elmundo.es/ciencia-y-salud/salud/2025/07/30/6888d50be9cf4afa138b459e.html) (El Mundo)
 
 - [WHO ostrzega: Pojawiło się ryzyko epidemii w Europie. "Widzimy, że historia się powtarza"](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,32137951,who-ostrzega-pojawilo-sie-ryzyko-epidemii-w-europie-widzimy.html) (Gazeta.pl)
 
@@ -2520,6 +2532,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
+- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
+
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2607,6 +2621,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
+
+- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
