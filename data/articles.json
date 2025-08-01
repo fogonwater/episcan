@@ -1,8 +1,206 @@
 {
-  "last_updated": "2025-08-01 07:11",
-  "count_articles_total": 1218,
-  "count_articles_new": 8,
+  "last_updated": "2025-08-01 19:07",
+  "count_articles_total": 1227,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 23361,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Bureau",
+      "title": "Travelling to US? Get vaccinated to be safe",
+      "description": "Rich Indians travelling to the US are now advised to get vaccinated for diseases like measles. Measles cases in America have reached a 33-year high. Low vaccination rates are the primary cause. Covid disruptions and misinformation contributed to the problem. \u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/travelling-to-us-get-vaccinated-to-be-safe/articleshow/123027173.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-140668,resizemode-75,msid-123027173/opinion/et-editorial/travelling-to-us-get-vaccinated-to-be-safe.jpg",
+      "publishedAt": "2025-07-31 17:49:38",
+      "content": "Getting vaccinated against diseases unheard of at home was something people in 'first world' countries did before travelling to faraway places, especially the tropics. The ability to eradicate illnes\u2026 [+1559 chars]",
+      "retrievedAt": "2025-08-01 19:07:52.380008",
+      "internal_id": "fda2028e9aa04ca3c0f69ce5054c120863dd2f9f5e79392d840cf712d9f4abe6",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23370,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "La OMS advierte a nivel mundial del riesgo de unas enfermedades muy temidas del pasado",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que si los brotes de mpox -antes denominada viruela del mono- no se contienen r\u00e1pidamente ni se interrumpe la transmisi\u00f3n entre humanos, \"siguen representando un riesgo de transmisi\u00f3n comunitaria soste\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13488578/07/25/la-oms-advierte-a-nivel-mundial-del-riesgo-de-unas-enfermedades-muy-temidas-del-pasado.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/6/b/7/mpox-salud.jpg",
+      "publishedAt": "2025-07-31 17:20:04",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que si los brotes de mpox -antes denominada viruela del mono- no se contienen r\u00e1pidamente ni se interrumpe la transmisi\u00f3n entre humanos, \"sig\u2026 [+1728 chars]",
+      "retrievedAt": "2025-08-01 19:07:55.266557",
+      "internal_id": "e59c262ed846ed850113ace7527b407c244383c9dc2776c2f942616ba00bc6ab",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23371,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS alerta sobre el riesgo de transmisi\u00f3n comunitaria sostenida del mpox",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que si los brotes de mpox -antes denominada viruela del mono- no se contienen r\u00e1pidamente ni se interrumpe la transmisi\u00f3n entre humanos, \"siguen representando un riesgo de transmisi\u00f3n comunitaria soste\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-alerta-riesgo-transmision-comunitaria-sostenida-mpox-20250731182058.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250731182058_1200.jpg",
+      "publishedAt": "2025-07-31 16:20:58",
+      "content": "MADRID 31 Jul. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que si los brotes de mpox -antes denominada viruela del mono- no se contienen r\u00e1pidamente ni se interrumpe\u2026 [+1683 chars]",
+      "retrievedAt": "2025-08-01 19:07:55.275473",
+      "internal_id": "5186c0b1f2ed48341283116731d7e4601c24d08cb1714453d1b8a9b1d1dc0165",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23365,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Agastya Mondal, Rushil Anirudh, Prashanth Selvaraj",
+      "title": "Multitask deep learning for the emulation and calibration of an agent-based malaria transmission model",
+      "description": "Author summary Mathematical models can help understand and design interventions for infectious diseases such as malaria, but they can be complex and time-consuming to work with. In this study, we developed a machine learning approach to create a fast and accu\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013330",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013330.g006&size=inline",
+      "publishedAt": "2025-07-31 14:00:00",
+      "content": "Citation: Mondal A, Anirudh R, Selvaraj P (2025) Multitask deep learning for the emulation and calibration of an agent-based malaria transmission model. PLoS Comput Biol 21(7): e1013330. https://d\u2026 [+46017 chars]",
+      "retrievedAt": "2025-08-01 19:07:54.026351",
+      "internal_id": "f343663fe1530301d392caabcae576d114f63788ef947165a8561939a48639f6",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23366,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chukwuka Elendu, Dependable C. Amaechi, Rhoda C. Elendu, Sehajmeet Kaur Saggi, Tochi C. Elendu, Emmanuel C. Amaechi, Ijeoma D. Elendu, Kanishk Dang, Opeyemi P. Amosu, Omoyelemi F. Idowu, Toluwanimi S. Oseni",
+      "title": "Comparative analysis of Egypt\u2019s malaria elimination strategies and implementation science: Pathways to achieve malaria-free status for other African countries",
+      "description": "Background Malaria elimination is a critical public health goal, particularly in Africa, where the disease disproportionately affects vulnerable populations. Egypt\u2019s success in achieving World Health Organization (WHO) malaria-free certification on October 20\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329550",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329550.g002&size=inline",
+      "publishedAt": "2025-07-31 14:00:00",
+      "content": "Introduction and background Malaria, a parasitic disease caused by Plasmodium species and transmitted primarily by Anopheles mosquitoes, remains a significant public health concern across many Afric\u2026 [+51788 chars]",
+      "retrievedAt": "2025-08-01 19:07:54.043077",
+      "internal_id": "c2b12b1229fc834bf49cf91c3f06de63e497c5c6044d561ca3cf20cc70d526e2",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23367,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fernanda Marques da Silva, Rafael Aguiar Marschner, Markus Berger, Thais Fumaco Teixeira, Ana Paula Muterle, Let\u00edcia Rodrigues, Rafael Teixeira Ribeiro, Paulo Michel Roehe, Diogo Onofre Souza, Carlos Alberto Saraiva Gon\u00e7alves, Patr\u00edcia Sesterheim",
+      "title": "Unveiling the cardiovascular impact of Zika Virus: Myocardial injury, prothrombotic state, and oxidative stress in immunocompetent mice",
+      "description": "Author summary Zika virus (ZIKV) is widely known for its neurological complications, especially in newborns. However, this study reveals that ZIKV can also cause significant effects on the heart. Researchers investigated the impact of ZIKV infection on cardia\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013292",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013292.g009&size=inline",
+      "publishedAt": "2025-07-31 14:00:00",
+      "content": "Abstract The Zika virus (ZIKV) has been associated with neurological and cardiovascular complications, including myocarditis, arrhythmias and thrombotic events. This study evaluated the thrombotic a\u2026 [+45930 chars]",
+      "retrievedAt": "2025-08-01 19:07:54.436396",
+      "internal_id": "043fac3a1ce1ec364737aff4249627d493126e0887da063c325670d6941b01d0",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23369,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "In provincia di Imperia diagnosticato un caso di chikungunya",
+      "description": "A un uomo di 56 anni rientrato in provincia di Imperia il 28 luglio scorso dal Bangladesh \u00e8 stato diagnosticato un caso di chikungunya, una malattia virale caratterizzata da febbre acuta e trasmessa dalla puntura di zanzare infette. (ANSA)",
+      "url": "https://www.ansa.it/liguria/notizie/2025/07/31/in-provincia-di-imperia-diagnosticato-un-caso-di-chikungunya_f3e3ab43-bf87-4d8a-92cf-5d05d08ee9e9.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/2/14/31bae61b7a6ea298b00c3a7667e3dbaa.jpg",
+      "publishedAt": "2025-07-31 12:17:06",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-08-01 19:07:54.886063",
+      "internal_id": "fac727b5b773a24f4544c431bb389de7cf9bbbfc69c8608180f7f3162f2f8b01",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23368,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Journal du geek",
+      "author": "Antoine Gautherie",
+      "title": "Apr\u00e8s le chikungunya, le virus du Nil occidental d\u00e9tect\u00e9 en m\u00e9tropole",
+      "description": "Les risques d'\u00e9pid\u00e9mie sont quasiment nuls, mais les agences de sant\u00e9 surveillent activement ces infections dont les formes graves peuvent \u00eatre tr\u00e8s dangereuses.",
+      "url": "https://www.journaldugeek.com/2025/07/31/apres-le-chikungunya-le-virus-du-nil-occidental-detecte-en-metropole/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/07/moustique-1600x900.jpg",
+      "publishedAt": "2025-07-31 11:04:33",
+      "content": "Dans un communiqu\u00e9 relay\u00e9 par France Info, Sant\u00e9 publique France a annonc\u00e9 quun premier cas autochtone de virus du Nil occidental a \u00e9t\u00e9 d\u00e9tect\u00e9 chez un patient nayant pas voyag\u00e9, et qui a donc \u00e9t\u00e9 co\u2026 [+3022 chars]",
+      "retrievedAt": "2025-08-01 19:07:54.737045",
+      "internal_id": "b0db148e8a62d301f9f684d444307c47645a75ac9a78e6d842d90b8ae379e637",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23362,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Fernanda Gonz\u00e1lez",
+      "title": "Measles Cases Are Soaring in Mexico",
+      "description": "The disease has claimed the lives of 12 people in the country this year, with the virus continuing to spread rapidly.",
+      "url": "https://www.wired.com/story/measles-cases-are-soaring-in-mexico/",
+      "urlToImage": "https://media.wired.com/photos/6889f37266518651685b2257/191:100/w_1280,c_limit/sarampion.jpg",
+      "publishedAt": "2025-07-31 10:58:24",
+      "content": "The spread ofmeasles is showing no signs of slowing down in Mexico. Between July 21 and 25, the countrys number of confirmed infections in 2025 rose from 3,553 to 3,730, an increase of 197 in only fo\u2026 [+4010 chars]",
+      "retrievedAt": "2025-08-01 19:07:52.450450",
+      "internal_id": "fd8485372c60234d2a6a2a06c3c64de445b854779c517d9270f118b6386a7329",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23363,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Latest data shows measles cases remain high",
+      "description": "Measles activity has increased since April 2025 and the UKHSA is continuing to oversee the public health risk assessment.",
+      "url": "https://www.gov.uk/government/news/latest-data-shows-measles-cases-remain-high",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/688b4aa2b9eb244980ebe68b/s960_meales_pic.jpg",
+      "publishedAt": "2025-07-31 10:53:31",
+      "content": "The UK Health Security Agency (UKHSA) is today urging parents to prioritise vaccine catch-up appointments during the summer break, with latest data showing continued high levels of measles cases amid\u2026 [+3395 chars]",
+      "retrievedAt": "2025-08-01 19:07:52.459243",
+      "internal_id": "419764d45fabb9baa03a5fd8f6dd2d58dcbf31e86a409f7291900aa165a8036b",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Abc Pacific",
+      "title": "Another child dies from dengue fever as Samoa reports 2,200 cases since January",
+      "description": "A third child has reportedly died from dengue fever in Samoa. There is also an unconfirmed report of a fourth death \u2014 another child.",
+      "url": "https://www.abc.net.au/pacific/denge-fever-samoa-child-death-2200-cases-january/105597238",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7b05cdd693cfb589a4b50ae720b75f62?impolicy=wcms_crop_resize&cropH=584&cropW=1038&xPos=0&yPos=42&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-31 07:47:03",
+      "content": "A third child has reportedly died from dengue fever in Samoa, which has now recorded more than 2,270 cases since the start of the year. In its latest update, for the week of 21-27 July, the Ministr\u2026 [+1417 chars]",
+      "retrievedAt": "2025-08-01 19:07:53.417828",
+      "internal_id": "8b28346ef0e3ad4b4d8758ceee8eb6eedc31f3a28322f2a43a63a2effae9af6f",
+      "publishedAtLabel": "Jul 31"
+    },
     {
       "id": 23356,
       "query": [
@@ -21968,42 +22166,6 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22144,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "12onyourside.com",
-      "author": "12 On Your Side Digital Team",
-      "title": "Health officials investigating possible measles exposure in Northern Virginia",
-      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
-      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
-      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
-      "publishedAt": "2025-06-15 16:36:17",
-      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
-      "retrievedAt": "2025-06-16 19:06:08.908797",
-      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22143,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
-      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
-      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
-      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
-      "publishedAt": "2025-06-15 09:25:34",
-      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
-      "retrievedAt": "2025-06-16 19:06:07.950040",
-      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]

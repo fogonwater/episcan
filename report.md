@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-08-01 07:11
-- **Most recent article:** 2025-07-31 05:27:47
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-08-01 19:07
+- **Most recent article:** 2025-07-31 17:49:38
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 47 | 10 | 352 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 24 | 191 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 20 | 180 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 7 | 123 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 13 | 354 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 26 | 193 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 21 | 181 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 9 | 125 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 2 | 105 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 6 | 79 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 8 | 77 |
-| zika | 14 | 2 | 8 | 12 | 8 | 2 | 6 | 52 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 10 | 79 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 6 | 78 |
+| zika | 14 | 2 | 8 | 12 | 8 | 2 | 7 | 53 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
 | typhoid | 0 | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-31 (zika)
+
+- [Unveiling the cardiovascular impact of Zika Virus: Myocardial injury, prothrombotic state, and oxidative stress in immunocompetent mice](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013292) (Plos.org)
 
 - [Strasbourg : opération de démoustication après l’identification d’un cas de Zika](https://www.franceinfo.fr/france/grand-est/bas-rhin/strasbourg/strasbourg-operation-de-demoustication-apres-l-identification-d-un-cas-de-zika_7408513.html) (Franceinfo.fr)
 
@@ -70,6 +72,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (mpox)
 
+- [La OMS advierte a nivel mundial del riesgo de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13488578/07/25/la-oms-advierte-a-nivel-mundial-del-riesgo-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
+
+- [La OMS alerta sobre el riesgo de transmisión comunitaria sostenida del mpox](https://www.infosalus.com/salud-investigacion/noticia-oms-alerta-riesgo-transmision-comunitaria-sostenida-mpox-20250731182058.html) (Infosalus.com)
+
 - [Experts blame relaxed restrictions as Mpox cases rise in Mombasa](https://www.standardmedia.co.ke/health/health-science/article/2001525614/experts-blame-relaxed-restrictions-as-mpox-cases-rise-in-mombasa) (Standard Digital)
 
 - [Moçambique reforça vigilância fronteiriça para travar Mpox](https://observador.pt/2025/07/29/mocambique-reforca-vigilancia-fronteirica-para-travar-propagacao-de-casos-de-mpox/) (Observador.pt)
@@ -94,6 +100,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (measles)
 
+- [Travelling to US? Get vaccinated to be safe](https://economictimes.indiatimes.com/opinion/et-editorial/travelling-to-us-get-vaccinated-to-be-safe/articleshow/123027173.cms) (The Times of India)
+
+- [Measles Cases Are Soaring in Mexico](https://www.wired.com/story/measles-cases-are-soaring-in-mexico/) (Wired)
+
+- [Latest data shows measles cases remain high](https://www.gov.uk/government/news/latest-data-shows-measles-cases-remain-high) (Www.gov.uk)
+
 - [Renae died from a rare brain disease after getting measles as a baby. Now, her mother wants more children to get vaccines](https://news.sky.com/story/renae-died-from-a-rare-brain-disease-after-getting-measles-as-a-baby-now-her-mother-wants-more-children-to-get-vaccines-13404151) (Sky.com)
 
 - [7 new confirmed measles cases reported in Manitoba last week](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-numbers-new-cases-1.7597656) (CBC News)
@@ -116,6 +128,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (malaria)
 
+- [Multitask deep learning for the emulation and calibration of an agent-based malaria transmission model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013330) (Plos.org)
+
+- [Comparative analysis of Egypt’s malaria elimination strategies and implementation science: Pathways to achieve malaria-free status for other African countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329550) (Plos.org)
+
 - [Scientists are studying ways to make your blood deadly to mosquitos](https://nationalpost.com/news/world/scientists-are-studying-ways-to-make-your-blood-deadly-to-mosquitos) (National Post)
 
 - [First malaria treatment for babies is a major step to ending the disease in Africa - biochemist](https://theconversation.com/first-malaria-treatment-for-babies-is-a-major-step-to-ending-the-disease-in-africa-biochemist-261771) (The Conversation Africa)
@@ -135,6 +151,8 @@ Source: [News API](https://newsapi.org/)
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
 
 ## 25-31 (dengue)
+
+- [Another child dies from dengue fever as Samoa reports 2,200 cases since January](https://www.abc.net.au/pacific/denge-fever-samoa-child-death-2200-cases-january/105597238) (ABC News (AU))
 
 - [Paese che vai, zanzara che trovi: origine e differenze di Dengue, Chikungunya e West Nile](https://www.ilsole24ore.com/art/paese-che-vai-zanzara-che-trovi-origine-e-differenze-dengue-chikungunya-e-west-nile-AH8PsPyB) (Il Sole 24 Ore)
 
@@ -177,6 +195,10 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [In provincia di Imperia diagnosticato un caso di chikungunya](https://www.ansa.it/liguria/notizie/2025/07/31/in-provincia-di-imperia-diagnosticato-un-caso-di-chikungunya_f3e3ab43-bf87-4d8a-92cf-5d05d08ee9e9.html) (ANSA.it)
+
+- [Après le chikungunya, le virus du Nil occidental détecté en métropole](https://www.journaldugeek.com/2025/07/31/apres-le-chikungunya-le-virus-du-nil-occidental-detecte-en-metropole/) (Journal du geek)
 
 - [Paese che vai, zanzara che trovi: origine e differenze di Dengue, Chikungunya e West Nile](https://www.ilsole24ore.com/art/paese-che-vai-zanzara-che-trovi-origine-e-differenze-dengue-chikungunya-e-west-nile-AH8PsPyB) (Il Sole 24 Ore)
 
@@ -2566,8 +2588,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2655,8 +2675,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
