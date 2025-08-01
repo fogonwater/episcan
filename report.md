@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-07-31 19:08
-- **Most recent article:** 2025-07-30 18:41:27
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-08-01 07:11
+- **Most recent article:** 2025-07-31 05:27:47
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 53 | 36 | 114 | 64 | 47 | 8 | 349 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 20 | 187 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 19 | 179 |
+| measles | 28 | 53 | 36 | 114 | 64 | 47 | 10 | 352 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 24 | 191 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 20 | 180 |
 | malaria | 23 | 13 | 21 | 29 | 12 | 18 | 7 | 123 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 2 | 105 |
-| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 6 | 78 |
+| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 6 | 79 |
 | mpox | 10 | 27 | 10 | 6 | 7 | 9 | 8 | 77 |
+| zika | 14 | 2 | 8 | 12 | 8 | 2 | 6 | 52 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
-| zika | 14 | 2 | 8 | 12 | 8 | 2 | 5 | 51 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
 | typhoid | 0 | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
 | hpai | 1 | 0 | 4 | 3 | 2 | 1 | 0 | 11 |
-| pertussis | 2 | 0 | 0 | 0 | 4 | 3 | 0 | 9 |
+| pertussis | 2 | 0 | 0 | 0 | 4 | 3 | 1 | 10 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-31 (zika)
+
+- [Strasbourg : opération de démoustication après l’identification d’un cas de Zika](https://www.franceinfo.fr/france/grand-est/bas-rhin/strasbourg/strasbourg-operation-de-demoustication-apres-l-identification-d-un-cas-de-zika_7408513.html) (Franceinfo.fr)
 
 - [Contra a dengue, DF começa a usar aedes aegypti infectado com bactéria](https://www.metropoles.com/distrito-federal/contra-a-dengue-df-comeca-a-usar-aedes-aegypti-infectado-com-bacteria) (Metropoles.com)
 
@@ -62,6 +64,10 @@ Source: [News API](https://newsapi.org/)
 
 - [SC takes suo motu cognisance of report over dog bites leading to rabies](https://economictimes.indiatimes.com/news/india/sc-takes-suo-motu-cognisance-of-report-over-dog-bites-leading-to-rabies/articleshow/122946559.cms) (The Times of India)
 
+## 25-31 (pertussis)
+
+- [New data show whooping cough cases on the rise in South Carolina](https://www.wyff4.com/article/south-carolina-whooping-cough-cases-rise/65557186) (WYFF4 Greenville)
+
 ## 25-31 (mpox)
 
 - [Experts blame relaxed restrictions as Mpox cases rise in Mombasa](https://www.standardmedia.co.ke/health/health-science/article/2001525614/experts-blame-relaxed-restrictions-as-mpox-cases-rise-in-mombasa) (Standard Digital)
@@ -87,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 - [La amarga Eurocopa de Aitana Bonmatí: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin título](https://www.eldiario.es/spin/deportes/amarga-eurocopa-aitana-bonmati-hospital-meningitis-mejor-jugadora-eurocopa-titulo-pm_1_12496955.html) (Eldiario.es)
 
 ## 25-31 (measles)
+
+- [Renae died from a rare brain disease after getting measles as a baby. Now, her mother wants more children to get vaccines](https://news.sky.com/story/renae-died-from-a-rare-brain-disease-after-getting-measles-as-a-baby-now-her-mother-wants-more-children-to-get-vaccines-13404151) (Sky.com)
+
+- [7 new confirmed measles cases reported in Manitoba last week](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-numbers-new-cases-1.7597656) (CBC News)
 
 - [2 new exposure sites identified as measles cluster grows in N.S.](https://www.cbc.ca/news/canada/nova-scotia/exposure-sites-measles-cluster-grows-1.7597295) (CBC News)
 
@@ -125,6 +135,8 @@ Source: [News API](https://newsapi.org/)
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
 
 ## 25-31 (dengue)
+
+- [Paese che vai, zanzara che trovi: origine e differenze di Dengue, Chikungunya e West Nile](https://www.ilsole24ore.com/art/paese-che-vai-zanzara-che-trovi-origine-e-differenze-dengue-chikungunya-e-west-nile-AH8PsPyB) (Il Sole 24 Ore)
 
 - [4 confirmed cases of ‘locally acquired’ dengue found in Brevard County, DOH says](https://www.clickorlando.com/news/local/2025/07/30/4-confirmed-cases-of-locally-acquired-dengue-found-in-brevard-county-doh-says/) (WKMG News 6 & ClickOrlando)
 
@@ -165,6 +177,14 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Paese che vai, zanzara che trovi: origine e differenze di Dengue, Chikungunya e West Nile](https://www.ilsole24ore.com/art/paese-che-vai-zanzara-che-trovi-origine-e-differenze-dengue-chikungunya-e-west-nile-AH8PsPyB) (Il Sole 24 Ore)
+
+- [內地基孔肯雅熱疫情急升 美國疾控中心擬發出旅遊警示](https://www.inmediahk.net/node/%E5%9C%8B%E9%9A%9B/%E5%85%A7%E5%9C%B0%E5%9F%BA%E5%AD%94%E8%82%AF%E9%9B%85%E7%86%B1%E7%96%AB%E6%83%85%E6%80%A5%E5%8D%87-%E7%BE%8E%E5%9C%8B%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83%E6%93%AC%E7%99%BC%E5%87%BA%E6%97%85%E9%81%8A%E8%AD%A6%E7%A4%BA) (Inmediahk.net)
+
+- [Ενδεχόμενο ταξιδιωτικής σύστασης από τις ΗΠΑ στην Κίνα λόγω της έξαρσης του ιού Τσικουνγκούνια](https://www.skai.gr/news/world/endexomeno-taksidiotikis-systasis-apo-tis-ipa-stin-kina-logo-tis-eksarsis-tou-iou-tsikoung) (Skai.gr)
+
+- [Οι ΗΠΑ εξετάζουν ταξιδιωτική σύσταση για την Κίνα λόγω της έξαρσης του ιού Τσικουνγκούνια](https://www.newsit.gr/kosmos/oi-ipa-eksetazoun-taksidiotiki-systasi-gia-tin-kina-logo-tis-eksarsis-tou-iou-tsikoungkounia/4441972/) (Newsit.gr)
 
 - [Dengue e chikungunya encurtaram vidas em até 22 anos no Brasil](https://veja.abril.com.br/saude/dengue-e-chikungunya-encurtaram-vidas-em-ate-22-anos-no-brasil/) (Abril.com.br)
 
@@ -2546,6 +2566,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
+- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
+
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2633,6 +2655,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
+
+- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 

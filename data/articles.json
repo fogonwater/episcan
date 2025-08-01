@@ -1,8 +1,153 @@
 {
-  "last_updated": "2025-07-31 19:08",
-  "count_articles_total": 1208,
-  "count_articles_new": 6,
+  "last_updated": "2025-08-01 07:11",
+  "count_articles_total": 1218,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 23356,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": "di Ernesto Diffidenti",
+      "title": "Paese che vai, zanzara che trovi: origine e differenze di Dengue, Chikungunya e West Nile",
+      "description": "Un tempo queste infezioni venivano definite \u201cesotiche\u201d o \u201crare\u201d: non esistono terapie specifiche, la prevenzione resta l\u2019arma migliore per difendersi dai contagi",
+      "url": "https://www.ilsole24ore.com/art/paese-che-vai-zanzara-che-trovi-origine-e-differenze-dengue-chikungunya-e-west-nile-AH8PsPyB",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/07/31/Immagini/Ritagli/209b25d929403634bdb4e4d529c4b9b9-U72306542203foE-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-07-31 05:27:47",
+      "content": "Ad oggi non ci sono cure e i trattamenti sono sintomatici anche se recentemente \u00e8 stato approvato un vaccino negli Usa, non disponibile in Europa. Il virus della Dengue ha come ospite principale luo\u2026 [+2752 chars]",
+      "retrievedAt": "2025-08-01 07:11:51.636227",
+      "internal_id": "1cb3f78d780c7b527227ec04e1417e8ed65d0e57dd55b688e1b67f257621392c",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23358,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Inmediahk.net",
+      "author": "\u7368\u5a92\u5831\u5c0e",
+      "title": "\u5167\u5730\u57fa\u5b54\u80af\u96c5\u71b1\u75ab\u60c5\u6025\u5347 \u7f8e\u570b\u75be\u63a7\u4e2d\u5fc3\u64ec\u767c\u51fa\u65c5\u904a\u8b66\u793a",
+      "description": "\u5167\u5bb9: \u570b\u969b \u4e2d\u570b \u81ea\u7531\u6a19\u7c64: \u7368\u5a92\u5831\u5c0e \u57fa\u5b54\u80af\u96c5\u71b1 \u4f5b\u5c71 \u868a\u60a3 \u885e\u751f\u9632\u8b77\u4e2d\u5fc3 \u3010\u7368\u5a92\u5831\u5c0e\u3011 \u300c\u57fa\u5b54\u80af\u96c5\u71b1\u300d\u75ab\u60c5\u5728\u5167\u5730\u7206\u767c\uff0c\u4e16\u754c\u885e\u751f\u7d44\u7e54\u65e9\u524d\u8b66\u544a\u5404\u570b\u505a\u597d\u61c9\u5c0d\u6e96\u5099\uff0c\u907f\u514d\u75ab\u60c5\u5927\u898f\u6a21\u7206\u767c\u3002\u76ee\u524d\u5728\u5167\u5730\uff0c\u55ae\u8a08\u4f5b\u5c71\u5e02\u5df2\u9304\u5f97\u8d85\u904e5,600\u5b97\u75c5\u4f8b\uff0c\u800c\u5728\u9130\u8fd1\u9999\u6e2f\u7684\u6df1\u5733\u4ea6\u9304\u9996\u5b97\u500b\u6848\u3002\u7f8e\u570b\u75be\u75c5\u63a7\u5236\u548c\u9810\u9632\u4e2d\u5fc3\uff08CDC\uff09\u5411\u5f6d\u535a\u793e\u8868\u793a\uff0c\u5df2\u6ce8\u610f\u5230\u4e2d\u570b\u5ee3\u6771\u7701\u5831\u544a\u7684\u57fa\u5b54\u80af\u96c5\u71b1\u75ab\u60c5\uff0c\u6b63\u8a55\u4f30\u75ab\u60c5\u898f\u6a21\u53ca\u7bc4\u570d\uff0c\u5831\u9053\u53c8\u6307CDC\u6b63\u8a08\u5283\u5411\u4e2d\u570b\u767c\u51fa\u65c5\u904a\u8b66\u793a\u3002 \u57fa\u5b54\u80af\u96c5\u71b1\uff08Chikungunya Fever\uff09\u53c8\u7a31\u300c\u5c48\u516c\u75c5\u300d\uff0c\u8981\u900f\u904e\u868a\u53ee\u54ac\u2026",
+      "url": "https://www.inmediahk.net/node/%E5%9C%8B%E9%9A%9B/%E5%85%A7%E5%9C%B0%E5%9F%BA%E5%AD%94%E8%82%AF%E9%9B%85%E7%86%B1%E7%96%AB%E6%83%85%E6%80%A5%E5%8D%87-%E7%BE%8E%E5%9C%8B%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83%E6%93%AC%E7%99%BC%E5%87%BA%E6%97%85%E9%81%8A%E8%AD%A6%E7%A4%BA",
+      "urlToImage": "https://www.inmediahk.net/files/column_images/20250731nhkjghjjkh.png",
+      "publishedAt": "2025-07-31 03:25:52",
+      "content": "5,600CDCCDC Chikungunya Fever1952 6 5,6002964 202014",
+      "retrievedAt": "2025-08-01 07:11:52.831191",
+      "internal_id": "bf087265de893ae7fac8f03fc615fad1655db1805be57e00fd59e9caba108f3b",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23353,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Zach Rainey",
+      "title": "New data show whooping cough cases on the rise in South Carolina",
+      "description": "South Carolina has reported a rise in pertussis cases, with Spartanburg County having the highest number.",
+      "url": "https://www.wyff4.com/article/south-carolina-whooping-cough-cases-rise/65557186",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/whoop-688aca8b019a9.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-07-31 01:54:31",
+      "content": "GREENVILLE, S.C. \u2014The South Carolina Department of Public Health reports an increase in pertussis cases, commonly known as whooping cough, with 183 cases statewide as of July 30, up from 147 cases at\u2026 [+2596 chars]",
+      "retrievedAt": "2025-08-01 07:11:50.340185",
+      "internal_id": "8ab43635ca4d8149a1d4a7f207adde4d8d2e00be40b046f3c0a4dfa436525444",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23354,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Greg Milam",
+      "title": "Renae died from a rare brain disease after getting measles as a baby. Now, her mother wants more children to get vaccines",
+      "description": "The mother of a 10-year-old girl who died from complications of measles has urged parents to have their children vaccinated amid a surge of cases.",
+      "url": "https://news.sky.com/story/renae-died-from-a-rare-brain-disease-after-getting-measles-as-a-baby-now-her-mother-wants-more-children-to-get-vaccines-13404151",
+      "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-renae-archer-greg-milam_6978237.png?20250730172225",
+      "publishedAt": "2025-07-31 01:18:00",
+      "content": "The mother of a 10-year-old girl who died from complications of measles has urged parents to have their children vaccinated amid a surge of cases. Renae Archer was too young to have the MMR vaccine \u2026 [+3750 chars]",
+      "retrievedAt": "2025-08-01 07:11:50.988706",
+      "internal_id": "afe6100d890f062d1e4f72c93689305253e5b23b70961d8a5f575d080d52634c",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 23359,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0395\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03a4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1",
+      "description": "\u039f \u03b9\u03cc\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf\u03c2, \u03c9\u03c3\u03c4\u03cc\u03c3\u03bf \u03bc\u03b9\u03ba\u03c1\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03b5\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03c0\u03b9\u03c0\u03bb\u03bf\u03ba\u03ad\u03c2 \u03ae \u03c7\u03c1\u03cc\u03bd\u03b9\u03b5\u03c2 \u03c0\u03b1\u03b8\u03ae\u03c3\u03b5\u03b9\u03c2 - \u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1",
+      "url": "https://www.skai.gr/news/world/endexomeno-taksidiotikis-systasis-apo-tis-ipa-stin-kina-logo-tis-eksarsis-tou-iou-tsikoung",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/ap23330475842804-china-ios.jpg?itok=UJTqZRDv",
+      "publishedAt": "2025-07-30 21:06:52",
+      "content": "(CDC) , , Bloomberg. \u00ab CDC ( ) \u00bb, Bloomberg News . (Chikungunya) . , , . , . .Skai.gr Google News .",
+      "retrievedAt": "2025-08-01 07:11:52.840626",
+      "internal_id": "6af045d95643b53769dbb88ecb998a6af8acdaa7ec8c1a1860c16f7d9d1a4b86",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23360,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0391\u03b8\u03b7\u03bd\u03ac \u03a3\u03ba\u03bf\u03c1\u03b4\u03b9\u03b1\u03bb\u03bf\u03cd",
+      "title": "\u039f\u03b9 \u0397\u03a0\u0391 \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03bf\u03c5\u03bd \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03c3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03a4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1",
+      "description": "\u03a4\u03b1 \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ac \u039a\u03ad\u03bd\u03c4\u03c1\u03b1 \u0395\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7\u03c2 \u039d\u03bf\u03c3\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd (CDC) \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03bf\u03c5\u03bd \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03bd\u03b1 \u03b5\u03ba\u03b4\u03ce\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03c3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b1\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03a4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u039f\u03b9 \u0397\u03a0\u0391 \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03bf\u03c5\u03bd \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03c3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03ad\u03be\u03b1\u03c1\u2026",
+      "url": "https://www.newsit.gr/kosmos/oi-ipa-eksetazoun-taksidiotiki-systasi-gia-tin-kina-logo-tis-eksarsis-tou-iou-tsikoungkounia/4441972/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/07/ap-chikungunya-1200x630.jpg",
+      "publishedAt": "2025-07-30 20:58:21",
+      "content": "(CDC) , , Bloomberg. \u00ab CDC ( ) \u00bb, Bloomberg News . (Chikungunya) . , , . , .",
+      "retrievedAt": "2025-08-01 07:11:52.880505",
+      "internal_id": "73af35e5be2696392cb4921e5399b47f2e6800aeb33d9db6132c3384c192bf68",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23355,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "7 new confirmed measles cases reported in Manitoba last week",
+      "description": "Manitoba has reported seven more measles cases, bringing the total number of confirmed infections in the province to 165 so far this year.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-numbers-new-cases-1.7597656",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1746114627!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-30 20:34:28",
+      "content": "Manitoba has reported seven more measles cases, bringing the total number of confirmed infections in the province to 165 so far this year. According to the province's most recent data, which was pos\u2026 [+2402 chars]",
+      "retrievedAt": "2025-08-01 07:11:51.028901",
+      "internal_id": "ae1ba994b7a46e417e716af93b5d38f6aeb619807486a57352e763669357bcce",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 23357,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Strasbourg : op\u00e9ration de d\u00e9moustication apr\u00e8s l\u2019identification d\u2019un cas de Zika",
+      "description": "Un cas de Zika a \u00e9t\u00e9 identifi\u00e9 en Alsace, chez quelqu\u2019un qui revenait d\u2019une zone tropicale. Pour limiter la propagation, une op\u00e9ration de d\u00e9moustication a \u00e9t\u00e9 men\u00e9e dans la nuit du mardi 29 au mercredi 30 juillet.",
+      "url": "https://www.franceinfo.fr/france/grand-est/bas-rhin/strasbourg/strasbourg-operation-de-demoustication-apres-l-identification-d-un-cas-de-zika_7408513.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/RsJfw04paI7wwIbW4NUK6BrJkSc/0x0:1920x1080/1500x843/2025/07/30/video-77-688a7c9fa2b26997116461.jpg",
+      "publishedAt": "2025-07-30 20:17:04",
+      "content": "Un cas de Zika a \u00e9t\u00e9 identifi\u00e9 en Alsace, chez quelquun qui revenait dune zone tropicale. Pour limiter la propagation, une op\u00e9ration de d\u00e9moustication a \u00e9t\u00e9 men\u00e9e dans la nuit du mardi 29 au mercredi\u2026 [+2130 chars]",
+      "retrievedAt": "2025-08-01 07:11:52.597482",
+      "internal_id": "26d403a13e0ffc89df69d5bbb44f4084beabfdbc5d1609d0ae9a0d428d7ea44a",
+      "publishedAtLabel": "Jul 30"
+    },
     {
       "id": 23351,
       "query": [
@@ -21823,6 +21968,42 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22144,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "12onyourside.com",
+      "author": "12 On Your Side Digital Team",
+      "title": "Health officials investigating possible measles exposure in Northern Virginia",
+      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
+      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
+      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
+      "publishedAt": "2025-06-15 16:36:17",
+      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
+      "retrievedAt": "2025-06-16 19:06:08.908797",
+      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
+      "publishedAtLabel": "Jun 15"
+    },
+    {
+      "id": 22143,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
+      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
+      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
+      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
+      "publishedAt": "2025-06-15 09:25:34",
+      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
+      "retrievedAt": "2025-06-16 19:06:07.950040",
+      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]
