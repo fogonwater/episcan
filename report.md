@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-08-01 19:07
-- **Most recent article:** 2025-07-31 17:49:38
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-08-02 07:07
+- **Most recent article:** 2025-08-01 06:23:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 53 | 36 | 114 | 64 | 47 | 13 | 354 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 26 | 193 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 21 | 181 |
+| measles | 28 | 53 | 36 | 114 | 64 | 47 | 15 | 357 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 28 | 195 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 23 | 183 |
 | malaria | 23 | 13 | 21 | 29 | 12 | 18 | 9 | 125 |
-| meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 2 | 105 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 10 | 79 |
-| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 6 | 78 |
+| meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 3 | 106 |
+| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 7 | 80 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 11 | 80 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 7 | 53 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
@@ -54,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (rabies)
 
+- [Wild bat encounter leaves woman with $35K medical bill after insurance missteps](https://www.washingtonpost.com/wellness/2025/07/31/rabies-vaccine-cost/) (The Washington Post)
+
 - [Woman Opens Door to 'a Giant Ball of Viciousness'](https://www.newser.com/story/372688/woman-opens-door-to-a-giant-ball-of-viciousness.html) (Newser)
 
 - [3 bats test positive for rabies in New Fairfield](https://www.wfsb.com/2025/07/29/3-bats-test-positive-rabies-new-fairfield/) (WFSB)
@@ -71,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [New data show whooping cough cases on the rise in South Carolina](https://www.wyff4.com/article/south-carolina-whooping-cough-cases-rise/65557186) (WYFF4 Greenville)
 
 ## 25-31 (mpox)
+
+- [OMS advierte de contagio masivo por viruela del mono, ¿México está en riesgo?](https://www.excelsior.com.mx/salud/oms-advierte-de-contagio-masivo-por-viruela-del-mono-mexico-esta-en-riesgo/1730281) (Excelsior.com.mx)
 
 - [La OMS advierte a nivel mundial del riesgo de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13488578/07/25/la-oms-advierte-a-nivel-mundial-del-riesgo-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
 
@@ -94,11 +98,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (meningitis)
 
+- [Texans DL Sheldon Rankins details battle with viral meningitis and shingles](https://texanswire.usatoday.com/story/sports/nfl/texans/2025/07/31/houston-texans-sheldon-rankins-battle-viral-meningitis-shingles-demeco-ryans/85463730007/) (USA Today)
+
 - [Texans' Sheldon Rankins details frightening bout with meningitis, shingles during 2024 season](https://www.cbssports.com/nfl/news/texans-sheldon-rankins-details-frightening-bout-with-meningitis-shingles-during-2024-season/) (CBS Sports)
 
 - [La amarga Eurocopa de Aitana Bonmatí: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin título](https://www.eldiario.es/spin/deportes/amarga-eurocopa-aitana-bonmati-hospital-meningitis-mejor-jugadora-eurocopa-titulo-pm_1_12496955.html) (Eldiario.es)
 
 ## 25-31 (measles)
+
+- [Manitoba Health warns of measles exposure at emergency room, Winkler medical centre](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-sites-winkler-1.7599047) (CBC News)
+
+- [Record share of US kindergartners missed required vaccinations last year, ahead of surge in measles cases | CNN](https://www.cnn.com/2025/07/31/health/vaccination-school-requirements-cdc) (CNN)
 
 - [Travelling to US? Get vaccinated to be safe](https://economictimes.indiatimes.com/opinion/et-editorial/travelling-to-us-get-vaccinated-to-be-safe/articleshow/123027173.cms) (The Times of India)
 
@@ -152,6 +162,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (dengue)
 
+- [Dengue fever outbreak in Pacific: Kiwi travellers told to get insurance including medical evacuation](https://www.nzherald.co.nz/talanoa/dengue-fever-outbreak-in-pacific-kiwi-travellers-told-to-get-insurance-including-medical-evacuation/NT43ZEBSJRE7ZEHCXCFBOYNGMU/) (New Zealand Herald)
+
+- [Brazil aims to reduce dengue with modified mosquitoes](https://www.npr.org/2025/07/31/nx-s1-5432709/brazil-aims-to-reduce-dengue-with-modified-mosquitoes) (NPR)
+
 - [Another child dies from dengue fever as Samoa reports 2,200 cases since January](https://www.abc.net.au/pacific/denge-fever-samoa-child-death-2200-cases-january/105597238) (ABC News (AU))
 
 - [Paese che vai, zanzara che trovi: origine e differenze di Dengue, Chikungunya e West Nile](https://www.ilsole24ore.com/art/paese-che-vai-zanzara-che-trovi-origine-e-differenze-dengue-chikungunya-e-west-nile-AH8PsPyB) (Il Sole 24 Ore)
@@ -195,6 +209,10 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Óriás kannibál szúnyogokat használ fel Kína a rettegett kórokozó ellen](https://www.portfolio.hu/gazdasag/20250801/orias-kannibal-szunyogokat-hasznal-fel-kina-a-rettegett-korokozo-ellen-777623) (Portfolio.hu)
+
+- [Level 2 - Chikungunya in China](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-china) (Cdc.gov)
 
 - [In provincia di Imperia diagnosticato un caso di chikungunya](https://www.ansa.it/liguria/notizie/2025/07/31/in-provincia-di-imperia-diagnosticato-un-caso-di-chikungunya_f3e3ab43-bf87-4d8a-92cf-5d05d08ee9e9.html) (ANSA.it)
 
@@ -2588,6 +2606,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
+- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
+
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2675,6 +2695,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
+
+- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
