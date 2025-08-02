@@ -1,8 +1,337 @@
 {
-  "last_updated": "2025-08-02 07:07",
-  "count_articles_total": 1238,
-  "count_articles_new": 9,
+  "last_updated": "2025-08-02 19:05",
+  "count_articles_total": 1254,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 23381,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "KumKum Dasgupta",
+      "title": "Stop blaming the dog \u2014 it\u2019s the policy that bites",
+      "description": "Delhi's civic body will launch a sterilisation and vaccination drive for street dogs. India reported many dog bite cases and rabies deaths this year. Remarks against dog feeders are unfortunate. Feeding dogs is not illegal. The rise in dog bite cases is a pol\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/stop-blaming-the-dog-its-the-policy-that-bites/articleshow/123050875.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-80860,resizemode-75,msid-123050875/opinion/et-commentary/stop-blaming-the-dog-its-the-policy-that-bites.jpg",
+      "publishedAt": "2025-08-01 18:59:55",
+      "content": "Starting August 5, Delhi's civic body will launch a month-long drive to sterilise and vaccinate street dogs in 12 constituencies, aiming for 70-80% coverage. It's the right approach to solving the 'h\u2026 [+5291 chars]",
+      "retrievedAt": "2025-08-02 19:05:52.921522",
+      "internal_id": "61123b64eecf7e0d67816fb387965b9e0634344be95b3197a7ad4bbd838e5606",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23382,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 Atlanta",
+      "author": "Dan Raby",
+      "title": "Rabid fox attacks child in Peachtree City neighborhood",
+      "description": "The rabid fox crawled out from under the Peachtree City mom's car and bit one of her children while they tried to run inside, health officials say.",
+      "url": "https://www.fox5atlanta.com/news/rabid-fox-attacks-child-peachtree-city-neighborhood",
+      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/08/1280/720/fox-4489001_1280.jpg?ve=1&tl=1",
+      "publishedAt": "2025-08-01 18:10:34",
+      "content": "PEACHTREE CITY, Ga. - Georgia health officials are warning residents of Peachtree City after a fox tested positive for rabies after biting a child multiple times. Officials say the animal had been s\u2026 [+2136 chars]",
+      "retrievedAt": "2025-08-02 19:05:52.962930",
+      "internal_id": "be6d88c71626c08bd0be0a392fd3629ff40dd486a1bad847fd6b5a02f0a453da",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23384,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "N.S. child admitted to the IWK with measles",
+      "description": "Public Health says the child is one of dozens of people who became sick with measles in Nova Scotia's northern zone. There are now 44 cases in the community.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-child-admitted-to-the-iwk-with-measles-1.7599753",
+      "urlToImage": "https://i.cbc.ca/1.7508947.1744474099!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-01 18:05:49",
+      "content": "A child from northern Nova Scotia has been admitted to the IWK Health Centre with measles. This marks the first hospitalization connected to the cluster of cases in that part of the province. Public\u2026 [+1638 chars]",
+      "retrievedAt": "2025-08-02 19:05:53.432860",
+      "internal_id": "00f44c4d07677f06e5345f14cfbf655ec165db253fd054d3b91fbb00e384eebd",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23397,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Chrispinus Omar, Li Zhuoqun",
+      "title": "Kenya steps up surveillance as mpox cases rise to 314 with 5 deaths",
+      "description": "NAIROBI, Aug. 1 (Xinhua) -- Kenya's Ministry of Health said on Friday that 314 cases of mpox and five deaths have been recorded across the country since the outbreak began in July 2024. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/08/02/kenya-steps-up-surveillance-as-mpox-cases-rise-to-314-with-5-deaths",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-08-01 16:58:00",
+      "content": "NAIROBI, Aug. 1 (Xinhua) -- Kenya's Ministry of Health said on Friday that 314 cases of mpox and five deaths have been recorded across the country since the outbreak began in July 2024. Health Cabi\u2026 [+2045 chars]",
+      "retrievedAt": "2025-08-02 19:05:56.232036",
+      "internal_id": "70c289353ab8d52b20046eb7ab692c1739abdb5a7cbea7082ba37d855c4950b4",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23389,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Times Of India",
+      "title": "Dengue, chikungunya cases in Mumbai see 500% spike in a month",
+      "description": "Mumbai: Hospitals reported a significant surge in vector-borne diseases over the past month compared to June. Across the city, malaria cases topped, w.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/dengue-chikungunya-cases-in-mumbai-see-500-spike-in-a-month/articleshow/123047697.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117518358,width-1070,height-580,imgsize-391999,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-08-01 16:31:55",
+      "content": "Step-by-step sewing guide to make a dress from your old curtains",
+      "retrievedAt": "2025-08-02 19:05:54.271013",
+      "internal_id": "40f98a6aadc842afa63347fe2f6ae2a9ec0199b3057c511b80ecb7eb9ce264df",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23386,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ndtvprofit.com",
+      "author": "PTI",
+      "title": "Mumbai Records Rise In Malaria, Dengue, Hepatitis Cases In January-July",
+      "description": "Mumbai, which saw an early arrival of monsoon this year, has recorded an uptick in malaria, dengue, chikungunya and hepatitis cases during January-July as compared to the same period of the previous year, the city civic body said on Friday. However, a decline\u2026",
+      "url": "https://www.ndtvprofit.com/nation/mumbai-records-rise-in-malaria-dengue-hepatitis-cases-in-january-july",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-01%2Fn7u8cmxr%2Fphoto-1564732005956-20420ebdab60.avif?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2025-08-01 16:24:31",
+      "content": "Mumbai, which saw an early arrival of monsoon this year, has recorded an uptick in malaria, dengue, chikungunya and hepatitis cases during January-July as compared to the same period of the previous \u2026 [+246 chars]",
+      "retrievedAt": "2025-08-02 19:05:54.231742",
+      "internal_id": "1af683cc7c7547eac3e85644a4a65b736cea8d070b20d3933cfd9dfaa501e37f",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23388,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Garau)",
+      "title": "West Nile, come proteggersi: tutte le leggende metropolitane sulle zanzare",
+      "description": "Dalle luci spente alla citronella fino ad arrivare al sangue dolce, le credenze popolari ancora diffuse",
+      "url": "https://www.ilgiornale.it/news/nazionale/west-nile-proteggersi-tutte-leggende-metropolitane-sulle-2518165.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/01/1754063005-zanzara.jpg?_=1754063005",
+      "publishedAt": "2025-08-01 16:16:38",
+      "content": "Le infezioni da West Nile, Dengue e Chikungunya tornano spesso al centro dell'attenzione mediatica in concomitanza con l'incremento periodico di casi a cui dovremmo essere ormai abituati negli ultimi\u2026 [+3247 chars]",
+      "retrievedAt": "2025-08-02 19:05:54.255657",
+      "internal_id": "0333708afbb1b59b3361f0f8f5edcc4a688f074cb3bc81ee0ede5dc6d5cd6ffd",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23395,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Fatih Yoncal\u0131k",
+      "title": "\u00c7in\u2019de \u00f6l\u00fcmc\u00fcl vir\u00fcs alarm\u0131! ABD\u2019den seyahat uyar\u0131s\u0131!",
+      "description": "\u00c7in\u2019de h\u0131zla yay\u0131lan chikungunya vir\u00fcs\u00fc nedeniyle ABD Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (CDC) \u00fclkeye seyahat edecek vatanda\u015flar i\u00e7in uyar\u0131 yay\u0131mlama karar\u0131 ald\u0131. \u015euana kadar 16 \u00fclkede 240 bin vaka, 90 \u00f6l\u00fcm kayda ge\u00e7ti.",
+      "url": "https://www.haber7.com/dunya/haber/3551843-cinde-olumcul-virus-alarmi-abdden-seyahat-uyarisi",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720/haber/haber7/bigmanset/2025/31/cinde_olumcul_virus_alarmi_abdden_seyahat_uyarisi_1754052412_5759.jpg",
+      "publishedAt": "2025-08-01 14:18:00",
+      "content": "Bloombergin aktardna g\u00f6re, temmuz banda tespit edilen ilk vakann ardndan \u00c7in genelinde yaklak 5 bin vaka kaytlara ge\u00e7ti. Bu vakalarn neredeyse 3 bini, Hong Konga komu olan Guangdong Eyaletinde sadec\u2026 [+1933 chars]",
+      "retrievedAt": "2025-08-02 19:05:55.805661",
+      "internal_id": "37a6e75692fd5b50a68e9d9a67bb2097903dd02c53a83b2947a74cbc9037e380",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23390,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chanida Chumchanchira, Wannapa Sornjai, Sittiruk Roytrakul, Pathrapol Lithanatudom, Duncan R. Smith",
+      "title": "Increased expression of chaperone proteins in response to DENV 2 infection of Huh-7 liver cells",
+      "description": "The mosquito transmitted dengue virus (DENV; family Flaviviridae, genus Orthoflavivirus, species Orthoflavivirus denguei) is a significant public health problem in many tropical and subtropical countries around the world. Human infection by DENV is predominan\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329783",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329783.g003&size=inline",
+      "publishedAt": "2025-08-01 14:00:00",
+      "content": "Abstract The mosquito transmitted dengue virus (DENV; family Flaviviridae, genus Orthoflavivirus, species Orthoflavivirus denguei) is a significant public health problem in many tropical and subtrop\u2026 [+36205 chars]",
+      "retrievedAt": "2025-08-02 19:05:54.279419",
+      "internal_id": "534e361fffcc4da8ae79c13ac69cb8de2a9cc7de7653960415a366a76499a8a3",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23393,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Singularity Hub",
+      "author": "Shelly Fan",
+      "title": "These Genetically Engineered Mosquitoes Could Wipe Out Malaria",
+      "description": "A new gene drive blocks malaria in generations of mosquitoes. The post These Genetically Engineered Mosquitoes Could Wipe Out Malaria appeared first on SingularityHub.",
+      "url": "https://singularityhub.com/2025/08/01/these-genetically-engineered-mosquitoes-could-wipe-out-malaria/",
+      "urlToImage": "https://singularityhub.com/uploads/2025/07/mosquito-up-close-blue-cloth.jpeg?auto=webp",
+      "publishedAt": "2025-08-01 14:00:00",
+      "content": "Summer barbecues have a special place in my heart. The smell of charcoal-grilled burgers. Ice-cold fizzy drinks. Music, laughsand the incessant buzzing of mosquitoes. While mostly a nuisance at back\u2026 [+6826 chars]",
+      "retrievedAt": "2025-08-02 19:05:55.024445",
+      "internal_id": "21ddbbce8221de8a762509d9ae5b96e9d123acdc6e4feddab6e34c861ae1b946",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23383,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "Tribal health officials work to fill vaccination gaps as measles outbreak spreads",
+      "description": "Organizations are hosting clinics and calling patients up vaccination rates.",
+      "url": "https://www.bostonherald.com/2025/08/01/tribal-health-vaccination-measles/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/202507261100MCT_____PHOTO____LIFE-HEALTH-VACCINATIONS-TRIBAL-OFFICIALS-MCT-1.jpg?w=1024&h=768",
+      "publishedAt": "2025-08-01 13:20:57",
+      "content": "By Arielle Zionts, KFF Health News RAPID CITY, S.D. Cassandra Palmier had been meaning to get her son the second and final dose of the measles vaccine. But car problems made it difficult to get to t\u2026 [+7450 chars]",
+      "retrievedAt": "2025-08-02 19:05:53.386612",
+      "internal_id": "6022bc3ad6b2e98b2d91f2823b45d457851f8653222c376a85c1c463314413a3",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infects 20 people in Chitwan in 15 days",
+      "description": "CHITWAN: Dengue infection has been confirmed in 20 individuals who visited various hospitals in Chitwan for treatment since the beginning of Shrawan. These cases were reported within just 15 days of the current fiscal year. According to Public Health Officer \u2026",
+      "url": "https://english.khabarhub.com/2025/01/488679/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-08-01 12:15:13",
+      "content": "CHITWAN: Dengue infection has been confirmed in 20 individuals who visited various hospitals in Chitwan for treatment since the beginning of Shrawan. These cases were reported within just 15 days of \u2026 [+1352 chars]",
+      "retrievedAt": "2025-08-02 19:05:54.318535",
+      "internal_id": "dfe769d33a361408edf76eb566ca5801f30d6283e4c9106053a52ffaf97525c1",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23391,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09ac\u09be\u09b8\u09b8",
+      "title": "\u09ae\u09be\u09b0\u09cd\u0995\u09bf\u09a8 \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u0986\u09ae\u09b0\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u09af\u09cb\u0997\u09bf\u09a4\u09be\u09ae\u09c2\u09b2\u0995 \u0985\u09ac\u09b8\u09cd\u09a5\u09be\u09a8\u09c7 \u09a5\u09be\u0995\u09ac: \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af \u0989\u09aa\u09a6\u09c7\u09b7\u09cd\u099f\u09be",
+      "description": "\u09ae\u09be\u09b0\u09cd\u0995\u09bf\u09a8 \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u0986\u09ae\u09b0\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u09af\u09cb\u0997\u09bf\u09a4\u09be\u09ae\u09c2\u09b2\u0995 \u0985\u09ac\u09b8\u09cd\u09a5\u09be\u09a8\u09c7 \u09a5\u09be\u0995\u09ac: \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af \u0989\u09aa\u09a6\u09c7\u09b7\u09cd\u099f\u09bethedailystar.net",
+      "url": "https://bangla.thedailystar.net/business/news-690231",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2025/08/01/bashir_1.jpeg",
+      "publishedAt": "2025-08-01 11:47:08",
+      "content": "The number of dengue deaths and infections in July more than doubled compared to the previous month, underscoring the growing severity of this years outbreak.",
+      "retrievedAt": "2025-08-02 19:05:54.295429",
+      "internal_id": "0a1fb74742bad6c5621ec3d3573a83a3fa303ab96f59e8527ce9e14ad7f1ee08",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23385,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Deidre Mcphillips",
+      "title": "Vaccine exemptions surge among US kindergartners",
+      "description": "A record share of U.S. kindergartners had an exemption for a required vaccination last school year, and coverage for all reported vaccines \u2013 including the measles vaccine \u2013 was lower than the year before, according to the CDC.",
+      "url": "https://www.wisn.com/article/vaccine-exemptions-us-kindergartners-2024-25/65573695",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwrydgxwdgowmda1m2i2bwfpcgh0nw5k-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntzhjzdgs3mzawmxiynxa0otvja2d4oxi-jpg-688ca1119db11.jpg?crop=1.00xw:0.810xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-01 11:35:28",
+      "content": "A record share of U.S. kindergartners had an exemption for a required vaccination last school year, and coverage for all reported vaccines including the measles vaccine was lower than the year before\u2026 [+8153 chars]",
+      "retrievedAt": "2025-08-02 19:05:53.470336",
+      "internal_id": "00bdf7e099a18b7e70bf8ebb60d0577bf3fdb87b035eb0ddd680c8667f67a5aa",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23396,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Pa\u00eds Vasco refuerza la prevenci\u00f3n tras confirmarse un caso aut\u00f3ctono de chikungunya en la localidad fronteriza de Hendaya",
+      "description": "El Departamento de Salud del Gobierno Vasco ha reforzado las medidas de prevenci\u00f3n ante un caso aut\u00f3ctono de chikungunya detectado en la localidad fronteriza de Hendaya (Francia), as\u00ed como de dos posibles casos adicionales en la misma zona. Tras la confirmaci\u2026",
+      "url": "https://www.abc.es/sociedad/pais-vasco-refuerza-prevencion-tras-confirmarse-autoctono-20250801130114-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2025/08/01/aedes-albopictus-U58167878007Mdz-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-08-01 11:01:15",
+      "content": "El Departamento de Salud del Gobierno Vasco ha reforzado las medidas de prevenci\u00f3n ante un caso aut\u00f3ctono de chikungunya detectado en la localidad fronteriza de Hendaya (Francia), as\u00ed como de dos pos\u2026 [+1875 chars]",
+      "retrievedAt": "2025-08-02 19:05:55.931449",
+      "internal_id": "14927611c94c9cf1879dfaaee1b11835672d1742b1663f95f26117d971b11da4",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23398,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Mercy Sowek",
+      "title": "Kenya's Mpox Cases Rise as Outbreak Spreads to 22 Counties, Health Ministry Says",
+      "description": "Kenya's Mpox Cases Rise as Outbreak Spreads to 22 Counties, Health Ministry Sayskenyans.co.ke",
+      "url": "https://www.kenyans.co.ke/news/114770-kenyas-mpox-cases-rise-300-spread-22-counties-health-ministry",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/mpox.jpg?itok=JxtaAam1",
+      "publishedAt": "2025-08-01 10:15:58",
+      "content": "The Ministry of Health has announced that a total of 314 Mpox cases have been confirmed across 22 counties since the outbreak began in July 2024. Through a press release on Friday August 1, Health C\u2026 [+2160 chars]",
+      "retrievedAt": "2025-08-02 19:05:56.240740",
+      "internal_id": "34834b963458ed4ee6b357b80b86a1a5cd4dadc620ecf0181d071770092d5691",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23394,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pilar P\u00e9rez",
+      "title": "Detectan un caso de aut\u00f3ctono chikungunya en Hendaia que obliga a reforzar las medidas de vigilancia del mosquito tigre en el Pa\u00eds Vasco",
+      "description": "La cercan\u00eda a municipios como Irun, Hondarribia, Donostia, Lezo, Pasaia, Oiartzun o Errenteria, ha instado a los ayuntamientos de la Comarca del Bidasoa a reforzar los controles Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/08/01/688c82c3fdddff29328b45d3.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/5fa024268504aec3bd3fc27323e78e4d/crop/0x0/753x502/f/webp/assets/multimedia/imagenes/2025/08/01/17540387359344.jpg",
+      "publishedAt": "2025-08-01 10:04:02",
+      "content": "El pasado lunes 24 de julio se notific\u00f3 un caso de chikungunya en la localidad de Hendaia, as\u00ed como de dos posibles casos adicionales en la misma zona. Por ello, el Departamento de Salud del Gobierno\u2026 [+5989 chars]",
+      "retrievedAt": "2025-08-02 19:05:55.732974",
+      "internal_id": "84aa6333342d7d9a6d329a15e9f666d307476a21c5d1a0eee7361f6749eb2838",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 23387,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "70% enrolment of participants for Phase III clinical trial of dengue vaccine completed: Centre",
+      "description": "India achieves a milestone in dengue prevention. The DengiAll vaccine trial sees 70% participant enrollment. ICMR leads the multi-center study across 20 Indian sites. The budget is approximately Rs 1.3 to 1.5 crore per site. Dengue cases are rising, with over\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/70-enrolment-of-participants-for-phase-iii-clinical-trial-of-dengue-vaccine-completed-centre/articleshow/123040527.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123040580,width-1200,height-630,imgsize-18190,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-01 09:30:29",
+      "content": "Seventy percent enrolment of participants for the Phase III clinical trial of the indigenous one-shot dengue vaccine, DengiAll, has been completed, Minister of State for Health, Prataprao Jadhav, tol\u2026 [+3115 chars]",
+      "retrievedAt": "2025-08-02 19:05:54.247160",
+      "internal_id": "24f92d03f6317f2c8b7beae045c371455ecb456f8e8d84a526d81bf0f4d35b63",
+      "publishedAtLabel": "Aug 1"
+    },
     {
       "id": 23378,
       "query": [
@@ -22328,42 +22657,6 @@
       "content": "Durante anos, doen\u00e7as como a dengue e a chikungunya pareciam confinadas a regi\u00f5es tropicais. Mas essa ideia come\u00e7a a se tornar obsoleta. Uma nova pesquisa publicada na revista The Lancet Planetary H\u2026 [+4368 chars]",
       "retrievedAt": "2025-06-17 07:07:51.742325",
       "internal_id": "3f2155e6f64a79792c8be504443c7ce82d4444576b09189bdcf5e939034e18b4",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22144,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "12onyourside.com",
-      "author": "12 On Your Side Digital Team",
-      "title": "Health officials investigating possible measles exposure in Northern Virginia",
-      "description": "Health officials investigating possible measles exposure in Northern Virginia12onyourside.com",
-      "url": "https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/",
-      "urlToImage": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/FMJX6JUZZNB4NP4TE3O7CNIVY4.png?auth=2ee44917914c9a08a69c7be070f7e7d9d907d225c3e2a469f00317ad43e66fe5&width=1200&height=600&smart=true",
-      "publishedAt": "2025-06-15 16:36:17",
-      "content": "RICHMOND, Va. (WWBT) - The Virginia Department of Health is investigating a potential measles exposure in Northern Virginia. Officials report that an international traveler visiting D.C. has the vi\u2026 [+2280 chars]",
-      "retrievedAt": "2025-06-16 19:06:08.908797",
-      "internal_id": "8e8d883f0b4c5c14c3f70fe54a57d542570d6a9b1ce75dd8de6005526ef8bc68",
-      "publishedAtLabel": "Jun 15"
-    },
-    {
-      "id": 22143,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin",
-      "description": "KALBARONLINE.com - Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tiga kabupaten, yakni tiga kasus di Landak, satu kasus di Ketap\u2026",
-      "url": "https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/",
-      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/06/IMG-20250615-WA0027.jpg",
-      "publishedAt": "2025-06-15 09:25:34",
-      "content": "KALBARONLINE.com \u2013 Kasus rabies di Kalimantan Barat (Kalbar) masih menjadi perhatian serius. Sepanjang tahun 2025, Dinas Kesehatan Kalbar mencatat ada lima kematian akibat rabies yang tersebar di tig\u2026 [+1932 chars]",
-      "retrievedAt": "2025-06-16 19:06:07.950040",
-      "internal_id": "81c779685b676f0037b1fac6d66e64b1b50c8c0183fd5cafe69179ab2b5f8a5b",
       "publishedAtLabel": "Jun 15"
     }
   ]

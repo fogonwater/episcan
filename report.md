@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-08-02 07:07
-- **Most recent article:** 2025-08-01 06:23:00
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-08-02 19:05
+- **Most recent article:** 2025-08-01 18:59:55
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-25 | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 28 | 53 | 36 | 114 | 64 | 47 | 15 | 357 |
-| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 28 | 195 |
-| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 23 | 183 |
-| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 9 | 125 |
+| measles | 27 | 53 | 36 | 114 | 64 | 47 | 18 | 359 |
+| chikungunya | 13 | 20 | 10 | 40 | 21 | 63 | 34 | 201 |
+| dengue | 16 | 26 | 24 | 34 | 24 | 36 | 30 | 190 |
+| malaria | 23 | 13 | 21 | 29 | 12 | 18 | 12 | 128 |
 | meningitis | 1 | 35 | 41 | 7 | 7 | 12 | 3 | 106 |
-| rabies | 19 | 5 | 17 | 17 | 4 | 11 | 7 | 80 |
-| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 11 | 80 |
+| mpox | 10 | 27 | 10 | 6 | 7 | 9 | 13 | 82 |
+| rabies | 18 | 5 | 17 | 17 | 4 | 11 | 9 | 81 |
 | zika | 14 | 2 | 8 | 12 | 8 | 2 | 7 | 53 |
 | yersinia | 0 | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | h5n1 | 8 | 3 | 8 | 9 | 13 | 4 | 1 | 46 |
@@ -54,6 +54,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (rabies)
 
+- [Stop blaming the dog — it’s the policy that bites](https://economictimes.indiatimes.com/opinion/et-commentary/stop-blaming-the-dog-its-the-policy-that-bites/articleshow/123050875.cms) (The Times of India)
+
+- [Rabid fox attacks child in Peachtree City neighborhood](https://www.fox5atlanta.com/news/rabid-fox-attacks-child-peachtree-city-neighborhood) (FOX 5 Atlanta)
+
 - [Wild bat encounter leaves woman with $35K medical bill after insurance missteps](https://www.washingtonpost.com/wellness/2025/07/31/rabies-vaccine-cost/) (The Washington Post)
 
 - [Woman Opens Door to 'a Giant Ball of Viciousness'](https://www.newser.com/story/372688/woman-opens-door-to-a-giant-ball-of-viciousness.html) (Newser)
@@ -73,6 +77,10 @@ Source: [News API](https://newsapi.org/)
 - [New data show whooping cough cases on the rise in South Carolina](https://www.wyff4.com/article/south-carolina-whooping-cough-cases-rise/65557186) (WYFF4 Greenville)
 
 ## 25-31 (mpox)
+
+- [Kenya steps up surveillance as mpox cases rise to 314 with 5 deaths](https://www.thestar.com.my/news/world/2025/08/02/kenya-steps-up-surveillance-as-mpox-cases-rise-to-314-with-5-deaths) (The Star Online)
+
+- [Kenya's Mpox Cases Rise as Outbreak Spreads to 22 Counties, Health Ministry Says](https://www.kenyans.co.ke/news/114770-kenyas-mpox-cases-rise-300-spread-22-counties-health-ministry) (Kenyans.co.ke)
 
 - [OMS advierte de contagio masivo por viruela del mono, ¿México está en riesgo?](https://www.excelsior.com.mx/salud/oms-advierte-de-contagio-masivo-por-viruela-del-mono-mexico-esta-en-riesgo/1730281) (Excelsior.com.mx)
 
@@ -106,6 +114,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (measles)
 
+- [N.S. child admitted to the IWK with measles](https://www.cbc.ca/news/canada/nova-scotia/n-s-child-admitted-to-the-iwk-with-measles-1.7599753) (CBC News)
+
+- [Tribal health officials work to fill vaccination gaps as measles outbreak spreads](https://www.bostonherald.com/2025/08/01/tribal-health-vaccination-measles/) (Boston Herald)
+
+- [Vaccine exemptions surge among US kindergartners](https://www.wisn.com/article/vaccine-exemptions-us-kindergartners-2024-25/65573695) (WISN Milwaukee)
+
 - [Manitoba Health warns of measles exposure at emergency room, Winkler medical centre](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-sites-winkler-1.7599047) (CBC News)
 
 - [Record share of US kindergartners missed required vaccinations last year, ahead of surge in measles cases | CNN](https://www.cnn.com/2025/07/31/health/vaccination-school-requirements-cdc) (CNN)
@@ -138,6 +152,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (malaria)
 
+- [Dengue, chikungunya cases in Mumbai see 500% spike in a month](https://timesofindia.indiatimes.com/city/mumbai/dengue-chikungunya-cases-in-mumbai-see-500-spike-in-a-month/articleshow/123047697.cms) (The Times of India)
+
+- [Mumbai Records Rise In Malaria, Dengue, Hepatitis Cases In January-July](https://www.ndtvprofit.com/nation/mumbai-records-rise-in-malaria-dengue-hepatitis-cases-in-january-july) (Ndtvprofit.com)
+
+- [These Genetically Engineered Mosquitoes Could Wipe Out Malaria](https://singularityhub.com/2025/08/01/these-genetically-engineered-mosquitoes-could-wipe-out-malaria/) (Singularity Hub)
+
 - [Multitask deep learning for the emulation and calibration of an agent-based malaria transmission model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013330) (Plos.org)
 
 - [Comparative analysis of Egypt’s malaria elimination strategies and implementation science: Pathways to achieve malaria-free status for other African countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329550) (Plos.org)
@@ -161,6 +181,20 @@ Source: [News API](https://newsapi.org/)
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
 
 ## 25-31 (dengue)
+
+- [Dengue, chikungunya cases in Mumbai see 500% spike in a month](https://timesofindia.indiatimes.com/city/mumbai/dengue-chikungunya-cases-in-mumbai-see-500-spike-in-a-month/articleshow/123047697.cms) (The Times of India)
+
+- [Mumbai Records Rise In Malaria, Dengue, Hepatitis Cases In January-July](https://www.ndtvprofit.com/nation/mumbai-records-rise-in-malaria-dengue-hepatitis-cases-in-january-july) (Ndtvprofit.com)
+
+- [West Nile, come proteggersi: tutte le leggende metropolitane sulle zanzare](https://www.ilgiornale.it/news/nazionale/west-nile-proteggersi-tutte-leggende-metropolitane-sulle-2518165.html) (Ilgiornale.it)
+
+- [Increased expression of chaperone proteins in response to DENV 2 infection of Huh-7 liver cells](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329783) (Plos.org)
+
+- [Dengue infects 20 people in Chitwan in 15 days](https://english.khabarhub.com/2025/01/488679/) (Khabarhub.com)
+
+- [মার্কিন বাজারে আমরা প্রতিযোগিতামূলক অবস্থানে থাকব: বাণিজ্য উপদেষ্টা](https://bangla.thedailystar.net/business/news-690231) (The Daily Star)
+
+- [70% enrolment of participants for Phase III clinical trial of dengue vaccine completed: Centre](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/70-enrolment-of-participants-for-phase-iii-clinical-trial-of-dengue-vaccine-completed-centre/articleshow/123040527.cms) (The Times of India)
 
 - [Dengue fever outbreak in Pacific: Kiwi travellers told to get insurance including medical evacuation](https://www.nzherald.co.nz/talanoa/dengue-fever-outbreak-in-pacific-kiwi-travellers-told-to-get-insurance-including-medical-evacuation/NT43ZEBSJRE7ZEHCXCFBOYNGMU/) (New Zealand Herald)
 
@@ -209,6 +243,18 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Dengue, chikungunya cases in Mumbai see 500% spike in a month](https://timesofindia.indiatimes.com/city/mumbai/dengue-chikungunya-cases-in-mumbai-see-500-spike-in-a-month/articleshow/123047697.cms) (The Times of India)
+
+- [Mumbai Records Rise In Malaria, Dengue, Hepatitis Cases In January-July](https://www.ndtvprofit.com/nation/mumbai-records-rise-in-malaria-dengue-hepatitis-cases-in-january-july) (Ndtvprofit.com)
+
+- [West Nile, come proteggersi: tutte le leggende metropolitane sulle zanzare](https://www.ilgiornale.it/news/nazionale/west-nile-proteggersi-tutte-leggende-metropolitane-sulle-2518165.html) (Ilgiornale.it)
+
+- [Çin’de ölümcül virüs alarmı! ABD’den seyahat uyarısı!](https://www.haber7.com/dunya/haber/3551843-cinde-olumcul-virus-alarmi-abdden-seyahat-uyarisi) (Haber7.com)
+
+- [País Vasco refuerza la prevención tras confirmarse un caso autóctono de chikungunya en la localidad fronteriza de Hendaya](https://www.abc.es/sociedad/pais-vasco-refuerza-prevencion-tras-confirmarse-autoctono-20250801130114-nt.html) (Www.abc.es)
+
+- [Detectan un caso de autóctono chikungunya en Hendaia que obliga a reforzar las medidas de vigilancia del mosquito tigre en el País Vasco](https://www.elmundo.es/ciencia-y-salud/salud/2025/08/01/688c82c3fdddff29328b45d3.html) (El Mundo)
 
 - [Óriás kannibál szúnyogokat használ fel Kína a rettegett kórokozó ellen](https://www.portfolio.hu/gazdasag/20250801/orias-kannibal-szunyogokat-hasznal-fel-kina-a-rettegett-korokozo-ellen-777623) (Portfolio.hu)
 
@@ -2606,8 +2652,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Person dies in Yorkshire from rabies after contact with stray dog while on holiday](https://news.sky.com/story/person-dies-in-yorkshire-from-rabies-after-contact-with-stray-dog-while-on-holiday-in-morocco-13382055) (Sky.com)
 
-- [Kucing Juga Bisa Tularkan Rabies, Dokter Hewan di Pontianak Ingatkan Pentingnya Vaksin](https://kalbaronline.com/2025/06/15/kucing-juga-bisa-tularkan-rabies-dokter-hewan-di-pontianak-ingatkan-pentingnya-vaksin/) (Kalbaronline.com)
-
 ## 25-25 (pertussis)
 
 - [7 reasons whooping cough is attacking adults](https://rollingout.com/2025/06/20/reasons-whooping-cough-attacking-adults/) (Rolling Out)
@@ -2695,8 +2739,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles is surging in Alberta. Which vaccine-preventable disease could be next?](https://www.cbc.ca/news/canada/calgary/measles-is-surging-in-alberta-which-vaccine-preventable-disease-could-be-next-1.7560747) (CBC News)
 
 - [Map Shows Airports Where Health Officials Detected Measles Cases](https://www.newsweek.com/map-shows-airports-where-health-officials-detected-measles-cases-2085795) (Newsweek)
-
-- [Health officials investigating possible measles exposure in Northern Virginia](https://www.12onyourside.com/2025/06/15/health-officials-investigating-possible-measles-exposure-northern-virginia/) (12onyourside.com)
 
 ## 25-25 (malaria)
 
