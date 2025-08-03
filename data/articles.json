@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-08-03 07:07",
-  "count_articles_total": 1125,
-  "count_articles_new": 4,
+  "last_updated": "2025-08-03 19:06",
+  "count_articles_total": 1129,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 23406,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News12.com",
+      "author": "Rose Shannon",
+      "title": "Health officials: Passaic County resident diagnosed with measles",
+      "description": "NJDOH says those who think they have been exposed or are feeling ill should contact their local health department or call their health care provide before going to a medical office or emergency department.",
+      "url": "https://newjersey.news12.com/health-officials-passaic-county-resident-diagnosed-with-measles",
+      "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/2wPt6PL1XVSsM28USvVp9F/e23b6a5beff10639789e1aec179e192d/Measles_Alert_monitor_copy__1_.png?fit=thumb&w=600&h=340&q=80&fm=webp",
+      "publishedAt": "2025-08-02 18:19:47",
+      "content": "Topics you care about, straight to your inbox",
+      "retrievedAt": "2025-08-03 19:06:15.086473",
+      "internal_id": "ed50761be8fc1d890846cedd787017685a8fd348c2f0a6f9876d58ed87df79ff",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23405,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Susanna Siddell",
+      "title": "Measles: Medics urge parents to vaccinate children ahead of new academic year",
+      "description": "Health authorities are calling on families to ensure youngsters receive measles immunisations while schools remain closed for summer, as infection numbers continue to climb throughout Britain.The appeal has followed a concerning pattern of rising cases, with \u2026",
+      "url": "https://www.gbnews.com/health/measles-symptoms-vaccinations-parents-children-summer-holidays",
+      "urlToImage": "https://www.gbnews.com/media-library/measles-illustration-injection-being-held-by-a-medic-with-white-gloves.png?id=61424062&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
+      "publishedAt": "2025-08-02 15:04:56",
+      "content": "Health authorities are calling on families to ensure youngsters receive measles immunisations while schools remain closed for summer, as infection numbers continue to climb throughout Britain. The a\u2026 [+2703 chars]",
+      "retrievedAt": "2025-08-03 19:06:15.077499",
+      "internal_id": "6b7aa33adafe1af0fbf60d7edfefa31b80682b86ed24ef6d43f49eacfc57e678",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23403,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Martha McHardy",
+      "title": "Tourist Hit With $21,000 Medical Bills After Bat Flies Into Mouth",
+      "description": "In August 2023, now-33-year-old Erica Kahn was photographing the sky in Arizona when a bat flew into her mouth.",
+      "url": "https://www.newsweek.com/bat-mouth-tourist-arizona-health-insurance-2107952",
+      "urlToImage": "https://d.newsweek.com/en/full/2695381/bat.jpg",
+      "publishedAt": "2025-08-02 13:51:18",
+      "content": "A Massachusetts woman is facing more than $21,000 in medical bills after a bat flew into her mouth during a vacation in Northern Arizona, prompting an emergency rabies treatment regimen. Why It Matt\u2026 [+3358 chars]",
+      "retrievedAt": "2025-08-03 19:06:14.522930",
+      "internal_id": "ee1bc002cff5035a1a2b40d1819e78c6c92bbdd7767a3a7a90cfed9b8c959f3c",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23408,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": null,
+      "title": "Avrupa co\u011frafyas\u0131nda bask\u0131n olmaya ba\u015flayan istilac\u0131 sivrisinek t\u00fcr\u00fc Chikungunya, T\u00fcrkiye i\u00e7in de tehdit",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, \u201cAedes Aegypti\u201d adl\u0131 istilac\u0131 sivrisinek t\u00fcr\u00fcn\u00fcn Avrupa ve T\u00fcrkiye\u2019de yay\u0131lmaya ba\u015flad\u0131\u011f\u0131n\u0131, Chikungunya vir\u00fcs\u00fcn\u00fcn \u00f6n\u00fcm\u00fczdeki y\u0131llarda k\u00fcresel salg\u0131na d\u00f6n\u00fc\u015febilece\u011fini a\u00e7\u0131klad\u0131. Prof. Dr. Alper \u015eener, T\u00fcrkiye\u2019de hen\u00fcz vaka g\u00f6r\u00fclmedi\u011fini a\u2026",
+      "url": "https://www.patronlardunyasi.com/avrupa-cografyasinda-baskin-olmaya-baslayan-istilaci-sivrisinek-turu-chikungunya-turkiye-icin-de-tehdit",
+      "urlToImage": "https://i.pdimage.com/static/content/25-08/02/avrupa-cografyasinda-baskin-olmaya-baslayan-istilaci-sivrisinek-turu-chikungunya-turkiye-icin-de-tehdit.jpg",
+      "publishedAt": "2025-08-02 13:42:03",
+      "content": "\u201cAedes Aegypti\u201d ad verilen istilac sivrisinek t\u00fcrleri birka\u00e7 yldr Avrupa corafyasnda baskn hale gelmeye balad. D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6) sivrisinek yoluyla bulaan Chikungunya vir\u00fcs\u00fcn\u00fcn hzla yayldn ve \u00f6\u2026 [+7792 chars]",
+      "retrievedAt": "2025-08-03 19:06:17.523373",
+      "internal_id": "0a8e57a77f0ad3dedfaee076b302d2dd5e9f3357fb87d06deb04970a1eb4555d",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23407,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ox.ac.uk",
+      "author": null,
+      "title": "New research finds that ivermectin could help control malaria transmission",
+      "description": "A collaborative new study involving KEMRI-Wellcome Trust researchers has highlighted a new way to control malaria transmission. The study found that ivermectin, a drug normally used for neglected tropical diseases, led to a 26% reduction in new malaria infect\u2026",
+      "url": "https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission",
+      "urlToImage": "https://www.ndm.ox.ac.uk/images/news/new-research-finds-that-ivermectin-could-help-control-malaria-transmission/responsive_image?scale=w1140&ratio=r16x9",
+      "publishedAt": "2025-08-02 11:44:42",
+      "content": "Malaria remains a global health challenge, with263 million cases and597,000 deaths reported in 2023. Current vector control methods, such as long-lasting insecticidal nets and indoor residual sprayin\u2026 [+5533 chars]",
+      "retrievedAt": "2025-08-03 19:06:16.627055",
+      "internal_id": "358a313609514a6727cf251a0f19dfe705afa73eab8a4d586c92878d1c6988c5",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23404,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Malaysia launches nationwide measles-rubella vaccination campaign to combat rising infections",
+      "description": "PUTRAJAYA: Malaysia will launch a nationwide measles-rubella vaccination campaign on Aug 4, following a rise in infections and reported deaths among unvaccinated children. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/02/malaysia-launches-nationwide-measles-rubella-vaccination-campaign-to-combat-rising-infections",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/02/3448046.jpg",
+      "publishedAt": "2025-08-02 09:04:00",
+      "content": "PUTRAJAYA: Malaysia will launch a nationwide measles-rubella vaccination campaign on Aug 4, following a rise in infections and reported deaths among unvaccinated children. The Health Ministry announ\u2026 [+802 chars]",
+      "retrievedAt": "2025-08-03 19:06:15.059483",
+      "internal_id": "21a8a7eafde4ef8d468f2d5ed480361438e2eadff77ed595537c8c448e36f958",
+      "publishedAtLabel": "Aug 2"
+    },
     {
       "id": 23401,
       "query": [
@@ -20298,42 +20406,6 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 22279,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ferra.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
-      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
-      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
-      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
-      "publishedAt": "2025-06-22 16:09:35",
-      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
-      "retrievedAt": "2025-06-23 19:06:05.702761",
-      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
-      "publishedAtLabel": "Jun 22"
-    },
-    {
-      "id": 22278,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
-      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
-      "url": "https://www.memeorandum.com/250622/p35",
-      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
-      "publishedAt": "2025-06-22 15:35:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-06-23 19:06:04.743399",
-      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
-      "publishedAtLabel": "Jun 22"
     }
   ]
 }

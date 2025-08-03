@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-08-03 07:07
-- **Most recent article:** 2025-08-02 04:03:25
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-08-03 19:06
+- **Most recent article:** 2025-08-02 18:19:47
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 20 | 334 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 35 | 189 |
+| measles | 52 | 36 | 114 | 64 | 47 | 23 | 336 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 190 |
 | dengue | 26 | 24 | 34 | 24 | 36 | 31 | 175 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 12 | 105 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 106 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 105 |
 | mpox | 27 | 10 | 6 | 7 | 9 | 13 | 72 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 9 | 62 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 63 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 39 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 38 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 37 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 10 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 8 |
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 - [Врач объяснила, как не дать «мышиной болезни» захватить ваш холодильник](https://life.ru/p/1775025) (Life.ru)
 
 ## 25-31 (rabies)
+
+- [Tourist Hit With $21,000 Medical Bills After Bat Flies Into Mouth](https://www.newsweek.com/bat-mouth-tourist-arizona-health-insurance-2107952) (Newsweek)
 
 - [Stop blaming the dog — it’s the policy that bites](https://economictimes.indiatimes.com/opinion/et-commentary/stop-blaming-the-dog-its-the-policy-that-bites/articleshow/123050875.cms) (The Times of India)
 
@@ -113,6 +115,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (measles)
 
+- [Health officials: Passaic County resident diagnosed with measles](https://newjersey.news12.com/health-officials-passaic-county-resident-diagnosed-with-measles) (News12.com)
+
+- [Measles: Medics urge parents to vaccinate children ahead of new academic year](https://www.gbnews.com/health/measles-symptoms-vaccinations-parents-children-summer-holidays) (Gbnews.com)
+
+- [Malaysia launches nationwide measles-rubella vaccination campaign to combat rising infections](https://www.thestar.com.my/news/nation/2025/08/02/malaysia-launches-nationwide-measles-rubella-vaccination-campaign-to-combat-rising-infections) (The Star Online)
+
 - [Measles outbreak in Manipur’s Senapati district](https://thehillstimes.in/northeast/measles-outbreak-in-manipurs-senapati-district) (Thehillstimes.in)
 
 - [Possible measles exposure at Monarch Pass gift shop last week](https://www.denverpost.com/2025/08/01/measles-colorado-monarch-pass/) (The Denver Post)
@@ -154,6 +162,8 @@ Source: [News API](https://newsapi.org/)
 - [Twelve children hospitalized with measles, most were unvaccinated](https://www.haaretz.com/israel-news/2025-07-28/ty-article/.premium/twelve-children-hospitalized-with-measles-most-unvaccinated/00000198-4d3b-de88-a9d8-4ffb1f7a0000) (Haaretz)
 
 ## 25-31 (malaria)
+
+- [New research finds that ivermectin could help control malaria transmission](https://www.ndm.ox.ac.uk/news/new-research-supports-ivermectin-as-an-effective-strategy-to-control-malaria-transmission) (Ox.ac.uk)
 
 - [Dengue, chikungunya cases in Mumbai see 500% spike in a month](https://timesofindia.indiatimes.com/city/mumbai/dengue-chikungunya-cases-in-mumbai-see-500-spike-in-a-month/articleshow/123047697.cms) (The Times of India)
 
@@ -248,6 +258,8 @@ Source: [News API](https://newsapi.org/)
 - [Govt halts leave for civil servants amid monsoon disasters, launches dengue and drought response](https://mypeoplesreview.com/2025/07/28/govt-halts-leave-for-civil-servants-amid-monsoon-disasters-launches-dengue-and-drought-response/) (Mypeoplesreview.com)
 
 ## 25-31 (chikungunya)
+
+- [Avrupa coğrafyasında baskın olmaya başlayan istilacı sivrisinek türü Chikungunya, Türkiye için de tehdit](https://www.patronlardunyasi.com/avrupa-cografyasinda-baskin-olmaya-baslayan-istilaci-sivrisinek-turu-chikungunya-turkiye-icin-de-tehdit) (Patronlardunyasi.com)
 
 - [Trung Quốc bắt đầu cho "xuất quân" muỗi khủng để chống bệnh sốt Chikungunya](https://kevesko.vn/20250802/trung-quoc-bat-dau-cho-xuat-quan-muoi-khung-de-chong-benh-sot-chikungunya-37493888.html) (Kevesko.vn)
 
@@ -2451,8 +2463,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2486,8 +2496,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
