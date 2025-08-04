@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-08-03 19:06",
-  "count_articles_total": 1129,
-  "count_articles_new": 6,
+  "last_updated": "2025-08-04 07:14",
+  "count_articles_total": 1146,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 23414,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Chloe Rosen",
+      "title": "Wisconsin officials confirm first measles cases of the year",
+      "description": "Wisconsin's Department of Health Services confirmed nine cases of measles in Oconto County on Saturday, the first cases the state has seen this year.",
+      "url": "https://www.cbsnews.com/minnesota/news/wisconsin-officials-first-measles-cases-2025/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2019/03/26/24152c38-0671-4e02-addc-6621a0d40495/thumbnail/1200x630/6e9bbd6b28555e83e3fc11a6dcb37a3d/gettyimages-462803922.jpg",
+      "publishedAt": "2025-08-03 05:16:35",
+      "content": "Wisconsin's Department of Health Services confirmed nine cases of measles in Oconto County on Saturday, the first cases the state has seen this year. The Wisconsin DHS said all the cases were expose\u2026 [+1284 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.710483",
+      "internal_id": "7cbafb7836059969d657a8ba82b7be6872e29115ea9f587b30b673517bbee504",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23423,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Noticiabrasil.net.br",
+      "author": "Sputnik Brasil",
+      "title": "Portos e aeroportos ter\u00e3o de expor materiais informativos sobre mpox, determina Anvisa",
+      "description": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) determinou que Portos e aeroportos dever\u00e3o expor materiais informativos sobre sintomas e medidas de preven\u00e7\u00e3o \u00e0 mpox. A doen\u00e7a est\u00e1 declarada como um Evento de Sa\u00fade P\u00fablica no Brasil.",
+      "url": "https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/41956672.jpg?264998361754198109",
+      "publishedAt": "2025-08-03 05:15:08",
+      "content": "Siga a Sputnik Brasil e tenha acesso a conte\u00fados exclusivos no nosso canal no Telegram. J\u00e1 que a Sputnik est\u00e1 bloqueada em alguns pa\u00edses, por aqui voc\u00ea consegue baixar o nosso aplicativo para celula\u2026 [+24 chars]",
+      "retrievedAt": "2025-08-04 07:14:23.158762",
+      "internal_id": "1c98d2239d4a3e4810f297c210631cd543afa7a77f0f5ec5a025f6d4a8e82561",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23421,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Camilla Veras Mota - BBC News Brasil",
+      "title": "Their children can't eat, speak or walk - so forgotten Zika mothers raise them together",
+      "description": "We speak to the women infected with the Zika virus in Brazil a decade ago about what life is like with their children now.",
+      "url": "https://www.bbc.com/news/articles/c39d0zj0110o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9seN6ZnuPL4jUmuXy5wRUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/ca9f10760eb1c4e4a19749b6147ffe4b",
+      "publishedAt": "2025-08-03 04:27:50",
+      "content": "When Rute Freires was told by a doctor that her newborn daughter Tamara wouldn't live long, she started crying uncontrollably. Tamara had microcephaly - an abnormally small head - one of many condit\u2026 [+8747 chars]",
+      "retrievedAt": "2025-08-04 07:14:22.258167",
+      "internal_id": "291c6203222cad629cc658c9b3ac73f90b72b98c71dea5391f1a14b6c2625249",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23420,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Their children can't eat, speak or walk - so forgotten Zika mothers raise them together",
+      "description": "We speak to the women infected with the Zika virus in Brazil a decade ago about what life is like with their children now.",
+      "url": "https://www.bbc.com/news/articles/c39d0zj0110o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/91bb/live/e9f639d0-6e37-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-08-03 04:27:43",
+      "content": "Camilla Veras MotaReporting from Macei\u00f3, Alagoas state Rute Freires lives with her daughter Tamara, who has congenital Zika syndrome When Rute Freires was told by a doctor that her newborn daught\u2026 [+8679 chars]",
+      "retrievedAt": "2025-08-04 07:14:22.248701",
+      "internal_id": "0d8fd72bac199d9330ae435fb2a4815fd66dacc16548d2c1899ca421a2759da7",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23422,
+      "query": [
+        "zika"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Camilla Veras Mota",
+      "title": "Ten years after the Zika outbreak: What happened to the babies born with microcephaly?",
+      "description": "We speak to the women infected with the Zika virus in Brazil a decade ago about what life is like with their children now.",
+      "url": "https://www.bbc.co.uk/news/articles/c39d0zj0110o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91bb/live/e9f639d0-6e37-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-08-03 04:27:43",
+      "content": "Congenital brain malformation researcher Patr\u00edcia Garcez and neuroscientist Stevens Rehen, who led the two projects respectively, have told the BBC they believe the answer may be a combination of the\u2026 [+884 chars]",
+      "retrievedAt": "2025-08-04 07:14:22.275147",
+      "internal_id": "1f49f7c1bf6a310613c8bd147fa59106fdf1c46eb90c4a5beba41487bc14eeed",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23413,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Oil City News",
+      "author": "Tommy Culkin",
+      "title": "4 additional measles cases reported in Carbon County",
+      "description": "CHEYENNE, Wyo. \u2014 The Wyoming Department of Health has identified four more cases of measles in Carbon County, the department announced in a Saturday",
+      "url": "http://oilcity.news/community/health/2025/08/02/4-additional-measles-cases-reported-in-carbon-county/",
+      "urlToImage": "https://oilcity.news/wp-content/uploads/2025/07/Measles.jpg",
+      "publishedAt": "2025-08-03 02:27:05",
+      "content": "CHEYENNE, Wyo. The Wyoming Department of Health has identified four more cases of measles in Carbon County, the department announced in a Saturday release. All cases were exposed to an individual wi\u2026 [+603 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.701341",
+      "internal_id": "6d17d596c3137126479c5e6bbc420c7483bb1def2dbf38572cef16cbef1d86b8",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23409,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Why are child vaccination rates the lowest they have been in more than a decade?",
+      "description": "Child vaccination uptake is the lowest it has been in more than a decade, with a death from measles in Liverpool reigniting calls for increased awareness of the dangers of not getting jabs.",
+      "url": "https://news.sky.com/story/why-are-child-vaccination-rates-the-lowest-they-have-been-in-more-than-a-decade-13404394",
+      "urlToImage": "https://e3.365dm.com/25/03/1600x900/skynews-measles-graphical-virus_6855358.jpg?20250313191428",
+      "publishedAt": "2025-08-03 01:33:00",
+      "content": "Child vaccination uptake is the lowest it has been in more than a decade, with a death from measles in Liverpool reigniting calls for increased awareness of the dangers of not getting jabs. A report\u2026 [+8068 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.588777",
+      "internal_id": "eb2b54adae790201cbebcf76ab47a62a709cf54a910aec5428f973ca6e3f3558",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23410,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Katie Houlis",
+      "title": "Measles case confirmed in Passaic County, New Jersey, health officials say",
+      "description": "A case of measles has been confirmed in Passaic County, New Jersey, health officials announced Saturday.",
+      "url": "https://www.cbsnews.com/newyork/news/measles-passaic-county-new-jersey/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/08/a5307e94-ae35-4d6d-a4ec-a2a291e41d94/thumbnail/1200x630/b176e2eb1a5d98c37e4dbb9d7044562f/measles.jpg",
+      "publishedAt": "2025-08-03 00:47:26",
+      "content": "A case of measles has been confirmed in Passaic County, New Jersey, health officials announced Saturday. According to the state Department of Health, the patient recently traveled internationally, a\u2026 [+2253 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.675056",
+      "internal_id": "b8a0952d668aaa90bb9647a1137fad963718d9cd2b70bc190a695b2a7f0d8ece",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23411,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "fox6now.com",
+      "author": "Fox6 News Digital Team",
+      "title": "Measles in Wisconsin: DHS confirms state's first cases of 2025",
+      "description": "The Wisconsin Department of Health Services on Saturday announced the state's first confirmed measles cases of the year.",
+      "url": "https://www.fox6now.com/news/wisconsin-measles-cases-first-2025",
+      "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/04/1280/720/15B0F488AFCCADA8F86061468C9F8A12.jpg?ve=1&tl=1",
+      "publishedAt": "2025-08-02 23:08:20",
+      "content": "MILWAUKEE - The Wisconsin Department of Health Services on Saturday announced the state's first confirmed measles cases of the year. What they're saying: The Wisconsin DHS and Oconto County Public \u2026 [+2990 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.684106",
+      "internal_id": "c8030ba83df3c539be8f643b8655918e0fcd4b336744ed6196abb7073190aab0",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23417,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 9",
+      "author": "Madison Hunter",
+      "title": "Wisconsin confirms first 9 measles cases of 2025, all linked to out-of-state travel",
+      "description": "Wisconsin health officials confirmed the first nine cases of measles in 2025 in the state on Saturday.",
+      "url": "https://www.fox9.com/news/9-cases-measles-confirmed-wisconsin-first-cases-2025",
+      "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2025/08/1280/720/gettyimages-930111234.jpg?ve=1&tl=1",
+      "publishedAt": "2025-08-02 22:15:35",
+      "content": "OCONTO COUNTY, Wis. (FOX 9) - Wisconsin health officials confirmed the first nine cases of measles in 2025 in the state on Saturday. First measles cases of 2025 in Wisconsin What we know: Accordi\u2026 [+2005 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.736519",
+      "internal_id": "92c62d3ee9a9be065b4c4ac49c37961ca808f6e0c00dd3df1ea5ea32b1b48569",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Ensaios cl\u00ednicos no Butantan | Maior estudo cl\u00ednico do Butantan, vacina da dengue ajudou a estruturar resposta r\u00e1pida a epidemias",
+      "description": "Instituto estruturou uma rede nacional de 16 centros de pesquisa para avaliar o imunizante da dengue; expertise permitiu acelerar estudo de vacina na pandemia The post Ensaios cl\u00ednicos no Butantan | Maior estudo cl\u00ednico do Butantan, vacina da dengue ajudou a \u2026",
+      "url": "https://gizmodo.uol.com.br/ensaios-clinicos-no-butantan-maior-estudo-clinico-do-butantan-vacina-da-dengue-ajudou-a-estruturar-resposta-rapida-a-epidemias/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/6-1-5.png",
+      "publishedAt": "2025-08-02 21:47:59",
+      "content": "Foi tamb\u00e9m nessa \u00e9poca, em 2011, que o Butantan oficializou a cria\u00e7\u00e3o da Divis\u00e3o de Ensaios Cl\u00ednicos e Farmacovigil\u00e2ncia, com a contrata\u00e7\u00e3o de profissionais dedicados a coordenar estudos cl\u00ednicos em \u2026 [+7547 chars]",
+      "retrievedAt": "2025-08-04 07:14:21.214346",
+      "internal_id": "decfaadc47415d4d4a5648faf7b1a87be4701a4794667dd5757bc08504482175",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23415,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News8000.com - WKBT",
+      "author": "Ashton Tack",
+      "title": "First cases of measles in Wisconsin confirmed by DHS",
+      "description": "OCONTO COUNTY, Wis. (WKBT) -- The Wisconsin Department of Health Services (DHS) and Oconto County Public Health have confirmed nine cases of measles in Oconto County.",
+      "url": "https://www.news8000.com/lifestyle/health/first-cases-of-measles-in-wisconsin-confirmed-by-dhs/article_c2929371-583d-4352-b419-e932f4511543.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/assets/v3/editorial/9/c6/9c6659f2-5db7-5bc1-89eb-823ad0f42f93/688bb9e8b77f5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-08-02 21:29:03",
+      "content": "OCONTO COUNTY, Wis. (WKBT) -- The Wisconsin Department of Health Services (DHS) and Oconto County Public Health have confirmed nine cases of measles in Oconto County. These are the first confirmed c\u2026 [+1178 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.719122",
+      "internal_id": "a45210f3415559e16bf9a05862537739d29cb124d4b0599fc927d03f2471f39e",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23416,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Northernnewsnow.com",
+      "author": "Dominic Vitiello",
+      "title": "Wisconsin health officials confirm first measles cases of the year",
+      "description": "At this time, DHS says there are no public points of exposure, and the risk to the surrounding community is low.",
+      "url": "https://www.northernnewsnow.com/2025/08/02/wisconsin-health-officials-confirm-first-measles-cases-year/",
+      "urlToImage": "https://gray-kbjr-prod.gtv-cdn.com/resizer/v2/LL25W5KF3JBQTCTLAGW3XMLDVA.png?auth=a82c7eab9005ffc2727a3bc68d19286e2d7d6f2eeaf8ab663f17f9fa3732fe02&width=1200&height=600&smart=true",
+      "publishedAt": "2025-08-02 20:55:42",
+      "content": "OCONTO, Wis. (Northern News Now) - The Wisconsin Department of Health Services just confirmed the first cases of measles this year. According to DHS, nine people in Oconto County were confirmed to h\u2026 [+510 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.727593",
+      "internal_id": "27a7ef0b23ba928a7a5a4d77acb6862d06f6a5bec4f68d409d97e06b284981ec",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23418,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NorthJersey.com",
+      "author": ", North Jersey Media Group",
+      "title": "Health officials confirm 6th measles case this year in NJ",
+      "description": "The latest case comes as nationwide measles cases hit their highest levels since the disease was declared eradicated in 2000.",
+      "url": "https://www.northjersey.com/story/news/health/2025/08/02/health-officials-confirm-measles-case-nj/85491168007/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/07/24/PVIT/85360214007-measley-kid.jpg?auto=webp&crop=659,371,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2025-08-02 19:43:54",
+      "content": "A sixth measles case has been identified in Passaic County, New Jersey, linked to international travel.Nationwide measles cases are at their highest point since 2000, with 1,333 case\u2026 [+3907 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.745128",
+      "internal_id": "d31fae8906291f44e7597ac4444c61ed781aa14e7a3f41d9e6e306f0ce4d350f",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23412,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "nj.com",
+      "author": "Jackie Roman | Nj Advance Media For Nj.com",
+      "title": "Measles exposure risk at N.J. medical center, health officials warn",
+      "description": "Measles exposure risk at N.J. medical center, health officials warnnj.com",
+      "url": "https://www.nj.com/morris/2025/08/measles-exposure-risk-at-nj-medical-center-health-officials-warn.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/4XASFPEJUNF45D4UNYMQX734IM.jpg?auth=184da1ac50f1e1889b0e893d7f2009f27fcf7a8fadb4d63bf66c511856a6ba11&width=1280&quality=90",
+      "publishedAt": "2025-08-02 19:30:31",
+      "content": "The New Jersey Department of Health warned residents Saturday that a person with measles recently visited the emergency department at Chilton Medical Center in Morris County. Anyone who visited the \u2026 [+2708 chars]",
+      "retrievedAt": "2025-08-04 07:14:20.692555",
+      "internal_id": "4ce375f253afc629a7f6d7da9acc1d7a403b531eabb3c75dbfd55dab944372dd",
+      "publishedAtLabel": "Aug 2"
+    },
     {
       "id": 23406,
       "query": [
@@ -20406,6 +20676,42 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 22279,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
+      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
+      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
+      "publishedAt": "2025-06-22 16:09:35",
+      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
+      "retrievedAt": "2025-06-23 19:06:05.702761",
+      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 22278,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
+      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
+      "url": "https://www.memeorandum.com/250622/p35",
+      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
+      "publishedAt": "2025-06-22 15:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-06-23 19:06:04.743399",
+      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
+      "publishedAtLabel": "Jun 22"
     }
   ]
 }

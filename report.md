@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-08-03 19:06
-- **Most recent article:** 2025-08-02 18:19:47
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-08-04 07:14
+- **Most recent article:** 2025-08-03 05:16:35
 
 ---
 
@@ -10,26 +10,48 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 52 | 36 | 114 | 64 | 47 | 23 | 336 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 190 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 31 | 175 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 106 |
-| meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 105 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 72 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 63 |
-| yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 52 |
-| zika | 2 | 8 | 12 | 8 | 2 | 7 | 39 |
-| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 37 |
-| typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 18 |
-| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 10 |
-| pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 8 |
+| Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 53 | 36 | 114 | 64 | 47 | 29 | 4 | 347 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 0 | 190 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 0 | 176 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 0 | 106 |
+| meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 1 | 73 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 0 | 63 |
+| yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
+| zika | 2 | 8 | 12 | 8 | 2 | 7 | 3 | 42 |
+| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 0 | 38 |
+| typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
+| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 0 | 10 |
+| pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-32 (zika)
+
+- [Their children can't eat, speak or walk - so forgotten Zika mothers raise them together](https://www.bbc.com/news/articles/c39d0zj0110o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
+
+- [Their children can't eat, speak or walk - so forgotten Zika mothers raise them together](https://www.bbc.com/news/articles/c39d0zj0110o) (BBC News)
+
+- [Ten years after the Zika outbreak: What happened to the babies born with microcephaly?](https://www.bbc.co.uk/news/articles/c39d0zj0110o) (BBC News)
+
+## 25-32 (mpox)
+
+- [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
+
+## 25-32 (measles)
+
+- [Wisconsin officials confirm first measles cases of the year](https://www.cbsnews.com/minnesota/news/wisconsin-officials-first-measles-cases-2025/) (CBS News)
+
+- [4 additional measles cases reported in Carbon County](http://oilcity.news/community/health/2025/08/02/4-additional-measles-cases-reported-in-carbon-county/) (Oil City News)
+
+- [Why are child vaccination rates the lowest they have been in more than a decade?](https://news.sky.com/story/why-are-child-vaccination-rates-the-lowest-they-have-been-in-more-than-a-decade-13404394) (Sky.com)
+
+- [Measles case confirmed in Passaic County, New Jersey, health officials say](https://www.cbsnews.com/newyork/news/measles-passaic-county-new-jersey/) (CBS News)
 
 ## 25-31 (zika)
 
@@ -115,6 +137,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-31 (measles)
 
+- [Measles in Wisconsin: DHS confirms state's first cases of 2025](https://www.fox6now.com/news/wisconsin-measles-cases-first-2025) (fox6now.com)
+
+- [Wisconsin confirms first 9 measles cases of 2025, all linked to out-of-state travel](https://www.fox9.com/news/9-cases-measles-confirmed-wisconsin-first-cases-2025) (FOX 9)
+
+- [First cases of measles in Wisconsin confirmed by DHS](https://www.news8000.com/lifestyle/health/first-cases-of-measles-in-wisconsin-confirmed-by-dhs/article_c2929371-583d-4352-b419-e932f4511543.html) (News8000.com - WKBT)
+
+- [Wisconsin health officials confirm first measles cases of the year](https://www.northernnewsnow.com/2025/08/02/wisconsin-health-officials-confirm-first-measles-cases-year/) (Northernnewsnow.com)
+
+- [Health officials confirm 6th measles case this year in NJ](https://www.northjersey.com/story/news/health/2025/08/02/health-officials-confirm-measles-case-nj/85491168007/) (NorthJersey.com)
+
+- [Measles exposure risk at N.J. medical center, health officials warn](https://www.nj.com/morris/2025/08/measles-exposure-risk-at-nj-medical-center-health-officials-warn.html) (nj.com)
+
 - [Health officials: Passaic County resident diagnosed with measles](https://newjersey.news12.com/health-officials-passaic-county-resident-diagnosed-with-measles) (News12.com)
 
 - [Measles: Medics urge parents to vaccinate children ahead of new academic year](https://www.gbnews.com/health/measles-symptoms-vaccinations-parents-children-summer-holidays) (Gbnews.com)
@@ -194,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
 
 ## 25-31 (dengue)
+
+- [Ensaios clínicos no Butantan | Maior estudo clínico do Butantan, vacina da dengue ajudou a estruturar resposta rápida a epidemias](https://gizmodo.uol.com.br/ensaios-clinicos-no-butantan-maior-estudo-clinico-do-butantan-vacina-da-dengue-ajudou-a-estruturar-resposta-rapida-a-epidemias/) (Uol.com.br)
 
 - [Hawaii reports 10th case of travel-related dengue this year | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/08/01/breaking-news/hawaii-reports-10th-case-of-travel-related-dengue-this-year/) (Honolulu Star-Advertiser)
 
@@ -2463,6 +2499,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
+- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
+
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2496,6 +2534,8 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
+
+- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
