@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-08-04 07:14
-- **Most recent article:** 2025-08-03 05:16:35
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-08-04 19:08
+- **Most recent article:** 2025-08-03 17:42:28
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 29 | 4 | 347 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 0 | 190 |
+| measles | 52 | 36 | 114 | 64 | 47 | 29 | 6 | 348 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 1 | 191 |
 | dengue | 26 | 24 | 34 | 24 | 36 | 32 | 0 | 176 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 0 | 106 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 1 | 107 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 1 | 73 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 0 | 63 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 2 | 74 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 2 | 65 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 3 | 42 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 0 | 38 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 0 | 37 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 0 | 10 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -39,11 +39,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Ten years after the Zika outbreak: What happened to the babies born with microcephaly?](https://www.bbc.co.uk/news/articles/c39d0zj0110o) (BBC News)
 
+## 25-32 (rabies)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
+
 ## 25-32 (mpox)
+
+- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
+
+- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
 
 - [Wisconsin officials confirm first measles cases of the year](https://www.cbsnews.com/minnesota/news/wisconsin-officials-first-measles-cases-2025/) (CBS News)
 
@@ -52,6 +64,14 @@ Source: [News API](https://newsapi.org/)
 - [Why are child vaccination rates the lowest they have been in more than a decade?](https://news.sky.com/story/why-are-child-vaccination-rates-the-lowest-they-have-been-in-more-than-a-decade-13404394) (Sky.com)
 
 - [Measles case confirmed in Passaic County, New Jersey, health officials say](https://www.cbsnews.com/newyork/news/measles-passaic-county-new-jersey/) (CBS News)
+
+## 25-32 (malaria)
+
+- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
+
+## 25-32 (chikungunya)
+
+- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)
 
 ## 25-31 (zika)
 
@@ -2499,8 +2519,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2534,8 +2552,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
