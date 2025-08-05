@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-08-04 19:08
-- **Most recent article:** 2025-08-03 17:42:28
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-08-05 07:11
+- **Most recent article:** 2025-08-04 05:59:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 52 | 36 | 114 | 64 | 47 | 29 | 6 | 348 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 1 | 191 |
+| measles | 53 | 36 | 114 | 64 | 47 | 29 | 7 | 350 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 2 | 192 |
 | dengue | 26 | 24 | 34 | 24 | 36 | 32 | 0 | 176 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 1 | 107 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 2 | 108 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
 | mpox | 27 | 10 | 6 | 7 | 9 | 13 | 2 | 74 |
 | rabies | 4 | 17 | 17 | 4 | 11 | 10 | 2 | 65 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 3 | 42 |
-| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 0 | 37 |
+| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 1 | 39 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 0 | 10 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (measles)
 
+- [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
+
 - [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
 
 - [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
@@ -67,9 +69,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (malaria)
 
+- [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
+
 - [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
+## 25-32 (h5n1)
+
+- [ไทยยกระดับมาตรการเฝ้าระวัง “ไข้หวัดนก H5N1” หลังระบาดในกัมพูชา ตายแล้ว 6 ราย](https://www.thairath.co.th/news/politic/2874573) (Thairath.co.th)
+
 ## 25-32 (chikungunya)
+
+- [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
 
 - [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)
 
@@ -2519,6 +2529,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
+- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
+
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2552,6 +2564,8 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
+
+- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 

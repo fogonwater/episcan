@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-08-04 19:08",
-  "count_articles_total": 1151,
-  "count_articles_new": 7,
+  "last_updated": "2025-08-05 07:11",
+  "count_articles_total": 1157,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 23434,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Karoline Kan",
+      "title": "Hong Kong sees first mosquito-borne illness from China outbreak",
+      "description": "Foshan, a city just 90 minutes away by high-speed train, has seen over 6,500 people affected in the past few weeks.",
+      "url": "https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/08/04/485349.jpg?v=3.1",
+      "publishedAt": "2025-08-04 05:59:00",
+      "content": "Hong Kong reported its first case of chikungunya in six years, heightening concerns about the potential for local transmission of the mosquito-borne virus that can cause debilitating joint pain lasti\u2026 [+670 chars]",
+      "retrievedAt": "2025-08-05 07:11:47.621084",
+      "internal_id": "c204b0e47f8cf1a233fd112f0149967d4900e083be3af3c4866571e06c776172",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e44\u0e17\u0e22\u0e22\u0e01\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e21\u0e32\u0e15\u0e23\u0e01\u0e32\u0e23\u0e40\u0e1d\u0e49\u0e32\u0e23\u0e30\u0e27\u0e31\u0e07 \u201c\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e01 H5N1\u201d \u0e2b\u0e25\u0e31\u0e07\u0e23\u0e30\u0e1a\u0e32\u0e14\u0e43\u0e19\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e15\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27 6 \u0e23\u0e32\u0e22",
+      "description": "\u0e23\u0e2d\u0e07\u0e42\u0e06\u0e29\u0e01\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e25\u0e40\u0e1c\u0e22 \u0e01\u0e23\u0e21\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21\u0e42\u0e23\u0e04\u0e22\u0e01\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e21\u0e32\u0e15\u0e23\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e21\u0e40\u0e1d\u0e49\u0e32\u0e23\u0e30\u0e27\u0e31\u0e07\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c \u201c\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e01 H5N1\u201d \u0e41\u0e25\u0e30 \u201c\u0e2a\u0e32\u0e22\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c\u0e22\u0e48\u0e2d\u0e22 Clade 2.3.2.1e\u201d \u0e2b\u0e25\u0e31\u0e07\u0e1e\u0e1a\u0e23\u0e30\u0e1a\u0e32\u0e14\u0e43\u0e19\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e15\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27 6 \u0e23\u0e32\u0e22 \u0e02\u0e2d\u0e40\u0e01\u0e29\u0e15\u0e23\u0e01\u0e23\u0e2b\u0e21\u0e31\u0e48\u0e19\u0e2a\u0e31\u0e07\u0e40\u0e01\u0e15\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e2a\u0e31\u0e15\u0e27\u0e4c",
+      "url": "https://www.thairath.co.th/news/politic/2874573",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rfdVyAhQVnZI82shBoulxpTmvtZ36SmyaOgNvH6sqqzFf0nCe0.jpg",
+      "publishedAt": "2025-08-04 04:10:03",
+      "content": "4 2568 H5N1 Clade 2.3.2.1e 2566-2568 26 11 2568 13 22 2568 6 4 H5N1 Clade 2.3.2.1e 4 1 - GAP GFM (.) . 06-3225-6888 Application : DLD 4.0",
+      "retrievedAt": "2025-08-05 07:11:45.139305",
+      "internal_id": "75046be142dbd071025a3207e4ec9898f1d88e3e5ce789d0cb23f73a4f35a728",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23433,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela",
+      "description": "CYP2D6 Genotype in Patients with Malaria",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-08-04 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Malaria is prevalent in di\u2026 [+8466 chars]",
+      "retrievedAt": "2025-08-05 07:11:46.326793",
+      "internal_id": "d733636fba66647b253adeae898b3aac531074120b758886b8d2c1e0cdc4c264",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23431,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Fox11online.com",
+      "author": "Ben Krumholz",
+      "title": "Health officials: Nine Oconto County measles cases should serve as a wakeup call",
+      "description": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the country\u2019s worst year for the disease since it was declared eliminated 25 years ago.The",
+      "url": "https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call",
+      "urlToImage": "https://fox11online.com/resources/media2/16x9/1920/986/center/90/9cb66874-88fe-47bf-88d2-ad599fdc6cc0-pkgVideoMixdown4.jpg",
+      "publishedAt": "2025-08-03 22:08:10",
+      "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
+      "retrievedAt": "2025-08-05 07:11:44.548457",
+      "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
+      "publishedAtLabel": "Aug 3"
+    },
     {
       "id": 23427,
       "query": [
@@ -20802,6 +20874,42 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 22279,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
+      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
+      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
+      "publishedAt": "2025-06-22 16:09:35",
+      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
+      "retrievedAt": "2025-06-23 19:06:05.702761",
+      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 22278,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
+      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
+      "url": "https://www.memeorandum.com/250622/p35",
+      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
+      "publishedAt": "2025-06-22 15:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-06-23 19:06:04.743399",
+      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
+      "publishedAtLabel": "Jun 22"
     }
   ]
 }
