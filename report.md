@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-08-05 07:11
-- **Most recent article:** 2025-08-04 05:59:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-08-05 19:09
+- **Most recent article:** 2025-08-04 19:07:35
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 29 | 7 | 350 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 2 | 192 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 0 | 176 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 2 | 108 |
+| measles | 52 | 36 | 114 | 64 | 47 | 30 | 8 | 351 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 5 | 195 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 1 | 177 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 5 | 111 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
 | mpox | 27 | 10 | 6 | 7 | 9 | 13 | 2 | 74 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 2 | 65 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 3 | 66 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| zika | 2 | 8 | 12 | 8 | 2 | 7 | 3 | 42 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 1 | 39 |
+| zika | 2 | 8 | 12 | 8 | 2 | 7 | 4 | 43 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 1 | 38 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 0 | 10 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (zika)
 
+- [Butantan desenvolve anticorpo anti-zika com foco em gestantes](https://www.metropoles.com/saude/butantan-anticorpo-zika-gestantes) (Metropoles.com)
+
 - [Their children can't eat, speak or walk - so forgotten Zika mothers raise them together](https://www.bbc.com/news/articles/c39d0zj0110o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 - [Their children can't eat, speak or walk - so forgotten Zika mothers raise them together](https://www.bbc.com/news/articles/c39d0zj0110o) (BBC News)
@@ -40,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 - [Ten years after the Zika outbreak: What happened to the babies born with microcephaly?](https://www.bbc.co.uk/news/articles/c39d0zj0110o) (BBC News)
 
 ## 25-32 (rabies)
+
+- [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
 - [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
 
@@ -52,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [Measles in Wisconsin: Milwaukee health officials address prevention](https://www.fox6now.com/news/milwaukee-ramps-up-measles-prevention-preparedness) (fox6now.com)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
@@ -69,6 +75,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (malaria)
 
+- [Correction: Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329753) (Plos.org)
+
+- [Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329490) (Plos.org)
+
+- [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
+
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
 
 - [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
@@ -77,7 +89,17 @@ Source: [News API](https://newsapi.org/)
 
 - [ไทยยกระดับมาตรการเฝ้าระวัง “ไข้หวัดนก H5N1” หลังระบาดในกัมพูชา ตายแล้ว 6 ราย](https://www.thairath.co.th/news/politic/2874573) (Thairath.co.th)
 
+## 25-32 (dengue)
+
+- [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
+
 ## 25-32 (chikungunya)
+
+- [Un cinquième cas de chikungunya autochtone confirmé en Isère, une nouvelle opération de démoustication programmée](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/un-cinquieme-cas-de-chikungunya-autochtone-confirme-en-isere-une-nouvelle-operation-de-demoustication-programmee-3197613.html) (Franceinfo.fr)
+
+- [Isère. Un cas importé de chikungunya détecté dans une nouvelle commune](https://www.ledauphine.com/sante/2025/08/04/isere-saint-marcellin-cas-importe-de-chikungunya-une-demoustication-dans-la-nuit-de-mardi-a-mercredi) (Le Dauphiné Libéré)
+
+- [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
 
@@ -184,6 +206,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles: Medics urge parents to vaccinate children ahead of new academic year](https://www.gbnews.com/health/measles-symptoms-vaccinations-parents-children-summer-holidays) (Gbnews.com)
 
 - [Malaysia launches nationwide measles-rubella vaccination campaign to combat rising infections](https://www.thestar.com.my/news/nation/2025/08/02/malaysia-launches-nationwide-measles-rubella-vaccination-campaign-to-combat-rising-infections) (The Star Online)
+
+- [What this Mennonite healthcare provider learned working during the measles outbreak](https://www.cbc.ca/news/canada/london/what-this-mennonite-healthcare-provider-learned-working-during-the-measles-outbreak-1.7599554) (CBC News)
 
 - [Measles outbreak in Manipur’s Senapati district](https://thehillstimes.in/northeast/measles-outbreak-in-manipurs-senapati-district) (Thehillstimes.in)
 
@@ -2529,8 +2553,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2564,8 +2586,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 

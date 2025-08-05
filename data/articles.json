@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-08-05 07:11",
-  "count_articles_total": 1157,
-  "count_articles_new": 4,
+  "last_updated": "2025-08-05 19:09",
+  "count_articles_total": 1166,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 23438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Talamua.com",
+      "author": "Staff Reporters",
+      "title": "FAST Party launches health appeal against dengue fever",
+      "description": "05 August 2025 \u2013 The FAST Party is using its current campaign platform and scheduled meetings with the villages and constituencies, to push through the health message of prevention against the rising spread of dengue fever. Yesterday morning, the party launch\u2026",
+      "url": "https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/",
+      "urlToImage": "https://i0.wp.com/talamua.com/wp-content/uploads/2025/08/FAST-dengue-fever-help.jpg?resize=1000%2C600&ssl=1",
+      "publishedAt": "2025-08-04 19:07:35",
+      "content": "05 August 2025 \u2013 The FAST Party is using its current campaign platform and scheduled meetings with the villages and constituencies, to push through the health message of prevention against the rising\u2026 [+1364 chars]",
+      "retrievedAt": "2025-08-05 19:09:05.700703",
+      "internal_id": "09a638895f9c57b0c760cb4954e5486f710e927893b2babe1a0c2230d12d7311",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23435,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Bat flies into tourist's mouth during Arizona night sky photography trip",
+      "description": "A Massachusetts woman is now facing a $20,000 bill for rabies treatment after a bat flew into her mouth during an Arizona photography trip with her father.",
+      "url": "https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/bats_istock.jpg",
+      "publishedAt": "2025-08-04 17:00:09",
+      "content": "A Massachusetts woman had a scary encounter while traveling to Arizona to visit her father. Erica Kahn was in Northern Arizona with her dad last August to take their annual pictures of the sky. \"W\u2026 [+2187 chars]",
+      "retrievedAt": "2025-08-05 19:09:04.282104",
+      "internal_id": "c27e2a28237a6d4c327793dc151c303ca85fc28106beeec8d9023d25db1105ea",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23444,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Margot Desmas",
+      "title": "Un cinqui\u00e8me cas de chikungunya autochtone confirm\u00e9 en Is\u00e8re, une nouvelle op\u00e9ration de d\u00e9moustication programm\u00e9e",
+      "description": "Cinq cas de chikungunya autochtones, vraisemblablement li\u00e9s les uns aux autres, sont d\u00e9sormais confirm\u00e9s pr\u00e8s de Grenoble, en Is\u00e8re. La maladie se transmet par l\u2019interm\u00e9diaire de la piq\u00fbre d\u2019un moustique tigre.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/un-cinquieme-cas-de-chikungunya-autochtone-confirme-en-isere-une-nouvelle-operation-de-demoustication-programmee-3197613.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/qMFhcLQ-xoDPvviXlIaEQh3rPbA/930x620/regions/2025/08/04/080-hl-nguyonnet-2519933-6890cff81cd5d828572267.jpg",
+      "publishedAt": "2025-08-04 15:30:50",
+      "content": "Cinq cas de chikungunya autochtones, vraisemblablement li\u00e9s les uns aux autres, sont d\u00e9sormais confirm\u00e9s pr\u00e8s de Grenoble, en Is\u00e8re. La maladie se transmet par linterm\u00e9diaire de la piq\u00fbre dun moustiq\u2026 [+2202 chars]",
+      "retrievedAt": "2025-08-05 19:09:07.421722",
+      "internal_id": "778485faebeb346659eefa0fd12061a5cb5e8a0cb2d271a5f2709ddc2427f22e",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23442,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Butantan desenvolve anticorpo anti-zika com foco em gestantes",
+      "description": "Infec\u00e7\u00e3o por zika \u00e9 associada \u00e0 microcefalia. Medica\u00e7\u00e3o pode proteger gr\u00e1vidas e evitar que v\u00edrus seja transmitido ao feto na gesta\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/butantan-anticorpo-zika-gestantes",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/08/04105104/Instituto-Butantan-trabalha-no-desenvolvimento-de-anticorpo-monoclonal-contra-virus-Zika-para-possivel-uso-em-gravidas-3.jpg",
+      "publishedAt": "2025-08-04 15:15:07",
+      "content": "O Instituto Butantan est\u00e1 desenvolvendo um medicamento experimental baseado em anticorpos monoclonais para prevenir a infec\u00e7\u00e3o pelo v\u00edrus zika. O foco principal \u00e9 proteger mulheres gr\u00e1vidas, j\u00e1 que a\u2026 [+3405 chars]",
+      "retrievedAt": "2025-08-05 19:09:06.926794",
+      "internal_id": "6f1f9587164d0f16ad4e1beebb0b1a9dde5380436561b668255b0397a835f0c2",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23437,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "fox6now.com",
+      "author": "Fox6 News Digital Team",
+      "title": "Measles in Wisconsin: Milwaukee health officials address prevention",
+      "description": "The City of Milwaukee Health Department on Monday, Aug. 4 held a news conference to address measles prevention and preparedness.",
+      "url": "https://www.fox6now.com/news/milwaukee-ramps-up-measles-prevention-preparedness",
+      "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/04/1280/720/15B0F488AFCCADA8F86061468C9F8A12.jpg?ve=1&tl=1",
+      "publishedAt": "2025-08-04 15:08:20",
+      "content": "MILWAUKEE - The City of Milwaukee Health Department on Monday, Aug. 4 held a news conference to address measles prevention and preparedness. This comes afterthe Wisconsin Department of Health Servi\u2026 [+2419 chars]",
+      "retrievedAt": "2025-08-05 19:09:04.818075",
+      "internal_id": "dcc8ee41d4d962e05f84093a84b06ce32cb780009aafd7aeb79a57355cb8f965",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23443,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Is\u00e8re. Un cas import\u00e9 de chikungunya d\u00e9tect\u00e9 dans une nouvelle commune",
+      "description": "Une personne revenue de Madagascar est porteuse du virus du chikungunya \u00e0 Saint-Marcellin et le moustique tigre a \u00e9t\u00e9 vu en fin de semaine derni\u00e8re. Une op\u00e9ration de d\u00e9moustication aura lieu dans la nuit de mardi \u00e0 mercredi.",
+      "url": "https://www.ledauphine.com/sante/2025/08/04/isere-saint-marcellin-cas-importe-de-chikungunya-une-demoustication-dans-la-nuit-de-mardi-a-mercredi",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/ADA39D3D-AB70-4194-AF02-3578AF81C465/FB1200/photo-1754318213.jpg",
+      "publishedAt": "2025-08-04 14:48:00",
+      "content": "Un cas de chikungunya ayant \u00e9t\u00e9 d\u00e9tect\u00e9 dans un quartier de Saint-Marcellin, dans un secteur situ\u00e9 autour de l\u2019avenue du Docteur-Carrier, une op\u00e9ration de d\u00e9moustication va s\u2019y d\u00e9rouler dans la nuit \u2026 [+1351 chars]",
+      "retrievedAt": "2025-08-05 19:09:07.362210",
+      "internal_id": "9a9acdb952913bca304e1a04947a6a53f2801954e8c1e60a99ba20c8c31b5d99",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lorenzo C\u00e1ceres Carrera, Ana Mar\u00eda Santamar\u00eda, Anakena Margarita Castillo, Luis Romero, Eduardo Urriola, Rolando Torres-Cosme, Jos\u00e9 Eduardo Calzada",
+      "title": "Correction: Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329753",
+      "urlToImage": null,
+      "publishedAt": "2025-08-04 14:00:00",
+      "content": "In the Conclusion section, there is an error in the fourth sentence. The correct sentence is: This study highlights the need for longitudinal studies conducted in all endemic regions of Panama to eva\u2026 [+750 chars]",
+      "retrievedAt": "2025-08-05 19:09:06.682585",
+      "internal_id": "7edc40648ad6b9ea1a7cd84b08a86da61e606080ddb1bcbf26c6e5036b0e054f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23441,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chao Yang, Yunjiang Liu, Lingyun Gai, Ziteng Zhang, Yanshou Zhang, Geng Zhang, Kaiye Du, Chao Gao",
+      "title": "Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis",
+      "description": "Background Breast cancer continues to be a predominant cause of female mortality globally, characterized by limited therapeutic options and substantial adverse effects. Artesunate (ART), a traditional Chinese medicine approved by the FDA for malaria treatment\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329490",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329490.g008&size=inline",
+      "publishedAt": "2025-08-04 14:00:00",
+      "content": "Citation: Yang C, Liu Y, Gai L, Zhang Z, Zhang Y, Zhang G, et al. (2025) Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis. PLoS One 20(8): e03\u2026 [+53780 chars]",
+      "retrievedAt": "2025-08-05 19:09:06.692657",
+      "internal_id": "83a0538dd3a38e600e506c8389cd8d0b021dc454769610804b8843e9dca536a6",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23445,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Daynight.gr",
+      "author": "Tasos",
+      "title": "\u039a\u03af\u03bd\u03b1: \u039f \u03b9\u03cc\u03c2 chikungunya \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1",
+      "description": "\u039c\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd chikungunya \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af \u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1, \u03bc\u03b5 \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03ae\u03b4\u03b7, \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03c0\u03cc\u03bd\u03bf \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03b8\u03c1\u03ce\u03c3\u03b5\u03b9\u03c2",
+      "url": "https://www.daynight.gr/plus/health/ios-chikungunya-kina/",
+      "urlToImage": "https://www.daynight.gr/wp-content/uploads/2023/09/covid-19-nosokomeia-1-1280x720-1.jpeg",
+      "publishedAt": "2025-08-04 13:18:36",
+      "content": "chikungunya , , chikungunya, . , 5.000 , 2.800 . chikungunya chikungunya , . , , , . , chikungunya 90 240.000 16 . () , 20 . , , , . (CDC) , . , .",
+      "retrievedAt": "2025-08-05 19:09:07.438151",
+      "internal_id": "26092703a9c3e5d5f5b825d045bb01b2f55992095d10579115ce6e3fc4892792",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 23439,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Carlota Brandis",
+      "title": "Kampf gegen Malaria: \u201eWir hatten ein Problem, jetzt haben wir eine Krise\u201c",
+      "description": "Malaria breitet sich in Afrika rapide aus. L\u00f6sungen w\u00e4ren mit genug Finanzierung greifbar nah \u2013 aber die Entwicklungshilfe wird gek\u00fcrzt.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/1391833699/1.10621321/facebook_teaser_fplus/ein-kind-wird-2024-im.jpg",
+      "publishedAt": "2025-08-04 13:04:01",
+      "content": "Olivia Ngou beschreibt den Kampf gegen Malaria in ihrem Heimatland Kamerun als Rennen gegen die Zeit. Da ist zum einen die knappe Frist, die man zwischen dem Stich einer M\u00fccke mit Malariaerreger und \u2026 [+337 chars]",
+      "retrievedAt": "2025-08-05 19:09:06.644091",
+      "internal_id": "9dbaa90d18a47228a1b58dc731cc44b3c69f059740a205023036d307f8cf6e86",
+      "publishedAtLabel": "Aug 4"
+    },
     {
       "id": 23434,
       "query": [
@@ -577,6 +757,24 @@
       "content": "PUTRAJAYA: Malaysia will launch a nationwide measles-rubella vaccination campaign on Aug 4, following a rise in infections and reported deaths among unvaccinated children. The Health Ministry announ\u2026 [+802 chars]",
       "retrievedAt": "2025-08-03 19:06:15.059483",
       "internal_id": "21a8a7eafde4ef8d468f2d5ed480361438e2eadff77ed595537c8c448e36f958",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 23436,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "What this Mennonite healthcare provider learned working during the measles outbreak",
+      "description": "Catalina Friesen is a personal support worker who was raised Mennonite in Mexico, and moved to Canada with her family. She's now a personal support worker with a clinic that works with Mennonite families in the Aylmer area.",
+      "url": "https://www.cbc.ca/news/canada/london/what-this-mennonite-healthcare-provider-learned-working-during-the-measles-outbreak-1.7599554",
+      "urlToImage": "https://i.cbc.ca/1.7599557.1754058897!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/catalina-friesen.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-02 09:00:00",
+      "content": "The measles outbreak in southwestern Ontario has put the spotlight on vaccine hesitancy in some of the province's Mennonite communities in recent months. Public health units were dealing with hundr\u2026 [+4160 chars]",
+      "retrievedAt": "2025-08-05 19:09:04.757768",
+      "internal_id": "cc1200c81967954525b510bcffc8a566fc15cc58fc0d524031c449fcbe1d9ed8",
       "publishedAtLabel": "Aug 2"
     },
     {
@@ -20874,42 +21072,6 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 22279,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ferra.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
-      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
-      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
-      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
-      "publishedAt": "2025-06-22 16:09:35",
-      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
-      "retrievedAt": "2025-06-23 19:06:05.702761",
-      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
-      "publishedAtLabel": "Jun 22"
-    },
-    {
-      "id": 22278,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
-      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
-      "url": "https://www.memeorandum.com/250622/p35",
-      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
-      "publishedAt": "2025-06-22 15:35:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-06-23 19:06:04.743399",
-      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
-      "publishedAtLabel": "Jun 22"
     }
   ]
 }
