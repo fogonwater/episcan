@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-08-05 19:09
-- **Most recent article:** 2025-08-04 19:07:35
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-08-06 07:11
+- **Most recent article:** 2025-08-05 06:25:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 52 | 36 | 114 | 64 | 47 | 30 | 8 | 351 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 5 | 195 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 1 | 177 |
+| measles | 53 | 36 | 114 | 64 | 47 | 30 | 10 | 354 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 7 | 197 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 3 | 179 |
 | malaria | 13 | 21 | 29 | 12 | 18 | 13 | 5 | 111 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
 | mpox | 27 | 10 | 6 | 7 | 9 | 13 | 2 | 74 |
 | rabies | 4 | 17 | 17 | 4 | 11 | 10 | 3 | 66 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 4 | 43 |
-| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 1 | 38 |
+| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 2 | 40 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
-| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 0 | 10 |
+| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 1 | 11 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
 
 
@@ -57,6 +57,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (measles)
 
+- [Health officials give reminders after first confirmed measles cases in Wisconsin](https://www.news8000.com/lifestyle/health-officials-give-reminders-after-first-confirmed-measles-cases-in-wisconsin/article_11f342a1-ca3f-4c26-a4aa-b7e49c86a396.html) (News8000.com - WKBT)
+
+- [UW Health official warns of dangers of measles after first cases in Wisconsin](https://www.wkow.com/news/health/uw-health-official-warns-of-dangers-of-measles-after-first-cases-in-wisconsin/article_ef9d72b1-0008-4d65-92dd-67609217a2b5.html) (WKOW)
+
 - [Measles in Wisconsin: Milwaukee health officials address prevention](https://www.fox6now.com/news/milwaukee-ramps-up-measles-prevention-preparedness) (fox6now.com)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
@@ -85,15 +89,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
+## 25-32 (hpai)
+
+- [South Africa Confirms New Bird Flu Outbreak](https://www.shtfplan.com/headline-news/south-africa-confirms-new-bird-flu-outbreak) (Shtfplan.com)
+
 ## 25-32 (h5n1)
+
+- [Новое средство от гриппа оказалось сильнее популярных препаратов](https://lenta.ru/news/2025/08/05/novoe-sredstvo-ot-grippa-okazalos-silnee-populyarnyh-preparatov/) (Lenta)
 
 - [ไทยยกระดับมาตรการเฝ้าระวัง “ไข้หวัดนก H5N1” หลังระบาดในกัมพูชา ตายแล้ว 6 ราย](https://www.thairath.co.th/news/politic/2874573) (Thairath.co.th)
 
 ## 25-32 (dengue)
 
+- [Sāmoa Prime Minister addresses surge in dengue cases](https://pmn.co.nz/read/health/samoa-prime-minister-addresses-surge-in-dengue-cases) (Pmn.co.nz)
+
+- [Dengue México 2025. Casos superan 5 mil, hay 32 muertes](https://www.excelsior.com.mx/nacional/dengue-mexico-2025-casos-superan-5-mil-hay-32-muertes/1730934) (Excelsior.com.mx)
+
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [屈公病是什麼？中國確診破7000例，症狀、治療、預防懶人包一次看](https://www.thenewslens.com/article/256766) (Thenewslens.com)
+
+- [Epidemiology of Chikungunya Hospitalizations, Brazil, 2014–2024](https://wwwnc.cdc.gov/eid/article/31/9/25-0554_article) (Cdc.gov)
 
 - [Un cinquième cas de chikungunya autochtone confirmé en Isère, une nouvelle opération de démoustication programmée](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/un-cinquieme-cas-de-chikungunya-autochtone-confirme-en-isere-une-nouvelle-operation-de-demoustication-programmee-3197613.html) (Franceinfo.fr)
 
@@ -2553,6 +2571,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
+- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
+
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2586,6 +2606,8 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
+
+- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
