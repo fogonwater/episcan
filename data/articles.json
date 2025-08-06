@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-08-06 07:11",
-  "count_articles_total": 1176,
-  "count_articles_new": 8,
+  "last_updated": "2025-08-06 19:08",
+  "count_articles_total": 1193,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 23455,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Stephanie Pappas",
+      "title": "Bird Flu Could Be Spreading through the Air on Dairy Farms, Preliminary Study Shows",
+      "description": "Infectious bird flu virus was found in milk, on equipment, within wastewater and aerosolized in the air on California dairy farms",
+      "url": "https://www.scientificamerican.com/article/bird-flu-could-be-spreading-through-the-air-on-dairy-farms-preliminary-study/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/7f83881ed0cbd9ab/original/cows_and_birds_on_dairy_farm.jpg?m=1754418888.055&w=1200",
+      "publishedAt": "2025-08-05 18:45:00",
+      "content": "The H5N1 avian influenza virus can now be found not only in milk and on milking equipment but also in farm wastewater and in the air, say researchers who have been trying to figure out how the virus \u2026 [+6042 chars]",
+      "retrievedAt": "2025-08-06 19:08:22.030192",
+      "internal_id": "1f617c59107507dd35a10d3b97175fdd462351262ace5820fc2cbf50acc51fe2",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23463,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Joshua Nair",
+      "title": "What happens to your body if you catch Chikungunya virus as China begins 'pandemic measures'",
+      "description": "The symptoms for Chikungunya virus have been explained as China has begun pandemic measures",
+      "url": "https://www.ladbible.com/news/health/chikungunya-virus-symptoms-china-pandemic-measures-209204-20250805",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt11149028529a4588/68921f16f2d8f322fad04b25/chikungunya-virus-symptoms.jpg",
+      "publishedAt": "2025-08-05 17:25:16",
+      "content": "This might seem all too familiar to us, but China has started to implement 'pandemic measures' in response to a new virus. No need to pinch yourself, it's not 2020 again, but the nation has stated t\u2026 [+2944 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.235389",
+      "internal_id": "f70dd42f40ef7b6f7b09ce493af87d13749475cbc940b2dbf9971b0b8a760f76",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23472,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mo\u00e7ambique. Vacinas para conter Mpox chegam em setembro",
+      "description": "Autoridades sanit\u00e1rias contabilizam 28 casos de Mpox na prov\u00edncia de Niassa, norte do pa\u00eds, o epicentro do surto, e um na prov\u00edncia de Maputo, sul de Mo\u00e7ambique, al\u00e9m de 170 suspeitos.",
+      "url": "https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F05%2F08125250%2F43681521.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-05 16:52:44",
+      "content": "Mo\u00e7ambique vai receber em setembro vacinas para conter um poss\u00edvel cen\u00e1rio de alastramento de casos de mpox, quando o pa\u00eds regista 29 casos em duas prov\u00edncias, em menos de um m\u00eas, anunciou esta ter\u00e7a\u2026 [+3100 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.831905",
+      "internal_id": "12c1a0539f0974d02bb15cd96ad923706dc47907cf91648960e84f82cf015618",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23466,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Britt Jones",
+      "title": "Likelihood of Chikungunya virus spreading across the world as 'pandemic response' triggered in China",
+      "description": "A rise in cases of the Chikungunya virus have been reported in Guangdong, China, with 3,000 cases being reported in one week alone.",
+      "url": "https://www.ladbible.com/news/health/chinkungunya-virus-china-spread-symptoms-615841-20250805",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blte7a2ac06bf5d1be9/68921cf51e3fba05a106b5fe/GettyImages-2227798113.jpg",
+      "publishedAt": "2025-08-05 16:30:06",
+      "content": "China has reported over 7,000 cases of the chikungunya virus in the Guangdong province this year, and authorities have implemented 'forceful measures' in a bid to stop the spread. COVID-19 took the \u2026 [+3314 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.261272",
+      "internal_id": "5f64e1816c8c94fd2c5d0c45d9271525114afcd29e8835115e55ac62fed77b34",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23460,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Enes K\u0131l\u0131\u00e7",
+      "title": "\u00c7in'de korkutan vir\u00fcs: 7 binden fazla vaka sonras\u0131 ABD'den fla\u015f karar!",
+      "description": "\u00c7in'in Guangdong eyaletinde sivrisinek kaynakl\u0131 chikungunya vir\u00fcs\u00fc nedeniyle 7 binden fazla vaka tespit edildi. ABD, vakalar art\u0131\u015f g\u00f6stermesi nedeniyle \u00c7in'e seyahat edenlere 'daha dikkatli olmalar\u0131' uyar\u0131s\u0131nda bulundu.",
+      "url": "https://www.haber7.com/dunya/haber/3552966-cinde-korkutan-virus-7-binden-fazla-vaka-sonrasi-abdden-flas-karar",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720/haber/haber7/bigmanset/2025/32/cinde_korkutan_virus_7_binden_fazla_vaka_sonrasi_abdden_flas_karar_1754409700_6482.jpg",
+      "publishedAt": "2025-08-05 15:47:00",
+      "content": "\u00c7in'in g\u00fcneyinde sivrisinek kaynakl chikungunya vir\u00fcs\u00fc hzla yaylyor. 7 BNDEN FAZLA VAKA TESPT EDLD Guangdong eyaletinde 7 binden fazla vaka tespit edildi. Vakalarn \u00e7ounun Foshan kentinde g\u00f6r\u00fcld\u00fc\u00fc b\u2026 [+1455 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.201975",
+      "internal_id": "ab0bda806456550058338bbdd7f667cb45068a8995383de81f64b96b21a5e91a",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23471,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Gana'da M-\u00e7i\u00e7e\u011fi vaka say\u0131s\u0131 302'ye y\u00fckseldi",
+      "description": "Bat\u0131 Afrika \u00fclkesi Gana'da, M-\u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc vaka say\u0131s\u0131n\u0131n 302'ye y\u00fckseldi\u011fi bildirildi.",
+      "url": "https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621",
+      "urlToImage": "https://im.haberturk.com/l/2025/08/05/ver1754403410/3812621/jpg/1200x628",
+      "publishedAt": "2025-08-05 14:17:37",
+      "content": "Gana Salk Servisi'nden yaplan a\u00e7klamada, \u00fclkede 20 yeni M-\u00e7i\u00e7ei (mpox) vakasnn tespit edildii duyuruldu. \u00dclkede mays ayndan itibaren vaka saysnn 302'ye y\u00fckseldii belirtildi. A\u00e7klamada, son paylalan\u2026 [+59 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.815011",
+      "internal_id": "69c90c98f0ee23bcaf55942dc093f8becaa93e05e1b359fc6a0bb290b9c78165",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23456,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Estudo indica contamina\u00e7\u00e3o de gripe avi\u00e1ria no ar de fazendas dos EUA",
+      "description": "Pesquisa identifica que ar e \u00e1gua de fazendas de gado nos EUA est\u00e3o altamente contaminados com o v\u00edrus da gripe avi\u00e1ria",
+      "url": "https://www.metropoles.com/saude/gripe-aviaria-no-ar-em-fazendas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/23110410/Vacas-trabalhador-gado-leiteiro-gripe-aviaria.jpg",
+      "publishedAt": "2025-08-05 13:34:01",
+      "content": "Cientistas de cinco universidades norte-americanas detectam o v\u00edrus da gripe avi\u00e1ria (H5N1) em uma forma altamente infecciosa no ar e na \u00e1gua de fazendas de gado leiteiro que foram atingidas pelo sur\u2026 [+3879 chars]",
+      "retrievedAt": "2025-08-06 19:08:22.048123",
+      "internal_id": "b829190ace57f2a67eda301a8e9f154693a64fe9da60f82e9fe2e27e8e40ca41",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Cegah DBD, Babinsa dan Puskesmas Sopa\u2019ah Lakukan Fogging di Pademawu Timur",
+      "description": "PAMEKASAN, Selasa (5/8) suaraindonesia-news.com \u2014 Dalam rangka mencegah... The post Cegah DBD, Babinsa dan Puskesmas Sopa\u2019ah Lakukan Fogging di Pademawu Timur appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/cegah-dbd-babinsa-dan-puskesmas-sopaah-lakukan-fogging-di-pademawu-timur/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2025/08/IMG_20250805_200612.jpg",
+      "publishedAt": "2025-08-05 13:10:19",
+      "content": "PAMEKASAN, Selasa (5/8) suaraindonesia-news.com Dalam rangka mencegah penyebaran penyakit Demam Berdarah Dengue (DBD), Babinsa Koramil 0826-06 Pademawu, Serma M. Slamet, bersama petugas dari UPT Pusk\u2026 [+1394 chars]",
+      "retrievedAt": "2025-08-06 19:08:22.516623",
+      "internal_id": "4e9d362b22931aaa1eb543f5caaf3e9441510384cc4ea4073fe56a83bf2b4233",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23467,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Emma Rosemurgey",
+      "title": "Chikungunya virus breaks out in China as country responds with 'forceful pandemic measures'",
+      "description": "Nearly 3,000 cases of Chikungunya virus have been recorded in China as the country plans to take 'decisive and forceful measures' to stop the spread.",
+      "url": "https://www.ladbible.com/news/world-news/chikungunya-virus-china-outbreak-134428-20250805",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt5967e8c6dc2fccd4/6891f164b13c4a7c9e1fa122/GettyImages-2228275985.jpg",
+      "publishedAt": "2025-08-05 13:00:17",
+      "content": "China has vowed to take 'forceful and decisive measures' after more than 7,000 cases of the chikungunya virus have been reported in the Guangdong province since July. Cases of the virus have been re\u2026 [+2921 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.269793",
+      "internal_id": "d2591b109b9e984517849466a908263a16bd8a746fecbcb3c39228b52acb0ca8",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23459,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Fatih Yoncal\u0131k",
+      "title": "\u00c7in\u2019de yeni alarm: Chikungunya! Vaka say\u0131s\u0131 7 bini ge\u00e7ti",
+      "description": "\u00c7in'in Fo\u015fan kentinde sivrisinek kaynakl\u0131 chikungunya vir\u00fcs\u00fc vakalar\u0131 art\u0131\u015f g\u00f6sterdi. Vaka say\u0131s\u0131n\u0131n 7 bini a\u015ft\u0131\u011f\u0131 b\u00f6lgede enfeksiyonu \u00f6nleme ve kontrol alt\u0131na alma \u00e7abalar\u0131 s\u00fcr\u00fcyor.",
+      "url": "https://www.haber7.com/dunya/haber/3552921-cinde-yeni-alarm-chikungunya-vaka-sayisi-7-bini-gecti",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/32/rY95I_1754397069_0166.jpg",
+      "publishedAt": "2025-08-05 12:35:00",
+      "content": "China Daily gazetesinin haberine g\u00f6re, Foan'da kaytlara ge\u00e7en chikungunya vir\u00fcs\u00fc vakalar art g\u00f6sterdi. Yetkililer, Foan'daki toplam chikungunya vakas saysnn 7 bini ge\u00e7tiini a\u00e7klad. VAKALAR HIZLA AR\u2026 [+582 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.192109",
+      "internal_id": "aa71719078908d27fd201eb9dd2b84b297605a66b59c2cb2b16449716c59574e",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23464,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Chikungunya virus spreading fast in China - is it reaching pandemic level? Here're causes, symptoms and treatment",
+      "description": "Guangdong province in China is grappling with a significant chikungunya virus outbreak, reporting over 7,000 cases since July. The rapid spread has prompted stringent measures, including mandatory hospitalization and mosquito control initiatives. While offici\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/chikungunya-virus-spreading-fast-in-china-is-it-reaching-pandemic-level-herere-causes-symptoms-and-treatment/articleshow/123118671.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123119047,width-1200,height-630,imgsize-89604,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-05 12:19:47",
+      "content": "Chikungunya virus spreading fast in China: The southern province of Guangdong is seeing thousands of infections as a result of China's unexpected chikungunya virus outbreak. Public anxiety has increa\u2026 [+5008 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.244369",
+      "internal_id": "d9c92c518309826aba34717ba985ff44c34929782a729eae827464e29f7ce1ee",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23470,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "\u00c7in'de vir\u00fcs pani\u011fi: Vaka say\u0131s\u0131 7 bini ge\u00e7ti! 'Tehlike s\u00fcr\u00fcyor'",
+      "description": "\u00c7in'in Guangdong eyaletine ba\u011fl\u0131 Fo\u015fan kentinde chikungunya vir\u00fcs\u00fc vakalar\u0131nda art\u0131\u015f ya\u015fand\u0131. \u00c7inli yetkililer, sivrisineklerden bula\u015fan chikungunya vir\u00fcs\u00fcne yakalananlar\u0131n say\u0131s\u0131n\u0131n 7 bini ge\u00e7ti\u011fini bildirdi.",
+      "url": "https://www.hurriyet.com.tr/dunya/cinde-virus-panigi-vaka-sayisi-7-bini-gecti-tehlike-suruyor-42903849",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/6891ea872c11bd5f613cc1ea.jpg",
+      "publishedAt": "2025-08-05 11:27:06",
+      "content": "p&gt;China Daily gazetesinin haberine g\u00f6re, Foan'da kaytlara ge\u00e7en chikungunya vir\u00fcs\u00fc vakalar art g\u00f6sterdi.Yetkililer, Foan'daki toplam chikungunya vakas saysnn 7 bini ge\u00e7tiini a\u00e7klad. Enfeksiyonu \u00f6\u2026 [+527 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.332126",
+      "internal_id": "1234340826559896cf4dab88f8ea72ab5fa00fbfc10b1f858e68fce756c784e6",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23465,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "China enforces Covid-like measures amid Chikungunya outbreak",
+      "description": "China is implementing Covid-like measures to combat a growing chikungunya outbreak, with over 7,000 cases reported since July. Foshan, the most affected city, mandates hospitalization for infected patients under mosquito nets. Real-name registration is requir\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/china-enforces-covid-like-measures-amid-chikungunya-outbreak/articleshow/123118423.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123118394,width-1200,height-630,imgsize-89604,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-05 11:25:19",
+      "content": "China has introduced Covid-style containment measures to tackle a growing chikungunya outbreak, with over 7,000 cases reported nationwide since July, according to multiple reports.In Foshan the worst\u2026 [+2521 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.252649",
+      "internal_id": "2f9df1b8121e89f6614f19c87478650971f601a73ce07240ac88079b2c0c41e4",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23454,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WGEM",
+      "author": "Sydney Leyerle",
+      "title": "Health department shares the importance of vaccines",
+      "description": "Vaccines are required for school-aged kids across the Tri-States.",
+      "url": "https://www.wgem.com/2025/08/05/health-department-shares-importance-vaccines/",
+      "urlToImage": "https://gray-wgem-prod.gtv-cdn.com/resizer/v2/36UPWMVS2VE77PVXAIESDTG7RQ.jpg?auth=bb23499826939d8697f553dd3f598a1efdc4630dad5297195910e59948ce2441&width=1200&height=600&smart=true",
+      "publishedAt": "2025-08-05 10:00:42",
+      "content": "QUINCY (WGEM) - The Centers for Disease Control and Prevention reports as of July 29, a total of 1,333 confirmed measles cases have been reported in the U.S. Thats up from the 285 reported cases in 2\u2026 [+1426 chars]",
+      "retrievedAt": "2025-08-06 19:08:21.520530",
+      "internal_id": "861cb9e02fc183e52a1d6db8f6f6f54c3b783ce43af2f452ce9b9f3780f5ae86",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23462,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "K\u00fcl\u00f6n\u00f6s j\u00e1rv\u00e1ny terjed K\u00edn\u00e1ban: a koronav\u00edrusn\u00e1l l\u00e1tott megold\u00e1sokat vetnek be a hat\u00f3s\u00e1gok, egyel\u0151re nincs gy\u00f3gym\u00f3d",
+      "description": "K\u00edna d\u00e9lkeleti Kuangtung tartom\u00e1ny\u00e1ban egyre t\u00f6bb embern\u00e9l fedezik fel a sz\u00fanyogok \u00e1ltal terjesztett v\u00edrusos megbeteged\u00e9st. A BBC szerint az orsz\u00e1g hasonl\u00f3 int\u00e9zked\u00e9scsomaggal l\u00e9p fel a terjed\u00e9s ellen, mint kor\u00e1bban a covid-19 eset\u00e9ben.",
+      "url": "https://www.portfolio.hu/gazdasag/20250805/kulonos-jarvany-terjed-kinaban-a-koronavirusnal-latott-megoldasokat-vetnek-be-a-hatosagok-egyelore-nincs-gyogymod-778263",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/v/i/r/virus-fertozes-mikroba-jarvany-bakterium-634803.jpg",
+      "publishedAt": "2025-08-05 08:46:00",
+      "content": "Fosanban \u00fct\u00f6tte fel a fej\u00e9t a legersebben a chikungunya-j\u00e1rv\u00e1ny, ebben a v\u00e1rosban regisztr\u00e1lt\u00e1k eddig a legt\u00f6bb esetet. Itt a betegeknek a k\u00f3rh\u00e1zi \u00e1gyukban kell maradni, ezt pedig sz\u00fanyogh\u00e1l\u00f3val v\u00e9di\u2026 [+2488 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.219409",
+      "internal_id": "97f1a153a63f47bd273b5aff00eb6557b65e5755e6bfefe100eb53507301b1c8",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23468,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "\u00c7in'de 7 binden fazla vaka bildirildi: Sivrisinek kaynakl\u0131 vir\u00fcs h\u0131zla yay\u0131l\u0131yor",
+      "description": "\u00c7in\u2019in Guangdong eyaletinde temmuz ay\u0131ndan bu yana 7 bini a\u015fk\u0131n chikungunya vakas\u0131 bildirildi. Yetkililer, vir\u00fcsle m\u00fccadelede COVID-19 d\u00f6nemini hat\u0131rlatan sert \u00f6nlemler ald\u0131.",
+      "url": "https://anlatilaninotesi.com.tr/20250805/cinde-7-binden-fazla-vaka-bildirildi-sivrisinek-kaynakli-virus-hizla-yayiliyor-1098363545.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1098363545.jpg?10412433871754381872",
+      "publishedAt": "2025-08-05 08:17:51",
+      "content": "T\u00fcrkiye ve d\u00fcnyadan ilgi \u00e7ekici yaam haberleri, toplumsal olaylar, g\u00fcncel aratrmalar, fotoraf ve video galerileri. https://anlatilaninotesi.com.tr/20250805/cinde-7-binden-fazla-vaka-bildirildi-sivri\u2026 [+4564 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.285742",
+      "internal_id": "ad97265199c9c12188402c16525d8d27f6d9433708a7c654930a59b1acbbc994",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23457,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue: produto elimina larvas do mosquito em at\u00e9 48 horas",
+      "description": "Tecnologia \u00e0 base de \u00f3leo de tomilho foi criada por pesquisadores brasileiros e pode ajudar a combater o mosquito Aedes aegypti O post Dengue: produto elimina larvas do mosquito em at\u00e9 48 horas apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/08/05/medicina-e-saude/dengue-produto-elimina-larvas-do-mosquito-em-ate-48-horas/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
+      "publishedAt": "2025-08-05 08:10:00",
+      "content": "O n\u00famero de novos casos de dengue no Brasil caiu 76% no primeiro semestre de 2025 em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Mesmo assim, foram mais de um milh\u00e3o de infec\u00e7\u00f5es confirmadas em te\u2026 [+1878 chars]",
+      "retrievedAt": "2025-08-06 19:08:22.477208",
+      "internal_id": "a0e2848f8b5d7483cb011362d9c9b5e7645260b25dbf3881491b2fb2a0350785",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23461,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "China reports 7,000 cases of chikungunya virus",
+      "description": "The uptick in cases have prompted measures that are being compared to those taken during the pandemic.",
+      "url": "https://www.bbc.com/news/articles/cvg0edj332yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5d90/live/4e815f10-71c6-11f0-b5ea-af0b36d22169.jpg",
+      "publishedAt": "2025-08-05 07:18:25",
+      "content": "Kelly Ng Guangdong authorities have vowed to take \"decisive and forceful measures\" to stop the spread of the disease More than 7,000 cases of a mosquito-borne virus have been reported across China'\u2026 [+4083 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.210703",
+      "internal_id": "b35263124f778cca8462dd22c2b77d0f148d23ce11fcc9bb4351f6e78964c5be",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23469,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Kelly Ng",
+      "title": "Chikungunya virus: China reports 7,000 cases",
+      "description": "The uptick in cases have prompted measures that are being compared to those taken during the pandemic.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0edj332yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d90/live/4e815f10-71c6-11f0-b5ea-af0b36d22169.jpg",
+      "publishedAt": "2025-08-05 07:18:25",
+      "content": "Authorities across Guangdong province have vowed to take \"decisive and forceful measures\" to stop the spread of the disease. Those with symptoms, such as fever, joint pain or rashes, are being urged\u2026 [+1274 chars]",
+      "retrievedAt": "2025-08-06 19:08:24.316224",
+      "internal_id": "99ade18a58e19c0509a44f380988de112d5d1942c74da93a7ac23a71af9c511a",
+      "publishedAtLabel": "Aug 5"
+    },
     {
       "id": 23452,
       "query": [
@@ -21216,42 +21558,6 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 22279,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ferra.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
-      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
-      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
-      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
-      "publishedAt": "2025-06-22 16:09:35",
-      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
-      "retrievedAt": "2025-06-23 19:06:05.702761",
-      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
-      "publishedAtLabel": "Jun 22"
-    },
-    {
-      "id": 22278,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
-      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
-      "url": "https://www.memeorandum.com/250622/p35",
-      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
-      "publishedAt": "2025-06-22 15:35:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-06-23 19:06:04.743399",
-      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
-      "publishedAtLabel": "Jun 22"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-08-06 07:11
-- **Most recent article:** 2025-08-05 06:25:00
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-08-06 19:08
+- **Most recent article:** 2025-08-05 18:45:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 30 | 10 | 354 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 7 | 197 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 3 | 179 |
+| measles | 52 | 36 | 114 | 64 | 47 | 30 | 11 | 354 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 19 | 209 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 5 | 181 |
 | malaria | 13 | 21 | 29 | 12 | 18 | 13 | 5 | 111 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 2 | 74 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 4 | 76 |
 | rabies | 4 | 17 | 17 | 4 | 11 | 10 | 3 | 66 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 4 | 43 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 2 | 40 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 4 | 41 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 1 | 11 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -51,11 +51,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (mpox)
 
+- [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
+
+- [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
+
 - [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [Health department shares the importance of vaccines](https://www.wgem.com/2025/08/05/health-department-shares-importance-vaccines/) (WGEM)
 
 - [Health officials give reminders after first confirmed measles cases in Wisconsin](https://www.news8000.com/lifestyle/health-officials-give-reminders-after-first-confirmed-measles-cases-in-wisconsin/article_11f342a1-ca3f-4c26-a4aa-b7e49c86a396.html) (News8000.com - WKBT)
 
@@ -95,11 +101,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (h5n1)
 
+- [Bird Flu Could Be Spreading through the Air on Dairy Farms, Preliminary Study Shows](https://www.scientificamerican.com/article/bird-flu-could-be-spreading-through-the-air-on-dairy-farms-preliminary-study/) (Scientific American)
+
+- [Estudo indica contaminação de gripe aviária no ar de fazendas dos EUA](https://www.metropoles.com/saude/gripe-aviaria-no-ar-em-fazendas) (Metropoles.com)
+
 - [Новое средство от гриппа оказалось сильнее популярных препаратов](https://lenta.ru/news/2025/08/05/novoe-sredstvo-ot-grippa-okazalos-silnee-populyarnyh-preparatov/) (Lenta)
 
 - [ไทยยกระดับมาตรการเฝ้าระวัง “ไข้หวัดนก H5N1” หลังระบาดในกัมพูชา ตายแล้ว 6 ราย](https://www.thairath.co.th/news/politic/2874573) (Thairath.co.th)
 
 ## 25-32 (dengue)
+
+- [Cegah DBD, Babinsa dan Puskesmas Sopa’ah Lakukan Fogging di Pademawu Timur](https://suaraindonesia-news.com/cegah-dbd-babinsa-dan-puskesmas-sopaah-lakukan-fogging-di-pademawu-timur/) (Suaraindonesia-news.com)
+
+- [Dengue: produto elimina larvas do mosquito em até 48 horas](https://olhardigital.com.br/2025/08/05/medicina-e-saude/dengue-produto-elimina-larvas-do-mosquito-em-ate-48-horas/) (Olhardigital.com.br)
 
 - [Sāmoa Prime Minister addresses surge in dengue cases](https://pmn.co.nz/read/health/samoa-prime-minister-addresses-surge-in-dengue-cases) (Pmn.co.nz)
 
@@ -108,6 +122,30 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [What happens to your body if you catch Chikungunya virus as China begins 'pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-symptoms-china-pandemic-measures-209204-20250805) (LADbible)
+
+- [Likelihood of Chikungunya virus spreading across the world as 'pandemic response' triggered in China](https://www.ladbible.com/news/health/chinkungunya-virus-china-spread-symptoms-615841-20250805) (LADbible)
+
+- [Çin'de korkutan virüs: 7 binden fazla vaka sonrası ABD'den flaş karar!](https://www.haber7.com/dunya/haber/3552966-cinde-korkutan-virus-7-binden-fazla-vaka-sonrasi-abdden-flas-karar) (Haber7.com)
+
+- [Chikungunya virus breaks out in China as country responds with 'forceful pandemic measures'](https://www.ladbible.com/news/world-news/chikungunya-virus-china-outbreak-134428-20250805) (LADbible)
+
+- [Çin’de yeni alarm: Chikungunya! Vaka sayısı 7 bini geçti](https://www.haber7.com/dunya/haber/3552921-cinde-yeni-alarm-chikungunya-vaka-sayisi-7-bini-gecti) (Haber7.com)
+
+- [Chikungunya virus spreading fast in China - is it reaching pandemic level? Here're causes, symptoms and treatment](https://economictimes.indiatimes.com/news/international/us/chikungunya-virus-spreading-fast-in-china-is-it-reaching-pandemic-level-herere-causes-symptoms-and-treatment/articleshow/123118671.cms) (The Times of India)
+
+- [Çin'de virüs paniği: Vaka sayısı 7 bini geçti! 'Tehlike sürüyor'](https://www.hurriyet.com.tr/dunya/cinde-virus-panigi-vaka-sayisi-7-bini-gecti-tehlike-suruyor-42903849) (Hurriyet.com.tr)
+
+- [China enforces Covid-like measures amid Chikungunya outbreak](https://economictimes.indiatimes.com/news/international/global-trends/china-enforces-covid-like-measures-amid-chikungunya-outbreak/articleshow/123118423.cms) (The Times of India)
+
+- [Különös járvány terjed Kínában: a koronavírusnál látott megoldásokat vetnek be a hatóságok, egyelőre nincs gyógymód](https://www.portfolio.hu/gazdasag/20250805/kulonos-jarvany-terjed-kinaban-a-koronavirusnal-latott-megoldasokat-vetnek-be-a-hatosagok-egyelore-nincs-gyogymod-778263) (Portfolio.hu)
+
+- [Çin'de 7 binden fazla vaka bildirildi: Sivrisinek kaynaklı virüs hızla yayılıyor](https://anlatilaninotesi.com.tr/20250805/cinde-7-binden-fazla-vaka-bildirildi-sivrisinek-kaynakli-virus-hizla-yayiliyor-1098363545.html) (Anlatilaninotesi.com.tr)
+
+- [China reports 7,000 cases of chikungunya virus](https://www.bbc.com/news/articles/cvg0edj332yo) (BBC News)
+
+- [Chikungunya virus: China reports 7,000 cases](https://www.bbc.co.uk/news/articles/cvg0edj332yo) (BBC News)
 
 - [屈公病是什麼？中國確診破7000例，症狀、治療、預防懶人包一次看](https://www.thenewslens.com/article/256766) (Thenewslens.com)
 
@@ -2571,8 +2609,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2606,8 +2642,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
