@@ -1,8 +1,605 @@
 {
-  "last_updated": "2025-08-07 07:11",
-  "count_articles_total": 1226,
-  "count_articles_new": 31,
+  "last_updated": "2025-08-07 19:08",
+  "count_articles_total": 1257,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 23531,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "K\u00edna m\u00e9g dr\u00f3nokat is bevetett az orsz\u00e1gban terjed\u0151 vesz\u00e9lyes j\u00e1rv\u00e1ny megf\u00e9kez\u00e9s\u00e9re",
+      "description": "K\u00edn\u00e1ban t\u00f6bb mint 7000 embert fert\u0151z\u00f6tt meg a chikungunya v\u00edrus, ami a valaha dokument\u00e1lt legnagyobb j\u00e1rv\u00e1ny az orsz\u00e1gban. A hat\u00f3s\u00e1gok sz\u00fanyogirt\u00e1ssal \u00e9s dr\u00f3nokkal pr\u00f3b\u00e1lj\u00e1k megf\u00e9kezni a terjed\u00e9st - \u00edrta meg az AP News.",
+      "url": "https://www.portfolio.hu/global/20250806/kina-meg-dronokat-is-bevetett-az-orszagban-terjedo-veszelyes-jarvany-megfekezesere-778663",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/s/h/u/shutterstock-1643947495-1920x1080px-640031.jpg",
+      "publishedAt": "2025-08-06 18:50:00",
+      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+1951 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.903240",
+      "internal_id": "27c98f89cc1355b74177d6304d20a90cb887fc8db617f3562d1ad3c4b24ee50e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23535,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Saint-Marcellin. Cas de chikungunya : l\u2019op\u00e9ration de d\u00e9moustication termin\u00e9e, le risque de contagion (normalement) \u00e9cart\u00e9",
+      "description": "Alors qu\u2019un cas import\u00e9 de chikungunya a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Saint-Marcellin, l\u2019Eirad a proc\u00e9d\u00e9, dans la nuit de mardi \u00e0 mercredi, \u00e0 une d\u00e9moustication sur le secteur o\u00f9 r\u00e9side la personne concern\u00e9e. Une op\u00e9ration d\u00e9sormais consid\u00e9r\u00e9e comme termin\u00e9e, apr\u00e8s contr\u00f4le\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/08/06/isere-saint-marcellin-cas-de-chikungunya-l-operation-de-demoustication-terminee-le-risque-de-contagion-(normalement)-ecarte",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/6792E2BE-2477-4297-8E3E-772C3F525A27/FB1200/photo-1754502863.jpg",
+      "publishedAt": "2025-08-06 17:50:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-08-07 19:08:43.038482",
+      "internal_id": "606ed59f240292e2e921891cf860b4ef87bacf355f7bc64f32cb4d6516465bc2",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23536,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mo\u00e7ambique quer combater desinforma\u00e7\u00e3o sobre Mpox",
+      "description": "Diretor de Sa\u00fade P\u00fablica reiterou que o pa\u00eds est\u00e1 preparado para lidar com a doen\u00e7a, referindo que todas as prov\u00edncias mo\u00e7ambicanas t\u00eam capacidade para isolar casos positivos, havendo necessidade.",
+      "url": "https://observador.pt/2025/08/06/mocambique-quer-combater-desinformacao-sobre-mpox-para-evitar-discriminacao/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F09%2F04095547%2F43499203.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-06 17:13:40",
+      "content": "O diretor nacional de sa\u00fade p\u00fablica em Mo\u00e7ambique pediu esta quarta-feira que se evite o p\u00e2nico e a desinforma\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 mpox, visando combater a discrimina\u00e7\u00e3o que possa surgir contra as v\u00edtima\u2026 [+2888 chars]",
+      "retrievedAt": "2025-08-07 19:08:43.205489",
+      "internal_id": "05881f5d2ad3f3b4300958e106554c66d39e8f5e105a35d9c022bffd911febf9",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23526,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Konstantin Marrach",
+      "title": "Fast 8000 Chikungunya-F\u00e4lle in China - Kritik an Ma\u00dfnahmen wegen Tigerm\u00fccken-Virus",
+      "description": "Chikungunya-Virus sorgt f\u00fcr Unruhe in S\u00fcdchina. Fast 8000 Menschen infiziert. In sozialen Medien werden Ma\u00dfnahmen kritisiert, die an Corona-Zeiten erinnern.",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/fast-8000-faelle-in-china-kritik-an-corona-massnahmen-wegen-tigermuecken-virus-68936fef915c8850aaeb8e6a",
+      "urlToImage": "https://images.bild.de/68936fef915c8850aaeb8e6a/2a09c5644a8fa9feb62bdfc05d00d750,53908ae9?w=1280",
+      "publishedAt": "2025-08-06 16:58:27",
+      "content": "Um den TTS Player darzustellen, brauchen wir deine Zustimmung. externen Inhalt aktivieren Um eingebettete Inhalte anzuzeigen, ist Ihre jederzeit widerrufliche Einwilligung (\u00fcber den Schalter oder \u2026 [+2451 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.822912",
+      "internal_id": "ea6a5e95bcc6452100467516eeba82752cfde9b128e5e8260f2726a2243dd637",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23504,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "Payton Kifus Staff Writer",
+      "title": "Raccoon tests positive for rabies by Mechanicsville neighborhoods",
+      "description": "The Chickahominy Health District alerts Mechanicsville residents of a rabid raccoon in Mill Valley Subdivision. Prevent rabies by vaccinating pets, reporting exposures and avoiding contact with wildlife.",
+      "url": "https://richmond.com/news/community/mechanicsville-local/article_0e88e434-024b-49bf-ad9b-dd157d766698.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/8/dd/8ddc5cf6-9ab4-5af3-ac3f-8c02c2c3027c/688ccf80411ee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-08-06 16:28:00",
+      "content": "The Chickahominy Health District has alerted residents that a raccoon has tested positive for the rabies virus in the region of the Mill Valley Subdivision in the area of Mill Valley Rd., River Pine \u2026 [+998 chars]",
+      "retrievedAt": "2025-08-07 19:08:39.619459",
+      "internal_id": "7ff10554e5c5557f020867309b22e09678696ae6746b042a04ebf0f615856564",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23512,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Vlaanderen voert strijd tegen de tijgermug op: \u201cKans op volledige uitroeiing is klein\u201d",
+      "description": "In de zomermaanden augustus en september voert Vlaanderen de strijd op tegen de Aziatische tijgermug, een exoot die drager kan zijn van ziekteverwekkers als dengue, chikungunya en zika. Voor die bestrijding neemt het Vlaamse Agentschap Natuur en Bos het gespe\u2026",
+      "url": "https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/c3chg2-aedes-albopictus-aziatische-tijgermug.jpg/alternates/SIXTEEN_NINE_1200/Aedes%20Albopictus%20Aziatische%20tijgermug.jpg",
+      "publishedAt": "2025-08-06 16:18:19",
+      "content": "Het Vlaamse Agentschap Natuur en Bos, Sciensano en het Instituut voor Tropische Geneeskunde bundelen sinds 2021 de krachten voor de monitoring van de opmars van de tijgermug in onze contreien. Want d\u2026 [+2245 chars]",
+      "retrievedAt": "2025-08-07 19:08:41.273685",
+      "internal_id": "bc220a11acb677d2338f54f85d2daa8aa3f53e9a0201812642ff28f8b0503b66",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23532,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Kate Seamons with Newser.AI",
+      "title": "China Taking Extreme Steps to Quash a Virus Outbreak",
+      "description": "China is taking drastic measures after being hit with its largest-ever outbreak of chikungunya, a mosquito-borne virus known for causing fever and severe joint pain. The majority of the roughly 8,000 infections reported in the last month are in Foshan, a city\u2026",
+      "url": "https://www.newser.com/story/373084/china-taking-extreme-steps-to-quash-a-virus-outbreak.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1626597-12-20250806105319.jpeg",
+      "publishedAt": "2025-08-06 15:45:00",
+      "content": "China is taking drastic measures after being hit with its largest-ever outbreak of chikungunya, a mosquito-borne virus known for causing fever and severe joint pain. The majority of the roughly 8,000\u2026 [+1569 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.919595",
+      "internal_id": "368b6707d08fb33e345745caf5a54ec0a77eaeb861abae25084566c4ffe26985",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23519,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Audrey Streb",
+      "title": "Another Virus Rattling China Puts America On Red Alert",
+      "description": "A viral illness spread by mosquitoes known is infecting China, which has prompted the CDC to issue a travel advisory for Americans.",
+      "url": "https://dailycaller.com/2025/08/06/another-virus-china-america-red-alert/",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/08/GettyImages-2218294467-scaled-e1754485780104.jpg",
+      "publishedAt": "2025-08-06 15:24:53",
+      "content": "A viral illness spread by mosquitoes known as chikungunya is infecting China and other nations across Africa and Europe, prompting the Centers for Disease Control and Prevention (CDC) to issue a trav\u2026 [+2937 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.747792",
+      "internal_id": "1f8e20d67f480a03e4b03ad1622baf09ec5c14844f7ddec9c5fe1dc5ee2c1e5e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23515,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Droni e multe in Cina contro l\u2019epidemia di Chikungunya, ritirata l\u2019iniziale (e inutile) quarantena",
+      "description": "Sono passati cinque anni e nessuno si dimentica l\u2019incubo delle conseguenze della pandemia di Covid. Men che meno la Cina che sta affrontando un\u2019epidemia di virus Chikungunya che ha spinto le autorit\u00e0 ad adottare misure preventive, tra cui zanzariere e disinfe\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/08/06/droni-e-multe-in-cina-contro-lepidemia-di-chikungunya-ritirata-liniziale-e-inutile-quarantena/8086962/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/30/Chikungunya.jpg",
+      "publishedAt": "2025-08-06 14:55:20",
+      "content": "Roma, 6 ago. (Adnkronos) - \u00c8 ufficialmente aperto il bando per partecipare alla quarta edizione di Premio Film Impresa, liniziativa ideata e realizzata da Unindustria, con il supporto di Confindustri\u2026 [+3922 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.682173",
+      "internal_id": "f84c6cbfc5be390471b7a32dac8d414ba5a4fecb1b1fe72b539160a953797caa",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23516,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Ramy  Inocencio, Sarah  Lynch Baldwin",
+      "title": "U.S. warns travelers as mosquito-borne viral disease spreads in China",
+      "description": "The United States is warning travelers to China about chikungunya, a virus that spreads to humans through mosquito bites and can cause severe joint aches, fatigue and fever.",
+      "url": "https://www.cbsnews.com/news/us-warns-travelers-chikungunya-virus-mosquitoes-china/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/06/9599b0ea-c9c9-4844-b86c-19e5bc57fba4/thumbnail/1200x630/bfebfecefb0623819c098996c1f026c8/gettyimages-2228275996.jpg",
+      "publishedAt": "2025-08-06 14:43:51",
+      "content": "The United States is warning people traveling to China about chikungunya, a virus that spreads to humans through mosquito bites. The Centers for Disease Control and Prevention has issued a Level 2 t\u2026 [+3020 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.698688",
+      "internal_id": "e45aa3b43fa8f8aa8443270223ae43263d6239da6754c21a5f6b6cef6a16a406",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23508,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Pertinax",
+      "title": "La gripe aviar obliga a sacrificar 132 aves del Centro de Fauna de Gorliz (Bizkaia)",
+      "description": "La Diputaci\u00f3n de Bizkaia confirm\u00f3 este lunes la detecci\u00f3n de varios casos de gripe aviar (Influenza Aviar de Alta Patogenicidad H5N1) en gaviotas patiamarillas recogidas en los municipios de Santurtzi y Erandio. Seg\u00fan han detallado fuentes del Departamento de\u2026",
+      "url": "https://www.meneame.net/m/actualidad/gripe-aviar-obliga-sacrificar-132-aves-centro-fauna-gorliz",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-08-06 14:35:21",
+      "content": "",
+      "retrievedAt": "2025-08-07 19:08:40.861441",
+      "internal_id": "e51f052d1512ae972bcff1016e6811b6d37d55afaccca2edceb618973728f90c",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23530,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hollywood Life",
+      "author": "Vivian",
+      "title": "Chikungunya Virus in China: Updates on the Outbreak",
+      "description": "China is tracking a rise in Chikungunya virus cases. Learn more about the outbreak and how health officials are responding.",
+      "url": "https://hollywoodlife.com/2025/08/06/chikungunya-virus-outbreak-updates-china/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2025/08/GettyImages-2228275996_49421e-e1754489988191.jpg?fit=3000%2C1695",
+      "publishedAt": "2025-08-06 14:35:05",
+      "content": "Image Credit: VCG via Getty Images Health authorities in China are closely tracking an outbreak of the Chikungunya virus, a mosquito-borne illness that has sparked concern due to its rapid transmiss\u2026 [+2294 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.872363",
+      "internal_id": "5c0d589b957b22702189fcae783af888c9081bbd936d10edad4bf7c4065cc846",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23525,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u039c\u03bf\u03c1\u03c6\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b9\u03cc Chikungunya \u2013 \u03a7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac",
+      "description": "\u0388\u03bd\u03b1\u03c2 \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd \u03ad\u03c7\u03b5\u03b9 \u03bc\u03bf\u03bb\u03c5\u03bd\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03b9 \u03bf \u03b9\u03cc\u03c2 Chikungunya \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1. \u0391\u03c5\u03c3\u03c4\u03b7\u03c1\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03ae \u03c4\u03bf\u03c5 \u03c5\u03b9\u03bf\u03b8\u03b5\u03c4\u03bf\u03cd\u03bd \u03bf\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2. ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b9\u03cc Chikungunya \u2013 \u03a7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u2026",
+      "url": "https://www.newsit.gr/kosmos/synagermos-stin-kina-gia-ton-io-chikungunya-xiliades-krousmata-kathimerina/4446065/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/08/chikungunya-06082025-1200x630.jpg",
+      "publishedAt": "2025-08-06 13:31:43",
+      "content": "Chikungunya . . Chikungunya , , , drones . , , , 3.000 . China is facing an outbreak of chikungunyaa virus spread by mosquitoes that can sometimes be deadly. There is no vaccine, and the World He\u2026 [+1427 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.806860",
+      "internal_id": "c52174bf07e75338f066f8677f2febee6e146375cd16113ba436f46cf5901295",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23517,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "U.S. warns travelers as cases of chikungunya, a virus spread by mosquitos, increase in China",
+      "description": "The U.S. is warning travelers as cases of chikungunya, a mosquito-borne illness, spreads in China. Health officials in China have ordered mass disinfection measures. The region near Hong Kong reported more than 7,000 cases in recent weeks.",
+      "url": "https://www.cbsnews.com/video/u-s-warns-travelers-as-cases-of-chikungunya-a-virus-spread-by-mosquitos-increase-in-china/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/06/ec453e14-e226-44cf-a6ca-42ae0b2c3d49/thumbnail/1200x630/795f14e1a3f431ea6837cb2ba6603000/0806-cmo-inocencio.jpg",
+      "publishedAt": "2025-08-06 13:31:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-08-07 19:08:42.722156",
+      "internal_id": "5cd859e88790720108a0f98d5f2252914150a634e6bfe9cac1903b65b6117dda",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23511,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Magnus Heier",
+      "title": "Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank f\u00fchlt, sollte an eine Reise-Infektion denken",
+      "description": "Beim Arzt sollte ein Auslandsaufenthalt unbedingt erw\u00e4hnt werden \u2013 auch wenn dieser schon eine Weile zur\u00fcckliegt.",
+      "url": "https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14140703/alternates/BASE_16_9_W1400/1754483285000/adult-man-suffering-joy-and-blowing-his-nose-at-the-door-of-a-motorhome.jpeg",
+      "publishedAt": "2025-08-06 12:49:18",
+      "content": "Der Mann lag auf der Intensivstation einer Uniklinik und w\u00e4re fast an Nierenversagen gestorben. Kurz vorher war er noch gesund im Urlaub in Ostafrika. Nur: Beim Hausarzt unter dem Verdacht einer schw\u2026 [+2290 chars]",
+      "retrievedAt": "2025-08-07 19:08:41.264319",
+      "internal_id": "c7177d69c44d58547438184e294e3a08fe11114ac47a9cbf0145ee2f37eb330c",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23520,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill",
+      "description": "An outbreak of the chikungunya virus in China has prompted authorities to take preventive measures.",
+      "url": "https://www.bostonherald.com/2025/08/06/china-chikungunya-outbreak/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/China_Chikungunya_Outbreak_35783-1.jpg?w=1024&h=682",
+      "publishedAt": "2025-08-06 12:37:31",
+      "content": "TAIPEI, Taiwan (AP) An outbreak of the chikungunya virus in China has prompted authorities to take preventive measures from mosquito nets and clouds of disinfectant, threatening fines for people who \u2026 [+2515 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.763851",
+      "internal_id": "79ae0718b2c59c19ab4e9afd10b785a55444bf4fec29ef1a94efd5d18f11fe20",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23522,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Maria Morava",
+      "title": "Chikungunya Virus Outbreak: Symptoms of Illness Spreading in China Explained",
+      "description": "An outbreak of the mosquito-borne virus in southern China has led to a pandemic-style response as authorities try to contain the spread.",
+      "url": "https://www.newsweek.com/chikungunya-virus-china-outbreak-symptoms-health-mosquito-2109551",
+      "urlToImage": "https://d.newsweek.com/en/full/2697428/3d-rendering-chikungunya-virus.jpg",
+      "publishedAt": "2025-08-06 12:08:38",
+      "content": "An outbreak of the chikungunya virus in southern China has prompted a strong government response as cases climb into the thousands. The disease, which is spread by mosquitoes, is most prevalent in t\u2026 [+4110 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.781340",
+      "internal_id": "38d2e3fdbdb893715a2456b47f441f65c1af3892c4567f4ee035eb3ca6141e00",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23521,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "China aplica medidas de combate ao surto de chikunguny",
+      "description": "A televis\u00e3o chinesa exibiu imagens de equipas a pulverizar desinfetante onde mosquitos transmissores do v\u00edrus chikungunya se possam reproduzir, ap\u00f3s serem reportados 7.000 casos de infe\u00e7\u00f5es.",
+      "url": "https://observador.pt/2025/08/06/china-aplica-medidas-de-combate-ao-surto-do-virus-chikungunya-apos-milhares-de-infecoes/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F08%2F06093504%2F45261358.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-06 11:34:24",
+      "content": "Um surto do v\u00edrus chikungunya na China levou as autoridades a implementar medidas preventivas rigorosas, incluindo uso de redes mosquiteiras, drones e desinfetante, com amea\u00e7as de multas e cortes de \u2026 [+2182 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.772466",
+      "internal_id": "1a2991603cd3464489fc02a535883153fe622dabba92f1de60494cfdd49959f1",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23528,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "What is chikungunya, the virus now spreading in southern China?",
+      "description": "Chinese authorities have taken action to curb the spread of chikungunya, a virus causing fever and joint pain",
+      "url": "https://abcnews.go.com/International/wireStory/chikungunya-virus-now-spreading-southern-china-124404487",
+      "urlToImage": "https://i.abcnewsfe.com/a/a5bfe76b-6e17-4e86-a335-5fb46a239be9/wirestory_050e53750c8c041fc72b7cf62c01b92f_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-06 11:08:56",
+      "content": "LONDON -- LONDON (AP) Chinese authorities have taken measures this week to try to curb the spread of chikungunya, a virus that often causes fever and joint pain. As of Wednesday, the government repor\u2026 [+2830 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.847413",
+      "internal_id": "421b1afb680b163530f889054f8fb7c053e458cf4dce56fdf29220f276fbd506",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23523,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "China Battling Another Virus: Mosquito-Borne Chikungunya",
+      "description": "Chinese authorities have decided to use some moves from their covid playbook in response. The post China Battling Another Virus: Mosquito-Borne Chikungunya first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/08/china-battling-another-virus-mosquito-borne-chikungunya/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/08/LI-038-china-mosquito.png",
+      "publishedAt": "2025-08-06 11:00:14",
+      "content": "I last reported on the disease known as chikungunya back in 2014, when there was a significant outbreak in South America. Chikungunya is a mosquito-borne disease caused by the chikungunya virus (CHI\u2026 [+4347 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.789736",
+      "internal_id": "d6f6d67e621dafd1efa96930e015cedba70b451e5fac138be29131136dd81d20",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23534,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Joe Harker",
+      "title": "How did Chikungunya virus start as 'forceful pandemic measures' begin in China",
+      "description": "As China puts 'forceful pandemic measures' in place to deal with the Chikungunya virus, you might be wondering how this disease got started",
+      "url": "https://www.ladbible.com/news/health/how-did-chikungunya-virus-start-781145-20250806",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt54e2219403e6c088/6893138fd869fcfbbe0ea044/virus-china.jpg",
+      "publishedAt": "2025-08-06 10:28:13",
+      "content": "Set your calendars back to 2020 because China is imposing 'forceful pandemic measures' after a virus has spread around a lot in Guangdong province. Here's hoping we're not in for another pandemic on\u2026 [+4181 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.998538",
+      "internal_id": "9fcf9162df2bff1300e9b51d6c8f1dca496d74fc22529c491426d1368521447b",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23505,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hati.health",
+      "author": "Hati Health Team",
+      "title": "Rabies Vaccine | Hati Health",
+      "description": "Get the Rabies Vaccine in the Philippines for pre and post-exposure. Book at Hati Health for safety and effectiveness against rabies.",
+      "url": "https://hati.health/products/rabies-vaccine",
+      "urlToImage": "https://hati.health/file/b69def48-45f5-4bf6-8d33-c8225915e004.jpg",
+      "publishedAt": "2025-08-06 09:56:06",
+      "content": "1. To ensure the best service and vaccine availability, prior booking is required no walk-ins accepted. Current rates are exclusively for reserved appointments. You may visit your selected branch one\u2026 [+642 chars]",
+      "retrievedAt": "2025-08-07 19:08:39.653398",
+      "internal_id": "6ccb4cac5fcdb8c2aeb320cd009eed17a6540914a31d8c6f0fcf164b9234866d",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23533,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Brenna Cooper",
+      "title": "What World Health Organization has said about Chikungunya virus as China introduces 'pandemic measures'",
+      "description": "Here is the everything the World Health Organization has said about Chikungunya virus, as China introduces 'pandemic measures' after outbreak.",
+      "url": "https://www.ladbible.com/news/health/chikungunya-virus-china-who-statement-387257-20250806",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt13a2bc97bbec36c5/68931ac84be268829ec2d76a/world-health-organization-chikungunya-virus.jpeg",
+      "publishedAt": "2025-08-06 09:45:07",
+      "content": "Here is everything the World Health Organization has said about the Chikungunya virus, as China enforces 'pandemic measures' after an outbreak rocked the East Asian nation. Yesterday (5 August), it \u2026 [+3645 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.943299",
+      "internal_id": "1d1099e78e2cffefcf5ed87d9c8ba425bbc28eeb1a8600b879063a5936242cbc",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23509,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e0a\u0e30\u0e25\u0e2d\u0e19\u0e33\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e1b\u0e35\u0e01-\u0e0b\u0e32\u0e01\u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e1b\u0e35\u0e01\u0e08\u0e32\u0e01\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 90 \u0e27\u0e31\u0e19 \u0e2b\u0e25\u0e31\u0e07\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e01 H5N1 \u0e23\u0e30\u0e1a\u0e32\u0e14",
+      "description": "\u0e23\u0e32\u0e0a\u0e01\u0e34\u0e08\u0e08\u0e32\u0e19\u0e38\u0e40\u0e1a\u0e01\u0e29\u0e32 \u0e40\u0e1c\u0e22\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e01\u0e23\u0e21\u0e1b\u0e28\u0e38\u0e2a\u0e31\u0e15\u0e27\u0e4c \u0e0a\u0e30\u0e25\u0e2d\u0e19\u0e33\u0e40\u0e02\u0e49\u0e32-\u0e19\u0e33\u0e1c\u0e48\u0e32\u0e19 \u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e1b\u0e35\u0e01\u0e41\u0e25\u0e30\u0e0b\u0e32\u0e01\u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e1b\u0e35\u0e01\u0e08\u0e32\u0e01\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e40\u0e1b\u0e47\u0e19\u0e40\u0e27\u0e25\u0e32 90 \u0e27\u0e31\u0e19 \u0e2b\u0e25\u0e31\u0e07\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e01 H5N1 \u0e23\u0e30\u0e1a\u0e32\u0e14 \u0e21\u0e35\u0e1c\u0e25\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 (6 \u0e2a.\u0e04.)",
+      "url": "https://www.thairath.co.th/news/politic/2875105",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rfdyv17vtQM5N5dgL0nxdW1wuMj1z2sAY0tkn04pGXWqlkM8Jq.jpg",
+      "publishedAt": "2025-08-06 09:40:05",
+      "content": "6 2568 5 .. 2568 .. 24 2568 H5N1 90",
+      "retrievedAt": "2025-08-07 19:08:40.885823",
+      "internal_id": "d782d5b8ad6309c2dda4063f66479e8d86efb799bbe31776488645e7c72c48a7",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23518,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "\u00c7in'de chikungunya endi\u015fesi! ABD'den seyahat uyar\u0131s\u0131 geldi",
+      "description": "\u00c7in'de sivrisineklerden bula\u015fan chikungunya vakalar\u0131n\u0131n artmas\u0131 \u00fczerine bir dizi \u00f6nlemler al\u0131nd\u0131. ABD, salg\u0131n\u0131n ard\u0131ndan \u00c7in'e seyahat edenleri daha dikkatli olmalar\u0131 konusunda uyard\u0131.",
+      "url": "https://www.haberturk.com/cin-de-chikungunya-virusu-endisesi-abd-den-seyahat-uyarisi-geldi-haberler-3812772",
+      "urlToImage": "https://im.haberturk.com/l/2025/08/06/ver1754473114/3812772/jpg/1200x628",
+      "publishedAt": "2025-08-06 09:37:06",
+      "content": "\u00c7in'in Guangdong eyaletinde temmuz ayndan beri 7 binden fazla sivrisinek kaynakl chikungunya vakas bildirildi. Bu durum Covid-19 salgn srasnda alnanlara benzer \u00f6nlemlerin alnmasna sebep oldu. HASTAL\u2026 [+4636 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.739006",
+      "internal_id": "adede0fbd245174fabda63ff8847fdf2595f2d47c6b7de7534311437e99d906e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23510,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Gripe, resfriado, covid-19 ou dengue: entenda diferen\u00e7as e sintomas",
+      "description": "Febre, dores de cabe\u00e7a e no corpo, cansa\u00e7o e mal-estar s\u00e3o alguns sintomas comuns para diversas infec\u00e7\u00f5es, mas \u00e9 poss\u00edvel notar diferen\u00e7as.",
+      "url": "https://www.bbc.com/portuguese/articles/cvgp1qv7ke9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/06d8/live/9083c700-716b-11f0-a110-776969256333.jpg",
+      "publishedAt": "2025-08-06 09:27:33",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Em comum, gripe, resfriado, covid e dengue s\u00e3o causadas por v\u00edrus O inverno favorece a incid\u00eancia de doen\u00e7as respirat\u00f3rias, devido \u00e0s temperaturas baixas e ao\u2026 [+8675 chars]",
+      "retrievedAt": "2025-08-07 19:08:41.247397",
+      "internal_id": "d4064c9e1140b9223d281feed88747377389a712d06332c777491e296db4489e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23507,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "R\u00e1j\u00f6ttek a tud\u00f3sok: k\u00e9t alattomos m\u00f3dja is lehet a hal\u00e1los v\u00edrus terjed\u00e9s\u00e9nek",
+      "description": "\u00daj kutat\u00e1si eredm\u00e9nyek szerint a mad\u00e1rinfluenza terjed\u00e9s\u00e9ben a leveg\u0151 \u00e9s a szennyv\u00edz is szerepet j\u00e1tszhat az amerikai tejgazdas\u00e1gokban - k\u00f6z\u00f6lte a CIDRAP, vagyis az amerikai Fert\u0151z\u0151 Betegs\u00e9gek Kutat\u00e1si \u00e9s Politikai K\u00f6zpontja.",
+      "url": "https://www.portfolio.hu/global/20250806/rajottek-a-tudosok-ket-alattomos-modja-is-lehet-a-halalos-virus-terjedesenek-778509",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-753145.jpg",
+      "publishedAt": "2025-08-06 08:54:00",
+      "content": "B\u00e1r az elm\u00falt h\u00f3napokban jelentsen cs\u00f6kkent a H5N1 mad\u00e1rinfluenza-j\u00e1rv\u00e1nyok sz\u00e1ma az amerikai tejgazdas\u00e1gokban, a tud\u00f3sok m\u00e9g mindig vizsg\u00e1lj\u00e1k a v\u00edrus terjed\u00e9si m\u00f3djait. Az Emory Egyetem kutat\u00f3i \u00e9s \u2026 [+2674 chars]",
+      "retrievedAt": "2025-08-07 19:08:40.829270",
+      "internal_id": "6373dbc9a0057d0b9cfa451efcd84d791ca0ed3dc749b3402bb2248eb51c2ab9",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23513,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Abhimanyu Ghoshal",
+      "title": "New mRNA vaccine stops malaria transmission in its tracks",
+      "description": "A novel way to prevent the spread of malaria \u2013 a potentially life-threatening disease transmitted through bites from mosquitoes infected by a parasite \u2013 could soon be realized, thanks to scientists at The Walter and Eliza Hall Institute of Medical Research (W\u2026",
+      "url": "https://newatlas.com/infectious-diseases/wehi-mrna-vaccine-malaria-transmission/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/5e106c0/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F86%2F26%2F0649367047eeb3d3031f31aa8060%2Fan-anopheles-stephensi-mosquito-which-is-known-to-carry-malaria-seen-obtaining-a-blood-meal-from-a-human-host-through-its-pointed-proboscis.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-08-06 08:48:55",
+      "content": "A novel way to prevent the spread of malaria a potentially life-threatening disease transmitted through bites from mosquitoes infected by a parasite could soon be realized, thanks to scientists at Th\u2026 [+3228 chars]",
+      "retrievedAt": "2025-08-07 19:08:41.995372",
+      "internal_id": "ac4e5fcc4ce08a147d15f4a1e7a8cfa756dfbfb9f9b6f8a5b91da8b4fbcf8282",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23527,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "\u0218tefan Borcea",
+      "title": "Ce se \u00eent\u00e2mpl\u0103 dac\u0103 te infectezi cu virusul Chikungunya, care afecteaz\u0103 deja mii de oameni \u00een China. OMS: \u201eIstoria se repet\u0103\u201d,",
+      "description": "China a \u00eenceput s\u0103 implementeze m\u0103suri \u00eempotriva pandemiei ca r\u0103spuns la un nou virus care face ravagii \u00een \u021bar\u0103.",
+      "url": "https://adevarul.ro/stiri-externe/in-lume/ce-se-intampla-daca-te-infectezi-cu-virusul-2462812.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-e/eea9496c-9dff-4d60-9351-199c6e17849e/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-08-06 08:33:46",
+      "content": "China a \u00eenceput s implementeze msuri \u00eempotriva pandemiei ca rspuns la un nou virus care face ravagii \u00een ar. \u00cen China au fost raportate peste 7.000 de cazuri \u00een zona Guandong, aflat \u00een sudul rii, c\u2026 [+3592 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.838703",
+      "internal_id": "2bb84005f13564702ac5d8a1107a2c156342e00439a6e748ada986a9594f6372",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23529,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "China tackles chikungunya virus outbreak as thousands fall ill",
+      "description": "An outbreak of the chikungunya virus in China has prompted authorities to take preventive measures",
+      "url": "https://abcnews.go.com/International/wireStory/china-tackles-chikungunya-virus-outbreak-wide-range-measures-124402636",
+      "urlToImage": "https://i.abcnewsfe.com/a/dd5d39ee-a028-493e-a65d-e64bd68eb063/wirestory_3ee97c21152b05ed0912af646594eafd_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-06 08:29:26",
+      "content": "TAIPEI, Taiwan -- An outbreak of the chikungunya virus in China has prompted authorities to take preventive measures from mosquito nets and clouds of disinfectant, threatening fines for people who fa\u2026 [+2233 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.855887",
+      "internal_id": "9358e147e82d1fb50f7098ba0ce3de9d6e164f266e1d0be9e1b7d2d5ea6b457c",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23524,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Gegenma\u00dfnahmen wie bei Corona: Ausbruch des Chikungunya-Virus in China weitet sich aus",
+      "description": "Mit dem durch M\u00fccken \u00fcbertragenen Chikungunya-Virus haben sich in China inzwischen fast 8000 Menschen infiziert. Um den Ausbruch einzud\u00e4mmen, werden zum Teil strikte Ma\u00dfnahmen ergriffen, die an die Corona-Pandemie erinnern. Aber auch die M\u00fccken werden bek\u00e4mpf\u2026",
+      "url": "https://www.n-tv.de/wissen/Ausbruch-des-Chikungunya-Virus-in-China-weitet-sich-aus-article25947795.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25947848/5151323416-cImg_16_9-w1200/505919093.jpg",
+      "publishedAt": "2025-08-06 08:21:30",
+      "content": "Mit dem durch M\u00fccken \u00fcbertragenen Chikungunya-Virus haben sich in China inzwischen fast 8000 Menschen infiziert. Um den Ausbruch einzud\u00e4mmen, werden zum Teil strikte Ma\u00dfnahmen ergriffen, die an die C\u2026 [+2702 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.798371",
+      "internal_id": "9265f32623ad1725204bfb0081aefb3708679ef13c702e0388a90a18b7610ced",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23506,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Measles, Mumps, Rubella (MMR) Vaccine Market Growth Trends, Competitive Strategies and Forecasts, 2025-2033 | 8.2% CAGR Projected Amid Cold Chain Advancements, Despite Vaccine Hesitancy Challenges",
+      "description": "The MMR vaccine market is growing due to increased immunization programs and higher birth rates. From 2025-2033, it\u2019s expected to expand at a CAGR of 8.2%, driven by public health initiatives and advancements in cold chain infrastructure. The Asia Pacific reg\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128073/28124/en/Measles-Mumps-Rubella-MMR-Vaccine-Market-Growth-Trends-Competitive-Strategies-and-Forecasts-2025-2033-8-2-CAGR-Projected-Amid-Cold-Chain-Advancements-Despite-Vaccine-Hesitancy-Chal.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-06 08:08:00",
+      "content": "Dublin, Aug. 06, 2025 (GLOBE NEWSWIRE) -- The \"Measles, Mumps, Rubella Vaccine Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies an\u2026 [+4396 chars]",
+      "retrievedAt": "2025-08-07 19:08:39.949152",
+      "internal_id": "82d56a7940e2e47b9bd547dc82725b741cdcf736d38e0d491517232ef796b06f",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23514,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Agency Report",
+      "title": "Nigeria's health minister seeks new public health order for Africa",
+      "description": "He said global health is often described through the lens of a few priority issues, like HIV, malaria and tuberculosis, or through specific areas such as health financing or maternal and child health",
+      "url": "https://www.premiumtimesng.com/health/health-news/812355-nigerias-health-minister-seeks-new-public-health-order-for-africa.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2025/02/Gi-SA6cWsAAwp8y-e1738958605800.jpg",
+      "publishedAt": "2025-08-06 08:07:55",
+      "content": "Nigerias Coordinating Minister of Health and Social Welfare, Muhammad Pate, has called for a new vision for global health that places Africa at the core of future governance, trade, financing and inn\u2026 [+3878 chars]",
+      "retrievedAt": "2025-08-07 19:08:42.052176",
+      "internal_id": "37789333ae819a636d02233c95b91a84f32686256449ba75b32555eea879d7cf",
+      "publishedAtLabel": "Aug 6"
+    },
     {
       "id": 23502,
       "query": [
@@ -22116,42 +22713,6 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
-    },
-    {
-      "id": 22279,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ferra.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
-      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
-      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
-      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
-      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
-      "publishedAt": "2025-06-22 16:09:35",
-      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
-      "retrievedAt": "2025-06-23 19:06:05.702761",
-      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
-      "publishedAtLabel": "Jun 22"
-    },
-    {
-      "id": 22278,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
-      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
-      "url": "https://www.memeorandum.com/250622/p35",
-      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
-      "publishedAt": "2025-06-22 15:35:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-06-23 19:06:04.743399",
-      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
-      "publishedAtLabel": "Jun 22"
     }
   ]
 }

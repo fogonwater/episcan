@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 31
-- **Last harvest:** 2025-08-07 07:11
-- **Most recent article:** 2025-08-06 07:08:26
+- **New articles in last harvest:** 33
+- **Last harvest:** 2025-08-07 19:08
+- **Most recent article:** 2025-08-06 18:50:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 30 | 14 | 358 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 39 | 229 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 6 | 182 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 5 | 111 |
+| measles | 52 | 36 | 114 | 64 | 47 | 30 | 15 | 358 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 61 | 251 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 9 | 185 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 8 | 114 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 5 | 77 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 5 | 68 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 6 | 78 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 7 | 70 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 8 | 46 |
-| zika | 2 | 8 | 12 | 8 | 2 | 7 | 4 | 43 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 11 | 48 |
+| zika | 2 | 8 | 12 | 8 | 2 | 7 | 5 | 44 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 1 | 11 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (zika)
 
+- [Vlaanderen voert strijd tegen de tijgermug op: “Kans op volledige uitroeiing is klein”](https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html) (Nieuwsblad.be)
+
 - [Butantan desenvolve anticorpo anti-zika com foco em gestantes](https://www.metropoles.com/saude/butantan-anticorpo-zika-gestantes) (Metropoles.com)
 
 - [Their children can't eat, speak or walk - so forgotten Zika mothers raise them together](https://www.bbc.com/news/articles/c39d0zj0110o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
@@ -42,6 +44,10 @@ Source: [News API](https://newsapi.org/)
 - [Ten years after the Zika outbreak: What happened to the babies born with microcephaly?](https://www.bbc.co.uk/news/articles/c39d0zj0110o) (BBC News)
 
 ## 25-32 (rabies)
+
+- [Raccoon tests positive for rabies by Mechanicsville neighborhoods](https://richmond.com/news/community/mechanicsville-local/article_0e88e434-024b-49bf-ad9b-dd157d766698.html) (Richmond.com)
+
+- [Rabies Vaccine | Hati Health](https://hati.health/products/rabies-vaccine) (Hati.health)
 
 - [‘This Is The 3rd Video I’ve Seen Of Someone Coming In Contact With A Bat’: Georgia Man Goes To HomeGoods. Then He Has To Pay A Visit To The ER For Rabies Shot](https://brobible.com/culture/article/georgia-homegoods-bat-rabies/) (BroBible)
 
@@ -55,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (mpox)
 
+- [Moçambique quer combater desinformação sobre Mpox](https://observador.pt/2025/08/06/mocambique-quer-combater-desinformacao-sobre-mpox-para-evitar-discriminacao/) (Observador.pt)
+
 - [Detectan en Chiapas segundo caso de viruela símica](https://www.milenio.com/estados/detectan-segundo-caso-de-viruela-simica-en-tuxtla-gutierrez-chiapas) (Milenio)
 
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
@@ -66,6 +74,8 @@ Source: [News API](https://newsapi.org/)
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [Measles, Mumps, Rubella (MMR) Vaccine Market Growth Trends, Competitive Strategies and Forecasts, 2025-2033 | 8.2% CAGR Projected Amid Cold Chain Advancements, Despite Vaccine Hesitancy Challenges](https://www.globenewswire.com/news-release/2025/08/06/3128073/28124/en/Measles-Mumps-Rubella-MMR-Vaccine-Market-Growth-Trends-Competitive-Strategies-and-Forecasts-2025-2033-8-2-CAGR-Projected-Amid-Cold-Chain-Advancements-Despite-Vaccine-Hesitancy-Chal.html) (GlobeNewswire)
 
 - [Confirmed case of measles in Banff prompts AHS to issue public alert | Globalnews.ca](http://globalnews.ca/news/11319389/confirmed-case-of-measles-banff-ahs-public-alert/) (Global News)
 
@@ -97,6 +107,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (malaria)
 
+- [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
+
+- [New mRNA vaccine stops malaria transmission in its tracks](https://newatlas.com/infectious-diseases/wehi-mrna-vaccine-malaria-transmission/) (New Atlas)
+
+- [Nigeria's health minister seeks new public health order for Africa](https://www.premiumtimesng.com/health/health-news/812355-nigerias-health-minister-seeks-new-public-health-order-for-africa.html) (Premium Times)
+
 - [Correction: Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329753) (Plos.org)
 
 - [Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329490) (Plos.org)
@@ -112,6 +128,12 @@ Source: [News API](https://newsapi.org/)
 - [South Africa Confirms New Bird Flu Outbreak](https://www.shtfplan.com/headline-news/south-africa-confirms-new-bird-flu-outbreak) (Shtfplan.com)
 
 ## 25-32 (h5n1)
+
+- [La gripe aviar obliga a sacrificar 132 aves del Centro de Fauna de Gorliz (Bizkaia)](https://www.meneame.net/m/actualidad/gripe-aviar-obliga-sacrificar-132-aves-centro-fauna-gorliz) (Meneame.net)
+
+- [ประกาศชะลอนำเข้าสัตว์ปีก-ซากสัตว์ปีกจากกัมพูชา 90 วัน หลังไข้หวัดนก H5N1 ระบาด](https://www.thairath.co.th/news/politic/2875105) (Thairath.co.th)
+
+- [Rájöttek a tudósok: két alattomos módja is lehet a halálos vírus terjedésének](https://www.portfolio.hu/global/20250806/rajottek-a-tudosok-ket-alattomos-modja-is-lehet-a-halalos-virus-terjedesenek-778509) (Portfolio.hu)
 
 - [RFK Jr. pulls funding for vaccines being developed to fight respiratory viruses](https://www.pbs.org/newshour/health/rfk-jr-pulls-funding-for-vaccines-being-developed-to-fight-respiratory-viruses) (PBS)
 
@@ -131,6 +153,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (dengue)
 
+- [Vlaanderen voert strijd tegen de tijgermug op: “Kans op volledige uitroeiing is klein”](https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html) (Nieuwsblad.be)
+
+- [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
+
+- [Gripe, resfriado, covid-19 ou dengue: entenda diferenças e sintomas](https://www.bbc.com/portuguese/articles/cvgp1qv7ke9o) (BBC News)
+
 - [New Zealand sends health team, medical supplies to Samoa to assist with dengue fever outbreak](https://www.rnz.co.nz/news/national/569193/new-zealand-sends-health-team-medical-supplies-to-samoa-to-assist-with-dengue-fever-outbreak) (RNZ)
 
 - [Cegah DBD, Babinsa dan Puskesmas Sopa’ah Lakukan Fogging di Pademawu Timur](https://suaraindonesia-news.com/cegah-dbd-babinsa-dan-puskesmas-sopaah-lakukan-fogging-di-pademawu-timur/) (Suaraindonesia-news.com)
@@ -144,6 +172,50 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [Kína még drónokat is bevetett az országban terjedő veszélyes járvány megfékezésére](https://www.portfolio.hu/global/20250806/kina-meg-dronokat-is-bevetett-az-orszagban-terjedo-veszelyes-jarvany-megfekezesere-778663) (Portfolio.hu)
+
+- [Saint-Marcellin. Cas de chikungunya : l’opération de démoustication terminée, le risque de contagion (normalement) écarté](https://www.ledauphine.com/sante/2025/08/06/isere-saint-marcellin-cas-de-chikungunya-l-operation-de-demoustication-terminee-le-risque-de-contagion-(normalement)-ecarte) (Le Dauphiné Libéré)
+
+- [Fast 8000 Chikungunya-Fälle in China - Kritik an Maßnahmen wegen Tigermücken-Virus](https://www.bild.de/leben-wissen/wissenschaft/fast-8000-faelle-in-china-kritik-an-corona-massnahmen-wegen-tigermuecken-virus-68936fef915c8850aaeb8e6a) (Bild)
+
+- [China Taking Extreme Steps to Quash a Virus Outbreak](https://www.newser.com/story/373084/china-taking-extreme-steps-to-quash-a-virus-outbreak.html) (Newser)
+
+- [Another Virus Rattling China Puts America On Red Alert](https://dailycaller.com/2025/08/06/another-virus-china-america-red-alert/) (The Daily Caller)
+
+- [Droni e multe in Cina contro l’epidemia di Chikungunya, ritirata l’iniziale (e inutile) quarantena](https://www.ilfattoquotidiano.it/2025/08/06/droni-e-multe-in-cina-contro-lepidemia-di-chikungunya-ritirata-liniziale-e-inutile-quarantena/8086962/) (Ilfattoquotidiano.it)
+
+- [U.S. warns travelers as mosquito-borne viral disease spreads in China](https://www.cbsnews.com/news/us-warns-travelers-chikungunya-virus-mosquitoes-china/) (CBS News)
+
+- [Chikungunya Virus in China: Updates on the Outbreak](https://hollywoodlife.com/2025/08/06/chikungunya-virus-outbreak-updates-china/) (Hollywood Life)
+
+- [Συναγερμός στην Κίνα για τον ιό Chikungunya – Χιλιάδες κρούσματα καθημερινά](https://www.newsit.gr/kosmos/synagermos-stin-kina-gia-ton-io-chikungunya-xiliades-krousmata-kathimerina/4446065/) (Newsit.gr)
+
+- [U.S. warns travelers as cases of chikungunya, a virus spread by mosquitos, increase in China](https://www.cbsnews.com/video/u-s-warns-travelers-as-cases-of-chikungunya-a-virus-spread-by-mosquitos-increase-in-china/) (CBS News)
+
+- [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
+
+- [China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill](https://www.bostonherald.com/2025/08/06/china-chikungunya-outbreak/) (Boston Herald)
+
+- [Chikungunya Virus Outbreak: Symptoms of Illness Spreading in China Explained](https://www.newsweek.com/chikungunya-virus-china-outbreak-symptoms-health-mosquito-2109551) (Newsweek)
+
+- [China aplica medidas de combate ao surto de chikunguny](https://observador.pt/2025/08/06/china-aplica-medidas-de-combate-ao-surto-do-virus-chikungunya-apos-milhares-de-infecoes/) (Observador.pt)
+
+- [What is chikungunya, the virus now spreading in southern China?](https://abcnews.go.com/International/wireStory/chikungunya-virus-now-spreading-southern-china-124404487) (ABC News)
+
+- [China Battling Another Virus: Mosquito-Borne Chikungunya](https://legalinsurrection.com/2025/08/china-battling-another-virus-mosquito-borne-chikungunya/) (Legalinsurrection.com)
+
+- [How did Chikungunya virus start as 'forceful pandemic measures' begin in China](https://www.ladbible.com/news/health/how-did-chikungunya-virus-start-781145-20250806) (LADbible)
+
+- [What World Health Organization has said about Chikungunya virus as China introduces 'pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-china-who-statement-387257-20250806) (LADbible)
+
+- [Çin'de chikungunya endişesi! ABD'den seyahat uyarısı geldi](https://www.haberturk.com/cin-de-chikungunya-virusu-endisesi-abd-den-seyahat-uyarisi-geldi-haberler-3812772) (Haberturk.com)
+
+- [Ce se întâmplă dacă te infectezi cu virusul Chikungunya, care afectează deja mii de oameni în China. OMS: „Istoria se repetă”,](https://adevarul.ro/stiri-externe/in-lume/ce-se-intampla-daca-te-infectezi-cu-virusul-2462812.html) (Adevarul.ro)
+
+- [China tackles chikungunya virus outbreak as thousands fall ill](https://abcnews.go.com/International/wireStory/china-tackles-chikungunya-virus-outbreak-wide-range-measures-124402636) (ABC News)
+
+- [Gegenmaßnahmen wie bei Corona: Ausbruch des Chikungunya-Virus in China weitet sich aus](https://www.n-tv.de/wissen/Ausbruch-des-Chikungunya-Virus-in-China-weitet-sich-aus-article25947795.html) (N-tv.de)
 
 - [CDC issues travel health notice for mosquito-borne chikungunya virus](https://abc7news.com/post/cdc-issues-travel-health-notice-mosquito-borne-chikungunya-virus-china/17447805/) (KGO-TV)
 
@@ -2671,8 +2743,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2706,8 +2776,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
