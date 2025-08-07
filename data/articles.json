@@ -1,8 +1,566 @@
 {
-  "last_updated": "2025-08-06 19:08",
-  "count_articles_total": 1193,
-  "count_articles_new": 19,
+  "last_updated": "2025-08-07 07:11",
+  "count_articles_total": 1226,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 23502,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "KGO-TV",
+      "author": "Lauren Martinez",
+      "title": "CDC issues travel health notice for mosquito-borne chikungunya virus",
+      "description": "Health officials are warning travelers about a painful mosquito-borne virus. Chikungunya is spread by infected mosquitoes, mainly Aedes aegypti.",
+      "url": "https://abc7news.com/post/cdc-issues-travel-health-notice-mosquito-borne-chikungunya-virus-china/17447805/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17448576_080525-kgo-mosquito-img.jpg?w=1600",
+      "publishedAt": "2025-08-06 07:08:26",
+      "content": "SAN JOSE, Calif. (KGO) -- Health officials are warning travelers about a painful mosquito-borne virus. On Friday, the CDC issued a travel warning about a chikungunya outbreak in southern China. ABC7\u2026 [+2413 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.639653",
+      "internal_id": "28f0d5afa8d59c74d9159628d49ba8d0928c91f09ea9024a75c0e934eaf0c0cd",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23494,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Chikungunya-Virus breitet sich weiter in China aus",
+      "description": "\u00dcber 7.000 Menschen haben sich in China mit dem von M\u00fccken \u00fcbertragenen Virus bereits infiziert. Die Beh\u00f6rden greifen zum Teil auf Ma\u00dfnahmen zur\u00fcck, die an die Corona-Pandemie erinnern.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-chikungunya-virus-breitet-sich-weiter-in-china-aus-14138096.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14138093/alternates/BASE_16_9_W1400/1754463298000/asiatische-tigermucke.jpeg",
+      "publishedAt": "2025-08-06 06:54:58",
+      "content": "In S\u00fcdchina weitet sich der Ausbruch des von M\u00fccken \u00fcbertragenen Chikungunya-Virus weiter aus. In der Provinz Guangdong wurden inzwischen mehr als 7.700 Infektionen registriert, wie aus Daten der lok\u2026 [+2556 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.470196",
+      "internal_id": "e6c911b67480519727954b3849e50fbc9aec72e2072a65da1d0bf4b37dec88b5",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23484,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Krankheiten: Chikungunya-Virus breitet sich weiter in China aus",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eChikungunya-Virus breitet sich weiter in China aus\u201c.",
+      "url": "https://www.zeit.de/news/2025-08/06/chikungunya-virus-breitet-sich-weiter-in-china-aus",
+      "urlToImage": "https://img.zeit.de/news/2025-08/06/chikungunya-virus-breitet-sich-weiter-in-china-aus-image-group/wide__1300x731",
+      "publishedAt": "2025-08-06 06:53:54",
+      "content": "In S\u00fcdchina weitet sich der Ausbruch des von M\u00fccken \u00fcbertragenen Chikungunya-Virus weiter aus. In der Provinz Guangdong wurden inzwischen mehr als 7.700 Infektionen registriert, wie aus Daten der lok\u2026 [+2494 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.338981",
+      "internal_id": "34015652f94c76568bcf0cdfe490197a77c164ac1a21e955478d364695c8007c",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23489,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Chikungunya-Virus breitet sich weiter in China aus",
+      "description": "\u00dcber 7.000 Menschen haben sich in China mit dem von M\u00fccken \u00fcbertragenen Virus bereits infiziert. Die Beh\u00f6rden greifen zum Teil auf Ma\u00dfnahmen zur\u00fcck, die an die Corona-Pandemie erinnern.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--chikungunya-virus-breitet-sich-weiter-in-china-aus-35951916.html",
+      "urlToImage": "https://image.stern.de/35951918/t/vO/v1/w1440/r1.7778/-/06--roordosl2uv4axs2048jpeg---6f16030c34769328.jpg",
+      "publishedAt": "2025-08-06 06:53:54",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen \u00dcber 7.000 Menschen haben sich in China mit dem von M\u00fccken \u00fcbertragenen Virus bereits infiziert. Die Beh\u00f6rden greifen zum Teil auf Ma\u00dfnahmen zur\u00fc\u2026 [+2697 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.395860",
+      "internal_id": "023e9cfe12158b14b25e52378250a20c4bb0c009462902c4254e18ff5a2ee13f",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23500,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "T\u00fcrkiye Gazetesi",
+      "title": "\u00c7in'de salg\u0131n ba\u015flad\u0131, h\u0131zla yay\u0131l\u0131yor! Binlerce vaka var \u00fcstelik sineklerden bula\u015f\u0131yor...",
+      "description": "\u00c7in\u2019de ba\u015flayan chikungunya vir\u00fcs\u00fc h\u0131zla yay\u0131l\u0131yor. Vaka say\u0131s\u0131 7 bini a\u015ft\u0131, yetkililer alarma ge\u00e7ti. Sivrisineklerin yayd\u0131\u011f\u0131 bu vir\u00fcse kar\u015f\u0131 biyolojik sava\u015f da ba\u015flat\u0131ld\u0131.",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/cinde-salgin-basladi-hizla-yayiliyor-binlerce-vaka-var-ustelik-sineklerden-bulasiyor-1136177",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-08/06/cinde-salgin-basladi-hizla-yayiliyor-binlerce-vaka-var-ustelik-sineklerden-bulasiyor-17544598081461.jpg",
+      "publishedAt": "2025-08-06 05:45:22",
+      "content": "",
+      "retrievedAt": "2025-08-07 07:11:43.591581",
+      "internal_id": "14ab0ba9f80ed8880ea13a5c0fc571f031c738267068f8f56a07d47ded4aa4f1",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23497,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "A new virus is spreading in China, and it\u2019s more painful than Covid",
+      "description": "Southern China is grappling with a sharp rise in chikungunya infections, with more than 7,000 reported cases in Guangdong province, mostly in the city of Foshan. The outbreak has been worsened by extreme rainfall and flooding, creating ideal mosquito breeding\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/chikungunya-outbreak-a-new-virus-is-spreading-in-china-and-its-more-painful-than-covid/articleshow/123132681.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123133286,width-1200,height-630,imgsize-1158334,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-06 04:59:38",
+      "content": "The city of Foshan in southern Chinas Guangdong province has become the focal point of a chikungunya outbreak that has now infected more than 7,000 people. The virus, spread through the bite of Aedes\u2026 [+6253 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.564267",
+      "internal_id": "2fd08650174ee5ee840912c24aacf3cb4346ac72596f48734a26eff409537318",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23482,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "RNZ",
+      "author": "Rnz News",
+      "title": "New Zealand sends health team, medical supplies to Samoa to assist with dengue fever outbreak",
+      "description": "Samoa has recorded more than 5000 cases and at least five deaths since the outbreak was declared in April.",
+      "url": "https://www.rnz.co.nz/news/national/569193/new-zealand-sends-health-team-medical-supplies-to-samoa-to-assist-with-dengue-fever-outbreak",
+      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--Tz2oqg-X--/t_tohu-badge-facebook/v1657607276/4LOQZE6_MosquitoHighRes_jpg?_a=BACCd2AD",
+      "publishedAt": "2025-08-06 04:34:37",
+      "content": "The Aedes aegypti is one of the mosquitos that transmits dengue fever in Samoa. Photo: Supplied/ CDC Public Health Image Library - Frank Hadley Collins New Zealand is sending a small health team and\u2026 [+1558 chars]",
+      "retrievedAt": "2025-08-07 07:11:42.212819",
+      "internal_id": "9b3d92c8ffa4e7d06a3f346c56c5a9be50b733e5004d09221b6022798d6662d1",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23495,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Businessam.be",
+      "author": "businessam.be",
+      "title": "Chikungunya-epidemie in China leidt tot strenge maatregelen",
+      "description": "Key takeaways Chikungunya, een door muggen overgedragen ziekte, heeft een epidemie van meer dan 7.000 gevallen veroorzaakt in de Chinese provincie Guangdong. De autoriteiten voeren strenge maatregelen uit, waaronder het opnemen van ge\u00efnfecteerde mensen in het\u2026",
+      "url": "https://businessam.be/chikungunya-epidemie-in-china-leidt-tot-strenge-maatregelen/",
+      "urlToImage": "https://media.businessam.be/GettyImages-2218294467.jpg",
+      "publishedAt": "2025-08-06 04:28:00",
+      "content": "Key takeaways Chikungunya, een door muggen overgedragen ziekte, heeft een epidemie van meer dan 7.000 gevallen veroorzaakt in de Chinese provincie Guangdong.De autoriteiten voeren s\u2026 [+2838 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.516733",
+      "internal_id": "82fd3b94115753b17fa807f14d4810859306176d4cd508e6d84acb6220a81807",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23493,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "\u00d6mer Faruk Akta\u015f",
+      "title": "\u00c7in\u2019de chikungunya vir\u00fcs\u00fc alarm\u0131: Sivrisinek kaynakl\u0131 salg\u0131n b\u00fcy\u00fcyor",
+      "description": "\u00c7in\u2019in Guangdong eyaletinde sivrisinek kaynakl\u0131 chikungunya vir\u00fcs\u00fc nedeniyle son haftalarda 7 bini a\u015fk\u0131n vaka tespit edildi. Vakalar\u0131n b\u00fcy\u00fck k\u0131sm\u0131 g\u00fcneydeki Foshan kentinde yo\u011funla\u015ft\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3553015-cinde-chikungunya-virusu-alarmi-sivrisinek-kaynakli-salgin-buyuyor",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/32/cinde_chikungunya_virusu_alarmi_sivrisinek_kaynakli_salgin_buyuyor_1754454377_1264.jpg",
+      "publishedAt": "2025-08-06 04:27:00",
+      "content": "Yetkililer, enfekte kiileri hastanede karantinaya alarak testler uyguluyor. Ayn zamanda ekipler, sivrisineklerin \u00fcreyebilecei durgun su alanlarn denetliyor, parklara ve sokaklara insektisit sklyor. \u2026 [+716 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.453806",
+      "internal_id": "121ef83a17ec1845b290c4a9a02f0bc800619a651307b1c02162a78430b523d6",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23501,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Hayley Taylor",
+      "title": "Chikungunya virus ripping through China prompts COVID-style quarantine response",
+      "description": "Chikungunya virus ripping through China prompts COVID-style quarantine response7news.com.au",
+      "url": "https://7news.com.au/news/chikungunya-virus-ripping-through-china-prompts-covid-style-quarantine-response-c-19594965",
+      "urlToImage": "https://images.7news.com.au/publication/C-19594965/b7dddf00f7abbd372fc8542cc2d82452f18d8b92-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-08-06 04:26:57",
+      "content": "A mosquito-borne virus spreading in parts of southeast China is triggering a COVID-style response there. Cases of the mosquito-borne virus chikungunya have spiked to more than 10,000 in the country,\u2026 [+2093 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.615289",
+      "internal_id": "30181fb0ab8e4238ceb44265940f9d4de30b6951d7418c414b048f2992ef892a",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23488,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Georgie Hewson",
+      "title": "What to know about chikungunya as cases rise in South China",
+      "description": "Authorities are working to stop the spread of the disease in Southern China, with similar measures to those taken during the COVID-19 pandemic.",
+      "url": "https://www.abc.net.au/news/2025-08-06/chikungunya-what-is-it-virus-mosquito/105618166",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d12d5aac5b2edf3e1b0ec22a872603b?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-08-06 02:24:18",
+      "content": "Over 7,000 cases of the mosquito-borne virus chikungunya have hit several cities in the south of China. The World Health Organization warned in July that a major chikungunya virus epidemic risked sw\u2026 [+5340 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.386710",
+      "internal_id": "5e57434fbbe09e6e8b90a04d1281080af89ced492e19f4b6e19ad86c7f446726",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23485,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera Staff",
+      "title": "What is the chikungunya virus, how are countries such as China battling it?",
+      "description": "Since the start of 2025, about 240,000 people have been infected with chikungunya, with 90 deaths in 16 countries.",
+      "url": "https://www.aljazeera.com/news/2025/8/6/what-is-the-chikungunya-virus-how-are-countries-such-as-china-battling-it",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/2016-08-23T000000Z_1570351186_S1BETXDQOKAA_RTRMADP_3_MEXICO-HEALTH-1754433689.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-08-06 02:18:54",
+      "content": "United States health officials are urging travellers to remain vigilant as a mosquito-borne virus continues to circulate across parts of Asia, Africa, Europe, Latin America and the Indian Ocean. Sin\u2026 [+6518 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.347747",
+      "internal_id": "d91eaa7dc9bea4130f1e7fa2560ea21f68d55f9d10754f00b3b2990935833266",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23498,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "jdn",
+      "title": "Moesson teistert Zuid-China: overstromingen, aardverschuivingen en virusuitbraak",
+      "description": "Zuid-China wordt overspoeld door extreme regenval nu de Oost-Aziatische moesson zijn hoogtepunt bereikt. In de provincie Guangdong veranderden winkelstraten in rivieren en werden auto\u2019s onder water gezet. De stortregens veroorzaakten aardverschuivingen en inf\u2026",
+      "url": "https://www.nieuwsblad.be/buitenland/moesson-teistert-zuid-china-overstromingen-aardverschuivingen-en-virusuitbraak/82014236.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/di83r8-china-weather-floods/alternates/SIXTEEN_NINE_1200/CHINA-WEATHER-FLOODS",
+      "publishedAt": "2025-08-06 01:40:00",
+      "content": "De overstromingen hebben ook geleid tot een uitbraak van chikungunya, een virus dat wordt verspreid door muggen die gedijen in stilstaand water. Guangdong telt inmiddels meer dan 7.000 besmettingen. \u2026 [+575 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.574108",
+      "internal_id": "fa3e9f860514f064c3d81f3d76df47ca7c1de5b705f68dfe319b3e41709b045e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23487,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "China is fighting an outbreak of the chikungunya virus. What is it?",
+      "description": "Chinese health officials are responding to an outbreak of a mosquito-borne disease that can cause severe joint pain. More than 7,000 cases of chikungunya have been reported in the Chinese province of Guangdong in recent weeks, with most in the southern city o\u2026",
+      "url": "https://www.cbc.ca/news/world/chikungunya-virus-china-1.7601781",
+      "urlToImage": "https://i.cbc.ca/1.7601935.1754437092!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/brazil-zika-babies.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-06 00:50:16",
+      "content": "Chinese health officials are responding to an outbreak of a mosquito-borne virus that can cause severe pain. More than 7,000 cases of chikungunya have been reported in the Chinese province of Guangd\u2026 [+3683 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.366794",
+      "internal_id": "6ee1b9bc1ec78b798ac806bdcb6dfbf9be739749b2d263c9c7bd7bbc17b58656",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 23490,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "7 000 drabbade av myggvirus i Kina \u2013 sedan b\u00f6rjan av juli",
+      "description": "I Kinas Guangdongprovins har fler \u00e4n 7 000 fall av det myggburna viruset chikungunya rapporterats in sedan b\u00f6rjan av\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1393127",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=675&q=50&w=1200&s=7076b53826b77139557aa7b78a798b03f7bc7a83",
+      "publishedAt": "2025-08-05 23:55:49",
+      "content": "7 000 drabbade av myggvirus i Kina sedan b\u00f6rjan av juli 7 000 drabbade av myggvirus i Kina sedan b\u00f6rjan av juli I Kinas Guangdongprovins har fler \u00e4n 7 000 fall av det myggburna viruset chik\u2026 [+10328 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.405544",
+      "internal_id": "3411a1da8995c134ab5b56d9d97cbcd9f31b4de6cad92a73d0ddb5afd69b6777",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23492,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Nueva enfermedad se propaga en China: qu\u00e9 saber sobre el virus chikungunya",
+      "description": "Forbes M\u00e9xico. Nueva enfermedad se propaga en China: qu\u00e9 saber sobre el virus chikungunya Un virus transmitido por mosquitos que ha infectado a m\u00e1s de 7,000 personas en al menos 13 ciudades de China ha provocado precauciones similares a las impuestas durant\u2026",
+      "url": "https://forbes.com.mx/nueva-enfermedad-se-propaga-en-china-que-saber-sobre-el-virus-chikungunya/",
+      "urlToImage": "https://cdn.forbes.com.mx/2025/08/Chinkungunya.webp",
+      "publishedAt": "2025-08-05 23:42:24",
+      "content": "Resumen principalUn virus transmitido por mosquitos que ha infectado a m\u00e1s de 7,000 personas en al menos 13 ciudades de China ha provocado medidas preventivas similares a las impuestas durante la pan\u2026 [+5345 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.437705",
+      "internal_id": "a66eec096e91bf0d4f13aff660fa43e7402fc778a65bd5eefda851aefe4ee662",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23480,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Amanda Seitz, Associated Press",
+      "title": "RFK Jr. pulls funding for vaccines being developed to fight respiratory viruses",
+      "description": "The projects \u2014 22 of them \u2014 are being led by some of the nation\u2019s leading pharmaceutical companies like Pfizer and Moderna to prevent flu, COVID-19 and H5N1 infections.",
+      "url": "https://www.pbs.org/newshour/health/rfk-jr-pulls-funding-for-vaccines-being-developed-to-fight-respiratory-viruses",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-07-29T003729Z_1524009507_RC21NFA4E49L_RTRMADP_3_USA-HEALTH-KENNEDY-SENATE-1024x681.jpg",
+      "publishedAt": "2025-08-05 22:54:21",
+      "content": "WASHINGTON (AP) The Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-19 and the flu. \u2026 [+446 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.976272",
+      "internal_id": "5830858aa6f37881cc0216328c6389e66a1e3d0ac1de2bec8cd763d4f6825b21",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23481,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Roanoke Times",
+      "author": "AMANDA SEITZ Associated Press",
+      "title": "RFK Jr. pulls $500 million in funding for vaccine development",
+      "description": "The 22 projects, all using mRNA technology, are led by some of the nation's leading pharmaceutical companies to prevent flu, COVID-19 and H5N1 infections.",
+      "url": "https://roanoke.com/news/nation-world/government-politics/article_4b43a2e1-4839-500f-843e-f370823c8fd7.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/b4/4b43a2e1-4839-500f-843e-f370823c8fd7/6892892466729.preview.jpg?crop=1649%2C866%2C42%2C33&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-08-05 22:45:00",
+      "content": "WASHINGTON The Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-19 and the flu. Rober\u2026 [+1102 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.985278",
+      "internal_id": "40d86f9ebcbdb071d54e85a88134b5d8cae79bb4f88117907d5eb7ff55fda4b4",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23479,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "RFK Jr. Makes Major Vaccine Announcement",
+      "description": "Kennedy urged HHS to move away from mRNA vaccines and \"invest in better solutions,\" but did not specify alternatives.",
+      "url": "https://www.newsweek.com/rfk-trump-admin-vaccines-mrna-covid-flu-2109400",
+      "urlToImage": "https://d.newsweek.com/en/full/2697214/kennedy-trump.jpg",
+      "publishedAt": "2025-08-05 22:39:30",
+      "content": "The Department of Health and Human Services will end funding and cancel contracts for a series of mRNA-based vaccines aimed at preventing respiratory illnesses such as COVID-19, influenza and H5N1, H\u2026 [+1906 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.959842",
+      "internal_id": "24b62366b02c388c859a4b3f3817287495db6b220e81d3f9f8d4673e4701b317",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23478,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "RFK Jr. pulls $500 million in funding for vaccine development",
+      "description": "The projects are being led by pharmaceutical companies to prevent flu, COVID-19 and H5N1 infections.",
+      "url": "https://www.bostonherald.com/2025/08/05/us-kennedy-vaccines/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Trump_97023.jpg?w=1024&h=682",
+      "publishedAt": "2025-08-05 22:38:44",
+      "content": "By AMANDA SEITZ WASHINGTON (AP) The Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-\u2026 [+751 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.950428",
+      "internal_id": "bae89843b7a30d6402d8b868696bd36086ef6fbb9ebf02ecbb22896d644347fa",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23477,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Ken Macgillivray",
+      "title": "Confirmed case of measles in Banff prompts AHS to issue public alert | Globalnews.ca",
+      "description": "Alberta Health Services has issued a public alert about a person with a confirmed case of measles who visited the Banff gondola while they were contagious.",
+      "url": "http://globalnews.ca/news/11319389/confirmed-case-of-measles-banff-ahs-public-alert/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/08/banff-gondola-1_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-08-05 21:13:30",
+      "content": "Alberta Health Services is warning residents and visitors to Banff about a confirmed case of measles. AHS said in a public advisory, issued on Tuesday, that the person had been in a public setting w\u2026 [+1828 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.394352",
+      "internal_id": "652a58502c6b84179e2da646bf32f2db16638e1b42d5264b8788ec6d4fe97f69",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23474,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Ljeonida Mulabazi",
+      "title": "\u2018This Is The 3rd Video I\u2019ve Seen Of Someone Coming In Contact With A Bat\u2019: Georgia Man Goes To HomeGoods. Then He Has To Pay A Visit To The ER For Rabies Shot",
+      "description": "Bats are fascinating creatures. They\u2019re pollinators and pest controllers; they even help maintain healthy ecosystems. But while they\u2019re cool to watch from a distance, accidentally coming into contact with one is an entirely different story\u2014especially if you\u2019r\u2026",
+      "url": "https://brobible.com/culture/article/georgia-homegoods-bat-rabies/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/08/home-goods-shd.jpg",
+      "publishedAt": "2025-08-05 21:00:25",
+      "content": "Audio By Carbonatix Bats are fascinating creatures. Theyre pollinators and pest controllers; they even help maintain healthy ecosystems. But while theyre cool to watch from a distance, accidentally \u2026 [+2959 chars]",
+      "retrievedAt": "2025-08-07 07:11:40.731305",
+      "internal_id": "82052d43cbf91afc465915995d87c556919a65329f340630d5e4c8aabc67560e",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23483,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "AppleInsider",
+      "author": "Wesley Hilliard",
+      "title": "Chikungunya virus not a threat to Apple's Chinese supply chain",
+      "description": "There's another virus spreading in China, but despite what you may have heard on social media, it is not airborne, is contained, and isn't comparable to the COVID-19 situation for Apple or the world yet.Foxconn likely won't be affected by the virus. Image sou\u2026",
+      "url": "https://appleinsider.com/articles/25/08/05/chikungunya-virus-not-a-threat-to-apples-chinese-supply-chain",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/64619-134646-IMG_2474-xl.jpg",
+      "publishedAt": "2025-08-05 20:48:02",
+      "content": "There's another virus spreading in China, but despite what you may have heard on social media, it is not airborne, is contained, and isn't comparable to the COVID-19 situation for Apple or the world \u2026 [+1795 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.328432",
+      "internal_id": "0584e2931a5af1851594ab54a0e8adf82fc215df396bbe6874adfaa4376553ad",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23486,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Mary Whitfill Roeloffs, Forbes Staff, \n Mary Whitfill Roeloffs, Forbes Staff\n https://www.forbes.com/sites/maryroeloffs/",
+      "title": "New Illness Spreading In China: What To Know About The Chikungunya Virus",
+      "description": "In the Guangdong province of China, COVID-like hospital quarantines are in effect to help stop the spread of chikungunya virus.",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2025/08/05/new-illness-spreading-in-china-what-to-know-about-the-chikungunya-virus/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6892625055f55660da640a67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-08-05 20:40:15",
+      "content": "A mosquito-born virus that has infected more than 7,000 people across at least 13 cities in China has sparked precautions similar to those imposed during the COVID pandemic in attempts to stop its sp\u2026 [+5244 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.356802",
+      "internal_id": "31b0dbe32deca0603309015534a439c54d127e92879f370d35bf10b7603cdbc4",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23475,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Suzanne Blake",
+      "title": "These Diseases Are on the Rise as Vaccine Rates Decrease",
+      "description": "A vaccine rates have declined in the U.S., there have been notable increases in several diseases, including measles and whooping cough.",
+      "url": "https://www.newsweek.com/these-diseases-are-rise-vaccine-rates-decrease-2109340",
+      "urlToImage": "https://d.newsweek.com/en/full/2697040/measles-vaccine.jpg",
+      "publishedAt": "2025-08-05 20:31:22",
+      "content": "The U.S. vaccination rate is on a steady multiyear decline, with the Centers of Disease Prevention and Control reporting that coverage for all children entering kindergarten in the 2024-25 school yea\u2026 [+5675 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.091685",
+      "internal_id": "0b48d63ada66e82bbceba167e96676717b195c2a6df64bc8bf349a978a752674",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23491,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Minyvonne Burke",
+      "title": "CDC warns of mosquito-borne chikungunya outbreak in southeast China",
+      "description": "U.S. health officials issued a warning to travelers about a mosquito-borne illness being transmitted in parts of southeast China.",
+      "url": "https://www.nbcnews.com/health/health-news/chikungunya-outbreak-virus-china-mosquito-rcna223232",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-mosquito-aa-334-1b6e12.jpg",
+      "publishedAt": "2025-08-05 20:12:26",
+      "content": "U.S. health officials issued a warning to travelers about a mosquito-borne illness being transmitted in parts of southeast China. The Centers for Disease Control and Prevention said there is an out\u2026 [+1545 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.414158",
+      "internal_id": "00f4c6e2e983db801466a0b4297850451a28d75bd905142064de9427b7c9bb6e",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23473,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Providence Journal",
+      "author": "Providence Journal Staff",
+      "title": "A rabid bat was found at Beavertail State Park. Here's what to know to stay safe.",
+      "description": "The bat was taken to a wildlife rehabilitation facility and later euthanized when staff noticed that the bat was displaying symptoms of rabies.",
+      "url": "https://www.providencejournal.com/story/news/local/2025/08/05/bat-with-rabies-found-at-beavertail-state-park-in-jamestown/85530293007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/56mNX4MG1AoZQIQPwS6sdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the-providence-journal/931c22543c624e4fa575b54c6ef89158",
+      "publishedAt": "2025-08-05 20:02:00",
+      "content": "An injured bat found at Beavertail State Park in Jamestown on July 30 tested positive for rabies. The Rhode Island Department of Health is alerting the public that the rabid bat was found near the h\u2026 [+2188 chars]",
+      "retrievedAt": "2025-08-07 07:11:40.705394",
+      "internal_id": "b73f33905e2ab9145266557db1161c682142747184092549652eb996d360568f",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23476,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Addressing fear in Alberta's Mennonite community amid a measles outbreak",
+      "description": "Quelling the spread of measles involves immunization campaigns and public health protocols, but Tina Meggison says it also requires sitting down and having an open and honest conversation. That's what she's working to do within the Low German-speaking Mennoni\u2026",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-mexican-mennonite-measles-vaccine-hesitancy-outreach-1.7601715",
+      "urlToImage": "https://i.cbc.ca/1.7601716.1754422025!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/alta-mennonite-measles-20250804.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-05 19:42:51",
+      "content": "Quelling the spread of measles involves immunization campaigns and public health protocols, but Tina Meggison says it also requires sitting down and having an open and honest conversation. That's wh\u2026 [+7890 chars]",
+      "retrievedAt": "2025-08-07 07:11:41.346004",
+      "internal_id": "2018e7ff3fb22e3669fdc397e303b6a11d9c88e8cd01f1540e73d79b644fa463",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23499,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Mosquitoes wreak havoc in China as authorities adopt COVID pandemic methods to tackle virus outbreak",
+      "description": "A virus transmitted by the bites of infected mosquitoes, chikungunya is rarely fatal, but it does cause fever and severe joint pain. It has infected about 8,000 people in China in four weeks, mostly in Foshan, and is the country's largest outbreak of its kind\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/elephant-mosquitoes-wreak-havoc-in-china-as-authorities-adopt-covid-pandemic-methods-to-tackle-virus-outbreak/articleshow/123127256.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123127281,width-1200,height-630,imgsize-89604,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-05 19:37:20",
+      "content": "In the southern Chinese city of Foshan, officials are engaged in an all-out battle against chikungunya, a painful, mosquito-borne viral disease that could spread across the country. Soldiers wearing \u2026 [+4659 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.582799",
+      "internal_id": "dcc97163f4c8af8f84ac6c71daf391bdc8e0dd309d7d211e0047fcdf5aee5d7e",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23496,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Olivia Burke",
+      "title": "UK government advice as Chikungunya virus breaks out in China triggering 'forceful pandemic measures'",
+      "description": "Brits are being urged to be wary after thousands of cases of the mosquito-borne Chikungunya virus were reported in China's Guangdong province.",
+      "url": "https://www.ladbible.com/news/health/chikungunya-virus-uk-government-advice-vaccines-symptoms-explained-439936-20250805",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt1386769298ac3301/68925026a71f002d5ac34ce7/Chikungunya-virus-uk-gov-warning-vaccines.jpg",
+      "publishedAt": "2025-08-05 19:25:50",
+      "content": "The UK government has issued advice to Brits amid an outbreak of Chikungunya virus in China. The East Asian nation has vowed to take 'forceful and decisive measures' - similar to those seen during t\u2026 [+4233 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.525843",
+      "internal_id": "db125b3d422056ec1623ef6d45f4aea160f8a2831257f47b87b501c517336c89",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 23503,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Jhonatan Gonz\u00e1lez",
+      "title": "Detectan en Chiapas segundo caso de viruela s\u00edmica",
+      "description": "La Secretar\u00eda de Salud de Chiapasconfirm\u00f3 este martes el segundo caso deMpox (anteriormente conocida como viruela s\u00edmica) en el municipio de Tuxtla Guti\u00e9rrez.En conferencia de prensa, Yasmin P\u00e9rez Mart\u00ednez, representante de la Direcci\u00f3n de Salud P\u00fablica, expl\u2026",
+      "url": "https://www.milenio.com/estados/detectan-segundo-caso-de-viruela-simica-en-tuxtla-gutierrez-chiapas",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/08/05/yasmin-perez-martinez-informa-conferencia.jpeg",
+      "publishedAt": "2025-08-05 19:22:00",
+      "content": "La Secretar\u00eda de Salud de Chiapas confirm\u00f3 este martes el segundo caso de Mpox (anteriormente conocida como viruela s\u00edmica) en el municipio de Tuxtla Guti\u00e9rrez. En conferencia de prensa, Yasmin P\u00e9r\u2026 [+1806 chars]",
+      "retrievedAt": "2025-08-07 07:11:43.955295",
+      "internal_id": "439c6dc612fdda6621fedeeba4ccd7ba9780c0e852474775da2ece0af1538128",
+      "publishedAtLabel": "Aug 5"
+    },
     {
       "id": 23455,
       "query": [
@@ -21558,6 +22116,42 @@
       "retrievedAt": "2025-06-24 07:08:16.256922",
       "internal_id": "0116475267b472b5c80520cc49112083f678ae2c9661cc036cc46cebcb78d85f",
       "publishedAtLabel": "Jun 23"
+    },
+    {
+      "id": 22279,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0418\u0418 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 H5N1 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0435",
+      "description": "\u0423\u0447\u0451\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u044b \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1, \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e: \u0432\u0438\u0440\u0443\u0441 \u0432\u0441\u0451 \u043b\u0443\u0447\u0448\u0435 \u0438\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u0412 \u044d\u0442\u043e\u043c \u0438\u043c \u043f\u043e\u043c\u043e\u0433 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.",
+      "url": "https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2025/06/22/15/6853578/df8040a0a31db59b158b114eed3f4ff899d31846.jpeg",
+      "publishedAt": "2025-06-22 16:09:35",
+      "content": "1800 - AlphaFold . , . , , . , , 10 , . , , . . .",
+      "retrievedAt": "2025-06-23 19:06:05.702761",
+      "internal_id": "0c30e2f14df800adb3e2f6dba5aeb2385e641c0e26885c5d13434e6b776808ea",
+      "publishedAtLabel": "Jun 22"
+    },
+    {
+      "id": 22278,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)",
+      "description": "New York Times: 'I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home \u2026 He was a chiropractor by training, but in a remote part of West Texas with limited medical care, Kiley Timmons had become a first stop for whatever hurt. Ear infections. La\u2026",
+      "url": "https://www.memeorandum.com/250622/p35",
+      "urlToImage": "https://static01.nyt.com/images/2025/06/22/multimedia/22measles-spread-ALT-promo-still-mcvp/22measles-spread-ALT-promo-still-mcvp-facebookJumbo.jpg",
+      "publishedAt": "2025-06-22 15:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-06-23 19:06:04.743399",
+      "internal_id": "a63d435dc371b441f00390bf1e35f0ac9350bfd45c0c5c4d69e2756b76b06b08",
+      "publishedAtLabel": "Jun 22"
     }
   ]
 }

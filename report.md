@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-08-06 19:08
-- **Most recent article:** 2025-08-05 18:45:00
+- **New articles in last harvest:** 31
+- **Last harvest:** 2025-08-07 07:11
+- **Most recent article:** 2025-08-06 07:08:26
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 52 | 36 | 114 | 64 | 47 | 30 | 11 | 354 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 19 | 209 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 5 | 181 |
+| measles | 53 | 36 | 114 | 64 | 47 | 30 | 14 | 358 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 39 | 229 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 6 | 182 |
 | malaria | 13 | 21 | 29 | 12 | 18 | 13 | 5 | 111 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 4 | 76 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 3 | 66 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 5 | 77 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 5 | 68 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
+| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 8 | 46 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 4 | 43 |
-| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 4 | 41 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 1 | 11 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -43,6 +43,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (rabies)
 
+- [‘This Is The 3rd Video I’ve Seen Of Someone Coming In Contact With A Bat’: Georgia Man Goes To HomeGoods. Then He Has To Pay A Visit To The ER For Rabies Shot](https://brobible.com/culture/article/georgia-homegoods-bat-rabies/) (BroBible)
+
+- [A rabid bat was found at Beavertail State Park. Here's what to know to stay safe.](https://www.providencejournal.com/story/news/local/2025/08/05/bat-with-rabies-found-at-beavertail-state-park-in-jamestown/85530293007/) (The Providence Journal)
+
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
 - [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
@@ -50,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
 
 ## 25-32 (mpox)
+
+- [Detectan en Chiapas segundo caso de viruela símica](https://www.milenio.com/estados/detectan-segundo-caso-de-viruela-simica-en-tuxtla-gutierrez-chiapas) (Milenio)
 
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
@@ -60,6 +66,12 @@ Source: [News API](https://newsapi.org/)
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [Confirmed case of measles in Banff prompts AHS to issue public alert | Globalnews.ca](http://globalnews.ca/news/11319389/confirmed-case-of-measles-banff-ahs-public-alert/) (Global News)
+
+- [These Diseases Are on the Rise as Vaccine Rates Decrease](https://www.newsweek.com/these-diseases-are-rise-vaccine-rates-decrease-2109340) (Newsweek)
+
+- [Addressing fear in Alberta's Mennonite community amid a measles outbreak](https://www.cbc.ca/news/canada/calgary/alberta-mexican-mennonite-measles-vaccine-hesitancy-outreach-1.7601715) (CBC News)
 
 - [Health department shares the importance of vaccines](https://www.wgem.com/2025/08/05/health-department-shares-importance-vaccines/) (WGEM)
 
@@ -101,6 +113,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (h5n1)
 
+- [RFK Jr. pulls funding for vaccines being developed to fight respiratory viruses](https://www.pbs.org/newshour/health/rfk-jr-pulls-funding-for-vaccines-being-developed-to-fight-respiratory-viruses) (PBS)
+
+- [RFK Jr. pulls $500 million in funding for vaccine development](https://roanoke.com/news/nation-world/government-politics/article_4b43a2e1-4839-500f-843e-f370823c8fd7.html) (Roanoke Times)
+
+- [RFK Jr. Makes Major Vaccine Announcement](https://www.newsweek.com/rfk-trump-admin-vaccines-mrna-covid-flu-2109400) (Newsweek)
+
+- [RFK Jr. pulls $500 million in funding for vaccine development](https://www.bostonherald.com/2025/08/05/us-kennedy-vaccines/) (Boston Herald)
+
 - [Bird Flu Could Be Spreading through the Air on Dairy Farms, Preliminary Study Shows](https://www.scientificamerican.com/article/bird-flu-could-be-spreading-through-the-air-on-dairy-farms-preliminary-study/) (Scientific American)
 
 - [Estudo indica contaminação de gripe aviária no ar de fazendas dos EUA](https://www.metropoles.com/saude/gripe-aviaria-no-ar-em-fazendas) (Metropoles.com)
@@ -110,6 +130,8 @@ Source: [News API](https://newsapi.org/)
 - [ไทยยกระดับมาตรการเฝ้าระวัง “ไข้หวัดนก H5N1” หลังระบาดในกัมพูชา ตายแล้ว 6 ราย](https://www.thairath.co.th/news/politic/2874573) (Thairath.co.th)
 
 ## 25-32 (dengue)
+
+- [New Zealand sends health team, medical supplies to Samoa to assist with dengue fever outbreak](https://www.rnz.co.nz/news/national/569193/new-zealand-sends-health-team-medical-supplies-to-samoa-to-assist-with-dengue-fever-outbreak) (RNZ)
 
 - [Cegah DBD, Babinsa dan Puskesmas Sopa’ah Lakukan Fogging di Pademawu Timur](https://suaraindonesia-news.com/cegah-dbd-babinsa-dan-puskesmas-sopaah-lakukan-fogging-di-pademawu-timur/) (Suaraindonesia-news.com)
 
@@ -122,6 +144,46 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [CDC issues travel health notice for mosquito-borne chikungunya virus](https://abc7news.com/post/cdc-issues-travel-health-notice-mosquito-borne-chikungunya-virus-china/17447805/) (KGO-TV)
+
+- [Krankheiten: Chikungunya-Virus breitet sich weiter in China aus](https://www.tagesspiegel.de/wissen/krankheiten-chikungunya-virus-breitet-sich-weiter-in-china-aus-14138096.html) (Der Tagesspiegel)
+
+- [Krankheiten: Chikungunya-Virus breitet sich weiter in China aus](https://www.zeit.de/news/2025-08/06/chikungunya-virus-breitet-sich-weiter-in-china-aus) (Die Zeit)
+
+- [Krankheiten: Chikungunya-Virus breitet sich weiter in China aus](https://www.stern.de/panorama/wissen/krankheiten--chikungunya-virus-breitet-sich-weiter-in-china-aus-35951916.html) (STERN.de)
+
+- [Çin'de salgın başladı, hızla yayılıyor! Binlerce vaka var üstelik sineklerden bulaşıyor...](https://www.turkiyegazetesi.com.tr/dunya/cinde-salgin-basladi-hizla-yayiliyor-binlerce-vaka-var-ustelik-sineklerden-bulasiyor-1136177) (Turkiyegazetesi.com.tr)
+
+- [A new virus is spreading in China, and it’s more painful than Covid](https://economictimes.indiatimes.com/news/new-updates/chikungunya-outbreak-a-new-virus-is-spreading-in-china-and-its-more-painful-than-covid/articleshow/123132681.cms) (The Times of India)
+
+- [Chikungunya-epidemie in China leidt tot strenge maatregelen](https://businessam.be/chikungunya-epidemie-in-china-leidt-tot-strenge-maatregelen/) (Businessam.be)
+
+- [Çin’de chikungunya virüsü alarmı: Sivrisinek kaynaklı salgın büyüyor](https://www.haber7.com/dunya/haber/3553015-cinde-chikungunya-virusu-alarmi-sivrisinek-kaynakli-salgin-buyuyor) (Haber7.com)
+
+- [Chikungunya virus ripping through China prompts COVID-style quarantine response](https://7news.com.au/news/chikungunya-virus-ripping-through-china-prompts-covid-style-quarantine-response-c-19594965) (7NEWS.com.au)
+
+- [What to know about chikungunya as cases rise in South China](https://www.abc.net.au/news/2025-08-06/chikungunya-what-is-it-virus-mosquito/105618166) (ABC News (AU))
+
+- [What is the chikungunya virus, how are countries such as China battling it?](https://www.aljazeera.com/news/2025/8/6/what-is-the-chikungunya-virus-how-are-countries-such-as-china-battling-it) (Al Jazeera English)
+
+- [Moesson teistert Zuid-China: overstromingen, aardverschuivingen en virusuitbraak](https://www.nieuwsblad.be/buitenland/moesson-teistert-zuid-china-overstromingen-aardverschuivingen-en-virusuitbraak/82014236.html) (Nieuwsblad.be)
+
+- [China is fighting an outbreak of the chikungunya virus. What is it?](https://www.cbc.ca/news/world/chikungunya-virus-china-1.7601781) (CBC News)
+
+- [7 000 drabbade av myggvirus i Kina – sedan början av juli](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1393127) (Aftonbladet.se)
+
+- [Nueva enfermedad se propaga en China: qué saber sobre el virus chikungunya](https://forbes.com.mx/nueva-enfermedad-se-propaga-en-china-que-saber-sobre-el-virus-chikungunya/) (Forbes.com.mx)
+
+- [Chikungunya virus not a threat to Apple's Chinese supply chain](https://appleinsider.com/articles/25/08/05/chikungunya-virus-not-a-threat-to-apples-chinese-supply-chain) (AppleInsider)
+
+- [New Illness Spreading In China: What To Know About The Chikungunya Virus](https://www.forbes.com/sites/maryroeloffs/2025/08/05/new-illness-spreading-in-china-what-to-know-about-the-chikungunya-virus/) (Forbes)
+
+- [CDC warns of mosquito-borne chikungunya outbreak in southeast China](https://www.nbcnews.com/health/health-news/chikungunya-outbreak-virus-china-mosquito-rcna223232) (NBC News)
+
+- [Mosquitoes wreak havoc in China as authorities adopt COVID pandemic methods to tackle virus outbreak](https://economictimes.indiatimes.com/news/international/us/elephant-mosquitoes-wreak-havoc-in-china-as-authorities-adopt-covid-pandemic-methods-to-tackle-virus-outbreak/articleshow/123127256.cms) (The Times of India)
+
+- [UK government advice as Chikungunya virus breaks out in China triggering 'forceful pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-uk-government-advice-vaccines-symptoms-explained-439936-20250805) (LADbible)
 
 - [What happens to your body if you catch Chikungunya virus as China begins 'pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-symptoms-china-pandemic-measures-209204-20250805) (LADbible)
 
@@ -2609,6 +2671,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
+- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
+
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2642,6 +2706,8 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
+
+- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
