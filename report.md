@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-08-08 07:11
-- **Most recent article:** 2025-08-07 05:18:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-08-08 19:06
+- **Most recent article:** 2025-08-07 18:30:08
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 30 | 18 | 362 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 66 | 256 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 9 | 185 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 9 | 115 |
+| measles | 52 | 36 | 114 | 64 | 47 | 30 | 20 | 363 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 72 | 262 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 11 | 187 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 13 | 119 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 6 | 78 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 7 | 79 |
 | rabies | 4 | 17 | 17 | 4 | 11 | 10 | 8 | 71 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 12 | 50 |
-| zika | 2 | 8 | 12 | 8 | 2 | 7 | 5 | 44 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 12 | 49 |
+| zika | 2 | 8 | 12 | 8 | 2 | 7 | 6 | 45 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
-| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 2 | 12 |
+| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 3 | 13 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
 
 
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-32 (zika)
+
+- [Ιός τσικουνγκούνια: Υπαρκτός αλλά απομακρυσμένος ο κίνδυνος για την Κύπρο, λέει ο Καραγιάννης](https://dialogos.com.cy/ios-tsikoyngkoynia-yparktos-alla-apomakrysmenos-o-kindynos-gia-tin-kypro-leei-o-karagiannis/) (Dialogos.com.cy)
 
 - [Vlaanderen voert strijd tegen de tijgermug op: “Kans op volledige uitroeiing is klein”](https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html) (Nieuwsblad.be)
 
@@ -63,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (mpox)
 
+- [Moçambique confirma mais dois casos de mpox em Maputo](https://observador.pt/2025/08/07/mocambique-confirma-mais-dois-casos-de-mpox-em-maputo-e-222-suspeitos/) (Observador.pt)
+
 - [Moçambique quer combater desinformação sobre Mpox](https://observador.pt/2025/08/06/mocambique-quer-combater-desinformacao-sobre-mpox-para-evitar-discriminacao/) (Observador.pt)
 
 - [Detectan en Chiapas segundo caso de viruela símica](https://www.milenio.com/estados/detectan-segundo-caso-de-viruela-simica-en-tuxtla-gutierrez-chiapas) (Milenio)
@@ -76,6 +80,10 @@ Source: [News API](https://newsapi.org/)
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [Measles virus detected in Clark County wastewater; health officials urge vaccination](https://www.reviewjournal.com/post/3410751) (Las Vegas Review-Journal)
+
+- [AHS issues public alert for potential measles exposure in Edmonton region](https://www.cbc.ca/news/canada/edmonton/ahs-measles-exposure-july-1.7603325) (CBC News)
 
 - [MPS students vaccinated for measles substantially lower than state average](https://www.wisn.com/article/mps-students-vaccinated-for-measles-substantially-lower-than-state-average/65618571) (WISN Milwaukee)
 
@@ -115,6 +123,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (malaria)
 
+- [Friday essay: Trump and Kennedy are destroying global science. Even Einstein questioned facts – but there’s a method to it](https://theconversation.com/friday-essay-trump-and-kennedy-are-destroying-global-science-even-einstein-questioned-facts-but-theres-a-method-to-it-261568) (The Conversation Africa)
+
+- [One Small Genetic Tweak May Stop Mosquitoes from Spreading Malaria](https://www.discovermagazine.com/one-small-genetic-tweak-may-stop-mosquitoes-from-spreading-malaria-47896) (Discover Magazine)
+
+- [Steelers OT Calvin Anderson nearly died from malaria — he’s now advocating to save others](https://andscape.com/features/calvin-anderson-malaria-treatment-foreign-aid-pittsburgh-steelers-nearly-died-from-malaria-hes-now-advocating-to-save-others/) (Andscape.com)
+
+- [Inequalities in disease burden and care quality of neglected tropical diseases and malaria, 1990–2021: Findings from the 2021 Global Burden of Disease Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329475) (Plos.org)
+
 - [MSF ‘overwhelmed’ in Ethiopia’s southwest following aid cuts](https://www.aljazeera.com/news/2025/8/6/msf-overwhelmed-in-ethiopias-southwest-following-aid-cuts) (Al Jazeera English)
 
 - [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
@@ -134,6 +150,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (hpai)
+
+- [Docyt introduces AI engine for accounting automation](https://www.internationalaccountingbulletin.com/news/docyt-introduces-ai-engine/) (Internationalaccountingbulletin.com)
 
 - [Nevada County Poultry Show Cancelled Over Bird Flu](https://www.shtfplan.com/headline-news/nevada-county-poultry-show-cancelled-over-bird-flu) (Shtfplan.com)
 
@@ -167,6 +185,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (dengue)
 
+- [West Nile, trappole per zanzare che simulano l’espirazione per monitorare il virus. Sesta vittima nel Lazio](https://www.ilfattoquotidiano.it/2025/08/07/west-nile-vittima-latina-roma-notizie/8087773/) (Ilfattoquotidiano.it)
+
+- [El Hospital Vall d'Hebron impulsa un proyecto para detectar dengue autóctono en 10 CAP de Barcelona](https://www.europapress.es/catalunya/noticia-hospital-vall-dhebron-impulsa-proyecto-detectar-dengue-autoctono-10-cap-barcelona-20250807124502.html) (Europapress.es)
+
 - [Vlaanderen voert strijd tegen de tijgermug op: “Kans op volledige uitroeiing is klein”](https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html) (Nieuwsblad.be)
 
 - [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
@@ -186,6 +208,18 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [China locks down patients as Chikungunya virus spreads to new countries](https://www.ladbible.com/news/world-news/china-chikungunya-virus-measures-stop-spread-latest-615014-20250807) (LADbible)
+
+- [Motive de îngrijorare în China, după ce această țară a raportat peste 7.000 de cazuri de infecții cu virusul chikungunya](https://www.mediafax.ro/life-entertaiment/motive-de-ingrijorare-in-china-dupa-ce-aceasta-tara-a-raportat-peste-7-000-de-cazuri-de-infectii-cu-virusul-chikungunya-23592466) (Mediafax.ro)
+
+- [Plase, drone și restricții ca-n pandemie. Cum luptă China cu virusul chikungunya, care afectează mii de oameni](http://hotnews.ro/cum-lupta-china-lupta-cu-virusul-chikungunya-care-afecteaza-mii-de-oameni-2040341) (Hotnews.ro)
+
+- [Chikungunya, primo caso autoctono in Veneto: cosa è la malattia che “contorce”](https://www.ilsole24ore.com/art/chikungunya-primo-caso-autoctono-veneto-cosa-e-malattia-che-contorce-AHnuhR5B) (Il Sole 24 Ore)
+
+- [Chikungunya-Virus breitet sich in China weiter aus](https://www.tagesschau.de/ausland/asien/china-chikungunya-virus-100.html) (tagesschau.de)
+
+- [Todo lo que debes saber sobre el chikungunya, el virus que se está empezando a extender por China](http://hipertextual.com/ciencia/chikungunya-virus-china/) (Hipertextual)
 
 - [Valneva annonce la levée de l’arrêt temporaire de la FDA sur l’utilisation du vaccin contre le chikungunya IXCHIQ® chez les personnes âgées et une mise à jour des caractéristiques du produit](https://www.globenewswire.com/news-release/2025/08/07/3128880/0/fr/Valneva-annonce-la-lev%C3%A9e-de-l-arr%C3%AAt-temporaire-de-la-FDA-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es-et-une-mise-%C3%A0-jour-des-caract%C3%A9ristiques-d.html) (GlobeNewswire)
 
@@ -2767,8 +2801,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2802,8 +2834,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
