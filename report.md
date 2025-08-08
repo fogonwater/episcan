@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2025-08-07 19:08
-- **Most recent article:** 2025-08-06 18:50:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-08-08 07:11
+- **Most recent article:** 2025-08-07 05:18:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 52 | 36 | 114 | 64 | 47 | 30 | 15 | 358 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 61 | 251 |
+| measles | 53 | 36 | 114 | 64 | 47 | 30 | 18 | 362 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 66 | 256 |
 | dengue | 26 | 24 | 34 | 24 | 36 | 32 | 9 | 185 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 8 | 114 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 9 | 115 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
 | mpox | 27 | 10 | 6 | 7 | 9 | 13 | 6 | 78 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 7 | 70 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 8 | 71 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 11 | 48 |
+| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 12 | 50 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 5 | 44 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
-| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 1 | 11 |
+| hpai | 0 | 4 | 3 | 2 | 1 | 0 | 2 | 12 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
 
 
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [Ten years after the Zika outbreak: What happened to the babies born with microcephaly?](https://www.bbc.co.uk/news/articles/c39d0zj0110o) (BBC News)
 
 ## 25-32 (rabies)
+
+- [You're More Likely to Die From an Asteroid Than Rabies, Scientists Find](https://www.sciencealert.com/youre-more-likely-to-die-from-an-asteroid-than-rabies-scientists-find) (ScienceAlert)
 
 - [Raccoon tests positive for rabies by Mechanicsville neighborhoods](https://richmond.com/news/community/mechanicsville-local/article_0e88e434-024b-49bf-ad9b-dd157d766698.html) (Richmond.com)
 
@@ -74,6 +76,12 @@ Source: [News API](https://newsapi.org/)
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
 ## 25-32 (measles)
+
+- [MPS students vaccinated for measles substantially lower than state average](https://www.wisn.com/article/mps-students-vaccinated-for-measles-substantially-lower-than-state-average/65618571) (WISN Milwaukee)
+
+- [3 new measles cases reported in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-cases-update-manitoba-august-6-1.7602651) (CBC News)
+
+- [N.S. measles patients no longer contagious, Public Health says](https://www.cbc.ca/news/canada/nova-scotia/measles-patients-contagious-public-health-1.7602505) (CBC News)
 
 - [Measles, Mumps, Rubella (MMR) Vaccine Market Growth Trends, Competitive Strategies and Forecasts, 2025-2033 | 8.2% CAGR Projected Amid Cold Chain Advancements, Despite Vaccine Hesitancy Challenges](https://www.globenewswire.com/news-release/2025/08/06/3128073/28124/en/Measles-Mumps-Rubella-MMR-Vaccine-Market-Growth-Trends-Competitive-Strategies-and-Forecasts-2025-2033-8-2-CAGR-Projected-Amid-Cold-Chain-Advancements-Despite-Vaccine-Hesitancy-Chal.html) (GlobeNewswire)
 
@@ -107,6 +115,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (malaria)
 
+- [MSF ‘overwhelmed’ in Ethiopia’s southwest following aid cuts](https://www.aljazeera.com/news/2025/8/6/msf-overwhelmed-in-ethiopias-southwest-following-aid-cuts) (Al Jazeera English)
+
 - [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
 
 - [New mRNA vaccine stops malaria transmission in its tracks](https://newatlas.com/infectious-diseases/wehi-mrna-vaccine-malaria-transmission/) (New Atlas)
@@ -125,9 +135,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (hpai)
 
+- [Nevada County Poultry Show Cancelled Over Bird Flu](https://www.shtfplan.com/headline-news/nevada-county-poultry-show-cancelled-over-bird-flu) (Shtfplan.com)
+
 - [South Africa Confirms New Bird Flu Outbreak](https://www.shtfplan.com/headline-news/south-africa-confirms-new-bird-flu-outbreak) (Shtfplan.com)
 
 ## 25-32 (h5n1)
+
+- [Nevada County Poultry Show Cancelled Over Bird Flu](https://www.shtfplan.com/headline-news/nevada-county-poultry-show-cancelled-over-bird-flu) (Shtfplan.com)
 
 - [La gripe aviar obliga a sacrificar 132 aves del Centro de Fauna de Gorliz (Bizkaia)](https://www.meneame.net/m/actualidad/gripe-aviar-obliga-sacrificar-132-aves-centro-fauna-gorliz) (Meneame.net)
 
@@ -172,6 +186,16 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [Valneva annonce la levée de l’arrêt temporaire de la FDA sur l’utilisation du vaccin contre le chikungunya IXCHIQ® chez les personnes âgées et une mise à jour des caractéristiques du produit](https://www.globenewswire.com/news-release/2025/08/07/3128880/0/fr/Valneva-annonce-la-lev%C3%A9e-de-l-arr%C3%AAt-temporaire-de-la-FDA-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es-et-une-mise-%C3%A0-jour-des-caract%C3%A9ristiques-d.html) (GlobeNewswire)
+
+- [Valneva Announces Removal of FDA-Recommended Pause on Use of Chikungunya Vaccine IXCHIQ® in Elderly and Updates to the Prescribing Information](https://www.globenewswire.com/news-release/2025/08/07/3128880/0/en/Valneva-Announces-Removal-of-FDA-Recommended-Pause-on-Use-of-Chikungunya-Vaccine-IXCHIQ-in-Elderly-and-Updates-to-the-Prescribing-Information.html) (GlobeNewswire)
+
+- [Újabb vírus jelent meg Kínában, már több ezren fertőződtek meg](https://index.hu/kulfold/2025/08/07/kina-jarvany-fertozottek-szunyog-terjedes-chikungunya-laz-virus/) (Index.hu)
+
+- [China bestrijdt uitbraak van muggenvirus chikungunya dat hevige gewrichtspijn veroorzaakt](https://www.nieuwsblad.be/natuur-en-wetenschap/china-bestrijdt-uitbraak-van-muggenvirus-chikungunya-dat-hevige-gewrichtspijn-veroorzaakt/82256397.html) (Nieuwsblad.be)
+
+- [What Is Chikungunya? A Guide to The Virus Spreading in China](https://www.sciencealert.com/what-is-chikungunya-a-guide-to-the-virus-spreading-in-china) (ScienceAlert)
 
 - [Kína még drónokat is bevetett az országban terjedő veszélyes járvány megfékezésére](https://www.portfolio.hu/global/20250806/kina-meg-dronokat-is-bevetett-az-orszagban-terjedo-veszelyes-jarvany-megfekezesere-778663) (Portfolio.hu)
 
@@ -2743,6 +2767,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
+- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
+
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2776,6 +2802,8 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
+
+- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
