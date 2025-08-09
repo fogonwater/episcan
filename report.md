@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-08-09 07:07
-- **Most recent article:** 2025-08-08 07:00:05
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-08-09 19:05
+- **Most recent article:** 2025-08-08 18:11:04
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 36 | 114 | 64 | 47 | 30 | 22 | 366 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 77 | 267 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 12 | 188 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 14 | 120 |
+| measles | 52 | 36 | 114 | 64 | 47 | 30 | 23 | 366 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 82 | 272 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 14 | 190 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 17 | 123 |
 | meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 1 | 106 |
-| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 7 | 79 |
-| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 8 | 71 |
+| mpox | 27 | 10 | 6 | 7 | 9 | 13 | 9 | 81 |
+| rabies | 4 | 17 | 17 | 4 | 11 | 10 | 9 | 72 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 12 | 50 |
-| zika | 2 | 8 | 12 | 8 | 2 | 7 | 6 | 45 |
+| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 13 | 50 |
+| zika | 2 | 8 | 12 | 8 | 2 | 7 | 7 | 46 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 3 | 13 |
 | pertussis | 0 | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-32 (zika)
+
+- [Relative and attributable risks of neurological and perinatal adverse outcomes among children with and without prenatal Zika virus exposure in Northeast Brazil: A prospective cohort study (2015–2018)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013344) (Plos.org)
 
 - [Ιός τσικουνγκούνια: Υπαρκτός αλλά απομακρυσμένος ο κίνδυνος για την Κύπρο, λέει ο Καραγιάννης](https://dialogos.com.cy/ios-tsikoyngkoynia-yparktos-alla-apomakrysmenos-o-kindynos-gia-tin-kypro-leei-o-karagiannis/) (Dialogos.com.cy)
 
@@ -46,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Ten years after the Zika outbreak: What happened to the babies born with microcephaly?](https://www.bbc.co.uk/news/articles/c39d0zj0110o) (BBC News)
 
 ## 25-32 (rabies)
+
+- [‘I Might Have Rabies’: Utah Woman Grabs A Blanket From The Closet. What She Finds Inside Sends Her To The ER](https://brobible.com/culture/article/utah-woman-bat-in-blanket/) (BroBible)
 
 - [You're More Likely to Die From an Asteroid Than Rabies, Scientists Find](https://www.sciencealert.com/youre-more-likely-to-die-from-an-asteroid-than-rabies-scientists-find) (ScienceAlert)
 
@@ -64,6 +68,10 @@ Source: [News API](https://newsapi.org/)
 - [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
 
 ## 25-32 (mpox)
+
+- [Afrika'da M çiçeği bulaşma riski nedeniyle hedefli aşılama şart](https://www.haberturk.com/dso-afrika-da-yaygin-m-cicegi-virusune-karsi-surekli-bulasma-riski-nedeniyle-hedefli-asilama-sart-3813389) (Haberturk.com)
+
+- [DSÖ: Afrika'da yaygın M çiçeği virüsüne karşı sürekli bulaşma riski nedeniyle hedefli aşılama şart](https://www.aa.com.tr/tr/saglik/dso-afrikada-yaygin-m-cicegi-virusune-karsi-surekli-bulasma-riski-nedeniyle-hedefli-asilama-sart/3653742) (Anadolu Agency)
 
 - [Moçambique confirma mais dois casos de mpox em Maputo](https://observador.pt/2025/08/07/mocambique-confirma-mais-dois-casos-de-mpox-em-maputo-e-222-suspeitos/) (Observador.pt)
 
@@ -84,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 - [La vacuna de la meningitis, última esperanza para frenar el auge de casos de gonorrea: "Disminuirá la transmisión"](https://www.elespanol.com/ciencia/salud/20250808/vacuna-meningitis-ultima-esperanza-frenar-auge-casos-gonorrea-disminuira-transmision/1003743878519_0.html) (Elespanol.com)
 
 ## 25-32 (measles)
+
+- [The Race to Find a Measles Treatment as Infections Surge (Dominique Mosbergen/Wall Street Journal)](https://www.memeorandum.com/250808/p75) (Memeorandum.com)
 
 - [Milwaukee Health Department stresses importance of MMR vaccine](https://www.wisn.com/article/concerning-milwaukee-health-department-stresses-importance-of-mmr-vaccine/65629612) (WISN Milwaukee)
 
@@ -131,6 +141,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (malaria)
 
+- [Coffee Break: Biotech vs. Science, NIH Under New Management, More on Malaria, Dreams of De-Extinction, and an Aside on the State of America](https://www.nakedcapitalism.com/2025/08/coffee-break-biotech-vs-science-nih-under-new-management-more-on-malaria-dreams-of-de-extinction-and-an-aside-on-the-state-of-america.html) (Nakedcapitalism.com)
+
+- [Malaria, urogenital schistosomiasis and co-infection and nutritional status of school children in Ondo state](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329740) (Plos.org)
+
+- [Preliminary feasibility and clinical utility of the Unified Protocol for the transdiagnostic treatment of emotional disorders in people with long COVID-19 condition: A single case pilot study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329595) (Plos.org)
+
 - [Woman Diagnosed with Malaria in Washington May Be State’s First Locally Acquired Case](https://gizmodo.com/woman-diagnosed-with-malaria-in-washington-may-be-states-first-locally-acquired-case-2000640209) (Gizmodo.com)
 
 - [Friday essay: Trump and Kennedy are destroying global science. Even Einstein questioned facts – but there’s a method to it](https://theconversation.com/friday-essay-trump-and-kennedy-are-destroying-global-science-even-einstein-questioned-facts-but-theres-a-method-to-it-261568) (The Conversation Africa)
@@ -169,6 +185,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (h5n1)
 
+- [Ocho patos muertos en las Lagunas de Villafáfila dan positivo en gripe aviar](https://www.elespanol.com/castilla-y-leon/region/zamora/20250808/patos-muertos-lagunas-villafafila-dan-positivo-gripe-aviar/1003743880203_0.html) (Elespanol.com)
+
 - [Nevada County Poultry Show Cancelled Over Bird Flu](https://www.shtfplan.com/headline-news/nevada-county-poultry-show-cancelled-over-bird-flu) (Shtfplan.com)
 
 - [La gripe aviar obliga a sacrificar 132 aves del Centro de Fauna de Gorliz (Bizkaia)](https://www.meneame.net/m/actualidad/gripe-aviar-obliga-sacrificar-132-aves-centro-fauna-gorliz) (Meneame.net)
@@ -195,6 +213,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (dengue)
 
+- [Febbre Dengue a Busto Arsizio, “piano straordinario di disinfestazione”](https://www.ilfattoquotidiano.it/2025/08/08/febbre-dengue-busto-arsizio-disinfestazione-notizie/8088979/) (Ilfattoquotidiano.it)
+
+- [Timor liberta 8 mil mosquitos em Díli para combater dengue](https://observador.pt/2025/08/08/governo-timorense-liberta-oito-mil-mosquitos-em-dili-para-combater-dengue/) (Observador.pt)
+
 - [Fleury tem queda de 12,3% no lucro líquido do 2º tri, para R$ 152,3 milhões, com depreciação dos investimentos](https://valor.globo.com/empresas/noticia/2025/08/07/fleury-tem-queda-de-123percent-no-lucro-liquido-do-2o-tri-para-r-1523-milhoes-com-depreciacao-dos-investimentos.ghtml) (Globo)
 
 - [West Nile, trappole per zanzare che simulano l’espirazione per monitorare il virus. Sesta vittima nel Lazio](https://www.ilfattoquotidiano.it/2025/08/07/west-nile-vittima-latina-roma-notizie/8087773/) (Ilfattoquotidiano.it)
@@ -220,6 +242,16 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [WHO Warns of Global Chikungunya Risk As China Outbreak Surges Past 10,000 And Reaches New Country](https://www.boredpanda.com/global-epidemic-fears-surge-as-virus-in-china-reaches-new-countries/) (Boredpanda.com)
+
+- [Das grosse Mückentöten – eine Stadt in Südchina bekämpft die Verbreitung des Chikungunya-Virus mit Fischen, Drohnen und dem Überwachungsstaat](https://www.nzz.ch/international/chikungunya-virus-china-bekaempft-ausbruch-mit-drohnen-fischen-und-ueberwachung-ld.1896946) (Www.nzz.ch)
+
+- [Na obzore nový COVID-19? Vírusom sa v Číne nakazili tisíce, opatrenia pripomínajú pandemické roky](https://spravy.pravda.sk/svet/clanok/762541-na-obzore-novy-covid-19-virusom-sa-v-cine-nakazili-tisice-opatrenia-pripominaju-pandemicke-roky/) (Pravda.sk)
+
+- [Singapore 'at risk' of chikungunya transmission: CDA](https://www.channelnewsasia.com/singapore/chikungunya-singapore-cases-rise-infectious-diseases-aedes-mosquito-cda-5284581) (CNA)
+
+- [Zeldzame muggenziekte chikungunya treft duizenden in China: Strenge maatregelen in Guangdong](https://newsmonkey.be/muggenziekte-chikungunya-china/) (Newsmonkey.be)
 
 - [Taiwan reports first case of chikungunya virus from China outbreak](https://www.aljazeera.com/news/2025/8/8/taiwan-reports-first-case-of-chikungunya-virus-from-china-outbreak) (Al Jazeera English)
 
@@ -2823,8 +2855,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
-- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
-
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2858,8 +2888,6 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
-
-- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
