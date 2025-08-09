@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-08-08 19:06
-- **Most recent article:** 2025-08-07 18:30:08
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-08-09 07:07
+- **Most recent article:** 2025-08-08 07:00:05
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-26 | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 52 | 36 | 114 | 64 | 47 | 30 | 20 | 363 |
-| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 72 | 262 |
-| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 11 | 187 |
-| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 13 | 119 |
-| meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 0 | 105 |
+| measles | 53 | 36 | 114 | 64 | 47 | 30 | 22 | 366 |
+| chikungunya | 20 | 10 | 40 | 21 | 63 | 36 | 77 | 267 |
+| dengue | 26 | 24 | 34 | 24 | 36 | 32 | 12 | 188 |
+| malaria | 13 | 21 | 29 | 12 | 18 | 13 | 14 | 120 |
+| meningitis | 35 | 41 | 7 | 7 | 12 | 3 | 1 | 106 |
 | mpox | 27 | 10 | 6 | 7 | 9 | 13 | 7 | 79 |
 | rabies | 4 | 17 | 17 | 4 | 11 | 10 | 8 | 71 |
 | yersinia | 0 | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| h5n1 | 2 | 8 | 9 | 13 | 4 | 1 | 12 | 49 |
+| h5n1 | 3 | 8 | 9 | 13 | 4 | 1 | 12 | 50 |
 | zika | 2 | 8 | 12 | 8 | 2 | 7 | 6 | 45 |
 | typhoid | 3 | 2 | 3 | 9 | 1 | 0 | 0 | 18 |
 | hpai | 0 | 4 | 3 | 2 | 1 | 0 | 3 | 13 |
@@ -79,7 +79,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Portos e aeroportos terão de expor materiais informativos sobre mpox, determina Anvisa](https://noticiabrasil.net.br/20250803/portos-e-aeroportos-terao-de-expor-materiais-informativos-sobre-mpox-determina-anvisa-41956672.html) (Noticiabrasil.net.br)
 
+## 25-32 (meningitis)
+
+- [La vacuna de la meningitis, última esperanza para frenar el auge de casos de gonorrea: "Disminuirá la transmisión"](https://www.elespanol.com/ciencia/salud/20250808/vacuna-meningitis-ultima-esperanza-frenar-auge-casos-gonorrea-disminuira-transmision/1003743878519_0.html) (Elespanol.com)
+
 ## 25-32 (measles)
+
+- [Milwaukee Health Department stresses importance of MMR vaccine](https://www.wisn.com/article/concerning-milwaukee-health-department-stresses-importance-of-mmr-vaccine/65629612) (WISN Milwaukee)
+
+- [Measles case confirmed on Air Canada flight from Newark to Toronto last month, officials say](https://www.cbc.ca/news/canada/toronto/measles-case-pearson-aircanada-flight-york-public-health-1.7603869) (CBC News)
 
 - [Measles virus detected in Clark County wastewater; health officials urge vaccination](https://www.reviewjournal.com/post/3410751) (Las Vegas Review-Journal)
 
@@ -122,6 +130,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in Passaic County, New Jersey, health officials say](https://www.cbsnews.com/newyork/news/measles-passaic-county-new-jersey/) (CBS News)
 
 ## 25-32 (malaria)
+
+- [Woman Diagnosed with Malaria in Washington May Be State’s First Locally Acquired Case](https://gizmodo.com/woman-diagnosed-with-malaria-in-washington-may-be-states-first-locally-acquired-case-2000640209) (Gizmodo.com)
 
 - [Friday essay: Trump and Kennedy are destroying global science. Even Einstein questioned facts – but there’s a method to it](https://theconversation.com/friday-essay-trump-and-kennedy-are-destroying-global-science-even-einstein-questioned-facts-but-theres-a-method-to-it-261568) (The Conversation Africa)
 
@@ -185,6 +195,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (dengue)
 
+- [Fleury tem queda de 12,3% no lucro líquido do 2º tri, para R$ 152,3 milhões, com depreciação dos investimentos](https://valor.globo.com/empresas/noticia/2025/08/07/fleury-tem-queda-de-123percent-no-lucro-liquido-do-2o-tri-para-r-1523-milhoes-com-depreciacao-dos-investimentos.ghtml) (Globo)
+
 - [West Nile, trappole per zanzare che simulano l’espirazione per monitorare il virus. Sesta vittima nel Lazio](https://www.ilfattoquotidiano.it/2025/08/07/west-nile-vittima-latina-roma-notizie/8087773/) (Ilfattoquotidiano.it)
 
 - [El Hospital Vall d'Hebron impulsa un proyecto para detectar dengue autóctono en 10 CAP de Barcelona](https://www.europapress.es/catalunya/noticia-hospital-vall-dhebron-impulsa-proyecto-detectar-dengue-autoctono-10-cap-barcelona-20250807124502.html) (Europapress.es)
@@ -208,6 +220,16 @@ Source: [News API](https://newsapi.org/)
 - [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
 
 ## 25-32 (chikungunya)
+
+- [Taiwan reports first case of chikungunya virus from China outbreak](https://www.aljazeera.com/news/2025/8/8/taiwan-reports-first-case-of-chikungunya-virus-from-china-outbreak) (Al Jazeera English)
+
+- [Chikungunya in China: What you need to know](https://www.channelnewsasia.com/east-asia/chikungunya-in-china-what-you-need-know-5284291) (CNA)
+
+- [China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill](https://www.channelnewsasia.com/east-asia/china-chikungunya-virus-outbreak-measures-thousands-ill-5280076) (CNA)
+
+- [¿Qué es el chikungunya, el virus que se propaga en China?](https://www.reforma.com/que-es-el-chikungunya-el-virus-que-se-propaga-en-china/ar3052109) (Reforma.com)
+
+- [China Reintroduces COVID-19 Medical Tyranny After Chikungunya Virus Infects Thousands](https://www.shtfplan.com/headline-news/china-reintroduces-covid-19-medical-tyranny-after-chikungunya-virus-infects-thousands) (Shtfplan.com)
 
 - [China locks down patients as Chikungunya virus spreads to new countries](https://www.ladbible.com/news/world-news/china-chikungunya-virus-measures-stop-spread-latest-615014-20250807) (LADbible)
 
@@ -2801,6 +2823,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Problem with Americans and the "Finding Out" Part (Jonathan V. Last/The Bulwark)](https://www.memeorandum.com/250624/p103) (Memeorandum.com)
 
+- ['I Feel Like I've Been Lied To': When a Measles Outbreak Hits Home (New York Times)](https://www.memeorandum.com/250622/p35) (Memeorandum.com)
+
 ## 25-26 (malaria)
 
 - [Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013165) (Plos.org)
@@ -2834,6 +2858,8 @@ Source: [News API](https://newsapi.org/)
 - [ZeptoMetrix Introduce Control Innovador de H5N1 con Tecnología de Partículas Tipo Fago](https://www.redes-sociales.com/zeptometrix-introduce-control-innovador-de-h5n1-con-tecnologia-de-particulas-tipo-fago/) (Redes-sociales.com)
 
 - [How H5N1 Went from an Illness in Wild Birds to a Global Pandemic Threat](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) (Scientific American)
+
+- [Учёные с помощью ИИ обнаружили, что вирус H5N1 становится опаснее](https://www.ferra.ru/news/health/uchyonye-s-pomoshyu-ii-obnaruzhili-chto-virus-h5n1-stanovitsya-opasnee-22-06-2025.htm) (Ferra.ru)
 
 ## 25-26 (dengue)
 
