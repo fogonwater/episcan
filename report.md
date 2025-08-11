@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-08-10 19:06
-- **Most recent article:** 2025-08-09 17:47:22
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-08-11 07:11
+- **Most recent article:** 2025-08-10 05:30:24
 
 ---
 
@@ -10,27 +10,39 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 35 | 114 | 64 | 47 | 30 | 26 | 316 |
-| chikungunya | 10 | 40 | 21 | 63 | 36 | 88 | 258 |
-| dengue | 23 | 34 | 24 | 36 | 32 | 17 | 166 |
-| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 111 |
-| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 70 |
-| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 55 |
-| meningitis | 25 | 7 | 7 | 12 | 3 | 1 | 55 |
-| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 52 |
-| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 49 |
-| zika | 8 | 12 | 8 | 2 | 7 | 8 | 45 |
-| typhoid | 2 | 3 | 9 | 1 | 0 | 1 | 16 |
-| hpai | 4 | 3 | 2 | 1 | 0 | 3 | 13 |
-| pertussis | 0 | 0 | 4 | 3 | 1 | 0 | 8 |
-| leptospirosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 35 | 114 | 64 | 47 | 30 | 26 | 1 | 317 |
+| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 1 | 278 |
+| dengue | 24 | 34 | 24 | 36 | 32 | 17 | 1 | 168 |
+| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 0 | 111 |
+| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 0 | 70 |
+| meningitis | 40 | 7 | 7 | 12 | 3 | 1 | 0 | 70 |
+| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 0 | 55 |
+| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 0 | 52 |
+| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 0 | 49 |
+| zika | 8 | 12 | 8 | 2 | 7 | 8 | 0 | 45 |
+| typhoid | 2 | 3 | 9 | 1 | 0 | 1 | 0 | 16 |
+| hpai | 4 | 3 | 2 | 1 | 0 | 3 | 0 | 13 |
+| pertussis | 0 | 0 | 4 | 3 | 1 | 0 | 0 | 8 |
+| leptospirosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-33 (measles)
+
+- [CDC: Childhood Vaccination Rates Fell Further In 2024-2025 School Year](https://www.forbes.com/sites/brucelee/2025/08/09/cdc-childhood-vaccination-rates-fell-further-in-2024-2025-school-year/) (Forbes)
+
+## 25-33 (dengue)
+
+- [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
+
+## 25-33 (chikungunya)
+
+- [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
 
 ## 25-32 (zika)
 
@@ -276,9 +288,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-32 (chikungunya)
 
+- [Otro virus se propaga por China: más de 7000 contagios](https://www.excelsior.com.mx/global/brote-virus-chikungunya-china-2025/1732045) (Excelsior.com.mx)
+
+- [Uusi virusepidemia leviää Kiinassa – rajut toimet käyttöön](https://www.is.fi/ulkomaat/art-2000011414920.html) (Www.is.fi)
+
+- [Sanità: caso di Chikungunya registrato nel vicentino](https://www.ansa.it/veneto/notizie/2025/08/09/sanita-caso-di-chikungunya-registrato-nel-vicentino_f1cae72a-53b5-4a85-8a7f-bd87bfc6596e.html) (ANSA.it)
+
+- [Ιός Chikungunya συμπτώματα: Νέος κίνδυνος από την κίνα](https://www.daynight.gr/plus/health/ios-chikungunya-sympotmata/) (Daynight.gr)
+
 - [Olyan járvány tört ki Kínában, hogy már a Covid-19-helyzetet idézi](https://www.portfolio.hu/gazdasag/20250809/olyan-jarvany-tort-ki-kinaban-hogy-mar-a-covid-19-helyzetet-idezi-779141) (Portfolio.hu)
 
 - [چین در حالتِ آماده‌باشِ «جنگ» با ویروسِ نوظهور/ احتمالِ وقوعِ همه‌گیریِ جهانیِ دیگر؟](https://www.asriran.com/fa/news/1083936/چین-در-حالتِ-آماده‌باشِ-جنگ-با-ویروسِ-نوظهور-احتمالِ-وقوعِ-همه‌گیریِ-جهانیِ-دیگر) (Asriran.com)
+
+- [Did Chinese authorities take a page from the COVID-19 playbook for chikungunya?](https://www.scmp.com/news/china/politics/article/3321276/did-chinese-authorities-take-page-covid-19-playbook-chikungunya) (Post Magazine)
+
+- [Opnieuw verspreidt virus zich vanuit China](https://www.nieuwsblad.be/buitenland/opnieuw-verspreidt-virus-zich-vanuit-china/82724965.html) (Nieuwsblad.be)
+
+- [Bayang-bayang Zero-COVID Kembali, China Ambil Langkah Keras Tangani Chikungunya](https://health.detik.com/berita-detikhealth/d-8052437/bayang-bayang-zero-covid-kembali-china-ambil-langkah-keras-tangani-chikungunya?%3Futm_source=twitter) (Detik.com)
 
 - [Anbio Biotechnology Responds to Global Outbreaks with Chikungunya Rapid Test and New 15-Minute Ultra-Fast PCR System](https://www.globenewswire.com/news-release/2025/08/09/3130443/0/en/Anbio-Biotechnology-Responds-to-Global-Outbreaks-with-Chikungunya-Rapid-Test-and-New-15-Minute-Ultra-Fast-PCR-System.html) (GlobeNewswire)
 
@@ -288,11 +314,15 @@ Source: [News API](https://newsapi.org/)
 
 - [China has declared war on the chikungunya virus. How much of a threat is it?](https://www.npr.org/sections/goats-and-soda/2025/08/08/g-s1-81670/china-chikungunya-virus-mosquitoes) (NPR)
 
+- [Kasus Chikungunya Naik di China, Kenali Gejalanya yang Tidak Hanya Demam dan Nyeri Sendi](https://www.liputan6.com/health/read/6127891/kasus-chikungunya-naik-di-china-kenali-gejalanya-yang-tidak-hanya-demam-dan-nyeri-sendi) (Liputan6.com)
+
 - [WHO Warns of Global Chikungunya Risk As China Outbreak Surges Past 10,000 And Reaches New Country](https://www.boredpanda.com/global-epidemic-fears-surge-as-virus-in-china-reaches-new-countries/) (Boredpanda.com)
 
 - [Das grosse Mückentöten – eine Stadt in Südchina bekämpft die Verbreitung des Chikungunya-Virus mit Fischen, Drohnen und dem Überwachungsstaat](https://www.nzz.ch/international/chikungunya-virus-china-bekaempft-ausbruch-mit-drohnen-fischen-und-ueberwachung-ld.1896946) (Www.nzz.ch)
 
 - [Na obzore nový COVID-19? Vírusom sa v Číne nakazili tisíce, opatrenia pripomínajú pandemické roky](https://spravy.pravda.sk/svet/clanok/762541-na-obzore-novy-covid-19-virusom-sa-v-cine-nakazili-tisice-opatrenia-pripominaju-pandemicke-roky/) (Pravda.sk)
+
+- [Čína hlásí tisíce nakažených virem chikungunya. Úřady sáhly k přísným restrikcím](https://www.novinky.cz/clanek/zahranicni-svet-cina-hlasi-tisice-nakazenych-virem-chikungunya-urady-sahly-k-prisnym-restrikcim-40533473) (Novinky.cz)
 
 - [Singapore 'at risk' of chikungunya transmission: CDA](https://www.channelnewsasia.com/singapore/chikungunya-singapore-cases-rise-infectious-diseases-aedes-mosquito-cda-5284581) (CNA)
 
@@ -306,7 +336,13 @@ Source: [News API](https://newsapi.org/)
 
 - [¿Qué es el chikungunya, el virus que se propaga en China?](https://www.reforma.com/que-es-el-chikungunya-el-virus-que-se-propaga-en-china/ar3052109) (Reforma.com)
 
+- [Could chikungunya virus spread to US? Here's what Americans should know](https://www.foxnews.com/health/could-chikungunya-virus-spread-us-heres-what-americans-should-know) (Fox News)
+
 - [China Reintroduces COVID-19 Medical Tyranny After Chikungunya Virus Infects Thousands](https://www.shtfplan.com/headline-news/china-reintroduces-covid-19-medical-tyranny-after-chikungunya-virus-infects-thousands) (Shtfplan.com)
+
+- [FDA Update on the Safety of Ixchiq (Chikungunya Vaccine, Live): FDA Safety Communication](https://www.fda.gov/safety/medical-product-safety-information/fda-update-safety-ixchiq-chikungunya-vaccine-live-fda-safety-communication) (FDA.gov)
+
+- [Δεν καταγράφηκαν κρούσματα ιού Chikungunya – Συστήνει μέτρα προστασίας το Υπ. Υγείας](https://dialogos.com.cy/den-katagrafikan-kroysmata-ioy-chikungunya-systinei-metra-prostasias-to-yp-ygeias/) (Dialogos.com.cy)
 
 - [China locks down patients as Chikungunya virus spreads to new countries](https://www.ladbible.com/news/world-news/china-chikungunya-virus-measures-stop-spread-latest-615014-20250807) (LADbible)
 
@@ -314,11 +350,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Plase, drone și restricții ca-n pandemie. Cum luptă China cu virusul chikungunya, care afectează mii de oameni](http://hotnews.ro/cum-lupta-china-lupta-cu-virusul-chikungunya-care-afecteaza-mii-de-oameni-2040341) (Hotnews.ro)
 
+- [Durch Mücken übertragen: China kämpft gegen das Chikungunya-Virus – mit Corona-ähnlichen Maßnahmen](https://www.stern.de/panorama/weltgeschehen/china-kaempft-gegen-chikungunya-virus---mit-massnahmen-wie-bei-corona-35955322.html) (STERN.de)
+
 - [Chikungunya, primo caso autoctono in Veneto: cosa è la malattia che “contorce”](https://www.ilsole24ore.com/art/chikungunya-primo-caso-autoctono-veneto-cosa-e-malattia-che-contorce-AHnuhR5B) (Il Sole 24 Ore)
 
 - [Chikungunya-Virus breitet sich in China weiter aus](https://www.tagesschau.de/ausland/asien/china-chikungunya-virus-100.html) (tagesschau.de)
 
+- [Nagy a baj: újabb járvány tört ki Kínában, már több ezren megfertőződtek](https://www.origo.hu/tudomany/2025/08/jarvany-tort-ki-kinaban-chikungunya-laz-fertozottek) (Origo.hu)
+
+- [Arbovirosi, primo caso autoctono di Chikungunia in Veneto](https://www.ansa.it/veneto/notizie/2025/08/07/arbovirosi-primo-caso-autoctono-di-chikungunia-in-veneto_24929961-f6ee-4ce1-9c3a-fab2ca959058.html) (ANSA.it)
+
 - [Todo lo que debes saber sobre el chikungunya, el virus que se está empezando a extender por China](http://hipertextual.com/ciencia/chikungunya-virus-china/) (Hipertextual)
+
+- [Nedir bu Chikungunya virüsü? Çin’de vaka sayısı 7 bin 700’ü aştı](https://www.hurriyet.com.tr/teknoloji/nedir-bu-chikungunya-virusu-cinde-vaka-sayisi-7-bin-700u-asti-42905892) (Hurriyet.com.tr)
+
+- [Virus de chikungunya: qué es, síntomas y cómo se contagia](https://www.meneame.net/m/ciencia/virus-chikungunya-sintomas-como-contagia) (Meneame.net)
+
+- [Arbovirosi, primo caso autoctono di Chikungunia in Veneto.](https://www.ansa.it/sito/notizie/cronaca/2025/08/07/arbovirosi-primo-caso-autoctono-di-chikungunia-in-veneto._18767360-d5c1-4e11-b1bd-a3d459fb3ec8.html) (ANSA.it)
 
 - [Valneva annonce la levée de l’arrêt temporaire de la FDA sur l’utilisation du vaccin contre le chikungunya IXCHIQ® chez les personnes âgées et une mise à jour des caractéristiques du produit](https://www.globenewswire.com/news-release/2025/08/07/3128880/0/fr/Valneva-annonce-la-lev%C3%A9e-de-l-arr%C3%AAt-temporaire-de-la-FDA-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es-et-une-mise-%C3%A0-jour-des-caract%C3%A9ristiques-d.html) (GlobeNewswire)
 
@@ -329,6 +377,8 @@ Source: [News API](https://newsapi.org/)
 - [China bestrijdt uitbraak van muggenvirus chikungunya dat hevige gewrichtspijn veroorzaakt](https://www.nieuwsblad.be/natuur-en-wetenschap/china-bestrijdt-uitbraak-van-muggenvirus-chikungunya-dat-hevige-gewrichtspijn-veroorzaakt/82256397.html) (Nieuwsblad.be)
 
 - [What Is Chikungunya? A Guide to The Virus Spreading in China](https://www.sciencealert.com/what-is-chikungunya-a-guide-to-the-virus-spreading-in-china) (ScienceAlert)
+
+- [Chikungunya Tembus 7 Ribu Kasus, China Terapkan Protokol Mirip COVID](https://health.detik.com/berita-detikhealth/d-8048864/chikungunya-tembus-7-ribu-kasus-china-terapkan-protokol-mirip-covid) (Detik.com)
 
 - [Kína még drónokat is bevetett az országban terjedő veszélyes járvány megfékezésére](https://www.portfolio.hu/global/20250806/kina-meg-dronokat-is-bevetett-az-orszagban-terjedo-veszelyes-jarvany-megfekezesere-778663) (Portfolio.hu)
 
@@ -2392,6 +2442,36 @@ Source: [News API](https://newsapi.org/)
 
 - [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
 
+- [Spaniens Bonmati aus Krankenhaus entlassen](https://sport.orf.at/stories/3142898/) (Sport.orf.at)
+
+- [Aitana Bonmatí vuelve con el grupo tras haber superado una meningitis vírica que le obligó a estar ingresada en el hospital](https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html) (Elespanol.com)
+
+- [Relief for Spain as Bonmati cleared to return after health scare](https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271) (CNA)
+
+- [Aitana Bonmatí recibe el alta médica tras positivo a meningitis y se incorporará con España para la Eurocopa](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa) (Milenio)
+
+- [Frauen-Fußball: Spanien-Star Bonmati nach Meningitis wohl fit für EM](https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html) (Der Tagesspiegel)
+
+- [Aitana Bonmatí sale del hospital y está a punto de reincorporarse a la selección](https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/) (Libertaddigital.com)
+
+- [Bonmati out of hospital; to rejoin Spain squad](https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad) (ESPN)
+
+- [Bonmati discharged from hospital after meningitis](https://www.bbc.com/sport/football/articles/clyln3140y7o) (BBC News)
+
+- [Aitana Bonmatí recibe el alta médica tras su meningitis vírica](https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm) (Lavozdegalicia.es)
+
+- [Spain's Bonmati discharged from hospital after being treated for viral meningitis](https://www.skysports.com/football/news/12024/13390093/spains) (Sky Sports)
+
+- [Aitana Bonmatí sale del hospital tras superar una meningitis vírica y se reincorporará a la selección en los próximos días](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html) (El Mundo)
+
+- [Aitana Bonmatí. ingresada el viernes por meningitis vírica, recibe el alta y abandona el hospital](https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html) (Www.abc.es)
+
+- [Aitana Bonmatí given all-clear after recovering from viral meningitis](https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411) (Onefootball.com)
+
+- [Aitana Bonmatí recibe el alta](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html) (Europapress.es)
+
+- [Meningitis vírica: así es el cuadro por el que está ingresada Aitana Bonmatí](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm) (Lavozdegalicia.es)
+
 ## 25-27 (measles)
 
 - [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
@@ -2583,6 +2663,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
 
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
+
+- [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
 
 ## 25-27 (chikungunya)
 
