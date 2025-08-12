@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-08-12 07:08
-- **Most recent article:** 2025-08-11 06:32:19
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-08-12 19:06
+- **Most recent article:** 2025-08-11 17:21:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 114 | 64 | 47 | 30 | 26 | 2 | 318 |
-| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 9 | 286 |
-| dengue | 24 | 34 | 24 | 36 | 32 | 17 | 5 | 172 |
-| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 2 | 113 |
-| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 1 | 71 |
-| meningitis | 40 | 7 | 7 | 12 | 3 | 1 | 0 | 70 |
+| measles | 35 | 114 | 64 | 47 | 30 | 26 | 3 | 319 |
+| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 13 | 290 |
+| dengue | 23 | 34 | 24 | 36 | 32 | 17 | 8 | 174 |
+| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 3 | 114 |
+| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 6 | 76 |
+| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 4 | 56 |
 | mpox | 10 | 6 | 7 | 9 | 13 | 10 | 0 | 55 |
-| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 0 | 52 |
-| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 0 | 49 |
-| zika | 8 | 12 | 8 | 2 | 7 | 8 | 0 | 45 |
+| meningitis | 25 | 7 | 7 | 12 | 3 | 1 | 0 | 55 |
+| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 1 | 50 |
+| zika | 8 | 12 | 8 | 2 | 7 | 8 | 1 | 46 |
 | typhoid | 2 | 3 | 9 | 1 | 0 | 1 | 0 | 16 |
 | hpai | 4 | 3 | 2 | 1 | 0 | 3 | 0 | 13 |
 | pertussis | 0 | 0 | 4 | 3 | 1 | 0 | 0 | 8 |
@@ -32,11 +32,37 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-33 (zika)
+
+- [V Ružinove pretrváva výskyt komára tigrovaného. Najaktívnejší bude celé leto](https://spravy.pravda.sk/regiony/clanok/762773-v-ruzinove-pretrvava-vyskyt-komara-tigrovaneho-najaktivnejsi-bude-cele-leto/) (Pravda.sk)
+
+## 25-33 (yersinia)
+
+- [Oveja de hace 4.000 años revela pistas sobre una antigua peste](https://www.dw.com/es/oveja-de-hace-4000-a%C3%B1os-revela-pistas-sobre-una-antigua-peste/a-73605793) (DW (English))
+
+- [Найдены следы древнейшей «пандемийной» чумы в останках древних овец из Аркаима](https://news.mail.ru/society/67397741/) (Mail.ru)
+
+- [Найдены следы древнейшей "пандемийной" чумы в останках древних овец из Аркаима](https://tass.ru/nauka/24757759) (Tass.ru)
+
+- [Frühzeitliche Zoonose: Tödliche Bronzezeit-Pest befiel wohl auch Nutztiere](https://www.spektrum.de/news/toedliche-bronzezeit-pest-erstmals-in-schaf-nachgewiesen/2282064) (Spektrum.de)
+
 ## 25-33 (rabies)
+
+- [Rabies control via co-creation: A model for sustainable one health interventions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013350) (Plos.org)
+
+- [India court orders removal of 5,000 stray dogs in New Delhi](https://www.dw.com/en/india-court-orders-removal-of-5000-stray-dogs-in-new-delhi/a-73597706) (DW (English))
+
+- [India's top court orders Delhi authorities to move stray dogs to shelters](https://www.thestar.com.my/news/world/2025/08/11/india039s-top-court-orders-delhi-authorities-to-move-stray-dogs-to-shelters) (The Star Online)
+
+- [‘Not scientific, never worked’: PETA opposes Supreme Court order to move Delhi NCR stray dogs to shelters](https://indianexpress.com/article/cities/delhi/peta-opposes-sc-order-stray-dogs-shelters-displacement-10182714/) (The Indian Express)
+
+- [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
 - [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
 
 ## 25-33 (measles)
+
+- [Comparing the effectiveness of ring and block-vaccination strategies on networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013274) (Plos.org)
 
 - [Fired experts, measles outbreaks and vaccine sceptics. Public health inside RFK's USA](https://www.abc.net.au/news/2025-08-11/measles-outbreak-us-robert-f-kennedy-jr-vaccination-messages/105628576) (ABC News (AU))
 
@@ -44,11 +70,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (malaria)
 
+- [This drug can turn your blood into mosquito poison](http://www.popsci.com/health/mosquito-repellent-nitisinone/) (Popular Science)
+
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
 - [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
 
+## 25-33 (h5n1)
+
+- [El ECDC informa de un caso humano de gripe aviar A(H5N1) en una menor de 10 años Camboya](https://www.infosalus.com/salud-investigacion/noticia-ecdc-informa-caso-humano-gripe-aviar-ah5n1-menor-10-anos-camboya-20250811125824.html) (Infosalus.com)
+
 ## 25-33 (dengue)
+
+- [Bangladesh enfrenta surto de dengue e mortes no ano passam de 100](https://valor.globo.com/mundo/noticia/2025/08/11/bangladesh-enfrenta-surto-de-dengue-e-mortes-no-ano-passam-de-100.ghtml) (Globo)
+
+- [Development of an affordable multiplex quantitative RT-PCR assay for early detection and surveillance of Dengue, Chikungunya, and co-infections from clinical samples in resource-limited settings](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013250) (Plos.org)
+
+- [V Ružinove pretrváva výskyt komára tigrovaného. Najaktívnejší bude celé leto](https://spravy.pravda.sk/regiony/clanok/762773-v-ruzinove-pretrvava-vyskyt-komara-tigrovaneho-najaktivnejsi-bude-cele-leto/) (Pravda.sk)
 
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
@@ -61,6 +99,14 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
 
 ## 25-33 (chikungunya)
+
+- [Development of an affordable multiplex quantitative RT-PCR assay for early detection and surveillance of Dengue, Chikungunya, and co-infections from clinical samples in resource-limited settings](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013250) (Plos.org)
+
+- [Cómo China está luchando contra un virus transmitido por un mosquito](https://www.latercera.com/tendencias/noticia/como-china-esta-luchando-contra-un-virus-transmitido-por-un-mosquito/) (Latercera.com)
+
+- [V Ružinove pretrváva výskyt komára tigrovaného. Najaktívnejší bude celé leto](https://spravy.pravda.sk/regiony/clanok/762773-v-ruzinove-pretrvava-vyskyt-komara-tigrovaneho-najaktivnejsi-bude-cele-leto/) (Pravda.sk)
+
+- [Qué es el chikungunya, el brote que ha infectado a más de 7.000 personas en China y ha disparado las alertas en el mundo](https://www.20minutos.es/salud/chikungunya-brote-infectado-7-000-personas-china-disparado-alertas-mundo_6235605_0.html) (20minutos.es)
 
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
@@ -2478,36 +2524,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
 
-- [Spaniens Bonmati aus Krankenhaus entlassen](https://sport.orf.at/stories/3142898/) (Sport.orf.at)
-
-- [Aitana Bonmatí vuelve con el grupo tras haber superado una meningitis vírica que le obligó a estar ingresada en el hospital](https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html) (Elespanol.com)
-
-- [Relief for Spain as Bonmati cleared to return after health scare](https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271) (CNA)
-
-- [Aitana Bonmatí recibe el alta médica tras positivo a meningitis y se incorporará con España para la Eurocopa](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa) (Milenio)
-
-- [Frauen-Fußball: Spanien-Star Bonmati nach Meningitis wohl fit für EM](https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html) (Der Tagesspiegel)
-
-- [Aitana Bonmatí sale del hospital y está a punto de reincorporarse a la selección](https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/) (Libertaddigital.com)
-
-- [Bonmati out of hospital; to rejoin Spain squad](https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad) (ESPN)
-
-- [Bonmati discharged from hospital after meningitis](https://www.bbc.com/sport/football/articles/clyln3140y7o) (BBC News)
-
-- [Aitana Bonmatí recibe el alta médica tras su meningitis vírica](https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm) (Lavozdegalicia.es)
-
-- [Spain's Bonmati discharged from hospital after being treated for viral meningitis](https://www.skysports.com/football/news/12024/13390093/spains) (Sky Sports)
-
-- [Aitana Bonmatí sale del hospital tras superar una meningitis vírica y se reincorporará a la selección en los próximos días](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html) (El Mundo)
-
-- [Aitana Bonmatí. ingresada el viernes por meningitis vírica, recibe el alta y abandona el hospital](https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html) (Www.abc.es)
-
-- [Aitana Bonmatí given all-clear after recovering from viral meningitis](https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411) (Onefootball.com)
-
-- [Aitana Bonmatí recibe el alta](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html) (Europapress.es)
-
-- [Meningitis vírica: así es el cuadro por el que está ingresada Aitana Bonmatí](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm) (Lavozdegalicia.es)
-
 ## 25-27 (measles)
 
 - [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
@@ -2699,8 +2715,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
 
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
-
-- [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
 
 ## 25-27 (chikungunya)
 

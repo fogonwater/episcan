@@ -1,8 +1,317 @@
 {
-  "last_updated": "2025-08-12 07:08",
-  "count_articles_total": 1179,
-  "count_articles_new": 6,
+  "last_updated": "2025-08-12 19:06",
+  "count_articles_total": 1180,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 23659,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Oveja de hace 4.000 a\u00f1os revela pistas sobre una antigua peste",
+      "description": "Un estudio del Instituto Max Planck identifica en restos ovinos la bacteria Yersinia pestis del Neol\u00edtico tard\u00edo y la Edad de Bronce, sugiriendo que la ganader\u00eda pudo ser clave en la propagaci\u00f3n de la peste en Eurasia. Hace unos 5.000 a\u00f1os, una misteriosa for\u2026",
+      "url": "https://www.dw.com/es/oveja-de-hace-4000-a%C3%B1os-revela-pistas-sobre-una-antigua-peste/a-73605793",
+      "urlToImage": "https://static.dw.com/image/18555431_6.jpg",
+      "publishedAt": "2025-08-11 17:21:00",
+      "content": "Hace unos 5.000 a\u00f1os, una misteriosa forma de peste se propag\u00f3 por toda Eurasia. Un reciente estudio ha identificado la bacteria responsable en los restos de una oveja de 4.000 a\u00f1os, lo que aporta nu\u2026 [+3234 chars]",
+      "retrievedAt": "2025-08-12 19:06:28.477749",
+      "internal_id": "e7e08e390eacd5a2424b33fa0b01e4de9cff19d52b914d7cb6da09599a2bec1e",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23654,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "Mack DeGeurin",
+      "title": "This drug can turn your blood into mosquito poison",
+      "description": "Nitisinone kills even insecticide-resistant mosquitoes. The post This drug can turn your blood into mosquito poison appeared first on Popular Science.",
+      "url": "http://www.popsci.com/health/mosquito-repellent-nitisinone/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/08/mosquito-repellent-nitisinone.png?quality=85&w=2003",
+      "publishedAt": "2025-08-11 17:00:00",
+      "content": "Mosquitoes may have just met their match: A prescription drug already used to treat a rare genetic disease in humans can make a persons blood poisonous to insecticide-resistant, malaria-carrying mosq\u2026 [+5762 chars]",
+      "retrievedAt": "2025-08-12 19:06:26.551974",
+      "internal_id": "fa427fc6cddcd9010c11bc59b869a6a04c44d2560b760cdc3eaee0ceb7aac62f",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23660,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041b\u0435\u043e\u043d\u0438\u0434 \u041c\u043e\u043d\u0438\u043d",
+      "title": "\u041d\u0430\u0439\u0434\u0435\u043d\u044b \u0441\u043b\u0435\u0434\u044b \u0434\u0440\u0435\u0432\u043d\u0435\u0439\u0448\u0435\u0439 \u00ab\u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0439\u043d\u043e\u0439\u00bb \u0447\u0443\u043c\u044b \u0432 \u043e\u0441\u0442\u0430\u043d\u043a\u0430\u0445 \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u043e\u0432\u0435\u0446 \u0438\u0437 \u0410\u0440\u043a\u0430\u0438\u043c\u0430",
+      "description": "\u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e LNBA \u0441 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u043c\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c\u0438, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u044d\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0430\u043d\u0442\u0440\u043e\u043f\u043e\u043b\u043e\u0433\u0438\u0438.",
+      "url": "https://news.mail.ru/society/67397741/",
+      "urlToImage": "https://news.mail.ru/social_preview/67397741/?time=623f3712ff3929aaaed41cdf5f4403fc",
+      "publishedAt": "2025-08-11 15:20:31",
+      "content": ", 11 . //. , , , , , , . , - (EVA). \u00ab - , . . , \u00bb, \u2014 () , - EVA. 23 , , Yersinia pestis . 134 64 , , , ARK017, , . \u00ab , , , , . , , \u2026 [+128 chars]",
+      "retrievedAt": "2025-08-12 19:06:28.486064",
+      "internal_id": "1706feb1db44eac9c0f9074f54fa33146df33d6bab80d499e1b2878f57640965",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23657,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u041d\u0430\u0439\u0434\u0435\u043d\u044b \u0441\u043b\u0435\u0434\u044b \u0434\u0440\u0435\u0432\u043d\u0435\u0439\u0448\u0435\u0439 \"\u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0439\u043d\u043e\u0439\" \u0447\u0443\u043c\u044b \u0432 \u043e\u0441\u0442\u0430\u043d\u043a\u0430\u0445 \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u043e\u0432\u0435\u0446 \u0438\u0437 \u0410\u0440\u043a\u0430\u0438\u043c\u0430",
+      "description": "\u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e LNBA \u0441 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u043c\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c\u0438, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u044d\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0430\u043d\u0442\u0440\u043e\u043f\u043e\u043b\u043e\u0433\u0438\u0438",
+      "url": "https://tass.ru/nauka/24757759",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/nauka/24757759?u=2025-08-11T15:17:34.969156",
+      "publishedAt": "2025-08-11 15:17:34",
+      "content": ", 11 . //. , , , , , , . , - (EVA). \" - , . . , \", - () , - EVA. , , . , , 5-7 . . , , , LNBA, . , , (), . 23 , , Yersinia pestis . 134 64 , , , ARK017, , . \" , , , , . , , . , , , \", - . \u2026 [+60 chars]",
+      "retrievedAt": "2025-08-12 19:06:28.459011",
+      "internal_id": "dfca7499698c4d3922e42e36793762318971500c261118fb38ea35428d87ed23",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23658,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Michaela Maya-Mrschtik",
+      "title": "Fr\u00fchzeitliche Zoonose: T\u00f6dliche Bronzezeit-Pest befiel wohl auch Nutztiere",
+      "description": "Eine ausgestorbene Variante der Pest, die ab der Jungsteinzeit Menschen infizierte, wurde nicht \u00fcber Fl\u00f6he \u00fcbertragen. Vielmehr k\u00f6nnten Schafe Wirte der Erreger gewesen sein.",
+      "url": "https://www.spektrum.de/news/toedliche-bronzezeit-pest-erstmals-in-schaf-nachgewiesen/2282064",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/AdobeStock_270876608.jpeg",
+      "publishedAt": "2025-08-11 15:07:32",
+      "content": "Vor rund 5000 Jahren verbreitete sich eine neue Krankheit in der eurasischen Steppe: die Pest, ausgel\u00f6st durch das Bakterium Yersinia pestis. DNA-Analysen von menschlichen \u00dcberresten belegen, dass ei\u2026 [+1719 chars]",
+      "retrievedAt": "2025-08-12 19:06:28.468400",
+      "internal_id": "1dc6c27273014249938b317fb68e6c9bbdbc44fb0c7f758e052e53a057876f36",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23651,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Bangladesh enfrenta surto de dengue e mortes no ano passam de 100",
+      "description": "Autoridades de sa\u00fade est\u00e3o recomendando que as pessoas usem repelente, durmam sob mosquiteiros e eliminem a \u00e1gua parada onde os mosquitos se reproduzem",
+      "url": "https://valor.globo.com/mundo/noticia/2025/08/11/bangladesh-enfrenta-surto-de-dengue-e-mortes-no-ano-passam-de-100.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-08-11 14:06:40",
+      "content": "Bangladesh est\u00e1 enfrentando um aumento nos casos e mortes por dengue, com especialistas em sa\u00fade alertando que agosto pode trazer um surto ainda mais grave da doen\u00e7a se medidas urgentes n\u00e3o forem tom\u2026 [+1197 chars]",
+      "retrievedAt": "2025-08-12 19:06:25.796349",
+      "internal_id": "2b576bf452e07b59a5bfd3b46c0aadf103a39d6b7cc93dd34e48df2ac0740950",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23646,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nicholas Bor, Geoffrey Njenga, Annabel Slater, Peterkin Munywoki, Dorcas Chepyatich, David Owino, Maurice K. Murungi, Dishon M. Muloi, Lian F. Thomas",
+      "title": "Rabies control via co-creation: A model for sustainable one health interventions",
+      "description": "Author summary Rabies remains endemic in Kenya due to low vaccination coverage and limited public awareness. A mass dog rabies vaccination campaign was implemented in Machakos County between 2021 and 2024, but coverage has remained sub-optimal. To help increa\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013350",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013350.g009&size=inline",
+      "publishedAt": "2025-08-11 14:00:00",
+      "content": "Abstract Rabies is a fatal zoonotic disease that can be effectively controlled by vaccinating 70% of at-risk dog populations. Rabies is a persistent health threat in Kenya due to low rabies vaccinat\u2026 [+40314 chars]",
+      "retrievedAt": "2025-08-12 19:06:24.777840",
+      "internal_id": "b7e581b73195dd50a5f71bae56de7ad878eda6230943e1909f6ff73ff27d2f81",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23649,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matteo Scianna, Riccardo Gallotti, Michele Tizzoni, Oriol Artime, Lucila G. Alvarez-Zuzek",
+      "title": "Comparing the effectiveness of ring and block-vaccination strategies on networks",
+      "description": "Author summary Infectious diseases such as measles and Ebola have shown how quickly outbreaks can spread and how essential vaccination is to protect individuals. In our work, we investigate a spectrum of vaccination strategies, inspired by ring vaccination, t\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013274",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013274.g007&size=inline",
+      "publishedAt": "2025-08-11 14:00:00",
+      "content": "Abstract Vaccination is vital for preventing disease spread, as demonstrated by its role played in recent outbreaks such as measles, COVID-19, and the 2014 West Africa Ebola crisis. Classical ring v\u2026 [+74782 chars]",
+      "retrievedAt": "2025-08-12 19:06:25.149238",
+      "internal_id": "681b314f62677c534f5b55ae39218fab588cc46d2fdf23659c8c86f232c7a22b",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23652,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mansi Rajendra Malik, Samruddhi Walaskar, Ritika Majji, Deepanraj SP, Shruthi Uppoor, Thrilok Chandra KV, Madhusudhan H.N, Balasundar A.S, Rakesh Kumar Mishra, Farah Ishtiaq",
+      "title": "Development of an affordable multiplex quantitative RT-PCR assay for early detection and surveillance of Dengue, Chikungunya, and co-infections from clinical samples in resource-limited settings",
+      "description": "Author summary Dengue and Chikungunya are the most common arboviral illnesses affecting more than half of the world\u2019s population. Both viral diseases have overlapping symptoms, which poses a challenge for accurate differential diagnostics in low-resource sett\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013250",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013250.g008&size=inline",
+      "publishedAt": "2025-08-11 14:00:00",
+      "content": "Citation: Malik MR, Walaskar S, Majji R, SP D, Uppoor S, KV TC, et al. (2025) Development of an affordable multiplex quantitative RT-PCR assay for early detection and surveillance of Dengue, Chikungu\u2026 [+39130 chars]",
+      "retrievedAt": "2025-08-12 19:06:25.804507",
+      "internal_id": "ec5f4981372457d23431fcb2c96548c1e9f26991da1f7dcd0927184b1c830864",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23644,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Louis Oelofse",
+      "title": "India court orders removal of 5,000 stray dogs in New Delhi",
+      "description": "Thousands of dog bite cases, some causing rabies, prompted the Supreme Court ruling, but conservationists criticized the order as an impractical and unscientific move.",
+      "url": "https://www.dw.com/en/india-court-orders-removal-of-5000-stray-dogs-in-new-delhi/a-73597706",
+      "urlToImage": "https://static.dw.com/image/73597312_6.jpg",
+      "publishedAt": "2025-08-11 11:42:00",
+      "content": "India's top court on Monday ordered the removal of stray dogs from New Delhi's streets, citing a surge in dog bite cases. The Supreme Court instructed authorities to capture 5,000 dogs from \"high-ri\u2026 [+2109 chars]",
+      "retrievedAt": "2025-08-12 19:06:24.734941",
+      "internal_id": "cecb45784228449d2a69e8085ee41e0e13243f9fa2c66ec65a97fdbbbedea733",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23650,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC informa de un caso humano de gripe aviar A(H5N1) en una menor de 10 a\u00f1os Camboya",
+      "description": "El pasado 6 de agosto, el Ministerio de Salud de Camboya notific\u00f3 un nuevo caso humano de infecci\u00f3n por el virus de gripe aviar A(H5N1) en una ni\u00f1a menor de 10 a\u00f1os de la provincia de Takeo (Camboya), seg\u00fan el \u00faltimo bolet\u00edn sobre amenazas de enfermedades tra\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-informa-caso-humano-gripe-aviar-ah5n1-menor-10-anos-camboya-20250811125824.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250811125824_1200.jpg",
+      "publishedAt": "2025-08-11 10:58:24",
+      "content": "MADRID 11 Ago. (EUROPA PRESS) - El pasado 6 de agosto, el Ministerio de Salud de Camboya notific\u00f3 un nuevo caso humano de infecci\u00f3n por el virus de gripe aviar A(H5N1) en una ni\u00f1a menor de 10 a\u00f1os\u2026 [+4121 chars]",
+      "retrievedAt": "2025-08-12 19:06:25.480587",
+      "internal_id": "f1740bd64b901fd850985ecefa16ee9a3fc06c5812fbdc3f07ee3c02b9d6ccee",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23648,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "India's top court orders Delhi authorities to move stray dogs to shelters",
+      "description": "NEW DELHI (Reuters) -India's top court ordered authorities in the capital Delhi and its suburbs on Monday to relocate all stray dogs to shelters within eight weeks, according to the Live Law website, after media reports of a rise in cases of rabies, especiall\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/08/11/india039s-top-court-orders-delhi-authorities-to-move-stray-dogs-to-shelters",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3462219.jpg",
+      "publishedAt": "2025-08-11 10:52:00",
+      "content": "NEW DELHI (Reuters) -India's top court ordered authorities in the capital Delhi and its suburbs on Monday to relocate all stray dogs to shelters within eight weeks, according to the Live Law website,\u2026 [+1826 chars]",
+      "retrievedAt": "2025-08-12 19:06:24.801713",
+      "internal_id": "eef09cfa60226a52d9040fd1add400806bc89e66ca8bddd0576158a54f151746",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23647,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express Web Desk",
+      "title": "\u2018Not scientific, never worked\u2019: PETA opposes Supreme Court order to move Delhi NCR stray dogs to shelters",
+      "description": "Displacement will ultimately do nothing to curb the dog population, reduce rabies or prevent dog bite incidents, says PETA.",
+      "url": "https://indianexpress.com/article/cities/delhi/peta-opposes-sc-order-stray-dogs-shelters-displacement-10182714/",
+      "urlToImage": "https://images.indianexpress.com/2025/08/dog.jpg",
+      "publishedAt": "2025-08-11 10:25:05",
+      "content": "Communities think of neighbourhood dogs as family, and displacement and jailing of dogs is not scientific and has never worked, said PETA India, after the Supreme Court Monday directed the Delhi Gove\u2026 [+1917 chars]",
+      "retrievedAt": "2025-08-12 19:06:24.786362",
+      "internal_id": "d9b2eed6e9e054015c0b0f53b648288704b83d38beac429dce1335e401007bd6",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23656,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Antonio Alburquerque",
+      "title": "C\u00f3mo China est\u00e1 luchando contra un virus transmitido por un mosquito",
+      "description": "El mayor brote de chikungunya en el pa\u00eds desde 2008 ha desatado una campa\u00f1a sanitaria masiva en la ciudad de Foshan, con soldados fumigando calles y multas por no eliminar el agua estancada.",
+      "url": "https://www.latercera.com/tendencias/noticia/como-china-esta-luchando-contra-un-virus-transmitido-por-un-mosquito/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/LXULMQPCC5DUFDWDWP747NGGW4.jpeg?auth=b17278cc166403b4b5ab6f93079aee1360313a2bdfecbebbc4d8bd9c1eb7b4be&height=630&width=1200&smart=true",
+      "publishedAt": "2025-08-11 10:01:00",
+      "content": "En la ciudad de Foshan, al sur de China, el chikungunya una enfermedad viral transmitida por mosquitos que causa fiebre y fuerte dolor articular ha encendido las alarmas . En solo cuatro semanas, \u2026 [+3762 chars]",
+      "retrievedAt": "2025-08-12 19:06:27.370543",
+      "internal_id": "7beb9c406c6f40e2bec0ee95f303598d792e928b91868403074fb9d3b5b8256d",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23653,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "V Ru\u017einove pretrv\u00e1va v\u00fdskyt kom\u00e1ra tigrovan\u00e9ho. Najakt\u00edvnej\u0161\u00ed bude cel\u00e9 leto",
+      "description": "Kom\u00e1r tigrovan\u00fd m\u00f4\u017ee pren\u00e1\u0161a\u0165 22 r\u00f4znych v\u00edrusov vr\u00e1tane exotick\u00fdch v\u00edrusov dengue, chikungunya, Zika alebo \u017elt\u00e1 zimnica.",
+      "url": "https://spravy.pravda.sk/regiony/clanok/762773-v-ruzinove-pretrvava-vyskyt-komara-tigrovaneho-najaktivnejsi-bude-cele-leto/",
+      "urlToImage": "http://ipravda.sk/res/2025/08/11/thumbs/komar-tigrovany-clanokW.jpg",
+      "publishedAt": "2025-08-11 09:50:00",
+      "content": "V\u00fdskyt inv\u00e1zneho kom\u00e1ra tigrovan\u00e9ho pretrv\u00e1va v Bratislave v mestskej asti Ruinov, konkr\u00e9tne v okol\u00ed Martinsk\u00e9ho cintor\u00edna, cel\u00e9ho Prievozu aj v okol\u00ed Zvolenskej ulice. V aktu\u00e1lnom obdob\u00ed dosahuje te\u2026 [+1565 chars]",
+      "retrievedAt": "2025-08-12 19:06:25.826316",
+      "internal_id": "ebc1d6306622712f50b8ea7ad50afc9ec783f647705bb02e49e22a29fc2b626a",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23655,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20minutos.es",
+      "author": "Carolina Serrano Rold\u00e1n",
+      "title": "Qu\u00e9 es el chikungunya, el brote que ha infectado a m\u00e1s de 7.000 personas en China y ha disparado las alertas en el mundo",
+      "description": "Su nombre deriva de lengua africana makonde y quiere decir 'doblarse por el dolor'. Suele causar fiebre, dolor en las articulaciones, fatiga y erupciones.&nbsp;",
+      "url": "https://www.20minutos.es/salud/chikungunya-brote-infectado-7-000-personas-china-disparado-alertas-mundo_6235605_0.html",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/28/un-mosquito-tigre-aedes-albopictus-vector-de-enfermedades-arbovirales-como-el-dengue-el-zika-el-chikungunya-o-la-fiebre-amarilla.jpeg",
+      "publishedAt": "2025-08-11 09:12:00",
+      "content": "Los recuerdos de la pandemia por el Covid-19 golpean de repente cada que escuchamos de una nueva enfermedad infecciosa en China. El pa\u00eds asi\u00e1tico anuncia ahora que se han registrado m\u00e1s de 7.000 caso\u2026 [+3374 chars]",
+      "retrievedAt": "2025-08-12 19:06:27.250223",
+      "internal_id": "ec626b54b6361fdf59d65e1fee8674b29927cd3b0311bd1a653a3b80ae3e012d",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23645,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra",
+      "description": "Delhi government will promptly enforce the Supreme Court's directive to relocate stray dogs to shelters, aiming to eliminate rabies and stray animal concerns. The court has acknowledged the severity of the stray dog issue and instructed immediate action from \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123232461,width-1200,height-630,imgsize-48152,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-11 08:12:54",
+      "content": "The Delhi government will implement in a time-bound manner the Supreme Court order for shifting stray dogs in the city to shelter homes, Development Minister Kapil Mishra said on Monday.Mishra said t\u2026 [+977 chars]",
+      "retrievedAt": "2025-08-12 19:06:24.769228",
+      "internal_id": "210c4956033bad92f19c2927afc41b8995702689b5d538b806b19db9a0f45183",
+      "publishedAtLabel": "Aug 11"
+    },
     {
       "id": 23638,
       "query": [
@@ -21025,294 +21334,6 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2025-07-01 07:08:25.884493",
       "internal_id": "43130435f293563f3e1d391a22577484a163de99fbf539d7ffc8d8e84b9a6177",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22465,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Pypi.org",
-      "author": "health@gnusolidario.org",
-      "title": "gnuhealth-ntd-dengue 5.0.0rc3",
-      "description": "Neglected Tropical Diseases - Dengue fever package for GNU Health",
-      "url": "https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/",
-      "urlToImage": null,
-      "publishedAt": "2025-06-29 17:57:34",
-      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
-      "retrievedAt": "2025-06-30 19:06:02.135333",
-      "internal_id": "1b752b634c1ef938fb9705dead4ea1283a8972cc724e8424046cd2a10e74c6f3",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22474,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sport.orf.at",
-      "author": "ORF.at",
-      "title": "Spaniens Bonmati aus Krankenhaus entlassen",
-      "description": "",
-      "url": "https://sport.orf.at/stories/3142898/",
-      "urlToImage": "https://sport.orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-sport.png",
-      "publishedAt": "2025-06-29 16:21:36",
-      "content": "Aitana Bonmati hat ihre virale Meningitis \u00fcberstanden. Die zweifache Weltfu\u00dfballerin konnte das Krankenhaus verlassen und wird bald zum Nationalteam sto\u00dfen, gab der spanische Verband am Sonntag bekan\u2026 [+375 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.317228",
-      "internal_id": "a143a2c1f3954b4cc8bb865fd1e67ad33c941cf8ac3f9457c78d7fd287800e14",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22473,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "Carlos Serrano",
-      "title": "Aitana Bonmat\u00ed vuelve con el grupo tras haber superado una meningitis v\u00edrica que le oblig\u00f3 a estar ingresada en el hospital",
-      "description": "La jugadora del Bar\u00e7a no formar\u00e1 parte de la expedici\u00f3n que viaja este domingo a Suiza, aunque s\u00ed estar\u00e1 a las \u00f3rdenes de Montse Tom\u00e9 en la Eurocopa. M\u00e1s informaci\u00f3n: Aitana Bonmat\u00ed, ingresada en el hospital por una meningitis v\u00edrica a una semana del comienzo\u2026",
-      "url": "https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html",
-      "urlToImage": "https://s1.elespanol.com/2025/06/29/actualidad/1003743826357_256884197_1706x960.jpg",
-      "publishedAt": "2025-06-29 15:57:46",
-      "content": "Las jugadoras de la Selecci\u00f3n y Montse Tom\u00e9 por fin respiran aliviadas. Aitana Bonmat\u00ed ha recibido el alta hospitalaria tras sufrir una meningitis v\u00edrica que le oblig\u00f3 a ser ingresada en el hospital \u2026 [+2316 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.298787",
-      "internal_id": "fe1f82d65aa794aa3951475a3c2682cd0ed74a32b3cadad0789461ce52317b2d",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22469,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Relief for Spain as Bonmati cleared to return after health scare",
-      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunday.The 27-year-old missed Spain's 3-1 victory over Japan in a\u2026",
-      "url": "https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--4Z-uBhJj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-29t155515z_1_lynxmpel5s08e_rtroptp_3_soccer-champions-ars-bar-report.jpg?itok=hr4k1YLb",
-      "publishedAt": "2025-06-29 15:55:15",
-      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunda\u2026 [+696 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.172703",
-      "internal_id": "b86ef922b3f58ad3bd6c9e12ee494c50cd2ca187a72a23c1608c669c3f821f3c",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22475,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Agencia EFE",
-      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras positivo a meningitis y se incorporar\u00e1 con Espa\u00f1a para la Eurocopa",
-      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de unameningitis v\u00edricay se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \"en los pr\u00f3ximos d\u00edas\".La Real Federaci\u00f3n Espa\u00f1ola de \u2026",
-      "url": "https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/29/aitana-bonmati-disponible-eurocopa-femenina.jpg",
-      "publishedAt": "2025-06-29 14:00:00",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+2173 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.326536",
-      "internal_id": "3e4901857ce94be3621bc0117905915263e6dec77ce205d9d2d501d7dc894142",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22471,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Frauen-Fu\u00dfball: Spanien-Star Bonmati nach Meningitis wohl fit f\u00fcr EM",
-      "description": "Sie ist eine Schl\u00fcsselspielerin im Team der Weltmeisterinnen. Doch Aitana Bonmati zieht sich in der Vorbereitung eine Erkrankung zu. Jetzt gibt es positive Signale f\u00fcr die EM in der Schweiz.",
-      "url": "https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/13936150/alternates/BASE_16_9_W1400/1751199901000/aitana-bonmati.jpeg",
-      "publishedAt": "2025-06-29 12:25:01",
-      "content": "Weltfu\u00dfballerin Aitana Bonmati steht Spanien bei der EM der Frauen nach ihrer Meningitis-Erkrankung wohl zur Verf\u00fcgung. Die Mittelfeldspielerin habe das Krankenhaus am Sonntag verlassen und werde in \u2026 [+2237 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.235055",
-      "internal_id": "f60116bc7f8d5d1bf452689b1817f4e5bb3bd1ca28a40725efaa6f83fdf1fd35",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22480,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Libertaddigital.com",
-      "author": "Libertad Digital",
-      "title": "Aitana Bonmat\u00ed sale del hospital y est\u00e1 a punto de reincorporarse a la selecci\u00f3n",
-      "description": "La centrocampista ha estado varios d\u00edas hospitalizada a causa de una meningitis v\u00edrica y en principio llegar\u00e1 a tiempo para la Eurocopa.",
-      "url": "https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/",
-      "urlToImage": "https://s.libertaddigital.com/2025/06/28/1200/627/1344x229/ld/2806-aitana-bonmati.jpg",
-      "publishedAt": "2025-06-29 12:12:43",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+1912 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.423616",
-      "internal_id": "f3ead69fcc298a0b690ac0d2e7bc910a7eb7482d796d73d5554d3f40c9474122",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22476,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "espn",
-      "source_name": "ESPN",
-      "author": "ESPN",
-      "title": "Bonmati out of hospital; to rejoin Spain squad",
-      "description": "Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days.",
-      "url": "https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0629%2Fr1512612_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-06-29 12:05:03",
-      "content": "Jun 29, 2025, 07:13 AM ET Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days. Bonmati was hospitalis\u2026 [+737 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.350447",
-      "internal_id": "426566fc542a837211e5ce93f153ef9cf6436b80484c3cca8f95b8fa9710798b",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22466,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "Matt Davis",
-      "title": "Bonmati discharged from hospital after meningitis",
-      "description": "Spain midfielder Aitana Bonmati is discharged from hospital after being treated for viral meningitis days before the start of Euro 2025.",
-      "url": "https://www.bbc.com/sport/football/articles/clyln3140y7o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c647/live/adef9d40-54de-11f0-b137-b1f711ab20bb.jpg",
-      "publishedAt": "2025-06-29 11:49:34",
-      "content": "Euro 2025 in Switzerland starts on Wednesday and Spain play Portugal in their opening Group B game in Bern on Thursday. \"Thanks to everyone for the messages I've received and to those who have helpe\u2026 [+788 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.043834",
-      "internal_id": "ae52eb8a7b777d9d4f79bed41605079916b9b225b1431fc2e1798b297b9af2c1",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22479,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "La Voz",
-      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras su meningitis v\u00edrica",
-      "description": "La centrocampista del Barcelona se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \u00aben los pr\u00f3ximos d\u00edas\u00bb, tal y como ha informado la Federaci\u00f3n",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm",
-      "urlToImage": "https://img.lavdg.com/sc/_GKeOffWRkK0hmEb5tIRsiPdGkk=/1280x/2025/06/29/00121751197562198131411/Foto/eup_20250624_112344443.jpg",
-      "publishedAt": "2025-06-29 11:48:00",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido el alta hospitalaria este domingo tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+2536 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.407472",
-      "internal_id": "d94048b0980835c431125087adb1cb23b7832da8044e94310cc900232f5d7995",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22467,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sky Sports",
-      "author": null,
-      "title": "Spain's Bonmati discharged from hospital after being treated for viral meningitis",
-      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025.",
-      "url": "https://www.skysports.com/football/news/12024/13390093/spains",
-      "urlToImage": "https://e0.365dm.com/25/06/1600x900/skysports-spain-bonmati-aitana_6952360.jpg?20250628094423",
-      "publishedAt": "2025-06-29 11:45:00",
-      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025. With the tournament scheduled to start on Wednesda\u2026 [+1664 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.067302",
-      "internal_id": "34cd8bd9da1c573d92c934f4578cf46e11a31ddfd2d076a8884047663e39ed7b",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22472,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Efe",
-      "title": "Aitana Bonmat\u00ed sale del hospital tras superar una meningitis v\u00edrica y se reincorporar\u00e1 a la selecci\u00f3n en los pr\u00f3ximos d\u00edas",
-      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se...",
-      "url": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html",
-      "urlToImage": "https://phantom-elmundo.uecdn.es/345714d11b5a409b37e765eb2e287854/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/29/17511969174391.jpg",
-      "publishedAt": "2025-06-29 11:35:47",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+1909 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.275075",
-      "internal_id": "769cf9745d66da63667ef9407272c2b455f9f916a979f82b6d54b663008452ef",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22478,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Aitana Bonmat\u00ed. ingresada el viernes por meningitis v\u00edrica, recibe el alta y abandona el hospital",
-      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
-      "url": "https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2025/06/29/aitana-U28350064152abP-1024x512@diario_abc.jpg",
-      "publishedAt": "2025-06-29 11:12:57",
-      "content": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los\u2026 [+1082 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.390742",
-      "internal_id": "fd63cd6215ab38047ce84c6cc4cd69dc2d37e656c3e7fe419b889b0a16581f31",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22468,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Onefootball.com",
-      "author": null,
-      "title": "Aitana Bonmat\u00ed given all-clear after recovering from viral meningitis",
-      "description": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa...",
-      "url": "https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411",
-      "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41306411%3Fdate=2025-06-29",
-      "publishedAt": "2025-06-29 10:46:00",
-      "content": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa\u2026 [+821 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.163821",
-      "internal_id": "10fdb7c0b8f213f6a975293de0df90155c354e4fba16781db186943720071d97",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22477,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Aitana Bonmat\u00ed recibe el alta",
-      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
-      "url": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250629123905_1200.jpg",
-      "publishedAt": "2025-06-29 10:39:05",
-      "content": "La centrocampista fue ingresada el viernes por meningitis v\u00edrica MADRID, 29 Jun. (EUROPA PRESS) - La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, desp\u2026 [+1160 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.367423",
-      "internal_id": "fe456a3123379f5eb2fb67b05b9fcc9af507ed843317ee6d44cb600474e57ca9",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22470,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "La Voz de la Salud",
-      "title": "Meningitis v\u00edrica: as\u00ed es el cuadro por el que est\u00e1 ingresada Aitana Bonmat\u00ed",
-      "description": "La futbolista catalana se encuentra hospitalizada por una infecci\u00f3n de las membranas que recubren el cerebro",
-      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm",
-      "urlToImage": "https://img.lavdg.com/sc/9gfjTtZUDTkU0PH3o6FYmErx7kc=/1280x/2025/04/15/00121744674677372857416/Foto/EuropaPress_6643701_aitana_bonmati_of_fc_barcelona_looks_on_during_the_spanish_women_league-EP.jpg",
-      "publishedAt": "2025-06-29 08:53:00",
-      "content": "Aitana Bonmat\u00ed se encuentra ingresada en Madrid.Tras un proceso febril que le impidi\u00f3 entrenar el jueves y participar en el partido amistoso de la selecci\u00f3n frente a Jap\u00f3n el viernes, la futbolista d\u2026 [+7979 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.188645",
-      "internal_id": "3d8bfa4e056ee75b47118c2cc48bb74b44e0e160f7fadd771f4151c7566205ed",
       "publishedAtLabel": "Jun 29"
     }
   ]
