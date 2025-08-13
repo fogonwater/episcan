@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-08-13 07:08
-- **Most recent article:** 2025-08-12 06:58:33
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-08-13 19:06
+- **Most recent article:** 2025-08-12 19:01:37
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 114 | 64 | 47 | 30 | 26 | 3 | 319 |
-| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 15 | 292 |
-| dengue | 24 | 34 | 24 | 36 | 32 | 17 | 9 | 176 |
-| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 4 | 115 |
-| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 8 | 78 |
-| meningitis | 40 | 7 | 7 | 12 | 3 | 1 | 2 | 72 |
-| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 1 | 56 |
-| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 4 | 56 |
-| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 2 | 51 |
-| zika | 8 | 12 | 8 | 2 | 7 | 8 | 5 | 50 |
+| measles | 35 | 114 | 64 | 47 | 30 | 26 | 8 | 324 |
+| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 20 | 297 |
+| dengue | 23 | 34 | 24 | 36 | 32 | 17 | 14 | 180 |
+| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 6 | 117 |
+| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 10 | 80 |
+| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 6 | 58 |
+| meningitis | 25 | 7 | 7 | 12 | 3 | 1 | 3 | 58 |
+| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 2 | 57 |
+| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 3 | 52 |
+| zika | 8 | 12 | 8 | 2 | 7 | 8 | 6 | 51 |
 | typhoid | 2 | 3 | 9 | 1 | 0 | 1 | 0 | 16 |
 | hpai | 4 | 3 | 2 | 1 | 0 | 3 | 0 | 13 |
 | pertussis | 0 | 0 | 4 | 3 | 1 | 0 | 1 | 9 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-33 (zika)
+
+- [Dino autoriza aplicação de lei que garante indenização a famílias de crianças com zika vírus](https://www.conjur.com.br/2025-ago-12/dino-autoriza-aplicacao-imediata-de-lei-que-garante-indenizacao-a-criancas-com-zika-virus/) (Conjur.com.br)
 
 - [Ireland records first cholera case in over a decade as ‘exotic’ illnesses on the rise](https://www.independent.ie/irish-news/health/ireland-records-first-cholera-case-in-over-a-decade-as-exotic-illnesses-on-the-rise/a927891999.html) (Independent.ie)
 
@@ -46,6 +48,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (yersinia)
 
+- [Yersinia actively downregulates type III secretion and adhesion at higher cell densities](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013423) (Plos.org)
+
+- [Виновников древнейшей эпидемии чумы нашли в Аркаиме](https://rodina-history.ru/2025/08/12/reg-urfo/vinovnikov-drevnejshej-epidemii-chumy-nashli-v-arkaime.html) (Rodina-history.ru)
+
 - [Oveja de hace 4.000 años revela pistas sobre una antigua peste](https://www.dw.com/es/oveja-de-hace-4000-a%C3%B1os-revela-pistas-sobre-una-antigua-peste/a-73605793) (DW (English))
 
 - [Найдены следы древнейшей «пандемийной» чумы в останках древних овец из Аркаима](https://news.mail.ru/society/67397741/) (Mail.ru)
@@ -55,6 +61,10 @@ Source: [News API](https://newsapi.org/)
 - [Frühzeitliche Zoonose: Tödliche Bronzezeit-Pest befiel wohl auch Nutztiere](https://www.spektrum.de/news/toedliche-bronzezeit-pest-erstmals-in-schaf-nachgewiesen/2282064) (Spektrum.de)
 
 ## 25-33 (rabies)
+
+- [DeKalb County confirms rabies case in cat near Stone Mountain](https://www.fox5atlanta.com/news/dekalb-county-rabies-case-cat-stone-mountain) (FOX 5 Atlanta)
+
+- [Delhi people are fed up of stray dogs: CM Rekha Gupta promises to implement SC directions](https://economictimes.indiatimes.com/news/india/delhi-people-are-fed-up-of-stray-dogs-cm-rekha-gupta-promises-to-implement-sc-directions/articleshow/123253387.cms) (The Times of India)
 
 - [SC's directive on stray dogs a step back from humane, science-backed policy: Rahul Gandhi](https://economictimes.indiatimes.com/news/politics-and-nation/scs-directive-on-stray-dogs-a-step-back-from-humane-science-backed-policy-rahul-gandhi/articleshow/123252561.cms) (The Times of India)
 
@@ -78,15 +88,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (mpox)
 
+- [Mais de metade dos casos de mpox já recuperados](https://observador.pt/2025/08/12/mais-de-metade-dos-casos-de-mpox-ja-recuperados-em-mocambique/) (Observador.pt)
+
 - [Mpox: 12 cases discovered in Ondo as vaccination commences](https://www.premiumtimesng.com/health/health-news/813613-mpox-12-cases-discovered-in-ondo-as-vaccination-commences.html) (Premium Times)
 
 ## 25-33 (meningitis)
+
+- [Actor Dedan Juma Pleads for Financial Help as He Fights for Life in Hospital](https://www.tuko.co.ke/entertainment/celebrities/599328-actor-dedan-juma-pleads-financial-fights-life-hospital/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 - [El menor miedo al VIH hace que la población se 'relaje' en verano: los casos de gonorrea y clamidia se disparan un 30%](https://www.elespanol.com/invertia/observatorios/sanidad/20250812/menor-miedo-vih-hace-poblacion-relaje-verano-casos-gonorrea-clamidia-disparan/1003743882164_0.html) (Elespanol.com)
 
 - [Meningitis Can Now Be Quickly Spotted in Babies Thanks to New Non-Invasive Test With 94% Accuracy](https://www.goodnewsnetwork.org/meningitis-can-now-be-quickly-spotted-in-babies-with-new-non-invasive-test-with-94-accuracy/) (Good News Network)
 
 ## 25-33 (measles)
+
+- [Measles case confirmed in the Idaho Panhandle for the first time since 1991](https://www.khq.com/news/measles-case-confirmed-in-the-idaho-panhandle-for-the-first-time-since-1991/article_24222d58-6224-4098-a63b-414b071d34cc.html) (KHQ Right Now)
+
+- [Panhandle Health confirms first measles case in Kootenai County since 1991](https://cdapress.com/news/2025/aug/12/confirmed-measles-case-in-kootenai-county-coeur-da/) (Coeur d'Alene Press)
+
+- [County health officials confirm first case of measles in San Diego this year](https://www.kpbs.org/news/health/2025/08/12/county-health-officials-confirm-first-case-of-measles-in-san-diego-this-year) (KPBS)
+
+- [Links 8/12/2025](https://www.nakedcapitalism.com/2025/08/links-8-12-2025.html) (Nakedcapitalism.com)
+
+- [Cheryl Hines: Caroline Kennedy's Criticism Made Me Angry](https://www.newser.com/story/373376/cheryl-hines-caroline-kennedys-criticism-made-me-angry.html) (Newser)
 
 - [Comparing the effectiveness of ring and block-vaccination strategies on networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013274) (Plos.org)
 
@@ -95,6 +119,10 @@ Source: [News API](https://newsapi.org/)
 - [CDC: Childhood Vaccination Rates Fell Further In 2024-2025 School Year](https://www.forbes.com/sites/brucelee/2025/08/09/cdc-childhood-vaccination-rates-fell-further-in-2024-2025-school-year/) (Forbes)
 
 ## 25-33 (malaria)
+
+- [Physical integrity and residual bio-efficacy of PBO-pyrethroid synergist-treated and pyrethroid-only LLINs after 1.5 years of field use in Western Kenya](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330177) (Plos.org)
+
+- [Expert panel has recommended that India doesn't fall within criteria for adopting malaria vaccines: Govt](https://economictimes.indiatimes.com/news/india/expert-panel-has-recommended-that-india-doesnt-fall-within-criteria-for-adopting-malaria-vaccines-govt/articleshow/123257603.cms) (The Times of India)
 
 - [Ireland records first cholera case in over a decade as ‘exotic’ illnesses on the rise](https://www.independent.ie/irish-news/health/ireland-records-first-cholera-case-in-over-a-decade-as-exotic-illnesses-on-the-rise/a927891999.html) (Independent.ie)
 
@@ -106,11 +134,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (h5n1)
 
+- [China veta la entrada de productos avícolas españoles por los brotes de gripe aviar](https://www.meneame.net/m/actualidad/china-veta-entrada-productos-avicolas-espanoles-brotes-gripe) (Meneame.net)
+
 - [Confirman caso humano de gripe aviar A(H5N1) en niña de 10 años en Camboya](https://www.excelsior.com.mx/global/gripe-aviar-h5n1-camboya-2025/1732411) (Excelsior.com.mx)
 
 - [El ECDC informa de un caso humano de gripe aviar A(H5N1) en una menor de 10 años Camboya](https://www.infosalus.com/salud-investigacion/noticia-ecdc-informa-caso-humano-gripe-aviar-ah5n1-menor-10-anos-camboya-20250811125824.html) (Infosalus.com)
 
 ## 25-33 (dengue)
+
+- [Beliebte Stadt in Italien komplett desinfiziert wegen Panik nach Denguefieber-Fall](https://www.focus.de/reisen/beliebte-stadt-in-italien-komplett-desinfiziert-wegen-panik-nach-denguefieber-fall_2c08213e-61fd-4a9d-8e15-bf2ab8e09752.html) (Focus)
+
+- [Panik nach Denguefieber-Fall: Bozen desinfiziert große Teile der Stadt](https://www.focus.de/reisen/panik-nach-denguefieber-fall-bozen-desinfiziert-grosse-teile-der-stadt_2c08213e-61fd-4a9d-8e15-bf2ab8e09752.html) (Focus)
+
+- [Nepal reports 169 new dengue cases; total infections reach 2,886](https://english.khabarhub.com/2025/12/490542/) (Khabarhub.com)
+
+- [Erster Fall von Dengue-Fieber in Südtirol](https://tirol.orf.at/stories/3317422/) (Tirol.orf.at)
+
+- [Saat Perempuan Menjadi Pelindung Keluarga dari Serangan Demam Berdarah](https://www.liputan6.com/health/read/6130621/saat-perempuan-menjadi-pelindung-keluarga-dari-serangan-demam-berdarah) (Liputan6.com)
 
 - [Ireland records first cholera case in over a decade as ‘exotic’ illnesses on the rise](https://www.independent.ie/irish-news/health/ireland-records-first-cholera-case-in-over-a-decade-as-exotic-illnesses-on-the-rise/a927891999.html) (Independent.ie)
 
@@ -131,6 +171,16 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
 
 ## 25-33 (chikungunya)
+
+- [Due nuovi casi di Chikungunya a Carpi, coppia anziani sta bene](https://www.ansa.it/emiliaromagna/notizie/2025/08/12/due-nuovi-casi-di-chikungunya-a-carpi-coppia-anziani-sta-bene_4d557330-0901-4e3a-9d3c-a11efc9b8fea.html) (ANSA.it)
+
+- [Új világjárvány réme fenyeget Kínából, a betegek úgy néznek ki, mint a horrorfilmekben](https://www.origo.hu/nagyvilag/2025/08/vilagjarvany-reme-fenyeget-kinabol-sokkolo) (Origo.hu)
+
+- [Bệnh Chikungunya - Những điều anh em cần biết](https://tinhte.vn/thread/benh-chikungunya-nhung-dieu-anh-em-can-biet.4047105/) (Tinhte.vn)
+
+- [Chikungunya : un nouveau cas autochtone détecté près de Grenoble, une opération de démoustication prévue](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/chikungunya-un-nouveau-cas-autochtone-detecte-pres-de-grenoble-une-operation-de-demoustication-prevue-3200871.html) (Franceinfo.fr)
+
+- [Măsuri de tip COVID-19, luate pentru noul virus din China. Chikungunya se răspândește rapid](https://www.mediafax.ro/sanatate/masuri-de-tip-covid-19-luate-pentru-noul-virus-din-china-chikungunya-se-raspandeste-rapid-23594386) (Mediafax.ro)
 
 - [Kasus Chikungunya Meningkat di Singapura, Berikut 5 Cara Mencegahnya](https://www.inews.id/lifestyle/health/kasus-chikungunya-meningkat-di-singapura-berikut-5-cara-mencegahnya) (Inews.id)
 
@@ -2560,36 +2610,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
 
-- [Spaniens Bonmati aus Krankenhaus entlassen](https://sport.orf.at/stories/3142898/) (Sport.orf.at)
-
-- [Aitana Bonmatí vuelve con el grupo tras haber superado una meningitis vírica que le obligó a estar ingresada en el hospital](https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html) (Elespanol.com)
-
-- [Relief for Spain as Bonmati cleared to return after health scare](https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271) (CNA)
-
-- [Aitana Bonmatí recibe el alta médica tras positivo a meningitis y se incorporará con España para la Eurocopa](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa) (Milenio)
-
-- [Frauen-Fußball: Spanien-Star Bonmati nach Meningitis wohl fit für EM](https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html) (Der Tagesspiegel)
-
-- [Aitana Bonmatí sale del hospital y está a punto de reincorporarse a la selección](https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/) (Libertaddigital.com)
-
-- [Bonmati out of hospital; to rejoin Spain squad](https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad) (ESPN)
-
-- [Bonmati discharged from hospital after meningitis](https://www.bbc.com/sport/football/articles/clyln3140y7o) (BBC News)
-
-- [Aitana Bonmatí recibe el alta médica tras su meningitis vírica](https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm) (Lavozdegalicia.es)
-
-- [Spain's Bonmati discharged from hospital after being treated for viral meningitis](https://www.skysports.com/football/news/12024/13390093/spains) (Sky Sports)
-
-- [Aitana Bonmatí sale del hospital tras superar una meningitis vírica y se reincorporará a la selección en los próximos días](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html) (El Mundo)
-
-- [Aitana Bonmatí. ingresada el viernes por meningitis vírica, recibe el alta y abandona el hospital](https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html) (Www.abc.es)
-
-- [Aitana Bonmatí given all-clear after recovering from viral meningitis](https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411) (Onefootball.com)
-
-- [Aitana Bonmatí recibe el alta](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html) (Europapress.es)
-
-- [Meningitis vírica: así es el cuadro por el que está ingresada Aitana Bonmatí](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm) (Lavozdegalicia.es)
-
 ## 25-27 (measles)
 
 - [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
@@ -2781,8 +2801,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
 
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
-
-- [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
 
 ## 25-27 (chikungunya)
 
