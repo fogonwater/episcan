@@ -1,8 +1,244 @@
 {
-  "last_updated": "2025-08-12 19:06",
-  "count_articles_total": 1180,
-  "count_articles_new": 17,
+  "last_updated": "2025-08-13 07:08",
+  "count_articles_total": 1209,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 23663,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "SC's directive on stray dogs a step back from humane, science-backed policy: Rahul Gandhi",
+      "description": "Rahul Gandhi criticizes the Supreme Court's order to remove stray dogs from Delhi-NCR. He calls it a setback to humane policies. The court's directive follows concerns about dog bites and rabies cases. Gandhi advocates for shelters, sterilization, and communi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/scs-directive-on-stray-dogs-a-step-back-from-humane-science-backed-policy-rahul-gandhi/articleshow/123252561.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123252598,width-1200,height-630,imgsize-31142,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-12 06:58:33",
+      "content": "Congress leader Rahul Gandhi on Tuesday said the Supreme Court directive to remove all stray dogs from Delhi-NCR is a step back from decades of humane, science-backed policy, and stressed that \"blank\u2026 [+2384 chars]",
+      "retrievedAt": "2025-08-13 07:08:57.011227",
+      "internal_id": "3cfd6f19c5e602babbfb748f8c7057662ea352fc5165735dcfe60a2adb3274da",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23673,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Agency Report",
+      "title": "Mpox: 12 cases discovered in Ondo as vaccination commences",
+      "description": "He described the disease as contagious, hence the need to contain its spread through vaccination in the state.",
+      "url": "https://www.premiumtimesng.com/health/health-news/813613-mpox-12-cases-discovered-in-ondo-as-vaccination-commences.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2025/08/Untitled-design-1.jpg",
+      "publishedAt": "2025-08-12 06:10:45",
+      "content": "No fewer than 12 cases of mpox have been discovered by the Ondo State Primary Healthcare Development Agency (OSPHDA) in eight Local Government Areas of the state. The Director of Disease Control of \u2026 [+2371 chars]",
+      "retrievedAt": "2025-08-13 07:08:59.139474",
+      "internal_id": "13bea4932a434694686dc017e50958789c61a5a4594ea4e14909293b563d55f0",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23672,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Inews.id",
+      "author": "Annastasya Rizqa",
+      "title": "Kasus Chikungunya Meningkat di Singapura, Berikut 5 Cara Mencegahnya",
+      "description": "Berikut tips cara mencegah serangan demam chikungunya yang kini menjadi kekhawatiran publik.",
+      "url": "https://www.inews.id/lifestyle/health/kasus-chikungunya-meningkat-di-singapura-berikut-5-cara-mencegahnya",
+      "urlToImage": "https://img.inews.co.id/media/600/files/inews_new/2025/08/12/1000100378.jpg",
+      "publishedAt": "2025-08-12 06:00:37",
+      "content": "JAKARTA, iNews.id - Kasus demam chikungunya mengalami lonjakan di Singapura dalam beberapa bulan terakhir. Berdasarkan data Badan Penyakit Menular (CDA) yang dirilis pada 7 Agustus 2025, terdapat 17 \u2026 [+1362 chars]",
+      "retrievedAt": "2025-08-13 07:08:59.033805",
+      "internal_id": "6d62291c82cfc19fc915d802bb78beead4e8432117e8da5b9da4801edbbaf188",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23665,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Ralph Riegel",
+      "title": "Ireland records first cholera case in over a decade as \u2018exotic\u2019 illnesses on the rise",
+      "description": "Clinics and hospitals are dealing with a surge in exotic illnesses, including the first case of cholera recorded in over a decade.",
+      "url": "https://www.independent.ie/irish-news/health/ireland-records-first-cholera-case-in-over-a-decade-as-exotic-illnesses-on-the-rise/a927891999.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/k7vjMgsXqVptwx0yYWz43cSb0No=/0x0:3111x2075/629x0/prod-mh-ireland/ca0be9cd-1cf9-45bb-9255-60ea04bd8518/c341e3c1-a682-4079-9c9e-977e0053acbc/ca0be9cd-1cf9-45bb-9255-60ea04bd8518.jpg",
+      "publishedAt": "2025-08-12 04:30:00",
+      "content": "Leprosy, dengue fever, malaria, Zika, giardiasis and West Nile fever have all been detected here in recent years Clinics and hospitals are dealing with a surge in exotic illnesses, including the fir\u2026 [+175 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.105301",
+      "internal_id": "c99e7287fecfae9bb9dd279dd42415e26b645e59230acd9c7481496b14faa358",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23664,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "pedro.diaz",
+      "title": "Confirman caso humano de gripe aviar A(H5N1) en ni\u00f1a de 10 a\u00f1os en Camboya",
+      "description": "Porfirio Escand\u00f3n El Ministerio de Salud de Camboya notific\u00f3 un nuevo caso humano de infecci\u00f3n por el virus de gripe aviar A(H5N1) en una ni\u00f1a menor de 10 a\u00f1os de la provincia de Takeo, seg\u00fan el m\u00e1s reciente bolet\u00edn sobre amenazas de enfermedades transmisibl\u2026",
+      "url": "https://www.excelsior.com.mx/global/gripe-aviar-h5n1-camboya-2025/1732411",
+      "urlToImage": "https://www.excelsior.com.mx/media/styles/image1200x630/public/pictures/2025/08/11/3358251.jpg",
+      "publishedAt": "2025-08-12 03:52:26",
+      "content": "El Ministerio de Salud de Camboya notific\u00f3 un nuevo caso humano de infecci\u00f3n por el virus de gripe aviar A(H5N1) en una ni\u00f1a menor de 10 a\u00f1os de la provincia de Takeo, seg\u00fan el m\u00e1s reciente bolet\u00edn s\u2026 [+4875 chars]",
+      "retrievedAt": "2025-08-13 07:08:57.846864",
+      "internal_id": "e9c5f85d923a615bc36f30b338a09665a1ffb820baa0329c264c252a39249611",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23661,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Hawaii News Now",
+      "author": "Hnn Staff",
+      "title": "Hawaii sees \u2018worrying rise\u2019 in whooping cough cases",
+      "description": "As of July 31, the department identified 203 cases of pertussis, also known as whooping cough, more than double the cases identified in all of 2024.",
+      "url": "https://www.hawaiinewsnow.com/2025/08/12/hawaii-sees-worrying-rise-whooping-cough-cases/",
+      "urlToImage": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/QBLOUL33FVHT5MUW4GIDUHEBTM.png?auth=5339dad9eee37290f8f0e99ce9248645135ba9bab7e94f2f9c867d348b0f4927&width=1200&height=600&smart=true",
+      "publishedAt": "2025-08-12 02:07:33",
+      "content": "HONOLULU (HawaiiNewsNow) - The Hawaii Department of Health is responding to what it calls a worrying rise in whooping cough cases statewide. As of July 31, the department identified 203 cases of per\u2026 [+1203 chars]",
+      "retrievedAt": "2025-08-13 07:08:56.614355",
+      "internal_id": "8cb0dc9b73f1d59b7c98c372a352c93abea80a2989d8383b48f97696b0ffd6c6",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23666,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Victoria Villafranca",
+      "title": "El menor miedo al VIH hace que la poblaci\u00f3n se 'relaje' en verano: los casos de gonorrea y clamidia se disparan un 30%",
+      "description": "Las infecciones son mayores en hombres, sin embargo, es m\u00e1s preocupante en las mujeres, ya que el n\u00famero ha crecido m\u00e1s r\u00e1pido, seg\u00fan Sanidad. M\u00e1s informaci\u00f3n: La vacuna de la meningitis, \u00faltima esperanza para frenar el auge de casos de gonorrea: \"Disminuir\u00e1 \u2026",
+      "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20250812/menor-miedo-vih-hace-poblacion-relaje-verano-casos-gonorrea-clamidia-disparan/1003743882164_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/08/11/actualidad/1003743882986_257925091_1706x960.jpg",
+      "publishedAt": "2025-08-12 00:06:56",
+      "content": "El estigma y el miedo a contraer enfermedades como el VIH ha disminuido entre la poblaci\u00f3n espa\u00f1ola. Esto ha hecho que los ciudadanos se relajen a la hora de utilizar m\u00e9todos de barrera para evitar i\u2026 [+3628 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.270461",
+      "internal_id": "46b8153a3bcdc44c1a38c3d4d661bfe6d093d480ab9ad75081af99551fe9b53e",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 23667,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Good News Network",
+      "author": "Good News Network",
+      "title": "Meningitis Can Now Be Quickly Spotted in Babies Thanks to New Non-Invasive Test With 94% Accuracy",
+      "description": "Meningitis can be quickly spotted in babies with \"great accuracy\" thanks to a new non-invasive test that negates the need for a spinal tap.",
+      "url": "https://www.goodnewsnetwork.org/meningitis-can-now-be-quickly-spotted-in-babies-with-new-non-invasive-test-with-94-accuracy/",
+      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/08/Neosonics-device-for-testing-Meningitis-by-New-Born-Solutions.jpg",
+      "publishedAt": "2025-08-11 23:57:19",
+      "content": "By New Born Solutions Meningitis can be quickly spotted in babies with \u201cgreat accuracy\u201d thanks to a new non-invasive device developed to do the testing anywhere its needed. A study showed that it i\u2026 [+3434 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.279869",
+      "internal_id": "559c46aa72c9aa22c3450a59ba2cfc3e9638e90d71fa904b6112dfb5312158bb",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23671,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Josh Fischman",
+      "title": "Should You Worry the New Chikungunya Virus Outbreak in China Could Reach the U.S?",
+      "description": "Experts say the painful infection, spread to people from mosquitoes, can get to many countries if it finds the right hosts",
+      "url": "https://www.scientificamerican.com/article/should-you-worry-the-new-chikungunya-virus-outbreak-in-china-could-reach-the/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3be561f5d3d279e/original/aedes_aegypti_mosquito_feeding_on_human.jpg?m=1754947862.939&w=1200",
+      "publishedAt": "2025-08-11 22:00:00",
+      "content": "Thousands of cases of the chikungunya virus, which sickens people bitten by an infected mosquito, have broken out in China during the past week. The virus causes extremely severe joint pain and fever\u2026 [+4551 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.882738",
+      "internal_id": "3500874f24b354d64abe4b90d55a55c1c5f291b6547c9685326cb6b88c082370",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23670,
+      "query": [
+        "zika"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dino autoriza Uni\u00e3o a pagar pens\u00e3o a v\u00edtimas do zika v\u00edrus sem restri\u00e7\u00f5es fiscais at\u00e9 mar\u00e7o",
+      "description": "O ministro Fl\u00e1vio Dino, do Supremo Tribunal Federa...",
+      "url": "https://valor.globo.com/brasil/noticia/2025/08/11/dino-autoriza-uniao-a-pagar-pensao-a-vitimas-do-zika-virus-sem-restricoes-fiscais-ate-marco.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bQWJu59lFxxzHx7OEdUE0EPUqu0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/D/z/ydE9C2QJizy7wu94z7Cw/foto13pol-201-emendas-a16.jpg",
+      "publishedAt": "2025-08-11 20:46:39",
+      "content": "O ministro Fl\u00e1vio Dino, do Supremo Tribunal Federal (STF), autorizou que a Uni\u00e3o pague aux\u00edlio e pens\u00e3o a crian\u00e7as v\u00edtimas do v\u00edrus zika sem seguir regras fiscais ou indicar fonte de custeio at\u00e9 31 d\u2026 [+1967 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.709997",
+      "internal_id": "af109312160c530571c61b55410aa23e1616b0ce361ca5a5b1a162ec0926aec0",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23669,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Manoela Alc\u00e2ntara",
+      "title": "Dino autoriza governo a pagar indeniza\u00e7\u00e3o para v\u00edtimas do v\u00edrus Zika",
+      "description": "Fl\u00e1vio Dino atendeu a pedido da AGU e abriu exce\u00e7\u00e3o \u00e0 incompatibilidade fiscal para pagar o benef\u00edcio",
+      "url": "https://www.metropoles.com/brasil/dino-autoriza-governo-a-pagar-indenizacao-para-vitimas-do-virus-zika",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/05/27155254/Febre-amarela-malaria-ou-Mosquito-infectado-virus-Zika-picada-de-inseto-em-fundo-escuro.jpg",
+      "publishedAt": "2025-08-11 20:45:48",
+      "content": "O ministro do Supremo Tribunal Federal (STF) Fl\u00e1vio Dino autorizou, nesta segunda-feira (11/8), o governo a pagar imediatamente, em car\u00e1ter excepcional, indeniza\u00e7\u00e3o a fam\u00edlias de crian\u00e7as v\u00edtimas do \u2026 [+3821 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.693796",
+      "internal_id": "3af169acb08a443edb8403697cdb8b857d252927ed67f6962294d5c2506fe339",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23662,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Bat tests positive for rabies in Mississauga, prompting reminder not to touch wild animals",
+      "description": "A bat has tested positive for rabies virus in Mississauga, Peel Public Health say. The agency is reminding residents to avoid touching wild or unknown animals.",
+      "url": "https://www.cbc.ca/news/canada/toronto/bat-tests-positive-for-rabies-in-mississauga-1.7606162",
+      "urlToImage": "https://i.cbc.ca/1.7369856.1730403433!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/researcher-with-bats.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-11 20:26:36",
+      "content": "A bat has tested positive for rabies in Mississauga and public health officials are reminding residents to avoid touching wild or unknown animals. Peel Public Health confirmed the case near Derry Ro\u2026 [+1078 chars]",
+      "retrievedAt": "2025-08-13 07:08:56.986069",
+      "internal_id": "7ba02c2d2af9637ada7ec74c59a851cb1930d43d4827b5037e3231cdd00cbaec",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 23668,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Pedro Pupulim",
+      "title": "STF garante pagamento de indeniza\u00e7\u00e3o e pens\u00e3o a v\u00edtimas do Zika v\u00edrus",
+      "description": "Ministro acatou pedido da AGU, que pediu \u00e0 Corte a abertura de uma exce\u00e7\u00e3o \u00e0 incompatibilidade fiscal",
+      "url": "https://veja.abril.com.br/coluna/radar/stf-garante-pagamento-de-indenizacao-e-pensao-a-vitimas-do-zika-virus/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/12/54135825405_44d24c89b5_k.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-08-11 19:48:30",
+      "content": "Dia dos Pais: Revista em casa por 7,50/semana O ministro do Supremo Tribunal Federal Fl\u00e1vio Dino, relator das a\u00e7\u00f5es sobre as emendas parlamentares (Gustavo Moreno/STF) Continua ap\u00f3s publicidade O\u2026 [+1139 chars]",
+      "retrievedAt": "2025-08-13 07:08:58.668570",
+      "internal_id": "fa6256c1c7a0d0e90aa33ca4b15f48626670c3945f81a7774cf36f3855cfa1e8",
+      "publishedAtLabel": "Aug 11"
+    },
     {
       "id": 23659,
       "query": [
@@ -21334,6 +21570,294 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2025-07-01 07:08:25.884493",
       "internal_id": "43130435f293563f3e1d391a22577484a163de99fbf539d7ffc8d8e84b9a6177",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "health@gnusolidario.org",
+      "title": "gnuhealth-ntd-dengue 5.0.0rc3",
+      "description": "Neglected Tropical Diseases - Dengue fever package for GNU Health",
+      "url": "https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-29 17:57:34",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-30 19:06:02.135333",
+      "internal_id": "1b752b634c1ef938fb9705dead4ea1283a8972cc724e8424046cd2a10e74c6f3",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22474,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sport.orf.at",
+      "author": "ORF.at",
+      "title": "Spaniens Bonmati aus Krankenhaus entlassen",
+      "description": "",
+      "url": "https://sport.orf.at/stories/3142898/",
+      "urlToImage": "https://sport.orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-sport.png",
+      "publishedAt": "2025-06-29 16:21:36",
+      "content": "Aitana Bonmati hat ihre virale Meningitis \u00fcberstanden. Die zweifache Weltfu\u00dfballerin konnte das Krankenhaus verlassen und wird bald zum Nationalteam sto\u00dfen, gab der spanische Verband am Sonntag bekan\u2026 [+375 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.317228",
+      "internal_id": "a143a2c1f3954b4cc8bb865fd1e67ad33c941cf8ac3f9457c78d7fd287800e14",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22473,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Carlos Serrano",
+      "title": "Aitana Bonmat\u00ed vuelve con el grupo tras haber superado una meningitis v\u00edrica que le oblig\u00f3 a estar ingresada en el hospital",
+      "description": "La jugadora del Bar\u00e7a no formar\u00e1 parte de la expedici\u00f3n que viaja este domingo a Suiza, aunque s\u00ed estar\u00e1 a las \u00f3rdenes de Montse Tom\u00e9 en la Eurocopa. M\u00e1s informaci\u00f3n: Aitana Bonmat\u00ed, ingresada en el hospital por una meningitis v\u00edrica a una semana del comienzo\u2026",
+      "url": "https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/06/29/actualidad/1003743826357_256884197_1706x960.jpg",
+      "publishedAt": "2025-06-29 15:57:46",
+      "content": "Las jugadoras de la Selecci\u00f3n y Montse Tom\u00e9 por fin respiran aliviadas. Aitana Bonmat\u00ed ha recibido el alta hospitalaria tras sufrir una meningitis v\u00edrica que le oblig\u00f3 a ser ingresada en el hospital \u2026 [+2316 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.298787",
+      "internal_id": "fe1f82d65aa794aa3951475a3c2682cd0ed74a32b3cadad0789461ce52317b2d",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22469,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Relief for Spain as Bonmati cleared to return after health scare",
+      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunday.The 27-year-old missed Spain's 3-1 victory over Japan in a\u2026",
+      "url": "https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--4Z-uBhJj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-29t155515z_1_lynxmpel5s08e_rtroptp_3_soccer-champions-ars-bar-report.jpg?itok=hr4k1YLb",
+      "publishedAt": "2025-06-29 15:55:15",
+      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunda\u2026 [+696 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.172703",
+      "internal_id": "b86ef922b3f58ad3bd6c9e12ee494c50cd2ca187a72a23c1608c669c3f821f3c",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22475,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras positivo a meningitis y se incorporar\u00e1 con Espa\u00f1a para la Eurocopa",
+      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de unameningitis v\u00edricay se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \"en los pr\u00f3ximos d\u00edas\".La Real Federaci\u00f3n Espa\u00f1ola de \u2026",
+      "url": "https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/29/aitana-bonmati-disponible-eurocopa-femenina.jpg",
+      "publishedAt": "2025-06-29 14:00:00",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+2173 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.326536",
+      "internal_id": "3e4901857ce94be3621bc0117905915263e6dec77ce205d9d2d501d7dc894142",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22471,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Frauen-Fu\u00dfball: Spanien-Star Bonmati nach Meningitis wohl fit f\u00fcr EM",
+      "description": "Sie ist eine Schl\u00fcsselspielerin im Team der Weltmeisterinnen. Doch Aitana Bonmati zieht sich in der Vorbereitung eine Erkrankung zu. Jetzt gibt es positive Signale f\u00fcr die EM in der Schweiz.",
+      "url": "https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13936150/alternates/BASE_16_9_W1400/1751199901000/aitana-bonmati.jpeg",
+      "publishedAt": "2025-06-29 12:25:01",
+      "content": "Weltfu\u00dfballerin Aitana Bonmati steht Spanien bei der EM der Frauen nach ihrer Meningitis-Erkrankung wohl zur Verf\u00fcgung. Die Mittelfeldspielerin habe das Krankenhaus am Sonntag verlassen und werde in \u2026 [+2237 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.235055",
+      "internal_id": "f60116bc7f8d5d1bf452689b1817f4e5bb3bd1ca28a40725efaa6f83fdf1fd35",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22480,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Libertad Digital",
+      "title": "Aitana Bonmat\u00ed sale del hospital y est\u00e1 a punto de reincorporarse a la selecci\u00f3n",
+      "description": "La centrocampista ha estado varios d\u00edas hospitalizada a causa de una meningitis v\u00edrica y en principio llegar\u00e1 a tiempo para la Eurocopa.",
+      "url": "https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/",
+      "urlToImage": "https://s.libertaddigital.com/2025/06/28/1200/627/1344x229/ld/2806-aitana-bonmati.jpg",
+      "publishedAt": "2025-06-29 12:12:43",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+1912 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.423616",
+      "internal_id": "f3ead69fcc298a0b690ac0d2e7bc910a7eb7482d796d73d5554d3f40c9474122",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22476,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "espn",
+      "source_name": "ESPN",
+      "author": "ESPN",
+      "title": "Bonmati out of hospital; to rejoin Spain squad",
+      "description": "Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days.",
+      "url": "https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0629%2Fr1512612_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-06-29 12:05:03",
+      "content": "Jun 29, 2025, 07:13 AM ET Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days. Bonmati was hospitalis\u2026 [+737 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.350447",
+      "internal_id": "426566fc542a837211e5ce93f153ef9cf6436b80484c3cca8f95b8fa9710798b",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22466,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Matt Davis",
+      "title": "Bonmati discharged from hospital after meningitis",
+      "description": "Spain midfielder Aitana Bonmati is discharged from hospital after being treated for viral meningitis days before the start of Euro 2025.",
+      "url": "https://www.bbc.com/sport/football/articles/clyln3140y7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c647/live/adef9d40-54de-11f0-b137-b1f711ab20bb.jpg",
+      "publishedAt": "2025-06-29 11:49:34",
+      "content": "Euro 2025 in Switzerland starts on Wednesday and Spain play Portugal in their opening Group B game in Bern on Thursday. \"Thanks to everyone for the messages I've received and to those who have helpe\u2026 [+788 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.043834",
+      "internal_id": "ae52eb8a7b777d9d4f79bed41605079916b9b225b1431fc2e1798b297b9af2c1",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22479,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras su meningitis v\u00edrica",
+      "description": "La centrocampista del Barcelona se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \u00aben los pr\u00f3ximos d\u00edas\u00bb, tal y como ha informado la Federaci\u00f3n",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm",
+      "urlToImage": "https://img.lavdg.com/sc/_GKeOffWRkK0hmEb5tIRsiPdGkk=/1280x/2025/06/29/00121751197562198131411/Foto/eup_20250624_112344443.jpg",
+      "publishedAt": "2025-06-29 11:48:00",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido el alta hospitalaria este domingo tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+2536 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.407472",
+      "internal_id": "d94048b0980835c431125087adb1cb23b7832da8044e94310cc900232f5d7995",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22467,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky Sports",
+      "author": null,
+      "title": "Spain's Bonmati discharged from hospital after being treated for viral meningitis",
+      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025.",
+      "url": "https://www.skysports.com/football/news/12024/13390093/spains",
+      "urlToImage": "https://e0.365dm.com/25/06/1600x900/skysports-spain-bonmati-aitana_6952360.jpg?20250628094423",
+      "publishedAt": "2025-06-29 11:45:00",
+      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025. With the tournament scheduled to start on Wednesda\u2026 [+1664 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.067302",
+      "internal_id": "34cd8bd9da1c573d92c934f4578cf46e11a31ddfd2d076a8884047663e39ed7b",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22472,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Efe",
+      "title": "Aitana Bonmat\u00ed sale del hospital tras superar una meningitis v\u00edrica y se reincorporar\u00e1 a la selecci\u00f3n en los pr\u00f3ximos d\u00edas",
+      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se...",
+      "url": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/345714d11b5a409b37e765eb2e287854/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/29/17511969174391.jpg",
+      "publishedAt": "2025-06-29 11:35:47",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+1909 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.275075",
+      "internal_id": "769cf9745d66da63667ef9407272c2b455f9f916a979f82b6d54b663008452ef",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22478,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Aitana Bonmat\u00ed. ingresada el viernes por meningitis v\u00edrica, recibe el alta y abandona el hospital",
+      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
+      "url": "https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2025/06/29/aitana-U28350064152abP-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-06-29 11:12:57",
+      "content": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los\u2026 [+1082 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.390742",
+      "internal_id": "fd63cd6215ab38047ce84c6cc4cd69dc2d37e656c3e7fe419b889b0a16581f31",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22468,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Onefootball.com",
+      "author": null,
+      "title": "Aitana Bonmat\u00ed given all-clear after recovering from viral meningitis",
+      "description": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa...",
+      "url": "https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411",
+      "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41306411%3Fdate=2025-06-29",
+      "publishedAt": "2025-06-29 10:46:00",
+      "content": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa\u2026 [+821 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.163821",
+      "internal_id": "10fdb7c0b8f213f6a975293de0df90155c354e4fba16781db186943720071d97",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22477,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Aitana Bonmat\u00ed recibe el alta",
+      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
+      "url": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250629123905_1200.jpg",
+      "publishedAt": "2025-06-29 10:39:05",
+      "content": "La centrocampista fue ingresada el viernes por meningitis v\u00edrica MADRID, 29 Jun. (EUROPA PRESS) - La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, desp\u2026 [+1160 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.367423",
+      "internal_id": "fe456a3123379f5eb2fb67b05b9fcc9af507ed843317ee6d44cb600474e57ca9",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22470,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz de la Salud",
+      "title": "Meningitis v\u00edrica: as\u00ed es el cuadro por el que est\u00e1 ingresada Aitana Bonmat\u00ed",
+      "description": "La futbolista catalana se encuentra hospitalizada por una infecci\u00f3n de las membranas que recubren el cerebro",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm",
+      "urlToImage": "https://img.lavdg.com/sc/9gfjTtZUDTkU0PH3o6FYmErx7kc=/1280x/2025/04/15/00121744674677372857416/Foto/EuropaPress_6643701_aitana_bonmati_of_fc_barcelona_looks_on_during_the_spanish_women_league-EP.jpg",
+      "publishedAt": "2025-06-29 08:53:00",
+      "content": "Aitana Bonmat\u00ed se encuentra ingresada en Madrid.Tras un proceso febril que le impidi\u00f3 entrenar el jueves y participar en el partido amistoso de la selecci\u00f3n frente a Jap\u00f3n el viernes, la futbolista d\u2026 [+7979 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.188645",
+      "internal_id": "3d8bfa4e056ee75b47118c2cc48bb74b44e0e160f7fadd771f4151c7566205ed",
       "publishedAtLabel": "Jun 29"
     }
   ]
