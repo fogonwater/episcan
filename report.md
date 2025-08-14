@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-08-13 19:06
-- **Most recent article:** 2025-08-12 19:01:37
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-08-14 07:08
+- **Most recent article:** 2025-08-13 06:30:14
 
 ---
 
@@ -13,12 +13,12 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 35 | 114 | 64 | 47 | 30 | 26 | 8 | 324 |
-| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 20 | 297 |
-| dengue | 23 | 34 | 24 | 36 | 32 | 17 | 14 | 180 |
+| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 24 | 301 |
+| dengue | 24 | 34 | 24 | 36 | 32 | 17 | 15 | 182 |
 | malaria | 21 | 29 | 12 | 18 | 13 | 18 | 6 | 117 |
 | rabies | 17 | 17 | 4 | 11 | 10 | 11 | 10 | 80 |
+| meningitis | 40 | 7 | 7 | 12 | 3 | 1 | 4 | 74 |
 | yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 6 | 58 |
-| meningitis | 25 | 7 | 7 | 12 | 3 | 1 | 3 | 58 |
 | mpox | 10 | 6 | 7 | 9 | 13 | 10 | 2 | 57 |
 | h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 3 | 52 |
 | zika | 8 | 12 | 8 | 2 | 7 | 8 | 6 | 51 |
@@ -94,6 +94,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (meningitis)
 
+- [Recent advances in organic molecule fluorescent probes for microbial imaging](https://pubs.rsc.org/en/content/articlelanding/2025/tb/d5tb01373a) (Royal Society of Chemistry)
+
 - [Actor Dedan Juma Pleads for Financial Help as He Fights for Life in Hospital](https://www.tuko.co.ke/entertainment/celebrities/599328-actor-dedan-juma-pleads-financial-fights-life-hospital/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
 - [El menor miedo al VIH hace que la población se 'relaje' en verano: los casos de gonorrea y clamidia se disparan un 30%](https://www.elespanol.com/invertia/observatorios/sanidad/20250812/menor-miedo-vih-hace-poblacion-relaje-verano-casos-gonorrea-clamidia-disparan/1003743882164_0.html) (Elespanol.com)
@@ -142,6 +144,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (dengue)
 
+- [Hawaii reports 12th case of travel-related dengue this year | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/08/12/breaking-news/hawaii-reports-12th-case-of-travel-related-dengue-this-year/) (Honolulu Star-Advertiser)
+
 - [Beliebte Stadt in Italien komplett desinfiziert wegen Panik nach Denguefieber-Fall](https://www.focus.de/reisen/beliebte-stadt-in-italien-komplett-desinfiziert-wegen-panik-nach-denguefieber-fall_2c08213e-61fd-4a9d-8e15-bf2ab8e09752.html) (Focus)
 
 - [Panik nach Denguefieber-Fall: Bozen desinfiziert große Teile der Stadt](https://www.focus.de/reisen/panik-nach-denguefieber-fall-bozen-desinfiziert-grosse-teile-der-stadt_2c08213e-61fd-4a9d-8e15-bf2ab8e09752.html) (Focus)
@@ -171,6 +175,14 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
 
 ## 25-33 (chikungunya)
+
+- [Horror pictures of Chikungunya virus symptoms emerge as China impose 'forceful pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-pictures-symptoms-china-273117-20250813) (LADbible)
+
+- [Wolbachia transinfection: China’s plan to mate lab mosquitoes with wild ones to tackle chikungunya](https://economictimes.indiatimes.com/news/international/us/wolbachia-transinfection-chinas-plan-to-mate-lab-mosquitoes-with-wild-ones-to-tackle-chikungunya/articleshow/123272449.cms) (The Times of India)
+
+- [A La Réunion, la crainte des malades d’être confrontés à un « chikungunya long »](https://www.lemonde.fr/sciences/article/2025/08/13/a-la-reunion-la-crainte-des-malades-d-etre-confrontes-a-un-chikungunya-long_6628850_1650684.html) (Le Monde)
+
+- [How China is battling the chikungunya virus](https://theweek.com/health/how-china-is-battling-the-chikungunya-virus) (The Week Magazine)
 
 - [Due nuovi casi di Chikungunya a Carpi, coppia anziani sta bene](https://www.ansa.it/emiliaromagna/notizie/2025/08/12/due-nuovi-casi-di-chikungunya-a-carpi-coppia-anziani-sta-bene_4d557330-0901-4e3a-9d3c-a11efc9b8fea.html) (ANSA.it)
 
@@ -2610,6 +2622,36 @@ Source: [News API](https://newsapi.org/)
 
 - [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
 
+- [Spaniens Bonmati aus Krankenhaus entlassen](https://sport.orf.at/stories/3142898/) (Sport.orf.at)
+
+- [Aitana Bonmatí vuelve con el grupo tras haber superado una meningitis vírica que le obligó a estar ingresada en el hospital](https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html) (Elespanol.com)
+
+- [Relief for Spain as Bonmati cleared to return after health scare](https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271) (CNA)
+
+- [Aitana Bonmatí recibe el alta médica tras positivo a meningitis y se incorporará con España para la Eurocopa](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa) (Milenio)
+
+- [Frauen-Fußball: Spanien-Star Bonmati nach Meningitis wohl fit für EM](https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html) (Der Tagesspiegel)
+
+- [Aitana Bonmatí sale del hospital y está a punto de reincorporarse a la selección](https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/) (Libertaddigital.com)
+
+- [Bonmati out of hospital; to rejoin Spain squad](https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad) (ESPN)
+
+- [Bonmati discharged from hospital after meningitis](https://www.bbc.com/sport/football/articles/clyln3140y7o) (BBC News)
+
+- [Aitana Bonmatí recibe el alta médica tras su meningitis vírica](https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm) (Lavozdegalicia.es)
+
+- [Spain's Bonmati discharged from hospital after being treated for viral meningitis](https://www.skysports.com/football/news/12024/13390093/spains) (Sky Sports)
+
+- [Aitana Bonmatí sale del hospital tras superar una meningitis vírica y se reincorporará a la selección en los próximos días](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html) (El Mundo)
+
+- [Aitana Bonmatí. ingresada el viernes por meningitis vírica, recibe el alta y abandona el hospital](https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html) (Www.abc.es)
+
+- [Aitana Bonmatí given all-clear after recovering from viral meningitis](https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411) (Onefootball.com)
+
+- [Aitana Bonmatí recibe el alta](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html) (Europapress.es)
+
+- [Meningitis vírica: así es el cuadro por el que está ingresada Aitana Bonmatí](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm) (Lavozdegalicia.es)
+
 ## 25-27 (measles)
 
 - [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
@@ -2801,6 +2843,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
 
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
+
+- [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
 
 ## 25-27 (chikungunya)
 
