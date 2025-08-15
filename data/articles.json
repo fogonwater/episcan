@@ -1,8 +1,425 @@
 {
-  "last_updated": "2025-08-15 07:08",
-  "count_articles_total": 1265,
-  "count_articles_new": 12,
+  "last_updated": "2025-08-15 19:05",
+  "count_articles_total": 1272,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 23737,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slate.fr",
+      "author": "L\u00e9a Polverini",
+      "title": "La crise climatique provoque des \u00e9pid\u00e9mies de dengue dans le Pacifique",
+      "description": "Tout porte \u00e0 croire que dans les ann\u00e9es \u00e0 venir, ces crises vont se multiplier et s'aggraver.",
+      "url": "https://www.slate.fr/monde/crise-climatique-epidemies-dengue-pacifique",
+      "urlToImage": "https://www.slate.fr/uploads/store/story_270987/original_270987.jpg",
+      "publishedAt": "2025-08-14 18:55:03",
+      "content": "La dengue fait rage dans le Pacifique: ces derniers mois, des pr\u00e9cipitations extr\u00eames, coupl\u00e9es \u00e0 de graves s\u00e9cheresses, ont fait exploser l'\u00e9pid\u00e9mie \u00e0 travers la r\u00e9gion. Les Samoa, les Fidji et le\u2026 [+2360 chars]",
+      "retrievedAt": "2025-08-15 19:05:55.968609",
+      "internal_id": "b0399e56112cc83274be0b54a1e61e75217140e301074c576acd36e36e2147b2",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23732,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Outside",
+      "author": "Maddy Dapcevich",
+      "title": "Grand Teton Rabies Scare: Hundreds of Visitors Potentially Exposed",
+      "description": "Officials believe at least 200 people may have been exposed to rabies while visiting a hotel in Grand Teton National Park. The post Grand Teton Rabies Scare: Hundreds of Visitors Potentially Exposed appeared first on Outside Online.",
+      "url": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/200-teton-park-visitors-exposed-rabies/#article",
+      "urlToImage": "https://www.outsideonline.com/wp-content/uploads/2025/08/GettyImages-1336863742.jpg",
+      "publishedAt": "2025-08-14 18:34:32",
+      "content": "Officials believe at least 200 people may have been exposed to rabies while visiting a hotel in Grand Teton National Park. Bookmark Icon Save Dean Fikar/Getty Images Officials with the Wyoming De\u2026 [+4316 chars]",
+      "retrievedAt": "2025-08-15 19:05:54.761946",
+      "internal_id": "e06d01ae224f6ee040e22050a1dee50087c7b528d9689d55b934a91ae1f60e66",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23743,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Sospetto caso importato di Zika o Chikungunya a Trento",
+      "description": "\u00c8 stato segnalato nella citt\u00e0 di Trento un caso sospetto di Zika o Chikungunya ancora in corso di conferma diagnostica in un cittadino residente a Trento rientrato da un viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/08/14/sospetto-caso-importato-di-zika-o-chikungunya-a-trento_1772c8df-dd24-45f6-b80d-b701332db7a5.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2017/9/5/b61e9d11c79624a7f2987cc9eb780a7c.jpg",
+      "publishedAt": "2025-08-14 17:31:05",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.152866",
+      "internal_id": "cd498b314c181785ea76a9fd636033b979cc00f175319ebd5c0f7ae07543b988",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23744,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Sospetto caso importato di Zika o Chikungunya a Trento",
+      "description": "\u00c8 stato segnalato nella citt\u00e0 di Trento un caso sospetto di Zika o Chikungunya ancora in corso di conferma diagnostica in un cittadino residente a Trento rientrato da un viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/trentino/notizie/2025/08/14/sospetto-caso-importato-di-zika-o-chikungunya-a-trento_2137f78b-9ff1-4267-b925-e45f3b72a7d4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2017/9/5/b61e9d11c79624a7f2987cc9eb780a7c.jpg",
+      "publishedAt": "2025-08-14 17:31:03",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.169196",
+      "internal_id": "1194c0ee72860d705fdffa4b4589c66d119aea75efc61110acce58610882b406",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23730,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WSIL TV",
+      "author": "Mike Mohundro",
+      "title": "Whooping cough confirmed at Herrin Elementary; parents alerted",
+      "description": "HERRIN, Ill. (WSIL) -- According to the superintendent at the Herrin Community Unit School District, there has been a confirmed case of whooping cough (pertussis) in their school district.",
+      "url": "https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/a/d2/ad2d097e-6a4d-4362-8961-aacafceef9ab/689e18bb62014.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-08-14 17:09:00",
+      "content": "HERRIN, Ill. (WSIL) -- According to the superintendent at the Herrin Community Unit School District, there has been a confirmed case of whooping cough (pertussis) in their school district. Nathaniel\u2026 [+755 chars]",
+      "retrievedAt": "2025-08-15 19:05:54.570158",
+      "internal_id": "953bda647239dac98d9e14fbd60be89acdb5b5207ba7c16332a617c269378a18",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23734,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ottawa Public Health investigating city's 5th measles case",
+      "description": "Ottawa Public Heath is warning people at three Bank Street businesses, a movie theatre, a gym, and a craft store that they may need to take action against a potential measles exposure.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-public-health-investigating-city-s-5th-measles-case-1.7608909",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1754607205!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-14 16:24:41",
+      "content": "Ottawa Public Heath is warning people who visited three Bank Street businesses along with a movie theatre, a gym, and a craft store last week that they may have been exposed to measles. In a Thursda\u2026 [+1161 chars]",
+      "retrievedAt": "2025-08-15 19:05:55.117818",
+      "internal_id": "aac3e9bff5517f402445b8942705e84e1b18a511989cd69ec7a2ad3d51b6311d",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23745,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u0386\u03c4\u03c3\u03b7",
+      "title": "\u039c\u03b5 \u03c4\u03bf \u03c0\u03b1\u03c1\u03ac\u03be\u03b5\u03bd\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 chikungunya \u2013 \u0397 \u03ad\u03ba\u03c1\u03b7\u03be\u03b7 \u03b5\u03bd\u03cc\u03c2 \u03b9\u03bf\u03cd \u03c0\u03bf\u03c5 \u00ab\u03c3\u03ba\u03bf\u03c4\u03ce\u03bd\u03b5\u03b9\u00bb \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1 \u03b1\u03bb\u03bb\u03ac \u03c0\u03bf\u03bd\u03ac\u03b5\u03b9 \u03c0\u03bf\u03bb\u03cd",
+      "description": "\u039c\u03b5 \u03be\u03ad\u03c3\u03c0\u03b1\u03c3\u03bc\u03b1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd chikungunya, \u03bc\u03b9\u03b1\u03c2 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9\u03b1, \u03c0\u03b1\u03bb\u03b5\u03cd\u03b5\u03b9 \u03b7 \u039a\u03af\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u039a\u03ad\u03bd\u03c4\u03c1\u03b1 \u0395\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7\u03c2 \u039d\u03bf\u03c3\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03bd\u03b1 \u03b5\u03ba\u03b4\u03af\u03b4\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03bc\u03ae\u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03b3\u03b9\u03b1\u2026 \u039c\u03b5 \u03c4\u03bf \u03c0\u03b1\u03c1\u03ac\u03be\u03b5\u03bd\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 chikungunya \u2013 \u0397 \u03ad\u03ba\u03c1\u03b7\u03be\u03b7\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1993705/me-to-paraxeno-onoma-chikungunya-i-ekrixi-enos-ioy-poy-skotonei-spania-alla-ponaei-poly/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2020/12/1676040.jpeg",
+      "publishedAt": "2025-08-14 15:35:23",
+      "content": "chikungunya, , . , 10 . , , 640 . drones . chikungunya, . 1952 , 100 . CDC, 2019. Chikungunya , : Aedes aegypti Aedes albopictus, . , , , . 2004, , . , . . , CDC. , , . , , , . \u2026 [+156 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.620533",
+      "internal_id": "1ed25dded484de44306db6af77b66d3bb0519628bb330ffa199fc3a4eec4d6a9",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23752,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Typhoid vaccination campaign rescheduled to 12 October",
+      "description": "EPI Programme Manager Abul Fazal Md Shahabuddin Khan told The Business Standard that the vaccination campaign will start on 12 October. \u201cFor the first 10 days, the vaccine will be administered through school and madrasah campaigns and for the next eight days,\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccination-campaign-rescheduled-12-october-1212521",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bkash_savings_aug_25/public/images/2025/08/11/image-300795-1754918261.jpg",
+      "publishedAt": "2025-08-14 15:35:11",
+      "content": "The government has postponed the launch of its first-ever nationwide typhoid vaccination campaign to 12 October, shifting it from the earlier date of 1 September. Under the Expanded Programme on Imm\u2026 [+3756 chars]",
+      "retrievedAt": "2025-08-15 19:05:58.030003",
+      "internal_id": "578aaa919d28630d33b7738aa96ba312d58fce3f28f562e2fec6c2126244cf1c",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23731,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Boredpanda.com",
+      "author": "Edvinas Jovai\u0161as",
+      "title": "23 Lies Parents Just Told Their Kids, Without Realizing How Much It Would Mess Them Up",
+      "description": "When I was a kid, the adults often told me that if a dog bit me, I would\u2019ve to get 40 injections in my belly, supposedly to avoid rabies. Now I understand perfectly well that this was just a horror story for kids of that time, but back then, I developed a ful\u2026",
+      "url": "https://www.boredpanda.com/small-lies-messed-up-people-msn/",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/07/small-lies-messed-up-people-fb39.png",
+      "publishedAt": "2025-08-14 15:00:55",
+      "content": "Article created by: R\u016bta Zumbrickait\u0117 When I was a kid, the adults often told me that if a dog bit me, I would\u2019ve to get 40 injections in my belly, supposedly to avoid rabies. Now I understand perfe\u2026 [+559 chars]",
+      "retrievedAt": "2025-08-15 19:05:54.751777",
+      "internal_id": "d9d039a5750a751b51b01fbb02bf2c336ceec1a990cdfc1e1deb1a6476820d52",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23742,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nbcnews.na",
+      "author": null,
+      "title": "Health Minister declares end to Cholera and Malaria outbreaks",
+      "description": "The Minister of Health and Social Services Esperance Luvindao announced the end of the cholera and malaria outbreak following a thorough epidemiological assessment and in accordance with World Health Organisation guidelines.",
+      "url": "https://nbcnews.na/node/112341",
+      "urlToImage": "https://nbcnews.na/sites/default/files/styles/large/public/2025-08/Health%20outbreaks.png?itok=dvXzBT99",
+      "publishedAt": "2025-08-14 15:00:44",
+      "content": "The Minister of Health and Social Services Esperance Luvindao announced the end of the cholera and malaria outbreak following a thorough epidemiological assessment and in accordance with World Health\u2026 [+1681 chars]",
+      "retrievedAt": "2025-08-15 19:05:56.768482",
+      "internal_id": "b1f5d87371e911692feb04a4b93aceca3a80410d2808cabea92bb8eada7aee5e",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23735,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "State health officials warn of measles exposure at Children\u2019s Hospital Colorado",
+      "description": "An Adams County child is in the hospital with measles, and Colorado public health officials warn of possible exposure at Children's Hospital.",
+      "url": "https://www.denverpost.com/2025/08/14/measles-childrens-hospital-colorado/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2021/06/TDP-L-CHILDRENS_HOSPITAL_025x.jpg?w=1024&h=683",
+      "publishedAt": "2025-08-14 14:51:53",
+      "content": "An Adams County child is in the hospital with measles, and Colorado public health officials said people who visited the emergency room at about the same time could have gotten the highly contagious v\u2026 [+1536 chars]",
+      "retrievedAt": "2025-08-15 19:05:55.149206",
+      "internal_id": "b363e1737ef57068a985c33a9be3aef45e06c4ebb9d67c39ac91f17d22bab479",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23747,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Berit Uhlmann",
+      "title": "Chikungunya-Virus: \u201eDie Bedingungen f\u00fcr lokale \u00dcbertragungen sind derzeit g\u00fcnstig\u201c",
+      "description": "Das Chikungunya-Virus breitet sich weltweit aus. China ist aktuell stark betroffen, doch Experten rechnen auch mit Infektionen in Deutschland. Was ist das f\u00fcr ein Erreger \u2013 und wie kann man sich sch\u00fctzen?",
+      "url": "https://www.sueddeutsche.de/gesundheit/chikungunya-risiko-ausbreitung-europa-deutschland-li.3296851",
+      "urlToImage": "https://www.sueddeutsche.de/2025/08/14/b83d25fc-7ed1-4771-b796-6d66017be07d.jpg?q=60&fm=webp&width=1200&rect=0%2C96%2C1840%2C1035",
+      "publishedAt": "2025-08-14 14:23:19",
+      "content": "Auch wenn die chinesische Rigorosit\u00e4t un\u00fcblich ist: Die Krankheit ist es nicht. China ist nur eine Etappe auf ihrem aktuellen Expansionskurs. L\u00e4ngst kommt sie auch in Europa vor zuletzt auch im Elsa\u2026 [+8271 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.659043",
+      "internal_id": "8c54da39e8322ca80277f1ea86ae7d713428742b5eb4bdbde544e411b104a676",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23740,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Catalina Ciampa",
+      "title": "Estos son los nuevos repelentes que recomienda la OMS para combatir los mosquitos que transmiten malaria",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha actualizado sus directrices para la lucha contra la malaria e incorporado una nueva recomendaci\u00f3n: el uso de repelentes espaciales. Esta innovaci\u00f3n, calificada como \u201curgente\u201d por la propia organizaci\u00f3n, supone una \u2026",
+      "url": "https://www.mundodeportivo.com/vidae/salud/20250814/1002514721/son-nuevos-repelentes-recomienda-oms-combatir-mosquitos-transmiten-malaria.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/08/19/62ff7d696ecfc.r_d.1350-1012-4436.jpeg",
+      "publishedAt": "2025-08-14 14:06:42",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha actualizado sus directrices para la lucha contra la malaria e incorporado una nueva recomendaci\u00f3n: el uso de repelentes espaciales. Esta innovaci\u00f3n, calif\u2026 [+3360 chars]",
+      "retrievedAt": "2025-08-15 19:05:56.681698",
+      "internal_id": "97ea45be5a4e8b25b576f03b3c3e0beb0d3afc99f9c73c3e98414100a712e475",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23741,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Leen N. Vanheer, Jordache Ramjith, Almahamoudou Mahamar, Merel J. Smit, Kjerstin Lanke, Michelle E. Roh, Koualy Sanogo, Youssouf Sinaba, Sidi M. Niambele, Makonon Diallo, Seydina O. Maguiraga, Sekouba Keita, Siaka Samake, Ahamadou Youssouf, Halimatou Diawara, Sekou F. Traore, Roly Gosling, Joelle M. Brown, Chris Drakeley, Alassane Dicko, Will Stone, Teun Bousema",
+      "title": "The transmission blocking activity of artemisinin-combination, non-artemisinin, and 8-aminoquinoline antimalarial therapies: A pooled analysis of individual participant data",
+      "description": "Leen Vanheer and colleagues retrospectively analyzed individual participant data from six clinical trials of antimalarials to identify drug regimens that most effectively kill Plasmodium falciparum gametocytes in infected patients and rapidly block transmissi\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004683",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004683.g006&size=inline",
+      "publishedAt": "2025-08-14 14:00:00",
+      "content": "Text A. Antimalarial treatment dosage. Dosing schedules for each treatment regimen. Table A. Antimalarial treatment suppliers. Suppliers of study drugs used in each study. Fig A. Original PQ03 molecu\u2026 [+17956 chars]",
+      "retrievedAt": "2025-08-15 19:05:56.707257",
+      "internal_id": "85e0888291e1fe8c226e2dbace245844ddd7700ec9f17a4335e052ca1f5ff2e5",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23749,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "K\u00ednz\u00f3 f\u00e1jdalommal \u00e9s horrorisztikus ki\u00fct\u00e9ssel t\u00e1mad \u2013 itt az \u00faj vil\u00e1gj\u00e1rv\u00e1ny?",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/nagyvilag/2025/08/betegseg-jarvany-szunyog-chikungunya-laz",
+      "urlToImage": "https://cdn.origo.hu/2025/08/EfeYgbaFaDcYfqx3Um9s1g032UNdQP1Rq5XyCvMYkJc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2UwMGI1OWNmYjg1ZjRlMjVhOGM1ZmQ3MzY0ZDFlNzE2.webp",
+      "publishedAt": "2025-08-14 13:51:23",
+      "content": "Ahogy arr\u00f3l az Origo m\u00e1r kor\u00e1bban besz\u00e1molt \u00faj betegs\u00e9g jelent meg K\u00edn\u00e1ban. A chikungunya-l\u00e1zat az Aedes sz\u00fanyogok terjesztik \u00e9s m\u00e1r t\u00f6bb mint 10 000 l\u00e1zat \u00e9s f\u00e1jdalmat okoz\u00f3 v\u00edrussal fertz\u00f6tt esetet\u2026 [+2186 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.721062",
+      "internal_id": "731460404532e4e5d35c9117b03586ceda0c4eab329e5d3e7748a610b1e94ce6",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23748,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "El Confidencial",
+      "title": "China ha soltado miles de mosquitos en sus calles. Parece que no tiene sentido, pero Espa\u00f1a tambi\u00e9n lo ha hecho",
+      "description": "Las autoridades asi\u00e1ticas han recurrido a un plan inusual para contener un brote v\u00edrico: liberar insectos criados en laboratorio",
+      "url": "https://www.elconfidencial.com/mundo/2025-08-14/china-mosquitos-cazadores-brote-1qrt_4191407/",
+      "urlToImage": "https://images.ecestaticos.com/UKh7rfZiE8U0mxtykXvSmz_RE-w=/0x120:2272x1313/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/762/01e/d24/76201ed2453cd8f6f0b7397a41714b2b.jpg",
+      "publishedAt": "2025-08-14 13:34:00",
+      "content": "China vive estos d\u00edas un brote de chikungunya que ya ha dejado m\u00e1s de 7.000 afectados en la provincia de Guangdong. El virus, transmitido por mosquitos del g\u00e9nero Aedes, ha obligado a las autoridades\u2026 [+2556 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.697416",
+      "internal_id": "880f6fd35847b9910adc14b3d1238f8b2a85b8b8b6a4ae337892c84931b6baef",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23736,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jennifer Mcrae",
+      "title": "Colorado health officials confirm another case of measles, bringing total in state to 17",
+      "description": "The CDPHE and the Adams County Health Department have confirmed the case of measles in a child under 5 years from Adams County.",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-health-officials-measles-child-under-5-years/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/16/dab35920-db99-4de9-8653-f8fe47771671/thumbnail/1200x630/2aa2665426c2186895d79256270ddfac/childrens-hospital-colorado1.jpg",
+      "publishedAt": "2025-08-14 13:28:31",
+      "content": "The Colorado Department of Public Health and Environment has confirmed another case of measles, bringing the total number of measles cases in the state so far this year to 17. The CDPHE and the Adams\u2026 [+1916 chars]",
+      "retrievedAt": "2025-08-15 19:05:55.180393",
+      "internal_id": "983ceba3e5db5fb5a554bf5cbbb9522acaf95824df472bdeeaa4ecfaf4107611",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23739,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Pedro Gil",
+      "title": "Os bilh\u00f5es que dengue e chikungunya j\u00e1 custaram ao sistema de sa\u00fade",
+      "description": "An\u00e1lise da Planisa mostra estimativa do impacto financeiro das hospitaliza\u00e7\u00f5es dessas doen\u00e7as, entre 2015 e 2024",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/os-bilhoes-que-dengue-e-chikungunya-ja-custaram-ao-sistema-de-saude/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-08-14 13:05:39",
+      "content": "ASSINE VEJA NEG\u00d3CIOS",
+      "retrievedAt": "2025-08-15 19:05:56.000587",
+      "internal_id": "bbadd94ef089ef1029d69e26d2c4f647ceea3a32f5e5169682133b0c02bb0b3a",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23733,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Stray dogs issue needs to be resolved, not contested: Delhi Govt to SC",
+      "description": "The Delhi government told the Supreme Court that stray dogs in Delhi-NCR need a solution. Children are dying from rabies due to dog bites. The court asked Delhi-NCR to relocate stray dogs to shelters, starting with a 5,000-dog shelter. The court reserved its \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/stray-dogs-issue-needs-to-be-resolved-not-contested-delhi-govt-to-sc/articleshow/123303033.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123303082,width-1200,height-630,imgsize-53678,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-14 11:05:56",
+      "content": "The Delhi government on Thursday informed the Supreme Court that issue of stray dogs in Delhi-NCR needed a resolution and need not be contested for children were dying of rabies due to dog bites. Whi\u2026 [+3313 chars]",
+      "retrievedAt": "2025-08-15 19:05:54.822508",
+      "internal_id": "34e7c9c09985fc3bcdfec856781dd5830aabed55c6c293b880bc625de084051d",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23750,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "Anadolu Ajans\u0131",
+      "title": "Tatilciler, vir\u00fcsle beraber d\u00f6n\u00fcyor! 'Chikungunya' vakalar\u0131 \u00fc\u00e7 kat\u0131na \u00e7\u0131kt\u0131",
+      "description": "\u0130ngiltere'de chikungunya vir\u00fcs\u00fc vakalar\u0131 \u00fc\u00e7 kat\u0131na \u00e7\u0131kt\u0131. Tamam\u0131 yurt d\u0131\u015f\u0131 seyahatleriyle ba\u011flant\u0131l\u0131 olan vakalar sonras\u0131 uzmanlar, sivrisinek \u0131s\u0131r\u0131klar\u0131na kar\u015f\u0131 \u00f6nlem al\u0131nmas\u0131 ve seyahat \u00f6ncesi sa\u011fl\u0131k tavsiyelerinin dikkate al\u0131nmas\u0131 gerekti\u011fi uyar\u0131s\u0131nda bulu\u2026",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/tatilciler-virusle-beraber-donuyor-chikungunya-vakalari-uc-katina-cikti-1138117",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-08/14/tatilciler-virusle-beraber-donuyor-chikungunya-vakalari-uc-katina-cikti-17551654942626.jpg",
+      "publishedAt": "2025-08-14 09:57:00",
+      "content": "lk olarak 1952 ylnda Tanzanya'da tespit edilen ve 110'dan fazla \u00fclkeye yaylan Chikungunya, son d\u00f6nemde yeniden kendisini g\u00f6steriyor. Ge\u00e7tiimiz g\u00fcnlerde \u00c7in'de sivrisinek kaynakl 'chikungunya' vir\u00fcs\u00fc \u2026 [+1087 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.778028",
+      "internal_id": "99190f3b9526de0c3d6cdc6298ab5335c0de936b41e20b18ba28b7b8c370e8ad",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23751,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "\u0130ngiltere'de chikungunya vir\u00fcs\u00fc vakalar\u0131 h\u0131zla art\u0131yor",
+      "description": "\u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131 (UKHSA), \u00fclkede sivrisinek kaynakl\u0131 chikungunya vir\u00fcs\u00fc vakalar\u0131n\u0131n iki kattan fazla artt\u0131\u011f\u0131n\u0131 bildirdi. Vakalar\u0131n b\u00fcy\u00fck \u00e7o\u011funlu\u011funun Hindistan, Sri Lanka ve Morityus seyahatleriyle ba\u011flant\u0131l\u0131 oldu\u011fu, vir\u00fcs\u00fcn \u0130ngiltere'de bulu\u2026",
+      "url": "https://www.hurriyet.com.tr/dunya/ingilterede-chikungunya-virusu-vakalari-hizla-artiyor-42913988",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/689dad04e74741dabe42178e.jpg",
+      "publishedAt": "2025-08-14 09:33:16",
+      "content": "Oluturulma Tarihi: Austos 14, 2025 12:33 p&gt;UKHSA'dan yaplan yazl a\u00e7klamada, bu yln ilk 6 aynda 73 chikungunya vakasnn tespit edildii belirtildi.Tamam yurt d seyahatiyle balantl vakalarn, ge\u00e7en yl\u2026 [+1075 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.815673",
+      "internal_id": "634ee816ce3e6e54df6b762e72605b7a289d431b3d53276406029392b021e054",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23746,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Jess Battison",
+      "title": "UK health officials issue warning over Chikungunya virus as China takes 'pandemic measures'",
+      "description": "There has been a higher number of the mosquito-borne Chikungunya virus in the UK than usual.",
+      "url": "https://www.ladbible.com/news/health/uk-health-warning-chikungunya-china-virus-124323-20250814",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt77fec787d06ffc44/689d947fcd3006855cb8e11b/chikungunya-uk-health.jpg",
+      "publishedAt": "2025-08-14 08:43:02",
+      "content": "Health officials in the UK have issued a warning over the Chikungunya virus. China has begun to implement forceful pandemic measures as thousands of cases have been reported across the Guangdong pro\u2026 [+2443 chars]",
+      "retrievedAt": "2025-08-15 19:05:57.650983",
+      "internal_id": "44ac0a82236a10e0ccc6b9e71b7a215bec6b7215122c2b3813d828e559c4833e",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23738,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Large drop in Johor dengue cases compared to 2024",
+      "description": "JOHOR BARU: Johor has recorded a major decline in cumulative dengue cases with 4,140 in epidemiological week 32 this year compared with 9,831 cases in the corresponding period last year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/14/large-drop-in-johor-dengue-cases-compared-to-2024",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/14/3467193.jpeg",
+      "publishedAt": "2025-08-14 07:53:00",
+      "content": "JOHOR BARU: Johor has recorded a major decline in cumulative dengue cases with 4,140 in epidemiological week 32 this year compared with 9,831 cases in the corresponding period last year. State healt\u2026 [+989 chars]",
+      "retrievedAt": "2025-08-15 19:05:55.992142",
+      "internal_id": "f92202794b9b2ff03dcb957d95ee97691576bf09f76766c2df00b82e63ec12f4",
+      "publishedAtLabel": "Aug 14"
+    },
     {
       "id": 23728,
       "query": [
@@ -22578,294 +22995,6 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2025-07-01 07:08:25.884493",
       "internal_id": "43130435f293563f3e1d391a22577484a163de99fbf539d7ffc8d8e84b9a6177",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22465,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Pypi.org",
-      "author": "health@gnusolidario.org",
-      "title": "gnuhealth-ntd-dengue 5.0.0rc3",
-      "description": "Neglected Tropical Diseases - Dengue fever package for GNU Health",
-      "url": "https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/",
-      "urlToImage": null,
-      "publishedAt": "2025-06-29 17:57:34",
-      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
-      "retrievedAt": "2025-06-30 19:06:02.135333",
-      "internal_id": "1b752b634c1ef938fb9705dead4ea1283a8972cc724e8424046cd2a10e74c6f3",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22474,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sport.orf.at",
-      "author": "ORF.at",
-      "title": "Spaniens Bonmati aus Krankenhaus entlassen",
-      "description": "",
-      "url": "https://sport.orf.at/stories/3142898/",
-      "urlToImage": "https://sport.orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-sport.png",
-      "publishedAt": "2025-06-29 16:21:36",
-      "content": "Aitana Bonmati hat ihre virale Meningitis \u00fcberstanden. Die zweifache Weltfu\u00dfballerin konnte das Krankenhaus verlassen und wird bald zum Nationalteam sto\u00dfen, gab der spanische Verband am Sonntag bekan\u2026 [+375 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.317228",
-      "internal_id": "a143a2c1f3954b4cc8bb865fd1e67ad33c941cf8ac3f9457c78d7fd287800e14",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22473,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "Carlos Serrano",
-      "title": "Aitana Bonmat\u00ed vuelve con el grupo tras haber superado una meningitis v\u00edrica que le oblig\u00f3 a estar ingresada en el hospital",
-      "description": "La jugadora del Bar\u00e7a no formar\u00e1 parte de la expedici\u00f3n que viaja este domingo a Suiza, aunque s\u00ed estar\u00e1 a las \u00f3rdenes de Montse Tom\u00e9 en la Eurocopa. M\u00e1s informaci\u00f3n: Aitana Bonmat\u00ed, ingresada en el hospital por una meningitis v\u00edrica a una semana del comienzo\u2026",
-      "url": "https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html",
-      "urlToImage": "https://s1.elespanol.com/2025/06/29/actualidad/1003743826357_256884197_1706x960.jpg",
-      "publishedAt": "2025-06-29 15:57:46",
-      "content": "Las jugadoras de la Selecci\u00f3n y Montse Tom\u00e9 por fin respiran aliviadas. Aitana Bonmat\u00ed ha recibido el alta hospitalaria tras sufrir una meningitis v\u00edrica que le oblig\u00f3 a ser ingresada en el hospital \u2026 [+2316 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.298787",
-      "internal_id": "fe1f82d65aa794aa3951475a3c2682cd0ed74a32b3cadad0789461ce52317b2d",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22469,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Relief for Spain as Bonmati cleared to return after health scare",
-      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunday.The 27-year-old missed Spain's 3-1 victory over Japan in a\u2026",
-      "url": "https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--4Z-uBhJj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-29t155515z_1_lynxmpel5s08e_rtroptp_3_soccer-champions-ars-bar-report.jpg?itok=hr4k1YLb",
-      "publishedAt": "2025-06-29 15:55:15",
-      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunda\u2026 [+696 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.172703",
-      "internal_id": "b86ef922b3f58ad3bd6c9e12ee494c50cd2ca187a72a23c1608c669c3f821f3c",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22475,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Agencia EFE",
-      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras positivo a meningitis y se incorporar\u00e1 con Espa\u00f1a para la Eurocopa",
-      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de unameningitis v\u00edricay se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \"en los pr\u00f3ximos d\u00edas\".La Real Federaci\u00f3n Espa\u00f1ola de \u2026",
-      "url": "https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/29/aitana-bonmati-disponible-eurocopa-femenina.jpg",
-      "publishedAt": "2025-06-29 14:00:00",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+2173 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.326536",
-      "internal_id": "3e4901857ce94be3621bc0117905915263e6dec77ce205d9d2d501d7dc894142",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22471,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Frauen-Fu\u00dfball: Spanien-Star Bonmati nach Meningitis wohl fit f\u00fcr EM",
-      "description": "Sie ist eine Schl\u00fcsselspielerin im Team der Weltmeisterinnen. Doch Aitana Bonmati zieht sich in der Vorbereitung eine Erkrankung zu. Jetzt gibt es positive Signale f\u00fcr die EM in der Schweiz.",
-      "url": "https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/13936150/alternates/BASE_16_9_W1400/1751199901000/aitana-bonmati.jpeg",
-      "publishedAt": "2025-06-29 12:25:01",
-      "content": "Weltfu\u00dfballerin Aitana Bonmati steht Spanien bei der EM der Frauen nach ihrer Meningitis-Erkrankung wohl zur Verf\u00fcgung. Die Mittelfeldspielerin habe das Krankenhaus am Sonntag verlassen und werde in \u2026 [+2237 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.235055",
-      "internal_id": "f60116bc7f8d5d1bf452689b1817f4e5bb3bd1ca28a40725efaa6f83fdf1fd35",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22480,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Libertaddigital.com",
-      "author": "Libertad Digital",
-      "title": "Aitana Bonmat\u00ed sale del hospital y est\u00e1 a punto de reincorporarse a la selecci\u00f3n",
-      "description": "La centrocampista ha estado varios d\u00edas hospitalizada a causa de una meningitis v\u00edrica y en principio llegar\u00e1 a tiempo para la Eurocopa.",
-      "url": "https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/",
-      "urlToImage": "https://s.libertaddigital.com/2025/06/28/1200/627/1344x229/ld/2806-aitana-bonmati.jpg",
-      "publishedAt": "2025-06-29 12:12:43",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+1912 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.423616",
-      "internal_id": "f3ead69fcc298a0b690ac0d2e7bc910a7eb7482d796d73d5554d3f40c9474122",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22476,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "espn",
-      "source_name": "ESPN",
-      "author": "ESPN",
-      "title": "Bonmati out of hospital; to rejoin Spain squad",
-      "description": "Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days.",
-      "url": "https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0629%2Fr1512612_1296x729_16%2D9.jpg",
-      "publishedAt": "2025-06-29 12:05:03",
-      "content": "Jun 29, 2025, 07:13 AM ET Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days. Bonmati was hospitalis\u2026 [+737 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.350447",
-      "internal_id": "426566fc542a837211e5ce93f153ef9cf6436b80484c3cca8f95b8fa9710798b",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22466,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "Matt Davis",
-      "title": "Bonmati discharged from hospital after meningitis",
-      "description": "Spain midfielder Aitana Bonmati is discharged from hospital after being treated for viral meningitis days before the start of Euro 2025.",
-      "url": "https://www.bbc.com/sport/football/articles/clyln3140y7o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c647/live/adef9d40-54de-11f0-b137-b1f711ab20bb.jpg",
-      "publishedAt": "2025-06-29 11:49:34",
-      "content": "Euro 2025 in Switzerland starts on Wednesday and Spain play Portugal in their opening Group B game in Bern on Thursday. \"Thanks to everyone for the messages I've received and to those who have helpe\u2026 [+788 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.043834",
-      "internal_id": "ae52eb8a7b777d9d4f79bed41605079916b9b225b1431fc2e1798b297b9af2c1",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22479,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "La Voz",
-      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras su meningitis v\u00edrica",
-      "description": "La centrocampista del Barcelona se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \u00aben los pr\u00f3ximos d\u00edas\u00bb, tal y como ha informado la Federaci\u00f3n",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm",
-      "urlToImage": "https://img.lavdg.com/sc/_GKeOffWRkK0hmEb5tIRsiPdGkk=/1280x/2025/06/29/00121751197562198131411/Foto/eup_20250624_112344443.jpg",
-      "publishedAt": "2025-06-29 11:48:00",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido el alta hospitalaria este domingo tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+2536 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.407472",
-      "internal_id": "d94048b0980835c431125087adb1cb23b7832da8044e94310cc900232f5d7995",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22467,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sky Sports",
-      "author": null,
-      "title": "Spain's Bonmati discharged from hospital after being treated for viral meningitis",
-      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025.",
-      "url": "https://www.skysports.com/football/news/12024/13390093/spains",
-      "urlToImage": "https://e0.365dm.com/25/06/1600x900/skysports-spain-bonmati-aitana_6952360.jpg?20250628094423",
-      "publishedAt": "2025-06-29 11:45:00",
-      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025. With the tournament scheduled to start on Wednesda\u2026 [+1664 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.067302",
-      "internal_id": "34cd8bd9da1c573d92c934f4578cf46e11a31ddfd2d076a8884047663e39ed7b",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22472,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Efe",
-      "title": "Aitana Bonmat\u00ed sale del hospital tras superar una meningitis v\u00edrica y se reincorporar\u00e1 a la selecci\u00f3n en los pr\u00f3ximos d\u00edas",
-      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se...",
-      "url": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html",
-      "urlToImage": "https://phantom-elmundo.uecdn.es/345714d11b5a409b37e765eb2e287854/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/29/17511969174391.jpg",
-      "publishedAt": "2025-06-29 11:35:47",
-      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+1909 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.275075",
-      "internal_id": "769cf9745d66da63667ef9407272c2b455f9f916a979f82b6d54b663008452ef",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22478,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Aitana Bonmat\u00ed. ingresada el viernes por meningitis v\u00edrica, recibe el alta y abandona el hospital",
-      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
-      "url": "https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2025/06/29/aitana-U28350064152abP-1024x512@diario_abc.jpg",
-      "publishedAt": "2025-06-29 11:12:57",
-      "content": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los\u2026 [+1082 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.390742",
-      "internal_id": "fd63cd6215ab38047ce84c6cc4cd69dc2d37e656c3e7fe419b889b0a16581f31",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22468,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Onefootball.com",
-      "author": null,
-      "title": "Aitana Bonmat\u00ed given all-clear after recovering from viral meningitis",
-      "description": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa...",
-      "url": "https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411",
-      "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41306411%3Fdate=2025-06-29",
-      "publishedAt": "2025-06-29 10:46:00",
-      "content": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa\u2026 [+821 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.163821",
-      "internal_id": "10fdb7c0b8f213f6a975293de0df90155c354e4fba16781db186943720071d97",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22477,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Aitana Bonmat\u00ed recibe el alta",
-      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
-      "url": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250629123905_1200.jpg",
-      "publishedAt": "2025-06-29 10:39:05",
-      "content": "La centrocampista fue ingresada el viernes por meningitis v\u00edrica MADRID, 29 Jun. (EUROPA PRESS) - La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, desp\u2026 [+1160 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.367423",
-      "internal_id": "fe456a3123379f5eb2fb67b05b9fcc9af507ed843317ee6d44cb600474e57ca9",
-      "publishedAtLabel": "Jun 29"
-    },
-    {
-      "id": 22470,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "La Voz de la Salud",
-      "title": "Meningitis v\u00edrica: as\u00ed es el cuadro por el que est\u00e1 ingresada Aitana Bonmat\u00ed",
-      "description": "La futbolista catalana se encuentra hospitalizada por una infecci\u00f3n de las membranas que recubren el cerebro",
-      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm",
-      "urlToImage": "https://img.lavdg.com/sc/9gfjTtZUDTkU0PH3o6FYmErx7kc=/1280x/2025/04/15/00121744674677372857416/Foto/EuropaPress_6643701_aitana_bonmati_of_fc_barcelona_looks_on_during_the_spanish_women_league-EP.jpg",
-      "publishedAt": "2025-06-29 08:53:00",
-      "content": "Aitana Bonmat\u00ed se encuentra ingresada en Madrid.Tras un proceso febril que le impidi\u00f3 entrenar el jueves y participar en el partido amistoso de la selecci\u00f3n frente a Jap\u00f3n el viernes, la futbolista d\u2026 [+7979 chars]",
-      "retrievedAt": "2025-06-30 19:06:03.188645",
-      "internal_id": "3d8bfa4e056ee75b47118c2cc48bb74b44e0e160f7fadd771f4151c7566205ed",
       "publishedAtLabel": "Jun 29"
     }
   ]
