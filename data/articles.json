@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-08-14 19:06",
-  "count_articles_total": 1237,
-  "count_articles_new": 13,
+  "last_updated": "2025-08-15 07:08",
+  "count_articles_total": 1265,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 23728,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Rise in chikungunya cases in UK travellers returning from abroad",
+      "description": "Latest data shows an increase in travel-associated chikungunya cases compared to the same period last year",
+      "url": "https://www.gov.uk/government/news/rise-in-chikungunya-cases-in-uk-travellers-returning-from-abroad",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/689cc12187bf475940723f57/s960_Travel_news.png",
+      "publishedAt": "2025-08-14 07:00:04",
+      "content": "The latest UK Health Security Agency (UKHSA) data shows an increase in travel-associated chikungunya cases in England. A total of 73 cases were reported between January and June 2025. The same period\u2026 [+4907 chars]",
+      "retrievedAt": "2025-08-15 07:08:08.545541",
+      "internal_id": "e48a899ad4696df6fbb8fad5a5552f456c70f9433e658e1f094931258c4c96ce",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23719,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Evann Gastaldo with Newser.AI",
+      "title": "Rabid Fox Bites 2 in Same Morning in North Carolina",
+      "description": "A fox tested positive for rabies after attacking two people in Aberdeen, North Carolina, in separate incidents just 30 minutes apart, authorities said this week. Both encounters occurred the morning of August 11, with the first bite reported on Midway Road ar\u2026",
+      "url": "https://www.newser.com/story/373510/rabid-fox-bites-2-in-same-morning-in-north-carolina.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1628058-12-20250814023208.jpeg",
+      "publishedAt": "2025-08-14 07:00:00",
+      "content": "A fox tested positive for rabies after attacking two people in Aberdeen, North Carolina, in separate incidents just 30 minutes apart, authorities said this week. Both encounters occurred the morning \u2026 [+1254 chars]",
+      "retrievedAt": "2025-08-15 07:08:06.047561",
+      "internal_id": "61e1ab2b7eedaf120ae5aa53f50c804ec6f7e42dce2b9ab221168dbf0d834572",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23726,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Lucas de la Cal",
+      "title": "Los fantasmas de la pandemia regresan a China por culpa del chikungunya: \"Cuarentenas, funcionarios fumigando calles, entrando a la fuerza en casas... Ha sido como revivir una pesadilla\"",
+      "description": "El sur del pa\u00eds asi\u00e1tico concentra los m\u00e1s de 8.000 casos del virus que transmiten los mosquitos. Las autoridades usan las pol\u00edticas de 'Covid Cero' para hacer frente a la reducci\u00f3n de contagios Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/08/14/689c3f8ee85ece4c048b4586.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/b94d3df04b42453b1eaafc1f2bdd072b/crop/0x0/3071x2047/resize/1200/f/webp/assets/multimedia/imagenes/2025/08/13/17550984979674.jpg",
+      "publishedAt": "2025-08-14 06:26:31",
+      "content": "Xie manifiesta que lo que ha vivido estos \u00faltimos d\u00edas ha sido un terrible d\u00e9j\u00e0 vu. Este empresario treinta\u00f1ero, m\u00e1s que miedo a la enfermedad v\u00edrica que ha estado merodeando por su barrio, lo que ha\u2026 [+9079 chars]",
+      "retrievedAt": "2025-08-15 07:08:08.474889",
+      "internal_id": "825668419435188f0d34f9a3de8bfe2eef416e992582dd94c7bb4ee9174fd8e4",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23723,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "vanessa.lozano",
+      "title": "D\u00edaz Mena denuncia \u2018oportunismo pol\u00edtico\u2019 del PAN en la lucha contra el dengue en Yucat\u00e1n",
+      "description": "Marco N\u00e1jera El gobernador de Yucat\u00e1n, Joaqu\u00edn D\u00edaz Mena, acus\u00f3 al Partido Acci\u00f3n Nacional (PAN) de \"oportunismo pol\u00edtico\" y de montar un \"espect\u00e1culo\" con el tema del dengue en la entidad, al descalificar las acciones de su gobierno en la materia, incluso c\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/diaz-mena-denuncia-oportunismo-politico-del-pan-en-la-lucha-contra-el-dengue-en-yucatan",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/14/3359939.jpg",
+      "publishedAt": "2025-08-14 06:11:24",
+      "content": "El gobernador de Yucat\u00e1n, Joaqu\u00edn D\u00edaz Mena, acus\u00f3 al Partido Acci\u00f3n Nacional (PAN) de \"oportunismo pol\u00edtico\" y de montar un \"espect\u00e1culo\" con el tema del dengue en la entidad, al descalificar las ac\u2026 [+1565 chars]",
+      "retrievedAt": "2025-08-15 07:08:07.185652",
+      "internal_id": "7b081e258574a8dd2f25196887dac4527a658dcf795682e263f6fa908210c5df",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23727,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Storm Newton",
+      "title": "Health warning issued on mosquito bites abroad amid rise in chikungunya cases",
+      "description": "Chikungunya is a virus spread by mosquito bites, the symptoms of which include a sudden fever and joint pain",
+      "url": "https://www.the-independent.com/life-style/health-and-families/health-news/chikungunya-virus-vaccine-mosquito-bites-ukhsa-b2807392.html",
+      "urlToImage": "https://static.the-independent.com/2025/07/25/16/China_Chikungunya_25942.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-08-14 05:39:48",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+4273 chars]",
+      "retrievedAt": "2025-08-15 07:08:08.536760",
+      "internal_id": "1b016bf000621729982a08e724c74aafe3db3f87a34e6439172b271fa4ac5ece",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23718,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express News Service",
+      "title": "Today in Politics: Three-judge SC Bench may hear stray dog matter; Cong to hold protest marches against \u2018vote theft\u2019",
+      "description": "The Supreme Court has referred the serious stray dog issue to a three-judge Bench, emphasizing immediate action for relocation and shelter creation amid rabies concerns. Hearings are set for Thursday as authorities face strict measures for non-compliance.",
+      "url": "https://indianexpress.com/article/political-pulse/three-judge-sc-bench-hear-stray-dog-matter-cong-hold-protest-marches-against-vote-theft-10188054/",
+      "urlToImage": "https://images.indianexpress.com/2025/08/rahul-gandhi-13.jpg",
+      "publishedAt": "2025-08-14 02:52:39",
+      "content": "The Supreme Court referred the stray dog matter to a three-judge Bench, which is likely to hear the matter on Thursday.On Monday, noting an \u201cextremely grim\u201d situation due to stray dog bites resulting\u2026 [+3848 chars]",
+      "retrievedAt": "2025-08-15 07:08:06.007062",
+      "internal_id": "10a03602b3763159a31261fa9a8613c5b74172948439e8f0226f295561bca0e0",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23725,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "UK cases of mosquito-borne virus more than double",
+      "description": "More than 70 cases of the chikungunya virus were reported in the UK in the first six months of this year.",
+      "url": "https://www.bbc.com/news/articles/c7419g1l488o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7576/live/a8169f20-7835-11f0-9116-4d3546f2bbbf.jpg",
+      "publishedAt": "2025-08-14 01:22:10",
+      "content": "There has been a significant increase in the number of UK cases of a mosquito-borne virus that can cause sudden fever and joint pain and is normally only found in Africa and southern Asia. The UK He\u2026 [+2334 chars]",
+      "retrievedAt": "2025-08-15 07:08:08.442806",
+      "internal_id": "57bc1102daeadcaaea15836273f6d09bb5c709057b0f5103fd86a17e631dd04c",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: NegOcc logs 12 dengue-related deaths, cases soar to 4,484",
+      "description": "Bacolod City \u2013 Health authorities reported 12 dengue-related deaths in Negros Occidental, including highly-urbanized Bacolod City, with total cases further increasing to 4,384, as of August 2. A report of the Provincial Health Office recorded eight dengue rel\u2026",
+      "url": "https://rpnradio.com/bacolod-negocc-logs-12-dengue-related-deaths-cases-soar-to-4484/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/08/neg-occ-logs-dengue-cases.jpg",
+      "publishedAt": "2025-08-14 01:00:58",
+      "content": "Bacolod City \u2013 Health authorities reported 12 dengue-related deaths in Negros Occidental, including highly-urbanized Bacolod City, with total cases further increasing to 4,384, as of August 2. A rep\u2026 [+1521 chars]",
+      "retrievedAt": "2025-08-15 07:08:07.286875",
+      "internal_id": "2639fcde996329c826ae282cc8617f961d470a1f16f53b8639806c5a80c2007b",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 23729,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Storm Newton",
+      "title": "Health warning issued on mosquito bites abroad amid rise in chikungunya cases",
+      "description": "Chikungunya is a virus spread by mosquito bites, the symptoms of which include a sudden fever and joint pain",
+      "url": "https://www.the-independent.com/life-style/health-and-families/health-news/chikungunya-mosquitos-ukhsa-oropouche-virus-b2807231.html",
+      "urlToImage": "https://static.the-independent.com/2025/07/25/16/China_Chikungunya_25942.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-08-13 23:01:00",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+4273 chars]",
+      "retrievedAt": "2025-08-15 07:08:08.575590",
+      "internal_id": "8df4c4d8dd2148e7623ca2d4a13d0c9fd4483bfa6448b9c660fb5cbbcb432c05",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 23720,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "4 more cases of measles confirmed in Manitoba, health officials warn",
+      "description": "There were four new cases of measles confirmed in Manitoba last week, provincial health officials said in an update Wednesday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-1.7608288",
+      "urlToImage": "https://i.cbc.ca/1.7508947.1744474099!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-13 21:45:52",
+      "content": "There were four new cases of measles confirmed in Manitoba last week, provincial health officials said in an update Wednesday. There have been five confirmed cases so far in August, with no probabl\u2026 [+1062 chars]",
+      "retrievedAt": "2025-08-15 07:08:06.573928",
+      "internal_id": "52fbfe24d7122e841810537924414b87929ae47867c0369da782e5e30e4e90be",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 23721,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Haaretz",
+      "author": "Aaron Rabinowitz",
+      "title": "Unvaccinated toddler dies of measles as cases, vaccinations rise in Israel",
+      "description": "Despite a surge in vaccinations, measles cases continue to climb, with 503 confirmed infections and 12 unvaccinated children hospitalized. 'This death was entirely preventable,' said a Health Ministry official, warning that the real numbers may be far higher",
+      "url": "https://www.haaretz.com/israel-news/2025-08-13/ty-article/unvaccinated-toddler-dies-of-measles-as-cases-vaccinations-rise-in-israel/00000198-a474-d825-a39a-f7fec6430000",
+      "urlToImage": "https://img.haarets.co.il/bs/0000017f-e118-d7b2-a77f-e31f35ca0000/77/bb/2045fee6fc2b0b998e38ef89f788/3738475267.jpg?precrop=2200,1277,x0,y8&height=630&width=1200",
+      "publishedAt": "2025-08-13 20:34:17",
+      "content": "A two-year-old child who was not vaccinated against measles died Wednesday after several weeks connected to an ECMO (Extracorporeal Membrane Oxygenation) machine, the Health Ministry announced. This \u2026 [+4779 chars]",
+      "retrievedAt": "2025-08-15 07:08:06.590941",
+      "internal_id": "0a1e002d4d9cef975c8976be2eae400a1526dd12d665b92ba8a8b89f6fe6bde8",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 23722,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Lucy Cooper, Adel Fruean, and Doug Dingwall",
+      "title": "Pacific Islands race to contain 'largest dengue fever outbreak in a decade'",
+      "description": "Dengue fever has killed 18 people and health authorities have recorded tens of thousands of cases in the Pacific.",
+      "url": "https://www.abc.net.au/news/2025-08-14/dengue-fever-outbreak-pacific-islands/105625430",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d540b8bf35fc11be189080aab35839ea?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-08-13 19:45:33",
+      "content": "When all four of Taloa Lam Shong's children were struck down with dengue fever in Samoa, she was on high alert. \"I was scared and worried, knowing dengue fever had claimed children's lives,\" she sai\u2026 [+7824 chars]",
+      "retrievedAt": "2025-08-15 07:08:07.168940",
+      "internal_id": "f274831eb0ffdec384ea5f3471c60221ef2bf84eaa4ab989a294439e728a816e",
+      "publishedAtLabel": "Aug 13"
+    },
     {
       "id": 23713,
       "query": [
@@ -22362,6 +22578,294 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2025-07-01 07:08:25.884493",
       "internal_id": "43130435f293563f3e1d391a22577484a163de99fbf539d7ffc8d8e84b9a6177",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "health@gnusolidario.org",
+      "title": "gnuhealth-ntd-dengue 5.0.0rc3",
+      "description": "Neglected Tropical Diseases - Dengue fever package for GNU Health",
+      "url": "https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-29 17:57:34",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-06-30 19:06:02.135333",
+      "internal_id": "1b752b634c1ef938fb9705dead4ea1283a8972cc724e8424046cd2a10e74c6f3",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22474,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sport.orf.at",
+      "author": "ORF.at",
+      "title": "Spaniens Bonmati aus Krankenhaus entlassen",
+      "description": "",
+      "url": "https://sport.orf.at/stories/3142898/",
+      "urlToImage": "https://sport.orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-sport.png",
+      "publishedAt": "2025-06-29 16:21:36",
+      "content": "Aitana Bonmati hat ihre virale Meningitis \u00fcberstanden. Die zweifache Weltfu\u00dfballerin konnte das Krankenhaus verlassen und wird bald zum Nationalteam sto\u00dfen, gab der spanische Verband am Sonntag bekan\u2026 [+375 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.317228",
+      "internal_id": "a143a2c1f3954b4cc8bb865fd1e67ad33c941cf8ac3f9457c78d7fd287800e14",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22473,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Carlos Serrano",
+      "title": "Aitana Bonmat\u00ed vuelve con el grupo tras haber superado una meningitis v\u00edrica que le oblig\u00f3 a estar ingresada en el hospital",
+      "description": "La jugadora del Bar\u00e7a no formar\u00e1 parte de la expedici\u00f3n que viaja este domingo a Suiza, aunque s\u00ed estar\u00e1 a las \u00f3rdenes de Montse Tom\u00e9 en la Eurocopa. M\u00e1s informaci\u00f3n: Aitana Bonmat\u00ed, ingresada en el hospital por una meningitis v\u00edrica a una semana del comienzo\u2026",
+      "url": "https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/06/29/actualidad/1003743826357_256884197_1706x960.jpg",
+      "publishedAt": "2025-06-29 15:57:46",
+      "content": "Las jugadoras de la Selecci\u00f3n y Montse Tom\u00e9 por fin respiran aliviadas. Aitana Bonmat\u00ed ha recibido el alta hospitalaria tras sufrir una meningitis v\u00edrica que le oblig\u00f3 a ser ingresada en el hospital \u2026 [+2316 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.298787",
+      "internal_id": "fe1f82d65aa794aa3951475a3c2682cd0ed74a32b3cadad0789461ce52317b2d",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22469,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Relief for Spain as Bonmati cleared to return after health scare",
+      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunday.The 27-year-old missed Spain's 3-1 victory over Japan in a\u2026",
+      "url": "https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--4Z-uBhJj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-29t155515z_1_lynxmpel5s08e_rtroptp_3_soccer-champions-ars-bar-report.jpg?itok=hr4k1YLb",
+      "publishedAt": "2025-06-29 15:55:15",
+      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after treatment for viral meningitis and is expected to rejoin the national squad soon, the Spanish Football Federation said on Sunda\u2026 [+696 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.172703",
+      "internal_id": "b86ef922b3f58ad3bd6c9e12ee494c50cd2ca187a72a23c1608c669c3f821f3c",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22475,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras positivo a meningitis y se incorporar\u00e1 con Espa\u00f1a para la Eurocopa",
+      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de unameningitis v\u00edricay se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \"en los pr\u00f3ximos d\u00edas\".La Real Federaci\u00f3n Espa\u00f1ola de \u2026",
+      "url": "https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/06/29/aitana-bonmati-disponible-eurocopa-femenina.jpg",
+      "publishedAt": "2025-06-29 14:00:00",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+2173 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.326536",
+      "internal_id": "3e4901857ce94be3621bc0117905915263e6dec77ce205d9d2d501d7dc894142",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22471,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Frauen-Fu\u00dfball: Spanien-Star Bonmati nach Meningitis wohl fit f\u00fcr EM",
+      "description": "Sie ist eine Schl\u00fcsselspielerin im Team der Weltmeisterinnen. Doch Aitana Bonmati zieht sich in der Vorbereitung eine Erkrankung zu. Jetzt gibt es positive Signale f\u00fcr die EM in der Schweiz.",
+      "url": "https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13936150/alternates/BASE_16_9_W1400/1751199901000/aitana-bonmati.jpeg",
+      "publishedAt": "2025-06-29 12:25:01",
+      "content": "Weltfu\u00dfballerin Aitana Bonmati steht Spanien bei der EM der Frauen nach ihrer Meningitis-Erkrankung wohl zur Verf\u00fcgung. Die Mittelfeldspielerin habe das Krankenhaus am Sonntag verlassen und werde in \u2026 [+2237 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.235055",
+      "internal_id": "f60116bc7f8d5d1bf452689b1817f4e5bb3bd1ca28a40725efaa6f83fdf1fd35",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22480,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Libertad Digital",
+      "title": "Aitana Bonmat\u00ed sale del hospital y est\u00e1 a punto de reincorporarse a la selecci\u00f3n",
+      "description": "La centrocampista ha estado varios d\u00edas hospitalizada a causa de una meningitis v\u00edrica y en principio llegar\u00e1 a tiempo para la Eurocopa.",
+      "url": "https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/",
+      "urlToImage": "https://s.libertaddigital.com/2025/06/28/1200/627/1344x229/ld/2806-aitana-bonmati.jpg",
+      "publishedAt": "2025-06-29 12:12:43",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+1912 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.423616",
+      "internal_id": "f3ead69fcc298a0b690ac0d2e7bc910a7eb7482d796d73d5554d3f40c9474122",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22476,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "espn",
+      "source_name": "ESPN",
+      "author": "ESPN",
+      "title": "Bonmati out of hospital; to rejoin Spain squad",
+      "description": "Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days.",
+      "url": "https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0629%2Fr1512612_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-06-29 12:05:03",
+      "content": "Jun 29, 2025, 07:13 AM ET Spain striker Aitana Bonmat\u00ed has been discharged from hospital after recovering from viral meningitis and will re-join the squad in the coming days. Bonmati was hospitalis\u2026 [+737 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.350447",
+      "internal_id": "426566fc542a837211e5ce93f153ef9cf6436b80484c3cca8f95b8fa9710798b",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22466,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Matt Davis",
+      "title": "Bonmati discharged from hospital after meningitis",
+      "description": "Spain midfielder Aitana Bonmati is discharged from hospital after being treated for viral meningitis days before the start of Euro 2025.",
+      "url": "https://www.bbc.com/sport/football/articles/clyln3140y7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c647/live/adef9d40-54de-11f0-b137-b1f711ab20bb.jpg",
+      "publishedAt": "2025-06-29 11:49:34",
+      "content": "Euro 2025 in Switzerland starts on Wednesday and Spain play Portugal in their opening Group B game in Bern on Thursday. \"Thanks to everyone for the messages I've received and to those who have helpe\u2026 [+788 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.043834",
+      "internal_id": "ae52eb8a7b777d9d4f79bed41605079916b9b225b1431fc2e1798b297b9af2c1",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22479,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Aitana Bonmat\u00ed recibe el alta m\u00e9dica tras su meningitis v\u00edrica",
+      "description": "La centrocampista del Barcelona se reincorporar\u00e1 con la selecci\u00f3n espa\u00f1ola \u00aben los pr\u00f3ximos d\u00edas\u00bb, tal y como ha informado la Federaci\u00f3n",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm",
+      "urlToImage": "https://img.lavdg.com/sc/_GKeOffWRkK0hmEb5tIRsiPdGkk=/1280x/2025/06/29/00121751197562198131411/Foto/eup_20250624_112344443.jpg",
+      "publishedAt": "2025-06-29 11:48:00",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed ha recibido el alta hospitalaria este domingo tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u2026 [+2536 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.407472",
+      "internal_id": "d94048b0980835c431125087adb1cb23b7832da8044e94310cc900232f5d7995",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22467,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky Sports",
+      "author": null,
+      "title": "Spain's Bonmati discharged from hospital after being treated for viral meningitis",
+      "description": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025.",
+      "url": "https://www.skysports.com/football/news/12024/13390093/spains",
+      "urlToImage": "https://e0.365dm.com/25/06/1600x900/skysports-spain-bonmati-aitana_6952360.jpg?20250628094423",
+      "publishedAt": "2025-06-29 11:45:00",
+      "content": "Spain midfielder Aitana Bonmati has been discharged from hospital after being treated for viral meningitis just days before the start of Euro 2025. With the tournament scheduled to start on Wednesda\u2026 [+1664 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.067302",
+      "internal_id": "34cd8bd9da1c573d92c934f4578cf46e11a31ddfd2d076a8884047663e39ed7b",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22472,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Efe",
+      "title": "Aitana Bonmat\u00ed sale del hospital tras superar una meningitis v\u00edrica y se reincorporar\u00e1 a la selecci\u00f3n en los pr\u00f3ximos d\u00edas",
+      "description": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se...",
+      "url": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/345714d11b5a409b37e765eb2e287854/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/29/17511969174391.jpg",
+      "publishedAt": "2025-06-29 11:35:47",
+      "content": "La centrocampista del Barcelona Aitana Bonmat\u00ed recibi\u00f3 este domingo el alta hospitalaria tras haber estado ingresada varios d\u00edas a causa de una meningitis v\u00edrica y se reincorporar\u00e1 con la selecci\u00f3n e\u2026 [+1909 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.275075",
+      "internal_id": "769cf9745d66da63667ef9407272c2b455f9f916a979f82b6d54b663008452ef",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22478,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Aitana Bonmat\u00ed. ingresada el viernes por meningitis v\u00edrica, recibe el alta y abandona el hospital",
+      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
+      "url": "https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2025/06/29/aitana-U28350064152abP-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-06-29 11:12:57",
+      "content": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los\u2026 [+1082 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.390742",
+      "internal_id": "fd63cd6215ab38047ce84c6cc4cd69dc2d37e656c3e7fe419b889b0a16581f31",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22468,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Onefootball.com",
+      "author": null,
+      "title": "Aitana Bonmat\u00ed given all-clear after recovering from viral meningitis",
+      "description": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa...",
+      "url": "https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411",
+      "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41306411%3Fdate=2025-06-29",
+      "publishedAt": "2025-06-29 10:46:00",
+      "content": "Aitana Bonmat\u00ed has already been discharged from the hospital after being diagnosed with viral meningitis last week. The FC Barcelona footballer and key player for the Spanish women's national team wa\u2026 [+821 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.163821",
+      "internal_id": "10fdb7c0b8f213f6a975293de0df90155c354e4fba16781db186943720071d97",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22477,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Aitana Bonmat\u00ed recibe el alta",
+      "description": "La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, despu\u00e9s de ser diagnosticada el viernes de meningitis v\u00edrica, y se unir\u00e1 a la disciplina de la selecci\u00f3n en los pr\u00f3ximos d\u00edas, ha informado la Real Federaci\u00f3n Espa\u00f1ola de \u2026",
+      "url": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250629123905_1200.jpg",
+      "publishedAt": "2025-06-29 10:39:05",
+      "content": "La centrocampista fue ingresada el viernes por meningitis v\u00edrica MADRID, 29 Jun. (EUROPA PRESS) - La internacional espa\u00f1ola Aitana Bonmat\u00ed ha recibido este domingo el alta hospitalaria, desp\u2026 [+1160 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.367423",
+      "internal_id": "fe456a3123379f5eb2fb67b05b9fcc9af507ed843317ee6d44cb600474e57ca9",
+      "publishedAtLabel": "Jun 29"
+    },
+    {
+      "id": 22470,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz de la Salud",
+      "title": "Meningitis v\u00edrica: as\u00ed es el cuadro por el que est\u00e1 ingresada Aitana Bonmat\u00ed",
+      "description": "La futbolista catalana se encuentra hospitalizada por una infecci\u00f3n de las membranas que recubren el cerebro",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm",
+      "urlToImage": "https://img.lavdg.com/sc/9gfjTtZUDTkU0PH3o6FYmErx7kc=/1280x/2025/04/15/00121744674677372857416/Foto/EuropaPress_6643701_aitana_bonmati_of_fc_barcelona_looks_on_during_the_spanish_women_league-EP.jpg",
+      "publishedAt": "2025-06-29 08:53:00",
+      "content": "Aitana Bonmat\u00ed se encuentra ingresada en Madrid.Tras un proceso febril que le impidi\u00f3 entrenar el jueves y participar en el partido amistoso de la selecci\u00f3n frente a Jap\u00f3n el viernes, la futbolista d\u2026 [+7979 chars]",
+      "retrievedAt": "2025-06-30 19:06:03.188645",
+      "internal_id": "3d8bfa4e056ee75b47118c2cc48bb74b44e0e160f7fadd771f4151c7566205ed",
       "publishedAtLabel": "Jun 29"
     }
   ]
