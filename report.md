@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-08-16 07:06
-- **Most recent article:** 2025-08-15 02:28:11
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-08-16 19:05
+- **Most recent article:** 2025-08-15 18:27:31
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 114 | 64 | 47 | 30 | 26 | 16 | 332 |
-| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 41 | 318 |
-| dengue | 24 | 34 | 24 | 36 | 32 | 17 | 24 | 191 |
+| measles | 35 | 114 | 64 | 47 | 30 | 26 | 18 | 334 |
+| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 43 | 320 |
+| dengue | 23 | 34 | 24 | 36 | 32 | 17 | 24 | 190 |
 | malaria | 21 | 29 | 12 | 18 | 13 | 18 | 15 | 126 |
 | rabies | 17 | 17 | 4 | 11 | 10 | 11 | 19 | 89 |
-| meningitis | 40 | 7 | 7 | 12 | 3 | 1 | 4 | 74 |
-| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 4 | 59 |
+| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 5 | 60 |
 | yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 7 | 59 |
-| zika | 8 | 12 | 8 | 2 | 7 | 8 | 8 | 53 |
+| meningitis | 25 | 7 | 7 | 12 | 3 | 1 | 4 | 59 |
+| zika | 8 | 12 | 8 | 2 | 7 | 8 | 9 | 54 |
 | h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 3 | 52 |
 | typhoid | 2 | 3 | 9 | 1 | 0 | 1 | 1 | 17 |
 | hpai | 4 | 3 | 2 | 1 | 0 | 3 | 0 | 13 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-33 (zika)
+
+- [19 yaşındaki kimyagerden çığı açan buluş! O ilacın maliyeti 75 dolardan 12 dolara kadar düştü](https://www.turkiyegazetesi.com.tr/yasam/19-yasindaki-kimyagerden-cigi-acan-bulus-o-ilacin-maliyeti-75-dolardan-12-dolara-kadar-dustu-1138477) (Turkiyegazetesi.com.tr)
 
 - [Sospetto caso importato di Zika o Chikungunya a Trento](https://www.ansa.it/sito/notizie/cronaca/2025/08/14/sospetto-caso-importato-di-zika-o-chikungunya-a-trento_1772c8df-dd24-45f6-b80d-b701332db7a5.html) (ANSA.it)
 
@@ -118,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (mpox)
 
+- [Mpox: África tem quase 50 mil casos confirmados](https://www.infomoney.com.br/saude/mpox-africa-tem-quase-50-mil-casos-confirmados/) (InfoMoney)
+
 - [Moçambique. Conflitos e mudanças climáticas disseminam Mpox](https://observador.pt/2025/08/14/pesquisador-mocambicano-diz-que-conflitos-e-mudancas-climaticas-disseminam-mpox/) (Observador.pt)
 
 - [Why one doctor says we're 'walking blind' in the mpox emergency](https://www.npr.org/sections/goats-and-soda/2025/08/14/g-s1-82460/mpox-virus-emergency) (NPR)
@@ -137,6 +141,10 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis Can Now Be Quickly Spotted in Babies Thanks to New Non-Invasive Test With 94% Accuracy](https://www.goodnewsnetwork.org/meningitis-can-now-be-quickly-spotted-in-babies-with-new-non-invasive-test-with-94-accuracy/) (Good News Network)
 
 ## 25-33 (measles)
+
+- [Infectious person with measles was at Newark Liberty International Airport, N.J. health officials say](https://www.cbsnews.com/newyork/news/newark-liberty-international-airport-measles-exposure/) (CBS News)
+
+- [Could measles appear in Lancaster County schools this fall?](https://lancasteronline.com/news/health/could-measles-appear-in-lancaster-county-schools-this-fall/article_56f1b17c-fb88-4d74-9da1-b1d1fbbc313a.html) (LancasterOnline)
 
 - [Local health officials report first confirmed measles case in Eastern Idaho resident since 1991](https://www.idahostatejournal.com/community/local-health-officials-report-first-confirmed-measles-case-in-eastern-idaho-resident-since-1991/article_d45aa927-7548-44a1-8854-fb3084bbd002.html) (Idaho State Journal)
 
@@ -261,6 +269,10 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
 
 ## 25-33 (chikungunya)
+
+- [Rabbits With Tentacle-Like Growth Around Head Reported in Colorado Neighborhood](https://legalinsurrection.com/2025/08/rabbits-with-tentacle-like-growth-around-head-reported-in-colorado-neighborhood/) (Legalinsurrection.com)
+
+- [Dopo 9 casi di Chikungunya Carpi disinfesta e chiude i parchi](https://www.ansa.it/emiliaromagna/notizie/2025/08/15/dopo-9-casi-di-chikungunya-carpi-disinfesta-e-chiude-i-parchi_9a6746f1-a21a-4db1-a0fa-a59ba012ab9f.html) (ANSA.it)
 
 - [West Nile, chikungunya, dengue: Breaking down summer’s mosquito-borne diseases](https://www.politico.eu/article/west-nile-italy-france-europe-mosquito-borne-diseases/) (POLITICO.eu)
 
@@ -2742,36 +2754,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
 
-- [Spaniens Bonmati aus Krankenhaus entlassen](https://sport.orf.at/stories/3142898/) (Sport.orf.at)
-
-- [Aitana Bonmatí vuelve con el grupo tras haber superado una meningitis vírica que le obligó a estar ingresada en el hospital](https://www.elespanol.com/deportes/futbol/20250629/aitana-bonmati-vuelve-grupo-superado-meningitis-virica-obligo-ingresada-hospital/1003743826337_0.html) (Elespanol.com)
-
-- [Relief for Spain as Bonmati cleared to return after health scare](https://www.channelnewsasia.com/sport/relief-spain-bonmati-cleared-return-after-health-scare-5210271) (CNA)
-
-- [Aitana Bonmatí recibe el alta médica tras positivo a meningitis y se incorporará con España para la Eurocopa](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-sale-del-hospital-y-viajara-para-disputar-la-eurocopa) (Milenio)
-
-- [Frauen-Fußball: Spanien-Star Bonmati nach Meningitis wohl fit für EM](https://www.tagesspiegel.de/sport/frauen-fussball-spanien-star-bonmati-nach-meningitis-wohl-fit-fur-em-13936153.html) (Der Tagesspiegel)
-
-- [Aitana Bonmatí sale del hospital y está a punto de reincorporarse a la selección](https://www.libertaddigital.com/deportes/futbol/2025-06-29/aitana-bonmati-sale-del-hospital-y-esta-a-punto-de-reincorporarse-a-la-seleccion-7271140/) (Libertaddigital.com)
-
-- [Bonmati out of hospital; to rejoin Spain squad](https://www.espn.com/soccer/story/_/id/45607791/aitana-bonmati-discharged-hospital-rejoin-spain-squad) (ESPN)
-
-- [Bonmati discharged from hospital after meningitis](https://www.bbc.com/sport/football/articles/clyln3140y7o) (BBC News)
-
-- [Aitana Bonmatí recibe el alta médica tras su meningitis vírica](https://www.lavozdegalicia.es/noticia/deportes/2025/06/29/aitana-bonmati-recibe-alta-medica-tras-meningitis-virica/00031751197177654437654.htm) (Lavozdegalicia.es)
-
-- [Spain's Bonmati discharged from hospital after being treated for viral meningitis](https://www.skysports.com/football/news/12024/13390093/spains) (Sky Sports)
-
-- [Aitana Bonmatí sale del hospital tras superar una meningitis vírica y se reincorporará a la selección en los próximos días](https://www.elmundo.es/deportes/futbol/futbol-femenino/2025/06/29/6861250de85ece600b8b4575.html) (El Mundo)
-
-- [Aitana Bonmatí. ingresada el viernes por meningitis vírica, recibe el alta y abandona el hospital](https://www.abc.es/deportes/futbol/aitana-bonmati-ingresada-viernes-meningitis-virica-recibe-20250629131256-nt.html) (Www.abc.es)
-
-- [Aitana Bonmatí given all-clear after recovering from viral meningitis](https://onefootball.com/en/news/aitana-bonmati-given-all-clear-after-recovering-from-viral-meningitis-41306411) (Onefootball.com)
-
-- [Aitana Bonmatí recibe el alta](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-recibe-alta-20250629123905.html) (Europapress.es)
-
-- [Meningitis vírica: así es el cuadro por el que está ingresada Aitana Bonmatí](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/06/29/meningitis-virica-cuadro-ingresada-aitana-bonmati/00031751186290592412384.htm) (Lavozdegalicia.es)
-
 ## 25-27 (measles)
 
 - [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
@@ -2963,8 +2945,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
 
 - [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
-
-- [gnuhealth-ntd-dengue 5.0.0rc3](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0rc3/) (Pypi.org)
 
 ## 25-27 (chikungunya)
 
