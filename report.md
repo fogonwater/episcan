@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-08-17 07:06
-- **Most recent article:** 2025-08-16 03:00:38
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-08-17 19:05
+- **Most recent article:** 2025-08-16 17:47:43
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
 |--|-|-|-|-|-|-|-|
-| chikungunya | 40 | 21 | 63 | 36 | 107 | 43 | 310 |
-| measles | 113 | 64 | 47 | 30 | 26 | 22 | 302 |
-| dengue | 33 | 24 | 36 | 32 | 17 | 25 | 167 |
-| malaria | 29 | 12 | 18 | 13 | 18 | 15 | 105 |
-| rabies | 17 | 4 | 11 | 10 | 11 | 24 | 77 |
+| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 313 |
+| measles | 95 | 64 | 47 | 30 | 26 | 25 | 287 |
+| dengue | 32 | 24 | 36 | 32 | 17 | 25 | 166 |
+| malaria | 28 | 12 | 18 | 13 | 18 | 15 | 104 |
+| rabies | 16 | 4 | 11 | 10 | 11 | 27 | 79 |
 | yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 59 |
 | mpox | 6 | 7 | 9 | 13 | 10 | 7 | 52 |
 | zika | 12 | 8 | 2 | 7 | 8 | 9 | 46 |
 | h5n1 | 9 | 13 | 4 | 1 | 14 | 3 | 44 |
-| meningitis | 7 | 7 | 12 | 3 | 1 | 4 | 34 |
+| meningitis | 6 | 7 | 12 | 3 | 1 | 4 | 33 |
 | typhoid | 3 | 9 | 1 | 0 | 1 | 1 | 15 |
 | pertussis | 0 | 4 | 3 | 1 | 0 | 2 | 10 |
 | hpai | 3 | 2 | 1 | 0 | 3 | 0 | 9 |
@@ -73,6 +73,12 @@ Source: [News API](https://newsapi.org/)
 - [Typhoid vaccination campaign rescheduled to 12 October](https://www.tbsnews.net/bangladesh/health/typhoid-vaccination-campaign-rescheduled-12-october-1212521) (Tbsnews.net)
 
 ## 25-33 (rabies)
+
+- [Raccoon killed by dog in New Jersey park tests positive for rabies, health officials say](https://www.cbsnews.com/philadelphia/news/raccoon-pennington-park-delanco/) (CBS News)
+
+- [Hundreds may have been exposed to rabies in Grand Teton National Park](https://www.cbsnews.com/news/grand-teton-national-park-rabies-exposure-cabins-guests-wyoming/) (CBS News)
+
+- [Delhi toddler turned away from hospital after stray dog bite as anti-rabies vaccine unavailable despite SC orders](https://economictimes.indiatimes.com/news/india/delhi-toddler-turned-away-from-hospital-as-anti-rabies-vaccine-unavailable-despite-sc-orders/articleshow/123333089.cms) (The Times of India)
 
 - [New Hartford Bat Tests Positive for Rabies: 1 Person and 1 Pet Exposed](https://www.wktv.com/news/health/new-hartford-bat-tests-positive-for-rabies-1-person-and-1-pet-exposed/article_870a0fce-b2f4-44a5-a03e-e5492dbc4560.html) (WKTV)
 
@@ -155,6 +161,12 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis Can Now Be Quickly Spotted in Babies Thanks to New Non-Invasive Test With 94% Accuracy](https://www.goodnewsnetwork.org/meningitis-can-now-be-quickly-spotted-in-babies-with-new-non-invasive-test-with-94-accuracy/) (Good News Network)
 
 ## 25-33 (measles)
+
+- [In less than a week: Second unvaccinated toddler dies of measles](https://www.israelnationalnews.com/news/413359) (Israelnationalnews.com)
+
+- [Health officials watch measles cases as school starts](https://kslnewsradio.com/health/measles-cases-school-starts/2238135/) (kslnewsradio.com)
+
+- [NJ Health Officials Warn of Possible Measles Exposure at Newark Airport](https://www.rlsmedia.com/node/60820) (Rlsmedia.com)
 
 - [Health officials warn of possible measles exposure at Newark Liberty in July](https://newjersey.news12.com/health-officials-warn-of-possible-measles-exposure-at-newark-liberty-in-july) (News12.com)
 
@@ -297,6 +309,12 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
 
 ## 25-33 (chikungunya)
+
+- [Chikungunya, accertato un caso a Reggio Emilia](https://www.ansa.it/emiliaromagna/notizie/2025/08/16/chikungunya-accertato-un-caso-a-reggio-emilia_04ac6a46-96fe-4826-973c-a106a1c4fa0b.html) (ANSA.it)
+
+- [Fighting chikungunya in Hong Kong: why do experts reject mosquito ‘weaponising’?](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/16/fighting-chikungunya-in-hong-kong-why-do-experts-reject-mosquito-weaponising) (The Star Online)
+
+- [Isère. Le moustique, ennemi n° 1 de l’été : « On a la chance d’avoir un peu de terrain et on a le sentiment de ne pas pouvoir en profiter pleinement »](https://www.ledauphine.com/environnement/2025/08/16/le-moustique-ennemi-n-1-de-l-ete-on-a-la-chance-d-avoir-un-peu-de-terrain-et-on-a-le-sentiment-de-ne-pas-pouvoir-en-profiter-pleinement) (Le Dauphiné Libéré)
 
 - [Rabbits With Tentacle-Like Growth Around Head Reported in Colorado Neighborhood](https://legalinsurrection.com/2025/08/rabbits-with-tentacle-like-growth-around-head-reported-in-colorado-neighborhood/) (Legalinsurrection.com)
 
@@ -2146,8 +2164,6 @@ Source: [News API](https://newsapi.org/)
 
 - [LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms) (The Times of India)
 
-- [Louis Pasteur: The Man Who Said, “Science Brings Men Closer to God”](https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/) (Answersingenesis.org)
-
 ## 25-28 (mpox)
 
 - [Moçambique confirma três casos do atual surto de mpox](https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/) (Observador.pt)
@@ -2175,8 +2191,6 @@ Source: [News API](https://newsapi.org/)
 - [España - Bélgica, en directo: alineaciones, horario y dónde ver el segundo partido de la Selección en la Eurocopa femenina](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-horario-ver-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
 
 - [Aitana lo cuenta todo: "Entré en el hospital y me dijeron que me quedaba ingresada, me dolía muchísimo"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250707/1002495919/aitana-cuenta-entre-hospital-me-dijeron-me-quedaba-ingresada-me-dolia.html) (Mundodeportivo.com)
-
-- [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
 
@@ -2370,42 +2384,6 @@ Source: [News API](https://newsapi.org/)
 
 - [When it comes to vaccines, how are pediatricians restoring trust?](https://www.npr.org/2025/07/06/1255282262/can-pediatricians-restore-trust-in-vaccine-policy) (NPR)
 
-- [Utah public health officials announce more new measles cases](https://www.stgeorgeutah.com/life/utah-public-health-officials-announce-more-new-measles-cases/article_fea4c313-1c6a-475c-9e32-b86db94b815b.html) (St George News)
-
-- [Measles cases in the U.S. approach 25-year high. See which parts of N.J. are at risk.](https://www.nj.com/healthfit/2025/07/measles-cases-in-the-us-approach-25-year-high-see-which-parts-of-nj-are-at-risk.html) (nj.com)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.ksbw.com/article/measles-cases-surge-to-record-high/65306083) (KSBW The Central Coast)
-
-- [One Figure Shows How Bad Measles Cases Are](https://www.newser.com/story/371411/one-figure-shows-how-bad-measles-cases-are.html) (Newser)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wisn.com/article/measles-cases-surge-to-record-high/65306083) (WISN Milwaukee)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wxii12.com/article/measles-cases-surge-to-record-high/65306083) (WXII12 Winston-Salem)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wesh.com/article/measles-cases-surge-to-record-high/65306083) (WESH Orlando)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.kcra.com/article/measles-cases-surge-to-record-high/65306083) (KCRA Sacramento)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.ketv.com/article/measles-cases-surge-to-record-high/65306083) (KETV Omaha)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wtae.com/article/measles-cases-surge-to-record-high/65306083) (WTAE Pittsburgh)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wyff4.com/article/measles-cases-surge-to-record-high/65306083) (WYFF4 Greenville)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wgal.com/article/measles-cases-surge-to-record-high/65306083) (WGAL Susquehanna Valley Pa.)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wmur.com/article/measles-cases-surge-to-record-high/65306083) (WMUR Manchester)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.wlky.com/article/measles-cases-surge-to-record-high/65306083) (WLKY Louisville)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.kmbc.com/article/measles-cases-surge-to-record-high/65306083) (KMBC Kansas City)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.koco.com/article/measles-cases-surge-to-record-high/65306083) (KOCO Oklahoma City)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.4029tv.com/article/measles-cases-surge-to-record-high/65306083) (4029tv)
-
-- [Measles cases surge to record high since disease was eliminated](https://www.koat.com/article/measles-cases-surge-to-record-high/65306083) (KOAT New Mexico)
-
 ## 25-28 (malaria)
 
 - [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
@@ -2463,8 +2441,6 @@ Source: [News API](https://newsapi.org/)
 - [Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013318) (Plos.org)
 
 - [Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327800) (Plos.org)
-
-- [Killer counterfeits: How fake malaria drugs claim 100,000 lives every year](https://www.standardmedia.co.ke/health/health-science/article/2001523559/killer-counterfeits-how-fake-malaria-drugs-claim-100000-lives-every-year) (Standard Digital)
 
 ## 25-28 (hpai)
 
@@ -2559,8 +2535,6 @@ Source: [News API](https://newsapi.org/)
 - [Brics anuncia parceria para erradicar doenças em países do Sul Global](https://valor.globo.com/brasil/noticia/2025/07/07/brics-anuncia-parceria-para-erradicar-doencas-em-paises-do-sul-global.ghtml) (Globo)
 
 - [Com 41,4 mil casos e 17 mortes por dengue em 2025, Campinas visita 757,3 mil imóveis no 1º semestre](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/07/com-414-mil-casos-e-17-mortes-por-dengue-campinas-visita-7573-mil-imoveis-no-1o-semestre.ghtml) (Globo)
-
-- [Preparations underway for dengue prevention in Pokhara](https://english.khabarhub.com/2025/06/483705/) (Khabarhub.com)
 
 ## 25-28 (chikungunya)
 
