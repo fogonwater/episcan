@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-08-16 19:05
-- **Most recent article:** 2025-08-15 18:27:31
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-08-17 07:06
+- **Most recent article:** 2025-08-16 03:00:38
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-27 | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 35 | 114 | 64 | 47 | 30 | 26 | 18 | 334 |
-| chikungunya | 10 | 40 | 21 | 63 | 36 | 107 | 43 | 320 |
-| dengue | 23 | 34 | 24 | 36 | 32 | 17 | 24 | 190 |
-| malaria | 21 | 29 | 12 | 18 | 13 | 18 | 15 | 126 |
-| rabies | 17 | 17 | 4 | 11 | 10 | 11 | 19 | 89 |
-| mpox | 10 | 6 | 7 | 9 | 13 | 10 | 5 | 60 |
-| yersinia | 0 | 43 | 6 | 2 | 1 | 0 | 7 | 59 |
-| meningitis | 25 | 7 | 7 | 12 | 3 | 1 | 4 | 59 |
-| zika | 8 | 12 | 8 | 2 | 7 | 8 | 9 | 54 |
-| h5n1 | 8 | 9 | 13 | 4 | 1 | 14 | 3 | 52 |
-| typhoid | 2 | 3 | 9 | 1 | 0 | 1 | 1 | 17 |
-| hpai | 4 | 3 | 2 | 1 | 0 | 3 | 0 | 13 |
-| pertussis | 0 | 0 | 4 | 3 | 1 | 0 | 2 | 10 |
-| leptospirosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
+| Disease | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | Total |
+|--|-|-|-|-|-|-|-|
+| chikungunya | 40 | 21 | 63 | 36 | 107 | 43 | 310 |
+| measles | 113 | 64 | 47 | 30 | 26 | 22 | 302 |
+| dengue | 33 | 24 | 36 | 32 | 17 | 25 | 167 |
+| malaria | 29 | 12 | 18 | 13 | 18 | 15 | 105 |
+| rabies | 17 | 4 | 11 | 10 | 11 | 24 | 77 |
+| yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 59 |
+| mpox | 6 | 7 | 9 | 13 | 10 | 7 | 52 |
+| zika | 12 | 8 | 2 | 7 | 8 | 9 | 46 |
+| h5n1 | 9 | 13 | 4 | 1 | 14 | 3 | 44 |
+| meningitis | 7 | 7 | 12 | 3 | 1 | 4 | 34 |
+| typhoid | 3 | 9 | 1 | 0 | 1 | 1 | 15 |
+| pertussis | 0 | 4 | 3 | 1 | 0 | 2 | 10 |
+| hpai | 3 | 2 | 1 | 0 | 3 | 0 | 9 |
+| leptospirosis | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -74,6 +74,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (rabies)
 
+- [New Hartford Bat Tests Positive for Rabies: 1 Person and 1 Pet Exposed](https://www.wktv.com/news/health/new-hartford-bat-tests-positive-for-rabies-1-person-and-1-pet-exposed/article_870a0fce-b2f4-44a5-a03e-e5492dbc4560.html) (WKTV)
+
+- [Hundreds may have been exposed to rabies at bat-infested cabins in Grand Teton National Park | CNN](https://www.cnn.com/2025/08/15/health/rabies-risk-grand-teton-national-park) (CNN)
+
+- [Hundreds may have been exposed to rabies at bat-infested cabins in Grand Teton National Park](https://www.bostonherald.com/2025/08/15/grand-teton-national-park-bat-cabins/) (Boston Herald)
+
+- [Hundreds may have been exposed to rabies at bat-infested cabins in Grand Teton National Park](https://www.denverpost.com/2025/08/15/grand-teton-national-park-bat-cabins/) (The Denver Post)
+
+- [Brantford, Ont., daycare closes temporarily after child finds rabid bat, hands it to worker](https://www.cbc.ca/news/canada/hamilton/bat-rabies-brantford-1.7610584) (CBC News)
+
 - [Best of Both Sides: SC order on stray dogs overlooks that compassion is what makes a city a home](https://indianexpress.com/article/opinion/columns/best-of-both-sides-sc-order-on-stray-dogs-overlooks-that-compassion-is-what-makes-a-city-a-home-10190013/) (The Indian Express)
 
 - [Grand Teton Rabies Scare: Hundreds of Visitors Potentially Exposed](https://www.outsideonline.com/outdoor-adventure/exploration-survival/200-teton-park-visitors-exposed-rabies/#article) (Outside)
@@ -120,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-33 (mpox)
 
+- [Mpox Cases Are Rising in San Francisco Again. From Symptoms to Vaccines, What to Know for Summer 2025](https://www.kqed.org/news/12052382/mpox-monkeypox-san-francisco-bay-area-cases-symptoms-where-to-find-vaccine) (KQED)
+
+- [One year of mpox health emergency](https://www.npr.org/2025/08/15/nx-s1-5500224/one-year-of-mpox-health-emergency) (NPR)
+
 - [Mpox: África tem quase 50 mil casos confirmados](https://www.infomoney.com.br/saude/mpox-africa-tem-quase-50-mil-casos-confirmados/) (InfoMoney)
 
 - [Moçambique. Conflitos e mudanças climáticas disseminam Mpox](https://observador.pt/2025/08/14/pesquisador-mocambicano-diz-que-conflitos-e-mudancas-climaticas-disseminam-mpox/) (Observador.pt)
@@ -141,6 +155,14 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis Can Now Be Quickly Spotted in Babies Thanks to New Non-Invasive Test With 94% Accuracy](https://www.goodnewsnetwork.org/meningitis-can-now-be-quickly-spotted-in-babies-with-new-non-invasive-test-with-94-accuracy/) (Good News Network)
 
 ## 25-33 (measles)
+
+- [Health officials warn of possible measles exposure at Newark Liberty in July](https://newjersey.news12.com/health-officials-warn-of-possible-measles-exposure-at-newark-liberty-in-july) (News12.com)
+
+- [Multiple locations in Mesa County may have been exposed to measles](https://www.westernslopenow.com/news/multiple-locations-in-mesa-county-may-have-been-exposed-to-measles/) (Westernslopenow.com)
+
+- [Fargo Cass Public Health to host parking lot vaccination clinic Aug. 19](https://www.inforum.com/health/fargo-cass-public-health-to-host-parking-lot-vaccination-clinic-aug-19) (INFORUM)
+
+- [8/16/25: SF Fringe Festival Debut “How Many Characters” (SF) - $16.78](https://sf.funcheap.com/sf-fringe-festival-debut-characters-sf/) (Funcheap.com)
 
 - [Infectious person with measles was at Newark Liberty International Airport, N.J. health officials say](https://www.cbsnews.com/newyork/news/newark-liberty-international-airport-measles-exposure/) (CBS News)
 
@@ -210,6 +232,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
 
+## 25-33 (leptospirosis)
+
+- [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
+
 ## 25-33 (h5n1)
 
 - [China veta la entrada de productos avícolas españoles por los brotes de gripe aviar](https://www.meneame.net/m/actualidad/china-veta-entrada-productos-avicolas-espanoles-brotes-gripe) (Meneame.net)
@@ -219,6 +245,8 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC informa de un caso humano de gripe aviar A(H5N1) en una menor de 10 años Camboya](https://www.infosalus.com/salud-investigacion/noticia-ecdc-informa-caso-humano-gripe-aviar-ah5n1-menor-10-anos-camboya-20250811125824.html) (Infosalus.com)
 
 ## 25-33 (dengue)
+
+- [Mosquito-born dengue fever cases surge at popular US vacation destination](https://www.foxnews.com/health/mosquito-born-dengue-fever-cases-surge-popular-us-vacation-destination) (Fox News)
 
 - [West Nile, chikungunya, dengue: Breaking down summer’s mosquito-borne diseases](https://www.politico.eu/article/west-nile-italy-france-europe-mosquito-borne-diseases/) (POLITICO.eu)
 
@@ -2378,8 +2406,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases surge to record high since disease was eliminated](https://www.koat.com/article/measles-cases-surge-to-record-high/65306083) (KOAT New Mexico)
 
-- [Measles cases surge to record high since disease was declared eliminated in the US (Deidre McPhillips/CNN)](https://www.memeorandum.com/250705/p70) (Memeorandum.com)
-
 ## 25-28 (malaria)
 
 - [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
@@ -2536,8 +2562,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Preparations underway for dengue prevention in Pokhara](https://english.khabarhub.com/2025/06/483705/) (Khabarhub.com)
 
-- [Dengue cases spike: Telangana health minister orders anti-larval drive expansion; GHMC told to deploy officers](https://timesofindia.indiatimes.com/city/hyderabad/dengue-cases-spike-telangana-health-minister-orders-anti-larval-drive-expansion-ghmc-told-to-deploy-officers/articleshow/122275407.cms) (The Times of India)
-
 ## 25-28 (chikungunya)
 
 - [Valneva Announces Lifting of European Medicines Agency’s Temporary Restriction on Use of Chikungunya Vaccine IXCHIQ® in Elderly](https://www.globenewswire.com/news-release/2025/07/11/3114143/0/en/Valneva-Announces-Lifting-of-European-Medicines-Agency-s-Temporary-Restriction-on-Use-of-Chikungunya-Vaccine-IXCHIQ-in-Elderly.html) (GlobeNewswire)
@@ -2619,351 +2643,3 @@ Source: [News API](https://newsapi.org/)
 - [Nahe Baden-Württemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze](https://www.stern.de/panorama/wissen/nahe-baden-wuerttemberg--chikungunya-infektion-im-elsass---nahe-der-deutschen-grenze-35874016.html) (STERN.de)
 
 - [Mucho calor muy temprano y lluvias, un verano perfecto para los mosquitos que transmiten enfermedades](https://www.eldiario.es/sociedad/calor-temprano-lluvias-verano-perfecto-mosquitos-transmiten-enfermedades_1_12436326.html) (Eldiario.es)
-
-## 25-27 (zika)
-
-- [Produits anti-moustiques : lequel choisir pour être bien protégé ?](https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/) (Futura)
-
-- [SES-DF adota método com bactéria que ajuda a combater vírus da dengue](https://www.metropoles.com/distrito-federal/saude-adota-metodo-com-bacteria-que-ajuda-a-combater-virus-da-dengue) (Metropoles.com)
-
-- [Portable Mosquito Defense System Zaps Blood-Sucking Pests With Lasers](https://hothardware.com/news/mosquito-defense-zaps-blood-sucking-pests-lasers) (Hot Hardware)
-
-- [El Govern lanza un frente común contra las enfermedades transmitidas por mosquitos, sobre todo el dengue](https://www.elperiodico.com/es/sanidad/20250704/frente-comun-govern-enfermedades-transmitidas-mosquitos-dengue-zika-calor-cataluna-119355106) (Elperiodico.com)
-
-- [Nova lei garante indenização e pensão a vítimas do Zika vírus](https://www.congressoemfoco.com.br/noticia/109890/nova-lei-garante-indenizacao-e-pensao-a-vitimas-do-zika-virus) (Congressoemfoco.com.br)
-
-- [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
-
-- [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
-
-- [飛行機撮影の聖地に新名所誕生！豊中つばさ公園『ma-zika』一部開園](https://prtimes.jp/main/html/rd/p/000000865.000078420.html) (Prtimes.jp)
-
-## 25-27 (typhoid)
-
-- [Kenya to vaccinate children against typhoid and measles-rubella](https://www.standardmedia.co.ke/health/health-science/article/2001523252/kenya-to-vaccinate-children-against-typhoid-and-measles-rubella) (Standard Digital)
-
-- [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
-
-## 25-27 (rabies)
-
-- [Rabies: நாய் கடித்தால் இதை முதலில் செய்யவும்.... தமிழ்நாடு அரசின் ரேபிஸ் தடுப்பு ஆலோசனை](https://zeenews.india.com/tamil/health/rabies-prevention-advisory-from-tamil-nadu-government-what-to-if-a-dog-bites-you-see-doctor-advice-here-596391) (India.com)
-
-- [What is lyssavirus? The deadly ‘bat rabies’ that’s been found in the UK](https://www.the-independent.com/life-style/health-and-families/lyssavirus-symptoms-bat-rabies-uk-australia-b2782803.html) (The-independent.com)
-
-- [He Died From a Bat Bite. It Wasn't Rabies](https://www.newser.com/story/371329/he-died-from-a-bat-bite-it-wasnt-rabies.html) (Newser)
-
-- [Australsk mann døydde etter flaggermusbit](https://www.nrk.no/nyheter/australsk-mann-doydde-etter-flaggermusbit-1.17480149) (NRK)
-
-- [Man dies after being bitten by bat with "extremely rare" infection](https://www.cbsnews.com/news/man-dies-bat-bite-extremely-rare-infection-australia/) (CBS News)
-
-- [Optimizing dog population control strategies in Thailand using mathematical and economic modeling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013202) (Plos.org)
-
-- [Australian man dies from 'extremely rare' bat bite virus](https://www.hurriyetdailynews.com/australian-man-dies-from-extremely-rare-bat-bite-virus-211046) (Hurriyet Daily News)
-
-- [State-level Kabaddi player dies of rabies after rescuing puppy from drain and ignoring vaccine, calling bite 'nothing serious'](https://economictimes.indiatimes.com/news/india/state-level-kabaddi-player-dies-of-rabies-after-rescuing-puppy-from-drain-and-ignoring-vaccine-calling-bite-nothing-serious/articleshow/122223516.cms) (The Times of India)
-
-- [Kabaddi player dies of rabies after rescuing puppy](https://www.rediff.com/sports/report/kabaddi-player-dies-of-rabies-after-rescuing-puppy/20250703.htm) (Rediff.com)
-
-- [जिस पिल्ले को बचाया, उसी के काटने से गई जान, UP में रेबीज से कबड्डी खिलाड़ी की दर्दनाक मौत](https://www.dainiktribuneonline.com/news/sports/the-puppy-he-saved-bit-him-and-he-died-a-kabaddi-player-died-a-painful-death-due-to-rabies-in-up/) (Dainiktribuneonline.com)
-
-- [Australian man dies from 'extremely rare' bat bite virus](https://japantoday.com/category/world/australian-man-dies-from-%27extremely-rare%27-bat-bite-virus) (Japan Today)
-
-- [Lyssavirus alert: NSW Health issue warning after man dies from rabies-like bat virus with no cure](https://thenightly.com.au/australia/nsw/lyssavirus-alert-nsw-health-issue-warning-after-man-dies-from-rabies-like-bat-virus-with-no-cure-c-19235830) (Thenightly.com.au)
-
-- [Breaking: Man dies from 'rabies-like' virus after bat bite in NSW first](https://www.abc.net.au/news/2025-07-03/nsw-man-dies-lyssavirus-bitten-by-bat/105490606) (ABC News (AU))
-
-- [“Not Worth The Rabies Shots”: 23 Life-Saving Tips On What Not To Do When Visiting The US](https://www.boredpanda.com/actions-avoid-doing-visiting-america-msn/) (Boredpanda.com)
-
-- [Man contracts first confirmed NSW case of 'rabies-like' bat disease](https://www.abc.net.au/news/2025-07-02/nsw-man-australian-bat-lyssavirus-infection/105486912) (ABC News (AU))
-
-- [Rabies påvist hos rev på Svalbard: Ber folk vere oppmerksamme](https://www.nrk.no/tromsogfinnmark/rabies-pavist-hos-rev-pa-svalbard_-ber-folk-vere-oppmerksamme-1.17477083) (NRK)
-
-- [Gen Zer Scratched by Street Cat in Thailand—then Comes Chilling Realization](https://www.newsweek.com/tourist-bitten-cat-rabies-vaccination-viral-video-2092592) (Newsweek)
-
-## 25-27 (mpox)
-
-- [Роспотребнадзор не фиксировал случаи оспы обезьян в РФ в 2025 году](https://tass.ru/obschestvo/24430351) (Tass.ru)
-
-- [Vaiolo scimmie, in Italia primo caso del clade Ib: tornato da viaggio in Tanzania](https://www.ilgiornale.it/news/adnkronos/vaiolo-scimmie-italia-primo-caso-clade-ib-tornato-viaggio-2504854.html) (Ilgiornale.it)
-
-- [Gana'da M çiçeği vaka sayısı 133'e yükseldi](https://www.aa.com.tr/tr/dunya/ganada-m-cicegi-vaka-sayisi-133e-yukseldi/3620026) (Anadolu Agency)
-
-- [FT: у Африки нет денег для борьбы с эпидемией оспы обезьян](https://tass.ru/obschestvo/24412515) (Tass.ru)
-
-- [Mpox en Sierra Leone : les raisons de la récente recrudescence et les risques pour l'Afrique de l'Ouest](https://theconversation.com/mpox-en-sierra-leone-les-raisons-de-la-recente-recrudescence-et-les-risques-pour-lafrique-de-louest-259828) (The Conversation Africa)
-
-- [Awareness campaigns and strengthened prevention as alternatives to banning: Preventing zoonotic diseases from wildlife in the Democratic Republic of Congo](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327590) (Plos.org)
-
-- [Ghana confirms 14 new Mpox cases, total reaches 133](https://thechronicle.com.gh/ghana-confirms-14-new-mpox-cases-total-reaches-133/) (Thechronicle.com.gh)
-
-- [ΕΟΔΥ: Πολλαπλασιάστηκαν τα κρούσματα γονόρροιας και σύφιλης στην Ελλάδα – Προσοχή στα Σεξουαλικώς Μεταδιδόμενα Νοσήματα](https://www.newsit.gr/ellada/eody-pollaplasiastikan-ta-krousmata-gonorroias-kai-syfilis-stin-ellada-prosoxi-sta-seksoualikos-metadidomena-nosimata/4420048/) (Newsit.gr)
-
-- [Προσοχή στα ΣΜΝ -Τριπλασιάστηκαν τα περιστατικά γονόρροιας - Διπλασιάστηκαν οι διαγνώσεις πρώιμης σύφιλης](https://www.skai.gr/news/health/smn-diplasiastikan-oi-diagnoseis-syfilis-triplasiastikan-ta-peristatika-gonorroias) (Skai.gr)
-
-- [Dix-huit cas de mpox enregistrés en Guinée](https://fr.sputniknews.africa/20250630/dix-huit-cas-de-mpox-enregistres-en-guinee-1074876539.html) (Sputniknews.africa)
-
-## 25-27 (meningitis)
-
-- [Aitana, con "ganas de más" y Bélgica entre ceja y ceja](https://www.elperiodico.com/es/deportes/20250705/aitana-ganas-belgica-ceja-ceja-119387650) (Elperiodico.com)
-
-- [Mensaje de Aitana Bonmatí tras su meningitis](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250704/1002494432/aitana-bonmati-agradecida-haber-podido-volver-sana-fuerte.html) (Mundodeportivo.com)
-
-- [Ha nacido una estrella: Vicky López, un récord y dedicatorias al cielo](https://www.abc.es/deportes/futbol/nacido-estrella-vicky-lopez-record-dedicatorias-cielo-20250704123044-nt.html) (Www.abc.es)
-
-- [Alexia, feliz pero prudente: «Solo hemos ganado un partido»](https://www.abc.es/deportes/futbol/alexia-feliz-prudente-solo-ganado-partido-20250704001631-nt.html) (Www.abc.es)
-
-- [Vicky López: "Hemos sido unas bestias"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250704/1002494234/vicky-lopez-hemos-sido-bestias.html) (Mundodeportivo.com)
-
-- [Alexia se suma a la fiesta de España con mucha clase](https://www.mundodeportivo.com/futbol/femenino/eurocopa/20250703/1002494118/alexia-suma-fiesta-espana-clase.html) (Mundodeportivo.com)
-
-- [Group B Streptococci lyse endothelial cells to infect the brain in a zebrafish meningitis model](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003236) (Plos.org)
-
-- [Aitana Bonmatí mejora tras meningitis y podría jugar en debut de España en la Eurocopa Femenina 2025](https://www.milenio.com/deportes/futbol-internacional/aitana-bonmati-podria-jugar-en-debut-de-espana-en-euro-femenina-2025) (Milenio)
-
-- [Aitana Bonmatí making 'very positive' progress, could play in Spain's Euro 2025 opener](https://www.foxsports.com/stories/soccer/aitana-bonmati-making-very-positive-progress-could-play-spains-euro-2025-opener) (Fox Sports)
-
-- [Spain coach Tomé upbeat about Bonmatí fitness](https://www.espn.com/soccer/story/_/id/45645763/euro-2025-spain-coach-tome-upbeat-aitana-bonmati-fitness) (ESPN)
-
-- [Spain's Bonmati 'eager' to play after meningitis scare](https://www.bbc.com/sport/football/articles/cm2zvz0lzlro) (BBC News)
-
-- [Montse Tomé deja entrever que Aitana no jugará ante Portugal: «Tiene muchas ganas, pero hay que ir frenándola»](https://www.abc.es/deportes/futbol/montse-tome-deja-entrever-aitana-jugara-ante-20250702170836-nt.html) (Www.abc.es)
-
-- [Montse Tomé: "Aitana tiene muchas ganas de jugar y hay que ir frenándola"](https://www.mundodeportivo.com/futbol/femenino/20250702/1002493303/montse-tome-aitana-muchas-ganas-jugar-hay-frenandola.html) (Mundodeportivo.com)
-
-- [Una mejoría de récord: Aitana ya se entrena en Suiza y amenaza a Portugal](https://www.abc.es/deportes/futbol/mejoria-record-aitana-entrena-suiza-amenaza-portugal-20250701163413-nt.html) (Www.abc.es)
-
-- [Superstar Bonmati im spanischen Teamhotel eingetroffen](https://sport.orf.at/stories/3142944/) (Sport.orf.at)
-
-- [EM in der Schweiz: Weltfußballerin Bonmati stößt nach Meningitis zum Team](https://www.tagesspiegel.de/sport/em-in-der-schweiz-weltfussballerin-bonmati-stosst-nach-meningitis-zum-team-13945588.html) (Der Tagesspiegel)
-
-- [Bonmati returns to Spain squad at Euro 2025](https://www.espn.com/soccer/story/_/id/45626868/euro-2025-aitana-bonmati-rejoins-spain-squad-hospital-discharge) (ESPN)
-
-- [Bonmati back with Spain at Euro 2025, although her status remains unclear](https://www.channelnewsasia.com/sport/bonmati-back-spain-euro-2025-although-her-status-remains-unclear-5213521) (CNA)
-
-- [Bonmati back with Spain after meningitis treatment](https://www.bbc.com/sport/football/articles/c04ddv49vdxo) (BBC News)
-
-- [Aitana Bonmatí ya está en Suiza con la selección tras superar su meningitis](https://www.elperiodico.com/es/deportes/20250701/aitana-bonmati-suiza-seleccion-superar-119233418) (Elperiodico.com)
-
-- [Jenni Hermoso no suplirá a Aitana Bonmatí](https://www.abc.es/deportes/futbol/manuel-merinero-jenni-hermoso-suplira-aitana-bonmati-20250630191447-nt.html) (Www.abc.es)
-
-- [Aitana Bonmatí se reincorpora a la concentración de la selección](https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-reincorpora-concentracion-seleccion-20250630233653.html) (Europapress.es)
-
-- [¡Aitana Bonmatí ya está con España en Lausana!](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250630/1002492212/aitana-bonmati-reincorpora-espana-lausana.html) (Mundodeportivo.com)
-
-- [Spain’s Bonmati Discharged From Hospital Ahead Of UEFA Women’s Euro](https://www.forbes.com/sites/manasipathak-1/2025/06/30/spains-bonmati-discharged-from-hospital-ahead-of-uefa-womens-euro/) (Forbes)
-
-- [Krankenhaus verlassen, aber… - Weltfußballerin fehlt im ersten EM-Spiel](https://www.bild.de/sport/fussball/krankenhaus-verlassen-aber-weltfussballerin-fehlt-im-ersten-em-spiel-6861ac2954352c1fc4b312a0) (Bild)
-
-## 25-27 (measles)
-
-- [Measles cases surge to record high since disease was declared eliminated in the US](https://www.wsiltv.com/news/health/measles-cases-surge-to-record-high-since-disease-was-declared-eliminated-in-the-us/article_032fdb40-0c22-524e-8272-f45baf80bb00.html) (WSIL TV)
-
-- [Boy with measles visited Osaka Expo; officials urge caution](https://japantoday.com/category/national/boy-with-measles-visited-osaka-expo-officials-urge-caution) (Japan Today)
-
-- [Is US measles elimination status in danger as cases surge to record high in 2025?](https://economictimes.indiatimes.com/news/international/us/is-us-measles-elimination-status-in-danger-as-cases-surge-to-record-high-in-2025/articleshow/122271486.cms) (The Times of India)
-
-- [Measles cases surge to record high since disease was declared eliminated in the US | CNN](https://www.cnn.com/2025/07/05/health/measles-cases-us-record-since-elimination) (CNN)
-
-- [Vaccinations rise when states button up religious loopholes](https://www.nbcnews.com/health/health-news/vaccinations-rise-states-religious-loopholes-exemptions-rcna212334) (NBC News)
-
-- [How Canada could boost disease surveillance to make up for U.S. health cuts](https://www.cbc.ca/news/health/cmaj-editorial-canada-us-cuts-surveillance-1.7577992) (CBC News)
-
-- [Manitoba warns of further measles exposure at Winnipeg children's hospital](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-children-s-hospital-boundary-trails-health-centre-1.7577917) (CBC News)
-
-- [Kansas health department reports new measles exposure in Wichita](https://www.kmbc.com/article/kansas-health-department-measles-exposure-wichita/65300969) (KMBC Kansas City)
-
-- [Keep babies, high risk Albertans away from Stampede due to measles, doctors caution](https://www.cbc.ca/news/canada/calgary/keep-babies-high-risk-albertans-away-from-stampede-due-to-measles-doctors-caution-1.7576448) (CBC News)
-
-- [Ontario reports 12 new measles cases, continuing downward trend](https://www.cbc.ca/news/canada/toronto/ontario-measles-case-july-3-2025-1.7576381) (CBC News)
-
-- [Fewer new measles cases in Ontario, public health data shows | Globalnews.ca](http://globalnews.ca/news/11272121/ontario-measles-update-july-3/) (Global News)
-
-- [New State Reports Measles Outbreak as RFK Jr. Guts Vaccine Access](https://newrepublic.com/post/197597/robert-f-kennedy-jr-measles-outbreak-kentucky-vaccines) (The New Republic)
-
-- [Measles Outbreak Hits Another State](https://www.huffpost.com/entry/kentucky-measles-outbreak_n_6866a6a7e4b0225e8f8bae70) (HuffPost)
-
-- [Measles update: Kentucky now has a confirmed outbreak](https://www.fastcompany.com/91362786/measles-update-kentucky-now-confirmed-outbreak) (Fast Company)
-
-- [Kentucky confirms measles outbreak as US nears its highest case count in more than 30 years](https://richmond.com/news/nation-world/article_9d9b4b48-567a-53ac-96d6-cfc1601ef355.html) (Richmond.com)
-
-- [Kentucky Measles Outbreak Raises Fear for Kindergarteners](https://www.newser.com/story/371308/kentucky-measles-outbreak-raises-fear-for-kindergarteners.html) (Newser)
-
-- [8 more measles cases reported in Manitoba, bringing total to 116](https://www.cbc.ca/news/canada/manitoba/measles-update-june-28-1.7575702) (CBC News)
-
-- [Health department warns of possible measles exposure in W. Va.](https://www.wsaz.com/2025/07/02/health-department-warns-possible-measles-exposure-wva/) (WSAZ-TV)
-
-- [Kenya to vaccinate children against typhoid and measles-rubella](https://www.standardmedia.co.ke/health/health-science/article/2001523252/kenya-to-vaccinate-children-against-typhoid-and-measles-rubella) (Standard Digital)
-
-- [Nine measles cases in Utah, and most are in one county, health officials say](https://www.sltrib.com/news/2025/07/02/nine-measles-cases-utah-most-are/) (Salt Lake Tribune)
-
-- [Wyoming confirms 1st case of measles in 15 years as infections near 30-year high in US](https://abcnews.go.com/Health/wyoming-confirms-1st-case-measles-15-years-infections/story?id=123407276) (ABC News)
-
-- [Kent County issues measles exposure warning after 2nd infection](https://www.mlive.com/news/2025/07/kent-county-issues-measles-exposure-warning-after-2nd-infection.html) (mlive.com)
-
-- [Health department reports 9 total cases of measles in Utah](https://kutv.com/news/local/health-department-reports-9-total-cases-of-measles-in-utah) (KUTV 2News)
-
-- [Department of State Health Services reports first measles case of 2025 in Bexar County](https://www.ksat.com/news/local/2025/07/01/department-of-state-health-services-reports-first-measles-case-of-2025-in-bexar-county/) (KSAT San Antonio)
-
-- [First Wyoming measles case in 15 years reported in Casper](http://oilcity.news/community/health/2025/07/01/first-wyoming-measles-case-in-15-years-reported-in-casper/) (Oil City News)
-
-- [Texas measles outbreak: 3 new cases in connection to West Texas outbreak](https://www.fox4news.com/news/texas-measles-outbreak-july-1-2025) (FOX 4 News)
-
-- [Many forget the damage done by diseases like whooping cough, measles and rubella. Not these families](https://www.bostonherald.com/2025/07/01/vaccine-preventable-diseases/) (Boston Herald)
-
-- [A Texas boy needed protection from measles. The vaccine cost $1,400. (Julie Appleby/Washington Post)](https://www.memeorandum.com/250701/p24) (Memeorandum.com)
-
-- [Measles, typhoid outbreaks spur vaccination drive](https://www.standardmedia.co.ke/health/health-science/article/2001523097/measles-typhoid-outbreaks-spur-vaccination-drive) (Standard Digital)
-
-- [Province warns of possible measles exposure at Winnipeg children's hospital ER](https://www.cbc.ca/news/canada/manitoba/winnipeg-health-sciences-centre-childrens-er-measles-1.7574586) (CBC News)
-
-- [Measles risk while traveling: How to avoid infection](https://www.medicalnewstoday.com/articles/qa-how-to-stay-safe-against-measles-while-traveling) (Medical News Today)
-
-- [Public health officials warn of measles exposure at Nicholasville water park](https://www.lex18.com/news/public-health-officials-warn-of-measles-exposure-at-nicholasville-water-park) (LEX18 Lexington KY News)
-
-- [Michigan announces second measles outbreak as US goes past 1,200 cases](https://www.mlive.com/news/2025/06/michigan-announces-second-measles-outbreak-as-us-goes-past-1200-cases.html) (mlive.com)
-
-- ['It's insane': Family of Texas 4-year-old hit with $1.4K bill for measles shot](https://www.rawstory.com/a-texas-boy-needed-protection-from-measles-the-vaccine-cost-1400/) (Raw Story)
-
-- [A Texas Boy Needed Protection From Measles. The Vaccine Cost $1,400.](https://kffhealthnews.org/news/article/bill-of-the-month-texas-measles-vaccine-insurance-charge-outbreak-international/) (Kffhealthnews.org)
-
-## 25-27 (malaria)
-
-- [Portable Mosquito Defense System Zaps Blood-Sucking Pests With Lasers](https://hothardware.com/news/mosquito-defense-zaps-blood-sucking-pests-lasers) (Hot Hardware)
-
-- [TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013329) (Plos.org)
-
-- [Anticoagulant therapy and altered tissue factor expression protect against experimental placental and cerebral malaria](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013259) (Plos.org)
-
-- [Hexosamine biosynthesis disruption impairs GPI production and arrests Plasmodium falciparum growth at schizont stages](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012832) (Plos.org)
-
-- [Los BRICS lanzarán un plan para erradicar la malaria y otras enfermedades desatendidas](https://noticiaslatam.lat/20250703/los-brics-lanzaran-un-plan-para-erradicar-la-malaria-y-otras-enfermedades-desatendidas-1164059588.html) (Noticiaslatam.lat)
-
-- [Los trastornos de salud mental, la malaria y las enfermedades cardíacas, los más afectados por la pandemia de COVID-19](https://www.infosalus.com/salud-investigacion/noticia-trastornos-salud-mental-malaria-enfermedades-cardiacas-mas-afectados-pandemia-covid-19-20250703070750.html) (Infosalus.com)
-
-- [United States Virology, Bacteriology, Parasitology and Mycology Market Forecasts and Supplier Shares: Supplier Shares and Future Forecasts Revealed for Major Infectious Disease Tests](https://www.globenewswire.com/news-release/2025/07/02/3108981/28124/en/United-States-Virology-Bacteriology-Parasitology-and-Mycology-Market-Forecasts-and-Supplier-Shares-Supplier-Shares-and-Future-Forecasts-Revealed-for-Major-Infectious-Disease-Tests.html) (GlobeNewswire)
-
-- [Pair of malaria parasite proteins could lead to targeted therapies](https://phys.org/news/2025-07-pair-malaria-parasite-proteins-therapies.html) (Phys.Org)
-
-- [Ethiopia reports over 520,000 malaria cases in May: WHO](https://www.thestar.com.my/news/world/2025/07/02/ethiopia-reports-over-520000-malaria-cases-in-may-who) (The Star Online)
-
-- [WHO verklaart Suriname als eerste land in Amazonegebied ‘malariavrij’](https://www.nrc.nl/nieuws/2025/07/01/who-verklaart-suriname-als-eerste-land-in-amazonegebied-malariavrij-a4898886) (Www.nrc.nl)
-
-- [WHO verklaart Suriname als eerste land in Amazonegebied malariavrij](https://www.vrt.be/vrtnws/nl/2025/06/30/suriname-malariavrij/) (Www.vrt.be)
-
-- [WHO erklärt Surinam für malariafrei](https://orf.at/stories/3398272/) (Orf.at)
-
-- [Krankheiten: WHO erklärt Suriname für malariafrei](https://www.tagesspiegel.de/wissen/krankheiten-who-erklart-suriname-fur-malariafrei-13943932.html) (Der Tagesspiegel)
-
-- [Krankheiten: WHO erklärt Suriname für malariafrei](https://www.zeit.de/news/2025-06/30/who-erklaert-suriname-fuer-malariafrei) (Die Zeit)
-
-- [Krankheiten: WHO erklärt Suriname für malariafrei](https://www.stern.de/panorama/wissen/krankheiten--who-erklaert-suriname-fuer-malariafrei-35853930.html) (STERN.de)
-
-- [Albares destaca el "esfuerzo" de España con la salud global aumentando fondos frente al Sida, la malaria y tuberculosis](https://www.infosalus.com/actualidad/noticia-albares-destaca-esfuerzo-espana-salud-global-aumentando-fondos-frente-sida-malaria-tuberculosis-20250630172842.html) (Infosalus.com)
-
-- [Suriname certified malaria-free by WHO](https://www.who.int/news/item/30-06-2025-suriname-certified-malaria-free-by-who) (World Health Organization)
-
-- [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
-
-- [TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody response against PvCSP variants in symptomatic P. vivax infections in Venezuela](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013262) (Plos.org)
-
-- [Malaria Is Evolving—Our Response Should Too](https://speakingofmedicine.plos.org/2025/06/30/malaria-is-evolving-our-response-should-too/) (Plos.org)
-
-- [gnuhealth-mdg6 5.0.0](https://pypi.org/project/gnuhealth-mdg6/5.0.0/) (Pypi.org)
-
-## 25-27 (hpai)
-
-- [Avian flu detected in groups of sea birds washing up along west coast of Ireland](https://www.irishtimes.com/ireland/2025/07/03/avian-flu-detected-in-groups-of-sea-birds-washing-up-along-west-coast-of-ireland/) (The Irish Times)
-
-- [South Africa begins first-ever poultry vaccination to minimize bird flu outbreaks](https://www.thestar.com.my/news/world/2025/07/04/south-africa-begins-first-ever-poultry-vaccination-to-minimize-bird-flu-outbreaks) (The Star Online)
-
-- [Cambodia Reports 10 Cases of Bird Flu This Year](https://www.shtfplan.com/headline-news/cambodia-reports-10-cases-of-bird-flu-this-year) (Shtfplan.com)
-
-- [日本HP、AI PCを活用した未来の働き方（Future of Work）を提案](https://prtimes.jp/main/html/rd/p/000000102.000068112.html) (Prtimes.jp)
-
-## 25-27 (h5n1)
-
-- [RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn (Ben Turner/LiveScience)](https://www.memeorandum.com/250705/p43) (Memeorandum.com)
-
-- [Újra robban a halálos vírus: egymás után jönnek az új esetek](https://www.portfolio.hu/gazdasag/20250704/ujra-robban-a-halalos-virus-egymas-utan-jonnek-az-uj-esetek-772599) (Portfolio.hu)
-
-- [RFK's proposal to let bird flu spread through poultry could set us up for a pandemic, experts warn](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn) (Live Science)
-
-- [Cambodia Reports 10 Cases of Bird Flu This Year](https://www.shtfplan.com/headline-news/cambodia-reports-10-cases-of-bird-flu-this-year) (Shtfplan.com)
-
-- [South Africa reports H5N1 bird flu on poultry farms, international agency says](https://www.thestar.com.my/news/world/2025/07/02/south-africa-reports-h5n1-bird-flu-on-poultry-farms-international-agency-says) (The Star Online)
-
-- [Links 7/2/2025](https://www.nakedcapitalism.com/2025/07/links-7-2-2025.html) (Nakedcapitalism.com)
-
-- [Anvisa autoriza testes em humanos com vacina contra gripe aviária do Butantan](https://veja.abril.com.br/saude/anvisa-autoriza-testes-em-humanos-com-vacina-contra-gripe-aviaria-do-butantan/) (Abril.com.br)
-
-- [Ten cases of bird flu reported in Cambodia so far in 2025](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/06/30/ten-cases-of-bird-flu-reported-in-cambodia-so-far-in-2025) (The Star Online)
-
-## 25-27 (dengue)
-
-- [Produits anti-moustiques : lequel choisir pour être bien protégé ?](https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/) (Futura)
-
-- [Dengue no longer a seasonal disease in Nepal as year-round infections surge](https://english.khabarhub.com/2025/05/483274/) (Khabarhub.com)
-
-- [Dengue, Covid cases increase nationwide](https://mypeoplesreview.com/2025/07/05/dengue-covid-cases-increase-nationwide/) (Mypeoplesreview.com)
-
-- [SES-DF adota método com bactéria que ajuda a combater vírus da dengue](https://www.metropoles.com/distrito-federal/saude-adota-metodo-com-bacteria-que-ajuda-a-combater-virus-da-dengue) (Metropoles.com)
-
-- [Aumentan un 116% los casos de dengue en Cataluña entre 2022 y 2024](https://www.abc.es/sociedad/aumentan-116-casos-dengue-cataluna-2022-2024-20250704154107-nt.html) (Www.abc.es)
-
-- [El Govern lanza un frente común contra las enfermedades transmitidas por mosquitos, sobre todo el dengue](https://www.elperiodico.com/es/sanidad/20250704/frente-comun-govern-enfermedades-transmitidas-mosquitos-dengue-zika-calor-cataluna-119355106) (Elperiodico.com)
-
-- [Se confirman 4 mil 740 casos de dengue en el país, menos de la cuarta parte de los reportados en 2024](https://www.jornada.com.mx/2025/07/04/politica/010n3pol) (Jornada.com.mx)
-
-- [Aedes aegypti ecology and dengue infection in three agricultural areas of Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013255) (Plos.org)
-
-- [Dengue scare: Cases may exceed 60,000 this year](https://english.khabarhub.com/2025/03/482692/) (Khabarhub.com)
-
-- [Suman 22 muertes por dengue en México; van más de 4 mil 500 casos en 2025](https://www.excelsior.com.mx/nacional/dengue-mexico-muertes-casos-2025-salud-estados/1725042) (Excelsior.com.mx)
-
-- [June dengue cases fall to 10 from 60 in 2024](https://timesofindia.indiatimes.com/city/goa/june-dengue-cases-fall-to-10-from-60-in-2024/articleshow/122212032.cms) (The Times of India)
-
-- [Azienda sanitaria, caso di virus Dengue nel Goriziano](https://www.ansa.it/sito/notizie/cronaca/2025/07/02/azienda-sanitaria-caso-di-virus-dengue-nel-goriziano_e16edeb9-0bf1-48ca-b332-134bab3ded32.html) (ANSA.it)
-
-- [Azienda sanitaria, caso di virus Dengue nel Goriziano](https://www.ansa.it/friuliveneziagiulia/notizie/2025/07/02/azienda-sanitaria-caso-di-virus-dengue-nel-goriziano_f286def4-8511-4c24-ad59-3c4f1448ba96.html) (ANSA.it)
-
-- [Con el verano hay más mosquitos y, temen oficiales, más casos de dengue](https://kffhealthnews.org/news/article/con-el-verano-hay-mas-mosquitos-y-temen-oficiales-mas-casos-de-dengue/) (Kffhealthnews.org)
-
-- [As Mosquito Season Peaks, Officials Brace for New Normal of Dengue Cases](https://kffhealthnews.org/news/article/mosquito-season-new-normal-dengue-vaccine-florida-california-climate-change/) (Kffhealthnews.org)
-
-- [Dengue: dalle zanzare ai viaggi in zone a rischio, come si previene l'esposizione](https://www.ilgiornale.it/news/adnkronos/dengue-dalle-zanzare-ai-viaggi-zone-rischio-si-previene-2503572.html) (Ilgiornale.it)
-
-- [Safety and tolerability of metformin in overweight and obese patients with dengue: An open-label clinical trial (MeDO)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013281) (Plos.org)
-
-- [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
-
-- [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
-
-- [Twins excel in SPM despite illness](https://www.thestar.com.my/news/nation/2025/07/01/twins-excel-in-spm-despite-illness) (The Star Online)
-
-- [Aviso de Sanidad a la ciudadanía por el mosquito tigre y el de Japón: se multiplican los casos de dengue y virus del Nilo en España](https://www.eleconomista.es/actualidad/noticias/13441003/06/25/aviso-de-sanidad-a-la-ciudadania-por-el-mosquito-tigre-y-el-de-japon-se-multiplican-los-casos-de-dengue-y-virus-del-nilo-en-espana.html) (Eleconomista.es)
-
-- [Dengue diagnosis and impact on clinical management: A literature review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013196) (Plos.org)
-
-- [gnuhealth-ntd-dengue 5.0.0](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.0/) (Pypi.org)
-
-## 25-27 (chikungunya)
-
-- [Produits anti-moustiques : lequel choisir pour être bien protégé ?](https://www.futura-sciences.com/sante/actualites/moustique-produits-anti-moustiques-lequel-choisir-etre-bien-protege-123506/) (Futura)
-
-- [Avertisment pentru turiști. Virus tropical care poate duce la afectarea organelor, depistat într-o destinație populară de vacanță](https://adevarul.ro/stil-de-viata/calatorii/avertisment-pentru-turisti-virus-tropical-care-2455639.html) (Adevarul.ro)
-
-- [Chikungunya en Outremer et dans l’hexagone : le vaccin Ixchiq en cause dans la moitié des cas graves signalés](https://www.opinion-internationale.com/2025/07/05/chikungunya-en-outremer-et-dans-lhexagone-le-vaccin-ixchiq-en-cause-dans-la-moitie-des-cas-graves-signales_135827.html) (Opinion-internationale.com)
-
-- [Chikungunya : une transmission autochtone détectée dans la région Grand-Est « confirme le risque important » en métropole](https://www.lemonde.fr/sante/article/2025/07/02/chikungunya-une-transmission-autochtone-detectee-dans-la-region-grand-est-confirme-le-risque-important-en-metropole_6617389_1651302.html) (Le Monde)
-
-- [Santé. Chikungunya : un lien établi avec le vaccin dans la moitié des cas d'effets indésirables graves](https://www.ledauphine.com/sante/2025/07/02/chikungunya-un-lien-etabli-avec-le-vaccin-dans-la-moitie-des-cas-d-effets-indesirables-graves) (Le Dauphiné Libéré)
-
-- [Santé. Chikungunya : un épisode de transmission autochtone dans la région Grand Est, une première](https://www.ledauphine.com/sante/2025/07/02/chikungunya-un-episode-de-transmission-autochtone-dans-la-region-grand-est-une-premiere) (Le Dauphiné Libéré)
-
-- [Chikungunya : un cas autochtone identifié pour la première fois dans la région Grand Est](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-un-cas-autochtone-identifie-pour-la-premiere-fois-dans-la-region-grand-est_7350510.html) (Franceinfo.fr)
-
-- [El ECDC alerta sobre la expansión en Europa de mosquitos que transmiten los virus del dengue, chikungunya y Zika](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-expansion-europa-mosquitos-transmiten-virus-dengue-chikungunya-zika-20250701125600.html) (Infosalus.com)
-
-- [Alerta en Europa por la expansión de mosquitos que transmiten los virus del dengue, chikungunya, Zika, del Nilo Occidental y la fiebre amarilla](https://www.eleconomista.es/salud-bienestar/noticias/13442405/07/25/alerta-en-europa-por-la-expansion-de-mosquitos-que-transmiten-los-virus-del-dengue-chikungunya-zika-del-nilo-occidental-y-la-fiebre-amarilla.html) (Eleconomista.es)
-
-- [La Réunion tourne la page du chikungunya](https://www.opinion-internationale.com/2025/07/01/la-reunion-tourne-la-page-du-chikungunya_135704.html) (Opinion-internationale.com)
