@@ -1,8 +1,567 @@
 {
-  "last_updated": "2025-08-19 07:07",
-  "count_articles_total": 1185,
-  "count_articles_new": 8,
+  "last_updated": "2025-08-19 19:06",
+  "count_articles_total": 1194,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 23827,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Texas Public Radio",
+      "author": "Gabriella Alcorta-solorio",
+      "title": "State health officials: The West Texas measles outbreak has ended",
+      "description": "After eight months, Texas DSHS reports the west Texas measles outbreak is over.",
+      "url": "https://www.tpr.org/bioscience-medicine/2025-08-18/state-health-officials-the-west-texas-measles-outbreak-has-ended",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/aa3baeb/2147483647/strip/true/crop/1024x538+0+243/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2Fff%2F16abc42a49f1b6e57f9e740e2880%2Fstate-of-measles.png",
+      "publishedAt": "2025-08-18 18:36:02",
+      "content": "Sign up for TPR Today , Texas Public Radio's newsletter that brings our top stories to your inbox each morning. The Texas Department of State Health Services is reporting the measles outbreak in Te\u2026 [+1144 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.391052",
+      "internal_id": "de189bea9d37ebc6e0e739569fa7a7db7959f7aff93bd1a92490abcf1376b545",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23824,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Deidre Mcphillips",
+      "title": "Measles outbreak is over, Texas health officials say",
+      "description": "Texas has confirmed at least 762 cases of measles associated with the outbreak since late January, including nearly 100 hospitalizations.",
+      "url": "https://www.wesh.com/article/measles-outbreak-texas-over/65809462",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwvoy2k3agcwmdfzm2i2b2swedqwbhp0-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntzwhjohc5ztawzhayn3fvzxlvywf2y3q-jpg-68a36b5c678a9.jpg?crop=1.00xw:0.846xh;0,0.122xh&resize=1200:*",
+      "publishedAt": "2025-08-18 18:35:32",
+      "content": "The measles outbreak centered in West Texas one of the largest and deadliest in centuries has ended, state health officials announced on Monday. No new cases have been reported in the counties that \u2026 [+3089 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.357733",
+      "internal_id": "f7f5d05411c567f42495c234ceda03b3bf66c7b05de0947a2cff749a0bf468e9",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23819,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Emily Mullin",
+      "title": "The West Texas Measles Outbreak Has Ended",
+      "description": "According to state health officials, a measles outbreak that started in an undervaccinated community and killed two children is now over.",
+      "url": "https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/",
+      "urlToImage": "https://media.wired.com/photos/68a356a3a7b1e72a7de4e295/191:100/w_1280,c_limit/west-texas-measles-sci-2201750223.jpg",
+      "publishedAt": "2025-08-18 18:30:57",
+      "content": "A large measles outbreak in Texas that has affected 762 people has now ended, according to an announcement Monday by the Texas Department of State Health Services. The agency says it has been more th\u2026 [+2768 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.260280",
+      "internal_id": "54d7b485cdd043dd8ed9c3baaa6bdeb7f6857b2b446e5175f69360470901c1c9",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23829,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": null,
+      "title": "Texas declares measles outbreak that killed 2 children over",
+      "description": "Two young Texas children died of the virus earlier this year, and 100 people were hospitalized throughout the outbreak.",
+      "url": "https://abc30.com/post/texas-declares-measles-outbreak-killed-2-children/17577295/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16532639_052425-wabc-measles-testing-AP-img.jpg?w=1600",
+      "publishedAt": "2025-08-18 18:20:29",
+      "content": "TEXAS -- The Texas measles outbreak that sickened 762 people since late January is over, state health officials said Monday. Health officials have not confirmed a new case in the counties where the \u2026 [+1303 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.407920",
+      "internal_id": "8ef889ec2d6aa7dda2311d56e0df553ab6d1361e3c4cbfc006322f4e7b12afa7",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23848,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "- KR -",
+      "title": "V\u00e9szesen fenyegeti Eur\u00f3p\u00e1t a majomhiml\u0151 \u00faj mut\u00e1nsa",
+      "description": "V\u00e9szesen fenyegeti Eur\u00f3p\u00e1t a majomhiml\u0151 \u00faj mut\u00e1nsa - F\u0151k\u00e9nt fesztiv\u00e1lokon \u00e9s a fiatalabb koroszt\u00e1ly k\u00f6r\u00e9ben terjed.",
+      "url": "https://index.hu/tudomany/2025/08/18/fesztival-virus-jarvany-pandemia-vilagjarvany-fertozes-betegseg-who-egeszsegugy-vakcina-majomhimlo-mpox/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/6394/63946/639464/63946401_4728639_c335a369f26fcf65071a46edc4fbcdb3_wm.jpg",
+      "publishedAt": "2025-08-18 18:01:00",
+      "content": "Egy \u00fajabb, aggaszt\u00f3 n\u00e9v ker\u00fclt a hal\u00e1los v\u00edrusok list\u00e1j\u00e1ra: Mpox. A Nyugat- \u00e9s K\u00f6z\u00e9p-Afrik\u00e1b\u00f3l sz\u00e1rmaz\u00f3 k\u00f3r ugyanabba a v\u00edruscsal\u00e1dba tartozik, mint amely \u00e9vtizedekkel ezeltt a himlt is okozta most a\u2026 [+1951 chars]",
+      "retrievedAt": "2025-08-19 19:06:06.106312",
+      "internal_id": "97cecc044b7bf5fa283e3c4d8c6c5e8233986d1e43b720413dbd36ce2cbe179d",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23838,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "Wftv Staff",
+      "title": "Disease-carrying mosquitoes increase in Brevard County, prompting control efforts",
+      "description": "Crews are spraying with trucks and planes to target mosquitoes that carry dengue, which breed in standing water and don\u2019t travel far.",
+      "url": "https://www.wftv.com/news/local/brevard-county/disease-carrying-mosquitoes-increase-brevard-county-prompting-control-efforts/KLZA7I6YWZCDPESGWYBZEGACGM/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHKCUFP7LLZGZ7DODOWATMQQA6U.jpg?auth=084575190c7d89c94c131fff60d4e1dfcb8b58ae316f2251150dca25b1f2b2c5&width=1200&height=630&smart=true",
+      "publishedAt": "2025-08-18 17:34:30",
+      "content": "BREVARD COUNTY, Fla. \u2014 Mosquito control efforts are ramping up in Brevard County as officials work to reduce the spread of disease-carrying mosquitoes. Crews are actively spraying with trucks and pl\u2026 [+708 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.773656",
+      "internal_id": "aeaca20360b8e18cdf511b4ae98f1e0a650eb26e7493100ee46d1d517d3c9263",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23825,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KPRC Click2Houston",
+      "author": "Brittany Taylor",
+      "title": "West Texas measles outbreak ends after 762 confirmed cases this year",
+      "description": "The Texas Department of State Health Services (DSHS) has officially declared an end to this year\u2019s measles outbreak in West Texas.",
+      "url": "https://www.click2houston.com/news/local/2025/08/18/west-texas-measles-outbreak-ends-after-762-confirmed-cases-this-year/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5BLACKOMCBEURJRG6UMDX6YMMI.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-08-18 17:25:51",
+      "content": "HOUSTON The Texas Department of State Health Services (DSHS) has officially declared an end to this years measles outbreak in West Texas. Its been more than 42 days since the last new case was repo\u2026 [+1097 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.366141",
+      "internal_id": "30150427f1cb22d950032d1e0f74e04794f950c5527c82f3e60b8c079acbcff8",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23828,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KGO-TV",
+      "author": null,
+      "title": "Texas declares measles outbreak that killed 2 children over",
+      "description": "Two young Texas children died of the virus earlier this year, and 100 people were hospitalized throughout the outbreak.",
+      "url": "https://abc7news.com/post/texas-declares-measles-outbreak-killed-2-children/17577295/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16532639_052425-wabc-measles-testing-AP-img.jpg?w=1600",
+      "publishedAt": "2025-08-18 17:07:10",
+      "content": "TEXAS -- The Texas measles outbreak that sickened 762 people since late January is over, state health officials said Monday. Health officials have not confirmed a new case in the counties where the \u2026 [+1303 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.399482",
+      "internal_id": "ec4486b35627026e77b709f1bf28ea2f3462790031e43f3cc755fa498f41fb50",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23826,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": null,
+      "title": "Texas declares measles outbreak that killed 2 children over",
+      "description": "Two young Texas children died of the virus earlier this year, and 100 people were hospitalized throughout the outbreak.",
+      "url": "https://abc11.com/post/texas-declares-measles-outbreak-killed-2-children/17577295/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16532639_052425-wabc-measles-testing-AP-img.jpg?w=1600",
+      "publishedAt": "2025-08-18 17:04:50",
+      "content": "TEXAS -- The Texas measles outbreak that sickened 762 people since late January is over, state health officials said Monday. Health officials have not confirmed a new case in the counties where the \u2026 [+1303 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.382611",
+      "internal_id": "bbe7730f4b28df718e416d3c409612264cf3800c91d5f34c2870eecbbd335147",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23842,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Hong Kong ir\u00e1 usar c\u00e3es-rob\u00f4s para eliminar focos de mosquitos",
+      "description": "Dispositivos s\u00e3o equipados com pulverizadores de inseticida e ser\u00e3o usados para combater a prolifera\u00e7\u00e3o do mosquito Aedes aegypti O post Hong Kong ir\u00e1 usar c\u00e3es-rob\u00f4s para eliminar focos de mosquitos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/08/18/medicina-e-saude/hong-kong-ira-usar-caes-robos-para-eliminar-focos-de-mosquitos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
+      "publishedAt": "2025-08-18 16:52:55",
+      "content": "Assim como acontece no Brasil, as autoridades de Hong Kong est\u00e3o em alerta em fun\u00e7\u00e3o do aumento do n\u00famero de casos de Chikungunya. Para frear o avan\u00e7o do v\u00edrus, elas ir\u00e3o usar o que h\u00e1 de mais novo n\u2026 [+1876 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.395102",
+      "internal_id": "e4946bb06c745121e90d77d7d86bb34c15b81338dd2ea7f1c619b3d46d33cc6e",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23820,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Texas Says Its Measles Outbreak\u2014Biggest In U.S. In Decades\u2014Is Over",
+      "description": "A total of 762 measles cases have been reported in the state since January, leading to 99 hospitalizations and the deaths of two children.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/08/18/texas-says-its-measles-outbreak-biggest-in-us-in-decades-is-over/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a358e62ee4c2e38c82300a/0x0.jpg?format=jpg&crop=1767,1178,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-08-18 16:48:07",
+      "content": "A measles outbreak that exploded in West Texas at the start of the year is over, according to the Texas Department of State Health Services, marking the end of the largest measles outbreak the U.S. h\u2026 [+173 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.269134",
+      "internal_id": "d2e29725d708a669cd001413f2b4921c47fb857106d26aa094f7da141782b271",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23821,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara  Moniuszko",
+      "title": "Texas health officials declare measles outbreak in state is over",
+      "description": "The Texas Department of State Health Services declared the end of this year's measles outbreak, which has seen 762 confirmed cases\u200b and two deaths in the state.",
+      "url": "https://www.cbsnews.com/news/measles-outbreak-texas-over-health-officials/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/25/5874d859-8b55-4042-8357-5d3290bdde91/thumbnail/1200x630/fb18611d8862cccb02d71048bd99f8bc/gettyimages-2201750253.jpg",
+      "publishedAt": "2025-08-18 16:47:59",
+      "content": "The Texas measles outbreak is over, according to state health officials. The Texas Department of State Health Services declared in a news release Monday the end of this year's measles outbreak cente\u2026 [+2388 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.277695",
+      "internal_id": "77e05d8e1cdfeee0e577d71def99445f1cd680af07a47efc56c9af1a57df4805",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23822,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Texas declares measles outbreak over",
+      "description": "Nearly 100 were hospitalized and two children died.",
+      "url": "https://www.bostonherald.com/2025/08/18/texas-measles-outbreak-over/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/Vaccination_Rates_27116_6f9b12.jpg?w=1024&h=682",
+      "publishedAt": "2025-08-18 16:47:51",
+      "content": "By DEVI SHASTRI, AP Health Writer The Texas measles outbreak that sickened 762 people since late January is over, state health officials said Monday. Health officials have not confirmed a new case \u2026 [+1850 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.294361",
+      "internal_id": "a8e9bcf54072ac2e55a6eeeccebabc60a476dc3ce0b0bd3a2b38c833183ead7c",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23823,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Dallas Morning News",
+      "author": "Emily Brindley",
+      "title": "The Texas measles outbreak is officially over",
+      "description": "A total of 99 people were hospitalized over the course of the outbreak. Two school-aged children also died.",
+      "url": "https://www.dallasnews.com/business/health-care/2025/08/18/the-texas-measles-outbreak-is-officially-over/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/H2CC44R2DLIXSDDVNGKY7NHIT4.jpg?auth=8143753ff1d915d3dd18284515b55817fd55233bad546da30601a64b6221b030&quality=80&width=1200&height=630&smart=true",
+      "publishedAt": "2025-08-18 16:44:39",
+      "content": "Texas measles outbreak which sickened hundreds of people and claimed the lives of two children this year is officially over. Officials at the state public health department announced on Monday morni\u2026 [+2504 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.341465",
+      "internal_id": "c9152fbb621741883dd63489db349113d836141fb65b0f67102fee392b65e00d",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23830,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSAT San Antonio",
+      "author": "Texas Tribune",
+      "title": "State health officials declare West Texas measles outbreak over",
+      "description": "With no new cases reported in 42 days, the nation\u2019s largest measles outbreak in 30 years, is declared over.",
+      "url": "https://www.ksat.com/news/texas/2025/08/18/state-health-officials-declare-west-texas-measles-outbreak-over/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ONJ347VUWRH2RLM7HCEF4NNFVQ.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-08-18 16:25:53",
+      "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news. The West Texas measles outbreak, the nations largest in 30 years, is now o\u2026 [+1997 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.431331",
+      "internal_id": "e13d8c775d246699acaa55f4dc5b1a623e6e59f175af11eacd1eccffc27c2fa3",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23818,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express News Service",
+      "title": "Bitten by stray dogs, 4-year-old girl succumbs to rabies in Bengaluru",
+      "description": "Karnataka has reported 2.81 lakh dog bite cases and 26 resultant deaths till July 31 this year.",
+      "url": "https://indianexpress.com/article/cities/bangalore/bitten-by-stray-dogs-4-year-old-girl-succumbs-to-rabies-bengaluru-10197047/",
+      "urlToImage": "https://images.indianexpress.com/2025/08/dog-bite-victim.jpg",
+      "publishedAt": "2025-08-18 16:04:45",
+      "content": "A four-year-old girl who was bitten by stray dogs and was battling for life for months died in a Bengaluru hospital on Sunday night.The deceased, Khadira Banu, who was a resident of Davanagere town, \u2026 [+1545 chars]",
+      "retrievedAt": "2025-08-19 19:05:59.712329",
+      "internal_id": "a7d6cb264726cee0e770e8138693e481293e12e0d751f41ce1bbea3d3d34ab2c",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23836,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Las Vegas, famous for casinos and nightlife, is now swarming with mosquitoes \u2014 here are the grave consequences Sin City faces",
+      "description": "Las Vegas is experiencing a significant increase in mosquitoes, including those species capable of spreading West Nile virus and dengue. Urban expansion, climate change, and pesticide resistance have worsened the problem, creating major public health risks. W\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/las-vegas-famous-for-casinos-and-nightlife-is-now-swarming-with-mosquitoes-here-are-the-grave-consequences-sin-city-faces/articleshow/123367727.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123367727,width-1200,height-630,imgsize-39534,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-18 15:03:45",
+      "content": "Las Vegas, famous for its bustling Strip and desert climate, is now grappling with a troubling surge of these illness carrying insects. Due to weather shifts, urban development, and pesticide resista\u2026 [+3154 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.749158",
+      "internal_id": "11842c23594ba2e199cfce84083348c160e7e1fda00b4352a9a1ba96eeebce0f",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23843,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Chikungunya, salgono a 19 i casi nel Modenese",
+      "description": "Sono saliti a 19 i casi accertati di Chikungunya in provincia di Modena. Si tratta di dodici donne e sette uomini, compresi tra i 14 e gli 84 anni. Tutti i casi sono in buone condizioni di salute e attualmente nessuno \u00e8 ricoverato in ospedale. (ANSA)",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2025/08/18/chikungunya-salgono-a-19-i-casi-nel-modenese_757b6a28-ed95-4d22-8dbb-71a3b80fc983.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2025-08-18 15:03:45",
+      "content": "Sono saliti a 19 i casi accertati di Chikungunya in provincia di Modena. Si tratta di dodici donne e sette uomini, compresi tra i 14 e gli 84 anni. Tutti i casi sono in buone condizioni di salute \u2026 [+1703 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.457873",
+      "internal_id": "dfe871847136cee8a406792d131cf4d5cf5ffc04bf6033ef22d108e95861c111",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23832,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Warning: Human Transmission Could Be Next",
+      "description": "Researchers from the Indian Institute of Science\u2019s department of biochemistry are warning of a new bird flu threat. The HPAI (highly pathogenic avian influenza) virus is now carrying a mutation on the prevalent strain that will make it easier to transmit to h\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/bird-flu-warning-human-transmission-could-be-next",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/02/birdflu.jpg",
+      "publishedAt": "2025-08-18 15:00:02",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2025-08-19 19:06:01.386590",
+      "internal_id": "e59f085356e22e082203c91b4ab276e315b639b2e05f8dbd245c585f1e8b391e",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23834,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yang Xiao, Guilherme Soares, Leonardo Bastos, Rafael Izbicki, Paula Moraga",
+      "title": "Dengue nowcasting in Brazil by combining official surveillance data and Google Trends information",
+      "description": "Author summary Dengue is a mosquito-borne viral disease that poses significant public health challenges in tropical and sub-tropical regions worldwide. Surveillance systems are crucial for dengue prevention and control. Unfortunately, traditional systems ofte\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012501",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012501.g005&size=inline",
+      "publishedAt": "2025-08-18 14:00:00",
+      "content": "Abstract Dengue is a mosquito-borne viral disease that poses significant public health challenges in tropical and sub-tropical regions worldwide. Surveillance systems are essential for dengue preven\u2026 [+49081 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.731440",
+      "internal_id": "f0faaf143c940213ab3de39cf40b3e8604dd3e57f03674e68a2b7f327ce53aca",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23837,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Vilayouth Phimolsannousith, Malavanh Vongsouvath, Padthana Kiedsathid, Manivanh Vongsouvath, Elizabeth A. Ashley, Audrey Dubot-P\u00e9r\u00e8s",
+      "title": "Direct real-time RT-PCR for the detection of dengue virus from patient serum in Lao PDR",
+      "description": "Introduction Dengue fever is a growing global concern with an estimated 100\u2013400 million infections every year and rising mortality over the past decade. In 2017, 40,000 deaths were attributed to dengue. Real-time reverse transcription PCR (RT-qPCR) is the gol\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330459",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330459.g002&size=inline",
+      "publishedAt": "2025-08-18 14:00:00",
+      "content": "Citation: Phimolsannousith V, Vongsouvath M, Kiedsathid P, Vongsouvath M, Ashley EA, Dubot-P\u00e9r\u00e8s A (2025) Direct real-time RT-PCR for the detection of dengue virus from patient serum in Lao PDR. PLoS\u2026 [+25500 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.757469",
+      "internal_id": "e851cb7ce9233b78e33d3ea9e225a3440216e1b1aef132b2d8ea17572deabc4d",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23839,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Isaac J. Stopard, Ellie Sherrard-Smith, Hilary Ranson, Kobi\u00e9 Hyacinthe Toe, Jackie Cook, Joseph Biggs, Ben Lambert, Thomas S. Churcher",
+      "title": "Modelling the effects of adult emergence on the surveillance and age distribution of medically important mosquitoes",
+      "description": "Author summary Mosquito-borne diseases, such as malaria and dengue, remain a significant cause of mortality and morbidity. Predicting changes in the spread of these diseases from mosquito data remains a challenge because only older mosquitoes can transmit imp\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013035",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013035.g003&size=inline",
+      "publishedAt": "2025-08-18 14:00:00",
+      "content": "Abstract Entomological surveillance is an important component of mosquito-borne disease control. Mosquito abundance, infection prevalence and the entomological inoculation rate are the most widely r\u2026 [+61274 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.790028",
+      "internal_id": "13087ea02756ecd24e18b54340e041369376bc83d56e596c37aea88e261fe4ae",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23840,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases in Nepal cross 3,000",
+      "description": "KATHMANDU: Nepal has recorded over 3,000 dengue cases as the mosquito-borne infection continues to spread across the country. In the past week alone, 137 new cases were reported. According to data from the Epidemiology and Disease Control Division (EDCD), den\u2026",
+      "url": "https://english.khabarhub.com/2025/18/491583/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-08-18 13:45:21",
+      "content": "KATHMANDU: Nepal has recorded over 3,000 dengue cases as the mosquito-borne infection continues to spread across the country. In the past week alone, 137 new cases were reported. According to data f\u2026 [+648 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.813488",
+      "internal_id": "817a90bc07142bb94d55311f8877e47f1e8cda1d9a9e22e3532bce960bfe4d59",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23844,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Terzo caso autoctono di chikungunya registrato in Veneto",
+      "description": "Un terzo caso autoctono di virus chikungunya \u00e8 stato riscontrato in Veneto, in un uomo di 69 anni residente nel comune di Verona. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2025/08/18/terzo-caso-autoctono-di-chikungunya-registrato-in-veneto_fcf35061-26c4-46d4-a5fa-653b636ce0cc.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2010/7/5/620cdff784efd02ed605cb7bafb42567.jpg",
+      "publishedAt": "2025-08-18 13:06:56",
+      "content": "Un terzo caso autoctono di virus chikungunya \u00e8 stato riscontrato in Veneto, in un uomo di 69 anni residente nel comune di Verona. la conferma - informa la Regione - \u00e8 venuta dal reparto di Microbi\u2026 [+1293 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.466978",
+      "internal_id": "411d7fe090dfef426e9395e013c5b02f87dbd1028133c28937b2dda39fa1e51d",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23846,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Andrea Zanettin",
+      "title": "I robot anti-zanzare aiuteranno Hong Kong a combattere il virus Chikungunya",
+      "description": "Hong Kong user\u00e0 cani robot con nebulizzatori per combattere le zanzare e il virus Chikungunya. In Italia, a Carpi, partono invece le disinfestazioni.Mentre si continua a discutere di zanzare e virus West Nile, anche dalle nostre parti si tratta il tema del vi\u2026",
+      "url": "https://tech.everyeye.it/notizie/robot-anti-zanzare-aiuteranno-hong-kong-combattere-virus-chikungunya-821926.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/i-robot-anti-zanzare-aiuteranno-hong-kong-combattere-virus-chikungunya-v3-821926.jpg",
+      "publishedAt": "2025-08-18 11:19:00",
+      "content": "Mentre si continua a discutere di zanzare e virus West Nile, anche dalle nostre parti si tratta il tema del virus Chikungunya, ovvero un altro tipo di infezione virale trasmessa dalle zanzare. In que\u2026 [+1891 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.492096",
+      "internal_id": "98154052e51b86358503694db6b29f8a9215f26d685d9ae2f3dac7e4e8a87ed6",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23831,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Cindy Krischer Goodman",
+      "title": "South Florida childhood vaccination rates plunge. Who is vulnerable, and why?",
+      "description": "Broward County saw a dramatic drop in its vaccination rate for kindergartners in 2025. The declining rate reflects the heated debate raging on social media and among South Florida parents.",
+      "url": "https://www.sun-sentinel.com/2025/08/18/south-florida-childhood-vaccination-rates-plunge-who-is-vulnerable-and-why/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2023/11/Childhood_Vaccinations_81990.jpg?w=1024&h=683",
+      "publishedAt": "2025-08-18 11:14:59",
+      "content": "Despite an outbreak of measles last year in a Weston elementary school, Broward County saw a dramatic drop in its immunization rate for kindergartners in 2025. In Broward, only 82.2% of 2024-25 kind\u2026 [+8575 chars]",
+      "retrievedAt": "2025-08-19 19:06:00.455276",
+      "internal_id": "10b1622e752d66c2fa58eda196c5972cca30e91952cdf599529e7349657254ba",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23835,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Zazali Musa",
+      "title": "Johor dengue cases see decline in Epidemiological Week 33",
+      "description": "JOHOR BARU: Cumulative dengue cases in Johor declined to 4,231 in epidemiological week 33 this year compared with the same week in 2024. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/18/johor-dengue-cases-see-decline-in-epidemiological-week-33",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/18/3473889.jpg",
+      "publishedAt": "2025-08-18 10:32:00",
+      "content": "JOHOR BARU: Cumulative dengue cases in Johor declined to 4,231 in epidemiological week 33 this year compared with the same week in 2024. State health and environment committee chairman Ling Tian Soo\u2026 [+100 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.740530",
+      "internal_id": "73bc50095468852d6198b2074b5649dffe70640fc0a33e2f7315741f58b9a5ef",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23841,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Rachel Feltman, Fonda Mwangi, Alex Sugiura",
+      "title": "What New Human Ancestor Has Been Discovered, and How a Virus Outbreak in China Could Reach the U.S.",
+      "description": "China is having a fast-rising chikungunya outbreak in a place that has never had one before.",
+      "url": "https://www.scientificamerican.com/podcast/episode/what-new-human-ancestor-has-been-discovered-and-how-a-virus-outbreak-in/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/6fdab380ce70c8be/original/2508_SQ_MON_AUG_18_thumbnail.png?m=1755289933.412&w=1200",
+      "publishedAt": "2025-08-18 10:00:00",
+      "content": "Rachel Feltman: Happy Monday, listeners! For Scientific American\u2019s Science Quickly, I\u2019m Rachel Feltman. Let\u2019s kick off the week with a quick roundup of some of the latest science news. First, a publ\u2026 [+7908 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.386070",
+      "internal_id": "45b5df592e69590171d27227a219f413c11c302e6de696db7b20026d1cf594a8",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23845,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Przemys\u0142aw \u015aredzi\u0144ski",
+      "title": "Choroby atakuj\u0105. Chikungunya, gor\u0105czka Zachodniego Nilu i denga. Jeden wsp\u00f3lny mianownik",
+      "description": "Wirus Zachodniego Nilu we W\u0142oszech, chikungunya w Chinach, denga we Francji. Tego lata choroby przenoszone przez komary daj\u0105 si\u0119 we znaki.",
+      "url": "https://next.gazeta.pl/next/7,172392,32184157,choroby-atakuja-chikungunya-goraczka-zachodniego-nilu-i-denga.html",
+      "urlToImage": "https://bi.im-g.pl/im/9f/b1/1e/z32184479IER,Pracownik-opryskuje-insektycydem-osiedle-mieszkani.jpg",
+      "publishedAt": "2025-08-18 09:05:00",
+      "content": "Kraje europejskie, zw\u0142aszcza na po\u0142udniu, zmagaj\u0105 si\u0119 tego lata z licznymi ogniskami chor\u00f3b przenoszonych przez komary. Z kolei w Chinach obserwuje si\u0119 alarmuj\u0105cy wzrost liczby zachorowa\u0144 na gor\u0105czk\u0119\u2026 [+2831 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.483314",
+      "internal_id": "e2c620dd4c8dfc6da3f5f413b5278d8c21ede9fe7424084cb200206917c959f7",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23847,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeeramubasher.net",
+      "author": "\u0623\u062d\u0645\u062f \u0635\u0628\u062d\u064a \u0623\u0628\u0648 \u0627\u0644\u0646\u062c\u0627",
+      "title": "\u0641\u064a\u0631\u0648\u0633 \u0634\u064a\u0643\u0648\u0646\u063a\u0648\u0646\u064a\u0627\u2026 \u0627\u0646\u062a\u0634\u0627\u0631 \u0648\u062a\u062d\u0630\u064a\u0631\u0627\u062a \u0639\u0627\u0644\u0645\u064a\u0629",
+      "description": "\u0641\u064a\u0631\u0648\u0633 \u0634\u064a\u0643\u0648\u0646\u063a\u0648\u0646\u064a\u0627 \u064a\u062a\u0641\u0634\u0649 \u0641\u064a \u0627\u0644\u0635\u064a\u0646 \u0648\u0623\u0643\u062b\u0631 \u0645\u0646 16 \u062f\u0648\u0644\u0629\u060c \u0645\u0633\u062c\u0651\u0644\u064b\u0627 \u0623\u0643\u062b\u0631 \u0645\u0646 240 \u0623\u0644\u0641 \u0625\u0635\u0627\u0628\u0629 \u064890 \u0648\u0641\u0627\u0629 \u0639\u0627\u0644\u0645\u064a\u064b\u0627. \u064a\u0633\u0628\u0628 \u062d\u0645\u0649 \u0648\u0622\u0644\u0627\u0645 \u0645\u0641\u0635\u0644\u064a\u0629 \u062d\u0627\u062f\u0629\u060c \u0648\u0644\u0627 \u0639\u0644\u0627\u062c \u0645\u062d\u062f\u062f \u0644\u0647 \u0633\u0648\u0649 \u0627\u0644\u0648\u0642\u0627\u064a\u0629 \u0648\u062a\u062e\u0641\u064a\u0641 \u0627\u0644\u0623\u0639\u0631\u0627\u0636.",
+      "url": "https://www.aljazeeramubasher.net/news/health/2025/8/18/%d8%b4%d9%8a%d9%83%d9%88%d9%86%d8%ba%d9%88%d9%86%d9%8a%d8%a7-%d9%8a%d8%b7%d8%b1%d9%82-%d8%a7%d9%84%d8%a3%d8%a8%d9%88%d8%a7%d8%a8-%d8%aa%d9%81%d8%b4-%d9%88%d8%a7%d8%b3%d8%b9",
+      "urlToImage": "https://www.aljazeeramubasher.net/wp-content/uploads/2025/08/ap_68a2a7f1918a6-1755490289.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-08-18 08:55:03",
+      "content": "(Chikungunya) . 16 . 10,000 / 2025 240,000 .90 . . list of 4 itemslist 1 of 4 list 2 of 4 list 3 of 4 list 4 of 4 end of list 5.6 119 -19 . . 1952 . Togaviridae Aedes aegypti Aedes \u2026 [+82 chars]",
+      "retrievedAt": "2025-08-19 19:06:05.509139",
+      "internal_id": "2ceee1d809af473e24ebcd926e7b8e19849d1df24a57ad526fa8582c8497cd1d",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 23833,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "West Bengal witnesses sudden spurt in dengue cases",
+      "description": "West Bengal is experiencing a concerning surge in dengue cases, with 1,633 new infections reported across 16 districts in just 20 days. South Bengal is particularly affected, with Murshidabad topping the list at 382 new cases. Heavy rainfall and subsequent wa\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/west-bengal-witnesses-sudden-spurt-in-dengue-cases/articleshow/123360448.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123360480,width-1200,height-630,imgsize-27472,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-18 08:50:37",
+      "content": "West Bengal is experiencing a concerning surge in dengue cases, with 1,633 new infections reported across 16 districts in just 20 days. South Bengal is particularly affected, with Murshidabad topping\u2026 [+164 chars]",
+      "retrievedAt": "2025-08-19 19:06:02.719209",
+      "internal_id": "04278bf77d130f771222965629bced8a8908de5a8fcfd23129f5eedd87d5be82",
+      "publishedAtLabel": "Aug 18"
+    },
     {
       "id": 23816,
       "query": [
@@ -21021,402 +21580,6 @@
       "content": "Las temperaturas que ha registrado el continente europeo, especialmente el oeste y el suroeste, en el mes de junio \u201cson m\u00e1s t\u00edpicas de julio y agosto y solo suelen darse unas pocas veces al a\u00f1o\u201d, seg\u2026 [+507 chars]",
       "retrievedAt": "2025-07-08 07:08:16.855715",
       "internal_id": "1683bd8d1e245f29cd58c41f4f16e0f876bbeb1cab64135767b4a6035a7839b5",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22635,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "St George News",
-      "author": "Or For St. George News",
-      "title": "Utah public health officials announce more new measles cases",
-      "description": "As of July 1, 2025, Utah has 9 residents with confirmed measles, officials said in a press release.",
-      "url": "https://www.stgeorgeutah.com/life/utah-public-health-officials-announce-more-new-measles-cases/article_fea4c313-1c6a-475c-9e32-b86db94b815b.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/stgeorgeutah.com/content/tncms/assets/v3/editorial/c/8f/c8f2e18c-03fe-11f0-9cac-8f06adb085ce/67d9782fa230a.image.jpg?crop=1761%2C925%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-07-06 17:34:32",
-      "content": "As of July 1, 2025, Utah has 9 residents with confirmed measles, officials said in a press release. All of these people are unvaccinated, health department officials said. All of the people who hav\u2026 [+2043 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.340677",
-      "internal_id": "3d28a4d943819d4ef9575ac4a4f72bccf0b52d336da7875c90cd2d7f77442cde",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22653,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Montse Tom\u00e9 reconoce que Aitana est\u00e1 lista pero no da pistas: \u00abEstar\u00e1 en la convocatoria y luego ya veremos\u00bb",
-      "description": "Espa\u00f1a buscar\u00e1 ma\u00f1ana ante B\u00e9lgica (18.00 horas / La1) la clasificaci\u00f3n para los cuartos de final de esta Eurocopa. Lo har\u00e1 con Aitana Bonmat\u00ed e Irene Paredes en su once, recuperada la primera de su meningitis v\u00edrica y tras cumplir su sanci\u00f3n la segunda. Una \u2026",
-      "url": "https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html",
-      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/07/06/tomeaitanaafp-U06688158612gVv-1024x512@diario_abc.JPG",
-      "publishedAt": "2025-07-06 16:35:43",
-      "content": "Espa\u00f1a buscar\u00e1 ma\u00f1ana ante B\u00e9lgica (18.00 horas / La1) la clasificaci\u00f3n para los cuartos de final de esta Eurocopa. Lo har\u00e1 con Aitana Bonmat\u00ed e Irene Paredes en su once, recuperada la primera de su \u2026 [+5611 chars]",
-      "retrievedAt": "2025-07-07 19:06:35.230616",
-      "internal_id": "b84f4ab5f9d3dfe5f94a2669b4e53611c7b650e80bf945c43c7440b1b28a2877",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22651,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "nj.com",
-      "author": "Jackie Roman | Nj Advance Media For Nj.com",
-      "title": "Measles cases in the U.S. approach 25-year high. See which parts of N.J. are at risk.",
-      "description": "The United States has reported more measles cases in the first six months of 2025 than in all of 2024.",
-      "url": "https://www.nj.com/healthfit/2025/07/measles-cases-in-the-us-approach-25-year-high-see-which-parts-of-nj-are-at-risk.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/HAACPIGYRBFEXI2JXF6JCXHLUE.jpg?auth=e11105332959ce80fb84cbdf6a1ad8a95fe78c9ee9411558db3c68454820c9e0&width=1280&quality=90",
-      "publishedAt": "2025-07-06 15:07:38",
-      "content": "The United States is on track to report the highest number of measles cases in a single year since the country declared measles eliminated in 2000. A total of 1,267 confirmed measles cases were repo\u2026 [+6068 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.486297",
-      "internal_id": "2df1fa15929b9dc241998b7791ffcf61e86cc31afe2c358a4e17f7d11ca5504c",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22645,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KSBW The Central Coast",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.ksbw.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 13:06:00",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.422760",
-      "internal_id": "95b6d73a177c5eca335ceb94a14adaaa1a1cd97693db031ba5c3a8a4bd454bf2",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22634,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "Kate Seamons with Newser.AI",
-      "title": "One Figure Shows How Bad Measles Cases Are",
-      "description": "Measles cases in the United States have soared to levels unseen since the disease was declared eliminated 25 years ago. CNN reports the US has logged at least 1,277 confirmed measles cases so far in 2025, surpassing the previous post-elimination record of 1,2\u2026",
-      "url": "https://www.newser.com/story/371411/one-figure-shows-how-bad-measles-cases-are.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1620584-12-20250706075202.jpeg",
-      "publishedAt": "2025-07-06 12:30:00",
-      "content": "Three deaths have been reported in the US this year, equaling the total from the prior 25 years. Most infected individuals were unvaccinated. The CDC notes just 8% of cases involved people who had re\u2026 [+1163 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.324496",
-      "internal_id": "b360bce8decf0bfbdf43e551267bb2378c24c4294ec488076b9553ca3d612bf6",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22644,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WISN Milwaukee",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wisn.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:10:12",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.414900",
-      "internal_id": "07d002e30a33db3bf3e83a110d74eb654dd942225de84062c36db6bbc817ded7",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22637,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WXII12 Winston-Salem",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wxii12.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:55",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.356940",
-      "internal_id": "48eca5fedec2db6761f02820dbcfd085c04bfc2cd6e812d18d26a89f5a86773d",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22636,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WESH Orlando",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wesh.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:43",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.348921",
-      "internal_id": "2427de1803c902be5df255b341808fd231ce9fe4923c0cb231e2a40eb853b613",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22646,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KCRA Sacramento",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.kcra.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:30",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.430808",
-      "internal_id": "562f1aef5143445b4c5e905876a3c295cb01d401ca4a9174275194821eb5d54c",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22647,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KETV Omaha",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.ketv.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:22",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.439761",
-      "internal_id": "dcc85e122cb4dec147e6cb9d39593b624817077601ca3aea28013da18c9a7b19",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22650,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTAE Pittsburgh",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wtae.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:16",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.463741",
-      "internal_id": "a8a83074e92dd181da95048f9891156827bc845c03b20106cf7c3b3f5e0f2bd3",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22639,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WYFF4 Greenville",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wyff4.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:09",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.373468",
-      "internal_id": "80db3d2fae72f3ad9a2b069173055d7d6292d6b8652ad15406e4c521ca1afa3d",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22643,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WGAL Susquehanna Valley Pa.",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wgal.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:09",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.406867",
-      "internal_id": "cb5a58fde972272a2566df70a2a38f3f499dae60873e564ae7feb6a89bb91568",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22638,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WMUR Manchester",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wmur.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:54",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.364903",
-      "internal_id": "a1df2f719ec07f02e9b33edb64f9a1a05972b35572d77e5643c2ad18c7454c6e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22649,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WLKY Louisville",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wlky.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:41",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.455682",
-      "internal_id": "9f489a15d402470e55458532138cdd1d068ba7e8de0cde1f5d0fe47fe3d59912",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22642,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KMBC Kansas City",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.kmbc.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:40",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.398007",
-      "internal_id": "bc1469c4f9699b8b6df2a9dda23ebdfa2192cde86d5aba144be238c8dae55f7e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22648,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KOCO Oklahoma City",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.koco.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:40",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.447649",
-      "internal_id": "c55da7fc4b7e34b579cfe26f9078ad978c50299f68b9cfe523e3e2a3f53722aa",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22640,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "4029tv",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.4029tv.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:06:03",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.381647",
-      "internal_id": "ed67c5fab775b5a2124012af42d0aa351a4f3655930771d66a63e1173e94a5cb",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22641,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KOAT New Mexico",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.koat.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:05:29",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.389991",
-      "internal_id": "25a90ff0710a7bbbbe2721285a0039afb68f240b204d8b27c80254fb1bd8ad82",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22654,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Peter Muiruri",
-      "title": "Killer counterfeits: How fake malaria drugs claim 100,000 lives every year",
-      "description": "Some of the factors that fuel the illegal pharmaceutical market in Africa include limited access to affordable medicines, supply chain gaps, and the unchecked rise of street markets.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001523559/killer-counterfeits-how-fake-malaria-drugs-claim-100000-lives-every-year",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/OZOFv4xqOEba4VNWM0Uh8gDjvdVDAqiPqpSITDYO.jpg",
-      "publishedAt": "2025-07-06 11:05:48",
-      "content": "Community health promoters at Mwembe kati village in Chonyi during the 2015 World Malaria Day celebration. [File, Standard] In April 2024, Benson Wambugi*, a farmer in Kieni, Nyeri, spent weeks bat\u2026 [+4779 chars]",
-      "retrievedAt": "2025-07-07 19:06:35.722986",
-      "internal_id": "ef682e035e67a13e1311e90220ead5188211e7d775be4314fc756ed1129b688f",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22633,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Answersingenesis.org",
-      "author": "Adam Russell, Dr. Alan L. Gillen",
-      "title": "Louis Pasteur: The Man Who Said, \u201cScience Brings Men Closer to God\u201d",
-      "description": "140 years ago, Pasteur gave the first rabies treatment that saved a human\u2019s life! He was a godly man and a brilliant scientist.",
-      "url": "https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/",
-      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/portrait-louis-pasteur-laboratory.png",
-      "publishedAt": "2025-07-06 10:00:00",
-      "content": "July 6, 2025, marks the 140-year anniversary of the first successful treatment of the rabies virus, discovered by Louis Pasteur. Louis Pasteurs contributions and reputation are ever prevalent today, \u2026 [+17934 chars]",
-      "retrievedAt": "2025-07-07 19:06:32.483180",
-      "internal_id": "eca0ccfcc7079ec4e4dc3e81270b5dd44ed4c06103493d2a178c6327a127a43e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22652,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Preparations underway for dengue prevention in Pokhara",
-      "description": "GANDAKI: Dengue infection has already spread to 73 districts this year, according to the Epidemiology and Disease Control Division. The Division has warned that over 60,000 people could be infected, urging heightened vigilance. Since the risk remains high fro\u2026",
-      "url": "https://english.khabarhub.com/2025/06/483705/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-06 08:45:53",
-      "content": "GANDAKI: Dengue infection has already spread to 73 districts this year, according to the Epidemiology and Disease Control Division. The Division has warned that over 60,000 people could be infected,\u2026 [+3181 chars]",
-      "retrievedAt": "2025-07-07 19:06:34.945569",
-      "internal_id": "29a9e6a8f5886902cd752f80164c09e5279f34032ee9ba1a6d965e6a4ec25f25",
       "publishedAtLabel": "Jul 6"
     }
   ]
