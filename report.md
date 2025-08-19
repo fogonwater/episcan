@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-08-18 19:07
-- **Most recent article:** 2025-08-17 17:08:25
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-08-19 07:07
+- **Most recent article:** 2025-08-18 05:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 1 | 314 |
-| measles | 95 | 64 | 47 | 30 | 26 | 26 | 0 | 288 |
-| dengue | 32 | 24 | 36 | 32 | 17 | 25 | 3 | 169 |
-| malaria | 28 | 12 | 18 | 13 | 18 | 15 | 0 | 104 |
-| rabies | 16 | 4 | 11 | 10 | 11 | 27 | 17 | 96 |
+| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 4 | 317 |
+| measles | 113 | 64 | 47 | 30 | 26 | 26 | 2 | 308 |
+| dengue | 33 | 24 | 36 | 32 | 17 | 25 | 4 | 171 |
+| malaria | 29 | 12 | 18 | 13 | 18 | 15 | 0 | 105 |
+| rabies | 17 | 4 | 11 | 10 | 11 | 27 | 18 | 98 |
 | yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 0 | 59 |
 | mpox | 6 | 7 | 9 | 13 | 10 | 7 | 0 | 52 |
 | zika | 12 | 8 | 2 | 7 | 8 | 9 | 0 | 46 |
 | h5n1 | 9 | 13 | 4 | 1 | 14 | 3 | 0 | 44 |
-| meningitis | 6 | 7 | 12 | 3 | 1 | 4 | 0 | 33 |
+| meningitis | 7 | 7 | 12 | 3 | 1 | 4 | 1 | 35 |
 | typhoid | 3 | 9 | 1 | 0 | 1 | 1 | 0 | 15 |
 | pertussis | 0 | 4 | 3 | 1 | 0 | 2 | 0 | 10 |
 | hpai | 3 | 2 | 1 | 0 | 3 | 0 | 0 | 9 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-34 (rabies)
+
+- [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
 - [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
 
@@ -68,7 +70,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
 
+## 25-34 (meningitis)
+
+- [Advanced HIV: Silent killer behind surge in AIDS deaths, suffering](https://www.standardmedia.co.ke/health/health-science/article/2001527099/advanced-hiv-silent-killer-behind-surge-in-aids-deaths-suffering) (Standard Digital)
+
+## 25-34 (measles)
+
+- [Medieval disease outbreaks?](https://www.americanthinker.com/blog/2025/08/medieval_disease_outbreaks.html) (Americanthinker.com)
+
+- [New measles case confirmed in Mesa County; more may have been exposed](https://www.denverpost.com/2025/08/17/measles-mesa-county-colorado-health/) (The Denver Post)
+
 ## 25-34 (dengue)
+
+- [Dengue sigue en aumento; en una semana confirman 375 casos más](https://www.excelsior.com.mx/nacional/dengue-sigue-en-aumento-en-una-semana-confirman-375-casos-mas/1733616) (Excelsior.com.mx)
 
 - [Health Ministry declares end of Dengue outbreak but urges continued vigilance](https://www.fijivillage.com/news/Health-Ministry-declares-end-of-Dengue-outbreak-but-urges-continued-vigilance-84rf5x/) (Fijivillage)
 
@@ -77,6 +91,12 @@ Source: [News API](https://newsapi.org/)
 - [Here’s a viral SEO title, optimized with emojis: Gandaki Dengue Outbreak: 800+ Infected! Stay Safe! ️](https://nep123.com/pheres-a-viral-seo-title-optimized-with-emojisp-pstrong-gandaki-dengue-outbreak-800-infected-stay-safe-strongp/) (Nep123.com)
 
 ## 25-34 (chikungunya)
+
+- [Valneva’s Chikungunya Vaccine IXCHIQ® Now Authorized in Canada for Individuals Aged 12 and Older](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/en/Valneva-s-Chikungunya-Vaccine-IXCHIQ-Now-Authorized-in-Canada-for-Individuals-Aged-12-and-Older.html) (GlobeNewswire)
+
+- [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
+
+- [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
 
 - [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
 
@@ -2214,6 +2234,8 @@ Source: [News API](https://newsapi.org/)
 
 - [LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms) (The Times of India)
 
+- [Louis Pasteur: The Man Who Said, “Science Brings Men Closer to God”](https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/) (Answersingenesis.org)
+
 ## 25-28 (mpox)
 
 - [Moçambique confirma três casos do atual surto de mpox](https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/) (Observador.pt)
@@ -2241,6 +2263,8 @@ Source: [News API](https://newsapi.org/)
 - [España - Bélgica, en directo: alineaciones, horario y dónde ver el segundo partido de la Selección en la Eurocopa femenina](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-horario-ver-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
 
 - [Aitana lo cuenta todo: "Entré en el hospital y me dijeron que me quedaba ingresada, me dolía muchísimo"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250707/1002495919/aitana-cuenta-entre-hospital-me-dijeron-me-quedaba-ingresada-me-dolia.html) (Mundodeportivo.com)
+
+- [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
 
@@ -2434,6 +2458,42 @@ Source: [News API](https://newsapi.org/)
 
 - [When it comes to vaccines, how are pediatricians restoring trust?](https://www.npr.org/2025/07/06/1255282262/can-pediatricians-restore-trust-in-vaccine-policy) (NPR)
 
+- [Utah public health officials announce more new measles cases](https://www.stgeorgeutah.com/life/utah-public-health-officials-announce-more-new-measles-cases/article_fea4c313-1c6a-475c-9e32-b86db94b815b.html) (St George News)
+
+- [Measles cases in the U.S. approach 25-year high. See which parts of N.J. are at risk.](https://www.nj.com/healthfit/2025/07/measles-cases-in-the-us-approach-25-year-high-see-which-parts-of-nj-are-at-risk.html) (nj.com)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.ksbw.com/article/measles-cases-surge-to-record-high/65306083) (KSBW The Central Coast)
+
+- [One Figure Shows How Bad Measles Cases Are](https://www.newser.com/story/371411/one-figure-shows-how-bad-measles-cases-are.html) (Newser)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wisn.com/article/measles-cases-surge-to-record-high/65306083) (WISN Milwaukee)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wxii12.com/article/measles-cases-surge-to-record-high/65306083) (WXII12 Winston-Salem)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wesh.com/article/measles-cases-surge-to-record-high/65306083) (WESH Orlando)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.kcra.com/article/measles-cases-surge-to-record-high/65306083) (KCRA Sacramento)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.ketv.com/article/measles-cases-surge-to-record-high/65306083) (KETV Omaha)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wtae.com/article/measles-cases-surge-to-record-high/65306083) (WTAE Pittsburgh)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wyff4.com/article/measles-cases-surge-to-record-high/65306083) (WYFF4 Greenville)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wgal.com/article/measles-cases-surge-to-record-high/65306083) (WGAL Susquehanna Valley Pa.)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wmur.com/article/measles-cases-surge-to-record-high/65306083) (WMUR Manchester)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wlky.com/article/measles-cases-surge-to-record-high/65306083) (WLKY Louisville)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.kmbc.com/article/measles-cases-surge-to-record-high/65306083) (KMBC Kansas City)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.koco.com/article/measles-cases-surge-to-record-high/65306083) (KOCO Oklahoma City)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.4029tv.com/article/measles-cases-surge-to-record-high/65306083) (4029tv)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.koat.com/article/measles-cases-surge-to-record-high/65306083) (KOAT New Mexico)
+
 ## 25-28 (malaria)
 
 - [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
@@ -2491,6 +2551,8 @@ Source: [News API](https://newsapi.org/)
 - [Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013318) (Plos.org)
 
 - [Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327800) (Plos.org)
+
+- [Killer counterfeits: How fake malaria drugs claim 100,000 lives every year](https://www.standardmedia.co.ke/health/health-science/article/2001523559/killer-counterfeits-how-fake-malaria-drugs-claim-100000-lives-every-year) (Standard Digital)
 
 ## 25-28 (hpai)
 
@@ -2585,6 +2647,8 @@ Source: [News API](https://newsapi.org/)
 - [Brics anuncia parceria para erradicar doenças em países do Sul Global](https://valor.globo.com/brasil/noticia/2025/07/07/brics-anuncia-parceria-para-erradicar-doencas-em-paises-do-sul-global.ghtml) (Globo)
 
 - [Com 41,4 mil casos e 17 mortes por dengue em 2025, Campinas visita 757,3 mil imóveis no 1º semestre](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/07/com-414-mil-casos-e-17-mortes-por-dengue-campinas-visita-7573-mil-imoveis-no-1o-semestre.ghtml) (Globo)
+
+- [Preparations underway for dengue prevention in Pokhara](https://english.khabarhub.com/2025/06/483705/) (Khabarhub.com)
 
 ## 25-28 (chikungunya)
 
