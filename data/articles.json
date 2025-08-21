@@ -1,8 +1,756 @@
 {
-  "last_updated": "2025-08-21 07:09",
-  "count_articles_total": 1272,
-  "count_articles_new": 16,
+  "last_updated": "2025-08-21 19:06",
+  "count_articles_total": 1291,
+  "count_articles_new": 41,
   "articles": [
+    {
+      "id": 23918,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Sony aumenta pre\u00e7o do PlayStation 5 nos EUA devido a \u2018ambiente econ\u00f4mico desafiador\u2019",
+      "description": "Console foi lan\u00e7ado em 2020 por US$ 499,99 nos EUA e manteve esse patamar de pre\u00e7o at\u00e9 agora",
+      "url": "https://valor.globo.com/empresas/noticia/2025/08/20/sony-aumenta-preco-do-playstation-5-nos-eua-devido-a-ambiente-economico-desafiador.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckZQw2LakCmkFSMHJiu-uUaSxUA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/Z/K/AQbPd2SseCW6toBLCbZg/389768495.jpg",
+      "publishedAt": "2025-08-20 18:46:19",
+      "content": "Estamos testando um modelo que pode ser replicado em diversas partes do mundo para combater a dengue, zika, chikungunya entre outras doen\u00e7as transmitidas por mosquitos, disse o presidente da Debug",
+      "retrievedAt": "2025-08-21 19:06:10.224882",
+      "internal_id": "1ebca2b2f177df99fdf809027c28bbdcf9b88c98218bf789be3e1caeffbb5747",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23920,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Debug, do Google, ter\u00e1 projeto-piloto de combate ao Aedes aegypti em Belo Horizonte",
+      "description": "\u201cEstamos testando um modelo que pode ser replicado em diversas partes do mundo para combater a dengue, zika, chikungunya entre outras doen\u00e7as transmitidas por mosquitos\u201d, disse o presidente da Debug",
+      "url": "https://valor.globo.com/empresas/noticia/2025/08/20/debug-do-google-tera-projeto-piloto-de-combate-ao-aedes-aegypti-em-belo-horizonte.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2025-08-20 18:20:44",
+      "content": "O Google vai implementar em Belo Horizonte, nos pr\u00f3ximos meses, um projeto-piloto para o combate ao mosquito Aedes aegypti por meio de uma tecnologia que automatiza a libera\u00e7\u00e3o e o monitoramento dos \u2026 [+2902 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.279319",
+      "internal_id": "ec527de972463dcf4eae2a5e06c55200c26819b7ca369fc1c1e9d0be75b826a9",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23933,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Les\u00fajt\u00f3 statisztika \u00e9rkezett: egyre n\u0151 Eur\u00f3p\u00e1ban az eddig szokatlan megbeteged\u00e9sek sz\u00e1ma",
+      "description": "Rekordot d\u00f6nt\u00f6tt Eur\u00f3p\u00e1ban az id\u00e9n a sz\u00fanyogok \u00e1ltal terjesztett v\u00edrusok, k\u00f6zt\u00fck a chikungunya \u00e9s a nyugat-n\u00edlusi v\u00edrus okozta megbeteged\u00e9sek esetsz\u00e1ma - figyelmeztetett szerd\u00e1n kiadott jelent\u00e9s\u00e9ben az Eur\u00f3pai Betegs\u00e9gmegel\u0151z\u00e9si \u00e9s J\u00e1rv\u00e1nyv\u00e9delmi K\u00f6zpont (ECD\u2026",
+      "url": "https://www.portfolio.hu/global/20250820/lesujto-statisztika-erkezett-egyre-no-europaban-az-eddig-szokatlan-megbetegedesek-szama-781059",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-virus-illusztracio-644285.jpg",
+      "publishedAt": "2025-08-20 17:20:00",
+      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+1860 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.396605",
+      "internal_id": "e0f33d9edbc82cf896c1f6a4515c04cc1045fd8770e975916cb276fba58d7015",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23927,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Marta Ways",
+      "title": "Zahlen auf Rekordhoch - Immer mehr Krankheitsf\u00e4lle durch M\u00fccken",
+      "description": "Europaweit steigt die Anzahl der Krankheits\u00fcbertragungen durch M\u00fccken. West-Nil-Virus und Chikungunya-Virus breiten sich aus.",
+      "url": "https://www.bild.de/leben-wissen/medizin/muecken-immer-mehr-krankheitsuebertragungen-durch-muecken-in-europa-68a5df4856d29713c923af75",
+      "urlToImage": "https://images.bild.de/68a5df4856d29713c923af75/1b9fe067c6358415300153f1dfaf1075,8fcd9218?w=1280",
+      "publishedAt": "2025-08-20 17:19:01",
+      "content": "Um den TTS Player darzustellen, brauchen wir deine Zustimmung. externen Inhalt aktivieren Um eingebettete Inhalte anzuzeigen, ist Ihre jederzeit widerrufliche Einwilligung (\u00fcber den Schalter oder \u2026 [+2491 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.338977",
+      "internal_id": "48591c5e6ca85b52c055f845c9c822cbcd37df665f90893515b402bee5f488ba",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23910,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Alerta classifica doen\u00e7as causadas por mosquitos como \u2018novo normal\u2019 na Europa",
+      "description": "Comunicado do Centro Europeu de Preven\u00e7\u00e3o e Controle de Doen\u00e7as cita surtos de chikungunya e infec\u00e7\u00f5es pelo v\u00edrus do Nilo Ocidental",
+      "url": "https://veja.abril.com.br/saude/alerta-classifica-doencas-causadas-por-mosquitos-como-novo-normal-na-europa/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-08-20 17:15:46",
+      "content": "Abril Day: Assine Digital Completo por 4,00Aedes aegypti: mosquito transmissor da dengue, chikungunya e zika (Joao Paulo Burini/Getty Images) Continua ap\u00f3s publicidade O Centro Europeu de Preven\u00e7\u00e3o\u2026 [+3773 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.126471",
+      "internal_id": "9fa8c407d79b43f9d532ebe0211a6219cded0c7da9c83f49baaff3db29e90f5f",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23911,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL Mumbai Bureau",
+      "title": "PharmEasy report reveals \u2018dengue hotspots\u2019 in India during monsoons",
+      "description": "The report is based on data patterns observed from dengue testing conducted by PharmEasy Labs between April 2022 and December 2024 across all 28 states and union territories",
+      "url": "https://www.thehindubusinessline.com/news/national/pharmeasy-report-reveals-dengue-hotspots-in-india-during-monsoons/article69956591.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3ftial/article69957171.ece/alternates/LANDSCAPE_1200/IMG_iStock-1405461058_2_1_36A6T7FQ.jpg",
+      "publishedAt": "2025-08-20 15:58:20",
+      "content": "A report on dengue during the monsoons by digital healthcare platform PharmEasy reveals that Karnataka, Tamil Nadu and Maharashtra are the dengue hotspots in the country, during the stated period. \u2026 [+2615 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.134842",
+      "internal_id": "41bb6169e4b270f77727cc66975e9e5e31b607ac2deca6c06444a9f109dcffdf",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23915,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Anne Sandront",
+      "title": "P\u00e9nurie de sang \u00e0 cause des destinations de vacances des Belges? \"La Croix rouge \u00e9tudie de nouveaux tests pour la dengue et le chikungunya\"",
+      "description": "Pour \u00e9viter une p\u00e9nurie de sang chaque ann\u00e9e au retour des vacances \u00e0 cause du moustique tigre, la Croix rouge envisage d'\u00e9largir les tests. Mais elle ne pourra pas les financer seule. ...",
+      "url": "https://www.lavenir.net/actu/societe/sante/2025/08/20/penurie-de-sang-a-cause-des-destinations-de-vacances-des-belges-la-croix-rouge-etudie-de-nouveaux-tests-pour-la-dengue-et-le-chikungunya-SZYSLQNEBZBYNMTJO7UL5RA3WA/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/PBHXWZJSBVER5MZQF2F7GRUFR4.jpg?auth=f616f7ffdceeac62a60eec4fa40caf437884683c50140b98ad17586081dfbc2f&width=1200&height=630&quality=85&focal=2250%2C1500&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-08-20 15:57:55",
+      "content": "Toute personne ayant s\u00e9journ\u00e9 ou transit\u00e9 dans une zone \u00e0 risques doit patienter minimum 28 jours avant de pouvoir donner du sang, du plasma ou des plaquettes. Cette mesure d'\u00e9cartement risque d'avo\u2026 [+2425 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.191334",
+      "internal_id": "f6c648d4b314c9425838ac5c188839c0972cb82c3410690a01266649d811ce4d",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23940,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Maria Miron",
+      "title": "Bolile transmise de \u021b\u00e2n\u021bari devin \u201enoua normalitate\u201d \u00een Europa",
+      "description": "Mediafax Bolile tropicale nu mai sunt la distan\u021b\u0103 de europeni: schimb\u0103rile climatice transform\u0103 Europa \u00eentr-un teren propice pentru \u021b\u00e2n\u021bari \u0219i virusurile purtate de ei, avertizeaz\u0103 ECDC. Articolul Bolile transmise de \u021b\u00e2n\u021bari devin \u201enoua normalitate\u201d \u00een Europa\u2026",
+      "url": "https://www.mediafax.ro/externe/bolile-transmise-de-tantari-devin-noua-normalitate-in-europa-23598360",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/08/pexels-anuj-2604191-4189472-scaled.jpg",
+      "publishedAt": "2025-08-20 15:49:00",
+      "content": "Chikungunya, virusul Nilului de Vest, alte boli transmise de \u00e2nari Ce prea odinioar exotic a devenit o realitate european. Bolile transmise de \u00e2nari sunt \u00een Europa o \u00abnou normalitate\u00bb creat de schimb\u2026 [+2551 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.507128",
+      "internal_id": "9e593fb84043fcdca3d84f5b6680b2d0e01a94f4293cffd64d0f0a1afb925671",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23922,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hdblog.it",
+      "author": "HDblog.it",
+      "title": "Oggi \u00e8 la Giornata mondiale delle zanzare, ma in Europa \u00e8 record di virus West Nile",
+      "description": "In Italia si segnalano casi a Latina e Frosinone",
+      "url": "https://www.hdblog.it/green/articoli/n628872/giornata-mondiale-zanzare-europa-west-nile/",
+      "urlToImage": "https://hd2.tudocdn.net/1281211?w=1920",
+      "publishedAt": "2025-08-20 15:45:00",
+      "content": "Il 20 agosto 1987, il medico inglese Ronald Ross dimostr\u00f2 per la prima volta la correlazione tra le zanzare e la trasmissione della malaria. A ricordo dell'evento \u00e8 stata istituita la Giornata mondia\u2026 [+2485 chars]",
+      "retrievedAt": "2025-08-21 19:06:11.726472",
+      "internal_id": "47ed76398753bbed809822319d9ec238f4c07907143e53db91a4ea5671e046fd",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23941,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Sant\u00e9: un nombre record de cas de maladies transmises par des moustiques en Europe",
+      "description": "L'Europe a enregistr\u00e9 cette ann\u00e9e un nombre record de cas de maladies transmises par des moustiques. ...",
+      "url": "https://www.lavenir.net/actu/societe/sante/2025/08/20/sante-un-nombre-record-de-cas-de-maladies-transmises-par-des-moustiques-en-europe-PNZKSS4CHNDXPI6BTDPABAX5YU/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/RYN4FP2YOBEMREQ4HT6TG5GVYI.jpg?auth=8b55879df68e2b1a6155007e86ba09dc698807424b9478faa74dfca74f440b96&width=1200&height=630&quality=85&focal=2000%2C1336&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-08-20 15:30:49",
+      "content": "Le moustique tigre (Aedes albopictus), pouvant r\u00e9pandre le virus du chikungunya, s'est \u00e9tabli dans 16 pays europ\u00e9ens et 369 r\u00e9gions, contre seulement 114 r\u00e9gions il y a une d\u00e9cennie, a indiqu\u00e9 l'ECDC\u2026 [+1663 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.522892",
+      "internal_id": "33902e3a15cf56e350ba407b66e61bc5e745ca075f976fdffd27cadcc6518a26",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23939,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": null,
+      "title": "LIVE | Inwoners van Marseille zijn toeristen beu: \u2019Ga naar huis!\u2019",
+      "description": "Inwoners van Marseille zijn toeristen beu: \u2019Ga naar huis!\u2019nder hoge temperaturen. Ook in andere delen van de wereld is er extreem weer. Vakantiegangers kunnen last krijgen van de tropische temperaturen en ellenlange file. Volg alle ontwikkelingen tijdens de z\u2026",
+      "url": "https://www.telegraaf.nl/binnenland/live-inwoners-van-marseille-zijn-toeristen-beu-ga-naar-huis/84708336.html",
+      "urlToImage": "https://prod-img.telegraaf.nl/public/incoming/halgvo-gettyimages-175872511.jpg/alternates/SIXTEEN_NINE_1200/GettyImages-175872511.jpg",
+      "publishedAt": "2025-08-20 15:21:00",
+      "content": "Recorduitbraken van het westnijlvirus en het chikungunya-virus in Europa lijken het \"nieuwe normaal\" te worden, waarschuwt de Europese gezondheidsdienst ECDC woensdag. De langere, warmere zomers en m\u2026 [+780 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.498738",
+      "internal_id": "4c352d4d3feee0d5642c05dad7140076e10b27cbdffad7571e598d441bc23ddf",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23925,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Invasion de moustiques : l\u2019Europe face \u00e0 un record de cas de maladies",
+      "description": "Le Vieux Continent conna\u00eet des saisons de contaminations par les moustiques plus longues et plus intenses, aggrav\u00e9es par le changement climatique, selon une agence de sant\u00e9 europ\u00e9enne.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/invasion-de-moustiques-leurope-face-a-un-record-de-cas-de-maladies-2ZK5DMBHF5FYXIVDSTKDT6CKLQ/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/W6KY4SMEPNAPTP4OPAD3GKRBJE.jpg?auth=47e2116fc9d8691da192ad383bb98a402d630f3aa2598e5154c598a9f809f9e6&width=1200&height=630&quality=85&focal=1108%2C654",
+      "publishedAt": "2025-08-20 15:01:51",
+      "content": "Cest une \"nouvelle normalit\u00e9\" cr\u00e9\u00e9e par le changement climatique en Europe. Le continent enregistre cette ann\u00e9e un nombre record de cas de maladies transmises par des moustiques, comme le chikungunya\u2026 [+3806 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.269839",
+      "internal_id": "f563622899fe4fff60045373a93b9ca3d798e009d6fa5c7586d47e3fcef557ad",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23934,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Nombre record de cas de maladies transmises par des moustiques en Europe",
+      "description": "L'Europe a enregistr\u00e9 cette ann\u00e9e un nombre record de cas de maladies, comme le chikungunya et le virus du Nil occidental (VNO), transmises par des moustiques. ...",
+      "url": "https://www.dhnet.be/actu/sante/2025/08/20/nombre-record-de-cas-de-maladies-transmises-par-des-moustiques-en-europe-VWAPO35ZJRAZPJGDLLKDKDKGNU/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/HFCFP5ZB3RG6VKLUCKYQQOE7QU.jpg?auth=720fbdbccb3a52e98d27147a0281f10f5c92c9b6ba68e4c35acd74ae4768f679&width=1200&height=630&quality=85&focal=577%2C433&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2025-08-20 14:45:49",
+      "content": "Le moustique tigre (Aedes albopictus), pouvant r\u00e9pandre le virus du chikungunya, s'est \u00e9tabli dans 16 pays europ\u00e9ens et 369 r\u00e9gions, contre seulement 114 r\u00e9gions il y a une d\u00e9cennie, a indiqu\u00e9 l'ECDC\u2026 [+1831 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.427328",
+      "internal_id": "33c824ec3872d5a5922c7cf1c5e8946fef767860cebc4a7a3414ae4265de3b6d",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23921,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Lucas Handley",
+      "title": "Posible caso local de malaria en Nueva Jersey. Lo que hay que saber.",
+      "description": "Si se confirma, ser\u00eda el primer caso local en el estado en m\u00e1s de treinta a\u00f1os.",
+      "url": "https://es.gizmodo.com/posible-caso-local-de-malaria-en-nueva-jersey-lo-que-hay-que-saber-2000187060",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/08/Diseno-sin-titulo-2025-08-20T113653.996-1200x675.jpg",
+      "publishedAt": "2025-08-20 14:41:34",
+      "content": "Una enfermedad transmitida por los mosquitos y que se hab\u00eda podido erradicar parece tener intenciones de regresar a EE.UU. Los funcionarios de Nueva Jersey ahora investigan si el caso de malaria de u\u2026 [+3906 chars]",
+      "retrievedAt": "2025-08-21 19:06:11.716820",
+      "internal_id": "74b8e816ff8942f22c895f277def6fd4faffcbc7f49a1dee73f81fb0ecd7ed07",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23912,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Vacina da dengue: estudo com dados de vida real comprova efic\u00e1cia entre adolescentes",
+      "description": "Trabalho \u00e9 o primeiro a analisar informa\u00e7\u00f5es da campanha de imuniza\u00e7\u00e3o do Brasil e mostrou que apenas uma dose j\u00e1 reduz pela metade o risco da doen\u00e7a The post Vacina da dengue: estudo com dados de vida real comprova efic\u00e1cia entre adolescentes appeared first\u2026",
+      "url": "https://oglobo.globo.com/saude/noticia/2025/08/20/vacina-da-dengue-estudo-da-fiocruz-com-dados-de-vida-real-comprova-eficacia-da-dose-entre-adolescentes.ghtml#:~:text=Um%20estudo%20da%20Fiocruz%20e,em%2067,5%%20hospitaliza\u00e7\u00f5es.",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/11/vacina-dengue.jpg?quality=70",
+      "publishedAt": "2025-08-20 14:39:23",
+      "content": "Um novo estudo conduzido por pesquisadores da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz) e da Universidade Federal do Mato Grosso do Sul (UFMS) analisou dados de vida real da aplica\u00e7\u00e3o da vacina contra a dengue\u2026 [+4251 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.143103",
+      "internal_id": "0ab2a99bcb93b2143371ae1ae4de44ddb632b4d3b73e2f1e233ecc557ee3d0be",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23905,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Our Bureau",
+      "title": "Indian Immunologicals pledges 5 lakh doses of veterinary anti-rabies vaccine for free roaming dogs",
+      "description": "Indian Immunologicals Limited, largest rabies vaccine manufacturer, pledges 5 lakh doses for free roaming dogs in CSR programme.",
+      "url": "https://www.thehindubusinessline.com/news/national/indian-immunologicals-pledges-5-lakh-doses-of-veterinary-anti-rabies-vaccine-for-free-roaming-dogs/article69956405.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/news/3qixpj/article69956505.ece/alternates/LANDSCAPE_1200/stray.jpg",
+      "publishedAt": "2025-08-20 14:23:59",
+      "content": "Indian Immunologicals Ltd, the worlds largest manufacturer of rabies vaccines, has pledged 5 lakh doses of veterinary anti-rabies vaccines under its Corporate Social Responsibility (CSR) programme fo\u2026 [+1687 chars]",
+      "retrievedAt": "2025-08-21 19:06:06.554873",
+      "internal_id": "60e4949451f39b30b4aa44460891b14830cf2b9341e6196967b23146240e1827",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23935,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "M\u00e9tropole de Grenoble. Deux nouveaux cas de chikungunya av\u00e9r\u00e9s, une nouvelle op\u00e9ration de d\u00e9moustication programm\u00e9e",
+      "description": "L\u2019agence r\u00e9gionale de sant\u00e9 (ARS) a inform\u00e9 la ville d\u2019Eybens de deux nouveaux cas av\u00e9r\u00e9s de chikungunya sur le territoire communal. Sur d\u00e9cision ...",
+      "url": "https://www.ledauphine.com/sante/2025/08/20/isere-metropole-de-grenoble-deux-nouveaux-cas-de-chikungunya-a-eybens-une-nouvelle-operation-de-demoustication-programmee",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/CDC0DCA6-A8FA-48C9-B959-749364E190AF/FB1200/photo-1751997079.jpg",
+      "publishedAt": "2025-08-20 14:22:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.435893",
+      "internal_id": "9a4f0748631a9ddab93cd77373a113c1bed7d099b044f33e7a4f1441b4e60703",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23943,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Claudia Ariton",
+      "title": "Pericolul adus de canicul\u0103 \u00een Europa: num\u0103r record de cazuri de boli transmise de \u0163\u00e2n\u0163ari. Care sunt \u021b\u0103rile cele mai afectate",
+      "description": "Europa a \u00eenregistrat, \u00een acest an, un num\u0103r record de cazuri de boli transmise de \u0163\u00e2n\u0163ari, precum chikungunya sau West Nile. Vorbim despre o \u201enou\u0103 normalitate\u201d creat\u0103 de schimb\u0103rile climatice, a anun\u0163at miercuri Centrul European pentru Prevenirea \u015fi Controlul\u2026",
+      "url": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/pericolul-adus-de-canicula-in-europa-numar-record-de-cazuri-de-boli-transmise-de-tantari-care-sunt-tarile-cele-mai-afectate-3380343",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNCUyRjI1JTJGMTk2MTY3NF8xOTYx/Njc0X3RhbnRhcmktZ2V0dHlpbWFnZXMu/anBnJnc9MTIwMCZoPTYzMCZ6Yz0xJmhh/c2g9N2E1YTA0NDY3MTg5NTc2YjBiZTZkN2M5ODAzMjE5NTg=.thumb.jpg",
+      "publishedAt": "2025-08-20 14:14:34",
+      "content": "Europa a \u00eenregistrat, \u00een acest an, un numr record de cazuri de boli transmise de \u00e2nari, precum chikungunya sau West Nile. Vorbim despre o nou normalitatecreat de schimbrile climatice, a anunat miercu\u2026 [+2050 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.578489",
+      "internal_id": "0c02bba4d54149a56dd1da2cf52467d0cddac9659054cc061d4f9f5d6e795257",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23942,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Neuer Rekord bei von Gelsen \u00fcbertragenen Viren",
+      "description": "Durch Gelsen \u00fcbertragene Viruserkrankungen kommen in Europa immer h\u00e4ufiger vor. Das teilte das Europ\u00e4ische Zentrum f\u00fcr die Pr\u00e4vention und die Kontrolle von Krankheiten (ECDC) mit. Die Ansteckung mit Erregern wie dem West-Nil- und dem Chikungunya-Virus k\u00f6nnte \u2026",
+      "url": "https://science.orf.at/stories/3231653/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2025%2F34%2F81%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2738672_master_1054981_neuer_rekord_bei_von_muecken_uebertragenen_viren_in_der_eu_.jpg%3Fs%3Dda46b15e6b6d6d1ad58aa9ffcb8cb2630df5157c",
+      "publishedAt": "2025-08-20 14:06:49",
+      "content": "Einen neuen Rekord f\u00fcr den Kontinent verzeichnet demnach das durch die Asiatische Tigerm\u00fccke \u00fcbertragene Chikungunya-Virus. 27 Ausbr\u00fcche wurden bisher in diesem Jahr in Europa gemeldet. Erstmals wurd\u2026 [+1939 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.546549",
+      "internal_id": "649fbbb7620c1a7719777a602edf3a340d8fd547112669a14dd034e41b259760",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23944,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "V Eur\u00f3pe je rekordn\u00fd v\u00fdskyt chor\u00f4b pren\u00e1\u0161an\u00fdch kom\u00e1rmi",
+      "description": "Pod\u013ea ECDC Eur\u00f3pa \u010del\u00ed dlh\u0161\u00edm a intenz\u00edvnej\u0161\u00edm obdobiam, ke\u010f doch\u00e1dza k prenosu chor\u00f4b prostredn\u00edctvom kom\u00e1rov.",
+      "url": "https://spravy.pravda.sk/svet/clanok/763965-v-europe-je-rekordny-vyskyt-chorob-prenasanych-komarmi/",
+      "urlToImage": "http://ipravda.sk/res/2025/08/11/thumbs/komar-tigrovany-clanokW.jpg",
+      "publishedAt": "2025-08-20 13:42:00",
+      "content": "Eur\u00f3pske centrum pre prevenciu a kontrolu chor\u00f4b (ECDC) tento rok na kontinente zaznamenalo rekordn\u00fd poet epid\u00e9mi\u00ed chor\u00f4b pren\u00e1an\u00fdch kom\u00e1rmi, ako s\u00fa chikungunya i v\u00edrus z\u00e1padon\u00edlskej hor\u00faky. Poda ECD\u2026 [+2059 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.608647",
+      "internal_id": "78074e67c065cb0aa733c3e07d2b5c504af57445a46e79c3364f7744ef55a532",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23916,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Maladies transmises par des moustiques : l\u2019Europe enregistre un nombre de cas record",
+      "description": "Le Centre europ\u00e9en de contr\u00f4le des maladies \u00e9voque 27 \u00e9pisodes de transmission du chikungunya pour le moment en 2025. Changement climatique oblige, \u00ab une transmission plus longue, plus r\u00e9pandue et plus intense de maladies v\u00e9hicul\u00e9es par les moustiques devient\u2026",
+      "url": "https://www.lemonde.fr/planete/article/2025/08/20/maladies-transmises-par-des-moustiques-l-europe-enregistre-un-nombre-de-cas-record_6632664_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/08/15/0/7/9294/6196/1440/960/60/0/416bca2_ftp-import-images-1-8dafzj7fbqry-5637342-01-06.jpg",
+      "publishedAt": "2025-08-20 13:29:16",
+      "content": "Op\u00e9ration de d\u00e9moustication \u00e0 Bourges, dans le Cher, afin d\u00e9viter la transmission de la dengue, le 14 ao\u00fbt 2025. GUILLAUME SOUVANT / AFP LEurope a enregistr\u00e9 cette ann\u00e9e un nombre record de cas de m\u2026 [+2474 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.207416",
+      "internal_id": "6dfc08830519548e63d707db18d38d0eb6ea9344d954f3bd7d7facc37e6fa437",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23924,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Europe : Le nombre de cas de maladies transmises par les moustiques atteint un record",
+      "description": "Avec 27 cas de chikungunya en 2025, l\u2019Europe \u00e9tablit un nouveau record qui sera une \u00ab nouvelle normalit\u00e9 \u00bb cr\u00e9\u00e9e par le changement climatique",
+      "url": "https://www.20minutes.fr/sante/4168725-20250820-europe-nombre-cas-maladies-transmises-moustiques-atteint-record",
+      "urlToImage": "https://img.20mn.fr/aW-6FN1KSAy71SO-GTMFnyk/1444x920_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
+      "publishedAt": "2025-08-20 13:26:24",
+      "content": "Il va falloir shabituer \u00e0 un important nombre de cas de maladies transmises par des moustiques en Europe, comme le chikungunya et le virus du Nil occidental. Cest une \u00ab nouvelle normalit\u00e9 \u00bb cr\u00e9\u00e9e par\u2026 [+2398 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.260919",
+      "internal_id": "7ecb65bb27eec87e69cb1474b9b0e61d7cd3cda0c4a46d52ae0a1224c1e724f5",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23932,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Un nombre record de cas de maladies transmises par les moustiques enregistr\u00e9 en Europe",
+      "description": "L\u2019agence de sant\u00e9 europ\u00e9enne a annonc\u00e9 mercredi 20 ao\u00fbt qu\u2019un nombre record de cas de maladies transmises par les moustiques avait \u00e9t\u00e9 enregistr\u00e9 en Europe en 2025. Une augmentation due au r\u00e9chauffement climatique et aux changements des conditions environneme\u2026",
+      "url": "https://sante.ouest-france.fr/moustique/un-nombre-record-de-cas-de-maladies-transmises-par-les-moustiques-enregistre-en-europe-097b2cd0-7dc3-11f0-a01f-a0b34f4aa520",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA4ZjZiZjc1YmVjZDlhMTJiZTI1MTViYjc0Y2NhYjI3MWE?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=15693ae78281984bc2cb3ea9856293b3ed378cddb75c6e82dd9183b7409406ae",
+      "publishedAt": "2025-08-20 13:21:25",
+      "content": "Le Centre europ\u00e9en de pr\u00e9vention et de contr\u00f4le des maladies (ECDC) a annonc\u00e9 mercredi 20 ao\u00fbt 2025 que lEurope avait enregistr\u00e9 un nombre record de cas de maladies comme le chikungunya et le virus d\u2026 [+2356 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.388332",
+      "internal_id": "90d1399343072c67957c57cf6578b67b98be340f71e94c805d0305c597d6818c",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23907,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Wdtv News Staff",
+      "title": "West Virginians may have been exposed to measles within past week, public health officials say - NewsBreak",
+      "description": "BRIDGEPORT, W.Va (WDTV) - Public health officials believe that West Virginia residents may have been exposed to measles within the last week. The West Virg",
+      "url": "https://www.newsbreak.com/share/4183816970113-west-virginians-may-have-been-exposed-to-measles-within-past-week-public-health-officials-say?_f=app_share&amp;pd=0GfmYJl1&amp;lang=en_US&amp;send_time=1755695745&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.33.1.14%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/3DtK00_13viFFDP00",
+      "publishedAt": "2025-08-20 13:18:16",
+      "content": "West Virginia Lottery results: See winning numbers for Mega Millions, Daily 3 on Aug. 19, 2025 Are you looking to win big? The West Virginia Lottery offers a variety of games if you think its your l\u2026 [+1059 chars]",
+      "retrievedAt": "2025-08-21 19:06:07.787959",
+      "internal_id": "aa42d3b36ade4025e1fd736813c8c43624910e9891fb80d03dd6f94355ca8ef0",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23914,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya, dengue... en Europe, les moustiques n'ont jamais transmis autant de maladies",
+      "description": "En 2025, l'Europe a enregistr\u00e9 un nombre records de maladies transmises par les moustiques. En cause : le changement climatique.",
+      "url": "https://www.ledauphine.com/sante/2025/08/20/en-europe-les-moustiques-n-ont-jamais-tansmis-autant-de-maladies",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/16F8376E-A574-4A87-9721-7823E79C50C4/FB1200/photo-1755695210.jpg",
+      "publishedAt": "2025-08-20 13:06:00",
+      "content": "L'Europe a enregistr\u00e9 cette ann\u00e9e un nombre record de cas de maladies transmises par des moustiques comme le chikungunya et le virus du Nil occidental. L'Europe conna\u00eet des saisons de contamination \u2026 [+3309 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.175391",
+      "internal_id": "1306a7bc171ca70f523b80b404f91334f255681e2f20bdd52b6d16c4d83e47fb",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23923,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: Gesundheit - Sarah Vojta",
+      "title": "Asiatische Tigerm\u00fccke: Ansteckungen mit Chikungunya-Virus erreichen in Europa Rekord",
+      "description": "Die EU-Beh\u00f6rde zur Kontrolle von Krankheiten verzeichnet europaweit so viele Ansteckungen mit dem Chikungunya-Virus wie noch nie. Auch das West-Nil-Virus wird h\u00e4ufiger.",
+      "url": "https://www.zeit.de/gesundheit/2025-08/west-nil-virus-chikungunya-virus-europa-rekord",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-08/asiatische-tigermuecke/wide__1300x731",
+      "publishedAt": "2025-08-20 12:35:14",
+      "content": "Durch Stechm\u00fccken \u00fcbertragene Viruserkrankungen kommen in Europa immer h\u00e4ufiger vor. Das teilte das Europ\u00e4ische Zentrum f\u00fcr die Pr\u00e4vention und die Kontrolle von Krankheiten (ECDC) mit. Die Ansteckung\u2026 [+1951 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.252066",
+      "internal_id": "ea3248e898c070fe2fae1765a9baaaff27e8698fe40f51a4c407caf75ca3b30b",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23929,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Record number of mosquito-borne disease outbreaks in Europe: health agency",
+      "description": "Europe has registered a record number of outbreaks of mosquito-borne illnesses such as chikungunya and West Nile virus this year, the EU health agency said Wednesday, saying climate change was contributing to a \"new normal\".",
+      "url": "https://www.hurriyetdailynews.com/record-number-of-mosquito-borne-disease-outbreaks-in-europe-health-agency-212731",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/68a5bcb3f33c424376401530.jpg",
+      "publishedAt": "2025-08-20 12:16:00",
+      "content": "BRUSSELS Europe has registered a record number of outbreaks of mosquito-borne illnesses such as chikungunya and West Nile virus this year, the EU health agency said Wednesday, saying climate change \u2026 [+1920 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.356039",
+      "internal_id": "0851cd23d8f377423b6d9c5c676c198a4f3c7681eee6bdd07431de8ca132fb63",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23945,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Insiderpaper.com",
+      "author": "Afp",
+      "title": "Record number of mosquito-borne disease outbreaks in Europe: health agency",
+      "description": "Europe has registered a record number of outbreaks of mosquito-borne illnesses such as chikungunya and West Nile virus this year, the EU health agency",
+      "url": "https://insiderpaper.com/record-number-of-mosquito-borne-disease-outbreaks-in-europe-health-agency/",
+      "urlToImage": "https://insiderpaper.com/wp-content/uploads/2021/08/mosquitoe-1548975_1280_1200x800.jpg",
+      "publishedAt": "2025-08-20 12:11:04",
+      "content": "Europe has registered a record number of outbreaks of mosquito-borne illnesses such as chikungunya and West Nile virus this year, the EU health agency said Wednesday, saying climate change was contri\u2026 [+1909 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.656358",
+      "internal_id": "e5f6795649e6a34e151404e62b185d6421f6e1578d7cd114ea59cc2da0cc7686",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23917,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Clara Beatriz Saraiva Ferreira, Clara Beatriz Saraiva Ferreira",
+      "title": "UFRJ desenvolve teste inovador para diagn\u00f3stico de dengue",
+      "description": "O DiagSyn-Dengue pode ser aplicado tanto em amostras de sangue quanto de soro, com entrega de resultados entre 2 e 4 horas",
+      "url": "https://saude.ig.com.br/2025-08-20/ufrj-desenvolve-teste-inovador-para-diagnostico-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0g/sc/9v/0gsc9vgr74one82n10r0iadv4.jpg",
+      "publishedAt": "2025-08-20 12:06:44",
+      "content": "Pesquisadores da Universidade Federal do Rio de Janeiro ( UFRJ) desenvolveram um novo exame capaz de aumentar a confiabilidade dos diagn\u00f3sticos: o DiagSyn-Dengue, que identifica de forma espec\u00edfica o\u2026 [+2491 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.215961",
+      "internal_id": "d7c1bb08adbf02f3df7c410e5efa392e544cc940ce352473c921d904c65fdd42",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23937,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Record number of mosquito-borne disease outbreaks in Europe: health agency",
+      "description": "Europe has registered a record number of outbreaks of mosquito-borne illnesses such as chikungunya and West Nile virus this year. The post Record number of mosquito-borne disease outbreaks in Europe: health agency appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/life/record-number-of-mosquito-borne-disease-outbreaks-in-europe-health-agency/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/08/c39526b246a0c239a02b781173b75f5bc67e1cf5.jpg",
+      "publishedAt": "2025-08-20 11:37:20",
+      "content": "The ECDC recommended mosquito repellent, long sleeves and trousers, window screens and bed nets for protection - Copyright AFP Martin LELIEVRE Europe has registered a record number of outbreaks of m\u2026 [+2055 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.474753",
+      "internal_id": "172a0c43396f6616ce8f98e3a10587d00a1836cad9a94926465b2983a2e32637",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23908,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Crescono le malattie veicolate dalle zanzare, il 2024 \u00e8 stato l'anno peggiore per la dengue",
+      "description": "Causano oltre 1 milione di morti e infettano fino a 700 milioni di persone ogni anno, quasi una persona su dieci (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/08/20/crescono-le-malattie-veicolate-dalle-zanzare-il-2024-e-stato-lanno-peggiore-per_edd3d14b-c841-45c2-a9cf-710633aae28b.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/8/20/5e32bc7e7abe019a778a8539b2f7ea52.jpg",
+      "publishedAt": "2025-08-20 11:11:30",
+      "content": "Le malattie veicolate dalle zanzare causano oltre 1 milione di morti e infettano fino a 700 milioni di persone ogni anno, quasi una persona su dieci. Il 2024 \u00e8 stato l'anno peggiore di sempre per la \u2026 [+2513 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.071327",
+      "internal_id": "415193fa151db04d189f2b14740e6fd10a8f1f4fe4aa16867557617e37cd443d",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23926,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Alertan de brotes \u00abr\u00e9cord\u00bb de virus del Nilo y chikungunya transmitidas por mosquitos en Europa",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) ha advertido este mi\u00e9rcoles de que los brotes r\u00e9cord de infecci\u00f3n por el virus del Nilo Occidental (VNO) y la enfermedad del virus chikungu\u00f1a apuntan a una nueva normalidad en Europa, lo\u2026",
+      "url": "https://www.abc.es/salud/alertan-brotes-record-virus-nilo-chikungunya-transmitidas-20250820125236-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/08/20/1499868952-U53313871078HwU-1024x512@diario_abc.JPG",
+      "publishedAt": "2025-08-20 10:53:05",
+      "content": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) ha advertido este mi\u00e9rcoles de que los brotes r\u00e9cord de infecci\u00f3n por el virus del Nilo Occidental (VNO) y la enfermedad del v\u2026 [+5029 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.322974",
+      "internal_id": "a1bb7e724e37a24e1cfe953639d8adf79589d51e5fe6dd0db474748f28f45da5",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23913,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "V \u010cesku sa usadil invaz\u00edvny kom\u00e1r japonsk\u00fd, je schopn\u00fd pren\u00e1\u0161a\u0165 r\u00f4zne choroby",
+      "description": "Na \u00fazem\u00ed \u010cR sa prv\u00fdkr\u00e1t vyskytol v roku 2021.",
+      "url": "https://spravy.pravda.sk/svet/clanok/763920-v-cesku-sa-usadil-invazivny-komar-japonsky-je-schopny-prenasat-rozne-choroby/",
+      "urlToImage": "http://ipravda.sk/res/2025/03/25/thumbs/komar-tigrovany-clanokW.png",
+      "publishedAt": "2025-08-20 10:50:00",
+      "content": "V esku sa usadil invaz\u00edvny kom\u00e1r japonsk\u00fd p\u00f4vodom z v\u00fdchodnej \u00c1zie, ktor\u00fd je schopn\u00fd pren\u00e1a r\u00f4zne choroby vr\u00e1tane z\u00e1padon\u00edlskej hor\u00faky i hor\u00faky dengue. asto sa vyskytuje v okol\u00ed udsk\u00fdch obydl\u00ed. Pre u\u2026 [+1636 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.158694",
+      "internal_id": "2d27249448887f675289c5a9d95546906d2b2fca9f6393ed9d5b4c3e2eaebc6c",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23936,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "jvh",
+      "title": "Recordaantal uitbraken van door muggen overgedragen ziekten in Europa: \u201cWe gaan een nieuwe fase in\u201d",
+      "description": "Het Europees Centrum voor Ziektepreventie en -Bestrijding heeft gewaarschuwd voor uitbraken van het westnijlvirus en het chikungunya-virus in Europa. Dit jaar waren er in Europa een recordaantal uitbraken van die virussen, die door muggen verspreid worden.",
+      "url": "https://www.nieuwsblad.be/natuur-en-wetenschap/recordaantal-uitbraken-van-door-muggen-overgedragen-ziekten-in-europa-we-gaan-een-nieuwe-fase-in/84753599.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/z48q69-mosquito-day-through-the-lens/alternates/SIXTEEN_NINE_1200/Mosquito%20Day%20Through%20the%20Lens",
+      "publishedAt": "2025-08-20 09:40:04",
+      "content": "De mug die het chikungunya-virus kan verspreiden komt nu voor in zestien Europese landen en 369 regio's, tegenover 114 regio's tien jaar geleden. De mug is ook voor het eerst gesignaleerd in de Frans\u2026 [+1433 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.451456",
+      "internal_id": "c70d787262a4a48cc5bb3e62bbeae9fd4b42e63cea2f80103b40ad6be87ca235",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23938,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC afirma que los brotes \"r\u00e9cord\" de enfermedades transmitidas por mosquitos en Europa ser\u00e1n la \"nueva normalidad\"",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) ha advertido este mi\u00e9rcoles de que los brotes \"r\u00e9cord\" de enfermedades transmitidas por mosquitos en Europa, como el virus del Nilo Occidental o el chikungunya, ser\u00e1n la \"nueva normalida\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-afirma-brotes-record-enfermedades-transmitidas-mosquitos-europa-seran-nueva-normalidad-20250820105441.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250820105441_1200.jpg",
+      "publishedAt": "2025-08-20 08:54:41",
+      "content": "MADRID 20 Ago. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) ha advertido este mi\u00e9rcoles de que los brotes \"r\u00e9cord\" de enfermedades transmitidas por mos\u2026 [+3705 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.482835",
+      "internal_id": "31471036fe53989693e812207468d14510aac4658a8bd2a5bde7fbf73d93045d",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23909,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aktualne.cz",
+      "author": "\u010cTK",
+      "title": "V \u010cesku se usadil invazn\u00ed kom\u00e1r japonsk\u00fd, m\u016f\u017ee p\u0159en\u00e1\u0161et i hore\u010dku dengue",
+      "description": "Podle v\u00fdzkumn\u00edk\u016f zat\u00edm tento kom\u00e1r pro lidi v \u010cesku bezprost\u0159edn\u00ed riziko nep\u0159edstavuje. M\u016f\u017ee se to ale zm\u011bnit v budoucnu.",
+      "url": "https://zpravy.aktualne.cz/domaci/v-cesku-se-usadil-invazni-komar-japonsky-akutni-riziko-zatim/r~f3c6ee527d9e11f0ae9c0cc47ab5f122/",
+      "urlToImage": "https://cdn.xsd.cz/original/80f862afbc473dfa824dea46cc4d6fe3.jpg",
+      "publishedAt": "2025-08-20 08:40:33",
+      "content": "Podle Ji\u0159\u00edho \u010cern\u00e9ho z \u010cesk\u00e9 zem\u011bd\u011blsk\u00e9 univerzity (\u010cZU), kter\u00fd se na v\u00fdzkumu pod\u00edlel, nep\u0159edstavuje zat\u00edm kom\u00e1r japonsk\u00fd pro lidi v \u010cesku bezprost\u0159edn\u00ed riziko. M\u016f\u017ee se to ale zm\u011bnit v budoucnu. V\u00fds\u2026 [+2273 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.117296",
+      "internal_id": "1d78cd01c2f0da49b5ef0d08c814d158a9be4ae360f473272d079e9ed2accbf4",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23919,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Filip \u0160\u00e1ra",
+      "title": "V \u010cesku se trvale usadil invazn\u00ed kom\u00e1r japonsk\u00fd",
+      "description": "V \u010cesku se usadil invazn\u00ed kom\u00e1r japonsk\u00fd (Aedes japonicus). Tento druh p\u016fvodem z v\u00fdchodn\u00ed Asie m\u016f\u017ee p\u0159en\u00e1\u0161et nejr\u016fzn\u011bj\u0161\u00ed patogeny, jako jsou nap\u0159. z\u00e1padonilsk\u00e1 hore\u010dka, hore\u010dka dengue \u010di chikungunya. \u010casto se vyskytuje v okol\u00ed lidsk\u00fdch s\u00eddel a jako sv\u00e9 hostit\u2026",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-v-cesku-se-trvale-usadil-invazni-komar-japonsky-40535008",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_oc_A/kcukOQcMmBYkB5CbREHGfKw/dd78/komar-japonsky-aedes-japonicus-komari.jpeg?fl=cro,0,52,1800,1012%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-08-20 08:38:33",
+      "content": "V Evrop byl v\u00fdskyt tohoto druhu kom\u00e1ra zn\u00e1m u v roce 2000, na naem \u00fazem\u00ed byl poprv\u00e9 zaznamen\u00e1n a ped tymi roky. Rychle se ale roz\u00edil a loni i letos jeho v\u00fdskyt vdci zaznamenali na zhruba polovin z v\u00ed\u2026 [+3262 chars]",
+      "retrievedAt": "2025-08-21 19:06:10.270758",
+      "internal_id": "1f42fdec99a95f923b6ef257fd6cfb6a10abdd65e3715de27d937dc4aca38e1f",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23928,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Euroopassa uusia enn\u00e4tyksi\u00e4 hyttysten levitt\u00e4miss\u00e4 taudeissa",
+      "description": "Tartuntakaudet ovat Euroopan tautienehk\u00e4isy- ja -valvontakeskus ECDC:n mukaan aiempaa pidempi\u00e4 ja voimakkaampia.",
+      "url": "https://yle.fi/a/74-20178416",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/w_1200,ar_1.91,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/39-12692236617e49e05397",
+      "publishedAt": "2025-08-20 08:26:10",
+      "content": "Euroopassa on tehty uusia enn\u00e4tyksi\u00e4 L\u00e4nsi-Niilin viruksen ja chikungunya-virustaudin tartuntam\u00e4\u00e4riss\u00e4, kertoo Euroopan tautienehk\u00e4isy- ja -valvontakeskus ECDC. Keskuksen mukaan Euroopassa on kirjat\u2026 [+655 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.347542",
+      "internal_id": "85448c5970065389f77754f4b1ae423ff33eb3b7636332eb26d62aa694c4a8fb",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23931,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "STT",
+      "title": "Huolestuttava tieto levi\u00e4vist\u00e4 viruksista",
+      "description": "Tartuntakaudet ovat Euroopan tautienehk\u00e4isy- ja -valvontakeskus ECDC:n mukaan aiempaa pidempi\u00e4 ja voimakkaampia.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011439966.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/450738cf5e51e11b6a41c86837c6419b/some/is-default.jpg",
+      "publishedAt": "2025-08-20 08:26:00",
+      "content": "Tartuntakaudet ovat Euroopan tautienehk\u00e4isy- ja -valvontakeskus ECDC:n mukaan aiempaa pidempi\u00e4 ja voimakkaampia.Euroopassa on tehty uusia enn\u00e4tyksi\u00e4 L\u00e4nsi-Niilin viruksen ja chikungunya-virustaudin t\u2026 [+879 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.380360",
+      "internal_id": "f32865460b3ed2065f9fd0b718155ab0de6a770febfc8a6407bee102e4e2ab52",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23906,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lastwordonnothing.com",
+      "author": "Ann Finkbeiner",
+      "title": "Baltimore in August",
+      "description": "This first ran on August 17, 2022. Three years later, August 20, 2025, same. Except this year we also have infrastructure, (it\u2019s like measles: you get it, you suffer, it goes away) which we have often enough that I know code for the street markings: gas is ye\u2026",
+      "url": "https://www.lastwordonnothing.com/2025/08/20/baltimore-in-august-3/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-20 08:00:00",
+      "content": "This first ran on August 17, 2022. Three years later, August 20, 2025, same. Except this year we also have infrastructure, (it\u2019s like measles: you get it, you suffer, it goes away) which we have ofte\u2026 [+4866 chars]",
+      "retrievedAt": "2025-08-21 19:06:07.604506",
+      "internal_id": "0da166beaddc61e3d9f3729e4e135daf0f1ae923c3fad34579c9e8c20ecefdf4",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 23930,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "LP",
+      "title": "Chikungunya \u00e0 La R\u00e9union : une \u00e9tude lanc\u00e9e pour estimer le nombre de personnes infect\u00e9es",
+      "description": "Combien de personnes ont \u00e9t\u00e9 infect\u00e9es par le chikungunya \u00e0 La R\u00e9union ? Sant\u00e9 publique France (SpF) et l\u2019Agence R\u00e9gionale de Sant\u00e9 (ARS) La R\u00e9union lancent une \u00e9tude pour estimer la part de la population qui a \u00e9t\u00e9 touch\u00e9e par la maladie. Elle passera par des\u2026",
+      "url": "https://la1ere.franceinfo.fr/reunion/chikungunya-a-la-reunion-une-etude-lancee-pour-estimer-le-nombre-de-personnes-infectees-1615103.html",
+      "urlToImage": "https://la1ere.franceinfo.fr/image/STUP1-RvHIlyHkQOfohAQkkXf4E/930x620/outremer/2021/02/08/602095584ad6c_5f43c18c8ed64_0367194001598008237-1457086-1584314.jpg",
+      "publishedAt": "2025-08-20 07:40:07",
+      "content": "Cette ann\u00e9e 2025, La R\u00e9union a \u00e9t\u00e9 frapp\u00e9e de plein fouet par une \u00e9pid\u00e9mie majeure de chikungunya. Pr\u00e8s de 20 ans apr\u00e8s l\u00e9pid\u00e9mie historique de 2005-2006, l\u00eele a connu une deuxi\u00e8me vague. Dans ce co\u2026 [+2087 chars]",
+      "retrievedAt": "2025-08-21 19:06:13.364451",
+      "internal_id": "22289f5029f57ebf1a6325ce702ab703fe1a36a9de49e3cb5efc107a958902e3",
+      "publishedAtLabel": "Aug 20"
+    },
     {
       "id": 23889,
       "query": [
@@ -22593,402 +23341,6 @@
       "content": "Las temperaturas que ha registrado el continente europeo, especialmente el oeste y el suroeste, en el mes de junio \u201cson m\u00e1s t\u00edpicas de julio y agosto y solo suelen darse unas pocas veces al a\u00f1o\u201d, seg\u2026 [+507 chars]",
       "retrievedAt": "2025-07-08 07:08:16.855715",
       "internal_id": "1683bd8d1e245f29cd58c41f4f16e0f876bbeb1cab64135767b4a6035a7839b5",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22635,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "St George News",
-      "author": "Or For St. George News",
-      "title": "Utah public health officials announce more new measles cases",
-      "description": "As of July 1, 2025, Utah has 9 residents with confirmed measles, officials said in a press release.",
-      "url": "https://www.stgeorgeutah.com/life/utah-public-health-officials-announce-more-new-measles-cases/article_fea4c313-1c6a-475c-9e32-b86db94b815b.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/stgeorgeutah.com/content/tncms/assets/v3/editorial/c/8f/c8f2e18c-03fe-11f0-9cac-8f06adb085ce/67d9782fa230a.image.jpg?crop=1761%2C925%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-07-06 17:34:32",
-      "content": "As of July 1, 2025, Utah has 9 residents with confirmed measles, officials said in a press release. All of these people are unvaccinated, health department officials said. All of the people who hav\u2026 [+2043 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.340677",
-      "internal_id": "3d28a4d943819d4ef9575ac4a4f72bccf0b52d336da7875c90cd2d7f77442cde",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22653,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Montse Tom\u00e9 reconoce que Aitana est\u00e1 lista pero no da pistas: \u00abEstar\u00e1 en la convocatoria y luego ya veremos\u00bb",
-      "description": "Espa\u00f1a buscar\u00e1 ma\u00f1ana ante B\u00e9lgica (18.00 horas / La1) la clasificaci\u00f3n para los cuartos de final de esta Eurocopa. Lo har\u00e1 con Aitana Bonmat\u00ed e Irene Paredes en su once, recuperada la primera de su meningitis v\u00edrica y tras cumplir su sanci\u00f3n la segunda. Una \u2026",
-      "url": "https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html",
-      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/07/06/tomeaitanaafp-U06688158612gVv-1024x512@diario_abc.JPG",
-      "publishedAt": "2025-07-06 16:35:43",
-      "content": "Espa\u00f1a buscar\u00e1 ma\u00f1ana ante B\u00e9lgica (18.00 horas / La1) la clasificaci\u00f3n para los cuartos de final de esta Eurocopa. Lo har\u00e1 con Aitana Bonmat\u00ed e Irene Paredes en su once, recuperada la primera de su \u2026 [+5611 chars]",
-      "retrievedAt": "2025-07-07 19:06:35.230616",
-      "internal_id": "b84f4ab5f9d3dfe5f94a2669b4e53611c7b650e80bf945c43c7440b1b28a2877",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22651,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "nj.com",
-      "author": "Jackie Roman | Nj Advance Media For Nj.com",
-      "title": "Measles cases in the U.S. approach 25-year high. See which parts of N.J. are at risk.",
-      "description": "The United States has reported more measles cases in the first six months of 2025 than in all of 2024.",
-      "url": "https://www.nj.com/healthfit/2025/07/measles-cases-in-the-us-approach-25-year-high-see-which-parts-of-nj-are-at-risk.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/HAACPIGYRBFEXI2JXF6JCXHLUE.jpg?auth=e11105332959ce80fb84cbdf6a1ad8a95fe78c9ee9411558db3c68454820c9e0&width=1280&quality=90",
-      "publishedAt": "2025-07-06 15:07:38",
-      "content": "The United States is on track to report the highest number of measles cases in a single year since the country declared measles eliminated in 2000. A total of 1,267 confirmed measles cases were repo\u2026 [+6068 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.486297",
-      "internal_id": "2df1fa15929b9dc241998b7791ffcf61e86cc31afe2c358a4e17f7d11ca5504c",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22645,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KSBW The Central Coast",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.ksbw.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 13:06:00",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.422760",
-      "internal_id": "95b6d73a177c5eca335ceb94a14adaaa1a1cd97693db031ba5c3a8a4bd454bf2",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22634,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "Kate Seamons with Newser.AI",
-      "title": "One Figure Shows How Bad Measles Cases Are",
-      "description": "Measles cases in the United States have soared to levels unseen since the disease was declared eliminated 25 years ago. CNN reports the US has logged at least 1,277 confirmed measles cases so far in 2025, surpassing the previous post-elimination record of 1,2\u2026",
-      "url": "https://www.newser.com/story/371411/one-figure-shows-how-bad-measles-cases-are.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1620584-12-20250706075202.jpeg",
-      "publishedAt": "2025-07-06 12:30:00",
-      "content": "Three deaths have been reported in the US this year, equaling the total from the prior 25 years. Most infected individuals were unvaccinated. The CDC notes just 8% of cases involved people who had re\u2026 [+1163 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.324496",
-      "internal_id": "b360bce8decf0bfbdf43e551267bb2378c24c4294ec488076b9553ca3d612bf6",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22644,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WISN Milwaukee",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wisn.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:10:12",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.414900",
-      "internal_id": "07d002e30a33db3bf3e83a110d74eb654dd942225de84062c36db6bbc817ded7",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22637,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WXII12 Winston-Salem",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wxii12.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:55",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.356940",
-      "internal_id": "48eca5fedec2db6761f02820dbcfd085c04bfc2cd6e812d18d26a89f5a86773d",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22636,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WESH Orlando",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wesh.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:43",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.348921",
-      "internal_id": "2427de1803c902be5df255b341808fd231ce9fe4923c0cb231e2a40eb853b613",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22646,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KCRA Sacramento",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.kcra.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:30",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.430808",
-      "internal_id": "562f1aef5143445b4c5e905876a3c295cb01d401ca4a9174275194821eb5d54c",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22647,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KETV Omaha",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.ketv.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:22",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.439761",
-      "internal_id": "dcc85e122cb4dec147e6cb9d39593b624817077601ca3aea28013da18c9a7b19",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22650,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTAE Pittsburgh",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wtae.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:16",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.463741",
-      "internal_id": "a8a83074e92dd181da95048f9891156827bc845c03b20106cf7c3b3f5e0f2bd3",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22639,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WYFF4 Greenville",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wyff4.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:09",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.373468",
-      "internal_id": "80db3d2fae72f3ad9a2b069173055d7d6292d6b8652ad15406e4c521ca1afa3d",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22643,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WGAL Susquehanna Valley Pa.",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wgal.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:08:09",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.406867",
-      "internal_id": "cb5a58fde972272a2566df70a2a38f3f499dae60873e564ae7feb6a89bb91568",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22638,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WMUR Manchester",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wmur.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:54",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.364903",
-      "internal_id": "a1df2f719ec07f02e9b33edb64f9a1a05972b35572d77e5643c2ad18c7454c6e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22649,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WLKY Louisville",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.wlky.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:41",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.455682",
-      "internal_id": "9f489a15d402470e55458532138cdd1d068ba7e8de0cde1f5d0fe47fe3d59912",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22642,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KMBC Kansas City",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.kmbc.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:40",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.398007",
-      "internal_id": "bc1469c4f9699b8b6df2a9dda23ebdfa2192cde86d5aba144be238c8dae55f7e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22648,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KOCO Oklahoma City",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.koco.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:07:40",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.447649",
-      "internal_id": "c55da7fc4b7e34b579cfe26f9078ad978c50299f68b9cfe523e3e2a3f53722aa",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22640,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "4029tv",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.4029tv.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:06:03",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.381647",
-      "internal_id": "ed67c5fab775b5a2124012af42d0aa351a4f3655930771d66a63e1173e94a5cb",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22641,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KOAT New Mexico",
-      "author": "Deidre Mcphillips",
-      "title": "Measles cases surge to record high since disease was eliminated",
-      "description": "There have been at least 1,277 confirmed cases of measles reported in the U.S. in 2025, according to data from a Johns Hopkins University center.",
-      "url": "https://www.koat.com/article/measles-cases-surge-to-record-high/65306083",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnsdtzyztkwmdbwm2i2bw1wahq5zzc3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2x1nmfzotawngkyn3a3zda2cza4ngi-jpg-686a608ae2046.jpg?crop=1.00xw:0.760xh;0,0&resize=1200:*",
-      "publishedAt": "2025-07-06 12:05:29",
-      "content": "Falling childhood vaccine coverage and a large, smoldering outbreak that was kindled in an undervaccinated pocket of West Texas have driven the United States to a troubling new milestone: There have \u2026 [+6903 chars]",
-      "retrievedAt": "2025-07-07 19:06:33.389991",
-      "internal_id": "25a90ff0710a7bbbbe2721285a0039afb68f240b204d8b27c80254fb1bd8ad82",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22654,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Peter Muiruri",
-      "title": "Killer counterfeits: How fake malaria drugs claim 100,000 lives every year",
-      "description": "Some of the factors that fuel the illegal pharmaceutical market in Africa include limited access to affordable medicines, supply chain gaps, and the unchecked rise of street markets.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001523559/killer-counterfeits-how-fake-malaria-drugs-claim-100000-lives-every-year",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/OZOFv4xqOEba4VNWM0Uh8gDjvdVDAqiPqpSITDYO.jpg",
-      "publishedAt": "2025-07-06 11:05:48",
-      "content": "Community health promoters at Mwembe kati village in Chonyi during the 2015 World Malaria Day celebration. [File, Standard] In April 2024, Benson Wambugi*, a farmer in Kieni, Nyeri, spent weeks bat\u2026 [+4779 chars]",
-      "retrievedAt": "2025-07-07 19:06:35.722986",
-      "internal_id": "ef682e035e67a13e1311e90220ead5188211e7d775be4314fc756ed1129b688f",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22633,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Answersingenesis.org",
-      "author": "Adam Russell, Dr. Alan L. Gillen",
-      "title": "Louis Pasteur: The Man Who Said, \u201cScience Brings Men Closer to God\u201d",
-      "description": "140 years ago, Pasteur gave the first rabies treatment that saved a human\u2019s life! He was a godly man and a brilliant scientist.",
-      "url": "https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/",
-      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/portrait-louis-pasteur-laboratory.png",
-      "publishedAt": "2025-07-06 10:00:00",
-      "content": "July 6, 2025, marks the 140-year anniversary of the first successful treatment of the rabies virus, discovered by Louis Pasteur. Louis Pasteurs contributions and reputation are ever prevalent today, \u2026 [+17934 chars]",
-      "retrievedAt": "2025-07-07 19:06:32.483180",
-      "internal_id": "eca0ccfcc7079ec4e4dc3e81270b5dd44ed4c06103493d2a178c6327a127a43e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 22652,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Preparations underway for dengue prevention in Pokhara",
-      "description": "GANDAKI: Dengue infection has already spread to 73 districts this year, according to the Epidemiology and Disease Control Division. The Division has warned that over 60,000 people could be infected, urging heightened vigilance. Since the risk remains high fro\u2026",
-      "url": "https://english.khabarhub.com/2025/06/483705/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-06 08:45:53",
-      "content": "GANDAKI: Dengue infection has already spread to 73 districts this year, according to the Epidemiology and Disease Control Division. The Division has warned that over 60,000 people could be infected,\u2026 [+3181 chars]",
-      "retrievedAt": "2025-07-07 19:06:34.945569",
-      "internal_id": "29a9e6a8f5886902cd752f80164c09e5279f34032ee9ba1a6d965e6a4ec25f25",
       "publishedAtLabel": "Jul 6"
     }
   ]
