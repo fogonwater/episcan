@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 41
-- **Last harvest:** 2025-08-21 19:06
-- **Most recent article:** 2025-08-20 18:46:19
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-08-22 07:07
+- **Most recent article:** 2025-08-21 07:00:15
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 47 | 360 |
-| measles | 95 | 64 | 47 | 30 | 26 | 26 | 39 | 327 |
-| dengue | 32 | 24 | 36 | 32 | 17 | 25 | 38 | 204 |
-| malaria | 28 | 12 | 18 | 13 | 18 | 15 | 15 | 119 |
-| rabies | 16 | 4 | 11 | 10 | 11 | 27 | 23 | 102 |
-| yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 0 | 59 |
+| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 56 | 369 |
+| measles | 113 | 64 | 47 | 30 | 26 | 26 | 43 | 349 |
+| dengue | 33 | 24 | 36 | 32 | 17 | 25 | 45 | 212 |
+| malaria | 29 | 12 | 18 | 13 | 18 | 15 | 16 | 121 |
+| rabies | 17 | 4 | 11 | 10 | 11 | 27 | 26 | 106 |
+| yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 1 | 60 |
 | mpox | 6 | 7 | 9 | 13 | 10 | 7 | 3 | 55 |
-| zika | 12 | 8 | 2 | 7 | 8 | 9 | 3 | 49 |
+| zika | 12 | 8 | 2 | 7 | 8 | 9 | 5 | 51 |
 | h5n1 | 9 | 13 | 4 | 1 | 14 | 3 | 3 | 47 |
-| meningitis | 6 | 7 | 12 | 3 | 1 | 4 | 1 | 34 |
+| meningitis | 7 | 7 | 12 | 3 | 1 | 4 | 1 | 35 |
 | typhoid | 3 | 9 | 1 | 0 | 1 | 1 | 0 | 15 |
 | hpai | 3 | 2 | 1 | 0 | 3 | 0 | 1 | 10 |
 | pertussis | 0 | 4 | 3 | 1 | 0 | 2 | 0 | 10 |
@@ -34,13 +34,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-34 (zika)
 
+- [O plano do Google para combater mosquitos no Brasil](https://olhardigital.com.br/2025/08/20/ciencia-e-espaco/o-plano-do-google-para-combater-mosquitos-no-brasil/) (Olhardigital.com.br)
+
+- [Actualité : Chikungunya : Hong Kong déploie des robots-chiens pour lutter contre le moustique tigre](https://www.lesnumeriques.com/societe-numerique/chikungunya-hong-kong-deploie-des-robots-chiens-pour-lutter-contre-le-moustique-tigre-n241228.html) (Les Numériques)
+
 - [Sony aumenta preço do PlayStation 5 nos EUA devido a ‘ambiente econômico desafiador’](https://valor.globo.com/empresas/noticia/2025/08/20/sony-aumenta-preco-do-playstation-5-nos-eua-devido-a-ambiente-economico-desafiador.ghtml) (Globo)
 
 - [Debug, do Google, terá projeto-piloto de combate ao Aedes aegypti em Belo Horizonte](https://valor.globo.com/empresas/noticia/2025/08/20/debug-do-google-tera-projeto-piloto-de-combate-ao-aedes-aegypti-em-belo-horizonte.ghtml) (Globo)
 
 - [Alerta classifica doenças causadas por mosquitos como ‘novo normal’ na Europa](https://veja.abril.com.br/saude/alerta-classifica-doencas-causadas-por-mosquitos-como-novo-normal-na-europa/) (Abril.com.br)
 
+## 25-34 (yersinia)
+
+- [Κάτοικος της Καλιφόρνιας βρέθηκε θετικός στην πανώλη](https://www.skai.gr/news/health/katoikos-tis-kalifornias-vrethike-thetikos-stin-panoli) (Skai.gr)
+
 ## 25-34 (rabies)
+
+- [When a stray dog bit a 12-year-old: How prompt action in 10 minutes and plastic surgery saved the boy’s leg](https://indianexpress.com/article/health-wellness/rabies-stray-dog-bite-action-first-response-plastic-surgery-10201874/) (The Indian Express)
+
+- [Students fed midday meal licked by dog, Chhattisgarh High Court orders state to pay damages](https://indianexpress.com/article/india/students-fed-midday-meal-licked-by-dog-chhattisgarh-high-court-orders-state-to-pay-damages-10201622/) (The Indian Express)
+
+- [1 Person, 2 Cats Exposed to Rabid Bat in South Utica](https://www.wktv.com/news/health/1-person-2-cats-exposed-to-rabid-bat-in-south-utica/article_f8d0237d-e738-4921-a2c3-25a0411c38da.html) (WKTV)
 
 - [Indian Immunologicals pledges 5 lakh doses of veterinary anti-rabies vaccine for free roaming dogs](https://www.thehindubusinessline.com/news/national/indian-immunologicals-pledges-5-lakh-doses-of-veterinary-anti-rabies-vaccine-for-free-roaming-dogs/article69956405.ece) (BusinessLine)
 
@@ -101,6 +115,14 @@ Source: [News API](https://newsapi.org/)
 - [Advanced HIV: Silent killer behind surge in AIDS deaths, suffering](https://www.standardmedia.co.ke/health/health-science/article/2001527099/advanced-hiv-silent-killer-behind-surge-in-aids-deaths-suffering) (Standard Digital)
 
 ## 25-34 (measles)
+
+- [Measles outbreak ends in West Texas, but fight continues as CDC reports 1,375 cases nationwide in 2025](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-ends-in-west-texas-but-fight-continues-as-cdc-reports-1375-cases-nationwide-in-2025/articleshow/123424348.cms) (The Times of India)
+
+- [Measles continues to circulate among Idaho communities](https://www.idahostatejournal.com/news/local/measles-continues-to-circulate-among-idaho-communities/article_c4b6b25a-ba98-4ab7-acc4-6382738eff96.html) (Idaho State Journal)
+
+- [Measles case confirmed in Bonner County, officials urge vaccination](https://www.khq.com/news/measles-case-confirmed-in-bonner-county-officials-urge-vaccination/article_af38e4f7-7f79-4256-91b9-0ef1ea5a41b5.html) (KHQ Right Now)
+
+- [6 new measles cases reported in Manitoba](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-cases-1.7613953) (CBC News)
 
 - [West Virginians may have been exposed to measles within past week, public health officials say - NewsBreak](https://www.newsbreak.com/share/4183816970113-west-virginians-may-have-been-exposed-to-measles-within-past-week-public-health-officials-say?_f=app_share&amp;pd=0GfmYJl1&amp;lang=en_US&amp;send_time=1755695745&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.33.1.14%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2) (Newsbreak.com)
 
@@ -182,6 +204,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-34 (malaria)
 
+- [Second U.S. Malaria Case Not Tied to Travel Raises Fears of Local Transmission](https://www.scientificamerican.com/article/second-u-s-malaria-case-not-tied-to-travel-raises-fears-of-local/) (Scientific American)
+
 - [Oggi è la Giornata mondiale delle zanzare, ma in Europa è record di virus West Nile](https://www.hdblog.it/green/articoli/n628872/giornata-mondiale-zanzare-europa-west-nile/) (Hdblog.it)
 
 - [Posible caso local de malaria en Nueva Jersey. Lo que hay que saber.](https://es.gizmodo.com/posible-caso-local-de-malaria-en-nueva-jersey-lo-que-hay-que-saber-2000187060) (Gizmodo.com)
@@ -225,6 +249,20 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe „buchstäblich überall“ auf US-Farmen](https://www.diepresse.com/20010489/vogelgrippe-buchstaeblich-ueberall-auf-us-farmen) (Diepresse.com)
 
 ## 25-34 (dengue)
+
+- [Myggsmitta sprider sig i Europa](https://www.aftonbladet.se/nyheter/a/yEPeJr/myggsmitta-sprider-sig-i-europa) (Aftonbladet.se)
+
+- [Myggsmitta sprider sig i Europa](https://www.svd.se/a/932ged/myggsmitta-sprider-sig-i-europa) (Svenska Dagbladet)
+
+- [Dengue risk spreads to hilly region; seven cases confirmed in Baitadi](https://english.khabarhub.com/2025/21/491991/) (Khabarhub.com)
+
+- [O plano do Google para combater mosquitos no Brasil](https://olhardigital.com.br/2025/08/20/ciencia-e-espaco/o-plano-do-google-para-combater-mosquitos-no-brasil/) (Olhardigital.com.br)
+
+- [Actualité : Chikungunya : Hong Kong déploie des robots-chiens pour lutter contre le moustique tigre](https://www.lesnumeriques.com/societe-numerique/chikungunya-hong-kong-deploie-des-robots-chiens-pour-lutter-contre-le-moustique-tigre-n241228.html) (Les Numériques)
+
+- [Fábricas de mosquitos para combatir el dengue, ¿una solución eficaz?](https://www.dw.com/es/f%C3%A1bricas-de-mosquitos-para-combatir-el-dengue-una-soluci%C3%B3n-eficaz/a-73710446) (DW (English))
+
+- [Malattie da zanzare in crescita, Italia prima nella diffusione del West Nile](https://www.ansa.it/sito/videogallery/mondo/2025/08/20/malattie-da-zanzare-in-crescita-italia-prima-nella-diffusione-del-west-nile_71004411-f1ba-476e-9666-d35eb693bed7.html) (ANSA.it)
 
 - [Sony aumenta preço do PlayStation 5 nos EUA devido a ‘ambiente econômico desafiador’](https://valor.globo.com/empresas/noticia/2025/08/20/sony-aumenta-preco-do-playstation-5-nos-eua-devido-a-ambiente-economico-desafiador.ghtml) (Globo)
 
@@ -304,6 +342,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-34 (chikungunya)
 
+- [How chikungunya got its name; copper and Alzheimer’s: 7 Lifestyle highlights](https://www.scmp.com/lifestyle/article/3322626/malaysian-teen-plays-30-instruments-hong-kong-mooncake-deals-7-lifestyle-highlights) (Post Magazine)
+
+- [Myggsmitta sprider sig i Europa](https://www.svd.se/a/932ged/myggsmitta-sprider-sig-i-europa) (Svenska Dagbladet)
+
+- [Record number of mosquito-borne disease outbreaks in Europe: health agency](https://www.japantimes.co.jp/news/2025/08/21/world/science-health/mosquito-disease-outbreaks-europe/) (The Japan Times)
+
+- [O plano do Google para combater mosquitos no Brasil](https://olhardigital.com.br/2025/08/20/ciencia-e-espaco/o-plano-do-google-para-combater-mosquitos-no-brasil/) (Olhardigital.com.br)
+
+- [Actualité : Chikungunya : Hong Kong déploie des robots-chiens pour lutter contre le moustique tigre](https://www.lesnumeriques.com/societe-numerique/chikungunya-hong-kong-deploie-des-robots-chiens-pour-lutter-contre-le-moustique-tigre-n241228.html) (Les Numériques)
+
+- [Cambio climático: un incapacitante virus transmitido por mosquitos se extiende a nivel global](https://www.lanacion.com.ar/sociedad/cambio-climatico-un-incapacitante-virus-transmitido-por-mosquitos-se-extiende-a-nivel-global-nid20082025/) (La Nacion)
+
+- [Doenças transmitidas por mosquitos batem recorde na Europa](https://www.terra.com.br/noticias/doencas-transmitidas-por-mosquitos-batem-recorde-na-europa,f7e88f3c611c8c4fa1581aabad860a9e3fj2lo0i.html) (Terra.com.br)
+
+- [Malattie da zanzare in crescita, Italia prima nella diffusione del West Nile](https://www.ansa.it/sito/videogallery/mondo/2025/08/20/malattie-da-zanzare-in-crescita-italia-prima-nella-diffusione-del-west-nile_71004411-f1ba-476e-9666-d35eb693bed7.html) (ANSA.it)
+
 - [Sony aumenta preço do PlayStation 5 nos EUA devido a ‘ambiente econômico desafiador’](https://valor.globo.com/empresas/noticia/2025/08/20/sony-aumenta-preco-do-playstation-5-nos-eua-devido-a-ambiente-economico-desafiador.ghtml) (Globo)
 
 - [Debug, do Google, terá projeto-piloto de combate ao Aedes aegypti em Belo Horizonte](https://valor.globo.com/empresas/noticia/2025/08/20/debug-do-google-tera-projeto-piloto-de-combate-ao-aedes-aegypti-em-belo-horizonte.ghtml) (Globo)
@@ -355,6 +409,8 @@ Source: [News API](https://newsapi.org/)
 - [Recordaantal uitbraken van door muggen overgedragen ziekten in Europa: “We gaan een nieuwe fase in”](https://www.nieuwsblad.be/natuur-en-wetenschap/recordaantal-uitbraken-van-door-muggen-overgedragen-ziekten-in-europa-we-gaan-een-nieuwe-fase-in/84753599.html) (Nieuwsblad.be)
 
 - [El ECDC afirma que los brotes "récord" de enfermedades transmitidas por mosquitos en Europa serán la "nueva normalidad"](https://www.infosalus.com/salud-investigacion/noticia-ecdc-afirma-brotes-record-enfermedades-transmitidas-mosquitos-europa-seran-nueva-normalidad-20250820105441.html) (Infosalus.com)
+
+- [La Réunion lance une vaste enquête sur l’exposition au chikungunya](https://www.opinion-internationale.com/2025/08/20/la-reunion-lance-une-vaste-enquete-sur-lexposition-au-chikungunya_137879.html) (Opinion-internationale.com)
 
 - [V Česku se trvale usadil invazní komár japonský](https://www.novinky.cz/clanek/veda-skoly-v-cesku-se-trvale-usadil-invazni-komar-japonsky-40535008) (Novinky.cz)
 
@@ -2532,6 +2588,8 @@ Source: [News API](https://newsapi.org/)
 
 - [LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms) (The Times of India)
 
+- [Louis Pasteur: The Man Who Said, “Science Brings Men Closer to God”](https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/) (Answersingenesis.org)
+
 ## 25-28 (mpox)
 
 - [Moçambique confirma três casos do atual surto de mpox](https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/) (Observador.pt)
@@ -2559,6 +2617,8 @@ Source: [News API](https://newsapi.org/)
 - [España - Bélgica, en directo: alineaciones, horario y dónde ver el segundo partido de la Selección en la Eurocopa femenina](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-horario-ver-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
 
 - [Aitana lo cuenta todo: "Entré en el hospital y me dijeron que me quedaba ingresada, me dolía muchísimo"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250707/1002495919/aitana-cuenta-entre-hospital-me-dijeron-me-quedaba-ingresada-me-dolia.html) (Mundodeportivo.com)
+
+- [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
 
@@ -2752,6 +2812,42 @@ Source: [News API](https://newsapi.org/)
 
 - [When it comes to vaccines, how are pediatricians restoring trust?](https://www.npr.org/2025/07/06/1255282262/can-pediatricians-restore-trust-in-vaccine-policy) (NPR)
 
+- [Utah public health officials announce more new measles cases](https://www.stgeorgeutah.com/life/utah-public-health-officials-announce-more-new-measles-cases/article_fea4c313-1c6a-475c-9e32-b86db94b815b.html) (St George News)
+
+- [Measles cases in the U.S. approach 25-year high. See which parts of N.J. are at risk.](https://www.nj.com/healthfit/2025/07/measles-cases-in-the-us-approach-25-year-high-see-which-parts-of-nj-are-at-risk.html) (nj.com)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.ksbw.com/article/measles-cases-surge-to-record-high/65306083) (KSBW The Central Coast)
+
+- [One Figure Shows How Bad Measles Cases Are](https://www.newser.com/story/371411/one-figure-shows-how-bad-measles-cases-are.html) (Newser)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wisn.com/article/measles-cases-surge-to-record-high/65306083) (WISN Milwaukee)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wxii12.com/article/measles-cases-surge-to-record-high/65306083) (WXII12 Winston-Salem)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wesh.com/article/measles-cases-surge-to-record-high/65306083) (WESH Orlando)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.kcra.com/article/measles-cases-surge-to-record-high/65306083) (KCRA Sacramento)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.ketv.com/article/measles-cases-surge-to-record-high/65306083) (KETV Omaha)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wtae.com/article/measles-cases-surge-to-record-high/65306083) (WTAE Pittsburgh)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wyff4.com/article/measles-cases-surge-to-record-high/65306083) (WYFF4 Greenville)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wgal.com/article/measles-cases-surge-to-record-high/65306083) (WGAL Susquehanna Valley Pa.)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wmur.com/article/measles-cases-surge-to-record-high/65306083) (WMUR Manchester)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wlky.com/article/measles-cases-surge-to-record-high/65306083) (WLKY Louisville)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.kmbc.com/article/measles-cases-surge-to-record-high/65306083) (KMBC Kansas City)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.koco.com/article/measles-cases-surge-to-record-high/65306083) (KOCO Oklahoma City)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.4029tv.com/article/measles-cases-surge-to-record-high/65306083) (4029tv)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.koat.com/article/measles-cases-surge-to-record-high/65306083) (KOAT New Mexico)
+
 ## 25-28 (malaria)
 
 - [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
@@ -2809,6 +2905,8 @@ Source: [News API](https://newsapi.org/)
 - [Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013318) (Plos.org)
 
 - [Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327800) (Plos.org)
+
+- [Killer counterfeits: How fake malaria drugs claim 100,000 lives every year](https://www.standardmedia.co.ke/health/health-science/article/2001523559/killer-counterfeits-how-fake-malaria-drugs-claim-100000-lives-every-year) (Standard Digital)
 
 ## 25-28 (hpai)
 
@@ -2903,6 +3001,8 @@ Source: [News API](https://newsapi.org/)
 - [Brics anuncia parceria para erradicar doenças em países do Sul Global](https://valor.globo.com/brasil/noticia/2025/07/07/brics-anuncia-parceria-para-erradicar-doencas-em-paises-do-sul-global.ghtml) (Globo)
 
 - [Com 41,4 mil casos e 17 mortes por dengue em 2025, Campinas visita 757,3 mil imóveis no 1º semestre](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/07/com-414-mil-casos-e-17-mortes-por-dengue-campinas-visita-7573-mil-imoveis-no-1o-semestre.ghtml) (Globo)
+
+- [Preparations underway for dengue prevention in Pokhara](https://english.khabarhub.com/2025/06/483705/) (Khabarhub.com)
 
 ## 25-28 (chikungunya)
 
