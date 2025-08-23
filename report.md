@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-08-22 19:06
-- **Most recent article:** 2025-08-21 19:00:08
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-08-23 07:06
+- **Most recent article:** 2025-08-22 06:55:53
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 63 | 376 |
-| measles | 95 | 64 | 47 | 30 | 26 | 26 | 46 | 334 |
-| dengue | 32 | 24 | 36 | 32 | 17 | 25 | 50 | 216 |
-| malaria | 28 | 12 | 18 | 13 | 18 | 15 | 16 | 120 |
-| rabies | 16 | 4 | 11 | 10 | 11 | 27 | 27 | 106 |
+| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 69 | 382 |
+| measles | 113 | 64 | 47 | 30 | 26 | 26 | 48 | 354 |
+| dengue | 33 | 24 | 36 | 32 | 17 | 25 | 54 | 221 |
+| malaria | 29 | 12 | 18 | 13 | 18 | 15 | 16 | 121 |
+| rabies | 17 | 4 | 11 | 10 | 11 | 27 | 32 | 112 |
 | yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 5 | 64 |
 | mpox | 6 | 7 | 9 | 13 | 10 | 7 | 4 | 56 |
-| zika | 12 | 8 | 2 | 7 | 8 | 9 | 5 | 51 |
+| zika | 12 | 8 | 2 | 7 | 8 | 9 | 6 | 52 |
 | h5n1 | 9 | 13 | 4 | 1 | 14 | 3 | 3 | 47 |
-| meningitis | 6 | 7 | 12 | 3 | 1 | 4 | 1 | 34 |
+| meningitis | 7 | 7 | 12 | 3 | 1 | 4 | 2 | 36 |
 | typhoid | 3 | 9 | 1 | 0 | 1 | 1 | 0 | 15 |
 | hpai | 3 | 2 | 1 | 0 | 3 | 0 | 1 | 10 |
 | pertussis | 0 | 4 | 3 | 1 | 0 | 2 | 0 | 10 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-34 (zika)
+
+- [“El dengue es un piquete de mosquito”](https://www.excelsior.com.mx/opinion/rafael-alvarez-cordero/el-dengue-es-un-piquete-de-mosquito/1734670) (Excelsior.com.mx)
 
 - [O plano do Google para combater mosquitos no Brasil](https://olhardigital.com.br/2025/08/20/ciencia-e-espaco/o-plano-do-google-para-combater-mosquitos-no-brasil/) (Olhardigital.com.br)
 
@@ -57,6 +59,16 @@ Source: [News API](https://newsapi.org/)
 - [Κάτοικος της Καλιφόρνιας βρέθηκε θετικός στην πανώλη](https://www.skai.gr/news/health/katoikos-tis-kalifornias-vrethike-thetikos-stin-panoli) (Skai.gr)
 
 ## 25-34 (rabies)
+
+- [Feeding points, instructions on dogs with rabies & more: 5 key points from SC verdict on Delhi's stray dogs](https://economictimes.indiatimes.com/news/india/feeding-points-instructions-on-dogs-with-rabies-more-5-key-points-from-sc-verdict-on-delhi-stray-dogs/articleshow/123447637.cms) (The Times of India)
+
+- [भारत में एंटी-रेबीज वैक्सीन पहले ही क्यों नहीं लगाई जाती? डॉक्टर ने बताया कारण](https://www.aajtak.in/health/story/anti-rabies-vaccine-why-cannot-not-be-given-before-dog-bite-in-india-tvist-dskc-2312527-2025-08-22) (Aajtak.in)
+
+- [Stray dogs case: SC revises previous order, allows release after sterilisation except rabid or aggressive dogs](https://economictimes.indiatimes.com/news/india/stray-dogs-case-sc-revises-previous-order-allows-release-after-sterilisation-except-rabid-or-aggressive-dogs/articleshow/123445437.cms) (The Times of India)
+
+- [Hundreds May Have Been Exposed to Rabies in Grand Teton National Park Cabins](https://www.insurancejournal.com/news/west/2025/08/22/836172.htm) (Insurance Journal)
+
+- [Public health recommends all children at Brantford, Ont., daycare get treatment after rabid bat found](https://www.cbc.ca/news/canada/hamilton/rabies-exposure-1.7614982) (CBC News)
 
 - [Rabies Outbreak in an Urban, Unmanaged Cat Colony — Maryland, August 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7431a2.htm) (Cdc.gov)
 
@@ -124,9 +136,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-34 (meningitis)
 
+- [Qué es la listeria, la peligrosa bacteria detectada en dos productos en Chile](https://www.latercera.com/tendencias/noticia/que-es-la-listeria-la-peligrosa-bacteria-detectada-en-dos-productos-en-chile/) (Latercera.com)
+
 - [Advanced HIV: Silent killer behind surge in AIDS deaths, suffering](https://www.standardmedia.co.ke/health/health-science/article/2001527099/advanced-hiv-silent-killer-behind-surge-in-aids-deaths-suffering) (Standard Digital)
 
 ## 25-34 (measles)
+
+- [Canada measles cases pass 4,500, highest count in Americas](https://www.digitaljournal.com/world/canada-measles-cases-pass-4500-highest-count-in-americas/article) (Digital Journal)
+
+- [What to know about measles during back-to-school season](https://www.bozemandailychronicle.com/news/what-to-know-about-measles-during-back-to-school-season/article_1fd830ca-7b7e-47d4-8622-441f51519d48.html) (The Bozeman Daily Chronicle)
 
 - [State: Lancaster County residents may have been exposed to measles](https://lancasteronline.com/news/local/state-lancaster-county-residents-may-have-been-exposed-to-measles/article_2565f66e-6c6f-4837-9503-21d0ae583dfe.html) (LancasterOnline)
 
@@ -272,6 +290,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-34 (dengue)
 
+- [“El dengue es un piquete de mosquito”](https://www.excelsior.com.mx/opinion/rafael-alvarez-cordero/el-dengue-es-un-piquete-de-mosquito/1734670) (Excelsior.com.mx)
+
+- [KMC launches ‘Walk and Act’ dengue drive today](https://english.khabarhub.com/2025/22/492157/) (Khabarhub.com)
+
+- [Kathmandu launches mega anti-mosquito drive, ‘Walk and Act’ program today](https://mypeoplesreview.com/2025/08/22/kathmandu-launches-mega-anti-mosquito-drive-walk-and-act-program-today/) (Mypeoplesreview.com)
+
+- [Del dengue al chikungunya, Europa alerta de un récord de enfermedades tropicales: "Entramos en una nueva fase"](https://www.elespanol.com/ciencia/salud/20250822/dengue-chikungunya-europa-alerta-record-enfermedades-tropicales-entramos-nueva-fase/1003743894776_0.html) (Elespanol.com)
+
 - [Vitamin D enhances antiviral responses in dengue virus-infected macrophages by modulating early-response gene expression](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330751) (Plos.org)
 
 - [V Česku se usadil komár japonský. Přenáší horečku dengue a další nebezpečné nemoci](https://vtm.zive.cz/clanky/v-cesku-se-usadil-komar-japonsky-prenasi-horecku-dengue-a-dalsi-nebezpecne-nemoci/sc-870-a-236571/default.aspx) (Zive.cz)
@@ -373,6 +399,18 @@ Source: [News API](https://newsapi.org/)
 - [Here’s a viral SEO title, optimized with emojis: Gandaki Dengue Outbreak: 800+ Infected! Stay Safe! ️](https://nep123.com/pheres-a-viral-seo-title-optimized-with-emojisp-pstrong-gandaki-dengue-outbreak-800-infected-stay-safe-strongp/) (Nep123.com)
 
 ## 25-34 (chikungunya)
+
+- [“El dengue es un piquete de mosquito”](https://www.excelsior.com.mx/opinion/rafael-alvarez-cordero/el-dengue-es-un-piquete-de-mosquito/1734670) (Excelsior.com.mx)
+
+- [Toccherà abituarsi a queste malattie portate dalle zanzare](https://www.infodata.ilsole24ore.com/2025/08/22/tocchera-abituarsi-a-queste-malattie-portate-dalle-zanzare/) (Il Sole 24 Ore)
+
+- [Isère. À 80 ans, elle contracte le chikungunya : « Pas besoin d’aller sous les tropiques »](https://www.ledauphine.com/sante/2025/08/22/isere-eybens-a-80-ans-elle-contracte-le-chikungunya-pas-besoin-d-aller-sous-les-tropiques) (Le Dauphiné Libéré)
+
+- [A Vitrolles, chasse au moustique-tigre dans le plus grand foyer de chikungunya de France métropolitaine](https://www.lemonde.fr/planete/article/2025/08/22/a-vitrolles-chasse-au-moustique-tigre-dans-le-plus-grand-foyer-de-chikungunya-de-france-metropolitaine_6633455_3244.html) (Le Monde)
+
+- [Del dengue al chikungunya, Europa alerta de un récord de enfermedades tropicales: "Entramos en una nueva fase"](https://www.elespanol.com/ciencia/salud/20250822/dengue-chikungunya-europa-alerta-record-enfermedades-tropicales-entramos-nueva-fase/1003743894776_0.html) (Elespanol.com)
+
+- [Cuál es el virus que se transmite por mosquitos debido al cambio climático](https://www.lanacion.com.ar/sociedad/cual-es-el-virus-que-se-transmite-por-mosquitos-debido-al-cambio-climatico-nid21082025/) (La Nacion)
 
 - [Alerta por uma nova pandemia: outro vírus na China está se espalhando e estes são os países que podem estar em risco](https://catracalivre.com.br/noticias/alerta-por-uma-nova-pandemia-outro-virus-na-china-esta-se-espalhando-e-estes-sao-os-paises-que-podem-estar-em-risco/) (Catracalivre.com.br)
 
@@ -2634,6 +2672,8 @@ Source: [News API](https://newsapi.org/)
 
 - [LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms) (The Times of India)
 
+- [Louis Pasteur: The Man Who Said, “Science Brings Men Closer to God”](https://answersingenesis.org/creation-scientists/louis-pasteur-science-brings-men-closer-god/) (Answersingenesis.org)
+
 ## 25-28 (mpox)
 
 - [Moçambique confirma três casos do atual surto de mpox](https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/) (Observador.pt)
@@ -2661,6 +2701,8 @@ Source: [News API](https://newsapi.org/)
 - [España - Bélgica, en directo: alineaciones, horario y dónde ver el segundo partido de la Selección en la Eurocopa femenina](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-horario-ver-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
 
 - [Aitana lo cuenta todo: "Entré en el hospital y me dijeron que me quedaba ingresada, me dolía muchísimo"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250707/1002495919/aitana-cuenta-entre-hospital-me-dijeron-me-quedaba-ingresada-me-dolia.html) (Mundodeportivo.com)
+
+- [Montse Tomé reconoce que Aitana está lista pero no da pistas: «Estará en la convocatoria y luego ya veremos»](https://www.abc.es/deportes/futbol/montse-tome-xxx-20250706154538-nt.html) (Www.abc.es)
 
 ## 25-28 (measles)
 
@@ -2854,6 +2896,42 @@ Source: [News API](https://newsapi.org/)
 
 - [When it comes to vaccines, how are pediatricians restoring trust?](https://www.npr.org/2025/07/06/1255282262/can-pediatricians-restore-trust-in-vaccine-policy) (NPR)
 
+- [Utah public health officials announce more new measles cases](https://www.stgeorgeutah.com/life/utah-public-health-officials-announce-more-new-measles-cases/article_fea4c313-1c6a-475c-9e32-b86db94b815b.html) (St George News)
+
+- [Measles cases in the U.S. approach 25-year high. See which parts of N.J. are at risk.](https://www.nj.com/healthfit/2025/07/measles-cases-in-the-us-approach-25-year-high-see-which-parts-of-nj-are-at-risk.html) (nj.com)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.ksbw.com/article/measles-cases-surge-to-record-high/65306083) (KSBW The Central Coast)
+
+- [One Figure Shows How Bad Measles Cases Are](https://www.newser.com/story/371411/one-figure-shows-how-bad-measles-cases-are.html) (Newser)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wisn.com/article/measles-cases-surge-to-record-high/65306083) (WISN Milwaukee)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wxii12.com/article/measles-cases-surge-to-record-high/65306083) (WXII12 Winston-Salem)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wesh.com/article/measles-cases-surge-to-record-high/65306083) (WESH Orlando)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.kcra.com/article/measles-cases-surge-to-record-high/65306083) (KCRA Sacramento)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.ketv.com/article/measles-cases-surge-to-record-high/65306083) (KETV Omaha)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wtae.com/article/measles-cases-surge-to-record-high/65306083) (WTAE Pittsburgh)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wyff4.com/article/measles-cases-surge-to-record-high/65306083) (WYFF4 Greenville)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wgal.com/article/measles-cases-surge-to-record-high/65306083) (WGAL Susquehanna Valley Pa.)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wmur.com/article/measles-cases-surge-to-record-high/65306083) (WMUR Manchester)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.wlky.com/article/measles-cases-surge-to-record-high/65306083) (WLKY Louisville)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.kmbc.com/article/measles-cases-surge-to-record-high/65306083) (KMBC Kansas City)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.koco.com/article/measles-cases-surge-to-record-high/65306083) (KOCO Oklahoma City)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.4029tv.com/article/measles-cases-surge-to-record-high/65306083) (4029tv)
+
+- [Measles cases surge to record high since disease was eliminated](https://www.koat.com/article/measles-cases-surge-to-record-high/65306083) (KOAT New Mexico)
+
 ## 25-28 (malaria)
 
 - [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
@@ -2911,6 +2989,8 @@ Source: [News API](https://newsapi.org/)
 - [Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013318) (Plos.org)
 
 - [Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327800) (Plos.org)
+
+- [Killer counterfeits: How fake malaria drugs claim 100,000 lives every year](https://www.standardmedia.co.ke/health/health-science/article/2001523559/killer-counterfeits-how-fake-malaria-drugs-claim-100000-lives-every-year) (Standard Digital)
 
 ## 25-28 (hpai)
 
@@ -3005,6 +3085,8 @@ Source: [News API](https://newsapi.org/)
 - [Brics anuncia parceria para erradicar doenças em países do Sul Global](https://valor.globo.com/brasil/noticia/2025/07/07/brics-anuncia-parceria-para-erradicar-doencas-em-paises-do-sul-global.ghtml) (Globo)
 
 - [Com 41,4 mil casos e 17 mortes por dengue em 2025, Campinas visita 757,3 mil imóveis no 1º semestre](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/07/com-414-mil-casos-e-17-mortes-por-dengue-campinas-visita-7573-mil-imoveis-no-1o-semestre.ghtml) (Globo)
+
+- [Preparations underway for dengue prevention in Pokhara](https://english.khabarhub.com/2025/06/483705/) (Khabarhub.com)
 
 ## 25-28 (chikungunya)
 
