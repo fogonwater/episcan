@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-08-23 19:05
-- **Most recent article:** 2025-08-22 17:16:26
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-08-24 07:06
+- **Most recent article:** 2025-08-23 03:31:26
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-28 | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | Total |
-|--|-|-|-|-|-|-|-|-|
-| chikungunya | 40 | 21 | 63 | 36 | 107 | 46 | 74 | 387 |
-| measles | 95 | 64 | 47 | 30 | 26 | 26 | 49 | 337 |
-| dengue | 32 | 24 | 36 | 32 | 17 | 25 | 60 | 226 |
-| malaria | 28 | 12 | 18 | 13 | 18 | 15 | 18 | 122 |
-| rabies | 16 | 4 | 11 | 10 | 11 | 27 | 35 | 114 |
-| yersinia | 43 | 6 | 2 | 1 | 0 | 7 | 7 | 66 |
-| mpox | 6 | 7 | 9 | 13 | 10 | 7 | 4 | 56 |
-| zika | 12 | 8 | 2 | 7 | 8 | 9 | 7 | 53 |
-| h5n1 | 9 | 13 | 4 | 1 | 14 | 3 | 3 | 47 |
-| meningitis | 6 | 7 | 12 | 3 | 1 | 4 | 2 | 35 |
-| typhoid | 3 | 9 | 1 | 0 | 1 | 1 | 0 | 15 |
-| hpai | 3 | 2 | 1 | 0 | 3 | 0 | 1 | 10 |
-| pertussis | 0 | 4 | 3 | 1 | 0 | 2 | 0 | 10 |
-| leptospirosis | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 4 |
+| Disease | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | Total |
+|--|-|-|-|-|-|-|-|
+| chikungunya | 21 | 63 | 36 | 107 | 46 | 76 | 349 |
+| measles | 60 | 47 | 30 | 26 | 26 | 49 | 238 |
+| dengue | 24 | 36 | 32 | 17 | 25 | 61 | 195 |
+| rabies | 4 | 11 | 10 | 11 | 27 | 37 | 100 |
+| malaria | 12 | 18 | 13 | 18 | 15 | 18 | 94 |
+| mpox | 6 | 9 | 13 | 10 | 7 | 4 | 49 |
+| zika | 8 | 2 | 7 | 8 | 9 | 7 | 41 |
+| h5n1 | 13 | 4 | 1 | 14 | 3 | 3 | 38 |
+| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 29 |
+| yersinia | 5 | 2 | 1 | 0 | 7 | 7 | 22 |
+| pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 10 |
+| typhoid | 7 | 1 | 0 | 1 | 1 | 0 | 10 |
+| hpai | 2 | 1 | 0 | 3 | 0 | 1 | 7 |
+| leptospirosis | 0 | 0 | 0 | 1 | 1 | 2 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -65,6 +65,10 @@ Source: [News API](https://newsapi.org/)
 - [Κάτοικος της Καλιφόρνιας βρέθηκε θετικός στην πανώλη](https://www.skai.gr/news/health/katoikos-tis-kalifornias-vrethike-thetikos-stin-panoli) (Skai.gr)
 
 ## 25-34 (rabies)
+
+- ['Dogesh bhai! Tum aage bahdo!' Raveena Tandon on Supreme Court's revised order on stray dogs](https://economictimes.indiatimes.com/news/new-updates/dogesh-bhai-tum-aage-bahdo-raveena-tandon-on-supreme-courts-revised-order-on-stray-dogs/articleshow/123465520.cms) (The Times of India)
+
+- [‘What Would You Have Done?’: Maine Man Wakes Up To Flying Bat In Bedroom, Gets The Rabies Shot. Then He Shares The 2 Major Mistakes He Made](https://brobible.com/culture/article/maine-bat-in-room-2-mistakes/) (BroBible)
 
 - [India में पहले से क्यों नहीं दी जाती Rabies की Vaccine?](https://www.aajtak.in/short-videos/video/anti-rabies-vaccine-cannot-not-be-given-before-dog-bite-but-why-doctor-replied-2315940-2025-08-22) (Aajtak.in)
 
@@ -310,6 +314,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-34 (dengue)
 
+- [Hidalgo declara alerta contra sarampión y dengue: el rezago en vacunación deja vulnerable a tres de cada cuatro habitantes](https://www.xataka.com.mx/medicina-y-salud/hidalgo-declara-alerta-sarampion-dengue-rezago-vacunacion-deja-vulnerable-a-tres-cada-cuatro-habitantes) (Xataka.com.mx)
+
 - [Caso di Dengue a Prato, paziente tornato da viaggio in India](https://www.ansa.it/toscana/notizie/2025/08/22/caso-di-dengue-a-prato-paziente-tornato-da-viaggio-in-india_8667b376-0e82-4feb-989c-0a4656f97c6b.html) (ANSA.it)
 
 - [Caso di Dengue a Prato, paziente tornato da viaggio in India](https://www.ansa.it/sito/notizie/cronaca/2025/08/22/caso-di-dengue-a-prato-paziente-tornato-da-viaggio-in-india_8c5279ad-9b7e-4e49-8560-36e7c8b2396f.html) (ANSA.it)
@@ -431,6 +437,10 @@ Source: [News API](https://newsapi.org/)
 - [Here’s a viral SEO title, optimized with emojis: Gandaki Dengue Outbreak: 800+ Infected! Stay Safe! ️](https://nep123.com/pheres-a-viral-seo-title-optimized-with-emojisp-pstrong-gandaki-dengue-outbreak-800-infected-stay-safe-strongp/) (Nep123.com)
 
 ## 25-34 (chikungunya)
+
+- [A solução de Hong Kong para combater a chikungunya: cães robóticos](https://pplware.sapo.pt/ciencia/a-solucao-de-hong-kong-para-combater-a-chikungunya-caes-roboticos/) (Sapo.pt)
+
+- [Alertă sanitară în Europa: Autoritățile avertizează că bolile transmise de țânțari ating niveluri record. România e pe listă](https://adevarul.ro/stiri-externe/europa/alerta-sanitara-in-europa-autoritatile-2466837.html) (Adevarul.ro)
 
 - [In provincia di Modena sono 41 i casi di Chikungunya](https://www.ansa.it/emiliaromagna/notizie/2025/08/22/in-provincia-di-modena-sono-41-i-casi-di-chikungunya_ae32c3a5-8119-46e4-b2b0-7f2a7eeef403.html) (ANSA.it)
 
@@ -2200,8 +2210,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
 
-- [Paciente nos EUA morre com bactéria da “Grande Peste” da Idade Média](https://www.metropoles.com/mundo/paciente-nos-eua-morre-com-bacteria-da-grande-peste-da-idade-media) (Metropoles.com)
-
 ## 25-29 (typhoid)
 
 - [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
@@ -2217,10 +2225,6 @@ Source: [News API](https://newsapi.org/)
 - [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
 
 - [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
-
-- [Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children](https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/) (Thekenyatimes.com)
-
-- [Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parents](https://www.kenyans.co.ke/news/114116-ensure-children-get-typhoid-measles-rubella-jabs-48-hours-health-ministry-warns-parents) (Kenyans.co.ke)
 
 ## 25-29 (rabies)
 
@@ -2255,8 +2259,6 @@ Source: [News API](https://newsapi.org/)
 - [Neue Variante, neue Gefahr: Mpox breitet sich in Afrika rasant aus](https://www.tagesspiegel.de/wissen/neue-variante-neue-gefahr-mpox-breitet-sich-in-afrika-rasant-aus-14011013.html) (Der Tagesspiegel)
 
 - [La OMS registra más de 26.000 casos de mpox en la primera mitad del año, la mayoría en África](https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-26000-casos-mpox-primera-mitad-ano-mayoria-africa-20250714120241.html) (Infosalus.com)
-
-- [เตือนสถานการณ์โรค "ฝีดาษลิง" พบป่วยสะสม 40 คน](https://www.thairath.co.th/news/local/2870097) (Thairath.co.th)
 
 ## 25-29 (meningitis)
 
@@ -2395,14 +2397,6 @@ Source: [News API](https://newsapi.org/)
 - [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
 
 - [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
-
-- [UK measles cases rising among children - with leading NHS hospital 'concerned'](https://news.sky.com/story/uk-measles-cases-rising-among-children-with-leading-nhs-hospital-concerned-13396026) (Sky.com)
-
-- [Ruto's Government Gives Parents 48 Hours To Vaccinate Their Children](https://thekenyatimes.com/health/ministry-sets-48-hour-countdown-for-child-vaccinations-in-kenya/) (Thekenyatimes.com)
-
-- [Ensure Children Get Typhoid, Measles-Rubella Jabs in 48 Hours, Health Ministry Warns Parents](https://www.kenyans.co.ke/news/114116-ensure-children-get-typhoid-measles-rubella-jabs-48-hours-health-ministry-warns-parents) (Kenyans.co.ke)
-
-- [Emergency vaccines slash deaths by 60%](https://timesofindia.indiatimes.com/science/emergency-vaccines-slash-deaths-by-60/articleshow/122414798.cms) (The Times of India)
 
 ## 25-29 (malaria)
 
@@ -2557,613 +2551,3 @@ Source: [News API](https://newsapi.org/)
 - [Gefährliche Krankheit: Chikungunya-Impfung: Wichtige Infos für deine nächste Reise](https://www.fitforfun.de/news/chikungunya-impfung-wichtige-infos-fuer-deine-naechste-reise-759176.html) (FIT FOR FUN)
 
 - [Das Chikungunya-Fieber grassiert auf La Réunion. Jetzt könnte das Virus den Sprung nach Europa schaffen](https://www.nzz.ch/wissenschaft/chikungunya-fieber-auf-la-reunion-droht-eine-ausbreitung-nach-europa-ld.1891008) (Www.nzz.ch)
-
-## 25-28 (zika)
-
-- [Oito crianças com síndrome causada pelo Zika vírus morreram nos últimos 20 dias; famílias aguardam pensão autorizada por lei](https://www.terra.com.br/nos/oito-criancas-com-sindrome-causada-pelo-zika-virus-morreram-nos-ultimos-20-dias-familias-aguardam-pensao-autorizada-por-lei,f987b828ec4f7f1e097f5c87329ee732qkokfxzn.html) (Terra.com.br)
-
-- [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
-
-- [OMS lança primeira diretriz para o manejo de quatro doenças transmitidas por mosquitos](https://veja.abril.com.br/saude/oms-lanca-primeira-diretriz-para-o-manejo-de-quatro-doencas-transmitidas-por-mosquitos/) (Abril.com.br)
-
-- [Vacina brasileira contra zika tem bons resultados em testes com camundongos](https://super.abril.com.br/saude/vacina-brasileira-contra-zika-tem-bons-resultados-em-testes-com-camundongos/) (Abril.com.br)
-
-- [La OMS advierte a nivel mundial de la reaparición de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/actualidad/noticias/13457719/07/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
-
-- [Nova vacina contra zika vírus é bem-sucedida em testes](https://veja.abril.com.br/saude/nova-vacina-contra-zika-virus-e-bem-sucedida-em-testes/) (Abril.com.br)
-
-- [Țânțarul a devenit cea mai letală insectă de pe planetă. Ce boli transmite și la ce să fii atent](https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078) (Mediafax.ro)
-
-- [Zika: nova vacina apresenta resultados promissores contra o vírus](https://olhardigital.com.br/2025/07/09/medicina-e-saude/zika-nova-vacina-apresenta-resultados-promissores-contra-o-virus/) (Olhardigital.com.br)
-
-- [Zika virus-specific and orthoflavivirus-cross-reactive IgGs correlate with Zika virus seroneutralization depending on prior dengue virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013274) (Plos.org)
-
-- [Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203) (Plos.org)
-
-- [Mapping the risk of Zika virus infections in pregnant persons and microcephaly in newborns in relation to socioeconomic indicators in Recife, Pernambuco, Brazil: A spatial analysis (2015 to 2021)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013240) (Plos.org)
-
-- [De nouvelles armes dans la lutte contre les moustiques et les maladies qu’ils transmettent](https://www.lemonde.fr/planete/article/2025/07/08/de-nouvelles-armes-dans-la-lutte-contre-les-moustiques-et-les-maladies-qu-ils-transmettent_6619818_3244.html) (Le Monde)
-
-## 25-28 (yersinia)
-
-- [В России оценили вероятность распространения чумы](https://news.mail.ru/society/66981836/) (Mail.ru)
-
-- [В штате Аризона зарегистрирована первая с 2007 года смерть от чумы](https://korrespondent.net/world/4798294-v-shtate-aryzona-zarehystryrovana-pervaia-s-2007-hoda-smert-ot-chumy) (Korrespondent.net)
-
-- [У США людина померла від найбільш летальної форми чуми](https://life.pravda.com.ua/health/u-ssha-lyudina-pomerla-vid-naybilsh-letalnoji-formi-chumi-309177/) (Pravda.com.ua)
-
-- [Ruttokuolema USA:ssa](https://www.iltalehti.fi/ulkomaat/a/22418ce0-cf92-4cb3-994f-3fbf366832f0) (Iltalehti.fi)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wave3.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WAVE 3)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kctv5.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KCTV Kansas City)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.21alivenews.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (21alivenews.com)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.actionnews5.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (Actionnews5.com)
-
-- [В США зафиксирована смерть от легочной чумы](https://news.mail.ru/incident/66973890/) (Mail.ru)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.13abc.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (13abc Action News)
-
-- [В США зафиксировали смерть от легочной чумы](https://tass.ru/obschestvo/24498613) (Tass.ru)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wmbfnews.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WMBF)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.westernmassnews.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WESTERNMASSNEWS.com)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wtvy.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WTVY, Dothan)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wbtv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WBTV)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.keyc.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KEYC)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wdam.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WDAM)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.mysuncoast.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WWSB)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kfyrtv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KFYR-TV)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wsmv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WSMV Nashville)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wsaw.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WSAW)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kltv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KLTV)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kwtx.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KWTX)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.witn.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WITN)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.foxcarolina.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (FOX Carolina)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wilx.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WILX-TV)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.ky3.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KY3)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wvlt.tv/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WVLT.TV)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kptv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KPTV.com)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wrdw.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WRDW-TV)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.12onyourside.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (12onyourside.com)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kotatv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (Kotatv)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wlbt.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WLBT)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wbrc.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WBRC)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.firstalert4.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (Firstalert4.com)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.cleveland19.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (Cleveland 19 News)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.1011now.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (1011now)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kktv.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KKTV 11 News)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.kcbd.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (KCBD)
-
-- [Patient dies in emergency room from plague, health officials say](https://www.wsaz.com/2025/07/11/patient-dies-emergency-room-plague-health-officials-say/) (WSAZ-TV)
-
-- [В США пациент одной из больниц Аризоны умер от чумы](https://news.mail.ru/society/66972224/) (Mail.ru)
-
-- [Rare Plague Death Reported in Arizona](https://www.newsweek.com/plague-death-pneumonic-arizona-patient-disease-2097973) (Newsweek)
-
-- [Yersinia pseudotuberculosis growth arrest during type-III secretion system expression is associated with altered ribosomal protein expression and decreased gentamicin susceptibility](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012548) (Plos.org)
-
-## 25-28 (typhoid)
-
-- [OPINION: Vaccination is a lifeline for mothers and children, and a pillar of Kenya’s health transformation](https://www.citizen.digital/opinion-blogs/opinion-vaccination-is-a-lifeline-for-mothers-and-children-and-a-pillar-of-kenyas-health-transformation-n365992) (Citizen.digital)
-
-- [Determining genotype and antimicrobial resistance of Salmonella Typhi in environmental samples by amplicon sequencing](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013211) (Plos.org)
-
-- [Sociodemographic and clinical factors influencing typhoid fever prevalence and multidrug resistance in Niger State, Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327740) (Plos.org)
-
-## 25-28 (rabies)
-
-- [A new study shows promise in a new method to vaccinate vampire bats](https://www.npr.org/2025/07/12/nx-s1-5463583/a-new-study-shows-promise-in-a-new-method-to-vaccinate-vampire-bats) (NPR)
-
-- [Free anti-rabies vaccination drive launched in Sivasagar](https://thehillstimes.in/assam/free-anti-rabies-vaccination-drive-launched-in-sivasagar) (Thehillstimes.in)
-
-- [Man in Australia dies of rare, rabies-like disease](https://www.livescience.com/health/viruses-infections-disease/man-in-australia-dies-of-rare-rabies-like-disease) (Live Science)
-
-- [Louisville health officials warn residents after rabid bat found in Okolona](https://www.wdrb.com/news/louisville-health-officials-warn-residents-after-rabid-bat-found-in-okolona/article_8dd16da3-d14d-484d-8ddf-3ab93058cd72.html) (WDRB)
-
-- [Traditional medicine use among rabies exposed individuals in Ethiopia: A systematic review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013319) (Plos.org)
-
-- [150g chicken, 100g rice: Bengaluru municipality rolls out Rs 3 crore diet plan for street dogs, Bengalureans say, “please add desserts too”](https://economictimes.indiatimes.com/news/new-updates/150g-chicken-100g-rice-bengaluru-municipality-rolls-out-rs-3-crore-diet-plan-for-street-dogs-bengalureans-say-please-add-desserts-too/articleshow/122384346.cms) (The Times of India)
-
-- [Fitzgerald warns of rabies in Labrador after dog tests positive from fox encounter in Hopedale](https://www.cbc.ca/news/canada/newfoundland-labrador/rabies-hopedale-labrador-1.7582173) (CBC News)
-
-- [Rabiessmitta på Svalbard](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1388960) (Aftonbladet.se)
-
-- [Rabiessmitta på Svalbard](https://www.svd.se/a/OoxkdV/rabiessmitta-pa-svalbard) (Svenska Dagbladet)
-
-- [Rabiessmitta på Svalbard](https://www.aftonbladet.se/nyheter/a/wglr2o/rabiessmitta-pa-svalbard) (Aftonbladet.se)
-
-- [NRK: To fjellrever har fått påvist rabiessmitte på Svalbard](https://www.vg.no/nyheter/i/alzlE2/nrk-to-fjellrever-har-faatt-paavist-rabiessmitte-paa-svalbard) (Www.vg.no)
-
-- [Rabiessmitte funnet på Svalbard](https://www.aftenposten.no/norge/i/W0p0Ad/rabiessmitte-funnet-hos-fjellrev-svalbard) (Aftenposten)
-
-- [To fjellrevar har fått påvist rabiessmitte på Svalbard](https://www.nrk.no/tromsogfinnmark/to-fjellrevar-har-fatt-pavist-rabiessmitte-pa-svalbard-1.17486585) (NRK)
-
-- [Ny fjellrev med påvist rabies på Svalbard](https://www.nrk.no/tromsogfinnmark/ny-fjellrev-med-pavist-rabies-pa-svalbard-1.17486397) (NRK)
-
-- [Klibbig gel vaccinerade vampyrer mot rabies](https://www.dn.se/varlden/klibbig-gel-vaccinerade-vampyrer-mot-rabies/) (Www.dn.se)
-
-- [LED-mounted vans to spread rabies awareness in neighbourhoods in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/led-mounted-vans-to-spread-rabies-awareness-in-neighbourhoods-in-bengaluru/articleshow/122326482.cms) (The Times of India)
-
-## 25-28 (mpox)
-
-- [Moçambique confirma três casos do atual surto de mpox](https://observador.pt/2025/07/11/mocambique-confirma-primeiros-tres-casos-do-atual-surto-de-mpox/) (Observador.pt)
-
-- [Africa records over 4,200 cholera, mpox deaths in 2025: Africa CDC](https://www.thestar.com.my/news/world/2025/07/12/africa-records-over-4200-cholera-mpox-deaths-in-2025-africa-cdc) (The Star Online)
-
-- [Mpox [em′poks] and Monkeypox Virus [muhng′kee poks′ vī-ruhs′]](https://wwwnc.cdc.gov/eid/article/31/8/24-0211_article) (Cdc.gov)
-
-- [Bavarian Nordic Enters New Smallpox/Mpox Vaccine Supply Contract with European Country](https://www.globenewswire.com/news-release/2025/07/09/3112723/0/en/Bavarian-Nordic-Enters-New-Smallpox-Mpox-Vaccine-Supply-Contract-with-European-Country.html) (GlobeNewswire)
-
-- [Bavarian Nordic modtager ny ordre på koppe-/mpoxvacciner fra europæisk land](https://www.globenewswire.com/news-release/2025/07/09/3112723/0/da/Bavarian-Nordic-modtager-ny-ordre-p%C3%A5-koppe-mpoxvacciner-fra-europ%C3%A6isk-land.html) (GlobeNewswire)
-
-- [ΕΕ: Σχέδιο “ATHINA” για καταστάσεις έκτακτης ανάγκης στον τομέα της υγείας](https://www.naftemporiki.gr/kosmos/1978134/ee-schedio-athina-gia-katastaseis-ektaktis-anagkis-ston-tomea-tis-ygeias/) (Naftemporiki.gr)
-
-## 25-28 (meningitis)
-
-- [Meningitis outbreak kills 2 in Zambia](https://www.thestar.com.my/news/world/2025/07/11/meningitis-outbreak-kills-2-in-zambia) (The Star Online)
-
-- [Gaza health authorities warn of "worrying" rise in meningitis cases](https://www.thestar.com.my/news/world/2025/07/09/gaza-health-authorities-warn-of-worrying-rise-in-meningitis-cases) (The Star Online)
-
-- [Doctors alarmed at rising meningitis cases in Gaza’s children](https://www.aljazeera.com/video/newsfeed/2025/7/7/doctors-alarmed-at-rising-meningitis-cases-in-gazas-children-2) (Al Jazeera English)
-
-- [España - Bélgica, en directo Eurocopa femenina: resultado y goleadores, en vivo online](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
-
-- [España - Bélgica, en directo: alineaciones, horario y dónde ver el segundo partido de la Selección en la Eurocopa femenina](https://www.elespanol.com/deportes/20250707/espana-belgica-directo-alineaciones-horario-ver-segundo-partido-seleccion-eurocopa-femenina/1003743836380_10.html) (Elespanol.com)
-
-- [Aitana lo cuenta todo: "Entré en el hospital y me dijeron que me quedaba ingresada, me dolía muchísimo"](https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20250707/1002495919/aitana-cuenta-entre-hospital-me-dijeron-me-quedaba-ingresada-me-dolia.html) (Mundodeportivo.com)
-
-## 25-28 (measles)
-
-- [Schumer demands RFK Jr. declare measles emergency, saying he 'walked' US into outbreak](https://www.usatoday.com/story/news/politics/2025/07/12/schumer-letter-rfk-jr-measles-emergency/84782033007/) (USA Today)
-
-- [Measles spread 'like wildfire' among unvaccinated children in northeast B.C., health officer says](https://www.cbc.ca/news/canada/british-columbia/measles-spread-like-wildfire-in-northeast-b-c-1.7583583) (CBC News)
-
-- ['We're on a slippery slope': Alarming number of measles cases sees U.S. on course to no longer consider the disease eradicated](https://www.post-gazette.com/news/health/2025/07/12/us-measles-cases-elimination/stories/202507110042) (Pittsburgh Post-Gazette)
-
-- [Journalists Tally State and Local Health Care Implications of GOP Megabill](https://kffhealthnews.org/news/article/on-air-july-12-2025-big-beautiful-bill-megabill-medicaid-cuts-hospitals-states/) (Kffhealthnews.org)
-
-- [Illinois Department of Public Health Declares Southern Illinois Measles Outbreak Over](https://southernillinoisnow.com/2025/07/11/253416/) (Southernillinoisnow.com)
-
-- [Measles reaches highest level in 33 years, now in 39 states](https://www.idahostatejournal.com/news/local/measles-reaches-highest-level-in-33-years-now-in-39-states/article_c340024a-06f5-4a16-b959-765a6b7c973f.html) (Idaho State Journal)
-
-- [Schumer presses RFK Jr. to declare measles emergency (Alexander Bolton/The Hill)](https://www.memeorandum.com/250711/p77) (Memeorandum.com)
-
-- [Illinois Department of Public Health works to stop the spread of measles](https://www.wifr.com/2025/07/11/illinois-department-public-health-works-stop-spread-measles/) (WIFR)
-
-- [America’s Measles Counts Surpass 2019 Outbreak, Highest In Over Three Decades](https://www.techdirt.com/2025/07/11/americas-measles-counts-surpass-2019-outbreak-highest-in-over-three-decades/) (Techdirt)
-
-- [Second Wyoming measles case reported in Niobrara County](http://oilcity.news/community/health/2025/07/11/second-wyoming-measles-case-reported-in-niobrara-county/) (Oil City News)
-
-- [Illinois health director praises coordinated effort to stop measles outbreak](https://www.shawlocal.com/news/2025/07/11/illinois-health-director-praises-coordinated-effort-to-stop-measles-outbreak/) (Shawlocal.com)
-
-- [Public Health urging people in Sussex to test for measles, get vaccinated after confirmed case](https://www.cbc.ca/news/canada/new-brunswick/public-health-confirmed-measles-sussex-region-nb-kim-barker-1.7582760) (CBC News)
-
-- [Health-care providers urge vigilance as more measles cases confirmed in Pictou County](https://www.cbc.ca/news/canada/nova-scotia/more-measles-in-pictou-county-1.7582950) (CBC News)
-
-- [After 1,288 measles cases, plague detected in US. What you must know to stay safe during health crisis](https://economictimes.indiatimes.com/news/international/global-trends/us-news-after-1288-measles-cases-plague-detected-in-us-check-symptoms-and-what-you-should-do/articleshow/122391632.cms) (The Times of India)
-
-- [Illinois holds update on measles as cases spike across US](https://www.nbcchicago.com/news/local/how-many-measles-cases-in-illinois-where-measles-cases-update-idph/3787359/) (NBC Chicago)
-
-- [Friday, July 11, 2025](https://kffhealthnews.org/morning-briefing/friday-july-11-2025/) (Kffhealthnews.org)
-
-- [Measles lands 10 British Columbians in hospital as disease spreads in north](https://www.nationalobserver.com/2025/07/11/news/ten-british-columbians-hospital-measles-disease-spreads-north) (National Observer)
-
-- [2025 Illinois measles cases: Health officials to give update on measles cases Friday](https://abc7chicago.com/post/2025-illinois-measles-cases-health-officials-give-update-friday/17065959/) (WLS-TV)
-
-- [WA Health says undetected measles cases a possibility after locally acquired case confirmed](https://thewest.com.au/news/health/wa-health-says-undetected-measles-cases-a-possibility-after-locally-acquired-case-confirmed-c-19326032) (The West Australian)
-
-- [Hot Measles Summer](https://slate.com/podcasts/what-next-tbd/2025/07/measles-has-a-messaging-problem) (Slate Magazine)
-
-- [Wairarapa measles outbreak grows: Fourth case confirmed](https://www.nzherald.co.nz/nz/wairarapa-measles-outbreak-grows-fourth-case-confirmed/OS5ITZ2AHZHAVDQTI7ZB2NMFAA/) (New Zealand Herald)
-
-- [Manitoba Health warns of 2 new measles exposures sites in Morden](https://www.cbc.ca/news/canada/manitoba/measles-vaccination-public-health-1.7582525) (CBC News)
-
-- [July 10, 2025 – PBS News Hour full episode](https://www.pbs.org/newshour/show/july-10-2025-pbs-news-hour-full-episode) (PBS)
-
-- [Putting the 33-year measles high in perspective](https://www.cbsnews.com/video/putting-33-year-measles-high-in-perspective/) (CBS News)
-
-- [Measles cases surge to highest levels in over 30 years, CDC data shows](https://www.pbs.org/newshour/show/measles-cases-surge-to-highest-levels-in-over-30-years-cdc-data-shows) (PBS)
-
-- [North Dakota reports first case of measles in more than a month](https://www.inforum.com/health/north-dakota-reports-first-case-of-measles-in-more-than-a-month-just-as-it-reached-outbreak-over-milestone) (INFORUM)
-
-- [Measles Cases Hit the Highest Number in 33 Years. Do You Need a Measles Vaccine Booster?](https://www.cnet.com/health/medical/measles-cases-hit-the-highest-number-in-33-years-do-you-need-a-measles-vaccine-booster/) (CNET)
-
-- [Measles Cases At A 33 Year High, According To CDC Report](https://www.forbes.com/sites/davewessner/2025/07/10/measles-cases-at-a-33-year-high-according-to-cdc-report/) (Forbes)
-
-- [What to know as measles cases in U.S. hit highest level recorded in over 30 years](https://www.cbsnews.com/video/what-to-know-as-measles-cases-in-u-s-hit-highest-level-recorded-in-over-30-years/) (CBS News)
-
-- [Thursday, July 10, 2025](https://kffhealthnews.org/morning-briefing/thursday-july-10-2025/) (Kffhealthnews.org)
-
-- [Measles Cases in the US Hit 33-Year High](https://www.today.com/video/measles-count-in-us-at-nearly-1-300-in-worst-year-in-3-decades-242993733816) (TODAY)
-
-- [Data reveals FEMA missed major flood risks. And, measles hit highest level in decades](https://www.npr.org/2025/07/10/g-s1-76933/up-first-newsletter-texas-floods-vigil-fema-measles) (NPR)
-
-- [Once Eliminated, Measles Cases Now Reach Record High In U.S.](https://crooksandliars.com/2025/07/once-eliminated-measles-cases-reach-record) (Crooksandliars.com)
-
-- [Morning news brief](https://www.npr.org/2025/07/10/nx-s1-5458431/morning-news-brief) (NPR)
-
-- [U.S. has already posted more measles cases than in any year since 1991 and 2025 is only half over](https://fortune.com/2025/07/10/us-posted-more-measles-cases-since-1991-and-2025-only-half-over/) (Fortune)
-
-- [Measles vaccination rate inadequate, Nova Scotia's chief medical officer says](https://www.cbc.ca/news/canada/nova-scotia/measles-vaccination-rate-inadequate-robert-strang-1.7581243) (CBC News)
-
-- [Editorial: Golden age for disease: RFK presides over rampant measles](https://www.nydailynews.com/2025/07/09/golden-age-for-disease-rfk-presides-over-rampant-measles/) (New York Daily News)
-
-- [Measles outbreak: United States having worst year for measles in more than 3 decades, CDC says](https://6abc.com/post/measles-outbreak-united-states-having-worst-year-more-3-decades-cdc-says/17039833/) (WPVI-TV)
-
-- [Measles outbreak: United States having worst year for measles in more than 3 decades, CDC says](https://abc13.com/post/measles-outbreak-united-states-having-worst-year-more-3-decades-cdc-says/17039833/) (KTRK-TV)
-
-- [The US is having its worst year for measles in more than three decades](https://economictimes.indiatimes.com/news/international/global-trends/the-us-is-having-its-worst-year-for-measles-in-more-than-three-decades/articleshow/122353775.cms) (The Times of India)
-
-- [Measles outbreak: United States having worst year for measles in more than 3 decades, CDC says](https://abc7ny.com/post/measles-outbreak-united-states-having-worst-year-more-3-decades-cdc-says/17039833/) (WABC-TV)
-
-- [Why a seemingly small drop in measles vaccine rates is making such a big impact](https://www.cbsnews.com/video/why-a-seemingly-small-drop-in-measles-vaccine-rates-is-making-such-a-big-impact/) (CBS News)
-
-- [Some Alberta hospitals triaging probable measles patients in vehicles](https://www.cbc.ca/news/canada/edmonton/some-alberta-hospitals-triaging-probable-measles-patients-in-vehicles-1.7581220) (CBC News)
-
-- [U.S. sees most single-year measles cases since it declared disease eliminated (Helen Branswell/STAT)](https://www.memeorandum.com/250709/p117) (Memeorandum.com)
-
-- [U.S. having its worst year for measles in more than three decades](https://japantoday.com/category/features/health/the-us-is-having-its-worst-year-for-measles-in-more-than-three-decades) (Japan Today)
-
-- [Province warns of possible measles exposure at Winkler clinic, reports 14 more cases](https://www.cbc.ca/news/canada/manitoba/measles-update-numbers-exposure-site-1.7581100) (CBC News)
-
-- [The U.S. is having its worst year of measles cases in more than three decades](https://www.pbs.org/newshour/health/the-u-s-is-having-its-worst-year-of-measles-cases-in-more-than-three-decades) (PBS)
-
-- [Measles cases hit 33-year high in U.S.: How did it spread? Symptoms and risks explained](https://economictimes.indiatimes.com/news/international/us/measles-cases-hit-33-year-high-in-u-s-how-did-it-spread-symptoms-and-risks-explained/articleshow/122349475.cms) (The Times of India)
-
-- [A disease we thought was gone is roaring back—here’s why](https://www.fastcompany.com/91365418/a-disease-we-thought-was-gone-is-roaring-back-heres-why) (Fast Company)
-
-- [US measles cases hit highest level in more than 30 years, CDC data shows](https://www.foxnews.com/health/us-measles-cases-hit-highest-level-more-than-30-years-cdc-data-shows) (Fox News)
-
-- [U.S. measles numbers reach highest levels in 33 years](https://www.cbsnews.com/video/us-measles-numbers-reach-highest-levels-in-33-years/) (CBS News)
-
-- [Measles Cases Hit Record High, 25 Years After U.S. Eliminated the Disease (New York Times)](https://www.memeorandum.com/250709/p72) (Memeorandum.com)
-
-- [U.S. measles cases hit highest level in 33 years, CDC reports](https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5461155/measles-outbreak-cdc-vaccination-health) (NPR)
-
-- [US measles cases hit highest number in 33 years, CDC data shows](https://abcnews.go.com/Health/us-measles-cases-hit-highest-number-33-years/story?id=123564379) (ABC News)
-
-- [The US is having its worst year for measles in more than three decades](https://www.seattlepi.com/news/article/the-us-is-having-its-worst-year-for-measles-in-20762787.php) (seattlepi.com)
-
-- [The US is having its worst year for measles in more than three decades](https://www.bostonherald.com/2025/07/09/measles-outbreak-high-count/) (Boston Herald)
-
-- [The US is having its worst year for measles in more than three decades](https://www.denverpost.com/2025/07/09/measles-outbreak-high-count/) (The Denver Post)
-
-- [The US is having its worst year for measles in more than three decades](https://abcnews.go.com/Health/wireStory/us-worst-year-measles-decades-123611615) (ABC News)
-
-- [Measles cases in the U.S. hit 1,288, the highest in more than 30 years](https://www.cbsnews.com/news/measles-us-cases-record-high-since-1992/) (CBS News)
-
-- [Vaccination rates among children in Maritimes too low to stop spread of measles](https://www.nationalobserver.com/2025/07/09/news/vaccination-rates-among-children-maritimes-too-low-stop-spread-measles) (National Observer)
-
-- [Measles outbreak reported in southwest Missouri county as US cases continue to climb](https://www.stltoday.com/news/local/business/health-care/article_0731511c-bdd8-4d90-9c7e-d8f3903a01cc.html) (STLtoday.com)
-
-- [Links 7/9/2025](https://www.nakedcapitalism.com/2025/07/links-7-9-2025.html) (Nakedcapitalism.com)
-
-- [New measles cases: Three infected people visit Masterton Pak’nSave, Carterton library](https://www.nzherald.co.nz/nz/new-measles-cases-three-infected-people-visit-masterton-pakn-save-carterton-library/FXXE5WJE5VCYXONJ5YVIWIQMQI/) (New Zealand Herald)
-
-- [アメリカではしかの感染拡大、症例数が過去33年で最多に](https://wedge.ismedia.jp/articles/-/38211) (Ismedia.jp)
-
-- [Doctors face new challenge as U.S. measles cases hit 33-year high](https://www.cbsnews.com/video/doctors-face-new-challenge-as-us-measles-cases-hit-33-year-high/) (CBS News)
-
-- [Health officials respond to growing concerns amid new measles cases](https://www.lex18.com/news/covering-kentucky/health-officials-respond-to-growing-concerns-amid-new-measles-cases) (LEX18 Lexington KY News)
-
-- [Measles Cases Surge To Highest Level Since The Disease Was Eliminated In U.S.](https://www.huffpost.com/entry/measles-cases-rise-to-highest-level-since-its-elimination_n_686d1da6e4b0525032870a1a) (HuffPost)
-
-- [At Least 1,277 Measles Cases Identified in 2025 — the Highest Number Since 1992](https://truthout.org/articles/at-least-1277-measles-cases-identified-in-2025-the-highest-number-since-1992/) (Truthout)
-
-- [Measles Cases In The U.S. Are At Highest Point Since The Disease Was ‘Eliminated’ In 2000](https://brobible.com/culture/article/measles-cases-us-highest-point-since-eliminated/) (BroBible)
-
-- [As RFK Jr. pushes to limit vaccines, MMR pioneer defends their lifesaving power](https://www.bostonherald.com/2025/07/08/stanley-plotkin-mmr-pioneer-vaccines/) (Boston Herald)
-
-- [Measles cases skyrocket in US, reaching 33-year high amid vaccination concerns](https://www.scrippsnews.com/health/measles-cases-skyrocket-in-us-reaching-33-year-high-amid-vaccination-concerns) (Scrippsnews.com)
-
-- [Measles cases surge to 33-year high](https://theweek.com/health/measles-cases-hit-record) (The Week Magazine)
-
-- [RFK sued over vaccine changes as measles reaches 33-year high...](https://www.themirror.com/news/health/rfk-sued-doctors-vaccine-measles-1252939) (Themirror.com)
-
-- [America faces worst measles outbreak since 1992 with low-vaccinated Texas at the epicenter](https://fortune.com/2025/07/08/america-faces-worst-measles-outbreak-since-1992-vaccines-texas/) (Fortune)
-
-- [Measles cases in US reach all-time high after disease was declared 'eliminated': Check symptoms and prevention tips](https://economictimes.indiatimes.com/news/international/global-trends/us-news-measles-cases-in-us-reach-all-time-high-after-disease-was-declared-eliminated-check-symptoms-and-prevention-tips/articleshow/122323240.cms) (The Times of India)
-
-- [Vanderbilt Selects Parse Biosciences GigaLab to Generate Atlas of Early Neutralizing Antibodies to Measles, Mumps, and Rubella](https://financialpost.com/pmn/business-wire-news-releases-pmn/vanderbilt-selects-parse-biosciences-gigalab-to-generate-atlas-of-early-neutralizing-antibodies-to-measles-mumps-and-rubella) (Financial Post)
-
-- [Measles cases reach highest point since the disease was eliminated from U.S. in 2000](https://www.nbcnews.com/health/health-news/measles-cases-reach-highest-point-disease-was-eliminated-us-2000-rcna201421) (NBC News)
-
-- [RFK’s mass murder event](https://www.lawyersgunsmoneyblog.com/2025/07/rfks-mass-murder-event) (Lawyersgunsmoneyblog.com)
-
-- [Four new cases of measles in Fayette County; eight now tied to Central KY outbreak](https://www.kentucky.com/news/health-and-medicine/article310171055.html) (Lexington Herald Leader)
-
-- [Manitoba Health warns of possible measles exposure at Winkler clinic last week](https://www.cbc.ca/news/canada/manitoba/public-health-winkler-medical-clinic-measles-1.7579267) (CBC News)
-
-- [U.S. measles epidemic its worst of 21st century](https://japantoday.com/category/world/us-measles-epidemic-its-worst-of-21st-century) (Japan Today)
-
-- [US measles cases surge to highest since disease was 'eliminated' (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250707/p93) (Memeorandum.com)
-
-- [Measles case detected in Pictou County](https://www.cbc.ca/news/canada/nova-scotia/measles-case-detected-in-pictou-county-northern-zone-1.7579033) (CBC News)
-
-- [Northern Health warns of possible measles exposure at prenatal clinic in Fort St. John](https://www.cbc.ca/news/canada/british-columbia/potential-measles-exposure-fort-st-john-northern-health-1.7579041) (CBC News)
-
-- [Measles cases in the US reach 33-year high](https://www.bbc.com/news/articles/c98jng7j1llo) (BBC News)
-
-- [Once declared eliminated from the US, measles cases hit six-year high amid drop in vaccinations](https://www.irishtimes.com/world/us/2025/07/07/once-declared-eliminated-from-the-us-measles-cases-hit-six-year-high-amid-drop-in-vaccinations/) (The Irish Times)
-
-- [Map Shows States Hit Hardest by Measles Outbreak as Cases Break Record](https://www.newsweek.com/measles-map-shows-states-hit-hardest-break-record-2095583) (Newsweek)
-
-- [The US just recorded the most measles cases in 30 years](https://www.vox.com/health/418961/measles-outbreak-cases-vaccine-trump-rfk) (Vox)
-
-- [Measles Cases Hit 33-Year High](https://www.newser.com/story/371454/measles-cases-hit-33-year-high.html) (Newser)
-
-- [U.S. measles cases reach 33-year record high as outbreaks spread (Lena H. Sun/Washington Post)](https://www.memeorandum.com/250707/p27) (Memeorandum.com)
-
-- [U.S. Measles Cases Reach 33-Year High](https://politicalwire.com/2025/07/07/u-s-measles-cases-reach-33-year-high/) (Politicalwire.com)
-
-- [Measles: restoring confidence in vaccine information](https://www.bmj.com/content/390/bmj.r1389) (The BMJ)
-
-- [N.L. prepares for upcoming Canada Games amid measles outbreaks across the country](https://www.cbc.ca/news/canada/newfoundland-labrador/measles-canada-games-newfoundland-1.7577494) (CBC News)
-
-- [US Measles Cases at an All-Time High After Disease 'Eliminated'](https://www.newsweek.com/us-measles-cases-all-time-high-after-disease-eliminated-2095213) (Newsweek)
-
-- [When it comes to vaccines, how are pediatricians restoring trust?](https://www.npr.org/2025/07/06/1255282262/can-pediatricians-restore-trust-in-vaccine-policy) (NPR)
-
-## 25-28 (malaria)
-
-- [Swiss health regulator approves first antimalarial for infants weighing 2-5kg](https://www.thestar.com.my/news/world/2025/07/10/swiss-health-regulator-approves-first-antimalarial-for-infants-weighing-2-5kg) (The Star Online)
-
-- [First malaria drug for newborns and young infants expected to be approved in Africa within weeks | CNN](https://www.cnn.com/2025/07/09/health/malaria-drug-babies-africa-intl) (CNN)
-
-- [Switzerland approves first antimalarial drug for infants in advance on disease that kills hundreds of thousands in Africa each year](https://fortune.com/europe/2025/07/09/switzerland-approves-first-antimalarial-drug-for-infants/) (Fortune)
-
-- [Avance histórico en la medicina: unos científicos desarrollan el primer tratamiento mundial contra la malaria para recién nacidos](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13454949/07/25/avance-historico-en-la-medicina-unos-cientificos-desarrollan-el-primer-tratamiento-mundial-contra-la-malaria-para-recien-nacidos.html) (Eleconomista.es)
-
-- [全球第一款嬰幼兒瘧疾藥物，獲瑞士批准](https://technews.tw/2025/07/09/novartis-coartem-riamet/) (Technews.tw)
-
-- [7 preventive tips to avoid dengue & malaria this monsoon](https://m.economictimes.com/news/web-stories/7-preventive-tips-to-avoid-dengue-malaria-this-monsoon/slideshow/122335088.cms) (Economictimes.com)
-
-- [Investigating the relationship between Pfkelch13 mutations and response to artemisinin-based treatment for uncomplicated falciparum malaria: a protocol for a systematic review and individual patient data meta-analysis](https://bmjopen.bmj.com/content/15/7/e100251) (The BMJ)
-
-- [The first drug to treat infants sick with malaria is approved by Swiss authority](https://economictimes.indiatimes.com/news/science/the-first-drug-to-treat-infants-sick-with-malaria-is-approved-by-swiss-authority/articleshow/122330913.cms) (The Times of India)
-
-- [Israel's plan to move Gazans into a camp](https://www.bbc.co.uk/programmes/w172zss4x5vfqn4) (BBC News)
-
-- [Swiss medicines authority issues first approval for antimalarial drug for treatment of infants](https://abcnews.go.com/Business/wireStory/swiss-medicines-authority-issues-approval-antimalarial-drug-treatment-123570350) (ABC News)
-
-- [Prairie dog genes reveal secrets of plague survival](https://phys.org/news/2025-07-prairie-dog-genes-reveal-secrets.html) (Phys.Org)
-
-- [Stort gennembrud: Nu kan spædbørn behandles mod malaria](https://ing.dk/artikel/stort-gennembrud-nu-kan-spaedboern-behandles-mod-malaria) (Ing.dk)
-
-- [Создан первый в мире противомалярийный препарат для младенцев](https://korrespondent.net/tech/4797033-sozdan-pervyi-v-myre-protyvomaliaryinyi-preparat-dlia-mladentsev) (Korrespondent.net)
-
-- [Створено перший у світі протималярійний препарат для немовлят](https://ua.korrespondent.net/tech/4797033-stvoreno-pershyi-u-sviti-protymaliariinyi-preparat-dlia-nemovliat) (Korrespondent.net)
-
-- [Swiss medicines authority issues first approval for antimalarial drug for treatment of infants](https://financialpost.com/pmn/swiss-medicines-authority-issues-first-approval-for-antimalarial-drug-for-treatment-of-infants) (Financial Post)
-
-- [Malaria breakthrough for babies](https://www.bbc.co.uk/programmes/w172zss4x5vdwf7) (BBC News)
-
-- [Essential role for PfHSP40 in asexual replication and thermotolerance of malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013313) (Plos.org)
-
-- [Natural product-mediated reaction hijacking mechanism validates Plasmodium aspartyl-tRNA synthetase as an antimalarial drug target](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013057) (Plos.org)
-
-- [Πράσινο φως για την πρώτη θεραπεία κατά της ελονοσίας ειδικά για βρέφη - Φτάνει στην Αφρική εντός εβδομάδων](https://www.skai.gr/news/health/elonosia-prasino-fos-gia-tin-proti-therapeia-eidika-gia-vrefi) (Skai.gr)
-
-- [First malaria treatment for babies and infants approved for use](https://news.sky.com/story/first-malaria-treatment-for-babies-and-infants-approved-for-use-13393951) (Sky.com)
-
-- [Voor het eerst wordt behandeling malaria bij baby's goedgekeurd](https://www.nieuwsblad.be/nieuws/voor-het-eerst-wordt-behandeling-malaria-bij-babys-goedgekeurd/76378509.html) (Nieuwsblad.be)
-
-- [First malaria vaccine for babies approved for use](https://www.bbc.co.uk/news/articles/c89e872jdjxo) (BBC News)
-
-- [Første malariavaccine til babyer og små børn er godkendt til brug](https://www.dr.dk/nyheder/seneste/foerste-malariavaccine-til-babyer-og-smaa-boern-er-godkendt-til-brug) (Www.dr.dk)
-
-- [Novartis gets approval for first malaria drug for babies and children](https://economictimes.indiatimes.com/news/international/business/novartis-gets-approval-for-first-malaria-drug-for-babies-and-children/articleshow/122312871.cms) (The Times of India)
-
-- [First malaria treatment for babies approved for use](https://www.bbc.com/news/articles/c89e872jdjxo) (BBC News)
-
-- [Novartis receives approval for first malaria medicine for newborn babies and young infants](https://www.globenewswire.com/news-release/2025/07/08/3111436/0/en/Novartis-receives-approval-for-first-malaria-medicine-for-newborn-babies-and-young-infants.html) (GlobeNewswire)
-
-- [Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013318) (Plos.org)
-
-- [Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327800) (Plos.org)
-
-## 25-28 (hpai)
-
-- [Transmission Dynamics of Highly Pathogenic Avian Influenza A(H5N1) and A(H5N6) Viruses in Wild Birds, South Korea, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0373_article) (Cdc.gov)
-
-- [Genetic Characterization of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0186_article) (Cdc.gov)
-
-- [The spread of highly pathogenic avian influenza virus is a social network problem](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013233) (Plos.org)
-
-## 25-28 (h5n1)
-
-- [Child hospitalised as bird flu cases climb in Cambodia](https://theconversation.com/child-hospitalised-as-bird-flu-cases-climb-in-cambodia-260565) (The Conversation Africa)
-
-- [Transmission Dynamics of Highly Pathogenic Avian Influenza A(H5N1) and A(H5N6) Viruses in Wild Birds, South Korea, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0373_article) (Cdc.gov)
-
-- [Genetic Characterization of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b, Antarctica, 2024](https://wwwnc.cdc.gov/eid/article/31/8/25-0186_article) (Cdc.gov)
-
-- [CDC declares bird flu emergency over as experts warn of possible fall resurgence](https://www.foxnews.com/health/cdc-declares-bird-flu-emergency-over-experts-warn-possible-fall-resurgence) (Fox News)
-
-- [CDC ends bird flu emergency (Alejandra O'Connell-Domenech/The Hill)](https://www.memeorandum.com/250708/p94) (Memeorandum.com)
-
-- [फिर खोले गए गोरखपुर और कानपुर के चिड़ियाघर, बर्ड फ्लू के प्रकोप के कारण 56 दिन से थे बंद](https://www.aajtak.in/uttar-pradesh/story/zoos-of-gorakhpur-and-kanpur-reopened-were-closed-for-56-days-due-to-bird-flu-outbreak-lclam-dskc-2282694-2025-07-08) (Aajtak.in)
-
-- [CDC ends emergency response to H5N1 bird flu](https://www.abc12.com/news/health/cdc-ends-emergency-response-to-h5n1-bird-flu/article_80656eb0-c64f-5d80-a26b-0d7d7ac2ed00.html) (ABC 12 News)
-
-- [CDC ends emergency response to H5N1 bird flu | CNN](https://www.cnn.com/2025/07/07/health/cdc-bird-flu-response) (CNN)
-
-- [Почему в США хотят распространить птичий грипп по всем фермам](https://hi-news.ru/eto-interesno/pochemu-v-ssha-xotyat-rasprostranit-ptichij-gripp-po-vsem-fermam.html) (Hi-news.ru)
-
-## 25-28 (dengue)
-
-- [Malaysia records 58.6% drop in dengue cases as of July 5](https://www.thestar.com.my/news/nation/2025/07/12/malaysia-records-586-drop-in-dengue-cases-as-of-july-5) (The Star Online)
-
-- [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
-
-- [Vítima da dengue: morre no DF o ator e iluminador cênico Josias Silva](https://www.metropoles.com/distrito-federal/vitima-da-dengue-morre-no-df-o-ator-e-iluminador-cenico-josias-silva) (Metropoles.com)
-
-- [OMS lança primeira diretriz para o manejo de quatro doenças transmitidas por mosquitos](https://veja.abril.com.br/saude/oms-lanca-primeira-diretriz-para-o-manejo-de-quatro-doencas-transmitidas-por-mosquitos/) (Abril.com.br)
-
-- [OMS considera prioridade combater malária em Cabo Verde](https://observador.pt/2025/07/10/oms-considera-prioridade-combater-malaria-que-ameaca-certificacao-de-cabo-verde/) (Observador.pt)
-
-- [Kalyan man is Mumbai Metropolitan Region’s first dengue casualty this monsoon](https://timesofindia.indiatimes.com/city/mumbai/kalyan-man-is-mumbai-metropolitan-regions-first-dengue-casualty-this-monsoon/articleshow/122372779.cms) (The Times of India)
-
-- [Dengue e Chikungunya: la mappa del rischio in Italia e i consigli degli esperti](https://www.ilsole24ore.com/art/dengue-e-chikungunya-mappa-rischio-italia-e-consigli-esperti-AHa2yTeB) (Il Sole 24 Ore)
-
-- [La OMS advierte a nivel mundial de la reaparición de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/actualidad/noticias/13457719/07/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
-
-- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_9dcbedf3-993b-4e07-98b3-fe1293c592d9.html) (ANSA.it)
-
-- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/sito/notizie/topnews/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_c683474c-dd7c-48f9-ae69-5c335b2a1498.html) (ANSA.it)
-
-- [Țânțarul a devenit cea mai letală insectă de pe planetă. Ce boli transmite și la ce să fii atent](https://www.mediafax.ro/stiinta-sanatate/tantarul-a-devenit-cea-mai-letala-insecta-de-pe-planeta-ce-boli-transmite-si-la-ce-sa-fii-atent-23579078) (Mediafax.ro)
-
-- [Estimating the incidence of dengue in international air travelers from non-endemic countries between 2010–2019](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013291) (Plos.org)
-
-- [Forecasting high-risk areas for dengue outbreaks in China: A trend analysis of Aedes albopictus and Aedes aegypti distributions from 2014 to 2030](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013237) (Plos.org)
-
-- [Zika virus-specific and orthoflavivirus-cross-reactive IgGs correlate with Zika virus seroneutralization depending on prior dengue virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013274) (Plos.org)
-
-- [Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203) (Plos.org)
-
-- [Computational insights into flavonoids inhibition of dengue virus envelope protein: ADMET profiling, molecular docking, dynamics, PCA, and end-state free energy calculations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327862) (Plos.org)
-
-- [Dengue : le premier épisode de transmission autochtone de l’année a été identifié en métropole, en Auvergne-Rhône-Alpes](https://www.lemonde.fr/societe/article/2025/07/09/dengue-le-premier-episode-de-transmission-autochtone-de-l-annee-a-ete-identifie-en-metropole-en-auvergne-rhone-alpes_6620185_3224.html) (Le Monde)
-
-- [Nahe Baden-Württemberg: Unaussprechliches Virus: Wie gefährlich ist Chikungunya?](https://www.zeit.de/news/2025-07/09/tropenvirus-angekommen-wie-gefaehrlich-ist-chikungunya) (Die Zeit)
-
-- [Un cas de dengue autochtone dans la Loire : enquête et démoustication en cours](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/un-cas-de-dengue-autochtone-dans-la-loire-enquete-et-demoustication-en-cours-3185490.html) (Franceinfo.fr)
-
-- [Premier épisode de transmission autochtone de dengue pour cette année 2025 identifié en région Auvergne-Rhône-Alpes](https://www.franceinfo.fr/sante/maladie/chikungunya/premier-episode-de-transmission-autochtone-de-dengue-pour-cette-annee-2025-identifie-en-region-auvergne-rhone-alpes_7366761.html) (Franceinfo.fr)
-
-- [Chikungunya-Fall an deutscher Grenze: Was Sie über das Tropenvirus wissen sollten](https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html) (Focus)
-
-- [7 preventive tips to avoid dengue & malaria this monsoon](https://m.economictimes.com/news/web-stories/7-preventive-tips-to-avoid-dengue-malaria-this-monsoon/slideshow/122335088.cms) (Economictimes.com)
-
-- [Sri Lanka to take legal action against nearly 1,000 for negligence of mosquito breeding](https://www.thestar.com.my/news/world/2025/07/09/sri-lanka-to-take-legal-action-against-nearly-1000-for-negligence-of-mosquito-breeding) (The Star Online)
-
-- [dengsurvap-bf 0.1.0](https://pypi.org/project/dengsurvap-bf/0.1.0/) (Pypi.org)
-
-- [dengsurvap-bf added to PyPI](https://pypi.org/project/dengsurvap-bf/) (Pypi.org)
-
-- [Andhra Pradesh To Launch AI-Driven Mosquito Surveillance System](https://www.medianama.com/2025/07/223-andhra-pradesh-ai-mosquito-surveillance/) (MediaNama.com)
-
-- [De nouvelles armes dans la lutte contre les moustiques et les maladies qu’ils transmettent](https://www.lemonde.fr/planete/article/2025/07/08/de-nouvelles-armes-dans-la-lutte-contre-les-moustiques-et-les-maladies-qu-ils-transmettent_6619818_3244.html) (Le Monde)
-
-- [Porto Alegre chega a 22 mortes por dengue em 2025](https://www.terra.com.br/noticias/porto-alegre-chega-a-22-mortes-por-dengue-em-2025,941461f63b49c8d5dc2ceec9b424f8fd16ncygp5.html) (Terra.com.br)
-
-- [As mosquito season peaks, officials brace for new normal of dengue cases](https://www.orlandosentinel.com/2025/07/07/dengue-cases-new-normal/) (Orlando Sentinel)
-
-- [As mosquito season peaks, officials brace for new normal of dengue cases](https://www.bostonherald.com/2025/07/07/dengue-cases-new-normal/) (Boston Herald)
-
-- [Brics anuncia parceria para erradicar doenças em países do Sul Global](https://valor.globo.com/brasil/noticia/2025/07/07/brics-anuncia-parceria-para-erradicar-doencas-em-paises-do-sul-global.ghtml) (Globo)
-
-- [Com 41,4 mil casos e 17 mortes por dengue em 2025, Campinas visita 757,3 mil imóveis no 1º semestre](https://g1.globo.com/sp/campinas-regiao/noticia/2025/07/07/com-414-mil-casos-e-17-mortes-por-dengue-campinas-visita-7573-mil-imoveis-no-1o-semestre.ghtml) (Globo)
-
-## 25-28 (chikungunya)
-
-- [Valneva Announces Lifting of European Medicines Agency’s Temporary Restriction on Use of Chikungunya Vaccine IXCHIQ® in Elderly](https://www.globenewswire.com/news-release/2025/07/11/3114143/0/en/Valneva-Announces-Lifting-of-European-Medicines-Agency-s-Temporary-Restriction-on-Use-of-Chikungunya-Vaccine-IXCHIQ-in-Elderly.html) (GlobeNewswire)
-
-- [Valneva annonce la levée de la restriction temporaire de l'Agence européenne des médicaments sur l'utilisation du vaccin contre le chikungunya IXCHIQ® chez les personnes âgées](https://www.globenewswire.com/news-release/2025/07/11/3114143/0/fr/Valneva-annonce-la-lev%C3%A9e-de-la-restriction-temporaire-de-l-Agence-europ%C3%A9enne-des-m%C3%A9dicaments-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es.html) (GlobeNewswire)
-
-- [Suppression of Aedes aegypti by the sterile insect technique on Captiva Island, Florida, USA from 2020 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013256) (Plos.org)
-
-- [Chikungunya dans l'Hexagone : "Tous les ingrédients sont réunis pour que les cas flambent et qu’une épidémie se propage"](https://www.marianne.net/societe/sante/chikungunya-dans-l-hexagone-tous-les-ingredients-sont-reunis-pour-que-les-cas-flambent-et-quune-epidemie-se-propage) (Marianne.net)
-
-- [Infektionsrisiko in Deutschland: Tigermücken auf dem Vormarsch: Wo die Gefahr besonders groß ist](https://www.stern.de/panorama/tigermuecken---wo-sie-leben--was-ein-stich-ausloesen-kann-35886556.html) (STERN.de)
-
-- [Tigermücke überträgt es - Stiko empfiehlt Impfung gegen Chikungunya-Virus](https://www.bild.de/leben-wissen/wissenschaft/chikungunya-virus-stiko-empfiehlt-impfung-6870a253d1592e395c9d76b7) (Bild)
-
-- [Tropikalny wirus chikungunya w Alzacji. Specjaliści biją na alarm](https://wydarzenia.interia.pl/zagranica/news-tropikalny-wirus-chikungunya-w-alzacji-zakazony-nie-wyjezdza,nId,22164206) (Interia.pl)
-
-- [Ein Vakzin nur für bestimmte Gruppen ratsam : Stiko empfiehlt Chikungunya-Impfung](https://www.tagesspiegel.de/gesundheit/ein-vakzin-nur-fur-bestimmte-gruppen-ratsam-stiko-empfiehlt-chikungunya-impfung-14006258.html) (Der Tagesspiegel)
-
-- [Stiko empfiehlt Chikungunya-Impfung: Bei einem der Impfstoffe könnte es jedoch Probleme geben](https://www.tagesspiegel.de/gesundheit/stiko-empfiehlt-chikungunya-impfung-bei-einem-der-impfstoffe-konnte-es-jedoch-probleme-geben-14006258.html) (Der Tagesspiegel)
-
-- [OMS lança primeira diretriz para o manejo de quatro doenças transmitidas por mosquitos](https://veja.abril.com.br/saude/oms-lanca-primeira-diretriz-para-o-manejo-de-quatro-doencas-transmitidas-por-mosquitos/) (Abril.com.br)
-
-- [Dengue e Chikungunya: la mappa del rischio in Italia e i consigli degli esperti](https://www.ilsole24ore.com/art/dengue-e-chikungunya-mappa-rischio-italia-e-consigli-esperti-AHa2yTeB) (Il Sole 24 Ore)
-
-- [La OMS advierte a nivel mundial de la reaparición de unas enfermedades muy temidas del pasado](https://www.eleconomista.es/actualidad/noticias/13457719/07/25/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-unas-enfermedades-muy-temidas-del-pasado.html) (Eleconomista.es)
-
-- [Erste Chikungunya-Infektion in Mitteleuropa](https://science.orf.at/stories/3231051/) (Science.orf.at)
-
-- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_9dcbedf3-993b-4e07-98b3-fe1293c592d9.html) (ANSA.it)
-
-- [Dengue e chikungunya, in Italia rischi per coste e periferie](https://www.ansa.it/sito/notizie/topnews/2025/07/10/dengue-e-chikungunya-in-italia-rischi-per-coste-e-periferie_c683474c-dd7c-48f9-ae69-5c335b2a1498.html) (ANSA.it)
-
-- [Une épidémie de chikungunya est-elle à craindre en France hexagonale, où les cas de transmission se multiplient ?](https://www.franceinfo.fr/sante/maladie/chikungunya/une-epidemie-de-chikungunya-est-elle-a-craindre-en-france-hexagonale-ou-les-cas-de-transmission-se-multiplient_7364607.html) (Franceinfo.fr)
-
-- [Vector control for Aedes aegypti and Aedes albopictus mosquitoes implemented in the field in sub-Saharan Africa: A scoping review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013203) (Plos.org)
-
-- [Dengue : le premier épisode de transmission autochtone de l’année a été identifié en métropole, en Auvergne-Rhône-Alpes](https://www.lemonde.fr/societe/article/2025/07/09/dengue-le-premier-episode-de-transmission-autochtone-de-l-annee-a-ete-identifie-en-metropole-en-auvergne-rhone-alpes_6620185_3224.html) (Le Monde)
-
-- [Nahe Baden-Württemberg: Unaussprechliches Virus: Wie gefährlich ist Chikungunya?](https://www.zeit.de/news/2025-07/09/tropenvirus-angekommen-wie-gefaehrlich-ist-chikungunya) (Die Zeit)
-
-- [Nahe Baden-Württemberg: Unaussprechliches Virus: Wie gefährlich ist Chikungunya?](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/nahe-baden-wuerttemberg--unaussprechliches-virus--wie-gefaehrlich-ist-chikungunya--35878548.html) (STERN.de)
-
-- [Viruserkrankung: Bislang 15 importierte Chikungunya-Infektionen im Südwesten](https://www.zeit.de/news/2025-07/09/bislang-15-importierte-chikungunya-infektionen-im-suedwesten) (Die Zeit)
-
-- [Viruserkrankung: Bislang 15 importierte Chikungunya-Infektionen im Südwesten](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/viruserkrankung--bislang-15-importierte-chikungunya-infektionen-im-suedwesten-35880320.html) (STERN.de)
-
-- [Chikungunya-Fall im Elsass: Bringt die Tigermücke Tropenkrankheiten nach Europa?](https://www.n-tv.de/wissen/Bringt-die-Tigermuecke-Tropenkrankheiten-nach-Europa-article25888514.html) (N-tv.de)
-
-- [Un cas de chikungunya autochtone confirmé près de Grenoble, en Isère](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-cas-de-chikungunya-autochtone-confirme-pres-de-grenoble-en-isere-3185415.html) (Franceinfo.fr)
-
-- [Chikungunya-Fall an deutscher Grenze: Was Sie über das Tropenvirus wissen sollten](https://www.focus.de/gesundheit/news/chikungunya-fall-an-deutscher-grenze-was-sie-ueber-das-tropenvirus-wissen-sollten_42fedbb6-a644-4beb-9d64-3176ca62d35e.html) (Focus)
-
-- [Nahe Baden-Württemberg: Tropenvirus angekommen: Wie gefährlich ist Chikungunya?](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/nahe-baden-wuerttemberg--tropenvirus-angekommen--wie-gefaehrlich-ist-chikungunya--35878548.html) (STERN.de)
-
-- [Chikungunya : dix cas autochtones détectés dans un même quartier de Salon-de-Provence](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-dix-cas-autochtones-detectes-dans-un-meme-quartier-de-salon-de-provence_7364985.html) (Franceinfo.fr)
-
-- [Santé. Chikungunya dans la région : “Partout où le moustique tigre existe, il y a un risque”](https://www.ledauphine.com/sante/2025/07/08/chikungunya-dans-la-region-partout-ou-le-moustique-tigre-existe-il-y-a-un-risque) (Le Dauphiné Libéré)
-
-- [Chikungunya - Tropen-Virus an deutscher Grenze aufgetaucht](https://www.bild.de/leben-wissen/medizin/chikungunya-virus-wie-sie-sich-schuetzen-welche-regionen-betroffen-sind-686cd469d009353a0c9638a3) (Bild)
-
-- [Un cas autochtone de chikungunya suspecté près de Grenoble, le secteur sera démoustiqué](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-cas-autochtone-de-chikungunya-suspecte-pres-de-grenoble-le-secteur-sera-demoustique-3184737.html) (Franceinfo.fr)
-
-- [Isère. Une suspicion de cas de chikungunya à Claix : une démoustication programmée dans la nuit du 8 au 9 juillet](https://www.ledauphine.com/sante/2025/07/08/isere-une-suspicion-de-cas-de-chikungunya-a-claix-une-demoustication-programmee-dans-la-nuit-du-8-au-9-juillet) (Le Dauphiné Libéré)
-
-- [De nouvelles armes dans la lutte contre les moustiques et les maladies qu’ils transmettent](https://www.lemonde.fr/planete/article/2025/07/08/de-nouvelles-armes-dans-la-lutte-contre-les-moustiques-et-les-maladies-qu-ils-transmettent_6619818_3244.html) (Le Monde)
-
-- [Tropen-Krankheit: Chikungunya-Infektion im Elsass – nahe der deutschen Grenze](https://www.stern.de/gesundheit/chikungunya-infektion-im-elsass---nahe-der-deutschen-grenze-35874016.html) (STERN.de)
-
-- [Nahe Baden-Württemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze](https://www.zeit.de/news/2025-07/07/chikungunya-infektion-im-elsass-nahe-der-deutschen-grenze) (Die Zeit)
-
-- [Un cas de chikungunya détecté à Romans-sur-Isère : une enquête de terrain programmée, les habitants seront informés si besoin](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/drome/valence/un-cas-de-chikungunya-detecte-a-romans-sur-isere-une-enquete-de-terrain-programmee-les-habitants-seront-informes-si-besoin-3184455.html) (Franceinfo.fr)
-
-- [Mensch steckt sich im Elsass mit Chikungunya an](https://www.welt.de/gesundheit/article256360714/Chikungunya-Virus-Mensch-im-Elsass-durch-Mueckenstich-infiziert.html) (DIE WELT)
-
-- [Drôme. Après celui de Montoison, un nouveau cas de chikungunya détecté à Romans-sur-Isère](https://www.ledauphine.com/environnement/2025/07/07/apres-celui-de-montoison-un-nouveau-cas-de-chikungunya-detecte-a-romans-sur-isere) (Le Dauphiné Libéré)
-
-- [Nahe Baden-Württemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze](https://www.tagesspiegel.de/wissen/nahe-baden-wurttemberg-chikungunya-infektion-im-elsass-nahe-der-deutschen-grenze-13984076.html) (Der Tagesspiegel)
-
-- [Nahe Baden-Württemberg: Chikungunya-Infektion im Elsass - nahe der deutschen Grenze](https://www.stern.de/panorama/wissen/nahe-baden-wuerttemberg--chikungunya-infektion-im-elsass---nahe-der-deutschen-grenze-35874016.html) (STERN.de)
-
-- [Mucho calor muy temprano y lluvias, un verano perfecto para los mosquitos que transmiten enfermedades](https://www.eldiario.es/sociedad/calor-temprano-lluvias-verano-perfecto-mosquitos-transmiten-enfermedades_1_12436326.html) (Eldiario.es)
