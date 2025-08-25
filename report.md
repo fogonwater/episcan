@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-08-25 07:08
-- **Most recent article:** 2025-08-24 04:07:31
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-08-25 19:06
+- **Most recent article:** 2025-08-24 14:47:05
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 0 | 353 |
-| measles | 60 | 47 | 30 | 26 | 26 | 50 | 1 | 240 |
-| dengue | 24 | 36 | 32 | 17 | 25 | 62 | 1 | 197 |
-| rabies | 4 | 11 | 10 | 11 | 27 | 39 | 1 | 103 |
-| malaria | 12 | 18 | 13 | 18 | 15 | 19 | 0 | 95 |
-| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 1 | 51 |
+| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 3 | 356 |
+| measles | 52 | 47 | 30 | 26 | 26 | 50 | 1 | 232 |
+| dengue | 20 | 36 | 32 | 17 | 25 | 62 | 5 | 197 |
+| rabies | 4 | 11 | 10 | 11 | 27 | 39 | 2 | 104 |
+| malaria | 11 | 18 | 13 | 18 | 15 | 19 | 1 | 95 |
+| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 2 | 52 |
 | zika | 8 | 2 | 7 | 8 | 9 | 7 | 0 | 41 |
-| h5n1 | 13 | 4 | 1 | 14 | 3 | 3 | 0 | 38 |
+| h5n1 | 12 | 4 | 1 | 14 | 3 | 3 | 0 | 37 |
 | meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 0 | 29 |
-| yersinia | 5 | 2 | 1 | 0 | 7 | 7 | 0 | 22 |
+| yersinia | 3 | 2 | 1 | 0 | 7 | 7 | 0 | 20 |
 | pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 0 | 10 |
-| typhoid | 7 | 1 | 0 | 1 | 1 | 0 | 0 | 10 |
+| typhoid | 6 | 1 | 0 | 1 | 1 | 0 | 0 | 9 |
 | hpai | 2 | 1 | 0 | 3 | 0 | 1 | 0 | 7 |
 | leptospirosis | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
 
@@ -34,9 +34,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (rabies)
 
+- [Pentingnya Pendekatan One Health Atasi Rabies di Indonesia](https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia) (Kompasiana.com)
+
 - [TWiV 1247: In the company of vaccines with Stanley Plotkin](https://www.microbe.tv/twiv/twiv-1247/) (Microbe.tv)
 
 ## 25-35 (mpox)
+
+- [Mpox : le Sénégal prend des mesures après un cas détecté à Dakar](https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/) (Jeune Afrique)
 
 - [Σενεγάλη: Κρούσμα ευλογιάς των πιθήκων σε αλλοδαπό στο Ντακάρ – Μέτρα από τις αρχές](https://www.naftemporiki.gr/kosmos/1996851/senegali-kroysma-eylogias-ton-pithikon-se-allodapo-sto-ntakar-metra-apo-tis-arches/) (Naftemporiki.gr)
 
@@ -44,9 +48,29 @@ Source: [News API](https://newsapi.org/)
 
 - [B.C. health officer urges families to check vaccinations ahead of school year](https://www.revelstokereview.com/news/bc-health-officer-urges-families-to-check-vaccinations-ahead-of-school-year-8209889) (Revelstoke Review)
 
+## 25-35 (malaria)
+
+- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
+
 ## 25-35 (dengue)
 
+- [Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten](https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa) (Bild)
+
+- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
+
+- [Bringt der Klimawandel das Dengue-Fieber?: Übertragende Mücken breiten sich nach Norden aus](https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html) (Der Tagesspiegel)
+
+- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
+
 - [Nearly 300 dengue cases reported in Sudurpaschim over eight months](https://english.khabarhub.com/2025/24/492473/) (Khabarhub.com)
+
+## 25-35 (chikungunya)
+
+- [Hong Kong enfrenta uma enorme crise de saúde pública devido ao vírus chikungunya; o remédio é um exército de cães-robôs](https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html) (Terra.com.br)
+
+- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
+
+- [Ne paște un nou pericol epidemic global. OMS: virusul periculos transmis de țânțari se răspândește în Europa](https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html) (Adevarul.ro)
 
 ## 25-34 (zika)
 
@@ -2242,10 +2266,6 @@ Source: [News API](https://newsapi.org/)
 
 - [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
-- [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
-
-- [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
-
 ## 25-29 (typhoid)
 
 - [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
@@ -2259,8 +2279,6 @@ Source: [News API](https://newsapi.org/)
 - [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
 
 - [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 ## 25-29 (rabies)
 
@@ -2418,22 +2436,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60%](https://www.sciencealert.com/emergency-vaccines-reduce-disease-outbreak-deaths-by-almost-60) (ScienceAlert)
 
-- [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
-
-- [Measles explained: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html) (The-independent.com)
-
-- [Child dies at Alder Hey as measles cases surge](https://www.bbc.com/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [Measles: Child dies at Alder Hey Children's hospital as cases surge](https://www.bbc.co.uk/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
-
-- [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
-
-- [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
-
 ## 25-29 (malaria)
 
 - [Guardian: Räjähdysmäinen kasvu tämän maan malaria­tapauksissa – Trumpin hallinto leikkasi aiemmin avusta](https://www.is.fi/ulkomaat/art-2000011375734.html) (Www.is.fi)
@@ -2457,8 +2459,6 @@ Source: [News API](https://newsapi.org/)
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
 
 - [A Senate vote this week will test the popularity of DOGE spending cuts](https://financialpost.com/pmn/a-senate-vote-this-week-will-test-the-popularity-of-doge-spending-cuts) (Financial Post)
-
-- [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
 ## 25-29 (hpai)
 
@@ -2491,8 +2491,6 @@ Source: [News API](https://newsapi.org/)
 - [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
 
 - [Bird Flu Is out of the News but Still Circulating](https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/) (Scientific American)
-
-- [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
 
@@ -2535,14 +2533,6 @@ Source: [News API](https://newsapi.org/)
 - [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
 
 - [En lo que va del año suman 4 mil 945 casos y 22 muertos por dengue en el país](https://www.excelsior.com.mx/nacional/en-lo-que-va-del-ano-suman-4-mil-945-casos-y-22-muertos-por-dengue-en-el-pais/1726882) (Excelsior.com.mx)
-
-- [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
-
-- [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
-
-- [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
-
-- [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
 
