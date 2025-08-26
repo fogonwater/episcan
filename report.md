@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-08-26 07:07
-- **Most recent article:** 2025-08-25 06:47:42
+- **New articles in last harvest:** 43
+- **Last harvest:** 2025-08-26 19:06
+- **Most recent article:** 2025-08-25 19:00:25
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 6 | 359 |
-| measles | 60 | 47 | 30 | 26 | 26 | 50 | 3 | 242 |
-| dengue | 24 | 36 | 32 | 17 | 25 | 62 | 5 | 201 |
-| rabies | 4 | 11 | 10 | 11 | 27 | 39 | 2 | 104 |
-| malaria | 12 | 18 | 13 | 18 | 15 | 19 | 2 | 97 |
-| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 2 | 52 |
-| zika | 8 | 2 | 7 | 8 | 9 | 7 | 0 | 41 |
-| h5n1 | 13 | 4 | 1 | 14 | 3 | 3 | 0 | 38 |
-| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 4 | 33 |
-| yersinia | 5 | 2 | 1 | 0 | 7 | 7 | 0 | 22 |
+| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 28 | 381 |
+| measles | 52 | 47 | 30 | 26 | 26 | 50 | 10 | 241 |
+| dengue | 20 | 36 | 32 | 17 | 25 | 62 | 11 | 203 |
+| rabies | 4 | 11 | 10 | 11 | 27 | 39 | 3 | 105 |
+| malaria | 11 | 18 | 13 | 18 | 15 | 19 | 3 | 97 |
+| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 3 | 53 |
+| zika | 8 | 2 | 7 | 8 | 9 | 7 | 4 | 45 |
+| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 10 | 39 |
+| h5n1 | 12 | 4 | 1 | 14 | 3 | 3 | 1 | 38 |
+| yersinia | 3 | 2 | 1 | 0 | 7 | 7 | 1 | 21 |
 | pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 0 | 10 |
-| typhoid | 7 | 1 | 0 | 1 | 1 | 0 | 0 | 10 |
+| typhoid | 6 | 1 | 0 | 1 | 1 | 0 | 0 | 9 |
 | hpai | 2 | 1 | 0 | 3 | 0 | 1 | 0 | 7 |
 | leptospirosis | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
 
@@ -32,7 +32,23 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-35 (zika)
+
+- [Chikungunya, une quinzaine de cas importés chez nous en 2023](https://www.lavenir.net/actu/2025/08/25/chikungunya-une-quinzaine-de-cas-importes-chez-nous-en-2023-MV4WQJLHOZGZJBFF7LZP54WHHE/) (Lavenir.net)
+
+- [La continua amenaza de los flavivirus: dengue, zika, fiebre amarilla, WNV (virus del Nilo Occidental) y virus Usutu](https://www.meneame.net/m/cultura/continua-amenaza-flavivirus-dengue-zika-fiebre-amarilla-wnv-nilo) (Meneame.net)
+
+- [Intra-vector infection dynamics challenge how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013393) (Plos.org)
+
+- [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
+
+## 25-35 (yersinia)
+
+- [Верблюды из располагавшегося в Румынии караван-сарая пострадали от чумы](https://nplus1.ru/news/2025/08/25/camels-with-plague) (Nplus1.ru)
+
 ## 25-35 (rabies)
+
+- [Dogs bite men (and a little girl).](https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/) (Crookedtimber.org)
 
 - [Pentingnya Pendekatan One Health Atasi Rabies di Indonesia](https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia) (Kompasiana.com)
 
@@ -40,13 +56,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (mpox)
 
+- [⚠️ First Mpox Case in Senegal: Health Alert](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcji7XAbSq2Y) (YouTube)
+
 - [Mpox : le Sénégal prend des mesures après un cas détecté à Dakar](https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/) (Jeune Afrique)
 
 - [Σενεγάλη: Κρούσμα ευλογιάς των πιθήκων σε αλλοδαπό στο Ντακάρ – Μέτρα από τις αρχές](https://www.naftemporiki.gr/kosmos/1996851/senegali-kroysma-eylogias-ton-pithikon-se-allodapo-sto-ntakar-metra-apo-tis-arches/) (Naftemporiki.gr)
 
 ## 25-35 (meningitis)
 
+- ["Kann lebensbedrohlich sein": Lola Weippert hatte Meningitis – darum ist die Krankheit so gefährlich](https://www.fitforfun.de/news/gesundheit-meningitis-wie-bei-lola-weippert-gefahr-fuers-gehirn-766041.html) (FIT FOR FUN)
+
+- [Lola Weippert wegen Hirnhautentzündung im Krankenhaus](https://www.morgenpost.de/panorama/article409829938/lola-weippert-wegen-hirnhautentzuendung-im-krankenhaus.html) (Berliner Morgenpost)
+
+- [Leute: Lola Weippert hatte drei Wochen Meningitis-Zwangspause](https://www.stern.de/kultur/tv/leute--lola-weippert-hatte-drei-wochen-meningitis-zwangspause-35998510.html) (STERN.de)
+
+- [Trotz Schock-Diagnose: Oliver Pocher ätzt erneut gegen Lola Weippert](https://www.focus.de/kultur/stars/trotz-schock-diagnose-oliver-pocher-aetzt-erneut-gegen-lola-weippert_97e81af5-e571-41b2-bd80-c4918eb720b2.html) (Focus)
+
+- [Schock-Diagnose bei Lola Weippert – Pocher stichelt trotzdem](https://www.focus.de/kultur/stars/schock-diagnose-bei-lola-weippert-pocher-stichelt-trotzdem_97e81af5-e571-41b2-bd80-c4918eb720b2.html) (Focus)
+
 - [Lola Weipert mit Meningitis im Krankenhaus – wie Sie der Hirnhautentzündung vorbeugen](https://www.focus.de/gesundheit/ratgeber/lola-weippert-mit-meningitis-im-krankenhaus-wie-sie-hirnhautentzuendung-vorbeugen_7fb8bc9b-c758-4e23-a1bf-3590c0f66816.html) (Focus)
+
+- [Lola Weippert mit Meningitis im Krankenhaus – wie Sie Hirnhautentzündung vorbeugen](https://www.focus.de/gesundheit/news/lola-weippert-mit-meningitis-im-krankenhaus-wie-sie-hirnhautentzuendung-vorbeugen_7fb8bc9b-c758-4e23-a1bf-3590c0f66816.html) (Focus)
 
 - [Leute: Lola Weippert hatte drei Wochen Meningitis-Zwangspause](https://www.tagesspiegel.de/gesellschaft/leute-lola-weippert-hatte-drei-wochen-meningitis-zwangspause-14222864.html) (Der Tagesspiegel)
 
@@ -56,6 +86,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (measles)
 
+- [As Measles Exploded, Officials in Texas Looked to CDC Scientists. Under Trump, No One Answered. (Amy Maxmen/KFF Health News)](https://www.memeorandum.com/250825/p96) (Memeorandum.com)
+
+- [After 17 die in measles outbreak, Indonesia launches vaccination campaign](https://www.pbs.org/newshour/world/after-17-die-in-measles-outbreak-indonesia-launches-vaccination-campaign) (PBS)
+
+- [A parents’ guide to back-to-school vaccinations](https://www.mlive.com/news/2025/08/a-parents-guide-to-back-to-school-vaccinations.html) (mlive.com)
+
+- [Indonesia launches a measles vaccination campaign after 17 die in an outbreak](https://abcnews.go.com/Health/wireStory/indonesia-launches-measles-vaccination-campaign-after-17-die-124947633) (ABC News)
+
+- [Monday, August 25, 2025](https://kffhealthnews.org/morning-briefing/monday-august-25-2025/) (Kffhealthnews.org)
+
+- [As measles surged, Trump administration's actions hampered CDC response](https://www.cbsnews.com/news/measles-texas-trump-administration-cdc-response/) (CBS News)
+
+- [As Measles Exploded, Officials in Texas Looked to CDC Scientists. Under Trump, No One Answered.](https://kffhealthnews.org/news/article/texas-measles-outbreak-cdc-vaccines-rfk-trump/) (Kffhealthnews.org)
+
 - [Weeklong Measles Rubella Vaccination Campaign underway in East Siang](https://thehillstimes.in/arunachal-pradesh/weeklong-measles-rubella-vaccination-campaign-underway-in-east-siang) (Thehillstimes.in)
 
 - [Elite media cannot stop handing it to RFK Jr.](https://www.lawyersgunsmoneyblog.com/2025/08/elite-media-cannot-stop-handing-it-to-rfk-jr) (Lawyersgunsmoneyblog.com)
@@ -64,11 +108,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (malaria)
 
+- [Effects of recombination on multi-drug resistance evolution in Plasmodium falciparum malaria](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013401) (Plos.org)
+
 - [13-year-old in serious condition: bitten by bug on family trip and contracted malaria](https://www.israelnationalnews.com/news/413813) (Israelnationalnews.com)
 
 - [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
 
+## 25-35 (h5n1)
+
+- [3 notícias sobre: ovos](https://super.abril.com.br/sociedade/3-noticias-sobre-ovos/) (Abril.com.br)
+
 ## 25-35 (dengue)
+
+- [Chikungunya, une quinzaine de cas importés chez nous en 2023](https://www.lavenir.net/actu/2025/08/25/chikungunya-une-quinzaine-de-cas-importes-chez-nous-en-2023-MV4WQJLHOZGZJBFF7LZP54WHHE/) (Lavenir.net)
+
+- [La continua amenaza de los flavivirus: dengue, zika, fiebre amarilla, WNV (virus del Nilo Occidental) y virus Usutu](https://www.meneame.net/m/cultura/continua-amenaza-flavivirus-dengue-zika-fiebre-amarilla-wnv-nilo) (Meneame.net)
+
+- [Intra-vector infection dynamics challenge how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013393) (Plos.org)
+
+- [Música eletrônica reduz chance de picadas do Aedes aegypti, revela estudo](https://www.tecmundo.com.br/ciencia/406562-musica-eletronica-reduz-chance-de-picadas-do-aedes-aegypti-revela-estudo.htm) (Tecmundo.com.br)
+
+- [La inteligencia artificial se convierte en arma clave contra el dengue: diagnóstico veloz y predicción de brotes](https://es.gizmodo.com/la-inteligencia-artificial-se-convierte-en-arma-clave-contra-el-dengue-diagnostico-veloz-y-prediccion-de-brotes-2000187924) (Gizmodo.com)
+
+- [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
 
 - [Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten](https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa) (Bild)
 
@@ -81,6 +143,50 @@ Source: [News API](https://newsapi.org/)
 - [Nearly 300 dengue cases reported in Sudurpaschim over eight months](https://english.khabarhub.com/2025/24/492473/) (Khabarhub.com)
 
 ## 25-35 (chikungunya)
+
+- [Chikungunya, une quinzaine de cas importés chez nous en 2023](https://www.lavenir.net/actu/2025/08/25/chikungunya-une-quinzaine-de-cas-importes-chez-nous-en-2023-MV4WQJLHOZGZJBFF7LZP54WHHE/) (Lavenir.net)
+
+- [EU suspende licencia de vacuna de Valneva contra el chikungunya en EU; acciones se desploman](https://forbes.com.mx/eu-suspende-licencia-de-vacuna-de-valneva-contra-el-chikungunya-en-eu-acciones-se-desploman/) (Forbes.com.mx)
+
+- [„Gesundheitsrisiko“: US-Behörde stoppt in Wien entwickelten Impfstoff](https://www.diepresse.com/20031781/gesundheitsrisiko-us-behoerde-stoppt-in-wien-entwickelten-impfstoff) (Diepresse.com)
+
+- [Wegen schwerwiegender Nebenwirkungen: US-Behörde stoppt Chikungunya-Impfstoff von Valneva](https://www.tagesspiegel.de/wissen/wegen-schwerwiegender-nebenwirkungen-us-behorde-stoppt-chikungunya-impfstoff-von-valneva-14226461.html) (Der Tagesspiegel)
+
+- [Salgono a 63 i casi di Chikungunya nel Modenese, nessuno grave](https://www.ansa.it/emiliaromagna/notizie/2025/08/25/salgono-a-63-i-casi-di-chikungunya-nel-modenese-nessuno-grave_abf0d389-9757-4a91-aff2-a9ce63481bdc.html) (ANSA.it)
+
+- [EUA suspende vacina contra chikungunya após efeitos colaterais graves](https://www.metropoles.com/saude/eua-suspende-vacina-chikungunya) (Metropoles.com)
+
+- [EUA suspendem vacina contra chikungunya após efeitos adversos](https://saude.ig.com.br/2025-08-25/eua-suspendem-vacina-contra-chikungunya-apos-efeitos-adversos.html) (Ig.com.br)
+
+- [Intra-vector infection dynamics challenge how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013393) (Plos.org)
+
+- [L'autorité de santé américaine suspend le vaccin de Valneva contre le chikungunya](https://www.usinenouvelle.com/article/valneva-l-autorite-de-sante-americaine-suspend-le-vaccin-ixchiq-aux-etats-unis.N2236566) (L'Usine Nouvelle)
+
+- [Valneva-Aktien fallen um 20 Prozent: US-Behörde stoppt Valneva Impfstoff gegen Chikungunya-Fieber](https://taz.de/Valneva-Aktien-fallen-um-20-Prozent/!6109427/) (taz.de)
+
+- [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
+
+- [Ραγδαία εξάπλωση του ιού chikungunya στην Ευρώπη – Συναγερμός σε Γαλλία και Ιταλία](https://www.newsit.gr/kosmos/ragdaia-eksaplosi-tou-iou-chikungunya-stin-eyropi-synagermos-se-gallia-kai-italia/4458207/) (Newsit.gr)
+
+- [FDA Update on the Safety of Ixchiq (Chikungunya Vaccine, Live). FDA Suspends Biologics License: FDA Safety Communication](https://www.fda.gov/safety/medical-product-safety-information/fda-update-safety-ixchiq-chikungunya-vaccine-live-fda-suspends-biologics-license-fda-safety) (FDA.gov)
+
+- [Việt Nam chưa phát hiện ca bệnh Chikungunya](https://kevesko.vn/20250825/viet-nam-chua-phat-hien-ca-benh-chikungunya-37892159.html) (Kevesko.vn)
+
+- [Chikungunya : les Etats-Unis suspendent le vaccin Valneva](https://www.liberation.fr/societe/sante/chikungunya-les-etats-unis-suspendent-le-vaccin-valneva-20250825_3TKFWZ3QKZHT7NPZXSLNKPJ5VY/) (Libération)
+
+- [USA pozastavili očkovanie vakcínou Ixchiq proti vírusu chikungunya](https://spravy.pravda.sk/svet/clanok/764508-usa-pozastavili-ockovanie-vakcinou-ixchiq-proti-virusu-chikungunya/) (Pravda.sk)
+
+- [Chikungunya : le vaccin Ixchiq suspendu aux Etats-Unis après de nouveaux effets indésirables](https://www.lemonde.fr/sante/article/2025/08/25/chikungunya-le-vaccin-ixchiq-suspendu-aux-etats-unis-apres-de-nouveaux-effets-indesirables_6634866_1651302.html) (Le Monde)
+
+- [Le vaccin de Valneva contre le chikungunya suspendu aux Etats-Unis après de nouveaux effets indésirables](https://www.franceinfo.fr/sante/maladie/chikungunya/le-vaccin-de-valneva-contre-le-chikungunya-suspendu-aux-etats-unis-apres-de-nouveaux-effets-indesirables_7453684.html) (Franceinfo.fr)
+
+- [Gebruik van Valneva-vaccin tegen chikungunya opgeschort in VS wegens nieuwe bijwerkingen](https://www.nieuwsblad.be/nieuws/gebruik-van-valneva-vaccin-tegen-chikungunya-opgeschort-in-vs-wegens-nieuwe-bijwerkingen/85658169.html) (Nieuwsblad.be)
+
+- [Chikungunya : les États-Unis suspendent le vaccin de Valneva après de nouveaux effets indésirables](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-les-etats-unis-suspendent-le-vaccin-de-valneva-apres-de-nouveaux-effets-indesirables-3320bef6-817e-11f0-a77f-922a296422d8) (Ouest-France)
+
+- [Santé. Chikungunya : le vaccin Ixchiq suspendu aux États-Unis après de nouveaux effets indésirables](https://www.ledauphine.com/sante/2025/08/25/chikungunya-le-vaccin-ixchiq-suspendu-aux-etats-unis-apres-de-nouveaux-effets-indesirables) (Le Dauphiné Libéré)
+
+- [US suspends chikungunya vaccine Ixchiq over 'serious' side effects: Valneva](https://www.channelnewsasia.com/world/us-suspend-chikungunya-vaccine-ixchiq-serious-side-effects-valneva-5312401) (CNA)
 
 - [Valneva Announces FDA’s Decision to Suspend License of Chikungunya Vaccine IXCHIQ® in the U.S.](https://www.globenewswire.com/news-release/2025/08/25/3138190/0/en/Valneva-Announces-FDA-s-Decision-to-Suspend-License-of-Chikungunya-Vaccine-IXCHIQ-in-the-U-S.html) (GlobeNewswire)
 
@@ -2288,10 +2394,6 @@ Source: [News API](https://newsapi.org/)
 
 - [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
-- [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
-
-- [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
-
 ## 25-29 (typhoid)
 
 - [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
@@ -2305,8 +2407,6 @@ Source: [News API](https://newsapi.org/)
 - [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
 
 - [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 ## 25-29 (rabies)
 
@@ -2464,22 +2564,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60%](https://www.sciencealert.com/emergency-vaccines-reduce-disease-outbreak-deaths-by-almost-60) (ScienceAlert)
 
-- [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
-
-- [Measles explained: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html) (The-independent.com)
-
-- [Child dies at Alder Hey as measles cases surge](https://www.bbc.com/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [Measles: Child dies at Alder Hey Children's hospital as cases surge](https://www.bbc.co.uk/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
-
-- [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
-
-- [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
-
 ## 25-29 (malaria)
 
 - [Guardian: Räjähdysmäinen kasvu tämän maan malaria­tapauksissa – Trumpin hallinto leikkasi aiemmin avusta](https://www.is.fi/ulkomaat/art-2000011375734.html) (Www.is.fi)
@@ -2503,8 +2587,6 @@ Source: [News API](https://newsapi.org/)
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
 
 - [A Senate vote this week will test the popularity of DOGE spending cuts](https://financialpost.com/pmn/a-senate-vote-this-week-will-test-the-popularity-of-doge-spending-cuts) (Financial Post)
-
-- [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
 ## 25-29 (hpai)
 
@@ -2537,8 +2619,6 @@ Source: [News API](https://newsapi.org/)
 - [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
 
 - [Bird Flu Is out of the News but Still Circulating](https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/) (Scientific American)
-
-- [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
 
@@ -2581,14 +2661,6 @@ Source: [News API](https://newsapi.org/)
 - [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
 
 - [En lo que va del año suman 4 mil 945 casos y 22 muertos por dengue en el país](https://www.excelsior.com.mx/nacional/en-lo-que-va-del-ano-suman-4-mil-945-casos-y-22-muertos-por-dengue-en-el-pais/1726882) (Excelsior.com.mx)
-
-- [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
-
-- [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
-
-- [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
-
-- [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
 

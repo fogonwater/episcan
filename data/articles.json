@@ -1,8 +1,771 @@
 {
-  "last_updated": "2025-08-26 07:07",
-  "count_articles_total": 1126,
-  "count_articles_new": 10,
+  "last_updated": "2025-08-26 19:06",
+  "count_articles_total": 1153,
+  "count_articles_new": 43,
   "articles": [
+    {
+      "id": 24062,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "As Measles Exploded, Officials in Texas Looked to CDC Scientists. Under Trump, No One Answered. (Amy Maxmen/KFF Health News)",
+      "description": "Amy Maxmen / KFF Health News: As Measles Exploded, Officials in Texas Looked to CDC Scientists. Under Trump, No One Answered. \u2014 As measles surged in Texas early this year, the Trump administration's actions sowed fear and confusion among CDC scientists tha\u2026",
+      "url": "https://www.memeorandum.com/250825/p96",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Lede-Illustration.jpg?w=1024",
+      "publishedAt": "2025-08-25 19:00:25",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.774066",
+      "internal_id": "e1f0ec48c1f346d1157a66b645772d53227cff1b850981ab7ad984e814bda633",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24069,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Caroline Desorbay",
+      "title": "Chikungunya, une quinzaine de cas import\u00e9s chez nous en 2023",
+      "description": "Un premier foyer de chikungunya, une maladie virale transmise par la piq\u00fbre d\u2019un moustique tigre infect\u00e9, a \u00e9t\u00e9 d\u00e9tect\u00e9 en France. En Belgique, on ne recense annuellement que quelques cas import\u00e9s. ...",
+      "url": "https://www.lavenir.net/actu/2025/08/25/chikungunya-une-quinzaine-de-cas-importes-chez-nous-en-2023-MV4WQJLHOZGZJBFF7LZP54WHHE/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/TQS325Y7AND5REHA5FN7O2PGPU.jpg?auth=3b1774e400ee91c0157f982396211dc267da2e15ef5f02390bdc7166de61a9ec&width=1200&height=630&quality=85&focal=2172%2C1222&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-08-25 18:30:00",
+      "content": "La surveillance citoyennes, mise en place pour la quatri\u00e8me ann\u00e9e cons\u00e9cutive, est essentielle car le moustique tigre peut \u00eatre vecteur de virus de la dengue, du chikungunya et Zika. Un premier foye\u2026 [+2937 chars]",
+      "retrievedAt": "2025-08-26 19:05:58.616260",
+      "internal_id": "25b8f8cade2df35215046345d8eb665a49967281dc4d1e0e8773e340311a53e3",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24085,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "EU suspende licencia de vacuna de Valneva contra el chikungunya en EU; acciones se desploman",
+      "description": "Forbes M\u00e9xico. EU suspende licencia de vacuna de Valneva contra el chikungunya en EU; acciones se desploman Este lunes, las acciones de la farmac\u00e9utica francesa Valneva se desplomaron m\u00e1s de un 20% despu\u00e9s de que la FDA suspendiera de manera inmediata la au\u2026",
+      "url": "https://forbes.com.mx/eu-suspende-licencia-de-vacuna-de-valneva-contra-el-chikungunya-en-eu-acciones-se-desploman/",
+      "urlToImage": "https://cdn.forbes.com.mx/2025/08/Valneva-acciones-caida-vacuna-chikungunya-.webp",
+      "publishedAt": "2025-08-25 18:16:11",
+      "content": "Las acciones de la farmac\u00e9utica francesa Valneva cayeron m\u00e1s de un 20% el lunes, luego de que la Administraci\u00f3n de Alimentos y Medicamentos de Estados Unidos (FDA) suspendiera con efecto inmediato la\u2026 [+2593 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.797900",
+      "internal_id": "27bcae12469f6c20a2bd0479ebc75aa7f13dda26c01e4918afefdac329836a10",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24100,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "\u26a0\ufe0f First Mpox Case in Senegal: Health Alert",
+      "description": "\u26a0\ufe0f First Mpox Case in Senegal: Health Alertyoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcji7XAbSq2Y",
+      "urlToImage": null,
+      "publishedAt": "2025-08-25 18:11:24",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-08-26 19:06:02.502091",
+      "internal_id": "c067d566f84808bd61ab52f91a89583992bd74aea3cd40b526cba8b023b616ef",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24064,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Edna Tarigan, Associated Press",
+      "title": "After 17 die in measles outbreak, Indonesia launches vaccination campaign",
+      "description": "Indonesian authorities have rolled out a vaccination campaign in response to an outbreak that has caused 17 deaths.",
+      "url": "https://www.pbs.org/newshour/world/after-17-die-in-measles-outbreak-indonesia-launches-vaccination-campaign",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2020/02/measles-1024x719.jpg",
+      "publishedAt": "2025-08-25 17:44:05",
+      "content": "SUMENEP, Indonesia (AP) Hundreds of children in Indonesia lined up for free measles shots Monday as authorities rolled out a vaccination campaign in response to an outbreak that has caused 17 deaths.\u2026 [+1900 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.813593",
+      "internal_id": "b193f4a2a325df3222bb3438d5d8fbc159786d9a79a7e3d4504cb59342e70c65",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24082,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "\u201eGesundheitsrisiko\u201c: US-Beh\u00f6rde stoppt in Wien entwickelten Impfstoff",
+      "description": "Der Chikungunya-Impfstoff des \u00f6sterreichisch-franz\u00f6sischen Herstellers Valneva darf wegen Nebenwirkungen nicht mehr verkauft werden. Die Aktie von Valneva brach stark ein.",
+      "url": "https://www.diepresse.com/20031781/gesundheitsrisiko-us-behoerde-stoppt-in-wien-entwickelten-impfstoff",
+      "urlToImage": "https://img.diepresse.com/public/incoming/8q7tnr-Valneva_Imago.jpg/alternates/DPR_SOCIAL_NACHRICHTEN/Valneva_Imago.jpg",
+      "publishedAt": "2025-08-25 17:06:58",
+      "content": "Der Chikungunya-Impfstoff des \u00f6sterreichisch-franz\u00f6sischen Herstellers Valneva darf wegen Nebenwirkungen nicht mehr verkauft werden. Die Aktie von Valneva brach stark ein. Die US-Arzneimittelbeh\u00f6rd\u2026 [+2991 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.742735",
+      "internal_id": "400db7a83648bab05da09b0ae23085ef693db526afbfe1c43d54b8f8c1269bab",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24071,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Leclercia_adecarboxylata",
+      "title": "La continua amenaza de los flavivirus: dengue, zika, fiebre amarilla, WNV (virus del Nilo Occidental) y virus Usutu",
+      "description": "Actualmente, los flavivirus tienen una distribuci\u00f3n global y afectan a unos 400 millones de personas anualmente. M\u00e1s de un cuarto de la poblaci\u00f3n mundial vive en \u00e1reas donde el virus del dengue ya es end\u00e9mico. La introducci\u00f3n del virus del Nilo Occidental o d\u2026",
+      "url": "https://www.meneame.net/m/cultura/continua-amenaza-flavivirus-dengue-zika-fiebre-amarilla-wnv-nilo",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-08-25 17:00:50",
+      "content": "",
+      "retrievedAt": "2025-08-26 19:05:58.649545",
+      "internal_id": "16e54fc1fbda95b6ae6d4eca8959b5f2842c23c93413394294f564c8e4599702",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24067,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Garattoni",
+      "title": "3 not\u00edcias sobre: ovos",
+      "description": "Depois do v\u00edrus H5N1, agora eles sofrem outra amea\u00e7a: a pol\u00edtica.",
+      "url": "https://super.abril.com.br/sociedade/3-noticias-sobre-ovos/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2025/08/SI_478_Novas_Ovos.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-08-25 17:00:33",
+      "content": "M\u00eas dos Pais: Revista em casa a partir de 9,90 (Getty Images/Montagem sobre reprodu\u00e7\u00e3o) Continua ap\u00f3s publicidade Pre\u00e7o do produto dispara na EuropaOs ovos est\u00e3o 6,7% mais caros, no Velho Continent\u2026 [+1355 chars]",
+      "retrievedAt": "2025-08-26 19:05:57.891374",
+      "internal_id": "01a05d33fd560bac86af0078d1296333f2ca1e0f1e091ea4c56bb22ec4c23032",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24088,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Wegen schwerwiegender Nebenwirkungen: US-Beh\u00f6rde stoppt Chikungunya-Impfstoff von Valneva",
+      "description": "Die FDA hat die Zulassung f\u00fcr Valneva\u2019s Chikungunya-Impfstoff Ixchiq wegen schwerer Nebenwirkungen ausgesetzt. Der Verkauf in den USA muss eingestellt werden. Die Valneva-Aktie brach daraufhin ein.",
+      "url": "https://www.tagesspiegel.de/wissen/wegen-schwerwiegender-nebenwirkungen-us-behorde-stoppt-chikungunya-impfstoff-von-valneva-14226461.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14226464/alternates/BASE_16_9_W1400/1756139215000/files-france-health-virus-vaccine-research-economy.jpeg",
+      "publishedAt": "2025-08-25 16:37:17",
+      "content": "Die US-Arzneimittelbeh\u00f6rde FDA hat die Zulassung f\u00fcr den Chikungunya-Impfstoff Ixchiq des franz\u00f6sisch-\u00f6sterreichischen Herstellers Valneva ausgesetzt. Grund seien Berichte \u00fcber mehr als 20 schwerwieg\u2026 [+3048 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.823799",
+      "internal_id": "5a443a2a3c0725b5d5dbe402eda2afec17adc6652686387c580cf3d760266f1d",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24095,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 63 i casi di Chikungunya nel Modenese, nessuno grave",
+      "description": "Salgono a 63 i casi accertati di Chikungunya in provincia di Modena. Si tratta di 25 uomini e 38 donne, compresi tra i 14 e i 98 anni. Nessuno \u00e8 in gravi condizioni di salute. (ANSA)",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2025/08/25/salgono-a-63-i-casi-di-chikungunya-nel-modenese-nessuno-grave_abf0d389-9757-4a91-aff2-a9ce63481bdc.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2025-08-25 15:47:11",
+      "content": "BOLOGNA, 25 AGO - Salgono a 63 i casi accertati di Chikungunya in provincia di Modena. Si tratta di 25 uomini e 38 donne, compresi tra i 14 e i 98 anni. Nessuno \u00e8 in gravi condizioni di salute. Ne d\u00e0\u2026 [+1588 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.966429",
+      "internal_id": "c2c7d61a41c8803cb7416a15758f1851507b150253077d9753fa128007653fca",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24089,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "EUA suspende vacina contra chikungunya ap\u00f3s efeitos colaterais graves",
+      "description": "A FDA j\u00e1 havia suspendido temporariamente a aplica\u00e7\u00e3o da vacina em pessoas acima de 60 anos. Imunizante foi autorizado no Brasil em abril",
+      "url": "https://www.metropoles.com/saude/eua-suspende-vacina-chikungunya",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/07/16154358/vacina-vacinacao.jpg",
+      "publishedAt": "2025-08-25 15:12:21",
+      "content": "A vacina contra chikungunya Ixchiq, desenvolvida pela farmac\u00eautica franco-austr\u00edaca Valneva em parceria com o Instituto Butantan, teve a licen\u00e7a suspensa nos Estados Unidos na sexta-feira (22/8). A \u2026 [+2423 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.847449",
+      "internal_id": "1ba0491ee23c0770ea1de9e698b49df2c2f19e1506fdab14baca777b388021ab",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24094,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "EUA suspendem vacina contra chikungunya ap\u00f3s efeitos adversos",
+      "description": "Imunizante Ixchiq, da Valneva, \u00e9 aprovado no Brasil",
+      "url": "https://saude.ig.com.br/2025-08-25/eua-suspendem-vacina-contra-chikungunya-apos-efeitos-adversos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/44/qr/hq/44qrhqk2brhwx1mn90rw65lds.jpg",
+      "publishedAt": "2025-08-25 14:37:16",
+      "content": "A Food and Drug Administration (FDA), ag\u00eancia reguladora de medicamentos dos Estados Unidos, anunciou a suspens\u00e3o da vacina contra a chikungunya Ixchiq, desenvolvida pela farmac\u00eautica franco-austr\u00ed\u2026 [+2696 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.950282",
+      "internal_id": "9169f40a25a6215f6bfbd40cc3fd33631c7ece243bd5da882fcdd9d3c5ca6bce",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24075,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "FIT FOR FUN",
+      "author": "Deutsche Presse-Agentur (dpa)",
+      "title": "\"Kann lebensbedrohlich sein\": Lola Weippert hatte Meningitis \u2013 darum ist die Krankheit so gef\u00e4hrlich",
+      "description": "Hirnhautentz\u00fcndungen k\u00f6nnen vielf\u00e4ltige Ursachen haben und unterschiedlich verlaufen. Eine schnelle Diagnose ist entscheidend, da sie lebensbedrohlich sein kann und fr\u00fchzeitige Behandlung Komplikationen verhindert.",
+      "url": "https://www.fitforfun.de/news/gesundheit-meningitis-wie-bei-lola-weippert-gefahr-fuers-gehirn-766041.html",
+      "urlToImage": "https://www.fitforfun.de/files/images/202508/1/lola-weippert,766073_3x2_n.jpg",
+      "publishedAt": "2025-08-25 14:23:00",
+      "content": "Gerade bakteriell verursachte Hirnhautentz\u00fcndungen k\u00f6nnen schnell lebensbedrohlich werden, weil sie meistens auch auf das Gehirn selbst \u00fcbergreifen und eine Meningoenzephalitis ausl\u00f6sen. Nach einem s\u2026 [+740 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.405081",
+      "internal_id": "910a13567c4021b7f204a51976bf49648ce451eb04e802122ec85d12bb69e373",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24066,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "A parents\u2019 guide to back-to-school vaccinations",
+      "description": "Health officials stress importance of immunizations as measles, mumps and whooping cough cases increase across the state.",
+      "url": "https://www.mlive.com/news/2025/08/a-parents-guide-to-back-to-school-vaccinations.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/YYT6MRFHVVCEHLF5LEZ26EICXY.jpg?auth=cdef1c8f180bfce590a9da5fff5279f2f3d989b6e97aa07703fa46761e35b27d&width=1280&quality=90",
+      "publishedAt": "2025-08-25 14:17:28",
+      "content": "A new school year is upon us, bringing with it a long list of to-dos for Michigan parents. Among the top priorities, according to health officials, is ensuring children are up-to-date on their recom\u2026 [+4773 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.846880",
+      "internal_id": "8ed6474b0f52fdc397c8e4fe3825742a1850ab7ddc21eb792d80f41be7c232ae",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24072,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "L\u00e9a Loisel, Vincent Raquin, Maxime Ratinier, Pauline Ezanno, Ga\u00ebl Beaun\u00e9e",
+      "title": "Intra-vector infection dynamics challenge how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya",
+      "description": "Author summary To tackle the worldwide threat posed by arboviruses like dengue, chikungunya, and Zika, we need accurate and reliable epidemiological models to better understand transmission dynamics, rank possible interventions, and provide timely support to \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013393",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013393.g003&size=inline",
+      "publishedAt": "2025-08-25 14:00:00",
+      "content": "Citation: Loisel L, Raquin V, Ratinier M, Ezanno P, Beaun\u00e9e G (2025) Intra-vector infection dynamics challenge how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and ch\u2026 [+47792 chars]",
+      "retrievedAt": "2025-08-26 19:05:58.679924",
+      "internal_id": "3decfbe5ba55df36ec52784e06a763fd92c67e4040b8fdc304cefa1d368d5ba7",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24073,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tecmundo.com.br",
+      "author": "Equipe TecMundo",
+      "title": "M\u00fasica eletr\u00f4nica reduz chance de picadas do Aedes aegypti, revela estudo",
+      "description": "Pesquisa mostra que certas batidas confundem animal vetor da dengue e pioram at\u00e9 desempenho do mosquito na reprodu\u00e7\u00e3o.",
+      "url": "https://www.tecmundo.com.br/ciencia/406562-musica-eletronica-reduz-chance-de-picadas-do-aedes-aegypti-revela-estudo.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2025/08/25/25091433656047.jpg?ims=1600x900/filters:format(jpg)",
+      "publishedAt": "2025-08-25 14:00:00",
+      "content": "Pesquisadores de uma universidade na Mal\u00e1sia descobriram um aliado improv\u00e1vel contra o Aedes aegypyi, mosquito vetor de v\u00e1rias doen\u00e7as e comum no Brasil. Como mostra o estudo um estudo, um ambiente d\u2026 [+3354 chars]",
+      "retrievedAt": "2025-08-26 19:05:58.703500",
+      "internal_id": "98ad478098a05bc6d83194da58652ef9963e636a56c0f69675ad5cf37183c9fe",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24080,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kien Trung Tran, Tran Dang Nguyen, Daniel B. Weissman, Eric Zhewen Li, Sachel Mok, Jennifer L. Small-Saunders, Teun Bousema, Robert J. Zupko, Thu Nguyen-Anh Tran, Maciej F. Boni",
+      "title": "Effects of recombination on multi-drug resistance evolution in Plasmodium falciparum malaria",
+      "description": "Author summary Malaria remains one of the world\u2019s leading causes of infectious disease morbidity and mortality despite major improvements in interventions over the past 25 years. One of the biggest challenges in malaria control is drug-resistance management, \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013401",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013401.g006&size=inline",
+      "publishedAt": "2025-08-25 14:00:00",
+      "content": "Abstract When multiple beneficial alleles at multiple loci are present in a population but not linked together in any one individual, there is no general evolutionary result that determines whether \u2026 [+67832 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.959021",
+      "internal_id": "c81597504346e7758407d3baee46ba6ba4f46bcad3af505cb52b9a16082bfa62",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24087,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Usine Nouvelle",
+      "author": "L'Usine Nouvelle",
+      "title": "L'autorit\u00e9 de sant\u00e9 am\u00e9ricaine suspend le vaccin de Valneva contre le chikungunya",
+      "description": "Valneva subit un s\u00e9rieux revers apr\u00e8s la suspension par la FDA de la licence de son vaccin contre le chikungunya aux \u00c9tats-Unis, entra\u00eenant une chute de pr\u00e8s de 24% de son titre \u00e0 la Bourse de Paris. Le groupe \u00e9value l\u2019impact de cette d\u00e9cision alors que ses e\u2026",
+      "url": "https://www.usinenouvelle.com/article/valneva-l-autorite-de-sante-americaine-suspend-le-vaccin-ixchiq-aux-etats-unis.N2236566",
+      "urlToImage": "https://www.usinenouvelle.com/mediatheque/0/6/4/001530460_896x598_c.jpg",
+      "publishedAt": "2025-08-25 13:49:00",
+      "content": "Valneva a annonc\u00e9 lundi que l'autorit\u00e9 de sant\u00e9 am\u00e9ricaine, la Food and drug administration (FDA), avait suspendu la licence de son vaccin contre le chikungunya IXCHIQ aux \u00c9tats-Unis, provoquant une \u2026 [+2115 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.814722",
+      "internal_id": "0685a17824d5e475a49a6abb424b95f02ae4cf632a3c60c8e035b9006c45168f",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24096,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": null,
+      "title": "Valneva-Aktien fallen um 20 Prozent: US-Beh\u00f6rde stoppt Valneva Impfstoff gegen Chikungunya-Fieber",
+      "description": "Die US-Arzneimittelbeh\u00f6rde FDA setzt die Zulassung f\u00fcr einen Impfstoff gegen das Chikunguya-Fieber aus. Grund sind schwerwiegende Nebenwirkungen.",
+      "url": "https://taz.de/Valneva-Aktien-fallen-um-20-Prozent/!6109427/",
+      "urlToImage": "https://taz.de/picture/7890848/1200/imago678961562-1.jpeg",
+      "publishedAt": "2025-08-25 13:44:00",
+      "content": "Die US-Arzneimittelbeh\u00f6rde FDA setzt die Zulassung f\u00fcr einen Impfstoff gegen das Chikunguya-Fieber aus. Grund sind schwerwiegende Nebenwirkungen. mehr...",
+      "retrievedAt": "2025-08-26 19:06:01.990128",
+      "internal_id": "c08c1b82e04e5fbd1c4c4ea9aa95d0555d594f1207bc5a4dcc10fefe445fc610",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24059,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Crookedtimber.org",
+      "author": "Harry",
+      "title": "Dogs bite men (and a little girl).",
+      "description": "My friend was bitten by a dog this summer. For British readers: being bitten by a dog elsewhere in the world isn\u2019t merely painful, scary and shocking. It brings with it a real possibility of rabies. For non-British reader \u2013 really, I\u2019m not making this up, the\u2026",
+      "url": "https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-25 13:23:53",
+      "content": "My friend was bitten by a dog this summer. For British readers: being bitten by a dog elsewhere in the world isnt merely painful, scary and shocking. It brings with it a real possibility of rabies. F\u2026 [+5270 chars]",
+      "retrievedAt": "2025-08-26 19:05:55.667499",
+      "internal_id": "9662da76bf93a9aeaab96e6dbb5a9db87b5b928f552828eaf661805a893ea2b8",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24068,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "La inteligencia artificial se convierte en arma clave contra el dengue: diagn\u00f3stico veloz y predicci\u00f3n de brotes",
+      "description": "La inteligencia artificial empieza a transformar la lucha contra el dengue. Desde sensores port\u00e1tiles que detectan complicaciones graves hasta algoritmos que anticipan epidemias, los avances recientes muestran c\u00f3mo la IA puede mejorar el diagn\u00f3stico, guiar a \u2026",
+      "url": "https://es.gizmodo.com/la-inteligencia-artificial-se-convierte-en-arma-clave-contra-el-dengue-diagnostico-veloz-y-prediccion-de-brotes-2000187924",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/08/Gizmodo-7-8-1200x675.jpg",
+      "publishedAt": "2025-08-25 13:14:55",
+      "content": "El dengue es una de las enfermedades virales transmitidas por mosquitos m\u00e1s extendidas del planeta. Cada a\u00f1o afecta a millones de personas y genera emergencias sanitarias en Am\u00e9rica Latina, Asia y, c\u2026 [+2778 chars]",
+      "retrievedAt": "2025-08-26 19:05:58.564943",
+      "internal_id": "e68edb4e7fcf406bf8b198e22133e1b86e47274d417bf3d00ccc0fe71f12a545",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24070,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Apparition \u00e0 Etterbeek, confirmation \u00e0 Ath: le moustique tigre observ\u00e9 dans 7 communes belges",
+      "description": "Des moustiques tigres ont d\u00e9j\u00e0 \u00e9t\u00e9 signal\u00e9s dans sept communes belges durant cette saison des moustiques 2025. Inqui\u00e9tant: l'insecte tropical passe d\u00e9sormais l'hiver. ...",
+      "url": "https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/3CLL26P2Q5AQDOPPVG33PXT3YI.jpg?auth=dd8fd40efaacd89602abdd4e8517a74696bed6b3d9633ca07b6fbf80845ebfc9&width=1200&height=630&quality=85&focal=2592%2C1728&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-08-25 13:08:19",
+      "content": "Toute l'ann\u00e9e Le moustique tigre est une esp\u00e8ce d'insecte invasif qui peut transmettre des virus comme la dengue, le chikungunya ou le zika. Les deux instituts tentent ainsi de cartographier au mieu\u2026 [+1126 chars]",
+      "retrievedAt": "2025-08-26 19:05:58.640852",
+      "internal_id": "a8e384215bb224f602382909405580717a0f0d33c8f23db4f8b4c10322865958",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24084,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0398\u03b5\u03cc\u03c6\u03b9\u03bb\u03bf\u03c2 \u039c\u03c0\u03bb\u03bf\u03c5\u03b4\u03ac\u03bd\u03b7\u03c2",
+      "title": "\u03a1\u03b1\u03b3\u03b4\u03b1\u03af\u03b1 \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd chikungunya \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u2013 \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03b5 \u0393\u03b1\u03bb\u03bb\u03af\u03b1 \u03ba\u03b1\u03b9 \u0399\u03c4\u03b1\u03bb\u03af\u03b1",
+      "description": "\u039f \u03b9\u03cc\u03c2 \u03c0\u03bf\u03c5 chikungunya \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03c3\u03af\u03bc\u03c0\u03b7\u03bc\u03b1 \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03bf\u03cd \u03b5\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c4\u03b1\u03c7\u03cd\u03c4\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7 \u03bd\u03cc\u03c4\u03b9\u03b1 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7. \u039c\u03cc\u03bd\u03bf \u03bc\u03ad\u03c3\u03b1 \u03c3\u03b5 \u03bc\u03af\u03b1 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1, \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd 45 \u03bd\u03ad\u03b1 \u03b5\u03b3\u03c7\u03ce\u03c1\u03b9\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7 \u0393\u03b1\u03bb\u03bb\u03af\u03b1 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u03a1\u03b1\u03b3\u03b4\u03b1\u03af\u03b1 \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd chikungunya \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u2013 \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03b5 \u0393\u03b1\u03bb\u03bb\u03af\u03b1 \u03ba\u2026",
+      "url": "https://www.newsit.gr/kosmos/ragdaia-eksaplosi-tou-iou-chikungunya-stin-eyropi-synagermos-se-gallia-kai-italia/4458207/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/08/kounoupi-eurok-scaled-1-1200x630.jpg",
+      "publishedAt": "2025-08-25 13:07:57",
+      "content": "chikungunya . , 45 22 , - 2025, &amp; (ECDC). ECDC, , . chikungunya () . . . . () . chikungunya , 2004-2005. . , 2025 317.000 16 . , , . , 135 . , . 2025, 185.553 . 4.721 2.836. (R\u00e9union\u2026 [+92 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.788865",
+      "internal_id": "efc5dba65b1953ab0dd5b359a58a6e10b8c6a900e5282496cb3324224b597733",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24063,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "TRISNADI Associated Press, EDNA TARIGAN Associated Press",
+      "title": "Indonesia launches a measles vaccination campaign after 17 die in an outbreak",
+      "description": "Indonesian authorities have rolled out a vaccination campaign in response to an outbreak that has caused 17 deaths",
+      "url": "https://abcnews.go.com/Health/wireStory/indonesia-launches-measles-vaccination-campaign-after-17-die-124947633",
+      "urlToImage": "https://i.abcnewsfe.com/a/ec0142db-bbe5-41a5-ad41-4daf836617af/wirestory_22f70a5864e3cf08ca4c1c8782d07ec3_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-25 13:02:14",
+      "content": "SUMENEP, Indonesia -- Hundreds of children in Indonesia lined up for free measles shots Monday as authorities rolled out a vaccination campaign in response to an outbreak that has caused 17 deaths. \u2026 [+1743 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.789907",
+      "internal_id": "1e522c3ac469bc0bf17cd48718c8e416d941e438b29a10d04dc77f3ef1078b74",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24065,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, August 25, 2025",
+      "description": "",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-august-25-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-25 12:38:35",
+      "content": "Flesh-Eating Screwworm Found In Md. Patient Is First Case Linked To Travel The person had traveled to El Salvador. Other outbreak news is on West Nile virus, measles, and covid. Also: air pollution,\u2026 [+5596 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.822944",
+      "internal_id": "fe6b1469df88a91a1e9895ab9267acf4f412bb8a9e95a6f715505de02245ca19",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24093,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "FDA Update on the Safety of Ixchiq (Chikungunya Vaccine, Live). FDA Suspends Biologics License: FDA Safety Communication",
+      "description": "On August 22, 2025,the US FDA\u2019s Center for Biologics Evaluation and Research has suspended the biologics license for Valneva Austria GmbH\u2019s Ixchiq (Chikungunya Vaccine, Live). This vaccine was initially approved by FDA under the accelerated approval pathway i\u2026",
+      "url": "https://www.fda.gov/safety/medical-product-safety-information/fda-update-safety-ixchiq-chikungunya-vaccine-live-fda-suspends-biologics-license-fda-safety",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-08-25 12:24:45",
+      "content": "AUDIENCE: Patient, Health Care Professional, Pharmacy, Cardiology, Neurology, Internal Medicine, Family Practice, Travel Clinics UPDATE: On August 22, 2025, the US FDAs Center for Biologics Evaluati\u2026 [+3108 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.926041",
+      "internal_id": "c3c491809b6d13f38fa8ec2799a858e149ad6c578c0479ceb495b1ddb6e96d15",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24099,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Kevesko.vn",
+      "author": "Sputnik Vi\u1ec7t Nam",
+      "title": "Vi\u1ec7t Nam ch\u01b0a ph\u00e1t hi\u1ec7n ca b\u1ec7nh Chikungunya",
+      "description": "B\u1ed9 Y t\u1ebf kh\u1eb3ng \u0111\u1ecbnh, t\u00ednh t\u1eeb \u0111\u1ea7u n\u0103m 2025 \u0111\u1ebfn nay, ch\u01b0a ph\u00e1t hi\u1ec7n b\u1ea5t k\u1ef3 ca m\u1eafc Chikungunya n\u00e0o t\u1ea1i Vi\u1ec7t Nam.",
+      "url": "https://kevesko.vn/20250825/viet-nam-chua-phat-hien-ca-benh-chikungunya-37892159.html",
+      "urlToImage": "https://cdn.img.kevesko.vn/images/sharing/article/vie/37892159.jpg?378918231756116700",
+      "publishedAt": "2025-08-25 10:11:39",
+      "content": "https://kevesko.vn/20250825/viet-nam-chua-phat-hien-ca-benh-chikungunya-37892159.html Vit Nam cha ph\u00e1t hin ca bnh Chikungunya Vit Nam cha ph\u00e1t hin ca bnh Chikungunya B Y t khng nh, t\u00ednh t u nm 202\u2026 [+7130 chars]",
+      "retrievedAt": "2025-08-26 19:06:02.046805",
+      "internal_id": "dd97a717728bbe09b779ecc676af9aedcb021d42b5289a74bf1927b98232a7ef",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24101,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0412\u0435\u0440\u0431\u043b\u044e\u0434\u044b \u0438\u0437 \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0432\u0448\u0435\u0433\u043e\u0441\u044f \u0432 \u0420\u0443\u043c\u044b\u043d\u0438\u0438 \u043a\u0430\u0440\u0430\u0432\u0430\u043d-\u0441\u0430\u0440\u0430\u044f \u043f\u043e\u0441\u0442\u0440\u0430\u0434\u0430\u043b\u0438 \u043e\u0442 \u0447\u0443\u043c\u044b",
+      "description": "\u041f\u0430\u043b\u0435\u043e\u0431\u0438\u043e\u043b\u043e\u0433\u0438 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0414\u041d\u041a \u043c\u0438\u043a\u0440\u043e\u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u043e\u0432, \u0432\u044b\u0434\u0435\u043b\u0435\u043d\u043d\u0443\u044e \u0438\u0437 \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b\u0445 \u043e\u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0432\u0435\u0440\u0431\u043b\u044e\u0434\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438 \u0440\u0430\u0441\u043a\u043e\u043f\u0430\u043b\u0438 \u0432 \u0420\u0443\u043c\u044b\u043d\u0438\u0438 \u043d\u0430 \u043c\u0435\u0441\u0442\u0435 \u043d\u0435\u043a\u043e\u0433\u0434\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u0432\u0448\u0435\u0433\u043e \u043a\u0430\u0440\u0430\u0432\u0430\u043d-\u0441\u0430\u0440\u0430\u044f. \u041e\u043d\u0438 \u043f\u0440\u0438\u0448\u043b\u0438 \u043a \u0432\u044b\u0432\u043e\u0434\u0443, \u0447\u0442\u043e \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c \u0434\u0432\u0430 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0443\u043c\u0435\u0440\u0448\u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0432 XVII \u0432\u0435\u043a\u2026",
+      "url": "https://nplus1.ru/news/2025/08/25/camels-with-plague",
+      "urlToImage": "https://minio.nplus1.ru/app-images/1042717/68ac1cbd7db61_cover_share.jpeg",
+      "publishedAt": "2025-08-25 10:02:00",
+      "content": ", -. , , XVII , , . , Infection, Genetics and Evolution, , . , (Yersinia pestis) . , . , XIV , . 13461353 , 1015 , \u00ab \u00bb. : - . . (Michel Drancourt) - , , . 2000- \u2026 [+181 chars]",
+      "retrievedAt": "2025-08-26 19:06:04.219644",
+      "internal_id": "80b9f32259812fddb084c1edd1eb1172998ca5c99940a464e506546ba1052ed5",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24081,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Chikungunya : les Etats-Unis suspendent le vaccin Valneva",
+      "description": "Les autorit\u00e9s sanitaires am\u00e9ricaines appuient leur d\u00e9cision sur de nouveaux signalements d\u2019effets secondaires, a annonc\u00e9 lundi 25 ao\u00fbt le groupe Valneva.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-les-etats-unis-suspendent-le-vaccin-valneva-20250825_3TKFWZ3QKZHT7NPZXSLNKPJ5VY/",
+      "urlToImage": "https://www.liberation.fr/resizer/v2/TG6TBZZDF5EBTKAFCBWOTPLXOY.jpg?smart=true&auth=6f8a8ba45de5823b59984b988ee0c31d83641906e644d1dd46ed34cfec52dd5e&quality=70&width=1200&height=630",
+      "publishedAt": "2025-08-25 09:35:57",
+      "content": "Mauvaise nouvelle pour le laboratoire franco-autrichien Valneva. Les Etats-Unis ont suspendu la licence de son vaccin contre le chikungunya, en raison de \u00abquatre nouveaux cas deffets ind\u00e9sirables gra\u2026 [+2390 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.696431",
+      "internal_id": "c079653330c0c1acccc3e7f0453892fbdaee2e2db174d366efeb0be0fe044e3f",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24074,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Emma Firlus",
+      "title": "Lola Weippert wegen Hirnhautentz\u00fcndung im Krankenhaus",
+      "description": "Eine Meningitis kann lebensgef\u00e4hrlich werden, wenn sie sp\u00e4t erkannt wird. Welche Symptome typisch sind \u2013 und wie man sich sch\u00fctzt.",
+      "url": "https://www.morgenpost.de/panorama/article409829938/lola-weippert-wegen-hirnhautentzuendung-im-krankenhaus.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/409830009/409830009_1756114328_v16_9_1600.jpeg",
+      "publishedAt": "2025-08-25 09:32:08",
+      "content": "Berlin. Eine Meningitis kann lebensgef\u00e4hrlich werden, wenn sie sp\u00e4t erkannt wird. Welche Symptome typisch sind und wie man sich sch\u00fctzt. RTL-Moderatorin Lola Weippert hat ihre Fans mit einer ernsten\u2026 [+2522 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.388486",
+      "internal_id": "36b708a9a6647487fc840b1f00b58bf668591299aa591478bd2315a93878b11a",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24098,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "USA pozastavili o\u010dkovanie vakc\u00ednou Ixchiq proti v\u00edrusu chikungunya",
+      "description": "Vakc\u00ednu vyvinula spolo\u010dnos\u0165 Valneva.",
+      "url": "https://spravy.pravda.sk/svet/clanok/764508-usa-pozastavili-ockovanie-vakcinou-ixchiq-proti-virusu-chikungunya/",
+      "urlToImage": "http://ipravda.sk/res/2022/01/07/thumbs/vakcina-ockovanie-moderna-clanokW.jpg",
+      "publishedAt": "2025-08-25 09:15:00",
+      "content": "Americk\u00e9 \u00farady pozastavili platnos licencie vakc\u00edny Ixchiq proti v\u00edrusu chikungunya, ktor\u00fd \u00edria kom\u00e1re. D\u00f4vodom bolo viacero spr\u00e1v o jej z\u00e1van\u00fdch neiaducich \u00fainkoch, ozn\u00e1mila v pondelok franc\u00fazska bi\u2026 [+2553 chars]",
+      "retrievedAt": "2025-08-26 19:06:02.038039",
+      "internal_id": "384e7c749d725928ff302a70b387280fc6a19e025c57b78330213dca31a8b253",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24060,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "As measles surged, Trump administration's actions hampered CDC response",
+      "description": "Trump officials sowed fear and confusion among CDC scientists, slowing their response to the measles outbreak in West Texas.",
+      "url": "https://www.cbsnews.com/news/measles-texas-trump-administration-cdc-response/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/22/374f7ebb-1c25-4631-865d-8c6239d47554/thumbnail/1200x630/709761d340da964d29eaa7e31fb9496f/gettyimages-2201702412.jpg",
+      "publishedAt": "2025-08-25 09:00:16",
+      "content": "As measles surged in Texas early this year, the Trump administration's actions sowed fear and confusion among CDC scientists that kept them from performing the agency's most critical function \u2014 emerg\u2026 [+18483 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.755537",
+      "internal_id": "f75607dcc8b4384033ea46d5bb317c04433573e5283f8c313bebf3d9c398c523",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24061,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "As Measles Exploded, Officials in Texas Looked to CDC Scientists. Under Trump, No One Answered.",
+      "description": "Trump officials sowed fear and confusion among CDC scientists, slowing their response to the measles outbreak in West Texas. Cases surged and sparked new outbreaks across the U.S. and Mexico. Together, these linked outbreaks have sickened more than 4,500 and \u2026",
+      "url": "https://kffhealthnews.org/news/article/texas-measles-outbreak-cdc-vaccines-rfk-trump/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Lede-Illustration.jpg",
+      "publishedAt": "2025-08-25 09:00:00",
+      "content": "Amy MaxmenAs measles surged in Texas early this year, the Trump administration\u2019s actions sowed fear and confusion among CDC scientists that kept them from performing the agency\u2019s most critical functi\u2026 [+17449 chars]",
+      "retrievedAt": "2025-08-26 19:05:56.765274",
+      "internal_id": "63e69e7f2249ebb26b49cf4796c3800b2b4863907dcc49b0794ad17bbc9cb190",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24092,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : le vaccin Ixchiq suspendu aux Etats-Unis apr\u00e8s de nouveaux effets ind\u00e9sirables",
+      "description": "Le vaccin du laboratoire Valneva avait d\u00e9j\u00e0 \u00e9t\u00e9 suspendu par la France et l\u2019Union europ\u00e9enne chez les personnes de plus de 65 ans, \u00e0 la suite d\u2019effets secondaires graves.",
+      "url": "https://www.lemonde.fr/sante/article/2025/08/25/chikungunya-le-vaccin-ixchiq-suspendu-aux-etats-unis-apres-de-nouveaux-effets-indesirables_6634866_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2025/06/25/0/0/6000/4000/1440/960/60/0/7885a68_ftp-import-images-1-jurwrl48zjjq-5246907-01-06.jpg",
+      "publishedAt": "2025-08-25 08:43:03",
+      "content": "Le vaccin Ixchiq, d\u00e9velopp\u00e9 par le laboratoire franco-autrichien Valneva, a \u00e9t\u00e9 utilis\u00e9 dans la lutte contre l\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union. RICHARD BOUHET / AFP Les autorit\u00e9s sanitaires am\u00e9r\u2026 [+3023 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.909937",
+      "internal_id": "e807c25728d01ccfef017425744487407e46044a832784f7c248fd90698a512b",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24076,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Leute: Lola Weippert hatte drei Wochen Meningitis-Zwangspause",
+      "description": "Lola Weippert kam w\u00e4hrend ihres Sommerurlaubs mit einer Hirnhautentz\u00fcndung ins Krankenhaus. Nun ist die Moderatorin nach eigenen Worten wieder bereit durchzustarten.",
+      "url": "https://www.stern.de/kultur/tv/leute--lola-weippert-hatte-drei-wochen-meningitis-zwangspause-35998510.html",
+      "urlToImage": "https://image.stern.de/35998512/t/Ne/v1/w1440/r1.7778/-/25--uohjsuf3hjv6axs2048jpeg---bf670c2c697e2eaf.jpg",
+      "publishedAt": "2025-08-25 08:16:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Lola Weippert kam w\u00e4hrend ihres Sommerurlaubs mit einer Hirnhautentz\u00fcndung ins Krankenhaus. Nun ist die Moderatorin nach eigenen Worten wieder be\u2026 [+8916 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.414203",
+      "internal_id": "6b7d79ee710ca6563e8f90cd5b7606c49a0e5a86fc686e5041fea97e3aee9197",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24097,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Le vaccin de Valneva contre le chikungunya suspendu aux Etats-Unis apr\u00e8s de nouveaux effets ind\u00e9sirables",
+      "description": "Ce vaccin est l'un des premiers \u00e0 \u00eatre d\u00e9velopp\u00e9s contre la maladie virale, transmise d'un humain \u00e0 l'autre par des piq\u00fbres de moustiques.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/le-vaccin-de-valneva-contre-le-chikungunya-suspendu-aux-etats-unis-apres-de-nouveaux-effets-indesirables_7453684.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/0pssZYSWt3cLgeKJE87mCzRkL-U/0x0:1024x575/1500x843/2025/08/25/000-39eb89d-68ac18f738eed642658237.jpg",
+      "publishedAt": "2025-08-25 08:06:43",
+      "content": "Les autorit\u00e9s sanitaires am\u00e9ricaines ont suspendu l'autorisation du vaccin contre le chikungunya d\u00e9velopp\u00e9 par le laboratoire franco-autrichien Valneva, appuyant leur d\u00e9cision sur de nouveaux signale\u2026 [+1783 chars]",
+      "retrievedAt": "2025-08-26 19:06:02.029483",
+      "internal_id": "e11369bd352f09e04eca59599d2a62943a4b1af7a1b14a317ec2f4736cb957b3",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24078,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Lisa Klugmayer",
+      "title": "Trotz Schock-Diagnose: Oliver Pocher \u00e4tzt erneut gegen Lola Weippert",
+      "description": "Lola Weippert lag mit einer Hirnhautentz\u00fcndung im Krankenhaus. Doch Oliver Pocher kann es nicht lassen und macht sich auch nach dieser Diagnose \u00fcber die Moderatorin lustig.",
+      "url": "https://www.focus.de/kultur/stars/trotz-schock-diagnose-oliver-pocher-aetzt-erneut-gegen-lola-weippert_97e81af5-e571-41b2-bd80-c4918eb720b2.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/96ae4e7f-80a3-4fda-9e0f-8a2429ecf427.2d4b8f53-580e-4d1a-80df-e41ab48f9314.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%282383%2C444%29&hash=7cc7f878b6cc0cfcf1301e81336e503fcda1be12e237b9763dd6d0525020e1a4",
+      "publishedAt": "2025-08-25 07:59:19",
+      "content": "Nach drei Wochen Zwangspause ist Lola Weippert (29) wieder zur\u00fcck. Die RTL-Moderatorin hat ihre Meningitis gut \u00fcberstanden und teilt ihre Freude nat\u00fcrlich mit ihren Instagram-Fans. Doch einer findet \u2026 [+1351 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.446856",
+      "internal_id": "19d682557ce4287ffe5e129aa5c84a4bf98a02f9e5245689da477cf310cb3e50",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24079,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Lisa Klugmayer",
+      "title": "Schock-Diagnose bei Lola Weippert \u2013 Pocher stichelt trotzdem",
+      "description": "Lola Weippert lag mit einer Hirnhautentz\u00fcndung im Krankenhaus. Doch Oliver Pocher kann es nicht lassen und macht sich auch nach dieser Diagnose \u00fcber die Moderatorin lustig.",
+      "url": "https://www.focus.de/kultur/stars/schock-diagnose-bei-lola-weippert-pocher-stichelt-trotzdem_97e81af5-e571-41b2-bd80-c4918eb720b2.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/96ae4e7f-80a3-4fda-9e0f-8a2429ecf427.2d4b8f53-580e-4d1a-80df-e41ab48f9314.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%282383%2C444%29&hash=7cc7f878b6cc0cfcf1301e81336e503fcda1be12e237b9763dd6d0525020e1a4",
+      "publishedAt": "2025-08-25 07:59:19",
+      "content": "Nach drei Wochen Zwangspause ist Lola Weippert (29) wieder zur\u00fcck. Die RTL-Moderatorin hat ihre Meningitis gut \u00fcberstanden und teilt ihre Freude nat\u00fcrlich mit ihren Instagram-Fans. Doch einer findet \u2026 [+1351 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.455226",
+      "internal_id": "b75a03123273d0e35cc76b5cf00784effb555b306d87066fb69a60a7eb7aca38",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24091,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Gebruik van Valneva-vaccin tegen chikungunya opgeschort in VS wegens nieuwe bijwerkingen",
+      "description": "Het Amerikaanse departement voor Volksgezondheid heeft het gebruik van het Valneva-vaccin tegen de infectieziekte chikungunya opgeschort. Die beslissing is genomen nadat er nieuwe bijwerkingen waren opgedoken, zo heeft de Frans-Oostenrijkse vaccinfabrikant ma\u2026",
+      "url": "https://www.nieuwsblad.be/nieuws/gebruik-van-valneva-vaccin-tegen-chikungunya-opgeschort-in-vs-wegens-nieuwe-bijwerkingen/85658169.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/ctword-chiku.jpg/alternates/SIXTEEN_NINE_1200/chiku.jpg",
+      "publishedAt": "2025-08-25 07:55:41",
+      "content": "Ixchiq van het geneesmiddelenbedrijf Valneva is een van de eerste vaccins die bescherming biedt tegen chikungunya. Die ziekte wordt overgedragen door muggen, waaronder ook de tijgermug, en kan sympto\u2026 [+1322 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.886201",
+      "internal_id": "e15c61a319cee9489a75e07381af6e283b797f2e87063cb9c884269b5ce9643c",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24086,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Chikungunya : les \u00c9tats-Unis suspendent le vaccin de Valneva apr\u00e8s de nouveaux effets ind\u00e9sirables",
+      "description": "Ce lundi 25 ao\u00fbt, le laboratoire franco-autrichien Valneva a annonc\u00e9 la suspension imm\u00e9diate de son vaccin anti-chikungunya par les autorit\u00e9s sanitaires am\u00e9ricaines apr\u00e8s de nouveaux signalements d\u2019effets secondaires.",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-les-etats-unis-suspendent-le-vaccin-de-valneva-apres-de-nouveaux-effets-indesirables-3320bef6-817e-11f0-a77f-922a296422d8",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA4MmZlNDg3YWU4NzU0MTVjY2ZlOWRmMDA4ZDk5ZDcxZDE?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2ce19310577762d496fed8990dd15e40454ef302183938cdc920cbfb49a6c65a",
+      "publishedAt": "2025-08-25 07:37:06",
+      "content": "Les autorit\u00e9s sanitaires am\u00e9ricaines ont suspendu lautorisation du vaccin anti-chikungunya d\u00e9velopp\u00e9 par le laboratoire franco-autrichien Valneva, appuyant leur d\u00e9cision sur de nouveaux signalements \u2026 [+2644 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.806281",
+      "internal_id": "ed25f80974d144125ab8b26fb81fd64bd982f222ef8d1ea5cf6951c3354f6a11",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24090,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : le vaccin Ixchiq suspendu aux \u00c9tats-Unis apr\u00e8s de nouveaux effets ind\u00e9sirables",
+      "description": "Un temps suspendu en France et en Europe, le vaccin Ixchiq contre le chikungunya est d\u00e9sormais suspendu aux \u00c9tats-Unis apr\u00e8s la d\u00e9couverte d'effets ind\u00e9sirables.",
+      "url": "https://www.ledauphine.com/sante/2025/08/25/chikungunya-le-vaccin-ixchiq-suspendu-aux-etats-unis-apres-de-nouveaux-effets-indesirables",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/51B236E2-A497-4BF5-B292-C6DA14AC9212/FB1200/photo-1756106662.jpg",
+      "publishedAt": "2025-08-25 07:30:00",
+      "content": "Les autorit\u00e9s sanitaires am\u00e9ricaines ont suspendu l'autorisation du vaccin anti-chikungunya d\u00e9velopp\u00e9 par le laboratoire franco-autrichien Valneva, appuyant leur d\u00e9cision sur de nouveaux signalements\u2026 [+2408 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.863159",
+      "internal_id": "d2157a555156bfae0b45ae3251240c208d2fa746353d9abfd3f50964553ad521",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24083,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "US suspends chikungunya vaccine Ixchiq over 'serious' side effects: Valneva",
+      "description": "PARIS: US health authorities have suspended the licence for the Ixchiq vaccine against the chikungunya virus following reports of \"serious adverse events\", the drug's French maker said on Monday (Aug 25). Ixchiq is one of just two vaccines approved by the US \u2026",
+      "url": "https://www.channelnewsasia.com/world/us-suspend-chikungunya-vaccine-ixchiq-serious-side-effects-valneva-5312401",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--B6KlJ4LB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/25/000_37g83kd.jpg?itok=utZJjKQa",
+      "publishedAt": "2025-08-25 07:29:47",
+      "content": "PARIS: US health authorities have suspended the licence for the Ixchiq vaccine against the chikungunya virus following reports of \"serious adverse events\", the drug's French maker said on Monday (Aug\u2026 [+1233 chars]",
+      "retrievedAt": "2025-08-26 19:06:01.751389",
+      "internal_id": "284e44779b40bd6b50fccc8221b95fec65c4f342e0238c47a005f8cfa5955653",
+      "publishedAtLabel": "Aug 25"
+    },
     {
       "id": 24054,
       "query": [
@@ -19,6 +782,24 @@
       "content": "Auf Instagram erkl\u00e4rt RTL-Moderatorin Lola Weippert, dass sie aufgrund einer Hirnhautentz\u00fcndung, auch Meningitis genannt, im Krankenhaus liegt. Der Ernst der Lage scheint ihr bewusst: \"Mein Arzt mein\u2026 [+3064 chars]",
       "retrievedAt": "2025-08-26 07:07:44.671290",
       "internal_id": "fb1d0360ee1a41297c736e264e81490812244c2d57612f0aae30372c11af7e3b",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 24077,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Anika Jonas",
+      "title": "Lola Weippert mit Meningitis im Krankenhaus \u2013 wie Sie Hirnhautentz\u00fcndung vorbeugen",
+      "description": "RTL-Moderatorin Lola Weippert kam mit einer Hirnhautentz\u00fcndung ins Krankenhaus. Viren und Bakterien k\u00f6nnen eine Hirnhautentz\u00fcndung ausl\u00f6sen.",
+      "url": "https://www.focus.de/gesundheit/news/lola-weippert-mit-meningitis-im-krankenhaus-wie-sie-hirnhautentzuendung-vorbeugen_7fb8bc9b-c758-4e23-a1bf-3590c0f66816.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/5b5c355e-65e8-4610-852d-b56d125e4db6.99f3e8df-73a7-447b-b6e9-161359e36f91.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%28875%2C410%29&hash=4e070dbdddcffcd0f203458963400f16cb101bfb593eea71e3c6f32df70976d8",
+      "publishedAt": "2025-08-25 06:47:42",
+      "content": "Im Video oben: Gro\u00dfe Sorge um RTL-Moderatorin Lola WeippertAuf Instagram erkl\u00e4rt RTL-Moderatorin Lola Weippert, dass sie aufgrund einer Hirnhautentz\u00fcndung, auch Meningitis genannt, \u2026 [+3136 chars]",
+      "retrievedAt": "2025-08-26 19:05:59.437320",
+      "internal_id": "950968ce4a367a9dc6e9669531090281f1e1d6d2bcbd5032f3277fcb11b36b08",
       "publishedAtLabel": "Aug 25"
     },
     {
@@ -20074,295 +20855,6 @@
       "content": "Un total de 4 mil 945 contagios y 22 muertes, es el saldo que ha dejado el dengue en lo que va del a\u00f1o. En todo M\u00e9xico, 27 son las entidades afectadas por esta enfermedad viral. TE PUEDE INTERESAR: \u2026 [+1474 chars]",
       "retrievedAt": "2025-07-15 19:07:08.501111",
       "internal_id": "fc831df7c12cdc9f461efcf0ac23cb5301254ca176735403d2a25d8fb2f6dd00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue",
-      "description": "2025 \u00e9 o quarto ano seguido com mais de 1 milh\u00e3o de registros suspeitos da doen\u00e7a The post Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue appeared first on Giz Brasil.",
-      "url": "https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/Captura-de-tela-2025-07-01-192540.png",
-      "publishedAt": "2025-07-13 18:18:12",
-      "content": "Nos \u00faltimos tempos, por\u00e9m, parece n\u00e3o estar sendo assim. Em 2025, havia 1,23 milh\u00e3o de casos suspeitos registrados at\u00e9 o in\u00edcio de maio. \u00c9 uma queda importante (de 81,3%) em rela\u00e7\u00e3o ao anterior. O an\u2026 [+9795 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.538187",
-      "internal_id": "2d481df79eb38cc2bb601054be42c81eff819a652325439fe53d16598e06d180",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22942,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 - \u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 18 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1",
-      "description": "\u0397 \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7, \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u03c2 \u0398\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2\u00bb \u03c4\u03bf\u03bd 14\u03bf \u03b1\u03b9\u03ce\u03bd\u03b1, \u03b5\u03be\u03cc\u03bd\u03c4\u03c9\u03c3\u03b5 \u03ad\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bc\u03b9\u03c3\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2. \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
-      "url": "https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/laboratory-pixabay.jpg?itok=UXb_bvar",
-      "publishedAt": "2025-07-13 15:25:29",
-      "content": ", \u00ab \u00bb 14 , . , . 2007, . , . , \u00ab \u00bb 14 , . . , , (CDC). . Yersinia pestis. , , . , , , . , , , . \u00ab \u00bb, . DEET , , , . .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
-      "retrievedAt": "2025-07-14 19:07:06.131064",
-      "internal_id": "48f9dac6a77f8fae060311f7d5c6871f6bebbafb93e74eff2d29b95b26673878",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22943,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Jo\u00e3o Pedro Lima, Jo\u00e3o Pedro Lima",
-      "title": "Morador dos EUA morre de peste que devastou a Idade M\u00e9dia",
-      "description": "A infec\u00e7\u00e3o bacteriana \u00e9 conhecida por matar milh\u00f5es de pessoas na Europa no s\u00e9culo XIV",
-      "url": "https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bm/uq/fn/bmuqfnqt1k8te784n0ek03rgo.jpg",
-      "publishedAt": "2025-07-13 15:06:43",
-      "content": "Um morador do norte do Arizona, nos Estados Unidos, morreu de peste pneum\u00f4nica nesta sexta-feira (11), segundo autoridades de sa\u00fade. O paciente contraiu a bact\u00e9ria Yersinia pestis , conhecida por cau\u2026 [+1715 chars]",
-      "retrievedAt": "2025-07-14 19:07:06.156302",
-      "internal_id": "98f7a6861cc23c2a6f3e78acadab4cc8fac8847b00e697ba8e94347b85c9ea08",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22935,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds",
-      "description": "An avian influenza outbreak has been confirmed at a poultry farm in Odisha's Puri district, leading the state government to implement emergency measures. These measures include the mass culling of over 6,700 birds after the H5N1 virus was detected. Movement o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122419979,width-1200,height-630,imgsize-6512,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 13:25:39",
-      "content": "A bird flu outbreak has been confirmed in a poultry farm in Odisha's Puri district, prompting the state government to launch emergency containment measures, including mass culling of over 6,700 birds\u2026 [+1395 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.334296",
-      "internal_id": "bd0435aa8465a48864b42d1ae41f4c53e4b6bbcc3c602f82758bb6bd2426acc8",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22940,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Walter Willems",
-      "title": "Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde \u2013 mit Folgen bis heute",
-      "description": "Pest, Malaria, R\u00fcckfallfieber: Viele Infektionskrankheiten trafen den Menschen nicht zuf\u00e4llig. Eine neue Studie zeigt, wann und warum Erreger uns gezielt heimsuchten.",
-      "url": "https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/11545037/alternates/BASE_16_9_W1400/1713532816000/epstein-barr-virus-illustration-epstein-barr-virus-ebv-computer-illustration-ebv-also-known-as.jpeg",
-      "publishedAt": "2025-07-13 12:13:57",
-      "content": "Seit jeher wird der Mensch von Erkrankungen geplagt auch von Infektionskrankheiten. Doch erst ab einer bestimmten Phase der Geschichte handelte sich der Homo sapiens geh\u00e4uft Krankheitserreger ein sog\u2026 [+602 chars]",
-      "retrievedAt": "2025-07-14 19:07:04.255061",
-      "internal_id": "8fe14bfc26364f885b7f0ff73beedb09e98ae235d7a6fd026a3345bee4502869",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22931,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "HuffPost",
-      "author": "Jillian Wilson",
-      "title": "What To Do If There's A Measles Case In Your Area",
-      "description": "As measles cases hit a 30-year-high in the U.S., doctors share what you should do whether you're vaccinated, unvaccinated, immunocompromised or have young children.",
-      "url": "https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67f6db551700002400e1c074.jpeg?cache=Uf9YnEojRG&ops=1200_630",
-      "publishedAt": "2025-07-13 11:00:17",
-      "content": "The measles outbreak in West Texas and beyond is only getting worse. Two unvaccinated children have died of the virus, and measles cases are the highest theyve been in 33 years. The bulk of measles\u2026 [+10564 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.255018",
-      "internal_id": "2f37c2d1351cb9f061fa379f57dc84ef4641f7cf041525c193fcbb4c98fa2dd7",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Liputan6.com",
-      "author": "Benedikta Desideria",
-      "title": "Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya",
-      "description": "Perlu beragam upaya untuk bisa mengendalikan dengue. Salah satunya lewat Surveilans Berbasis Masyarakat. Apa itu?",
-      "url": "https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya",
-      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/zTeCQHYMx17IhlJ-TJcUIAK0FcQ=/0x0:3112x1751/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/5185524/original/084277900_1744437820-f92d87ed-f0fd-4495-884a-d0a5adbed079.jpg",
-      "publishedAt": "2025-07-13 10:18:41",
-      "content": "Liputan6.com, Jakarta Upaya pengendalian dengue tak cukup hanya dilakukan oleh tenaga kesehatan atau pemerintah. Peran aktif masyarakat dinilai sangat penting, terutama melalui pendekatan Surveilans \u2026 [+1238 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.643109",
-      "internal_id": "49caae0d7953bbd13166b76c8c569a0eea9cec9a77098977b99c95a6b44e9af9",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22932,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The-independent.com",
-      "author": "Phoebe Williams and Archana Koirala",
-      "title": "Measles explained: What are the symptoms and how long does the vaccine last?",
-      "description": "Experts have answered six key questions as measles outbreaks occur across the world",
-      "url": "https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/01/11/31/iStock-1142840317.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-13 09:37:56",
-      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6813 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.369988",
-      "internal_id": "9475e646d9211e580c4b0e6e1e281f478f569c9723e49c82031eea704b29c473",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22930,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Child dies at Alder Hey as measles cases surge",
-      "description": "It is thought 17 children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.com/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "A child has died at Liverpool's Alder Hey Children's Hospital after contracting measles, the BBC understands. There has been a surge in children being taken to the hospital after becoming \"seriously\u2026 [+1489 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.164116",
-      "internal_id": "bc9ef8e1a13b8bbe613f471f393cd1659030fc1d616a75e4673110220036c577",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22933,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Stewart Whittingham",
-      "title": "Measles: Child dies at Alder Hey Children's hospital as cases surge",
-      "description": "Seventeen children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.co.uk/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "Consultant epidemiologist Dr Vanessa Saliba from the UK Health Security Agency said: \"Measles is one of the most highly infectious diseases and spreads rapidly among those who are unvaccinated. \"It\u2026 [+903 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.387294",
-      "internal_id": "562d11110aa7efbb58485150e1a36b736e62bd5d180f0be27f1ecee5b2fd6d25",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22934,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "7NEWS.com.au",
-      "author": "Malin Hagglund",
-      "title": "How a common childhood illness became a death sentence",
-      "description": "Two mothers share their heartbreaking stories of the devastating aftermath of a simple dose of measles.",
-      "url": "https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556",
-      "urlToImage": "https://images.7news.com.au/publication/C-19097556/7b0fb592c7c62c0e00b3b2a8acd2bd760df3c7c9-16x9-x0y2w1920h1080.jpg?imwidth=1200",
-      "publishedAt": "2025-07-13 09:07:31",
-      "content": "When Cecily Johnson took her then seven-and-a-half-year-old daughter Laine to hospital with symptoms of confusion and forgetfulness, she didnt expect to be told a common childhood illness had now bec\u2026 [+14179 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.395948",
-      "internal_id": "b617cba080a8b234787b2f181f7e8ab341ff4af51269308384faaae166ad929d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22937,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PTI",
-      "title": "India\u2019s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October",
-      "description": "The multi-centre, double-blind, randomised, placebo-controlled phase-3 trial was launched in August last year to evaluate the jab's efficacy, safety and long-term immunogenicity",
-      "url": "https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/gd3c23/article69806954.ece/alternates/LANDSCAPE_1200/IMG_iStock-926989260_2_1_GOAIETGR.jpg",
-      "publishedAt": "2025-07-13 08:29:54",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3096 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.585739",
-      "internal_id": "3b434713e4f891d96dc8120db56ff77f135b893dc7af484c950ffa87a49351a1",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR",
-      "description": "India's DengiAll vaccine trial is nearing completion. ICMR scientists anticipate enrolling 10,500 participants by October across 20 Indian centers. The phase III trial assesses the Panacea Biotec's one-shot dengue vaccine. Initial trials showed no safety conc\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122416875,width-1200,height-630,imgsize-34116,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 08:19:58",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3114 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.617996",
-      "internal_id": "aa1a5730ae1c2d2e4f05a82b783523ad27741471d7fe3679be0ad4dfaaef0f00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22941,
-      "query": [
-        "typhoid",
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Citizen.digital",
-      "author": "Moses Kinyanjui",
-      "title": "3.5 million children receive measles vaccines in ongoing campaign: Health ministry",
-      "description": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign.",
-      "url": "https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209",
-      "urlToImage": "https://assets.citizen.digital/154748/conversions/duale-og_image.webp",
-      "publishedAt": "2025-07-13 08:12:58",
-      "content": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign. In \u2026 [+2257 chars]",
-      "retrievedAt": "2025-07-14 19:07:05.474773",
-      "internal_id": "9e9c7d74adb9aba2685d1e22f85bea33ef47a7674b9c85a88e73cf9df3c548e2",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22929,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccination, immunity and records: Your questions on measles, answered",
-      "description": "From vaccination to immunity, here are your questions about measles answered, as Canada continues to see cases rising in 2025.",
-      "url": "https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468",
-      "urlToImage": "https://i.cbc.ca/1.7583475.1752270171!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122248.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Canada continues to see an alarming rise in measles cases in 2025. Through the spring, the virus spread most intensely in Ontario. But after over 2,200 cases, hundreds hospitalized and one measles-r\u2026 [+2925 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.147669",
-      "internal_id": "86175a58f525f596e568d92d50675d78a8afcde715a1609a32f104b633dc7c0e",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22944,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care",
-      "description": "Between 2015 and 2024 there were a total of two measles cases recorded in Saskatchewan. So far this year, there have been 60 cases reported.",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549",
-      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Medical experts say Saskatchewan residents should remain vigilant about the threat of measles. The news comes as Alberta reported on Monday it has confirmed 1,314 measles cases this year, which is \u2026 [+3813 chars]",
-      "retrievedAt": "2025-07-15 19:07:07.622887",
-      "internal_id": "5808e5789d530fe8ddc0922e5145fe96c324dac3696e4c8f56ac447b7e344037",
       "publishedAtLabel": "Jul 13"
     }
   ]
