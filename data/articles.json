@@ -1,8 +1,354 @@
 {
-  "last_updated": "2025-08-27 07:07",
-  "count_articles_total": 1174,
-  "count_articles_new": 5,
+  "last_updated": "2025-08-27 19:06",
+  "count_articles_total": 1177,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 24113,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "pedro.diaz",
+      "title": "El zumbido que no cesa: Am\u00e9rica ante el avance del dengue",
+      "description": "Alexandro Medrano / Gr\u00e1ficos: Dise\u00f1o Exc\u00e9lsior El dengue ya no es un problema local ni una enfermedad estacional: se ha consolidado como la epidemia m\u00e1s persistente de Am\u00e9rica Latina. En 2024, la OPS report\u00f3 13 millones de casos sospechosos y 8.431 muertes \u2026",
+      "url": "https://www.excelsior.com.mx/global/zumbido-que-no-cesa-el-dengue/1735451",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/26/3367679.jpg",
+      "publishedAt": "2025-08-26 19:00:16",
+      "content": "El dengue ya no es un problema local ni una enfermedad estacional: se ha consolidado como la epidemia m\u00e1s persistente de Am\u00e9rica Latina. En 2024, la OPS report\u00f3 13 millones de casos sospechosos y 8.4\u2026 [+2503 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.265814",
+      "internal_id": "c288ffbe3014e3221c523365afbd5cd75faef2a8d4216f9c11fad68a41c8832c",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24124,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Milena Brand\u00e3o",
+      "title": "Alerta m\u00e1ximo! Vacina aprovada no Brasil \u00e9 suspensa nos EUA ap\u00f3s morte e hospitaliza\u00e7\u00f5es",
+      "description": "A vacina contra chikungunya Ixchiq foi suspensa nos EUA por casos de rea\u00e7\u00f5es adversas, incluindo hospitaliza\u00e7\u00f5es e uma morte O post Alerta m\u00e1ximo! Vacina aprovada no Brasil \u00e9 suspensa nos EUA ap\u00f3s morte e hospitaliza\u00e7\u00f5es apareceu primeiro em Catraca Livre.",
+      "url": "https://catracalivre.com.br/noticias/alerta-maximo-vacina-aprovada-no-brasil-e-suspensa-nos-eua-apos-morte-e-hospitalizacoes/",
+      "urlToImage": "https://i.catracalivre.com.br/T9DZHsluuOuC_1rqLxsxgL_G5N4=/1200x630/smart/filters:quality(60)/catracalivre.com.br/wp-content/uploads/2025/08/pexels-rethaferguson-3825529-scaled.jpg",
+      "publishedAt": "2025-08-26 18:30:59",
+      "content": "A Food and Drug Administration (FDA), \u00f3rg\u00e3o regulador dos Estados Unidos, suspendeu a vacina contra chikungunya Ixchiq. A decis\u00e3o foi motivada por preocupa\u00e7\u00f5es de seguran\u00e7a ap\u00f3s relatos de efeitos ad\u2026 [+2488 chars]",
+      "retrievedAt": "2025-08-27 19:06:11.469236",
+      "internal_id": "1dc56f84b9d08536b545f2058830ba229d6e43ec5060e6e687cedef96cddc89e",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24112,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "ana.alvarez",
+      "title": "\u00a1Insomnio y fiebre! Estos son los s\u00edntomas del dengue tras picadura de mosquitos",
+      "description": "Ana Alvarez El Centro Estatal de Vigilancia Epidemiol\u00f3gica y Control de Enfermedades record\u00f3 que este 26 de agosto se conmemora el D\u00eda Internacional contra el Dengue, una fecha clave para reforzar la prevenci\u00f3n de esta enfermedad viral que se transmite \u00fanica\u2026",
+      "url": "https://www.excelsior.com.mx/salud/insomnio-fiebre-sintomas-dengue-picadura-mosquitos/1735430",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/26/3367642.jpg",
+      "publishedAt": "2025-08-26 17:50:33",
+      "content": "El Centro Estatal de Vigilancia Epidemiol\u00f3gica y Control de Enfermedades record\u00f3 que este 26 de agosto se conmemora el D\u00eda Internacional contra el Dengue, una fecha clave para reforzar la prevenci\u00f3n \u2026 [+2577 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.256382",
+      "internal_id": "b5f359b7105d110157e684b662e6304af00625fc6088cf6be6249f8b74723ad7",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24108,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alpolitics.com",
+      "author": "Dr. Bill Chitwood",
+      "title": "Alabama Sees First Measles Case in 23 Years; Health Officials Urge Parents to Act",
+      "description": "Notably absent from Public Health warnings are any mention of the potential dangers of the measles vaccines",
+      "url": "https://alpolitics.com/alabama-sees-first-measles-case-in-23-years-health-officials-urge-parents-to-act/",
+      "urlToImage": "https://alpolitics.com/content/images/2025/08/IMG_1927.jpeg",
+      "publishedAt": "2025-08-26 17:41:09",
+      "content": "Alabama health authorities have confirmed the States first measles case since 2002an unvaccinated child in north Alabama traveled abroad, returned with the disease, and tested positive. The youngster\u2026 [+3334 chars]",
+      "retrievedAt": "2025-08-27 19:06:07.189235",
+      "internal_id": "6b4a7395258e59ea3438dc5405ecc4032afc3ba919ba4bc00bf1f8bc8ffd2363",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24111,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "ULS alerta para aumento de mosquito do dengue e zika",
+      "description": "O Departamento de Sa\u00fade P\u00fablica identificou um aumento da presen\u00e7a do mosquito-tigre no concelho de Pombal. N\u00e3o h\u00e1 ainda casos destas doen\u00e7as em Portugal Continental.",
+      "url": "https://observador.pt/2025/08/26/unidade-local-de-saude-alerta-para-aumento-de-mosquito-transmissor-do-dengue-e-zika-em-pombal/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A77%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F03%2F12195741%2F42469416.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-26 17:05:03",
+      "content": "A Unidade Local de Sa\u00fade (ULS) da Regi\u00e3o de Leiria alertou esta ter\u00e7a-feira para o aumento da presen\u00e7a em Pombal do mosquito que transmite o zika e o dengue e pediu \u00e0 popula\u00e7\u00e3o que adote medidas para\u2026 [+4119 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.224253",
+      "internal_id": "30948266a459bea7025949b2878b918366b13a7d992e93fc82fc3ecc434ea893",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24122,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Laure Mamet",
+      "title": "M\u00e9tropoe de Grenoble. Neuf nouveaux cas de chikungunya \u00e0 Eybens : tout ce qu\u2019il faut savoir",
+      "description": "\u00c0 la date du 25 ao\u00fbt, 9 cas autochtones \u00e9taient confirm\u00e9s \u00e0 Eybens (des personnes ayant contract\u00e9 la maladie sans avoir voyag\u00e9 dans une zone tropicale) et 8 cas \u00e9taient en cours d\u2019investigation.",
+      "url": "https://www.ledauphine.com/sante/2025/08/26/isere-neuf-nouveaux-cas-de-chikungunya-a-eybens-tout-ce-qu-il-faut-savoir",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/1367BD61-FF97-45E2-9DC3-4959E56CD1A5/FB1200/photo-1756227802.jpg",
+      "publishedAt": "2025-08-26 17:04:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-08-27 19:06:11.323048",
+      "internal_id": "49639290a9e8d42c868861f8fabed152e6e5ab207e907b3eaece8a22c8c6c6b8",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24110,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03af\u03b1: \u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03b1\u03b3\u03c1\u03bf\u03ba\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf \u03bd\u03cc\u03c4\u03b9\u03bf \u03c4\u03bc\u03ae\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2",
+      "description": "\u0397 \u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03af\u03b1 \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03b1\u03b3\u03c1\u03bf\u03ba\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf \u03bd\u03cc\u03c4\u03b9\u03bf \u03c4\u03bc\u03ae\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u0396\u03ce\u03c9\u03bd",
+      "url": "https://www.skai.gr/news/health/voulgaria-krousmata-gripis-ton-ptinon-se-tria-agroktimata-sto-notio-tmima-tis-xoras",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2022-10/shutterstock_gripiptinon.jpg?itok=tIk83I3E",
+      "publishedAt": "2025-08-26 16:15:16",
+      "content": ", (WOAH) , . H5N1 28.000 , WOAH , . , . , , , . .Skai.gr Google News .",
+      "retrievedAt": "2025-08-27 19:06:08.035439",
+      "internal_id": "4a74dc4989712e62ec05655fffdcc66b84eca888ea9a1012c4794aa072407695",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24125,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0410\u043d\u0442\u043e\u043d\u0438\u043d\u0430 \u0427\u0435\u0440\u0442\u0430\u0448",
+      "title": "\u041c\u0443\u0436\u0447\u0438\u043d\u0430 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439 \u0432 \u043f\u043e\u0445\u043e\u0434\u0435",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0421\u0428\u0410 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u0445\u043e\u0434\u0430 \u0432 \u0440\u0430\u0439\u043e\u043d\u0435 \u043e\u0437\u0435\u0440\u0430 \u0422\u0430\u0445\u043e. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 CNN",
+      "url": "https://lenta.ru/news/2025/08/26/muzhchina-zarazilsya-bubonnoy-chumoy-v-pohode/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/08/23/09/20250823093850222/share_9757c0084a12e04d0b3ad03d22ae4904.jpg",
+      "publishedAt": "2025-08-26 14:38:44",
+      "content": ". CNN. -, , --. , , . : \u00ab , \u00bb. 24 . CDC, . Yersinia pestis, . , 63- - . , 10 . , .",
+      "retrievedAt": "2025-08-27 19:06:12.737874",
+      "internal_id": "942fc19eedebc02e8ff18e52fc487655e6be9450b8c3ef79929adc94a01c70c9",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24107,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lifang Shuai, Mingyu Xu, Nana Pei, Cheng Zhu, Marwa Belghait, Zhiming Hu, Jinlong Li, Hongwei Li, Yingying Mao, Hongyan Du",
+      "title": "Novel rabies vaccine candidates development based on pseudotyped lentiviral vectors with rabies virus glycoprotein",
+      "description": "Author summary Rabies remains a serious public health problem in Asia and Africa, which covers a population of over 3 billion in endemic areas. According to the World Health Organization's estimation, approximately 59,000 people die from rabies worldwide each\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013404",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013404.g006&size=inline",
+      "publishedAt": "2025-08-26 14:00:00",
+      "content": "Abstract Rabies, caused by the rabies virus (RABV), remains a global public health issue. Traditional inactivated rabies vaccines are costly, risky, and require multiple doses for post-exposure prop\u2026 [+55339 chars]",
+      "retrievedAt": "2025-08-27 19:06:06.395764",
+      "internal_id": "618f5008314304d3c89d655b645f46ed10a240810a2fd4b6eaeede19c222887e",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24115,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "J\u00falia Frox\u00e1n-Grabalosa, Simone Mariani, Catuxa Cerecedo-Iglesias, Alex Richter-Boix, Alex Oll\u00e9 Torner, Magda Pla, Llu\u00eds Brotons, Frederic Bartumeus",
+      "title": "Ecological drivers of arboviral disease risk: Vector-host interfaces in a Mediterranean wetland of Northeastern Spain",
+      "description": "Author summary Mosquito-borne diseases such as West Nile fever, dengue, Zika, and chikungunya, historically confined to tropical regions, are now emerging in the Mediterranean basin. Identifying where and when these diseases pose the greatest transmission ris\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013447",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013447.g006&size=inline",
+      "publishedAt": "2025-08-26 14:00:00",
+      "content": "Citation: Frox\u00e1n-Grabalosa J, Mariani S, Cerecedo-Iglesias C, Richter-Boix A, Torner AO, Pla M, et al. (2025) Ecological drivers of arboviral disease risk: Vector-host interfaces in a Mediterranean w\u2026 [+43277 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.323337",
+      "internal_id": "14606559defa0d761717d54e09b880fe2b18456f68cb697c4d5b6b3dd8952133",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24123,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Massab Umair, Muhammad Yasir, Zunera Jamal, Rabia Hakim, Syed Yawar Saeed, Muhammad Salman, Azhar Iqbal, Muhammad Qasim Khan, Faisal Khanzada, Yusra Javed",
+      "title": "Whole-Genome sequencing of Chikungunya Virus (CHIKV) from Pakistan: Detection of the East/Central/South African (ECSA) genotype during the 2024 outbreak in Mansehra",
+      "description": "The 2024 chikungunya virus (CHIKV) outbreak in Mansehra, Khyber Pakhtunkhwa, Pakistan, marked a significant public health event, providing a unique opportunity to investigate the genomic diversity and evolutionary dynamics of circulating strains. Using metage\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329856",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0329856.g001&size=inline",
+      "publishedAt": "2025-08-26 14:00:00",
+      "content": "Abstract The 2024 chikungunya virus (CHIKV) outbreak in Mansehra, Khyber Pakhtunkhwa, Pakistan, marked a significant public health event, providing a unique opportunity to investigate the genomic di\u2026 [+33929 chars]",
+      "retrievedAt": "2025-08-27 19:06:11.400762",
+      "internal_id": "9e53726c2127c8b51251ea2545719e17da55f3778b9143f95087a53434f22a0a",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24109,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Washington Examiner",
+      "author": "Rep. Jodey Arrington",
+      "title": "RFK Jr.'s leadership brought an end to the Texas measles outbreak",
+      "description": "Thanks to Health and Human Services Secretary Robert F. Kennedy Jr.'s leadership and tireless work, the measles outbreak in Texas is over.",
+      "url": "https://www.washingtonexaminer.com/restoring-america/community-family/3781083/rfk-jr-measles-outbreak-texas-over/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/08/AP25211776233538.webp",
+      "publishedAt": "2025-08-26 11:33:34",
+      "content": "The world has witnessed a concerning surge of measles cases. Europe reported 127,350 cases in 2024 the highest number recorded on the continent since 1997. In Canada, 4,586 cases have been documented\u2026 [+4288 chars]",
+      "retrievedAt": "2025-08-27 19:06:07.221659",
+      "internal_id": "81a8bcaa4342aeb074c5b936932983439a5d1434c2c79f1dbf8456c29322acc5",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24117,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Leute: Lola Weipperts Appell: Geht bei Meningitis-Verdacht zum Arzt",
+      "description": "Lola Weippert hat schmerzhafte Erfahrungen gemacht mit einer Hirnhautentz\u00fcndung w\u00e4hrend ihres Sommerurlaubs. Bevor sie wieder durchstarten m\u00f6chte, appelliert sie an ihre Fans.",
+      "url": "https://www.tagesspiegel.de/gesellschaft/leute-lola-weipperts-appell-geht-bei-meningitis-verdacht-zum-arzt-14228474.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14228471/alternates/BASE_16_9_W1400/1756202423000/lola-weippert.jpeg",
+      "publishedAt": "2025-08-26 10:00:24",
+      "content": "Nach ihrer wochenlangen Zwangspause wegen einer Hirnhautentz\u00fcndung appelliert Moderatorin Lola Weippert mit deutlichen Worten, Meningitis-Symptome ernst zu nehmen und zum Arzt zu gehen. Ich bin kei\u2026 [+1491 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.800519",
+      "internal_id": "7d68bf6c16cd2ec1a18ef0587cbade957974de5c997483d1923902303119e4fb",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24116,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Leute: Lola Weipperts Appell: Geht bei Meningitis-Verdacht zum Arzt",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eLeute\u201c. Lesen Sie jetzt \u201eLola Weipperts Appell: Geht bei Meningitis-Verdacht zum Arzt\u201c.",
+      "url": "https://www.zeit.de/news/2025-08/26/lola-weipperts-appell-geht-bei-meningitis-verdacht-zum-arzt",
+      "urlToImage": "https://img.zeit.de/news/2025-08/26/lola-weipperts-appell-geht-bei-meningitis-verdacht-zum-arzt-image-group/wide__1300x731",
+      "publishedAt": "2025-08-26 09:59:24",
+      "content": "Nach ihrer wochenlangen Zwangspause wegen einer Hirnhautentz\u00fcndung appelliert Moderatorin Lola Weippert mit deutlichen Worten, Meningitis-Symptome ernst zu nehmen und zum Arzt zu gehen. \u00abIch bin ke\u2026 [+1447 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.772735",
+      "internal_id": "d1df08fdd90916938ab185628c0c672562369a3e1395ff4b1dd0476339cc2201",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24118,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Leute: Lola Weipperts Appell: Geht bei Meningitis-Verdacht zum Arzt",
+      "description": "Lola Weippert hat schmerzhafte Erfahrungen gemacht mit einer Hirnhautentz\u00fcndung w\u00e4hrend ihres Sommerurlaubs. Bevor sie wieder durchstarten m\u00f6chte, appelliert sie an ihre Fans.",
+      "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/leute--lola-weipperts-appell--geht-bei-meningitis-verdacht-zum-arzt-36002306.html",
+      "urlToImage": "https://image.stern.de/36002308/t/Ng/v1/w1440/r1.7778/-/26--nchcvq4nhsv10axs2048jpeg---17e8aa0b74d3e8c3.jpg",
+      "publishedAt": "2025-08-26 09:59:24",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Lola Weippert hat schmerzhafte Erfahrungen gemacht mit einer Hirnhautentz\u00fcndung w\u00e4hrend ihres Sommerurlaubs. Bevor sie wieder durchstarten m\u00f6chte\u2026 [+1638 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.824798",
+      "internal_id": "0a8e6b873dca7107e82e2e5759ee5c877139ab34996af4c3bc9dd6fce0e7d306",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24120,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Wattsupwiththat.com",
+      "author": "Anthony Watts",
+      "title": "Wrong, New York Times, Climate Change Isn\u2019t Causing a Surge in Mosquito-Borne Diseases",
+      "description": "The truth, grounded in actual data and entomological science, is that the spread of mosquitoes\u2014and the viruses they sometimes carry\u2014is closely tied to human activity, urbanization, and global transportation.",
+      "url": "https://wattsupwiththat.com/2025/08/26/wrong-new-york-times-climate-change-isnt-causing-a-surge-in-mosquito-borne-diseases/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/08/NYT-mosquitoes-climate-wrong1.webp?fit=695%2C761&ssl=1",
+      "publishedAt": "2025-08-26 09:00:00",
+      "content": "A recent article in the New York Times (NYT), Cases of Mosquito-Borne Chikungunya Virus Are Surging Globally: What to Know, claims climate change is causing the the spread of mosquito-borne diseases \u2026 [+6777 chars]",
+      "retrievedAt": "2025-08-27 19:06:11.261075",
+      "internal_id": "5ecf4ccc559e4526e7273a3b1a34ab31e2ec84e9dbfc4309282b60c5130f71c1",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24119,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Chikungunya : 15 cas autochtones confirm\u00e9s \u00e0 Bergerac en Dordogne",
+      "description": "15 cas autochtones de chikungunya ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 Bergerac (Dordogne), a rapport\u00e9 l\u2019Agence r\u00e9gionale de sant\u00e9 lundi 25 ao\u00fbt. Une premi\u00e8re dans le d\u00e9partement.",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-15-cas-autochtones-confirmes-a-bergerac-en-dordogne-71759506-824a-11f0-b7f6-35541b8d2287",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA4NWQ2M2NmOWE2ZTY5MDQxYTBlMWI1NDI3MjFiYTNiZTk?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=db1f07cb8ddd904f321f9b4625756e386cbe2c19895aace0689887724e57bd3a",
+      "publishedAt": "2025-08-26 08:31:16",
+      "content": "LAgence r\u00e9gionale de sant\u00e9 (ARS) a confirm\u00e9 la pr\u00e9sence de 15 cas autochtones de chikungunya, transmis par la piq\u00fbre du moustique tigre, \u00e0 Bergerac (Dordogne) lundi 25 ao\u00fbt 2025. Mi-ao\u00fbt, 4 premiers \u2026 [+1331 chars]",
+      "retrievedAt": "2025-08-27 19:06:11.236522",
+      "internal_id": "bee9d040769274358d0213f4be4f3a8ff14d24f86f1ca1329b9174f6a093df2d",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24121,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Journal des Entreprises",
+      "author": null,
+      "title": "Les \u00c9tats-Unis suspendent la licence du vaccin contre le chikungunya de Valneva",
+      "description": "L\u2019agence de sant\u00e9 am\u00e9ricaine, la Food and Drug Administration (FDA) a suspendu la licence du vaccin Ixchiq d\u00e9velopp\u00e9 par Valneva contre la maladie caus\u00e9e par le virus du chikungunya.",
+      "url": "https://www.lejournaldesentreprises.com/breve/les-etats-unis-suspendent-la-licence-du-vaccin-contre-le-chikungunya-de-valneva-2125037",
+      "urlToImage": "https://www.lejournaldesentreprises.com/sites/lejournaldesentreprises.com/files/styles/landscape_web_lg_2x/public/2025-08/es-tats-Unis-suspendent-le-vaccin-contre-le-chik-564682.jpeg?h=4a7d1ed4&itok=mcteXHF3",
+      "publishedAt": "2025-08-26 08:27:56",
+      "content": "Lagence de sant\u00e9 am\u00e9ricaine, la Food and Drug Administration (FDA) a suspendu la licence du vaccin Ixchiq d\u00e9velopp\u00e9 par Valneva contre la maladie caus\u00e9e par le virus du chikungunya. Cette d\u00e9cision, m\u2026 [+955 chars]",
+      "retrievedAt": "2025-08-27 19:06:11.314190",
+      "internal_id": "6730e0bb3b01fa1529dbeafe9fdac7a6128b564054134f0e4f76d6e137bbc3c9",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 24114,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Arbovirus Testing Market Overview 2024-2030 | Market Grows Amid 7.6M Dengue Cases, 620K Chikungunya Cases, and Rising Demand for Fast, Reliable Testing",
+      "description": "The global arbovirus testing market is projected to grow from $1.4 billion in 2024 to $1.9 billion by 2030, driven by rising disease incidence and the expanding range of mosquito-borne viruses. Key drivers include increased surveillance, innovative diagnostic\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/08/26/3139012/28124/en/Arbovirus-Testing-Market-Overview-2024-2030-Market-Grows-Amid-7-6M-Dengue-Cases-620K-Chikungunya-Cases-and-Rising-Demand-for-Fast-Reliable-Testing.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-08-26 08:03:00",
+      "content": "Dublin, Aug. 26, 2025 (GLOBE NEWSWIRE) -- The \"Arbovirus Testing Market - Tests, Viruses &amp; End-users\" report has been added to ResearchAndMarkets.com's offering. The global arbovirus testing mar\u2026 [+8982 chars]",
+      "retrievedAt": "2025-08-27 19:06:09.298151",
+      "internal_id": "b5e58bfc80e08104028ac9aed73ccf2d33e87d188d2e7f292cc4b6385a77989a",
+      "publishedAtLabel": "Aug 26"
+    },
     {
       "id": 24106,
       "query": [
@@ -20945,295 +21291,6 @@
       "content": "Un total de 4 mil 945 contagios y 22 muertes, es el saldo que ha dejado el dengue en lo que va del a\u00f1o. En todo M\u00e9xico, 27 son las entidades afectadas por esta enfermedad viral. TE PUEDE INTERESAR: \u2026 [+1474 chars]",
       "retrievedAt": "2025-07-15 19:07:08.501111",
       "internal_id": "fc831df7c12cdc9f461efcf0ac23cb5301254ca176735403d2a25d8fb2f6dd00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue",
-      "description": "2025 \u00e9 o quarto ano seguido com mais de 1 milh\u00e3o de registros suspeitos da doen\u00e7a The post Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue appeared first on Giz Brasil.",
-      "url": "https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/Captura-de-tela-2025-07-01-192540.png",
-      "publishedAt": "2025-07-13 18:18:12",
-      "content": "Nos \u00faltimos tempos, por\u00e9m, parece n\u00e3o estar sendo assim. Em 2025, havia 1,23 milh\u00e3o de casos suspeitos registrados at\u00e9 o in\u00edcio de maio. \u00c9 uma queda importante (de 81,3%) em rela\u00e7\u00e3o ao anterior. O an\u2026 [+9795 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.538187",
-      "internal_id": "2d481df79eb38cc2bb601054be42c81eff819a652325439fe53d16598e06d180",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22942,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 - \u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 18 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1",
-      "description": "\u0397 \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7, \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u03c2 \u0398\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2\u00bb \u03c4\u03bf\u03bd 14\u03bf \u03b1\u03b9\u03ce\u03bd\u03b1, \u03b5\u03be\u03cc\u03bd\u03c4\u03c9\u03c3\u03b5 \u03ad\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bc\u03b9\u03c3\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2. \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
-      "url": "https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/laboratory-pixabay.jpg?itok=UXb_bvar",
-      "publishedAt": "2025-07-13 15:25:29",
-      "content": ", \u00ab \u00bb 14 , . , . 2007, . , . , \u00ab \u00bb 14 , . . , , (CDC). . Yersinia pestis. , , . , , , . , , , . \u00ab \u00bb, . DEET , , , . .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
-      "retrievedAt": "2025-07-14 19:07:06.131064",
-      "internal_id": "48f9dac6a77f8fae060311f7d5c6871f6bebbafb93e74eff2d29b95b26673878",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22943,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Jo\u00e3o Pedro Lima, Jo\u00e3o Pedro Lima",
-      "title": "Morador dos EUA morre de peste que devastou a Idade M\u00e9dia",
-      "description": "A infec\u00e7\u00e3o bacteriana \u00e9 conhecida por matar milh\u00f5es de pessoas na Europa no s\u00e9culo XIV",
-      "url": "https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bm/uq/fn/bmuqfnqt1k8te784n0ek03rgo.jpg",
-      "publishedAt": "2025-07-13 15:06:43",
-      "content": "Um morador do norte do Arizona, nos Estados Unidos, morreu de peste pneum\u00f4nica nesta sexta-feira (11), segundo autoridades de sa\u00fade. O paciente contraiu a bact\u00e9ria Yersinia pestis , conhecida por cau\u2026 [+1715 chars]",
-      "retrievedAt": "2025-07-14 19:07:06.156302",
-      "internal_id": "98f7a6861cc23c2a6f3e78acadab4cc8fac8847b00e697ba8e94347b85c9ea08",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22935,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds",
-      "description": "An avian influenza outbreak has been confirmed at a poultry farm in Odisha's Puri district, leading the state government to implement emergency measures. These measures include the mass culling of over 6,700 birds after the H5N1 virus was detected. Movement o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122419979,width-1200,height-630,imgsize-6512,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 13:25:39",
-      "content": "A bird flu outbreak has been confirmed in a poultry farm in Odisha's Puri district, prompting the state government to launch emergency containment measures, including mass culling of over 6,700 birds\u2026 [+1395 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.334296",
-      "internal_id": "bd0435aa8465a48864b42d1ae41f4c53e4b6bbcc3c602f82758bb6bd2426acc8",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22940,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Walter Willems",
-      "title": "Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde \u2013 mit Folgen bis heute",
-      "description": "Pest, Malaria, R\u00fcckfallfieber: Viele Infektionskrankheiten trafen den Menschen nicht zuf\u00e4llig. Eine neue Studie zeigt, wann und warum Erreger uns gezielt heimsuchten.",
-      "url": "https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/11545037/alternates/BASE_16_9_W1400/1713532816000/epstein-barr-virus-illustration-epstein-barr-virus-ebv-computer-illustration-ebv-also-known-as.jpeg",
-      "publishedAt": "2025-07-13 12:13:57",
-      "content": "Seit jeher wird der Mensch von Erkrankungen geplagt auch von Infektionskrankheiten. Doch erst ab einer bestimmten Phase der Geschichte handelte sich der Homo sapiens geh\u00e4uft Krankheitserreger ein sog\u2026 [+602 chars]",
-      "retrievedAt": "2025-07-14 19:07:04.255061",
-      "internal_id": "8fe14bfc26364f885b7f0ff73beedb09e98ae235d7a6fd026a3345bee4502869",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22931,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "HuffPost",
-      "author": "Jillian Wilson",
-      "title": "What To Do If There's A Measles Case In Your Area",
-      "description": "As measles cases hit a 30-year-high in the U.S., doctors share what you should do whether you're vaccinated, unvaccinated, immunocompromised or have young children.",
-      "url": "https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67f6db551700002400e1c074.jpeg?cache=Uf9YnEojRG&ops=1200_630",
-      "publishedAt": "2025-07-13 11:00:17",
-      "content": "The measles outbreak in West Texas and beyond is only getting worse. Two unvaccinated children have died of the virus, and measles cases are the highest theyve been in 33 years. The bulk of measles\u2026 [+10564 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.255018",
-      "internal_id": "2f37c2d1351cb9f061fa379f57dc84ef4641f7cf041525c193fcbb4c98fa2dd7",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Liputan6.com",
-      "author": "Benedikta Desideria",
-      "title": "Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya",
-      "description": "Perlu beragam upaya untuk bisa mengendalikan dengue. Salah satunya lewat Surveilans Berbasis Masyarakat. Apa itu?",
-      "url": "https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya",
-      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/zTeCQHYMx17IhlJ-TJcUIAK0FcQ=/0x0:3112x1751/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/5185524/original/084277900_1744437820-f92d87ed-f0fd-4495-884a-d0a5adbed079.jpg",
-      "publishedAt": "2025-07-13 10:18:41",
-      "content": "Liputan6.com, Jakarta Upaya pengendalian dengue tak cukup hanya dilakukan oleh tenaga kesehatan atau pemerintah. Peran aktif masyarakat dinilai sangat penting, terutama melalui pendekatan Surveilans \u2026 [+1238 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.643109",
-      "internal_id": "49caae0d7953bbd13166b76c8c569a0eea9cec9a77098977b99c95a6b44e9af9",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22932,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The-independent.com",
-      "author": "Phoebe Williams and Archana Koirala",
-      "title": "Measles explained: What are the symptoms and how long does the vaccine last?",
-      "description": "Experts have answered six key questions as measles outbreaks occur across the world",
-      "url": "https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/01/11/31/iStock-1142840317.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-13 09:37:56",
-      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6813 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.369988",
-      "internal_id": "9475e646d9211e580c4b0e6e1e281f478f569c9723e49c82031eea704b29c473",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22930,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Child dies at Alder Hey as measles cases surge",
-      "description": "It is thought 17 children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.com/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "A child has died at Liverpool's Alder Hey Children's Hospital after contracting measles, the BBC understands. There has been a surge in children being taken to the hospital after becoming \"seriously\u2026 [+1489 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.164116",
-      "internal_id": "bc9ef8e1a13b8bbe613f471f393cd1659030fc1d616a75e4673110220036c577",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22933,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Stewart Whittingham",
-      "title": "Measles: Child dies at Alder Hey Children's hospital as cases surge",
-      "description": "Seventeen children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.co.uk/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "Consultant epidemiologist Dr Vanessa Saliba from the UK Health Security Agency said: \"Measles is one of the most highly infectious diseases and spreads rapidly among those who are unvaccinated. \"It\u2026 [+903 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.387294",
-      "internal_id": "562d11110aa7efbb58485150e1a36b736e62bd5d180f0be27f1ecee5b2fd6d25",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22934,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "7NEWS.com.au",
-      "author": "Malin Hagglund",
-      "title": "How a common childhood illness became a death sentence",
-      "description": "Two mothers share their heartbreaking stories of the devastating aftermath of a simple dose of measles.",
-      "url": "https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556",
-      "urlToImage": "https://images.7news.com.au/publication/C-19097556/7b0fb592c7c62c0e00b3b2a8acd2bd760df3c7c9-16x9-x0y2w1920h1080.jpg?imwidth=1200",
-      "publishedAt": "2025-07-13 09:07:31",
-      "content": "When Cecily Johnson took her then seven-and-a-half-year-old daughter Laine to hospital with symptoms of confusion and forgetfulness, she didnt expect to be told a common childhood illness had now bec\u2026 [+14179 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.395948",
-      "internal_id": "b617cba080a8b234787b2f181f7e8ab341ff4af51269308384faaae166ad929d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22937,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PTI",
-      "title": "India\u2019s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October",
-      "description": "The multi-centre, double-blind, randomised, placebo-controlled phase-3 trial was launched in August last year to evaluate the jab's efficacy, safety and long-term immunogenicity",
-      "url": "https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/gd3c23/article69806954.ece/alternates/LANDSCAPE_1200/IMG_iStock-926989260_2_1_GOAIETGR.jpg",
-      "publishedAt": "2025-07-13 08:29:54",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3096 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.585739",
-      "internal_id": "3b434713e4f891d96dc8120db56ff77f135b893dc7af484c950ffa87a49351a1",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR",
-      "description": "India's DengiAll vaccine trial is nearing completion. ICMR scientists anticipate enrolling 10,500 participants by October across 20 Indian centers. The phase III trial assesses the Panacea Biotec's one-shot dengue vaccine. Initial trials showed no safety conc\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122416875,width-1200,height-630,imgsize-34116,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 08:19:58",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3114 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.617996",
-      "internal_id": "aa1a5730ae1c2d2e4f05a82b783523ad27741471d7fe3679be0ad4dfaaef0f00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22941,
-      "query": [
-        "typhoid",
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Citizen.digital",
-      "author": "Moses Kinyanjui",
-      "title": "3.5 million children receive measles vaccines in ongoing campaign: Health ministry",
-      "description": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign.",
-      "url": "https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209",
-      "urlToImage": "https://assets.citizen.digital/154748/conversions/duale-og_image.webp",
-      "publishedAt": "2025-07-13 08:12:58",
-      "content": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign. In \u2026 [+2257 chars]",
-      "retrievedAt": "2025-07-14 19:07:05.474773",
-      "internal_id": "9e9c7d74adb9aba2685d1e22f85bea33ef47a7674b9c85a88e73cf9df3c548e2",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22929,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccination, immunity and records: Your questions on measles, answered",
-      "description": "From vaccination to immunity, here are your questions about measles answered, as Canada continues to see cases rising in 2025.",
-      "url": "https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468",
-      "urlToImage": "https://i.cbc.ca/1.7583475.1752270171!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122248.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Canada continues to see an alarming rise in measles cases in 2025. Through the spring, the virus spread most intensely in Ontario. But after over 2,200 cases, hundreds hospitalized and one measles-r\u2026 [+2925 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.147669",
-      "internal_id": "86175a58f525f596e568d92d50675d78a8afcde715a1609a32f104b633dc7c0e",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22944,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care",
-      "description": "Between 2015 and 2024 there were a total of two measles cases recorded in Saskatchewan. So far this year, there have been 60 cases reported.",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549",
-      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Medical experts say Saskatchewan residents should remain vigilant about the threat of measles. The news comes as Alberta reported on Monday it has confirmed 1,314 measles cases this year, which is \u2026 [+3813 chars]",
-      "retrievedAt": "2025-07-15 19:07:07.622887",
-      "internal_id": "5808e5789d530fe8ddc0922e5145fe96c324dac3696e4c8f56ac447b7e344037",
       "publishedAtLabel": "Jul 13"
     }
   ]
