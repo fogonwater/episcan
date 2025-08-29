@@ -1,8 +1,280 @@
 {
-  "last_updated": "2025-08-29 07:07",
-  "count_articles_total": 1224,
-  "count_articles_new": 8,
+  "last_updated": "2025-08-29 19:05",
+  "count_articles_total": 1223,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 24167,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Paziente positivo al virus Chikungunya a San Donato Milanese",
+      "description": "Un caso di positivit\u00e0 al Chikungunya \u00e8 stato registrato in via Morandi a San Donato Milanese. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2025/08/28/paziente-positivo-al-virus-chikungunya-a-san-donato-milanese_99c3a947-815d-4fb8-8a9a-5a4291dce663.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2010/12/6/f6e6529e26d88904932d4013e0b55016.jpg",
+      "publishedAt": "2025-08-28 16:48:05",
+      "content": "Un caso di positivit\u00e0 al Chikungunya \u00e8 stato registrato in via Morandi a San Donato Milanese. Ats Milano ha fatto la segnalazione al Comune che ha programmato la disinfestazione in un'area di 200 \u2026 [+1357 chars]",
+      "retrievedAt": "2025-08-29 19:05:46.783553",
+      "internal_id": "a5e7dab76392a6ee86cb84a53b3d6dd4f7ef5abec48aa6eccd266ff0930272bd",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24162,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Abd Aziz, Resinta Sulistiyandari",
+      "title": "Measles spreads faster than COVID-19: Indonesia races to vaccinate",
+      "description": "Health Minister Budi Gunadi Sadikin has warned that measles poses a greater danger than COVID-19 due to its rapid transmission. &ldquo;While COVID-19 ...",
+      "url": "https://en.antaranews.com/news/376365/measles-spreads-faster-than-covid-19-indonesia-races-to-vaccinate",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/08/28/Menkes-di-Sumenep.jpg",
+      "publishedAt": "2025-08-28 16:47:46",
+      "content": "Sumenep, East Java (ANTARA) - Health Minister Budi Gunadi Sadikin has warned that measles poses a greater danger than COVID-19 due to its rapid transmission.\u201cWhile COVID-19 spreads from one person to\u2026 [+2063 chars]",
+      "retrievedAt": "2025-08-29 19:05:43.497104",
+      "internal_id": "85c53f5329ad3274fcadc8c4a29a07bc338165e8ef035aa78d294b8e863a3a01",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24161,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie",
+      "title": "Indonesia to vaccinate 70,000 Sumenep children amid measles outbreak",
+      "description": "The Indonesian Health Ministry aims to vaccinate around 70,000 children in Sumenep within two weeks to protect them against measles. While overseeing ...",
+      "url": "https://en.antaranews.com/news/376357/indonesia-to-vaccinate-70000-sumenep-children-amid-measles-outbreak",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/08/06/pemberian-imunisasi-bias-di-solo-2591533.jpg",
+      "publishedAt": "2025-08-28 16:10:55",
+      "content": "Sumenep, East Java (ANTARA) - The Indonesian Health Ministry aims to vaccinate around 70,000 children in Sumenep within two weeks to protect them against measles.While overseeing outbreak management \u2026 [+1912 chars]",
+      "retrievedAt": "2025-08-29 19:05:43.488391",
+      "internal_id": "06d3cbff1464b3c7391576103ea1a4a3989b1f221996cf3318ffeb55ac5b132f",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24169,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS registra m\u00e1s de 34.000 casos y 138 muertes por mpox en el mundo en lo que va de 2025",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha registrado 34.386 casos de mpox, periodo en el que tambi\u00e9n ha notificado la muerte de 138 personas relacionadas con la enfermedad, tras lo que ha advertido que el virus sigue circulando en 84 pa\u00edses y que, en caso \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-34000-casos-138-muertes-mpox-mundo-va-2025-20250828170017.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250828170017_1200.jpg",
+      "publishedAt": "2025-08-28 15:00:17",
+      "content": "MADRID 28 Ago. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha registrado 34.386 casos de mpox, periodo en el que tambi\u00e9n ha notificado la muerte de 138 personas relacionadas con la \u2026 [+2327 chars]",
+      "retrievedAt": "2025-08-29 19:05:47.623502",
+      "internal_id": "e0c57be7b655de5350583ef3817de35f2ff9fd51e58fdce88e1e10804d006bd2",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24168,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0386\u03c1\u03b7\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03ac\u03c4\u03bf\u03c2",
+      "title": "\u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u0394\u03b1\u03c3\u03ba\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b1 CDC \u03bc\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c4\u03bf\u03bb\u03ae \u2013 \u03ba\u03cc\u03bb\u03b1\u03c6\u03bf \u03c3\u03c4\u03bf\u03bd \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c9\u03bd \u0397\u03a0\u0391",
+      "description": "\u0391\u03af\u03c3\u03b8\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03bf \u0395\u03bb\u03bb\u03b7\u03bd\u03bf\u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03cc\u03c2 \u03bb\u03bf\u03b9\u03bc\u03c9\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u0394\u03b1\u03c3\u03ba\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2, \u03bf \u03bf\u03c0\u03bf\u03af\u03bf\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b8\u03ad\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c5\u03c6\u03b1\u03af\u03bf \u03bf\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03b3\u03b9\u03b1 \u03c4\u03b7 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u0394\u03b1\u03c3\u03ba\u03b1\u03bb\u03ac\u03ba\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b1 CDC \u03bc\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c4\u03bf\u03bb\u03ae \u2013 \u03ba\u03cc\u2026",
+      "url": "https://www.newsit.gr/kosmos/poios-einai-o-dimitris-daskalakis-pou-paraitithike-apo-ta-cdc-me-epistoli-kolafo-ston-ypourgo-ygeias-ton-ipa/4460924/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/08/demetre-daskalakis-youtube-iatropedia-1200x630.jpg",
+      "publishedAt": "2025-08-28 14:55:59",
+      "content": ", - , . iatropedia.gr, . , \u00ab\u00bb . , , , . . , . . AIDS 53 AIDS . , HIV/AIDS . . \u00ab \u00bb. HIV ( ) . (PrEP). . &amp; (CDC). 2020 HIV/AIDS . , 25 . , , HIV/AIDS , . 2022, mpox ( ). mpox 2022-\u2026 [+120 chars]",
+      "retrievedAt": "2025-08-29 19:05:47.613368",
+      "internal_id": "82c29c1d66742e6bae7bb62f05d2bca83948291f3a152a87b797c366814595ff",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24165,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kara Fikrig, Arnold O. Noriega, Rosa A. Rodriguez, John Bardales, Jos\u00e9 Rivas, Becker Reyna, Guido Izquierdo, Gissella M. Vasquez, Ryan T. Larson, Amy C. Morrison, Laura C. Harrington",
+      "title": "Changing dynamics of Aedes aegypti invasion and vector-borne disease risk for rural communities in the Peruvian Amazon",
+      "description": "Author summary The dengue virus and its mosquito vector, Aedes aegypti, have historically been considered an urban problem in South America. Since its reemergence following the continent-wide eradication campaign in the mid-1900s, Ae. aegypti has predominantl\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012506",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012506.g007&size=inline",
+      "publishedAt": "2025-08-28 14:00:00",
+      "content": "Abstract Aedes aegypti, the primary vector of dengue virus, is predominantly considered an urban mosquito, especially in the Americas, where its reemergence began in cities after the end of continen\u2026 [+59271 chars]",
+      "retrievedAt": "2025-08-29 19:05:44.519473",
+      "internal_id": "6c9df62015614fcc8bf34b9da1912b2111d8f40baf86503188747e6833a095fb",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24166,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Philippe RICHARD.",
+      "title": "Malgr\u00e9 la propagation du chikungunya, le don de sang ne conna\u00eet pas de restriction en France",
+      "description": "Contrairement \u00e0 la Belgique, la France n\u2019exclut pas du don du sang les personnes ayant r\u00e9sid\u00e9 dans les zones \u00e0 risque. Ce qui n\u2019exclut pas une certaine vigilance au sein de l\u2019\u00c9tablissement fran\u00e7ais du sang.",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/le-chikungunya-naffecte-pas-le-don-du-sang-aaeb1dc6-8356-11f0-b7f6-35541b8d2287",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA4YmU4MWQ1Yjk3MzVjMjgxZTk2YTA2ZTNmNmQ1OTgwYjE?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=fa7727b87fe728b01e15bcec20d0da7ff22720ea92225888774b56e2e3324b6c",
+      "publishedAt": "2025-08-28 13:27:30",
+      "content": "La Croix rouge belge a lanc\u00e9 la semaine derni\u00e8re un \u00ab appel super urgent au don du sang \u00bb. Les r\u00e9serves d\u00e9j\u00e0 basses en \u00e9t\u00e9 sont critiques, la Belgique ayant d\u00e9cid\u00e9 dexclure du don (pour 28 jours) tou\u2026 [+1670 chars]",
+      "retrievedAt": "2025-08-29 19:05:46.582116",
+      "internal_id": "933b2aefe36b533aa4a6856a517d28e7ec7575178440759d7dc1bbfb37b792b1",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24160,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "EWN",
+      "author": "Mbali Dhlamini",
+      "title": "Gauteng Health Dept urges parents to protect children against measles outbreak",
+      "description": "Officials are calling on parents to sign consent forms allowing their children to be vaccinated at schools.",
+      "url": "https://www.ewn.co.za/2025/08/28/gauteng-health-dept-urges-parents-to-protect-children-against-measles-outbreak",
+      "urlToImage": "https://media-cache.primedia-service.com/media/mddedycc/young_boy_with_measles-wikimedia-commons.jpg?width=1200&height=630",
+      "publishedAt": "2025-08-28 12:08:23",
+      "content": "JOHANNESBURG - The Gauteng Department of Health (GDoH) is urging parents to protect their children against the ongoing measles outbreak. Officials are calling on parents to sign consent forms allowi\u2026 [+814 chars]",
+      "retrievedAt": "2025-08-29 19:05:43.441669",
+      "internal_id": "b89f5a6f9123b91f82acb784a674bb75dd91e20dac5684d27a5e83d96409464a",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24157,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03bf\u03c6\u03af\u03b1 \u0392\u03b1\u03bb\u03c3\u03ac\u03bc\u03b7",
+      "title": "\u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03a0\u039f\u03a5: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b5 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u2013 \u0391\u03bd\u03b8\u03b5\u03ba\u03c4\u03b9\u03ba\u03cc \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u03b5\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
+      "description": "\u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03b7 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03bc\u03b5 \u03ad\u03bd\u03b1 \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b8\u03b5\u03ba\u03c4\u03b9\u03ba\u03cc \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03b2\u03b9\u03bf\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b5\u03cd\u03ba\u03bf\u03bb\u03b1. \u039c\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03a0\u039f\u03a5: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b5 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u2013 \u0391\u03bd\u03b8\u03b5\u03ba\u03c4\u03b9\u03ba\u03cc \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u03b5\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u2026",
+      "url": "https://www.newsit.gr/kosmos/proeidopoiisi-pou-emvoliaste-ta-paidia-gia-ton-kokkyti-anthektiko-stelexos-eksaplonetai-stis-ipa/4460715/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/08/vaccines-reuters-1200x630.jpg",
+      "publishedAt": "2025-08-28 11:51:00",
+      "content": ". , . () . . . 2023 4.139 . 2024, , : 43.751. 2025, , 18.595 . 128 . . \u00ab 100 \u00bb, , , . (Bordetella pertussis), . : , , 23S rRNA, , ( PAHO). ; : , ( COVID) . , . , , , PAHO. \u00ab , . . \u00bb, Dr. P\u2026 [+94 chars]",
+      "retrievedAt": "2025-08-29 19:05:42.678367",
+      "internal_id": "12ee76729d41f59f4abdb3c26f19efc230a5cc9332568ce5cecd166a154d0723",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24163,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Arnaud Huppertz",
+      "title": "Attention, le moustique tigre s\u2019est install\u00e9 en Belgique : \u201cIl est essentiel de surveiller sa pr\u00e9sence car elle peut \u00eatre vecteur de virus\u201d",
+      "description": "La pr\u00e9sence de plus en plus forte du moustique tigre en Belgique augmente le risque de transmission de maladies tropicales. Parmi celles-ci, on retrouve la dengue, le chikungunya et zika. ...",
+      "url": "https://www.lavenir.net/actu/discover/2025/08/28/attention-le-moustique-tigre-sest-installe-en-belgique-il-est-essentiel-de-surveiller-sa-presence-car-elle-peut-etre-vecteur-de-virus-KUZKKSPIKJFRVJ3LVE54G34V6Y/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/L6QZVJP2GJD47KRNDWWHV7U4DE.jpg?auth=342fc10d887c091d33a4e92c5c0b2d3e3af5dc239ccd222bd98db6b9f83f7411&width=1200&height=630&quality=85&focal=1940%2C1304&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-08-28 11:03:20",
+      "content": "P\u00e9nurie de sang \u00e0 cause des destinations de vacances des Belges ? \"La Croix rouge \u00e9tudie de nouveaux tests pour la dengue et le chikungunya\"Des moustiques tigres avaient \u00e9t\u00e9 observ\u00e9s en 2022 et 2024 \u2026 [+3533 chars]",
+      "retrievedAt": "2025-08-29 19:05:44.463443",
+      "internal_id": "6126f7cb7b368b44af47a69906e201103f4c1c36013f64d9a3086266ce86500f",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24158,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "None of main childhood vaccine uptake targets reached in England - as MMR uptake hits 15-year low",
+      "description": "The uptake target for all childhood vaccines is 95% - but one of the main vaccines has been administered to just over 80% of five-year-olds.",
+      "url": "https://news.sky.com/story/none-of-main-childhood-vaccine-uptake-targets-reached-in-england-as-mmr-uptake-hits-15-year-low-13419867",
+      "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-mmr-vaccine-measles_6963798.jpg?20250713090031",
+      "publishedAt": "2025-08-28 09:31:00",
+      "content": "None of the main childhood vaccines in England reached their uptake targets in 2024/25, new figures have revealed. Some 91.9% of five-year-olds have received one dose of the MMR (measles, mumps and \u2026 [+1199 chars]",
+      "retrievedAt": "2025-08-29 19:05:43.377155",
+      "internal_id": "280fcc7c773b7e9aada04855ba053e8b342f7c6acf6577451375205302c5380e",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24164,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "La nueva estrategia de China: desplegar cientos de miles de mosquitos para acabar con esta temible enfermedad",
+      "description": "Una de las enfermedades que m\u00e1s est\u00e1 preocupando en los \u00faltimos meses a m\u00e9dicos y cient\u00edficos de todo el mundo es el virus de chinkungunya, la cual se transmite a trav\u00e9s de la picadura de los mosquitos Aedes aegypti (mosquito del dengue) y Aedes albopictus (m\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13520552/08/25/la-nueva-estrategia-de-china-desplegar-cientos-de-miles-de-mosquitos-para-acabar-con-esta-temible-enfermedad.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/2043x1115/c/c/d/1200x655_varios-mosquitos-en-la-piel.jpg",
+      "publishedAt": "2025-08-28 08:12:08",
+      "content": "Una de las enfermedades que m\u00e1s est\u00e1 preocupando en los \u00faltimos meses a m\u00e9dicos y cient\u00edficos de todo el mundo es el virus de chinkungunya, la cual se transmite a trav\u00e9s de la picadura de los mosquit\u2026 [+2284 chars]",
+      "retrievedAt": "2025-08-29 19:05:44.502566",
+      "internal_id": "f11004eadcaf9ed71a40df2c076a6521fbd468e8fd3aa5222ab6134cd1e1872a",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24171,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u041d\u0430\u0439\u0434\u0435\u043d\u0430 \u0432\u044b\u0437\u0432\u0430\u0432\u0448\u0430\u044f \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044e \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u044f",
+      "description": "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0430 \u0433\u0435\u043d\u043e\u043c\u043d\u044b\u0435 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u043d\u0430\u043b\u0438\u0447\u0438\u044f \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u0432\u0448\u0435\u0439 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044e. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0440\u0430\u0431\u043e\u0442\u044b \u0443\u0447\u0435\u043d\u044b\u0445 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Pathogens.",
+      "url": "https://rg.ru/2025/08/28/najdena-vyzvavshaia-pervuiu-v-istoriiu-zaregistrirovannuiu-pandemiiu-bakteriia.html",
+      "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
+      "publishedAt": "2025-08-28 08:09:06",
+      "content": "Yersinia pestis. . , , , 100 . . \" , , \", - . - , I . - 541 VIII . , . , , , .",
+      "retrievedAt": "2025-08-29 19:05:48.859737",
+      "internal_id": "b67db5eca872effc4a2ade17bd8691212017780b7bdad5a3b14a57aa189c4e75",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24170,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0421\u0442\u0430\u0432\u0438\u0446\u043a\u0438\u0439",
+      "title": "\u0420\u0430\u0441\u043a\u0440\u044b\u0442\u0430 \u0442\u0430\u0439\u043d\u0430 \u0441\u0442\u0440\u0430\u0448\u043d\u0435\u0439\u0448\u0435\u0439 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430",
+      "description": "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0443\u0447\u0435\u043d\u044b\u0445 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0430 \u0433\u0435\u043d\u043e\u043c\u043d\u044b\u0435 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u043d\u0430\u043b\u0438\u0447\u0438\u044f \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u0432\u0448\u0435\u0439 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u044b\u043b\u043e \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Pathogens",
+      "url": "https://lenta.ru/news/2025/08/28/first-pandemic/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/08/28/10/20250828103556225/share_0bf28a1a9888c7fe67345b84b6ea3188.jpg",
+      "publishedAt": "2025-08-28 07:49:31",
+      "content": ", . Pathogens. , I. 541 750 . () , Yersinia pestis. , 100 . , , , . . \u00ab , , \u00bb, . , . . SARS-CoV-2, . , , , , . Brigham and Women's Hospital (BWH) , .",
+      "retrievedAt": "2025-08-29 19:05:48.850146",
+      "internal_id": "cb6d53efdea1681c3e101d398f327d037a19fa9b86adfd203d5208a0fe7ad398",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24159,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "EMTs and paramedics join efforts to stop measles spread",
+      "description": "Since April, 770 cases of measles have been diagnosed - but facts on the ground indicate that thousands of people have been infected.",
+      "url": "https://www.israelnationalnews.com/news/414007",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1121907.jpg",
+      "publishedAt": "2025-08-28 07:29:22",
+      "content": "As Israel's measles outbreak continues, the country's Health Ministry is now recruiting paramedics and medics to assist in the national vaccination effort, Kan Reshet Bet reported Thursday morning. \u2026 [+842 chars]",
+      "retrievedAt": "2025-08-29 19:05:43.417415",
+      "internal_id": "9417d1156567653e019662aae9462f05b42ebde454580c2858290253b5e212d1",
+      "publishedAtLabel": "Aug 28"
+    },
     {
       "id": 24150,
       "query": [
@@ -21852,295 +22124,6 @@
       "content": "Un total de 4 mil 945 contagios y 22 muertes, es el saldo que ha dejado el dengue en lo que va del a\u00f1o. En todo M\u00e9xico, 27 son las entidades afectadas por esta enfermedad viral. TE PUEDE INTERESAR: \u2026 [+1474 chars]",
       "retrievedAt": "2025-07-15 19:07:08.501111",
       "internal_id": "fc831df7c12cdc9f461efcf0ac23cb5301254ca176735403d2a25d8fb2f6dd00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue",
-      "description": "2025 \u00e9 o quarto ano seguido com mais de 1 milh\u00e3o de registros suspeitos da doen\u00e7a The post Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue appeared first on Giz Brasil.",
-      "url": "https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/Captura-de-tela-2025-07-01-192540.png",
-      "publishedAt": "2025-07-13 18:18:12",
-      "content": "Nos \u00faltimos tempos, por\u00e9m, parece n\u00e3o estar sendo assim. Em 2025, havia 1,23 milh\u00e3o de casos suspeitos registrados at\u00e9 o in\u00edcio de maio. \u00c9 uma queda importante (de 81,3%) em rela\u00e7\u00e3o ao anterior. O an\u2026 [+9795 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.538187",
-      "internal_id": "2d481df79eb38cc2bb601054be42c81eff819a652325439fe53d16598e06d180",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22942,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 - \u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 18 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1",
-      "description": "\u0397 \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7, \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u03c2 \u0398\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2\u00bb \u03c4\u03bf\u03bd 14\u03bf \u03b1\u03b9\u03ce\u03bd\u03b1, \u03b5\u03be\u03cc\u03bd\u03c4\u03c9\u03c3\u03b5 \u03ad\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bc\u03b9\u03c3\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2. \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
-      "url": "https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/laboratory-pixabay.jpg?itok=UXb_bvar",
-      "publishedAt": "2025-07-13 15:25:29",
-      "content": ", \u00ab \u00bb 14 , . , . 2007, . , . , \u00ab \u00bb 14 , . . , , (CDC). . Yersinia pestis. , , . , , , . , , , . \u00ab \u00bb, . DEET , , , . .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
-      "retrievedAt": "2025-07-14 19:07:06.131064",
-      "internal_id": "48f9dac6a77f8fae060311f7d5c6871f6bebbafb93e74eff2d29b95b26673878",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22943,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Jo\u00e3o Pedro Lima, Jo\u00e3o Pedro Lima",
-      "title": "Morador dos EUA morre de peste que devastou a Idade M\u00e9dia",
-      "description": "A infec\u00e7\u00e3o bacteriana \u00e9 conhecida por matar milh\u00f5es de pessoas na Europa no s\u00e9culo XIV",
-      "url": "https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bm/uq/fn/bmuqfnqt1k8te784n0ek03rgo.jpg",
-      "publishedAt": "2025-07-13 15:06:43",
-      "content": "Um morador do norte do Arizona, nos Estados Unidos, morreu de peste pneum\u00f4nica nesta sexta-feira (11), segundo autoridades de sa\u00fade. O paciente contraiu a bact\u00e9ria Yersinia pestis , conhecida por cau\u2026 [+1715 chars]",
-      "retrievedAt": "2025-07-14 19:07:06.156302",
-      "internal_id": "98f7a6861cc23c2a6f3e78acadab4cc8fac8847b00e697ba8e94347b85c9ea08",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22935,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds",
-      "description": "An avian influenza outbreak has been confirmed at a poultry farm in Odisha's Puri district, leading the state government to implement emergency measures. These measures include the mass culling of over 6,700 birds after the H5N1 virus was detected. Movement o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122419979,width-1200,height-630,imgsize-6512,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 13:25:39",
-      "content": "A bird flu outbreak has been confirmed in a poultry farm in Odisha's Puri district, prompting the state government to launch emergency containment measures, including mass culling of over 6,700 birds\u2026 [+1395 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.334296",
-      "internal_id": "bd0435aa8465a48864b42d1ae41f4c53e4b6bbcc3c602f82758bb6bd2426acc8",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22940,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Walter Willems",
-      "title": "Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde \u2013 mit Folgen bis heute",
-      "description": "Pest, Malaria, R\u00fcckfallfieber: Viele Infektionskrankheiten trafen den Menschen nicht zuf\u00e4llig. Eine neue Studie zeigt, wann und warum Erreger uns gezielt heimsuchten.",
-      "url": "https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/11545037/alternates/BASE_16_9_W1400/1713532816000/epstein-barr-virus-illustration-epstein-barr-virus-ebv-computer-illustration-ebv-also-known-as.jpeg",
-      "publishedAt": "2025-07-13 12:13:57",
-      "content": "Seit jeher wird der Mensch von Erkrankungen geplagt auch von Infektionskrankheiten. Doch erst ab einer bestimmten Phase der Geschichte handelte sich der Homo sapiens geh\u00e4uft Krankheitserreger ein sog\u2026 [+602 chars]",
-      "retrievedAt": "2025-07-14 19:07:04.255061",
-      "internal_id": "8fe14bfc26364f885b7f0ff73beedb09e98ae235d7a6fd026a3345bee4502869",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22931,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "HuffPost",
-      "author": "Jillian Wilson",
-      "title": "What To Do If There's A Measles Case In Your Area",
-      "description": "As measles cases hit a 30-year-high in the U.S., doctors share what you should do whether you're vaccinated, unvaccinated, immunocompromised or have young children.",
-      "url": "https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67f6db551700002400e1c074.jpeg?cache=Uf9YnEojRG&ops=1200_630",
-      "publishedAt": "2025-07-13 11:00:17",
-      "content": "The measles outbreak in West Texas and beyond is only getting worse. Two unvaccinated children have died of the virus, and measles cases are the highest theyve been in 33 years. The bulk of measles\u2026 [+10564 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.255018",
-      "internal_id": "2f37c2d1351cb9f061fa379f57dc84ef4641f7cf041525c193fcbb4c98fa2dd7",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Liputan6.com",
-      "author": "Benedikta Desideria",
-      "title": "Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya",
-      "description": "Perlu beragam upaya untuk bisa mengendalikan dengue. Salah satunya lewat Surveilans Berbasis Masyarakat. Apa itu?",
-      "url": "https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya",
-      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/zTeCQHYMx17IhlJ-TJcUIAK0FcQ=/0x0:3112x1751/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/5185524/original/084277900_1744437820-f92d87ed-f0fd-4495-884a-d0a5adbed079.jpg",
-      "publishedAt": "2025-07-13 10:18:41",
-      "content": "Liputan6.com, Jakarta Upaya pengendalian dengue tak cukup hanya dilakukan oleh tenaga kesehatan atau pemerintah. Peran aktif masyarakat dinilai sangat penting, terutama melalui pendekatan Surveilans \u2026 [+1238 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.643109",
-      "internal_id": "49caae0d7953bbd13166b76c8c569a0eea9cec9a77098977b99c95a6b44e9af9",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22932,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The-independent.com",
-      "author": "Phoebe Williams and Archana Koirala",
-      "title": "Measles explained: What are the symptoms and how long does the vaccine last?",
-      "description": "Experts have answered six key questions as measles outbreaks occur across the world",
-      "url": "https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/01/11/31/iStock-1142840317.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-13 09:37:56",
-      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6813 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.369988",
-      "internal_id": "9475e646d9211e580c4b0e6e1e281f478f569c9723e49c82031eea704b29c473",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22930,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Child dies at Alder Hey as measles cases surge",
-      "description": "It is thought 17 children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.com/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "A child has died at Liverpool's Alder Hey Children's Hospital after contracting measles, the BBC understands. There has been a surge in children being taken to the hospital after becoming \"seriously\u2026 [+1489 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.164116",
-      "internal_id": "bc9ef8e1a13b8bbe613f471f393cd1659030fc1d616a75e4673110220036c577",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22933,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Stewart Whittingham",
-      "title": "Measles: Child dies at Alder Hey Children's hospital as cases surge",
-      "description": "Seventeen children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.co.uk/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "Consultant epidemiologist Dr Vanessa Saliba from the UK Health Security Agency said: \"Measles is one of the most highly infectious diseases and spreads rapidly among those who are unvaccinated. \"It\u2026 [+903 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.387294",
-      "internal_id": "562d11110aa7efbb58485150e1a36b736e62bd5d180f0be27f1ecee5b2fd6d25",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22934,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "7NEWS.com.au",
-      "author": "Malin Hagglund",
-      "title": "How a common childhood illness became a death sentence",
-      "description": "Two mothers share their heartbreaking stories of the devastating aftermath of a simple dose of measles.",
-      "url": "https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556",
-      "urlToImage": "https://images.7news.com.au/publication/C-19097556/7b0fb592c7c62c0e00b3b2a8acd2bd760df3c7c9-16x9-x0y2w1920h1080.jpg?imwidth=1200",
-      "publishedAt": "2025-07-13 09:07:31",
-      "content": "When Cecily Johnson took her then seven-and-a-half-year-old daughter Laine to hospital with symptoms of confusion and forgetfulness, she didnt expect to be told a common childhood illness had now bec\u2026 [+14179 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.395948",
-      "internal_id": "b617cba080a8b234787b2f181f7e8ab341ff4af51269308384faaae166ad929d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22937,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PTI",
-      "title": "India\u2019s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October",
-      "description": "The multi-centre, double-blind, randomised, placebo-controlled phase-3 trial was launched in August last year to evaluate the jab's efficacy, safety and long-term immunogenicity",
-      "url": "https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/gd3c23/article69806954.ece/alternates/LANDSCAPE_1200/IMG_iStock-926989260_2_1_GOAIETGR.jpg",
-      "publishedAt": "2025-07-13 08:29:54",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3096 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.585739",
-      "internal_id": "3b434713e4f891d96dc8120db56ff77f135b893dc7af484c950ffa87a49351a1",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR",
-      "description": "India's DengiAll vaccine trial is nearing completion. ICMR scientists anticipate enrolling 10,500 participants by October across 20 Indian centers. The phase III trial assesses the Panacea Biotec's one-shot dengue vaccine. Initial trials showed no safety conc\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122416875,width-1200,height-630,imgsize-34116,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 08:19:58",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3114 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.617996",
-      "internal_id": "aa1a5730ae1c2d2e4f05a82b783523ad27741471d7fe3679be0ad4dfaaef0f00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22941,
-      "query": [
-        "typhoid",
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Citizen.digital",
-      "author": "Moses Kinyanjui",
-      "title": "3.5 million children receive measles vaccines in ongoing campaign: Health ministry",
-      "description": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign.",
-      "url": "https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209",
-      "urlToImage": "https://assets.citizen.digital/154748/conversions/duale-og_image.webp",
-      "publishedAt": "2025-07-13 08:12:58",
-      "content": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign. In \u2026 [+2257 chars]",
-      "retrievedAt": "2025-07-14 19:07:05.474773",
-      "internal_id": "9e9c7d74adb9aba2685d1e22f85bea33ef47a7674b9c85a88e73cf9df3c548e2",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22929,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccination, immunity and records: Your questions on measles, answered",
-      "description": "From vaccination to immunity, here are your questions about measles answered, as Canada continues to see cases rising in 2025.",
-      "url": "https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468",
-      "urlToImage": "https://i.cbc.ca/1.7583475.1752270171!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122248.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Canada continues to see an alarming rise in measles cases in 2025. Through the spring, the virus spread most intensely in Ontario. But after over 2,200 cases, hundreds hospitalized and one measles-r\u2026 [+2925 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.147669",
-      "internal_id": "86175a58f525f596e568d92d50675d78a8afcde715a1609a32f104b633dc7c0e",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22944,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care",
-      "description": "Between 2015 and 2024 there were a total of two measles cases recorded in Saskatchewan. So far this year, there have been 60 cases reported.",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549",
-      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Medical experts say Saskatchewan residents should remain vigilant about the threat of measles. The news comes as Alberta reported on Monday it has confirmed 1,314 measles cases this year, which is \u2026 [+3813 chars]",
-      "retrievedAt": "2025-07-15 19:07:07.622887",
-      "internal_id": "5808e5789d530fe8ddc0922e5145fe96c324dac3696e4c8f56ac447b7e344037",
       "publishedAtLabel": "Jul 13"
     }
   ]

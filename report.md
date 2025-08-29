@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-08-29 07:07
-- **Most recent article:** 2025-08-28 05:35:12
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-08-29 19:05
+- **Most recent article:** 2025-08-28 16:48:05
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 43 | 396 |
-| measles | 60 | 47 | 30 | 26 | 26 | 50 | 20 | 259 |
-| dengue | 24 | 36 | 32 | 17 | 25 | 62 | 30 | 226 |
+| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 46 | 399 |
+| measles | 52 | 47 | 30 | 26 | 26 | 50 | 25 | 256 |
+| dengue | 20 | 36 | 32 | 17 | 25 | 62 | 33 | 225 |
 | rabies | 4 | 11 | 10 | 11 | 27 | 39 | 5 | 107 |
-| malaria | 12 | 18 | 13 | 18 | 15 | 19 | 6 | 101 |
-| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 4 | 54 |
-| zika | 8 | 2 | 7 | 8 | 9 | 7 | 7 | 48 |
-| h5n1 | 13 | 4 | 1 | 14 | 3 | 3 | 4 | 42 |
+| malaria | 11 | 18 | 13 | 18 | 15 | 19 | 6 | 100 |
+| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 6 | 56 |
+| zika | 8 | 2 | 7 | 8 | 9 | 7 | 8 | 49 |
 | meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 13 | 42 |
-| yersinia | 5 | 2 | 1 | 0 | 7 | 7 | 3 | 25 |
-| pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 0 | 10 |
-| typhoid | 7 | 1 | 0 | 1 | 1 | 0 | 0 | 10 |
+| h5n1 | 12 | 4 | 1 | 14 | 3 | 3 | 4 | 41 |
+| yersinia | 3 | 2 | 1 | 0 | 7 | 7 | 5 | 25 |
+| pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 1 | 11 |
+| typhoid | 6 | 1 | 0 | 1 | 1 | 0 | 0 | 9 |
 | hpai | 2 | 1 | 0 | 3 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-35 (zika)
+
+- [Attention, le moustique tigre s’est installé en Belgique : “Il est essentiel de surveiller sa présence car elle peut être vecteur de virus”](https://www.lavenir.net/actu/discover/2025/08/28/attention-le-moustique-tigre-sest-installe-en-belgique-il-est-essentiel-de-surveiller-sa-presence-car-elle-peut-etre-vecteur-de-virus-KUZKKSPIKJFRVJ3LVE54G34V6Y/) (Lavenir.net)
 
 - [Visible Light-Driven Photocatalyst-Free Cascade Synthesis of Functionalized Benzopyrans as Inhibitors of Chikungunya nsPs and Zika NS2B-NS3](https://pubs.rsc.org/en/content/articlelanding/2025/ob/d5ob01283j) (Royal Society of Chemistry)
 
@@ -49,6 +51,10 @@ Source: [News API](https://newsapi.org/)
 - [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
 
 ## 25-35 (yersinia)
+
+- [Найдена вызвавшая первую в историю зарегистрированную пандемию бактерия](https://rg.ru/2025/08/28/najdena-vyzvavshaia-pervuiu-v-istoriiu-zaregistrirovannuiu-pandemiiu-bakteriia.html) (Rg.ru)
+
+- [Раскрыта тайна страшнейшей эпидемии в истории человечества](https://lenta.ru/news/2025/08/28/first-pandemic/) (Lenta)
 
 - [Ursprung der ersten Pandemie näher bestimmt](https://science.orf.at/stories/3231759/) (Science.orf.at)
 
@@ -68,7 +74,15 @@ Source: [News API](https://newsapi.org/)
 
 - [TWiV 1247: In the company of vaccines with Stanley Plotkin](https://www.microbe.tv/twiv/twiv-1247/) (Microbe.tv)
 
+## 25-35 (pertussis)
+
+- [Προειδοποίηση ΠΟΥ: Εμβολιάστε τα παιδιά για τον κοκκύτη– Ανθεκτικό στέλεχος εξαπλώνεται στις ΗΠΑ](https://www.newsit.gr/kosmos/proeidopoiisi-pou-emvoliaste-ta-paidia-gia-ton-kokkyti-anthektiko-stelexos-eksaplonetai-stis-ipa/4460715/) (Newsit.gr)
+
 ## 25-35 (mpox)
+
+- [La OMS registra más de 34.000 casos y 138 muertes por mpox en el mundo en lo que va de 2025](https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-34000-casos-138-muertes-mpox-mundo-va-2025-20250828170017.html) (Infosalus.com)
+
+- [Ποιος είναι ο Δημήτρης Δασκαλάκης που παραιτήθηκε από τα CDC με επιστολή – κόλαφο στον Υπουργό Υγείας των ΗΠΑ](https://www.newsit.gr/kosmos/poios-einai-o-dimitris-daskalakis-pou-paraitithike-apo-ta-cdc-me-epistoli-kolafo-ston-ypourgo-ygeias-ton-ipa/4460924/) (Newsit.gr)
 
 - [Moçambique regista 66 casos e 810 suspeitos de mpox](https://observador.pt/2025/08/27/numero-de-casos-de-mpox-em-mocambique-sobe-para-66-e-suspeitos-para-810/) (Observador.pt)
 
@@ -107,6 +121,16 @@ Source: [News API](https://newsapi.org/)
 - [Leute: Lola Weippert hatte drei Wochen Meningitis-Zwangspause](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/leute--lola-weippert-hatte-drei-wochen-meningitis-zwangspause-35998510.html) (STERN.de)
 
 ## 25-35 (measles)
+
+- [Measles spreads faster than COVID-19: Indonesia races to vaccinate](https://en.antaranews.com/news/376365/measles-spreads-faster-than-covid-19-indonesia-races-to-vaccinate) (Antaranews.com)
+
+- [Indonesia to vaccinate 70,000 Sumenep children amid measles outbreak](https://en.antaranews.com/news/376357/indonesia-to-vaccinate-70000-sumenep-children-amid-measles-outbreak) (Antaranews.com)
+
+- [Gauteng Health Dept urges parents to protect children against measles outbreak](https://www.ewn.co.za/2025/08/28/gauteng-health-dept-urges-parents-to-protect-children-against-measles-outbreak) (EWN)
+
+- [None of main childhood vaccine uptake targets reached in England - as MMR uptake hits 15-year low](https://news.sky.com/story/none-of-main-childhood-vaccine-uptake-targets-reached-in-england-as-mmr-uptake-hits-15-year-low-13419867) (Sky.com)
+
+- [EMTs and paramedics join efforts to stop measles spread](https://www.israelnationalnews.com/news/414007) (Israelnationalnews.com)
 
 - [Spokane health officials discuss measles safety for back-to-school season](https://www.khq.com/news/spokane-health-officials-discuss-measles-safety-for-back-to-school-season/article_831a0f66-7f5f-4326-b5bc-2b5833594d66.html) (KHQ Right Now)
 
@@ -178,6 +202,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (dengue)
 
+- [Changing dynamics of Aedes aegypti invasion and vector-borne disease risk for rural communities in the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012506) (Plos.org)
+
+- [Attention, le moustique tigre s’est installé en Belgique : “Il est essentiel de surveiller sa présence car elle peut être vecteur de virus”](https://www.lavenir.net/actu/discover/2025/08/28/attention-le-moustique-tigre-sest-installe-en-belgique-il-est-essentiel-de-surveiller-sa-presence-car-elle-peut-etre-vecteur-de-virus-KUZKKSPIKJFRVJ3LVE54G34V6Y/) (Lavenir.net)
+
+- [La nueva estrategia de China: desplegar cientos de miles de mosquitos para acabar con esta temible enfermedad](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13520552/08/25/la-nueva-estrategia-de-china-desplegar-cientos-de-miles-de-mosquitos-para-acabar-con-esta-temible-enfermedad.html) (Eleconomista.es)
+
 - [Johor records dramatic 58% drop in dengue case](https://www.thestar.com.my/news/nation/2025/08/28/johor-records-dramatic-58-drop-in-dengue-case) (The Star Online)
 
 - [Denguefieber, West-Nil-Virus: Tropische Krankheiten sind in Europa angekommen](https://www.freitag.de/autoren/nick-reimer/dengue-fieber-west-nil-virus-tropische-krankheiten-sind-in-der-eu-angekommen) (Freitag.de)
@@ -239,6 +269,12 @@ Source: [News API](https://newsapi.org/)
 - [Nearly 300 dengue cases reported in Sudurpaschim over eight months](https://english.khabarhub.com/2025/24/492473/) (Khabarhub.com)
 
 ## 25-35 (chikungunya)
+
+- [Paziente positivo al virus Chikungunya a San Donato Milanese](https://www.ansa.it/lombardia/notizie/2025/08/28/paziente-positivo-al-virus-chikungunya-a-san-donato-milanese_99c3a947-815d-4fb8-8a9a-5a4291dce663.html) (ANSA.it)
+
+- [Malgré la propagation du chikungunya, le don de sang ne connaît pas de restriction en France](https://sante.ouest-france.fr/maladies/chikungunya/le-chikungunya-naffecte-pas-le-don-du-sang-aaeb1dc6-8356-11f0-b7f6-35541b8d2287) (Ouest-France)
+
+- [Attention, le moustique tigre s’est installé en Belgique : “Il est essentiel de surveiller sa présence car elle peut être vecteur de virus”](https://www.lavenir.net/actu/discover/2025/08/28/attention-le-moustique-tigre-sest-installe-en-belgique-il-est-essentiel-de-surveiller-sa-presence-car-elle-peut-etre-vecteur-de-virus-KUZKKSPIKJFRVJ3LVE54G34V6Y/) (Lavenir.net)
 
 - [Chikungunya : une épidémie sans précédent en métropole](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-une-epidemie-sans-precedent-en-metropole_7458130.html) (Franceinfo.fr)
 
@@ -2520,10 +2556,6 @@ Source: [News API](https://newsapi.org/)
 
 - [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
-- [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
-
-- [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
-
 ## 25-29 (typhoid)
 
 - [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
@@ -2537,8 +2569,6 @@ Source: [News API](https://newsapi.org/)
 - [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
 
 - [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 ## 25-29 (rabies)
 
@@ -2696,22 +2726,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60%](https://www.sciencealert.com/emergency-vaccines-reduce-disease-outbreak-deaths-by-almost-60) (ScienceAlert)
 
-- [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
-
-- [Measles explained: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html) (The-independent.com)
-
-- [Child dies at Alder Hey as measles cases surge](https://www.bbc.com/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [Measles: Child dies at Alder Hey Children's hospital as cases surge](https://www.bbc.co.uk/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
-
-- [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
-
-- [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
-
 ## 25-29 (malaria)
 
 - [Guardian: Räjähdysmäinen kasvu tämän maan malaria­tapauksissa – Trumpin hallinto leikkasi aiemmin avusta](https://www.is.fi/ulkomaat/art-2000011375734.html) (Www.is.fi)
@@ -2735,8 +2749,6 @@ Source: [News API](https://newsapi.org/)
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
 
 - [A Senate vote this week will test the popularity of DOGE spending cuts](https://financialpost.com/pmn/a-senate-vote-this-week-will-test-the-popularity-of-doge-spending-cuts) (Financial Post)
-
-- [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
 ## 25-29 (hpai)
 
@@ -2769,8 +2781,6 @@ Source: [News API](https://newsapi.org/)
 - [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
 
 - [Bird Flu Is out of the News but Still Circulating](https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/) (Scientific American)
-
-- [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
 
@@ -2813,14 +2823,6 @@ Source: [News API](https://newsapi.org/)
 - [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
 
 - [En lo que va del año suman 4 mil 945 casos y 22 muertos por dengue en el país](https://www.excelsior.com.mx/nacional/en-lo-que-va-del-ano-suman-4-mil-945-casos-y-22-muertos-por-dengue-en-el-pais/1726882) (Excelsior.com.mx)
-
-- [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
-
-- [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
-
-- [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
-
-- [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
 
