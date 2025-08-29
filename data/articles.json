@@ -1,8 +1,153 @@
 {
-  "last_updated": "2025-08-28 19:06",
-  "count_articles_total": 1200,
-  "count_articles_new": 16,
+  "last_updated": "2025-08-29 07:07",
+  "count_articles_total": 1224,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 24150,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KHQ Right Now",
+      "author": "Nonstop Local",
+      "title": "Spokane health officials discuss measles safety for back-to-school season",
+      "description": "SPOKANE, Wash. \u2013 The Spokane Regional Health District hosted a Facebook Live session to address recent measles cases in the area, featuring Health Officer Doctor Francisco Velazquez and Epidemiologist Jenni",
+      "url": "https://www.khq.com/news/spokane-health-officials-discuss-measles-safety-for-back-to-school-season/article_831a0f66-7f5f-4326-b5bc-2b5833594d66.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/7/04/704fcb91-53c2-5e83-bb31-ecd71d5349d3/68afbc292c197.image.jpg?crop=1057%2C555%2C92%2C20",
+      "publishedAt": "2025-08-28 05:35:12",
+      "content": "SPOKANE, Wash. The Spokane Regional Health District hosted a Facebook Live session to address recent measles cases in the area, featuring Health Officer Doctor Francisco Velazquez and Epidemiologist \u2026 [+1060 chars]",
+      "retrievedAt": "2025-08-29 07:07:23.992759",
+      "internal_id": "2b41277688a73d60e2eda79fb600842ddb6184ce864511c69964625075bae3a3",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24152,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Johor records dramatic 58% drop in dengue case",
+      "description": "JOHOR BARU: Johor registered more than 50% decline in cumulative dengue cases in epidemiological week 34 (Epi Week), this year, compared with the corresponding period in 2024. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/28/johor-records-dramatic-58-drop-in-dengue-case",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/28/3491225.jpg",
+      "publishedAt": "2025-08-28 05:24:00",
+      "content": "JOHOR BARU: Johor registered more than 50% decline in cumulative dengue cases in epidemiological week 34 (Epi Week), this year, compared with the corresponding period in 2024. State health and envir\u2026 [+1312 chars]",
+      "retrievedAt": "2025-08-29 07:07:25.028950",
+      "internal_id": "7623d2589a376dff880994ee519de322754e2608e5bff7bb67657669791a980a",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24153,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Freitag.de",
+      "author": "Nick Reimer",
+      "title": "Denguefieber, West-Nil-Virus: Tropische Krankheiten sind in Europa angekommen",
+      "description": "Obwohl hier doch gar nicht die Tropen sind: Nie zuvor wurden so viele \u201eTropische Krankheiten\u201c in der EU \u00fcbertragen, wie in diesem Jahr. Die zust\u00e4ndige Agentur der EU warnt, dass es noch schlimmer wird \u201eUm die Zeit von Augustin, gehn die warmen Tage hin.\u201c So l\u2026",
+      "url": "https://www.freitag.de/autoren/nick-reimer/dengue-fieber-west-nil-virus-tropische-krankheiten-sind-in-der-eu-angekommen",
+      "urlToImage": "https://www.freitag.de/autoren/nick-reimer/dengue-fieber-west-nil-virus-tropische-krankheiten-sind-in-der-eu-angekommen/@@images/image/great",
+      "publishedAt": "2025-08-28 02:00:00",
+      "content": "\u201eUm die Zeit von Augustin, gehn die warmen Tage hin.\u201c So lautet eine der vielen Bauernregeln: Der Namenstag des heiligen Augustinus ist an diesem Donnerstag, kalte Tage sind aber nirgendwo in Sicht. \u2026 [+4496 chars]",
+      "retrievedAt": "2025-08-29 07:07:25.086165",
+      "internal_id": "77a616219d751c6f64b81849b892f8b8f5305971a6089a0f32e1b65b387be4a2",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 24156,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mo\u00e7ambique regista 66 casos e 810 suspeitos de mpox",
+      "description": "O \u00faltimo relat\u00f3rio d\u00e1 conta de mais um infetado em Mo\u00e7ambique nas \u00faltimas 24 horas, na cidade de Chimoio. At\u00e9 agora, o pa\u00eds n\u00e3o registou mortos e conta j\u00e1 com 32 recuperados.",
+      "url": "https://observador.pt/2025/08/27/numero-de-casos-de-mpox-em-mocambique-sobe-para-66-e-suspeitos-para-810/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F10%2F10170037%2F43499338.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-27 20:35:21",
+      "content": "O n\u00famero de casos positivos de mpox em Mo\u00e7ambique subiu para 66, com o registo de mais um caso nas \u00faltimas 24 horas em Manica, centro do pa\u00eds, com o total de suspeitos a subir para 810. No mais rece\u2026 [+2084 chars]",
+      "retrievedAt": "2025-08-29 07:07:27.497161",
+      "internal_id": "4d250e7b650eb8cff3518dfbe3c34282556ab4a93a145ed1f7ae0ec87eb09f80",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 24155,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : une \u00e9pid\u00e9mie sans pr\u00e9c\u00e9dent en m\u00e9tropole",
+      "description": "Avec 228 cas recens\u00e9s depuis le 1er mai, jamais la France m\u00e9tropolitaine n\u2019avait connu une telle \u00e9pid\u00e9mie de chikungunya. Le pourtour m\u00e9diterran\u00e9en et la Nouvelle-Aquitaine sont particuli\u00e8rement concern\u00e9s.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-une-epidemie-sans-precedent-en-metropole_7458130.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/4z-Wcr-gybCfxV8W501OieHU3lA/17x0:1452x807/1500x843/2025/08/27/chiku-68af6b458d103318288796.jpg",
+      "publishedAt": "2025-08-27 20:34:41",
+      "content": "Avec 228 cas recens\u00e9s depuis le 1er mai, jamais la France m\u00e9tropolitaine navait connu une telle \u00e9pid\u00e9mie de chikungunya. Le pourtour m\u00e9diterran\u00e9en et la Nouvelle-Aquitaine sont particuli\u00e8rement conce\u2026 [+1272 chars]",
+      "retrievedAt": "2025-08-29 07:07:27.152353",
+      "internal_id": "d02f40f3bc2ea9d1021d0cd90b572a234c75f9d4f88d98c3caa9fe0078355738",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 24149,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba reports 10 new measles cases, warns of 2 recent exposure sites",
+      "description": "The number of reported cases of measles in Manitoba this year has risen to 187 confirmed and 11 probable, says provincial data that goes up to Aug. 23.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-manitoba-august-27-1.7619323",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-08-27 20:32:36",
+      "content": "Ten measles cases were confirmed in Manitoba during the third week of August. The number of measles cases reported in Manitoba so far this year has risen to 187 confirmed and 11 probable cases, says\u2026 [+2417 chars]",
+      "retrievedAt": "2025-08-29 07:07:23.902417",
+      "internal_id": "e09e74f705f994bccca301fbef07fc171339e45a9e4354064b81a9fb531f88ad",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 24151,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Outbreak In Bulgaria",
+      "description": "A highly pathogenic avian influenza (HPAI) outbreak has occurred on three farms in Bulgaria. The H5N1 bird flu virus was detected on three farms with a total flock of 28,000 birds in the town of Rakovski, the Paris-based WOAH said, citing a report from the Bu\u2026",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-outbreak-in-bulgaria",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/07/birdflu.jpg",
+      "publishedAt": "2025-08-27 20:00:01",
+      "content": "A highly pathogenic avian influenza (HPAI) outbreak has occurred on three farms in Bulgaria. The H5N1 bird flu virus was detected on three farms with a total flock of 28,000 birds in the town of Rako\u2026 [+2090 chars]",
+      "retrievedAt": "2025-08-29 07:07:24.312834",
+      "internal_id": "9cc304759da6f72d1932f519f785051775ef2f987009f6df48911f1433353d70",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 24154,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Ricoverato per Dengue a Siena, disinfezione per zanzara-tigre",
+      "description": "L'amministrazione comunale di Colle val d'Elsa, in provincia di Siena, informa che, in un'area ben identificata e limitata nell'abitato di Gracciano, una frazione, \u00e8 stato rilevato un caso di Dengue. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/08/27/ricoverato-per-dengue-a-siena-disinfezione-per-zanzara-tigre_0dd33fe4-32f0-46be-8697-1d2f0a4e855f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-08-27 19:13:14",
+      "content": "L'amministrazione comunale di Colle val d'Elsa, in provincia di Siena, informa che, in un'area ben identificata e limitata nell'abitato di Gracciano, una frazione, \u00e8 stato rilevato un caso di Deng\u2026 [+872 chars]",
+      "retrievedAt": "2025-08-29 07:07:25.174975",
+      "internal_id": "c8063f14bc125e27ed1b47189dc6825eac82121d8c5436aff0f2503e84e1f792",
+      "publishedAtLabel": "Aug 27"
+    },
     {
       "id": 24141,
       "query": [
@@ -21707,6 +21852,295 @@
       "content": "Un total de 4 mil 945 contagios y 22 muertes, es el saldo que ha dejado el dengue en lo que va del a\u00f1o. En todo M\u00e9xico, 27 son las entidades afectadas por esta enfermedad viral. TE PUEDE INTERESAR: \u2026 [+1474 chars]",
       "retrievedAt": "2025-07-15 19:07:08.501111",
       "internal_id": "fc831df7c12cdc9f461efcf0ac23cb5301254ca176735403d2a25d8fb2f6dd00",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue",
+      "description": "2025 \u00e9 o quarto ano seguido com mais de 1 milh\u00e3o de registros suspeitos da doen\u00e7a The post Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/Captura-de-tela-2025-07-01-192540.png",
+      "publishedAt": "2025-07-13 18:18:12",
+      "content": "Nos \u00faltimos tempos, por\u00e9m, parece n\u00e3o estar sendo assim. Em 2025, havia 1,23 milh\u00e3o de casos suspeitos registrados at\u00e9 o in\u00edcio de maio. \u00c9 uma queda importante (de 81,3%) em rela\u00e7\u00e3o ao anterior. O an\u2026 [+9795 chars]",
+      "retrievedAt": "2025-07-14 19:07:03.538187",
+      "internal_id": "2d481df79eb38cc2bb601054be42c81eff819a652325439fe53d16598e06d180",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22942,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 - \u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 18 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1",
+      "description": "\u0397 \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7, \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u03c2 \u0398\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2\u00bb \u03c4\u03bf\u03bd 14\u03bf \u03b1\u03b9\u03ce\u03bd\u03b1, \u03b5\u03be\u03cc\u03bd\u03c4\u03c9\u03c3\u03b5 \u03ad\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bc\u03b9\u03c3\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2. \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
+      "url": "https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/laboratory-pixabay.jpg?itok=UXb_bvar",
+      "publishedAt": "2025-07-13 15:25:29",
+      "content": ", \u00ab \u00bb 14 , . , . 2007, . , . , \u00ab \u00bb 14 , . . , , (CDC). . Yersinia pestis. , , . , , , . , , , . \u00ab \u00bb, . DEET , , , . .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
+      "retrievedAt": "2025-07-14 19:07:06.131064",
+      "internal_id": "48f9dac6a77f8fae060311f7d5c6871f6bebbafb93e74eff2d29b95b26673878",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22943,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Jo\u00e3o Pedro Lima, Jo\u00e3o Pedro Lima",
+      "title": "Morador dos EUA morre de peste que devastou a Idade M\u00e9dia",
+      "description": "A infec\u00e7\u00e3o bacteriana \u00e9 conhecida por matar milh\u00f5es de pessoas na Europa no s\u00e9culo XIV",
+      "url": "https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bm/uq/fn/bmuqfnqt1k8te784n0ek03rgo.jpg",
+      "publishedAt": "2025-07-13 15:06:43",
+      "content": "Um morador do norte do Arizona, nos Estados Unidos, morreu de peste pneum\u00f4nica nesta sexta-feira (11), segundo autoridades de sa\u00fade. O paciente contraiu a bact\u00e9ria Yersinia pestis , conhecida por cau\u2026 [+1715 chars]",
+      "retrievedAt": "2025-07-14 19:07:06.156302",
+      "internal_id": "98f7a6861cc23c2a6f3e78acadab4cc8fac8847b00e697ba8e94347b85c9ea08",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22935,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds",
+      "description": "An avian influenza outbreak has been confirmed at a poultry farm in Odisha's Puri district, leading the state government to implement emergency measures. These measures include the mass culling of over 6,700 birds after the H5N1 virus was detected. Movement o\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122419979,width-1200,height-630,imgsize-6512,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-13 13:25:39",
+      "content": "A bird flu outbreak has been confirmed in a poultry farm in Odisha's Puri district, prompting the state government to launch emergency containment measures, including mass culling of over 6,700 birds\u2026 [+1395 chars]",
+      "retrievedAt": "2025-07-14 19:07:03.334296",
+      "internal_id": "bd0435aa8465a48864b42d1ae41f4c53e4b6bbcc3c602f82758bb6bd2426acc8",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22940,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Walter Willems",
+      "title": "Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde \u2013 mit Folgen bis heute",
+      "description": "Pest, Malaria, R\u00fcckfallfieber: Viele Infektionskrankheiten trafen den Menschen nicht zuf\u00e4llig. Eine neue Studie zeigt, wann und warum Erreger uns gezielt heimsuchten.",
+      "url": "https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/11545037/alternates/BASE_16_9_W1400/1713532816000/epstein-barr-virus-illustration-epstein-barr-virus-ebv-computer-illustration-ebv-also-known-as.jpeg",
+      "publishedAt": "2025-07-13 12:13:57",
+      "content": "Seit jeher wird der Mensch von Erkrankungen geplagt auch von Infektionskrankheiten. Doch erst ab einer bestimmten Phase der Geschichte handelte sich der Homo sapiens geh\u00e4uft Krankheitserreger ein sog\u2026 [+602 chars]",
+      "retrievedAt": "2025-07-14 19:07:04.255061",
+      "internal_id": "8fe14bfc26364f885b7f0ff73beedb09e98ae235d7a6fd026a3345bee4502869",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22931,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Jillian Wilson",
+      "title": "What To Do If There's A Measles Case In Your Area",
+      "description": "As measles cases hit a 30-year-high in the U.S., doctors share what you should do whether you're vaccinated, unvaccinated, immunocompromised or have young children.",
+      "url": "https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67f6db551700002400e1c074.jpeg?cache=Uf9YnEojRG&ops=1200_630",
+      "publishedAt": "2025-07-13 11:00:17",
+      "content": "The measles outbreak in West Texas and beyond is only getting worse. Two unvaccinated children have died of the virus, and measles cases are the highest theyve been in 33 years. The bulk of measles\u2026 [+10564 chars]",
+      "retrievedAt": "2025-07-14 19:07:02.255018",
+      "internal_id": "2f37c2d1351cb9f061fa379f57dc84ef4641f7cf041525c193fcbb4c98fa2dd7",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Benedikta Desideria",
+      "title": "Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya",
+      "description": "Perlu beragam upaya untuk bisa mengendalikan dengue. Salah satunya lewat Surveilans Berbasis Masyarakat. Apa itu?",
+      "url": "https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/zTeCQHYMx17IhlJ-TJcUIAK0FcQ=/0x0:3112x1751/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/5185524/original/084277900_1744437820-f92d87ed-f0fd-4495-884a-d0a5adbed079.jpg",
+      "publishedAt": "2025-07-13 10:18:41",
+      "content": "Liputan6.com, Jakarta Upaya pengendalian dengue tak cukup hanya dilakukan oleh tenaga kesehatan atau pemerintah. Peran aktif masyarakat dinilai sangat penting, terutama melalui pendekatan Surveilans \u2026 [+1238 chars]",
+      "retrievedAt": "2025-07-14 19:07:03.643109",
+      "internal_id": "49caae0d7953bbd13166b76c8c569a0eea9cec9a77098977b99c95a6b44e9af9",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22932,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Phoebe Williams and Archana Koirala",
+      "title": "Measles explained: What are the symptoms and how long does the vaccine last?",
+      "description": "Experts have answered six key questions as measles outbreaks occur across the world",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/01/11/31/iStock-1142840317.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-07-13 09:37:56",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6813 chars]",
+      "retrievedAt": "2025-07-14 19:07:02.369988",
+      "internal_id": "9475e646d9211e580c4b0e6e1e281f478f569c9723e49c82031eea704b29c473",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22930,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Child dies at Alder Hey as measles cases surge",
+      "description": "It is thought 17 children have been treated at the Liverpool hospital for the virus since June.",
+      "url": "https://www.bbc.com/news/articles/c8j1k3k44e2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
+      "publishedAt": "2025-07-13 09:19:00",
+      "content": "A child has died at Liverpool's Alder Hey Children's Hospital after contracting measles, the BBC understands. There has been a surge in children being taken to the hospital after becoming \"seriously\u2026 [+1489 chars]",
+      "retrievedAt": "2025-07-14 19:07:02.164116",
+      "internal_id": "bc9ef8e1a13b8bbe613f471f393cd1659030fc1d616a75e4673110220036c577",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22933,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Stewart Whittingham",
+      "title": "Measles: Child dies at Alder Hey Children's hospital as cases surge",
+      "description": "Seventeen children have been treated at the Liverpool hospital for the virus since June.",
+      "url": "https://www.bbc.co.uk/news/articles/c8j1k3k44e2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
+      "publishedAt": "2025-07-13 09:19:00",
+      "content": "Consultant epidemiologist Dr Vanessa Saliba from the UK Health Security Agency said: \"Measles is one of the most highly infectious diseases and spreads rapidly among those who are unvaccinated. \"It\u2026 [+903 chars]",
+      "retrievedAt": "2025-07-14 19:07:02.387294",
+      "internal_id": "562d11110aa7efbb58485150e1a36b736e62bd5d180f0be27f1ecee5b2fd6d25",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22934,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Malin Hagglund",
+      "title": "How a common childhood illness became a death sentence",
+      "description": "Two mothers share their heartbreaking stories of the devastating aftermath of a simple dose of measles.",
+      "url": "https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556",
+      "urlToImage": "https://images.7news.com.au/publication/C-19097556/7b0fb592c7c62c0e00b3b2a8acd2bd760df3c7c9-16x9-x0y2w1920h1080.jpg?imwidth=1200",
+      "publishedAt": "2025-07-13 09:07:31",
+      "content": "When Cecily Johnson took her then seven-and-a-half-year-old daughter Laine to hospital with symptoms of confusion and forgetfulness, she didnt expect to be told a common childhood illness had now bec\u2026 [+14179 chars]",
+      "retrievedAt": "2025-07-14 19:07:02.395948",
+      "internal_id": "b617cba080a8b234787b2f181f7e8ab341ff4af51269308384faaae166ad929d",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PTI",
+      "title": "India\u2019s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October",
+      "description": "The multi-centre, double-blind, randomised, placebo-controlled phase-3 trial was launched in August last year to evaluate the jab's efficacy, safety and long-term immunogenicity",
+      "url": "https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/gd3c23/article69806954.ece/alternates/LANDSCAPE_1200/IMG_iStock-926989260_2_1_GOAIETGR.jpg",
+      "publishedAt": "2025-07-13 08:29:54",
+      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3096 chars]",
+      "retrievedAt": "2025-07-14 19:07:03.585739",
+      "internal_id": "3b434713e4f891d96dc8120db56ff77f135b893dc7af484c950ffa87a49351a1",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR",
+      "description": "India's DengiAll vaccine trial is nearing completion. ICMR scientists anticipate enrolling 10,500 participants by October across 20 Indian centers. The phase III trial assesses the Panacea Biotec's one-shot dengue vaccine. Initial trials showed no safety conc\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122416875,width-1200,height-630,imgsize-34116,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-13 08:19:58",
+      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3114 chars]",
+      "retrievedAt": "2025-07-14 19:07:03.617996",
+      "internal_id": "aa1a5730ae1c2d2e4f05a82b783523ad27741471d7fe3679be0ad4dfaaef0f00",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22941,
+      "query": [
+        "typhoid",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Citizen.digital",
+      "author": "Moses Kinyanjui",
+      "title": "3.5 million children receive measles vaccines in ongoing campaign: Health ministry",
+      "description": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign.",
+      "url": "https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209",
+      "urlToImage": "https://assets.citizen.digital/154748/conversions/duale-og_image.webp",
+      "publishedAt": "2025-07-13 08:12:58",
+      "content": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign. In \u2026 [+2257 chars]",
+      "retrievedAt": "2025-07-14 19:07:05.474773",
+      "internal_id": "9e9c7d74adb9aba2685d1e22f85bea33ef47a7674b9c85a88e73cf9df3c548e2",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22929,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Vaccination, immunity and records: Your questions on measles, answered",
+      "description": "From vaccination to immunity, here are your questions about measles answered, as Canada continues to see cases rising in 2025.",
+      "url": "https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468",
+      "urlToImage": "https://i.cbc.ca/1.7583475.1752270171!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122248.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-13 08:01:00",
+      "content": "Canada continues to see an alarming rise in measles cases in 2025. Through the spring, the virus spread most intensely in Ontario. But after over 2,200 cases, hundreds hospitalized and one measles-r\u2026 [+2925 chars]",
+      "retrievedAt": "2025-07-14 19:07:02.147669",
+      "internal_id": "86175a58f525f596e568d92d50675d78a8afcde715a1609a32f104b633dc7c0e",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 22944,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care",
+      "description": "Between 2015 and 2024 there were a total of two measles cases recorded in Saskatchewan. So far this year, there have been 60 cases reported.",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-13 08:01:00",
+      "content": "Medical experts say Saskatchewan residents should remain vigilant about the threat of measles. The news comes as Alberta reported on Monday it has confirmed 1,314 measles cases this year, which is \u2026 [+3813 chars]",
+      "retrievedAt": "2025-07-15 19:07:07.622887",
+      "internal_id": "5808e5789d530fe8ddc0922e5145fe96c324dac3696e4c8f56ac447b7e344037",
       "publishedAtLabel": "Jul 13"
     }
   ]
