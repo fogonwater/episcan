@@ -1,8 +1,298 @@
 {
-  "last_updated": "2025-08-30 07:06",
+  "last_updated": "2025-08-30 19:05",
   "count_articles_total": 1250,
-  "count_articles_new": 11,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 24193,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Hong Kong combatir\u00e1 al virus chikungunya con drones y perros robot",
+      "description": "Un brote del virus chikungunya ha llevado a las autoridades de China a tomar medidas preventivas que van incluyen el uso de drones y perros robot",
+      "url": "https://www.lanacion.com.ar/tecnologia/hong-kong-combatira-al-virus-chikungunya-con-drones-y-perros-robot-nid29082025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-perro-robot-que-usa-la-policia-de-la-ciudad-de-CMZYPOEWARECZN3ZK53PF3JBAY.jpg?auth=cc36f728c2a0fa3b8fc9ad30dd6b854b6f6bab29d806eef22b8bed1d104c107f&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-08-29 18:18:54",
+      "content": "Un brote del virus chikungunya ha llevado a las autoridades de China a tomar medidas preventivas que van desde el uso de mosquiteras, nubes de insecticidas e incluso drones para combatir la enfermeda\u2026 [+2735 chars]",
+      "retrievedAt": "2025-08-30 19:05:35.319989",
+      "internal_id": "5fb0f21a6eb516a97d17faa677191d9ce8e5a85e854b1880ea24d234fa8211df",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24185,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue e Chikungunya, a Padova la tecnica \"human landing\"",
+      "description": "Valeriano (Ulss 6 Euganea): \"Per la presenza di zanzare femmine vicino a casi di infezione\" (ANSA)",
+      "url": "https://www.ansa.it/sito/videogallery/italia/2025/08/29/dengue-e-chikungunya-a-padova-la-tecnica-human-landing_8658779e-37d3-4e65-ae95-31a67a8e09d0.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/8/29/42f312702f0fa6f62aee03d1bc27cce4.jpg",
+      "publishedAt": "2025-08-29 17:37:12",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-08-30 19:05:33.900844",
+      "internal_id": "badc70a28dbd4f86ee70f87e06728333dd7330f448f73b863e3e48d03435e719",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24184,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diego.duran",
+      "title": "Dengue grave vs. dengue: estas son sus diferencias y las se\u00f1ales de alarma",
+      "description": "Diego Dur\u00e1n Si bien la mayor\u00eda de las infecciones por dengue son leves, en algunos casos puede empeorar y convertirse en una versi\u00f3n conocida como dengue grave (antes llamado dengue hemorr\u00e1gico). Esta forma m\u00e1s severa puede causar complicaciones serias y, en\u2026",
+      "url": "https://www.excelsior.com.mx/salud/cuales-son-las-diferencias-entre-el-dengue-hemorragico-y-el-dengue/1736173",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/29/3369970.jpg",
+      "publishedAt": "2025-08-29 17:06:59",
+      "content": "Si bien la mayor\u00eda de las infecciones por dengue son leves, en algunos casos puede empeorar y convertirse en una versi\u00f3n conocida como dengue grave (antes llamado dengue hemorr\u00e1gico). Esta forma m\u00e1s \u2026 [+5070 chars]",
+      "retrievedAt": "2025-08-30 19:05:33.804978",
+      "internal_id": "2056840e362267637e171ffaee0d69f216d908dc0ce4da2b2c89002791569397",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24192,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "\u00c9milien Terme",
+      "title": "Is\u00e8re. La bataille face aux moustiques n\u2019est pas finie \u00e0 Eybens : reportage en pleine nuit avec les agents de d\u00e9moustication",
+      "description": "Cet \u00e9t\u00e9, les cas de chikungunya se sont multipli\u00e9s en Is\u00e8re, poussant l\u2019Agence r\u00e9gionale de sant\u00e9 \u00e0 multiplier les op\u00e9rations de d\u00e9moustication. Ce vendredi, c\u2019est du c\u00f4t\u00e9 d\u2019Eybens que St\u00e9phane Campos et J\u00e9r\u00f4me Quartier sont intervenus, pulv\u00e9risateur en main,\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/08/29/isere-la-bataille-face-aux-moustiques-n-est-pas-finie-a-eybens-reportage-en-pleine-nuit-avec-les-agents-de-demoustication",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/BCE95445-DC91-41B4-97F3-157F0256B270/FB1200/photo-1756486119.jpg",
+      "publishedAt": "2025-08-29 17:04:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-08-30 19:05:35.303523",
+      "internal_id": "5cb4f680a7e759743528048cff44e5a655fb0cf04597bfdda5017b5ad556fb2c",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24194,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 80 i casi di Chikungunya nel Modenese, anche 11enne",
+      "description": "Crescono i casi del focolaio di Chikungunya in provincia di Modena, sono 80, 17 in pi\u00f9 rispetto ai 63 registrati luned\u00ec. Lo comunica l'Ausl modenese, precisando che si tratta di 35 uomini e 45 donne. Il paziente pi\u00f9 piccolo ha 11 anni, mentre il pi\u00f9 anziano 9\u2026",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2025/08/29/salgono-a-80-i-casi-di-chikungunya-nel-modenese-anche-11enne_3e2e5cdd-db15-4d15-948b-9deab76b1f3b.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/6/4/7e7f0ffd5e07c606e2d104299c679e40.jpg",
+      "publishedAt": "2025-08-29 15:14:09",
+      "content": "Crescono i casi del focolaio di Chikungunya in provincia di Modena, sono 80, 17 in pi\u00f9 rispetto ai 63 registrati luned\u00ec. Lo comunica l'Ausl modenese, precisando che si tratta di 35 uomini e 45 don\u2026 [+1438 chars]",
+      "retrievedAt": "2025-08-30 19:05:35.368703",
+      "internal_id": "3b293d4387ae7200d50396dc45b52d19f7d08b60fa42bad56a846c171354ff23",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24197,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina Majchrzak",
+      "title": "Zagadka rozwi\u0105zana po 1500 latach. Chodzi o pierwsz\u0105 pandemi\u0119",
+      "description": "Naukowcy po raz pierwszy w historii zidentyfikowali bezpo\u015bredni materia\u0142 genetyczny sprawcy d\u017cumy, czyli bakterii Yersinia pestis, w samym sercu Bizancjum, gdzie prawie 1500 lat temu rozpocz\u0119\u0142a si\u0119 pierwsza opisana pandemia. Odkrycia dokonano w staro\u017cytnym mi\u2026",
+      "url": "https://geekweek.interia.pl/historia/news-zagadka-rozwiazana-po-1500-latach-chodzi-o-pierwsza-pandemie,nId,22300084",
+      "urlToImage": "https://i.iplsc.com/-/000L50ICNPLWQ1VC-C461.jpg",
+      "publishedAt": "2025-08-29 14:16:59",
+      "content": "Zesp\u00f3 badaczy z Uniwersytetu Poudniowej Florydy i Florida Atlantic University, we wsp\u00f3pracy z naukowcami z Indii i Australii, przebada szcztki ofiar pochowanych w dawnym rzymskim hipodromie. Analiza \u2026 [+1835 chars]",
+      "retrievedAt": "2025-08-30 19:05:36.363459",
+      "internal_id": "5e9d338710957b52dfde9b7c79c6e6238ef23ee484c671d5822debff9199a7b1",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24183,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Delhi Zoo shut for visitors after two painted storks test positive for H5N1 bird flu",
+      "description": "The Delhi Zoo has been temporarily closed after two painted storks tested positive for the H5N1 bird flu virus. Authorities have implemented strict safety and monitoring protocols to prevent the disease from spreading to other animals, staff, and the public. \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-zoo-shut-for-visitors-after-two-painted-storks-test-positive-for-h5n1-bird-flu/articleshow/123586869.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123586874,width-1200,height-630,imgsize-42966,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-08-29 14:09:31",
+      "content": "The Delhi Zoo will remain closed to visitors from Saturday after two painted storks were found infected with the H5N1 bird flu virus, officials confirmed.In a statement on Friday, zoo authorities sai\u2026 [+1246 chars]",
+      "retrievedAt": "2025-08-30 19:05:33.507024",
+      "internal_id": "68191cf0d6508d07bc49b77eeb9965affad3678ac7f66bd25a1416080f80e7e6",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24187,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shweta Chelluboina, Darshan Kshirsagar, Gauri Panzade, Akhilesh Chandra Mishra, Vidya Arankalle, Shubham Shrivastava",
+      "title": "Evaluation of methods for the measurement of antibody-dependent enhancement of dengue virus infection using different Fc\u03b3RIIa expressing cell lines",
+      "description": "Background Pre-existing dengue antibodies could potentially exacerbate disease severity through antibody-dependent enhancement (ADE). Current serological assays focus on measuring neutralizing antibodies for vaccine evaluation, but don\u2019t measure sub-neutraliz\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331320",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331320.g008&size=inline",
+      "publishedAt": "2025-08-29 14:00:00",
+      "content": "Citation: Chelluboina S, Kshirsagar D, Panzade G, Mishra AC, Arankalle V, Shrivastava S (2025) Evaluation of methods for the measurement of antibody-dependent enhancement of dengue virus infection us\u2026 [+51777 chars]",
+      "retrievedAt": "2025-08-30 19:05:33.947629",
+      "internal_id": "9bbadf7330b8e57d28987ea3569414abe0feaccb8037d6a899abc6dd0bd707b8",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24198,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Aurelio Sanguinetti",
+      "title": "La \"peste di Giustiniano\" potrebbe essere stata la prima pandemia della storia",
+      "description": "Nuove ricerche confermano la presenza di Yersinia pestis nella pandemia medievale che devast\u00f2 l'Europa e l'impero bizantino.Il medioevo \u00e8 stato un periodo storico contrassegnato da diverse malattie e pestilenze, la pi\u00f9 famosa delle quali \u00e8 la cosiddetta peste\u2026",
+      "url": "https://tech.everyeye.it/notizie/peste-giustiniano-pandemia-storia-824352.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/la-peste-giustiniano-pandemia-storia-v3-824352.jpg",
+      "publishedAt": "2025-08-29 12:22:00",
+      "content": "Il medioevo \u00e8 stato un periodo storico contrassegnato da diverse malattie e pestilenze, la pi\u00f9 famosa delle quali \u00e8 la cosiddetta peste nera che nel Trecento caus\u00f2 la perdita di un terzo della popola\u2026 [+1787 chars]",
+      "retrievedAt": "2025-08-30 19:05:36.372508",
+      "internal_id": "2413e5ac3a57e5b1849a2cb697bf6f0440165912c76bcede284cacf1cc748cd1",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24191,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Freitag.de",
+      "author": "Amelie Kahl",
+      "title": "Dystopie | Zukunft wie im Mittelalter: \u201eDie Prozesse\u201c von Marius Goldhorn",
+      "description": "Italien, Internet und innere H\u00f6lle: \u201eDie Prozesse\u201c, das zweite Buch von Marius Goldhorn, entwirft eine geheimnisvolle Welt, die br\u00fcchig wie verf\u00fchrerisch ist Es ist Sp\u00e4tsommer 2030, Europa zerf\u00e4llt. Ezra, ein politischer Blogger, \u00fcberlebt nur knapp einen Ansc\u2026",
+      "url": "https://www.freitag.de/autoren/der-freitag/neues-buch-von-marius-goldhorn-zukunft-wie-im-mittelalter",
+      "urlToImage": "https://www.freitag.de/autoren/der-freitag/neues-buch-von-marius-goldhorn-zukunft-wie-im-mittelalter/@@images/image/great",
+      "publishedAt": "2025-08-29 12:00:00",
+      "content": "Es ist Sp\u00e4tsommer 2030, Europa zerf\u00e4llt. Ezra, ein politischer Blogger, \u00fcberlebt nur knapp einen Anschlag. Er ist an Malaria erkrankt, zusammen mit seinem Partner T. geht er aus Verzweiflung raus aus\u2026 [+1910 chars]",
+      "retrievedAt": "2025-08-30 19:05:34.801523",
+      "internal_id": "d6a591664237bb30be2e5c826b12ca1acb0e6df68a9c133ee495060d90c11a71",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24196,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "nomeves",
+      "title": "La peste de Justiniano bajo el microscopio: confirman en Jordania la presencia gen\u00e9tica de Yersinia pestis en la Primera Pandemia",
+      "description": "La historia y la gen\u00e9tica se han dado la mano en un hallazgo que reescribe parte de la historia de las pandemias antiguas. Un equipo internacional de investigadores ha logrado identificar restos gen\u00e9ticos de Yersinia pestis \u2014la bacteria causante de la peste\u2014 \u2026",
+      "url": "https://www.meneame.net/m/ciencia/peste-justiniano-bajo-microscopio-confirman-jordania-presencia",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-08-29 10:37:35",
+      "content": "La historia y la gen\u00e9tica se han dado la mano en un hallazgo que reescribe parte de la historia de las pandemias antiguas. Un equipo internacional de investigadores ha logrado identificar restos gen\u00e9\u2026 [+340 chars]",
+      "retrievedAt": "2025-08-30 19:05:36.339397",
+      "internal_id": "a2496ad9efb4ae4ef0a521701c0ed2a1a060414f262d361fb59bc75ce80eefa0",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24186,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue e chikungunya, a Padova arriva tecnica 'human landing'",
+      "description": "Si chiama human landing ed \u00e8 una delle tecniche praticate a Padova e in Veneto per il controllo del territorio dove si verificano casi di positivit\u00e0 alla Dengue ed agli altri virus di origine tropicali ormai endemici anche a Nord Est. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2025/08/29/dengue-e-chikungunya-a-padova-arriva-tecnica-human-landing_4e3c4d6a-b28f-4c38-96fd-492f2d3ace7b.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/8/29/acfbe9169174a0f453bdb5bd1849a5ff.jpg",
+      "publishedAt": "2025-08-29 10:10:38",
+      "content": "Si chiama human landing ed \u00e8 una delle tecniche praticate a Padova e in Veneto per il controllo del territorio dove si verificano casi di positivit\u00e0 alla Dengue ed agli altri virus di origine trop\u2026 [+1522 chars]",
+      "retrievedAt": "2025-08-30 19:05:33.931644",
+      "internal_id": "9cb8a8d19dd1172b3be9a13ce111af079acd2c71edfdaddbb0f8b9d387d1158c",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24195,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412\u041e\u0417: \u0431\u043e\u043b\u0435\u0435 34 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432 \u043c\u0438\u0440\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
+      "description": "\u041f\u043e\u0447\u0442\u0438 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0443 \u041a\u043e\u043d\u0433\u043e",
+      "url": "https://tass.ru/obschestvo/24900987",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/24900987?u=2025-08-29T08:08:54.902617",
+      "publishedAt": "2025-08-29 08:08:54",
+      "content": ", 29 . //. 34 . 2025 , mpox (\"\"), (). (). , 1 31 2025 84 34 386 mpox, 138 . 15 377 , 30 . 6 522 35 . - 5 149, 52 . 2025 47 3 924 mpox, 30 . - , , - . mpox 2022 11 2023 . , 14 2024 - . Mpox - \u2026 [+11 chars]",
+      "retrievedAt": "2025-08-30 19:05:35.596343",
+      "internal_id": "d5499f27b4e7d5892b8e54cf7eac53930b447968a8a98eb515d9c8a3667d995f",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24188,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Leonie Winstermann",
+      "title": "\"Lebensweisheiten in Strapsen\": Oliver Pocher schie\u00dft erneut gegen Lola Weippert",
+      "description": "Kaum hat Lola Weippert ihre Meningitis \u00fcberstanden, schie\u00dft Oliver Pocher erneut gegen sie \u2013 und nimmt ihren neuesten Instagram-Post scharf ins Visier.",
+      "url": "https://www.focus.de/kultur/stars/lebensweisheiten-in-strapsen-oliver-pocher-schiesst-erneut-gegen-lola-weippert_78606b55-b068-4dfe-9c99-68635ce8dc33.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/d3c85e44-0259-4f00-b7f5-471b9fce1250.861bb333-67b6-4a03-bb89-da2f8cc16abb.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281075%2C544%29&hash=6d279610726ac1507540b0f169a001c9b7fe828c5e714d421b7bcb703e23dcb7",
+      "publishedAt": "2025-08-29 08:00:10",
+      "content": "Vergangene Woche sorgte Lola Weippert mit einem emotionalen Krankenhaus-Post f\u00fcr Aufsehen. Drei Wochen lang lag die RTL-Moderatorin wegen einer Hirnhautentz\u00fcndung flach. Ihre Fans reagierten mit Mitg\u2026 [+2059 chars]",
+      "retrievedAt": "2025-08-30 19:05:34.251651",
+      "internal_id": "5e8b68da9c7a64ff0a84fb7fcf6154818ac6ce97339391308cbff819c7924c55",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24189,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Leonie Winstermann",
+      "title": "\"Lebensweisheiten in Strapsen\": Oliver Pocher feuert erneut gegen Lola Weippert",
+      "description": "Kaum hat Lola Weippert ihre Meningitis \u00fcberstanden, schie\u00dft Oliver Pocher erneut gegen sie \u2013 und nimmt ihren neuesten Instagram-Post scharf ins Visier.",
+      "url": "https://www.focus.de/kultur/stars/lebensweisheiten-in-strapsen-oliver-pocher-feuert-erneut-gegen-lola-weippert_78606b55-b068-4dfe-9c99-68635ce8dc33.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/d3c85e44-0259-4f00-b7f5-471b9fce1250.861bb333-67b6-4a03-bb89-da2f8cc16abb.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281075%2C544%29&hash=6d279610726ac1507540b0f169a001c9b7fe828c5e714d421b7bcb703e23dcb7",
+      "publishedAt": "2025-08-29 08:00:10",
+      "content": "Vergangene Woche sorgte Lola Weippert mit einem emotionalen Krankenhaus-Post f\u00fcr Aufsehen. Drei Wochen lang lag die RTL-Moderatorin wegen einer Hirnhautentz\u00fcndung flach. Ihre Fans reagierten mit Mitg\u2026 [+2059 chars]",
+      "retrievedAt": "2025-08-30 19:05:34.260206",
+      "internal_id": "9627bf41757e42de2d1472cabe6a02c0bc315322b6a670abf8c03b56f5a626d4",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24190,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Evann Gastaldo with Newser.AI",
+      "title": "Fox News Anchor Hospitalized With Malaria",
+      "description": "Fox News anchor John Roberts is recovering in the hospital after a bout with malaria, a parasitic mosquito-borne illness he suspects he picked up during a recent trip to Indonesia. Roberts, 68, tells People he began feeling widespread pain and uncontrollable \u2026",
+      "url": "https://www.newser.com/story/374316/fox-news-anchor-hospitalized-with-malaria.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1630927-12-20250829023002.jpeg",
+      "publishedAt": "2025-08-29 07:30:00",
+      "content": "Roberts said the official diagnosis of malaria was both alarming and oddly unsurprising, noting he told himself, \"Of course you have malaria. You never do anything in small measures.\" He explained th\u2026 [+956 chars]",
+      "retrievedAt": "2025-08-30 19:05:34.792963",
+      "internal_id": "661bd7b5d55d3df3a21f57fb70108b331865554c4625c51441197af3605ac286",
+      "publishedAtLabel": "Aug 29"
+    },
     {
       "id": 24178,
       "query": [
@@ -22322,295 +22612,6 @@
       "content": "Un total de 4 mil 945 contagios y 22 muertes, es el saldo que ha dejado el dengue en lo que va del a\u00f1o. En todo M\u00e9xico, 27 son las entidades afectadas por esta enfermedad viral. TE PUEDE INTERESAR: \u2026 [+1474 chars]",
       "retrievedAt": "2025-07-15 19:07:08.501111",
       "internal_id": "fc831df7c12cdc9f461efcf0ac23cb5301254ca176735403d2a25d8fb2f6dd00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Ag\u00eancia Fapesp",
-      "title": "Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue",
-      "description": "2025 \u00e9 o quarto ano seguido com mais de 1 milh\u00e3o de registros suspeitos da doen\u00e7a The post Circula\u00e7\u00e3o alternada de sorotipos mant\u00e9m elevado o total de casos de dengue appeared first on Giz Brasil.",
-      "url": "https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/Captura-de-tela-2025-07-01-192540.png",
-      "publishedAt": "2025-07-13 18:18:12",
-      "content": "Nos \u00faltimos tempos, por\u00e9m, parece n\u00e3o estar sendo assim. Em 2025, havia 1,23 milh\u00e3o de casos suspeitos registrados at\u00e9 o in\u00edcio de maio. \u00c9 uma queda importante (de 81,3%) em rela\u00e7\u00e3o ao anterior. O an\u2026 [+9795 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.538187",
-      "internal_id": "2d481df79eb38cc2bb601054be42c81eff819a652325439fe53d16598e06d180",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22942,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 - \u039f \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 18 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1",
-      "description": "\u0397 \u03c0\u03b1\u03bd\u03ce\u03bb\u03b7, \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u03c2 \u0398\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2\u00bb \u03c4\u03bf\u03bd 14\u03bf \u03b1\u03b9\u03ce\u03bd\u03b1, \u03b5\u03be\u03cc\u03bd\u03c4\u03c9\u03c3\u03b5 \u03ad\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bc\u03b9\u03c3\u03cc \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2. \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
-      "url": "https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/laboratory-pixabay.jpg?itok=UXb_bvar",
-      "publishedAt": "2025-07-13 15:25:29",
-      "content": ", \u00ab \u00bb 14 , . , . 2007, . , . , \u00ab \u00bb 14 , . . , , (CDC). . Yersinia pestis. , , . , , , . , , , . \u00ab \u00bb, . DEET , , , . .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
-      "retrievedAt": "2025-07-14 19:07:06.131064",
-      "internal_id": "48f9dac6a77f8fae060311f7d5c6871f6bebbafb93e74eff2d29b95b26673878",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22943,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Jo\u00e3o Pedro Lima, Jo\u00e3o Pedro Lima",
-      "title": "Morador dos EUA morre de peste que devastou a Idade M\u00e9dia",
-      "description": "A infec\u00e7\u00e3o bacteriana \u00e9 conhecida por matar milh\u00f5es de pessoas na Europa no s\u00e9culo XIV",
-      "url": "https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/bm/uq/fn/bmuqfnqt1k8te784n0ek03rgo.jpg",
-      "publishedAt": "2025-07-13 15:06:43",
-      "content": "Um morador do norte do Arizona, nos Estados Unidos, morreu de peste pneum\u00f4nica nesta sexta-feira (11), segundo autoridades de sa\u00fade. O paciente contraiu a bact\u00e9ria Yersinia pestis , conhecida por cau\u2026 [+1715 chars]",
-      "retrievedAt": "2025-07-14 19:07:06.156302",
-      "internal_id": "98f7a6861cc23c2a6f3e78acadab4cc8fac8847b00e697ba8e94347b85c9ea08",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22935,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds",
-      "description": "An avian influenza outbreak has been confirmed at a poultry farm in Odisha's Puri district, leading the state government to implement emergency measures. These measures include the mass culling of over 6,700 birds after the H5N1 virus was detected. Movement o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122419979,width-1200,height-630,imgsize-6512,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 13:25:39",
-      "content": "A bird flu outbreak has been confirmed in a poultry farm in Odisha's Puri district, prompting the state government to launch emergency containment measures, including mass culling of over 6,700 birds\u2026 [+1395 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.334296",
-      "internal_id": "bd0435aa8465a48864b42d1ae41f4c53e4b6bbcc3c602f82758bb6bd2426acc8",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22940,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Walter Willems",
-      "title": "Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde \u2013 mit Folgen bis heute",
-      "description": "Pest, Malaria, R\u00fcckfallfieber: Viele Infektionskrankheiten trafen den Menschen nicht zuf\u00e4llig. Eine neue Studie zeigt, wann und warum Erreger uns gezielt heimsuchten.",
-      "url": "https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/11545037/alternates/BASE_16_9_W1400/1713532816000/epstein-barr-virus-illustration-epstein-barr-virus-ebv-computer-illustration-ebv-also-known-as.jpeg",
-      "publishedAt": "2025-07-13 12:13:57",
-      "content": "Seit jeher wird der Mensch von Erkrankungen geplagt auch von Infektionskrankheiten. Doch erst ab einer bestimmten Phase der Geschichte handelte sich der Homo sapiens geh\u00e4uft Krankheitserreger ein sog\u2026 [+602 chars]",
-      "retrievedAt": "2025-07-14 19:07:04.255061",
-      "internal_id": "8fe14bfc26364f885b7f0ff73beedb09e98ae235d7a6fd026a3345bee4502869",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22931,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "HuffPost",
-      "author": "Jillian Wilson",
-      "title": "What To Do If There's A Measles Case In Your Area",
-      "description": "As measles cases hit a 30-year-high in the U.S., doctors share what you should do whether you're vaccinated, unvaccinated, immunocompromised or have young children.",
-      "url": "https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14",
-      "urlToImage": "https://img.huffingtonpost.com/asset/67f6db551700002400e1c074.jpeg?cache=Uf9YnEojRG&ops=1200_630",
-      "publishedAt": "2025-07-13 11:00:17",
-      "content": "The measles outbreak in West Texas and beyond is only getting worse. Two unvaccinated children have died of the virus, and measles cases are the highest theyve been in 33 years. The bulk of measles\u2026 [+10564 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.255018",
-      "internal_id": "2f37c2d1351cb9f061fa379f57dc84ef4641f7cf041525c193fcbb4c98fa2dd7",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Liputan6.com",
-      "author": "Benedikta Desideria",
-      "title": "Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya",
-      "description": "Perlu beragam upaya untuk bisa mengendalikan dengue. Salah satunya lewat Surveilans Berbasis Masyarakat. Apa itu?",
-      "url": "https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya",
-      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/zTeCQHYMx17IhlJ-TJcUIAK0FcQ=/0x0:3112x1751/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/5185524/original/084277900_1744437820-f92d87ed-f0fd-4495-884a-d0a5adbed079.jpg",
-      "publishedAt": "2025-07-13 10:18:41",
-      "content": "Liputan6.com, Jakarta Upaya pengendalian dengue tak cukup hanya dilakukan oleh tenaga kesehatan atau pemerintah. Peran aktif masyarakat dinilai sangat penting, terutama melalui pendekatan Surveilans \u2026 [+1238 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.643109",
-      "internal_id": "49caae0d7953bbd13166b76c8c569a0eea9cec9a77098977b99c95a6b44e9af9",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22932,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The-independent.com",
-      "author": "Phoebe Williams and Archana Koirala",
-      "title": "Measles explained: What are the symptoms and how long does the vaccine last?",
-      "description": "Experts have answered six key questions as measles outbreaks occur across the world",
-      "url": "https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html",
-      "urlToImage": "https://static.the-independent.com/2025/05/01/11/31/iStock-1142840317.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2025-07-13 09:37:56",
-      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6813 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.369988",
-      "internal_id": "9475e646d9211e580c4b0e6e1e281f478f569c9723e49c82031eea704b29c473",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22930,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Child dies at Alder Hey as measles cases surge",
-      "description": "It is thought 17 children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.com/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "A child has died at Liverpool's Alder Hey Children's Hospital after contracting measles, the BBC understands. There has been a surge in children being taken to the hospital after becoming \"seriously\u2026 [+1489 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.164116",
-      "internal_id": "bc9ef8e1a13b8bbe613f471f393cd1659030fc1d616a75e4673110220036c577",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22933,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Stewart Whittingham",
-      "title": "Measles: Child dies at Alder Hey Children's hospital as cases surge",
-      "description": "Seventeen children have been treated at the Liverpool hospital for the virus since June.",
-      "url": "https://www.bbc.co.uk/news/articles/c8j1k3k44e2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg",
-      "publishedAt": "2025-07-13 09:19:00",
-      "content": "Consultant epidemiologist Dr Vanessa Saliba from the UK Health Security Agency said: \"Measles is one of the most highly infectious diseases and spreads rapidly among those who are unvaccinated. \"It\u2026 [+903 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.387294",
-      "internal_id": "562d11110aa7efbb58485150e1a36b736e62bd5d180f0be27f1ecee5b2fd6d25",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22934,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "7NEWS.com.au",
-      "author": "Malin Hagglund",
-      "title": "How a common childhood illness became a death sentence",
-      "description": "Two mothers share their heartbreaking stories of the devastating aftermath of a simple dose of measles.",
-      "url": "https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556",
-      "urlToImage": "https://images.7news.com.au/publication/C-19097556/7b0fb592c7c62c0e00b3b2a8acd2bd760df3c7c9-16x9-x0y2w1920h1080.jpg?imwidth=1200",
-      "publishedAt": "2025-07-13 09:07:31",
-      "content": "When Cecily Johnson took her then seven-and-a-half-year-old daughter Laine to hospital with symptoms of confusion and forgetfulness, she didnt expect to be told a common childhood illness had now bec\u2026 [+14179 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.395948",
-      "internal_id": "b617cba080a8b234787b2f181f7e8ab341ff4af51269308384faaae166ad929d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22937,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PTI",
-      "title": "India\u2019s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October",
-      "description": "The multi-centre, double-blind, randomised, placebo-controlled phase-3 trial was launched in August last year to evaluate the jab's efficacy, safety and long-term immunogenicity",
-      "url": "https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/gd3c23/article69806954.ece/alternates/LANDSCAPE_1200/IMG_iStock-926989260_2_1_GOAIETGR.jpg",
-      "publishedAt": "2025-07-13 08:29:54",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3096 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.585739",
-      "internal_id": "3b434713e4f891d96dc8120db56ff77f135b893dc7af484c950ffa87a49351a1",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR",
-      "description": "India's DengiAll vaccine trial is nearing completion. ICMR scientists anticipate enrolling 10,500 participants by October across 20 Indian centers. The phase III trial assesses the Panacea Biotec's one-shot dengue vaccine. Initial trials showed no safety conc\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-122416875,width-1200,height-630,imgsize-34116,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-07-13 08:19:58",
-      "content": "Enrolment of about 10,500 participants in the phase III clinical trial of the indigenous one-shot Panacea Biotec developed dengue vaccine, DengiAll, is likely to be completed by October across 20 cen\u2026 [+3114 chars]",
-      "retrievedAt": "2025-07-14 19:07:03.617996",
-      "internal_id": "aa1a5730ae1c2d2e4f05a82b783523ad27741471d7fe3679be0ad4dfaaef0f00",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22941,
-      "query": [
-        "typhoid",
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Citizen.digital",
-      "author": "Moses Kinyanjui",
-      "title": "3.5 million children receive measles vaccines in ongoing campaign: Health ministry",
-      "description": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign.",
-      "url": "https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209",
-      "urlToImage": "https://assets.citizen.digital/154748/conversions/duale-og_image.webp",
-      "publishedAt": "2025-07-13 08:12:58",
-      "content": "The Ministry of Health (MoH) has announced that 3.5 million children have so far received their measles vaccines in the ongoing Measles-Rubella (MR) and Typhoid Conjugate Vaccine (TCV) campaign. In \u2026 [+2257 chars]",
-      "retrievedAt": "2025-07-14 19:07:05.474773",
-      "internal_id": "9e9c7d74adb9aba2685d1e22f85bea33ef47a7674b9c85a88e73cf9df3c548e2",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22929,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccination, immunity and records: Your questions on measles, answered",
-      "description": "From vaccination to immunity, here are your questions about measles answered, as Canada continues to see cases rising in 2025.",
-      "url": "https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468",
-      "urlToImage": "https://i.cbc.ca/1.7583475.1752270171!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122248.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Canada continues to see an alarming rise in measles cases in 2025. Through the spring, the virus spread most intensely in Ontario. But after over 2,200 cases, hundreds hospitalized and one measles-r\u2026 [+2925 chars]",
-      "retrievedAt": "2025-07-14 19:07:02.147669",
-      "internal_id": "86175a58f525f596e568d92d50675d78a8afcde715a1609a32f104b633dc7c0e",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 22944,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care",
-      "description": "Between 2015 and 2024 there were a total of two measles cases recorded in Saskatchewan. So far this year, there have been 60 cases reported.",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549",
-      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-13 08:01:00",
-      "content": "Medical experts say Saskatchewan residents should remain vigilant about the threat of measles. The news comes as Alberta reported on Monday it has confirmed 1,314 measles cases this year, which is \u2026 [+3813 chars]",
-      "retrievedAt": "2025-07-15 19:07:07.622887",
-      "internal_id": "5808e5789d530fe8ddc0922e5145fe96c324dac3696e4c8f56ac447b7e344037",
       "publishedAtLabel": "Jul 13"
     }
   ]

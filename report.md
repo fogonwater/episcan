@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-08-30 07:06
-- **Most recent article:** 2025-08-29 07:01:23
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-08-30 19:05
+- **Most recent article:** 2025-08-29 18:18:54
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 46 | 399 |
-| measles | 60 | 47 | 30 | 26 | 26 | 50 | 30 | 269 |
-| dengue | 24 | 36 | 32 | 17 | 25 | 62 | 33 | 229 |
+| chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 51 | 404 |
+| measles | 52 | 47 | 30 | 26 | 26 | 50 | 30 | 261 |
+| dengue | 20 | 36 | 32 | 17 | 25 | 62 | 37 | 229 |
 | rabies | 4 | 11 | 10 | 11 | 27 | 39 | 5 | 107 |
-| malaria | 12 | 18 | 13 | 18 | 15 | 19 | 10 | 105 |
-| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 6 | 56 |
+| malaria | 11 | 18 | 13 | 18 | 15 | 19 | 12 | 106 |
+| mpox | 6 | 9 | 13 | 10 | 7 | 5 | 7 | 57 |
 | zika | 8 | 2 | 7 | 8 | 9 | 7 | 8 | 49 |
-| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 14 | 43 |
-| h5n1 | 13 | 4 | 1 | 14 | 3 | 3 | 4 | 42 |
-| yersinia | 5 | 2 | 1 | 0 | 7 | 7 | 6 | 28 |
+| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 16 | 45 |
+| h5n1 | 12 | 4 | 1 | 14 | 3 | 3 | 5 | 42 |
+| yersinia | 3 | 2 | 1 | 0 | 7 | 7 | 9 | 29 |
 | pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 1 | 11 |
-| typhoid | 7 | 1 | 0 | 1 | 1 | 0 | 0 | 10 |
+| typhoid | 6 | 1 | 0 | 1 | 1 | 0 | 0 | 9 |
 | hpai | 2 | 1 | 0 | 3 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
 
@@ -51,6 +51,12 @@ Source: [News API](https://newsapi.org/)
 - [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
 
 ## 25-35 (yersinia)
+
+- [Zagadka rozwiązana po 1500 latach. Chodzi o pierwszą pandemię](https://geekweek.interia.pl/historia/news-zagadka-rozwiazana-po-1500-latach-chodzi-o-pierwsza-pandemie,nId,22300084) (Interia.pl)
+
+- [La "peste di Giustiniano" potrebbe essere stata la prima pandemia della storia](https://tech.everyeye.it/notizie/peste-giustiniano-pandemia-storia-824352.html) (Everyeye.it)
+
+- [La peste de Justiniano bajo el microscopio: confirman en Jordania la presencia genética de Yersinia pestis en la Primera Pandemia](https://www.meneame.net/m/ciencia/peste-justiniano-bajo-microscopio-confirman-jordania-presencia) (Meneame.net)
 
 - [Mystery solved: Scientists find what caused world’s first pandemic 1500 years ago](https://economictimes.indiatimes.com/news/international/us/mystery-solved-scientists-find-what-caused-worlds-first-pandemic-1500-years-ago-science-health-lifestyle-news/articleshow/123572441.cms) (The Times of India)
 
@@ -82,6 +88,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (mpox)
 
+- [ВОЗ: более 34 тыс. случаев оспы обезьян зарегистрировано в мире с начала года](https://tass.ru/obschestvo/24900987) (Tass.ru)
+
 - [La OMS registra más de 34.000 casos y 138 muertes por mpox en el mundo en lo que va de 2025](https://www.infosalus.com/salud-investigacion/noticia-oms-registra-mas-34000-casos-138-muertes-mpox-mundo-va-2025-20250828170017.html) (Infosalus.com)
 
 - [Ποιος είναι ο Δημήτρης Δασκαλάκης που παραιτήθηκε από τα CDC με επιστολή – κόλαφο στον Υπουργό Υγείας των ΗΠΑ](https://www.newsit.gr/kosmos/poios-einai-o-dimitris-daskalakis-pou-paraitithike-apo-ta-cdc-me-epistoli-kolafo-ston-ypourgo-ygeias-ton-ipa/4460924/) (Newsit.gr)
@@ -95,6 +103,10 @@ Source: [News API](https://newsapi.org/)
 - [Σενεγάλη: Κρούσμα ευλογιάς των πιθήκων σε αλλοδαπό στο Ντακάρ – Μέτρα από τις αρχές](https://www.naftemporiki.gr/kosmos/1996851/senegali-kroysma-eylogias-ton-pithikon-se-allodapo-sto-ntakar-metra-apo-tis-arches/) (Naftemporiki.gr)
 
 ## 25-35 (meningitis)
+
+- ["Lebensweisheiten in Strapsen": Oliver Pocher schießt erneut gegen Lola Weippert](https://www.focus.de/kultur/stars/lebensweisheiten-in-strapsen-oliver-pocher-schiesst-erneut-gegen-lola-weippert_78606b55-b068-4dfe-9c99-68635ce8dc33.html) (Focus)
+
+- ["Lebensweisheiten in Strapsen": Oliver Pocher feuert erneut gegen Lola Weippert](https://www.focus.de/kultur/stars/lebensweisheiten-in-strapsen-oliver-pocher-feuert-erneut-gegen-lola-weippert_78606b55-b068-4dfe-9c99-68635ce8dc33.html) (Focus)
 
 - [Quick action helps save student from meningitis](https://www.bbc.com/news/articles/c4ge838rg28o) (BBC News)
 
@@ -188,6 +200,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (malaria)
 
+- [Dystopie | Zukunft wie im Mittelalter: „Die Prozesse“ von Marius Goldhorn](https://www.freitag.de/autoren/der-freitag/neues-buch-von-marius-goldhorn-zukunft-wie-im-mittelalter) (Freitag.de)
+
+- [Fox News Anchor Hospitalized With Malaria](https://www.newser.com/story/374316/fox-news-anchor-hospitalized-with-malaria.html) (Newser)
+
 - [A Bill Gates le preocupaba la contaminación que emiten los grandes cargueros, así que ha tenido una idea: energía nuclear](https://www.xataka.com/energia/a-bill-gates-le-preocupaba-contaminacion-que-emiten-grandes-cargueros-asi-que-ha-tenido-idea-energia-nuclear) (Xataka.com)
 
 - [Los repelentes espaciales evitan la mitad de las picaduras de mosquito y confirman su eficacia contra la malaria](https://www.infosalus.com/salud-investigacion/noticia-repelentes-espaciales-evitan-mitad-picaduras-mosquito-confirman-eficacia-contra-malaria-20250829074946.html) (Infosalus.com)
@@ -214,6 +230,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (h5n1)
 
+- [Delhi Zoo shut for visitors after two painted storks test positive for H5N1 bird flu](https://economictimes.indiatimes.com/news/new-updates/delhi-zoo-shut-for-visitors-after-two-painted-storks-test-positive-for-h5n1-bird-flu/articleshow/123586869.cms) (The Times of India)
+
 - [Bird Flu Outbreak In Bulgaria](https://www.shtfplan.com/headline-news/bird-flu-outbreak-in-bulgaria) (Shtfplan.com)
 
 - [Seventy U.S. Bird Flu Cases Underscore How Much We Still Don’t Know](https://www.forbes.com/sites/johndrake/2025/08/27/bird-flu-in-the-us-seventy-human-cases-mostly-mild-but-with-warning-signs/) (Forbes)
@@ -223,6 +241,14 @@ Source: [News API](https://newsapi.org/)
 - [3 notícias sobre: ovos](https://super.abril.com.br/sociedade/3-noticias-sobre-ovos/) (Abril.com.br)
 
 ## 25-35 (dengue)
+
+- [Dengue e Chikungunya, a Padova la tecnica "human landing"](https://www.ansa.it/sito/videogallery/italia/2025/08/29/dengue-e-chikungunya-a-padova-la-tecnica-human-landing_8658779e-37d3-4e65-ae95-31a67a8e09d0.html) (ANSA.it)
+
+- [Dengue grave vs. dengue: estas son sus diferencias y las señales de alarma](https://www.excelsior.com.mx/salud/cuales-son-las-diferencias-entre-el-dengue-hemorragico-y-el-dengue/1736173) (Excelsior.com.mx)
+
+- [Evaluation of methods for the measurement of antibody-dependent enhancement of dengue virus infection using different FcγRIIa expressing cell lines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331320) (Plos.org)
+
+- [Dengue e chikungunya, a Padova arriva tecnica 'human landing'](https://www.ansa.it/veneto/notizie/2025/08/29/dengue-e-chikungunya-a-padova-arriva-tecnica-human-landing_4e3c4d6a-b28f-4c38-96fd-492f2d3ace7b.html) (ANSA.it)
 
 - [Changing dynamics of Aedes aegypti invasion and vector-borne disease risk for rural communities in the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012506) (Plos.org)
 
@@ -291,6 +317,16 @@ Source: [News API](https://newsapi.org/)
 - [Nearly 300 dengue cases reported in Sudurpaschim over eight months](https://english.khabarhub.com/2025/24/492473/) (Khabarhub.com)
 
 ## 25-35 (chikungunya)
+
+- [Hong Kong combatirá al virus chikungunya con drones y perros robot](https://www.lanacion.com.ar/tecnologia/hong-kong-combatira-al-virus-chikungunya-con-drones-y-perros-robot-nid29082025/) (La Nacion)
+
+- [Dengue e Chikungunya, a Padova la tecnica "human landing"](https://www.ansa.it/sito/videogallery/italia/2025/08/29/dengue-e-chikungunya-a-padova-la-tecnica-human-landing_8658779e-37d3-4e65-ae95-31a67a8e09d0.html) (ANSA.it)
+
+- [Isère. La bataille face aux moustiques n’est pas finie à Eybens : reportage en pleine nuit avec les agents de démoustication](https://www.ledauphine.com/sante/2025/08/29/isere-la-bataille-face-aux-moustiques-n-est-pas-finie-a-eybens-reportage-en-pleine-nuit-avec-les-agents-de-demoustication) (Le Dauphiné Libéré)
+
+- [Salgono a 80 i casi di Chikungunya nel Modenese, anche 11enne](https://www.ansa.it/emiliaromagna/notizie/2025/08/29/salgono-a-80-i-casi-di-chikungunya-nel-modenese-anche-11enne_3e2e5cdd-db15-4d15-948b-9deab76b1f3b.html) (ANSA.it)
+
+- [Dengue e chikungunya, a Padova arriva tecnica 'human landing'](https://www.ansa.it/veneto/notizie/2025/08/29/dengue-e-chikungunya-a-padova-arriva-tecnica-human-landing_4e3c4d6a-b28f-4c38-96fd-492f2d3ace7b.html) (ANSA.it)
 
 - [Paziente positivo al virus Chikungunya a San Donato Milanese](https://www.ansa.it/lombardia/notizie/2025/08/28/paziente-positivo-al-virus-chikungunya-a-san-donato-milanese_99c3a947-815d-4fb8-8a9a-5a4291dce663.html) (ANSA.it)
 
@@ -2578,10 +2614,6 @@ Source: [News API](https://newsapi.org/)
 
 - [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
-- [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
-
-- [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
-
 ## 25-29 (typhoid)
 
 - [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
@@ -2595,8 +2627,6 @@ Source: [News API](https://newsapi.org/)
 - [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
 
 - [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 ## 25-29 (rabies)
 
@@ -2754,22 +2784,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60%](https://www.sciencealert.com/emergency-vaccines-reduce-disease-outbreak-deaths-by-almost-60) (ScienceAlert)
 
-- [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
-
-- [Measles explained: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html) (The-independent.com)
-
-- [Child dies at Alder Hey as measles cases surge](https://www.bbc.com/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [Measles: Child dies at Alder Hey Children's hospital as cases surge](https://www.bbc.co.uk/news/articles/c8j1k3k44e2o) (BBC News)
-
-- [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
-
-- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
-
-- [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
-
-- [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
-
 ## 25-29 (malaria)
 
 - [Guardian: Räjähdysmäinen kasvu tämän maan malaria­tapauksissa – Trumpin hallinto leikkasi aiemmin avusta](https://www.is.fi/ulkomaat/art-2000011375734.html) (Www.is.fi)
@@ -2793,8 +2807,6 @@ Source: [News API](https://newsapi.org/)
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
 
 - [A Senate vote this week will test the popularity of DOGE spending cuts](https://financialpost.com/pmn/a-senate-vote-this-week-will-test-the-popularity-of-doge-spending-cuts) (Financial Post)
-
-- [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
 ## 25-29 (hpai)
 
@@ -2827,8 +2839,6 @@ Source: [News API](https://newsapi.org/)
 - [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
 
 - [Bird Flu Is out of the News but Still Circulating](https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/) (Scientific American)
-
-- [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
 
@@ -2871,14 +2881,6 @@ Source: [News API](https://newsapi.org/)
 - [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
 
 - [En lo que va del año suman 4 mil 945 casos y 22 muertos por dengue en el país](https://www.excelsior.com.mx/nacional/en-lo-que-va-del-ano-suman-4-mil-945-casos-y-22-muertos-por-dengue-en-el-pais/1726882) (Excelsior.com.mx)
-
-- [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
-
-- [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
-
-- [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
-
-- [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
 
