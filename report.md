@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-08-29 19:05
-- **Most recent article:** 2025-08-28 16:48:05
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-08-30 07:06
+- **Most recent article:** 2025-08-29 07:01:23
 
 ---
 
@@ -13,17 +13,17 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-29 | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
 |--|-|-|-|-|-|-|-|-|
 | chikungunya | 21 | 63 | 36 | 107 | 46 | 80 | 46 | 399 |
-| measles | 52 | 47 | 30 | 26 | 26 | 50 | 25 | 256 |
-| dengue | 20 | 36 | 32 | 17 | 25 | 62 | 33 | 225 |
+| measles | 60 | 47 | 30 | 26 | 26 | 50 | 30 | 269 |
+| dengue | 24 | 36 | 32 | 17 | 25 | 62 | 33 | 229 |
 | rabies | 4 | 11 | 10 | 11 | 27 | 39 | 5 | 107 |
-| malaria | 11 | 18 | 13 | 18 | 15 | 19 | 6 | 100 |
+| malaria | 12 | 18 | 13 | 18 | 15 | 19 | 10 | 105 |
 | mpox | 6 | 9 | 13 | 10 | 7 | 5 | 6 | 56 |
 | zika | 8 | 2 | 7 | 8 | 9 | 7 | 8 | 49 |
-| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 13 | 42 |
-| h5n1 | 12 | 4 | 1 | 14 | 3 | 3 | 4 | 41 |
-| yersinia | 3 | 2 | 1 | 0 | 7 | 7 | 5 | 25 |
+| meningitis | 7 | 12 | 3 | 1 | 4 | 2 | 14 | 43 |
+| h5n1 | 13 | 4 | 1 | 14 | 3 | 3 | 4 | 42 |
+| yersinia | 5 | 2 | 1 | 0 | 7 | 7 | 6 | 28 |
 | pertussis | 4 | 3 | 1 | 0 | 2 | 0 | 1 | 11 |
-| typhoid | 6 | 1 | 0 | 1 | 1 | 0 | 0 | 9 |
+| typhoid | 7 | 1 | 0 | 1 | 1 | 0 | 0 | 10 |
 | hpai | 2 | 1 | 0 | 3 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
 
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 - [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
 
 ## 25-35 (yersinia)
+
+- [Mystery solved: Scientists find what caused world’s first pandemic 1500 years ago](https://economictimes.indiatimes.com/news/international/us/mystery-solved-scientists-find-what-caused-worlds-first-pandemic-1500-years-ago-science-health-lifestyle-news/articleshow/123572441.cms) (The Times of India)
 
 - [Найдена вызвавшая первую в историю зарегистрированную пандемию бактерия](https://rg.ru/2025/08/28/najdena-vyzvavshaia-pervuiu-v-istoriiu-zaregistrirovannuiu-pandemiiu-bakteriia.html) (Rg.ru)
 
@@ -94,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (meningitis)
 
+- [Quick action helps save student from meningitis](https://www.bbc.com/news/articles/c4ge838rg28o) (BBC News)
+
 - [Leute: Lola Weipperts Appell: Geht bei Meningitis-Verdacht zum Arzt](https://www.tagesspiegel.de/gesellschaft/leute-lola-weipperts-appell-geht-bei-meningitis-verdacht-zum-arzt-14228474.html) (Der Tagesspiegel)
 
 - [Leute: Lola Weipperts Appell: Geht bei Meningitis-Verdacht zum Arzt](https://www.zeit.de/news/2025-08/26/lola-weipperts-appell-geht-bei-meningitis-verdacht-zum-arzt) (Die Zeit)
@@ -121,6 +125,16 @@ Source: [News API](https://newsapi.org/)
 - [Leute: Lola Weippert hatte drei Wochen Meningitis-Zwangspause](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/leute--lola-weippert-hatte-drei-wochen-meningitis-zwangspause-35998510.html) (STERN.de)
 
 ## 25-35 (measles)
+
+- [2 Children test positive for Measles after treatment at Providence](https://www.khq.com/news/2-children-test-positive-for-measles-after-treatment-at-providence/article_eff0a95c-53b7-444f-b173-bf2ac0c31d67.html) (KHQ Right Now)
+
+- [Ministry of Health: Measles patient traveled on flight from Budapest to Tel Aviv](https://www.israelnationalnews.com/flashes/665324) (Israelnationalnews.com)
+
+- [Ex-CDC Official Says RFK Jr. Never Briefed On Covid, Measles by His Team](https://www.newsweek.com/rfk-jr-cdc-never-briefed-2121305) (Newsweek)
+
+- [Measles cases confirmed in young children seen at Providence Hospital](https://www.khq.com/news/measles-cases-confirmed-in-young-children-seen-at-providence-hospital/article_cefb9fce-6fe6-4901-8e1b-5578faabd305.html) (KHQ Right Now)
+
+- [Israel reports 152 new measles cases, total at 770](https://www.thestar.com.my/news/world/2025/08/29/israel-reports-152-new-measles-cases-total-at-770) (The Star Online)
 
 - [Measles spreads faster than COVID-19: Indonesia races to vaccinate](https://en.antaranews.com/news/376365/measles-spreads-faster-than-covid-19-indonesia-races-to-vaccinate) (Antaranews.com)
 
@@ -173,6 +187,14 @@ Source: [News API](https://newsapi.org/)
 - [B.C. health officer urges families to check vaccinations ahead of school year](https://www.revelstokereview.com/news/bc-health-officer-urges-families-to-check-vaccinations-ahead-of-school-year-8209889) (Revelstoke Review)
 
 ## 25-35 (malaria)
+
+- [A Bill Gates le preocupaba la contaminación que emiten los grandes cargueros, así que ha tenido una idea: energía nuclear](https://www.xataka.com/energia/a-bill-gates-le-preocupaba-contaminacion-que-emiten-grandes-cargueros-asi-que-ha-tenido-idea-energia-nuclear) (Xataka.com)
+
+- [Los repelentes espaciales evitan la mitad de las picaduras de mosquito y confirman su eficacia contra la malaria](https://www.infosalus.com/salud-investigacion/noticia-repelentes-espaciales-evitan-mitad-picaduras-mosquito-confirman-eficacia-contra-malaria-20250829074946.html) (Infosalus.com)
+
+- [Fox News Anchor John Roberts Hospitalized with 'Severe' Malaria](https://www.justjared.com/2025/08/28/fox-news-anchor-john-roberts-hospitalized-with-severe-malaria/) (Just Jared)
+
+- [Fox News’ John Roberts Shares Update on His Malaria Battle](https://www.usmagazine.com/celebrity-news/news/fox-news-john-roberts-shares-update-on-his-illness/#article) (Us Weekly)
 
 - [Fox News Anchor John Roberts Hospitalized With ‘Severe Case of Malaria’](https://www.mediaite.com/media/tv/fox-news-anchor-john-roberts-hospitalized-with-severe-case-of-malaria/) (Mediaite)
 
@@ -2556,6 +2578,10 @@ Source: [News API](https://newsapi.org/)
 
 - [EUA registram morte por bactéria que vitimou milhões de pessoas na Idade Média](https://www.tecmundo.com.br/ciencia/405683-eua-registram-morte-por-bacteria-que-vitimou-milhoes-de-pessoas-na-idade-media.htm) (Tecmundo.com.br)
 
+- [Καταγράφηκε θάνατος από πανώλη στις ΗΠΑ - Ο πρώτος έπειτα από 18 χρόνια](https://www.skai.gr/news/health/ipa-katagrafike-thanatos-apo-panoli-meta-apo-18-xronia) (Skai.gr)
+
+- [Morador dos EUA morre de peste que devastou a Idade Média](https://ultimosegundo.ig.com.br/mundo/2025-07-13/morador-dos-eua-morre-de-peste-que-devastou-a-idade-media.html) (Ig.com.br)
+
 ## 25-29 (typhoid)
 
 - [Kenya vaccinates over 21 mln children against typhoid, measles](https://www.thestar.com.my/news/world/2025/07/17/kenya-vaccinates-over-21-mln-children-against-typhoid-measles) (The Star Online)
@@ -2569,6 +2595,8 @@ Source: [News API](https://newsapi.org/)
 - [Missed vaccination risks a child's life as eradicated diseases return](https://www.standardmedia.co.ke/health/health-science/article/2001524195/missed-vaccination-risks-a-childs-life-as-eradicated-diseases-return) (Standard Digital)
 
 - [Poor hygiene and fake cards fuel typhoid crisis](https://www.standardmedia.co.ke/health/health-science/article/2001524196/poor-hygiene-and-fake-cards-fuel-typhoid-crisis) (Standard Digital)
+
+- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
 
 ## 25-29 (rabies)
 
@@ -2726,6 +2754,22 @@ Source: [News API](https://newsapi.org/)
 
 - [Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60%](https://www.sciencealert.com/emergency-vaccines-reduce-disease-outbreak-deaths-by-almost-60) (ScienceAlert)
 
+- [What To Do If There's A Measles Case In Your Area](https://www.huffpost.com/entry/what-to-do-measles-outbreak-goog_l_687015a8e4b0ec4e1b973e14) (HuffPost)
+
+- [Measles explained: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-vaccine-symptoms-outbreak-adults-b2788062.html) (The-independent.com)
+
+- [Child dies at Alder Hey as measles cases surge](https://www.bbc.com/news/articles/c8j1k3k44e2o) (BBC News)
+
+- [Measles: Child dies at Alder Hey Children's hospital as cases surge](https://www.bbc.co.uk/news/articles/c8j1k3k44e2o) (BBC News)
+
+- [How a common childhood illness became a death sentence](https://7news.com.au/podcasts/how-a-common-childhood-illness-became-a-death-sentence-c-19097556) (7NEWS.com.au)
+
+- [3.5 million children receive measles vaccines in ongoing campaign: Health ministry](https://www.citizen.digital/news/35-million-children-receive-measles-vaccines-in-ongoing-campaign-health-ministry-n366209) (Citizen.digital)
+
+- [Vaccination, immunity and records: Your questions on measles, answered](https://www.cbc.ca/news/health/measles-outbreak-vaccine-1.7583468) (CBC News)
+
+- [Saskatchewan didn't report a case of measles for 21 days. Here's why you should still care](https://www.cbc.ca/news/canada/saskatchewan/sask-measles-2025-july-1.7584549) (CBC News)
+
 ## 25-29 (malaria)
 
 - [Guardian: Räjähdysmäinen kasvu tämän maan malaria­tapauksissa – Trumpin hallinto leikkasi aiemmin avusta](https://www.is.fi/ulkomaat/art-2000011375734.html) (Www.is.fi)
@@ -2749,6 +2793,8 @@ Source: [News API](https://newsapi.org/)
 - [Health officials issue warning amid surge in cases of dangerous diseases: 'Provides a favorable condition' - NewsBreak](https://www.newsbreak.com/share/4105847427669-health-officials-issue-warning-amid-surge-in-cases-of-dangerous-diseases-provides-a-favorable-condition?_f=app_share&amp;pd=0Hqavf7g&amp;lang=en_US&amp;send_time=1752503886&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.28.0.29%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q2-v4%2Cns_foryou_model_exp_25q2_v2-v9%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v7&amp;s=i2) (Newsbreak.com)
 
 - [A Senate vote this week will test the popularity of DOGE spending cuts](https://financialpost.com/pmn/a-senate-vote-this-week-will-test-the-popularity-of-doge-spending-cuts) (Financial Post)
+
+- [Seuchen aus der Steinzeit: Wie der Mensch zum Erreger-Magnet wurde – mit Folgen bis heute](https://www.tagesspiegel.de/wissen/seuchen-aus-der-steinzeit-wie-der-mensch-zum-erreger-magnet-wurde--mit-folgen-bis-heute-14015474.html) (Der Tagesspiegel)
 
 ## 25-29 (hpai)
 
@@ -2781,6 +2827,8 @@ Source: [News API](https://newsapi.org/)
 - [Could Bird Flu Spread between Humans? Here’s What It Would Take](https://www.scientificamerican.com/article/could-bird-flu-spread-between-humans-heres-what-it-would-take/) (Scientific American)
 
 - [Bird Flu Is out of the News but Still Circulating](https://www.scientificamerican.com/article/bird-flu-is-out-of-the-news-but-still-circulating/) (Scientific American)
+
+- [H5N1 avian influenza detected in Odisha's Puri dist; govt culls over 6,700 birds](https://economictimes.indiatimes.com/news/india/h5n1-avian-influenza-detected-in-odishas-puri-dist-govt-culls-over-6700-birds/articleshow/122419971.cms) (The Times of India)
 
 ## 25-29 (dengue)
 
@@ -2823,6 +2871,14 @@ Source: [News API](https://newsapi.org/)
 - [Una española se va de vacaciones a Filipinas, coge el dengue y su viaje se vuelve un completo infierno](https://www.huffingtonpost.es/virales/una-espanola-vacaciones-filipinas-coge-dengue-viaje-vuelve-completo-infierno.html) (Huffingtonpost.es)
 
 - [En lo que va del año suman 4 mil 945 casos y 22 muertos por dengue en el país](https://www.excelsior.com.mx/nacional/en-lo-que-va-del-ano-suman-4-mil-945-casos-y-22-muertos-por-dengue-en-el-pais/1726882) (Excelsior.com.mx)
+
+- [Circulação alternada de sorotipos mantém elevado o total de casos de dengue](https://gizmodo.uol.com.br/circulacao-alternada-de-sorotipos-mantem-elevado-o-total-de-casos-de-dengue/) (Uol.com.br)
+
+- [Mengendalikan Dengue Lewat Surveilans Berbasis Masyarakat, Ini 3 Keuntungannya](https://www.liputan6.com/health/read/6103915/mengendalikan-dengue-lewat-surveilans-berbasis-masyarakat-ini-3-keuntungannya) (Liputan6.com)
+
+- [India’s first dengue vaccine: ICMR says phase-3 clinical trial enrolment to be completed by October](https://www.thehindubusinessline.com/news/national/indias-first-dengue-vaccine-icmr-says-phase-3-clinical-trial-enrolment-to-be-completed-by-october/article69806944.ece) (BusinessLine)
+
+- [Phase-3 clinical trial enrolment for India's first dengue vaccine to be completed by October: ICMR](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/phase-3-clinical-trial-enrolment-for-indias-first-dengue-vaccine-to-be-completed-by-october-icmr/articleshow/122416858.cms) (The Times of India)
 
 ## 25-29 (chikungunya)
 
