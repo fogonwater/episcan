@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-08-31 07:06
-- **Most recent article:** 2025-08-30 05:46:35
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-08-31 19:05
+- **Most recent article:** 2025-08-30 17:17:03
 
 ---
 
@@ -13,19 +13,19 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
 |--|-|-|-|-|-|-|-|
 | chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 384 |
-| measles | 47 | 30 | 26 | 26 | 50 | 31 | 210 |
-| dengue | 36 | 32 | 17 | 25 | 62 | 37 | 209 |
-| rabies | 11 | 10 | 11 | 27 | 39 | 5 | 103 |
-| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 94 |
+| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 208 |
+| measles | 45 | 30 | 26 | 26 | 50 | 31 | 208 |
+| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 104 |
+| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 93 |
 | mpox | 7 | 13 | 10 | 7 | 5 | 7 | 49 |
 | zika | 2 | 7 | 8 | 9 | 7 | 8 | 41 |
 | meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 38 |
 | h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 30 |
-| yersinia | 2 | 1 | 0 | 7 | 7 | 10 | 27 |
+| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 28 |
 | pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 7 |
 | hpai | 1 | 0 | 3 | 0 | 1 | 1 | 6 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
-| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 3 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -52,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-35 (yersinia)
 
+- [Cómo pudo la peste negra acabar con 75 millones de personas](https://www.nationalgeographic.com.es/ciencia/como-pudo-peste-negra-acabar-75-millones-personas_26085) (Nationalgeographic.com.es)
+
+- [Ancient DNA finally solves the mystery of the world’s first pandemic](https://www.sciencedaily.com/releases/2025/08/250828002415.htm) (Science Daily)
+
 - [Ανακαλύφθηκε ο ένοχος της πρώτης πανδημίας στην ανθρωπότητα](https://www.naftemporiki.gr/techscience/1999045/anakalyfthike-o-enochos-tis-protis-pandimias-stin-anthropotita/) (Naftemporiki.gr)
 
 - [Zagadka rozwiązana po 1500 latach. Chodzi o pierwszą pandemię](https://geekweek.interia.pl/historia/news-zagadka-rozwiazana-po-1500-latach-chodzi-o-pierwsza-pandemie,nId,22300084) (Interia.pl)
@@ -73,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 - [Верблюды из располагавшегося в Румынии караван-сарая пострадали от чумы](https://nplus1.ru/news/2025/08/25/camels-with-plague) (Nplus1.ru)
 
 ## 25-35 (rabies)
+
+- [Dogmans Rabies 2018 1080P BLURAY X264-WATCHABLE](https://post.rlsbb.cc/dogmans-rabies-2018-1080p-bluray-x264-watchable/) (Rlsbb.cc)
 
 - [Wildest NZ travel insurance claims: $14,000 bat bite, $7000 shark bite, $700 rabies shot](https://www.nzherald.co.nz/nz/wildest-nz-travel-insurance-claims-14000-bat-bite-7000-shark-bite-700-rabies-shot/MZ2MAIN23BFQFLINYHHXNXXPPI/) (New Zealand Herald)
 
@@ -247,6 +253,12 @@ Source: [News API](https://newsapi.org/)
 - [3 notícias sobre: ovos](https://super.abril.com.br/sociedade/3-noticias-sobre-ovos/) (Abril.com.br)
 
 ## 25-35 (dengue)
+
+- [Dengue not only causes platelets to drop, but hits the brain too: Doctors](https://timesofindia.indiatimes.com/city/mumbai/dengue-not-only-causes-platelets-to-drop-but-hits-the-brain-too-doctors/articleshow/123605429.cms) (The Times of India)
+
+- [बुखार और सिरदर्द को वायरल समझने की ना करें गलती, ये हो सकते हैं डेंगू के शुरुआती लक्षण!](https://zeenews.india.com/hindi/health/high-fever-to-body-pain-these-warning-signs-of-dengue-fever/2902740) (India.com)
+
+- [Cholera outbreak in Birgunj poses risk of spreading to other areas](https://english.khabarhub.com/2025/30/493468/) (Khabarhub.com)
 
 - [Dengue e Chikungunya, a Padova la tecnica "human landing"](https://www.ansa.it/sito/videogallery/italia/2025/08/29/dengue-e-chikungunya-a-padova-la-tecnica-human-landing_8658779e-37d3-4e65-ae95-31a67a8e09d0.html) (ANSA.it)
 
@@ -2162,12 +2174,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
-- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
-
-## 25-30 (typhoid)
-
-- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
-
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2334,10 +2340,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
-- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
-
-- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
-
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2369,8 +2371,6 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
-
-- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2451,14 +2451,6 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
-
-- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
-
-- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
-
-- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
-
-- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
