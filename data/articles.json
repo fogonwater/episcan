@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-09-01 07:08",
-  "count_articles_total": 1120,
-  "count_articles_new": 4,
+  "last_updated": "2025-09-01 19:05",
+  "count_articles_total": 1119,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 24216,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
+      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
+      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
+      "publishedAt": "2025-08-31 18:54:00",
+      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.282608",
+      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24217,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Felipe Moreira",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2025-08-31 18:52:00",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.291263",
+      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24215,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
+      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-08-31 18:38:53",
+      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.273549",
+      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24218,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Joe DePaolo",
+      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
+      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
+      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
+      "publishedAt": "2025-08-31 13:11:27",
+      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
+      "retrievedAt": "2025-09-01 19:05:46.945270",
+      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24213,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
+      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
+      "publishedAt": "2025-08-31 11:59:00",
+      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
+      "retrievedAt": "2025-09-01 19:05:43.746441",
+      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Merve Elmac\u0131",
+      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
+      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
+      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
+      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
+      "publishedAt": "2025-08-31 09:34:24",
+      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
+      "retrievedAt": "2025-09-01 19:05:47.849568",
+      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24214,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
+      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
+      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
+      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
+      "publishedAt": "2025-08-31 09:00:00",
+      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
+      "retrievedAt": "2025-09-01 19:05:43.936620",
+      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
+      "publishedAtLabel": "Aug 31"
+    },
     {
       "id": 24212,
       "query": [
@@ -20111,151 +20237,6 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23095,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Layse Ventura",
-      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
-      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
-      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
-      "publishedAt": "2025-07-20 17:58:33",
-      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.372656",
-      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Michel Cruz",
-      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
-      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
-      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
-      "publishedAt": "2025-07-20 17:55:00",
-      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
-      "retrievedAt": "2025-07-21 19:07:23.222563",
-      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23097,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Instituto Butantan",
-      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
-      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
-      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
-      "publishedAt": "2025-07-20 17:12:29",
-      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.444312",
-      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23094,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Scrippsnews.com",
-      "author": "Justin Boggs",
-      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
-      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
-      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
-      "publishedAt": "2025-07-20 15:05:19",
-      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
-      "retrievedAt": "2025-07-21 19:07:21.550581",
-      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23096,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
-      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
-      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
-      "publishedAt": "2025-07-20 13:00:50",
-      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.412879",
-      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23093,
-      "query": [
-        "measles",
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Salon",
-      "author": "Andrea Mazzarino",
-      "title": "From Gaza to Ukraine, war is also an assault on public health",
-      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
-      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
-      "publishedAt": "2025-07-20 10:00:29",
-      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
-      "retrievedAt": "2025-07-21 19:07:21.410040",
-      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23100,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Daily Geek Show",
-      "author": "contact@dailygeekshow.com (DGS)",
-      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
-      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
-      "url": "https://dailygeekshow.com/peste-pulmonaire/",
-      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
-      "publishedAt": "2025-07-20 08:30:00",
-      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
-      "retrievedAt": "2025-07-21 19:07:25.249615",
-      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23098,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surge in Chitwan",
-      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
-      "url": "https://english.khabarhub.com/2025/20/486461/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-20 08:15:15",
-      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.460375",
-      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]
