@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-08-31 19:05
-- **Most recent article:** 2025-08-30 17:17:03
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-09-01 07:08
+- **Most recent article:** 2025-08-31 06:46:46
 
 ---
 
@@ -10,27 +10,39 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | Total |
-|--|-|-|-|-|-|-|-|
-| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 384 |
-| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 208 |
-| measles | 45 | 30 | 26 | 26 | 50 | 31 | 208 |
-| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 104 |
-| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 93 |
-| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 49 |
-| zika | 2 | 7 | 8 | 9 | 7 | 8 | 41 |
-| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 38 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 30 |
-| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 28 |
-| pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 7 |
-| hpai | 1 | 0 | 3 | 0 | 1 | 1 | 6 |
-| leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 4 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
+| Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
+|--|-|-|-|-|-|-|-|-|
+| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 0 | 384 |
+| measles | 47 | 30 | 26 | 26 | 50 | 32 | 1 | 212 |
+| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 0 | 212 |
+| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 0 | 104 |
+| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 0 | 94 |
+| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 0 | 49 |
+| zika | 2 | 7 | 8 | 9 | 7 | 8 | 0 | 41 |
+| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 0 | 38 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 1 | 31 |
+| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 1 | 30 |
+| pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 0 | 7 |
+| hpai | 1 | 0 | 3 | 0 | 1 | 1 | 0 | 6 |
+| leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 4 |
+| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-36 (yersinia)
+
+- [Древняя ДНК раскрыла тайну первой в мире пандемии](https://hi-tech.mail.ru/news/132969-drevnyaya-dnk-raskryla-tajnu-pervoj-v-mire-pandemii/) (Mail.ru)
+
+## 25-36 (measles)
+
+- [Vaccination plea after baby's 'terrifying' measles](https://www.bbc.com/news/articles/c1ej2n0lwzyo) (BBC News)
+
+## 25-36 (h5n1)
+
+- [ഭാവിയിലെ വെല്ലുവിളി ജന്തുജന്യ രോഗങ്ങൾ, അടുത്ത പകർച്ചവ്യാധി H5N1 ആവാം- ആരോഗ്യമന്ത്രി](https://www.mathrubhumi.com/health/news/kerala-health-minister-warns-zoonotic-disease-threats-1.10878372) (Mathrubhumi.com)
 
 ## 25-35 (zika)
 
@@ -147,6 +159,8 @@ Source: [News API](https://newsapi.org/)
 ## 25-35 (measles)
 
 - [Ex-CDC Official Says RFK Jr. Was Never Briefed On Key Topics, Including Measles, By Agency Experts](https://www.huffpost.com/entry/demetre-daskalakis-cdc-rfk-jr-brief-cnn_n_68b2010de4b072bf6d64919d) (HuffPost)
+
+- [DHS confirms 23 cases of measles in Oconto County](https://www.wisn.com/article/dhs-confirms-23-cases-of-measles-oconto-county-wisconsin/65935662) (WISN Milwaukee)
 
 - [2 Children test positive for Measles after treatment at Providence](https://www.khq.com/news/2-children-test-positive-for-measles-after-treatment-at-providence/article_eff0a95c-53b7-444f-b173-bf2ac0c31d67.html) (KHQ Right Now)
 
@@ -2174,6 +2188,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
+- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
+
+## 25-30 (typhoid)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2340,6 +2360,10 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
+- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2371,6 +2395,8 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
+
+- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2451,6 +2477,14 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
+
+- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
+
+- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
+
+- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
+
+- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 

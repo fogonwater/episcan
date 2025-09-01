@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-08-31 19:05",
-  "count_articles_total": 1108,
-  "count_articles_new": 6,
+  "last_updated": "2025-09-01 07:08",
+  "count_articles_total": 1120,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 24212,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "Hi-Tech Mail",
+      "title": "\u0414\u0440\u0435\u0432\u043d\u044f\u044f \u0414\u041d\u041a \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0430 \u0442\u0430\u0439\u043d\u0443 \u043f\u0435\u0440\u0432\u043e\u0439 \u0432 \u043c\u0438\u0440\u0435 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438",
+      "description": "\u0413\u0440\u0443\u043f\u043f\u0430 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u043e\u0432 \u0438 \u0433\u0435\u043d\u0435\u0442\u0438\u043a\u043e\u0432 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0430, \u043a\u0430\u043a\u0430\u044f \u0438\u043c\u0435\u043d\u043d\u043e \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u044f \u0441\u0442\u0430\u043b\u0430 \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0447\u0443\u043c\u044b, \u0432\u0441\u043f\u044b\u0445\u043d\u0443\u0432\u0448\u0435\u0439 \u0432 \u044d\u043f\u043e\u0445\u0443 \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0438\u0437\u0430\u043d\u0442\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430 \u042e\u0441\u0442\u0438\u043d\u0438\u0430\u043d\u0430 I \u0438 \u0437\u0430\u0442\u0440\u043e\u043d\u0443\u0432\u0448\u0435\u0439 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u0447\u0430\u0441\u0442\u044c \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u043c\u0438\u0440\u0430 \u0442\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438. \u0423\u0447\u0435\u043d\u044b\u0435 \u0432\u043f\u0435\u0440\u2026",
+      "url": "https://hi-tech.mail.ru/news/132969-drevnyaya-dnk-raskryla-tajnu-pervoj-v-mire-pandemii/",
+      "urlToImage": "https://resizer.mail.ru/p/acd01c79-8bd6-5d77-a439-a5dbf0e53aa9/AQAKdfbI0r2bWQSeE_5aB1J17B5ciDDlI_GJZ5v2-ykY-KPD9pV9zi3yMcJyISH2mErdjidof7HyRt_6jVe6pgY3dPU.jpg",
+      "publishedAt": "2025-08-31 06:46:46",
+      "content": ", , . \u2014 . 1500 , ScienceDaily. , . Yersinia pestis, , (). . . \u00ab Y. pestis . , , . , \u00bb, \u2014 . . , , . ( --). , , . Y. pestis , \u00ab\u00bb . \u00ab , , \u2014 , 300\u2026 [+67 chars]",
+      "retrievedAt": "2025-09-01 07:08:41.815698",
+      "internal_id": "813de018e6c99baa967952dde293afb872631fd959983226b458c2cbf12eb901",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24209,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Vaccination plea after baby's 'terrifying' measles",
+      "description": "Eight areas in the North East and Cumbria have seen a slight or moderate increase in MMR jab rates.",
+      "url": "https://www.bbc.com/news/articles/c1ej2n0lwzyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62b7/live/8895abd0-7f8a-11f0-a520-c1d9b927a39c.jpg",
+      "publishedAt": "2025-08-31 06:15:33",
+      "content": "Sharon BarbourHealth correspondent, BBC North East and Cumbria Baby Saskia had the typical measles rash Nowhere in the north-east of England and Cumbria has the childhood measles, mumps and rubella\u2026 [+4560 chars]",
+      "retrievedAt": "2025-09-01 07:08:39.216776",
+      "internal_id": "2f50c0eb3687af697c9f7f8fe6b8db9c1fd53bd5d8d365f583c337af910ef7fe",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24211,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mathrubhumi.com",
+      "author": "Mathrubhumi",
+      "title": "\u0d2d\u0d3e\u0d35\u0d3f\u0d2f\u0d3f\u0d32\u0d46 \u0d35\u0d46\u0d32\u0d4d\u0d32\u0d41\u0d35\u0d3f\u0d33\u0d3f \u0d1c\u0d28\u0d4d\u0d24\u0d41\u0d1c\u0d28\u0d4d\u0d2f \u0d30\u0d4b\u0d17\u0d19\u0d4d\u0d19\u0d7e, \u0d05\u0d1f\u0d41\u0d24\u0d4d\u0d24 \u0d2a\u0d15\u0d7c\u0d1a\u0d4d\u0d1a\u0d35\u0d4d\u0d2f\u0d3e\u0d27\u0d3f H5N1 \u0d06\u0d35\u0d3e\u0d02- \u0d06\u0d30\u0d47\u0d3e\u0d17\u0d4d\u0d2f\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "description": "\u0d15\u0d4b\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d: \u0d28\u0d2e\u0d4d\u0d2e\u0d7e \u0d28\u0d47\u0d30\u0d3f\u0d1f\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d2a\u0d41\u0d24\u0d3f\u0d2f \u0d15\u0d3e\u0d32\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d35\u0d46\u0d32\u0d4d\u0d32\u0d41\u0d35\u0d3f\u0d33\u0d3f\u0d15\u0d33\u0d46\u0d2f\u0d3e\u0d23\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d06\u0d30\u0d4b\u200b\u0d17\u0d4d\u0d2f\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d35\u0d40\u0d23\u0d3e \u0d1c\u0d4b\u0d7c\u0d1c\u0d4d. \u0d2d\u0d3e\u0d35\u0d3f\u0d2f\u0d3f\u0d7d \u0d1c\u0d28\u0d4d\u0d24\u0d41\u0d1c\u0d28\u0d4d\u0d2f \u0d30\u0d4b\u0d17\u0d19\u0d4d\u0d19\u0d7e \u0d35\u0d32\u0d3f\u0d2f \u0d06\u0d36\u0d19\u0d4d\u0d15\u0d2f\u0d3e\u0d15\u0d41\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d35\u0d3f\u0d26\u0d17\u0d4d\u0d27\u0d7c \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d4d \u0d28\u0d7d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41. \u0d15\u0d47\u0d30\u0d33\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d15\u0d47\u0d38\u0d41\u0d15\u0d7e \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d \u0d1a\u0d46\u0d2f\u0d4d\u0d2f\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d38\u0d02\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d46 \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d2e\u0d47\u0d16\u0d32 \u0d38\u0d46\u0d7b\u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d40\u0d35\u0d3e\u0d2f\u2026",
+      "url": "https://www.mathrubhumi.com/health/news/kerala-health-minister-warns-zoonotic-disease-threats-1.10878372",
+      "urlToImage": "https://www.mathrubhumi.com/image/contentid/policy:1.10878383:1756619632/Veena-George.jpg?$p=d256d7b&f=16x9&w=1080&q=0.8",
+      "publishedAt": "2025-08-31 06:05:56",
+      "content": "\u0d06\u0d30\u0d47\u0d3e\u0d17\u0d4d\u0d2f\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d35\u0d40\u0d23\u0d3e \u0d1c\u0d47\u0d3e\u0d7c\u0d1c\u0d4d \u0d2e\u0d3e\u0d24\u0d43\u0d2d\u0d42\u0d2e\u0d3f \u0d28\u0d4d\u0d2f\u0d42\u0d38\u0d4d\u200c \u0d39\u0d46\u0d7d\u0d24\u0d4d\u0d24\u0d4d \u0d15\u0d4b\u0d7a\u0d15\u0d4d\u0d32\u0d47\u0d35\u0d4d-\u2018\u0d0e\u0d2e\u0d46\u0d7c\u0d1c\u0d4d 2025\u2019 \u0d09\u0d26\u0d4d\u0d18\u0d3e\u0d1f\u0d28\u0d02 \u0d1a\u0d46\u0d2f\u0d4d\u0d24\u0d4d \u0d38\u0d02\u0d38\u0d3e\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41 (Photo: \u0d05\u0d30\u0d41\u0d7a \u0d28\u0d3f\u0d32\u0d2e\u0d4d\u0d2a\u0d42\u0d7c)",
+      "retrievedAt": "2025-09-01 07:08:39.767707",
+      "internal_id": "b763c24736ce003ca8f60b56304f34fca1ef4e2b2f82c345a491a6e943406bf4",
+      "publishedAtLabel": "Aug 31"
+    },
     {
       "id": 24204,
       "query": [
@@ -163,6 +217,24 @@
       "content": "Dr. Demetre Daskalakis, who recently resigned from the Centers for Disease Control and Prevention, completely unloaded on Health and Human Services Secretary Robert F. Kennedy Jr., claiming there is \u2026 [+4158 chars]",
       "retrievedAt": "2025-08-31 07:06:43.951723",
       "internal_id": "1454e3882452ea826b21b9f2cd91006cbee7c0b4a8585defe4b70662ad318a80",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 24210,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Sam Schmitz",
+      "title": "DHS confirms 23 cases of measles in Oconto County",
+      "description": "The Wisconsin Department of Health Services said there have been two hospitalizations reported.",
+      "url": "https://www.wisn.com/article/dhs-confirms-23-cases-of-measles-oconto-county-wisconsin/65935662",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-5-68b223286237e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-29 22:08:51",
+      "content": "OCONTO COUNTY, Wis. \u2014The Wisconsin Department of Health Services and Oconto County Public Health said that they've identified 23 confirmed cases of measles in Oconto County as of Aug. 29. In all 23 \u2026 [+2193 chars]",
+      "retrievedAt": "2025-09-01 07:08:39.297853",
+      "internal_id": "2baa50c0f110eb9ef2e8ac2a1d21cb6268a89957e81ed6fe92f924a9a9a3312a",
       "publishedAtLabel": "Aug 29"
     },
     {
@@ -20039,6 +20111,151 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Layse Ventura",
+      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
+      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
+      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
+      "publishedAt": "2025-07-20 17:58:33",
+      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.372656",
+      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Michel Cruz",
+      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
+      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
+      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
+      "publishedAt": "2025-07-20 17:55:00",
+      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
+      "retrievedAt": "2025-07-21 19:07:23.222563",
+      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
+      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
+      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
+      "publishedAt": "2025-07-20 17:12:29",
+      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.444312",
+      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Justin Boggs",
+      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
+      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
+      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
+      "publishedAt": "2025-07-20 15:05:19",
+      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.550581",
+      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23096,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
+      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-20 13:00:50",
+      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.412879",
+      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23093,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Andrea Mazzarino",
+      "title": "From Gaza to Ukraine, war is also an assault on public health",
+      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
+      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
+      "publishedAt": "2025-07-20 10:00:29",
+      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.410040",
+      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23100,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Daily Geek Show",
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
+      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
+      "url": "https://dailygeekshow.com/peste-pulmonaire/",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
+      "publishedAt": "2025-07-20 08:30:00",
+      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
+      "retrievedAt": "2025-07-21 19:07:25.249615",
+      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23098,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surge in Chitwan",
+      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
+      "url": "https://english.khabarhub.com/2025/20/486461/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-20 08:15:15",
+      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.460375",
+      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]
