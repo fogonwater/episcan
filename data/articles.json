@@ -1,8 +1,206 @@
 {
-  "last_updated": "2025-09-01 19:05",
-  "count_articles_total": 1119,
-  "count_articles_new": 7,
+  "last_updated": "2025-09-02 07:07",
+  "count_articles_total": 1140,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 24222,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Aimee Dexter",
+      "title": "Mum of girl who died from chickenpox welcomes vaccine plan",
+      "description": "Angie Bunce-Mason, whose daughter died aged three, says the announcement is welcome news.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3jx4vlde5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bb0/live/8dc5bc10-86ee-11f0-bd23-b5043cff51ce.jpg",
+      "publishedAt": "2025-09-01 05:47:25",
+      "content": "The vaccine will be given as two doses, at 12 and 18 months of age, combined with the existing MMR jab which protects against measles, mumps and rubella. Until now, parents who wanted to protect the\u2026 [+409 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.878837",
+      "internal_id": "f7d4b1203b78fa0449aae8231750e5d90c9362386372b56920e763802b2dd0df",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24230,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Ayoki Onyango",
+      "title": "Concern over growing threat posed by infectious meningitis in Kenya",
+      "description": "Widespread in the past, endemic zones have been reduced due to the efforts by doctors, researchers and scientists to minimise the dangers posed by the disease.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001528258/concern-over-growing-threat-posed-by-infectious-meningitis-in-kenya",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/LjLjPWcSvz40QWOa6C4GjMN2oACoV1bUPbIrUV2c.jpg",
+      "publishedAt": "2025-09-01 05:45:36",
+      "content": "One dose of meningococcal vaccine. [Courtesy/GettyImages] Eight billion people live in parts of the world where meningococcal meningitis is rampant. More than a third of humanity is thus exposed to \u2026 [+5008 chars]",
+      "retrievedAt": "2025-09-02 07:07:40.936405",
+      "internal_id": "eadac5f73d38bcf3915bb98ad4dc6f64830e7ea79eccf3095b9a202406ca7b8f",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24227,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Bird flu scare at Delhi zoo: Avian death toll rises to 12; facility shut indefinitely",
+      "description": "The Delhi Zoo has been indefinitely closed following a bird flu outbreak, marking its third closure in nine years due to the disease. Recent deaths of painted storks and black-headed ibis have tested positive for the H5N1 strain.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/bird-flu-alarm-avian-deaths-continue-in-shut-delhi-zoo/articleshow/123619442.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123625630,width-1070,height-580,imgsize-1094919,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-01 03:51:39",
+      "content": "'Lokah' actress Kalyani Priyadarshans captivating pictures",
+      "retrievedAt": "2025-09-02 07:07:39.670102",
+      "internal_id": "8adf35d074a98a93b4082b857d58fc766cfff02995575174303a163c01bc78ff",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24224,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "NTB-Reuters",
+      "title": "Bekrefter utbrudd av fugleinfluensa i England",
+      "description": "Det sv\u00e6rt smittsomme fugleinfluensaviruset H5N1 er bekreftet hos fj\u00e6rfe p\u00e5 en g\u00e5rd i S\u00f8rvest-England, opplyste britiske myndigheter s\u00f8ndag.",
+      "url": "https://www.aftenposten.no/verden/i/vgMj7j/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-soervest-england",
+      "urlToImage": "https://cdn.aftenposten.no/ap/images/fallback-v2.png",
+      "publishedAt": "2025-09-01 03:50:53",
+      "content": "Det sv\u00e6rt smittsomme fugleinfluensaviruset H5N1 er bekreftet hos fj\u00e6rfe p\u00e5 en g\u00e5rd i S\u00f8rvest-England, opplyste britiske myndigheter s\u00f8ndag. Publisert: 01.09.2025 05:50 En beskyttelsessone p\u00e5 3 kilo\u2026 [+190 chars]",
+      "retrievedAt": "2025-09-02 07:07:39.621098",
+      "internal_id": "c646337e8fd24c48bdeb718ea0b89455f31c3e4f00d528e1b303584e6cd09f2b",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24226,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i S\u00f8rvest-England",
+      "description": "Det sv\u00e6rt smittsomme fugleinfluensaviruset H5N1 er bekreftet hos fj\u00e6rfe p\u00e5 en g\u00e5rd i S\u00f8rvest-England, opplyste britiske myndigheter s\u00f8ndag. En beskyttelsessone p\u00e5 3 kilometer og en overv\u00e5kingssone p\u00e5 10 kilometer er opprettet rundt eiendommen n\u00e6r Exminster i \u2026",
+      "url": "https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.520/common/img/default.jpg",
+      "publishedAt": "2025-09-01 02:55:40",
+      "content": "Det sv\u00e6rt smittsomme fugleinfluensaviruset H5N1 er bekreftet hos fj\u00e6rfe p\u00e5 en g\u00e5rd i S\u00f8rvest-England, opplyste britiske myndigheter s\u00f8ndag. En beskyttelsessone p\u00e5 3 kilometer og en overv\u00e5kingssone p\u2026 [+165 chars]",
+      "retrievedAt": "2025-09-02 07:07:39.654123",
+      "internal_id": "13eb3df772263ffe44f3cc374875e82c39673c80ef089396013cd96fed972488",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24229,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Exclusive - Nikki Tamboli tests Dengue positive after Dubai trip; says 'I\u2019m already in shock, how did dengue happen?'",
+      "description": "Nikki Tamboli, known for her festive enthusiasm, has been diagnosed with dengue, causing her to miss the Ganesh Chaturthi celebrations. Experiencing a high fever and significant weakness, Nikki is currently resting and focusing on recovery. She expressed shoc\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-nikki-tamboli-tests-dengue-positive-after-dubai-trip-says-im-already-in-shock-how-did-dengue-happen/articleshow/123623297.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123623304,width-1070,height-580,imgsize-33220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-01 00:45:27",
+      "content": "Rubina Dilaiks gorgeous ethnic looks for festive season",
+      "retrievedAt": "2025-09-02 07:07:40.314953",
+      "internal_id": "ca1792401a96a3392dfd613c190455f8ccc876b2b7585cc1ff92c4c30c362b17",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24220,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)",
+      "description": "NBC News: Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows \u2014 The CDC's rabies team says it's tracking 15 different likely outbreaks from New York to Oregon. \u2014 Six deaths from rabies have been reported over the last 12 months i\u2026",
+      "url": "https://www.memeorandum.com/250831/p102",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
+      "publishedAt": "2025-09-01 00:00:05",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.371054",
+      "internal_id": "8fc6a61e73caa1b440b58ebc04af33c5109f1f75e55d15922fa6a430f11736b1",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 24232,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Westernjournal.com",
+      "author": "Ole Braatelien",
+      "title": "CDC Warns of Disease Outbreak In 5 Nations As China Revives COVID-Era Control Measures",
+      "description": "China revived some of its draconian Covid-era restrictions, such as reinstating mass testing and requiring citizens to submit travel reports.",
+      "url": "https://www.westernjournal.com/cdc-warns-disease-outbreak-5-nations-china-revives-covid-era-control-measures/",
+      "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2025/08/Michael-Featured-Image-75.jpg",
+      "publishedAt": "2025-08-31 23:04:07",
+      "content": "The Centers for Disease Control and Prevention on Tuesday warned about a mosquito-borne disease outbreak in Guangdong Province, China, and four other nations. Most Chinese cases of the chikungunya v\u2026 [+3029 chars]",
+      "retrievedAt": "2025-09-02 07:07:42.414372",
+      "internal_id": "e6b1170137fe9161deac9f8ea61ac264dcb039570e5eda2ceb32bb70dcdf1986",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24225,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Governo brit\u00e2nico confirma foco de gripe avi\u00e1ria e determina sacrif\u00edcio de aves",
+      "description": "O governo brit\u00e2nico confirmou a ocorr\u00eancia de um foco gripe avi\u00e1ria de alta patogenicidade ...",
+      "url": "https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-08-31 22:52:09",
+      "content": "O governo brit\u00e2nico confirmou a ocorr\u00eancia de um foco gripe avi\u00e1ria de alta patogenicidade (H5N1) em uma propriedade no sudoeste da Inglaterra Em consequ\u00eancia da confirma\u00e7\u00e3o, uma zona de prote\u00e7\u00e3o de\u2026 [+945 chars]",
+      "retrievedAt": "2025-09-02 07:07:39.637833",
+      "internal_id": "63f6dbb8876a9e53cc36bb099425f5184ae29abd999b10bee4c18d4cc706f5b7",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24231,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "OPS emite alerta sanitaria por chinkungunya y oropouche en Am\u00e9rica, \u00bfc\u00f3mo est\u00e1 Costa Rica?",
+      "description": "La OPS alerta sobre el aumento de casos de chikungunya y oropouche en Am\u00e9rica Latina. Conozca qu\u00e9 son estas enfermedades, sus s\u00edntomas y c\u00f3mo est\u00e1 la situaci\u00f3n en Costa Rica.",
+      "url": "https://www.nacion.com/el-pais/ops-emite-alerta-sanitaria-por-chinkungunya-y/5XDYJKGNSBAJ7K25CBYWBSGLFM/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/TUNQICK3UZF3JHLREYUHAZO5O4.jpg?smart=true&auth=acc443532009eafc89fcaf0b9a9b3ac6e472a10660c9d53db9584b040b8238d3&width=1440",
+      "publishedAt": "2025-08-31 19:45:00",
+      "content": "La Organizaci\u00f3n Panamericana de la Salud (OPS) emiti\u00f3 este viernes una alerta epidemiol\u00f3gica por el aumento de casos de chikungunya y oropouche en Am\u00e9rica Latina y el Caribe en lo que va del a\u00f1o.De a\u2026 [+3882 chars]",
+      "retrievedAt": "2025-09-02 07:07:42.398029",
+      "internal_id": "4d2cae5d886d7c475dbbe457f59725de4a8651e5b60dd2fc77a5e6803cc17624",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24228,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el a\u00f1o",
+      "description": "Patricia Rodr\u00edguez Calva M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad viral fueron 28, donde el 53 % de l\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/08/31/3370879.jpg",
+      "publishedAt": "2025-08-31 19:39:25",
+      "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
+      "retrievedAt": "2025-09-02 07:07:40.305236",
+      "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
+      "publishedAtLabel": "Aug 31"
+    },
     {
       "id": 24216,
       "query": [
@@ -109,6 +307,24 @@
       "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
       "retrievedAt": "2025-09-01 19:05:47.849568",
       "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24221,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Maia Davies",
+      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
+      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
+      "publishedAt": "2025-08-31 09:10:53",
+      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.870344",
+      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
       "publishedAtLabel": "Aug 31"
     },
     {
@@ -253,6 +469,24 @@
       "content": "KATHMANDU: The monsoon season in Nepal has triggered the annual surge of waterborne and vector-borne diseases, including dengue, scrub typhus, Japanese encephalitis, acute diarrhea, and cholera. Heal\u2026 [+3922 chars]",
       "retrievedAt": "2025-08-31 19:05:47.544562",
       "internal_id": "b72c4f83e064f0d8e46ae99281a5c201933f19f95473c2540e22a47f83d86aa3",
+      "publishedAtLabel": "Aug 30"
+    },
+    {
+      "id": 24223,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Raka Adji",
+      "title": "PMI sends logistical support for Sumenep's measleas outbreak response",
+      "description": "The Indonesian Red Cross (PMI) has sent logistical aid to support the measles outbreak response in Sumenep District, East Java. PMI Secretary General AM ...",
+      "url": "https://en.antaranews.com/news/376701/pmi-sends-logistical-support-for-sumeneps-measleas-outbreak-response",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/08/30/1000110998.jpg",
+      "publishedAt": "2025-08-30 09:19:17",
+      "content": "Jakarta (ANTARA) - The Indonesian Red Cross (PMI) has sent logistical aid to support the measles outbreak response in Sumenep District, East Java.PMI Secretary General AM Fachir here on Saturday expl\u2026 [+2280 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.887873",
+      "internal_id": "7f2a254a42634ec4fc4b5608ea3cb56d686e028945717953e348e93af8fe1573",
       "publishedAtLabel": "Aug 30"
     },
     {
@@ -20237,6 +20471,151 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Layse Ventura",
+      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
+      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
+      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
+      "publishedAt": "2025-07-20 17:58:33",
+      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.372656",
+      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Michel Cruz",
+      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
+      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
+      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
+      "publishedAt": "2025-07-20 17:55:00",
+      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
+      "retrievedAt": "2025-07-21 19:07:23.222563",
+      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
+      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
+      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
+      "publishedAt": "2025-07-20 17:12:29",
+      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.444312",
+      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Justin Boggs",
+      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
+      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
+      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
+      "publishedAt": "2025-07-20 15:05:19",
+      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.550581",
+      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23096,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
+      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-20 13:00:50",
+      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.412879",
+      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23093,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Andrea Mazzarino",
+      "title": "From Gaza to Ukraine, war is also an assault on public health",
+      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
+      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
+      "publishedAt": "2025-07-20 10:00:29",
+      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.410040",
+      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23100,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Daily Geek Show",
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
+      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
+      "url": "https://dailygeekshow.com/peste-pulmonaire/",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
+      "publishedAt": "2025-07-20 08:30:00",
+      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
+      "retrievedAt": "2025-07-21 19:07:25.249615",
+      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23098,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surge in Chitwan",
+      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
+      "url": "https://english.khabarhub.com/2025/20/486461/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-20 08:15:15",
+      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.460375",
+      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-09-01 19:05
-- **Most recent article:** 2025-08-31 18:54:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-09-02 07:07
+- **Most recent article:** 2025-09-01 05:47:25
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 0 | 384 |
-| measles | 45 | 30 | 26 | 26 | 50 | 32 | 1 | 210 |
-| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 0 | 208 |
-| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 1 | 105 |
-| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 1 | 94 |
+| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 2 | 386 |
+| measles | 47 | 30 | 26 | 26 | 50 | 33 | 3 | 215 |
+| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 2 | 214 |
+| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 2 | 106 |
+| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 1 | 95 |
 | mpox | 7 | 13 | 10 | 7 | 5 | 7 | 1 | 50 |
 | zika | 2 | 7 | 8 | 9 | 7 | 8 | 0 | 41 |
-| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 0 | 38 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 4 | 34 |
-| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 1 | 29 |
+| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 1 | 39 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 8 | 38 |
+| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 1 | 30 |
 | pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 1 | 8 |
 | hpai | 1 | 0 | 3 | 0 | 1 | 1 | 0 | 6 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 4 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
+| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (rabies)
 
+- [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
+
 - ['Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise](https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771) (NBC News)
 
 ## 25-36 (pertussis)
@@ -48,7 +50,15 @@ Source: [News API](https://newsapi.org/)
 
 - [İngiltere seyahat uyarısı mı yaptı?](https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890) (Haberturk.com)
 
+## 25-36 (meningitis)
+
+- [Concern over growing threat posed by infectious meningitis in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001528258/concern-over-growing-threat-posed-by-infectious-meningitis-in-kenya) (Standard Digital)
+
 ## 25-36 (measles)
+
+- [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
+
+- [Baby dies of whooping cough after mother not vaccinated while pregnant](https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o) (BBC News)
 
 - [Vaccination plea after baby's 'terrifying' measles](https://www.bbc.com/news/articles/c1ej2n0lwzyo) (BBC News)
 
@@ -58,6 +68,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (h5n1)
 
+- [Bird flu scare at Delhi zoo: Avian death toll rises to 12; facility shut indefinitely](https://timesofindia.indiatimes.com/city/delhi/bird-flu-alarm-avian-deaths-continue-in-shut-delhi-zoo/articleshow/123619442.cms) (The Times of India)
+
+- [Bekrefter utbrudd av fugleinfluensa i England](https://www.aftenposten.no/verden/i/vgMj7j/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-soervest-england) (Aftenposten)
+
+- [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
+
+- [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
+
 - [Kitört a halálos vírus, drasztikus lépésre kényszerülnek a hatóságok](https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035) (Portfolio.hu)
 
 - [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/) (InfoMoney)
@@ -65,6 +83,18 @@ Source: [News API](https://newsapi.org/)
 - [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html) (Terra.com.br)
 
 - [ഭാവിയിലെ വെല്ലുവിളി ജന്തുജന്യ രോഗങ്ങൾ, അടുത്ത പകർച്ചവ്യാധി H5N1 ആവാം- ആരോഗ്യമന്ത്രി](https://www.mathrubhumi.com/health/news/kerala-health-minister-warns-zoonotic-disease-threats-1.10878372) (Mathrubhumi.com)
+
+## 25-36 (dengue)
+
+- [Exclusive - Nikki Tamboli tests Dengue positive after Dubai trip; says 'I’m already in shock, how did dengue happen?'](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-nikki-tamboli-tests-dengue-positive-after-dubai-trip-says-im-already-in-shock-how-did-dengue-happen/articleshow/123623297.cms) (The Times of India)
+
+- [Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el año](https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504) (Excelsior.com.mx)
+
+## 25-36 (chikungunya)
+
+- [CDC Warns of Disease Outbreak In 5 Nations As China Revives COVID-Era Control Measures](https://www.westernjournal.com/cdc-warns-disease-outbreak-5-nations-china-revives-covid-era-control-measures/) (Westernjournal.com)
+
+- [OPS emite alerta sanitaria por chinkungunya y oropouche en América, ¿cómo está Costa Rica?](https://www.nacion.com/el-pais/ops-emite-alerta-sanitaria-por-chinkungunya-y/5XDYJKGNSBAJ7K25CBYWBSGLFM/story/) (Nacion.com)
 
 ## 25-35 (zika)
 
@@ -179,6 +209,8 @@ Source: [News API](https://newsapi.org/)
 - [Leute: Lola Weippert hatte drei Wochen Meningitis-Zwangspause](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/leute--lola-weippert-hatte-drei-wochen-meningitis-zwangspause-35998510.html) (STERN.de)
 
 ## 25-35 (measles)
+
+- [PMI sends logistical support for Sumenep's measleas outbreak response](https://en.antaranews.com/news/376701/pmi-sends-logistical-support-for-sumeneps-measleas-outbreak-response) (Antaranews.com)
 
 - [Ex-CDC Official Says RFK Jr. Was Never Briefed On Key Topics, Including Measles, By Agency Experts](https://www.huffpost.com/entry/demetre-daskalakis-cdc-rfk-jr-brief-cnn_n_68b2010de4b072bf6d64919d) (HuffPost)
 
@@ -2210,6 +2242,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
+- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
+
+## 25-30 (typhoid)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2376,6 +2414,10 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
+- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2407,6 +2449,8 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
+
+- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2487,6 +2531,14 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
+
+- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
+
+- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
+
+- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
+
+- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
