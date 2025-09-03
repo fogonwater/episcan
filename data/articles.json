@@ -1,8 +1,213 @@
 {
-  "last_updated": "2025-09-03 07:07",
-  "count_articles_total": 1150,
-  "count_articles_new": 1,
+  "last_updated": "2025-09-03 19:05",
+  "count_articles_total": 1153,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 24247,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Ndtvprofit.com",
+      "author": "PTI",
+      "title": "Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop",
+      "description": "Mumbai has witnessed an increase in malaria, dengue, chikungunya, and hepatitis, while cases of leptospirosis and gastroenteritis have seen a decline in the last two months, the city civic body said on Tuesday.",
+      "url": "https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fp21tmu0b%2Fclose-up-mosquito-sucking-blood-from-human-skin-2025-01-08-05-00-07-utc.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2025-09-02 17:42:48",
+      "content": "\"An increase in malaria, dengue, chikungunya, and leptospirosis cases was recorded in July-August, consistent with the trend observed in 2024. Generally, vector-borne diseases tend to peak in August;\u2026 [+100 chars]",
+      "retrievedAt": "2025-09-03 19:05:45.209152",
+      "internal_id": "bd38936b1c230203cd446cf565a3f4f05f0f7bc8e661aece1164b437baf05881",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24243,
+      "query": [
+        "pertussis",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Psychology Today",
+      "author": "Jay K. Varma M.D.",
+      "title": "How the Anti-Vaccine Movement Spreads Doubt and Mistrust",
+      "description": "A 2020 report uncovered how anti-vaccine activists use fear, misinformation, and algorithms to spread doubt. Here\u2019s what that means for today's measles and pertussis resurgence.",
+      "url": "https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-07/26181.jpg?itok=j3t0UHN0",
+      "publishedAt": "2025-09-02 16:53:04",
+      "content": "The recent departure of high-level Centers for Disease Control and Prevention (CDC) officials has brought vaccine policy back into national headlines. Combined with the resurgence this year of measle\u2026 [+5322 chars]",
+      "retrievedAt": "2025-09-03 19:05:43.700984",
+      "internal_id": "ce9d53cfe0dbc49606c8bc3f16fb8fb6f4c83be9896f3cea642fd9dfcdbfe4b4",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24246,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Five additional measles cases reported in Mesa County",
+      "description": "People who visited an exposure location and develop symptoms should call a health care provider before seeking help, so they can take precautions to avoid exposing others.",
+      "url": "https://www.denverpost.com/2025/09/02/measles-colorado-mesa-county/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/04/042523CommunityHospital_004.jpg?w=1024&h=683",
+      "publishedAt": "2025-09-02 16:44:50",
+      "content": "Five additional people have tested positive for measles in Mesa County, possibly spreading the virus in a Grand Junction hospital, a pizza restaurant and local gas stations. Two people in Mesa Count\u2026 [+2262 chars]",
+      "retrievedAt": "2025-09-03 19:05:44.343271",
+      "internal_id": "a5d6acdb65aae823fc5c8ed0d138c3297611fd86735eee2deeafed32c5e18dee",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24248,
+      "query": [
+        "dengue",
+        "malaria",
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Eshan Kalyanikar",
+      "title": "Rise in malaria and dengue cases in Mumbai in August, shows BMC data; doctors warn of possible surge in leptospirosis cases",
+      "description": "Mumbai: All monsoon-related illnesses continued to rise in Aug, with malaria and dengue still being the most reported. Doctors also warn of a possible.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/rise-in-malaria-and-dengue-cases-in-mumbai-in-august-shows-bmc-data-doctors-warn-of-possible-surge-in-leptospirosis-cases/articleshow/123660536.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123660534,width-1070,height-580,imgsize-14418,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-02 16:03:51",
+      "content": "10 pet dog breeds that dont shed much Perfect for a clean, hair-free home",
+      "retrievedAt": "2025-09-03 19:05:45.218763",
+      "internal_id": "a6c391e3fc4c1592d82167fbcc53ca4abf704aa7f0ed8fe6a32bc49861696534",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Kalita, A. I., Marois, E., Ru\u0308hle, F., Keller Valsecchi, C. I.",
+      "title": "Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development [Resource/Methodology]",
+      "description": "Malaria-transmitting mosquitoes are extremely sexually dimorphic in their anatomy and behavior. Sex-specific gene expression in Anopheles gambiae is well studied in adult stages, but its onset during embryogenesis, apart from sex determination factors like Yo\u2026",
+      "url": "https://genesdev.cshlp.org/content/39/17-18/1106.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2025-09-02 15:33:03",
+      "content": "Malaria-transmitting mosquitoes are extremely sexually dimorphic in their anatomy and behavior. Sex-specific gene expression in Anopheles gambiae is well studied in adult stages, but its onset duri\u2026 [+1492 chars]",
+      "retrievedAt": "2025-09-03 19:05:45.599000",
+      "internal_id": "5c7be6669da88092c302ee80400847160f449f7d4f35044a0346f18252fcf27c",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24244,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Northeast B.C. measles vaccinations below herd immunity as school resumes, health officials say",
+      "description": "As students head back to classrooms across northeast B.C., health officials are warning that measles is still circulating, and immunization rates remain too low to prevent another outbreak.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/northeast-bc-measles-vaccinations-back-to-school-1.7621231",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1746118495!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-02 14:00:00",
+      "content": "Health officials in northeast B.C. are warning the measles outbreak isn't over, and could flare up again as schools reopen and students return to the classroom. Cases across the Northern Health regi\u2026 [+4660 chars]",
+      "retrievedAt": "2025-09-03 19:05:44.323352",
+      "internal_id": "8bb2e83a6ad42e8d85aa43cfb1b5b73c6c94c17cb0b6779ed2156a7e2a1eade3",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24250,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dominika Kwecka, Zhishuo Wang, Edvardas Eigminas, Lijia Liu, Jennifer C. Regan, Choel Kim, Nisha Philip",
+      "title": "A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito",
+      "description": "Author summary Malaria parasites complete their life-cycle within mammalian and mosquito hosts requiring specialised forms to invade and establish infection in host tissue. In order to transmit to the mosquito, the parasite forms a motile ookinete that uses t\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013467.g006&size=inline",
+      "publishedAt": "2025-09-02 14:00:00",
+      "content": "Citation: Kwecka D, Wang Z, Eigminas E, Liu L, Regan JC, Kim C, et al. (2025) A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito. PLoS Pathog 21(9): \u2026 [+61072 chars]",
+      "retrievedAt": "2025-09-03 19:05:45.626425",
+      "internal_id": "e7feb9238a0f62d72b92916833dfc71645e5bc0a496525fb6d20c5ad150908db",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24252,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nel Modenese 104 casi di Chikungunya, anche un bimbo di 9 anni",
+      "description": "Salgono a 104 i casi di Chikungunya in provincia di Modena, 24 in pi\u00f9 rispetto agli 80 di venerd\u00ec scorso. Lo comunica l'Ausl modenese, specificando che si tratta di 49 uomini e 55 donne: il pi\u00f9 piccolo ha 9 anni, il pi\u00f9 anziano 98. Nessuno \u00e8 in gravi condizio\u2026",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2025/09/02/nel-modenese-104-casi-di-chikungunya-anche-un-bimbo-di-9-anni_dc913eb6-8a6d-4dbc-a334-7cd2dbdfe90a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/6/4/e2b2dd3c8c40d6468da3aaf4da20297a.jpg",
+      "publishedAt": "2025-09-02 13:55:20",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-09-03 19:05:46.391078",
+      "internal_id": "320234c7ecc7db18ac5f4eb90ff656f548c63b54bc38fe5cd341fa2c29093e74",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24251,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Seth Joseph, Contributor, \n Seth Joseph, Contributor\n https://www.forbes.com/sites/sethjoseph/",
+      "title": "How Are Health Data Priced? Why Health Data Are Like Zika Prevention Programs",
+      "description": "Despite the excitement surrounding the rapidly expanding market for de-identified health records, few people can explain how data are actually priced.",
+      "url": "https://www.forbes.com/sites/sethjoseph/2025/09/02/how-are-health-data-priced-why-health-data-are-like-zika-prevention-programs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b1bfd9f88277742179fdd0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-09-02 13:06:21",
+      "content": "An adult female mosquito is seen under a microscope Getty Images Imagine pricing a product that spreads on its own and benefits people who never even touch it. That might sound like science fiction\u2026 [+14066 chars]",
+      "retrievedAt": "2025-09-03 19:05:46.058681",
+      "internal_id": "f720056f55cbda4463214ddf082c0b0e266843544fd7fc303938f4f1e8d826d1",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24253,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Whatever happened to mpox? Is it still a threat?",
+      "description": "The virus took the world by storm. It was declared a \"public health emergency of continental concern.\" What's the current status? With the U.S. aid cuts, one doctor says, \"We're flying blind.\"",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6965x3918+0+363/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F6b%2F19521c7347e693abdb65dc693c4b%2Fgettyimages-2173623833-1.jpg",
+      "publishedAt": "2025-09-02 11:05:02",
+      "content": "In August 2024, the news came in quick succession. On Tuesday Aug. 13, 2024 Africa Centers for Disease Control and Prevention declared mpox a public health emergency of continental concern. The very \u2026 [+8443 chars]",
+      "retrievedAt": "2025-09-03 19:05:46.695905",
+      "internal_id": "93ae4366ef76b35be32d009ffb2d7a672d6fe27ae382cfed03b9a028e84427be",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 24245,
+      "query": [
+        "measles",
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Jackie Forti\u00e9r",
+      "title": "Listen: As Kids Head Back to School, Parents Sort Out Confusion Over Vaccine Access",
+      "description": "Confusion over federal immunization policy could have major implications for how families with private insurance and Medicaid pay for routine vaccinations. Some doctors are encouraging parents not to wait and get their children shots as soon as they are eligi\u2026",
+      "url": "https://kffhealthnews.org/news/article/listen-wamu-health-hub-back-to-school-pediatric-vaccine-guidelines-access/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/GettyImages-1689669062-resized.jpg",
+      "publishedAt": "2025-09-02 09:00:00",
+      "content": "Jackie Forti\u00e9rLISTEN: Measles. Chickenpox. Meningitis. Many vaccines can run more than $100 a dose out-of-pocket. Jackie Forti\u00e9r tells WAMU\u2019s \u201cHealth Hub\u201d how Trump administration changes to the fede\u2026 [+653 chars]",
+      "retrievedAt": "2025-09-03 19:05:44.333091",
+      "internal_id": "429a3493d37e47d073ff9937e6421fc3c509012455c4e876b24de8fda65605e8",
+      "publishedAtLabel": "Sep 2"
+    },
     {
       "id": 24242,
       "query": [
@@ -20653,151 +20858,6 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23095,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Layse Ventura",
-      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
-      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
-      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
-      "publishedAt": "2025-07-20 17:58:33",
-      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.372656",
-      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Michel Cruz",
-      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
-      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
-      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
-      "publishedAt": "2025-07-20 17:55:00",
-      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
-      "retrievedAt": "2025-07-21 19:07:23.222563",
-      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23097,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Instituto Butantan",
-      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
-      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
-      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
-      "publishedAt": "2025-07-20 17:12:29",
-      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.444312",
-      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23094,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Scrippsnews.com",
-      "author": "Justin Boggs",
-      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
-      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
-      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
-      "publishedAt": "2025-07-20 15:05:19",
-      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
-      "retrievedAt": "2025-07-21 19:07:21.550581",
-      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23096,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
-      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
-      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
-      "publishedAt": "2025-07-20 13:00:50",
-      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.412879",
-      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23093,
-      "query": [
-        "measles",
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Salon",
-      "author": "Andrea Mazzarino",
-      "title": "From Gaza to Ukraine, war is also an assault on public health",
-      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
-      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
-      "publishedAt": "2025-07-20 10:00:29",
-      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
-      "retrievedAt": "2025-07-21 19:07:21.410040",
-      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23100,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Daily Geek Show",
-      "author": "contact@dailygeekshow.com (DGS)",
-      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
-      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
-      "url": "https://dailygeekshow.com/peste-pulmonaire/",
-      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
-      "publishedAt": "2025-07-20 08:30:00",
-      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
-      "retrievedAt": "2025-07-21 19:07:25.249615",
-      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23098,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surge in Chitwan",
-      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
-      "url": "https://english.khabarhub.com/2025/20/486461/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-20 08:15:15",
-      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.460375",
-      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]
