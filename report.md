@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-09-04 07:06
-- **Most recent article:** 2025-09-03 04:11:36
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-09-04 19:05
+- **Most recent article:** 2025-09-03 19:05:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 9 | 393 |
-| measles | 47 | 30 | 26 | 26 | 50 | 33 | 10 | 222 |
-| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 6 | 218 |
+| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 13 | 397 |
+| measles | 45 | 30 | 26 | 26 | 50 | 33 | 20 | 230 |
+| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 6 | 214 |
 | rabies | 11 | 10 | 11 | 27 | 39 | 6 | 4 | 108 |
-| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 7 | 101 |
-| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 3 | 52 |
+| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 10 | 103 |
+| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 4 | 53 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 12 | 42 |
 | zika | 2 | 7 | 8 | 9 | 7 | 8 | 1 | 42 |
 | meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 2 | 40 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 9 | 39 |
-| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 3 | 32 |
-| pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 2 | 9 |
+| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 3 | 31 |
+| pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 3 | 10 |
 | hpai | 1 | 0 | 3 | 0 | 1 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 4 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -60,11 +60,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (pertussis)
 
+- [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
+
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
 
 - [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
+
+- [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
 
 - [Whatever happened to mpox? Is it still a threat?](https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa) (NPR)
 
@@ -79,6 +83,26 @@ Source: [News API](https://newsapi.org/)
 - [Concern over growing threat posed by infectious meningitis in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001528258/concern-over-growing-threat-posed-by-infectious-meningitis-in-kenya) (Standard Digital)
 
 ## 25-36 (measles)
+
+- [Ron DeSantis Risks Letting Polio, Measles Spread in Florida Schools (Andrew Perez/Rolling Stone)](https://www.memeorandum.com/250903/p111) (Memeorandum.com)
+
+- [Ron DeSantis Wants to Let Polio, Measles Spread in Florida Schools](http://www.rollingstone.com/politics/politics-news/ron-desantis-florida-vaccines-polio-measles-trump-rfk-jr-1235420987/) (Rolling Stone)
+
+- [Florida Eliminates All Vaccine Requirements for School Children](https://dianeravitch.net/2025/09/03/florida-eliminates-all-vaccine-requirements-for-school-children/) (Dianeravitch.net)
+
+- [Florida Moves to Scrap All State Vaccine Mandates](https://www.newser.com/story/374587/florida-moves-to-scrap-all-state-vaccine-mandates.html) (Newser)
+
+- [Measles spread trending down as Alberta kids head back to the classroom. Will it last?](https://www.cbc.ca/news/canada/calgary/measles-rates-alberta-back-to-school-1.7623165) (CBC News)
+
+- [Florida Surgeon General Says Child Vaccine Rules Akin to 'Slavery'](https://www.newsweek.com/florida-vaccine-mandate-schools-surgeon-general-ron-desantis-2123982) (Newsweek)
+
+- [Florida will move to end all childhood vaccine mandates in the state, Gov. DeSantis says](https://www.cbsnews.com/miami/news/ron-desantis-florida-eliminate-childhood-vaccine-mandates/) (CBS News)
+
+- [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
+
+- [Potential measles exposures at Boundary Trails ER, Winkler medical clinic](https://www.cbc.ca/news/canada/manitoba/measles-exposures-aug-28-29-1.7624032) (CBC News)
+
+- [RFK Jr. Boasts About Major Measles Outbreak Response Amid Criticism Over CDC Chaos](https://www.huffpost.com/entry/rfk-jr-praises-cdc-measles-outbreak-response_n_68b80c11e4b06793d89c947c) (HuffPost)
 
 - [Wisconsin health agency starts dashboard tracking measles; 24 cases confirmed](https://www.tmj4.com/news/local-news/wisconsin-health-agency-starts-dashboard-tracking-measles-24-cases-confirmed) (WTMJ-TV)
 
@@ -101,6 +125,12 @@ Source: [News API](https://newsapi.org/)
 - [Vaccination plea after baby's 'terrifying' measles](https://www.bbc.com/news/articles/c1ej2n0lwzyo) (BBC News)
 
 ## 25-36 (malaria)
+
+- [Cadinapyridine sesquiterpene alkaloids from Artemisia annua and in vitro cytotoxicity and antiplasmodial activities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331186) (Plos.org)
+
+- [Tres artículos del ISCIII aportan nuevos datos sobre la bebesiosis, una infección similar a la malaria](https://www.infosalus.com/salud-investigacion/noticia-tres-articulos-isciii-aportan-nuevos-datos-bebesiosis-infeccion-similar-malaria-20250903141003.html) (Infosalus.com)
+
+- [That Millions of Nigerians Under Tinubu Still Die From Preventable Health Conditions Highlights Failure of His Leadership and Empathy](https://parallelfactsnews.com/millions-of-nigerians-under-tinubu-still-die/) (Parallelfactsnews.com)
 
 - [Fox News' John Roberts Shares Health Update After Battling 'Awful' Malaria](https://www.usmagazine.com/celebrity-news/news/john-roberts-gives-update-on-malaria-recovery-at-70/#article) (Us Weekly)
 
@@ -127,6 +157,12 @@ Source: [News API](https://newsapi.org/)
 - [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
 
 ## 25-36 (h5n1)
+
+- [Un brote de gripe aviar activa las alarmas en Málaga y Sevilla entre críticas a la "dejación de funciones" municipal](https://www.eldiario.es/andalucia/sostenibilidad/brote-gripe-aviar-activa-alarmas-malaga-sevilla-criticas-dejacion-funciones-municipal_1_12576439.html) (Eldiario.es)
+
+- [Groźna choroba wraca do Europy. Wirus atakuje u sąsiada Polski](https://wydarzenia.interia.pl/zagranica/news-grozna-choroba-wraca-do-europy-wirus-atakuje-u-sasiada-polsk,nId,22301954) (Interia.pl)
+
+- [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
 
 - [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
 
@@ -161,6 +197,14 @@ Source: [News API](https://newsapi.org/)
 - [Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el año](https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504) (Excelsior.com.mx)
 
 ## 25-36 (chikungunya)
+
+- [Plus de 300 cas de chikungunya en métropole depuis cet été, un niveau sans précédent](https://www.lemonde.fr/sante/article/2025/09/03/plus-de-300-cas-de-chikungunya-en-metropole-depuis-cet-ete-un-niveau-sans-precedent_6638807_1651302.html) (Le Monde)
+
+- [Un premier cas autochtone de chikungunya confirmé en Savoie, deux opérations de démoustication réalisées](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/un-premier-cas-autochtone-de-chikungunya-confirme-en-savoie-deux-operations-de-demoustication-realisees-3211016.html) (Franceinfo.fr)
+
+- [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
+
+- [Santé. Chikungunya : la barre des 300 cas autochtones franchie cet été en France](https://www.ledauphine.com/sante/2025/09/03/chikungunya-la-barre-des-300-cas-autochtones-franchie-cet-ete-en-france) (Le Dauphiné Libéré)
 
 - [Chikungunya : Ixchiq, le premier vaccin autorisé contre le virus, sur la sellette](https://www.lemonde.fr/planete/article/2025/09/03/chikungunya-ixchiq-le-premier-vaccin-autorise-contre-le-virus-sur-la-sellette_6638496_3244.html) (Le Monde)
 
@@ -2326,12 +2370,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
-- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
-
-## 25-30 (typhoid)
-
-- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
-
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2498,10 +2536,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
-- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
-
-- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
-
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2533,8 +2567,6 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
-
-- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2615,14 +2647,6 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
-
-- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
-
-- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
-
-- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
-
-- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
