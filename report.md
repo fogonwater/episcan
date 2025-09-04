@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-09-03 19:05
-- **Most recent article:** 2025-09-02 17:42:48
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-09-04 07:06
+- **Most recent article:** 2025-09-03 04:11:36
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 7 | 391 |
-| measles | 45 | 30 | 26 | 26 | 50 | 33 | 7 | 217 |
-| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 6 | 214 |
+| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 9 | 393 |
+| measles | 47 | 30 | 26 | 26 | 50 | 33 | 10 | 222 |
+| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 6 | 218 |
 | rabies | 11 | 10 | 11 | 27 | 39 | 6 | 4 | 108 |
-| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 6 | 99 |
+| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 7 | 101 |
 | mpox | 7 | 13 | 10 | 7 | 5 | 7 | 3 | 52 |
 | zika | 2 | 7 | 8 | 9 | 7 | 8 | 1 | 42 |
 | meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 2 | 40 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 8 | 38 |
-| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 3 | 31 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 9 | 39 |
+| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 3 | 32 |
 | pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 2 | 9 |
+| hpai | 1 | 0 | 3 | 0 | 1 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| hpai | 1 | 0 | 3 | 0 | 1 | 1 | 0 | 6 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
+| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -80,6 +80,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (measles)
 
+- [Wisconsin health agency starts dashboard tracking measles; 24 cases confirmed](https://www.tmj4.com/news/local-news/wisconsin-health-agency-starts-dashboard-tracking-measles-24-cases-confirmed) (WTMJ-TV)
+
+- [Oconto County up to 24 measles cases; health officials launch dashboard to track outbreak](https://fox11online.com/news/local/oconto-county-up-to-24-measles-cases-health-officials-launch-dashboard-to-track-outbreak-children-vaccine-hospitalization-wisconsin-department-health-services-mmr) (Fox11online.com)
+
+- [Blue States That Sued Kept Most CDC Grants, While Red States Feel Brunt of Trump Clawbacks](https://www.nbcnews.com/health/health-news/blue-states-sued-kept-cdc-grants-red-states-feel-brunt-trump-clawbacks-rcna228618) (NBC News)
+
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
 
 - [Five additional measles cases reported in Mesa County](https://www.denverpost.com/2025/09/02/measles-colorado-mesa-county/) (The Denver Post)
@@ -95,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 - [Vaccination plea after baby's 'terrifying' measles](https://www.bbc.com/news/articles/c1ej2n0lwzyo) (BBC News)
 
 ## 25-36 (malaria)
+
+- [Fox News' John Roberts Shares Health Update After Battling 'Awful' Malaria](https://www.usmagazine.com/celebrity-news/news/john-roberts-gives-update-on-malaria-recovery-at-70/#article) (Us Weekly)
 
 - [Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop](https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop) (Ndtvprofit.com)
 
@@ -114,7 +122,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Rise in malaria and dengue cases in Mumbai in August, shows BMC data; doctors warn of possible surge in leptospirosis cases](https://timesofindia.indiatimes.com/city/mumbai/rise-in-malaria-and-dengue-cases-in-mumbai-in-august-shows-bmc-data-doctors-warn-of-possible-surge-in-leptospirosis-cases/articleshow/123660536.cms) (The Times of India)
 
+## 25-36 (hpai)
+
+- [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
+
 ## 25-36 (h5n1)
+
+- [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
 
 - [Bird flu scare at Delhi zoo: Avian death toll rises to 12; facility shut indefinitely](https://timesofindia.indiatimes.com/city/delhi/bird-flu-alarm-avian-deaths-continue-in-shut-delhi-zoo/articleshow/123619442.cms) (The Times of India)
 
@@ -147,6 +161,10 @@ Source: [News API](https://newsapi.org/)
 - [Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el año](https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504) (Excelsior.com.mx)
 
 ## 25-36 (chikungunya)
+
+- [Chikungunya : Ixchiq, le premier vaccin autorisé contre le virus, sur la sellette](https://www.lemonde.fr/planete/article/2025/09/03/chikungunya-ixchiq-le-premier-vaccin-autorise-contre-le-virus-sur-la-sellette_6638496_3244.html) (Le Monde)
+
+- [A 3D-printed cassette coupled with a paper-based aptasensor for advanced diagnosis of chikungunya virus towards commercialization](https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01961c) (Royal Society of Chemistry)
 
 - [Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop](https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop) (Ndtvprofit.com)
 
@@ -2308,6 +2326,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
+- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
+
+## 25-30 (typhoid)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2474,6 +2498,10 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
+- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2505,6 +2533,8 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
+
+- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2585,6 +2615,14 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
+
+- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
+
+- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
+
+- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
+
+- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
