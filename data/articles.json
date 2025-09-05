@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-09-04 19:05",
-  "count_articles_total": 1179,
-  "count_articles_new": 19,
+  "last_updated": "2025-09-05 07:07",
+  "count_articles_total": 1194,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 24283,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KHQ Right Now",
+      "author": "Belle Lewis",
+      "title": "Measles vaccination rates declining in Spokane County as",
+      "description": "SPOKANE, Wash. \u2013 Spokane County schools are seeing a decrease in measles vaccination rates among kindergarteners, according to data by the Washington Department of Health (DOH).",
+      "url": "https://www.khq.com/news/measles-vaccination-rates-declining-in-spokane-county/article_ffe82681-7ecd-4753-87b3-7fed3d5e706a.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/1/15/11599da2-c3c5-4b4e-a489-83ca07e52259/68b8f09a9d226.image.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-09-04 02:21:30",
+      "content": "Washington law recognizes Measles as a highly contagious disease in schools. Spokane Public Schools has a measles policy in case exposure happens during the school day. Belle Lewis NonStop Local Re\u2026 [+2695 chars]",
+      "retrievedAt": "2025-09-05 07:07:06.425727",
+      "internal_id": "7428ef71dbb9ab0f5aec9894dcb0a27af381c4137d14bc4c7598ad73e480d2db",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24285,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jazlyn Whales, Ben Tomsett",
+      "title": "Christchurch teen falls ill with meningococcal meningitis after schools rugby tournament",
+      "description": "All close contacts to the teenager's case have been identified and offered antibiotics.",
+      "url": "https://www.nzherald.co.nz/nz/christchurch/christchurch-secondary-school-student-contracts-meningococcal-disease-after-attending-rugby-tournament/EINPONMMG5HDNHCY3PAQRR7CMM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/Y7SXRN3NX5DPZLGUXILO7UEVEI.jpg?auth=b6f90acaac4274ec7ca17e852170726dd4eee6704abbf2a25d61616858090f62&width=1200&height=675&quality=70&focal=2829%2C837&smart=false",
+      "publishedAt": "2025-09-04 01:12:04",
+      "content": "Kings High School classified the students contact as indirect because the Shirley rugby team did not share any changing rooms or showers with Kings, and the infected student left before the final mat\u2026 [+3910 chars]",
+      "retrievedAt": "2025-09-05 07:07:07.547770",
+      "internal_id": "3b25becbe09816d79afffc0b642ff8f7a13b3e8dc12413bf5ae8ab7ab03b1c39",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24284,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Associated Press",
+      "title": "Cat in San Francisco euthanized after latest bird flu infection tied to raw pet food",
+      "description": "Federal health officials are warning that certain lots of raw cat food may be contaminated with H5N1 bird flu after a pet cat in San Francisco that ate the food became infected with the virus and had to be euthanized. The U.S. Food and Drug Administration sai\u2026",
+      "url": "https://financialpost.com/pmn/cat-in-san-francisco-euthanized-after-latest-bird-flu-infection-tied-to-raw-pet-food",
+      "urlToImage": null,
+      "publishedAt": "2025-09-04 00:53:44",
+      "content": "Federal health officials are warning that certain lots of raw cat food may be contaminated with H5N1 bird flu after a pet cat in San Francisco that ate the food became infected with the virus and had\u2026 [+4534 chars]",
+      "retrievedAt": "2025-09-05 07:07:06.981826",
+      "internal_id": "bef62b3674ef648cb9155616c93697623ce2443afeb02c810098e6640df9b0c8",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24280,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Paul Campos",
+      "title": "Will the rabies vaccine make Snoopy autistic?",
+      "description": "There\u2019s a lot of ruin in a nation, but I\u2019m not sure there\u2019s quite this much: Public confidence in adult and child vaccines has declined during the pandemic, largely spurred by misperceptions and mistrust in the safety and efficacy of the COVID-19 vaccine. Now\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/09/will-the-rabies-vaccine-make-snoopy-autistic",
+      "urlToImage": null,
+      "publishedAt": "2025-09-03 21:12:46",
+      "content": "Public confidence in adult and child vaccines has declined during the pandemic, largely spurred by misperceptions and mistrust in the safety and efficacy of the COVID-19 vaccine. Now a new study led \u2026 [+1343 chars]",
+      "retrievedAt": "2025-09-05 07:07:05.791212",
+      "internal_id": "e1adc209e47b5c59dc001839245f83670e9c5c5d0a2bd05a954d1875c9110ef0",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 24281,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Florida moves to scrap state school vaccine requirements (Gary Fineout/Politico)",
+      "description": "Gary Fineout / Politico: Florida moves to scrap state school vaccine requirements \u2026 Florida has a mix of immunization requirements for those entering schools and colleges, including shots for measles, polio and chickenpox. The state does allow for exemptions\u2026",
+      "url": "https://www.memeorandum.com/250903/p131",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F37%2Fd5%2Fb95983974e9eb3260acbb02bdcff%2Fflorida-state-of-the-state-71224.jpg",
+      "publishedAt": "2025-09-03 20:30:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-09-05 07:07:06.332725",
+      "internal_id": "e964a6e013d072b4a4c8182f7ac3fa7388d2bc62970c21b1ab39e4ce2d3dd407",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 24286,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "Mpox se dispara 860% en M\u00e9xico: AHF alerta en d\u00eda mundial de la salud sexual",
+      "description": "M\u00e9xico registr\u00f3 509 casos de Mpox en 2025, un incremento de 860 por ciento respecto a los 53 casos confirmados en 2024, de acuerdo con datos de AIDS Healthcare Foundation (AHF). La organizaci\u00f3n advirti\u00f3 que el n\u00famero real podr\u00eda ser mayor por el subregistro y\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/mpox-dispara-860-mexico-alerta-ahf",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/03/ahf-senala-incrementaron-casos-mpox.jpg",
+      "publishedAt": "2025-09-03 19:56:02",
+      "content": "M\u00e9xico registr\u00f3 509 casos de Mpox en 2025, un incremento de 860 por ciento respecto a los 53 casos confirmados en 2024, de acuerdo con datos de AIDS Healthcare Foundation (AHF). La organizaci\u00f3n adv\u2026 [+3492 chars]",
+      "retrievedAt": "2025-09-05 07:07:08.669196",
+      "internal_id": "88ffdb3e42ff781aae30fe04ab26b3c9da0f3adf762de361e30fba8dc53b0bf0",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 24282,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Greg Allen",
+      "title": "Florida working to end vaccine mandates",
+      "description": "Florida lawmakers will vote whether to repeal a law that requires children to receive vaccines for polio, diphtheria, measles, and mumps before entering school.",
+      "url": "https://www.npr.org/2025/09/03/nx-s1-5527093/florida-working-to-end-vaccine-mandates",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Fba%2F2663b31d4196aa8696e09973b941%2Fgettyimages-1397768366.jpg",
+      "publishedAt": "2025-09-03 19:16:08",
+      "content": "Florida's governor said he'll be asking the state legislature to repeal a statute that requires children to receive vaccines for polio, diphtheria, measles and mumps before entering school. If it pas\u2026 [+1916 chars]",
+      "retrievedAt": "2025-09-05 07:07:06.341256",
+      "internal_id": "0a8c971ad2a653eb4dc40cffd0f3719947dbf8b54fda27c747a17f1aeada69a7",
+      "publishedAtLabel": "Sep 3"
+    },
     {
       "id": 24263,
       "query": [
@@ -21330,6 +21456,151 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Layse Ventura",
+      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
+      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
+      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
+      "publishedAt": "2025-07-20 17:58:33",
+      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.372656",
+      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Michel Cruz",
+      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
+      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
+      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
+      "publishedAt": "2025-07-20 17:55:00",
+      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
+      "retrievedAt": "2025-07-21 19:07:23.222563",
+      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
+      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
+      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
+      "publishedAt": "2025-07-20 17:12:29",
+      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.444312",
+      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Justin Boggs",
+      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
+      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
+      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
+      "publishedAt": "2025-07-20 15:05:19",
+      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.550581",
+      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23096,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
+      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-20 13:00:50",
+      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.412879",
+      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23093,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Andrea Mazzarino",
+      "title": "From Gaza to Ukraine, war is also an assault on public health",
+      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
+      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
+      "publishedAt": "2025-07-20 10:00:29",
+      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.410040",
+      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23100,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Daily Geek Show",
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
+      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
+      "url": "https://dailygeekshow.com/peste-pulmonaire/",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
+      "publishedAt": "2025-07-20 08:30:00",
+      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
+      "retrievedAt": "2025-07-21 19:07:25.249615",
+      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23098,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surge in Chitwan",
+      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
+      "url": "https://english.khabarhub.com/2025/20/486461/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-20 08:15:15",
+      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.460375",
+      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]

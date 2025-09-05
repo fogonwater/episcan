@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-09-04 19:05
-- **Most recent article:** 2025-09-03 19:05:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-09-05 07:07
+- **Most recent article:** 2025-09-04 02:21:30
 
 ---
 
@@ -13,19 +13,19 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|-|
 | chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 13 | 397 |
-| measles | 45 | 30 | 26 | 26 | 50 | 33 | 20 | 230 |
-| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 6 | 214 |
-| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 4 | 108 |
-| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 10 | 103 |
-| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 4 | 53 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 12 | 42 |
+| measles | 47 | 30 | 26 | 26 | 50 | 33 | 23 | 235 |
+| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 6 | 218 |
+| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 5 | 109 |
+| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 10 | 104 |
+| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 5 | 54 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 13 | 43 |
 | zika | 2 | 7 | 8 | 9 | 7 | 8 | 1 | 42 |
-| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 2 | 40 |
-| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 3 | 31 |
+| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 3 | 41 |
+| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 3 | 32 |
 | pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 3 | 10 |
 | hpai | 1 | 0 | 3 | 0 | 1 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
+| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -50,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (rabies)
 
+- [Will the rabies vaccine make Snoopy autistic?](https://www.lawyersgunsmoneyblog.com/2025/09/will-the-rabies-vaccine-make-snoopy-autistic) (Lawyersgunsmoneyblog.com)
+
 - [Rabies Cases Are Rising in More Than a Dozen Areas](https://www.newser.com/story/374427/rabies-cases-are-rising-in-more-than-a-dozen-areas.html) (Newser)
 
 - [Rabies Cases Rise In U.S.](https://www.shtfplan.com/headline-news/rabies-cases-rise-in-u-s) (Shtfplan.com)
@@ -68,6 +70,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (mpox)
 
+- [Mpox se dispara 860% en México: AHF alerta en día mundial de la salud sexual](https://www.milenio.com/ciencia-y-salud/mpox-dispara-860-mexico-alerta-ahf) (Milenio)
+
 - [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
 
 - [Whatever happened to mpox? Is it still a threat?](https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa) (NPR)
@@ -78,11 +82,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (meningitis)
 
+- [Christchurch teen falls ill with meningococcal meningitis after schools rugby tournament](https://www.nzherald.co.nz/nz/christchurch/christchurch-secondary-school-student-contracts-meningococcal-disease-after-attending-rugby-tournament/EINPONMMG5HDNHCY3PAQRR7CMM/) (New Zealand Herald)
+
 - [Listen: As Kids Head Back to School, Parents Sort Out Confusion Over Vaccine Access](https://kffhealthnews.org/news/article/listen-wamu-health-hub-back-to-school-pediatric-vaccine-guidelines-access/) (Kffhealthnews.org)
 
 - [Concern over growing threat posed by infectious meningitis in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001528258/concern-over-growing-threat-posed-by-infectious-meningitis-in-kenya) (Standard Digital)
 
 ## 25-36 (measles)
+
+- [Measles vaccination rates declining in Spokane County as](https://www.khq.com/news/measles-vaccination-rates-declining-in-spokane-county/article_ffe82681-7ecd-4753-87b3-7fed3d5e706a.html) (KHQ Right Now)
+
+- [Florida moves to scrap state school vaccine requirements (Gary Fineout/Politico)](https://www.memeorandum.com/250903/p131) (Memeorandum.com)
+
+- [Florida working to end vaccine mandates](https://www.npr.org/2025/09/03/nx-s1-5527093/florida-working-to-end-vaccine-mandates) (NPR)
 
 - [Ron DeSantis Risks Letting Polio, Measles Spread in Florida Schools (Andrew Perez/Rolling Stone)](https://www.memeorandum.com/250903/p111) (Memeorandum.com)
 
@@ -157,6 +169,8 @@ Source: [News API](https://newsapi.org/)
 - [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
 
 ## 25-36 (h5n1)
+
+- [Cat in San Francisco euthanized after latest bird flu infection tied to raw pet food](https://financialpost.com/pmn/cat-in-san-francisco-euthanized-after-latest-bird-flu-infection-tied-to-raw-pet-food) (Financial Post)
 
 - [Un brote de gripe aviar activa las alarmas en Málaga y Sevilla entre críticas a la "dejación de funciones" municipal](https://www.eldiario.es/andalucia/sostenibilidad/brote-gripe-aviar-activa-alarmas-malaga-sevilla-criticas-dejacion-funciones-municipal_1_12576439.html) (Eldiario.es)
 
@@ -2370,6 +2384,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
+- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
+
+## 25-30 (typhoid)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2536,6 +2556,10 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
+- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2567,6 +2591,8 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
+
+- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2647,6 +2673,14 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
+
+- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
+
+- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
+
+- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
+
+- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
