@@ -1,8 +1,296 @@
 {
-  "last_updated": "2025-09-05 07:07",
-  "count_articles_total": 1194,
-  "count_articles_new": 7,
+  "last_updated": "2025-09-05 19:05",
+  "count_articles_total": 1202,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 24297,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue cases in Aug this year drop to 13 from 95 in Aug 2024",
+      "description": "Panaji: Compared to the upsurge of dengue cases last year, where 95 were reported in Aug 2024, this year the health department has reported just 13 co.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/dengue-cases-in-aug-this-year-drop-to-13-from-95-in-aug-2024/articleshow/123705796.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123705815,width-1070,height-580,imgsize-10488,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-04 18:59:11",
+      "content": "8 fashion lessons to learn from Virat Kohlis swag",
+      "retrievedAt": "2025-09-05 19:05:46.804657",
+      "internal_id": "98da862da0e18502c98698caf724318b41d696d0f62aac6dadbbaca9b0136c6d",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24294,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. drives a wedge between red and blue states on vaccines (Washington Post)",
+      "description": "Washington Post: RFK Jr. drives a wedge between red and blue states on vaccines \u2014 As states diverge on coronavirus vaccines, parents across party lines still support vaccine mandates for measles and polio, according to a Washington Post-KFF poll. \u2014 Vaccin\u2026",
+      "url": "https://www.memeorandum.com/250904/p81",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTVSUGFQN44WRRPODOKOHM7K2A_size-normalized.JPG&w=1440",
+      "publishedAt": "2025-09-04 18:35:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-09-05 19:05:45.152264",
+      "internal_id": "cde1695726fd63b3c6b7a6d73e3cb45ca7f6594883a1a02f17a8d4de9e22bfbe",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24296,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Adolescente viram Guardi\u00f5es da Sa\u00fade no combate \u00e0 Dengue em bairro de Porto Alegre",
+      "description": "No bairro Passo das Pedras, um dos mais cr\u00edticos em casos de dengue, quinze adolescentes da ...",
+      "url": "https://www.terra.com.br/noticias/adolescente-viram-guardioes-da-saude-no-combate-a-dengue-em-bairro-de-porto-alegre,0981e4d8e746aca504cf1d2cb157b7c525dlqa9g.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/04/889963104-dengue-zika-chikungunya-fever-mosquito-aedes-aegypti-human-skin.jpg",
+      "publishedAt": "2025-09-04 17:36:57",
+      "content": "No bairro Passo das Pedras, um dos mais cr\u00edticos em casos de dengue, quinze adolescentes da Escola Alan Maria Tereza foram treinados para atuar como agentes mirins de sa\u00fade, em uma a\u00e7\u00e3o inovadora da \u2026 [+1021 chars]",
+      "retrievedAt": "2025-09-05 19:05:46.772536",
+      "internal_id": "17e994ff613aaf48b38ce8e426734b8a50a4c04e665c22d035726c8f4df2a997",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24302,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Mpox deaths near 2,000 in Africa since 2024 amid recent decline in cases: Africa CDC",
+      "description": "ADDIS ABABA, Sept. 4 (Xinhua) -- The death toll from Africa's ongoing mpox outbreak is approaching 2,000 since the beginning of 2024, amid recent \"encouraging\" decline in the number of cases, according to the Africa Centers for Disease Control and Prevention \u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/09/05/mpox-deaths-near-2000-in-africa-since-2024-amid-recent-decline-in-cases-africa-cdc",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-09-04 17:29:00",
+      "content": "ADDIS ABABA, Sept. 4 (Xinhua) -- The death toll from Africa's ongoing mpox outbreak is approaching 2,000 since the beginning of 2024, amid recent \"encouraging\" decline in the number of cases, accordi\u2026 [+1692 chars]",
+      "retrievedAt": "2025-09-05 19:05:48.825191",
+      "internal_id": "42c7eb575e31073fba1618f6d926da80ca76e3a9afbab9ef7aa79557ee0b86e3",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24287,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Jezebel",
+      "author": "Danielle Han",
+      "title": "Florida Proud to Announce it\u2019s Done Caring About Public Health",
+      "description": "Governor Ron DeSantis never fails to remind us all that he\u2018s the worst thing to happen to the Sunshine State.",
+      "url": "https://www.jezebel.com/florida-proud-to-announce-its-done-caring-about-public-health",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/09/Untitled-design-4.jpg",
+      "publishedAt": "2025-09-04 17:16:07",
+      "content": "Welcome to the year 2025, a time when misinformation, quack diets, and junk science prevail. Rabies and measles are back and on the rise, shoddy research is trailblazing sleazy political maneuvers, p\u2026 [+4384 chars]",
+      "retrievedAt": "2025-09-05 19:05:44.438265",
+      "internal_id": "7de158efa168b4a1afa71adec4eeda20bae82f430989119816944ddd6d0830ef",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24295,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Child with No Known Exposure \u2014 San Francisco, California, December 2024\u2013January 2025",
+      "description": "This report describes a case of highly pathogenic avian influenza A(H5N1) identified in a school-aged child in California with no known source of exposure.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7433a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7433a2_HPAIA5N1_IMAGE_04September2025_1200x675.png?_=10604",
+      "publishedAt": "2025-09-04 17:07:39",
+      "content": "Farrell A. Tobolowsky, DO1; Eric Morris, MPH1; Lina Castro, MPH1; Tina Schaff1; Monica Jacinto1; Joseph P. Clement, MS1; Min Z. Levine, PhD2; Julia C. Frederick, PhD2; Feng Liu, PhD2; Crystal Holiday\u2026 [+25303 chars]",
+      "retrievedAt": "2025-09-05 19:05:46.519636",
+      "internal_id": "894516275710730e48ef2eec2e336e58ab08420095d80a36e16d8d2819e3e9e0",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24290,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Elizabeth Weill-Greenberg",
+      "title": "Florida Is Dropping All Vaccine Mandates, State\u2019s Surgeon General Says",
+      "description": "Currently, all states require schoolchildren to receive vaccines against polio, measles, and other diseases.",
+      "url": "https://truthout.org/articles/florida-is-dropping-all-vaccine-mandates-states-surgeon-general-says/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/09/2025-9-4-vaccine-shot.jpg",
+      "publishedAt": "2025-09-04 16:42:44",
+      "content": "Did you know that Truthout is a nonprofit and independently funded by readers like you? If you value what we do, please support our work with a donation. This week, Floridas surgeon general announce\u2026 [+4628 chars]",
+      "retrievedAt": "2025-09-05 19:05:45.063527",
+      "internal_id": "d2e9533dfd1845e8a20360e54cf537a97e082c2e4c5265cb93af9a1eb56341c7",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24293,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Travis Gettys",
+      "title": "'Lies!' Senator calls out RFK Jr. for questioning science behind vaccines",
+      "description": "Sen. Michael Bennett (D-CO) got into a heated exchange with Health and Human Services Secretary Robert F. Kennedy Jr. over his views on vaccines against Covid, measles and other preventable illnesses.MSNBC interrupted a commercial to join the Colorado Democra\u2026",
+      "url": "https://www.rawstory.com/robert-f-kennedy-jr-vaccines-2673960458/",
+      "urlToImage": "https://www.rawstory.com/media-library/sen-michael-bennett-d-co-and-health-and-human-services-secretary-robert-f-kennedy-jr.png?id=61555533&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
+      "publishedAt": "2025-09-04 16:04:37",
+      "content": "Sen. Michael Bennett (D-CO) got into a heated exchange with Health and Human Services Secretary Robert F. Kennedy Jr. over his views on vaccines against Covid, measles and other preventable illnesses\u2026 [+3941 chars]",
+      "retrievedAt": "2025-09-05 19:05:45.090380",
+      "internal_id": "f8403c9ba0e2b5d475f474d2f87183bedf0442740bf2d0c65aec52b7643913d0",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24299,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di febbre Dengue a Porto Santo Stefano",
+      "description": "Caso di febbre Dengue all'Argentario (Grosseto) dove \u00e8 scattata la disinfestazione dalla zanzara tigre. Lo comunica il dipartimento della Prevenzione e igiene Pubblica delle Colline dell'Albegna dell'Asl Toscana Sud Est. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/09/04/caso-di-febbre-dengue-a-porto-santo-stefano_24d42fdb-a018-448e-9866-d62d5f59e8a5.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/7/23/79635cc2a9ad942f0ca84dd1809f757d.jpg",
+      "publishedAt": "2025-09-04 15:37:22",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-09-05 19:05:46.838321",
+      "internal_id": "e85dd7b0ab66dd079f34f92baaacc10031ae70d87177f2beb3bb61d14f67d32e",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24292,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "RFK Jr. Says Measles Outbreak Was A \u201cSuccess\u201d",
+      "description": "Robert F. Kennedy Jr. said that the Trump administration\u2019s response to the measles outbreak that began in West Texas is a testament to what a \u201cfocused CDC (Centers for Disease Control and Prevention) can achieve.\u201d Kennedy was referring to the changes he mad\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/rfk-jr-says-measles-outbreak-was-a-success",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2021/02/rfk-jr.-e1613049387247.jpg",
+      "publishedAt": "2025-09-04 15:00:48",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2025-09-05 19:05:45.081510",
+      "internal_id": "7937e52774b01eebc59e33815dd2af0cc5f48a951367409a5b4fc143e78e5371",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24288,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Eye Opener: Florida officials announce plans to end childhood vaccine mandates",
+      "description": "Florida officials announce plans to end childhood vaccine mandates, for everything from measles to polio. Also, California firefighters race to contain a new set of fast-moving wildfires. All that and all that matters in today's Eye Opener.",
+      "url": "https://www.cbsnews.com/video/eye-opener-florida-officials-announce-plans-to-end-childhood-vaccine-mandates/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/04/c843d309-0e25-484b-855c-e014a0281366/thumbnail/1200x630/4fc9c7eb120c5a93cd9bbe014b4da8f4/0904-cmo-eye.jpg",
+      "publishedAt": "2025-09-04 14:18:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-09-05 19:05:45.045265",
+      "internal_id": "d573b385e67caac6613994478ce585ae7ae59a3ad2c45d2c54ce336db75ed17b",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sophearen Ith, Xerxes Seposo, Vitou Phy, Kraichat Tantrakarnapa, Geminn Louis C. Apostol, Pandji Wibawa Dhewantara, Rozita Hod, Mohd Rohaizat Hassan, Hidayatulfathi Othman, Mazrura Sahani, Jue Tao Lim, Ha Hong Nhung, Nguyen Hai Tuan, Ngu Duy Nghia, Taichiro Takemura, Inthavong Nouhak, Paul L. C. Chua, Alex R. Cook, Felipe J. Col\u00f3n-Gonz\u00e1lez, Masahiro Hashizume",
+      "title": "Extreme weather events and dengue in Southeast Asia: A regionally-representative analysis of 291 locations from 1998 to 2021",
+      "description": "Author summary Dengue remains a major public health concern in Southeast Asia region, where the warm and humid climates create optimal conditions for dengue transmission. Extreme weather events are expected to intensify with climate change and may further inf\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012649",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012649.g003&size=inline",
+      "publishedAt": "2025-09-04 14:00:00",
+      "content": "Abstract Background Climate change, leading to more frequent and intense extreme weather events (EWEs), could significantly impact dengue transmission. However, the associations between EWEs and de\u2026 [+38471 chars]",
+      "retrievedAt": "2025-09-05 19:05:46.821598",
+      "internal_id": "3f718711d2b49dbb32a5a6abc7b2b6bd800b761bc3ca2be9167ecfc7983950e6",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24289,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Florida plans to eliminate all child vaccine mandates",
+      "description": "Officials in Florida say they plan to be the first state to eliminate vaccine mandates for kids. The move could end vaccination requirements for shots like measles, chicken pox, polio and Hepatitis B. CBS News' Skyler Henry reports.",
+      "url": "https://www.cbsnews.com/video/florida-plans-to-eliminate-all-child-vaccine-mandates/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/04/464ea720-f0f2-4ff8-8d7a-1553c7797a63/thumbnail/1200x630/b8c5dae00f2b0ebc4a37ced08342d4df/0904-cmo-henry.jpg",
+      "publishedAt": "2025-09-04 13:04:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-09-05 19:05:45.054813",
+      "internal_id": "db92356b68eb1d45731b50cbe26bb6f264f51769d84694ffd721bc48b5b2f3df",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24301,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Vaiolo delle scimmie, sette persone contagiate in Fvg",
+      "description": "Sette persone sono risultate positive al virus mpox, il vaiolo delle scimmie. Sei di loro sono ricoverate nella clinica di malattie infettive dell'ospedale di Udine, un'altra \u00e8 in isolamento fiduciario. Ne d\u00e0 notizia la Tgr Rai del Friuli Venezia Giulia. (ANS\u2026",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2025/09/04/vaiolo-delle-scimmie-sette-persone-contagiate-in-fvg_e9681518-9a08-4416-b1ee-b5868c002a9f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2022/5/20/3b2c0b9d4391eaf3440a63ffd6e68177.jpg",
+      "publishedAt": "2025-09-04 12:12:29",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-09-05 19:05:48.816085",
+      "internal_id": "85ce27140b66b515883f7a8e4f306442b64aac65985878aa974cd5354f696461",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24300,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Vaiolo delle scimmie, sette persone contagiate in Fvg",
+      "description": "Sette persone sono risultate positive al virus mpox, il vaiolo delle scimmie. Sei di loro sono ricoverate nella clinica di malattie infettive dell'ospedale di Udine, un'altra \u00e8 in isolamento fiduciario. Ne d\u00e0 notizia la Tgr Rai del Friuli Venezia Giulia. (ANS\u2026",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/04/vaiolo-delle-scimmie-sette-persone-contagiate-in-fvg_ac7f1fe1-62a1-47c2-bd98-3db55bf2fa7a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2022/5/20/3b2c0b9d4391eaf3440a63ffd6e68177.jpg",
+      "publishedAt": "2025-09-04 12:11:31",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-09-05 19:05:48.806798",
+      "internal_id": "4af13aba7effee88119ecfff9a384b8d2ef6e6ccbaba3d93d18acec835ec33d5",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24291,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Typepad.com",
+      "author": "Brian Leiter",
+      "title": "Florida poised to become the preventable disease capital of the developed world...",
+      "description": "...as the yahoos who run it propose eliminating vaccine mandates for school children. That basically guarantees outbreaks of measles, chickenpox, whooping cough etc., and will have spillover effects for the millions of elderly retirees in that state. I assume\u2026",
+      "url": "https://leiterreports.typepad.com/blog/2025/09/florida-poised-to-become-the-preventable-disease-capitol-of-the-developed-world.html",
+      "urlToImage": null,
+      "publishedAt": "2025-09-04 10:46:00",
+      "content": "...as the yahoos who run it propose eliminating vaccine mandates for school children. That basically guarantees outbreaks of measles, chickenpox, whooping cough etc., and will have spillover effects\u2026 [+347 chars]",
+      "retrievedAt": "2025-09-05 19:05:45.072566",
+      "internal_id": "643db48875d1c4b99fa417b369ad0e40d760bbb6b9bcbff9c02bfffe449bb4b2",
+      "publishedAtLabel": "Sep 4"
+    },
     {
       "id": 24283,
       "query": [
@@ -21456,151 +21744,6 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23095,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Layse Ventura",
-      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
-      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
-      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
-      "publishedAt": "2025-07-20 17:58:33",
-      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.372656",
-      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Michel Cruz",
-      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
-      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
-      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
-      "publishedAt": "2025-07-20 17:55:00",
-      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
-      "retrievedAt": "2025-07-21 19:07:23.222563",
-      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23097,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Instituto Butantan",
-      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
-      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
-      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
-      "publishedAt": "2025-07-20 17:12:29",
-      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.444312",
-      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23094,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Scrippsnews.com",
-      "author": "Justin Boggs",
-      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
-      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
-      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
-      "publishedAt": "2025-07-20 15:05:19",
-      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
-      "retrievedAt": "2025-07-21 19:07:21.550581",
-      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23096,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
-      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
-      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
-      "publishedAt": "2025-07-20 13:00:50",
-      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.412879",
-      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23093,
-      "query": [
-        "measles",
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Salon",
-      "author": "Andrea Mazzarino",
-      "title": "From Gaza to Ukraine, war is also an assault on public health",
-      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
-      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
-      "publishedAt": "2025-07-20 10:00:29",
-      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
-      "retrievedAt": "2025-07-21 19:07:21.410040",
-      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23100,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Daily Geek Show",
-      "author": "contact@dailygeekshow.com (DGS)",
-      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
-      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
-      "url": "https://dailygeekshow.com/peste-pulmonaire/",
-      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
-      "publishedAt": "2025-07-20 08:30:00",
-      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
-      "retrievedAt": "2025-07-21 19:07:25.249615",
-      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 23098,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases surge in Chitwan",
-      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
-      "url": "https://english.khabarhub.com/2025/20/486461/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-20 08:15:15",
-      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
-      "retrievedAt": "2025-07-21 19:07:22.460375",
-      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]
