@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-09-05 19:05",
-  "count_articles_total": 1202,
-  "count_articles_new": 16,
+  "last_updated": "2025-09-06 07:06",
+  "count_articles_total": 1219,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 24311,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "ICMR issues licences to industry partners for 9 breakthrough techs",
+      "description": "The Indian Council for Medical Research (ICMR) has licensed nine groundbreaking health technologies to industry partners, including a multistage malaria vaccine licensed to multiple companies like Indian Immunologicals Limited and Zydus Lifesciences. Biologic\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/icmr-issues-licences-to-industry-partners-for-9-breakthrough-techs/articleshow/123709681.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123709681,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-05 02:37:30",
+      "content": "Sreeleela dazzles in elegant sarees",
+      "retrievedAt": "2025-09-06 07:06:14.837841",
+      "internal_id": "c142c0b7441fcf79113428104a1b9d59591bcb4342739e4cdae3dec33f5a3b71",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 24304,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Dot",
+      "author": "Lindsey Weedston",
+      "title": "People can\u2019t believe Florida wants to get rid of every single school vaccine requirement",
+      "description": "Florida Surgeon General Joseph Ladapo announced plans this week to eliminate all vaccine mandates for children in public schools, a move that would roll back decades of immunization requirements against illnesses like polio and measles. Public health advoc\u2026",
+      "url": "https://www.dailydot.com/viral-politics/florida-ending-vaccine-mandates/",
+      "urlToImage": "https://uploads.dailydot.com/2025/09/florida-ending-vaccine-mandate-.jpg?auto=compress&fm=pjpg&w=2000&h=1000",
+      "publishedAt": "2025-09-04 23:30:00",
+      "content": "Florida Surgeon General Joseph Ladapo announced plans this week to eliminate all vaccine mandates for children in public schools, a move that would roll back decades of immunization requirements agai\u2026 [+3249 chars]",
+      "retrievedAt": "2025-09-06 07:06:12.362946",
+      "internal_id": "bc3e9996425ebef3d0009d0ece5ffa38d2ab08334de0d770637ef4649590226c",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24307,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "David Blevins",
+      "title": "The proxy war that will redefine public health in America",
+      "description": "The US health secretary has been told children are now dying from measles for the first time in 20 years after he rolled back vaccine recommendations - a row that has taken centre stage in a wider battle over public health in the US.",
+      "url": "https://news.sky.com/story/the-proxy-war-that-will-redefine-public-health-in-america-13425255",
+      "urlToImage": "https://e3.365dm.com/25/09/1600x900/skynews-robert-kennedy_7011550.jpg?20250904234315",
+      "publishedAt": "2025-09-04 22:19:00",
+      "content": "It is much more than a battle over vaccines in the United States. It has become a proxy war about trust, freedom, and the role of government in public health. The debate about childhood immunisatio\u2026 [+2545 chars]",
+      "retrievedAt": "2025-09-06 07:06:12.474510",
+      "internal_id": "a2ea74be49a321e70c2f161ff21e7f825c143649c70f0bbb6db877eaa025918d",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24310,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "OMS alerta para falhas na preven\u00e7\u00e3o de doen\u00e7as",
+      "description": "A OMS alerta para o desconhecimento da popula\u00e7\u00e3o face \u00e0 preven\u00e7\u00e3o de doen\u00e7as, como o paludismo e a dengue. \"Falta engajamento comunit\u00e1rio\", afirmou o especialista Jude Bigoga.",
+      "url": "https://observador.pt/2025/09/04/oms-alerta-para-falhas-na-prevencao-de-doencas-transmitidas-por-mosquitos-em-cabo-verde/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F08%2F11182151%2F45465870.jpeg?layer=obstop:T",
+      "publishedAt": "2025-09-04 21:33:27",
+      "content": "Um especialista da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou esta quinta-feira para o risco de doen\u00e7as transmitidas por mosquitos ap\u00f3s a tempestade que provocou nove mortos em Cabo Verde, afirmando \u2026 [+2394 chars]",
+      "retrievedAt": "2025-09-06 07:06:13.782246",
+      "internal_id": "cdee106d01aaea8082898208e009c2cb4dd746354c7dced47fe169361ab061db",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24306,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Thegatewaypundit.com",
+      "author": "Jim H\u1d0fft",
+      "title": "RFK Jr. Says CDC Ordered Scientist to DESTROY Autism Data Linking Measles Vaccine to Black Children in 2002",
+      "description": "During a stunning Senate hearing, HHS Secretary Robert F. The post RFK Jr. Says CDC Ordered Scientist to DESTROY Autism Data Linking Measles Vaccine to Black Children in 2002 appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2025/09/rfk-jr-says-cdc-ordered-scientist-destroy-autism/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/09/screenshot-2025-09-04-at-3.19.52pm-scaled.jpg",
+      "publishedAt": "2025-09-04 21:20:51",
+      "content": "During a stunning Senate hearing, HHS Secretary Robert F. Kennedy Jr. revealed that in the early 2000s, a senior CDC scientist was ordered to destroy data from an internal study that showed a stagger\u2026 [+1786 chars]",
+      "retrievedAt": "2025-09-06 07:06:12.466208",
+      "internal_id": "00a15c97e5dca540c5eb47814996bfc9d7df2e44ba88699fca4009e924e329ac",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24303,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Kerry  Breen",
+      "title": "What's next after Florida announced plan to ban vaccine mandates?",
+      "description": "Students have long been required to receive vaccinations for once-common childhood illnesses like polio and measles, but some states are moving to change that.",
+      "url": "https://www.cbsnews.com/news/florida-vaccine-mandates-united-states-measles-polio-mmr/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/04/af209260-61c2-4a45-9097-cbc34f635b14/thumbnail/1200x630/cdfbdfe733aeb6b9d8755741efd4bc81/gettyimages-1383889089.jpg",
+      "publishedAt": "2025-09-04 20:39:58",
+      "content": "Florida officials announced that the state will work to phase out all childhood vaccine mandates, becoming the first in the U.S. to do so. Health experts say such a move raises the risk of deadly dis\u2026 [+7512 chars]",
+      "retrievedAt": "2025-09-06 07:06:12.322091",
+      "internal_id": "5d5f3cdbe9121d3e9a9285635ae148a9276c5d1d66d4fe2c380139217f296422",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24305,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak and community exposure declared in Vaughan: health agency",
+      "description": "York Region Public Health is investigating a measles outbreak in Vaughan and warning the public of possible exposure in the community.",
+      "url": "https://www.cbc.ca/news/canada/toronto/york-region-vaughan-measles-outbreak-1.7625534",
+      "urlToImage": "https://i.cbc.ca/1.7525270.1746210724!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-outbreak.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-04 20:30:11",
+      "content": "York Region Public Health is investigating a measles outbreak in Vaughan and is warning the public that some people may have been exposed to the virus. A contagious person was at Becker's Convenien\u2026 [+1614 chars]",
+      "retrievedAt": "2025-09-06 07:06:12.435436",
+      "internal_id": "134282d9cc6ab94755192a1fbf0bb02bde2d4ffea4bfaf8b133490e158fca8bb",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24308,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario's top doctor says province needs to modernize vaccine registry, calls for national schedule",
+      "description": "Ontario's top doctor is calling for a national immunization schedule and registry to address gaps exposed by the resurgence of measles in Canada \u2014 but first, he says his own province needs a centralized digital vaccine system.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-top-doctor-says-province-needs-to-modernize-vaccine-registration-1.7625469",
+      "urlToImage": "https://i.cbc.ca/1.7625509.1757015454!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ont-monkeypox-20221014.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-04 20:03:03",
+      "content": "Ontario's top doctor is calling for a national immunization schedule and registry to address gaps exposed by the resurgence of measles in Canada but first, he says his own province needs a centralize\u2026 [+4180 chars]",
+      "retrievedAt": "2025-09-06 07:06:12.482945",
+      "internal_id": "6adc3d7ad9505dcc35c710819a892ec33dee10431842269def4984cbfee55788",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 24309,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "keizal",
+      "title": "La gripe aviar llega a las aves de corral de Andaluc\u00eda: Comunican un foco en una granja de Huelva",
+      "description": "Las autoridades veterinarias de la Junta de Andaluc\u00eda han notificado este jueves 4 de septiembre un foco de Influenza aviar de alta patogenicidad (IAAP), serotipo H5N1, en una explotaci\u00f3n de aves de corral de engorde localizada en el municipio de El Cerro de \u2026",
+      "url": "https://www.meneame.net/story/gripe-aviar-llega-aves-corral-andalucia-comunican-foco-granja",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4093590&version=0&ts=1757013426&image.webp",
+      "publishedAt": "2025-09-04 19:12:16",
+      "content": "",
+      "retrievedAt": "2025-09-06 07:06:13.271159",
+      "internal_id": "e8ca041c2dce4553a370708d8cc6718e3268c9c68be1dc10b2cb8c61a4602e5a",
+      "publishedAtLabel": "Sep 4"
+    },
     {
       "id": 24297,
       "query": [
@@ -21744,6 +21906,151 @@
       "content": "SINGAPORE A phase three clinical trial is being conducted here to evaluate the safety and efficacy of a new quadrivalent dengue vaccine in children aged two to 17. Developed by US-based pharmaceuti\u2026 [+5167 chars]",
       "retrievedAt": "2025-07-22 07:10:09.482849",
       "internal_id": "5a8b920eb4baa9e0e17bd7dda917cf74eec4ce63c7cdd8d868bb492e39a53cbe",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Layse Ventura",
+      "title": "Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo",
+      "description": "Nova unidade no Paran\u00e1 pode produzir 100 milh\u00f5es de ovos por semana e promete reduzir doen\u00e7as e gastos com sa\u00fade p\u00fablica usando tecnologia natural e segura O post Fim da dengue? Brasil inaugura maior f\u00e1brica de mosquito Aedes aegypti do mundo apareceu primeir\u2026",
+      "url": "https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/fachada_wolbito-curitiba.jpg",
+      "publishedAt": "2025-07-20 17:58:33",
+      "content": "Pode parecer estranho \u00e0 primeira vista ouvir falar de uma f\u00e1brica de mosquito. Afinal, todos os anos, o Governo Federal investe muito dinheiro em campanhas de conscientiza\u00e7\u00e3o para controlar o mosquit\u2026 [+2711 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.372656",
+      "internal_id": "bbecfba789568275d7b84a1f2e851b498fd526f47a8eff36d9ba632908f1b1a5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Michel Cruz",
+      "title": "Patricio O\u2019Ward gana el Gran Premio de Toronto al domar la carrera callejera",
+      "description": "\u00a1Canad\u00e1 es territorio de Patricio O\u2019Ward! Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCar Series.S\u00ed, el circuito callejero de Toronto por fin cedi\u2026",
+      "url": "https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/07/20/patricio-ward-gana-premio-toronto-1.jpg",
+      "publishedAt": "2025-07-20 17:55:00",
+      "content": "\u00a1Canad\u00e1 es territorio de Patricio OWard!Pato se sacudi\u00f3 la malaria en la tierra de la hoja de Maple y gan\u00f3 el Gran Premio de Toronto, su segunda carrera de la temporada y novena como piloto de IndyCa\u2026 [+2148 chars]",
+      "retrievedAt": "2025-07-21 19:07:23.222563",
+      "internal_id": "b88e7ac542ff87721247d4942ff206e92691bf47ebb1552f712d990972df1cb5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Butantan desenvolve sistema de c\u00f3digo aberto para monitoramento de v\u00edrus da dengue, Covid-19 e Influenza",
+      "description": "Pipeline de Identifica\u00e7\u00e3o Viral para Resposta a Emerg\u00eancias (VIPER) est\u00e1 no GitHub e passa por reformula\u00e7\u00f5es para poder ser capaz de analisar genoma de outros v\u00edrus",
+      "url": "https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2025/07/pexels-thisisengineering-3862632.jpg",
+      "publishedAt": "2025-07-20 17:12:29",
+      "content": "O pesquisador Alex Ranieri mostra como funciona o VIPER O nome do sistema foi meticulosamente pensado pela equipe do CeVIVAS, coordenado pela diretora do Centro de Desenvolvimento Cient\u00edfico do Buta\u2026 [+4961 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.444312",
+      "internal_id": "861b76bd53b3efe59847f41e6b0e0bb3dea02e678d7ea65f1db09e0cf0193327",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Justin Boggs",
+      "title": "Survey reveals high vaccine hesitancy among pregnant women and new mothers",
+      "description": "A recent survey indicates that many new mothers are unsure about vaccinating their children, raising concerns among health officials about rising measles cases.",
+      "url": "https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fdae8c8/2147483647/strip/true/crop/1024x538+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc0%2F94%2Fe15ade7d4381becbeadd3a6c7b95%2Fap25183817272634.jpg",
+      "publishedAt": "2025-07-20 15:05:19",
+      "content": "A new survey published in JAMA Network by researchers from Emory University and the Centers for Disease Control and Prevention indicates that many pregnant women and new mothers are opting to delay o\u2026 [+2448 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.550581",
+      "internal_id": "33019b8d60b165891c70ac5308cbf3c3edee52018b6944e6a91e3c40da0081db",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23096,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Pisa, sindaco ordina disinfestazione",
+      "description": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-07-20 13:00:50",
+      "content": "Caso di dengue a Pisa, nella zona della tenuta di San Rossore. Lo rende noto il Comune dopo avere ricevuto una segnalazione dall'Asl relativamente a un'infezione confermata su una persona che ha s\u2026 [+1595 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.412879",
+      "internal_id": "fe44aa990b47a9b672a5115baf7658a3f760055204fa529bac7923ed93f2e16c",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23093,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Andrea Mazzarino",
+      "title": "From Gaza to Ukraine, war is also an assault on public health",
+      "description": "Measles, cholera, typhoid, polio \u2014 the ripple effects of violence on health often go unrecognized",
+      "url": "https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/03/gaza_kids_gettyimages-22036484731.jpg",
+      "publishedAt": "2025-07-20 10:00:29",
+      "content": "War kills in so many ways. These days, Americans are bombarded with images from Gaza and elsewhere of people or broken bodies being ferried on stretchers from the rubble of homes and hospitals by res\u2026 [+12530 chars]",
+      "retrievedAt": "2025-07-21 19:07:21.410040",
+      "internal_id": "6e8cf04903062f3c164fd31db318bb4e620abc1b3407e3042fffba0eb4e14143",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23100,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Daily Geek Show",
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Une premi\u00e8re depuis pr\u00e8s de 20 ans : un homme succombe de la peste pulmonaire aux \u00c9tats-Unis",
+      "description": "R\u00e9cemment, dans le nord de l'Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d'urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence dans son corps de Yersinia pestis, la bact\u00e9rie responsable d\u2026",
+      "url": "https://dailygeekshow.com/peste-pulmonaire/",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2025/07/une-peste-pulmonaire.jpg",
+      "publishedAt": "2025-07-20 08:30:00",
+      "content": "R\u00e9cemment, dans le nord de l\u2019Arizona, une personne a \u00e9t\u00e9 transport\u00e9e d\u2019urgence au centre m\u00e9dical de Flagstaff, pr\u00e9sentant de graves sympt\u00f4mes. D\u00e9c\u00e9d\u00e9e le jour m\u00eame, une autopsie a r\u00e9v\u00e9l\u00e9 la pr\u00e9sence \u2026 [+2061 chars]",
+      "retrievedAt": "2025-07-21 19:07:25.249615",
+      "internal_id": "ba0c989dba5b5ce1806183460c222d267b5b442940165c58eeff2c1aed9b05b8",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 23098,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases surge in Chitwan",
+      "description": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections\u20141,548 men and 1,472 women\u2014were recorded within the district, while 869 case\u2026",
+      "url": "https://english.khabarhub.com/2025/20/486461/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-20 08:15:15",
+      "content": "CHITWAN: Chitwan district reported 3,889 dengue infections in the last fiscal year, with only one fatality, according to the Public Health Office. Of the total cases, 3,020 infections1,548 men and 1\u2026 [+2552 chars]",
+      "retrievedAt": "2025-07-21 19:07:22.460375",
+      "internal_id": "e207fbd991b9624de4d15910fe97f4db7234bffe8c15df702762dcd7c85f131b",
       "publishedAtLabel": "Jul 20"
     }
   ]

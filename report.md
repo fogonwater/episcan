@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-09-05 19:05
-- **Most recent article:** 2025-09-04 18:59:11
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-09-06 07:06
+- **Most recent article:** 2025-09-05 02:37:30
 
 ---
 
@@ -13,19 +13,19 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|-|
 | chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 13 | 397 |
-| measles | 45 | 30 | 26 | 26 | 50 | 33 | 30 | 240 |
-| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 10 | 218 |
+| measles | 47 | 30 | 26 | 26 | 50 | 33 | 36 | 248 |
+| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 11 | 223 |
 | rabies | 11 | 10 | 11 | 27 | 39 | 6 | 6 | 110 |
-| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 10 | 103 |
+| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 11 | 105 |
 | mpox | 7 | 13 | 10 | 7 | 5 | 7 | 8 | 57 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 14 | 44 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 15 | 45 |
 | zika | 2 | 7 | 8 | 9 | 7 | 8 | 1 | 42 |
 | meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 3 | 41 |
-| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 3 | 31 |
+| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 3 | 32 |
 | pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 3 | 10 |
 | hpai | 1 | 0 | 3 | 0 | 1 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 3 |
+| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -98,6 +98,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (measles)
 
+- [People can’t believe Florida wants to get rid of every single school vaccine requirement](https://www.dailydot.com/viral-politics/florida-ending-vaccine-mandates/) (The Daily Dot)
+
+- [The proxy war that will redefine public health in America](https://news.sky.com/story/the-proxy-war-that-will-redefine-public-health-in-america-13425255) (Sky.com)
+
+- [RFK Jr. Says CDC Ordered Scientist to DESTROY Autism Data Linking Measles Vaccine to Black Children in 2002](https://www.thegatewaypundit.com/2025/09/rfk-jr-says-cdc-ordered-scientist-destroy-autism/) (Thegatewaypundit.com)
+
+- [What's next after Florida announced plan to ban vaccine mandates?](https://www.cbsnews.com/news/florida-vaccine-mandates-united-states-measles-polio-mmr/) (CBS News)
+
+- [Measles outbreak and community exposure declared in Vaughan: health agency](https://www.cbc.ca/news/canada/toronto/york-region-vaughan-measles-outbreak-1.7625534) (CBC News)
+
+- [Ontario's top doctor says province needs to modernize vaccine registry, calls for national schedule](https://www.cbc.ca/news/canada/toronto/ontario-top-doctor-says-province-needs-to-modernize-vaccine-registration-1.7625469) (CBC News)
+
 - [RFK Jr. drives a wedge between red and blue states on vaccines (Washington Post)](https://www.memeorandum.com/250904/p81) (Memeorandum.com)
 
 - [Florida Is Dropping All Vaccine Mandates, State’s Surgeon General Says](https://truthout.org/articles/florida-is-dropping-all-vaccine-mandates-states-surgeon-general-says/) (Truthout)
@@ -160,6 +172,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (malaria)
 
+- [ICMR issues licences to industry partners for 9 breakthrough techs](https://timesofindia.indiatimes.com/india/icmr-issues-licences-to-industry-partners-for-9-breakthrough-techs/articleshow/123709681.cms) (The Times of India)
+
 - [Cadinapyridine sesquiterpene alkaloids from Artemisia annua and in vitro cytotoxicity and antiplasmodial activities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331186) (Plos.org)
 
 - [Tres artículos del ISCIII aportan nuevos datos sobre la bebesiosis, una infección similar a la malaria](https://www.infosalus.com/salud-investigacion/noticia-tres-articulos-isciii-aportan-nuevos-datos-bebesiosis-infeccion-similar-malaria-20250903141003.html) (Infosalus.com)
@@ -192,6 +206,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (h5n1)
 
+- [La gripe aviar llega a las aves de corral de Andalucía: Comunican un foco en una granja de Huelva](https://www.meneame.net/story/gripe-aviar-llega-aves-corral-andalucia-comunican-foco-granja) (Meneame.net)
+
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Child with No Known Exposure — San Francisco, California, December 2024–January 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7433a2.htm) (Cdc.gov)
 
 - [Cat in San Francisco euthanized after latest bird flu infection tied to raw pet food](https://financialpost.com/pmn/cat-in-san-francisco-euthanized-after-latest-bird-flu-infection-tied-to-raw-pet-food) (Financial Post)
@@ -221,6 +237,8 @@ Source: [News API](https://newsapi.org/)
 - [ഭാവിയിലെ വെല്ലുവിളി ജന്തുജന്യ രോഗങ്ങൾ, അടുത്ത പകർച്ചവ്യാധി H5N1 ആവാം- ആരോഗ്യമന്ത്രി](https://www.mathrubhumi.com/health/news/kerala-health-minister-warns-zoonotic-disease-threats-1.10878372) (Mathrubhumi.com)
 
 ## 25-36 (dengue)
+
+- [OMS alerta para falhas na prevenção de doenças](https://observador.pt/2025/09/04/oms-alerta-para-falhas-na-prevencao-de-doencas-transmitidas-por-mosquitos-em-cabo-verde/) (Observador.pt)
 
 - [Dengue cases in Aug this year drop to 13 from 95 in Aug 2024](https://timesofindia.indiatimes.com/city/goa/dengue-cases-in-aug-this-year-drop-to-13-from-95-in-aug-2024/articleshow/123705796.cms) (The Times of India)
 
@@ -2416,6 +2434,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
+- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
+
+## 25-30 (typhoid)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2582,6 +2606,10 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
+- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
+
+- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
+
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2613,6 +2641,8 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
+
+- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2693,6 +2723,14 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
+
+- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
+
+- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
+
+- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
+
+- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
