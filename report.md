@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-09-06 07:06
-- **Most recent article:** 2025-09-05 02:37:30
+- **New articles in last harvest:** 64
+- **Last harvest:** 2025-09-06 19:05
+- **Most recent article:** 2025-09-05 18:41:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-30 | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 13 | 397 |
-| measles | 47 | 30 | 26 | 26 | 50 | 33 | 36 | 248 |
-| dengue | 36 | 32 | 17 | 25 | 62 | 40 | 11 | 223 |
-| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 6 | 110 |
-| malaria | 16 | 13 | 18 | 15 | 19 | 13 | 11 | 105 |
-| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 8 | 57 |
-| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 15 | 45 |
-| zika | 2 | 7 | 8 | 9 | 7 | 8 | 1 | 42 |
-| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 3 | 41 |
-| yersinia | 2 | 1 | 0 | 7 | 7 | 12 | 3 | 32 |
+| chikungunya | 63 | 36 | 107 | 46 | 80 | 52 | 17 | 401 |
+| measles | 45 | 30 | 26 | 26 | 50 | 33 | 38 | 248 |
+| dengue | 32 | 32 | 17 | 25 | 62 | 40 | 15 | 223 |
+| rabies | 11 | 10 | 11 | 27 | 39 | 6 | 9 | 113 |
+| malaria | 15 | 13 | 18 | 15 | 19 | 13 | 12 | 105 |
+| mpox | 7 | 13 | 10 | 7 | 5 | 7 | 54 | 103 |
+| h5n1 | 4 | 1 | 14 | 3 | 3 | 5 | 18 | 48 |
+| zika | 2 | 7 | 8 | 9 | 7 | 8 | 4 | 45 |
+| meningitis | 12 | 3 | 1 | 4 | 2 | 16 | 5 | 43 |
+| yersinia | 1 | 1 | 0 | 7 | 7 | 12 | 3 | 31 |
 | pertussis | 3 | 1 | 0 | 2 | 0 | 1 | 3 | 10 |
 | hpai | 1 | 0 | 3 | 0 | 1 | 1 | 1 | 7 |
 | leptospirosis | 0 | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| typhoid | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 4 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 0 | 2 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-36 (zika)
+
+- [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
+
+- [Community deployment of metofluthrin emanators to control indoor Aedes aegypti: Efficacy results from a crossover trial in Yucatan, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012883) (Plos.org)
+
+- [Produkują komary, żeby zastąpić szczepionki. Serio, fabryka już działa](https://spidersweb.pl/2025/09/brazylia-komary-zamiast-szczepionki.html) (Spidersweb.pl)
 
 - [How Are Health Data Priced? Why Health Data Are Like Zika Prevention Programs](https://www.forbes.com/sites/sethjoseph/2025/09/02/how-are-health-data-priced-why-health-data-are-like-zika-prevention-programs/) (Forbes)
 
@@ -46,9 +52,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (typhoid)
 
+- [Public health is worse off under county governments](https://www.standardmedia.co.ke/opinion/article/2001528602/public-health-is-worse-off-under-county-governments) (Standard Digital)
+
 - [Unposted Health Officers demand urgent posting to curb typhoid](https://citinewsroom.com/2025/09/unposted-health-officers-demand-urgent-posting-to-curb-typhoid/) (Citinewsroom.com)
 
 ## 25-36 (rabies)
+
+- [Analysis of predictors of rabies-positive biting animals in Cambodia using spatio-temporal Bayesian regression modelling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013478) (Plos.org)
+
+- [Deadly rabies cases pose public health threat across US, experts warn](https://www.foxnews.com/health/deadly-rabies-cases-pose-public-health-threat-across-us-experts-warn) (Fox News)
+
+- [Rabies infections are increasing in wild animals — should you worry?](https://www.foxnews.com/health/rabies-infections-increasing-wild-animals-should-you-worry) (Fox News)
 
 - [Florida Proud to Announce it’s Done Caring About Public Health](https://www.jezebel.com/florida-proud-to-announce-its-done-caring-about-public-health) (Jezebel)
 
@@ -72,6 +86,98 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (mpox)
 
+- [El mpox deja de ser una emergencia mundial de salud, anuncia la OMS](https://www.dw.com/es/el-mpox-deja-de-ser-una-emergencia-mundial-de-salud-anuncia-la-oms/a-73900892) (DW (English))
+
+- [WHO says mpox no longer a global public health emergency](https://www.thestar.com.my/news/world/2025/09/06/who-says-mpox-no-longer-a-global-public-health-emergency) (The Star Online)
+
+- [Mpox deixou de ser emergência internacional de saúde pública](https://observador.pt/2025/09/05/oms-anuncia-que-mpox-deixou-de-ser-uma-emergencia-internacional-de-saude-publica/) (Observador.pt)
+
+- [ВОЗ сняла статус ЧС в связи с распространением оспы обезьян](https://life.ru/p/1786863) (Life.ru)
+
+- [Mpox no longer international health emergency but remains concern in Africa](https://www.aljazeera.com/news/2025/9/5/mpox-no-longer-international-health-emergency-but-remains-concern-in-africa) (Al Jazeera English)
+
+- [WHO Chief Lifts Global Mpox Emergency](https://www.ibtimes.com/who-chief-lifts-global-mpox-emergency-3782626) (International Business Times)
+
+- [Mpox: Ο ΠΟΥ κηρύσσει το τέλος της διεθνούς έκτακτης ανάγκης για τη δημόσια υγεία](https://dialogos.com.cy/mpox-o-poy-kiryssei-to-telos-tis-diethnoys-ektaktis-anagkis-gia-ti-dimosia-ygeia/) (Dialogos.com.cy)
+
+- [WHO chief lifts global mpox emergency](https://www.digitaljournal.com/world/who-chief-lifts-global-mpox-emergency/article) (Digital Journal)
+
+- [OMS levanta la emergencia sanitaria internacional por la mpox ante el descenso de casos](https://forbes.com.mx/oms-levanta-la-emergencia-sanitaria-internacional-por-la-mpox-ante-el-descenso-de-casos/) (Forbes.com.mx)
+
+- [Virus Mpox (Vaiolo delle scimmie), 7 contagiati in Friuli: infettata famiglia con tre adulti e due bambini](https://www.ilfattoquotidiano.it/2025/09/05/virus-mpox-vaiolo-delle-scimmie-7-contagiati-in-friuli-infettata-famiglia-con-tre-adulti-e-due-bambini/8117157/) (Ilfattoquotidiano.it)
+
+- [ВОЗ отменяет чрезвычайную ситуацию из-за оспы обезьян](https://korrespondent.net/world/4813548-voz-otmeniaet-chrezvychainuui-sytuatsyui-yz-za-ospy-obezian) (Korrespondent.net)
+
+- [ВООЗ скасовує надзвичайну ситуацію через віспу мавп](https://ua.korrespondent.net/world/4813548-vooz-skasovuie-nadzvychainu-sytuatsiui-cherez-vispu-mavp) (Korrespondent.net)
+
+- [Mpox nu mai este considerată o urgență globală de sănătate publică. OMS avertizează însă că boala rămâne un risc](http://hotnews.ro/mpox-nu-mai-este-considerata-o-urgenta-globala-de-sanatate-publica-oms-avertizeaza-insa-ca-boala-ramane-un-risc-2059999) (Hotnews.ro)
+
+- [Face au recul des cas, le mpox n'est plus considéré comme une urgence de santé internationale, annonce le chef de l'OMS](https://www.franceinfo.fr/sante/maladie/variole-du-singe/face-au-recul-des-cas-le-mpox-n-est-plus-considere-comme-une-urgence-de-sante-internationale-annonce-le-chef-de-l-oms_7475170.html) (Franceinfo.fr)
+
+- [OMS levanta emergencia sanitaria por Mpox ante descenso de casos registrados](https://www.milenio.com/internacional/ante-baja-casos-mpox-oms-pone-fin-a-alerta-sanitaria-internacional) (Milenio)
+
+- [Le mpox n’est plus une urgence de santé internationale, annonce l’OMS](https://www.lexpress.fr/monde/afrique/le-mpox-nest-plus-une-urgence-de-sante-internationale-annonce-loms-5DYHIH2CYZGDRL6XNPHX2NS45I/) (L'Express)
+
+- [WHO erklärt internationale Notlage wegen Mpox für beendet](https://www.tagesschau.de/wissen/mpox-aufhebung-notlage-100.html) (tagesschau.de)
+
+- [Mpox deixa de ser emergência de saúde global, diz chefe da OMS](https://valor.globo.com/mundo/noticia/2025/09/05/mpox-deixa-de-ser-emergncia-de-sade-global-diz-chefe-da-oms.ghtml) (Globo)
+
+- [WHO hebt höchste Alarmstufe für Infektionskrankheit Mpox auf](https://www.stern.de/news/who-hebt-hoechste-alarmstufe-fuer-infektionskrankheit-mpox-auf-36032700.html) (STERN.de)
+
+- [Mpox niet langer een internationale medische noodtoestand, zegt WHO](https://www.nieuwsblad.be/buitenland/mpox-niet-langer-een-internationale-medische-noodtoestand-zegt-who/88528473.html) (Nieuwsblad.be)
+
+- [WHO afblæser global krise fra udbrud af sygdommen mpox](https://politiken.dk/internationalt/art10538156/WHO-afbl%C3%A6ser-global-krise-fra-udbrud-af-sygdommen-mpox) (Politiken.dk)
+
+- [Mpox deixa de ser emergência de saúde internacional, diz chefe da OMS](https://www.terra.com.br/noticias/mundo/mpox-deixa-de-ser-emergencia-de-saude-internacional-diz-chefe-da-oms,abe6ff7a08b7abe0d44f5c956d0b94d5xlum725x.html) (Terra.com.br)
+
+- [WHO chief lifts global mpox emergency](https://www.channelnewsasia.com/world/world-health-organization-lift-global-mpox-emergency-5335056) (CNA)
+
+- [WHO: Mpox udgør ikke længere en global sundhedskrise](https://www.dr.dk/nyheder/seneste/who-mpox-udgoer-ikke-laengere-en-global-sundhedskrise) (Www.dr.dk)
+
+- [WHO chief lifts global mpox emergency](https://www.rte.ie/news/2025/0905/1532046-mpox-global-emergency/) (RTE)
+
+- [WHO says mpox outbreak in Africa is no longer a global health emergency](https://abcnews.go.com/Health/wireStory/chief-mpox-outbreak-africa-longer-global-health-emergency-125292011) (ABC News)
+
+- [ВОЗ отменила режим чрезвычайной ситуации по оспе обезьян](https://rg.ru/2025/09/05/voz-otmenila-rezhim-chrezvychajnoj-situacii-po-ospe-obezian.html) (Rg.ru)
+
+- [Mpox : le virus n’est plus une urgence de santé internationale, assure l’Organisation mondiale de la Santé](https://www.liberation.fr/societe/sante/mpox-le-virus-nest-plus-une-urgence-de-sante-internationale-assure-lorganisation-mondiale-de-la-sante-20250905_3RHNEA3WD5HDLOY4MXYBSFR5FM/) (Libération)
+
+- [WHO chief says the mpox outbreak in Africa is no longer a global health emergency](https://www.bostonherald.com/2025/09/05/who-chief-mpox-outbreak-update/) (Boston Herald)
+
+- [WHO Chief Lifts Mpox International Health Emergency](https://www.channelstv.com/2025/09/05/who-chief-lifts-mpox-international-health-emergency/) (Channels Television)
+
+- [Ο ΠΟΥ αποσύρει τον συναγερμό για την ευλογιά των πιθήκων - Δεν αποτελεί πλέον παγκόσμια υγειονομική έκτακτη ανάγκη](https://www.protothema.gr/world/article/1692041/o-pou-aposurei-ton-sunagermo-gia-tin-eulogia-ton-pithikon-den-apotelei-pleon-pagosmia-ugeionomiki-ektakti-anagi/) (Protothema.gr)
+
+- [Le mpox n’est plus une urgence de santé internationale, annonce le chef de l’OMS](https://www.nouvelobs.com/monde/20250905.OBS107364/le-mpox-n-est-plus-une-urgence-de-sante-internationale-annonce-le-chef-de-l-oms.html) (L'Obs)
+
+- [ΠΟΥ: Η νόσος Mpox δεν αποτελεί πλέον έκτακτη ανάγκη διεθνούς εμβέλειας](https://www.skai.gr/news/health/o-pou-anakoinose-oti-i-nosos-mpox-den-einai-pleon-ektakti-diethnis-anagki) (Skai.gr)
+
+- [Internationale Notlage aufgehoben](https://science.orf.at/stories/3231909/) (Science.orf.at)
+
+- [Vaccination strategies to achieve outbreak control for MPXV Clade I with a one-time mass campaign in sub-Saharan Africa: A scenario-based modelling study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004726) (Plos.org)
+
+- [ВОЗ сняла режим ЧС международного значения по оспе обезьян](https://tass.ru/obschestvo/24977593) (Tass.ru)
+
+- [WHO: Mpox utgör inte längre hälsokris](https://www.aftonbladet.se/nyheter/a/LM2Aq9/who-mpox-utgor-inte-langre-halsokris) (Aftonbladet.se)
+
+- [Le mpox n’est plus une urgence de santé internationale](https://www.lavenir.net/actu/societe/sante/2025/09/05/le-mpox-nest-plus-une-urgence-de-sante-internationale-5AXMUK3ETNHVRB4TSHA5NIUVE4/) (Lavenir.net)
+
+- [El aviso de la OMS a todo el mundo: a partir de ahora, se pone fin a la emergencia sanitaria internacional declarada por esta enfermedad temida del pasado](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13532726/09/25/el-aviso-de-la-oms-a-todo-el-mundo-a-partir-de-ahora-se-pone-fin-a-la-emergencia-sanitaria-internacional-declarada-por-esta-enfermedad-temida-del-pasado.html) (Eleconomista.es)
+
+- [Mpox no longer an international health emergency, says WHO chief](https://www.thestar.com.my/news/world/2025/09/05/mpox-no-longer-an-international-health-emergency-says-who-chief) (The Star Online)
+
+- [Infektionskrankheit: Weltgesundheitsorganisation hebt Notlage wegen Mpox auf](https://www.zeit.de/gesundheit/2025-09/mpox-weltgesundheitsorganisation-notlage) (Die Zeit)
+
+- [Mpox er ikke lenger en internasjonal helsekrise](https://www.nrk.no/nyheter/mpox-er-ikke-lenger-en-internasjonal-helsekrise--1.17557633) (NRK)
+
+- [Mpox no longer an international health emergency, says WHO chief](https://economictimes.indiatimes.com/news/international/world-news/mpox-no-longer-an-international-health-emergency-says-who-chief/articleshow/123721562.cms) (The Times of India)
+
+- [Krankheiten: Internationale Notlage wegen Mpox aufgehoben](https://www.tagesspiegel.de/wissen/krankheiten-internationale-notlage-wegen-mpox-aufgehoben-14283953.html) (Der Tagesspiegel)
+
+- [Krankheiten: Internationale Notlage wegen Mpox aufgehoben](https://www.zeit.de/news/2025-09/05/internationale-notlage-wegen-mpox-aufgehoben) (Die Zeit)
+
+- [Krankheiten: Internationale Notlage wegen Mpox aufgehoben](https://www.stern.de/panorama/wissen/krankheiten--internationale-notlage-wegen-mpox-aufgehoben-36032420.html) (STERN.de)
+
 - [Mpox deaths near 2,000 in Africa since 2024 amid recent decline in cases: Africa CDC](https://www.thestar.com.my/news/world/2025/09/05/mpox-deaths-near-2000-in-africa-since-2024-amid-recent-decline-in-cases-africa-cdc) (The Star Online)
 
 - [Vaiolo delle scimmie, sette persone contagiate in Fvg](https://www.ansa.it/friuliveneziagiulia/notizie/2025/09/04/vaiolo-delle-scimmie-sette-persone-contagiate-in-fvg_e9681518-9a08-4416-b1ee-b5868c002a9f.html) (ANSA.it)
@@ -90,6 +196,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (meningitis)
 
+- [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
+
+- [Why growing mosquito numbers are driving the spread of tropical diseases in Europe](https://www.irishtimes.com/world/europe/2025/09/06/new-normal-climate-change-mosquitoes-and-the-rise-of-tropical-diseases-in-europe/) (The Irish Times)
+
 - [Christchurch teen falls ill with meningococcal meningitis after schools rugby tournament](https://www.nzherald.co.nz/nz/christchurch/christchurch-secondary-school-student-contracts-meningococcal-disease-after-attending-rugby-tournament/EINPONMMG5HDNHCY3PAQRR7CMM/) (New Zealand Herald)
 
 - [Listen: As Kids Head Back to School, Parents Sort Out Confusion Over Vaccine Access](https://kffhealthnews.org/news/article/listen-wamu-health-hub-back-to-school-pediatric-vaccine-guidelines-access/) (Kffhealthnews.org)
@@ -97,6 +207,10 @@ Source: [News API](https://newsapi.org/)
 - [Concern over growing threat posed by infectious meningitis in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001528258/concern-over-growing-threat-posed-by-infectious-meningitis-in-kenya) (Standard Digital)
 
 ## 25-36 (measles)
+
+- [Florida’s Proposed Vaccine Reversal Undermines American Values](https://www.forbes.com/sites/briancastrucci/2025/09/05/floridas-proposed-vaccine-reversal-undermines-american-values/) (Forbes)
+
+- [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
 
 - [People can’t believe Florida wants to get rid of every single school vaccine requirement](https://www.dailydot.com/viral-politics/florida-ending-vaccine-mandates/) (The Daily Dot)
 
@@ -172,6 +286,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (malaria)
 
+- [how to build ai agents](https://www.digitalocean.com/community/questions/how-to-build-ai-agents) (Digitalocean.com)
+
 - [ICMR issues licences to industry partners for 9 breakthrough techs](https://timesofindia.indiatimes.com/india/icmr-issues-licences-to-industry-partners-for-9-breakthrough-techs/articleshow/123709681.cms) (The Times of India)
 
 - [Cadinapyridine sesquiterpene alkaloids from Artemisia annua and in vitro cytotoxicity and antiplasmodial activities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331186) (Plos.org)
@@ -206,6 +322,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (h5n1)
 
+- [Confirmado un caso de gripe aviar en un somormujo en Doñana](https://www.abc.es/espana/andalucia/confirmado-gripe-aviar-somormujo-donana-20250905203628-nts.html) (Www.abc.es)
+
+- [Confirmado un caso aislado de gripe aviar en un somormujo en Doñana, en el término municipal de Aznalcázar (Sevilla)](https://www.europapress.es/andalucia/sevilla-00357/noticia-confirmado-caso-aislado-gripe-aviar-somormujo-donana-termino-municipal-aznalcazar-sevilla-20250905201627.html) (Europapress.es)
+
+- [California Child Infected With H5N1 Bird Flu, Source Unknown](https://www.forbes.com/sites/johndrake/2025/09/05/california-child-infected-with-h5n1-bird-flu-source-unknown/) (Forbes)
+
 - [La gripe aviar llega a las aves de corral de Andalucía: Comunican un foco en una granja de Huelva](https://www.meneame.net/story/gripe-aviar-llega-aves-corral-andalucia-comunican-foco-granja) (Meneame.net)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Child with No Known Exposure — San Francisco, California, December 2024–January 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7433a2.htm) (Cdc.gov)
@@ -238,6 +360,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (dengue)
 
+- [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
+
+- [Extracellular microbes are required for mosquito development even in the presence of Wolbachia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013481) (Plos.org)
+
+- [Community deployment of metofluthrin emanators to control indoor Aedes aegypti: Efficacy results from a crossover trial in Yucatan, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012883) (Plos.org)
+
+- [Dengue cases triple in Patna in 10 days, urban areas most affected](https://timesofindia.indiatimes.com/city/patna/dengue-cases-triple-in-patna-in-10-days-urban-areas-most-affected/articleshow/123721425.cms) (The Times of India)
+
 - [OMS alerta para falhas na prevenção de doenças](https://observador.pt/2025/09/04/oms-alerta-para-falhas-na-prevencao-de-doencas-transmitidas-por-mosquitos-em-cabo-verde/) (Observador.pt)
 
 - [Dengue cases in Aug this year drop to 13 from 95 in Aug 2024](https://timesofindia.indiatimes.com/city/goa/dengue-cases-in-aug-this-year-drop-to-13-from-95-in-aug-2024/articleshow/123705796.cms) (The Times of India)
@@ -261,6 +391,14 @@ Source: [News API](https://newsapi.org/)
 - [Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el año](https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504) (Excelsior.com.mx)
 
 ## 25-36 (chikungunya)
+
+- [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
+
+- [Community deployment of metofluthrin emanators to control indoor Aedes aegypti: Efficacy results from a crossover trial in Yucatan, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012883) (Plos.org)
+
+- [Topography and environmental deficiencies are associated with chikungunya virus exposure in urban informal settlements in Salvador, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013477) (Plos.org)
+
+- [À cause du chikungunya, l'Établissement français du sang a dû faire évoluer sa doctrine pour les dons](https://www.franceinfo.fr/sante/maladie/chikungunya/a-cause-du-chikungunya-l-etablissement-francais-du-sang-a-du-faire-evoluer-sa-doctrine-pour-les-dons_7474909.html) (Franceinfo.fr)
 
 - [Plus de 300 cas de chikungunya en métropole depuis cet été, un niveau sans précédent](https://www.lemonde.fr/sante/article/2025/09/03/plus-de-300-cas-de-chikungunya-en-metropole-depuis-cet-ete-un-niveau-sans-precedent_6638807_1651302.html) (Le Monde)
 
@@ -2434,12 +2572,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Development and evaluation of a triplex real-time PCR assay for enhanced plague diagnostics in Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013278) (Plos.org)
 
-- [Une première depuis près de 20 ans : un homme succombe de la peste pulmonaire aux États-Unis](https://dailygeekshow.com/peste-pulmonaire/) (Daily Geek Show)
-
-## 25-30 (typhoid)
-
-- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
-
 ## 25-30 (rabies)
 
 - [Cat tests positive for rabies in Mechanicsville neighborhood](https://richmond.com/news/local/article_474209b2-43c3-40ec-9722-71b852c80c32.html) (Richmond.com)
@@ -2606,10 +2738,6 @@ Source: [News API](https://newsapi.org/)
 
 - [How Canada became the centre of a measles outbreak in North America](https://www.bbc.com/news/articles/c4g8d39gdr0o) (BBC News)
 
-- [Survey reveals high vaccine hesitancy among pregnant women and new mothers](https://www.scrippsnews.com/health/survey-reveals-high-vaccine-hesitancy-among-pregnant-women-and-new-mothers) (Scrippsnews.com)
-
-- [From Gaza to Ukraine, war is also an assault on public health](https://www.salon.com/2025/07/20/from-gaza-to-ukraine-war-is-also-an-assault-on-public-health/) (Salon)
-
 ## 25-30 (malaria)
 
 - [Why are thousands of mosquitoes being dropped over islands in Hawaii?](https://timesofindia.indiatimes.com/etimes/trending/why-are-thousands-of-mosquitoes-being-dropped-over-islands-in-hawaii/articleshow/122925931.cms) (The Times of India)
@@ -2641,8 +2769,6 @@ Source: [News API](https://newsapi.org/)
 - [A scoping review of community knowledge in malaria prevention and control programmes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328703) (Plos.org)
 
 - [Kenya IVD Market Research Report 2025-2032 | Opportunities in Increasing Adoption of Self-testing Kits, Emerging Technologies, Shift Towards Personalized Medicine, Integration of Digital Health](https://www.globenewswire.com/news-release/2025/07/21/3118514/28124/en/Kenya-IVD-Market-Research-Report-2025-2032-Opportunities-in-Increasing-Adoption-of-Self-testing-Kits-Emerging-Technologies-Shift-Towards-Personalized-Medicine-Integration-of-Digita.html) (GlobeNewswire)
-
-- [Patricio O’Ward gana el Gran Premio de Toronto al domar la carrera callejera](https://www.milenio.com/deportes/motor/patricio-oward-gana-el-gran-premio-de-toronto-de-indycar-2025) (Milenio)
 
 ## 25-30 (hpai)
 
@@ -2723,14 +2849,6 @@ Source: [News API](https://newsapi.org/)
 - [Surkhet records increasing dengue cases](https://english.khabarhub.com/2025/21/486664/) (Khabarhub.com)
 
 - [Trial of new dengue vaccine begins recruitment for child participants in Singapore](https://www.straitstimes.com/singapore/health/study-of-new-dengue-vaccine-begins-recruitment-for-child-participants-in-singapore) (The Straits Times)
-
-- [Fim da dengue? Brasil inaugura maior fábrica de mosquito Aedes aegypti do mundo](https://olhardigital.com.br/2025/07/20/ciencia-e-espaco/fim-da-dengue-brasil-inaugura-maior-fabrica-de-mosquito-aedes-aegypti-do-mundo/) (Olhardigital.com.br)
-
-- [Butantan desenvolve sistema de código aberto para monitoramento de vírus da dengue, Covid-19 e Influenza](https://gizmodo.uol.com.br/butantan-desenvolve-sistema-de-codigo-aberto-para-monitoramento-de-virus-da-dengue-covid-19-e-influenza/) (Uol.com.br)
-
-- [Caso di Dengue a Pisa, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2025/07/20/caso-di-dengue-a-pisa-sindaco-ordina-disinfestazione_6473854b-fcd9-42c3-b613-5460826c478f.html) (ANSA.it)
-
-- [Dengue cases surge in Chitwan](https://english.khabarhub.com/2025/20/486461/) (Khabarhub.com)
 
 ## 25-30 (chikungunya)
 
