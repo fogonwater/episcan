@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-09-07 07:06",
-  "count_articles_total": 1094,
-  "count_articles_new": 7,
+  "last_updated": "2025-09-07 19:06",
+  "count_articles_total": 1096,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 24384,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "What Parents Need To Know About Measles As Kids Head Back To School (Judy Stone/Forbes)",
+      "description": "Judy Stone / Forbes: What Parents Need To Know About Measles As Kids Head Back To School \u2014 Dr. Judy Stone focuses her writing on infectious diseases. \u2014 SaveComment \u2026 As children head back to school this year, parents are hearing conflicting advice, partic\u2026",
+      "url": "https://www.memeorandum.com/250906/p29",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bc1d10710d294b5c2ba1dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-09-06 16:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-09-07 19:06:00.042266",
+      "internal_id": "8bbbd94025c0ac8ab9c8a2a507cbf3817cc343ddd3415151aee2fdb46865eaae",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 24383,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Judy Stone, Senior Contributor, \n Judy Stone, Senior Contributor\n https://www.forbes.com/sites/judystone/",
+      "title": "What Parents Need To Know About Measles As Kids Head Back To School",
+      "description": "Measles is highly contagious. If an unvaccinated person is exposed, there is a long, expensive quarantine period parents should consider and serious health consequences.",
+      "url": "https://www.forbes.com/sites/judystone/2025/09/06/what-parents-need-to-know-about-measles-as-kids-head-back-to-school/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bc1d10710d294b5c2ba1dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-09-06 15:00:45",
+      "content": "St. Paul, Minnesota. State capitol. Stand up for science rally. University of Minnesota researchers, scientists and other supporters protested against President Donald Trump's proposed scientific res\u2026 [+6050 chars]",
+      "retrievedAt": "2025-09-07 19:05:59.927533",
+      "internal_id": "7ff11a43b20ce70482c6b9960656524883bf19c6c9f02caf34f9c5c2afdf05c1",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 24385,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di dengue a Pesaro, disinfestazioni stanotte in zona Loreto",
+      "description": "Un caso di dengue accertato a Pesaro. Per questo motivo stanotte dalle 3 fino alle 7 saranno effettuate le operazioni di disinfestazione nella zona di Loreto e del pronto soccorso. Lo rende noto il Comune. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2025/09/06/caso-di-dengue-a-pesaro-disinfestazioni-stanotte-in-zona-loreto_9f896dfa-7cc2-4bbe-8380-593e16349aaf.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-09-06 13:18:20",
+      "content": "Un caso di dengue accertato a Pesaro. Per questo motivo stanotte dalle 3 fino alle 7 saranno effettuate le operazioni di disinfestazione nella zona di Loreto e del pronto soccorso. Lo rende noto i\u2026 [+733 chars]",
+      "retrievedAt": "2025-09-07 19:06:01.300630",
+      "internal_id": "c6130051d087f0a6e4077ef29c76dbd676ecfe3c7a6c9ad9c58995f875e6e4fd",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 24386,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "Riad\u00f3t f\u00fajt Oroszorsz\u00e1g az \u00faj k\u00ednai j\u00e1rv\u00e1ny miatt",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/nagyvilag/2025/09/jarvany-orszorszag-virus",
+      "urlToImage": "https://cdn.origo.hu/2025/08/tu2hIX9KXlJnRaPR8uaym0hnAFavjb6RxjaJZfsEcmk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FkZDA0ZDQwNmI0NDQ2MjlhNDE3NjA4NTkxOGVlNmUw.webp",
+      "publishedAt": "2025-09-06 07:59:33",
+      "content": "Mint ahogy arr\u00f3l az Origo m\u00e1r besz\u00e1moltj\u00falius \u00f3ta t\u00f6bb mint 7 000 fertz\u00f6ttet regisztr\u00e1ltak Kuangtung tartom\u00e1nyban. A j\u00e1rv\u00e1ny \u00e1ltal legs\u00falyosabban \u00e9rintett v\u00e1rosban, Fosanban a chikungunya-l\u00e1zas beteg\u2026 [+1120 chars]",
+      "retrievedAt": "2025-09-07 19:06:03.125210",
+      "internal_id": "4676079fe8ec14b1026286a13b50230eba9632bf6228b609de34a0f2e40c292d",
+      "publishedAtLabel": "Sep 6"
+    },
     {
       "id": 24378,
       "query": [
@@ -19760,42 +19832,6 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23290,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
-      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
-      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
-      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
-      "publishedAt": "2025-07-27 15:28:15",
-      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
-      "retrievedAt": "2025-07-28 19:08:08.689588",
-      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
-      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
-      "url": "https://english.khabarhub.com/2025/27/487788/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-27 07:45:39",
-      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
-      "retrievedAt": "2025-07-28 19:08:07.939142",
-      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

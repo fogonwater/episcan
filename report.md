@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-09-07 07:06
-- **Most recent article:** 2025-09-06 06:46:10
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-09-07 19:06
+- **Most recent article:** 2025-09-06 16:35:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
 |--|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 17 | 337 |
-| measles | 30 | 26 | 26 | 50 | 33 | 39 | 204 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 15 | 191 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 337 |
+| measles | 30 | 26 | 26 | 50 | 33 | 41 | 206 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 192 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 102 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 57 | 99 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 91 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 90 |
 | h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 46 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 43 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 31 |
@@ -214,6 +214,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (measles)
 
+- [What Parents Need To Know About Measles As Kids Head Back To School (Judy Stone/Forbes)](https://www.memeorandum.com/250906/p29) (Memeorandum.com)
+
+- [What Parents Need To Know About Measles As Kids Head Back To School](https://www.forbes.com/sites/judystone/2025/09/06/what-parents-need-to-know-about-measles-as-kids-head-back-to-school/) (Forbes)
+
 - [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://abcnews.go.com/US/wireStory/florida-surgeon-general-ladapos-vaccine-mandates-opposition-medical-125314689) (ABC News)
 
 - [Florida’s Proposed Vaccine Reversal Undermines American Values](https://www.forbes.com/sites/briancastrucci/2025/09/05/floridas-proposed-vaccine-reversal-undermines-american-values/) (Forbes)
@@ -374,6 +378,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (dengue)
 
+- [Caso di dengue a Pesaro, disinfestazioni stanotte in zona Loreto](https://www.ansa.it/marche/notizie/2025/09/06/caso-di-dengue-a-pesaro-disinfestazioni-stanotte-in-zona-loreto_9f896dfa-7cc2-4bbe-8380-593e16349aaf.html) (ANSA.it)
+
 - [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
 
 - [Extracellular microbes are required for mosquito development even in the presence of Wolbachia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013481) (Plos.org)
@@ -405,6 +411,8 @@ Source: [News API](https://newsapi.org/)
 - [Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el año](https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504) (Excelsior.com.mx)
 
 ## 25-36 (chikungunya)
+
+- [Riadót fújt Oroszország az új kínai járvány miatt](https://www.origo.hu/nagyvilag/2025/09/jarvany-orszorszag-virus) (Origo.hu)
 
 - [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
 
@@ -2430,8 +2438,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2571,5 +2577,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
