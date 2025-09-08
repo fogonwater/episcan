@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-09-07 19:06
-- **Most recent article:** 2025-09-06 16:35:00
+- **New articles in last harvest:** 3
+- **Last harvest:** 2025-09-08 07:08
+- **Most recent article:** 2025-09-07 06:52:00
 
 ---
 
@@ -10,27 +10,39 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | Total |
-|--|-|-|-|-|-|-|-|
-| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 337 |
-| measles | 30 | 26 | 26 | 50 | 33 | 41 | 206 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 192 |
-| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 102 |
-| mpox | 13 | 10 | 7 | 5 | 7 | 57 | 99 |
-| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 90 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 46 |
-| zika | 7 | 8 | 9 | 7 | 8 | 4 | 43 |
-| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 31 |
-| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 30 |
-| pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 7 |
-| hpai | 0 | 3 | 0 | 1 | 1 | 1 | 6 |
-| leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 6 |
-| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 4 |
+| Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
+|--|-|-|-|-|-|-|-|-|
+| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 1 | 339 |
+| measles | 30 | 26 | 26 | 50 | 33 | 41 | 0 | 206 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 1 | 193 |
+| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 0 | 102 |
+| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 0 | 100 |
+| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 1 | 92 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 0 | 46 |
+| zika | 7 | 8 | 9 | 7 | 8 | 4 | 0 | 43 |
+| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 0 | 31 |
+| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 0 | 30 |
+| pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
+| hpai | 0 | 3 | 0 | 1 | 1 | 1 | 0 | 6 |
+| leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
+| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-37 (malaria)
+
+- [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
+
+## 25-37 (dengue)
+
+- [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
+
+## 25-37 (chikungunya)
+
+- [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-36 (zika)
 
@@ -85,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 - [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
+
+- [OMS anunță sfârșitul urgenței sanitare internaționale cauzate de MPOX](https://www.mediafax.ro/stirile-zilei/oms-anunta-sfarsitul-urgentei-sanitare-internationale-cauzate-de-mpox-23606692) (Mediafax.ro)
 
 - [La OMS declara el fin del mpox como urgencia de salud pública internacional](https://www.excelsior.com.mx/global/mpox-oms-fin-emergencia-sanitaria/1737798) (Excelsior.com.mx)
 
@@ -2438,6 +2452,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2577,3 +2593,5 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)

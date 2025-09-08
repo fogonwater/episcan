@@ -1,8 +1,63 @@
 {
-  "last_updated": "2025-09-07 19:06",
-  "count_articles_total": 1096,
-  "count_articles_new": 4,
+  "last_updated": "2025-09-08 07:08",
+  "count_articles_total": 1101,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 24387,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Bangladesh battles rising tide of dengue and chikungunya",
+      "description": "DHAKA (Reuters) -Bangladesh faces a fast-worsening public health crisis as the mosquito-borne diseases dengue and chikungunya spread side by side, overwhelming hospitals and heightening fears of an even bigger outbreak in the weeks ahead. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/07/3508204.jpg",
+      "publishedAt": "2025-09-07 06:52:00",
+      "content": "DHAKA (Reuters) -Bangladesh faces a fast-worsening public health crisis as the mosquito-borne diseases dengue and chikungunya spread side by side, overwhelming hospitals and heightening fears of an e\u2026 [+2284 chars]",
+      "retrievedAt": "2025-09-08 07:08:14.394595",
+      "internal_id": "cc167f0daca687dae4c2fe5912c8991ebe921b99039988308ea2502cdbac1ede",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24388,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tirol.orf.at",
+      "author": "ORF.at",
+      "title": "Studie zu Eisenmangel und Infektionen",
+      "description": "Kinder mit Fiebererkrankungen leiden oft an Blutarmut und funktionellem Eisenmangel. Zu viel Eisenzufuhr kann jedoch schwere bakterielle Infektionen oder Malaria f\u00f6rdern. Das zeigt eine Studie der Med Uni Innsbruck, in der der Eisenstoffwechsel von 415 Kinder\u2026",
+      "url": "https://tirol.orf.at/stories/3320671/",
+      "urlToImage": "https://ibs.orf.at/tir?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2023%2F35%2F16%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1917837_master_719916_d0a89f4c-6a29-49d9-8fce-44ea7e2dde65.jpg%3Fs%3D49578f9497b31a75480c560a98656386433bbfb4",
+      "publishedAt": "2025-09-07 06:00:00",
+      "content": "Es sei ein Teufelskreislauf, erkl\u00e4rte Studienmitautor Wolfram Mayr: Eisenmangel schw\u00e4cht die Kinder, doch zu viel Eisen kann Infektionen zus\u00e4tzlich f\u00f6rdern. Die Infektionen w\u00fcrden dann den Eisenmange\u2026 [+2536 chars]",
+      "retrievedAt": "2025-09-08 07:08:15.246150",
+      "internal_id": "6bda233bcd4015c8061c9cf2d1984b61c45dc4f0bd4010324135f3741e05a9ed",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24389,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "M\u0103d\u0103lina Dinu",
+      "title": "OMS anun\u021b\u0103 sf\u00e2r\u0219itul urgen\u021bei sanitare interna\u021bionale cauzate de MPOX",
+      "description": "Mediafax OMS a anun\u021bat ridicarea st\u0103rii de urgen\u021b\u0103 sanitar\u0103 interna\u021bional\u0103 pentru variola maimu\u021bei. Articolul OMS anun\u021b\u0103 sf\u00e2r\u0219itul urgen\u021bei sanitare interna\u021bionale cauzate de MPOX apare prima dat\u0103 \u00een Mediafax.",
+      "url": "https://www.mediafax.ro/stirile-zilei/oms-anunta-sfarsitul-urgentei-sanitare-internationale-cauzate-de-mpox-23606692",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/05/oms-acord-pandemie.jpg",
+      "publishedAt": "2025-09-06 20:00:43",
+      "content": "Directorul general al Organizaiei Mondiale a Sntii (OMS), Tedros Adhanom Ghebreyesus, a anunat vineri ridicarea strii de urgen sanitar internaional pentru variola maimuei (fosta varicel a maimuei), d\u2026 [+1898 chars]",
+      "retrievedAt": "2025-09-08 07:08:15.996464",
+      "internal_id": "b485746828c2797cb897812158e7ec6ffd9064326d1c7a5eccbdaf8d257cfd2c",
+      "publishedAtLabel": "Sep 6"
+    },
     {
       "id": 24384,
       "query": [
@@ -19832,6 +19887,42 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
+      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
+      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
+      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
+      "publishedAt": "2025-07-27 15:28:15",
+      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
+      "retrievedAt": "2025-07-28 19:08:08.689588",
+      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
+      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
+      "url": "https://english.khabarhub.com/2025/27/487788/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-27 07:45:39",
+      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
+      "retrievedAt": "2025-07-28 19:08:07.939142",
+      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]
