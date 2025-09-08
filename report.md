@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-09-08 07:08
-- **Most recent article:** 2025-09-07 06:52:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-09-08 19:05
+- **Most recent article:** 2025-09-07 18:43:35
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 1 | 339 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 4 | 341 |
 | measles | 30 | 26 | 26 | 50 | 33 | 41 | 0 | 206 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 1 | 193 |
-| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 0 | 102 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 5 | 197 |
+| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 1 | 103 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 58 | 0 | 100 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 1 | 92 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 1 | 91 |
 | h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 0 | 46 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 0 | 43 |
-| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 0 | 31 |
-| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 0 | 30 |
+| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
+| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 1 | 31 |
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
 | hpai | 0 | 3 | 0 | 1 | 1 | 1 | 0 | 6 |
 | leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
@@ -32,15 +32,41 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-37 (yersinia)
+
+- [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
+
+## 25-37 (rabies)
+
+- [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
+
+## 25-37 (meningitis)
+
+- [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
+
 ## 25-37 (malaria)
 
 - [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
 ## 25-37 (dengue)
 
+- [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
+
+- [Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms) (The Times of India)
+
+- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
+
+- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
+
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
+
+- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
+
+- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
 
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
@@ -2452,8 +2478,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2593,5 +2617,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
