@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-09-08 19:05
-- **Most recent article:** 2025-09-07 18:43:35
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-09-09 07:08
+- **Most recent article:** 2025-09-08 06:53:21
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 4 | 341 |
-| measles | 30 | 26 | 26 | 50 | 33 | 41 | 0 | 206 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 5 | 197 |
+| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 4 | 342 |
+| measles | 30 | 26 | 26 | 50 | 33 | 42 | 0 | 207 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 7 | 199 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 1 | 103 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 58 | 0 | 100 |
-| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 1 | 91 |
+| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 2 | 93 |
 | h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 0 | 46 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 0 | 43 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
@@ -25,7 +25,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
 | hpai | 0 | 3 | 0 | 1 | 1 | 1 | 0 | 6 |
 | leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
-| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 0 | 4 |
+| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 ## 25-37 (yersinia)
 
 - [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
+
+## 25-37 (typhoid)
+
+- [Comparative Epidemiology of Salmonella Paratyphi A and Salmonella Typhi Causing Enteric Fever, Bangladesh, 2018–2020](https://wwwnc.cdc.gov/eid/article/31/10/24-1601_article) (Cdc.gov)
 
 ## 25-37 (rabies)
 
@@ -46,9 +50,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (malaria)
 
+- [Malaria, intermarriage linked to high prevalence of sickle cell disease in Nyanza](https://www.standardmedia.co.ke/health/health-science/article/2001528850/malaria-intermarriage-linked-to-high-prevalence-of-sickle-cell-disease-in-nyanza) (Standard Digital)
+
 - [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
 ## 25-37 (dengue)
+
+- [IPN desarrolla bioinsecticida contra el mosquito del dengue](https://www.excelsior.com.mx/salud/ipn-desarrolla-bioinsecticida-contra-el-mosquito-del-dengue/1738052) (Excelsior.com.mx)
+
+- [México abrió el mes de septiembre con 755 contagios de dengue](https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011) (Excelsior.com.mx)
 
 - [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
 
@@ -263,6 +273,8 @@ Source: [News API](https://newsapi.org/)
 - [Florida’s Proposed Vaccine Reversal Undermines American Values](https://www.forbes.com/sites/briancastrucci/2025/09/05/floridas-proposed-vaccine-reversal-undermines-american-values/) (Forbes)
 
 - [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
+
+- [Ministry of Health: Measles patient found on flight from New York to Tel Aviv](https://www.israelnationalnews.com/flashes/665828) (Israelnationalnews.com)
 
 - [People can’t believe Florida wants to get rid of every single school vaccine requirement](https://www.dailydot.com/viral-politics/florida-ending-vaccine-mandates/) (The Daily Dot)
 
@@ -2478,6 +2490,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2617,3 +2631,5 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)

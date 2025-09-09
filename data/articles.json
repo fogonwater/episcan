@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-09-08 19:05",
-  "count_articles_total": 1107,
-  "count_articles_new": 8,
+  "last_updated": "2025-09-09 07:08",
+  "count_articles_total": 1114,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 24401,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Rogers Otiso",
+      "title": "Malaria, intermarriage linked to high prevalence of sickle cell disease in Nyanza",
+      "description": "Sickle cell trait alters red blood cells in a way that makes it harder for the malaria parasite to grow and survive.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001528850/malaria-intermarriage-linked-to-high-prevalence-of-sickle-cell-disease-in-nyanza",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/SToNuxlkHBynagO4LA3XWU8QFeVHO3zNcWB8QNjr.jpg",
+      "publishedAt": "2025-09-08 06:53:21",
+      "content": "Participants march in Kisii town during celebrations to mark World Sickle Cell Disease Day, on June 19, 2024. [File, Standard] The Nyanza region has long been known for its high malaria burden. But \u2026 [+6361 chars]",
+      "retrievedAt": "2025-09-09 07:08:02.285536",
+      "internal_id": "62d2352a57f443ca8f1bcb44f65656c442a945b74656ff52a29e9fe0e731b353",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 24402,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Comparative Epidemiology of Salmonella Paratyphi A and Salmonella Typhi Causing Enteric Fever, Bangladesh, 2018\u20132020",
+      "description": "Epidemiology of Salmonella Paratyphi A and S. Typhi",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/10/24-1601_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-09-08 04:00:00",
+      "content": "Enteric fever is caused by Salmonella enterica serovars Paratyphi A, B, and C, which cause paratyphoid fever, and Typhi, which causes typhoid fever. Globally, an estimated 9.3 million cases and 107,4\u2026 [+24645 chars]",
+      "retrievedAt": "2025-09-09 07:08:03.591886",
+      "internal_id": "03879e5d6c1f619b6347280edcbc911d2088077c4ac9db5562c94c003011ea9b",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 24400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "brandon.pacheco",
+      "title": "IPN desarrolla bioinsecticida contra el mosquito del dengue",
+      "description": "Gustavo Alonso Cada temporada de lluvias, el dengue se convierte en una de las principales preocupaciones de salud p\u00fablica en M\u00e9xico. La humedad y el calor favorecen la proliferaci\u00f3n del mosquito Aedes aegypti, transmisor no solo del dengue, sino tambi\u00e9n de \u2026",
+      "url": "https://www.excelsior.com.mx/salud/ipn-desarrolla-bioinsecticida-contra-el-mosquito-del-dengue/1738052",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/09/07/3375594.jpg",
+      "publishedAt": "2025-09-08 02:47:15",
+      "content": "Cada temporada de lluvias, el dengue se convierte en una de las principales preocupaciones de salud p\u00fablica en M\u00e9xico. La humedad y el calor favorecen la proliferaci\u00f3n del mosquito Aedes aegypti, tra\u2026 [+4555 chars]",
+      "retrievedAt": "2025-09-09 07:08:01.753467",
+      "internal_id": "57bc16e9b05e5b255e09457120261f9b7cc96484eb0d7fbea498008cab77233e",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 24399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "M\u00e9xico abri\u00f3 el mes de septiembre con 755 contagios de dengue",
+      "description": "Patricia Rodr\u00edguez Calva Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue: estas son sus diferencias y las \u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/09/07/3375489.jpg",
+      "publishedAt": "2025-09-07 20:54:46",
+      "content": "Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue:\u2026 [+1496 chars]",
+      "retrievedAt": "2025-09-09 07:08:01.744364",
+      "internal_id": "fe026dd85c9bc1f240be90a16d250c37042d004996ed887b46b5c12b2f5357c9",
+      "publishedAtLabel": "Sep 7"
+    },
     {
       "id": 24395,
       "query": [
@@ -1431,6 +1503,24 @@
       "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Zahl der Mpox-F\u00e4lle geht zur\u00fcck, doch vor allem in Teilen Afrikas gibt es weiter viele Infektionen. Warum die WHO dennoch Entwarnung gibt - u\u2026 [+2002 chars]",
       "retrievedAt": "2025-09-06 19:05:53.613209",
       "internal_id": "ca66653ec69364d6bc30f85daf077a6be22aa49bb23ba7085c116909794d42be",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 24398,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health: Measles patient found on flight from New York to Tel Aviv",
+      "description": "The Ministry of Health announced that a patient suffering from measles flew from New York to Israel &#111;n Arkia flight number IZ994, which took off &#111;n August 31, at 02:30 (New York time) and landed at Ben Gurion Airport &#111;n the same day at 20:00 (I\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/665828",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-09-05 12:47:05",
+      "content": "The Ministry of Health announced that a patient suffering from measles flew from New York to Israel on Arkia flight number IZ994, which took off on August 31, at 02:30 (New York time) and landed at B\u2026 [+451 chars]",
+      "retrievedAt": "2025-09-09 07:08:00.908390",
+      "internal_id": "0d8aac1d36a7f2c198eec02997133132c67e4c1ffcd33a721af17a2154fcdc89",
       "publishedAtLabel": "Sep 5"
     },
     {
@@ -20033,6 +20123,42 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
+      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
+      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
+      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
+      "publishedAt": "2025-07-27 15:28:15",
+      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
+      "retrievedAt": "2025-07-28 19:08:08.689588",
+      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
+      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
+      "url": "https://english.khabarhub.com/2025/27/487788/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-27 07:45:39",
+      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
+      "retrievedAt": "2025-07-28 19:08:07.939142",
+      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]
