@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-09-09 07:08
-- **Most recent article:** 2025-09-08 06:53:21
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-09-09 19:05
+- **Most recent article:** 2025-09-08 17:15:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 4 | 342 |
-| measles | 30 | 26 | 26 | 50 | 33 | 42 | 0 | 207 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 7 | 199 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 5 | 342 |
+| measles | 30 | 26 | 26 | 50 | 33 | 42 | 3 | 210 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 8 | 200 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 1 | 103 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 58 | 0 | 100 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 2 | 93 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 6 | 96 |
 | h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 0 | 46 |
-| zika | 7 | 8 | 9 | 7 | 8 | 4 | 0 | 43 |
+| zika | 7 | 8 | 9 | 7 | 8 | 4 | 1 | 44 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
 | yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 1 | 31 |
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-37 (zika)
+
+- [Activation of PD-1/PD-L1 immune checkpoint by Zika virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013457) (Plos.org)
 
 ## 25-37 (yersinia)
 
@@ -48,13 +52,31 @@ Source: [News API](https://newsapi.org/)
 
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
+## 25-37 (measles)
+
+- [The Head of the National Highway Traffic Safety Administration Explains Why It’s No Longer Recommending the Use of Seat Belts](https://www.mcsweeneys.net/articles/the-head-of-the-national-highway-traffic-safety-administration-explains-why-its-no-longer-recommending-the-use-of-seat-belts) (Mcsweeneys.net)
+
+- [RFK Jr. EXPOSES Former CDC Vaccine Chief Dr. Demetre Daskalakis — BLOCKED Him for 7 MONTHS from Accessing Vaccine Safety Data and Withheld Funds from Texas Measles Response](https://www.thegatewaypundit.com/2025/09/rfk-jr-exposes-former-cdc-vaccine-chief-demetre/) (Thegatewaypundit.com)
+
+- [This is what could happen to a child who doesn't get vaccinated](https://www.npr.org/sections/goats-and-soda/2025/09/08/g-s1-87121/vaccines-measles-diarrhea-pneumonia-sudan) (NPR)
+
 ## 25-37 (malaria)
+
+- [This is what could happen to a child who doesn't get vaccinated](https://www.npr.org/sections/goats-and-soda/2025/09/08/g-s1-87121/vaccines-measles-diarrhea-pneumonia-sudan) (NPR)
+
+- [La amenaza invisible que respiras cada día: la contaminación del aire y sus 7 millones de víctimas anuales](https://es.gizmodo.com/la-amenaza-invisible-que-respiras-cada-dia-la-contaminacion-del-aire-y-sus-7-millones-de-victimas-anuales-2000190779) (Gizmodo.com)
+
+- [Deadlier Than HIV Or Malaria: TB Stays India's Top Infectious Killer, Says Study](https://www.ndtvprofit.com/science/deadlier-than-hiv-or-malaria-tb-stays-indias-top-infectious-killer-says-study) (Ndtvprofit.com)
+
+- [The resurgence of malaria in Africa is an avoidable crisis—here’s what we must do](https://www.bmj.com/content/390/bmj.r1874) (The BMJ)
 
 - [Malaria, intermarriage linked to high prevalence of sickle cell disease in Nyanza](https://www.standardmedia.co.ke/health/health-science/article/2001528850/malaria-intermarriage-linked-to-high-prevalence-of-sickle-cell-disease-in-nyanza) (Standard Digital)
 
 - [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
 ## 25-37 (dengue)
+
+- [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
 
 - [IPN desarrolla bioinsecticida contra el mosquito del dengue](https://www.excelsior.com.mx/salud/ipn-desarrolla-bioinsecticida-contra-el-mosquito-del-dengue/1738052) (Excelsior.com.mx)
 
@@ -71,6 +93,8 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
 
 - [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
 
@@ -2490,8 +2514,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2631,5 +2653,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
