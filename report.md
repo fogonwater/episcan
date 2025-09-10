@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-09-10 07:07
-- **Most recent article:** 2025-09-09 04:05:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-09-10 19:06
+- **Most recent article:** 2025-09-09 19:05:24
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 5 | 343 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 7 | 217 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 9 | 201 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 6 | 343 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 12 | 222 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 13 | 205 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 2 | 104 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 58 | 1 | 101 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 6 | 97 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 0 | 46 |
-| zika | 7 | 8 | 9 | 7 | 8 | 4 | 1 | 44 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 7 | 97 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 1 | 47 |
+| zika | 7 | 8 | 9 | 7 | 8 | 4 | 2 | 45 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
 | yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 1 | 31 |
+| hpai | 0 | 3 | 0 | 1 | 1 | 1 | 1 | 7 |
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
-| hpai | 0 | 3 | 0 | 1 | 1 | 1 | 0 | 6 |
+| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 2 | 6 |
 | leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
-| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (zika)
 
+- [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
+
 - [Activation of PD-1/PD-L1 immune checkpoint by Zika virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013457) (Plos.org)
 
 ## 25-37 (yersinia)
@@ -41,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 - [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
 
 ## 25-37 (typhoid)
+
+- [Diversity of Salmonella enterica isolates from urban river and sewage water in Blantyre, Malawi](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012413) (Plos.org)
 
 - [Comparative Epidemiology of Salmonella Paratyphi A and Salmonella Typhi Causing Enteric Fever, Bangladesh, 2018–2020](https://wwwnc.cdc.gov/eid/article/31/10/24-1601_article) (Cdc.gov)
 
@@ -60,6 +64,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (measles)
 
+- [Utah health department confirms measles exposure after Soldier Hollow event](https://ksltv.com/health/utah-health-department-confirms-measles-exposure-after-soldier-hollow-event/817496/) (ksltv.com)
+
+- [Trump’s Health Cuts Make States Struggle to Spot Disease Outbreaks](https://www.scientificamerican.com/article/trumps-health-cuts-make-states-struggle-to-spot-disease-outbreaks/) (Scientific American)
+
+- [New measles cases lead to exposure warning at Halifax Infirmary](https://www.cbc.ca/news/canada/nova-scotia/new-measles-cases-lead-to-exposure-warning-at-halifax-infirmary-1.7629036) (CBC News)
+
+- [Lyons, standing, and the Shadow Docket](https://prawfsblawg.blogs.com/prawfsblawg/2025/09/lyons-and-the-shadow-docket.html) (Blogs.com)
+
+- [Florida Plan to Drop School Vaccine Rule is Limited, Won’t Start for 90 Days](https://www.insurancejournal.com/news/southeast/2025/09/09/838511.htm) (Insurance Journal)
+
 - [Florida's decision to end vaccine rules wasn't based on data, surgeon general says](https://www.cbsnews.com/news/florida-surgeon-general-school-vaccine-requirements/) (CBS News)
 
 - [2 new measles exposure sites in Winnipeg identified](https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-exposure-sites-victoria-hospital-walk-in-conected-care-1.7628145) (CBC News)
@@ -76,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (malaria)
 
+- [Na een campagne van desinformatie behandelt Burkina Faso malariabestrijders als westerse criminelen](https://www.nrc.nl/nieuws/2025/09/09/na-een-campagne-van-desinformatie-behandelt-burkina-faso-malariabestrijders-als-westerse-criminelen-a4905524) (Www.nrc.nl)
+
 - [This is what could happen to a child who doesn't get vaccinated](https://www.npr.org/sections/goats-and-soda/2025/09/08/g-s1-87121/vaccines-measles-diarrhea-pneumonia-sudan) (NPR)
 
 - [La amenaza invisible que respiras cada día: la contaminación del aire y sus 7 millones de víctimas anuales](https://es.gizmodo.com/la-amenaza-invisible-que-respiras-cada-dia-la-contaminacion-del-aire-y-sus-7-millones-de-victimas-anuales-2000190779) (Gizmodo.com)
@@ -88,7 +104,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
+## 25-37 (hpai)
+
+- [Helport AI Launches HelportGo App](https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html) (GlobeNewswire)
+
+## 25-37 (h5n1)
+
+- [Scientists Now Testing Bird Flu Vaccine for Seals](https://www.newser.com/story/374904/scientists-now-testing-bird-flu-vaccine-for-seals.html) (Newser)
+
 ## 25-37 (dengue)
+
+- [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
+
+- [Drastic decline in dengue cases in Johor](https://www.thestar.com.my/news/nation/2025/09/09/drastic-decline-in-dengue-cases-in-johor) (The Star Online)
+
+- [Cómo saber si un mosquito puede transmitir dengue u otras enfermedades peligrosas: lo que debes observar](https://www.lanacion.com.ar/estados-unidos/como-saber-si-un-mosquito-puede-transmitir-dengue-u-otras-enfermedades-peligrosas-lo-que-debes-nid09092025/) (La Nacion)
+
+- [Mosquitos “antidengue” são soltos em regiões do DF; entenda](https://www.metropoles.com/distrito-federal/mosquitos-anti-dengue-sao-soltos-em-regioes-do-df-entenda) (Metropoles.com)
 
 - [Isère. « C’est comme si une guêpe voulait sortir de notre corps » : un couple a attrapé la dengue](https://www.ledauphine.com/environnement/2025/09/09/c-est-comme-si-une-guepe-voulait-sortir-de-notre-corps-deux-cas-de-dengue-detectes) (Le Dauphiné Libéré)
 
@@ -109,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
 
@@ -2536,8 +2570,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2677,5 +2709,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)

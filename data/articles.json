@@ -1,8 +1,244 @@
 {
-  "last_updated": "2025-09-10 07:07",
-  "count_articles_total": 1132,
-  "count_articles_new": 10,
+  "last_updated": "2025-09-10 19:06",
+  "count_articles_total": 1143,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 24425,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ksltv.com",
+      "author": "Carlysle Price",
+      "title": "Utah health department confirms measles exposure after Soldier Hollow event",
+      "description": "Several people were exposed to and infected with measles after attending an event at Soldier Hollow, the Utah Department of Health & Human Services confirmed Tuesday.",
+      "url": "https://ksltv.com/health/utah-health-department-confirms-measles-exposure-after-soldier-hollow-event/817496/",
+      "urlToImage": "https://ksltv.com/wp-content/uploads/2025/09/measles-Phichet-Chaiyabin-shutterstock-e1757266234451.jpeg",
+      "publishedAt": "2025-09-09 19:05:24",
+      "content": "SALT LAKE CITY Several people were exposed to and infected with measles after attending an event at Soldier Hollow, the Utah Department of Health &amp; Human Services confirmed Tuesday. On Aug. 16, \u2026 [+1570 chars]",
+      "retrievedAt": "2025-09-10 19:06:10.315332",
+      "internal_id": "cf4cc268820b17b858932b501d0003a5f87ef4305627afb8ee4fab6501cb1cc1",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24427,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier with Newser.AI",
+      "title": "Scientists Now Testing Bird Flu Vaccine for Seals",
+      "description": "Hawaii's endangered monk seals could receive new protection from the bird flu if all goes well with a vaccine trial. Veterinarians in California have started a small-scale trial to test a bird flu vaccine on marine mammals, focusing first on six northern elep\u2026",
+      "url": "https://www.newser.com/story/374904/scientists-now-testing-bird-flu-vaccine-for-seals.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1632980-12-20250909133301.jpeg",
+      "publishedAt": "2025-09-09 18:03:00",
+      "content": "Speed is critical: The H5N1 bird flu variant has swept through wild bird populations, poultry, and marine mammals globally. The virus was responsible for the deaths of an estimated 17,000 southern el\u2026 [+915 chars]",
+      "retrievedAt": "2025-09-10 19:06:11.015209",
+      "internal_id": "a5d06bf3fb1fb9d0faa7aabaa88b384ba6cf083a959549345c34c05d80124255",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24421,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Charles Schmidt",
+      "title": "Trump\u2019s Health Cuts Make States Struggle to Spot Disease Outbreaks",
+      "description": "AI now scans for bird flu and measles news, but public health officials say outbreaks can go undetected as the U.S. guts national and global tracking",
+      "url": "https://www.scientificamerican.com/article/trumps-health-cuts-make-states-struggle-to-spot-disease-outbreaks/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/54ad7a01a771dc94/original/bird_deceased_from_avian_influenza_on_beach.jpg?m=1757433590.792&w=1200",
+      "publishedAt": "2025-09-09 17:00:00",
+      "content": "To protect the people of Massachusetts from deadly bird flu in the U.S., the state\u2019s health director, Robert Goldstein, is relying on an artificial intelligence platform that reads newspapers for out\u2026 [+5448 chars]",
+      "retrievedAt": "2025-09-10 19:06:10.216871",
+      "internal_id": "a0f1fe8c7004749fdec48aba0a53fe3acc39e5dbd5b297b224fefca8a713f337",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24423,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles cases lead to exposure warning at Halifax Infirmary",
+      "description": "Public Health is warning people who were in specific areas of the Halifax Infirmary on Sunday and Monday that they may have been exposed to measles.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/new-measles-cases-lead-to-exposure-warning-at-halifax-infirmary-1.7629036",
+      "urlToImage": "https://i.cbc.ca/1.4487487.1694111470!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/emergency-room-qeii-health-sciences-centre-halifax-hospital-infirmary.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-09 16:58:03",
+      "content": "Nova Scotia Public Health is warning people who were in specific areas of the Halifax Infirmary on Sunday and Monday that they may have been exposed to measles. There are eight new cases in Nova Sc\u2026 [+1394 chars]",
+      "retrievedAt": "2025-09-10 19:06:10.296508",
+      "internal_id": "9e22de1696264b6edead9dca6da66026b9c4cfab230059248afcf6d155e80c4d",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24428,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "Celina e Alexandre Padilha inauguram biof\u00e1brica de combate \u00e0 dengue",
+      "description": "A iniciativa inovadora vai fortalecer o combate \u00e0 dengue, zika e chikungunya, com uma tecnologia segura, natural e autossustent\u00e1vel",
+      "url": "https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/09/09122816/dengue-9-1200x800-1.jpg",
+      "publishedAt": "2025-09-09 15:46:16",
+      "content": "A governadora em exerc\u00edcio do Distrito Federal, Celina Le\u00e3o (PP), participou, na manh\u00e3 desta ter\u00e7a-feira (9/9), da inaugura\u00e7\u00e3o do N\u00facleo Regional de Produ\u00e7\u00e3o Oswaldo Paulo Forattini M\u00e9todo Wolbachia,\u2026 [+6329 chars]",
+      "retrievedAt": "2025-09-10 19:06:11.348031",
+      "internal_id": "198d3316d7f97e39306d2e87fc84c0c91581d9c0f1dc94d35912d1864159a972",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24433,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jonathan Rigby, Catherine N. Wilson, Allan Zuza, Yohane Diness, Charity Mkwanda, Katalina Tonthola, Oscar Kanjerwa, Chifundo Salifu, Oliver Pearse, Chisomo Msefula, Blanca M. Perez-Sepulveda, Jay C.D. Hinton, Satheesh Nair, Nicola Elviss, Mathew A. Beale, Patrick Musicha, Nicholas A. Feasey",
+      "title": "Diversity of Salmonella enterica isolates from urban river and sewage water in Blantyre, Malawi",
+      "description": "Author summary Salmonella enterica is a diverse, complex species, with serovars associated with human, animal and environmental health, including invasive disease. This study sequenced isolates of non-typhoidal Salmonella (NTS) that had been cultured from riv\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012413",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012413.g003&size=inline",
+      "publishedAt": "2025-09-09 14:00:00",
+      "content": "Abstract Background Salmonella enterica encompasses over 2,600 serovars, including several commonly associated with severe infection in humans. Salmonella is a major cause of sepsis in Africa; howe\u2026 [+56124 chars]",
+      "retrievedAt": "2025-09-10 19:06:14.266113",
+      "internal_id": "0f06b977450d867b8598bfbcc2c1ed3de7929d890502ac74a525d586051d2d84",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24432,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Toef Jaeger",
+      "title": "Na een campagne van desinformatie behandelt Burkina Faso malariabestrijders als westerse criminelen",
+      "description": "Ophef: 16.000 genetisch gemodificeerde muggen zouden de strijd tegen malaria moeten aangaan in Burkina Faso. Maar de politie greep in.",
+      "url": "https://www.nrc.nl/nieuws/2025/09/09/na-een-campagne-van-desinformatie-behandelt-burkina-faso-malariabestrijders-als-westerse-criminelen-a4905524",
+      "urlToImage": "https://images.nrc.nl/tYg-BTRjNg3vWRSSx9WiW9hWAkU=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data137091107-c42fdb.jpg",
+      "publishedAt": "2025-09-09 13:54:25",
+      "content": "De mug is een westers wapen om bewust ziektes te verspreiden en de inwoners van Burkina Faso te steriliseren. Met die veronderstelling werd 18 augustus het laboratorium van Target Malaria in Burkina \u2026 [+2955 chars]",
+      "retrievedAt": "2025-09-10 19:06:12.485267",
+      "internal_id": "1ad2e1685c0fd43b3a069edf7f19dcce0e237c5c241c97537c3e3a85046d4984",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24424,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Blogs.com",
+      "author": "Howard Wasserman",
+      "title": "Lyons, standing, and the Shadow Docket",
+      "description": "We wil discuss the shadow (or emergency or interim or Voldemort*) docket in Fed Courts today, the first time it has been included in the book and the first time I included it as part of the planned class discussion. The timing is fortuitous. Last week, Justic\u2026",
+      "url": "https://prawfsblawg.blogs.com/prawfsblawg/2025/09/lyons-and-the-shadow-docket.html",
+      "urlToImage": null,
+      "publishedAt": "2025-09-09 13:31:00",
+      "content": "\u00ab Measles and Polio Down in the Schoolyard | Main Tuesday, September 09, 2025 Lyons, standing, and the Shadow Docket We wil discuss the shadow (or emergency or interim or Voldemort*) docket in Fe\u2026 [+2430 chars]",
+      "retrievedAt": "2025-09-10 19:06:10.305478",
+      "internal_id": "97089016b144b63e89c98c4eac6521f8cd95ecccd995ef2a614fa392bb2a6f0d",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24430,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Drastic decline in dengue cases in Johor",
+      "description": "JOHOR BARU: Johor recorded a drastic decline in the number of cumulative dengue cases with 4,468 in epidemiological week 36 (Epi Week) this year, compared with Epi Week 36 in 2024. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/09/09/drastic-decline-in-dengue-cases-in-johor",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/09/09/3512543.jpg",
+      "publishedAt": "2025-09-09 13:16:00",
+      "content": "JOHOR BARU: Johor recorded a drastic decline in the number of cumulative dengue cases with 4,468 in epidemiological week 36 (Epi Week) this year, compared with Epi Week 36 in 2024. State health and \u2026 [+1226 chars]",
+      "retrievedAt": "2025-09-10 19:06:11.388315",
+      "internal_id": "2fdd82b5b6163a82f414b66cfb34fd32aa29c4a8a327e4c648650e60085483bd",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24431,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "C\u00f3mo saber si un mosquito puede transmitir dengue u otras enfermedades peligrosas: lo que debes observar",
+      "description": "Descubre c\u00f3mo identificar si la picadura de un mosquito puede transmitir dengue u otras enfermedades. Conoce las se\u00f1ales de alerta y las recomendaciones de prevenci\u00f3n de las autoridades de salud en EE.UU.",
+      "url": "https://www.lanacion.com.ar/estados-unidos/como-saber-si-un-mosquito-puede-transmitir-dengue-u-otras-enfermedades-peligrosas-lo-que-debes-nid09092025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-cdc-detallan-como-identificar-si-un-mosquito-KA54FLWTYVEC3MHBVOMSNPOTHI.jpg?auth=85312484713218d77f14d1e2e88597d8d84cd6e6698153fd720779b41a4a08d9&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-09-09 13:00:00",
+      "content": "M\u00e1s all\u00e1 de las molestias que puedan ocasionar, los mosquitos sembraron la alerta en Estados Unidos por el dengue y otras enfermedades que pueden desarrollar los humanos con su picadura. \u00bfC\u00f3mo saber \u2026 [+2253 chars]",
+      "retrievedAt": "2025-09-10 19:06:11.397207",
+      "internal_id": "d48fc27195c95709e809ed52e0ad4d50c560db6777704537bd511ec7e6b4ebcd",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24422,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "admin",
+      "title": "Florida Plan to Drop School Vaccine Rule is Limited, Won\u2019t Start for 90 Days",
+      "description": "Florida\u2019s plan to drop school vaccine mandates likely won\u2019t take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to other diseases, like polio and measles, the health department \u2026",
+      "url": "https://www.insurancejournal.com/news/southeast/2025/09/09/838511.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "publishedAt": "2025-09-09 12:42:16",
+      "content": "Florida\u2019s plan to drop school vaccine mandates likely won\u2019t take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to other diseases,\u2026 [+2523 chars]",
+      "retrievedAt": "2025-09-10 19:06:10.242681",
+      "internal_id": "3755bbcbfc43b681ce55519e764b31b4a32c6384d549124987d9039235a2f473",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24426,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI Launches HelportGo App",
+      "description": "Helport AI launches HelportGo, a mobile AI call assistant app delivering real-time transcription, CRM integration, and productivity for professionals.......",
+      "url": "https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2025-09-09 12:31:00",
+      "content": "SINGAPORE and SAN DIEGO, Sept. 09, 2025 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Company), an AI technology company serving enterprise clients with intelligent custome\u2026 [+4683 chars]",
+      "retrievedAt": "2025-09-10 19:06:10.653484",
+      "internal_id": "4f77871dd655c5ef1dc9cfe6c05b05274ec9f4a6f7f6b868cb6dec55a3cabfaf",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24429,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isabella Wagner",
+      "title": "Mosquitos \u201cantidengue\u201d s\u00e3o soltos em regi\u00f5es do DF; entenda",
+      "description": "Infectados com bact\u00e9ria que impede a transmiss\u00e3o de doen\u00e7as, insetos est\u00e3o sendo libertados em dez localidades nesta ter\u00e7a-feira (9/9)",
+      "url": "https://www.metropoles.com/distrito-federal/mosquitos-anti-dengue-sao-soltos-em-regioes-do-df-entenda",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2022/04/05124652/Foto-mosquito-da-dengue-2-1.jpg",
+      "publishedAt": "2025-09-09 11:43:33",
+      "content": "A Secret\u00e1ria de Sa\u00fade do Distrito Federal (SESDF), ao lado do Minist\u00e9rio da Sa\u00fade, da Fiocruz e de um laborat\u00f3rio particular, desenvolveram uma t\u00e9cnica em prol da diminui\u00e7\u00e3o do v\u00edrus da dengue, que s\u2026 [+1345 chars]",
+      "retrievedAt": "2025-09-10 19:06:11.364213",
+      "internal_id": "00dd02547e0cc86cbedd91fcfc11715f6863ce38e9d2acc96075b6912604c335",
+      "publishedAtLabel": "Sep 9"
+    },
     {
       "id": 24419,
       "query": [
@@ -20449,42 +20685,6 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23290,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
-      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
-      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
-      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
-      "publishedAt": "2025-07-27 15:28:15",
-      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
-      "retrievedAt": "2025-07-28 19:08:08.689588",
-      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
-      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
-      "url": "https://english.khabarhub.com/2025/27/487788/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-27 07:45:39",
-      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
-      "retrievedAt": "2025-07-28 19:08:07.939142",
-      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]
