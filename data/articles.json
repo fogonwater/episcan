@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-09-09 19:05",
-  "count_articles_total": 1120,
-  "count_articles_new": 8,
+  "last_updated": "2025-09-10 07:07",
+  "count_articles_total": 1132,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 24419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Candice Heck",
+      "title": "Is\u00e8re. \u00ab C\u2019est comme si une gu\u00eape voulait sortir de notre corps \u00bb : un couple a attrap\u00e9 la dengue",
+      "description": "Un couple de Saint-Alban-de-Roche est tomb\u00e9 malade de la dengue apr\u00e8s avoir pass\u00e9 ses vacances en Martinique cet \u00e9t\u00e9.",
+      "url": "https://www.ledauphine.com/environnement/2025/09/09/c-est-comme-si-une-guepe-voulait-sortir-de-notre-corps-deux-cas-de-dengue-detectes",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/6C0F3876-AC05-4371-A6E1-52BA2068136F/FB1200/photo-1757359454.jpg",
+      "publishedAt": "2025-09-09 04:05:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-09-10 07:07:41.713298",
+      "internal_id": "91c2086bd5e089a804a3cd04a0d8eb7646eaed15f215c0917aeb46e7c9570035",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24411,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Krishna Ella",
+      "title": "Rabies continues to bite",
+      "description": "Rural folk, children disproportionately affected",
+      "url": "https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/domovc/article70027075.ece/alternates/LANDSCAPE_1200/_JAI3707.JPG",
+      "publishedAt": "2025-09-09 00:30:00",
+      "content": "In India, the rabies crisis is persistent and largely overlooked. The reality is even more distressing when one considers that rabies is preventable and curable if timely and appropriate treatment is\u2026 [+3754 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.516297",
+      "internal_id": "630282a1a02999a24b9b6e4ad4bf66245f316073635b4e517d7a1c23b4fedcd1",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 24420,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Ignacia Canales",
+      "title": "Mpox sigue presente en Chile, pero con dr\u00e1stica reducci\u00f3n: de 1.402 casos el primer a\u00f1o a 186 en 2025",
+      "description": "El virus que aterriz\u00f3 en Chile en 2022, y antes conocido como viruela del mono, se expandi\u00f3 r\u00e1pidamente, obligando al Minsal a declarar alerta sanitaria. Y aunque no ha desaparecido, autoridades y expertos aseguran que hoy est\u00e1 controlado gracias a la vacunac\u2026",
+      "url": "https://www.latercera.com/nacional/noticia/mpox-sigue-presente-en-chile-pero-con-drastica-reduccion-de-1402-casos-el-primer-ano-a-186-en-2025/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/SQ4C5APHVQMO45LVXNTCOXN2XA.jpg?auth=90c4d1b250936cf5130c4894d65508f2c3cd555a98a50511a2feae819f6e9be2&height=630&width=1200&smart=true",
+      "publishedAt": "2025-09-08 23:33:34",
+      "content": "El 17 de junio de 2022 se confirm\u00f3 el primer caso de Mpox -conocida anteriormente como viruela del mono- en Chile. Y aunque la enfermedad no era nueva, el hecho fue la confirmaci\u00f3n de que el brote mu\u2026 [+4163 chars]",
+      "retrievedAt": "2025-09-10 07:07:42.589148",
+      "internal_id": "93f099f70822682c1abf9a9a32d911ec9b0b3fcf10aec1a153019106c0388953",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 24412,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dr. C\u00e9line  Gounder",
+      "title": "Florida's decision to end vaccine rules wasn't based on data, surgeon general says",
+      "description": "Florida Surgeon General Dr. Joseph Ladapo said his department did not do any data analysis on how a change in vaccine rules could affect outbreaks of diseases like measles, polio or whooping cough.",
+      "url": "https://www.cbsnews.com/news/florida-surgeon-general-school-vaccine-requirements/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/08/44de747f-f7b4-4fb3-ae0e-692f651aaaf0/thumbnail/1200x630g2/1bbe63e80c0021aa6897a1e1639fec21/gettyimages-2179480270.jpg",
+      "publishedAt": "2025-09-08 19:50:04",
+      "content": "Florida's top health official said last week that the state will start dismantling school vaccine mandates, something no other state has done in modern U.S. history. On Sunday, in a CNN interview wit\u2026 [+4130 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.757165",
+      "internal_id": "2171cebf1d2a583f3d5d485bd174e6109b2039aa9071d12067bd8b6bc79126bc",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 24413,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2 new measles exposure sites in Winnipeg identified",
+      "description": "Health officials are warning Manitobans they may have been exposed to measles at two Winnipeg health-care facilities.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-exposure-sites-victoria-hospital-walk-in-conected-care-1.7628145",
+      "urlToImage": "https://i.cbc.ca/1.7161601.1712092345!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/victoria-general-hospital-winnipeg-april-2-2024.JPG?im=Resize%3D620",
+      "publishedAt": "2025-09-08 19:21:32",
+      "content": "Health officials are warning Manitobans they may have been exposed to measles at two Winnipeg health-care facilities. Anyone who was at the Victoria Hospital urgent care department on Sept. 5 from 1\u2026 [+587 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.803325",
+      "internal_id": "14cc0bd9d52c474922e1a8679cbecb4cb91e5b60c07adb5563f092a5105916a4",
+      "publishedAtLabel": "Sep 8"
+    },
     {
       "id": 24404,
       "query": [
@@ -405,6 +495,60 @@
       "publishedAtLabel": "Sep 7"
     },
     {
+      "id": 24414,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSL.com",
+      "author": "Alex Tumalip",
+      "title": "Health officials confirm first measles case in Grand County",
+      "description": "The Southeast Utah Health Department confirmed a positive measles case in an unvaccinated individual under the age of 18 in Grand County Saturday.",
+      "url": "https://www.ksl.com/article/51371310/health-officials-confirm-first-measles-case-in-grand-county",
+      "urlToImage": "https://img.ksl.com/slc/3090/309086/30908663.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2025-09-07 02:29:20",
+      "content": "MOAB Health officials on Saturday reported the first case of measles in Grand County. The Southeast Utah Health Department confirmed an unvaccinated individual under the age of 18 was diagnosed afte\u2026 [+1239 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.812875",
+      "internal_id": "819588f26c956b9b39e16dc24a7075ee2da712981e9459c6bacfee5db1c43f51",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24416,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Reader Submission",
+      "title": "I think our surgeon general is following RFK on vaccine mandates for political ambition and power, not Florida\u2019s health",
+      "description": "Polio, Measles, Mumps and Rubella, COVID-19, chicken pox. All can kill people. Why would the Surgeon General follow Robert \u201cI don\u2019t believe in germ theory\u201d",
+      "url": "https://www.newsbreak.com/share/4218563229597-i-think-our-surgeon-general-is-following-rfk-on-vaccine-mandates-for-political-ambition-and-power-not-florida-s-health?s=a2&amp;share_destination_id=MjYzMDM5ODI1LTE3NTcyMDk0NzE4NDE%3D&amp;pd=0Hngfp8F&amp;hl=en_US&amp;send_time=1757209471&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.34.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_android_comment_share_v3-v3",
+      "urlToImage": "https://img.particlenews.com/img/id/4eXJAe_14Tix9mj00",
+      "publishedAt": "2025-09-07 01:44:58",
+      "content": "Severe weather risk Saturday Pennsylvania New York New Jersey as a very cool air mass heads east SEVERE THUNDERSTORM &amp; TORNADO RISK PENNSYLVANIA NEW YORK NEW JERSEY SATURDAY SEPTEMBER 6TH. We ar\u2026 [+600 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.829779",
+      "internal_id": "830dbd00649138bc35cdeaff57b6cfea1d5568e84c70436fa95151ae8efadb66",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24417,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Khalil Maycock",
+      "title": "Jacksonville measles case from 3 weeks ago confirmed by county health department",
+      "description": "A measles case in Duval County from three weeks ago was confirmed by the health department and it wasn\u2019t made known to the public.",
+      "url": "https://www.news4jax.com/news/local/2025/09/06/jacksonville-measles-case-from-3-weeks-ago-confirmed-by-county-health-department/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/_3JJIZkB9u8mgfWfJPi7/1757200225699_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-09-06 23:11:48",
+      "content": "JACKSONVILLE, Fla. A measles case in Duval County from three weeks ago was confirmed by the health department, but it wasnt immediately made known to the public. The Dr. Jeffrey Goldhagen, former di\u2026 [+2221 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.838281",
+      "internal_id": "e7f1beff3e2711e094c110b051704aa78080863c782c82d9629f6395ec4a6619",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 24389,
       "query": [
         "mpox"
@@ -477,6 +621,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 24415,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Curt Anderson",
+      "title": "Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream",
+      "description": "Dr_ Joseph Ladapo, a Nigerian-born physician with impeccable U_S_ medical credentials, says that requiring vaccinations for diseases like measles, polio and chickenpox amounts to government-imposed \u201cslavery.\u201d.",
+      "url": "https://www.news4jax.com/health/2025/09/06/florida-surgeon-general-ladapos-vaccine-mandates-opposition-goes-against-medical-mainstream/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5IXEYEUOK5FQVMB34JVGJNZTPM.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-09-06 10:08:55",
+      "content": "ST. PETERSBURG, Fla. Dr. Joseph Ladapo, whose credentials include two Harvard University degrees, says that requiring vaccinations for diseases like measles, polio and chickenpox amounts to governmen\u2026 [+5486 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.821629",
+      "internal_id": "ca47d4c4c4355f864844ba7b07ca434317582fe31f7b3f2cfcc78a8ca8120816",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 24386,
       "query": [
         "chikungunya"
@@ -546,6 +708,24 @@
       "content": "ST. PETERSBURG, Fla. -- Dr. Joseph Ladapo, whose credentials include two Harvard University degrees, says that requiring vaccinations for diseases like measles, polio and chickenpox amounts to govern\u2026 [+5217 chars]",
       "retrievedAt": "2025-09-07 07:06:33.411363",
       "internal_id": "aae336e90903c992e6fa965e85e29f9eaf23832577939bb646db90e5305fa99e",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 24418,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Curt Anderson",
+      "title": "Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream",
+      "description": "Dr_ Joseph Ladapo, a Nigerian-born physician with impeccable U_S_ medical credentials, says that requiring vaccinations for diseases like measles, polio and chickenpox amounts to government-imposed \u201cslavery.\u201d.",
+      "url": "https://www.clickondetroit.com/health/2025/09/06/florida-surgeon-general-ladapos-vaccine-mandates-opposition-goes-against-medical-mainstream/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5IXEYEUOK5FQVMB34JVGJNZTPM.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-09-06 04:26:50",
+      "content": "ST. PETERSBURG, Fla. Dr. Joseph Ladapo, whose credentials include two Harvard University degrees, says that requiring vaccinations for diseases like measles, polio and chickenpox amounts to governmen\u2026 [+5486 chars]",
+      "retrievedAt": "2025-09-10 07:07:40.846214",
+      "internal_id": "a1c1ac1b9dce4b46a33a88069ea82b063c427b03067a11e62d6b4a2f98c40764",
       "publishedAtLabel": "Sep 6"
     },
     {
@@ -20269,6 +20449,42 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
+      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
+      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
+      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
+      "publishedAt": "2025-07-27 15:28:15",
+      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
+      "retrievedAt": "2025-07-28 19:08:08.689588",
+      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
+      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
+      "url": "https://english.khabarhub.com/2025/27/487788/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-27 07:45:39",
+      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
+      "retrievedAt": "2025-07-28 19:08:07.939142",
+      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

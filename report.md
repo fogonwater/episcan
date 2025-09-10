@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-09-09 19:05
-- **Most recent article:** 2025-09-08 17:15:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-09-10 07:07
+- **Most recent article:** 2025-09-09 04:05:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 5 | 342 |
-| measles | 30 | 26 | 26 | 50 | 33 | 42 | 3 | 210 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 8 | 200 |
-| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 1 | 103 |
-| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 0 | 100 |
-| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 6 | 96 |
+| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 5 | 343 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 7 | 217 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 9 | 201 |
+| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 2 | 104 |
+| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 1 | 101 |
+| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 6 | 97 |
 | h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 0 | 46 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 1 | 44 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
@@ -46,7 +46,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (rabies)
 
+- [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
+
 - [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
+
+## 25-37 (mpox)
+
+- [Mpox sigue presente en Chile, pero con drástica reducción: de 1.402 casos el primer año a 186 en 2025](https://www.latercera.com/nacional/noticia/mpox-sigue-presente-en-chile-pero-con-drastica-reduccion-de-1402-casos-el-primer-ano-a-186-en-2025/) (Latercera.com)
 
 ## 25-37 (meningitis)
 
@@ -54,11 +60,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (measles)
 
+- [Florida's decision to end vaccine rules wasn't based on data, surgeon general says](https://www.cbsnews.com/news/florida-surgeon-general-school-vaccine-requirements/) (CBS News)
+
+- [2 new measles exposure sites in Winnipeg identified](https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-exposure-sites-victoria-hospital-walk-in-conected-care-1.7628145) (CBC News)
+
 - [The Head of the National Highway Traffic Safety Administration Explains Why It’s No Longer Recommending the Use of Seat Belts](https://www.mcsweeneys.net/articles/the-head-of-the-national-highway-traffic-safety-administration-explains-why-its-no-longer-recommending-the-use-of-seat-belts) (Mcsweeneys.net)
 
 - [RFK Jr. EXPOSES Former CDC Vaccine Chief Dr. Demetre Daskalakis — BLOCKED Him for 7 MONTHS from Accessing Vaccine Safety Data and Withheld Funds from Texas Measles Response](https://www.thegatewaypundit.com/2025/09/rfk-jr-exposes-former-cdc-vaccine-chief-demetre/) (Thegatewaypundit.com)
 
 - [This is what could happen to a child who doesn't get vaccinated](https://www.npr.org/sections/goats-and-soda/2025/09/08/g-s1-87121/vaccines-measles-diarrhea-pneumonia-sudan) (NPR)
+
+- [Health officials confirm first measles case in Grand County](https://www.ksl.com/article/51371310/health-officials-confirm-first-measles-case-in-grand-county) (KSL.com)
+
+- [I think our surgeon general is following RFK on vaccine mandates for political ambition and power, not Florida’s health](https://www.newsbreak.com/share/4218563229597-i-think-our-surgeon-general-is-following-rfk-on-vaccine-mandates-for-political-ambition-and-power-not-florida-s-health?s=a2&amp;share_destination_id=MjYzMDM5ODI1LTE3NTcyMDk0NzE4NDE%3D&amp;pd=0Hngfp8F&amp;hl=en_US&amp;send_time=1757209471&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.34.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_android_comment_share_v3-v3) (Newsbreak.com)
 
 ## 25-37 (malaria)
 
@@ -75,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 - [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
 ## 25-37 (dengue)
+
+- [Isère. « C’est comme si une guêpe voulait sortir de notre corps » : un couple a attrapé la dengue](https://www.ledauphine.com/environnement/2025/09/09/c-est-comme-si-une-guepe-voulait-sortir-de-notre-corps-deux-cas-de-dengue-detectes) (Le Dauphiné Libéré)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
 
@@ -288,11 +304,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-36 (measles)
 
+- [Jacksonville measles case from 3 weeks ago confirmed by county health department](https://www.news4jax.com/news/local/2025/09/06/jacksonville-measles-case-from-3-weeks-ago-confirmed-by-county-health-department/) (WJXT News4JAX)
+
 - [What Parents Need To Know About Measles As Kids Head Back To School (Judy Stone/Forbes)](https://www.memeorandum.com/250906/p29) (Memeorandum.com)
 
 - [What Parents Need To Know About Measles As Kids Head Back To School](https://www.forbes.com/sites/judystone/2025/09/06/what-parents-need-to-know-about-measles-as-kids-head-back-to-school/) (Forbes)
 
+- [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://www.news4jax.com/health/2025/09/06/florida-surgeon-general-ladapos-vaccine-mandates-opposition-goes-against-medical-mainstream/) (WJXT News4JAX)
+
 - [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://abcnews.go.com/US/wireStory/florida-surgeon-general-ladapos-vaccine-mandates-opposition-medical-125314689) (ABC News)
+
+- [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://www.clickondetroit.com/health/2025/09/06/florida-surgeon-general-ladapos-vaccine-mandates-opposition-goes-against-medical-mainstream/) (WDIV ClickOnDetroit)
 
 - [Florida’s Proposed Vaccine Reversal Undermines American Values](https://www.forbes.com/sites/briancastrucci/2025/09/05/floridas-proposed-vaccine-reversal-undermines-american-values/) (Forbes)
 
@@ -2514,6 +2536,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2653,3 +2677,5 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
