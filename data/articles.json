@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-09-10 19:06",
-  "count_articles_total": 1143,
-  "count_articles_new": 13,
+  "last_updated": "2025-09-11 07:07",
+  "count_articles_total": 1150,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 24438,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Mar\u00eda Guerrero",
+      "title": "El brote de gripe aviar de Do\u00f1ana amenaza especies protegidas: \"No se puede hacer nada\"",
+      "description": "Cuatro focos de contagio de la variante H5N1 han puesto en riesgo la mayor reserva de aves acu\u00e1ticas de Europa, y a\u00fan no se conoce la magnitud de las consecuencias. Ni tampoco una posible soluci\u00f3n",
+      "url": "https://www.elconfidencial.com/tecnologia/ciencia/2025-09-10/donana-gripe-aviar-aves-epidemia-contagio-sevilla-huelva_4205627/",
+      "urlToImage": "https://images.ecestaticos.com/7Oq2wHPlKr1PlaJtvSrSopLmbSo=/0x0:2272x1514/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/a65/eef/666/a65eef6667d3147896b0464798087ef5.jpg",
+      "publishedAt": "2025-09-10 03:00:00",
+      "content": "Hay un brote de gripe aviar en Do\u00f1ana, y puede tener consecuencias irreversibles. El lunes la Junta de Andaluc\u00eda declar\u00f3 el nivel 2 de alerta tras notificar tres focos diferentes dentro del Parque Na\u2026 [+7871 chars]",
+      "retrievedAt": "2025-09-11 07:07:41.666311",
+      "internal_id": "2b932d4c7d9f7353d6ca36796bbf1d80260fbcdefc6c13c04ba67a523ced8fa8",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24434,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WBAY",
+      "author": "Wbay News Staff",
+      "title": "Department of Health Services updates new measles dashboard",
+      "description": "A new case of measles was reported on the new measles dashboard on Tuesday.",
+      "url": "https://www.wbay.com/2025/09/09/department-health-services-updates-new-measles-dashboard/",
+      "urlToImage": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/GWSXNZ5JXFG73GSRO6J4C3DJA4.jpg?auth=fffd9fd0fb0367532dbff6f77188ef78f86f1b87fd8b24f1a196ecbfe6ebe31e&width=1200&height=600&smart=true",
+      "publishedAt": "2025-09-10 00:30:39",
+      "content": "MADISON, Wis. (WBAY) - A new case of measles was reported on the new measles dashboard on Tuesday. The Department of Health Services updates the dashboard to share the latest data on measles cases i\u2026 [+401 chars]",
+      "retrievedAt": "2025-09-11 07:07:41.247370",
+      "internal_id": "708fea6c43b9ec07f35097c063465c5ad676934cf85b63175449283518d51ca2",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24435,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSL.com",
+      "author": "Emily Ashcraft",
+      "title": "Utah health department warns of measles exposure at high school cycling event",
+      "description": "Several people were either exposed to or infected with measles at a Utah High School Cycling League event in Wasatch County in August, public health officials say.",
+      "url": "https://www.ksl.com/article/51372619/utah-health-department-warns-of-measles-exposure-at-high-school-cycling-event",
+      "urlToImage": "https://img.ksl.com/slc/3088/308808/30880839.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2025-09-09 21:24:18",
+      "content": "SALT LAKE CITY Several people were either exposed to or infected with measles at a Utah High School Cycling League event in August at Soldier Hollow in Midway, state health officials say. The cyclin\u2026 [+2447 chars]",
+      "retrievedAt": "2025-09-11 07:07:41.265711",
+      "internal_id": "0d12f519eace600f92f818c0dc4990e9a0d55f9e738e8122e49f802a3b4b24e7",
+      "publishedAtLabel": "Sep 9"
+    },
     {
       "id": 24425,
       "query": [
@@ -240,6 +294,24 @@
       "publishedAtLabel": "Sep 9"
     },
     {
+      "id": 24437,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Arie Novarina",
+      "title": "Outbreak response immunization underway for Jakarta measles cases",
+      "description": "Jakarta has recorded 218 measles cases and 63 rubella cases with no fatalities as of early September 2025, according to the provincial ...",
+      "url": "https://en.antaranews.com/news/378797/outbreak-response-immunization-underway-for-jakarta-measles-cases",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/09/kadinkes.jpg",
+      "publishedAt": "2025-09-09 04:53:04",
+      "content": "Jakarta (ANTARA) - Jakarta has recorded 218 measles cases and 63 rubella cases with no fatalities as of early September 2025, according to the provincial government.\"Measles cases in Jakarta have inc\u2026 [+2043 chars]",
+      "retrievedAt": "2025-09-11 07:07:41.306236",
+      "internal_id": "46e2096eb8b99724d44b9595db804de94f0c9aaa7e8e48891d8a9e2062a9bdb0",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
       "id": 24419,
       "query": [
         "dengue"
@@ -455,6 +527,24 @@
       "content": "A report titled 'Cause of Death in India' (2021-2023) by the Sample Registration System revealed that out of three major ailments Tuberculosis, Malaria and HIV/AIDS; not only is TB the leading cause \u2026 [+1097 chars]",
       "retrievedAt": "2025-09-09 19:05:53.992234",
       "internal_id": "78a64085614b31c97da231a3fbaac6e29f52deba40d01d211a36d573645d2edf",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 24436,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Jillian Wilson",
+      "title": "Are Dog Vaccines Safe? Here\u2019s What You Need To Know.",
+      "description": "Pet owners mean well \u2014 but misinformation is leading them astray.",
+      "url": "https://www.huffpost.com/entry/dogs-vaccination-hesitancy_l_68b9e05ce4b041ed82bdead7",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68ba038218000080fb8c71fb.jpeg?ops=500_281%2Cscalefit_1200_630",
+      "publishedAt": "2025-09-08 11:16:48",
+      "content": "Vaccine hesitancy and anti-vaccine sentiments are prevalent throughout the country right now. Vaccination rates are dropping in kindergarteners, measles outbreaks continue to crop up, and Robert F. K\u2026 [+8861 chars]",
+      "retrievedAt": "2025-09-11 07:07:41.297535",
+      "internal_id": "08f87cfcd312be37bfaac8cca999c07ca1d58cc40a22ef36681a50707e2f59e7",
       "publishedAtLabel": "Sep 8"
     },
     {
@@ -20685,6 +20775,42 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
+      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
+      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
+      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
+      "publishedAt": "2025-07-27 15:28:15",
+      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
+      "retrievedAt": "2025-07-28 19:08:08.689588",
+      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
+      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
+      "url": "https://english.khabarhub.com/2025/27/487788/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-27 07:45:39",
+      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
+      "retrievedAt": "2025-07-28 19:08:07.939142",
+      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

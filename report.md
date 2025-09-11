@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-09-10 19:06
-- **Most recent article:** 2025-09-09 19:05:24
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-09-11 07:07
+- **Most recent article:** 2025-09-10 03:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 6 | 343 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 12 | 222 |
+| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 6 | 344 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 16 | 226 |
 | dengue | 32 | 17 | 25 | 62 | 40 | 16 | 13 | 205 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 2 | 104 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 58 | 1 | 101 |
-| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 7 | 97 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 1 | 47 |
+| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 7 | 98 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 2 | 48 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 2 | 45 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
 | yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 1 | 31 |
@@ -64,6 +64,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (measles)
 
+- [Department of Health Services updates new measles dashboard](https://www.wbay.com/2025/09/09/department-health-services-updates-new-measles-dashboard/) (WBAY)
+
+- [Utah health department warns of measles exposure at high school cycling event](https://www.ksl.com/article/51372619/utah-health-department-warns-of-measles-exposure-at-high-school-cycling-event) (KSL.com)
+
 - [Utah health department confirms measles exposure after Soldier Hollow event](https://ksltv.com/health/utah-health-department-confirms-measles-exposure-after-soldier-hollow-event/817496/) (ksltv.com)
 
 - [Trump’s Health Cuts Make States Struggle to Spot Disease Outbreaks](https://www.scientificamerican.com/article/trumps-health-cuts-make-states-struggle-to-spot-disease-outbreaks/) (Scientific American)
@@ -74,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Florida Plan to Drop School Vaccine Rule is Limited, Won’t Start for 90 Days](https://www.insurancejournal.com/news/southeast/2025/09/09/838511.htm) (Insurance Journal)
 
+- [Outbreak response immunization underway for Jakarta measles cases](https://en.antaranews.com/news/378797/outbreak-response-immunization-underway-for-jakarta-measles-cases) (Antaranews.com)
+
 - [Florida's decision to end vaccine rules wasn't based on data, surgeon general says](https://www.cbsnews.com/news/florida-surgeon-general-school-vaccine-requirements/) (CBS News)
 
 - [2 new measles exposure sites in Winnipeg identified](https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-exposure-sites-victoria-hospital-walk-in-conected-care-1.7628145) (CBC News)
@@ -83,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 - [RFK Jr. EXPOSES Former CDC Vaccine Chief Dr. Demetre Daskalakis — BLOCKED Him for 7 MONTHS from Accessing Vaccine Safety Data and Withheld Funds from Texas Measles Response](https://www.thegatewaypundit.com/2025/09/rfk-jr-exposes-former-cdc-vaccine-chief-demetre/) (Thegatewaypundit.com)
 
 - [This is what could happen to a child who doesn't get vaccinated](https://www.npr.org/sections/goats-and-soda/2025/09/08/g-s1-87121/vaccines-measles-diarrhea-pneumonia-sudan) (NPR)
+
+- [Are Dog Vaccines Safe? Here’s What You Need To Know.](https://www.huffpost.com/entry/dogs-vaccination-hesitancy_l_68b9e05ce4b041ed82bdead7) (HuffPost)
 
 - [Health officials confirm first measles case in Grand County](https://www.ksl.com/article/51371310/health-officials-confirm-first-measles-case-in-grand-county) (KSL.com)
 
@@ -109,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI Launches HelportGo App](https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html) (GlobeNewswire)
 
 ## 25-37 (h5n1)
+
+- [El brote de gripe aviar de Doñana amenaza especies protegidas: "No se puede hacer nada"](https://www.elconfidencial.com/tecnologia/ciencia/2025-09-10/donana-gripe-aviar-aves-epidemia-contagio-sevilla-huelva_4205627/) (Elconfidencial.com)
 
 - [Scientists Now Testing Bird Flu Vaccine for Seals](https://www.newser.com/story/374904/scientists-now-testing-bird-flu-vaccine-for-seals.html) (Newser)
 
@@ -2570,6 +2580,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2709,3 +2721,5 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
