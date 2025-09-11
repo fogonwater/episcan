@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-09-11 07:07",
-  "count_articles_total": 1150,
-  "count_articles_new": 5,
+  "last_updated": "2025-09-11 19:05",
+  "count_articles_total": 1165,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 24439,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "7 new measles cases confirmed in Manitoba, provincial health officials warn",
+      "description": "Seven new confirmed measles cases have been reported in Manitoba since last week, a provincial health data update said Wednesday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-1.7629973",
+      "urlToImage": "https://i.cbc.ca/1.7145179.1747427819!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-shutterstock-photo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-10 18:38:15",
+      "content": "Seven new confirmed measles cases have been reported in Manitoba since last week, a provincial health data update said Wednesday. There have been 198 confirmed measles cases and 16 probable cases th\u2026 [+2432 chars]",
+      "retrievedAt": "2025-09-11 19:05:53.022324",
+      "internal_id": "8a605732c65d13b963cb9426c5038e771f0101d2819c303f11f4df6e522439f8",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24454,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Penglijun, Elias Shilangwa",
+      "title": "Zambia's mpox cases reach 231 since last year's outbreak",
+      "description": "LUSAKA, Sept. 10 (Xinhua) -- The number of confirmed mpox cases in Zambia has risen to 231 since the outbreak was first declared in the southern African country in October last year, according to figures released on Tuesday evening by the Zambia National Publ\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/09/11/zambia039s-mpox-cases-reach-231-since-last-year039s-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-09-10 16:55:00",
+      "content": "LUSAKA, Sept. 10 (Xinhua) -- The number of confirmed mpox cases in Zambia has risen to 231 since the outbreak was first declared in the southern African country in October last year, according to fig\u2026 [+590 chars]",
+      "retrievedAt": "2025-09-11 19:05:56.245243",
+      "internal_id": "0f7f3c1cefed16aabbe02ecc100104af69d005182ff0631efce01334789be782",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24441,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Andrea Blez",
+      "title": "Sonia Berm\u00fadez en su presentaci\u00f3n como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso",
+      "description": "La nueva seleccionadora tiene claro su objetivo: \u201cQueremos la segunda estrella, queremos seguir siendo las mejores\u201d La amarga Eurocopa de Aitana Bonmat\u00ed: del hospital por una meningitis a mejor jugadora de la Eurocopa, pero sin t\u00edtulo Sonia Berm\u00fadez fue p\u2026",
+      "url": "https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html",
+      "urlToImage": "https://static.eldiario.es/clip/1b3f0b09-9da9-4dbe-a548-0b794749c753_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-09-10 15:30:26",
+      "content": "Sonia Berm\u00fadez fue presentada este mi\u00e9rcoles como nueva entrenadora de la selecci\u00f3n espa\u00f1ola femenina de f\u00fatbol en la sede de la Real Federaci\u00f3n Espa\u00f1ola de F\u00fatbol de Las Rozas (Madrid), en una compa\u2026 [+2272 chars]",
+      "retrievedAt": "2025-09-11 19:05:54.651660",
+      "internal_id": "6d4b56835fd385f5aec0e838c4b9f923f079785c77b3cc5a8c76513a01c8fc2f",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24446,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nana Adnet",
+      "title": "Meia Maratona Metr\u00f3poles: vila ter\u00e1 shows de Rainner e DJ Nilo Zika",
+      "description": "A Meia Maratona Metr\u00f3poles acontece nos dias 13 e 14 de setembro, com provas de 5 km, 10 km e 21 km nas ruas de Bras\u00edlia",
+      "url": "https://www.metropoles.com/esportes/meia-maratona-metropoles-vila-tera-shows-de-rainner-e-dj-nilo-zika",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/09/10102010/cantor-rainner.jpg",
+      "publishedAt": "2025-09-10 15:07:33",
+      "content": "A Meia Maratona Metr\u00f3poles vai movimentar as ruas de Bras\u00edlia nos dias 13 e 14 de setembro. A corrida ter\u00e1 disputas de 5 km, 10 km e 21 km, al\u00e9m da prova Kids de 1 km. O evento ainda contar\u00e1 com show\u2026 [+4150 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.615287",
+      "internal_id": "92d8fda34a591e0439f63d0d882ebdc5b4760b494424095f1ceb24ae0865bac6",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24452,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "Chikungunya : des foyers plus nombreux et de plus en plus importants en France m\u00e9tropolitaine",
+      "description": "Epid\u00e9mie \u00e0 La R\u00e9union, fortes chaleurs, expansion du moustique-tigre vers le nord : l\u2019\u00e9t\u00e9 2025 offre des conditions exceptionnelles \u00e0 la transmission du virus tropical.",
+      "url": "https://www.lemonde.fr/planete/article/2025/09/10/une-annee-record-pour-le-chikungunya-en-france-metropolitaine_6640318_3244.html",
+      "urlToImage": "https://asset.lemde.fr/medias/img/social-network/default.png",
+      "publishedAt": "2025-09-10 14:41:55",
+      "content": "D\u00e9moustification \u00e0 base de deltam\u00e9thrine chez un particulier \u00e0 La Fare-les-Oliviers (Bouches-du-Rh\u00f4ne), le 19 ao\u00fbt 2025. Il s'agit de viser la v\u00e9g\u00e9tation, refuge favori des moustiques adultes. ANNE M\u2026 [+1218 chars]",
+      "retrievedAt": "2025-09-11 19:05:56.023512",
+      "internal_id": "14d5960ecd5f45ed91d71a5c86849f3913da7d50ce401923fc1679e3aa3bcfef",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24445,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lse.ac.uk",
+      "author": null,
+      "title": "Malaria amidst the COVID-19 pandemic in Gabon: an application of autoregressive integrated moving average (ARIMA) models within an interrupted time series (ITS) framework to hospital-based data",
+      "description": "Roeder, Friederike, Adegnika, Olouyomi Scherif, Honkpehedji, Yabo Josiane, Huth, Manuel, Lell, Bertrand, Adegnika, Ay\u00f4la Akim, Lopes-Rafegas, Iris and Sicuri, Elisa ORCID: 0000-0002-2499-2732 (2025) Malaria amidst the COVID-19 pandemic in Gabon: an applicatio\u2026",
+      "url": "http://eprints.lse.ac.uk/129468/",
+      "urlToImage": null,
+      "publishedAt": "2025-09-10 14:39:04",
+      "content": "Roeder, Friederike, Adegnika, Olouyomi Scherif, Honkpehedji, Yabo Josiane, Huth, Manuel, Lell, Bertrand, Adegnika, Ay\u00f4la Akim, Lopes-Rafegas, Iris and Sicuri, ElisaORCID: 0000-0002-2499-2732 (2025)\u2026 [+2208 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.010201",
+      "internal_id": "10be616f62c42c33ed1ba242baaffd4a2ad0131f5c02f86ecab113fb8de23e6b",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24442,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dong Huo, Ruicheng Yang, Jiyang Fu, Jiaqi Chen, Chen Tan, Huanchun Chen, Xiangru Wang",
+      "title": "CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis",
+      "description": "Author summary Escherichia coli is the predominant causative agent of gram-negative bacterial meningitis in infants and children. Meningitis caused by E. coli is associated with significant mortality and high prevalence of neurological sequelae among survivor\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013464.g006&size=inline",
+      "publishedAt": "2025-09-10 14:00:00",
+      "content": "Citation: Huo D, Yang R, Fu J, Chen J, Tan C, Chen H, et al. (2025) CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningit\u2026 [+76240 chars]",
+      "retrievedAt": "2025-09-11 19:05:54.661558",
+      "internal_id": "37b8e8ee5f8647022ee45b06b96719d480c860ee18d4b4122d8fa7bc579fe3d3",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24444,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jember Azanaw, Eshetu Abera Worede",
+      "title": "Determinants of access to insecticide-treated nets in Sub-Saharan Africa: A multilevel cross-country analysis using 29 DHS data",
+      "description": "Background Having access to Insecticide-Treated Nets (ITNs) is crucial for avoiding malaria in Sub-Saharan Africa (SSA), where the disease burden is disproportionately high. Despite their efficacy, socioeconomic, demographic, and geographic factors continue t\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330431",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330431.t003&size=inline",
+      "publishedAt": "2025-09-10 14:00:00",
+      "content": "Individual-level predictors. Married household heads demonstrated significantly higher odds of accessing insecticide-treated nets (ITNs) compared to their unmarried counterparts, which likely reflec\u2026 [+10819 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.000632",
+      "internal_id": "467e515330f7851634b14e2009dfc751d94f0a6005cc4db429fa3262a12965f3",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24443,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0395\u03bb\u03bf\u03bd\u03bf\u03c3\u03af\u03b1: \u03a4\u03bf \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u03c6\u03bf\u03b2\u03ac\u03c4\u03b1\u03b9 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03af\u03c9\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b5\u03b8\u03bd\u03bf\u03cd\u03c2 \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1\u03c2",
+      "description": "\u039f\u03b9 \u03c0\u03b5\u03c1\u03b9\u03ba\u03bf\u03c0\u03ad\u03c2 \u03c4\u03bf\u03c5 \u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03bb\u03ae\u03be\u03b5\u03b9 \u03c4\u03bf\u03bd \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf\u03bc\u03ad\u03b1 - \u00ab\u039f\u03b9 \u03b5\u03bb\u03bb\u03b5\u03af\u03c8\u03b5\u03b9\u03c2 \u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03af\u03c9\u03bd \u03c5\u03c0\u03ae\u03c1\u03c7\u03b1\u03bd \u03ae\u03b4\u03b7, \u03b1\u03bb\u03bb\u03ac \u03b5\u03c0\u03b9\u03b4\u03b5\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd\u00bb | \u0395\u03bb\u03bf\u03bd\u03bf\u03c3\u03af\u03b1 | \u0391\u03c6\u03c1\u03b9\u03ba\u03ae | \u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a4\u03c1\u03b1\u03bc\u03c0 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1694126/elonosia-to-pagosmio-tameio-fovatai-auxisi-ton-thanaton-logo-tis-meiosis-tis-diethnous-voitheias/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-09-10/malaria.jpg",
+      "publishedAt": "2025-09-10 13:42:46",
+      "content": ", , . , . , , , . \u00ab , \u00bb \u00ab \u00bb , AIDS, , .\u00ab , \u00bb, , . . , , . , , 600.000 , . 100.000 2025 . \u00ab , \u00bb. , \u00abRoll Back Malaria\u00bb (..: ), , \u00ab 100.000 \u00bb. ., , 18 . \u00ab 23 2027-2029\u00bb, . : -",
+      "retrievedAt": "2025-09-11 19:05:54.975537",
+      "internal_id": "8f9f6a0717a1898f89849ed34ada3f7b6520e91978696f68d85186a86c01c3e7",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24455,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "Hi-Tech Mail",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0438 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0434\u043e\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0447\u0443\u043c\u044b",
+      "description": "\u041e\u0431\u0445\u043e\u0434\u0438\u043b\u043e\u0441\u044c \u0434\u0430\u0436\u0435 \u0431\u0435\u0437 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0431\u043b\u043e\u0445. \u0412\u043e\u0442 \u0447\u0442\u043e \u0441\u043c\u043e\u0433\u043b\u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u0443\u0447\u0435\u043d\u044b\u0435. \u0423\u0447\u0435\u043d\u044b\u0435 \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 (\u0423\u0440\u0424\u0423) \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043a\u043e\u043b\u043b\u0435\u0433\u0430\u043c\u0438 \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438, \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438, \u0421\u0428\u0410 \u0438 \u042e\u0436\u043d\u043e\u0439 \u041a\u043e\u0440\u0435\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0445 \u0432 \u0410\u0440\u043a\u0430\u0438\u043c\u0435 \u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u2026",
+      "url": "https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/",
+      "urlToImage": "https://resizer.mail.ru/p/6854a726-51f6-51ab-ac85-b5fed20e1669/AQAKJkkurXu_qWhNtfkXLRzbgr_wSzX0kPlMUUiuyHqC7nmZ3ZuTi1bQvzzk9VttkRPS4mqTPGYHZYTHUs7rMMHTrUM.jpg",
+      "publishedAt": "2025-09-10 13:03:13",
+      "content": "() , , , , (Yersinia pestis) . 3900 , , . , \u2014 .",
+      "retrievedAt": "2025-09-11 19:05:56.802046",
+      "internal_id": "0f2f4ad9a168e0fe6cf7df6bba63ee327c0e569ad82b5e946fcb4c95201b4e92",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24450,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Claudia Chiappa",
+      "title": "Local chikungunya cases soar in France",
+      "description": "Tiger mosquitoes that carry the virus are increasingly spreading across Europe.",
+      "url": "https://www.politico.eu/article/local-chikungunya-cases-soar-in-france/",
+      "urlToImage": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+      "publishedAt": "2025-09-10 12:58:52",
+      "content": "France has recorded nearly 400 locally-acquired cases of chikungunya this summer, a sharp increase from last year, French health authorities announced today. As of Sept. 8, there have been 382 cases\u2026 [+831 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.997257",
+      "internal_id": "a8ed434b1c1a2e3ba8cf1209f83825afcb2ed595a3820dc6762c7c3ce0dfd7d2",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24447,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Chikungunya : Ampleur in\u00e9dite des cas autochtones en m\u00e9tropole cet \u00e9t\u00e9",
+      "description": "Pr\u00e8s de 400 cas autochtones de chikungunya ont \u00e9t\u00e9 d\u00e9tect\u00e9s dans l\u2019Hexagone depuis d\u00e9but mai",
+      "url": "https://www.20minutes.fr/sante/4172274-20250910-chikungunya-ampleur-inedite-cas-autochtones-metropole",
+      "urlToImage": "https://img.20mn.fr/PtHv4M4jRzyyxGCUv4Hg8yk/1444x920_la-ville-de-mougins-subventionne-30-pour-cent-et-jusqu-a-300-euros-l-acquisition-d-un-dispositif-brevete-de-lutte-contre-la-proliferation-des-moustiques-mougins-france-07-07-2023-syspeo-sys-a002-credit-syspeo-sipa-2307160714",
+      "publishedAt": "2025-09-10 11:39:57",
+      "content": "Une raison suppl\u00e9mentaire de se prot\u00e9ger des piq\u00fbres de moustique. L\u00e9t\u00e9 2025 va de record en record en ce qui concerne le chikungunya. Cette maladie transmise par des moustiques tigres se r\u00e9pand \u00e0 gr\u2026 [+2328 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.954202",
+      "internal_id": "f33afaba1b83b43b529f8f15015c0e73711622078859f267ebaa72d1b6198b5f",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24453,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Luke Taylor",
+      "title": "WHO declares mpox emergency over but says threat remains",
+      "description": "The World Health Organization (WHO) has declared the mpox international public health emergency (PHEIC) over for a second time.WHO\u2019s director general, Tedros Adhanom Ghebreyesus, announced on 5 September that he had accepted the recommendation of an expert co\u2026",
+      "url": "https://www.bmj.com/content/390/bmj.r1908",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/390/8470.cover-source.jpg",
+      "publishedAt": "2025-09-10 11:11:08",
+      "content": "The World Health Organization (WHO) has declared the mpox international public health emergency (PHEIC) over for a second time. WHOs director general, Tedros Adhanom Ghebreyesus, announced on 5 Sept\u2026 [+585 chars]",
+      "retrievedAt": "2025-09-11 19:05:56.228070",
+      "internal_id": "dea30c6684d2772b0a96e6f68179358a36691bce9ac73e22bde40b51a1c8f70c",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24451,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : pr\u00e8s de 400 cas autochtones en m\u00e9tropole depuis mai, quels sont les principaux foyers",
+      "description": "Pr\u00e8s de 400 cas autochtones de chikungunya dans l'Hexagone depuis d\u00e9but mai : l'\u00e9t\u00e9 2025 va de record en record pour cette maladie transmise par des moustiques tigres, selon des donn\u00e9es publi\u00e9es mercredi par Sant\u00e9 publique France, qui a enregistr\u00e9 81 cas supp\u2026",
+      "url": "https://www.ledauphine.com/sante/2025/09/10/chikungunya-pres-de-400-cas-autochtones-en-metropole-depuis-mai-quels-sont-les-principaux-foyers",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/49316804-C87A-4DE1-9A6E-A0F1B9AD33B3/FB1200/photo-1757501098.jpg",
+      "publishedAt": "2025-09-10 10:45:00",
+      "content": "Ampleur in\u00e9dite en m\u00e9tropole pour les cas autochtones de chikungunya. Pr\u00e8s de 400 cas autochtones de chikungunya dans l'Hexagone depuis d\u00e9but mai: l'\u00e9t\u00e9 2025 va de record en record pour cette maladie\u2026 [+2582 chars]",
+      "retrievedAt": "2025-09-11 19:05:56.006381",
+      "internal_id": "4101aa389040b639ce58206b80c2cd78e0223bcc46eb1a7085b66b6011e64f1b",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24449,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : pr\u00e8s de 400 cas autochtones en m\u00e9tropole depuis le d\u00e9but de mai",
+      "description": "Si plusieurs \u00e9pisodes sont d\u00e9sormais clos, l\u2019\u00e9t\u00e9 2025 est d\u2019une ampleur in\u00e9dite en m\u00e9tropole pour les cas autochtones de chikungunya, dont le virus se transmet par des piq\u00fbres de moustique tigre.",
+      "url": "https://www.lemonde.fr/societe/article/2025/09/10/chikungunya-pres-de-400-cas-autochtones-en-metropole-depuis-le-debut-de-mai_6640284_3224.html",
+      "urlToImage": "https://img.lemde.fr/2025/08/21/3/0/7354/4902/1440/960/60/0/c0d29b5_upload-1-jno1owsug4l5-dsc-0374.jpg",
+      "publishedAt": "2025-09-10 10:37:51",
+      "content": "Pr\u00e8s de 400 cas autochtones de chikungunya dans lHexagone depuis le d\u00e9but de mai : durant l\u00e9t\u00e9 2025 le nombre de cas de cette maladie transmise par des moustiques tigres na cess\u00e9 de cro\u00eetre, selon de\u2026 [+2416 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.980635",
+      "internal_id": "12ab3cb53deb25cfca2aa88fbc55502dae377c700265c0d582380a44a138cb32",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24448,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : pr\u00e8s de 400 cas autochtones ont \u00e9t\u00e9 identifi\u00e9s dans l'Hexagone depuis d\u00e9but mai",
+      "description": "L'\u00e9t\u00e9 2025 a marqu\u00e9 un nouveau record pour cette maladie transmise par les moustiques tigres.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-400-cas-autochtones-ont-ete-identifies-dans-l-hexagone-depuis-debut-mai_7484197.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/DmrDkcdX_QrfIa-utEYXm7x0-9s/0x216:3671x2281/1500x843/2025/09/10/075-roy-notitle250608-npygw-68c14af4ee6a2528904948.jpg",
+      "publishedAt": "2025-09-10 10:06:30",
+      "content": "A ce stade, 382 cas autochtones de chikungunya ont \u00e9t\u00e9 identifi\u00e9s dans l'Hexagone depuis d\u00e9but mai. L'\u00e9t\u00e9 2025 va de record en record pour cette maladie transmise par des moustiques tigres, selon des\u2026 [+1686 chars]",
+      "retrievedAt": "2025-09-11 19:05:55.971306",
+      "internal_id": "d2ecfdc3ceca3e73c3a5e9f2833c93eff7a78719126ffcd6c770fff712ddf63f",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24440,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "Hi-Tech Mail",
+      "title": "\u041d\u0430\u0437\u0432\u0430\u043d\u044b \u0442\u0440\u0430\u0432\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0443\u0431\u0438\u0432\u0430\u044e\u0442 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0441\u0431\u043e\u0440\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0431\u043e\u0440\u043e\u0442\u044c\u0441\u044f \u0441 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u0433\u0440\u0438\u043f\u043f\u0430 \u0410. \u0422\u0430\u043a\u0438\u0435 \u0441\u0431\u043e\u0440\u044b \u043f\u043e\u0434\u0430\u0432\u043b\u044f\u044e\u0442 \u0440\u0430\u0437\u043c\u043d\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u0430 \u043d\u0430 30%, \u0430 \u044d\u0442\u043e \u0437\u043d\u0430\u0447\u0438\u0442 \u0447\u0442\u043e \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0434\u043e\u0441\u0442\u043e\u0439\u043d\u043e\u0439 \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043e\u0439 \u0441\u0438\u043d\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u043c\u2026",
+      "url": "https://hi-tech.mail.ru/news/133566-nazvany-travy-kotorye-ubivayut-virus-grippa/",
+      "urlToImage": "https://resizer.mail.ru/p/2315287e-3a32-506c-bb29-ae3cede4e612/AQAKUBhilQfDxpO4vJMZ3Gp6FDeEUlPAdaHMrImycPG1AQAtDVk7lAst73KWPHyjXVkr1gdEJ_UShOIBljNQk_CsV20.jpg",
+      "publishedAt": "2025-09-10 08:26:54",
+      "content": ", . . , , 30% . , \u2014 , , . 11 14 . , , , , . , . , , , . 11 , . \u2014 H1N1, H5N1 H3N2. \u2014 , , .",
+      "retrievedAt": "2025-09-11 19:05:53.484580",
+      "internal_id": "73583b4d86f18d97c5f0f87e1dd69d3c17ef9e2dc7aa31fb7fab30b979e881d8",
+      "publishedAtLabel": "Sep 10"
+    },
     {
       "id": 24438,
       "query": [
@@ -20775,42 +21081,6 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23290,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
-      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
-      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
-      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
-      "publishedAt": "2025-07-27 15:28:15",
-      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
-      "retrievedAt": "2025-07-28 19:08:08.689588",
-      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
-      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
-      "url": "https://english.khabarhub.com/2025/27/487788/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-27 07:45:39",
-      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
-      "retrievedAt": "2025-07-28 19:08:07.939142",
-      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-09-11 07:07
-- **Most recent article:** 2025-09-10 03:00:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-09-11 19:05
+- **Most recent article:** 2025-09-10 18:38:15
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 6 | 344 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 16 | 226 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 12 | 349 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 17 | 227 |
 | dengue | 32 | 17 | 25 | 62 | 40 | 16 | 13 | 205 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 2 | 104 |
-| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 1 | 101 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 7 | 98 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 2 | 48 |
-| zika | 7 | 8 | 9 | 7 | 8 | 4 | 2 | 45 |
-| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 1 | 32 |
-| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 1 | 31 |
+| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 3 | 103 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 10 | 100 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 3 | 49 |
+| zika | 7 | 8 | 9 | 7 | 8 | 4 | 3 | 46 |
+| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 3 | 34 |
+| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 2 | 32 |
 | hpai | 0 | 3 | 0 | 1 | 1 | 1 | 1 | 7 |
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
 | typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 2 | 6 |
@@ -34,11 +34,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (zika)
 
+- [Meia Maratona Metrópoles: vila terá shows de Rainner e DJ Nilo Zika](https://www.metropoles.com/esportes/meia-maratona-metropoles-vila-tera-shows-de-rainner-e-dj-nilo-zika) (Metropoles.com)
+
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Activation of PD-1/PD-L1 immune checkpoint by Zika virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013457) (Plos.org)
 
 ## 25-37 (yersinia)
+
+- [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
 - [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
 
@@ -56,13 +60,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (mpox)
 
+- [Zambia's mpox cases reach 231 since last year's outbreak](https://www.thestar.com.my/news/world/2025/09/11/zambia039s-mpox-cases-reach-231-since-last-year039s-outbreak) (The Star Online)
+
+- [WHO declares mpox emergency over but says threat remains](https://www.bmj.com/content/390/bmj.r1908) (The BMJ)
+
 - [Mpox sigue presente en Chile, pero con drástica reducción: de 1.402 casos el primer año a 186 en 2025](https://www.latercera.com/nacional/noticia/mpox-sigue-presente-en-chile-pero-con-drastica-reduccion-de-1402-casos-el-primer-ano-a-186-en-2025/) (Latercera.com)
 
 ## 25-37 (meningitis)
 
+- [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
+
+- [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
+
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
+
+- [7 new measles cases confirmed in Manitoba, provincial health officials warn](https://www.cbc.ca/news/canada/manitoba/measles-update-1.7629973) (CBC News)
 
 - [Department of Health Services updates new measles dashboard](https://www.wbay.com/2025/09/09/department-health-services-updates-new-measles-dashboard/) (WBAY)
 
@@ -98,6 +112,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (malaria)
 
+- [Malaria amidst the COVID-19 pandemic in Gabon: an application of autoregressive integrated moving average (ARIMA) models within an interrupted time series (ITS) framework to hospital-based data](http://eprints.lse.ac.uk/129468/) (Lse.ac.uk)
+
+- [Determinants of access to insecticide-treated nets in Sub-Saharan Africa: A multilevel cross-country analysis using 29 DHS data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330431) (Plos.org)
+
+- [Ελονοσία: Το Παγκόσμιο Ταμείο φοβάται αύξηση των θανάτων λόγω της μείωσης της διεθνούς βοήθειας](https://www.protothema.gr/world/article/1694126/elonosia-to-pagosmio-tameio-fovatai-auxisi-ton-thanaton-logo-tis-meiosis-tis-diethnous-voitheias/) (Protothema.gr)
+
 - [Na een campagne van desinformatie behandelt Burkina Faso malariabestrijders als westerse criminelen](https://www.nrc.nl/nieuws/2025/09/09/na-een-campagne-van-desinformatie-behandelt-burkina-faso-malariabestrijders-als-westerse-criminelen-a4905524) (Www.nrc.nl)
 
 - [This is what could happen to a child who doesn't get vaccinated](https://www.npr.org/sections/goats-and-soda/2025/09/08/g-s1-87121/vaccines-measles-diarrhea-pneumonia-sudan) (NPR)
@@ -117,6 +137,8 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI Launches HelportGo App](https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html) (GlobeNewswire)
 
 ## 25-37 (h5n1)
+
+- [Названы травы, которые убивают вирус гриппа](https://hi-tech.mail.ru/news/133566-nazvany-travy-kotorye-ubivayut-virus-grippa/) (Mail.ru)
 
 - [El brote de gripe aviar de Doñana amenaza especies protegidas: "No se puede hacer nada"](https://www.elconfidencial.com/tecnologia/ciencia/2025-09-10/donana-gripe-aviar-aves-epidemia-contagio-sevilla-huelva_4205627/) (Elconfidencial.com)
 
@@ -151,6 +173,18 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Chikungunya : des foyers plus nombreux et de plus en plus importants en France métropolitaine](https://www.lemonde.fr/planete/article/2025/09/10/une-annee-record-pour-le-chikungunya-en-france-metropolitaine_6640318_3244.html) (Le Monde)
+
+- [Local chikungunya cases soar in France](https://www.politico.eu/article/local-chikungunya-cases-soar-in-france/) (POLITICO.eu)
+
+- [Chikungunya : Ampleur inédite des cas autochtones en métropole cet été](https://www.20minutes.fr/sante/4172274-20250910-chikungunya-ampleur-inedite-cas-autochtones-metropole) (20 Minutes)
+
+- [Santé. Chikungunya : près de 400 cas autochtones en métropole depuis mai, quels sont les principaux foyers](https://www.ledauphine.com/sante/2025/09/10/chikungunya-pres-de-400-cas-autochtones-en-metropole-depuis-mai-quels-sont-les-principaux-foyers) (Le Dauphiné Libéré)
+
+- [Chikungunya : près de 400 cas autochtones en métropole depuis le début de mai](https://www.lemonde.fr/societe/article/2025/09/10/chikungunya-pres-de-400-cas-autochtones-en-metropole-depuis-le-debut-de-mai_6640284_3224.html) (Le Monde)
+
+- [Chikungunya : près de 400 cas autochtones ont été identifiés dans l'Hexagone depuis début mai](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-400-cas-autochtones-ont-ete-identifies-dans-l-hexagone-depuis-debut-mai_7484197.html) (Franceinfo.fr)
 
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
@@ -2580,8 +2614,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2721,5 +2753,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
