@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-09-11 19:05",
-  "count_articles_total": 1165,
-  "count_articles_new": 17,
+  "last_updated": "2025-09-12 07:07",
+  "count_articles_total": 1173,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 24457,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Christopher Testa, Adam Stephen, and Meghan Dansie",
+      "title": "Bali travellers urged to get vaccinated amid new measles outbreak",
+      "description": "Health officials in Cairns have published a list of potential measles exposure sites after a locally acquired case of the illness.",
+      "url": "https://www.abc.net.au/news/2025-09-11/measles-outbreak-declared-in-cairns/105762482",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0ac30a1e7177133e778962e1fde35700?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=295&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-11 05:45:15",
+      "content": "Health officials are urging travellers to south-east Asia to be vaccinated against measles as an outbreak is declared in Far North Queensland. Further cases of measles are expected in Cairns. The c\u2026 [+4404 chars]",
+      "retrievedAt": "2025-09-12 07:07:11.326893",
+      "internal_id": "03adfa65b4584d82f4ee61e634cbfe506c92a2792ef04b6c9241413dda12aaf6",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24459,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0420\u0424 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u0433\u0440\u0438\u043f\u043f\u0430 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f",
+      "description": "\u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 \u0421\u0430\u0431\u0435\u043b\u044c\u043d\u0438\u043a \u0417\u0430\u043b\u0435\u0441\u043e\u0432\u0430, \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0432 \u0413\u043e\u0440\u043d\u043e\u043c \u0410\u043b\u0442\u0430\u0435",
+      "url": "https://tass.ru/nauka/25021911",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/nauka/25021911?u=2025-09-11T05:02:37.124582",
+      "publishedAt": "2025-09-11 05:02:37",
+      "content": ", 11 . //. \"\" - , . , . , . , , , . . - . , . , ( ). \" , , \", - . (A/H3N2), , (A/H5N1). , - , 70%- . \"\", . . \"\". . \" A(H3N2) (H5N1)\", - .",
+      "retrievedAt": "2025-09-12 07:07:11.888491",
+      "internal_id": "1ee1b8dfbc2a6367c8b9d9296984be1435120a747c861007eab2a891438f89df",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24460,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Prolonged Monkeypox Virus Infections, California, USA, May 2022\u2013August 2024",
+      "description": "Prolonged MPXV Infections, California, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/10/25-0507_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-09-11 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox (formerly known as mo\u2026 [+21093 chars]",
+      "retrievedAt": "2025-09-12 07:07:13.413826",
+      "internal_id": "d451aab55168728ab83038ea90c05879d7a70117e8e0c723d62722ca79bc9bdf",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24456,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Stray query: Can Delhi match its bark with bite?",
+      "description": "India News: NEW DELHI: Delhi govt will microchip 10 lakh street dogs, regulate pet shops and launch a rabies action plan. These decisions were taken on Wednesday .",
+      "url": "https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123818909,width-1070,height-580,imgsize-73544,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-10 22:29:52",
+      "content": "Seerat Bajwa brings a fresh take on beauty with her graceful fashion sense",
+      "retrievedAt": "2025-09-12 07:07:11.057914",
+      "internal_id": "45c80062880aa7c2eb15f3895aeb3e1fad325c67524ca8cdcd9effc026f01cc1",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24461,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikportal.rs",
+      "author": "Sputnik \u0421\u0440\u0431\u0438\u0458\u0430",
+      "title": "\u041f\u0440\u043e\u043d\u0430\u0452\u0435\u043d \u043a\u0440\u0438\u0432\u0430\u0446 \u0437\u0430 \u043f\u0440\u0432\u0443 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0458\u0443 \u0443 \u0438\u0441\u0442\u043e\u0440\u0438\u0458\u0438 - \u0442\u0430\u0458\u043d\u0443 \u043e\u0442\u043a\u0440\u0438\u043b\u043e \u043e\u0441\u0430\u043c \u0437\u0443\u0431\u0430",
+      "description": "\u0418\u0441\u0442\u0440\u0430\u0436\u0438\u0432\u0430\u0447\u0438 \u0441\u0443, \u043f\u043e \u043f\u0440\u0432\u0438 \u043f\u0443\u0442, \u043f\u0440\u043e\u043d\u0430\u0448\u043b\u0438 \u0433\u0435\u043d\u043e\u043c\u0441\u043a\u0435 \u0434\u043e\u043a\u0430\u0437\u0435 \u043e \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0458\u0438 \u043a\u0440\u0438\u0432\u043e\u0458 \u0437\u0430 \u043f\u0440\u0432\u0443 \u0437\u0430\u0431\u0435\u043b\u0435\u0436\u0435\u043d\u0443 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0458\u0443 \u0443 \u0438\u0441\u0442\u043e\u0440\u0438\u0458\u0438 \u2013 \u0408\u0443\u0441\u0442\u0438\u043d\u0438\u0458\u0430\u043d\u043e\u0432\u0443 \u043a\u0443\u0433\u0443. \u041e\u0432\u0430 \u0435\u043f\u0438\u0434\u0435\u043c\u0438\u0458\u0430 \u043d\u0430\u0437\u0432\u0430\u043d\u0430 \u043f\u043e \u0432\u0438\u0437\u0430\u043d\u0442\u0438\u0458\u0441\u043a\u043e\u043c \u0446\u0430\u0440\u0443 \u043e\u043f\u0438\u0441\u0430\u043d\u0430 \u0458\u0435 \u043f\u0440\u0435 \u0441\u043a\u043e\u0440\u043e 1.500 \u0433\u043e\u0434\u0438\u043d\u0430.",
+      "url": "https://sputnikportal.rs/20250910/pronadjen-krivac-za-prvu-pandemiju-u-istoriji---tajnu-otkrilo-osam-zuba-1189994904.html",
+      "urlToImage": "https://cdn1.img.sputnikportal.rs/images/sharing/article/srb/1189994904.jpg?11549326471757536920",
+      "publishedAt": "2025-09-10 20:42:00",
+      "content": ",,Yersinia pestis'' . , . , , . . , .",
+      "retrievedAt": "2025-09-12 07:07:14.043037",
+      "internal_id": "f5e3f2c7345da16d4ce57bd7b06e6b275ea1c708f2faba25d766bbbaa6016b9a",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 24458,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "South Dakota Kills Over 100,000 Turkeys Because Of Bird Flu",
+      "description": "South Dakota has kicked off \"bird flu season\" by slaughtering 134,000 turkeys. The turkeys spanned three facilities and were killed in response to an outbreak of the HPAI (highly pathogenic avian influenza).",
+      "url": "https://www.shtfplan.com/headline-news/south-dakota-kills-over-100000-turkeys-because-of-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/06/birdflu-e1529418976701.jpg",
+      "publishedAt": "2025-09-10 20:00:11",
+      "content": "South Dakota has kicked off \u201cbird flu season\u201d by slaughtering 134,000 turkeys. The turkeys spanned three facilities and were killed in response to an outbreak of the HPAI (highly pathogenic avian inf\u2026 [+2462 chars]",
+      "retrievedAt": "2025-09-12 07:07:11.606098",
+      "internal_id": "dc8907ed1f9368f47f6578a2a5a99f3d6b874d34863975bb71226b6caa0a11ab",
+      "publishedAtLabel": "Sep 10"
+    },
     {
       "id": 24439,
       "query": [
@@ -21081,6 +21189,42 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
+      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
+      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
+      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
+      "publishedAt": "2025-07-27 15:28:15",
+      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
+      "retrievedAt": "2025-07-28 19:08:08.689588",
+      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 23289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
+      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
+      "url": "https://english.khabarhub.com/2025/27/487788/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-07-27 07:45:39",
+      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
+      "retrievedAt": "2025-07-28 19:08:07.939142",
+      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

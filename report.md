@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-09-11 19:05
-- **Most recent article:** 2025-09-10 18:38:15
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-09-12 07:07
+- **Most recent article:** 2025-09-11 05:45:15
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 12 | 349 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 17 | 227 |
+| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 12 | 350 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 18 | 228 |
 | dengue | 32 | 17 | 25 | 62 | 40 | 16 | 13 | 205 |
-| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 2 | 104 |
-| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 3 | 103 |
-| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 10 | 100 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 3 | 49 |
+| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 3 | 105 |
+| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 4 | 104 |
+| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 10 | 101 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 4 | 50 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 3 | 46 |
 | meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 3 | 34 |
-| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 2 | 32 |
-| hpai | 0 | 3 | 0 | 1 | 1 | 1 | 1 | 7 |
+| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 3 | 33 |
+| hpai | 0 | 3 | 0 | 1 | 1 | 1 | 2 | 8 |
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
 | typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 2 | 6 |
 | leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
@@ -42,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (yersinia)
 
+- [Пронађен кривац за прву пандемију у историји - тајну открило осам зуба](https://sputnikportal.rs/20250910/pronadjen-krivac-za-prvu-pandemiju-u-istoriji---tajnu-otkrilo-osam-zuba-1189994904.html) (Sputnikportal.rs)
+
 - [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
 - [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
@@ -54,11 +56,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (rabies)
 
+- [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
+
 - [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
 
 - [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
+
+- [Prolonged Monkeypox Virus Infections, California, USA, May 2022–August 2024](https://wwwnc.cdc.gov/eid/article/31/10/25-0507_article) (Cdc.gov)
 
 - [Zambia's mpox cases reach 231 since last year's outbreak](https://www.thestar.com.my/news/world/2025/09/11/zambia039s-mpox-cases-reach-231-since-last-year039s-outbreak) (The Star Online)
 
@@ -75,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
+
+- [Bali travellers urged to get vaccinated amid new measles outbreak](https://www.abc.net.au/news/2025-09-11/measles-outbreak-declared-in-cairns/105762482) (ABC News (AU))
 
 - [7 new measles cases confirmed in Manitoba, provincial health officials warn](https://www.cbc.ca/news/canada/manitoba/measles-update-1.7629973) (CBC News)
 
@@ -134,9 +142,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (hpai)
 
+- [South Dakota Kills Over 100,000 Turkeys Because Of Bird Flu](https://www.shtfplan.com/headline-news/south-dakota-kills-over-100000-turkeys-because-of-bird-flu) (Shtfplan.com)
+
 - [Helport AI Launches HelportGo App](https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html) (GlobeNewswire)
 
 ## 25-37 (h5n1)
+
+- [В РФ получили перспективное соединение против гриппа на основе лекарственного растения](https://tass.ru/nauka/25021911) (Tass.ru)
 
 - [Названы травы, которые убивают вирус гриппа](https://hi-tech.mail.ru/news/133566-nazvany-travy-kotorye-ubivayut-virus-grippa/) (Mail.ru)
 
@@ -2614,6 +2626,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2753,3 +2767,5 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
