@@ -1,8 +1,337 @@
 {
-  "last_updated": "2025-09-12 07:07",
-  "count_articles_total": 1173,
-  "count_articles_new": 6,
+  "last_updated": "2025-09-12 19:05",
+  "count_articles_total": 1189,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 24464,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KABC-TV",
+      "author": null,
+      "title": "Child dies from measles-related complication, LA County Public Health officials say",
+      "description": "Health officials reported the death of a Los Angeles County child from a complication of measles infection acquired during infancy.",
+      "url": "https://abc7.com/post/child-dies-measles-related-complication-la-county-public-health-officials-say/17794893/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16342213_AP25099762919062.jpg?w=1600",
+      "publishedAt": "2025-09-11 19:05:23",
+      "content": "LOS ANGELES (KABC) -- Health officials on Thursday reported the death of a Los Angeles County child from a complication of measles infection acquired during infancy. The child, identified only as sc\u2026 [+1861 chars]",
+      "retrievedAt": "2025-09-12 19:05:40.696246",
+      "internal_id": "7318c32dcbb250b7eac1034c22073fda46b9c0dd0f82b96d3d50241159b15f54",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24479,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "NBC Chicago",
+      "author": null,
+      "title": "Leptospirosis death reported as Chicago issues health alert",
+      "description": "Chicago health officials released a health alert about leptospirosis cases in the city after numerous infections left at least one person dead.",
+      "url": "https://www.nbcchicago.com/news/local/death-reported-as-chicago-issues-health-alert-for-leptospirosis/3822785/",
+      "urlToImage": "https://media.nbcchicago.com/2025/09/GettyImages-1373550371.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-09-11 17:07:31",
+      "content": "Chicago health officials released a health alert about leptospirosis cases in the city after numerous infections were reported and at least one person died. The contagious bacterial disease has bee\u2026 [+3127 chars]",
+      "retrievedAt": "2025-09-12 19:05:43.454907",
+      "internal_id": "946d83a95718fed111368dec413e346ac4f8feba1e7f01f7aedddac287d08f89",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24463,
+      "query": [
+        "measles"
+      ],
+      "source_id": "buzzfeed",
+      "source_name": "Buzzfeed",
+      "author": "Sara De Ledesma",
+      "title": "People Are Sharing The \"Biggest Myths\" Everyone Still Believes, And My Jaw Is On The Floor",
+      "description": "\"That undercover cops HAVE To identify themselves if asked if they are a cop. News flash: They don't.\"View Entire Post \u203a",
+      "url": "https://www.buzzfeed.com/trendyghost618/biggest-myths-people-still-believe",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/03/19/thumb/FSD2LYiRB.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+      "publishedAt": "2025-09-11 16:01:02",
+      "content": "akindofparadise \"That was Andrew Wakefield, a British former physician. In 1998, he published a paper in The Lancet claiming a link between the MMR (measles, mumps, rubella) vaccine and autism. The\u2026 [+332 chars]",
+      "retrievedAt": "2025-09-12 19:05:40.596332",
+      "internal_id": "652c403a6ac633e2f9be7cc49b4ce54c0f7e85a8347543bdab437861a380f9fb",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24477,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Pelo menos 99 mortos em quase 450 mil casos de Mal\u00e1ria",
+      "description": "\"As autoridades refor\u00e7am a vigil\u00e2ncia epidemiol\u00f3gica e campanhas de sensibiliza\u00e7\u00e3o\" para conter a mal\u00e1ria e mpox no norte de Mo\u00e7ambique. O pa\u00eds aguarda receber vacinas para combater a \u00faltima este m\u00eas.",
+      "url": "https://observador.pt/2025/09/11/pelo-menos-99-mortos-em-quase-450-mil-casos-de-malaria-no-norte-de-mocambique/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F09%2F11095746%2F45509287.jpg?layer=obstop:T",
+      "publishedAt": "2025-09-11 15:11:19",
+      "content": "Pelo menos 99 pessoas morreram entre janeiro e agosto deste ano v\u00edtimas de mal\u00e1ria na prov\u00edncia de Niassa, norte de Mo\u00e7ambique, com registo de 448.526 casos da doen\u00e7a, avan\u00e7aram as autoridades provin\u2026 [+2681 chars]",
+      "retrievedAt": "2025-09-12 19:05:42.970384",
+      "internal_id": "0518f2a6b156f1d9b5b4054a61a419e10ebd44baf2f1f41542d10b9197dac5f8",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Juan Felipe Vald\u00e9s-L\u00f3pez, Yordi Sebasti\u00e1n Tamayo-Molina, Geysson J. Fernandez, Lady Johana Hern\u00e1ndez-Sarmiento, Paula A. Velilla, Silvio Urcuqui-Inchima",
+      "title": "Early events in dengue virus infection inducing cytokine storm: The dynamic interplay of pattern-recognition receptors, inflammasome activation, and biphasic NF-\u03baB and STAT1-dependent inflammatory responses in human mononuclear phagocytes",
+      "description": "Author summary Dengue virus (DENV) infection can elicit an excessive and pathological immune response known as a \u201ccytokine storm,\u201d which plays a central role in the pathogenesis of severe dengue, leading to vascular leakage, haemorrhage, and potentially fatal\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013366",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013366.g006&size=inline",
+      "publishedAt": "2025-09-11 14:00:00",
+      "content": "Introduction With an uncontrolled increase in deforestation and the growth of human populations in urban and rural areas, global warming has converted different vector-borne agents into the most cri\u2026 [+71374 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.588487",
+      "internal_id": "6cde454b33fd3fae83273ede734c388ab6f1ed5806605eba5f208e3d3582eef0",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24472,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xiaofeng Xu, Xiaohong Su, Weipeng Li, Li Xu, Dongcheng Li, Kai Dai, Junyu Liu, Jia Liu, Fuhua Peng, Ying Jiang",
+      "title": "Clinical features and mortality risk factors in non-HIV elderly patients with cryptococcal meningitis: A retrospective cohort study from 2013 to 2022",
+      "description": "Authors\u2019 summary Cryptococcal meningitis (CM) is a life-threatening fungal infection increasingly recognized in non-HIV (human immunodeficiency virus) elderly populations, yet its clinical characteristics and prognostic factors remain poorly understood. In th\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013521",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013521.g006&size=inline",
+      "publishedAt": "2025-09-11 14:00:00",
+      "content": "Citation: Xu X, Su X, Li W, Xu L, Li D, Dai K, et al. (2025) Clinical features and mortality risk factors in non-HIV elderly patients with cryptococcal meningitis: A retrospective cohort study from 2\u2026 [+25849 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.944378",
+      "internal_id": "65b31eb6b4561fe478ff8e92aef5f508039f6e7cf546d8ed09118a96f72cfce4",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24473,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Claudia Gaither, Camille Morgan, Rebecca Kirby, Corine Karema, Pierre Gashema, Jenna Zuromski, Samuel J. White, Hillary M. Topazian, David Giesbrecht, Kyaw Thwai, Neeva Wernsman Young, Varun Goel, Koby Boyter, Tharcisse Munyaneza, Claude Mambo Muvunyi, Jean De Dieu Butera, Jeffrey A. Bailey, Jean-Baptiste Mazarati, Jonathan J. Juliano",
+      "title": "Prevalence of asymptomatic non-falciparum and falciparum malaria in the 2014-15 Rwanda Demographic Health Survey",
+      "description": "Background Recent molecular surveillance suggests an unexpectedly high prevalence of non-falciparum malaria in Africa. Malaria control is also challenged by undetected asymptomatic P. falciparum malaria resulting in an undetectable reservoir for potential tra\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330480",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0330480.g004&size=inline",
+      "publishedAt": "2025-09-11 14:00:00",
+      "content": "Abstract Background Recent molecular surveillance suggests an unexpectedly high prevalence of non-falciparum malaria in Africa. Malaria control is also challenged by undetected asymptomatic P. falc\u2026 [+45877 chars]",
+      "retrievedAt": "2025-09-12 19:05:42.219681",
+      "internal_id": "221efee0ecbea2e1f69c489339670482776e9d45f6848ca42c805eb1f6fd74e0",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24474,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Drew Capone, Nuzrath Jahan, Ruth Namazzi, Robert O. Opoka, Chandy C. John",
+      "title": "Low prevalence of helminth infection in Ugandan children hospitalized with severe malaria",
+      "description": "Co-infection by intestinal helminths and Plasmodium spp. may be common in endemic communities. In 2003, Uganda instituted a national deworming program, with anti-helminth medication provided twice annually to children 6 months to 5 years of age, but few follo\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332246",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332246.t001&size=inline",
+      "publishedAt": "2025-09-11 14:00:00",
+      "content": "Abstract Co-infection by intestinal helminths and Plasmodium spp. may be common in endemic communities. In 2003, Uganda instituted a national deworming program, with anti-helminth medication provide\u2026 [+34710 chars]",
+      "retrievedAt": "2025-09-12 19:05:42.228659",
+      "internal_id": "7de1575920117970eb10fdf8994eddc0146e7e5fcc4e335c95c02cdb8e0e0409",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24478,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ying-Shu Liao, Yu-Ping Hong, Bo-Han Chen, You-Wun Wan, Ru-Hsiou Teng, Shiu-Yun Liang, Hsiao Lun Wei, Jui-Hsien Chang, Ming-Hao Yang, Chi-Sen Tsao, Chien-Shun Chiou",
+      "title": "Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan",
+      "description": "Author summary Paratyphoid fever, caused by Salmonella enterica serovar Paratyphi A (S. Paratyphi A), is typically associated with endemic regions in South and Southeast Asia. In Taiwan, the disease has historically been rare and primarily linked to imported \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013048.g005&size=inline",
+      "publishedAt": "2025-09-11 14:00:00",
+      "content": "Abstract Background Salmonella enterica serovar Paratyphi A (S. Paratyphi A) has emerged as a significant global health concern due to the progressive development of antimicrobial resistance and it\u2026 [+46388 chars]",
+      "retrievedAt": "2025-09-12 19:05:43.359848",
+      "internal_id": "6a2c9cec84f9cba6d38ef8e8473f5f0e7fb0bab813fef8bb33c876c8fd7116aa",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24476,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Co-Diagnostics performs in silico analysis of primers sets for chikungunya virus",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4196843/CODX-CoDiagnostics-performs-in-silico-analysis-of-primers-sets-for-chikungunya-virus",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-09-11 13:46:01",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-09-12 19:05:42.826146",
+      "internal_id": "c9aac6a7290e15ad3c7daef66675191ee37d5ed87ce248cec700e9a9a31494fa",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24465,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u0418\u043d\u0433\u0435\u043b\u0430 \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432\u0430",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u043e\u0437\u0434\u0430\u043b\u0438 \u043d\u043e\u0432\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043e\u0442 \u0433\u0440\u0438\u043f\u043f\u0430 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0430\u043b\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f",
+      "description": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u0446\u0435\u043d\u0442\u0440\u0430 \u0432\u0438\u0440\u0443\u0441\u043e\u043b\u043e\u0433\u0438\u0438 \u00ab\u0412\u0435\u043a\u0442\u043e\u0440\u00bb \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u043a\u043e\u043b\u043b\u0435\u0433\u0430\u043c\u0438 \u0438\u0437 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u0438\u0431\u0438\u0440\u0441\u043a\u043e\u0433\u043e \u0431\u043e\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u0430\u0434\u0430 \u0421\u041e \u0420\u0410\u041d \u0437\u0430\u043f\u0430\u0442\u0435\u043d\u0442\u043e\u0432\u0430\u043b\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0433\u0440\u0438\u043f\u043f\u043e\u0437\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435. \u041e\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043e \u0438\u0437 \u044d\u043a\u0441\u0442\u0440\u0430\u043a\u0442\u0430 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f \u0421\u0430\u0431\u0435\u043b\u044c\u043d\u0438\u043a \u0417\u0430\u043b\u0435\u0441\u043e\u0432\u0430, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0440\u0430\u0441\u0442\u0435\u0442 \u0432 \u0413\u043e\u0440\u043d\u043e\u043c \u0410\u043b\u0442\u0430\u0435.",
+      "url": "https://www.ferra.ru/news/v-rossii/v-rossii-sozdali-novoe-sredstvo-ot-grippa-na-osnove-altaiskogo-rasteniya-11-09-2025.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2025/09/11/13/6892330/765ffa8f081c4657d6a828c594bea8ce0c74d033.jpeg",
+      "publishedAt": "2025-09-11 13:17:30",
+      "content": ", . , , . A/H3N2 (\u00ab \u00bb), , A/H5N1. , . . \u00ab\u00bb. .",
+      "retrievedAt": "2025-09-12 19:05:41.146399",
+      "internal_id": "6733c5e3d0218f2db6c1ade8f4b6322288fb1fdc3d69f2dd6d441e9c02b9f271",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24471,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Denisa Dole\u017ealov\u00e1",
+      "title": "Nov\u00e9 laborato\u0159e budou v Ostrav\u011b zkoumat viry i spolupr\u00e1ci \u010dlov\u011bka s roboty",
+      "description": "Na dvou ostravsk\u00fdch univerzit\u00e1ch vznik\u00e1 z\u00e1zem\u00ed \u0161pi\u010dkov\u00fdch laborato\u0159\u00ed. V jedn\u00e9 budou odborn\u00edci se studenty zkoumat viry a parazity, ve druh\u00e9 spolupr\u00e1ci mezi \u010dlov\u011bkem a robotem. Virologick\u00e1 laborato\u0159 bude vybudov\u00e1na ve v\u011bdeck\u00e9m centru LERCO Ostravsk\u00e9 univerzity\u2026",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-nove-laboratore-budou-v-ostrave-zkoumat-viry-i-spolupraci-cloveka-s-roboty-40537905",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_od_A/nO2tpF5hUIDPgDaWeES3MEZ/fbf0/ostrava-vysoka-skola-banska-roboti-laboratore.jpeg?fl=cro,0,51,1000,562%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-09-11 12:46:01",
+      "content": "Klimatick\u00e9 zmny pin\u00e1ej\u00ed do Evropy nov\u00e9 typy patogen. Nap\u00edklad kom\u00e1r tygrovan\u00fd, penae vir, jako je dengue a zika, byl ji pozorov\u00e1n i na jin\u00ed Morav. Anal\u00fdzy vzork z posledn\u00edch let potvrzuj\u00ed, e viry a p\u2026 [+3234 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.613825",
+      "internal_id": "c4fc2a1ac43f023f31f9b2528ef6403262a95dd29269c8b0ac53d85e4c70d023",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24466,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "Brasil cr\u00eda mosquitos \u201caliados\u201d para frenar el dengue y el zika",
+      "description": "Una biof\u00e1brica en Curitiba produce hasta 100 millones de mosquitos portadores de la bacteria Wolbachia cada semana. Estos insectos no transmiten dengue, zika ni chikungunya y, al reproducirse con los silvestres, generan generaciones \u201cinmunes\u201d. El proyecto ya \u2026",
+      "url": "https://es.gizmodo.com/brasil-cria-mosquitos-aliados-para-frenar-el-dengue-y-el-zika-2000191459",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-63-1200x675.jpg",
+      "publishedAt": "2025-09-11 12:45:47",
+      "content": "La escena parece sacada de una novela de ciencia ficci\u00f3n: millones de mosquitos criados en laboratorio para salvar vidas. Sin embargo, es la apuesta real de Brasil para combatir el dengue, el zika y \u2026 [+2113 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.515449",
+      "internal_id": "59d3ca155918dd6af719f4ddaa5c10401c2c164a8c79418d5968483b58f7a0c8",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24467,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Aar\u00f3n Araiza",
+      "title": "Alertan por posibles brotes de dengue en Sonora despu\u00e9s de las lluvias 'Lorena'",
+      "description": "Despu\u00e9s del paso de la tormenta 'Lorena' en Sonora, la Secretar\u00eda de Salud exhort\u00f3 a la poblaci\u00f3n a redoblar esfuerzos en contra del dengue",
+      "url": "https://www.tribuna.com.mx/sonora/2025/9/11/alertan-por-posibles-brotes-de-dengue-en-sonora-despues-de-las-lluvias-lorena-413178.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/9/11/f1280x720-468561_600236_5050.png",
+      "publishedAt": "2025-09-11 12:00:00",
+      "content": "Hermosillo, Sonora.- La Secretar\u00eda de Salud en Sonora exhort\u00f3 a la poblaci\u00f3n a redoblar esfuerzos en contra del dengue, ante la confirmaci\u00f3n de m\u00e1s de 600 casos durante el 2025 en la entidad. Univers\u2026 [+1089 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.540153",
+      "internal_id": "918cb9d1e369d342b9677d13ba3b955887a44714d16a3c7eae9f036793220ae4",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24475,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Leila van Rinsum",
+      "title": "Aids, Tuberkulose und Malaria: \u201eWir laufen Gefahr, die Kontrolle zu verlieren\u201c",
+      "description": "K\u00fcrzungen bei globaler Gesundheit kosten Menschenleben, sagt Peter Sands, Chef vom Globalen Fonds. Ein neues Mittel k\u00f6nnte die HIV-Pandemie beenden.",
+      "url": "https://taz.de/Aids-Tuberkulose-und-Malaria/!6109382/",
+      "urlToImage": "https://taz.de/picture/7923819/1200/39198644-1.jpeg",
+      "publishedAt": "2025-09-11 10:00:00",
+      "content": "K\u00fcrzungen bei globaler Gesundheit kosten Menschenleben, sagt Peter Sands, Chef vom Globalen Fonds. Ein neues Mittel k\u00f6nnte die HIV-Pandemie beenden. mehr...",
+      "retrievedAt": "2025-09-12 19:05:42.259914",
+      "internal_id": "4892c1ae284177ceeb0f5f586d5cfa1a44d25638961aa8b127fd28ea12901617",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24468,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Teena Thacker",
+      "title": "Health Ministry reviews dengue and malaria situation, asks states to prepare action plans in 20 days",
+      "description": "The Union Health Ministry has issued an advisory to state chief ministers, urging heightened vigilance and intensified preventive measures against dengue and malaria in the coming months. Health Minister J. P. Nadda reviewed the situation, emphasizing the nee\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/health-ministry-reviews-dengue-and-malaria-situation-asks-states-to-prepare-action-plans-in-20-days/articleshow/123827667.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123827692,width-1200,height-630,imgsize-34406,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-11 09:34:38",
+      "content": "The Union Health Ministry on Thursday issued an advisory to state chief ministers urging them to remain vigilant in the coming months and to intensify preventive measures as well as community awarene\u2026 [+1731 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.565204",
+      "internal_id": "4b2b462766b093eeae5f505a9a3bbaedf9a66dc4e7dbff8e28b7febd9e509e68",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24462,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Delhi's big plan for stray dogs: microchips, rabies drive, and more",
+      "description": "The Delhi government is set to microchip one million street dogs and regulate pet shops as part of new animal welfare measures. A state action plan on rabies will be rolled out, focusing on prevention and digitized vaccination records. The initiative aims to \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/delhis-big-plan-for-stray-dogs-microchips-rabies-drive-and-more/articleshow/123827387.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123827398,width-1200,height-630,imgsize-70914,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-11 09:21:35",
+      "content": "The Delhi government will microchip 10 lakh street dogs, regulate pet shops and roll out a state action plan on rabies as part of new animal welfare measures, officials said on Wednesday. The decisio\u2026 [+2801 chars]",
+      "retrievedAt": "2025-09-12 19:05:40.081663",
+      "internal_id": "32101263253a4f00df25dca49462231a3d7877224a1f7164fddbdd379e043201",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 24470,
+      "query": [
+        "dengue",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express News Service",
+      "title": "Cholera, typhoid, viral infections: Delhi hospitals see spike in monsoon illnesses",
+      "description": "Doctors have cautioned that as floodwaters recede post the rain, a rise in dengue cases is expected.",
+      "url": "https://indianexpress.com/article/cities/delhi/cholera-viral-infections-delhi-hospitals-spike-monsoon-illnesses-10243379/",
+      "urlToImage": "https://images.indianexpress.com/2025/09/delhi-hospitals.jpg",
+      "publishedAt": "2025-09-11 07:07:51",
+      "content": "Hospitals across Delhi have been reporting an increase in cases of viral and upper respiratory infections, and water-borne diseases such as cholera amid the heavy rainfall in the city. While doctors \u2026 [+2733 chars]",
+      "retrievedAt": "2025-09-12 19:05:41.597547",
+      "internal_id": "f7363a41dc5f26c16057c0e721160508c2450a0449535fc8ca976dc82eea3964",
+      "publishedAtLabel": "Sep 11"
+    },
     {
       "id": 24457,
       "query": [
@@ -21189,42 +21518,6 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23290,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
-      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
-      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
-      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
-      "publishedAt": "2025-07-27 15:28:15",
-      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
-      "retrievedAt": "2025-07-28 19:08:08.689588",
-      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
-      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
-      "url": "https://english.khabarhub.com/2025/27/487788/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-27 07:45:39",
-      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
-      "retrievedAt": "2025-07-28 19:08:07.939142",
-      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

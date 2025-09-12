@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-09-12 07:07
-- **Most recent article:** 2025-09-11 05:45:15
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-09-12 19:05
+- **Most recent article:** 2025-09-11 19:05:23
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 12 | 350 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 18 | 228 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 13 | 205 |
-| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 3 | 105 |
-| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 4 | 104 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 10 | 101 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 4 | 50 |
-| zika | 7 | 8 | 9 | 7 | 8 | 4 | 3 | 46 |
-| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 3 | 34 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 14 | 351 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 20 | 230 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 19 | 211 |
+| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 4 | 106 |
+| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 5 | 105 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 14 | 104 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 5 | 51 |
+| zika | 7 | 8 | 9 | 7 | 8 | 4 | 5 | 48 |
+| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 4 | 35 |
 | yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 3 | 33 |
+| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 4 | 8 |
 | hpai | 0 | 3 | 0 | 1 | 1 | 1 | 2 | 8 |
+| leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 1 | 7 |
 | pertussis | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 7 |
-| typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 2 | 6 |
-| leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-37 (zika)
+
+- [Nové laboratoře budou v Ostravě zkoumat viry i spolupráci člověka s roboty](https://www.novinky.cz/clanek/veda-skoly-nove-laboratore-budou-v-ostrave-zkoumat-viry-i-spolupraci-cloveka-s-roboty-40537905) (Novinky.cz)
+
+- [Brasil cría mosquitos “aliados” para frenar el dengue y el zika](https://es.gizmodo.com/brasil-cria-mosquitos-aliados-para-frenar-el-dengue-y-el-zika-2000191459) (Gizmodo.com)
 
 - [Meia Maratona Metrópoles: vila terá shows de Rainner e DJ Nilo Zika](https://www.metropoles.com/esportes/meia-maratona-metropoles-vila-tera-shows-de-rainner-e-dj-nilo-zika) (Metropoles.com)
 
@@ -50,11 +54,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (typhoid)
 
+- [Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048) (Plos.org)
+
+- [Cholera, typhoid, viral infections: Delhi hospitals see spike in monsoon illnesses](https://indianexpress.com/article/cities/delhi/cholera-viral-infections-delhi-hospitals-spike-monsoon-illnesses-10243379/) (The Indian Express)
+
 - [Diversity of Salmonella enterica isolates from urban river and sewage water in Blantyre, Malawi](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012413) (Plos.org)
 
 - [Comparative Epidemiology of Salmonella Paratyphi A and Salmonella Typhi Causing Enteric Fever, Bangladesh, 2018–2020](https://wwwnc.cdc.gov/eid/article/31/10/24-1601_article) (Cdc.gov)
 
 ## 25-37 (rabies)
+
+- [Delhi's big plan for stray dogs: microchips, rabies drive, and more](https://economictimes.indiatimes.com/news/india/delhis-big-plan-for-stray-dogs-microchips-rabies-drive-and-more/articleshow/123827387.cms) (The Times of India)
 
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
 
@@ -63,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
+
+- [Pelo menos 99 mortos em quase 450 mil casos de Malária](https://observador.pt/2025/09/11/pelo-menos-99-mortos-em-quase-450-mil-casos-de-malaria-no-norte-de-mocambique/) (Observador.pt)
 
 - [Prolonged Monkeypox Virus Infections, California, USA, May 2022–August 2024](https://wwwnc.cdc.gov/eid/article/31/10/25-0507_article) (Cdc.gov)
 
@@ -74,6 +86,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (meningitis)
 
+- [Clinical features and mortality risk factors in non-HIV elderly patients with cryptococcal meningitis: A retrospective cohort study from 2013 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013521) (Plos.org)
+
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
 
 - [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
@@ -81,6 +95,10 @@ Source: [News API](https://newsapi.org/)
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
+
+- [Child dies from measles-related complication, LA County Public Health officials say](https://abc7.com/post/child-dies-measles-related-complication-la-county-public-health-officials-say/17794893/) (KABC-TV)
+
+- [People Are Sharing The "Biggest Myths" Everyone Still Believes, And My Jaw Is On The Floor](https://www.buzzfeed.com/trendyghost618/biggest-myths-people-still-believe) (Buzzfeed)
 
 - [Bali travellers urged to get vaccinated amid new measles outbreak](https://www.abc.net.au/news/2025-09-11/measles-outbreak-declared-in-cairns/105762482) (ABC News (AU))
 
@@ -120,6 +138,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (malaria)
 
+- [Prevalence of asymptomatic non-falciparum and falciparum malaria in the 2014-15 Rwanda Demographic Health Survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330480) (Plos.org)
+
+- [Low prevalence of helminth infection in Ugandan children hospitalized with severe malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332246) (Plos.org)
+
+- [Aids, Tuberkulose und Malaria: „Wir laufen Gefahr, die Kontrolle zu verlieren“](https://taz.de/Aids-Tuberkulose-und-Malaria/!6109382/) (taz.de)
+
+- [Health Ministry reviews dengue and malaria situation, asks states to prepare action plans in 20 days](https://economictimes.indiatimes.com/news/india/health-ministry-reviews-dengue-and-malaria-situation-asks-states-to-prepare-action-plans-in-20-days/articleshow/123827667.cms) (The Times of India)
+
 - [Malaria amidst the COVID-19 pandemic in Gabon: an application of autoregressive integrated moving average (ARIMA) models within an interrupted time series (ITS) framework to hospital-based data](http://eprints.lse.ac.uk/129468/) (Lse.ac.uk)
 
 - [Determinants of access to insecticide-treated nets in Sub-Saharan Africa: A multilevel cross-country analysis using 29 DHS data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330431) (Plos.org)
@@ -140,6 +166,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
+## 25-37 (leptospirosis)
+
+- [Leptospirosis death reported as Chicago issues health alert](https://www.nbcchicago.com/news/local/death-reported-as-chicago-issues-health-alert-for-leptospirosis/3822785/) (NBC Chicago)
+
 ## 25-37 (hpai)
 
 - [South Dakota Kills Over 100,000 Turkeys Because Of Bird Flu](https://www.shtfplan.com/headline-news/south-dakota-kills-over-100000-turkeys-because-of-bird-flu) (Shtfplan.com)
@@ -147,6 +177,8 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI Launches HelportGo App](https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html) (GlobeNewswire)
 
 ## 25-37 (h5n1)
+
+- [В России создали новое средство от гриппа на основе алтайского растения](https://www.ferra.ru/news/v-rossii/v-rossii-sozdali-novoe-sredstvo-ot-grippa-na-osnove-altaiskogo-rasteniya-11-09-2025.htm) (Ferra.ru)
 
 - [В РФ получили перспективное соединение против гриппа на основе лекарственного растения](https://tass.ru/nauka/25021911) (Tass.ru)
 
@@ -157,6 +189,18 @@ Source: [News API](https://newsapi.org/)
 - [Scientists Now Testing Bird Flu Vaccine for Seals](https://www.newser.com/story/374904/scientists-now-testing-bird-flu-vaccine-for-seals.html) (Newser)
 
 ## 25-37 (dengue)
+
+- [Early events in dengue virus infection inducing cytokine storm: The dynamic interplay of pattern-recognition receptors, inflammasome activation, and biphasic NF-κB and STAT1-dependent inflammatory responses in human mononuclear phagocytes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013366) (Plos.org)
+
+- [Nové laboratoře budou v Ostravě zkoumat viry i spolupráci člověka s roboty](https://www.novinky.cz/clanek/veda-skoly-nove-laboratore-budou-v-ostrave-zkoumat-viry-i-spolupraci-cloveka-s-roboty-40537905) (Novinky.cz)
+
+- [Brasil cría mosquitos “aliados” para frenar el dengue y el zika](https://es.gizmodo.com/brasil-cria-mosquitos-aliados-para-frenar-el-dengue-y-el-zika-2000191459) (Gizmodo.com)
+
+- [Alertan por posibles brotes de dengue en Sonora después de las lluvias 'Lorena'](https://www.tribuna.com.mx/sonora/2025/9/11/alertan-por-posibles-brotes-de-dengue-en-sonora-despues-de-las-lluvias-lorena-413178.html) (Tribuna.com.mx)
+
+- [Health Ministry reviews dengue and malaria situation, asks states to prepare action plans in 20 days](https://economictimes.indiatimes.com/news/india/health-ministry-reviews-dengue-and-malaria-situation-asks-states-to-prepare-action-plans-in-20-days/articleshow/123827667.cms) (The Times of India)
+
+- [Cholera, typhoid, viral infections: Delhi hospitals see spike in monsoon illnesses](https://indianexpress.com/article/cities/delhi/cholera-viral-infections-delhi-hospitals-spike-monsoon-illnesses-10243379/) (The Indian Express)
 
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
@@ -185,6 +229,10 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Co-Diagnostics performs in silico analysis of primers sets for chikungunya virus](https://thefly.com/permalinks/entry.php/id4196843/CODX-CoDiagnostics-performs-in-silico-analysis-of-primers-sets-for-chikungunya-virus) (Thefly.com)
+
+- [Brasil cría mosquitos “aliados” para frenar el dengue y el zika](https://es.gizmodo.com/brasil-cria-mosquitos-aliados-para-frenar-el-dengue-y-el-zika-2000191459) (Gizmodo.com)
 
 - [Chikungunya : des foyers plus nombreux et de plus en plus importants en France métropolitaine](https://www.lemonde.fr/planete/article/2025/09/10/une-annee-record-pour-le-chikungunya-en-france-metropolitaine_6640318_3244.html) (Le Monde)
 
@@ -2626,8 +2674,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2767,5 +2813,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
