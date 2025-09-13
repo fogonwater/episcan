@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-09-12 19:05
-- **Most recent article:** 2025-09-11 19:05:23
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-09-13 07:05
+- **Most recent article:** 2025-09-12 06:23:44
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 14 | 351 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 20 | 230 |
+| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 14 | 352 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 31 | 241 |
 | dengue | 32 | 17 | 25 | 62 | 40 | 16 | 19 | 211 |
-| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 4 | 106 |
+| rabies | 10 | 11 | 27 | 39 | 6 | 9 | 5 | 107 |
 | mpox | 13 | 10 | 7 | 5 | 7 | 58 | 5 | 105 |
-| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 14 | 104 |
+| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 14 | 105 |
 | h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 5 | 51 |
 | zika | 7 | 8 | 9 | 7 | 8 | 4 | 5 | 48 |
-| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 4 | 35 |
+| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 5 | 36 |
 | yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 3 | 33 |
 | typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 4 | 8 |
 | hpai | 0 | 3 | 0 | 1 | 1 | 1 | 2 | 8 |
@@ -64,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (rabies)
 
+- [Rabies alert issued for Alachua County after infected cat found](https://www.wcjb.com/2025/09/11/rabies-alert-issued-alachua-county-after-infected-cat-found/) (Wcjb.com)
+
 - [Delhi's big plan for stray dogs: microchips, rabies drive, and more](https://economictimes.indiatimes.com/news/india/delhis-big-plan-for-stray-dogs-microchips-rabies-drive-and-more/articleshow/123827387.cms) (The Times of India)
 
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
@@ -86,6 +88,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (meningitis)
 
+- [Meningitis, enfermedad de las encías y hasta parásitos estomacales: las infecciones que pueden transmitirse con un beso](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/09/11/meningitis-enfermedad-encias-parasitos-estomacales-infecciones-pueden-transmitirse-beso/00031757605267164376441.htm) (Lavozdegalicia.es)
+
 - [Clinical features and mortality risk factors in non-HIV elderly patients with cryptococcal meningitis: A retrospective cohort study from 2013 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013521) (Plos.org)
 
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
@@ -95,6 +99,28 @@ Source: [News API](https://newsapi.org/)
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
+
+- [Gov't ensures that Jakarta measles case does not surge significantly](https://en.antaranews.com/news/379477/govt-ensures-that-jakarta-measles-case-does-not-surge-significantly) (Antaranews.com)
+
+- [Los Angeles child dies from rare measles complication years after recovery (Aria Bendix/NBC News)](https://www.memeorandum.com/250911/p186) (Memeorandum.com)
+
+- [Los Angeles County child dies from complications caused by measles infection, public health officials say](https://www.cbsnews.com/losangeles/news/los-angeles-county-child-measles-death/) (CBS News)
+
+- [California child dies of rare measles complication years after infection](https://www.kcra.com/article/california-child-dies-rare-measles-complication/66057744) (KCRA Sacramento)
+
+- [Los Angeles County child dies of rare measles complication years after infection | CNN](https://www.cnn.com/2025/09/11/health/measles-california-child-sspe) (CNN)
+
+- [Child dies from complication of measles contracted years earlier](https://apnews.com/article/measles-mmr-los-angeles-subacute-sclerosing-panencephalitis-219e43a0ef1546db043f4e891b3e441d) (Associated Press)
+
+- [Child dies from complication of measles contracted years earlier](https://abcnews.go.com/Health/wireStory/child-dies-complication-measles-contracted-years-earlier-125494483) (ABC News)
+
+- [Child dies from complication of measles contracted years earlier](https://www.bostonherald.com/2025/09/11/measles-complication-death/) (Boston Herald)
+
+- [Los Angeles child dies from rare measles complication years after recovery](https://www.nbcnews.com/health/health-news/los-angeles-child-dies-rare-measles-complication-years-after-recovery-rcna230675) (NBC News)
+
+- [Students may have been exposed to measles during first week back at Winnipeg school, province says](https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-carpathia-school-1.7631600) (CBC News)
+
+- [7NEWS live updates: Woman killed in head-on collision](https://7news.com.au/news/7news-live-updates-woman-killed-in-head-on-collision-britain-sacks-us-ambassador-over-epstein-links-c-19992835) (7NEWS.com.au)
 
 - [Child dies from measles-related complication, LA County Public Health officials say](https://abc7.com/post/child-dies-measles-related-complication-la-county-public-health-officials-say/17794893/) (KABC-TV)
 
@@ -2674,6 +2700,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
+- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
+
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2813,3 +2841,5 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
+
+- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
