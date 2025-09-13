@@ -1,8 +1,334 @@
 {
-  "last_updated": "2025-09-13 07:05",
-  "count_articles_total": 1204,
-  "count_articles_new": 13,
+  "last_updated": "2025-09-13 19:05",
+  "count_articles_total": 1220,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 24497,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Wsbtv.com News Staff",
+      "title": "Measles confirmed in metro Atlanta; people possibly exposed at university, restaurant, soccer match",
+      "description": "The Georgia Department of Health confirmed someone had been infected with measles, and had not traveled out of the United States before contracting the disease.",
+      "url": "https://www.wsbtv.com/news/local/fulton-county/measles-confirmed-metro-atlanta-people-possibly-exposed-university-restaurant-soccer-match/A6M5XGITPJDHRKRUCRWZV5VD7Y/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGJHPR6SGABGS5FFS775JIXOZIU.jpg?auth=b04c0c8f355e446bea9d43c141a9bd8e1e718c91b2d23bcb9e69695c6a8b8487&width=1200&height=630&smart=true",
+      "publishedAt": "2025-09-12 18:16:39",
+      "content": "ATLANTA \u2014 The Georgia Department of Health confirmed someone had been infected with measles, and had not traveled out of the United States before contracting the disease. According to officials, the\u2026 [+1253 chars]",
+      "retrievedAt": "2025-09-13 19:05:29.493717",
+      "internal_id": "fa32d097cc03b1f708920c1213592301090d80632579eaded4c689a3652c431d",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24493,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Andrea Thompson",
+      "title": "Measles Death Shows How Virus Can Hide in the Brain for Years",
+      "description": "A child in Los Angeles County has died from a rare but always fatal brain disorder that develops years after a measles infection. Experts underscore the need for vaccination to protect the most vulnerable",
+      "url": "https://www.scientificamerican.com/article/measles-death-shows-how-virus-can-hide-in-the-brain-for-years/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/4b35e442895a0dad/original/subacute_sclerosing_panencephalitis_mri.jpg?m=1757694142.376&w=1200",
+      "publishedAt": "2025-09-12 16:50:00",
+      "content": "A school-aged child in Los Angeles County has died from a rare but always fatal complication from a measles infection they acquired when they were an infant who was too young to be vaccinated. The fi\u2026 [+5056 chars]",
+      "retrievedAt": "2025-09-13 19:05:29.360791",
+      "internal_id": "48556685fdec9aa58daca47f1be43f9ead9bd0ac21412673786e536fa8bf1991",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24509,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "In 2022, the name 'monkeypox' was rejected as inapt. Now the U.S. is reviving it",
+      "description": "The World Health Organization nixed the name \"monkeypox.\" The virus is spread by rodents and small mammals. And there's a stigma factor. Mpox took its place. Why has the U.S. returned to \"monkeypox\"?",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/09/12/g-s1-88287/mpox-monkeypox-virus-stigma",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+162/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2Fd8%2F55409eab4f98a1d13585e57b3781%2Fgettyimages-1415047424.jpg",
+      "publishedAt": "2025-09-12 15:01:33",
+      "content": "In 2022, the medical establishment and public health world nixed the name \"monkeypox\" for two key reasons. Animal-to-human transmission comes from rodents. And the name \"monkeypox\" was seen as racist\u2026 [+7204 chars]",
+      "retrievedAt": "2025-09-13 19:05:32.063493",
+      "internal_id": "5cf396cb307628f09f27654ade1cc79340956eac20dd5a8922995c89dc1fa951",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24505,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.com",
+      "author": "christianperez",
+      "title": "Vivieron hace 160.000 a\u00f1os y se extinguieron, pero su ADN podr\u00eda hacer que algunas personas sean resistentes a la malaria",
+      "description": "Un nuevo estudio revela que genes heredados de los denisovanos podr\u00edan haber reforzado la resistencia a la malaria en poblaciones actuales del sudeste asi\u00e1tico.",
+      "url": "https://www.muyinteresante.com/historia/vivieron-hace-160-000-anos-y-se-extinguieron-pero-su-adn-podria-hacer-que-algunas-personas-sean-resistentes-a-la-malaria.html",
+      "urlToImage": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/09/adn-denisovano-malaria.genes-hallazgo-og.jpg",
+      "publishedAt": "2025-09-12 14:11:09",
+      "content": "Publicado por Christian P\u00e9rez Redactor especializado en divulgaci\u00f3n cient\u00edfica e hist\u00f3rica Creado: 12.09.2025 | 16:11 Actualizado: 12.09.2025 | 16:11 Un linaje humano extinto hace decenas de m\u2026 [+5219 chars]",
+      "retrievedAt": "2025-09-13 19:05:31.208412",
+      "internal_id": "85860e630d692b5d5347912de30bd7630e1c67d82bf514427a52fba27e006708",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24503,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hiroka Aonuma, Aboubacar Sombi\u00e9, Jian-Chiuan Li, Manabu Ote, Erisha Saiki, Hidetoshi Ichimura, Itoe Iizuka, Taichi Odagawa, Tatsuya Sakurai, Kayoko Yamaji, Masayuki Saijo, Chun-Hong Chen, Athanase Badolo, Hirotaka Kanuka",
+      "title": "Dissecting the dynamics of virus-derived DNA of dengue virus 2 (DENV-2) in Aedes mosquitoes",
+      "description": "Dengue is one of the neglected tropical diseases (NTDs) transmitted by Aedes mosquitoes and continues to spread globally. When mosquitoes are infected with dengue virus (DENV), virus-derived DNA (vDNA) is generated in mosquitoes, which subsequently contribute\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332245",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332245.g004&size=inline",
+      "publishedAt": "2025-09-12 14:00:00",
+      "content": "Abstract Dengue is one of the neglected tropical diseases (NTDs) transmitted by Aedes mosquitoes and continues to spread globally. When mosquitoes are infected with dengue virus (DENV), virus-derive\u2026 [+45682 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.665225",
+      "internal_id": "03ce444c1e3a029043021287af9d2b5bd4b736d350bcf1e7901376fd79168629",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24504,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Megan I. Hayes, Sumedha Ravishankar, Tariq Qayum, Victor Nizet, Cressida A. Madigan",
+      "title": "Transient vascular occlusions in a zebrafish model of mycobacterial brain infection",
+      "description": "Mycobacterial brain infection, for example tuberculous meningitis (TBM), caused by Mycobacterium tuberculosis, is a severe manifestation of tuberculosis that occurs when the bacteria invade the brain. In addition to extensive inflammation, vascular complicati\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332161",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332161.g004&size=inline",
+      "publishedAt": "2025-09-12 14:00:00",
+      "content": "Citation: Hayes MI, Ravishankar S, Qayum T, Nizet V, Madigan CA (2025) Transient vascular occlusions in a zebrafish model of mycobacterial brain infection. PLoS One 20(9): e0332161. https://doi.or\u2026 [+32472 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.915806",
+      "internal_id": "589df06e5c617b2b9a3cd3203291cfa7aa41021fb0760e136e9db8c22aa25ce4",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24508,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rickyle Balea, Alberto A. Amarilla, Jody Hobson-Peters, Joanne Macdonald, Andreas Suhrbier, Vasilli M. Kasimov, Daniel Watterson, Nina M. Pollak, David J. McMillan",
+      "title": "Development and proof of concept evaluation for a low resource compatible Chikungunya virus diagnostic",
+      "description": "Author summary There is currently a significant concern expressed by various global health organisations (WHO, CDC EMA etc) that the next pandemic could be caused by an arbovirus. The emergence and/or re-emergence of arboviruses such as Chikungunya virus (CHI\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012352",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012352.g005&size=inline",
+      "publishedAt": "2025-09-12 14:00:00",
+      "content": "Abstract Chikungunya virus (CHIKV) is a positive sense RNA Alphavirus that continuous to pose major public health threats throughput the world. CHIKV is primarily transmitted via the Aedes genus mos\u2026 [+47147 chars]",
+      "retrievedAt": "2025-09-13 19:05:31.850289",
+      "internal_id": "c2453f03e82c7fe6d419681e504fe7c7666e99cd7b99cf65c224f3bc6d07f3dd",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24510,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aigul A. Abdirassilova, Duman T. Yessimseit, Altynai K. Kassenova, Beck Z. Abdeliyev, Zauresh B. Zhumadilova, Gulnara Zh. Tokmurziyeva, Galina G. Kovaleva, Ziyat Zh. Abdel, Tatiyana V. Meka-Mechenko, Saule K. Umarova, Elmira Zh. Begimbayeva, Sanzhar D. Agzam, Vladimir L. Motin, Oleg N. Reva, Altyn K. Rysbekova",
+      "title": "Whole genome sequencing of Yersinia pestis isolates from Central Asian natural plague foci revealed the role of adaptation to different hosts and environmental conditions in shaping specific genotypes",
+      "description": "Author summary The central hypothesis of this study was that genetic variation in Y. pestis may correlate with host or environmental origin potentially obscuring clonal ancestry, thereby facilitating pathogen surveillance and offering new insights into its ev\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013533",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013533.g004&size=inline",
+      "publishedAt": "2025-09-12 14:00:00",
+      "content": "Introduction Plague outbreaks inspire fear in people due to the historical memory of three devastating epidemics: the Justinian Plague (541542 CE), which killed an estimated 2550 million people (aro\u2026 [+67937 chars]",
+      "retrievedAt": "2025-09-13 19:05:32.678080",
+      "internal_id": "f3ad45b7046c5b61911bc305e5d9d73ff455837f4bd080e06f3c8384eab57fbb",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24498,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Tierseuche: Wieder Vogelgrippe-Ausbruch im Landkreis Rostock",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eTierseuche\u201c. Lesen Sie jetzt \u201eWieder Vogelgrippe-Ausbruch im Landkreis Rostock\u201c.",
+      "url": "https://www.zeit.de/news/2025-09/12/wieder-vogelgrippe-ausbruch-im-landkreis-rostock",
+      "urlToImage": "https://img.zeit.de/news/2025-09/12/wieder-vogelgrippe-ausbruch-im-landkreis-rostock-image-group/wide__1300x731",
+      "publishedAt": "2025-09-12 13:41:13",
+      "content": "In einem Gefl\u00fcgelbetrieb in Zarnewanz im Landkreis Rostock ist erneut Vogelgrippe nachgewiesen worden. Es handele sich um eine Infektion mit dem hochansteckenden Virus-Subtyp H5N1, teilte der Landkre\u2026 [+1253 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.119049",
+      "internal_id": "a5ab04ee424e2cffb1d9937de68595d71e25a4858b71b27a628690c8c4f0fce9",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24499,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "El dengue avanza con el calor: 4,6 millones de casos extra cada a\u00f1o por el cambio clim\u00e1tico",
+      "description": "Un estudio de Stanford y Harvard confirma que el calentamiento global ya incrementa los casos de dengue en Am\u00e9rica y Asia. La investigaci\u00f3n estima que las temperaturas m\u00e1s altas generan 4,6 millones de infecciones adicionales cada a\u00f1o y proyecta aumentos de h\u2026",
+      "url": "https://es.gizmodo.com/el-dengue-avanza-con-el-calor-46-millones-de-casos-extra-cada-ano-por-el-cambio-climatico-2000191675",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-64-1200x675.jpg",
+      "publishedAt": "2025-09-12 12:20:57",
+      "content": "El dengue, enfermedad viral transmitida por el mosquito Aedes aegypti, encuentra en el aumento global de la temperatura un aliado inesperado. Una investigaci\u00f3n publicada en PNAS revela que el calenta\u2026 [+2622 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.552576",
+      "internal_id": "324b2ee18dad7e5b80e1e45f449db09731e3c99cbb55d0b6e7ef0b348e6cbeae",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24501,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Paludisme, dengue, chikungunya: voici les infections tropicales les plus fr\u00e9quentes chez les voyageurs belges au retour de vacances (infographie)",
+      "description": "Avec 314 cas recens\u00e9s jusqu'ici en 2025, le paludisme est l'infection tropicale la plus contract\u00e9e par les voyageurs belges, ressort-il d'une enqu\u00eate de l'Institut de m\u00e9decine tropicale (IMT) d'Anvers. ...",
+      "url": "https://www.lavenir.net/actu/societe/sante/2025/09/12/paludisme-dengue-chikungunya-voici-les-infections-tropicales-les-plus-frequentes-chez-les-voyageurs-belges-au-retour-de-vacances-infographies-UIVBM4Z6OJETPNHVPCMHXLJS2E/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/7XPUALF4KNBMJEQ5D3QFDUU7C4.jpg?auth=49ecbbf279f3b4fa59235f311c186eb8add0f06895733087cb9721e942650fe7&width=1200&height=630&quality=85&focal=2500%2C1870&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FFFSQSLL65ZFQTKEYFN6NTQS5R4.png%3A100%3A0%2C558",
+      "publishedAt": "2025-09-12 11:44:12",
+      "content": "Les voyageurs qui rentrent en Belgique avec une infection tropicale ont, dans la plupart des cas, contract\u00e9 le paludisme. C'est ce qui ressort de l'\u00e9valuation des vacances d'\u00e9t\u00e9 r\u00e9alis\u00e9e par l'Instit\u2026 [+544 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.609010",
+      "internal_id": "02532223e3973e250287cc79c915bb7e6057b533813ead6ac79832b83e18f87b",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24507,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "just-style.com",
+      "author": "Hannah Abdulla",
+      "title": "Mirum-maker Natural Fiber Welding to \u2018wind down\u2019 operations",
+      "description": "US-based sustainable biotech company, Natural Fiber Welding, is reportedly winding down operations.",
+      "url": "https://www.just-style.com/news/mirum-maker-natural-fiber-welding-to-wind-down-operations/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qLoYPVfjkZwyXucAvDyv9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/just_style_482/1b708595cb0767e332aa10690784b3ec",
+      "publishedAt": "2025-09-12 10:47:49",
+      "content": "According to local reports citing Natural Fiber Welding (NFW)s CEO Steve Zika, the company, which develops technologies based on the sustainable use of plants and natural fibres, including its Mirum \u2026 [+1694 chars]",
+      "retrievedAt": "2025-09-13 19:05:31.527986",
+      "internal_id": "e6a77aa7ada208d6e3bb637a10b83577b2e60924212fdbb153674cc7ba57719b",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24500,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "blg",
+      "title": "Instituut Tropische Geneeskunde: \u201cMalaria meest voorkomende tropische infectie bij terugkerende reizigers\u201d",
+      "description": "Reizigers die naar ons land terugkeren met een tropische infectie, hebben in de meeste gevallen malaria opgelopen. Dat blijkt uit de evaluatie van de zomervakantie van het Instituut voor Tropische Geneeskunde (ITG) in Antwerpen. Dengue blijft ook hoog scoren \u2026",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/instituut-tropische-geneeskunde-malaria-meest-voorkomende-tropische-infectie-bij-terugkerende-reizigers/89969684.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/3pay8b-usa-files-nile-virus/alternates/SIXTEEN_NINE_1200/USA%20FILES%20NILE%20VIRUS",
+      "publishedAt": "2025-09-12 10:22:24",
+      "content": "Malaria was dit jaar (tot nu toe) de meest voorkomende diagnose bij het ITG, met 314 gevallen. In heel 2024 waren dat er 449. Het ITG waarschuwt ook opnieuw voor dengue, dat vorig jaar een record van\u2026 [+757 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.569780",
+      "internal_id": "c649509fb11101388ce35b7c6f77ccfe1ed6e68b3be64e1359ff01a3f3bc0168",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24496,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Doctors urge measles immunization record checks with kids back in school",
+      "description": "Increased immunization helped by pop-up clinics at the end of the last school year gives hope that back to school will not mean more measles outbreaks in Manitoba.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-immunization-back-to-school-1.7631605",
+      "urlToImage": "https://i.cbc.ca/1.7631671.1757623168!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/tph-school-vax-clinic.JPG?im=Resize%3D620",
+      "publishedAt": "2025-09-12 10:00:00",
+      "content": "Doctors are urging parents to make sure their kids are up to date on their shots as measles continues spreading in Manitoba. Measles has sent 13 people in the province to hospital this year, two nee\u2026 [+3607 chars]",
+      "retrievedAt": "2025-09-13 19:05:29.440864",
+      "internal_id": "edd0cc9eaad09905e06f2b76d1953996cddf421d9967c49a42e4be6d48bf4aa4",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24502,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Le paludisme, l'infection tropicale la plus fr\u00e9quente chez les voyageurs \u00e0 leur retour",
+      "description": "Les voyageurs qui rentrent en Belgique avec une infection tropicale ont, dans la plupart des cas, contract\u00e9 le paludisme. C'est ce qui ressort de l'\u00e9valuation des vacances d'\u00e9t\u00e9 r\u00e9alis\u00e9e par l'Institut de m\u00e9decine tropicale (IMT) d'Anvers. La dengue reste \u00e9ga\u2026",
+      "url": "https://www.lalibre.be/planete/sante/2025/09/12/le-paludisme-linfection-tropicale-la-plus-frequente-chez-les-voyageurs-a-leur-retour-CRHSAG5G7REL3NNZGXH7IODY3U/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/7XPUALF4KNBMJEQ5D3QFDUU7C4.jpg?auth=49ecbbf279f3b4fa59235f311c186eb8add0f06895733087cb9721e942650fe7&width=1200&height=630&quality=85&focal=2500%2C1870&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2025-09-12 09:55:39",
+      "content": "Le paludisme a \u00e9t\u00e9 le diagnostic le plus fr\u00e9quent jusqu'ici cette ann\u00e9e \u00e0 l'IMT, avec 314 cas. En 2024, il y en avait eu 449. L'IMT met \u00e9galement \u00e0 nouveau en garde contre la dengue, qui a atteint un\u2026 [+585 chars]",
+      "retrievedAt": "2025-09-13 19:05:30.641404",
+      "internal_id": "16eb87e70414f8f884589f7d7be02ba0fcb71a4339cae202cbce1a0e6c21e8be",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24494,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jasmine Laws",
+      "title": "RFK Jr's MAHA Report Sparks Concern From Experts",
+      "description": "Tager-Flusberg told Newsweek: \"We are likely going to see a resurgence of diseases like measles or even polio long after they had been virtually eradicated.\"",
+      "url": "https://www.newsweek.com/rfk-jrs-maha-report-sparks-concern-experts-2127569",
+      "urlToImage": "https://d.newsweek.com/en/full/2719591/robert-f-kennedy-jr.jpg",
+      "publishedAt": "2025-09-12 09:00:02",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr has released his \"Make America Healthy Again\" (MAHA) report, and experts have warned that its contents, particularly in relation to vaccines a\u2026 [+11517 chars]",
+      "retrievedAt": "2025-09-13 19:05:29.401603",
+      "internal_id": "ad9c9af6cc921588d694cc70df927027a7ce55cced99c6ec77ffefb56be352ff",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24506,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0906\u091c\u0924\u0915 \u0939\u0947\u0932\u094d\u0925 \u0921\u0947\u0938\u094d\u0915",
+      "title": "\u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092d\u093e\u0930\u0924 \u0928\u0947 \u092c\u0928\u093e\u0908 \u092a\u0939\u0932\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928! \u0910\u0938\u0947 \u0915\u0930\u0947\u0917\u0940 \u0915\u093e\u092e",
+      "description": "\u0906\u0908\u0938\u0940\u090f\u092e\u0906\u0930 \u0928\u0947 \u0926\u0947\u0936 \u0915\u0940 \u092a\u0939\u0932\u0940 \u0938\u094d\u0935\u0926\u0947\u0936\u0940 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u090f\u0921\u092b\u093e\u0932\u094d\u0938\u0940\u0935\u0948\u0915\u094d\u0938 \u0915\u094b \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f 5 \u092d\u093e\u0930\u0924\u0940\u092f \u0915\u0902\u092a\u0928\u093f\u092f\u094b\u0902 \u0915\u094b \u0932\u093e\u0907\u0938\u0947\u0902\u0938 \u0926\u093f\u092f\u093e \u0939\u0948. \u092f\u0947 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0916\u0924\u0930\u0928\u093e\u0915 \u092a\u094d\u0932\u093e\u0938\u094d\u092e\u094b\u0921\u093f\u092f\u092e \u092b\u093e\u0932\u094d\u0938\u0940\u092a\u0947\u0930\u092e \u092a\u0930 \u0905\u0938\u0930\u0926\u093e\u0930 \u0939\u0948 \u0914\u0930 \u092d\u093e\u0930\u0924 \u0915\u0947 2030 \u0924\u0915 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u0947 \u092e\u093f\u0936\u0928 \u0915\u094b \u0924\u0947\u091c \u0915\u0930\u0947\u0917\u0940.",
+      "url": "https://www.aajtak.in/health/story/indias-first-indigenous-malaria-vaccine-adfalcivax-know-all-about-this-tvist-dskc-2331556-2025-09-12",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202509/68c3d9161efa3-malaria-vaccine-photo-ai-generated-122552626-16x9.png",
+      "publishedAt": "2025-09-12 08:28:55",
+      "content": "First malaria vaccine in india: . (ICMR) 5 . . 2030 . (AdFalciVax) . . . . , . . 9 . . ? ICMR . . 2027 2030 . 10 . 2017 64 , 2023 20 . 11,100 3,500 . 2024 (WHO) ' ' . . , . , , , . , . 264 \u2026 [+25 chars]",
+      "retrievedAt": "2025-09-13 19:05:31.256780",
+      "internal_id": "7eea45eb6daf9e3ce3fdf67bae65485b6b3a764438d5efaef78a8d428c7061d4",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 24495,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Evann Gastaldo",
+      "title": "Child Dies From Measles Complication Years After Recovering",
+      "description": "A school-age child has died from a rare complication of measles contracted in infancy, Los Angeles County health officials said Thursday. The child, who had been too young to be vaccinated when they were infected by the virus, died of subacute sclerosing pane\u2026",
+      "url": "https://www.newser.com/story/375089/child-dies-from-measles-complication-years-after-recovering.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1633680-12-20250912023004.jpeg",
+      "publishedAt": "2025-09-12 07:30:00",
+      "content": "A school-age child has died from a rare complication of measles contracted in infancy, Los Angeles County health officials said Thursday. The child, who had been too young to be vaccinated when they \u2026 [+1175 chars]",
+      "retrievedAt": "2025-09-13 19:05:29.417730",
+      "internal_id": "a8a1d8ab923668501b1569d51d5aa0c72dc504569f882bbc3b89008e58f7e91a",
+      "publishedAtLabel": "Sep 12"
+    },
     {
       "id": 24491,
       "query": [
@@ -21752,42 +22078,6 @@
       "content": "Gana Salk Servisinden (GHS) yaplan a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fc nedeniyle ilk \u00f6l\u00fcm\u00fcn kaydedildii belirtildi. A\u00e7klamada, \u00fclkede 23 yeni M \u00e7i\u00e7ei vakasnn tespit edildii, b\u00f6ylece maystan bu yana vaka saysn\u2026 [+820 chars]",
       "retrievedAt": "2025-07-29 07:10:52.077339",
       "internal_id": "c5acd96d59796fbc39f9ff919d052a4614b0f087d39b6a4abc78e8840406e7c9",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23290,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "tilda.linden@expressen (Tilda Lind\u00e9n)",
-      "title": "Fruktade sjukdomen uppt\u00e4ckt i europeiska l\u00e4nder",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO varnar f\u00f6r en epidemi efter ovanligt m\u00e5nga fall av sjukdomen chikungunya. Under \u00e5ret har flera fall rapporterats i Europa.",
-      "url": "https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/",
-      "urlToImage": "https://static.bonniernews.se/images/c9/c3/c9c37d38a3be4dd9b13d4c5a2a529da6/16x9/original.jpg",
-      "publishedAt": "2025-07-27 15:28:15",
-      "content": "P\u00e5 tisdagen gick WHO ut med en varning och uppmanade l\u00e4nder att agera f\u00f6r att f\u00f6rhindra en epidemi av sjukdomen chikungunya, rapporterar Reuters. Varningen kommer efter att fall har rapporterats i \u2026 [+1331 chars]",
-      "retrievedAt": "2025-07-28 19:08:08.689588",
-      "internal_id": "4fac16190287654b0dc6b355d59081239e916aac3257f1d832cdbc147338b02b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 23289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Mosquito killing pill, Ivermectin drops malaria by 26%: Study",
-      "description": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when used in conjunction with bed nets. Ivermectin administered \u2026",
-      "url": "https://english.khabarhub.com/2025/27/487788/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-07-27 07:45:39",
-      "content": "BARCELONA: A groundbreaking study has revealed that the mass administration of ivermectin\u2013a drug once known for treating river blindness and scabies\u2013can significantly reduce malaria transmission when\u2026 [+4389 chars]",
-      "retrievedAt": "2025-07-28 19:08:07.939142",
-      "internal_id": "5f650084d1486251a98a38d27753fc9863c889b7450dc27ca223555b398bcd04",
       "publishedAtLabel": "Jul 27"
     }
   ]

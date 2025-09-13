@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-09-13 07:05
-- **Most recent article:** 2025-09-12 06:23:44
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-09-13 19:05
+- **Most recent article:** 2025-09-12 18:16:39
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-31 | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 35 | 107 | 46 | 80 | 52 | 18 | 14 | 352 |
-| measles | 30 | 26 | 26 | 50 | 33 | 45 | 31 | 241 |
-| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 19 | 211 |
+| chikungunya | 34 | 107 | 46 | 80 | 52 | 18 | 16 | 353 |
+| measles | 30 | 26 | 26 | 50 | 33 | 45 | 36 | 246 |
+| dengue | 32 | 17 | 25 | 62 | 40 | 16 | 24 | 216 |
+| malaria | 12 | 18 | 15 | 19 | 13 | 13 | 17 | 107 |
 | rabies | 10 | 11 | 27 | 39 | 6 | 9 | 5 | 107 |
-| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 5 | 105 |
-| malaria | 13 | 18 | 15 | 19 | 13 | 13 | 14 | 105 |
-| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 5 | 51 |
-| zika | 7 | 8 | 9 | 7 | 8 | 4 | 5 | 48 |
-| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 5 | 36 |
-| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 3 | 33 |
+| mpox | 13 | 10 | 7 | 5 | 7 | 58 | 6 | 106 |
+| h5n1 | 1 | 14 | 3 | 3 | 5 | 20 | 6 | 52 |
+| zika | 7 | 8 | 9 | 7 | 8 | 4 | 6 | 49 |
+| meningitis | 3 | 1 | 4 | 2 | 16 | 5 | 6 | 37 |
+| yersinia | 1 | 0 | 7 | 7 | 12 | 3 | 4 | 34 |
 | typhoid | 0 | 1 | 1 | 0 | 0 | 2 | 4 | 8 |
 | hpai | 0 | 3 | 0 | 1 | 1 | 1 | 2 | 8 |
 | leptospirosis | 0 | 1 | 1 | 2 | 0 | 2 | 1 | 7 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (zika)
 
+- [Mirum-maker Natural Fiber Welding to ‘wind down’ operations](https://www.just-style.com/news/mirum-maker-natural-fiber-welding-to-wind-down-operations/) (just-style.com)
+
 - [Nové laboratoře budou v Ostravě zkoumat viry i spolupráci člověka s roboty](https://www.novinky.cz/clanek/veda-skoly-nove-laboratore-budou-v-ostrave-zkoumat-viry-i-spolupraci-cloveka-s-roboty-40537905) (Novinky.cz)
 
 - [Brasil cría mosquitos “aliados” para frenar el dengue y el zika](https://es.gizmodo.com/brasil-cria-mosquitos-aliados-para-frenar-el-dengue-y-el-zika-2000191459) (Gizmodo.com)
@@ -45,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Activation of PD-1/PD-L1 immune checkpoint by Zika virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013457) (Plos.org)
 
 ## 25-37 (yersinia)
+
+- [Whole genome sequencing of Yersinia pestis isolates from Central Asian natural plague foci revealed the role of adaptation to different hosts and environmental conditions in shaping specific genotypes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013533) (Plos.org)
 
 - [Пронађен кривац за прву пандемију у историји - тајну открило осам зуба](https://sputnikportal.rs/20250910/pronadjen-krivac-za-prvu-pandemiju-u-istoriji---tajnu-otkrilo-osam-zuba-1189994904.html) (Sputnikportal.rs)
 
@@ -76,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (mpox)
 
+- [In 2022, the name 'monkeypox' was rejected as inapt. Now the U.S. is reviving it](https://www.npr.org/sections/goats-and-soda/2025/09/12/g-s1-88287/mpox-monkeypox-virus-stigma) (NPR)
+
 - [Pelo menos 99 mortos em quase 450 mil casos de Malária](https://observador.pt/2025/09/11/pelo-menos-99-mortos-em-quase-450-mil-casos-de-malaria-no-norte-de-mocambique/) (Observador.pt)
 
 - [Prolonged Monkeypox Virus Infections, California, USA, May 2022–August 2024](https://wwwnc.cdc.gov/eid/article/31/10/25-0507_article) (Cdc.gov)
@@ -88,6 +94,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (meningitis)
 
+- [Transient vascular occlusions in a zebrafish model of mycobacterial brain infection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332161) (Plos.org)
+
 - [Meningitis, enfermedad de las encías y hasta parásitos estomacales: las infecciones que pueden transmitirse con un beso](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/09/11/meningitis-enfermedad-encias-parasitos-estomacales-infecciones-pueden-transmitirse-beso/00031757605267164376441.htm) (Lavozdegalicia.es)
 
 - [Clinical features and mortality risk factors in non-HIV elderly patients with cryptococcal meningitis: A retrospective cohort study from 2013 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013521) (Plos.org)
@@ -99,6 +107,16 @@ Source: [News API](https://newsapi.org/)
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
+
+- [Measles confirmed in metro Atlanta; people possibly exposed at university, restaurant, soccer match](https://www.wsbtv.com/news/local/fulton-county/measles-confirmed-metro-atlanta-people-possibly-exposed-university-restaurant-soccer-match/A6M5XGITPJDHRKRUCRWZV5VD7Y/) (WSB Atlanta)
+
+- [Measles Death Shows How Virus Can Hide in the Brain for Years](https://www.scientificamerican.com/article/measles-death-shows-how-virus-can-hide-in-the-brain-for-years/) (Scientific American)
+
+- [Doctors urge measles immunization record checks with kids back in school](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-immunization-back-to-school-1.7631605) (CBC News)
+
+- [RFK Jr's MAHA Report Sparks Concern From Experts](https://www.newsweek.com/rfk-jrs-maha-report-sparks-concern-experts-2127569) (Newsweek)
+
+- [Child Dies From Measles Complication Years After Recovering](https://www.newser.com/story/375089/child-dies-from-measles-complication-years-after-recovering.html) (Newser)
 
 - [Gov't ensures that Jakarta measles case does not surge significantly](https://en.antaranews.com/news/379477/govt-ensures-that-jakarta-measles-case-does-not-surge-significantly) (Antaranews.com)
 
@@ -164,6 +182,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (malaria)
 
+- [Vivieron hace 160.000 años y se extinguieron, pero su ADN podría hacer que algunas personas sean resistentes a la malaria](https://www.muyinteresante.com/historia/vivieron-hace-160-000-anos-y-se-extinguieron-pero-su-adn-podria-hacer-que-algunas-personas-sean-resistentes-a-la-malaria.html) (Muyinteresante.com)
+
+- [Instituut Tropische Geneeskunde: “Malaria meest voorkomende tropische infectie bij terugkerende reizigers”](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/instituut-tropische-geneeskunde-malaria-meest-voorkomende-tropische-infectie-bij-terugkerende-reizigers/89969684.html) (Www.gva.be)
+
+- [मलेरिया खत्म करने के लिए भारत ने बनाई पहली वैक्सीन! ऐसे करेगी काम](https://www.aajtak.in/health/story/indias-first-indigenous-malaria-vaccine-adfalcivax-know-all-about-this-tvist-dskc-2331556-2025-09-12) (Aajtak.in)
+
 - [Prevalence of asymptomatic non-falciparum and falciparum malaria in the 2014-15 Rwanda Demographic Health Survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330480) (Plos.org)
 
 - [Low prevalence of helminth infection in Ugandan children hospitalized with severe malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332246) (Plos.org)
@@ -204,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (h5n1)
 
+- [Tierseuche: Wieder Vogelgrippe-Ausbruch im Landkreis Rostock](https://www.zeit.de/news/2025-09/12/wieder-vogelgrippe-ausbruch-im-landkreis-rostock) (Die Zeit)
+
 - [В России создали новое средство от гриппа на основе алтайского растения](https://www.ferra.ru/news/v-rossii/v-rossii-sozdali-novoe-sredstvo-ot-grippa-na-osnove-altaiskogo-rasteniya-11-09-2025.htm) (Ferra.ru)
 
 - [В РФ получили перспективное соединение против гриппа на основе лекарственного растения](https://tass.ru/nauka/25021911) (Tass.ru)
@@ -215,6 +241,16 @@ Source: [News API](https://newsapi.org/)
 - [Scientists Now Testing Bird Flu Vaccine for Seals](https://www.newser.com/story/374904/scientists-now-testing-bird-flu-vaccine-for-seals.html) (Newser)
 
 ## 25-37 (dengue)
+
+- [Dissecting the dynamics of virus-derived DNA of dengue virus 2 (DENV-2) in Aedes mosquitoes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332245) (Plos.org)
+
+- [El dengue avanza con el calor: 4,6 millones de casos extra cada año por el cambio climático](https://es.gizmodo.com/el-dengue-avanza-con-el-calor-46-millones-de-casos-extra-cada-ano-por-el-cambio-climatico-2000191675) (Gizmodo.com)
+
+- [Paludisme, dengue, chikungunya: voici les infections tropicales les plus fréquentes chez les voyageurs belges au retour de vacances (infographie)](https://www.lavenir.net/actu/societe/sante/2025/09/12/paludisme-dengue-chikungunya-voici-les-infections-tropicales-les-plus-frequentes-chez-les-voyageurs-belges-au-retour-de-vacances-infographies-UIVBM4Z6OJETPNHVPCMHXLJS2E/) (Lavenir.net)
+
+- [Instituut Tropische Geneeskunde: “Malaria meest voorkomende tropische infectie bij terugkerende reizigers”](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/instituut-tropische-geneeskunde-malaria-meest-voorkomende-tropische-infectie-bij-terugkerende-reizigers/89969684.html) (Www.gva.be)
+
+- [Le paludisme, l'infection tropicale la plus fréquente chez les voyageurs à leur retour](https://www.lalibre.be/planete/sante/2025/09/12/le-paludisme-linfection-tropicale-la-plus-frequente-chez-les-voyageurs-a-leur-retour-CRHSAG5G7REL3NNZGXH7IODY3U/) (Lalibre.be)
 
 - [Early events in dengue virus infection inducing cytokine storm: The dynamic interplay of pattern-recognition receptors, inflammasome activation, and biphasic NF-κB and STAT1-dependent inflammatory responses in human mononuclear phagocytes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013366) (Plos.org)
 
@@ -255,6 +291,10 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Development and proof of concept evaluation for a low resource compatible Chikungunya virus diagnostic](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012352) (Plos.org)
+
+- [Paludisme, dengue, chikungunya: voici les infections tropicales les plus fréquentes chez les voyageurs belges au retour de vacances (infographie)](https://www.lavenir.net/actu/societe/sante/2025/09/12/paludisme-dengue-chikungunya-voici-les-infections-tropicales-les-plus-frequentes-chez-les-voyageurs-belges-au-retour-de-vacances-infographies-UIVBM4Z6OJETPNHVPCMHXLJS2E/) (Lavenir.net)
 
 - [Co-Diagnostics performs in silico analysis of primers sets for chikungunya virus](https://thefly.com/permalinks/entry.php/id4196843/CODX-CoDiagnostics-performs-in-silico-analysis-of-primers-sets-for-chikungunya-virus) (Thefly.com)
 
@@ -2700,8 +2740,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria pokonana? Świat uratują zmodyfikowane komary](https://geekweek.interia.pl/medycyna/news-genetycznie-zmodyfikowane-komary-uratuja-swiat-przed-malaria,nId,22168632) (Interia.pl)
 
-- [Mosquito killing pill, Ivermectin drops malaria by 26%: Study](https://english.khabarhub.com/2025/27/487788/) (Khabarhub.com)
-
 ## 25-31 (h5n1)
 
 - [Imunidade pré-existente à gripe H1N1 pode ajudar a proteger contra a gripe das aves H5N1 mortal, pelo menos nos furões](https://greensavers.sapo.pt/imunidade-pre-existente-a-gripe-h1n1-pode-ajudar-a-proteger-contra-a-gripe-das-aves-h5n1-mortal-pelo-menos-nos-furoes/) (Sapo.pt)
@@ -2841,5 +2879,3 @@ Source: [News API](https://newsapi.org/)
 - [Wie gut Österreich vorbereitet ist](https://science.orf.at/stories/3231277/) (Science.orf.at)
 
 - [Chikungunya vaccine Ixchiq only for those at risk: European regulator](https://www.thehindubusinessline.com/specials/pulse/chikungunya-vaccine-ixchiq-only-for-those-at-risk-european-regulator/article69853607.ece) (BusinessLine)
-
-- [Fruktade sjukdomen upptäckt i europeiska länder](https://www.expressen.se/nyheter/varlden/fruktade-sjukdomen-upptackt-i-europeiska-lander/) (Expressen.se)
