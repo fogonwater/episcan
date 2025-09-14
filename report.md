@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 0
-- **Last harvest:** 2025-09-14 07:06
-- **Most recent article:** 2025-09-12 18:16:39
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-09-14 19:05
+- **Most recent article:** 2025-09-13 19:00:31
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
 |--|-|-|-|-|-|-|-|
-| chikungunya | 107 | 46 | 80 | 52 | 18 | 16 | 319 |
-| measles | 22 | 26 | 50 | 33 | 45 | 36 | 212 |
+| chikungunya | 106 | 46 | 80 | 52 | 18 | 17 | 319 |
+| measles | 20 | 26 | 50 | 33 | 45 | 39 | 213 |
 | dengue | 17 | 25 | 62 | 40 | 16 | 24 | 184 |
-| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 97 |
-| malaria | 18 | 15 | 19 | 13 | 13 | 17 | 95 |
-| mpox | 9 | 7 | 5 | 7 | 58 | 6 | 92 |
+| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 95 |
+| malaria | 17 | 15 | 19 | 13 | 13 | 17 | 94 |
+| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 92 |
 | h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 51 |
 | zika | 5 | 9 | 7 | 8 | 4 | 6 | 39 |
 | meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 34 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 33 |
+| hpai | 3 | 0 | 1 | 1 | 1 | 3 | 9 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 4 | 8 |
-| hpai | 3 | 0 | 1 | 1 | 1 | 2 | 8 |
 | leptospirosis | 1 | 1 | 2 | 0 | 2 | 1 | 7 |
 | pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 6 |
 
@@ -80,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (mpox)
 
+- [Mpox isn’t over: A silent epidemic is growing](https://kevinmd.com/2025/09/mpox-isnt-over-a-silent-epidemic-is-growing.html) (Kevinmd.com)
+
 - [In 2022, the name 'monkeypox' was rejected as inapt. Now the U.S. is reviving it](https://www.npr.org/sections/goats-and-soda/2025/09/12/g-s1-88287/mpox-monkeypox-virus-stigma) (NPR)
 
 - [Pelo menos 99 mortos em quase 450 mil casos de Malária](https://observador.pt/2025/09/11/pelo-menos-99-mortos-em-quase-450-mil-casos-de-malaria-no-norte-de-mocambique/) (Observador.pt)
@@ -107,6 +109,12 @@ Source: [News API](https://newsapi.org/)
 - [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
+
+- [Living in an alternate reality](https://freethoughtblogs.com/singham/2025/09/13/living-in-an-alternate-reality/) (Freethoughtblogs.com)
+
+- [Low awareness, disinformation hamper Indonesia's measles fight](https://en.antaranews.com/news/379737/low-awareness-disinformation-hamper-indonesias-measles-fight) (Antaranews.com)
+
+- [Two more measles cases detected in WA linked to Bali travel](https://www.abc.net.au/news/2025-09-13/two-more-measles-cases-in-wa-linked-to-bali-travel/105770492) (ABC News (AU))
 
 - [Measles confirmed in metro Atlanta; people possibly exposed at university, restaurant, soccer match](https://www.wsbtv.com/news/local/fulton-county/measles-confirmed-metro-atlanta-people-possibly-exposed-university-restaurant-soccer-match/A6M5XGITPJDHRKRUCRWZV5VD7Y/) (WSB Atlanta)
 
@@ -222,6 +230,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (hpai)
 
+- [Canada and India Report Bird Flu Outbreaks](https://www.activistpost.com/canada-and-india-report-bird-flu-outbreaks/) (Activistpost.com)
+
 - [South Dakota Kills Over 100,000 Turkeys Because Of Bird Flu](https://www.shtfplan.com/headline-news/south-dakota-kills-over-100000-turkeys-because-of-bird-flu) (Shtfplan.com)
 
 - [Helport AI Launches HelportGo App](https://www.globenewswire.com/news-release/2025/09/09/3146917/0/en/Helport-AI-Launches-HelportGo-App.html) (GlobeNewswire)
@@ -291,6 +301,8 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Chikungunya : deux nouveaux cas autochtones découverts en Corrèze](https://www.franceinfo.fr/replay-jt/france-2/13-heures/chikungunya-deux-nouveaux-cas-autochtones-decouverts-en-correze_7490140.html) (Franceinfo.fr)
 
 - [Development and proof of concept evaluation for a low resource compatible Chikungunya virus diagnostic](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012352) (Plos.org)
 
@@ -2148,10 +2160,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
-- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
-
-- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
-
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2169,8 +2177,6 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
-
-- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2218,10 +2224,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
-- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
-
-- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
-
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2257,8 +2259,6 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
-
-- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2551,5 +2551,3 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
-
-- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)

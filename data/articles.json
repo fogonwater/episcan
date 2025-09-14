@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-09-14 07:06",
-  "count_articles_total": 1086,
-  "count_articles_new": 0,
+  "last_updated": "2025-09-14 19:05",
+  "count_articles_total": 1085,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 24516,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Melvin Sanicas, MD",
+      "title": "Mpox isn\u2019t over: A silent epidemic is growing",
+      "description": "Three years after mpox shocked the world, a silent crisis is unfolding in Africa while the rest of the world seems to have moved on. When mpox (formerly called monkeypox) grabbed global headlines in 2022, it seemed like the next big pandemic threat. Three yea\u2026",
+      "url": "https://kevinmd.com/2025/09/mpox-isnt-over-a-silent-epidemic-is-growing.html",
+      "urlToImage": "https://kevinmd.com/wp-content/uploads/image-6.jpg",
+      "publishedAt": "2025-09-13 19:00:31",
+      "content": "Three years after mpox shocked the world, a silent crisis is unfolding in Africa while the rest of the world seems to have moved on. When mpox (formerly called monkeypox) grabbed global headlines in\u2026 [+3806 chars]",
+      "retrievedAt": "2025-09-14 19:05:35.996832",
+      "internal_id": "9937b6adb1ce7ff8a45a963377afa7e9dbcc4b671a7f267759010c3c21292abf",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 24512,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Freethoughtblogs.com",
+      "author": "Mano Singham",
+      "title": "Living in an alternate reality",
+      "description": "Joseph Ladapo is the surgeon general for the state of Florida and is a vaccine skeptic who recently announced plans to abolish all mandates that requires parents to vaccinate their children against preventable diseases such as measles, mumps, chickenpox, poli\u2026",
+      "url": "https://freethoughtblogs.com/singham/2025/09/13/living-in-an-alternate-reality/",
+      "urlToImage": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
+      "publishedAt": "2025-09-13 18:25:21",
+      "content": "Joseph Ladapo is the surgeon general for the state of Florida and is a vaccine skeptic who recently announced plans to abolish all mandates that requires parents to vaccinate their children against p\u2026 [+5616 chars]",
+      "retrievedAt": "2025-09-14 19:05:33.919048",
+      "internal_id": "65cac100cc6f56236272847d36844d35ac1369b93567d07127181f112f459c46",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 24514,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "Canada and India Report Bird Flu Outbreaks",
+      "description": "India and Canada have both reported outbreaks of the bird flu in animals. India says that two storks died at a zoo after contracting the virus, while Canada approved a cull of 400 ostriches to prevent the spread of the highly pathogenic avian influenza (HPAI)\u2026",
+      "url": "https://www.activistpost.com/canada-and-india-report-bird-flu-outbreaks/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/09/ostrich.jpg",
+      "publishedAt": "2025-09-13 16:00:00",
+      "content": "India and Canada have both reported outbreaks of the bird flu in animals. India says that two storks died at a zoo after contracting the virus, while Canada approved a cull of 400 ostriches to preven\u2026 [+2347 chars]",
+      "retrievedAt": "2025-09-14 19:05:34.102808",
+      "internal_id": "019aa7f0faffb7329af034861c7b7ab7795e51b4e3c9e986fdb28462dd8f9cb6",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 24513,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Hreeloita Dharma, Resinta Sulistiyandari",
+      "title": "Low awareness, disinformation hamper Indonesia's measles fight",
+      "description": "The Indonesian government has identified low public awareness, limited human resources, and disinformation as major challenges in efforts to curb ...",
+      "url": "https://en.antaranews.com/news/379737/low-awareness-disinformation-hamper-indonesias-measles-fight",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/08/27/imunisasi-untuk-mencegah-klb-campak-di-sumenep-2608437.jpg",
+      "publishedAt": "2025-09-13 13:37:05",
+      "content": "Jakarta (ANTARA) - The Indonesian government has identified low public awareness, limited human resources, and disinformation as major challenges in efforts to curb measles.Aji Muhawarman, Head of th\u2026 [+2464 chars]",
+      "retrievedAt": "2025-09-14 19:05:33.996107",
+      "internal_id": "ba8afd274ce82eb995a3f341481f71f914d9014f738383feb54796efc5107d6d",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 24515,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : deux nouveaux cas autochtones d\u00e9couverts en Corr\u00e8ze",
+      "description": "Le chikungunya gagne du terrain en m\u00e9tropole. Plusieurs centaines de cas de ce virus tropical ont \u00e9t\u00e9 recens\u00e9s, notamment dans les r\u00e9gions du Grand-Est, de la Bourgogne-Franche-Comt\u00e9 et de la Nouvelle-Aquitaine, o\u00f9, vendredi 12 septembre, deux nouveaux cas on\u2026",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/chikungunya-deux-nouveaux-cas-autochtones-decouverts-en-correze_7490140.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/7ulN9hnqqgWEu9C4HPNUAZaaDXc/0x0:1920x1080/1500x843/2025/09/13/video-12-68c55592e4144892317194.jpg",
+      "publishedAt": "2025-09-13 11:34:57",
+      "content": "Le chikungunya gagne du terrain en m\u00e9tropole. Plusieurs centaines de cas de ce virus tropical ont \u00e9t\u00e9 recens\u00e9s, notamment dans les r\u00e9gions du Grand-Est, de la Bourgogne-Franche-Comt\u00e9 et de la Nouvell\u2026 [+2353 chars]",
+      "retrievedAt": "2025-09-14 19:05:35.855082",
+      "internal_id": "5245cc32c884c42e1d6bc8377b447ec64d9ed7fbe134a15fdcf8296b849092e1",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 24511,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Kate Christian",
+      "title": "Two more measles cases detected in WA linked to Bali travel",
+      "description": "West Australians planning to visit South-East Asia are being urged to get vaccinated against measles, with two more cases linked with travel to Bali.",
+      "url": "https://www.abc.net.au/news/2025-09-13/two-more-measles-cases-in-wa-linked-to-bali-travel/105770492",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e70bfb72430e410c7c5474ca0f86d2d9?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-13 07:39:18",
+      "content": "West Australians planning to visit South-East Asia are being urged to get vaccinated against measles after two more cases were linked with travel to Bali. The state has now recorded 35 cases of mea\u2026 [+2169 chars]",
+      "retrievedAt": "2025-09-14 19:05:33.817902",
+      "internal_id": "f7f34e4bc3d83d016e04e4b60fb33420d8604474c76f3e3f490ea4107c380186",
+      "publishedAtLabel": "Sep 13"
+    },
     {
       "id": 24497,
       "query": [
@@ -19522,132 +19630,6 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23427,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
-      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 17:42:28",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2025-08-04 19:08:24.635062",
-      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23430,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
-      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
-      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
-      "publishedAt": "2025-08-03 17:06:35",
-      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.558824",
-      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Gardy Chacha",
-      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
-      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
-      "publishedAt": "2025-08-03 16:44:48",
-      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
-      "retrievedAt": "2025-08-04 19:08:25.790586",
-      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23426,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Ratt",
-      "title": "Measles And Mania Are Both Contagious",
-      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
-      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
-      "publishedAt": "2025-08-03 12:00:01",
-      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.512308",
-      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
-      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
-      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
-      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
-      "publishedAt": "2025-08-03 10:59:51",
-      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.355606",
-      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23424,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.cc",
-      "author": "saamaan1@yahoo.com (Master)",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:21:28",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.270150",
-      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23425,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "Kingman",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:05:06",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.294637",
-      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
