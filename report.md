@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-09-14 19:05
-- **Most recent article:** 2025-09-13 19:00:31
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-09-15 07:07
+- **Most recent article:** 2025-09-14 04:08:10
 
 ---
 
@@ -10,27 +10,35 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | Total |
-|--|-|-|-|-|-|-|-|
-| chikungunya | 106 | 46 | 80 | 52 | 18 | 17 | 319 |
-| measles | 20 | 26 | 50 | 33 | 45 | 39 | 213 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 184 |
-| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 95 |
-| malaria | 17 | 15 | 19 | 13 | 13 | 17 | 94 |
-| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 92 |
-| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 51 |
-| zika | 5 | 9 | 7 | 8 | 4 | 6 | 39 |
-| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 34 |
-| yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 33 |
-| hpai | 3 | 0 | 1 | 1 | 1 | 3 | 9 |
-| typhoid | 1 | 1 | 0 | 0 | 2 | 4 | 8 |
-| leptospirosis | 1 | 1 | 2 | 0 | 2 | 1 | 7 |
-| pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 6 |
+| Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
+|--|-|-|-|-|-|-|-|-|
+| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 0 | 321 |
+| measles | 22 | 26 | 50 | 33 | 45 | 39 | 0 | 215 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 0 | 184 |
+| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 1 | 98 |
+| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 0 | 96 |
+| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 0 | 93 |
+| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 0 | 51 |
+| zika | 5 | 9 | 7 | 8 | 4 | 6 | 0 | 39 |
+| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 1 | 35 |
+| yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
+| hpai | 3 | 0 | 1 | 1 | 1 | 4 | 0 | 10 |
+| typhoid | 1 | 1 | 0 | 0 | 2 | 4 | 0 | 8 |
+| leptospirosis | 1 | 1 | 2 | 0 | 2 | 1 | 0 | 7 |
+| pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-38 (rabies)
+
+- [Wilayah Thailand Ini Ditetapkan Zona Wabah Rabies, Pergerakan Hewan Dibatasi](https://health.detik.com/berita-detikhealth/d-8111079/wilayah-thailand-ini-ditetapkan-zona-wabah-rabies-pergerakan-hewan-dibatasi) (Detik.com)
+
+## 25-38 (meningitis)
+
+- [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-37 (zika)
 
@@ -190,6 +198,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-37 (malaria)
 
+- [Parigi Moutong extends malaria outbreak alert status until Feb](https://en.antaranews.com/news/379781/parigi-moutong-extends-malaria-outbreak-alert-status-until-feb) (Antaranews.com)
+
 - [Vivieron hace 160.000 años y se extinguieron, pero su ADN podría hacer que algunas personas sean resistentes a la malaria](https://www.muyinteresante.com/historia/vivieron-hace-160-000-anos-y-se-extinguieron-pero-su-adn-podria-hacer-que-algunas-personas-sean-resistentes-a-la-malaria.html) (Muyinteresante.com)
 
 - [Instituut Tropische Geneeskunde: “Malaria meest voorkomende tropische infectie bij terugkerende reizigers”](https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/instituut-tropische-geneeskunde-malaria-meest-voorkomende-tropische-infectie-bij-terugkerende-reizigers/89969684.html) (Www.gva.be)
@@ -229,6 +239,8 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis death reported as Chicago issues health alert](https://www.nbcchicago.com/news/local/death-reported-as-chicago-issues-health-alert-for-leptospirosis/3822785/) (NBC Chicago)
 
 ## 25-37 (hpai)
+
+- [Güney Kore'de yılın ilk kuş gribi vakası tespit edildi](https://www.haber7.com/dunya/haber/3563164-guney-korede-yilin-ilk-kus-gribi-vakasi-tespit-edildi) (Haber7.com)
 
 - [Canada and India Report Bird Flu Outbreaks](https://www.activistpost.com/canada-and-india-report-bird-flu-outbreaks/) (Activistpost.com)
 
@@ -301,6 +313,8 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
 
 ## 25-37 (chikungunya)
+
+- [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
 
 - [Chikungunya : deux nouveaux cas autochtones découverts en Corrèze](https://www.franceinfo.fr/replay-jt/france-2/13-heures/chikungunya-deux-nouveaux-cas-autochtones-decouverts-en-correze_7490140.html) (Franceinfo.fr)
 
@@ -2160,6 +2174,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
+
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2177,6 +2195,8 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
+
+- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2224,6 +2244,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
+- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
+
+- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
+
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2259,6 +2283,8 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
+
+- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2551,3 +2577,5 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
+
+- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)
