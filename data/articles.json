@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-09-16 07:08",
-  "count_articles_total": 1110,
-  "count_articles_new": 6,
+  "last_updated": "2025-09-16 19:06",
+  "count_articles_total": 1112,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 24537,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jesse Zanger",
+      "title": "2 cases of measles confirmed in NYC, Department of Health says. Here's what to know.",
+      "description": "2 cases of measles confirmed in NYC, Department of Health says. Here's what to know.cbsnews.com",
+      "url": "https://www.cbsnews.com/newyork/news/nyc-measles-cases/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/15/6027c3b0-b57e-47a3-b210-98aeddfd1ac5/thumbnail/1200x630/8f23800fa9e1e31dfae15deec2876921/gettyimages-2152300024.jpg",
+      "publishedAt": "2025-09-15 18:05:59",
+      "content": "The New York City Department of Health has confirmed two adult cases of measles. The DOH says it is investigating measles exposures on the Lower East Side and SoHo. The agency said it is working \u2026 [+1419 chars]",
+      "retrievedAt": "2025-09-16 19:06:12.216419",
+      "internal_id": "28bdb3e8b7084322dba10b44dc063c95299dedfb32b808e9cbd420e69e5e2400",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24543,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Francia e Italia registran un aumento semanal de casos del virus del chikungunya",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado de que Francia e Italia han registrado un aumento semanal de los casos por el virus del chikungunya, que en lo que va de a\u00f1o han notificado 383 y 1\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-francia-italia-registran-aumento-semanal-casos-virus-chikungunya-20250915184040.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250915184040_1200.jpg",
+      "publishedAt": "2025-09-15 16:40:40",
+      "content": "MADRID 15 Sep. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado de que Francia e Italia han registrado un aumento se\u2026 [+3561 chars]",
+      "retrievedAt": "2025-09-16 19:06:15.090200",
+      "internal_id": "2638270808acb08ffccc229e4c126196aafaaf2f41b762ed8191a41e5cdcb254",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24535,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "Rohamokkal j\u00e1r\u00f3 betegs\u00e9g miatt figyelmeztetnek a szakemberek",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/itthon/2025/09/szamarkohoges-hevesben-uj-megbetegedesek-2025",
+      "urlToImage": "https://cdn.origo.hu/2025/09/Y6NStelZoGRS9QMTXFER3rLLFPs3IeajHoukZBU6CKU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzlmZWJkNWY2ZTdiMjRkN2I5YTM0MWJjZjkyMjE2ZWI0.webp",
+      "publishedAt": "2025-09-15 15:47:13",
+      "content": "A szam\u00e1rk\u00f6h\u00f6g\u00e9s ism\u00e9t fel\u00fct\u00f6tte a fej\u00e9t haz\u00e1nkban. A 2025. augusztus 2531. k\u00f6z\u00f6tti idszakban a Nemzeti N\u00e9peg\u00e9szs\u00e9g\u00fcgyi \u00e9s Gy\u00f3gyszer\u00e9szeti K\u00f6zpont h\u00e1rom pertussis (szam\u00e1rk\u00f6h\u00f6g\u00e9s) megbeteged\u00e9s gyan\u00faj\u00e1t\u2026 [+971 chars]",
+      "retrievedAt": "2025-09-16 19:06:11.554367",
+      "internal_id": "2dac5cebc7931a72686ea296b20fee6523010b0fdd6a66440cf2bb618a7862f8",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24538,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC New York",
+      "author": "Nbc New York Staff",
+      "title": "Measles warning NYC: Officials caution of exposure in SoHo, LES",
+      "description": "Anyone exposed to the measles while on the trains could develop symptoms as late as Sept. 11, health officials warned.",
+      "url": "https://www.nbcnewyork.com/manhattan/measles-symptoms-vaccine-treatment-soho-lower-east-side/6391578/",
+      "urlToImage": "https://media.nbcnewyork.com/2025/05/measles.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-09-15 14:08:35",
+      "content": "Authorities are warning about possible measles exposures on the Lower East Side and in SoHo, though they didn't immediately say exactly how many people may have been exposed nor where. The city's he\u2026 [+1408 chars]",
+      "retrievedAt": "2025-09-16 19:06:12.239687",
+      "internal_id": "267de0844b32ec483b164433b00b411fcbb6c7c00eab1ddf7a1e099d63831fbb",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24541,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kyle J. Wilson, Alice Muiruri Liomba, Karl B. Seydel, Owen K. Banda, Christopher A. Moxon, Ian J. C. MacCormick, Simon P. Harding, Nicholas A. V. Beare, Terrie E. Taylor",
+      "title": "Re-evaluating malarial retinopathy to improve its diagnostic accuracy in paediatric cerebral malaria: A retrospective study",
+      "description": "In this retrospective study, Kyle Wilson and colleagues re-evaluate the diagnostic value of malarial retinopathy in pediatric cerebral malaria using data from the Blantyre autopsy study.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004727",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004727.g002&size=inline",
+      "publishedAt": "2025-09-15 14:00:00",
+      "content": "Abstract Background Previous work has identified that malarial retinopathy has diagnostic value in paediatric cerebral malaria (CM). To improve our understanding of malarial retinopathy as a predic\u2026 [+32844 chars]",
+      "retrievedAt": "2025-09-16 19:06:14.540633",
+      "internal_id": "ac2ce6a115832ab1139fcf6c622cda54b768ee58242beeeae049b20512e6bd20",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24542,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sarawut Khongwichit, Watchaporn Chuchaona, Sumeth Korkong, Lakkhana Wongsrisang, Thanunrat Thongmee, Yong Poovorawan",
+      "title": "Chikungunya virus in Thailand (2020\u20132023): Epidemiology, clinical features, and genomic insights",
+      "description": "Author summary This study examined the prevalence and clinical features of chikungunya virus infections and described the genetic evolution of the virus from 2020 to 2023. We found that CHIKV affected individuals across all age groups, with a higher incidence\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013548.g005&size=inline",
+      "publishedAt": "2025-09-15 14:00:00",
+      "content": "Introduction Chikungunya virus (CHIKV) is a mosquito-borne alphavirus in the family Togaviridae, primarily transmitted by Aedes aegypti and Aedes albopictus mosquitoes [1]. CHIKV is the etiological \u2026 [+56121 chars]",
+      "retrievedAt": "2025-09-16 19:06:15.080877",
+      "internal_id": "1322ee759275b4315009567edf15daae4edcab602125a5b46073b7fb31dcf7d8",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Perugia dopo viaggio in zona endemica",
+      "description": "E' risultata positiva agli anticorpi per virus Dengue una donna residente nel comune di Perugia, rientrata da un viaggio all'estero, in una zona endemica per la malattia. (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2025/09/15/caso-di-dengue-a-perugia-dopo-viaggio-in-zona-endemica_ece2a336-3fbe-4efd-b126-1e9cb4340c1f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/9/15/6639ad032335daf0c3deb27d42a7316c.jpg",
+      "publishedAt": "2025-09-15 13:10:35",
+      "content": "E' risultata positiva agli anticorpi per virus Dengue una donna residente nel comune di Perugia, rientrata da un viaggio all'estero, in una zona endemica per la malattia. A comunicarlo \u00e8 il Serviz\u2026 [+1514 chars]",
+      "retrievedAt": "2025-09-16 19:06:13.853676",
+      "internal_id": "6d940cd3fa2c4d949421afe620adc52b2f62fed1e176aa70d1d9d3879d01eff5",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24540,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "239 new dengue cases in a week, total infections in reach 4,353",
+      "description": "KATHMANDU: In the past week, 239 new cases of dengue have been reported across Nepal, bringing the total number of infections to 4,353, according to the Epidemiology and Disease Control Division (EDCD). Of these, 33 new cases were reported in the past 24 hour\u2026",
+      "url": "https://english.khabarhub.com/2025/15/496579/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-09-15 11:45:35",
+      "content": "KATHMANDU: In the past week, 239 new cases of dengue have been reported across Nepal, bringing the total number of infections to 4,353, according to the Epidemiology and Disease Control Division (EDC\u2026 [+622 chars]",
+      "retrievedAt": "2025-09-16 19:06:13.878239",
+      "internal_id": "ded364320e1f6a41c9a25bf0942e12623c1feab79fa39c54fe4d2641d388fa41",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24536,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Benedict Michael, Professor, Infectious Neuroscience, University of Liverpool",
+      "title": "Child dies from complications of measles years after infection \u2013 SSPE explained",
+      "description": "Why falling vaccination rates put vulnerable children at risk.",
+      "url": "https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220",
+      "urlToImage": "https://images.theconversation.com/files/690725/original/file-20250914-56-mqo1jn.jpg?ixlib=rb-4.1.0&rect=0%2C156%2C5680%2C2840&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-09-15 11:30:52",
+      "content": "A child with measles. Natalya Maisheva/Shutterstock.com A school-age child has died from a devastating brain complication of measles in Los Angeles, highlighting the deadly consequences of declining\u2026 [+3365 chars]",
+      "retrievedAt": "2025-09-16 19:06:12.168172",
+      "internal_id": "759e3ef43a4605f3eae6a20674cc3c01c5642eb326a97bff6c0cabd8f85234cd",
+      "publishedAtLabel": "Sep 15"
+    },
     {
       "id": 24530,
       "query": [
@@ -19954,132 +20116,6 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23427,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
-      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 17:42:28",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2025-08-04 19:08:24.635062",
-      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23430,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
-      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
-      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
-      "publishedAt": "2025-08-03 17:06:35",
-      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.558824",
-      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Gardy Chacha",
-      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
-      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
-      "publishedAt": "2025-08-03 16:44:48",
-      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
-      "retrievedAt": "2025-08-04 19:08:25.790586",
-      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23426,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Ratt",
-      "title": "Measles And Mania Are Both Contagious",
-      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
-      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
-      "publishedAt": "2025-08-03 12:00:01",
-      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.512308",
-      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
-      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
-      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
-      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
-      "publishedAt": "2025-08-03 10:59:51",
-      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.355606",
-      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23424,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.cc",
-      "author": "saamaan1@yahoo.com (Master)",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:21:28",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.270150",
-      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23425,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "Kingman",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:05:06",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.294637",
-      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
