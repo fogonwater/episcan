@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-09-15 19:06
-- **Most recent article:** 2025-09-14 17:16:59
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-09-16 07:08
+- **Most recent article:** 2025-09-15 06:46:17
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 4 | 324 |
-| measles | 20 | 26 | 50 | 33 | 45 | 39 | 1 | 214 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 1 | 185 |
-| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 2 | 97 |
-| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 0 | 95 |
-| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 0 | 92 |
-| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 0 | 51 |
+| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 5 | 326 |
+| measles | 22 | 26 | 50 | 33 | 45 | 39 | 1 | 216 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 2 | 186 |
+| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 3 | 100 |
+| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 0 | 96 |
+| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 0 | 93 |
+| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 3 | 54 |
 | zika | 5 | 9 | 7 | 8 | 4 | 6 | 0 | 39 |
 | meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 1 | 35 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (rabies)
 
+- [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
+
 - [Health officials warn more people are being bitten by bats across Sask.](https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/) (larongeNOW)
 
 - [Wilayah Thailand Ini Ditetapkan Zona Wabah Rabies, Pergerakan Hewan Dibatasi](https://health.detik.com/berita-detikhealth/d-8111079/wilayah-thailand-ini-ditetapkan-zona-wabah-rabies-pergerakan-hewan-dibatasi) (Detik.com)
@@ -46,11 +48,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
 
+## 25-38 (h5n1)
+
+- [국내 가금공장서 고병원성 조류인플루엔자 첫 발생](https://zdnet.co.kr/view/?no=20250915154617) (Zdnet.co.kr)
+
+- [Effect of Seasonal Influenza Vaccines on Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Ferrets](https://wwwnc.cdc.gov/eid/article/31/10/25-0668_article) (Cdc.gov)
+
+- [경기도서 조류인플루엔자, 아프리카돼지열병 발생...방역 비상](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659) (Ohmynews.com)
+
 ## 25-38 (dengue)
+
+- [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
 
 - [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
 
 ## 25-38 (chikungunya)
+
+- [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
 
 - [Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre](https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html) (ANSA.it)
 
@@ -2194,6 +2208,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
+
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2211,6 +2229,8 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
+
+- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2258,6 +2278,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
+- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
+
+- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
+
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2293,6 +2317,8 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
+
+- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2585,3 +2611,5 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
+
+- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)

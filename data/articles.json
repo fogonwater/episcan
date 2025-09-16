@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-09-15 19:06",
-  "count_articles_total": 1097,
-  "count_articles_new": 7,
+  "last_updated": "2025-09-16 07:08",
+  "count_articles_total": 1110,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 24530,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zdnet.co.kr",
+      "author": "\uae40\uc591\uade0 \uae30\uc790",
+      "title": "\uad6d\ub0b4 \uac00\uae08\uacf5\uc7a5\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \uccab \ubc1c\uc0dd",
+      "description": "[\uc9c0\ub514\ub137\ucf54\ub9ac\uc544]\uad6d\ub0b4 \uac00\uae08\uacf5\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \ubc1c\uc0dd\ud558\uba74\uc11c \ubc29\uc5ed\ub2f9\uad6d\uc774 \uc778\uccb4\uac10\uc5fc \uc0c1\ud669 \uac10\uc2dc\uc5d0 \ub098\uc130\ub2e4.H5N1\ud615 AI \ud56d\uc6d0\uc774 \uac80\ucd9c\ub41c \uacf3\uc740 \uacbd\uae30 \ud30c\uc8fc\uc5d0 \uc788\ub294 \uac00\uae08\uacf5\uc7a5. \u201925-\u201926\uc808\uae30 \uad6d\ub0b4 \uac00\uae08\ub18d\uc7a5\uc5d0\uc11c AI \ud56d\uc6d0\uc774 \ud655\uc778\ub41c \uac83\uc740 \uc774\ubc88\uc774 \ucc98\uc74c\uc774\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad\uc740 13\uc77c \uc9c0\uc790\uccb4\uc640 \ud568\uaed8 \ud604\uc7a5\ub300\uc751\uc694\uc6d0\uc744 \ud30c\uacac\ud588\ub2e4. \uc778\uccb4\uac10\uc5fc \uc608\ubc29\uc744 \uc704\ud574\uc11c\ub2e4. \uc544\uc9c1 \uad6d\ub0b4\uc5d0\uc11c AI \uc778\uccb4\uac10\uc5fc\uc774 \ubcf4\uace0\ub41c \uc0ac\ub840\ub294 \uc5c6\ub2e4.\uc9c8\ubcd1\uccad\uc740 \ub18d\uc7a5 \uc885\uc0ac\uc790\uc640 \uc0b4\ucc98\ubd84 \ucc38\uc5ec\uc790 \ub4f1 \uace0\uc704\ud5d8\uad70\uc5d0 \ub300\ud574 \uac1c\uc778\ubcf4\ud638\uad6c \ucc29\u2026",
+      "url": "https://zdnet.co.kr/view/?no=20250915154617",
+      "urlToImage": "https://image.zdnet.co.kr/2025/09/15/f9dc6c3412de4470a5474f49940068b2.jpg",
+      "publishedAt": "2025-09-15 06:46:17",
+      "content": "(AI) . H5N1 AI . 25-26 AI . 13 . . AI . . . AI 1 (Hemagglutinin, Neuraminidase) 198 . AI , (Interspecies barrier) . . (=) AI 1 (Hemagglutinin, Neuraminidase) 198 . AI . (Interspecies barrier) \u2026 [+125 chars]",
+      "retrievedAt": "2025-09-16 07:08:14.642157",
+      "internal_id": "928dea1b32872aa4ddcc80ffd86cffcb088db8f063851eee6e4c513ec367fe23",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24529,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Swedha Radhakrishnan",
+      "title": "Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai",
+      "description": "A Royapettah resident tragically died from rabies despite completing the full vaccine course after a stray dog bite in July. Doctors suspect improper vaccine storage or delayed initial treatment as potential factors. While Chennai sees approximately 30,000 do\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123892213,width-1070,height-580,imgsize-23268,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-15 04:46:43",
+      "content": "Katrina Kaif, Janhvi Kapoor, Alia Bhatt: Bollywood actresses in stunning, simple styles",
+      "retrievedAt": "2025-09-16 07:08:13.670898",
+      "internal_id": "b2dd1036436fb295e00083a9311ce6386e48f09831cafdf67f5dd9933fdbcc5f",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24531,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Effect of Seasonal Influenza Vaccines on Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Ferrets",
+      "description": "Effect of Influenza Vaccines on H5N1 in Ferrets",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/10/25-0668_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-09-15 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Human seasonal influenza A\u2026 [+25585 chars]",
+      "retrievedAt": "2025-09-16 07:08:14.654044",
+      "internal_id": "1dc85d0adf5d675472ec75938e2bf82ebc95197735c62e83638d8b5e466694c7",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24534,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Redazione)",
+      "title": "Virus chikungunya, allerta nel Veronese",
+      "description": "Gi\u00e0 46 contagiati, via alle disinfestazioni",
+      "url": "https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/09/15/1757911419-ajax-request.jpg?_=1757911419",
+      "publishedAt": "2025-09-15 03:00:03",
+      "content": "Cresce l'allarme per il virus Chikungunya nel Veronese con i casi di contagio che continuano a salire e una disinfestazione a tappeto organizzata dalle autorit\u00e0. I contagi sono saliti a quota 46 con \u2026 [+1866 chars]",
+      "retrievedAt": "2025-09-16 07:08:15.875639",
+      "internal_id": "f6b9243304fa32ed96d4d97972adb95915f614b08e27116a9ef98025ad89917f",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24532,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\uc720\ucc3d\uc7ac",
+      "title": "\uacbd\uae30\ub3c4\uc11c \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790, \uc544\ud504\ub9ac\uce74\ub3fc\uc9c0\uc5f4\ubcd1 \ubc1c\uc0dd...\ubc29\uc5ed \ube44\uc0c1",
+      "description": "\ucd5c\uadfc \uacbd\uae30\ub3c4 \ud30c\uc8fc\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \ubc1c\uc0dd\ud55c \ub370 \uc774\uc5b4 \uc5f0\ucc9c\uc5d0\uc11c \uc544\ud504\ub9ac\uce74\ub3fc\uc9c0\uc5f4\ubcd1(ASF)\uc774 \ud655\uc778\ub3fc \ubc29\uc5ed\ub2f9\uad6d\uc5d0 \ube44\uc0c1\uc774 \uac78\ub838\ub2e4. \uc544\ud504\ub9ac\uce74\ub3fc\uc9c0\uc5f4\ubcd1(ASF) \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80\ub294 15\uc77c \ub3fc\uc9c0 1000\uc5ec \ub9c8\ub9ac\ub97c \uc0ac\uc721\ud558\ub294 \uc591\ub3c8\ub18d\uc7a5\uc5d0\uc11c \ud3d0\uc0ac \ub4f1 \uc758\uc2ec \uc2e0\uace0\ub97c \ubc1b\uace0 \uc815\ubc00\uac80\uc0ac\ub97c \uc2e4\uc2dc\ud55c \uacb0\uacfc, \uc544\ud504\ub9ac\uce74\ub3fc\uc9c0\uc5f4\ubcd1\uc73c\ub85c \ud655\uc778\ub410\ub2e4\uace0 \ubc1d\ud614\ub2e4. \uc774\uc5d0 \uc815\ubd80\ub294 \ud574\ub2f9 \ub18d\uc7a5\uc758 \ub3fc\uc9c0 847\ub9c8\ub9ac\ub97c \uc0b4\ucc98\ubd84\ud558\uace0 \uc18c\ub3c5 \ubc0f \uc5ed\ud559\uc870\uc0ac \ub4f1 \uae34\uae09\ubc29\uc5ed \uc870\uce58 \uc911\uc774\ub77c\uace0 \uc804\ud588\ub2e4. \uc774\ubc88 \ucc98\ubd84\ub418\ub294 \ub3fc\uc9c0\ub294 \uc804\uccb4 \u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659",
+      "urlToImage": "https://ojsfile.ohmynews.com/CRI_T_IMG/2025/0915/A0003165659_T.jpg",
+      "publishedAt": "2025-09-15 02:40:14",
+      "content": "(AI) (ASF) .(ASF) 15 1000 , . 847 . (11931000) 0.01% , . , . (SOP) .. , 5 ( \u00b7\u00b7\u00b7\u00b7 ) , . 14 8 16 8 48 . . \" , , \" . ... '' '' 12 3100 H5N1 . 10 11 . '' '' , , . . . , , , . \" , AI \" \" AI \" . \u2026 [+50 chars]",
+      "retrievedAt": "2025-09-16 07:08:14.662809",
+      "internal_id": "5e250be60dd55f02723827782c6fadd268ca1270f103a3e067f0f8ae5cbbacef",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24533,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "Reportan 16 muertes a causa del dengue en una semana",
+      "description": "Patricia Rodr\u00edguez Calva En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. \u00bfQU\u00c9 ESTADOS NOTIFICARON DEFUNCIONES? De acuerdo al report\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/09/14/3379941.jpg",
+      "publishedAt": "2025-09-14 20:52:09",
+      "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
+      "retrievedAt": "2025-09-16 07:08:14.961699",
+      "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
+      "publishedAtLabel": "Sep 14"
+    },
     {
       "id": 24527,
       "query": [
@@ -19846,6 +19954,132 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23427,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
+      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 17:42:28",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-08-04 19:08:24.635062",
+      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
+      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
+      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-03 17:06:35",
+      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.558824",
+      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Gardy Chacha",
+      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
+      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
+      "publishedAt": "2025-08-03 16:44:48",
+      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
+      "retrievedAt": "2025-08-04 19:08:25.790586",
+      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Ratt",
+      "title": "Measles And Mania Are Both Contagious",
+      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
+      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
+      "publishedAt": "2025-08-03 12:00:01",
+      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.512308",
+      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
+      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
+      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
+      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
+      "publishedAt": "2025-08-03 10:59:51",
+      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.355606",
+      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23424,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.cc",
+      "author": "saamaan1@yahoo.com (Master)",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:21:28",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.270150",
+      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.ru",
+      "author": "Kingman",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:05:06",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.294637",
+      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
