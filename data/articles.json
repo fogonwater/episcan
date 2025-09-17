@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-09-17 07:07",
-  "count_articles_total": 1126,
-  "count_articles_new": 7,
+  "last_updated": "2025-09-17 19:06",
+  "count_articles_total": 1138,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 24559,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Nkweauseh Reginald Longfor",
+      "title": "Cameroon could be turning waste to energy: Study uncovers why it's not, and sets out solutions",
+      "description": "Many African cities still struggle with litter and garbage that is not properly disposed of. This poses serious public health risks. It attracts vectors of disease like mosquitoes and flies, and can lead to cholera and malaria outbreaks.",
+      "url": "https://phys.org/news/2025-09-cameroon-energy-uncovers-solutions.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/landfills.jpg",
+      "publishedAt": "2025-09-16 19:00:01",
+      "content": "Many African cities still struggle with litter and garbage that is not properly disposed of. This poses serious public health risks. It attracts vectors of disease like mosquitoes and flies, and can \u2026 [+7004 chars]",
+      "retrievedAt": "2025-09-17 19:06:04.811770",
+      "internal_id": "a4d58a8bcaa9b1da857aa15638e40a21149ec94871e0b1a5fe8003db4f31f04d",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24558,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": null,
+      "title": "Lola packt kr\u00e4ftig mit an - Vom TV-Star zur Dachdeckerin",
+      "description": "Hier wird ordentlich mit angepackt! Moderatorin Lola Weippert ist nach \u00fcberstandener Meningitis im vergangenen Monat nun wieder voller Tatendrang.",
+      "url": "https://www.bild.de/unterhaltung/stars-und-leute/lola-weippert-hilft-beim-umbau-ihres-bauernhofs-68c905bf5edc9510719a90e1",
+      "urlToImage": "https://images.bild.de/68c905bf5edc9510719a90e1/98557344c3718e0c44a6729dc1fe3a52,c90353c6?w=1280",
+      "publishedAt": "2025-09-16 18:08:53",
+      "content": "Mehr zum Video anzeigen Hier wird ordentlich mit angepackt! Moderatorin Lola Weippert ist nach \u00fcberstandener Meningitis im vergangenen Monat nun wieder voller Tatendrang. Quelle: lolaweippert/Ins\u2026 [+27 chars]",
+      "retrievedAt": "2025-09-17 19:06:04.385154",
+      "internal_id": "5911e12d9991899e0b0c4912563bcb49ac53839ecd0cde9783069d558d564a83",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24566,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Akseli Vanhala",
+      "title": "Virus levi\u00e4\u00e4 Italiassa \u2013 tapahtumia peruttu",
+      "description": "WHO on varoittanut, ett\u00e4 tauti saattaa levit\u00e4 maailmanlaajuisesti.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011499044.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/8ad6ec915cf2157cba32f67c9f4b8a72/some/is-default.jpg",
+      "publishedAt": "2025-09-16 18:00:00",
+      "content": "WHO on varoittanut, ett\u00e4 tauti saattaa levit\u00e4 maailmanlaajuisesti.Italiassa Veneton ja Emilia-Romagnan hallintoalueita koettelee chikungunyavirus-epidemia, kertovat italialaiset La Stampa ja Corriere\u2026 [+1722 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.156481",
+      "internal_id": "d3bfbf7f31b2b5f98215c38d83f7eb1169e377ad7a6f7760bf67441e7ca8b0e5",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24561,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Mathilde Fr\u00e9nois",
+      "title": "\u00abOn est comme les pompiers\u00bb : \u00e0 Nice, une op\u00e9ration antimoustiques pour pr\u00e9venir l\u2019explosion de cas chikungunya",
+      "description": "Pulv\u00e9risation nocturne, installation de pi\u00e8ges, pr\u00e9vention\u2026 Face \u00e0 une recrudescence record de cas autochtones de chikungunya, l\u2019agence r\u00e9gionale de sant\u00e9 Provence-Alpes-C\u00f4te-d\u2019Azur multiplie les op\u00e9rations de lutte.",
+      "url": "https://www.liberation.fr/societe/sante/on-est-comme-les-pompiers-a-nice-une-operation-antimoustiques-pour-prevenir-lexplosion-de-cas-chikungunya-20250916_GESPRD6VPZHV3IIKUUJFF3XGEA/",
+      "urlToImage": "https://www.liberation.fr/resizer/v2/HKSLP4SWJVHMTDPQYQDC43MKOA.jpg?auth=1ebdaeaae4298aa08317dd4034f1fdd8238b64eeea527a04d9f84adece407108&quality=70&width=1200&height=630&focal=1943%2C1367",
+      "publishedAt": "2025-09-16 17:35:07",
+      "content": "A 3 heures du matin, le moustique tigre dort \u00e0 poings ferm\u00e9s. Il est au beau milieu de sa nuit, bien blotti dans les buissons et les bosquets du parc Jean-Moreno de Nice. A ce moment-l\u00e0, il ne vole p\u2026 [+834 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.077159",
+      "internal_id": "6f1742285a3e9fdefd40f93ef0d906880ed7095e9b96dadd9520ad817a49b37b",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24552,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. Appoints 5 New Members To CDC Vaccine Advisory Panel (Reuters)",
+      "description": "Reuters: RFK Jr. Appoints 5 New Members To CDC Vaccine Advisory Panel \u2014 The committee is meeting this week to review guidance on shots for hepatitis B, measles-mumps-rubella-varicella and COVID-19. \u2014 U.S. Health Secretary Robert F. Kennedy Jr. on Monday a\u2026",
+      "url": "https://www.memeorandum.com/250916/p74",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68c928931900002eee34d19e.jpg?ops=1200_630",
+      "publishedAt": "2025-09-16 16:40:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-09-17 19:06:03.236543",
+      "internal_id": "f0c1d2823f87aa1994637f41cf9246f58cd50ff91af573bf8fd3642411edb5dd",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24564,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Vivien Valentiner",
+      "title": "Chikungunya-Virus: Ausw\u00e4rtiges Amt warnt Italien-Urlauber",
+      "description": "In Italien steigen die Infektionsf\u00e4lle zu. Das Chikungunya-Virus k\u00f6nnte zur Epidemie werden, warnt die WHO. Die wichtigsten Infos zu Symptomen, Inkubationszeit und Impfung.",
+      "url": "https://www.morgenpost.de/panorama/article409578768/chikungunya-virus-who-italien-urlauber-impfung-symptome-schutz-muecken.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406127812/406127812_1753261772_v16_9_1600.jpeg",
+      "publishedAt": "2025-09-16 13:48:58",
+      "content": "Fallzahlen des Chikungunya-Fiebers nehmen zu: Urlauber in Norditalien sollten aktuell Wert auf guten M\u00fcckenschutz legen. Besonders betroffen sind die Regionen Emilia-Romagna und Veneto. In Verona wur\u2026 [+5279 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.130436",
+      "internal_id": "b7e4d62a7bd03a75664970bea7d7bffbfff26251d4d798bc25c22d0abcca795a",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24553,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Benedict Michael",
+      "title": "A child has died years after a measles infection. Here\u2019s what we know",
+      "description": "Subacute sclerosing panencephalitis (SSPE) is a progressive brain condition that strikes years after initial measles infection",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-symptoms-sspe-disease-death-b2827494.html",
+      "urlToImage": "https://static.the-independent.com/2025/02/11/19/37/iStock-2053751760.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-09-16 13:11:10",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+4288 chars]",
+      "retrievedAt": "2025-09-17 19:06:03.246379",
+      "internal_id": "e0aa71691e10cee5ea1a0dc4bfc6b1f7658d0213f6841b5f7e38942a11c2255e",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24562,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "CHIP Online Deutschland",
+      "author": null,
+      "title": "Ausw\u00e4rtiges Amt warnt \u2013 Chikungunya-Ausbruch in Italien",
+      "description": "Das Chikungunya-Virus breitet sich in Italien aus. Es wird von M\u00fccken der Gattung Aedes \u00fcbertragen. Was das Ausw\u00e4rtige Amt r\u00e4t.",
+      "url": "https://www.chip.de/news/gesundheit/auswaertiges-amt-warnt-chikungunya-ausbruch-in-italien_b90883fc-bdad-45b7-96a5-fb8d6d5abd98.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/9f4f67ea-dd60-43b3-82fc-028f0e7d73ae.e344080c-003f-4e77-aa9d-8c752a2aabc0.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281216%2C798%29&hash=de083d3f06f4410838e4c9a3e5256ccf104c35a363797a3f0592398b3e8f090c",
+      "publishedAt": "2025-09-16 13:09:00",
+      "content": "In Italien w\u00e4chst die Sorge um das Chikungunya-Virus, das sich zunehmend ausbreitet. Laut dem Instituto Superiore di Sanit\u00e0 wurden bis zum 9. September 2025 208 F\u00e4lle best\u00e4tigt, wobei 41 F\u00e4lle auf Au\u2026 [+2162 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.103461",
+      "internal_id": "560707e82d8fc678f02361ff3db60e203831317c0b21ec8a5cdc44681576c38b",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24565,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Chikungunya-Fieber: Ausw\u00e4rtiges Amt warnt Italien-Urlauber vor Tigerm\u00fccken",
+      "description": "Asiatische Tigerm\u00fccken werden in Teilen Italiens zunehmend zur gef\u00e4hrlichen Plage. Urlaubern wird eine Impfung nahegelegt. Auch in Frankreich k\u00e4mpfen die Beh\u00f6rden gegen die neue Seuche.",
+      "url": "https://www.tagesspiegel.de/gesundheit/chikungunya-fieber-auswartiges-amt-warnt-italien-urlauber-vor-tigermucken-14204129.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14336606/alternates/BASE_16_9_W1400/1758022295000/kampf-gegen-denguefieber-in-brasilien.jpeg",
+      "publishedAt": "2025-09-16 12:08:19",
+      "content": "Das Ausw\u00e4rtige Amt warnt Italien-Urlauber insbesondere in den Regionen Emilia-Romagna (Bologna, Rimini, Parma) und Venetien (Venedig, Verona) vor Tigerm\u00fccken. Das Au\u00dfenministerium gab j\u00fcngst eine ent\u2026 [+3394 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.147354",
+      "internal_id": "ce76cfca48bbcba4f8bb8ada191dd7a34dc1b1ebe74d836d14b3e6a8b01d28f8",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24555,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Krishna Pandey",
+      "title": "Israel Health Ministry reported 481 new measles cases bringing total to 1251 estimates 3950 people infected | \u0928 \u0917\u094b\u0932\u093e-\u092c\u093e\u0930\u0942\u0926 \u0928 \u0939\u0940 \u0939\u092e\u0932\u093e \u092b\u093f\u0930 \u0915\u093f\u0938\u0915\u0947 '\u0906\u0924\u0902\u0915' \u0938\u0947 \u0926\u0939\u0936\u0924 \u092e\u0947\u0902 \u092a\u0942\u0930\u093e \u0907\u091c\u0930\u093e\u092f\u0932? \u091c\u093f\u0902\u0926\u0917\u0940 \u092c\u091a\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u0930 \u0915\u094b\u0908 \u0915\u0930 \u0930\u0939\u093e \u0924\u0948\u092f\u093e\u0930\u0940",
+      "description": "Israel reports 481 new measles cases: \u0907\u091c\u0930\u093e\u092f\u0932 \u092e\u0947\u0902 \u0907\u0928 \u0926\u093f\u0928\u094b\u0902 \u090f\u0915 \u0910\u0938\u093e \u0906\u0924\u0902\u0915 \u092b\u0948\u0932\u093e \u0939\u0941\u0906 \u0939\u0948 \u091c\u094b \u0928 \u0917\u094b\u0932\u0947-\u092c\u093e\u0930\u0942\u0926 \u0938\u0947 \u091c\u0941\u0921\u093c\u093e \u0939\u0948, \u0928 \u0939\u0940 \u0938\u0940\u0927\u0940 \u0939\u092e\u0932\u094b\u0902 \u0938\u0947. \u092b\u093f\u0930 \u092d\u0940 \u092a\u0942\u0930\u093e \u0926\u0947\u0936 \u0926\u0939\u0936\u0924 \u092e\u0947\u0902 \u0939\u0948. \u092f\u0947 \u0939\u0948 \u0916\u0938\u0930\u0947 \u0915\u093e \u092a\u094d\u0930\u0915\u094b\u092a, \u091c\u094b \u091a\u0941\u092a\u091a\u093e\u092a \u092b\u0948\u0932 \u0930\u0939\u093e \u0939\u0948 \u0914\u0930 \u091b\u094b\u091f\u0947 \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u091c\u093f\u0902\u0926\u0917\u093f\u092f\u093e\u0902 \u0916\u0924\u0930\u0947 \u092e\u0947\u0902 \u0921\u093e\u0932 \u0930\u0939\u093e \u0939\u0948. \u091c\u093e\u0928\u0947\u0902 \u092a\u2026",
+      "url": "https://zeenews.india.com/hindi/world/israel-health-ministry-reported-481-new-measles-cases-bringing-total-to-1251-estimates-3950-people-infected/2924436",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/09/16/4147257-isreal-measles.jpg?im=FitAndFill=(600,315)",
+      "publishedAt": "2025-09-16 11:53:47",
+      "content": "Measles scare in Israel: '' . , 1,251 , 481 . , . - , . : - ?. , . , '' . 2,250 3,950 . 29 , 6 . , ECMO . \" , ,\" , , , . : 18 2 . . , . , , . 10-14 , - . 5-6 . , 2023 1,07,500 , . - , '' - . ( )",
+      "retrievedAt": "2025-09-17 19:06:03.306099",
+      "internal_id": "825fd683dabef34e1c73b5a0a9267dbb9ed39f565434f69356d13cbcf1203252",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24563,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Urlaubspiraten.de",
+      "author": "Tobi",
+      "title": "Reisehinweis vom Ausw\u00e4rtigen Amt: Tropenkrankheit in Teilen Italiens",
+      "description": "Die wichtigsten Infos \u00fcber die Chikungunya-F\u00e4lle in Norditalien.",
+      "url": "https://www.urlaubspiraten.de/reise-journal/de-reisehinweis-vom-auswaertigen-amt-tropenkrankheit-in-teilen-italiens",
+      "urlToImage": "https://image.urlaubspiraten.de/720/image/upload/v1693562684/Impressions%20and%20Other%20Assets/shutterstock_1438793243_pdyeu5.jpg",
+      "publishedAt": "2025-09-16 11:46:29",
+      "content": "Das Ausw\u00e4rtige Amt hat in diesen Tagen einen neuen Reisehinweis f\u00fcr Italien ver\u00f6ffentlicht und darum geht es: Seit Ende Juli 2025 werden aus den Regionen Emilia-Romagna und Veneto \u00fcber steigende Fa\u2026 [+1586 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.112875",
+      "internal_id": "bebdb797ab331e5c790f251916bbbfcaead0c6608f3be8860475cebbe58b0106",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24560,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039d\u03b1\u03c4\u03ac\u03c3\u03b1 \u03a3\u03c4\u03b1\u03c3\u03b9\u03bd\u03bf\u03cd",
+      "title": "\u0395\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03bf\u03c2 \u03c4\u03bf\u03c5 Chagas \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391: \u039f \u03b1\u03b9\u03bc\u03bf\u03b2\u03cc\u03c1\u03bf\u03c2 \u03ba\u03bf\u03c1\u03b9\u03cc\u03c2 \u2013 \u03c6\u03bf\u03c1\u03ad\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03ce\u03c2 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9",
+      "description": "\u0397 \u03bd\u03cc\u03c3\u03bf\u03c2 \u03c4\u03bf\u03c5 Chagas, \u03bc\u03b9\u03b1 \u03b4\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03b1 \u03c0\u03ac\u03b8\u03b7\u03c3\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c0\u03b1\u03c1\u03ac\u03c3\u03b9\u03c4\u03bf Trypanosoma cruzi \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c3\u03c9 \u03c4\u03c9\u03bd \u03bb\u03b5\u03b3\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u00ab\u03ba\u03bf\u03c1\u03b9\u03ce\u03bd \u03c4\u03bf\u03c5 \u03c6\u03b9\u03bb\u03b9\u03bf\u03cd\u00bb (\u03c4\u03c1\u03b9\u03b1\u03c4\u03bf\u03bc\u03af\u03bd\u03b5\u03c2), \u03ad\u03c7\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c3\u03c4\u03b1\u03b8\u03b5\u03c1\u03ae \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03c3\u03b5 \u03b1\u03c1\u03ba\u03b5\u03c4\u03ad\u03c2\u2026 \u0395\u03be\u03b1\u03c0\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03bf\u03c2 \u03c4\u03bf\u03c5 Chagas \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391: \u2026",
+      "url": "https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2025/09/kissinbag.jpg",
+      "publishedAt": "2025-09-16 11:34:45",
+      "content": "Chagas, Trypanosoma cruzi \u00ab \u00bb (), , . , , Emerging Infectious Diseases (CDC). \u00ab Chagas ( ) \u00bb, CNN . N , , . Chagas \u00ab \u00bb, 21 . Zika. \u00ab \u00bb , , (, , ). , , . , , , , . 20%30% , , . , , . , . \u2026 [+156 chars]",
+      "retrievedAt": "2025-09-17 19:06:04.947862",
+      "internal_id": "10a400dccc12686341dcb1109779a5c48b0c50788325f4e227bb7032b8838ddf",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24551,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "Strengthening Rabies Defence in Canada: CAHI Announces 2025 World Rabies Day Webinar",
+      "description": "OTTAWA, Ontario, Sept. 16, 2025 (GLOBE NEWSWIRE) \u2014 The Canadian Animal Health Institute (CAHI) is proud to continue its tradition of hosting a webinar in recognition of World Rabies Day. This year\u2019s event, taking place on Friday, September 26, 2025, will focu\u2026",
+      "url": "https://financialpost.com/globe-newswire/strengthening-rabies-defence-in-canada-cahi-announces-2025-world-rabies-day-webinar",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/09/canadian-animal-health-institute.jpeg",
+      "publishedAt": "2025-09-16 10:04:04",
+      "content": "OTTAWA, Ontario, Sept. 16, 2025 (GLOBE NEWSWIRE) The Canadian Animal Health Institute (CAHI) is proud to continue its tradition of hosting a webinar in recognition of World Rabies Day. This years eve\u2026 [+4238 chars]",
+      "retrievedAt": "2025-09-17 19:06:02.942196",
+      "internal_id": "741d20fa96a7da039cc7329d893c05d539b84d0d521594e6b2e36910df21a4bf",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24554,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Reuters",
+      "title": "RFK Jr. Appoints 5 New Members To CDC Vaccine Advisory Panel",
+      "description": "The committee is meeting this week to review guidance on shots for hepatitis B, measles-mumps-rubella-varicella and COVID-19.",
+      "url": "https://www.huffpost.com/entry/rfk-jr-new-members-cdc-vaccine-panel_n_68c9270de4b056d71f62649c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68c928931900002eee34d19e.jpeg?cache=m8h47EYnc7&ops=1200_630",
+      "publishedAt": "2025-09-16 09:10:44",
+      "content": "Sept. 15 (Reuters) - U.S. Health Secretary Robert F. Kennedy Jr. on Monday appointed five new members to the revamped advisory panel that advises the Centers for Disease Control and Prevention on vac\u2026 [+3207 chars]",
+      "retrievedAt": "2025-09-17 19:06:03.295788",
+      "internal_id": "b06584dc70caac45454e3d5d3a3b82d2261b190d6f9301be7edae48fdccc0364",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24557,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Cegah Penyakit DBD, Babinsa Koramil Bunut Hulu Dampingi Kegiatan Fogging di Wilayah Binaan",
+      "description": "KALBARONLINE.com - Dalam upaya mencegah penyebaran penyakit Demam Berdarah Dengue (DBD), Serda Budal selaku Babinsa Koramil 1206-13/Bunut Hulu, mendampingi kegiatan penyemprotan atau fogging yang dilaksanakan oleh Pemerintah Desa Nanga Payang bekerja sama den\u2026",
+      "url": "https://kalbaronline.com/2025/09/16/cegah-penyakit-dbd-babinsa-koramil-bunut-hulu-dampingi-kegiatan-fogging-di-wilayah-binaan/",
+      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2025/09/IMG-20250916-WA0025.jpg",
+      "publishedAt": "2025-09-16 09:00:01",
+      "content": "KALBARONLINE.com \u2013 Dalam upaya mencegah penyebaran penyakit Demam Berdarah Dengue (DBD), Serda Budal selaku Babinsa Koramil 1206-13/Bunut Hulu, mendampingi kegiatan penyemprotan atau fogging yang dil\u2026 [+1115 chars]",
+      "retrievedAt": "2025-09-17 19:06:04.114676",
+      "internal_id": "a43ca9565f4f254e7692cc73036287ae6afe51647befc3f0ecf1b5799cfc6fbe",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24556,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hdblog.it",
+      "author": "HDblog.it",
+      "title": "Dengue in impennata entro il 2050: quanto pesa il caldo globale",
+      "description": "Il riscaldamento globale aumenta l\u0092incidenza della dengue fino al 76% entro il 2050.",
+      "url": "https://www.hdblog.it/green/articoli/n631711/dengue-caldo-clima-studio-pnas-2050/",
+      "urlToImage": "https://hd2.tudocdn.net/1287885?w=1920",
+      "publishedAt": "2025-09-16 08:50:00",
+      "content": "Un pianeta che si scalda non cambia solo le mappe climatiche, ma anche quelle della salute pubblica. E' quanto sostiene un\u2019analisi guidata da Marissa Childs, ricercatrice dell\u2019Universit\u00e0 di Washingto\u2026 [+3168 chars]",
+      "retrievedAt": "2025-09-17 19:06:04.052057",
+      "internal_id": "4eeeddef6208c4da9e5497f44039473ff1d802a70c962f57f10a13e71114af6b",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24567,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Carina Blumenroth",
+      "title": "Italien ringt mit Chikungunya-Ausbruch und setzt auf drastische Ma\u00dfnahmen zur Eind\u00e4mmung",
+      "description": "Das Chikungunya-Virus breitet sich in Verona aus. Veranstaltungen wurden abgesagt, das Ausw\u00e4rtige Amt warnt Touristen.",
+      "url": "https://www.focus.de/gesundheit/italien-ringt-mit-chikungunya-ausbruch-und-setzt-auf-drastische-massnahmen-zur-eindaemmung_4c9f1641-a3f5-4f54-973a-0070730bb495.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/0dba67e7-4a12-4ba0-b8ae-06e7e92dda04.82c307fd-3f85-4fe8-b408-da4489b18eee.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281250%2C923%29&hash=28763aae1f530bcff2554f4724c9867d855337900efe826b9ddf922562f784ea",
+      "publishedAt": "2025-09-16 08:26:19",
+      "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.165803",
+      "internal_id": "7c56423a6e06b2265c8a53fb4c02608303a11bb596fe11c0fcb3e1d267f8bb26",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24568,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Carina Blumenroth",
+      "title": "Italien k\u00e4mpft mit Chikungunya-Ausbr\u00fcchen und setzt auf drastische Ma\u00dfnahmen zur Eind\u00e4mmung",
+      "description": "Das Chikungunya-Virus breitet sich in Verona aus. Veranstaltungen wurden abgesagt, das Ausw\u00e4rtige Amt warnt Touristen.",
+      "url": "https://www.focus.de/gesundheit/italien-kaempft-mit-chikungunya-ausbruechen-und-setzt-auf-drastische-massnahmen-zur-eindaemmung_4c9f1641-a3f5-4f54-973a-0070730bb495.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/0dba67e7-4a12-4ba0-b8ae-06e7e92dda04.82c307fd-3f85-4fe8-b408-da4489b18eee.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281250%2C923%29&hash=28763aae1f530bcff2554f4724c9867d855337900efe826b9ddf922562f784ea",
+      "publishedAt": "2025-09-16 08:26:19",
+      "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.174950",
+      "internal_id": "284cc86edd91e761278c9418bcb547157464e4ee23a138f8dba85b632f4c1b31",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24569,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Carina Blumenroth",
+      "title": "Italien k\u00e4mpft mit Chikungunya-Ausbr\u00fcchen und setzt auf drastische Ma\u00dfnahmen",
+      "description": "Das Chikungunya-Virus breitet sich in Verona aus. Veranstaltungen wurden abgesagt, das Ausw\u00e4rtige Amt warnt Touristen.",
+      "url": "https://www.focus.de/gesundheit/italien-kaempft-mit-chikungunya-ausbruechen-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/0dba67e7-4a12-4ba0-b8ae-06e7e92dda04.82c307fd-3f85-4fe8-b408-da4489b18eee.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281250%2C923%29&hash=28763aae1f530bcff2554f4724c9867d855337900efe826b9ddf922562f784ea",
+      "publishedAt": "2025-09-16 08:26:19",
+      "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
+      "retrievedAt": "2025-09-17 19:06:05.183946",
+      "internal_id": "1c03903e0256eaafe34d864a666db77ab53b3b29f5d42d1b72db65cca9951125",
+      "publishedAtLabel": "Sep 16"
+    },
     {
       "id": 24549,
       "query": [
@@ -20242,132 +20584,6 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23427,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
-      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 17:42:28",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2025-08-04 19:08:24.635062",
-      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23430,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
-      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
-      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
-      "publishedAt": "2025-08-03 17:06:35",
-      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.558824",
-      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Gardy Chacha",
-      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
-      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
-      "publishedAt": "2025-08-03 16:44:48",
-      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
-      "retrievedAt": "2025-08-04 19:08:25.790586",
-      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23426,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Ratt",
-      "title": "Measles And Mania Are Both Contagious",
-      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
-      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
-      "publishedAt": "2025-08-03 12:00:01",
-      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.512308",
-      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
-      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
-      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
-      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
-      "publishedAt": "2025-08-03 10:59:51",
-      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.355606",
-      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23424,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.cc",
-      "author": "saamaan1@yahoo.com (Master)",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:21:28",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.270150",
-      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23425,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "Kingman",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:05:06",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.294637",
-      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
