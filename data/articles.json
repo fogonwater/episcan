@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-09-16 19:06",
-  "count_articles_total": 1112,
-  "count_articles_new": 9,
+  "last_updated": "2025-09-17 07:07",
+  "count_articles_total": 1126,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 24549,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Jenna M\u00fcller",
+      "title": "Ausw\u00e4rtiges Amt warnt Urlauber - Tropen-Seuche breitet sich in Norditalien aus",
+      "description": "Immer mehr Menschen infizieren sich mit dem Chikungunya-Virus, das von der Tigerm\u00fccke \u00fcbertragen wird",
+      "url": "https://www.bild.de/leben-wissen/medizin/auswaertiges-amt-warnt-urlauber-tropen-seuche-breitet-sich-in-norditalien-aus-68c8fc17bc538c447095df7d",
+      "urlToImage": "https://images.bild.de/68c8fc17bc538c447095df7d/0aa6b6ecac6f7c85460c973858abe7e9,f3382713?w=1280",
+      "publishedAt": "2025-09-16 07:00:22",
+      "content": "Um den TTS Player darzustellen, brauchen wir deine Zustimmung. externen Inhalt aktivieren Um eingebettete Inhalte anzuzeigen, ist Ihre jederzeit widerrufliche Einwilligung (\u00fcber den Schalter oder \u2026 [+2000 chars]",
+      "retrievedAt": "2025-09-17 07:07:20.553650",
+      "internal_id": "7f32761c0ed346f29d842f1368a59e33c7a357e551c2427d55d03be9d270bdfe",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24550,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Catherine Mary",
+      "title": "Mpox : comment le tecovirimat a pu \u00eatre prescrit \u00e0 des malades en l\u2019absence de preuve de son efficacit\u00e9",
+      "description": "Trois \u00e9tudes ont conclu que le traitement, dont l\u2019efficacit\u00e9 n\u2019avait \u00e9t\u00e9 d\u00e9montr\u00e9e que dans les mod\u00e8les animaux, n\u2019acc\u00e9l\u00e9rait pas la disparition des l\u00e9sions provoqu\u00e9es par le virus monkeypox.",
+      "url": "https://www.lemonde.fr/sciences/article/2025/09/16/mpox-comment-le-tecovirimat-a-pu-etre-prescrit-a-des-malades-en-l-absence-de-preuve-de-son-efficacite_6641346_1650684.html",
+      "urlToImage": "https://img.lemde.fr/2025/09/11/1/0/5804/3869/1440/960/60/0/bb0c472_upload-1-07bhj9ia3ih0-000-32ex4yb.jpg",
+      "publishedAt": "2025-09-16 04:30:20",
+      "content": "Un flacon de Tecovirimat, utilis\u00e9 pour le traitement de la mpox, \u00e0 New York, le 19 juillet 2022. YUKI IWAMURA / AFP Peut-on encore \u00ab sauver le soldat tecovirimat ? \u00bb, sinterrogeait par t\u00e9l\u00e9phone, fi\u2026 [+1232 chars]",
+      "retrievedAt": "2025-09-17 07:07:20.915499",
+      "internal_id": "e905815453db672664df28413001de5a43f31823f262f533acd0cf1a8203f29e",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24546,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Wsbtv.com News Staff",
+      "title": "Measles exposure: 220 close contacts identified to metro Atlanta person with confirmed case",
+      "description": "The Georgia Department of Public Health has identified about 220 close contacts with known exposures to the confirmed measles case, the agency reported Monday.",
+      "url": "https://www.wsbtv.com/news/local/fulton-county/measles-exposures-5-220-close-contacts-are-under-active-monitoring-dph-says/RYZ5BKNCBBCM5IXQJMYZOWDMKM/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQVDA3QR42VHSLN33QLNDKA3CSM.jpg?auth=9882631d774755a4c19fb23a2132c0bfae82511e0b4e417ade23f10d3c625bb1&width=1200&height=630&smart=true",
+      "publishedAt": "2025-09-15 23:14:41",
+      "content": "The Georgia Department of Public Health has identified about 220 close contacts with known exposures to a confirmed measles case, the agency reported Monday. Only five individuals are under active \u2026 [+1521 chars]",
+      "retrievedAt": "2025-09-17 07:07:18.930934",
+      "internal_id": "46b64b3906664b60c348aa63896ccd0bbf67a7bcc10a758d965eecbea1cda95c",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24544,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Mustafa Fattah, Jocelyn Shek, Joe Murphy",
+      "title": "Behind the data: How rising school exemptions are threatening public health",
+      "description": "How an NBC News data investigation tracked vaccination and school exemption rates across thousands of counties in the U.S.",
+      "url": "https://www.nbcnews.com/health/health-news/vaccine-children-exemption-data-measles-methodology-rcna229853",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/20250909-exempt-2x1-jw-c710de.jpg",
+      "publishedAt": "2025-09-15 21:00:00",
+      "content": "This year's lethal spread of measles in rural West Texas and other pockets of the U.S. was a strong warning about how protection against deadly childhood diseases is eroding around the nation. This\u2026 [+6855 chars]",
+      "retrievedAt": "2025-09-17 07:07:18.885957",
+      "internal_id": "b2430f6cee9160691394da27f585cd2dc2e72b48595cc56b05b1b3c167402301",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24545,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Eran Lahav",
+      "title": "Israel reports 481 new measles cases, bringing total to 1,251",
+      "description": "JERUSALEM, Sept. 15 (Xinhua) -- Israel's Health Ministry on Monday reported 481 new measles cases, bringing the total to 1,251 since the outbreak started in early April. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/09/16/israel-reports-481-new-measles-cases-bringing-total-to-1251",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-09-15 20:49:00",
+      "content": "JERUSALEM, Sept. 15 (Xinhua) -- Israel's Health Ministry on Monday reported 481 new measles cases, bringing the total to 1,251 since the outbreak started in early April. The ministry estimates that\u2026 [+959 chars]",
+      "retrievedAt": "2025-09-17 07:07:18.921709",
+      "internal_id": "639068fb9f6a572ecfd9e2dbd529ecc464b41280b972388815d997b043d60abd",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso sospetto di Dengue a Pavia, al via la disinfestazione",
+      "description": "Un caso sospetto di Dengue a Pavia. La segnalazione \u00e8 giunta oggi agli uffici comunali dall'azienda Ats. Il sindaco Michele Lissia ha subito emesso un'ordinanza, per attuare la disinfestazione e la bonifica dell'area interessata. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2025/09/15/caso-sospetto-di-dengue-a-pavia-al-via-la-disinfestazione_27700fd3-42f3-442c-a6a0-380014028e05.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-09-15 19:57:11",
+      "content": "Un caso sospetto di Dengue a Pavia. La segnalazione \u00e8 giunta oggi agli uffici comunali dall'azienda Ats. Il sindaco Michele Lissia ha subito emesso un'ordinanza, per attuare la disinfestazione e \u2026 [+1136 chars]",
+      "retrievedAt": "2025-09-17 07:07:19.614536",
+      "internal_id": "a7e35d25d5fe9725c57758cdd454e53283822db25a7222eabb57fe73b53c01f5",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 24547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Harrison Tippet",
+      "title": "How Melbourne mosquitoes are being used to fight dengue fever in Laos",
+      "description": "They are the deadliest animals in the world, and millions of them are being sent from Australia to the Laos capital Vientiane in a bid to save lives.",
+      "url": "https://www.abc.net.au/news/2025-09-16/melbourne-mosquitoes-fight-dengue-fever-laos-save-the-children/105773926",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/226fad4538edffcf5b791a5a9ca6dca3?impolicy=wcms_watermark_news&cropH=638&cropW=1135&xPos=45&yPos=101&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-15 19:16:21",
+      "content": "They are the deadliest animals in the world, and millions of them are being sent from Melbourne to Laos in a bid to save lives. A major project, Driving Down Dengue, is underway in the Laos capital \u2026 [+6255 chars]",
+      "retrievedAt": "2025-09-17 07:07:19.596673",
+      "internal_id": "cd0ea2b70f7bc06b04d7b19e6af2396a09eaf15a90f5ef3b5547afbc84ac6d79",
+      "publishedAtLabel": "Sep 15"
+    },
     {
       "id": 24537,
       "query": [
@@ -20116,6 +20242,132 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23427,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
+      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 17:42:28",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-08-04 19:08:24.635062",
+      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
+      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
+      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-03 17:06:35",
+      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.558824",
+      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Gardy Chacha",
+      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
+      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
+      "publishedAt": "2025-08-03 16:44:48",
+      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
+      "retrievedAt": "2025-08-04 19:08:25.790586",
+      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Ratt",
+      "title": "Measles And Mania Are Both Contagious",
+      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
+      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
+      "publishedAt": "2025-08-03 12:00:01",
+      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.512308",
+      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
+      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
+      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
+      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
+      "publishedAt": "2025-08-03 10:59:51",
+      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.355606",
+      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23424,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.cc",
+      "author": "saamaan1@yahoo.com (Master)",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:21:28",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.270150",
+      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.ru",
+      "author": "Kingman",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:05:06",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.294637",
+      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
