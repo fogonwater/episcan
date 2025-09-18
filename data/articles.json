@@ -1,8 +1,296 @@
 {
-  "last_updated": "2025-09-18 07:07",
-  "count_articles_total": 1156,
-  "count_articles_new": 11,
+  "last_updated": "2025-09-18 19:06",
+  "count_articles_total": 1166,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 24589,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Novas estrat\u00e9gias ampliam combate \u00e0 dengue, leishmaniose e Chagas",
+      "description": "Novas abordagens v\u00e3o al\u00e9m do fumac\u00ea e mostram impacto no combate a vetores de doen\u00e7as tropicais em expans\u00e3o pelo Brasil",
+      "url": "https://www.metropoles.com/saude/novas-estrategias-combate-dengue-chagas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/08/25175718/malaria-1.jpg",
+      "publishedAt": "2025-09-17 18:37:48",
+      "content": "A intensifica\u00e7\u00e3o das mudan\u00e7as clim\u00e1ticas tem alterado o comportamento dos mosquitos transmissores de doen\u00e7as tropicais, ampliando sua distribui\u00e7\u00e3o geogr\u00e1fica e tornando mais dif\u00edcil o controle de enf\u2026 [+5711 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.671264",
+      "internal_id": "28dae4ac0407c32f01c164314e729d4c263b5a9e069d7b59577b3e447f000d8e",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24591,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Baixa ades\u00e3o \u00e0 segunda dose de vacina da dengue preocupa especialistas",
+      "description": "Em Congresso de Infectologia, especialistas discutiram efic\u00e1cia, seguran\u00e7a e limita\u00e7\u00f5es das vacinas usadas no Brasil e em estudo",
+      "url": "https://www.metropoles.com/saude/baixa-adesao-vacina-dengue-preocupa",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
+      "publishedAt": "2025-09-17 17:37:29",
+      "content": "A dengue segue como um dos maiores desafios de sa\u00fade p\u00fablica no Brasil e no mundo. A doen\u00e7a, que j\u00e1 causa impacto em mais de 125 pa\u00edses, vem ampliando sua \u00e1rea de circula\u00e7\u00e3o com o avan\u00e7o das mudan\u00e7as\u2026 [+3143 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.689281",
+      "internal_id": "b961ee907952e0dac9885d3cd9bd5d9d4d37755edeca9389504f26321a852e51",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24582,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Jamie Ducharme",
+      "title": "The Dangerous Outbreaks That Could Rise on College Campuses",
+      "description": "Students are at particular risk from meningococcal disease\u2014but also vulnerable if measles and mumps rates rise.",
+      "url": "https://www.theatlantic.com/health/2025/09/vaccine-mandates-college-outbreaks/684237/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/MU2anot55xng5v5k3SNIROAYRwI=/0x121:5691x3085/1200x625/media/img/mt/2025/09/2025_09_TheDangerousOutbreaksThatCouldRiseonCollegeCampuses_sub_/original.jpg",
+      "publishedAt": "2025-09-17 14:42:41",
+      "content": "In 2022, Florida weathered a bad outbreak of meningococcal disease, a type of fast-moving bacterial infection that can become fatal after entering the bloodstream or the lining of the brain and spina\u2026 [+7931 chars]",
+      "retrievedAt": "2025-09-18 19:06:03.678840",
+      "internal_id": "a616ff9d7d2d0fb74e25746c8950bfda79f32ea965830ef88cfc7ea43d45e95a",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24594,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Martin Munthe Thomsen, Lea Munthe-Fog, Pelle Trier Petersen, Thore Hillig, Lennart Jan Friis-Hansen, Casper Roed, Zitta Barrella Harboe, Christian Thomas Brandt",
+      "title": "Correction: Pentraxin 3 in the cerebrospinal fluid during central nervous system infections: A retrospective cohort study",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332720",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0332720.g003&size=inline",
+      "publishedAt": "2025-09-17 14:00:00",
+      "content": "In Fig 2, the ROC curve panel D is missing the text 100% - Specificity%. Please see the correct Fig 2 here. A) Bacterial meningitis versus Viral meningitis and Viral encephalitis. B) Viral meningiti\u2026 [+888 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.936883",
+      "internal_id": "ac390592136c5a5d8f59f3bf2c7a4d1bc37c8146820b0d0ee42fe1fab37fc9cb",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24587,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus",
+      "description": "Knapp zwei Jahre ist es her, dass erstmals die Vogelgrippe in der Antarktis nachgewiesen worden ist. Nun fanden Forschende Dutzende tote Tiere. Die Dunkelziffer d\u00fcrfte noch viel h\u00f6her sein.",
+      "url": "https://www.tagesspiegel.de/wissen/52-tote-tiere-gefunden-forscher-melden-ausbreitung-der-vogelgrippe-in-der-antarktis-14343608.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14343605/alternates/BASE_16_9_W1400/1758112029000/kaiserpinguine-in-der-antarktis.jpeg",
+      "publishedAt": "2025-09-17 12:27:09",
+      "content": "Die Vogelgrippe breitet sich nach Erkenntnissen eines Jenaer Forschungsteams wohl in der Antarktis aus. Auf King George Island nahe der Nordk\u00fcste des antarktischen Festlands sei zum ersten Mal das Vo\u2026 [+2184 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.372202",
+      "internal_id": "9023187dddd436daa5000ea7f7893ebf120e1852be3c0babaac21e8c304edc12",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24586,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eH5N1\u201c. Lesen Sie jetzt \u201eForscher: Vogelgrippe breitet sich wohl in der Antarktis aus\u201c.",
+      "url": "https://www.zeit.de/news/2025-09/17/forscher-vogelgrippe-breitet-sich-wohl-in-der-antarktis-aus",
+      "urlToImage": "https://img.zeit.de/news/2025-09/17/forscher-vogelgrippe-breitet-sich-wohl-in-der-antarktis-aus-image-group/wide__1300x731",
+      "publishedAt": "2025-09-17 12:25:33",
+      "content": "Die Vogelgrippe breitet sich nach Erkenntnissen eines Jenaer Forschungsteams wohl in der Antarktis aus. Auf King George Island nahe der Nordk\u00fcste des antarktischen Festlands sei zum ersten Mal das Vo\u2026 [+1826 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.354729",
+      "internal_id": "952065aadf77953e89b5a6e8bda50f517164ef8c75a47bf3db54b881da490659",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24588,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus",
+      "description": "Jena - Die Vogelgrippe breitet sich nach Erkenntnissen eines Jenaer Forschungsteams wohl in der Antarktis aus. Auf King George Island nahe der Nordk\u00fcste",
+      "url": "https://www.stern.de/panorama/wissen/h5n1--forscher--vogelgrippe-breitet-sich-wohl-in-der-antarktis-aus-36063096.html",
+      "urlToImage": "https://image.stern.de/36063098/t/9j/v1/w1440/r1.7778/-/17--kamgnfe6nhv4axs2048jpeg---85c61fd7239171ba.jpg",
+      "publishedAt": "2025-09-17 12:25:33",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Im Oktober 2023 wurde erstmals die Vogelgrippe in der Antarktis nachgewiesen. Nun gibt es neue F\u00e4lle. Was bedeutet das f\u00fcr die Pinguine in der Re\u2026 [+1993 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.390227",
+      "internal_id": "3cbc9f972c62d00ad6750dae1d84900c650019541d331d97707b953fbc340dd8",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Redacci\u00f3n Tribuna",
+      "title": "No hay repunte de casos por dengue, tormenta de polvo en Caborca y m\u00e1s en el Tribuna Top 3 Sonora",
+      "description": "No hay repunte de casos de dengue en el estado, arranca el certamen Miss Sonora 2026 y m\u00e1s noticias a trav\u00e9s del Tribuna Top 3 Sonora",
+      "url": "https://www.tribuna.com.mx/sonora/2025/9/17/no-hay-repunte-de-casos-por-dengue-tormenta-de-polvo-en-caborca-mas-en-el-tribuna-top-sonora-413721.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/9/17/f1280x720-469393_601068_5032.jpg",
+      "publishedAt": "2025-09-17 12:00:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- Sin duda alguna, en estos tiempos es cada vez m\u00e1s dif\u00edcil encontrar informaci\u00f3n confiable sobre los hechos que ocurren en Sonora. Sin embargo, TRIBUNA trae para ti una opci\u00f3n\u2026 [+1306 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.680268",
+      "internal_id": "6c04bf5f8aada18587f527bb4f044938193ced59635a38d642c236db54f1ea9a",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24592,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Abigahil Castro",
+      "title": "No hay repunte de casos confirmados de dengue en Sonora: Secretar\u00eda de Salud",
+      "description": "El secretario de Salud inform\u00f3 que fumigaron en los pol\u00edgonos de alto riesgo, realizaron limpieza de espacios p\u00fablicos y entrega de abate",
+      "url": "https://www.tribuna.com.mx/sonora/2025/9/17/no-hay-repunte-de-casos-confirmados-de-dengue-en-sonora-secretaria-de-salud-413757.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/9/17/f1280x720-469420_601095_5050.jpg",
+      "publishedAt": "2025-09-17 12:00:00",
+      "content": "Hermosillo, Sonora.- Hasta el momento, en Sonora no se ha registrado un repunte de casos confirmados o de nuevas atenciones por dengue pese a las lluvias de los pasados d\u00edas, asegur\u00f3 el titular de la\u2026 [+1381 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.698320",
+      "internal_id": "256c40358996d6348af9d06a490f679c14176b2cc22771079a9b08ec5f13cf83",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24593,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Due nuovi casi di Dengue in Fvg, domani la disinfestazione",
+      "description": "Due nuovi casi di Dengue sono stati accertati in Friuli Venezia Giulia. Lo rende noto l'Azienda sanitaria universitaria giuliano isontina, precisando che le due infezioni sono state registrate a Trieste e a Ronchi dei Legionari (Gorizia). (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2025/09/17/due-nuovi-casi-di-dengue-in-fvg-domani-la-disinfestazione_bfaf7eba-2ce3-4fdc-981f-f59f7c567dcd.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/6/4/e2b2dd3c8c40d6468da3aaf4da20297a.jpg",
+      "publishedAt": "2025-09-17 11:54:56",
+      "content": "Due nuovi casi di Dengue sono stati accertati in Friuli Venezia Giulia. Lo rende noto l'Azienda sanitaria universitaria giuliano isontina, precisando che le due infezioni sono state registrate a T\u2026 [+1165 chars]",
+      "retrievedAt": "2025-09-18 19:06:04.716006",
+      "internal_id": "fc1fc26ee8f29c82e53ad32f5b7a0dcb36a8f32d017b6c37a7dc0c234e0707d4",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24583,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTOC",
+      "author": "Mackenzie Baker",
+      "title": "Memorial Health doctor discusses impacts of measles case, importance of vaccines",
+      "description": "Memorial Health doctor discusses impacts of measles case, importance of vaccineswtoc.com",
+      "url": "https://www.wtoc.com/2025/09/17/memorial-health-doctor-discusses-impacts-measles-case-importance-vaccines/",
+      "urlToImage": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/GWSXNZ5JXFG73GSRO6J4C3DJA4.jpg?auth=fffd9fd0fb0367532dbff6f77188ef78f86f1b87fd8b24f1a196ecbfe6ebe31e&width=1200&height=600&smart=true",
+      "publishedAt": "2025-09-17 11:01:50",
+      "content": "SAVANNAH, Ga. (WTOC) - The Georgia Department of Public Health has confirmed a measles case in Georgia. An unvaccinated Fulton County resident contracted the virus earlier this month. Public healt\u2026 [+2333 chars]",
+      "retrievedAt": "2025-09-18 19:06:03.712267",
+      "internal_id": "228dfbec6fde8df263a5dbbf56e13e472b774f81c86dcb55ce89b6d4403e9fae",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24584,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Katharina Loesche",
+      "title": "Six measles cases spark urgent health warning across Far North Queensland",
+      "description": "Six measles cases spark urgent health warning across Far North Queensland7news.com.au",
+      "url": "https://7news.com.au/news/six-measles-cases-spark-urgent-health-warning-across-far-north-queensland-c-20051676",
+      "urlToImage": "https://images.7news.com.au/publication/C-20051676/d1ceb70d8d1923e98318d93915305cde8cab578b-16x9-x0y0w1280h720.png?imwidth=1200",
+      "publishedAt": "2025-09-17 10:27:14",
+      "content": "An urgent health warning has been issued following multiple measles cases linked to people moving through busy public places while unknowingly contagious. Six confirmed cases have now been recorded \u2026 [+1757 chars]",
+      "retrievedAt": "2025-09-18 19:06:03.739669",
+      "internal_id": "5e2fd492ee129cbb2a8b7f7c85356e4623c9c593c526131da577d3792c93778f",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24595,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Vorsicht, Infektionsgefahr!: Ausw\u00e4rtiges Amt warnt Italien-Urlauber vor Tigerm\u00fccke",
+      "description": "Die Asiatische Tigerm\u00fccke verbreitet sich immer weiter in Europa. Vor allem in Italien steigen aktuell die Infektionszahlen mit dem Chikungunya-Virus stark an, auch deutsche Urlauber sind betroffen. Das Ausw\u00e4rtige Amt warnt vor erh\u00f6htem Risiko.",
+      "url": "https://www.n-tv.de/wissen/Auswaertiges-Amt-warnt-Italien-Urlauber-vor-Tigermuecke-article26037642.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop26037890/5291327761-cImg_16_9-w1200/220432705-1-.jpg",
+      "publishedAt": "2025-09-17 09:19:43",
+      "content": "Die Asiatische Tigerm\u00fccke verbreitet sich immer weiter in Europa. Vor allem in Italien steigen aktuell die Infektionszahlen mit dem Chikungunya-Virus stark an, auch deutsche Urlauber sind betroffen. \u2026 [+2939 chars]",
+      "retrievedAt": "2025-09-18 19:06:05.974301",
+      "internal_id": "b921dd64baaf13fdfda81e118bab3ac218095f31f1ec34d351f5c597ea9d2751",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24585,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0412\u043e\u0440\u043e\u043d\u0438\u043d",
+      "title": "\u041a\u0440\u0443\u043f\u043d\u0430\u044f \u0430\u0437\u0438\u0430\u0442\u0441\u043a\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u043b\u0430 \u0440\u044b\u043d\u043e\u043a \u0434\u043b\u044f \u043f\u043e\u0441\u0442\u0430\u0432\u043e\u043a \u043c\u044f\u0441\u0430 \u043f\u0442\u0438\u0446\u044b \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438",
+      "description": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b \u043e\u0442\u043c\u0435\u043d\u0438\u043b\u0438 \u0437\u0430\u043f\u0440\u0435\u0442 \u043d\u0430 \u0438\u043c\u043f\u043e\u0440\u0442 \u043f\u0442\u0438\u0446\u0435\u0432\u043e\u0434\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438 \u2014 \u043c\u044f\u0441\u0430 \u043a\u0443\u0440\u0438\u0446\u044b, \u0443\u0442\u043a\u0438, \u0438\u043d\u0434\u0435\u0439\u043a\u0438 \u2014 \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438, \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0432\u0448\u0438\u0439 \u0441 2021 \u0433\u043e\u0434\u0430. \u041a\u0430\u043a \u0443\u0442\u043e\u0447\u043d\u044f\u0435\u0442 \u00ab\u0418\u043d\u0442\u0435\u0440\u0444\u0430\u043a\u0441\u00bb, \u0440\u044b\u043d\u043a\u0438 \u0434\u043b\u044f \u043d\u0435\u0435 \u0440\u0435\u0448\u0438\u043b\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u043c\u0435\u0441\u0442\u043d\u044b\u0439 \u041c\u0438\u043d\u0441\u0435\u043b\u044c\u0445\u043e\u0437 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043b \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u2026",
+      "url": "https://lenta.ru/news/2025/09/17/krupnaya-aziatskaya-strana-otkryla-rynok-dlya-postavok-myasa-ptitsy-iz-rossii/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/09/17/11/20250917114937417/share_acce8fc79ac23e0185a28da4a6909e76.jpg",
+      "publishedAt": "2025-09-17 09:06:13",
+      "content": ", , , 2021 . \u00ab\u00bb, (HPAI). , , HPAI, . , , , 120 . 2025- 23 , 262 , 31 , 530 , . , 43 .",
+      "retrievedAt": "2025-09-18 19:06:04.056124",
+      "internal_id": "af3542dbc30be919cff2da7647ea2316ec62c0e931d13f3f8afd911db0c3841b",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24581,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rand.org",
+      "author": "Farzin Ahmadi, Ensheng Dong, Lauren M. Gardner",
+      "title": "Tracking County-Level Measles Cases in the US",
+      "description": "Investigators developed a national data collection and reporting infrastructure that provides near-real-time, county-level measles case data beginning on January 1, 2025, shared via a public dashboard and open data repository.",
+      "url": "https://www.rand.org/pubs/external_publications/EP71028.html",
+      "urlToImage": "https://www.rand.org/etc/rand/designs/common/social-images/rand.png",
+      "publishedAt": "2025-09-17 09:00:00",
+      "content": "Prior to the introduction of the measles vaccine, more than 90% of US residents were infected with the measles virus before the age of 15 years, with the 3 million to 4 million annual cases of measle\u2026 [+1402 chars]",
+      "retrievedAt": "2025-09-18 19:06:03.661526",
+      "internal_id": "443078dc8dc8e29dad98559c78cb8d707b1381e7d03228eb997dfd7402b94e90",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24597,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Ik\u00e4v\u00e4 tauti levi\u00e4\u00e4 Italiassa \u2013 WHO varoittanut epidemiasta",
+      "description": "Epidemian hillitsemiseksi viranomaiset ovat aloittaneet torjunta-aineiden k\u00e4ytt\u00e4misen. Hyttysten levitt\u00e4m\u00e4 Chikungunyavirus levi\u00e4\u00e4 nyt Italiassa Veneton ja Emilia-Romagnan alueilla, kertoo paikalliset lehdet Corriere del Veneto ja La Stampa. Lehtien mukaan yl\u2026",
+      "url": "https://www.iltalehti.fi/terveysuutiset/a/42a0c834-2902-48f3-9da6-2a0a2269d03e",
+      "urlToImage": "https://img.ilcdn.fi/Ftm2x-m3GddzAMD0I42BLnqogxA=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/9aa75783ac5ee5087cdc660e368a6385cbb5f57f9f2591bebc1faad17bda02a3.jpg",
+      "publishedAt": "2025-09-17 07:38:54",
+      "content": "Hyttysten levitt\u00e4m\u00e4 Chikungunyavirus levi\u00e4\u00e4 nyt Italiassa Veneton ja Emilia-Romagnan alueilla, kertoo paikalliset lehdet Corriere del Veneto ja La Stampa. Lehtien mukaan yli 200 ihmist\u00e4 on sairastun\u2026 [+2027 chars]",
+      "retrievedAt": "2025-09-18 19:06:06.117254",
+      "internal_id": "7eb43dd0bfd5c29bd929235023ee500c9746cb6aea8a1fd71d56cc2aed9bada5",
+      "publishedAtLabel": "Sep 17"
+    },
     {
       "id": 24577,
       "query": [
@@ -543,6 +831,24 @@
       "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
       "retrievedAt": "2025-09-18 07:07:30.287658",
       "internal_id": "294f399d028155909eda50f56f27e225c3162ef0b178823025897bebf3d60242",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24596,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Carina Blumenroth",
+      "title": "Italien k\u00e4mpft mit dem Chikungunya-Virus und setzt auf drastische Ma\u00dfnahmen",
+      "description": "Das Chikungunya-Virus breitet sich in Verona aus. Veranstaltungen wurden abgesagt, das Ausw\u00e4rtige Amt warnt Touristen.",
+      "url": "https://www.focus.de/gesundheit/italien-kaempft-mit-dem-chikungunya-virus-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/0dba67e7-4a12-4ba0-b8ae-06e7e92dda04.82c307fd-3f85-4fe8-b408-da4489b18eee.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281250%2C923%29&hash=28763aae1f530bcff2554f4724c9867d855337900efe826b9ddf922562f784ea",
+      "publishedAt": "2025-09-16 08:26:19",
+      "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
+      "retrievedAt": "2025-09-18 19:06:06.060240",
+      "internal_id": "403ec22a1888590fbbdfc18fa4c90af433a99ba28939a993510385cb5e672872",
       "publishedAtLabel": "Sep 16"
     },
     {
@@ -20784,132 +21090,6 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23427,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
-      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 17:42:28",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2025-08-04 19:08:24.635062",
-      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23430,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
-      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
-      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
-      "publishedAt": "2025-08-03 17:06:35",
-      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.558824",
-      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Gardy Chacha",
-      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
-      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
-      "publishedAt": "2025-08-03 16:44:48",
-      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
-      "retrievedAt": "2025-08-04 19:08:25.790586",
-      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23426,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Ratt",
-      "title": "Measles And Mania Are Both Contagious",
-      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
-      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
-      "publishedAt": "2025-08-03 12:00:01",
-      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.512308",
-      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
-      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
-      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
-      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
-      "publishedAt": "2025-08-03 10:59:51",
-      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.355606",
-      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23424,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.cc",
-      "author": "saamaan1@yahoo.com (Master)",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:21:28",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.270150",
-      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23425,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "Kingman",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:05:06",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.294637",
-      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
