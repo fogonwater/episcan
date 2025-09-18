@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-09-17 19:06
-- **Most recent article:** 2025-09-16 19:00:01
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-09-18 07:07
+- **Most recent article:** 2025-09-17 04:31:08
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 17 | 337 |
-| measles | 20 | 26 | 50 | 33 | 45 | 39 | 11 | 224 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 8 | 192 |
-| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 4 | 99 |
-| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 2 | 97 |
-| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 1 | 93 |
+| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 22 | 343 |
+| measles | 22 | 26 | 50 | 33 | 45 | 39 | 13 | 228 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 9 | 193 |
+| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 6 | 103 |
+| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 3 | 99 |
+| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 2 | 95 |
 | h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 3 | 54 |
-| zika | 5 | 9 | 7 | 8 | 4 | 6 | 1 | 40 |
+| zika | 5 | 9 | 7 | 8 | 4 | 6 | 2 | 41 |
 | meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 2 | 36 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
 | hpai | 3 | 0 | 1 | 1 | 1 | 4 | 0 | 10 |
@@ -34,9 +34,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (zika)
 
+- [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
+
 - [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
 
 ## 25-38 (rabies)
+
+- [Monitoring body, awareness camps & more on Delhi govt's new rules for stray dog management; check list](https://economictimes.indiatimes.com/news/india/monitoring-body-awareness-camps-more-on-delhi-govts-new-rules-for-stray-dog-management-check-list/articleshow/123934495.cms) (The Times of India)
+
+- [Delhi's New Guidelines On Stray Dogs - From Feeding Them To Handling Diseased Ones](https://www.ndtvprofit.com/nation/delhi-new-guidelines-on-stray-dogs-from-feeding-them-to-handling-diseased-ones) (Ndtvprofit.com)
 
 - [Strengthening Rabies Defence in Canada: CAHI Announces 2025 World Rabies Day Webinar](https://financialpost.com/globe-newswire/strengthening-rabies-defence-in-canada-cahi-announces-2025-world-rabies-day-webinar) (Financial Post)
 
@@ -52,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (mpox)
 
+- [First Case of Severe Mpox Strain Confirmed in Japan](https://newsonjapan.com/article/146896.php) (Newsonjapan.com)
+
 - [Mpox : comment le tecovirimat a pu être prescrit à des malades en l’absence de preuve de son efficacité](https://www.lemonde.fr/sciences/article/2025/09/16/mpox-comment-le-tecovirimat-a-pu-etre-prescrit-a-des-malades-en-l-absence-de-preuve-de-son-efficacite_6641346_1650684.html) (Le Monde)
 
 ## 25-38 (meningitis)
@@ -61,6 +69,10 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [NBC News investigation shows steady decline in MMR vaccination rates, singles out Jefferson County](https://www.wave3.com/2025/09/16/nbc-news-investigation-shows-steady-decline-mmr-vaccination-rates-singles-out-jefferson-county/) (WAVE 3)
+
+- [Measles case confirmed in Cook County, Illinois; officials say child traveled through O'Hare](https://abc7chicago.com/post/measles-case-confirmed-cook-county-illinois-officials-say-child-traveled-ohare/17829178/) (WLS-TV)
 
 - [RFK Jr. Appoints 5 New Members To CDC Vaccine Advisory Panel (Reuters)](https://www.memeorandum.com/250916/p74) (Memeorandum.com)
 
@@ -86,6 +98,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (malaria)
 
+- [Tell our ministers to work with Africa, prioritize health](https://act.one.org/letter/budget-ministers-canada-2025) (One.org)
+
 - [Cameroon could be turning waste to energy: Study uncovers why it's not, and sets out solutions](https://phys.org/news/2025-09-cameroon-energy-uncovers-solutions.html) (Phys.Org)
 
 - [Re-evaluating malarial retinopathy to improve its diagnostic accuracy in paediatric cerebral malaria: A retrospective study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004727) (Plos.org)
@@ -99,6 +113,8 @@ Source: [News API](https://newsapi.org/)
 - [경기도서 조류인플루엔자, 아프리카돼지열병 발생...방역 비상](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659) (Ohmynews.com)
 
 ## 25-38 (dengue)
+
+- [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
 
 - [Cegah Penyakit DBD, Babinsa Koramil Bunut Hulu Dampingi Kegiatan Fogging di Wilayah Binaan](https://kalbaronline.com/2025/09/16/cegah-penyakit-dbd-babinsa-koramil-bunut-hulu-dampingi-kegiatan-fogging-di-wilayah-binaan/) (Kalbaronline.com)
 
@@ -118,6 +134,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (chikungunya)
 
+- [Chikungunya-Virus breitet sich in Norditalien und Südfrankreich aus](https://www.diepresse.com/20107069/chikungunya-virus-breitet-sich-in-norditalien-und-suedfrankreich-aus) (Diepresse.com)
+
+- [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
+
+- [Zwei Tote nach Schüssen in Wien • Kirk-Attentäter erstmals vor Gericht erschienen • Chikungunya-Virus breitet sich in Italien und Frankreich aus](https://www.diepresse.com/20107050/zwei-tote-nach-schuessen-in-wien-kirk-attentaeter-erstmals-vor-gericht-erschienen-chikungunya-virus-breitet-sich-in-italien-und-frankreich-aus) (Diepresse.com)
+
+- [Chikungunya-Virus breitet sich in Norditalien aus](https://orf.at/stories/3405675/) (Orf.at)
+
 - [Virus leviää Italiassa – tapahtumia peruttu](https://www.is.fi/ulkomaat/art-2000011499044.html) (Www.is.fi)
 
 - [«On est comme les pompiers» : à Nice, une opération antimoustiques pour prévenir l’explosion de cas chikungunya](https://www.liberation.fr/societe/sante/on-est-comme-les-pompiers-a-nice-une-operation-antimoustiques-pour-prevenir-lexplosion-de-cas-chikungunya-20250916_GESPRD6VPZHV3IIKUUJFF3XGEA/) (Libération)
@@ -135,6 +159,8 @@ Source: [News API](https://newsapi.org/)
 - [Italien kämpft mit Chikungunya-Ausbrüchen und setzt auf drastische Maßnahmen zur Eindämmung](https://www.focus.de/gesundheit/italien-kaempft-mit-chikungunya-ausbruechen-und-setzt-auf-drastische-massnahmen-zur-eindaemmung_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
 
 - [Italien kämpft mit Chikungunya-Ausbrüchen und setzt auf drastische Maßnahmen](https://www.focus.de/gesundheit/italien-kaempft-mit-chikungunya-ausbruechen-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
+
+- [Italien kämpft mit Virusausbrüchen und setzt auf drastische Maßnahmen](https://www.focus.de/gesundheit/italien-kaempft-mit-virusausbruechen-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
 
 - [Auswärtiges Amt warnt Urlauber - Tropen-Seuche breitet sich in Norditalien aus](https://www.bild.de/leben-wissen/medizin/auswaertiges-amt-warnt-urlauber-tropen-seuche-breitet-sich-in-norditalien-aus-68c8fc17bc538c447095df7d) (Bild)
 
@@ -2286,6 +2312,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
+
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2303,6 +2333,8 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
+
+- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2350,6 +2382,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
+- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
+
+- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
+
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2385,6 +2421,8 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
+
+- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2677,3 +2715,5 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
+
+- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)

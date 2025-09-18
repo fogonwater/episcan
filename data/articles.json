@@ -1,8 +1,190 @@
 {
-  "last_updated": "2025-09-17 19:06",
-  "count_articles_total": 1138,
-  "count_articles_new": 19,
+  "last_updated": "2025-09-18 07:07",
+  "count_articles_total": 1156,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 24577,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Chikungunya-Virus breitet sich in Norditalien und S\u00fcdfrankreich aus",
+      "description": "Hotspot sind die italienische Provinz Verona und in Frankreich die Stadt Antibes. Gro\u00dfangelegte Desinfektionsma\u00dfnahmen sind ergriffen worden. Mehrere geplante Volksfeste wurden bereits abgesagt.",
+      "url": "https://www.diepresse.com/20107069/chikungunya-virus-breitet-sich-in-norditalien-und-suedfrankreich-aus",
+      "urlToImage": "https://img.diepresse.com/public/incoming/kja6m2-imago753919790.jpg/alternates/DPR_SOCIAL_NACHRICHTEN/imago753919790.jpg",
+      "publishedAt": "2025-09-17 04:31:08",
+      "content": "Hotspot sind die italienische Provinz Verona und in Frankreich die Stadt Antibes. Gro\u00dfangelegte Desinfektionsma\u00dfnahmen sind ergriffen worden. Mehrere geplante Volksfeste wurden bereits abgesagt. In\u2026 [+2807 chars]",
+      "retrievedAt": "2025-09-18 07:07:30.224505",
+      "internal_id": "773dbee86d42bf549849a3ad3c51d666697ae40c129e0e602b4b73f66a3a1a00",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24574,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Max Blanc",
+      "title": "Flamb\u00e9e de chikungunya : \u00abLes maladies li\u00e9es au moustique tigre peuvent \u00eatre graves et laisser des s\u00e9quelles\u00bb",
+      "description": "La m\u00e9decin \u00e9pid\u00e9miologiste Marie-Claire Paty revient sur la menace que l\u2019insecte fait peser en Europe, apr\u00e8s une ann\u00e9e marqu\u00e9e par un nombre record de cas de dans l\u2019Hexagone.",
+      "url": "https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/",
+      "urlToImage": "https://www.liberation.fr/resizer/v2/V5RDKTC6GZCH5OZYCQ3BZ35LQU.jpg?auth=93036aeddbea68b642479130033ea69d2c2c9271eeaf6c5f5c46363ca37d907b&quality=70&width=1200&height=630&focal=3479%2C2102",
+      "publishedAt": "2025-09-17 04:25:00",
+      "content": "Massivement pr\u00e9sents en Asie, en Am\u00e9rique du Sud et dans les d\u00e9partements et r\u00e9gions doutre-mer, les moustiques tigres, porteurs de maladies \u00e0 transmission vectorielle (dengue, zika, chikungunya), si\u2026 [+345 chars]",
+      "retrievedAt": "2025-09-18 07:07:29.178468",
+      "internal_id": "3b316bd9ad4e847a83b0794fe508966aa83f10f53786c004650653c400e60871",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24578,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Peter Huber",
+      "title": "Zwei Tote nach Sch\u00fcssen in Wien \u2022 Kirk-Attent\u00e4ter erstmals vor Gericht erschienen \u2022 Chikungunya-Virus breitet sich in Italien und Frankreich aus",
+      "description": "Guten Morgen am 17. September 2025. Hier sind die wichtigsten Nachrichten zum Start in den Tag.",
+      "url": "https://www.diepresse.com/20107050/zwei-tote-nach-schuessen-in-wien-kirk-attentaeter-erstmals-vor-gericht-erschienen-chikungunya-virus-breitet-sich-in-italien-und-frankreich-aus",
+      "urlToImage": "https://www.diepresse.com/assets_v2/images/diepresse_nachrichten.png",
+      "publishedAt": "2025-09-17 04:14:00",
+      "content": "Guten Morgen am 17. September 2025. Hier sind die wichtigsten Nachrichten zum Start in den Tag. Zwei Tote nach Sch\u00fcssen in Wien Am Dienstagabend kam es zu einem Gro\u00dfeinsatz der Polizei. Hintergrund\u2026 [+1385 chars]",
+      "retrievedAt": "2025-09-18 07:07:30.240994",
+      "internal_id": "b379ecd3715c42853c236eed4cc35282388d6f5bcc449fae2a7f24ad52c3437e",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24576,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Chikungunya-Virus breitet sich in Norditalien aus",
+      "description": "",
+      "url": "https://orf.at/stories/3405675/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2025-09-17 04:13:40",
+      "content": "In Norditalien breitet sich das Chikungunya-Virus aus, das durch die Tigerm\u00fccke \u00fcbertragen wird. Die Krankheit kann hohes Fieber, Gelenkschmerzen und lang anhaltende Beschwerden verursachen. Seit dem\u2026 [+1507 chars]",
+      "retrievedAt": "2025-09-18 07:07:30.215097",
+      "internal_id": "555f3cb13eae61b1cb6f93c93abd50309538330888fc463f01c573716addec59",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24570,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Monitoring body, awareness camps & more on Delhi govt's new rules for stray dog management; check list",
+      "description": "The Delhi government, following Supreme Court directives, has launched a comprehensive plan to manage street dogs, control rabies, and reduce human-animal conflict. The initiative, executed by MCD, NDMC, and DCB, focuses on humane sterilization, vaccination, \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/monitoring-body-awareness-camps-more-on-delhi-govts-new-rules-for-stray-dog-management-check-list/articleshow/123934495.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123934488,width-1200,height-630,imgsize-133418,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-17 03:49:52",
+      "content": "The Delhi government has introduced a detailed roadmap to manage the citys street dog population, curb rabies, and minimize human-animal conflicts, following directions from the Supreme Court. The ne\u2026 [+5018 chars]",
+      "retrievedAt": "2025-09-18 07:07:27.925302",
+      "internal_id": "8fd8c9224e61df7157323efe93b43ed1f6c707ddf912162f4b079ee52c8a8809",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24571,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Ndtvprofit.com",
+      "author": "NDTV Profit Desk",
+      "title": "Delhi's New Guidelines On Stray Dogs - From Feeding Them To Handling Diseased Ones",
+      "description": "The Delhi government issued guidelines for managing the street dog population, eradicating rabies, and reducing human-dog conflict in the city, following directives from the Supreme Court. The guidelines also incorporate the revised Animal Birth Control Modul\u2026",
+      "url": "https://www.ndtvprofit.com/nation/delhi-new-guidelines-on-stray-dogs-from-feeding-them-to-handling-diseased-ones",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-08-12%2F7m56b1gi%2FWhatsApp-Image-2025-08-12-at-12.09.23.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2025-09-17 02:53:20",
+      "content": "The responsibility for implementing the programme rests with the MCD, NDMC, and DCB. At present, the MCD operates 20 ABC centres through NGOs for THE sterilisation and vaccination of street dogs.\u2026 [+2311 chars]",
+      "retrievedAt": "2025-09-18 07:07:27.942855",
+      "internal_id": "d78bfc331a4359cbdd9cf55a3273426eafed4752377c1ab90eef88cea871d29b",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24573,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WAVE 3",
+      "author": "Fernando Garcia-franceschini",
+      "title": "NBC News investigation shows steady decline in MMR vaccination rates, singles out Jefferson County",
+      "description": "About 65 percent of kindergartners in Jefferson County are fully vaccinated against measles, but according to an NBC News investigation, that number continues to go down as part of a nationwide downward trend.",
+      "url": "https://www.wave3.com/2025/09/16/nbc-news-investigation-shows-steady-decline-mmr-vaccination-rates-singles-out-jefferson-county/",
+      "urlToImage": "https://gray-wave-prod.gtv-cdn.com/resizer/v2/ADDWAAFZIRFYZGH5IKRWY4LF7Y.jpg?auth=20daf50bae5522f7eaf3ca1d144b29d8463f00c38b4551ba00783cbfaf1ad4a9&width=1200&height=600&smart=true",
+      "publishedAt": "2025-09-17 01:00:38",
+      "content": "LOUISVILLE, Ky. (WAVE) - A months-long NBC News investigation reveals a steady decline in measles, mumps, and rubella vaccination rates for kindergartners across the country. In a segment aired Mond\u2026 [+2979 chars]",
+      "retrievedAt": "2025-09-18 07:07:28.397901",
+      "internal_id": "cb017b9f454a6492e723b6cae583b1d47b58b895f3cc0eded3bcda167c2a940a",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24575,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "One.org",
+      "author": null,
+      "title": "Tell our ministers to work with Africa, prioritize health",
+      "description": "This is not the time to cut Canada\u2019s commitment to International Assistance and the Global Fund to Fight HIV/AIDS, TB and Malaria. Speak up today.",
+      "url": "https://act.one.org/letter/budget-ministers-canada-2025",
+      "urlToImage": "https://storage.googleapis.com/cdn-one-org/images/canada_parliament_hill_flag_1200x628.jpg",
+      "publishedAt": "2025-09-16 23:11:30",
+      "content": "Prime Minister Mark Carneys government will deliver its first budget in just a few weeks. Our leaders are under pressure to reduce spending over the next three years. But this is not the time to cut\u2026 [+307 chars]",
+      "retrievedAt": "2025-09-18 07:07:29.798855",
+      "internal_id": "31d5e91ffc433eea295ea54918e36975bb68bd64bf91ebd0b907f91c33ea21f6",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24580,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsonjapan.com",
+      "author": null,
+      "title": "First Case of Severe Mpox Strain Confirmed in Japan",
+      "description": "Japan has confirmed its first domestic case of a more severe strain of the mpox virus, which has been spreading rapidly in Africa. (News On Japan)",
+      "url": "https://newsonjapan.com/article/146896.php",
+      "urlToImage": "https://i2.ytimg.com/vi/CYdYnMmmcWc/mqdefault.jpg",
+      "publishedAt": "2025-09-16 21:36:29",
+      "content": "KOBE, Sep 17 (News On Japan) - Japan has confirmed its first domestic case of a more severe strain of the mpox virus, which has been spreading rapidly in Africa. Mpox, formerly known as monkeypox,\u2026 [+708 chars]",
+      "retrievedAt": "2025-09-18 07:07:30.493934",
+      "internal_id": "9bbdf7030f28cac265c9e327f6561ddc71fa00e302cf2938889a9cfa4bc44524",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24572,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc7 Chicago Digital Team",
+      "title": "Measles case confirmed in Cook County, Illinois; officials say child traveled through O'Hare",
+      "description": "Measles case confirmed in Cook County, Illinois; officials say child traveled through O'Hareabc7chicago.com",
+      "url": "https://abc7chicago.com/post/measles-case-confirmed-cook-county-illinois-officials-say-child-traveled-ohare/17829178/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/10998810_090421-wls-ohare-generic-img.jpg?w=1600",
+      "publishedAt": "2025-09-16 20:20:44",
+      "content": "CHICAGO (WLS) -- Cook County officials announced that a suburban child has measles. This marks the second case in the county in 2025, according to the Cook County Department of Public Health. CCDPH\u2026 [+304 chars]",
+      "retrievedAt": "2025-09-18 07:07:28.379178",
+      "internal_id": "8c33c29ebd3291381ce46fbbec6b8d5270ccc6306988fa337e05a224bccf0b91",
+      "publishedAtLabel": "Sep 16"
+    },
     {
       "id": 24559,
       "query": [
@@ -343,6 +525,24 @@
       "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
       "retrievedAt": "2025-09-17 19:06:05.183946",
       "internal_id": "1c03903e0256eaafe34d864a666db77ab53b3b29f5d42d1b72db65cca9951125",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 24579,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Carina Blumenroth",
+      "title": "Italien k\u00e4mpft mit Virusausbr\u00fcchen und setzt auf drastische Ma\u00dfnahmen",
+      "description": "Das Chikungunya-Virus breitet sich in Verona aus. Veranstaltungen wurden abgesagt, das Ausw\u00e4rtige Amt warnt Touristen.",
+      "url": "https://www.focus.de/gesundheit/italien-kaempft-mit-virusausbruechen-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/0dba67e7-4a12-4ba0-b8ae-06e7e92dda04.82c307fd-3f85-4fe8-b408-da4489b18eee.png?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281250%2C923%29&hash=28763aae1f530bcff2554f4724c9867d855337900efe826b9ddf922562f784ea",
+      "publishedAt": "2025-09-16 08:26:19",
+      "content": "Das Chikungunya-Virus breitet sich in Norditalien aus das Instituto Superiore di Sanit\u00e0 (dt. Hochschule der Gesundheit) berichtet am 9. September von 208 best\u00e4tigten F\u00e4llen. Davon st\u00fcnden 41 F\u00e4lle im\u2026 [+2748 chars]",
+      "retrievedAt": "2025-09-18 07:07:30.287658",
+      "internal_id": "294f399d028155909eda50f56f27e225c3162ef0b178823025897bebf3d60242",
       "publishedAtLabel": "Sep 16"
     },
     {
@@ -20584,6 +20784,132 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23427,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
+      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 17:42:28",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-08-04 19:08:24.635062",
+      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
+      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
+      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-03 17:06:35",
+      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.558824",
+      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Gardy Chacha",
+      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
+      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
+      "publishedAt": "2025-08-03 16:44:48",
+      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
+      "retrievedAt": "2025-08-04 19:08:25.790586",
+      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Ratt",
+      "title": "Measles And Mania Are Both Contagious",
+      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
+      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
+      "publishedAt": "2025-08-03 12:00:01",
+      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.512308",
+      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
+      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
+      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
+      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
+      "publishedAt": "2025-08-03 10:59:51",
+      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.355606",
+      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23424,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.cc",
+      "author": "saamaan1@yahoo.com (Master)",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:21:28",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.270150",
+      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.ru",
+      "author": "Kingman",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:05:06",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.294637",
+      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
