@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-09-19 07:07
-- **Most recent article:** 2025-09-18 05:50:57
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-09-19 19:06
+- **Most recent article:** 2025-09-18 18:29:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 28 | 349 |
-| measles | 22 | 26 | 50 | 33 | 45 | 39 | 22 | 237 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 16 | 200 |
-| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 6 | 103 |
-| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 3 | 99 |
-| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 2 | 95 |
+| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 34 | 354 |
+| measles | 20 | 26 | 50 | 33 | 45 | 39 | 24 | 237 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 20 | 204 |
+| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 8 | 103 |
+| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 6 | 101 |
+| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 3 | 95 |
 | h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 6 | 57 |
-| zika | 5 | 9 | 7 | 8 | 4 | 6 | 3 | 42 |
-| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 3 | 37 |
+| zika | 5 | 9 | 7 | 8 | 4 | 6 | 5 | 44 |
+| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 4 | 38 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
 | hpai | 3 | 0 | 1 | 1 | 1 | 4 | 1 | 11 |
 | pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 2 | 8 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (zika)
 
+- [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
+
+- [Vítimas da Zika podem ser indenizadas ainda em setembro, diz ministro](https://www.metropoles.com/brasil/vitimas-da-zika-podem-ser-indenizadas-ainda-em-setembro-diz-ministro) (Metropoles.com)
+
 - [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
 
 - [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
@@ -41,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
 
 ## 25-38 (rabies)
+
+- [Rabid bat found in Kent County, health officials urge caution](https://www.mlive.com/news/grand-rapids/2025/09/rabid-bat-found-in-kent-county-health-officials-urge-caution.html) (mlive.com)
+
+- [The US is tracking 14 potential rabies outbreaks in 20 states. Here’s what to know | CNN](https://www.cnn.com/2025/09/18/health/rabies-animal-vaccine-disease-health-wellness) (CNN)
 
 - [Monitoring body, awareness camps & more on Delhi govt's new rules for stray dog management; check list](https://economictimes.indiatimes.com/news/india/monitoring-body-awareness-camps-more-on-delhi-govts-new-rules-for-stray-dog-management-check-list/articleshow/123934495.cms) (The Times of India)
 
@@ -62,11 +70,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (mpox)
 
+- [África com menos casos; focos em Moçambique e RDCongo](https://observador.pt/2025/09/18/africa-regista-menos-casos-de-mpox-apesar-de-focos-em-mocambique-e-na-rdcongo/) (Observador.pt)
+
 - [First Case of Severe Mpox Strain Confirmed in Japan](https://newsonjapan.com/article/146896.php) (Newsonjapan.com)
 
 - [Mpox : comment le tecovirimat a pu être prescrit à des malades en l’absence de preuve de son efficacité](https://www.lemonde.fr/sciences/article/2025/09/16/mpox-comment-le-tecovirimat-a-pu-etre-prescrit-a-des-malades-en-l-absence-de-preuve-de-son-efficacite_6641346_1650684.html) (Le Monde)
 
 ## 25-38 (meningitis)
+
+- [BREAKING STUDY: COVID-19 “Vaccines” Linked to 63 Serious Central Nervous System Adverse Events](https://www.thefocalpoints.com/p/breaking-study-covid-19-vaccines) (Thefocalpoints.com)
 
 - [Correction: Pentraxin 3 in the cerebrospinal fluid during central nervous system infections: A retrospective cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332720) (Plos.org)
 
@@ -75,6 +87,10 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [CDC's vaccine advisory panel to vote on measles, hepatitis B shots](https://www.cbsnews.com/live-updates/cdc-vaccine-advisory-committee-rfk-jr-vote-measles-hepatitis-b/) (CBS News)
+
+- [How a Contentious CDC Vaccine Meeting Will Affect Public Health](https://www.scientificamerican.com/article/how-a-contentious-cdc-vaccine-meeting-will-affect-public-health/) (Scientific American)
 
 - [Detection of Immunity Gap before Measles Outbreak, Ho Chi Minh City, Vietnam, 2024](https://wwwnc.cdc.gov/eid/article/31/10/25-0234_article) (Cdc.gov)
 
@@ -122,6 +138,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (malaria)
 
+- [Genomic evolution of major malaria-transmitting mosquito species uncovered](https://phys.org/news/2025-09-genomic-evolution-major-malaria-transmitting.html) (Phys.Org)
+
+- [Vaccinations, malaria pills, boiled water – Belgian team doctor outlines health precautions in place for Road World Championships in Rwanda](https://www.cyclingnews.com/news/vaccinations-malaria-pills-boiled-water-belgian-team-doctor-outlines-health-precautions-in-place-for-road-world-championships-in-rwanda/) (Cyclingnews.com)
+
+- [Dihydroartemisinin–piperaquine plus sulfadoxine–pyrimethamine versus either drug alone for intermittent preventive treatment of malaria in pregnancy: A double-blind, randomized, controlled phase 3 trial from Uganda](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004582) (Plos.org)
+
 - [Tell our ministers to work with Africa, prioritize health](https://act.one.org/letter/budget-ministers-canada-2025) (One.org)
 
 - [Cameroon could be turning waste to energy: Study uncovers why it's not, and sets out solutions](https://phys.org/news/2025-09-cameroon-energy-uncovers-solutions.html) (Phys.Org)
@@ -147,6 +169,14 @@ Source: [News API](https://newsapi.org/)
 - [경기도서 조류인플루엔자, 아프리카돼지열병 발생...방역 비상](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659) (Ohmynews.com)
 
 ## 25-38 (dengue)
+
+- [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
+
+- [Alerta dengue: un médico reveló un método poco conocido para evitar contagios esta primavera](https://www.lanacion.com.ar/sociedad/alerta-dengue-un-medico-revelo-un-metodo-poco-conocido-para-evitar-contagios-esta-primavera-nid18092025/) (La Nacion)
+
+- [Chikungunya, dengue, West Nile : la France fait face à une vague virale record, tardive et inattendue !](https://www.futura-sciences.com/sante/actualites/epidemie-chikungunya-dengue-west-nile-france-fait-face-vague-virale-record-tardive-inattendue-125666/) (Futura)
+
+- [Recrudescence de cas de chikungunya et d'autres maladies transmises par les moustiques : restons vigilants, la saison n'est pas terminée !](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/recrudescence-de-cas-de-chikungunya-et-d-autres-maladies-transmises-par-les) (Gouv.fr)
 
 - [Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorités sanitaires](https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html) (Franceinfo.fr)
 
@@ -181,6 +211,18 @@ Source: [News API](https://newsapi.org/)
 - [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
 
 ## 25-38 (chikungunya)
+
+- [Chikungunya­virus jyllää Euroopassa – tämä epidemiasta tiedetään](https://www.is.fi/ulkomaat/art-2000011501999.html) (Www.is.fi)
+
+- [Chikungunya : une troisième commune concernée par un cas autochtone près de Grenoble](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/chikungunya-une-troisieme-commune-concernee-par-un-cas-autochtone-pres-de-grenoble-3219167.html) (Franceinfo.fr)
+
+- [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
+
+- [Chikungunya, dengue, West Nile : la France fait face à une vague virale record, tardive et inattendue !](https://www.futura-sciences.com/sante/actualites/epidemie-chikungunya-dengue-west-nile-france-fait-face-vague-virale-record-tardive-inattendue-125666/) (Futura)
+
+- [Chikungunya : les cas autochtones en forte augmentation en France métropolitaine](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-les-cas-autochtones-en-forte-augmentation-en-france-metropolitaine-9384c5c2-9474-11f0-8aaf-26b4770f0f96) (Ouest-France)
+
+- [Recrudescence de cas de chikungunya et d'autres maladies transmises par les moustiques : restons vigilants, la saison n'est pas terminée !](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/recrudescence-de-cas-de-chikungunya-et-d-autres-maladies-transmises-par-les) (Gouv.fr)
 
 - [Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorités sanitaires](https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html) (Franceinfo.fr)
 
@@ -2372,10 +2414,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
-- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
-
-- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
-
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2393,8 +2431,6 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
-
-- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2442,10 +2478,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
-- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
-
-- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
-
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2481,8 +2513,6 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
-
-- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2775,5 +2805,3 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
-
-- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)

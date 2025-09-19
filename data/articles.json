@@ -1,8 +1,318 @@
 {
-  "last_updated": "2025-09-19 07:07",
-  "count_articles_total": 1182,
-  "count_articles_new": 9,
+  "last_updated": "2025-09-19 19:06",
+  "count_articles_total": 1192,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 24621,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Kaisla Kuuskoski",
+      "title": "Chikungunya\u00advirus jyll\u00e4\u00e4 Euroopassa \u2013 t\u00e4m\u00e4 epidemiasta tiedet\u00e4\u00e4n",
+      "description": "Chikungunya tarkoittaa kumarassa kulkevaa ja viittaa taudin aiheuttamiin oireisiin.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011501999.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/9d20fae6d0714c2f59d9387514290ad2/some/is-default.jpg",
+      "publishedAt": "2025-09-18 18:29:00",
+      "content": "Chikungunya tarkoittaa kumarassa kulkevaa ja viittaa taudin aiheuttamiin oireisiin.Tiikerihyttysen levitt\u00e4m\u00e4 virustauti levi\u00e4\u00e4 etel\u00e4isess\u00e4 Euroopassa vauhdilla. Chikungunyaepidemia koettelee Italiaa\u2026 [+4175 chars]",
+      "retrievedAt": "2025-09-19 19:06:03.575775",
+      "internal_id": "7cef4db7a0e003fc5b34db23f8b79de386eac9f4da299ad1d3f4a53a7ecf60e7",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24623,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "\u00c1frica com menos casos; focos em Mo\u00e7ambique e RDCongo",
+      "description": "Apesar de ressurgimento de surtos, como em Mo\u00e7ambique, que viu aumento de 247% nos casos recentes, a mpox deixou de ser um problema t\u00e3o grave em \u00c1frica. OMS levantou estatuto de emerg\u00eancia sanit\u00e1ria.",
+      "url": "https://observador.pt/2025/09/18/africa-regista-menos-casos-de-mpox-apesar-de-focos-em-mocambique-e-na-rdcongo/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F09%2F04095547%2F43499203.jpg?layer=obstop:T",
+      "publishedAt": "2025-09-18 18:10:28",
+      "content": "O continente africano mostrou uma tend\u00eancia de queda nos cont\u00e1gios e mortes por mpox, embora persistam focos em Mo\u00e7ambique e na Rep\u00fablica Democr\u00e1tica do Congo (RDCongo), alertou esta quinta-feira a a\u2026 [+2467 chars]",
+      "retrievedAt": "2025-09-19 19:06:03.793181",
+      "internal_id": "1e0d3b6edca05b0e18070a6a5e01ec9ab539911cce32210e1aba6ae3cf63d0bd",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24617,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Wellcome Trust Sanger Institute",
+      "title": "Genomic evolution of major malaria-transmitting mosquito species uncovered",
+      "description": "New research into the genetics of Anopheles funestus (An. funestus), one of the most neglected but prolific malaria-transmitting mosquitoes in Africa, has revealed how this species is evolving in response to malaria control efforts.",
+      "url": "https://phys.org/news/2025-09-genomic-evolution-major-malaria-transmitting.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mosquito.jpg",
+      "publishedAt": "2025-09-18 18:00:06",
+      "content": "New research into the genetics of Anopheles funestus (An. funestus), one of the most neglected but prolific malaria-transmitting mosquitoes in Africa, has revealed how this species is evolving in res\u2026 [+6508 chars]",
+      "retrievedAt": "2025-09-19 19:06:02.720221",
+      "internal_id": "4934a4fd25a2e091ad95a75b363aed9ac916d96956537f6cdeb232bd289a99bc",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24608,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "John Tunison | Jtunison@mlive.com",
+      "title": "Rabid bat found in Kent County, health officials urge caution",
+      "description": "Kent County Health Department leaders on Thursday, Sept. 18 said the public should be cautious around bats that enter homes.",
+      "url": "https://www.mlive.com/news/grand-rapids/2025/09/rabid-bat-found-in-kent-county-health-officials-urge-caution.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/K6BY6HP3IJFNHFAUM7US3TVIAM.jpg?auth=5053088b789bdf60ffe235d37d079a775058a8155a25252f0d421888f23137e9&width=1280&smart=true&quality=90",
+      "publishedAt": "2025-09-18 17:56:00",
+      "content": "KENT COUNTY, MI -- A bat has tested positive for rabies in Kent County and health leaders urge the public to be cautious around bats found in living spaces. Kent County Health Department staff issue\u2026 [+1607 chars]",
+      "retrievedAt": "2025-09-19 19:06:00.324013",
+      "internal_id": "127dbd25b6d7bf1763bd1c7fd68a9b82a692e66ef655c0da8666e2e1543a486d",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24618,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cyclingnews.com",
+      "author": "Dani Ostanek",
+      "title": "Vaccinations, malaria pills, boiled water \u2013 Belgian team doctor outlines health precautions in place for Road World Championships in Rwanda",
+      "description": "Vaccinations, malaria pills, boiled water \u2013 Belgian team doctor outlines health precautions in place for Road World Championships in Rwandacyclingnews.com",
+      "url": "https://www.cyclingnews.com/news/vaccinations-malaria-pills-boiled-water-belgian-team-doctor-outlines-health-precautions-in-place-for-road-world-championships-in-rwanda/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fuj3qujdEoDEQDkWLSvNXS.jpg",
+      "publishedAt": "2025-09-18 17:19:13",
+      "content": "The UCI Road World Championships in Rwanda are almost upon us, and as riders and teams from around the world head to the African nation, a host of measures are in place for those competing to stay he\u2026 [+3371 chars]",
+      "retrievedAt": "2025-09-19 19:06:02.730813",
+      "internal_id": "e57c196bcc3cf79f4748ffce063f4eb29af74bde64e46833dc5116fec527839e",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24622,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "Antoine Belhassen",
+      "title": "Chikungunya : une troisi\u00e8me commune concern\u00e9e par un cas autochtone pr\u00e8s de Grenoble",
+      "description": "Un cas autochtone de chikungunya a \u00e9t\u00e9 recens\u00e9 sur la commune de Varces-Alli\u00e8res-et-Risset (Is\u00e8re), pr\u00e8s de Grenoble, ce jeudi 18 septembre. Une enqu\u00eate entomologique est pr\u00e9vue ce vendredi, avant une possible op\u00e9ration de d\u00e9moustication la semaine prochaine.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/chikungunya-une-troisieme-commune-concernee-par-un-cas-autochtone-pres-de-grenoble-3219167.html",
+      "urlToImage": "https://france3-regions.franceinfo.fr/image/_JhvcDae5ySOf11pBqBcF8x8M3w/930x620/regions/2025/09/18/075-roy-notitle250607-np5lk-1-68cc2e8505727925098166.jpg",
+      "publishedAt": "2025-09-18 16:20:41",
+      "content": "Un cas autochtone de chikungunya a \u00e9t\u00e9 recens\u00e9 sur la commune de Varces-Alli\u00e8res-et-Risset (Is\u00e8re), pr\u00e8s de Grenoble, ce jeudi 18 septembre. Une enqu\u00eate entomologique est pr\u00e9vue ce vendredi, avant un\u2026 [+2298 chars]",
+      "retrievedAt": "2025-09-19 19:06:03.624111",
+      "internal_id": "f4a613d6ad5db8dcc0c942f65edc92592a09f16466be72ba6c382de0aa1903b0",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24607,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Katia Hetter",
+      "title": "The US is tracking 14 potential rabies outbreaks in 20 states. Here\u2019s what to know | CNN",
+      "description": "While dogs are responsible for the majority of human rabies deaths worldwide, contact with infected bats is the leading cause of human rabies deaths in the US.",
+      "url": "https://www.cnn.com/2025/09/18/health/rabies-animal-vaccine-disease-health-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pa4tje.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-09-18 15:00:06",
+      "content": "While human cases of rabies in the United States are rare, its still a deadly disease: six people have died from rabies nationwide since September 2024, a US Centers for Disease Control and Preventio\u2026 [+8268 chars]",
+      "retrievedAt": "2025-09-19 19:06:00.314627",
+      "internal_id": "64f144d5e8a83067f225424211c5df19828afa218ce1793101c86cbdf9ac934f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24610,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara  Moniuszko",
+      "title": "CDC's vaccine advisory panel to vote on measles, hepatitis B shots",
+      "description": "The CDC's Advisory Committee on Immunization Practices is meeting to discuss and vote on hepatitis B and measles, mumps, rubella and varicella vaccines for children.",
+      "url": "https://www.cbsnews.com/live-updates/cdc-vaccine-advisory-committee-rfk-jr-vote-measles-hepatitis-b/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/18/39e25e22-727b-4254-9df9-1d584fdfc335/thumbnail/1200x630g2/18d63e6468d814fd551bca3107180330/ap25259066459094.jpg",
+      "publishedAt": "2025-09-18 14:02:00",
+      "content": "While testifying at a Senate hearing Wednesday about why she was ousted as CDC director, Dr. Susan Monarez said she's \"very nervous\" about the newly appointed ACIP members and what their recommendati\u2026 [+788 chars]",
+      "retrievedAt": "2025-09-19 19:06:00.668218",
+      "internal_id": "f10621a5a8b7a5f5b5f05d0f2c94abb346fb3bc236d60d0c0d27aaf5abaf8db2",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24614,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Katherine Heath, Lincoln Muniz Alves, Michael B. Bonsall",
+      "title": "Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil",
+      "description": "Author summary Aedes aegypti mosquitoes transmit viruses like dengue, Zika, and chikungunya, which are increasing in many parts of the world, including Brazil. Climate change and rapid urban growth are likely to increase the risk of mosquito-borne disease out\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013415.g005&size=inline",
+      "publishedAt": "2025-09-18 14:00:00",
+      "content": "Citation: Heath K, Muniz Alves L, Bonsall MB (2025) Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil. P\u2026 [+32789 chars]",
+      "retrievedAt": "2025-09-19 19:06:01.931817",
+      "internal_id": "9ba03aafd05c633545c1ece8d75ee70e076ee39f436ee884f19ee5d4f52aadd0",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24616,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abel Kakuru, Jimmy Kizza, Miriam Aguti, Harriet Adrama, John Ategeka, Peter Olwoch, Miriam Nakalembe, Joaniter I. Nankabirwa, Bishop Opira, Nida Ozarslan, Anju Ranjit, Erin dela Cruz, Tamara D. Clark, Michelle E. Roh, Stephanie L. Gaw, Prasanna Jagannathan, Philip J. Rosenthal, Moses R. Kamya, Grant Dorsey",
+      "title": "Dihydroartemisinin\u2013piperaquine plus sulfadoxine\u2013pyrimethamine versus either drug alone for intermittent preventive treatment of malaria in pregnancy: A double-blind, randomized, controlled phase 3 trial from Uganda",
+      "description": "In a randomized clinical trial of two drug regimens for intermittent preventive treatment of malaria in pregnancy (IPTp), Abel Kakuru and colleagues report that, unexpectedly, combining the two regimens did not result in fewer adverse birth outcomes than eith\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004582",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004582.g003&size=inline",
+      "publishedAt": "2025-09-18 14:00:00",
+      "content": "Citation: Kakuru A, Kizza J, Aguti M, Adrama H, Ategeka J, Olwoch P, et al. (2025) Dihydroartemisininpiperaquine plus sulfadoxinepyrimethamine versus either drug alone for intermittent preventive tre\u2026 [+40005 chars]",
+      "retrievedAt": "2025-09-19 19:06:02.710462",
+      "internal_id": "95e5d2973a95d5d54b847c2482440a0130557448eb3ec34b104daaeda09bb579",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24615,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Thefocalpoints.com",
+      "author": "Nicolas Hulscher",
+      "title": "BREAKING STUDY: COVID-19 \u201cVaccines\u201d Linked to 63 Serious Central Nervous System Adverse Events",
+      "description": "CDC/FDA safety thresholds breached as COVID shots disrupt the blood\u2013brain barrier, unleashing meningitis, encephalitis, prion disease, brain abscesses, herpes reactivations, and more.",
+      "url": "https://www.thefocalpoints.com/p/breaking-study-covid-19-vaccines",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!f0Qi!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc668c4af-51d9-4f31-beed-8ef9e8504f8d_1192x1240.png",
+      "publishedAt": "2025-09-18 13:36:48",
+      "content": "ByNicolas Hulscher, MPH The study titled COVID-19 mRNA Vaccination: Implications for the Central Nervous System, authored by Kirstin Cosgrove, BM, CCRA; James A. Thorp, MD; Claire Rogers, MSPAS, PA-\u2026 [+5501 chars]",
+      "retrievedAt": "2025-09-19 19:06:02.310279",
+      "internal_id": "2399cf3b9bda445f32b853e0f84bb07ee7f4fabbe69ca4b81682eb3cb4f24bef",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Alerta dengue: un m\u00e9dico revel\u00f3 un m\u00e9todo poco conocido para evitar contagios esta primavera",
+      "description": "Jorge Tartaglione inst\u00f3 a reforzar los cuidados y la limpieza en las casas, y explic\u00f3 en ese sentido porqu\u00e9 no es suficiente vaciar los recipientes; repas\u00f3 los s\u00edntomas y c\u00f3mo detectarlos a tiempo",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-dengue-un-medico-revelo-un-metodo-poco-conocido-para-evitar-contagios-esta-primavera-nid18092025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-enfermedad-transmitida-por-el-mosquito-aedes-KA54FLWTYVEC3MHBVOMSNPOTHI.jpg?auth=85312484713218d77f14d1e2e88597d8d84cd6e6698153fd720779b41a4a08d9&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-09-18 13:32:56",
+      "content": "Con la llegada de la primavera, la combinaci\u00f3n entre el aumento de las temperaturas, lluvias m\u00e1s intensas y continuos per\u00edodos de calor, se genera el escenario ideal para que el mosquito prolifere, e\u2026 [+2881 chars]",
+      "retrievedAt": "2025-09-19 19:06:01.914187",
+      "internal_id": "5cb85699ab0c4a4bd9c0f7fe6c7321dc1e1768e80fb1d88f3933da9e8463ca23",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24611,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "V\u00e9ronique Mol\u00e9nat, Journaliste",
+      "title": "Chikungunya, dengue, West Nile : la France fait face \u00e0 une vague virale record, tardive et inattendue !",
+      "description": "Sant\u00e9 publique France annonce que la vigilance ne doit pas \u00eatre rel\u00e2ch\u00e9e concernant l\u2019\u00e9pid\u00e9mie de chikungunya. Avec la persistance de foyers actifs dans des zones touristiques du sud de la France, le risque d\u2019apparition de foyers secondaires dans d\u2019autres r\u00e9g\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/epidemie-chikungunya-dengue-west-nile-france-fait-face-vague-virale-record-tardive-inattendue-125666/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/f/d/3fdef04a4c_50237167_chikungunya-moustique-tigre.jpg",
+      "publishedAt": "2025-09-18 13:07:40",
+      "content": "On aurait pu penser que la saisonsaison \u00e9tait termin\u00e9e. C'est loin d'\u00eatre le cas ! Le nombre de cas de chikungunya, cette maladie virale transmise par le moustique-tigremoustique-tigre \u00e0 l'origine de\u2026 [+3541 chars]",
+      "retrievedAt": "2025-09-19 19:06:01.842071",
+      "internal_id": "fbbf8168d8e841e1bc24aeaa425b5b0bdc46dc478c99c773548e4d81aed30fc2",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24619,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alice Groth",
+      "title": "V\u00edtimas da Zika podem ser indenizadas ainda em setembro, diz ministro",
+      "description": "Fam\u00edlias t\u00eam direito a uma indeniza\u00e7\u00e3o em parcela \u00fanica de R$ 50 mil, al\u00e9m de uma pens\u00e3o mensal de R$ 8,1 mil",
+      "url": "https://www.metropoles.com/brasil/vitimas-da-zika-podem-ser-indenizadas-ainda-em-setembro-diz-ministro",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/05/22112146/ministro-da-previdencia-2.jpg",
+      "publishedAt": "2025-09-18 12:40:31",
+      "content": "O ministro da Previd\u00eancia Social, Wolney Queiroz, afirmou nesta quinta-feira (18/9) que a indeniza\u00e7\u00e3o no valor de R$ 50 mil a fam\u00edlias com crian\u00e7as v\u00edtimas da s\u00edndrome cong\u00eanita provocada pelo v\u00edrus \u2026 [+1470 chars]",
+      "retrievedAt": "2025-09-19 19:06:02.947746",
+      "internal_id": "c10d8e12be2a6f7be4d1355fa9b73a45b3aa426ceb552b4bb16aac5c1304ad2c",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24620,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Chikungunya : les cas autochtones en forte augmentation en France m\u00e9tropolitaine",
+      "description": "Les cas autochtones de chikungunya, qui d\u00e9signent les cas o\u00f9 une personne a \u00e9t\u00e9 contamin\u00e9e localement par le virus, sont en recrudescence en France m\u00e9tropolitaine. Les autorit\u00e9s sanitaires recensent 479 cas autochtones dans leur bilan hebdomadaire.",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-les-cas-autochtones-en-forte-augmentation-en-france-metropolitaine-9384c5c2-9474-11f0-8aaf-26b4770f0f96",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA5YmZjY2UxZTRkNDBmZjZlODYxYTZmMzYwNTFjYTg2ZmM?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4c0c488d17f8ec871e8ee5674e537ff33fd5f9a8eb96613293f1750df8a71949",
+      "publishedAt": "2025-09-18 11:01:53",
+      "content": "En raison de la recrudescence de cas de chikungunya cet \u00e9t\u00e9 en France m\u00e9tropolitaine, les autorit\u00e9s sanitaires ont lanc\u00e9 un appel mercredi 17 septembre 2025 \u00e0 rester vigilants. \u00ab La saison nest pas \u2026 [+3057 chars]",
+      "retrievedAt": "2025-09-19 19:06:03.465453",
+      "internal_id": "7950144064fd15abd8eff2bb1743bcb8e41d72950b85c620b99ebc826203e714",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24609,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Meghan Bartels, Andrea Tamayo",
+      "title": "How a Contentious CDC Vaccine Meeting Will Affect Public Health",
+      "description": "Three vaccines are on the agenda for this week\u2019s meeting of ACIP, the CDC\u2019s key advisory panel on immunization: the combined measles, mumps, rubella and varicella vaccine, the hepatitis B vaccine and COVID vaccines",
+      "url": "https://www.scientificamerican.com/article/how-a-contentious-cdc-vaccine-meeting-will-affect-public-health/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/4ed9ee0d28a0c681/original/man-getting-vaccinated.jpg?m=1758137162.498&w=1200",
+      "publishedAt": "2025-09-18 11:00:00",
+      "content": "The already tumultuous landscape of U.S. vaccine policy faces more turmoil in what\u2019s anticipated to be a politically charged two-day meeting of a recently overhauled advisory panel to the Centers for\u2026 [+13955 chars]",
+      "retrievedAt": "2025-09-19 19:06:00.658321",
+      "internal_id": "4d05da24b453adc26d70a0c2a89326727c99c5b71e6ff4250b8eff0ba9b024bb",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24612,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gouv.fr",
+      "author": "Minist\u00e8re du Travail, de la Sant\u00e9, des Solidarit\u00e9s et des Familles",
+      "title": "Recrudescence de cas de chikungunya et d'autres maladies transmises par les moustiques : restons vigilants, la saison n'est pas termin\u00e9e !",
+      "description": "Depuis le printemps 2025, les autorit\u00e9s sanitaires fran\u00e7aises observent une forte augmentation des arbovirus sur le territoire m\u00e9tropolitain, marqu\u00e9e par une circulation accrue du chikungunya et de la dengue. Un nombre important de personnes contamin\u00e9es local\u2026",
+      "url": "https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/recrudescence-de-cas-de-chikungunya-et-d-autres-maladies-transmises-par-les",
+      "urlToImage": "https://sante.gouv.fr/local/cache-vignettes/L200xH105/bc3bdfb20294427bc48ae6a7139d86-7d994.png",
+      "publishedAt": "2025-09-18 07:24:24",
+      "content": "Dans ce contexte in\u00e9dit en France hexagonale, les autorit\u00e9s sanitaires rappellent le r\u00f4le de chacun pour se prot\u00e9ger des piq\u00fbres et limiter la prolif\u00e9ration des moustiques :Marche \u00e0 suivre pour les v\u2026 [+5656 chars]",
+      "retrievedAt": "2025-09-19 19:06:01.858699",
+      "internal_id": "73ac9d25cc06212dbb4624c34846180891f832ad999255fd4c0329ca41aa3349",
+      "publishedAtLabel": "Sep 18"
+    },
     {
       "id": 24605,
       "query": [
@@ -21255,132 +21565,6 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23427,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
-      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 17:42:28",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2025-08-04 19:08:24.635062",
-      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23430,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
-      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
-      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
-      "publishedAt": "2025-08-03 17:06:35",
-      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.558824",
-      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Gardy Chacha",
-      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
-      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
-      "publishedAt": "2025-08-03 16:44:48",
-      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
-      "retrievedAt": "2025-08-04 19:08:25.790586",
-      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23426,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Ratt",
-      "title": "Measles And Mania Are Both Contagious",
-      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
-      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
-      "publishedAt": "2025-08-03 12:00:01",
-      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.512308",
-      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
-      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
-      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
-      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
-      "publishedAt": "2025-08-03 10:59:51",
-      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.355606",
-      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23424,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.cc",
-      "author": "saamaan1@yahoo.com (Master)",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:21:28",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.270150",
-      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23425,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "Kingman",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:05:06",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.294637",
-      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
