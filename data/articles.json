@@ -1,8 +1,173 @@
 {
-  "last_updated": "2025-09-18 19:06",
-  "count_articles_total": 1166,
-  "count_articles_new": 17,
+  "last_updated": "2025-09-19 07:07",
+  "count_articles_total": 1182,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 24605,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorit\u00e9s sanitaires",
+      "description": "Au 15 septembre, autour de 480 cas autochtones de chikungunya ont \u00e9t\u00e9 identifi\u00e9s en France m\u00e9tropolitaine.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/QsF8hx-l9rx4lZzSb8GYO99J8TM/0x325:6240x3835/1500x843/2025/09/18/080-hl-nguyonnet-2519932-68cb9d1992256492409017.jpg",
+      "publishedAt": "2025-09-18 05:50:57",
+      "content": "Face \u00e0 la hausse in\u00e9dite des contaminations, cet \u00e9t\u00e9 dans l'hexagone, par le chikungunya et dans une moindre mesure par la dengue, les autorit\u00e9s sanitaires ont appel\u00e9 \u00e0 rester vigilants, mercredi 17 \u2026 [+1204 chars]",
+      "retrievedAt": "2025-09-19 07:07:43.470139",
+      "internal_id": "411e348310e6c77a8948bf5e5d967bc2aa094d55d430ac1a0f47039b3fd503ac",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24598,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Emergence of Bordetella holmesii\u2013Associated Pertussis-Like Illness, Northern India, 2019\u20132023",
+      "description": "B. holmesii\u2013Associated Pertussis-Like Illness",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-09-18 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Pertussis, caused by Borde\u2026 [+6190 chars]",
+      "retrievedAt": "2025-09-19 07:07:41.610183",
+      "internal_id": "7a6e34451e31e43098919112be3d9ba804de2902219fc5e5d2e901b00473a7a9",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24599,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Detection of Immunity Gap before Measles Outbreak, Ho Chi Minh City, Vietnam, 2024",
+      "description": "Detection of Immunity Gap before Measles Outbreak, Ho Chi Minh City, Vietnam, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/10/25-0234_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-09-18 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Measles is a highly contag\u2026 [+7394 chars]",
+      "retrievedAt": "2025-09-19 07:07:42.526618",
+      "internal_id": "3667a27769c371554edb0b103ef97e23b510ab245294cf6f29afb71d2173755f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24604,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Judit Macarro",
+      "title": "Zaragoza vigila los peligros del mosquito tigre: \"A\u00fan no tenemos la enfermedad, pero s\u00ed el transmisor\"",
+      "description": "Estas especies pueden propagar pat\u00f3genos como virus y par\u00e1sitos a los humanos a trav\u00e9s de sus picaduras, causando enfermedades como el dengue, Zika o chikungunya. M\u00e1s informaci\u00f3n: Zaragoza, en pie de guerra contra las ratas: se vigilar\u00e1n las zonas de obras y\u2026",
+      "url": "https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html",
+      "urlToImage": "https://s2.elespanol.com/2025/08/12/actualidad/1003743883936_257941217_1706x960.jpg",
+      "publishedAt": "2025-09-18 03:00:00",
+      "content": "La aparici\u00f3n de ratas en Zaragozadurante este verano ha encendido las alarmas en varias zonas de la ciudad. La plaza de los Sitios, San Francisco o el parque Bruil han sido algunos de los espacios do\u2026 [+3596 chars]",
+      "retrievedAt": "2025-09-19 07:07:43.407627",
+      "internal_id": "338dd41b552bb0a9a70f96076f304aeed232f1326cac87b91a607ce3daffad72",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24601,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Holly Richardson, Conor Byrne, and Sharnie Kim",
+      "title": "Health care workers confirmed positive in far north Queensland measles outbreak which has maternity ward on high alert",
+      "description": "More locally acquired cases have been confirmed with exposure sites now including Cairns Hospital's maternity ward and areas on the Atherton Tablelands.",
+      "url": "https://www.abc.net.au/news/2025-09-18/four-new-cases-confirmed-in-cairns-measles-outbreak/105786794",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4ac34f28114667c4140ac0ae9ea6f8f0?impolicy=wcms_watermark_news&cropH=2354&cropW=4184&xPos=0&yPos=218&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-17 22:19:08",
+      "content": "The number of measles cases in Far North Queensland hasmore thandoubled, with warnings of more exposure sites including Cairns Hospital's maternity ward. Four new cases have been confirmed across th\u2026 [+5922 chars]",
+      "retrievedAt": "2025-09-19 07:07:42.545116",
+      "internal_id": "ac6977017a5cd322be4c9c91d0593771ed9966668451ceaf616e98bb595b9697",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24602,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Holly Richardson",
+      "title": "Three new cases confirmed in Far North Queensland measles outbreak",
+      "description": "Another three locally acquired cases have been confirmed with exposure sites now including Cairns Hospital's maternity ward and areas on the Atherton Tablelands.",
+      "url": "https://www.abc.net.au/news/2025-09-18/three-new-cases-confirmed-in-cairns-measles-outbreak/105786794",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f226ef8f811f45ee207cc37a3acbd026?impolicy=wcms_watermark_news&cropH=1518&cropW=2699&xPos=0&yPos=138&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-17 22:19:08",
+      "content": "The number of measles cases in far north Queensland has doubled, with warnings of more exposure sites including Cairns Hospital's maternity ward. Three new cases have been confirmed across the regio\u2026 [+1489 chars]",
+      "retrievedAt": "2025-09-19 07:07:42.554288",
+      "internal_id": "99f4fac8154344529152d33bb4fe58db69f25fd26b718d40ba96aa168bb19103",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24606,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya : forte hausse des cas autochtones en m\u00e9tropole, Sant\u00e9 publique France appelle \u00e0 la vigilance face aux moustiques tigres",
+      "description": "L\u2019implantation du moustique tigre dans 81 d\u00e9partements m\u00e9tropolitains inqui\u00e8te les autorit\u00e9s, qui redoutent une propagation accrue du chikungunya et d\u2019autres maladies vectorielles cet automne.",
+      "url": "https://www.lemonde.fr/planete/article/2025/09/17/chikungunya-forte-hausse-des-cas-autochtones-en-metropole-sante-publique-france-appelle-a-la-vigilance-face-aux-moustiques-tigres_6641594_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/09/17/0/0/4800/3200/1440/960/60/0/9e9430a_upload-1-13211ehlicwc-maxnewsspecialtwo260855.jpg",
+      "publishedAt": "2025-09-17 21:45:14",
+      "content": "Op\u00e9ration nocturne de d\u00e9moustication \u00e0 Montoison (Dr\u00f4me) suite \u00e0 un cas de chikungunya, le 24 juin 2025. FABRICE HEBRARD/PHOTOPQR/\u00ab LE DAUPHINE \u00bb/MAXPPP Face \u00e0 la hausse in\u00e9dite des contaminations c\u2026 [+2624 chars]",
+      "retrievedAt": "2025-09-19 07:07:45.022408",
+      "internal_id": "0a63bd6e044947994f82c8036ef26091aac156c65805067966f60cd53cc86c31",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24600,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba surpasses 200 confirmed measles cases so far this year",
+      "description": "More than 200 cases of measles have been confirmed across Manitoba so far this year, public health officials said on Wednesday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/200-confirmed-measles-cases-1.7636426",
+      "urlToImage": "https://i.cbc.ca/1.7538025.1747494787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/child-measles-shutterstock-stock-photo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-17 19:59:23",
+      "content": "More than 200 cases of measles have been confirmed across Manitoba so far this year, public health officials said on Wednesday. There have been 204 confirmed cases and 16 probable cases in 2025 so \u2026 [+2808 chars]",
+      "retrievedAt": "2025-09-19 07:07:42.535966",
+      "internal_id": "d249cbd0e5ba5cf3c5fe7f60d18f325855585f78ca3efce322df5c0ab6ca9e89",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 24603,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "David Frum",
+      "title": "The Preventable Return of Deadly Diseases",
+      "description": "The historian Kyle Harper on the history of plagues, the rise of anti-vaccination politics, and why measles is back in America",
+      "url": "https://www.theatlantic.com/podcasts/archive/2025/09/david-frum-show-kyle-harper-vaccines-infectious-diseases/684242/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/XCEM63syWk32_DTgs9UABAhiJms=/2x13:1279x678/1200x625/media/img/mt/2025/09/2025_9_16_The_David_Frum_Show_EP24_Promo_1280x720_/original.jpg",
+      "publishedAt": "2025-09-17 19:30:00",
+      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Pocket CastsOn this episode of The David Frum Show, The Atlantic\u2019s David Frum opens with reflections on President Donald Trump\u2019s repeated delays t\u2026 [+55191 chars]",
+      "retrievedAt": "2025-09-19 07:07:42.570911",
+      "internal_id": "80e9960eb14c7676f3a1fd6f5bf4950a55c5650b4026209dbfa94d9ba93dbd30",
+      "publishedAtLabel": "Sep 17"
+    },
     {
       "id": 24589,
       "query": [
@@ -21090,6 +21255,132 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23427,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
+      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 17:42:28",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-08-04 19:08:24.635062",
+      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
+      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
+      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-03 17:06:35",
+      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.558824",
+      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Gardy Chacha",
+      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
+      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
+      "publishedAt": "2025-08-03 16:44:48",
+      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
+      "retrievedAt": "2025-08-04 19:08:25.790586",
+      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Ratt",
+      "title": "Measles And Mania Are Both Contagious",
+      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
+      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
+      "publishedAt": "2025-08-03 12:00:01",
+      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.512308",
+      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
+      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
+      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
+      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
+      "publishedAt": "2025-08-03 10:59:51",
+      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.355606",
+      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23424,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.cc",
+      "author": "saamaan1@yahoo.com (Master)",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:21:28",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.270150",
+      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.ru",
+      "author": "Kingman",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:05:06",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.294637",
+      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-09-18 19:06
-- **Most recent article:** 2025-09-17 18:37:48
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-09-19 07:07
+- **Most recent article:** 2025-09-18 05:50:57
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 25 | 345 |
-| measles | 20 | 26 | 50 | 33 | 45 | 39 | 17 | 230 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 14 | 198 |
-| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 6 | 101 |
-| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 3 | 98 |
-| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 2 | 94 |
+| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 28 | 349 |
+| measles | 22 | 26 | 50 | 33 | 45 | 39 | 22 | 237 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 16 | 200 |
+| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 6 | 103 |
+| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 3 | 99 |
+| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 2 | 95 |
 | h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 6 | 57 |
-| zika | 5 | 9 | 7 | 8 | 4 | 6 | 2 | 41 |
+| zika | 5 | 9 | 7 | 8 | 4 | 6 | 3 | 42 |
 | meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 3 | 37 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
 | hpai | 3 | 0 | 1 | 1 | 1 | 4 | 1 | 11 |
+| pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 2 | 8 |
 | typhoid | 1 | 1 | 0 | 0 | 2 | 4 | 0 | 8 |
-| pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 1 | 7 |
 | leptospirosis | 1 | 1 | 2 | 0 | 2 | 1 | 0 | 7 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-38 (zika)
+
+- [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
 
 - [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
 
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (pertussis)
 
+- [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
+
 - [Rohamokkal járó betegség miatt figyelmeztetnek a szakemberek](https://www.origo.hu/itthon/2025/09/szamarkohoges-hevesben-uj-megbetegedesek-2025) (Origo.hu)
 
 ## 25-38 (mpox)
@@ -71,6 +75,16 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [Detection of Immunity Gap before Measles Outbreak, Ho Chi Minh City, Vietnam, 2024](https://wwwnc.cdc.gov/eid/article/31/10/25-0234_article) (Cdc.gov)
+
+- [Health care workers confirmed positive in far north Queensland measles outbreak which has maternity ward on high alert](https://www.abc.net.au/news/2025-09-18/four-new-cases-confirmed-in-cairns-measles-outbreak/105786794) (ABC News (AU))
+
+- [Three new cases confirmed in Far North Queensland measles outbreak](https://www.abc.net.au/news/2025-09-18/three-new-cases-confirmed-in-cairns-measles-outbreak/105786794) (ABC News (AU))
+
+- [Manitoba surpasses 200 confirmed measles cases so far this year](https://www.cbc.ca/news/canada/manitoba/200-confirmed-measles-cases-1.7636426) (CBC News)
+
+- [The Preventable Return of Deadly Diseases](https://www.theatlantic.com/podcasts/archive/2025/09/david-frum-show-kyle-harper-vaccines-infectious-diseases/684242/) (The Atlantic)
 
 - [The Dangerous Outbreaks That Could Rise on College Campuses](https://www.theatlantic.com/health/2025/09/vaccine-mandates-college-outbreaks/684237/) (The Atlantic)
 
@@ -134,6 +148,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (dengue)
 
+- [Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorités sanitaires](https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html) (Franceinfo.fr)
+
+- [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
+
 - [Novas estratégias ampliam combate à dengue, leishmaniose e Chagas](https://www.metropoles.com/saude/novas-estrategias-combate-dengue-chagas) (Metropoles.com)
 
 - [Baixa adesão à segunda dose de vacina da dengue preocupa especialistas](https://www.metropoles.com/saude/baixa-adesao-vacina-dengue-preocupa) (Metropoles.com)
@@ -163,6 +181,12 @@ Source: [News API](https://newsapi.org/)
 - [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
 
 ## 25-38 (chikungunya)
+
+- [Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorités sanitaires](https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html) (Franceinfo.fr)
+
+- [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
+
+- [Chikungunya : forte hausse des cas autochtones en métropole, Santé publique France appelle à la vigilance face aux moustiques tigres](https://www.lemonde.fr/planete/article/2025/09/17/chikungunya-forte-hausse-des-cas-autochtones-en-metropole-sante-publique-france-appelle-a-la-vigilance-face-aux-moustiques-tigres_6641594_3244.html) (Le Monde)
 
 - [Vorsicht, Infektionsgefahr!: Auswärtiges Amt warnt Italien-Urlauber vor Tigermücke](https://www.n-tv.de/wissen/Auswaertiges-Amt-warnt-Italien-Urlauber-vor-Tigermuecke-article26037642.html) (N-tv.de)
 
@@ -2348,6 +2372,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
+
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2365,6 +2393,8 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
+
+- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2412,6 +2442,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
+- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
+
+- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
+
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2447,6 +2481,8 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
+
+- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2739,3 +2775,5 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
+
+- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)
