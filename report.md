@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 17
-- **Last harvest:** 2025-09-19 19:06
-- **Most recent article:** 2025-09-18 18:29:00
+- **Last harvest:** 2025-09-20 07:06
+- **Most recent article:** 2025-09-19 04:10:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 34 | 354 |
-| measles | 20 | 26 | 50 | 33 | 45 | 39 | 24 | 237 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 20 | 204 |
-| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 8 | 103 |
-| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 6 | 101 |
-| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 3 | 95 |
+| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 34 | 355 |
+| measles | 22 | 26 | 50 | 33 | 45 | 39 | 35 | 250 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 21 | 205 |
+| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 11 | 108 |
+| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 6 | 102 |
+| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 4 | 97 |
 | h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 6 | 57 |
 | zika | 5 | 9 | 7 | 8 | 4 | 6 | 5 | 44 |
-| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 4 | 38 |
+| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 5 | 39 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
 | hpai | 3 | 0 | 1 | 1 | 1 | 4 | 1 | 11 |
 | pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 2 | 8 |
@@ -46,6 +46,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (rabies)
 
+- [Sydney mother warns of danger of monkeys in Bali after daughter needs rabies shots after neck bite](https://www.news.com.au/travel/travel-updates/incidents/sydney-mother-warns-of-danger-of-monkeys-in-bali-after-daughter-needs-rabies-shots-after-neck-bite/news-story/a45c90f0681492d07bab6edea806acf1) (News.com.au)
+
+- [Hunterdon County health officials warn of rabid raccoons found near reservoir](https://www.wfmz.com/news/area/western-newjersey/hunterdon-county-health-officials-warn-of-rabid-raccoons-found-near-reservoir/article_6afaff54-ae3c-4914-8dd6-3ead455a1493.html) (WFMZ Allentown)
+
+- [12-Year-Old Girl Bit by Monkey on Family Vacation Receives Urgent Rabies Vaccine](https://people.com/12-year-old-gets-rabies-vaccine-after-monkey-attack-at-popular-park-11813104) (PEOPLE)
+
 - [Rabid bat found in Kent County, health officials urge caution](https://www.mlive.com/news/grand-rapids/2025/09/rabid-bat-found-in-kent-county-health-officials-urge-caution.html) (mlive.com)
 
 - [The US is tracking 14 potential rabies outbreaks in 20 states. Here’s what to know | CNN](https://www.cnn.com/2025/09/18/health/rabies-animal-vaccine-disease-health-wellness) (CNN)
@@ -70,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (mpox)
 
+- [“A mpox não acabou e ainda exige vigilância constante”, diz médica](https://www.metropoles.com/saude/mpox-ainda-exige-vigilancia-medica) (Metropoles.com)
+
 - [África com menos casos; focos em Moçambique e RDCongo](https://observador.pt/2025/09/18/africa-regista-menos-casos-de-mpox-apesar-de-focos-em-mocambique-e-na-rdcongo/) (Observador.pt)
 
 - [First Case of Severe Mpox Strain Confirmed in Japan](https://newsonjapan.com/article/146896.php) (Newsonjapan.com)
@@ -77,6 +85,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : comment le tecovirimat a pu être prescrit à des malades en l’absence de preuve de son efficacité](https://www.lemonde.fr/sciences/article/2025/09/16/mpox-comment-le-tecovirimat-a-pu-etre-prescrit-a-des-malades-en-l-absence-de-preuve-de-son-efficacite_6641346_1650684.html) (Le Monde)
 
 ## 25-38 (meningitis)
+
+- [Crowdsourcing recurrent aseptic meningitis treatment](https://thebloggess.com/2025/09/18/crowdsourcing-recurrent-aseptic-meningitis-treatment/) (Thebloggess.com)
 
 - [BREAKING STUDY: COVID-19 “Vaccines” Linked to 63 Serious Central Nervous System Adverse Events](https://www.thefocalpoints.com/p/breaking-study-covid-19-vaccines) (Thefocalpoints.com)
 
@@ -87,6 +97,28 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning (New York Times)](https://www.memeorandum.com/250919/p2) (Memeorandum.com)
+
+- [CDC advisory panel recommends restricting access to the MMRV vaccine](https://www.nbcnews.com/health/kids-health/cdc-panel-measles-chickenpox-vaccine-recommendation-rcna231986) (NBC News)
+
+- [RFK Jr.: not enough kids are dying of preventable diseases](https://www.lawyersgunsmoneyblog.com/2025/09/rfk-jr-not-enough-kids-are-dying-of-preventable-diseases) (Lawyersgunsmoneyblog.com)
+
+- [CDC's vaccine advisory panel changes recommendation on combined MMRV shot](https://www.cbsnews.com/video/cdcs-vaccine-advisory-panel-changes-recommendation-on-combined-mmrv-shot/) (CBS News)
+
+- [Kennedy’s Anti-Vaccine Council Is Going After the Easy Targets](https://www.theatlantic.com/health/2025/09/acip-hep-b/684266/) (The Atlantic)
+
+- [CDC panel changes measles, mumps, rubella, varicella vaccine recommendation](https://www.cbsnews.com/video/cdc-panel-changes-measles-mumps-rubella-varicella-vaccine-recommendation/) (CBS News)
+
+- [MMRV Vaccine Recommendations Modified by RFK Jr.'s CDC Panel](https://www.newsweek.com/mmrv-vaccine-changes-children-rfk-cdc-panel-2132206) (Newsweek)
+
+- [CDC committee votes to change measles vaccine guidance for young children](https://www.livescience.com/health/medicine-drugs/cdc-committee-votes-to-change-measles-vaccine-guidance-for-young-children) (Live Science)
+
+- [RFK Jr. Vaccine Panel Advises Against MMRV Vaccine](https://politicalwire.com/2025/09/18/rfk-jr-vaccine-panel-advises-against-mmrv-vaccine/) (Politicalwire.com)
+
+- [RFK Jr.’s Handpicked Vaccine Panel Nixes Measles-Chickenpox Combo for Kids Under 4](https://gizmodo.com/rfk-jr-s-handpicked-vaccine-panel-nixes-measles-chickenpox-combo-for-kids-under-4-2000660333) (Gizmodo.com)
+
+- [Measles exposure possible at 2 Vaughan locations, public health agency warns](https://www.cbc.ca/news/canada/toronto/measles-case-reported-in-vaughan-1.7637477) (CBC News)
 
 - [CDC's vaccine advisory panel to vote on measles, hepatitis B shots](https://www.cbsnews.com/live-updates/cdc-vaccine-advisory-committee-rfk-jr-vote-measles-hepatitis-b/) (CBS News)
 
@@ -169,6 +201,8 @@ Source: [News API](https://newsapi.org/)
 - [경기도서 조류인플루엔자, 아프리카돼지열병 발생...방역 비상](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659) (Ohmynews.com)
 
 ## 25-38 (dengue)
+
+- [Brote de dengue en Oaxaca afecta a niños de 10 a 14 años; ya suman tres muertes en 2025](https://www.milenio.com/estados/dengue-en-oaxaca-afecta-a-ninos-suman-tres-muertes-en-2025) (Milenio)
 
 - [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
 
@@ -2414,6 +2448,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
+
+- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
+
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2431,6 +2469,8 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
+
+- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2478,6 +2518,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
+- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
+
+- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
+
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2513,6 +2557,8 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
+
+- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2805,3 +2851,5 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
+
+- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)

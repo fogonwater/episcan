@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-09-19 19:06",
-  "count_articles_total": 1192,
+  "last_updated": "2025-09-20 07:06",
+  "count_articles_total": 1216,
   "count_articles_new": 17,
   "articles": [
+    {
+      "id": 24631,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning (New York Times)",
+      "description": "New York Times: In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning \u2014 Public health advocates hoped that the measles outbreak might persuade the reluctant to get shots. That has not turned out to be true. \u2014 Public health advocates hoped\u2026",
+      "url": "https://www.memeorandum.com/250919/p2",
+      "urlToImage": "https://static01.nyt.com/images/2025/09/17/multimedia/00nat-antivaxx-top2-vjcg/00nat-antivaxx-top2-vjcg-facebookJumbo.jpg",
+      "publishedAt": "2025-09-19 04:10:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.576614",
+      "internal_id": "6cfd958906d647fdf7235786216c635d1396459f151912091984c52dcd584038",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24636,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix , Erika Edwards, Berkeley Lovelace Jr. , Liz Szabo",
+      "title": "CDC advisory panel recommends restricting access to the MMRV vaccine",
+      "description": "A closely watched advisory panel to the CDC voted Thursday to restrict access to a measles vaccine that includes protection against chickenpox.",
+      "url": "https://www.nbcnews.com/health/kids-health/cdc-panel-measles-chickenpox-vaccine-recommendation-rcna231986",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-texas-measles-mn-1130-0c616f.jpg",
+      "publishedAt": "2025-09-19 01:05:07",
+      "content": "A closely watched advisory panel to the CDC voted Thursday to tweak recommendations for a measles vaccine that includes protection against the varicella, or chickenpox, virus. The new guidance from \u2026 [+4761 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.652633",
+      "internal_id": "371f0c1b2664a2174a42aee803f288720899a5a20b6c20a189cc3610ecef9a9c",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24633,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "RFK Jr.: not enough kids are dying of preventable diseases",
+      "description": "And he was nominated and confirmed specifically to take care of this problem: Health secretary Robert F. Kennedy Jr. handpicked slate of vaccine advisers voted to no longer recommend a combined shot for measles, mumps, rubella and varicella for children under\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/09/rfk-jr-not-enough-kids-are-dying-of-preventable-diseases",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/06/RFK-Jr.png",
+      "publishedAt": "2025-09-19 00:04:24",
+      "content": "Health secretary Robert F. Kennedy Jr. handpicked slate of vaccine advisers voted to no longer recommend a combined shot for measles, mumps, rubella and varicella for children under age 4. The move \u2026 [+1705 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.595168",
+      "internal_id": "fa422d14110d6edcab2f8d1f49117cdc9bae4758163bb49e395e868487b38be3",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24630,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "CDC's vaccine advisory panel changes recommendation on combined MMRV shot",
+      "description": "A panel that advises the CDC voted to shift its guidance on immunizing children under 4 with the combined measles, mumps, rubella, varicella vaccine. Instead of the combined shot, the advisory panel voted to recommend the age group get an MMR vaccine and a va\u2026",
+      "url": "https://www.cbsnews.com/video/cdcs-vaccine-advisory-panel-changes-recommendation-on-combined-mmrv-shot/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/18/309ed7d4-eb82-44e3-9aec-a33e14816bed/thumbnail/1200x630/7a555a37572145ab4ddc92f257f6972b/cbsn-fusion-cdcs-vaccine-advisory-panel-changes-recommendation-on-combined-mmrv-shot-thumbnail.jpg",
+      "publishedAt": "2025-09-18 23:16:43",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-09-20 07:06:16.567791",
+      "internal_id": "34b1984a59f64e15e90be38d802744decd816e3139ade392003ffeeb70807214",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24625,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "news-com-au",
+      "source_name": "News.com.au",
+      "author": "News.com.au",
+      "title": "Sydney mother warns of danger of monkeys in Bali after daughter needs rabies shots after neck bite",
+      "description": "Flavia McDonald explains how a split second encounter with a monkey in Bali resulted in a medical bill at over $6000.",
+      "url": "https://www.news.com.au/travel/travel-updates/incidents/sydney-mother-warns-of-danger-of-monkeys-in-bali-after-daughter-needs-rabies-shots-after-neck-bite/news-story/a45c90f0681492d07bab6edea806acf1",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/111680376.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-09-18 23:00:13",
+      "content": "A Sydney mother has revealed how a split second encounter with a monkey at a popular sanctuary in Bali turned into a living nightmare, resulting in a medical bill greater than USD $3967.32. Flavia M\u2026 [+6966 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.066206",
+      "internal_id": "d6248c0d0be82c2d39e6e9cab7cc42acdd662261710b5b4129f4d837f0e633c5",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24634,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Tom Bartlett, Katherine J. Wu",
+      "title": "Kennedy\u2019s Anti-Vaccine Council Is Going After the Easy Targets",
+      "description": "Its members voted to stop recommending a combination vaccine for measles, mumps, rubella, and varicella.",
+      "url": "https://www.theatlantic.com/health/2025/09/acip-hep-b/684266/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/tFHcWDwkYcJ4NEk7fY2iCCxaNz0=/0x83:2000x1125/1200x625/media/img/mt/2025/09/2025_09_18_Kennedys_Anti_Vaccine_Council_Arrives_at_Full_Power/original.jpg",
+      "publishedAt": "2025-09-18 22:50:33",
+      "content": "Three months into its tenure, Robert F. Kennedy Jr.\u2019s handpicked vaccine advisory committee has taken down one of its easiest targets.Today, its members voted to limit the national guidance for a chi\u2026 [+10072 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.611721",
+      "internal_id": "40068a02cf04ea5c4a726cdf866a6a6ad8854efc8f4e86de687b8efacd4e915e",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24629,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "CDC panel changes measles, mumps, rubella, varicella vaccine recommendation",
+      "description": "The Centers for Disease Control's vaccine committee voted Thursday to change its recommendation for the combined measles, mumps, rubella and varicella (MMRV) vaccine. CBS News medical contributor Dr. C\u00e9line Gounder breaks down the change.",
+      "url": "https://www.cbsnews.com/video/cdc-panel-changes-measles-mumps-rubella-varicella-vaccine-recommendation/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/18/fe83171f-73b2-4317-974c-3b7c06355b99/thumbnail/1200x630/b571fdd3c0d56facd731d2038d5ddad8/cbsn-fusion-cdc-panel-changes-measles-mumps-rubella-varicella-vaccine-recommendation-thumbnail.jpg",
+      "publishedAt": "2025-09-18 22:49:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-09-20 07:06:16.551052",
+      "internal_id": "4abe0dbc40072fb873fc5e76230e2acbde272be560cb7eb77e343d64305a695b",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24635,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "MMRV Vaccine Recommendations Modified by RFK Jr.'s CDC Panel",
+      "description": "In his opening remarks, committee chair Martin Kulldorff defended the group against critics who say it leans toward anti-vaccine views.",
+      "url": "https://www.newsweek.com/mmrv-vaccine-changes-children-rfk-cdc-panel-2132206",
+      "urlToImage": "https://d.newsweek.com/en/full/2725371/committee-members.jpg",
+      "publishedAt": "2025-09-18 22:32:29",
+      "content": "Federal vaccine advisers on Thursday recommended against giving the combined measles, mumps, rubella and varicella/chickenpox (MMRV) vaccine to children younger than 4, saying they should instead rec\u2026 [+1072 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.636128",
+      "internal_id": "291dcbcdd5a45e67a5ad03a91ca8848dbdad6e0c991fedaf474e9d96c0d73d6a",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24628,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "CDC committee votes to change measles vaccine guidance for young children",
+      "description": "The Advisory Committee on Immunization Practices has recommended against using the MMRV vaccine in children under 4. This could eliminate a choice for kids' first dose of measles, mumps, rubella and chickenpox prevention.",
+      "url": "https://www.livescience.com/health/medicine-drugs/cdc-committee-votes-to-change-measles-vaccine-guidance-for-young-children",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwxsPzSFbwo38qvZM4tiy8.jpg",
+      "publishedAt": "2025-09-18 22:22:16",
+      "content": "An influential Centers for Disease Control and Prevention (CDC) committee has announced new recommendations for the combined measles, mumps, rubella and varicella (MMRV) vaccine. The members of the \u2026 [+4623 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.541747",
+      "internal_id": "16ec752c12c2e2ed97107fe23b1b710d1ec16a04e3f32bae69a2f9fde424c834",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24637,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "RFK Jr. Vaccine Panel Advises Against MMRV Vaccine",
+      "description": "\u201cHealth secretary Robert F. Kennedy Jr.\u2019s handpicked slate of vaccine advisers voted to no longer recommend a combined shot for measles, mumps, rubella and varicella for children under age 4,\u201d the Wall Street Journal reports.",
+      "url": "https://politicalwire.com/2025/09/18/rfk-jr-vaccine-panel-advises-against-mmrv-vaccine/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-09-18 22:14:46",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.669855",
+      "internal_id": "601b376ff20e935962e10ece78d409b1227e891359a0d01bee9c924821111a69",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24627,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "RFK Jr.\u2019s Handpicked Vaccine Panel Nixes Measles-Chickenpox Combo for Kids Under 4",
+      "description": "The latest ACIP votes could lead to substantially fewer kids getting vaccinated.",
+      "url": "https://gizmodo.com/rfk-jr-s-handpicked-vaccine-panel-nixes-measles-chickenpox-combo-for-kids-under-4-2000660333",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Kennedyprotest-1200x675.jpg",
+      "publishedAt": "2025-09-18 22:13:32",
+      "content": "Robert F. Kennedy Jr.\u2019s handpicked vaccine recommendation panel has just issued guidance that, if acted on, could overhaul when and how children receive vaccines designed to protect them from dangero\u2026 [+5860 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.524027",
+      "internal_id": "8310f7fe0080b562bab8e732754234b4722053eedaa97d17cac2e491af31af14",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24639,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Thebloggess.com",
+      "author": "thebloggess",
+      "title": "Crowdsourcing recurrent aseptic meningitis treatment",
+      "description": "Hello and welcome to the most boring blog post title I\u2019ve ever written. Sorry, but I thought I\u2019d reach out and try to crowdsource (after getting permission from my kiddo, Hailey.) You may remember that they were in the hospital for quite a while this summer w\u2026",
+      "url": "https://thebloggess.com/2025/09/18/crowdsourcing-recurrent-aseptic-meningitis-treatment/",
+      "urlToImage": "https://thebloggess.com/wp-content/uploads/2025/09/Screenshot-2025-09-18-at-4.04.06-PM-Large.jpeg",
+      "publishedAt": "2025-09-18 21:14:27",
+      "content": "Flourish in Progress: (T)hug Life: Part hood. Part good. The Mack Files: Digesting life in bite-sized pieces through the lens of clich\u00e9s, quotes &amp; \u201ctruisms\u201d. Often irreverent, always honest. B\u2026 [+1758 chars]",
+      "retrievedAt": "2025-09-20 07:06:17.801769",
+      "internal_id": "11032d97c9fd16107e647c5223c41c377dda5edbe91e97ef9af155e9e57e43c4",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24626,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WFMZ Allentown",
+      "author": "69 News",
+      "title": "Hunterdon County health officials warn of rabid raccoons found near reservoir",
+      "description": "Officials say the two raccoons that tested positive for rabies were located in the area of Round Valley Reservoir in Clinton Township.",
+      "url": "https://www.wfmz.com/news/area/western-newjersey/hunterdon-county-health-officials-warn-of-rabid-raccoons-found-near-reservoir/article_6afaff54-ae3c-4914-8dd6-3ead455a1493.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/0b/70b7f2d5-9a5f-59b2-8217-a186789b220e/5d9373fc8bae7.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-09-18 20:42:51",
+      "content": "HUNTERDON COUNTY, Nj. - Health officials in Hunterdon County are warning the public after a pair of raccoons tested positive for rabies. Officials say the two raccoons that tested positive for rabie\u2026 [+377 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.106797",
+      "internal_id": "11d10c6e930e58a0b3ceb97b1d461b6e190e13dbfde591b2001d2e77f2c4df0f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24624,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "PEOPLE",
+      "author": "Colson Thayer",
+      "title": "12-Year-Old Girl Bit by Monkey on Family Vacation Receives Urgent Rabies Vaccine",
+      "description": "During a trip to Bali, Indonesia, for Father's Day a Sydney, Australia, family rushed to a local clinic following a monkey attack at a popular tourist...",
+      "url": "https://people.com/12-year-old-gets-rabies-vaccine-after-monkey-attack-at-popular-park-11813104",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/geXJBdP9lGFv01tOG8R44A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/9c607b8302bc44f4d5c63cbfd832aca0",
+      "publishedAt": "2025-09-18 20:41:33",
+      "content": "NEED TO KNOW A 12-year-old girl on a family trip to Bali, Indonesia, was attacked by a monkey at a popular tourist attraction last week, according to News.com.au After getting bit \u2026 [+4048 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.046610",
+      "internal_id": "e3ce1153588769b80e58afd09f05dd7012c67174e9297c104982e5fccb20814c",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "Brote de dengue en Oaxaca afecta a ni\u00f1os de 10 a 14 a\u00f1os; ya suman tres muertes en 2025",
+      "description": "En Oaxaca se ha reportado un brote at\u00edpico e inusitado de contagios de dengueen ni\u00f1os de 10 y 14 a\u00f1os, por lo que la Secretar\u00eda de Salud (SS) activ\u00f3 las alertas epidemiol\u00f3gicas.El titular de la Secretar\u00eda de Salud (SS) Efr\u00e9n Emanuel Jarqu\u00edn Gonz\u00e1lez, report\u00f3 \u2026",
+      "url": "https://www.milenio.com/estados/dengue-en-oaxaca-afecta-a-ninos-suman-tres-muertes-en-2025",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/18/personal-salud-fumigando-calles-oaxaca.jpeg",
+      "publishedAt": "2025-09-18 20:20:00",
+      "content": "En Oaxaca se ha reportado un brote at\u00edpico e inusitado de contagios de dengue en ni\u00f1os de 10 y 14 a\u00f1os, por lo que la Secretar\u00eda de Salud (SS) activ\u00f3 las alertas epidemiol\u00f3gicas. El titular de la Se\u2026 [+1609 chars]",
+      "retrievedAt": "2025-09-20 07:06:17.520945",
+      "internal_id": "3db0de786cc635a265781dffea9c651ec97d365d8b47208f6eea9695f662d84f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24632,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles exposure possible at 2 Vaughan locations, public health agency warns",
+      "description": "York Region Public Health is notifying the public of a possible measles exposure from a confirmed case of measles in Vaughan. This case is connected to an ongoing measles outbreak, which was declared on September 4.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-case-reported-in-vaughan-1.7637477",
+      "urlToImage": "https://i.cbc.ca/1.7591626.1753227777!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ont-measles-front-line-20250620.jpg?im=Resize%3D620",
+      "publishedAt": "2025-09-18 19:24:32",
+      "content": "York Region Public Health is notifying the public of a possible measles exposure connected to a confirmed case of the virus in Vaughan. Anyone who has visited the following locations at the times li\u2026 [+1656 chars]",
+      "retrievedAt": "2025-09-20 07:06:16.585715",
+      "internal_id": "a68a71da8d8eb9bc8e9296c217151fcea6064364a53370b8d04f90910561a668",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 24640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "\u201cA mpox n\u00e3o acabou e ainda exige vigil\u00e2ncia constante\u201d, diz m\u00e9dica",
+      "description": "Infec\u00e7\u00e3o segue preocupando especialmente pessoas que vivem com HIV ou aids, alerta especialista da Fiocruz",
+      "url": "https://www.metropoles.com/saude/mpox-ainda-exige-vigilancia-medica",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/03/10134104/Mpox-4.jpg",
+      "publishedAt": "2025-09-18 19:24:07",
+      "content": "Embora a percep\u00e7\u00e3o comum seja de que a mpox tenha perdido for\u00e7a, os n\u00fameros mostram outra realidade. Entre junho de 2024 e junho de 2025, o Brasil registrou mais de mil diagn\u00f3sticos da doen\u00e7a. Desde \u2026 [+4240 chars]",
+      "retrievedAt": "2025-09-20 07:06:19.079356",
+      "internal_id": "546be548f841938c6fb50dd54f9434227be25154b53cbbe4f371d038f08f4f1d",
+      "publishedAtLabel": "Sep 18"
+    },
     {
       "id": 24621,
       "query": [
@@ -21565,6 +21871,132 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23427,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
+      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 17:42:28",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-08-04 19:08:24.635062",
+      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
+      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
+      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
+      "publishedAt": "2025-08-03 17:06:35",
+      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.558824",
+      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Gardy Chacha",
+      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
+      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
+      "publishedAt": "2025-08-03 16:44:48",
+      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
+      "retrievedAt": "2025-08-04 19:08:25.790586",
+      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Ratt",
+      "title": "Measles And Mania Are Both Contagious",
+      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
+      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
+      "publishedAt": "2025-08-03 12:00:01",
+      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.512308",
+      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
+      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
+      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
+      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
+      "publishedAt": "2025-08-03 10:59:51",
+      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
+      "retrievedAt": "2025-08-04 19:08:26.355606",
+      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23424,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.cc",
+      "author": "saamaan1@yahoo.com (Master)",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:21:28",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.270150",
+      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 23425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.ru",
+      "author": "Kingman",
+      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
+      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
+      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-08-03 10:05:06",
+      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
+      "retrievedAt": "2025-08-04 19:08:24.294637",
+      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]
