@@ -1,8 +1,353 @@
 {
-  "last_updated": "2025-09-20 07:06",
-  "count_articles_total": 1216,
-  "count_articles_new": 17,
+  "last_updated": "2025-09-20 19:05",
+  "count_articles_total": 1228,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 24659,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Three people infected in first cluster involving potentially more serious strain of mpox virus in Ireland",
+      "description": "Three people have been diagnosed with a potentially more serious strain of the mpox virus in the first cluster of cases to be detected here.",
+      "url": "https://www.independent.ie/irish-news/health/three-people-infected-in-first-cluster-involving-potentially-more-serious-strain-of-mpox-virus-in-ireland/a1304198065.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/kh2w4sAKKlWbEwI9VR_yCZIxhts=/629x460/smart/prod-mh-ireland/ca89a1c1-c167-444e-9827-d1d838594387/61f590ef-0cd2-4e8b-b681-b91f186f2d62/ca89a1c1-c167-444e-9827-d1d838594387.jpg",
+      "publishedAt": "2025-09-19 18:32:50",
+      "content": "Latest | Three people have been diagnosed with a potentially more serious strain of the mpox virus in the first cluster of cases to be detected here. The HSE said the three cases are linked and a \u2026 [+37 chars]",
+      "retrievedAt": "2025-09-20 19:05:29.707736",
+      "internal_id": "fd7682964f3823279e23f5739c1645692e241b526631a0c18dac75669dc2de6d",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24648,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Efe",
+      "title": "Castilla y Le\u00f3n declara un foco de gripe aviar en una granja de gallinas en Olmedo",
+      "description": "Es el sexto foco en aves dom\u00e9sticas detectado en Espa\u00f1a en lo que va de a\u00f1o",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2025/09/19/castilla-leon-declara-foco-influenza-aviar-olmedo/00031758302523126126849.htm",
+      "urlToImage": "https://img.lavdg.com/sc/8oHJrd6fS5BU-bpaEvGtkxbv-7A=/1280x/2025/09/19/00121758302822130673357/Foto/L_20240125_195626000.jpg",
+      "publishedAt": "2025-09-19 17:58:00",
+      "content": "La Junta de Castilla y Le\u00f3n ha declarado un foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, en una explotaci\u00f3n de gallinas ponedoras en la localidad de Olmedo (Valladolid), tras l\u2026 [+2968 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.289057",
+      "internal_id": "f10a41355d0abe9661d73cadc8401f153a756720a43f6d36ebf45145d1d822e7",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24646,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "LUCA POWELL Richmond Times-Dispatch",
+      "title": "1,000 Virginians exposed to measles in most recent case",
+      "description": "A Virginia child\u2019s measles case exposed 1,000 people, triggering a $223,000 contact tracing effort, as Sen. Kaine warns of CDC cuts and rising national outbreaks.",
+      "url": "https://richmond.com/news/state-regional/article_b0bfac1c-32da-4e51-b57e-3e1180229a71.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/0b/b0bfac1c-32da-4e51-b57e-3e1180229a71/68cd978533657.preview.jpg?crop=1435%2C753%2C0%2C345&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-09-19 17:48:00",
+      "content": "A September case of measles identified in eastern Virginia triggered an expensive contact tracing effort in order to contain the highly contagious disease, according to recent testimony shared by Sen\u2026 [+27680 chars]",
+      "retrievedAt": "2025-09-20 19:05:26.460824",
+      "internal_id": "bf343b6a1cac9cc05ce605affed6de40d91293cff96b4f8a2d7fa84d0eb7c646",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24647,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Un brote de gripe aviar en una explotaci\u00f3n de gallinas de Olmedo (Valladolid) obliga asacrificar a 760.000 aves",
+      "description": "La Junta de Castilla y Le\u00f3n ha inmovilizado una granja de Olmedo (Valladolid) con unas 760.000 aves tras confirmar la detecci\u00f3n de un foco de gripe aviar de alta patogenicidad (H5N1) en una explotaci\u00f3n de gallinas ponedoras, despu\u00e9s de que el Laboratorio Cent\u2026",
+      "url": "https://www.eleconomista.es/retail-consumo/noticias/13554506/09/25/un-brote-de-gripe-aviar-en-una-explotacion-de-gallinas-de-olmedo-valladolid-obliga-asacrificar-a-760000-aves.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x660/5/e/6/Gallinas1200.jpg",
+      "publishedAt": "2025-09-19 16:56:14",
+      "content": "La Junta de Castilla y Le\u00f3n ha inmovilizado una granja de Olmedo (Valladolid) con unas 760.000 aves tras confirmar la detecci\u00f3n de un foco de gripe aviar de alta patogenicidad (H5N1) en una explotaci\u2026 [+2064 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.280232",
+      "internal_id": "d1317b4acb313ec7ce1fc372a137630dc6e9d5e9a345748194310c0cd6b1b925",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24644,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "RFK's Kook-Filled Vaccine Advisory Board Clearly Has No Idea What It's Doing",
+      "description": "They can't even figure out if babies should be immunized against Hep B or not.",
+      "url": "https://www.wonkette.com/p/rfks-kook-filled-vaccine-advisory",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Uhbj!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85e818f0-22c8-45e5-92c1-d2e1e9d473a9_1000x623.jpeg",
+      "publishedAt": "2025-09-19 16:38:00",
+      "content": "The brand new and startlingly unqualified Advisory Committee on Immunization Practices (ACIP) voted Thursday against recommending the MMRV vaccine, which protects against measles, mumps, rubella, and\u2026 [+5385 chars]",
+      "retrievedAt": "2025-09-20 19:05:26.426862",
+      "internal_id": "8dcec99fcb7921fb2fe9318b21b7332a23a15c184144832ccfbe58efbdd305d2",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24649,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Un brote de gripe aviar en una explotaci\u00f3n de gallinas de Olmedo (Valladolid) obliga a sacrificar a 760.000 aves",
+      "description": "La Junta de Castilla y Le\u00f3n ha inmovilizado una granja de Olmedo (Valladolid) con unas 760.000 aves tras confirmar la detecci\u00f3n de un foco de gripe aviar de alta patogenicidad (H5N1) en una explotaci\u00f3n de gallinas ponedoras, despu\u00e9s de que el Laboratorio Cent\u2026",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-brote-gripe-aviar-explotacion-gallinas-olmedo-valladolid-obliga-sacrificar-760000-aves-20250919183734.html",
+      "urlToImage": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+      "publishedAt": "2025-09-19 16:37:34",
+      "content": "VALLADOLID, 19 Sep. (EUROPA PRESS) - La Junta de Castilla y Le\u00f3n ha inmovilizado una granja de Olmedo (Valladolid) con unas 760.000 aves tras confirmar la detecci\u00f3n de un foco de gripe aviar de \u2026 [+1206 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.298534",
+      "internal_id": "4396f0f63fad9c3f2adcdf32dd90f80e52f2b558d5bed11fffa87f4b810b4132",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24643,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "RFK Jr.'s vaccine advisers stop recommending MMRV vaccine for kids under 4, delay vote on hepatitis B shot",
+      "description": "A panel of experts at the U.S. Centers for Disease Control and Prevention has voted to change its recommendations on how children under four years of age should be vaccinated against measles, mumps, rubella and varicella (MMRV), while a planned vote on the He\u2026",
+      "url": "https://www.cbc.ca/news/health/cdc-mmrv-vaccine-1.7637070",
+      "urlToImage": "https://i.cbc.ca/1.7638043.1758285010!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-health-vaccine-martin-kulldorff.JPG?im=Resize%3D620",
+      "publishedAt": "2025-09-19 16:04:22",
+      "content": "A panel of experts at the U.S. Centers for Disease Control and Prevention has voted to change its recommendations on how children under four years of age should be vaccinated against measles, mumps, \u2026 [+4325 chars]",
+      "retrievedAt": "2025-09-20 19:05:26.417788",
+      "internal_id": "638629ace2ded44340269eb87dc8aae288b6362ee99ac97b44903a25ca40ec0f",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24641,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The-sun.com",
+      "author": "the us sun",
+      "title": "VACATION HORROR: MONKEY BITES GIRL ON NECK; RABIES OUTBREAK...",
+      "description": "A YOUNG girl feared she was infected with rabies after being bitten by a monkey in a popular Brit island holiday spot. Aussie mum Flavia McDonald was with her husband and 12-year-old daughter Loren\u2026",
+      "url": "https://www.the-sun.com/news/15217878/horror-monkey-bites-girl-rabies-injections-bali/",
+      "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/09/6000-flavia-mcdonald-husband-12-1024913463.jpg?strip=all&quality=100&w=413&h=552&crop=1",
+      "publishedAt": "2025-09-19 16:00:04",
+      "content": "A YOUNG girl feared she was infected with rabies after being bitten by a monkey in a popular Brit island holiday spot. Aussie mum Flavia McDonald was with her husband and 12-year-old daughter Loren\u2026 [+5977 chars]",
+      "retrievedAt": "2025-09-20 19:05:25.921860",
+      "internal_id": "ddc4b135dc9a1ac9d1c17573c19b9d7e38b9783948768dc7cc644a576aa263fd",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24650,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Iasexamportal.com",
+      "author": "trainee5",
+      "title": "(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES",
+      "description": "(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES",
+      "url": "https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases",
+      "urlToImage": null,
+      "publishedAt": "2025-09-19 14:14:43",
+      "content": "The World Health Organization (WHO) has published new guidelines to support health-care providers caring for patients with suspected or confirmed arboviral diseases, such as dengue, chikungunya, Zika\u2026 [+1480 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.833244",
+      "internal_id": "78595abbbcc765bd87f3b35ff663268e16f8d0b9fc1f3c1dbe3b6c7294b36f68",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24655,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Iasexamportal.com",
+      "author": "trainee5",
+      "title": "(GIST OF SCIENCE REPORTER) ADFALCIVAX",
+      "description": "(GIST OF SCIENCE REPORTER) ADFALCIVAX",
+      "url": "https://iasexamportal.com/the-gist/science-reporter-adfalcivax",
+      "urlToImage": null,
+      "publishedAt": "2025-09-19 14:11:32",
+      "content": "India is developing an Indigenous Multi-Stage Malaria Vaccine named AdFalciVax.The Indian Council of Medical Research (ICMR) through its RMRC, Bhubaneswar, in collaboration with NIMR and DBT NII \u2026 [+674 chars]",
+      "retrievedAt": "2025-09-20 19:05:28.640179",
+      "internal_id": "2dc136dbb3039b645bab14b2cbfc2e10ddd6de8014094c879ada8bc0015b1c52",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24656,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Makoto Saito, Rose McGready",
+      "title": "A need for new tools for prevention of malaria in pregnancy",
+      "description": "Intermittent preventive treatment in pregnancy (IPTp) with sulfadoxine\u2013pyrimethamine (SP) is a chemoprevention strategy against malaria in pregnancy. A recent PLOS Medicine study highlights the need for better understanding of the mechanism by which IPTp-SP r\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004729",
+      "urlToImage": null,
+      "publishedAt": "2025-09-19 14:00:00",
+      "content": "Citation: Saito M, McGready R (2025) A need for new tools for prevention of malaria in pregnancy. PLoS Med 22(9): e1004729. https://doi.org/10.1371/journal.pmed.1004729 Published: September 19, 2\u2026 [+8758 chars]",
+      "retrievedAt": "2025-09-20 19:05:28.649351",
+      "internal_id": "f898631408589fde046899e0cd4f42145579d99fe47fc37f21bbeaa67b2800b5",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24657,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amani Audi, Suheir Zeineddine, Sana Jaber, Mike A. Osta",
+      "title": "A PGRPLC1/Rel2-F axis controls Anopheles gambiae resistance to systemic infections with Gram-positive bacteria containing Lys-type peptidoglycan",
+      "description": "Author summary The Imd immune signaling pathway, broadly conserved in insects, is centered around antibacterial defense. In the malaria vector Anopheles gambiae, this pathway signals presumably through two isoforms of the NF-\u03baB transcription factor Rel2, prov\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013527",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013527.g005&size=inline",
+      "publishedAt": "2025-09-19 14:00:00",
+      "content": "Citation: Audi A, Zeineddine S, Jaber S, Osta MA (2025) A PGRPLC1/Rel2-F axis controls Anopheles gambiae resistance to systemic infections with Gram-positive bacteria containing Lys-type peptidoglyca\u2026 [+54613 chars]",
+      "retrievedAt": "2025-09-20 19:05:28.674014",
+      "internal_id": "dce3479e8aff2ec603f9d84a458a22fd61463389ce564d45c51fd3ebf8f952e7",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24654,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Swns.live",
+      "author": "SWNS",
+      "title": "College student has legs amputated after learning her \u2018flu\u2019 is actually deadly disease",
+      "description": "A student's \"freshers' flu\" turned out to be deadly meningitis - and she had both legs amputated to save her life.",
+      "url": "https://swns.live/stories/181856/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/ampute-college-student-comp.jpg?quality=75&strip=all&1758274695&w=1024",
+      "publishedAt": "2025-09-19 13:57:50",
+      "content": "A student\u2019s \u201cfreshers\u2019 flu\u201d turned out to be deadly meningitis \u2014 and she had both legs amputated to save her life. Ketia Moponda, 19, arrived at university eight days before she was struck down with\u2026 [+4618 chars]",
+      "retrievedAt": "2025-09-20 19:05:28.264079",
+      "internal_id": "b69d441c06eb0bf4ac8a3725548db9e23313f5869fa6336627b3aa6c41ef3b99",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24651,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Philippe RICHARD.",
+      "title": "Infection au virus du chikungunya : des l\u00e2chers de moustiques plus ou moins efficaces",
+      "description": "Contre le moustique-tigre, les premiers l\u00e2chers ont eu lieu cette ann\u00e9e en m\u00e9tropole fran\u00e7aise. Il ne s\u2019agit, toutefois, pas d\u2019une solution magique, pr\u00e9vient l\u2019agence de s\u00e9curit\u00e9 sanitaire (Anses) ce vendredi 19 septembre 2025.",
+      "url": "https://sante.ouest-france.fr/moustique/infection-au-virus-du-chikungunya-des-lachers-de-moustiques-plus-ou-moins-efficaces-eabae24a-9537-11f0-aae5-c246857d365e",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTA5MTUwMjUwMjVjZTYxM2RiMjMyYWFmMzFkMDE1OTQ0NDM?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ba528993d5aad07cf542c5a8a4290b3951dfe5dfb453ce98c1fa5ee0eebf8ac7",
+      "publishedAt": "2025-09-19 13:52:21",
+      "content": "Les cas autochtones de maladies transmises par le moustique-tigre en m\u00e9tropole battent tous les records depuis le printemps : 484 de chikungunya et 21 de dengue au dernier comptage. La saison nest pa\u2026 [+1649 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.842333",
+      "internal_id": "ac0e80b94a55f6d8499616bc4a10d2a70082dc004f6035414cf42069aa4ae558",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24652,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andreea Tobias",
+      "title": "Brazilia lanseaz\u0103 fabrica Wolbito pentru combaterea febrei dengue. C\u00e2te ou\u0103 de \u0163\u00e2n\u0163ari va produce s\u0103pt\u0103m\u00e2nal",
+      "description": "Mediafax Cea mai mare biofabric\u0103 din lume pentru \u0163\u00e2n\u0163ari infecta\u0163i cu bacteria Wolbachia produce s\u0103pt\u0103m\u00e2nal 100 de milioane de ou\u0103 pentru a proteja 140 de milioane de oameni de febra dengue. Boala a ucis peste 6.000 de persoane anul trecut \u00een \u0163ara sud-america\u2026",
+      "url": "https://www.mediafax.ro/life-entertaiment/brazilia-lanseaza-fabrica-wolbito-pentru-combaterea-febrei-dengue-cate-oua-de-tantari-va-produce-saptamanal-23613005",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/09/pexels-ekamelev-1685610-scaled.jpg",
+      "publishedAt": "2025-09-19 13:30:28",
+      "content": "Fabrica Wolbito do Brasil, situat \u00een Curitiba, i-a \u00eenceput activitatea pe 19 iulie i are o capacitate de producie sptm\u00e2nal de 100 de milioane de ou de \u00e2nari, scrie The Independent. Susinut exclusiv \u2026 [+1806 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.874214",
+      "internal_id": "5d1133d0d8df1b671748d31bfcb59219581cc591331dbee88b3b603779a7e075",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24658,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Contagi circoscritti nel veronese per virus Chikungunya",
+      "description": "L'Ulss 9 prosegue nell'azione di contrasto alla diffusione del virus Chikungunya, il cui focolaio rimane localizzato in alcuni Comuni e frazioni dell'entroterra veronese . (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2025/09/19/contagi-circoscritti-nel-veronese-per-virus-chikungunya_952738e2-57b1-49d0-bb24-53eaa7ab6748.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2010/7/5/620cdff784efd02ed605cb7bafb42567.jpg",
+      "publishedAt": "2025-09-19 12:58:01",
+      "content": "L'Ulss 9 prosegue nell'azione di contrasto alla diffusione del virus Chikungunya, il cui focolaio rimane localizzato in alcuni Comuni e frazioni dell'entroterra veronese . Ad oggi, infatti, non so\u2026 [+2353 chars]",
+      "retrievedAt": "2025-09-20 19:05:29.403851",
+      "internal_id": "43d1845d96f4fb3f3db7413a4c6ff7741762da30933d22eaf54a23b30dc15384",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24653,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso importato di Dengue a Brentonico in Trentino",
+      "description": "\u00c8 stato segnalato a Brentonico un caso di Dengue importato, relativo a un residente che ha manifestato i sintomi al rientro da un viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/trentino/notizie/2025/09/19/caso-importato-di-dengue-a-brentonico-in-trentino_14f28f7a-0b07-4d46-a078-fb7522e233c3.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2025-09-19 12:23:18",
+      "content": "\u00c8 stato segnalato a Brentonico un caso di Dengue importato, relativo a un residente che ha manifestato i sintomi al rientro da un viaggio all'estero. Nel pomeriggio, a partire dalle 15, sar\u00e0 quind\u2026 [+2029 chars]",
+      "retrievedAt": "2025-09-20 19:05:27.936217",
+      "internal_id": "5de9ffa86bfd8a8114f1029caa5496258f1e27aebee73decd1da24071321ea7c",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24645,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Dominic Cansdale",
+      "title": "Measles alert issued for Gold Coast as Queensland cases climb",
+      "description": "The highly infectious measles virus is detected on the Gold Coast, just a day after new cases were detected in Far North Queensland.",
+      "url": "https://www.abc.net.au/news/2025-09-19/measles-alert-issued-for-gold-coast-as-queensland-cases-rises/105795806",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f226ef8f811f45ee207cc37a3acbd026?impolicy=wcms_watermark_news&cropH=1518&cropW=2699&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-19 08:36:42",
+      "content": "The highly infectious measles virus has been detected on the Gold Coast, as the rising number of cases in Queensland puts health authorities on edge. Queensland Health has issued an alert for the Go\u2026 [+2758 chars]",
+      "retrievedAt": "2025-09-20 19:05:26.452082",
+      "internal_id": "ebea43484f0188d132b596003203f997650aced84bd820ed2e908c2ad9d04d1a",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24642,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Mackenzie France/InsideSources",
+      "title": "France: RFK Jr.\u2019s anti-vax crusade a public health disaster",
+      "description": "From flu season to containing a measles outbreak, Kennedy has proven himself utterly unfit to lead the department tasked with offering Americans safe and transparent advice on vaccinations.",
+      "url": "https://www.bostonherald.com/2025/09/19/france-rfk-jr-s-anti-vax-crusade-a-public-health-disaster/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/BHR-Z-VAX-01.jpg?w=1024&h=683",
+      "publishedAt": "2025-09-19 07:21:23",
+      "content": "In April 2023, Robert F. Kennedy Jr. announced his presidential bid in Boston, promising to Make America Healthy Again. Since becoming President Trumps secretary of Health and Human Services, Kennedy\u2026 [+4280 chars]",
+      "retrievedAt": "2025-09-20 19:05:26.325167",
+      "internal_id": "02d0d1e77de77c90cd55e2af671bd43553af2ed8636c92efc4774190a39f207a",
+      "publishedAtLabel": "Sep 19"
+    },
     {
       "id": 24631,
       "query": [
@@ -21871,132 +22216,6 @@
       "content": "OCONTO (WLUK) -- Wisconsin has its first confirmed measles cases amid the countrys worst year for the disease since it was declared eliminated 25 years ago. The state health department reports there\u2026 [+2544 chars]",
       "retrievedAt": "2025-08-05 07:11:44.548457",
       "internal_id": "9a4dc2fd238e3ea3973d51e928b2296375b0c44e2027df0f3f52c8c094f10691",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23427,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela",
-      "description": "Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwelayoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 17:42:28",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2025-08-04 19:08:24.635062",
-      "internal_id": "db1c271d9822b3f5e2da3bc8f9a6762931670f0d15daf9730cc810aa5d6396b7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23430,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mais 6 casos de Mpox em Mo\u00e7ambique em 24 horas",
-      "description": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos.",
-      "url": "https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1125%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F16185924%2F44021869.jpg?layer=obstop:T",
-      "publishedAt": "2025-08-03 17:06:35",
-      "content": "Mo\u00e7ambique registou mais seis casos de mpox nas \u00faltimas 24 horas, elevando o total para 29 em cerca de tr\u00eas semanas, al\u00e9m de 170 suspeitos, anunciaram este domingo as autoridades de sa\u00fade mo\u00e7ambicana\u2026 [+3692 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.558824",
-      "internal_id": "72b8835c67ac0e79100019b177750133edd304177698edd0e9bb643ffa13af40",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Gardy Chacha",
-      "title": "Malaria in pregnancy: Why one wrong drug could cost two lives",
-      "description": "The process of developing a new drug to treat a disease can last at least three years to forever, says Palu Dhanani, the Managing Director at UCL.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/0B42mSkblGhehZdODmpzOwHunb5ZXUZDAdMYLTdW.jpg",
-      "publishedAt": "2025-08-03 16:44:48",
-      "content": "A pregnant woman stroking her stomach. [Courtesy, Standard] Are you a pregnant woman in a malaria-endemic zone, such as the Lake Basin region or the Kenyan coast? When you feel sick \u2013 with symptoms\u2026 [+603 chars]",
-      "retrievedAt": "2025-08-04 19:08:25.790586",
-      "internal_id": "eccd54ba260b6c380a1975cfd486f268dee2b12ba165b323d5eb7854affd763d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23426,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Ratt",
-      "title": "Measles And Mania Are Both Contagious",
-      "description": "Happy Sunday! This is the day all the people go to the place with the steeple so they can be hypocrites. Or something. I\u2019m feeling especially churlish and angry today after watching Kamala Harris with Colbert and thinking about what might have been. Here is \u2026",
-      "url": "https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/25/08/profiles_in_contagion_copy_final_0.jpg",
-      "publishedAt": "2025-08-03 12:00:01",
-      "content": "For over 20 years we have been exposing Washington lies and untangling media deceit, but social media is limiting our ability to attract new readers. Please give a one-time or recurring donation, or \u2026 [+62 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.512308",
-      "internal_id": "051981a1a04a451dac60866c897406148100fb2fc68eebde2916db25c71e6fc6",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
-      "title": "Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia",
-      "description": "A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, malattia virale trasmessa da zanzare infette. Le autorit\u00e0 sanitarie hanno avviato una disinfestazione preventiva",
-      "url": "https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/08/03/1754217735-mosquito-1332382-1280.jpg?_=1754217735",
-      "publishedAt": "2025-08-03 10:59:51",
-      "content": "Un nuovo allarme sanitario si affaccia in Lombardia, dopo i recenti casi legati al virus West Nile. A Colico, in provincia di Lecco, \u00e8 stato segnalato un caso sospetto di chikungunya, una malattia vi\u2026 [+1672 chars]",
-      "retrievedAt": "2025-08-04 19:08:26.355606",
-      "internal_id": "f7c728e5ca9b5fb4d08485b7876b7b4e3117786f3554ed999dc4b196cf6e935c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23424,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.cc",
-      "author": "saamaan1@yahoo.com (Master)",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:21:28",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.270150",
-      "internal_id": "e44cc2db99be851e7bfd5eb46a2135bde0fd367bff1af43f2343bb700864e985",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 23425,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "Kingman",
-      "title": "Muzzy \u2013 Do You Know the Muzzy Man? (2025)",
-      "description": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name: Muzzy \u2013 Do You Know the Muzzy Man? (2025)Size: 73.4 MBGenre:\u2026",
-      "url": "https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/",
-      "urlToImage": null,
-      "publishedAt": "2025-08-03 10:05:06",
-      "content": "Tracklist:01 - Plaything02 - Hurricane03 - Burst04 - Like a Movie05 - Parasite06 - Rabies Baby07 - Alien08 - Breakfast Buns09 - Hero10 - Stupid Life11 - Don't It Always12 - Lizard Life Release Name\u2026 [+118 chars]",
-      "retrievedAt": "2025-08-04 19:08:24.294637",
-      "internal_id": "5e17617ef130c38e55a7cab97c046a3927aa4fb6062d709be8c9dd781084ba98",
       "publishedAtLabel": "Aug 3"
     }
   ]

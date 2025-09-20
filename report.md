@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-09-20 07:06
-- **Most recent article:** 2025-09-19 04:10:00
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-09-20 19:05
+- **Most recent article:** 2025-09-19 18:32:50
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 107 | 46 | 80 | 52 | 18 | 18 | 34 | 355 |
-| measles | 22 | 26 | 50 | 33 | 45 | 39 | 35 | 250 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 21 | 205 |
-| rabies | 11 | 27 | 39 | 6 | 9 | 5 | 11 | 108 |
-| malaria | 18 | 15 | 19 | 13 | 13 | 18 | 6 | 102 |
-| mpox | 9 | 7 | 5 | 7 | 58 | 7 | 4 | 97 |
-| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 6 | 57 |
-| zika | 5 | 9 | 7 | 8 | 4 | 6 | 5 | 44 |
-| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 5 | 39 |
+| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 37 | 357 |
+| measles | 20 | 26 | 50 | 33 | 45 | 39 | 40 | 253 |
+| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 25 | 209 |
+| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 12 | 107 |
+| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 9 | 104 |
+| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 5 | 97 |
+| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 9 | 60 |
+| zika | 5 | 9 | 7 | 8 | 4 | 6 | 6 | 45 |
+| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 6 | 40 |
 | yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
 | hpai | 3 | 0 | 1 | 1 | 1 | 4 | 1 | 11 |
 | pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 2 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (zika)
 
+- [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
+
 - [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
 
 - [Vítimas da Zika podem ser indenizadas ainda em setembro, diz ministro](https://www.metropoles.com/brasil/vitimas-da-zika-podem-ser-indenizadas-ainda-em-setembro-diz-ministro) (Metropoles.com)
@@ -45,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
 
 ## 25-38 (rabies)
+
+- [VACATION HORROR: MONKEY BITES GIRL ON NECK; RABIES OUTBREAK...](https://www.the-sun.com/news/15217878/horror-monkey-bites-girl-rabies-injections-bali/) (The-sun.com)
 
 - [Sydney mother warns of danger of monkeys in Bali after daughter needs rabies shots after neck bite](https://www.news.com.au/travel/travel-updates/incidents/sydney-mother-warns-of-danger-of-monkeys-in-bali-after-daughter-needs-rabies-shots-after-neck-bite/news-story/a45c90f0681492d07bab6edea806acf1) (News.com.au)
 
@@ -76,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (mpox)
 
+- [Three people infected in first cluster involving potentially more serious strain of mpox virus in Ireland](https://www.independent.ie/irish-news/health/three-people-infected-in-first-cluster-involving-potentially-more-serious-strain-of-mpox-virus-in-ireland/a1304198065.html) (Independent.ie)
+
 - [“A mpox não acabou e ainda exige vigilância constante”, diz médica](https://www.metropoles.com/saude/mpox-ainda-exige-vigilancia-medica) (Metropoles.com)
 
 - [África com menos casos; focos em Moçambique e RDCongo](https://observador.pt/2025/09/18/africa-regista-menos-casos-de-mpox-apesar-de-focos-em-mocambique-e-na-rdcongo/) (Observador.pt)
@@ -85,6 +91,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : comment le tecovirimat a pu être prescrit à des malades en l’absence de preuve de son efficacité](https://www.lemonde.fr/sciences/article/2025/09/16/mpox-comment-le-tecovirimat-a-pu-etre-prescrit-a-des-malades-en-l-absence-de-preuve-de-son-efficacite_6641346_1650684.html) (Le Monde)
 
 ## 25-38 (meningitis)
+
+- [College student has legs amputated after learning her ‘flu’ is actually deadly disease](https://swns.live/stories/181856/) (Swns.live)
 
 - [Crowdsourcing recurrent aseptic meningitis treatment](https://thebloggess.com/2025/09/18/crowdsourcing-recurrent-aseptic-meningitis-treatment/) (Thebloggess.com)
 
@@ -97,6 +105,16 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [1,000 Virginians exposed to measles in most recent case](https://richmond.com/news/state-regional/article_b0bfac1c-32da-4e51-b57e-3e1180229a71.html) (Richmond.com)
+
+- [RFK's Kook-Filled Vaccine Advisory Board Clearly Has No Idea What It's Doing](https://www.wonkette.com/p/rfks-kook-filled-vaccine-advisory) (Wonkette.com)
+
+- [RFK Jr.'s vaccine advisers stop recommending MMRV vaccine for kids under 4, delay vote on hepatitis B shot](https://www.cbc.ca/news/health/cdc-mmrv-vaccine-1.7637070) (CBC News)
+
+- [Measles alert issued for Gold Coast as Queensland cases climb](https://www.abc.net.au/news/2025-09-19/measles-alert-issued-for-gold-coast-as-queensland-cases-rises/105795806) (ABC News (AU))
+
+- [France: RFK Jr.’s anti-vax crusade a public health disaster](https://www.bostonherald.com/2025/09/19/france-rfk-jr-s-anti-vax-crusade-a-public-health-disaster/) (Boston Herald)
 
 - [In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning (New York Times)](https://www.memeorandum.com/250919/p2) (Memeorandum.com)
 
@@ -170,6 +188,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (malaria)
 
+- [(GIST OF SCIENCE REPORTER) ADFALCIVAX](https://iasexamportal.com/the-gist/science-reporter-adfalcivax) (Iasexamportal.com)
+
+- [A need for new tools for prevention of malaria in pregnancy](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004729) (Plos.org)
+
+- [A PGRPLC1/Rel2-F axis controls Anopheles gambiae resistance to systemic infections with Gram-positive bacteria containing Lys-type peptidoglycan](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013527) (Plos.org)
+
 - [Genomic evolution of major malaria-transmitting mosquito species uncovered](https://phys.org/news/2025-09-genomic-evolution-major-malaria-transmitting.html) (Phys.Org)
 
 - [Vaccinations, malaria pills, boiled water – Belgian team doctor outlines health precautions in place for Road World Championships in Rwanda](https://www.cyclingnews.com/news/vaccinations-malaria-pills-boiled-water-belgian-team-doctor-outlines-health-precautions-in-place-for-road-world-championships-in-rwanda/) (Cyclingnews.com)
@@ -188,6 +212,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (h5n1)
 
+- [Castilla y León declara un foco de gripe aviar en una granja de gallinas en Olmedo](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2025/09/19/castilla-leon-declara-foco-influenza-aviar-olmedo/00031758302523126126849.htm) (Lavozdegalicia.es)
+
+- [Un brote de gripe aviar en una explotación de gallinas de Olmedo (Valladolid) obliga asacrificar a 760.000 aves](https://www.eleconomista.es/retail-consumo/noticias/13554506/09/25/un-brote-de-gripe-aviar-en-una-explotacion-de-gallinas-de-olmedo-valladolid-obliga-asacrificar-a-760000-aves.html) (Eleconomista.es)
+
+- [Un brote de gripe aviar en una explotación de gallinas de Olmedo (Valladolid) obliga a sacrificar a 760.000 aves](https://www.europapress.es/castilla-y-leon/noticia-brote-gripe-aviar-explotacion-gallinas-olmedo-valladolid-obliga-sacrificar-760000-aves-20250919183734.html) (Europapress.es)
+
 - [H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus](https://www.tagesspiegel.de/wissen/52-tote-tiere-gefunden-forscher-melden-ausbreitung-der-vogelgrippe-in-der-antarktis-14343608.html) (Der Tagesspiegel)
 
 - [H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus](https://www.zeit.de/news/2025-09/17/forscher-vogelgrippe-breitet-sich-wohl-in-der-antarktis-aus) (Die Zeit)
@@ -201,6 +231,14 @@ Source: [News API](https://newsapi.org/)
 - [경기도서 조류인플루엔자, 아프리카돼지열병 발생...방역 비상](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659) (Ohmynews.com)
 
 ## 25-38 (dengue)
+
+- [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
+
+- [Infection au virus du chikungunya : des lâchers de moustiques plus ou moins efficaces](https://sante.ouest-france.fr/moustique/infection-au-virus-du-chikungunya-des-lachers-de-moustiques-plus-ou-moins-efficaces-eabae24a-9537-11f0-aae5-c246857d365e) (Ouest-France)
+
+- [Brazilia lansează fabrica Wolbito pentru combaterea febrei dengue. Câte ouă de ţânţari va produce săptămânal](https://www.mediafax.ro/life-entertaiment/brazilia-lanseaza-fabrica-wolbito-pentru-combaterea-febrei-dengue-cate-oua-de-tantari-va-produce-saptamanal-23613005) (Mediafax.ro)
+
+- [Caso importato di Dengue a Brentonico in Trentino](https://www.ansa.it/trentino/notizie/2025/09/19/caso-importato-di-dengue-a-brentonico-in-trentino_14f28f7a-0b07-4d46-a078-fb7522e233c3.html) (ANSA.it)
 
 - [Brote de dengue en Oaxaca afecta a niños de 10 a 14 años; ya suman tres muertes en 2025](https://www.milenio.com/estados/dengue-en-oaxaca-afecta-a-ninos-suman-tres-muertes-en-2025) (Milenio)
 
@@ -245,6 +283,12 @@ Source: [News API](https://newsapi.org/)
 - [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
 
 ## 25-38 (chikungunya)
+
+- [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
+
+- [Infection au virus du chikungunya : des lâchers de moustiques plus ou moins efficaces](https://sante.ouest-france.fr/moustique/infection-au-virus-du-chikungunya-des-lachers-de-moustiques-plus-ou-moins-efficaces-eabae24a-9537-11f0-aae5-c246857d365e) (Ouest-France)
+
+- [Contagi circoscritti nel veronese per virus Chikungunya](https://www.ansa.it/veneto/notizie/2025/09/19/contagi-circoscritti-nel-veronese-per-virus-chikungunya_952738e2-57b1-49d0-bb24-53eaa7ab6748.html) (ANSA.it)
 
 - [Chikungunya­virus jyllää Euroopassa – tämä epidemiasta tiedetään](https://www.is.fi/ulkomaat/art-2000011501999.html) (Www.is.fi)
 
@@ -2448,10 +2492,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
 
-- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.cc/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.cc)
-
-- [Muzzy – Do You Know the Muzzy Man? (2025)](https://post.rlsbb.ru/muzzy-do-you-know-the-muzzy-man-2025/) (Rlsbb.ru)
-
 ## 25-32 (mpox)
 
 - [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
@@ -2469,8 +2509,6 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
 
 - [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
-
-- [Mais 6 casos de Mpox em Moçambique em 24 horas](https://observador.pt/2025/08/03/mais-seis-casos-de-mpox-em-mocambique-em-24-horas-e-170-suspeitos/) (Observador.pt)
 
 ## 25-32 (meningitis)
 
@@ -2518,10 +2556,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
 
-- [Health Matters | Measles mass vaccination for Gauteng: Mashaole Makwela](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtMG9tQdc3Ek) (YouTube)
-
-- [Measles And Mania Are Both Contagious](https://crooksandliars.com/2025/08/measles-and-mania-are-both-contagious) (Crooksandliars.com)
-
 ## 25-32 (malaria)
 
 - [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
@@ -2557,8 +2591,6 @@ Source: [News API](https://newsapi.org/)
 - [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
 
 - [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
-
-- [Malaria in pregnancy: Why one wrong drug could cost two lives](https://www.standardmedia.co.ke/health/health-science/article/2001525987/malaria-in-pregnancy-why-one-wrong-drug-could-cost-two-lives) (Standard Digital)
 
 ## 25-32 (leptospirosis)
 
@@ -2851,5 +2883,3 @@ Source: [News API](https://newsapi.org/)
 - [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
 
 - [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
-
-- [Non solo West Nile, ora spunta pure un caso sospetto di chikungunya in Lombardia](https://www.ilgiornale.it/news/attualit/non-solo-west-nile-ora-spunta-pure-caso-sospetto-chikungunya-2518668.html) (Ilgiornale.it)
