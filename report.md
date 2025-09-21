@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-09-20 19:05
-- **Most recent article:** 2025-09-19 18:32:50
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-09-21 07:06
+- **Most recent article:** 2025-09-20 06:17:40
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-32 | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
-|--|-|-|-|-|-|-|-|-|
-| chikungunya | 106 | 46 | 80 | 52 | 18 | 18 | 37 | 357 |
-| measles | 20 | 26 | 50 | 33 | 45 | 39 | 40 | 253 |
-| dengue | 17 | 25 | 62 | 40 | 16 | 24 | 25 | 209 |
-| rabies | 9 | 27 | 39 | 6 | 9 | 5 | 12 | 107 |
-| malaria | 17 | 15 | 19 | 13 | 13 | 18 | 9 | 104 |
-| mpox | 8 | 7 | 5 | 7 | 58 | 7 | 5 | 97 |
-| h5n1 | 14 | 3 | 3 | 5 | 20 | 6 | 9 | 60 |
-| zika | 5 | 9 | 7 | 8 | 4 | 6 | 6 | 45 |
-| meningitis | 1 | 4 | 2 | 16 | 5 | 6 | 6 | 40 |
-| yersinia | 0 | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
-| hpai | 3 | 0 | 1 | 1 | 1 | 4 | 1 | 11 |
-| pertussis | 0 | 2 | 0 | 1 | 3 | 0 | 2 | 8 |
-| typhoid | 1 | 1 | 0 | 0 | 2 | 4 | 0 | 8 |
-| leptospirosis | 1 | 1 | 2 | 0 | 2 | 1 | 0 | 7 |
+| Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
+|--|-|-|-|-|-|-|-|
+| chikungunya | 45 | 80 | 52 | 18 | 18 | 37 | 250 |
+| measles | 25 | 50 | 33 | 45 | 39 | 44 | 236 |
+| dengue | 24 | 62 | 40 | 16 | 24 | 25 | 191 |
+| rabies | 27 | 39 | 6 | 9 | 5 | 13 | 99 |
+| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 89 |
+| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 88 |
+| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 46 |
+| zika | 9 | 7 | 8 | 4 | 6 | 6 | 40 |
+| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 39 |
+| yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 33 |
+| pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 8 |
+| hpai | 0 | 1 | 1 | 1 | 4 | 1 | 8 |
+| typhoid | 1 | 0 | 0 | 2 | 4 | 0 | 7 |
+| leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
 
 ## 25-38 (rabies)
+
+- [DOH Marion issues rabies advisory for residents](https://www.wftv.com/news/local/marion-county/doh-marion-issues-rabies-advisory-residents/ISOY6CMWCRBZNC5NV2KJMBOIXI/) (WFTV Orlando)
 
 - [VACATION HORROR: MONKEY BITES GIRL ON NECK; RABIES OUTBREAK...](https://www.the-sun.com/news/15217878/horror-monkey-bites-girl-rabies-injections-bali/) (The-sun.com)
 
@@ -105,6 +107,14 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [Parenting win: The easy vaccine schedule every family should follow](https://timesofindia.indiatimes.com/life-style/parenting/moments/parenting-win-the-easy-vaccine-schedule-every-family-should-follow/articleshow/124010508.cms) (The Times of India)
+
+- [Local pediatrician raises concerns about new CDC guidance for measles vaccines](https://www.kpbs.org/news/health/2025/09/19/local-pediatrician-raises-concerns-about-new-cdc-guidance-for-measles-vaccines) (KPBS)
+
+- [What changes did the CDC advisory panel vote on?](https://www.cbsnews.com/video/what-changes-did-the-cdc-advisory-panel-vote-on/) (CBS News)
+
+- [Key takeaways from the CDC vaccine advisory panel's votes this week](https://www.cbsnews.com/news/cdc-acip-recap-measles-mmrv-covid-vaccines/) (CBS News)
 
 - [1,000 Virginians exposed to measles in most recent case](https://richmond.com/news/state-regional/article_b0bfac1c-32da-4e51-b57e-3e1180229a71.html) (Richmond.com)
 
@@ -187,6 +197,8 @@ Source: [News API](https://newsapi.org/)
 - [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
 
 ## 25-38 (malaria)
+
+- [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
 
 - [(GIST OF SCIENCE REPORTER) ADFALCIVAX](https://iasexamportal.com/the-gist/science-reporter-adfalcivax) (Iasexamportal.com)
 
@@ -2264,8 +2276,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Fired experts, measles outbreaks and vaccine sceptics. Public health inside RFK's USA](https://www.abc.net.au/news/2025-08-11/measles-outbreak-us-robert-f-kennedy-jr-vaccination-messages/105628576) (ABC News (AU))
 
-- [CDC: Childhood Vaccination Rates Fell Further In 2024-2025 School Year](https://www.forbes.com/sites/brucelee/2025/08/09/cdc-childhood-vaccination-rates-fell-further-in-2024-2025-school-year/) (Forbes)
-
 ## 25-33 (malaria)
 
 - [Benzo-ring modification on Malaria Box hit MMV008138: effects on antimalarial potency and microsomal stability](https://pubs.rsc.org/en/content/articlelanding/2025/md/d5md00439j) (Royal Society of Chemistry)
@@ -2360,8 +2370,6 @@ Source: [News API](https://newsapi.org/)
 
 - [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
-- [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
-
 ## 25-33 (chikungunya)
 
 - [Chikungunya, accertato un caso a Reggio Emilia](https://www.ansa.it/emiliaromagna/notizie/2025/08/16/chikungunya-accertato-un-caso-a-reggio-emilia_04ac6a46-96fe-4826-973c-a106a1c4fa0b.html) (ANSA.it)
@@ -2453,433 +2461,3 @@ Source: [News API](https://newsapi.org/)
 - [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
 
 - [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
-
-- [Chikungunya, dengue : les cas de maladies transmises par moustiques tigres augmentent en métropole](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-dengue-les-cas-de-maladies-transmises-par-moustiques-tigres-augmentent-en-metropole-d104d12a-7387-11f0-992a-f96a4802076a) (Ouest-France)
-
-## 25-32 (zika)
-
-- [Opnieuw verspreidt virus zich vanuit China](https://www.nieuwsblad.be/buitenland/opnieuw-verspreidt-virus-zich-vanuit-china/82724965.html) (Nieuwsblad.be)
-
-- [Relative and attributable risks of neurological and perinatal adverse outcomes among children with and without prenatal Zika virus exposure in Northeast Brazil: A prospective cohort study (2015–2018)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013344) (Plos.org)
-
-- [Ιός τσικουνγκούνια: Υπαρκτός αλλά απομακρυσμένος ο κίνδυνος για την Κύπρο, λέει ο Καραγιάννης](https://dialogos.com.cy/ios-tsikoyngkoynia-yparktos-alla-apomakrysmenos-o-kindynos-gia-tin-kypro-leei-o-karagiannis/) (Dialogos.com.cy)
-
-- [Vlaanderen voert strijd tegen de tijgermug op: “Kans op volledige uitroeiing is klein”](https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html) (Nieuwsblad.be)
-
-- [Butantan desenvolve anticorpo anti-zika com foco em gestantes](https://www.metropoles.com/saude/butantan-anticorpo-zika-gestantes) (Metropoles.com)
-
-## 25-32 (typhoid)
-
-- [First nationwide typhoid vaccination for 5 crore children kicks off in September](https://www.tbsnews.net/bangladesh/health/first-nationwide-typhoid-vaccination-5-crore-children-kicks-september-1207671) (Tbsnews.net)
-
-## 25-32 (rabies)
-
-- [Dog bites woman in Madison, public health seeks information to prevent rabies shots](https://www.wkow.com/news/dog-bites-woman-in-madison-public-health-seeks-information-to-prevent-rabies-shots/article_084dafee-3e97-4af4-944d-9c75fc3ba796.html) (WKOW)
-
-- [Skunk tests positive for rabies in Weld County](https://www.denverpost.com/2025/08/08/skunk-rabies-weld-county/) (The Denver Post)
-
-- [‘I Might Have Rabies’: Utah Woman Grabs A Blanket From The Closet. What She Finds Inside Sends Her To The ER](https://brobible.com/culture/article/utah-woman-bat-in-blanket/) (BroBible)
-
-- [You're More Likely to Die From an Asteroid Than Rabies, Scientists Find](https://www.sciencealert.com/youre-more-likely-to-die-from-an-asteroid-than-rabies-scientists-find) (ScienceAlert)
-
-- [Raccoon tests positive for rabies by Mechanicsville neighborhoods](https://richmond.com/news/community/mechanicsville-local/article_0e88e434-024b-49bf-ad9b-dd157d766698.html) (Richmond.com)
-
-- [Rabies Vaccine | Hati Health](https://hati.health/products/rabies-vaccine) (Hati.health)
-
-- [‘This Is The 3rd Video I’ve Seen Of Someone Coming In Contact With A Bat’: Georgia Man Goes To HomeGoods. Then He Has To Pay A Visit To The ER For Rabies Shot](https://brobible.com/culture/article/georgia-homegoods-bat-rabies/) (BroBible)
-
-- [A rabid bat was found at Beavertail State Park. Here's what to know to stay safe.](https://www.providencejournal.com/story/news/local/2025/08/05/bat-with-rabies-found-at-beavertail-state-park-in-jamestown/85530293007/) (The Providence Journal)
-
-- [Bat flies into tourist's mouth during Arizona night sky photography trip](https://www.foxnews.com/travel/bat-flies-tourists-mouth-arizona-night-sky-photography-trip) (Fox News)
-
-## 25-32 (mpox)
-
-- [Aumenta número de infetados com Mpox em Moçambique](https://observador.pt/2025/08/08/numero-de-infetados-com-mpox-em-mocambique-sobe-para-34-e-casos-suspeitos-para-275/) (Observador.pt)
-
-- [Afrika'da M çiçeği bulaşma riski nedeniyle hedefli aşılama şart](https://www.haberturk.com/dso-afrika-da-yaygin-m-cicegi-virusune-karsi-surekli-bulasma-riski-nedeniyle-hedefli-asilama-sart-3813389) (Haberturk.com)
-
-- [DSÖ: Afrika'da yaygın M çiçeği virüsüne karşı sürekli bulaşma riski nedeniyle hedefli aşılama şart](https://www.aa.com.tr/tr/saglik/dso-afrikada-yaygin-m-cicegi-virusune-karsi-surekli-bulasma-riski-nedeniyle-hedefli-asilama-sart/3653742) (Anadolu Agency)
-
-- [Moçambique confirma mais dois casos de mpox em Maputo](https://observador.pt/2025/08/07/mocambique-confirma-mais-dois-casos-de-mpox-em-maputo-e-222-suspeitos/) (Observador.pt)
-
-- [Moçambique quer combater desinformação sobre Mpox](https://observador.pt/2025/08/06/mocambique-quer-combater-desinformacao-sobre-mpox-para-evitar-discriminacao/) (Observador.pt)
-
-- [Detectan en Chiapas segundo caso de viruela símica](https://www.milenio.com/estados/detectan-segundo-caso-de-viruela-simica-en-tuxtla-gutierrez-chiapas) (Milenio)
-
-- [Moçambique. Vacinas para conter Mpox chegam em setembro](https://observador.pt/2025/08/05/mocambique-recebe-vacinas-em-setembro-para-conter-eventual-aumento-de-casos-mpox/) (Observador.pt)
-
-- [Gana'da M-çiçeği vaka sayısı 302'ye yükseldi](https://www.haberturk.com/gana-da-m-cicegi-vaka-sayisi-302-ye-yukseldi-3812621) (Haberturk.com)
-
-## 25-32 (meningitis)
-
-- [La vacuna de la meningitis, última esperanza para frenar el auge de casos de gonorrea: "Disminuirá la transmisión"](https://www.elespanol.com/ciencia/salud/20250808/vacuna-meningitis-ultima-esperanza-frenar-auge-casos-gonorrea-disminuira-transmision/1003743878519_0.html) (Elespanol.com)
-
-## 25-32 (measles)
-
-- [Manitoba reports new measles exposure at Boundary Trails Health Centre](https://www.cbc.ca/news/canada/manitoba/manitoba-boundary-trails-measles-exposure-1.7605169) (CBC News)
-
-- [Medical director says Froedtert prepared for measles](https://www.wisn.com/article/medical-director-says-froedtert-prepared-for-measles/65639866) (WISN Milwaukee)
-
-- [San Diego teen who traveled brings home a case of measles](https://www.nbcsandiego.com/news/local/san-diego-teen-who-traveled-brings-home-a-case-of-measles/3884104/) (NBC 7 San Diego)
-
-- [The Race to Find a Measles Treatment as Infections Surge (Dominique Mosbergen/Wall Street Journal)](https://www.memeorandum.com/250808/p75) (Memeorandum.com)
-
-- [Milwaukee Health Department stresses importance of MMR vaccine](https://www.wisn.com/article/concerning-milwaukee-health-department-stresses-importance-of-mmr-vaccine/65629612) (WISN Milwaukee)
-
-- [Measles case confirmed on Air Canada flight from Newark to Toronto last month, officials say](https://www.cbc.ca/news/canada/toronto/measles-case-pearson-aircanada-flight-york-public-health-1.7603869) (CBC News)
-
-- [Measles virus detected in Clark County wastewater; health officials urge vaccination](https://www.reviewjournal.com/post/3410751) (Las Vegas Review-Journal)
-
-- [AHS issues public alert for potential measles exposure in Edmonton region](https://www.cbc.ca/news/canada/edmonton/ahs-measles-exposure-july-1.7603325) (CBC News)
-
-- [MPS students vaccinated for measles substantially lower than state average](https://www.wisn.com/article/mps-students-vaccinated-for-measles-substantially-lower-than-state-average/65618571) (WISN Milwaukee)
-
-- [3 new measles cases reported in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-cases-update-manitoba-august-6-1.7602651) (CBC News)
-
-- [N.S. measles patients no longer contagious, Public Health says](https://www.cbc.ca/news/canada/nova-scotia/measles-patients-contagious-public-health-1.7602505) (CBC News)
-
-- [Measles, Mumps, Rubella (MMR) Vaccine Market Growth Trends, Competitive Strategies and Forecasts, 2025-2033 | 8.2% CAGR Projected Amid Cold Chain Advancements, Despite Vaccine Hesitancy Challenges](https://www.globenewswire.com/news-release/2025/08/06/3128073/28124/en/Measles-Mumps-Rubella-MMR-Vaccine-Market-Growth-Trends-Competitive-Strategies-and-Forecasts-2025-2033-8-2-CAGR-Projected-Amid-Cold-Chain-Advancements-Despite-Vaccine-Hesitancy-Chal.html) (GlobeNewswire)
-
-- [Confirmed case of measles in Banff prompts AHS to issue public alert | Globalnews.ca](http://globalnews.ca/news/11319389/confirmed-case-of-measles-banff-ahs-public-alert/) (Global News)
-
-- [These Diseases Are on the Rise as Vaccine Rates Decrease](https://www.newsweek.com/these-diseases-are-rise-vaccine-rates-decrease-2109340) (Newsweek)
-
-- [Addressing fear in Alberta's Mennonite community amid a measles outbreak](https://www.cbc.ca/news/canada/calgary/alberta-mexican-mennonite-measles-vaccine-hesitancy-outreach-1.7601715) (CBC News)
-
-- [Health department shares the importance of vaccines](https://www.wgem.com/2025/08/05/health-department-shares-importance-vaccines/) (WGEM)
-
-- [Health officials give reminders after first confirmed measles cases in Wisconsin](https://www.news8000.com/lifestyle/health-officials-give-reminders-after-first-confirmed-measles-cases-in-wisconsin/article_11f342a1-ca3f-4c26-a4aa-b7e49c86a396.html) (News8000.com - WKBT)
-
-- [UW Health official warns of dangers of measles after first cases in Wisconsin](https://www.wkow.com/news/health/uw-health-official-warns-of-dangers-of-measles-after-first-cases-in-wisconsin/article_ef9d72b1-0008-4d65-92dd-67609217a2b5.html) (WKOW)
-
-- [Measles in Wisconsin: Milwaukee health officials address prevention](https://www.fox6now.com/news/milwaukee-ramps-up-measles-prevention-preparedness) (fox6now.com)
-
-- [Health officials: Nine Oconto County measles cases should serve as a wakeup call](https://fox11online.com/news/local/northwoods/health-officials-nine-oconto-county-measles-cases-should-serve-as-a-wakeup-call) (Fox11online.com)
-
-## 25-32 (malaria)
-
-- [La mujer con diagnóstico de malaria en Washington ¿será el primer caso de infección local en el estado?](https://es.gizmodo.com/la-mujer-con-diagnostico-de-malaria-en-washington-sera-el-primer-caso-de-infeccion-local-en-el-estado-2000184655) (Gizmodo.com)
-
-- [Coffee Break: Biotech vs. Science, NIH Under New Management, More on Malaria, Dreams of De-Extinction, and an Aside on the State of America](https://www.nakedcapitalism.com/2025/08/coffee-break-biotech-vs-science-nih-under-new-management-more-on-malaria-dreams-of-de-extinction-and-an-aside-on-the-state-of-america.html) (Nakedcapitalism.com)
-
-- [Malaria, urogenital schistosomiasis and co-infection and nutritional status of school children in Ondo state](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329740) (Plos.org)
-
-- [Preliminary feasibility and clinical utility of the Unified Protocol for the transdiagnostic treatment of emotional disorders in people with long COVID-19 condition: A single case pilot study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329595) (Plos.org)
-
-- [Woman Diagnosed with Malaria in Washington May Be State’s First Locally Acquired Case](https://gizmodo.com/woman-diagnosed-with-malaria-in-washington-may-be-states-first-locally-acquired-case-2000640209) (Gizmodo.com)
-
-- [Friday essay: Trump and Kennedy are destroying global science. Even Einstein questioned facts – but there’s a method to it](https://theconversation.com/friday-essay-trump-and-kennedy-are-destroying-global-science-even-einstein-questioned-facts-but-theres-a-method-to-it-261568) (The Conversation Africa)
-
-- [One Small Genetic Tweak May Stop Mosquitoes from Spreading Malaria](https://www.discovermagazine.com/one-small-genetic-tweak-may-stop-mosquitoes-from-spreading-malaria-47896) (Discover Magazine)
-
-- [Steelers OT Calvin Anderson nearly died from malaria — he’s now advocating to save others](https://andscape.com/features/calvin-anderson-malaria-treatment-foreign-aid-pittsburgh-steelers-nearly-died-from-malaria-hes-now-advocating-to-save-others/) (Andscape.com)
-
-- [Inequalities in disease burden and care quality of neglected tropical diseases and malaria, 1990–2021: Findings from the 2021 Global Burden of Disease Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329475) (Plos.org)
-
-- [MSF ‘overwhelmed’ in Ethiopia’s southwest following aid cuts](https://www.aljazeera.com/news/2025/8/6/msf-overwhelmed-in-ethiopias-southwest-following-aid-cuts) (Al Jazeera English)
-
-- [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
-
-- [New mRNA vaccine stops malaria transmission in its tracks](https://newatlas.com/infectious-diseases/wehi-mrna-vaccine-malaria-transmission/) (New Atlas)
-
-- [Nigeria's health minister seeks new public health order for Africa](https://www.premiumtimesng.com/health/health-news/812355-nigerias-health-minister-seeks-new-public-health-order-for-africa.html) (Premium Times)
-
-- [Correction: Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329753) (Plos.org)
-
-- [Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329490) (Plos.org)
-
-- [Kampf gegen Malaria: „Wir hatten ein Problem, jetzt haben wir eine Krise“](https://www.faz.net/aktuell/politik/ausland/malaria-ausbreitung-wir-hatten-ein-problem-jetzt-haben-wir-eine-krise-110616535.html) (Faz.net)
-
-- [CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela](https://wwwnc.cdc.gov/eid/article/31/9/25-0316_article) (Cdc.gov)
-
-## 25-32 (leptospirosis)
-
-- [Philippines Department of Health records 2,396 leptospirosis cases since start of rainy season](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/09/philippines-department-of-health-records-2396-leptospirosis-cases-since-start-of-rainy-season) (The Star Online)
-
-## 25-32 (hpai)
-
-- [Docyt introduces AI engine for accounting automation](https://www.internationalaccountingbulletin.com/news/docyt-introduces-ai-engine/) (Internationalaccountingbulletin.com)
-
-- [Nevada County Poultry Show Cancelled Over Bird Flu](https://www.shtfplan.com/headline-news/nevada-county-poultry-show-cancelled-over-bird-flu) (Shtfplan.com)
-
-- [South Africa Confirms New Bird Flu Outbreak](https://www.shtfplan.com/headline-news/south-africa-confirms-new-bird-flu-outbreak) (Shtfplan.com)
-
-## 25-32 (h5n1)
-
-- [Ocho patos muertos en las Lagunas de Villafáfila dan positivo en gripe aviar](https://www.elespanol.com/castilla-y-leon/region/zamora/20250808/patos-muertos-lagunas-villafafila-dan-positivo-gripe-aviar/1003743880203_0.html) (Elespanol.com)
-
-- [Nevada County Poultry Show Cancelled Over Bird Flu](https://www.shtfplan.com/headline-news/nevada-county-poultry-show-cancelled-over-bird-flu) (Shtfplan.com)
-
-- [La gripe aviar obliga a sacrificar 132 aves del Centro de Fauna de Gorliz (Bizkaia)](https://www.meneame.net/m/actualidad/gripe-aviar-obliga-sacrificar-132-aves-centro-fauna-gorliz) (Meneame.net)
-
-- [RFK Jr. pulls $500 million in funding for vaccine development](https://roanoke.com/news/nation-world/crime-courts/article_4b43a2e1-4839-500f-843e-f370823c8fd7.html) (Roanoke Times)
-
-- [ประกาศชะลอนำเข้าสัตว์ปีก-ซากสัตว์ปีกจากกัมพูชา 90 วัน หลังไข้หวัดนก H5N1 ระบาด](https://www.thairath.co.th/news/politic/2875105) (Thairath.co.th)
-
-- [Rájöttek a tudósok: két alattomos módja is lehet a halálos vírus terjedésének](https://www.portfolio.hu/global/20250806/rajottek-a-tudosok-ket-alattomos-modja-is-lehet-a-halalos-virus-terjedesenek-778509) (Portfolio.hu)
-
-- [RFK Jr. pulls funding for vaccines being developed to fight respiratory viruses](https://www.pbs.org/newshour/health/rfk-jr-pulls-funding-for-vaccines-being-developed-to-fight-respiratory-viruses) (PBS)
-
-- [RFK Jr. pulls $500 million in funding for vaccine development](https://roanoke.com/news/nation-world/government-politics/article_4b43a2e1-4839-500f-843e-f370823c8fd7.html) (Roanoke Times)
-
-- [RFK Jr. Makes Major Vaccine Announcement](https://www.newsweek.com/rfk-trump-admin-vaccines-mrna-covid-flu-2109400) (Newsweek)
-
-- [RFK Jr. pulls $500 million in funding for vaccine development](https://www.bostonherald.com/2025/08/05/us-kennedy-vaccines/) (Boston Herald)
-
-- [Bird Flu Could Be Spreading through the Air on Dairy Farms, Preliminary Study Shows](https://www.scientificamerican.com/article/bird-flu-could-be-spreading-through-the-air-on-dairy-farms-preliminary-study/) (Scientific American)
-
-- [Estudo indica contaminação de gripe aviária no ar de fazendas dos EUA](https://www.metropoles.com/saude/gripe-aviaria-no-ar-em-fazendas) (Metropoles.com)
-
-- [Новое средство от гриппа оказалось сильнее популярных препаратов](https://lenta.ru/news/2025/08/05/novoe-sredstvo-ot-grippa-okazalos-silnee-populyarnyh-preparatov/) (Lenta)
-
-- [ไทยยกระดับมาตรการเฝ้าระวัง “ไข้หวัดนก H5N1” หลังระบาดในกัมพูชา ตายแล้ว 6 ราย](https://www.thairath.co.th/news/politic/2874573) (Thairath.co.th)
-
-## 25-32 (dengue)
-
-- [Un deuxième cas de dengue autochtone a été identifié dans l'Ain](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/ain/bourg-bresse/un-deuxieme-cas-de-dengue-autochtone-a-ete-identifie-dans-l-ain-3199803.html) (Franceinfo.fr)
-
-- [Opnieuw verspreidt virus zich vanuit China](https://www.nieuwsblad.be/buitenland/opnieuw-verspreidt-virus-zich-vanuit-china/82724965.html) (Nieuwsblad.be)
-
-- [Dengue y chikungunya: ¿Cuáles son las diferencias y síntomas de alerta?](https://www.excelsior.com.mx/salud/cuales-son-las-diferencias-del-dengue-y-la-chikungunya/1731928) (Excelsior.com.mx)
-
-- [Febbre Dengue a Busto Arsizio, “piano straordinario di disinfestazione”](https://www.ilfattoquotidiano.it/2025/08/08/febbre-dengue-busto-arsizio-disinfestazione-notizie/8088979/) (Ilfattoquotidiano.it)
-
-- [Timor liberta 8 mil mosquitos em Díli para combater dengue](https://observador.pt/2025/08/08/governo-timorense-liberta-oito-mil-mosquitos-em-dili-para-combater-dengue/) (Observador.pt)
-
-- [Fleury tem queda de 12,3% no lucro líquido do 2º tri, para R$ 152,3 milhões, com depreciação dos investimentos](https://valor.globo.com/empresas/noticia/2025/08/07/fleury-tem-queda-de-123percent-no-lucro-liquido-do-2o-tri-para-r-1523-milhoes-com-depreciacao-dos-investimentos.ghtml) (Globo)
-
-- [West Nile, trappole per zanzare che simulano l’espirazione per monitorare il virus. Sesta vittima nel Lazio](https://www.ilfattoquotidiano.it/2025/08/07/west-nile-vittima-latina-roma-notizie/8087773/) (Ilfattoquotidiano.it)
-
-- [El Hospital Vall d'Hebron impulsa un proyecto para detectar dengue autóctono en 10 CAP de Barcelona](https://www.europapress.es/catalunya/noticia-hospital-vall-dhebron-impulsa-proyecto-detectar-dengue-autoctono-10-cap-barcelona-20250807124502.html) (Europapress.es)
-
-- [Vlaanderen voert strijd tegen de tijgermug op: “Kans op volledige uitroeiing is klein”](https://www.nieuwsblad.be/binnenland/vlaanderen-voert-strijd-tegen-de-tijgermug-op-kans-op-volledige-uitroeiing-is-klein/82222863.html) (Nieuwsblad.be)
-
-- [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
-
-- [Gripe, resfriado, covid-19 ou dengue: entenda diferenças e sintomas](https://www.bbc.com/portuguese/articles/cvgp1qv7ke9o) (BBC News)
-
-- [New Zealand sends health team, medical supplies to Samoa to assist with dengue fever outbreak](https://www.rnz.co.nz/news/national/569193/new-zealand-sends-health-team-medical-supplies-to-samoa-to-assist-with-dengue-fever-outbreak) (RNZ)
-
-- [Cegah DBD, Babinsa dan Puskesmas Sopa’ah Lakukan Fogging di Pademawu Timur](https://suaraindonesia-news.com/cegah-dbd-babinsa-dan-puskesmas-sopaah-lakukan-fogging-di-pademawu-timur/) (Suaraindonesia-news.com)
-
-- [Dengue: produto elimina larvas do mosquito em até 48 horas](https://olhardigital.com.br/2025/08/05/medicina-e-saude/dengue-produto-elimina-larvas-do-mosquito-em-ate-48-horas/) (Olhardigital.com.br)
-
-- [Sāmoa Prime Minister addresses surge in dengue cases](https://pmn.co.nz/read/health/samoa-prime-minister-addresses-surge-in-dengue-cases) (Pmn.co.nz)
-
-- [Dengue México 2025. Casos superan 5 mil, hay 32 muertes](https://www.excelsior.com.mx/nacional/dengue-mexico-2025-casos-superan-5-mil-hay-32-muertes/1730934) (Excelsior.com.mx)
-
-- [FAST Party launches health appeal against dengue fever](https://talamua.com/2025/08/05/fast-party-launches-health-campaign-against-dengue-fever/) (Talamua.com)
-
-## 25-32 (chikungunya)
-
-- [Otro virus se propaga por China: más de 7000 contagios](https://www.excelsior.com.mx/global/brote-virus-chikungunya-china-2025/1732045) (Excelsior.com.mx)
-
-- [Uusi virusepidemia leviää Kiinassa – rajut toimet käyttöön](https://www.is.fi/ulkomaat/art-2000011414920.html) (Www.is.fi)
-
-- [Sanità: caso di Chikungunya registrato nel vicentino](https://www.ansa.it/veneto/notizie/2025/08/09/sanita-caso-di-chikungunya-registrato-nel-vicentino_f1cae72a-53b5-4a85-8a7f-bd87bfc6596e.html) (ANSA.it)
-
-- [Ιός Chikungunya συμπτώματα: Νέος κίνδυνος από την κίνα](https://www.daynight.gr/plus/health/ios-chikungunya-sympotmata/) (Daynight.gr)
-
-- [Olyan járvány tört ki Kínában, hogy már a Covid-19-helyzetet idézi](https://www.portfolio.hu/gazdasag/20250809/olyan-jarvany-tort-ki-kinaban-hogy-mar-a-covid-19-helyzetet-idezi-779141) (Portfolio.hu)
-
-- [چین در حالتِ آماده‌باشِ «جنگ» با ویروسِ نوظهور/ احتمالِ وقوعِ همه‌گیریِ جهانیِ دیگر؟](https://www.asriran.com/fa/news/1083936/چین-در-حالتِ-آماده‌باشِ-جنگ-با-ویروسِ-نوظهور-احتمالِ-وقوعِ-همه‌گیریِ-جهانیِ-دیگر) (Asriran.com)
-
-- [Did Chinese authorities take a page from the COVID-19 playbook for chikungunya?](https://www.scmp.com/news/china/politics/article/3321276/did-chinese-authorities-take-page-covid-19-playbook-chikungunya) (Post Magazine)
-
-- [Opnieuw verspreidt virus zich vanuit China](https://www.nieuwsblad.be/buitenland/opnieuw-verspreidt-virus-zich-vanuit-china/82724965.html) (Nieuwsblad.be)
-
-- [Bayang-bayang Zero-COVID Kembali, China Ambil Langkah Keras Tangani Chikungunya](https://health.detik.com/berita-detikhealth/d-8052437/bayang-bayang-zero-covid-kembali-china-ambil-langkah-keras-tangani-chikungunya?%3Futm_source=twitter) (Detik.com)
-
-- [Anbio Biotechnology Responds to Global Outbreaks with Chikungunya Rapid Test and New 15-Minute Ultra-Fast PCR System](https://www.globenewswire.com/news-release/2025/08/09/3130443/0/en/Anbio-Biotechnology-Responds-to-Global-Outbreaks-with-Chikungunya-Rapid-Test-and-New-15-Minute-Ultra-Fast-PCR-System.html) (GlobeNewswire)
-
-- [Dengue y chikungunya: ¿Cuáles son las diferencias y síntomas de alerta?](https://www.excelsior.com.mx/salud/cuales-son-las-diferencias-del-dengue-y-la-chikungunya/1731928) (Excelsior.com.mx)
-
-- [Chikungunya Virus Cases Swell in China — Here's What to Know About the Mosquito-Borne Disease](https://www.discovermagazine.com/chikungunya-virus-cases-swell-in-china-here-s-what-to-know-about-the-mosquito-borne-disease-47901) (Discover Magazine)
-
-- [China has declared war on the chikungunya virus. How much of a threat is it?](https://www.npr.org/sections/goats-and-soda/2025/08/08/g-s1-81670/china-chikungunya-virus-mosquitoes) (NPR)
-
-- [Kasus Chikungunya Naik di China, Kenali Gejalanya yang Tidak Hanya Demam dan Nyeri Sendi](https://www.liputan6.com/health/read/6127891/kasus-chikungunya-naik-di-china-kenali-gejalanya-yang-tidak-hanya-demam-dan-nyeri-sendi) (Liputan6.com)
-
-- [WHO Warns of Global Chikungunya Risk As China Outbreak Surges Past 10,000 And Reaches New Country](https://www.boredpanda.com/global-epidemic-fears-surge-as-virus-in-china-reaches-new-countries/) (Boredpanda.com)
-
-- [Das grosse Mückentöten – eine Stadt in Südchina bekämpft die Verbreitung des Chikungunya-Virus mit Fischen, Drohnen und dem Überwachungsstaat](https://www.nzz.ch/international/chikungunya-virus-china-bekaempft-ausbruch-mit-drohnen-fischen-und-ueberwachung-ld.1896946) (Www.nzz.ch)
-
-- [Na obzore nový COVID-19? Vírusom sa v Číne nakazili tisíce, opatrenia pripomínajú pandemické roky](https://spravy.pravda.sk/svet/clanok/762541-na-obzore-novy-covid-19-virusom-sa-v-cine-nakazili-tisice-opatrenia-pripominaju-pandemicke-roky/) (Pravda.sk)
-
-- [Čína hlásí tisíce nakažených virem chikungunya. Úřady sáhly k přísným restrikcím](https://www.novinky.cz/clanek/zahranicni-svet-cina-hlasi-tisice-nakazenych-virem-chikungunya-urady-sahly-k-prisnym-restrikcim-40533473) (Novinky.cz)
-
-- [Singapore 'at risk' of chikungunya transmission: CDA](https://www.channelnewsasia.com/singapore/chikungunya-singapore-cases-rise-infectious-diseases-aedes-mosquito-cda-5284581) (CNA)
-
-- [Zeldzame muggenziekte chikungunya treft duizenden in China: Strenge maatregelen in Guangdong](https://newsmonkey.be/muggenziekte-chikungunya-china/) (Newsmonkey.be)
-
-- [Taiwan reports first case of chikungunya virus from China outbreak](https://www.aljazeera.com/news/2025/8/8/taiwan-reports-first-case-of-chikungunya-virus-from-china-outbreak) (Al Jazeera English)
-
-- [Chikungunya in China: What you need to know](https://www.channelnewsasia.com/east-asia/chikungunya-in-china-what-you-need-know-5284291) (CNA)
-
-- [China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill](https://www.channelnewsasia.com/east-asia/china-chikungunya-virus-outbreak-measures-thousands-ill-5280076) (CNA)
-
-- [¿Qué es el chikungunya, el virus que se propaga en China?](https://www.reforma.com/que-es-el-chikungunya-el-virus-que-se-propaga-en-china/ar3052109) (Reforma.com)
-
-- [Could chikungunya virus spread to US? Here's what Americans should know](https://www.foxnews.com/health/could-chikungunya-virus-spread-us-heres-what-americans-should-know) (Fox News)
-
-- [China Reintroduces COVID-19 Medical Tyranny After Chikungunya Virus Infects Thousands](https://www.shtfplan.com/headline-news/china-reintroduces-covid-19-medical-tyranny-after-chikungunya-virus-infects-thousands) (Shtfplan.com)
-
-- [FDA Update on the Safety of Ixchiq (Chikungunya Vaccine, Live): FDA Safety Communication](https://www.fda.gov/safety/medical-product-safety-information/fda-update-safety-ixchiq-chikungunya-vaccine-live-fda-safety-communication) (FDA.gov)
-
-- [Δεν καταγράφηκαν κρούσματα ιού Chikungunya – Συστήνει μέτρα προστασίας το Υπ. Υγείας](https://dialogos.com.cy/den-katagrafikan-kroysmata-ioy-chikungunya-systinei-metra-prostasias-to-yp-ygeias/) (Dialogos.com.cy)
-
-- [China locks down patients as Chikungunya virus spreads to new countries](https://www.ladbible.com/news/world-news/china-chikungunya-virus-measures-stop-spread-latest-615014-20250807) (LADbible)
-
-- [Motive de îngrijorare în China, după ce această țară a raportat peste 7.000 de cazuri de infecții cu virusul chikungunya](https://www.mediafax.ro/life-entertaiment/motive-de-ingrijorare-in-china-dupa-ce-aceasta-tara-a-raportat-peste-7-000-de-cazuri-de-infectii-cu-virusul-chikungunya-23592466) (Mediafax.ro)
-
-- [Plase, drone și restricții ca-n pandemie. Cum luptă China cu virusul chikungunya, care afectează mii de oameni](http://hotnews.ro/cum-lupta-china-lupta-cu-virusul-chikungunya-care-afecteaza-mii-de-oameni-2040341) (Hotnews.ro)
-
-- [Durch Mücken übertragen: China kämpft gegen das Chikungunya-Virus – mit Corona-ähnlichen Maßnahmen](https://www.stern.de/panorama/weltgeschehen/china-kaempft-gegen-chikungunya-virus---mit-massnahmen-wie-bei-corona-35955322.html) (STERN.de)
-
-- [Chikungunya, primo caso autoctono in Veneto: cosa è la malattia che “contorce”](https://www.ilsole24ore.com/art/chikungunya-primo-caso-autoctono-veneto-cosa-e-malattia-che-contorce-AHnuhR5B) (Il Sole 24 Ore)
-
-- [Chikungunya-Virus breitet sich in China weiter aus](https://www.tagesschau.de/ausland/asien/china-chikungunya-virus-100.html) (tagesschau.de)
-
-- [Nagy a baj: újabb járvány tört ki Kínában, már több ezren megfertőződtek](https://www.origo.hu/tudomany/2025/08/jarvany-tort-ki-kinaban-chikungunya-laz-fertozottek) (Origo.hu)
-
-- [Arbovirosi, primo caso autoctono di Chikungunia in Veneto](https://www.ansa.it/veneto/notizie/2025/08/07/arbovirosi-primo-caso-autoctono-di-chikungunia-in-veneto_24929961-f6ee-4ce1-9c3a-fab2ca959058.html) (ANSA.it)
-
-- [Todo lo que debes saber sobre el chikungunya, el virus que se está empezando a extender por China](http://hipertextual.com/ciencia/chikungunya-virus-china/) (Hipertextual)
-
-- [Nedir bu Chikungunya virüsü? Çin’de vaka sayısı 7 bin 700’ü aştı](https://www.hurriyet.com.tr/teknoloji/nedir-bu-chikungunya-virusu-cinde-vaka-sayisi-7-bin-700u-asti-42905892) (Hurriyet.com.tr)
-
-- [Virus de chikungunya: qué es, síntomas y cómo se contagia](https://www.meneame.net/m/ciencia/virus-chikungunya-sintomas-como-contagia) (Meneame.net)
-
-- [Arbovirosi, primo caso autoctono di Chikungunia in Veneto.](https://www.ansa.it/sito/notizie/cronaca/2025/08/07/arbovirosi-primo-caso-autoctono-di-chikungunia-in-veneto._18767360-d5c1-4e11-b1bd-a3d459fb3ec8.html) (ANSA.it)
-
-- [Valneva annonce la levée de l’arrêt temporaire de la FDA sur l’utilisation du vaccin contre le chikungunya IXCHIQ® chez les personnes âgées et une mise à jour des caractéristiques du produit](https://www.globenewswire.com/news-release/2025/08/07/3128880/0/fr/Valneva-annonce-la-lev%C3%A9e-de-l-arr%C3%AAt-temporaire-de-la-FDA-sur-l-utilisation-du-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-personnes-%C3%A2g%C3%A9es-et-une-mise-%C3%A0-jour-des-caract%C3%A9ristiques-d.html) (GlobeNewswire)
-
-- [Valneva Announces Removal of FDA-Recommended Pause on Use of Chikungunya Vaccine IXCHIQ® in Elderly and Updates to the Prescribing Information](https://www.globenewswire.com/news-release/2025/08/07/3128880/0/en/Valneva-Announces-Removal-of-FDA-Recommended-Pause-on-Use-of-Chikungunya-Vaccine-IXCHIQ-in-Elderly-and-Updates-to-the-Prescribing-Information.html) (GlobeNewswire)
-
-- [Újabb vírus jelent meg Kínában, már több ezren fertőződtek meg](https://index.hu/kulfold/2025/08/07/kina-jarvany-fertozottek-szunyog-terjedes-chikungunya-laz-virus/) (Index.hu)
-
-- [China bestrijdt uitbraak van muggenvirus chikungunya dat hevige gewrichtspijn veroorzaakt](https://www.nieuwsblad.be/natuur-en-wetenschap/china-bestrijdt-uitbraak-van-muggenvirus-chikungunya-dat-hevige-gewrichtspijn-veroorzaakt/82256397.html) (Nieuwsblad.be)
-
-- [What Is Chikungunya? A Guide to The Virus Spreading in China](https://www.sciencealert.com/what-is-chikungunya-a-guide-to-the-virus-spreading-in-china) (ScienceAlert)
-
-- [Chikungunya Tembus 7 Ribu Kasus, China Terapkan Protokol Mirip COVID](https://health.detik.com/berita-detikhealth/d-8048864/chikungunya-tembus-7-ribu-kasus-china-terapkan-protokol-mirip-covid) (Detik.com)
-
-- [Kína még drónokat is bevetett az országban terjedő veszélyes járvány megfékezésére](https://www.portfolio.hu/global/20250806/kina-meg-dronokat-is-bevetett-az-orszagban-terjedo-veszelyes-jarvany-megfekezesere-778663) (Portfolio.hu)
-
-- [Saint-Marcellin. Cas de chikungunya : l’opération de démoustication terminée, le risque de contagion (normalement) écarté](https://www.ledauphine.com/sante/2025/08/06/isere-saint-marcellin-cas-de-chikungunya-l-operation-de-demoustication-terminee-le-risque-de-contagion-(normalement)-ecarte) (Le Dauphiné Libéré)
-
-- [Fast 8000 Chikungunya-Fälle in China - Kritik an Maßnahmen wegen Tigermücken-Virus](https://www.bild.de/leben-wissen/wissenschaft/fast-8000-faelle-in-china-kritik-an-corona-massnahmen-wegen-tigermuecken-virus-68936fef915c8850aaeb8e6a) (Bild)
-
-- [China Taking Extreme Steps to Quash a Virus Outbreak](https://www.newser.com/story/373084/china-taking-extreme-steps-to-quash-a-virus-outbreak.html) (Newser)
-
-- [Another Virus Rattling China Puts America On Red Alert](https://dailycaller.com/2025/08/06/another-virus-china-america-red-alert/) (The Daily Caller)
-
-- [Droni e multe in Cina contro l’epidemia di Chikungunya, ritirata l’iniziale (e inutile) quarantena](https://www.ilfattoquotidiano.it/2025/08/06/droni-e-multe-in-cina-contro-lepidemia-di-chikungunya-ritirata-liniziale-e-inutile-quarantena/8086962/) (Ilfattoquotidiano.it)
-
-- [U.S. warns travelers as mosquito-borne viral disease spreads in China](https://www.cbsnews.com/news/us-warns-travelers-chikungunya-virus-mosquitoes-china/) (CBS News)
-
-- [Chikungunya Virus in China: Updates on the Outbreak](https://hollywoodlife.com/2025/08/06/chikungunya-virus-outbreak-updates-china/) (Hollywood Life)
-
-- [Συναγερμός στην Κίνα για τον ιό Chikungunya – Χιλιάδες κρούσματα καθημερινά](https://www.newsit.gr/kosmos/synagermos-stin-kina-gia-ton-io-chikungunya-xiliades-krousmata-kathimerina/4446065/) (Newsit.gr)
-
-- [U.S. warns travelers as cases of chikungunya, a virus spread by mosquitos, increase in China](https://www.cbsnews.com/video/u-s-warns-travelers-as-cases-of-chikungunya-a-virus-spread-by-mosquitos-increase-in-china/) (CBS News)
-
-- [Malaria, Chikungunya, Dengue: Wer sich nach dem Urlaub krank fühlt, sollte an eine Reise-Infektion denken](https://www.tagesspiegel.de/gesundheit/malaria-chikungunya-dengue-wer-sich-nach-dem-urlaub-krank-fuhlt-sollte-an-eine-reise-infektion-denken-14140085.html) (Der Tagesspiegel)
-
-- [China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill](https://www.bostonherald.com/2025/08/06/china-chikungunya-outbreak/) (Boston Herald)
-
-- [Chikungunya Virus Outbreak: Symptoms of Illness Spreading in China Explained](https://www.newsweek.com/chikungunya-virus-china-outbreak-symptoms-health-mosquito-2109551) (Newsweek)
-
-- [China aplica medidas de combate ao surto de chikunguny](https://observador.pt/2025/08/06/china-aplica-medidas-de-combate-ao-surto-do-virus-chikungunya-apos-milhares-de-infecoes/) (Observador.pt)
-
-- [What is chikungunya, the virus now spreading in southern China?](https://abcnews.go.com/International/wireStory/chikungunya-virus-now-spreading-southern-china-124404487) (ABC News)
-
-- [China Battling Another Virus: Mosquito-Borne Chikungunya](https://legalinsurrection.com/2025/08/china-battling-another-virus-mosquito-borne-chikungunya/) (Legalinsurrection.com)
-
-- [How did Chikungunya virus start as 'forceful pandemic measures' begin in China](https://www.ladbible.com/news/health/how-did-chikungunya-virus-start-781145-20250806) (LADbible)
-
-- [What World Health Organization has said about Chikungunya virus as China introduces 'pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-china-who-statement-387257-20250806) (LADbible)
-
-- [Çin'de chikungunya endişesi! ABD'den seyahat uyarısı geldi](https://www.haberturk.com/cin-de-chikungunya-virusu-endisesi-abd-den-seyahat-uyarisi-geldi-haberler-3812772) (Haberturk.com)
-
-- [Ce se întâmplă dacă te infectezi cu virusul Chikungunya, care afectează deja mii de oameni în China. OMS: „Istoria se repetă”,](https://adevarul.ro/stiri-externe/in-lume/ce-se-intampla-daca-te-infectezi-cu-virusul-2462812.html) (Adevarul.ro)
-
-- [China tackles chikungunya virus outbreak as thousands fall ill](https://abcnews.go.com/International/wireStory/china-tackles-chikungunya-virus-outbreak-wide-range-measures-124402636) (ABC News)
-
-- [Gegenmaßnahmen wie bei Corona: Ausbruch des Chikungunya-Virus in China weitet sich aus](https://www.n-tv.de/wissen/Ausbruch-des-Chikungunya-Virus-in-China-weitet-sich-aus-article25947795.html) (N-tv.de)
-
-- [CDC issues travel health notice for mosquito-borne chikungunya virus](https://abc7news.com/post/cdc-issues-travel-health-notice-mosquito-borne-chikungunya-virus-china/17447805/) (KGO-TV)
-
-- [Krankheiten: Chikungunya-Virus breitet sich weiter in China aus](https://www.tagesspiegel.de/wissen/krankheiten-chikungunya-virus-breitet-sich-weiter-in-china-aus-14138096.html) (Der Tagesspiegel)
-
-- [Krankheiten: Chikungunya-Virus breitet sich weiter in China aus](https://www.zeit.de/news/2025-08/06/chikungunya-virus-breitet-sich-weiter-in-china-aus) (Die Zeit)
-
-- [Krankheiten: Chikungunya-Virus breitet sich weiter in China aus](https://www.stern.de/panorama/wissen/krankheiten--chikungunya-virus-breitet-sich-weiter-in-china-aus-35951916.html) (STERN.de)
-
-- [Çin'de salgın başladı, hızla yayılıyor! Binlerce vaka var üstelik sineklerden bulaşıyor...](https://www.turkiyegazetesi.com.tr/dunya/cinde-salgin-basladi-hizla-yayiliyor-binlerce-vaka-var-ustelik-sineklerden-bulasiyor-1136177) (Turkiyegazetesi.com.tr)
-
-- [A new virus is spreading in China, and it’s more painful than Covid](https://economictimes.indiatimes.com/news/new-updates/chikungunya-outbreak-a-new-virus-is-spreading-in-china-and-its-more-painful-than-covid/articleshow/123132681.cms) (The Times of India)
-
-- [Chikungunya-epidemie in China leidt tot strenge maatregelen](https://businessam.be/chikungunya-epidemie-in-china-leidt-tot-strenge-maatregelen/) (Businessam.be)
-
-- [Çin’de chikungunya virüsü alarmı: Sivrisinek kaynaklı salgın büyüyor](https://www.haber7.com/dunya/haber/3553015-cinde-chikungunya-virusu-alarmi-sivrisinek-kaynakli-salgin-buyuyor) (Haber7.com)
-
-- [Chikungunya virus ripping through China prompts COVID-style quarantine response](https://7news.com.au/news/chikungunya-virus-ripping-through-china-prompts-covid-style-quarantine-response-c-19594965) (7NEWS.com.au)
-
-- [What to know about chikungunya as cases rise in South China](https://www.abc.net.au/news/2025-08-06/chikungunya-what-is-it-virus-mosquito/105618166) (ABC News (AU))
-
-- [What is the chikungunya virus, how are countries such as China battling it?](https://www.aljazeera.com/news/2025/8/6/what-is-the-chikungunya-virus-how-are-countries-such-as-china-battling-it) (Al Jazeera English)
-
-- [Moesson teistert Zuid-China: overstromingen, aardverschuivingen en virusuitbraak](https://www.nieuwsblad.be/buitenland/moesson-teistert-zuid-china-overstromingen-aardverschuivingen-en-virusuitbraak/82014236.html) (Nieuwsblad.be)
-
-- [China is fighting an outbreak of the chikungunya virus. What is it?](https://www.cbc.ca/news/world/chikungunya-virus-china-1.7601781) (CBC News)
-
-- [7 000 drabbade av myggvirus i Kina – sedan början av juli](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1393127) (Aftonbladet.se)
-
-- [Nueva enfermedad se propaga en China: qué saber sobre el virus chikungunya](https://forbes.com.mx/nueva-enfermedad-se-propaga-en-china-que-saber-sobre-el-virus-chikungunya/) (Forbes.com.mx)
-
-- [Chikungunya virus not a threat to Apple's Chinese supply chain](https://appleinsider.com/articles/25/08/05/chikungunya-virus-not-a-threat-to-apples-chinese-supply-chain) (AppleInsider)
-
-- [New Illness Spreading In China: What To Know About The Chikungunya Virus](https://www.forbes.com/sites/maryroeloffs/2025/08/05/new-illness-spreading-in-china-what-to-know-about-the-chikungunya-virus/) (Forbes)
-
-- [CDC warns of mosquito-borne chikungunya outbreak in southeast China](https://www.nbcnews.com/health/health-news/chikungunya-outbreak-virus-china-mosquito-rcna223232) (NBC News)
-
-- [Mosquitoes wreak havoc in China as authorities adopt COVID pandemic methods to tackle virus outbreak](https://economictimes.indiatimes.com/news/international/us/elephant-mosquitoes-wreak-havoc-in-china-as-authorities-adopt-covid-pandemic-methods-to-tackle-virus-outbreak/articleshow/123127256.cms) (The Times of India)
-
-- [UK government advice as Chikungunya virus breaks out in China triggering 'forceful pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-uk-government-advice-vaccines-symptoms-explained-439936-20250805) (LADbible)
-
-- [What happens to your body if you catch Chikungunya virus as China begins 'pandemic measures'](https://www.ladbible.com/news/health/chikungunya-virus-symptoms-china-pandemic-measures-209204-20250805) (LADbible)
-
-- [Likelihood of Chikungunya virus spreading across the world as 'pandemic response' triggered in China](https://www.ladbible.com/news/health/chinkungunya-virus-china-spread-symptoms-615841-20250805) (LADbible)
-
-- [Çin'de korkutan virüs: 7 binden fazla vaka sonrası ABD'den flaş karar!](https://www.haber7.com/dunya/haber/3552966-cinde-korkutan-virus-7-binden-fazla-vaka-sonrasi-abdden-flas-karar) (Haber7.com)
-
-- [Chikungunya virus breaks out in China as country responds with 'forceful pandemic measures'](https://www.ladbible.com/news/world-news/chikungunya-virus-china-outbreak-134428-20250805) (LADbible)
-
-- [Çin’de yeni alarm: Chikungunya! Vaka sayısı 7 bini geçti](https://www.haber7.com/dunya/haber/3552921-cinde-yeni-alarm-chikungunya-vaka-sayisi-7-bini-gecti) (Haber7.com)
-
-- [Chikungunya virus spreading fast in China - is it reaching pandemic level? Here're causes, symptoms and treatment](https://economictimes.indiatimes.com/news/international/us/chikungunya-virus-spreading-fast-in-china-is-it-reaching-pandemic-level-herere-causes-symptoms-and-treatment/articleshow/123118671.cms) (The Times of India)
-
-- [Çin'de virüs paniği: Vaka sayısı 7 bini geçti! 'Tehlike sürüyor'](https://www.hurriyet.com.tr/dunya/cinde-virus-panigi-vaka-sayisi-7-bini-gecti-tehlike-suruyor-42903849) (Hurriyet.com.tr)
-
-- [China enforces Covid-like measures amid Chikungunya outbreak](https://economictimes.indiatimes.com/news/international/global-trends/china-enforces-covid-like-measures-amid-chikungunya-outbreak/articleshow/123118423.cms) (The Times of India)
-
-- [Különös járvány terjed Kínában: a koronavírusnál látott megoldásokat vetnek be a hatóságok, egyelőre nincs gyógymód](https://www.portfolio.hu/gazdasag/20250805/kulonos-jarvany-terjed-kinaban-a-koronavirusnal-latott-megoldasokat-vetnek-be-a-hatosagok-egyelore-nincs-gyogymod-778263) (Portfolio.hu)
-
-- [Çin'de 7 binden fazla vaka bildirildi: Sivrisinek kaynaklı virüs hızla yayılıyor](https://anlatilaninotesi.com.tr/20250805/cinde-7-binden-fazla-vaka-bildirildi-sivrisinek-kaynakli-virus-hizla-yayiliyor-1098363545.html) (Anlatilaninotesi.com.tr)
-
-- [China reports 7,000 cases of chikungunya virus](https://www.bbc.com/news/articles/cvg0edj332yo) (BBC News)
-
-- [Chikungunya virus: China reports 7,000 cases](https://www.bbc.co.uk/news/articles/cvg0edj332yo) (BBC News)
-
-- [屈公病是什麼？中國確診破7000例，症狀、治療、預防懶人包一次看](https://www.thenewslens.com/article/256766) (Thenewslens.com)
-
-- [Epidemiology of Chikungunya Hospitalizations, Brazil, 2014–2024](https://wwwnc.cdc.gov/eid/article/31/9/25-0554_article) (Cdc.gov)
-
-- [Un cinquième cas de chikungunya autochtone confirmé en Isère, une nouvelle opération de démoustication programmée](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/un-cinquieme-cas-de-chikungunya-autochtone-confirme-en-isere-une-nouvelle-operation-de-demoustication-programmee-3197613.html) (Franceinfo.fr)
-
-- [Isère. Un cas importé de chikungunya détecté dans une nouvelle commune](https://www.ledauphine.com/sante/2025/08/04/isere-saint-marcellin-cas-importe-de-chikungunya-une-demoustication-dans-la-nuit-de-mardi-a-mercredi) (Le Dauphiné Libéré)
-
-- [Κίνα: Ο ιός chikungunya έρχεται με πάνω από 5.000 κρούσματα](https://www.daynight.gr/plus/health/ios-chikungunya-kina/) (Daynight.gr)
-
-- [Hong Kong sees first mosquito-borne illness from China outbreak](https://www.japantimes.co.jp/news/2025/08/04/asia-pacific/science-health/hong-kong-mosquito-china/) (The Japan Times)
