@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-09-21 07:06
-- **Most recent article:** 2025-09-20 06:17:40
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-09-21 19:05
+- **Most recent article:** 2025-09-20 16:17:58
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | Total |
 |--|-|-|-|-|-|-|-|
-| chikungunya | 45 | 80 | 52 | 18 | 18 | 37 | 250 |
-| measles | 25 | 50 | 33 | 45 | 39 | 44 | 236 |
-| dengue | 24 | 62 | 40 | 16 | 24 | 25 | 191 |
-| rabies | 27 | 39 | 6 | 9 | 5 | 13 | 99 |
+| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 245 |
+| measles | 25 | 50 | 33 | 45 | 39 | 46 | 238 |
+| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 190 |
+| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 99 |
 | mpox | 7 | 5 | 7 | 58 | 7 | 5 | 89 |
-| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 88 |
+| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 87 |
 | h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 46 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 40 |
 | meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 39 |
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
 
 ## 25-38 (rabies)
+
+- [Primate (Fantastic Fest) Review: Johannes Roberts’ Killer Chimp Movie Is a Blood Bath of Fun](https://www.joblo.com/primate-fantastic-fest-review-johannes-roberts-killer-chimp-movie-is-a-blood-bath-of-fun/) (JoBlo.com)
 
 - [DOH Marion issues rabies advisory for residents](https://www.wftv.com/news/local/marion-county/doh-marion-issues-rabies-advisory-residents/ISOY6CMWCRBZNC5NV2KJMBOIXI/) (WFTV Orlando)
 
@@ -107,6 +109,10 @@ Source: [News API](https://newsapi.org/)
 - [Federico Martinón: «Galicia es la región del mundo mejor posicionada para ser la primera libre de meningitis»](https://www.lavozdegalicia.es/noticia/santiago/2025/09/14/region-record-mundo-vacunacion-solo-infantil/0003_202509S14C4993.htm) (Lavozdegalicia.es)
 
 ## 25-38 (measles)
+
+- [The Hidden Tsunami: A Public Health Crisis That’s Already Here](https://www.fairobserver.com/world-news/us-news/the-hidden-tsunami-a-public-health-crisis-thats-already-here/) (Fair Observer)
+
+- [Queensland's measles outbreak growing with 12 cases in six weeks](https://www.abc.net.au/news/2025-09-20/measles-outbreak-queensland-growing-middlemount-case/105798134) (ABC News (AU))
 
 - [Parenting win: The easy vaccine schedule every family should follow](https://timesofindia.indiatimes.com/life-style/parenting/moments/parenting-win-the-easy-vaccine-schedule-every-family-should-follow/articleshow/124010508.cms) (The Times of India)
 
@@ -244,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (dengue)
 
+- [El mosquito del dengue tiene una variante americana que prefiere picar a los humanos](https://es.gizmodo.com/el-mosquito-del-dengue-tiene-una-variante-americana-que-prefiere-picar-a-los-humanos-2000193148) (Gizmodo.com)
+
 - [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
 
 - [Infection au virus du chikungunya : des lâchers de moustiques plus ou moins efficaces](https://sante.ouest-france.fr/moustique/infection-au-virus-du-chikungunya-des-lachers-de-moustiques-plus-ou-moins-efficaces-eabae24a-9537-11f0-aae5-c246857d365e) (Ouest-France)
@@ -295,6 +303,8 @@ Source: [News API](https://newsapi.org/)
 - [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
 
 ## 25-38 (chikungunya)
+
+- [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
 
 - [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
 
@@ -2190,8 +2200,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
-- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
-
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2306,8 +2314,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
-- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
-
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2365,10 +2371,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2449,15 +2451,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
-
-- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
-
-- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
-
-- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
-
-- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
