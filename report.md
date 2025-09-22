@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2025-09-22 07:08
-- **Most recent article:** 2025-09-21 00:54:03
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-09-22 19:06
+- **Most recent article:** 2025-09-21 15:28:18
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 0 | 251 |
+| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 3 | 248 |
 | measles | 25 | 50 | 33 | 45 | 39 | 46 | 0 | 238 |
-| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 0 | 192 |
-| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 0 | 100 |
-| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 1 | 89 |
+| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 1 | 191 |
+| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 0 | 99 |
 | mpox | 7 | 5 | 7 | 58 | 7 | 5 | 0 | 89 |
-| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 0 | 46 |
+| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 1 | 88 |
+| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 1 | 47 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 0 | 40 |
 | meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 0 | 39 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 0 | 33 |
+| typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 0 | 8 |
 | pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 0 | 8 |
 | hpai | 0 | 1 | 1 | 1 | 4 | 1 | 0 | 8 |
-| typhoid | 1 | 0 | 0 | 2 | 4 | 0 | 0 | 7 |
 | leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 0 | 6 |
 
 
@@ -35,6 +35,22 @@ Source: [News API](https://newsapi.org/)
 ## 25-39 (malaria)
 
 - [La ciencia lo confirma: la cerveza sí hace más atractivas a las personas... pero para los mosquitos](https://www.xataka.com.mx/investigacion/ciencia-confirma-cerveza-hace-atractivas-a-personas-para-mosquitos) (Xataka.com.mx)
+
+## 25-39 (h5n1)
+
+- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
+
+## 25-39 (dengue)
+
+- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
+
+## 25-39 (chikungunya)
+
+- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
+
+- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
+
+- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
 
 ## 25-38 (zika)
 
@@ -49,6 +65,10 @@ Source: [News API](https://newsapi.org/)
 - [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
 
 - [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
+
+## 25-38 (typhoid)
+
+- [The death rays that guard life](https://worksinprogress.co/issue/the-death-rays-that-guard-life/) (Worksinprogress.co)
 
 ## 25-38 (rabies)
 
@@ -2204,8 +2224,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
-- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
-
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2320,8 +2338,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
-- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
-
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2379,10 +2395,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2463,15 +2475,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
-
-- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
-
-- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
-
-- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
-
-- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
