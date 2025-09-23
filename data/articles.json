@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-09-23 07:07",
-  "count_articles_total": 1066,
-  "count_articles_new": 17,
+  "last_updated": "2025-09-23 19:06",
+  "count_articles_total": 1067,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 24697,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Marina Kopf, Mustafa Fattah, Joe Murphy",
+      "title": "Measles outbreak growing in parts of Arizona and Utah, health officials say",
+      "description": "One of the largest measles outbreaks in the U.S. is now centered in bordering areas of southwestern Utah and Arizona.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-utah-arizona-vaccines-data-schools-rcna232399",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250919-utah-measles-se-134p-b556c8.jpg",
+      "publishedAt": "2025-09-22 18:15:07",
+      "content": "One of the largest measles outbreaks in the U.S. is now centered in bordering areas of southwestern Utah and Arizona. In Southwest Utah, all but one of the 23 confirmed casesare among unvaccinated,\u2026 [+5715 chars]",
+      "retrievedAt": "2025-09-23 19:06:07.704362",
+      "internal_id": "26b7e6082204355c7d30123297b6420b942f7a039245a7bb9153902fc088ac8d",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24699,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WKOW",
+      "author": "Gracie Tuohy",
+      "title": "Grant County tackles low measles vaccine rates with mobile clinics and education efforts",
+      "description": "GRANT COUNTY, Wis. (WKOW) \u2014 The Centers for Disease Control and Prevention currently recommends separate MMR and MMRV shots for children under 4 to protect against measles, mumps, rubella, and",
+      "url": "https://www.wkow.com/news/health/grant-county-tackles-low-measles-vaccine-rates-with-mobile-clinics-and-education-efforts/article_735936bc-c271-45e5-b1c0-598206deb845.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/2/51/2510f5fb-3931-5507-90f8-06a9dde5e12f/688c24bc5a48a.image.jpg?crop=1726%2C906%2C0%2C147&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-09-22 18:02:04",
+      "content": "GRANT COUNTY, Wis. (WKOW) The Centers for Disease Control and Prevention currently recommends separate MMR and MMRV shots for children under 4 to protect against measles, mumps, rubella, and varicel\u2026 [+1665 chars]",
+      "retrievedAt": "2025-09-23 19:06:07.874389",
+      "internal_id": "b71b315b9c42eedcfa7c221989b27460b4e4bdbe2000880f46231fbc01521aea",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24695,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Fox11online.com",
+      "author": "Ashley Kaster",
+      "title": "Health officials urge rabies prevention after rabid bat found in Shawano County",
+      "description": "Health officials urge rabies prevention after rabid bat found in Shawano Countyfox11online.com",
+      "url": "https://fox11online.com/news/local/health-officials-urge-rabies-prevention-after-rabid-bat-found-in-shawano-county-green-valley-pet-skunks-bite-wild-wisconsin",
+      "urlToImage": "https://fox11online.com/resources/media2/16x9/1920/986/center/90/49cfa200-a15f-42e8-bc91-6047f29c9256-LAUREN1239_frame_413.jpeg",
+      "publishedAt": "2025-09-22 17:30:23",
+      "content": "(WLUK) -- A wild bat recently tested positive for rabies in Shawano County. The bat was found in the town of Green Valley following an encounter with a family pet. The last report of a rabid anima\u2026 [+1386 chars]",
+      "retrievedAt": "2025-09-23 19:06:07.201811",
+      "internal_id": "8f6640357fb3c05ac5558833151310ed8fa12ab7f84223ec369b0f15eea40250",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24696,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Caroline Mburu, John Ojal, Rose Selim, Rose Ombati, Donald Akech, Boniface Karia, James Tuju, Antipa Sigilai, Gaby Smits, Pieter van Gageldonk, Fiona van der Klis, Eunice Kagucia, Anthony Scott, Ifedayo Adetifa, Stefan Flasche",
+      "title": "Modelling the relative contribution of infection, routine vaccination and supplementary immunisation activities to measles seroconversion in Kenyan Children",
+      "description": "Author summary Despite a comprehensive vaccination programme of two measles doses and frequent SIAs, outbreaks continue to be experienced in Kenya and the country has not eliminated measles in line with continental and global targets. Here, we developed a sta\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013531",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013531.g003&size=inline",
+      "publishedAt": "2025-09-22 14:00:00",
+      "content": "Citation: Mburu C, Ojal J, Selim R, Ombati R, Akech D, Karia B, et al. (2025) Modelling the relative contribution of infection, routine vaccination and supplementary immunisation activities to measle\u2026 [+29825 chars]",
+      "retrievedAt": "2025-09-23 19:06:07.665392",
+      "internal_id": "07bdd7f2eb72a36767d3d6b91f0b13fcd8df278e8f0238bea7fa7a7f7993d859",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24700,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yue Zhang, Xianghong Zhang, Kaifa Wang",
+      "title": "Impact of temperature and imported cases on the spread and control of dengue fever: Case study of 2019 dengue fever epidemic in Guangzhou and Jinghong cities, China",
+      "description": "Author summary The rapid development of dengue fever in China has become a public health problem that cannot be ignored. However, the situation of each epidemic area is different, so these differences need to be analyzed and studied separately to find more ef\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013472",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013472.g011&size=inline",
+      "publishedAt": "2025-09-22 14:00:00",
+      "content": "Abstract Dengue fever is an acute mosquito-borne disease transmitted by Aedes mosquitoes. In this paper, dengue fever outbreaks in Guangzhou, Guangdong Province and Jinghong, Yunnan Province from Ju\u2026 [+59413 chars]",
+      "retrievedAt": "2025-09-23 19:06:08.311114",
+      "internal_id": "6845db463e07750a3282c1e145f161f20d5f018606589d99969672a994b54214",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24701,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fatima Ericka S. Vista, Leslie Michelle M. Dalmacio, Pauline R. Solis, Cecilia Nelia C. Maramba-Lazarte, Diane M. Lang, Alan L. Rothman, Sheriah Laine M. de Paz-Silava",
+      "title": "Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination",
+      "description": "Author summary Japanese encephalitis virus (JEV) is the leading pathogen causing viral encephalitis in Asia. Fortunately, there are licensed JEV vaccines incorporated into the routine immunization programs of many Asian countries. In the Philippines, this pra\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013550.g003&size=inline",
+      "publishedAt": "2025-09-22 14:00:00",
+      "content": "Abstract Background Japanese encephalitis virus (JEV) is a mosquito-borne pathogen that causes severe neurologic disease. Its endemicity in Asia has prompted its inclusion in nationwide immunizatio\u2026 [+51017 chars]",
+      "retrievedAt": "2025-09-23 19:06:08.323894",
+      "internal_id": "f26dc0bac12233f56dd89d04bb142686825d0fe3f5edf1a2f1ce65a45edbb82b",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24702,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Malaria: Developing Drugs for Treatment",
+      "description": "Malaria: Developing Drugs for Treatment",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/malaria-developing-drugs-treatment",
+      "urlToImage": "https://www.fda.gov/files/StandardGuidanceGraphic_1200x675_Industry_221219_0.png",
+      "publishedAt": "2025-09-22 12:45:05",
+      "content": "You can submit online or written comments on any guidance at any time (see 21 CFR 10.115(g)(5)) If unable to submit comments online, please mail written comments to: Dockets ManagementFood and Drug\u2026 [+155 chars]",
+      "retrievedAt": "2025-09-23 19:06:08.863645",
+      "internal_id": "3c40ccb07977dece31749e2b64fcb3fc3c811a2340ce1def164c1acd562c2904",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24703,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Demir\u00f6ren Haber Ajans\u0131",
+      "title": "\u00c7in'de halk sa\u011fl\u0131\u011f\u0131 acil durumu ilan edildi",
+      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
+      "url": "https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227",
+      "urlToImage": "https://im.haberturk.com/l/2025/09/22/ver1758540639/3824227/jpg/1200x628",
+      "publishedAt": "2025-09-22 11:30:45",
+      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi. B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u00fc s\u2026 [+399 chars]",
+      "retrievedAt": "2025-09-23 19:06:09.324826",
+      "internal_id": "1f739c505cc65a344526ad617aa64da65a768ddc5b504b2da1bedcd19bd51233",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24704,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS informa de que el 90% de los nuevos casos notificados de mpox se concentran en \u00c1frica",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado este lunes de que el 90 por ciento de los nuevos casos notificados de mpox se concentran en \u00c1frica, por lo que sigue siendo \"fundamental\" mantener la vigilancia, el diagn\u00f3stico, la participaci\u00f3n comunitar\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-informa-90-nuevos-casos-notificados-mpox-concentran-africa-20250922124726.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250922124726_1200.jpg",
+      "publishedAt": "2025-09-22 10:47:26",
+      "content": "MADRID 22 Sep. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado este lunes de que el 90 por ciento de los nuevos casos notificados de mpox se concentran en \u00c1frica, por lo qu\u2026 [+2006 chars]",
+      "retrievedAt": "2025-09-23 19:06:09.540651",
+      "internal_id": "1ea23474cec05986606293ac0357fb4a6f0a6aae223e562c838132e299f882eb",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24698,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Idaho State Journal",
+      "author": "Herald Journal Staff",
+      "title": "First measles case confirmed near Idaho-Utah border after wastewater detection",
+      "description": "The Bear River Health Department confirmed its first case of measles in an unvaccinated individual in northern Utah's Cache County on Friday, just days after health officials detected the virus",
+      "url": "https://www.idahostatejournal.com/news/local/first-measles-case-confirmed-near-idaho-utah-border-after-wastewater-detection/article_5b2af8f1-cbde-41d6-b30c-3cd744dbe504.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/a/c3/ac3ec5dc-0675-5f1c-b309-2dc6d7d9a8b4/68c8c6b5761f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-09-22 09:44:00",
+      "content": "The Bear River Health Department confirmed its first case of measles in an unvaccinated individual in northern Utah's Cache County on Friday, just days after health officials detected the virus in wa\u2026 [+2969 chars]",
+      "retrievedAt": "2025-09-23 19:06:07.853780",
+      "internal_id": "f9c51428e55aac357c35a1e276e452af3fc2266e6cea27bef43520fef5f33616",
+      "publishedAtLabel": "Sep 22"
+    },
     {
       "id": 24682,
       "query": [
@@ -19129,169 +19309,6 @@
       "content": "Debido a que tan solo en una semana se confirmaron 333 nuevos casos de dengue, en lo que va del a\u00f1o el pa\u00eds ya sum\u00f3 un total de 6 mil 030 contagios. De acuerdo al panorama epidemiol\u00f3gico del dengue c\u2026 [+1492 chars]",
       "retrievedAt": "2025-08-12 07:08:38.130588",
       "internal_id": "27d2ba5d4e7cd3c291feec080cbe9f5efb254ca9847388b542792c66e551a204",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23629,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "Bob Cronin with Newser.AI",
-      "title": "Coyote Chases, Bites Boy at Softball Game",
-      "description": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Carson on Monday when a coyote began to chase him. The boy trip\u2026",
-      "url": "https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1627341-12-20250810124502.jpeg",
-      "publishedAt": "2025-08-10 17:45:00",
-      "content": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Car\u2026 [+277 chars]",
-      "retrievedAt": "2025-08-11 19:07:20.925092",
-      "internal_id": "95fdba2aa8a816da260b8e18152a07826acb0dd00abc545888479e7ecca6b3e3",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23631,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Only lab tests can confirm chikungunya infection",
-      "description": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3460990.jpg",
-      "publishedAt": "2025-08-10 16:00:00",
-      "content": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. While one may assume it is a dengue infection, there is also debilitatin\u2026 [+1545 chars]",
-      "retrievedAt": "2025-08-11 19:07:22.473626",
-      "internal_id": "efdb8a7e7e26c87cd717c847ded83a2fc394e7ef722e6f6c11ff2679568c904b",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23635,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "GERARD GIMINO, JUNAID IBRAHIM, TARRENCE TAN",
-      "title": "Experts: Don\u2019t let your guard down",
-      "description": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3461188.jpg",
-      "publishedAt": "2025-08-10 16:00:00",
-      "content": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. However, they say Malay\u2026 [+121 chars]",
-      "retrievedAt": "2025-08-11 19:07:24.038799",
-      "internal_id": "399706a7bc9738b5395b722b626fed8dafce76f112f8445ebc09ac9c74f42a32",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23630,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Hugo C\u00e9sar Marques",
-      "title": "O mist\u00e9rio da casa \u2018mal-assombrada\u2019 de um ex-senador em Bras\u00edlia",
-      "description": "Resid\u00eancia, que est\u00e1 fechada h\u00e1 18 anos, j\u00e1 motivou at\u00e9 abaixo-assinado de moradores assustados com barulhos, vultos e dengue",
-      "url": "https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/08/CASA-ACM.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-      "publishedAt": "2025-08-10 14:48:07",
-      "content": "Dia dos Pais: Revista em casa por 7,50/semanaA casa abandonada em \u00e1rea nobre de Bras\u00edlia - (Hugo Marques/VEJA) Continua ap\u00f3s publicidade Uma casa localizada em um bairro nobre de Bras\u00edlia chama a \u2026 [+2059 chars]",
-      "retrievedAt": "2025-08-11 19:07:22.405872",
-      "internal_id": "14bb3df5199d852276bf8f370a2b035e4d755805f2a459a6b2e2e195d8851d44",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23637,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Tv9gujarati.com",
-      "author": "Tv9 Gujarati",
-      "title": "\u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0a95\u0acb\u0aaa: \u0aae\u0aa7\u0ab0\u0abe\u0aa4\u0ac7 \u0ab2\u0ac7\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7 \u0aac\u0acd\u0ab2\u0aa1 \u0ab8\u0ac7\u0aae\u0acd\u0aaa\u0ab2, \u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acb\u0ab0\u0acb\u0aa8\u0abe \u0a9c\u0ac7\u0ab5\u0abe \u0a95\u0aa1\u0a95 \u0aaa\u0a97\u0ab2\u0abe\u0a82; \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a95\u0ac7\u0ab8 \u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0abe",
-      "description": "Chikungunya Outbreak In China: \u0a9a\u0ac0\u0aa8\u0aa8\u0abe \u0a98\u0aa3\u0abe \u0ab6\u0ab9\u0ac7\u0ab0\u0acb\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe \u0ab0\u0acb\u0a97\u0aa8\u0abe \u0a95\u0ac7\u0ab8 \u0a9d\u0aa1\u0aaa\u0aa5\u0ac0 \u0ab5\u0aa7\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7, \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0ab2\u0acb\u0a95\u0acb \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0acb \u0aad\u0acb\u0a97 \u0aac\u0aa8\u0acd\u0aaf\u0abe \u0ab9\u0acb\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0ab3\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7. \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0ac7 \u0a95\u0abe\u0ab0\u0aa3\u0ac7 \u0aae\u0acb\u0a9f\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82 \u0ab2\u0acb\u0a95\u0acb\u0aa8\u0ac7 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ab5\u0abe \u0aaa\u0aa1\u0acd\u0aaf\u0abe \u0a9b\u0ac7.",
-      "url": "https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html",
-      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2025/08/chine-1.jpg",
-      "publishedAt": "2025-08-10 13:31:26",
-      "content": ". . , . ? , . , , . . , 90 . . , 8,000 . , , . , , . , , . 4 , COVID-19 \u201c-COVID\u201d . . . 10,000 . , . . (CDC) -2 , , . . (WHO) 2004-05 , 119 5.6 .",
-      "retrievedAt": "2025-08-11 19:07:24.101982",
-      "internal_id": "62f447c54b1f8d8d38182063ee52cdfdfef7bd07d609fc9917c986ef373c1139",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23633,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Mundodeportivo.com",
-      "author": "Autor Redacci\u00f3n",
-      "title": "China confirma un brote con m\u00e1s de 7.000 casos de chikungunya y la r\u00e1pida propagaci\u00f3n del virus",
-      "description": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la preocupaci\u00f3n internacional por la r\u00e1pida propagaci\u00f3n del viru\u2026",
-      "url": "https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html",
-      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/05/02/626f816f31b2b.r_d.1337-948-0.jpeg",
-      "publishedAt": "2025-08-10 12:41:11",
-      "content": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la p\u2026 [+2274 chars]",
-      "retrievedAt": "2025-08-11 19:07:23.767264",
-      "internal_id": "1058c29c431101983d3a9dfe36e913c786cbf8aa571590b6583e610785b8fadb",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23636,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Kevesko.vn",
-      "author": "Sputnik Vi\u1ec7t Nam",
-      "title": "D\u1ecbch Chikungunya b\u00f9ng ph\u00e1t \u1edf Trung Qu\u1ed1c, Vi\u1ec7t Nam c\u1ea3nh b\u00e1o kh\u1ea9n",
-      "description": "T\u1ea1i t\u1ec9nh Qu\u1ea3ng \u0110\u00f4ng (Trung Qu\u1ed1c) \u0111\u00e3 ghi nh\u1eadn h\u01a1n 7.000 ca m\u1eafc Chikungunya, l\u00e0 \u0111\u1ee3t d\u1ecbch l\u1edbn nh\u1ea5t t\u1eeb tr\u01b0\u1edbc t\u1edbi nay \u1edf khu v\u1ef1c n\u00e0y. V\u1edbi kh\u00ed h\u1eadu nhi\u1ec7t \u0111\u1edbi \u1ea9m v\u00e0 m\u1eadt \u0111\u1ed9 mu\u1ed7i cao, Vi\u1ec7t Nam c\u00f3 nguy c\u01a1 l\u1edbn n\u1ebfu d\u1ecbch x\u00e2m nh\u1eadp.",
-      "url": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html",
-      "urlToImage": "https://cdn.img.kevesko.vn/images/sharing/article/vie/37636514.jpg?376367051754828059",
-      "publishedAt": "2025-08-10 12:14:18",
-      "content": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc, Vit Nam cnh b\u00e1o khn Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc\u2026 [+7428 chars]",
-      "retrievedAt": "2025-08-11 19:07:24.055373",
-      "internal_id": "b621582129132d4ec9345b0ef63eb5fbbfd79115d3b0cb0641a9ff821d97a3c2",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23634,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "LADbible",
-      "author": "Ella Scott",
-      "title": "Everything we know about Chikungunya virus as China locks down patients after it spread to other countries",
-      "description": "The Chikungunya virus has spread to parts of Europe, Asia, Africa and the Americas after thousands of cases were reported in a Chinese province.",
-      "url": "https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc82bb46a51bb0158/6898700f3266ed126fa68844/Screenshot_2025-08-10_at_09.40.51.png",
-      "publishedAt": "2025-08-10 10:38:40",
-      "content": "Chikungunya virus (CHIKV) is spreading like wildfire across Chinese cities, with health organisations reporting people in Europe, Africa, the Americas and other parts of Asia also coming down with th\u2026 [+4467 chars]",
-      "retrievedAt": "2025-08-11 19:07:23.898382",
-      "internal_id": "8c1f3e1f3d39208d611364363a61a7d429c7e7a1186f9a049b59a475d3cf8ddb",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23632,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Jak skutecznie unika\u0107 uk\u0105sze\u0144 komar\u00f3w i cieszy\u0107 si\u0119 latem bez sw\u0119dzenia?",
-      "description": "Nasza podatno\u015b\u0107 na ataki komar\u00f3w wynika g\u0142\u00f3wnie z genetyki, ale odpowiednie wybory mog\u0105 znacznie ograniczy\u0107 liczb\u0119 uk\u0105sze\u0144. Odpowiednia odzie\u017c, rezygnacja z pachn\u0105cych kosmetyk\u00f3w i utrzymywanie czysto\u015bci wok\u00f3\u0142 domu to skuteczne strategie. A warto pami\u0119ta\u0107, \u017ce\u2026",
-      "url": "https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683",
-      "urlToImage": "https://i.iplsc.com/-/000JPBHS8GP4I9QV-C461.jpg",
-      "publishedAt": "2025-08-10 09:00:01",
-      "content": "Szacuje si, e komary zabijaj ponad milion os\u00f3b rocznie, g\u00f3wnie przez przenoszenie takich chor\u00f3b, jak malaria. Te owady podaj za ludmi niemal wszdzie, gryzc nas i zakaajc. Istniej jednak pewne sposoby\u2026 [+2546 chars]",
-      "retrievedAt": "2025-08-11 19:07:23.001487",
-      "internal_id": "513735864904d86d9270de76088c041cc179700c344434b0f0fb29271ea69e35",
       "publishedAtLabel": "Aug 10"
     }
   ]
