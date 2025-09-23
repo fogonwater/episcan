@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-09-22 19:06
-- **Most recent article:** 2025-09-21 15:28:18
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-09-23 07:07
+- **Most recent article:** 2025-09-22 07:00:30
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 3 | 248 |
-| measles | 25 | 50 | 33 | 45 | 39 | 46 | 0 | 238 |
-| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 1 | 191 |
-| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 0 | 99 |
+| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 4 | 255 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 3 | 249 |
+| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 2 | 194 |
+| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 3 | 103 |
+| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 1 | 89 |
 | mpox | 7 | 5 | 7 | 58 | 7 | 5 | 0 | 89 |
-| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 1 | 88 |
 | h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 1 | 47 |
+| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 1 | 40 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 0 | 40 |
-| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 0 | 39 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 0 | 33 |
 | typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 0 | 8 |
 | pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 0 | 8 |
@@ -32,6 +32,26 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-39 (rabies)
+
+- [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668) (AccuWeather.com)
+
+- [Communities & their dogs](https://www.thehindubusinessline.com/specials/pulse/communities-their-dogs/article70068634.ece) (BusinessLine)
+
+- [Ministry of Health updates: Rabid dog found in Homesh, northern Samaria](https://www.israelnationalnews.com/flashes/666983) (Israelnationalnews.com)
+
+## 25-39 (meningitis)
+
+- [Three deaths from meningococcal meningitis reported in NZ in past five weeks](https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/) (New Zealand Herald)
+
+## 25-39 (measles)
+
+- [Unvaccinated toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/415320) (Israelnationalnews.com)
+
+- [Unvaccinated toddler dies of measles](https://www.israelnationalnews.com/flashes/667008) (Israelnationalnews.com)
+
+- [Australia has been free of endemic measles since 2014, is that about to change?](https://www.abc.net.au/news/2025-09-22/measles-cases-on-the-rise-australia-explainer/105799284) (ABC News (AU))
+
 ## 25-39 (malaria)
 
 - [La ciencia lo confirma: la cerveza sí hace más atractivas a las personas... pero para los mosquitos](https://www.xataka.com.mx/investigacion/ciencia-confirma-cerveza-hace-atractivas-a-personas-para-mosquitos) (Xataka.com.mx)
@@ -42,9 +62,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (dengue)
 
+- [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
+
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
 
 - [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
 
@@ -134,9 +158,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-38 (measles)
 
+- [First measles case of the year confirmed in Cache County, state's 34th case](https://ksltv.com/health/cache-county-measles/822069/) (ksltv.com)
+
+- [Health officials confirm measles case in Cache County](https://www.abc4.com/news/northern-utah/cache-county-measles-case/) (ABC 4)
+
 - [The Hidden Tsunami: A Public Health Crisis That’s Already Here](https://www.fairobserver.com/world-news/us-news/the-hidden-tsunami-a-public-health-crisis-thats-already-here/) (Fair Observer)
 
 - [Queensland's measles outbreak growing with 12 cases in six weeks](https://www.abc.net.au/news/2025-09-20/measles-outbreak-queensland-growing-middlemount-case/105798134) (ABC News (AU))
+
+- [Measles Alert Issued in Australia: Traveler from Indonesia Sparks Health Warning in Sydney - Travel And Tour World](https://www.travelandtourworld.com/news/article/measles-alert-issued-in-australia-traveler-from-indonesia-sparks-health-warning-in-sydney/) (Travelandtourworld.com)
 
 - [Parenting win: The easy vaccine schedule every family should follow](https://timesofindia.indiatimes.com/life-style/parenting/moments/parenting-win-the-easy-vaccine-schedule-every-family-should-follow/articleshow/124010508.cms) (The Times of India)
 
@@ -152,11 +182,21 @@ Source: [News API](https://newsapi.org/)
 
 - [RFK Jr.'s vaccine advisers stop recommending MMRV vaccine for kids under 4, delay vote on hepatitis B shot](https://www.cbc.ca/news/health/cdc-mmrv-vaccine-1.7637070) (CBC News)
 
+- [Data: New Mexico measles vaccination rate rose during outbreak](https://www.kob.com/news/top-news/data-new-mexico-measles-vaccination-rate-rose-during-outbreak/) (KOB)
+
+- [Kennedy's advisory panel recommends new restrictions on MMRV vaccines](https://chicago.suntimes.com/health/2025/09/19/kennedys-advisory-panel-recommends-new-restrictions-on-mmrv-vaccines) (Suntimes.com)
+
 - [Measles alert issued for Gold Coast as Queensland cases climb](https://www.abc.net.au/news/2025-09-19/measles-alert-issued-for-gold-coast-as-queensland-cases-rises/105795806) (ABC News (AU))
 
 - [France: RFK Jr.’s anti-vax crusade a public health disaster](https://www.bostonherald.com/2025/09/19/france-rfk-jr-s-anti-vax-crusade-a-public-health-disaster/) (Boston Herald)
 
+- [CDC votes to limit measles, mumps, rubella and varicella vaccines](https://www.nydailynews.com/2025/09/18/cdc-panel-votes-limit-measles-mumps-rubella-chickenpox-vaccines-children/) (New York Daily News)
+
+- [CDC Panel Backs Limiting MMRV Vaccine for Young Kids](https://www.newser.com/story/375471/cdc-panel-backs-limiting-mmrv-vaccine-for-young-kids.html) (Newser)
+
 - [In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning (New York Times)](https://www.memeorandum.com/250919/p2) (Memeorandum.com)
+
+- [Kennedy’s advisory panel recommends new restrictions on MMRV vaccines](https://www.wpxi.com/news/local/kennedys-advisory-panel-recommends-new-restrictions-mmrv-vaccines/HE6KRTV62VA5JKOL54Q4POHMEA/) (WPXI Pittsburgh)
 
 - [CDC advisory panel recommends restricting access to the MMRV vaccine](https://www.nbcnews.com/health/kids-health/cdc-panel-measles-chickenpox-vaccine-recommendation-rcna231986) (NBC News)
 
@@ -2224,6 +2264,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
+- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
+
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2338,6 +2380,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
+- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
+
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2395,6 +2439,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2475,3 +2523,15 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
+
+- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
+
+- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
+
+- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
+
+- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)

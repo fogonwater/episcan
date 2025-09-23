@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-09-22 19:06",
-  "count_articles_total": 1040,
-  "count_articles_new": 6,
+  "last_updated": "2025-09-23 07:07",
+  "count_articles_total": 1066,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 24682,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Unvaccinated toddler dies of measles in Jerusalem",
+      "description": "Health Ministry reports third measles death since the start of the outbreak, signaling that between 3,000 and 4,000 people have been infected with the virus.",
+      "url": "https://www.israelnationalnews.com/news/415320",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1093530.jpg",
+      "publishedAt": "2025-09-22 07:00:30",
+      "content": "Israel's Health Ministry on Monday reported that an unvaccinated 16-month-old boy has died of measles, marking the third such death since the start of the outbreak earlier this year. The toddler die\u2026 [+1332 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.498026",
+      "internal_id": "8e7554ef703a84875aa3c6d7bbf42ca34e7eba8cb1d21343cbf99016f02f0780",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24694,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Sivrisinek kaynakl\u0131 'Chikungunya' \u00c7in\u2019de yay\u0131l\u0131yor: 3. seviye acil durum ilan edildi",
+      "description": "\u00c7in\u2019in Guangdong eyaletine ba\u011fl\u0131 Ciangm\u0131n \u015fehrinde sivrisinek kaynakl\u0131 Chikungunya ate\u015fi nedeniyle 1714 vaka tespit edildi. Yetkililer 3. seviye halk sa\u011fl\u0131\u011f\u0131 acil durumu ilan ederken, vakalar\u0131n tamam\u0131n\u0131n hafif seyretti\u011fi bildirildi.",
+      "url": "https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1099560838.jpg?10348797221758522785",
+      "publishedAt": "2025-09-22 06:32:12",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html Si\u2026 [+4536 chars]",
+      "retrievedAt": "2025-09-23 07:07:55.573035",
+      "internal_id": "0365e0e0d43a51925ae90e266b8d950a0652080495496b749b4d6a8c96d20757",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24683,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Unvaccinated toddler dies of measles",
+      "description": "A 16-month-old toddler who was not vaccinated for measles has died of the virus, Israel's Health Ministry reported.This is the third death since the start of the measles outbreak earlier this year.",
+      "url": "https://www.israelnationalnews.com/flashes/667008",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-09-22 06:26:02",
+      "content": "A 16-month-old toddler who was not vaccinated for measles has died of the virus, Israel's Health Ministry reported. This is the third death since the start of the measles outbreak earlier this year.",
+      "retrievedAt": "2025-09-23 07:07:53.573811",
+      "internal_id": "d150c00bb5929fe529b2835db00d745e6409fb1fbb50d3b1cff479d82e9d7033",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24693,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Natasha Gordon",
+      "title": "Three deaths from meningococcal meningitis reported in NZ in past five weeks",
+      "description": "Three of five confirmed cases in recent weeks have resulted in death.",
+      "url": "https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/RE2ZV5FXNFAKDJHB4YFBVPP35Q.jpg?auth=f04c2fecd428c22492bbb9d716e9fe1841bcf50ac11c8ea89bfc130d2211a7d8&width=1200&height=675&quality=70&focal=831%2C632&smart=false",
+      "publishedAt": "2025-09-22 05:15:08",
+      "content": "One of the cases was a Christchurch school student who fell ill with meningococcal disease days after attending a rugby tournament last month. Foundation chair Gerard Rushton said the cluster of ca\u2026 [+2225 chars]",
+      "retrievedAt": "2025-09-23 07:07:54.656048",
+      "internal_id": "a2fcbf3e48cb2d6e300e5d05918628e6fa0fc7e492db84d90780b74b04f4db17",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24678,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "AccuWeather.com",
+      "author": "AccuWeather",
+      "title": "The US Is Tracking 14 Potential Rabies Outbreaks in 20 States",
+      "description": "The CDC is tracking 14 potential outbreaks across 20 states. Here\u2019s what to know.",
+      "url": "https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668",
+      "urlToImage": "https://cms.accuweather.com/wp-content/uploads/2025/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZwbW8xcTMwMDAxM2I2bngzZ2t6dGVs-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZm16ZWtzbzAwOHYyNm5xOWF6cTh0aGY.jpg?w=768",
+      "publishedAt": "2025-09-22 03:41:58",
+      "content": "Published Sep 18, 2025 6:50 PM EDT | Updated Sep 18, 2025 6:50 PM EDT Rabies virions, dark and bullet-shaped, within an infected tissue sample are seen in an electron microscope image. (Photo Cred\u2026 [+8638 chars]",
+      "retrievedAt": "2025-09-23 07:07:52.987916",
+      "internal_id": "5d3faf12c9eaf8fbc15ff76c56f77671fe4b6c769e82a7f0034b4a864689ee84",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24679,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PT Jyothi Datta",
+      "title": "Communities & their dogs",
+      "description": "World Rabies Day theme shifts focus to community action, emphasising prevention, education, and collaboration for global rabies elimination.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/communities-their-dogs/article70068634.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jwcsxm/article70078146.ece/alternates/LANDSCAPE_1200/9865_10_9_2025_16_13_45_2_DSC_4568.JPG",
+      "publishedAt": "2025-09-22 01:03:00",
+      "content": "For the first time in its 19-year history, WRDs (World Rabies Day) theme does not include the word rabies, says the World Health Organization. This years WRD (September 28) theme Act now: you, me, co\u2026 [+2349 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.006724",
+      "internal_id": "84c55de96e8b3143ffae9d0292f8c72fe791fd5416a3861252a6aed153ade094",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 24680,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health updates: Rabid dog found in Homesh, northern Samaria",
+      "description": "A brown puppy, a few months old, found dead &#111;n a hill near Homesh, has been diagnosed as positive for rabies.Two people bitten by the dog were referred for rabies treatment. Additionally, approximately 30 others who were exposed have been sent to the hea\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/666983",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-09-21 21:47:24",
+      "content": "A brown puppy, a few months old, found dead on a hill near Homesh, has been diagnosed as positive for rabies. Two people bitten by the dog were referred for rabies treatment. Additionally, approxima\u2026 [+369 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.039944",
+      "internal_id": "2ad07d6fca62479507810037171d7ba07d90902036055d86c55ee431d6c50425",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24692,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "M\u00e9xico suma casi 10 mil contagios por dengue; 759 en la \u00faltima semana",
+      "description": "Patricia Rodr\u00edguez Calva Los casos de dengue siguen impactando al pa\u00eds, ya que solo tres entidades se han mantenido sin contagios: Ciudad de M\u00e9xico, Tlaxcala y Zacatecas. De hecho, la cifra acumulada de personas contagiadas aument\u00f3 a 9 mil 626, debido a q\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/09/21/3384010.jpg",
+      "publishedAt": "2025-09-21 19:45:44",
+      "content": "Los casos de dengue siguen impactando al pa\u00eds, ya que solo tres entidades se han mantenido sin contagios: Ciudad de M\u00e9xico, Tlaxcala y Zacatecas. De hecho, la cifra acumulada de personas contagiada\u2026 [+1387 chars]",
+      "retrievedAt": "2025-09-23 07:07:54.431665",
+      "internal_id": "db2feab19140293cbe982b9e5c76f69ac42ee2757d69b5c870c18e42383ba3d4",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24681,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Australia has been free of endemic measles since 2014, is that about to change?",
+      "description": "So far this year, there have been 121 measles notifications across Australia\u2013 the highest number since 2019, when there were 284 notifications.",
+      "url": "https://www.abc.net.au/news/2025-09-22/measles-cases-on-the-rise-australia-explainer/105799284",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/900893cd5bf5c171a23627067d8a6a96?impolicy=wcms_watermark_news&cropH=1800&cropW=3200&xPos=0&yPos=350&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-09-21 19:40:25",
+      "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.462203",
+      "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
+      "publishedAtLabel": "Sep 21"
+    },
     {
       "id": 24672,
       "query": [
@@ -112,6 +274,42 @@
       "publishedAtLabel": "Sep 21"
     },
     {
+      "id": 24688,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ksltv.com",
+      "author": "Jacob Freeman",
+      "title": "First measles case of the year confirmed in Cache County, state's 34th case",
+      "description": "A person was diagnosed with measles in Cache County, marking the county's first known case, health officials confirmed Saturday.",
+      "url": "https://ksltv.com/health/cache-county-measles/822069/",
+      "urlToImage": "https://ksltv.com/wp-content/uploads/2025/07/Measles_Outbreak_Explainer_94875-3.jpg",
+      "publishedAt": "2025-09-20 22:48:11",
+      "content": "FILE - A sign is seen outside a clinic with the South Plains Public Health District, Feb. 23, 2025, in Brownfield, Texas. (AP Photo/Julio Cortez, File) (AP Photo/Julio Cortez, File) SALT LAKE CITY \u2026 [+1165 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.641185",
+      "internal_id": "b2b12e0191fb4562343bf23b82333d63d697635c84a28015272481eaed412165",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 24687,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC 4",
+      "author": "Connor Comeau",
+      "title": "Health officials confirm measles case in Cache County",
+      "description": "Officials with the Bear River Health Department confirmed the first case of measles in Cache County on Friday.",
+      "url": "https://www.abc4.com/news/northern-utah/cache-county-measles-case/",
+      "urlToImage": "https://www.abc4.com/wp-content/uploads/sites/4/2024/02/Cache-County-Govt-Office.png?w=1280",
+      "publishedAt": "2025-09-20 21:27:11",
+      "content": "CACHE COUNTY, Utah (ABC4) Public health officials in Cache County confirmed its first case of measles on Friday. In a press release from the Bear River Health Department, they confirm the case of me\u2026 [+864 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.632502",
+      "internal_id": "0223fae1208739501427b3472117b4145387102c33c4a5dec0b54218c0143241",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
       "id": 24670,
       "query": [
         "chikungunya"
@@ -181,6 +379,24 @@
       "content": "Queensland's measles outbreak is growing with a third region reporting a case of the highly infectious virus. A rural town in central Queensland is the latest community affected, after a case was re\u2026 [+2911 chars]",
       "retrievedAt": "2025-09-21 19:05:40.305181",
       "internal_id": "1a33150b84eb21c5848c673418733a83f4c4719b2fd515f037742782db63ad6f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 24686,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Travelandtourworld.com",
+      "author": "Somudranil Sarkar",
+      "title": "Measles Alert Issued in Australia: Traveler from Indonesia Sparks Health Warning in Sydney - Travel And Tour World",
+      "description": "A measles alert has been issued for Sydney after a traveler from Indonesia tested positive. Locations and flights impacted have been listed by NSW Health.",
+      "url": "https://www.travelandtourworld.com/news/article/measles-alert-issued-in-australia-traveler-from-indonesia-sparks-health-warning-in-sydney/",
+      "urlToImage": "https://www.travelandtourworld.com/wp-content/uploads/2025/09/CHINA-JAPAN-3.jpg",
+      "publishedAt": "2025-09-20 08:25:00",
+      "content": "Published on September 20, 2025 A measles alert has been issued for Sydney after a traveler returning from Indonesia tested positive for the contagious disease. This warning, issued by NSW Health, \u2026 [+5886 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.623740",
+      "internal_id": "61b1ee74a19a8540a10da21d19215550e91c8f8dcd4228147632abcaa3186c45",
       "publishedAtLabel": "Sep 20"
     },
     {
@@ -474,6 +690,24 @@
       "publishedAtLabel": "Sep 19"
     },
     {
+      "id": 24689,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KOB",
+      "author": "Jonathan Fjeld",
+      "title": "Data: New Mexico measles vaccination rate rose during outbreak",
+      "description": "Measles vaccination rates are up significantly this year in New Mexico, compared to last year, according to data from the state Department of Health.",
+      "url": "https://www.kob.com/news/top-news/data-new-mexico-measles-vaccination-rate-rose-during-outbreak/",
+      "urlToImage": "https://www.kob.com/wp-content/uploads/2023/08/VACCINE-GENERIC.jpg",
+      "publishedAt": "2025-09-19 14:11:50",
+      "content": "SANTA FE, N.M. Measles vaccination rates are up significantly this year in New Mexico, compared to last year, according to data from the state Department of Health. After 38 weeks in 2025, 54,623 do\u2026 [+1338 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.649632",
+      "internal_id": "90f046f113e62ab50838d4fa7401a4ec07c3967803ad85dfa11860e77b28e657",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
       "id": 24655,
       "query": [
         "malaria"
@@ -562,6 +796,24 @@
       "content": "Les cas autochtones de maladies transmises par le moustique-tigre en m\u00e9tropole battent tous les records depuis le printemps : 484 de chikungunya et 21 de dengue au dernier comptage. La saison nest pa\u2026 [+1649 chars]",
       "retrievedAt": "2025-09-20 19:05:27.842333",
       "internal_id": "ac0e80b94a55f6d8499616bc4a10d2a70082dc004f6035414cf42069aa4ae558",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24691,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Suntimes.com",
+      "author": "Mike Stobbe | Ap",
+      "title": "Kennedy's advisory panel recommends new restrictions on MMRV vaccines",
+      "description": "The panel advises against giving the combination shot, which protects against chickenpox, measles, mumps, and rubella, before age 4. Instead, children should receive separate vaccines. Experts say the decision raises concerns about public confidence and acces\u2026",
+      "url": "https://chicago.suntimes.com/health/2025/09/19/kennedys-advisory-panel-recommends-new-restrictions-on-mmrv-vaccines",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/9ff31af/2147483647/strip/true/crop/3761x2147+0+184/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F4d%2F1b587f614ed4881c1d5d030c2802%2Fflorida-vaccines.jpg",
+      "publishedAt": "2025-09-19 13:46:20",
+      "content": "ATLANTA (AP) U.S. Health Secretary Robert F. Kennedy Jr.s hand-picked vaccine advisory committee on Thursday recommended the Centers for Disease Control and Prevention adopt new restrictions on a com\u2026 [+8581 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.666748",
+      "internal_id": "a2303203a6d9a8f6923d18fd22b24f654e2cb55ab8f09e898ffe1e66505604ea",
       "publishedAtLabel": "Sep 19"
     },
     {
@@ -655,6 +907,42 @@
       "publishedAtLabel": "Sep 19"
     },
     {
+      "id": 24690,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New York Daily News",
+      "author": "David Matthews",
+      "title": "CDC votes to limit measles, mumps, rubella and varicella vaccines",
+      "description": "A CDC advisory panel voted Thursday to limit the availability of a combined shot for measles, mumps, rubella and varicella, the virus that causes chicken pox for children.",
+      "url": "https://www.nydailynews.com/2025/09/18/cdc-panel-votes-limit-measles-mumps-rubella-chickenpox-vaccines-children/",
+      "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/08/shutterstock_147558686.jpg?w=1024&h=720",
+      "publishedAt": "2025-09-19 07:13:37",
+      "content": "A CDC advisory panel voted Thursday to limit the availability of a combined shot for measles, mumps, rubella and varicella, the virus that causes chicken pox for children.",
+      "retrievedAt": "2025-09-23 07:07:53.658130",
+      "internal_id": "00e813e4503da986208975e7fc5b82d7491e0ebc642a9419897a5422978abeeb",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24684,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Evann Gastaldo with Newser.AI",
+      "title": "CDC Panel Backs Limiting MMRV Vaccine for Young Kids",
+      "description": "A CDC advisory panel voted Thursday to alter its stance on the MMRV vaccine, which combines the measles, mumps, rubella (MMR) vaccine with a varicella, or chickenpox, vaccine. The group suggested that children under 4 should not routinely receive the combo sh\u2026",
+      "url": "https://www.newser.com/story/375471/cdc-panel-backs-limiting-mmrv-vaccine-for-young-kids.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1635092-12-20250919021652.jpeg",
+      "publishedAt": "2025-09-19 07:00:00",
+      "content": "A CDC advisory panel voted Thursday to alter its stance on the MMRV vaccine, which combines the measles, mumps, rubella (MMR) vaccine with a varicella, or chickenpox, vaccine. The group suggested tha\u2026 [+1568 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.605566",
+      "internal_id": "084d728496e28a96b21b50aa4eb625f9939b7bdb86608c02d9ec6167fa1fd93e",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
       "id": 24631,
       "query": [
         "measles"
@@ -670,6 +958,24 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-09-20 07:06:16.576614",
       "internal_id": "6cfd958906d647fdf7235786216c635d1396459f151912091984c52dcd584038",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 24685,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPXI Pittsburgh",
+      "author": "Associated Press",
+      "title": "Kennedy\u2019s advisory panel recommends new restrictions on MMRV vaccines",
+      "description": "U.S. Health Secretary Robert F. Kennedy Jr.\u2019s hand-picked vaccine advisory committee on Thursday recommended the Centers for Disease Control and Prevention adopt new restrictions on a combination shot that protects against chickenpox as well as measles, mumps\u2026",
+      "url": "https://www.wpxi.com/news/local/kennedys-advisory-panel-recommends-new-restrictions-mmrv-vaccines/HE6KRTV62VA5JKOL54Q4POHMEA/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNCVB6DQPPXDLDT57JBUVRDQX5Y.jpg?auth=cecdd67db98244457e5b3e392631fda7d543f1bd5f24a8e0f6bd2203473eb604&width=1200&height=630&smart=true",
+      "publishedAt": "2025-09-19 03:00:52",
+      "content": "ATLANTA \u2014 U.S. Health Secretary Robert F. Kennedy Jr.s hand-picked vaccine advisory committee on Thursday recommended the Centers for Disease Control and Prevention adopt new restrictions on a combin\u2026 [+6840 chars]",
+      "retrievedAt": "2025-09-23 07:07:53.614141",
+      "internal_id": "c7a58fce5e38ff44d4a1e48d7b4073be72d546d9014b879ba5070cb10d9f20af",
       "publishedAtLabel": "Sep 19"
     },
     {
@@ -18823,6 +19129,169 @@
       "content": "Debido a que tan solo en una semana se confirmaron 333 nuevos casos de dengue, en lo que va del a\u00f1o el pa\u00eds ya sum\u00f3 un total de 6 mil 030 contagios. De acuerdo al panorama epidemiol\u00f3gico del dengue c\u2026 [+1492 chars]",
       "retrievedAt": "2025-08-12 07:08:38.130588",
       "internal_id": "27d2ba5d4e7cd3c291feec080cbe9f5efb254ca9847388b542792c66e551a204",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23629,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin with Newser.AI",
+      "title": "Coyote Chases, Bites Boy at Softball Game",
+      "description": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Carson on Monday when a coyote began to chase him. The boy trip\u2026",
+      "url": "https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1627341-12-20250810124502.jpeg",
+      "publishedAt": "2025-08-10 17:45:00",
+      "content": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Car\u2026 [+277 chars]",
+      "retrievedAt": "2025-08-11 19:07:20.925092",
+      "internal_id": "95fdba2aa8a816da260b8e18152a07826acb0dd00abc545888479e7ecca6b3e3",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23631,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Only lab tests can confirm chikungunya infection",
+      "description": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3460990.jpg",
+      "publishedAt": "2025-08-10 16:00:00",
+      "content": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. While one may assume it is a dengue infection, there is also debilitatin\u2026 [+1545 chars]",
+      "retrievedAt": "2025-08-11 19:07:22.473626",
+      "internal_id": "efdb8a7e7e26c87cd717c847ded83a2fc394e7ef722e6f6c11ff2679568c904b",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23635,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "GERARD GIMINO, JUNAID IBRAHIM, TARRENCE TAN",
+      "title": "Experts: Don\u2019t let your guard down",
+      "description": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3461188.jpg",
+      "publishedAt": "2025-08-10 16:00:00",
+      "content": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. However, they say Malay\u2026 [+121 chars]",
+      "retrievedAt": "2025-08-11 19:07:24.038799",
+      "internal_id": "399706a7bc9738b5395b722b626fed8dafce76f112f8445ebc09ac9c74f42a32",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Hugo C\u00e9sar Marques",
+      "title": "O mist\u00e9rio da casa \u2018mal-assombrada\u2019 de um ex-senador em Bras\u00edlia",
+      "description": "Resid\u00eancia, que est\u00e1 fechada h\u00e1 18 anos, j\u00e1 motivou at\u00e9 abaixo-assinado de moradores assustados com barulhos, vultos e dengue",
+      "url": "https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/08/CASA-ACM.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-08-10 14:48:07",
+      "content": "Dia dos Pais: Revista em casa por 7,50/semanaA casa abandonada em \u00e1rea nobre de Bras\u00edlia - (Hugo Marques/VEJA) Continua ap\u00f3s publicidade Uma casa localizada em um bairro nobre de Bras\u00edlia chama a \u2026 [+2059 chars]",
+      "retrievedAt": "2025-08-11 19:07:22.405872",
+      "internal_id": "14bb3df5199d852276bf8f370a2b035e4d755805f2a459a6b2e2e195d8851d44",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23637,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tv9gujarati.com",
+      "author": "Tv9 Gujarati",
+      "title": "\u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0a95\u0acb\u0aaa: \u0aae\u0aa7\u0ab0\u0abe\u0aa4\u0ac7 \u0ab2\u0ac7\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7 \u0aac\u0acd\u0ab2\u0aa1 \u0ab8\u0ac7\u0aae\u0acd\u0aaa\u0ab2, \u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acb\u0ab0\u0acb\u0aa8\u0abe \u0a9c\u0ac7\u0ab5\u0abe \u0a95\u0aa1\u0a95 \u0aaa\u0a97\u0ab2\u0abe\u0a82; \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a95\u0ac7\u0ab8 \u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0abe",
+      "description": "Chikungunya Outbreak In China: \u0a9a\u0ac0\u0aa8\u0aa8\u0abe \u0a98\u0aa3\u0abe \u0ab6\u0ab9\u0ac7\u0ab0\u0acb\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe \u0ab0\u0acb\u0a97\u0aa8\u0abe \u0a95\u0ac7\u0ab8 \u0a9d\u0aa1\u0aaa\u0aa5\u0ac0 \u0ab5\u0aa7\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7, \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0ab2\u0acb\u0a95\u0acb \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0acb \u0aad\u0acb\u0a97 \u0aac\u0aa8\u0acd\u0aaf\u0abe \u0ab9\u0acb\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0ab3\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7. \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0ac7 \u0a95\u0abe\u0ab0\u0aa3\u0ac7 \u0aae\u0acb\u0a9f\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82 \u0ab2\u0acb\u0a95\u0acb\u0aa8\u0ac7 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ab5\u0abe \u0aaa\u0aa1\u0acd\u0aaf\u0abe \u0a9b\u0ac7.",
+      "url": "https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html",
+      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2025/08/chine-1.jpg",
+      "publishedAt": "2025-08-10 13:31:26",
+      "content": ". . , . ? , . , , . . , 90 . . , 8,000 . , , . , , . , , . 4 , COVID-19 \u201c-COVID\u201d . . . 10,000 . , . . (CDC) -2 , , . . (WHO) 2004-05 , 119 5.6 .",
+      "retrievedAt": "2025-08-11 19:07:24.101982",
+      "internal_id": "62f447c54b1f8d8d38182063ee52cdfdfef7bd07d609fc9917c986ef373c1139",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23633,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Autor Redacci\u00f3n",
+      "title": "China confirma un brote con m\u00e1s de 7.000 casos de chikungunya y la r\u00e1pida propagaci\u00f3n del virus",
+      "description": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la preocupaci\u00f3n internacional por la r\u00e1pida propagaci\u00f3n del viru\u2026",
+      "url": "https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/05/02/626f816f31b2b.r_d.1337-948-0.jpeg",
+      "publishedAt": "2025-08-10 12:41:11",
+      "content": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la p\u2026 [+2274 chars]",
+      "retrievedAt": "2025-08-11 19:07:23.767264",
+      "internal_id": "1058c29c431101983d3a9dfe36e913c786cbf8aa571590b6583e610785b8fadb",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23636,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Kevesko.vn",
+      "author": "Sputnik Vi\u1ec7t Nam",
+      "title": "D\u1ecbch Chikungunya b\u00f9ng ph\u00e1t \u1edf Trung Qu\u1ed1c, Vi\u1ec7t Nam c\u1ea3nh b\u00e1o kh\u1ea9n",
+      "description": "T\u1ea1i t\u1ec9nh Qu\u1ea3ng \u0110\u00f4ng (Trung Qu\u1ed1c) \u0111\u00e3 ghi nh\u1eadn h\u01a1n 7.000 ca m\u1eafc Chikungunya, l\u00e0 \u0111\u1ee3t d\u1ecbch l\u1edbn nh\u1ea5t t\u1eeb tr\u01b0\u1edbc t\u1edbi nay \u1edf khu v\u1ef1c n\u00e0y. V\u1edbi kh\u00ed h\u1eadu nhi\u1ec7t \u0111\u1edbi \u1ea9m v\u00e0 m\u1eadt \u0111\u1ed9 mu\u1ed7i cao, Vi\u1ec7t Nam c\u00f3 nguy c\u01a1 l\u1edbn n\u1ebfu d\u1ecbch x\u00e2m nh\u1eadp.",
+      "url": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html",
+      "urlToImage": "https://cdn.img.kevesko.vn/images/sharing/article/vie/37636514.jpg?376367051754828059",
+      "publishedAt": "2025-08-10 12:14:18",
+      "content": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc, Vit Nam cnh b\u00e1o khn Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc\u2026 [+7428 chars]",
+      "retrievedAt": "2025-08-11 19:07:24.055373",
+      "internal_id": "b621582129132d4ec9345b0ef63eb5fbbfd79115d3b0cb0641a9ff821d97a3c2",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23634,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Ella Scott",
+      "title": "Everything we know about Chikungunya virus as China locks down patients after it spread to other countries",
+      "description": "The Chikungunya virus has spread to parts of Europe, Asia, Africa and the Americas after thousands of cases were reported in a Chinese province.",
+      "url": "https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc82bb46a51bb0158/6898700f3266ed126fa68844/Screenshot_2025-08-10_at_09.40.51.png",
+      "publishedAt": "2025-08-10 10:38:40",
+      "content": "Chikungunya virus (CHIKV) is spreading like wildfire across Chinese cities, with health organisations reporting people in Europe, Africa, the Americas and other parts of Asia also coming down with th\u2026 [+4467 chars]",
+      "retrievedAt": "2025-08-11 19:07:23.898382",
+      "internal_id": "8c1f3e1f3d39208d611364363a61a7d429c7e7a1186f9a049b59a475d3cf8ddb",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23632,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Jak skutecznie unika\u0107 uk\u0105sze\u0144 komar\u00f3w i cieszy\u0107 si\u0119 latem bez sw\u0119dzenia?",
+      "description": "Nasza podatno\u015b\u0107 na ataki komar\u00f3w wynika g\u0142\u00f3wnie z genetyki, ale odpowiednie wybory mog\u0105 znacznie ograniczy\u0107 liczb\u0119 uk\u0105sze\u0144. Odpowiednia odzie\u017c, rezygnacja z pachn\u0105cych kosmetyk\u00f3w i utrzymywanie czysto\u015bci wok\u00f3\u0142 domu to skuteczne strategie. A warto pami\u0119ta\u0107, \u017ce\u2026",
+      "url": "https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683",
+      "urlToImage": "https://i.iplsc.com/-/000JPBHS8GP4I9QV-C461.jpg",
+      "publishedAt": "2025-08-10 09:00:01",
+      "content": "Szacuje si, e komary zabijaj ponad milion os\u00f3b rocznie, g\u00f3wnie przez przenoszenie takich chor\u00f3b, jak malaria. Te owady podaj za ludmi niemal wszdzie, gryzc nas i zakaajc. Istniej jednak pewne sposoby\u2026 [+2546 chars]",
+      "retrievedAt": "2025-08-11 19:07:23.001487",
+      "internal_id": "513735864904d86d9270de76088c041cc179700c344434b0f0fb29271ea69e35",
       "publishedAtLabel": "Aug 10"
     }
   ]
