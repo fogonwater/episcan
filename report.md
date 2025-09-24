@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 10
-- **Last harvest:** 2025-09-23 19:06
-- **Most recent article:** 2025-09-22 18:15:07
+- **Last harvest:** 2025-09-24 07:07
+- **Most recent article:** 2025-09-23 07:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
+| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 7 | 258 |
 | measles | 25 | 50 | 33 | 45 | 39 | 54 | 7 | 253 |
-| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 5 | 250 |
-| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 4 | 194 |
-| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 4 | 103 |
-| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 1 | 90 |
-| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 2 | 89 |
+| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 5 | 197 |
+| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 5 | 105 |
+| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 6 | 94 |
+| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 3 | 92 |
 | h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 1 | 47 |
+| zika | 9 | 7 | 8 | 4 | 6 | 6 | 1 | 41 |
 | meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 1 | 40 |
-| zika | 9 | 7 | 8 | 4 | 6 | 6 | 0 | 40 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 0 | 33 |
+| hpai | 0 | 1 | 1 | 1 | 4 | 1 | 1 | 9 |
 | typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 0 | 8 |
 | pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 0 | 8 |
-| hpai | 0 | 1 | 1 | 1 | 4 | 1 | 0 | 8 |
 | leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 0 | 6 |
 
 
@@ -32,7 +32,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-39 (zika)
+
+- [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
+
 ## 25-39 (rabies)
+
+- [China Medical System (867.HK; 8A8.SG) Signed Collaboration Agreements for Two Innovative Biologics Used for Passive Immunization Against Tetanus and Rabies](https://www.globenewswire.com/news-release/2025/09/23/3154384/0/en/China-Medical-System-867-HK-8A8-SG-Signed-Collaboration-Agreements-for-Two-Innovative-Biologics-Used-for-Passive-Immunization-Against-Tetanus-and-Rabies.html) (GlobeNewswire)
 
 - [Health officials urge rabies prevention after rabid bat found in Shawano County](https://fox11online.com/news/local/health-officials-urge-rabies-prevention-after-rabid-bat-found-in-shawano-county-green-valley-pet-skunks-bite-wild-wisconsin) (Fox11online.com)
 
@@ -43,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [Ministry of Health updates: Rabid dog found in Homesh, northern Samaria](https://www.israelnationalnews.com/flashes/666983) (Israelnationalnews.com)
 
 ## 25-39 (mpox)
+
+- [Moçambique. Tete regista primeiro caso de Mpox](https://observador.pt/2025/09/22/tete-regista-primeiro-caso-de-mpox-e-eleva-total-para-82-em-mocambique/) (Observador.pt)
+
+- [Zambezi health on alert over Mpox, Cholera in Zambia](https://nbcnews.na/node/112952) (Nbcnews.na)
 
 - [La OMS informa de que el 90% de los nuevos casos notificados de mpox se concentran en África](https://www.infosalus.com/salud-investigacion/noticia-oms-informa-90-nuevos-casos-notificados-mpox-concentran-africa-20250922124726.html) (Infosalus.com)
 
@@ -68,15 +78,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (malaria)
 
+- [Bill Gates pledges $912 million to health aid, urging countries to reverse cuts](https://www.japantimes.co.jp/news/2025/09/23/world/science-health/bill-gates-global-disease-governments/) (The Japan Times)
+
+- [Bill Gates pledges $US912 million to AIDS and malaria non-profit as US cuts funding](https://www.abc.net.au/news/2025-09-23/bill-gates-foundation-pleaged-millions-to-global-fund/105806406) (ABC News (AU))
+
+- [Bill Gates pledges $912 million to global disease fight; urges governments to step up](https://japantoday.com/category/world/bill-gates-pledges-912-million-to-global-disease-fight-urges-governments-to-step-up) (Japan Today)
+
+- [Bill Gates pledges $912 million to global disease fight, urges governments to step up](https://www.thestar.com.my/news/world/2025/09/23/bill-gates-pledges-912-million-to-global-disease-fight-urges-governments-to-step-up) (The Star Online)
+
 - [Malaria: Developing Drugs for Treatment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/malaria-developing-drugs-treatment) (FDA.gov)
 
 - [La ciencia lo confirma: la cerveza sí hace más atractivas a las personas... pero para los mosquitos](https://www.xataka.com.mx/investigacion/ciencia-confirma-cerveza-hace-atractivas-a-personas-para-mosquitos) (Xataka.com.mx)
+
+## 25-39 (hpai)
+
+- [Bird Flu Is Back In The U.S.? 400,000 Turkeys Killed](https://www.shtfplan.com/headline-news/bird-flu-is-back-in-the-u-s-400000-turkeys-killed) (Shtfplan.com)
 
 ## 25-39 (h5n1)
 
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
 ## 25-39 (dengue)
+
+- [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
 
 - [Impact of temperature and imported cases on the spread and control of dengue fever: Case study of 2019 dengue fever epidemic in Guangzhou and Jinghong cities, China](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013472) (Plos.org)
 
@@ -87,6 +111,10 @@ Source: [News API](https://newsapi.org/)
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
+
+- [Six cases of chikungunya reported in Chitwan](https://english.khabarhub.com/2025/23/497763/) (Khabarhub.com)
 
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
@@ -2286,6 +2314,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
+- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
+
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2400,6 +2430,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
+- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
+
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2457,6 +2489,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2537,3 +2573,15 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
+
+- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
+
+- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
+
+- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
+
+- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
