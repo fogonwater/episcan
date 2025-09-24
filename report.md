@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-09-24 07:07
-- **Most recent article:** 2025-09-23 07:00:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-09-24 19:06
+- **Most recent article:** 2025-09-23 16:54:28
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 7 | 258 |
-| measles | 25 | 50 | 33 | 45 | 39 | 54 | 7 | 253 |
-| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 5 | 197 |
-| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 5 | 105 |
-| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 6 | 94 |
-| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 3 | 92 |
+| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 10 | 255 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 8 | 254 |
+| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 9 | 199 |
+| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 5 | 104 |
+| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 9 | 96 |
+| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 6 | 95 |
 | h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 1 | 47 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 1 | 41 |
 | meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 1 | 40 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 0 | 33 |
+| typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 2 | 10 |
 | hpai | 0 | 1 | 1 | 1 | 4 | 1 | 1 | 9 |
-| typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 0 | 8 |
 | pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 0 | 8 |
-| leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 0 | 6 |
+| leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 1 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -35,6 +35,12 @@ Source: [News API](https://newsapi.org/)
 ## 25-39 (zika)
 
 - [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
+
+## 25-39 (typhoid)
+
+- [Cubana Chiefpriest Dragged Over N700k Meds He Purchased for Malaria and Typhoid: “He Will Be Back”](https://www.legit.ng/entertainment/celebrities/1675405-cubana-chiefpriest-dragged-n700k-meds-purchased-malaria-typhoid/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
+
+- [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
 
 ## 25-39 (rabies)
 
@@ -50,6 +56,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (mpox)
 
+- [Madrid detecta el primer caso de viruela del mono de tipo clado 1b](https://www.libertaddigital.com/madrid/2025-09-23/madrid-detecta-el-primer-caso-de-viruela-del-mono-de-tipo-clado-b1-7299268/) (Libertaddigital.com)
+
+- [Madrid detecta el primer caso importado de viruela del mono 1b: viajó a Tanzania y tuvo relaciones sexuales de riesgo](https://www.elespanol.com/madrid/comunidad/20250923/madrid-detecta-primer-caso-importado-viruela-mono-viajo-tanzania-relaciones-sexuales-riesgo/1003743937386_0.html) (Elespanol.com)
+
+- [Desarrollan materiales contra el virus causante de la mpox con una eficacia de hasta el 94,45%](https://www.infosalus.com/salud-investigacion/noticia-desarrollan-materiales-contra-virus-causante-mpox-eficacia-9445-20250923123927.html) (Infosalus.com)
+
 - [Moçambique. Tete regista primeiro caso de Mpox](https://observador.pt/2025/09/22/tete-regista-primeiro-caso-de-mpox-e-eleva-total-para-82-em-mocambique/) (Observador.pt)
 
 - [Zambezi health on alert over Mpox, Cholera in Zambia](https://nbcnews.na/node/112952) (Nbcnews.na)
@@ -61,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [Three deaths from meningococcal meningitis reported in NZ in past five weeks](https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/) (New Zealand Herald)
 
 ## 25-39 (measles)
+
+- [Measles and Mumps Are Great, but Don’t Overlook the Awesomeness of Congenital Rubella Syndrome](https://www.mcsweeneys.net/articles/measles-and-mumps-are-great-but-dont-overlook-the-awesomeness-of-congenital-rubella-syndrome) (Mcsweeneys.net)
 
 - [Measles outbreak growing in parts of Arizona and Utah, health officials say](https://www.nbcnews.com/health/health-news/measles-outbreak-utah-arizona-vaccines-data-schools-rcna232399) (NBC News)
 
@@ -78,6 +92,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (malaria)
 
+- [Sudan, malaria tifo e dengue travolgono gli ospedali di Khartoum](https://www.ansa.it/sito/notizie/topnews/2025/09/23/sudan-malaria-tifo-e-dengue-travolgono-gli-ospedali-di-khartoum_2f750202-a742-42db-a9a5-dbc8b8d13cb2.html) (ANSA.it)
+
+- [Cubana Chiefpriest Dragged Over N700k Meds He Purchased for Malaria and Typhoid: “He Will Be Back”](https://www.legit.ng/entertainment/celebrities/1675405-cubana-chiefpriest-dragged-n700k-meds-purchased-malaria-typhoid/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
+
+- [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
+
 - [Bill Gates pledges $912 million to health aid, urging countries to reverse cuts](https://www.japantimes.co.jp/news/2025/09/23/world/science-health/bill-gates-global-disease-governments/) (The Japan Times)
 
 - [Bill Gates pledges $US912 million to AIDS and malaria non-profit as US cuts funding](https://www.abc.net.au/news/2025-09-23/bill-gates-foundation-pleaged-millions-to-global-fund/105806406) (ABC News (AU))
@@ -90,6 +110,10 @@ Source: [News API](https://newsapi.org/)
 
 - [La ciencia lo confirma: la cerveza sí hace más atractivas a las personas... pero para los mosquitos](https://www.xataka.com.mx/investigacion/ciencia-confirma-cerveza-hace-atractivas-a-personas-para-mosquitos) (Xataka.com.mx)
 
+## 25-39 (leptospirosis)
+
+- [Anti-inflammatory cytokine profile and Jarisch-Herxheimer reaction in Leptospirosis patients: A prospective case-series study in New Caledonia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013189) (Plos.org)
+
 ## 25-39 (hpai)
 
 - [Bird Flu Is Back In The U.S.? 400,000 Turkeys Killed](https://www.shtfplan.com/headline-news/bird-flu-is-back-in-the-u-s-400000-turkeys-killed) (Shtfplan.com)
@@ -99,6 +123,14 @@ Source: [News API](https://newsapi.org/)
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
 ## 25-39 (dengue)
+
+- [Sudan, malaria tifo e dengue travolgono gli ospedali di Khartoum](https://www.ansa.it/sito/notizie/topnews/2025/09/23/sudan-malaria-tifo-e-dengue-travolgono-gli-ospedali-di-khartoum_2f750202-a742-42db-a9a5-dbc8b8d13cb2.html) (ANSA.it)
+
+- [Santé. Les lâchers de moustiques sont-ils efficaces contre la dengue et le chikungunya ?](https://www.leprogres.fr/magazine-sante/2025/09/23/les-lachers-de-moustiques-sont-ils-efficaces-contre-la-dengue-et-le-chikungunya) (Le Progrès)
+
+- [Nuovo caso di Dengue a Trieste, venerdì la disinfestazione](https://www.ansa.it/friuliveneziagiulia/notizie/2025/09/23/nuovo-caso-di-dengue-a-trieste-venerdi-la-disinfestazione_a1f25a68-45f8-4fe5-9e27-9c6d65f9e83d.html) (ANSA.it)
+
+- [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
 
 - [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
 
@@ -111,6 +143,12 @@ Source: [News API](https://newsapi.org/)
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Santé. Les lâchers de moustiques sont-ils efficaces contre la dengue et le chikungunya ?](https://www.leprogres.fr/magazine-sante/2025/09/23/les-lachers-de-moustiques-sont-ils-efficaces-contre-la-dengue-et-le-chikungunya) (Le Progrès)
+
+- [Chikungunya: nuovo caso a Verona, al via disinfestazioni](https://www.ansa.it/veneto/notizie/2025/09/23/chikungunya-nuovo-caso-a-verona-al-via-disinfestazioni_6e1c8831-8fb8-4396-b722-c36b2c1c3f52.html) (ANSA.it)
+
+- ["J'ai eu de la fièvre et mal à la tête" : plus de 100 cas de chikungunya recensés à Antibes, le plus gros foyer jamais répertorié en métropole](https://www.franceinfo.fr/replay-radio/le-billet-vert/j-ai-eu-de-la-fievre-et-mal-a-la-tete-plus-de-100-cas-de-chikungunya-recenses-a-antibes-le-plus-gros-foyer-jamais-repertorie-en-france_7507528.html) (Franceinfo.fr)
 
 - [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
 
@@ -2314,8 +2352,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
-- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
-
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2430,8 +2466,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
-- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
-
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2489,10 +2523,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2573,15 +2603,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
-
-- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
-
-- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
-
-- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
-
-- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
