@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-09-25 07:08
-- **Most recent article:** 2025-09-24 03:59:55
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-09-25 19:06
+- **Most recent article:** 2025-09-24 18:13:28
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 10 | 261 |
-| measles | 25 | 50 | 33 | 45 | 39 | 54 | 10 | 256 |
-| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 9 | 201 |
-| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 5 | 105 |
-| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 11 | 99 |
+| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 17 | 262 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 12 | 258 |
+| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 13 | 203 |
+| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 6 | 105 |
+| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 11 | 98 |
 | mpox | 7 | 5 | 7 | 58 | 7 | 5 | 6 | 95 |
-| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 2 | 48 |
+| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 3 | 49 |
+| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 2 | 41 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 1 | 41 |
-| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 1 | 40 |
-| yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 0 | 33 |
-| typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 2 | 10 |
+| yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 1 | 34 |
+| typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 3 | 11 |
 | hpai | 0 | 1 | 1 | 1 | 4 | 1 | 1 | 9 |
 | pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 0 | 8 |
 | leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 1 | 7 |
@@ -36,13 +36,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Los virus también viajan en verano: la nanotecnología y la IA en la lucha contra las enfermedades transmitidas por mosquitos](https://www.muyinteresante.com/fundacion/categoria-salud/nanotecnologia-ia-virus-mosquitos.html) (Muyinteresante.com)
 
+## 25-39 (yersinia)
+
+- [T6SS4 is heterogeneously expressed in Yersinia pseudotuberculosis and is a target for transcriptional and post-transcriptional regulation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013356) (Plos.org)
+
 ## 25-39 (typhoid)
+
+- [The Empty Pockets – Gotta Find the Moon (2023)](https://post.rlsbb.to/the-empty-pockets-gotta-find-the-moon-2023/) (Rlsbb.to)
 
 - [Cubana Chiefpriest Dragged Over N700k Meds He Purchased for Malaria and Typhoid: “He Will Be Back”](https://www.legit.ng/entertainment/celebrities/1675405-cubana-chiefpriest-dragged-n700k-meds-purchased-malaria-typhoid/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
 
 - [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
 
 ## 25-39 (rabies)
+
+- [First rabies case of 2025 confirmed in Stanly County, health officials warn](https://www.wsoctv.com/news/local/first-rabies-case-2025-confirmed-stanly-county-health-officials-warn/3TAKIYMOKJCYHGT6VQ7TE5KYTU/) (WSOC Charlotte)
 
 - [China Medical System (867.HK; 8A8.SG) Signed Collaboration Agreements for Two Innovative Biologics Used for Passive Immunization Against Tetanus and Rabies](https://www.globenewswire.com/news-release/2025/09/23/3154384/0/en/China-Medical-System-867-HK-8A8-SG-Signed-Collaboration-Agreements-for-Two-Innovative-Biologics-Used-for-Passive-Immunization-Against-Tetanus-and-Rabies.html) (GlobeNewswire)
 
@@ -70,9 +78,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (meningitis)
 
+- [Blood, bruises and belief: how England’s women’s rugby team embody physical and mental endurance](https://theconversation.com/blood-bruises-and-belief-how-englands-womens-rugby-team-embody-physical-and-mental-endurance-264800) (The Conversation Africa)
+
 - [Three deaths from meningococcal meningitis reported in NZ in past five weeks](https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/) (New Zealand Herald)
 
 ## 25-39 (measles)
+
+- [US Measles Cases Hit 1,514 on Fresh Outbreaks in Utah, Arizona (Jessica Nix/Bloomberg)](https://www.memeorandum.com/250924/p79) (Memeorandum.com)
+
+- [I Don't Know How Else To Explain That You Should Vaccinate Your Kids](https://www.huffpost.com/entry/measles-exposure-anti-vaccine-movement_n_68d1bba8e4b03c190c21c872) (HuffPost)
 
 - [Manitoba Health warns of possible measles exposure at Winkler sites, including high school](https://www.cbc.ca/news/canada/manitoba/winkler-measles-exposure-sites-1.7641743) (CBC News)
 
@@ -128,11 +142,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (h5n1)
 
+- [Leche cruda y gripe aviar: qué dicen los expertos sobre los riesgos para la salud](https://www.gastronomiaycia.com/leche-cruda-y-gripe-aviar-que-dicen-los-expertos-sobre-los-riesgos-para-la-salud/) (Gastronomiaycia.com)
+
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
 ## 25-39 (dengue)
+
+- [Mosquito transmissor do dengue detetado na Covilhã](https://observador.pt/2025/09/24/mosquito-transmissor-do-dengue-detetado-na-covilha/) (Observador.pt)
+
+- [Dengue assola Sudão conforme infraestrutura é afetada pela guerra](https://www.terra.com.br/noticias/mundo/dengue-assola-sudao-conforme-infraestrutura-e-afetada-pela-guerra,e0a7cf28b29cc5ff6fa9431a00444d3561cfuwdn.html) (Terra.com.br)
+
+- [Dengue fever ravages Sudan as infrastructure battered by war](https://www.thestar.com.my/news/world/2025/09/24/dengue-fever-ravages-sudan-as-infrastructure-battered-by-war) (The Star Online)
+
+- [Se trabaja fuerte contra el dengue en Guaymas: Alcaldesa Karla Córdova González](https://www.tribuna.com.mx/sonora/2025/9/24/se-trabaja-fuerte-contra-el-dengue-en-guaymas-alcaldesa-karla-cordova-gonzalez-414458.html) (Tribuna.com.mx)
 
 - [Sudan, malaria tifo e dengue travolgono gli ospedali di Khartoum](https://www.ansa.it/sito/notizie/topnews/2025/09/23/sudan-malaria-tifo-e-dengue-travolgono-gli-ospedali-di-khartoum_2f750202-a742-42db-a9a5-dbc8b8d13cb2.html) (ANSA.it)
 
@@ -153,6 +177,20 @@ Source: [News API](https://newsapi.org/)
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Alerte inédite au chikungunya à Antibes : 103 cas au 23 septembre](https://sante.ouest-france.fr/maladies/chikungunya/103-cas-au-23-septembre-une-alerte-inedite-au-chikungunya-a-antibes-78c1c018-9948-11f0-bc84-9e08c570c0db) (Ouest-France)
+
+- [Chikungunya : C’est quoi ce SMS d’alerte reçu mercredi matin par les habitants d’Antibes ?](https://www.20minutes.fr/sante/4175003-20250924-chikungunya-quoi-sms-alerte-recu-matin-habitants-antibes) (20 Minutes)
+
+- [Chikungunya : une alerte SMS lancée après une centaine de cas recensés](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-une-alerte-sms-lancee-apres-une-centaine-de-cas-recenses_7511227.html) (Franceinfo.fr)
+
+- [Peste 500 de infecții cu Chikungunya în Franța. Un nivel fără precedent](https://www.mediafax.ro/sanatate/peste-500-de-infectii-cu-chikungunya-in-franta-un-nivel-fara-precedent-23615288) (Mediafax.ro)
+
+- [Chikungunia e altre malattie trasmesse da vettori, 59 focolai](https://www.ansa.it/veneto/notizie/2025/09/24/chikungunia-e-altre-malattie-trasmesse-da-vettori-59-focolai_9d667fc6-b4ed-48f9-881a-231b25d5926b.html) (ANSA.it)
+
+- [Prolifération des cas de Chikungunya à Antibes : la préfecture active le dispositif FR-Alert](https://sante.ouest-france.fr/maladies/chikungunya/proliferation-des-cas-de-chikungunya-a-antibes-la-prefecture-active-le-dispositif-fr-alert-2ff63cc0-9938-11f0-8965-aef2a73564d9) (Ouest-France)
+
+- [Avec 570 cas au 22 septembre, les contaminations par le chikungunya grimpent encore dans l'Hexagone](https://www.franceinfo.fr/sante/maladie/chikungunya/avec-570-cas-au-22-septembre-les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone_7511002.html) (Franceinfo.fr)
 
 - [Santé. Les lâchers de moustiques sont-ils efficaces contre la dengue et le chikungunya ?](https://www.leprogres.fr/magazine-sante/2025/09/23/les-lachers-de-moustiques-sont-ils-efficaces-contre-la-dengue-et-le-chikungunya) (Le Progrès)
 
@@ -2362,8 +2400,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
-- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
-
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2478,8 +2514,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
-- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
-
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2537,10 +2571,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2621,15 +2651,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
-
-- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
-
-- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
-
-- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
-
-- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
