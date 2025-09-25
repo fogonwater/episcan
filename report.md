@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-09-24 19:06
-- **Most recent article:** 2025-09-23 16:54:28
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-09-25 07:08
+- **Most recent article:** 2025-09-24 03:59:55
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 10 | 255 |
-| measles | 25 | 50 | 33 | 45 | 39 | 54 | 8 | 254 |
-| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 9 | 199 |
-| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 5 | 104 |
-| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 9 | 96 |
+| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 10 | 261 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 10 | 256 |
+| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 9 | 201 |
+| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 5 | 105 |
+| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 11 | 99 |
 | mpox | 7 | 5 | 7 | 58 | 7 | 5 | 6 | 95 |
-| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 1 | 47 |
+| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 2 | 48 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 1 | 41 |
 | meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 1 | 40 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 0 | 33 |
@@ -74,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (measles)
 
+- [Manitoba Health warns of possible measles exposure at Winkler sites, including high school](https://www.cbc.ca/news/canada/manitoba/winkler-measles-exposure-sites-1.7641743) (CBC News)
+
+- [New measles cases in Queensland show ‘herd immunity’ is more important than ever](https://theconversation.com/new-measles-cases-in-queensland-show-herd-immunity-is-more-important-than-ever-265850) (The Conversation Africa)
+
 - [Measles and Mumps Are Great, but Don’t Overlook the Awesomeness of Congenital Rubella Syndrome](https://www.mcsweeneys.net/articles/measles-and-mumps-are-great-but-dont-overlook-the-awesomeness-of-congenital-rubella-syndrome) (Mcsweeneys.net)
 
 - [Measles outbreak growing in parts of Arizona and Utah, health officials say](https://www.nbcnews.com/health/health-news/measles-outbreak-utah-arizona-vaccines-data-schools-rcna232399) (NBC News)
@@ -91,6 +95,10 @@ Source: [News API](https://newsapi.org/)
 - [Australia has been free of endemic measles since 2014, is that about to change?](https://www.abc.net.au/news/2025-09-22/measles-cases-on-the-rise-australia-explainer/105799284) (ABC News (AU))
 
 ## 25-39 (malaria)
+
+- [Bill Gates pledges to infuse nearly $1 billion into global health initiatives](https://www.cbsnews.com/video/bill-gates-pledges-to-infuse-nearly-1-billion-into-global-health-initiatives/) (CBS News)
+
+- [Exploring the anti-microbial potential of benzylated imidazolium salts: synthesis, docking studies, and biological evaluation](https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra04144a) (Royal Society of Chemistry)
 
 - [Sudan, malaria tifo e dengue travolgono gli ospedali di Khartoum](https://www.ansa.it/sito/notizie/topnews/2025/09/23/sudan-malaria-tifo-e-dengue-travolgono-gli-ospedali-di-khartoum_2f750202-a742-42db-a9a5-dbc8b8d13cb2.html) (ANSA.it)
 
@@ -119,6 +127,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Is Back In The U.S.? 400,000 Turkeys Killed](https://www.shtfplan.com/headline-news/bird-flu-is-back-in-the-u-s-400000-turkeys-killed) (Shtfplan.com)
 
 ## 25-39 (h5n1)
+
+- [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
@@ -2352,6 +2362,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
+- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
+
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2466,6 +2478,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
+- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
+
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2523,6 +2537,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2603,3 +2621,15 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
+
+- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
+
+- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
+
+- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
+
+- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
