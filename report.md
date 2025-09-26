@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-09-26 07:07
-- **Most recent article:** 2025-09-25 04:51:16
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-09-26 19:05
+- **Most recent article:** 2025-09-25 18:10:05
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 17 | 268 |
-| measles | 25 | 50 | 33 | 45 | 39 | 54 | 13 | 259 |
-| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 13 | 205 |
-| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 7 | 107 |
-| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 11 | 99 |
-| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 6 | 95 |
-| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 3 | 49 |
-| zika | 9 | 7 | 8 | 4 | 6 | 6 | 2 | 42 |
+| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 19 | 264 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 15 | 261 |
+| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 14 | 204 |
+| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 9 | 108 |
+| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 12 | 99 |
+| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 7 | 96 |
+| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 4 | 50 |
+| zika | 9 | 7 | 8 | 4 | 6 | 6 | 4 | 44 |
 | meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 2 | 41 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 1 | 34 |
 | typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 3 | 11 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-39 (zika)
+
+- [RECENZE: Více zralosti než smutku. Hlavní oporou filmu o Krpálkovi je Krpálek sám](https://www.idnes.cz/kultura/film-televize/recenze-jemny-rvac-lukas-krpalek.A250922_093435_filmvideo_spm) (Idnes.cz)
+
+- [Ce que j'ai fait pendant vos vacances](https://linuxfr.org/users/liorel/journaux/ce-que-j-ai-fait-pendant-vos-vacances) (Linuxfr.org)
 
 - [Relator prevê que receita extra com MP alternativa do IOF compense benefícios à indústria química](https://valor.globo.com/financas/noticia/2025/09/24/relator-preve-que-receita-extra-com-mp-alternativa-do-iof-compense-beneficios-a-industria-quimica.ghtml) (Globo)
 
@@ -52,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (rabies)
 
+- [Horse tests positive for rabies: Alabama health officials advise caution](https://www.al.com/news/2025/09/horse-tests-positive-for-rabies-alabama-health-officials-advise-caution.html) (AL.com)
+
+- [Indore airport horror: Rat enters passenger’s trousers… What happened next cost someone their job](https://economictimes.indiatimes.com/news/new-updates/indore-airport-horror-rat-enters-passengers-trousers-what-happened-next-cost-someone-their-job/articleshow/124114158.cms) (The Times of India)
+
 - [Rabies outbreak suspected in Coimbatore as 25 stray dogs test positive for viral disease in two months](https://timesofindia.indiatimes.com/city/coimbatore/rabies-outbreak-suspected-in-coimbatore-as-25-stray-dogs-test-positive-for-viral-disease-in-two-months/articleshow/124098970.cms) (The Times of India)
 
 - [First rabies case of 2025 confirmed in Stanly County, health officials warn](https://www.wsoctv.com/news/local/first-rabies-case-2025-confirmed-stanly-county-health-officials-warn/3TAKIYMOKJCYHGT6VQ7TE5KYTU/) (WSOC Charlotte)
@@ -67,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 - [Ministry of Health updates: Rabid dog found in Homesh, northern Samaria](https://www.israelnationalnews.com/flashes/666983) (Israelnationalnews.com)
 
 ## 25-39 (mpox)
+
+- [Global Virus Network Launches Multi-Country Mpox Diagnostic Evaluation to Close Global Preparedness Gaps](https://www.globenewswire.com/news-release/2025/09/25/3156435/0/en/Global-Virus-Network-Launches-Multi-Country-Mpox-Diagnostic-Evaluation-to-Close-Global-Preparedness-Gaps.html) (GlobeNewswire)
 
 - [Madrid detecta el primer caso de viruela del mono de tipo clado 1b](https://www.libertaddigital.com/madrid/2025-09-23/madrid-detecta-el-primer-caso-de-viruela-del-mono-de-tipo-clado-b1-7299268/) (Libertaddigital.com)
 
@@ -87,6 +97,10 @@ Source: [News API](https://newsapi.org/)
 - [Three deaths from meningococcal meningitis reported in NZ in past five weeks](https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/) (New Zealand Herald)
 
 ## 25-39 (measles)
+
+- [Third in a week: Unvaccinated infant dies of measles in Jerusalem](https://www.israelnationalnews.com/news/415397) (Israelnationalnews.com)
+
+- [Measles case detected in Brisbane, taking state's total to 21](https://www.abc.net.au/news/2025-09-25/measles-brisbane-qld-health-alert-disease-infection/105817886) (ABC News (AU))
 
 - [US measles cases surpass 1,500 as outbreaks grow in parts of Utah and Arizona](https://www.usatoday.com/story/news/health/2025/09/25/united-states-measles-cases-outbreaks-utah-arizona/86337067007/) (USA Today)
 
@@ -115,6 +129,8 @@ Source: [News API](https://newsapi.org/)
 - [Australia has been free of endemic measles since 2014, is that about to change?](https://www.abc.net.au/news/2025-09-22/measles-cases-on-the-rise-australia-explainer/105799284) (ABC News (AU))
 
 ## 25-39 (malaria)
+
+- [Malaria Diagnostics Global and Country-Level Market Forecasts 2025 to 2030 Featuring Motic (Xiamen) Electric Group Co., Sight Diagnostics, bioMerieux and More](https://www.globenewswire.com/news-release/2025/09/25/3156572/28124/en/Malaria-Diagnostics-Global-and-Country-Level-Market-Forecasts-2025-to-2030-Featuring-Motic-Xiamen-Electric-Group-Co-Sight-Diagnostics-bioMerieux-and-More.html) (GlobeNewswire)
 
 - [Bill Gates pledges to infuse nearly $1 billion into global health initiatives](https://www.cbsnews.com/video/bill-gates-pledges-to-infuse-nearly-1-billion-into-global-health-initiatives/) (CBS News)
 
@@ -148,6 +164,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (h5n1)
 
+- [Canadá ordena abate de 400 avestruzes para conter gripe aviária H5N1](https://www.metropoles.com/ciencia/canada-abate-de-avestruzes-gripe-aviaria) (Metropoles.com)
+
 - [Leche cruda y gripe aviar: qué dicen los expertos sobre los riesgos para la salud](https://www.gastronomiaycia.com/leche-cruda-y-gripe-aviar-que-dicen-los-expertos-sobre-los-riesgos-para-la-salud/) (Gastronomiaycia.com)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
@@ -155,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
 ## 25-39 (dengue)
+
+- [Ce que j'ai fait pendant vos vacances](https://linuxfr.org/users/liorel/journaux/ce-que-j-ai-fait-pendant-vos-vacances) (Linuxfr.org)
 
 - [Mosquito transmissor do dengue detetado na Covilhã](https://observador.pt/2025/09/24/mosquito-transmissor-do-dengue-detetado-na-covilha/) (Observador.pt)
 
@@ -183,6 +203,10 @@ Source: [News API](https://newsapi.org/)
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Ce que j'ai fait pendant vos vacances](https://linuxfr.org/users/liorel/journaux/ce-que-j-ai-fait-pendant-vos-vacances) (Linuxfr.org)
+
+- [« On ne cache rien » : un cas de chikungunya identifié en Deux-Sèvres, les autorités s’expliquent](https://sante.ouest-france.fr/moustique/on-ne-cache-rien-assure-la-prefecture-apres-le-cas-de-chikungunya-identifie-pres-de-niort-8d1714fc-9923-11f0-bc84-9e08c570c0db) (Ouest-France)
 
 - [Alerte inédite au chikungunya à Antibes : 103 cas au 23 septembre](https://sante.ouest-france.fr/maladies/chikungunya/103-cas-au-23-septembre-une-alerte-inedite-au-chikungunya-a-antibes-78c1c018-9948-11f0-bc84-9e08c570c0db) (Ouest-France)
 
@@ -2406,8 +2430,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
-- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
-
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2522,8 +2544,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
-- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
-
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2581,10 +2601,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2665,15 +2681,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
-
-- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
-
-- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
-
-- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
-
-- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
