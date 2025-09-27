@@ -1,8 +1,153 @@
 {
-  "last_updated": "2025-09-26 19:05",
-  "count_articles_total": 1125,
-  "count_articles_new": 10,
+  "last_updated": "2025-09-27 07:05",
+  "count_articles_total": 1143,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 24763,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Anushka Juliet",
+      "title": "Coimbatore launches anti-rabies drive for stray dogs after outbreak concerns",
+      "description": "Coimbatore authorities have relaunched a major anti-rabies vaccination campaign targeting stray dogs, particularly in the Thudiyalur area, after a recent surge in rabies cases. With 25 dogs testing positive in recent months, the city-wide initiative aims to v\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-launches-anti-rabies-drive-for-stray-dogs-after-outbreak-concerns/articleshow/124146744.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124146826,width-1070,height-580,imgsize-540505,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-26 05:32:11",
+      "content": "Jamdani to Banarasi: New brides, celebrate your first Durga Puja in these Bengal fabrics",
+      "retrievedAt": "2025-09-27 07:05:54.241928",
+      "internal_id": "9cd1a8c8c6f58f953d9af36a8c9dfa567742435be002ecd2c16611caa7ff5fac",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24768,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EDNA TARIGAN Associated Press, DITA ALANGKARA Associated Press, AND ANDI JATMIKO Associated Press",
+      "title": "Halal concerns drive vaccine hesitancy as Indonesia fights measles outbreak",
+      "description": "Health workers in Sumenep, Indonesia, are delivering measles vaccines to children",
+      "url": "https://abcnews.go.com/International/wireStory/halal-concerns-drive-vaccine-hesitancy-indonesia-fights-measles-125954715",
+      "urlToImage": "https://i.abcnewsfe.com/a/754a2f9d-a078-4256-a796-243cb0c3e434/wirestory_9b6e631e78ed77bdd08bc19e60ede647_16x9.jpg?w=1600",
+      "publishedAt": "2025-09-26 04:38:28",
+      "content": "SUMENEP, Indonesia -- Three health care workers rode motorbikes into the Indonesian city of Sumenep, carrying doses of measles vaccine and a list of children who needed them. With blue medical boxes \u2026 [+4789 chars]",
+      "retrievedAt": "2025-09-27 07:05:54.728632",
+      "internal_id": "a9fee2597582d0bab8c7aa5023a82503199b62cf3993d6124671d4af3504957c",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24771,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Cuba",
+      "description": "There is an outbreak of chikungunya in Cuba. Mosquitoes spread the virus that causes chikungunya.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-09-26 04:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+701 chars]",
+      "retrievedAt": "2025-09-27 07:05:57.050397",
+      "internal_id": "b73ddc4e5bc8c8789532c034862d6e043021418ec40bdb4eea0ef5217f0ce8b7",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24766,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Rabies infections increasing in Sudurpaschim Province",
+      "description": "KANCHANPUR: Rabies infections are on the rise in Nepal\u2019s Sudurpaschim Province, creating a significant challenge for disease control. According to Naresh Prasad Joshi, Senior Veterinarian at the Animal and Poultry Disease Research Laboratory in Dhangadhi, rab\u2026",
+      "url": "https://english.khabarhub.com/2025/26/498170/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/09/Rabies-.jpg",
+      "publishedAt": "2025-09-26 03:15:45",
+      "content": "KANCHANPUR: Rabies infections are on the rise in Nepals Sudurpaschim Province, creating a significant challenge for disease control. According to Naresh Prasad Joshi, Senior Veterinarian at the Anim\u2026 [+2305 chars]",
+      "retrievedAt": "2025-09-27 07:05:54.318051",
+      "internal_id": "7537ec329d9c5c0f8773025240058146e001ec97b233ad6cba7b71b5c5fa680a",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24765,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WKTV",
+      "author": "Zach Lewis",
+      "title": "4 People, 3 Cats Exposed to Rabid Bat in Whitestown",
+      "description": "4 People, 3 Cats Exposed to Rabid Bat in Whitestownwktv.com",
+      "url": "https://www.wktv.com/news/health/4-people-3-cats-exposed-to-rabid-bat-in-whitestown/article_6960f180-9579-46c6-8c39-5fd12f29b72f.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/f/9d/f9d89a08-72af-11ee-ba53-171487993bf8/65382fd982e82.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-09-26 00:00:43",
+      "content": "WHITESTOWN, N.Y. -- A bat in Whitestown has tested positive for rabies. According to the Oneida County Health Department, the bat was tested, with results confirmed on Sept. 25. Four people and thr\u2026 [+450 chars]",
+      "retrievedAt": "2025-09-27 07:05:54.309063",
+      "internal_id": "936907cfaa2e3a5b0536839d265497ea9b749e8b155fc6fe729601435b6fa031",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24767,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "Thanks, Trump Administration! Measles Hits 30+ Year High",
+      "description": "Just as Sec. Robert F. \u201cBrainworm\u201d Kennedy Jr. and the Trump administration are making vaccines and health care harder to get, at least one entirely preventable disease is surging. Via Bloomberg: The surge in measles cases this year, which has reached levels \u2026",
+      "url": "https://crooksandliars.com/2025/09/measles-cases-hit-30-year-high",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/09/rfk_jr_for_092425.jpg",
+      "publishedAt": "2025-09-25 23:47:23",
+      "content": "Just as Sec. Robert F. Brainworm Kennedy Jr. and the Trump administration are making vaccines and health care hardertoget, at least one entirely preventable disease is surging. Via Bloomberg: The s\u2026 [+1437 chars]",
+      "retrievedAt": "2025-09-27 07:05:54.688093",
+      "internal_id": "fc66e57b7bee01c30d667f175d5c97107d79a37de21b5601f6efc140172de82d",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 24770,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Jaroslav  Petr",
+      "title": "Evropa \u010del\u00ed n\u00e1stupu exotick\u00fdch chorob p\u0159en\u00e1\u0161en\u00fdch kom\u00e1ry. L\u00e9\u010dit se \u010dasto nedaj\u00ed",
+      "description": "Z\u00e1padonilsk\u00e1 hore\u010dka, chikungunya \u010di dengue. Onemocn\u011bn\u00ed, kter\u00e1 jsme si spojovali s exotickou cizinou, se pomalu st\u00e1vaj\u00ed v\u0161edn\u00ed realitou i v na\u0161ich zem\u011bpisn\u00fdch \u0161\u00ed\u0159k\u00e1ch. Rekordn\u00ed v\u00fdskyt hl\u00e1s\u00ed Francie, It\u00e1lie i Rumunsko a nejsp\u00ed\u0161 bude h\u016f\u0159.",
+      "url": "https://www.idnes.cz/technet/veda/komari-choroby-prenos-dengue-zapadonilska-horecka.A250923_082135_veda_alv",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2023/6/premium/IHA61cfcac3a2_shutterstock_171286448.jpg",
+      "publishedAt": "2025-09-25 22:00:00",
+      "content": "Rodiny s dtmi maj\u00ed zase sebou prvn\u00edch p\u00e1r dn\u00ed ve vzdl\u00e1vac\u00edch instituc\u00edch. Prvn\u00ed koln\u00ed i kolkov\u00e9 dny ale b\u00fdvaj\u00ed n\u00e1ron\u00e9 pro vechny z\u00faastnn\u00e9....",
+      "retrievedAt": "2025-09-27 07:05:55.638045",
+      "internal_id": "d6231bf17565892710e087ccb6f2ea19b067d0b5c634c8ed55519a520c1d4edd",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 24764,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Katie DeBenedetti",
+      "title": "Squirrels Gone Wild: Marin County \u2018Attack Squirrel\u2019 Sends at Least 3 to the ER",
+      "description": "No one in the U.S. has ever gotten rabies from a squirrel, but multiple attacks by one squirrel have sent three Marin County residents to the hospital.",
+      "url": "https://www.kqed.org/news/12057604/squirrels-gone-wild-marin-county-attack-squirrel-sends-at-least-3-to-the-er",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/09/250925-SQUIRREL-ATTACK-01.jpg",
+      "publishedAt": "2025-09-25 21:48:24",
+      "content": "\u201cShe kept on coming towards us, and we thought that was kind of interesting, because they usually run away,\u201d Ayoob recalled. The squirrel jumped up on the ledge of the couple\u2019s wooden fence, close e\u2026 [+1876 chars]",
+      "retrievedAt": "2025-09-27 07:05:54.284750",
+      "internal_id": "e2149f95e04ae144bb462655eeee79b722636d878739035ce6796f3859312853",
+      "publishedAtLabel": "Sep 25"
+    },
     {
       "id": 24757,
       "query": [
@@ -37,6 +182,24 @@
       "content": "Dublin, Sept. 25, 2025 (GLOBE NEWSWIRE) -- The \"Malaria Diagnostics Market - Forecasts from 2025 to 2030\" report has been added to ResearchAndMarkets.com's offering. The Global Malaria Diagnostics M\u2026 [+9079 chars]",
       "retrievedAt": "2025-09-26 19:05:52.614740",
       "internal_id": "c5ed66435da4f3828c0a9c8cc0c6d01f83051ac4913aa71a2434042952c0d012",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 24769,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Haaretz",
+      "author": "Ido Efrati",
+      "title": "Three babies die within a week as measles outbreak spreads in Israel",
+      "description": "A measles epidemic has hit ultra-Orthodox Jewish communities across Israel: Two unvaccinated babies in Jerusalem died this past week, and two toddlers died in August. A source in the Health Ministry described 'entire buildings where all the children are sick\u2026",
+      "url": "https://www.haaretz.com/israel-news/2025-09-25/ty-article/.premium/three-babies-die-within-a-week-as-measles-outbreak-spreads-in-israel/00000199-80e3-d04a-adfd-bde3aeea0000",
+      "urlToImage": "https://img.haarets.co.il/bs/00000199-80e3-d04a-adfd-bde3aeea0000/13/9b/bfee90bc442aaf3ae7822b5243d8/791404.jpg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2025-09-25 15:37:05",
+      "content": "A measles epidemic has hit ultra-Orthodox Jewish communities across Israel: Two unvaccinated babies in Jerusalem died this past week, and two toddlers died in August. A source in the Health Ministry \u2026 [+72 chars]",
+      "retrievedAt": "2025-09-27 07:05:54.769332",
+      "internal_id": "7a071ce1ec7d2b8af0b35d5d2eaa4ce664e37aabed680c7a4fb13b3ab0173e83",
       "publishedAtLabel": "Sep 25"
     },
     {
@@ -20362,6 +20525,169 @@
       "content": "Debido a que tan solo en una semana se confirmaron 333 nuevos casos de dengue, en lo que va del a\u00f1o el pa\u00eds ya sum\u00f3 un total de 6 mil 030 contagios. De acuerdo al panorama epidemiol\u00f3gico del dengue c\u2026 [+1492 chars]",
       "retrievedAt": "2025-08-12 07:08:38.130588",
       "internal_id": "27d2ba5d4e7cd3c291feec080cbe9f5efb254ca9847388b542792c66e551a204",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23629,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin with Newser.AI",
+      "title": "Coyote Chases, Bites Boy at Softball Game",
+      "description": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Carson on Monday when a coyote began to chase him. The boy trip\u2026",
+      "url": "https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1627341-12-20250810124502.jpeg",
+      "publishedAt": "2025-08-10 17:45:00",
+      "content": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Car\u2026 [+277 chars]",
+      "retrievedAt": "2025-08-11 19:07:20.925092",
+      "internal_id": "95fdba2aa8a816da260b8e18152a07826acb0dd00abc545888479e7ecca6b3e3",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23631,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Only lab tests can confirm chikungunya infection",
+      "description": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3460990.jpg",
+      "publishedAt": "2025-08-10 16:00:00",
+      "content": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. While one may assume it is a dengue infection, there is also debilitatin\u2026 [+1545 chars]",
+      "retrievedAt": "2025-08-11 19:07:22.473626",
+      "internal_id": "efdb8a7e7e26c87cd717c847ded83a2fc394e7ef722e6f6c11ff2679568c904b",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23635,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "GERARD GIMINO, JUNAID IBRAHIM, TARRENCE TAN",
+      "title": "Experts: Don\u2019t let your guard down",
+      "description": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3461188.jpg",
+      "publishedAt": "2025-08-10 16:00:00",
+      "content": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. However, they say Malay\u2026 [+121 chars]",
+      "retrievedAt": "2025-08-11 19:07:24.038799",
+      "internal_id": "399706a7bc9738b5395b722b626fed8dafce76f112f8445ebc09ac9c74f42a32",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Hugo C\u00e9sar Marques",
+      "title": "O mist\u00e9rio da casa \u2018mal-assombrada\u2019 de um ex-senador em Bras\u00edlia",
+      "description": "Resid\u00eancia, que est\u00e1 fechada h\u00e1 18 anos, j\u00e1 motivou at\u00e9 abaixo-assinado de moradores assustados com barulhos, vultos e dengue",
+      "url": "https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/08/CASA-ACM.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-08-10 14:48:07",
+      "content": "Dia dos Pais: Revista em casa por 7,50/semanaA casa abandonada em \u00e1rea nobre de Bras\u00edlia - (Hugo Marques/VEJA) Continua ap\u00f3s publicidade Uma casa localizada em um bairro nobre de Bras\u00edlia chama a \u2026 [+2059 chars]",
+      "retrievedAt": "2025-08-11 19:07:22.405872",
+      "internal_id": "14bb3df5199d852276bf8f370a2b035e4d755805f2a459a6b2e2e195d8851d44",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23637,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tv9gujarati.com",
+      "author": "Tv9 Gujarati",
+      "title": "\u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0a95\u0acb\u0aaa: \u0aae\u0aa7\u0ab0\u0abe\u0aa4\u0ac7 \u0ab2\u0ac7\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7 \u0aac\u0acd\u0ab2\u0aa1 \u0ab8\u0ac7\u0aae\u0acd\u0aaa\u0ab2, \u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acb\u0ab0\u0acb\u0aa8\u0abe \u0a9c\u0ac7\u0ab5\u0abe \u0a95\u0aa1\u0a95 \u0aaa\u0a97\u0ab2\u0abe\u0a82; \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a95\u0ac7\u0ab8 \u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0abe",
+      "description": "Chikungunya Outbreak In China: \u0a9a\u0ac0\u0aa8\u0aa8\u0abe \u0a98\u0aa3\u0abe \u0ab6\u0ab9\u0ac7\u0ab0\u0acb\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe \u0ab0\u0acb\u0a97\u0aa8\u0abe \u0a95\u0ac7\u0ab8 \u0a9d\u0aa1\u0aaa\u0aa5\u0ac0 \u0ab5\u0aa7\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7, \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0ab2\u0acb\u0a95\u0acb \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0acb \u0aad\u0acb\u0a97 \u0aac\u0aa8\u0acd\u0aaf\u0abe \u0ab9\u0acb\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0ab3\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7. \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0ac7 \u0a95\u0abe\u0ab0\u0aa3\u0ac7 \u0aae\u0acb\u0a9f\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82 \u0ab2\u0acb\u0a95\u0acb\u0aa8\u0ac7 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ab5\u0abe \u0aaa\u0aa1\u0acd\u0aaf\u0abe \u0a9b\u0ac7.",
+      "url": "https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html",
+      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2025/08/chine-1.jpg",
+      "publishedAt": "2025-08-10 13:31:26",
+      "content": ". . , . ? , . , , . . , 90 . . , 8,000 . , , . , , . , , . 4 , COVID-19 \u201c-COVID\u201d . . . 10,000 . , . . (CDC) -2 , , . . (WHO) 2004-05 , 119 5.6 .",
+      "retrievedAt": "2025-08-11 19:07:24.101982",
+      "internal_id": "62f447c54b1f8d8d38182063ee52cdfdfef7bd07d609fc9917c986ef373c1139",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23633,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Autor Redacci\u00f3n",
+      "title": "China confirma un brote con m\u00e1s de 7.000 casos de chikungunya y la r\u00e1pida propagaci\u00f3n del virus",
+      "description": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la preocupaci\u00f3n internacional por la r\u00e1pida propagaci\u00f3n del viru\u2026",
+      "url": "https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/05/02/626f816f31b2b.r_d.1337-948-0.jpeg",
+      "publishedAt": "2025-08-10 12:41:11",
+      "content": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la p\u2026 [+2274 chars]",
+      "retrievedAt": "2025-08-11 19:07:23.767264",
+      "internal_id": "1058c29c431101983d3a9dfe36e913c786cbf8aa571590b6583e610785b8fadb",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23636,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Kevesko.vn",
+      "author": "Sputnik Vi\u1ec7t Nam",
+      "title": "D\u1ecbch Chikungunya b\u00f9ng ph\u00e1t \u1edf Trung Qu\u1ed1c, Vi\u1ec7t Nam c\u1ea3nh b\u00e1o kh\u1ea9n",
+      "description": "T\u1ea1i t\u1ec9nh Qu\u1ea3ng \u0110\u00f4ng (Trung Qu\u1ed1c) \u0111\u00e3 ghi nh\u1eadn h\u01a1n 7.000 ca m\u1eafc Chikungunya, l\u00e0 \u0111\u1ee3t d\u1ecbch l\u1edbn nh\u1ea5t t\u1eeb tr\u01b0\u1edbc t\u1edbi nay \u1edf khu v\u1ef1c n\u00e0y. V\u1edbi kh\u00ed h\u1eadu nhi\u1ec7t \u0111\u1edbi \u1ea9m v\u00e0 m\u1eadt \u0111\u1ed9 mu\u1ed7i cao, Vi\u1ec7t Nam c\u00f3 nguy c\u01a1 l\u1edbn n\u1ebfu d\u1ecbch x\u00e2m nh\u1eadp.",
+      "url": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html",
+      "urlToImage": "https://cdn.img.kevesko.vn/images/sharing/article/vie/37636514.jpg?376367051754828059",
+      "publishedAt": "2025-08-10 12:14:18",
+      "content": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc, Vit Nam cnh b\u00e1o khn Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc\u2026 [+7428 chars]",
+      "retrievedAt": "2025-08-11 19:07:24.055373",
+      "internal_id": "b621582129132d4ec9345b0ef63eb5fbbfd79115d3b0cb0641a9ff821d97a3c2",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23634,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Ella Scott",
+      "title": "Everything we know about Chikungunya virus as China locks down patients after it spread to other countries",
+      "description": "The Chikungunya virus has spread to parts of Europe, Asia, Africa and the Americas after thousands of cases were reported in a Chinese province.",
+      "url": "https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc82bb46a51bb0158/6898700f3266ed126fa68844/Screenshot_2025-08-10_at_09.40.51.png",
+      "publishedAt": "2025-08-10 10:38:40",
+      "content": "Chikungunya virus (CHIKV) is spreading like wildfire across Chinese cities, with health organisations reporting people in Europe, Africa, the Americas and other parts of Asia also coming down with th\u2026 [+4467 chars]",
+      "retrievedAt": "2025-08-11 19:07:23.898382",
+      "internal_id": "8c1f3e1f3d39208d611364363a61a7d429c7e7a1186f9a049b59a475d3cf8ddb",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 23632,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Jak skutecznie unika\u0107 uk\u0105sze\u0144 komar\u00f3w i cieszy\u0107 si\u0119 latem bez sw\u0119dzenia?",
+      "description": "Nasza podatno\u015b\u0107 na ataki komar\u00f3w wynika g\u0142\u00f3wnie z genetyki, ale odpowiednie wybory mog\u0105 znacznie ograniczy\u0107 liczb\u0119 uk\u0105sze\u0144. Odpowiednia odzie\u017c, rezygnacja z pachn\u0105cych kosmetyk\u00f3w i utrzymywanie czysto\u015bci wok\u00f3\u0142 domu to skuteczne strategie. A warto pami\u0119ta\u0107, \u017ce\u2026",
+      "url": "https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683",
+      "urlToImage": "https://i.iplsc.com/-/000JPBHS8GP4I9QV-C461.jpg",
+      "publishedAt": "2025-08-10 09:00:01",
+      "content": "Szacuje si, e komary zabijaj ponad milion os\u00f3b rocznie, g\u00f3wnie przez przenoszenie takich chor\u00f3b, jak malaria. Te owady podaj za ludmi niemal wszdzie, gryzc nas i zakaajc. Istniej jednak pewne sposoby\u2026 [+2546 chars]",
+      "retrievedAt": "2025-08-11 19:07:23.001487",
+      "internal_id": "513735864904d86d9270de76088c041cc179700c344434b0f0fb29271ea69e35",
       "publishedAtLabel": "Aug 10"
     }
   ]

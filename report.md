@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-09-26 19:05
-- **Most recent article:** 2025-09-25 18:10:05
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-09-27 07:05
+- **Most recent article:** 2025-09-26 05:32:11
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 19 | 264 |
-| measles | 25 | 50 | 33 | 45 | 39 | 54 | 15 | 261 |
-| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 14 | 204 |
-| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 9 | 108 |
-| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 12 | 99 |
+| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 21 | 272 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 18 | 264 |
+| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 15 | 207 |
+| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 13 | 113 |
+| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 12 | 100 |
 | mpox | 7 | 5 | 7 | 58 | 7 | 5 | 7 | 96 |
 | h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 4 | 50 |
 | zika | 9 | 7 | 8 | 4 | 6 | 6 | 4 | 44 |
@@ -55,6 +55,14 @@ Source: [News API](https://newsapi.org/)
 - [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
 
 ## 25-39 (rabies)
+
+- [Coimbatore launches anti-rabies drive for stray dogs after outbreak concerns](https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-launches-anti-rabies-drive-for-stray-dogs-after-outbreak-concerns/articleshow/124146744.cms) (The Times of India)
+
+- [Rabies infections increasing in Sudurpaschim Province](https://english.khabarhub.com/2025/26/498170/) (Khabarhub.com)
+
+- [4 People, 3 Cats Exposed to Rabid Bat in Whitestown](https://www.wktv.com/news/health/4-people-3-cats-exposed-to-rabid-bat-in-whitestown/article_6960f180-9579-46c6-8c39-5fd12f29b72f.html) (WKTV)
+
+- [Squirrels Gone Wild: Marin County ‘Attack Squirrel’ Sends at Least 3 to the ER](https://www.kqed.org/news/12057604/squirrels-gone-wild-marin-county-attack-squirrel-sends-at-least-3-to-the-er) (KQED)
 
 - [Horse tests positive for rabies: Alabama health officials advise caution](https://www.al.com/news/2025/09/horse-tests-positive-for-rabies-alabama-health-officials-advise-caution.html) (AL.com)
 
@@ -97,6 +105,12 @@ Source: [News API](https://newsapi.org/)
 - [Three deaths from meningococcal meningitis reported in NZ in past five weeks](https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/) (New Zealand Herald)
 
 ## 25-39 (measles)
+
+- [Halal concerns drive vaccine hesitancy as Indonesia fights measles outbreak](https://abcnews.go.com/International/wireStory/halal-concerns-drive-vaccine-hesitancy-indonesia-fights-measles-125954715) (ABC News)
+
+- [Thanks, Trump Administration! Measles Hits 30+ Year High](https://crooksandliars.com/2025/09/measles-cases-hit-30-year-high) (Crooksandliars.com)
+
+- [Three babies die within a week as measles outbreak spreads in Israel](https://www.haaretz.com/israel-news/2025-09-25/ty-article/.premium/three-babies-die-within-a-week-as-measles-outbreak-spreads-in-israel/00000199-80e3-d04a-adfd-bde3aeea0000) (Haaretz)
 
 - [Third in a week: Unvaccinated infant dies of measles in Jerusalem](https://www.israelnationalnews.com/news/415397) (Israelnationalnews.com)
 
@@ -174,6 +188,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (dengue)
 
+- [Evropa čelí nástupu exotických chorob přenášených komáry. Léčit se často nedají](https://www.idnes.cz/technet/veda/komari-choroby-prenos-dengue-zapadonilska-horecka.A250923_082135_veda_alv) (Idnes.cz)
+
 - [Ce que j'ai fait pendant vos vacances](https://linuxfr.org/users/liorel/journaux/ce-que-j-ai-fait-pendant-vos-vacances) (Linuxfr.org)
 
 - [Mosquito transmissor do dengue detetado na Covilhã](https://observador.pt/2025/09/24/mosquito-transmissor-do-dengue-detetado-na-covilha/) (Observador.pt)
@@ -203,6 +219,10 @@ Source: [News API](https://newsapi.org/)
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Level 2 - Chikungunya in Cuba](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba) (Cdc.gov)
+
+- [Evropa čelí nástupu exotických chorob přenášených komáry. Léčit se často nedají](https://www.idnes.cz/technet/veda/komari-choroby-prenos-dengue-zapadonilska-horecka.A250923_082135_veda_alv) (Idnes.cz)
 
 - [Ce que j'ai fait pendant vos vacances](https://linuxfr.org/users/liorel/journaux/ce-que-j-ai-fait-pendant-vos-vacances) (Linuxfr.org)
 
@@ -2430,6 +2450,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
+- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
+
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2544,6 +2566,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
+- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
+
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2601,6 +2625,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2681,3 +2709,15 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
+
+- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
+
+- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
+
+- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
+
+- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
+
+- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
+
+- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)
