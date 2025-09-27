@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-09-27 07:05
-- **Most recent article:** 2025-09-26 05:32:11
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-09-27 19:05
+- **Most recent article:** 2025-09-26 18:13:50
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-33 | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| chikungunya | 45 | 80 | 52 | 18 | 18 | 38 | 21 | 272 |
-| measles | 25 | 50 | 33 | 45 | 39 | 54 | 18 | 264 |
-| dengue | 24 | 62 | 40 | 16 | 24 | 26 | 15 | 207 |
-| rabies | 27 | 39 | 6 | 9 | 5 | 14 | 13 | 113 |
-| malaria | 15 | 19 | 13 | 13 | 18 | 10 | 12 | 100 |
-| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 7 | 96 |
-| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 4 | 50 |
-| zika | 9 | 7 | 8 | 4 | 6 | 6 | 4 | 44 |
-| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 2 | 41 |
+| chikungunya | 39 | 80 | 52 | 18 | 18 | 38 | 23 | 268 |
+| measles | 25 | 50 | 33 | 45 | 39 | 54 | 19 | 265 |
+| dengue | 22 | 62 | 40 | 16 | 24 | 26 | 17 | 207 |
+| rabies | 26 | 39 | 6 | 9 | 5 | 14 | 15 | 114 |
+| malaria | 14 | 19 | 13 | 13 | 18 | 10 | 13 | 100 |
+| mpox | 7 | 5 | 7 | 58 | 7 | 5 | 8 | 97 |
+| h5n1 | 3 | 3 | 5 | 20 | 6 | 9 | 5 | 51 |
+| zika | 9 | 7 | 8 | 4 | 6 | 6 | 6 | 46 |
+| meningitis | 4 | 2 | 16 | 5 | 6 | 6 | 3 | 42 |
 | yersinia | 7 | 7 | 12 | 3 | 4 | 0 | 1 | 34 |
 | typhoid | 1 | 0 | 0 | 2 | 4 | 1 | 3 | 11 |
 | hpai | 0 | 1 | 1 | 1 | 4 | 1 | 1 | 9 |
+| leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 2 | 8 |
 | pertussis | 2 | 0 | 1 | 3 | 0 | 2 | 0 | 8 |
-| leptospirosis | 1 | 2 | 0 | 2 | 1 | 0 | 1 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-39 (zika)
+
+- [Zika virus may raise long-term risks of type 2 diabetes – new study](https://theconversation.com/zika-virus-may-raise-long-term-risks-of-type-2-diabetes-new-study-266028) (The Conversation Africa)
+
+- [BBNaija 2025: Commotion as Rooboy Swiftly Reacts After Zika Poured Her Plate of Hot Food on Him](https://www.legit.ng/entertainment/tv-shows/1675853-bbnaija-2025-commotion-rooboy-swiftly-reacts-zita-poured-plate-hot-food-him/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
 
 - [RECENZE: Více zralosti než smutku. Hlavní oporou filmu o Krpálkovi je Krpálek sám](https://www.idnes.cz/kultura/film-televize/recenze-jemny-rvac-lukas-krpalek.A250922_093435_filmvideo_spm) (Idnes.cz)
 
@@ -55,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 - [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
 
 ## 25-39 (rabies)
+
+- [Landscape-scale analysis of raccoon rabies surveillance reveals different drivers of disease dynamics across latitude](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013581) (Plos.org)
+
+- [Drivers of rabies virus spillover risk from vampire bats to livestock in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013508) (Plos.org)
 
 - [Coimbatore launches anti-rabies drive for stray dogs after outbreak concerns](https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-launches-anti-rabies-drive-for-stray-dogs-after-outbreak-concerns/articleshow/124146744.cms) (The Times of India)
 
@@ -84,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (mpox)
 
+- [Child and two women among cluster infected with more serious strain of mpox in Ireland](https://www.independent.ie/irish-news/child-and-two-women-among-cluster-infected-with-more-serious-strain-of-mpox-in-ireland/a1231308366.html) (Independent.ie)
+
 - [Global Virus Network Launches Multi-Country Mpox Diagnostic Evaluation to Close Global Preparedness Gaps](https://www.globenewswire.com/news-release/2025/09/25/3156435/0/en/Global-Virus-Network-Launches-Multi-Country-Mpox-Diagnostic-Evaluation-to-Close-Global-Preparedness-Gaps.html) (GlobeNewswire)
 
 - [Madrid detecta el primer caso de viruela del mono de tipo clado 1b](https://www.libertaddigital.com/madrid/2025-09-23/madrid-detecta-el-primer-caso-de-viruela-del-mono-de-tipo-clado-b1-7299268/) (Libertaddigital.com)
@@ -100,11 +110,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (meningitis)
 
+- [Enterococci-related healthcare-associated ventriculitis and meningitis: a multicenter retrospective case series from clinical practice](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-025-04393-0) (Biomedcentral.com)
+
 - [Blood, bruises and belief: how England’s women’s rugby team embody physical and mental endurance](https://theconversation.com/blood-bruises-and-belief-how-englands-womens-rugby-team-embody-physical-and-mental-endurance-264800) (The Conversation Africa)
 
 - [Three deaths from meningococcal meningitis reported in NZ in past five weeks](https://www.nzherald.co.nz/nz/three-deaths-from-meningococcal-meningitis-reported-in-nz-in-past-five-weeks/A4FEU54QI5HB5ABMWNI6DXX4TM/) (New Zealand Herald)
 
 ## 25-39 (measles)
+
+- [Fresh Off Setting Measles Free, Florida's Going To Cure Your Cancer With Horse Paste](https://www.wonkette.com/p/fresh-off-setting-measles-free-floridas) (Wonkette.com)
 
 - [Halal concerns drive vaccine hesitancy as Indonesia fights measles outbreak](https://abcnews.go.com/International/wireStory/halal-concerns-drive-vaccine-hesitancy-indonesia-fights-measles-125954715) (ABC News)
 
@@ -144,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (malaria)
 
+- [Prevalence and associated factors of delay in seeking malaria treatment among under five children in the Horn of Africa: A systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333593) (Plos.org)
+
 - [Malaria Diagnostics Global and Country-Level Market Forecasts 2025 to 2030 Featuring Motic (Xiamen) Electric Group Co., Sight Diagnostics, bioMerieux and More](https://www.globenewswire.com/news-release/2025/09/25/3156572/28124/en/Malaria-Diagnostics-Global-and-Country-Level-Market-Forecasts-2025-to-2030-Featuring-Motic-Xiamen-Electric-Group-Co-Sight-Diagnostics-bioMerieux-and-More.html) (GlobeNewswire)
 
 - [Bill Gates pledges to infuse nearly $1 billion into global health initiatives](https://www.cbsnews.com/video/bill-gates-pledges-to-infuse-nearly-1-billion-into-global-health-initiatives/) (CBS News)
@@ -170,6 +186,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (leptospirosis)
 
+- [¿Qué enfermedad tiene la osa del Zoológico La Pastora?](https://www.excelsior.com.mx/salud/que-enfermedad-tiene-la-osa-del-zoologico-la-pastora/1742055) (Excelsior.com.mx)
+
 - [Anti-inflammatory cytokine profile and Jarisch-Herxheimer reaction in Leptospirosis patients: A prospective case-series study in New Caledonia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013189) (Plos.org)
 
 ## 25-39 (hpai)
@@ -177,6 +195,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Is Back In The U.S.? 400,000 Turkeys Killed](https://www.shtfplan.com/headline-news/bird-flu-is-back-in-the-u-s-400000-turkeys-killed) (Shtfplan.com)
 
 ## 25-39 (h5n1)
+
+- [Alertan de dos mutaciones que hacen más peligroso al virus de la gripe aviar](https://www.abc.es/salud/enfermedades/alertan-dos-mutaciones-peligroso-virus-gripe-aviar-20250926201500-nt.html) (Www.abc.es)
 
 - [Canadá ordena abate de 400 avestruzes para conter gripe aviária H5N1](https://www.metropoles.com/ciencia/canada-abate-de-avestruzes-gripe-aviaria) (Metropoles.com)
 
@@ -187,6 +207,10 @@ Source: [News API](https://newsapi.org/)
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
 ## 25-39 (dengue)
+
+- [An explainable covariate compartmental model for predicting the spatio-temporal patterns of dengue in Sri Lanka](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013540) (Plos.org)
+
+- [Comparing diagnostic methods for historical arbovirus outbreaks: Insights from 19th century “dengue” epidemics](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013551) (Plos.org)
 
 - [Evropa čelí nástupu exotických chorob přenášených komáry. Léčit se často nedají](https://www.idnes.cz/technet/veda/komari-choroby-prenos-dengue-zapadonilska-horecka.A250923_082135_veda_alv) (Idnes.cz)
 
@@ -219,6 +243,10 @@ Source: [News API](https://newsapi.org/)
 - ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
+
+- [Chikungunya virus that forced China into 'pandemic measures' discovered in the US](https://www.ladbible.com/news/health/chikungunya-virus-america-new-york-case-reported-262882-20250926) (LADbible)
+
+- [Comparing diagnostic methods for historical arbovirus outbreaks: Insights from 19th century “dengue” epidemics](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013551) (Plos.org)
 
 - [Level 2 - Chikungunya in Cuba](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba) (Cdc.gov)
 
@@ -2450,8 +2478,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi govt to implement SC order on stray dogs in time-bound manner: Development Minister Kapil Mishra](https://economictimes.indiatimes.com/news/india/delhi-govt-to-implement-sc-order-on-stray-dogs-in-time-bound-manner-development-minister-kapil-mishra/articleshow/123232443.cms) (The Times of India)
 
-- [Coyote Chases, Bites Boy at Softball Game](https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html) (Newser)
-
 ## 25-33 (pertussis)
 
 - [Whooping cough confirmed at Herrin Elementary; parents alerted](https://www.wsiltv.com/news/health/whooping-cough-confirmed-at-herrin-elementary-parents-alerted/article_e7b68cb2-33a2-435d-8e3c-89e1d5ab547a.html) (WSIL TV)
@@ -2566,8 +2592,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More than just temperature: What fever means for your child's well-being](https://www.standardmedia.co.ke/health/health-science/article/2001526543/more-than-just-temperature-what-fever-means-for-your-childs-well-being) (Standard Digital)
 
-- [Jak skutecznie unikać ukąszeń komarów i cieszyć się latem bez swędzenia?](https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683) (Interia.pl)
-
 ## 25-33 (leptospirosis)
 
 - [Leptospirosis impacting sea lions along California coast could spread to pets, marine biologists warn](https://abc7news.com/post/leptospirosis-impacting-sea-lions-california-coast-could-spread-pets-marine-biologists-warn/17551060/) (KGO-TV)
@@ -2625,10 +2649,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-uitbraak in Bangladesh eist al meer dan honderd levens](https://www.nieuwsblad.be/buitenland/dengue-uitbraak-in-bangladesh-eist-al-meer-dan-honderd-levens/82875605.html) (Nieuwsblad.be)
 
 - [Van más de 6 mil casos de dengue en el país; 56% de ellos en 5 estados](https://www.excelsior.com.mx/nacional/van-mas-de-6-mil-casos-de-dengue-en-el-pais-56-de-los-casos-en-5-estados/1732170) (Excelsior.com.mx)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [O mistério da casa ‘mal-assombrada’ de um ex-senador em Brasília](https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/) (Abril.com.br)
 
 ## 25-33 (chikungunya)
 
@@ -2709,15 +2729,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus: Taiwan reports first imported case from China](https://www.9news.com.au/world/taiwan-reports-first-imported-chikungunya-case-from-china/0162a4d0-5c50-44d9-bf87-3986ec6f3723) (9News)
 
 - [Chikungunya outbreak in China](https://www.npr.org/2025/08/10/nx-s1-5496488/chikungunya-outbreak-in-china) (NPR)
-
-- [Only lab tests can confirm chikungunya infection](https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection) (The Star Online)
-
-- [Experts: Don’t let your guard down](https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down) (The Star Online)
-
-- [ચીનમાં ચિકનગુનિયાનો પ્રકોપ: મધરાતે લેવામાં આવી રહ્યા છે બ્લડ સેમ્પલ, ચીનમાં કોરોના જેવા કડક પગલાં; અત્યાર સુધી 8000 કરતા વધારે કેસ નોંધાયા](https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html) (Tv9gujarati.com)
-
-- [China confirma un brote con más de 7.000 casos de chikungunya y la rápida propagación del virus](https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html) (Mundodeportivo.com)
-
-- [Dịch Chikungunya bùng phát ở Trung Quốc, Việt Nam cảnh báo khẩn](https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html) (Kevesko.vn)
-
-- [Everything we know about Chikungunya virus as China locks down patients after it spread to other countries](https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810) (LADbible)

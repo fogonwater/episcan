@@ -1,8 +1,225 @@
 {
-  "last_updated": "2025-09-27 07:05",
-  "count_articles_total": 1143,
-  "count_articles_new": 9,
+  "last_updated": "2025-09-27 19:05",
+  "count_articles_total": 1147,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 24775,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Alertan de dos mutaciones que hacen m\u00e1s peligroso al virus de la gripe aviar",
+      "description": "Dos mutaciones gen\u00e9ticas que explican por qu\u00e9 la cepa norteamericana del virus de la gripe aviar H5N1 resulta m\u00e1s pat\u00f3gena que la euroasi\u00e1tica. El hallazgo, publicado en la revista ' Science Advances ', revela que estas modificaciones permiten al virus infilt\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/alertan-dos-mutaciones-peligroso-virus-gripe-aviar-20250926201500-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/09/26/53807083469_7c83f35ef6_k-U85263845248ftj-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-09-26 18:13:50",
+      "content": "Dos mutaciones gen\u00e9ticas que explican por qu\u00e9 la cepa norteamericana del virus de la gripe aviar H5N1 resulta m\u00e1s pat\u00f3gena que la euroasi\u00e1tica. El hallazgo, publicado en la revista 'Science Advances'\u2026 [+1874 chars]",
+      "retrievedAt": "2025-09-27 19:05:36.288299",
+      "internal_id": "7c3564935779797314c847748c041ed8b1a083dc48d57aabe91c8c453e316021",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24784,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diana.oliva",
+      "title": "\u00bfQu\u00e9 enfermedad tiene la osa del Zool\u00f3gico La Pastora?",
+      "description": "Diana Oliva Con un suspiro, la osita de La Pastora vive una batalla silenciosa: enfrenta los estragos de la leptospirosis, una enfermedad zoon\u00f3tica que puede convertirse en un verdugo lento si no se detecta a tiempo. La leptospirosis, en su crudeza, puede a\u2026",
+      "url": "https://www.excelsior.com.mx/salud/que-enfermedad-tiene-la-osa-del-zoologico-la-pastora/1742055",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/09/26/3387492.jpg",
+      "publishedAt": "2025-09-26 17:41:34",
+      "content": "Con un suspiro, la osita de La Pastora vive una batalla silenciosa: enfrenta los estragos de la leptospirosis, una enfermedad zoon\u00f3tica que puede convertirse en un verdugo lento si no se detecta a ti\u2026 [+3840 chars]",
+      "retrievedAt": "2025-09-27 19:05:38.497294",
+      "internal_id": "cd69aac0d94b65d933123e78a7f094dd6bc783d1fde36c43034bb0b54cf7d8b5",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24783,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Child and two women among cluster infected with more serious strain of mpox in Ireland",
+      "description": "A child and two women are among a cluster of people in Ireland who have been diagnosed with a potentially more serious form of mpox.",
+      "url": "https://www.independent.ie/irish-news/child-and-two-women-among-cluster-infected-with-more-serious-strain-of-mpox-in-ireland/a1231308366.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/kh2w4sAKKlWbEwI9VR_yCZIxhts=/629x460/smart/prod-mh-ireland/ca89a1c1-c167-444e-9827-d1d838594387/61f590ef-0cd2-4e8b-b681-b91f186f2d62/ca89a1c1-c167-444e-9827-d1d838594387.jpg",
+      "publishedAt": "2025-09-26 17:00:45",
+      "content": "A child and two women are among a cluster of people in Ireland who have been diagnosed with a potentially more serious form of mpox.They were found to have the Clade 1b strain which impacted parts of\u2026 [+4744 chars]",
+      "retrievedAt": "2025-09-27 19:05:38.057067",
+      "internal_id": "6abe4e03ebb4552a5ca8665e7d8112ddd05087d8b27553a68d0e10ef14907f8c",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24782,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Brenna Cooper",
+      "title": "Chikungunya virus that forced China into 'pandemic measures' discovered in the US",
+      "description": "A woman diagnosed with chikungunya virus in New York, USA may have acquired it locally, according to health officials.",
+      "url": "https://www.ladbible.com/news/health/chikungunya-virus-america-new-york-case-reported-262882-20250926",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blte79dc718c13353cd/68d69661318793269b70e3ea/Chikungunya_Virus.jpg",
+      "publishedAt": "2025-09-26 15:06:41",
+      "content": "A woman in the US has been diagnosed with chikungunya virus, in what health officials believe is the first-ever local transmission in the area. An infection spread through mosquito bites, chikunguny\u2026 [+2524 chars]",
+      "retrievedAt": "2025-09-27 19:05:37.788734",
+      "internal_id": "36e48d8c933c0d488afa30420beaa8bb8a677081f46526bbd2c51581bd4bd434",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24780,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Julia Clarke, Coordenadora do Laborat\u00f3rio de Investiga\u00e7\u00e3o em Neuroprograma\u00e7\u00e3o e professora associada, Universidade Federal do Rio de Janeiro (UFRJ), Claudia Pinto Figueiredo, professora associada do Instituto de Biof\u00edsica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro (UFRJ)",
+      "title": "Zika virus may raise long-term risks of type 2 diabetes \u2013 new study",
+      "description": "New research from Brazil links Zika to lasting brain and insulin changes.",
+      "url": "https://theconversation.com/zika-virus-may-raise-long-term-risks-of-type-2-diabetes-new-study-266028",
+      "urlToImage": "https://images.theconversation.com/files/693098/original/file-20250926-64-vw4i5.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-09-26 14:07:33",
+      "content": "Niny2405/Shutterstock.com It has been ten years since Brazil faced a major outbreak of the Zika virus. The alert was given in 2015, when the country\u2019s north-eastern states reported a sudden increase\u2026 [+3800 chars]",
+      "retrievedAt": "2025-09-27 19:05:37.406500",
+      "internal_id": "0f5579f3cff12dd57a9a63d684afb2449a9bbb72a94030a909b412ddd03cb355",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24772,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matthew Michalska-Smith, Meggan E. Craft, Amy J. Davis, Amy T. Gilbert, Richard B. Chipman, Jordona Kirby, Kathleen M. Nelson, Xiaoyue Ma, Ryan Wallace, Grace Miller, Kim M. Pepin",
+      "title": "Landscape-scale analysis of raccoon rabies surveillance reveals different drivers of disease dynamics across latitude",
+      "description": "Author summary Factors such as latitude and level of urbanization can impact pathogen spread in important ways. Here we leverage long-term data on raccoon rabies surveillance in raccoons to better understand the role of latitude and urbanness in the number an\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013581",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013581.g005&size=inline",
+      "publishedAt": "2025-09-26 14:00:00",
+      "content": "Abstract When raccoon rabies first invaded the mid-Atlantic United States, epizootics were larger, longer, and more pronounced than those in its historic, more southern, range, suggesting a North-So\u2026 [+56552 chars]",
+      "retrievedAt": "2025-09-27 19:05:35.437505",
+      "internal_id": "4537791ca165b11ba409c1b4b1c5b8016600bd7d1facfc1d9d2afd57d38a22fa",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24773,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Paige Van de Vuurst, Cassidy Rist, Tatiana Medina-Rodriguez, Andres Felipe Osejo-Varona, Diego Soler-Tovar, Luis E. Escobar",
+      "title": "Drivers of rabies virus spillover risk from vampire bats to livestock in Colombia",
+      "description": "Author summary The common vampire bat (Desmodus rotundus) regularly transmits rabies virus (RABV) to livestock in Latin America. Vampire-bat borne RABV causes economic losses in the livestock industry and is a threat to public health. The factors contributing\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013508",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013508.g004&size=inline",
+      "publishedAt": "2025-09-26 14:00:00",
+      "content": "Abstract Background Rabies is an acute and progressive viral zoonotic disease of the nervous system, which widely affects domestic animals in Latin America. Vampire bat-borne rabies virus (RABV) ha\u2026 [+59525 chars]",
+      "retrievedAt": "2025-09-27 19:05:35.464444",
+      "internal_id": "3f8440a9e02fd60e16ee686b4ac4dfec13ffb5c2dea9280b28a258d9b3458978",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24776,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yichao Liu, Peter Fransson, Julian Heidecke, Prasad Liyanage, Jonas Wallin, Joacim Rockl\u00f6v",
+      "title": "An explainable covariate compartmental model for predicting the spatio-temporal patterns of dengue in Sri Lanka",
+      "description": "Author summary This research presents a novel epidemiological model that integrates climate and socioeconomic factors to better understand the spread of mosquito-borne diseases. While climate sensitivity of these diseases is well established, interactions wit\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013540",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013540.g007&size=inline",
+      "publishedAt": "2025-09-26 14:00:00",
+      "content": "Abstract A majority of all infectious diseases manifest some climate-sensitivity. However, many of those sensitivities are not well understood as meteorological drivers of infectious diseases co-occ\u2026 [+63150 chars]",
+      "retrievedAt": "2025-09-27 19:05:36.578842",
+      "internal_id": "e964ab0461a8880cadee27745ad8c525784afa12d73fb6bc5ca55dc3bae9e7b9",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24777,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Timothee Bonifay, Mathieu Nacher, Cl\u00e9mence Bonnefoy, Benjamin Rossi, Edouard Hallet, Philippe Abboud, Guillaume Bellaud, Nathalie Dournon, Aur\u00e9lia Henn, Adrien Lemaignen, Liem Binh Luong Nguyen, Diane Sanderink, Gaelle Walter, Alexandre Bleibtreu, Lo\u00efc Epelboin",
+      "title": "Comparing diagnostic methods for historical arbovirus outbreaks: Insights from 19th century \u201cdengue\u201d epidemics",
+      "description": "Author summary In the 18th and 19th centuries, several large epidemics were described under the name \u201cdengue,\u201d but their true cause remains uncertain. At that time, neither the dengue virus (DENV) nor the chikungunya virus (CHIKV) had been discovered. Yet the\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013551",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013551.g003&size=inline",
+      "publishedAt": "2025-09-26 14:00:00",
+      "content": "Abstract This study reexamines historical dengue epidemics of the 18th and 19th centuries, suggesting that chikungunya virus (CHIKV), rather than dengue virus (DENV), may have been responsible for m\u2026 [+41450 chars]",
+      "retrievedAt": "2025-09-27 19:05:36.620131",
+      "internal_id": "a8313d9ba1f3dc0ac230b97bf74aed72537d34b0bfe051bfc2726f46c3c01fe5",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24779,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Muluken Chanie Agimas, Mekuriaw Nibret Aweke, Berhanu Mengistu, Lemlem Daniel Baffa, Elsa Awoke Fentie, Ever Siyoum Shewarega, Aysheshim Kassahun Belew, Esmael Ali Muhammad",
+      "title": "Prevalence and associated factors of delay in seeking malaria treatment among under five children in the Horn of Africa: A systematic review and meta-analysis",
+      "description": "Introduction Malaria is a global public health problem, particularly in sub-Saharan African countries. It is responsible for 90% of all deaths worldwide. To reduce the impact and complications associated with delayed treatment of malaria among children under \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333593",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0333593.g012&size=inline",
+      "publishedAt": "2025-09-26 14:00:00",
+      "content": "Citation: Agimas MC, Aweke MN, Mengistu B, Baffa LD, Fentie EA, Shewarega ES, et al. (2025) Prevalence and associated factors of delay in seeking malaria treatment among under five children in the Ho\u2026 [+23456 chars]",
+      "retrievedAt": "2025-09-27 19:05:37.196988",
+      "internal_id": "e58b0f41d75adfd036896054d3b446bb54afb5bdb74b5eee6bc7b0a2d35c5225",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24774,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "Fresh Off Setting Measles Free, Florida's Going To Cure Your Cancer With Horse Paste",
+      "description": "Fine! Let them!",
+      "url": "https://www.wonkette.com/p/fresh-off-setting-measles-free-floridas",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!mW4E!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faff71ff9-3017-4214-9b46-5df81f8f9f7e_1170x802.png",
+      "publishedAt": "2025-09-26 12:55:29",
+      "content": "Earlier this week, Casey DeSantis, wife of Florida Governor Ron DeSantis, and Florida Surgeon General and snake oil enthusiast Dr. Joseph Ladapo held a press conference announcing $60 million in fund\u2026 [+5805 chars]",
+      "retrievedAt": "2025-09-27 19:05:35.919119",
+      "internal_id": "ae45e6dc8405015b3cac11a60a83c4f171d5f6205ac029ad9a44ddb860f75f96",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24781,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+      "author": "Eniola Lasaki",
+      "title": "BBNaija 2025: Commotion as Rooboy Swiftly Reacts After Zika Poured Her Plate of Hot Food on Him",
+      "description": "Housemates Zita and Rooboy\u2019s dramatic exchange on Big Brother Naija leads to a viral moment with food being thrown after a heated argument. Fans have been reacting.",
+      "url": "https://www.legit.ng/entertainment/tv-shows/1675853-bbnaija-2025-commotion-rooboy-swiftly-reacts-zita-poured-plate-hot-food-him/",
+      "urlToImage": "https://cdn.legit.ng/images/1200x675/2f34a0e6d14083ec.jpeg?v=1",
+      "publishedAt": "2025-09-26 08:19:54",
+      "content": "The height of all-time drama in the Big Brother Naija season 10 house has arrived as two housemates fought dirtyA task caused a heated altercation between Rooboy and Zita, which resu\u2026 [+3392 chars]",
+      "retrievedAt": "2025-09-27 19:05:37.439243",
+      "internal_id": "1b7f90c0e759039260292f07d1f3e266ea0d0f202604b25907190c290a90b0af",
+      "publishedAtLabel": "Sep 26"
+    },
     {
       "id": 24763,
       "query": [
@@ -91,6 +308,24 @@
       "content": "WHITESTOWN, N.Y. -- A bat in Whitestown has tested positive for rabies. According to the Oneida County Health Department, the bat was tested, with results confirmed on Sept. 25. Four people and thr\u2026 [+450 chars]",
       "retrievedAt": "2025-09-27 07:05:54.309063",
       "internal_id": "936907cfaa2e3a5b0536839d265497ea9b749e8b155fc6fe729601435b6fa031",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 24778,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Biomedcentral.com",
+      "author": "Yuyang Qiu, Yi Ye, Qiujun Yang, Jixun Zhao, Xiaobo Gong, Yimin Ma, Guangzhi Shi, Guiyun Li and Guofeng Wu",
+      "title": "Enterococci-related healthcare-associated ventriculitis and meningitis: a multicenter retrospective case series from clinical practice",
+      "description": "Healthcare-associated ventriculitis and meningitis (HCAVM) is a severe infection and is associated with high morbidity, mortality, and poor functional prognosis, and the associated microorganisms can be skin flora or nosocomial pathogens, most commonly Gram-n\u2026",
+      "url": "https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-025-04393-0",
+      "urlToImage": "https://media.springernature.com/full/springer-static/cover-hires/journal/12883",
+      "publishedAt": "2025-09-26 00:00:00",
+      "content": "Rogers T, Sok K, Erickson T, Aguilera E, Wootton SH, Murray KO, et al. The comparison of Gram-positive and Gram-negative healthcare-associated ventriculitis and meningitis in adults and children.\u2026 [+8962 chars]",
+      "retrievedAt": "2025-09-27 19:05:36.840437",
+      "internal_id": "b2d523095ff3e3323fac225bbeb7c48068dbacf6f8fccadf0f7ada091d4d6f82",
       "publishedAtLabel": "Sep 26"
     },
     {
@@ -20525,169 +20760,6 @@
       "content": "Debido a que tan solo en una semana se confirmaron 333 nuevos casos de dengue, en lo que va del a\u00f1o el pa\u00eds ya sum\u00f3 un total de 6 mil 030 contagios. De acuerdo al panorama epidemiol\u00f3gico del dengue c\u2026 [+1492 chars]",
       "retrievedAt": "2025-08-12 07:08:38.130588",
       "internal_id": "27d2ba5d4e7cd3c291feec080cbe9f5efb254ca9847388b542792c66e551a204",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23629,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "Bob Cronin with Newser.AI",
-      "title": "Coyote Chases, Bites Boy at Softball Game",
-      "description": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Carson on Monday when a coyote began to chase him. The boy trip\u2026",
-      "url": "https://www.newser.com/story/373284/coyote-chases-bites-boy-at-softball-game.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1627341-12-20250810124502.jpeg",
-      "publishedAt": "2025-08-10 17:45:00",
-      "content": "A 6-year-old boy needed 20 stitches and several rabies shots after being attacked by a coyote in California during his sister's softball game. Enoch Palomar was with his family at Del Amo Park in Car\u2026 [+277 chars]",
-      "retrievedAt": "2025-08-11 19:07:20.925092",
-      "internal_id": "95fdba2aa8a816da260b8e18152a07826acb0dd00abc545888479e7ecca6b3e3",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23631,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Only lab tests can confirm chikungunya infection",
-      "description": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/08/11/only-lab-tests-can-confirm-chikungunya-infection",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3460990.jpg",
-      "publishedAt": "2025-08-10 16:00:00",
-      "content": "PETALING JAYA: You get bitten by a mosquito and days later, there is a sudden onset of fever, muscle pain, headache and rash. While one may assume it is a dengue infection, there is also debilitatin\u2026 [+1545 chars]",
-      "retrievedAt": "2025-08-11 19:07:22.473626",
-      "internal_id": "efdb8a7e7e26c87cd717c847ded83a2fc394e7ef722e6f6c11ff2679568c904b",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23635,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "GERARD GIMINO, JUNAID IBRAHIM, TARRENCE TAN",
-      "title": "Experts: Don\u2019t let your guard down",
-      "description": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/08/11/experts-dont-let-your-guard-down",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/11/3461188.jpg",
-      "publishedAt": "2025-08-10 16:00:00",
-      "content": "PETALING JAYA: Amid an outbreak of chikungunya cases in China, health experts say Malaysia must not let its guard down as cross-border transmissions may pose a health threat. However, they say Malay\u2026 [+121 chars]",
-      "retrievedAt": "2025-08-11 19:07:24.038799",
-      "internal_id": "399706a7bc9738b5395b722b626fed8dafce76f112f8445ebc09ac9c74f42a32",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23630,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Hugo C\u00e9sar Marques",
-      "title": "O mist\u00e9rio da casa \u2018mal-assombrada\u2019 de um ex-senador em Bras\u00edlia",
-      "description": "Resid\u00eancia, que est\u00e1 fechada h\u00e1 18 anos, j\u00e1 motivou at\u00e9 abaixo-assinado de moradores assustados com barulhos, vultos e dengue",
-      "url": "https://veja.abril.com.br/brasil/o-misterio-da-casa-mal-assombrada-de-um-ex-senador-em-brasilia/",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/08/CASA-ACM.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-      "publishedAt": "2025-08-10 14:48:07",
-      "content": "Dia dos Pais: Revista em casa por 7,50/semanaA casa abandonada em \u00e1rea nobre de Bras\u00edlia - (Hugo Marques/VEJA) Continua ap\u00f3s publicidade Uma casa localizada em um bairro nobre de Bras\u00edlia chama a \u2026 [+2059 chars]",
-      "retrievedAt": "2025-08-11 19:07:22.405872",
-      "internal_id": "14bb3df5199d852276bf8f370a2b035e4d755805f2a459a6b2e2e195d8851d44",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23637,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Tv9gujarati.com",
-      "author": "Tv9 Gujarati",
-      "title": "\u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0a95\u0acb\u0aaa: \u0aae\u0aa7\u0ab0\u0abe\u0aa4\u0ac7 \u0ab2\u0ac7\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7 \u0aac\u0acd\u0ab2\u0aa1 \u0ab8\u0ac7\u0aae\u0acd\u0aaa\u0ab2, \u0a9a\u0ac0\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acb\u0ab0\u0acb\u0aa8\u0abe \u0a9c\u0ac7\u0ab5\u0abe \u0a95\u0aa1\u0a95 \u0aaa\u0a97\u0ab2\u0abe\u0a82; \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a95\u0ac7\u0ab8 \u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0abe",
-      "description": "Chikungunya Outbreak In China: \u0a9a\u0ac0\u0aa8\u0aa8\u0abe \u0a98\u0aa3\u0abe \u0ab6\u0ab9\u0ac7\u0ab0\u0acb\u0aae\u0abe\u0a82 \u0a9a\u0abf\u0a95\u0aa8\u0a97\u0ac1\u0aa8\u0abf\u0aaf\u0abe \u0ab0\u0acb\u0a97\u0aa8\u0abe \u0a95\u0ac7\u0ab8 \u0a9d\u0aa1\u0aaa\u0aa5\u0ac0 \u0ab5\u0aa7\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0ac7, \u0a85\u0aa4\u0acd\u0aaf\u0abe\u0ab0 \u0ab8\u0ac1\u0aa7\u0ac0 8000 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0ab2\u0acb\u0a95\u0acb \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0acb \u0aad\u0acb\u0a97 \u0aac\u0aa8\u0acd\u0aaf\u0abe \u0ab9\u0acb\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0ab3\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7. \u0a86 \u0ab0\u0acb\u0a97\u0aa8\u0ac7 \u0a95\u0abe\u0ab0\u0aa3\u0ac7 \u0aae\u0acb\u0a9f\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82 \u0ab2\u0acb\u0a95\u0acb\u0aa8\u0ac7 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ab5\u0abe \u0aaa\u0aa1\u0acd\u0aaf\u0abe \u0a9b\u0ac7.",
-      "url": "https://tv9gujarati.com/health/chikungunya-outbreak-in-china-public-outrage-over-strict-policies-like-corona-more-than-8000-cases-reported-so-far-1293476.html",
-      "urlToImage": "https://images.tv9gujarati.com/wp-content/uploads/2025/08/chine-1.jpg",
-      "publishedAt": "2025-08-10 13:31:26",
-      "content": ". . , . ? , . , , . . , 90 . . , 8,000 . , , . , , . , , . 4 , COVID-19 \u201c-COVID\u201d . . . 10,000 . , . . (CDC) -2 , , . . (WHO) 2004-05 , 119 5.6 .",
-      "retrievedAt": "2025-08-11 19:07:24.101982",
-      "internal_id": "62f447c54b1f8d8d38182063ee52cdfdfef7bd07d609fc9917c986ef373c1139",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23633,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Mundodeportivo.com",
-      "author": "Autor Redacci\u00f3n",
-      "title": "China confirma un brote con m\u00e1s de 7.000 casos de chikungunya y la r\u00e1pida propagaci\u00f3n del virus",
-      "description": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la preocupaci\u00f3n internacional por la r\u00e1pida propagaci\u00f3n del viru\u2026",
-      "url": "https://www.mundodeportivo.com/actualidad/20250810/1002512735/alarma-sanitaria-mundial-rapida-propagacion-virus-china-confirma-brote-mas-7-000-casos-chikungunya-dct.html",
-      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/05/02/626f816f31b2b.r_d.1337-948-0.jpeg",
-      "publishedAt": "2025-08-10 12:41:11",
-      "content": "Las autoridades sanitarias chinas han confirmado m\u00e1s de 7.000 casos de chikungunya en la provincia de Guangdong, especialmente en Foshan, desde mediados de junio de 2025. Este brote ha aumentado la p\u2026 [+2274 chars]",
-      "retrievedAt": "2025-08-11 19:07:23.767264",
-      "internal_id": "1058c29c431101983d3a9dfe36e913c786cbf8aa571590b6583e610785b8fadb",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23636,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Kevesko.vn",
-      "author": "Sputnik Vi\u1ec7t Nam",
-      "title": "D\u1ecbch Chikungunya b\u00f9ng ph\u00e1t \u1edf Trung Qu\u1ed1c, Vi\u1ec7t Nam c\u1ea3nh b\u00e1o kh\u1ea9n",
-      "description": "T\u1ea1i t\u1ec9nh Qu\u1ea3ng \u0110\u00f4ng (Trung Qu\u1ed1c) \u0111\u00e3 ghi nh\u1eadn h\u01a1n 7.000 ca m\u1eafc Chikungunya, l\u00e0 \u0111\u1ee3t d\u1ecbch l\u1edbn nh\u1ea5t t\u1eeb tr\u01b0\u1edbc t\u1edbi nay \u1edf khu v\u1ef1c n\u00e0y. V\u1edbi kh\u00ed h\u1eadu nhi\u1ec7t \u0111\u1edbi \u1ea9m v\u00e0 m\u1eadt \u0111\u1ed9 mu\u1ed7i cao, Vi\u1ec7t Nam c\u00f3 nguy c\u01a1 l\u1edbn n\u1ebfu d\u1ecbch x\u00e2m nh\u1eadp.",
-      "url": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html",
-      "urlToImage": "https://cdn.img.kevesko.vn/images/sharing/article/vie/37636514.jpg?376367051754828059",
-      "publishedAt": "2025-08-10 12:14:18",
-      "content": "https://kevesko.vn/20250810/dich-chikungunya-bung-phat-o-trung-quoc-viet-nam-canh-bao-khan-37636514.html Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc, Vit Nam cnh b\u00e1o khn Dch Chikungunya b\u00f9ng ph\u00e1t Trung Quc\u2026 [+7428 chars]",
-      "retrievedAt": "2025-08-11 19:07:24.055373",
-      "internal_id": "b621582129132d4ec9345b0ef63eb5fbbfd79115d3b0cb0641a9ff821d97a3c2",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23634,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "LADbible",
-      "author": "Ella Scott",
-      "title": "Everything we know about Chikungunya virus as China locks down patients after it spread to other countries",
-      "description": "The Chikungunya virus has spread to parts of Europe, Asia, Africa and the Americas after thousands of cases were reported in a Chinese province.",
-      "url": "https://www.ladbible.com/news/world-news/chikungunya-virus-symptoms-transmission-china-976133-20250810",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc82bb46a51bb0158/6898700f3266ed126fa68844/Screenshot_2025-08-10_at_09.40.51.png",
-      "publishedAt": "2025-08-10 10:38:40",
-      "content": "Chikungunya virus (CHIKV) is spreading like wildfire across Chinese cities, with health organisations reporting people in Europe, Africa, the Americas and other parts of Asia also coming down with th\u2026 [+4467 chars]",
-      "retrievedAt": "2025-08-11 19:07:23.898382",
-      "internal_id": "8c1f3e1f3d39208d611364363a61a7d429c7e7a1186f9a049b59a475d3cf8ddb",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 23632,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Jak skutecznie unika\u0107 uk\u0105sze\u0144 komar\u00f3w i cieszy\u0107 si\u0119 latem bez sw\u0119dzenia?",
-      "description": "Nasza podatno\u015b\u0107 na ataki komar\u00f3w wynika g\u0142\u00f3wnie z genetyki, ale odpowiednie wybory mog\u0105 znacznie ograniczy\u0107 liczb\u0119 uk\u0105sze\u0144. Odpowiednia odzie\u017c, rezygnacja z pachn\u0105cych kosmetyk\u00f3w i utrzymywanie czysto\u015bci wok\u00f3\u0142 domu to skuteczne strategie. A warto pami\u0119ta\u0107, \u017ce\u2026",
-      "url": "https://geekweek.interia.pl/porady/news-jak-skutecznie-unikac-komarow-i-cieszyc-sie-latem-bez-swedze,nId,22170683",
-      "urlToImage": "https://i.iplsc.com/-/000JPBHS8GP4I9QV-C461.jpg",
-      "publishedAt": "2025-08-10 09:00:01",
-      "content": "Szacuje si, e komary zabijaj ponad milion os\u00f3b rocznie, g\u00f3wnie przez przenoszenie takich chor\u00f3b, jak malaria. Te owady podaj za ludmi niemal wszdzie, gryzc nas i zakaajc. Istniej jednak pewne sposoby\u2026 [+2546 chars]",
-      "retrievedAt": "2025-08-11 19:07:23.001487",
-      "internal_id": "513735864904d86d9270de76088c041cc179700c344434b0f0fb29271ea69e35",
       "publishedAtLabel": "Aug 10"
     }
   ]
