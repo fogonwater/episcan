@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-09-28 07:06
-- **Most recent article:** 2025-09-27 04:34:41
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-09-28 19:05
+- **Most recent article:** 2025-09-27 18:41:31
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 28 | 249 |
-| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 229 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 17 | 182 |
+| measles | 50 | 33 | 45 | 39 | 54 | 30 | 251 |
+| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 228 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 183 |
 | mpox | 5 | 7 | 58 | 7 | 5 | 8 | 90 |
-| rabies | 39 | 6 | 9 | 5 | 14 | 16 | 89 |
-| malaria | 19 | 13 | 13 | 18 | 10 | 14 | 87 |
+| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 88 |
+| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 74 |
 | h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 48 |
 | meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 38 |
 | zika | 7 | 8 | 4 | 6 | 6 | 6 | 37 |
@@ -59,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 - [Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan](https://www.aljazeera.com/news/2025/9/23/spread-of-diseases-overwhelms-khartoum-hospitals-in-war-ravaged-sudan) (Al Jazeera English)
 
 ## 25-39 (rabies)
+
+- [WORLD RABIES DAY 2025: A Call for Collective Action](https://statetimes.in/world-rabies-day-2025-a-call-for-collective-action/) (Statetimes.in)
+
+- [What to do after a monkey bite: First aid, rabies risk, and expert advice](https://indianexpress.com/article/lifestyle/pets-animals/monkey-bite-first-aid-rabies-risk-expert-advice-10262942/) (The Indian Express)
 
 - [Fighting rabies: India to share its winning strategy with Southeast Asian neighbours](https://www.livemint.com/industry/rabies-prevention-india-rabies-deaths-india-india-stray-dogs-fight-against-rabies-dog-bites-11758891497647.html) (Livemint)
 
@@ -120,6 +124,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (measles)
 
+- [One-year-old infant dies of measles in Jerusalem](https://www.israelnationalnews.com/news/415473) (Israelnationalnews.com)
+
+- [Four measles cases confirmed in Northland, as health officials urge vigilance](https://www.rnz.co.nz/news/national/574339/four-measles-cases-identified-in-northland-as-health-officials-urge-vigilance) (RNZ)
+
 - [FIFO workers urged to get measles vaccine booster after mine outbreak](https://www.abc.net.au/news/2025-09-27/fortescue-measles-vaccine-boosters-christmas-creek-outbreak/105820426) (ABC News (AU))
 
 - [Q&A on Changes to Recommendations for Combined MMR and Chickenpox Vaccine](https://www.factcheck.org/2025/09/qa-on-changes-to-recommendations-for-combined-mmr-and-chickenpox-vaccine/) (FactCheck.org)
@@ -178,6 +186,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (malaria)
 
+- [ARPS Media - African Leaders Call for Bold, United Action to Tackle Global Health Crises and Sustain Malaria Progress](https://arpsmedia.com/african-leaders-call-for-bold-united-action-to-tackle-global-health-crises-and-sustain-malaria-progress/) (Arpsmedia.com)
+
 - [Radsport-Event in Ruanda: Malaria? Impfmarathon? Deutsche bei WM „positiv überrascht“](https://www.tagesspiegel.de/sport/radsport-event-in-ruanda-malaria-impfmarathon-deutsche-bei-wm-positiv-uberrascht-14403266.html) (Der Tagesspiegel)
 
 - [Prevalence and associated factors of delay in seeking malaria treatment among under five children in the Horn of Africa: A systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333593) (Plos.org)
@@ -229,6 +239,8 @@ Source: [News API](https://newsapi.org/)
 - [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
 
 ## 25-39 (dengue)
+
+- [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
 
 - [An explainable covariate compartmental model for predicting the spatio-temporal patterns of dengue in Sri Lanka](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013540) (Plos.org)
 
@@ -1906,40 +1918,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
-
-- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
-
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2397,5 +2375,3 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
-
-- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
