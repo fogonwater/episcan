@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 6
-- **Last harvest:** 2025-09-28 19:05
-- **Most recent article:** 2025-09-27 18:41:31
+- **Last harvest:** 2025-09-29 07:08
+- **Most recent article:** 2025-09-28 05:30:00
 
 ---
 
@@ -10,27 +10,35 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 30 | 251 |
-| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 228 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 183 |
-| mpox | 5 | 7 | 58 | 7 | 5 | 8 | 90 |
-| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 88 |
-| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 74 |
-| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 48 |
-| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 38 |
-| zika | 7 | 8 | 4 | 6 | 6 | 6 | 37 |
-| yersinia | 7 | 12 | 3 | 4 | 0 | 1 | 27 |
-| typhoid | 0 | 0 | 2 | 4 | 1 | 3 | 10 |
-| hpai | 1 | 1 | 1 | 4 | 1 | 1 | 9 |
-| leptospirosis | 2 | 0 | 2 | 1 | 0 | 2 | 7 |
-| pertussis | 0 | 1 | 3 | 0 | 2 | 0 | 6 |
+| Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 0 | 255 |
+| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 1 | 230 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 0 | 183 |
+| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 0 | 91 |
+| mpox | 5 | 7 | 58 | 7 | 5 | 8 | 0 | 90 |
+| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 1 | 89 |
+| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 0 | 48 |
+| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 0 | 38 |
+| zika | 7 | 8 | 4 | 6 | 6 | 6 | 0 | 37 |
+| yersinia | 7 | 12 | 3 | 4 | 0 | 1 | 0 | 27 |
+| typhoid | 0 | 0 | 2 | 4 | 1 | 3 | 0 | 10 |
+| hpai | 1 | 1 | 1 | 4 | 1 | 1 | 0 | 9 |
+| leptospirosis | 2 | 0 | 2 | 1 | 0 | 2 | 0 | 7 |
+| pertussis | 0 | 1 | 3 | 0 | 2 | 0 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-40 (malaria)
+
+- [¡A lo Atlas! Los Rojinegros terminan su malaria y se impone 3 a 2 ante el Necaxa](https://www.record.com.mx/futbol/liga-mx/atlas/lo-atlas-los-rojinegros-terminan-su-malaria-y-se-impone-3-2-ante-el-necaxa) (Record.com.mx)
+
+## 25-40 (chikungunya)
+
+- [Mervi kävi torilla, sitten iskivät oireet – kuva näyttää rajun muutoksen kasvoissa](https://www.is.fi/kotimaa/art-2000011506634.html) (Www.is.fi)
 
 ## 25-39 (zika)
 
@@ -124,6 +132,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-39 (measles)
 
+- [NYSDOH Advisory to Health Care Providers After Finding Measles Virus in Wastewater](https://www.oswegocounty.com/news_detail_T17_R3973.php) (Oswegocounty.com)
+
+- [Chief Rabbis urge vaccination following measles deaths in Jerusalem](https://www.israelnationalnews.com/news/415474) (Israelnationalnews.com)
+
+- [State Health Department detects measles virus in Oswego wastewater](https://cnycentral.com/news/local/state-health-department-detects-measles-virus-in-oswego-wastewater) (CNYcentral.com)
+
 - [One-year-old infant dies of measles in Jerusalem](https://www.israelnationalnews.com/news/415473) (Israelnationalnews.com)
 
 - [Four measles cases confirmed in Northland, as health officials urge vigilance](https://www.rnz.co.nz/news/national/574339/four-measles-cases-identified-in-northland-as-health-officials-urge-vigilance) (RNZ)
@@ -147,6 +161,8 @@ Source: [News API](https://newsapi.org/)
 - [One more Northern Health measles case confirmed on Sep 25th](https://energeticcity.ca/2025/09/25/one-more-new-measles-case-confirmed-in-northern-health-region/) (Energeticcity.ca)
 
 - [Three babies die within a week as measles outbreak spreads in Israel](https://www.haaretz.com/israel-news/2025-09-25/ty-article/.premium/three-babies-die-within-a-week-as-measles-outbreak-spreads-in-israel/00000199-80e3-d04a-adfd-bde3aeea0000) (Haaretz)
+
+- [Lawmaker urges stronger measles mitigation strategy amid rising cases](https://en.antaranews.com/news/382461/lawmaker-urges-stronger-measles-mitigation-strategy-amid-rising-cases) (Antaranews.com)
 
 - [Measles clusters pose outbreak risk in grand final trek](https://7news.com.au/news/measles-clusters-pose-outbreak-risk-in-grand-final-trek-c-20142330) (7NEWS.com.au)
 
@@ -1918,6 +1934,40 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
+
+- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
+
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2375,3 +2425,5 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
+
+- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
