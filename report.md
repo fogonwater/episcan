@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-09-29 19:06
-- **Most recent article:** 2025-09-28 14:21:23
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-09-30 07:08
+- **Most recent article:** 2025-09-29 04:23:08
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 34 | 0 | 255 |
-| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 1 | 229 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 1 | 184 |
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 1 | 256 |
+| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 1 | 230 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 3 | 186 |
+| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 4 | 95 |
 | mpox | 5 | 7 | 58 | 7 | 5 | 8 | 0 | 90 |
 | malaria | 19 | 13 | 13 | 18 | 10 | 15 | 1 | 89 |
-| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 2 | 76 |
-| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 0 | 48 |
-| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 0 | 38 |
+| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 1 | 49 |
+| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 1 | 39 |
 | zika | 7 | 8 | 4 | 6 | 6 | 6 | 0 | 37 |
 | yersinia | 7 | 12 | 3 | 4 | 0 | 1 | 0 | 27 |
 | typhoid | 0 | 0 | 2 | 4 | 1 | 3 | 0 | 10 |
@@ -34,15 +34,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (rabies)
 
+- [Rabies Causes and Symptom | કયા કયા પ્રાણીના કરડવાથી હડકવા થાય | Which animal bites cause rabies](https://zeenews.india.com/gujarati/health/not-only-dog-but-these-animal-bites-cause-rabies-know-which-animal-bites-cause-rabies-447232) (India.com)
+
+- [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
+
 - [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
 
 - [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
+
+## 25-40 (meningitis)
+
+- [A LXG toxin stabilized by DUF4176 contributes to Streptococcus suis competition and pathogenicity](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02391-9) (Biomedcentral.com)
+
+## 25-40 (measles)
+
+- [Chief rabbis call for public vaccination following four measles deaths](https://www.jpost.com/israel-news/article-868914) (The Jerusalem Post)
 
 ## 25-40 (malaria)
 
 - [¡A lo Atlas! Los Rojinegros terminan su malaria y se impone 3 a 2 ante el Necaxa](https://www.record.com.mx/futbol/liga-mx/atlas/lo-atlas-los-rojinegros-terminan-su-malaria-y-se-impone-3-2-ante-el-necaxa) (Record.com.mx)
 
+## 25-40 (h5n1)
+
+- [Circumpolar spread of avian influenza H5N1 to southern Indian Ocean islands](https://www.nature.com/articles/s41467-025-64297-y) (Nature.com)
+
 ## 25-40 (dengue)
+
+- [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
+
+- [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
 
 - [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
@@ -1944,6 +1964,40 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
+
+- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
+
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2401,3 +2455,5 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
+
+- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
