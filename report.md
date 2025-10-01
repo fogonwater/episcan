@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 7
-- **Last harvest:** 2025-10-01 07:07
-- **Most recent article:** 2025-09-30 06:50:00
+- **Last harvest:** 2025-10-01 19:06
+- **Most recent article:** 2025-09-30 17:45:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 34 | 5 | 260 |
-| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 3 | 232 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 8 | 191 |
-| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 6 | 97 |
-| mpox | 5 | 7 | 58 | 7 | 5 | 8 | 0 | 90 |
-| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 1 | 89 |
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 6 | 261 |
+| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 4 | 232 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 11 | 194 |
+| mpox | 5 | 7 | 58 | 7 | 5 | 8 | 1 | 91 |
+| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 2 | 90 |
+| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 6 | 80 |
 | h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 3 | 51 |
 | meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 1 | 39 |
 | zika | 7 | 8 | 4 | 6 | 6 | 6 | 1 | 38 |
@@ -50,11 +50,17 @@ Source: [News API](https://newsapi.org/)
 
 - [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
 
+## 25-40 (mpox)
+
+- [Clade 1 Mpox virus found in US wastewater- here's what you need to know about health risks](https://economictimes.indiatimes.com/news/international/us/clade-1-mpox-virus-found-in-us-wastewater-heres-what-you-need-to-know-about-health-risks/articleshow/124236855.cms) (The Times of India)
+
 ## 25-40 (meningitis)
 
 - [A LXG toxin stabilized by DUF4176 contributes to Streptococcus suis competition and pathogenicity](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02391-9) (Biomedcentral.com)
 
 ## 25-40 (measles)
+
+- [Two new measles cases confirmed in Northland linked to earlier infection](https://www.nzherald.co.nz/entertainment/two-new-measles-cases-confirmed-in-northland-linked-to-earlier-infection/4LG4YEPZIZAHXGD4F7VPEVLFJI/) (New Zealand Herald)
 
 - [Chief Rabbi's measles warning: 'The blood will be on their hands'](https://www.israelnationalnews.com/news/415577) (Israelnationalnews.com)
 
@@ -67,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [Chief rabbis call for public vaccination following four measles deaths](https://www.jpost.com/israel-news/article-868914) (The Jerusalem Post)
 
 ## 25-40 (malaria)
+
+- [Trump's USAID pause stranded lifesaving drugs. Children died waiting. (Washington Post)](https://www.memeorandum.com/250930/p91) (Memeorandum.com)
 
 - [¡A lo Atlas! Los Rojinegros terminan su malaria y se impone 3 a 2 ante el Necaxa](https://www.record.com.mx/futbol/liga-mx/atlas/lo-atlas-los-rojinegros-terminan-su-malaria-y-se-impone-3-2-ante-el-necaxa) (Record.com.mx)
 
@@ -86,6 +94,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (dengue)
 
+- [Complete mitogenomes of two major dengue vectors Aedes aegypti and Aedes albopictus from Bangladesh: Insights from comparative genomics with global mitogenome diversity and phylogenetics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333693) (Plos.org)
+
+- [Secretaría de Salud en Sonora intensifica acciones de control del dengue](https://www.tribuna.com.mx/sonora/2025/9/30/secretaria-de-salud-en-sonora-intensifica-acciones-de-control-del-dengue-415081.html) (Tribuna.com.mx)
+
+- [Over 5,000 dengue cases across 75 districts](https://mypeoplesreview.com/2025/09/30/over-5000-dengue-cases-across-75-districts/) (Mypeoplesreview.com)
+
 - [Dengue infections exceed 5,000 in 75 districts](https://english.khabarhub.com/2025/30/498688/) (Khabarhub.com)
 
 - [Dengue sigue en aumento en México; se reportan 567 casos en una semana](https://www.excelsior.com.mx/nacional/dengue-sigue-en-aumento-en-mexico-se-reportan-567-casos-en-una-semana/1742606) (Excelsior.com.mx)
@@ -103,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 - [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
+
+- [Infektionskrankheiten: Chikungunya auf dem Vormarsch: Die 7 wichtigsten Fragen](https://www.spektrum.de/news/fragen-und-antworten-zu-chikungunya-in-europa/2277159) (Spektrum.de)
 
 - [Valneva Reports 95% Seroresponse Four Years After Single Shot of Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2025/09/30/3158258/0/en/Valneva-Reports-95-Seroresponse-Four-Years-After-Single-Shot-of-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
@@ -2004,40 +2020,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
-
-- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
-
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2495,5 +2477,3 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
-
-- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
