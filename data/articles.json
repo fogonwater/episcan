@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-10-01 19:06",
-  "count_articles_total": 1033,
-  "count_articles_new": 7,
+  "last_updated": "2025-10-02 07:07",
+  "count_articles_total": 1054,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 24843,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Sarawak mulls licence for cats",
+      "description": "KUCHING: Sarawak may introduce cat licensing as a measure to combat rabies in the state, says Deputy Premier Datuk Amar Dr Sim Kui Hian. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/10/01/sarawak-mulls-licence-for-cats",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/01/3548035.jpg",
+      "publishedAt": "2025-09-30 23:00:00",
+      "content": "KUCHING: Sarawak may introduce cat licensing as a measure to combat rabies in the state, says Deputy Premier Datuk Amar Dr Sim Kui Hian. He said the move was in view of recent rabies deaths involvin\u2026 [+1468 chars]",
+      "retrievedAt": "2025-10-02 07:07:20.338281",
+      "internal_id": "9e198e3b7bd570b1ba88faf4a3e8962dcdba65663bb86018feb7ab86fd6555a9",
+      "publishedAtLabel": "Sep 30"
+    },
+    {
+      "id": 24844,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Zakaria",
+      "title": "Feature: In narrow alleys of Sudan's capital, volunteers battle dengue fever spread",
+      "description": "KHARTOUM, Sept. 30 (Xinhua) -- In the cramped, winding alleys of Khartoum, hundreds of volunteers traverse from home to home, their hands laden with spraying gear and inspection tools as they search for mosquito breeding sites, the primary transmission vector\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/10/01/feature-in-narrow-alleys-of-sudan039s-capital-volunteers-battle-dengue-fever-spread",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-09-30 20:26:00",
+      "content": "KHARTOUM, Sept. 30 (Xinhua) -- In the cramped, winding alleys of Khartoum, hundreds of volunteers traverse from home to home, their hands laden with spraying gear and inspection tools as they search \u2026 [+3971 chars]",
+      "retrievedAt": "2025-10-02 07:07:20.983456",
+      "internal_id": "20b742750717edf171e7916b5fdbdbf0b6eddfc9979a455e6dccabe913591e99",
+      "publishedAtLabel": "Sep 30"
+    },
+    {
+      "id": 24845,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Daniel Arjona",
+      "title": "As\u00ed infect\u00f3 el nazismo un peque\u00f1o pueblo alem\u00e1n y esto es lo que puede ense\u00f1arnos: \"La normalizaci\u00f3n del mal no llega de golpe sino por acumulaci\u00f3n de peque\u00f1as concesiones\"",
+      "description": "La historiadora brit\u00e1nica Julia Boyd publica 'Un pueblo en el Tercer Reich', una espeluznante historia acerca de c\u00f3mo el totalitarismo afect\u00f3 a la gente corriente que se sirve de una min\u00fascula localidad para radiografiar la Alemania de Hitler Leer",
+      "url": "https://www.elmundo.es/cultura/2025/09/30/68dbb403e9cf4ab63b8b45b0.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/3883190be919997934590d5d387db091/crop/77x0/3072x1997/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/30/17592289487200.jpg",
+      "publishedAt": "2025-09-30 19:33:18",
+      "content": "La carta lleg\u00f3 con una gran esv\u00e1stica en el membrete. Dec\u00eda que Theodor Weissenberger, un muchacho de 19 a\u00f1os, hab\u00eda muerto de meningitis. Era mentira. Theodor, ciego de nacimiento, m\u00fasico, nieto del\u2026 [+8650 chars]",
+      "retrievedAt": "2025-10-02 07:07:21.328977",
+      "internal_id": "bf259db1f647480e4100e4db07c22090a497aa6a45fad747ceefe2685004c148",
+      "publishedAtLabel": "Sep 30"
+    },
     {
       "id": 24840,
       "query": [
@@ -18699,6 +18753,330 @@
       "content": "Colorado health officials confirmed a new measles case in Mesa County last week, marking the state\u2019s 20th case this year. The Mesa County resident has no known connection to other recent exposures r\u2026 [+2545 chars]",
       "retrievedAt": "2025-08-19 07:07:42.670439",
       "internal_id": "9e86263bd5dda284b636b99e5bf44ea9aa93478335c9fadc78d7ead1ced496b1",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23806,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:25",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.146621",
+      "internal_id": "e2c8c128cbe327c38d33ca0ed7672ace0c4ee0b6ae54d8324a64600aba851f3a",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23803,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:24",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.120235",
+      "internal_id": "34c18089d60d777c48ead950675cd78f6368333c205342eb3cbe88a93e95beb5",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23801,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KOAT New Mexico",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:20",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.101792",
+      "internal_id": "5c3d3ef18f1c41b1eb558bab479ae1b67703afc434c8312cc0bdd58d35de3057",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23793,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WBAL TV Baltimore",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:19",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.030337",
+      "internal_id": "ce0020f7ff533b6e46e2fcd8eb06c5a85aacfadc8b8d7a34726dab8487046c6f",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23800,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WXII12 Winston-Salem",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:17",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.092853",
+      "internal_id": "6937a66878d6d4e81294f0c4c7ee450a79dd89b1a6e591b7bfad993b0899960f",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23794,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WDSU New Orleans",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:09",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.039545",
+      "internal_id": "4e095760f3955f6f7389274545a268bad054bf25e550ab2455cde1638063101a",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23808,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMTW Portland",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:05",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.164195",
+      "internal_id": "2c91d1c8cb166b17853d0ef62253aedae4856dd53bebd9217774d789df1f47fc",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23797,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:02",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.066161",
+      "internal_id": "4e8fc314c965b46a2093f690c1f3e50680c6215660e8bbcb41bc759cb9b23604",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23805,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WTAE Pittsburgh",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:54",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.137529",
+      "internal_id": "278697267136e3ce5ff96870c6479a4acb87c72c72684c54bb42142cddc0b9ee",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23804,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:50",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.128774",
+      "internal_id": "b96650d13f3da4e82e1179e64d19d24944e6fb6965eb722c3b073bcc03583109",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23807,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WGAL Susquehanna Valley Pa.",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:49",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.155251",
+      "internal_id": "8b258d4cc17a409d5757bf9c298c59bb6987fe201391f8e3feeede000a4c894b",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23795,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMUR Manchester",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:38",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.048219",
+      "internal_id": "a422276f37d01c4a3b2385955dd89fe6d336e82370e3f27d0cce27ba0f5e08a3",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23796,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KOCO Oklahoma City",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:06:08",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.057515",
+      "internal_id": "aa24c9e5416a4416411a6685fdc09d2366898959683c3bb0f3d821e88d3dd6ff",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23798,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KMBC Kansas City",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:06:07",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.075167",
+      "internal_id": "de0dda37e13b35fd6db2a5ada9c9e0d8177511fb7bd2a1b146e6c6c71326c2c1",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23802,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WLKY Louisville",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:06:01",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.111631",
+      "internal_id": "b5d5def35f14b3a57cac98f01fe6596f9b56e3bc38e1505a88e56fd2ba3ec0a4",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23799,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KCRA Sacramento",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:05:56",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.083985",
+      "internal_id": "6929df6e5b248fb9f6773b406e3f6155852bf984664fab82feac91642724fc78",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23792,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson",
+      "title": "Hundreds Get Rabies Warning After Stay in National Park",
+      "description": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park over the past few months. As of Friday, none of the bats found\u2026",
+      "url": "https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1628453-12-20250817091617.jpeg",
+      "publishedAt": "2025-08-17 14:00:00",
+      "content": "Other bats weren't killed but got shooed out through cabin doors and windows. Health officials thus deemed it better safe than sorry to alert everybody who has stayed in the cabins recently that they\u2026 [+1388 chars]",
+      "retrievedAt": "2025-08-18 19:06:50.989996",
+      "internal_id": "071c311c85f165ec50f5299c70aa8bdb3e5e00d31ea04c115a1e2a03a21ffaf6",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23809,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Hong Kong authorities will \u2018act first\u2019 to prevent chikungunya fever: minister",
+      "description": "Environment chief says hygiene officers will take action to clear stagnant water, even in places where responsibility for maintenance is unclear",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/17/3466631.jpg",
+      "publishedAt": "2025-08-17 13:26:03",
+      "content": "Hong Kongs hygiene officers will adopt an act first approach by clearing stagnant water in unattended private places to tackle the threat of chikungunya fever, the citys environment minister has said\u2026 [+3806 chars]",
+      "retrievedAt": "2025-08-18 19:06:58.007583",
+      "internal_id": "85304e95b4017002542506275715df0f6acd6c321ac0a4c2dbe1dec0122c5ac8",
       "publishedAtLabel": "Aug 17"
     }
   ]
