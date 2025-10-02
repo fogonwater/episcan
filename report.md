@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-10-02 07:07
-- **Most recent article:** 2025-09-30 23:00:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-10-02 19:06
+- **Most recent article:** 2025-10-01 18:46:12
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 34 | 6 | 261 |
-| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 4 | 233 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 12 | 195 |
-| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 7 | 98 |
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 7 | 262 |
+| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 8 | 236 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 17 | 200 |
+| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 3 | 91 |
 | mpox | 5 | 7 | 58 | 7 | 5 | 8 | 1 | 91 |
-| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 2 | 90 |
-| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 3 | 51 |
-| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 2 | 40 |
-| zika | 7 | 8 | 4 | 6 | 6 | 6 | 1 | 38 |
+| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 7 | 81 |
+| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 7 | 55 |
+| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 3 | 41 |
+| zika | 7 | 8 | 4 | 6 | 6 | 6 | 3 | 40 |
 | yersinia | 7 | 12 | 3 | 4 | 0 | 1 | 0 | 27 |
+| leptospirosis | 2 | 0 | 2 | 1 | 0 | 2 | 3 | 10 |
+| hpai | 1 | 1 | 1 | 4 | 1 | 1 | 1 | 10 |
 | typhoid | 0 | 0 | 2 | 4 | 1 | 3 | 0 | 10 |
-| leptospirosis | 2 | 0 | 2 | 1 | 0 | 2 | 2 | 9 |
-| hpai | 1 | 1 | 1 | 4 | 1 | 1 | 0 | 9 |
 | pertussis | 0 | 1 | 3 | 0 | 2 | 0 | 0 | 6 |
 
 
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-40 (zika)
+
+- [Smart mosquito traps mimic human breath and body heat, eliminating up to 30,000 mosquitoes daily](https://www.notebookcheck.net/Smart-mosquito-traps-mimic-human-breath-and-body-heat-eliminating-up-to-30-000-mosquitoes-daily.1128905.0.html) (Notebookcheck.net)
+
+- [Two species of disease-carrying mosquitoes found in UK](https://news.sky.com/story/two-species-of-disease-carrying-mosquitoes-found-in-uk-13442175) (Sky.com)
 
 - [Sportfilm rozdal ceny, uspěl dokument o Krpálkovi i Kolečko s Kouzlem derby](https://www.idnes.cz/liberec/zpravy/sportfilm-festival-douglas-kouzlo-derby-lukas-krpalek.A250929_095947_liberec-zpravy_jape) (Idnes.cz)
 
@@ -58,11 +62,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (meningitis)
 
+- [Estas son las secuelas neurológicas ocultas que puede dejar la meningitis](https://www.infosalus.com/salud-investigacion/noticia-son-secuelas-neurologicas-ocultas-puede-dejar-meningitis-20251001144156.html) (Infosalus.com)
+
 - [Así infectó el nazismo un pequeño pueblo alemán y esto es lo que puede enseñarnos: "La normalización del mal no llega de golpe sino por acumulación de pequeñas concesiones"](https://www.elmundo.es/cultura/2025/09/30/68dbb403e9cf4ab63b8b45b0.html) (El Mundo)
 
 - [A LXG toxin stabilized by DUF4176 contributes to Streptococcus suis competition and pathogenicity](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02391-9) (Biomedcentral.com)
 
 ## 25-40 (measles)
+
+- [Aldi customers might have been exposed to measles in Crestwood, Illinois, Cook Co. health officials say](https://abc7chicago.com/post/aldi-customers-might-have-been-exposed-measles-crestwood-illinois-cook-health-officials-say/17917580/) (WLS-TV)
 
 - [Two new measles cases confirmed in Northland linked to earlier infection](https://www.nzherald.co.nz/entertainment/two-new-measles-cases-confirmed-in-northland-linked-to-earlier-infection/4LG4YEPZIZAHXGD4F7VPEVLFJI/) (New Zealand Herald)
 
@@ -78,17 +86,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (malaria)
 
+- [Smart mosquito traps mimic human breath and body heat, eliminating up to 30,000 mosquitoes daily](https://www.notebookcheck.net/Smart-mosquito-traps-mimic-human-breath-and-body-heat-eliminating-up-to-30-000-mosquitoes-daily.1128905.0.html) (Notebookcheck.net)
+
 - [Trump's USAID pause stranded lifesaving drugs. Children died waiting. (Washington Post)](https://www.memeorandum.com/250930/p91) (Memeorandum.com)
 
 - [¡A lo Atlas! Los Rojinegros terminan su malaria y se impone 3 a 2 ante el Necaxa](https://www.record.com.mx/futbol/liga-mx/atlas/lo-atlas-los-rojinegros-terminan-su-malaria-y-se-impone-3-2-ante-el-necaxa) (Record.com.mx)
 
 ## 25-40 (leptospirosis)
 
+- [Yale researchers develop novel test for tropical disease](https://medicine.yale.edu/news-article/yale-researchers-develop-novel-test-for-leptospirosis/) (Yale.edu)
+
 - [Bacolod: 7th leptospirosis death logged in Bacolod](https://rpnradio.com/bacolod-7th-leptospirosis-death-logged-in-bacolod/) (Rpnradio.com)
 
 - [Leptospirosis in Campinas, Brazil: The interplay between drainage, impermeable areas, and social vulnerability](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013560) (Plos.org)
 
+## 25-40 (hpai)
+
+- [Goldman Sachs Group Inc. Invests $63,000 in Helport AI Limited $HPAI](https://www.etfdailynews.com/2025/10/01/goldman-sachs-group-inc-invests-63000-in-helport-ai-limited-hpai/) (ETF Daily News)
+
 ## 25-40 (h5n1)
+
+- [La Junta declara dos focos de gripe aviar en explotaciones avícolas de Valladolid](https://www.abc.es/espana/castilla-leon/junta-declara-dos-focos-gripe-aviar-explotaciones-20251001204611-nt.html) (Www.abc.es)
+
+- [Madrid activa el protocolo por un foco de gripe aviar en una explotación de Valdemoro con 450.000 gallinas](https://www.eleconomista.es/actualidad/noticias/13573124/10/25/madrid-activa-el-protocolo-por-un-foco-de-gripe-aviar-en-una-explotacion-en-valdemoro-con-450000-gallinas.html) (Eleconomista.es)
+
+- [La Comunidad activa el protocolo por un foco de gripe aviar en una explotación en Valdemoro con 450.000 gallinas](https://www.europapress.es/madrid/noticia-comunidad-activa-protocolo-foco-gripe-aviar-explotacion-valdemoro-450000-gallinas-20251001190410.html) (Europapress.es)
+
+- [La Influenza Aviar obliga a sacrificar 102.000 gallinas en dos explotaciones de la provincia de Valladolid](https://www.europapress.es/castilla-y-leon/noticia-influenza-aviar-obliga-sacrificar-102000-gallinas-dos-explotaciones-provincia-valladolid-20251001184849.html) (Europapress.es)
 
 - [Учёные выяснили, что пастеризация уничтожает вирус птичьего гриппа в молоке](https://www.ferra.ru/news/health/uchyonye-vyyasnili-chto-pasterizaciya-unichtozhaet-virus-ptichego-grippa-v-moloke-28-09-2025.htm) (Ferra.ru)
 
@@ -97,6 +121,16 @@ Source: [News API](https://newsapi.org/)
 - [Circumpolar spread of avian influenza H5N1 to southern Indian Ocean islands](https://www.nature.com/articles/s41467-025-64297-y) (Nature.com)
 
 ## 25-40 (dengue)
+
+- [Mumbai sees sharp surge in dengue cases in Sept, finds BMC data](https://timesofindia.indiatimes.com/city/mumbai/mumbai-sees-sharp-surge-in-dengue-cases-in-sept-finds-bmc-data/articleshow/124264739.cms) (The Times of India)
+
+- [Smart mosquito traps mimic human breath and body heat, eliminating up to 30,000 mosquitoes daily](https://www.notebookcheck.net/Smart-mosquito-traps-mimic-human-breath-and-body-heat-eliminating-up-to-30-000-mosquitoes-daily.1128905.0.html) (Notebookcheck.net)
+
+- [Two species of disease-carrying mosquitoes found in UK](https://news.sky.com/story/two-species-of-disease-carrying-mosquitoes-found-in-uk-13442175) (Sky.com)
+
+- [Chikungunya, dengue, virus West Nile : l’Hexagone face à une recrudescence inédite des maladies transmises par les moustiques-tigres](https://www.lemonde.fr/sante/article/2025/10/01/chikungunya-dengue-fievre-west-nile-l-hexagone-face-a-une-recrudescence-inedite-des-maladies-transmises-par-les-moustiques-tigres_6643881_1651302.html) (Le Monde)
+
+- [Demuestran la efectividad de la vacuna Qdenga frente al dengue durante el brote de Brasil de 2024](https://www.europapress.es/catalunya/noticia-demuestran-efectividad-vacuna-qdenga-frente-dengue-brote-brasil-2024-20251001120644.html) (Europapress.es)
 
 - [Feature: In narrow alleys of Sudan's capital, volunteers battle dengue fever spread](https://www.thestar.com.my/news/world/2025/10/01/feature-in-narrow-alleys-of-sudan039s-capital-volunteers-battle-dengue-fever-spread) (The Star Online)
 
@@ -123,6 +157,14 @@ Source: [News API](https://newsapi.org/)
 - [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
+
+- [Chikungunya: nuovo caso a Verona, al via disinfestazioni](https://www.ansa.it/veneto/notizie/2025/10/01/chikungunya-nuovo-caso-a-verona-al-via-disinfestazioni_bdbd22de-5ea8-407b-93c4-1a8e92df6139.html) (ANSA.it)
+
+- [Chikungunya : l’ascension des cas autochtones continue dans l’Hexagone](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-lascension-des-cas-autochtones-continue-dans-lhexagone-28183c5a-9eca-11f0-9269-ac82a639081c) (Ouest-France)
+
+- [Two species of disease-carrying mosquitoes found in UK](https://news.sky.com/story/two-species-of-disease-carrying-mosquitoes-found-in-uk-13442175) (Sky.com)
+
+- [Chikungunya, dengue, virus West Nile : l’Hexagone face à une recrudescence inédite des maladies transmises par les moustiques-tigres](https://www.lemonde.fr/sante/article/2025/10/01/chikungunya-dengue-fievre-west-nile-l-hexagone-face-a-une-recrudescence-inedite-des-maladies-transmises-par-les-moustiques-tigres_6643881_1651302.html) (Le Monde)
 
 - [Infektionskrankheiten: Chikungunya auf dem Vormarsch: Die 7 wichtigsten Fragen](https://www.spektrum.de/news/fragen-und-antworten-zu-chikungunya-in-europa/2277159) (Spektrum.de)
 
@@ -2026,40 +2068,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
-
-- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
-
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2517,5 +2525,3 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
-
-- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
