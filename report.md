@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-10-02 19:06
-- **Most recent article:** 2025-10-01 18:46:12
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-10-03 07:07
+- **Most recent article:** 2025-10-02 06:53:32
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 34 | 7 | 262 |
-| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 8 | 236 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 17 | 200 |
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 10 | 265 |
+| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 10 | 239 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 19 | 202 |
+| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 7 | 98 |
 | malaria | 19 | 13 | 13 | 18 | 10 | 15 | 3 | 91 |
 | mpox | 5 | 7 | 58 | 7 | 5 | 8 | 1 | 91 |
-| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 7 | 81 |
 | h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 7 | 55 |
 | meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 3 | 41 |
 | zika | 7 | 8 | 4 | 6 | 6 | 6 | 3 | 40 |
@@ -69,6 +69,12 @@ Source: [News API](https://newsapi.org/)
 - [A LXG toxin stabilized by DUF4176 contributes to Streptococcus suis competition and pathogenicity](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02391-9) (Biomedcentral.com)
 
 ## 25-40 (measles)
+
+- [Three more measles cases detected in Northland outbreak](https://www.nzherald.co.nz/nz/three-more-measles-cases-detected-in-northland-outbreak/NNIF7WAD6RGSXCRHRMF32PDIVQ/) (New Zealand Herald)
+
+- [10 new measles cases reported in Minnesota among unvaccinated patients](https://www.fox9.com/news/10-new-measles-cases-reported-minnesota) (FOX 9)
+
+- [Manitoba reports total of 22 measles cases in September](https://www.cbc.ca/news/canada/manitoba/measles-cases-september-2025-1.7648471) (CBC News)
 
 - [Aldi customers might have been exposed to measles in Crestwood, Illinois, Cook Co. health officials say](https://abc7chicago.com/post/aldi-customers-might-have-been-exposed-measles-crestwood-illinois-cook-health-officials-say/17917580/) (WLS-TV)
 
@@ -122,6 +128,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (dengue)
 
+- [Campinas ganha biofábrica capaz de produzir 190 milhões de mosquitos com bactéria que bloqueia transmissão da dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2025/10/01/campinas-ganha-biofabrica-capaz-de-produzir-190-milhoes-de-mosquitos-com-bacteria-que-bloqueia-transmissao-da-dengue.ghtml) (Globo)
+
+- [Dos bebés han muerto por dengue en Veracruz; entidad registra mil 700 casos](https://www.milenio.com/estados/veracruz-registra-mil-700-casos-por-dengue) (Milenio)
+
 - [Mumbai sees sharp surge in dengue cases in Sept, finds BMC data](https://timesofindia.indiatimes.com/city/mumbai/mumbai-sees-sharp-surge-in-dengue-cases-in-sept-finds-bmc-data/articleshow/124264739.cms) (The Times of India)
 
 - [Smart mosquito traps mimic human breath and body heat, eliminating up to 30,000 mosquitoes daily](https://www.notebookcheck.net/Smart-mosquito-traps-mimic-human-breath-and-body-heat-eliminating-up-to-30-000-mosquitoes-daily.1128905.0.html) (Notebookcheck.net)
@@ -157,6 +167,10 @@ Source: [News API](https://newsapi.org/)
 - [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
+
+- [Tropisk mygga bakom stort utbrott på Franska rivieran](https://www.dn.se/sverige/tropisk-mygga-bakom-stort-utbrott-pa-franska-rivieran/) (Www.dn.se)
+
+- [Deadly mosquito-borne virus sparks CDC travel alert — could it reach the US?](https://www.foxnews.com/health/deadly-mosquito-borne-virus-sparks-cdc-travel-alert-could-reach-us) (Fox News)
 
 - [Chikungunya: nuovo caso a Verona, al via disinfestazioni](https://www.ansa.it/veneto/notizie/2025/10/01/chikungunya-nuovo-caso-a-verona-al-via-disinfestazioni_bdbd22de-5ea8-407b-93c4-1a8e92df6139.html) (ANSA.it)
 
@@ -2068,6 +2082,40 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
+
+- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
+
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2525,3 +2573,5 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
+
+- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
