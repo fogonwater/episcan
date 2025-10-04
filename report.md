@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-10-04 07:06
-- **Most recent article:** 2025-10-03 05:07:17
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-10-04 19:05
+- **Most recent article:** 2025-10-03 19:00:05
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 34 | 20 | 275 |
-| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 15 | 244 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 26 | 209 |
-| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 10 | 101 |
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 25 | 280 |
+| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 23 | 251 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 29 | 212 |
 | malaria | 19 | 13 | 13 | 18 | 10 | 15 | 10 | 98 |
 | mpox | 5 | 7 | 58 | 7 | 5 | 8 | 1 | 91 |
-| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 9 | 57 |
-| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 4 | 42 |
-| zika | 7 | 8 | 4 | 6 | 6 | 6 | 4 | 41 |
+| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 10 | 84 |
+| h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 10 | 58 |
+| meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 5 | 43 |
+| zika | 7 | 8 | 4 | 6 | 6 | 6 | 5 | 42 |
 | yersinia | 7 | 12 | 3 | 4 | 0 | 1 | 0 | 27 |
-| leptospirosis | 2 | 0 | 2 | 1 | 0 | 2 | 3 | 10 |
-| hpai | 1 | 1 | 1 | 4 | 1 | 1 | 1 | 10 |
+| leptospirosis | 2 | 0 | 2 | 1 | 0 | 2 | 5 | 12 |
+| hpai | 1 | 1 | 1 | 4 | 1 | 1 | 2 | 11 |
 | typhoid | 0 | 0 | 2 | 4 | 1 | 3 | 0 | 10 |
 | pertussis | 0 | 1 | 3 | 0 | 2 | 0 | 1 | 7 |
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-40 (zika)
+
+- [Mosquito transmissor do dengue detetado em Condeixa-a-Nova](https://observador.pt/2025/10/03/mosquito-transmissor-do-dengue-zika-e-chikungunya-detetado-em-condeixa-a-nova/) (Observador.pt)
 
 - [Mosquitoes that carry Chikungunya virus which forced China into 'pandemic measures' found in UK](https://www.ladbible.com/news/health/mosquito-eggs-chikungunya-uk-china-pandemic-874158-20251002) (LADbible)
 
@@ -74,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (meningitis)
 
+- [West Nile virus vaccine candidates attenuated by dinucleotide enrichment are immunogenic and protective against lethal infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013560) (Plos.org)
+
 - [Neurólogos señalan que cada año se identifican unos 1.000 casos de meningitis en España, un 10% muy graves](https://www.infosalus.com/salud-investigacion/noticia-neurologos-senalan-cada-ano-identifican-1000-casos-meningitis-espana-10-muy-graves-20251002151030.html) (Infosalus.com)
 
 - [Estas son las secuelas neurológicas ocultas que puede dejar la meningitis](https://www.infosalus.com/salud-investigacion/noticia-son-secuelas-neurologicas-ocultas-puede-dejar-meningitis-20251001144156.html) (Infosalus.com)
@@ -83,6 +87,16 @@ Source: [News API](https://newsapi.org/)
 - [A LXG toxin stabilized by DUF4176 contributes to Streptococcus suis competition and pathogenicity](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02391-9) (Biomedcentral.com)
 
 ## 25-40 (measles)
+
+- [Minnesota measles cases nearly double as U.S. outbreaks continue (Erika Edwards/NBC News)](https://www.memeorandum.com/251003/p61) (Memeorandum.com)
+
+- [SC measles outbreak centered around Upstate school](https://www.postandcourier.com/news/sc-measles-outbreak-upstate-school/article_115591e1-d795-41cc-a21c-22f98adc937e.html) (Charleston Post Courier)
+
+- [Measles is spreading in these states. Here's what to know.](https://www.nbcnews.com/health/health-news/measles-minnesota-double-us-outbreaks-vaccine-continue-rcna235144) (NBC News)
+
+- [Pilbara measles outbreak: Two new cases confirmed by WA Health, hospitals among exposure sites](https://thewest.com.au/news/pilbara-news/pilbara-measles-outbreak-two-new-cases-confirmed-by-wa-health-hospitals-among-exposure-sites-c-20227556) (The West Australian)
+
+- [Pilbara measles outbreak: Two new cases confirmed by WA Health, hospitals among exposure sites](https://www.perthnow.com.au/news/public-health/pilbara-measles-outbreak-two-new-cases-confirmed-by-wa-health-hospitals-among-exposure-sites-c-20227556) (PerthNow)
 
 - [Canada reports first death linked to measles epidemic](https://economictimes.indiatimes.com/news/international/world-news/canada-reports-first-death-linked-to-measles-epidemic/articleshow/124281274.cms) (The Times of India)
 
@@ -148,6 +162,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (leptospirosis)
 
+- ['कुछ भी खतरनाक नहीं मिला, अभी जांच जारी', स्वास्थ्य मंत्रालय ने 'जानलेवा' कफ सिरप पर जारी किया बयान](https://www.aajtak.in/india/news/story/health-ministry-clears-cough-syrup-no-dangerous-substance-found-ntc-rptc-2347566-2025-10-03) (Aajtak.in)
+
+- [Health ministry issues advisory on safe use of paediatric cough syrups after child deaths in Madhya Pradesh](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/health-ministry-issues-advisory-on-safe-use-of-paediatric-cough-syrups-after-child-deaths-in-madhya-pradesh/articleshow/124291314.cms) (The Times of India)
+
 - [Yale researchers develop novel test for tropical disease](https://medicine.yale.edu/news-article/yale-researchers-develop-novel-test-for-leptospirosis/) (Yale.edu)
 
 - [Bacolod: 7th leptospirosis death logged in Bacolod](https://rpnradio.com/bacolod-7th-leptospirosis-death-logged-in-bacolod/) (Rpnradio.com)
@@ -156,9 +174,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (hpai)
 
+- [Exploring the molecular and biological mechanisms of host response in chickens infected with highly pathogenic avian influenza virus (H5N1): An integrative transcriptomic analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332689) (Plos.org)
+
 - [Goldman Sachs Group Inc. Invests $63,000 in Helport AI Limited $HPAI](https://www.etfdailynews.com/2025/10/01/goldman-sachs-group-inc-invests-63000-in-helport-ai-limited-hpai/) (ETF Daily News)
 
 ## 25-40 (h5n1)
+
+- [Exploring the molecular and biological mechanisms of host response in chickens infected with highly pathogenic avian influenza virus (H5N1): An integrative transcriptomic analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332689) (Plos.org)
 
 - [California case suggests Tamiflu may save cats infected with H5N1 bird flu](https://www.bostonherald.com/2025/10/02/tamiflu-cats-avian-flu-infection/) (Boston Herald)
 
@@ -179,6 +201,12 @@ Source: [News API](https://newsapi.org/)
 - [Circumpolar spread of avian influenza H5N1 to southern Indian Ocean islands](https://www.nature.com/articles/s41467-025-64297-y) (Nature.com)
 
 ## 25-40 (dengue)
+
+- [Brasil inaugura maior fábrica de mosquitos da dengue ‘do bem’; veja fotos](https://veja.abril.com.br/saude/brasil-inaugura-maior-fabrica-de-mosquitos-da-dengue-do-bem-veja-fotos/) (Abril.com.br)
+
+- [Mosquito transmissor do dengue detetado em Condeixa-a-Nova](https://observador.pt/2025/10/03/mosquito-transmissor-do-dengue-zika-e-chikungunya-detetado-em-condeixa-a-nova/) (Observador.pt)
+
+- [Severe dengue in adults: Clinical features from the 2022 dengue outbreak at a Vietnamese tertiary hospital](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013589) (Plos.org)
 
 - [Protests in Peru, a soccer fan poses and more top photos this week from Latin America](https://abcnews.go.com/International/wireStory/protests-peru-soccer-fan-poses-top-photos-week-126170958) (ABC News)
 
@@ -233,6 +261,22 @@ Source: [News API](https://newsapi.org/)
 - [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
+
+- [Mosquito transmissor do dengue detetado em Condeixa-a-Nova](https://observador.pt/2025/10/03/mosquito-transmissor-do-dengue-zika-e-chikungunya-detetado-em-condeixa-a-nova/) (Observador.pt)
+
+- [Wochenlange Gelenkschmerzen: Hunderte Fälle von Infektionen mit Chikungunya-Virus](https://www.n-tv.de/wissen/Hunderte-Faelle-von-Infektionen-mit-Chikungunya-Virus-article26073194.html) (N-tv.de)
+
+- [Temporal and spatial profiling of Aedes albopictus immune responses to chikungunya virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013588) (Plos.org)
+
+- [Veszélyes vírus terjed a népszerű európai üdülőhelyen](https://index.hu/kulfold/2025/10/03/virus-europa-olaszorszag-szunyogok-chikungunya-laz/) (Index.hu)
+
+- [Asiatische Tigermücke: Chikungunya-Virus breitet sich in Italien aus](https://www.zeit.de/wissen/2025-10/chikungunya-virus-italien) (Die Zeit)
+
+- [Global study projects 51 lakh in India could be at risk of chikungunya every year in long-term](https://economictimes.indiatimes.com/news/india/global-study-projects-51-lakh-in-india-could-be-at-risk-of-chikungunya-every-year-in-long-term/articleshow/124289892.cms) (The Times of India)
+
+- [Fragen und Antworten: Chikungunya-Virus in Europa: Wie gefährlich ist das?](https://www.stern.de/gesundheit/chikungunya--wie-gefaehrlich-ist-das-virus-fuer-europa--36103320.html) (STERN.de)
+
+- [Virus breitet sich in Italien weiter aus](https://science.orf.at/stories/3232308/) (Science.orf.at)
 
 - [51 lakh at risk of chikungunya every year in country: Study](https://timesofindia.indiatimes.com/city/mumbai/51-lakh-at-risk-of-chikungunya-every-year-in-country-study/articleshow/124277595.cms) (The Times of India)
 
@@ -2158,40 +2202,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
-
-- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
-
-- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
-
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2649,5 +2659,3 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
-
-- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)
