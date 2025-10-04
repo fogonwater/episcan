@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-10-03 19:05
-- **Most recent article:** 2025-10-02 18:00:20
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-10-04 07:06
+- **Most recent article:** 2025-10-03 05:07:17
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-34 | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 50 | 33 | 45 | 39 | 54 | 34 | 13 | 268 |
-| chikungunya | 79 | 52 | 18 | 18 | 38 | 23 | 14 | 242 |
-| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 25 | 208 |
-| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 8 | 96 |
+| measles | 50 | 33 | 45 | 39 | 54 | 34 | 20 | 275 |
+| chikungunya | 80 | 52 | 18 | 18 | 38 | 23 | 15 | 244 |
+| dengue | 59 | 40 | 16 | 24 | 26 | 18 | 26 | 209 |
+| rabies | 39 | 6 | 9 | 5 | 14 | 18 | 10 | 101 |
+| malaria | 19 | 13 | 13 | 18 | 10 | 15 | 10 | 98 |
 | mpox | 5 | 7 | 58 | 7 | 5 | 8 | 1 | 91 |
-| rabies | 22 | 6 | 9 | 5 | 14 | 18 | 9 | 83 |
 | h5n1 | 3 | 5 | 20 | 6 | 9 | 5 | 9 | 57 |
 | meningitis | 2 | 16 | 5 | 6 | 6 | 3 | 4 | 42 |
 | zika | 7 | 8 | 4 | 6 | 6 | 6 | 4 | 41 |
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 - [Sportfilm rozdal ceny, uspěl dokument o Krpálkovi i Kolečko s Kouzlem derby](https://www.idnes.cz/liberec/zpravy/sportfilm-festival-douglas-kouzlo-derby-lukas-krpalek.A250929_095947_liberec-zpravy_jape) (Idnes.cz)
 
 ## 25-40 (rabies)
+
+- [सिर्फ खरोंच से भी हो सकता है रेबीज! जानें कैसे पालतू कुत्ते बन सकते हैं खतरा](https://www.aajtak.in/health/story/dog-scratch-can-cause-rabies-pet-dogs-risk-tvist-dskc-2341493-2025-10-03) (Aajtak.in)
 
 - [Dog bites and rabies cases have been going down. Why is the panic around street dogs on the rise?](https://indianexpress.com/article/opinion/columns/dog-bites-and-rabies-cases-have-been-going-down-why-is-the-panic-around-street-dogs-on-the-rise-10284244/) (The Indian Express)
 
@@ -82,6 +84,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-40 (measles)
 
+- [Canada reports first death linked to measles epidemic](https://economictimes.indiatimes.com/news/international/world-news/canada-reports-first-death-linked-to-measles-epidemic/articleshow/124281274.cms) (The Times of India)
+
+- [Canada reports first death linked to measles epidemic](https://japantoday.com/category/world/canada-reports-first-death-linked-to-measles-epidemic) (Japan Today)
+
+- [Trump's call to split up the MMR vaccine revives long-settled debate](https://www.cbsnews.com/news/trump-split-up-mmr-vaccine-long-settled-debate/) (CBS News)
+
+- [Upstate measles outbreak confirmed, state health officials say](https://www.wyff4.com/article/upstate-measles-outbreak-confirmed-state-health-officials-say/68378054) (WYFF4 Greenville)
+
+- [Premature baby dies of measles in Alberta outbreak's first death](https://www.cbc.ca/news/canada/calgary/premature-baby-dies-of-measles-in-alberta-outbreak-s-first-death-1.7649692) (CBC News)
+
+- [Premature baby dies of measles in Alberta outbreak's 1st death](https://www.cbc.ca/news/canada/calgary/premature-baby-dies-of-measles-in-alberta-outbreak-s-1st-death-1.7649692) (CBC News)
+
+- [Premature baby dies from measles in Alberta as cases throughout province near 2,000 | Globalnews.ca](http://globalnews.ca/news/11461613/alberta-measles-death-2025/) (Global News)
+
 - [Manitoba warns of measles exposure at emergency room in Portage la Prairie](https://www.cbc.ca/news/canada/manitoba/measles-exposure-portage-la-prairie-hospital-1.7649449) (CBC News)
 
 - [The Ongoing Measles Outbreak Has Reached a New Peak](https://gizmodo.com/the-ongoing-measles-outbreak-has-reached-a-new-peak-2000666729) (Gizmodo.com)
@@ -109,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 - [Chief rabbis call for public vaccination following four measles deaths](https://www.jpost.com/israel-news/article-868914) (The Jerusalem Post)
 
 ## 25-40 (malaria)
+
+- [Undelivered USAID medical supplies and medicine](https://flowingdata.com/2025/10/02/undelivered-usaid-medical-supplies-and-medicine/) (Flowingdata.com)
+
+- [Babies' deaths in Cameroon show how U.S. aid cuts curtail malaria fight](https://www.japantimes.co.jp/news/2025/10/03/world/science-health/babies-deaths-us-malaria-aid/) (The Japan Times)
 
 - [Muerte de bebés en Camerún muestra cómo los recortes de la ayuda de EU limitan la lucha contra la malaria](https://forbes.com.mx/muerte-de-bebes-en-camerun-muestra-como-los-recortes-de-la-ayuda-de-eu-limitan-la-lucha-contra-la-malaria/) (Forbes.com.mx)
 
@@ -159,6 +179,8 @@ Source: [News API](https://newsapi.org/)
 - [Circumpolar spread of avian influenza H5N1 to southern Indian Ocean islands](https://www.nature.com/articles/s41467-025-64297-y) (Nature.com)
 
 ## 25-40 (dengue)
+
+- [Protests in Peru, a soccer fan poses and more top photos this week from Latin America](https://abcnews.go.com/International/wireStory/protests-peru-soccer-fan-poses-top-photos-week-126170958) (ABC News)
 
 - [Jammu region shows trend of spike in dengue cases](https://statetimes.in/jammu-region-shows-trend-of-spike-in-dengue-cases/) (Statetimes.in)
 
@@ -211,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 - [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
+
+- [51 lakh at risk of chikungunya every year in country: Study](https://timesofindia.indiatimes.com/city/mumbai/51-lakh-at-risk-of-chikungunya-every-year-in-country-study/articleshow/124277595.cms) (The Times of India)
 
 - [Épidémie de chikungunya : une opération de démoustication inédite après un 120e cas à Antibes](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-une-operation-de-demoustication-inedite-apres-un-120e-cas-a-antibes_7527586.html) (Franceinfo.fr)
 
@@ -2134,6 +2158,40 @@ Source: [News API](https://newsapi.org/)
 
 - [Hundreds may have been exposed to rabies after bat colony found inside Grand Teton lodge](https://www.usatoday.com/story/news/nation/2025/08/17/rabies-bat-colony-grand-teton-lodge-warning/85701872007/) (USA Today)
 
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WISN Milwaukee)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WESH Orlando)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOAT New Mexico)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WBAL TV Baltimore)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WXII12 Winston-Salem)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WDSU New Orleans)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMTW Portland)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KETV Omaha)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WTAE Pittsburgh)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WYFF4 Greenville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WGAL Susquehanna Valley Pa.)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WMUR Manchester)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KOCO Oklahoma City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KMBC Kansas City)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (WLKY Louisville)
+
+- [Rabies exposure from bat-infested cabins at Grand Teton Park](https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680) (KCRA Sacramento)
+
+- [Hundreds Get Rabies Warning After Stay in National Park](https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html) (Newser)
+
 ## 25-34 (mpox)
 
 - [Le Sénégal prend des mesures contre le Mpox après un cas détecté à Dakar](https://www.lalibre.be/international/afrique/2025/08/23/le-senegal-prend-des-mesures-contre-le-mpox-apres-un-cas-detecte-a-dakar-64Q72HDJWVCFHJXG4IFWVEU75Y/) (Lalibre.be)
@@ -2591,3 +2649,5 @@ Source: [News API](https://newsapi.org/)
 - [Le vaccin IXCHIQ® de Valneva contre le chikungunya désormais autorisé au Canada pour les personnes âgées de 12 ans et plus](https://www.globenewswire.com/news-release/2025/08/18/3134684/0/fr/Le-vaccin-IXCHIQ-de-Valneva-contre-le-chikungunya-d%C3%A9sormais-autoris%C3%A9-au-Canada-pour-les-personnes-%C3%A2g%C3%A9es-de-12-ans-et-plus.html) (GlobeNewswire)
 
 - [16 ülkede korkunç virüs yayılıyor: 240 binden fazla vakada 90 kişi öldü](https://www.haber7.com/dunya/haber/3556018-16-ulkede-korkunc-virus-yayiliyor-240-binden-fazla-vakada-90-kisi-oldu) (Haber7.com)
+
+- [Hong Kong authorities will ‘act first’ to prevent chikungunya fever: minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister) (The Star Online)

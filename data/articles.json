@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-10-03 19:05",
-  "count_articles_total": 1080,
-  "count_articles_new": 22,
+  "last_updated": "2025-10-04 07:06",
+  "count_articles_total": 1110,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 24900,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Flowingdata.com",
+      "author": "Nathan Yau",
+      "title": "Undelivered USAID medical supplies and medicine",
+      "description": "Earlier this year, the administration halted USAID shipments of antimalarial and HIV medical supplies. Medicine already paid for just sat in warehouses. The Washington Post charted the timeline for\u2026",
+      "url": "https://flowingdata.com/2025/10/02/undelivered-usaid-medical-supplies-and-medicine/",
+      "urlToImage": "https://flowingdata.com/wp-content/uploads/2025/10/undelivered.png",
+      "publishedAt": "2025-10-03 05:07:17",
+      "content": "Earlier this year, the administration halted USAID shipments of antimalarial and HIV medical supplies. Medicine already paid for just sat in warehouses. The Washington Post charted the timeline for t\u2026 [+849 chars]",
+      "retrievedAt": "2025-10-04 07:06:14.363709",
+      "internal_id": "c871d2d10f9bbef8dc216bea471bedf2d03a353ee469318290b255fba11f1863",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 24898,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Protests in Peru, a soccer fan poses and more top photos this week from Latin America",
+      "description": "Sept. 26-Oct. 2, 2025 Police in Lima, Peru, faced off with anti-government protesters. A young soccer fan posed for a photo as the FIFA U-20 World Cup began. Researchers inspected mosquitos carrying Wolbachia, a dengue-blocking bacteria, in Campinas, Brazil.\u2026",
+      "url": "https://abcnews.go.com/International/wireStory/protests-peru-soccer-fan-poses-top-photos-week-126170958",
+      "urlToImage": "https://i.abcnewsfe.com/a/4bd7b327-6f41-418a-a6d0-b546ef679307/wirestory_34dcf5207a6e3305a4274223bc5f7eb8_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-03 04:37:34",
+      "content": "Sept. 26-Oct. 2, 2025 Police in Lima, Peru, faced off with anti-government protesters. A young soccer fan posed for a photo as the FIFA U-20 World Cup began. Researchers inspected mosquitos carrying\u2026 [+314 chars]",
+      "retrievedAt": "2025-10-04 07:06:13.503411",
+      "internal_id": "313d690f7db4cc49683d82b281775e1b14added7118c22cc214fc5150694e3b7",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 24899,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Amindeh Blaise Atabong,Robbie COREY-BOULET,Jennifer Rigby",
+      "title": "Babies' deaths in Cameroon show how U.S. aid cuts curtail malaria fight",
+      "description": "Upon taking office in January, U.S. President Donald Trump paused all foreign aid, including the President's Malaria Initiative, launched in 2005 by George W. Bush.",
+      "url": "https://www.japantimes.co.jp/news/2025/10/03/world/science-health/babies-deaths-us-malaria-aid/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/10/03/497460.JPG?v=3.1",
+      "publishedAt": "2025-10-03 03:29:00",
+      "content": "BOGO, CAMEROON Nine-month-old baby Mohamat burned with fever for three days before his family took him to the closest health center in northern Cameroon, but it was too late. He died of malaria that \u2026 [+355 chars]",
+      "retrievedAt": "2025-10-04 07:06:14.354793",
+      "internal_id": "b3e8a365ef4d4d531c4867f33cf381165770d6abfc8d11cb5dbdb5bd987f553d",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 24895,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Canada reports first death linked to measles epidemic",
+      "description": "An infant born prematurely in Alberta died from measles, marking Canada's first fatality in the disease's recent resurgence after the mother contracted it during pregnancy. Canada has recorded 5,006 cases since early 2025, predominantly among unvaccinated ind\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/canada-reports-first-death-linked-to-measles-epidemic/articleshow/124281274.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124281278,width-1200,height-630,imgsize-11648,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-03 02:21:03",
+      "content": "An infant born prematurely in the western Canadian province of Alberta died as a result of measles, officials said Thursday, the first fatality linked to the disease's resurgence in the country in th\u2026 [+1419 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.672492",
+      "internal_id": "c86388099782bc816ef850d44e582f85ee51463ebf5eb5657c52d556475eada9",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 24890,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0906\u091c\u0924\u0915 \u0939\u0947\u0932\u094d\u0925 \u0921\u0947\u0938\u094d\u0915",
+      "title": "\u0938\u093f\u0930\u094d\u092b \u0916\u0930\u094b\u0902\u091a \u0938\u0947 \u092d\u0940 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u0930\u0947\u092c\u0940\u091c! \u091c\u093e\u0928\u0947\u0902 \u0915\u0948\u0938\u0947 \u092a\u093e\u0932\u0924\u0942 \u0915\u0941\u0924\u094d\u0924\u0947 \u092c\u0928 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0916\u0924\u0930\u093e",
+      "description": "Rabies From Scratch: \u092a\u0941\u0932\u093f\u0938 \u0907\u0902\u0938\u094d\u092a\u0947\u0915\u094d\u091f\u0930 \u0935\u0928\u0930\u093e\u091c \u092e\u0902\u091c\u0930\u093f\u092f\u093e \u0915\u0940 \u092e\u094c\u0924 \u0938\u0947 \u092a\u0924\u093e \u091a\u0932\u093e \u0915\u093f \u092a\u093e\u0932\u0924\u0942 \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0940 \u0916\u0930\u094b\u0902\u091a \u0938\u0947 \u092d\u0940 \u0930\u0947\u092c\u0940\u091c \u092b\u0948\u0932 \u0938\u0915\u0924\u093e \u0939\u0948. \u0906\u091c \u0939\u092e \u0906\u092a\u0915\u094b \u0916\u0930\u094b\u0902\u091a \u0932\u0917\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0915\u0947 \u0916\u0924\u0930\u0947, \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0914\u0930 \u0938\u092d\u0940 \u091c\u0930\u0942\u0930\u0940 \u0915\u0926\u092e\u094b\u0902 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0939\u0948\u0902.",
+      "url": "https://www.aajtak.in/health/story/dog-scratch-can-cause-rabies-pet-dogs-risk-tvist-dskc-2341493-2025-10-03",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202509/68d4fb6f70e1d-rabies-from-dog-scratch-photo-ai-generated-252057904-16x9.jpg",
+      "publishedAt": "2025-10-03 01:36:48",
+      "content": ", . . , . , . - . . ? . . , . ? , . , ' , . , .' . , . , . ? . , . , . , , . ? , . . . , . , . , , . ? , . , , 1-2 . .",
+      "retrievedAt": "2025-10-04 07:06:12.377357",
+      "internal_id": "1010469fd4d4ab7451b30cb6df95dec1aee1121a4f2226dbb965e35209189a8a",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 24901,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Malathy Iyer",
+      "title": "51 lakh at risk of chikungunya every year in country: Study",
+      "description": "Mumbai: BMC health officials on Wednesday reported that cases of chikungunya, a viral infection characterised by severe pain, declined in Sept after r.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/51-lakh-at-risk-of-chikungunya-every-year-in-country-study/articleshow/124277595.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124277594,width-1070,height-580,imgsize-111504,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-10-02 23:48:18",
+      "content": "Navratri 2025: Shraddha Kapoor, Alia Bhatt, and other divas' inspired pink ethnic looks for day 9",
+      "retrievedAt": "2025-10-04 07:06:14.776729",
+      "internal_id": "c26738a87ffe789ec08f460266d571fb0bd5e78cc6b8ba7f3a4678babaf847c8",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 24892,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Canada reports first death linked to measles epidemic",
+      "description": "An infant born prematurely in the western Canadian province of Alberta died as a result of measles, officials said Thursday, the first fatality linked to the disease's resurgence in the country in the past year. &quot;A child, born prematurely after the mothe\u2026",
+      "url": "https://japantoday.com/category/world/canada-reports-first-death-linked-to-measles-epidemic",
+      "urlToImage": null,
+      "publishedAt": "2025-10-02 23:02:51",
+      "content": "An infant born prematurely in the western Canadian province of Alberta died as a result of measles, officials said Thursday, the first fatality linked to the disease's resurgence in the country in th\u2026 [+1365 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.629440",
+      "internal_id": "49b17250aac5b09000488ffb89803298134cd0abf902a268894ab773b0c24fe6",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 24891,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dr. C\u00e9line  Gounder",
+      "title": "Trump's call to split up the MMR vaccine revives long-settled debate",
+      "description": "President Trump's suggestion\u200b that the combination measles, mumps and rubella vaccine should be separated marks a sharp break from decades of immunization practice.",
+      "url": "https://www.cbsnews.com/news/trump-split-up-mmr-vaccine-long-settled-debate/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/02/9efdd7ba-c145-4576-b99c-416491e45e60/thumbnail/1200x630/4bc883f3689816acbecc1f12e39ca03b/gettyimages-2235105504.jpg",
+      "publishedAt": "2025-10-02 20:53:00",
+      "content": "President Trump's suggestion last week that combination childhood vaccines, including the measles, mumps and rubella, or MMR, shot, should be separated marks a sharp break from decades of immunizatio\u2026 [+9471 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.610154",
+      "internal_id": "e5fd52740dc845e803436582c38fe3ba49abd219d6044269f0b2360a900ab898",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 24896,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": null,
+      "title": "Upstate measles outbreak confirmed, state health officials say",
+      "description": "The South Carolina Department of Public Health has confirmed an outbreak of measles in the Upstate.",
+      "url": "https://www.wyff4.com/article/upstate-measles-outbreak-confirmed-state-health-officials-say/68378054",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/0b73a25f-b9d1-403e-9b44-09acd126f359/64bdaac0-eeb4-4459-a0ea-b97eb99ad9e8.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "publishedAt": "2025-10-02 20:41:30",
+      "content": ", S.C. \u2014The South Carolina Department of Public Health has confirmed an outbreak of measles in the Upstate. The Department of Public Health released the following statement in part: \"The South Ca\u2026 [+1431 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.689152",
+      "internal_id": "1a751dc0064014ab777215acfe4cbd0011bb4c1961dacb01d6e15cf0e4ae9304",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 24893,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Premature baby dies of measles in Alberta outbreak's first death",
+      "description": "Alberta is reporting its first measles death since outbreaks of the highly contagious illness began in March. The province says a baby, who was born prematurely after the mother became sick, died shortly after birth.",
+      "url": "https://www.cbc.ca/news/canada/calgary/premature-baby-dies-of-measles-in-alberta-outbreak-s-first-death-1.7649692",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-10-02 20:23:12",
+      "content": "Alberta is reporting its first measles death since outbreaks of the highly contagious illness began in the province in March. The province says a baby, who was born prematurely after the mother beca\u2026 [+1743 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.638801",
+      "internal_id": "7bcc35d42c77cf12d378bb278bda4a33eb4d14e34749d3ce189c1d0bb2d57a79",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 24894,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Premature baby dies of measles in Alberta outbreak's 1st death",
+      "description": "Alberta is reporting its first measles death since outbreaks of the highly contagious illness began in March. The province says a baby, who was born prematurely after the mother became sick, died shortly after birth.",
+      "url": "https://www.cbc.ca/news/canada/calgary/premature-baby-dies-of-measles-in-alberta-outbreak-s-1st-death-1.7649692",
+      "urlToImage": "https://i.cbc.ca/1.7572253.1750979774!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-10-02 20:23:12",
+      "content": "Alberta is reporting its first measles death since outbreaks of the highly contagious illness began in the province in March. The province says a baby, who was born prematurely after the mother beca\u2026 [+2034 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.648136",
+      "internal_id": "32e6ec39ea9a1bbbda7c9f857ee03fa0bc15be18e8792b8232b329b4382acdf5",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 24897,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Karen Bartko",
+      "title": "Premature baby dies from measles in Alberta as cases throughout province near 2,000 | Globalnews.ca",
+      "description": "An infant born prematurely died shortly after being born, after its mother contracted measles during pregnancy, Alberta's health minister said.",
+      "url": "http://globalnews.ca/news/11461613/alberta-measles-death-2025/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/08/measels-on-hand_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-10-02 19:31:51",
+      "content": "An infant in Alberta has died from the measles as cases creep close to 2,000 throughout the province, according to the government\u2019s dashboard. It\u2019s Alberta\u2019s first death since the most contagious vi\u2026 [+4972 chars]",
+      "retrievedAt": "2025-10-04 07:06:12.720162",
+      "internal_id": "fe219c8b03826371305b66a1d4d7203ec3ab4b618b287debfa42051b62f1e88d",
+      "publishedAtLabel": "Oct 2"
+    },
     {
       "id": 24880,
       "query": [
@@ -19553,6 +19769,330 @@
       "content": "Colorado health officials confirmed a new measles case in Mesa County last week, marking the state\u2019s 20th case this year. The Mesa County resident has no known connection to other recent exposures r\u2026 [+2545 chars]",
       "retrievedAt": "2025-08-19 07:07:42.670439",
       "internal_id": "9e86263bd5dda284b636b99e5bf44ea9aa93478335c9fadc78d7ead1ced496b1",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23806,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wisn.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:25",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.146621",
+      "internal_id": "e2c8c128cbe327c38d33ca0ed7672ace0c4ee0b6ae54d8324a64600aba851f3a",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23803,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wesh.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:24",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.120235",
+      "internal_id": "34c18089d60d777c48ead950675cd78f6368333c205342eb3cbe88a93e95beb5",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23801,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KOAT New Mexico",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.koat.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:20",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.101792",
+      "internal_id": "5c3d3ef18f1c41b1eb558bab479ae1b67703afc434c8312cc0bdd58d35de3057",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23793,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WBAL TV Baltimore",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wbaltv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:19",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.030337",
+      "internal_id": "ce0020f7ff533b6e46e2fcd8eb06c5a85aacfadc8b8d7a34726dab8487046c6f",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23800,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WXII12 Winston-Salem",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wxii12.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:17",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.092853",
+      "internal_id": "6937a66878d6d4e81294f0c4c7ee450a79dd89b1a6e591b7bfad993b0899960f",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23794,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WDSU New Orleans",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wdsu.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:09",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.039545",
+      "internal_id": "4e095760f3955f6f7389274545a268bad054bf25e550ab2455cde1638063101a",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23808,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMTW Portland",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wmtw.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:05",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.164195",
+      "internal_id": "2c91d1c8cb166b17853d0ef62253aedae4856dd53bebd9217774d789df1f47fc",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23797,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.ketv.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:08:02",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.066161",
+      "internal_id": "4e8fc314c965b46a2093f690c1f3e50680c6215660e8bbcb41bc759cb9b23604",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23805,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WTAE Pittsburgh",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wtae.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:54",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.137529",
+      "internal_id": "278697267136e3ce5ff96870c6479a4acb87c72c72684c54bb42142cddc0b9ee",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23804,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wyff4.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:50",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.128774",
+      "internal_id": "b96650d13f3da4e82e1179e64d19d24944e6fb6965eb722c3b073bcc03583109",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23807,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WGAL Susquehanna Valley Pa.",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wgal.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:49",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.155251",
+      "internal_id": "8b258d4cc17a409d5757bf9c298c59bb6987fe201391f8e3feeede000a4c894b",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23795,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMUR Manchester",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wmur.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:07:38",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.048219",
+      "internal_id": "a422276f37d01c4a3b2385955dd89fe6d336e82370e3f27d0cce27ba0f5e08a3",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23796,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KOCO Oklahoma City",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.koco.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:06:08",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.057515",
+      "internal_id": "aa24c9e5416a4416411a6685fdc09d2366898959683c3bb0f3d821e88d3dd6ff",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23798,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KMBC Kansas City",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.kmbc.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:06:07",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.075167",
+      "internal_id": "de0dda37e13b35fd6db2a5ada9c9e0d8177511fb7bd2a1b146e6c6c71326c2c1",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23802,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WLKY Louisville",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.wlky.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:06:01",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.111631",
+      "internal_id": "b5d5def35f14b3a57cac98f01fe6596f9b56e3bc38e1505a88e56fd2ba3ec0a4",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23799,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KCRA Sacramento",
+      "author": "Sejal Govindarao And Mead Gruver",
+      "title": "Rabies exposure from bat-infested cabins at Grand Teton Park",
+      "description": "Health officials are alerting hundreds of people who may have been exposed to rabies in bat-infested cabins at Wyoming's Grand Teton National Park",
+      "url": "https://www.kcra.com/article/rabies-bat-infested-cabins-grand-teton-national-park/65794680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2165989910-68a208f3c1b29.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2025-08-17 17:05:56",
+      "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3647 chars]",
+      "retrievedAt": "2025-08-18 19:06:51.083985",
+      "internal_id": "6929df6e5b248fb9f6773b406e3f6155852bf984664fab82feac91642724fc78",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23792,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson",
+      "title": "Hundreds Get Rabies Warning After Stay in National Park",
+      "description": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park over the past few months. As of Friday, none of the bats found\u2026",
+      "url": "https://www.newser.com/story/373642/hundreds-get-rabies-warning-after-stay-in-national-park.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1628453-12-20250817091617.jpeg",
+      "publishedAt": "2025-08-17 14:00:00",
+      "content": "Other bats weren't killed but got shooed out through cabin doors and windows. Health officials thus deemed it better safe than sorry to alert everybody who has stayed in the cabins recently that they\u2026 [+1388 chars]",
+      "retrievedAt": "2025-08-18 19:06:50.989996",
+      "internal_id": "071c311c85f165ec50f5299c70aa8bdb3e5e00d31ea04c115a1e2a03a21ffaf6",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 23809,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Hong Kong authorities will \u2018act first\u2019 to prevent chikungunya fever: minister",
+      "description": "Environment chief says hygiene officers will take action to clear stagnant water, even in places where responsibility for maintenance is unclear",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/08/17/hong-kong-authorities-will-act-first-to-prevent-chikungunya-fever-minister",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/08/17/3466631.jpg",
+      "publishedAt": "2025-08-17 13:26:03",
+      "content": "Hong Kongs hygiene officers will adopt an act first approach by clearing stagnant water in unattended private places to tackle the threat of chikungunya fever, the citys environment minister has said\u2026 [+3806 chars]",
+      "retrievedAt": "2025-08-18 19:06:58.007583",
+      "internal_id": "85304e95b4017002542506275715df0f6acd6c321ac0a4c2dbe1dec0122c5ac8",
       "publishedAtLabel": "Aug 17"
     }
   ]
