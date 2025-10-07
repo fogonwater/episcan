@@ -1,8 +1,206 @@
 {
-  "last_updated": "2025-10-07 07:07",
-  "count_articles_total": 906,
-  "count_articles_new": 9,
+  "last_updated": "2025-10-07 19:06",
+  "count_articles_total": 909,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 24953,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Alertan por la baja vacunaci\u00f3n contra la meningitis: \u00bfcu\u00e1les son los s\u00edntomas y c\u00f3mo prevenirla?",
+      "description": "El m\u00e9dico Jorge Tartaglione, en di\u00e1logo con LN+, advirti\u00f3 los riesgos de contraer la enfermedad; \u201cTe cambia la vida en un minuto\u201d, afirm\u00f3",
+      "url": "https://www.lanacion.com.ar/sociedad/alertan-por-la-baja-vacunacion-contra-la-meningitis-cuales-son-los-sintomas-y-como-prevenirla-nid06102025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-meningitis-afecta-las-meninges-es-decir-las-WSI4WX4KJJGJDCMEGFU2V4KW2U.jpg?auth=306970e05244a42e4876c135f86854b289d7582224b22eac379ef1cfc6d20b3e&width=1200&quality=70&smart=false&height=798",
+      "publishedAt": "2025-10-06 18:43:31",
+      "content": "En un marco de preocupaci\u00f3n por la salud p\u00fablica, el cardi\u00f3logo Jorge Tartaglione alert\u00f3 sobre la baja cobertura de vacunaci\u00f3n contra la meningitis en la Argentina, especialmente despu\u00e9s de la pandem\u2026 [+2540 chars]",
+      "retrievedAt": "2025-10-07 19:05:59.780931",
+      "internal_id": "12b627e0a7d71a711134ddb17808bb0b365bd0968efd6ec616da1006af1e1920",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24949,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Detectado un nuevo foco de influenza aviar en una granja de gallinas ponedoras en Olmedo (Valladolid)",
+      "description": "Las autoridades veterinarias de la Junta de Castilla y Le\u00f3n han notificado este lunes, 6 de octubre, un nuevo foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, en una granja de gallinas ponedoras localizada en Olmedo (Valladolid).",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-detectado-nuevo-foco-influenza-aviar-granja-gallinas-ponedoras-olmedo-valladolid-20251006193755.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251006193755_1200.jpg",
+      "publishedAt": "2025-10-06 17:37:55",
+      "content": "VALLADOLID 6 Oct. (EUROPA PRESS) - Las autoridades veterinarias de la Junta de Castilla y Le\u00f3n han notificado este lunes, 6 de octubre, un nuevo foco de Influenza Aviar de Alta Patogenicidad (IAAP\u2026 [+3044 chars]",
+      "retrievedAt": "2025-10-07 19:05:59.199870",
+      "internal_id": "b48f4f67c70e7aefa461ed01575543dd978ac9a306715d03d93eb471ba0877a6",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24947,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "US CDC backs advisers' recommendation to pull broad support for COVID shot",
+      "description": "The US Centers for Disease Control and Prevention has adopted new vaccine guidelines. COVID-19 vaccines will now be administered through shared decision-making with healthcare providers. Additionally, children will receive separate shots for measles, mumps, r\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-cdc-backs-advisers-recommendation-to-pull-broad-support-for-covid-shot/articleshow/124343550.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124343605,width-1200,height-630,imgsize-174074,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-06 15:22:13",
+      "content": "The U.S. Centers for Disease Control and Prevention on Monday said it had adopted recommendations from a panel of outside advisors without change, including that COVID-19 vaccines should be administe\u2026 [+1689 chars]",
+      "retrievedAt": "2025-10-07 19:05:58.677898",
+      "internal_id": "62e74fe4c7c69ee0156a13e80eaf745e2a16ca61240d047989d8acc34eb06696",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24956,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xingfei Pan, Feng Mo, Li Pan, Wei Xiao, Guikuan Liang, Xiongyu Xie, Haiwen Yuan, Haixia Wei, Shan Zhao, Lu Li, Lei Jia, Hongyan Xie, Jun Huang",
+      "title": "NFATc1 regulates LAG3+CD8+ T cells in the spleen of mice infected with Plasmodium yoelii NSM",
+      "description": "Author Summary The authors observed that in the spleens of mice infected with malaria parasites, the amount of Lag3 molecules on CD8 + T cells (a type of immune cell) increased significantly. What\u2019s more, these CD8 + T cells that had Lag3 molecules were highl\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013605",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013605.g004&size=inline",
+      "publishedAt": "2025-10-06 14:00:00",
+      "content": "Background Malaria is an infectious disease caused by Plasmodium. Human-infecting species include Plasmodium falciparum, P. vivax, P. malariae, P. ovale, and P. knowlesi [1], with P. falciparum and \u2026 [+38559 chars]",
+      "retrievedAt": "2025-10-07 19:06:00.123408",
+      "internal_id": "eb603df65a90ecc00326c80a9581fc7c09d9a7478db1c0eed4d724bc903a7d17",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24957,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tong-Yun Wang, Yue Sun, Yan-Dong Tang",
+      "title": "Re-emergence of chikungunya virus in China by 2025: What we know and what to do?",
+      "description": "In July 2025, China witnessed its most significant chikungunya virus (CHIKV) outbreak since 2010. As of August 1, with over 6,000 cases reported in Foshan city, Guangdong Province. Although the clinical manifestations have been relatively mild, the rapid tran\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013556",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013556.g001&size=inline",
+      "publishedAt": "2025-10-06 14:00:00",
+      "content": "Abstract In July 2025, China witnessed its most significant chikungunya virus (CHIKV) outbreak since 2010. As of August 1, with over 6,000 cases reported in Foshan city, Guangdong Province. Although\u2026 [+16917 chars]",
+      "retrievedAt": "2025-10-07 19:06:00.802436",
+      "internal_id": "f8b021d39147eaded66c1d00664ebd7fd3c9cead76cb69b531a76f6bef2f8b4f",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24950,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Luis Alfredo Robles",
+      "title": "Municipio de Huatabampo intensifica los trabajos de fumigaci\u00f3n contra el dengue",
+      "description": "Hasta el momento, Huatabampo se encuentra libre del dengue; sin embargo, las autoridades hicieron el llamado a la poblaci\u00f3n a no bajar la guardia",
+      "url": "https://www.tribuna.com.mx/sonora/2025/10/6/municipio-de-huatabampo-intensifica-los-trabajos-de-fumigacion-contra-el-dengue-415660.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/6/f1280x720-472234_603909_5050.png",
+      "publishedAt": "2025-10-06 12:00:00",
+      "content": "Huatabampo, Sonora.- De acuerdo al Informe Epidemiol\u00f3gico de la Secretar\u00eda de Salud, Huatabampo se ha convertido en el \u00fanico municipio de la Regi\u00f3n del Mayo libre del dengue; sin embargo, la poblaci\u00f3\u2026 [+1176 chars]",
+      "retrievedAt": "2025-10-07 19:05:59.502696",
+      "internal_id": "402f329bd24e7212e879aaf6aa392728fc68fa6fec8bd1abb1387493be85eee5",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24951,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Redacci\u00f3n Tribuna",
+      "title": "Priscilla provocar\u00e1 lluvias, Guaymas lidera casos de dengue y m\u00e1s en el Tribuna Top 3 Sonora",
+      "description": "Advirtien que Priscilla provocar\u00e1 lluvias esta semana, Guaymas lidera casos de dengue y m\u00e1s noticias en el Tribuna Top 3 Sonora",
+      "url": "https://www.tribuna.com.mx/sonora/2025/10/6/priscilla-provocara-lluvias-guaymas-lidera-casos-de-dengue-mas-en-el-tribuna-top-sonora-415619.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/6/f1280x720-472187_603862_5050.jpg",
+      "publishedAt": "2025-10-06 12:00:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- La mejor forma de arrancar esta semana es informado y llegaste al lugar indicado, porque TRIBUNA te presenta las tres noticias m\u00e1s importantes de este lunes 6 de octubre. Qu\u00e9\u2026 [+1177 chars]",
+      "retrievedAt": "2025-10-07 19:05:59.513363",
+      "internal_id": "e4b04544776da3b6246cae1b36aa1e2105a554a9632dc499a09144532d41cbb1",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24952,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Abigahil Castro",
+      "title": "Pide Salud Sonora reforzar las medidas para prevenir la proliferaci\u00f3n del dengue",
+      "description": "La Secretar\u00eda de Salud en Sonora exhorta a la poblaci\u00f3n a reforzar las medidas para prevenir la proliferaci\u00f3n del mosquito transmisor del dengue",
+      "url": "https://www.tribuna.com.mx/sonora/2025/10/6/pide-salud-sonora-reforzar-las-medidas-para-prevenir-la-proliferacion-del-dengue-415671.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/6/f1280x720-472262_603937_5050.jpg",
+      "publishedAt": "2025-10-06 12:00:00",
+      "content": "Hermosillo, Sonora.- Para prevenir la proliferaci\u00f3n del mosquitoAedes aegypti, transmisor del dengue, la Secretar\u00eda de Salud en Sonora exhorta a la poblaci\u00f3n a mantener sus hogares y patios libres de\u2026 [+1364 chars]",
+      "retrievedAt": "2025-10-07 19:05:59.523591",
+      "internal_id": "df63b68af6728a4db8d0dd1bfa599c2a8c29d440ecb50df4bae48be3a2e325ca",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24948,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u0645\u062c\u062a\u0628\u06cc  \u0628\u0648\u0627\u0644\u062d\u0633\u0646\u06cc",
+      "title": "\u0627\u06cc\u0646 \u0645\u0631\u063a\u062f\u0627\u0631\u06cc \u0645\u062f\u0631\u0646 \u0628\u0627 \u067e\u0647\u067e\u0627\u062f \u0644\u06cc\u0632\u0631\u06cc \u0645\u062d\u0627\u0641\u0638\u062a \u0645\u06cc\u200c\u0634\u0648\u062f!",
+      "description": "\u063a\u0648\u0644 \u0641\u0646\u0627\u0648\u0631\u06cc \u0698\u0627\u067e\u0646\u06cc NTT \u0628\u0631\u0627\u06cc \u0645\u0642\u0627\u0628\u0644\u0647 \u0628\u0627 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646\u060c \u067e\u0647\u067e\u0627\u062f\u0647\u0627\u06cc \u0644\u06cc\u0632\u0631\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u062d\u0641\u0627\u0638\u062a \u0627\u0632 \u0645\u0631\u063a\u062f\u0627\u0631\u06cc\u200c\u0647\u0627 \u0628\u0647 \u06a9\u0627\u0631 \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.zoomit.ir/tech/449391-laser-drones-protect-chickens/",
+      "urlToImage": "https://api2.zoomit.ir/media/drone-chicken-protect-68e35e9de5457b4de6eea665",
+      "publishedAt": "2025-10-06 10:30:00",
+      "content": "NTT . NTT e-Drone Technology Co. Ltd NTT East Japan Co. Ltd . . . ( H5N1) . NTT e-Drone Technology Co., Ltd NTT ( ) . . . NTT . NTT . . BB102 . . . .",
+      "retrievedAt": "2025-10-07 19:05:59.181515",
+      "internal_id": "5610bd8b4bb07382d1248c693c46a94d76c4b2fdb763fad63bed71c0e20dc669",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24954,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Thepinknews.com",
+      "author": "Marcus Wratten",
+      "title": "Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis",
+      "description": "A fundraiser has been launched to support RuPaul\u2019s Drag Race UK season two star Ginny Lemon who is currently \u201cvery unwell in hospital\u201d after being diagnosed with meningitis. The fundraiser, launched over the weekend by fellow UK-based drag star Fatt Butcher, \u2026",
+      "url": "https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/",
+      "urlToImage": "https://www.thepinknews.com/wp-content/uploads/2025/10/Drag-Race-UK-star-Ginny-Lemon-is-very-unwell-in-hospital-with-meningitis.jpg",
+      "publishedAt": "2025-10-06 10:29:41",
+      "content": "A fundraiser has been launched to support RuPauls Drag Race UK season two star Ginny Lemon who is currently \u201cvery unwell in hospital\u201d after being diagnosed with meningitis. The fundraiser, launched \u2026 [+2685 chars]",
+      "retrievedAt": "2025-10-07 19:05:59.790129",
+      "internal_id": "0ac500478d29a1054e167204316aa58a9e889159936c8374118669853ea6d246",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 24955,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Transfermarkt",
+      "author": "redaktion@transfermarkt.de (Redaktion Transfermarkt)",
+      "title": "SC Freiburg: Neuzugang Cyriaque Iri\u00e9 f\u00e4llt bis auf Weiteres mit Malaria aus",
+      "description": "Der SC Freiburg muss weiterhin auf Neuzugang Cyriaque Iri\u00e9 (20) verzichten. Wie die Breisgauer bekannt gaben, steht der Nationalspieler Burkina Fasos nach einer Malaria-Infektion bis auf...",
+      "url": "https://www.transfermarkt.de/irie-an-malaria-erkrankt-freiburgs-neuzugang-fallt-bis-auf-weiteres-aus/view/news/461305",
+      "urlToImage": "https://tmssl.akamaized.net/images/foto/big/cyriaque-irie-freiburg-2025-1759741533-179569.jpg?lm=1759741545",
+      "publishedAt": "2025-10-06 09:04:26",
+      "content": "Der SC Freiburg muss weiterhin auf Neuzugang Cyriaque Iri\u00e9 (20) verzichten. Wie die Breisgauer bekannt gaben, steht der Nationalspieler Burkina Fasos nach einer Malaria-Infektion bis auf Weiteres nic\u2026 [+410 chars]",
+      "retrievedAt": "2025-10-07 19:06:00.073611",
+      "internal_id": "9ed83a51556f32551608f933037090fb68254a3af1c4f30d29ca61ce3126af00",
+      "publishedAtLabel": "Oct 6"
+    },
     {
       "id": 24941,
       "query": [
@@ -16252,152 +16450,6 @@
       "content": "La France m\u00e9tropolitaine bat des records de cas de chikungunya. En cause, la prolif\u00e9ration de moustiques tigres d\u00e9sormais pr\u00e9sents dans plus de 80 % des d\u00e9partements. Ce texte correspond \u00e0 une parti\u2026 [+1845 chars]",
       "retrievedAt": "2025-08-26 07:07:45.535774",
       "internal_id": "62979de46c3e3ffa0aa022d37e1f8add4d7dd06e7e737b5416153c83aecdfcfb",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24044,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Sandra Simonsen",
-      "title": "Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten",
-      "description": "Pl\u00f6tzliche Krankheit nach Urlaub? Tropenfieber und Parasiten k\u00f6nnten schuld sein. Symptome erkennen und vorbeugen.",
-      "url": "https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa",
-      "urlToImage": "https://images.bild.de/681c71e83332b5649f8b50aa/f666faafc729a57f660de9f1af5427bf,e8f13727?w=1280",
-      "publishedAt": "2025-08-24 14:47:05",
-      "content": "Sommer, Sonne, Strand - doch zur\u00fcck zu Hause pl\u00f6tzlich krank? Tropenkrankheiten und Parasiten k\u00f6nnen der Grund sein. Von Dengue-Fieber bis Am\u00f6benruhr: Erfahren Sie mit BILDplus, welche Symptome Sie e\u2026 [+52 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.425017",
-      "internal_id": "5092ecd80b5e9c07d2eefac133812ea14416f2e3f8aeaed3b7dae166fb709ea1",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24046,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Xataka",
-      "title": "Hong Kong enfrenta uma enorme crise de sa\u00fade p\u00fablica devido ao v\u00edrus chikungunya; o rem\u00e9dio \u00e9 um ex\u00e9rcito de c\u00e3es-rob\u00f4s",
-      "description": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido ...",
-      "url": "https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/24/1330988472-13662000.jpeg",
-      "publishedAt": "2025-08-24 10:12:24",
-      "content": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido por mosquitos, com uma estrat\u00e9gia sa\u00edda diretamente de Black Mirror: c\u00e3es-rob\u00f4s. As autoridades j\u00e1 plan\u2026 [+1846 chars]",
-      "retrievedAt": "2025-08-25 19:06:11.252975",
-      "internal_id": "941e5e44e7c1d1509a62128866d96a0e6dc128b6bc93e713a93eb406d3fce026",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24048,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "Jeune Afrique",
-      "title": "Mpox : le S\u00e9n\u00e9gal prend des mesures apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar",
-      "description": "Le minist\u00e8re de la Sant\u00e9 a \u00e9t\u00e9 inform\u00e9 vendredi de la confirmation d\u2019un cas de Mpox li\u00e9 \u00e0 \u00ab un ressortissant \u00e9tranger entr\u00e9 au S\u00e9n\u00e9gal le 19 ao\u00fbt \u00bb.",
-      "url": "https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.3561x0.0489/https://prod.cdn-medias.jeuneafrique.com/medias/2024/09/05/jad05092024-rdc-mpox-ue-danemark-vaccins.jpg",
-      "publishedAt": "2025-08-24 09:05:06",
-      "content": "Le S\u00e9n\u00e9gal a annonc\u00e9 samedi 23 ao\u00fbt avoir pris des mesures pour emp\u00eacher une propagation du Mpox apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar sur un \u00e9tranger, dans un contexte dune expansion de la maladie en Afrique\u2026 [+1645 chars]",
-      "retrievedAt": "2025-08-25 19:06:12.057472",
-      "internal_id": "6e60d581c2e5d1b40beb2a0b1a6677114ee1273503a3dbf84edd4b1ec991ea45",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24043,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Gefahr von Tropenkrankheiten: Tigerm\u00fccke breitet sich rasant nach Nordeuropa aus",
-      "description": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Klimawandel beschleunigt die besorgniserregende Ausbreitung.",
-      "url": "https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25984484/8571327988-cImg_16_9-w1200/537139976.jpg",
-      "publishedAt": "2025-08-24 08:48:09",
-      "content": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Kl\u2026 [+5659 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.393939",
-      "internal_id": "258c86c50a1d0c9ab3a3cfa5c8a2bc29cf57a607cc3abb6ddb0671d29301d1fe",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24045,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Bringt der Klimawandel das Dengue-Fieber?: \u00dcbertragende M\u00fccken breiten sich nach Norden aus",
-      "description": "Die eingeschleppte Asiatische Tigerm\u00fccke erweitert ihr Verbreitungsgebiet in Europa nach Norden. Eine Studie zeigt, welche St\u00e4dte besonders gef\u00e4hrdet sind.",
-      "url": "https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14220230/alternates/BASE_16_9_W1400/1756024395000/asiatische-tigermucke.jpeg",
-      "publishedAt": "2025-08-24 08:44:43",
-      "content": "Die Asiatische Tigerm\u00fccke hat sich rasch in Europa ausgebreitet. 1979 wurde in Albanien die erste M\u00fccke auf dem Kontinent entdeckt. Inzwischen ist das aus S\u00fcdostasien stammende Insekt unter anderem i\u2026 [+5346 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.456572",
-      "internal_id": "0fcdc278db5cb321433fea49c1de3947fdf0a2069d6840708b4816881094ea3f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24041,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kompasiana.com",
-      "author": "Iwan Berri Prima",
-      "title": "Pentingnya Pendekatan One Health Atasi Rabies di Indonesia",
-      "description": "Setidaknya terdapat tiga alasan mengapa kolaborasi One Health sangat penting dalam pengendalian rabies.",
-      "url": "https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia",
-      "urlToImage": "https://assets-a1.kompasiana.com/items/album/2025/08/24/screenshot-20250824-152104-gallery-68aacc57ed641519273c63c6.jpg?t=o&v=1200",
-      "publishedAt": "2025-08-24 08:34:40",
-      "content": "Kasus penyakit rabies di Indonesia tampaknya belum mendekati kata usai. Terbaru, Dinas Peternakan dan Kesehatan Hewan (PKH) Provinsi Riau, telah melakukan pemeriksaan terhadap anjing yang menggigit s\u2026 [+1595 chars]",
-      "retrievedAt": "2025-08-25 19:06:05.967515",
-      "internal_id": "a2bf7df82e8ce548c320a0e354d18435e3c7b95b1f26183197e0ec572cbbffb0",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24042,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Ingrid Karb",
-      "title": "Dengue, Malaria und Tollwut: Wenn Erreger mitreisen",
-      "description": "Was geschieht, wenn man nach einer Urlaubsreise pl\u00f6tzlich krank wird? Dann sollten \u00c4rzte genau hinsehen, was die Ursache f\u00fcr Hautausschl\u00e4ge, \u00adDurchf\u00e4lle oder Fieber ist. Schuld k\u00f6nnten \u00adeingeschleppte Bakterien und Viren sein \u2013 was fatale Folgen haben kann.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/w1200/aktuell/gesellschaft/4007554857/1.10650945/facebook_teaser/die-tigermuecke-breitet-sich.jpg.webp",
-      "publishedAt": "2025-08-24 08:09:55",
-      "content": "Nach den Sommerferien hat es die Tochter von Freunden andauernd gejuckt. St\u00e4ndig musste sie sich kratzen, an Armen und Beinen entstand ein Hautausschlag. Der Kinderarzt ging zun\u00e4chst von einer beginn\u2026 [+276 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.361795",
-      "internal_id": "59914616e5fd5d6bc91b949c20ca178de45bd2871ac1e008b7b89d133392ef63",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24047,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Kevin Kirmizigul",
-      "title": "Ne pa\u0219te un nou pericol epidemic global. OMS: virusul periculos transmis de \u021b\u00e2n\u021bari se r\u0103sp\u00e2nde\u0219te \u00een Europa",
-      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii avertizeaz\u0103 asupra unei poten\u021biale epidemii globale, pe m\u0103sur\u0103 ce virusul chikungunya se r\u0103sp\u00e2nde\u0219te \u00een afara ariei sale obi\u0219nuite, inclusiv \u00een Europa. Virusul, transmis de \u021b\u00e2n\u021bari, poate provoca febr\u0103 \u0219i dureri articulare sev\u2026",
-      "url": "https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-a/a5e00aa5-df61-4540-9693-7a1547178868/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2025-08-24 07:54:51",
-      "content": "Organizaia Mondial a Sntii avertizeaz asupra unei poteniale epidemii globale, pe msur ce virusul chikungunya se rsp\u00e2ndete \u00een afara ariei sale obinuite, inclusiv \u00een Europa. Virusul, transmis de \u00e2nari,\u2026 [+3191 chars]",
-      "retrievedAt": "2025-08-25 19:06:11.277504",
-      "internal_id": "c76b19fcf48831b91f59cf8af13aecd0ba38680ce72f38b2c003001f6a27048f",
       "publishedAtLabel": "Aug 24"
     }
   ]
