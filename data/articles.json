@@ -1,8 +1,263 @@
 {
-  "last_updated": "2025-10-08 07:07",
-  "count_articles_total": 926,
-  "count_articles_new": 9,
+  "last_updated": "2025-10-08 19:06",
+  "count_articles_total": 932,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 24972,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Noticiabrasil.net.br",
+      "author": "Guilherme Correia",
+      "title": "Em meio a impasse regulat\u00f3rio, Oxitec inaugura maior biof\u00e1brica de mosquitos do mundo em SP",
+      "description": "A Oxitec, empresa brit\u00e2nica de controle biol\u00f3gico de pragas, inaugurou em Campinas (SP) a maior biof\u00e1brica do mundo dedicada \u00e0 produ\u00e7\u00e3o de mosquitos Aedes aegypti com Wolbachia, bact\u00e9ria que impede a transmiss\u00e3o de arboviroses como dengue, zika e chikungunya.",
+      "url": "https://noticiabrasil.net.br/20251007/em-meio-a-impasse-regulatorio-oxitec-inaugura-maior-biofabrica-de-mosquitos-do-mundo-em-sp-43996977.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/43996977.jpg?439989991759863006",
+      "publishedAt": "2025-10-07 18:33:09",
+      "content": "\"Hoje, a Anvisa n\u00e3o tem uma legisla\u00e7\u00e3o espec\u00edfica para esse tipo de produto, mas concedeu autoriza\u00e7\u00e3o excepcional \u00e0 Fiocruz devido \u00e0 import\u00e2ncia da tecnologia\", afirmou Ferreira.",
+      "retrievedAt": "2025-10-08 19:06:02.801151",
+      "internal_id": "d6fbd4e66e8094e8d64923bf79f00ab6f36b6d4a3357904281278b25e959de27",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24967,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "RFK\u2019s New CDC Chief Wants to Break Up the MMR Vaccine. Here\u2019s Why That\u2019s Such an Awful Idea",
+      "description": "U.S. President Donald Trump has also called for the shot to be broken up into three separate jabs, echoing a major goal of the antivax movement.",
+      "url": "https://gizmodo.com/rfks-new-cdc-chief-wants-to-break-up-the-mmr-vaccine-heres-why-thats-such-an-awful-idea-2000668762",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/JimOneill-1200x675.jpg",
+      "publishedAt": "2025-10-07 17:41:26",
+      "content": "The acting chief of the Centers for Disease Control and Prevention on Monday called for the combination measles, mumps, and rubella vaccine to be broken up into three separate shots, a move that woul\u2026 [+6287 chars]",
+      "retrievedAt": "2025-10-08 19:06:01.865628",
+      "internal_id": "2c7d3388337cca3b9fac7311f996a0db48b2168d94387fb2e512d8e6c9a2d53c",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24970,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Valen\u00e7a vai investigar presen\u00e7a de mosquito-tigre",
+      "description": "O mosquito-tigre pode transmitir doen\u00e7as como a dengue e o zika. Presidente da C\u00e2mara de Valen\u00e7a diz que at\u00e9 ao momento o inseto n\u00e3o foi detetado no concelho.",
+      "url": "https://observador.pt/2025/10/07/valenca-vai-investigar-presenca-de-mosquito-tigre-apos-confirmacao-em-tui/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F03%2F10170416%2F44443118.jpg?layer=obstop:T",
+      "publishedAt": "2025-10-07 16:56:43",
+      "content": "A C\u00e2mara de Valen\u00e7a vai tomar as dilig\u00eancias necess\u00e1rias para apurar se o mosquito-tigre, identificado do outro lado da fronteira, em Tui (Galiza, Espanha), tamb\u00e9m est\u00e1 presente no concelho, revelou \u2026 [+1430 chars]",
+      "retrievedAt": "2025-10-08 19:06:02.745561",
+      "internal_id": "e54cd7e8e6f3b4519e982878a38fda7e10f98dc2b67a7a9599f8ec7fa634f9cd",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24978,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic rapporterer positive toplinjeresultater for mpox-/koppevaccine i b\u00f8rn",
+      "description": "K\u00d8BENHAVN, Danmark, 7. oktober 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) rapporterede i dag toplinjeresultater fra et klinisk fors\u00f8g med selskabets MVA-BN\u00ae mpox-/koppevaccine i b\u00f8rn i alderen 2 til 11 \u00e5r.",
+      "url": "https://www.globenewswire.com/news-release/2025/10/07/3162738/0/da/Bavarian-Nordic-rapporterer-positive-toplinjeresultater-for-mpox-koppevaccine-i-b%C3%B8rn.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-10-07 14:56:00",
+      "content": "Det prim\u00e6re endem\u00e5l blev opn\u00e5et i det kliniske fors\u00f8g, som viste sammenlignelige sikkerhedsdata og immunresponser for MVA-BN mellem b\u00f8rn i alderen 2-11 \u00e5r og voksne.Resultaterne vil \u2026 [+5592 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.877589",
+      "internal_id": "ed6cf015058423476072008db04314687de14f347dcf929b845bcfad340d108e",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24979,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Reports Positive Topline Data for Mpox/Smallpox Vaccine in Pediatric Population",
+      "description": "COPENHAGEN, Denmark, October 7, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) today reported topline results from a clinical study of its MVA-BN\u00ae mpox/smallpox vaccine in children 2 to 11 years of age.",
+      "url": "https://www.globenewswire.com/news-release/2025/10/07/3162738/0/en/Bavarian-Nordic-Reports-Positive-Topline-Data-for-Mpox-Smallpox-Vaccine-in-Pediatric-Population.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-10-07 14:56:00",
+      "content": "Primary endpoint was met in clinical study, demonstrating a comparable safety profile and a non-inferior immune response for MVA-BN in children aged 2-11 years compared to adults.Res\u2026 [+5558 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.886809",
+      "internal_id": "8b72730bed1c4a52e6a520162e6866b3400817e671bfd881b4c5d5b40284b84d",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24977,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di febbre Chikungunya in provincia di Massa Carrara",
+      "description": ", invita il Comune, dovranno restare al chiuso con finestre e porte ben chiuse, sospendendo il funzionamento degli impianti di ricambio d'aria. (ANSA). (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/10/07/caso-di-febbre-chikungunya-in-provincia-di-massa-carrara_869800fd-a7e4-4794-b638-efd38754e57a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2016/5/6/dd27846256e4842ba42d8d5dae477379.jpg",
+      "publishedAt": "2025-10-07 14:07:38",
+      "content": "Rilevato un caso di febbre Chikungunya, trasmessa dalla zanzara tigre, a Montignoso (Massa Carrara), tra la Versilia e le Alpi Apuane. Un'ordinanza del sindaco ha disposto la disinfestazione dell'\u2026 [+625 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.547397",
+      "internal_id": "2140fb9d36175f4bac4151f9f59ebf6d3b8b6584f412d9deec524f44d34de70c",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24971,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sergio Moreno-L\u00f3pez, Lucia C. P\u00e9rez-Herrera, Augusto Pe\u00f1aranda",
+      "title": "Designing a multidimensional vulnerability index for supervising dengue cases from 2015 to 2020 in a low/middle-income country: A spatial principal component analysis",
+      "description": "Author summary Dengue is a mosquito-borne viral disease causing millions of infections each year, with significant health impacts in low- and middle-income countries. Vulnerability to dengue increases in settings with poor access to basic services, poverty, u\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013556",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013556.g004&size=inline",
+      "publishedAt": "2025-10-07 14:00:00",
+      "content": "Citation: Moreno-L\u00f3pez S, P\u00e9rez-Herrera LC, Pe\u00f1aranda A (2025) Designing a multidimensional vulnerability index for supervising dengue cases from 2015 to 2020 in a low/middle-income country: A spatia\u2026 [+35638 chars]",
+      "retrievedAt": "2025-10-08 19:06:02.792509",
+      "internal_id": "7d7952d1fe62f4563b934f282d97d2dda195480631f9c4c0ee515d0fadb087e2",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24980,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yeonsu Lee, Pamela Kim N. Salonga, Changdae Son, Geunsoo Jang, Dae-Hyup Koh, Jong-Hoon Kim, Hyojung Lee",
+      "title": "Effective strategies for typhoid conjugate vaccine delivery: Health and economic insights from the 2015 Kampala outbreak",
+      "description": "Author summary Typhoid fever remains a serious public health concern in countries with limited access to safe water and sanitation. Increasing resistance to treatment highlights the need for preventive measures such as early vaccination. Using a mathematical \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013566",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013566.g005&size=inline",
+      "publishedAt": "2025-10-07 14:00:00",
+      "content": "Citation: Lee Y, Salonga PKN, Son C, Jang G, Koh D-H, Kim J-H, et al. (2025) Effective strategies for typhoid conjugate vaccine delivery: Health and economic insights from the 2015 Kampala outbreak. \u2026 [+44565 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.975814",
+      "internal_id": "5c447836a37b4ea62d69e1b33b03cd88ddbc7d2b22d0a4de14c997b6f30364f6",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24969,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "Arranca el plan con drones l\u00e1ser del gigante tecnol\u00f3gico japon\u00e9s para proteger a los pollos",
+      "description": "El Ministerio de Agricultura, Pesca y Alimentaci\u00f3n (MAPA) notific\u00f3 tres nuevos focos de gripe aviar altamente pat\u00f3gena (IAAP) del tipo H5N1 en Espa\u00f1a el pasado 1 de octubre. Dos se detectaron en explotaciones av\u00edcolas de Valladolid (Castilla y Le\u00f3\u2026",
+      "url": "https://www.huffingtonpost.es/sociedad/arranca-plan-drones-laser-gigante-tecnologico-japones-proteger-pollos.html",
+      "urlToImage": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2025/10/07/pollos-y-pavos-en-gascuna-francia.jpeg",
+      "publishedAt": "2025-10-07 13:29:19",
+      "content": "El Ministerio de Agricultura, Pesca y Alimentaci\u00f3n (MAPA) notific\u00f3 tres nuevos focos de gripe aviar altamente pat\u00f3gena (IAAP) del tipo H5N1 en Espa\u00f1a el pasado 1 de octubre. Dos se detectaron en expl\u2026 [+1934 chars]",
+      "retrievedAt": "2025-10-08 19:06:02.390086",
+      "internal_id": "32529bd1c2a7799f102a47b884bb3ffe16a89e741b8bb1b248f92b5544c95ad4",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24968,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "David Higgins, Assistant Professor of Pediatrics, University of Colorado Anschutz Medical Campus",
+      "title": "Even small drops in vaccination rates for US children can lead to disease outbreaks",
+      "description": "Most states require childhood vaccinations for measles, mumps, tetanus, rubella, chickenpox and whooping cough.",
+      "url": "https://theconversation.com/even-small-drops-in-vaccination-rates-for-us-children-can-lead-to-disease-outbreaks-265555",
+      "urlToImage": "https://images.theconversation.com/files/692309/original/file-20250923-66-kmm4dh.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-10-07 12:25:10",
+      "content": "Xerius Jackson, age 7, gets an MMR vaccine during the Texas measles outbreak in March 2025. Jan Sonnenmair via Getty Images More than three-quarters of U.S. counties and jurisdictions are experienci\u2026 [+5572 chars]",
+      "retrievedAt": "2025-10-08 19:06:01.898706",
+      "internal_id": "27600615312dbd503d1d03bb8181983b069c01133750d45a64bcb9bce8ddf75d",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24974,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Jonathan Lambert",
+      "title": "Babies take a lesson from soldiers in the war against malaria",
+      "description": "Inspired by a military strategy to ward off disease-carrying mosquitoes, researchers see if the technique will help cut malaria infections in little ones.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/07/g-s1-91950/malaria-babies-bed-net-baby-carrier",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5100x2869+0+266/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F8f%2Ff715e166419092950c23b1e96540%2Fbay-malaria-carrier-1.jpg",
+      "publishedAt": "2025-10-07 11:41:03",
+      "content": "Babies may soon join soldiers in the fight to ward off malaria. For years, the U.S. military has treated uniforms with insecticide to repel mosquitoes and the malaria they can transmit. Ross Boyce \u2026 [+3335 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.167362",
+      "internal_id": "929ab17014a7d561935589ea5492e7c50015884c6f81da10c1eaa86b6e2aa8b1",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24976,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Stefan Huber",
+      "title": "Freiburg-St\u00fcrmer hat Malaria und f\u00e4llt \"bis auf Weiteres\" aus",
+      "description": "Sommer-Neuzugang Cyriaque Iri\u00e9 wartet beim SC Freiburg noch auf den Durchbruch. Aufgrund einer Malaria-Erkrankung muss er nun sogar noch ein bisschen l\u00e4nger warten.",
+      "url": "https://www.focus.de/sport/fussball/freiburg-stuermer-hat-malaria-und-faellt-bis-auf-weiteres-aus_df619088-3ac4-4e2c-9237-59b983c3b88a.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/3398f2e4-32c1-4c5f-8636-ece9f505c29b.18bf41a3-19b3-468f-b9e0-428d0e416abb.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281785%2C1087%29&hash=2c99817fdf8438daabdb1c1e46abeb39aecd4a410a53e7b727d443ae55220d40",
+      "publishedAt": "2025-10-07 10:59:46",
+      "content": "Der SC Freiburg muss vorerst auf Neuzugang Cyriaque Iri\u00e9 verzichten. Wie der Verein mitteilte f\u00e4llt der Offensivmann \"bis auf Weiteres\" aus. Der Grund ist aber kein Allt\u00e4glicher: Iri\u00e9 ist an Malaria \u2026 [+1027 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.224154",
+      "internal_id": "752e99fa974ca4a12c6f4ced729af340eefcdbb10a0eabc7f84430d07f27009e",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24973,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Lydia Spencer-Elliott",
+      "title": "Drag Race UK star Ginny Lemon being treated in hospital with meningitis",
+      "description": "\u2018I\u2019m very unwell,\u2019 performer tells fans in health update on social media",
+      "url": "https://www.the-independent.com/arts-entertainment/tv/news/rupaul-drag-race-uk-ginny-lemon-meningitis-b2840751.html",
+      "urlToImage": "https://static.the-independent.com/2025/10/07/8/09/Ginny-Lemon.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-10-07 09:24:12",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+2865 chars]",
+      "retrievedAt": "2025-10-08 19:06:02.972470",
+      "internal_id": "88df262c4f21ad43e6ce19396823bd348a7b9b222cf55eb975f5bc93c2a4c8c3",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24975,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Linus Uhrig",
+      "title": "Er kam im Sommer f\u00fcr 8,5 Mio. Euro - Bundesliga-Juwel an Malaria erkrankt",
+      "description": "Cyriaque Irie vom SC Freiburg an Malaria erkrankt. Nach Krankenhausaufenthalt auf dem Weg der Besserung.",
+      "url": "https://www.bild.de/sport/fussball/freiburg-star-irie-kaempft-gegen-malaria-68e3a0151642fe56b7eda970",
+      "urlToImage": "https://images.bild.de/68e3a0151642fe56b7eda970/bd23c1fca6fdc13b33112da3cb16736d,682c20f2?w=1280",
+      "publishedAt": "2025-10-07 08:26:12",
+      "content": "Bittere Diagnose f\u00fcr Freiburg-Spieler Cyriaque Irie! Der Mittelfeldspieler kam im Sommer f\u00fcr 8,5 Millionen Euro vom franz\u00f6sischen Zweitligisten Troyes und ist damit einer der teuersten Transfers der\u2026 [+1252 chars]",
+      "retrievedAt": "2025-10-08 19:06:03.200300",
+      "internal_id": "b9dc551d71c8e95c8ee5bd39a2e599799f84e041cc4fc77d96e152d9915811a9",
+      "publishedAtLabel": "Oct 7"
+    },
     {
       "id": 24962,
       "query": [
@@ -16612,152 +16867,6 @@
       "content": "La France m\u00e9tropolitaine bat des records de cas de chikungunya. En cause, la prolif\u00e9ration de moustiques tigres d\u00e9sormais pr\u00e9sents dans plus de 80 % des d\u00e9partements. Ce texte correspond \u00e0 une parti\u2026 [+1845 chars]",
       "retrievedAt": "2025-08-26 07:07:45.535774",
       "internal_id": "62979de46c3e3ffa0aa022d37e1f8add4d7dd06e7e737b5416153c83aecdfcfb",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24044,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Sandra Simonsen",
-      "title": "Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten",
-      "description": "Pl\u00f6tzliche Krankheit nach Urlaub? Tropenfieber und Parasiten k\u00f6nnten schuld sein. Symptome erkennen und vorbeugen.",
-      "url": "https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa",
-      "urlToImage": "https://images.bild.de/681c71e83332b5649f8b50aa/f666faafc729a57f660de9f1af5427bf,e8f13727?w=1280",
-      "publishedAt": "2025-08-24 14:47:05",
-      "content": "Sommer, Sonne, Strand - doch zur\u00fcck zu Hause pl\u00f6tzlich krank? Tropenkrankheiten und Parasiten k\u00f6nnen der Grund sein. Von Dengue-Fieber bis Am\u00f6benruhr: Erfahren Sie mit BILDplus, welche Symptome Sie e\u2026 [+52 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.425017",
-      "internal_id": "5092ecd80b5e9c07d2eefac133812ea14416f2e3f8aeaed3b7dae166fb709ea1",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24046,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Xataka",
-      "title": "Hong Kong enfrenta uma enorme crise de sa\u00fade p\u00fablica devido ao v\u00edrus chikungunya; o rem\u00e9dio \u00e9 um ex\u00e9rcito de c\u00e3es-rob\u00f4s",
-      "description": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido ...",
-      "url": "https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/24/1330988472-13662000.jpeg",
-      "publishedAt": "2025-08-24 10:12:24",
-      "content": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido por mosquitos, com uma estrat\u00e9gia sa\u00edda diretamente de Black Mirror: c\u00e3es-rob\u00f4s. As autoridades j\u00e1 plan\u2026 [+1846 chars]",
-      "retrievedAt": "2025-08-25 19:06:11.252975",
-      "internal_id": "941e5e44e7c1d1509a62128866d96a0e6dc128b6bc93e713a93eb406d3fce026",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24048,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "Jeune Afrique",
-      "title": "Mpox : le S\u00e9n\u00e9gal prend des mesures apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar",
-      "description": "Le minist\u00e8re de la Sant\u00e9 a \u00e9t\u00e9 inform\u00e9 vendredi de la confirmation d\u2019un cas de Mpox li\u00e9 \u00e0 \u00ab un ressortissant \u00e9tranger entr\u00e9 au S\u00e9n\u00e9gal le 19 ao\u00fbt \u00bb.",
-      "url": "https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.3561x0.0489/https://prod.cdn-medias.jeuneafrique.com/medias/2024/09/05/jad05092024-rdc-mpox-ue-danemark-vaccins.jpg",
-      "publishedAt": "2025-08-24 09:05:06",
-      "content": "Le S\u00e9n\u00e9gal a annonc\u00e9 samedi 23 ao\u00fbt avoir pris des mesures pour emp\u00eacher une propagation du Mpox apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar sur un \u00e9tranger, dans un contexte dune expansion de la maladie en Afrique\u2026 [+1645 chars]",
-      "retrievedAt": "2025-08-25 19:06:12.057472",
-      "internal_id": "6e60d581c2e5d1b40beb2a0b1a6677114ee1273503a3dbf84edd4b1ec991ea45",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24043,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Gefahr von Tropenkrankheiten: Tigerm\u00fccke breitet sich rasant nach Nordeuropa aus",
-      "description": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Klimawandel beschleunigt die besorgniserregende Ausbreitung.",
-      "url": "https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25984484/8571327988-cImg_16_9-w1200/537139976.jpg",
-      "publishedAt": "2025-08-24 08:48:09",
-      "content": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Kl\u2026 [+5659 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.393939",
-      "internal_id": "258c86c50a1d0c9ab3a3cfa5c8a2bc29cf57a607cc3abb6ddb0671d29301d1fe",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24045,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Bringt der Klimawandel das Dengue-Fieber?: \u00dcbertragende M\u00fccken breiten sich nach Norden aus",
-      "description": "Die eingeschleppte Asiatische Tigerm\u00fccke erweitert ihr Verbreitungsgebiet in Europa nach Norden. Eine Studie zeigt, welche St\u00e4dte besonders gef\u00e4hrdet sind.",
-      "url": "https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14220230/alternates/BASE_16_9_W1400/1756024395000/asiatische-tigermucke.jpeg",
-      "publishedAt": "2025-08-24 08:44:43",
-      "content": "Die Asiatische Tigerm\u00fccke hat sich rasch in Europa ausgebreitet. 1979 wurde in Albanien die erste M\u00fccke auf dem Kontinent entdeckt. Inzwischen ist das aus S\u00fcdostasien stammende Insekt unter anderem i\u2026 [+5346 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.456572",
-      "internal_id": "0fcdc278db5cb321433fea49c1de3947fdf0a2069d6840708b4816881094ea3f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24041,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kompasiana.com",
-      "author": "Iwan Berri Prima",
-      "title": "Pentingnya Pendekatan One Health Atasi Rabies di Indonesia",
-      "description": "Setidaknya terdapat tiga alasan mengapa kolaborasi One Health sangat penting dalam pengendalian rabies.",
-      "url": "https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia",
-      "urlToImage": "https://assets-a1.kompasiana.com/items/album/2025/08/24/screenshot-20250824-152104-gallery-68aacc57ed641519273c63c6.jpg?t=o&v=1200",
-      "publishedAt": "2025-08-24 08:34:40",
-      "content": "Kasus penyakit rabies di Indonesia tampaknya belum mendekati kata usai. Terbaru, Dinas Peternakan dan Kesehatan Hewan (PKH) Provinsi Riau, telah melakukan pemeriksaan terhadap anjing yang menggigit s\u2026 [+1595 chars]",
-      "retrievedAt": "2025-08-25 19:06:05.967515",
-      "internal_id": "a2bf7df82e8ce548c320a0e354d18435e3c7b95b1f26183197e0ec572cbbffb0",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24042,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Ingrid Karb",
-      "title": "Dengue, Malaria und Tollwut: Wenn Erreger mitreisen",
-      "description": "Was geschieht, wenn man nach einer Urlaubsreise pl\u00f6tzlich krank wird? Dann sollten \u00c4rzte genau hinsehen, was die Ursache f\u00fcr Hautausschl\u00e4ge, \u00adDurchf\u00e4lle oder Fieber ist. Schuld k\u00f6nnten \u00adeingeschleppte Bakterien und Viren sein \u2013 was fatale Folgen haben kann.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/w1200/aktuell/gesellschaft/4007554857/1.10650945/facebook_teaser/die-tigermuecke-breitet-sich.jpg.webp",
-      "publishedAt": "2025-08-24 08:09:55",
-      "content": "Nach den Sommerferien hat es die Tochter von Freunden andauernd gejuckt. St\u00e4ndig musste sie sich kratzen, an Armen und Beinen entstand ein Hautausschlag. Der Kinderarzt ging zun\u00e4chst von einer beginn\u2026 [+276 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.361795",
-      "internal_id": "59914616e5fd5d6bc91b949c20ca178de45bd2871ac1e008b7b89d133392ef63",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24047,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Kevin Kirmizigul",
-      "title": "Ne pa\u0219te un nou pericol epidemic global. OMS: virusul periculos transmis de \u021b\u00e2n\u021bari se r\u0103sp\u00e2nde\u0219te \u00een Europa",
-      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii avertizeaz\u0103 asupra unei poten\u021biale epidemii globale, pe m\u0103sur\u0103 ce virusul chikungunya se r\u0103sp\u00e2nde\u0219te \u00een afara ariei sale obi\u0219nuite, inclusiv \u00een Europa. Virusul, transmis de \u021b\u00e2n\u021bari, poate provoca febr\u0103 \u0219i dureri articulare sev\u2026",
-      "url": "https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-a/a5e00aa5-df61-4540-9693-7a1547178868/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2025-08-24 07:54:51",
-      "content": "Organizaia Mondial a Sntii avertizeaz asupra unei poteniale epidemii globale, pe msur ce virusul chikungunya se rsp\u00e2ndete \u00een afara ariei sale obinuite, inclusiv \u00een Europa. Virusul, transmis de \u00e2nari,\u2026 [+3191 chars]",
-      "retrievedAt": "2025-08-25 19:06:11.277504",
-      "internal_id": "c76b19fcf48831b91f59cf8af13aecd0ba38680ce72f38b2c003001f6a27048f",
       "publishedAtLabel": "Aug 24"
     }
   ]
