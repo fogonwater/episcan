@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-10-09 07:07
-- **Most recent article:** 2025-10-08 06:31:42
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-10-09 19:06
+- **Most recent article:** 2025-10-08 17:41:32
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 32 | 45 | 39 | 54 | 34 | 31 | 13 | 248 |
-| chikungunya | 52 | 18 | 18 | 38 | 23 | 25 | 7 | 181 |
-| dengue | 39 | 16 | 24 | 26 | 18 | 32 | 11 | 166 |
-| malaria | 13 | 13 | 18 | 10 | 15 | 10 | 8 | 87 |
-| mpox | 6 | 58 | 7 | 5 | 8 | 1 | 2 | 87 |
+| measles | 32 | 45 | 39 | 54 | 34 | 31 | 15 | 250 |
+| chikungunya | 49 | 18 | 18 | 38 | 23 | 25 | 8 | 179 |
+| dengue | 35 | 16 | 24 | 26 | 18 | 32 | 14 | 165 |
+| malaria | 12 | 13 | 18 | 10 | 15 | 10 | 9 | 87 |
+| mpox | 5 | 58 | 7 | 5 | 8 | 1 | 2 | 86 |
+| rabies | 4 | 9 | 5 | 14 | 18 | 10 | 2 | 62 |
 | h5n1 | 5 | 20 | 6 | 9 | 5 | 10 | 7 | 62 |
-| rabies | 5 | 9 | 5 | 14 | 18 | 10 | 1 | 62 |
 | meningitis | 16 | 5 | 6 | 6 | 3 | 7 | 5 | 48 |
-| zika | 8 | 4 | 6 | 6 | 6 | 5 | 4 | 39 |
+| zika | 8 | 4 | 6 | 6 | 6 | 5 | 5 | 40 |
 | yersinia | 12 | 3 | 4 | 0 | 1 | 0 | 0 | 20 |
-| typhoid | 0 | 2 | 4 | 1 | 3 | 0 | 2 | 12 |
+| typhoid | 0 | 2 | 4 | 1 | 3 | 0 | 3 | 13 |
 | hpai | 1 | 1 | 4 | 1 | 1 | 2 | 1 | 11 |
 | leptospirosis | 0 | 2 | 1 | 0 | 2 | 5 | 1 | 11 |
 | pertussis | 1 | 3 | 0 | 2 | 0 | 1 | 1 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (zika)
 
+- [First evidence in the UK of breeding aegypti mosquito – the main spreader of dengue, chikungunya and Zika](https://theconversation.com/first-evidence-in-the-uk-of-breeding-aegypti-mosquito-the-main-spreader-of-dengue-chikungunya-and-zika-266767) (The Conversation Africa)
+
 - [Em meio a impasse regulatório, Oxitec inaugura maior biofábrica de mosquitos do mundo em SP](https://noticiabrasil.net.br/20251007/em-meio-a-impasse-regulatorio-oxitec-inaugura-maior-biofabrica-de-mosquitos-do-mundo-em-sp-43996977.html) (Noticiabrasil.net.br)
 
 - [Valença vai investigar presença de mosquito-tigre](https://observador.pt/2025/10/07/valenca-vai-investigar-presenca-de-mosquito-tigre-apos-confirmacao-em-tui/) (Observador.pt)
@@ -44,11 +46,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (typhoid)
 
+- [ফেনীতে ৪ লাখ ২৫ হাজার শিশুকে টাইফয়েড টিকা দেওয়া হবে](https://www.banglanews24.com/saradesh/news/bd/1608193.details) (Banglanews24.com)
+
 - [A combination typhoid and non-typhoidal Salmonella polysaccharide conjugate vaccine in healthy adults: a randomized, placebo-controlled phase 1 trial](https://www.nature.com/articles/s41591-025-04003-z) (Nature.com)
 
 - [Effective strategies for typhoid conjugate vaccine delivery: Health and economic insights from the 2015 Kampala outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013566) (Plos.org)
 
 ## 25-41 (rabies)
+
+- [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
 - [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
 
@@ -75,6 +81,10 @@ Source: [News API](https://newsapi.org/)
 - ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
+
+- [Vaccine debate heats up as officials weigh splitting combined MMR into single doses](https://www.foxnews.com/health/vaccine-debate-heats-up-officials-weigh-splitting-combined-mmr-single-doses) (Fox News)
+
+- [Public health experts worry about the proposal to split the MMR vaccine. A doctor explains why | CNN](https://www.cnn.com/2025/10/08/health/mmr-vaccine-split-wellness) (CNN)
 
 - [Possible measles exposures at Portage la Prairie clinic, Winnipeg addictions centre](https://www.cbc.ca/news/canada/manitoba/measles-exposure-sites-portage-clinic-1.7653666) (CBC News)
 
@@ -103,6 +113,8 @@ Source: [News API](https://newsapi.org/)
 - [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
+
+- [Research shows a simple strategy can protect babies from malaria-carrying mosquitoes](https://www.npr.org/2025/10/08/nx-s1-5558011/research-shows-a-simple-strategy-can-protect-babies-from-malaria-carrying-mosquitoes) (NPR)
 
 - [Two-dimensional Correlation Spectroscopy (2D-COS) in the analysis of parasitemia in Raman spectra of red blood cells of patients diagnosed with malaria](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00272a) (Royal Society of Chemistry)
 
@@ -146,6 +158,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (dengue)
 
+- [First evidence in the UK of breeding aegypti mosquito – the main spreader of dengue, chikungunya and Zika](https://theconversation.com/first-evidence-in-the-uk-of-breeding-aegypti-mosquito-the-main-spreader-of-dengue-chikungunya-and-zika-266767) (The Conversation Africa)
+
+- [El 80% de los patios en Navojoa acumulan criaderos del dengue](https://www.tribuna.com.mx/sonora/2025/10/8/el-80-de-los-patios-en-navojoa-acumulan-criaderos-del-dengue-415887.html) (Tribuna.com.mx)
+
+- [Aquacultura, dieta e gaiolas: como biofábrica quer produzir 190 milhões de mosquitos com bactéria para combater dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2025/10/08/aquacultura-dieta-e-gaiolas-como-biofabrica-quer-produzir-190-milhoes-de-mosquitos-com-bacteria-para-combater-dengue.ghtml) (Globo)
+
 - [Nepal Dengue Outbreak Spreads](https://nep123.com/nepal-dengue-outbreak-spreads/) (Nep123.com)
 
 - [Em meio a impasse regulatório, Oxitec inaugura maior biofábrica de mosquitos do mundo em SP](https://noticiabrasil.net.br/20251007/em-meio-a-impasse-regulatorio-oxitec-inaugura-maior-biofabrica-de-mosquitos-do-mundo-em-sp-43996977.html) (Noticiabrasil.net.br)
@@ -169,6 +187,8 @@ Source: [News API](https://newsapi.org/)
 - [Brasil ganha segunda fábrica de mosquitos para combater dengue](https://olhardigital.com.br/2025/10/05/medicina-e-saude/brasil-ganha-segunda-fabrica-de-mosquitos-para-combater-dengue/) (Olhardigital.com.br)
 
 ## 25-41 (chikungunya)
+
+- [First evidence in the UK of breeding aegypti mosquito – the main spreader of dengue, chikungunya and Zika](https://theconversation.com/first-evidence-in-the-uk-of-breeding-aegypti-mosquito-the-main-spreader-of-dengue-chikungunya-and-zika-266767) (The Conversation Africa)
 
 - [Brasil concentra 96% dos casos de chikungunya nas Américas, diz OMS](https://www.infomoney.com.br/saude/brasil-concentra-96-dos-casos-de-chikungunya-nas-americas-diz-oms/) (InfoMoney)
 
@@ -1944,8 +1964,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dogs bite men (and a little girl).](https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/) (Crookedtimber.org)
 
-- [Pentingnya Pendekatan One Health Atasi Rabies di Indonesia](https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia) (Kompasiana.com)
-
 ## 25-35 (pertussis)
 
 - [Προειδοποίηση ΠΟΥ: Εμβολιάστε τα παιδιά για τον κοκκύτη– Ανθεκτικό στέλεχος εξαπλώνεται στις ΗΠΑ](https://www.newsit.gr/kosmos/proeidopoiisi-pou-emvoliaste-ta-paidia-gia-ton-kokkyti-anthektiko-stelexos-eksaplonetai-stis-ipa/4460715/) (Newsit.gr)
@@ -1961,8 +1979,6 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique regista 66 casos e 810 suspeitos de mpox](https://observador.pt/2025/08/27/numero-de-casos-de-mpox-em-mocambique-sobe-para-66-e-suspeitos-para-810/) (Observador.pt)
 
 - [⚠️ First Mpox Case in Senegal: Health Alert](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcji7XAbSq2Y) (YouTube)
-
-- [Mpox : le Sénégal prend des mesures après un cas détecté à Dakar](https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/) (Jeune Afrique)
 
 ## 25-35 (meningitis)
 
@@ -2090,8 +2106,6 @@ Source: [News API](https://newsapi.org/)
 
 - [13-year-old in serious condition: bitten by bug on family trip and contracted malaria](https://www.israelnationalnews.com/news/413813) (Israelnationalnews.com)
 
-- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
-
 ## 25-35 (hpai)
 
 - [Bird Flu Outbreak In Bulgaria](https://www.shtfplan.com/headline-news/bird-flu-outbreak-in-bulgaria) (Shtfplan.com)
@@ -2179,14 +2193,6 @@ Source: [News API](https://newsapi.org/)
 - [La inteligencia artificial se convierte en arma clave contra el dengue: diagnóstico veloz y predicción de brotes](https://es.gizmodo.com/la-inteligencia-artificial-se-convierte-en-arma-clave-contra-el-dengue-diagnostico-veloz-y-prediccion-de-brotes-2000187924) (Gizmodo.com)
 
 - [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
-
-- [Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten](https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa) (Bild)
-
-- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
-
-- [Bringt der Klimawandel das Dengue-Fieber?: Übertragende Mücken breiten sich nach Norden aus](https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html) (Der Tagesspiegel)
-
-- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
 
 ## 25-35 (chikungunya)
 
@@ -2287,9 +2293,3 @@ Source: [News API](https://newsapi.org/)
 - [Doenças transmitidas por mosquitos batem recorde na Europa](https://www.metropoles.com/saude/doencas-de-mosquitos-na-europa) (Metropoles.com)
 
 - [Chikungunya : 154 cas recensés depuis le début de l’été en métropole](https://www.franceinfo.fr/replay-jt/france-2/20-heures/chikungunya-154-cas-recenses-depuis-le-debut-de-l-ete-en-metropole_7452547.html) (Franceinfo.fr)
-
-- [Hong Kong enfrenta uma enorme crise de saúde pública devido ao vírus chikungunya; o remédio é um exército de cães-robôs](https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html) (Terra.com.br)
-
-- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
-
-- [Ne paște un nou pericol epidemic global. OMS: virusul periculos transmis de țânțari se răspândește în Europa](https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html) (Adevarul.ro)
