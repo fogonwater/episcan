@@ -1,8 +1,171 @@
 {
-  "last_updated": "2025-10-08 19:06",
-  "count_articles_total": 932,
-  "count_articles_new": 14,
+  "last_updated": "2025-10-09 07:07",
+  "count_articles_total": 949,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 24985,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Nepal Dengue Outbreak Spreads",
+      "description": "Dengue Fever Outbreak Spreads Across Nepal: Over 5,000 Cases Reported With the monsoon season in full swing, dengue fever is rapidly spreading across Nepal. The Epidemiology and Disease Control Division (EDCD) has reported a concerning 5,378 confirmed dengue \u2026",
+      "url": "https://nep123.com/nepal-dengue-outbreak-spreads/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "publishedAt": "2025-10-08 06:31:42",
+      "content": "Dengue Fever Outbreak Spreads Across Nepal: Over 5,000 Cases Reported With the monsoon season in full swing, dengue fever is rapidly spreading across Nepal. The Epidemiology and Disease Control Div\u2026 [+1298 chars]",
+      "retrievedAt": "2025-10-09 07:07:32.741514",
+      "internal_id": "a8560e2c5c1ea7f19d2decac5d62b4bb76f8db136b47d645ee5bb648aa61a76f",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 24988,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil concentra 96% dos casos de chikungunya nas Am\u00e9ricas, diz OMS",
+      "description": "Pa\u00eds tamb\u00e9m responde por 72% das mortes no mundo; avan\u00e7o do Aedes \u00e9 impulsionado por urbaniza\u00e7\u00e3o prec\u00e1ria e mudan\u00e7as clim\u00e1ticas The post Brasil concentra 96% dos casos de chikungunya nas Am\u00e9ricas, diz OMS appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/brasil-concentra-96-dos-casos-de-chikungunya-nas-americas-diz-oms/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-10-08 02:40:39",
+      "content": "O Brasil responde por quase 96% dos casos de chikungunya confirmados neste ano nas Am\u00e9ricas, segundo dados divulgados pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS). O Pa\u00eds tamb\u00e9m contabiliza cerca de 72% d\u2026 [+3479 chars]",
+      "retrievedAt": "2025-10-09 07:07:33.916006",
+      "internal_id": "cf2c9430209877f6d492c919eb09668fd791edbcd9278acb86970c84a56aa944",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 24987,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Chikungunya: Brasil responde por quase 96% dos casos confirmados nas Am\u00e9ricas, aponta OMS",
+      "description": "O Brasil responde por quase 96% dos casos de chikungunya confirmados neste ano nas Am\u00e9ricas, ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/chikungunya-brasil-responde-por-quase-96-dos-casos-confirmados-nas-americas-aponta-oms,57408b40aca8cb88535eb0d1e32b73dcerklc3k6.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-10-08 00:49:07",
+      "content": "O Brasil responde por quase 96% dos casos de chikungunya confirmados neste ano nas Am\u00e9ricas, segundo dados divulgados pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS). O Pa\u00eds tamb\u00e9m contabiliza cerca de 72% d\u2026 [+3317 chars]",
+      "retrievedAt": "2025-10-09 07:07:33.898161",
+      "internal_id": "b41b4e2c14656ed85ccc32cf2fe7cd32abe74ba58f6ba043c8bfbb6fc6d68366",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 24983,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Mohammed Nooruzzaman, Pablo Sebastian Britto de Oliveira, Salman L. Butt, Nicole H. Martin, Samuel D. Alcaine, Stephen P. Walker, Diego G. Diel",
+      "title": "H5N1 influenza virus stability and transmission risk in raw milk and cheese",
+      "description": "The pathogenic avian flu H5N1 virus remains stable in raw milk and throughout the cheese-making process, but contaminated cheese fed to ferrets did not lead to infection, whereas raw milk did.",
+      "url": "https://www.nature.com/articles/s41591-025-04010-0",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-025-04010-0/MediaObjects/41591_2025_4010_Fig1_HTML.png",
+      "publishedAt": "2025-10-08 00:00:00",
+      "content": "Biosafety, biosecurity and ethical regulations All work involving handling and propagation of HPAI H5N1 virus, cheese making and processing, and virus isolation in ECEs was performed following stric\u2026 [+23567 chars]",
+      "retrievedAt": "2025-10-09 07:07:32.266156",
+      "internal_id": "32b1f592bab78e2dff3c3f3a0acdb222440d20d5367f68eb8a30bb91c55b2877",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 24984,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mercola.com",
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Victims, Not Vectors \u2014 CFIA's Ostrich Cull Misses the Real Source of H5N1 Risk",
+      "description": "Originally published on Pam Killeen: September 26, 2025 The Wrong Target Katie Pasitney, spokeswoman for Universal Ostrich Farms in Edgewood, B.C., says the Canadian Food Inspection Agency (CFIA) told her that migratory birds likely contaminated her farm\u2019s\u2026",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/10/08/avian-flu-ostrich-cull.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/October/FB/avian-flu-ostrich-cull-fb.jpg",
+      "publishedAt": "2025-10-08 00:00:00",
+      "content": "Mercola proudly supports these charities and organizations. View All Disclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a\u2026 [+1007 chars]",
+      "retrievedAt": "2025-10-09 07:07:32.459469",
+      "internal_id": "3397a29557266459ecc7784738c592a76bc57b53ca0c1e317bf8c9907704c130",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 24989,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Wilbur H. Chen, Robin S. Barnes, Michael J. Sikorski, Reva Datar, Roohali Sukhavasi, Yuanyuan Liang, Rekha R. Rapaka, Marcela F. Pasetti, Marcelo B. Sztein, Rezwanul Wahid, Sharon M. Tennant, Raphael Simon, Scott M. Baliban, James E. Galen, Andrew Lees, Biana Bernshtein, Galit Alter, Raches Ella, Krishna Mohan, M. Gangadhara Naidu, D. Yogeswar Rao, Krishna M. Ella, Myron M. Levine",
+      "title": "A combination typhoid and non-typhoidal Salmonella polysaccharide conjugate vaccine in healthy adults: a randomized, placebo-controlled phase 1 trial",
+      "description": "In a randomized, placebo-controlled, stepwise dose-escalation phase 1 trial evaluating a conjugate vaccine against both typhoid and invasive non-typhoidal Salmonella infections, the vaccine was found to be safe and immunogenic in healthy adults.",
+      "url": "https://www.nature.com/articles/s41591-025-04003-z",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-025-04003-z/MediaObjects/41591_2025_4003_Fig1_HTML.png",
+      "publishedAt": "2025-10-08 00:00:00",
+      "content": "Feasey, N. A., Dougan, G., Kingsley, R. A., Heyderman, R. S. &amp; Gordon, M. A. Invasive non-typhoidal salmonella disease: an emerging and neglected tropical disease in Africa. Lancet379, 248924\u2026 [+11975 chars]",
+      "retrievedAt": "2025-10-09 07:07:34.358251",
+      "internal_id": "04bd6a569d1d735b39d6ef81c9283948f47ad2edee370325719066eb7933304b",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 24986,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Mateusz Migdalski, Jacek Czepiel, Paulina Moskal, Malwina Birczynska, Martyna Kucharska, Grazyna Biesiada, Joanna Stok\u0142osa, Monika Boci\u0105ga-Jasik, Aleksandra Weselucha-Birczynska",
+      "title": "Two-dimensional Correlation Spectroscopy (2D-COS) in the analysis of parasitemia in Raman spectra of red blood cells of patients diagnosed with malaria",
+      "description": "Analyst, 2025, Accepted ManuscriptDOI: 10.1039/D5AN00272A, PaperMateusz Migdalski, Jacek Czepiel, Paulina Moskal, Malwina Birczynska, Martyna Kucharska, Grazyna Biesiada, Joanna Stok\u0142osa, Monika Boci\u0105ga-Jasik, Aleksandra Weselucha-BirczynskaAbstract This stud\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00272a",
+      "urlToImage": null,
+      "publishedAt": "2025-10-07 23:00:00",
+      "content": "M. Migdalski, J. Czepiel, P. Moskal, M. Birczynska, M. Kucharska, G. Biesiada, J. Stokosa, M. Bociga-Jasik and A. Weselucha-Birczynska, Analyst, 2025, Accepted Manuscript , DOI: 10.1039/D5AN00272A\u2026 [+692 chars]",
+      "retrievedAt": "2025-10-09 07:07:33.406246",
+      "internal_id": "c9b1e4c7beac7c7a6f056cb3f2803b2f31982d5fb9b8c7467bd17649dc7ce42e",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24981,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Possible measles exposures at Portage la Prairie clinic, Winnipeg addictions centre",
+      "description": "Health officials are warning the public might have been exposed to measles at four sites in southern Manitoba, including health-care facilities in Stonewall and Portage la Prairie, as well as at an addictions recovery facility in Winnipeg.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-sites-portage-clinic-1.7653666",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1758665979!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-10-07 20:58:36",
+      "content": "Health officials are warning the public might have been exposed to measles at four sites in southern Manitoba, including health-care facilities in Stonewall and Portage la Prairie, as well as at an a\u2026 [+1750 chars]",
+      "retrievedAt": "2025-10-09 07:07:31.954910",
+      "internal_id": "887ca1d05e7f49e2a0f5cdc6505ff348839b1d89896012001f9dd956c5674281",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 24982,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Zach Rainey",
+      "title": "SC health officials confirm 2 additional cases of measles in Spartanburg County",
+      "description": "The South Carolina Department of Public Health (DPH) has confirmed two additional cases of measles related to an ongoing outbreak in Spartanburg County.",
+      "url": "https://www.wyff4.com/article/measles-outbreak-south-carolina-spartanburg-county/68886701",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/4dfdb5fc-b48a-4897-957c-68fccd38a86b/cabdcf0a-e474-4e73-8be7-b1718a60f6a7.jpeg?crop=0.881xw:1.00xh;0.0602xw,0&resize=1200:*",
+      "publishedAt": "2025-10-07 19:18:12",
+      "content": "SPARTANBURG COUNTY, S.C. \u2014The South Carolina Department of Public Health (DPH) has confirmed two additional cases of measles related to an ongoing outbreak in Spartanburg County. As of Oct. 7, a tot\u2026 [+1797 chars]",
+      "retrievedAt": "2025-10-09 07:07:32.007462",
+      "internal_id": "d95b9d7263a3bfae1cebeda64cfaadd1d0111286ac2b4bccc3535e748479f9ee",
+      "publishedAtLabel": "Oct 7"
+    },
     {
       "id": 24972,
       "query": [
@@ -16867,6 +17030,152 @@
       "content": "La France m\u00e9tropolitaine bat des records de cas de chikungunya. En cause, la prolif\u00e9ration de moustiques tigres d\u00e9sormais pr\u00e9sents dans plus de 80 % des d\u00e9partements. Ce texte correspond \u00e0 une parti\u2026 [+1845 chars]",
       "retrievedAt": "2025-08-26 07:07:45.535774",
       "internal_id": "62979de46c3e3ffa0aa022d37e1f8add4d7dd06e7e737b5416153c83aecdfcfb",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Sandra Simonsen",
+      "title": "Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten",
+      "description": "Pl\u00f6tzliche Krankheit nach Urlaub? Tropenfieber und Parasiten k\u00f6nnten schuld sein. Symptome erkennen und vorbeugen.",
+      "url": "https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa",
+      "urlToImage": "https://images.bild.de/681c71e83332b5649f8b50aa/f666faafc729a57f660de9f1af5427bf,e8f13727?w=1280",
+      "publishedAt": "2025-08-24 14:47:05",
+      "content": "Sommer, Sonne, Strand - doch zur\u00fcck zu Hause pl\u00f6tzlich krank? Tropenkrankheiten und Parasiten k\u00f6nnen der Grund sein. Von Dengue-Fieber bis Am\u00f6benruhr: Erfahren Sie mit BILDplus, welche Symptome Sie e\u2026 [+52 chars]",
+      "retrievedAt": "2025-08-25 19:06:08.425017",
+      "internal_id": "5092ecd80b5e9c07d2eefac133812ea14416f2e3f8aeaed3b7dae166fb709ea1",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24046,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Xataka",
+      "title": "Hong Kong enfrenta uma enorme crise de sa\u00fade p\u00fablica devido ao v\u00edrus chikungunya; o rem\u00e9dio \u00e9 um ex\u00e9rcito de c\u00e3es-rob\u00f4s",
+      "description": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido ...",
+      "url": "https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/24/1330988472-13662000.jpeg",
+      "publishedAt": "2025-08-24 10:12:24",
+      "content": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido por mosquitos, com uma estrat\u00e9gia sa\u00edda diretamente de Black Mirror: c\u00e3es-rob\u00f4s. As autoridades j\u00e1 plan\u2026 [+1846 chars]",
+      "retrievedAt": "2025-08-25 19:06:11.252975",
+      "internal_id": "941e5e44e7c1d1509a62128866d96a0e6dc128b6bc93e713a93eb406d3fce026",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24048,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Jeune Afrique",
+      "title": "Mpox : le S\u00e9n\u00e9gal prend des mesures apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar",
+      "description": "Le minist\u00e8re de la Sant\u00e9 a \u00e9t\u00e9 inform\u00e9 vendredi de la confirmation d\u2019un cas de Mpox li\u00e9 \u00e0 \u00ab un ressortissant \u00e9tranger entr\u00e9 au S\u00e9n\u00e9gal le 19 ao\u00fbt \u00bb.",
+      "url": "https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.3561x0.0489/https://prod.cdn-medias.jeuneafrique.com/medias/2024/09/05/jad05092024-rdc-mpox-ue-danemark-vaccins.jpg",
+      "publishedAt": "2025-08-24 09:05:06",
+      "content": "Le S\u00e9n\u00e9gal a annonc\u00e9 samedi 23 ao\u00fbt avoir pris des mesures pour emp\u00eacher une propagation du Mpox apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar sur un \u00e9tranger, dans un contexte dune expansion de la maladie en Afrique\u2026 [+1645 chars]",
+      "retrievedAt": "2025-08-25 19:06:12.057472",
+      "internal_id": "6e60d581c2e5d1b40beb2a0b1a6677114ee1273503a3dbf84edd4b1ec991ea45",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24043,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Gefahr von Tropenkrankheiten: Tigerm\u00fccke breitet sich rasant nach Nordeuropa aus",
+      "description": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Klimawandel beschleunigt die besorgniserregende Ausbreitung.",
+      "url": "https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25984484/8571327988-cImg_16_9-w1200/537139976.jpg",
+      "publishedAt": "2025-08-24 08:48:09",
+      "content": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Kl\u2026 [+5659 chars]",
+      "retrievedAt": "2025-08-25 19:06:08.393939",
+      "internal_id": "258c86c50a1d0c9ab3a3cfa5c8a2bc29cf57a607cc3abb6ddb0671d29301d1fe",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Simone Humml",
+      "title": "Bringt der Klimawandel das Dengue-Fieber?: \u00dcbertragende M\u00fccken breiten sich nach Norden aus",
+      "description": "Die eingeschleppte Asiatische Tigerm\u00fccke erweitert ihr Verbreitungsgebiet in Europa nach Norden. Eine Studie zeigt, welche St\u00e4dte besonders gef\u00e4hrdet sind.",
+      "url": "https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14220230/alternates/BASE_16_9_W1400/1756024395000/asiatische-tigermucke.jpeg",
+      "publishedAt": "2025-08-24 08:44:43",
+      "content": "Die Asiatische Tigerm\u00fccke hat sich rasch in Europa ausgebreitet. 1979 wurde in Albanien die erste M\u00fccke auf dem Kontinent entdeckt. Inzwischen ist das aus S\u00fcdostasien stammende Insekt unter anderem i\u2026 [+5346 chars]",
+      "retrievedAt": "2025-08-25 19:06:08.456572",
+      "internal_id": "0fcdc278db5cb321433fea49c1de3947fdf0a2069d6840708b4816881094ea3f",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24041,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Kompasiana.com",
+      "author": "Iwan Berri Prima",
+      "title": "Pentingnya Pendekatan One Health Atasi Rabies di Indonesia",
+      "description": "Setidaknya terdapat tiga alasan mengapa kolaborasi One Health sangat penting dalam pengendalian rabies.",
+      "url": "https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia",
+      "urlToImage": "https://assets-a1.kompasiana.com/items/album/2025/08/24/screenshot-20250824-152104-gallery-68aacc57ed641519273c63c6.jpg?t=o&v=1200",
+      "publishedAt": "2025-08-24 08:34:40",
+      "content": "Kasus penyakit rabies di Indonesia tampaknya belum mendekati kata usai. Terbaru, Dinas Peternakan dan Kesehatan Hewan (PKH) Provinsi Riau, telah melakukan pemeriksaan terhadap anjing yang menggigit s\u2026 [+1595 chars]",
+      "retrievedAt": "2025-08-25 19:06:05.967515",
+      "internal_id": "a2bf7df82e8ce548c320a0e354d18435e3c7b95b1f26183197e0ec572cbbffb0",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24042,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Ingrid Karb",
+      "title": "Dengue, Malaria und Tollwut: Wenn Erreger mitreisen",
+      "description": "Was geschieht, wenn man nach einer Urlaubsreise pl\u00f6tzlich krank wird? Dann sollten \u00c4rzte genau hinsehen, was die Ursache f\u00fcr Hautausschl\u00e4ge, \u00adDurchf\u00e4lle oder Fieber ist. Schuld k\u00f6nnten \u00adeingeschleppte Bakterien und Viren sein \u2013 was fatale Folgen haben kann.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/w1200/aktuell/gesellschaft/4007554857/1.10650945/facebook_teaser/die-tigermuecke-breitet-sich.jpg.webp",
+      "publishedAt": "2025-08-24 08:09:55",
+      "content": "Nach den Sommerferien hat es die Tochter von Freunden andauernd gejuckt. St\u00e4ndig musste sie sich kratzen, an Armen und Beinen entstand ein Hautausschlag. Der Kinderarzt ging zun\u00e4chst von einer beginn\u2026 [+276 chars]",
+      "retrievedAt": "2025-08-25 19:06:08.361795",
+      "internal_id": "59914616e5fd5d6bc91b949c20ca178de45bd2871ac1e008b7b89d133392ef63",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 24047,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Kevin Kirmizigul",
+      "title": "Ne pa\u0219te un nou pericol epidemic global. OMS: virusul periculos transmis de \u021b\u00e2n\u021bari se r\u0103sp\u00e2nde\u0219te \u00een Europa",
+      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii avertizeaz\u0103 asupra unei poten\u021biale epidemii globale, pe m\u0103sur\u0103 ce virusul chikungunya se r\u0103sp\u00e2nde\u0219te \u00een afara ariei sale obi\u0219nuite, inclusiv \u00een Europa. Virusul, transmis de \u021b\u00e2n\u021bari, poate provoca febr\u0103 \u0219i dureri articulare sev\u2026",
+      "url": "https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-a/a5e00aa5-df61-4540-9693-7a1547178868/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-08-24 07:54:51",
+      "content": "Organizaia Mondial a Sntii avertizeaz asupra unei poteniale epidemii globale, pe msur ce virusul chikungunya se rsp\u00e2ndete \u00een afara ariei sale obinuite, inclusiv \u00een Europa. Virusul, transmis de \u00e2nari,\u2026 [+3191 chars]",
+      "retrievedAt": "2025-08-25 19:06:11.277504",
+      "internal_id": "c76b19fcf48831b91f59cf8af13aecd0ba38680ce72f38b2c003001f6a27048f",
       "publishedAtLabel": "Aug 24"
     }
   ]
