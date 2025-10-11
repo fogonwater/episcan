@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-10-11 07:06
-- **Most recent article:** 2025-10-10 06:19:55
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-10-11 19:05
+- **Most recent article:** 2025-10-10 15:45:42
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 32 | 45 | 39 | 54 | 34 | 31 | 20 | 255 |
-| chikungunya | 52 | 18 | 18 | 38 | 23 | 25 | 8 | 182 |
-| dengue | 39 | 16 | 24 | 26 | 18 | 32 | 18 | 173 |
-| malaria | 13 | 13 | 18 | 10 | 15 | 10 | 14 | 93 |
-| mpox | 6 | 58 | 7 | 5 | 8 | 1 | 7 | 92 |
-| rabies | 5 | 9 | 5 | 14 | 18 | 10 | 3 | 64 |
-| h5n1 | 5 | 20 | 6 | 9 | 5 | 10 | 7 | 62 |
+| measles | 32 | 45 | 39 | 54 | 34 | 31 | 21 | 256 |
+| chikungunya | 49 | 18 | 18 | 38 | 23 | 25 | 9 | 180 |
+| dengue | 35 | 16 | 24 | 26 | 18 | 32 | 20 | 171 |
+| malaria | 12 | 13 | 18 | 10 | 15 | 10 | 19 | 97 |
+| mpox | 5 | 58 | 7 | 5 | 8 | 1 | 10 | 94 |
+| rabies | 4 | 9 | 5 | 14 | 18 | 10 | 5 | 65 |
+| h5n1 | 5 | 20 | 6 | 9 | 5 | 10 | 8 | 63 |
 | meningitis | 16 | 5 | 6 | 6 | 3 | 7 | 5 | 48 |
-| zika | 8 | 4 | 6 | 6 | 6 | 5 | 5 | 40 |
+| zika | 8 | 4 | 6 | 6 | 6 | 5 | 6 | 41 |
 | yersinia | 12 | 3 | 4 | 0 | 1 | 0 | 0 | 20 |
 | typhoid | 0 | 2 | 4 | 1 | 3 | 0 | 4 | 14 |
 | hpai | 1 | 1 | 4 | 1 | 1 | 2 | 1 | 11 |
 | leptospirosis | 0 | 2 | 1 | 0 | 2 | 5 | 1 | 11 |
-| pertussis | 1 | 3 | 0 | 2 | 0 | 1 | 1 | 8 |
+| pertussis | 1 | 3 | 0 | 2 | 0 | 1 | 2 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-41 (zika)
+
+- [Evaluating urban community knowledge, attitudes, and preventive actions (KAP) using the health belief model: Insights from an ideation-informed interpretation of recurrent dengue outbreaks in Selangor, Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013545) (Plos.org)
 
 - [First evidence in the UK of breeding aegypti mosquito – the main spreader of dengue, chikungunya and Zika](https://theconversation.com/first-evidence-in-the-uk-of-breeding-aegypti-mosquito-the-main-spreader-of-dengue-chikungunya-and-zika-266767) (The Conversation Africa)
 
@@ -56,6 +58,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (rabies)
 
+- [Person bitten by rabid bat in Southeast Michigan, health officials say](https://www.clickondetroit.com/news/local/2025/10/10/person-bitten-by-rabid-bat-in-southeast-michigan/) (WDIV ClickOnDetroit)
+
+- [Kathmandu Metropolitan City to sterilize dogs and cats](https://english.khabarhub.com/2025/10/500803/) (Khabarhub.com)
+
 - [Barriers to rabies control through mass dog vaccination in rural Uganda: Insights from community perspectives and key informant interviews](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013578) (Plos.org)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
@@ -64,9 +70,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (pertussis)
 
+- [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
+
 - [Families grappling with rare vaccine injuries fight for compensation](https://www.cbsnews.com/news/vaccine-court-compensation-60-minutes/) (CBS News)
 
 ## 25-41 (mpox)
+
+- [Madrid detecta el primer caso autóctono de la variante de mpox que activó la emergencia en 2024](https://www.eldiario.es/sociedad/madrid-detecta-primer-caso-autoctono-variante-mpox-activo-emergencia-2024_1_12674706.html) (Eldiario.es)
+
+- [Madrid detecta el primer caso autóctono de la variante más grave de la viruela del mono](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/10/10/madrid-detecta-primer-autoctono-variante-grave-viruela-mono/00031760109107910133820.htm) (Lavozdegalicia.es)
+
+- [Madrid detecta el primer caso de infección por viruela del mono de tipo clado 1b por transmisión autóctona](https://www.elespanol.com/madrid/comunidad/20251010/madrid-detecta-primer-caso-infeccion-viruela-mono-tipo-clado-transmision-autoctona/1003743964442_0.html) (Elespanol.com)
 
 - [Mehr als in den Vorjahren: Mpox-Fälle in Berlin steigen deutlich](https://www.morgenpost.de/berlin/article410193313/mehr-als-in-den-vorjahren-mpox-faelle-in-berlin-steigen-deutlich.html) (Berliner Morgenpost)
 
@@ -95,6 +109,8 @@ Source: [News API](https://newsapi.org/)
 - ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
+
+- [Measles outbreaks across the US continue to add to record case count | CNN](https://www.cnn.com/2025/10/10/health/measles-outbreaks-utah-arizona-south-carolina) (CNN)
 
 - [Unvaccinated toddler from Jerusalem dies of measles](https://www.israelnationalnews.com/flashes/668035) (Israelnationalnews.com)
 
@@ -138,6 +154,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (malaria)
 
+- [Detection of dengue, malaria, and additional causes of acute febrile illness: The need for expanded testing, Bayelsa State, Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013060) (Plos.org)
+
+- [Evaluating urban community knowledge, attitudes, and preventive actions (KAP) using the health belief model: Insights from an ideation-informed interpretation of recurrent dengue outbreaks in Selangor, Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013545) (Plos.org)
+
+- [Epidemiology of ovale, vivax and falciparum malaria in the highlands of Cameroon: An integrated community survey of human infection and vector abundance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013549) (Plos.org)
+
+- [G6PD deficiency in Malaysia’s Proto-Malay Orang Asli indigenous population: A molecular and epidemiological study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334185) (Plos.org)
+
+- [Deutschland kürzt Mittel in der Entwicklungshilfe: „Es droht ein Dominoeffekt, der für Millionen von Menschen tödlich enden könnte.“](https://www.tagesspiegel.de/wissen/deutschland-kurzt-mittel-in-der-entwicklungshilfe-es-droht-ein-dominoeffekt-der-fur-millionen-von-menschen-todlich-enden-konnte-14519831.html) (Der Tagesspiegel)
+
 - [Modeling the threat of pfhrp2/3 gene deletions for malaria diagnosis](https://www.nature.com/articles/s41591-025-03985-0) (Nature.com)
 
 - [Global Health Faces Accelerating Science And Shrinking Budgets](https://www.forbes.com/sites/jenniferlotito/2025/10/09/global-health-faces-accelerating-science-and-shrinking-budgets/) (Forbes)
@@ -176,6 +202,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (h5n1)
 
+- [BREAKING: Bird Flu Mass Culling Resumes After Summer Pause — 4 Million Birds Exterminated in Past Month](https://www.thefocalpoints.com/p/breaking-bird-flu-mass-culling-resumes) (Thefocalpoints.com)
+
 - [H5N1 influenza virus stability and transmission risk in raw milk and cheese](https://www.nature.com/articles/s41591-025-04010-0) (Nature.com)
 
 - [Victims, Not Vectors — CFIA's Ostrich Cull Misses the Real Source of H5N1 Risk](https://articles.mercola.com/sites/articles/archive/2025/10/08/avian-flu-ostrich-cull.aspx) (Mercola.com)
@@ -191,6 +219,10 @@ Source: [News API](https://newsapi.org/)
 - [Někdejší zabiják H5N1 slábne. Proč americká ptačí chřipka nekosí nakažené po tisících](https://vtm.zive.cz/clanky/nekdejsi-zabijak-h5n1-slabne-proc-americka-ptaci-chripka-nekosi-nakazene-po-tisicich/sc-870-a-237336/default.aspx) (Zive.cz)
 
 ## 25-41 (dengue)
+
+- [Detection of dengue, malaria, and additional causes of acute febrile illness: The need for expanded testing, Bayelsa State, Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013060) (Plos.org)
+
+- [Evaluating urban community knowledge, attitudes, and preventive actions (KAP) using the health belief model: Insights from an ideation-informed interpretation of recurrent dengue outbreaks in Selangor, Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013545) (Plos.org)
 
 - [Coahuila reporta 190 casos de dengue y cuatro muertes](https://www.excelsior.com.mx/nacional/coahuila-reporta-190-casos-de-dengue-y-cuatro-muertes/1744853) (Excelsior.com.mx)
 
@@ -229,6 +261,8 @@ Source: [News API](https://newsapi.org/)
 - [Brasil ganha segunda fábrica de mosquitos para combater dengue](https://olhardigital.com.br/2025/10/05/medicina-e-saude/brasil-ganha-segunda-fabrica-de-mosquitos-para-combater-dengue/) (Olhardigital.com.br)
 
 ## 25-41 (chikungunya)
+
+- [Thousands fall ill as mosquito fever explodes across southern China](https://www.sciencedaily.com/releases/2025/10/251009033244.htm) (Science Daily)
 
 - [First evidence in the UK of breeding aegypti mosquito – the main spreader of dengue, chikungunya and Zika](https://theconversation.com/first-evidence-in-the-uk-of-breeding-aegypti-mosquito-the-main-spreader-of-dengue-chikungunya-and-zika-266767) (The Conversation Africa)
 
@@ -2006,8 +2040,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dogs bite men (and a little girl).](https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/) (Crookedtimber.org)
 
-- [Pentingnya Pendekatan One Health Atasi Rabies di Indonesia](https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia) (Kompasiana.com)
-
 ## 25-35 (pertussis)
 
 - [Προειδοποίηση ΠΟΥ: Εμβολιάστε τα παιδιά για τον κοκκύτη– Ανθεκτικό στέλεχος εξαπλώνεται στις ΗΠΑ](https://www.newsit.gr/kosmos/proeidopoiisi-pou-emvoliaste-ta-paidia-gia-ton-kokkyti-anthektiko-stelexos-eksaplonetai-stis-ipa/4460715/) (Newsit.gr)
@@ -2023,8 +2055,6 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique regista 66 casos e 810 suspeitos de mpox](https://observador.pt/2025/08/27/numero-de-casos-de-mpox-em-mocambique-sobe-para-66-e-suspeitos-para-810/) (Observador.pt)
 
 - [⚠️ First Mpox Case in Senegal: Health Alert](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcji7XAbSq2Y) (YouTube)
-
-- [Mpox : le Sénégal prend des mesures après un cas détecté à Dakar](https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/) (Jeune Afrique)
 
 ## 25-35 (meningitis)
 
@@ -2152,8 +2182,6 @@ Source: [News API](https://newsapi.org/)
 
 - [13-year-old in serious condition: bitten by bug on family trip and contracted malaria](https://www.israelnationalnews.com/news/413813) (Israelnationalnews.com)
 
-- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
-
 ## 25-35 (hpai)
 
 - [Bird Flu Outbreak In Bulgaria](https://www.shtfplan.com/headline-news/bird-flu-outbreak-in-bulgaria) (Shtfplan.com)
@@ -2241,14 +2269,6 @@ Source: [News API](https://newsapi.org/)
 - [La inteligencia artificial se convierte en arma clave contra el dengue: diagnóstico veloz y predicción de brotes](https://es.gizmodo.com/la-inteligencia-artificial-se-convierte-en-arma-clave-contra-el-dengue-diagnostico-veloz-y-prediccion-de-brotes-2000187924) (Gizmodo.com)
 
 - [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
-
-- [Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten](https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa) (Bild)
-
-- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
-
-- [Bringt der Klimawandel das Dengue-Fieber?: Übertragende Mücken breiten sich nach Norden aus](https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html) (Der Tagesspiegel)
-
-- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
 
 ## 25-35 (chikungunya)
 
@@ -2349,9 +2369,3 @@ Source: [News API](https://newsapi.org/)
 - [Doenças transmitidas por mosquitos batem recorde na Europa](https://www.metropoles.com/saude/doencas-de-mosquitos-na-europa) (Metropoles.com)
 
 - [Chikungunya : 154 cas recensés depuis le début de l’été en métropole](https://www.franceinfo.fr/replay-jt/france-2/20-heures/chikungunya-154-cas-recenses-depuis-le-debut-de-l-ete-en-metropole_7452547.html) (Franceinfo.fr)
-
-- [Hong Kong enfrenta uma enorme crise de saúde pública devido ao vírus chikungunya; o remédio é um exército de cães-robôs](https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html) (Terra.com.br)
-
-- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
-
-- [Ne paște un nou pericol epidemic global. OMS: virusul periculos transmis de țânțari se răspândește în Europa](https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html) (Adevarul.ro)

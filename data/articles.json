@@ -1,8 +1,263 @@
 {
-  "last_updated": "2025-10-11 07:06",
-  "count_articles_total": 978,
-  "count_articles_new": 11,
+  "last_updated": "2025-10-11 19:05",
+  "count_articles_total": 984,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 25030,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Efe / elDiario.es",
+      "title": "Madrid detecta el primer caso aut\u00f3ctono de la variante de mpox que activ\u00f3 la emergencia en 2024",
+      "description": "El Ministerio de Sanidad asegura que el clado 1b, inicialmente considerado m\u00e1s grave, \"no supone una mayor tasa de complicaciones\" tras la confirmaci\u00f3n del diagn\u00f3stico en un hombre de 49 a\u00f1os con s\u00edntomas que evoluciona favorablemente \u00bfPor qu\u00e9 la viruela del\u2026",
+      "url": "https://www.eldiario.es/sociedad/madrid-detecta-primer-caso-autoctono-variante-mpox-activo-emergencia-2024_1_12674706.html",
+      "urlToImage": "https://static.eldiario.es/clip/5003ea3a-17d3-474b-80cf-bb7cf06db17f_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-10-10 15:45:42",
+      "content": "La Comunidad de Madrid ha detectado el primer caso de infecci\u00f3n por viruela del mono (mpox) de la variante clado 1b por transmisi\u00f3n aut\u00f3ctona, seg\u00fan ha confirmado este viernes la Direcci\u00f3n General de\u2026 [+2310 chars]",
+      "retrievedAt": "2025-10-11 19:05:44.184574",
+      "internal_id": "a9bb0e024f3d23ef1ea871b8972c0f954bce7244f8184769ca0a12bb08bd9f3d",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25031,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz de la Salud",
+      "title": "Madrid detecta el primer caso aut\u00f3ctono de la variante m\u00e1s grave de la viruela del mono",
+      "description": "La enfermedad comienza con s\u00edntomas similares a los de la gripe y lesiones en la mucosa oral y en la piel",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/10/10/madrid-detecta-primer-autoctono-variante-grave-viruela-mono/00031760109107910133820.htm",
+      "urlToImage": "https://img.lavdg.com/sc/0XdTi0lboXiC11exNML0LjIH_K0=/1280x/2024/08/15/00121723746241441240178/Foto/reu_20240726_062627033.jpg",
+      "publishedAt": "2025-10-10 15:24:00",
+      "content": "La Comunidad de Madrid detect\u00f3 el primer caso de infecci\u00f3n por viruela del mono (mpox) de la variante clado 1b por transmisi\u00f3n aut\u00f3ctona, seg\u00fan ha confirmado la Direcci\u00f3n General de Salud P\u00fablica. S\u2026 [+4140 chars]",
+      "retrievedAt": "2025-10-11 19:05:44.225689",
+      "internal_id": "ca580c58d98542c0854c1781ba9388df9ef06e2758bf0adc6fe677c2e57023d0",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25020,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Sara Powers",
+      "title": "Person bitten by rabid bat in Southeast Michigan, health officials say",
+      "description": "Person bitten by rabid bat in Southeast Michigan, health officials sayclickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/local/2025/10/10/person-bitten-by-rabid-bat-in-southeast-michigan/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ZHPA234H3JCTFLYPKLS2DVTWKI.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-10-10 14:45:15",
+      "content": "ST. CLAIR COUNTY, Mich. A bat in Southeast Michigan has tested positive for rabies, and one person was bitten by it, health officials announced. State health officials notified the St. Clair County\u2026 [+1979 chars]",
+      "retrievedAt": "2025-10-11 19:05:41.633267",
+      "internal_id": "5736b2a231ad0e9621b36d9e3cc00c581e41ac05694a61429027964bbe9a60e2",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25032,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Diego Gonz\u00e1lez | Agencias",
+      "title": "Madrid detecta el primer caso de infecci\u00f3n por viruela del mono de tipo clado 1b por transmisi\u00f3n aut\u00f3ctona",
+      "description": "El hombre, de 49 a\u00f1os, est\u00e1 aislado en su domicilio. Ha tenido relaciones sexuales con gente de la regi\u00f3n y se investiga sus contactos. M\u00e1s informaci\u00f3n. Madrid pide al Gobierno m\u00e1s controles en Barajas frente a la viruela del mono (mpox) mientras sigue vacuna\u2026",
+      "url": "https://www.elespanol.com/madrid/comunidad/20251010/madrid-detecta-primer-caso-infeccion-viruela-mono-tipo-clado-transmision-autoctona/1003743964442_0.html",
+      "urlToImage": "https://s2.elespanol.com/2023/08/03/ciencia/salud/783932390_235151415_1706x960.jpg?fmt=jpeg",
+      "publishedAt": "2025-10-10 14:12:18",
+      "content": "La Direcci\u00f3n General de Salud P\u00fablica de la Comunidad de Madrid ha detectado el primer caso de infecci\u00f3n por 'monkeypox' o viruela del mono de la variante clado 1b por transmisi\u00f3n aut\u00f3ctona en la reg\u2026 [+1548 chars]",
+      "retrievedAt": "2025-10-11 19:05:44.251147",
+      "internal_id": "015f0341f6cce289e340fb0c77f03980a9126cb76ba014d20e8b465e4f9e7c43",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25024,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dayo Olufemi Akanbi, Bio Belu Abaye, Francisco Averhoff, Michael G. Berg, Gregory S. Orf, Kabiru M. Lawan, Geoff A. Beckett, Ayotunde Bolatito Omotoso, Maximillian Mata, Gavin A. Cloherty, Lucious Chabuka, Tulio de Oliveira, Kenneth W. Mac-Fisi, Azibadighi Walter, Inara Isaac Mark, George Edeki, Abdoulaye Sinayoko, Muazzam Nasrullah, Binafeigha Ihekerenma Justina, Muhammad Shakir Balogun",
+      "title": "Detection of dengue, malaria, and additional causes of acute febrile illness: The need for expanded testing, Bayelsa State, Nigeria",
+      "description": "Author summary In Bayelsa State, Nigeria, dengue virus (DENV) had never been confirmed as a cause of illness before now. We wanted to find out how many people with fever were infected with dengue, malaria, or both at the same time. To do this, we studied peop\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013060",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013060.g002&size=inline",
+      "publishedAt": "2025-10-10 14:00:00",
+      "content": "Abstract Dengue virus (DENV) infection has not been previously reported from Bayelsa State, Nigeria. We aimed to determine the prevalence of dengue virus (DENV) infection, malaria, and coinfection, \u2026 [+29565 chars]",
+      "retrievedAt": "2025-10-11 19:05:42.829024",
+      "internal_id": "89d8711ecee72545ddec0d5c08caaf217f48c2063db2645575a59959adc5b907",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25025,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nurul Adilah Samsudin, Zul-\u2018Izzat Ikhwan Zaini, Ching Sin Siau, Hidayatulfathi Othman",
+      "title": "Evaluating urban community knowledge, attitudes, and preventive actions (KAP) using the health belief model: Insights from an ideation-informed interpretation of recurrent dengue outbreaks in Selangor, Malaysia",
+      "description": "Author summary Dengue fever remains a major public health concern in Malaysia, particularly in urbanized states like Selangor, which continue to experience recurrent outbreaks despite ongoing government-led control efforts. This study explores how urban commu\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013545",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013545.g002&size=inline",
+      "publishedAt": "2025-10-10 14:00:00",
+      "content": "1. Introduction Aedes mosquito-borne diseases have been a persistent threat to humans worldwide [1]. These diseases include malaria, dengue fever, and Zika virus and have caused much suffering and d\u2026 [+38207 chars]",
+      "retrievedAt": "2025-10-11 19:05:42.846774",
+      "internal_id": "defc51c464f4f9c644e5ea96754f2510ca9fdd3c8d99adf30af9291b595bb874",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25027,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Samuel J. White, Valery P. K. Tchuenkam, Mariama Mbouh, Claudia Gaither, Aline Gaelle Bouopda-Tuedom, Belinda Claire Kiam, Zachary R. Popkin-Hall, Jacob M. Sadler, Kelly Carey-Ewend, Emily Hand, Miriam N. Ngum, Yannick N. Ngomsi, Jeffrey A. Bailey, Darlin B. Kaunda, Lethicia K. Mafo, Giresse N. Lemogo, Clifford L. Dinka, Clifford A. Nsani, Michel Noubom, Varun Goel, Ibrahima Ibrahima, Janvier C. Onguene, Feng-Chang Lin, Jessica T. Lin, Sandrine E. Nsango, Rhoel R. Dinglasan, Jonathan J. Juliano, Innocent M. Ali",
+      "title": "Epidemiology of ovale, vivax and falciparum malaria in the highlands of Cameroon: An integrated community survey of human infection and vector abundance",
+      "description": "Author summary Malaria caused 263 million cases and 597,000 deaths in 2023, with most cases in Africa due to Plasmodium falciparum. However, the dangers of other species like P. ovale and P. vivax, which can cause relapsing infections, are becoming more clear\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013549",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013549.g005&size=inline",
+      "publishedAt": "2025-10-10 14:00:00",
+      "content": "Abstract Despite global malaria control efforts, the disease caused 263 million cases and 597,000 deaths in 2023. While Plasmodium falciparum accounts for most cases in Africa, non-falciparum specie\u2026 [+56952 chars]",
+      "retrievedAt": "2025-10-11 19:05:43.353157",
+      "internal_id": "6c684553dda3d65eeac2e1b2b82310b04019ea8af4573bb59502859eab7ceeb7",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25028,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mohamed Afiq Hidayat Zailani, Raja Zahratul Azma Raja Sabudin, Muhammad-Redha Abdullah-Zawawi, Azlin Ithnin, Hafiza Alauddin, Siti Aishah Sulaiman, Najiah Ajlaa Ayub, Rinie Awai@Albert, Muhammad Dinie Afif Jamaludin, Muhammad Ziqrill Mohd Zapri, Ainoon Othman",
+      "title": "G6PD deficiency in Malaysia\u2019s Proto-Malay Orang Asli indigenous population: A molecular and epidemiological study",
+      "description": "Glucose-6-phosphate dehydrogenase deficiency (G6PDd) is one of the most common genetic disorders worldwide and remains highly prevalent in malaria-endemic regions. Individuals with G6PDd are at risk of severe complications, including acute haemolytic anaemia,\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334185",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0334185.g003&size=inline",
+      "publishedAt": "2025-10-10 14:00:00",
+      "content": "Abstract Glucose-6-phosphate dehydrogenase deficiency (G6PDd) is one of the most common genetic disorders worldwide and remains highly prevalent in malaria-endemic regions. Individuals with G6PDd ar\u2026 [+36876 chars]",
+      "retrievedAt": "2025-10-11 19:05:43.378837",
+      "internal_id": "e976a7b41c9652957e9595bfb52a3614cbbaaf866a38562a878842ce4a07dddc",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25022,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips",
+      "title": "Measles outbreaks across the US continue to add to record case count | CNN",
+      "description": "A deadly measles outbreak in Texas ended in August, but outbreaks in other parts of the United States continue to add hundreds of new measles cases to this year\u2019s record national total.",
+      "url": "https://www.cnn.com/2025/10/10/health/measles-outbreaks-utah-arizona-south-carolina",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1139499595-20251009215741695.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-10 13:12:27",
+      "content": "A deadly measles outbreak in Texas ended in August, but outbreaks in other parts of the United States continue to add hundreds of new measles cases to this years record national total. There have be\u2026 [+8780 chars]",
+      "retrievedAt": "2025-10-11 19:05:41.918863",
+      "internal_id": "5d76d4ced792e80ab0c8b41edb957109477170648ad6b283ff74ece37caebefb",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25029,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Thousands fall ill as mosquito fever explodes across southern China",
+      "description": "China\u2019s Guangdong Province is battling its worst-ever chikungunya outbreak, with thousands of infections spreading across major cities and nearby regions. Transmitted by Aedes mosquitoes, the disease underscores how climate change, urbanization, and global tr\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251009033244.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/mosquito-biting-human-skin.webp",
+      "publishedAt": "2025-10-10 13:05:26",
+      "content": "A recent editorial in Biocontaminant reveals that Guangdong Province is now facing the largest chikungunya fever outbreak ever documented in China, with more than 4,000 confirmed infections reported \u2026 [+3494 chars]",
+      "retrievedAt": "2025-10-11 19:05:44.020307",
+      "internal_id": "91570bf78b074d597c335c2bbf2393d0024e93fd1832192532f5bea688dd4386",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25026,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Gunnar G\u00f6pel",
+      "title": "Deutschland k\u00fcrzt Mittel in der Entwicklungshilfe: \u201eEs droht ein Dominoeffekt, der f\u00fcr Millionen von Menschen t\u00f6dlich enden k\u00f6nnte.\u201c",
+      "description": "Neue Priorit\u00e4ten f\u00fchren dazu, dass Mittel im Kampf gegen Malaria und Aids gek\u00fcrzt werden. Dabei zeigt eine Analyse, dass deutsche Beitr\u00e4ge Auftr\u00e4ge f\u00fcr heimische Unternehmen schaffen.",
+      "url": "https://www.tagesspiegel.de/wissen/deutschland-kurzt-mittel-in-der-entwicklungshilfe-es-droht-ein-dominoeffekt-der-fur-millionen-von-menschen-todlich-enden-konnte-14519831.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14532197/alternates/BASE_16_9_W1400/1760099336000/220425-soa-cameroon-april-25-2022-a-baby-receives-the-intermittent-preventive-treatment-of-malaria-in-infant.jpeg",
+      "publishedAt": "2025-10-10 12:51:29",
+      "content": "Deutsche Investitionen in die Verbesserung der globalen Gesundheitsversorgung lohnen sich, denn sie kommen zum Teil wieder der heimischen Wirtschaft zugute. Diese Argumentation vertritt die Entwicklu\u2026 [+6664 chars]",
+      "retrievedAt": "2025-10-11 19:05:43.310682",
+      "internal_id": "950b30fdcf40a2c49847b5a63b3188d61c50b813501bdc3aa757cf6cdb4629bc",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25021,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Kathmandu Metropolitan City to sterilize dogs and cats",
+      "description": "KATHMANDU: Kathmandu Metropolitan City (KMC) is set to carry out a sterilization campaign for community dogs and cats within the city during the fiscal year 2025/26. The city has invited applications from organizations interested in providing rabies vaccinati\u2026",
+      "url": "https://english.khabarhub.com/2025/10/500803/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/02/KMC.jpg",
+      "publishedAt": "2025-10-10 12:45:28",
+      "content": "KATHMANDU: Kathmandu Metropolitan City (KMC) is set to carry out a sterilization campaign for community dogs and cats within the city during the fiscal year 2025/26. The city has invited application\u2026 [+1388 chars]",
+      "retrievedAt": "2025-10-11 19:05:41.642961",
+      "internal_id": "6348be058c09a32ba6295db39e8449acd523bc2cbe3c2902185e60a37e3be90a",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25023,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thefocalpoints.com",
+      "author": "Nicolas Hulscher",
+      "title": "BREAKING: Bird Flu Mass Culling Resumes After Summer Pause \u2014 4 Million Birds Exterminated in Past Month",
+      "description": "\u2026 The post BREAKING: Bird Flu Mass Culling Resumes After Summer Pause \u2014 4 Million Birds Exterminated in Past Month appeared first on Global Research.",
+      "url": "https://www.thefocalpoints.com/p/breaking-bird-flu-mass-culling-resumes",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!BzvN!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F146581be-8e2a-4f2e-bdc6-e6dc189196e3_1304x1162.png",
+      "publishedAt": "2025-10-10 08:48:13",
+      "content": "by Nicolas Hulscher, MPH During the summer, mass culling of poultry for H5N1 bird flu came to a complete halt after over 44 million birds were recklessly exterminated from January to May 2025: Earl\u2026 [+1651 chars]",
+      "retrievedAt": "2025-10-11 19:05:42.415744",
+      "internal_id": "619aa55bab3bd0d931b8a8ce6452d499e8d07e5d87950ef63389fb64478dde22",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 25019,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "Katar\u00edna Ondrejovi\u010dov\u00e1",
+      "title": "Odborn\u00edci bij\u00fa na poplach, \u010dierny ka\u0161e\u013e ohrozuje najm\u00e4 b\u00e1b\u00e4tk\u00e1. Rie\u0161en\u00edm je o\u010dkovanie po\u010das tehotenstva",
+      "description": "\u010cierny ka\u0161e\u013e m\u00f4\u017ee by\u0165 pre doj\u010dat\u00e1 smrte\u013en\u00fd, varuj\u00fa odborn\u00edci. Tehotn\u00e9 \u017eeny by preto nemali podceni\u0165 preo\u010dkovanie.",
+      "url": "https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/",
+      "urlToImage": "http://ipravda.sk/res/2014/09/29/thumbs/dieta-mlieko-dojca-clanokW.jpg",
+      "publishedAt": "2025-10-10 08:00:00",
+      "content": "ierny kae m\u00f4e by pre dojat\u00e1 smrten\u00fd, varuj\u00fa odborn\u00edci. Tehotn\u00e9 eny by preto nemali podceni preokovanie.ierny kae (odborne pertussis) je vysoko n\u00e1kazliv\u00e9 bakteri\u00e1lne ochorenie d\u00fdchac\u00edch ciest sp\u00f4soben\u2026 [+2380 chars]",
+      "retrievedAt": "2025-10-11 19:05:41.302525",
+      "internal_id": "342f1ba66f9f7681c49d4171c460b0ea5f72c440e75bf8cd18999e97d857cf85",
+      "publishedAtLabel": "Oct 10"
+    },
     {
       "id": 25016,
       "query": [
@@ -17554,152 +17809,6 @@
       "content": "La France m\u00e9tropolitaine bat des records de cas de chikungunya. En cause, la prolif\u00e9ration de moustiques tigres d\u00e9sormais pr\u00e9sents dans plus de 80 % des d\u00e9partements. Ce texte correspond \u00e0 une parti\u2026 [+1845 chars]",
       "retrievedAt": "2025-08-26 07:07:45.535774",
       "internal_id": "62979de46c3e3ffa0aa022d37e1f8add4d7dd06e7e737b5416153c83aecdfcfb",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24044,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Sandra Simonsen",
-      "title": "Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten",
-      "description": "Pl\u00f6tzliche Krankheit nach Urlaub? Tropenfieber und Parasiten k\u00f6nnten schuld sein. Symptome erkennen und vorbeugen.",
-      "url": "https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa",
-      "urlToImage": "https://images.bild.de/681c71e83332b5649f8b50aa/f666faafc729a57f660de9f1af5427bf,e8f13727?w=1280",
-      "publishedAt": "2025-08-24 14:47:05",
-      "content": "Sommer, Sonne, Strand - doch zur\u00fcck zu Hause pl\u00f6tzlich krank? Tropenkrankheiten und Parasiten k\u00f6nnen der Grund sein. Von Dengue-Fieber bis Am\u00f6benruhr: Erfahren Sie mit BILDplus, welche Symptome Sie e\u2026 [+52 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.425017",
-      "internal_id": "5092ecd80b5e9c07d2eefac133812ea14416f2e3f8aeaed3b7dae166fb709ea1",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24046,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Xataka",
-      "title": "Hong Kong enfrenta uma enorme crise de sa\u00fade p\u00fablica devido ao v\u00edrus chikungunya; o rem\u00e9dio \u00e9 um ex\u00e9rcito de c\u00e3es-rob\u00f4s",
-      "description": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido ...",
-      "url": "https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/08/24/1330988472-13662000.jpeg",
-      "publishedAt": "2025-08-24 10:12:24",
-      "content": "Hong Kong est\u00e1 se preparando para combater o aumento de casos do v\u00edrus Chikungunya, transmitido por mosquitos, com uma estrat\u00e9gia sa\u00edda diretamente de Black Mirror: c\u00e3es-rob\u00f4s. As autoridades j\u00e1 plan\u2026 [+1846 chars]",
-      "retrievedAt": "2025-08-25 19:06:11.252975",
-      "internal_id": "941e5e44e7c1d1509a62128866d96a0e6dc128b6bc93e713a93eb406d3fce026",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24048,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "Jeune Afrique",
-      "title": "Mpox : le S\u00e9n\u00e9gal prend des mesures apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar",
-      "description": "Le minist\u00e8re de la Sant\u00e9 a \u00e9t\u00e9 inform\u00e9 vendredi de la confirmation d\u2019un cas de Mpox li\u00e9 \u00e0 \u00ab un ressortissant \u00e9tranger entr\u00e9 au S\u00e9n\u00e9gal le 19 ao\u00fbt \u00bb.",
-      "url": "https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.3561x0.0489/https://prod.cdn-medias.jeuneafrique.com/medias/2024/09/05/jad05092024-rdc-mpox-ue-danemark-vaccins.jpg",
-      "publishedAt": "2025-08-24 09:05:06",
-      "content": "Le S\u00e9n\u00e9gal a annonc\u00e9 samedi 23 ao\u00fbt avoir pris des mesures pour emp\u00eacher une propagation du Mpox apr\u00e8s un cas d\u00e9tect\u00e9 \u00e0 Dakar sur un \u00e9tranger, dans un contexte dune expansion de la maladie en Afrique\u2026 [+1645 chars]",
-      "retrievedAt": "2025-08-25 19:06:12.057472",
-      "internal_id": "6e60d581c2e5d1b40beb2a0b1a6677114ee1273503a3dbf84edd4b1ec991ea45",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24043,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Gefahr von Tropenkrankheiten: Tigerm\u00fccke breitet sich rasant nach Nordeuropa aus",
-      "description": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Klimawandel beschleunigt die besorgniserregende Ausbreitung.",
-      "url": "https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25984484/8571327988-cImg_16_9-w1200/537139976.jpg",
-      "publishedAt": "2025-08-24 08:48:09",
-      "content": "Die Asiatische Tigerm\u00fccke gelangt in Europa immer weiter nach Norden. Gef\u00e4hrliche Viren wie Dengue oder Chikungunya k\u00f6nnten laut einer neuen Studie bald auch Deutschland und England erreichen. Der Kl\u2026 [+5659 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.393939",
-      "internal_id": "258c86c50a1d0c9ab3a3cfa5c8a2bc29cf57a607cc3abb6ddb0671d29301d1fe",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24045,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Bringt der Klimawandel das Dengue-Fieber?: \u00dcbertragende M\u00fccken breiten sich nach Norden aus",
-      "description": "Die eingeschleppte Asiatische Tigerm\u00fccke erweitert ihr Verbreitungsgebiet in Europa nach Norden. Eine Studie zeigt, welche St\u00e4dte besonders gef\u00e4hrdet sind.",
-      "url": "https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14220230/alternates/BASE_16_9_W1400/1756024395000/asiatische-tigermucke.jpeg",
-      "publishedAt": "2025-08-24 08:44:43",
-      "content": "Die Asiatische Tigerm\u00fccke hat sich rasch in Europa ausgebreitet. 1979 wurde in Albanien die erste M\u00fccke auf dem Kontinent entdeckt. Inzwischen ist das aus S\u00fcdostasien stammende Insekt unter anderem i\u2026 [+5346 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.456572",
-      "internal_id": "0fcdc278db5cb321433fea49c1de3947fdf0a2069d6840708b4816881094ea3f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24041,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kompasiana.com",
-      "author": "Iwan Berri Prima",
-      "title": "Pentingnya Pendekatan One Health Atasi Rabies di Indonesia",
-      "description": "Setidaknya terdapat tiga alasan mengapa kolaborasi One Health sangat penting dalam pengendalian rabies.",
-      "url": "https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia",
-      "urlToImage": "https://assets-a1.kompasiana.com/items/album/2025/08/24/screenshot-20250824-152104-gallery-68aacc57ed641519273c63c6.jpg?t=o&v=1200",
-      "publishedAt": "2025-08-24 08:34:40",
-      "content": "Kasus penyakit rabies di Indonesia tampaknya belum mendekati kata usai. Terbaru, Dinas Peternakan dan Kesehatan Hewan (PKH) Provinsi Riau, telah melakukan pemeriksaan terhadap anjing yang menggigit s\u2026 [+1595 chars]",
-      "retrievedAt": "2025-08-25 19:06:05.967515",
-      "internal_id": "a2bf7df82e8ce548c320a0e354d18435e3c7b95b1f26183197e0ec572cbbffb0",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24042,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Ingrid Karb",
-      "title": "Dengue, Malaria und Tollwut: Wenn Erreger mitreisen",
-      "description": "Was geschieht, wenn man nach einer Urlaubsreise pl\u00f6tzlich krank wird? Dann sollten \u00c4rzte genau hinsehen, was die Ursache f\u00fcr Hautausschl\u00e4ge, \u00adDurchf\u00e4lle oder Fieber ist. Schuld k\u00f6nnten \u00adeingeschleppte Bakterien und Viren sein \u2013 was fatale Folgen haben kann.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/w1200/aktuell/gesellschaft/4007554857/1.10650945/facebook_teaser/die-tigermuecke-breitet-sich.jpg.webp",
-      "publishedAt": "2025-08-24 08:09:55",
-      "content": "Nach den Sommerferien hat es die Tochter von Freunden andauernd gejuckt. St\u00e4ndig musste sie sich kratzen, an Armen und Beinen entstand ein Hautausschlag. Der Kinderarzt ging zun\u00e4chst von einer beginn\u2026 [+276 chars]",
-      "retrievedAt": "2025-08-25 19:06:08.361795",
-      "internal_id": "59914616e5fd5d6bc91b949c20ca178de45bd2871ac1e008b7b89d133392ef63",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 24047,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Kevin Kirmizigul",
-      "title": "Ne pa\u0219te un nou pericol epidemic global. OMS: virusul periculos transmis de \u021b\u00e2n\u021bari se r\u0103sp\u00e2nde\u0219te \u00een Europa",
-      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii avertizeaz\u0103 asupra unei poten\u021biale epidemii globale, pe m\u0103sur\u0103 ce virusul chikungunya se r\u0103sp\u00e2nde\u0219te \u00een afara ariei sale obi\u0219nuite, inclusiv \u00een Europa. Virusul, transmis de \u021b\u00e2n\u021bari, poate provoca febr\u0103 \u0219i dureri articulare sev\u2026",
-      "url": "https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-a/a5e00aa5-df61-4540-9693-7a1547178868/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2025-08-24 07:54:51",
-      "content": "Organizaia Mondial a Sntii avertizeaz asupra unei poteniale epidemii globale, pe msur ce virusul chikungunya se rsp\u00e2ndete \u00een afara ariei sale obinuite, inclusiv \u00een Europa. Virusul, transmis de \u00e2nari,\u2026 [+3191 chars]",
-      "retrievedAt": "2025-08-25 19:06:11.277504",
-      "internal_id": "c76b19fcf48831b91f59cf8af13aecd0ba38680ce72f38b2c003001f6a27048f",
       "publishedAtLabel": "Aug 24"
     }
   ]
