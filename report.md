@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-10-10 19:05
-- **Most recent article:** 2025-10-09 14:18:54
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-10-11 07:06
+- **Most recent article:** 2025-10-10 06:19:55
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-35 | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 32 | 45 | 39 | 54 | 34 | 31 | 18 | 253 |
-| chikungunya | 49 | 18 | 18 | 38 | 23 | 25 | 8 | 179 |
-| dengue | 35 | 16 | 24 | 26 | 18 | 32 | 16 | 167 |
-| malaria | 12 | 13 | 18 | 10 | 15 | 10 | 12 | 90 |
-| mpox | 5 | 58 | 7 | 5 | 8 | 1 | 2 | 86 |
-| rabies | 4 | 9 | 5 | 14 | 18 | 10 | 3 | 63 |
+| measles | 32 | 45 | 39 | 54 | 34 | 31 | 20 | 255 |
+| chikungunya | 52 | 18 | 18 | 38 | 23 | 25 | 8 | 182 |
+| dengue | 39 | 16 | 24 | 26 | 18 | 32 | 18 | 173 |
+| malaria | 13 | 13 | 18 | 10 | 15 | 10 | 14 | 93 |
+| mpox | 6 | 58 | 7 | 5 | 8 | 1 | 7 | 92 |
+| rabies | 5 | 9 | 5 | 14 | 18 | 10 | 3 | 64 |
 | h5n1 | 5 | 20 | 6 | 9 | 5 | 10 | 7 | 62 |
 | meningitis | 16 | 5 | 6 | 6 | 3 | 7 | 5 | 48 |
 | zika | 8 | 4 | 6 | 6 | 6 | 5 | 5 | 40 |
@@ -68,6 +68,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (mpox)
 
+- [Mehr als in den Vorjahren: Mpox-Fälle in Berlin steigen deutlich](https://www.morgenpost.de/berlin/article410193313/mehr-als-in-den-vorjahren-mpox-faelle-in-berlin-steigen-deutlich.html) (Berliner Morgenpost)
+
+- [Infektionskrankheit: Mehr Mpox-Fälle in Berlin als in Vorjahren](https://www.tagesspiegel.de/berlin/infektionskrankheit-mehr-mpox-falle-in-berlin-als-in-vorjahren-14526362.html) (Der Tagesspiegel)
+
+- [Zahlen zuletzt deutlich angestiegen: Mehr Mpox-Fälle in Berlin als in Vorjahren](https://www.tagesspiegel.de/berlin/zahlen-zuletzt-deutlich-angestiegen-mehr-mpox-falle-in-berlin-als-in-vorjahren-14526362.html) (Der Tagesspiegel)
+
+- [Infektionskrankheit: Mehr Mpox-Fälle in Berlin als in Vorjahren](https://www.zeit.de/news/2025-10/10/mehr-mpox-faelle-in-berlin-als-in-vorjahren) (Die Zeit)
+
+- [Infektionskrankheit: Mehr Mpox-Fälle in Berlin als in Vorjahren](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/infektionskrankheit--mehr-mpox-faelle-in-berlin-als-in-vorjahren-36119674.html) (STERN.de)
+
 - [Bavarian Nordic rapporterer positive toplinjeresultater for mpox-/koppevaccine i børn](https://www.globenewswire.com/news-release/2025/10/07/3162738/0/da/Bavarian-Nordic-rapporterer-positive-toplinjeresultater-for-mpox-koppevaccine-i-b%C3%B8rn.html) (GlobeNewswire)
 
 - [Bavarian Nordic Reports Positive Topline Data for Mpox/Smallpox Vaccine in Pediatric Population](https://www.globenewswire.com/news-release/2025/10/07/3162738/0/en/Bavarian-Nordic-Reports-Positive-Topline-Data-for-Mpox-Smallpox-Vaccine-in-Pediatric-Population.html) (GlobeNewswire)
@@ -85,6 +95,10 @@ Source: [News API](https://newsapi.org/)
 - ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
+
+- [Unvaccinated toddler from Jerusalem dies of measles](https://www.israelnationalnews.com/flashes/668035) (Israelnationalnews.com)
+
+- [Ontario declares measles outbreak over after more than 2,300 infections](https://www.cbc.ca/news/canada/toronto/ont-measles-outbreak-9.6933665) (CBC News)
 
 - [Pilbara measles outbreak: WA Health still searching for patient zero, testing sites remain open](https://thewest.com.au/news/health/pilbara-measles-outbreak-wa-health-still-searching-for-patient-zero-testing-sites-remain-open-c-20294962) (The West Australian)
 
@@ -124,11 +138,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-41 (malaria)
 
+- [Modeling the threat of pfhrp2/3 gene deletions for malaria diagnosis](https://www.nature.com/articles/s41591-025-03985-0) (Nature.com)
+
 - [Global Health Faces Accelerating Science And Shrinking Budgets](https://www.forbes.com/sites/jenniferlotito/2025/10/09/global-health-faces-accelerating-science-and-shrinking-budgets/) (Forbes)
 
 - [Malaria parasites can optimize transmission investment by sensing two within-host cues](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003081) (Plos.org)
 
 - [Crowded Emergency Rooms and Other News](https://insights.som.yale.edu/podcasts/health-veritas/crowded-emergency-rooms-and-other-news) (Yale.edu)
+
+- [Requirements for designing cluster randomised control trials to detect suppression of malaria vector population densities](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02414-5) (Biomedcentral.com)
 
 - [Research shows a simple strategy can protect babies from malaria-carrying mosquitoes](https://www.npr.org/2025/10/08/nx-s1-5558011/research-shows-a-simple-strategy-can-protect-babies-from-malaria-carrying-mosquitoes) (NPR)
 
@@ -173,6 +191,10 @@ Source: [News API](https://newsapi.org/)
 - [Někdejší zabiják H5N1 slábne. Proč americká ptačí chřipka nekosí nakažené po tisících](https://vtm.zive.cz/clanky/nekdejsi-zabijak-h5n1-slabne-proc-americka-ptaci-chripka-nekosi-nakazene-po-tisicich/sc-870-a-237336/default.aspx) (Zive.cz)
 
 ## 25-41 (dengue)
+
+- [Coahuila reporta 190 casos de dengue y cuatro muertes](https://www.excelsior.com.mx/nacional/coahuila-reporta-190-casos-de-dengue-y-cuatro-muertes/1744853) (Excelsior.com.mx)
+
+- [El dengue, una amenaza que crece en Hidalgo](https://www.excelsior.com.mx/nacional/el-dengue-una-amenaza-crece-en-hidalgo/1744800) (Excelsior.com.mx)
 
 - [Alerta en Guaymas: Dengue alcanza las comunidades de Pótam y Vícam, refuerzan acciones de prevención](https://www.tribuna.com.mx/sonora/2025/10/9/alerta-en-guaymas-dengue-alcanza-las-comunidades-de-potam-vicam-refuerzan-acciones-de-prevencion-415980.html) (Tribuna.com.mx)
 
@@ -1984,6 +2006,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dogs bite men (and a little girl).](https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/) (Crookedtimber.org)
 
+- [Pentingnya Pendekatan One Health Atasi Rabies di Indonesia](https://www.kompasiana.com/dokterhewan/68aacca7c925c46eb67bd992/pentingnya-pendekatan-one-health-atasi-rabies-di-indonesia) (Kompasiana.com)
+
 ## 25-35 (pertussis)
 
 - [Προειδοποίηση ΠΟΥ: Εμβολιάστε τα παιδιά για τον κοκκύτη– Ανθεκτικό στέλεχος εξαπλώνεται στις ΗΠΑ](https://www.newsit.gr/kosmos/proeidopoiisi-pou-emvoliaste-ta-paidia-gia-ton-kokkyti-anthektiko-stelexos-eksaplonetai-stis-ipa/4460715/) (Newsit.gr)
@@ -1999,6 +2023,8 @@ Source: [News API](https://newsapi.org/)
 - [Moçambique regista 66 casos e 810 suspeitos de mpox](https://observador.pt/2025/08/27/numero-de-casos-de-mpox-em-mocambique-sobe-para-66-e-suspeitos-para-810/) (Observador.pt)
 
 - [⚠️ First Mpox Case in Senegal: Health Alert](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcji7XAbSq2Y) (YouTube)
+
+- [Mpox : le Sénégal prend des mesures après un cas détecté à Dakar](https://www.jeuneafrique.com/1716607/politique/mpox-le-senegal-prend-des-mesures-apres-un-cas-detecte-a-dakar/) (Jeune Afrique)
 
 ## 25-35 (meningitis)
 
@@ -2126,6 +2152,8 @@ Source: [News API](https://newsapi.org/)
 
 - [13-year-old in serious condition: bitten by bug on family trip and contracted malaria](https://www.israelnationalnews.com/news/413813) (Israelnationalnews.com)
 
+- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
+
 ## 25-35 (hpai)
 
 - [Bird Flu Outbreak In Bulgaria](https://www.shtfplan.com/headline-news/bird-flu-outbreak-in-bulgaria) (Shtfplan.com)
@@ -2213,6 +2241,14 @@ Source: [News API](https://newsapi.org/)
 - [La inteligencia artificial se convierte en arma clave contra el dengue: diagnóstico veloz y predicción de brotes](https://es.gizmodo.com/la-inteligencia-artificial-se-convierte-en-arma-clave-contra-el-dengue-diagnostico-veloz-y-prediccion-de-brotes-2000187924) (Gizmodo.com)
 
 - [Apparition à Etterbeek, confirmation à Ath: le moustique tigre observé dans 7 communes belges](https://www.lavenir.net/regions/bruxelles/etterbeek/2025/08/25/apparition-a-etterbeek-confirmation-a-ath-le-moustique-tigre-observe-dans-7-communes-belges-RTOK2XSDXFGZLETBB2OOSAWLKM/) (Lavenir.net)
+
+- [Nach dem Traumurlaub krank? - Daran erkennen Sie Tropenkrankheiten](https://www.bild.de/leben-wissen/reisen/malaria-dengue-fieber-und-co-tropenkrankheiten-nach-urlaub-erkennen-681c71e83332b5649f8b50aa) (Bild)
+
+- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
+
+- [Bringt der Klimawandel das Dengue-Fieber?: Übertragende Mücken breiten sich nach Norden aus](https://www.tagesspiegel.de/wissen/bringt-der-klimawandel-das-dengue-fieber-ubertragende-mucken-breiten-sich-nach-norden-aus-14220149.html) (Der Tagesspiegel)
+
+- [Dengue, Malaria und Tollwut: Wenn Erreger mitreisen](https://www.faz.net/aktuell/rhein-main/region-und-hessen/dengue-malaria-und-tollwut-krankheiten-die-aus-dem-urlaub-mitgebracht-werden-110648726.html) (Faz.net)
 
 ## 25-35 (chikungunya)
 
@@ -2313,3 +2349,9 @@ Source: [News API](https://newsapi.org/)
 - [Doenças transmitidas por mosquitos batem recorde na Europa](https://www.metropoles.com/saude/doencas-de-mosquitos-na-europa) (Metropoles.com)
 
 - [Chikungunya : 154 cas recensés depuis le début de l’été en métropole](https://www.franceinfo.fr/replay-jt/france-2/20-heures/chikungunya-154-cas-recenses-depuis-le-debut-de-l-ete-en-metropole_7452547.html) (Franceinfo.fr)
+
+- [Hong Kong enfrenta uma enorme crise de saúde pública devido ao vírus chikungunya; o remédio é um exército de cães-robôs](https://www.terra.com.br/byte/hong-kong-enfrenta-uma-enorme-crise-de-saude-publica-devido-ao-virus-chikungunya-o-remedio-e-um-exercito-de-caes-robos,737d2bbe82048c620fb338c5dddc2d728plxebk0.html) (Terra.com.br)
+
+- [Gefahr von Tropenkrankheiten: Tigermücke breitet sich rasant nach Nordeuropa aus](https://www.n-tv.de/wissen/Tigermuecke-breitet-sich-rasant-nach-Nordeuropa-aus-article25984467.html) (N-tv.de)
+
+- [Ne paște un nou pericol epidemic global. OMS: virusul periculos transmis de țânțari se răspândește în Europa](https://adevarul.ro/stiri-externe/in-lume/ne-paste-un-nou-pericol-epidemic-global-oms-2467004.html) (Adevarul.ro)
