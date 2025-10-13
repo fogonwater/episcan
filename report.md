@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-10-13 07:08
-- **Most recent article:** 2025-10-12 05:23:13
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-10-13 19:05
+- **Most recent article:** 2025-10-12 18:22:13
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 44 | 39 | 54 | 34 | 31 | 29 | 0 | 231 |
-| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 0 | 139 |
-| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 0 | 132 |
-| mpox | 58 | 7 | 5 | 8 | 1 | 10 | 0 | 89 |
-| malaria | 13 | 18 | 10 | 15 | 10 | 20 | 0 | 86 |
-| rabies | 9 | 5 | 14 | 18 | 10 | 6 | 0 | 62 |
-| h5n1 | 19 | 6 | 9 | 5 | 10 | 8 | 0 | 57 |
+| measles | 43 | 39 | 54 | 34 | 31 | 29 | 1 | 231 |
+| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 3 | 142 |
+| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 3 | 135 |
+| malaria | 12 | 18 | 10 | 15 | 10 | 20 | 7 | 92 |
+| mpox | 57 | 7 | 5 | 8 | 1 | 10 | 0 | 88 |
+| rabies | 8 | 5 | 14 | 18 | 10 | 6 | 0 | 61 |
+| h5n1 | 16 | 6 | 9 | 5 | 10 | 8 | 2 | 56 |
 | zika | 4 | 6 | 6 | 6 | 5 | 7 | 0 | 34 |
 | meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 0 | 32 |
-| typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 1 | 15 |
+| typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 3 | 17 |
 | leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 0 | 11 |
 | hpai | 1 | 4 | 1 | 1 | 2 | 1 | 0 | 10 |
 | yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 1 | 8 |
-| pertussis | 3 | 0 | 2 | 0 | 1 | 2 | 0 | 8 |
+| pertussis | 2 | 0 | 2 | 0 | 1 | 2 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,7 +38,53 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (typhoid)
 
+- [Bangladesh rolls out typhoid immunisation drive for 50 million children](https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children) (Al Jazeera English)
+
+- [Bangladesh launches typhoid vaccination drive to combat drug-resistant threat](https://www.thestar.com.my/news/world/2025/10/12/bangladesh-launches-typhoid-vaccination-drive-to-combat-drug-resistant-threat) (The Star Online)
+
 - [পাঁচ কোটি লক্ষ্যমাত্রায় দেশে প্রথমবার টাইফয়েডের টিকাদান শুরু](https://www.banglanews24.com/health/news/bd/1610609.details) (Banglanews24.com)
+
+## 25-42 (measles)
+
+- [Mike’s Blog Roundup](https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday) (Crooksandliars.com)
+
+## 25-42 (malaria)
+
+- [Weltweiter Kampf gegen Infektionskrankheiten: Gesundheitsministerin Warken fordert Stärkung der WHO](https://www.tagesspiegel.de/politik/weltweiter-kampf-gegen-infektionskrankheiten-gesundheitsministerin-warken-fordert-starkung-der-who-14546264.html) (Der Tagesspiegel)
+
+- [Infektionskrankheiten: Deutschland sagt eine Milliarde für Kampf gegen Aids und Malaria zu](https://www.zeit.de/politik/deutschland/2025-10/aids-tuberkulose-malaria-globaler-fond-deutschland) (Die Zeit)
+
+- [Bill Gates lobt „Führungsstärke“: Deutschland sagt eine Milliarde Euro für Aids-Bekämpfung zu](https://www.tagesspiegel.de/politik/bill-gates-lobt-fuhrungsstarke-deutschland-sagt-eine-milliarde-euro-fur-aids-bekampfung-zu-14544230.html) (Der Tagesspiegel)
+
+- [Weltgesundheitsgipfel in Berlin: Deutschland gibt eine Milliarde für Kampf gegen Aids und Malaria](https://www.n-tv.de/politik/Deutschland-gibt-eine-Milliarde-fuer-Kampf-gegen-Aids-und-Malaria-article26091244.html) (N-tv.de)
+
+- [Infektionskrankheiten: Deutschland gibt eine Milliarde gegen Seuchen](https://www.sueddeutsche.de/politik/infektionskrankheiten-deutschland-gibt-eine-milliarde-gegen-seuchen-li.3324902) (Süddeutsche Zeitung)
+
+- [Deutschland gibt eine Milliarde Euro gegen Infektionskrankheiten](https://www.tagesschau.de/inland/gesellschaft/krankheiten-bekaempfung-bundesregierung-100.html) (tagesschau.de)
+
+- [Trotz Haushaltskürzungen: Deutschland investiert eine Milliarde Euro im Kampf gegen Aids, Tuberkulose und Malaria](https://www.tagesspiegel.de/politik/trotz-haushaltskurzungen-deutschland-investiert-eine-milliarde-euro-im-kampf-gegen-aids-tuberkulose-und-malaria-14543771.html) (Der Tagesspiegel)
+
+## 25-42 (h5n1)
+
+- [NIH-funded Scientists Engineered Hybrid Bird Flu Virus in Europe, Tested in U.S.](https://www.shtfplan.com/headline-news/nih-funded-scientists-engineered-hybrid-bird-flu-virus-in-europe-tested-in-u-s) (Shtfplan.com)
+
+- [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
+
+## 25-42 (dengue)
+
+- [Dengue Outbreak in Nepal: Cases Surge, Fatalities Reported](https://nep123.com/dengue-outbreak-in-nepal-cases-surge-fatalities-reported/) (Nep123.com)
+
+- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
+
+- [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
+
+## 25-42 (chikungunya)
+
+- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
+
+- [ΕΕ: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν φέτος αυτά του Δυτικού Νείλου](https://www.skai.gr/news/health/ee-ta-krousmata-tsikoungkounia-kai-dagkeiou-pyretou-kseperasan-fetos-ayta-tou-dytikou-neil) (Skai.gr)
+
+- [Συναγερμός στην Ευρώπη για το κουνούπι «Τίγρης της Ασίας»: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν αυτά του Δυτικού Νείλου](https://www.protothema.gr/ugeia/article/1709459/sunagermos-stin-europi-gia-to-kounoupi-tigris-tis-asias-ta-krousmata-tsikoungounia-kai-dageiou-puretou/) (Protothema.gr)
 
 ## 25-41 (zika)
 
@@ -1638,15 +1684,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
 
-- ['Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise](https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771) (NBC News)
-
 ## 25-36 (pertussis)
 
 - [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
 
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
-
-- [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
 
@@ -1764,8 +1806,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Gana'da M çiçeği virüsü vakaları artıyor](https://www.hurriyet.com.tr/dunya/ganada-m-cicegi-virusu-vakalari-artiyor-42933931) (Hurriyet.com.tr)
 
-- [İngiltere seyahat uyarısı mı yaptı?](https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890) (Haberturk.com)
-
 ## 25-36 (meningitis)
 
 - [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
@@ -1866,8 +1906,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
 
-- [Baby dies of whooping cough after mother not vaccinated while pregnant](https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o) (BBC News)
-
 ## 25-36 (malaria)
 
 - [Haushaltskürzungen: Entwicklungsministerin sieht Hilfsprogramme durch Kürzungen bedroht](https://www.zeit.de/politik/deutschland/2025-09/entwicklungsministerium-kuerzungen-stellungnahme-reem-alabali) (Die Zeit)
@@ -1893,8 +1931,6 @@ Source: [News API](https://newsapi.org/)
 - [A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467) (Plos.org)
 
 - [Klimaatschommelingen beïnvloeden muggen en spelen cruciale rol in verspreiding van malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/klimaatschommelingen-benvloeden-muggen-en-spelen-cruciale-rol-in-verspreiding-van-malaria/87261233.html) (Nieuwsblad.be)
-
-- [Fox News Anchor Shares Encouraging Update On His ‘Awful’ Bout With Malaria](https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/) (Mediaite)
 
 ## 25-36 (leptospirosis)
 
@@ -1939,12 +1975,6 @@ Source: [News API](https://newsapi.org/)
 - [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
 
 - [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
-
-- [Kitört a halálos vírus, drasztikus lépésre kényszerülnek a hatóságok](https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035) (Portfolio.hu)
-
-- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/) (InfoMoney)
-
-- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html) (Terra.com.br)
 
 ## 25-36 (dengue)
 
