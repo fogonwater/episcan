@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-10-13 19:05",
-  "count_articles_total": 844,
-  "count_articles_new": 17,
+  "last_updated": "2025-10-14 07:07",
+  "count_articles_total": 858,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 25067,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "Over 150 unvaccinated students in South Carolina quarantining after measles exposure",
+      "description": "The outbreak has grown to at least eight measles cases, officials said.",
+      "url": "https://abcnews.go.com/US/150-unvaccinated-students-south-carolina-quarantining-after-measles/story?id=126459506",
+      "urlToImage": "https://i.abcnewsfe.com/a/a4b36522-7075-452b-8653-62e2377660e5/vaccine-1-gty-er-250319_1742397208600_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-13 01:54:49",
+      "content": "At least 153 students from two schools in South Carolina are under quarantine for 21 days due to measles exposures, state health officials announced. The quarantined students were not vaccinated, of\u2026 [+850 chars]",
+      "retrievedAt": "2025-10-14 07:07:51.931337",
+      "internal_id": "96989a9ae9c0cecaa9e53a544bc3e4aeeeca26f653ecee13cdc802df5181cc8b",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25071,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "U.S. measles cases continue to climb, with outbreaks across the country",
+      "description": "In South Carolina, more than 150 unvaccinated schoolkids are under quarantine after being exposed to measles. Across the U.S., total case counts could be even higher than the official number.",
+      "url": "https://www.npr.org/2025/10/12/nx-s1-5572507/us-measles-outbreaks-texas-south-carolina-utah-minnesota",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+341/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2F86%2Fceac00b645eaad802475df261003%2Fgettyimages-2202126238.jpg",
+      "publishedAt": "2025-10-13 01:08:24",
+      "content": "Nearly two months after a deadly, massive measles outbreak in Texas was declared over, the highly contagious disease continues to spread across the country. The U.S. has now confirmed 1,563 cases thi\u2026 [+4241 chars]",
+      "retrievedAt": "2025-10-14 07:07:51.992540",
+      "internal_id": "b249048bec843a11d0406dfd4273b3f95962fbd4493cd3e1823c0a0874bd634f",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25069,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Dong Wang, Fan Bu, Ge Yang, Bin Liu",
+      "title": "Structural basis of measles virus polymerase inhibition by nonnucleoside inhibitor ERDRP-0519",
+      "description": "ERDRP-0519 is a potent nonnucleoside inhibitor of Morbilliviruses. In this work, authors solve cryo-EM structures that reveal ERDRP-0519 bound to measles RNA polymerase in a unique RdRp palm pocket, clarifying resistance mutations and guiding next-generation \u2026",
+      "url": "https://www.nature.com/articles/s41467-025-64128-0",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-64128-0/MediaObjects/41467_2025_64128_Fig1_HTML.png",
+      "publishedAt": "2025-10-13 00:00:00",
+      "content": "Protein expression and purification The non-codon-optimized L gene (GenBank: AB052820.1), with an N-terminal twin Strep-tag, and the P gene (GenBank: AB046113.1), with a C-terminal 6\u00d7His tag, from t\u2026 [+7660 chars]",
+      "retrievedAt": "2025-10-14 07:07:51.950869",
+      "internal_id": "dbe36440ca1c0cb4ba6c4f0c92e94960052b1b0c7614f4d492ca0cef38ad63a2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25068,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "Oops! Trump Just Fired Measles Experts In Middle Of Surge",
+      "description": "A slew of infectious disease experts at the CDC were fired Friday. Unlike Trump and his lackeys, infectious diseases don\u2019t pick their targets based on politics: From The New York Times: The mass layoffs of federal workers on Friday night swept up the top two \u2026",
+      "url": "https://crooksandliars.com/2025/10/trump-admin-just-fired-measles-experts",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/10/grim_reaper_for_101125.jpeg",
+      "publishedAt": "2025-10-12 23:27:58",
+      "content": "A slew of infectious disease experts at the CDC were fired Friday. Unlike Trump and his lackeys, infectious diseases dont pick their targets based on politics: From The New York Times: The mass lay\u2026 [+1895 chars]",
+      "retrievedAt": "2025-10-14 07:07:51.941529",
+      "internal_id": "5bdcdacc6b14968943f6c71f7b548ee90747ef63bccbdb24896381171359d272",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 25070,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin with Newser.AI",
+      "title": "Measles Outbreaks Send Students Into Quarantine",
+      "description": "Hundreds of students across the US have been quarantined as measles outbreaks force schools to react to declining vaccination rates. In South Carolina alone, 153 unvaccinated children were ordered to stay home for at least 21 days after possible exposure to t\u2026",
+      "url": "https://www.newser.com/story/376713/measles-outbreaks-send-students-into-quarantine.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1639588-12-20251012161506.jpeg",
+      "publishedAt": "2025-10-12 21:15:00",
+      "content": "Since the end of August, the Centers for Disease Control and Prevention said an average of 27 new cases per week have been reported. The most recent outbreak is in Ohio, per CNN. Until this year, the\u2026 [+998 chars]",
+      "retrievedAt": "2025-10-14 07:07:51.983066",
+      "internal_id": "b789410c3848d83625d39624483454d65471e57df290e3e433ff70df66202eaf",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 25066,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMUR Manchester",
+      "author": "Courtney Bertrand",
+      "title": "Raccoon testes positive for rabies, health officials say",
+      "description": "Raccoon tests positive for rabies in Nashua, health officials say",
+      "url": "https://www.wmur.com/article/rabies-warning-new-hampshire1012/69010684",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/e751898d-a376-4229-ba80-5573294ca0b8/d6d19a2e-3621-47e4-8f9c-2c98d590b9f5.jpg?crop=0.767xw:0.766xh;0.0423xw,0.0318xh&resize=1200:*",
+      "publishedAt": "2025-10-12 20:08:09",
+      "content": "NASHUA, N.H. \u2014The Nashua Division of Public Health is urging people to use caution around wildlife after a raccoon tested positive for rabies. Officials say the animal was recently captured, but did\u2026 [+484 chars]",
+      "retrievedAt": "2025-10-14 07:07:51.592952",
+      "internal_id": "0c357240b6e07f8514ca844b7a339f5e08f48b91fd4cf67a6bc5a80f3909a68a",
+      "publishedAtLabel": "Oct 12"
+    },
     {
       "id": 25059,
       "query": [
@@ -15273,6 +15381,150 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24216,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
+      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
+      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
+      "publishedAt": "2025-08-31 18:54:00",
+      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.282608",
+      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24217,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Felipe Moreira",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2025-08-31 18:52:00",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.291263",
+      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24215,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
+      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-08-31 18:38:53",
+      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.273549",
+      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24218,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Joe DePaolo",
+      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
+      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
+      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
+      "publishedAt": "2025-08-31 13:11:27",
+      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
+      "retrievedAt": "2025-09-01 19:05:46.945270",
+      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24213,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
+      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
+      "publishedAt": "2025-08-31 11:59:00",
+      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
+      "retrievedAt": "2025-09-01 19:05:43.746441",
+      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Merve Elmac\u0131",
+      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
+      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
+      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
+      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
+      "publishedAt": "2025-08-31 09:34:24",
+      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
+      "retrievedAt": "2025-09-01 19:05:47.849568",
+      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24221,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Maia Davies",
+      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
+      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
+      "publishedAt": "2025-08-31 09:10:53",
+      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.870344",
+      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24214,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
+      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
+      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
+      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
+      "publishedAt": "2025-08-31 09:00:00",
+      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
+      "retrievedAt": "2025-09-01 19:05:43.936620",
+      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
