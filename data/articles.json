@@ -1,8 +1,316 @@
 {
-  "last_updated": "2025-10-14 07:07",
-  "count_articles_total": 858,
-  "count_articles_new": 6,
+  "last_updated": "2025-10-14 19:06",
+  "count_articles_total": 867,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 25074,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "More than 150 schoolchildren quarantined as US measles cases hit 33-year high",
+      "description": "The children in South Carolina were unvaccinated, as were many of the 1,563 people infected in the US this year.",
+      "url": "https://www.bbc.com/news/articles/cwy747kdzdzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b1e2/live/0ecdd010-a84e-11f0-a6a1-7df40e0558bb.jpg",
+      "publishedAt": "2025-10-13 18:13:00",
+      "content": "More than 150 unvaccinated schoolchildren are being quarantined for 21 days in South Carolina after being exposed to measles, state officials said. Because the students who were exposed did not hav\u2026 [+2582 chars]",
+      "retrievedAt": "2025-10-14 19:05:58.616983",
+      "internal_id": "4f597bf4b7eb0eb03e088b88bb0264dab7f22fdb5a7e517e687c0eecc7d7b005",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25076,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Ana Faguy",
+      "title": "Over 150 schoolchildren quarantined as US measles cases hit 33-year high",
+      "description": "The children in South Carolina were unvaccinated, as were many of the 1,563 people infected in the US this year.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy747kdzdzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1e2/live/0ecdd010-a84e-11f0-a6a1-7df40e0558bb.jpg",
+      "publishedAt": "2025-10-13 18:13:00",
+      "content": "The quarantined children come from two schools in Spartanburg County, South Carolina - Global Academy of South Carolina and Fairforest Elementary. One school serves primary-age children and the other\u2026 [+1937 chars]",
+      "retrievedAt": "2025-10-14 19:05:58.684553",
+      "internal_id": "b39cdd5ace4974a362dc8fb46194c2fd8f7c495b170dc9afdbbfc3c4ec6e3b99",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25078,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Diana Serrano",
+      "title": "Quinto foco de gripe aviar en Valladolid en menos de un mes: casi 900.000 aves sacrificadas desde septiembre",
+      "description": "La provincia concentra casi la mitad de los casos detectados en Espa\u00f1a en lo que va de a\u00f1o. M\u00e1s informaci\u00f3n: Detectan un segundo foco de gripe aviar en otra granja de la provincia de Valladolid en menos de un mes",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251013/quinto-foco-gripe-aviar-valladolid-mes-aves-sacrificadas-septiembre/1003743967777_0.html",
+      "urlToImage": "https://s2.elespanol.com/2025/02/20/enclave-ods/semanales/925667995_253289649_1706x960.jpg?fmt=jpeg",
+      "publishedAt": "2025-10-13 18:00:41",
+      "content": "Las autoridades veterinarias de la Junta de Castilla y Le\u00f3n han notificado este lunes un nuevo foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, es decir, gripe aviar, en una granja\u2026 [+3238 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.241564",
+      "internal_id": "20c02933cb2a50bd1b70ac37c800677da979ebf9af86bcefcd163dc25fe2c55d",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25082,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Yareli Rafael",
+      "title": "\u00bfCu\u00e1l es la relaci\u00f3n entre el dengue y la lluvia? | S\u00edntomas",
+      "description": "Las intensas lluvias que se registraron en M\u00e9xico y que ocasionaron graves afectaciones sobre todo en cinco estados trae a colaci\u00f3n el tema del dengue, pues este virus transmitido por mosquitos crece en reproducci\u00f3n en esta temporada.Ante eso y la emergencia \u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/que-es-dengue-sintomas-cuanto-dura-como-cuidarte-temporada-lluvias",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/10/13/dengue-transmitido-picadura-mosquito-especial.jpeg",
+      "publishedAt": "2025-10-13 17:59:00",
+      "content": "Las intensas lluvias que se registraron en M\u00e9xico y que ocasionaron graves afectaciones sobre todo en cinco estados trae a colaci\u00f3n el tema del dengue, pues este virus transmitido por mosquitos crece\u2026 [+3654 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.486235",
+      "internal_id": "4e34f79461096d2aca60c1059315b13d0e48eb886d5af0105d018ac06b3373ec",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25079,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Foco de influenza aviar en una granja con 66.000 aves de la zona vigilada en Olmedo",
+      "description": "Las autoridades veterinarias de la Junta de Castilla y Le\u00f3n han notificado este lunes un foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, en una granja de gallinas ponedoras con un censo aproximado de 66.000 aves localizada en la zona de vi\u2026",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-foco-influenza-aviar-granja-66000-aves-zona-vigilada-olmedo-20251013194956.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251013194956_1200.jpg",
+      "publishedAt": "2025-10-13 17:49:56",
+      "content": "VALLADOLID 13 Oct. (EUROPA PRESS) - Las autoridades veterinarias de la Junta de Castilla y Le\u00f3n han notificado este lunes un foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, en \u2026 [+1256 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.256855",
+      "internal_id": "f0b6dc8b659dfa6c79c68e5464da43d5696d9dc16e14956871879f9d6e518ae9",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25080,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "UPI.com",
+      "author": "Mar Puig",
+      "title": "Brazil opens world\u2019s largest mosquito biofactory to fight disease",
+      "description": "The world's largest factory that produces mosquitoes that can prevent dengue, Zika and chikungunya viruses from reproducing has opened in Curitiba, Brazil.",
+      "url": "https://www.upi.com/Health_News/2025/10/13/brazil-mosquito-factory-dengue-Zika-chikungunya-viruses/5701760117419/",
+      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/54f5a1353115023f49c883737c7705e8",
+      "publishedAt": "2025-10-13 17:35:58",
+      "content": "Oct. 10 (UPI) -- The world's largest factory that produces mosquitoes that can prevent dengue, Zika and chikungunya viruses from reproducing has opened in Curitiba, Brazil, aiming to boost protection\u2026 [+3719 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.442603",
+      "internal_id": "dff69332892677f5706f818960bf2c7f5e7d445c0bcf70e25d6044855cf5fec7",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25087,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Leo Peluso",
+      "title": "Las 5 razones para entender el momento cr\u00edtico del River de Marcelo Gallardo",
+      "description": "Desde su regreso a River en agosto del a\u00f1o pasado, Marcelo Gallardo no puede salir de la malaria por los malos resultados y los malos rendimientos. En un tobog\u00e1n empinado, la segunda etapa sigue sumando frustraci\u00f3n y las razones son evidentes. Leer m\u00e1s",
+      "url": "https://442.perfil.com/noticias/futbol/las-5-razones-para-entender-el-momento-critico-del-river-de-marcelo-gallardo.phtml",
+      "urlToImage": "https://fotos.perfil.com/2025/10/13/trim/1140/641/derrota-de-river-plate-ante-sarmiento-de-junin-en-el-monumental-2117578.jpg",
+      "publishedAt": "2025-10-13 17:18:37",
+      "content": "Ya pasaron un par de meses del primer a\u00f1o del Riverde Gallardo versi\u00f3n II y la contabilidad sigue en un d\u00e9ficit cada vez m\u00e1s pronunciado. Que haya perdido 6 de los \u00faltimos 7 partidos es apenas una mu\u2026 [+3448 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.964459",
+      "internal_id": "32c3a6c5e7b1907e0c311ac43fb03a106bc4daf07cb97d6f4c4d39e40a0deb68",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25072,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Wsbtv.com News Staff",
+      "title": "USDA to airdrop oral rabies vaccine baits across Georgia counties",
+      "description": "The U.S. Department of Agriculture will spend about two weeks airdropping anti-rabies pills across northwest Georgia.",
+      "url": "https://www.wsbtv.com/news/local/bartow-county/usda-airdrop-oral-rabies-vaccine-baits-across-georgia-counties/LGYTKQV5EBBRHGAMBE7Y3JY27A/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FWAAJL35HGNGBHGA7U2GWCBYYQI.png?auth=ead5e5488f58901f62a1d503871979d14e97dda3fbad7b4d241e6307742a8af7&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-13 16:11:36",
+      "content": "BARTOW COUNTY, Ga. \u2014 The U.S. Department of Agriculture will spend about two weeks airdropping anti-rabies pills across northwest Georgia. The airdrops will come by helicopter and plane beginning Tu\u2026 [+1654 chars]",
+      "retrievedAt": "2025-10-14 19:05:58.157540",
+      "internal_id": "1d77be4c13df74d207186093bc9864f17600e2bd23241b5d67a71f326b0e8bd9",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25081,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diego.duran",
+      "title": "Secretario de salud anuncia brigadas de vacunaci\u00f3n y control del dengue en los estados afectados por las lluvias",
+      "description": "Diego Dur\u00e1n Las intensas lluvias que azotaron el pa\u00eds dejaron estragos en Veracruz, Puebla, Hidalgo y Quer\u00e9taro. El total de fallecidos entre las regiones anteriores llega a 64 personas. La acumulaci\u00f3n de lodo y agua estancada tras el paso de fen\u00f3menos com\u2026",
+      "url": "https://www.excelsior.com.mx/salud/secretario-de-salud-anuncia-brigadas-de-vacunacion-y-control-del-dengue-en-los-estados",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/10/13/3397607.jpg",
+      "publishedAt": "2025-10-13 15:55:47",
+      "content": "Las intensas lluvias que azotaron el pa\u00eds dejaron estragos en Veracruz, Puebla, Hidalgo y Quer\u00e9taro. El total de fallecidos entre las regiones anteriores llega a 64 personas. La acumulaci\u00f3n de lodo \u2026 [+3894 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.471986",
+      "internal_id": "3fc0636e3fef66993ab5fc04d46dc5f3c3d645d0c6a98201f8f0bf585e24ee7c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25077,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Feng Fu, Ran Zhuo, Xingru Chen",
+      "title": "Social imitation dynamics of vaccination driven by vaccine effectiveness and beliefs",
+      "description": "Author summary Vaccination is one of the most cost-effective interventions for preventing and controlling infectious diseases, yet the world is experiencing declines in vaccination rates due to growing vaccine hesitancy. This hesitancy is often fueled by beli\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013586",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013586.g006&size=inline",
+      "publishedAt": "2025-10-13 14:00:00",
+      "content": "Abstract Declines in vaccination coverage for vaccine-preventable diseases, such as measles and chickenpox, have enabled their surprising comebacks and pose significant public health challenges in t\u2026 [+58663 chars]",
+      "retrievedAt": "2025-10-14 19:05:58.711613",
+      "internal_id": "dd2c03dc3465793f217e29e57449e36a2f1471145fa8721ca394d10d35902d08",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25088,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mathilde Zenou, Pascale Bourhy, Philippe Abboud, Mona Saout, F\u00e9lix Djossou, C\u00e9line Michaud, Ars\u00e8ne Kpangon, Alexis Fremery, Nicolas Higel, Jean-Fran\u00e7ois Carod, Christelle Prince, Sabine Trombert-Paolantoni, Alexia Barbry, Mathieu Nacher, Mathieu Picardeau, Lo\u00efc Epelboin, Paul Le Turnier",
+      "title": "Evolution of human leptospirosis in French Guiana, 2016\u20132022",
+      "description": "Author summary Leptospirosis is a bacterial disease transmitted from animals, especially rodents, that can cause serious illness or death. In French Guiana, many people live in vulnerable conditions, such as informal settlements, with exposure to flooding and\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013620",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013620.g002&size=inline",
+      "publishedAt": "2025-10-13 14:00:00",
+      "content": "Ethics statement The institutional review board at each site approved the protocol. Each participant was informed by letter of the possibility to oppose the utilization of his or her data in the stu\u2026 [+9764 chars]",
+      "retrievedAt": "2025-10-14 19:06:01.052403",
+      "internal_id": "2f349409a51dd8d810012b792203a824b1f025694099ff4a1b5906ff43349e61",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25073,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara  Moniuszko",
+      "title": "153 unvaccinated South Carolina students quarantining after measles exposure",
+      "description": "More than 150 unvaccinated students exposed to measles in South Carolina schools are quarantining, according to local health officials.",
+      "url": "https://www.cbsnews.com/news/unvaccinated-students-quarantining-measles-south-carolina/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/24/46450e67-c6ff-473b-bec0-bf61c147f9cc/thumbnail/1200x630/acd232ec8154350db9039a6dddd94c54/cbsn-fusion-the-measles-most-contagious-virus-known-humankind-doctor-says-thumbnail.jpg",
+      "publishedAt": "2025-10-13 13:56:08",
+      "content": "At least 153 unvaccinated students exposed to measles in South Carolina schools are quarantining, according to local health officials. In a media briefing on Thursday, officials confirmed these stu\u2026 [+2714 chars]",
+      "retrievedAt": "2025-10-14 19:05:58.600915",
+      "internal_id": "f98c61168574554fdc54e2f7f49b1a6f871410011a5a9358421d5a2ef4e76cfa",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25085,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Baglung Battles Dengue Outbreak",
+      "description": "Dengue Fever Outbreak in Baglung, Nepal: Public Health Response Initiated Baglung district in Nepal is facing a surge in dengue fever cases, prompting the Public Health Office to launch a comprehensive awareness campaign and \u201csearch and destroy\u201d operation sta\u2026",
+      "url": "https://nep123.com/baglung-battles-dengue-outbreak/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "publishedAt": "2025-10-13 13:11:22",
+      "content": "Dengue Fever Outbreak in Baglung, Nepal: Public Health Response Initiated Baglung district in Nepal is facing a surge in dengue fever cases, prompting the Public Health Office to launch a comprehens\u2026 [+1636 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.543088",
+      "internal_id": "212ffec73e64ace4c4beea41dc9115552beddfae755fe783ca367f6abf4ed950",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25083,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Baglung Battles Dengue: \u201cSearch and Destroy\u201d Launched",
+      "description": "Dengue Fever Outbreak in Baglung: \u201cSearch and Destroy\u201d Campaign Launched! As dengue fever cases surge in Baglung, Nepal, public health officials have launched an aggressive \u201cSearch and Destroy\u201d campaign. This initiative aims to control the spread of the mosqu\u2026",
+      "url": "https://nep123.com/baglung-battles-dengue-search-and-destroy-launched/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "publishedAt": "2025-10-13 11:45:24",
+      "content": "Dengue Fever Outbreak in Baglung: \u201cSearch and Destroy\u201d Campaign Launched! As dengue fever cases surge in Baglung, Nepal, public health officials have launched an aggressive \u201cSearch and Destroy\u201d camp\u2026 [+2427 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.521228",
+      "internal_id": "176d0d803b87a5f3ef3c895f865560ac451523af48d112dac1bb4ecee4af3dba",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25084,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mypeoplesreview.com",
+      "author": "People's Review",
+      "title": "Dengue cases rising: 413 new infection in a week",
+      "description": "Kathmandu, Oct 13: Dengue cases are rising again in Kathmandu Valley and several districts. In the past week alone, 413 [\u2026] The post Dengue cases rising: 413 new infection in a week appeared first on Peoples' Review.",
+      "url": "https://mypeoplesreview.com/2025/10/13/dengue-cases-rising-413-new-infection-in-a-week/",
+      "urlToImage": "https://mypeoplesreview.com/wp-content/uploads/2025/10/dengue_fever_4dbd108c2f.jpg",
+      "publishedAt": "2025-10-13 11:15:00",
+      "content": "Kathmandu, Oct 13: Dengue cases are rising again in Kathmandu Valley and several districts. In the past week alone, 413 new infections were recorded.According to the Epidemiology and Disease Control \u2026 [+1426 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.535433",
+      "internal_id": "da38f24b7b580ce00132b2b028b2c15cd7b25a52b9cc660b9791f2c57adb18ef",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25075,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rand.org",
+      "author": "Samee Saiyed, Ensheng Dong, Lauren M. Gardner",
+      "title": "The Relationship Between State Vaccination Exemption Policies and MMR Vaccination Trends in the U.S.",
+      "description": "In this study, we present results from a two-phase analysis that further elucidates the relationship between state-level non-medical exemption policies and MMR vaccination trends in the post pandemic era.",
+      "url": "https://www.rand.org/pubs/external_publications/EP71103.html",
+      "urlToImage": "https://www.rand.org/etc/rand/designs/common/social-images/rand.png",
+      "publishedAt": "2025-10-13 09:00:00",
+      "content": "MMR vaccination rates have been declining in the U.S. since the start of the COVID-19 pandemic, coinciding with an increase in the number of reported measles cases. However, vaccination trends are no\u2026 [+3082 chars]",
+      "retrievedAt": "2025-10-14 19:05:58.670019",
+      "internal_id": "555054cb591e0ba939ec806bcd6c37d46aff6fd3c54ae2ce8e784a4439a1be62",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 25086,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": null,
+      "title": "WHO: Antibiotikaresistenz steigt weltweit deutlich an",
+      "description": "Die Antibiotikaresistenz schreitet schneller voran als die medizinische Entwicklung. Neue WHO-Zahlen zeigen bedenkliche Trends und gro\u00dfe regionale Unterschiede. Was tun?",
+      "url": "https://www.spektrum.de/news/who-antibiotikaresistenz-steigt-weltweit-deutlich-an/2291116",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/iStock-174807092_iLexx.jpg",
+      "publishedAt": "2025-10-13 07:35:52",
+      "content": "Was Patienten tun k\u00f6nnen Nicht alle Infektionen gehen auf Bakterien zur\u00fcck. Sie k\u00f6nnen auch von Viren (etwa Hepatitis B und C), Pilzen (etwa Nagelpilz) und Parasiten (etwa Malaria) ausgel\u00f6st werden\u2026 [+739 chars]",
+      "retrievedAt": "2025-10-14 19:05:59.936132",
+      "internal_id": "770919e61e1d7e4b3c3e49e24465967735b5d8adf5ad28218f80e03dda013c6d",
+      "publishedAtLabel": "Oct 13"
+    },
     {
       "id": 25067,
       "query": [
@@ -15381,150 +15689,6 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24216,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
-      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
-      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
-      "publishedAt": "2025-08-31 18:54:00",
-      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.282608",
-      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24217,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "Felipe Moreira",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2025-08-31 18:52:00",
-      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.291263",
-      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24215,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
-      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2025-08-31 18:38:53",
-      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.273549",
-      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24218,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mediaite",
-      "author": "Joe DePaolo",
-      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
-      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
-      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
-      "publishedAt": "2025-08-31 13:11:27",
-      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
-      "retrievedAt": "2025-09-01 19:05:46.945270",
-      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24213,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
-      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
-      "publishedAt": "2025-08-31 11:59:00",
-      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
-      "retrievedAt": "2025-09-01 19:05:43.746441",
-      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24219,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haberturk.com",
-      "author": "Merve Elmac\u0131",
-      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
-      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
-      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
-      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
-      "publishedAt": "2025-08-31 09:34:24",
-      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
-      "retrievedAt": "2025-09-01 19:05:47.849568",
-      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24221,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Maia Davies",
-      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
-      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
-      "publishedAt": "2025-08-31 09:10:53",
-      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
-      "retrievedAt": "2025-09-02 07:07:38.870344",
-      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24214,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
-      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
-      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
-      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
-      "publishedAt": "2025-08-31 09:00:00",
-      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
-      "retrievedAt": "2025-09-01 19:05:43.936620",
-      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
