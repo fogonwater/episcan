@@ -1,8 +1,260 @@
 {
-  "last_updated": "2025-10-15 07:08",
-  "count_articles_total": 878,
-  "count_articles_new": 3,
+  "last_updated": "2025-10-15 19:06",
+  "count_articles_total": 884,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 25094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Charleston Post Courier",
+      "author": "Tom Corwin",
+      "title": "South Carolina measles outbreak up to 16 cases in Upstate",
+      "description": "South Carolina\u2019s measles outbreak in the Upstate now has 16 confirmed cases, most associated with two schools in Spartanburg County.",
+      "url": "https://www.postandcourier.com/health/south-carolina-now-has-16-confirmed-measles-cases/article_3589f2d7-775e-4fef-82b5-1bef68d7cc45.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/da/dda6ab7d-f9d0-4ce8-824e-717db27a6cec/68ee94c6676ff.image.jpg?crop=1661%2C873%2C0%2C311&resize=1200%2C631&order=crop%2Cresize",
+      "publishedAt": "2025-10-14 18:17:12",
+      "content": "One of those sources is Crunch Fitness, 1332 S. Pleasantburg Drive in Greenville, where a child apparently was exposed to measles on Sept. 30, public health said. Anyone who was at that location on t\u2026 [+1507 chars]",
+      "retrievedAt": "2025-10-15 19:06:04.492319",
+      "internal_id": "4c8e1c0dd3a8fa663cdbdb53ced10f9eced0e40ebecca1f50fe1b624601c67e4",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25096,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Diarmuid Pepper",
+      "title": "Samples taken from dead birds at Fota Wildlife Park test positive for bird flu",
+      "description": "A number of captive birds which had died at Fota were tested for bird flu and preliminary test results are positive for H5N1 avian influenza virus.",
+      "url": "https://www.thejournal.ie/samples-taken-from-dead-birds-at-fota-wildlife-park-test-positive-for-bird-flu-6844511-Oct2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6844511/river/?height=400&version=6844513",
+      "publishedAt": "2025-10-14 17:31:26",
+      "content": "THE DEPARTMENT OF Agriculture has confirmed that samples taken from captive birds which died at Fota Wildlife Park have tested positive for avian influenza virus. Yesterday, Fota Wildlife Park Co Co\u2026 [+2065 chars]",
+      "retrievedAt": "2025-10-15 19:06:05.282887",
+      "internal_id": "a7ae32301d9e972bfa20700238ae05fadfbf532248ebc197347a91af5ba8b049",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25093,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX Carolina",
+      "author": "Amanda Shaw",
+      "title": "Measles outbreak grows; child\u2019s exposure linked to Greenville gym",
+      "description": "As of Tuesday, Oct. 14, 15 total measles cases have been confirmed this year in the Palmetto State.",
+      "url": "https://www.foxcarolina.com/2025/10/14/measles-outbreak-grows-childs-exposure-linked-greenville-gym/",
+      "urlToImage": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/C4AYHCHT4FH6TC43HOAVETZBZM.jpg?auth=fcd21cede7f74ec08f175fff98e2a7d761be909214007155764452bd925776af&width=1200&height=600&smart=true",
+      "publishedAt": "2025-10-14 17:21:47",
+      "content": "GREENVILLE, S.C. (FOX Carolina) - The South Carolina Department of Public Health said five new measles cases have been confirmed amid an outbreak linked to the Upstate. As of Tuesday, 16 total measl\u2026 [+805 chars]",
+      "retrievedAt": "2025-10-15 19:06:04.483218",
+      "internal_id": "bf335f0354d93d5148122d50c3b1320bcf9009e5e4098ca87b3ec45888933902",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25102,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Leo Peluso",
+      "title": "Los datos curiosos que explican la malaria del River de Gallardo",
+      "description": "El segundo semestre de River tiene datos que en lugar de alimentar la ilusi\u00f3n la adelgazan y la dejan desnutrida. La malaria se hizo notoria y el temor de sumar otro a\u00f1o sin t\u00edtulos no baja ni con la presencia del entrenador m\u00e1s ganador. No es casual lo que d\u2026",
+      "url": "https://442.perfil.com/noticias/futbol/los-datos-curiosos-que-explican-la-malaria-del-river-de-gallardo.phtml",
+      "urlToImage": "https://fotos.perfil.com/2025/10/06/trim/1140/641/river-plate-en-el-estadio-monumental-2113130.jpg",
+      "publishedAt": "2025-10-14 16:12:07",
+      "content": "El momento deRiveren esta segunda parte del a\u00f1o s\u00f3lo cuenta malas noticias y viene con el arrastre de la frustraci\u00f3n que gener\u00f3 no haber accedido a las rondas finales del Mundial de Clubes, de una pe\u2026 [+2563 chars]",
+      "retrievedAt": "2025-10-15 19:06:06.420934",
+      "internal_id": "19a1ed001bac9f657d55cdf3560d1f5717ebb6274c319e8e52f38a6e231de29a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25103,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "Anadolu Ajans\u0131",
+      "title": "\u00d6l\u00fcmc\u00fcl mpox vir\u00fcs\u00fc h\u0131zla art\u0131yor! Son bir haftada 26 vaka",
+      "description": "Gana\u2019da M \u00e7i\u00e7e\u011fi vakalar\u0131 son bir haftada 26 artarak may\u0131s ay\u0131ndan bu yana 713\u2019e y\u00fckseldi, vir\u00fcs nedeniyle 3 ki\u015fi hayat\u0131n\u0131 kaybetti.",
+      "url": "https://www.turkiyegazetesi.com.tr/saglik/olumcul-mpox-virusu-hizla-artiyor-son-bir-haftada-26-vaka-1152831",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/14/olumcul-mpox-virusu-hizla-artiyor-son-bir-haftada-26-vaka-17604584753684.jpg",
+      "publishedAt": "2025-10-14 16:10:40",
+      "content": "",
+      "retrievedAt": "2025-10-15 19:06:07.154603",
+      "internal_id": "e56c7fae74377488ab60092efa084761ad67ccf9973cdc3430cefa02d0e5702a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Jennifer Lotito, Contributor, \n Jennifer Lotito, Contributor\n https://www.forbes.com/sites/jenniferlotito/",
+      "title": "New Innovations Transform The Fight Against Malaria",
+      "description": "As malaria evolves, new tools from repellents to gene drive are reshaping the fight against the disease and strengthening global health.",
+      "url": "https://www.forbes.com/sites/jenniferlotito/2025/10/14/new-innovations-transform-the-fight-against-malaria/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ed3c49b6d1fb63203212b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-10-14 15:51:15",
+      "content": "Amina Dawd, 36, strokes one of her resting children's hair as two of her other children sleep under the protective bednets. The children sleeping without the net will still gain some protection from \u2026 [+6032 chars]",
+      "retrievedAt": "2025-10-15 19:06:06.335983",
+      "internal_id": "502c119dc734ba21745956ab8616b6d9e3ea01761481483e2f0a8ec4af1fad18",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25092,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MassLive.com",
+      "author": "Dallas Gagnon | Masslive.com",
+      "title": "150+ unvaccinated kids quarantine as measles surge across the U.S.",
+      "description": "Nationwide, 27% of cases are of children 5 years old or younger, and 92% of all cases are of individuals who are unvaccinated or are unsure if they\u2019ve been vaccinated.",
+      "url": "https://www.masslive.com/news/2025/10/150-unvaccinated-kids-quarantine-as-measles-surge-across-the-us.html",
+      "urlToImage": "https://www.masslive.com/resizer/v2/5LXKNXFYBBD3LMN6UWJJKVDE44.png?auth=0333881db70f0cb9bd23c09777647144e3298c47910e85448a16a8ec9b08ae2f&width=1280&smart=true&quality=90",
+      "publishedAt": "2025-10-14 15:38:35",
+      "content": "As measles continue to soar across the U.S., more than 150 unvaccinated students are forced to quarantine amid cases reaching a 33-year high. At least 153 children from two South Carolina schools a\u2026 [+3019 chars]",
+      "retrievedAt": "2025-10-15 19:06:04.465691",
+      "internal_id": "458c8e0f0746803e2806410dc58927afd2d1817be126de296042478b21a8860b",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25100,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Malaria im Mutterleib: Gefahr f\u00fcr hunderttausende Schwangere und Ungeborene",
+      "description": "Hunderttausende sterben jedes Jahr an Malaria, noch vor der Geburt. Doch wie genau die Krankheit den K\u00f6rper von Mutter und Ungeborenem beeintr\u00e4chtigt, ist bislang kaum erforscht.",
+      "url": "https://www.tagesspiegel.de/wissen/malaria-im-mutterleib-gefahr-fur-hunderttausende-schwangere-und-ungeborene-14562962.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14564171/alternates/BASE_16_9_W1400/1760450481000/the-malaria-infected-red-blood-cells.jpeg",
+      "publishedAt": "2025-10-14 14:47:38",
+      "content": "Vom Traumurlaub auf tropischen Inseln bringende Reisende mitunter mehr mit als nur Souvenirs. Denn eine Malariainfektion kann lange unerkannt bleiben. F\u00fcr Schwangere und ihr Ungeborenes kann das gef\u00e4\u2026 [+2620 chars]",
+      "retrievedAt": "2025-10-15 19:06:06.402691",
+      "internal_id": "4ebe610fda0336428409b76b2ce8726cb349429d0337e96586ad42236a98608c",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25095,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Elizabeth Cooney",
+      "title": "CDC team behind top survey on health and nutrition is laid off",
+      "description": "NHANES has collected data on eating patterns, diabetes, and other common diseases for decades. The CDC team that runs it has been fired.",
+      "url": "https://www.statnews.com/2025/10/14/cdc-behind-top-nutrition-survey-nhanes-laid-off/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/AP25239448928973-1024x576.jpg",
+      "publishedAt": "2025-10-14 14:42:54",
+      "content": "Protecting the nations public health demands data, whether it be new measles cases, a surge in ER visits, or shifting patterns in obesity. The most recent job cuts at the Centers for Disease Control \u2026 [+7370 chars]",
+      "retrievedAt": "2025-10-15 19:06:04.525314",
+      "internal_id": "2be430170f6ac136f8e4418a0342a273c62baf8c8b7bad3a8c7becda52b9741b",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25101,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "The PLOS One Editors",
+      "title": "Correction: Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334450",
+      "urlToImage": null,
+      "publishedAt": "2025-10-14 14:00:00",
+      "content": "Citation: The PLOS One Editors (2025) Correction: Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital. PLoS One\u2026 [+371 chars]",
+      "retrievedAt": "2025-10-15 19:06:06.411774",
+      "internal_id": "8d61f1235f8fc7e4a0d622c97c826d0d70c28d43b5cb5edcc65c5377c9580356",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25105,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pikkanet Suttirat, Sudarat Chadsuthi, Charin Modchang, Joacim Rockl\u00f6v",
+      "title": "Unraveling the drivers of leptospirosis risk in Thailand using machine learning",
+      "description": "Author summary Leptospirosis, a disease caused by Leptospira bacteria, poses a significant public health challenge in Thailand. The bacteria thrive in contaminated environments, particularly those associated with rice farming. In this study, we developed a ma\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013618",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013618.g004&size=inline",
+      "publishedAt": "2025-10-14 14:00:00",
+      "content": "Abstract Leptospirosis poses a significant public health challenge in Thailand, driven by a complex mix of environmental and socioeconomic factors. This study develops an XGBoost machine learning mo\u2026 [+37298 chars]",
+      "retrievedAt": "2025-10-15 19:06:07.806127",
+      "internal_id": "eea5867b129dcf89245d29f3689d525215047b9b9b4c29c343e78adc6bbf5b16",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso di Dengue segnalato a Pergine Valsugana, in Trentino",
+      "description": "\u00c8 stato segnalato a Pergine Valsugana, in Trentino, un caso di Dengue importato, relativo ad un residente che ha manifestato i sintomi al rientro da un viaggio all'estero. (ANSA)",
+      "url": "https://www.ansa.it/trentino/notizie/2025/10/14/un-caso-di-dengue-segnalato-a-pergine-valsugana-in-trentino_a8896850-8ec1-49ce-a824-32097ad18b3f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/10/2/4103388152e3cd46ef68bd82c527a84f.jpg",
+      "publishedAt": "2025-10-14 13:59:27",
+      "content": "\u00c8 stato segnalato a Pergine Valsugana, in Trentino, un caso di Dengue importato, relativo ad un residente che ha manifestato i sintomi al rientro da un viaggio all'estero. Mercoled\u00ec 15 ottobre dal\u2026 [+1214 chars]",
+      "retrievedAt": "2025-10-15 19:06:05.724971",
+      "internal_id": "89185418811383fbeb85ce2233c75883a98ca048687a0898faeb8f32e25ca72a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25098,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Suspendido un juicio por trata y prostituci\u00f3n al tener que ingresar de urgencia uno de los 7 acusados por un cuadro de meningitis",
+      "description": "La Audiencia Provincial de Ciudad Real ha suspendido este martes el juicio que deb\u00eda comenzar contra siete personas acusadas de integrar una red dedicada a la trata de seres humanos , la prostituci\u00f3n coactiva y los delitos contra los derechos de los ciudadano\u2026",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/suspendido-juicio-trata-prostitucion-valdepenas-tener-ingresar-20251014153138-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/14/juicio-U80434686106SYE-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-10-14 13:35:54",
+      "content": "La Audiencia Provincial de Ciudad Real ha suspendido este martes el juicio que deb\u00eda comenzar contra siete personas acusadas de integrar una red dedicada a la trata de seres humanos, la prostituci\u00f3n \u2026 [+2124 chars]",
+      "retrievedAt": "2025-10-15 19:06:06.127391",
+      "internal_id": "86840444d404c0a6a7aa1b268767e76d9f8cd65812ec5605bdd56f6e5b037800",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 25104,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Karl Hille",
+      "title": "New vaccine for typhoid, salmonella shows promise",
+      "description": "A new vaccine against salmonella and typhoid moved closer to approval.",
+      "url": "https://www.bostonherald.com/2025/10/14/new-vaccine-for-typhoid-salmonella-shows-promise/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/10/US-NEWS-MED-TYPHOID-16x9-1.jpg?w=1024&h=575",
+      "publishedAt": "2025-10-14 11:10:37",
+      "content": "A new vaccine against salmonella and typhoid moves closer to approval, according to results of a clinical trial published by researchers at the University of Maryland School of Medicine Oct. 8. Thes\u2026 [+1462 chars]",
+      "retrievedAt": "2025-10-15 19:06:07.433110",
+      "internal_id": "e16b32ac46a71d7026d31adac7a66385d00ed805ea0c70ad8e2ccc0d9ee16a2b",
+      "publishedAtLabel": "Oct 14"
+    },
     {
       "id": 25090,
       "query": [
@@ -15743,150 +15995,6 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24216,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
-      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
-      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
-      "publishedAt": "2025-08-31 18:54:00",
-      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.282608",
-      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24217,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "Felipe Moreira",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2025-08-31 18:52:00",
-      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.291263",
-      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24215,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
-      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2025-08-31 18:38:53",
-      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.273549",
-      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24218,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mediaite",
-      "author": "Joe DePaolo",
-      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
-      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
-      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
-      "publishedAt": "2025-08-31 13:11:27",
-      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
-      "retrievedAt": "2025-09-01 19:05:46.945270",
-      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24213,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
-      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
-      "publishedAt": "2025-08-31 11:59:00",
-      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
-      "retrievedAt": "2025-09-01 19:05:43.746441",
-      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24219,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haberturk.com",
-      "author": "Merve Elmac\u0131",
-      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
-      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
-      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
-      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
-      "publishedAt": "2025-08-31 09:34:24",
-      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
-      "retrievedAt": "2025-09-01 19:05:47.849568",
-      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24221,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Maia Davies",
-      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
-      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
-      "publishedAt": "2025-08-31 09:10:53",
-      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
-      "retrievedAt": "2025-09-02 07:07:38.870344",
-      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24214,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
-      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
-      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
-      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
-      "publishedAt": "2025-08-31 09:00:00",
-      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
-      "retrievedAt": "2025-09-01 19:05:43.936620",
-      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
