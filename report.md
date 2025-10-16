@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-10-15 19:06
-- **Most recent article:** 2025-10-14 18:17:12
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-10-16 07:07
+- **Most recent article:** 2025-10-15 06:59:20
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 43 | 39 | 54 | 34 | 31 | 29 | 17 | 247 |
+| measles | 44 | 39 | 54 | 34 | 31 | 29 | 18 | 249 |
 | dengue | 16 | 24 | 26 | 18 | 32 | 23 | 11 | 150 |
-| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 4 | 136 |
-| malaria | 12 | 18 | 10 | 15 | 10 | 20 | 13 | 98 |
-| mpox | 57 | 7 | 5 | 8 | 1 | 10 | 1 | 89 |
-| rabies | 8 | 5 | 14 | 18 | 10 | 6 | 2 | 63 |
-| h5n1 | 16 | 6 | 9 | 5 | 10 | 8 | 5 | 59 |
+| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 8 | 140 |
+| malaria | 13 | 18 | 10 | 15 | 10 | 20 | 14 | 100 |
+| mpox | 58 | 7 | 5 | 8 | 1 | 10 | 1 | 90 |
+| rabies | 9 | 5 | 14 | 18 | 10 | 6 | 2 | 64 |
+| h5n1 | 19 | 6 | 9 | 5 | 10 | 8 | 5 | 62 |
 | zika | 4 | 6 | 6 | 6 | 5 | 7 | 1 | 35 |
 | meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 1 | 33 |
 | typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 4 | 18 |
 | leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 2 | 13 |
 | hpai | 1 | 4 | 1 | 1 | 2 | 1 | 0 | 10 |
 | yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 1 | 8 |
-| pertussis | 2 | 0 | 2 | 0 | 1 | 2 | 0 | 7 |
+| pertussis | 3 | 0 | 2 | 0 | 1 | 2 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -66,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (measles)
 
+- [South Carolina measles outbreak rises as schools with low vaccination see new cases](https://www.usatoday.com/story/news/nation/2025/10/14/south-carolina-measles-outbreak-rises-schools/86694822007/) (USA Today)
+
 - [South Carolina measles outbreak up to 16 cases in Upstate](https://www.postandcourier.com/health/south-carolina-now-has-16-confirmed-measles-cases/article_3589f2d7-775e-4fef-82b5-1bef68d7cc45.html) (Charleston Post Courier)
 
 - [Measles outbreak grows; child’s exposure linked to Greenville gym](https://www.foxcarolina.com/2025/10/14/measles-outbreak-grows-childs-exposure-linked-greenville-gym/) (FOX Carolina)
@@ -101,6 +103,8 @@ Source: [News API](https://newsapi.org/)
 - [Mike’s Blog Roundup](https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday) (Crooksandliars.com)
 
 ## 25-42 (malaria)
+
+- [High food prices deepen Kano’s child malnutrition crisis](https://www.premiumtimesng.com/health/health-investigations/827908-high-food-prices-deepen-kanos-child-malnutrition-crisis.html) (Premium Times)
 
 - [Los datos curiosos que explican la malaria del River de Gallardo](https://442.perfil.com/noticias/futbol/los-datos-curiosos-que-explican-la-malaria-del-river-de-gallardo.phtml) (Perfil.com)
 
@@ -171,6 +175,14 @@ Source: [News API](https://newsapi.org/)
 - [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
+
+- [Sivrisinek kaynaklı virüs yeniden ortaya çıktı: 6 yıl sonra ilk 'Chikungunya' vakası tespit edildi](https://anlatilaninotesi.com.tr/20251015/sivrisinek-kaynakli-virus-yeniden-ortaya-cikti-6-yil-sonra-ilk-chikungunya-vakasi-tespit-edildi-1100194245.html) (Anlatilaninotesi.com.tr)
+
+- [New York health officials confirm first locally acquired chikungunya virus case](https://apnews.com/article/chikungunya-virus-case-new-york-long-island-24beff9662b5070e28a471a61602e051) (Associated Press)
+
+- [New York health officials confirm state's first locally acquired case of chikungunya virus](https://abcnews.go.com/Health/wireStory/new-york-health-officials-confirm-states-locally-acquired-126531484) (ABC News)
+
+- [New York health officials confirm state’s first locally acquired case of chikungunya virus](https://www.news4jax.com/health/2025/10/15/new-york-health-officials-confirm-states-first-locally-acquired-case-of-chikungunya-virus/) (WJXT News4JAX)
 
 - [Brazil opens world’s largest mosquito biofactory to fight disease](https://www.upi.com/Health_News/2025/10/13/brazil-mosquito-factory-dengue-Zika-chikungunya-viruses/5701760117419/) (UPI.com)
 
@@ -1778,11 +1790,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
 
+- ['Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise](https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771) (NBC News)
+
 ## 25-36 (pertussis)
 
 - [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
 
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
+
+- [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
 
@@ -1900,6 +1916,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Gana'da M çiçeği virüsü vakaları artıyor](https://www.hurriyet.com.tr/dunya/ganada-m-cicegi-virusu-vakalari-artiyor-42933931) (Hurriyet.com.tr)
 
+- [İngiltere seyahat uyarısı mı yaptı?](https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890) (Haberturk.com)
+
 ## 25-36 (meningitis)
 
 - [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
@@ -2000,6 +2018,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
 
+- [Baby dies of whooping cough after mother not vaccinated while pregnant](https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o) (BBC News)
+
 ## 25-36 (malaria)
 
 - [Haushaltskürzungen: Entwicklungsministerin sieht Hilfsprogramme durch Kürzungen bedroht](https://www.zeit.de/politik/deutschland/2025-09/entwicklungsministerium-kuerzungen-stellungnahme-reem-alabali) (Die Zeit)
@@ -2025,6 +2045,8 @@ Source: [News API](https://newsapi.org/)
 - [A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467) (Plos.org)
 
 - [Klimaatschommelingen beïnvloeden muggen en spelen cruciale rol in verspreiding van malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/klimaatschommelingen-benvloeden-muggen-en-spelen-cruciale-rol-in-verspreiding-van-malaria/87261233.html) (Nieuwsblad.be)
+
+- [Fox News Anchor Shares Encouraging Update On His ‘Awful’ Bout With Malaria](https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/) (Mediaite)
 
 ## 25-36 (leptospirosis)
 
@@ -2069,6 +2091,12 @@ Source: [News API](https://newsapi.org/)
 - [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
 
 - [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
+
+- [Kitört a halálos vírus, drasztikus lépésre kényszerülnek a hatóságok](https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035) (Portfolio.hu)
+
+- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/) (InfoMoney)
+
+- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html) (Terra.com.br)
 
 ## 25-36 (dengue)
 

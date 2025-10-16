@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-10-15 19:06",
-  "count_articles_total": 884,
-  "count_articles_new": 14,
+  "last_updated": "2025-10-16 07:07",
+  "count_articles_total": 898,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 25109,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Sivrisinek kaynakl\u0131 vir\u00fcs yeniden ortaya \u00e7\u0131kt\u0131: 6 y\u0131l sonra ilk 'Chikungunya' vakas\u0131 tespit edildi",
+      "description": "New York sa\u011fl\u0131k yetkilileri, eyalette ya\u015fayan bir ki\u015fide chikungunya vir\u00fcs\u00fcne rastland\u0131\u011f\u0131n\u0131 a\u00e7\u0131klad\u0131. Bu vaka, ABD\u2019de son 6 y\u0131lda bildirilen ilk yerel bula\u015f olarak kay\u0131tlara ge\u00e7ti. Eyl\u00fcl ay\u0131nda \u00c7in'in bir b\u00f6lgesinde vaka art\u0131\u015f\u0131 nedeniyle halk sa\u011fl\u0131\u011f\u0131 acil dur\u2026",
+      "url": "https://anlatilaninotesi.com.tr/20251015/sivrisinek-kaynakli-virus-yeniden-ortaya-cikti-6-yil-sonra-ilk-chikungunya-vakasi-tespit-edildi-1100194245.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100194245.jpg?10344320291760511561",
+      "publishedAt": "2025-10-15 06:59:20",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251015/sivrisinek-kaynakli-virus-yeniden-ortaya-cikti-6-yil-sonra-ilk-chikungunya-vakasi-tespit-edildi-110\u2026 [+6254 chars]",
+      "retrievedAt": "2025-10-16 07:07:56.660483",
+      "internal_id": "46b33742d632027247b8f69d9a478ba19fd02bef231d4ea268fa3165c1f1754c",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25111,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": null,
+      "title": "New York health officials confirm first locally acquired chikungunya virus case",
+      "description": "New York health officials have confirmed the state\u2019s first locally acquired case of chikungunya virus and the first such case in the country in six years. The state Department of Health said Tuesday that the mosquito-borne virus, which has been spreading in C\u2026",
+      "url": "https://apnews.com/article/chikungunya-virus-case-new-york-long-island-24beff9662b5070e28a471a61602e051",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "publishedAt": "2025-10-15 05:23:47",
+      "content": "MINEOLA, N.Y. (AP) A person living in New York has tested positive for the chikungunya virus in what state health officials say is the first reported transmission of the mosquito-borne illness within\u2026 [+1888 chars]",
+      "retrievedAt": "2025-10-16 07:07:56.678016",
+      "internal_id": "2ab1db5d57b132cd1a4702dae88f19ccd9b05b8d1b10627e83189a888793ebd8",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25107,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Mustapha Usman",
+      "title": "High food prices deepen Kano\u2019s child malnutrition crisis",
+      "description": "Children who are malnourished have weakened immunity, leaving them prone to frequent infections such as diarrhoea, pneumonia, and malaria.",
+      "url": "https://www.premiumtimesng.com/health/health-investigations/827908-high-food-prices-deepen-kanos-child-malnutrition-crisis.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2025/10/child-food-poverty.png",
+      "publishedAt": "2025-10-15 05:04:11",
+      "content": "It is a little after noon in Tudun Bayero, a town in the Dawakin Kudu Local Government Area of Kano State. 40-year-old Hadiza Haladu sat outside a small clinic, cradling her frail five-month-old son,\u2026 [+17725 chars]",
+      "retrievedAt": "2025-10-16 07:07:56.319508",
+      "internal_id": "e4c4b910cd0db440ef6f09d89b84cd7031d24d2a5409fcb8986b8b06bff47af5",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25108,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "New York health officials confirm state's first locally acquired case of chikungunya virus",
+      "description": "New York health officials have confirmed the state\u2019s first locally acquired case of chikungunya virus and the first such case in the country in six years",
+      "url": "https://abcnews.go.com/Health/wireStory/new-york-health-officials-confirm-states-locally-acquired-126531484",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-15 02:37:54",
+      "content": "MINEOLA, N.Y. -- MINEOLA, N.Y. (AP) A person living in New York has tested positive for the chikungunya virus in what state health officials say is the first reported transmission of the mosquito-bor\u2026 [+1909 chars]",
+      "retrievedAt": "2025-10-16 07:07:56.650739",
+      "internal_id": "c6fa719f2fdf740b65e1e8b43c029a2b2f10ada265b6476e114c0b9a80d4b7c7",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25110,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Associated Press",
+      "title": "New York health officials confirm state\u2019s first locally acquired case of chikungunya virus",
+      "description": "New York health officials have confirmed the state\u2019s first locally acquired case of chikungunya virus and the first such case in the country in six years.",
+      "url": "https://www.news4jax.com/health/2025/10/15/new-york-health-officials-confirm-states-first-locally-acquired-case-of-chikungunya-virus/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XZK7BV34VJGDZJV2AE5ZGXVB5Q.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-10-15 02:37:23",
+      "content": "MINEOLA, N.Y. A person living in New York has tested positive for the chikungunya virus in what state health officials say is the first reported transmission of the mosquito-borne illness within the \u2026 [+2036 chars]",
+      "retrievedAt": "2025-10-16 07:07:56.669449",
+      "internal_id": "18da1e58f0ac75a37d568935a411f1ca6787be8910e6b8d447553dcf6b1e493e",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25106,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Eduardo Cuevas, USA TODAY",
+      "title": "South Carolina measles outbreak rises as schools with low vaccination see new cases",
+      "description": "One charter school in South Carolina's Upstate region had an immunization rate at just 17%, according to state health data.",
+      "url": "https://www.usatoday.com/story/news/nation/2025/10/14/south-carolina-measles-outbreak-rises-schools/86694822007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dsI6rS3bdofqNA.ddnc2uA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/9cb82c150218e36a450bb365f0b43654",
+      "publishedAt": "2025-10-14 21:47:55",
+      "content": "A South Carolina measles outbreak has grown to 16 people, including five new cases from schools with low vaccination rates, state health officials said Oct. 14. The South Carolina Department of Heal\u2026 [+3767 chars]",
+      "retrievedAt": "2025-10-16 07:07:54.211072",
+      "internal_id": "acf4be0e1a2c674c58eef195b9232016fd1cc8f56b7a44e01d52cc4aff5e7d59",
+      "publishedAtLabel": "Oct 14"
+    },
     {
       "id": 25094,
       "query": [
@@ -15995,6 +16103,150 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24216,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
+      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
+      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
+      "publishedAt": "2025-08-31 18:54:00",
+      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.282608",
+      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24217,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Felipe Moreira",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2025-08-31 18:52:00",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.291263",
+      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24215,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
+      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-08-31 18:38:53",
+      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.273549",
+      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24218,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Joe DePaolo",
+      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
+      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
+      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
+      "publishedAt": "2025-08-31 13:11:27",
+      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
+      "retrievedAt": "2025-09-01 19:05:46.945270",
+      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24213,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
+      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
+      "publishedAt": "2025-08-31 11:59:00",
+      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
+      "retrievedAt": "2025-09-01 19:05:43.746441",
+      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Merve Elmac\u0131",
+      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
+      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
+      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
+      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
+      "publishedAt": "2025-08-31 09:34:24",
+      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
+      "retrievedAt": "2025-09-01 19:05:47.849568",
+      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24221,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Maia Davies",
+      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
+      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
+      "publishedAt": "2025-08-31 09:10:53",
+      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.870344",
+      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24214,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
+      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
+      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
+      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
+      "publishedAt": "2025-08-31 09:00:00",
+      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
+      "retrievedAt": "2025-09-01 19:05:43.936620",
+      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
