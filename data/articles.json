@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-10-16 07:07",
-  "count_articles_total": 898,
-  "count_articles_new": 6,
+  "last_updated": "2025-10-16 19:05",
+  "count_articles_total": 909,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 25115,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Notificado un foco de gripe aviar en una granja con 315.000 aves en la zona restringida en Olmedo (Valladolid)",
+      "description": "Las autoridades veterinarias de la Junta han notificado este mi\u00e9rcoles un nuevo foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, en una granja de gallinas ponedoras en la localidad vallisoletana de Olmedo con 315.000 aves, localizada dentro\u2026",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-notificado-foco-gripe-aviar-granja-315000-aves-zona-restringida-olmedo-valladolid-20251015195410.html",
+      "urlToImage": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+      "publishedAt": "2025-10-15 17:54:10",
+      "content": "VALLADOLID, 15 Oct. (EUROPA PRESS) - Las autoridades veterinarias de la Junta han notificado este mi\u00e9rcoles un nuevo foco de Influenza Aviar de Alta Patogenicidad (IAAP), subtipo H5N1, en una gr\u2026 [+2756 chars]",
+      "retrievedAt": "2025-10-16 19:05:50.294603",
+      "internal_id": "d9d2da5b76a08c681146a08b410384a30a6336ace2ebc643234a49d9a2f862f8",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25121,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Matthew Binnicker, Contributor, \n Matthew Binnicker, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/matthewbinnicker/",
+      "title": "First Locally-Acquired Case Of Chikungunya Virus Reported In New York",
+      "description": "New York health officials recently confirmed the state\u2019s first locally-acquired case of chikungunya virus, marking the first such case in the United States since 2019.",
+      "url": "https://www.forbes.com/sites/matthewbinnicker/2025/10/15/first-locally-acquired-case-of-chikungunya-virus-reported-in-new-york/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68efd665759d7ad65bb2a58f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-10-15 17:53:21",
+      "content": "Patients with chikungunya are hospitalized following infection. AFP via Getty Images New York health officials recently confirmed the states first locally-acquired case of chikungunya virus, marki\u2026 [+4626 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.016480",
+      "internal_id": "b264f33d4d0f687434697c85f29d1fcf6928f998363bf4834639d5350721f535",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25124,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Chikungunya in New York: Who are facing face higher risk? Latest updates here",
+      "description": "Chikungunya in New York: Newborns, seniors over 65, and people with chronic illnesses face higher risk of severe symptoms, the New York Health Department said.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/chikungunya-in-new-york-who-are-facing-face-higher-risk-latest-updates-here/articleshow/124586571.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124586610,width-1200,height-630,imgsize-5102,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-15 17:48:44",
+      "content": "New York State Department of Health has confirmed a locally acquired case of Chikungunya on Long Island, the first such case of the mosquito-borne infection reported in the United States since 2019. \u2026 [+2183 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.088222",
+      "internal_id": "b49dc2948b29fd970c550cb252bf55fe21c5d04b2c32ec9a631fa986069aff18",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25114,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX Carolina",
+      "author": "Amanda Shaw",
+      "title": "Measles vaccines to be offered in Spartanburg this week",
+      "description": "The South Carolina Department of Public Health said its mobile unit will be providing measles vaccines in the Upstate amid an outbreak.",
+      "url": "https://www.foxcarolina.com/2025/10/15/measles-vaccines-be-offered-spartanburg-this-week/",
+      "urlToImage": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/PH74QHO63ZFL3PXEZEVH2FUTAQ.jpg?auth=349fdf1ff477559947710c9ec561b1cbb621ff001dfadc40f543fda6deaefc64&width=1200&height=600&smart=true",
+      "publishedAt": "2025-10-15 17:47:01",
+      "content": "SPARTANBURG, S.C. (FOX Carolina) - The South Carolina Department of Public Health said its mobile unit will be providing measles vaccines in the Upstate amid an outbreak. Below is the schedule for t\u2026 [+798 chars]",
+      "retrievedAt": "2025-10-16 19:05:49.650845",
+      "internal_id": "d3d3360cb379e1945f332c04aa94bf763dc33d6226b1d16169efce49b2842051",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25122,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "Virusul chikungunya a ajuns \u00een New York / Primul caz de infec\u021bie \u0219i prima transmitere \u00een SUA din ultimii \u0219ase ani",
+      "description": "Mediafax \u021ain\u00e2nd cont de faptul c\u0103 vremea s-a r\u0103cit, riscul de transmitere e foarte sc\u0103zut Articolul Virusul chikungunya a ajuns \u00een New York / Primul caz de infec\u021bie \u0219i prima transmitere \u00een SUA din ultimii \u0219ase ani apare prima dat\u0103 \u00een Mediafax.",
+      "url": "https://www.mediafax.ro/stirile-zilei/virusul-chikungunya-a-ajuns-in-new-york-primul-caz-de-infectie-si-prima-transmitere-in-sua-din-ultimii-sase-ani-23626540",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/05/west-nile-tantar.png",
+      "publishedAt": "2025-10-15 17:36:57",
+      "content": "Autoritile sanitare din statul New York au confirmat primul caz local de virus chikungunya. De asemenea, este prima transmitere raportat pe teritoriul Statelor Unite ale Americii din 2019. Boala est\u2026 [+1170 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.048092",
+      "internal_id": "fb9c44e29af879df634fc3b4d542e7c4796069601ef704201d0b665f425a4806",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25128,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Chikungunya virus: New York confirms first locally acquired case in US since 2019",
+      "description": "Health officials confirm the first locally acquired chikungunya virus case in the United States since 2019, detected in a Nassau County, New York, resident.",
+      "url": "https://www.foxnews.com/health/chikungunya-virus-new-york-confirms-first-locally-acquired-case-us-since-2019",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/mosquito-bite-arm.jpg",
+      "publishedAt": "2025-10-15 17:04:12",
+      "content": "Health officials in New York confirmed a person tested positive for the mosquito-borne chikungunya virus in what is the first locally acquired case in the United States since 2019. The transmission\u2026 [+2862 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.122798",
+      "internal_id": "b739d017c46a646befbdc2e065bf7bef4b0c9bfdfde099195a15cf6fe81de5ac",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25125,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Associated Press",
+      "title": "New York state confirms first locally acquired case of chikungunya virus",
+      "description": "The state Department of Health said Tuesday that the virus, which has been spreading in China and elsewhere, was identified in a person living in Nassau County on Long Island.",
+      "url": "https://www.pbs.org/newshour/health/new-york-state-confirms-first-locally-acquired-case-of-chikungunya-virus",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/10/GettyImages-2234493192-1024x661.jpg",
+      "publishedAt": "2025-10-15 15:38:58",
+      "content": "MINEOLA, N.Y. (AP) A person living in New York has tested positive for the chikungunya virus in what state health officials say is the first reported transmission of the mosquito-borne illness within\u2026 [+2118 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.097145",
+      "internal_id": "5590e62897fd47a677ba45c48cd2888f4b02cf39d5c9af57e7338e2985cd6d60",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25127,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Kate Seamons",
+      "title": "Case of Chikungunya Virus in New York Is Notable",
+      "description": "New York health officials have confirmed the state's first locally acquired case of chikungunya virus\u2014the first such case in the country in six years. The state Department of Health said Tuesday that the mosquito-borne virus, which has been spreading in China\u2026",
+      "url": "https://www.newser.com/story/376866/case-of-chikungunya-virus-in-new-york-is-notable.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1640207-12-20251015103101.jpeg",
+      "publishedAt": "2025-10-15 15:31:00",
+      "content": "New York health officials have confirmed the state's first locally acquired case of chikungunya virus\u2014the first such case in the country in six years. The state Department of Health said Tuesday that\u2026 [+1703 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.114313",
+      "internal_id": "d6dd7b41756165bba1d450af25f50e5d11f9b3978f912ebc855a79bb105a6d6a",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25120,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Mary Whitfill Roeloffs, Forbes Staff, \n Mary Whitfill Roeloffs, Forbes Staff\n https://www.forbes.com/sites/maryroeloffs/",
+      "title": "New York Confirms First Local Case Of Chikungunya Virus\u2014What To Know",
+      "description": "More than 88 chikungunya cases have been reported in the U.S., but this is believed to be the first to be contracted locally.",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2025/10/15/new-york-confirms-first-local-case-of-chikungunya-virus-what-to-know/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68efb1b732a1880ad61e3012/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-10-15 14:38:40",
+      "content": "The New York State Department of Health has confirmed a case of the mosquito-borne chikungunya virus in Nassau County on Long Island, marking the first locally acquired infection reported in the U.S.\u2026 [+4383 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.006989",
+      "internal_id": "04c39b5aec130fca60a6cfabb9db90b3071cda3376310ae70250a65128b77f3b",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25130,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Tom Sanders",
+      "title": "Health Officials Raise the Alarm Over Mosquito Virus Case Reported in U.S",
+      "description": "Health Officials Raise the Alarm Over Mosquito Virus Case Reported in U.Sthedailybeast.com",
+      "url": "https://www.thedailybeast.com/health-officials-raise-the-alarm-over-mosquito-virus-case-reported-in-us/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/LML24JRDBJBEBK2JIDRFGOUO6I.jpg?smart=true&auth=750e7b4a025e1ffe56d35d0dc8029cc9fae10b9add6902a171a97e99564fcbf1&width=1200&height=630",
+      "publishedAt": "2025-10-15 14:29:25",
+      "content": "Doctors in New York have confirmed the first locally transmitted case of the chikungunya virus, a mosquito-borne illness first identified in Tanzania. It is the first New York case where the mosquito\u2026 [+965 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.155425",
+      "internal_id": "99c50e04b4ae6d1bb1cc6d79f039b70800bb7170a0f623a9d16f192c27314e8f",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25112,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Swns.live",
+      "author": "SWNS",
+      "title": "Mom nearly dies from rabies after stray cat bites her",
+      "description": "A mom almost died from rabies after being bitten by a stray cat on holiday in Turkey - but had her life saved when her dogs sniffed out the deadly disease.",
+      "url": "https://swns.live/stories/182845/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-4ahlzf9a2-1760538225724.jpg?quality=75&strip=all&1760523865&w=1024",
+      "publishedAt": "2025-10-15 14:25:51",
+      "content": "A mom almost died from rabies after being bitten by a stray cat on holiday in Turkey but had her life saved when her dogs sniffed out the deadly disease. Chloe Kelly, 44, was bitten on the heel whil\u2026 [+6355 chars]",
+      "retrievedAt": "2025-10-16 19:05:49.123188",
+      "internal_id": "7a7b5dfae3a65b9a29b18eb1b93bae4442ddd246e477a145d47f8a31bd2558a2",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25118,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amreen Ahmad, Shrikant Nema, Kushagri Arora, Ruhi Sikka, Akansha Singh, Sri Krishna, Mrigendra Pal Singh, Anil Kumar Verma, Nitika Nitika, Anup R. Anvikar, Himanshu Gupta, Praveen Kumar Bharti",
+      "title": "Evaluation of GDH and HDP as novel serological biomarkers for Plasmodium falciparum malaria diagnosis across varying parasitemia and transmission settings in India",
+      "description": "Malaria diagnosis has progressed significantly with the introduction of Rapid Diagnostic Tests (RDTs) targeting Histidine-Rich Protein 2 (HRP2), Lactate dehydrogenase (LDH), and aldolase. However, challenges remain, such as the presence of Plasmodium falcipar\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334313",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0334313.g005&size=inline",
+      "publishedAt": "2025-10-15 14:00:00",
+      "content": "Abstract Malaria diagnosis has progressed significantly with the introduction of Rapid Diagnostic Tests (RDTs) targeting Histidine-Rich Protein 2 (HRP2), Lactate dehydrogenase (LDH), and aldolase. H\u2026 [+31725 chars]",
+      "retrievedAt": "2025-10-16 19:05:51.474334",
+      "internal_id": "43427548515f4d0bd900b78aa0a07c4029f10090cce61c67df287c26abdf8908",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25113,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Growing concern over measles outbreak in South Carolina",
+      "description": "Health officials have confirmed 16 measles cases in South Carolina since July, and dozens of students are quarantining at home amid growing concern about the outbreak. CBS News' Cristian Benavides reports.",
+      "url": "https://www.cbsnews.com/video/growing-concern-over-measles-outbreak-in-south-carolina/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/15/5907099a-e381-4cb7-aa9f-4ba5ed374040/thumbnail/1200x630/eefba14128f9b34f47c7e85da1f551bb/1015-cmo-measles.jpg",
+      "publishedAt": "2025-10-15 13:11:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-10-16 19:05:49.564844",
+      "internal_id": "9415cff2a9fd958edd6f9d5815abf6f11fcfb829196d97924377b3bc3031afb2",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25126,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Muskan Singh",
+      "title": "Chikungunya spreads across US - here are causes, symptoms, treatment, vaccines to keep you protected",
+      "description": "New York health officials have confirmed the state's first locally acquired case of the chikungunya virus, marking the first such instance in the U.S. in six years. The infected individual, residing in Nassau County, likely contracted the illness from a mosqu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/chikungunya-spreads-across-us-here-are-causes-symptoms-treatment-vaccines-to-keep-you-protected/articleshow/124577338.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124579108,width-1200,height-630,imgsize-8660,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-15 12:29:00",
+      "content": "Health officials in New York have confirmed the states first locally acquired case of the chikungunya virus, marking the first such infection in the United States since 2019. The case was detected in\u2026 [+2600 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.105817",
+      "internal_id": "b7af95594727b07f77afbf502dc66cb5ca677d4de35ed2a47da18683a61327e8",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25117,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Stina Dahlgren",
+      "title": "SVT-profil f\u00f6rd akut till sjukhus",
+      "description": "Malin Mendel \u00e4r inlagd p\u00e5 sjukhus i Indien. SVT-profilen har drabbats av denguefeber och f\u00e5r nu v\u00e5rd dygnet runt. \u201dUtan ett bra sjukhus hade jag inte \u00f6verlevt\u201d",
+      "url": "https://www.aftonbladet.se/nojesbladet/a/Ey3rvG/malin-mendel-drabbad-av-denguefeber",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/c7e691ae-453c-4bb8-8158-b2a2b621866a?fit=crop&format=auto&h=800&q=50&w=1500&s=3d39f5159893d51d9b4c0937710a35d984a1b62b",
+      "publishedAt": "2025-10-15 12:11:33",
+      "content": "Malin Mendel \u00e4r inlagd p\u00e5 sjukhus i Indien. SVT-profilen har drabbats av denguefeber och f\u00e5r nu v\u00e5rd dygnet runt. Utan ett bra sjukhus hade jag inte \u00f6verlevt, skriver hon p\u00e5 Instagram. V\u2026 [+3075 chars]",
+      "retrievedAt": "2025-10-16 19:05:50.758003",
+      "internal_id": "2cf6d0d2d692f74782d46544f693a753dd6ae692dc1a31da39efbab6e1163ad2",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25129,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Jon Haworth",
+      "title": "New York confirms 1st locally acquired case of chikungunya virus in 6 years in US",
+      "description": "New York confirms 1st locally acquired case of chikungunya virus in 6 years in USgo.com",
+      "url": "https://abcnews.go.com/Health/new-york-confirms-1st-locally-acquired-case-chikungunya/story?id=126539403",
+      "urlToImage": "https://i.abcnewsfe.com/a/958a9a5b-19a0-4393-9c13-64265ad1bb61/chikungunya-NY_1760525997058_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-15 11:23:58",
+      "content": "The New York State Department of Health has confirmed a case of locally acquired chikungunya on Long Island, marking the first case of the virus reported to be locally acquired in New York and the fi\u2026 [+2683 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.131861",
+      "internal_id": "dfd45d772fdbdf6b526360131bce051b973f8ca477b43ca33684ec51694e96d5",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25116,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Gobierno federal env\u00eda 471 brigadas m\u00e9dicas a zonas afectadas",
+      "description": "Ante la incomunicaci\u00f3n que prevalece en los cinco estados afectados por las recientes lluvias, el sector salud despleg\u00f3 471 brigadas para ofrecer atenci\u00f3n m\u00e9dica y epidemiol\u00f3gica, reforzar la vacunaci\u00f3n y combatir vectores, especialmente el dengue. La meta es\u2026",
+      "url": "https://www.jornada.com.mx/2025/10/15/estados/024n2est",
+      "urlToImage": "https://www.jornada.com.mx/2025/10/15/fotos/024n2est-1.jpg",
+      "publishedAt": "2025-10-15 09:50:56",
+      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 15 de octubre de 2025, p. 24 Ante la incomunicaci\u00f3n que prevalece en los cinco estados afectados por las recientes lluvias, el sector salud despleg\u00f3 471 brigadas para o\u2026 [+2701 chars]",
+      "retrievedAt": "2025-10-16 19:05:50.717131",
+      "internal_id": "bfa6167758bea6ae8ca74ac2c939f8b35413e0218aa57ab44cd5a552595fdb88",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25119,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Eric Campbell",
+      "title": "To solve climate change, we need more philanthropy",
+      "description": "One cause is especially underrepresented in our charitable giving: climate change.",
+      "url": "https://www.nationalobserver.com/2025/10/14/opinion/climate-crisis-charitable-giving",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/14/climate_change_pexels-arthousestudio-4310289.jpg",
+      "publishedAt": "2025-10-15 08:55:10",
+      "content": "Weve all seen the power of philanthropy. Whether at the global scale, like Bill and Melinda Gatess famous resolve to eradicate malaria, or at the local level, where philanthropic dollars are often be\u2026 [+5050 chars]",
+      "retrievedAt": "2025-10-16 19:05:51.506131",
+      "internal_id": "30cf2bbe1cd16b01073aa4c961a087d091591ebfdbfafbfb4d9a4da2d863fc68",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 25123,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Don Tomslee",
+      "title": "Is China unleashing another pandemic? Chikungunya virus spreads from Guangdong Province to Europe",
+      "description": "Chikungunya virus cases surged in China's Guangdong Province during summer 2025 before spreading to Europe. France reported 700 cases and Italy reported 353 cases as of Oct. 5, 2025. Mosquito-borne disease raises concerns about potential pandemic as internati\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/is-china-unleashing-another-pandemic-chikungunya-virus-spreads-from-guangdong-province-to-europe/articleshow/124570596.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124570577,width-1200,height-630,imgsize-24024,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-15 07:08:49",
+      "content": "Summer 2025 saw a significant increase in chikungunya virus cases in China's Guangdong Province. The mosquito-borne illness has since spread from Southern China to other regions globally, including F\u2026 [+3976 chars]",
+      "retrievedAt": "2025-10-16 19:05:52.071821",
+      "internal_id": "6b5982ea2a56969b65d1a58febae0af062ce3ca23f2b8574ac16c3fbf8fe18ce",
+      "publishedAtLabel": "Oct 15"
+    },
     {
       "id": 25109,
       "query": [
@@ -16103,150 +16445,6 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24216,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
-      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
-      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
-      "publishedAt": "2025-08-31 18:54:00",
-      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.282608",
-      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24217,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "Felipe Moreira",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2025-08-31 18:52:00",
-      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.291263",
-      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24215,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
-      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2025-08-31 18:38:53",
-      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.273549",
-      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24218,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mediaite",
-      "author": "Joe DePaolo",
-      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
-      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
-      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
-      "publishedAt": "2025-08-31 13:11:27",
-      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
-      "retrievedAt": "2025-09-01 19:05:46.945270",
-      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24213,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
-      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
-      "publishedAt": "2025-08-31 11:59:00",
-      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
-      "retrievedAt": "2025-09-01 19:05:43.746441",
-      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24219,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haberturk.com",
-      "author": "Merve Elmac\u0131",
-      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
-      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
-      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
-      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
-      "publishedAt": "2025-08-31 09:34:24",
-      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
-      "retrievedAt": "2025-09-01 19:05:47.849568",
-      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24221,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Maia Davies",
-      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
-      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
-      "publishedAt": "2025-08-31 09:10:53",
-      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
-      "retrievedAt": "2025-09-02 07:07:38.870344",
-      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24214,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
-      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
-      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
-      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
-      "publishedAt": "2025-08-31 09:00:00",
-      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
-      "retrievedAt": "2025-09-01 19:05:43.936620",
-      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
