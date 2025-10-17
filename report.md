@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-10-16 19:05
-- **Most recent article:** 2025-10-15 17:54:10
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-10-17 07:07
+- **Most recent article:** 2025-10-16 06:39:58
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 43 | 39 | 54 | 34 | 31 | 29 | 20 | 250 |
-| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 13 | 152 |
-| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 19 | 151 |
-| malaria | 12 | 18 | 10 | 15 | 10 | 20 | 16 | 101 |
-| mpox | 57 | 7 | 5 | 8 | 1 | 10 | 1 | 89 |
-| rabies | 8 | 5 | 14 | 18 | 10 | 6 | 3 | 64 |
-| h5n1 | 16 | 6 | 9 | 5 | 10 | 8 | 6 | 60 |
+| measles | 44 | 39 | 54 | 34 | 31 | 29 | 23 | 254 |
+| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 22 | 154 |
+| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 14 | 153 |
+| malaria | 13 | 18 | 10 | 15 | 10 | 20 | 17 | 103 |
+| mpox | 58 | 7 | 5 | 8 | 1 | 10 | 1 | 90 |
+| rabies | 9 | 5 | 14 | 18 | 10 | 6 | 3 | 65 |
+| h5n1 | 19 | 6 | 9 | 5 | 10 | 8 | 7 | 64 |
 | zika | 4 | 6 | 6 | 6 | 5 | 7 | 1 | 35 |
-| meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 1 | 33 |
+| meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 2 | 34 |
 | typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 4 | 18 |
-| leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 2 | 13 |
+| leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 3 | 14 |
 | hpai | 1 | 4 | 1 | 1 | 2 | 1 | 0 | 10 |
-| yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 1 | 8 |
-| pertussis | 2 | 0 | 2 | 0 | 1 | 2 | 0 | 7 |
+| yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 2 | 9 |
+| pertussis | 3 | 0 | 2 | 0 | 1 | 2 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [Brazil opens world’s largest mosquito biofactory to fight disease](https://www.upi.com/Health_News/2025/10/13/brazil-mosquito-factory-dengue-Zika-chikungunya-viruses/5701760117419/) (UPI.com)
 
 ## 25-42 (yersinia)
+
+- [Yersinia ruckeri YRB periplasmic binding protein YiuA selectively recognizes a Fe(III)-mono-catecholate siderophore](https://pubs.rsc.org/en/content/articlelanding/2025/cc/d5cc05103g) (Royal Society of Chemistry)
 
 - [Роспотребнадзор рассказал, как не заразиться иерсиниозом](https://news.mail.ru/society/68273098/) (Mail.ru)
 
@@ -64,9 +66,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (meningitis)
 
+- [Abuso de antibióticos complica tratamiento de neumonías y meningitis por neumococo: expertos](https://www.excelsior.com.mx/salud/abuso-de-antibioticos-complica-tratamiento-de-neumonias-y-meningitis-por-neumococo-expertos) (Excelsior.com.mx)
+
 - [Suspendido un juicio por trata y prostitución al tener que ingresar de urgencia uno de los 7 acusados por un cuadro de meningitis](https://www.abc.es/espana/castilla-la-mancha/suspendido-juicio-trata-prostitucion-valdepenas-tener-ingresar-20251014153138-nt.html) (Www.abc.es)
 
 ## 25-42 (measles)
+
+- [Declining vaccine rates fuel measles outbreak in South Carolina](https://www.cbsnews.com/video/declining-vaccine-rates-fuel-measles-outbreak-in-south-carolina/) (CBS News)
+
+- [Measles outbreak in SC raises concerns over vaccination rates](https://www.wyff4.com/article/measles-outbreak-concerns-vaccination-rates/69047943) (WYFF4 Greenville)
+
+- [Mesa County’s summer measles outbreak totaled 11 cases, started with out-of-state travel](https://www.denverpost.com/2025/10/15/mesa-county-measles-outbreak-colorado/) (The Denver Post)
 
 - [Measles vaccines to be offered in Spartanburg this week](https://www.foxcarolina.com/2025/10/15/measles-vaccines-be-offered-spartanburg-this-week/) (FOX Carolina)
 
@@ -110,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (malaria)
 
+- [Novel Multicomponent Crystal Forms of Artesunate](https://pubs.rsc.org/en/content/articlelanding/2025/ce/d5ce00279f) (Royal Society of Chemistry)
+
 - [Evaluation of GDH and HDP as novel serological biomarkers for Plasmodium falciparum malaria diagnosis across varying parasitemia and transmission settings in India](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334313) (Plos.org)
 
 - [To solve climate change, we need more philanthropy](https://www.nationalobserver.com/2025/10/14/opinion/climate-crisis-charitable-giving) (National Observer)
@@ -144,11 +156,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (leptospirosis)
 
+- [California sea lions in crisis: Deadly leptospirosis spreads rapidly](https://timesofindia.indiatimes.com/etimes/trending/california-sea-lions-in-crisis-deadly-leptospirosis-spreads-rapidly/articleshow/124596885.cms) (The Times of India)
+
 - [Unraveling the drivers of leptospirosis risk in Thailand using machine learning](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013618) (Plos.org)
 
 - [Evolution of human leptospirosis in French Guiana, 2016–2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013620) (Plos.org)
 
 ## 25-42 (h5n1)
+
+- [Investigating environmental determinants and spatiotemporal dynamics of highly pathogenic avian influenza H5N1 outbreaks in India through machine learning](https://www.nature.com/articles/s41598-025-96765-2) (Nature.com)
 
 - [Notificado un foco de gripe aviar en una granja con 315.000 aves en la zona restringida en Olmedo (Valladolid)](https://www.europapress.es/castilla-y-leon/noticia-notificado-foco-gripe-aviar-granja-315000-aves-zona-restringida-olmedo-valladolid-20251015195410.html) (Europapress.es)
 
@@ -163,6 +179,8 @@ Source: [News API](https://newsapi.org/)
 - [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
 
 ## 25-42 (dengue)
+
+- [Ultrapotent human antibodies lock E protein dimers central region of diverse DENV3 morphological variants](https://www.nature.com/articles/s41467-025-64210-7) (Nature.com)
 
 - [SVT-profil förd akut till sjukhus](https://www.aftonbladet.se/nojesbladet/a/Ey3rvG/malin-mendel-drabbad-av-denguefeber) (Aftonbladet.se)
 
@@ -191,6 +209,12 @@ Source: [News API](https://newsapi.org/)
 - [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
+
+- [Chikungunya mosquitoes invade US as New York gets first case; Has China-borne pandemic reached America after spreading in Europe?](https://economictimes.indiatimes.com/news/international/us/chikungunya-mosquitoes-invade-us-as-new-york-gets-first-case-has-china-borne-pandemic-reached-america-after-spreading-in-europe/articleshow/124597626.cms) (The Times of India)
+
+- [What is the chikungunya virus now transmitted in the US for the first time in years?](https://www.bostonherald.com/2025/10/15/chikungunya-explainer/) (Boston Herald)
+
+- [Chikungunya virus case confirmed in New York City suburb](https://apnews.com/article/chikungunya-virus-mosquito-illness-united-states-6bd51eaefce60e07689cda9e561d5e53) (Associated Press)
 
 - [First Locally-Acquired Case Of Chikungunya Virus Reported In New York](https://www.forbes.com/sites/matthewbinnicker/2025/10/15/first-locally-acquired-case-of-chikungunya-virus-reported-in-new-york/) (Forbes)
 
@@ -1828,11 +1852,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
 
+- ['Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise](https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771) (NBC News)
+
 ## 25-36 (pertussis)
 
 - [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
 
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
+
+- [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
 
@@ -1950,6 +1978,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Gana'da M çiçeği virüsü vakaları artıyor](https://www.hurriyet.com.tr/dunya/ganada-m-cicegi-virusu-vakalari-artiyor-42933931) (Hurriyet.com.tr)
 
+- [İngiltere seyahat uyarısı mı yaptı?](https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890) (Haberturk.com)
+
 ## 25-36 (meningitis)
 
 - [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
@@ -2050,6 +2080,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
 
+- [Baby dies of whooping cough after mother not vaccinated while pregnant](https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o) (BBC News)
+
 ## 25-36 (malaria)
 
 - [Haushaltskürzungen: Entwicklungsministerin sieht Hilfsprogramme durch Kürzungen bedroht](https://www.zeit.de/politik/deutschland/2025-09/entwicklungsministerium-kuerzungen-stellungnahme-reem-alabali) (Die Zeit)
@@ -2075,6 +2107,8 @@ Source: [News API](https://newsapi.org/)
 - [A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467) (Plos.org)
 
 - [Klimaatschommelingen beïnvloeden muggen en spelen cruciale rol in verspreiding van malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/klimaatschommelingen-benvloeden-muggen-en-spelen-cruciale-rol-in-verspreiding-van-malaria/87261233.html) (Nieuwsblad.be)
+
+- [Fox News Anchor Shares Encouraging Update On His ‘Awful’ Bout With Malaria](https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/) (Mediaite)
 
 ## 25-36 (leptospirosis)
 
@@ -2119,6 +2153,12 @@ Source: [News API](https://newsapi.org/)
 - [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
 
 - [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
+
+- [Kitört a halálos vírus, drasztikus lépésre kényszerülnek a hatóságok](https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035) (Portfolio.hu)
+
+- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/) (InfoMoney)
+
+- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html) (Terra.com.br)
 
 ## 25-36 (dengue)
 
