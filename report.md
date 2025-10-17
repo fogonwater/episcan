@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-10-17 07:07
-- **Most recent article:** 2025-10-16 06:39:58
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-10-17 19:06
+- **Most recent article:** 2025-10-16 18:10:21
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 44 | 39 | 54 | 34 | 31 | 29 | 23 | 254 |
-| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 22 | 154 |
-| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 14 | 153 |
-| malaria | 13 | 18 | 10 | 15 | 10 | 20 | 17 | 103 |
-| mpox | 58 | 7 | 5 | 8 | 1 | 10 | 1 | 90 |
-| rabies | 9 | 5 | 14 | 18 | 10 | 6 | 3 | 65 |
-| h5n1 | 19 | 6 | 9 | 5 | 10 | 8 | 7 | 64 |
+| measles | 43 | 39 | 54 | 34 | 31 | 29 | 23 | 253 |
+| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 25 | 157 |
+| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 16 | 155 |
+| malaria | 12 | 18 | 10 | 15 | 10 | 20 | 19 | 104 |
+| mpox | 57 | 7 | 5 | 8 | 1 | 10 | 2 | 90 |
+| rabies | 8 | 5 | 14 | 18 | 10 | 6 | 4 | 65 |
+| h5n1 | 16 | 6 | 9 | 5 | 10 | 8 | 7 | 61 |
 | zika | 4 | 6 | 6 | 6 | 5 | 7 | 1 | 35 |
 | meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 2 | 34 |
-| typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 4 | 18 |
+| typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 5 | 19 |
 | leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 3 | 14 |
 | hpai | 1 | 4 | 1 | 1 | 2 | 1 | 0 | 10 |
 | yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 2 | 9 |
-| pertussis | 3 | 0 | 2 | 0 | 1 | 2 | 0 | 8 |
+| pertussis | 2 | 0 | 2 | 0 | 1 | 2 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (typhoid)
 
+- [HilE mediates motility thermoregulation in typhoidal Salmonella serovars at elevated physiological temperatures](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013133) (Plos.org)
+
 - [New vaccine for typhoid, salmonella shows promise](https://www.bostonherald.com/2025/10/14/new-vaccine-for-typhoid-salmonella-shows-promise/) (Boston Herald)
 
 - [Bangladesh rolls out typhoid immunisation drive for 50 million children](https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children) (Al Jazeera English)
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (rabies)
 
+- [Primate trailer: Horror film about a rabies-crazed chimp reaches theatres in January](https://www.joblo.com/primate-trailer/) (JoBlo.com)
+
 - [Mom nearly dies from rabies after stray cat bites her](https://swns.live/stories/182845/) (Swns.live)
 
 - [USDA to airdrop oral rabies vaccine baits across Georgia counties](https://www.wsbtv.com/news/local/bartow-county/usda-airdrop-oral-rabies-vaccine-baits-across-georgia-counties/LGYTKQV5EBBRHGAMBE7Y3JY27A/) (WSB Atlanta)
@@ -61,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 - [Raccoon testes positive for rabies, health officials say](https://www.wmur.com/article/rabies-warning-new-hampshire1012/69010684) (WMUR Manchester)
 
 ## 25-42 (mpox)
+
+- [California officials confirm 1st US case of severe mpox strain with no travel history](https://abcnews.go.com/Health/california-officials-confirm-1st-us-case-severe-mpox/story?id=126587395) (ABC News)
 
 - [Ölümcül mpox virüsü hızla artıyor! Son bir haftada 26 vaka](https://www.turkiyegazetesi.com.tr/saglik/olumcul-mpox-virusu-hizla-artiyor-son-bir-haftada-26-vaka-1152831) (Turkiyegazetesi.com.tr)
 
@@ -119,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 - [Mike’s Blog Roundup](https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday) (Crooksandliars.com)
 
 ## 25-42 (malaria)
+
+- [In vitro cultured malaria hypnozoites leave a footprint of specific metabolites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013577) (Plos.org)
+
+- [Nutrient stress dramatically increases malaria parasite clag2 copy number to increase host cell permeability and enable pathogen survival](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013321) (Plos.org)
 
 - [Novel Multicomponent Crystal Forms of Artesunate](https://pubs.rsc.org/en/content/articlelanding/2025/ce/d5ce00279f) (Royal Society of Chemistry)
 
@@ -180,6 +190,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (dengue)
 
+- [Qué es el dengue: síntomas, tratamiento y prevención](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-10-16/que-es-el-dengue-sintomas-tratamiento-y-prevencion-7308673/) (Libertaddigital.com)
+
+- [La dictadura reconoce tres muertes por dengue pero los medios cubanos apuntan a una epidemia mucho mayor](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-16/la-dictadura-reconoce-tres-muertes-por-dengue-pero-los-medios-cubanos-apuntan-a-una-epidemia-mucho-mayor-7308697/) (Libertaddigital.com)
+
 - [Ultrapotent human antibodies lock E protein dimers central region of diverse DENV3 morphological variants](https://www.nature.com/articles/s41467-025-64210-7) (Nature.com)
 
 - [SVT-profil förd akut till sjukhus](https://www.aftonbladet.se/nojesbladet/a/Ey3rvG/malin-mendel-drabbad-av-denguefeber) (Aftonbladet.se)
@@ -209,6 +223,12 @@ Source: [News API](https://newsapi.org/)
 - [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
+
+- [6 things to know about the chikungunya virus and its transmission in the U.S.](https://www.pbs.org/newshour/health/6-things-to-know-about-the-chikungunya-virus-and-its-transmission-in-the-u-s) (PBS)
+
+- [Chikungunya, la fiebre que dobla cuerpos: cómo el cambio climático y los viajes globales expanden un virus olvidado](https://es.gizmodo.com/chikungunya-la-fiebre-que-dobla-cuerpos-como-el-cambio-climatico-y-los-viajes-globales-expanden-un-virus-olvidado-2000198545) (Gizmodo.com)
+
+- [Caso di infezione da virus Chikungunya in un 70enne nel Rodigino](https://www.ansa.it/veneto/notizie/2025/10/16/caso-di-infezione-da-virus-chikungunya-in-un-70enne-nel-rodigino_f0b672db-39b4-49ca-a863-02d324af0b21.html) (ANSA.it)
 
 - [Chikungunya mosquitoes invade US as New York gets first case; Has China-borne pandemic reached America after spreading in Europe?](https://economictimes.indiatimes.com/news/international/us/chikungunya-mosquitoes-invade-us-as-new-york-gets-first-case-has-china-borne-pandemic-reached-america-after-spreading-in-europe/articleshow/124597626.cms) (The Times of India)
 
@@ -1852,15 +1872,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
 
-- ['Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise](https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771) (NBC News)
-
 ## 25-36 (pertussis)
 
 - [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
 
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
-
-- [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
 
@@ -1978,8 +1994,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Gana'da M çiçeği virüsü vakaları artıyor](https://www.hurriyet.com.tr/dunya/ganada-m-cicegi-virusu-vakalari-artiyor-42933931) (Hurriyet.com.tr)
 
-- [İngiltere seyahat uyarısı mı yaptı?](https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890) (Haberturk.com)
-
 ## 25-36 (meningitis)
 
 - [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
@@ -2080,8 +2094,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
 
-- [Baby dies of whooping cough after mother not vaccinated while pregnant](https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o) (BBC News)
-
 ## 25-36 (malaria)
 
 - [Haushaltskürzungen: Entwicklungsministerin sieht Hilfsprogramme durch Kürzungen bedroht](https://www.zeit.de/politik/deutschland/2025-09/entwicklungsministerium-kuerzungen-stellungnahme-reem-alabali) (Die Zeit)
@@ -2107,8 +2119,6 @@ Source: [News API](https://newsapi.org/)
 - [A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467) (Plos.org)
 
 - [Klimaatschommelingen beïnvloeden muggen en spelen cruciale rol in verspreiding van malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/klimaatschommelingen-benvloeden-muggen-en-spelen-cruciale-rol-in-verspreiding-van-malaria/87261233.html) (Nieuwsblad.be)
-
-- [Fox News Anchor Shares Encouraging Update On His ‘Awful’ Bout With Malaria](https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/) (Mediaite)
 
 ## 25-36 (leptospirosis)
 
@@ -2153,12 +2163,6 @@ Source: [News API](https://newsapi.org/)
 - [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
 
 - [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
-
-- [Kitört a halálos vírus, drasztikus lépésre kényszerülnek a hatóságok](https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035) (Portfolio.hu)
-
-- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/) (InfoMoney)
-
-- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html) (Terra.com.br)
 
 ## 25-36 (dengue)
 
