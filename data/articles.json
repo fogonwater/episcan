@@ -1,8 +1,296 @@
 {
-  "last_updated": "2025-10-18 07:06",
-  "count_articles_total": 948,
-  "count_articles_new": 9,
+  "last_updated": "2025-10-18 19:05",
+  "count_articles_total": 956,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 25164,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Frustration grows amid measles outbreak quarantines across several states",
+      "description": "The measles outbreak among children in South Carolina is still growing, even though a small number of the quarantined school kids have been allowed back in class.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-frustration-quarantines-ohio-south-carolina-rcna237947",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251016-mmr-vaccine-mn-0900-44a130.jpg",
+      "publishedAt": "2025-10-17 18:50:41",
+      "content": "South Carolina's measles outbreak has grown to 15 cases, state health officials reported Friday, a small increase from a few days ago. The new cases are among those who'd been exposed to the virus \u2026 [+3109 chars]",
+      "retrievedAt": "2025-10-18 19:05:42.837222",
+      "internal_id": "31ea362a9d42cd7f2f2761d611a9ca529ab4899d2af8bfe4aed419b0075488b4",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25175,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Shreya Biswas",
+      "title": "What is mpox as first case in US confirmed without any travel history? How dangerous is it and is there any vaccine?",
+      "description": "Mpox cases in US 2025: US health officials are investigating potential local transmission of a more dangerous mpox strain, 'clade I', in California. Two cases, one in Long Beach and another in Los Angeles, have been confirmed with no identified travel links. \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/what-is-mpox-as-first-case-in-us-confirmed-without-any-travel-history-how-dangerous-is-it-and-is-there-any-vaccine/articleshow/124638861.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124638886,width-1200,height-630,imgsize-11322,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-17 18:26:23",
+      "content": "Mpox cases in US 2025: US health officials have confirmed what could be the first local transmission cases of a serious mpox strain in the United States, causing concern among public health officials\u2026 [+3775 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.879464",
+      "internal_id": "98cd365ef28df5d3506789013d031a3ba701f682001a2a64816df1223504c897",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25177,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Muri\u00f3 una persona de leptospirosis en Montevideo: por qu\u00e9 la lluvia importa en el contagio",
+      "description": "La enfermedad se da todos los a\u00f1os y los contagiados tienen, en promedio, 42 a\u00f1os, seg\u00fan el MSP.",
+      "url": "https://www.montevideo.com.uy/Salud/Murio-una-persona-de-leptospirosis-en-Montevideo-por-que-la-lluvia-importa-en-el-contagio-uc940202",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202502/_W933_80/911093.JPG",
+      "publishedAt": "2025-10-17 17:43:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) report\u00f3, a trav\u00e9s de su bolet\u00edn epidemiol\u00f3gico, una muerte por leptospirosis en Montevideo. De acuerdo con la cartera, el fallecimiento se di\u2026 [+1128 chars]",
+      "retrievedAt": "2025-10-18 19:05:45.215895",
+      "internal_id": "69100df219ba11206dfd3cd5acbae27db471d5107c0ac955da7b202614ab8355",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25170,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Leo Peluso",
+      "title": "El River de Marcelo Gallardo viaja a C\u00f3rdoba para salir de la crisis",
+      "description": "En lo que ser\u00e1 el partido previo a la semifinal de la Copa Argentina en el mismo Estadio Mario Kempes, River busca ante Talleres respirar un triunfo que lo saque de la malaria y le d\u00e9 aire. Gallardo no podr\u00e1 contar con Acu\u00f1a y Enzo P\u00e9rez, que se cuidan para e\u2026",
+      "url": "https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-viaja-a-cordoba-para-salir-de-la-crisis.phtml",
+      "urlToImage": "https://fotos.perfil.com/2025/10/17/trim/1140/641/marcelo-gallardo-2120598.jpg",
+      "publishedAt": "2025-10-17 17:01:20",
+      "content": "En un partido clave y demasiado importante que en otra circunstancia ser\u00eda irrelevante, incluso con un equipo alternativo, Riverjuega ma\u00f1ana contra Talleres en C\u00f3rdoba para intentar salir de la crisi\u2026 [+2980 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.263647",
+      "internal_id": "ef6a1f88fb7e3bfbbbd00a7b0dcbf9b1c0428b7f18497330d2c8fb20e8f65887",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25176,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Polly Davis Doig",
+      "title": "California Sees 2 Unusual Mpox Cases",
+      "description": "Two Californians diagnosed with mpox may be the first US cases resulting from the local spread of a different version of the virus, health officials said. The Long Beach Department of Health and Human Services this week confirmed the first case through testin\u2026",
+      "url": "https://www.newser.com/story/377021/california-sees-2-unusual-mpox-cases.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1640615-12-20251017114802.jpeg",
+      "publishedAt": "2025-10-17 16:48:00",
+      "content": "Both infected people in California were hospitalized, and are now recovering at home. \"At this point in our investigations, we have not identified any association between the two cases,\" Long Beach h\u2026 [+1198 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.897240",
+      "internal_id": "1963ac0e229232cc36bd474e7e9790f356ca3f9b2856c542947630bcbb0b42ec",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25172,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara  Moniuszko",
+      "title": "First locally acquired U.S. cases of more severe mpox strain reported",
+      "description": "California health officials have reported two cases of a potentially more severe form of mpox that appear to be locally acquired.",
+      "url": "https://www.cbsnews.com/news/mpox-clade-i-strain-more-severe-first-locally-acquired/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/08/15/e1409279-9c9c-44fd-8046-81662b67e712/thumbnail/1200x630/72644a7f912ce7e6b173bc8b69a6b65c/ap24220568552413.jpg",
+      "publishedAt": "2025-10-17 16:47:00",
+      "content": "The first U.S. cases of a potentially more severe form of mpox without known travel were reported in California, health officials said this week. In a news release Thursday, the Los Angeles County \u2026 [+2467 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.841834",
+      "internal_id": "7f641d4aa1a163e42a8c14536d4c304494c6cdab43545af2e337ffcd299015bb",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25163,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "US anti-vax stance to blame for continent-wide surge in measles, say experts (Constance Malleret/The Guardian)",
+      "description": "Constance Malleret / The Guardian: US anti-vax stance to blame for continent-wide surge in measles, say experts \u2014 The disease was eliminated across the Americas in 2024, but urgent vaccination drives are now under way as cases rise from Mexico to Bolivia af\u2026",
+      "url": "https://www.memeorandum.com/251017/p62",
+      "urlToImage": "https://i.guim.co.uk/img/media/aa3b0b603d7daa143f7489d41b7e938ad50b5da3/0_0_6396_5117/master/6396.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-10-17 15:50:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-18 19:05:42.827374",
+      "internal_id": "5bca64ce8df510409b5afeae07536813cc5a5a589b34ad9c4f772dd0a0098822",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25173,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diana.oliva",
+      "title": "Cepa m\u00e1s grave de mpox detectada por primera vez en Los \u00c1ngeles",
+      "description": "Diana Oliva En el condado de Los \u00c1ngeles se ha detectado por primera vez una cepa de mpox m\u00e1s grave que podr\u00eda propagarse con mayor facilidad, encendiendo alertas en salud p\u00fablica. Esta cepa identificada lleva la sombra de un riesgo mayor que las variantes \u2026",
+      "url": "https://www.excelsior.com.mx/salud/cepa-mas-grave-de-mpox-detectada-por-primera-vez-en-los-angeles/1746268",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/10/17/3400850.jpg",
+      "publishedAt": "2025-10-17 15:42:35",
+      "content": "En el condado de Los \u00c1ngeles se ha detectado por primera vez una cepa de mpox m\u00e1s grave que podr\u00eda propagarse con mayor facilidad, encendiendo alertas en salud p\u00fablica. Esta cepa identificada lleva l\u2026 [+5047 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.852699",
+      "internal_id": "2945de952f03fcfcc0aa11fe4b1f8542b423aed7c0a2393b718eda058c420ab8",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25162,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chenxuan Yang, Mei Dang, Longjiang Wu, Gelin Jin, Qinqin Deng, Yihui Chen, Song Jin, Wang Chen, Chenlu Zhang",
+      "title": "Disparities in Global Rabies Burden from GBD 2021: Children, older adults, and low-SDI countries at continued risk",
+      "description": "Author summary Rabies is a fatal yet preventable viral infection of the central nervous system, with an almost 100% case fatality rate once symptoms appear. Using data from the Global Burden of Disease Study 2021, this study presents a comprehensive assessmen\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013630",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013630.g008&size=inline",
+      "publishedAt": "2025-10-17 14:00:00",
+      "content": "Citation: Yang C, Dang M, Wu L, Jin G, Deng Q, Chen Y, et al. (2025) Disparities in Global Rabies Burden from GBD 2021: Children, older adults, and low-SDI countries at continued risk. PLoS Negl Trop\u2026 [+51689 chars]",
+      "retrievedAt": "2025-10-18 19:05:42.554482",
+      "internal_id": "cc9e159247b637f695a081168ff3d9462b73b2a314800639af0a8ab0ad9185e9",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25169,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Basmah Alharbi, Mawahib Ahmed",
+      "title": "Malaria in travelers and local populations: Comprehensive study of incidence patterns and origin-based classification in Saudi Arabia",
+      "description": "Background Malaria continues to pose a significant public health threat in the Kingdom of Saudi Arabia (KSA), despite ongoing control efforts. Most malaria cases in the KSA are associated with travelers arriving from malaria-endemic regions. The rationale for\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335137",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335137.t006&size=inline",
+      "publishedAt": "2025-10-17 14:00:00",
+      "content": "Abstract Background Malaria continues to pose a significant public health threat in the Kingdom of Saudi Arabia (KSA), despite ongoing control efforts. Most malaria cases in the KSA are associated \u2026 [+30219 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.222526",
+      "internal_id": "ef9e3931fd1d765d422209618793f73d4dc057dd5d7414885077c71d4e497e1b",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25167,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Fu\u00dfball-Bundesliga: Nach Malaria-Infektion: Freiburgs Iri\u00e9 trainiert wieder",
+      "description": "Neuzugang Cyriaque Iri\u00e9 fehlt dem SC Freiburg bereits seit mehreren Wochen. Vor dem Spiel gegen Frankfurt gibt Trainer Julian Schuster ein Update zum Gesundheitszustand des 20-J\u00e4hrigen.",
+      "url": "https://www.tagesspiegel.de/sport/fussball-bundesliga-nach-malaria-infektion-freiburgs-irie-trainiert-wieder-14596499.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14596496/alternates/BASE_16_9_W1400/1760707928000/cyriaque-irie.jpeg",
+      "publishedAt": "2025-10-17 13:32:08",
+      "content": "Offensivspieler Cyriaque Iri\u00e9 vom SC Freiburg befindet sich nach einer Malaria-Infektion weiter auf dem Weg der Besserung. Wie lange der Nationalspieler Burkina Fasos dem Fu\u00dfball-Bundesligisten noch \u2026 [+1233 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.179124",
+      "internal_id": "3e0aace7f03268f1de2c3df7cff6bd0ba8a602f777af4bbcc8b5687bf7952096",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25166,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Fu\u00dfball-Bundesliga: Nach Malaria-Infektion: Freiburgs Iri\u00e9 trainiert wieder",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eFu\u00dfball-Bundesliga\u201c. Lesen Sie jetzt \u201eNach Malaria-Infektion: Freiburgs Iri\u00e9 trainiert wieder\u201c.",
+      "url": "https://www.zeit.de/news/2025-10/17/nach-malaria-infektion-freiburgs-iri-trainiert-wieder",
+      "urlToImage": "https://img.zeit.de/news/2025-10/17/nach-malaria-infektion-freiburgs-iri-trainiert-wieder-image-group/wide__1300x731",
+      "publishedAt": "2025-10-17 13:30:41",
+      "content": "Offensivspieler Cyriaque Iri\u00e9 vom SC Freiburg befindet sich nach einer Malaria-Infektion weiter auf dem Weg der Besserung. Wie lange der Nationalspieler Burkina Fasos dem Fu\u00dfball-Bundesligisten noch \u2026 [+1183 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.159128",
+      "internal_id": "17eabae501c02b0bfa7787e1f368d3cf9853bb63c622f04c4ca1692913196069",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25168,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Fu\u00dfball-Bundesliga: Nach Malaria-Infektion: Freiburgs Iri\u00e9 trainiert wieder",
+      "description": "Neuzugang Cyriaque Iri\u00e9 fehlt dem SC Freiburg bereits seit mehreren Wochen. Vor dem Spiel gegen Frankfurt gibt Trainer Julian Schuster ein Update zum Gesundheitszustand des 20-J\u00e4hrigen.",
+      "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/fussball-bundesliga--nach-malaria-infektion--freiburgs-iri%C3%A9-trainiert-wieder-36140790.html",
+      "urlToImage": "https://image.stern.de/36140792/t/Lv/v1/w1440/r1.7778/-/17--7j3l5blntcv11axs2048jpeg---8adef9701c258273.jpg",
+      "publishedAt": "2025-10-17 13:30:41",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Neuzugang Cyriaque Iri\u00e9 fehlt dem SC Freiburg bereits seit mehreren Wochen. Vor dem Spiel gegen Frankfurt gibt Trainer Julian Schuster ein Update\u2026 [+1384 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.188446",
+      "internal_id": "6aa50201ee2880c1ecce5230be50c1b52ff6abd63bfb79e6e26e498ff4d07938",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25174,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Tonix Pharmaceuticals Holding Corp.",
+      "title": "Tonix Pharmaceuticals Presented Data on TNX-801 Mpox Vaccine at World Vaccine Congress\u2013Europe 2025",
+      "description": "TNX-801 is a live virus vaccine investigational candidate, designed to provide durable protection against mpox and smallpox TNX-801 demonstrated...",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168531/28908/en/Tonix-Pharmaceuticals-Presented-Data-on-TNX-801-Mpox-Vaccine-at-World-Vaccine-Congress-Europe-2025.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/16aad249-3d33-4501-b3d9-118a703fa46e",
+      "publishedAt": "2025-10-17 11:00:00",
+      "content": "TNX-801 is a live virus vaccine investigational candidate, designed to provide durable protection against mpox and smallpox TNX-801 demonstrated favorable safety, immunogenicity, and long-term prote\u2026 [+15682 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.870221",
+      "internal_id": "cc8a0ed8cedaa79b4d28fec9dd94eaae6bf70399b6e10b94e67fd00ee04fa0a0",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25171,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Chikungunya",
+      "description": "The characteristics, symptoms, diagnosis and epidemiology of chikungunya.",
+      "url": "https://www.gov.uk/guidance/chikungunya",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-10-17 09:39:13",
+      "content": "This content was originally produced by Public Health England (PHE). This content is now owned and managed by the UK Health Security Agency (UKHSA). Chikungunya is a mosquito-borne infection. Its an\u2026 [+5393 chars]",
+      "retrievedAt": "2025-10-18 19:05:44.640050",
+      "internal_id": "7bc822c0296f388c9134f09f5d14e90d0fde0bfeead88bf1cb9c818da617dd5c",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25165,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Katharina Loesche",
+      "title": "Measles alert issued for Gold Coast school and bus routes after confirmed case",
+      "description": "Parents are urged to stay vigilant as contact tracing continues and more students may have been exposed.",
+      "url": "https://7news.com.au/news/measles-alert-issued-for-gold-coast-school-and-bus-routes-after-confirmed-case-c-20383703",
+      "urlToImage": "https://images.7news.com.au/publication/C-20383703/3228b42d6230d67357d354c6da4d0775df18965b-16x9-x10y0w1900h1069.jpg?imwidth=1200",
+      "publishedAt": "2025-10-17 09:36:23",
+      "content": "Members of a public primary school are on alert after being exposed to a confirmed case measles. The individual, who recently returned from overseas, visited several locations while unknowingly infe\u2026 [+1379 chars]",
+      "retrievedAt": "2025-10-18 19:05:42.863747",
+      "internal_id": "607dd0ee30accd430f89976df6369079f8e22274923d150b696fac02f26e45af",
+      "publishedAtLabel": "Oct 17"
+    },
     {
       "id": 25153,
       "query": [
@@ -17003,150 +17291,6 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24216,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
-      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
-      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
-      "publishedAt": "2025-08-31 18:54:00",
-      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.282608",
-      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24217,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "Felipe Moreira",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2025-08-31 18:52:00",
-      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.291263",
-      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24215,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
-      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
-      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2025-08-31 18:38:53",
-      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
-      "retrievedAt": "2025-09-01 19:05:45.273549",
-      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24218,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mediaite",
-      "author": "Joe DePaolo",
-      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
-      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
-      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
-      "publishedAt": "2025-08-31 13:11:27",
-      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
-      "retrievedAt": "2025-09-01 19:05:46.945270",
-      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24213,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
-      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
-      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
-      "publishedAt": "2025-08-31 11:59:00",
-      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
-      "retrievedAt": "2025-09-01 19:05:43.746441",
-      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24219,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haberturk.com",
-      "author": "Merve Elmac\u0131",
-      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
-      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
-      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
-      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
-      "publishedAt": "2025-08-31 09:34:24",
-      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
-      "retrievedAt": "2025-09-01 19:05:47.849568",
-      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24221,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Maia Davies",
-      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
-      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
-      "publishedAt": "2025-08-31 09:10:53",
-      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
-      "retrievedAt": "2025-09-02 07:07:38.870344",
-      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 24214,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
-      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
-      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
-      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
-      "publishedAt": "2025-08-31 09:00:00",
-      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
-      "retrievedAt": "2025-09-01 19:05:43.936620",
-      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
