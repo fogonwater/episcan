@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-10-17 19:06
-- **Most recent article:** 2025-10-16 18:10:21
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-10-18 07:06
+- **Most recent article:** 2025-10-17 06:00:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 43 | 39 | 54 | 34 | 31 | 29 | 23 | 253 |
-| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 25 | 157 |
+| measles | 44 | 39 | 54 | 34 | 31 | 29 | 27 | 258 |
+| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 26 | 158 |
 | dengue | 16 | 24 | 26 | 18 | 32 | 23 | 16 | 155 |
-| malaria | 12 | 18 | 10 | 15 | 10 | 20 | 19 | 104 |
-| mpox | 57 | 7 | 5 | 8 | 1 | 10 | 2 | 90 |
-| rabies | 8 | 5 | 14 | 18 | 10 | 6 | 4 | 65 |
-| h5n1 | 16 | 6 | 9 | 5 | 10 | 8 | 7 | 61 |
+| malaria | 13 | 18 | 10 | 15 | 10 | 20 | 19 | 105 |
+| mpox | 58 | 7 | 5 | 8 | 1 | 10 | 3 | 92 |
+| rabies | 9 | 5 | 14 | 18 | 10 | 6 | 6 | 68 |
+| h5n1 | 19 | 6 | 9 | 5 | 10 | 8 | 7 | 64 |
+| meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 3 | 35 |
 | zika | 4 | 6 | 6 | 6 | 5 | 7 | 1 | 35 |
-| meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 2 | 34 |
 | typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 5 | 19 |
 | leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 3 | 14 |
 | hpai | 1 | 4 | 1 | 1 | 2 | 1 | 0 | 10 |
 | yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 2 | 9 |
-| pertussis | 2 | 0 | 2 | 0 | 1 | 2 | 0 | 7 |
+| pertussis | 3 | 0 | 2 | 0 | 1 | 2 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -56,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (rabies)
 
+- [Apa blir tokig i skräckfilmen Primate](https://feber.se/film/apa-blir-tokig-i-skrackfilmen-primate/484459/) (Feber.se)
+
+- [Frederick County seeks man who may have been exposed to rabies](https://www.wusa9.com/article/news/health/frederick-health-officials-looking-man-brought-raccoon-vet-clinic/65-5913245c-606e-453b-b6c4-f5e9a602ad40) (WUSA9.com)
+
 - [Primate trailer: Horror film about a rabies-crazed chimp reaches theatres in January](https://www.joblo.com/primate-trailer/) (JoBlo.com)
 
 - [Mom nearly dies from rabies after stray cat bites her](https://swns.live/stories/182845/) (Swns.live)
@@ -66,17 +70,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (mpox)
 
+- [California mpox cases raise concerns. But health officials say the risk remains low](https://abcnews.go.com/US/wireStory/california-mpox-cases-raise-concerns-health-officials-risk-126596023) (ABC News)
+
 - [California officials confirm 1st US case of severe mpox strain with no travel history](https://abcnews.go.com/Health/california-officials-confirm-1st-us-case-severe-mpox/story?id=126587395) (ABC News)
 
 - [Ölümcül mpox virüsü hızla artıyor! Son bir haftada 26 vaka](https://www.turkiyegazetesi.com.tr/saglik/olumcul-mpox-virusu-hizla-artiyor-son-bir-haftada-26-vaka-1152831) (Turkiyegazetesi.com.tr)
 
 ## 25-42 (meningitis)
 
+- [Neshaminy High School student dies of bacterial meningitis](https://6abc.com/post/neshaminy-high-school-student-dies-bacterial-meningitis/18020679/) (WPVI-TV)
+
 - [Abuso de antibióticos complica tratamiento de neumonías y meningitis por neumococo: expertos](https://www.excelsior.com.mx/salud/abuso-de-antibioticos-complica-tratamiento-de-neumonias-y-meningitis-por-neumococo-expertos) (Excelsior.com.mx)
 
 - [Suspendido un juicio por trata y prostitución al tener que ingresar de urgencia uno de los 7 acusados por un cuadro de meningitis](https://www.abc.es/espana/castilla-la-mancha/suspendido-juicio-trata-prostitucion-valdepenas-tener-ingresar-20251014153138-nt.html) (Www.abc.es)
 
 ## 25-42 (measles)
+
+- [Another Measles Outbreak Leads To 3 Week Quarantine For Over 100 Children](https://www.techdirt.com/2025/10/16/another-measles-outbreak-leads-to-3-week-quarantine-for-over-100-children/) (Techdirt)
+
+- [Measles case reported in Anchorage, health officials say](https://www.alaskasnewssource.com/2025/10/17/measles-case-reported-anchorage-health-officials-say/) (Alaskasnewssource.com)
+
+- [Health officials warn of possible measles exposure in southern Colorado town](https://www.denverpost.com/2025/10/16/measles-la-veta-huerfano-colorado/) (The Denver Post)
+
+- [Health officials send warning after out-of-state visitor with measles travels to Huerfano County](https://krdo.com/news/2025/10/16/health-officials-send-warning-after-out-of-state-visitor-with-measles-travels-to-huerfano-county/) (KRDO)
 
 - [Declining vaccine rates fuel measles outbreak in South Carolina](https://www.cbsnews.com/video/declining-vaccine-rates-fuel-measles-outbreak-in-south-carolina/) (CBS News)
 
@@ -223,6 +239,8 @@ Source: [News API](https://newsapi.org/)
 - [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
+
+- [Újra veszélyes vírus terjed világszerte: egyre több az áldozat](https://www.origo.hu/nagyvilag/2025/10/veszelyes-virus-fertozes-vakcina-szunyog) (Origo.hu)
 
 - [6 things to know about the chikungunya virus and its transmission in the U.S.](https://www.pbs.org/newshour/health/6-things-to-know-about-the-chikungunya-virus-and-its-transmission-in-the-u-s) (PBS)
 
@@ -1872,11 +1890,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
 
+- ['Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise](https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771) (NBC News)
+
 ## 25-36 (pertussis)
 
 - [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
 
 - [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
+
+- [Βρετανία: Μωρό πέθανε από κοκκύτη επειδή η μητέρα του δεν εμβολιάστηκε ενώ ήταν έγκυος](https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/) (Protothema.gr)
 
 ## 25-36 (mpox)
 
@@ -1994,6 +2016,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Gana'da M çiçeği virüsü vakaları artıyor](https://www.hurriyet.com.tr/dunya/ganada-m-cicegi-virusu-vakalari-artiyor-42933931) (Hurriyet.com.tr)
 
+- [İngiltere seyahat uyarısı mı yaptı?](https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890) (Haberturk.com)
+
 ## 25-36 (meningitis)
 
 - [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
@@ -2094,6 +2118,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
 
+- [Baby dies of whooping cough after mother not vaccinated while pregnant](https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o) (BBC News)
+
 ## 25-36 (malaria)
 
 - [Haushaltskürzungen: Entwicklungsministerin sieht Hilfsprogramme durch Kürzungen bedroht](https://www.zeit.de/politik/deutschland/2025-09/entwicklungsministerium-kuerzungen-stellungnahme-reem-alabali) (Die Zeit)
@@ -2119,6 +2145,8 @@ Source: [News API](https://newsapi.org/)
 - [A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467) (Plos.org)
 
 - [Klimaatschommelingen beïnvloeden muggen en spelen cruciale rol in verspreiding van malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/klimaatschommelingen-benvloeden-muggen-en-spelen-cruciale-rol-in-verspreiding-van-malaria/87261233.html) (Nieuwsblad.be)
+
+- [Fox News Anchor Shares Encouraging Update On His ‘Awful’ Bout With Malaria](https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/) (Mediaite)
 
 ## 25-36 (leptospirosis)
 
@@ -2163,6 +2191,12 @@ Source: [News API](https://newsapi.org/)
 - [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
 
 - [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
+
+- [Kitört a halálos vírus, drasztikus lépésre kényszerülnek a hatóságok](https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035) (Portfolio.hu)
+
+- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/) (InfoMoney)
+
+- [Reino Unido confirma surto de gripe aviária H5N1 no sudoeste da Inglaterra](https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html) (Terra.com.br)
 
 ## 25-36 (dengue)
 

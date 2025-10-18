@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-10-17 19:06",
-  "count_articles_total": 931,
-  "count_articles_new": 10,
+  "last_updated": "2025-10-18 07:06",
+  "count_articles_total": 948,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 25153,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Feber.se",
+      "author": "Wille Wilhelmsson",
+      "title": "Apa blir tokig i skr\u00e4ckfilmen Primate",
+      "description": "Typ Cujo fast med en schimpans H\u00e4r kommer trailern till Primate, en kommande slasherfilm d\u00e4r en CGI-schimpans som heter Ben spelar huvudrollen. Handlingen kretsar runt en familj och deras husdjurs-apa Ben som \u00e5ker p\u00e5 semester till Hawaii. V\u00e4l d\u00e4\u2026",
+      "url": "https://feber.se/film/apa-blir-tokig-i-skrackfilmen-primate/484459/",
+      "urlToImage": "https://static.feber.se/article_images/63/22/08/632208.jpg",
+      "publishedAt": "2025-10-17 06:00:00",
+      "content": "Primate Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends barricade in pool, devising ways to surv\u2026 [+145 chars]",
+      "retrievedAt": "2025-10-18 07:06:08.886123",
+      "internal_id": "9244be9fded526314dea13989ae1d7079addb7a22f092967138b1565e5c3913b",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25155,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "Another Measles Outbreak Leads To 3 Week Quarantine For Over 100 Children",
+      "description": "Measles is so back, baby! I know, you had thought we were done talking about this vile disease. After all, the outbreak that started in Texas among communities that are relatively unvaccinated finally slowed down at the tail end of the summer. That came after\u2026",
+      "url": "https://www.techdirt.com/2025/10/16/another-measles-outbreak-leads-to-3-week-quarantine-for-over-100-children/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-10-17 03:00:58",
+      "content": "from the sick-of-this dept Measles is so back, baby! I know, you had thought we were done talking about this vile disease. After all, the outbreak that started in Texas among communities that are re\u2026 [+3074 chars]",
+      "retrievedAt": "2025-10-18 07:06:09.152587",
+      "internal_id": "0188e87d540d394a9b3006ad580973f07d54db58198ba0e85cd34934eaebb961",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25154,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WUSA9.com",
+      "author": "Luke Eggleston",
+      "title": "Frederick County seeks man who may have been exposed to rabies",
+      "description": "The Frederick County Health Department seeks a man exposed to rabies after bringing a rabid raccoon to a clinic. Contact them immediately for treatment.",
+      "url": "https://www.wusa9.com/article/news/health/frederick-health-officials-looking-man-brought-raccoon-vet-clinic/65-5913245c-606e-453b-b6c4-f5e9a602ad40",
+      "urlToImage": "https://media.wusa9.com/assets/WUSA/images/c94d96bc-140f-460f-b263-e05e825d20ac/20250617T104511/c94d96bc-140f-460f-b263-e05e825d20ac_1140x641.jpg",
+      "publishedAt": "2025-10-17 02:19:21",
+      "content": "FREDERICK, Md. The Frederick County Health Department is looking for a man who theyre concerned may have been exposed to rabies when he brought a raccoon to a local veterinarian clinic on Monday, aro\u2026 [+1262 chars]",
+      "retrievedAt": "2025-10-18 07:06:08.905660",
+      "internal_id": "5c9a84b9b176d00962b76f20785eddfe4731ff622d7e629c6ebd443b4db9a763",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25157,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alaskasnewssource.com",
+      "author": "Joey Klecka",
+      "title": "Measles case reported in Anchorage, health officials say",
+      "description": "A positive case of the measles virus was reported in Anchorage earlier this week, the Anchorage Health Department confirmed Thursday.",
+      "url": "https://www.alaskasnewssource.com/2025/10/17/measles-case-reported-anchorage-health-officials-say/",
+      "urlToImage": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/2S2LROO5BRFZ5I77QNW6L2YYWQ.jpg?auth=0b481e004b095b3607f3a7910700b52ee93c51272d759a2a2999f4624201a332&width=1200&height=600&smart=true",
+      "publishedAt": "2025-10-17 01:53:52",
+      "content": "ANCHORAGE, Alaska (KTUU) - A case of the measles virus was reported in Anchorage earlier this week, the Anchorage Health Department confirmed Thursday. The unidentified person who tested positive ar\u2026 [+1614 chars]",
+      "retrievedAt": "2025-10-18 07:06:09.238329",
+      "internal_id": "2627b403f3d0842d55692344b2d6e15bc27e9be98e0703e90ecc8c8a954414d2",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 25156,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Katie Langford",
+      "title": "Health officials warn of possible measles exposure in southern Colorado town",
+      "description": "An out-of-state visitor with measles may have exposed people at a southern Colorado hotel and gas station earlier this week, according to state health officials.",
+      "url": "https://www.denverpost.com/2025/10/16/measles-la-veta-huerfano-colorado/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Vaccination_Rates_27116.jpg?w=1024&h=682",
+      "publishedAt": "2025-10-16 22:00:58",
+      "content": "An out-of-state visitor with a confirmed case of measles may have exposed people at a southern Colorado hotel and gas station earlier this week, according to state and Huerfano County health official\u2026 [+1295 chars]",
+      "retrievedAt": "2025-10-18 07:06:09.195928",
+      "internal_id": "3c0378dd4670005208f98731defa6efefef90c3608bec5874702c761f6121d0f",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 25161,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "California mpox cases raise concerns. But health officials say the risk remains low",
+      "description": "Investigators suspect that two Californians diagnosed with mpox may be the first U.S. cases resulting from the local spread of a different version of the virus",
+      "url": "https://abcnews.go.com/US/wireStory/california-mpox-cases-raise-concerns-health-officials-risk-126596023",
+      "urlToImage": "https://i.abcnewsfe.com/a/63ce0bfe-0b28-4f9e-b56e-a3f0aba8cc82/wirestory_fef12a2ccb332967fd0a2068bf170049_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-16 21:33:40",
+      "content": "NEW YORK -- NEW YORK (AP) Two Californians diagnosed with mpox may be the first U.S. cases resulting from the local spread of a different version of the virus, health officials said. The Long Beach\u2026 [+3262 chars]",
+      "retrievedAt": "2025-10-18 07:06:10.843678",
+      "internal_id": "293a9b0e584d3e8ac87c4f7f0e73313da1dbeead76706ff18ac97471291d1f2a",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 25158,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KRDO",
+      "author": "Celeste Springer",
+      "title": "Health officials send warning after out-of-state visitor with measles travels to Huerfano County",
+      "description": "HUERFANO COUNTY, Colo. (KRDO) -- The Colorado Department of Public Health and Environment (CDPHE) and the Las Animas-Huerfano Counties District Health",
+      "url": "https://krdo.com/news/2025/10/16/health-officials-send-warning-after-out-of-state-visitor-with-measles-travels-to-huerfano-county/",
+      "urlToImage": "https://krdo.b-cdn.net/2025/10/MGN_1280x720_41115C00-QRCVU.jpg",
+      "publishedAt": "2025-10-16 21:23:22",
+      "content": "HUERFANO COUNTY, Colo. (KRDO) -- The Colorado Department of Public Health and Environment (CDPHE) and the Las Animas-Huerfano Counties District Health Department sent a notification on Thursday that \u2026 [+867 chars]",
+      "retrievedAt": "2025-10-18 07:06:09.255938",
+      "internal_id": "1a71e2a7a83fcd9010f9f746cff75deb79047f763bc279e86a2fa90560e98c7f",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 25159,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Beccah Hendrickson",
+      "title": "Neshaminy High School student dies of bacterial meningitis",
+      "description": "Ryan Duffy, 18, became ill last week with a case of the infectious disease. He was a senior at Neshaminy High School.",
+      "url": "https://6abc.com/post/neshaminy-high-school-student-dies-bacterial-meningitis/18020679/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18020861_101625-wpvi-student-death-430-vid-vid.jpg?w=1600",
+      "publishedAt": "2025-10-16 21:02:26",
+      "content": "LANGHORNE, Pa. (WPVI) -- A high school student in Bucks County died after contracting bacterial meningitis, according to the school district and county health department. Ryan Duffy, 18, became ill \u2026 [+1951 chars]",
+      "retrievedAt": "2025-10-18 07:06:10.060798",
+      "internal_id": "777e59d931320036b3778bb6faa182d6aadfd8b43039334e4915713abf05d4db",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 25160,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "\u00dajra vesz\u00e9lyes v\u00edrus terjed vil\u00e1gszerte: egyre t\u00f6bb az \u00e1ldozat",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/nagyvilag/2025/10/veszelyes-virus-fertozes-vakcina-szunyog",
+      "urlToImage": "https://cdn.origo.hu/2025/10/_DQ2YguGqEtw_255mjP3hbuc1fi2ZcZ2MTwV9Q4IZUw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JjZmM0ODhlODg2ODQwMTdhY2M2NjcxODdmZTUxYzcw.webp",
+      "publishedAt": "2025-10-16 19:10:45",
+      "content": "A vesz\u00e9lyes v\u00edrus, a chikungunya, ism\u00e9t terjedben van, \u00e9s a szak\u00e9rtk szerint komoly kih\u00edv\u00e1st jelenthet a glob\u00e1lis k\u00f6zeg\u00e9szs\u00e9g\u00fcgy sz\u00e1m\u00e1ra. Elssorban tr\u00f3pusi t\u00e9rs\u00e9gekben fordul el a vesz\u00e9lyes v\u00edrus, a\u2026 [+2311 chars]",
+      "retrievedAt": "2025-10-18 07:06:10.664489",
+      "internal_id": "ce55684ed42fd436efc58b6f432cbd50106da89866142c53dd1a2ef4b99339ad",
+      "publishedAtLabel": "Oct 16"
+    },
     {
       "id": 25151,
       "query": [
@@ -16841,6 +17003,150 @@
       "content": "M\u00e9xico cerr\u00f3 el mes de agosto con 7 mil 501 casos de dengue acumulados en lo que va del a\u00f1o, debido a que en una semana se confirmaron 578 contagios. Los estados impactados por esta enfermedad vir\u2026 [+1755 chars]",
       "retrievedAt": "2025-09-02 07:07:40.305236",
       "internal_id": "d08a4e3d8d13c4d8925b710cef89ac8418dc08d63b31ae4ea4c8ba08c517d539",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24216,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kit\u00f6rt a hal\u00e1los v\u00edrus, drasztikus l\u00e9p\u00e9sre k\u00e9nyszer\u00fclnek a hat\u00f3s\u00e1gok",
+      "description": "Magas patogenit\u00e1s\u00fa H5N1 mad\u00e1rinfluenza v\u00edrust mutattak ki egy d\u00e9lnyugat-angliai baromfitelepen, amire a brit hat\u00f3s\u00e1gok azonnali int\u00e9zked\u00e9sekkel reag\u00e1ltak.",
+      "url": "https://www.portfolio.hu/gazdasag/20250831/kitort-a-halalos-virus-drasztikus-lepesre-kenyszerulnek-a-hatosagok-783035",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-halalos-virus-baromfitelep-tiltas-elelmiszerbiztonsag-h5n1-755481.jpg",
+      "publishedAt": "2025-08-31 18:54:00",
+      "content": "Kasza Elliott-tal Emelkedett a portf\u00f3li\u00f3m hozama, egyr\u00e9szt az Altria osztal\u00e9kemel\u00e9se, m\u00e1sr\u00e9szt a nulla hozam\u00fa Walgreens kivezet\u00e9se miatt. Az ut\u00f3bbi nem \u00e9ppen az ide\u00e1lis m\u00f3dszer egy portf\u00f3li\u00f3 hozame\u2026 [+1433 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.282608",
+      "internal_id": "bb49eb7e39d6efb09298c50f64baa6684b75da3dbb809d7875581ec15c3d1323",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24217,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Felipe Moreira",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "V\u00edrus foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra The post Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/05/frangos1ana.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2025-08-31 18:52:00",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.291263",
+      "internal_id": "be461354579c235e8cada85c091ea372ba032ccc3ca3bf84105f257a42ed20bd",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24215,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Reino Unido confirma surto de gripe avi\u00e1ria H5N1 no sudoeste da Inglaterra",
+      "description": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um ...",
+      "url": "https://www.terra.com.br/noticias/reino-unido-confirma-surto-de-gripe-aviaria-h5n1-no-sudoeste-da-inglaterra,ab27312de829a67373361d62b4ca2d77rszosvlw.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-08-31 18:38:53",
+      "content": "O v\u00edrus H5N1 da gripe avi\u00e1ria altamente patog\u00eanica foi confirmado em aves dom\u00e9sticas em um estabelecimento no sudoeste da Inglaterra, informou o governo do Reino Unido neste domingo. Uma zona de pr\u2026 [+232 chars]",
+      "retrievedAt": "2025-09-01 19:05:45.273549",
+      "internal_id": "2c0e77d3123749c9790598c8515486114b5f447b8693159d65cee6dfcd341197",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24218,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Joe DePaolo",
+      "title": "Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria",
+      "description": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \"severe case of malaria.\" The post Fox News Anchor Shares Encouraging Update On His \u2018Awful\u2019 Bout With Malaria first appeared on Me\u2026",
+      "url": "https://www.mediaite.com/media/news/fox-news-anchor-shares-encouraging-update-on-his-awful-bout-with-malaria/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/06/john.jpg",
+      "publishedAt": "2025-08-31 13:11:27",
+      "content": "A Fox News anchor shared an encouraging update on his health days after announcing that he had contracted what he described as a \u201csevere case of malaria.\u201d In a post to X on Sunday morning, Fox News \u2026 [+904 chars]",
+      "retrievedAt": "2025-09-01 19:05:46.945270",
+      "internal_id": "d7330d953af1b7ad5eb8541f36d2087c4a1e6bec57d425b01f56d61ddd88546f",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24213,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039c\u03c9\u03c1\u03cc \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03b1\u03c0\u03cc \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b5\u03bd\u03ce \u03ae\u03c4\u03b1\u03bd \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2",
+      "description": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u039f \u03ba\u03bf\u03ba\u03ba\u03cd\u03c4\u03b7\u03c2, \u03ae \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 pertussis, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c4\u03c4\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bd\u03b5\u03cd\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b5\u03c1\u03b1\u03b3\u03c9\u03b3\u03bf\u03cd\u03c2 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1689355/vretania-moro-pethane-apo-kokkuti-epeidi-i-mitera-tou-den-emvoliastike-eno-itan-eguos/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-07-16/vrefos.jpg",
+      "publishedAt": "2025-08-31 11:59:00",
+      "content": ", 2025. , , , (UKHSA). . , pertussis, , . Alder Hey 11 . 15 . , , , 95% .83,7% MMR (, , ), - (, , , ) 81,4%. , NHS , MMRV MMR. , 2016 (76%), 59% 2024. , 73%, . , .",
+      "retrievedAt": "2025-09-01 19:05:43.746441",
+      "internal_id": "edd048d3b6519b88bb40beebc27923bee63029401b3060c467c6c1cc5709ae36",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Merve Elmac\u0131",
+      "title": "\u0130ngiltere seyahat uyar\u0131s\u0131 m\u0131 yapt\u0131?",
+      "description": "DS\u00d6'n\u00fcn 7 A\u011fustos 2025'te T\u00fcrkiye'de mpox vakas\u0131 tespit edildi\u011fini do\u011frulamas\u0131n\u0131n ard\u0131ndan \u0130ngiltere Ulusal Sa\u011fl\u0131k Servisi, T\u00fcrkiye'ye seyahat edecek vatanda\u015flar\u0131na uyar\u0131da bulundu. DS\u00d6'n\u00fcn payla\u015ft\u0131\u011f\u0131 raporda, s\u00f6z konusu vakan\u0131n yeti\u015fkin bir erkek oldu\u011fu ve y\u2026",
+      "url": "https://www.haberturk.com/ingiltere-seyahat-uyarisi-mi-yapti-3818890",
+      "urlToImage": "https://im.haberturk.com/l/2025/08/31/ver1756633095/3818890/jpg/1200x628",
+      "publishedAt": "2025-08-31 09:34:24",
+      "content": "ngiliz Exprress gazetesinin haberine g\u00f6re, D\u00fcnya Salk \u00d6rg\u00fct\u00fc'n\u00fcn (DS\u00d6) 7 Austos 2025'te T\u00fcrkiye'de mpox (maymun \u00e7i\u00e7ei) vakas tespit edildiini dorulamasnn ardndan ngiltere'nin Ulusal Salk Hizmetleri'n\u2026 [+817 chars]",
+      "retrievedAt": "2025-09-01 19:05:47.849568",
+      "internal_id": "e282c31e28c42c97b6d601fb8db91cbdbc6ab9a0a2bcbbb59d42e4f573959678",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24221,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Maia Davies",
+      "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
+      "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xe5l4mn5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
+      "publishedAt": "2025-08-31 09:10:53",
+      "content": "The health agency and ministers have recently warned of declining vaccine uptake among children. Last year, the share of five-year-olds who had received one dose of the MMR (measles, mumps and rubel\u2026 [+958 chars]",
+      "retrievedAt": "2025-09-02 07:07:38.870344",
+      "internal_id": "f078d789d8e96c2159ff277eed625929b1a7870c9a9807c561d53ad8b5df57d9",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 24214,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Marina Kopf, Linda Carroll, Anne Thompson",
+      "title": "'Oh, my, gosh, they would never have known:' New warnings about rabies outbreaks as cases rise",
+      "description": "As cases of rabies spread in the wild, experts warn that the risk to people and pets also grows.",
+      "url": "https://www.nbcnews.com/health/health-news/rabies-outbreaks-rising-us-deaths-vaccine-rcna227771",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-Racoon-ew-1155a-410f5e.jpg",
+      "publishedAt": "2025-08-31 09:00:00",
+      "content": "Six deaths from rabies have been reported over the last 12 months in the U.S., the highest number in years, according to the Centers for Disease Control and Prevention. From rabid skunks in Kentucky \u2026 [+7160 chars]",
+      "retrievedAt": "2025-09-01 19:05:43.936620",
+      "internal_id": "2a25a74933aeba190eaad643934f5bb7a8d99dad3f30fdd0f51412c35eda39f0",
       "publishedAtLabel": "Aug 31"
     }
   ]
