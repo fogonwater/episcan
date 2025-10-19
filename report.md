@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-10-18 19:05
-- **Most recent article:** 2025-10-17 18:50:41
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-10-19 07:06
+- **Most recent article:** 2025-10-18 06:00:11
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-36 | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 43 | 39 | 54 | 34 | 31 | 29 | 30 | 260 |
-| chikungunya | 18 | 18 | 38 | 23 | 25 | 10 | 27 | 159 |
-| dengue | 16 | 24 | 26 | 18 | 32 | 23 | 16 | 155 |
-| malaria | 12 | 18 | 10 | 15 | 10 | 20 | 24 | 109 |
-| mpox | 57 | 7 | 5 | 8 | 1 | 10 | 8 | 96 |
-| rabies | 8 | 5 | 14 | 18 | 10 | 6 | 7 | 68 |
-| h5n1 | 16 | 6 | 9 | 5 | 10 | 8 | 7 | 61 |
-| meningitis | 5 | 6 | 6 | 3 | 7 | 5 | 3 | 35 |
-| zika | 4 | 6 | 6 | 6 | 5 | 7 | 1 | 35 |
-| typhoid | 2 | 4 | 1 | 3 | 0 | 4 | 5 | 19 |
-| leptospirosis | 2 | 1 | 0 | 2 | 5 | 1 | 4 | 15 |
-| hpai | 1 | 4 | 1 | 1 | 2 | 1 | 0 | 10 |
-| yersinia | 2 | 4 | 0 | 1 | 0 | 0 | 2 | 9 |
-| pertussis | 2 | 0 | 2 | 0 | 1 | 2 | 0 | 7 |
+| Disease | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 37 | 54 | 34 | 31 | 29 | 34 | 219 |
+| chikungunya | 17 | 38 | 23 | 25 | 10 | 27 | 140 |
+| dengue | 23 | 26 | 18 | 32 | 23 | 17 | 139 |
+| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 96 |
+| rabies | 5 | 14 | 18 | 10 | 6 | 7 | 60 |
+| h5n1 | 6 | 9 | 5 | 10 | 8 | 7 | 45 |
+| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 42 |
+| meningitis | 6 | 6 | 3 | 7 | 5 | 4 | 31 |
+| zika | 6 | 6 | 6 | 5 | 7 | 1 | 31 |
+| typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 17 |
+| leptospirosis | 1 | 0 | 2 | 5 | 1 | 4 | 13 |
+| hpai | 4 | 1 | 1 | 2 | 1 | 0 | 9 |
+| yersinia | 4 | 0 | 1 | 0 | 0 | 2 | 7 |
+| pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -72,6 +72,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (mpox)
 
+- [Officials announce first known cases of severe Mpox strain spreading in US, raising alarm over local transmission in Los Angeles County](https://economictimes.indiatimes.com/news/international/us/officials-announce-first-known-cases-of-severe-mpox-strain-spreading-in-us-raising-alarm-over-local-transmission-in-los-angeles-county/articleshow/124657048.cms) (The Times of India)
+
+- [First mpox cases with no travel history found in California; officials say risk is low](https://www.wsbtv.com/news/trending/first-mpox-cases-with-no-travel-history-found-california-officials-say-risk-is-low/E7VRRPED3NB7BDJSRQLP3ZOXDU/) (WSB Atlanta)
+
+- [3 Cases of More Severe Mpox Strain Found in California — Here’s What to Know](https://www.kqed.org/news/12060358/mpox-cases-clade-i-southern-california) (KQED)
+
 - [What is mpox as first case in US confirmed without any travel history? How dangerous is it and is there any vaccine?](https://economictimes.indiatimes.com/news/international/us/what-is-mpox-as-first-case-in-us-confirmed-without-any-travel-history-how-dangerous-is-it-and-is-there-any-vaccine/articleshow/124638861.cms) (The Times of India)
 
 - [California Sees 2 Unusual Mpox Cases](https://www.newser.com/story/377021/california-sees-2-unusual-mpox-cases.html) (Newser)
@@ -90,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (meningitis)
 
+- [High school student dies after sudden bacterial meningitis infection: School district](https://abcnews.go.com/US/pennsylvania-teen-dies-bacterial-meningitis-school-district/story?id=126613243) (ABC News)
+
 - [Neshaminy High School student dies of bacterial meningitis](https://6abc.com/post/neshaminy-high-school-student-dies-bacterial-meningitis/18020679/) (WPVI-TV)
 
 - [Abuso de antibióticos complica tratamiento de neumonías y meningitis por neumococo: expertos](https://www.excelsior.com.mx/salud/abuso-de-antibioticos-complica-tratamiento-de-neumonias-y-meningitis-por-neumococo-expertos) (Excelsior.com.mx)
@@ -97,6 +105,14 @@ Source: [News API](https://newsapi.org/)
 - [Suspendido un juicio por trata y prostitución al tener que ingresar de urgencia uno de los 7 acusados por un cuadro de meningitis](https://www.abc.es/espana/castilla-la-mancha/suspendido-juicio-trata-prostitucion-valdepenas-tener-ingresar-20251014153138-nt.html) (Www.abc.es)
 
 ## 25-42 (measles)
+
+- [Laine died of complications from the measles. Anti-vaxxers turned up at the 12-year-old's funeral](https://www.9news.com.au/national/laine-died-of-complications-from-the-measles-antivaxxers-turned-up-at-the-12yearolds-funeral/42120da3-eaa8-4fbe-8c5f-9189d92a43a0) (9News)
+
+- [Church, school among 3 new measles exposure sites reported in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-update-october-17-9.6943290) (CBC News)
+
+- [Measles detected in wastewater in Marion County, health officials say](https://www.kptv.com/2025/10/17/measles-detected-wastewater-marion-county-health-officials-say/) (KPTV.com)
+
+- [South Carolina measles outbreak grows to 15 cases: Health officials](https://abcnews.go.com/US/south-carolina-measles-outbreak-grows-15-cases-health/story?id=126612574) (ABC News)
 
 - [Frustration grows amid measles outbreak quarantines across several states](https://www.nbcnews.com/health/health-news/measles-outbreak-frustration-quarantines-ohio-south-carolina-rcna237947) (NBC News)
 
@@ -235,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 - [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
 
 ## 25-42 (dengue)
+
+- [La dictadura oculta el alcance de la crisis sanitaria por dengue en Cuba: "Muchos casos se quedan sin validar"](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-18/la-dictadura-oculta-el-alcance-de-la-crisis-sanitaria-por-dengue-en-cuba-muchos-casos-se-quedan-sin-validar-7308887/) (Libertaddigital.com)
 
 - [Qué es el dengue: síntomas, tratamiento y prevención](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-10-16/que-es-el-dengue-sintomas-tratamiento-y-prevencion-7308673/) (Libertaddigital.com)
 
@@ -1724,10 +1742,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Are Dog Vaccines Safe? Here’s What You Need To Know.](https://www.huffpost.com/entry/dogs-vaccination-hesitancy_l_68b9e05ce4b041ed82bdead7) (HuffPost)
 
-- [Health officials confirm first measles case in Grand County](https://www.ksl.com/article/51371310/health-officials-confirm-first-measles-case-in-grand-county) (KSL.com)
-
-- [I think our surgeon general is following RFK on vaccine mandates for political ambition and power, not Florida’s health](https://www.newsbreak.com/share/4218563229597-i-think-our-surgeon-general-is-following-rfk-on-vaccine-mandates-for-political-ambition-and-power-not-florida-s-health?s=a2&amp;share_destination_id=MjYzMDM5ODI1LTE3NTcyMDk0NzE4NDE%3D&amp;pd=0Hngfp8F&amp;hl=en_US&amp;send_time=1757209471&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.34.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_android_comment_share_v3-v3) (Newsbreak.com)
-
 ## 25-37 (malaria)
 
 - [Parigi Moutong extends malaria outbreak alert status until Feb](https://en.antaranews.com/news/379781/parigi-moutong-extends-malaria-outbreak-alert-status-until-feb) (Antaranews.com)
@@ -1763,8 +1777,6 @@ Source: [News API](https://newsapi.org/)
 - [The resurgence of malaria in Africa is an avoidable crisis—here’s what we must do](https://www.bmj.com/content/390/bmj.r1874) (The BMJ)
 
 - [Malaria, intermarriage linked to high prevalence of sickle cell disease in Nyanza](https://www.standardmedia.co.ke/health/health-science/article/2001528850/malaria-intermarriage-linked-to-high-prevalence-of-sickle-cell-disease-in-nyanza) (Standard Digital)
-
-- [Studie zu Eisenmangel und Infektionen](https://tirol.orf.at/stories/3320671/) (Tirol.orf.at)
 
 ## 25-37 (leptospirosis)
 
@@ -1842,8 +1854,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
 
-- [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
-
 ## 25-37 (chikungunya)
 
 - [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
@@ -1879,409 +1889,3 @@ Source: [News API](https://newsapi.org/)
 - [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
 
 - [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
-
-- [Bangladesh battles rising tide of dengue and chikungunya](https://www.thestar.com.my/news/world/2025/09/07/bangladesh-battles-rising-tide-of-dengue-and-chikungunya) (The Star Online)
-
-## 25-36 (zika)
-
-- [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
-
-- [Community deployment of metofluthrin emanators to control indoor Aedes aegypti: Efficacy results from a crossover trial in Yucatan, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012883) (Plos.org)
-
-- [Produkują komary, żeby zastąpić szczepionki. Serio, fabryka już działa](https://spidersweb.pl/2025/09/brazylia-komary-zamiast-szczepionki.html) (Spidersweb.pl)
-
-- [How Are Health Data Priced? Why Health Data Are Like Zika Prevention Programs](https://www.forbes.com/sites/sethjoseph/2025/09/02/how-are-health-data-priced-why-health-data-are-like-zika-prevention-programs/) (Forbes)
-
-## 25-36 (yersinia)
-
-- [بیماری مرگبار «طاعون ژوستینین» و اثر آن بر امپراتوری بیزانس و شاهنشاهی ساسانی | چگونه DNA قدیمی منبع آن را آشکار کرد؟](https://www.1pezeshk.com/archives/2025/09/justinian-plague-dna-discovery.html) (1pezeshk.com)
-
-- [Bin 500 yıllık sır çözüldü: Dünyanın ilk pandemisine yol açan bakteri bulundu](https://anlatilaninotesi.com.tr/20250901/bin-500-yillik-sir-cozuldu-dunyanin-ilk-pandemisine-yol-acan-bakteri-bulundu-1098990282.html) (Anlatilaninotesi.com.tr)
-
-## 25-36 (typhoid)
-
-- [Public health is worse off under county governments](https://www.standardmedia.co.ke/opinion/article/2001528602/public-health-is-worse-off-under-county-governments) (Standard Digital)
-
-- [Unposted Health Officers demand urgent posting to curb typhoid](https://citinewsroom.com/2025/09/unposted-health-officers-demand-urgent-posting-to-curb-typhoid/) (Citinewsroom.com)
-
-## 25-36 (rabies)
-
-- [Analysis of predictors of rabies-positive biting animals in Cambodia using spatio-temporal Bayesian regression modelling](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013478) (Plos.org)
-
-- [Deadly rabies cases pose public health threat across US, experts warn](https://www.foxnews.com/health/deadly-rabies-cases-pose-public-health-threat-across-us-experts-warn) (Fox News)
-
-- [Rabies infections are increasing in wild animals — should you worry?](https://www.foxnews.com/health/rabies-infections-increasing-wild-animals-should-you-worry) (Fox News)
-
-- [Florida Proud to Announce it’s Done Caring About Public Health](https://www.jezebel.com/florida-proud-to-announce-its-done-caring-about-public-health) (Jezebel)
-
-- [Will the rabies vaccine make Snoopy autistic?](https://www.lawyersgunsmoneyblog.com/2025/09/will-the-rabies-vaccine-make-snoopy-autistic) (Lawyersgunsmoneyblog.com)
-
-- [Rabies Cases Are Rising in More Than a Dozen Areas](https://www.newser.com/story/374427/rabies-cases-are-rising-in-more-than-a-dozen-areas.html) (Newser)
-
-- [Rabies Cases Rise In U.S.](https://www.shtfplan.com/headline-news/rabies-cases-rise-in-u-s) (Shtfplan.com)
-
-- [Outbreaks of rabies seem to be rising across the U.S., CDC surveillance shows (NBC News)](https://www.memeorandum.com/250831/p102) (Memeorandum.com)
-
-## 25-36 (pertussis)
-
-- [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
-
-- [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
-
-## 25-36 (mpox)
-
-- [OMS anunță sfârșitul urgenței sanitare internaționale cauzate de MPOX](https://www.mediafax.ro/stirile-zilei/oms-anunta-sfarsitul-urgentei-sanitare-internationale-cauzate-de-mpox-23606692) (Mediafax.ro)
-
-- [La OMS declara el fin del mpox como urgencia de salud pública internacional](https://www.excelsior.com.mx/global/mpox-oms-fin-emergencia-sanitaria/1737798) (Excelsior.com.mx)
-
-- [WHO chief says mpox outbreak in Africa is no longer a global health emergency](https://www.pbs.org/newshour/health/who-chief-says-mpox-outbreak-in-africa-is-no-longer-a-global-health-emergency) (PBS)
-
-- [La OMS levanta la emergencia sanitaria por la mpox, previamente conocida como 'viruela del mono'](https://www.elperiodico.com/es/sociedad/20250905/oms-levanta-emergencia-sanitaria-mpox-121284026) (Elperiodico.com)
-
-- [El mpox deja de ser una emergencia mundial de salud, anuncia la OMS](https://www.dw.com/es/el-mpox-deja-de-ser-una-emergencia-mundial-de-salud-anuncia-la-oms/a-73900892) (DW (English))
-
-- [WHO says mpox no longer a global public health emergency](https://www.thestar.com.my/news/world/2025/09/06/who-says-mpox-no-longer-a-global-public-health-emergency) (The Star Online)
-
-- [Mpox deixou de ser emergência internacional de saúde pública](https://observador.pt/2025/09/05/oms-anuncia-que-mpox-deixou-de-ser-uma-emergencia-internacional-de-saude-publica/) (Observador.pt)
-
-- [ВОЗ сняла статус ЧС в связи с распространением оспы обезьян](https://life.ru/p/1786863) (Life.ru)
-
-- [Mpox no longer international health emergency but remains concern in Africa](https://www.aljazeera.com/news/2025/9/5/mpox-no-longer-international-health-emergency-but-remains-concern-in-africa) (Al Jazeera English)
-
-- [WHO Chief Lifts Global Mpox Emergency](https://www.ibtimes.com/who-chief-lifts-global-mpox-emergency-3782626) (International Business Times)
-
-- [Mpox: Ο ΠΟΥ κηρύσσει το τέλος της διεθνούς έκτακτης ανάγκης για τη δημόσια υγεία](https://dialogos.com.cy/mpox-o-poy-kiryssei-to-telos-tis-diethnoys-ektaktis-anagkis-gia-ti-dimosia-ygeia/) (Dialogos.com.cy)
-
-- [WHO chief lifts global mpox emergency](https://www.digitaljournal.com/world/who-chief-lifts-global-mpox-emergency/article) (Digital Journal)
-
-- [OMS levanta la emergencia sanitaria internacional por la mpox ante el descenso de casos](https://forbes.com.mx/oms-levanta-la-emergencia-sanitaria-internacional-por-la-mpox-ante-el-descenso-de-casos/) (Forbes.com.mx)
-
-- [Virus Mpox (Vaiolo delle scimmie), 7 contagiati in Friuli: infettata famiglia con tre adulti e due bambini](https://www.ilfattoquotidiano.it/2025/09/05/virus-mpox-vaiolo-delle-scimmie-7-contagiati-in-friuli-infettata-famiglia-con-tre-adulti-e-due-bambini/8117157/) (Ilfattoquotidiano.it)
-
-- [ВОЗ отменяет чрезвычайную ситуацию из-за оспы обезьян](https://korrespondent.net/world/4813548-voz-otmeniaet-chrezvychainuui-sytuatsyui-yz-za-ospy-obezian) (Korrespondent.net)
-
-- [ВООЗ скасовує надзвичайну ситуацію через віспу мавп](https://ua.korrespondent.net/world/4813548-vooz-skasovuie-nadzvychainu-sytuatsiui-cherez-vispu-mavp) (Korrespondent.net)
-
-- [Mpox nu mai este considerată o urgență globală de sănătate publică. OMS avertizează însă că boala rămâne un risc](http://hotnews.ro/mpox-nu-mai-este-considerata-o-urgenta-globala-de-sanatate-publica-oms-avertizeaza-insa-ca-boala-ramane-un-risc-2059999) (Hotnews.ro)
-
-- [Face au recul des cas, le mpox n'est plus considéré comme une urgence de santé internationale, annonce le chef de l'OMS](https://www.franceinfo.fr/sante/maladie/variole-du-singe/face-au-recul-des-cas-le-mpox-n-est-plus-considere-comme-une-urgence-de-sante-internationale-annonce-le-chef-de-l-oms_7475170.html) (Franceinfo.fr)
-
-- [OMS levanta emergencia sanitaria por Mpox ante descenso de casos registrados](https://www.milenio.com/internacional/ante-baja-casos-mpox-oms-pone-fin-a-alerta-sanitaria-internacional) (Milenio)
-
-- [Le mpox n’est plus une urgence de santé internationale, annonce l’OMS](https://www.lexpress.fr/monde/afrique/le-mpox-nest-plus-une-urgence-de-sante-internationale-annonce-loms-5DYHIH2CYZGDRL6XNPHX2NS45I/) (L'Express)
-
-- [WHO erklärt internationale Notlage wegen Mpox für beendet](https://www.tagesschau.de/wissen/mpox-aufhebung-notlage-100.html) (tagesschau.de)
-
-- [Mpox deixa de ser emergência de saúde global, diz chefe da OMS](https://valor.globo.com/mundo/noticia/2025/09/05/mpox-deixa-de-ser-emergncia-de-sade-global-diz-chefe-da-oms.ghtml) (Globo)
-
-- [WHO hebt höchste Alarmstufe für Infektionskrankheit Mpox auf](https://www.stern.de/news/who-hebt-hoechste-alarmstufe-fuer-infektionskrankheit-mpox-auf-36032700.html) (STERN.de)
-
-- [Mpox niet langer een internationale medische noodtoestand, zegt WHO](https://www.nieuwsblad.be/buitenland/mpox-niet-langer-een-internationale-medische-noodtoestand-zegt-who/88528473.html) (Nieuwsblad.be)
-
-- [WHO afblæser global krise fra udbrud af sygdommen mpox](https://politiken.dk/internationalt/art10538156/WHO-afbl%C3%A6ser-global-krise-fra-udbrud-af-sygdommen-mpox) (Politiken.dk)
-
-- [Mpox deixa de ser emergência de saúde internacional, diz chefe da OMS](https://www.terra.com.br/noticias/mundo/mpox-deixa-de-ser-emergencia-de-saude-internacional-diz-chefe-da-oms,abe6ff7a08b7abe0d44f5c956d0b94d5xlum725x.html) (Terra.com.br)
-
-- [WHO chief lifts global mpox emergency](https://www.channelnewsasia.com/world/world-health-organization-lift-global-mpox-emergency-5335056) (CNA)
-
-- [WHO: Mpox udgør ikke længere en global sundhedskrise](https://www.dr.dk/nyheder/seneste/who-mpox-udgoer-ikke-laengere-en-global-sundhedskrise) (Www.dr.dk)
-
-- [WHO chief lifts global mpox emergency](https://www.rte.ie/news/2025/0905/1532046-mpox-global-emergency/) (RTE)
-
-- [WHO says mpox outbreak in Africa is no longer a global health emergency](https://abcnews.go.com/Health/wireStory/chief-mpox-outbreak-africa-longer-global-health-emergency-125292011) (ABC News)
-
-- [ВОЗ отменила режим чрезвычайной ситуации по оспе обезьян](https://rg.ru/2025/09/05/voz-otmenila-rezhim-chrezvychajnoj-situacii-po-ospe-obezian.html) (Rg.ru)
-
-- [Mpox : le virus n’est plus une urgence de santé internationale, assure l’Organisation mondiale de la Santé](https://www.liberation.fr/societe/sante/mpox-le-virus-nest-plus-une-urgence-de-sante-internationale-assure-lorganisation-mondiale-de-la-sante-20250905_3RHNEA3WD5HDLOY4MXYBSFR5FM/) (Libération)
-
-- [WHO chief says the mpox outbreak in Africa is no longer a global health emergency](https://www.bostonherald.com/2025/09/05/who-chief-mpox-outbreak-update/) (Boston Herald)
-
-- [WHO Chief Lifts Mpox International Health Emergency](https://www.channelstv.com/2025/09/05/who-chief-lifts-mpox-international-health-emergency/) (Channels Television)
-
-- [Ο ΠΟΥ αποσύρει τον συναγερμό για την ευλογιά των πιθήκων - Δεν αποτελεί πλέον παγκόσμια υγειονομική έκτακτη ανάγκη](https://www.protothema.gr/world/article/1692041/o-pou-aposurei-ton-sunagermo-gia-tin-eulogia-ton-pithikon-den-apotelei-pleon-pagosmia-ugeionomiki-ektakti-anagi/) (Protothema.gr)
-
-- [Le mpox n’est plus une urgence de santé internationale, annonce le chef de l’OMS](https://www.nouvelobs.com/monde/20250905.OBS107364/le-mpox-n-est-plus-une-urgence-de-sante-internationale-annonce-le-chef-de-l-oms.html) (L'Obs)
-
-- [ΠΟΥ: Η νόσος Mpox δεν αποτελεί πλέον έκτακτη ανάγκη διεθνούς εμβέλειας](https://www.skai.gr/news/health/o-pou-anakoinose-oti-i-nosos-mpox-den-einai-pleon-ektakti-diethnis-anagki) (Skai.gr)
-
-- [Internationale Notlage aufgehoben](https://science.orf.at/stories/3231909/) (Science.orf.at)
-
-- [Vaccination strategies to achieve outbreak control for MPXV Clade I with a one-time mass campaign in sub-Saharan Africa: A scenario-based modelling study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004726) (Plos.org)
-
-- [ВОЗ сняла режим ЧС международного значения по оспе обезьян](https://tass.ru/obschestvo/24977593) (Tass.ru)
-
-- [WHO: Mpox utgör inte längre hälsokris](https://www.aftonbladet.se/nyheter/a/LM2Aq9/who-mpox-utgor-inte-langre-halsokris) (Aftonbladet.se)
-
-- [Le mpox n’est plus une urgence de santé internationale](https://www.lavenir.net/actu/societe/sante/2025/09/05/le-mpox-nest-plus-une-urgence-de-sante-internationale-5AXMUK3ETNHVRB4TSHA5NIUVE4/) (Lavenir.net)
-
-- [El aviso de la OMS a todo el mundo: a partir de ahora, se pone fin a la emergencia sanitaria internacional declarada por esta enfermedad temida del pasado](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13532726/09/25/el-aviso-de-la-oms-a-todo-el-mundo-a-partir-de-ahora-se-pone-fin-a-la-emergencia-sanitaria-internacional-declarada-por-esta-enfermedad-temida-del-pasado.html) (Eleconomista.es)
-
-- [Mpox no longer an international health emergency, says WHO chief](https://www.thestar.com.my/news/world/2025/09/05/mpox-no-longer-an-international-health-emergency-says-who-chief) (The Star Online)
-
-- [Infektionskrankheit: Weltgesundheitsorganisation hebt Notlage wegen Mpox auf](https://www.zeit.de/gesundheit/2025-09/mpox-weltgesundheitsorganisation-notlage) (Die Zeit)
-
-- [Mpox er ikke lenger en internasjonal helsekrise](https://www.nrk.no/nyheter/mpox-er-ikke-lenger-en-internasjonal-helsekrise--1.17557633) (NRK)
-
-- [Mpox no longer an international health emergency, says WHO chief](https://economictimes.indiatimes.com/news/international/world-news/mpox-no-longer-an-international-health-emergency-says-who-chief/articleshow/123721562.cms) (The Times of India)
-
-- [Krankheiten: Internationale Notlage wegen Mpox aufgehoben](https://www.tagesspiegel.de/wissen/krankheiten-internationale-notlage-wegen-mpox-aufgehoben-14283953.html) (Der Tagesspiegel)
-
-- [Krankheiten: Internationale Notlage wegen Mpox aufgehoben](https://www.zeit.de/news/2025-09/05/internationale-notlage-wegen-mpox-aufgehoben) (Die Zeit)
-
-- [Krankheiten: Internationale Notlage wegen Mpox aufgehoben](https://www.stern.de/panorama/wissen/krankheiten--internationale-notlage-wegen-mpox-aufgehoben-36032420.html) (STERN.de)
-
-- [Mpox deaths near 2,000 in Africa since 2024 amid recent decline in cases: Africa CDC](https://www.thestar.com.my/news/world/2025/09/05/mpox-deaths-near-2000-in-africa-since-2024-amid-recent-decline-in-cases-africa-cdc) (The Star Online)
-
-- [Vaiolo delle scimmie, sette persone contagiate in Fvg](https://www.ansa.it/friuliveneziagiulia/notizie/2025/09/04/vaiolo-delle-scimmie-sette-persone-contagiate-in-fvg_e9681518-9a08-4416-b1ee-b5868c002a9f.html) (ANSA.it)
-
-- [Vaiolo delle scimmie, sette persone contagiate in Fvg](https://www.ansa.it/sito/notizie/cronaca/2025/09/04/vaiolo-delle-scimmie-sette-persone-contagiate-in-fvg_ac7f1fe1-62a1-47c2-bd98-3db55bf2fa7a.html) (ANSA.it)
-
-- [Mpox se dispara 860% en México: AHF alerta en día mundial de la salud sexual](https://www.milenio.com/ciencia-y-salud/mpox-dispara-860-mexico-alerta-ahf) (Milenio)
-
-- [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
-
-- [Whatever happened to mpox? Is it still a threat?](https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa) (NPR)
-
-- [Gana'da M çiçeği virüsü vakaları artıyor](https://www.hurriyet.com.tr/dunya/ganada-m-cicegi-virusu-vakalari-artiyor-42933931) (Hurriyet.com.tr)
-
-## 25-36 (meningitis)
-
-- [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
-
-- [Why growing mosquito numbers are driving the spread of tropical diseases in Europe](https://www.irishtimes.com/world/europe/2025/09/06/new-normal-climate-change-mosquitoes-and-the-rise-of-tropical-diseases-in-europe/) (The Irish Times)
-
-- [Christchurch teen falls ill with meningococcal meningitis after schools rugby tournament](https://www.nzherald.co.nz/nz/christchurch/christchurch-secondary-school-student-contracts-meningococcal-disease-after-attending-rugby-tournament/EINPONMMG5HDNHCY3PAQRR7CMM/) (New Zealand Herald)
-
-- [Listen: As Kids Head Back to School, Parents Sort Out Confusion Over Vaccine Access](https://kffhealthnews.org/news/article/listen-wamu-health-hub-back-to-school-pediatric-vaccine-guidelines-access/) (Kffhealthnews.org)
-
-- [Concern over growing threat posed by infectious meningitis in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001528258/concern-over-growing-threat-posed-by-infectious-meningitis-in-kenya) (Standard Digital)
-
-## 25-36 (measles)
-
-- [Jacksonville measles case from 3 weeks ago confirmed by county health department](https://www.news4jax.com/news/local/2025/09/06/jacksonville-measles-case-from-3-weeks-ago-confirmed-by-county-health-department/) (WJXT News4JAX)
-
-- [What Parents Need To Know About Measles As Kids Head Back To School (Judy Stone/Forbes)](https://www.memeorandum.com/250906/p29) (Memeorandum.com)
-
-- [What Parents Need To Know About Measles As Kids Head Back To School](https://www.forbes.com/sites/judystone/2025/09/06/what-parents-need-to-know-about-measles-as-kids-head-back-to-school/) (Forbes)
-
-- [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://www.news4jax.com/health/2025/09/06/florida-surgeon-general-ladapos-vaccine-mandates-opposition-goes-against-medical-mainstream/) (WJXT News4JAX)
-
-- [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://abcnews.go.com/US/wireStory/florida-surgeon-general-ladapos-vaccine-mandates-opposition-medical-125314689) (ABC News)
-
-- [Florida surgeon general Ladapo's vaccine mandates opposition goes against medical mainstream](https://www.clickondetroit.com/health/2025/09/06/florida-surgeon-general-ladapos-vaccine-mandates-opposition-goes-against-medical-mainstream/) (WDIV ClickOnDetroit)
-
-- [Florida’s Proposed Vaccine Reversal Undermines American Values](https://www.forbes.com/sites/briancastrucci/2025/09/05/floridas-proposed-vaccine-reversal-undermines-american-values/) (Forbes)
-
-- [Coffee Break: Make Polio Great Again, CDC, Institutions and Civilization, and How Animals Emerged](https://www.nakedcapitalism.com/2025/09/coffee-break-make-polio-great-again-cdc-institutions-and-civilization-and-how-animals-emerged.html) (Nakedcapitalism.com)
-
-- [Ministry of Health: Measles patient found on flight from New York to Tel Aviv](https://www.israelnationalnews.com/flashes/665828) (Israelnationalnews.com)
-
-- [People can’t believe Florida wants to get rid of every single school vaccine requirement](https://www.dailydot.com/viral-politics/florida-ending-vaccine-mandates/) (The Daily Dot)
-
-- [The proxy war that will redefine public health in America](https://news.sky.com/story/the-proxy-war-that-will-redefine-public-health-in-america-13425255) (Sky.com)
-
-- [RFK Jr. Says CDC Ordered Scientist to DESTROY Autism Data Linking Measles Vaccine to Black Children in 2002](https://www.thegatewaypundit.com/2025/09/rfk-jr-says-cdc-ordered-scientist-destroy-autism/) (Thegatewaypundit.com)
-
-- [What's next after Florida announced plan to ban vaccine mandates?](https://www.cbsnews.com/news/florida-vaccine-mandates-united-states-measles-polio-mmr/) (CBS News)
-
-- [Measles outbreak and community exposure declared in Vaughan: health agency](https://www.cbc.ca/news/canada/toronto/york-region-vaughan-measles-outbreak-1.7625534) (CBC News)
-
-- [Ontario's top doctor says province needs to modernize vaccine registry, calls for national schedule](https://www.cbc.ca/news/canada/toronto/ontario-top-doctor-says-province-needs-to-modernize-vaccine-registration-1.7625469) (CBC News)
-
-- [RFK Jr. drives a wedge between red and blue states on vaccines (Washington Post)](https://www.memeorandum.com/250904/p81) (Memeorandum.com)
-
-- [Florida Is Dropping All Vaccine Mandates, State’s Surgeon General Says](https://truthout.org/articles/florida-is-dropping-all-vaccine-mandates-states-surgeon-general-says/) (Truthout)
-
-- ['Lies!' Senator calls out RFK Jr. for questioning science behind vaccines](https://www.rawstory.com/robert-f-kennedy-jr-vaccines-2673960458/) (Raw Story)
-
-- [RFK Jr. Says Measles Outbreak Was A “Success”](https://www.shtfplan.com/member-exclusive/rfk-jr-says-measles-outbreak-was-a-success) (Shtfplan.com)
-
-- [Eye Opener: Florida officials announce plans to end childhood vaccine mandates](https://www.cbsnews.com/video/eye-opener-florida-officials-announce-plans-to-end-childhood-vaccine-mandates/) (CBS News)
-
-- [Florida plans to eliminate all child vaccine mandates](https://www.cbsnews.com/video/florida-plans-to-eliminate-all-child-vaccine-mandates/) (CBS News)
-
-- [Florida poised to become the preventable disease capital of the developed world...](https://leiterreports.typepad.com/blog/2025/09/florida-poised-to-become-the-preventable-disease-capitol-of-the-developed-world.html) (Typepad.com)
-
-- [Measles vaccination rates declining in Spokane County as](https://www.khq.com/news/measles-vaccination-rates-declining-in-spokane-county/article_ffe82681-7ecd-4753-87b3-7fed3d5e706a.html) (KHQ Right Now)
-
-- [Florida moves to scrap state school vaccine requirements (Gary Fineout/Politico)](https://www.memeorandum.com/250903/p131) (Memeorandum.com)
-
-- [Florida working to end vaccine mandates](https://www.npr.org/2025/09/03/nx-s1-5527093/florida-working-to-end-vaccine-mandates) (NPR)
-
-- [Ron DeSantis Risks Letting Polio, Measles Spread in Florida Schools (Andrew Perez/Rolling Stone)](https://www.memeorandum.com/250903/p111) (Memeorandum.com)
-
-- [Ron DeSantis Wants to Let Polio, Measles Spread in Florida Schools](http://www.rollingstone.com/politics/politics-news/ron-desantis-florida-vaccines-polio-measles-trump-rfk-jr-1235420987/) (Rolling Stone)
-
-- [Florida Eliminates All Vaccine Requirements for School Children](https://dianeravitch.net/2025/09/03/florida-eliminates-all-vaccine-requirements-for-school-children/) (Dianeravitch.net)
-
-- [Florida Moves to Scrap All State Vaccine Mandates](https://www.newser.com/story/374587/florida-moves-to-scrap-all-state-vaccine-mandates.html) (Newser)
-
-- [Measles spread trending down as Alberta kids head back to the classroom. Will it last?](https://www.cbc.ca/news/canada/calgary/measles-rates-alberta-back-to-school-1.7623165) (CBC News)
-
-- [Florida Surgeon General Says Child Vaccine Rules Akin to 'Slavery'](https://www.newsweek.com/florida-vaccine-mandate-schools-surgeon-general-ron-desantis-2123982) (Newsweek)
-
-- [Florida will move to end all childhood vaccine mandates in the state, Gov. DeSantis says](https://www.cbsnews.com/miami/news/ron-desantis-florida-eliminate-childhood-vaccine-mandates/) (CBS News)
-
-- [Florida Surgeon General Ladapo takes aim at all of the state’s vaccine mandates](https://www.msnbc.com/rachel-maddow-show/maddowblog/florida-surgeon-general-ladapo-takes-aim-states-vaccine-mandates-rcna228838) (MSNBC)
-
-- [Potential measles exposures at Boundary Trails ER, Winkler medical clinic](https://www.cbc.ca/news/canada/manitoba/measles-exposures-aug-28-29-1.7624032) (CBC News)
-
-- [RFK Jr. Boasts About Major Measles Outbreak Response Amid Criticism Over CDC Chaos](https://www.huffpost.com/entry/rfk-jr-praises-cdc-measles-outbreak-response_n_68b80c11e4b06793d89c947c) (HuffPost)
-
-- [Wisconsin health agency starts dashboard tracking measles; 24 cases confirmed](https://www.tmj4.com/news/local-news/wisconsin-health-agency-starts-dashboard-tracking-measles-24-cases-confirmed) (WTMJ-TV)
-
-- [Oconto County up to 24 measles cases; health officials launch dashboard to track outbreak](https://fox11online.com/news/local/oconto-county-up-to-24-measles-cases-health-officials-launch-dashboard-to-track-outbreak-children-vaccine-hospitalization-wisconsin-department-health-services-mmr) (Fox11online.com)
-
-- [Blue States That Sued Kept Most CDC Grants, While Red States Feel Brunt of Trump Clawbacks](https://www.nbcnews.com/health/health-news/blue-states-sued-kept-cdc-grants-red-states-feel-brunt-trump-clawbacks-rcna228618) (NBC News)
-
-- [How the Anti-Vaccine Movement Spreads Doubt and Mistrust](https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust) (Psychology Today)
-
-- [Five additional measles cases reported in Mesa County](https://www.denverpost.com/2025/09/02/measles-colorado-mesa-county/) (The Denver Post)
-
-- [Northeast B.C. measles vaccinations below herd immunity as school resumes, health officials say](https://www.cbc.ca/news/canada/british-columbia/northeast-bc-measles-vaccinations-back-to-school-1.7621231) (CBC News)
-
-- [Listen: As Kids Head Back to School, Parents Sort Out Confusion Over Vaccine Access](https://kffhealthnews.org/news/article/listen-wamu-health-hub-back-to-school-pediatric-vaccine-guidelines-access/) (Kffhealthnews.org)
-
-- [Mum of girl who died from chickenpox welcomes vaccine plan](https://www.bbc.co.uk/news/articles/ce3jx4vlde5o) (BBC News)
-
-## 25-36 (malaria)
-
-- [Haushaltskürzungen: Entwicklungsministerin sieht Hilfsprogramme durch Kürzungen bedroht](https://www.zeit.de/politik/deutschland/2025-09/entwicklungsministerium-kuerzungen-stellungnahme-reem-alabali) (Die Zeit)
-
-- [how to build ai agents](https://www.digitalocean.com/community/questions/how-to-build-ai-agents) (Digitalocean.com)
-
-- [ICMR issues licences to industry partners for 9 breakthrough techs](https://timesofindia.indiatimes.com/india/icmr-issues-licences-to-industry-partners-for-9-breakthrough-techs/articleshow/123709681.cms) (The Times of India)
-
-- [Cadinapyridine sesquiterpene alkaloids from Artemisia annua and in vitro cytotoxicity and antiplasmodial activities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331186) (Plos.org)
-
-- [Tres artículos del ISCIII aportan nuevos datos sobre la bebesiosis, una infección similar a la malaria](https://www.infosalus.com/salud-investigacion/noticia-tres-articulos-isciii-aportan-nuevos-datos-bebesiosis-infeccion-similar-malaria-20250903141003.html) (Infosalus.com)
-
-- [That Millions of Nigerians Under Tinubu Still Die From Preventable Health Conditions Highlights Failure of His Leadership and Empathy](https://parallelfactsnews.com/millions-of-nigerians-under-tinubu-still-die/) (Parallelfactsnews.com)
-
-- [Fox News' John Roberts Shares Health Update After Battling 'Awful' Malaria](https://www.usmagazine.com/celebrity-news/news/john-roberts-gives-update-on-malaria-recovery-at-70/#article) (Us Weekly)
-
-- [Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop](https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop) (Ndtvprofit.com)
-
-- [Rise in malaria and dengue cases in Mumbai in August, shows BMC data; doctors warn of possible surge in leptospirosis cases](https://timesofindia.indiatimes.com/city/mumbai/rise-in-malaria-and-dengue-cases-in-mumbai-in-august-shows-bmc-data-doctors-warn-of-possible-surge-in-leptospirosis-cases/articleshow/123660536.cms) (The Times of India)
-
-- [Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development [Resource/Methodology]](https://genesdev.cshlp.org/content/39/17-18/1106.short?rss=1) (Cshlp.org)
-
-- [A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013467) (Plos.org)
-
-- [Klimaatschommelingen beïnvloeden muggen en spelen cruciale rol in verspreiding van malaria](https://www.nieuwsblad.be/natuur-en-wetenschap/klimaatschommelingen-benvloeden-muggen-en-spelen-cruciale-rol-in-verspreiding-van-malaria/87261233.html) (Nieuwsblad.be)
-
-## 25-36 (leptospirosis)
-
-- [Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop](https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop) (Ndtvprofit.com)
-
-- [Rise in malaria and dengue cases in Mumbai in August, shows BMC data; doctors warn of possible surge in leptospirosis cases](https://timesofindia.indiatimes.com/city/mumbai/rise-in-malaria-and-dengue-cases-in-mumbai-in-august-shows-bmc-data-doctors-warn-of-possible-surge-in-leptospirosis-cases/articleshow/123660536.cms) (The Times of India)
-
-## 25-36 (hpai)
-
-- [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
-
-## 25-36 (h5n1)
-
-- [Определены травы, на 30% подавляющие размножение вирусов гриппа](https://news.mail.ru/society/67769158/) (Mail.ru)
-
-- [Определены травы, на 30% подавляющие размножение вирусов гриппа](https://tass.ru/nauka/24982703) (Tass.ru)
-
-- [Confirmado un caso de gripe aviar en un somormujo en Doñana](https://www.abc.es/espana/andalucia/confirmado-gripe-aviar-somormujo-donana-20250905203628-nts.html) (Www.abc.es)
-
-- [Confirmado un caso aislado de gripe aviar en un somormujo en Doñana, en el término municipal de Aznalcázar (Sevilla)](https://www.europapress.es/andalucia/sevilla-00357/noticia-confirmado-caso-aislado-gripe-aviar-somormujo-donana-termino-municipal-aznalcazar-sevilla-20250905201627.html) (Europapress.es)
-
-- [California Child Infected With H5N1 Bird Flu, Source Unknown](https://www.forbes.com/sites/johndrake/2025/09/05/california-child-infected-with-h5n1-bird-flu-source-unknown/) (Forbes)
-
-- [La gripe aviar llega a las aves de corral de Andalucía: Comunican un foco en una granja de Huelva](https://www.meneame.net/story/gripe-aviar-llega-aves-corral-andalucia-comunican-foco-granja) (Meneame.net)
-
-- [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Child with No Known Exposure — San Francisco, California, December 2024–January 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7433a2.htm) (Cdc.gov)
-
-- [Cat in San Francisco euthanized after latest bird flu infection tied to raw pet food](https://financialpost.com/pmn/cat-in-san-francisco-euthanized-after-latest-bird-flu-infection-tied-to-raw-pet-food) (Financial Post)
-
-- [Un brote de gripe aviar activa las alarmas en Málaga y Sevilla entre críticas a la "dejación de funciones" municipal](https://www.eldiario.es/andalucia/sostenibilidad/brote-gripe-aviar-activa-alarmas-malaga-sevilla-criticas-dejacion-funciones-municipal_1_12576439.html) (Eldiario.es)
-
-- [Groźna choroba wraca do Europy. Wirus atakuje u sąsiada Polski](https://wydarzenia.interia.pl/zagranica/news-grozna-choroba-wraca-do-europy-wirus-atakuje-u-sasiada-polsk,nId,22301954) (Interia.pl)
-
-- [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
-
-- [UK Confirmed A Bird Flu Outbreak](https://www.shtfplan.com/headline-news/uk-confirmed-a-bird-flu-outbreak) (Shtfplan.com)
-
-- [Bird flu scare at Delhi zoo: Avian death toll rises to 12; facility shut indefinitely](https://timesofindia.indiatimes.com/city/delhi/bird-flu-alarm-avian-deaths-continue-in-shut-delhi-zoo/articleshow/123619442.cms) (The Times of India)
-
-- [Bekrefter utbrudd av fugleinfluensa i England](https://www.aftenposten.no/verden/i/vgMj7j/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-soervest-england) (Aftenposten)
-
-- [Storbritannia bekrefter utbrudd av H5N1-fugleinfluensa i Sørvest-England](https://www.nrk.no/nyheter/storbritannia-bekrefter-utbrudd-av-h5n1-fugleinfluensa-i-sorvest-england-1.17549446) (NRK)
-
-- [Governo britânico confirma foco de gripe aviária e determina sacrifício de aves](https://www.terra.com.br/economia/governo-britanico-confirma-foco-de-gripe-aviaria-e-determina-sacrificio-de-aves,0ec80507ba6901e1da59f2c3d5e8be81j6pqsr5t.html) (Terra.com.br)
-
-## 25-36 (dengue)
-
-- [Caso di dengue a Pesaro, disinfestazioni stanotte in zona Loreto](https://www.ansa.it/marche/notizie/2025/09/06/caso-di-dengue-a-pesaro-disinfestazioni-stanotte-in-zona-loreto_9f896dfa-7cc2-4bbe-8380-593e16349aaf.html) (ANSA.it)
-
-- [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
-
-- [Extracellular microbes are required for mosquito development even in the presence of Wolbachia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013481) (Plos.org)
-
-- [Community deployment of metofluthrin emanators to control indoor Aedes aegypti: Efficacy results from a crossover trial in Yucatan, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012883) (Plos.org)
-
-- [Dengue cases triple in Patna in 10 days, urban areas most affected](https://timesofindia.indiatimes.com/city/patna/dengue-cases-triple-in-patna-in-10-days-urban-areas-most-affected/articleshow/123721425.cms) (The Times of India)
-
-- [OMS alerta para falhas na prevenção de doenças](https://observador.pt/2025/09/04/oms-alerta-para-falhas-na-prevencao-de-doencas-transmitidas-por-mosquitos-em-cabo-verde/) (Observador.pt)
-
-- [Dengue cases in Aug this year drop to 13 from 95 in Aug 2024](https://timesofindia.indiatimes.com/city/goa/dengue-cases-in-aug-this-year-drop-to-13-from-95-in-aug-2024/articleshow/123705796.cms) (The Times of India)
-
-- [Adolescente viram Guardiões da Saúde no combate à Dengue em bairro de Porto Alegre](https://www.terra.com.br/noticias/adolescente-viram-guardioes-da-saude-no-combate-a-dengue-em-bairro-de-porto-alegre,0981e4d8e746aca504cf1d2cb157b7c525dlqa9g.html) (Terra.com.br)
-
-- [Caso di febbre Dengue a Porto Santo Stefano](https://www.ansa.it/toscana/notizie/2025/09/04/caso-di-febbre-dengue-a-porto-santo-stefano_24d42fdb-a018-448e-9866-d62d5f59e8a5.html) (ANSA.it)
-
-- [Extreme weather events and dengue in Southeast Asia: A regionally-representative analysis of 291 locations from 1998 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012649) (Plos.org)
-
-- [Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop](https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop) (Ndtvprofit.com)
-
-- [Rise in malaria and dengue cases in Mumbai in August, shows BMC data; doctors warn of possible surge in leptospirosis cases](https://timesofindia.indiatimes.com/city/mumbai/rise-in-malaria-and-dengue-cases-in-mumbai-in-august-shows-bmc-data-doctors-warn-of-possible-surge-in-leptospirosis-cases/articleshow/123660536.cms) (The Times of India)
-
-- [Casos de dengue e chikungunya custaram R$ 1,2 bi ao sistema de saúde](https://www.infomoney.com.br/saude/casos-de-dengue-e-chikungunya-custaram-r-12-bi-ao-sistema-de-saude/) (InfoMoney)
-
-- [Lutte contre la dengue et le chikungunya : lâcher de moustiques stériles imprégnés de larvicide à La Réunion](https://www.actu-environnement.com/ae/news/dengue-chikungunya-lutte-la-reunion-moustiques-insectes-steriles-technique-tid-lachers-46699.php4) (Actu-environnement.com)
-
-- [Exclusive - Nikki Tamboli tests Dengue positive after Dubai trip; says 'I’m already in shock, how did dengue happen?'](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-nikki-tamboli-tests-dengue-positive-after-dubai-trip-says-im-already-in-shock-how-did-dengue-happen/articleshow/123623297.cms) (The Times of India)
-
-- [Reportan nuevos 578 contagios por dengue; suman 7 mil 501 casos en el año](https://www.excelsior.com.mx/nacional/reportan-578-contagios-por-dengue-suman-7-mil-501-casos-en-el-ano/1736504) (Excelsior.com.mx)
-
-## 25-36 (chikungunya)
-
-- [Riadót fújt Oroszország az új kínai járvány miatt](https://www.origo.hu/nagyvilag/2025/09/jarvany-orszorszag-virus) (Origo.hu)
-
-- [Spatio-temporal analysis of the distribution and co-circulation of dengue, chikungunya, and Zika in Medellín, Colombia, from 2013 to 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013470) (Plos.org)
-
-- [Community deployment of metofluthrin emanators to control indoor Aedes aegypti: Efficacy results from a crossover trial in Yucatan, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012883) (Plos.org)
-
-- [Topography and environmental deficiencies are associated with chikungunya virus exposure in urban informal settlements in Salvador, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013477) (Plos.org)
-
-- [À cause du chikungunya, l'Établissement français du sang a dû faire évoluer sa doctrine pour les dons](https://www.franceinfo.fr/sante/maladie/chikungunya/a-cause-du-chikungunya-l-etablissement-francais-du-sang-a-du-faire-evoluer-sa-doctrine-pour-les-dons_7474909.html) (Franceinfo.fr)
-
-- [Plus de 300 cas de chikungunya en métropole depuis cet été, un niveau sans précédent](https://www.lemonde.fr/sante/article/2025/09/03/plus-de-300-cas-de-chikungunya-en-metropole-depuis-cet-ete-un-niveau-sans-precedent_6638807_1651302.html) (Le Monde)
-
-- [Un premier cas autochtone de chikungunya confirmé en Savoie, deux opérations de démoustication réalisées](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/un-premier-cas-autochtone-de-chikungunya-confirme-en-savoie-deux-operations-de-demoustication-realisees-3211016.html) (Franceinfo.fr)
-
-- [Seuchenschutz: "Aus Erregersicht ein Traum"](https://www.zeit.de/2025/38/seuchenschutz-virologie-ueberwachung-vogelgrippe-masern-pandemie) (Die Zeit)
-
-- [Santé. Chikungunya : la barre des 300 cas autochtones franchie cet été en France](https://www.ledauphine.com/sante/2025/09/03/chikungunya-la-barre-des-300-cas-autochtones-franchie-cet-ete-en-france) (Le Dauphiné Libéré)
-
-- [Chikungunya : Ixchiq, le premier vaccin autorisé contre le virus, sur la sellette](https://www.lemonde.fr/planete/article/2025/09/03/chikungunya-ixchiq-le-premier-vaccin-autorise-contre-le-virus-sur-la-sellette_6638496_3244.html) (Le Monde)
-
-- [A 3D-printed cassette coupled with a paper-based aptasensor for advanced diagnosis of chikungunya virus towards commercialization](https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01961c) (Royal Society of Chemistry)
-
-- [Mumbai Sees Rise In Malaria, Dengue In July-August; Gastro, Lepto Cases Drop](https://www.ndtvprofit.com/nation/mumbai-sees-rise-in-malaria-dengue-in-july-august-gastro-lepto-cases-drop) (Ndtvprofit.com)
-
-- [Nel Modenese 104 casi di Chikungunya, anche un bimbo di 9 anni](https://www.ansa.it/emiliaromagna/notizie/2025/09/02/nel-modenese-104-casi-di-chikungunya-anche-un-bimbo-di-9-anni_dc913eb6-8a6d-4dbc-a334-7cd2dbdfe90a.html) (ANSA.it)
-
-- [Casos de dengue e chikungunya custaram R$ 1,2 bi ao sistema de saúde](https://www.infomoney.com.br/saude/casos-de-dengue-e-chikungunya-custaram-r-12-bi-ao-sistema-de-saude/) (InfoMoney)
-
-- [KOMMENTAR - Stechmücken sind vielerorts die gefährlichsten Tiere überhaupt. Das droht auch in Europa](https://www.nzz.ch/meinung/tropische-viren-in-muecken-europa-muss-umdenken-ld.1899333) (Www.nzz.ch)
-
-- [Lutte contre la dengue et le chikungunya : lâcher de moustiques stériles imprégnés de larvicide à La Réunion](https://www.actu-environnement.com/ae/news/dengue-chikungunya-lutte-la-reunion-moustiques-insectes-steriles-technique-tid-lachers-46699.php4) (Actu-environnement.com)
-
-- [CDC Warns of Disease Outbreak In 5 Nations As China Revives COVID-Era Control Measures](https://www.westernjournal.com/cdc-warns-disease-outbreak-5-nations-china-revives-covid-era-control-measures/) (Westernjournal.com)
-
-- [OPS emite alerta sanitaria por chinkungunya y oropouche en América, ¿cómo está Costa Rica?](https://www.nacion.com/el-pais/ops-emite-alerta-sanitaria-por-chinkungunya-y/5XDYJKGNSBAJ7K25CBYWBSGLFM/story/) (Nacion.com)
