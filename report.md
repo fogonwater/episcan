@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-10-19 07:06
-- **Most recent article:** 2025-10-18 06:00:11
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-10-19 19:05
+- **Most recent article:** 2025-10-18 16:27:44
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 37 | 54 | 34 | 31 | 29 | 34 | 219 |
-| chikungunya | 17 | 38 | 23 | 25 | 10 | 27 | 140 |
-| dengue | 23 | 26 | 18 | 32 | 23 | 17 | 139 |
+| measles | 37 | 54 | 34 | 31 | 29 | 35 | 220 |
+| chikungunya | 14 | 38 | 23 | 25 | 10 | 27 | 137 |
+| dengue | 19 | 26 | 18 | 32 | 23 | 18 | 136 |
 | malaria | 17 | 10 | 15 | 10 | 20 | 24 | 96 |
-| rabies | 5 | 14 | 18 | 10 | 6 | 7 | 60 |
-| h5n1 | 6 | 9 | 5 | 10 | 8 | 7 | 45 |
+| rabies | 4 | 14 | 18 | 10 | 6 | 9 | 61 |
+| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 46 |
 | mpox | 7 | 5 | 8 | 1 | 10 | 11 | 42 |
-| meningitis | 6 | 6 | 3 | 7 | 5 | 4 | 31 |
 | zika | 6 | 6 | 6 | 5 | 7 | 1 | 31 |
+| meningitis | 5 | 6 | 3 | 7 | 5 | 4 | 30 |
 | typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 17 |
 | leptospirosis | 1 | 0 | 2 | 5 | 1 | 4 | 13 |
 | hpai | 4 | 1 | 1 | 2 | 1 | 0 | 9 |
-| yersinia | 4 | 0 | 1 | 0 | 0 | 2 | 7 |
+| yersinia | 3 | 0 | 1 | 0 | 0 | 2 | 6 |
 | pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 5 |
 
 
@@ -55,6 +55,10 @@ Source: [News API](https://newsapi.org/)
 - [পাঁচ কোটি লক্ষ্যমাত্রায় দেশে প্রথমবার টাইফয়েডের টিকাদান শুরু](https://www.banglanews24.com/health/news/bd/1610609.details) (Banglanews24.com)
 
 ## 25-42 (rabies)
+
+- [Mumbai: 21-year-old dies of rabies in Ambernath](https://timesofindia.indiatimes.com/city/mumbai/mumbai-21-year-old-dies-of-rabies-in-ambernath/articleshow/124672416.cms) (The Times of India)
+
+- [Over 13,000 animals vaccinated up to September to prevent rabies](https://www.thestar.com.my/news/nation/2025/10/18/over-13000-animals-vaccinated-up-to-september-to-prevent-rabies) (The Star Online)
 
 - [Disparities in Global Rabies Burden from GBD 2021: Children, older adults, and low-SDI countries at continued risk](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013630) (Plos.org)
 
@@ -105,6 +109,8 @@ Source: [News API](https://newsapi.org/)
 - [Suspendido un juicio por trata y prostitución al tener que ingresar de urgencia uno de los 7 acusados por un cuadro de meningitis](https://www.abc.es/espana/castilla-la-mancha/suspendido-juicio-trata-prostitucion-valdepenas-tener-ingresar-20251014153138-nt.html) (Www.abc.es)
 
 ## 25-42 (measles)
+
+- [Links 10/18/2025](https://www.nakedcapitalism.com/2025/10/links-10-18-2025.html) (Nakedcapitalism.com)
 
 - [Laine died of complications from the measles. Anti-vaxxers turned up at the 12-year-old's funeral](https://www.9news.com.au/national/laine-died-of-complications-from-the-measles-antivaxxers-turned-up-at-the-12yearolds-funeral/42120da3-eaa8-4fbe-8c5f-9189d92a43a0) (9News)
 
@@ -236,6 +242,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-42 (h5n1)
 
+- [La Comunidad adopta medidas de protección por la gripe aviar tras detectar tres brotes en apenas un mes](https://www.europapress.es/madrid/noticia-comunidad-adopta-medidas-proteccion-gripe-aviar-detectar-tres-brotes-apenas-mes-20251018121147.html) (Europapress.es)
+
 - [Investigating environmental determinants and spatiotemporal dynamics of highly pathogenic avian influenza H5N1 outbreaks in India through machine learning](https://www.nature.com/articles/s41598-025-96765-2) (Nature.com)
 
 - [Notificado un foco de gripe aviar en una granja con 315.000 aves en la zona restringida en Olmedo (Valladolid)](https://www.europapress.es/castilla-y-leon/noticia-notificado-foco-gripe-aviar-granja-315000-aves-zona-restringida-olmedo-valladolid-20251015195410.html) (Europapress.es)
@@ -251,6 +259,8 @@ Source: [News API](https://newsapi.org/)
 - [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
 
 ## 25-42 (dengue)
+
+- [A 8.400 kilómetros de España se ha inaugurado la mayor fábrica de mosquitos del mundo para combatir el dengue](https://www.huffingtonpost.es/life/salud/a-8400-kilometros-espana-inaugurado-mayor-fabrica-mosquitos-mundo-combatir-denguebr.html) (Huffingtonpost.es)
 
 - [La dictadura oculta el alcance de la crisis sanitaria por dengue en Cuba: "Muchos casos se quedan sin validar"](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-18/la-dictadura-oculta-el-alcance-de-la-crisis-sanitaria-por-dengue-en-cuba-muchos-casos-se-quedan-sin-validar-7308887/) (Libertaddigital.com)
 
@@ -1612,8 +1622,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
-- [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
-
 ## 25-37 (typhoid)
 
 - [Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048) (Plos.org)
@@ -1633,8 +1641,6 @@ Source: [News API](https://newsapi.org/)
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
 
 - [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
-
-- [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
 
@@ -1663,8 +1669,6 @@ Source: [News API](https://newsapi.org/)
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
 
 - [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
-
-- [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
 
@@ -1846,14 +1850,6 @@ Source: [News API](https://newsapi.org/)
 
 - [México abrió el mes de septiembre con 755 contagios de dengue](https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011) (Excelsior.com.mx)
 
-- [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
-
-- [Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms) (The Times of India)
-
-- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
-
-- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
-
 ## 25-37 (chikungunya)
 
 - [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
@@ -1883,9 +1879,3 @@ Source: [News API](https://newsapi.org/)
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
-
-- [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
-
-- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
-
-- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)

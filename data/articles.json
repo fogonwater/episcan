@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-10-19 07:06",
-  "count_articles_total": 791,
-  "count_articles_new": 9,
+  "last_updated": "2025-10-19 19:05",
+  "count_articles_total": 788,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25187,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pradeep Gupta",
+      "title": "Mumbai: 21-year-old dies of rabies in Ambernath",
+      "description": "Thane: In a tragic incident from Ambernath, a 21-year-old youth, identified as Aman Kori, a resident of Ambernath died of rabies two months after bein.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-21-year-old-dies-of-rabies-in-ambernath/articleshow/124672416.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124672415,width-1070,height-580,imgsize-6820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-10-18 16:27:44",
+      "content": "News Mumbai: 21-year-old dies of rabies in Ambernath Follow Us On Social Media School principal killed, kin hurt in attack over land disputeViral: Trump compliments Zele\u2026 [+1648 chars]",
+      "retrievedAt": "2025-10-19 19:05:49.832159",
+      "internal_id": "4ea48fa6c0adba298c21774bbfffcc212817feca85584f5eea363f4b3e03b58d",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 25191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "A 8.400 kil\u00f3metros de Espa\u00f1a se ha inaugurado la mayor f\u00e1brica de mosquitos del mundo para combatir el dengue",
+      "description": "Brasil acaba de poner en marcha la mayor f\u00e1brica de mosquitos del planeta, una instalaci\u00f3n que produce millones de insectos cada semana con un objetivo poco habitual: detener la propagaci\u00f3n del dengue. En el coraz\u00f3n del estado de S\u00e3o Paulo, la pla\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/a-8400-kilometros-espana-inaugurado-mayor-fabrica-mosquitos-mundo-combatir-denguebr.html",
+      "urlToImage": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2025/10/14/mosquito-picando-a-una-persona.jpeg",
+      "publishedAt": "2025-10-18 11:00:33",
+      "content": "Brasil acaba de poner en marcha la mayor f\u00e1brica de mosquitos del planeta, una instalaci\u00f3n que produce millones de insectos cada semana con un objetivo poco habitual: detener la propagaci\u00f3n del dengu\u2026 [+2321 chars]",
+      "retrievedAt": "2025-10-19 19:05:51.569653",
+      "internal_id": "5722fe0721575da23469bba43d7469910e6972396a1609c8b906287f18555018",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 25189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 10/18/2025",
+      "description": "Our bouncy daily links: new ice, moar measles, China new ocean surveillance tech, France downgrades, Zelensk dissed, AI power hogging, Israel torture, No Kings rallies, Canada recession, Bitcoin slump, Mangione win, shutdown losers, Prince Andrew gives up tit\u2026",
+      "url": "https://www.nakedcapitalism.com/2025/10/links-10-18-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/10/Screenshot-2025-10-18-at-3.34.36\u202fPM.png",
+      "publishedAt": "2025-10-18 10:55:03",
+      "content": "Scientists Create New Form of Ice, Known As Ice XXI Popular Mechanics #COVID-19/Pandemics In 2025, we are losing our measles-free status, just 25 years after we eliminated measles from the US becau\u2026 [+7851 chars]",
+      "retrievedAt": "2025-10-19 19:05:50.105446",
+      "internal_id": "16421a35116196e6723614366fdbcec7c9ac49f1622e2a9f3829cc6965acdc43",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 25188,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Over 13,000 animals vaccinated up to September to prevent rabies",
+      "description": "KOTA BHARU: A total of 13,612 animals nationwide have been vaccinated throughout this year up to September, in an ongoing effort to prevent the spread of rabies. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/10/18/over-13000-animals-vaccinated-up-to-september-to-prevent-rabies",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/18/3577385.jpg",
+      "publishedAt": "2025-10-18 10:51:00",
+      "content": "KOTA BHARU: A total of 13,612 animals nationwide have been vaccinated throughout this year up to September, in an ongoing effort to prevent the spread of rabies. Senior director of the Disease Contr\u2026 [+1911 chars]",
+      "retrievedAt": "2025-10-19 19:05:49.854137",
+      "internal_id": "948c46df6fadb086732a19bb0492a7172a6022b123a7df417f61959796fd852a",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 25190,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "La Comunidad adopta medidas de protecci\u00f3n por la gripe aviar tras detectar tres brotes en apenas un mes",
+      "description": "La Consejer\u00eda de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid ha anunciado la adopci\u00f3n de medidas espec\u00edficas de protecci\u00f3n en relaci\u00f3n con la gripe aviar despu\u00e9s de detectar tres brotes de influenza aviar altamente pat\u00f3gena (H5N1) en apen\u2026",
+      "url": "https://www.europapress.es/madrid/noticia-comunidad-adopta-medidas-proteccion-gripe-aviar-detectar-tres-brotes-apenas-mes-20251018121147.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251018121147_1200.jpg",
+      "publishedAt": "2025-10-18 10:11:47",
+      "content": "Al brote en la granja de Valdemoro le precedi\u00f3 un foco en Alcobendas, y esta misma semana se han registrado nuevos casos en M\u00f3stoles y Alcorc\u00f3n MADRID, 18 Oct. (EUROPA PRESS) - La Consejer\u00eda de \u2026 [+3713 chars]",
+      "retrievedAt": "2025-10-19 19:05:51.353558",
+      "internal_id": "e0185a0136f2fc7a027b58595597483a77fb3853d6ec095f0983d5d3bcaec991",
+      "publishedAtLabel": "Oct 18"
+    },
     {
       "id": 25184,
       "query": [
@@ -14156,152 +14246,6 @@
       "content": "Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue:\u2026 [+1496 chars]",
       "retrievedAt": "2025-09-09 07:08:01.744364",
       "internal_id": "fe026dd85c9bc1f240be90a16d250c37042d004996ed887b46b5c12b2f5357c9",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24395,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sun Sentinel",
-      "author": "Associated Press",
-      "title": "Florida\u2019s plan to drop school vaccine rule won\u2019t start for 90 days, won\u2019t cover all diseases",
-      "description": "Florida\u2019s plan would lift mandates on school vaccines for hepatitis B, chickenpox, Hib influenza and pneumococcal diseases, such as meningitis, the health department said.",
-      "url": "https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/",
-      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/Vaccine_Mandates-Florida_83960_6b8302.jpg?w=1024&h=682",
-      "publishedAt": "2025-09-07 18:43:35",
-      "content": "By ED WHITE Floridas plan to drop school vaccine mandates likely wont take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to othe\u2026 [+2556 chars]",
-      "retrievedAt": "2025-09-08 19:05:47.184903",
-      "internal_id": "c57b4e84065bc62812ec5566b47d9522a2b701469809e5c9461a8ed6395a25e5",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24392,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Alma Paola Wong",
-      "title": "IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias",
-      "description": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el que se busca disminuir las poblaciones del mosquito Aedes ae\u2026",
-      "url": "https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/07/expertos-llamaron-fomentar-concientizacion-poblacion.jpg",
-      "publishedAt": "2025-09-07 18:36:00",
-      "content": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el \u2026 [+3224 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.783225",
-      "internal_id": "571fb02ccb209cfd95177b6fed2de17b4f7035f53f082447c6bd2485b7cd9cfd",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant",
-      "description": "Shehnaaz Gill appeared on Bigg Boss 19 to support her brother, Shehbaz Badesha, a wild card entrant. She requested Salman Khan to give Shehbaz work, revealing his long-held dream and recent hospitalization due to dengue. Shehbaz charmed everyone with his humo\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123749872,width-1070,height-580,imgsize-74410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-07 17:06:12",
-      "content": "Dwayne Johnson, Tom Hanks, Rihanna: Hollywood actors who gave voice to your beloved animated movies",
-      "retrievedAt": "2025-09-08 19:05:46.807550",
-      "internal_id": "80dc3f45daba25980ed6954eb8a1b85fd8e95c59598a08d84f2de61f9cfe9639",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24390,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": null,
-      "title": "Ministry of Health: A rabid mongoose was found in Kfar Yehezkel",
-      "description": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies.The Ministry asks anyone who was in contact, or whose animals came in\u2026",
-      "url": "https://www.israelnationalnews.com/flashes/665911",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
-      "publishedAt": "2025-09-07 14:56:11",
-      "content": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies. The Min\u2026 [+242 chars]",
-      "retrievedAt": "2025-09-08 19:05:45.436992",
-      "internal_id": "d09419236411d45c71323ecf62f5c916ad0cb3d65c6e973f910bfe31741a5faf",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24397,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "El ADN resuelve un misterio de 1500 a\u00f1os: la bacteria detr\u00e1s de la primera gran pandemia",
-      "description": "Un hallazgo en Jordania permiti\u00f3 identificar restos gen\u00f3micos de Yersinia pestis, la bacteria causante de la Peste de Justiniano. Esta confirmaci\u00f3n, esperada durante siglos, une arqueolog\u00eda y biolog\u00eda molecular y ofrece lecciones actuales: las pandemias no so\u2026",
-      "url": "https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-20-4-1200x675.jpg",
-      "publishedAt": "2025-09-07 14:12:01",
-      "content": "Durante m\u00e1s de un milenio, historiadores y cient\u00edficos debatieron qu\u00e9 pat\u00f3geno desencaden\u00f3 la Peste de Justiniano, la cat\u00e1strofe que entre los siglos VI y VIII diezm\u00f3 al Imperio Bizantino y cambi\u00f3 la\u2026 [+2871 chars]",
-      "retrievedAt": "2025-09-08 19:05:49.086863",
-      "internal_id": "11e9986c65b4c2d8d02e087932e487c65c7c7ff4adb5089ba0ae35ea7017ed17",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24396,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la \u201cnueva normalidad\u201d",
-      "description": "Los mosquitos dejan de ser un recuerdo tropical para convertirse en un problema cotidiano en Europa. Francia e Italia registran cifras r\u00e9cord de chikungunya y virus del Nilo Occidental, con brotes aut\u00f3ctonos en zonas donde jam\u00e1s se hab\u00edan detectado. El cambio\u2026",
-      "url": "https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-13-4-1200x675.jpg",
-      "publishedAt": "2025-09-07 08:30:39",
-      "content": "Lo que antes parec\u00eda exclusivo de selvas y manglares hoy irrumpe en barrios europeos: los virus transmitidos por mosquitos se expanden y baten r\u00e9cords de contagios. El Centro Europeo para la Prevenci\u2026 [+3078 chars]",
-      "retrievedAt": "2025-09-08 19:05:47.950380",
-      "internal_id": "3dc537531b78f4ac8ea277fb5f9c4479863525b6fff22289a497949d3a7bdc82",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24391,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Elszabadultak a vesz\u00e9lyes v\u00edrusok a vil\u00e1g egyik legn\u00e9pesebb orsz\u00e1g\u00e1ban: egyszerre k\u00e9t j\u00e1rv\u00e1ny is tombol",
-      "description": "Bangladesben s\u00falyosbodik a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e1ls\u00e1g a sz\u00fanyogok \u00e1ltal terjesztett dengue-l\u00e1z \u00e9s chikungunya j\u00e1rv\u00e1nyok miatt, amelyek t\u00falterhelik az eg\u00e9szs\u00e9g\u00fcgyi rendszert \u00e9s a szak\u00e9rt\u0151k szerint a helyzet tov\u00e1bb romolhat - \u00edrta meg a Reuters.",
-      "url": "https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-virus-illusztracio-644285.jpg",
-      "publishedAt": "2025-09-07 08:15:00",
-      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+2026 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.773584",
-      "internal_id": "9a9c676c37abbbe7a6cf99f80bf2fbe14da40674d50d2984173b6a847e973436",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24394,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Yogendra Mishra",
-      "title": "Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0938\u0902\u0915\u091f WHO \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940",
-      "description": "Bangladesh Dengue Case: \u0922\u093e\u0915\u093e \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u092c\u0922\u093c\u0924\u0940 \u0926\u093f\u0916 \u0930\u0939\u0940 \u0939\u0948. \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092d\u0940\u0921\u093c \u0932\u0917\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948. WHO \u0928\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0926\u0940.",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html",
-      "urlToImage": "https://images.news18.com/ibnkhabar/uploads/2025/09/bangladesh-2-2025-09-f23134b8afed2be39e3995065331eee4-16x9.jpg",
-      "publishedAt": "2025-09-07 08:12:52",
-      "content": "Last Updated:September 07, 2025, 13:28 IST . : . . . 33,800 , 132 . 10 1,500 . . . 785 . 24 30 3,000 . , , . . - . , . , . , . (2023) , 1,705 3.21 . 48 , , . , .WHO (WHO) . WHO , , (NSAIDs )\u2026 [+9 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.870210",
-      "internal_id": "5c47042e912af0acb322569912435242b0afc6ebd98d2a2f7346bdda01260059",
       "publishedAtLabel": "Sep 7"
     }
   ]
