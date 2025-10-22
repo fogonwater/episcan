@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-10-21 19:06
-- **Most recent article:** 2025-10-20 17:44:06
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-10-22 07:08
+- **Most recent article:** 2025-10-21 05:52:44
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 37 | 54 | 34 | 31 | 29 | 35 | 5 | 225 |
-| chikungunya | 14 | 38 | 23 | 25 | 10 | 28 | 2 | 140 |
-| dengue | 19 | 26 | 18 | 32 | 23 | 18 | 1 | 137 |
-| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 2 | 98 |
-| rabies | 4 | 14 | 18 | 10 | 6 | 9 | 1 | 62 |
+| measles | 37 | 54 | 34 | 31 | 29 | 35 | 6 | 226 |
+| chikungunya | 17 | 38 | 23 | 25 | 10 | 28 | 2 | 143 |
+| dengue | 23 | 26 | 18 | 32 | 23 | 18 | 1 | 141 |
+| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 5 | 101 |
+| rabies | 5 | 14 | 18 | 10 | 6 | 9 | 1 | 63 |
 | h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 4 | 50 |
-| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 1 | 43 |
+| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 2 | 44 |
+| meningitis | 6 | 6 | 3 | 7 | 5 | 4 | 0 | 31 |
 | zika | 6 | 6 | 6 | 5 | 7 | 1 | 0 | 31 |
-| meningitis | 5 | 6 | 3 | 7 | 5 | 4 | 0 | 30 |
 | typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 0 | 17 |
 | leptospirosis | 1 | 0 | 2 | 5 | 1 | 4 | 0 | 13 |
 | hpai | 4 | 1 | 1 | 2 | 1 | 0 | 3 | 12 |
-| yersinia | 3 | 0 | 1 | 0 | 0 | 2 | 1 | 7 |
+| yersinia | 4 | 0 | 1 | 0 | 0 | 2 | 1 | 8 |
 | pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 0 | 5 |
 
 
@@ -42,9 +42,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (mpox)
 
+- [Mpox outbreak fears as three people hospitalised with 'severe' strain in US](https://www.gbnews.com/health/mpox-outbreak-fears-hospitalised-severe-strain) (Gbnews.com)
+
 - [Virulent New Monkeypox Possibly Circulating Locally in L.A. County](https://legalinsurrection.com/2025/10/virulent-new-monkeypox-possibly-circulating-locally-in-l-a-county/) (Legalinsurrection.com)
 
 ## 25-43 (measles)
+
+- [Health NZ warns of rising measles risk after new cases in Manawatū and Nelson](https://www.nzherald.co.nz/nz/health-nz-warns-of-rising-measles-risk-after-new-cases-in-manawatu-and-nelson/C7CRNZSVVREWDLKWMV3MP25SB4/) (New Zealand Herald)
 
 - [Why Splitting Children's Vaccines is a Bad Idea](https://www.psychologytoday.com/us/blog/fevered-mind/202510/why-splitting-childrens-vaccines-is-a-bad-idea) (Psychology Today)
 
@@ -57,6 +61,12 @@ Source: [News API](https://newsapi.org/)
 - [Health officials warn of possible measles exposure at Sea-Tac Airport - NewsBreak](https://www.newsbreak.com/share/4298434789334-health-officials-warn-of-possible-measles-exposure-at-sea-tac-airport?s=a2&amp;share_destination_id=MzQwNDYxMjY3LTE3NjA4MzMzNTM0MjA%3D&amp;pd=0N2XWl7j&amp;hl=en_US&amp;send_time=1760833353&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.42.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-control) (Newsbreak.com)
 
 ## 25-43 (malaria)
+
+- [Climate change and population growth threaten to spark malaria resurgence](https://www.japantimes.co.jp/environment/2025/10/21/climate-change/climate-change-population-malaria/) (The Japan Times)
+
+- [Ο αγώνας εναντίον της ελονοσίας σε «νεκρό σημείο»](https://www.skai.gr/news/health/o-agonas-enantion-tis-elonosias-se-nekro-simeio) (Skai.gr)
+
+- [Climate Change, Population Growth Threats As Malaria Fight Stalls](https://www.ibtimes.com/climate-change-population-growth-threats-malaria-fight-stalls-3787751) (International Business Times)
 
 - [Las razones del River de Marcelo Gallardo para ilusionarse con un diciembre festivo](https://442.perfil.com/noticias/futbol/las-razones-del-river-de-marcelo-gallardo-para-ilusionarse-con-un-diciembre-festivo.phtml) (Perfil.com)
 
@@ -1682,6 +1692,8 @@ Source: [News API](https://newsapi.org/)
 
 - [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
+- [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
+
 ## 25-37 (typhoid)
 
 - [Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048) (Plos.org)
@@ -1701,6 +1713,8 @@ Source: [News API](https://newsapi.org/)
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
 
 - [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
+
+- [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
 
@@ -1729,6 +1743,8 @@ Source: [News API](https://newsapi.org/)
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
 
 - [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
+
+- [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
 
@@ -1910,6 +1926,14 @@ Source: [News API](https://newsapi.org/)
 
 - [México abrió el mes de septiembre con 755 contagios de dengue](https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011) (Excelsior.com.mx)
 
+- [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
+
+- [Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms) (The Times of India)
+
+- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
+
+- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
+
 ## 25-37 (chikungunya)
 
 - [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
@@ -1939,3 +1963,9 @@ Source: [News API](https://newsapi.org/)
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
+
+- [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
+
+- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
+
+- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
