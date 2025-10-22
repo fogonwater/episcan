@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-10-22 07:08",
+  "last_updated": "2025-10-22 19:06",
   "count_articles_total": 822,
-  "count_articles_new": 5,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 25221,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Benjamin Lassiwe",
+      "title": "Brandenburg \u00e4chzt unter der Vogelgrippe: In Linum sterben Tausend Kraniche auf dem Weg ins Winterquartier",
+      "description": "Stallbest\u00e4nde get\u00f6tet, Gefl\u00fcgelschauen abgesagt, auch Kraniche von Linum betroffen: Die Tierseuche hat Brandenburg bereits fest im Griff",
+      "url": "https://www.tagesspiegel.de/potsdam/brandenburg/brandenburg-achzt-unter-der-vogelgrippe-in-linum-sterben-tausend-kraniche-auf-dem-weg-ins-winterquartier-14623163.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14624360/alternates/BASE_16_9_W1400/1761063139000/geflugelpest-breitet-sich-aus.jpeg",
+      "publishedAt": "2025-10-21 16:29:50",
+      "content": "Brandenburg \u00e4chzt unter der Vogelgrippe. Allein an den \u00fcberregional bekannten Linumer Teichen im Landkreis Ostprignitz-Ruppin haben Natursch\u00fctzer mehrere hundert, am H5N1-Virus verendete Kraniche ein\u2026 [+437 chars]",
+      "retrievedAt": "2025-10-22 19:06:33.831411",
+      "internal_id": "bf41d19b129ff32ad8f0d132f748349708097a32a06b4375933aa76980903694",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25223,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Antonio Marty Quispe, Carlos \u00c1lvarez-Antonio, Freddy Gutierrez Rodriguez, Cristiam Carey, Hugo Rodr\u00edguez-Ferrucci, Cinthia Inti, Eun Seok Kim",
+      "title": "Efficacy of ceiling-mounted mosquito nets for malaria vector control in a Peruvian Amazon riverine community: A stepped-wedge cluster randomized trial",
+      "description": "Malaria remains a major global health concern, especially in tropical regions such as the Peruvian Amazon. Installing ceiling-mounted mosquito nets in houses has been proposed as a strategy to reduce mosquito\u2013human contact and, in turn, lower malaria transmis\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325089",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0325089.g002&size=inline",
+      "publishedAt": "2025-10-21 14:00:00",
+      "content": "Abstract Malaria remains a major global health concern, especially in tropical regions such as the Peruvian Amazon. Installing ceiling-mounted mosquito nets in houses has been proposed as a strategy\u2026 [+43117 chars]",
+      "retrievedAt": "2025-10-22 19:06:34.948117",
+      "internal_id": "86835c7f9b60b2829ec60c6a867f4434a0359726c201b2f414d8ab202973caad",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25225,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Judith O. M. Bentvelzen, Adrianne M. de Roo, Gabriel S. Gurgel do Amaral, Sara W. Quist, Timon Louwsma, Gerard T. Vondeling, Maarten J. Postma",
+      "title": "Clinical outcomes of chikungunya across age groups: A systematic review",
+      "description": "Author summary Chikungunya is a viral disease spread by mosquitoes and is known for causing fever, severe joint pain, and sometimes long-term complications. However, knowledge on the variation in disease presentation between age groups remains limited. Here, \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013580",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013580.g002&size=inline",
+      "publishedAt": "2025-10-21 14:00:00",
+      "content": "Citation: Bentvelzen JOM, de Roo AM, Gurgel do Amaral GS, Quist SW, Louwsma T, Vondeling GT, et al. (2025) Clinical outcomes of chikungunya across age groups: A systematic review. PLoS Negl Trop Dis \u2026 [+38965 chars]",
+      "retrievedAt": "2025-10-22 19:06:35.598739",
+      "internal_id": "1022e91af8b61891ed60635c64c843a8ec6c81c13b445dcb21af80bc1cc188a3",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25219,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "More Than 100 Cases of Measles Reported in Utah and Arizona (Teddy Rosenbluth/New York Times)",
+      "description": "Teddy Rosenbluth / New York Times: More Than 100 Cases of Measles Reported in Utah and Arizona \u2014 In the hardest-hit counties, childhood vaccination rates steeply declined during the pandemic. \u2014 Just as one large measles outbreak peters out in the United S\u2026",
+      "url": "https://www.memeorandum.com/251021/p24",
+      "urlToImage": "https://static01.nyt.com/images/2025/10/21/multimedia/21WELL-ARIZONAUTAH-MEASLES1-lhbg/21WELL-ARIZONAUTAH-MEASLES1-lhbg-facebookJumbo.jpg",
+      "publishedAt": "2025-10-21 13:30:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-22 19:06:33.198745",
+      "internal_id": "ec66842eda07260eb87271ed7b36339065dad28f310a47661a675ee34c9fec15",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25224,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pal.be",
+      "author": "Lode Goukens",
+      "title": "Chikungunya-virus: nieuwe pandemie of slimme lobbystrategie?",
+      "description": "Het klinkt als het vervolg op het horrorverhaal van Covid-19. De Chinese overheid zou in de stad Wuhan begonnen zijn aan een campagne tegen muggen omdat er een virus rondwaart: het chikungunya-virus, een virus dat door muggen verspreid wordt en met symptomen \u2026",
+      "url": "https://pal.be/2025/10/chikungunya-virus-nieuwe-pandemie-of-slimme-lobbystrategie-2/",
+      "urlToImage": "https://pal.be/wp-content/uploads/2025/10/mug-1.jpg",
+      "publishedAt": "2025-10-21 12:19:47",
+      "content": "Let op: U kiest hierbij voor handmatige bankoverschrijving. Uw account wordt bij het abonneren geactiveerd, maar uw abonnement gaat pas in werking op het moment dat de betaling bij ons binnen is. Na\u2026 [+247 chars]",
+      "retrievedAt": "2025-10-22 19:06:35.589273",
+      "internal_id": "99515c3338cc5d43c9c5a1c1d2680c0896b8d9a7cb40e6de6d0293453e138f97",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25218,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "Inmates treated for rabies after bat encounters at Salisbury prison",
+      "description": "Three people were treated for rabies after reportedly being scratched by bats at a Salisbury prison, according to the North Carolina Department of Adult Correction.",
+      "url": "https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGLZ4MSLLVBA5PDULFCOEO2Z2O4.webp?auth=1e3b5ad2ad6b17833ad682d5178deb2c2a1ce66dd98c854c5595c31c05f58c9c&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-21 11:28:04",
+      "content": "SALISBURY, N.C. \u2014 Three people were treated for rabies after reportedly being scratched by bats at a Salisbury prison, according to the North Carolina Department of Adult Correction. In a statement,\u2026 [+929 chars]",
+      "retrievedAt": "2025-10-22 19:06:32.893149",
+      "internal_id": "9ac95519f347bf4225f3714515fda1d0801e112194eba11c23ef72a431476373",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25222,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Foreign, Commonwealth & Development Office",
+      "title": "Foreign Secretary speech at the Global Fund's high-level event",
+      "description": "The Rt Hon Yvette Cooper, Secretary of State for Foreign, Commonwealth and Development Affairs, calls for continued support to tackle AIDS, tuberculosis and malaria, at London event ahead of the Global Fund's 8th Replenishment Pledging Summit.",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-speech-at-the-global-funds-high-level-event",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-10-21 10:26:16",
+      "content": "I wanted to say a huge thank you to Peter [Sands] and everyone at the Global Fund team who have done such a phenomenal job at all of the work, the continued leadership, around this really powerful im\u2026 [+4455 chars]",
+      "retrievedAt": "2025-10-22 19:06:34.938990",
+      "internal_id": "4d4c15518133b35385a57f187d92daab8483b842fa4020f6b699e6493bcbc661",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25220,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Bird flu hiding in cheese? The surprising new discovery",
+      "description": "Researchers discovered that avian influenza (H5N1) can survive in raw milk cheese made from contaminated milk, even after the 60-day aging process required by the FDA. However, highly acidic cheeses like feta showed no signs of the virus, suggesting acidity p\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251020092841.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/assorted-cheeses-wood-table.webp",
+      "publishedAt": "2025-10-21 07:31:03",
+      "content": "Cheese made from contaminated raw milk was found to contain infectious avian influenza virus, raising potential health concerns for consumers, according to new research. The study also found that no \u2026 [+4617 chars]",
+      "retrievedAt": "2025-10-22 19:06:33.798023",
+      "internal_id": "85c66f49da3a251be8cff2aae51d7f7b337502a7feefe069333cd907faa02b89",
+      "publishedAtLabel": "Oct 21"
+    },
     {
       "id": 25213,
       "query": [
@@ -14714,152 +14858,6 @@
       "content": "Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue:\u2026 [+1496 chars]",
       "retrievedAt": "2025-09-09 07:08:01.744364",
       "internal_id": "fe026dd85c9bc1f240be90a16d250c37042d004996ed887b46b5c12b2f5357c9",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24395,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sun Sentinel",
-      "author": "Associated Press",
-      "title": "Florida\u2019s plan to drop school vaccine rule won\u2019t start for 90 days, won\u2019t cover all diseases",
-      "description": "Florida\u2019s plan would lift mandates on school vaccines for hepatitis B, chickenpox, Hib influenza and pneumococcal diseases, such as meningitis, the health department said.",
-      "url": "https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/",
-      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/Vaccine_Mandates-Florida_83960_6b8302.jpg?w=1024&h=682",
-      "publishedAt": "2025-09-07 18:43:35",
-      "content": "By ED WHITE Floridas plan to drop school vaccine mandates likely wont take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to othe\u2026 [+2556 chars]",
-      "retrievedAt": "2025-09-08 19:05:47.184903",
-      "internal_id": "c57b4e84065bc62812ec5566b47d9522a2b701469809e5c9461a8ed6395a25e5",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24392,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Alma Paola Wong",
-      "title": "IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias",
-      "description": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el que se busca disminuir las poblaciones del mosquito Aedes ae\u2026",
-      "url": "https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/07/expertos-llamaron-fomentar-concientizacion-poblacion.jpg",
-      "publishedAt": "2025-09-07 18:36:00",
-      "content": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el \u2026 [+3224 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.783225",
-      "internal_id": "571fb02ccb209cfd95177b6fed2de17b4f7035f53f082447c6bd2485b7cd9cfd",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant",
-      "description": "Shehnaaz Gill appeared on Bigg Boss 19 to support her brother, Shehbaz Badesha, a wild card entrant. She requested Salman Khan to give Shehbaz work, revealing his long-held dream and recent hospitalization due to dengue. Shehbaz charmed everyone with his humo\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123749872,width-1070,height-580,imgsize-74410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-07 17:06:12",
-      "content": "Dwayne Johnson, Tom Hanks, Rihanna: Hollywood actors who gave voice to your beloved animated movies",
-      "retrievedAt": "2025-09-08 19:05:46.807550",
-      "internal_id": "80dc3f45daba25980ed6954eb8a1b85fd8e95c59598a08d84f2de61f9cfe9639",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24390,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": null,
-      "title": "Ministry of Health: A rabid mongoose was found in Kfar Yehezkel",
-      "description": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies.The Ministry asks anyone who was in contact, or whose animals came in\u2026",
-      "url": "https://www.israelnationalnews.com/flashes/665911",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
-      "publishedAt": "2025-09-07 14:56:11",
-      "content": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies. The Min\u2026 [+242 chars]",
-      "retrievedAt": "2025-09-08 19:05:45.436992",
-      "internal_id": "d09419236411d45c71323ecf62f5c916ad0cb3d65c6e973f910bfe31741a5faf",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24397,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "El ADN resuelve un misterio de 1500 a\u00f1os: la bacteria detr\u00e1s de la primera gran pandemia",
-      "description": "Un hallazgo en Jordania permiti\u00f3 identificar restos gen\u00f3micos de Yersinia pestis, la bacteria causante de la Peste de Justiniano. Esta confirmaci\u00f3n, esperada durante siglos, une arqueolog\u00eda y biolog\u00eda molecular y ofrece lecciones actuales: las pandemias no so\u2026",
-      "url": "https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-20-4-1200x675.jpg",
-      "publishedAt": "2025-09-07 14:12:01",
-      "content": "Durante m\u00e1s de un milenio, historiadores y cient\u00edficos debatieron qu\u00e9 pat\u00f3geno desencaden\u00f3 la Peste de Justiniano, la cat\u00e1strofe que entre los siglos VI y VIII diezm\u00f3 al Imperio Bizantino y cambi\u00f3 la\u2026 [+2871 chars]",
-      "retrievedAt": "2025-09-08 19:05:49.086863",
-      "internal_id": "11e9986c65b4c2d8d02e087932e487c65c7c7ff4adb5089ba0ae35ea7017ed17",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24396,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la \u201cnueva normalidad\u201d",
-      "description": "Los mosquitos dejan de ser un recuerdo tropical para convertirse en un problema cotidiano en Europa. Francia e Italia registran cifras r\u00e9cord de chikungunya y virus del Nilo Occidental, con brotes aut\u00f3ctonos en zonas donde jam\u00e1s se hab\u00edan detectado. El cambio\u2026",
-      "url": "https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-13-4-1200x675.jpg",
-      "publishedAt": "2025-09-07 08:30:39",
-      "content": "Lo que antes parec\u00eda exclusivo de selvas y manglares hoy irrumpe en barrios europeos: los virus transmitidos por mosquitos se expanden y baten r\u00e9cords de contagios. El Centro Europeo para la Prevenci\u2026 [+3078 chars]",
-      "retrievedAt": "2025-09-08 19:05:47.950380",
-      "internal_id": "3dc537531b78f4ac8ea277fb5f9c4479863525b6fff22289a497949d3a7bdc82",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24391,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Elszabadultak a vesz\u00e9lyes v\u00edrusok a vil\u00e1g egyik legn\u00e9pesebb orsz\u00e1g\u00e1ban: egyszerre k\u00e9t j\u00e1rv\u00e1ny is tombol",
-      "description": "Bangladesben s\u00falyosbodik a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e1ls\u00e1g a sz\u00fanyogok \u00e1ltal terjesztett dengue-l\u00e1z \u00e9s chikungunya j\u00e1rv\u00e1nyok miatt, amelyek t\u00falterhelik az eg\u00e9szs\u00e9g\u00fcgyi rendszert \u00e9s a szak\u00e9rt\u0151k szerint a helyzet tov\u00e1bb romolhat - \u00edrta meg a Reuters.",
-      "url": "https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-virus-illusztracio-644285.jpg",
-      "publishedAt": "2025-09-07 08:15:00",
-      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+2026 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.773584",
-      "internal_id": "9a9c676c37abbbe7a6cf99f80bf2fbe14da40674d50d2984173b6a847e973436",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24394,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Yogendra Mishra",
-      "title": "Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0938\u0902\u0915\u091f WHO \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940",
-      "description": "Bangladesh Dengue Case: \u0922\u093e\u0915\u093e \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u092c\u0922\u093c\u0924\u0940 \u0926\u093f\u0916 \u0930\u0939\u0940 \u0939\u0948. \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092d\u0940\u0921\u093c \u0932\u0917\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948. WHO \u0928\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0926\u0940.",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html",
-      "urlToImage": "https://images.news18.com/ibnkhabar/uploads/2025/09/bangladesh-2-2025-09-f23134b8afed2be39e3995065331eee4-16x9.jpg",
-      "publishedAt": "2025-09-07 08:12:52",
-      "content": "Last Updated:September 07, 2025, 13:28 IST . : . . . 33,800 , 132 . 10 1,500 . . . 785 . 24 30 3,000 . , , . . - . , . , . , . (2023) , 1,705 3.21 . 48 , , . , .WHO (WHO) . WHO , , (NSAIDs )\u2026 [+9 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.870210",
-      "internal_id": "5c47042e912af0acb322569912435242b0afc6ebd98d2a2f7346bdda01260059",
       "publishedAtLabel": "Sep 7"
     }
   ]
