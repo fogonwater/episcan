@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-10-22 19:06",
-  "count_articles_total": 822,
-  "count_articles_new": 8,
+  "last_updated": "2025-10-23 07:08",
+  "count_articles_total": 836,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 25230,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Vestergaard: a double dividend on malaria R&D",
+      "description": "Eliminating malaria demands continued commitment to innovation - can these life-saving tools also reap rewards for donor countries?",
+      "url": "https://www.cbsnews.com/video/vestergaard-a-double-dividend-on-malaria-r-d/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/21/09b5cb91-1587-40ec-8695-e468e93bfd6a/thumbnail/1200x630/e557c2eea4ced278841d7602b5bb4e2e/vestergard.jpg",
+      "publishedAt": "2025-10-22 04:00:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-10-23 07:08:01.442754",
+      "internal_id": "9dcd826a6bf189ecabfcbf9bb15e2420d2b5a2cfc4be40a6b340a7da8d192cfa",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25229,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Noticiaslatam.lat",
+      "author": "Danay Galletti Hern\u00e1ndez",
+      "title": "Panorama econ\u00f3mico de Cuba \"dificulta grandemente\" el manejo de enfermedades como el dengue, advierte m\u00e9dico",
+      "description": "Las autoridades de Cuba ofrecieron recientemente una actualizaci\u00f3n sobre la realidad presente en la isla respecto a la confluencia de varias arbovirosis, enfermedades transmitidas por insectos cuya poblaci\u00f3n aumenta ante condiciones clim\u00e1ticas favorables como\u2026",
+      "url": "https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html",
+      "urlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1167786660.jpg?11677864851761100548",
+      "publishedAt": "2025-10-22 02:30:00",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2025-10-23 07:08:00.997615",
+      "internal_id": "4d18251b091ebcb126b4d9f96909fb226842ef384d158bb388d155cb53ce1172",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25226,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Rachel Nuwer",
+      "title": "Measles, polio, tuberculosis: what\u2019s causing spikes in infectious diseases?",
+      "description": "The huge power of vaccines is being diluted by hesitancy, funding cuts and conflict.",
+      "url": "https://www.nature.com/articles/d41586-025-03334-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03334-8/d41586-025-03334-8_51577598.jpg",
+      "publishedAt": "2025-10-22 00:00:00",
+      "content": "Children receive polio drops for vaccination during a door-to-door poliovirus eradication campaign in Lahore, Pakistan, in April.Credit: ARIF ALI/AFP via Getty Vaccines are arguably one of the great\u2026 [+11145 chars]",
+      "retrievedAt": "2025-10-23 07:08:00.160993",
+      "internal_id": "ea0af869b7a1712d0bb08c0f0b04c40981cf64beedf9b2b51e1148bfbfa473a2",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25231,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Yan Yan, Lisa H. Verzier, Elaine Cheung, Federico Appetecchia, Sandra March, Ailsa R. Craven, Esrah Du, Alexandra S. Probst, Tasneem A. Rinvee, Laura E. de Vries, Jamie Kauffman, Sangeeta N. Bhatia, Elisabeth Nelson, Naresh Singh, Duo Peng, W. Robert Shaw, Flaminia Catteruccia",
+      "title": "Mapping Plasmodium transitions and interactions in the Anopheles female",
+      "description": "Single-cell transcriptomic analyses of Plasmodium falciparum and Anopheles gambiae reveal key developmental stages, processes and factors in parasite\u2013mosquito interactions and identify potential targets for blocking malaria transmission.",
+      "url": "https://www.nature.com/articles/s41586-025-09653-0",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09653-0/MediaObjects/41586_2025_9653_Fig1_HTML.png",
+      "publishedAt": "2025-10-22 00:00:00",
+      "content": "Rearing of Anopheles mosquitoes A. gambiae (G3 strain), A. stephensi (SDA-500), and recently colonized A. coluzzi41 mosquitoes were reared in an insectary maintained at 27\u00b0C, 7080% relative humidity\u2026 [+24292 chars]",
+      "retrievedAt": "2025-10-23 07:08:01.453158",
+      "internal_id": "e8802f21e642dde005292b6109c3beec15e6a3e382a44d16b1dfd5447bd69365",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25227,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themirror.com",
+      "author": "the mirror us",
+      "title": "TEXAS BECOMES MEASLES HOTSPOT...",
+      "description": "",
+      "url": "https://www.themirror.com/news/health/state-highest-number-measles-cases-1458229",
+      "urlToImage": null,
+      "publishedAt": "2025-10-21 23:00:08",
+      "content": "The U.S. is seeing a rise in measles cases that is unprecedented in the 21st century. In 2000, the disease was declared eliminated around the country.",
+      "retrievedAt": "2025-10-23 07:08:00.197323",
+      "internal_id": "1045d069500fe6de5a21a9ecd0ca8abc7570d31e5926bfff67975be0abd0529e",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 25228,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "OPH warns of possible measles exposure at 2 Ottawa churches",
+      "description": "People who attended two Ottawa churches recently may have been exposed to measles, the city's public health agency warned Tuesday.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/measles-ottawa-october-2025-church-9.6947294",
+      "urlToImage": "https://i.cbc.ca/ais/1.5343123,1744476095000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C96%2C5000%2C2812%29%3BResize%3D620",
+      "publishedAt": "2025-10-21 19:24:41",
+      "content": "People who attended two Ottawa churches recently may have been exposed to measles, the city's public health agency warned Tuesday. Ottawa Public Health said the warning stems from its investigation \u2026 [+1245 chars]",
+      "retrievedAt": "2025-10-23 07:08:00.206749",
+      "internal_id": "ba303246aa1c8b5cc9187aefd397dfdb692a2904cf4f25098c31dc8f8144a731",
+      "publishedAtLabel": "Oct 21"
+    },
     {
       "id": 25221,
       "query": [
@@ -14858,6 +14966,152 @@
       "content": "Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue:\u2026 [+1496 chars]",
       "retrievedAt": "2025-09-09 07:08:01.744364",
       "internal_id": "fe026dd85c9bc1f240be90a16d250c37042d004996ed887b46b5c12b2f5357c9",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24395,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Associated Press",
+      "title": "Florida\u2019s plan to drop school vaccine rule won\u2019t start for 90 days, won\u2019t cover all diseases",
+      "description": "Florida\u2019s plan would lift mandates on school vaccines for hepatitis B, chickenpox, Hib influenza and pneumococcal diseases, such as meningitis, the health department said.",
+      "url": "https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/Vaccine_Mandates-Florida_83960_6b8302.jpg?w=1024&h=682",
+      "publishedAt": "2025-09-07 18:43:35",
+      "content": "By ED WHITE Floridas plan to drop school vaccine mandates likely wont take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to othe\u2026 [+2556 chars]",
+      "retrievedAt": "2025-09-08 19:05:47.184903",
+      "internal_id": "c57b4e84065bc62812ec5566b47d9522a2b701469809e5c9461a8ed6395a25e5",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Alma Paola Wong",
+      "title": "IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias",
+      "description": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el que se busca disminuir las poblaciones del mosquito Aedes ae\u2026",
+      "url": "https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/07/expertos-llamaron-fomentar-concientizacion-poblacion.jpg",
+      "publishedAt": "2025-09-07 18:36:00",
+      "content": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el \u2026 [+3224 chars]",
+      "retrievedAt": "2025-09-08 19:05:46.783225",
+      "internal_id": "571fb02ccb209cfd95177b6fed2de17b4f7035f53f082447c6bd2485b7cd9cfd",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant",
+      "description": "Shehnaaz Gill appeared on Bigg Boss 19 to support her brother, Shehbaz Badesha, a wild card entrant. She requested Salman Khan to give Shehbaz work, revealing his long-held dream and recent hospitalization due to dengue. Shehbaz charmed everyone with his humo\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123749872,width-1070,height-580,imgsize-74410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-07 17:06:12",
+      "content": "Dwayne Johnson, Tom Hanks, Rihanna: Hollywood actors who gave voice to your beloved animated movies",
+      "retrievedAt": "2025-09-08 19:05:46.807550",
+      "internal_id": "80dc3f45daba25980ed6954eb8a1b85fd8e95c59598a08d84f2de61f9cfe9639",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24390,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health: A rabid mongoose was found in Kfar Yehezkel",
+      "description": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies.The Ministry asks anyone who was in contact, or whose animals came in\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/665911",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-09-07 14:56:11",
+      "content": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies. The Min\u2026 [+242 chars]",
+      "retrievedAt": "2025-09-08 19:05:45.436992",
+      "internal_id": "d09419236411d45c71323ecf62f5c916ad0cb3d65c6e973f910bfe31741a5faf",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24397,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "El ADN resuelve un misterio de 1500 a\u00f1os: la bacteria detr\u00e1s de la primera gran pandemia",
+      "description": "Un hallazgo en Jordania permiti\u00f3 identificar restos gen\u00f3micos de Yersinia pestis, la bacteria causante de la Peste de Justiniano. Esta confirmaci\u00f3n, esperada durante siglos, une arqueolog\u00eda y biolog\u00eda molecular y ofrece lecciones actuales: las pandemias no so\u2026",
+      "url": "https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-20-4-1200x675.jpg",
+      "publishedAt": "2025-09-07 14:12:01",
+      "content": "Durante m\u00e1s de un milenio, historiadores y cient\u00edficos debatieron qu\u00e9 pat\u00f3geno desencaden\u00f3 la Peste de Justiniano, la cat\u00e1strofe que entre los siglos VI y VIII diezm\u00f3 al Imperio Bizantino y cambi\u00f3 la\u2026 [+2871 chars]",
+      "retrievedAt": "2025-09-08 19:05:49.086863",
+      "internal_id": "11e9986c65b4c2d8d02e087932e487c65c7c7ff4adb5089ba0ae35ea7017ed17",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24396,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la \u201cnueva normalidad\u201d",
+      "description": "Los mosquitos dejan de ser un recuerdo tropical para convertirse en un problema cotidiano en Europa. Francia e Italia registran cifras r\u00e9cord de chikungunya y virus del Nilo Occidental, con brotes aut\u00f3ctonos en zonas donde jam\u00e1s se hab\u00edan detectado. El cambio\u2026",
+      "url": "https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-13-4-1200x675.jpg",
+      "publishedAt": "2025-09-07 08:30:39",
+      "content": "Lo que antes parec\u00eda exclusivo de selvas y manglares hoy irrumpe en barrios europeos: los virus transmitidos por mosquitos se expanden y baten r\u00e9cords de contagios. El Centro Europeo para la Prevenci\u2026 [+3078 chars]",
+      "retrievedAt": "2025-09-08 19:05:47.950380",
+      "internal_id": "3dc537531b78f4ac8ea277fb5f9c4479863525b6fff22289a497949d3a7bdc82",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24391,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Elszabadultak a vesz\u00e9lyes v\u00edrusok a vil\u00e1g egyik legn\u00e9pesebb orsz\u00e1g\u00e1ban: egyszerre k\u00e9t j\u00e1rv\u00e1ny is tombol",
+      "description": "Bangladesben s\u00falyosbodik a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e1ls\u00e1g a sz\u00fanyogok \u00e1ltal terjesztett dengue-l\u00e1z \u00e9s chikungunya j\u00e1rv\u00e1nyok miatt, amelyek t\u00falterhelik az eg\u00e9szs\u00e9g\u00fcgyi rendszert \u00e9s a szak\u00e9rt\u0151k szerint a helyzet tov\u00e1bb romolhat - \u00edrta meg a Reuters.",
+      "url": "https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-virus-illusztracio-644285.jpg",
+      "publishedAt": "2025-09-07 08:15:00",
+      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+2026 chars]",
+      "retrievedAt": "2025-09-08 19:05:46.773584",
+      "internal_id": "9a9c676c37abbbe7a6cf99f80bf2fbe14da40674d50d2984173b6a847e973436",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24394,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Yogendra Mishra",
+      "title": "Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0938\u0902\u0915\u091f WHO \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940",
+      "description": "Bangladesh Dengue Case: \u0922\u093e\u0915\u093e \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u092c\u0922\u093c\u0924\u0940 \u0926\u093f\u0916 \u0930\u0939\u0940 \u0939\u0948. \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092d\u0940\u0921\u093c \u0932\u0917\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948. WHO \u0928\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0926\u0940.",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html",
+      "urlToImage": "https://images.news18.com/ibnkhabar/uploads/2025/09/bangladesh-2-2025-09-f23134b8afed2be39e3995065331eee4-16x9.jpg",
+      "publishedAt": "2025-09-07 08:12:52",
+      "content": "Last Updated:September 07, 2025, 13:28 IST . : . . . 33,800 , 132 . 10 1,500 . . . 785 . 24 30 3,000 . , , . . - . , . , . , . (2023) , 1,705 3.21 . 48 , , . , .WHO (WHO) . WHO , , (NSAIDs )\u2026 [+9 chars]",
+      "retrievedAt": "2025-09-08 19:05:46.870210",
+      "internal_id": "5c47042e912af0acb322569912435242b0afc6ebd98d2a2f7346bdda01260059",
       "publishedAtLabel": "Sep 7"
     }
   ]
