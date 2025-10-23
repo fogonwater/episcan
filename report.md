@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-10-23 07:08
-- **Most recent article:** 2025-10-22 04:00:00
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-10-23 19:06
+- **Most recent article:** 2025-10-22 17:30:12
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 37 | 54 | 34 | 31 | 29 | 35 | 10 | 230 |
-| chikungunya | 17 | 38 | 23 | 25 | 10 | 28 | 4 | 145 |
-| dengue | 23 | 26 | 18 | 32 | 23 | 18 | 2 | 142 |
-| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 9 | 105 |
-| rabies | 5 | 14 | 18 | 10 | 6 | 9 | 2 | 64 |
-| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 6 | 52 |
-| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 2 | 44 |
-| meningitis | 6 | 6 | 3 | 7 | 5 | 4 | 0 | 31 |
+| measles | 37 | 54 | 34 | 31 | 29 | 35 | 12 | 232 |
+| chikungunya | 14 | 38 | 23 | 25 | 10 | 28 | 5 | 143 |
+| dengue | 19 | 26 | 18 | 32 | 23 | 18 | 5 | 141 |
+| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 10 | 106 |
+| rabies | 4 | 14 | 18 | 10 | 6 | 9 | 3 | 64 |
+| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 17 | 63 |
+| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 3 | 45 |
 | zika | 6 | 6 | 6 | 5 | 7 | 1 | 0 | 31 |
+| meningitis | 5 | 6 | 3 | 7 | 5 | 4 | 0 | 30 |
 | typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 0 | 17 |
+| hpai | 4 | 1 | 1 | 2 | 1 | 0 | 4 | 13 |
 | leptospirosis | 1 | 0 | 2 | 5 | 1 | 4 | 0 | 13 |
-| hpai | 4 | 1 | 1 | 2 | 1 | 0 | 3 | 12 |
-| yersinia | 4 | 0 | 1 | 0 | 0 | 2 | 1 | 8 |
-| pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 0 | 5 |
+| yersinia | 3 | 0 | 1 | 0 | 0 | 2 | 1 | 7 |
+| pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 1 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,17 +38,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (rabies)
 
+- [rabies 0.5.4](https://pypi.org/project/rabies/0.5.4/) (Pypi.org)
+
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
 - [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
 
+## 25-43 (pertussis)
+
+- [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
+
 ## 25-43 (mpox)
+
+- [3 cases of new mpox strain reported in California](https://www.npr.org/2025/10/22/nx-s1-5580567/3-cases-of-new-mpox-strain-reported-in-california) (NPR)
 
 - [Mpox outbreak fears as three people hospitalised with 'severe' strain in US](https://www.gbnews.com/health/mpox-outbreak-fears-hospitalised-severe-strain) (Gbnews.com)
 
 - [Virulent New Monkeypox Possibly Circulating Locally in L.A. County](https://legalinsurrection.com/2025/10/virulent-new-monkeypox-possibly-circulating-locally-in-l-a-county/) (Legalinsurrection.com)
 
 ## 25-43 (measles)
+
+- [U.S. records highest number of measles cases since 1992, CDC says](https://www.cbsnews.com/video/us-records-highest-number-of-measles-since-1992-cdc-says/) (CBS News)
+
+- [Health Ministry: 1,880 confirmed measles cases - thousands unreported](https://www.israelnationalnews.com/news/416656) (Israelnationalnews.com)
 
 - [Measles, polio, tuberculosis: what’s causing spikes in infectious diseases?](https://www.nature.com/articles/d41586-025-03334-8) (Nature.com)
 
@@ -72,6 +84,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (malaria)
 
+- [Spatial Repellents Could Help Supercharge The Fight Against Malaria](https://www.forbes.com/sites/christinero/2025/10/22/spatial-repellents-could-help-supercharge-the-fight-against-malaria/) (Forbes)
+
 - [Vestergaard: a double dividend on malaria R&D](https://www.cbsnews.com/video/vestergaard-a-double-dividend-on-malaria-r-d/) (CBS News)
 
 - [Mapping Plasmodium transitions and interactions in the Anopheles female](https://www.nature.com/articles/s41586-025-09653-0) (Nature.com)
@@ -92,6 +106,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (hpai)
 
+- [Japonya’da yılın ilk kuş gribi vakası çıktı: 459 bin tavuk itlaf edilecek](https://www.yenicaggazetesi.com.tr/japonyada-yilin-ilk-kus-gribi-vakasi-cikti-459-bin-tavuk-itlaf-edilecek-973913h.htm) (Yenicaggazetesi.com.tr)
+
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
 - [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
@@ -99,6 +115,28 @@ Source: [News API](https://newsapi.org/)
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
 
 ## 25-43 (h5n1)
+
+- [17 People In Canada Being Tested For Bird Flu](https://www.shtfplan.com/headline-news/17-people-in-canada-being-tested-for-bird-flu) (Shtfplan.com)
+
+- [Γρίπη των πτηνών: Εστίες εντοπίστηκαν σε Ολλανδία, Βέλγιο και Σλοβακία - Χιλιάδες πουλιά θα θανατωθούν](https://www.skai.gr/news/world/estia-gripis-ton-ptinon-se-ollandia-velgio-kai-slovakia) (Skai.gr)
+
+- [Γρίπη των πτηνών: Εστίες εντοπίστηκαν σε Ολλανδία, Βέλγιο και Σλοβακία](https://www.naftemporiki.gr/kosmos/2023543/gripi-ton-ptinon-esties-entopistikan-se-ollandia-velgio-kai-slovakia/) (Naftemporiki.gr)
+
+- [Grippe aviaire: confinement obligatoire des volailles et oiseaux de professionnels](https://www.rtbf.be/article/grippe-aviaire-confinement-obligatoire-des-volailles-et-oiseaux-de-professionnels-11620649) (RTBF)
+
+- [Vogelgrippe-Variante: Geflügelpest-Erreger in Bestand von 5.000 Enten nachgewiesen](https://www.zeit.de/news/2025-10/22/gefluegelpest-erreger-in-bestand-von-5-000-enten-nachgewiesen) (Die Zeit)
+
+- [Fota Wildlife Park to remain closed for 'number of weeks'](https://www.rte.ie/news/munster/2025/1022/1539987-fota-wildlife-park/) (RTE)
+
+- [Vogelgriep vastgesteld bij 2 kalkoen- en pluimveebedrijven in Houthulst: opnieuw afschermplicht voor vogels en kippen](https://www.vrt.be/vrtnws/nl/2025/10/22/favv-afschermplicht-vogels-en-pluimvee/) (Www.vrt.be)
+
+- [Grippe aviaire: les volailles et oiseaux de professionnels devront être confinés dès ce jeudi](https://www.lavenir.net/actu/belgique/2025/10/22/grippe-aviaire-les-volailles-et-oiseaux-de-professionnels-devront-etre-confines-des-ce-jeudi-JOX2WGDTSBBCXPBV4GK47LLMHY/) (Lavenir.net)
+
+- [FAVV kondigt afschermplicht aan voor pluimvee en vogels voor professionele houders in heel België door vogelgriep](https://www.nieuwsblad.be/binnenland/favv-kondigt-afschermplicht-aan-voor-pluimvee-en-vogels-voor-professionele-houders-in-heel-belgie-door-vogelgriep/99288607.html) (Nieuwsblad.be)
+
+- [Ученые обнаружили скрытую опасность в сыре](https://hi-tech.mail.ru/news/136053-uchenye-obnaruzhili-skrytuyu-opasnost-v-syre/) (Mail.ru)
+
+- [El virus de la gripe aviar H5N1 sobrevive en los quesos de leche cruda hasta 120 días](https://www.gastronomiaycia.com/el-virus-de-la-gripe-aviar-h5n1-sobrevive-en-los-quesos-de-leche-cruda-hasta-120-dias/) (Gastronomiaycia.com)
 
 - [Brandenburg ächzt unter der Vogelgrippe: In Linum sterben Tausend Kraniche auf dem Weg ins Winterquartier](https://www.tagesspiegel.de/potsdam/brandenburg/brandenburg-achzt-unter-der-vogelgrippe-in-linum-sterben-tausend-kraniche-auf-dem-weg-ins-winterquartier-14623163.html) (Der Tagesspiegel)
 
@@ -114,11 +152,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (dengue)
 
+- [Investigating linkages between human movement and meteorological variables on dengue outbreaks in the Pacific Islands](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013607) (Plos.org)
+
+- [Entomological surveys and insecticide resistance in the dengue vector Aedes aegypti in Dakar, Senegal: First detection of the kdr mutation](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013657) (Plos.org)
+
+- [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
+
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
 
 - [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
+
+- [El virus común en el Caribe que tuvo su primer caso autóctono en Nueva York: cuáles son los síntomas](https://www.lanacion.com.ar/estados-unidos/nueva-york/el-virus-comun-en-el-caribe-que-llego-a-nueva-york-cuales-son-los-sintomas-nid22102025/) (La Nacion)
 
 - [Clinical outcomes of chikungunya across age groups: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013580) (Plos.org)
 
@@ -1720,8 +1766,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
-- [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
-
 ## 25-37 (typhoid)
 
 - [Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048) (Plos.org)
@@ -1741,8 +1785,6 @@ Source: [News API](https://newsapi.org/)
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
 
 - [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
-
-- [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
 
@@ -1771,8 +1813,6 @@ Source: [News API](https://newsapi.org/)
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
 
 - [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
-
-- [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
 
@@ -1954,14 +1994,6 @@ Source: [News API](https://newsapi.org/)
 
 - [México abrió el mes de septiembre con 755 contagios de dengue](https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011) (Excelsior.com.mx)
 
-- [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
-
-- [Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms) (The Times of India)
-
-- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
-
-- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
-
 ## 25-37 (chikungunya)
 
 - [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
@@ -1991,9 +2023,3 @@ Source: [News API](https://newsapi.org/)
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
-
-- [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
-
-- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
-
-- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
