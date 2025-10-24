@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-10-24 07:07
-- **Most recent article:** 2025-10-23 07:06:32
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-10-24 19:06
+- **Most recent article:** 2025-10-23 18:27:04
 
 ---
 
@@ -13,18 +13,18 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 37 | 54 | 34 | 31 | 29 | 35 | 16 | 236 |
-| chikungunya | 17 | 38 | 23 | 25 | 10 | 28 | 7 | 148 |
-| dengue | 23 | 26 | 18 | 32 | 23 | 18 | 5 | 145 |
-| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 10 | 106 |
-| rabies | 5 | 14 | 18 | 10 | 6 | 9 | 3 | 65 |
-| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 18 | 64 |
-| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 4 | 46 |
-| meningitis | 6 | 6 | 3 | 7 | 5 | 4 | 1 | 32 |
-| zika | 6 | 6 | 6 | 5 | 7 | 1 | 1 | 32 |
-| typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 0 | 17 |
+| dengue | 19 | 26 | 18 | 32 | 23 | 18 | 10 | 146 |
+| chikungunya | 14 | 38 | 23 | 25 | 10 | 28 | 8 | 146 |
+| malaria | 17 | 10 | 15 | 10 | 20 | 24 | 13 | 109 |
+| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 23 | 69 |
+| rabies | 4 | 14 | 18 | 10 | 6 | 9 | 3 | 64 |
+| mpox | 7 | 5 | 8 | 1 | 10 | 11 | 6 | 48 |
+| zika | 6 | 6 | 6 | 5 | 7 | 1 | 2 | 33 |
+| meningitis | 5 | 6 | 3 | 7 | 5 | 4 | 1 | 31 |
+| typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 1 | 18 |
 | hpai | 4 | 1 | 1 | 2 | 1 | 0 | 4 | 13 |
 | leptospirosis | 1 | 0 | 2 | 5 | 1 | 4 | 0 | 13 |
-| yersinia | 4 | 0 | 1 | 0 | 0 | 2 | 1 | 8 |
+| yersinia | 3 | 0 | 1 | 0 | 0 | 2 | 1 | 7 |
 | pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 1 | 6 |
 
 
@@ -34,11 +34,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (zika)
 
+- [Fiocruz relata caso raro de encefalite associada à infecção pelo zika](https://www.metropoles.com/saude/caso-raro-encefalite-virus-zika) (Metropoles.com)
+
 - [Komary tygrysie w kolejnym regionie kraju. Władze ostrzegają](https://tvn24.pl/tvnmeteo/swiat/portugalia-komary-tygrysie-w-kolejnym-regionie-kraju-owady-moga-przenosic-grozne-choroby-tropikalne-st8714875) (Tvn24.pl)
 
 ## 25-43 (yersinia)
 
 - [Η πανδημία που άλλαξε τον κόσμο για πάντα](https://www.naftemporiki.gr/culture/cinema/2020915/i-pandimia-poy-allaxe-ton-kosmo-gia-panta/) (Naftemporiki.gr)
+
+## 25-43 (typhoid)
+
+- [Bangladesh vaccinates 17 million children in anti-Typhoid campaign](https://newsnextbd.com/bangladesh-vaccinates-17-million-children-in-anti-typhoid-campaign/) (Newsnextbd.com)
 
 ## 25-43 (rabies)
 
@@ -53,6 +59,10 @@ Source: [News API](https://newsapi.org/)
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
 
 ## 25-43 (mpox)
+
+- [Mpox strain surfaces in US without international travel, raising fears of wider outbreak](https://www.foxnews.com/health/mpox-strain-surfaces-us-without-international-travel-raising-fears-wider-outbreak) (Fox News)
+
+- [Moçambique com 89 casos de Mpox em três meses](https://observador.pt/2025/10/23/mocambique-com-89-casos-de-mpox-em-tres-meses-mas-70-ja-estao-recuperados/) (Observador.pt)
 
 - [Why Australia has confirmed far fewer mpox cases this year](https://www.abc.net.au/news/2025-10-23/nsw-mpox-cases-australia-2025-scientists/105842962) (ABC News (AU))
 
@@ -102,6 +112,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (malaria)
 
+- [Warmer Nordic springs double the incidence of avian malaria, long-term study finds](https://phys.org/news/2025-10-warmer-nordic-incidence-avian-malaria.html) (Phys.Org)
+
+- [La historia del científico venezolano que demostró la eficacia de una pastilla barata para combatir la malaria](https://www.lanacion.com.ar/el-mundo/la-historia-del-cientifico-venezolano-que-demostro-la-eficacia-de-una-pastilla-barata-para-combatir-nid23102025/) (La Nacion)
+
+- [El científico venezolano que demostró la eficacia de una pastilla barata para combatir la malaria](https://www.bbc.com/mundo/articles/cp8jgp1lnlvo) (BBC News)
+
 - [Spatial Repellents Could Help Supercharge The Fight Against Malaria](https://www.forbes.com/sites/christinero/2025/10/22/spatial-repellents-could-help-supercharge-the-fight-against-malaria/) (Forbes)
 
 - [Vestergaard: a double dividend on malaria R&D](https://www.cbsnews.com/video/vestergaard-a-double-dividend-on-malaria-r-d/) (CBS News)
@@ -133,6 +149,16 @@ Source: [News API](https://newsapi.org/)
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
 
 ## 25-43 (h5n1)
+
+- [Cambodia Tracks Human Bird Flu Case As China Sees More H9N2 Cases](https://www.shtfplan.com/headline-news/cambodia-tracks-human-bird-flu-case-as-china-sees-more-h9n2-cases) (Shtfplan.com)
+
+- [Tausende tote Kraniche – „Dann kann es tatsächlich zu neuen Virus-Varianten kommen“](https://www.welt.de/gesundheit/article68fa199b59e2e09750709527/vogelgrippe-ausbruch-tausende-tote-kraniche-dann-kann-es-tatsaechlich-zu-neuen-virus-varianten-kommen.html) (DIE WELT)
+
+- [„Hände weg von toten Kranichen!“ – Was Experten raten](https://www.welt.de/gesundheit/article68fa199b59e2e09750709527/vogelgrippe-ausbruch-haende-weg-von-toten-kranichen-was-experten-raten.html) (DIE WELT)
+
+- [Ausbruch der Vogelgrippe: Hunderttausende Vögel in Deutschland durch Vogelgrippe gestorben](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-10/vogelgrippe-ausbruch-deutschland-h5n1-kraniche-gxe) (Die Zeit)
+
+- [Ausbruch der Vogelgrippe: Schon hunderttausende Vögel in Deutschland durch Vogelgrippe gestorben](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-10/vogelgrippe-ausbruch-deutschland-h5n1-kraniche) (Die Zeit)
 
 - [Groźny wirus powraca. Przypadki zachorowań przy granicy z Polską](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-powraca-przypadki-zachorowan-przy-granicy-z-pol,nId,22434301) (Interia.pl)
 
@@ -172,6 +198,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (dengue)
 
+- [Clima muda e dengue avança: risco cresce em novas regiões](https://www.terra.com.br/noticias/clima-muda-e-dengue-avanca-risco-cresce-em-novas-regioes,f5fa3856d8eac79767b8ac0415c9d6cax961ljcu.html) (Terra.com.br)
+
+- [Clima muda e dengue avança: risco cresce em novas regiões](https://valor.globo.com/patrocinado/dino/noticia/2025/10/23/clima-muda-e-dengue-avanca-risco-cresce-em-novas-regioes-1.ghtml) (Globo)
+
+- [Cuba: è allarme per epidemia di dengue, chikungunya e oropouche](https://www.ilsole24ore.com/art/cuba-e-allarme-epidemia-dengue-chikungunya-e-oropouche-AHa8vaJD) (Il Sole 24 Ore)
+
+- [Segnalato a Grigno un caso di Dengue importato](https://www.ansa.it/trentino/notizie/2025/10/23/segnalato-a-grigno-un-caso-di-dengue-importato_3a5b1b2d-4f0e-4841-b2ab-6982ae0f0fbe.html) (ANSA.it)
+
+- [Quem foi Adolfo Lutz, primeiro sul-americano a estudar mosquito da dengue e que derrotou teoria das doenças por 'miasma'](https://www.bbc.com/portuguese/articles/cr5q0dqgrn9o) (BBC News)
+
 - [Investigating linkages between human movement and meteorological variables on dengue outbreaks in the Pacific Islands](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013607) (Plos.org)
 
 - [Entomological surveys and insecticide resistance in the dengue vector Aedes aegypti in Dakar, Senegal: First detection of the kdr mutation](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013657) (Plos.org)
@@ -183,6 +219,8 @@ Source: [News API](https://newsapi.org/)
 - [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
+
+- [Cuba: è allarme per epidemia di dengue, chikungunya e oropouche](https://www.ilsole24ore.com/art/cuba-e-allarme-epidemia-dengue-chikungunya-e-oropouche-AHa8vaJD) (Il Sole 24 Ore)
 
 - [Komary tygrysie w kolejnym regionie kraju. Władze ostrzegają](https://tvn24.pl/tvnmeteo/swiat/portugalia-komary-tygrysie-w-kolejnym-regionie-kraju-owady-moga-przenosic-grozne-choroby-tropikalne-st8714875) (Tvn24.pl)
 
@@ -1790,8 +1828,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
-- [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
-
 ## 25-37 (typhoid)
 
 - [Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048) (Plos.org)
@@ -1811,8 +1847,6 @@ Source: [News API](https://newsapi.org/)
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
 
 - [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
-
-- [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
 
@@ -1841,8 +1875,6 @@ Source: [News API](https://newsapi.org/)
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
 
 - [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
-
-- [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
 
@@ -2024,14 +2056,6 @@ Source: [News API](https://newsapi.org/)
 
 - [México abrió el mes de septiembre con 755 contagios de dengue](https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011) (Excelsior.com.mx)
 
-- [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
-
-- [Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms) (The Times of India)
-
-- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
-
-- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
-
 ## 25-37 (chikungunya)
 
 - [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
@@ -2061,9 +2085,3 @@ Source: [News API](https://newsapi.org/)
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
-
-- [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
-
-- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
-
-- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
