@@ -1,8 +1,171 @@
 {
-  "last_updated": "2025-10-23 19:06",
-  "count_articles_total": 850,
-  "count_articles_new": 22,
+  "last_updated": "2025-10-24 07:07",
+  "count_articles_total": 867,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 25259,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Thefocalpoints.com",
+      "author": "Nicolas Hulscher",
+      "title": "BREAKING: 2.23 Million-Person Study Finds Pneumococcal Vaccines Increase Risk of Pneumonia and Death",
+      "description": "The vaccines given to nearly every U.S. child and senior were linked to higher pneumonia and death rates in one of the largest real-world studies ever conducted.",
+      "url": "https://www.thefocalpoints.com/p/breaking-223-million-person-study",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!G5FM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb4b26d7-89c1-4a0e-9979-53b2fcfefcee_1174x1156.png",
+      "publishedAt": "2025-10-23 07:06:32",
+      "content": "by Nicolas Hulscher, MPH For decades, U.S. and European health authorities have promoted pneumococcal vaccination as an essential tool to prevent serious bacterial pneumonia, meningitis, and sepsis \u2026 [+4405 chars]",
+      "retrievedAt": "2025-10-24 07:07:39.625524",
+      "internal_id": "3be7614e96fe6262c90dfa29c8147116605126db0f3d9aa8de58eeb28e833457",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 25260,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "anw/dd",
+      "title": "Komary tygrysie w kolejnym regionie kraju. W\u0142adze ostrzegaj\u0105",
+      "description": "Komary tygrysie pojawi\u0142y si\u0119 w dystrykcie Braga po\u0142o\u017conym na p\u00f3\u0142nocy Portugalii. Owady te mog\u0105 roznosi\u0107 gro\u017ane choroby tropikalne, takie jak zika, denga oraz chikungunya.",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/portugalia-komary-tygrysie-w-kolejnym-regionie-kraju-owady-moga-przenosic-grozne-choroby-tropikalne-st8714875",
+      "urlToImage": "https://tvn24.pl/_e/i/tvnmeteo/najnowsze/cdn-zdjecie-997317-komar-tygrysi-ph5431153/alternates/WEBP_LANDSCAPE_840",
+      "publishedAt": "2025-10-23 06:59:52",
+      "content": "Komary tygrysie pojawiy si w dystrykcie Braga pooonym na p\u00f3nocy Portugalii. Owady te mog roznosi grone choroby tropikalne, takie jak zika, denga oraz chikungunya. W pierwszej poowie padziernika w po\u2026 [+2364 chars]",
+      "retrievedAt": "2025-10-24 07:07:41.534514",
+      "internal_id": "f22bc50160fbaa30a4414a31a8a7326584315ea9fcf0be5b8b6671a459d8dd14",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 25261,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Chinadigitaltimes.net",
+      "author": "Cindy Carter",
+      "title": "Translations on Chikungunya and Mosquito Eradication in Guangdong: \u201cHand Over Your Keys or We\u2019ll Pick the Locks!\u201d",
+      "description": "Public backlash has forced local officials in Pengyuan\u2014a community in the city of Jiangmen, Guangdong province\u2014to rescind an order requiring residents to surrender their keys so that sanitation workers can enter outbuildings to fumigate and eradicate mosquito\u2026",
+      "url": "https://chinadigitaltimes.net/2025/10/translations-on-chikungunya-and-mosquito-eradication-in-guangdong-hand-over-your-keys-or-well-pick-the-locks/",
+      "urlToImage": "https://chinadigitaltimes.net/wp-content/uploads/2025/04/IMG_2931.png",
+      "publishedAt": "2025-10-23 06:51:25",
+      "content": "Public backlash has forced local officials in Pengyuana community in the city of Jiangmen, Guangdong provinceto rescind an order requiring residents to surrender their keys so that sanitation workers\u2026 [+10550 chars]",
+      "retrievedAt": "2025-10-24 07:07:41.855812",
+      "internal_id": "f40f9ae826b2062bb4f1c68c8bc59e0bf5c144e4ad73fc4b7626782070f552d5",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 25254,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "Measles Outbreaks Abound Under RFK Jr.\u2019s Inaction",
+      "description": "You may be tired of hearing about measles by now, but measles is not tired of infecting Americans. It\u2019s worth reminding ourselves that this is a disease that was declared gone in America. Cases and transmission rates were so low in 2000, thanks almost entirel\u2026",
+      "url": "https://www.techdirt.com/2025/10/22/measles-outbreaks-abound-under-rfk-jr-s-inaction/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-10-23 02:56:00",
+      "content": "from the needless-suffering dept You may be tired of hearing about measles by now, but measles is not tired of infecting Americans. It\u2019s worth reminding ourselves that this is a disease that was dec\u2026 [+5041 chars]",
+      "retrievedAt": "2025-10-24 07:07:37.067026",
+      "internal_id": "145ae62217e0534edfa4622b4c610009c7f86eba839957dcc10b5434e623e2af",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 25256,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Honolulu Star-Advertiser",
+      "author": "Nina Wu",
+      "title": "DOH finds measles in Kauai wastewater, no cases reported | Honolulu Star-Advertiser",
+      "description": "The Hawaii Department of Health today announced that a wastewater sample from Kauai tested positive for the measles virus..",
+      "url": "https://www.staradvertiser.com/2025/10/22/breaking-news/doh-finds-measles-in-kauai-wastewater-no-cases-reported/",
+      "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2025/10/web1_20251022_brk_mea01.jpg",
+      "publishedAt": "2025-10-22 22:59:13",
+      "content": "The Hawaii Department of Health today announced that a wastewater sample from Kauai tested positive for the measles virus.. Officials said the sample was collected on Sept. 24 from a site in East Ka\u2026 [+2525 chars]",
+      "retrievedAt": "2025-10-24 07:07:37.148853",
+      "internal_id": "2c796e90aca3cf7f6c1211371b480649cc896a593723d5bd75c1af3d39cb0032",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25255,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Measles spreading beyond the center of the Utah-Arizona outbreak",
+      "description": "The nation's second largest measles outbreak this year is now spreading beyond its epicenter along the Utah-Arizona border.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-spreading-utah-arizona-outbreak-vaccines-rcna238757",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251022-measles-outbreak-hildale-aerial-utah-vl-422p-23dc7f.jpg",
+      "publishedAt": "2025-10-22 22:00:33",
+      "content": "MOHAVE COUNTY, Ariz. The nation's second-largest measles outbreak this year is spreading beyond its epicenter along the Utah-Arizona border. Most of the known measles cases 123 as of Wednesday are \u2026 [+2504 chars]",
+      "retrievedAt": "2025-10-24 07:07:37.139367",
+      "internal_id": "d493415bea3d1eb184fc34d394bc9d9e01f86d20f18b8a30d0606f62fc607c78",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25257,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Hawaii News Now",
+      "author": "Hnn Staff",
+      "title": "Dept. of Health monitors positive wastewater sample for measles virus in Kauai",
+      "description": "The sample was collected Sept. 24, 2025, at a site in East Kauai County and DOH was notified of the result on Oct. 20, 2025.",
+      "url": "https://www.hawaiinewsnow.com/2025/10/22/dept-health-monitors-positive-wastewater-sample-measles-virus-kauai/",
+      "urlToImage": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/BOJI4PDACJB4FFNU6HPYFVW56I.jpg?auth=16d68f3f6dafeeb9cb5b4ea22a71f3f05bce41f67cd6f78cef845ad1a6315166&width=1200&height=600&smart=true",
+      "publishedAt": "2025-10-22 20:50:35",
+      "content": "HONOLULU (HawaiiNewsNow) - The Hawaii Department of Health (DOH) is monitoring a positive wastewater sample for measles virus, the first wastewater detection of the virus for Kauai County. The samp\u2026 [+2542 chars]",
+      "retrievedAt": "2025-10-24 07:07:37.158321",
+      "internal_id": "2e190d0695523818e319ace53b6619b4d952f451f6a58b6afc18d0639cb3f3b9",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25258,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Marcin Boniecki",
+      "title": "Gro\u017any wirus powraca. Przypadki zachorowa\u0144 przy granicy z Polsk\u0105",
+      "description": "Wirus ptasiej grypy H5N1 zosta\u0142 wykryty na S\u0142owacji - potwierdzaj\u0105 tamtejsze s\u0142u\u017cby weterynaryjne. Przypadki zachorowa\u0144 dotycz\u0105 ma\u0142ych gospodarstw na p\u00f3\u0142nocy i po\u0142udniowym zachodzie kraju. Ognisko choroby wykryto r\u00f3wnie\u017c na farmie indyk\u00f3w w Belgii.",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-powraca-przypadki-zachorowan-przy-granicy-z-pol,nId,22434301",
+      "urlToImage": "https://i.iplsc.com/-/000LSVS2IEG1S0L0-C461.jpg",
+      "publishedAt": "2025-10-22 19:32:53",
+      "content": "W skr\u00f3cie Sowackie suby potwierdziy przypadki ptasiej grypy H5N1 w maych gospodarstwach na p\u00f3nocy i poudniowym zachodzie kraju. Podjto decyzj o wybiciu ptak\u00f3w w promieniu trzec\u2026 [+2307 chars]",
+      "retrievedAt": "2025-10-24 07:07:37.808250",
+      "internal_id": "6a26501e1b12085f61bfc251090cbd8a07ec80995bc95ff048684ebe5f692615",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 25262,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Miriah Davis",
+      "title": "Why Australia has confirmed far fewer mpox cases this year",
+      "description": "Mpox transmission surged between July to September last year, but there have been far fewer cases recorded in 2025.",
+      "url": "https://www.abc.net.au/news/2025-10-23/nsw-mpox-cases-australia-2025-scientists/105842962",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c69703f380cea256ee833be664ef7e46?impolicy=wcms_watermark_news&cropH=1450&cropW=2577&xPos=0&yPos=134&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-10-22 19:11:50",
+      "content": "In the space of three months last year, mpox cases in Australia surged from a very low base. More than 600 of 2024's total 1,409 recorded cases were confirmed during July to September, bringing mpox\u2026 [+6553 chars]",
+      "retrievedAt": "2025-10-24 07:07:42.096901",
+      "internal_id": "c85fb596a6c00319711bd6775d11fc075db28da8940c0475caa6eb74aba42484",
+      "publishedAtLabel": "Oct 22"
+    },
     {
       "id": 25239,
       "query": [
@@ -15362,6 +15525,152 @@
       "content": "Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue:\u2026 [+1496 chars]",
       "retrievedAt": "2025-09-09 07:08:01.744364",
       "internal_id": "fe026dd85c9bc1f240be90a16d250c37042d004996ed887b46b5c12b2f5357c9",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24395,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Associated Press",
+      "title": "Florida\u2019s plan to drop school vaccine rule won\u2019t start for 90 days, won\u2019t cover all diseases",
+      "description": "Florida\u2019s plan would lift mandates on school vaccines for hepatitis B, chickenpox, Hib influenza and pneumococcal diseases, such as meningitis, the health department said.",
+      "url": "https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/Vaccine_Mandates-Florida_83960_6b8302.jpg?w=1024&h=682",
+      "publishedAt": "2025-09-07 18:43:35",
+      "content": "By ED WHITE Floridas plan to drop school vaccine mandates likely wont take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to othe\u2026 [+2556 chars]",
+      "retrievedAt": "2025-09-08 19:05:47.184903",
+      "internal_id": "c57b4e84065bc62812ec5566b47d9522a2b701469809e5c9461a8ed6395a25e5",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Alma Paola Wong",
+      "title": "IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias",
+      "description": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el que se busca disminuir las poblaciones del mosquito Aedes ae\u2026",
+      "url": "https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/07/expertos-llamaron-fomentar-concientizacion-poblacion.jpg",
+      "publishedAt": "2025-09-07 18:36:00",
+      "content": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el \u2026 [+3224 chars]",
+      "retrievedAt": "2025-09-08 19:05:46.783225",
+      "internal_id": "571fb02ccb209cfd95177b6fed2de17b4f7035f53f082447c6bd2485b7cd9cfd",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant",
+      "description": "Shehnaaz Gill appeared on Bigg Boss 19 to support her brother, Shehbaz Badesha, a wild card entrant. She requested Salman Khan to give Shehbaz work, revealing his long-held dream and recent hospitalization due to dengue. Shehbaz charmed everyone with his humo\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123749872,width-1070,height-580,imgsize-74410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-07 17:06:12",
+      "content": "Dwayne Johnson, Tom Hanks, Rihanna: Hollywood actors who gave voice to your beloved animated movies",
+      "retrievedAt": "2025-09-08 19:05:46.807550",
+      "internal_id": "80dc3f45daba25980ed6954eb8a1b85fd8e95c59598a08d84f2de61f9cfe9639",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24390,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health: A rabid mongoose was found in Kfar Yehezkel",
+      "description": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies.The Ministry asks anyone who was in contact, or whose animals came in\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/665911",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-09-07 14:56:11",
+      "content": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies. The Min\u2026 [+242 chars]",
+      "retrievedAt": "2025-09-08 19:05:45.436992",
+      "internal_id": "d09419236411d45c71323ecf62f5c916ad0cb3d65c6e973f910bfe31741a5faf",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24397,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "El ADN resuelve un misterio de 1500 a\u00f1os: la bacteria detr\u00e1s de la primera gran pandemia",
+      "description": "Un hallazgo en Jordania permiti\u00f3 identificar restos gen\u00f3micos de Yersinia pestis, la bacteria causante de la Peste de Justiniano. Esta confirmaci\u00f3n, esperada durante siglos, une arqueolog\u00eda y biolog\u00eda molecular y ofrece lecciones actuales: las pandemias no so\u2026",
+      "url": "https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-20-4-1200x675.jpg",
+      "publishedAt": "2025-09-07 14:12:01",
+      "content": "Durante m\u00e1s de un milenio, historiadores y cient\u00edficos debatieron qu\u00e9 pat\u00f3geno desencaden\u00f3 la Peste de Justiniano, la cat\u00e1strofe que entre los siglos VI y VIII diezm\u00f3 al Imperio Bizantino y cambi\u00f3 la\u2026 [+2871 chars]",
+      "retrievedAt": "2025-09-08 19:05:49.086863",
+      "internal_id": "11e9986c65b4c2d8d02e087932e487c65c7c7ff4adb5089ba0ae35ea7017ed17",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24396,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la \u201cnueva normalidad\u201d",
+      "description": "Los mosquitos dejan de ser un recuerdo tropical para convertirse en un problema cotidiano en Europa. Francia e Italia registran cifras r\u00e9cord de chikungunya y virus del Nilo Occidental, con brotes aut\u00f3ctonos en zonas donde jam\u00e1s se hab\u00edan detectado. El cambio\u2026",
+      "url": "https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-13-4-1200x675.jpg",
+      "publishedAt": "2025-09-07 08:30:39",
+      "content": "Lo que antes parec\u00eda exclusivo de selvas y manglares hoy irrumpe en barrios europeos: los virus transmitidos por mosquitos se expanden y baten r\u00e9cords de contagios. El Centro Europeo para la Prevenci\u2026 [+3078 chars]",
+      "retrievedAt": "2025-09-08 19:05:47.950380",
+      "internal_id": "3dc537531b78f4ac8ea277fb5f9c4479863525b6fff22289a497949d3a7bdc82",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24391,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Elszabadultak a vesz\u00e9lyes v\u00edrusok a vil\u00e1g egyik legn\u00e9pesebb orsz\u00e1g\u00e1ban: egyszerre k\u00e9t j\u00e1rv\u00e1ny is tombol",
+      "description": "Bangladesben s\u00falyosbodik a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e1ls\u00e1g a sz\u00fanyogok \u00e1ltal terjesztett dengue-l\u00e1z \u00e9s chikungunya j\u00e1rv\u00e1nyok miatt, amelyek t\u00falterhelik az eg\u00e9szs\u00e9g\u00fcgyi rendszert \u00e9s a szak\u00e9rt\u0151k szerint a helyzet tov\u00e1bb romolhat - \u00edrta meg a Reuters.",
+      "url": "https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-virus-illusztracio-644285.jpg",
+      "publishedAt": "2025-09-07 08:15:00",
+      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+2026 chars]",
+      "retrievedAt": "2025-09-08 19:05:46.773584",
+      "internal_id": "9a9c676c37abbbe7a6cf99f80bf2fbe14da40674d50d2984173b6a847e973436",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 24394,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "News18",
+      "author": "Yogendra Mishra",
+      "title": "Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0938\u0902\u0915\u091f WHO \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940",
+      "description": "Bangladesh Dengue Case: \u0922\u093e\u0915\u093e \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u092c\u0922\u093c\u0924\u0940 \u0926\u093f\u0916 \u0930\u0939\u0940 \u0939\u0948. \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092d\u0940\u0921\u093c \u0932\u0917\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948. WHO \u0928\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0926\u0940.",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html",
+      "urlToImage": "https://images.news18.com/ibnkhabar/uploads/2025/09/bangladesh-2-2025-09-f23134b8afed2be39e3995065331eee4-16x9.jpg",
+      "publishedAt": "2025-09-07 08:12:52",
+      "content": "Last Updated:September 07, 2025, 13:28 IST . : . . . 33,800 , 132 . 10 1,500 . . . 785 . 24 30 3,000 . , , . . - . , . , . , . (2023) , 1,705 3.21 . 48 , , . , .WHO (WHO) . WHO , , (NSAIDs )\u2026 [+9 chars]",
+      "retrievedAt": "2025-09-08 19:05:46.870210",
+      "internal_id": "5c47042e912af0acb322569912435242b0afc6ebd98d2a2f7346bdda01260059",
       "publishedAtLabel": "Sep 7"
     }
   ]
