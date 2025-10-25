@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-10-24 19:06
-- **Most recent article:** 2025-10-23 18:27:04
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-10-25 07:06
+- **Most recent article:** 2025-10-23 23:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-37 | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 37 | 54 | 34 | 31 | 29 | 35 | 16 | 236 |
-| dengue | 19 | 26 | 18 | 32 | 23 | 18 | 10 | 146 |
-| chikungunya | 14 | 38 | 23 | 25 | 10 | 28 | 8 | 146 |
+| measles | 37 | 54 | 34 | 31 | 29 | 35 | 18 | 238 |
+| dengue | 23 | 26 | 18 | 32 | 23 | 18 | 12 | 152 |
+| chikungunya | 17 | 38 | 23 | 25 | 10 | 28 | 9 | 150 |
 | malaria | 17 | 10 | 15 | 10 | 20 | 24 | 13 | 109 |
-| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 23 | 69 |
-| rabies | 4 | 14 | 18 | 10 | 6 | 9 | 3 | 64 |
+| h5n1 | 6 | 9 | 5 | 10 | 8 | 8 | 24 | 70 |
+| rabies | 5 | 14 | 18 | 10 | 6 | 9 | 3 | 65 |
 | mpox | 7 | 5 | 8 | 1 | 10 | 11 | 6 | 48 |
-| zika | 6 | 6 | 6 | 5 | 7 | 1 | 2 | 33 |
-| meningitis | 5 | 6 | 3 | 7 | 5 | 4 | 1 | 31 |
+| zika | 6 | 6 | 6 | 5 | 7 | 1 | 3 | 34 |
+| meningitis | 6 | 6 | 3 | 7 | 5 | 4 | 1 | 32 |
 | typhoid | 4 | 1 | 3 | 0 | 4 | 5 | 1 | 18 |
 | hpai | 4 | 1 | 1 | 2 | 1 | 0 | 4 | 13 |
 | leptospirosis | 1 | 0 | 2 | 5 | 1 | 4 | 0 | 13 |
-| yersinia | 3 | 0 | 1 | 0 | 0 | 2 | 1 | 7 |
+| yersinia | 4 | 0 | 1 | 0 | 0 | 2 | 1 | 8 |
 | pertussis | 0 | 2 | 0 | 1 | 2 | 0 | 1 | 6 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-43 (zika)
+
+- [Científicos detectan nuevo 'súper mosquito' en Yucatán: transmite dengue, zika, chikungunya y fiebre amarilla](https://www.milenio.com/estados/detectan-especie-de-mosquito-en-yucatan-municipios-afectados) (Milenio)
 
 - [Fiocruz relata caso raro de encefalite associada à infecção pelo zika](https://www.metropoles.com/saude/caso-raro-encefalite-virus-zika) (Metropoles.com)
 
@@ -77,6 +79,10 @@ Source: [News API](https://newsapi.org/)
 - [BREAKING: 2.23 Million-Person Study Finds Pneumococcal Vaccines Increase Risk of Pneumonia and Death](https://www.thefocalpoints.com/p/breaking-223-million-person-study) (Thefocalpoints.com)
 
 ## 25-43 (measles)
+
+- [Measles outbreak in northern Nova Scotia declared over](https://www.cbc.ca/news/canada/nova-scotia/measles-outbreak-in-nova-scotia-health-northern-zone-over-9.6950673) (CBC News)
+
+- [NZ may be on the cusp of another measles outbreak – what happened in 2019 should be a warning](https://theconversation.com/nz-may-be-on-the-cusp-of-another-measles-outbreak-what-happened-in-2019-should-be-a-warning-268086) (The Conversation Africa)
 
 - [Measles Outbreaks Abound Under RFK Jr.’s Inaction](https://www.techdirt.com/2025/10/22/measles-outbreaks-abound-under-rfk-jr-s-inaction/) (Techdirt)
 
@@ -150,6 +156,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (h5n1)
 
+- [Detetada gripe das aves em Portimão](https://observador.pt/2025/10/23/gripe-das-aves-volta-a-ser-detetada-em-portimao/) (Observador.pt)
+
 - [Cambodia Tracks Human Bird Flu Case As China Sees More H9N2 Cases](https://www.shtfplan.com/headline-news/cambodia-tracks-human-bird-flu-case-as-china-sees-more-h9n2-cases) (Shtfplan.com)
 
 - [Tausende tote Kraniche – „Dann kann es tatsächlich zu neuen Virus-Varianten kommen“](https://www.welt.de/gesundheit/article68fa199b59e2e09750709527/vogelgrippe-ausbruch-tausende-tote-kraniche-dann-kann-es-tatsaechlich-zu-neuen-virus-varianten-kommen.html) (DIE WELT)
@@ -198,6 +206,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-43 (dengue)
 
+- [Dengue diagnostics: from commercial tests to optical nanosensors](https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01842k) (Royal Society of Chemistry)
+
+- [Científicos detectan nuevo 'súper mosquito' en Yucatán: transmite dengue, zika, chikungunya y fiebre amarilla](https://www.milenio.com/estados/detectan-especie-de-mosquito-en-yucatan-municipios-afectados) (Milenio)
+
 - [Clima muda e dengue avança: risco cresce em novas regiões](https://www.terra.com.br/noticias/clima-muda-e-dengue-avanca-risco-cresce-em-novas-regioes,f5fa3856d8eac79767b8ac0415c9d6cax961ljcu.html) (Terra.com.br)
 
 - [Clima muda e dengue avança: risco cresce em novas regiões](https://valor.globo.com/patrocinado/dino/noticia/2025/10/23/clima-muda-e-dengue-avanca-risco-cresce-em-novas-regioes-1.ghtml) (Globo)
@@ -219,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 - [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
+
+- [Científicos detectan nuevo 'súper mosquito' en Yucatán: transmite dengue, zika, chikungunya y fiebre amarilla](https://www.milenio.com/estados/detectan-especie-de-mosquito-en-yucatan-municipios-afectados) (Milenio)
 
 - [Cuba: è allarme per epidemia di dengue, chikungunya e oropouche](https://www.ilsole24ore.com/art/cuba-e-allarme-epidemia-dengue-chikungunya-e-oropouche-AHa8vaJD) (Il Sole 24 Ore)
 
@@ -1828,6 +1842,8 @@ Source: [News API](https://newsapi.org/)
 
 - [В России раскрыли особенности доисторической чумы](https://hi-tech.mail.ru/news/133599-v-rossii-raskryli-osobennosti-doistoricheskoj-chumy/) (Mail.ru)
 
+- [El ADN resuelve un misterio de 1500 años: la bacteria detrás de la primera gran pandemia](https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708) (Gizmodo.com)
+
 ## 25-37 (typhoid)
 
 - [Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013048) (Plos.org)
@@ -1847,6 +1863,8 @@ Source: [News API](https://newsapi.org/)
 - [Stray query: Can Delhi match its bark with bite?](https://timesofindia.indiatimes.com/india/stray-query-can-delhi-match-its-bark-with-bite/articleshow/123818764.cms) (The Times of India)
 
 - [Rabies continues to bite](https://www.thehindubusinessline.com/opinion/rabies-continues-to-bite/article70027073.ece) (BusinessLine)
+
+- [Ministry of Health: A rabid mongoose was found in Kfar Yehezkel](https://www.israelnationalnews.com/flashes/665911) (Israelnationalnews.com)
 
 ## 25-37 (mpox)
 
@@ -1875,6 +1893,8 @@ Source: [News API](https://newsapi.org/)
 - [Sonia Bermúdez en su presentación como seleccionadora femenina: insiste en nueva etapa y abre la puerta a Jenni Hermoso](https://www.eldiario.es/spin/deportes/sonia-bermudez-presentacion-seleccionadora-femenina-nueva-etapa-abre-puerta-jenni-hermoso-pm_1_12593139.html) (Eldiario.es)
 
 - [CK2 derived from brain microvascular endothelial cells induces astrocyte inflammatory response in Escherichia coli-induced meningitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013464) (Plos.org)
+
+- [Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases](https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/) (Sun Sentinel)
 
 ## 25-37 (measles)
 
@@ -2056,6 +2076,14 @@ Source: [News API](https://newsapi.org/)
 
 - [México abrió el mes de septiembre con 755 contagios de dengue](https://www.excelsior.com.mx/nacional/mexico-abrio-el-mes-de-septiembre-con-755-contagios-de-dengue/1738011) (Excelsior.com.mx)
 
+- [IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias](https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias) (Milenio)
+
+- [Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms) (The Times of India)
+
+- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
+
+- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
+
 ## 25-37 (chikungunya)
 
 - [Chikungunya : le moustique tigre accélère la propagation en France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-le-moustique-tigre-accelere-la-propagation-en-france_7490509.html) (Franceinfo.fr)
@@ -2085,3 +2113,9 @@ Source: [News API](https://newsapi.org/)
 - [Celina e Alexandre Padilha inauguram biofábrica de combate à dengue](https://www.metropoles.com/distrito-federal/celina-e-alexandre-padilha-inauguram-biofabrica-de-combate-a-dengue) (Metropoles.com)
 
 - [Clinical, virological, and antibody profiles of overlapping dengue and chikungunya virus infections in children from southern Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013260) (Plos.org)
+
+- [Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la “nueva normalidad”](https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673) (Gizmodo.com)
+
+- [Elszabadultak a veszélyes vírusok a világ egyik legnépesebb országában: egyszerre két járvány is tombol](https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532) (Portfolio.hu)
+
+- [Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- बांग्लादेश में डेंगू और चिकनगुनिया संकट WHO ने दी चेतावनी](https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html) (News18)
