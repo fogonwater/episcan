@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-10-25 07:06",
-  "count_articles_total": 889,
-  "count_articles_new": 5,
+  "last_updated": "2025-10-25 19:05",
+  "count_articles_total": 893,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 25288,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "RNZ",
+      "author": "Rowan Quinn",
+      "title": "World Health Organisation warned New Zealand of measles immunisation gap",
+      "description": "Latest stats show 72 percent of M\u0101ori under-fives are vaccinated, compared to 82 percent for the whole population.",
+      "url": "https://www.rnz.co.nz/news/national/576901/world-health-organisation-warned-new-zealand-of-measles-immunisation-gap",
+      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--VrUWvxuO--/t_tohu-badge-facebook/v1647406364/4LVT0Q9_copyright_image_287634?_a=BACCd2AD",
+      "publishedAt": "2025-10-24 19:02:11",
+      "content": "The world health body was concerned that vaccination was at its lowest since 2012. Photo: 123rf The World Health Organisation warned New Zealand last year about the \"alarming\" gap in its measles imm\u2026 [+2489 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.350461",
+      "internal_id": "8913b7bf60ae1a732e0c3aaa9e8825d66e94a453fab44180313966610a5417a7",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25287,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bloomberg",
+      "title": "OpenAI backs a new venture trying to thwart AI bio attacks",
+      "description": "Valthos, a New York-based biosecurity startup founded by Kathleen McMahon and Tess van Stekelenburg, has emerged from stealth with $30 million in funding from OpenAI, Founders Fund, and Lux Capital. Using AI to detect and counter bioweapon threats, Valthos ai\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/startups/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks/articleshow/124791253.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-105008,resizemode-75,msid-124791253/tech/startups/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks.jpg",
+      "publishedAt": "2025-10-24 17:42:35",
+      "content": "Its a nightmare scenario: A terrorist without much training uses an artificial intelligence program to engineer a supervirus combining the incubation period of HIV, the contagiousness of measles and \u2026 [+4625 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.316363",
+      "internal_id": "05c4a1626c10cce87b450c1ff915ea1a111a0f2d721190de86fa4c6b93523e60",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25290,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Kai Wiedermann",
+      "title": "Studie zur Vogelgrippe: Virus nur eine Mutation vom Menschen entfernt",
+      "description": "Kann sich die Vogelgrippe bald auch unter Menschen verbreiten? Eine Studie enth\u00fcllt, welche Gefahr von dem Virus f\u00fcr uns ausgeht.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article407862232/vogelgrippe-mutation-virus-menschen-gefahr-pandemie-studie.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407861913/407861913_1733762230_v16_9_1600.jpeg",
+      "publishedAt": "2025-10-24 15:54:39",
+      "content": "Eine einzige Mutation des Vogelgrippevirus H5N1, das mittlerweile auch in Deutschland stark grassiert, k\u00f6nnte ausreichen, um die \u00dcbertragung auf Menschen zu erleichtern. Dies zeigt eine Studie aus ve\u2026 [+3673 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.945665",
+      "internal_id": "b1c79e3ade418efab31871625926e3ca3f697b623df7306d1f3d657eca56855d",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25295,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": "di Francesca Cerati",
+      "title": "Chikungunya, arriva il primo vaccino per fermarla",
+      "description": "Arriva anche in Italia il primo vaccino contro la chikungunya, malattia virale trasmessa dalle zanzare Aedes, responsabile di febbre alta e forti dolori articolari che possono durare mesi. Dal 30...",
+      "url": "https://www.ilsole24ore.com/art/chikungunya-arriva-primo-vaccino-fermarla-AHJBUeKD",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/10/25/Immagini/Ritagli/zanzara-tigre-U42020286824URA-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-10-24 15:32:01",
+      "content": "Nel mondo, dallinizio del 2025 si sono registrati 317.000 casi e 135 decessi in 16 Paesi, secondo lEuropean Centre for disease prevention and control (Ecdc). E la cifra reale potrebbe essere ancora p\u2026 [+1628 chars]",
+      "retrievedAt": "2025-10-25 19:05:45.392226",
+      "internal_id": "b8028c6daf2dc763ab7e590e86c3ae7536df584a029e6399f65b3b9bb0b60312",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25293,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jing Shen, Elizaveta Kharitonova, Anna Tytula, Justyna Zawieja, Samuel Aballea, Shibadas Biswal, Mayuri Sharma, Supattra Rungmaitree, Rosarin Sruamsiri, Derek Wallace, Riona Hanley",
+      "title": "Correction: Vaccination strategies, public health impact and cost-effectiveness of dengue vaccine TAK-003: A modeling case study in Thailand",
+      "description": "",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004789",
+      "urlToImage": null,
+      "publishedAt": "2025-10-24 14:00:00",
+      "content": "There are errors in the Author Contributions. The correct contributions are: Conceptualization: Jing Shen, Elizaveta Kharitonova Data curation: Elizaveta Kharitonova, Anna Tytula, Justyna Zawieja, \u2026 [+1260 chars]",
+      "retrievedAt": "2025-10-25 19:05:44.299900",
+      "internal_id": "50a8079943259b74ad534ad48a5eff24201248b3241d161d943c6283ee5baf29",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25294,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alicer K. Andrew, Tara C. Bracken, Nicole Nazario-Maldonado, Brittany N. Russ, Kathryn T. Gonzalvo, Benjamin M. Brainard, Nigel Mackman, Julie M. Moore",
+      "title": "Correction: Anticoagulant therapy and altered tissue factor expression protect against experimental placental and cerebral malaria",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013624",
+      "urlToImage": null,
+      "publishedAt": "2025-10-24 14:00:00",
+      "content": "The fifth authors name is spelled incorrectly. The correct name is: Kathryn T. Gonzalvo. The correct citation is: Andrew AK, Bracken TC, Nazario-Maldonado N, Russ BN, Gonzalvo KT, Brainard BM, et al.\u2026 [+1557 chars]",
+      "retrievedAt": "2025-10-25 19:05:44.896441",
+      "internal_id": "59bfb05859735eef35bfffe5ddc341f934975139b3c08b93ae9ec8f324ae63f7",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25289,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "R\u00fcdiger Soldt",
+      "title": "Vogelgrippe in \u00d6llingen: Tausende H\u00fchner m\u00fcssen get\u00f6tet werden",
+      "description": "Laut dem baden-w\u00fcrttembergischen Landwirtschaftsminister hat der Schutz von Tieren \u201eoberste Priorit\u00e4t\u201c. Wie das Vogelgrippe-Virus in den Tierbestand eingetragen wurde, ist noch unklar.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/tiere/vogelgrippe-in-oellingen-15-000-huehner-muessen-getoetet-werden-110748379.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/w1200/aktuell/wirtschaft/687090554/1.10748384/facebook_teaser/im-radius-von-drei-kilometern.jpg.webp",
+      "publishedAt": "2025-10-24 13:24:23",
+      "content": "In einem Gefl\u00fcgelmastbetrieb im baden-w\u00fcrttembergischen \u00d6llingen (Alb-Donau-Kreis) sind Teile des Tierbestands vom Vogelgrippe-Virus (H5N1) befallen. Etwa 15.000 H\u00fchner m\u00fcssen nach der Gefl\u00fcgelschutz\u2026 [+2517 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.877749",
+      "internal_id": "edbf6d1ab6b6188a5120135e0484035ef6aa87e7154e9a5bf6a8ac12a137034c",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25296,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0395\u03b9\u03c1\u03ae\u03bd\u03b7 \u039c\u03b9\u03c7\u03b1\u03bb\u03bf\u03cd\u03b4\u03b7",
+      "title": "\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 Mpox clade 1b \u03c3\u03b5 4 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ad\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2",
+      "description": "\u03a4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b4\u03cd\u03bf \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0388\u03bd\u03c9\u03c3\u03b7, \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd k\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b5\u03b3\u03c7\u03ce\u03c1\u03b9\u03b1\u03c2 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03c5 \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03bf\u03c5\u03c2 clade 1b \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03bd\u03cc\u03c3\u03bf mpox (\u03c0\u03c1\u03ce\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd). \u03a4\u03bf ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 Mpo\u2026",
+      "url": "https://www.newsit.gr/kosmos/eylogia-ton-pithikon-synagermos-gia-to-epikindyno-stelexos-mpox-clade-1b-se-4-eyropaikes-xores/4509066/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/10/monkeypox-1200x630.jpg",
+      "publishedAt": "2025-10-24 13:01:44",
+      "content": ", k clade 1b mpox ( ). &amp; (ECDC) , : . , \u00ab\u00bb ( ) . , . . . , , mpox : . . 10 2025. 17 . (2) 17 . 17 ECDC ECDC 30 2024 2025. clade 1b\u2026 [+131 chars]",
+      "retrievedAt": "2025-10-25 19:05:45.626094",
+      "internal_id": "13d0fc866acc501a5d4ed7857585ddf06530840f85e1b8820bf30cc299622fc3",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25286,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health: Patient who contracted measles traveled on return flight from Tel Aviv to Krakow",
+      "description": "The Ministry of Health has issued on update on a patient with measles, who flew between Tel Aviv and Krakow.According to the epidemiological investigation conducted by the Central District Health Bureau at the Ministry of Health, the passenger flew on Wizz Ai\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/669140",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-10-24 10:03:22",
+      "content": "The Ministry of Health has issued on update on a patient with measles, who flew between Tel Aviv and Krakow. According to the epidemiological investigation conducted by the Central District Health B\u2026 [+462 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.305917",
+      "internal_id": "8c4bfeef4d8237dae35418c89b74118166620839a602851d7bde29c3a2636d16",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25285,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Nearly 90% of Manitoba's reported measles cases involved unvaccinated patients: public health",
+      "description": "The vast majority of reported measles cases in Manitoba since February have involved patients who didn't have a single vaccine dose, according to provincial data.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-vaccination-cases-9.6951302",
+      "urlToImage": "https://i.cbc.ca/ais/0c534dc1-054c-4b91-8012-d763b82ea118,1761264236600/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C57%2C1180%2C663%29%3BResize%3D620",
+      "publishedAt": "2025-10-24 10:00:00",
+      "content": "Nearly nine in every 10 reported measles cases in Manitoba since February involved patients who didn't have a single vaccine dose, according to the province's data. There have been 230 confirmed and\u2026 [+4850 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.276378",
+      "internal_id": "3d69346ff95ee1de2402bd283bcbf1fc4674efdb672cf8c982a035c8945138bb",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25292,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Meryem \u00dcst\u00fcn",
+      "title": "Ku\u015f gribi Berlin'e ula\u015ft\u0131! Binlerce kanatl\u0131 itlaf edildi",
+      "description": "Almanya'n\u0131n \u00e7e\u015fitli b\u00f6lgelerinde ortaya \u00e7\u0131kan ku\u015f gribi vakalar\u0131 sonras\u0131 binlerce kanatl\u0131 hayvan itlaf edilirken, Federal Tar\u0131m Bakanl\u0131\u011f\u0131 salg\u0131n\u0131n \u00f6n\u00fcne ge\u00e7mek i\u00e7in \u00e7\u00f6z\u00fcm ar\u0131yor.",
+      "url": "https://www.haber7.com/dunya/haber/3574051-kus-gribi-berline-ulasti-binlerce-kanatli-itlaf-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/43/kus_gribi_berline_ulasti_binlerce_kanatli_itlaf_edildi_1761297635_2043.jpg",
+      "publishedAt": "2025-10-24 09:24:00",
+      "content": "Almanya'da ilk olarak bir hafta \u00f6nce ortaya \u00e7kan ku gribi (H5N1) vakalar hzla artmaya devam ediyor. Vakalarn ilk g\u00f6r\u00fcld\u00fc\u00fc Brandenburg eyaletinde 9 binden fazla \u00f6rdek, hindi ve kaz itlaf edilirken, Li\u2026 [+1710 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.990318",
+      "internal_id": "276ec813321a4c685f3f1bca0ad12928ecfb808fd915fb0ea021120137c2ab2f",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25291,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Vogelgrippe: Vogelgrippe breitet sich rasch \u00fcber ganz Deutschland aus",
+      "description": "Das hochansteckende H5N1-Virus erfasst immer mehr Gefl\u00fcgelbetriebe in Deutschland. Tiere m\u00fcssen zuhauf get\u00f6tet werden. Bei Wildv\u00f6geln ist die Gefl\u00fcgelpest schon nahezu fl\u00e4chendeckend verbreitet.",
+      "url": "https://www.tagesspiegel.de/wirtschaft/vogelgrippe-vogelgrippe-breitet-sich-rasch-uber-ganz-deutschland-aus-14649254.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14651375/alternates/BASE_16_9_W1400/1761304546000/vogelgrippe.jpeg",
+      "publishedAt": "2025-10-24 09:22:55",
+      "content": "Die Vogelgrippe hat sich nach Angaben des f\u00fcr Tierseuchen zust\u00e4ndigen Friedrich-Loeffler-Instituts (FLI) mittlerweile fast \u00fcber ganz Deutschland ausgebreitet. Mit Ausnahme des Stadtstaates Bremen sei\u2026 [+1894 chars]",
+      "retrievedAt": "2025-10-25 19:05:43.955651",
+      "internal_id": "607fb7cd18b31b268e421b8676a8a528d8e024caa30e3fa4d032b9ae16668085",
+      "publishedAtLabel": "Oct 24"
+    },
     {
       "id": 25283,
       "query": [
@@ -15924,152 +16140,6 @@
       "content": "Debido a la notificaci\u00f3n de 755 nuevos casos de dengue, M\u00e9xico abri\u00f3 el mes de septiembre con 8 mil 256 contagios, distribuidos en 29 diferentes estados. TE PUEDE INTERESAR: Dengue grave vs. dengue:\u2026 [+1496 chars]",
       "retrievedAt": "2025-09-09 07:08:01.744364",
       "internal_id": "fe026dd85c9bc1f240be90a16d250c37042d004996ed887b46b5c12b2f5357c9",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24395,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sun Sentinel",
-      "author": "Associated Press",
-      "title": "Florida\u2019s plan to drop school vaccine rule won\u2019t start for 90 days, won\u2019t cover all diseases",
-      "description": "Florida\u2019s plan would lift mandates on school vaccines for hepatitis B, chickenpox, Hib influenza and pneumococcal diseases, such as meningitis, the health department said.",
-      "url": "https://www.sun-sentinel.com/2025/09/07/floridas-plan-to-drop-school-vaccine-rule-wont-start-for-90-days-wont-cover-all-diseases/",
-      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/Vaccine_Mandates-Florida_83960_6b8302.jpg?w=1024&h=682",
-      "publishedAt": "2025-09-07 18:43:35",
-      "content": "By ED WHITE Floridas plan to drop school vaccine mandates likely wont take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to othe\u2026 [+2556 chars]",
-      "retrievedAt": "2025-09-08 19:05:47.184903",
-      "internal_id": "c57b4e84065bc62812ec5566b47d9522a2b701469809e5c9461a8ed6395a25e5",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24392,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Alma Paola Wong",
-      "title": "IPN desarrolla bioinsecticida para detener incremento de dengue por lluvias",
-      "description": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el que se busca disminuir las poblaciones del mosquito Aedes ae\u2026",
-      "url": "https://www.milenio.com/comunidad/ipn-desarrolla-bioinsecticida-detener-dengue-lluvias",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/07/expertos-llamaron-fomentar-concientizacion-poblacion.jpg",
-      "publishedAt": "2025-09-07 18:36:00",
-      "content": "Cient\u00edficos del Instituto Polit\u00e9cnico Nacional (IPN), en colaboraci\u00f3n con expertos de la Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez (UACJ), crearon un bioinsecticida, cuya patente est\u00e1 en proceso, con el \u2026 [+3224 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.783225",
-      "internal_id": "571fb02ccb209cfd95177b6fed2de17b4f7035f53f082447c6bd2485b7cd9cfd",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Bigg Boss 19: Shehnaaz Gill reveals brother Shehbaz Badesha was hospitalised due to dengue after premiere episode; he enters as a wildcard contestant",
-      "description": "Shehnaaz Gill appeared on Bigg Boss 19 to support her brother, Shehbaz Badesha, a wild card entrant. She requested Salman Khan to give Shehbaz work, revealing his long-held dream and recent hospitalization due to dengue. Shehbaz charmed everyone with his humo\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-shehnaaz-gill-reveals-brother-shehbaz-badesha-was-hospitalised-due-to-dengue-after-premiere-episode-he-enters-as-a-wildcard-contestant/articleshow/123749883.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123749872,width-1070,height-580,imgsize-74410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-07 17:06:12",
-      "content": "Dwayne Johnson, Tom Hanks, Rihanna: Hollywood actors who gave voice to your beloved animated movies",
-      "retrievedAt": "2025-09-08 19:05:46.807550",
-      "internal_id": "80dc3f45daba25980ed6954eb8a1b85fd8e95c59598a08d84f2de61f9cfe9639",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24390,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": null,
-      "title": "Ministry of Health: A rabid mongoose was found in Kfar Yehezkel",
-      "description": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies.The Ministry asks anyone who was in contact, or whose animals came in\u2026",
-      "url": "https://www.israelnationalnews.com/flashes/665911",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
-      "publishedAt": "2025-09-07 14:56:11",
-      "content": "The Ministry of Health has updated that two people were exposed to a rabid mongoose in Kfar Yehezkel in the Gilboa Regional Council and were referred for preventive treatment against rabies. The Min\u2026 [+242 chars]",
-      "retrievedAt": "2025-09-08 19:05:45.436992",
-      "internal_id": "d09419236411d45c71323ecf62f5c916ad0cb3d65c6e973f910bfe31741a5faf",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24397,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "El ADN resuelve un misterio de 1500 a\u00f1os: la bacteria detr\u00e1s de la primera gran pandemia",
-      "description": "Un hallazgo en Jordania permiti\u00f3 identificar restos gen\u00f3micos de Yersinia pestis, la bacteria causante de la Peste de Justiniano. Esta confirmaci\u00f3n, esperada durante siglos, une arqueolog\u00eda y biolog\u00eda molecular y ofrece lecciones actuales: las pandemias no so\u2026",
-      "url": "https://es.gizmodo.com/el-adn-resuelve-un-misterio-de-1500-anos-la-bacteria-detras-de-la-primera-gran-pandemia-2000190708",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-20-4-1200x675.jpg",
-      "publishedAt": "2025-09-07 14:12:01",
-      "content": "Durante m\u00e1s de un milenio, historiadores y cient\u00edficos debatieron qu\u00e9 pat\u00f3geno desencaden\u00f3 la Peste de Justiniano, la cat\u00e1strofe que entre los siglos VI y VIII diezm\u00f3 al Imperio Bizantino y cambi\u00f3 la\u2026 [+2871 chars]",
-      "retrievedAt": "2025-09-08 19:05:49.086863",
-      "internal_id": "11e9986c65b4c2d8d02e087932e487c65c7c7ff4adb5089ba0ae35ea7017ed17",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24396,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Europa ya no se libra de los mosquitos: chikungunya y virus del Nilo se instalan como la \u201cnueva normalidad\u201d",
-      "description": "Los mosquitos dejan de ser un recuerdo tropical para convertirse en un problema cotidiano en Europa. Francia e Italia registran cifras r\u00e9cord de chikungunya y virus del Nilo Occidental, con brotes aut\u00f3ctonos en zonas donde jam\u00e1s se hab\u00edan detectado. El cambio\u2026",
-      "url": "https://es.gizmodo.com/europa-ya-no-se-libra-de-los-mosquitos-chikungunya-y-virus-del-nilo-se-instalan-como-la-nueva-normalidad-2000190673",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/09/Gizmodo-13-4-1200x675.jpg",
-      "publishedAt": "2025-09-07 08:30:39",
-      "content": "Lo que antes parec\u00eda exclusivo de selvas y manglares hoy irrumpe en barrios europeos: los virus transmitidos por mosquitos se expanden y baten r\u00e9cords de contagios. El Centro Europeo para la Prevenci\u2026 [+3078 chars]",
-      "retrievedAt": "2025-09-08 19:05:47.950380",
-      "internal_id": "3dc537531b78f4ac8ea277fb5f9c4479863525b6fff22289a497949d3a7bdc82",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24391,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Elszabadultak a vesz\u00e9lyes v\u00edrusok a vil\u00e1g egyik legn\u00e9pesebb orsz\u00e1g\u00e1ban: egyszerre k\u00e9t j\u00e1rv\u00e1ny is tombol",
-      "description": "Bangladesben s\u00falyosbodik a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u00e1ls\u00e1g a sz\u00fanyogok \u00e1ltal terjesztett dengue-l\u00e1z \u00e9s chikungunya j\u00e1rv\u00e1nyok miatt, amelyek t\u00falterhelik az eg\u00e9szs\u00e9g\u00fcgyi rendszert \u00e9s a szak\u00e9rt\u0151k szerint a helyzet tov\u00e1bb romolhat - \u00edrta meg a Reuters.",
-      "url": "https://www.portfolio.hu/gazdasag/20250907/elszabadultak-a-veszelyes-virusok-a-vilag-egyik-legnepesebb-orszagaban-egyszerre-ket-jarvany-is-tombol-784532",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/d/e/n/dengue-virus-illusztracio-644285.jpg",
-      "publishedAt": "2025-09-07 08:15:00",
-      "content": "A magyar eg\u00e9szs\u00e9g\u00fcgy legfontosabb \u00e9s leg\u00e9getbb k\u00e9rd\u00e9seit t\u00e1rgyaljuk ki a mag\u00e1neg\u00e9szs\u00e9g\u00fcgyi piac tal\u00e1lkoz\u00e1si pontj\u00e1v\u00e1 v\u00e1lt Private Health Forumon szeptember 30-\u00e1n. Most \u00e9rdemes regisztr\u00e1lni a nagyszab\u2026 [+2026 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.773584",
-      "internal_id": "9a9c676c37abbbe7a6cf99f80bf2fbe14da40674d50d2984173b6a847e973436",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 24394,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "News18",
-      "author": "Yogendra Mishra",
-      "title": "Bangladesh Dengue Chikungunya: Bangladesh Health News Dengue and chikungunya cases- \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0938\u0902\u0915\u091f WHO \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940",
-      "description": "Bangladesh Dengue Case: \u0922\u093e\u0915\u093e \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u092c\u0922\u093c\u0924\u0940 \u0926\u093f\u0916 \u0930\u0939\u0940 \u0939\u0948. \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092d\u0940\u0921\u093c \u0932\u0917\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948. WHO \u0928\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0926\u0940.",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-facing-dengue-chikungunya-crisis-who-reveals-danger-ws-kl-9594536.html",
-      "urlToImage": "https://images.news18.com/ibnkhabar/uploads/2025/09/bangladesh-2-2025-09-f23134b8afed2be39e3995065331eee4-16x9.jpg",
-      "publishedAt": "2025-09-07 08:12:52",
-      "content": "Last Updated:September 07, 2025, 13:28 IST . : . . . 33,800 , 132 . 10 1,500 . . . 785 . 24 30 3,000 . , , . . - . , . , . , . (2023) , 1,705 3.21 . 48 , , . , .WHO (WHO) . WHO , , (NSAIDs )\u2026 [+9 chars]",
-      "retrievedAt": "2025-09-08 19:05:46.870210",
-      "internal_id": "5c47042e912af0acb322569912435242b0afc6ebd98d2a2f7346bdda01260059",
       "publishedAtLabel": "Sep 7"
     }
   ]
