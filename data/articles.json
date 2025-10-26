@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-10-26 07:06",
-  "count_articles_total": 781,
-  "count_articles_new": 6,
+  "last_updated": "2025-10-26 19:05",
+  "count_articles_total": 778,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 25306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Namibian",
+      "author": "Charlotte Nambadja",
+      "title": "Gawanas calls for Africa\u2019s health self-reliance",
+      "description": "Africa must take charge of its health future and reduce reliance on external aid. This is according to Global Fund to Fight AIDS, Tuberculosis and Malaria [\u2026]",
+      "url": "https://www.namibian.com.na/gawanas-calls-for-africas-health-self-reliance/",
+      "urlToImage": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-14.12.47-e1761401423357.jpeg",
+      "publishedAt": "2025-10-25 14:13:34",
+      "content": "Africa must take charge of its health future and reduce reliance on external aid. This is according to Global Fund to Fight AIDS, Tuberculosis and Malaria vice chairperson Bience Gawanas, who was sp\u2026 [+2643 chars]",
+      "retrievedAt": "2025-10-26 19:05:48.266752",
+      "internal_id": "ca5570d0d02f4fa36ff67345842f493b5f0d2337d4f73426d617ee1f4ad293a1",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 25304,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Eix\u00e3o do Lazer ter\u00e1 ponto de vacina\u00e7\u00e3o neste domingo (26/10); confira",
+      "description": "Orienta\u00e7\u00e3o da Secretaria de Sa\u00fade \u00e9 levar documento de identifica\u00e7\u00e3o e caderneta de vacina\u00e7\u00e3o; apenas dengue e BCG n\u00e3o s\u00e3o oferecidas",
+      "url": "https://www.metropoles.com/distrito-federal/eixao-do-lazer-tera-ponto-de-vacinacao-neste-domingo-26-10-confira",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/10/25094300/alem-esporte-diversao-Eixao-Lazer-vacinacao.jpg",
+      "publishedAt": "2025-10-25 12:56:37",
+      "content": "Com a cobertura vacinal de diversas doen\u00e7as em baixa, a exemplo da poliomielite, o Distrito Federal (DF) refor\u00e7ou a estrat\u00e9gia de imuniza\u00e7\u00e3o. Neste domingo (26/10), o Sistema \u00danico de Sa\u00fade (SUS) lev\u2026 [+1348 chars]",
+      "retrievedAt": "2025-10-26 19:05:47.664289",
+      "internal_id": "ba88fab7e61d277edc756a22dd07ac3be7df486773fd68444923844c95f9f79f",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 25305,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Philip Plickert, London",
+      "title": "Adobe bot Milliarden: Warum sich Techkonzerne um das KI-Start-up Synthesia rei\u00dfen",
+      "description": "Das f\u00fcr KI-animierte Videoavatare bekannte Start-up-Unternehmen hat ein \u00dcbernahmeangebot von Adobe f\u00fcr drei Milliarden Dollar offenbar abgelehnt. An der Erfolgsgeschichte ist auch ein M\u00fcnchner Professor beteiligt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-avatar-start-up-synthesia-erobert-den-videomarkt-accg-110748529.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/w1200/aktuell/27858212/1.10748526/facebook_teaser/kuenstliche-rede-in-einem.jpg.webp",
+      "publishedAt": "2025-10-25 12:55:39",
+      "content": "David Beckham spricht neun Sprachen. Er kann \u00fcber die t\u00f6dliche Bedrohung durch Malaria in verschiedenen Weltsprachen aufkl\u00e4ren. Wirklich? Nicht wirklich. Aber im KI-generierten Video von Synthesia si\u2026 [+5162 chars]",
+      "retrievedAt": "2025-10-26 19:05:48.232627",
+      "internal_id": "8abcc95f03f07c49b8935dbe69aeea1e053f453f8f1a2f7eb55fbcd34cc550d2",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 25303,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Canada's measles outbreak control challenged by disinformation and distrust, doctors say",
+      "description": "A year since measles started raging in Canada, the outbreak's subsided, but the virus shows no signs of being stamped out. Doctors say problems here \u2014 from distrust of medical officials in vulnerable communities, to broader vaccine disinformation \u2014 could set\u2026",
+      "url": "https://www.cbc.ca/news/health/measles-canada251027-9.6952804",
+      "urlToImage": "https://i.cbc.ca/ais/42a76a57-2af3-417c-892f-1ef5c6d25985,1761343323786/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3BResize%3D620",
+      "publishedAt": "2025-10-25 08:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+7020 chars]",
+      "retrievedAt": "2025-10-26 19:05:46.679872",
+      "internal_id": "c7408c2af0bcd08b9fd76f2529d764dad4d547fafe3a27559c1ef1e1c794dd06",
+      "publishedAtLabel": "Oct 25"
+    },
     {
       "id": 25299,
       "query": [
@@ -13987,132 +14059,6 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24527,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
-      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
-      "publishedAt": "2025-09-14 17:16:59",
-      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.559695",
-      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24525,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Eleonora Bianchini",
-      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
-      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
-      "publishedAt": "2025-09-14 16:31:17",
-      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.516930",
-      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24526,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
-      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2025-09-14 16:19:17",
-      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.526467",
-      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24522,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "larongeNOW",
-      "author": "Ckom More",
-      "title": "Health officials warn more people are being bitten by bats across Sask.",
-      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
-      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
-      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
-      "publishedAt": "2025-09-14 12:02:29",
-      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
-      "retrievedAt": "2025-09-15 19:06:03.419193",
-      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
-      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
-      "publishedAt": "2025-09-14 08:32:50",
-      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.809317",
-      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24528,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Franceinfo.fr",
-      "author": null,
-      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
-      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
-      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
-      "publishedAt": "2025-09-14 07:38:25",
-      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.576920",
-      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24523,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Substack.com",
-      "author": "Bryan Sean Mckown",
-      "title": "Comments - Is Public Health Dead?",
-      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
-      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
-      "publishedAt": "2025-09-14 07:15:17",
-      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.018121",
-      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
