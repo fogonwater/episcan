@@ -1,8 +1,82 @@
 {
-  "last_updated": "2025-10-26 19:05",
-  "count_articles_total": 778,
-  "count_articles_new": 4,
+  "last_updated": "2025-10-27 07:08",
+  "count_articles_total": 790,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25311,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Tawanda Zininga, Lecturer and Researcher, Stellenbosch University",
+      "title": "Taking down malaria\u2019s bodyguards: scientists target parasite\u2019s secret defence system",
+      "description": "Quercetin, a plant-based flavonoid that give plants their bright colours, was found to disrupt malaria parasites.",
+      "url": "https://theconversation.com/taking-down-malarias-bodyguards-scientists-target-parasites-secret-defence-system-267029",
+      "urlToImage": "https://images.theconversation.com/files/698139/original/file-20251023-56-pe16az.jpg?ixlib=rb-4.1.0&rect=0%2C54%2C700%2C350&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-10-26 06:49:44",
+      "content": "Malaria remains one of the world\u2019s most devastating infectious diseases, claiming more than half a million lives each year. In Africa, the illness is mostly caused by a parasite carried by mosquitoes\u2026 [+5513 chars]",
+      "retrievedAt": "2025-10-27 07:08:35.143319",
+      "internal_id": "580a12363a836573c64947d648a59d452163c8b46c8c3606cb68fd2f4cb324ff",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25310,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Juanfra Tolano",
+      "title": "Autoridades sanitarias dan banderazo a jornada de fumigaci\u00f3n en Ciudad Obreg\u00f3n",
+      "description": "Arranca operativo de fumigaci\u00f3n en colonias de Cajeme; autoridades llaman a que los hogares colaboren con limpieza y eliminaci\u00f3n de criaderos de moscos",
+      "url": "https://www.tribuna.com.mx/sonora/2025/10/25/autoridades-sanitarias-dan-banderazo-jornada-de-fumigacion-en-ciudad-obregon-417494.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/25/f1280x720-474933_606608_5050.jpg",
+      "publishedAt": "2025-10-26 04:31:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- Para proteger a las familias cajemenses del dengue, zika y chikungunya, autoridades de salud dieron el banderazo de inicio a una campa\u00f1a intensiva de fumigaci\u00f3n en colonias y\u2026 [+1118 chars]",
+      "retrievedAt": "2025-10-27 07:08:34.708569",
+      "internal_id": "c6b5a2c59ae00f844565cfefeebfc3ccc943efcc848384a30ab865531e6ee31c",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25307,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Two-year-old girl dies of measles",
+      "description": "Hadassah Ein Kerem Medical Center has reported the death of a two-year-old girl hospitalized in the PICU. The girl was admitted ten days ago and placed on an ECMO machine, after she suffered complications from the measles virus.",
+      "url": "https://www.israelnationalnews.com/flashes/669187",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-10-25 21:23:43",
+      "content": "Hadassah Ein Kerem Medical Center has reported the death of a two-year-old girl hospitalized in the PICU. The girl was admitted ten days ago and placed on an ECMO machine, after she suffered complica\u2026 [+28 chars]",
+      "retrievedAt": "2025-10-27 07:08:33.745856",
+      "internal_id": "a05a35d331ec03000b1eb5f56ffe778f709f681a88e2f8baf020affcc0205e2e",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 25309,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "keizal",
+      "title": "La mortalidad de \u2018grullas comunes\u2019 podr\u00eda estar relacionada con la \u2018gripe aviar\u2019 (subtipo H5N1)",
+      "description": "Ecologistas investigan un preocupante aumento en la mortalidad de grullas comunes (Grus grus) registrado en distintas zonas de la pen\u00ednsula ib\u00e9rica, que podr\u00eda estar relacionado con la gripe aviar del subtipo H5N1. En las \u00faltimas semanas, se han encontrado de\u2026",
+      "url": "https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-10-25 18:05:06",
+      "content": "",
+      "retrievedAt": "2025-10-27 07:08:34.343751",
+      "internal_id": "eac885a5d35c0614db9b7565022af7854c0785bb566be6194dcf708fc3498d23",
+      "publishedAtLabel": "Oct 25"
+    },
     {
       "id": 25306,
       "query": [
@@ -253,6 +327,24 @@
       "content": "Nel mondo, dallinizio del 2025 si sono registrati 317.000 casi e 135 decessi in 16 Paesi, secondo lEuropean Centre for disease prevention and control (Ecdc). E la cifra reale potrebbe essere ancora p\u2026 [+1628 chars]",
       "retrievedAt": "2025-10-25 19:05:45.392226",
       "internal_id": "b8028c6daf2dc763ab7e590e86c3ae7536df584a029e6399f65b3b9bb0b60312",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 25308,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: Wissen - Ingo Arzt, Elena Erdmann, Claudia Vallentin",
+      "title": "Vogelgrippe: Wie gef\u00e4hrlich ist die Vogelgrippe?",
+      "description": "\u00dcber hunderttausend get\u00f6tete H\u00fchner, Tausende verendete Kraniche. Die Vogelgrippe breitet sich ungew\u00f6hnlich schnell in Deutschland aus. Was \u00fcber H5N1 bekannt ist",
+      "url": "https://www.zeit.de/wissen/2025-10/vogelgrippe-h5n1-virus-schhlachtung-tierzucht-kraniche-verbreitung",
+      "urlToImage": "https://img.zeit.de/wissen/2025-10/vogelgrippe-h5n1-virus-schhlachtung-tierzucht-kraniche-verbreitung-bild-3/wide__1300x731",
+      "publishedAt": "2025-10-24 15:22:31",
+      "content": "Kraniche sind derzeit besonders stark betroffen. \u00dcber 2.000 Tiere sind deutschlandweit bereits gestorben. Noch ist unklar, warum die Vogelgrippe in diesem Herbst gerade die Kraniche so hart trifft.\u2026 [+1868 chars]",
+      "retrievedAt": "2025-10-27 07:08:34.325833",
+      "internal_id": "412b4977acbf3141c40c6439fda7852d0290bfb24ffd17ef61b097a668c4d175",
       "publishedAtLabel": "Oct 24"
     },
     {
@@ -14059,6 +14151,132 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24527,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
+      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
+      "publishedAt": "2025-09-14 17:16:59",
+      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.559695",
+      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24525,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Eleonora Bianchini",
+      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
+      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-09-14 16:31:17",
+      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.516930",
+      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24526,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
+      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
+      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-09-14 16:19:17",
+      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.526467",
+      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24522,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "larongeNOW",
+      "author": "Ckom More",
+      "title": "Health officials warn more people are being bitten by bats across Sask.",
+      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
+      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
+      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
+      "publishedAt": "2025-09-14 12:02:29",
+      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
+      "retrievedAt": "2025-09-15 19:06:03.419193",
+      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
+      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
+      "publishedAt": "2025-09-14 08:32:50",
+      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.809317",
+      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24528,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
+      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
+      "publishedAt": "2025-09-14 07:38:25",
+      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.576920",
+      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24523,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "Bryan Sean Mckown",
+      "title": "Comments - Is Public Health Dead?",
+      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
+      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
+      "publishedAt": "2025-09-14 07:15:17",
+      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.018121",
+      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
