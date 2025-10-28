@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-10-27 19:06
-- **Most recent article:** 2025-10-26 18:00:46
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-10-28 07:07
+- **Most recent article:** 2025-10-27 06:53:48
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 34 | 31 | 29 | 35 | 25 | 1 | 208 |
-| chikungunya | 34 | 23 | 25 | 10 | 28 | 11 | 4 | 135 |
-| dengue | 25 | 18 | 32 | 23 | 18 | 14 | 1 | 131 |
+| measles | 54 | 34 | 31 | 29 | 35 | 25 | 2 | 210 |
+| chikungunya | 38 | 23 | 25 | 10 | 28 | 11 | 4 | 139 |
+| dengue | 26 | 18 | 32 | 23 | 18 | 14 | 2 | 133 |
 | malaria | 10 | 15 | 10 | 20 | 24 | 17 | 2 | 98 |
-| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 0 | 72 |
-| rabies | 12 | 18 | 10 | 6 | 9 | 3 | 0 | 58 |
+| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 5 | 77 |
+| rabies | 13 | 18 | 10 | 6 | 9 | 3 | 0 | 59 |
 | mpox | 5 | 8 | 1 | 10 | 11 | 8 | 0 | 43 |
 | zika | 6 | 6 | 5 | 7 | 1 | 3 | 1 | 29 |
 | meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 0 | 25 |
-| typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 0 | 14 |
+| typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 1 | 15 |
 | leptospirosis | 0 | 2 | 5 | 1 | 4 | 0 | 0 | 12 |
 | hpai | 1 | 1 | 2 | 1 | 0 | 4 | 1 | 10 |
 | pertussis | 2 | 0 | 1 | 2 | 0 | 1 | 0 | 6 |
@@ -36,7 +36,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Autoridades sanitarias dan banderazo a jornada de fumigación en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/10/25/autoridades-sanitarias-dan-banderazo-jornada-de-fumigacion-en-ciudad-obregon-417494.html) (Tribuna.com.mx)
 
+## 25-44 (typhoid)
+
+- [Delay in discharge from hospital remains a pain point for policyholders: Will it improve soon with insurers and hospitals coming together?](https://economictimes.indiatimes.com/wealth/insure/health-insurance/delay-in-discharge-from-hospital-remains-a-pain-point-for-policyholders-will-it-improve-soon-with-insurers-and-hospitals-coming-together/articleshow/124798286.cms) (The Times of India)
+
 ## 25-44 (measles)
+
+- [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
 - [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
 
@@ -50,7 +56,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
+## 25-44 (h5n1)
+
+- [400.000 Hühner, Enten und Puten gekeult und entsorgt: Vogelgrippe trifft Geflügelhöfe – mitten in der Gänsezeit](https://www.tagesspiegel.de/berlin/400000-huhner-enten-und-ganse-gekeult-und-entsorgt-vogelgrippe-trifft-geflugelhofe--mitten-in-der-gansezeit-14667449.html) (Der Tagesspiegel)
+
+- [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.tagesspiegel.de/berlin/vogelgrippe-in-brandenburg-vogelgrippe-trifft-geflugelhofe-mitten-in-der-gansezeit-14666891.html) (Der Tagesspiegel)
+
+- [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
+
+- [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
+
+- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
+
 ## 25-44 (dengue)
+
+- [Bacolod: Dengue cases declining, fatalities increasing in NegOcc](https://rpnradio.com/bacolod-dengue-cases-declining-fatalities-increasing-in-negocc/) (Rpnradio.com)
 
 - [Autoridades sanitarias dan banderazo a jornada de fumigación en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/10/25/autoridades-sanitarias-dan-banderazo-jornada-de-fumigacion-en-ciudad-obregon-417494.html) (Tribuna.com.mx)
 
@@ -1578,6 +1598,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
 
+- [Health officials warn more people are being bitten by bats across Sask.](https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/) (larongeNOW)
+
 ## 25-38 (pertussis)
 
 - [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
@@ -1716,6 +1738,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Child dies from complications of measles years after infection – SSPE explained](https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220) (The Conversation Africa)
 
+- [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
+
 ## 25-38 (malaria)
 
 - [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
@@ -1814,6 +1838,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
 
+- [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
+
 ## 25-38 (chikungunya)
 
 - [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
@@ -1883,3 +1909,11 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus in Thailand (2020–2023): Epidemiology, clinical features, and genomic insights](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548) (Plos.org)
 
 - [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
+
+- [Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre](https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html) (ANSA.it)
+
+- [Nel Veronese aumentano sempre di più i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese](https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/) (Ilfattoquotidiano.it)
+
+- [Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre](https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC) (Il Sole 24 Ore)
+
+- [Chikungunya : l'épidémie se propage dans toute la France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html) (Franceinfo.fr)

@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-10-27 19:06",
-  "count_articles_total": 789,
-  "count_articles_new": 6,
+  "last_updated": "2025-10-28 07:07",
+  "count_articles_total": 804,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 25322,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "400.000 H\u00fchner, Enten und Puten gekeult und entsorgt: Vogelgrippe trifft Gefl\u00fcgelh\u00f6fe \u2013 mitten in der G\u00e4nsezeit",
+      "description": "Das gef\u00e4hrliche Vogelgrippe-Virus H5N1 legt deutschlandweit H\u00f6fe lahm. Die Tierseuche trifft die Agrarbranche mitten in der klassischen G\u00e4nsezeit.",
+      "url": "https://www.tagesspiegel.de/berlin/400000-huhner-enten-und-ganse-gekeult-und-entsorgt-vogelgrippe-trifft-geflugelhofe--mitten-in-der-gansezeit-14667449.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14667416/alternates/BASE_16_9_W1400/1761546901000/vogelgrippe-neuhardenberg.jpeg",
+      "publishedAt": "2025-10-27 06:53:48",
+      "content": "Die Vogelgrippe trifft die Gefl\u00fcgelwirtschaft zur Unzeit gerade und noch bis Weihnachten hat der Verkauf von G\u00e4nsen und Enten Konjunktur. Zwei Gefl\u00fcgelbetriebe im Kreis M\u00e4rkisch-Oderland verlieren au\u2026 [+3589 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.529523",
+      "internal_id": "1752a059dc0cff8bed82c5cb5a183a0931ebdb41acf7ac3ea817d17e7b5f3051",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25321,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Vogelgrippe in Brandenburg: Vogelgrippe trifft Gefl\u00fcgelh\u00f6fe - mitten in der G\u00e4nsezeit",
+      "description": "Das gef\u00e4hrliche Vogelgrippe-Virus H5N1 legt H\u00f6fe in Brandenburg lahm. Die Tierseuche trifft die Agrarbranche mitten in der klassischen G\u00e4nsezeit.",
+      "url": "https://www.tagesspiegel.de/berlin/vogelgrippe-in-brandenburg-vogelgrippe-trifft-geflugelhofe-mitten-in-der-gansezeit-14666891.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14666888/alternates/BASE_16_9_W1400/1761536833000/vogelgrippe-neuhardenberg.jpeg",
+      "publishedAt": "2025-10-27 03:47:14",
+      "content": "Die Vogelgrippe trifft die Gefl\u00fcgelwirtschaft zur Unzeit - gerade und noch bis Weihnachten hat der Verkauf von G\u00e4nsen und Enten Konjunktur. Zwei Gefl\u00fcgelbetriebe im Kreis M\u00e4rkisch-Oderland verlieren \u2026 [+2549 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.520533",
+      "internal_id": "d77d32c7469f7e221bd77ceb90bbc0b76c462385cbe5f732d11c21f8e669caf6",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25320,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Vogelgrippe in Brandenburg: Vogelgrippe trifft Gefl\u00fcgelh\u00f6fe - mitten in der G\u00e4nsezeit",
+      "description": "Neuhardenberg/Neutrebbin (bb) - Die Vogelgrippe trifft die Gefl\u00fcgelwirtschaft zur Unzeit - gerade und noch bis Weihnachten hat der Verkauf von G\u00e4nsen und",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html",
+      "urlToImage": "https://image.stern.de/36163892/t/7z/v1/w1440/r1.7778/-/27--go6lu24pi6v1axs2048jpeg---57418cf2bd65ec66.jpg",
+      "publishedAt": "2025-10-27 03:45:07",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Das gef\u00e4hrliche Vogelgrippe-Virus H5N1 legt H\u00f6fe in Brandenburg lahm. Die Tierseuche trifft die Agrarbranche mitten in der klassischen G\u00e4nsezeit.\u2026 [+2913 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.510153",
+      "internal_id": "bf78b0fbb54f6da06989f82012eb8909f174b0717d26de81981b4e2f7c3e7f35",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25324,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Dengue cases declining, fatalities increasing in NegOcc",
+      "description": "BACOLOD CITY \u2013 Dengue cases in Negros Occidental may have been declining, but fatalities rose from 9 to 12, as of October 18, according to reports of the Provincial Health Office (PHO). PHO data showed a total of 5,033 dengue cases, with 12 deaths recorded fr\u2026",
+      "url": "https://rpnradio.com/bacolod-dengue-cases-declining-fatalities-increasing-in-negocc/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/10/dengue-cases.jpg",
+      "publishedAt": "2025-10-27 01:52:16",
+      "content": "BACOLOD CITY \u2013 Dengue cases in Negros Occidental may have been declining, but fatalities rose from 9 to 12, as of October 18, according to reports of the Provincial Health Office (PHO). PHO data sho\u2026 [+1294 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.864992",
+      "internal_id": "aac6b2befade1552c4b7e4256666d439da88a86ea57542b89479fcb1a28ce099",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25325,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Preeti Kulkarni",
+      "title": "Delay in discharge from hospital remains a pain point for policyholders: Will it improve soon with insurers and hospitals coming together?",
+      "description": "The insurer-hospitals\u2019 meeting on October 9 put discharge delays under the spotlight. Can hospitals and insurers finally move towards making the process smoother for patients?",
+      "url": "https://economictimes.indiatimes.com/wealth/insure/health-insurance/delay-in-discharge-from-hospital-remains-a-pain-point-for-policyholders-will-it-improve-soon-with-insurers-and-hospitals-coming-together/articleshow/124798286.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22462,resizemode-75,msid-124798286/wealth/insure/health-insurance/delay-in-discharge-from-hospital-remains-a-pain-point-for-policyholders-will-it-improve-soon-with-insurers-and-hospitals-coming-together.jpg",
+      "publishedAt": "2025-10-27 01:00:00",
+      "content": "When Samarth Ranjan*, 35, was admitted to a Delhi hospital earlier this year for treatment of typhoid with thrombocytopenia, his health insurer issued the initial approval, or pre-authorisation, almo\u2026 [+6363 chars]",
+      "retrievedAt": "2025-10-28 07:07:50.178911",
+      "internal_id": "f696f4b20173da6f41dff682c2db3d4213d76acf8665e3350bda39458c752d75",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25319,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Rachel Fieldhouse",
+      "title": "This \u2018minor\u2019 bird flu strain has potential to spark human pandemic",
+      "description": "Experiments suggests H9N2 has adapted to human cells but cases of person-to-person transmission haven\u2019t been reported yet.",
+      "url": "https://www.nature.com/articles/d41586-025-03519-1",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03519-1/d41586-025-03519-1_51621874.jpg",
+      "publishedAt": "2025-10-27 00:00:00",
+      "content": "Attention has been focused on avian influenza virus H5N1 in the past few years, but scientists are concerned about the spread of other bird viruses.Credit: Ralf Hirschberger/AFP via Getty A bird flu\u2026 [+2312 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.492297",
+      "internal_id": "c82a49d9792cbb77523280f45126d737b48413539c20e978e0efb7bd0292b40f",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25318,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Jennifer Bowers Bahney",
+      "title": "Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: \u2018DON\u2019T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!\u2019",
+      "description": "Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines. The post Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: \u2018DON\u2019T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!\u2019 first appea\u2026",
+      "url": "https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/10/trump-20.jpeg",
+      "publishedAt": "2025-10-26 21:04:22",
+      "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
+      "retrievedAt": "2025-10-28 07:07:47.796397",
+      "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25323,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
+      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
+      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
+      "publishedAt": "2025-10-26 19:00:00",
+      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.587929",
+      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
+      "publishedAtLabel": "Oct 26"
+    },
     {
       "id": 25314,
       "query": [
@@ -14259,6 +14403,132 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24527,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
+      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
+      "publishedAt": "2025-09-14 17:16:59",
+      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.559695",
+      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24525,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Eleonora Bianchini",
+      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
+      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-09-14 16:31:17",
+      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.516930",
+      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24526,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
+      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
+      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-09-14 16:19:17",
+      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.526467",
+      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24522,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "larongeNOW",
+      "author": "Ckom More",
+      "title": "Health officials warn more people are being bitten by bats across Sask.",
+      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
+      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
+      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
+      "publishedAt": "2025-09-14 12:02:29",
+      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
+      "retrievedAt": "2025-09-15 19:06:03.419193",
+      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
+      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
+      "publishedAt": "2025-09-14 08:32:50",
+      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.809317",
+      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24528,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
+      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
+      "publishedAt": "2025-09-14 07:38:25",
+      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.576920",
+      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24523,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "Bryan Sean Mckown",
+      "title": "Comments - Is Public Health Dead?",
+      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
+      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
+      "publishedAt": "2025-09-14 07:15:17",
+      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.018121",
+      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
