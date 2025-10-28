@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-10-28 07:07",
-  "count_articles_total": 804,
-  "count_articles_new": 8,
+  "last_updated": "2025-10-28 19:06",
+  "count_articles_total": 816,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 25334,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Naian Lucas Lopes, Naian Lucas Lopes",
+      "title": "Dengue mais mortal tem alta de 7000% nos casos em Santa Catarina",
+      "description": "Sorotipo DENV-3, considerado mais perigoso, provoca alta de casos no estado",
+      "url": "https://saude.ig.com.br/2025-10-27/sc-registra-surto-grave-de-dengue-com-aumento-de-7000-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-10-27 17:38:00",
+      "content": "Santa Catarina enfrenta um aumento expressivo nos casos do sorotipo DENV-3 da dengue, considerado pela comunidade cient\u00edfica um dos mais perigosos devido ao maior risco de formas graves e hemorr\u00e1gica\u2026 [+2050 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.936072",
+      "internal_id": "c73f4d9392a5841342ea04487d07a7d7aeeefd4d540f48aea385520ae0e27e20",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25343,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Mpox cases in Europe prompt vaccine reminder",
+      "description": "UK health officials are encouraging gay, bisexual and other men who have sex with men to be vaccinated.",
+      "url": "https://www.bbc.com/news/articles/cp856rvv41eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f941/live/df2ce440-b342-11f0-9ae5-dfa34b074568.jpg",
+      "publishedAt": "2025-10-27 15:06:08",
+      "content": "UK health officials are encouraging gay, bisexual and other men who have sex with men to make sure they are vaccinated against mpox, as a strain called 'clade Ib' shows early signs of local spread in\u2026 [+3278 chars]",
+      "retrievedAt": "2025-10-28 19:06:20.026301",
+      "internal_id": "8044f4613120b1e5780c6078866fdfffc38878cd6f44c520744233855cc58b95",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25333,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Fungo capaz de matar mosquito da dengue \u00e9 criado por cientistas",
+      "description": "Microrganismo foi geneticamente modificado para liberar um aroma semelhante ao das flores, o que acaba atraindo os mosquitos O post Fungo capaz de matar mosquito da dengue \u00e9 criado por cientistas apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/10/27/ciencia-e-espaco/fungo-capaz-de-matar-mosquito-da-dengue-e-criado-por-cientistas/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/12/dengue.jpg",
+      "publishedAt": "2025-10-27 14:58:57",
+      "content": "Desde o in\u00edcio deste ano, foram confirmados cerca de quatro milh\u00f5es de casos de dengue em todo o mundo. Al\u00e9m disso, a doen\u00e7a causou quase duas mil mortes. Um cen\u00e1rio que tem deixado autoridades de sa\u2026 [+1882 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.901594",
+      "internal_id": "5bcbff5170f0099a62b453902954cad49587dd0c8019b43e409cc7cb48bff11e",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25344,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Mpox: technical assessments",
+      "description": "Technical assessments of the risk of mpox to the UK.",
+      "url": "https://www.gov.uk/government/publications/mpox-technical-assessments",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-10-27 14:56:14",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-10-28 19:06:20.043935",
+      "internal_id": "eb512e08370177a38e6c5a8e04ce5a1029367c469fd6fc3f3e096df14f21a5a2",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25337,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Dengue cases plummet in Johor, 57% decrease reported in Epi Week 43",
+      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor has declined sharply in epidemiological week 43 (Epi Week) this year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/10/27/dengue-cases-plummet-in-johor-57-decrease-reported-in-epi-week-43",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/27/3591706.jpg",
+      "publishedAt": "2025-10-27 14:39:00",
+      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor has declined sharply in epidemiological week 43 (Epi Week) this year. State health and environment committee chairman Ling Tian Soon said t\u2026 [+1336 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.967249",
+      "internal_id": "e537f07f4a5ab618123525dc724c7420ae2ebd3ab5aeeaa3fe9adddfc41c6018",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25335,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Aumento dei casi di febbre dengue nel Sindh",
+      "description": "... (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/curiosita/2025/10/27/aumento-dei-casi-di-febbre-dengue-nel-sindh_294d3835-8ce2-4c67-a285-641f804d258e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/10/27/6bf612a0d6574ef234ef3804db081283.jpg",
+      "publishedAt": "2025-10-27 14:04:10",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.945870",
+      "internal_id": "93993dd60a84d9c894697ed01c236495839cb1cfc6ac6f1adb802fdfa573dccf",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25328,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "The Canadian Press",
+      "title": "Canada could lose its status as a measles-free country amid outbreak - National | Globalnews.ca",
+      "description": "With measles spreading to more than 5,000 Canadians in the past year, Canada is poised to lose its measles-free status from the Pan-American Health Organization.",
+      "url": "http://globalnews.ca/news/11496244/canada-measles-status-outbreak/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2025/08/measels-on-hand_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2025-10-27 14:01:31",
+      "content": "Canada is poised to lose its international status as a measles-free country now that an outbreak that began in New Brunswick and spread to other provinces has hit the one-year mark. The country elim\u2026 [+4954 chars]",
+      "retrievedAt": "2025-10-28 19:06:16.757177",
+      "internal_id": "2b414c82d24c80a8a16eb1b67a37e514787e20a4b2e2f86a0ad085c3eb891e8a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25336,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nguyen Tat Thanh, Vo Thanh Luan",
+      "title": "Comparison of serum lactate and lactate-derived ratios as prognostic biomarkers in pediatric dengue shock syndrome using supervised machine learning models",
+      "description": "Background Dengue shock syndrome (DSS), with critical complications encompassing mechanical ventilation (MV), dengue-associated acute liver failure (PALF), and encephalitis, is associated with high mortality in children. Although serum lactate is a recognized\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335022",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335022.g005&size=inline",
+      "publishedAt": "2025-10-27 14:00:00",
+      "content": "Citation: Thanh NT, Luan VT (2025) Comparison of serum lactate and lactate-derived ratios as prognostic biomarkers in pediatric dengue shock syndrome using supervised machine learning models. PLoS On\u2026 [+44801 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.956877",
+      "internal_id": "791a3a06df61bc6567ec03dea1b7df771d6fefbf60b7751911a99e47cad99aec",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25339,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Colins O. Oduma, Birhanu Lulu, Yalemwork Ewnetu, Laurel A. Lown, Tolulope Adeyemi Kayode, Dawit Hawaria, Cristian Koepfli",
+      "title": "First field evaluation of novel LDH- and HRP2-based rapid tests for Plasmodium vivax and Plasmodium falciparum malaria diagnosis",
+      "description": "Author summary Rapid diagnostic tests (RDTs) are key for malaria control. In many countries in the Horn of Africa, Latin America, and the Asian Pacific, P. falciparum and P. vivax are co-endemic. Further, while the HRP2 protein is the most sensitive target fo\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013307",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013307.strk&size=inline",
+      "publishedAt": "2025-10-27 14:00:00",
+      "content": "Abstract Background Rapid diagnostic tests (RDTs) are crucial for malaria diagnosis. Where Plasmodium falciparum and Plasmodium vivax are co-endemic, and where P. falciparum hrp2/3 deletions are fr\u2026 [+33514 chars]",
+      "retrievedAt": "2025-10-28 19:06:18.791997",
+      "internal_id": "3e745d0ed5a4e26c9b8a299b4084fe9951e2392388f25d18febac0be71473744",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25340,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Gebeyehu Lakew, Abiyu Abadi Tareke, Zeamanuel Anteneh Yigzaw, Demis Getachew, Eyob Getachew, Amlaku Nigusie Yirsaw",
+      "title": "Individual and community level factors of malaria among under-five children in Kenya: Based on the Kenya Demographic and Health Survey",
+      "description": "Background Malaria remains a significant global public health challenge. In Kenya, it is a leading cause of illness and death among children under five in malaria-endemic areas. Understanding its prevalence and the factors influencing it is essential for info\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335346",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335346.g001&size=inline",
+      "publishedAt": "2025-10-27 14:00:00",
+      "content": "Abstract Background Malaria remains a significant global public health challenge. In Kenya, it is a leading cause of illness and death among children under five in malaria-endemic areas. Understand\u2026 [+33868 chars]",
+      "retrievedAt": "2025-10-28 19:06:18.809541",
+      "internal_id": "b24f4c82bf520c6520f416663dc6ec94fa2a875debea4a46d201f40e59e80cc9",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25341,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Suleiman Chombo, Jovine Bachwenkizi, Huda Omary, Heavenlight A. Paulo, Pankras Luoga, Abdallah Zacharia, Jackline Vicent Mbishi, John D. Andrew, Isaac Y. Addo",
+      "title": "Associations of temperature and precipitation with malaria in children under 5: A multi-country study in Sub-Saharan Africa",
+      "description": "Climate change is a significant global challenge with major impacts on human health. It directly affects vector-borne diseases such as malaria by expanding vector ranges, boosting reproduction and biting rates, and shortening pathogen incubation periods. This\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335031",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335031.g005&size=inline",
+      "publishedAt": "2025-10-27 14:00:00",
+      "content": "Introduction Climate change refers to any change in climate over time, whether due to natural variability or as a result of human activity [1,2]. According to the World Health Organization (WHO), cl\u2026 [+41565 chars]",
+      "retrievedAt": "2025-10-28 19:06:18.819336",
+      "internal_id": "94a21d7aa228f0b0ef04f86929eed6e65c053913e4634fa473c8e973cb3595c8",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25342,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Deyun Qiu, Eleanor England, Adele M. Lehane",
+      "title": "PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds",
+      "description": "Author summary Recent screens have identified numerous compounds active against the most virulent species of human malaria parasite, Plasmodium falciparum. Previously, researchers exposed parasite cultures to many such compounds, including MMV007224 and MMV66\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013645.g006&size=inline",
+      "publishedAt": "2025-10-27 14:00:00",
+      "content": "Introduction Plasmodium parasites caused an estimated 263 million cases of malaria and killed 597,000 people in 2023, with Plasmodium falciparum causing the majority of deaths [1]. P. falciparum par\u2026 [+105880 chars]",
+      "retrievedAt": "2025-10-28 19:06:18.836981",
+      "internal_id": "90a070513600817a39afb3001ec0d41544a475e8c07e16266a8862e0c2dc514a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25327,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Nicole Ireland",
+      "title": "Canada's status as a measles-free country is about to end",
+      "description": "Canada is poised to lose its international status as a measles-free country now that an outbreak that began in New Brunswick and spread to other provinces has hit the one-year mark.",
+      "url": "https://www.nationalobserver.com/2025/10/27/news/canadas-status-measles-free-country-about-end",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/27/f89ddc9d4a811dab0c29e73ea9aa708c84776dd9c9b2a6182d9cadd6b0a78435.jpg",
+      "publishedAt": "2025-10-27 12:09:55",
+      "content": "Canada is poised to lose its international status as a measles-free country now that an outbreak that began in New Brunswick and spread to other provinces has hit the one-year mark. The country eli\u2026 [+5029 chars]",
+      "retrievedAt": "2025-10-28 19:06:16.723513",
+      "internal_id": "7064c452927d2bbf88e72a7096c3716ea56017aa10f4535280ca0a8b7b422524",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25331,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Bird Flu is Back Just in Time for Media\u2019s Govt Shutdown Theater Drama",
+      "description": "H5N1 is also spreading through Europe, where the governments are not shutdown...merely dysfunctional. The post Bird Flu is Back Just in Time for Media\u2019s Govt Shutdown Theater Drama first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/10/bird-flu-is-back-just-in-time-for-medias-govt-shutdown-theater-drama/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/10/LI-088-Chickens.png",
+      "publishedAt": "2025-10-27 11:00:09",
+      "content": "It\u2019s been a while since we covered bird flu [aka Highly Pathogenic Avian Influenza (HIPA) or H5N1]. The most recent posts on the subject included a review of the evidence showing the microbe was ano\u2026 [+5314 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.485599",
+      "internal_id": "98d93887a4cc691fbccb9595bdec50e8208aef7c07a859b62462da47e37c08b4",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25326,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips, CNN",
+      "title": "Canada is poised to lose its measles elimination status \u2014 and the US could, too",
+      "description": "Monday marks a full year of continuous measles transmission in Canada, a milestone that\u2019s poised to set the country back decades on a global health...",
+      "url": "https://www.cnn.com/2025/10/27/health/measles-elimination-canada-us-who",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/a33f02fd4b2d2da1f28596d69fa6b7d1",
+      "publishedAt": "2025-10-27 11:00:01",
+      "content": "Monday marks a full year of continuous measles transmission in Canada, a milestone thats poised to set the country back decades on a global health commitment. Ongoing transmission in the United State\u2026 [+8753 chars]",
+      "retrievedAt": "2025-10-28 19:06:16.671996",
+      "internal_id": "bcbcc6be91f14d1cd6af4d8c91f5d01935bd47bb0f8b0f49512f1663d0b452a7",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25329,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Arthur Allen",
+      "title": "Doctors Muffled as Florida Moves To End Decades of Childhood Vaccination Mandates",
+      "description": "Florida has announced plans to end mandatory vaccination. Now scientists are assessing which of several diseases deadly to children \u2014 whooping cough, measles, polio, rubella, mumps, diphtheria, and tetanus \u2014 are likely to make a resurgence and when.",
+      "url": "https://kffhealthnews.org/news/article/florida-vaccine-mandates-ladapo-pediatricians-flu-measles-disease/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/10/GettyImages-2236688969-resized.jpg",
+      "publishedAt": "2025-10-27 09:00:00",
+      "content": "Arthur AllenSARASOTA, Fla. Florida plans to end nearly a half-century of required childhood immunizations against diseases that have killed and maimed millions of children. Many critics of the decisi\u2026 [+10742 chars]",
+      "retrievedAt": "2025-10-28 19:06:16.782826",
+      "internal_id": "0b1c9f1be9dbc20a2e56c203417e5d1682e6f21728cbd8998e4f57f2c2510374",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25330,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Bird flu confirmed at commercial poultry premises",
+      "description": "Defra says a 3km (1.9 mile) protection zone is in place and all birds at the site will be culled.",
+      "url": "https://www.bbc.com/news/articles/cgkz3nk3lzlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11dd/live/cc18ea80-ded5-11ef-a319-fb4e7360c4ec.jpg",
+      "publishedAt": "2025-10-27 08:24:54",
+      "content": "A protection zone has been put in place following a case of bird flu at a commercial poultry premises. The Department for Environment, Food and Rural Affairs (Defra) said the H5N1 virus was confirm\u2026 [+364 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.442421",
+      "internal_id": "2c76e33e13f696abf7bffbdf3ba105d42eaf1c4902820d8898151a81d13e99ef",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25338,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "144 new dengue cases reported across Nepal in the past week",
+      "description": "KATHMANDU: Nepal has recorded 144 new cases of dengue across the country in the past week, indicating that the mosquito-borne disease continues to spread even beyond the usual monsoon season. According to the Epidemiology and Disease Control Division (EDCD), \u2026",
+      "url": "https://english.khabarhub.com/2025/27/503056/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-10-27 08:15:19",
+      "content": "KATHMANDU: Nepal has recorded 144 new cases of dengue across the country in the past week, indicating that the mosquito-borne disease continues to spread even beyond the usual monsoon season. Accord\u2026 [+597 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.976602",
+      "internal_id": "c8644b55b0a88af2639b81ca10d14f733f1e369f26403862dce151c0c51b173e",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25332,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Weiter \u201edynamische Lage\u201c bei Vogelgrippe \u2013 kritische Phase kommt noch",
+      "description": "Die Vogelgrippe breitet sich in Deutschland weiter aus und trifft viele Gefl\u00fcgelh\u00f6fe. Hunderttausende Nutztiere mussten schon sterben.",
+      "url": "https://www.morgenpost.de/panorama/article410314504/weiter-dynamische-lage-bei-vogelgrippe-kritische-phase-kommt-noch.html",
+      "urlToImage": null,
+      "publishedAt": "2025-10-27 07:29:53",
+      "content": "Der Herbst bringt nicht nur Zugv\u00f6gel nach Deutschland, sondern auch eine wachsende Gefahr f\u00fcr heimische Gefl\u00fcgelbest\u00e4nde. Das gef\u00e4hrliche Vogelgrippe-Virus H5N1 grassiert bundesweit und mit dem H\u00f6hep\u2026 [+2969 chars]",
+      "retrievedAt": "2025-10-28 19:06:17.543756",
+      "internal_id": "74023f81d4f9633ef91e1d9162cecdc0dbc6c91fa90ab8be127ed1bda6354187",
+      "publishedAtLabel": "Oct 27"
+    },
     {
       "id": 25322,
       "query": [
@@ -14403,132 +14745,6 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24527,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
-      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
-      "publishedAt": "2025-09-14 17:16:59",
-      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.559695",
-      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24525,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Eleonora Bianchini",
-      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
-      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
-      "publishedAt": "2025-09-14 16:31:17",
-      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.516930",
-      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24526,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
-      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2025-09-14 16:19:17",
-      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.526467",
-      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24522,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "larongeNOW",
-      "author": "Ckom More",
-      "title": "Health officials warn more people are being bitten by bats across Sask.",
-      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
-      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
-      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
-      "publishedAt": "2025-09-14 12:02:29",
-      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
-      "retrievedAt": "2025-09-15 19:06:03.419193",
-      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
-      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
-      "publishedAt": "2025-09-14 08:32:50",
-      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.809317",
-      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24528,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Franceinfo.fr",
-      "author": null,
-      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
-      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
-      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
-      "publishedAt": "2025-09-14 07:38:25",
-      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.576920",
-      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24523,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Substack.com",
-      "author": "Bryan Sean Mckown",
-      "title": "Comments - Is Public Health Dead?",
-      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
-      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
-      "publishedAt": "2025-09-14 07:15:17",
-      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.018121",
-      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-10-28 07:07
-- **Most recent article:** 2025-10-27 06:53:48
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-10-28 19:06
+- **Most recent article:** 2025-10-27 17:38:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 54 | 34 | 31 | 29 | 35 | 25 | 2 | 210 |
-| chikungunya | 38 | 23 | 25 | 10 | 28 | 11 | 4 | 139 |
-| dengue | 26 | 18 | 32 | 23 | 18 | 14 | 2 | 133 |
-| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 2 | 98 |
-| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 5 | 77 |
-| rabies | 13 | 18 | 10 | 6 | 9 | 3 | 0 | 59 |
-| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 0 | 43 |
+| measles | 53 | 34 | 31 | 29 | 35 | 25 | 6 | 213 |
+| dengue | 25 | 18 | 32 | 23 | 18 | 14 | 8 | 138 |
+| chikungunya | 34 | 23 | 25 | 10 | 28 | 11 | 4 | 135 |
+| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 6 | 102 |
+| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 8 | 80 |
+| rabies | 12 | 18 | 10 | 6 | 9 | 3 | 0 | 58 |
+| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 2 | 45 |
 | zika | 6 | 6 | 5 | 7 | 1 | 3 | 1 | 29 |
 | meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 0 | 25 |
 | typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 1 | 15 |
@@ -40,13 +40,35 @@ Source: [News API](https://newsapi.org/)
 
 - [Delay in discharge from hospital remains a pain point for policyholders: Will it improve soon with insurers and hospitals coming together?](https://economictimes.indiatimes.com/wealth/insure/health-insurance/delay-in-discharge-from-hospital-remains-a-pain-point-for-policyholders-will-it-improve-soon-with-insurers-and-hospitals-coming-together/articleshow/124798286.cms) (The Times of India)
 
+## 25-44 (mpox)
+
+- [Mpox cases in Europe prompt vaccine reminder](https://www.bbc.com/news/articles/cp856rvv41eo) (BBC News)
+
+- [Research: Mpox: technical assessments](https://www.gov.uk/government/publications/mpox-technical-assessments) (Www.gov.uk)
+
 ## 25-44 (measles)
+
+- [Canada could lose its status as a measles-free country amid outbreak - National | Globalnews.ca](http://globalnews.ca/news/11496244/canada-measles-status-outbreak/) (Global News)
+
+- [Canada's status as a measles-free country is about to end](https://www.nationalobserver.com/2025/10/27/news/canadas-status-measles-free-country-about-end) (National Observer)
+
+- [Canada is poised to lose its measles elimination status — and the US could, too](https://www.cnn.com/2025/10/27/health/measles-elimination-canada-us-who) (CNN)
+
+- [Doctors Muffled as Florida Moves To End Decades of Childhood Vaccination Mandates](https://kffhealthnews.org/news/article/florida-vaccine-mandates-ladapo-pediatricians-flu-measles-disease/) (Kffhealthnews.org)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
 - [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
 
 ## 25-44 (malaria)
+
+- [First field evaluation of novel LDH- and HRP2-based rapid tests for Plasmodium vivax and Plasmodium falciparum malaria diagnosis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013307) (Plos.org)
+
+- [Individual and community level factors of malaria among under-five children in Kenya: Based on the Kenya Demographic and Health Survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335346) (Plos.org)
+
+- [Associations of temperature and precipitation with malaria in children under 5: A multi-country study in Sub-Saharan Africa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335031) (Plos.org)
+
+- [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
 - [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
 
@@ -57,6 +79,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
+
+- [Bird Flu is Back Just in Time for Media’s Govt Shutdown Theater Drama](https://legalinsurrection.com/2025/10/bird-flu-is-back-just-in-time-for-medias-govt-shutdown-theater-drama/) (Legalinsurrection.com)
+
+- [Bird flu confirmed at commercial poultry premises](https://www.bbc.com/news/articles/cgkz3nk3lzlo) (BBC News)
+
+- [Weiter „dynamische Lage“ bei Vogelgrippe – kritische Phase kommt noch](https://www.morgenpost.de/panorama/article410314504/weiter-dynamische-lage-bei-vogelgrippe-kritische-phase-kommt-noch.html) (Berliner Morgenpost)
 
 - [400.000 Hühner, Enten und Puten gekeult und entsorgt: Vogelgrippe trifft Geflügelhöfe – mitten in der Gänsezeit](https://www.tagesspiegel.de/berlin/400000-huhner-enten-und-ganse-gekeult-und-entsorgt-vogelgrippe-trifft-geflugelhofe--mitten-in-der-gansezeit-14667449.html) (Der Tagesspiegel)
 
@@ -69,6 +97,18 @@ Source: [News API](https://newsapi.org/)
 - [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
 
 ## 25-44 (dengue)
+
+- [Dengue mais mortal tem alta de 7000% nos casos em Santa Catarina](https://saude.ig.com.br/2025-10-27/sc-registra-surto-grave-de-dengue-com-aumento-de-7000-.html) (Ig.com.br)
+
+- [Fungo capaz de matar mosquito da dengue é criado por cientistas](https://olhardigital.com.br/2025/10/27/ciencia-e-espaco/fungo-capaz-de-matar-mosquito-da-dengue-e-criado-por-cientistas/) (Olhardigital.com.br)
+
+- [Dengue cases plummet in Johor, 57% decrease reported in Epi Week 43](https://www.thestar.com.my/news/nation/2025/10/27/dengue-cases-plummet-in-johor-57-decrease-reported-in-epi-week-43) (The Star Online)
+
+- [Aumento dei casi di febbre dengue nel Sindh](https://www.ansa.it/sito/photogallery/curiosita/2025/10/27/aumento-dei-casi-di-febbre-dengue-nel-sindh_294d3835-8ce2-4c67-a285-641f804d258e.html) (ANSA.it)
+
+- [Comparison of serum lactate and lactate-derived ratios as prognostic biomarkers in pediatric dengue shock syndrome using supervised machine learning models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335022) (Plos.org)
+
+- [144 new dengue cases reported across Nepal in the past week](https://english.khabarhub.com/2025/27/503056/) (Khabarhub.com)
 
 - [Bacolod: Dengue cases declining, fatalities increasing in NegOcc](https://rpnradio.com/bacolod-dengue-cases-declining-fatalities-increasing-in-negocc/) (Rpnradio.com)
 
@@ -1598,8 +1638,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
 
-- [Health officials warn more people are being bitten by bats across Sask.](https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/) (larongeNOW)
-
 ## 25-38 (pertussis)
 
 - [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
@@ -1738,8 +1776,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Child dies from complications of measles years after infection – SSPE explained](https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220) (The Conversation Africa)
 
-- [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
-
 ## 25-38 (malaria)
 
 - [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
@@ -1838,8 +1874,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
 
-- [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
-
 ## 25-38 (chikungunya)
 
 - [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
@@ -1909,11 +1943,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus in Thailand (2020–2023): Epidemiology, clinical features, and genomic insights](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548) (Plos.org)
 
 - [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
-
-- [Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre](https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html) (ANSA.it)
-
-- [Nel Veronese aumentano sempre di più i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese](https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/) (Ilfattoquotidiano.it)
-
-- [Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre](https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC) (Il Sole 24 Ore)
-
-- [Chikungunya : l'épidémie se propage dans toute la France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html) (Franceinfo.fr)
