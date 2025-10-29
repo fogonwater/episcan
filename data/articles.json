@@ -1,8 +1,333 @@
 {
-  "last_updated": "2025-10-29 07:08",
-  "count_articles_total": 832,
-  "count_articles_new": 9,
+  "last_updated": "2025-10-29 19:06",
+  "count_articles_total": 844,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 25360,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u0415\u043b\u0435\u043d\u0430 \u041c\u0430\u043d\u0443\u043a\u0438\u044f\u043d",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0431\u0435\u0441\u043f\u043e\u043a\u043e\u0435\u043d\u044b \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u043d\u043e\u0432\u043e\u0433\u043e \u0448\u0442\u0430\u043c\u043c\u0430 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 \u0432 \u0421\u0428\u0410 \u0438 \u0415\u0432\u0440\u043e\u043f\u0435",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f \u043c\u0435\u0440\u044b \u043f\u043e \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0437\u0430\u043d\u043e\u0441\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044e \u0441\u0442\u0440\u0430\u043d\u044b \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 (H5N1), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0432 \u0421\u0428\u0410 \u0441\u0440\u0435\u0434\u0438 \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u043e \u0440\u043e\u0433\u0430\u0442\u043e\u0433\u043e \u0441\u043a\u043e\u0442\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440\u0435. \u0420\u0430\u043d\u0435\u0435 \u0441\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u043f\u043e\u0445\u043e\u0436\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0446\u0438\u0440\u043a\u0443\u043b\u2026",
+      "url": "https://rg.ru/2025/10/28/v-rossii-obespokoeny-poiavleniem-novogo-shtamma-grippa-ptic-v-ssha-i-evrope.html",
+      "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
+      "publishedAt": "2025-10-28 18:10:08",
+      "content": ", , . , 28 2025 1080 18 . , . , - H5N1 , . . \" ( \"\") 2025 11,8 362 . H5N1 , \", - .",
+      "retrievedAt": "2025-10-29 19:06:10.241607",
+      "internal_id": "7a3e13438d3f96ab4f8a6160a2697e5d2fa35350e5a71387bc1de34edcc19bc7",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25354,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ProPublica",
+      "author": "Audrey Dutton",
+      "title": "My State Banned Vaccine Mandates. Here\u2019s How I Covered It as an Idaho Journalist.",
+      "description": "The Idaho Medical Freedom Act, which makes it illegal to require almost anyone to take a vaccine, test or other \u201cmedical intervention,\u201d comes amid a national measles outbreak larger than the U.S. has seen in decades.",
+      "url": "http://www.propublica.org/article/idaho-vaccine-mandate-ban-reporter-story",
+      "urlToImage": "https://www.propublica.org/wp-content/uploads/2025/10/20250723-Kitsinger-Idaho-Vaccine-Bill-01_maxHeight_3000_maxWidth_3000-3.jpg?resize=2000,1333",
+      "publishedAt": "2025-10-28 17:55:00",
+      "content": "Ive reported on Idahos anti-vaccination movement for the past 10 years, most recently for ProPublica. Ive written about people moving to Idaho as self-described refugees from states where vaccines ar\u2026 [+5245 chars]",
+      "retrievedAt": "2025-10-29 19:06:09.546200",
+      "internal_id": "580099fadea8c1bca2b9bfd2dfc656b66244cd1c4350e71df477c5af30f71492",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25364,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Kraniche, Schw\u00e4ne, Wildg\u00e4nse: Wo das Vogelgrippevirus H5N1 w\u00fctet",
+      "description": "Der Flug in den S\u00fcden endet in diesem Herbst f\u00fcr viele Zugv\u00f6gel t\u00f6dlich: Bei der Rast in Deutschland erliegen ungew\u00f6hnlich viele Wildtiere der Avi\u00e4ren Influenza, landl\u00e4ufig auch Vogelgrippe oder Gefl\u00fcgelpest genannt. Wo liegen die bisher bekannten Brennpunkte?",
+      "url": "https://www.n-tv.de/wissen/Sterbende-Wildvoegel-Seuchengefahr-fuer-Huehner-Karte-zeigt-aktuelle-Vogelgrippe-Ausbrueche-article26125782.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop26125869/3971327811-cImg_16_9-w1200/ea079de71649dc2d1dc35d660d7e9952.jpg",
+      "publishedAt": "2025-10-28 17:38:24",
+      "content": "Der Flug in den S\u00fcden endet in diesem Herbst f\u00fcr viele Zugv\u00f6gel t\u00f6dlich: Bei der Rast in Deutschland erliegen ungew\u00f6hnlich viele Wildtiere der Avi\u00e4ren Influenza, landl\u00e4ufig auch Vogelgrippe oder Gefl\u2026 [+4618 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.327331",
+      "internal_id": "1246b2016519ecb71ba3dc0ab024ae868221bab730e439e2c3808b5c6810e860",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25372,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Laura Spinney",
+      "title": "How a surge in ancient plagues 5000 years ago shaped humanity",
+      "description": "Plague, leprosy, smallpox and other diseases didn't jump from animals to humans when we thought. Ancient DNA is revealing where they come from and how they changed history",
+      "url": "https://www.newscientist.com/article/2500060-how-a-surge-in-ancient-plagues-5000-years-ago-shaped-humanity/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/10/23112955/SEI_271328800.jpg",
+      "publishedAt": "2025-10-28 16:00:31",
+      "content": "Simon Pemberton Disease historians have a problem. While examining samples of ancient human DNA, geneticists have come across genes belonging to the plague bacterium, Yersinia pestis, revealing that\u2026 [+14886 chars]",
+      "retrievedAt": "2025-10-29 19:06:12.702552",
+      "internal_id": "43206337ea6cd2de7c9cf35af6f6a6c4f959aebc9498b24e76a5ca66387fe768",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25356,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Anna Howe, Emma Best, and Rachel Webb",
+      "title": "Measles likely spreading in communities, Health New Zealand Te Whatu Ora urges vaccination boost \u2013 The Conversation",
+      "description": "OPINION: Health NZ warns new measles cases show the virus is now spreading locally.",
+      "url": "https://www.nzherald.co.nz/nz/measles-likely-spreading-in-communities-health-new-zealand-te-whatu-ora-urges-vaccination-boost-the-conversation/INABPKXFOVHABBYAWL5PWK76QE/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/GRS77P2Q2VCHNEKT4YSCPFJBVQ.jpg?auth=a5d60e23eae5a4b5a445a64aa96a0cbf4a439c75af07e0875aa417a759c86711&width=1200&height=675&quality=70&focal=5277%2C1677&smart=false",
+      "publishedAt": "2025-10-28 16:00:00",
+      "content": "While New Zealand has used the measles vaccine since 1969, a national immunisation register was only introduced in 2005. Without a national register to provide the historical immunisation record, est\u2026 [+4761 chars]",
+      "retrievedAt": "2025-10-29 19:06:09.625975",
+      "internal_id": "967d31dd6ba187f53dc28657e826687c86ae0028d5f682bcfb1d400626568f74",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25359,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "Disease in flight: Bird flu spreads in Europe, US. What's new?",
+      "description": "Migratory birds are spreading the deadly H5N1 disease again, forcing German, Danish and Dutch farms to kill poultry stock. US cases are rising, too.",
+      "url": "https://www.dw.com/en/h5n1-bird-flu-spreading-to-poultry-via-migratory-cranes-germany-denmark-netherlands-usa-europe/a-74527770",
+      "urlToImage": "https://static.dw.com/image/74457497_6.jpg",
+      "publishedAt": "2025-10-28 14:25:00",
+      "content": "Bird flu cases are rising in the Northern Hemisphere, and outbreaks are likely to continue testing farmers and public health authorities determined to curb the spread this winter. The current circul\u2026 [+6237 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.221903",
+      "internal_id": "dc33fa1041a246e243fbdfeab69ed129587420a55cfd76981856a8542d655e3a",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25361,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Vogelgrippe greift um sich: Doppelinfektionen k\u00f6nnten Risiko f\u00fcr Menschen erh\u00f6hen",
+      "description": "Das Vogelgrippe-Virus ist in Und je mehr Tiere sich infizieren, umso gr\u00f6\u00dfer das Risiko, dass H5N1 auf den Menschen \u00fcberspringt.",
+      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-greift-um-sich-doppelinfektionen-konnten-risiko-fur-menschen-erhohen-14680562.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14682026/alternates/BASE_16_9_W1400/1761657828000/vogelgrippe-in-brandenburg.jpeg",
+      "publishedAt": "2025-10-28 14:04:24",
+      "content": "Die gute Nachricht vorweg: Es gibt keinen Grund zur Panik, was eine Pandemie in Menschen betrifft. Das sagt der New Yorker Grippe-Experte Florian Krammer von der Icahn School of Medicine zur aktuell \u2026 [+5041 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.274991",
+      "internal_id": "4a8631a70c4b3dae35d2d13047fc1e42a0b598ce4f8f06b10163fe54b81879a2",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25366,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Channarong Sartsanga, Kittitat Suksirisawat, Jutharat Pengon, Chatpong Pethrak, Atiporn Saeung, Nunya Chotiwan, Kwanchanok Uppakara, Saranya Thaiudomsup, Phonchanan Pakparnich, Kittipat Aupalee, Kritsana Taai, Rinyaporn Phengchat, Anna B. Crist, Louis Lambrechts, Natapong Jupatanakul",
+      "title": "Natural salivary gland barrier curtails Zika virus transmission in Thai Aedes aegypti",
+      "description": "Author summary Aedes aegypti is the primary vector of arboviruses such as Zika virus (ZIKV) and dengue virus (DENV), but not all mosquitoes that become infected successfully transmit the virus. While most research in Thailand has focused on mosquito infection\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013451",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013451.strk&size=inline",
+      "publishedAt": "2025-10-28 14:00:00",
+      "content": "Citation: Sartsanga C, Suksirisawat K, Pengon J, Pethrak C, Saeung A, Chotiwan N, et al. (2025) Natural salivary gland barrier curtails Zika virus transmission in Thai Aedes aegypti. PLoS Negl Trop D\u2026 [+50634 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.572991",
+      "internal_id": "f10955951eebcc9301ba2373ea19b7e3674d5d98d209a1280e9ae6bf391385d5",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25358,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Tierseuche: Tierparks treffen Vorkehrungen gegen Vogelgrippe",
+      "description": "Wiesbaden/Frankfurt/Schotten/Weilburg (lhe) - Die Vogelgrippe hat auch Auswirkungen auf hessische Tierparks. Bundesweit wurde das Influenzavirus H5N1 bei",
+      "url": "https://www.stern.de/gesellschaft/regional/hessen/tierseuche--tierparks-treffen-vorkehrungen-gegen-vogelgrippe-36169104.html",
+      "urlToImage": "https://image.stern.de/36169106/t/KU/v1/w1440/r1.7778/-/28--2j3ke2lyg4v21axs2048jpeg---355d23315689d69b.jpg",
+      "publishedAt": "2025-10-28 13:49:12",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Wer im Zoo oder Tierpark V\u00f6gel anschauen m\u00f6chte, kann derzeit nicht \u00fcberall alle Tiere sehen. Wegen der Vogelgrippe m\u00fcssen manche Tiere drinnenbl\u2026 [+2034 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.195108",
+      "internal_id": "ac75e7e5549c569a1cd867feb096d0458f6b9eef701f577f3d2c3a23b369a86a",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25368,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Dave Smith",
+      "title": "Bill Gates says a \u2018doomsday outlook\u2019 on climate is driving people to focus on the wrong things",
+      "description": "\"If given a choice between eradicating malaria and a tenth of a degree increase in warming, I'll let the temperature go up,\" Gates said.",
+      "url": "https://fortune.com/2025/10/28/bill-gates-doomsday-outlook-climate-change-too-much-focus-near-term-emissions-goals/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2237235833-e1761658514224.jpg?resize=1200,600",
+      "publishedAt": "2025-10-28 13:46:56",
+      "content": "Bill Gates is urging the world to rethink its approach to climate change, arguing that an overly catastrophic narrative is driving resources away from the solutions that could have the greatest impac\u2026 [+6060 chars]",
+      "retrievedAt": "2025-10-29 19:06:11.271971",
+      "internal_id": "8ff90c834797f9e5c642d2bc05198faa0ab306fbfab0b93b786560923ad08e83",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25365,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kommersant.ru",
+      "author": null,
+      "title": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f \u0440\u0430\u0441\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u043a\u0440\u044b\u043b\u044c\u044f // \u0412 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 \u0438 \u0415\u0432\u0440\u043e\u043f\u0435 \u043e\u0442\u043c\u0435\u0447\u0435\u043d \u0440\u0435\u0437\u043a\u0438\u0439 \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 H5N1 \u0441\u0440\u0435\u0434\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
+      "description": "\u0421 \u043d\u043e\u0432\u044b\u043c \u0441\u0435\u0437\u043e\u043d\u043e\u043c \u043c\u0438\u0433\u0440\u0430\u0446\u0438\u0438 \u043f\u0435\u0440\u0435\u043b\u0435\u0442\u043d\u044b\u0445 \u043f\u0442\u0438\u0446 \u0432 \u0440\u0430\u0437\u043d\u044b\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u044b \u043c\u0438\u0440\u0430 \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u043f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f H5N1. \u0421\u0440\u0430\u0437\u0443 \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043c\u0438\u0440\u0430 \u0432\u043b\u0430\u0441\u0442\u0438 \u043e\u0431\u044a\u044f\u0432\u0438\u043b\u0438 \u043e \u0432\u0441\u043f\u044b\u0448\u043a\u0430\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f. \u0412\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u044b \u043c\u043d\u043e\u0433\u0438\u0445 \u043f\u0442\u0438\u0446\u0435\u0432\u043e\u0434\u0447\u0435\u0441\u043a\u0438\u0445 \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432 \u0442\u0435\u043f\u0435\u0440\u044c \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u044b \u0437\u0430\u0431\u0438\u0432\u0430\u0442\u044c \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0443\u044e \u043f\u0442\u0438\u0446\u0443. \u042d\u043a\u0441\u043f\u0435\u0440\u0442\u044b \u043e\u0442\u2026",
+      "url": "https://www.kommersant.ru/doc/8160162",
+      "urlToImage": "https://iy.kommersant.ru/SocialPics/8160162_49_2942738_574888454",
+      "publishedAt": "2025-10-28 11:28:44",
+      "content": "H5N1. . . , H5N1 , . (CDC), 62 , 17 . 6,6 . , , , , . 3,6 . , , 1,9 . 2022 , H5N1, 182 . , CDC, , . 56 10 , 10 . , , . , 500 . , , . , 30 73 . , 20 , . , , . , (Defra) . . , , , . . \u2026 [+24 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.360629",
+      "internal_id": "dbbca95bbec23d84f922735c0ccaf47dfc8755d4b809ccb6fc4a2db323e0fb2b",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25355,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Anna Mehler Paperny",
+      "title": "Canada poised to lose measles elimination status, a possible harbinger of more disease outbreaks",
+      "description": "TORONTO (Reuters) -Canada is poised to lose its measles elimination status after nearly three decades, and public health experts fear outbreaks of other preventable diseases as vaccination rates fall. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/10/28/canada-poised-to-lose-measles-elimination-status-a-possible-harbinger-of-more-disease-outbreaks",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/28/3593563.jpg",
+      "publishedAt": "2025-10-28 11:02:00",
+      "content": "TORONTO (Reuters) -Canada is poised to lose its measles elimination status after nearly three decades, and public health experts fear outbreaks of other preventable diseases as vaccination rates fall\u2026 [+5185 chars]",
+      "retrievedAt": "2025-10-29 19:06:09.575015",
+      "internal_id": "9ead3fbe5639c1cb7abe2e9b7d6c52af16bd1884ec7d37d0d1898282edf4b280",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25363,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Pascal Lepoutte",
+      "title": "Les passionn\u00e9(e) s de Petit \u00e9levage en Wallonie picarde resteront \u00e0 la maison ce week-end",
+      "description": "En concertation avec les autorit\u00e9s comp\u00e9tentes. l\u2019exposition de petit \u00e9levage de Frasnes-lez-Buissenal, un des principaux rendez-vous du genre en Wallonie, pr\u00e9vue ce week-end, est annul\u00e9e en raison des risques li\u00e9s \u00e0 la grippe aviaire H5N1. ...",
+      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2025/10/28/les-passionnee-s-de-petit-elevage-en-wallonie-picarde-resteront-a-la-maison-ce-week-end-KVHHDVTCTVBELBERJQDZOKF2CY/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/JUPAGW5GJFE2HKSBMHW66UTPD4.JPG?auth=2878df3c3737dfccc4b693ef05d98a403475dece16f1f6bfbcd94f06017a7fa0&width=1200&height=630&quality=85&focal=1702%2C1458&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2025-10-28 10:16:22",
+      "content": "Une d\u00e9cision justifi\u00e9e La d\u00e9cision d'annuler l'exposition pour la troisi\u00e8me fois seulement, en un demi-si\u00e8cle d'existence, apr\u00e8s 2005, \u00e0 cause d\u00e9j\u00e0 du virus H5N1, et plus r\u00e9cemment en raison de la p\u2026 [+3525 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.301631",
+      "internal_id": "0ed3bfb539cca4318e5b66a0a54ea119abfa4a7380c5921e1590a3e6d188172f",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25362,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Pascal Lepoutte",
+      "title": "Ce week-end, les passionn\u00e9(e) s de Petit \u00e9levage en Wallonie picarde resteront \u00e0 la maison",
+      "description": "En concertation avec les autorit\u00e9s comp\u00e9tentes. l\u2019exposition de petit \u00e9levage de Frasnes-lez-Buissenal, un des principaux rendez-vous du genre en Wallonie, pr\u00e9vue ce week-end, est annul\u00e9e en raison des risques li\u00e9s \u00e0 la grippe aviaire H5N1. ...",
+      "url": "https://www.lavenir.net/regions/wallonie-picarde/frasnes-lez-anvaing/2025/10/28/ce-week-end-les-passionnee-s-de-petit-elevage-en-wallonie-picarde-resteront-a-la-maison-47MDLAGIRZALDBTLX6AVNE5RNU/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/JUPAGW5GJFE2HKSBMHW66UTPD4.JPG?auth=2878df3c3737dfccc4b693ef05d98a403475dece16f1f6bfbcd94f06017a7fa0&width=1200&height=630&quality=85&focal=1702%2C1458&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FFFSQSLL65ZFQTKEYFN6NTQS5R4.png%3A100%3A0%2C558",
+      "publishedAt": "2025-10-28 10:05:54",
+      "content": "Une d\u00e9cision justifi\u00e9e La d\u00e9cision d'annuler l'exposition pour la troisi\u00e8me fois seulement, en un demi-si\u00e8cle d'existence, apr\u00e8s 2005, \u00e0 cause d\u00e9j\u00e0 du virus H5N1, et plus r\u00e9cemment en raison de la p\u2026 [+3525 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.292741",
+      "internal_id": "33bab65cb63434915ac922e85311257d91d03e89b28ffc91384ed91333358748",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25369,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "World News in Brief: Funding cuts curb development, human rights in Belarus update, Ebola and mpox in Africa",
+      "description": "Sharp declines in global aid are undermining decades of human rights and development progress, the UN Deputy High Commissioner for Human Rights, Nada Al Nashif, warned on Monday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/10/mil-251027-unnews03.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-10-28 09:16:47",
+      "content": "27 October 2025 - Sharp declines in global aid are undermining decades of human rights and development progress, the UN Deputy High Commissioner for Human Rights, Nada Al Nashif, warned on Monday. S\u2026 [+3703 chars]",
+      "retrievedAt": "2025-10-29 19:06:12.080179",
+      "internal_id": "f62dd9f737a3b4bda72f715b44b5d570d97ef82b334e01ba99534602d978ab2b",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Nepal Dengue Surge",
+      "description": "Dengue Fever Outbreak in Nepal: Cases Surge Across 75 Districts Nepal is currently grappling with a significant increase in dengue fever cases. In the past week alone, 144 new cases of dengue infection have been confirmed across 75 districts nationwide. Accor\u2026",
+      "url": "https://nep123.com/nepal-dengue-surge/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "publishedAt": "2025-10-28 08:44:34",
+      "content": "Dengue Fever Outbreak in Nepal: Cases Surge Across 75 Districts Nepal is currently grappling with a significant increase in dengue fever cases. In the past week alone, 144 new cases of dengue infect\u2026 [+1123 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.590972",
+      "internal_id": "5e328c3c16f82deb07aa32dc932084d04c0b40575efc03005b6235d1d234e453",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25370,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Provides Further Support to Mpox Outbreak in Africa through Additional Donation of Vaccines",
+      "description": "COPENHAGEN, Denmark, October 28, 2025 \u2013 Bavarian Nordic announced today a donation of mpox vaccines to Africa CDC to support the response to the ongoing mpox outbreak in Africa.",
+      "url": "https://www.globenewswire.com/news-release/2025/10/28/3175126/0/en/Bavarian-Nordic-Provides-Further-Support-to-Mpox-Outbreak-in-Africa-through-Additional-Donation-of-Vaccines.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-10-28 07:30:00",
+      "content": "COPENHAGEN, Denmark, October 28, 2025 Bavarian Nordic announced today a donation of mpox vaccines to Africa CDC to support the response to the ongoing mpox outbreak in Africa. The donation of 110,00\u2026 [+2751 chars]",
+      "retrievedAt": "2025-10-29 19:06:12.089623",
+      "internal_id": "9d0a7efc717ba04860a54d4f006a039b9df9259bc15b946792a272c073eae361",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25371,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic yder yderligere st\u00f8tte til mpox-udbruddet i Afrika gennem ekstra donation af vacciner",
+      "description": "K\u00d8BENHAVN, Danmark, 28. oktober 2025 \u2013 Bavarian Nordic offentliggjorde i dag en ny donation af mpox-vacciner til Africa CDC for at st\u00f8tte indsatsen mod det igangv\u00e6rende mpox-udbrud i Afrika.",
+      "url": "https://www.globenewswire.com/news-release/2025/10/28/3175126/0/da/Bavarian-Nordic-yder-yderligere-st%C3%B8tte-til-mpox-udbruddet-i-Afrika-gennem-ekstra-donation-af-vacciner.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-10-28 07:30:00",
+      "content": "K\u00d8BENHAVN, Danmark, 28. oktober 2025 Bavarian Nordic offentliggjorde i dag en ny donation af mpox-vacciner til Africa CDC for at st\u00f8tte indsatsen mod det igangv\u00e6rende mpox-udbrud i Afrika. Donatione\u2026 [+2902 chars]",
+      "retrievedAt": "2025-10-29 19:06:12.100011",
+      "internal_id": "ddaf9335ef8ea68ac1069053092f7b282840f90d915a75714f1d4ecc070263ee",
+      "publishedAtLabel": "Oct 28"
+    },
     {
       "id": 25352,
       "query": [
@@ -73,6 +398,24 @@
       "content": "Sex between Aedes aegypti mosquitoes lasts about 14 seconds.Credit: Jacopo Razzauti/The Rockefeller University Female mosquitoes that transmit dengue and other diseases are actually in charge during\u2026 [+3055 chars]",
       "retrievedAt": "2025-10-29 07:08:03.896984",
       "internal_id": "5289161c76c4bfe5d036e655b668c171a45f6ac46d1e0642bba638d0b913a31d",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25357,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Flora Graham",
+      "title": "Daily briefing: The secret language of plants",
+      "description": "Scientists are only now starting to understand the full role of the plant cell wall. Plus, the risks of a less-familiar form of avian influenza virus and how tides impact the development of urbanization.",
+      "url": "https://www.nature.com/articles/d41586-025-03548-w",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03548-w/d41586-025-03548-w_51628686.png",
+      "publishedAt": "2025-10-28 00:00:00",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here. Attention has been focused on avian influenza virus H5N1 in the past few years, but scientists a\u2026 [+5553 chars]",
+      "retrievedAt": "2025-10-29 19:06:10.185457",
+      "internal_id": "3de2ac9bda095d6cf2657fbdba3fec0731fa531b16fd59894208062522698eb6",
       "publishedAtLabel": "Oct 28"
     },
     {
@@ -14907,132 +15250,6 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24527,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
-      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
-      "publishedAt": "2025-09-14 17:16:59",
-      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.559695",
-      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24525,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Eleonora Bianchini",
-      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
-      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
-      "publishedAt": "2025-09-14 16:31:17",
-      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.516930",
-      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24526,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
-      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2025-09-14 16:19:17",
-      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.526467",
-      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24522,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "larongeNOW",
-      "author": "Ckom More",
-      "title": "Health officials warn more people are being bitten by bats across Sask.",
-      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
-      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
-      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
-      "publishedAt": "2025-09-14 12:02:29",
-      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
-      "retrievedAt": "2025-09-15 19:06:03.419193",
-      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
-      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
-      "publishedAt": "2025-09-14 08:32:50",
-      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.809317",
-      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24528,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Franceinfo.fr",
-      "author": null,
-      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
-      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
-      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
-      "publishedAt": "2025-09-14 07:38:25",
-      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.576920",
-      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24523,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Substack.com",
-      "author": "Bryan Sean Mckown",
-      "title": "Comments - Is Public Health Dead?",
-      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
-      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
-      "publishedAt": "2025-09-14 07:15:17",
-      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.018121",
-      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
