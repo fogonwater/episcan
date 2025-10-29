@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-10-28 19:06",
-  "count_articles_total": 816,
-  "count_articles_new": 19,
+  "last_updated": "2025-10-29 07:08",
+  "count_articles_total": 832,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 25352,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "Nu lover han at spendere hele sin formue p\u00e5 filantropi: \u00bbEn mand, der d\u00f8r s\u00e5 rig, d\u00f8r i van\u00e6re\u00ab",
+      "description": "Inspireret af et essay fra 1889 n\u00e6gter Bill Gates at d\u00f8 som en rig mand. Han har sat sig for at bruge sin enorme formue p\u00e5 at bek\u00e6mpe globale problemer som malaria og klimaforandringer. I dag fylder han 70 \u00e5r.",
+      "url": "https://politiken.dk/navne/art10545747/%C2%BBEn-mand-der-d%C3%B8r-s%C3%A5-rig-d%C3%B8r-i-van%C3%A6re%C2%AB",
+      "urlToImage": "https://politiken.dk/incoming/img10592965.kfuuqg/ORIGINALS/original_750/REUTERS-NEXT-NEWSMAKER-BILLGATES",
+      "publishedAt": "2025-10-28 07:00:00",
+      "content": "Gem artiklen Gemt L\u00e6st Bill Gates har f\u00e5et travlt. Han har sat sig for at spendere n\u00e6sten hele sin formue, der udg\u00f8r 200 milliarder dollars, omkring 1.300 milliarder kroner, i l\u00f8bet af de n\u00e6ste 20\u2026 [+100 chars]",
+      "retrievedAt": "2025-10-29 07:08:04.547671",
+      "internal_id": "706b18b71d500daaebbe9822d02572c61e2ff277e2e234e755477c8b8f0f2bed",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25346,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "NZ Herald",
+      "title": "Measles outbreak: Case numbers grow to 11 after one more detected in Wellington region",
+      "description": "One case is linked to overseas travel while the remaining 10 were contracted locally.",
+      "url": "https://www.nzherald.co.nz/nz/measles-outbreak-case-numbers-grow-to-11-after-one-more-detected-in-wellington-region/AXOM3MNAQJFT3KMTMSOBESVGFI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/LQ5YGXPHG5GNPKVKKU3YOJZ36I.png?auth=4b80695e08752e367d9f921c4cbd1531a83065d1eeca9474169aff3b4ecee5e0&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-10-28 04:06:15",
+      "content": "The number of measles cases by region as of this afternoon is one in Northland, two in Auckland, one in Taranaki, two in Manawat, four in Wellington and one in Nelson. Several hundred close contacts\u2026 [+1111 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.178068",
+      "internal_id": "6813cb6d7d754e85a6805ae7a63030868556476c2c4696cc99fa8bc583a98f27",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25351,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Luis Alfredo Robles",
+      "title": "Aumento del dengue enciende las alarmas en municipios de la Regi\u00f3n del Mayo",
+      "description": "En lo que va del a\u00f1o se han registrado al menos 37 casos de dengue en la Regi\u00f3n del Mayo, lo cual significa un aumento del 30 por ciento en el \u00faltimo mes",
+      "url": "https://www.tribuna.com.mx/sonora/2025/10/27/aumento-del-dengue-enciende-las-alarmas-en-municipios-de-la-region-del-mayo-417680.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/27/f1280x720-475201_606876_5050.png",
+      "publishedAt": "2025-10-28 01:25:00",
+      "content": "Navojoa, Sonora.- En tan s\u00f3lo un mes, el municipio de Navojoa pas\u00f3 de concentrar nueve casos de dengue a registrar 22, una situaci\u00f3n que ha comenzado a preocupar a las autoridades sanitarias, por lo \u2026 [+1439 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.913887",
+      "internal_id": "c0aa6a2b502dce14201d98ef0d8ea378d061fdd9f48322deddcad0cb55d0adf9",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Mariana Lenharo",
+      "title": "Glowing sperm helps to reveal secrets of mosquito sex",
+      "description": "Female Aedes mosquitoes signal that copulation can proceed by subtly extending their genitalia.",
+      "url": "https://www.nature.com/articles/d41586-025-03535-1",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03535-1/d41586-025-03535-1_51622444.jpg",
+      "publishedAt": "2025-10-28 00:00:00",
+      "content": "Sex between Aedes aegypti mosquitoes lasts about 14 seconds.Credit: Jacopo Razzauti/The Rockefeller University Female mosquitoes that transmit dengue and other diseases are actually in charge during\u2026 [+3055 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.896984",
+      "internal_id": "5289161c76c4bfe5d036e655b668c171a45f6ac46d1e0642bba638d0b913a31d",
+      "publishedAtLabel": "Oct 28"
+    },
+    {
+      "id": 25347,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "Dindo Lin",
+      "title": "\u79bd\u6d41\u611f H5N1 \u6b63\u8086\u8650\u5168\u7f8e\uff0c\u800c\u806f\u90a6\u653f\u5e9c\u537b\u780d\u4e86\u79d1\u7814\u9810\u7b97\u9084\u95dc\u9580",
+      "description": "\u4e00\u5834\u5e2d\u6372\u5168\u7403\u7684\u52d5\u7269\u75ab\u75c5\u98a8\u66b4\uff0c\u6b63\u4ee5\u5169\u7a2e\u622a\u7136\u4e0d\u540c\u7684\u9762\u8c8c\uff0c\u8003\u9a57\u8457\u4e16\u754c\u7684\u5169\u7aef\u3002\u5728\u7f8e\u570b\uff0c\u829d\u52a0\u54e5\u7684\u4e00\u4f4d\u6d88\u8cbb\u8005 Jon Harris \u611f\u5606\uff0c\u300c\u73fe\u5728\u8cb7\u4e00\u500b\u7c21\u55ae\u7684\u86cb\u4e09\u660e\u6cbb\uff0c\u5f77\u5f7f\u8b8a\u6210\u4e86\u5962\u4f88\u54c1\u300d\u3002\u9ad8\u81f4\u75c5\u6027 H5N1 \u79bd\u6d41\u611f\u75c5\u6bd2\u4e0d\u50c5\u8b93\u96de\u86cb\u50f9\u683c\u98c6\u6f32\u81f3\u6b77\u53f2\u65b0\u9ad8\uff0c\u66f4\u53f2\u7121\u524d\u4f8b\u5730\u8de8\u8d8a\u7269\u7a2e\u5c4f\u969c\uff0c\u5728\u4e73\u725b\u7fa4\u4e2d\u5927\u898f\u6a21\u50b3\u64ad\uff0c\u751a\u81f3\u5f15\u767c\u6578\u5341\u8d77\u4eba\u985e...",
+      "url": "https://technews.tw/2025/10/28/with-h5n1-bird-flu-ravaging-the-u-s-the-federal-government-cuts-research-budgets-and-shuts-down/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/06/17095907/brett-jordan-tp9Y4_w9DIA-unsplash.jpg",
+      "publishedAt": "2025-10-27 23:50:05",
+      "content": "Jon Harris H5N1 H5N1 2022 H5N1 USDA 2024 50 1,761 2024 3 2025 7 18 976 WOAH2024 2023 2025 5 70 H5N1 2022 1 41 24 CDC 2024 12 1.68 7% 10% 1980 A 2025 2 5.89 8 2024 4.10 2022 1 2024 11 14 H\u2026 [+79 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.572227",
+      "internal_id": "990a6539f7c95a6b4d83fc1fe03f1cc29b7c7b3448ef0a8357c335cb27b36991",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25345,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "RNZ",
+      "title": "WHO urges NZ to close measles vaccination gap among M\u0101ori and Pacific communities",
+      "description": "Eight measles cases have now been confirmed across six regions.",
+      "url": "https://www.nzherald.co.nz/nz/who-urges-nz-to-close-measles-vaccination-gap-among-maori-and-pacific-communities/FFFXVRHEINHSFLK2LIIM2AMZX4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QBEXLLFDLVFIFFPAOKWIYO24SQ.jpg?auth=af84edcd3d706c856f7d209f7c5245cc899e4c4fe4fdb290ff393c99ae033ab6&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-10-27 22:40:14",
+      "content": "There are now eight confirmed cases in Manawat, Nelson, Northland, Taranaki, Wellington and Auckland, raising fears of wider community spread. Only 72% of Mori under 5 are vaccinated, compared with \u2026 [+2751 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.161690",
+      "internal_id": "618e87cfd0a0556d3e9995c9ced06a1e95570944c5d4ef7e195ce8add738a117",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25353,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Vaccine reminder as mpox strain spreads in Europe",
+      "description": "Health officials are calling for people to ensure they are vaccinated against mpox, as there are indications the 'clade Ib' strain has spread locally in some European nations.",
+      "url": "https://news.sky.com/story/vaccine-reminder-as-mpox-strain-spreads-in-europe-13458940",
+      "urlToImage": "https://e3.365dm.com/25/10/1600x900/skynews-mpox-virus-uk_7064009.jpg?20251027161418",
+      "publishedAt": "2025-10-27 20:00:00",
+      "content": "Health officials are calling for people to ensure they are vaccinated against mpox, as there are indications the 'clade Ib' strain has spread locally in some European nations. The UK Health Security\u2026 [+2141 chars]",
+      "retrievedAt": "2025-10-29 07:08:04.994242",
+      "internal_id": "48181c29d13c17582e3811b302e5fb963eb106627f0501ab45894a3cd2becb2a",
+      "publishedAtLabel": "Oct 27"
+    },
     {
       "id": 25334,
       "query": [
@@ -217,6 +343,24 @@
       "content": "Introduction Plasmodium parasites caused an estimated 263 million cases of malaria and killed 597,000 people in 2023, with Plasmodium falciparum causing the majority of deaths [1]. P. falciparum par\u2026 [+105880 chars]",
       "retrievedAt": "2025-10-28 19:06:18.836981",
       "internal_id": "90a070513600817a39afb3001ec0d41544a475e8c07e16266a8862e0c2dc514a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 25348,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Yenicaggazetesi.com.tr",
+      "author": "Yeni\u00e7a\u011f Gazetesi",
+      "title": "Almaya'da ku\u015f gribi salg\u0131n\u0131 korkuttu! \u0130tlaf edilen hayvan say\u0131s\u0131 500 bini ge\u00e7ti",
+      "description": "Almanya\u2019da \u00fclke genelinde devam eden ku\u015f gribi salg\u0131n\u0131 nedeniyle itlaf edilen hayvan say\u0131s\u0131n\u0131n 500 bini ge\u00e7ti\u011fi duyuruldu.",
+      "url": "https://www.yenicaggazetesi.com.tr/almayada-kus-gribi-salgini-korkuttu-itlaf-edilen-hayvan-sayisi-500-bini-gecti-975343h.htm",
+      "urlToImage": "https://img.yenicaggazetesi.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2025/10/27/almayada-kus-gribi-salgini-korkuttu-itlaf-edilen-hayvan-sayisi-500-bini-gecti-yemw.jpg",
+      "publishedAt": "2025-10-27 12:56:00",
+      "content": "Almanyada ilk olarak Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) salgn \u00fclke geneline yayld. Almanyada hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fcnden yaplan a\u00e7klamada, \u00fclke\u2026 [+1234 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.648119",
+      "internal_id": "6d62d1489b7e0938681d2f402034792459a0bed2c272eb443b30684a7f1ec3a8",
       "publishedAtLabel": "Oct 27"
     },
     {
@@ -505,6 +649,24 @@
       "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
       "retrievedAt": "2025-10-27 19:05:59.560063",
       "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25349,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "\u0130HA",
+      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
+      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
+      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
+      "publishedAt": "2025-10-26 17:51:38",
+      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.657067",
+      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
       "publishedAtLabel": "Oct 26"
     },
     {
@@ -14745,6 +14907,132 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24527,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
+      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
+      "publishedAt": "2025-09-14 17:16:59",
+      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.559695",
+      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24525,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Eleonora Bianchini",
+      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
+      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-09-14 16:31:17",
+      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.516930",
+      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24526,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
+      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
+      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-09-14 16:19:17",
+      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.526467",
+      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24522,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "larongeNOW",
+      "author": "Ckom More",
+      "title": "Health officials warn more people are being bitten by bats across Sask.",
+      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
+      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
+      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
+      "publishedAt": "2025-09-14 12:02:29",
+      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
+      "retrievedAt": "2025-09-15 19:06:03.419193",
+      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
+      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
+      "publishedAt": "2025-09-14 08:32:50",
+      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.809317",
+      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24528,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
+      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
+      "publishedAt": "2025-09-14 07:38:25",
+      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.576920",
+      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24523,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "Bryan Sean Mckown",
+      "title": "Comments - Is Public Health Dead?",
+      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
+      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
+      "publishedAt": "2025-09-14 07:15:17",
+      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.018121",
+      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
