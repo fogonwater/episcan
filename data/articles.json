@@ -1,8 +1,386 @@
 {
-  "last_updated": "2025-10-30 07:07",
-  "count_articles_total": 866,
-  "count_articles_new": 15,
+  "last_updated": "2025-10-30 19:06",
+  "count_articles_total": 880,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 25396,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Fel\u00fct\u00f6tte a fej\u00e9t a hal\u00e1los v\u00edrus Magyarorsz\u00e1gon: szigor\u00fa fegyelemre int a hat\u00f3s\u00e1g",
+      "description": "A mad\u00e1rinfluenza v\u00edrus magas patogenit\u00e1s\u00fa, H5N1 alt\u00edpus\u00e1t igazolt\u00e1k egy J\u00e1sz-Nagykun-Szolnok v\u00e1rmegyei pecsenyekacsa-tart\u00f3 gazdas\u00e1gban a Nemzeti \u00c9lelmiszerl\u00e1nc-biztons\u00e1gi Hivatal (N\u00e9bih) vizsg\u00e1latai. Az \u00e1llom\u00e1ny felsz\u00e1mol\u00e1sa azonnal megkezd\u0151d\u00f6tt, a j\u00e1rv\u00e1ny\u00fcgy\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20251029/felutotte-a-fejet-a-halalos-virus-magyarorszagon-szigoru-fegyelemre-int-a-hatosag-796198",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-h5n1-677385.jpg",
+      "publishedAt": "2025-10-29 17:22:00",
+      "content": "A t\u00e1j\u00e9koztat\u00e1s szerint a betegs\u00e9get a Tiszajen telep\u00fcl\u00e9sen l\u00e9v, k\u00f6zel 20 ezer pecsenyekacs\u00e1t sz\u00e1ml\u00e1l\u00f3 \u00e1llom\u00e1nyban mutatt\u00e1k ki, miut\u00e1n megemelkedett sz\u00e1mban jelent meg az \u00e1llatok k\u00f6z\u00f6tt b\u00e1gyadts\u00e1g, \u2026 [+1305 chars]",
+      "retrievedAt": "2025-10-30 19:06:04.972685",
+      "internal_id": "d986b3036e788b5d520d5ad6c49e7e1e2da04f88570a0b2f14de6ae75c6c9a69",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25394,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Moln\u00e1r Gerg\u0151",
+      "title": "K\u00fcsz\u00f6b\u00f6n a j\u00e1rv\u00e1ny: megjelent a rettegett k\u00f3r J\u00e1sz-Nagykun-Szolnok v\u00e1rmegy\u00e9ben",
+      "description": "K\u00fcsz\u00f6b\u00f6n a j\u00e1rv\u00e1ny: megjelent a rettegett k\u00f3r J\u00e1sz-Nagykun-Szolnok v\u00e1rmegy\u00e9ben - 20 ezer \u00e1llatot \u00e9rinthetett a fert\u0151z\u00e9s, elrendelt\u00e9k az \u00e1llom\u00e1ny azonnali felsz\u00e1mol\u00e1s\u00e1t.",
+      "url": "https://index.hu/gazdasag/2025/10/29/madarinfluenza-jarvany-tiszajeno-pecsenyekacsa-gazdasag/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/6561/65614/656144/65614471_4844237_34ce9a792506782ba52e074d727c8198_wm.jpg",
+      "publishedAt": "2025-10-29 17:16:00",
+      "content": "A mad\u00e1rinfluenza v\u00edrus magas patogenit\u00e1s\u00fa, H5N1 alt\u00edpus\u00e1t igazolt\u00e1k egy J\u00e1sz-Nagykun-Szolnok v\u00e1rmegyei pecsenyekacsa-tart\u00f3 gazdas\u00e1gban a Nemzeti \u00c9lelmiszerl\u00e1nc-biztons\u00e1gi Hivatal (N\u00e9bih) vizsg\u00e1latai \u2026 [+1712 chars]",
+      "retrievedAt": "2025-10-30 19:06:04.923067",
+      "internal_id": "3954e717fb2a80a5b505943267ba12814d133b4fee45c58ae10e1f6c4d563b0c",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25404,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ahmed Elbediwy, Senior Lecturer in Cancer Biology & Clinical Biochemistry, Kingston University, Nadine Wehida, Senior Lecturer in Genetics and Molecular Biology, Kingston University",
+      "title": "From antibiotics to antimalarials: how repurposed drugs might keep cancer from returning",
+      "description": "Scientists are discovering that old malaria drugs and other existing medicines might help prevent cancer from returning.",
+      "url": "https://theconversation.com/from-antibiotics-to-antimalarials-how-repurposed-drugs-might-keep-cancer-from-returning-266517",
+      "urlToImage": "https://images.theconversation.com/files/696241/original/file-20251014-56-gxa6bt.jpg?ixlib=rb-4.1.0&rect=0%2C387%2C4639%2C2319&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-10-29 17:05:52",
+      "content": "dturphoto/Shutterstock.com Many cancer survivors live with the worry that their cancer might come back. This \u201crecurrence\u201d occurs when cancer cells hide somewhere in the body \u2013 like in the bone marro\u2026 [+4974 chars]",
+      "retrievedAt": "2025-10-30 19:06:06.129825",
+      "internal_id": "10b218d44cf9bf4834fd75a15e586dce74ef18c6b4228524fa925dcc575b3af2",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25392,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ksltv.com",
+      "author": "Jacob Freeman",
+      "title": "Salt Lake County likely has its first measles case, health officials say",
+      "description": "Salt Lake County likely has its first case of measles, health officials said Wednesday.",
+      "url": "https://ksltv.com/health/salt-lake-county-likely-has-its-first-measles-case-health-officials-say/838281/",
+      "urlToImage": "https://cdn.ksltv.com/ksltv/wp-content/uploads/2025/06/Measles-Vaccination_Rates_37396-e1750447461114.jpg",
+      "publishedAt": "2025-10-29 16:42:27",
+      "content": "FILE - Vials for the measles, mumps and rubella vaccine are displayed at a clinic in Lubbock, Texas, on Feb. 26, 2025. (AP Photo/Mary Conlon, File) (AP Photo/Mary Conlon, File) SALT LAKE CITY Salt \u2026 [+871 chars]",
+      "retrievedAt": "2025-10-30 19:06:03.928734",
+      "internal_id": "80038193ee7d6c37bfb6b85a3419d01f3cdf3408be4fdd9d8c5eeb8451d8b917",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25393,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Anja Blum, Stephanie Schwaderer, Armin Greune, Ismaning/Ebersberg",
+      "title": "Tierseuche: Vogelgrippe-Alarm am Speichersee",
+      "description": "In dem Naturschutzgebiet im Norden von M\u00fcnchen werden rund 50 Kadaver von Wasserv\u00f6geln gefunden, die h\u00f6chstwahrscheinlich mit dem Influenza-A-Virus H5N1 infiziert sind. Nicht nur f\u00fcr Gefl\u00fcgelhalter ist nun Vorsicht geboten.",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ismaning-muenchen-speichersee-vogelgrippe-li.3331799",
+      "urlToImage": "https://www.sueddeutsche.de/2022/08/26/0d7d51ea-b971-4415-98eb-d66b07aed3f9.jpeg?q=60&fm=webp&width=1200&rect=0%2C70%2C1350%2C759",
+      "publishedAt": "2025-10-29 15:56:18",
+      "content": "Die Vogelgrippe ist in der Region M\u00fcnchen angekommen. Im Landkreis Dachau wurde der Kadaver einer infizierten Wildgans entdeckt, im Landkreis Freising der eines Schwans, im etwas weiter entfernten La\u2026 [+433 chars]",
+      "retrievedAt": "2025-10-30 19:06:04.906141",
+      "internal_id": "2042ec1f28b77173496ac6f974da0a8d6637f4fd0b39cbb08c3800ce1ad70f4e",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25405,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Chikungunya : aucun nouveau foyer n\u2019a \u00e9t\u00e9 enregistr\u00e9 dans l\u2019Hexagone, l\u2019accalmie se confirme",
+      "description": "L\u2019accalmie se confirme pour le chikungunya. Aucun cas de cette maladie transmise par le moustique tigre n\u2019a \u00e9t\u00e9 recens\u00e9 dans l\u2019Hexagone au cours de ces derniers jours, a annonc\u00e9 l\u2019agence de sant\u00e9 publique, mercredi 29 octobre 2025.",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-aucun-nouveau-foyer-na-ete-enregistre-dans-lhexagone-laccalmie-se-confirme-3a5e3ef6-b4d1-11f0-8d83-9a721a62cee7",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTEwYzNlYjlkZTgyMzU3NmE3MzZiMzAxYzM0NzZmZDFhN2Y?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e7064b1c5843842f0c72f1cb664267f1acf49a7ccbc67ddb73c7856846938a31",
+      "publishedAt": "2025-10-29 15:24:15",
+      "content": "Le chikungunya, maladie caus\u00e9e par un virus transmis par le moustique tigre, na contamin\u00e9 aucun foyer ces derniers jours dans lHexagone, a annonc\u00e9 lagence de sant\u00e9 publique, mercredi 29 octobre 2025.\u2026 [+2251 chars]",
+      "retrievedAt": "2025-10-30 19:06:06.586294",
+      "internal_id": "14619faa4f768c9327e601ea26a614903081d702c864fb0f3294808ad48f0800",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25389,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "OPH warns of more potential measles exposures",
+      "description": "Ottawa Public Health is warning people who went to Ikea, two grocery stores and a pharmacy earlier this month that they may have been exposed to measles.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-measles-exposures-october-november-2025-9.6958213",
+      "urlToImage": "https://i.cbc.ca/ais/0c534dc1-054c-4b91-8012-d763b82ea118,1761264236600/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C57%2C1180%2C663%29%3BResize%3D620",
+      "publishedAt": "2025-10-29 14:55:05",
+      "content": "Ottawa Public Health (OPH) is warning people who went to Ikea, two grocery stores and a pharmacy earlier this month that they may have been exposed to measles. The health unit said Wednesday it's in\u2026 [+1723 chars]",
+      "retrievedAt": "2025-10-30 19:06:03.816902",
+      "internal_id": "35bc6549c96dc05fabf92b9bf0eafb0eaeed1fe3de63ecf68a55018b88346ef7",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Vincent Herbreteau, Pierre-Olivier Maquart, Sokeang Hoeun, Bros Doeurk, Florian Girond, S\u00e9bastien Boyer",
+      "title": "Spatio-temporal distribution and environmental determinants of dengue vectors in Phnom Penh, Cambodia",
+      "description": "Author summary Dengue fever is a major health concern in Southeast Asia, especially in Cambodia, where outbreaks repeatedly affect the population. The pathogen, the dengue virus, is transmitted by two main mosquito vector species, Aedes aegypti and Aedes albo\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013667",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013667.g007&size=inline",
+      "publishedAt": "2025-10-29 14:00:00",
+      "content": "Abstract Dengue fever, one of the most widespread vector-borne diseases globally, is mainly transmitted by Aedes aegypti and Ae. albopictus mosquitoes. In Cambodia, dengue has been a recurrent publi\u2026 [+40149 chars]",
+      "retrievedAt": "2025-10-30 19:06:05.358658",
+      "internal_id": "8e5b21fcf709106e5b532a34353fd6bcb6038567bab857b3baa5f6fdf922784f",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lauren E. Bahr, Marco Hamins-Puertolas, Darunee Buddhari, Ivona Petzlova, Fabiano Oliveira, Stephen J. Thomas, Saravanan Thangamani, Adam T. Waickman, Kathryn B. Anderson",
+      "title": "Antibody response to Aedes aegypti D7L1 + 2 salivary proteins as marker of aggregate vector exposure and correlate of dengue virus susceptibility",
+      "description": "Author summary Aedes mosquitoes can transmit several globally impactful viruses, including dengue virus (DENV). Currently there are no widely efficacious vaccines or treatments against DENV, making prevention of exposure to mosquitoes an important tool in pre\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013099",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013099.g004&size=inline",
+      "publishedAt": "2025-10-29 14:00:00",
+      "content": "Abstract Aedes aegypti mosquitoes transmit several arboviruses of public health importance. Among these is dengue virus (DENV), a flavivirus whose global infection rates continue to rise each year. \u2026 [+52023 chars]",
+      "retrievedAt": "2025-10-30 19:06:05.368060",
+      "internal_id": "b305df55a617de2698f87f28898266da12030259a3bdbe41b2e9918c185c6ce8",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25406,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Adam J. Moore, Koen K. A. Van Rompay, William Louie, Jennifer K. Watanabe, Sunny An, Rochelle Leung, Jodie L. Usachenko, Peter N. Chu, Katherine J. Olstad, Colleen S. McCoy, Rafael K. Campos, Scott C. Weaver, Shannan L. Rossi, Lark L. Coffey",
+      "title": "Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes",
+      "description": "Author summary Mayaro virus (MAYV) is a mosquito-borne virus found in Latin America that causes fever and joint pain, similar to chikungunya virus (CHIKV). However, unlike CHIKV, MAYV has not led to large outbreaks. One reason may be that levels of MAYV in hu\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013061.g007&size=inline",
+      "publishedAt": "2025-10-29 14:00:00",
+      "content": "Citation: Moore AJ, Van Rompay KKA, Louie W, Watanabe JK, An S, Leung R, et al. (2025) Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes. PLoS Negl Trop Dis 19\u2026 [+58315 chars]",
+      "retrievedAt": "2025-10-30 19:06:06.620173",
+      "internal_id": "424f0726242cae491a5e7f78ab8abe2b643bf8806cc19b025ce8ac3540afe37e",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25408,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Augustus Osborne, Umaru Sesay, Gebrekrstos Negash Gebru, Peter Bai James",
+      "title": "Harnessing traditional healers role in strengthening Africa\u2019s public health response: A case study of Mpox outbreak",
+      "description": "Mpox, a zoonotic viral disease endemic in Central and West Africa, has posed major public health challenges, particularly following the 2022 outbreak. The World Health Organization declared it a public health emergency of international concern in July 2022. I\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013655",
+      "urlToImage": null,
+      "publishedAt": "2025-10-29 14:00:00",
+      "content": "Abstract Mpox, a zoonotic viral disease endemic in Central and West Africa, has posed major public health challenges, particularly following the 2022 outbreak. The World Health Organization declared\u2026 [+40448 chars]",
+      "retrievedAt": "2025-10-30 19:06:06.904139",
+      "internal_id": "4072322cc9f5ede7ecff9d048b1b87d795a9b6661481bb509488faf070fa5949",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25395,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1-Virus: Vogelgrippe: Eichsfeld bereitet Stallpflicht vor",
+      "description": "Das H5N1-Virus grassiert, und das Risiko f\u00fcr Gefl\u00fcgelhalter steigt. Nun plant auch der Kreis Eichsfeld eine Stallpflicht. Im Th\u00fcringer Norden m\u00fcssen die Tiere dann geschlossen gehalten werden.",
+      "url": "https://www.stern.de/gesellschaft/regional/thueringen/h5n1-virus--vogelgrippe--eichsfeld-bereitet-stallpflicht-vor-36172914.html",
+      "urlToImage": "https://image.stern.de/36172916/t/bA/v1/w1440/r1.7778/-/29--tlai2hx2qgv5axs2048jpeg---246930ef6bb26fd5.jpg",
+      "publishedAt": "2025-10-29 13:49:48",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Das H5N1-Virus grassiert, und das Risiko f\u00fcr Gefl\u00fcgelhalter steigt. Nun plant auch der Kreis Eichsfeld eine Stallpflicht. Im Th\u00fcringer Norden m\u00fcs\u2026 [+2405 chars]",
+      "retrievedAt": "2025-10-30 19:06:04.932453",
+      "internal_id": "9b77e88f2832b21b125eb93f6ebfad39ecc5960156db58fd2bffcd6f76f1b2d9",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25397,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc'nden uyar\u0131: H5N1 Ku\u015f Gribi yeni bir pandemiyi tetikleyebilir",
+      "description": "Almanya\u2019da h\u0131zla yay\u0131lan H5N1 ku\u015f gribi vir\u00fcs\u00fc, milyonlarca k\u00fcmes hayvan\u0131n\u0131 tehdit ediyor. Uzmanlara g\u00f6re vir\u00fcs, insana uyum sa\u011flama potansiyeli ta\u015f\u0131yor ve 'k\u00fcresel bir salg\u0131n' riskini bar\u0131nd\u0131r\u0131yor.",
+      "url": "https://anlatilaninotesi.com.tr/20251029/dunya-saglik-orgutunden-uyari-h5n1-kus-gribi-yeni-bir-pandemiyi-tetikleyebilir-1100591305.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100591305.jpg?11005910891761745571",
+      "publishedAt": "2025-10-29 13:46:10",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251029/dunya-saglik-orgutunden-uyari-h5n1-kus-gribi-yeni-bir-pandemiyi-tetikleyebilir-1100591305.html D\u00fcn\u2026 [+3699 chars]",
+      "retrievedAt": "2025-10-30 19:06:05.005676",
+      "internal_id": "c06773cda26c0770dd4ac227da85715244126db3a39e520cd3bdb2c51d568eea",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25399,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "Vogelgrippe: Saarland und Hamburg verh\u00e4ngen Stallpflicht",
+      "description": "Als erstes Bundesland ordnet das Saarland an, dass Gefl\u00fcgel wegen der Vogelgrippe in St\u00e4llen gehalten werden muss. Auch in Hamburg gilt das in K\u00fcrze. Die Zahl von der Seuche betroffener Tiere steigt weiter.",
+      "url": "https://www.sueddeutsche.de/panorama/vogelgrippe-deutschland-stallpflicht-saarland-hamburg-li.3331801",
+      "urlToImage": "https://www.sueddeutsche.de/2022/06/20/87c086bd-6633-4206-9ed5-a4e5b4b9832e.jpeg?q=60&fm=webp&width=1200&rect=0%2C67%2C1362%2C766",
+      "publishedAt": "2025-10-29 13:20:00",
+      "content": "Nach einem ersten best\u00e4tigten Fall des H5N1-Virus bei einem Wildvogel im Saarland reagiert das dortige Landesamt damit mit strikten Schutzma\u00dfnahmen. Um die Verbreitung der Gefl\u00fcgelgrippe weiter zu ve\u2026 [+2773 chars]",
+      "retrievedAt": "2025-10-30 19:06:05.032799",
+      "internal_id": "0fcc90f2f9b55deb8f5c8d996828aca4d5afb7723d6fd69bb48b78207a52fb51",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25407,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "franceinfo avec AFP",
+      "title": "Epid\u00e9mie de chikungunya : l'accalmie se confirme en France m\u00e9tropolitaine",
+      "description": "Sant\u00e9 Publique France a relev\u00e9 mercredi qu'aucun nouveau foyer de la maladie transmise par le moustique tigre n'a \u00e9t\u00e9 d\u00e9tect\u00e9 ces derniers jours, une premi\u00e8re depuis plusieurs mois.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/JU-L-JLhGnSICciaWP0aCaFTmes/0x61:1024x637/1500x843/2025/07/08/075-roy-notitle250607-np5lk-686ce4be69ecb925190830.jpg",
+      "publishedAt": "2025-10-29 11:56:36",
+      "content": "Aucun nouveau foyer de chikungunya n'a \u00e9t\u00e9 enregistr\u00e9 ces derniers jours en m\u00e9tropole, a annonc\u00e9 mercredi 29 octobre l'agence de sant\u00e9 publique. Cette maladie, transmise par le moustique tigre, circu\u2026 [+1021 chars]",
+      "retrievedAt": "2025-10-30 19:06:06.637275",
+      "internal_id": "4f439ead2a93b97ae0ebd9be01beb5aea266782da34cfbe928e1da598c1b497a",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25388,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak expected to continue in northeast B.C. with 5 or more new cases a day, health officials say",
+      "description": "Despite a surge in summer vaccinations, health officials say the measles outbreak in northeastern British Columbia shows no sign of slowing down.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fort-st-john-measles-outbreak-transmission-still-high-9.6957484",
+      "urlToImage": "https://i.cbc.ca/ais/b36712e5-d158-481b-8d85-aca603a3eaa0,1760798743877/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3BResize%3D620",
+      "publishedAt": "2025-10-29 11:00:00",
+      "content": "Despite a surge in summer vaccinations, health officials say the measles outbreak in northeastern British Columbia shows no sign of slowing down. Dr. Rakel Kling, a medical health officer for Northe\u2026 [+2237 chars]",
+      "retrievedAt": "2025-10-30 19:06:03.807326",
+      "internal_id": "4dd0eb5fa570f1b139cc727e43fe1ad6787d752a71e76982c5e12e8d1f2c3576",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Roche receives CE mark for Elecsys Dengue Ag test",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4223503/RHHBY-Roche-receives-CE-mark-for-Elecsys-Dengue-Ag-test",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-10-29 10:52:45",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-10-30 19:06:05.325981",
+      "internal_id": "dd26eee21551ad84ee519edc0ee45b7cb9a2d29d325cc52dd6547907cbac309f",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25391,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Hannah Alberga",
+      "title": "These doctors helped eradicate measles in '98. Here's how they did it",
+      "description": "Dr. Arlene King got measles more than 60 years ago, but she still remembers feeling so weak that getting her shoes on was a challenge.",
+      "url": "https://www.nationalobserver.com/2025/10/29/news/these-doctors-helped-eradicate-measles-98-heres-how-they-did-it",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/29/6bc36cdc79fb2c7639adfcadcf3ca38e972464632aa8ccf82bfd02ae68c88e4c.jpg",
+      "publishedAt": "2025-10-29 10:44:14",
+      "content": "Dr. Arlene King got measles more than 60 years ago, but she still remembers feeling so weak that getting her shoes on was a challenge. It didnt take long for King, who was in Grade 1 at the time, t\u2026 [+6367 chars]",
+      "retrievedAt": "2025-10-30 19:06:03.871537",
+      "internal_id": "675ca4acf41767370c8a766ef101ef9b123f03ac41f03d9a2c5958e485263c21",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25398,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "Vogelgrippe: Saarland verh\u00e4ngt Stallpflicht",
+      "description": "Als erstes Bundesland ordnet das Saarland an, dass Gefl\u00fcgel wegen der Vogelgrippe in St\u00e4llen gehalten werden muss, Landkreise in Brandenburg und Niedersachsen hatten das bereits zuvor entschieden. Die Zahl von der Seuche betroffener Tiere steigt weiter.",
+      "url": "https://www.sueddeutsche.de/panorama/vogelgrippe-stallpflicht-saarland-li.3331801",
+      "urlToImage": "https://www.sueddeutsche.de/2022/06/20/87c086bd-6633-4206-9ed5-a4e5b4b9832e.jpeg?q=60&fm=webp&width=1200&rect=0%2C67%2C1362%2C766",
+      "publishedAt": "2025-10-29 10:09:10",
+      "content": "Nach einem ersten best\u00e4tigten Fall des H5N1-Virus bei einem Wildvogel im Saarland reagiert das Landesamt damit mit strikten Schutzma\u00dfnahmen. Um die Verbreitung der Gefl\u00fcgelgrippe weiter zu verhindern\u2026 [+2316 chars]",
+      "retrievedAt": "2025-10-30 19:06:05.023221",
+      "internal_id": "c0792301b2cec97bec3c82026cad1b7b3a04636df6ab73e3d720bafc9fbb6564",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Filipe Pimentel Ra\u00e7\u00f5es",
+      "title": "No sexo dos mosquitos, as f\u00eameas \u00e9 que mandam",
+      "description": "Apesar de serem insetos aos quais raramente devotamos mais do que alguns segundos de pensamento (a n\u00e3o ser numa noite quente de ver\u00e3o em que um esteja a zumbir pelo nosso quarto), os mosquitos s\u00e3o animais que ainda escondem alguns segredos. Um deles est\u00e1 rela\u2026",
+      "url": "https://greensavers.sapo.pt/no-sexo-dos-mosquitos-as-femeas-e-que-mandam/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2025/10/national-institute-of-allergy-and-infectious-diseases-Z2pq_4mj6BI-unsplash-e1761673642814.jpg",
+      "publishedAt": "2025-10-29 10:02:15",
+      "content": "Vetores de doen\u00e7as como a dengue, a febre amarela e a mal\u00e1ria, os mosquitos s\u00e3o por muitos considerados pragas e amea\u00e7as \u00e0 sa\u00fade p\u00fablica. Apesar de serem insetos aos quais raramente devotamos mais d\u2026 [+3016 chars]",
+      "retrievedAt": "2025-10-30 19:06:05.393343",
+      "internal_id": "759343feb26ff2e9b17c54d44da9703c93c67524553db2568d3d13a003a8cc53",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25390,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "Vera Emoghene",
+      "title": "Measles outbreak surges in South Carolina",
+      "description": "Parents in the Upstate region are on edge as measles cases climb sharply. The South Carolina Department of Public Health reported eight fresh confirmations in Spartanburg County since Friday. This spike lifts the year\u2019s tally across the state to 33 with 30 ro\u2026",
+      "url": "https://rollingout.com/2025/10/29/measles-outbreak-surges-south-carolina/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
+      "publishedAt": "2025-10-29 10:00:13",
+      "content": "Parents in the Upstate region are on edge as measles cases climb sharply. The South Carolina Department of Public Health reported eight fresh confirmations in Spartanburg County since Friday. This sp\u2026 [+4584 chars]",
+      "retrievedAt": "2025-10-30 19:06:03.849292",
+      "internal_id": "eefc2be50be198837a32fd5e8f1dc449fac15d5795be86b9fb0d575ead2674a3",
+      "publishedAtLabel": "Oct 29"
+    },
     {
       "id": 25377,
       "query": [
@@ -15520,132 +15898,6 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24527,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
-      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
-      "publishedAt": "2025-09-14 17:16:59",
-      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.559695",
-      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24525,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Eleonora Bianchini",
-      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
-      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
-      "publishedAt": "2025-09-14 16:31:17",
-      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.516930",
-      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24526,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
-      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2025-09-14 16:19:17",
-      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.526467",
-      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24522,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "larongeNOW",
-      "author": "Ckom More",
-      "title": "Health officials warn more people are being bitten by bats across Sask.",
-      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
-      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
-      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
-      "publishedAt": "2025-09-14 12:02:29",
-      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
-      "retrievedAt": "2025-09-15 19:06:03.419193",
-      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
-      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
-      "publishedAt": "2025-09-14 08:32:50",
-      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.809317",
-      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24528,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Franceinfo.fr",
-      "author": null,
-      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
-      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
-      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
-      "publishedAt": "2025-09-14 07:38:25",
-      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.576920",
-      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24523,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Substack.com",
-      "author": "Bryan Sean Mckown",
-      "title": "Comments - Is Public Health Dead?",
-      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
-      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
-      "publishedAt": "2025-09-14 07:15:17",
-      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.018121",
-      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]

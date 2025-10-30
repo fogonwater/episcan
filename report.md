@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-10-30 07:07
-- **Most recent article:** 2025-10-29 06:14:59
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-10-30 19:06
+- **Most recent article:** 2025-10-29 17:22:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 54 | 34 | 31 | 29 | 35 | 25 | 14 | 222 |
-| dengue | 26 | 18 | 32 | 23 | 18 | 14 | 18 | 149 |
-| chikungunya | 38 | 23 | 25 | 10 | 28 | 11 | 4 | 139 |
-| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 10 | 106 |
-| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 23 | 95 |
-| rabies | 13 | 18 | 10 | 6 | 9 | 3 | 1 | 60 |
-| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 6 | 49 |
+| measles | 53 | 34 | 31 | 29 | 35 | 25 | 19 | 226 |
+| dengue | 25 | 18 | 32 | 23 | 18 | 14 | 22 | 152 |
+| chikungunya | 34 | 23 | 25 | 10 | 28 | 11 | 7 | 138 |
+| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 11 | 107 |
+| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 30 | 102 |
+| rabies | 12 | 18 | 10 | 6 | 9 | 3 | 1 | 59 |
+| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 7 | 50 |
 | zika | 6 | 6 | 5 | 7 | 1 | 3 | 2 | 30 |
 | meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 0 | 25 |
 | typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 1 | 15 |
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (mpox)
 
+- [Harnessing traditional healers role in strengthening Africa’s public health response: A case study of Mpox outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013655) (Plos.org)
+
 - [World News in Brief: Funding cuts curb development, human rights in Belarus update, Ebola and mpox in Africa](https://www.globalsecurity.org/military/library/news/2025/10/mil-251027-unnews03.htm) (Globalsecurity.org)
 
 - [Bavarian Nordic Provides Further Support to Mpox Outbreak in Africa through Additional Donation of Vaccines](https://www.globenewswire.com/news-release/2025/10/28/3175126/0/en/Bavarian-Nordic-Provides-Further-Support-to-Mpox-Outbreak-in-Africa-through-Additional-Donation-of-Vaccines.html) (GlobeNewswire)
@@ -65,6 +67,16 @@ Source: [News API](https://newsapi.org/)
 - [Research: Mpox: technical assessments](https://www.gov.uk/government/publications/mpox-technical-assessments) (Www.gov.uk)
 
 ## 25-44 (measles)
+
+- [Salt Lake County likely has its first measles case, health officials say](https://ksltv.com/health/salt-lake-county-likely-has-its-first-measles-case-health-officials-say/838281/) (ksltv.com)
+
+- [OPH warns of more potential measles exposures](https://www.cbc.ca/news/canada/ottawa/ottawa-measles-exposures-october-november-2025-9.6958213) (CBC News)
+
+- [Measles outbreak expected to continue in northeast B.C. with 5 or more new cases a day, health officials say](https://www.cbc.ca/news/canada/british-columbia/fort-st-john-measles-outbreak-transmission-still-high-9.6957484) (CBC News)
+
+- [These doctors helped eradicate measles in '98. Here's how they did it](https://www.nationalobserver.com/2025/10/29/news/these-doctors-helped-eradicate-measles-98-heres-how-they-did-it) (National Observer)
+
+- [Measles outbreak surges in South Carolina](https://rollingout.com/2025/10/29/measles-outbreak-surges-south-carolina/) (Rolling Out)
 
 - [Public Health warns of measles exposure at Renton car dealership, Kent arena](https://www.kiro7.com/news/local/public-health-warns-measles-exposure-renton-car-dealership-kent-arena/GUX3VJY2ONH7LC6X34WJ44VX64/) (KIRO Seattle)
 
@@ -96,6 +108,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (malaria)
 
+- [From antibiotics to antimalarials: how repurposed drugs might keep cancer from returning](https://theconversation.com/from-antibiotics-to-antimalarials-how-repurposed-drugs-might-keep-cancer-from-returning-266517) (The Conversation Africa)
+
 - [Madhya Pradesh: 20-year-old dies as ambulance stops to ‘see leopard’, reaches hospital late; driver, staff held](https://timesofindia.indiatimes.com/city/bhopal/mp-horror-patient-dies-after-ambulance-halts-over-leopard-sighting-driver-staff-held-for-demanding-extra-money/articleshow/124886570.cms) (The Times of India)
 
 - [HHS fires senior adviser who opposed COVID-19 vaccines: Reports](https://justthenews.com/politics-policy/health/hhs-fires-senior-advisor-who-opposed-covid-19-vaccines-reports) (Justthenews.com)
@@ -121,6 +135,20 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
+
+- [Felütötte a fejét a halálos vírus Magyarországon: szigorú fegyelemre int a hatóság](https://www.portfolio.hu/gazdasag/20251029/felutotte-a-fejet-a-halalos-virus-magyarorszagon-szigoru-fegyelemre-int-a-hatosag-796198) (Portfolio.hu)
+
+- [Küszöbön a járvány: megjelent a rettegett kór Jász-Nagykun-Szolnok vármegyében](https://index.hu/gazdasag/2025/10/29/madarinfluenza-jarvany-tiszajeno-pecsenyekacsa-gazdasag/) (Index.hu)
+
+- [Tierseuche: Vogelgrippe-Alarm am Speichersee](https://www.sueddeutsche.de/muenchen/landkreismuenchen/ismaning-muenchen-speichersee-vogelgrippe-li.3331799) (Süddeutsche Zeitung)
+
+- [H5N1-Virus: Vogelgrippe: Eichsfeld bereitet Stallpflicht vor](https://www.stern.de/gesellschaft/regional/thueringen/h5n1-virus--vogelgrippe--eichsfeld-bereitet-stallpflicht-vor-36172914.html) (STERN.de)
+
+- [Dünya Sağlık Örgütü'nden uyarı: H5N1 Kuş Gribi yeni bir pandemiyi tetikleyebilir](https://anlatilaninotesi.com.tr/20251029/dunya-saglik-orgutunden-uyari-h5n1-kus-gribi-yeni-bir-pandemiyi-tetikleyebilir-1100591305.html) (Anlatilaninotesi.com.tr)
+
+- [Vogelgrippe: Saarland und Hamburg verhängen Stallpflicht](https://www.sueddeutsche.de/panorama/vogelgrippe-deutschland-stallpflicht-saarland-hamburg-li.3331801) (Süddeutsche Zeitung)
+
+- [Vogelgrippe: Saarland verhängt Stallpflicht](https://www.sueddeutsche.de/panorama/vogelgrippe-stallpflicht-saarland-li.3331801) (Süddeutsche Zeitung)
 
 - [Gesundheit: Virologe Stöhr warnt: Vogelgrippe birgt Pandemie-Risiko](https://www.zeit.de/news/2025-10/29/virologe-stoehr-warnt-vogelgrippe-birgt-pandemie-risiko) (Die Zeit)
 
@@ -170,6 +198,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (dengue)
 
+- [Spatio-temporal distribution and environmental determinants of dengue vectors in Phnom Penh, Cambodia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013667) (Plos.org)
+
+- [Antibody response to Aedes aegypti D7L1 + 2 salivary proteins as marker of aggregate vector exposure and correlate of dengue virus susceptibility](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013099) (Plos.org)
+
+- [Roche receives CE mark for Elecsys Dengue Ag test](https://thefly.com/permalinks/entry.php/id4223503/RHHBY-Roche-receives-CE-mark-for-Elecsys-Dengue-Ag-test) (Thefly.com)
+
+- [No sexo dos mosquitos, as fêmeas é que mandam](https://greensavers.sapo.pt/no-sexo-dos-mosquitos-as-femeas-e-que-mandam/) (Sapo.pt)
+
 - [Roche receives CE mark for novel automated high-throughput Elecsys Dengue Ag test to diagnose dengue](https://www.globenewswire.com/news-release/2025/10/29/3176120/0/en/Roche-receives-CE-mark-for-novel-automated-high-throughput-Elecsys-Dengue-Ag-test-to-diagnose-dengue.html) (GlobeNewswire)
 
 - [Eighteen people infected with dengue in Baitadi](https://english.khabarhub.com/2025/29/503265/) (Khabarhub.com)
@@ -207,6 +243,12 @@ Source: [News API](https://newsapi.org/)
 - [Autoridades sanitarias dan banderazo a jornada de fumigación en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/10/25/autoridades-sanitarias-dan-banderazo-jornada-de-fumigacion-en-ciudad-obregon-417494.html) (Tribuna.com.mx)
 
 ## 25-44 (chikungunya)
+
+- [Chikungunya : aucun nouveau foyer n’a été enregistré dans l’Hexagone, l’accalmie se confirme](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-aucun-nouveau-foyer-na-ete-enregistre-dans-lhexagone-laccalmie-se-confirme-3a5e3ef6-b4d1-11f0-8d83-9a721a62cee7) (Ouest-France)
+
+- [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
+
+- [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
 
 - [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
 
@@ -1730,8 +1772,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
 
-- [Health officials warn more people are being bitten by bats across Sask.](https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/) (larongeNOW)
-
 ## 25-38 (pertussis)
 
 - [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
@@ -1870,8 +1910,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Child dies from complications of measles years after infection – SSPE explained](https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220) (The Conversation Africa)
 
-- [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
-
 ## 25-38 (malaria)
 
 - [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
@@ -1970,8 +2008,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
 
-- [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
-
 ## 25-38 (chikungunya)
 
 - [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
@@ -2041,11 +2077,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus in Thailand (2020–2023): Epidemiology, clinical features, and genomic insights](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548) (Plos.org)
 
 - [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
-
-- [Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre](https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html) (ANSA.it)
-
-- [Nel Veronese aumentano sempre di più i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese](https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/) (Ilfattoquotidiano.it)
-
-- [Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre](https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC) (Il Sole 24 Ore)
-
-- [Chikungunya : l'épidémie se propage dans toute la France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html) (Franceinfo.fr)
