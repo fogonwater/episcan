@@ -1,8 +1,225 @@
 {
-  "last_updated": "2025-10-31 07:07",
-  "count_articles_total": 891,
-  "count_articles_new": 4,
+  "last_updated": "2025-10-31 19:06",
+  "count_articles_total": 896,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 25414,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jaime Lyth",
+      "title": "Measles outbreak: Simeon Brown considers early MMR dose for infants",
+      "description": "Simeon Brown says as the father of a 2-month-old, he understands parents' concerns.",
+      "url": "https://www.nzherald.co.nz/nz/measles-outbreak-simeon-brown-considers-early-mmr-dose-for-infants/6S46HSLU4BFV7HPPVKXQ5ONLZA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/KHRHRD6UDNCCXO44J436ZJGHAE.JPG?auth=319e4c4baa35732700915c93d50bdb8a120a2733da63ae4f908aa22907767c20&width=1200&height=675&quality=70&focal=2315%2C1250&smart=false",
+      "publishedAt": "2025-10-30 18:32:07",
+      "content": "There are currently 13 known measles cases, and the number of close contacts has risen to about 2100. But the real key message is that vaccination is our best protection against further spread of m\u2026 [+2354 chars]",
+      "retrievedAt": "2025-10-31 19:06:16.471728",
+      "internal_id": "06105b9962f916315c725b17fa174ce35ece7199a7f0ccf6d55dcc646f9441e7",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25418,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times News Network",
+      "title": "2025 Malaria and Dengue Cases Surge in Ranchi: District-Wise Analysis Reveals Varied Incidence Rates",
+      "description": "Jharkhand's 2025 vector-borne disease report reveals stark contrasts. Southern districts like West Singhbhum lead in malaria with over 7,700 cases, while northern areas show fewer infections. Dengue remains a concern, particularly in urban Ranchi. Health offi\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/2025-malaria-and-dengue-cases-surge-in-ranchi-district-wise-analysis-reveals-varied-incidence-rates/articleshow/124965544.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124965544,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-10-30 18:24:05",
+      "content": "News 2025 Malaria and Dengue Cases Surge in Ranchi: District-Wise Analysis Reveals Varied Incidence Rates Jharkhand's 2025 vector-borne disease report reveals stark contr\u2026 [+425 chars]",
+      "retrievedAt": "2025-10-31 19:06:18.494259",
+      "internal_id": "e14713d2baaebc663a6df3624f82f68dfe69d5c065e7d1d659f43462a8dba8ec",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25416,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Sabine Wejsada, Ismaning",
+      "title": "Vogelgrippe am Speichersee: Wenn Kadaver im Naturparadies treiben",
+      "description": "In den Schleusen h\u00e4ngen verendete Wildv\u00f6gel \u2013 ob das H5N1-Virus die Todesursache ist, muss noch abschlie\u00dfend gekl\u00e4rt werden. F\u00fcr Vogelkundler Manfred Siering steht unabh\u00e4ngig vom Labor-Ergebnis fest, dass Spazierg\u00e4nger und Hundebesitzer vorsichtig sein sollte\u2026",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/ismaning-muenchen-speichersee-vogelgrippe-influenza-a-virus-h5n1-bund-naturschutz-li.3332407",
+      "urlToImage": "https://www.sueddeutsche.de/2025/10/30/c4f8c4d6-1609-4cfb-b1e8-5681c1ca5d91.jpg?q=60&fm=webp&width=1200&rect=0%2C209%2C4000%2C2250",
+      "publishedAt": "2025-10-30 16:34:24",
+      "content": "Es ist ein grausiger Anblick, wie die Kadaver der Wildv\u00f6gel in der Schleuse h\u00e4ngen. Manfred Siering, Vorsitzender der Ornithologischen Gesellschaft in Bayern, steht am Donnerstagnachmittag auf dem Mi\u2026 [+295 chars]",
+      "retrievedAt": "2025-10-31 19:06:17.903038",
+      "internal_id": "9c82ac4fedec2f8f610d1ceace88b0468215bf442d58011fb30e8f4f8f5357cc",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25415,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Kenny Torrella",
+      "title": "We may never get bird flu \u2014 or egg prices \u2014 under control",
+      "description": "It might now be a distant memory, but by the end of last winter, the average cost of a dozen eggs soared to a record high of $6.23. (It\u2019s now at $3.49.) The cause was H5N1, a highly pathogenic strain of avian influenza \u2014 or bird flu \u2014 that wild birds shed nea\u2026",
+      "url": "https://www.vox.com/future-perfect/466446/bird-flu-vaccine-eggs-chicken",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2228338431_152052.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-30 16:33:01",
+      "content": "It might now be a distant memory, but by the end of last winter, the average cost of a dozen eggs soared to a record high of $6.23. (Its now at $3.49.) The cause was H5N1, a highly pathogenic strain\u2026 [+9981 chars]",
+      "retrievedAt": "2025-10-31 19:06:17.798611",
+      "internal_id": "d054d9bd67cbce4cfadf03ae952386fcdc3c91db2f6f21e19d2adaee06b5869d",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25417,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bikash Singh",
+      "title": "Manipur reports 129 new dengue cases; tally rises to 3,594 this year",
+      "description": "Manipur faces a significant dengue outbreak this year. Over 3,500 people have tested positive for the viral disease. One death has been reported in Bishnupur district. Health authorities are actively implementing control measures. These include fogging operat\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/manipur-reports-129-new-dengue-cases-tally-rises-to-3594-this-year/articleshow/124958792.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124959047,width-1200,height-630,imgsize-12828,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-30 15:20:28",
+      "content": "Guwahati: In Manipur at least 129 people are tested positive for dengue and with this the total number of people tested positive has moved to 3,594 this year.According to a report released by S. Priy\u2026 [+1556 chars]",
+      "retrievedAt": "2025-10-31 19:06:18.473466",
+      "internal_id": "a75efe56ff728bc9baa7c1a9a58a17723d44fb93a0400fc37f66dbbd31c3f551",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25423,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Casos pontuais de Mpox em Mo\u00e7ambique impedem fim do surto",
+      "description": "A diretora nacional adjunta de Sa\u00fade P\u00fablica referiu que ainda existem casos ativos de Mpox, principalmente na prov\u00edncia de Niassa e, para declarar o fim do surto, s\u00e3o necess\u00e1rios 60 dias sem casos.",
+      "url": "https://observador.pt/2025/10/30/casos-pontuais-de-mpox-impedem-mocambique-de-declarar-fim-do-surto/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A66%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F11%2F01163926%2F43681527.jpg?layer=obstop:T",
+      "publishedAt": "2025-10-30 14:16:14",
+      "content": "As autoridades de sa\u00fade mo\u00e7ambicanas admitem que continuam a surgir infe\u00e7\u00f5es pontuais de Mpox na prov\u00edncia de Niassa, epicentro da doen\u00e7a, impedindo a declara\u00e7\u00e3o do fim do surto no pa\u00eds, apesar do n\u00fa\u2026 [+2189 chars]",
+      "retrievedAt": "2025-10-31 19:06:20.355513",
+      "internal_id": "0cb4403717fb4410ca596eadbff839329a84aab42a00933322ff540bc37952ea",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Andrew D. Marten, Douglas P. Haslitt, Chad A. Martin, Akshitha Karthikeyan, Daniel H. Swanson, Karishma Kalera, Ulysses G. Johnson, Benjamin M. Swarts, Michael J. Conway",
+      "title": "Correction: Trehalose supports the growth of Aedes aegypti cells and modifies gene expression and dengue virus type 2 replication",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013644",
+      "urlToImage": null,
+      "publishedAt": "2025-10-30 14:00:00",
+      "content": "The Data Availability statement for this article is incorrect. The correct statement is: FASTQ files for each sample are available in the NCBI SRA database (BioProject ID: PRJNA936836 and PRJNA882813\u2026 [+759 chars]",
+      "retrievedAt": "2025-10-31 19:06:18.502349",
+      "internal_id": "ffc559687278cb596f14ef460de52f55b6d6faeb44be5c44a6332d8bb4fa0906",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25422,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matt Sherwood, Ben Nicholas, Alistair Bailey, Thiago Giove Mitsugi, Carolini Kaid, Oswaldo K. Okamoto, Paul Skipp, Rob M. Ewing",
+      "title": "Identification of natural Zika virus peptides presented on the surface of paediatric brain tumour cells by HLA class I",
+      "description": "Despite decades of research, survival from brain cancer has scarcely improved and is drastically lower than that of other cancers. Novel therapies, such as immunotherapy, hold great promise for treating brain tumours and are desperately needed. Zika virus (ZI\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335726",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335726.g004&size=inline",
+      "publishedAt": "2025-10-30 14:00:00",
+      "content": "Citation: Sherwood M, Nicholas B, Bailey A, Mitsugi TG, Kaid C, Okamoto OK, et al. (2025) Identification of natural Zika virus peptides presented on the surface of paediatric brain tumour cells by HL\u2026 [+41129 chars]",
+      "retrievedAt": "2025-10-31 19:06:19.793842",
+      "internal_id": "83eff298dbedcd74809956e8e171e36c4fe413b6b78095bacfab20b431d56f1a",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25424,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "In\u00e9s Armenteros-Yeguas, Reynaldo Homen, Adri\u00e1n Valls, Laura Dans, Eva Orviz, Oskar Ayerdi, Teresa Puerta, Mar Vera, Jorge Alfredo P\u00e9rez-Garc\u00eda, Montserrat Torres, Mayte Coiras, Jorge Del Romero, Vicente Estrada",
+      "title": "Screening for asymptomatic mpox in at-risk populations: A cross-sectional study",
+      "description": "Background Mpox is a viral disease caused by an orthopoxvirus called monkeypox virus. It experienced a significant increase in cases in 2022 worldwide, mostly with sexual transmission. The possibility of hidden circulation of this infection among asymptomatic\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335729",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335729.t001&size=inline",
+      "publishedAt": "2025-10-30 14:00:00",
+      "content": "Citation: Armenteros-Yeguas I, Homen R, Valls A, Dans L, Orviz E, Ayerdi O, et al. (2025) Screening for asymptomatic mpox in at-risk populations: A cross-sectional study. PLoS One 20(10): e0335729.\u2026 [+17860 chars]",
+      "retrievedAt": "2025-10-31 19:06:20.403330",
+      "internal_id": "433e22ecae4435c60c2a1962b588861d9156e9a27364455982e6dcf790b4800c",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Scientists list 10 pressing climate issues: How 2023-24 became warmest, ocean warming among them",
+      "description": "New climate science reveals 2023-2024 were the warmest years. Oceans are warming at an unprecedented rate, impacting ecosystems. Dengue outbreaks are at a record high due to climate shifts. These findings underscore the urgent need for accelerated climate act\u2026",
+      "url": "https://economictimes.indiatimes.com/news/science/scientists-list-10-pressing-climate-issues-how-2023-24-became-warmest-ocean-warming-among-them/articleshow/124955190.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124955254,width-1200,height-630,imgsize-21296,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-10-30 13:27:06",
+      "content": "Scientists have put forth 10 most pressing issues in climate research in a report, which include gaining knowledge on why 2023-2024 were the warmest years on record, unprecedented ocean warming and d\u2026 [+2772 chars]",
+      "retrievedAt": "2025-10-31 19:06:18.510166",
+      "internal_id": "75f2083a4f4c335952edd9c3dbcf6dabd408f697d4f4149d77dcf3650d3bd452",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25421,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "UKHSA 'monitoring situation' after meningitis cases",
+      "description": "The government body says meningitis symptoms can easily be confused with a hangover.",
+      "url": "https://www.bbc.com/news/articles/cpwv17ywk45o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ea3/live/916bb8d0-b581-11f0-846c-c5e20f0b86ee.jpg",
+      "publishedAt": "2025-10-30 12:00:26",
+      "content": "Symptoms can include fever, headache and rapid breathing The UK Health and Security Agency (UKHSA) has said it is \"monitoring the situation closely\" after two students at the University of Brighton \u2026 [+1906 chars]",
+      "retrievedAt": "2025-10-31 19:06:18.883043",
+      "internal_id": "c3d43966e1b80614da5ee38a4ae7fd321c1e57b36e9e1cf15f84e91a6fefc009",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25413,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Qcnews.com",
+      "author": "Shaquira Speaks",
+      "title": "Health officials in the Carolinas urging vaccines as diseases continue to spread",
+      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) \u2014 South Carolina health officials say they\u2019ve confirmed eight new cases of measles since October 24. Each case resulted...",
+      "url": "https://www.qcnews.com/news/health/health-officials-in-the-carolinas-urging-vaccines-as-diseases-continue-to-spread/",
+      "urlToImage": "https://media.zenfs.com/en/wjzy_articles_340/d7f21a26d2ddf041bf79b621b7e608c6",
+      "publishedAt": "2025-10-30 02:12:53",
+      "content": "CHARLOTTE, N.C. (QUEEN CITY NEWS) South Carolina health officials say theyve confirmed eight new cases of measles since October 24. Each case resulted from close contact with previously known cases. \u2026 [+4649 chars]",
+      "retrievedAt": "2025-10-31 19:06:16.400037",
+      "internal_id": "b3b0e4146c2e67df1bfcdfb01fc6d7a3a2224ea372b2e4d7fc20c5d253e8d9a6",
+      "publishedAtLabel": "Oct 30"
+    },
     {
       "id": 25412,
       "query": [
@@ -15970,132 +16187,6 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24527,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
-      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
-      "publishedAt": "2025-09-14 17:16:59",
-      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.559695",
-      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24525,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Eleonora Bianchini",
-      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
-      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
-      "publishedAt": "2025-09-14 16:31:17",
-      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.516930",
-      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24526,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
-      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2025-09-14 16:19:17",
-      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.526467",
-      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24522,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "larongeNOW",
-      "author": "Ckom More",
-      "title": "Health officials warn more people are being bitten by bats across Sask.",
-      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
-      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
-      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
-      "publishedAt": "2025-09-14 12:02:29",
-      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
-      "retrievedAt": "2025-09-15 19:06:03.419193",
-      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
-      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
-      "publishedAt": "2025-09-14 08:32:50",
-      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.809317",
-      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24528,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Franceinfo.fr",
-      "author": null,
-      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
-      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
-      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
-      "publishedAt": "2025-09-14 07:38:25",
-      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.576920",
-      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24523,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Substack.com",
-      "author": "Bryan Sean Mckown",
-      "title": "Comments - Is Public Health Dead?",
-      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
-      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
-      "publishedAt": "2025-09-14 07:15:17",
-      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.018121",
-      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
