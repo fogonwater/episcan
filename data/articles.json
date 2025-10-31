@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-10-30 19:06",
-  "count_articles_total": 880,
-  "count_articles_new": 21,
+  "last_updated": "2025-10-31 07:07",
+  "count_articles_total": 891,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 25412,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Marcos Dom\u00ednguez",
+      "title": "Europa alerta de la expansi\u00f3n de casos aut\u00f3ctonos del tipo m\u00e1s peligroso de mpox en 4 pa\u00edses, entre ellos Espa\u00f1a",
+      "description": "Hasta este mes, todos los casos identificados del clado Ib eran importados pero en solo dos semanas han aparecido infecciones no relacionadas con viajes a zonas de riesgo. M\u00e1s informaci\u00f3n: Dr. Garc\u00eda, microbi\u00f3logo: \"Hay que atajar la mpox en \u00c1frica para evita\u2026",
+      "url": "https://www.elespanol.com/ciencia/salud/20251030/salud_publica-infecciones-salud/1003743991581_0.html",
+      "urlToImage": "https://s2.elespanol.com/2024/08/19/invertia/observatorios/sanidad/879422368_248563819_1706x960.jpg?fmt=jpeg",
+      "publishedAt": "2025-10-30 02:11:42",
+      "content": "La detecci\u00f3n de casos aut\u00f3ctonos del clado Ib de la mpox en cuatro pa\u00edses del continente, entre ellos Espa\u00f1a, ha puesto en alerta al Centro Europeo de Control de Enfermedades, que ha hecho un llamami\u2026 [+5573 chars]",
+      "retrievedAt": "2025-10-31 07:07:45.195799",
+      "internal_id": "38261e48bb8abc3c66a2376f8acd81bcf183299614063218fcd9b20acab74997",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25409,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Canada Will Soon Lose Its Hard-Won Measles-Free Status. America Is Next",
+      "description": "After a year of ongoing outbreaks, Canada is expected to lose its measles-free status. Experts say the U.S. is on track for the same fate.",
+      "url": "https://gizmodo.com/canada-will-soon-lose-its-hard-won-measles-free-status-america-is-next-2000678788",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/measlessign-1200x675.jpg",
+      "publishedAt": "2025-10-30 01:00:18",
+      "content": "A highly contagious disease once vanquished by vaccination is now on the brink of officially returning to North America. Canada is expected to lose its measles elimination status, and the U.S. might \u2026 [+7498 chars]",
+      "retrievedAt": "2025-10-31 07:07:42.773304",
+      "internal_id": "34f37c52d777420b892cd1b20db1503a240979224c16076ad83290e7adb303c4",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25410,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "RNZ",
+      "title": "Measles outbreak: Rural nurses target vaccination \u2018hesitancy\u2019",
+      "description": "Only 72% of M\u0101ori under the age of 5 are vaccinated against measles.",
+      "url": "https://www.nzherald.co.nz/nz/measles-outbreak-rural-nurses-target-vaccination-hesitancy/RNICN3NAJZCFXGOUR23MAD54OE/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NLET6FVJEVAIZE675IZCESWOJI.jpg?auth=d9f8e76d80f97835e53cdc476ebeadab0de6419a36523f44b0d5ee331180d283&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-10-29 23:12:04",
+      "content": "There is hesitancy still, but its just about getting the word out there to people and it slowly starts to grow. Just make sure youre vaccinated its really important, she said. Only 72% of Mori unde\u2026 [+3847 chars]",
+      "retrievedAt": "2025-10-31 07:07:42.867319",
+      "internal_id": "bd902c5f09470c91b2d8a212af905ed2f619e25e1c4d5f4747c1f7181a10cd49",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 25411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Calor extremo, presi\u00f3n en el trabajo y dengue: las nuevas realidades de la ciencia clim\u00e1tica",
+      "description": "Forbes M\u00e9xico. Calor extremo, presi\u00f3n en el trabajo y dengue: las nuevas realidades de la ciencia clim\u00e1tica El r\u00e1pido calentamiento de los oc\u00e9anos y la intensificaci\u00f3n de las olas de calor marinas est\u00e1n da\u00f1ando los ecosistemas y aumentando los riesgos de fe\u2026",
+      "url": "https://forbes.com.mx/calor-extremo-presion-en-el-trabajo-y-dengue-las-nuevas-realidades-de-la-ciencia-climatica/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/11/CALENTAMIENTO-GLOBAL-scaled.jpg",
+      "publishedAt": "2025-10-29 23:10:00",
+      "content": "Las m\u00e1s recientes investigaciones sobre el cambio clim\u00e1tico sugieren una aceleraci\u00f3n del calentamiento global, una presi\u00f3n sobre los sumideros de carbono terrestres, un aumento del estr\u00e9s t\u00e9rmico lab\u2026 [+3781 chars]",
+      "retrievedAt": "2025-10-31 07:07:43.949823",
+      "internal_id": "70a0fa7d8d212455b89771b6ead2a7036d8e1eabc4c6035e01bfadcb720f4c36",
+      "publishedAtLabel": "Oct 29"
+    },
     {
       "id": 25396,
       "query": [
@@ -15898,6 +15970,132 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24527,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
+      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
+      "publishedAt": "2025-09-14 17:16:59",
+      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.559695",
+      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24525,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Eleonora Bianchini",
+      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
+      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-09-14 16:31:17",
+      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.516930",
+      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24526,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
+      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
+      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-09-14 16:19:17",
+      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.526467",
+      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24522,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "larongeNOW",
+      "author": "Ckom More",
+      "title": "Health officials warn more people are being bitten by bats across Sask.",
+      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
+      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
+      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
+      "publishedAt": "2025-09-14 12:02:29",
+      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
+      "retrievedAt": "2025-09-15 19:06:03.419193",
+      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
+      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
+      "publishedAt": "2025-09-14 08:32:50",
+      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.809317",
+      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24528,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
+      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
+      "publishedAt": "2025-09-14 07:38:25",
+      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.576920",
+      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24523,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "Bryan Sean Mckown",
+      "title": "Comments - Is Public Health Dead?",
+      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
+      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
+      "publishedAt": "2025-09-14 07:15:17",
+      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.018121",
+      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-10-30 19:06
-- **Most recent article:** 2025-10-29 17:22:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-10-31 07:07
+- **Most recent article:** 2025-10-30 02:11:42
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 34 | 31 | 29 | 35 | 25 | 19 | 226 |
-| dengue | 25 | 18 | 32 | 23 | 18 | 14 | 22 | 152 |
-| chikungunya | 34 | 23 | 25 | 10 | 28 | 11 | 7 | 138 |
+| measles | 54 | 34 | 31 | 29 | 35 | 25 | 21 | 229 |
+| dengue | 26 | 18 | 32 | 23 | 18 | 14 | 23 | 154 |
+| chikungunya | 38 | 23 | 25 | 10 | 28 | 11 | 7 | 142 |
 | malaria | 10 | 15 | 10 | 20 | 24 | 17 | 11 | 107 |
 | h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 30 | 102 |
-| rabies | 12 | 18 | 10 | 6 | 9 | 3 | 1 | 59 |
-| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 7 | 50 |
+| rabies | 13 | 18 | 10 | 6 | 9 | 3 | 1 | 60 |
+| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 8 | 51 |
 | zika | 6 | 6 | 5 | 7 | 1 | 3 | 2 | 30 |
 | meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 0 | 25 |
 | typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 1 | 15 |
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (mpox)
 
+- [Europa alerta de la expansión de casos autóctonos del tipo más peligroso de mpox en 4 países, entre ellos España](https://www.elespanol.com/ciencia/salud/20251030/salud_publica-infecciones-salud/1003743991581_0.html) (Elespanol.com)
+
 - [Harnessing traditional healers role in strengthening Africa’s public health response: A case study of Mpox outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013655) (Plos.org)
 
 - [World News in Brief: Funding cuts curb development, human rights in Belarus update, Ebola and mpox in Africa](https://www.globalsecurity.org/military/library/news/2025/10/mil-251027-unnews03.htm) (Globalsecurity.org)
@@ -67,6 +69,10 @@ Source: [News API](https://newsapi.org/)
 - [Research: Mpox: technical assessments](https://www.gov.uk/government/publications/mpox-technical-assessments) (Www.gov.uk)
 
 ## 25-44 (measles)
+
+- [Canada Will Soon Lose Its Hard-Won Measles-Free Status. America Is Next](https://gizmodo.com/canada-will-soon-lose-its-hard-won-measles-free-status-america-is-next-2000678788) (Gizmodo.com)
+
+- [Measles outbreak: Rural nurses target vaccination ‘hesitancy’](https://www.nzherald.co.nz/nz/measles-outbreak-rural-nurses-target-vaccination-hesitancy/RNICN3NAJZCFXGOUR23MAD54OE/) (New Zealand Herald)
 
 - [Salt Lake County likely has its first measles case, health officials say](https://ksltv.com/health/salt-lake-county-likely-has-its-first-measles-case-health-officials-say/838281/) (ksltv.com)
 
@@ -197,6 +203,8 @@ Source: [News API](https://newsapi.org/)
 - [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
+
+- [Calor extremo, presión en el trabajo y dengue: las nuevas realidades de la ciencia climática](https://forbes.com.mx/calor-extremo-presion-en-el-trabajo-y-dengue-las-nuevas-realidades-de-la-ciencia-climatica/) (Forbes.com.mx)
 
 - [Spatio-temporal distribution and environmental determinants of dengue vectors in Phnom Penh, Cambodia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013667) (Plos.org)
 
@@ -1772,6 +1780,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
 
+- [Health officials warn more people are being bitten by bats across Sask.](https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/) (larongeNOW)
+
 ## 25-38 (pertussis)
 
 - [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
@@ -1910,6 +1920,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Child dies from complications of measles years after infection – SSPE explained](https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220) (The Conversation Africa)
 
+- [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
+
 ## 25-38 (malaria)
 
 - [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
@@ -2008,6 +2020,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
 
+- [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
+
 ## 25-38 (chikungunya)
 
 - [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
@@ -2077,3 +2091,11 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus in Thailand (2020–2023): Epidemiology, clinical features, and genomic insights](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548) (Plos.org)
 
 - [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
+
+- [Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre](https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html) (ANSA.it)
+
+- [Nel Veronese aumentano sempre di più i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese](https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/) (Ilfattoquotidiano.it)
+
+- [Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre](https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC) (Il Sole 24 Ore)
+
+- [Chikungunya : l'épidémie se propage dans toute la France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html) (Franceinfo.fr)
