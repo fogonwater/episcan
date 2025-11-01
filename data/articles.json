@@ -1,8 +1,388 @@
 {
-  "last_updated": "2025-11-01 07:06",
-  "count_articles_total": 908,
-  "count_articles_new": 5,
+  "last_updated": "2025-11-01 19:05",
+  "count_articles_total": 922,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 25448,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Agata Sucharska",
+      "title": "Nowe przypadki zaka\u017ce\u0144 w kilku krajach Europy. WHO ostrzega przed wirusem",
+      "description": "\u015awiatowa Organizacja Zdrowia (WHO) poinformowa\u0142a o nag\u0142ym wzro\u015bcie liczby zaka\u017ce\u0144 wirusem mpox, zwanym dawniej ma\u0142pi\u0105 osp\u0105, w kilku regionach \u015bwiata, w tym w Europie. Nowy wariant patogenu po raz pierwszy wykryty poza Afryk\u0105 rozprzestrzenia si\u0119 szybciej ni\u017c d\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-nowe-przypadki-zakazen-w-kilku-krajach-europy-who-ostrzega-p,nId,22449693",
+      "urlToImage": "https://i.iplsc.com/-/000LV19RQ225KFG1-C461.jpg",
+      "publishedAt": "2025-10-31 18:27:37",
+      "content": "W skr\u00f3cie WHO ostrzega przed gwatownym wzrostem liczby zakae mpox na wiecie, szczeg\u00f3lnie w Afryce, Europie i Azji Poudniowo-Wschodniej. Nowy wariant wirusa clade Ib pojawi si p\u2026 [+2927 chars]",
+      "retrievedAt": "2025-11-01 19:05:37.969123",
+      "internal_id": "ca0d2a85d1e8f9a721d6faf4737d1eb77489bba8eddd58a6c78a28d7880e68eb",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25431,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Winkler schools, Grunthal livestock auction among latest measles exposure sites in Manitoba",
+      "description": "The latest measles exposure sites in Manitoba include a livestock auction, a school, a Dairy Queen and a hospital in the Winkler area.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-update-october-31-2025-9.6962016",
+      "urlToImage": "https://i.cbc.ca/ais/1.7478844,1760798761398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620",
+      "publishedAt": "2025-10-31 18:24:26",
+      "content": "The latest measles exposure sites in southern Manitoba include a livestock auction, a school, a Dairy Queen and a hospital. Manitoba Public Health states anyone who visited the Dairy Queen at 785 Ma\u2026 [+1664 chars]",
+      "retrievedAt": "2025-11-01 19:05:34.623242",
+      "internal_id": "4d5e63c00e0941b2ddeb4f051c01764c4e2aa8b9a872fe663af5c9a9a37663eb",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25443,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Leo Peluso",
+      "title": "El River de Marcelo Gallardo busca salir de la crisis con preocupaci\u00f3n por Gonzalo Montiel",
+      "description": "En las horas previas a la concentraci\u00f3n, con la preocupaci\u00f3n que caus\u00f3 la rodilla izquierda de Gonzalo Montiel y con las dudas del equipo que jugar\u00e1 ante Gimnasia, Gallardo y River buscan escaparle a la malaria de resultados. Leer m\u00e1s",
+      "url": "https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml",
+      "urlToImage": "https://fotos.perfil.com/2025/10/31/trim/1140/641/gonzalo-montiel-celebrando-un-gol-con-river-plate-2129392.jpg",
+      "publishedAt": "2025-10-31 18:21:27",
+      "content": "Atravesado por un momento tan cr\u00edtico como in\u00e9dito, el Riverde Gallardo tiene enfrente un par de semanas decisivas de cara al futuro del equipo y del propio entrenador, palpitando el 2026. La lesi\u00f3n \u2026 [+3007 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.903960",
+      "internal_id": "58692048fb502b5c399ee2872f57ae2ff553bec2f4852168840dba1ed32c1258",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25444,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Anadolu Ajans\u0131",
+      "title": "DS\u00d6'den \u00fcrk\u00fcten a\u00e7\u0131klama: Salg\u0131n kap\u0131da",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), \u0130talya, Malezya, Hollanda, Portekiz, \u0130spanya ve ABD'de, yak\u0131n zamanda seyahat ge\u00e7mi\u015fi olmayan ki\u015filerde M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcn\u00fcn (mpox), klad 1b varyant\u0131 vakalar\u0131n\u0131n do\u011fruland\u0131\u011f\u0131n\u0131 bildirdi.",
+      "url": "https://www.haberturk.com/dso-m-cicegi-virusu-artik-dunyanin-bircok-ulkesinde-3834368",
+      "urlToImage": "https://im.haberturk.com/l/2025/10/31/ver1761931927/3834368/jpg/1200x628",
+      "publishedAt": "2025-10-31 17:32:36",
+      "content": "DS\u00d6'n\u00fcn son raporunda, M \u00e7i\u00e7ei vir\u00fcs\u00fcn\u00fcn b\u00fct\u00fcn alt t\u00fcrlerinin dolamnn devam ettii uyars yaplarak, salgnn hzla kontrol altna alnmamas halinde vir\u00fcs\u00fcn yaylmnn s\u00fcrecei endiesi ifade edildi. Raporda ayr\u2026 [+1082 chars]",
+      "retrievedAt": "2025-11-01 19:05:37.893171",
+      "internal_id": "38a1e27ba264d5087ed3797af97bb1eb5d846eaec825fc2d34b23d423496f6f2",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25450,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "DS\u00d6, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcn\u00fcn klad 1b varyant\u0131n\u0131n Afrika'n\u0131n \u00f6tesine yay\u0131ld\u0131\u011f\u0131n\u0131 bildirdi",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), \u0130talya, Malezya, Hollanda, Portekiz, \u0130spanya ve ABD'de, yak\u0131n zamanda seyahat ge\u00e7mi\u015fi olmayan ki\u015filerde M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcn\u00fcn (mpox), klad 1b varyant\u0131 vakalar\u0131n\u0131n do\u011fruland\u0131\u011f\u0131n\u0131 bildirdi.",
+      "url": "https://www.hurriyet.com.tr/dunya/dso-m-cicegi-virusunun-klad-1b-varyantinin-afrikanin-otesine-yayildigini-bildirdi-43003839",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/6904ef3856617a12eccf7308.jpg",
+      "publishedAt": "2025-10-31 17:17:46",
+      "content": "p&gt;DS\u00d6'n\u00fcn son raporunda, M \u00e7i\u00e7ei vir\u00fcs\u00fcn\u00fcn b\u00fct\u00fcn alt t\u00fcrlerinin dolamnn devam ettii uyars yaplarak, salgnn hzla kontrol altna alnmamas halinde vir\u00fcs\u00fcn yaylmnn s\u00fcrecei endiesi ifade edildi.Raporda \u2026 [+1122 chars]",
+      "retrievedAt": "2025-11-01 19:05:38.002627",
+      "internal_id": "63777a0a6b6a5995de509ceff91e41a3c177ebcd3b7facedea813e115ebf5df1",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25449,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "Anadolu Ajans\u0131",
+      "title": "DS\u00d6'den korkutan Mpox uyar\u0131s\u0131: \u00d6l\u00fcmc\u00fcl vir\u00fcs Afrika s\u0131n\u0131rlar\u0131n\u0131 a\u015ft\u0131!",
+      "description": "DS\u00d6, yeni ve daha \u015fiddetli M \u00e7i\u00e7e\u011fi (mpox) klad 1b varyant\u0131n\u0131n Afrika d\u0131\u015f\u0131na yay\u0131ld\u0131\u011f\u0131 konusunda uyar\u0131da bulundu. Kurulu\u015f, salg\u0131n\u0131n h\u0131zla kontrol alt\u0131na al\u0131nmamas\u0131 halinde k\u00fcresel yay\u0131l\u0131m riskinin artt\u0131\u011f\u0131n\u0131 bildirdi.",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/dsoden-korkutan-mpox-uyarisi-olumcul-virus-afrika-sinirlarini-asti-1156787",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/31/dsoden-korkutan-mpox-uyarisi-olumcul-virus-afrika-sinirlarini-asti-17619282942118.jpg",
+      "publishedAt": "2025-10-31 16:27:44",
+      "content": "",
+      "retrievedAt": "2025-11-01 19:05:37.986007",
+      "internal_id": "913c1c5248bd693548e75a30ca1222ac0801271c050c8280a591fa2d84be5c02",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mar\u00eda Florencia Pavan, Cristian Miguel Malnero, Mar\u00eda Emilia Mora Alvarado, Mar\u00eda Camila Carzoglio, Yesica Paredes Rojas, Agostina Bruno, Laura Perez Vidakovics, Leo Hanke, Alejandro Castello, Gerald McInerney, Cybele Carina Garc\u00eda, Viviana Parre\u00f1o, Lorena Itat\u00ed Iba\u00f1ez",
+      "title": "Engineered Nanobodies for early and accurate diagnosis of dengue virus infection",
+      "description": "Author summary Dengue virus is a major public health concern in Latin America, with recurring outbreaks placing significant strain on healthcare systems. Early detection is crucial for effective patient management and controlling the spread of the virus. This\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013168",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013168.g006&size=inline",
+      "publishedAt": "2025-10-31 14:00:00",
+      "content": "Introduction Dengue infection, caused by mosquito-borne viruses, poses a significant global public health challenge. The viruss spread is driven by factors such as climate change, global population \u2026 [+71965 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.056478",
+      "internal_id": "c7ae34a4e044961c60c1a5fdc3c739565d53505328d17954d40edf50a960f5b6",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25437,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jes\u00fas A. Aguilar-Dur\u00e1n, Josue Ram\u00edrez, Mario A. Rodr\u00edguez-P\u00e9rez, Christopher J. Vitek, Nadia A. Fern\u00e1ndez-Santos, Jos\u00e9 Guillermo Estrada-Franco",
+      "title": "Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito trapping (AGOs traps) pilot study in a US-Mexico border region of South Texas",
+      "description": "Author summary Aedes aegypti mosquitoes are critically important vectors for global public health due to their primary role in the transmission of diseases such as dengue, Zika, chikungunya, and yellow fever, which affect millions of people worldwide, particu\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013665",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013665.g002&size=inline",
+      "publishedAt": "2025-10-31 14:00:00",
+      "content": "Citation: Aguilar-Dur\u00e1n JA, Ram\u00edrez J, Rodr\u00edguez-P\u00e9rez MA, Vitek CJ, Fern\u00e1ndez-Santos NA, Estrada-Franco JG (2025) Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito tra\u2026 [+24867 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.090344",
+      "internal_id": "2bd2c9b1eb4bc7157c6fbe5dff8cc67ff46e90c1a78e64a66613fd407c3cc2e3",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25442,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jonathan Karisa, Cassidy Rist, Mercy Tuwei, Kelly Ominde, Brian Bartilol, Zedekiah Ondieki, Haron Musani, Caroline Wanjiku, Joseph Mwangangi, Charles Mbogo, Martin Rono, Philip Bejon, Marta Maia",
+      "title": "MALDI-TOF MS for malaria vector surveillance: A cost-comparison analysis using a decision-tree approach",
+      "description": "Background The use of MALDI-TOF MS for mosquito identification and surveillance is routinely used in developed countries as an affordable alternative to molecular methods. However, in low- and middle-income countries (LMIC) where mosquito-borne diseases carry\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335764",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335764.g002&size=inline",
+      "publishedAt": "2025-10-31 14:00:00",
+      "content": "Abstract Background The use of MALDI-TOF MS for mosquito identification and surveillance is routinely used in developed countries as an affordable alternative to molecular methods. However, in low-\u2026 [+31827 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.886865",
+      "internal_id": "4499053dc47bbf72c5a9a23973f9dfc782eef0729484cd278adac3bc0f2c5ee0",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25434,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: Wissen - David Rech",
+      "title": "H5N1: Vogelgrippe weitet sich auf zehn Bundesl\u00e4nder aus",
+      "description": "Seit Anfang September wurden 48 Vogelgrippe-Ausbr\u00fcche in kommerziellen Gefl\u00fcgelhaltungen erfasst. Die meisten betroffenen Betriebe sind in Niedersachsen.",
+      "url": "https://www.zeit.de/wissen/umwelt/2025-10/vogelgrippe-gefluegelbetriebe-ausbruch-bundeslaender",
+      "urlToImage": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-10/vogelgrippe-tiere-gefluegelhaltung-virus-seuchenpraevention-bild/wide__1300x731",
+      "publishedAt": "2025-10-31 13:23:35",
+      "content": "Die Vogelgrippe hat sich mittlerweile in Gefl\u00fcgelfarmen in zehn Bundesl\u00e4ndern ausgebreitet. Zur Seuchenpr\u00e4vention wurden dort alle Tiere get\u00f6tet. Wie das Friedrich-Loeffler-Institut (FLI) in Greifs\u2026 [+1602 chars]",
+      "retrievedAt": "2025-11-01 19:05:35.438119",
+      "internal_id": "08680475bd855f81f429dc33ba87828d5ec6b555dbaea469eddabeabaca7404b",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25441,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Claudia Ehrenstein",
+      "title": "Impfen allein gen\u00fcgt nicht mehr",
+      "description": "Mit Milliarden Dollar hat die Stiftung von Milliard\u00e4r Bill Gates die WHO im Kampf gegen Malaria, Polio und Aids unterst\u00fctzt. Inzwischen verursachen Krankheiten wie Krebs und Diabetes mehr Todesf\u00e4lle. Diese Entwicklung erfordert dringend Anpassungen.",
+      "url": "https://www.welt.de/gesundheit/article69032582318b8b65a58945e2/gesundheit-impfen-allein-genuegt-nicht-mehr-krebs-und-diabetes-sind-toedlicher.html",
+      "urlToImage": "https://images.welt.de/69032582318b8b65a58945e2/90606d005119ccbd944e4aedcbd31692/ci16x9-w1200/gettyimages-1498209780-jpg",
+      "publishedAt": "2025-10-31 13:13:43",
+      "content": "Mit Milliarden Dollar hat die Stiftung von Milliard\u00e4r Bill Gates die WHO im Kampf gegen Malaria, Polio und Aids unterst\u00fctzt. Inzwischen verursachen Krankheiten wie Krebs und Diabetes mehr Todesf\u00e4lle.\u2026 [+2229 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.828175",
+      "internal_id": "ec5f7ac6a1b8a73b1b52ab42fe127854359c7a69020738b61c8f15e171e9a1cf",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Ichilov doctor contracts measles after treating unvaccinated child",
+      "description": "Unvaccinated girl infects Ichilov doctor with measles, concerns that two other staff members were also infected.",
+      "url": "https://www.israelnationalnews.com/news/417119",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1072087.jpg",
+      "publishedAt": "2025-10-31 12:55:23",
+      "content": "Israel's Health Ministry has reported an unusual incident in which a doctor at Ichilov Hospital in Tel Aviv contracted measles virus after treating a girl who was not vaccinated against the disease a\u2026 [+1415 chars]",
+      "retrievedAt": "2025-11-01 19:05:34.671313",
+      "internal_id": "6a2ca16aa423b347594ae4ee1d43d975548b6e037663561e25b705416fa727ae",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25445,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "danm@bt.dk (Daniel Martinsen)",
+      "title": "Mpox registreret i flere europ\u00e6iske lande for f\u00f8rste gang",
+      "description": "I alt er den smitsomme sygdom nu fundet i 41 lande.",
+      "url": "https://www.bt.dk/udland/mpox-registreret-i-flere-europaeiske-lande-for-foerste-gang",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/137056400.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=7abaf0e5ac6551fd77b002f925ed0c0283b7abc3917a41bde5918a61ece1800b",
+      "publishedAt": "2025-10-31 12:48:15",
+      "content": "Den smitsomme sygdom mpox tidligere kendt som abekopper er nu registreret i flere europ\u00e6iske lande for f\u00f8rste gang. If\u00f8lge en ny statusrapport fra WHO er der tale om Holland, Portugal og Spanien. \u2026 [+814 chars]",
+      "retrievedAt": "2025-11-01 19:05:37.911017",
+      "internal_id": "68bfb8e8576ae30e243b3e0f5aa93de9a43b470ad8d148738cfab6634288c5c1",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25438,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Rise in meningitis cases prompts push for vaccinations",
+      "description": "Health officials have urged parents to ensure their children are vaccinated following a spike in meningitis cases.",
+      "url": "https://news.sky.com/story/rise-in-meningitis-cases-prompts-push-for-vaccinations-13461241",
+      "urlToImage": "https://e3.365dm.com/25/10/1600x900/skynews-meningitis-nhs_7067827.jpg?20251031124305",
+      "publishedAt": "2025-10-31 12:33:00",
+      "content": "Health officials have urged parents to ensure their children are vaccinated following a spike in meningitis cases. In 2024/25, there were 378 cases of the serious bacterial infection invasive mening\u2026 [+1614 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.481521",
+      "internal_id": "771f8ba0dc11dc859ff914b01f91b7d2abd59449fbb825b0fab4e17c737a2aa9",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Redacci\u00f3n Tribuna",
+      "title": "Reportan brote de DENGUE entre reclusos del Cereso de Guaymas; algunos estar\u00edan GRAVES",
+      "description": "Familiares denuncian contagios de dengue entre reclusos del penal de Guaymas; algunos permanecen hospitalizados por cuadros graves",
+      "url": "https://www.tribuna.com.mx/sonora/2025/10/31/reportan-brote-de-dengue-entre-reclusos-del-cereso-de-guaymas-algunos-estarian-graves-418046.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/10/31/f1280x720-475744_607419_5050.jpeg",
+      "publishedAt": "2025-10-31 12:00:00",
+      "content": "Guaymas, Sonora.- La noche de este jueves, se report\u00f3 que familiares de personas que se encuentran recluidas en el Centro de Reinserci\u00f3n Social (Cereso) de Guaymasdenunciaron la presencia de varios c\u2026 [+2299 chars]",
+      "retrievedAt": "2025-11-01 19:05:35.999512",
+      "internal_id": "63b660ace223687afb29f7658d72b1ab993fb03a4119d766cff2b2c3ff1d317c",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25433,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Vogelgrippe",
+      "description": "Kraniche fliegen \u00fcber einen Wald in der N\u00e4he der s\u00fcdwestfranz\u00f6sischen Ortschaft Arjuzanx. Seit den j\u00fcngsten F\u00e4llen der hochpathogenen avi\u00e4ren Influenza (HPAI) in Deutschland und Frankreich stehen die V\u00f6gel unter besonderer Beobachtung.",
+      "url": "https://www.stern.de/news/vogelgrippe-36178720.html",
+      "urlToImage": "https://image.stern.de/36178722/t/6k/v1/w1440/r1.7778/-/31--vogelgrippe---741e3c89cdf05cf4.jpg",
+      "publishedAt": "2025-10-31 11:37:39",
+      "content": "Zugang zu stern+statt 11,96 nur 1 Alles von stern+ mit erstklassigen Inhalten von GEO und Capital4 Wochen testen, dann 2,99 je Wochejederzeit k\u00fcndbar",
+      "retrievedAt": "2025-11-01 19:05:35.045336",
+      "internal_id": "8d2d14414a901944de65f81731c5d19fbf6e9a26a08f8caa7522b0cc2b33321b",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25439,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Local Germany",
+      "author": "Tom Pugh",
+      "title": "What parents need to know about vaccinating children in Germany",
+      "description": "Germany's official advice on vaccinations against diseases including meningitis have been updated. Here's what parents need to know about how, and when, children in the country should be vaccinated.",
+      "url": "https://www.thelocal.de/20251031/what-parents-need-to-know-about-vaccinating-children-in-germany",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/10/watermarks-logo-319336871.jpg@webp",
+      "publishedAt": "2025-10-31 10:02:45",
+      "content": "Germany's official advice on vaccinations against diseases including meningitis have been updated. Here's what parents need to know about how, and when, children in the country should be vaccinated. \u2026 [+4918 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.490991",
+      "internal_id": "5a78d58db01afa0b719c5792578825964bd7f2ed1d497d96f206db0ba4c79c8d",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25440,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Vaccination crucial as meningitis cases increase",
+      "description": "Infants and young adults most at risk from serious disease.",
+      "url": "https://www.gov.uk/government/news/vaccination-crucial-as-meningitis-cases-increase",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-10-31 09:30:03",
+      "content": "Children and young adults, particularly university students, remain at risk from meningococcal meningitis and septicaemia, which whilst rare, can be devastating, life changing and sometimes deadly. \u2026 [+5157 chars]",
+      "retrievedAt": "2025-11-01 19:05:36.500424",
+      "internal_id": "11a6bae603a98bd66bb988fc330c59782a1ad4f189340471fd97906045fbd0a0",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25446,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Awarded New Procurement Framework Contract by the European Commission to Strengthen Preparedness Against Smallpox and Mpox",
+      "description": "COPENHAGEN, Denmark, October 31, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today the award of a joint procurement contract by the European Commission, through the Health Emergency Preparedness and Response Authority (HERA), enabling the EU, its member \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/10/31/3178141/0/en/Bavarian-Nordic-Awarded-New-Procurement-Framework-Contract-by-the-European-Commission-to-Strengthen-Preparedness-Against-Smallpox-and-Mpox.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-10-31 08:14:00",
+      "content": "New and larger framework contract with the European Commissions Health Emergency Preparedness and Response Authority (HERA) replaces previous agreement and provides for up to 8 million doses \u2026 [+4653 chars]",
+      "retrievedAt": "2025-11-01 19:05:37.943655",
+      "internal_id": "faafe080baa9d7ab49bf995d1bfccfd806d07c3c8c26f9c5082f845408f19364",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25447,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic opn\u00e5r ny rammeaftale med Europa-Kommissionen med henblik p\u00e5 styrkelse af beredskabet mod kopper og mpox",
+      "description": "K\u00d8BENHAVN, Danmark, 31. oktober 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har f\u00e5et tildelt en f\u00e6lles indk\u00f8bskontrakt af Europa-Kommissionen gennem HERA, som g\u00f8r det muligt for EU, medlemslandene og yderligere europ\u00e6iske lande at k\u00f8be\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/10/31/3178141/0/da/Bavarian-Nordic-opn%C3%A5r-ny-rammeaftale-med-Europa-Kommissionen-med-henblik-p%C3%A5-styrkelse-af-beredskabet-mod-kopper-og-mpox.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-10-31 08:14:00",
+      "content": "Ny og st\u00f8rre rammeaftale med Europa-Kommissionens Myndighed for Kriseberedskab og indsats p\u00e5 Sundhedsomr\u00e5det (HERA) erstatter tidligere aftale og omfatter op til 8 millioner doser af koppe-/m\u2026 [+4392 chars]",
+      "retrievedAt": "2025-11-01 19:05:37.952605",
+      "internal_id": "36f1d4b7f3520332cfaefc5f7e48d54f2dd983c610d7b9303cd51849e8d36987",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25430,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Rinku Ghosh",
+      "title": "Sridhar Vembu\u2019s post linking vaccines with autism is irresponsible",
+      "description": "In the West, vaccine hesitancy has led to a resurgence of measles, whooping cough. Anti-vaxxers should pause and reflect: Can we imagine our future generation without the Pulse Polio or measles-rubella vaccination campaign?",
+      "url": "https://indianexpress.com/article/opinion/columns/sridhar-vembus-post-linking-vaccines-with-autism-is-irresponsible-10337607/",
+      "urlToImage": "https://images.indianexpress.com/2025/10/Sridhar-Vembu-Trump-H-1B-visa-fee_20251031072951.jpg",
+      "publishedAt": "2025-10-31 07:33:11",
+      "content": "When Zoho co-founder Sridhar Vembu, who once set up rural school start-ups and back-ended software operations in villages, turns from hope-giver to an anachronism, it reminds you why tech billionaire\u2026 [+4772 chars]",
+      "retrievedAt": "2025-11-01 19:05:34.588849",
+      "internal_id": "a53dd5e10d710c9e926b5e299a373618fb30a568c4b816ef35517cbed2e7d77f",
+      "publishedAtLabel": "Oct 31"
+    },
     {
       "id": 25429,
       "query": [
@@ -16278,132 +16658,6 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24527,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
-      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
-      "publishedAt": "2025-09-14 17:16:59",
-      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.559695",
-      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24525,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Eleonora Bianchini",
-      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
-      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
-      "publishedAt": "2025-09-14 16:31:17",
-      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.516930",
-      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24526,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
-      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2025-09-14 16:19:17",
-      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.526467",
-      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24522,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "larongeNOW",
-      "author": "Ckom More",
-      "title": "Health officials warn more people are being bitten by bats across Sask.",
-      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
-      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
-      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
-      "publishedAt": "2025-09-14 12:02:29",
-      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
-      "retrievedAt": "2025-09-15 19:06:03.419193",
-      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
-      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
-      "publishedAt": "2025-09-14 08:32:50",
-      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.809317",
-      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24528,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Franceinfo.fr",
-      "author": null,
-      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
-      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
-      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
-      "publishedAt": "2025-09-14 07:38:25",
-      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
-      "retrievedAt": "2025-09-15 19:06:05.576920",
-      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 24523,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Substack.com",
-      "author": "Bryan Sean Mckown",
-      "title": "Comments - Is Public Health Dead?",
-      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
-      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
-      "publishedAt": "2025-09-14 07:15:17",
-      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
-      "retrievedAt": "2025-09-15 19:06:04.018121",
-      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]

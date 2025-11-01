@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-11-01 07:06
-- **Most recent article:** 2025-10-31 06:02:50
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-11-01 19:05
+- **Most recent article:** 2025-10-31 18:27:37
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 54 | 34 | 31 | 29 | 35 | 25 | 25 | 233 |
-| dengue | 26 | 18 | 32 | 23 | 18 | 14 | 28 | 159 |
-| chikungunya | 38 | 23 | 25 | 10 | 28 | 11 | 7 | 142 |
-| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 14 | 110 |
-| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 32 | 104 |
-| rabies | 13 | 18 | 10 | 6 | 9 | 3 | 1 | 60 |
-| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 10 | 53 |
-| zika | 6 | 6 | 5 | 7 | 1 | 3 | 4 | 32 |
-| meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 1 | 26 |
+| measles | 53 | 34 | 31 | 29 | 35 | 25 | 28 | 235 |
+| dengue | 25 | 18 | 32 | 23 | 18 | 14 | 31 | 161 |
+| chikungunya | 34 | 23 | 25 | 10 | 28 | 11 | 8 | 139 |
+| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 17 | 113 |
+| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 33 | 105 |
+| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 17 | 60 |
+| rabies | 12 | 18 | 10 | 6 | 9 | 3 | 1 | 59 |
+| zika | 6 | 6 | 5 | 7 | 1 | 3 | 5 | 33 |
+| meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 4 | 29 |
 | typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 1 | 15 |
 | leptospirosis | 0 | 2 | 5 | 1 | 4 | 0 | 0 | 12 |
-| hpai | 1 | 1 | 2 | 1 | 0 | 4 | 1 | 10 |
+| hpai | 1 | 1 | 2 | 1 | 0 | 4 | 2 | 11 |
 | pertussis | 2 | 0 | 1 | 2 | 0 | 1 | 0 | 6 |
 | yersinia | 0 | 1 | 0 | 0 | 2 | 1 | 1 | 5 |
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-44 (zika)
+
+- [Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito trapping (AGOs traps) pilot study in a US-Mexico border region of South Texas](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013665) (Plos.org)
 
 - [¿Cómo preparar un repelente natural contra mosquitos? Conozca estas recetas](https://www.nacion.com/ciencia/como-preparar-un-repelente-natural-contra/BR5GYQKS3VEEHKGJE7CKBQ6OXI/story/) (Nacion.com)
 
@@ -56,6 +58,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (mpox)
 
+- [Nowe przypadki zakażeń w kilku krajach Europy. WHO ostrzega przed wirusem](https://wydarzenia.interia.pl/zagranica/news-nowe-przypadki-zakazen-w-kilku-krajach-europy-who-ostrzega-p,nId,22449693) (Interia.pl)
+
+- [DSÖ'den ürküten açıklama: Salgın kapıda](https://www.haberturk.com/dso-m-cicegi-virusu-artik-dunyanin-bircok-ulkesinde-3834368) (Haberturk.com)
+
+- [DSÖ, M çiçeği virüsünün klad 1b varyantının Afrika'nın ötesine yayıldığını bildirdi](https://www.hurriyet.com.tr/dunya/dso-m-cicegi-virusunun-klad-1b-varyantinin-afrikanin-otesine-yayildigini-bildirdi-43003839) (Hurriyet.com.tr)
+
+- [DSÖ'den korkutan Mpox uyarısı: Ölümcül virüs Afrika sınırlarını aştı!](https://www.turkiyegazetesi.com.tr/dunya/dsoden-korkutan-mpox-uyarisi-olumcul-virus-afrika-sinirlarini-asti-1156787) (Turkiyegazetesi.com.tr)
+
+- [Mpox registreret i flere europæiske lande for første gang](https://www.bt.dk/udland/mpox-registreret-i-flere-europaeiske-lande-for-foerste-gang) (Www.bt.dk)
+
+- [Bavarian Nordic Awarded New Procurement Framework Contract by the European Commission to Strengthen Preparedness Against Smallpox and Mpox](https://www.globenewswire.com/news-release/2025/10/31/3178141/0/en/Bavarian-Nordic-Awarded-New-Procurement-Framework-Contract-by-the-European-Commission-to-Strengthen-Preparedness-Against-Smallpox-and-Mpox.html) (GlobeNewswire)
+
+- [Bavarian Nordic opnår ny rammeaftale med Europa-Kommissionen med henblik på styrkelse af beredskabet mod kopper og mpox](https://www.globenewswire.com/news-release/2025/10/31/3178141/0/da/Bavarian-Nordic-opn%C3%A5r-ny-rammeaftale-med-Europa-Kommissionen-med-henblik-p%C3%A5-styrkelse-af-beredskabet-mod-kopper-og-mpox.html) (GlobeNewswire)
+
 - [Casos pontuais de Mpox em Moçambique impedem fim do surto](https://observador.pt/2025/10/30/casos-pontuais-de-mpox-impedem-mocambique-de-declarar-fim-do-surto/) (Observador.pt)
 
 - [Screening for asymptomatic mpox in at-risk populations: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335729) (Plos.org)
@@ -78,9 +94,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (meningitis)
 
+- [Rise in meningitis cases prompts push for vaccinations](https://news.sky.com/story/rise-in-meningitis-cases-prompts-push-for-vaccinations-13461241) (Sky.com)
+
+- [What parents need to know about vaccinating children in Germany](https://www.thelocal.de/20251031/what-parents-need-to-know-about-vaccinating-children-in-germany) (The Local Germany)
+
+- [Vaccination crucial as meningitis cases increase](https://www.gov.uk/government/news/vaccination-crucial-as-meningitis-cases-increase) (Www.gov.uk)
+
 - [UKHSA 'monitoring situation' after meningitis cases](https://www.bbc.com/news/articles/cpwv17ywk45o) (BBC News)
 
 ## 25-44 (measles)
+
+- [Winkler schools, Grunthal livestock auction among latest measles exposure sites in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-update-october-31-2025-9.6962016) (CBC News)
+
+- [Ichilov doctor contracts measles after treating unvaccinated child](https://www.israelnationalnews.com/news/417119) (Israelnationalnews.com)
+
+- [Sridhar Vembu’s post linking vaccines with autism is irresponsible](https://indianexpress.com/article/opinion/columns/sridhar-vembus-post-linking-vaccines-with-autism-is-irresponsible-10337607/) (The Indian Express)
 
 - [NZ measles outbreak: How to know if you are protected](https://www.nzherald.co.nz/lifestyle/nz-measles-outbreak-how-to-know-if-you-are-protected/QLJKO6IUC5HJLD34O7DCVXPR5Y/) (New Zealand Herald)
 
@@ -134,6 +162,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (malaria)
 
+- [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
+
+- [MALDI-TOF MS for malaria vector surveillance: A cost-comparison analysis using a decision-tree approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335764) (Plos.org)
+
+- [Impfen allein genügt nicht mehr](https://www.welt.de/gesundheit/article69032582318b8b65a58945e2/gesundheit-impfen-allein-genuegt-nicht-mehr-krebs-und-diabetes-sind-toedlicher.html) (DIE WELT)
+
 - [Ending malaria in Papua: why oral communication matters as much as medicine](https://theconversation.com/ending-malaria-in-papua-why-oral-communication-matters-as-much-as-medicine-267991) (The Conversation Africa)
 
 - [Gut bacterial dysbiosis in pediatric severe malaria associates with post-discharge mortality](https://www.nature.com/articles/s41467-025-64632-3) (Nature.com)
@@ -164,9 +198,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (hpai)
 
+- [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
+
 - [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
+
+- [H5N1: Vogelgrippe weitet sich auf zehn Bundesländer aus](https://www.zeit.de/wissen/umwelt/2025-10/vogelgrippe-gefluegelbetriebe-ausbruch-bundeslaender) (Die Zeit)
 
 - [Vogelgrippe am Speichersee: Wenn Kadaver im Naturparadies treiben](https://www.sueddeutsche.de/muenchen/landkreismuenchen/ismaning-muenchen-speichersee-vogelgrippe-influenza-a-virus-h5n1-bund-naturschutz-li.3332407) (Süddeutsche Zeitung)
 
@@ -234,6 +272,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (dengue)
 
+- [Engineered Nanobodies for early and accurate diagnosis of dengue virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013168) (Plos.org)
+
+- [Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito trapping (AGOs traps) pilot study in a US-Mexico border region of South Texas](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013665) (Plos.org)
+
+- [Reportan brote de DENGUE entre reclusos del Cereso de Guaymas; algunos estarían GRAVES](https://www.tribuna.com.mx/sonora/2025/10/31/reportan-brote-de-dengue-entre-reclusos-del-cereso-de-guaymas-algunos-estarian-graves-418046.html) (Tribuna.com.mx)
+
 - [¿Cómo preparar un repelente natural contra mosquitos? Conozca estas recetas](https://www.nacion.com/ciencia/como-preparar-un-repelente-natural-contra/BR5GYQKS3VEEHKGJE7CKBQ6OXI/story/) (Nacion.com)
 
 - [2025 Malaria and Dengue Cases Surge in Ranchi: District-Wise Analysis Reveals Varied Incidence Rates](https://timesofindia.indiatimes.com/city/ranchi/2025-malaria-and-dengue-cases-surge-in-ranchi-district-wise-analysis-reveals-varied-incidence-rates/articleshow/124965544.cms) (The Times of India)
@@ -291,6 +335,8 @@ Source: [News API](https://newsapi.org/)
 - [Autoridades sanitarias dan banderazo a jornada de fumigación en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/10/25/autoridades-sanitarias-dan-banderazo-jornada-de-fumigacion-en-ciudad-obregon-417494.html) (Tribuna.com.mx)
 
 ## 25-44 (chikungunya)
+
+- [Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito trapping (AGOs traps) pilot study in a US-Mexico border region of South Texas](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013665) (Plos.org)
 
 - [Chikungunya : aucun nouveau foyer n’a été enregistré dans l’Hexagone, l’accalmie se confirme](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-aucun-nouveau-foyer-na-ete-enregistre-dans-lhexagone-laccalmie-se-confirme-3a5e3ef6-b4d1-11f0-8d83-9a721a62cee7) (Ouest-France)
 
@@ -1820,8 +1866,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
 
-- [Health officials warn more people are being bitten by bats across Sask.](https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/) (larongeNOW)
-
 ## 25-38 (pertussis)
 
 - [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
@@ -1960,8 +2004,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Child dies from complications of measles years after infection – SSPE explained](https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220) (The Conversation Africa)
 
-- [Comments - Is Public Health Dead?](https://joycevance.substack.com/p/is-public-health-dead/comment/134750547) (Substack.com)
-
 ## 25-38 (malaria)
 
 - [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
@@ -2060,8 +2102,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
 
-- [Globe Biotech’s Bangavax wins first pharma US patent for Bangladesh](https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906) (Tbsnews.net)
-
 ## 25-38 (chikungunya)
 
 - [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
@@ -2131,11 +2171,3 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya virus in Thailand (2020–2023): Epidemiology, clinical features, and genomic insights](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548) (Plos.org)
 
 - [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
-
-- [Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre](https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html) (ANSA.it)
-
-- [Nel Veronese aumentano sempre di più i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese](https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/) (Ilfattoquotidiano.it)
-
-- [Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre](https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC) (Il Sole 24 Ore)
-
-- [Chikungunya : l'épidémie se propage dans toute la France](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html) (Franceinfo.fr)
