@@ -1,8 +1,99 @@
 {
-  "last_updated": "2025-10-31 19:06",
-  "count_articles_total": 896,
-  "count_articles_new": 12,
+  "last_updated": "2025-11-01 07:06",
+  "count_articles_total": 908,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25429,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ermi Ndoen, Peneliti Kesehatan Masyarakat, Institute of Resource Governance and Social Change (IRGSC) Kupang, Ari Probandari, Professor of Public Health, Universitas Sebelas Maret, E. Elsa Herdiana Murhandarwati, Dosen Parasitologi Kedokteran, Universitas Gadjah Mada , Kharisma Dewi, Staf Pengajar, Rhondemo Kikon, WHO-TDR Implementation Science Fellow",
+      "title": "Ending malaria in Papua: why oral communication matters as much as medicine",
+      "description": "Improving oral and visual communication can accelerate malaria elimination in Papua. Here\u2019s how.",
+      "url": "https://theconversation.com/ending-malaria-in-papua-why-oral-communication-matters-as-much-as-medicine-267991",
+      "urlToImage": "https://images.theconversation.com/files/697453/original/file-20251017-56-d3babd.jpg?ixlib=rb-4.1.0&rect=0%2C577%2C4810%2C2405&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-10-31 06:02:50",
+      "content": "Illustration of a malaria-transmitting mosquito. Somboon Bunproy / Shutterstock Papua accounted for 93% of Indonesia\u2019s 527,000 malaria cases in 2024, as elimination efforts continue to face multiple\u2026 [+6634 chars]",
+      "retrievedAt": "2025-11-01 07:06:51.884855",
+      "internal_id": "10f814f33fce52226e563fb1c7b1e221926102a48665beeabe360c7778c1e27c",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25425,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Bethany Reitsma",
+      "title": "NZ measles outbreak: How to know if you are protected",
+      "description": "Health NZ says 13 measles cases have now been confirmed nationwide.",
+      "url": "https://www.nzherald.co.nz/lifestyle/nz-measles-outbreak-how-to-know-if-you-are-protected/QLJKO6IUC5HJLD34O7DCVXPR5Y/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QBEXLLFDLVFIFFPAOKWIYO24SQ.jpg?auth=af84edcd3d706c856f7d209f7c5245cc899e4c4fe4fdb290ff393c99ae033ab6&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-10-31 01:00:00",
+      "content": "Early symptoms typically include a fever, cough and conjunctivitis or red eyes, around 10 days to two weeks after being exposed to the virus. A measles rash usually develops a few days later, starti\u2026 [+4691 chars]",
+      "retrievedAt": "2025-11-01 07:06:50.523674",
+      "internal_id": "1f6f2baa68da815200377f01c48b1c215cbd41d5ba8135bf510bf7af8bd81232",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Olivia J. Bednarski, Sawyer B. Lehman, David Mzinza, Caroline Kazinga, Ruth Namazzi, Robert O. Opoka, Jie Ren, Tuan M. Tran, Terrie E. Taylor, Karl B. Seydel, Chandy C. John, Andrea L. Conroy, Nathan W. Schmidt",
+      "title": "Gut bacterial dysbiosis in pediatric severe malaria associates with post-discharge mortality",
+      "description": "In this study, the authors show that gut dysbiosis in African children with severe malaria may contribute to the pathogenesis of malaria, including an increased risk of post-discharge mortality.",
+      "url": "https://www.nature.com/articles/s41467-025-64632-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-64632-3/MediaObjects/41467_2025_64632_Fig1_HTML.png",
+      "publishedAt": "2025-10-31 00:00:00",
+      "content": "Children with SM have gut bacterial dysbiosis compared to community children To assess the role of the gut microbiota in children with severe Plasmodium falciparum malaria, we analyzed stool samples\u2026 [+39510 chars]",
+      "retrievedAt": "2025-11-01 07:06:51.874504",
+      "internal_id": "813e249de1a571ca761f56de3e585bba7a3cd108e6cd6ab985cf64d9d128e02c",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 25427,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "El Universal",
+      "title": "\u00bfC\u00f3mo preparar un repelente natural contra mosquitos? Conozca estas recetas",
+      "description": "Descubra c\u00f3mo preparar en casa repelentes naturales con lavanda, citronela y menta para alejar mosquitos sin usar qu\u00edmicos agresivos.",
+      "url": "https://www.nacion.com/ciencia/como-preparar-un-repelente-natural-contra/BR5GYQKS3VEEHKGJE7CKBQ6OXI/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/G7TTELSZUBF7HOWNHE6WAGD22M.png?smart=true&auth=76260c617890a2db75a6e76d722ea32cfe1cd50c02dbfdefabb7d4c06227835a&width=1440",
+      "publishedAt": "2025-10-30 22:29:26",
+      "content": "Durante la \u00e9poca lluviosa, la proliferaci\u00f3n de mosquitos aumenta de forma considerable. Adem\u00e1s de causar molestias con sus picaduras, estos insectos pueden transmitir dengue, zika y chikungu\u00f1a. Para\u2026 [+2327 chars]",
+      "retrievedAt": "2025-11-01 07:06:51.382658",
+      "internal_id": "3fb40a61a9f89eec94a490c330f3ecd65667910a85c3a09f65ce44f1467c6ea8",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 25426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "RNZ",
+      "title": "People going to Tauranga kapa haka event asked to take measles precautions",
+      "description": "The Tauranga kapa haka event is set to run for a week from Sunday.",
+      "url": "https://www.nzherald.co.nz/nz/people-going-to-tauranga-kapa-haka-event-asked-to-take-measles-precautions/J6WIXSURFNBI5HRDJHOPU2CQEA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QVWU5R6I2VHPDJMH2IXP5BF4JY.jpg?auth=306a730f1201b056241d0903776269d38f3b48fe14d2aadaee6d2c367b85bb76&width=1200&height=675&quality=70&focal=1804%2C723&smart=false",
+      "publishedAt": "2025-10-30 19:51:30",
+      "content": "Theyll also be asking the kapa to check their vaccination status before travelling to Tauranga for the event. Bevin said those with children under 1 should be cautious about attending large public e\u2026 [+783 chars]",
+      "retrievedAt": "2025-11-01 07:06:50.559173",
+      "internal_id": "80f0b9f16a64e255598bf79e2f79f58f1c4e7b426340290ba7a1c6b6dde3d2d7",
+      "publishedAtLabel": "Oct 30"
+    },
     {
       "id": 25414,
       "query": [
@@ -16187,6 +16278,132 @@
       "content": "En lo que va del a\u00f1o, se confirmaron 48 muertes por dengue, debido a que durante la \u00faltima semana ocurrieron 16 decesos que se sumaron a los 32 anteriormente registrados. De acuerdo al reporte epide\u2026 [+1510 chars]",
       "retrievedAt": "2025-09-16 07:08:14.961699",
       "internal_id": "33479b04ac40283a96a588bed3ab6aa44526202616a5cec8d357c1447b3e9dc6",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24527,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Salgono a 46 i casi di Chikungunya nel veronese, stop alle sagre",
+      "description": "In corso disinfestazioni, a rischio la Fiera del Riso (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2025/09/14/salgono-a-46-i-casi-di-chikungunya-nel-veronese-stop-alle-sagre_bca037b9-c356-4549-8135-005fc04cc895.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2024/8/7/ec7ea50c2c9d468af9a94641bf1e0997.jpg",
+      "publishedAt": "2025-09-14 17:16:59",
+      "content": "I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella provincia di Modena, ma resta la preoccup\u2026 [+2257 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.559695",
+      "internal_id": "8bc0df60934f1beda39b9a071318384bbb45209610be7b468c155a208ce68db0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24525,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Eleonora Bianchini",
+      "title": "Nel Veronese aumentano sempre di pi\u00f9 i contagi per il virus Chikungunya. Sospese anche sagre e feste di paese",
+      "description": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta la preoccupazione legata alle possibili ripercussioni sugli\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/09/14/chikungunya-verona-sagre-sospese-news/8126589/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2025-09-14 16:31:17",
+      "content": "Continuano ad aumentare i casi di virus Chikungunya nel Veronese, e nel fine settimana sono saliti a quota 46. Un numero che \u00e8 meno della met\u00e0 di quello registrato nella provincia di Modena, ma resta\u2026 [+2230 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.516930",
+      "internal_id": "be1c1f7479760b3782300a140c22019a0f0d584e7f3c3e7ee789adb2c752a3cd",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24526,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Chikungunya, salgono a 46 i casi nel veronese: stop alle sagre",
+      "description": "La previsione di un progressivo calo delle temperature induce a ipotizzare che l\u2019attivit\u00e0 dei focolai \u00e8 destinata a ridursi, favorita anche dai trattamenti antilarvali e dagli interventi di disinfestazione per debellare le temibili zanzare che veicolano il vi\u2026",
+      "url": "https://www.ilsole24ore.com/art/chikungunya-salgono-46-casi-veronese-stop-sagre-AHAdKddC",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/09/15/Immagini/Ritagli/da1db98e-97b2-11e7-a1fe-5730dce54100-fotohome0-k0MD-U73762411481jMv-1440x752@IlSole24Ore-Web_20250914181835-U60865333050QvI-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-09-14 16:19:17",
+      "content": "Ascolta la versione audio dell'articolo I casi di virus Chikungunya nel Veronese crescono di giorno in giorno, nel fine settimana sono saliti a quota 46, meno della met\u00e0 del numero registrato nella \u2026 [+1405 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.526467",
+      "internal_id": "9954d589359d67c8fd6c82a9f8f37ebad94caa36d985b61d750e0f73bab1e9d0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24522,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "larongeNOW",
+      "author": "Ckom More",
+      "title": "Health officials warn more people are being bitten by bats across Sask.",
+      "description": "Residents should be careful when coming in contact with bats, in light of more reported bat bites across the p...",
+      "url": "https://larongenow.com/2025/09/14/health-officials-warn-more-people-are-being-bitten-by-bats-across-sask/",
+      "urlToImage": "https://d2ksr9467jthww.cloudfront.net/20250912160916/3dcd6903-5812-431b-a3ce-d5d213799770",
+      "publishedAt": "2025-09-14 12:02:29",
+      "content": "With more bats in the community, Kapaj said bad bites and scratches come as a result, which leads to a need for more rabies assessments. According to the Government of Canada Rabies Monitoring websi\u2026 [+1258 chars]",
+      "retrievedAt": "2025-09-15 19:06:03.419193",
+      "internal_id": "6f48b04f7e9569c2e331d5311463bb94e38cc338cc22f74be46cb6c8e3d25edb",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Globe Biotech\u2019s Bangavax wins first pharma US patent for Bangladesh",
+      "description": "Although Covid-19 vaccines are no longer in urgent demand due to low infection rates, health experts say the patented technology can help develop mRNA vaccines for diseases like dengue and Nipah, and produce generic medicines, with Globe retaining the patent \u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/globe-biotechs-bangavax-vaccine-earns-first-us-patent-1235906",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/17/globe_2.jpg",
+      "publishedAt": "2025-09-14 08:32:50",
+      "content": "Globe Biotech Limited, a subsidiary of Globe Pharma Group of Companies, has received a United States patent for its homegrown Covid-19 vaccine, Bangavax marking the first such patent granted to Bangl\u2026 [+3629 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.809317",
+      "internal_id": "c7f8921143ac7b4d677e607ca2f85b214930a54a5cec7f50fe730aa161032908",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24528,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": null,
+      "title": "Chikungunya : l'\u00e9pid\u00e9mie se propage dans toute la France",
+      "description": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insecte pourrait \u00eatre une solution pour endiguer le probl\u00e8me.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-l-epidemie-se-propage-dans-toute-la-france_7491559.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/cq4sG27gfXLjqnGNr0t-zOrMmlo/32x0:1549x853/1500x843/2025/09/14/chiku-68c670ecc9747073841208.jpg",
+      "publishedAt": "2025-09-14 07:38:25",
+      "content": "Alors qu'il avait initialement connu une expansion dans le sud de la France, le virus du chikungunya, transmis par le moustique tigre, se propage dans tout le territoire. La st\u00e9rilisation de l'insect\u2026 [+1970 chars]",
+      "retrievedAt": "2025-09-15 19:06:05.576920",
+      "internal_id": "9bb5667bb84846845e39bcafde79af04f789545b66efacf3a8c78ca04e99abc8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 24523,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "Bryan Sean Mckown",
+      "title": "Comments - Is Public Health Dead?",
+      "description": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Per DSHS, LAMAR COUNTY has been \"designated an outbreak county\".\u2026",
+      "url": "https://joycevance.substack.com/p/is-public-health-dead/comment/134750547",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!KJA1!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjoycevance.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1925460191%26version%3D9",
+      "publishedAt": "2025-09-14 07:15:17",
+      "content": "The Texas DHHS updates it measles infection data on Tuesdays: Per DSHS ,\"98% of the patients have been hospitalized \" Per DSHS, \"723 measles cases have been confirmed since late January\" 2025. Pe\u2026 [+920 chars]",
+      "retrievedAt": "2025-09-15 19:06:04.018121",
+      "internal_id": "ec3122c29cda073ae4fa50c23d9e8c55ba1afb572b3a8937001c1fcea55f6579",
       "publishedAtLabel": "Sep 14"
     }
   ]
