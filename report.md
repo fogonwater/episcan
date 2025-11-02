@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-11-02 07:07
-- **Most recent article:** 2025-11-01 07:04:10
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-11-02 19:05
+- **Most recent article:** 2025-11-01 19:02:13
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 29 | 183 |
-| dengue | 18 | 32 | 23 | 18 | 14 | 32 | 137 |
-| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 106 |
+| measles | 34 | 31 | 29 | 35 | 25 | 34 | 188 |
+| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 137 |
+| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 103 |
 | malaria | 14 | 10 | 20 | 24 | 17 | 17 | 102 |
-| h5n1 | 5 | 10 | 8 | 8 | 32 | 33 | 96 |
-| mpox | 8 | 1 | 10 | 11 | 8 | 19 | 57 |
+| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 96 |
+| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 58 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 47 |
 | zika | 6 | 5 | 7 | 1 | 3 | 5 | 27 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 25 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 14 |
-| leptospirosis | 2 | 5 | 1 | 4 | 0 | 0 | 12 |
+| leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 13 |
 | hpai | 1 | 2 | 1 | 0 | 4 | 2 | 10 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 5 |
 | yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 5 |
@@ -61,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 - [The dismantling of public health infrastructure](https://kevinmd.com/2025/10/the-dismantling-of-public-health-infrastructure.html) (Kevinmd.com)
 
 ## 25-44 (mpox)
+
+- [Ευλογιά των πιθήκων: Πρώτο κρούσμα στην Ελλάδα από το επικίνδυνο στέλεχος «clade 1»](https://www.newsit.gr/ellada/eylogia-ton-pithikon-proto-krousma-stin-ellada-apo-to-epikindyno-stelexos-clade-1/4515632/) (Newsit.gr)
 
 - [Virüs hızla yayılıyor! Tüm dünya tedirgin. DSÖ uyardı](https://www.yenicaggazetesi.com.tr/virus-hizla-yayiliyor-tum-dunya-tedirgin-dso-uyardi-976543h.htm) (Yenicaggazetesi.com.tr)
 
@@ -113,6 +115,16 @@ Source: [News API](https://newsapi.org/)
 - [UKHSA 'monitoring situation' after meningitis cases](https://www.bbc.com/news/articles/cpwv17ywk45o) (BBC News)
 
 ## 25-44 (measles)
+
+- [Second doctor at Ichilov Hospital tests positive for measles](https://www.israelnationalnews.com/news/417136) (Israelnationalnews.com)
+
+- [Letters: How many years have we been debating a fireworks ban?](https://www.nzherald.co.nz/nz/letters-how-many-years-have-we-been-debating-a-fireworks-ban/QILLHOEHYRCUBNG3JQMNKI2PLY/) (New Zealand Herald)
+
+- [(THE GIST OF PIB) Measles and Rubella](https://iasexamportal.com/the-gist/pib-measles-and-rubella) (Iasexamportal.com)
+
+- [Israeli doctor contracts measles after treating unvaccinated child amid outbreak](https://www.haaretz.com/israel-news/2025-11-01/ty-article/.premium/israeli-doctor-contracts-measles-after-treating-unvaccinated-child-amid-outbreak/0000019a-3e34-d36c-a3bf-be7555ca0000) (Haaretz)
+
+- [This tight-knit community was recovering from a cultlike leader. Then measles got in.](https://www.nbcnews.com/health/health-news/tight-knit-community-was-recovering-cultlike-leader-measles-got-rcna240592) (NBC News)
 
 - [Government to update measles response as David Seymour undergoes test](https://www.nzherald.co.nz/nz/government-to-update-measles-response-as-david-seymour-undergoes-test/76TADKB7LRBQRJS6YKPOSA5TNY/) (New Zealand Herald)
 
@@ -208,6 +220,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Taking down malaria’s bodyguards: scientists target parasite’s secret defence system](https://theconversation.com/taking-down-malarias-bodyguards-scientists-target-parasites-secret-defence-system-267029) (The Conversation Africa)
 
+## 25-44 (leptospirosis)
+
+- [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
+
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
@@ -215,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
+
+- [Wann das H5N1-Virus für den Menschen wirklich gefährlich wird](https://www.welt.de/gesundheit/article6903276e1118a64696446d82/vogelgrippe-ausbruch-wann-das-h5n1-virus-fuer-den-menschen-wirklich-gefaehrlich-wird.html) (DIE WELT)
 
 - [H5N1: Vogelgrippe weitet sich auf zehn Bundesländer aus](https://www.zeit.de/wissen/umwelt/2025-10/vogelgrippe-gefluegelbetriebe-ausbruch-bundeslaender) (Die Zeit)
 
@@ -283,6 +301,8 @@ Source: [News API](https://newsapi.org/)
 - [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
+
+- [Bigg Boss 19: Pranit More diagnosed with dengue; Reports](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-pranit-more-diagnosed-with-dengue-reports/articleshow/125014272.cms) (The Times of India)
 
 - [Cegah Demam Berdarah, Koramil Semitau bersama Puskesmas Laksanakan Fogging di Dua Sekolah Dasar](https://kalbaronline.com/2025/11/01/cegah-demam-berdarah-koramil-semitau-bersama-puskesmas-laksanakan-fogging-di-dua-sekolah-dasar/) (Kalbaronline.com)
 
@@ -1748,8 +1768,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
-- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
-
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1785,8 +1803,6 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
-
-- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1829,9 +1845,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
-
-- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
-
-- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
