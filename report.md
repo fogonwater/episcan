@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-11-01 19:05
-- **Most recent article:** 2025-10-31 18:27:37
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-11-02 07:07
+- **Most recent article:** 2025-11-01 07:04:10
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-38 | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 53 | 34 | 31 | 29 | 35 | 25 | 28 | 235 |
-| dengue | 25 | 18 | 32 | 23 | 18 | 14 | 31 | 161 |
-| chikungunya | 34 | 23 | 25 | 10 | 28 | 11 | 8 | 139 |
-| malaria | 10 | 15 | 10 | 20 | 24 | 17 | 17 | 113 |
-| h5n1 | 9 | 5 | 10 | 8 | 8 | 32 | 33 | 105 |
-| mpox | 5 | 8 | 1 | 10 | 11 | 8 | 17 | 60 |
-| rabies | 12 | 18 | 10 | 6 | 9 | 3 | 1 | 59 |
-| zika | 6 | 6 | 5 | 7 | 1 | 3 | 5 | 33 |
-| meningitis | 5 | 3 | 7 | 5 | 4 | 1 | 4 | 29 |
-| typhoid | 1 | 3 | 0 | 4 | 5 | 1 | 1 | 15 |
-| leptospirosis | 0 | 2 | 5 | 1 | 4 | 0 | 0 | 12 |
-| hpai | 1 | 1 | 2 | 1 | 0 | 4 | 2 | 11 |
-| pertussis | 2 | 0 | 1 | 2 | 0 | 1 | 0 | 6 |
-| yersinia | 0 | 1 | 0 | 0 | 2 | 1 | 1 | 5 |
+| Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 34 | 31 | 29 | 35 | 25 | 29 | 183 |
+| dengue | 18 | 32 | 23 | 18 | 14 | 32 | 137 |
+| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 106 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 102 |
+| h5n1 | 5 | 10 | 8 | 8 | 32 | 33 | 96 |
+| mpox | 8 | 1 | 10 | 11 | 8 | 19 | 57 |
+| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 47 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 27 |
+| meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 25 |
+| typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 14 |
+| leptospirosis | 2 | 5 | 1 | 4 | 0 | 0 | 12 |
+| hpai | 1 | 2 | 1 | 0 | 4 | 2 | 10 |
+| pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 5 |
+| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -56,7 +56,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Conformational dynamics, RNA binding, and phase separation regulate the multifunctionality of rabies virus P protein](https://www.nature.com/articles/s41467-025-65223-y) (Nature.com)
 
+## 25-44 (pertussis)
+
+- [The dismantling of public health infrastructure](https://kevinmd.com/2025/10/the-dismantling-of-public-health-infrastructure.html) (Kevinmd.com)
+
 ## 25-44 (mpox)
+
+- [Virüs hızla yayılıyor! Tüm dünya tedirgin. DSÖ uyardı](https://www.yenicaggazetesi.com.tr/virus-hizla-yayiliyor-tum-dunya-tedirgin-dso-uyardi-976543h.htm) (Yenicaggazetesi.com.tr)
 
 - [Nowe przypadki zakażeń w kilku krajach Europy. WHO ostrzega przed wirusem](https://wydarzenia.interia.pl/zagranica/news-nowe-przypadki-zakazen-w-kilku-krajach-europy-who-ostrzega-p,nId,22449693) (Interia.pl)
 
@@ -71,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 - [Bavarian Nordic Awarded New Procurement Framework Contract by the European Commission to Strengthen Preparedness Against Smallpox and Mpox](https://www.globenewswire.com/news-release/2025/10/31/3178141/0/en/Bavarian-Nordic-Awarded-New-Procurement-Framework-Contract-by-the-European-Commission-to-Strengthen-Preparedness-Against-Smallpox-and-Mpox.html) (GlobeNewswire)
 
 - [Bavarian Nordic opnår ny rammeaftale med Europa-Kommissionen med henblik på styrkelse af beredskabet mod kopper og mpox](https://www.globenewswire.com/news-release/2025/10/31/3178141/0/da/Bavarian-Nordic-opn%C3%A5r-ny-rammeaftale-med-Europa-Kommissionen-med-henblik-p%C3%A5-styrkelse-af-beredskabet-mod-kopper-og-mpox.html) (GlobeNewswire)
+
+- [Knowledge, attitudes, and practices toward mpox among university health science students in Türkiye: a cross-sectional study](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-025-08090-x) (Biomedcentral.com)
 
 - [Casos pontuais de Mpox em Moçambique impedem fim do surto](https://observador.pt/2025/10/30/casos-pontuais-de-mpox-impedem-mocambique-de-declarar-fim-do-surto/) (Observador.pt)
 
@@ -94,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (meningitis)
 
+- [Dra. Saima Bashir, neuróloga: "Además de la vacuna, para prevenir la meningitis en niños son importantes medidas de higiene, como el lavado de manos"](https://www.hola.com/padres/20251101864847/dra-saima-bashir-neurologa-ademas-de-la-vacuna-para-prevenir-la-meningits-en-ninos-son-importantes-medidas-de-higiene-como-el-lavado-de-manos/) (Hola)
+
 - [Rise in meningitis cases prompts push for vaccinations](https://news.sky.com/story/rise-in-meningitis-cases-prompts-push-for-vaccinations-13461241) (Sky.com)
 
 - [What parents need to know about vaccinating children in Germany](https://www.thelocal.de/20251031/what-parents-need-to-know-about-vaccinating-children-in-germany) (The Local Germany)
@@ -103,6 +113,8 @@ Source: [News API](https://newsapi.org/)
 - [UKHSA 'monitoring situation' after meningitis cases](https://www.bbc.com/news/articles/cpwv17ywk45o) (BBC News)
 
 ## 25-44 (measles)
+
+- [Government to update measles response as David Seymour undergoes test](https://www.nzherald.co.nz/nz/government-to-update-measles-response-as-david-seymour-undergoes-test/76TADKB7LRBQRJS6YKPOSA5TNY/) (New Zealand Herald)
 
 - [Winkler schools, Grunthal livestock auction among latest measles exposure sites in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-update-october-31-2025-9.6962016) (CBC News)
 
@@ -272,6 +284,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-44 (dengue)
 
+- [Cegah Demam Berdarah, Koramil Semitau bersama Puskesmas Laksanakan Fogging di Dua Sekolah Dasar](https://kalbaronline.com/2025/11/01/cegah-demam-berdarah-koramil-semitau-bersama-puskesmas-laksanakan-fogging-di-dua-sekolah-dasar/) (Kalbaronline.com)
+
 - [Engineered Nanobodies for early and accurate diagnosis of dengue virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013168) (Plos.org)
 
 - [Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito trapping (AGOs traps) pilot study in a US-Mexico border region of South Texas](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013665) (Plos.org)
@@ -335,6 +349,8 @@ Source: [News API](https://newsapi.org/)
 - [Autoridades sanitarias dan banderazo a jornada de fumigación en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/10/25/autoridades-sanitarias-dan-banderazo-jornada-de-fumigacion-en-ciudad-obregon-417494.html) (Tribuna.com.mx)
 
 ## 25-44 (chikungunya)
+
+- [Is the world ready for another pandemic?](https://www.aljazeera.com/video/the-stream/2025/10/31/is-the-world-ready-for-another-pandemic) (Al Jazeera English)
 
 - [Assessment of vector control strategies based on mass Aedes (Stegomyia) mosquito trapping (AGOs traps) pilot study in a US-Mexico border region of South Texas](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013665) (Plos.org)
 
@@ -1712,8 +1728,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria: Developing Drugs for Treatment](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/malaria-developing-drugs-treatment) (FDA.gov)
 
-- [La ciencia lo confirma: la cerveza sí hace más atractivas a las personas... pero para los mosquitos](https://www.xataka.com.mx/investigacion/ciencia-confirma-cerveza-hace-atractivas-a-personas-para-mosquitos) (Xataka.com.mx)
-
 ## 25-39 (leptospirosis)
 
 - [¿Qué enfermedad tiene la osa del Zoológico La Pastora?](https://www.excelsior.com.mx/salud/que-enfermedad-tiene-la-osa-del-zoologico-la-pastora/1742055) (Excelsior.com.mx)
@@ -1821,353 +1835,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
 
 - [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
-
-## 25-38 (zika)
-
-- [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
-
-- [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
-
-- [Vítimas da Zika podem ser indenizadas ainda em setembro, diz ministro](https://www.metropoles.com/brasil/vitimas-da-zika-podem-ser-indenizadas-ainda-em-setembro-diz-ministro) (Metropoles.com)
-
-- [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
-
-- [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
-
-- [Εξαπλώνεται η φονική νόσος του Chagas στις ΗΠΑ: Ο αιμοβόρος κοριός – φορέας και πώς μεταδίδεται](https://www.naftemporiki.gr/health/2006535/exaplonetai-i-foniki-nosos-toy-chagas-stis-ipa-o-aimovoros-korios-foreas-kai-pos-metadidetai/) (Naftemporiki.gr)
-
-## 25-38 (typhoid)
-
-- [The death rays that guard life](https://worksinprogress.co/issue/the-death-rays-that-guard-life/) (Worksinprogress.co)
-
-## 25-38 (rabies)
-
-- [Primate (Fantastic Fest) Review: Johannes Roberts’ Killer Chimp Movie Is a Blood Bath of Fun](https://www.joblo.com/primate-fantastic-fest-review-johannes-roberts-killer-chimp-movie-is-a-blood-bath-of-fun/) (JoBlo.com)
-
-- [DOH Marion issues rabies advisory for residents](https://www.wftv.com/news/local/marion-county/doh-marion-issues-rabies-advisory-residents/ISOY6CMWCRBZNC5NV2KJMBOIXI/) (WFTV Orlando)
-
-- [VACATION HORROR: MONKEY BITES GIRL ON NECK; RABIES OUTBREAK...](https://www.the-sun.com/news/15217878/horror-monkey-bites-girl-rabies-injections-bali/) (The-sun.com)
-
-- [Sydney mother warns of danger of monkeys in Bali after daughter needs rabies shots after neck bite](https://www.news.com.au/travel/travel-updates/incidents/sydney-mother-warns-of-danger-of-monkeys-in-bali-after-daughter-needs-rabies-shots-after-neck-bite/news-story/a45c90f0681492d07bab6edea806acf1) (News.com.au)
-
-- [Hunterdon County health officials warn of rabid raccoons found near reservoir](https://www.wfmz.com/news/area/western-newjersey/hunterdon-county-health-officials-warn-of-rabid-raccoons-found-near-reservoir/article_6afaff54-ae3c-4914-8dd6-3ead455a1493.html) (WFMZ Allentown)
-
-- [12-Year-Old Girl Bit by Monkey on Family Vacation Receives Urgent Rabies Vaccine](https://people.com/12-year-old-gets-rabies-vaccine-after-monkey-attack-at-popular-park-11813104) (PEOPLE)
-
-- [Rabid bat found in Kent County, health officials urge caution](https://www.mlive.com/news/grand-rapids/2025/09/rabid-bat-found-in-kent-county-health-officials-urge-caution.html) (mlive.com)
-
-- [The US is tracking 14 potential rabies outbreaks in 20 states. Here’s what to know | CNN](https://www.cnn.com/2025/09/18/health/rabies-animal-vaccine-disease-health-wellness) (CNN)
-
-- [Monitoring body, awareness camps & more on Delhi govt's new rules for stray dog management; check list](https://economictimes.indiatimes.com/news/india/monitoring-body-awareness-camps-more-on-delhi-govts-new-rules-for-stray-dog-management-check-list/articleshow/123934495.cms) (The Times of India)
-
-- [Delhi's New Guidelines On Stray Dogs - From Feeding Them To Handling Diseased Ones](https://www.ndtvprofit.com/nation/delhi-new-guidelines-on-stray-dogs-from-feeding-them-to-handling-diseased-ones) (Ndtvprofit.com)
-
-- [Strengthening Rabies Defence in Canada: CAHI Announces 2025 World Rabies Day Webinar](https://financialpost.com/globe-newswire/strengthening-rabies-defence-in-canada-cahi-announces-2025-world-rabies-day-webinar) (Financial Post)
-
-- [Man, 47, dies of rabies despite vaccination after stray dog bite in Chennai](https://timesofindia.indiatimes.com/city/chennai/man-47-dies-of-rabies-despite-vaccination-after-stray-dog-bite-in-chennai/articleshow/123892086.cms) (The Times of India)
-
-## 25-38 (pertussis)
-
-- [Emergence of Bordetella holmesii–Associated Pertussis-Like Illness, Northern India, 2019–2023](https://wwwnc.cdc.gov/eid/article/31/10/24-1659_article) (Cdc.gov)
-
-- [Rohamokkal járó betegség miatt figyelmeztetnek a szakemberek](https://www.origo.hu/itthon/2025/09/szamarkohoges-hevesben-uj-megbetegedesek-2025) (Origo.hu)
-
-## 25-38 (mpox)
-
-- [Three people infected in first cluster involving potentially more serious strain of mpox virus in Ireland](https://www.independent.ie/irish-news/health/three-people-infected-in-first-cluster-involving-potentially-more-serious-strain-of-mpox-virus-in-ireland/a1304198065.html) (Independent.ie)
-
-- [“A mpox não acabou e ainda exige vigilância constante”, diz médica](https://www.metropoles.com/saude/mpox-ainda-exige-vigilancia-medica) (Metropoles.com)
-
-- [África com menos casos; focos em Moçambique e RDCongo](https://observador.pt/2025/09/18/africa-regista-menos-casos-de-mpox-apesar-de-focos-em-mocambique-e-na-rdcongo/) (Observador.pt)
-
-- [First Case of Severe Mpox Strain Confirmed in Japan](https://newsonjapan.com/article/146896.php) (Newsonjapan.com)
-
-- [Mpox : comment le tecovirimat a pu être prescrit à des malades en l’absence de preuve de son efficacité](https://www.lemonde.fr/sciences/article/2025/09/16/mpox-comment-le-tecovirimat-a-pu-etre-prescrit-a-des-malades-en-l-absence-de-preuve-de-son-efficacite_6641346_1650684.html) (Le Monde)
-
-## 25-38 (meningitis)
-
-- [College student has legs amputated after learning her ‘flu’ is actually deadly disease](https://swns.live/stories/181856/) (Swns.live)
-
-- [Crowdsourcing recurrent aseptic meningitis treatment](https://thebloggess.com/2025/09/18/crowdsourcing-recurrent-aseptic-meningitis-treatment/) (Thebloggess.com)
-
-- [BREAKING STUDY: COVID-19 “Vaccines” Linked to 63 Serious Central Nervous System Adverse Events](https://www.thefocalpoints.com/p/breaking-study-covid-19-vaccines) (Thefocalpoints.com)
-
-- [Correction: Pentraxin 3 in the cerebrospinal fluid during central nervous system infections: A retrospective cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332720) (Plos.org)
-
-- [Lola packt kräftig mit an - Vom TV-Star zur Dachdeckerin](https://www.bild.de/unterhaltung/stars-und-leute/lola-weippert-hilft-beim-umbau-ihres-bauernhofs-68c905bf5edc9510719a90e1) (Bild)
-
-## 25-38 (measles)
-
-- [First measles case of the year confirmed in Cache County, state's 34th case](https://ksltv.com/health/cache-county-measles/822069/) (ksltv.com)
-
-- [Health officials confirm measles case in Cache County](https://www.abc4.com/news/northern-utah/cache-county-measles-case/) (ABC 4)
-
-- [The Hidden Tsunami: A Public Health Crisis That’s Already Here](https://www.fairobserver.com/world-news/us-news/the-hidden-tsunami-a-public-health-crisis-thats-already-here/) (Fair Observer)
-
-- [Queensland's measles outbreak growing with 12 cases in six weeks](https://www.abc.net.au/news/2025-09-20/measles-outbreak-queensland-growing-middlemount-case/105798134) (ABC News (AU))
-
-- [Measles Alert Issued in Australia: Traveler from Indonesia Sparks Health Warning in Sydney - Travel And Tour World](https://www.travelandtourworld.com/news/article/measles-alert-issued-in-australia-traveler-from-indonesia-sparks-health-warning-in-sydney/) (Travelandtourworld.com)
-
-- [Parenting win: The easy vaccine schedule every family should follow](https://timesofindia.indiatimes.com/life-style/parenting/moments/parenting-win-the-easy-vaccine-schedule-every-family-should-follow/articleshow/124010508.cms) (The Times of India)
-
-- [Local pediatrician raises concerns about new CDC guidance for measles vaccines](https://www.kpbs.org/news/health/2025/09/19/local-pediatrician-raises-concerns-about-new-cdc-guidance-for-measles-vaccines) (KPBS)
-
-- [What changes did the CDC advisory panel vote on?](https://www.cbsnews.com/video/what-changes-did-the-cdc-advisory-panel-vote-on/) (CBS News)
-
-- [Key takeaways from the CDC vaccine advisory panel's votes this week](https://www.cbsnews.com/news/cdc-acip-recap-measles-mmrv-covid-vaccines/) (CBS News)
-
-- [1,000 Virginians exposed to measles in most recent case](https://richmond.com/news/state-regional/article_b0bfac1c-32da-4e51-b57e-3e1180229a71.html) (Richmond.com)
-
-- [RFK's Kook-Filled Vaccine Advisory Board Clearly Has No Idea What It's Doing](https://www.wonkette.com/p/rfks-kook-filled-vaccine-advisory) (Wonkette.com)
-
-- [RFK Jr.'s vaccine advisers stop recommending MMRV vaccine for kids under 4, delay vote on hepatitis B shot](https://www.cbc.ca/news/health/cdc-mmrv-vaccine-1.7637070) (CBC News)
-
-- [Data: New Mexico measles vaccination rate rose during outbreak](https://www.kob.com/news/top-news/data-new-mexico-measles-vaccination-rate-rose-during-outbreak/) (KOB)
-
-- [Kennedy's advisory panel recommends new restrictions on MMRV vaccines](https://chicago.suntimes.com/health/2025/09/19/kennedys-advisory-panel-recommends-new-restrictions-on-mmrv-vaccines) (Suntimes.com)
-
-- [Measles alert issued for Gold Coast as Queensland cases climb](https://www.abc.net.au/news/2025-09-19/measles-alert-issued-for-gold-coast-as-queensland-cases-rises/105795806) (ABC News (AU))
-
-- [France: RFK Jr.’s anti-vax crusade a public health disaster](https://www.bostonherald.com/2025/09/19/france-rfk-jr-s-anti-vax-crusade-a-public-health-disaster/) (Boston Herald)
-
-- [CDC votes to limit measles, mumps, rubella and varicella vaccines](https://www.nydailynews.com/2025/09/18/cdc-panel-votes-limit-measles-mumps-rubella-chickenpox-vaccines-children/) (New York Daily News)
-
-- [CDC Panel Backs Limiting MMRV Vaccine for Young Kids](https://www.newser.com/story/375471/cdc-panel-backs-limiting-mmrv-vaccine-for-young-kids.html) (Newser)
-
-- [In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning (New York Times)](https://www.memeorandum.com/250919/p2) (Memeorandum.com)
-
-- [Kennedy’s advisory panel recommends new restrictions on MMRV vaccines](https://www.wpxi.com/news/local/kennedys-advisory-panel-recommends-new-restrictions-mmrv-vaccines/HE6KRTV62VA5JKOL54Q4POHMEA/) (WPXI Pittsburgh)
-
-- [CDC advisory panel recommends restricting access to the MMRV vaccine](https://www.nbcnews.com/health/kids-health/cdc-panel-measles-chickenpox-vaccine-recommendation-rcna231986) (NBC News)
-
-- [RFK Jr.: not enough kids are dying of preventable diseases](https://www.lawyersgunsmoneyblog.com/2025/09/rfk-jr-not-enough-kids-are-dying-of-preventable-diseases) (Lawyersgunsmoneyblog.com)
-
-- [CDC's vaccine advisory panel changes recommendation on combined MMRV shot](https://www.cbsnews.com/video/cdcs-vaccine-advisory-panel-changes-recommendation-on-combined-mmrv-shot/) (CBS News)
-
-- [Kennedy’s Anti-Vaccine Council Is Going After the Easy Targets](https://www.theatlantic.com/health/2025/09/acip-hep-b/684266/) (The Atlantic)
-
-- [CDC panel changes measles, mumps, rubella, varicella vaccine recommendation](https://www.cbsnews.com/video/cdc-panel-changes-measles-mumps-rubella-varicella-vaccine-recommendation/) (CBS News)
-
-- [MMRV Vaccine Recommendations Modified by RFK Jr.'s CDC Panel](https://www.newsweek.com/mmrv-vaccine-changes-children-rfk-cdc-panel-2132206) (Newsweek)
-
-- [CDC committee votes to change measles vaccine guidance for young children](https://www.livescience.com/health/medicine-drugs/cdc-committee-votes-to-change-measles-vaccine-guidance-for-young-children) (Live Science)
-
-- [RFK Jr. Vaccine Panel Advises Against MMRV Vaccine](https://politicalwire.com/2025/09/18/rfk-jr-vaccine-panel-advises-against-mmrv-vaccine/) (Politicalwire.com)
-
-- [RFK Jr.’s Handpicked Vaccine Panel Nixes Measles-Chickenpox Combo for Kids Under 4](https://gizmodo.com/rfk-jr-s-handpicked-vaccine-panel-nixes-measles-chickenpox-combo-for-kids-under-4-2000660333) (Gizmodo.com)
-
-- [Measles exposure possible at 2 Vaughan locations, public health agency warns](https://www.cbc.ca/news/canada/toronto/measles-case-reported-in-vaughan-1.7637477) (CBC News)
-
-- [CDC's vaccine advisory panel to vote on measles, hepatitis B shots](https://www.cbsnews.com/live-updates/cdc-vaccine-advisory-committee-rfk-jr-vote-measles-hepatitis-b/) (CBS News)
-
-- [How a Contentious CDC Vaccine Meeting Will Affect Public Health](https://www.scientificamerican.com/article/how-a-contentious-cdc-vaccine-meeting-will-affect-public-health/) (Scientific American)
-
-- [Detection of Immunity Gap before Measles Outbreak, Ho Chi Minh City, Vietnam, 2024](https://wwwnc.cdc.gov/eid/article/31/10/25-0234_article) (Cdc.gov)
-
-- [Health care workers confirmed positive in far north Queensland measles outbreak which has maternity ward on high alert](https://www.abc.net.au/news/2025-09-18/four-new-cases-confirmed-in-cairns-measles-outbreak/105786794) (ABC News (AU))
-
-- [Three new cases confirmed in Far North Queensland measles outbreak](https://www.abc.net.au/news/2025-09-18/three-new-cases-confirmed-in-cairns-measles-outbreak/105786794) (ABC News (AU))
-
-- [Manitoba surpasses 200 confirmed measles cases so far this year](https://www.cbc.ca/news/canada/manitoba/200-confirmed-measles-cases-1.7636426) (CBC News)
-
-- [The Preventable Return of Deadly Diseases](https://www.theatlantic.com/podcasts/archive/2025/09/david-frum-show-kyle-harper-vaccines-infectious-diseases/684242/) (The Atlantic)
-
-- [The Dangerous Outbreaks That Could Rise on College Campuses](https://www.theatlantic.com/health/2025/09/vaccine-mandates-college-outbreaks/684237/) (The Atlantic)
-
-- [Memorial Health doctor discusses impacts of measles case, importance of vaccines](https://www.wtoc.com/2025/09/17/memorial-health-doctor-discusses-impacts-measles-case-importance-vaccines/) (WTOC)
-
-- [Six measles cases spark urgent health warning across Far North Queensland](https://7news.com.au/news/six-measles-cases-spark-urgent-health-warning-across-far-north-queensland-c-20051676) (7NEWS.com.au)
-
-- [Tracking County-Level Measles Cases in the US](https://www.rand.org/pubs/external_publications/EP71028.html) (Rand.org)
-
-- [NBC News investigation shows steady decline in MMR vaccination rates, singles out Jefferson County](https://www.wave3.com/2025/09/16/nbc-news-investigation-shows-steady-decline-mmr-vaccination-rates-singles-out-jefferson-county/) (WAVE 3)
-
-- [Measles case confirmed in Cook County, Illinois; officials say child traveled through O'Hare](https://abc7chicago.com/post/measles-case-confirmed-cook-county-illinois-officials-say-child-traveled-ohare/17829178/) (WLS-TV)
-
-- [RFK Jr. Appoints 5 New Members To CDC Vaccine Advisory Panel (Reuters)](https://www.memeorandum.com/250916/p74) (Memeorandum.com)
-
-- [A child has died years after a measles infection. Here’s what we know](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-sspe-disease-death-b2827494.html) (The-independent.com)
-
-- [Israel Health Ministry reported 481 new measles cases bringing total to 1251 estimates 3950 people infected | न गोला-बारूद न ही हमला फिर किसके 'आतंक' से दहशत में पूरा इजरायल? जिंदगी बचाने के लिए हर कोई कर रहा तैयारी](https://zeenews.india.com/hindi/world/israel-health-ministry-reported-481-new-measles-cases-bringing-total-to-1251-estimates-3950-people-infected/2924436) (India.com)
-
-- [RFK Jr. Appoints 5 New Members To CDC Vaccine Advisory Panel](https://www.huffpost.com/entry/rfk-jr-new-members-cdc-vaccine-panel_n_68c9270de4b056d71f62649c) (HuffPost)
-
-- [Measles exposure: 220 close contacts identified to metro Atlanta person with confirmed case](https://www.wsbtv.com/news/local/fulton-county/measles-exposures-5-220-close-contacts-are-under-active-monitoring-dph-says/RYZ5BKNCBBCM5IXQJMYZOWDMKM/) (WSB Atlanta)
-
-- [Behind the data: How rising school exemptions are threatening public health](https://www.nbcnews.com/health/health-news/vaccine-children-exemption-data-measles-methodology-rcna229853) (NBC News)
-
-- [Israel reports 481 new measles cases, bringing total to 1,251](https://www.thestar.com.my/news/world/2025/09/16/israel-reports-481-new-measles-cases-bringing-total-to-1251) (The Star Online)
-
-- [2 cases of measles confirmed in NYC, Department of Health says. Here's what to know.](https://www.cbsnews.com/newyork/news/nyc-measles-cases/) (CBS News)
-
-- [Measles warning NYC: Officials caution of exposure in SoHo, LES](https://www.nbcnewyork.com/manhattan/measles-symptoms-vaccine-treatment-soho-lower-east-side/6391578/) (NBC New York)
-
-- [Child dies from complications of measles years after infection – SSPE explained](https://theconversation.com/child-dies-from-complications-of-measles-years-after-infection-sspe-explained-265220) (The Conversation Africa)
-
-## 25-38 (malaria)
-
-- [Matt Webb: “Gin & tonic was invented by the East India Company...](https://kottke.org/25/09/0047550-matt-webb-gin-tonic) (kottke.org)
-
-- [(GIST OF SCIENCE REPORTER) ADFALCIVAX](https://iasexamportal.com/the-gist/science-reporter-adfalcivax) (Iasexamportal.com)
-
-- [A need for new tools for prevention of malaria in pregnancy](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004729) (Plos.org)
-
-- [A PGRPLC1/Rel2-F axis controls Anopheles gambiae resistance to systemic infections with Gram-positive bacteria containing Lys-type peptidoglycan](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013527) (Plos.org)
-
-- [Genomic evolution of major malaria-transmitting mosquito species uncovered](https://phys.org/news/2025-09-genomic-evolution-major-malaria-transmitting.html) (Phys.Org)
-
-- [Vaccinations, malaria pills, boiled water – Belgian team doctor outlines health precautions in place for Road World Championships in Rwanda](https://www.cyclingnews.com/news/vaccinations-malaria-pills-boiled-water-belgian-team-doctor-outlines-health-precautions-in-place-for-road-world-championships-in-rwanda/) (Cyclingnews.com)
-
-- [Dihydroartemisinin–piperaquine plus sulfadoxine–pyrimethamine versus either drug alone for intermittent preventive treatment of malaria in pregnancy: A double-blind, randomized, controlled phase 3 trial from Uganda](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004582) (Plos.org)
-
-- [Tell our ministers to work with Africa, prioritize health](https://act.one.org/letter/budget-ministers-canada-2025) (One.org)
-
-- [Cameroon could be turning waste to energy: Study uncovers why it's not, and sets out solutions](https://phys.org/news/2025-09-cameroon-energy-uncovers-solutions.html) (Phys.Org)
-
-- [Re-evaluating malarial retinopathy to improve its diagnostic accuracy in paediatric cerebral malaria: A retrospective study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004727) (Plos.org)
-
-## 25-38 (hpai)
-
-- [Крупная азиатская страна открыла рынок для поставок мяса птицы из России](https://lenta.ru/news/2025/09/17/krupnaya-aziatskaya-strana-otkryla-rynok-dlya-postavok-myasa-ptitsy-iz-rossii/) (Lenta)
-
-## 25-38 (h5n1)
-
-- [Castilla y León declara un foco de gripe aviar en una granja de gallinas en Olmedo](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2025/09/19/castilla-leon-declara-foco-influenza-aviar-olmedo/00031758302523126126849.htm) (Lavozdegalicia.es)
-
-- [Un brote de gripe aviar en una explotación de gallinas de Olmedo (Valladolid) obliga asacrificar a 760.000 aves](https://www.eleconomista.es/retail-consumo/noticias/13554506/09/25/un-brote-de-gripe-aviar-en-una-explotacion-de-gallinas-de-olmedo-valladolid-obliga-asacrificar-a-760000-aves.html) (Eleconomista.es)
-
-- [Un brote de gripe aviar en una explotación de gallinas de Olmedo (Valladolid) obliga a sacrificar a 760.000 aves](https://www.europapress.es/castilla-y-leon/noticia-brote-gripe-aviar-explotacion-gallinas-olmedo-valladolid-obliga-sacrificar-760000-aves-20250919183734.html) (Europapress.es)
-
-- [H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus](https://www.tagesspiegel.de/wissen/52-tote-tiere-gefunden-forscher-melden-ausbreitung-der-vogelgrippe-in-der-antarktis-14343608.html) (Der Tagesspiegel)
-
-- [H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus](https://www.zeit.de/news/2025-09/17/forscher-vogelgrippe-breitet-sich-wohl-in-der-antarktis-aus) (Die Zeit)
-
-- [H5N1: Forscher: Vogelgrippe breitet sich wohl in der Antarktis aus](https://www.stern.de/panorama/wissen/h5n1--forscher--vogelgrippe-breitet-sich-wohl-in-der-antarktis-aus-36063096.html) (STERN.de)
-
-- [국내 가금공장서 고병원성 조류인플루엔자 첫 발생](https://zdnet.co.kr/view/?no=20250915154617) (Zdnet.co.kr)
-
-- [Effect of Seasonal Influenza Vaccines on Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Ferrets](https://wwwnc.cdc.gov/eid/article/31/10/25-0668_article) (Cdc.gov)
-
-- [경기도서 조류인플루엔자, 아프리카돼지열병 발생...방역 비상](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003165659) (Ohmynews.com)
-
-## 25-38 (dengue)
-
-- [El mosquito del dengue tiene una variante americana que prefiere picar a los humanos](https://es.gizmodo.com/el-mosquito-del-dengue-tiene-una-variante-americana-que-prefiere-picar-a-los-humanos-2000193148) (Gizmodo.com)
-
-- [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
-
-- [Infection au virus du chikungunya : des lâchers de moustiques plus ou moins efficaces](https://sante.ouest-france.fr/moustique/infection-au-virus-du-chikungunya-des-lachers-de-moustiques-plus-ou-moins-efficaces-eabae24a-9537-11f0-aae5-c246857d365e) (Ouest-France)
-
-- [Brazilia lansează fabrica Wolbito pentru combaterea febrei dengue. Câte ouă de ţânţari va produce săptămânal](https://www.mediafax.ro/life-entertaiment/brazilia-lanseaza-fabrica-wolbito-pentru-combaterea-febrei-dengue-cate-oua-de-tantari-va-produce-saptamanal-23613005) (Mediafax.ro)
-
-- [Caso importato di Dengue a Brentonico in Trentino](https://www.ansa.it/trentino/notizie/2025/09/19/caso-importato-di-dengue-a-brentonico-in-trentino_14f28f7a-0b07-4d46-a078-fb7522e233c3.html) (ANSA.it)
-
-- [Brote de dengue en Oaxaca afecta a niños de 10 a 14 años; ya suman tres muertes en 2025](https://www.milenio.com/estados/dengue-en-oaxaca-afecta-a-ninos-suman-tres-muertes-en-2025) (Milenio)
-
-- [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
-
-- [Alerta dengue: un médico reveló un método poco conocido para evitar contagios esta primavera](https://www.lanacion.com.ar/sociedad/alerta-dengue-un-medico-revelo-un-metodo-poco-conocido-para-evitar-contagios-esta-primavera-nid18092025/) (La Nacion)
-
-- [Chikungunya, dengue, West Nile : la France fait face à une vague virale record, tardive et inattendue !](https://www.futura-sciences.com/sante/actualites/epidemie-chikungunya-dengue-west-nile-france-fait-face-vague-virale-record-tardive-inattendue-125666/) (Futura)
-
-- [Recrudescence de cas de chikungunya et d'autres maladies transmises par les moustiques : restons vigilants, la saison n'est pas terminée !](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/recrudescence-de-cas-de-chikungunya-et-d-autres-maladies-transmises-par-les) (Gouv.fr)
-
-- [Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorités sanitaires](https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html) (Franceinfo.fr)
-
-- [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
-
-- [Novas estratégias ampliam combate à dengue, leishmaniose e Chagas](https://www.metropoles.com/saude/novas-estrategias-combate-dengue-chagas) (Metropoles.com)
-
-- [Baixa adesão à segunda dose de vacina da dengue preocupa especialistas](https://www.metropoles.com/saude/baixa-adesao-vacina-dengue-preocupa) (Metropoles.com)
-
-- [No hay repunte de casos por dengue, tormenta de polvo en Caborca y más en el Tribuna Top 3 Sonora](https://www.tribuna.com.mx/sonora/2025/9/17/no-hay-repunte-de-casos-por-dengue-tormenta-de-polvo-en-caborca-mas-en-el-tribuna-top-sonora-413721.html) (Tribuna.com.mx)
-
-- [No hay repunte de casos confirmados de dengue en Sonora: Secretaría de Salud](https://www.tribuna.com.mx/sonora/2025/9/17/no-hay-repunte-de-casos-confirmados-de-dengue-en-sonora-secretaria-de-salud-413757.html) (Tribuna.com.mx)
-
-- [Due nuovi casi di Dengue in Fvg, domani la disinfestazione](https://www.ansa.it/friuliveneziagiulia/notizie/2025/09/17/due-nuovi-casi-di-dengue-in-fvg-domani-la-disinfestazione_bfaf7eba-2ce3-4fdc-981f-f59f7c567dcd.html) (ANSA.it)
-
-- [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
-
-- [Cegah Penyakit DBD, Babinsa Koramil Bunut Hulu Dampingi Kegiatan Fogging di Wilayah Binaan](https://kalbaronline.com/2025/09/16/cegah-penyakit-dbd-babinsa-koramil-bunut-hulu-dampingi-kegiatan-fogging-di-wilayah-binaan/) (Kalbaronline.com)
-
-- [Dengue in impennata entro il 2050: quanto pesa il caldo globale](https://www.hdblog.it/green/articoli/n631711/dengue-caldo-clima-studio-pnas-2050/) (Hdblog.it)
-
-- [Caso sospetto di Dengue a Pavia, al via la disinfestazione](https://www.ansa.it/lombardia/notizie/2025/09/15/caso-sospetto-di-dengue-a-pavia-al-via-la-disinfestazione_27700fd3-42f3-442c-a6a0-380014028e05.html) (ANSA.it)
-
-- [How Melbourne mosquitoes are being used to fight dengue fever in Laos](https://www.abc.net.au/news/2025-09-16/melbourne-mosquitoes-fight-dengue-fever-laos-save-the-children/105773926) (ABC News (AU))
-
-- [Caso di Dengue a Perugia dopo viaggio in zona endemica](https://www.ansa.it/umbria/notizie/2025/09/15/caso-di-dengue-a-perugia-dopo-viaggio-in-zona-endemica_ece2a336-3fbe-4efd-b126-1e9cb4340c1f.html) (ANSA.it)
-
-- [239 new dengue cases in a week, total infections in reach 4,353](https://english.khabarhub.com/2025/15/496579/) (Khabarhub.com)
-
-- [Reportan 16 muertes a causa del dengue en una semana](https://www.excelsior.com.mx/nacional/reportan-16-a-causa-del-dengue-en-una-semana/1739500) (Excelsior.com.mx)
-
-## 25-38 (chikungunya)
-
-- [Chikungunya traz preocupações após uma década de presença no Brasil](https://www.infomoney.com.br/saude/chikungunya-traz-preocupacoes-apos-uma-decada-de-presenca-no-brasil/) (InfoMoney)
-
-- [(GIST OF SCIENCE REPORTER) ARBOVIRAL DISEASES](https://iasexamportal.com/the-gist/science-reporter-arboviral-diseases) (Iasexamportal.com)
-
-- [Infection au virus du chikungunya : des lâchers de moustiques plus ou moins efficaces](https://sante.ouest-france.fr/moustique/infection-au-virus-du-chikungunya-des-lachers-de-moustiques-plus-ou-moins-efficaces-eabae24a-9537-11f0-aae5-c246857d365e) (Ouest-France)
-
-- [Contagi circoscritti nel veronese per virus Chikungunya](https://www.ansa.it/veneto/notizie/2025/09/19/contagi-circoscritti-nel-veronese-per-virus-chikungunya_952738e2-57b1-49d0-bb24-53eaa7ab6748.html) (ANSA.it)
-
-- [Chikungunya­virus jyllää Euroopassa – tämä epidemiasta tiedetään](https://www.is.fi/ulkomaat/art-2000011501999.html) (Www.is.fi)
-
-- [Chikungunya : une troisième commune concernée par un cas autochtone près de Grenoble](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/chikungunya-une-troisieme-commune-concernee-par-un-cas-autochtone-pres-de-grenoble-3219167.html) (Franceinfo.fr)
-
-- [Climate change, urbanisation and transmission potential: Aedes aegypti mosquito projections forecast future arboviral disease hotspots in Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013415) (Plos.org)
-
-- [Chikungunya, dengue, West Nile : la France fait face à une vague virale record, tardive et inattendue !](https://www.futura-sciences.com/sante/actualites/epidemie-chikungunya-dengue-west-nile-france-fait-face-vague-virale-record-tardive-inattendue-125666/) (Futura)
-
-- [Chikungunya : les cas autochtones en forte augmentation en France métropolitaine](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-les-cas-autochtones-en-forte-augmentation-en-france-metropolitaine-9384c5c2-9474-11f0-8aaf-26b4770f0f96) (Ouest-France)
-
-- [Recrudescence de cas de chikungunya et d'autres maladies transmises par les moustiques : restons vigilants, la saison n'est pas terminée !](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/recrudescence-de-cas-de-chikungunya-et-d-autres-maladies-transmises-par-les) (Gouv.fr)
-
-- [Les contaminations par le chikungunya grimpent encore dans l'Hexagone, la vigilance reste de mise, alertent les autorités sanitaires](https://www.franceinfo.fr/sante/maladie/chikungunya/les-contaminations-par-le-chikungunya-grimpent-encore-dans-l-hexagone-la-vigilance-reste-de-mise-alertent-les-autorites-sanitaires_7499158.html) (Franceinfo.fr)
-
-- [Zaragoza vigila los peligros del mosquito tigre: "Aún no tenemos la enfermedad, pero sí el transmisor"](https://www.elespanol.com/aragon/actualidad/zaragoza/20250918/zaragoza-vigila-peligros-mosquito-tigre-no-enfermedad-transmisor/1003743929537_0.html) (Elespanol.com)
-
-- [Chikungunya : forte hausse des cas autochtones en métropole, Santé publique France appelle à la vigilance face aux moustiques tigres](https://www.lemonde.fr/planete/article/2025/09/17/chikungunya-forte-hausse-des-cas-autochtones-en-metropole-sante-publique-france-appelle-a-la-vigilance-face-aux-moustiques-tigres_6641594_3244.html) (Le Monde)
-
-- [Vorsicht, Infektionsgefahr!: Auswärtiges Amt warnt Italien-Urlauber vor Tigermücke](https://www.n-tv.de/wissen/Auswaertiges-Amt-warnt-Italien-Urlauber-vor-Tigermuecke-article26037642.html) (N-tv.de)
-
-- [Ikävä tauti leviää Italiassa – WHO varoittanut epidemiasta](https://www.iltalehti.fi/terveysuutiset/a/42a0c834-2902-48f3-9da6-2a0a2269d03e) (Iltalehti.fi)
-
-- [Chikungunya-Virus breitet sich in Norditalien und Südfrankreich aus](https://www.diepresse.com/20107069/chikungunya-virus-breitet-sich-in-norditalien-und-suedfrankreich-aus) (Diepresse.com)
-
-- [Flambée de chikungunya : «Les maladies liées au moustique tigre peuvent être graves et laisser des séquelles»](https://www.liberation.fr/societe/sante/flambee-de-chikungunya-les-maladies-liees-au-moustique-tigre-peuvent-etre-graves-et-laisser-des-sequelles-20250917_AU6NDOP2LZB73MCEIG6SKO63EE/) (Libération)
-
-- [Zwei Tote nach Schüssen in Wien • Kirk-Attentäter erstmals vor Gericht erschienen • Chikungunya-Virus breitet sich in Italien und Frankreich aus](https://www.diepresse.com/20107050/zwei-tote-nach-schuessen-in-wien-kirk-attentaeter-erstmals-vor-gericht-erschienen-chikungunya-virus-breitet-sich-in-italien-und-frankreich-aus) (Diepresse.com)
-
-- [Chikungunya-Virus breitet sich in Norditalien aus](https://orf.at/stories/3405675/) (Orf.at)
-
-- [Virus leviää Italiassa – tapahtumia peruttu](https://www.is.fi/ulkomaat/art-2000011499044.html) (Www.is.fi)
-
-- [«On est comme les pompiers» : à Nice, une opération antimoustiques pour prévenir l’explosion de cas chikungunya](https://www.liberation.fr/societe/sante/on-est-comme-les-pompiers-a-nice-une-operation-antimoustiques-pour-prevenir-lexplosion-de-cas-chikungunya-20250916_GESPRD6VPZHV3IIKUUJFF3XGEA/) (Libération)
-
-- [Chikungunya-Virus: Auswärtiges Amt warnt Italien-Urlauber](https://www.morgenpost.de/panorama/article409578768/chikungunya-virus-who-italien-urlauber-impfung-symptome-schutz-muecken.html) (Berliner Morgenpost)
-
-- [Auswärtiges Amt warnt – Chikungunya-Ausbruch in Italien](https://www.chip.de/news/gesundheit/auswaertiges-amt-warnt-chikungunya-ausbruch-in-italien_b90883fc-bdad-45b7-96a5-fb8d6d5abd98.html) (CHIP Online Deutschland)
-
-- [Chikungunya-Fieber: Auswärtiges Amt warnt Italien-Urlauber vor Tigermücken](https://www.tagesspiegel.de/gesundheit/chikungunya-fieber-auswartiges-amt-warnt-italien-urlauber-vor-tigermucken-14204129.html) (Der Tagesspiegel)
-
-- [Reisehinweis vom Auswärtigen Amt: Tropenkrankheit in Teilen Italiens](https://www.urlaubspiraten.de/reise-journal/de-reisehinweis-vom-auswaertigen-amt-tropenkrankheit-in-teilen-italiens) (Urlaubspiraten.de)
-
-- [Italien ringt mit Chikungunya-Ausbruch und setzt auf drastische Maßnahmen zur Eindämmung](https://www.focus.de/gesundheit/italien-ringt-mit-chikungunya-ausbruch-und-setzt-auf-drastische-massnahmen-zur-eindaemmung_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
-
-- [Italien kämpft mit Chikungunya-Ausbrüchen und setzt auf drastische Maßnahmen zur Eindämmung](https://www.focus.de/gesundheit/italien-kaempft-mit-chikungunya-ausbruechen-und-setzt-auf-drastische-massnahmen-zur-eindaemmung_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
-
-- [Italien kämpft mit Chikungunya-Ausbrüchen und setzt auf drastische Maßnahmen](https://www.focus.de/gesundheit/italien-kaempft-mit-chikungunya-ausbruechen-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
-
-- [Italien kämpft mit Virusausbrüchen und setzt auf drastische Maßnahmen](https://www.focus.de/gesundheit/italien-kaempft-mit-virusausbruechen-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
-
-- [Italien kämpft mit dem Chikungunya-Virus und setzt auf drastische Maßnahmen](https://www.focus.de/gesundheit/italien-kaempft-mit-dem-chikungunya-virus-und-setzt-auf-drastische-massnahmen_4c9f1641-a3f5-4f54-973a-0070730bb495.html) (Focus)
-
-- [Auswärtiges Amt warnt Urlauber - Tropen-Seuche breitet sich in Norditalien aus](https://www.bild.de/leben-wissen/medizin/auswaertiges-amt-warnt-urlauber-tropen-seuche-breitet-sich-in-norditalien-aus-68c8fc17bc538c447095df7d) (Bild)
-
-- [Francia e Italia registran un aumento semanal de casos del virus del chikungunya](https://www.infosalus.com/salud-investigacion/noticia-francia-italia-registran-aumento-semanal-casos-virus-chikungunya-20250915184040.html) (Infosalus.com)
-
-- [Chikungunya virus in Thailand (2020–2023): Epidemiology, clinical features, and genomic insights](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013548) (Plos.org)
-
-- [Virus chikungunya, allerta nel Veronese](https://www.ilgiornale.it/news/politica/gi-46-contagiati-disinfestazioni-2536361.html) (Ilgiornale.it)
