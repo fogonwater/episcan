@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-11-02 19:05",
-  "count_articles_total": 781,
-  "count_articles_new": 9,
+  "last_updated": "2025-11-03 07:08",
+  "count_articles_total": 790,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 25470,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "D\u0131\u015f Haberler",
+      "title": "Avrupa\u2019dan Afrika\u2019ya sessizce yay\u0131l\u0131yor! 'Her 100 ki\u015fiden birini \u00f6ld\u00fcrebilir'",
+      "description": "Yeni mpox (maymun \u00e7i\u00e7e\u011fi) varyant\u0131, Avrupa\u2019dan Afrika\u2019ya h\u0131zla yay\u0131l\u0131rken k\u00fcresel endi\u015fe art\u0131yor. Sa\u011fl\u0131k kurumlar\u0131, Clade 1b ad\u0131 verilen mutasyonun 2022\u2019deki salg\u0131n t\u00fcr\u00fcnden daha tehlikeli oldu\u011funu ve her 100 vakadan birinin \u00f6l\u00fcmle sonu\u00e7lanabilece\u011fini a\u00e7\u0131klad\u2026",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-11/02/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-17620689057667.jpg",
+      "publishedAt": "2025-11-02 07:05:44",
+      "content": "",
+      "retrievedAt": "2025-11-03 07:08:09.668017",
+      "internal_id": "f0c2076a615980ff3cf314247c87825af1fdf18fb16f9c5a90e913588aa084cd",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25469,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "RNZ",
+      "author": "Rnz News",
+      "title": "Measles case total rises to 17 as another found in Auckland - Health NZ",
+      "description": "The latest Auckland case is linked to a previous overseas-acquired case, Health NZ says.",
+      "url": "https://www.rnz.co.nz/news/national/577564/measles-case-total-rises-to-17-as-another-found-in-auckland-health-nz",
+      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--yTAvb-9g--/t_tohu-badge-facebook/v1674704158/4LEKJC3_MMRvaccineTOMLEESTUFF_jpg?_a=BACCd2AD",
+      "publishedAt": "2025-11-02 05:00:48",
+      "content": "About 117,000 MMR vaccines are in storage, with another 28,000 on the way. Photo: Tom Lee / Stuff Another measles case has been detected, taking the total number of currently known cases nationally \u2026 [+2220 chars]",
+      "retrievedAt": "2025-11-03 07:08:07.446393",
+      "internal_id": "6676f0e42e1e6a740687f607c6e080177d56e30527080e6790b0d59920e6a3b8",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25468,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jaime Lyth, Vaimoana Mase",
+      "title": "Measles outbreak: One new infection in Auckland - linked to overseas travel case",
+      "description": "The number of measles cases has risen to 17, health authorities say.",
+      "url": "https://www.nzherald.co.nz/nz/measles-outbreak-one-new-infection-in-auckland-linked-to-overseas-travel-case/BJXLDCYFOJGE5FO56G3JWHDHQE/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QBEXLLFDLVFIFFPAOKWIYO24SQ.jpg?auth=af84edcd3d706c856f7d209f7c5245cc899e4c4fe4fdb290ff393c99ae033ab6&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 03:33:42",
+      "content": "The latest case means both Auckland and Wellington have the highest number of cases, with six each. Across the country, there are two cases in Manawat and one each in Northland and Taranaki. Healt\u2026 [+4572 chars]",
+      "retrievedAt": "2025-11-03 07:08:07.421147",
+      "internal_id": "9e4fd33b0cdac3b0018bc67cf8a6eb424bb77e0e443bb4b9aef488e0922d0697",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25467,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "RNZ",
+      "author": "RNZ",
+      "title": "Labour say David Seymour\u2019s media event where people getting measles test showed poor judgement",
+      "description": "Some close contacts at the school were already in quarantine.",
+      "url": "https://www.rnz.co.nz/news/political/577531/labour-say-david-seymour-s-media-event-where-people-getting-measles-test-showed-poor-judgement",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/ISN2HPUFR5G2NJZSLYBXMMHSEM.jpg?auth=d9909b2d3beb40f458f674415d661135b040f9e01dfde09722e84c63e19dd1b9&width=1200&height=675&quality=70&focal=736%2C604&smart=false",
+      "publishedAt": "2025-11-01 21:18:15",
+      "content": "People are in quarantine because theyre at risk of getting measles. Bringing new people in there heightens that risk of measles spread, she said. She said ministers should show leadership. Its fine\u2026 [+917 chars]",
+      "retrievedAt": "2025-11-03 07:08:07.385405",
+      "internal_id": "c02eb337aeae39cdb3bcce7f39bbb4eb91ea52655cfbf0c89c2d7af84f185e06",
+      "publishedAtLabel": "Nov 1"
+    },
     {
       "id": 25465,
       "query": [
@@ -14108,6 +14180,96 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24672,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
+      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
+      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
+      "publishedAt": "2025-09-21 15:28:18",
+      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
+      "retrievedAt": "2025-09-22 19:06:06.495682",
+      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24676,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
+      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
+      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
+      "publishedAt": "2025-09-21 14:52:33",
+      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.238532",
+      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24674,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ay\u015fe \u00c7olpan Tan",
+      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
+      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
+      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
+      "publishedAt": "2025-09-21 13:47:00",
+      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.126872",
+      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24675,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
+      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
+      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
+      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
+      "publishedAt": "2025-09-21 11:09:40",
+      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.198332",
+      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "IANS",
+      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
+      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-21 07:15:32",
+      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
+      "retrievedAt": "2025-09-22 19:06:06.957820",
+      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]
