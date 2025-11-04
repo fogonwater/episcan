@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-11-04 07:08
-- **Most recent article:** 2025-11-03 06:41:02
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-11-04 19:06
+- **Most recent article:** 2025-11-03 17:27:39
 
 ---
 
@@ -12,27 +12,33 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 4 | 193 |
-| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 2 | 140 |
-| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 2 | 108 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 1 | 103 |
-| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 3 | 100 |
-| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 3 | 61 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 6 | 195 |
+| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 4 | 141 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 4 | 106 |
+| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 2 | 105 |
+| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 5 | 101 |
+| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 4 | 62 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 0 | 47 |
 | zika | 6 | 5 | 7 | 1 | 3 | 5 | 0 | 27 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 0 | 13 |
 | hpai | 1 | 2 | 1 | 0 | 4 | 2 | 0 | 10 |
+| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 1 | 6 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 0 | 5 |
-| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-45 (yersinia)
+
+- [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
+
 ## 25-45 (mpox)
+
+- [Knowledge, attitudes, and practices toward Mpox among laboratory professionals in Zambia: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335365) (Plos.org)
 
 - [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
@@ -41,6 +47,10 @@ Source: [News API](https://newsapi.org/)
 - [Avrupa’dan Afrika’ya sessizce yayılıyor! 'Her 100 kişiden birini öldürebilir'](https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085) (Turkiyegazetesi.com.tr)
 
 ## 25-45 (measles)
+
+- [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
+
+- [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
 
 - [New Zealand measles outbreak: What it’s like when your child has measles - and a GP’s warning](https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/) (New Zealand Herald)
 
@@ -52,9 +62,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013677) (Plos.org)
+
+- [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
+
+- [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
+
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (h5n1)
+
+- [Bijna één miljoen vogels afgemaakt vanwege vogelgriep in Duitsland](https://www.nieuwsblad.be/buitenland/bijna-een-miljoen-vogels-afgemaakt-vanwege-vogelgriep-in-duitsland/102153010.html) (Nieuwsblad.be)
+
+- [Aragón detecta más de 500 aves afectadas por la gripe aviar, pero sin brotes en las granjas avícolas](https://www.eleconomista.es/retail-consumo/noticias/13625246/11/25/aragon-detecta-mas-de-500-aves-afectadas-por-la-gripe-aviar-pero-sin-brotes-en-las-granjas-avicolas.html) (Eleconomista.es)
 
 - [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.zeit.de/news/2025-11/02/gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt) (Die Zeit)
 
@@ -63,6 +83,10 @@ Source: [News API](https://newsapi.org/)
 - [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
 
 ## 25-45 (dengue)
+
+- [Socioeconomic markers of dengue mortality in the 100 Million Brazilian Cohort (2007–2018): A nationwide registry-based cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013660) (Plos.org)
+
+- [New Phase 3 Data Show Takeda’s Dengue Vaccine Delivers 7 Years of Sustained Protection Against Infection and Hospitalization](https://financialpost.com/pmn/business-wire-news-releases-pmn/new-phase-3-data-show-takedas-dengue-vaccine-delivers-7-years-of-sustained-protection-against-infection-and-hospitalization) (Financial Post)
 
 - [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
@@ -1812,8 +1836,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
-- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
-
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1849,8 +1871,6 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
-
-- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1893,9 +1913,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
-
-- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
-
-- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)

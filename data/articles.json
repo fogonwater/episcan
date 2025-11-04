@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-11-04 07:08",
-  "count_articles_total": 800,
-  "count_articles_new": 4,
+  "last_updated": "2025-11-04 19:06",
+  "count_articles_total": 806,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 25483,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "jvh",
+      "title": "Bijna \u00e9\u00e9n miljoen vogels afgemaakt vanwege vogelgriep in Duitsland",
+      "description": "In Duitsland zijn dit jaar al bijna een miljoen vogels afgemaakt vanwege de sterke opmars van de vogelgriep. Dat meldt het Friedrich Loefflerinstituut, dat in Duitsland bevoegd is voor dierengezondheid.",
+      "url": "https://www.nieuwsblad.be/buitenland/bijna-een-miljoen-vogels-afgemaakt-vanwege-vogelgriep-in-duitsland/102153010.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/ykyhpf-file83035ezf4d013vlegetr/alternates/SIXTEEN_NINE_1200/file83035ezf4d013vlegetr",
+      "publishedAt": "2025-11-03 17:27:39",
+      "content": "Het H5N1-virus, beter bekend als de vogelgriep, is sinds september aan een hevige opmars bezig in Duitsland. Reeds 66 houderijen werden getroffen, bijna een miljoen vogels werden gedood. Daarnaast we\u2026 [+489 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.069599",
+      "internal_id": "93102d42a008b15d8ff331fd2c529e97c84b2d9e192b0dc408db46d8beb0fdc8",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25484,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Eva Sereno",
+      "title": "Arag\u00f3n detecta m\u00e1s de 500 aves afectadas por la gripe aviar, pero sin brotes en las granjas av\u00edcolas",
+      "description": "Desde la detecci\u00f3n de grullas muertas -presentes en la comunidad aragonesa por los movimientos migratorios-, por la gripe aviar (virus H5N1, Arag\u00f3n ha detectado m\u00e1s de 500 animales muertos en el territorio, aunque no se han detectado brotes ni incidencia en l\u2026",
+      "url": "https://www.eleconomista.es/retail-consumo/noticias/13625246/11/25/aragon-detecta-mas-de-500-aves-afectadas-por-la-gripe-aviar-pero-sin-brotes-en-las-granjas-avicolas.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1920x1048/b/2/c/1200x655_EuropaPress_3555720_varias_gallinas_gallo.jpg",
+      "publishedAt": "2025-11-03 16:25:55",
+      "content": "Desde la detecci\u00f3n de grullas muertas -presentes en la comunidad aragonesa por los movimientos migratorios-, por la gripe aviar (virusH5N1, Arag\u00f3n ha detectado m\u00e1s de 500 animales muertos en el terri\u2026 [+5086 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.079511",
+      "internal_id": "070401dc83eeedbbed206a16b24e816e9e8e48d1f610f44ec2e6bbceb18f6635",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25486,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Luciana Lobato Cardim, Maria da Gl\u00f3ria Teixeira, Maria da Concei\u00e7\u00e3o N. Costa, Wema Meranda Mitka, Camila Silveira Silva Teixeira, Andreia C. Santos, Gervasio Santos, Andr\u00e9 Portela Fernandes de Souza, Liam Smeeth, Mauricio L. Barreto, Elizabeth B. Brickley, Enny S. Paixao, Julia M. Pescarini",
+      "title": "Socioeconomic markers of dengue mortality in the 100 Million Brazilian Cohort (2007\u20132018): A nationwide registry-based cohort study",
+      "description": "Author summary Dengue fever disproportionately affects individuals living in economically disadvantaged areas. Using socioeconomic data from the 100 Million Brazilian Cohort linked to compulsory notification records for dengue and death certificates, this stu\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013660",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013660.g002&size=inline",
+      "publishedAt": "2025-11-03 14:00:00",
+      "content": "Abstract Background People living in economically disadvantaged circumstances experience higher risks of infections and death from arboviruses. However, more evidence is needed to better understand\u2026 [+44454 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.396583",
+      "internal_id": "0383b79c662419502c16dc13d7afafd15812a6767ef8399736a75470bf8d503a",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25488,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marcia C. Castro, Nicholas J. Arisco, Cesar Guerreiro Diniz, Jamie Ponmattam, Cassio Peterka, Paulo Cesar Basta, Marcelo Urbano Ferreira",
+      "title": "Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land",
+      "description": "Author summary The expansion of illegal mining in the Brazilian Amazon, and particularly in indigenous lands, has produced severely negative environmental and health externalities. One major health concern is a rising malaria burden among indigenous populatio\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013677",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013677.g004&size=inline",
+      "publishedAt": "2025-11-03 14:00:00",
+      "content": "Citation: Castro MC, Arisco NJ, Diniz CG, Ponmattam J, Peterka C, Basta PC, et al. (2025) Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land. PLoS Negl Trop Dis 19(11): \u2026 [+55064 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.899897",
+      "internal_id": "c9591fdaf288f08babe130745758868c28912adb976c288903957808a5b3fde9",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25490,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "David Chisompola, John Nzobokela, Elijah Chinyante, Nanjela Chidima, Allen Chipipa, Charlotte Nyirenda, Edward Phiri, Lucky Kalyapu, Sepiso K. Masenga",
+      "title": "Knowledge, attitudes, and practices toward Mpox among laboratory professionals in Zambia: A cross-sectional study",
+      "description": "Introduction Monkeypox (Mpox), caused by the Mpox virus, is an emerging zoonotic disease of global public health significance. In Zambia, limited data exist on laboratory professionals\u2019 (LPs) preparedness to manage and prevent Mpox outbreaks. This study aimed\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335365",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335365.t003&size=inline",
+      "publishedAt": "2025-11-03 14:00:00",
+      "content": "Citation: Chisompola D, Nzobokela J, Chinyante E, Chidima N, Chipipa A, Nyirenda C, et al. (2025) Knowledge, attitudes, and practices toward Mpox among laboratory professionals in Zambia: A cross-sec\u2026 [+23673 chars]",
+      "retrievedAt": "2025-11-04 19:06:10.565292",
+      "internal_id": "0f31ffc85ca7e8b45935bfba1d280177dd9bf69e9d8818c68add120865967cfc",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25482,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, November 3, 2025",
+      "description": "",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-november-3-2025/",
+      "urlToImage": null,
+      "publishedAt": "2025-11-03 13:51:34",
+      "content": "All Of The Americas Might Lose Measles-Elimination Status This Week The hard-won status, which the Americas held for more than a quarter of a century, is on target to be lost because of a major outb\u2026 [+4608 chars]",
+      "retrievedAt": "2025-11-04 19:06:08.599697",
+      "internal_id": "e434ec5c033e40d85408aa9cacc73d5a8e8f411cd81225bf2bb8d83b77146c58",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Business Wire",
+      "title": "New Phase 3 Data Show Takeda\u2019s Dengue Vaccine Delivers 7 Years of Sustained Protection Against Infection and Hospitalization",
+      "description": "Findings Reinforce QDENGA\u2019s Long-Term Safety Profile and Two-Dose Vaccination Schedule QDENGA is the Longest-Studied Dengue Vaccine and the Only Approved for Use Regardless of Prior Disease Exposure Takeda is Expanding Global Access to QDENGA in Partnership w\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/new-phase-3-data-show-takedas-dengue-vaccine-delivers-7-years-of-sustained-protection-against-infection-and-hospitalization",
+      "urlToImage": null,
+      "publishedAt": "2025-11-03 12:09:49",
+      "content": "About QDENGA\u00ae (Dengue Tetravalent Vaccine [Live, Attenuated]) QDENGA\u00ae (TAK-003) is a dengue vaccine that is based on a live-attenuated dengue serotype 2 virus, which provides the genetic backbone fo\u2026 [+8494 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.386560",
+      "internal_id": "a3b326c1419454b101cde25d11d95157016bae1b44c10d75b1de62abc8c0c59b",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25489,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Tanahun Sees Second Malaria Case",
+      "description": "New Malaria Case Reported in Tanahun District, Nepal A second case of malaria has been identified in Tanahun District, Nepal. The Provincial Public Health Office in Tanahun confirmed that a 38-year-old man from Bhanu Municipality-11 has tested positive for th\u2026",
+      "url": "https://nep123.com/tanahun-sees-second-malaria-case/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "publishedAt": "2025-11-03 11:04:49",
+      "content": "New Malaria Case Reported in Tanahun District, Nepal A second case of malaria has been identified in Tanahun District, Nepal. The Provincial Public Health Office in Tanahun confirmed that a 38-year-\u2026 [+1250 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.934299",
+      "internal_id": "219f3e339d39967e10bac50f12454ab9dd898a6323706570763a1a9d34964b4a",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25487,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "snt-malaria-budgeting 0.3.0",
+      "description": "A Python library for calculating malaria intervention budgets",
+      "url": "https://pypi.org/project/snt-malaria-budgeting/0.3.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-11-03 08:48:12",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-11-04 19:06:09.889468",
+      "internal_id": "ebb743461c6183596d8a9904ff5f069f0a0b8eeb1bc56f218330ae6f32a9a799",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25491,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Slate.fr",
+      "author": "Laura Perren",
+      "title": "On pensait savoir quand avait eu lieu la premi\u00e8re \u00e9pid\u00e9mie de peste: on se trompait de plusieurs mill\u00e9naires",
+      "description": "L'analyse d'ADN ancien r\u00e9v\u00e8le la pr\u00e9sence de Yersinia pestis il y a 5.000 ans, remettant en cause la chronologie admise de l'\u00e9mergence de la maladie. Une d\u00e9couverte qui bouscule les th\u00e9ories sur l'origine de la peste et son impact sur les soci\u00e9t\u00e9s pr\u00e9historiq\u2026",
+      "url": "https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire",
+      "urlToImage": "https://www.slate.fr/uploads/store/story_271511/original_271511.jpg",
+      "publishedAt": "2025-11-03 07:25:01",
+      "content": "Les historiens des maladies font face \u00e0 un casse-t\u00eate. En examinant des \u00e9chantillons d'ADN humain ancien, ils ont d\u00e9couvert des g\u00e8nes appartenant \u00e0 la bact\u00e9rie responsable de la peste, Yersinia pesti\u2026 [+4855 chars]",
+      "retrievedAt": "2025-11-04 19:06:11.039474",
+      "internal_id": "525b79e8550af43fed3bf041ff11db120cefe7305d812263f64f65584d6853d3",
+      "publishedAtLabel": "Nov 3"
+    },
     {
       "id": 25480,
       "query": [
@@ -19,6 +199,24 @@
       "content": "\u00ab \u00bb , , . HIV AIDS (ONUSIDA , UNAIDS ) , AIDS , , , . \u00ab , , , , \u00bb, (. 7). \u00ab , , \u00bb. \u00ab -\u00bb COVID-19, AIDS, , mpox, \u00ab COVID-19 \u00bb. \u00ab 165 , \u00bb, . \u00ab, , \u00bb, . \u00ab \u00bb , . \u00ab \u00b7 \u00bb, . . \u00ab , , . \u00bb, . \u00ab \u00bb,\u2026 [+47 chars]",
       "retrievedAt": "2025-11-04 07:08:02.278141",
       "internal_id": "1c572f270ba1e434be06d0d21c3391f840000271b1c0f034fbee7252515c3fb0",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25481,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Stephanie Pappas",
+      "title": "Measles Elimination Status Threatened in U.S. and Canada",
+      "description": "A meeting of the Pan American Health Organization this week will address the resurgence of measles in the Americas",
+      "url": "https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/4f7fdbb18f90bc62/original/GettyImages-2242752228_resized.jpeg?m=1762203176.007&w=1200",
+      "publishedAt": "2025-11-03 05:00:00",
+      "content": "If current trends continue, North America could soon become a hotspot for permanent measles transmission. Canada could lose its measles-free designation this week, and the U.S. may not be far behind.\u2026 [+5581 chars]",
+      "retrievedAt": "2025-11-04 19:06:08.547724",
+      "internal_id": "28c26f70dd4836713b7bc0b4297cd858f9701344b85cee3cc77de6e08bdf7abb",
       "publishedAtLabel": "Nov 3"
     },
     {
@@ -14362,96 +14560,6 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24672,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": "Ag\u00eancia O Globo",
-      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
-      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
-      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
-      "publishedAt": "2025-09-21 15:28:18",
-      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
-      "retrievedAt": "2025-09-22 19:06:06.495682",
-      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24676,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet.com.tr",
-      "author": "hurriyet.com.tr",
-      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
-      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
-      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
-      "publishedAt": "2025-09-21 14:52:33",
-      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.238532",
-      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24674,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ay\u015fe \u00c7olpan Tan",
-      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
-      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
-      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
-      "publishedAt": "2025-09-21 13:47:00",
-      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.126872",
-      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24675,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
-      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
-      "publishedAt": "2025-09-21 11:09:40",
-      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.198332",
-      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24673,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "IANS",
-      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
-      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-21 07:15:32",
-      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
-      "retrievedAt": "2025-09-22 19:06:06.957820",
-      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]
