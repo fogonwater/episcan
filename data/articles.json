@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-11-03 19:06",
-  "count_articles_total": 791,
-  "count_articles_new": 6,
+  "last_updated": "2025-11-04 07:08",
+  "count_articles_total": 800,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 25480,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a6\u03b1\u03cd\u03bb\u03bf\u03c2 \u03ba\u03cd\u03ba\u03bb\u03bf\u03c2 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ce\u03bd \u03b1\u03bd\u03b9\u03c3\u03bf\u03c4\u03ae\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03cc\u03c4\u03b7\u03c4\u03b1 \u2013 \u03a4\u03b9 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03ad\u03ba\u03b8\u03b5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u039f\u0397\u0395",
+      "description": "\u039f\u03b9 \u03b1\u03bd\u03b9\u03c3\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u00ab\u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03b7 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03c0\u03bf\u03c5 \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03cc\u03bb\u03c9\u03bd \u03bc\u03b1\u03c2\u00bb, \u03c4\u03bf\u03bd\u03af\u03b6\u03bf\u03c5\u03bd \u03bf\u03b9 \u03c3\u03c5\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c2 - \u0388\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u00ab\u03c3\u03c0\u03ac\u03c3\u03b9\u03bc\u03bf\u00bb \u03c4\u03bf\u03c5 \u03ba\u03cd\u03ba\u03bb\u03bf\u03c5",
+      "url": "https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2023-09/ap-moro-afriki.jpg?itok=4gZEZcm0",
+      "publishedAt": "2025-11-03 06:41:02",
+      "content": "\u00ab \u00bb , , . HIV AIDS (ONUSIDA , UNAIDS ) , AIDS , , , . \u00ab , , , , \u00bb, (. 7). \u00ab , , \u00bb. \u00ab -\u00bb COVID-19, AIDS, , mpox, \u00ab COVID-19 \u00bb. \u00ab 165 , \u00bb, . \u00ab, , \u00bb, . \u00ab \u00bb , . \u00ab \u00b7 \u00bb, . . \u00ab , , . \u00bb, . \u00ab \u00bb,\u2026 [+47 chars]",
+      "retrievedAt": "2025-11-04 07:08:02.278141",
+      "internal_id": "1c572f270ba1e434be06d0d21c3391f840000271b1c0f034fbee7252515c3fb0",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 25477,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Neuer H5N1-Fall: Gefl\u00fcgelpest in Putenbetrieb in Friesoythe best\u00e4tigt",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eNeuer H5N1-Fall\u201c. Lesen Sie jetzt \u201eGefl\u00fcgelpest in Putenbetrieb in Friesoythe best\u00e4tigt\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/02/gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt",
+      "urlToImage": "https://img.zeit.de/news/2025-11/02/gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-image-group/wide__1300x731",
+      "publishedAt": "2025-11-02 21:15:00",
+      "content": "In einem Putenbetrieb in Friesoythe im Landkreis Cloppenburg ist die Gefl\u00fcgelpest nachgewiesen worden. Das Friedrich-Loeffler-Institut (FLI) habe den Befund best\u00e4tigt, teilte ein Sprecher des Landkre\u2026 [+634 chars]",
+      "retrievedAt": "2025-11-04 07:08:00.614249",
+      "internal_id": "4f9c868c8d75f638e12695536298cef0f8a8ab5a05bf25f5262b22f3d62a810f",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25478,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Neuer H5N1-Fall: Gefl\u00fcgelpest in Putenbetrieb in Friesoythe best\u00e4tigt",
+      "description": "Weiterer Fall der Gefl\u00fcgelpest im Landkreis Cloppenburg: In Friesoythe wurde ein Putenbestand mit dem Virus H5N1 infiziert. Tausende Tiere mussten get\u00f6tet werden.",
+      "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html",
+      "urlToImage": "https://image.stern.de/36182708/t/ds/v1/w1440/r1.7778/-/02--nxh6h7umcsv5axs2048jpeg---8ba61cdfde17d48a.jpg",
+      "publishedAt": "2025-11-02 21:15:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Weiterer Fall der Gefl\u00fcgelpest im Landkreis Cloppenburg: In Friesoythe wurde ein Putenbestand mit dem Virus H5N1 infiziert. Tausende Tiere musste\u2026 [+812 chars]",
+      "retrievedAt": "2025-11-04 07:08:00.643874",
+      "internal_id": "8352c9dd9451c09ae35c6f7363a3cbd623562ff377fae5c479d1b65f64cfae17",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25479,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Se confirman 992 nuevos casos de dengue en una semana",
+      "description": "Patricia Rodr\u00edguez Calva En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n de dengue por D\u00eda de Muertos L\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/02/3410203.jpg",
+      "publishedAt": "2025-11-02 20:35:23",
+      "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
+      "retrievedAt": "2025-11-04 07:08:00.903971",
+      "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
+      "publishedAtLabel": "Nov 2"
+    },
     {
       "id": 25472,
       "query": [
@@ -14290,6 +14362,96 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24672,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
+      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
+      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
+      "publishedAt": "2025-09-21 15:28:18",
+      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
+      "retrievedAt": "2025-09-22 19:06:06.495682",
+      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24676,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
+      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
+      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
+      "publishedAt": "2025-09-21 14:52:33",
+      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.238532",
+      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24674,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ay\u015fe \u00c7olpan Tan",
+      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
+      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
+      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
+      "publishedAt": "2025-09-21 13:47:00",
+      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.126872",
+      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24675,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
+      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
+      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
+      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
+      "publishedAt": "2025-09-21 11:09:40",
+      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.198332",
+      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "IANS",
+      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
+      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-21 07:15:32",
+      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
+      "retrievedAt": "2025-09-22 19:06:06.957820",
+      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-11-03 19:06
-- **Most recent article:** 2025-11-02 18:56:01
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-11-04 07:08
+- **Most recent article:** 2025-11-03 06:41:02
 
 ---
 
@@ -13,11 +13,11 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 34 | 31 | 29 | 35 | 25 | 35 | 4 | 193 |
-| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 1 | 138 |
-| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 2 | 105 |
+| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 2 | 140 |
+| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 2 | 108 |
 | malaria | 14 | 10 | 20 | 24 | 17 | 17 | 1 | 103 |
-| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 1 | 97 |
-| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 2 | 60 |
+| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 3 | 100 |
+| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 3 | 61 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 0 | 47 |
 | zika | 6 | 5 | 7 | 1 | 3 | 5 | 0 | 27 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-45 (mpox)
+
+- [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
 - [WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms) (The Times of India)
 
@@ -54,9 +56,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (h5n1)
 
+- [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.zeit.de/news/2025-11/02/gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt) (Die Zeit)
+
+- [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
+
 - [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
 
 ## 25-45 (dengue)
+
+- [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
@@ -1804,6 +1812,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
+- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
+
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1839,6 +1849,8 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
+
+- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1881,3 +1893,9 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
+
+- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
+
+- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
