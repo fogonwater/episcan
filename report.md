@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-11-04 19:06
-- **Most recent article:** 2025-11-03 17:27:39
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-11-05 07:07
+- **Most recent article:** 2025-11-04 06:00:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 6 | 195 |
-| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 4 | 141 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 8 | 197 |
+| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 6 | 144 |
+| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 2 | 108 |
 | malaria | 14 | 10 | 20 | 24 | 17 | 17 | 4 | 106 |
-| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 2 | 105 |
-| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 5 | 101 |
-| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 4 | 62 |
+| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 7 | 104 |
+| mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 0 | 47 |
-| zika | 6 | 5 | 7 | 1 | 3 | 5 | 0 | 27 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 2 | 29 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 0 | 13 |
@@ -32,11 +32,19 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-45 (zika)
+
+- [Valneva Reports Positive Results for Phase 1 Trial of Second-Generation Zika Vaccine Candidate](https://www.globenewswire.com/news-release/2025/11/04/3179950/0/en/Valneva-Reports-Positive-Results-for-Phase-1-Trial-of-Second-Generation-Zika-Vaccine-Candidate.html) (GlobeNewswire)
+
+- [Valneva annonce des résultats positifs de Phase 1 pour son candidat vaccin de deuxième génération contre le virus Zika](https://www.globenewswire.com/news-release/2025/11/04/3179950/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-1-pour-son-candidat-vaccin-de-deuxi%C3%A8me-g%C3%A9n%C3%A9ration-contre-le-virus-Zika.html) (GlobeNewswire)
+
 ## 25-45 (yersinia)
 
 - [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
 
 ## 25-45 (mpox)
+
+- [US vaccination rates show large state by state disparities](https://www.digitaljournal.com/life/us-vaccination-rates-show-large-state-by-state-disparities/article) (Digital Journal)
 
 - [Knowledge, attitudes, and practices toward Mpox among laboratory professionals in Zambia: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335365) (Plos.org)
 
@@ -47,6 +55,10 @@ Source: [News API](https://newsapi.org/)
 - [Avrupa’dan Afrika’ya sessizce yayılıyor! 'Her 100 kişiden birini öldürebilir'](https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085) (Turkiyegazetesi.com.tr)
 
 ## 25-45 (measles)
+
+- [Measles outbreak could go on for 40 weeks if contact tracing fails, Labour’s Ayesha Verrall says](https://www.nzherald.co.nz/nz/politics/measles-outbreak-could-go-on-for-40-weeks-if-contact-tracing-fails-labours-ayesha-verrall-says/BHHOLTV42ZC53KWI5IBFX7X6NM/) (New Zealand Herald)
+
+- [How misinformation endangers our progress against preventable diseases [PODCAST]](https://kevinmd.com/2025/11/how-misinformation-endangers-our-progress-against-preventable-diseases-podcast.html) (Kevinmd.com)
 
 - [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
 
@@ -72,6 +84,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (h5n1)
 
+- [A l'approche des fêtes de fin d'année, un virus suscite l'inquiétude en Allemagne: un risque “élevé” d’épidémie](https://www.lalibre.be/international/2025/11/04/a-lapproche-des-fetes-de-fin-dannee-un-virus-suscite-linquietude-en-allemagne-un-risque-eleve-depidemie-UF6XXCT32JBPJJGTMSQA2V3BPM/) (Lalibre.be)
+
+- [Bird flu virus found surviving in certain cheeses](https://newatlas.com/infectious-diseases/bird-flu-virus-cheese/) (New Atlas)
+
 - [Bijna één miljoen vogels afgemaakt vanwege vogelgriep in Duitsland](https://www.nieuwsblad.be/buitenland/bijna-een-miljoen-vogels-afgemaakt-vanwege-vogelgriep-in-duitsland/102153010.html) (Nieuwsblad.be)
 
 - [Aragón detecta más de 500 aves afectadas por la gripe aviar, pero sin brotes en las granjas avícolas](https://www.eleconomista.es/retail-consumo/noticias/13625246/11/25/aragon-detecta-mas-de-500-aves-afectadas-por-la-gripe-aviar-pero-sin-brotes-en-las-granjas-avicolas.html) (Eleconomista.es)
@@ -83,6 +99,10 @@ Source: [News API](https://newsapi.org/)
 - [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
 
 ## 25-45 (dengue)
+
+- [Vacina do Butantan contra a dengue será aprovada este ano, diz ministro](https://olhardigital.com.br/2025/11/03/medicina-e-saude/vacina-do-butantan-contra-a-dengue-sera-aprovada-este-ano-diz-ministro/) (Olhardigital.com.br)
+
+- [Takeda’s dengue vaccine shows long-lasting protection](https://www.japantimes.co.jp/business/2025/11/04/companies/takeda-dengue-vaccine/) (The Japan Times)
 
 - [Socioeconomic markers of dengue mortality in the 100 Million Brazilian Cohort (2007–2018): A nationwide registry-based cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013660) (Plos.org)
 
@@ -1836,6 +1856,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
+- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
+
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1871,6 +1893,8 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
+
+- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1913,3 +1937,9 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
+
+- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
+
+- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
