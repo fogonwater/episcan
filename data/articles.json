@@ -1,8 +1,372 @@
 {
-  "last_updated": "2025-11-05 07:07",
-  "count_articles_total": 820,
-  "count_articles_new": 9,
+  "last_updated": "2025-11-05 19:06",
+  "count_articles_total": 835,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 25502,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Winkler school latest measles exposure site in Manitoba",
+      "description": "An elementary and middle school in Winkler is the latest measles exposure site in southern Manitoba, health officials say.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposure-october-2025-winkler-9.6966373",
+      "urlToImage": "https://i.cbc.ca/ais/b36712e5-d158-481b-8d85-aca603a3eaa0,1760798743877/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3BResize%3D620",
+      "publishedAt": "2025-11-04 19:01:13",
+      "content": "An elementary and middle school in Winkler is the latest measles exposure site in southern Manitoba, health officials say. Manitoba Public Health says anyone who visited Emerado Centennial School be\u2026 [+1078 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.066590",
+      "internal_id": "a00df2ac5be29d67104c77aaabd0fa128cf94799b3bc4bae01b04e5ca25130a2",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25501,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "fox26houston.com",
+      "author": "Amber Kite",
+      "title": "Whooping cough cases soar in Texas, quadrupling last year's count",
+      "description": "Provisional data shows the state has recorded more than 3,500 whooping cough cases through October 2025. This marks the second year in a row that Texas has seen a high, year-over-year increase in the highly contagious bacterial infection, prompting DSHS to is\u2026",
+      "url": "https://www.fox26houston.com/news/whooping-cough-cases-soar-texas-quadrupling-last-years-count",
+      "urlToImage": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2025/11/1280/720/gettyimages-1215163061.jpg?ve=1&tl=1",
+      "publishedAt": "2025-11-04 18:11:17",
+      "content": "TEXAS - Texas is experiencing a significant surge in pertussis, or whooping cough, cases this year, with reported infections quadrupling the number seen during the same period last year, the Departme\u2026 [+1905 chars]",
+      "retrievedAt": "2025-11-05 19:06:38.550590",
+      "internal_id": "daf1240e242c11fd4a1ddde4acb0f783bbdcbcb45020751046474ee78bd5495b",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25507,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Ruokavirasto: Pieks\u00e4m\u00e4ell\u00e4 lopetetussa telk\u00e4ss\u00e4 oli lintuinfluenssa",
+      "description": "Lintu\u00adinfluenssan oireena on usein hermostollisia oireita kuten keh\u00e4nkiertoa, pakkoliikkeit\u00e4 ja yleist\u00e4 apaattisuutta.",
+      "url": "https://yle.fi/a/74-20192192",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_3108,h_1749/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1685346438/39-11210726474583d30388",
+      "publishedAt": "2025-11-04 18:10:50",
+      "content": "Pieks\u00e4m\u00e4ell\u00e4 sairauden takia lopetetusta telk\u00e4st\u00e4 on todettu H5N1-tyypin lintuinfluenssavirus, kertoo Ruokavirasto verkkosivuillaan tiistaina. Telk\u00e4ll\u00e4 oli ollut hermostoper\u00e4isi\u00e4 oireita, kuten p\u00e4\u00e4n\u2026 [+2357 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.622549",
+      "internal_id": "0ad81c1767f32b701546a467e37d1053686fd58427636fa4e60799c33f1f70be",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25510,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Campanha nacional de combate \u00e0s arboviroses \u00e9 lan\u00e7ada pelo Minist\u00e9rio da Sa\u00fade",
+      "description": "Dentre as medidas, est\u00e1 o uso do m\u00e9todo Wolbachia The post Campanha nacional de combate \u00e0s arboviroses \u00e9 lan\u00e7ada pelo Minist\u00e9rio da Sa\u00fade appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-11-04 17:52:43",
+      "content": "O Minist\u00e9rio da Sa\u00fade lan\u00e7ou nesta segunda-feira (3) a campanha nacional de combate \u00e0s arboviroses nomeada N\u00e3o d\u00ea chance para dengue, zika e chikungunya. A pasta anunciou que mais de R$ 183,5 milh\u00f5es\u2026 [+2062 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.024588",
+      "internal_id": "e02e8612362705620fd7c7ff3899700efc5c26898c8948571e19d04271f3ae0b",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25513,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isabella Fran\u00e7a",
+      "title": "Dengue: vacina Qdenga mant\u00e9m prote\u00e7\u00e3o por 7 anos, em novo estudo",
+      "description": "Estudo em fase 3 confirma que a vacina Qdenga mant\u00e9m efic\u00e1cia e seguran\u00e7a prolongadas contra quatro tipos do v\u00edrus da dengue",
+      "url": "https://www.metropoles.com/saude/vacina-dengue-protecao-7-anos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/04140558/denguee.jpg",
+      "publishedAt": "2025-11-04 17:28:59",
+      "content": "A farmac\u00eautica japonesa Takeda anunciou, na segunda-feira (3/11), os resultados finais de um estudo que acompanhou por sete anos a efic\u00e1cia de sua vacina contra a dengue, a Qdenga. Os dados mostram \u2026 [+5141 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.066430",
+      "internal_id": "df09225f1979c5165e9e10104fcac993d70d6d8d3f7cd16ee8e9e05d93c17d3d",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25520,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Daniel G\u00f3recki",
+      "title": "Wyj\u0105tkowy szkielet z Edynburga. \"DNA czarnej \u015bmierci sprzed 700 lat\"",
+      "description": "Naukowcy po raz pierwszy potwierdzili obecno\u015b\u0107 wywo\u0142uj\u0105cej d\u017cum\u0119 bakterii Yersinia pestis w szcz\u0105tkach znalezionych przy Katedrze \u015bw. Idziego w Edynburgu. Analiza DNA ujawnia, \u017ce zaraza, kt\u00f3ra zdziesi\u0105tkowa\u0142a Europ\u0119 w XIV wieku, nie omin\u0119\u0142a tak\u017ce stolicy Szko\u2026",
+      "url": "https://geekweek.interia.pl/historia/news-wyjatkowy-szkielet-z-edynburga-dna-czarnej-smierci-sprzed-70,nId,22450724",
+      "urlToImage": "https://i.iplsc.com/-/000JMK2K6LK2MY04-C461.jpg",
+      "publishedAt": "2025-11-04 16:43:37",
+      "content": "Czarna mier to jedna z najwikszych epidemii w dziejach, kt\u00f3ra w cigu kilku lat zabia nawet 60 proc. ludnoci \u00f3wczesnej Europy. Wybucha w Azji rodkowej, najpewniej w Chinach, skd przez jedwabny szlak d\u2026 [+3158 chars]",
+      "retrievedAt": "2025-11-05 19:06:41.901711",
+      "internal_id": "3eafaf39b85bfcd1172c5b95b2695d04de4a8e6cfa61413dcf55276e1c7d838c",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25503,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "NZ Herald",
+      "title": "Letters: People need to take threat of measles seriously",
+      "description": "OPINION: Getting the message out about immunisation.",
+      "url": "https://www.nzherald.co.nz/nz/letters-people-need-to-take-threat-of-measles-seriously/2TAE4IXPQZB65EVIPNHQ2DYNMU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/OYJIVA74A5CB7DMMQ6ELKBL4SQ.jpg?auth=57b3c402910755a8e4600806db75c9d6d0b772bfaf9811309b3b86849973e668&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-04 16:00:00",
+      "content": "Mary Hearn, Glendowie. Think of the cyclists As an enthusiastic supporter and frequent user of cycle lanes, I sometimes wonder whether the AT folks who plan and design them actually hate cyclists. \u2026 [+3734 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.106352",
+      "internal_id": "a57589998206c9792f0e1571db030d95643198a1180669b859d83f8819adf024",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25516,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dhika Juliana Sukmana, Tri Nury Kridaningsih, Hartalina Mufidah, Enny Kenangalem, Faustina Helena Burdam, Tri Nugraha Susilawati, Jeanne Rini Poespoprodjo, E. Elsa Herdiana Murhandarwati",
+      "title": "Molecular diagnosis of Trichuris trichiura: Prevalence and associated risk factors in children under five living in a malaria-endemic area in Papua, Indonesia",
+      "description": "Background Trichuris trichiura, a soil-transmitted helminth (STH), infection is highly prevalent in children and, if not treated, can cause adverse health consequences. Microscopy using the Kato-Katz method is the mainstay of STH diagnosis in most settings bu\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335643",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335643.g001&size=inline",
+      "publishedAt": "2025-11-04 14:00:00",
+      "content": "Citation: Sukmana DJ, Kridaningsih TN, Mufidah H, Kenangalem E, Burdam FH, Susilawati TN, et al. (2025) Molecular diagnosis of Trichuris trichiura: Prevalence and associated risk factors in children \u2026 [+21983 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.600521",
+      "internal_id": "c33c60e2236acbc733f663bc1d8994538aec883d6aa7bfe23a547777b0f716db",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25518,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tetsuya Kakita, Claudia Toma, Isabel Sebasti\u00e1n, Hunter Barbee, Tetsu Yamashiro",
+      "title": "Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan",
+      "description": "Author summary Leptospirosis is a bacterial infection common in tropical and subtropical areas, including Okinawa, Japan. Pathogenic Leptospira colonize animal kidneys and are released in urine. In humans, colonization sometimes causes kidney failure. This st\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013693.g006&size=inline",
+      "publishedAt": "2025-11-04 14:00:00",
+      "content": "Citation: Kakita T, Toma C, Sebasti\u00e1n I, Barbee H, Yamashiro T (2025) Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japa\u2026 [+41250 chars]",
+      "retrievedAt": "2025-11-05 19:06:41.608005",
+      "internal_id": "d272e254942ecaeef44d8f9cbea1b9bb0efd33e30cc340059c83c2784b90e043",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25512,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Dengue: vacina do Butantan deve ser aprovada pela Anvisa at\u00e9 dezembro",
+      "description": "Ministro afirma que Anvisa est\u00e1 na fase final de an\u00e1lise e prev\u00ea in\u00edcio da aplica\u00e7\u00e3o em 2026 com produ\u00e7\u00e3o de 40 milh\u00f5es de doses",
+      "url": "https://www.metropoles.com/saude/vacina-dengue-butantan-ate-dezembro",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/04101131/dengue-9.jpg",
+      "publishedAt": "2025-11-04 13:35:35",
+      "content": "O ministro da Sa\u00fade, Alexandre Padilha, afirmou nessa segunda-feira (3/11) que a vacina contra a dengue desenvolvida pelo Instituto Butantan deve ser aprovada pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sani\u2026 [+6109 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.049968",
+      "internal_id": "3d89473113d620b080e44c5190829c872a3ca014658229c5374f905effe8a8ae",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25511,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. L'Europe investit 20 millions d'euros pour des nouveaux traitements contre la dengue",
+      "description": "En plus de l'\u00e9valuation d'un nouvel anticorps appel\u00e9 Dengushield, un essai clinique d'un autre m\u00e9dicament est pr\u00e9vu pour ao\u00fbt 2026.",
+      "url": "https://www.ledauphine.com/sante/2025/11/04/l-europe-investit-20-millions-d-euros-pour-des-nouveaux-traitements-contre-la-dengue",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/E3274E1A-C8F0-457D-8D9A-AD8E7B0E119C/FB1200/photo-1762259270.jpg",
+      "publishedAt": "2025-11-04 12:45:00",
+      "content": "La Commission europ\u00e9enne a annonc\u00e9 mardi un investissement de 20 millions d'euros pour financer le d\u00e9veloppement d\u2019au moins deux nouveaux m\u00e9dicaments contre la dengue, une maladie transmise aux humai\u2026 [+2483 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.041232",
+      "internal_id": "55899c9d07ac7f70a29b781d46a51110d512c86d243f50adb77b3f64ace1c7ae",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25517,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0391\u03c1\u03bc\u03ac\u03bf\u03c2",
+      "title": "\u039f \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc \u03c7\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac \u039a\u03ac\u03c1\u03bf\u03bb\u03bf",
+      "description": "\u039f \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc \u03ad\u03bb\u03b1\u03b2\u03b5 \u03c4\u03b7\u03bd \u03cd\u03c8\u03b9\u03c3\u03c4\u03b7 \u03c4\u03b9\u03bc\u03ae \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac \u039a\u03ac\u03c1\u03bf\u03bb\u03bf \u0393\u2019. \u039f 50\u03c7\u03c1\u03bf\u03bd\u03bf\u03c2 \u03c0\u03c1\u03ce\u03b7\u03bd \u03c0\u03bf\u03b4\u03bf\u03c3\u03c6\u03b1\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03bd\u03c5\u03bd \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03b1\u03c4\u03af\u03b1\u03c2 \u03c7\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u039f \u039d\u03c4\u03ad\u03b9\u03b2\u03b9\u03bd\u03c4 \u039c\u03c0\u03ad\u03ba\u03b1\u03bc \u03c7\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b9\u03c0\u03c0\u03cc\u03c4\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac \u039a\u03ac\u03c1\u03bf\u03bb\u03bf \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf NewsIT .",
+      "url": "https://www.newsit.gr/athlitika/o-nteivint-mpekam-xristike-ippotis-apo-ton-vasilia-karolo/4517662/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/11/sir-david-becham-1200x630.jpg",
+      "publishedAt": "2025-11-04 12:11:02",
+      "content": "\u2019. 50 . , , 2013, , Spice Girl, . 50 , , . UNICEF \u00abMalaria No More\u00bb, . 2024, (\u00ab )\u00bb. . 2011, 2018.",
+      "retrievedAt": "2025-11-05 19:06:40.610574",
+      "internal_id": "984d5542c557aab9e36df23e8f801f527d1ec288a21c983567beae24fd3b46b4",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25514,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Jorge Salazar",
+      "title": "La mejor vacuna contra el dengue en Ciudad Obreg\u00f3n es la descacharrizaci\u00f3n, dicen autoridades",
+      "description": "Autoridades de Ciudad Obreg\u00f3n instan a la poblaci\u00f3n a mantener sus hogares libres de cacharros, apoyar la recolecci\u00f3n de basura y acudir a unidades m\u00e9dicas ante los primeros s\u00edntomas del dengue",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/4/f1280x720-476407_608082_5050.jpg",
+      "publishedAt": "2025-11-04 12:00:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- La Direcci\u00f3n de Salud Municipal dio a conocer que la mejor vacuna contra el mosquito transmisor del dengue, zika y chikungunya, enfermedades de transmisi\u00f3n por vectores, es e\u2026 [+1867 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.075256",
+      "internal_id": "bc2c5d0e71f2dbe0c442a10179bbab85f04a56cbb4f73997e12a51bfdc952782",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25504,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Gripe avi\u00e1ria: v\u00edrus consegue sobreviver em queijos, diz estudo",
+      "description": "Pesquisadores identificaram que o v\u00edrus H5N1 sobreviveu por at\u00e9 oito semanas em determinados produtos feitos a partir de leite cru O post Gripe avi\u00e1ria: v\u00edrus consegue sobreviver em queijos, diz estudo apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/11/04/medicina-e-saude/gripe-aviaria-virus-consegue-sobreviver-em-queijos-diz-estudo/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/07/gripe_aviaria.jpg",
+      "publishedAt": "2025-11-04 11:56:53",
+      "content": "A gripe avi\u00e1ria, causada pelo v\u00edrus H5N1, tem sido motivo de preocupa\u00e7\u00e3o global devido ao seu impacto na sa\u00fade dos animais. O avan\u00e7o da doen\u00e7a para outras esp\u00e9cies, caso de mam\u00edferos, tamb\u00e9m pode ind\u2026 [+1952 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.579856",
+      "internal_id": "f324f9ea61b255aead26693ffec64b2a5a7687c5ad9fa9ac329f462c18f5406f",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25509,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Dengue : 20 millions d\u2019euros investis par l\u2019UE pour le d\u00e9veloppement de nouveaux m\u00e9dicaments",
+      "description": "La Commission europ\u00e9enne a annonc\u00e9, mardi 4 novembre, un investissement de 20 millions d\u2019euros pour le d\u00e9veloppement d\u2019au moins deux nouveaux m\u00e9dicaments contre la dengue. Ce virus, transmis par le moustique tigre, est d\u00e9sormais pr\u00e9sent dans de nombreux pays \u2026",
+      "url": "https://sante.ouest-france.fr/maladies/dengue/dengue-20-millions-deuros-investis-par-lue-pour-le-developpement-de-nouveaux-medicaments-71889428-b970-11f0-a456-5b350733c580",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTExYzM3Y2RhZGRhYTg3ODY0YjMzYTgxNDg4MTNlN2I3ZDU?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8e37509a251faab07ef49b8afc1451280f3ebadad2f93f137524a8dce4222051",
+      "publishedAt": "2025-11-04 11:40:33",
+      "content": "La Commission europ\u00e9enne a annonc\u00e9 mardi 4 novembre 2025 un investissement de 20 millions deuros pour financer le d\u00e9veloppement dau moins deux nouveaux m\u00e9dicaments contre la dengue, une maladie trans\u2026 [+2460 chars]",
+      "retrievedAt": "2025-11-05 19:06:40.006507",
+      "internal_id": "b4ddd2abee8863334354f17c090f967a487a32abfd7b84a695900166e27d7b88",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25505,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Vogelgrippe: Eichsfeld reagiert mit strengen Regeln",
+      "description": "Nach mehreren H5N1-F\u00e4llen greift der Landkreis Eichsfeld zu strengen Ma\u00dfnahmen, um eine weitere Verbreitung des Virus zu erschweren. Was auf Halter von Gefl\u00fcgel und anderen V\u00f6geln nun zukommt.",
+      "url": "https://www.stern.de/gesellschaft/regional/thueringen/krankheiten--vogelgrippe--eichsfeld-reagiert-mit-strengen-regeln-36187340.html",
+      "urlToImage": "https://image.stern.de/36187342/t/dT/v1/w1440/r1.7778/-/04--4r6pn4ubvcv8axs2048jpeg---f89be2d8682f50cb.jpg",
+      "publishedAt": "2025-11-04 11:16:47",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Nach mehreren H5N1-F\u00e4llen greift der Landkreis Eichsfeld zu strengen Ma\u00dfnahmen, um eine weitere Verbreitung des Virus zu erschweren. Was auf Halt\u2026 [+1364 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.588761",
+      "internal_id": "4564c456b270479417ea1ce43b27455619fae69ca2b3c5bb4ffa7693ee67ba6c",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25508,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "H5N1-Pandemie bei Menschen \u201eunwahrscheinlich\u201c",
+      "description": "Seit Anfang der Woche gilt f\u00fcr ganz \u00d6sterreich \u201eerh\u00f6htes Risiko\u201c bez\u00fcglich der Vogelgrippe. Eine \u201eunmittelbar bevorstehende Pandemie\u201c unter Menschen sei aber derzeit \u201eunwahrscheinlich\u201c, sagte der Virologe Florian Krammer im Rahmen einer Fachtagung der Agentur\u2026",
+      "url": "https://science.orf.at/stories/3232762/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2023%2F18%2F22%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1778308_master_660722_1778210_opener_660682_coronavirus_who_ende_notstand_a.jpg%3Fs%3D13551242aa80b04e975f5835f9544cee9f9d79a3",
+      "publishedAt": "2025-11-04 10:45:58",
+      "content": "Das hochpathogene H5N1-Grippevirus hat mittlerweile weltweit enormen \u00f6kologischen und \u00f6konomischen Schaden angerichtet. Das Virus, das vor allem unter Wildtieren und seit einiger Zeit auch unter Nutz\u2026 [+2829 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.632714",
+      "internal_id": "3910299e6d47915edab77b060f29fc5af01f05026f416dbeb8f93ed01b06c944",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25506,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Thomas Reichel",
+      "title": "Statistiker zu H5N1 - Wie gef\u00e4hrlich ist die Vogelgrippe f\u00fcr Menschen?",
+      "description": "Die Vogelgrippe H5N1 w\u00fctet unter Wild- und Nutzv\u00f6geln. Der Herbst bringt Zugv\u00f6gel \u2013 und mit ihnen das Virus. Steigt damit auch die Gefahr f\u00fcr Menschen?",
+      "url": "https://www.bild.de/leben-wissen/medizin/statistiker-zu-h5n1-so-gefaehrlich-ist-die-vogelgrippe-fuer-menschen-690883bb73566d3912c08d03",
+      "urlToImage": "https://images.bild.de/690883bb73566d3912c08d03/49392542a687c73694d2712ce1b5e3f9,c660b9fb?w=1280",
+      "publishedAt": "2025-11-04 10:35:52",
+      "content": "Die Vogelgrippe H5N1 w\u00fctet unter Wild- und Nutzv\u00f6geln. Der Herbst bringt Zugv\u00f6gel und mit ihnen das Virus. Besonders betroffen: Norddeutschland, Brandenburg und Mecklenburg-Vorpommern. Dort mussten\u2026 [+218 chars]",
+      "retrievedAt": "2025-11-05 19:06:39.598002",
+      "internal_id": "ea1b8d2a0dbfa286f97aa71d240aade8b1944276c58f85b95e2d4b4b0050e454",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25515,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Moneycontrol Hindi",
+      "title": "Dengue in Delhi: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0915\u0939\u0930! \u0926\u094b \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924! 1,136 \u092e\u093e\u092e\u0932\u0947 \u0926\u0930\u094d\u091c, \u091c\u093e\u0928\u0947\u0902- \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935",
+      "description": "Dengue in Delhi: \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0948\u0938\u0940 \u092e\u094c\u0938\u092e\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u0915\u093e \u0916\u0924\u0930\u093e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0924\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u0926\u093f\u0932\u094d\u0932\u0940 \u0928\u0917\u0930 \u0928\u093f\u0917\u092e (MCD) \u0915\u0940 \u0924\u0930\u092b \u0938\u0947 \u091c\u093e\u0930\u0940 \u0932\u0947\u091f\u0947\u0938\u094d\u091f \u0930\u093f\u092a\u094b\u0930\u094d\u091f\u094b\u0902 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930, \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0928\u0947 \u090f\u0915 \u092c\u093e\u0930 \u092b\u093f\u0930 \u092d\u092f\u093e\u0935\u0939 \u0930\u0942\u092a \u0932\u0947 \u0932\u093f\u092f\u093e \u0939\u0948\u0964 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u0926\u094b\u2026",
+      "url": "https://hindi.moneycontrol.com/india/dengue-in-delhi-two-people-have-died-and-1136-cases-have-been-reported-symptoms-and-prevention-article-2255570.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2025/07/dengue..jpg",
+      "publishedAt": "2025-11-04 10:08:16",
+      "content": "Dengue in Delhi: (MCD) , MCD (4 ) 2025 1,136 208 (25 ) 307 72 (AAP) , AAP , BJP , 10 10 , , , MCD , , , , (WHO) , , - Bihar Election: ' '; FIR, ,",
+      "retrievedAt": "2025-11-05 19:06:40.107457",
+      "internal_id": "9bd54c09ac8bfbf0f70fe2460c895cbe1aab2955fbf4e90c9d22e0290382491f",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 25519,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Onliner.by",
+      "author": "Onliner",
+      "title": "\u0412 \u042d\u0434\u0438\u043d\u0431\u0443\u0440\u0433\u0435 \u043d\u0430\u0448\u043b\u0438 \u043f\u0435\u0440\u0432\u043e\u0435 \u043d\u0430\u0443\u0447\u043d\u043e\u0435 \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438",
+      "description": "\u041e\u0441\u0442\u0430\u043d\u043a\u0438 \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u0430, \u0443\u043c\u0435\u0440\u0448\u0435\u0433\u043e \u0432 \u0447\u0435\u0442\u044b\u0440\u043d\u0430\u0434\u0446\u0430\u0442\u043e\u043c \u0432\u0435\u043a\u0435, \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0432 1981 \u0433\u043e\u0434\u0443 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0441\u043e\u0431\u043e\u0440\u0430 \u0421\u0432\u044f\u0442\u043e\u0433\u043e \u0414\u0436\u0430\u0439\u043b\u0441\u0430. \u0421\u0435\u0439\u0447\u0430\u0441 \u0438\u0445 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0440\u0430\u0434\u0438\u043e\u0443\u0433\u043b\u0435\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0434\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0441\u0435\u043a\u0432\u0435\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u0440\u0435\u0432\u043d\u0435\u0439 \u0414\u041d\u041a, \u0438\u0437\u043e\u0442\u043e\u043f\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0438 \u043d\u0430\u0448\u043b\u0438 \u0432 \u0437\u0443\u0431\u043d\u043e\u043c \u043d\u0430\u043b\u0435\u0442\u0435 \u0440\u0435\u0431\u0435\u043d\u043a\u0430 \u0432\u043e\u2026",
+      "url": "https://tech.onliner.by/2025/11/04/v-edinburge-nashli-pervoe-nauchnoe-dokazatelstvo-chernoj-smerti",
+      "urlToImage": "https://content.onliner.by/news/default/39798a81c0f215dbb03d7ef0087bd04c.jpg",
+      "publishedAt": "2025-11-04 07:45:48",
+      "content": ", , 1981 . , , . 115 , 45 . : 100 . , , , , , \u00ab \u00bb, , : , , . , , , , . , . , , , . , , Yersinia pestis. , \u00ab\u00bb. \u00ab \u00bb - , - . , 50 . ? -.",
+      "retrievedAt": "2025-11-05 19:06:41.891866",
+      "internal_id": "ab119ca2024c318a6a92535e0fb7d468ca9342f9358e2b4578cb8e5cbbac5c2f",
+      "publishedAtLabel": "Nov 4"
+    },
     {
       "id": 25498,
       "query": [
@@ -14722,96 +15086,6 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24672,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": "Ag\u00eancia O Globo",
-      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
-      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
-      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
-      "publishedAt": "2025-09-21 15:28:18",
-      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
-      "retrievedAt": "2025-09-22 19:06:06.495682",
-      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24676,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet.com.tr",
-      "author": "hurriyet.com.tr",
-      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
-      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
-      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
-      "publishedAt": "2025-09-21 14:52:33",
-      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.238532",
-      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24674,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ay\u015fe \u00c7olpan Tan",
-      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
-      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
-      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
-      "publishedAt": "2025-09-21 13:47:00",
-      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.126872",
-      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24675,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
-      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
-      "publishedAt": "2025-09-21 11:09:40",
-      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.198332",
-      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24673,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "IANS",
-      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
-      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-21 07:15:32",
-      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
-      "retrievedAt": "2025-09-22 19:06:06.957820",
-      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]

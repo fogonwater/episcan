@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-11-05 07:07
-- **Most recent article:** 2025-11-04 06:00:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-11-05 19:06
+- **Most recent article:** 2025-11-04 19:01:13
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 8 | 197 |
-| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 6 | 144 |
-| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 2 | 108 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 4 | 106 |
-| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 7 | 104 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 10 | 199 |
+| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 13 | 150 |
+| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 12 | 108 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 6 | 108 |
+| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 4 | 107 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 0 | 47 |
-| zika | 6 | 5 | 7 | 1 | 3 | 5 | 2 | 29 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 4 | 31 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
+| leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 1 | 14 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
-| leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 0 | 13 |
 | hpai | 1 | 2 | 1 | 0 | 4 | 2 | 0 | 10 |
-| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 1 | 6 |
-| pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 0 | 5 |
+| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 3 | 8 |
+| pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 1 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,13 +34,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (zika)
 
+- [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
+
+- [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
+
 - [Valneva Reports Positive Results for Phase 1 Trial of Second-Generation Zika Vaccine Candidate](https://www.globenewswire.com/news-release/2025/11/04/3179950/0/en/Valneva-Reports-Positive-Results-for-Phase-1-Trial-of-Second-Generation-Zika-Vaccine-Candidate.html) (GlobeNewswire)
 
 - [Valneva annonce des résultats positifs de Phase 1 pour son candidat vaccin de deuxième génération contre le virus Zika](https://www.globenewswire.com/news-release/2025/11/04/3179950/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-1-pour-son-candidat-vaccin-de-deuxi%C3%A8me-g%C3%A9n%C3%A9ration-contre-le-virus-Zika.html) (GlobeNewswire)
 
 ## 25-45 (yersinia)
 
+- [Wyjątkowy szkielet z Edynburga. "DNA czarnej śmierci sprzed 700 lat"](https://geekweek.interia.pl/historia/news-wyjatkowy-szkielet-z-edynburga-dna-czarnej-smierci-sprzed-70,nId,22450724) (Interia.pl)
+
+- [В Эдинбурге нашли первое научное доказательство черной смерти](https://tech.onliner.by/2025/11/04/v-edinburge-nashli-pervoe-nauchnoe-dokazatelstvo-chernoj-smerti) (Onliner.by)
+
 - [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
+
+## 25-45 (pertussis)
+
+- [Whooping cough cases soar in Texas, quadrupling last year's count](https://www.fox26houston.com/news/whooping-cough-cases-soar-texas-quadrupling-last-years-count) (fox26houston.com)
 
 ## 25-45 (mpox)
 
@@ -55,6 +67,10 @@ Source: [News API](https://newsapi.org/)
 - [Avrupa’dan Afrika’ya sessizce yayılıyor! 'Her 100 kişiden birini öldürebilir'](https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085) (Turkiyegazetesi.com.tr)
 
 ## 25-45 (measles)
+
+- [Winkler school latest measles exposure site in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-exposure-october-2025-winkler-9.6966373) (CBC News)
+
+- [Letters: People need to take threat of measles seriously](https://www.nzherald.co.nz/nz/letters-people-need-to-take-threat-of-measles-seriously/2TAE4IXPQZB65EVIPNHQ2DYNMU/) (New Zealand Herald)
 
 - [Measles outbreak could go on for 40 weeks if contact tracing fails, Labour’s Ayesha Verrall says](https://www.nzherald.co.nz/nz/politics/measles-outbreak-could-go-on-for-40-weeks-if-contact-tracing-fails-labours-ayesha-verrall-says/BHHOLTV42ZC53KWI5IBFX7X6NM/) (New Zealand Herald)
 
@@ -74,6 +90,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [Molecular diagnosis of Trichuris trichiura: Prevalence and associated risk factors in children under five living in a malaria-endemic area in Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335643) (Plos.org)
+
+- [Ο Ντέιβιντ Μπέκαμ χρίστηκε ιππότης από τον Βασιλιά Κάρολο](https://www.newsit.gr/athlitika/o-nteivint-mpekam-xristike-ippotis-apo-ton-vasilia-karolo/4517662/) (Newsit.gr)
+
 - [Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013677) (Plos.org)
 
 - [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
@@ -82,7 +102,21 @@ Source: [News API](https://newsapi.org/)
 
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
+## 25-45 (leptospirosis)
+
+- [Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693) (Plos.org)
+
 ## 25-45 (h5n1)
+
+- [Ruokavirasto: Pieksämäellä lopetetussa telkässä oli lintuinfluenssa](https://yle.fi/a/74-20192192) (YLE News)
+
+- [Gripe aviária: vírus consegue sobreviver em queijos, diz estudo](https://olhardigital.com.br/2025/11/04/medicina-e-saude/gripe-aviaria-virus-consegue-sobreviver-em-queijos-diz-estudo/) (Olhardigital.com.br)
+
+- [Krankheiten: Vogelgrippe: Eichsfeld reagiert mit strengen Regeln](https://www.stern.de/gesellschaft/regional/thueringen/krankheiten--vogelgrippe--eichsfeld-reagiert-mit-strengen-regeln-36187340.html) (STERN.de)
+
+- [H5N1-Pandemie bei Menschen „unwahrscheinlich“](https://science.orf.at/stories/3232762/) (Science.orf.at)
+
+- [Statistiker zu H5N1 - Wie gefährlich ist die Vogelgrippe für Menschen?](https://www.bild.de/leben-wissen/medizin/statistiker-zu-h5n1-so-gefaehrlich-ist-die-vogelgrippe-fuer-menschen-690883bb73566d3912c08d03) (Bild)
 
 - [A l'approche des fêtes de fin d'année, un virus suscite l'inquiétude en Allemagne: un risque “élevé” d’épidémie](https://www.lalibre.be/international/2025/11/04/a-lapproche-des-fetes-de-fin-dannee-un-virus-suscite-linquietude-en-allemagne-un-risque-eleve-depidemie-UF6XXCT32JBPJJGTMSQA2V3BPM/) (Lalibre.be)
 
@@ -100,6 +134,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (dengue)
 
+- [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
+
+- [Dengue: vacina Qdenga mantém proteção por 7 anos, em novo estudo](https://www.metropoles.com/saude/vacina-dengue-protecao-7-anos) (Metropoles.com)
+
+- [Dengue: vacina do Butantan deve ser aprovada pela Anvisa até dezembro](https://www.metropoles.com/saude/vacina-dengue-butantan-ate-dezembro) (Metropoles.com)
+
+- [Santé. L'Europe investit 20 millions d'euros pour des nouveaux traitements contre la dengue](https://www.ledauphine.com/sante/2025/11/04/l-europe-investit-20-millions-d-euros-pour-des-nouveaux-traitements-contre-la-dengue) (Le Dauphiné Libéré)
+
+- [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
+
+- [Dengue : 20 millions d’euros investis par l’UE pour le développement de nouveaux médicaments](https://sante.ouest-france.fr/maladies/dengue/dengue-20-millions-deuros-investis-par-lue-pour-le-developpement-de-nouveaux-medicaments-71889428-b970-11f0-a456-5b350733c580) (Ouest-France)
+
+- [Dengue in Delhi: दिल्ली में डेंगू का कहर! दो लोगों की मौत! 1,136 मामले दर्ज, जानें- लक्षण और बचाव](https://hindi.moneycontrol.com/india/dengue-in-delhi-two-people-have-died-and-1136-cases-have-been-reported-symptoms-and-prevention-article-2255570.html) (Moneycontrol)
+
 - [Vacina do Butantan contra a dengue será aprovada este ano, diz ministro](https://olhardigital.com.br/2025/11/03/medicina-e-saude/vacina-do-butantan-contra-a-dengue-sera-aprovada-este-ano-diz-ministro/) (Olhardigital.com.br)
 
 - [Takeda’s dengue vaccine shows long-lasting protection](https://www.japantimes.co.jp/business/2025/11/04/companies/takeda-dengue-vaccine/) (The Japan Times)
@@ -113,6 +161,10 @@ Source: [News API](https://newsapi.org/)
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (chikungunya)
+
+- [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
+
+- [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
 
 - [Hong Kong'da kırmızı alarm... Chikungunya ateşi endişesi!](https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi) (Haber7.com)
 
@@ -1856,8 +1908,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
-- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
-
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1893,8 +1943,6 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
-
-- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1937,9 +1985,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
-
-- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
-
-- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
