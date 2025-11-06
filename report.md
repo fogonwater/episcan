@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-11-05 19:06
-- **Most recent article:** 2025-11-04 19:01:13
+- **New articles in last harvest:** 3
+- **Last harvest:** 2025-11-06 07:07
+- **Most recent article:** 2025-11-05 00:00:00
 
 ---
 
@@ -13,10 +13,10 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 34 | 31 | 29 | 35 | 25 | 35 | 10 | 199 |
-| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 13 | 150 |
-| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 12 | 108 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 6 | 108 |
-| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 4 | 107 |
+| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 13 | 151 |
+| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 14 | 111 |
+| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 4 | 110 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 7 | 109 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 0 | 47 |
 | zika | 6 | 5 | 7 | 1 | 3 | 5 | 4 | 31 |
@@ -90,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2025/db251104.doc.htm) (UN News)
+
 - [Molecular diagnosis of Trichuris trichiura: Prevalence and associated risk factors in children under five living in a malaria-endemic area in Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335643) (Plos.org)
 
 - [Ο Ντέιβιντ Μπέκαμ χρίστηκε ιππότης από τον Βασιλιά Κάρολο](https://www.newsit.gr/athlitika/o-nteivint-mpekam-xristike-ippotis-apo-ton-vasilia-karolo/4517662/) (Newsit.gr)
@@ -107,6 +109,10 @@ Source: [News API](https://newsapi.org/)
 - [Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693) (Plos.org)
 
 ## 25-45 (h5n1)
+
+- [Antibody drugs show promise for treating bird flu and HIV](https://www.nature.com/articles/d41586-025-03540-4) (Nature.com)
+
+- [Avlivd knipa hade fågelinfluensa](https://yle.fi/a/7-10087516) (YLE News)
 
 - [Ruokavirasto: Pieksämäellä lopetetussa telkässä oli lintuinfluenssa](https://yle.fi/a/74-20192192) (YLE News)
 
@@ -1908,6 +1914,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
+- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
+
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1943,6 +1951,8 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
+
+- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1985,3 +1995,9 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
+
+- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
+
+- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
