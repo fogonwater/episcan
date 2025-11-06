@@ -1,8 +1,245 @@
 {
-  "last_updated": "2025-11-06 07:07",
-  "count_articles_total": 843,
-  "count_articles_new": 3,
+  "last_updated": "2025-11-06 19:06",
+  "count_articles_total": 851,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 25526,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Tierseuche: Vogelgrippe bei Graugans im Landkreis Heilbronn nachgewiesen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eTierseuche\u201c. Lesen Sie jetzt \u201eVogelgrippe bei Graugans im Landkreis Heilbronn nachgewiesen\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/05/vogelgrippe-bei-graugans-im-landkreis-heilbronn-nachgewiesen",
+      "urlToImage": "https://img.zeit.de/news/2025-11/05/vogelgrippe-bei-graugans-im-landkreis-heilbronn-nachgewiesen-image-group/wide__1300x731",
+      "publishedAt": "2025-11-05 16:39:42",
+      "content": "Eine mit Vogelgrippe infizierte Graugans ist im Landkreis Heilbronn entdeckt worden. Bei dem Tier sei das Influenzavirus vom Subtyp H5N1 nachgewiesen worden, wie das Landratsamt mitteilte. Der Wildvo\u2026 [+1959 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.061951",
+      "internal_id": "f9d7db541c53559598670aaad56ab2d38c19cd658ae692a12492f1d3c4bb9d9f",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25534,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Leo Peluso",
+      "title": "El rompecabezas del River de Gallardo para ir a la Bombonera",
+      "description": "Los bajos rendimientos, los lesionados, los que vienen con poco ritmo y la malaria de resultados ponen al Millonario en modo inc\u00f3gnito en cuanto a los que va a jugar el domingo en la Bombonera un partido clave para el 2026. Leer m\u00e1s",
+      "url": "https://442.perfil.com/noticias/futbol/el-rompecabezas-del-river-de-gallardo-para-ir-a-la-bombonera.phtml",
+      "urlToImage": "https://fotos.perfil.com/2025/10/25/trim/1140/641/marcelo-gallardo-2125346.jpg",
+      "publishedAt": "2025-11-05 15:53:25",
+      "content": "Si los equipos deMarcelo Gallardo son un enigma que se resuelve un rato antes de los partidos ahora que hay una fuerte crisis y que los jugadores en general hacen m\u00e1s fuerza para ser suplente que par\u2026 [+2419 chars]",
+      "retrievedAt": "2025-11-06 19:06:46.368354",
+      "internal_id": "72c687145ca51cb669b1ba17907942a080b8097d0a27405d1a9390f11ad93e3b",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25535,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso febbre Chikungunya a Grosseto, disinfestazione zanzare",
+      "description": "Rilevato un caso di febbre Chikungunya, trasmessa dalla zanzara tigre, a Grosseto e il sindaco Antonfrancesco Vivarelli Colonna ha firmato un'ordinanza ha disposto la disinfestazione con trattamenti adulticidi e larvicidi dell'area interessata. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2025/11/05/caso-febbre-chikungunya-a-grosseto-disinfestazione-zanzare_f325899d-96d2-4e69-9959-930790d1c8cc.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2010/12/6/f6e6529e26d88904932d4013e0b55016.jpg",
+      "publishedAt": "2025-11-05 15:12:04",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-11-06 19:06:47.158806",
+      "internal_id": "8dabe12000b7ea9b0ecbf6108ab1c226d80128ad7828441a04cc205753f7e859",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25529,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Susanne Rust",
+      "title": "California agriculture dept. is hiding bird flu information, legal aid group alleges in lawsuit",
+      "description": "A rural legal aid group is suing the California Department of Food and Agriculture for refusing to disclose the locations of dairies infected with H5N1 bird flu.",
+      "url": "https://phys.org/news/2025-11-california-agriculture-dept-bird-flu.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dairy-farm.jpg",
+      "publishedAt": "2025-11-05 14:50:03",
+      "content": "A rural legal aid group is suing the California Department of Food and Agriculture for refusing to disclose the locations of dairies infected with H5N1 bird flu. More than half of the 70 confirmed h\u2026 [+5094 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.165052",
+      "internal_id": "09d447b59aa4c23cc6acd18ef47f529d40ed5ff6d14fa1fed59b50be9b3d7c7c",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25533,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "KYMA",
+      "author": "Skylar Heisey",
+      "title": "Mosquito-borne illness detected in Yuma",
+      "description": "Both cases involve Yuma County residents, including one who tested positive for dengue fever and a second who tested positive for West Nile Virus.",
+      "url": "https://kyma.com/dsw-living/health/2025/11/05/mosquito-borne-illness-detected-in-yuma/",
+      "urlToImage": "https://kyma.b-cdn.net/2025/11/MGN_1280x720_30815P00-VDRNL.jpg",
+      "publishedAt": "2025-11-05 14:45:36",
+      "content": "YUMA, Ariz. (KYMA) - The Yuma County Public Health Services District (YCPHSD) detected two mosquito-borne illness cases. Both cases involve Yuma County residents, including one who tested positive f\u2026 [+604 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.555180",
+      "internal_id": "11340e2b01b15b06e13395b76339a896f669f5088f2534271e1ce34121f0878f",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25531,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Yannick Simonin, Virologiste sp\u00e9cialiste en surveillance et \u00e9tude des maladies virales \u00e9mergentes. Professeur des Universit\u00e9s, Universit\u00e9 de Montpellier",
+      "title": "Chikungunya, dengue, Nil occidental : en 2025, la France confront\u00e9e \u00e0 une circulation virale sans pr\u00e9c\u00e9dent",
+      "description": "L\u2019augmentation in\u00e9luctable du nombre d\u2019infections par des virus \u00ab exotiques \u00bb contract\u00e9s dans l\u2019Hexagone se poursuit. Cette ann\u00e9e, le chikungunya a particuli\u00e8rement circul\u00e9, puisque pr\u00e8s de 800 cas ont \u00e9t\u00e9 recens\u00e9s.",
+      "url": "https://theconversation.com/chikungunya-dengue-nil-occidental-en-2025-la-france-confrontee-a-une-circulation-virale-sans-precedent-265901",
+      "urlToImage": "https://images.theconversation.com/files/700204/original/file-20251104-66-az843w.jpg?ixlib=rb-4.1.0&rect=0%2C1342%2C8085%2C4042&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-11-05 14:23:45",
+      "content": "Autrefois d\u00e9nombr\u00e9s chaque ann\u00e9e sur les doigts d\u2019une main, puis par dizaines, c\u2019est aujourd\u2019hui par centaines que l\u2019on compte, en France hexagonale, les cas autochtones \u2013 c\u2019est-\u00e0-dire contract\u00e9s sur\u2026 [+8994 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.526726",
+      "internal_id": "a14964a2e065d42fbf751b44d919aa592b8d01de7ea74f8ec8f9fe7de02e916c",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25532,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Claire Teillet, H\u00e9lo\u00efse Pottier, Rodolphe Devillers, Alexandre Defossez, Thibault Catry, Alexandre Kerr, Frederic Jean, Gregory L\u2019Ambert, Nicolas LeDoeuff, Emmanuel Roux",
+      "title": "Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces",
+      "description": "The global spread of Aedes albopictus raises growing public health concerns due to its role in transmitting dengue, chikungunya, and Zika. In southern France, the increase in imported dengue cases and local transmission underlines the urgent need for effectiv\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0335794.g009&size=inline",
+      "publishedAt": "2025-11-05 14:00:00",
+      "content": "Abstract The global spread of Aedes albopictus raises growing public health concerns due to its role in transmitting dengue, chikungunya, and Zika. In southern France, the increase in imported dengu\u2026 [+59383 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.536692",
+      "internal_id": "f771e7360f034e0e2217837e4cdeb630e38fa69f5e461a3d1c4493409cc8b2fb",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25525,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Glanze Patrick",
+      "title": "How Vaccines Work: Exploring the Immune System and Breakthroughs in Vaccine Science",
+      "description": "Vaccines train the body's defenses to fight infections safely. Learn how vaccines work, how the immune system responds, and the science behind lasting immunity.",
+      "url": "https://www.ibtimes.com/how-vaccines-work-exploring-immune-system-breakthroughs-vaccine-science-3789626",
+      "urlToImage": "https://d.ibtimes.com/en/full/4633043/vaccine.jpg",
+      "publishedAt": "2025-11-05 13:05:42",
+      "content": "Vaccines are among the greatest achievements in medical science, saving millions of lives every year. They protect individuals and entire communities from infectious diseases such as measles, polio, \u2026 [+6685 chars]",
+      "retrievedAt": "2025-11-06 19:06:44.422334",
+      "internal_id": "dd3912744db11212009cea477d7ddc3e1fd4caf5a1a56b839af432b717662e9c",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25536,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "Hi-Tech Mail",
+      "title": "\u041d\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0446\u0438\u044f \u0430\u0440\u0430\u0431\u0441\u043a\u043e\u0439 \u0441\u043a\u0430\u0437\u043a\u0438 \u043f\u043e\u0440\u043e\u0434\u0438\u043b\u0430 \u043c\u0438\u0444\u044b \u043e \u043c\u043e\u043b\u043d\u0438\u0435\u043d\u043e\u0441\u043d\u044b\u0445 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f\u0445 \u0447\u0443\u043c\u044b",
+      "description": "\u0421\u0442\u0438\u0445\u043e\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u0436\u0430\u043d\u0440 \u00ab\u043c\u0430\u043a\u0430\u043c\u0430\u00bb \u2014 \u0430\u0440\u0430\u0431\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u043e\u0433 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0439 \u0441\u0440\u0435\u0434\u043d\u0435\u0432\u0435\u043a\u043e\u0432\u043e\u0439 \u043f\u043b\u0443\u0442\u043e\u0432\u0441\u043a\u043e\u0439 \u043f\u043e\u044d\u0437\u0438\u0438 \u0438 \u043f\u0440\u043e\u0437\u044b. \u0412 \u043c\u0430\u043a\u0430\u043c\u0430\u0445 \u0418\u0431\u043d \u0430\u043b\u044c-\u0412\u0430\u0440\u0434\u0438 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u0447\u0443\u043c\u044b. \u0423\u0447\u0435\u043d\u044b\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442, \u0447\u0442\u043e \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u043d\u0435 \u043e\u0442\u0440\u0430\u0436\u0430\u044e\u0442 \u0442\u043e\u0447\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0435\u0430\u043b\u0438\u0439. \u042d\u043a\u0441\u043f\u0435\u0440\u0442\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u0447\u0442\u043e\u2026",
+      "url": "https://hi-tech.mail.ru/news/136878-nevernaya-interpretaciya-arabskoj-skazki-porodila-mify-o-molnienosnyh-epidemiyah-chumy/",
+      "urlToImage": "https://resizer.mail.ru/p/235c6c39-ec81-502e-a418-e341f3397b41/AQAKERkkdFJYiXvLz6oTQO4-DQHx5oDTiMo6yDzxblO8-wfHPue_46icxGqhrhQ6E7rd2wdlNLJZHaoBj6HY8Qw-oGw.jpg",
+      "publishedAt": "2025-11-05 12:14:26",
+      "content": "\u2014 , , . - ( - - -, 1291/1292-1349) 1348\u20131349 \u00ab\u00bb, . . . Yersinia pestis, \u00ab \u00bb, 20 000 . , -, , 1330- , 1340- . \u00ab \u00bb -. , , \u2014 \u2014 5000 1347 1350 , , Journal of Arabic and Islamic Studies. - , 15 , , , ,\u2026 [+124 chars]",
+      "retrievedAt": "2025-11-06 19:06:48.249468",
+      "internal_id": "ddc31897746daecf639b6d938354a7722d58c8f243248dcc8f3e7180fa1435cf",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25530,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "danm@bt.dk (Daniel Martinsen)",
+      "title": "D\u00f8delig fugleinfluenza dr\u00e6ber irske kalkuner",
+      "description": "Mere end 3.000 fugle har mistet livet.",
+      "url": "https://www.bt.dk/udland/doedelig-fugleinfluenza-draeber-irske-kalkuner",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/137353677.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=9525b3550b1c34a4798e3a1aa758759d9971e52b1f10a9d2a9397e53534db1f6",
+      "publishedAt": "2025-11-05 12:11:36",
+      "content": "En kalkunfarm i den \u00f8stlige del af Irland er blevet ramt af den s\u00e6rdeles smitsomme og d\u00f8delige fugleinfluenza H5N1. Det skriver nyhedsbureauet Reuters. Den smitsomme sygdom har igennem l\u00e6ngere h\u00e6rg\u2026 [+369 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.183347",
+      "internal_id": "6ff9bcf82e49b41dec2dce1e4346ae01b79b5f354eee8cbdee217d49bd406f9a",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25528,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Pieks\u00e4m\u00e4ell\u00e4 l\u00f6ydetty vuoden kahdeksas tapaus lintu\u00adinfluenssaa, tartuntojen huippum\u00e4\u00e4riin viel\u00e4 matkaa",
+      "description": "Ruokavirasto tiedotti yksitt\u00e4isest\u00e4 lintuinfluenssa\u00adtartunnasta, koska se haluaa muistuttaa siipikarja\u00adtilallisia suojaamaan lintunsa.",
+      "url": "https://yle.fi/a/74-20192233",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_467,w_1080,h_607/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1762333888/39-1548984690b13f89fb49",
+      "publishedAt": "2025-11-05 11:55:44",
+      "content": "Pieks\u00e4m\u00e4ell\u00e4 havaittiin lokakuun puoliv\u00e4liss\u00e4 sairas telkk\u00e4. Lintu lopetettiin ja l\u00e4hetettiin tutkimuksiin Ruokavirastoon, miss\u00e4 sill\u00e4 todettiin H5N1-tyypin lintuinfluenssavirus. Ruokaviraston erit\u2026 [+1839 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.138264",
+      "internal_id": "cd36f2c61fecd63cf8480559fcfc3783e48db9cdb6db3a54fd6e26f92844be14",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25524,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "A shapeshifting protein explains rabies\u2019 deadly power",
+      "description": "Researchers discovered how rabies virus exerts massive control over host cells with very few genes. A key viral protein changes shape and binds RNA, allowing it to infiltrate different cellular systems. This adaptability could explain the power of other deadl\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251105050708.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/human-cells-showing-rabies-virus-p3-protein.webp",
+      "publishedAt": "2025-11-05 10:30:55",
+      "content": "Viruses are masters of efficiency, able to take over our cells and control vital processes using only a handful of genes.For years, scientists have wondered how something so small co\u2026 [+4744 chars]",
+      "retrievedAt": "2025-11-06 19:06:44.136926",
+      "internal_id": "40eb9d57c8358656051044c0f58a3ae4f5f0c55e8646df8f46414033fcbc0bbd",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25527,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Bird flu outbreak at Carlow turkey farm 'very worrying'",
+      "description": "The discovery of the highly pathogenic H5N1 strain of avian influenza, or bird flu, at a commercial turkey farm in Co Carlow is \"very worrying\", the Irish Farmers' Association has said.",
+      "url": "https://www.rte.ie/news/2025/1105/1542257-avian-influenza-turkey-carlow/",
+      "urlToImage": "https://www.rte.ie/images/00236da1-1600.jpg",
+      "publishedAt": "2025-11-05 08:39:00",
+      "content": "The discovery of the highly pathogenic H5N1 strain of avian influenza, or bird flu, at a commercial turkey farm in Co Carlow is \"very worrying\", the Irish Farmers' Association has said. It is unders\u2026 [+2750 chars]",
+      "retrievedAt": "2025-11-06 19:06:45.087944",
+      "internal_id": "9ced7f77cf16b4b0918587366d5732086f74b65061c2193806b1936b7eedb884",
+      "publishedAtLabel": "Nov 5"
+    },
     {
       "id": 25521,
       "query": [
@@ -15140,96 +15377,6 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24672,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": "Ag\u00eancia O Globo",
-      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
-      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
-      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
-      "publishedAt": "2025-09-21 15:28:18",
-      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
-      "retrievedAt": "2025-09-22 19:06:06.495682",
-      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24676,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet.com.tr",
-      "author": "hurriyet.com.tr",
-      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
-      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
-      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
-      "publishedAt": "2025-09-21 14:52:33",
-      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.238532",
-      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24674,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ay\u015fe \u00c7olpan Tan",
-      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
-      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
-      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
-      "publishedAt": "2025-09-21 13:47:00",
-      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.126872",
-      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24675,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
-      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
-      "publishedAt": "2025-09-21 11:09:40",
-      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.198332",
-      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24673,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "IANS",
-      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
-      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-21 07:15:32",
-      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
-      "retrievedAt": "2025-09-22 19:06:06.957820",
-      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]

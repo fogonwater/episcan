@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-11-06 07:07
-- **Most recent article:** 2025-11-05 00:00:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-11-06 19:06
+- **Most recent article:** 2025-11-05 16:39:42
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 10 | 199 |
-| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 13 | 151 |
-| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 14 | 111 |
-| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 4 | 110 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 7 | 109 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 11 | 200 |
+| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 16 | 153 |
+| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 19 | 115 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 8 | 110 |
+| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 7 | 110 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
-| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 0 | 47 |
-| zika | 6 | 5 | 7 | 1 | 3 | 5 | 4 | 31 |
+| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 1 | 48 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 5 | 32 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 1 | 14 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
 | hpai | 1 | 2 | 1 | 0 | 4 | 2 | 0 | 10 |
-| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 3 | 8 |
+| yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 4 | 9 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 1 | 6 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-45 (zika)
+
+- [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
 
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
@@ -44,11 +46,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (yersinia)
 
+- [Неверная интерпретация арабской сказки породила мифы о молниеносных эпидемиях чумы](https://hi-tech.mail.ru/news/136878-nevernaya-interpretaciya-arabskoj-skazki-porodila-mify-o-molnienosnyh-epidemiyah-chumy/) (Mail.ru)
+
 - [Wyjątkowy szkielet z Edynburga. "DNA czarnej śmierci sprzed 700 lat"](https://geekweek.interia.pl/historia/news-wyjatkowy-szkielet-z-edynburga-dna-czarnej-smierci-sprzed-70,nId,22450724) (Interia.pl)
 
 - [В Эдинбурге нашли первое научное доказательство черной смерти](https://tech.onliner.by/2025/11/04/v-edinburge-nashli-pervoe-nauchnoe-dokazatelstvo-chernoj-smerti) (Onliner.by)
 
 - [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
+
+## 25-45 (rabies)
+
+- [A shapeshifting protein explains rabies’ deadly power](https://www.sciencedaily.com/releases/2025/11/251105050708.htm) (Science Daily)
 
 ## 25-45 (pertussis)
 
@@ -67,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 - [Avrupa’dan Afrika’ya sessizce yayılıyor! 'Her 100 kişiden birini öldürebilir'](https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085) (Turkiyegazetesi.com.tr)
 
 ## 25-45 (measles)
+
+- [How Vaccines Work: Exploring the Immune System and Breakthroughs in Vaccine Science](https://www.ibtimes.com/how-vaccines-work-exploring-immune-system-breakthroughs-vaccine-science-3789626) (International Business Times)
 
 - [Winkler school latest measles exposure site in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-exposure-october-2025-winkler-9.6966373) (CBC News)
 
@@ -90,6 +100,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [El rompecabezas del River de Gallardo para ir a la Bombonera](https://442.perfil.com/noticias/futbol/el-rompecabezas-del-river-de-gallardo-para-ir-a-la-bombonera.phtml) (Perfil.com)
+
 - [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2025/db251104.doc.htm) (UN News)
 
 - [Molecular diagnosis of Trichuris trichiura: Prevalence and associated risk factors in children under five living in a malaria-endemic area in Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335643) (Plos.org)
@@ -109,6 +121,16 @@ Source: [News API](https://newsapi.org/)
 - [Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693) (Plos.org)
 
 ## 25-45 (h5n1)
+
+- [Tierseuche: Vogelgrippe bei Graugans im Landkreis Heilbronn nachgewiesen](https://www.zeit.de/news/2025-11/05/vogelgrippe-bei-graugans-im-landkreis-heilbronn-nachgewiesen) (Die Zeit)
+
+- [California agriculture dept. is hiding bird flu information, legal aid group alleges in lawsuit](https://phys.org/news/2025-11-california-agriculture-dept-bird-flu.html) (Phys.Org)
+
+- [Dødelig fugleinfluenza dræber irske kalkuner](https://www.bt.dk/udland/doedelig-fugleinfluenza-draeber-irske-kalkuner) (Www.bt.dk)
+
+- [Pieksämäellä löydetty vuoden kahdeksas tapaus lintu­influenssaa, tartuntojen huippumääriin vielä matkaa](https://yle.fi/a/74-20192233) (YLE News)
+
+- [Bird flu outbreak at Carlow turkey farm 'very worrying'](https://www.rte.ie/news/2025/1105/1542257-avian-influenza-turkey-carlow/) (RTE)
 
 - [Antibody drugs show promise for treating bird flu and HIV](https://www.nature.com/articles/d41586-025-03540-4) (Nature.com)
 
@@ -140,6 +162,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (dengue)
 
+- [Mosquito-borne illness detected in Yuma](https://kyma.com/dsw-living/health/2025/11/05/mosquito-borne-illness-detected-in-yuma/) (KYMA)
+
+- [Chikungunya, dengue, Nil occidental : en 2025, la France confrontée à une circulation virale sans précédent](https://theconversation.com/chikungunya-dengue-nil-occidental-en-2025-la-france-confrontee-a-une-circulation-virale-sans-precedent-265901) (The Conversation Africa)
+
+- [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
+
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
 - [Dengue: vacina Qdenga mantém proteção por 7 anos, em novo estudo](https://www.metropoles.com/saude/vacina-dengue-protecao-7-anos) (Metropoles.com)
@@ -167,6 +195,12 @@ Source: [News API](https://newsapi.org/)
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (chikungunya)
+
+- [Caso febbre Chikungunya a Grosseto, disinfestazione zanzare](https://www.ansa.it/toscana/notizie/2025/11/05/caso-febbre-chikungunya-a-grosseto-disinfestazione-zanzare_f325899d-96d2-4e69-9959-930790d1c8cc.html) (ANSA.it)
+
+- [Chikungunya, dengue, Nil occidental : en 2025, la France confrontée à une circulation virale sans précédent](https://theconversation.com/chikungunya-dengue-nil-occidental-en-2025-la-france-confrontee-a-une-circulation-virale-sans-precedent-265901) (The Conversation Africa)
+
+- [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
 
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
@@ -1914,8 +1948,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
-- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
-
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1951,8 +1983,6 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
-
-- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -1995,9 +2025,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
-
-- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
-
-- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
