@@ -1,8 +1,100 @@
 {
-  "last_updated": "2025-11-06 19:06",
-  "count_articles_total": 851,
-  "count_articles_new": 13,
+  "last_updated": "2025-11-07 07:07",
+  "count_articles_total": 861,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25541,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.dkn.tv",
+      "author": "L\u00ea Huy\u1ec1n",
+      "title": "Qu\u1ea3ng Ch\u00e2u l\u1ea5y c\u1edb ph\u00f2ng d\u1ecbch \u0111\u1ec3 c\u01b0\u1ee1ng ch\u1ebf l\u1ea5y m\u00e1u, ng\u01b0\u1eddi tr\u1ebb tr\u1edf th\u00e0nh m\u1ee5c ti\u00eau g\u00e2y nghi ng\u1edd",
+      "description": "Th\u1eddi b\u00e1o Epoch Times ng\u00e0y 05/11/2025 \u0111\u01b0a tin: Ch\u00ednh quy\u1ec1n \u0110\u1ea3ng C\u1ed9ng s\u1ea3n Trung Qu\u1ed1c (\u0110CSTQ) t\u1ea1i Qu\u1ea3ng Ch\u00e2u l\u1ea5y l\u00fd do ph\u00f2ng ch\u1ed1ng d\u1ecbch S\u1ed1t Chikungunya (c\u00f2n g\u1ecdi l\u00e0 b\u1ec7nh O\u2019nyong-nyong), \u0111\u00e3 n\u00e2ng c\u1ea5p t\u1eeb vi\u1ec7c phun thu\u1ed1c kh\u1eed tr\u00f9ng to\u00e0n di\u1ec7n l\u00ean ki\u1ec3m tra l\u1ea5y m\u00e1u c\u01b0\u1ee1ng\u2026",
+      "url": "https://www.dkn.tv/doi-song/quang-chau-lay-co-phong-dich-de-cuong-che-lay-mau-nguoi-tre-tro-thanh-muc-tieu-gay-nghi-ngo.html",
+      "urlToImage": "https://www.dkn.tv/wp-content/uploads/2025/11/gemini-generated-image-3kpoyi3kpoyi3kpo.jpg",
+      "publishedAt": "2025-11-06 06:52:38",
+      "content": "Thi b\u00e1o Epoch Times ng\u00e0y 05/11/2025 a tin: Ch\u00ednh quyn ng Cng sn Trung Quc (CSTQ) ti Qung Ch\u00e2u ly l\u00fd do ph\u00f2ng chng dch St Chikungunya (c\u00f2n gi l\u00e0 bnh O\u2019nyong-nyong), \u00e3 n\u00e2ng cp t vic phun thuc kh tr\u00f9ng \u2026 [+2682 chars]",
+      "retrievedAt": "2025-11-07 07:07:49.989606",
+      "internal_id": "24c350973016a1034728a01a9c736fdc5725ef84f754c935cadf3ed5201f60ef",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 25537,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Xinying Zhang, Geng Qin, Shengnan Lv, Jianxiong Guo, Hualong Song, Miles L. Postings, Peter Scott, Chunyu Wang, Chuanqi Zhao, Changchun Tu, Yan Liu, Xiaogang Qu",
+      "title": "Exploring RNA G-quadruplex in rabies virus genome and its potential against RABV infection",
+      "description": "Chem. Sci., 2025, Accepted ManuscriptDOI: 10.1039/D5SC04344A, Edge Article Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Xinying Zhang, Geng Qin, Shengnan Lv, Jianxiong Guo, Hualong Song, Mi\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04344a",
+      "urlToImage": null,
+      "publishedAt": "2025-11-06 00:00:00",
+      "content": "X. Zhang, G. Qin, S. Lv, J. Guo, H. Song, M. L. Postings, P. Scott, C. Wang, C. Zhao, C. Tu, Y. Liu and X. Qu, Chem. Sci., 2025, Accepted Manuscript , DOI: 10.1039/D5SC04344A This article is lice\u2026 [+1029 chars]",
+      "retrievedAt": "2025-11-07 07:07:47.177044",
+      "internal_id": "27b3b5dc25ca4944a474385c7d8c59a12bd31cbf2774642563a0ad61c112ebeb",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 25539,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Meagan E. Deming, Franklin R. Toapanta, Marcela Pasetti, Hana Golding, Surender Khurana, Tarek Hamouda, Ali Fattom, Yuanyuan Liang, Sharon M. Tennant, Megan F. McGilvray, Paula J. Bernal, Jennifer J. Oshinsky, Shrimati Datta, Jasnehta Permala Booth, Lynda Coughlan, Kathleen M. Neuzil, Chad D. Costley, Karen L. Kotloff, Marcelo B. Sztein, Justin R. Ortiz, Hugo Acosta, Vaidehi Agrawal, James D. Campbell, Jingping Hu, Ifayet P. L. Johnson-Mayo, Insung Kang, Lisa R. King, Jody Manischewitz, Ashish K. Mishra, Joseph N. Nkeze, Olivia Posadas, Rekha R. Rapaka, Cosette G. Schneider, Douglas M. Smith",
+      "title": "An intranasal adjuvanted, recombinant influenza A/H5 vaccine primes against diverse H5N1 clades: a phase I trial",
+      "description": "Mucosal influenza vaccines promise enhanced protection but lack defined immune correlates of protection. Here, the authors conduct a phase I trial of an intranasal recombinant influenza A/H5 vaccine with a nanoemulsion adjuvant, demonstrating successful mucos\u2026",
+      "url": "https://www.nature.com/articles/s41467-025-64686-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-64686-3/MediaObjects/41467_2025_64686_Fig1_HTML.png",
+      "publishedAt": "2025-11-06 00:00:00",
+      "content": "We conducted this study at the University of Maryland School of Medicine Center for Vaccine Development and Global Health (Baltimore, MD, USA). Healthy, non-pregnant, non-lactating adults aged 18 to \u2026 [+26368 chars]",
+      "retrievedAt": "2025-11-07 07:07:48.083688",
+      "internal_id": "9cdf107acb2da76210c8f83ac86efba3c4808d6d390db1396b0fca1d70b60fe4",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 25540,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Carlos Emanoel Freires dos Santos",
+      "title": "Pesquisadores criam solu\u00e7\u00e3o que elimina mosquito da dengue sem afetar outros animais",
+      "description": "Fungo modificado usa longifoleno para atrair mosquitos da dengue com perfume floral. Esporas infectam e matam em dias. Seguro para humanos, animais e decomp\u00f5e naturalmente no ambiente. O post Pesquisadores criam solu\u00e7\u00e3o que elimina mosquito da dengue sem afet\u2026",
+      "url": "https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/",
+      "urlToImage": "https://i.catracalivre.com.br/9Af639b4KEGbdyI3D71n0HQqzfA=/1200x630/smart/filters:quality(60)/catracalivre.com.br/wp-content/uploads/2025/11/u8133322896-close-up-of-a-scientific-visualization-of-genetic-e0d28728-bfbd-4c18-97cb-ec0a499c18f4-2.jpg",
+      "publishedAt": "2025-11-05 22:06:31",
+      "content": "No ver\u00e3o, a presen\u00e7a de mosquitos costuma ser um inc\u00f4modo consider\u00e1vel para a popula\u00e7\u00e3o, com aumento dos casos de picadas e do risco de transmiss\u00e3o de doen\u00e7as como dengue, zika e chikungunya. Al\u00e9m do\u2026 [+3308 chars]",
+      "retrievedAt": "2025-11-07 07:07:48.456888",
+      "internal_id": "6e817ee690f9f1546dcf946a781d5584923434964a85ba43b6caead1abc21b1d",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 25538,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Charleston Post Courier",
+      "author": "Tom Corwin",
+      "title": "SC measles outbreak in Upstate continues but no new cases",
+      "description": "South Carolina has not seen a new case of measles in days, but an ongoing outbreak is still possible among those previously exposed to infected people.",
+      "url": "https://www.postandcourier.com/news/local_state_news/sc-measles-outbreak-in-the-upstate-continues-but-no-new-cases/article_6fa84888-d2f6-44af-9cac-6dc2adf97f8a.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/44/94492079-19ff-5da9-bb62-a0df512aa2fa/690a2a902c63d.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-11-05 21:14:06",
+      "content": "For the first time since a South Carolina measles outbreak began in the Upstate, there were no additional infections reported, the Department of Public Health said. The outbreak in the Upstate, main\u2026 [+1634 chars]",
+      "retrievedAt": "2025-11-07 07:07:47.554034",
+      "internal_id": "2b5c6afa595b44d1ed4f580192df69885c03ed18474289b551f5040796837fb5",
+      "publishedAtLabel": "Nov 5"
+    },
     {
       "id": 25526,
       "query": [
@@ -15377,6 +15469,96 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24672,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
+      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
+      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
+      "publishedAt": "2025-09-21 15:28:18",
+      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
+      "retrievedAt": "2025-09-22 19:06:06.495682",
+      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24676,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
+      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
+      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
+      "publishedAt": "2025-09-21 14:52:33",
+      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.238532",
+      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24674,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ay\u015fe \u00c7olpan Tan",
+      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
+      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
+      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
+      "publishedAt": "2025-09-21 13:47:00",
+      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.126872",
+      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24675,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
+      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
+      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
+      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
+      "publishedAt": "2025-09-21 11:09:40",
+      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
+      "retrievedAt": "2025-09-22 19:06:08.198332",
+      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 24673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "IANS",
+      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
+      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-09-21 07:15:32",
+      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
+      "retrievedAt": "2025-09-22 19:06:06.957820",
+      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]

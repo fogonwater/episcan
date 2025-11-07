@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-11-06 19:06
-- **Most recent article:** 2025-11-05 16:39:42
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-11-07 07:07
+- **Most recent article:** 2025-11-06 06:52:38
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 11 | 200 |
-| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 16 | 153 |
-| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 19 | 115 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 12 | 201 |
+| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 17 | 155 |
+| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 20 | 117 |
+| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 9 | 115 |
 | malaria | 14 | 10 | 20 | 24 | 17 | 17 | 8 | 110 |
-| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 7 | 110 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
-| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 1 | 48 |
-| zika | 6 | 5 | 7 | 1 | 3 | 5 | 5 | 32 |
+| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 2 | 49 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 6 | 33 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 1 | 14 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-45 (zika)
+
+- [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
 
 - [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
 
@@ -56,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (rabies)
 
+- [Exploring RNA G-quadruplex in rabies virus genome and its potential against RABV infection](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04344a) (Royal Society of Chemistry)
+
 - [A shapeshifting protein explains rabies’ deadly power](https://www.sciencedaily.com/releases/2025/11/251105050708.htm) (Science Daily)
 
 ## 25-45 (pertussis)
@@ -75,6 +79,8 @@ Source: [News API](https://newsapi.org/)
 - [Avrupa’dan Afrika’ya sessizce yayılıyor! 'Her 100 kişiden birini öldürebilir'](https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085) (Turkiyegazetesi.com.tr)
 
 ## 25-45 (measles)
+
+- [SC measles outbreak in Upstate continues but no new cases](https://www.postandcourier.com/news/local_state_news/sc-measles-outbreak-in-the-upstate-continues-but-no-new-cases/article_6fa84888-d2f6-44af-9cac-6dc2adf97f8a.html) (Charleston Post Courier)
 
 - [How Vaccines Work: Exploring the Immune System and Breakthroughs in Vaccine Science](https://www.ibtimes.com/how-vaccines-work-exploring-immune-system-breakthroughs-vaccine-science-3789626) (International Business Times)
 
@@ -122,6 +128,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (h5n1)
 
+- [An intranasal adjuvanted, recombinant influenza A/H5 vaccine primes against diverse H5N1 clades: a phase I trial](https://www.nature.com/articles/s41467-025-64686-3) (Nature.com)
+
 - [Tierseuche: Vogelgrippe bei Graugans im Landkreis Heilbronn nachgewiesen](https://www.zeit.de/news/2025-11/05/vogelgrippe-bei-graugans-im-landkreis-heilbronn-nachgewiesen) (Die Zeit)
 
 - [California agriculture dept. is hiding bird flu information, legal aid group alleges in lawsuit](https://phys.org/news/2025-11-california-agriculture-dept-bird-flu.html) (Phys.Org)
@@ -162,6 +170,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (dengue)
 
+- [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
+
 - [Mosquito-borne illness detected in Yuma](https://kyma.com/dsw-living/health/2025/11/05/mosquito-borne-illness-detected-in-yuma/) (KYMA)
 
 - [Chikungunya, dengue, Nil occidental : en 2025, la France confrontée à une circulation virale sans précédent](https://theconversation.com/chikungunya-dengue-nil-occidental-en-2025-la-france-confrontee-a-une-circulation-virale-sans-precedent-265901) (The Conversation Africa)
@@ -195,6 +205,10 @@ Source: [News API](https://newsapi.org/)
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (chikungunya)
+
+- [Quảng Châu lấy cớ phòng dịch để cưỡng chế lấy máu, người trẻ trở thành mục tiêu gây nghi ngờ](https://www.dkn.tv/doi-song/quang-chau-lay-co-phong-dich-de-cuong-che-lay-mau-nguoi-tre-tro-thanh-muc-tieu-gay-nghi-ngo.html) (Www.dkn.tv)
+
+- [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
 
 - [Caso febbre Chikungunya a Grosseto, disinfestazione zanzare](https://www.ansa.it/toscana/notizie/2025/11/05/caso-febbre-chikungunya-a-grosseto-disinfestazione-zanzare_f325899d-96d2-4e69-9959-930790d1c8cc.html) (ANSA.it)
 
@@ -1948,6 +1962,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
+- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
+
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1983,6 +1999,8 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
+
+- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -2025,3 +2043,9 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
+
+- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
+
+- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
