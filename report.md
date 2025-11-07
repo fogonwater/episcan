@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-11-07 07:07
-- **Most recent article:** 2025-11-06 06:52:38
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-11-07 19:06
+- **Most recent article:** 2025-11-06 17:00:31
 
 ---
 
@@ -13,12 +13,12 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 34 | 31 | 29 | 35 | 25 | 35 | 12 | 201 |
-| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 17 | 155 |
-| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 20 | 117 |
-| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 9 | 115 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 8 | 110 |
+| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 22 | 159 |
+| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 27 | 123 |
+| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 10 | 113 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 10 | 112 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
-| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 2 | 49 |
+| rabies | 18 | 10 | 6 | 9 | 3 | 1 | 3 | 50 |
 | zika | 6 | 5 | 7 | 1 | 3 | 5 | 6 | 33 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 1 | 14 |
@@ -26,6 +26,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | hpai | 1 | 2 | 1 | 0 | 4 | 2 | 0 | 10 |
 | yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 4 | 9 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 1 | 6 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -56,7 +57,13 @@ Source: [News API](https://newsapi.org/)
 
 - [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
 
+## 25-45 (shigellosis)
+
+- [Prevalence of Shigellosis among household contacts of index cases in the EFGH catchment area, Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013644) (Plos.org)
+
 ## 25-45 (rabies)
+
+- [Rabies Alert: Three Animals Test Positive In Southern Calvert County - The BayNet](http://thebaynet.com/rabies-alert-three-animals-test-positive-in-southern-calvert-county/) (Thebaynet.com)
 
 - [Exploring RNA G-quadruplex in rabies virus genome and its potential against RABV infection](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04344a) (Royal Society of Chemistry)
 
@@ -106,6 +113,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [Niet ziek worden in India uitdaging voor Oranje-tennissters: ’Je hebt daar malaria, dengue, nog een andere mug’](https://www.telegraaf.nl/sport/tennis/niet-ziek-worden-in-india-uitdaging-voor-oranje-tennissters-je-hebt-daar-malaria-dengue-nog-een-andere-mug/103089842.html) (Telegraaf.nl)
+
+- [Française dient klacht in tegen kapster na mislukte knipbeurt: ’Verschrikking kostte mijn dochter 260 euro’](https://www.telegraaf.nl/buitenland/francaise-dient-klacht-in-tegen-kapster-na-mislukte-knipbeurt-verschrikking-kostte-mijn-dochter-260-euro/103088846.html) (Telegraaf.nl)
+
 - [El rompecabezas del River de Gallardo para ir a la Bombonera](https://442.perfil.com/noticias/futbol/el-rompecabezas-del-river-de-gallardo-para-ir-a-la-bombonera.phtml) (Perfil.com)
 
 - [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2025/db251104.doc.htm) (UN News)
@@ -127,6 +138,20 @@ Source: [News API](https://newsapi.org/)
 - [Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693) (Plos.org)
 
 ## 25-45 (h5n1)
+
+- [Tierseuche: Nächster Fall: Vogelgrippe bei Schwan am Rhein nachgewiesen](https://www.zeit.de/news/2025-11/06/naechster-fall-vogelgrippe-bei-schwan-am-rhein-nachgewiesen) (Die Zeit)
+
+- [Una vacuna intranasal protege a 40 personas ante distintas cepas de gripe aviar](https://www.abc.es/salud/enfermedades/vacuna-intranasal-protege-personas-ante-distintas-cepas-20251106130000-nt.html) (Www.abc.es)
+
+- [Bird flu surges among poultry amid a scaled back federal response](https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5600125/bird-flu-risk-outbreak-trump-administration) (NPR)
+
+- [Интраназальная нановакцина от "птичьего гриппа" прошла первую фазу испытаний](https://tass.ru/nauka/25552701) (Tass.ru)
+
+- [Vogelgrippe: Bisher kein Verdachtsfall bestätigt](https://salzburg.orf.at/stories/3328869/) (Salzburg.orf.at)
+
+- [Further bird flu outbreaks will be 'devastating' - farmer](https://www.rte.ie/news/2025/1106/1542468-avian-flu-reaction/) (RTE)
+
+- [What is bird flu and how concerning is the spread?](https://www.rte.ie/news/ireland/2025/1106/1542455-bird-flu-explainer/) (RTE)
 
 - [An intranasal adjuvanted, recombinant influenza A/H5 vaccine primes against diverse H5N1 clades: a phase I trial](https://www.nature.com/articles/s41467-025-64686-3) (Nature.com)
 
@@ -170,6 +195,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (dengue)
 
+- [Bigg Boss 19 update: Pranit More returns to the house? Special powers and new twist expected](https://economictimes.indiatimes.com/magazines/panache/bigg-boss-19-update-pranit-more-returns-to-the-house-special-powers-and-new-twist-expected/articleshow/125139092.cms) (The Times of India)
+
+- [Un caso di dengue a Sestri Levante, era stato all'estero](https://www.ansa.it/liguria/notizie/2025/11/06/un-caso-di-dengue-a-sestri-levante-era-stato-allestero_78f6ebde-ab34-491b-a221-db11e12c54c7.html) (ANSA.it)
+
+- [Niet ziek worden in India uitdaging voor Oranje-tennissters: ’Je hebt daar malaria, dengue, nog een andere mug’](https://www.telegraaf.nl/sport/tennis/niet-ziek-worden-in-india-uitdaging-voor-oranje-tennissters-je-hebt-daar-malaria-dengue-nog-een-andere-mug/103089842.html) (Telegraaf.nl)
+
+- [Française dient klacht in tegen kapster na mislukte knipbeurt: ’Verschrikking kostte mijn dochter 260 euro’](https://www.telegraaf.nl/buitenland/francaise-dient-klacht-in-tegen-kapster-na-mislukte-knipbeurt-verschrikking-kostte-mijn-dochter-260-euro/103088846.html) (Telegraaf.nl)
+
+- [Cambio climático aumentó la temperatura promedio en Costa Rica: estos son los principales hallazgos del Lancet Countdown](https://www.nacion.com/el-pais/cambio-climatico-aumento-la-temperatura-promedio/UH6DFUA3KBBWFKQ7V4LNC72QYA/story/) (Nacion.com)
+
 - [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
 
 - [Mosquito-borne illness detected in Yuma](https://kyma.com/dsw-living/health/2025/11/05/mosquito-borne-illness-detected-in-yuma/) (KYMA)
@@ -205,6 +240,8 @@ Source: [News API](https://newsapi.org/)
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (chikungunya)
+
+- [Ursache, Diagnose, Impfung - Alles, was Sie zu Chikungunya wissen müssen](https://www.bild.de/leben-wissen/medizin/chikungunya-alles-was-sie-ueber-die-virusinfektion-wissen-muessen-690c5fddb035f3184cc83b22) (Bild)
 
 - [Quảng Châu lấy cớ phòng dịch để cưỡng chế lấy máu, người trẻ trở thành mục tiêu gây nghi ngờ](https://www.dkn.tv/doi-song/quang-chau-lay-co-phong-dich-de-cuong-che-lay-mau-nguoi-tre-tro-thanh-muc-tieu-gay-nghi-ngo.html) (Www.dkn.tv)
 
@@ -1962,8 +1999,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
-- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
-
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -1999,8 +2034,6 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
-
-- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -2043,9 +2076,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
-
-- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
-
-- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
