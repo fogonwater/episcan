@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-11-07 19:06
-- **Most recent article:** 2025-11-06 17:00:31
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-11-08 07:06
+- **Most recent article:** 2025-11-07 02:41:08
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 12 | 201 |
-| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 22 | 159 |
-| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 27 | 123 |
-| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 10 | 113 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 10 | 112 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 13 | 202 |
+| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 24 | 162 |
+| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 28 | 125 |
+| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 11 | 117 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 13 | 115 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 3 | 50 |
-| zika | 6 | 5 | 7 | 1 | 3 | 5 | 6 | 33 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 7 | 34 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 1 | 14 |
 | typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
-| hpai | 1 | 2 | 1 | 0 | 4 | 2 | 0 | 10 |
+| hpai | 1 | 2 | 1 | 0 | 4 | 2 | 1 | 11 |
 | yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 4 | 9 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 1 | 6 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-45 (zika)
+
+- [北摂JAMが挑む『イベントDX』の新機軸。口コミで“単発収益の壁”を壊す](https://prtimes.jp/main/html/rd/p/000000040.000165098.html) (Prtimes.jp)
 
 - [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
 
@@ -87,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (measles)
 
+- [Measles outbreak: Samoa issues travel advisory, travellers told to vaccinate](https://www.nzherald.co.nz/talanoa/measles-outbreak-samoa-issues-travel-advisory-travellers-told-to-vaccinate/UFAYF4AQJ5AYPBDDJ4JOUYEXP4/) (New Zealand Herald)
+
 - [SC measles outbreak in Upstate continues but no new cases](https://www.postandcourier.com/news/local_state_news/sc-measles-outbreak-in-the-upstate-continues-but-no-new-cases/article_6fa84888-d2f6-44af-9cac-6dc2adf97f8a.html) (Charleston Post Courier)
 
 - [How Vaccines Work: Exploring the Immune System and Breakthroughs in Vaccine Science](https://www.ibtimes.com/how-vaccines-work-exploring-immune-system-breakthroughs-vaccine-science-3789626) (International Business Times)
@@ -113,6 +117,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
+
+- [Este es el avance de Ecuador en la lucha contra la malaria](https://www.elcomercio.com/actualidad/ecuador/este-avance-ecuador-lucha-malaria/) (Elcomercio.com)
+
+- [Reiseforfatter på sykehus: – Begynte å tisse svart](https://www.vg.no/nyheter/i/nykvAm/reiseforfatter-paa-sykehus-begynte-aa-tisse-svart) (Www.vg.no)
+
 - [Niet ziek worden in India uitdaging voor Oranje-tennissters: ’Je hebt daar malaria, dengue, nog een andere mug’](https://www.telegraaf.nl/sport/tennis/niet-ziek-worden-in-india-uitdaging-voor-oranje-tennissters-je-hebt-daar-malaria-dengue-nog-een-andere-mug/103089842.html) (Telegraaf.nl)
 
 - [Française dient klacht in tegen kapster na mislukte knipbeurt: ’Verschrikking kostte mijn dochter 260 euro’](https://www.telegraaf.nl/buitenland/francaise-dient-klacht-in-tegen-kapster-na-mislukte-knipbeurt-verschrikking-kostte-mijn-dochter-260-euro/103088846.html) (Telegraaf.nl)
@@ -137,7 +147,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693) (Plos.org)
 
+## 25-45 (hpai)
+
+- [日本HPが仕掛ける次世代AI PC､触れるだけで仕事が快適になる秘密とは - ローカル搭載AIがパフォーマンス向上へ導く](https://president.jp/articles/-/103912) (President.jp)
+
 ## 25-45 (h5n1)
+
+- [Ptasia grypa zdziesiątkowała populację słoni morskich. "Przerażający widok"](https://tvn24.pl/tvnmeteo/swiat/ptasia-grypa-zdziesiatkowala-populacje-sloni-morskich-przerazajacy-widok-st8740066) (Tvn24.pl)
 
 - [Tierseuche: Nächster Fall: Vogelgrippe bei Schwan am Rhein nachgewiesen](https://www.zeit.de/news/2025-11/06/naechster-fall-vogelgrippe-bei-schwan-am-rhein-nachgewiesen) (Die Zeit)
 
@@ -195,6 +211,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (dengue)
 
+- [Bigg Boss 19 Promo: Pranit More returns to the show Mridul Tiwari, Ashnoor Kaur and others rejoice](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-promo-pranit-more-returns-to-the-show-mridul-tiwari-ashnoor-kaur-and-others-rejoice/articleshow/125148046.cms) (The Times of India)
+
+- [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
+
 - [Bigg Boss 19 update: Pranit More returns to the house? Special powers and new twist expected](https://economictimes.indiatimes.com/magazines/panache/bigg-boss-19-update-pranit-more-returns-to-the-house-special-powers-and-new-twist-expected/articleshow/125139092.cms) (The Times of India)
 
 - [Un caso di dengue a Sestri Levante, era stato all'estero](https://www.ansa.it/liguria/notizie/2025/11/06/un-caso-di-dengue-a-sestri-levante-era-stato-allestero_78f6ebde-ab34-491b-a221-db11e12c54c7.html) (ANSA.it)
@@ -240,6 +260,8 @@ Source: [News API](https://newsapi.org/)
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (chikungunya)
+
+- [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
 
 - [Ursache, Diagnose, Impfung - Alles, was Sie zu Chikungunya wissen müssen](https://www.bild.de/leben-wissen/medizin/chikungunya-alles-was-sie-ueber-die-virusinfektion-wissen-muessen-690c5fddb035f3184cc83b22) (Bild)
 
@@ -1999,6 +2021,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
+- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
+
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -2034,6 +2058,8 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
+
+- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -2076,3 +2102,9 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
+
+- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
+
+- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
