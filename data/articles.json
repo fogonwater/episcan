@@ -1,8 +1,302 @@
 {
-  "last_updated": "2025-11-08 07:06",
-  "count_articles_total": 884,
-  "count_articles_new": 8,
+  "last_updated": "2025-11-08 19:05",
+  "count_articles_total": 895,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 25575,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
+      "title": "Yucat\u00e1n est\u00e1 creando un ej\u00e9rcito de \"mosquitos buenos\" con una misi\u00f3n: luchar contra los que transmiten dengue, zika y chikungunya",
+      "description": "En febrero, la Secretar\u00eda de Salud puso en marcha el Plan Nacional para el Control del Dengue y otras Arbovirosis. La iniciativa comprende una serie de estrategias enfocadas en reducir hasta un 50% los casos de dengue, zika y chikungunya en el pa\u00eds entre 2025\u2026",
+      "url": "https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya",
+      "urlToImage": "https://i.blogs.es/247ded/mosquitos_wolbachia/840_560.jpeg",
+      "publishedAt": "2025-11-07 19:00:12",
+      "content": "En febrero, la Secretar\u00eda de Salud puso en marcha el Plan Nacional para el Control del Dengue y otras Arbovirosis. La iniciativa comprende una serie de estrategias enfocadas en reducir hasta un 50% l\u2026 [+3254 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.384042",
+      "internal_id": "fd25718581e94194720bc8996e8db9cf572e66bd71ed2f7736e00303c8ddc33a",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25571,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "msnbc",
+      "source_name": "MSNBC",
+      "author": "Brandy Zadrozny",
+      "title": "Why the conspiratorial right rallied around a flock of ostriches",
+      "description": "The H5N1 positive ostriches at Universal Ostrich Farms were harder to kill than most, becoming a rallying cry for the anti-vaccine, RFK Jr.-loving MAHA fringe.",
+      "url": "https://www.msnbc.com/news/news-analysis/conspiratorial-right-rallied-flock-ostriches-rcna242541",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251029-ostrich-farm-avian-flu-zz-01-c12e46.jpg",
+      "publishedAt": "2025-11-07 18:00:28",
+      "content": "Ostriches are not easy to kill. They are giant, prehistoric creatures, the fastest animal on two legs, and when spooked they run blindly with their wings outstretched. The ostriches at Universal Ostr\u2026 [+22051 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.954641",
+      "internal_id": "a8e53a3f106caec32b51509e98ae9a724e357059adab3a63b90406a05e47d32a",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25565,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WCHS-TV8",
+      "author": "Kristofer Plona",
+      "title": "West Virginia health officials see rise in whooping cough cases",
+      "description": "Health officials in West Virginia have reported the largest increase in whooping cough in 15 years.A total of 126 cases of pertussis &ndash; a highly contagious respi",
+      "url": "https://wchstv.com/news/local/west-virginia-health-officials-see-rise-in-whooping-cough-cases",
+      "urlToImage": "https://wchstv.com/resources/media/16bc1a66-cc09-4080-b4ed-10f9dae014ff-Screenshot20251107121520.png",
+      "publishedAt": "2025-11-07 17:22:44",
+      "content": "WEST VIRGINIA (WCHS) Health officials in West Virginia have reported the largest increase of whooping cough in 15 years. A total of 126 cases of pertussis a highly contagious respiratory illness - h\u2026 [+986 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.149564",
+      "internal_id": "5e661f389666e55321fb4975f8faff763d6182c2ca1c4e22f6c14dd1c521b12b",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25574,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Portugal preparado para emerg\u00eancias causadas por mosquitos",
+      "description": "INSA passar\u00e1 a coordenar a n\u00edvel nacional a Rede de Vigil\u00e2ncia de Vetores, que assegura a dete\u00e7\u00e3o precoce de transmissores de doen\u00e7as como Zika, Dengue e Chikungunya.",
+      "url": "https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1600%3A899%3Anowe%3A0%3A121%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F10%2F10192819%2Fmosquito-tigre-1.jpg?layer=obstop:T",
+      "publishedAt": "2025-11-07 17:06:13",
+      "content": "Portugal est\u00e1 preparado para responder a eventuais emerg\u00eancias causadas por doen\u00e7as transmitidas por mosquitos e carra\u00e7as, afirmou esta sexta-feira o presidente do Instituto Nacional de Sa\u00fade Ricardo\u2026 [+3350 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.374675",
+      "internal_id": "b0670da3d97ff78620e053b72d7f7f3fe87f096edd7ab05694c8a50aaac9d46c",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25570,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "In Friesoythe: 9.400 Puten wegen Gefl\u00fcgelpestausbruch get\u00f6tet",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eIn Friesoythe\u201c. Lesen Sie jetzt \u201e9.400 Puten wegen Gefl\u00fcgelpestausbruch get\u00f6tet\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/07/9-400-puten-wegen-gefluegelpestausbruch-getoetet",
+      "urlToImage": "https://img.zeit.de/news/2025-11/07/9-400-puten-wegen-gefluegelpestausbruch-getoetet-image-group/wide__1300x731",
+      "publishedAt": "2025-11-07 16:52:02",
+      "content": "Im Landkreis Cloppenburg hat es einen erneuten Ausbruch der Gefl\u00fcgelpest gegeben. Der f\u00fcr Tiere hochansteckende Erreger des Typs H5N1 sei in einem Putenbetrieb in Friesoythe festgestellt worden, teil\u2026 [+798 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.905416",
+      "internal_id": "2c745b6270ece3b4a72dab71f0344166ef43694f2b91f8cff87c63268d4ca41e",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25572,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "In Friesoythe: 9.400 Puten wegen Gefl\u00fcgelpestausbruch get\u00f6tet",
+      "description": "Friesoythe (lni) - Im Landkreis Cloppenburg hat es einen erneuten Ausbruch der Gefl\u00fcgelpest gegeben. Der f\u00fcr Tiere hochansteckende Erreger des Typs H5N1",
+      "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/in-friesoythe--9-400-puten-wegen-gefluegelpestausbruch-getoetet-36213114.html",
+      "urlToImage": "https://image.stern.de/36213116/t/Ve/v1/w1440/r1.7778/-/07--ofe7icohhuv17axs2048jpeg---3679646bc91f9695.jpg",
+      "publishedAt": "2025-11-07 16:52:02",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Bei der Ausbreitung der Gefl\u00fcgelpest ist noch kein Ende in Sicht. Im Landkreis Cloppenburg ist erneut ein Putenbetrieb betroffen. Im Landkreis C\u2026 [+943 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.004502",
+      "internal_id": "67d8b8c12d560db4cabb850afa3a7236541597e087f023c55111d528ccac7faf",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25579,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Martin Edlund, Florizelle Liser",
+      "title": "Malaria isn\u2019t just a health crisis \u2014 it\u2019s an economic imperative",
+      "description": "Economic losses from malaria don\u2019t stay in Africa.",
+      "url": "https://fortune.com/2025/11/07/why-malaria-is-economic-imperative-for-us-america/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/malaria-no-more-e1762363068698.jpg?resize=1200,600",
+      "publishedAt": "2025-11-07 14:05:00",
+      "content": "Most Americans will never experience malaria. That is a privilege. Even though malaria ranks among the most debilitating and deadly diseases globally, few Americans today have encountered it firsthan\u2026 [+4872 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.970868",
+      "internal_id": "82eb164706eed2ad75c0992e8030f5df51b30d911e52246e14c7f15cd3a436da",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25568,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Maya M. Juman, Olivier Restif, Daniel J. Becker",
+      "title": "Paramyxoviruses in old world fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution",
+      "description": "Author summary Paramyxoviruses are a family of viruses that include the human measles and mumps viruses as well as emerging zoonoses like Hendra and Nipah henipaviruses. These henipaviruses spill over from wild fruit bats to domestic animals and humans in Aus\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013698",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013698.g006&size=inline",
+      "publishedAt": "2025-11-07 14:00:00",
+      "content": "Citation: Juman MM, Restif O, Becker DJ (2025) Paramyxoviruses in old world fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution. PLoS Negl \u2026 [+42401 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.559375",
+      "internal_id": "6b534833b83228920fea8d2589491a76de0dc22f3f8c65f3291f98cea9e0b3e2",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25578,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bo Zhang, Fuying Guo, Peng Wang, Xiangyu Yan, Wei Li, Huakun Xu, Shuo Kou, Changxian Lu, Ling Zhang, Tiejun Shui",
+      "title": "A paradigm shift in DENV-4 clinical presentation: A viewpoint on pulmonary inflammatory symptoms from the 2023 Lincang outbreak",
+      "description": "Background During the 2023 outbreak of dengue virus serotype 4 (DENV-4) in Lincang, China, we noted prominent lower-respiratory involvement not typically emphasized in dengue descriptions. Methods We retrospectively analyzed 147 hospitalized, RT-PCR-confirm\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013679",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013679.g001&size=inline",
+      "publishedAt": "2025-11-07 14:00:00",
+      "content": "Abstract Background During the 2023 outbreak of dengue virus serotype 4 (DENV-4) in Lincang, China, we noted prominent lower-respiratory involvement not typically emphasized in dengue descriptions.\u2026 [+34067 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.483151",
+      "internal_id": "392adfa27fc02ccbe2b969dc14ac29f2bc515b86f2ed29f2ea5c77c8347aa38a",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25576,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Vacina contra a dengue demonstra prote\u00e7\u00e3o ap\u00f3s sete anos, aponta estudo",
+      "description": "An\u00e1lise mostra que a Qdenga segue eficaz contra hospitaliza\u00e7\u00f5es e n\u00e3o requer dose de refor\u00e7o The post Vacina contra a dengue demonstra prote\u00e7\u00e3o ap\u00f3s sete anos, aponta estudo appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/vacina-contra-a-dengue-demonstra-protecao-apos-sete-anos-aponta-estudo/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-11-07 13:46:36",
+      "content": "A vacina contra a dengue Qdenga, desenvolvida pela farmac\u00eautica Takeda, apresentou prote\u00e7\u00e3o contra infec\u00e7\u00f5es e hospitaliza\u00e7\u00f5es causadas pela doen\u00e7a sete anos ap\u00f3s a aplica\u00e7\u00e3o das doses, segundo nova \u2026 [+2936 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.409510",
+      "internal_id": "31a794333912fea5f05594877792002890517abb312ee24eacd6c47e27893c47",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25567,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Podbean.com",
+      "author": "Council on Foreign Relations",
+      "title": "On the Rise of Vaccine-Preventable Diseases",
+      "description": "Measles, whooping cough, and other vaccine-preventable diseases are on the rise around the world. Cuts to foreign aid, coupled with growing vaccine hesitancy, and persistent gaps in vaccine access are fueling outbreaks in poor and wealthy nations alike. In th\u2026",
+      "url": "https://cfrontherecord.podbean.com/e/on-the-rise-of-vaccine-preventable-diseases/",
+      "urlToImage": "https://d2bwo9zemjwxh5.cloudfront.net/image-logo/21286471/CFR-Events-Audio_1200x628.jpg?s=9c40a9b8875599ce2c49ac0507112cdf&e=jpeg",
+      "publishedAt": "2025-11-07 10:00:00",
+      "content": "Measles, whooping cough, and other vaccine-preventable diseases are on the rise around the world. Cuts to foreign aid, coupled with growing vaccine hesitancy, and persistent gaps in vaccine access ar\u2026 [+1377 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.533885",
+      "internal_id": "903bd5f7b9109fbde63babe0b6e868e3e3e22d679cf28ef7f9fe0bde8b8293e8",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25573,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Silvia L\u00f3pez",
+      "title": "Espa\u00f1a proh\u00edbe la cr\u00eda de aves al aire libre a partir de esta fecha",
+      "description": "El Ministerio refuerza las medidas ante el avance del virus H5N1 en Europa",
+      "url": "https://www.elconfidencial.com/espana/2025-11-07/espana-prohibe-cria-aves-aire-libre-a-partir-fecha_4243351/",
+      "urlToImage": "https://images.ecestaticos.com/vcnyM1JP2RMq0WcFCsq1XQVGPSM=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/4e3/c4a/64f/4e3c4a64f5137d0e1651d9e3081d1a10.jpg",
+      "publishedAt": "2025-11-07 09:32:00",
+      "content": "No, ese pajarillo no est\u00e1 solo y abandonado: no lo cojas (y mucho menos lo atiborres a pan)Sigue a El Confidencial en Google Discover para enterarte de todas las noticiasEspa\u00f1a ha decidido prohibir l\u2026 [+2425 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.021976",
+      "internal_id": "e84dec86ef79e9aec455e31d9408bf1a0dfa256e3d99b39272844bd81af8a3fb",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25577,
+      "query": [
+        "dengue",
+        "malaria",
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Mahhi Vij shares health update from hospital; says \u2018I'm most saddened that I'm not able to go for the shoot\u2019",
+      "description": "Television actress Mahhi Vij is hospitalized with a severe viral infection, causing concern among fans. Despite negative tests for dengue, malaria, and typhoid, her primary worry is her upcoming comeback project, 'Seher Hone Ko Hai.' Mahhi expressed her dedic\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125155222,width-1070,height-580,imgsize-24092,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-11-07 09:15:36",
+      "content": "News tv hindi Mahhi Vij shares health update from hospital; says I'm most saddened that I'm not able to go for the shoot Television actress Mahhi Vij \u2026 [+2298 chars]",
+      "retrievedAt": "2025-11-08 19:05:46.458122",
+      "internal_id": "415d9e7c4f419ee2adc64f3576f7a4fa18da72a30f2034c19d5524e521c2ca9c",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25569,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The West Australian",
+      "author": "The West Australian",
+      "title": "Measles: Several exposure sites in South West, Great Southern after two new cases confirmed",
+      "description": "Shops, a brewery, a regional emergency department and Perth International Airport are among the latest exposure sites added to the public health alert. SEE THE LIST",
+      "url": "https://thewest.com.au/news/health/measles-several-exposure-sites-in-south-west-great-southern-after-two-new-cases-confirmed-c-20608834",
+      "urlToImage": "https://images.thewest.com.au/publication/C-20608834/3228b42d6230d67357d354c6da4d0775df18965b-16x9-x10y0w1900h1069.jpg?imwidth=1200",
+      "publishedAt": "2025-11-07 09:13:30",
+      "content": "Measles cases in Western Australia are at a three-decade high as health authorities added more than a dozen new exposure sites across the South West and Great Southern regions this week. The Departm\u2026 [+3268 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.576610",
+      "internal_id": "906bed2aa207355ffcfc2a904317d68e21023dd273af98fe91fba3bd3e7cd741",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25580,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "snt-malaria-budgeting 0.4.0",
+      "description": "A Python library for calculating malaria intervention budgets",
+      "url": "https://pypi.org/project/snt-malaria-budgeting/0.4.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-11-07 08:57:44",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-11-08 19:05:47.014782",
+      "internal_id": "6932d53fe6a94c2f53c9908110f477249b9f2b6f24e3d4a774eb517b1a7a2c54",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 25566,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Catch-up Immunization Campaign Launched in the Gaza Strip",
+      "description": "UNICEF, UNRWA, WHO and partners, in collaboration with the Ministry of Health, are launching an integrated catch-up campaign for routine immunization, nutrition, and growth monitoring in the Gaza Strip to reach 44,000 children cut off from essential life-savi\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251106-unrwa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-11-07 07:45:07",
+      "content": "UNRWA 6 Nov 2025 The campaign will be implemented in three rounds to reach children with three doses of Pentavalent, Polio, Rota &amp; Pneumococcal Conjugate Vaccine and two dose of Measles, Mumps\u2026 [+5328 chars]",
+      "retrievedAt": "2025-11-08 19:05:45.499383",
+      "internal_id": "b8661573c93f04d90658db79ac60dab7c86fbf642ffea83e31f7dc96fafb80e8",
+      "publishedAtLabel": "Nov 7"
+    },
     {
       "id": 25560,
       "query": [
@@ -15887,96 +16181,6 @@
       "content": "Just over a decade ago, endemic measles was declared eliminated from Australia. But an infectious diseases specialist says that status could be under threat \"if the current trend continues\". So far\u2026 [+4445 chars]",
       "retrievedAt": "2025-09-23 07:07:53.462203",
       "internal_id": "3e37fe36515a7aee1f633250ebfae59859118213de2be769b6b62cee657955a3",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24672,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": "Ag\u00eancia O Globo",
-      "title": "Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista",
-      "description": "A dissemina\u00e7\u00e3o da gripe avi\u00e1ria H5N1 no continente americano, em especial nos EUA, aumenta a probabilidade do v\u00edrus se adaptar aos humanos The post Risco de nova pandemia nesse momento vem principalmente das Am\u00e9ricas, diz virologista appeared first on InfoMo\u2026",
-      "url": "https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-13T143534Z_1_LYNXNPEK2C0IB_RTROPTP_4_MEDIO-AMBIENTE-GRIPE-AVIAR.png?quality=70",
-      "publishedAt": "2025-09-21 15:28:18",
-      "content": "Especialistas n\u00e3o cansam de dizer que a pr\u00f3xima pandemia n\u00e3o \u00e9 uma quest\u00e3o de se, mas quando e muitos acreditam que isso n\u00e3o deve demorar muito para acontecer. Um dos poss\u00edveis causadores dessa emerg\u2026 [+4512 chars]",
-      "retrievedAt": "2025-09-22 19:06:06.495682",
-      "internal_id": "68c2e2895ea20d0d65344838d30c1f5013d86dc3067da9c428525b30bd2a2f75",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24676,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet.com.tr",
-      "author": "hurriyet.com.tr",
-      "title": "\u00c7in'de \u00fc\u00e7\u00fcnc\u00fc seviye acil durum: Chikungunya vir\u00fcs\u00fc yay\u0131l\u0131yor",
-      "description": "\u00c7in'de artan \u2018Chikungunya\u2019 ate\u015fi vakalar\u0131 nedeniyle 3'\u00fcnc\u00fc seviye \u2018halk sa\u011fl\u0131\u011f\u0131 acil durumu\u2019 ilan edildi.",
-      "url": "https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/68d0112ede19472041f58dcb.jpg",
-      "publishedAt": "2025-09-21 14:52:33",
-      "content": "p&gt;\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Jiangmen ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says bin 714'e y\u00fckseldi.B\u00f6lgede salk otoritelerinin, salgn nedeniyle 3'\u00fcnc\u2026 [+402 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.238532",
-      "internal_id": "16c4aae482bbab69cda9d5931386286c2759309007000df37849b6deffc7fdc9",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24674,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ay\u015fe \u00c7olpan Tan",
-      "title": "\u00c7in'de salg\u0131n yay\u0131ld\u0131: Acil durum ilan edildi!",
-      "description": "\u00c7in'de artan Chikungunya ate\u015fi vakalar\u0131 2 bine yakla\u015ft\u0131. Salg\u0131n nedeniyle 3'\u00fcnc\u00fc seviye \"halk sa\u011fl\u0131\u011f\u0131 acil durumu\" ilan edildi.",
-      "url": "https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/38/cinde_salgin_yayildi_acil_durum_ilan_edildi_1758462412_5832.jpg",
-      "publishedAt": "2025-09-21 13:47:00",
-      "content": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangmn ehrinde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vaka says 1.714'e \u00e7kt. Xinhua haber ajansna g\u00f6re salk otoriteleri, salgn nedeniyle \u2026 [+1201 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.126872",
-      "internal_id": "04dca7cf27f3ad2f11d261685db4fbf9d5a30fcc67e785d5d796769835f9e7fe",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24675,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'de 1714 Chikungunya ate\u015fi vakas\u0131 tespit edildi",
-      "description": "\u00c7in'in g\u00fcneyindeki Guangdong eyaletinin Ciangm\u0131n \u015fehrinde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 1714 Chikungunya ate\u015fi vakas\u0131 belirlendi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-09/21/cin.jpg",
-      "publishedAt": "2025-09-21 11:09:40",
-      "content": "\u00c7in ajans Xinhua'nn haberine g\u00f6re, Ciangmn ehri salk otoriteleri, salgn nedeniyle 3. seviye \"halk sal acil durumu\" ilan etti. ehirde 19 Eyl\u00fcl'e dek 1714 vaka tespit edilirken, vakalarn tamamnn hafif\u2026 [+582 chars]",
-      "retrievedAt": "2025-09-22 19:06:08.198332",
-      "internal_id": "027d97a84bae96b759e95b57be83b362abff1aee892e740726cf06d0553d7a21",
-      "publishedAtLabel": "Sep 21"
-    },
-    {
-      "id": 24673,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "IANS",
-      "title": "'ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule",
-      "description": "The second shooting schedule for Sooriyaprathap's sci-fi crime thriller, 'ROOT - Running Out of Time,' starring Gautham Ram Karthik, has been successfully completed. Despite Gautham's brief hospitalization due to Dengue after the first schedule, the team prog\u2026",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124025252,width-1070,height-580,imgsize-27032,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-09-21 07:15:32",
-      "content": "Bigg Boss 19 fame Neha Chudasamas glamorous looks",
-      "retrievedAt": "2025-09-22 19:06:06.957820",
-      "internal_id": "d29bb752680fffc5960c213fc3883e27fdd0fd18671da2204ee22d36e5dea294",
       "publishedAtLabel": "Sep 21"
     }
   ]

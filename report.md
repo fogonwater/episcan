@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-11-08 07:06
-- **Most recent article:** 2025-11-07 02:41:08
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-11-08 19:05
+- **Most recent article:** 2025-11-07 19:00:12
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-39 | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 31 | 29 | 35 | 25 | 35 | 13 | 202 |
-| dengue | 18 | 32 | 23 | 18 | 14 | 33 | 24 | 162 |
-| h5n1 | 5 | 10 | 8 | 8 | 32 | 34 | 28 | 125 |
-| chikungunya | 23 | 25 | 10 | 28 | 11 | 9 | 11 | 117 |
-| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 13 | 115 |
+| measles | 34 | 31 | 29 | 35 | 25 | 35 | 17 | 206 |
+| dengue | 17 | 32 | 23 | 18 | 14 | 33 | 29 | 166 |
+| h5n1 | 4 | 10 | 8 | 8 | 32 | 34 | 32 | 128 |
+| malaria | 14 | 10 | 20 | 24 | 17 | 17 | 16 | 118 |
+| chikungunya | 20 | 25 | 10 | 28 | 11 | 9 | 13 | 116 |
 | mpox | 8 | 1 | 10 | 11 | 8 | 20 | 5 | 63 |
 | rabies | 18 | 10 | 6 | 9 | 3 | 1 | 3 | 50 |
-| zika | 6 | 5 | 7 | 1 | 3 | 5 | 7 | 34 |
+| zika | 6 | 5 | 7 | 1 | 3 | 5 | 9 | 36 |
 | meningitis | 3 | 7 | 5 | 4 | 1 | 5 | 0 | 25 |
+| typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 1 | 15 |
 | leptospirosis | 2 | 5 | 1 | 4 | 0 | 1 | 1 | 14 |
-| typhoid | 3 | 0 | 4 | 5 | 1 | 1 | 0 | 14 |
 | hpai | 1 | 2 | 1 | 0 | 4 | 2 | 1 | 11 |
 | yersinia | 1 | 0 | 0 | 2 | 1 | 1 | 4 | 9 |
-| pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 1 | 6 |
+| pertussis | 0 | 1 | 2 | 0 | 1 | 1 | 2 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-45 (zika)
+
+- [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
+
+- [Portugal preparado para emergências causadas por mosquitos](https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/) (Observador.pt)
 
 - [北摂JAMが挑む『イベントDX』の新機軸。口コミで“単発収益の壁”を壊す](https://prtimes.jp/main/html/rd/p/000000040.000165098.html) (Prtimes.jp)
 
@@ -59,6 +63,10 @@ Source: [News API](https://newsapi.org/)
 
 - [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
 
+## 25-45 (typhoid)
+
+- [Mahhi Vij shares health update from hospital; says ‘I'm most saddened that I'm not able to go for the shoot’](https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms) (The Times of India)
+
 ## 25-45 (shigellosis)
 
 - [Prevalence of Shigellosis among household contacts of index cases in the EFGH catchment area, Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013644) (Plos.org)
@@ -72,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [A shapeshifting protein explains rabies’ deadly power](https://www.sciencedaily.com/releases/2025/11/251105050708.htm) (Science Daily)
 
 ## 25-45 (pertussis)
+
+- [West Virginia health officials see rise in whooping cough cases](https://wchstv.com/news/local/west-virginia-health-officials-see-rise-in-whooping-cough-cases) (WCHS-TV8)
 
 - [Whooping cough cases soar in Texas, quadrupling last year's count](https://www.fox26houston.com/news/whooping-cough-cases-soar-texas-quadrupling-last-years-count) (fox26houston.com)
 
@@ -88,6 +98,14 @@ Source: [News API](https://newsapi.org/)
 - [Avrupa’dan Afrika’ya sessizce yayılıyor! 'Her 100 kişiden birini öldürebilir'](https://www.turkiyegazetesi.com.tr/dunya/avrupadan-afrikaya-sessizce-yayiliyor-her-100-kisiden-birini-oldurebilir-1157085) (Turkiyegazetesi.com.tr)
 
 ## 25-45 (measles)
+
+- [Paramyxoviruses in old world fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013698) (Plos.org)
+
+- [On the Rise of Vaccine-Preventable Diseases](https://cfrontherecord.podbean.com/e/on-the-rise-of-vaccine-preventable-diseases/) (Podbean.com)
+
+- [Measles: Several exposure sites in South West, Great Southern after two new cases confirmed](https://thewest.com.au/news/health/measles-several-exposure-sites-in-south-west-great-southern-after-two-new-cases-confirmed-c-20608834) (The West Australian)
+
+- [Catch-up Immunization Campaign Launched in the Gaza Strip](https://www.globalsecurity.org/military/library/news/2025/11/mil-251106-unrwa01.htm) (Globalsecurity.org)
 
 - [Measles outbreak: Samoa issues travel advisory, travellers told to vaccinate](https://www.nzherald.co.nz/talanoa/measles-outbreak-samoa-issues-travel-advisory-travellers-told-to-vaccinate/UFAYF4AQJ5AYPBDDJ4JOUYEXP4/) (New Zealand Herald)
 
@@ -116,6 +134,12 @@ Source: [News API](https://newsapi.org/)
 - [Measles outbreak: One new infection in Auckland - linked to overseas travel case](https://www.nzherald.co.nz/nz/measles-outbreak-one-new-infection-in-auckland-linked-to-overseas-travel-case/BJXLDCYFOJGE5FO56G3JWHDHQE/) (New Zealand Herald)
 
 ## 25-45 (malaria)
+
+- [Malaria isn’t just a health crisis — it’s an economic imperative](https://fortune.com/2025/11/07/why-malaria-is-economic-imperative-for-us-america/) (Fortune)
+
+- [Mahhi Vij shares health update from hospital; says ‘I'm most saddened that I'm not able to go for the shoot’](https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms) (The Times of India)
+
+- [snt-malaria-budgeting 0.4.0](https://pypi.org/project/snt-malaria-budgeting/0.4.0/) (Pypi.org)
 
 - [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
 
@@ -152,6 +176,14 @@ Source: [News API](https://newsapi.org/)
 - [日本HPが仕掛ける次世代AI PC､触れるだけで仕事が快適になる秘密とは - ローカル搭載AIがパフォーマンス向上へ導く](https://president.jp/articles/-/103912) (President.jp)
 
 ## 25-45 (h5n1)
+
+- [Why the conspiratorial right rallied around a flock of ostriches](https://www.msnbc.com/news/news-analysis/conspiratorial-right-rallied-flock-ostriches-rcna242541) (MSNBC)
+
+- [In Friesoythe: 9.400 Puten wegen Geflügelpestausbruch getötet](https://www.zeit.de/news/2025-11/07/9-400-puten-wegen-gefluegelpestausbruch-getoetet) (Die Zeit)
+
+- [In Friesoythe: 9.400 Puten wegen Geflügelpestausbruch getötet](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/in-friesoythe--9-400-puten-wegen-gefluegelpestausbruch-getoetet-36213114.html) (STERN.de)
+
+- [España prohíbe la cría de aves al aire libre a partir de esta fecha](https://www.elconfidencial.com/espana/2025-11-07/espana-prohibe-cria-aves-aire-libre-a-partir-fecha_4243351/) (Elconfidencial.com)
 
 - [Ptasia grypa zdziesiątkowała populację słoni morskich. "Przerażający widok"](https://tvn24.pl/tvnmeteo/swiat/ptasia-grypa-zdziesiatkowala-populacje-sloni-morskich-przerazajacy-widok-st8740066) (Tvn24.pl)
 
@@ -211,6 +243,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (dengue)
 
+- [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
+
+- [Portugal preparado para emergências causadas por mosquitos](https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/) (Observador.pt)
+
+- [A paradigm shift in DENV-4 clinical presentation: A viewpoint on pulmonary inflammatory symptoms from the 2023 Lincang outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013679) (Plos.org)
+
+- [Vacina contra a dengue demonstra proteção após sete anos, aponta estudo](https://www.infomoney.com.br/saude/vacina-contra-a-dengue-demonstra-protecao-apos-sete-anos-aponta-estudo/) (InfoMoney)
+
+- [Mahhi Vij shares health update from hospital; says ‘I'm most saddened that I'm not able to go for the shoot’](https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms) (The Times of India)
+
 - [Bigg Boss 19 Promo: Pranit More returns to the show Mridul Tiwari, Ashnoor Kaur and others rejoice](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-promo-pranit-more-returns-to-the-show-mridul-tiwari-ashnoor-kaur-and-others-rejoice/articleshow/125148046.cms) (The Times of India)
 
 - [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
@@ -260,6 +302,10 @@ Source: [News API](https://newsapi.org/)
 - [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (chikungunya)
+
+- [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
+
+- [Portugal preparado para emergências causadas por mosquitos](https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/) (Observador.pt)
 
 - [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
 
@@ -2021,8 +2067,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirman nuevo brote de influenza aviar H5N1; van 400 aves muertas este año](https://www.excelsior.com.mx/nacional/confirman-nuevo-brote-de-influenza-aviar-h5n1-van-400-aves-muertas-este-ano/1741441) (Excelsior.com.mx)
 
-- [Risco de nova pandemia nesse momento vem principalmente das Américas, diz virologista](https://oglobo.globo.com/saude/noticia/2025/09/21/o-risco-de-uma-nova-pandemia-nesse-momento-vem-principalmente-das-americas-afirma-virologista.ghtml) (Globo)
-
 ## 25-39 (dengue)
 
 - [Registrato un caso di Dengue a Torgiano](https://www.ansa.it/umbria/notizie/2025/09/27/registrato-un-caso-di-dengue-a-torgiano_d310acd2-b075-4058-9578-33dc844630b4.html) (ANSA.it)
@@ -2058,8 +2102,6 @@ Source: [News API](https://newsapi.org/)
 - [Antibody responses to Japanese encephalitis virus and dengue virus serotype 2 in children from an orthoflavivirus endemic region after IMOJEV vaccination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013550) (Plos.org)
 
 - [México suma casi 10 mil contagios por dengue; 759 en la última semana](https://www.excelsior.com.mx/nacional/mexico-suma-casi-10-mil-casos-de-dengue-759-en-la-ultima-semana/1740875) (Excelsior.com.mx)
-
-- ['ROOT': Gautham Karthick's sci-fi crime thriller unit wraps up second schedule](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/root-gautham-karthicks-sci-fi-crime-thriller-unit-wraps-up-second-schedule/articleshow/124025242.cms) (The Times of India)
 
 ## 25-39 (chikungunya)
 
@@ -2102,9 +2144,3 @@ Source: [News API](https://newsapi.org/)
 - [Çin'de halk sağlığı acil durumu ilan edildi](https://www.haberturk.com/cin-de-halk-sagligi-acil-durumu-ilan-edildi-3824227) (Haberturk.com)
 
 - [Sivrisinek kaynaklı 'Chikungunya' Çin’de yayılıyor: 3. seviye acil durum ilan edildi](https://anlatilaninotesi.com.tr/20250922/sivrisinek-kaynakli-chikungunya-cinde-yayiliyor-3-seviye-acil-durum-ilan-edildi-1099560838.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'de üçüncü seviye acil durum: Chikungunya virüsü yayılıyor](https://www.hurriyet.com.tr/dunya/cinde-ucuncu-seviye-acil-durum-chikungunya-virusu-yayiliyor-42956611) (Hurriyet.com.tr)
-
-- [Çin'de salgın yayıldı: Acil durum ilan edildi!](https://www.haber7.com/dunya/haber/3565180-cinde-salgin-yayildi-acil-durum-ilan-edildi) (Haber7.com)
-
-- [Çin'de 1714 Chikungunya ateşi vakası tespit edildi](https://www.patronlardunyasi.com/cinde-1714-chikungunya-atesi-vakasi-tespit-edildi) (Patronlardunyasi.com)
