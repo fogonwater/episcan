@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-11-09 07:07
-- **Most recent article:** 2025-11-08 02:49:37
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-11-09 19:05
+- **Most recent article:** 2025-11-08 18:37:04
 
 ---
 
@@ -13,12 +13,12 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | Total |
 |--|-|-|-|-|-|-|-|
 | measles | 31 | 29 | 35 | 25 | 35 | 21 | 176 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 31 | 151 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 32 | 151 |
 | h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 124 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 17 | 104 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 106 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 95 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 55 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 33 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 31 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 30 |
 | meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 22 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 12 |
@@ -145,6 +145,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-45 (malaria)
 
+- [Novak Djokovic klopt Lorenzo Musetti in finale Athene; Elena Rybakina wint WTA Finals](https://www.telegraaf.nl/sport/tennis/novak-djokovic-klopt-lorenzo-musetti-in-finale-athene-en-pakt-101e-titel-elena-rybakina-wint-wta-finals/103629663.html) (Telegraaf.nl)
+
+- [Over 320m mosquito nets, 450m malaria drugs distributed nationwide since 2009 — NMEP](https://www.premiumtimesng.com/health/health-news/833728-over-320m-mosquito-nets-450m-malaria-drugs-distributed-nationwide-since-2009-nmep.html) (Premium Times)
+
 - [In jacht op titel 101 bereikt Novak Djokovic finale in Athene, Sabalenka en Rybakina naar eindstrijd WTA Finals](https://www.telegraaf.nl/sport/tennis/in-jacht-op-titel-101-bereikt-novak-djokovic-finale-in-athene-sabalenka-en-rybakina-naar-eindstrijd-wta-finals/103511516.html) (Telegraaf.nl)
 
 - [Malaria isn’t just a health crisis — it’s an economic imperative](https://fortune.com/2025/11/07/why-malaria-is-economic-imperative-for-us-america/) (Fortune)
@@ -254,6 +258,8 @@ Source: [News API](https://newsapi.org/)
 - [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
 
 ## 25-45 (dengue)
+
+- [Novak Djokovic klopt Lorenzo Musetti in finale Athene; Elena Rybakina wint WTA Finals](https://www.telegraaf.nl/sport/tennis/novak-djokovic-klopt-lorenzo-musetti-in-finale-athene-en-pakt-101e-titel-elena-rybakina-wint-wta-finals/103629663.html) (Telegraaf.nl)
 
 - [São Paulo tem “Dia D” de mobilização contra a dengue neste sábado](https://www.metropoles.com/sao-paulo/sao-paulo-tem-dia-d-de-mobilizacao-contra-a-dengue-neste-sabado) (Metropoles.com)
 
@@ -1601,10 +1607,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1816,8 +1818,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 

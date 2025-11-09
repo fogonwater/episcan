@@ -1,8 +1,45 @@
 {
-  "last_updated": "2025-11-09 07:07",
-  "count_articles_total": 780,
-  "count_articles_new": 7,
+  "last_updated": "2025-11-09 19:05",
+  "count_articles_total": 779,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 25588,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": "onze Telesportredactie",
+      "title": "Novak Djokovic klopt Lorenzo Musetti in finale Athene; Elena Rybakina wint WTA Finals",
+      "description": "Novak Djokovic heeft het tennistoernooi van Athene op zijn naam geschreven. De 38-jarige Servi\u00ebr versloeg in de finale de Italiaan Lorenzo Musetti in drie sets: 4-6, 6-3, 7-5.",
+      "url": "https://www.telegraaf.nl/sport/tennis/novak-djokovic-klopt-lorenzo-musetti-in-finale-athene-en-pakt-101e-titel-elena-rybakina-wint-wta-finals/103629663.html",
+      "urlToImage": "https://prod-img.telegraaf.nl/public/incoming/82c5je-anp-541577115.jpg/alternates/SIXTEEN_NINE_1200/ANP-541577115.jpg",
+      "publishedAt": "2025-11-08 18:37:04",
+      "content": "Niet ziek worden in India uitdaging voor Oranje-tennissters: Je hebt daar malaria, dengue, nog een andere mug De tennissters van Oranje zijn op hun hoede voor de omstandigheden in India voor hun wed\u2026 [+173 chars]",
+      "retrievedAt": "2025-11-09 19:05:30.461678",
+      "internal_id": "6147283b866bf1f560a0143f0b4edc275dd32b27bb9186ab68172100dab4dd65",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 25589,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Agency Report",
+      "title": "Over 320m mosquito nets, 450m malaria drugs distributed nationwide since 2009 \u2014 NMEP",
+      "description": "She said the ITN mass campaign, which began in 2009, and the introduction of SPAQ in 2013, had positioned Nigeria as a leader in malaria prevention efforts in sub-Saharan Africa.",
+      "url": "https://www.premiumtimesng.com/health/health-news/833728-over-320m-mosquito-nets-450m-malaria-drugs-distributed-nationwide-since-2009-nmep.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2013/04/Mosquito-nets.jpg",
+      "publishedAt": "2025-11-08 10:20:40",
+      "content": "The National Malaria Elimination Programme (NMEP) says it has distributed over 320 million Insecticide-Treated Nets (ITNs) and 450 million blisters of Sulfadoxine Pyrimethamine and Amodiaquine (SPAQ)\u2026 [+3315 chars]",
+      "retrievedAt": "2025-11-09 19:05:30.995201",
+      "internal_id": "8c02c48f3baa62d87b8f5540264bd27c1084bd746625231eb5609b2c58b18754",
+      "publishedAtLabel": "Nov 8"
+    },
     {
       "id": 25584,
       "query": [
@@ -14047,60 +14084,6 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24810,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
-      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
-      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
-      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
-      "publishedAt": "2025-09-28 14:21:23",
-      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
-      "retrievedAt": "2025-09-29 19:06:14.197762",
-      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24809,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "David Njaaga",
-      "title": "Kenya seeks global backing for rabies elimination plan",
-      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
-      "publishedAt": "2025-09-28 14:15:53",
-      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.536817",
-      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24808,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Trending Desk",
-      "title": "About 1,000 Pakistanis die annually from rabies: Report",
-      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-09-28 10:20:40",
-      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.484815",
-      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]
