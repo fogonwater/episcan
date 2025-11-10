@@ -1,8 +1,44 @@
 {
-  "last_updated": "2025-11-10 07:08",
-  "count_articles_total": 785,
-  "count_articles_new": 3,
+  "last_updated": "2025-11-10 19:06",
+  "count_articles_total": 784,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 25594,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Reason",
+      "author": "Nick Gillespie",
+      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
+      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
+      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
+      "publishedAt": "2025-11-09 11:00:17",
+      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
+      "retrievedAt": "2025-11-10 19:06:08.819354",
+      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25593,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
+      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
+      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
+      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
+      "publishedAt": "2025-11-09 09:05:03",
+      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
+      "retrievedAt": "2025-11-10 19:06:07.685757",
+      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
+      "publishedAtLabel": "Nov 9"
+    },
     {
       "id": 25592,
       "query": [
@@ -14138,60 +14174,6 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24810,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
-      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
-      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
-      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
-      "publishedAt": "2025-09-28 14:21:23",
-      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
-      "retrievedAt": "2025-09-29 19:06:14.197762",
-      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24809,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "David Njaaga",
-      "title": "Kenya seeks global backing for rabies elimination plan",
-      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
-      "publishedAt": "2025-09-28 14:15:53",
-      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.536817",
-      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24808,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Trending Desk",
-      "title": "About 1,000 Pakistanis die annually from rabies: Report",
-      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-09-28 10:20:40",
-      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.484815",
-      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]

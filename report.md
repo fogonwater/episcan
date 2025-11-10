@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-11-10 07:08
-- **Most recent article:** 2025-11-09 03:09:22
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-11-10 19:06
+- **Most recent article:** 2025-11-09 11:00:17
 
 ---
 
@@ -13,17 +13,17 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 31 | 29 | 35 | 25 | 35 | 21 | 1 | 177 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 0 | 153 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 0 | 152 |
 | h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 0 | 124 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 0 | 106 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 1 | 107 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 1 | 96 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 0 | 55 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 0 | 33 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 0 | 31 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
 | meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 0 | 22 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 0 | 12 |
 | leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 0 | 12 |
-| hpai | 2 | 1 | 0 | 4 | 2 | 1 | 0 | 10 |
+| hpai | 2 | 1 | 0 | 4 | 2 | 1 | 1 | 11 |
 | yersinia | 0 | 0 | 2 | 1 | 1 | 4 | 0 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 2 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
@@ -36,6 +36,14 @@ Source: [News API](https://newsapi.org/)
 ## 25-46 (measles)
 
 - [Measles outbreak: New case detected in Nelson, not linked to previous cases](https://www.nzherald.co.nz/nz/measles-outbreak-new-case-detected-in-nelson-not-linked-to-previous-cases/YWBPEM443FE3POFVGZWWHS7ODA/) (New Zealand Herald)
+
+## 25-46 (malaria)
+
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
+## 25-46 (hpai)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (chikungunya)
 
@@ -1617,10 +1625,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1832,8 +1836,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
