@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-11-11 07:07
-- **Most recent article:** 2025-11-10 06:54:55
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-11-11 19:06
+- **Most recent article:** 2025-11-10 18:23:30
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 2 | 178 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 3 | 156 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 1 | 125 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 1 | 107 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 19 | 195 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 6 | 158 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 6 | 130 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 2 | 108 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 2 | 97 |
-| mpox | 1 | 10 | 11 | 8 | 20 | 5 | 0 | 55 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 0 | 33 |
+| mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 1 | 32 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
-| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 0 | 22 |
+| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 1 | 23 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 0 | 12 |
 | leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 0 | 12 |
 | hpai | 2 | 1 | 0 | 4 | 2 | 1 | 1 | 11 |
@@ -33,13 +33,61 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-46 (rabies)
+
+- [Health experts push for integrated health action](https://www.standardmedia.co.ke/health/health-science/article/2001533866/health-experts-push-for-integrated-health-action) (Standard Digital)
+
+## 25-46 (mpox)
+
+- [MOH urges preventive measures against Mpox](https://www.omanobserver.om/article/1179460/oman/health/moh-urges-preventive-measures-against-mpox) (Omanobserver.om)
+
+## 25-46 (meningitis)
+
+- [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
+
 ## 25-46 (measles)
+
+- [Measles exposure at southern Manitoba truck stop restaurant announced](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposure-winkler-truck-stop-9.6973614) (CBC News)
+
+- [Canada loses measles elimination status after year-long outbreak](https://www.thestar.com.my/news/world/2025/11/11/canada-loses-measles-elimination-status-after-year-long-outbreak) (The Star Online)
+
+- [Canada loses measles elimination status after ongoing outbreaks](https://www.bostonherald.com/2025/11/10/canada-measles/) (Boston Herald)
+
+- [Canada loses measles elimination status after ongoing outbreaks](https://www.seattlepi.com/news/article/canada-loses-measles-elimination-status-after-21152834.php) (seattlepi.com)
+
+- [Deadly measles surge sees Canada lose eradicated status](https://www.digitaljournal.com/world/deadly-measles-surge-sees-canada-lose-eradicated-status/article) (Digital Journal)
+
+- [Canada loses its measles elimination status amid large outbreak | CNN](https://www.cnn.com/2025/11/10/health/canada-measles-elimination-status-removed) (CNN)
+
+- [Canada loses its measles elimination status. Will the U.S. be next?](https://www.nbcnews.com/health/health-news/canada-loses-measles-elimination-status-will-us-rcna242630) (NBC News)
+
+- [Canada has lost its measles elimination status for the first time in 27 years](https://nationalpost.com/news/canada/canada-measles-elimination-status) (National Post)
+
+- [Canada loses measles elimination status after three decades, health agency says](https://www.thestar.com.my/news/world/2025/11/10/canada-loses-measles-elimination-status-after-three-decades-health-agency-says) (The Star Online)
+
+- [Canada loses measles elimination status amid year-long outbreak, health officials say](https://abcnews.go.com/Health/canada-loses-measles-elimination-status-amid-year-long/story?id=127373379) (ABC News)
+
+- [Canada Loses Measles-Free Status With Outbreak Passing One-Year Mark](https://financialpost.com/pmn/business-pmn/canada-loses-measles-free-status-with-outbreak-passing-one-year-mark) (Financial Post)
+
+- [Canada loses its official ‘measles-free’ status – and the US will follow soon, as vaccination rates fall](https://theconversation.com/canada-loses-its-official-measles-free-status-and-the-us-will-follow-soon-as-vaccination-rates-fall-269090) (The Conversation Africa)
+
+- [Canada loses measles elimination status, says agency](https://www.rte.ie/news/world/2025/1110/1543176-canada-measles/) (RTE)
+
+- [Canada loses measles elimination status | CBC](https://www.cbc.ca/news/health/livestory/canada-measles-elimination-status-9.6973195) (CBC News)
+
+- [Statement from the Public Health Agency of Canada on Canada’s Measles Elimination Status](https://www.canada.ca/en/public-health/news/2025/11/statement-from-the-public-health-agency-of-canada-on-canadas-measles-elimination-status.html) (Canada.ca)
+
+- [Seven-year-old dies of measles](https://www.israelnationalnews.com/news/417566) (Israelnationalnews.com)
+
+- [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 - [WA sees highest number of measles cases since 1997](https://www.abc.net.au/news/2025-11-10/measles-warning-issued-or-wa-south-west-and-great-southern/105981388) (ABC News (AU))
 
 - [Measles outbreak: New case detected in Nelson, not linked to previous cases](https://www.nzherald.co.nz/nz/measles-outbreak-new-case-detected-in-nelson-not-linked-to-previous-cases/YWBPEM443FE3POFVGZWWHS7ODA/) (New Zealand Herald)
 
 ## 25-46 (malaria)
+
+- [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
 - [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
 
@@ -49,9 +97,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (h5n1)
 
+- [Third outbreak of highly contagious bird flu confirmed in Irish turkey flock](https://www.independent.ie/irish-news/third-outbreak-of-highly-contagious-bird-flu-confirmed-in-irish-turkey-flock/a84803689.html) (Independent.ie)
+
+- [Tierseuche: Nun auch Vogelgrippe-Fall am Bodensee](https://www.zeit.de/news/2025-11/10/nun-auch-vogelgrippe-fall-am-bodensee) (Die Zeit)
+
+- [Geflügelpest: Stallpflicht nach H5N1-Ausbruch - gut 90 Hühner tot](https://www.zeit.de/news/2025-11/10/stallpflicht-nach-h5n1-ausbruch-gut-90-huehner-tot) (Die Zeit)
+
+- [Geflügelpest: Stallpflicht nach H5N1-Ausbruch - gut 90 Hühner tot](https://www.stern.de/gesellschaft/regional/bayern/gefluegelpest--stallpflicht-nach-h5n1-ausbruch---gut-90-huehner-tot-36311398.html) (STERN.de)
+
+- [Viisitoista lintua on kuollut lintuinfluenssaan Virolahdella – Ruokavirasto: Poikkeuksellisen laaja tapaus](https://yle.fi/a/74-20193201) (YLE News)
+
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Dengue: disinfestazione contro le zanzare a Dhaka](https://www.ansa.it/sito/photogallery/primopiano/2025/11/10/dengue-disinfestazione-contro-le-zanzare-a-dhaka_0c29ce05-2dc7-4a2e-adcb-00e36a06ea55.html) (ANSA.it)
+
+- [Luto en Ciudad Obregón: Reportan fallecimiento de querido docente por dengue; casos, al alza](https://www.tribuna.com.mx/seguridad/2025/11/10/luto-en-ciudad-obregon-reportan-fallecimiento-de-querido-docente-por-dengue-casos-al-alza-419003.html) (Tribuna.com.mx)
+
+- [Alerta en Bácum: Reportan la muerte de niña a causa de dengue](https://www.tribuna.com.mx/sonora/2025/11/10/alerta-en-bacum-reportan-la-muerte-de-nina-causa-de-dengue-419009.html) (Tribuna.com.mx)
 
 - [Dengue en México: Se reportan más de mil casos en una semana](https://www.excelsior.com.mx/nacional/dengue-en-mexico-se-reportan-mas-de-mil-casos-en-una-semana/1750650) (Excelsior.com.mx)
 
@@ -1641,10 +1705,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1856,8 +1916,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 

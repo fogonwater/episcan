@@ -1,8 +1,513 @@
 {
-  "last_updated": "2025-11-11 07:07",
-  "count_articles_total": 793,
-  "count_articles_new": 6,
+  "last_updated": "2025-11-11 19:06",
+  "count_articles_total": 818,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 25623,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Darragh Nolan",
+      "title": "Third outbreak of highly contagious bird flu confirmed in Irish turkey flock",
+      "description": "A third outbreak of avian influenza has been confirmed in a commercial turkey flock in Co Monaghan.",
+      "url": "https://www.independent.ie/irish-news/third-outbreak-of-highly-contagious-bird-flu-confirmed-in-irish-turkey-flock/a84803689.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/jVSXzt-PU91ERrbdBYIzS4HH7Q8=/629x460/smart/prod-mh-ireland/e25d0c45-6728-4367-8298-3b78fde75168/f8630169-764a-475f-9e21-09e5062b37fd/e25d0c45-6728-4367-8298-3b78fde75168.jpg",
+      "publishedAt": "2025-11-10 18:23:30",
+      "content": "A third outbreak of avian influenza has been confirmed in a commercial turkey flock in Co Monaghan.The latest outbreak of the highly pathogenic H5N1 virus was detected in a commercial turkey flock ne\u2026 [+2303 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.314840",
+      "internal_id": "c6b2f808c4e4477af96fc51fba51986251f2b2e18adc0afcb0a432a480d57ad9",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25609,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles exposure at southern Manitoba truck stop restaurant announced",
+      "description": "Manitoba officials are warning there's another potential measles exposure site in the Winkler area.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposure-winkler-truck-stop-9.6973614",
+      "urlToImage": "https://i.cbc.ca/ais/45f743e4-a4c4-4ed9-92e5-c5e6724e40d4,1762796381936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C314%2C6000%2C3375%29%3BResize%3D620",
+      "publishedAt": "2025-11-10 18:21:51",
+      "content": "Manitoba officials are warning about another potential measles exposure site in the Winkler area. Anyone who was at the Outpost Grill in the Co-op cardlock truck stop at the junction of highways 3 a\u2026 [+888 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.552428",
+      "internal_id": "b3f1de7763bae896a50e2913dcab36f78233795befb5d169d3a7df983325e08a",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25610,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Lin Wei",
+      "title": "Canada loses measles elimination status after year-long outbreak",
+      "description": "OTTAWA, Nov. 10 (Xinhua) -- The Public Health Agency of Canada said Monday that the country has lost its measles elimination status. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/11/11/canada-loses-measles-elimination-status-after-year-long-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-11-10 17:25:00",
+      "content": "OTTAWA, Nov. 10 (Xinhua) -- The Public Health Agency of Canada said Monday that the country has lost its measles elimination status. In a statement, the Canadian agency said it was notified about t\u2026 [+1344 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.562251",
+      "internal_id": "c7953d794624525e983a45af34644d7b6290ba0b7facb332a99af2154b0d7819",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Tierseuche: Nun auch Vogelgrippe-Fall am Bodensee",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eTierseuche\u201c. Lesen Sie jetzt \u201eNun auch Vogelgrippe-Fall am Bodensee\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/10/nun-auch-vogelgrippe-fall-am-bodensee",
+      "urlToImage": "https://img.zeit.de/news/2025-11/10/nun-auch-vogelgrippe-fall-am-bodensee-image-group/wide__1300x731",
+      "publishedAt": "2025-11-10 16:52:17",
+      "content": "Ein an der Vogelgrippe erkrankter toter Schwan ist am Bodensee entdeckt worden. Bei dem Kadaver ist das Influenzavirus vom Subtyp H5N1 nachgewiesen worden, wie das zust\u00e4ndige Landratsamt in Friedrich\u2026 [+2346 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.252973",
+      "internal_id": "ac71ca4d272a7d842e3b75713d1452aa467e26220418c94b486d26d61e7e40fb",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25604,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Canada loses measles elimination status after ongoing outbreaks",
+      "description": "Canada has logged 5,138 measles cases this year and two deaths.",
+      "url": "https://www.bostonherald.com/2025/11/10/canada-measles/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/Canada_Measles_81099.jpg?w=1024&h=683",
+      "publishedAt": "2025-11-10 16:43:38",
+      "content": "By DEVI SHASTRI, AP Health Writer Canada is no longer measles-free because of ongoing outbreaks, international health experts said Monday, as childhood vaccination rates fall and the highly contagio\u2026 [+3637 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.472849",
+      "internal_id": "d47e3708ad92ad4439ad534de28e6929bdc560bc1a8a721cb53cb6eb928dd6fd",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25612,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By DEVI SHASTRI, AP Health Writer",
+      "title": "Canada loses measles elimination status after ongoing outbreaks",
+      "description": "International health experts say Canada is no longer measles-free because of ongoing outbreaks, as childhood vaccination rates fall and the highly contagious virus spreads across North and South America. The loss of the country\u2019s measles elimination status co\u2026",
+      "url": "https://www.seattlepi.com/news/article/canada-loses-measles-elimination-status-after-21152834.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/06/65/28601727/3/rawImage.jpg",
+      "publishedAt": "2025-11-10 16:39:00",
+      "content": "FILE - A vial of the measles, mumps and rubella (MMR) vaccine is pictured at International Community Health Services, Wednesday, Sept. 10, 2025, in Seattle. Lindsey Wasson/AP Canada is no longer me\u2026 [+4024 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.588950",
+      "internal_id": "20f0f27d653ec7118b0c3b92aad16ca5db046bcf2213607c348ee60243d34e30",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25607,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Deadly measles surge sees Canada lose eradicated status",
+      "description": "Canada has lost its measles elimination status, health officials said Monday, a major setback caused by a year-long resurgence of the disease largely among unvaccinated groups. Canada was formally declared measles-free in 1998, an achievement credited to year\u2026",
+      "url": "https://www.digitaljournal.com/world/deadly-measles-surge-sees-canada-lose-eradicated-status/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/11/1b6d49dedfa9d1455464e5d69835e194624d4147.jpg",
+      "publishedAt": "2025-11-10 16:37:20",
+      "content": "A child receives an MMR vaccine - Copyright AFP/File AIZAR RALDES Canada has lost its measles elimination status, health officials said Monday, a major setback caused by a year-long resurgence of th\u2026 [+3154 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.517516",
+      "internal_id": "388df675e7e9af55e5eb06b1247efeb62733fae059efc322db430bd7e65de5b0",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25618,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Nadia Kounang",
+      "title": "Canada loses its measles elimination status amid large outbreak | CNN",
+      "description": "Canada has lost its measles elimination status amid a large, ongoing outbreak of the virus, Public Health Agency of Canada said Monday.",
+      "url": "https://www.cnn.com/2025/11/10/health/canada-measles-elimination-status-removed",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-28t102833z-1533048575-rc2wjha5sr4g-rtrmadp-3-canada-measles.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-11-10 16:29:59",
+      "content": "Canada has lost its measles elimination status amid a large, ongoing outbreak of the virus, Public Health Agency of Canada said Monday. Canadas health agency was informed by the World Health Organiz\u2026 [+1052 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.651986",
+      "internal_id": "99f23dba40f8f67ce9953f73f7bd20abdaa512b0fc6874b5b3a2e32819001a3c",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25619,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Gefl\u00fcgelpest: Stallpflicht nach H5N1-Ausbruch - gut 90 H\u00fchner tot",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGefl\u00fcgelpest\u201c. Lesen Sie jetzt \u201eStallpflicht nach H5N1-Ausbruch - gut 90 H\u00fchner tot\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/10/stallpflicht-nach-h5n1-ausbruch-gut-90-huehner-tot",
+      "urlToImage": "https://img.zeit.de/news/2025-11/10/stallpflicht-nach-h5n1-ausbruch-gut-90-huehner-tot-image-group/wide__1300x731",
+      "publishedAt": "2025-11-10 16:22:36",
+      "content": "Immer \u00f6fter verh\u00e4ngen Beh\u00f6rden nach Vogelgrippe-Ausbr\u00fcchen in Bayern eine Stallpflicht f\u00fcr Gefl\u00fcgel haltende Betriebe. Nach einem Ausbruch der Krankheit unter H\u00fchnern in Geiselh\u00f6ring im Landkreis Str\u2026 [+3389 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.233689",
+      "internal_id": "834e8fde00f45a68031418bf473c68e5e0476dd82aff0639521e386bbb917e77",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25621,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gefl\u00fcgelpest: Stallpflicht nach H5N1-Ausbruch - gut 90 H\u00fchner tot",
+      "description": "Geiselh\u00f6ring (lby) - Immer \u00f6fter verh\u00e4ngen Beh\u00f6rden nach Vogelgrippe-Ausbr\u00fcchen in Bayern eine Stallpflicht f\u00fcr Gefl\u00fcgel haltende Betriebe. Nach einem",
+      "url": "https://www.stern.de/gesellschaft/regional/bayern/gefluegelpest--stallpflicht-nach-h5n1-ausbruch---gut-90-huehner-tot-36311398.html",
+      "urlToImage": "https://image.stern.de/36311400/t/oV/v1/w1440/r1.7778/-/10--o6ssrtdtg3v11axs2048jpeg---63f0938a4f655e98.jpg",
+      "publishedAt": "2025-11-10 16:22:36",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Stallpflicht, tote Tiere und \u00dcberwachungszonen: Die Vogelgrippe weiter sich aus. Warum auch Hunde- und Katzenbesitzer wachsam sein sollen. Immer\u2026 [+3808 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.262549",
+      "internal_id": "a8a614dd4feed065398bc9dcc093c139a9a848a55768433e105b02e8cdfc6d41",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25608,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Canada loses its measles elimination status. Will the U.S. be next?",
+      "description": "Canada has lost its measles elimination status, the country\u2019s Public Health Agency announced Monday, because of its inability to control an ongoing outbreak of the virus for at least a year",
+      "url": "https://www.nbcnews.com/health/health-news/canada-loses-measles-elimination-status-will-us-rcna242630",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-measles-canada-mb-1555-0f0380.jpg",
+      "publishedAt": "2025-11-10 16:00:12",
+      "content": "Canada has lost its measles elimination status, the countrys Public Health Agency announced Monday, because of its inability to control an ongoing outbreak of the virus for at least a year. A World \u2026 [+2544 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.535072",
+      "internal_id": "652736e6f1515552364786ed1383d8c0a2c72009fefe3e1b27e5690a6b62a839",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25614,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "National Post",
+      "author": "Sharon Kirkey",
+      "title": "Canada has lost its measles elimination status for the first time in 27 years",
+      "description": "Canada has been at the centre of measles outbreak this year, with 5,138 cases reported as of Oct. 25.",
+      "url": "https://nationalpost.com/news/canada/canada-measles-elimination-status",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/11/2224876898_297738687.jpg",
+      "publishedAt": "2025-11-10 15:52:16",
+      "content": "Canada no longer can claim it has eliminated the most infectious virus known to medicine after the Pan American Health Organization announced Monday it has removed the countrys measles elimination st\u2026 [+4487 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.615678",
+      "internal_id": "80e12b22846f18b5581a157941d5d99d1f07a735de82dcbcf7d91da4c7a4371f",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25615,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Canada loses measles elimination status after three decades, health agency says",
+      "description": "OTTAWA (Reuters) -Canada has lost its measles elimination status after nearly three decades due to its failure to curb a year-long outbreak, the country's public health agency said on Monday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/11/10/canada-loses-measles-elimination-status-after-three-decades-health-agency-says",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/10/3615661.jpg",
+      "publishedAt": "2025-11-10 15:23:00",
+      "content": "Healthy awareness posters related to the measles outbreak during a public health awareness campaign, at the Taber Health Centre, in the largely Mennonite community of Taber, Alberta, Canada, October \u2026 [+1259 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.624921",
+      "internal_id": "74b0a09eb547ca2b2c0d1801ab8e5b065c341038914c1884b7c3b7ba7eb25b2e",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25602,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Canada loses measles elimination status amid year-long outbreak, health officials say",
+      "description": "Canada has lost its measles elimination status after struggling to contain a year-long outbreak, the country\u2019s public health agency announced on Monday.",
+      "url": "https://abcnews.go.com/Health/canada-loses-measles-elimination-status-amid-year-long/story?id=127373379",
+      "urlToImage": "https://i.abcnewsfe.com/a/0a33d186-83c7-400f-b431-28089bfc59c1/mmr-vaccine-ap-jef-251110_1762786801842_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-11-10 15:14:00",
+      "content": "Canada has lost its measles elimination status after struggling to contain a year-long outbreak, the country's public health agency announced on Monday. The Public Health Agency of Canada said it wa\u2026 [+593 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.453264",
+      "internal_id": "a12ab9ddd9cb2a8d42267e854a11f21202a027553316bf7e3f6cd3d10b61cd19",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25606,
+      "query": [
+        "measles"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Bloomberg News",
+      "title": "Canada Loses Measles-Free Status With Outbreak Passing One-Year Mark",
+      "description": "Canada has lost its claim to having measles under control.",
+      "url": "https://financialpost.com/pmn/business-pmn/canada-loses-measles-free-status-with-outbreak-passing-one-year-mark",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/measles-cases-in-canada-have-spiked-in-the-past-year-its-th.jpg",
+      "publishedAt": "2025-11-10 15:01:26",
+      "content": "(Bloomberg) Canada has lost its claim to having measles under control. THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest news in your city and across Canada. E\u2026 [+4799 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.508336",
+      "internal_id": "4886fa8cc21484accd9bef539306986764187357ef86eabffb6c1634b48a103f",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25605,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Kathryn H. Jacobsen, William E. Cooper Distinguished University Chair, Professor of Health Studies, University of Richmond",
+      "title": "Canada loses its official \u2018measles-free\u2019 status \u2013 and the US will follow soon, as vaccination rates fall",
+      "description": "Decreased vaccination rates have led to measles outbreaks in Canada and other countries.",
+      "url": "https://theconversation.com/canada-loses-its-official-measles-free-status-and-the-us-will-follow-soon-as-vaccination-rates-fall-269090",
+      "urlToImage": "https://images.theconversation.com/files/700938/original/file-20251106-67-ktlofd.jpg?ixlib=rb-4.1.0&rect=0%2C372%2C3100%2C1550&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-11-10 15:00:55",
+      "content": "Canada eliminated measles in 1998 but had a major outbreak in 2025. jure/iStock via Getty Images Plus In the wake of a measles outbreak in Canada that has infected thousands of people over the past \u2026 [+5637 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.482120",
+      "internal_id": "798564608c51b211ae5dce0f7e58b072261e59116818ff4552d473c29c1c1d37",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25603,
+      "query": [
+        "measles"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Canada loses measles elimination status, says agency",
+      "description": "Canada has lost its measles elimination status after nearly three decades due to its failure to curb a year-long outbreak, the country's public health agency has said.",
+      "url": "https://www.rte.ie/news/world/2025/1110/1543176-canada-measles/",
+      "urlToImage": "https://www.rte.ie/images/002374b2-1600.jpg",
+      "publishedAt": "2025-11-10 14:56:56",
+      "content": "Canada has lost its measles elimination status after nearly three decades due to its failure to curb a year-long outbreak, the country's public health agency has said. Health experts last month pred\u2026 [+857 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.463340",
+      "internal_id": "754dfef091ccb5ec8f6fcf8456eaa2a026634c2e203c05659ea4a955ee19a5fd",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25622,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Viisitoista lintua on kuollut lintuinfluenssaan Virolahdella \u2013 Ruokavirasto: Poikkeuksellisen laaja tapaus",
+      "description": "Virolahden Kiiskij\u00e4rvelt\u00e4 kuolleina l\u00f6ytyneiden laulujoutsenten kuolinsyyksi on varmistunut lintuinfluenssa.",
+      "url": "https://yle.fi/a/74-20193201",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_228,w_4050,h_2278/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1648211042/39-933436623dadebb875c",
+      "publishedAt": "2025-11-10 14:36:07",
+      "content": "Virolahdella on todettu poikkeuksellisen laaja lintuinfluessatapaus. Kiiskij\u00e4rvelt\u00e4 l\u00f6ytyi puolitoista viikkoa sitten kuolleena ryhm\u00e4 joutsenia, joiden kuolinsyyksi on paljastunut H5N1-tyypin lintuin\u2026 [+2081 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.288962",
+      "internal_id": "e0320d741815a63a217eb7a8589060399a53fd7b5961df3a9f5f119d4c780ee5",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25616,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": "Cbc",
+      "title": "Canada loses measles elimination status | CBC",
+      "description": "Canada loses measles elimination status | CBC cbc.ca",
+      "url": "https://www.cbc.ca/news/health/livestory/canada-measles-elimination-status-9.6973195",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-11-10 14:25:05",
+      "content": "Hi, I'm Verity, a reporter on the national news desk. I'll be bringing you updates as we've just learned that Canada has lost its measles elimination status. Health Canada has just released a statem\u2026 [+364 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.634000",
+      "internal_id": "dbee49db6f530c713b946cbc51b6d32ff3f57887fd2302a735f110a5a686ad91",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25617,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Canada.ca",
+      "author": "Public Health Agency Of Canada",
+      "title": "Statement from the Public Health Agency of Canada on Canada\u2019s Measles Elimination Status",
+      "description": "Following over 12 months of transmission across the country, PAHO confirms Canada's loss of measles elimination status. We are coordinating efforts with provinces and territories to restore the status through community engagement, strong public health systems\u2026",
+      "url": "https://www.canada.ca/en/public-health/news/2025/11/statement-from-the-public-health-agency-of-canada-on-canadas-measles-elimination-status.html",
+      "urlToImage": "https://www.canada.ca/content/dam/themes/health/news/twitter/statement-en.jpg",
+      "publishedAt": "2025-11-10 14:11:01",
+      "content": "Following over 12 months of transmission across the country, PAHO confirms Canada's loss of measles elimination status. We are coordinating efforts with provinces and territories to restore the statu\u2026 [+2122 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.642986",
+      "internal_id": "ca1dc5f6246a633978db06ab5615c1804653a7cea9f36ae4946c450cb2dafeed",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25627,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dingani Chinula, Busiku Hamainza, Japhet Chiwaula, Kenzo Mumba, Reuben Zulu, Ketty Ndhlovu, Samson Kiware, Thomas Reed, Gerry F. Killeen",
+      "title": "Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends",
+      "description": "Introduction Luangwa District has one of the longest running legacy datasets in Zambia regarding reliable monitoring of confirmed malaria cases through the national Health Management Information System (HMIS). It was also one of the first districts to achieve\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336099.g003&size=inline",
+      "publishedAt": "2025-11-10 14:00:00",
+      "content": "Citation: Chinula D, Hamainza B, Chiwaula J, Mumba K, Zulu R, Ndhlovu K, et al. (2025) Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year\u2026 [+53914 chars]",
+      "retrievedAt": "2025-11-11 19:06:02.106555",
+      "internal_id": "f55a90c20d7f7d96644334f8c3873b1f337c9875d46ac649cb4f9e95afed81d6",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25626,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue: disinfestazione contro le zanzare a Dhaka",
+      "description": "... (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/primopiano/2025/11/10/dengue-disinfestazione-contro-le-zanzare-a-dhaka_0c29ce05-2dc7-4a2e-adcb-00e36a06ea55.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/11/10/38ea6706b9d7987cfb619ae65233b1a2.jpg",
+      "publishedAt": "2025-11-10 12:53:56",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.736528",
+      "internal_id": "11403b6a073446decd9257bbb34ce332d530af2e484b293eef02814e5e028ad8",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25624,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Redacci\u00f3n Tribuna",
+      "title": "Luto en Ciudad Obreg\u00f3n: Reportan fallecimiento de querido docente por dengue; casos, al alza",
+      "description": "Este domingo 9 de noviembre se report\u00f3 el sensible fallecimiento de un profesor de Ciudad Obreg\u00f3n a causa del dengue; aqu\u00ed los detalles",
+      "url": "https://www.tribuna.com.mx/seguridad/2025/11/10/luto-en-ciudad-obregon-reportan-fallecimiento-de-querido-docente-por-dengue-casos-al-alza-419003.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/10/f1280x720-477119_608794_5050.jpg",
+      "publishedAt": "2025-11-10 12:00:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- Ciudad Obreg\u00f3n, la cabecera municipal de Cajeme, vive otro episodio doloroso relacionado con el dengue. Este domingo 9 de noviembre se report\u00f3 mediante redes sociales el sens\u2026 [+2501 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.660348",
+      "internal_id": "e636b884f3034344407f2c5fd79f3181172e7724f5126041b59b169e54ab0fe1",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25625,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Redacci\u00f3n Tribuna",
+      "title": "Alerta en B\u00e1cum: Reportan la muerte de ni\u00f1a a causa de dengue",
+      "description": "Se ha generado alerta en B\u00e1cum ya que se est\u00e1 reportando la muerte de una ni\u00f1a a causa de dengue; hecho que se sumar\u00eda a otros casos",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/10/alerta-en-bacum-reportan-la-muerte-de-nina-causa-de-dengue-419009.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/6/14/f1280x720-454176_585851_4435.jpg",
+      "publishedAt": "2025-11-10 12:00:00",
+      "content": "B\u00e1cum, Sonora.- Profunda tristeza y consternaci\u00f3n ha causado entre la comunidad educativa y habitantes de B\u00e1cum el fallecimiento de la peque\u00f1a Anatalia Ben\u00edtez, quien perdi\u00f3 la vida tras no superar l\u2026 [+1996 chars]",
+      "retrievedAt": "2025-11-11 19:06:01.686184",
+      "internal_id": "14c69646f758652cf2a522d24fb27128b2a8e141f11c98e1e69428e19c91ea99",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25613,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Seven-year-old dies of measles",
+      "description": "Health Ministry announces death of partially-vaccinated seven-year-old boy who arrived at a hospital suffering from measles.",
+      "url": "https://www.israelnationalnews.com/news/417566",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1174986.jpg",
+      "publishedAt": "2025-11-10 11:21:39",
+      "content": "Israel's Health Ministry on Sunday announced the death of a seven-year-old boy from Jerusalem, after he contracted the measles virus. The child, who had an underlying medical condition and was vacci\u2026 [+2143 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.606194",
+      "internal_id": "4c372e2a9bfbb465338639a3f67642ed69f506cfe156850a2343a96bda252081",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25611,
+      "query": [
+        "measles",
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "iStock",
+      "title": "From birth to 5 years: Essential government-advised vaccines for children in India",
+      "description": "India\u2019s Universal Immunization Programme gives essential vaccines free of cost to protect children from serious diseases like tuberculosis, polio, diphtheria, tetanus, whooping cough, pneumonia, meningitis, measles and rubella. Vaccines come at specific ages \u2026",
+      "url": "https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125223173,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "publishedAt": "2025-11-10 11:19:57",
+      "content": "UIP (Universal Immunization Programme): India\u2019s national program that provides these vaccines free of cost at government health facilities and outreach sessions. It covers 12 vaccine-preventable dise\u2026 [+1559 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.571490",
+      "internal_id": "db8b86066c476ea9fc532bc478ddcfc4e0dfd0377f4bd429571821feb7abf3c1",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25601,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Juliet Omelo",
+      "title": "Health experts push for integrated health action",
+      "description": "Studies indicate that over 60 per cent of human infectious diseases originate from animals, with nearly 75 per cent of emerging infections classified as zoonotic.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001533866/health-experts-push-for-integrated-health-action",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/Mi3C8c1nmmnocE82WE43fkcRHxuf7tyfePWS7PE5.jpg",
+      "publishedAt": "2025-11-10 10:46:26",
+      "content": "Denis Sanari a resident of Kisii County had his cat vacinated aganist rabies during mass vaccination exercise. [Sammy Omingo, Standard] Kenya\u2019s veterinary, medical and public health sectors have r\u2026 [+4041 chars]",
+      "retrievedAt": "2025-11-11 19:06:00.163665",
+      "internal_id": "24f3734f292212f7a5bab85ed58dbf50b4cdd555285a2f37b5955b5a142d69d5",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25628,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Omanobserver.om",
+      "author": "Observer Web Team",
+      "title": "MOH urges preventive measures against Mpox",
+      "description": "The Ministry of Health (MOH) has urged people to take preventive measures against Mpox formerly Monkeypox), an infectious disease caused by the...",
+      "url": "https://www.omanobserver.om/article/1179460/oman/health/moh-urges-preventive-measures-against-mpox",
+      "urlToImage": "https://www.omanobserver.om/omanobserver/uploads/images/2025/11/10/thumbs/600x600/3185520.jpg",
+      "publishedAt": "2025-11-10 09:41:30",
+      "content": "The Ministry of Health (MOH) has urged people to take preventive measures against Mpox formerly Monkeypox), an infectious disease caused by the monkeypox virus. According to the US Centers for Disea\u2026 [+1154 chars]",
+      "retrievedAt": "2025-11-11 19:06:02.660774",
+      "internal_id": "75b06a18a63baab75d87ec40c334e139d794cc191e07459c1244bc9a93b17373",
+      "publishedAtLabel": "Nov 10"
+    },
     {
       "id": 25595,
       "query": [
@@ -14282,60 +14787,6 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24810,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
-      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
-      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
-      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
-      "publishedAt": "2025-09-28 14:21:23",
-      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
-      "retrievedAt": "2025-09-29 19:06:14.197762",
-      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24809,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "David Njaaga",
-      "title": "Kenya seeks global backing for rabies elimination plan",
-      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
-      "publishedAt": "2025-09-28 14:15:53",
-      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.536817",
-      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24808,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Trending Desk",
-      "title": "About 1,000 Pakistanis die annually from rabies: Report",
-      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-09-28 10:20:40",
-      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.484815",
-      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]
