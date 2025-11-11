@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-11-10 19:06",
-  "count_articles_total": 784,
-  "count_articles_new": 2,
+  "last_updated": "2025-11-11 07:07",
+  "count_articles_total": 793,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 25595,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Madigan Landry and Andrew Chounding",
+      "title": "WA sees highest number of measles cases since 1997",
+      "description": "Authorities and experts are urging people in the state's south to be on alert for measles as the number of community transmission cases continues to climb.",
+      "url": "https://www.abc.net.au/news/2025-11-10/measles-warning-issued-or-wa-south-west-and-great-southern/105981388",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1e7435da58d89d2197704b3f491c224f?impolicy=wcms_watermark_news&cropH=241&cropW=428&xPos=0&yPos=22&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-10 06:54:55",
+      "content": "Health experts are urging people in Western Australia's South West and Great Southern to be on alert for measles as the number of community transmission cases climbs to its highest in almost three de\u2026 [+3208 chars]",
+      "retrievedAt": "2025-11-11 07:07:56.214068",
+      "internal_id": "5be8c7b11e238229ef4bdcf72d038c76679f36b9e14e73fd8266cd5bc1d87819",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25596,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Baleshwari Dixit, Harshad Vinayakrao Murugkar, Shanmugasundaram Nagarajan, Manoj Kumar, Anjay Anjay, Manu Dixit, Arpita Shrivastav, Amit K. Jha, Anjani K. Mishra, R. V. Singh, Chakradhar Tosh",
+      "title": "Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus",
+      "description": "Scientific Reports - Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus",
+      "url": "https://www.nature.com/articles/s41598-025-15987-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-15987-6/MediaObjects/41598_2025_15987_Fig1_HTML.png",
+      "publishedAt": "2025-11-10 00:00:00",
+      "content": "Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M. &amp; Kawaoka, Y. Evolution and ecology of influenza A viruses. Microbiol. Rev.56 (1), 152179 (1992). Article PubMed PubMed Cent\u2026 [+6728 chars]",
+      "retrievedAt": "2025-11-11 07:07:57.131807",
+      "internal_id": "90777d6b168d2b738aa6de895d30d1be590aaaf9580294881e2ce4d905fb22a1",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25600,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Gabriel Ribeiro dos Santos, Fariha Jawed, Christinah Mukandavire, Arminder Deol, Danny Scarponi, Leonard E. G. Mboera, Eric Seruyange, Mathieu J. P. Poirier, Samuel Bosomprah, Augustine O. Udeze, Koussay Dellagi, Nathanael Hoz\u00e9, Jaffu Chilongola, Gheyath K. Nasrallah, Simon Cauchemez, Henrik Salje",
+      "title": "Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns",
+      "description": "Nature Medicine - Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns",
+      "url": "https://www.nature.com/articles/s41591-025-04065-z",
+      "urlToImage": null,
+      "publishedAt": "2025-11-10 00:00:00",
+      "content": "Department of Genetics, University of Cambridge, Cambridge, UK Gabriel Ribeiro dos Santos, Fariha Jawed &amp; Henrik Salje Department of Epidemiology of Microbial Diseases, Yale School\u2026 [+1398 chars]",
+      "retrievedAt": "2025-11-11 07:07:58.694173",
+      "internal_id": "b42e0b04e0cebdcee80a4c90646f0e528d376dd2678f9423389d88ea4d469910",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25597,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "jcarlos.ponce",
+      "title": "Dengue en M\u00e9xico: Se reportan m\u00e1s de mil casos en una semana",
+      "description": "Patricia Rodr\u00edguez Calva Durante la \u00faltima semana se confirmaron mil 154 nuevos casos de dengue. Por lo anterior, al corte del pasado 03 de noviembre, la cifra acumulada en lo que va del a\u00f1o ascendi\u00f3 a 15 mil 806. De acuerdo al \u00faltimo reporte del Panoram\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/dengue-en-mexico-se-reportan-mas-de-mil-casos-en-una-semana/1750650",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/09/3414248.jpg",
+      "publishedAt": "2025-11-09 23:53:13",
+      "content": "Durante la \u00faltima semana se confirmaron mil 154 nuevos casos de dengue. Por lo anterior, al corte del pasado 03 de noviembre, la cifra acumulada en lo que va del a\u00f1o ascendi\u00f3 a 15 mil 806. De acuer\u2026 [+1379 chars]",
+      "retrievedAt": "2025-11-11 07:07:57.516808",
+      "internal_id": "0dd1e1e3ab5d807fbad843fd7a019db7a21dba52d1aad106a37db8433020dac7",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "El cambio clim\u00e1tico afecta la salud de millones de personas y se requiere acci\u00f3n urgente",
+      "description": "Muertes por calor, sequ\u00edas extremas y el aumento del dengue son algunas de las graves consecuencias del cambio clim\u00e1tico en la salud de Am\u00e9rica Latina, seg\u00fan un nuevo informe.",
+      "url": "https://www.nacion.com/el-pais/el-cambio-climatico-afecta-la-salud-de-millones-de/DLD3HCY6AJBHNG34YAAPFI7LOA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/TTHUFOLNW5D3NA5NDRTEX6GD3M.jpg?smart=true&auth=82b3dd075262fca2db25e063fb40d213d3b7162761bc69b5e896385f8d816946&width=1440",
+      "publishedAt": "2025-11-09 22:21:19",
+      "content": "El cambio clim\u00e1tico ya tiene efectos negativos sobre la salud de millones de personas en el mundo y debe actuarse con urgencia para paliarlos. Esta es la advertencia que realiza Lancet Coundown, un \u2026 [+3967 chars]",
+      "retrievedAt": "2025-11-11 07:07:57.526086",
+      "internal_id": "5a7b4694c343cb125d24d682f45e39fa19f235b553adeb4a95294ec5cc98efd4",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25599,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro",
+      "title": "Climate change makes dengue perennial from seasonal in Goa",
+      "description": "Panaji: Dengue is no longer a seasonal disease that surfaces only during the monsoons but it is now a perennial phenomenon, said deputy director of he.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/climate-change-makes-dengue-perennial-from-seasonal-in-goa/articleshow/125208319.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125208319,width-1070,height-580,imgsize-24318,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-11-09 19:48:29",
+      "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
+      "retrievedAt": "2025-11-11 07:07:57.551554",
+      "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
+      "publishedAtLabel": "Nov 9"
+    },
     {
       "id": 25594,
       "query": [
@@ -14174,6 +14282,60 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
+      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
+      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
+      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
+      "publishedAt": "2025-09-28 14:21:23",
+      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
+      "retrievedAt": "2025-09-29 19:06:14.197762",
+      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24809,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "David Njaaga",
+      "title": "Kenya seeks global backing for rabies elimination plan",
+      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
+      "publishedAt": "2025-09-28 14:15:53",
+      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.536817",
+      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24808,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Trending Desk",
+      "title": "About 1,000 Pakistanis die annually from rabies: Report",
+      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-28 10:20:40",
+      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.484815",
+      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]

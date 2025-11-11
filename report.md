@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-11-10 19:06
-- **Most recent article:** 2025-11-09 11:00:17
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-11-11 07:07
+- **Most recent article:** 2025-11-10 06:54:55
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 1 | 177 |
-| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 0 | 152 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 0 | 124 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 2 | 178 |
+| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 3 | 156 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 1 | 125 |
 | malaria | 9 | 20 | 24 | 17 | 17 | 19 | 1 | 107 |
-| chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 1 | 96 |
+| chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 2 | 97 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 0 | 55 |
-| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 0 | 31 |
+| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 0 | 33 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
 | meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 0 | 22 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 0 | 12 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (measles)
 
+- [WA sees highest number of measles cases since 1997](https://www.abc.net.au/news/2025-11-10/measles-warning-issued-or-wa-south-west-and-great-southern/105981388) (ABC News (AU))
+
 - [Measles outbreak: New case detected in Nelson, not linked to previous cases](https://www.nzherald.co.nz/nz/measles-outbreak-new-case-detected-in-nelson-not-linked-to-previous-cases/YWBPEM443FE3POFVGZWWHS7ODA/) (New Zealand Herald)
 
 ## 25-46 (malaria)
@@ -45,7 +47,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
+## 25-46 (h5n1)
+
+- [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
+
+## 25-46 (dengue)
+
+- [Dengue en México: Se reportan más de mil casos en una semana](https://www.excelsior.com.mx/nacional/dengue-en-mexico-se-reportan-mas-de-mil-casos-en-una-semana/1750650) (Excelsior.com.mx)
+
+- [El cambio climático afecta la salud de millones de personas y se requiere acción urgente](https://www.nacion.com/el-pais/el-cambio-climatico-afecta-la-salud-de-millones-de/DLD3HCY6AJBHNG34YAAPFI7LOA/story/) (Nacion.com)
+
+- [Climate change makes dengue perennial from seasonal in Goa](https://timesofindia.indiatimes.com/city/goa/climate-change-makes-dengue-perennial-from-seasonal-in-goa/articleshow/125208319.cms) (The Times of India)
+
 ## 25-46 (chikungunya)
+
+- [Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns](https://www.nature.com/articles/s41591-025-04065-z) (Nature.com)
 
 - [Cuba apuesta por su soberanía tecnológica en el tratamiento actual contra las arbovirosis](https://noticiaslatam.lat/20251109/cuba-apuesta-por-su-soberania-tecnologica-en-el-tratamiento-actual-contra-las-arbovirosis-1168300008.html) (Noticiaslatam.lat)
 
@@ -1625,6 +1641,10 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
+- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
+
+- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
+
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1836,6 +1856,8 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
+
+- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
