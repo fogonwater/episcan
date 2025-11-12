@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-11-11 19:06",
-  "count_articles_total": 818,
-  "count_articles_new": 28,
+  "last_updated": "2025-11-12 07:07",
+  "count_articles_total": 840,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 25636,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Canada Lost Its Measles Elimination Status. What Does It Mean for the U.S.? (Vjosa Isai/New York Times)",
+      "description": "Vjosa Isai / New York Times: Canada Lost Its Measles Elimination Status. What Does It Mean for the U.S.? \u2014 The disease was once considered eliminated in Canada, but not any more \u2014 there have been more than 5,000 cases in the last 12 months as vaccination r\u2026",
+      "url": "https://www.memeorandum.com/251111/p5",
+      "urlToImage": "https://static01.nyt.com/images/2025/11/10/multimedia/10int-canada-measles01-photo-qjwb/10int-canada-measles01-photo-qjwb-facebookJumbo.jpg",
+      "publishedAt": "2025-11-11 07:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.107922",
+      "internal_id": "e5fc6e3305bcbecbeb69071adef0254df41120c92d83ebbd2df75d162d7a0602",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Baglung Dengue Surge",
+      "description": "Dengue Fever Outbreak in Baglung, Nepal: Over 500 Cases Reported A significant surge in dengue fever cases has been reported in the Baglung district of Nepal in recent weeks. According to the Provincial Public Health Office in Baglung, a total of 532 people h\u2026",
+      "url": "https://nep123.com/baglung-dengue-surge/",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "publishedAt": "2025-11-11 05:21:09",
+      "content": "Dengue Fever Outbreak in Baglung, Nepal: Over 500 Cases Reported A significant surge in dengue fever cases has been reported in the Baglung district of Nepal in recent weeks. According to the Provin\u2026 [+1602 chars]",
+      "retrievedAt": "2025-11-12 07:07:55.229179",
+      "internal_id": "53b2207981857cfdba261b309c8be5d53bbbe47fa28d2dcdac0872bad12ed4c6",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25631,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Canada loses measles-free status after year of continuous spread",
+      "description": "Canada has lost its measles elimination status due to ongoing outbreaks as childhood vaccination rates fall and the highly contagious virus spreads across North and South America.",
+      "url": "https://www.abc.net.au/news/2025-11-11/canada-loses-measles-free-status-after-ongoing-outbreaks/105996706",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0ac30a1e7177133e778962e1fde35700?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=295&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-11 04:45:57",
+      "content": "Canada has lost its measles elimination status due to ongoing outbreaks as childhood vaccination rates fall and the highly contagious virus spreads across North and South America. The loss of the co\u2026 [+4502 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.028046",
+      "internal_id": "8940e1dfac052207fed24ad7f56508b06984529c0c85bf73e9876a7557337ece",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25642,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pmn.co.nz",
+      "author": "Renate Rivers",
+      "title": "S\u0101moa strengthens border controls as measles cases rise in New Zealand",
+      "description": "As New Zealand battles a new wave of measles cases, S\u0101moa is taking no chances - reintroducing strict border checks and vaccination rules.",
+      "url": "https://pmn.co.nz/read/health/samoa-strengthens-border-controls-as-measles-cases-surge-in-new-zealand",
+      "urlToImage": "https://cdn.sanity.io/images/vl4boe2z/production/7f2cef13a1bcaa6ec8571a310d43b44baf2c95a2-1600x900.png",
+      "publishedAt": "2025-11-11 03:47:51",
+      "content": "Smoa is tightening its borders and stepping up vaccination checks as measles cases rise in New Zealand, a stark reminder of the deadly outbreak that claimed 83 lives in the Pacific island nation just\u2026 [+5172 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.289202",
+      "internal_id": "c2bcefd6f4abc03c4aea981a2982e0e0365b36e703f9a95eaaa34a0c511008e9",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25637,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI AP health writer",
+      "title": "Canada loses measles elimination status after ongoing outbreaks",
+      "description": "International health experts say Canada is no longer measles-free because of ongoing outbreaks, as childhood vaccination rates fall and the highly contagious virus spreads across North and South America",
+      "url": "https://abcnews.go.com/Health/wireStory/canada-loses-measles-elimination-status-after-ongoing-outbreaks-127379798",
+      "urlToImage": "https://i.abcnewsfe.com/a/6b1aa275-9536-4ffa-8780-5721db4aaa4c/wirestory_1ac3a4bdc7546fac5d8e111bf5196e1e_16x9.jpg?w=1600",
+      "publishedAt": "2025-11-11 02:45:36",
+      "content": "Canada is no longer measles-free because of ongoing outbreaks, international health experts said Monday, as childhood vaccination rates fall and the highly contagious virus spreads across North and S\u2026 [+5742 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.133790",
+      "internal_id": "aa015653b7112c67bcc7fdd7ddc1b933e8dfd18e8f526b33781769488a8bbcd0",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25633,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Sputnik International",
+      "title": "Canada Loses Measles Elimination Status Amid Ongoing Nationwide Outbreak",
+      "description": "WASHINGTON (Sputnik) - Canada has lost its measles elimination status amid an ongoing severe nationwide outbreak, the Public Health Agency of Canada (PHAC) said on Monday.",
+      "url": "https://sputnikglobe.com/20251111/canada-loses-measles-elimination-status-amid-ongoing-nationwide-outbreak-1123093156.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123093156.jpg?11101079761762825023",
+      "publishedAt": "2025-11-11 01:37:00",
+      "content": "\"Canada can re-establish its measles elimination status once transmission of the measles strain associated with the current outbreak is interrupted for at least 12 months,\" the statement noted.",
+      "retrievedAt": "2025-11-12 07:07:54.046891",
+      "internal_id": "e700b159abf3d72415f6ea4cc98b2ffcfdb30fe2b6ab96e5d2c1749791bcf305",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25644,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "532 dengue cases reported in Baglung district",
+      "description": "BAGLUNG: Dengue infections have surged in Baglung district, with 532 confirmed cases reported so far. According to the Provincial Public Health Office, Baglung, the virus has spread across all municipalities except Bareng Rural Municipality. Baglung Municipal\u2026",
+      "url": "https://english.khabarhub.com/2025/11/505445/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-11-11 01:15:13",
+      "content": "BAGLUNG: Dengue infections have surged in Baglung district, with 532 confirmed cases reported so far. According to the Provincial Public Health Office, Baglung, the virus has spread across all munici\u2026 [+930 chars]",
+      "retrievedAt": "2025-11-12 07:07:55.219478",
+      "internal_id": "e615e2acb8de979661b8b78d91aa0475ab47c839baa2fda363ec63160f3acdb6",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25640,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin with Newser.AI",
+      "title": "Canada's Measles Cases End the Americas' Elimination Status",
+      "description": "Canada has officially lost its measles elimination status, a move that also strips the entire Americas region of its measles-free designation. The change, announced by Canada's Public Health Agency, stems from a persistent outbreak that began in the country i\u2026",
+      "url": "https://www.newser.com/story/378411/canadas-measles-cases-end-the-americas-elimination-status.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1645692-12-20251110183910.jpeg",
+      "publishedAt": "2025-11-11 00:39:10",
+      "content": "Canada has officially lost its measles elimination status, a move that also strips the entire Americas region of its measles-free designation. The change, announced by Canada's Public Health Agency, \u2026 [+1638 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.205217",
+      "internal_id": "a6c638ef2642d0689700f2af7c68b03892134d72196cffff82ea1eac92b2e81f",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25647,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "brandon.pacheco",
+      "title": "IPN desarrolla vacunas contra chikungunya y fiebre amarilla",
+      "description": "Gustavo Pacheco El Laboratorio Nacional de Vacunolog\u00eda y Virus Tropicales del Instituto Polit\u00e9cnico Nacional (IPN) desarrolla candidatos vacunales contra enfermedades tropicales como chikungunya y fiebre amarilla, basados en vectores adenovirales no replicat\u2026",
+      "url": "https://www.excelsior.com.mx/salud/ipn-desarrolla-vacunas-contra-chikungunya-y-fiebre-amarilla/1750849",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/10/3414898.jpg",
+      "publishedAt": "2025-11-11 00:21:19",
+      "content": "El Laboratorio Nacional de Vacunolog\u00eda y Virus Tropicales del Instituto Polit\u00e9cnico Nacional (IPN) desarrolla candidatos vacunales contra enfermedades tropicales como chikungunya y fiebre amarilla, b\u2026 [+4524 chars]",
+      "retrievedAt": "2025-11-12 07:07:56.006706",
+      "internal_id": "30e8270b62e6cf34e1ef389550c97da3e4bfff416dc5422c5fa5e8af250c110d",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25639,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Lydia O'Connor",
+      "title": "Canada Loses Measles Elimination Status, Putting U.S. On Notice",
+      "description": "The status change, driven by a persistent measles outbreak, brings a nearly 30-year public health victory to an end.",
+      "url": "https://www.huffpost.com/entry/canada-measles-elimination-status_n_69123d59e4b03f26059cf543",
+      "urlToImage": "https://img.huffingtonpost.com/asset/69127344170000604d9c5250.jpeg?ops=1200_630",
+      "publishedAt": "2025-11-10 23:57:16",
+      "content": "Canadian health officials announced Monday that the country has lost its measles elimination status due to an outbreak of the infectious disease persisting in the country for more than a year, and th\u2026 [+4782 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.154065",
+      "internal_id": "4b5ce876b2fcf7f3070f9bc98bacbc1dcb566acbad52802ab7aa60f7247ff675",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25643,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Sa\u00fal Santana Bracamontes",
+      "title": "Alerta en Guaymas: Dengue supera los mil casos, con fumigaciones y cercos epidemiol\u00f3gicos",
+      "description": "La alcaldesa Karla C\u00f3rdoba Gonz\u00e1lez comparti\u00f3 que es bastante com\u00fan la presencia de este virus en el municipio y asegur\u00f3 que se registrar\u00e1n m\u00e1s casos",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/10/alerta-en-guaymas-dengue-supera-los-mil-casos-con-fumigaciones-cercos-epidemiologicos-419074.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/10/f1280x720-477217_608892_5050.png",
+      "publishedAt": "2025-11-10 23:30:00",
+      "content": "Guaymas, Sonora.- Con la prevalencia del serotipo tres, y sin defunciones hasta ahora, de acuerdo a datos oficiales de la Secretar\u00eda de Salud federal, Guaymas alcanza ya los mil 100 casos de dengue, \u2026 [+1620 chars]",
+      "retrievedAt": "2025-11-12 07:07:55.144462",
+      "internal_id": "28e897fd1c4e4006e0d9cb876516caad5ae095383fcb82523f311e26ce595166",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25630,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Humberto Basilio",
+      "title": "Canada Just Lost Its Measles-Free Status. The U.S. Could Soon Follow",
+      "description": "Canada lost its official measles elimination status after a year of continuous transmission",
+      "url": "https://www.scientificamerican.com/article/canada-just-lost-its-measles-free-status-the-u-s-could-soon-follow/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/5a97168dd6f5bffb/original/GettyImages-1134489573_resized.jpeg?m=1762813550.479&w=1200",
+      "publishedAt": "2025-11-10 23:00:00",
+      "content": "Canada has lost its measles-free status following a year of ongoing measles transmission, the Pan American Health Organization (PAHO) announced today. As a result, the entire region of the Americas i\u2026 [+2092 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.018312",
+      "internal_id": "6fb4cbe005c4cb8177c24ceeda025ab588140529c3daf99af3331f3844672347",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25629,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Scottish scientists tackle vampire bat rabies threat in Amazon",
+      "description": "Glasgow university researchers say more humans and livestock are being bitten by the bats because of the impacts of climate change.",
+      "url": "https://www.bbc.com/news/articles/c74015ll09yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6211/live/b93b0670-ba3d-11f0-a0d5-273175887cd7.jpg",
+      "publishedAt": "2025-11-10 22:51:37",
+      "content": "Kevin KeaneScotland environment, energy and rural affairs correspondent Vampire bats are spreading rabies into new areas of the Amazon Scottish scientists in the Amazon are helping to tackle a grow\u2026 [+3504 chars]",
+      "retrievedAt": "2025-11-12 07:07:53.611168",
+      "internal_id": "86abac131e9e5088844b1e73f1bd84e462740bc2b7f2ae197629aeba97dce990",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25638,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta's role in Canada's loss of measles elimination status embarrassing, former chief medical officer says",
+      "description": "The latest federal data shows Alberta accounts for 38 per cent of Canada\u2019s cases.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-status-eliminations-9.6973822",
+      "urlToImage": "https://i.cbc.ca/ais/1.7151915,1762810840453/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-11-10 22:36:23",
+      "content": "A former chief medical officer of health for Alberta says the provincial government should be embarrassed by the role Alberta has played in Canadas measles outbreaks and loss of the country's measles\u2026 [+6786 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.144251",
+      "internal_id": "9a22469ab5d77ab71976d76fdb54752a8e33da25f8d2fed136e57aa9bf4cc752",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25635,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "As Canada loses measles-free status, outbreak in northeast B.C. continues",
+      "description": "Measles cases in B.C. make up almost seven per cent of the total in Canada, with the vast majority of them clustered in the province's northeast, where health officials said the virus spread through a group of unvaccinated families.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-officials-respond-to-canada-loss-measles-free-status-9.6973645",
+      "urlToImage": "https://i.cbc.ca/ais/1.7478844,1760798761398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620",
+      "publishedAt": "2025-11-10 22:01:16",
+      "content": "Canada has officially lost its measles elimination status, Health Canada announced Monday, with cases continuing to climb across the country including, notably, in northeast B.C. Thats where all nin\u2026 [+3390 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.081582",
+      "internal_id": "f6c12fbc27b6a013f23249726405b37ea607a1b0611fac2424b08a8c1d9fd414",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25634,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Canada loses measles elimination status after ongoing outbreaks",
+      "description": "Canada is no longer measles-free because of ongoing outbreaks, international health experts said Monday, as childhood vaccination rates fall and the highly contagious virus spreads across North and South America. The loss of the country\u2019s measles elimination \u2026",
+      "url": "https://japantoday.com/category/features/health/canada-loses-measles-elimination-status-after-ongoing-outbreaks",
+      "urlToImage": null,
+      "publishedAt": "2025-11-10 21:22:39",
+      "content": "Canada is no longer measles-free because of ongoing outbreaks, international health experts said Monday, as childhood vaccination rates fall and the highly contagious virus spreads across North and S\u2026 [+3528 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.055937",
+      "internal_id": "368188e2cb62d5172d3393100e3d18bed272b44ed3e6cc732babc05821e9a41e",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25646,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Stephen Farrell",
+      "title": "Doctor failed to refer infant later diagnosed with viral meningitis to emergency department, inquiry hears",
+      "description": "It was also alleged that Dr Alicia Marton Martinez failed to diagnose testicular torsion in teenage boy",
+      "url": "https://www.irishtimes.com/health/2025/11/10/doctor-failed-to-refer-infant-later-diagnosed-with-viral-meningitis-to-emergency-department/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/R2WMVPT76RA6JKBADGZM3LLNPU.jpg?smart=true&auth=b86ce90f61a0a7880ff946d2dc345d5d009c99b88ac637277983fde5f23a9897&width=1200&height=630",
+      "publishedAt": "2025-11-10 19:54:22",
+      "content": "A locum doctor allegedly failed to refer a three-week old boy, who was later diagnosed with viral meningitis, to an emergency department, a fitness-to-practise inquiry has heard. The Medical Council\u2026 [+3278 chars]",
+      "retrievedAt": "2025-11-12 07:07:55.409202",
+      "internal_id": "a5b79d753ff7bc2654e5c29fca2cbb4dd8a4cc6dd960176fc9fb19c28f0be350",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25632,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Canada loses its measles-free status, with US on track to follow",
+      "description": "The country hasn't been able to curb an outbreak of more than 5,000 cases over the last year, while US cases are at a 33-year high.",
+      "url": "https://www.bbc.com/news/articles/cy7e2lv4r8xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/51f9/live/a24a10f0-be66-11f0-85dd-cf7de1417841.jpg",
+      "publishedAt": "2025-11-10 19:39:18",
+      "content": "Nadine YousifSenior Canada reporter Canada has lost its measles elimination status, said the Pan American Health Organization (Paho) on Monday, after failing to curb an outbreak of the virus for 12 \u2026 [+3440 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.037869",
+      "internal_id": "e881a5199c4dfa51cc7a19c8cdc29e036d452d3f4a88add7ae48d2251678ec47",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25641,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Canada has lost its 'measles elimination status' \u2014 here's what that means",
+      "description": "A large, ongoing outbreak that began in Canada in 2024 has cost the country its measles elimination status.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/canada-has-lost-its-measles-elimination-status-heres-what-that-means",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XRpTfuRSojdUsPfKxAbEL7-1500-80.jpg",
+      "publishedAt": "2025-11-10 19:16:17",
+      "content": "Canada has officially lost its measles elimination status, meaning the highly contagious disease is once again spreading consistently there. The declaration was made by the Pan American Health Organ\u2026 [+3953 chars]",
+      "retrievedAt": "2025-11-12 07:07:54.271933",
+      "internal_id": "047bb188a910e97902f18ee51bc075d50777b3ca501c87282a03db117808a873",
+      "publishedAtLabel": "Nov 10"
+    },
     {
       "id": 25623,
       "query": [
@@ -14787,6 +15129,60 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
+      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
+      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
+      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
+      "publishedAt": "2025-09-28 14:21:23",
+      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
+      "retrievedAt": "2025-09-29 19:06:14.197762",
+      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24809,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "David Njaaga",
+      "title": "Kenya seeks global backing for rabies elimination plan",
+      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
+      "publishedAt": "2025-09-28 14:15:53",
+      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.536817",
+      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24808,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Trending Desk",
+      "title": "About 1,000 Pakistanis die annually from rabies: Report",
+      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-28 10:20:40",
+      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.484815",
+      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]

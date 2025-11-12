@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2025-11-11 19:06
-- **Most recent article:** 2025-11-10 18:23:30
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-11-12 07:07
+- **Most recent article:** 2025-11-11 07:05:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 19 | 195 |
-| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 6 | 158 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 32 | 208 |
+| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 9 | 162 |
 | h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 6 | 130 |
 | malaria | 9 | 20 | 24 | 17 | 17 | 19 | 2 | 108 |
-| chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 2 | 97 |
+| chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 3 | 98 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
-| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 1 | 32 |
+| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 2 | 35 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
-| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 1 | 23 |
+| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 2 | 24 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 0 | 12 |
 | leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 0 | 12 |
 | hpai | 2 | 1 | 0 | 4 | 2 | 1 | 1 | 11 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (rabies)
 
+- [Scottish scientists tackle vampire bat rabies threat in Amazon](https://www.bbc.com/news/articles/c74015ll09yo) (BBC News)
+
 - [Health experts push for integrated health action](https://www.standardmedia.co.ke/health/health-science/article/2001533866/health-experts-push-for-integrated-health-action) (Standard Digital)
 
 ## 25-46 (mpox)
@@ -43,9 +45,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (meningitis)
 
+- [Doctor failed to refer infant later diagnosed with viral meningitis to emergency department, inquiry hears](https://www.irishtimes.com/health/2025/11/10/doctor-failed-to-refer-infant-later-diagnosed-with-viral-meningitis-to-emergency-department/) (The Irish Times)
+
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [Canada Lost Its Measles Elimination Status. What Does It Mean for the U.S.? (Vjosa Isai/New York Times)](https://www.memeorandum.com/251111/p5) (Memeorandum.com)
+
+- [Canada loses measles-free status after year of continuous spread](https://www.abc.net.au/news/2025-11-11/canada-loses-measles-free-status-after-ongoing-outbreaks/105996706) (ABC News (AU))
+
+- [Sāmoa strengthens border controls as measles cases rise in New Zealand](https://pmn.co.nz/read/health/samoa-strengthens-border-controls-as-measles-cases-surge-in-new-zealand) (Pmn.co.nz)
+
+- [Canada loses measles elimination status after ongoing outbreaks](https://abcnews.go.com/Health/wireStory/canada-loses-measles-elimination-status-after-ongoing-outbreaks-127379798) (ABC News)
+
+- [Canada Loses Measles Elimination Status Amid Ongoing Nationwide Outbreak](https://sputnikglobe.com/20251111/canada-loses-measles-elimination-status-amid-ongoing-nationwide-outbreak-1123093156.html) (Sputnikglobe.com)
+
+- [Canada's Measles Cases End the Americas' Elimination Status](https://www.newser.com/story/378411/canadas-measles-cases-end-the-americas-elimination-status.html) (Newser)
+
+- [Canada Loses Measles Elimination Status, Putting U.S. On Notice](https://www.huffpost.com/entry/canada-measles-elimination-status_n_69123d59e4b03f26059cf543) (HuffPost)
+
+- [Canada Just Lost Its Measles-Free Status. The U.S. Could Soon Follow](https://www.scientificamerican.com/article/canada-just-lost-its-measles-free-status-the-u-s-could-soon-follow/) (Scientific American)
+
+- [Alberta's role in Canada's loss of measles elimination status embarrassing, former chief medical officer says](https://www.cbc.ca/news/canada/calgary/alberta-measles-status-eliminations-9.6973822) (CBC News)
+
+- [As Canada loses measles-free status, outbreak in northeast B.C. continues](https://www.cbc.ca/news/canada/british-columbia/bc-officials-respond-to-canada-loss-measles-free-status-9.6973645) (CBC News)
+
+- [Canada loses measles elimination status after ongoing outbreaks](https://japantoday.com/category/features/health/canada-loses-measles-elimination-status-after-ongoing-outbreaks) (Japan Today)
+
+- [Canada loses its measles-free status, with US on track to follow](https://www.bbc.com/news/articles/cy7e2lv4r8xo) (BBC News)
+
+- [Canada has lost its 'measles elimination status' — here's what that means](https://www.livescience.com/health/viruses-infections-disease/canada-has-lost-its-measles-elimination-status-heres-what-that-means) (Live Science)
 
 - [Measles exposure at southern Manitoba truck stop restaurant announced](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposure-winkler-truck-stop-9.6973614) (CBC News)
 
@@ -111,6 +141,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (dengue)
 
+- [Baglung Dengue Surge](https://nep123.com/baglung-dengue-surge/) (Nep123.com)
+
+- [532 dengue cases reported in Baglung district](https://english.khabarhub.com/2025/11/505445/) (Khabarhub.com)
+
+- [Alerta en Guaymas: Dengue supera los mil casos, con fumigaciones y cercos epidemiológicos](https://www.tribuna.com.mx/sonora/2025/11/10/alerta-en-guaymas-dengue-supera-los-mil-casos-con-fumigaciones-cercos-epidemiologicos-419074.html) (Tribuna.com.mx)
+
 - [Dengue: disinfestazione contro le zanzare a Dhaka](https://www.ansa.it/sito/photogallery/primopiano/2025/11/10/dengue-disinfestazione-contro-le-zanzare-a-dhaka_0c29ce05-2dc7-4a2e-adcb-00e36a06ea55.html) (ANSA.it)
 
 - [Luto en Ciudad Obregón: Reportan fallecimiento de querido docente por dengue; casos, al alza](https://www.tribuna.com.mx/seguridad/2025/11/10/luto-en-ciudad-obregon-reportan-fallecimiento-de-querido-docente-por-dengue-casos-al-alza-419003.html) (Tribuna.com.mx)
@@ -124,6 +160,8 @@ Source: [News API](https://newsapi.org/)
 - [Climate change makes dengue perennial from seasonal in Goa](https://timesofindia.indiatimes.com/city/goa/climate-change-makes-dengue-perennial-from-seasonal-in-goa/articleshow/125208319.cms) (The Times of India)
 
 ## 25-46 (chikungunya)
+
+- [IPN desarrolla vacunas contra chikungunya y fiebre amarilla](https://www.excelsior.com.mx/salud/ipn-desarrolla-vacunas-contra-chikungunya-y-fiebre-amarilla/1750849) (Excelsior.com.mx)
 
 - [Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns](https://www.nature.com/articles/s41591-025-04065-z) (Nature.com)
 
@@ -1705,6 +1743,10 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
+- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
+
+- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
+
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1916,6 +1958,8 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
+
+- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
