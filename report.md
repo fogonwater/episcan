@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-11-12 07:07
-- **Most recent article:** 2025-11-11 07:05:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-11-12 19:06
+- **Most recent article:** 2025-11-11 19:04:31
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 32 | 208 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 9 | 162 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 6 | 130 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 2 | 108 |
-| chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 3 | 98 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 39 | 215 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 11 | 163 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 8 | 132 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 5 | 111 |
+| chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 4 | 99 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 2 | 35 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 3 | 34 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
-| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 2 | 24 |
-| typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 0 | 12 |
+| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 3 | 25 |
+| typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
+| hpai | 2 | 1 | 0 | 4 | 2 | 1 | 2 | 12 |
 | leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 0 | 12 |
-| hpai | 2 | 1 | 0 | 4 | 2 | 1 | 1 | 11 |
 | yersinia | 0 | 0 | 2 | 1 | 1 | 4 | 0 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 2 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
@@ -33,7 +33,15 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-46 (typhoid)
+
+- [Today in History: November 11, ‘Typhoid Mary’ dies](https://www.bostonherald.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/) (Boston Herald)
+
+- [Today in History: November 11, ‘Typhoid Mary’ dies](https://www.denverpost.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/) (The Denver Post)
+
 ## 25-46 (rabies)
+
+- [RTI reveals 18 rabies deaths in Delhi since 2022, contradicting Centre’s ‘zero deaths’ claim](https://economictimes.indiatimes.com/news/india/rti-reveals-18-rabies-deaths-in-delhi-since-2022-contradicting-centres-zero-deaths-claim/articleshow/125243534.cms) (The Times of India)
 
 - [Scottish scientists tackle vampire bat rabies threat in Amazon](https://www.bbc.com/news/articles/c74015ll09yo) (BBC News)
 
@@ -45,11 +53,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (meningitis)
 
+- [GP guilty of professional misconduct after failing to spot meningitis in baby](https://www.independent.ie/irish-news/gp-guilty-of-professional-misconduct-after-failing-to-spot-meningitis-in-baby/a1903533478.html) (Independent.ie)
+
 - [Doctor failed to refer infant later diagnosed with viral meningitis to emergency department, inquiry hears](https://www.irishtimes.com/health/2025/11/10/doctor-failed-to-refer-infant-later-diagnosed-with-viral-meningitis-to-emergency-department/) (The Irish Times)
 
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [Health officials warn of possible measles exposure at Philadelphia International Airport](https://6abc.com/post/health-officials-warn-possible-measles-exposure-philadelphia-international-airport/18143815/) (WPVI-TV)
+
+- [Health officials warn of possible measles exposure at PHL](https://www.nbcphiladelphia.com/news/local/possible-measles-exposure-philadelphia-international-airport-terminals-a-and-b-november-9/4300641/) (NBC 10 Philadelphia)
+
+- [Canada lost its measles-free status. What's the situation in Quebec?](https://montrealgazette.com/news/health/canada-measles-status-removed-quebec-situation) (Montreal Gazette)
+
+- [Why has Canada lost its measles-free status – and could the US be next?](https://www.aljazeera.com/news/2025/11/11/why-has-canada-lost-its-measles-free-status-and-could-the-us-be-next) (Al Jazeera English)
+
+- [Canada Loses Measles Elimination Status. Will The U.S. Soon Follow?](https://www.forbes.com/sites/brucelee/2025/11/11/canada-loses-measles-elimination-status-will-the-us-soon-follow/) (Forbes)
+
+- [Canada loses measles-free status, raising alarms among experts](https://www.npr.org/2025/11/11/nx-s1-5604686/canada-loses-measles-free-status-raising-alarms-among-experts) (NPR)
 
 - [Canada Lost Its Measles Elimination Status. What Does It Mean for the U.S.? (Vjosa Isai/New York Times)](https://www.memeorandum.com/251111/p5) (Memeorandum.com)
 
@@ -113,9 +135,17 @@ Source: [News API](https://newsapi.org/)
 
 - [WA sees highest number of measles cases since 1997](https://www.abc.net.au/news/2025-11-10/measles-warning-issued-or-wa-south-west-and-great-southern/105981388) (ABC News (AU))
 
+- [Daily briefing: The Americas have lost their measles elimination status](https://www.nature.com/articles/d41586-025-03705-1) (Nature.com)
+
 - [Measles outbreak: New case detected in Nelson, not linked to previous cases](https://www.nzherald.co.nz/nz/measles-outbreak-new-case-detected-in-nelson-not-linked-to-previous-cases/YWBPEM443FE3POFVGZWWHS7ODA/) (New Zealand Herald)
 
 ## 25-46 (malaria)
+
+- [Lotta contro hiv, malaria, tubercolosi, "Italia rinnovi sostegno a Fondo Globale"](https://www.ansa.it/sito/videogallery/italia/2025/11/11/lotta-contro-hiv-malaria-tubercolosi-italia-rinnovi-sostegno-a-fondo-globale_5b58f4a7-3520-4746-adea-f73cb89fb4bd.html) (ANSA.it)
+
+- [UK pledges 850 million pounds for global disease fight](https://www.thestar.com.my/news/world/2025/11/11/uk-pledges-850-million-pounds-for-global-disease-fight) (The Star Online)
+
+- [Plasmodium actin-like proteins are essential for DNA segregation during male gametogenesis and malaria transmission](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013687) (Plos.org)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
@@ -123,9 +153,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (hpai)
 
+- [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
+
+- [Kvůli ptačí chřipce přijde farma z Třebíčska o 20 tisíc kachen. Pravidla jsme neporušili, brání se majitel](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-kvuli-ptaci-chripce-prijde-farma-z-trebicska-o-20-tisic-kachen-pravidla-jsme-neporusili-brani-se-majitel-40548378) (Novinky.cz)
+
+- [Hécatombe de grues cendrées causée par l’influenza aviaire : au lac du Der, «c’est sans précédent»](https://www.liberation.fr/environnement/biodiversite/hecatombe-de-grues-cendrees-causee-par-linfluenza-aviaire-au-lac-du-der-cest-sans-precedent-20251111_2WNJW5HBIBHFTFNWM4RBEE6HFU/) (Libération)
 
 - [Third outbreak of highly contagious bird flu confirmed in Irish turkey flock](https://www.independent.ie/irish-news/third-outbreak-of-highly-contagious-bird-flu-confirmed-in-irish-turkey-flock/a84803689.html) (Independent.ie)
 
@@ -140,6 +176,10 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Dengue virus NS1 protein does not activate TLR4 and has a modest effect on endothelial monolayer integrity compared to TNF](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013695) (Plos.org)
+
+- [Dengue cases continue to rise, 182 new infections reported in a week](https://english.khabarhub.com/2025/11/505496/) (Khabarhub.com)
 
 - [Baglung Dengue Surge](https://nep123.com/baglung-dengue-surge/) (Nep123.com)
 
@@ -160,6 +200,8 @@ Source: [News API](https://newsapi.org/)
 - [Climate change makes dengue perennial from seasonal in Goa](https://timesofindia.indiatimes.com/city/goa/climate-change-makes-dengue-perennial-from-seasonal-in-goa/articleshow/125208319.cms) (The Times of India)
 
 ## 25-46 (chikungunya)
+
+- [Asl Bari, 'accertati due casi di virus Chikungunya'](https://www.ansa.it/puglia/notizie/2025/11/11/asl-bari-accertati-due-casi-di-virus-chikungunya_02a96b8a-4378-4235-b630-d5a9fa11daaa.html) (ANSA.it)
 
 - [IPN desarrolla vacunas contra chikungunya y fiebre amarilla](https://www.excelsior.com.mx/salud/ipn-desarrolla-vacunas-contra-chikungunya-y-fiebre-amarilla/1750849) (Excelsior.com.mx)
 
@@ -1743,10 +1785,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1958,8 +1996,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 

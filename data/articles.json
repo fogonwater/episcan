@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-11-12 07:07",
-  "count_articles_total": 840,
-  "count_articles_new": 19,
+  "last_updated": "2025-11-12 19:06",
+  "count_articles_total": 857,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 25663,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Lotta contro hiv, malaria, tubercolosi, \"Italia rinnovi sostegno a Fondo Globale\"",
+      "description": "Il 21 novembre la conferenza di rifinanziamento. Burbo (Nisg): \"Da Meloni annunciati 185 milioni di (ANSA)",
+      "url": "https://www.ansa.it/sito/videogallery/italia/2025/11/11/lotta-contro-hiv-malaria-tubercolosi-italia-rinnovi-sostegno-a-fondo-globale_5b58f4a7-3520-4746-adea-f73cb89fb4bd.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/11/11/c835bfaac542d893a85e4875ae9220ca.jpg",
+      "publishedAt": "2025-11-11 19:04:31",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-11-12 19:06:21.091348",
+      "internal_id": "b713d90baa6007e1cb34d24e6c119406dae189c576546333ae1f6a32ea1e5a36",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Health officials warn of possible measles exposure at Philadelphia International Airport",
+      "description": "The exposure may have happened at Terminals A and B at PHL on Sunday, between 8:50 a.m. and 4:00 p.m.",
+      "url": "https://6abc.com/post/health-officials-warn-possible-measles-exposure-philadelphia-international-airport/18143815/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5280970_050119-wabc-measles-exposure-generic-img.jpg?w=1600",
+      "publishedAt": "2025-11-11 18:50:30",
+      "content": "PHILADELPHIA (WPVI) -- Health officials are warning that there may have been a possible measles exposure at Philadelphia International Airport. The Philadelphia Department of Public Health says an i\u2026 [+3983 chars]",
+      "retrievedAt": "2025-11-12 19:06:19.139692",
+      "internal_id": "2cdafb6b92fbbf4db70e0614c24bb23ebf01e53b2a60d72b2f3adef1ea620e96",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25653,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC 10 Philadelphia",
+      "author": "Cherise Lynch",
+      "title": "Health officials warn of possible measles exposure at PHL",
+      "description": "Health officials are alerting travelers about an individual with measles who recently visited the Philadelphia International Airport.",
+      "url": "https://www.nbcphiladelphia.com/news/local/possible-measles-exposure-philadelphia-international-airport-terminals-a-and-b-november-9/4300641/",
+      "urlToImage": "https://media.nbcphiladelphia.com/2019/09/6pHolidayAirportTravelpkgstephania_7201156.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-11-11 18:24:53",
+      "content": "Health officials are alerting travelers about an individual with measles who recently visited the Philadelphia International Airport. According to a release from the Philadelphia Health Department, \u2026 [+1785 chars]",
+      "retrievedAt": "2025-11-12 19:06:19.122266",
+      "internal_id": "2b8f3cbb3d531b3d1ff51c6bb9d6252101d9f5ec1d80ac09321d1d7394a48941",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25655,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Montreal Gazette",
+      "author": "Leora Schertzer",
+      "title": "Canada lost its measles-free status. What's the situation in Quebec?",
+      "description": "The province's measles outbreak officially ended April 19, according to the Quebec Health Ministry.",
+      "url": "https://montrealgazette.com/news/health/canada-measles-status-removed-quebec-situation",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2025/11/screenshot-2025-11-11-at-12.23.51-pm_299808018.png",
+      "publishedAt": "2025-11-11 17:54:03",
+      "content": "Canada has lost its status as a measles-free country more than 25 years after eradicating the virus, but Quebecs Health Ministry says the province has remained measles free since April. THIS CONTENT\u2026 [+3623 chars]",
+      "retrievedAt": "2025-11-12 19:06:19.157270",
+      "internal_id": "e223ba7ea030bfed4d6b11053027768744fff46862d2ca515d3163edcbb0a225",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25658,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ji\u0159\u00ed B\u00e1rta",
+      "title": "Kv\u016fli pta\u010d\u00ed ch\u0159ipce p\u0159ijde farma z T\u0159eb\u00ed\u010dska o 20 tis\u00edc kachen. Pravidla jsme neporu\u0161ili, br\u00e1n\u00ed se majitel",
+      "description": "Na vrata velk\u00e9 dr\u016fbe\u017e\u00ed farmy ve Vald\u00edkov\u011b na T\u0159eb\u00ed\u010dsku v \u00fater\u00fd pov\u011bsili chovatel\u00e9 ceduli \u201eOhnisko nebezpe\u010dn\u00e9 n\u00e1kazy zv\u00ed\u0159at, vstup zak\u00e1z\u00e1n\u201c. St\u00e1tn\u00ed veterin\u00e1rn\u00ed spr\u00e1va tam potvrdila v\u00fdskyt pta\u010d\u00ed ch\u0159ipky, konkr\u00e9tn\u011b vysoce patogenn\u00edho typu H5N1. Cel\u00fd chov bude mu\u2026",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-kvuli-ptaci-chripce-prijde-farma-z-trebicska-o-20-tisic-kachen-pravidla-jsme-neporusili-brani-se-majitel-40548378",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_of_A/kPRtHkVQLlC0jCJBqIE3vLIK/45c2/ptaci-chripka-valdikov.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-11-11 17:06:47",
+      "content": "Majitel drbe\u00e1rny se vak ohradil proti slovm ministra zemdlstv\u00ed v demisi Marka V\u00fdborn\u00e9ho (KDU-SL), kter\u00fd na \u00fatern\u00edm br\u00edfinku ozn\u00e1mil, e mon\u00e1 byla poruena veterin\u00e1rn\u00ed pravidla a chovatel nenahl\u00e1sil \u00fahy\u2026 [+2159 chars]",
+      "retrievedAt": "2025-11-12 19:06:19.906143",
+      "internal_id": "ba57f9eca3c1afcb63adfb8ce7f57970e6da05ed80c63c01f8dc68e7de1df210",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25661,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Se\u00e1n McC\u00e1rthaigh",
+      "title": "GP guilty of professional misconduct after failing to spot meningitis in baby",
+      "description": "A locum GP has been found guilty of professional misconduct and poor professional performance over her failure to recognise the serious conditions of two very ill children and to refer them to hospital.",
+      "url": "https://www.independent.ie/irish-news/gp-guilty-of-professional-misconduct-after-failing-to-spot-meningitis-in-baby/a1903533478.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/rqGc2RHGgNKcVUN8Rj9ANOSxrWE=/0x0:4558x3038/629x0/prod-mh-ireland/4e59547b-47ca-4d77-bf21-23079d6a6ed2/0495c4b5-5ee7-4a71-bd8c-b21c66387df9/4e59547b-47ca-4d77-bf21-23079d6a6ed2.jpg",
+      "publishedAt": "2025-11-11 16:19:30",
+      "content": "Another child in his teens had a testicle removed after locums failure to diagnose condition A locum GP has been found guilty of professional misconduct and poor professional performance over her fa\u2026 [+336 chars]",
+      "retrievedAt": "2025-11-12 19:06:20.733741",
+      "internal_id": "7ab485cf752f0f3cba94a599d02847b74f3fb2e519cf00fbd58bea0f5146868d",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25662,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "UK pledges 850 million pounds for global disease fight",
+      "description": "LONDON (Reuters) -Britain on Tuesday pledged 850 million pounds ($1.14 billion) to an international initiative to fight AIDS, tuberculosis and malaria, in what amounted to a cut of 15% from the previous commitment as the nation struggles with a tighter budget\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/11/11/uk-pledges-850-million-pounds-for-global-disease-fight",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/11/3617401.jpg",
+      "publishedAt": "2025-11-11 15:44:00",
+      "content": "LONDON (Reuters) -Britain on Tuesday pledged 850 million pounds ($1.14 billion) to an international initiative to fight AIDS, tuberculosis and malaria, in what amounted to a cut of 15% from the previ\u2026 [+847 chars]",
+      "retrievedAt": "2025-11-12 19:06:21.081555",
+      "internal_id": "7d9bfa5e8c2dc1e70be18e89c9a370d1b29ac48d328d7223af8dc5e7c76ece30",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25649,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Edna Mohamed",
+      "title": "Why has Canada lost its measles-free status \u2013 and could the US be next?",
+      "description": "With more than 5,000 positive cases of measles, Canada lost its measles elimination status.",
+      "url": "https://www.aljazeera.com/news/2025/11/11/why-has-canada-lost-its-measles-free-status-and-could-the-us-be-next",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/reuters_69130b58-1762855768.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-11-11 14:15:46",
+      "content": "After nearly 30 years, Canada has lost its measles elimination status, which, by default, has caused the overall Americas region to lose its status as well. In a statement issued on Monday, the coun\u2026 [+9825 chars]",
+      "retrievedAt": "2025-11-12 19:06:18.878524",
+      "internal_id": "ada881446484e40bbae6876a7ba26bf6fb32bd6c8f24de5e78350a64a1d595b3",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25659,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Parimala R. Vajjhala, Jaehyeon Kim, Adriana Pliego Zamora, Helen Mostafavi, Larisa I. Labzin, Katryn J. Stacey",
+      "title": "Dengue virus NS1 protein does not activate TLR4 and has a modest effect on endothelial monolayer integrity compared to TNF",
+      "description": "Author summary Dengue virus is a mosquito-borne flavivirus that causes a range of symptoms ranging from mild fever to severe disease. Severe disease is characterised by leak of plasma from the blood vessels that can lead to life-threatening shock. Factors imp\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013695",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013695.g006&size=inline",
+      "publishedAt": "2025-11-11 14:00:00",
+      "content": "Citation: Vajjhala PR, Kim J, Pliego Zamora A, Mostafavi H, Labzin LI, Stacey KJ (2025) Dengue virus NS1 protein does not activate TLR4 and has a modest effect on endothelial monolayer integrity comp\u2026 [+49974 chars]",
+      "retrievedAt": "2025-11-12 19:06:20.398562",
+      "internal_id": "9827ea0a2b9dd2f421420d32d19373f7f0c4900c44957d0e588e6f63329e9a20",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25664,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aastha Varshney, Eisha Pandey, Nirdosh, Satish Mishra",
+      "title": "Plasmodium actin-like proteins are essential for DNA segregation during male gametogenesis and malaria transmission",
+      "description": "Author summary The Arp2/3 complex, comprising seven subunits (ARPC1\u20135, Arp2, and Arp3), orchestrates actin polymerization by nucleating branched actin networks. This complex is pivotal for spindle actin assembly during mitosis and meiosis, thereby ensuring ac\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013687",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013687.strk&size=inline",
+      "publishedAt": "2025-11-11 14:00:00",
+      "content": "Citation: Varshney A, Pandey E, Nirdosh, Mishra S (2025) Plasmodium actin-like proteins are essential for DNA segregation during male gametogenesis and malaria transmission. PLoS Pathog 21(11): e10\u2026 [+83855 chars]",
+      "retrievedAt": "2025-11-12 19:06:21.101075",
+      "internal_id": "61d9cc681f18e45d744bfccc4eb8330607c641c572d893a79ebfc0a97da00cb5",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25665,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Asl Bari, 'accertati due casi di virus Chikungunya'",
+      "description": "Il dipartimento di Prevenzione della Asl di Bari ha concluso un'indagine epidemiologica che ha portato all'accertamento di \"due casi di infezione da virus Chikungunya, una malattia virale trasmessa da zanzare infette del genere Aedes, caratterizzata da feb...\u2026",
+      "url": "https://www.ansa.it/puglia/notizie/2025/11/11/asl-bari-accertati-due-casi-di-virus-chikungunya_02a96b8a-4378-4235-b630-d5a9fa11daaa.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2010/12/6/f6e6529e26d88904932d4013e0b55016.jpg",
+      "publishedAt": "2025-11-11 13:43:06",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2025-11-12 19:06:21.581142",
+      "internal_id": "1ccb9590fd00acae215f9ebc64c1fe42271e03088c5e5a7aa0bb85c6c1b41719",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25650,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Canada Loses Measles Elimination Status. Will The U.S. Soon Follow?",
+      "description": "With ongoing measles outbreaks since October 2024, the Pan American Health Organization has now revoked the measles elimination status that Canada achieved in 1998.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/11/11/canada-loses-measles-elimination-status-will-the-us-soon-follow/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691312770d5eb4ecc298a38b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-11 10:44:57",
+      "content": "With ongoing measles outbreaks since October 2024, Canada has now lost their measles elimination status attained in 1998. (Photo by GEOFF ROBINS/AFP via Getty Images) AFP via Getty Images Oh Canada\u2026 [+5483 chars]",
+      "retrievedAt": "2025-11-12 19:06:18.888096",
+      "internal_id": "1575e0caa58a7e7729bcd8b4a78ff7ba412ab23248b1d67a5f1d33554f9839e8",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25652,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Canada loses measles-free status, raising alarms among experts",
+      "description": "After more than 12 months of sustained outbreaks, Canada has lost its measles elimination status. Experts fear the U.S. could soon face the same fate as vaccine misinformation fuels the virus' spread.",
+      "url": "https://www.npr.org/2025/11/11/nx-s1-5604686/canada-loses-measles-free-status-raising-alarms-among-experts",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-11-11 09:45:19",
+      "content": "After more than 12 months of sustained outbreaks, Canada has lost its measles elimination status. Experts fear the U.S. could soon face the same fate as vaccine misinformation fuels the virus' spread.",
+      "retrievedAt": "2025-11-12 19:06:18.977493",
+      "internal_id": "bae5f64b2eb2d4d92ee9007d7520efc284c7dd23cd54c64c80a178c565906315",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25666,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Today in History: November 11, \u2018Typhoid Mary\u2019 dies",
+      "description": "Irish-born cook Mary Mallon, who\u2019d gained notoriety as the disease-carrying \u201cTyphoid Mary\u201d blamed for the deaths of three people, died on North Brother Island in New York\u2019s East River at age 69.\u2026",
+      "url": "https://www.bostonherald.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/10/AP613306197520.jpg?w=1024&h=841",
+      "publishedAt": "2025-11-11 09:00:11",
+      "content": "Today is Tuesday, Nov. 11, the 315th day of 2025. There are 50 days left in the year. Today is Veterans Day. Today in history: On Nov. 11,1938, Irish-born cook Mary Mallon, whod gained notoriety as\u2026 [+2228 chars]",
+      "retrievedAt": "2025-11-12 19:06:22.075119",
+      "internal_id": "7dd23f0f80b4aaeb919b999025acd6932239131dc63140fa1223e00edc558344",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25667,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "The Associated Press",
+      "title": "Today in History: November 11, \u2018Typhoid Mary\u2019 dies",
+      "description": "Irish-born cook Mary Mallon, who\u2019d gained notoriety as the disease-carrying \u201cTyphoid Mary\u201d blamed for the deaths of three people, died on North Brother Island in New York\u2019s East River at age 69.\u2026",
+      "url": "https://www.denverpost.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/10/AP613306197520.jpg?w=1024&h=841",
+      "publishedAt": "2025-11-11 09:00:11",
+      "content": "Today is Tuesday, Nov. 11, the 315th day of 2025. There are 50 days left in the year. Today is Veterans Day. Today in history: On Nov. 11,1938, Irish-born cook Mary Mallon, whod gained notoriety as\u2026 [+2228 chars]",
+      "retrievedAt": "2025-11-12 19:06:22.085182",
+      "internal_id": "c73191ec4be10585188ab8f42a2ea52cb0a601f9f50b206fb1b881ac4b477884",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25656,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Impress.co.jp",
+      "author": "\u5ca9\u4e95 \u7950\u4e00\u90ce",
+      "title": "\u697d\u5929\u3068\u65e5\u672cHP\u3001\u300cRakuten AI for Desktop\u300d\u3067\u5354\u696d \u76ee\u6307\u3059\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9AI\u306e\u72d9\u3044",
+      "description": "\u697d\u5929\u30b0\u30eb\u30fc\u30d7\u3068\u65e5\u672cHP\u306f11\u65e5\u3001\u300cRakuten AI for Desktop\u300d\u5c0e\u5165\u306b\u5411\u3051\u3066\u5354\u696d\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3057\u305f\u3002",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2062321.html",
+      "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/2062/321/DSC05553.jpg",
+      "publishedAt": "2025-11-11 08:07:38",
+      "content": "HP11Rakuten AI for Desktop HPAI HP201012HP15AI AIAIAIAIAI AIAI AILLMHPAI HPAMDRakuten AIWindowsNPU HPRakuten AI for Desktop2026 Rakuten AI for DesktopHP HPHP SIM SIM Rakuten \u2026 [+268 chars]",
+      "retrievedAt": "2025-11-12 19:06:19.488795",
+      "internal_id": "1c84a14e7c9f4d8883de8ccdb9ad3d795e09c9ff4093c9819abc79dd69e46d52",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25648,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "RTI reveals 18 rabies deaths in Delhi since 2022, contradicting Centre\u2019s \u2018zero deaths\u2019 claim",
+      "description": "New information shows 18 people died of rabies in Delhi in the last three years. This contradicts a Union government statement of zero deaths. The government plans to eliminate rabies by 2030 through vaccination and sterilisation programmes.",
+      "url": "https://economictimes.indiatimes.com/news/india/rti-reveals-18-rabies-deaths-in-delhi-since-2022-contradicting-centres-zero-deaths-claim/articleshow/125243534.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125243766,width-1200,height-630,imgsize-103290,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-11 07:50:18",
+      "content": "An RTI reply has revealed that at least 18 people have died of rabies in Delhi over the past three years, contradicting the Union governments statement in Parliament that the capital reported zero hu\u2026 [+1646 chars]",
+      "retrievedAt": "2025-11-12 19:06:18.545900",
+      "internal_id": "51095ec50a2991300172f4244f89a0f5c0949991c03f4d340f03bd81899b015c",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25660,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases continue to rise, 182 new infections reported in a week",
+      "description": "KATHMANDU: The number of dengue cases in Nepal has continued to climb, with 182 new infections reported across the country in the past week. According to the Epidemiology and Disease Control Division (EDCD), 26 new cases were recorded in the last 24 hours alo\u2026",
+      "url": "https://english.khabarhub.com/2025/11/505496/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-11-11 07:15:29",
+      "content": "KATHMANDU: The number of dengue cases in Nepal has continued to climb, with 182 new infections reported across the country in the past week. According to the Epidemiology and Disease Control Divisio\u2026 [+614 chars]",
+      "retrievedAt": "2025-11-12 19:06:20.424344",
+      "internal_id": "9a32b9267f8db17b9ef630c77ce8b71d531ce0a19e4e86f9eed3e94205c06637",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25657,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Julie Renson Miquel, photo R\u00e9my Artiges",
+      "title": "H\u00e9catombe de grues cendr\u00e9es caus\u00e9e par l\u2019influenza aviaire : au lac du Der, \u00abc\u2019est sans pr\u00e9c\u00e9dent\u00bb",
+      "description": "Lors de leur migration vers le Sud, 300 000 \u00e9chassiers font halte chaque automne sur la r\u00e9serve naturelle tr\u00e8s pris\u00e9e. Mais le virus H5N1 fait des ravages in\u00e9dits, menace les \u00e9levages alentour et a conduit \u00e0 des mesures d\u2019urgence.",
+      "url": "https://www.liberation.fr/environnement/biodiversite/hecatombe-de-grues-cendrees-causee-par-linfluenza-aviaire-au-lac-du-der-cest-sans-precedent-20251111_2WNJW5HBIBHFTFNWM4RBEE6HFU/",
+      "urlToImage": "https://www.liberation.fr/resizer/v2/RCO23IF52FCI3LTXRGDCZZCTFM.jpg?smart=true&auth=f9b6310938b8ad60761f7ebe084264aa3ef59e46236741cbd44fdae8b0a21493&quality=70&width=1200&height=630",
+      "publishedAt": "2025-11-11 07:12:06",
+      "content": "Un nuancier de rose et dor perce les t\u00e9n\u00e8bres en ce d\u00e9but novembre. Il est 7 heures du matin, au lac du Der-Chantecoq, une r\u00e9serve naturelle \u00e0 cheval entre la Marne et la Haute-Marne. Le soleil na pa\u2026 [+636 chars]",
+      "retrievedAt": "2025-11-12 19:06:19.862891",
+      "internal_id": "697e3a8733b3f1310c42b8e8e4eb97585f843deea33658b27cdb0cd394484a8f",
+      "publishedAtLabel": "Nov 11"
+    },
     {
       "id": 25636,
       "query": [
@@ -902,6 +1244,24 @@
       "content": "Department of Genetics, University of Cambridge, Cambridge, UK Gabriel Ribeiro dos Santos, Fariha Jawed &amp; Henrik Salje Department of Epidemiology of Microbial Diseases, Yale School\u2026 [+1398 chars]",
       "retrievedAt": "2025-11-11 07:07:58.694173",
       "internal_id": "b42e0b04e0cebdcee80a4c90646f0e528d376dd2678f9423389d88ea4d469910",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 25651,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Flora Graham",
+      "title": "Daily briefing: The Americas have lost their measles elimination status",
+      "description": "A year-long outbreak of measles in Canada negates the country\u2019s disease-free status. Plus, the benefits of being multilingual and computers that run on human brains.",
+      "url": "https://www.nature.com/articles/d41586-025-03705-1",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03705-1/d41586-025-03705-1_51697618.png",
+      "publishedAt": "2025-11-10 00:00:00",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here. People who speak multiple languages are less likely to experience accelerated brain ageing.Credi\u2026 [+6596 chars]",
+      "retrievedAt": "2025-11-12 19:06:18.905572",
+      "internal_id": "62b66236bfb0068d004ec28d05d537b853e91bcfb840a21b80084e275d5400ed",
       "publishedAtLabel": "Nov 10"
     },
     {
@@ -15129,60 +15489,6 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24810,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
-      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
-      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
-      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
-      "publishedAt": "2025-09-28 14:21:23",
-      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
-      "retrievedAt": "2025-09-29 19:06:14.197762",
-      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24809,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "David Njaaga",
-      "title": "Kenya seeks global backing for rabies elimination plan",
-      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
-      "publishedAt": "2025-09-28 14:15:53",
-      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.536817",
-      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24808,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Trending Desk",
-      "title": "About 1,000 Pakistanis die annually from rabies: Report",
-      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-09-28 10:20:40",
-      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.484815",
-      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]
