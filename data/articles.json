@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-11-13 07:07",
-  "count_articles_total": 870,
-  "count_articles_new": 10,
+  "last_updated": "2025-11-13 19:06",
+  "count_articles_total": 882,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 25688,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Meneador_Compulsivo",
+      "title": "Cuba califica de \"epidemia\" el brote nacional de casos de chikungu\u00f1a, dengue y oropouche",
+      "description": "Miguel D\u00edaz-Canel, calific\u00f3 de \u00abepidemia\u00bb los casos de dengue, chikungu\u00f1a y oropouche en la isla. Esta es la primera vez que el Gobierno cubano designa como epidemia una situaci\u00f3n que oficialmente nombra como \u00abs\u00edndrome febril inespec\u00edfico\u00bb, tras un fuerte inc\u2026",
+      "url": "https://www.meneame.net/m/actualidad/cuba-califica-epidemia-brote-nacional-casos-chikunguna-dengue",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4116774&version=0&ts=1762966446&image.webp",
+      "publishedAt": "2025-11-12 16:52:09",
+      "content": "",
+      "retrievedAt": "2025-11-13 19:06:07.331171",
+      "internal_id": "489b4ff6cab24ab45c5784c6382f507bb838ee14d87d60c808e4c8f34abd2a3b",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25685,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Somogyi N\u00f3ra",
+      "title": "J\u00e1rv\u00e1ny Szentesen, t\u00f6bb mint negyvenezer h\u00edz\u00f3pulyk\u00e1t m\u00e9sz\u00e1rolnak le",
+      "description": "J\u00e1rv\u00e1ny Szentesen, t\u00f6bb mint negyvenezer h\u00edz\u00f3pulyk\u00e1t m\u00e9sz\u00e1rolnak le - A N\u00e9bih fokozott \u00f3vatoss\u00e1gra int.",
+      "url": "https://index.hu/belfold/2025/11/12/csongrad-csanad-varmegye-szentes-madarinfluenza-jarvany-nebih-hizopulyka/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/6585/65856/658569/65856937_4862313_42c5b75b9264092fd2249a59d4da0143_wm.jpg",
+      "publishedAt": "2025-11-12 15:25:00",
+      "content": "A Csongr\u00e1d-Csan\u00e1d v\u00e1rmegyei Szentesen, egy h\u00edz\u00f3pulykatart\u00f3 gazdas\u00e1gban a N\u00e9bih vizsg\u00e1latai kimutatt\u00e1k a mad\u00e1rinfluenza v\u00edrus magas patogenit\u00e1s\u00fa, H5N1 alt\u00edpus\u00e1t sz\u00e1moltak be a honlapjukon. A mintegy \u2026 [+953 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.886734",
+      "internal_id": "16b44cc725e012fa35fba79fb1b0fe118347088286c3d3a31307e86d2717541b",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25689,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Jos\u00e9 Navarrete",
+      "title": "Corte de La Serena ordena inoculaci\u00f3n de reci\u00e9n nacido al que su madre le neg\u00f3 vacunas contra la hepatitis y meningitis",
+      "description": "El tribunal acogi\u00f3 un recurso de protecci\u00f3n presentado por el hospital de la ciudad. De acuerdo a lo razonado por los jueces, al negarse a la vacunaci\u00f3n, la madre vulnera el derecho a la vida e integridad f\u00edsica del lactante. La mujer aleg\u00f3 \"libertad de criar\u2026",
+      "url": "https://www.latercera.com/nacional/noticia/corte-de-la-serena-ordena-inoculacion-de-recien-nacido-al-que-su-madre-le-nego-vacunas-contra-la-hepatitis-y-meningitis/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/V33CVH3UYZH7VNBQZMUF3W4BOU.jpg?auth=abfe8116e6cb7dc3260e995b48f393e0e885d420f81ae10dbea00aedc6f67363&height=630&width=1200&smart=true",
+      "publishedAt": "2025-11-12 15:06:30",
+      "content": "Acogiendo un recurso de protecci\u00f3n presentado por el hospital de la ciudad, la Corte de Apelaciones de La Serena orden\u00f3 aplicar a un reci\u00e9n nacido la inoculaci\u00f3n contra la meningitis tuberculosa y la\u2026 [+2246 chars]",
+      "retrievedAt": "2025-11-13 19:06:07.807137",
+      "internal_id": "e91ec58a5e61a41ddd0101e3cd24267b81d00aefdfe1a5ff362ad83aba17df93",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25687,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ji\u0159\u00ed B\u00e1rta",
+      "title": "T\u00fddenn\u00edm kach\u0148at\u016fm nic nen\u00ed, litoval p\u0159i likvidaci velkochovu s pta\u010d\u00ed ch\u0159ipkou \u0161\u00e9f farmy",
+      "description": "Milosrdn\u00e1 mlha schovala ve st\u0159edu dopoledne usmrcov\u00e1n\u00ed p\u0159e\u017eiv\u0161\u00edch kachen z velkochovu ve Vald\u00edkov\u011b na T\u0159eb\u00ed\u010dsku. Tamn\u00ed farma p\u0159ijde o v\u00edce ne\u017e dvacet tis\u00edc kus\u016f dr\u016fbe\u017ee, proto\u017ee rozbory prok\u00e1zaly v p\u0159\u00edpad\u011b uhynul\u00fdch zv\u00ed\u0159at pta\u010d\u00ed ch\u0159ipku typu H5N1. \u0160koda bude \u2026",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-tydennim-kachnatum-nic-neni-litoval-pri-likvidaci-velkochovu-s-ptaci-chripkou-sef-farmy-40548483",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_of_A/kPxr1WDRoIBXOaFVrE4UNlD/22b3/kachny-likvidace-ptaci-chripka.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-11-12 13:38:54",
+      "content": "S likvidac\u00ed zaali pracovn\u00edci farmy s pomoc\u00ed hasi po dev\u00e1t\u00e9 hodin. Na m\u00edst je zhruba pades\u00e1t p\u00edslun\u00edk hasisk\u00e9ho z\u00e1chrann\u00e9ho sboru, ozn\u00e1mil krajsk\u00fd \u00edd\u00edc\u00ed dstojn\u00edk Martin Totek. P\u00edmo do hal nasadili ke\u2026 [+1826 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.913145",
+      "internal_id": "3d353ec063da475092515f8427e1de8ea0b372b186151746f0b46866e0bdd666",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25683,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Patrick Lewis",
+      "title": "Bird Flu Surges Across The U.S. As Scientists Warn of Gaps in Monitoring and Farm Safety",
+      "description": "H5N1 bird flu is spreading aggressively among U.S. poultry, with 66 outbreaks in the past month, killing over 3.5 million turkeys, chickens, and ducks. Migratory birds are spreading the virus, raising fears of further outbreaks beyond central states.",
+      "url": "https://www.shtfplan.com/health/bird-flu-surges-across-the-u-s-as-scientists-warn-of-gaps-in-monitoring-and-farm-safety",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2025-11-12 13:30:17",
+      "content": "This article was originally published by Patrick Lewis at Natural News. H5N1 bird flu is spreading aggressively among U.S. poultry, with 66 outbreaks in the past month, killing over\u2026 [+5638 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.859830",
+      "internal_id": "72cd459c151c9adc2e846190a82a1f6c7a2ada9eebb92bac586e4bf84f521117",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25692,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "health@gnusolidario.org",
+      "title": "gnuhealth-mdg6 5.0.1",
+      "description": "Millenium Development Goal -MDG 6- (Tuberculosis, HIV/AIDS, Malaria) package for GNU Health",
+      "url": "https://pypi.org/project/gnuhealth-mdg6/5.0.1/",
+      "urlToImage": null,
+      "publishedAt": "2025-11-12 12:49:13",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-11-13 19:06:08.248226",
+      "internal_id": "c5655c55d710764309d9d01e8c245c7b36d7e772b2838d6391c4d377af1010dc",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25680,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "The Associated Press",
+      "title": "Jack Schlossberg, JFK\u2019s grandson and social media influencer, to run for Congress in key Manhattan district",
+      "description": "Last month, Schlossberg posted on Instagram an image of a Halloween costume for \u201cMAHA Man\u201d and described it as including such things as measles.",
+      "url": "https://fortune.com/2025/11/12/jack-schlossberg-jfk-grandson-kennedy-manhattan-congress-democrat/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/AP25316181253962-e1762950807872.jpg?resize=1200,600",
+      "publishedAt": "2025-11-12 12:35:31",
+      "content": "John F. Kennedys grandson Jack Schlossberg is running for the U.S. House next year, announcing Tuesday that hes seeking a key New York seat set to be vacated by longtime Democratic Rep. Jerry Nadler.\u2026 [+1065 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.140804",
+      "internal_id": "08812dd9cfad0ebc0c65f1359f34d5b636ef87e667964398dc8d6110bf7a85d5",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25686,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Bird Flu Panic Leads to Court-Order Mass Execution of Ostriches at Canadian Farm",
+      "description": "The move may have been a snub to the U.S., as RFKJr endeavored to save the birds. The post Bird Flu Panic Leads to Court-Order Mass Execution of Ostriches at Canadian Farm first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/11/bird-flu-panic-leads-to-court-order-mass-execution-of-ostriches-at-canadian-farm/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/11/LI-098-Ostrich-Cull.png",
+      "publishedAt": "2025-11-12 12:00:53",
+      "content": "Hundreds of ostriches were culled at Universal Ostrich Farms in British Columbia after a lengthy legal and public campaign failed to stop the action. The birds were exposed to avian influenza (H5N1/\u2026 [+4815 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.896000",
+      "internal_id": "4eb76e66bcbad4b7153f71e74dbb999b22e3eb7dd715959368386f980ec7932e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25681,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "World News in Brief: Gaza latest, Americas loses measles-free status, tornado recovery in Brazil",
+      "description": "At least 600,000 litres of desperately needed diesel fuel has managed to enter the Gaza Strip in less than a week, UN aid coordinators OCHA said in an update. Read Full Story on UN News The post World News in Brief: Gaza latest, Americas loses measles-free st\u2026",
+      "url": "https://news.un.org/en/story/2025/11/1166345",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-10-2025-UNICEF-Gaza-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-11-12 12:00:00",
+      "content": "The fuel is needed to power machinery for critical operations, including water, sanitation, hygiene, health and clearing rubble. Education, nutrition and protection work will also be possible thanks\u2026 [+3919 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.260539",
+      "internal_id": "f86d36a5ff74cdc4c8b7295d22afc9e89a2d6494297c132fe3d919979752649b",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25682,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CHIP Online Deutschland",
+      "author": "Marie M\u00fcllmaier",
+      "title": "Vogelgrippe bei Haustieren: Das sollten Katzenhalter jetzt wissen",
+      "description": "Die Ausbreitung des Vogelgrippe-Virus, insbesondere der hochpathogenen Variante Avi\u00e4re Influenza (H5N1), bei Wild- und Nutzv\u00f6geln sorgt zunehmend auch bei Haustierhaltern f\u00fcr Besorgnis. Das Risiko f\u00fcr Katzen bleibt zwar gering, doch bei Freig\u00e4ngerkatzen gibt \u2026",
+      "url": "https://www.chip.de/news/haustiere/vogelgrippe-bei-haustieren-das-sollten-katzenhalter-jetzt-wissen_929d7874-fd0a-4749-a2a0-1baece4bb5c8.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/cbb7979f-efbd-4e72-95c8-d767549b4073.5ba52512-b833-4999-84ea-cda2ea194dd6.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281018%2C703%29&hash=22f77c2aa8bd55ed169bced56e3084510f84e88ef9225b73461537fd46be9864",
+      "publishedAt": "2025-11-12 11:23:00",
+      "content": "Als Katzenbesitzer haben Sie vermutlich schon von den j\u00fcngsten Meldungen zur Vogelgrippe geh\u00f6rt: Infektionsf\u00e4lle bei Wildv\u00f6geln, Nutzgefl\u00fcgel und vereinzelt auch S\u00e4ugetieren wie Katzen werden bericht\u2026 [+3822 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.842582",
+      "internal_id": "66d1f92096cb65ecb0bf0d21e73bd9302a13209d8a2ddf487c1c1190cfa6a772",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25678,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Kathryn H. Jacobsen",
+      "title": "Canada loses its official \u201cmeasles-free\u201d status. The US will soon follow",
+      "description": "Canada eliminated measles in 1998 but had a major outbreak in 2025.",
+      "url": "https://www.salon.com/2025/11/12/canada-loses-its-official-measles-free-status-the-us-will-soon-follow_partner/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/11/GettyImages-2201702412.jpg",
+      "publishedAt": "2025-11-12 11:00:55",
+      "content": "In the wake of a measles outbreak in Canada that has infected thousands of people over the past year, an international health agency revoked the countrys measles-free status on Nov. 10, 2025. The Pa\u2026 [+5482 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.032493",
+      "internal_id": "eedfb36fe4639b18fa79ac82fa33f5797034983a3e8b9d438372b0daa572c6da",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25691,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "snt-malaria-budgeting 0.4.1",
+      "description": "A Python library for calculating malaria intervention budgets",
+      "url": "https://pypi.org/project/snt-malaria-budgeting/0.4.1/",
+      "urlToImage": null,
+      "publishedAt": "2025-11-12 10:56:28",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-11-13 19:06:08.239261",
+      "internal_id": "c0deafb69c122c55193b2ed5deefc1da2c6e9e32c8fa64c340ff6f0f0dea1d52",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25684,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Suomessa on l\u00f6ydetty lyhyess\u00e4 ajassa useita kuolleita laulujoutsenia \u2013 asiantuntija: \u201dSe on nyt v\u00e4h\u00e4n poikkeuk\u00adsellista\u201d",
+      "description": "Oulusta on l\u00f6ytynyt kaksi lintu\u00adinfluenssaan kuollutta laulujoutsenta. Aiemmin Virolahdelta l\u00f6ytyi kuolleena 14 joutsenta. My\u00f6s niiden kuolinsyyksi paljastui lintu\u00adinfluenssa.",
+      "url": "https://yle.fi/a/74-20193529",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_4,y_0,w_2496,h_1404/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1619169078/39-7347365f97fc4ccaec9",
+      "publishedAt": "2025-11-12 10:41:19",
+      "content": "Oulusta on l\u00f6ytynyt kaksi kuollutta laulujoutsenta, joista molemmista todettiin H5N1-tyypin lintuinfluenssaa.Oulussa ja Virolahdella on todettu useita lintuinfluenssatapauksia lyhyen\u2026 [+2862 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.876961",
+      "internal_id": "a4c051d76bff049c88c65818abee28dd212124d80cba38e0defd9fc3c1424bff",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25690,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "UK cuts funding to AIDS, tuberculosis and malaria project by \u00a3150m",
+      "description": "The UK has historically been one of the biggest donors to the Geneva-based Global Fund - its \u00a3850m pledge for 2026 to 2028 represents a 15% drop in funding.",
+      "url": "https://news.sky.com/story/uk-cuts-funding-to-aids-tuberculosis-and-malaria-project-by-150m-13468997",
+      "urlToImage": "https://e3.365dm.com/25/11/1600x900/skynews-malaria-vaccine-ivory-coast_7079932.jpg?20251112101915",
+      "publishedAt": "2025-11-12 09:55:00",
+      "content": "The UK has cut \u00a3150m from its contribution to a global project which combats AIDS, tuberculosis and malaria. The pledge of \u00a3850m for the period of 2026 to 2028 represents a 15% drop from the \u00a31bn co\u2026 [+1766 chars]",
+      "retrievedAt": "2025-11-13 19:06:08.229666",
+      "internal_id": "b5d836a70bd9d283c5ec4b1505f47063ee9d35f804b3fc39279e29b0893dbef8",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25679,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Arianna Levy",
+      "title": "Alert issued after three people with measles attend Jelly Roll concert",
+      "description": "Queensland Health says the three infected people were at last month's concert of American singer Jelly Roll at the Brisbane Entertainment Centre and is warning others who attended to be alert for symptoms.",
+      "url": "https://www.abc.net.au/news/2025-11-12/qld-measles-cases-traced-to-jelly-roll-concert-at-brisbane/106002746",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/438474884ced93466ee4be1cf004ea31?impolicy=wcms_watermark_news&cropH=843&cropW=1500&xPos=0&yPos=79&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-12 07:51:03",
+      "content": "A public health alert has been issued for people who attended a US country-rap artist's concert in Brisbane last month after a measles outbreak in Queensland. Queensland Health confirmed three cases\u2026 [+1789 chars]",
+      "retrievedAt": "2025-11-13 19:06:06.060133",
+      "internal_id": "7ebcf074acf52e92ef9b6b904e2c5746b34931aacdac60a7b3c63b571e711a86",
+      "publishedAtLabel": "Nov 12"
+    },
     {
       "id": 25674,
       "query": [
@@ -15669,60 +15939,6 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24810,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
-      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
-      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
-      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
-      "publishedAt": "2025-09-28 14:21:23",
-      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
-      "retrievedAt": "2025-09-29 19:06:14.197762",
-      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24809,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "David Njaaga",
-      "title": "Kenya seeks global backing for rabies elimination plan",
-      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
-      "publishedAt": "2025-09-28 14:15:53",
-      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.536817",
-      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 24808,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Trending Desk",
-      "title": "About 1,000 Pakistanis die annually from rabies: Report",
-      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-09-28 10:20:40",
-      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
-      "retrievedAt": "2025-09-29 19:06:12.484815",
-      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]

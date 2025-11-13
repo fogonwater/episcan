@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-11-13 07:07
-- **Most recent article:** 2025-11-12 06:05:14
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-11-13 19:06
+- **Most recent article:** 2025-11-12 16:52:09
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 42 | 218 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 14 | 167 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 9 | 133 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 6 | 112 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 46 | 222 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 15 | 167 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 15 | 139 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 9 | 115 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 4 | 99 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 3 | 36 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 3 | 34 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
-| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 4 | 26 |
+| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 5 | 27 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
 | leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 1 | 13 |
 | hpai | 2 | 1 | 0 | 4 | 2 | 1 | 2 | 12 |
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (meningitis)
 
+- [Corte de La Serena ordena inoculación de recién nacido al que su madre le negó vacunas contra la hepatitis y meningitis](https://www.latercera.com/nacional/noticia/corte-de-la-serena-ordena-inoculacion-de-recien-nacido-al-que-su-madre-le-nego-vacunas-contra-la-hepatitis-y-meningitis/) (Latercera.com)
+
 - [Misconduct proven against doctor who allegedly failed to refer seriously ill boys to A&E](https://www.irishtimes.com/health/2025/11/11/misconduct-proven-against-doctor-who-allegedly-failed-to-refer-seriously-ill-boys-to-ae/) (The Irish Times)
 
 - [GP guilty of professional misconduct after failing to spot meningitis in baby](https://www.independent.ie/irish-news/gp-guilty-of-professional-misconduct-after-failing-to-spot-meningitis-in-baby/a1903533478.html) (Independent.ie)
@@ -62,6 +64,14 @@ Source: [News API](https://newsapi.org/)
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [Jack Schlossberg, JFK’s grandson and social media influencer, to run for Congress in key Manhattan district](https://fortune.com/2025/11/12/jack-schlossberg-jfk-grandson-kennedy-manhattan-congress-democrat/) (Fortune)
+
+- [World News in Brief: Gaza latest, Americas loses measles-free status, tornado recovery in Brazil](https://news.un.org/en/story/2025/11/1166345) (UN News)
+
+- [Canada loses its official “measles-free” status. The US will soon follow](https://www.salon.com/2025/11/12/canada-loses-its-official-measles-free-status-the-us-will-soon-follow_partner/) (Salon)
+
+- [Alert issued after three people with measles attend Jelly Roll concert](https://www.abc.net.au/news/2025-11-12/qld-measles-cases-traced-to-jelly-roll-concert-at-brisbane/106002746) (ABC News (AU))
 
 - [Canada loses measles elimination status. Health officials say US could be next](https://www.clickondetroit.com/news/local/2025/11/11/canada-loses-measles-elimination-status-health-officials-say-us-could-be-next/) (WDIV ClickOnDetroit)
 
@@ -149,6 +159,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (malaria)
 
+- [gnuhealth-mdg6 5.0.1](https://pypi.org/project/gnuhealth-mdg6/5.0.1/) (Pypi.org)
+
+- [snt-malaria-budgeting 0.4.1](https://pypi.org/project/snt-malaria-budgeting/0.4.1/) (Pypi.org)
+
+- [UK cuts funding to AIDS, tuberculosis and malaria project by £150m](https://news.sky.com/story/uk-cuts-funding-to-aids-tuberculosis-and-malaria-project-by-150m-13468997) (Sky.com)
+
 - [First new type of malaria treatment in decades shows promise against drug resistance](https://www.nature.com/articles/d41586-025-03690-5) (Nature.com)
 
 - [Lotta contro hiv, malaria, tubercolosi, "Italia rinnovi sostegno a Fondo Globale"](https://www.ansa.it/sito/videogallery/italia/2025/11/11/lotta-contro-hiv-malaria-tubercolosi-italia-rinnovi-sostegno-a-fondo-globale_5b58f4a7-3520-4746-adea-f73cb89fb4bd.html) (ANSA.it)
@@ -173,6 +189,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (h5n1)
 
+- [Járvány Szentesen, több mint negyvenezer hízópulykát mészárolnak le](https://index.hu/belfold/2025/11/12/csongrad-csanad-varmegye-szentes-madarinfluenza-jarvany-nebih-hizopulyka/) (Index.hu)
+
+- [Týdenním kachňatům nic není, litoval při likvidaci velkochovu s ptačí chřipkou šéf farmy](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-tydennim-kachnatum-nic-neni-litoval-pri-likvidaci-velkochovu-s-ptaci-chripkou-sef-farmy-40548483) (Novinky.cz)
+
+- [Bird Flu Surges Across The U.S. As Scientists Warn of Gaps in Monitoring and Farm Safety](https://www.shtfplan.com/health/bird-flu-surges-across-the-u-s-as-scientists-warn-of-gaps-in-monitoring-and-farm-safety) (Shtfplan.com)
+
+- [Bird Flu Panic Leads to Court-Order Mass Execution of Ostriches at Canadian Farm](https://legalinsurrection.com/2025/11/bird-flu-panic-leads-to-court-order-mass-execution-of-ostriches-at-canadian-farm/) (Legalinsurrection.com)
+
+- [Vogelgrippe bei Haustieren: Das sollten Katzenhalter jetzt wissen](https://www.chip.de/news/haustiere/vogelgrippe-bei-haustieren-das-sollten-katzenhalter-jetzt-wissen_929d7874-fd0a-4749-a2a0-1baece4bb5c8.html) (CHIP Online Deutschland)
+
+- [Suomessa on löydetty lyhyessä ajassa useita kuolleita laulujoutsenia – asiantuntija: ”Se on nyt vähän poikkeuk­sellista”](https://yle.fi/a/74-20193529) (YLE News)
+
 - [Ecology and spread of the North American H5N1 epizootic](https://www.nature.com/articles/s41586-025-09737-x) (Nature.com)
 
 - [Kvůli ptačí chřipce přijde farma z Třebíčska o 20 tisíc kachen. Pravidla jsme neporušili, brání se majitel](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-kvuli-ptaci-chripce-prijde-farma-z-trebicska-o-20-tisic-kachen-pravidla-jsme-neporusili-brani-se-majitel-40548378) (Novinky.cz)
@@ -192,6 +220,8 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Cuba califica de "epidemia" el brote nacional de casos de chikunguña, dengue y oropouche](https://www.meneame.net/m/actualidad/cuba-califica-epidemia-brote-nacional-casos-chikunguna-dengue) (Meneame.net)
 
 - [Keeping yellow fever out of S’pore is one top priority for new Communicable Diseases Agency](https://www.straitstimes.com/singapore/health/keeping-yellow-fever-out-of-spore-is-one-top-priority-for-new-communicable-diseases-agency) (The Straits Times)
 
@@ -1807,10 +1837,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -2022,8 +2048,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
