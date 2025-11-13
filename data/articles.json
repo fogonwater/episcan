@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-11-12 19:06",
-  "count_articles_total": 857,
-  "count_articles_new": 20,
+  "last_updated": "2025-11-13 07:07",
+  "count_articles_total": 870,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 25674,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Judith Tan",
+      "title": "Keeping yellow fever out of S\u2019pore is one top priority for new Communicable Diseases Agency",
+      "description": "The CDA is the point agency to safeguard the country against infectious disease threats. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/keeping-yellow-fever-out-of-spore-is-one-top-priority-for-new-communicable-diseases-agency",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/e6a1d0b94803438959163c7e6aa2f6bb0f2e613317f6d64e3b1aa3398a7b9189",
+      "publishedAt": "2025-11-12 06:05:14",
+      "content": "SINGAPORE - While Singapore is free of yellow fever now, the country is still under threat from the viral disease, which like dengue is transmitted by the Aedes mosquito. Mr Pream Raj, Acting Direct\u2026 [+6844 chars]",
+      "retrievedAt": "2025-11-13 07:07:57.151868",
+      "internal_id": "526c542b661f36306ea963d22d458196e0feef4a94af6857752cb6209147258a",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25677,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "CEBU PROVINCE NAGPADAYON SA PAG APOD-APOD SA MGA TAMBAL UG GAMIT PARA-MEDIKAL",
+      "description": "Nagpadayon ang Probinsya sa Sugbo sa ilang paningkamot nga mapalambo ang kaluwasan sa panglawas sa katawhan pinaagi sa pinakabag-ong distribusyon sa Leptospirosis prophylaxis ug ubang mga tambal ngadto sa lain-laing mga lungsod ug ospital sa probinsya. Lakip \u2026",
+      "url": "https://rpnradio.com/cebu-province-nagpadayon-sa-pag-apod-apod-sa-mga-tambal-ug-gamit-para-medikal/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/11/download-68.jpg",
+      "publishedAt": "2025-11-12 01:50:24",
+      "content": "Nagpadayon ang Probinsya sa Sugbo sa ilang paningkamot nga mapalambo ang kaluwasan sa panglawas sa katawhan pinaagi sa pinakabag-ong distribusyon sa Leptospirosis prophylaxis ug ubang mga tambal ngad\u2026 [+834 chars]",
+      "retrievedAt": "2025-11-13 07:07:59.114116",
+      "internal_id": "a73888cd36746153068bb73f15158a697af7fe0972e0e452569fa0b6f0fd749b",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25671,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Lambodhar Damodaran, Anna S. Jaeger, Louise H. Moncla",
+      "title": "Ecology and spread of the North American H5N1 epizootic",
+      "description": "The panzootic of highly pathogenic H5N1 since 2021 was driven by around nine introductions into the Atlantic and Pacific flyways, followed by rapid dissemination through wild migratory birds, primarily Anseriformes.",
+      "url": "https://www.nature.com/articles/s41586-025-09737-x",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09737-x/MediaObjects/41586_2025_9737_Fig1_HTML.png",
+      "publishedAt": "2025-11-12 00:00:00",
+      "content": "Dataset collection and processing Information on case detections in North America In this study, a detection is defined as a positive PCR test from a collected sample. In Canada, year-round surveil\u2026 [+29512 chars]",
+      "retrievedAt": "2025-11-13 07:07:56.722386",
+      "internal_id": "b8b2c583bfc3541a872b07076eabb759ea4bdf03a138c2a6c1d1f6b0666777ee",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25676,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Mariana Lenharo",
+      "title": "First new type of malaria treatment in decades shows promise against drug resistance",
+      "description": "If approved, GanLum could be available within a year and a half, according to maker.",
+      "url": "https://www.nature.com/articles/d41586-025-03690-5",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03690-5/d41586-025-03690-5_51697846.jpg",
+      "publishedAt": "2025-11-12 00:00:00",
+      "content": "Malaria causes nearly 600,000 deaths each year, many of which occur in children.Credit: Hajarah Nalwadda/Getty Promising results from a new malaria drug offer hope against emerging drug resistance i\u2026 [+2173 chars]",
+      "retrievedAt": "2025-11-13 07:07:57.737930",
+      "internal_id": "4eb873e70a8021ae0735c4c9704917f461e0e11efbbb1f62c8c69195f169df38",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 25670,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Frank Mcgeorge",
+      "title": "Canada loses measles elimination status. Health officials say US could be next",
+      "description": "Health officials are now warning that the United States could face a similar situation as the disease spreads across North America amid declining vaccination rates.",
+      "url": "https://www.clickondetroit.com/news/local/2025/11/11/canada-loses-measles-elimination-status-health-officials-say-us-could-be-next/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/_Nw9dZoBNN1lJ3AcxWIw/1762903682796_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-11-11 23:46:46",
+      "content": "Canada has lost its measles elimination status following a year-long outbreak that resulted in over 5,000 cases and two infant deaths. Health officials are now warning that the United States could f\u2026 [+1280 chars]",
+      "retrievedAt": "2025-11-13 07:07:56.169002",
+      "internal_id": "fef6b0baba8c5c44766e9e144624167859ff7b4e2fe0588ae54e8cb10ab6c484",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25672,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Alejandra Avalos",
+      "title": "Niegan muertes por dengue en Sonora; Secretar\u00eda de Salud a\u00fan no confirma defunciones",
+      "description": "La Secretar\u00eda de Salud en Sonora inform\u00f3 que, ante las presuntas muertes por dengue que se han reportado, estas no han sido confirmadas",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/11/niegan-muertes-por-dengue-en-sonora-secretaria-de-salud-aun-no-confirma-defunciones-419178.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/11/f1280x720-477414_609089_5050.png",
+      "publishedAt": "2025-11-11 22:30:00",
+      "content": "Hermosillo, Sonora.- Despu\u00e9s de que en las \u00faltimas semanas se han reportado varias muertes por dengue, la Secretar\u00eda de Salud en Sonora inform\u00f3 que ninguna de estas est\u00e1 confirmada. Y es que ha sido \u2026 [+2092 chars]",
+      "retrievedAt": "2025-11-13 07:07:57.114486",
+      "internal_id": "c401a91d630dbb119fdd144f061a4733c3e0d2e69d1b7e32c9cc987c0983b169",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25675,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Stephen Farrell",
+      "title": "Misconduct proven against doctor who allegedly failed to refer seriously ill boys to A&E",
+      "description": "Teenager later had testicle removed and infant was found to have meningitis, Medical Council hears",
+      "url": "https://www.irishtimes.com/health/2025/11/11/misconduct-proven-against-doctor-who-allegedly-failed-to-refer-seriously-ill-boys-to-ae/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/TAUHZHXAE5BD3G3YTDRDRMZI44.jpg?smart=true&auth=cf3722da72ea5a2817a97b0f33588a950bd5e1c2cb05a7b9cf2ad6c276981549&width=1200&height=630",
+      "publishedAt": "2025-11-11 21:03:30",
+      "content": "A doctor who allegedly failed to refer a teenager with testicular torsion and a three-week-old boy with meningitis to A&amp;E has had findings of professional misconduct and poor performance proven a\u2026 [+4563 chars]",
+      "retrievedAt": "2025-11-13 07:07:57.385271",
+      "internal_id": "9e46fb5234f4efa8cb6550f5696e94c92a1b6ad6f84a48878814bffaa6dab4aa",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Gabriela Navarra Camerucci",
+      "title": "Mujeres en la ciencia: qui\u00e9nes son las argentinas premiadas por sus investigaciones para salvar cultivos y frenar el dengue",
+      "description": "Gabriela Pagnussat y Mehrnoosh Arrar, ambas del staff del Conicet, acaban de recibir el reconocimiento entregado por L\u2019Or\u00e9al-Unesco",
+      "url": "https://www.lanacion.com.ar/sociedad/mujeres-en-la-ciencia-quienes-son-las-argentinas-premiadas-por-sus-investigaciones-para-salvar-nid11112025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mehrnoosh-arrar-y-gabriela-Z3QNHUUZHJGSXFDA3PUZLAVVUQ.jpg?auth=79de7148a5b48618c105baf42aadeccb9f5d6e0ec49a79139d731094f6323473&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-11-11 20:59:00",
+      "content": "Mientras cursaba la licenciatura en ciencias biol\u00f3gicas, a Gabriela Pagnussat le costaba trabajar con los animales de laboratorio que se utilizan en los experimentos. Aunque reconoce que es esto un p\u2026 [+8365 chars]",
+      "retrievedAt": "2025-11-13 07:07:57.124588",
+      "internal_id": "db5f5226f3826c83dab0946909149b3c219846cfecf6eec07d69d702c3ca044b",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25668,
+      "query": [
+        "measles"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Canadian Press",
+      "title": "How Canada can regain its measles elimination status",
+      "description": "TORONTO \u2014 Infectious disease experts say Canada\u2019s loss of measles elimination status shows how badly investment is needed in public health, rebuilding vaccine confidence and solving the primary care crisis. On Monday, the Pan American Health Organization (PAH\u2026",
+      "url": "https://financialpost.com/pmn/how-canada-can-regain-its-measles-elimination-status",
+      "urlToImage": null,
+      "publishedAt": "2025-11-11 20:21:39",
+      "content": "TORONTO Infectious disease experts say Canadas loss of measles elimination status shows how badly investment is needed in public health, rebuilding vaccine confidence and solving the primary care cri\u2026 [+5219 chars]",
+      "retrievedAt": "2025-11-13 07:07:55.978862",
+      "internal_id": "6428179970adcc6eb8922d012e9251eede95d5f66f2baf6e8f57d1698cc082dd",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 25669,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Philadelphia Inquirer",
+      "author": "Aubrey Whelan",
+      "title": "Philadelphia health officials urge vaccination after a measles exposure at the airport",
+      "description": "People who were in Terminals A and B on Sunday between 8:50 a.m. and 4 p.m. could have been exposed to the highly contagious virus, health officials say.",
+      "url": "https://www.inquirer.com/health/philadelphia-airport-measles-exposure-20251111.html",
+      "urlToImage": "https://www.inquirer.com/resizer/v2/QNABMRZO5NELDARI36BIMZZ6AE.jpg?auth=fcd7b752dd91008e13cc5e34604e6cc3c6104c4fc9a7db0242e19b564eb82b5f&width=760&height=507&smart=true",
+      "publishedAt": "2025-11-11 19:32:16",
+      "content": "A person with measles traveled through Philadelphia International Airport on Sunday, and city health officials are warning people who were in the area to monitor themselves for symptoms. People who \u2026 [+2825 chars]",
+      "retrievedAt": "2025-11-13 07:07:56.142859",
+      "internal_id": "d75cab78fb9a87a20efd8955411055444968f7dc4045d2a680da7a3560e1100e",
+      "publishedAtLabel": "Nov 11"
+    },
     {
       "id": 25663,
       "query": [
@@ -15489,6 +15669,60 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
+      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
+      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
+      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
+      "publishedAt": "2025-09-28 14:21:23",
+      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
+      "retrievedAt": "2025-09-29 19:06:14.197762",
+      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24809,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "David Njaaga",
+      "title": "Kenya seeks global backing for rabies elimination plan",
+      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
+      "publishedAt": "2025-09-28 14:15:53",
+      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.536817",
+      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24808,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Trending Desk",
+      "title": "About 1,000 Pakistanis die annually from rabies: Report",
+      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-28 10:20:40",
+      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.484815",
+      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]

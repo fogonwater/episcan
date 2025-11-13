@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-11-12 19:06
-- **Most recent article:** 2025-11-11 19:04:31
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-11-13 07:07
+- **Most recent article:** 2025-11-12 06:05:14
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 39 | 215 |
-| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 11 | 163 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 8 | 132 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 5 | 111 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 42 | 218 |
+| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 14 | 167 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 9 | 133 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 6 | 112 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 4 | 99 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
-| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 3 | 34 |
+| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 3 | 36 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
-| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 3 | 25 |
+| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 4 | 26 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
+| leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 1 | 13 |
 | hpai | 2 | 1 | 0 | 4 | 2 | 1 | 2 | 12 |
-| leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 0 | 12 |
 | yersinia | 0 | 0 | 2 | 1 | 1 | 4 | 0 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 2 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (meningitis)
 
+- [Misconduct proven against doctor who allegedly failed to refer seriously ill boys to A&E](https://www.irishtimes.com/health/2025/11/11/misconduct-proven-against-doctor-who-allegedly-failed-to-refer-seriously-ill-boys-to-ae/) (The Irish Times)
+
 - [GP guilty of professional misconduct after failing to spot meningitis in baby](https://www.independent.ie/irish-news/gp-guilty-of-professional-misconduct-after-failing-to-spot-meningitis-in-baby/a1903533478.html) (Independent.ie)
 
 - [Doctor failed to refer infant later diagnosed with viral meningitis to emergency department, inquiry hears](https://www.irishtimes.com/health/2025/11/10/doctor-failed-to-refer-infant-later-diagnosed-with-viral-meningitis-to-emergency-department/) (The Irish Times)
@@ -60,6 +62,12 @@ Source: [News API](https://newsapi.org/)
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [Canada loses measles elimination status. Health officials say US could be next](https://www.clickondetroit.com/news/local/2025/11/11/canada-loses-measles-elimination-status-health-officials-say-us-could-be-next/) (WDIV ClickOnDetroit)
+
+- [How Canada can regain its measles elimination status](https://financialpost.com/pmn/how-canada-can-regain-its-measles-elimination-status) (Financial Post)
+
+- [Philadelphia health officials urge vaccination after a measles exposure at the airport](https://www.inquirer.com/health/philadelphia-airport-measles-exposure-20251111.html) (The Philadelphia Inquirer)
 
 - [Health officials warn of possible measles exposure at Philadelphia International Airport](https://6abc.com/post/health-officials-warn-possible-measles-exposure-philadelphia-international-airport/18143815/) (WPVI-TV)
 
@@ -141,6 +149,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (malaria)
 
+- [First new type of malaria treatment in decades shows promise against drug resistance](https://www.nature.com/articles/d41586-025-03690-5) (Nature.com)
+
 - [Lotta contro hiv, malaria, tubercolosi, "Italia rinnovi sostegno a Fondo Globale"](https://www.ansa.it/sito/videogallery/italia/2025/11/11/lotta-contro-hiv-malaria-tubercolosi-italia-rinnovi-sostegno-a-fondo-globale_5b58f4a7-3520-4746-adea-f73cb89fb4bd.html) (ANSA.it)
 
 - [UK pledges 850 million pounds for global disease fight](https://www.thestar.com.my/news/world/2025/11/11/uk-pledges-850-million-pounds-for-global-disease-fight) (The Star Online)
@@ -151,6 +161,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
 
+## 25-46 (leptospirosis)
+
+- [CEBU PROVINCE NAGPADAYON SA PAG APOD-APOD SA MGA TAMBAL UG GAMIT PARA-MEDIKAL](https://rpnradio.com/cebu-province-nagpadayon-sa-pag-apod-apod-sa-mga-tambal-ug-gamit-para-medikal/) (Rpnradio.com)
+
 ## 25-46 (hpai)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
@@ -158,6 +172,8 @@ Source: [News API](https://newsapi.org/)
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
+
+- [Ecology and spread of the North American H5N1 epizootic](https://www.nature.com/articles/s41586-025-09737-x) (Nature.com)
 
 - [Kvůli ptačí chřipce přijde farma z Třebíčska o 20 tisíc kachen. Pravidla jsme neporušili, brání se majitel](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-kvuli-ptaci-chripce-prijde-farma-z-trebicska-o-20-tisic-kachen-pravidla-jsme-neporusili-brani-se-majitel-40548378) (Novinky.cz)
 
@@ -176,6 +192,12 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Keeping yellow fever out of S’pore is one top priority for new Communicable Diseases Agency](https://www.straitstimes.com/singapore/health/keeping-yellow-fever-out-of-spore-is-one-top-priority-for-new-communicable-diseases-agency) (The Straits Times)
+
+- [Niegan muertes por dengue en Sonora; Secretaría de Salud aún no confirma defunciones](https://www.tribuna.com.mx/sonora/2025/11/11/niegan-muertes-por-dengue-en-sonora-secretaria-de-salud-aun-no-confirma-defunciones-419178.html) (Tribuna.com.mx)
+
+- [Mujeres en la ciencia: quiénes son las argentinas premiadas por sus investigaciones para salvar cultivos y frenar el dengue](https://www.lanacion.com.ar/sociedad/mujeres-en-la-ciencia-quienes-son-las-argentinas-premiadas-por-sus-investigaciones-para-salvar-nid11112025/) (La Nacion)
 
 - [Dengue virus NS1 protein does not activate TLR4 and has a modest effect on endothelial monolayer integrity compared to TNF](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013695) (Plos.org)
 
@@ -1785,6 +1807,10 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
+- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
+
+- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
+
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -1996,6 +2022,8 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
+
+- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
