@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-11-14 07:07
-- **Most recent article:** 2025-11-13 07:00:00
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-11-14 19:06
+- **Most recent article:** 2025-11-13 18:30:19
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 51 | 227 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 16 | 169 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 17 | 141 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 14 | 120 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 52 | 228 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 17 | 169 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 20 | 144 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 18 | 124 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 4 | 99 |
-| mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 3 | 36 |
+| mpox | 1 | 10 | 11 | 8 | 20 | 5 | 5 | 60 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 3 | 34 |
+| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 8 | 30 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
-| meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 5 | 27 |
+| hpai | 2 | 1 | 0 | 4 | 2 | 1 | 4 | 14 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
 | leptospirosis | 5 | 1 | 4 | 0 | 1 | 1 | 1 | 13 |
-| hpai | 2 | 1 | 0 | 4 | 2 | 1 | 2 | 12 |
+| pertussis | 1 | 2 | 0 | 1 | 1 | 2 | 1 | 8 |
 | yersinia | 0 | 0 | 2 | 1 | 1 | 4 | 0 | 8 |
-| pertussis | 1 | 2 | 0 | 1 | 1 | 2 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
 
 
@@ -47,11 +47,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Health experts push for integrated health action](https://www.standardmedia.co.ke/health/health-science/article/2001533866/health-experts-push-for-integrated-health-action) (Standard Digital)
 
+## 25-46 (pertussis)
+
+- [Today's news and jokes](https://www.superpunch.net/2025/11/todays-news-and-jokes_01956436127.html) (Superpunch.net)
+
 ## 25-46 (mpox)
+
+- [UE faz compra de mais de oito milhões de vacinas contra mpox](https://observador.pt/2025/11/13/ue-faz-compra-conjunta-de-mais-de-oito-milhoes-de-vacinas-contra-mpox-e-varicela/) (Observador.pt)
+
+- [Novo surto de mpox e casos de hepatite A identificados na região de Lisboa](https://expresso.pt/sociedade/saude/2025-11-13-novo-surto-de-mpox-e-casos-de-hepatite-a-identificados-na-regiao-de-lisboa-d70778df) (Expresso.pt)
+
+- [Sverige med i EU-avtal för vaccin mot Mpox](https://www.aftonbladet.se/nyheter/a/alr9p7/sverige-med-i-eu-avtal-for-vaccin-mot-mpox) (Aftonbladet.se)
+
+- [Identificado novo surto de mpox em Lisboa](https://observador.pt/2025/11/13/identificado-novo-surto-de-mpox-em-lisboa-dgs-ja-tinha-confirmado-aumento-de-casos/) (Observador.pt)
 
 - [MOH urges preventive measures against Mpox](https://www.omanobserver.om/article/1179460/oman/health/moh-urges-preventive-measures-against-mpox) (Omanobserver.om)
 
 ## 25-46 (meningitis)
+
+- [The metabolic, microbial and immunological demands of pneumococcal colonisation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013675) (Plos.org)
+
+- [Kinderpolio opgemerkt in rioolwaterstaal nabij Hamburg](https://www.nieuwsblad.be/buitenland/kinderpolio-opgemerkt-in-rioolwaterstaal-nabij-hamburg/104774643.html) (Nieuwsblad.be)
+
+- [Corte ordena vacunar a recién nacido tras rechazo de su madre a que fuera inoculado contra la meningitis y la hepatitis](https://www.cnnchile.com/pais/corte-ordena-vacunar-a-recien-nacido-tras-rechazo-de-su-madre-a-que-fuera-inoculado-contra-la-meningitis-y-la-hepatitis_20251113/) (Cnnchile.com)
 
 - [Corte de La Serena ordena inoculación de recién nacido al que su madre le negó vacunas contra la hepatitis y meningitis](https://www.latercera.com/nacional/noticia/corte-de-la-serena-ordena-inoculacion-de-recien-nacido-al-que-su-madre-le-nego-vacunas-contra-la-hepatitis-y-meningitis/) (Latercera.com)
 
@@ -64,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [World News in Brief: Gaza latest, Americas loses measles-free status, tornado recovery in Brazil](https://www.globalsecurity.org/military/library/news/2025/11/mil-251112-unnews03.htm) (Globalsecurity.org)
 
 - [RFK Jr.’s FDA Is Now Also In Turmoil Over Corrupt Drug Regulator](https://www.techdirt.com/2025/11/12/rfk-jr-s-fda-is-now-also-in-turmoil-over-corrupt-drug-regulator/) (Techdirt)
 
@@ -169,6 +189,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (malaria)
 
+- [Team cracks mystery of malaria’s ‘dancing’ crystals](https://www.futurity.org/malaria-spinning-iron-crystals-3305132-2/) (Futurity: Research News)
+
+- [Want to eradicate malaria-bearing mosquitoes? Try fungus, this researcher says](https://phys.org/news/2025-11-eradicate-malaria-mosquitoes-fungus.html) (Phys.Org)
+
+- [Mass spectrometry-based metabolomics uncovers distinct metabolic signatures and potential therapeutic targets in Plasmodium knowlesi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337058) (Plos.org)
+
+- [Daily briefing: Greenhouse-gas emissions should peak by 2030, say researchers](https://www.nature.com/articles/d41586-025-03765-3) (Nature.com)
+
 - [2 new malaria treatments announced as drug resistance grows](https://www.bostonherald.com/2025/11/12/new-malaria-treatments/) (Boston Herald)
 
 - [2 new malaria treatments announced as drug resistance grows](https://abcnews.go.com/Business/wireStory/2-new-malaria-treatments-announced-drug-resistance-grows-127467674) (ABC News)
@@ -203,11 +231,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (hpai)
 
+- [Mice Test Positive For Bird Flu](https://www.shtfplan.com/headline-news/mice-test-positive-for-bird-flu) (Shtfplan.com)
+
+- [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
+
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
 
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
+
+- [Další ohnisko ptačí chřipky. Testy potvrdily nákazu v chovu kachen na Nymbursku](https://www.idnes.cz/praha/zpravy/ptaci-chripka-ohnisko-nymburk-nouzov-komercni-chov-kachny.A251113_174108_praha-zpravy_syko) (Idnes.cz)
+
+- [Así evoluciona la expansión de la gripe aviar que ha obligado a confinar las granjas de aves en toda España](https://www.eldiario.es/sociedad/evoluciona-expansion-gripe-aviar-obligado-confinar-granjas-aves-espana_1_12765698.html) (Eldiario.es)
+
+- [Ohnisko ptačí chřipky u Lanškrouna pomáhá likvidovat také dvacet vězňů](https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-ohnisko-ptaci-chripky-u-lanskrouna-pomaha-likvidovat-take-dvacet-veznu-40548607) (Novinky.cz)
 
 - [Vogelgrippe: Deutschlands Flickenteppich im Seuchenschutz](https://www.telepolis.de/article/Vogelgrippe-Deutschlands-Flickenteppich-im-Seuchenschutz-11073757.html) (Telepolis.de)
 
@@ -244,6 +282,8 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Brasil pode ter 1,8 milhão de novos casos de dengue em 2026](https://saude.ig.com.br/2025-11-13/brasil-pode-ter-1-8-milhao-casos-dengue-2026.html) (Ig.com.br)
 
 - [Structure guided design and molecular modelling of a novel peptide–SWCNT biosensor targeting NS1 dengue virus](https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra04799d) (Royal Society of Chemistry)
 
@@ -1863,10 +1903,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -2078,8 +2114,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
