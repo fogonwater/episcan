@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-11-13 19:06
-- **Most recent article:** 2025-11-12 16:52:09
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-11-14 07:07
+- **Most recent article:** 2025-11-13 07:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 46 | 222 |
-| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 15 | 167 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 15 | 139 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 9 | 115 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 51 | 227 |
+| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 16 | 169 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 17 | 141 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 14 | 120 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 4 | 99 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 1 | 56 |
-| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 3 | 34 |
+| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 3 | 36 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 0 | 30 |
 | meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 5 | 27 |
 | typhoid | 0 | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
@@ -64,6 +64,16 @@ Source: [News API](https://newsapi.org/)
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [RFK Jr.’s FDA Is Now Also In Turmoil Over Corrupt Drug Regulator](https://www.techdirt.com/2025/11/12/rfk-jr-s-fda-is-now-also-in-turmoil-over-corrupt-drug-regulator/) (Techdirt)
+
+- [Queensland Health warns of possible measles outbreak after infectious fans attend Jelly Roll concert in Brisbane](https://7news.com.au/news/queensland-health-warns-of-possible-measles-outbreak-after-infectious-fans-attend-jelly-roll-concert-in-brisbane-c-20664055) (7NEWS.com.au)
+
+- [Contact tracing underway as Jelly Roll concertgoers linked to measles outbreak](https://www.abc.net.au/news/2025-11-13/qld-measles-cases-contact-tracing-underway-brisbane-outbreak/106003732) (ABC News (AU))
+
+- [Measles case confirmed in southwestern Colorado, possible exposures in Cortez, Mancos](https://www.denverpost.com/2025/11/12/measles-colorado-cortez-mancos/) (The Denver Post)
+
+- [Queensland measles: Brisbane and Gold Coast on high alert after cases detected at Jelly Roll concert, Sea World](https://www.9news.com.au/health/measles-brisbane-gold-coast-queensland-jelly-roll-sea-world-health/fc31c13b-ae1a-4d5e-9f89-33a6f10acc8b) (9News)
 
 - [Jack Schlossberg, JFK’s grandson and social media influencer, to run for Congress in key Manhattan district](https://fortune.com/2025/11/12/jack-schlossberg-jfk-grandson-kennedy-manhattan-congress-democrat/) (Fortune)
 
@@ -159,6 +169,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (malaria)
 
+- [2 new malaria treatments announced as drug resistance grows](https://www.bostonherald.com/2025/11/12/new-malaria-treatments/) (Boston Herald)
+
+- [2 new malaria treatments announced as drug resistance grows](https://abcnews.go.com/Business/wireStory/2-new-malaria-treatments-announced-drug-resistance-grows-127467674) (ABC News)
+
+- [On the Gates climate memo](https://skepticalscience.com/gates-climate-memo.html) (Skepticalscience.com)
+
+- [Novartis Phase III trial for next-generation malaria treatment KLU156 (GanLum) meets primary endpoint, with potential to combat antimalarial resistance](https://www.globenewswire.com/news-release/2025/11/12/3186868/0/en/Novartis-Phase-III-trial-for-next-generation-malaria-treatment-KLU156-GanLum-meets-primary-endpoint-with-potential-to-combat-antimalarial-resistance.html) (GlobeNewswire)
+
+- [New malaria drug could be a life-saver as the standard drug shows signs of weakness](https://www.npr.org/sections/goats-and-soda/2025/11/12/g-s1-97487/malaria-drug-new) (NPR)
+
 - [gnuhealth-mdg6 5.0.1](https://pypi.org/project/gnuhealth-mdg6/5.0.1/) (Pypi.org)
 
 - [snt-malaria-budgeting 0.4.1](https://pypi.org/project/snt-malaria-budgeting/0.4.1/) (Pypi.org)
@@ -188,6 +208,10 @@ Source: [News API](https://newsapi.org/)
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
+
+- [Vogelgrippe: Deutschlands Flickenteppich im Seuchenschutz](https://www.telepolis.de/article/Vogelgrippe-Deutschlands-Flickenteppich-im-Seuchenschutz-11073757.html) (Telepolis.de)
+
+- [Lo que sabemos sobre la gripe aviar H5N1 en España: qué ha cambiado en las últimas semanas y qué riesgo corremos](https://www.eldiario.es/sociedad/gripe-aviar-h5n1-espana-cambiado-ultimas-semanas-riesgo-corremos_1_12762248.html) (Eldiario.es)
 
 - [Járvány Szentesen, több mint negyvenezer hízópulykát mészárolnak le](https://index.hu/belfold/2025/11/12/csongrad-csanad-varmegye-szentes-madarinfluenza-jarvany-nebih-hizopulyka/) (Index.hu)
 
@@ -220,6 +244,8 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Structure guided design and molecular modelling of a novel peptide–SWCNT biosensor targeting NS1 dengue virus](https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra04799d) (Royal Society of Chemistry)
 
 - [Cuba califica de "epidemia" el brote nacional de casos de chikunguña, dengue y oropouche](https://www.meneame.net/m/actualidad/cuba-califica-epidemia-brote-nacional-casos-chikunguna-dengue) (Meneame.net)
 
@@ -1837,6 +1863,10 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
+- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
+
+- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
+
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -2048,6 +2078,8 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
+
+- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
