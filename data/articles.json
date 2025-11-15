@@ -1,8 +1,81 @@
 {
-  "last_updated": "2025-11-14 19:06",
-  "count_articles_total": 914,
-  "count_articles_new": 19,
+  "last_updated": "2025-11-15 07:06",
+  "count_articles_total": 922,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25729,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": null,
+      "title": "Salg af mpox-vaccine f\u00e5r Bavarian Nordics salg til at vokse",
+      "description": "I tredje kvartal omsatte Bavarian Nordic for 1,8 milliarder kroner, hvilket er en stigning p\u00e5 32 procent.",
+      "url": "https://www.bt.dk/erhverv/salg-af-mpox-vaccine-faar-bavarian-nordics-salg-til-at-vokse",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2025-11-14 06:54:50",
+      "content": "Det danske vaccineselskab Bavarian Nordic omsatte for 1,8 milliard kroner i sit tredje kvartal. Det viser regnskabet, som det har offentliggjort fredag morgen. Oms\u00e6tningen ligger 32 procent h\u00f8jere \u2026 [+1032 chars]",
+      "retrievedAt": "2025-11-15 07:06:47.677782",
+      "internal_id": "d2245cdb3ddf72a2643d4b2949661fa3a809f2037fb42e2339def9087c9ba2ae",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 25728,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Arbovirosis, la epidemia que azota Cuba y avanza sin control: \u00abSe est\u00e1 enterrando gente de noche, como en la pandemia\u00bb",
+      "description": "Las condiciones insalubres de vida de la poblaci\u00f3n han provocado una explosi\u00f3n de dengue, chikungu\u00f1a, oropuche y zika en un contexto en el que no hay ning\u00fan tipo de medicamento",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2025/11/13/cuba-azotada-epidema-virus-avanza-control/00031763038010971184545.htm",
+      "urlToImage": "https://img.lavdg.com/sc/xqHF9FazeL8C5Y_hw2qirzWjb6c=/1280x/2025/11/13/00121763043901409474511/Foto/efe_20250719_145003285.jpg",
+      "publishedAt": "2025-11-14 04:00:00",
+      "content": "Cuba, que durante d\u00e9cadas mostr\u00f3 la sanidad como la joya de su sistema, atraviesa una de las peores crisis sanitarias de su historia. A las carencias acumuladas y al paso del hurac\u00e1n Melissa, que hiz\u2026 [+4701 chars]",
+      "retrievedAt": "2025-11-15 07:06:46.584764",
+      "internal_id": "84c1e8ece97fc937eae1cbbf70dc02b28f02adb72fe7221d2591cb86f8e6f2fb",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 25727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Omar Rodr\u00edguez y Jorge Salazar",
+      "title": "Ciudad Obreg\u00f3n: Padres y escuela financian fumigaci\u00f3n tras casos de dengue por falta de respuesta oficial",
+      "description": "Ante la presencia de varios casos de dengue y la demora de autoridades, directivos y padres realizaron fumigaci\u00f3n particular para proteger a los estudiantes",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/13/ciudad-obregon-padres-escuela-financian-fumigacion-tras-casos-de-dengue-por-falta-de-respuesta-oficial-419425.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/13/f1280x720-477758_609433_5050.jpg",
+      "publishedAt": "2025-11-14 02:30:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- Luego de no encontrar eco por parte de las autoridades correspondientes a la solicitud de fumigaci\u00f3n a la Escuela Secundaria N\u00famero 4 'Jos\u00e9 L. Guerra', la direcci\u00f3n del plant\u2026 [+2054 chars]",
+      "retrievedAt": "2025-11-15 07:06:46.540162",
+      "internal_id": "f54c120137c035109d7bbd7c811a55d89390e7cfa6f2a802379caafdd1c323c7",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 25725,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Surge in whooping cough cases in southern state prompts health alerts",
+      "description": "Texas reports nearly quadruple the whooping cough cases than last year, with over 3,500 infections. Health officials urge vaccination as pertussis spreads statewide.",
+      "url": "https://www.foxnews.com/health/surge-whooping-cough-cases-southern-state-prompts-health-alerts",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/whooping-cough-texas.jpg",
+      "publishedAt": "2025-11-13 19:11:17",
+      "content": "Texas health officials are sounding the alarm on a surge of a common childhood illness. The Texas Department of State Health Services (DHSH) revealed this week that there are nearly four times the n\u2026 [+2639 chars]",
+      "retrievedAt": "2025-11-15 07:06:45.139302",
+      "internal_id": "6e5844d5585daf47c0c1f8bd5dae8de6377e764ac03873ce586f414c0ee8eb65",
+      "publishedAtLabel": "Nov 13"
+    },
     {
       "id": 25708,
       "query": [
@@ -452,6 +525,24 @@
       "retrievedAt": "2025-11-14 19:06:28.156909",
       "internal_id": "d048063d01d7bbb29a83c8cb506f0c6f0262a55f6c7d267c3d5df395516966db",
       "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 25726,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC15 Arizona",
+      "author": "Abc15.com Staff",
+      "title": "Officials warning about measles exposures in Maricopa County and Flagstaff",
+      "description": "Health officials are warning the public about multiple possible measles exposures recently in Maricopa County and in Flagstaff.",
+      "url": "https://www.abc15.com/news/health/health-officials-warning-public-about-measles-exposures-in-maricopa-county-and-flagstaff",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/6c53412/2147483647/strip/true/crop/4222x2217+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc6%2Fe6%2Fa3563e3047b187e5d780bf45f123%2Fap19123675129614.jpg",
+      "publishedAt": "2025-11-12 23:00:36",
+      "content": "PHOENIX Health officials are warning the public about multiple possible measles exposures recently in Maricopa County and in Flagstaff. Maricopa County health officials announced Wednesday that ther\u2026 [+1472 chars]",
+      "retrievedAt": "2025-11-15 07:06:45.834080",
+      "internal_id": "b44b4cb0c8f19d1a0da154e1b644d480f0160b197aa30587d294fc2fb2e70f5b",
+      "publishedAtLabel": "Nov 12"
     },
     {
       "id": 25702,
@@ -16515,6 +16606,60 @@
       "content": "STATE TIMES NEWS JAMMU: The Animal Husbandry Department Jammu marks the World Rabies prevention Day, 2025 on Sunday with a series of events and awareness campaigns organized across all the districts\u2026 [+1732 chars]",
       "retrievedAt": "2025-09-30 07:08:04.713871",
       "internal_id": "b2a9407da0716aa3512f501edeeef2509ed231a5edeaa3b18cea51bb2ef9b584",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Oltre alla guerra civile il Sudan ha un altro problema: le malattie",
+      "description": "Alcune come colera e dengue si stanno diffondendo in modo incontrollato, anche a causa del collasso delle infrastrutture sanitarie",
+      "url": "https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/",
+      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/09/26/1758898933-sudan-dengue.jpg",
+      "publishedAt": "2025-09-28 14:21:23",
+      "content": "In Sudan \u00e8 in corso da oltre due anni una guerra civile che ha provocato una delle pi\u00f9 gravi crisi umanitarie al mondo. Oltre alle violenze e alla fame, il paese sta facendo i conti con un altro gros\u2026 [+3898 chars]",
+      "retrievedAt": "2025-09-29 19:06:14.197762",
+      "internal_id": "fc718c2baa441771b77d83d20c9e9334bcfcc626786f4aba5e3cc2cdec3f4413",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24809,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "David Njaaga",
+      "title": "Kenya seeks global backing for rabies elimination plan",
+      "description": "Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-mediated rabies by 2030.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/yaip3D7onQv8mDWzhY9eSPqywZERGm3rtAEmTftp.jpg",
+      "publishedAt": "2025-09-28 14:15:53",
+      "content": "Kenya urges vaccination and swift treatment after bites. Kenya is seeking international endorsement for its rabies elimination strategy as it joins the global campaign to end human deaths from dog-m\u2026 [+3506 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.536817",
+      "internal_id": "40a98e5983e721c642901382de5e6a1c3642bb60cd4530f114885bb6aa2703f7",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 24808,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Trending Desk",
+      "title": "About 1,000 Pakistanis die annually from rabies: Report",
+      "description": "An estimated 1,000 people, mostly children, die annually from rabies in Pakistan, despite available life-saving treatment. This tragedy is acute in rural communities due to stray dog bites and delayed care. Experts stress rabies is 100% preventable with immed\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-124193671,width-1200,height-630,imgsize-263220,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-09-28 10:20:40",
+      "content": "An estimated 1,000 people, mostly children, die every year from rabies, despite the availability of life-saving treatment, Dawn News reported on Sunday. Mohammad Irfan Habib, Medical Director, ChildL\u2026 [+2182 chars]",
+      "retrievedAt": "2025-09-29 19:06:12.484815",
+      "internal_id": "9adb52320dd557db3ef2a7b07de4747616dc4dfe409764183176ff5dfc211d5f",
       "publishedAtLabel": "Sep 28"
     }
   ]
