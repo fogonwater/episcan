@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-11-15 07:06
-- **Most recent article:** 2025-11-14 06:54:50
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-11-15 19:05
+- **Most recent article:** 2025-11-14 16:19:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-40 | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 31 | 29 | 35 | 25 | 35 | 21 | 53 | 229 |
-| dengue | 32 | 23 | 18 | 14 | 33 | 33 | 19 | 172 |
-| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 20 | 144 |
-| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 18 | 124 |
+| measles | 31 | 29 | 35 | 25 | 35 | 21 | 54 | 230 |
+| dengue | 31 | 23 | 18 | 14 | 33 | 33 | 20 | 172 |
+| h5n1 | 10 | 8 | 8 | 32 | 34 | 32 | 22 | 146 |
+| malaria | 9 | 20 | 24 | 17 | 17 | 19 | 20 | 126 |
 | chikungunya | 24 | 10 | 28 | 11 | 9 | 13 | 4 | 99 |
 | mpox | 1 | 10 | 11 | 8 | 20 | 5 | 6 | 61 |
-| rabies | 10 | 6 | 9 | 3 | 1 | 4 | 3 | 36 |
+| rabies | 8 | 6 | 9 | 3 | 1 | 4 | 4 | 35 |
 | zika | 5 | 7 | 1 | 3 | 5 | 9 | 1 | 31 |
 | meningitis | 7 | 5 | 4 | 1 | 5 | 0 | 8 | 30 |
 | hpai | 2 | 1 | 0 | 4 | 2 | 1 | 4 | 14 |
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [Today in History: November 11, ‘Typhoid Mary’ dies](https://www.denverpost.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/) (The Denver Post)
 
 ## 25-46 (rabies)
+
+- [A Growing Number of People Refuse to Vaccinate Their Pets. They Have a Mind-Boggling Reason Why.](https://slate.com/life/2025/11/animal-pet-autism-vaccine-covid-rfk-jr.html) (Slate Magazine)
 
 - [RTI reveals 18 rabies deaths in Delhi since 2022, contradicting Centre’s ‘zero deaths’ claim](https://economictimes.indiatimes.com/news/india/rti-reveals-18-rabies-deaths-in-delhi-since-2022-contradicting-centres-zero-deaths-claim/articleshow/125243534.cms) (The Times of India)
 
@@ -90,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [Truveta research published in JAMA Network Open shows rapid uptake of early measles vaccination during Texas outbreak](https://www.globenewswire.com/news-release/2025/11/14/3188461/0/en/Truveta-research-published-in-JAMA-Network-Open-shows-rapid-uptake-of-early-measles-vaccination-during-Texas-outbreak.html) (GlobeNewswire)
 
 - [World News in Brief: Gaza latest, Americas loses measles-free status, tornado recovery in Brazil](https://www.globalsecurity.org/military/library/news/2025/11/mil-251112-unnews03.htm) (Globalsecurity.org)
 
@@ -199,6 +203,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (malaria)
 
+- [India Atorvastatin Industry Report 2025: Market Trends, Regional Insights, Competition, Forecast and Opportunities, 2020-2024 & 2025-2030](https://www.globenewswire.com/news-release/2025/11/14/3188404/28124/en/India-Atorvastatin-Industry-Report-2025-Market-Trends-Regional-Insights-Competition-Forecast-and-Opportunities-2020-2024-2025-2030.html) (GlobeNewswire)
+
+- [Field evaluation of ethnomedicinal plants’ smoke knockdown and repellent efficacy against pre-bedtime biting malaria vectors in Mazowe district, Zimbabwe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336943) (Plos.org)
+
 - [Team cracks mystery of malaria’s ‘dancing’ crystals](https://www.futurity.org/malaria-spinning-iron-crystals-3305132-2/) (Futurity: Research News)
 
 - [Want to eradicate malaria-bearing mosquitoes? Try fungus, this researcher says](https://phys.org/news/2025-11-eradicate-malaria-mosquitoes-fungus.html) (Phys.Org)
@@ -251,6 +259,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (h5n1)
 
+- [La gripe aviar fulmina a la mayor población de elefantes marinos del planeta](https://www.meneame.net/m/ciencia/gripe-aviar-fulmina-mayor-poblacion-elefantes-marinos-planeta) (Meneame.net)
+
+- [La gripe aviar agrava la crisis de precios del huevo, que acumula un alza del 22% en un año](https://www.abc.es/economia/gripe-aviar-agrava-crisis-precios-huevo-acumula-20251114132031-nt.html) (Www.abc.es)
+
 - [Další ohnisko ptačí chřipky. Testy potvrdily nákazu v chovu kachen na Nymbursku](https://www.idnes.cz/praha/zpravy/ptaci-chripka-ohnisko-nymburk-nouzov-komercni-chov-kachny.A251113_174108_praha-zpravy_syko) (Idnes.cz)
 
 - [Así evoluciona la expansión de la gripe aviar que ha obligado a confinar las granjas de aves en toda España](https://www.eldiario.es/sociedad/evoluciona-expansion-gripe-aviar-obligado-confinar-granjas-aves-espana_1_12765698.html) (Eldiario.es)
@@ -292,6 +304,8 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [Dengue Fever Global Clinical Trials Market Review 2025 | Now Available](https://www.globenewswire.com/news-release/2025/11/14/3188132/28124/en/Dengue-Fever-Global-Clinical-Trials-Market-Review-2025-Now-Available.html) (GlobeNewswire)
 
 - [Arbovirosis, la epidemia que azota Cuba y avanza sin control: «Se está enterrando gente de noche, como en la pandemia»](https://www.lavozdegalicia.es/noticia/sociedad/2025/11/13/cuba-azotada-epidema-virus-avanza-control/00031763038010971184545.htm) (Lavozdegalicia.es)
 
@@ -1917,10 +1931,6 @@ Source: [News API](https://newsapi.org/)
 
 - [AHD Jammu organises dog vaccination camp](https://statetimes.in/ahd-jammu-organises-dog-vaccination-camp/) (Statetimes.in)
 
-- [Kenya seeks global backing for rabies elimination plan](https://www.standardmedia.co.ke/health/health-science/article/2001530582/kenya-seeks-global-backing-for-rabies-elimination-plan) (Standard Digital)
-
-- [About 1,000 Pakistanis die annually from rabies: Report](https://economictimes.indiatimes.com/news/new-updates/about-1000-pakistanis-die-annually-from-rabies-report/articleshow/124193668.cms) (The Times of India)
-
 ## 25-40 (pertussis)
 
 - [Cutting NIH Support of FlyBase Threatens Preclinical – and Ultimately Clinical – Research](https://dnascience.plos.org/2025/10/02/cutting-nih-support-of-flybase-threatens-preclinical-and-ultimately-clinical-research/) (Plos.org)
@@ -2132,8 +2142,6 @@ Source: [News API](https://newsapi.org/)
 - [Plané neštovice, dengue či opary - onemocnění, která ohrožují zdraví i životy](https://www.novinky.cz/clanek/zdravi-plane-nestovice-dengue-ci-opary-onemocneni-ktera-ohrozuji-zdravi-i-zivoty-40539510) (Novinky.cz)
 
 - [Bacolod: Bacolod logs 6 dengue deaths, but cases declining](https://rpnradio.com/bacolod-bacolod-logs-6-dengue-deaths-but-cases-declining/) (Rpnradio.com)
-
-- [Oltre alla guerra civile il Sudan ha un altro problema: le malattie](https://www.ilpost.it/2025/09/28/sudan-guerra-colera-dengue/) (Ilpost.it)
 
 ## 25-40 (chikungunya)
 
