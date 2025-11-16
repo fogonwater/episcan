@@ -1,8 +1,135 @@
 {
-  "last_updated": "2025-11-16 07:07",
-  "count_articles_total": 810,
-  "count_articles_new": 8,
+  "last_updated": "2025-11-16 19:05",
+  "count_articles_total": 813,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 25750,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "M\u00e4rkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg",
+      "description": "In Brandenburg ist es erneut zu einem Ausbruch der Vogelgrippe in einer Gefl\u00fcgelhaltung gekommen. Diesmal sind rund 15.000 Enten betroffen \u2013 das Virus H5N1 wurde amtlich best\u00e4tigt.",
+      "url": "https://www.tagesspiegel.de/potsdam/brandenburg/markisch-oderland-weiterer-ausbruch-von-vogelgrippe-in-brandenburg-14851724.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14851721/alternates/BASE_16_9_W1400/1763229941000/schild-geflugelpest.jpeg",
+      "publishedAt": "2025-11-15 18:05:41",
+      "content": "In einem weiteren Entenbestand im Landkreis M\u00e4rkisch-Oderland ist die Vogelgrippe ausgebrochen. In dem Betrieb mit rund 15.000 Tieren sei das Virus H5N1 amtlich best\u00e4tigt worden, wie das Verbrauchers\u2026 [+1718 chars]",
+      "retrievedAt": "2025-11-16 19:05:39.658641",
+      "internal_id": "b824a4e0f0c0ab35269c8e8c9520e2e2b4cd280d86eeef721fc4809906dc0064",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25748,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "M\u00e4rkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eM\u00e4rkisch-Oderland\u201c. Lesen Sie jetzt \u201eWeiterer Ausbruch von Vogelgrippe in Brandenburg\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/15/weiterer-ausbruch-von-vogelgrippe-in-brandenburg",
+      "urlToImage": "https://img.zeit.de/news/2025-11/15/weiterer-ausbruch-von-vogelgrippe-in-brandenburg-image-group/wide__1300x731",
+      "publishedAt": "2025-11-15 18:04:27",
+      "content": "In einem weiteren Entenbestand im Landkreis M\u00e4rkisch-Oderland ist die Vogelgrippe ausgebrochen. In dem Betrieb mit rund 15.000 Tieren sei das Virus H5N1 amtlich best\u00e4tigt worden, wie das Verbrauchers\u2026 [+1377 chars]",
+      "retrievedAt": "2025-11-16 19:05:39.615201",
+      "internal_id": "3f6aeff155c0f46247c45724ef38eb786997b2fc3ced2ad8265dee148c9dfb77",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25749,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "M\u00e4rkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg",
+      "description": "In Brandenburg ist es erneut zu einem Ausbruch der Vogelgrippe in einer Gefl\u00fcgelhaltung gekommen. Diesmal sind rund 15.000 Enten betroffen \u2013 das Virus H5N1 wurde amtlich best\u00e4tigt.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/maerkisch-oderland--weiterer-ausbruch-von-vogelgrippe-in-brandenburg-36551564.html",
+      "urlToImage": "https://image.stern.de/36551566/t/8q/v1/w1440/r1.7778/-/15--odalsxvszvv10axs2048jpeg---84fdf9a6893963a1.jpg",
+      "publishedAt": "2025-11-15 18:04:27",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen In Brandenburg ist es erneut zu einem Ausbruch der Vogelgrippe in einer Gefl\u00fcgelhaltung gekommen. Diesmal sind rund 15.000 Enten betroffen das Vi\u2026 [+1572 chars]",
+      "retrievedAt": "2025-11-16 19:05:39.632937",
+      "internal_id": "79827a448f31961f9c1d817ec0b94860a00c1cfb93cec1a23ebd1775ea7a6cad",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25746,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Colombiaone.com",
+      "author": "Natalia Falah",
+      "title": "Americas Lose Measles-Free Status: Health Leaders Warn of Rising Regional Threat as Cases Surge",
+      "description": "The Americas have lost their measles-free status as cases surge in Canada, the US and Mexico. Health authorities urge for vaccination.",
+      "url": "https://colombiaone.com/2025/11/15/americas-measles-free-status-rising-regional-threat-cases-surge/",
+      "urlToImage": "https://colombiaone.com/wp-content/uploads/2025/11/Measles-Wikipedia-Public-Domain-scaled.jpeg",
+      "publishedAt": "2025-11-15 17:17:37",
+      "content": "The Americas lose their measles-free status as cases surge across the region, raising urgent calls for stronger vaccionation efforts. Credit: Measles / Wikipedia / Public Domain The Pan American He\u2026 [+7042 chars]",
+      "retrievedAt": "2025-11-16 19:05:39.028988",
+      "internal_id": "ccaaad281350f2dbfb7cea6273f681172dc25a9fbfad3eb1f192e5dba8a81b8e",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25747,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "USA: Nytt fugleinfluensavirus p\u00e5vist hos menneske for f\u00f8rste gang",
+      "description": "En eldre person i USA er smittet av fugleinfluensaviruset H5N5, if\u00f8lge helsemyndighetene i delstaten Washington. Viruset er ikke tidligere p\u00e5vist hos mennesker. H5N5 er en subtype av h\u00f8ypatogen (sterkt sykdomsfremkallende) fugleinfluensa (HPAI). Det har tidli\u2026",
+      "url": "https://www.nrk.no/nyheter/usa_-nytt-fugleinfluensavirus-pavist-hos-menneske-for-forste-gang-1.17654300",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.523/common/img/default.jpg",
+      "publishedAt": "2025-11-15 12:07:47",
+      "content": "En eldre person i USA er smittet av fugleinfluensaviruset H5N5, if\u00f8lge helsemyndighetene i delstaten Washington. Viruset er ikke tidligere p\u00e5vist hos mennesker. H5N5 er en subtype av h\u00f8ypatogen (ste\u2026 [+627 chars]",
+      "retrievedAt": "2025-11-16 19:05:39.353002",
+      "internal_id": "a62f93943fa08af34c0e813f00db4fefeb45cce2d3a68116be4bbf4488ae8b2f",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25751,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Erin Douglas",
+      "title": "An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains",
+      "description": "The Aedes aegypti mosquito that can carry dengue, yellow fever, and Zika was thought to be too reliant on a hot and wet climate to survive in the Mountain West. But now, a population is thriving in Western Colorado.",
+      "url": "https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/",
+      "urlToImage": "https://media.wired.com/photos/69175b626ac002ea9e219544/191:100/w_1280,c_limit/IC-Point-Mosquito-cropped-in.jpg",
+      "publishedAt": "2025-11-15 12:00:00",
+      "content": "This story originally appeared on Inside Climate News and is part of the Climate Desk collaboration. It can carry life-threatening diseases. Its difficult to find and hard to kill. And its obsessed \u2026 [+1746 chars]",
+      "retrievedAt": "2025-11-16 19:05:40.236093",
+      "internal_id": "c452b2943730065bf79a426851d72ad374ca55dc157159b61a484a89ae8d5e8c",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25745,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Canada lost its measles elimination status, but N.L. still eight years without new case",
+      "description": "Canada lost its measles elimination status earlier this week, but Newfoundland and Labrador chief medical officer Dr. Janice Fitzgerald says the province remains heavily protected from an outbreak of cases.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-measles-elimination-status-9.6978445",
+      "urlToImage": "https://i.cbc.ca/ais/3385740c-4042-47c8-8755-b7c5aca16e73,1762820791327/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-11-15 09:30:00",
+      "content": "Canada lost its measles elimination status earlier this week, but Newfoundland and Labrador chief medical officer Dr. Janice Fitzgerald says the province remains heavily protected from an outbreak of\u2026 [+2599 chars]",
+      "retrievedAt": "2025-11-16 19:05:38.969985",
+      "internal_id": "22130829b38d02f003da32536a5030dbfbf96941610ef97cc71b720741739636",
+      "publishedAtLabel": "Nov 15"
+    },
     {
       "id": 25741,
       "query": [
@@ -14560,78 +14687,6 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24936,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WHIO",
-      "author": "Whio Staff",
-      "title": "Health officials investigating measles exposure in Ohio",
-      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
-      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
-      "publishedAt": "2025-10-05 18:00:40",
-      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.988882",
-      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24935,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
-      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
-      "url": "https://www.memeorandum.com/251005/p26",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
-      "publishedAt": "2025-10-05 15:00:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.915536",
-      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24937,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'My daughter went to bed with a headache and never woke up'",
-      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
-      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
-      "publishedAt": "2025-10-05 12:58:15",
-      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
-      "retrievedAt": "2025-10-06 19:06:03.254624",
-      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24939,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Haiti battles rabies with vaccines and vigilance",
-      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
-      "url": "https://news.un.org/en/story/2025/10/1166035",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-10-05 12:00:00",
-      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
-      "retrievedAt": "2025-10-07 07:07:56.328238",
-      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]

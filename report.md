@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-11-16 07:07
-- **Most recent article:** 2025-11-15 07:05:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-11-16 19:05
+- **Most recent article:** 2025-11-15 18:05:41
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 57 | 202 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 21 | 142 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 26 | 139 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 202 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 143 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 29 | 142 |
 | malaria | 20 | 24 | 17 | 17 | 19 | 20 | 117 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 75 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 60 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 27 |
-| zika | 7 | 1 | 3 | 5 | 9 | 1 | 26 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 23 |
+| zika | 7 | 1 | 3 | 5 | 9 | 2 | 27 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 26 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 22 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
-| hpai | 1 | 0 | 4 | 2 | 1 | 4 | 12 |
+| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 13 |
 | pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 8 |
 | yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 8 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 1 | 7 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-46 (zika)
+
+- [An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains](https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/) (Wired)
 
 - [Arbovirosis, la epidemia que azota Cuba y avanza sin control: «Se está enterrando gente de noche, como en la pandemia»](https://www.lavozdegalicia.es/noticia/sociedad/2025/11/13/cuba-azotada-epidema-virus-avanza-control/00031763038010971184545.htm) (Lavozdegalicia.es)
 
@@ -92,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 - [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
 
 ## 25-46 (measles)
+
+- [Americas Lose Measles-Free Status: Health Leaders Warn of Rising Regional Threat as Cases Surge](https://colombiaone.com/2025/11/15/americas-measles-free-status-rising-regional-threat-cases-surge/) (Colombiaone.com)
+
+- [Canada lost its measles elimination status, but N.L. still eight years without new case](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-measles-elimination-status-9.6978445) (CBC News)
 
 - [Alberta premier says loss of measles elimination status concerning, urges vigilance](https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-measles-sarah-hoffman-9.6980006) (CBC News)
 
@@ -255,6 +261,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (hpai)
 
+- [USA: Nytt fugleinfluensavirus påvist hos menneske for første gang](https://www.nrk.no/nyheter/usa_-nytt-fugleinfluensavirus-pavist-hos-menneske-for-forste-gang-1.17654300) (NRK)
+
 - [Mice Test Positive For Bird Flu](https://www.shtfplan.com/headline-news/mice-test-positive-for-bird-flu) (Shtfplan.com)
 
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
@@ -264,6 +272,12 @@ Source: [News API](https://newsapi.org/)
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
+
+- [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.tagesspiegel.de/potsdam/brandenburg/markisch-oderland-weiterer-ausbruch-von-vogelgrippe-in-brandenburg-14851724.html) (Der Tagesspiegel)
+
+- [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.zeit.de/news/2025-11/15/weiterer-ausbruch-von-vogelgrippe-in-brandenburg) (Die Zeit)
+
+- [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/maerkisch-oderland--weiterer-ausbruch-von-vogelgrippe-in-brandenburg-36551564.html) (STERN.de)
 
 - [Seuche: Seeelefanten im Südatlantik sterben an Vogelgrippe](https://www.tagesspiegel.de/wissen/seuche-seeelefanten-im-sudatlantik-sterben-an-vogelgrippe-14848430.html) (Der Tagesspiegel)
 
@@ -318,6 +332,8 @@ Source: [News API](https://newsapi.org/)
 - [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
 
 ## 25-46 (dengue)
+
+- [An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains](https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/) (Wired)
 
 - [Farah Khan gets awed by Nikki Tamboli-Arbaz Patel’s love story: ‘I had to Google him …’](https://economictimes.indiatimes.com/magazines/panache/farah-khan-gets-awed-by-nikki-tamboli-arbaz-patels-love-story-i-had-to-google-him-/articleshow/125340299.cms) (The Times of India)
 
@@ -1677,8 +1693,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1716,8 +1730,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1774,10 +1786,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
