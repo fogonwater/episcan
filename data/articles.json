@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-11-16 19:05",
-  "count_articles_total": 813,
-  "count_articles_new": 7,
+  "last_updated": "2025-11-17 07:08",
+  "count_articles_total": 822,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25755,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "El huevo vuelve al corral",
+      "description": "El pasado jueves, el Gobierno decret\u00f3 el confinamiento total de las aves de corral para frenar la expansi\u00f3n del virus H5N1. La severa medida llega en plena campa\u00f1a invernal, con 2,5 millones de animales sacrificados y el sector av\u00edcola operando bajo una presi\u2026",
+      "url": "https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/11/16/1503044664-U48775408067THf-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-11-16 03:09:58",
+      "content": "El pasado jueves, el Gobierno decret\u00f3 el confinamiento total de las aves de corral para frenar la expansi\u00f3n del virus H5N1. La severa medida llega en plena campa\u00f1a invernal, con 2,5 millones de anima\u2026 [+3358 chars]",
+      "retrievedAt": "2025-11-17 07:08:48.714387",
+      "internal_id": "9b0fbfdeea8e71d784162e9103c501712cb7bb45cc3bbb9692833916346e688e",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25752,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Fourth case of measles confirmed after Jelly Roll concert",
+      "description": "Authorities say a case had been identified in the Logan region after three cases linked to the concert at the Brisbane Entertainment Centre on October 24 were confirmed on Wednesday.",
+      "url": "https://www.abc.net.au/news/2025-11-16/fourth-measles-case-confirmed-after-jelly-roll-concert/106014898",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/438474884ced93466ee4be1cf004ea31?impolicy=wcms_watermark_news&cropH=843&cropW=1500&xPos=0&yPos=79&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-16 00:25:32",
+      "content": "A fourth case of measles has been confirmed after last month's Jelly Roll concert in Brisbane, prompting authorities to urge attendees to be alert for symptoms. Queensland Health's metro south unit \u2026 [+1358 chars]",
+      "retrievedAt": "2025-11-17 07:08:47.977272",
+      "internal_id": "eaab4bc005e5ba18757cb71a9255ec0ddb4d223aa070bbc898b87a9d010dd25a",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25756,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Jahnavi@timesofindia.com",
+      "title": "Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department",
+      "description": "Bengaluru: More rainy days and an increasing rodent population have spiked the cases of rat fever or leptospirosis cases across Karnataka to 2,042 by .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125354662,width-1070,height-580,imgsize-50976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-11-15 23:07:26",
+      "content": "Follow Us On Social Media Libra Daily Horoscope Today, November 16, 2025: This energy wont come again, who will you be in itWhy did the New Orleans Pelicans end their partnership with Willie Green, \u2026 [+1779 chars]",
+      "retrievedAt": "2025-11-17 07:08:50.711003",
+      "internal_id": "76846b7dfc709301e5ab73c6a115b080db7484eeb50391f00320dfe467ee4323",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25754,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "O Globo",
+      "title": "Gripe aviaria provoca desaparici\u00f3n masiva de elefantes marinos en isla subant\u00e1rtica",
+      "description": "Un brote de gripe aviaria redujo en 47% la poblaci\u00f3n de elefantes marinos en Georgia del Sur. El virus H5N1 tambi\u00e9n afect\u00f3 a otras especies marinas.",
+      "url": "https://www.nacion.com/ciencia/gripe-aviaria-provoca-desaparicion-masiva-de/XUX3GUCF4VG35ABTKY5AH35GNA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/7P44PZUZ5FGNFCDNZGLBCV43IQ.png?smart=true&auth=21988b7307adc3a34165af1f3b37606309ee3501e30e634f0ee8a79b0cd6d3d2&width=1440",
+      "publishedAt": "2025-11-15 21:38:46",
+      "content": "Un brote de gripe aviaria H5N1, detectado en setiembre de 2023 en la isla subant\u00e1rtica de Georgia del Sur, provoc\u00f3 un declive sin precedentes en la mayor poblaci\u00f3n mundial de elefantes marinos del su\u2026 [+3038 chars]",
+      "retrievedAt": "2025-11-17 07:08:48.704401",
+      "internal_id": "5f6025e26c759be54f60e92f21619576fd39dc56807b5ae7d0fdcd1d38846eb9",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 25753,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "MIKE STOBBE Associated Press",
+      "title": "Washington resident is infected with a different type of bird flu",
+      "description": "The person was infected with a bird flu called H5N5, state officials said. It's the nation's first human case of bird flu since February.",
+      "url": "https://richmond.com/life-entertainment/nation-world/wellness/article_5813a25b-797c-5b1b-8cfd-5ad3a96b7c2d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/5/81/5813a25b-797c-5b1b-8cfd-5ad3a96b7c2d/6917d24855c7b.preview.jpg?crop=1736%2C911%2C8%2C162&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-11-15 20:30:00",
+      "content": "Biologically, H5N1 isn't so different from any other influenza A virusthe type that resides mainly in wild birds, as well as bats, and has occasionally jumped into human populations. It contains eigh\u2026 [+4603 chars]",
+      "retrievedAt": "2025-11-17 07:08:48.695000",
+      "internal_id": "019d8282ecf5ce4214e18591263f782e14571a786f0ec19944154633bcc2229b",
+      "publishedAtLabel": "Nov 15"
+    },
     {
       "id": 25750,
       "query": [
@@ -14687,6 +14777,78 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "Health officials investigating measles exposure in Ohio",
+      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
+      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-05 18:00:40",
+      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.988882",
+      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
+      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
+      "url": "https://www.memeorandum.com/251005/p26",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
+      "publishedAt": "2025-10-05 15:00:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.915536",
+      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24937,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'My daughter went to bed with a headache and never woke up'",
+      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
+      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
+      "publishedAt": "2025-10-05 12:58:15",
+      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
+      "retrievedAt": "2025-10-06 19:06:03.254624",
+      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24939,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Haiti battles rabies with vaccines and vigilance",
+      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
+      "url": "https://news.un.org/en/story/2025/10/1166035",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-10-05 12:00:00",
+      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
+      "retrievedAt": "2025-10-07 07:07:56.328238",
+      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]

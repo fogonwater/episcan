@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-11-16 19:05
-- **Most recent article:** 2025-11-15 18:05:41
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-11-17 07:08
+- **Most recent article:** 2025-11-16 03:09:58
 
 ---
 
@@ -10,28 +10,36 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 27 | 35 | 25 | 35 | 21 | 59 | 202 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 143 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 29 | 142 |
-| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 117 |
-| chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 75 |
-| mpox | 10 | 11 | 8 | 20 | 5 | 6 | 60 |
-| zika | 7 | 1 | 3 | 5 | 9 | 2 | 27 |
-| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 26 |
-| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 22 |
-| typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 14 |
-| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 13 |
-| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 8 |
-| yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 8 |
-| leptospirosis | 0 | 4 | 0 | 1 | 1 | 1 | 7 |
-| shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
+| Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 29 | 35 | 25 | 35 | 21 | 59 | 1 | 205 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 1 | 145 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 0 | 143 |
+| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 0 | 117 |
+| chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
+| mpox | 10 | 11 | 8 | 20 | 5 | 6 | 0 | 60 |
+| zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
+| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 0 | 27 |
+| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 0 | 23 |
+| typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 0 | 14 |
+| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 0 | 13 |
+| leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
+| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 0 | 8 |
+| yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 0 | 8 |
+| shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-47 (measles)
+
+- [Fourth case of measles confirmed after Jelly Roll concert](https://www.abc.net.au/news/2025-11-16/fourth-measles-case-confirmed-after-jelly-roll-concert/106014898) (ABC News (AU))
+
+## 25-47 (h5n1)
+
+- [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
 
 ## 25-46 (zika)
 
@@ -257,6 +265,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-46 (leptospirosis)
 
+- [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
+
 - [CEBU PROVINCE NAGPADAYON SA PAG APOD-APOD SA MGA TAMBAL UG GAMIT PARA-MEDIKAL](https://rpnradio.com/cebu-province-nagpadayon-sa-pag-apod-apod-sa-mga-tambal-ug-gamit-para-medikal/) (Rpnradio.com)
 
 ## 25-46 (hpai)
@@ -272,6 +282,10 @@ Source: [News API](https://newsapi.org/)
 - [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
+
+- [Gripe aviaria provoca desaparición masiva de elefantes marinos en isla subantártica](https://www.nacion.com/ciencia/gripe-aviaria-provoca-desaparicion-masiva-de/XUX3GUCF4VG35ABTKY5AH35GNA/story/) (Nacion.com)
+
+- [Washington resident is infected with a different type of bird flu](https://richmond.com/life-entertainment/nation-world/wellness/article_5813a25b-797c-5b1b-8cfd-5ad3a96b7c2d.html) (Richmond.com)
 
 - [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.tagesspiegel.de/potsdam/brandenburg/markisch-oderland-weiterer-ausbruch-von-vogelgrippe-in-brandenburg-14851724.html) (Der Tagesspiegel)
 
@@ -1693,6 +1707,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
+- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
+
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1730,6 +1746,8 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
+
+- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1786,6 +1804,10 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
+
+- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
+
+- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
