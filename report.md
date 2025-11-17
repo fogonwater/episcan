@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-11-17 07:08
-- **Most recent article:** 2025-11-16 03:09:58
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-11-17 19:06
+- **Most recent article:** 2025-11-16 16:46:36
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 59 | 1 | 205 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 1 | 145 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 3 | 205 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 2 | 146 |
 | dengue | 23 | 18 | 14 | 33 | 33 | 22 | 0 | 143 |
 | malaria | 20 | 24 | 17 | 17 | 19 | 20 | 0 | 117 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
-| mpox | 10 | 11 | 8 | 20 | 5 | 6 | 0 | 60 |
+| mpox | 10 | 11 | 8 | 20 | 5 | 6 | 1 | 61 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 0 | 27 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 0 | 23 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 0 | 26 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 0 | 22 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 0 | 14 |
 | hpai | 1 | 0 | 4 | 2 | 1 | 5 | 0 | 13 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
@@ -33,11 +33,21 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-47 (mpox)
+
+- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
+
 ## 25-47 (measles)
+
+- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
+
+- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 - [Fourth case of measles confirmed after Jelly Roll concert](https://www.abc.net.au/news/2025-11-16/fourth-measles-case-confirmed-after-jelly-roll-concert/106014898) (ABC News (AU))
 
 ## 25-47 (h5n1)
+
+- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 - [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
 
@@ -1707,8 +1717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1746,8 +1754,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1804,10 +1810,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
