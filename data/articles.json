@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-11-18 07:07",
-  "count_articles_total": 828,
-  "count_articles_new": 2,
+  "last_updated": "2025-11-18 19:06",
+  "count_articles_total": 834,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 25765,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "5 new measles exposure sites reported in Winnipeg",
+      "description": "Public health officials in Manitoba say there are five new measles exposure sites, all in Winnipeg.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/5-new-measles-exposure-sites-reported-in-winnipeg-9.6981765",
+      "urlToImage": "https://i.cbc.ca/ais/c0125b97-1798-47ab-96b8-b1c2d2e274e0,1763404889656/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C258%2C3100%2C1743%29%3BResize%3D620",
+      "publishedAt": "2025-11-17 18:50:34",
+      "content": "Public health officials say there have been five new measles exposure sites in Winnipeg. Anyone at the following locations at the specified times and dates should monitor for symptoms: Mino\u2026 [+2119 chars]",
+      "retrievedAt": "2025-11-18 19:06:31.704059",
+      "internal_id": "06dce11aaa2381ee7b67cdc46d9b0e4a7c698517b70fc2428cc8fec30a2aa1a7",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25768,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ignacio L\u00f3pez-Go\u00f1i, Catedr\u00e1tico de Microbiolog\u00eda. Miembro de la Sociedad Espa\u00f1ola de Microbiolog\u00eda (SEM), Universidad de Navarra",
+      "title": "H5N1 bird flu cases spike in Europe. How worried should we be?",
+      "description": "The virus hasn\u2019t yet adapted to spread to humans, but it\u2019s not getting any less likely.",
+      "url": "https://theconversation.com/h5n1-bird-flu-cases-spike-in-europe-how-worried-should-we-be-269962",
+      "urlToImage": "https://images.theconversation.com/files/702832/original/file-20251114-66-fsvldn.jpg?ixlib=rb-4.1.0&rect=0%2C308%2C2939%2C1469&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-11-17 17:20:03",
+      "content": "On November 13, Spain\u2019s Ministry of Agriculture, Fisheries and Food imposed the confinement of all free-range poultry farms to curb the spread of avian influenza \u2013 more commonly known as \u201cbird flu\u201d \u2013\u2026 [+6915 chars]",
+      "retrievedAt": "2025-11-18 19:06:32.302064",
+      "internal_id": "b76aec3bbbc8bd2d2748d2747b68392732e7200ff5711c1f9707f7b6d8aac8c7",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25767,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Landwirtschaft: Gefl\u00fcgelpest im Landkreis Ludwigslust-Parchim ausgebrochen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eLandwirtschaft\u201c. Lesen Sie jetzt \u201eGefl\u00fcgelpest im Landkreis Ludwigslust-Parchim ausgebrochen\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/17/gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen",
+      "urlToImage": "https://img.zeit.de/news/2025-11/17/gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-image-group/wide__1300x731",
+      "publishedAt": "2025-11-17 16:16:57",
+      "content": "In einer privaten Gefl\u00fcgelhaltung in der Gemeinde S\u00fclstorf im Landkreis Ludwigslust-Parchim ist das f\u00fcr Wild- und Hausgefl\u00fcgel hoch ansteckende Gefl\u00fcgelpest-Virus H5N1 festgestellt worden. In der Fol\u2026 [+638 chars]",
+      "retrievedAt": "2025-11-18 19:06:32.279472",
+      "internal_id": "1d8f827ff22c2796e661825865b796ccf21bb26e1099e8c8c34c90f874c54252",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25769,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Landwirtschaft: Gefl\u00fcgelpest im Landkreis Ludwigslust-Parchim ausgebrochen",
+      "description": "S\u00fclstorf (mv) - In einer privaten Gefl\u00fcgelhaltung in der Gemeinde S\u00fclstorf im Landkreis Ludwigslust-Parchim ist das f\u00fcr Wild- und Hausgefl\u00fcgel hoch",
+      "url": "https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html",
+      "urlToImage": "https://image.stern.de/36556492/t/px/v1/w1440/r1.7778/-/17--wvxw6eqhu6v7axs2048jpeg---55f2b8afb3db0516.jpg",
+      "publishedAt": "2025-11-17 16:16:57",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Das Virus H5N1 ist in einer privaten Gefl\u00fcgelhaltung entdeckt worden. Wie viele Betriebe und Tiere in der Region betroffen sein k\u00f6nnten. In eine\u2026 [+790 chars]",
+      "retrievedAt": "2025-11-18 19:06:32.367739",
+      "internal_id": "35ac581e10a63efb581e168a2f5416b77b9778c6260f1185176538fe8c67f571",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25770,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Un \u00f1and\u00fa muerto en el Zoo se convierte en el segundo caso de gripe aviar en C\u00f3rdoba",
+      "description": "El Ayuntamiento de C\u00f3rdoba ha informado en la tarde de este lunes, en un comunicado, de que ha recibido esta ma\u00f1ana la notificaci\u00f3n de la presencia de un foco de gripe aviar de alta patogenicidad (IAAP), subtipo H5N1, por parte de la Consejer\u00eda de Agricultura\u2026",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/17/entrada-zoologico-cordoba-klEI--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-11-17 15:42:51",
+      "content": "El Ayuntamiento de C\u00f3rdoba ha informado en la tarde de este lunes, en un comunicado, de que ha recibido esta ma\u00f1ana la notificaci\u00f3n de la presencia de un foco de gripe aviar de alta patogenicidad (IA\u2026 [+2292 chars]",
+      "retrievedAt": "2025-11-18 19:06:32.393553",
+      "internal_id": "a47cc66ab402c00ec29233d12db6c5df57fbc2c96a404aae498c9cebcccd2af1",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25771,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "James Pero",
+      "title": "Solos AirGo A5 Review: These AI Smart Glasses Need a Brain Transplant",
+      "description": "The built-in AI in these camera-less smart glasses needs a lot more work.",
+      "url": "https://gizmodo.com/solos-airgo-a5-review-these-ai-smart-glasses-need-a-brain-transplant-2000685667",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/solo-airgo-a5-review-02-1200x675.jpg",
+      "publishedAt": "2025-11-17 14:27:25",
+      "content": "Smart glasses are a bit like the Wild West right now. Sure, there are no bullets flying, and there\u2019s hopefully a lot less typhoid, but that same prospecting, bootstrapping spirit still applies. Even \u2026 [+12184 chars]",
+      "retrievedAt": "2025-11-18 19:06:33.777465",
+      "internal_id": "feaaea5b5eacab32665a0e7883daa9d84b5ecfdc11eb79a796a1f3bc9df78b3b",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25763,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Pakistan launches drive to vaccinate 57M children against measles, rubella and polio",
+      "description": "Officials say Pakistan has launched a nationwide vaccination campaign targeting more than 57 million children that aims to curb rising cases of measles, rubella and polio",
+      "url": "https://abcnews.go.com/International/wireStory/pakistan-launches-drive-vaccinate-57-million-children-measles-127590564",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-11-17 14:15:48",
+      "content": "ISLAMABAD -- Pakistan on Monday began a two-week nationwide vaccination campaign targeting more than 57 million children, aiming to curb rising cases of measles, rubella and polio, the countrys Natio\u2026 [+1476 chars]",
+      "retrievedAt": "2025-11-18 19:06:31.674402",
+      "internal_id": "466a3475077c13aca60da3f3ea3fbfb9e04f7678d9384a9895ef2245c76e284b",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25772,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Beza Ramasindrazana, Mireille Harimalala, Fanohinjanaharinirina Rasoamalala, Cynthia Haingotiana Martin, Lanto Andrianarijaona Maminirina, Sylvie Claudia Raritahiry, Johan Michaux, Minoarisoa Rajerison, Julie Linchant, Pierre Walter, Daouda Kassi\u00e9, H\u00e9l\u00e8ne Guis, Lucy Keatts, Ferran Jori",
+      "title": "First assessment of plague in terrestrial small mammals and fleas from Makira Natural Park and surroundings, North-eastern Madagascar",
+      "description": "Author summary Plague, a zoonosis caused by Yersinia pestis, is an endemic disease and major public health problem in Madagascar. Almost all of the available data are from the central highlands and little is known regarding the epidemiology of the disease in \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013710",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013710.g003&size=inline",
+      "publishedAt": "2025-11-17 14:00:00",
+      "content": "Citation: Ramasindrazana B, Harimalala M, Rasoamalala F, Martin CH, Maminirina LA, Raritahiry SC, et al. (2025) First assessment of plague in terrestrial small mammals and fleas from Makira Natural P\u2026 [+34959 chars]",
+      "retrievedAt": "2025-11-18 19:06:34.075472",
+      "internal_id": "08be7e517adcce22de7bb2e26ef406a4960b92b123edc816e2d76a7aa39229fb",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25766,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Yenicaggazetesi.com.tr",
+      "author": "Yeni\u00e7a\u011f Gazetesi",
+      "title": "Bolu'da \u2018ku\u015f gribi\u2019 uyar\u0131s\u0131",
+      "description": "Bolu \u0130l Tar\u0131m ve Orman M\u00fcd\u00fcrl\u00fc\u011f\u00fc, Avrupa genelinde artan y\u00fcksek patojeniteli ku\u015f gribi (HPAI) vakalar\u0131 nedeniyle kanatl\u0131 hayvan yeti\u015ftiricilerini uyararak tedbirli olunmas\u0131n\u0131 istedi.",
+      "url": "https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm",
+      "urlToImage": "https://img.yenicaggazetesi.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2025/11/17/boluda-kus-gribi-uyarisi-inpb.jpg",
+      "publishedAt": "2025-11-17 13:57:20",
+      "content": "Bolu \u0130l M\u00fcd\u00fcrl\u00fc\u011f\u00fc'nden yap\u0131lan a\u00e7\u0131klamada Avrupa \u00fclkelerinde g\u00f6\u00e7men su ku\u015flar\u0131n\u0131n ta\u015f\u0131d\u0131\u011f\u0131 ku\u015f gribi vakalar\u0131nda dikkat \u00e7ekici bir art\u0131\u015f g\u00f6r\u00fcld\u00fc\u011f\u00fc belirtildi. Tar\u0131m ve Orman Bakanl\u0131\u011f\u0131'n\u0131n de\u011ferlendir\u2026 [+809 chars]",
+      "retrievedAt": "2025-11-18 19:06:31.947994",
+      "internal_id": "736afa241641a2d6f4676089030a18a50aa4a3a735d539a91815bad03351fc6a",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25764,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates",
+      "description": "Some Alberta pediatricians say they've got an idea to help improve routine childhood vaccination rates, but they're facing roadblocks. The doctors want the shots, including measles and whooping cough vaccines, made routinely available in pediatric hospitals.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364",
+      "urlToImage": "https://i.cbc.ca/ais/e1c55b31-0de7-40a0-bcfb-5e7e1fb5abed,1763156406606/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C2643%2C1486%29%3BResize%3D620",
+      "publishedAt": "2025-11-17 12:00:00",
+      "content": "Some Alberta pediatricians say making childhood immunizations routinely available in pediatric hospitals could help improve slumping vaccination rates in the province. But the Alberta government is\u2026 [+6383 chars]",
+      "retrievedAt": "2025-11-18 19:06:31.694257",
+      "internal_id": "70d694cede5a7b7022ae890f54acedf8cd47990e2c0f1cab782072b4a6d059c6",
+      "publishedAtLabel": "Nov 17"
+    },
     {
       "id": 25762,
       "query": [
@@ -14885,78 +15065,6 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24936,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WHIO",
-      "author": "Whio Staff",
-      "title": "Health officials investigating measles exposure in Ohio",
-      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
-      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
-      "publishedAt": "2025-10-05 18:00:40",
-      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.988882",
-      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24935,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
-      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
-      "url": "https://www.memeorandum.com/251005/p26",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
-      "publishedAt": "2025-10-05 15:00:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.915536",
-      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24937,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'My daughter went to bed with a headache and never woke up'",
-      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
-      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
-      "publishedAt": "2025-10-05 12:58:15",
-      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
-      "retrievedAt": "2025-10-06 19:06:03.254624",
-      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24939,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Haiti battles rabies with vaccines and vigilance",
-      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
-      "url": "https://news.un.org/en/story/2025/10/1166035",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-10-05 12:00:00",
-      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
-      "retrievedAt": "2025-10-07 07:07:56.328238",
-      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]

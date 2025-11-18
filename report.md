@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-11-18 07:07
-- **Most recent article:** 2025-11-17 05:03:51
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-11-18 19:06
+- **Most recent article:** 2025-11-17 18:50:34
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 59 | 3 | 207 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 2 | 146 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 6 | 208 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 6 | 150 |
 | dengue | 23 | 18 | 14 | 33 | 33 | 22 | 1 | 144 |
 | malaria | 20 | 24 | 17 | 17 | 19 | 20 | 1 | 118 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 1 | 61 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 0 | 27 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 0 | 23 |
-| typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 0 | 14 |
-| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 0 | 13 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 0 | 26 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 0 | 22 |
+| typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
+| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
+| yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 9 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
 | pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 0 | 8 |
-| yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 0 | 8 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
 
@@ -33,11 +33,25 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-47 (yersinia)
+
+- [First assessment of plague in terrestrial small mammals and fleas from Makira Natural Park and surroundings, North-eastern Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013710) (Plos.org)
+
+## 25-47 (typhoid)
+
+- [Solos AirGo A5 Review: These AI Smart Glasses Need a Brain Transplant](https://gizmodo.com/solos-airgo-a5-review-these-ai-smart-glasses-need-a-brain-transplant-2000685667) (Gizmodo.com)
+
 ## 25-47 (mpox)
 
 - [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
 
 ## 25-47 (measles)
+
+- [5 new measles exposure sites reported in Winnipeg](https://www.cbc.ca/news/canada/manitoba/5-new-measles-exposure-sites-reported-in-winnipeg-9.6981765) (CBC News)
+
+- [Pakistan launches drive to vaccinate 57M children against measles, rubella and polio](https://abcnews.go.com/International/wireStory/pakistan-launches-drive-vaccinate-57-million-children-measles-127590564) (ABC News)
+
+- [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
 
 - [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
 
@@ -49,7 +63,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Ángel Villacampa desea darle el campeonato a Emilio Azcárraga: "Podemos darle un título al patrón"](https://www.record.com.mx/futbol/futbol-nacional/ligafemenilmx/angel-villacampa-desea-darle-el-campeonato-emilio-azcarraga) (Record.com.mx)
 
+## 25-47 (hpai)
+
+- [Bolu'da ‘kuş gribi’ uyarısı](https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm) (Yenicaggazetesi.com.tr)
+
 ## 25-47 (h5n1)
+
+- [H5N1 bird flu cases spike in Europe. How worried should we be?](https://theconversation.com/h5n1-bird-flu-cases-spike-in-europe-how-worried-should-we-be-269962) (The Conversation Africa)
+
+- [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.zeit.de/news/2025-11/17/gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen) (Die Zeit)
+
+- [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
+
+- [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
 
 - [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
@@ -1725,8 +1751,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1764,8 +1788,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1822,10 +1844,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
