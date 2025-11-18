@@ -1,8 +1,44 @@
 {
-  "last_updated": "2025-11-17 19:06",
-  "count_articles_total": 822,
-  "count_articles_new": 4,
+  "last_updated": "2025-11-18 07:07",
+  "count_articles_total": 828,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 25762,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "Daniel Estrada Navarrete",
+      "title": "\u00c1ngel Villacampa desea darle el campeonato a Emilio Azc\u00e1rraga: \"Podemos darle un t\u00edtulo al patr\u00f3n\"",
+      "description": "El entrenador azulcrema asegur\u00f3 que su motivaci\u00f3n es poder darle un campeonato al due\u00f1o del club, adem\u00e1s de asegurar que sus jugadoras dar\u00e1n la vida ante Tigres",
+      "url": "https://www.record.com.mx/futbol/futbol-nacional/ligafemenilmx/angel-villacampa-desea-darle-el-campeonato-emilio-azcarraga",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/11/16/angel-villacampa-desea-darle-el-campeonato-emilio-azcarraga-podemos-darle-un-titulo-al-patron.jpg",
+      "publishedAt": "2025-11-17 05:03:51",
+      "content": "Tras clasificar a la Final del Apertura 2025 de la Liga MX Femenil, el director t\u00e9cnico del Am\u00e9rica, \u00c1ngel Villacampa, se\u00f1al\u00f3 que quieren romper su malaria en Finales y darle un t\u00edtulo a Emilio Azc\u00e1r\u2026 [+3521 chars]",
+      "retrievedAt": "2025-11-18 07:07:50.185102",
+      "internal_id": "13d9a2e2ea6054566759846243d63bd0f5491c8d21cf1532dfb04cd81d849979",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25761,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Omar Rodr\u00edguez",
+      "title": "Desde Salud Municipal refuerzan prevenci\u00f3n de dengue en Ciudad Obreg\u00f3n",
+      "description": "Las autoridades de Salud Municipal est\u00e1n reforzando la prevenci\u00f3n contra el dengue en Ciudad Obreg\u00f3n; aqu\u00ed los detalles",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/16/desde-salud-municipal-refuerzan-prevencion-de-dengue-en-ciudad-obregon-419728.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/16/f1280x720-478242_609917_5050.png",
+      "publishedAt": "2025-11-17 04:56:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- En \"un problema de salud serio\", seg\u00fan atenciones y denuncias ciudadanas, se ha convertido durante las \u00faltimas semanas la presencia de mosquitos y la preocupaci\u00f3n de los caso\u2026 [+2717 chars]",
+      "retrievedAt": "2025-11-18 07:07:49.821331",
+      "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
+      "publishedAtLabel": "Nov 17"
+    },
     {
       "id": 25759,
       "query": [
@@ -14849,6 +14885,78 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "Health officials investigating measles exposure in Ohio",
+      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
+      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-05 18:00:40",
+      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.988882",
+      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
+      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
+      "url": "https://www.memeorandum.com/251005/p26",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
+      "publishedAt": "2025-10-05 15:00:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.915536",
+      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24937,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'My daughter went to bed with a headache and never woke up'",
+      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
+      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
+      "publishedAt": "2025-10-05 12:58:15",
+      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
+      "retrievedAt": "2025-10-06 19:06:03.254624",
+      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24939,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Haiti battles rabies with vaccines and vigilance",
+      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
+      "url": "https://news.un.org/en/story/2025/10/1166035",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-10-05 12:00:00",
+      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
+      "retrievedAt": "2025-10-07 07:07:56.328238",
+      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]
