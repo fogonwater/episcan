@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-11-19 07:07
-- **Most recent article:** 2025-11-18 06:52:19
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-11-19 19:06
+- **Most recent article:** 2025-11-18 17:53:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 59 | 10 | 214 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 7 | 151 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 3 | 146 |
-| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 1 | 118 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 12 | 214 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 8 | 152 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 4 | 147 |
+| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 2 | 119 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 3 | 63 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 1 | 27 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 0 | 27 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 0 | 23 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 2 | 24 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
 | hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
 | yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 9 |
@@ -41,6 +41,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Solos AirGo A5 Review: These AI Smart Glasses Need a Brain Transplant](https://gizmodo.com/solos-airgo-a5-review-these-ai-smart-glasses-need-a-brain-transplant-2000685667) (Gizmodo.com)
 
+## 25-47 (rabies)
+
+- [Rabies Virus Market Research Report 2025-2035: Recombinant Nanoparticle-based Formulations and Monoclonal Antibody Cocktails are Reshaping the Industry](https://www.globenewswire.com/news-release/2025/11/18/3189740/28124/en/Rabies-Virus-Market-Research-Report-2025-2035-Recombinant-Nanoparticle-based-Formulations-and-Monoclonal-Antibody-Cocktails-are-Reshaping-the-Industry.html) (GlobeNewswire)
+
 ## 25-47 (mpox)
 
 - [Mensen die mpox hadden zijn vermoedelijk langdurig beschermd tegen nieuwe infectie, aldus studie van Instituut voor Tropische Geneeskunde](https://www.nieuwsblad.be/nieuws/mensen-die-mpox-hadden-zijn-vermoedelijk-langdurig-beschermd-tegen-nieuwe-infectie-aldus-studie-van-instituut-voor-tropische-geneeskunde/105737668.html) (Nieuwsblad.be)
@@ -49,7 +53,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
 
+## 25-47 (meningitis)
+
+- [El colegio de médicos acoge un documental y una charla sobre la meningitis en Galicia](https://www.lavozdegalicia.es/noticia/ourense/2025/11/19/meningitis-galicia-alla-cifras/0003_202511O19C6997.htm) (Lavozdegalicia.es)
+
+- [How Littler inspired patient to be next darts ace](https://www.bbc.com/news/articles/cvgv66yqlwvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
+
 ## 25-47 (measles)
+
+- [Republican Support for Key Childhood Vaccines Is Backsliding](https://financialpost.com/pmn/business-pmn/republican-support-for-key-childhood-vaccines-is-backsliding) (Financial Post)
+
+- [Parents’ confidence in childhood vaccine effectiveness, safety testing and schedule](http://www.pewresearch.org/science/2025/11/18/parents-confidence-in-childhood-vaccine-effectiveness-safety-testing-and-schedule/) (Pew Research Center)
 
 - [Another mission accomplished for RFK Jr.](https://www.lawyersgunsmoneyblog.com/2025/11/another-mission-accomplished-for-rfk-jr) (Lawyersgunsmoneyblog.com)
 
@@ -73,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (malaria)
 
+- [India $135+ Mn Artesunate Market Trends, Competition, Forecast and Opportunities, 2030F](https://www.globenewswire.com/news-release/2025/11/18/3190297/28124/en/India-135-Mn-Artesunate-Market-Trends-Competition-Forecast-and-Opportunities-2030F.html) (GlobeNewswire)
+
 - [Ángel Villacampa desea darle el campeonato a Emilio Azcárraga: "Podemos darle un título al patrón"](https://www.record.com.mx/futbol/futbol-nacional/ligafemenilmx/angel-villacampa-desea-darle-el-campeonato-emilio-azcarraga) (Record.com.mx)
 
 ## 25-47 (hpai)
@@ -80,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 - [Bolu'da ‘kuş gribi’ uyarısı](https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm) (Yenicaggazetesi.com.tr)
 
 ## 25-47 (h5n1)
+
+- [Na Nymbursku začala likvidace chovu kachen s ptačí chřipkou, pomáhají i vězni](https://www.idnes.cz/praha/zpravy/perena-nouzov-ptaci-chripka-likvidaci-vezni-nakaza-ohnisko.A251118_103246_praha-zpravy_pari) (Idnes.cz)
 
 - [Aviaria, aumentano i focolai al Nord. Aziende agricole sequestrate e smaltimento di uova nel Varesotto, abbattimenti nell’Alto Mantovano](https://www.ilfattoquotidiano.it/2025/11/18/aviaria-aziende-sequestrate-smaltimento-uova-varesotto-abbattimenti-mantovano/8198431/) (Ilfattoquotidiano.it)
 
@@ -96,6 +114,8 @@ Source: [News API](https://newsapi.org/)
 - [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
 
 ## 25-47 (dengue)
+
+- [Phenotypic variation in populations of the mosquito vector, Aedes aegypti, and implications for predicting the effects of temperature and climate change on dengue transmission](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013623) (Plos.org)
 
 - [Navojoa: Familias de la comunidad de 'El Jopo' piden ayuda contra el dengue](https://www.tribuna.com.mx/sonora/2025/11/17/navojoa-familias-de-la-comunidad-de-el-jopo-piden-ayuda-contra-el-dengue-419789.html) (Tribuna.com.mx)
 
@@ -1769,8 +1789,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1808,8 +1826,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1866,10 +1882,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
