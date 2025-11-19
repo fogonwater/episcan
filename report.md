@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-11-18 19:06
-- **Most recent article:** 2025-11-17 18:50:34
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-11-19 07:07
+- **Most recent article:** 2025-11-18 06:52:19
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 35 | 25 | 35 | 21 | 59 | 6 | 208 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 6 | 150 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 1 | 144 |
+| measles | 29 | 35 | 25 | 35 | 21 | 59 | 10 | 214 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 7 | 151 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 3 | 146 |
 | malaria | 20 | 24 | 17 | 17 | 19 | 20 | 1 | 118 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
-| mpox | 10 | 11 | 8 | 20 | 5 | 6 | 1 | 61 |
+| mpox | 10 | 11 | 8 | 20 | 5 | 6 | 3 | 63 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 0 | 26 |
-| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 0 | 22 |
+| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 0 | 27 |
+| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 0 | 23 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
 | hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
 | yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 9 |
@@ -43,9 +43,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (mpox)
 
+- [Mensen die mpox hadden zijn vermoedelijk langdurig beschermd tegen nieuwe infectie, aldus studie van Instituut voor Tropische Geneeskunde](https://www.nieuwsblad.be/nieuws/mensen-die-mpox-hadden-zijn-vermoedelijk-langdurig-beschermd-tegen-nieuwe-infectie-aldus-studie-van-instituut-voor-tropische-geneeskunde/105737668.html) (Nieuwsblad.be)
+
+- [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
+
 - [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
 
 ## 25-47 (measles)
+
+- [Another mission accomplished for RFK Jr.](https://www.lawyersgunsmoneyblog.com/2025/11/another-mission-accomplished-for-rfk-jr) (Lawyersgunsmoneyblog.com)
+
+- [C.D.C. Links Measles Outbreaks in Multiple States for the First Time (New York Times)](https://www.memeorandum.com/251117/p148) (Memeorandum.com)
+
+- [Two cases of measles found in central Utah, health department says](https://ksltv.com/health/two-cases-of-measles-in-central-utah/847376/) (ksltv.com)
+
+- [Measles makes a comeback: four charts show where and how](https://www.nature.com/articles/d41586-025-03769-z) (Nature.com)
 
 - [5 new measles exposure sites reported in Winnipeg](https://www.cbc.ca/news/canada/manitoba/5-new-measles-exposure-sites-reported-in-winnipeg-9.6981765) (CBC News)
 
@@ -69,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (h5n1)
 
+- [Aviaria, aumentano i focolai al Nord. Aziende agricole sequestrate e smaltimento di uova nel Varesotto, abbattimenti nell’Alto Mantovano](https://www.ilfattoquotidiano.it/2025/11/18/aviaria-aziende-sequestrate-smaltimento-uova-varesotto-abbattimenti-mantovano/8198431/) (Ilfattoquotidiano.it)
+
 - [H5N1 bird flu cases spike in Europe. How worried should we be?](https://theconversation.com/h5n1-bird-flu-cases-spike-in-europe-how-worried-should-we-be-269962) (The Conversation Africa)
 
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.zeit.de/news/2025-11/17/gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen) (Die Zeit)
@@ -82,6 +96,10 @@ Source: [News API](https://newsapi.org/)
 - [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
 
 ## 25-47 (dengue)
+
+- [Navojoa: Familias de la comunidad de 'El Jopo' piden ayuda contra el dengue](https://www.tribuna.com.mx/sonora/2025/11/17/navojoa-familias-de-la-comunidad-de-el-jopo-piden-ayuda-contra-el-dengue-419789.html) (Tribuna.com.mx)
+
+- [Dengue México. Contagios al 10 noviembre 2025](https://www.excelsior.com.mx/nacional/dengue-mexico-contagios-al-10-noviembre-2025/1752124) (Excelsior.com.mx)
 
 - [Desde Salud Municipal refuerzan prevención de dengue en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/11/16/desde-salud-municipal-refuerzan-prevencion-de-dengue-en-ciudad-obregon-419728.html) (Tribuna.com.mx)
 
@@ -1751,6 +1769,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
+- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
+
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1788,6 +1808,8 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
+
+- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1844,6 +1866,10 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
+
+- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
+
+- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
