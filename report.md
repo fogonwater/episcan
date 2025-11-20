@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-11-20 07:08
-- **Most recent article:** 2025-11-19 05:55:16
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-11-20 19:06
+- **Most recent article:** 2025-11-19 17:00:15
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 59 | 14 | 218 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 9 | 153 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 5 | 148 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 18 | 220 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 11 | 155 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 7 | 150 |
 | malaria | 20 | 24 | 17 | 17 | 19 | 20 | 3 | 120 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 3 | 63 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 1 | 28 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 1 | 27 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 3 | 26 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 3 | 25 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
 | hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
+| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 1 | 9 |
 | yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 9 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
-| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 0 | 8 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
 
@@ -45,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies Virus Market Research Report 2025-2035: Recombinant Nanoparticle-based Formulations and Monoclonal Antibody Cocktails are Reshaping the Industry](https://www.globenewswire.com/news-release/2025/11/18/3189740/28124/en/Rabies-Virus-Market-Research-Report-2025-2035-Recombinant-Nanoparticle-based-Formulations-and-Monoclonal-Antibody-Cocktails-are-Reshaping-the-Industry.html) (GlobeNewswire)
 
+## 25-47 (pertussis)
+
+- [Whooping cough cases urge as vaccination rates fall, immunity wanes](https://www.cbsnews.com/news/whooping-cough-pertussis-cases-vaccination-rates/) (CBS News)
+
 ## 25-47 (mpox)
 
 - [Mensen die mpox hadden zijn vermoedelijk langdurig beschermd tegen nieuwe infectie, aldus studie van Instituut voor Tropische Geneeskunde](https://www.nieuwsblad.be/nieuws/mensen-die-mpox-hadden-zijn-vermoedelijk-langdurig-beschermd-tegen-nieuwe-infectie-aldus-studie-van-instituut-voor-tropische-geneeskunde/105737668.html) (Nieuwsblad.be)
@@ -62,6 +66,12 @@ Source: [News API](https://newsapi.org/)
 - [How Littler inspired patient to be next darts ace](https://www.bbc.com/news/articles/cvgv66yqlwvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 25-47 (measles)
+
+- [US could lose its measles elimination status within months, experts say](https://www.livescience.com/health/viruses-infections-disease/us-could-lose-its-measles-elimination-status-within-months-experts-say) (Live Science)
+
+- [The US is on track to lose its measles elimination status in months. RFK needs to go.](https://www.livescience.com/health/viruses-infections-disease/us-is-on-track-to-lose-its-measles-elimination-status-in-months-rfk-needs-to-go-opinion) (Live Science)
+
+- [CDC officials confirm that the US is two months away from measles...](https://kottke.org/25/11/0047877-cdc-officials-confirm-tha) (kottke.org)
 
 - [US Is on the Brink of Losing Measles Elimination Status](https://www.newser.com/story/378914/us-is-on-the-brink-of-losing-measles-elimination-status.html) (Newser)
 
@@ -82,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 - [5 new measles exposure sites reported in Winnipeg](https://www.cbc.ca/news/canada/manitoba/5-new-measles-exposure-sites-reported-in-winnipeg-9.6981765) (CBC News)
 
 - [Pakistan launches drive to vaccinate 57M children against measles, rubella and polio](https://abcnews.go.com/International/wireStory/pakistan-launches-drive-vaccinate-57-million-children-measles-127590564) (ABC News)
+
+- [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
 
@@ -105,6 +117,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (h5n1)
 
+- [Rare bird flu case detected in Hawaii...](https://www.the-express.com/news/health/190851/bird-flu-reaches-popular-us) (The-express.com)
+
+- [Macau proíbe importação de carne do distrito do Porto](https://observador.pt/2025/11/19/macau-proibe-importacao-de-carne-e-ovos-do-distrito-do-porto-devido-a-gripe-aviaria/) (Observador.pt)
+
 - [H5N1'den sonra H5N5 korkusu: Kuş gribi virüsündeki protein değişikliği ne anlama geliyor?](https://www.chip.com.tr/guncel/h5n1den-sonra-h5n5-korkusu-kus-gribi-virusundeki-protein-degisikligi-ne-anlama-geliyor_174718.html) (Chip.com.tr)
 
 - [Na Nymbursku začala likvidace chovu kachen s ptačí chřipkou, pomáhají i vězni](https://www.idnes.cz/praha/zpravy/perena-nouzov-ptaci-chripka-likvidaci-vezni-nakaza-ohnisko.A251118_103246_praha-zpravy_pari) (Idnes.cz)
@@ -124,6 +140,10 @@ Source: [News API](https://newsapi.org/)
 - [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
 
 ## 25-47 (dengue)
+
+- [Non-canonical Metatranscriptomic analysis of COVID-19 and Dengue reveals an expanded microbial and AMR landscape in COVID-19 mortality patients](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013703) (Plos.org)
+
+- [Spatiotemporal expansion of Aedes aegypti and the dengue fever epidemic under climate change in China](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013702) (Plos.org)
 
 - [Autoridades de Ciudad Obregón refuerzan lucha contra el dengue con fumigación y descacharrización](https://www.tribuna.com.mx/sonora/2025/11/18/autoridades-de-ciudad-obregon-refuerzan-lucha-contra-el-dengue-con-fumigacion-descacharrizacion-419899.html) (Tribuna.com.mx)
 
@@ -1801,8 +1821,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1840,8 +1858,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1898,10 +1914,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 

@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-11-20 07:08",
-  "count_articles_total": 861,
-  "count_articles_new": 6,
+  "last_updated": "2025-11-20 19:06",
+  "count_articles_total": 866,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 25802,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The-express.com",
+      "author": "daily express us",
+      "title": "Rare bird flu case detected in Hawaii...",
+      "description": "H5N1, the virus that causes bird flu, is a highly infectious and lethal disease that mainly affects birds but can also be transmitted to humans",
+      "url": "https://www.the-express.com/news/health/190851/bird-flu-reaches-popular-us",
+      "urlToImage": "https://cdn-images.the-express.com/img/dynamic/19/1200x630/469574.jpg",
+      "publishedAt": "2025-11-19 17:00:15",
+      "content": "A new case of \"H5N1\" was detected in a bird on the island of Maui, Hawaii. The virus was confirmed in a Northern pintail duck, found along the Wailea shoreline. State authorities added that the samp\u2026 [+1516 chars]",
+      "retrievedAt": "2025-11-20 19:06:02.847299",
+      "internal_id": "0bdac20f75ad1bc4d040eac8507045ba534c1487758237337d014b3e86cb0a22",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Stephanie Pappas",
+      "title": "US could lose its measles elimination status within months, experts say",
+      "description": "With 45 outbreaks of measles over the past year, the United States is at risk of endemic spread within months, experts told Live Science.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/us-could-lose-its-measles-elimination-status-within-months-experts-say",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/U4yqUhokJfQe5GQavw68vA-1600-80.png",
+      "publishedAt": "2025-11-19 16:52:59",
+      "content": "The United States may lose its measles elimination status as soon as January, marking the sustained resurgence of a disease that had been eliminated from the country 25 years ago. On Nov. 10, Canada\u2026 [+5680 chars]",
+      "retrievedAt": "2025-11-20 19:06:02.342955",
+      "internal_id": "7bacc6df7eefcf86338d2b49a8c660e38fbb4328eb629bef94c287dbf06fdedd",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25799,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Elizabeth Jacobs",
+      "title": "The US is on track to lose its measles elimination status in months. RFK needs to go.",
+      "description": "Canada has lost its measles elimination status and the U.S. is likely to be next. These failures are the result of the anti-vaccination movement, bolstered by the appointment of Robert F. Kennedy Jr. \u2014 and it's a bellwether of the erosion of public health.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/us-is-on-track-to-lose-its-measles-elimination-status-in-months-rfk-needs-to-go-opinion",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ry7SHz5SvdxLbUquC9B6Cc-2560-80.jpg",
+      "publishedAt": "2025-11-19 16:51:55",
+      "content": "On Nov. 10, 2025, the Pan American Health Organization (PAHO) revoked Canada's measles elimination status . More than 5,000 cases have been reported since the outbreak began in October 2024. After\u2026 [+6439 chars]",
+      "retrievedAt": "2025-11-20 19:06:02.352092",
+      "internal_id": "7835558c1fc0e24e7eac7dd381b0becc80537107723131fde6b448ecfb53bb10",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25801,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Macau pro\u00edbe importa\u00e7\u00e3o de carne do distrito do Porto",
+      "description": "Decis\u00e3o segue proibi\u00e7\u00e3o similar de Hong Kong e afeta distrito do Porto. Dire\u00e7\u00e3o-Geral de Alimenta\u00e7\u00e3o e Veterin\u00e1ria identificou 14 distritos portugueses como zonas de alto risco para H5N1.",
+      "url": "https://observador.pt/2025/11/19/macau-proibe-importacao-de-carne-e-ovos-do-distrito-do-porto-devido-a-gripe-aviaria/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A64%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F03%2F29111640%2F37401248.jpg?layer=obstop:T",
+      "publishedAt": "2025-11-19 16:07:58",
+      "content": "A regi\u00e3o semiaut\u00f3noma chinesa de Macau proibiu esta quarta-feira a importa\u00e7\u00e3o de carne de ave e derivados, incluindo ovos, do distrito do Porto, na sequ\u00eancia da dete\u00e7\u00e3o de casos de gripe avi\u00e1ria. \u201cO\u2026 [+2700 chars]",
+      "retrievedAt": "2025-11-20 19:06:02.829882",
+      "internal_id": "27bf79517d784277e3e8ef6b783afa56115f0667e8aed34443deb726fcba8b53",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25797,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "kottke.org",
+      "author": "Jason Kottke",
+      "title": "CDC officials confirm that the US is two months away from measles...",
+      "description": "CDC officials confirm that the US is two months away from measles being considered endemic for the first time since 2000. \u201cE",
+      "url": "https://kottke.org/25/11/0047877-cdc-officials-confirm-tha",
+      "urlToImage": "",
+      "publishedAt": "2025-11-19 14:19:46",
+      "content": "\u00d7Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your option\u2026 [+341 chars]",
+      "retrievedAt": "2025-11-20 19:06:02.333755",
+      "internal_id": "154539941b17ef358f7e0b749e60743f49742d105bd32b76a8b0d0de3ad25bc9",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25803,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aanchal Yadav, Raiyan Ali, Priti Devi, Pallawi Kumari, Jyoti Soni, Garima, Bansidhar Tarai, Sandeep Budhiraja, Uzma Shamim, Rajesh Pandey",
+      "title": "Non-canonical Metatranscriptomic analysis of COVID-19 and Dengue reveals an expanded microbial and AMR landscape in COVID-19 mortality patients",
+      "description": "Author summary Antibiotics are frequently administered to manage secondary complications in viral infections like COVID-19 and dengue, yet their broad usage can unintentionally amplify the resistome\u2014the pool of antimicrobial resistance genes (ARGs)\u2014within tra\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013703",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013703.strk&size=inline",
+      "publishedAt": "2025-11-19 14:00:00",
+      "content": "Abstract AMR is a growing concern in viral infections, where microbiome shifts contribute to resistance gene dissemination. While dengue and COVID-19, caused by ssRNA viruses, are not bacterial-driv\u2026 [+82178 chars]",
+      "retrievedAt": "2025-11-20 19:06:03.128688",
+      "internal_id": "6967083911e28f3c14c2fdbda0747c67e649613c312c5c6b0281aa9ac6cd67d4",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25804,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ziyue Zhou, Guanhao He, Jianxiong Hu, Guodong Li, Hepeng Pan, Yayi Li, Siwen Yu, Zhiqing Chen, Wenjun Ma, Guanghu Zhu, Tao Liu",
+      "title": "Spatiotemporal expansion of Aedes aegypti and the dengue fever epidemic under climate change in China",
+      "description": "Author summary Dengue fever, a climate-sensitive vector-borne disease, is expanding its global reach. This study projects how climate change will drive the spread of Aedes aegypti across China by integrating climate scenarios with phenological and dynamical m\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013702",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013702.g007&size=inline",
+      "publishedAt": "2025-11-19 14:00:00",
+      "content": "Citation: Zhou Z, He G, Hu J, Li G, Pan H, Li Y, et al. (2025) Spatiotemporal expansion of Aedes aegypti and the dengue fever epidemic under climate change in China. PLoS Negl Trop Dis 19(11): e001\u2026 [+40029 chars]",
+      "retrievedAt": "2025-11-20 19:06:03.138478",
+      "internal_id": "65ad693ab3eb3f4369d91760443ab05fc9ad2e7c82789f662446cb96797b67cd",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25796,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dr. C\u00e9line  Gounder",
+      "title": "Whooping cough cases urge as vaccination rates fall, immunity wanes",
+      "description": "New details from health officials suggest the whooping cough surge may be part of a national pattern driven by slipping vaccine coverage and waning immunity, with infants bearing the brunt.",
+      "url": "https://www.cbsnews.com/news/whooping-cough-pertussis-cases-vaccination-rates/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/19/16451fc9-6d5b-4414-bcad-cd4c6013200c/thumbnail/1200x630/e2fce648553af5fb475d85a27a57c7ec/gettyimages-1197856264-1.jpg",
+      "publishedAt": "2025-11-19 10:00:12",
+      "content": "Rates of pertussis, also known as whooping cough, are surging in Texas, Florida, California, Oregon, and other states and localities across the country. The outbreaks are fueled by falling vaccinati\u2026 [+7406 chars]",
+      "retrievedAt": "2025-11-20 19:06:01.768508",
+      "internal_id": "e1f00847ca02caa5f87cc65cd4fa907a917dc0877a471d8652dfe73311ea524c",
+      "publishedAtLabel": "Nov 19"
+    },
     {
       "id": 25795,
       "query": [
@@ -577,6 +721,24 @@
       "content": "Bolu \u0130l M\u00fcd\u00fcrl\u00fc\u011f\u00fc'nden yap\u0131lan a\u00e7\u0131klamada Avrupa \u00fclkelerinde g\u00f6\u00e7men su ku\u015flar\u0131n\u0131n ta\u015f\u0131d\u0131\u011f\u0131 ku\u015f gribi vakalar\u0131nda dikkat \u00e7ekici bir art\u0131\u015f g\u00f6r\u00fcld\u00fc\u011f\u00fc belirtildi. Tar\u0131m ve Orman Bakanl\u0131\u011f\u0131'n\u0131n de\u011ferlendir\u2026 [+809 chars]",
       "retrievedAt": "2025-11-18 19:06:31.947994",
       "internal_id": "736afa241641a2d6f4676089030a18a50aa4a3a735d539a91815bad03351fc6a",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25800,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "ben.turner@futurenet.com (Ben Turner) , Ben Turner",
+      "title": "Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season",
+      "description": "Thursday, Nov. 20, 2025: Your daily feed of the biggest discoveries and breakthroughs making headlines.",
+      "url": "https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LbA2oaziQYmdPCXPc74cH6-462-80.jpg",
+      "publishedAt": "2025-11-17 13:52:17",
+      "content": "2025-11-20T11:31:47.836ZEasy comet, easy go Comet 3I/ATLAS as snapped by astrophotographer Satoru Murata. (Image credit: Satoru Murata) Good morning, science fans, and what a day for comet 3I/ATLAS\u2026 [+37156 chars]",
+      "retrievedAt": "2025-11-20 19:06:02.361512",
+      "internal_id": "071c34a0a52348485f209492acf66f32923f6f7f00a691993cd55d47e679865d",
       "publishedAtLabel": "Nov 17"
     },
     {
@@ -15479,78 +15641,6 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24936,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WHIO",
-      "author": "Whio Staff",
-      "title": "Health officials investigating measles exposure in Ohio",
-      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
-      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
-      "publishedAt": "2025-10-05 18:00:40",
-      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.988882",
-      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24935,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
-      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
-      "url": "https://www.memeorandum.com/251005/p26",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
-      "publishedAt": "2025-10-05 15:00:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.915536",
-      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24937,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'My daughter went to bed with a headache and never woke up'",
-      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
-      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
-      "publishedAt": "2025-10-05 12:58:15",
-      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
-      "retrievedAt": "2025-10-06 19:06:03.254624",
-      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24939,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Haiti battles rabies with vaccines and vigilance",
-      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
-      "url": "https://news.un.org/en/story/2025/10/1166035",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-10-05 12:00:00",
-      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
-      "retrievedAt": "2025-10-07 07:07:56.328238",
-      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]
