@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-11-19 19:06",
-  "count_articles_total": 851,
-  "count_articles_new": 8,
+  "last_updated": "2025-11-20 07:08",
+  "count_articles_total": 861,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 25795,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Jeremy Lewin, Senior Bureau Official for Foreign Assistance, Humanitarian Affairs, and Religious Freedom; Daniel O'Day, Chairman and Chief Executive Officer of Gilead Sciences; and Peter Sands, Executive Director of the Global Fund to Fight AIDS, Tuberculosis, and Malaria",
+      "description": "No description",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251117-state04.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-11-19 05:55:16",
+      "content": "US Department of State Special BriefingJeremy P. Lewin, Senior OfficialUnder Secretary for Foreign Assistance, Humanitarian Affairs, and Religious FreedomMignon Houston, Deputy SpokespersonNovember \u2026 [+27929 chars]",
+      "retrievedAt": "2025-11-20 07:08:00.129154",
+      "internal_id": "55fd7713ff3a5889d45e58ac88b382b3b7bf0dfd5de074732c795cd9cd87870f",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25792,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Chip.com.tr",
+      "author": "Levent \u00d6zt\u00fcrk",
+      "title": "H5N1'den sonra H5N5 korkusu: Ku\u015f gribi vir\u00fcs\u00fcndeki protein de\u011fi\u015fikli\u011fi ne anlama geliyor?",
+      "description": "Yeni ku\u015f gribi alt tipi H5N5, vir\u00fcs\u00fcn y\u00fczeyindeki bir proteinde k\u00fc\u00e7\u00fck bir fark ta\u015f\u0131yor. Uzmanlar, H5N1'e benzer davranmas\u0131n\u0131 bekleseler de, vir\u00fclans\u0131n\u0131n de\u011fi\u015fip de\u011fi\u015fmeyece\u011fi belirsiz. Vaka, k\u00fcmes hayvanlar\u0131ndan bula\u015fm\u0131\u015f olsa da, salg\u0131nda kritik bir e\u015fi\u011fi i\u015fa\u2026",
+      "url": "https://www.chip.com.tr/guncel/h5n1den-sonra-h5n5-korkusu-kus-gribi-virusundeki-protein-degisikligi-ne-anlama-geliyor_174718.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2025/11/17/kus-gribinde-yeni-alarm-insanlarda-daha-once-gorulmemis-h5n5-alt-tipi-abdde-tespit-edildi-a9yb.jpg",
+      "publishedAt": "2025-11-19 04:21:45",
+      "content": "D\u00fcnya genelinde ku\u015f gribi \u00f6nemli bir sorun olmaya devam ederken, ABD\u2019de bir hastada daha \u00f6nce insanlarda hi\u00e7 g\u00f6r\u00fclmemi\u015f bir ku\u015f gribi alt tipi olan H5N5 tespit edildi. Washington Eyaleti Sa\u011fl\u0131k Depar\u2026 [+2679 chars]",
+      "retrievedAt": "2025-11-20 07:07:59.318995",
+      "internal_id": "45ed5608b261bfe1bc85ce3eda860028353b114f31ca4208f86f392ad1920d5f",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25794,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Luc\u00eda Cancela",
+      "title": "Cristina Regojo, m\u00e9dica y afectada por la meningitis: \u00abDe repente, no o\u00eda nada y no sab\u00eda qu\u00e9 me pasaba\u00bb",
+      "description": "Este martes, la Asociaci\u00f3n Espa\u00f1ola contra la Meningitis se present\u00f3 en la ciudad de A Coru\u00f1a, con expertos y afectados por la enfermedad",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm",
+      "urlToImage": "https://img.lavdg.com/sc/HjvwHasJ1ss9GdYIfU-DchsDkp4=/1280x/2025/11/18/00121763493302009649251/Foto/i_20251118_200935000.jpg",
+      "publishedAt": "2025-11-19 04:00:00",
+      "content": "Cristina Regojo (Redondela, 1977) sufri\u00f3 meningitis con cuatro a\u00f1os. Sucedi\u00f3 en la d\u00e9cada en la que Galicia era la zona con mayor incidencia de esta enfermedad en toda Europa Occidental. La patolog\u00eda\u2026 [+6380 chars]",
+      "retrievedAt": "2025-11-20 07:07:59.846634",
+      "internal_id": "41d2d5df6b55d9d49b5c43419abf461448c36e32a700cad832257ed6615a16b8",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25791,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Rob Quinn with Newser.AI",
+      "title": "US Is on the Brink of Losing Measles Elimination Status",
+      "description": "The CDC has officially linked measles outbreaks in Texas, Utah, and Arizona, raising concerns that the US could lose its measles elimination status for the first time in 25 years. The chain of transmission originated in January within a Mennonite community in\u2026",
+      "url": "https://www.newser.com/story/378914/us-is-on-the-brink-of-losing-measles-elimination-status.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1647455-12-20251118193307.jpeg",
+      "publishedAt": "2025-11-19 01:33:06",
+      "content": "Health officials warn that if the outbreak continues past January, marking a year of sustained transmission, the US will lose its elimination status, a designation granted by the World Health Organiz\u2026 [+1492 chars]",
+      "retrievedAt": "2025-11-20 07:07:59.000511",
+      "internal_id": "7164abc481d3fa39a4513871a9724c9df639ffba036779d7a942886a070b5aac",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Jorge Salazar",
+      "title": "Autoridades de Ciudad Obreg\u00f3n refuerzan lucha contra el dengue con fumigaci\u00f3n y descacharrizaci\u00f3n",
+      "description": "Autoridades refuerzan lucha contra el dengue con fumigaci\u00f3n y descacharrizaci\u00f3n; hasta ahora se han revisado cinco mil 700 casas y tratado tres mil 147 dep\u00f3sitos",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/18/autoridades-de-ciudad-obregon-refuerzan-lucha-contra-el-dengue-con-fumigacion-descacharrizacion-419899.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/18/f1280x720-478493_610168_5050.jpg",
+      "publishedAt": "2025-11-19 00:45:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- El titular de la direcci\u00f3n de salud en Cajeme, Jes\u00fas Mar\u00eda Espinoza Castillo, detall\u00f3 que, con la finalidad de erradicar o disminuir el \u00edndice de casos de dengue que se regis\u2026 [+2159 chars]",
+      "retrievedAt": "2025-11-20 07:07:59.666870",
+      "internal_id": "f106d4cae5983bb83802a9e1eb9354299d72539505dbdfe0d8843c5ed5d0bfef",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25790,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "CDC Links Measles Outbreaks in Multiple States",
+      "description": "\u201cHealth officials on Monday linked for the first time the measles outbreak that began in Texas with another in Utah and Arizona, a finding that could end America\u2019s status as a nation that has eliminated measles,\u201d the New York Times reports.",
+      "url": "https://politicalwire.com/2025/11/18/cdc-links-measles-outbreaks-in-multiple-states/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-11-18 22:05:05",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-11-20 07:07:58.945234",
+      "internal_id": "366fe580c7684afa0372d14efb15bb3c7a64e60f8d29c85acf78e663b7fda316",
+      "publishedAtLabel": "Nov 18"
+    },
     {
       "id": 25788,
       "query": [
@@ -15371,6 +15479,78 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "Health officials investigating measles exposure in Ohio",
+      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
+      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-05 18:00:40",
+      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.988882",
+      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
+      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
+      "url": "https://www.memeorandum.com/251005/p26",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
+      "publishedAt": "2025-10-05 15:00:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.915536",
+      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24937,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'My daughter went to bed with a headache and never woke up'",
+      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
+      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
+      "publishedAt": "2025-10-05 12:58:15",
+      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
+      "retrievedAt": "2025-10-06 19:06:03.254624",
+      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24939,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Haiti battles rabies with vaccines and vigilance",
+      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
+      "url": "https://news.un.org/en/story/2025/10/1166035",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-10-05 12:00:00",
+      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
+      "retrievedAt": "2025-10-07 07:07:56.328238",
+      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]
