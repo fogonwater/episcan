@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-11-21 07:08
-- **Most recent article:** 2025-11-20 00:34:32
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-11-21 19:06
+- **Most recent article:** 2025-11-20 16:42:46
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 59 | 19 | 223 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 11 | 155 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 8 | 151 |
-| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 4 | 121 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 21 | 223 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 15 | 159 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 9 | 152 |
+| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 9 | 126 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 3 | 63 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 1 | 28 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 1 | 27 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 3 | 26 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 3 | 25 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
 | hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
-| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 1 | 9 |
-| yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 1 | 9 |
+| yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 2 | 10 |
+| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 2 | 10 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-47 (yersinia)
+
+- [Kuollut jyrsijä päätyi päivä­kotilasten ruokaan – Nyt tuli testitulos](https://www.iltalehti.fi/kotimaa/a/86e29554-2676-4a20-a62f-34114d04346d) (Iltalehti.fi)
 
 - [First assessment of plague in terrestrial small mammals and fleas from Makira Natural Park and surroundings, North-eastern Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013710) (Plos.org)
 
@@ -46,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Rabies Virus Market Research Report 2025-2035: Recombinant Nanoparticle-based Formulations and Monoclonal Antibody Cocktails are Reshaping the Industry](https://www.globenewswire.com/news-release/2025/11/18/3189740/28124/en/Rabies-Virus-Market-Research-Report-2025-2035-Recombinant-Nanoparticle-based-Formulations-and-Monoclonal-Antibody-Cocktails-are-Reshaping-the-Industry.html) (GlobeNewswire)
 
 ## 25-47 (pertussis)
+
+- [Waning Immunity and Falling Vaccination Rates Fuel Pertussis Outbreaks](https://kffhealthnews.org/news/article/pertussis-whooping-cough-outbreaks-dtap-tdap-vaccine-immunity-decrease-texas/) (Kffhealthnews.org)
 
 - [Whooping cough cases urge as vaccination rates fall, immunity wanes](https://www.cbsnews.com/news/whooping-cough-pertussis-cases-vaccination-rates/) (CBS News)
 
@@ -67,6 +71,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (measles)
 
+- [Mitochondrial targeting by measles virus nucleoprotein modulates viral spread in human airway epithelium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013713) (Plos.org)
+
 - [Measles outbreak in Arizona and Utah could spell the end for U.S. elimination status](https://www.nbcnews.com/health/health-news/measles-outbreak-arizona-utah-us-elimination-status-rcna244841) (NBC News)
 
 - [US could lose its measles elimination status within months, experts say](https://www.livescience.com/health/viruses-infections-disease/us-could-lose-its-measles-elimination-status-within-months-experts-say) (Live Science)
@@ -76,6 +82,8 @@ Source: [News API](https://newsapi.org/)
 - [CDC officials confirm that the US is two months away from measles...](https://kottke.org/25/11/0047877-cdc-officials-confirm-tha) (kottke.org)
 
 - [US Is on the Brink of Losing Measles Elimination Status](https://www.newser.com/story/378914/us-is-on-the-brink-of-losing-measles-elimination-status.html) (Newser)
+
+- [Daily briefing: Kissing might have evolved 21.5 million years ago](https://www.nature.com/articles/d41586-025-03835-6) (Nature.com)
 
 - [CDC Links Measles Outbreaks in Multiple States](https://politicalwire.com/2025/11/18/cdc-links-measles-outbreaks-in-multiple-states/) (Politicalwire.com)
 
@@ -107,6 +115,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (malaria)
 
+- [Freiburg's Irié makes progress after malaria but not fit v Bayern](https://nordot.app/1364264406410084747) (Nordot.app)
+
+- [SC Freiburg: Irié macht Fortschritte nach Malaria, Mut-Plan gegen Bayern](https://www.transfermarkt.de/malaria-infektion-positive-signale-bei-freiburgs-irie-schusters-mut-plan-gegen-bayern/view/news/463194) (Transfermarkt)
+
+- [Fußball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Irié](https://www.tagesspiegel.de/sport/fussball-bundesliga-nach-malaria-infektion-positive-signale-bei-freiburgs-irie-14899931.html) (Der Tagesspiegel)
+
+- [Fußball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Irié](https://www.zeit.de/news/2025-11/20/nach-malaria-infektion-positive-signale-bei-freiburgs-iri) (Die Zeit)
+
+- [Fußball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Irié](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/fussball-bundesliga--nach-malaria-infektion--positive-signale-bei-freiburgs-iri%C3%A9-36826934.html) (STERN.de)
+
 - [Author Correction: A male-drive female-sterile system for the self-limited control of the malaria mosquito Anopheles gambiae](https://www.nature.com/articles/s41467-025-66588-w) (Nature.com)
 
 - [Jeremy Lewin, Senior Bureau Official for Foreign Assistance, Humanitarian Affairs, and Religious Freedom; Daniel O'Day, Chairman and Chief Executive Officer of Gilead Sciences; and Peter Sands, Executive Director of the Global Fund to Fight AIDS, Tuberculosis, and Malaria](https://www.globalsecurity.org/military/library/news/2025/11/mil-251117-state04.htm) (Globalsecurity.org)
@@ -120,6 +138,14 @@ Source: [News API](https://newsapi.org/)
 - [Bolu'da ‘kuş gribi’ uyarısı](https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm) (Yenicaggazetesi.com.tr)
 
 ## 25-47 (h5n1)
+
+- [La muerte de un zorro por gripe aviar en Zaragoza acerca el virus a los humanos en España](https://www.elperiodico.com/es/sanidad/20251120/muerte-zorro-gripe-aviar-aragon-acerca-virus-humanos-espana-123946227) (Elperiodico.com)
+
+- [Strage di elefanti marini](https://www.internazionale.it/magazine/2025/11/20/strage-di-elefanti-marini) (Internazionale.it)
+
+- [Vogelgrippe: Stallpflicht in Hochrisikogebieten tritt in Kraft](https://www.diepresse.com/20325645/vogelgrippe-stallpflicht-in-hochrisikogebieten-tritt-in-kraft) (Diepresse.com)
+
+- [Moartea unei vulpi din cauza gripei aviare sporește temerile privind mutațiile care ar putea ajunge la oameni](https://www.mediafax.ro/externe/moartea-unei-vulpi-din-cauza-gripei-aviare-sporeste-temerile-privind-mutatiile-care-ar-putea-ajunge-la-oameni-23645059) (Mediafax.ro)
 
 - [Rare bird flu case detected in Hawaii...](https://www.the-express.com/news/health/190851/bird-flu-reaches-popular-us) (The-express.com)
 
@@ -144,6 +170,8 @@ Source: [News API](https://newsapi.org/)
 - [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
 
 ## 25-47 (dengue)
+
+- [BCG cell wall skeleton augments the immunogenicity of dengue nanoparticle vaccines by promoting dendritic cell activation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337113) (Plos.org)
 
 - [Spatial heterogenicity of tuberculosis and dengue in Nepal](https://www.nature.com/articles/s41598-025-24798-8) (Nature.com)
 
@@ -1827,8 +1855,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1866,8 +1892,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1924,10 +1948,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 

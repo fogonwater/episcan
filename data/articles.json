@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-11-21 07:08",
-  "count_articles_total": 873,
-  "count_articles_new": 3,
+  "last_updated": "2025-11-21 19:06",
+  "count_articles_total": 883,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 25814,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Beatriz P\u00e9rez",
+      "title": "La muerte de un zorro por gripe aviar en Zaragoza acerca el virus a los humanos en Espa\u00f1a",
+      "description": "Un zorro apareci\u00f3 muerto en la provincia de Zaragoza contagiado de gripe aviar (H5N1). Se trata del primer caso confirmado en Espa\u00f1a de un mam\u00edfero en la actual oleada de la epidemia y un nuevo paso del virus porque supone un salto entre especies. Como explic\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20251120/muerte-zorro-gripe-aviar-aragon-acerca-virus-humanos-espana-123946227",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/d465b7b1-390c-4270-acef-5ade7d7b3fb8_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-11-20 16:42:46",
+      "content": "Un zorro apareci\u00f3 muerto en la provincia de Zaragoza contagiado de gripe aviar (H5N1). Se trata del primer caso confirmado en Espa\u00f1a de un mam\u00edfero en la actual oleada de la epidemia y un nuevo paso \u2026 [+601 chars]",
+      "retrievedAt": "2025-11-21 19:06:21.554130",
+      "internal_id": "7ab9403bca1183c70a9c4a7814cc0675461c0d403711a34e5b6b7c5dcab1ce09",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25818,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nordot.app",
+      "author": "DPA",
+      "title": "Freiburg's Iri\u00e9 makes progress after malaria but not fit v Bayern",
+      "description": "Freiburg forward Cyriaque Iri\u00e9 continues to improve after his malaria infection, coach Julian Schuster said on Thursday, but Saturday's trip to Bundesliga leaders Bayern Munich comes too soon. \"His progress and his test results are positive,\" Schuster told re\u2026",
+      "url": "https://nordot.app/1364264406410084747",
+      "urlToImage": "https://media.zenfs.com/en/dpa_international_526/ce48f8524d2aa5718f4c111c9a52c463",
+      "publishedAt": "2025-11-20 15:39:41",
+      "content": "Freiburg forward Cyriaque Iri\u00e9 continues to improve after his malaria infection, coach Julian Schuster said on Thursday, but Saturday's trip to Bundesliga leaders Bayern Munich comes too soon. \"His \u2026 [+791 chars]",
+      "retrievedAt": "2025-11-21 19:06:22.738220",
+      "internal_id": "f6f062a61eeb61d977efb8267f45686f77dde1c6463fb0eb59f53228d8fdf5d2",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25817,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Transfermarkt",
+      "author": "redaktion@transfermarkt.de (Redaktion Transfermarkt)",
+      "title": "SC Freiburg: Iri\u00e9 macht Fortschritte nach Malaria, Mut-Plan gegen Bayern",
+      "description": "Cyriaque Iri\u00e9 (20) vom SC Freiburg macht nach seiner Malaria-Infektion weiter Fortschritte. \u201eDie Entwicklungen und seine Werte sind positiv\u201c, sagte Trainer Julian Schuster vor...",
+      "url": "https://www.transfermarkt.de/malaria-infektion-positive-signale-bei-freiburgs-irie-schusters-mut-plan-gegen-bayern/view/news/463194",
+      "urlToImage": "https://tmssl.akamaized.net/images/foto/big/cyriaque-irie-freiburg-2025-1759741533-179569.jpg?lm=1759741545",
+      "publishedAt": "2025-11-20 15:09:34",
+      "content": "Einziger Einsatz am 1. Spieltag Cyriaque Iri\u00e9 (20) vom SC Freiburg macht nach seiner Malaria-Infektion weiter Fortschritte. \u201eDie Entwicklungen und seine Werte sind positiv\u201c, sagte Trainer Julian Sc\u2026 [+1507 chars]",
+      "retrievedAt": "2025-11-21 19:06:22.728595",
+      "internal_id": "720d1f3fc80a5180d9c971f533006472b70f1737547147b011c1591836398ab1",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25820,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Fu\u00dfball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Iri\u00e9",
+      "description": "Freiburgs Cyriaque Iri\u00e9 macht nach seiner Malaria-Infektion Fortschritte, wird aber gegen den Spitzenreiter noch nicht spielen. Die Rekord-Bayern sollen von anderen ge\u00e4rgert werden.",
+      "url": "https://www.tagesspiegel.de/sport/fussball-bundesliga-nach-malaria-infektion-positive-signale-bei-freiburgs-irie-14899931.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/14899928/alternates/BASE_16_9_W1400/1763649571000/fu-ball-bundesliga-fototermin-sc-freiburg.jpeg",
+      "publishedAt": "2025-11-20 14:39:32",
+      "content": "Cyriaque Iri\u00e9 vom SC Freiburg macht nach seiner Malaria-Infektion weiter Fortschritte. Die Entwicklungen und seine Werte sind positiv, sagte Trainer Julian Schuster vor dem Ausw\u00e4rtsspiel der Breisgau\u2026 [+1896 chars]",
+      "retrievedAt": "2025-11-21 19:06:22.782973",
+      "internal_id": "28d3e640cd3bf0b3694f3cc6dd43f41173c2bef418433d59a6cecd48bb4051c9",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25816,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Fu\u00dfball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Iri\u00e9",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eFu\u00dfball-Bundesliga\u201c. Lesen Sie jetzt \u201eNach Malaria-Infektion: Positive Signale bei Freiburgs Iri\u00e9\u201c.",
+      "url": "https://www.zeit.de/news/2025-11/20/nach-malaria-infektion-positive-signale-bei-freiburgs-iri",
+      "urlToImage": "https://img.zeit.de/news/2025-11/20/nach-malaria-infektion-positive-signale-bei-freiburgs-iri-image-group/wide__1300x731",
+      "publishedAt": "2025-11-20 14:38:35",
+      "content": "Cyriaque Iri\u00e9 vom SC Freiburg macht nach seiner Malaria-Infektion weiter Fortschritte. \u00abDie Entwicklungen und seine Werte sind positiv\u00bb, sagte Trainer Julian Schuster vor dem Ausw\u00e4rtsspiel der Breisg\u2026 [+1852 chars]",
+      "retrievedAt": "2025-11-21 19:06:22.710756",
+      "internal_id": "1c28ad85f267dbd98c981103787e536cccfb0ea5c325eb4a02949913145c9e49",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25819,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Fu\u00dfball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Iri\u00e9",
+      "description": "Freiburgs Cyriaque Iri\u00e9 macht nach seiner Malaria-Infektion Fortschritte, wird aber gegen den Spitzenreiter noch nicht spielen. Die Rekord-Bayern sollen von anderen ge\u00e4rgert werden.",
+      "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/fussball-bundesliga--nach-malaria-infektion--positive-signale-bei-freiburgs-iri%C3%A9-36826934.html",
+      "urlToImage": "https://image.stern.de/36826936/t/0D/v1/w1440/r1.7778/-/20--xcvuiteihyv3axs2048jpeg---8a73049dc2fbc0f1.jpg",
+      "publishedAt": "2025-11-20 14:38:35",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Freiburgs Cyriaque Iri\u00e9 macht nach seiner Malaria-Infektion Fortschritte, wird aber gegen den Spitzenreiter noch nicht spielen. Die Rekord-Bayern\u2026 [+2049 chars]",
+      "retrievedAt": "2025-11-21 19:06:22.747678",
+      "internal_id": "ac53721281922619df735922f8c7c419e5549389cb1cdaf2d0adef57f12b938e",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25821,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Kuollut jyrsij\u00e4 p\u00e4\u00e4tyi p\u00e4iv\u00e4\u00adkotilasten ruokaan \u2013 Nyt tuli testitulos",
+      "description": "Peltomyyr\u00e4t voivat levitt\u00e4\u00e4 esimerkiksi j\u00e4nisruttoa ja yersinia-bakteereita. Oulun tapauksesta saatiin kuitenkin torstaina huojentava tieto. Karkeasti arvioituna noin parikymment\u00e4 ihmist\u00e4 ehti sy\u00f6d\u00e4 myyr\u00e4ll\u00e4 maustettua pastaruokaa Hoivatien erityisyksik\u00f6ss\u00e4 m\u2026",
+      "url": "https://www.iltalehti.fi/kotimaa/a/86e29554-2676-4a20-a62f-34114d04346d",
+      "urlToImage": "https://img.ilcdn.fi/sm7u7LFtcm-YPq6HBiBoKU78lso=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/6d48d71c844a8324c48f0281518fd5e118f511fc74dc7c6e5c6bbfe9a2136a53.jpg",
+      "publishedAt": "2025-11-20 14:10:04",
+      "content": "Karkeasti arvioituna noin parikymment\u00e4 ihmist\u00e4 ehti sy\u00f6d\u00e4 myyr\u00e4ll\u00e4 maustettua pastaruokaa Hoivatien erityisyksik\u00f6ss\u00e4 maanantaina. Hoivatien palvelujohtaja Riitta R\u00e4m\u00f6 kertoo, ett\u00e4 ruokailu oli jo oh\u2026 [+2051 chars]",
+      "retrievedAt": "2025-11-21 19:06:24.146361",
+      "internal_id": "b280f005f3855e34d7696a1dad4f0f58764aa1cfccebbf390e0e391487e033e9",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25810,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lorellin A. Durnell-Bettis, Stephanie E. Clark, Camilla E. Hippee, Angela Liu, Justin W. Kaufman, Sydney R. Winecke, Kalpana Yadav, Brajesh K. Singh, Roberto Cattaneo, Patrick L. Sinn",
+      "title": "Mitochondrial targeting by measles virus nucleoprotein modulates viral spread in human airway epithelium",
+      "description": "Author summary Measles is the most infectious human respiratory virus but the mechanisms favoring its spread in the human respiratory epithelium are incompletely understood. Prompted by our observation of altered mitochondrial gene expression after measles vi\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013713",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013713.strk&size=inline",
+      "publishedAt": "2025-11-20 14:00:00",
+      "content": "Citation: Durnell-Bettis LA, Clark SE, Hippee CE, Liu A, Kaufman JW, Winecke SR, et al. (2025) Mitochondrial targeting by measles virus nucleoprotein modulates viral spread in human airway epithelium\u2026 [+58220 chars]",
+      "retrievedAt": "2025-11-21 19:06:21.031979",
+      "internal_id": "7b58e39e6c8594570a8e9dc07451f57d97adcde22e27e1983dac034e5ab806c9",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25815,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jitra Limthongkul, Saradee Warit, Panya Sunintaboon, Sukathida Ubol, Tuksin Jearanaiwitayakul",
+      "title": "BCG cell wall skeleton augments the immunogenicity of dengue nanoparticle vaccines by promoting dendritic cell activation",
+      "description": "Bacillus Calmette-Gu\u00e9rin cell wall skeleton (BCG-CWS) has been shown to enhance vaccine effectiveness and antitumor immunity. In our previous study, we reported that co-administration of BCG-CWS with the encapsidated dengue antigens, UV-inactivated DENV2 and \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337113",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0337113.g006&size=inline",
+      "publishedAt": "2025-11-20 14:00:00",
+      "content": "Abstract Bacillus Calmette-Gu\u00e9rin cell wall skeleton (BCG-CWS) has been shown to enhance vaccine effectiveness and antitumor immunity. In our previous study, we reported that co-administration of BC\u2026 [+48062 chars]",
+      "retrievedAt": "2025-11-21 19:06:22.012778",
+      "internal_id": "e0c202828ead6e63b5e645ab3eeb7b77fad7813957e02299b5a48f2ebeb5aebc",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25811,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Strage di elefanti marini",
+      "description": "Aviaria Dal 2023 l\u2019influenza aviaria H5n1 potrebbe aver provocato la morte di 53mila femmine di elefante marino del sud (nella foto) in Georgia australe, molte pi\u00f9 di quanto\u2026 Leggi",
+      "url": "https://www.internazionale.it/magazine/2025/11/20/strage-di-elefanti-marini",
+      "urlToImage": "https://media.internazionale.it/images/2025/11/20/317446-sd.jpg",
+      "publishedAt": "2025-11-20 11:00:00",
+      "content": "Aviaria Dal 2023 linfluenza aviaria H5n1 potrebbe aver provocato la morte di 53mila femmine di elefante marino del sud (nella foto) in Georgia australe, molte pi\u00f9 di quanto stimato in precedenza, con\u2026 [+2495 chars]",
+      "retrievedAt": "2025-11-21 19:06:21.458272",
+      "internal_id": "e164574b8957a6fe507dc2c637a6a82313bcacb61e26f9dbb7d0215c9ea2c649",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25813,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Vogelgrippe: Stallpflicht in Hochrisikogebieten tritt in Kraft",
+      "description": "Ab Donnerstag gilt in \u00d6sterreichs Vogelgrippe-Hochrisikogebieten Stallpflicht.",
+      "url": "https://www.diepresse.com/20325645/vogelgrippe-stallpflicht-in-hochrisikogebieten-tritt-in-kraft",
+      "urlToImage": "https://img.diepresse.com/public/incoming/hmpxmw-kein-Titel/alternates/DPR_SOCIAL_NACHRICHTEN/kein%20Titel",
+      "publishedAt": "2025-11-20 10:48:22",
+      "content": "Ab Donnerstag gilt in \u00d6sterreichs Vogelgrippe-Hochrisikogebieten Stallpflicht. Ab Donnerstag herrscht nach dem in Ober\u00f6sterreich aufgetretenen weiteren Fall von Vogelgrippe H5N1 Stallpflicht in Geb\u2026 [+1243 chars]",
+      "retrievedAt": "2025-11-21 19:06:21.536161",
+      "internal_id": "18a6220cf0dd1cc9f8b7334b54f5211cad66f7f7efa431cf2684752bc11b54ab",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25808,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "C\u00e9line Gounder",
+      "title": "Waning Immunity and Falling Vaccination Rates Fuel Pertussis Outbreaks",
+      "description": "New details from health officials suggest the whooping-cough surge may be part of a national pattern driven by slipping vaccine coverage and waning immunity, with infants bearing the brunt of the consequences.",
+      "url": "https://kffhealthnews.org/news/article/pertussis-whooping-cough-outbreaks-dtap-tdap-vaccine-immunity-decrease-texas/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/11/GettyImages-2194107119.jpg",
+      "publishedAt": "2025-11-20 10:00:00",
+      "content": "C\u00e9line GounderRates of pertussis, also known as whooping cough, are surging in Texas, Florida, California, Oregon, and other states and localities across the country. The outbreaks are fueled by fal\u2026 [+7479 chars]",
+      "retrievedAt": "2025-11-21 19:06:20.309108",
+      "internal_id": "9799546c9e601b137a03304578a5601f558d3e972d9ef00d612bd42e3b6d2b3d",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25812,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "M\u0103d\u0103lina Dinu",
+      "title": "Moartea unei vulpi din cauza gripei aviare spore\u0219te temerile privind muta\u021biile care ar putea ajunge la oameni",
+      "description": "Vulpea din Gallocanta este primul caz cunoscut din acest sezon, \u00een toat\u0103 Europa, de mamifer mort din cauza H5N1.",
+      "url": "https://www.mediafax.ro/externe/moartea-unei-vulpi-din-cauza-gripei-aviare-sporeste-temerile-privind-mutatiile-care-ar-putea-ajunge-la-oameni-23645059",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/10/pexels-enginakyurt-1769279-scaled.jpg",
+      "publishedAt": "2025-11-20 09:44:26",
+      "content": "S-a confirmat \u00een aceast lun moartea unei vulpi comune (Vulpes vulpes) din cauza gripei aviare \u00een Rezervaia Natural Laguna de Gallocanta din Spania, \u00eentr-o zon situat \u00eentre provinciile Zaragoza i Teru\u2026 [+6163 chars]",
+      "retrievedAt": "2025-11-21 19:06:21.517724",
+      "internal_id": "13d262bfc0e484f207580b247f5ea322e30a00a131d5a97648a74714b66d1345",
+      "publishedAtLabel": "Nov 20"
+    },
     {
       "id": 25805,
       "query": [
@@ -289,6 +523,24 @@
       "content": "Ciudad Obreg\u00f3n, Sonora.- El titular de la direcci\u00f3n de salud en Cajeme, Jes\u00fas Mar\u00eda Espinoza Castillo, detall\u00f3 que, con la finalidad de erradicar o disminuir el \u00edndice de casos de dengue que se regis\u2026 [+2159 chars]",
       "retrievedAt": "2025-11-20 07:07:59.666870",
       "internal_id": "f106d4cae5983bb83802a9e1eb9354299d72539505dbdfe0d8843c5ed5d0bfef",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 25809,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Flora Graham",
+      "title": "Daily briefing: Kissing might have evolved 21.5 million years ago",
+      "description": "Most large apes kiss, and Neanderthals probably did too. Plus, what a surge of measles in North America means for the world and what Canada\u2019s bold talent-attraction program means for scientists.",
+      "url": "https://www.nature.com/articles/d41586-025-03835-6",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03835-6/d41586-025-03835-6_51735624.png",
+      "publishedAt": "2025-11-19 00:00:00",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here. People with measles are barred from entering a hospital in Canada, which has seen a surge in cas\u2026 [+6678 chars]",
+      "retrievedAt": "2025-11-21 19:06:20.954296",
+      "internal_id": "310850787169fd8e1b641c5ba6b62fb0efdd31d29fc9fd5877338e6ef18d1ef0",
       "publishedAtLabel": "Nov 19"
     },
     {
@@ -15695,78 +15947,6 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24936,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WHIO",
-      "author": "Whio Staff",
-      "title": "Health officials investigating measles exposure in Ohio",
-      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
-      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
-      "publishedAt": "2025-10-05 18:00:40",
-      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.988882",
-      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24935,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
-      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
-      "url": "https://www.memeorandum.com/251005/p26",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
-      "publishedAt": "2025-10-05 15:00:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.915536",
-      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24937,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'My daughter went to bed with a headache and never woke up'",
-      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
-      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
-      "publishedAt": "2025-10-05 12:58:15",
-      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
-      "retrievedAt": "2025-10-06 19:06:03.254624",
-      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24939,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Haiti battles rabies with vaccines and vigilance",
-      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
-      "url": "https://news.un.org/en/story/2025/10/1166035",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-10-05 12:00:00",
-      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
-      "retrievedAt": "2025-10-07 07:07:56.328238",
-      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]
