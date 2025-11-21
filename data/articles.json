@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-11-20 19:06",
-  "count_articles_total": 866,
-  "count_articles_new": 9,
+  "last_updated": "2025-11-21 07:08",
+  "count_articles_total": 873,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 25805,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix , Erika Edwards",
+      "title": "Measles outbreak in Arizona and Utah could spell the end for U.S. elimination status",
+      "description": "A measles outbreak in Arizona and Utah shows no sign of slowing, putting the United States dangerously close to losing its elimination status.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-arizona-utah-us-elimination-status-rcna244841",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251119-measles-us-gk-235223.jpg",
+      "publishedAt": "2025-11-20 00:34:32",
+      "content": "A measles outbreak in Arizona and Utah shows no sign of slowing, putting the United States dangerously close to losing its elimination status for the vaccine-preventable disease. With holiday trave\u2026 [+5334 chars]",
+      "retrievedAt": "2025-11-21 07:08:13.572338",
+      "internal_id": "93a6f055e5eeb3a4399828521f41a7d5cd1a35da0963dc4003ffd54428f286e7",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25806,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Roshan Kumar Mahato, Kittipong Sornlorm, Kyaw Min Htike, Alex Bagas Koro, Rajitra Nawawonganun, Vijay Sharma, Alok Kafle",
+      "title": "Spatial heterogenicity of tuberculosis and dengue in Nepal",
+      "description": "Scientific Reports - Spatial heterogenicity of tuberculosis and dengue in Nepal",
+      "url": "https://www.nature.com/articles/s41598-025-24798-8",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-24798-8/MediaObjects/41598_2025_24798_Fig1_HTML.png",
+      "publishedAt": "2025-11-20 00:00:00",
+      "content": "Descriptive summary of annual reported TB and dengue cases in Nepal (20202023) The reported cases of TB and Dengue in Nepal between 2020 and 2023 show distinct patterns. TB cases increased from 28,6\u2026 [+6216 chars]",
+      "retrievedAt": "2025-11-21 07:08:14.258751",
+      "internal_id": "c8c904a3840241ebd283c1bdcceb8b75b562c632ef6e7763be1c0eb6be907723",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 25807,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Anna Strampelli, Katie Willis, Hannah Robyn Gulliford, Matthew Gribble, Barbara Fasulo, Austin Burt, Andrea Crisanti, Federica Bernardini",
+      "title": "Author Correction: A male-drive female-sterile system for the self-limited control of the malaria mosquito Anopheles gambiae",
+      "description": "Nature Communications - Author Correction: A male-drive female-sterile system for the self-limited control of the malaria mosquito Anopheles gambiae",
+      "url": "https://www.nature.com/articles/s41467-025-66588-w",
+      "urlToImage": null,
+      "publishedAt": "2025-11-20 00:00:00",
+      "content": "Department of Life Sciences, Imperial College London, London, UK Anna Strampelli, Katie Willis, Hannah Robyn Gulliford, Matthew Gribble, Barbara Fasulo, Austin Burt, Andrea Crisanti &amp; Federica B\u2026 [+8 chars]",
+      "retrievedAt": "2025-11-21 07:08:14.763123",
+      "internal_id": "3e199582addd0da6bb158094bdc0bcdc969c3fce1335bd81a7924d876eb9256d",
+      "publishedAtLabel": "Nov 20"
+    },
     {
       "id": 25802,
       "query": [
@@ -15641,6 +15695,78 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "Health officials investigating measles exposure in Ohio",
+      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
+      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-05 18:00:40",
+      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.988882",
+      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
+      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
+      "url": "https://www.memeorandum.com/251005/p26",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
+      "publishedAt": "2025-10-05 15:00:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.915536",
+      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24937,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'My daughter went to bed with a headache and never woke up'",
+      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
+      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
+      "publishedAt": "2025-10-05 12:58:15",
+      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
+      "retrievedAt": "2025-10-06 19:06:03.254624",
+      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24939,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Haiti battles rabies with vaccines and vigilance",
+      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
+      "url": "https://news.un.org/en/story/2025/10/1166035",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-10-05 12:00:00",
+      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
+      "retrievedAt": "2025-10-07 07:07:56.328238",
+      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]
