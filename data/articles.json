@@ -1,8 +1,99 @@
 {
-  "last_updated": "2025-11-21 19:06",
-  "count_articles_total": 883,
-  "count_articles_new": 14,
+  "last_updated": "2025-11-22 07:06",
+  "count_articles_total": 892,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 25822,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mukesh Thapliyal",
+      "title": "Pertussis outbreak surges in US, jumps 25-fold since 2023; Is it because of fading immunity or falling vaccination? Who faces the greatest risk and what precautions are needed",
+      "description": "Whooping cough cases are surging across the US, with Texas leading in reported infections. Experts attribute this alarming rise to declining vaccination rates and waning immunity. Infants are particularly vulnerable to this dangerous respiratory illness. Heal\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/pertussis-outbreak-surges-in-us-jumps-25-fold-since-2023-is-it-because-of-fading-immunity-or-falling-vaccination-who-faces-the-greatest-risk-and-what-precautions-are-needed/articleshow/125478816.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125478980,width-1200,height-630,imgsize-96565,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-21 06:18:00",
+      "content": "Pertussis, commonly known as whooping cough, has seen a dramatic upsurge in the United States, with cases rising nearly 25-fold in the first three months of data since 2023. Among all states, Texas r\u2026 [+3945 chars]",
+      "retrievedAt": "2025-11-22 07:06:51.406737",
+      "internal_id": "ed9f41bfb70ea092f305a5a258643b1a768dcb62c91954f1d9603197d156a4fa",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25823,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Vorarlberg.orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippe f\u00fcr Menschen unbedenklich",
+      "description": "Eine \u00dcbertragung des Vogelgrippevirus von infizierten V\u00f6geln auf Menschen ist m\u00f6glich, aber laut Landessanit\u00e4tsdirektion unwahrscheinlich. F\u00fcr eine Infektion braucht es einen direkten, intensiven Kontakt mit einem infizierten Vogel. Tote V\u00f6gel speziell am alt\u2026",
+      "url": "https://vorarlberg.orf.at/stories/3330824/",
+      "urlToImage": "https://ibs.orf.at/vbg?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2025%2F47%2F82%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2840498_master_1096682_imago169990560.jpg%3Fs%3D9690c96ad3cf1fa2411b42e6a7fb180f7df40e7a",
+      "publishedAt": "2025-11-21 04:44:15",
+      "content": "Seit Donnerstag m\u00fcssen in 14 Vorarlberger Gemeinden H\u00fchner und anderes Gefl\u00fcgel im Stall gehalten werden. Damit soll das Vogelgrippevirus H5N1 einged\u00e4mmt werden. Bis dato sind in Vorarlberg noch kein\u2026 [+4557 chars]",
+      "retrievedAt": "2025-11-22 07:06:52.690401",
+      "internal_id": "cd8e1ee551c55a3f77d23d2851ed0ffac22fe74063ce3ba51e885b797d3ba185",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25826,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Aurelio Ruiz Enebral",
+      "title": "El G\u00f3mez Ulla indemniza a un paciente por no informar de los riesgos de unas pastillas contra el covid",
+      "description": "La pandemia de coronavirus de 2020 satur\u00f3 los hospitales espa\u00f1oles, que se vieron desbordados de personas contagiadas de Covid-19 con s\u00edntomas graves. En un primer momento, las autoridades sanitarias dieron a los pacientes un compuesto denominado hidroxicloro\u2026",
+      "url": "https://www.elconfidencialdigital.com/articulo/defensa/gomez-ulla-indemniza-paciente-informar-riesgos-pastillas-covid/20251120172219990180.html",
+      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/11/20/2025112017565733387.jpg",
+      "publishedAt": "2025-11-21 04:00:00",
+      "content": "Hidroxicloroquina, un medicamento contra la malariaHospital Central de la Defensa G\u00f3mez UllaEfectos secundarios: taquicardia, insomnio, ansiedadLa Comunidad de Madr\u2026 [+11848 chars]",
+      "retrievedAt": "2025-11-22 07:06:53.593982",
+      "internal_id": "7f060bc641a9898461f4ed2167351d5d2b528d64b7db1099414b5439f59af56f",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25824,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla",
+      "description": "Desde hace m\u00e1s de dos meses Cuba enfrenta una crisis sanitaria nunca antes vista. Una epidemia de dengue , chikungunya y oropouche, con miles de casos semanales, est\u00e1 barriendo el pa\u00eds. Esta emergencia se suma a la energ\u00e9tica, demogr\u00e1fica, alimentaria y la qu\u2026",
+      "url": "https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/11/20/basura-cuba-U66038108234EuJ-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-11-21 02:57:24",
+      "content": "Desde hace m\u00e1s de dos meses Cuba enfrenta una crisis sanitaria nunca antes vista. Una epidemia de dengue, chikungunya y oropouche, con miles de casos semanales, est\u00e1 barriendo el pa\u00eds. Esta emergenci\u2026 [+5539 chars]",
+      "retrievedAt": "2025-11-22 07:06:53.005175",
+      "internal_id": "65b1cf5c9a2d1615700b646af471cc63fc4a647ba03a689c0568009e34337e0a",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25825,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Givewell.org",
+      "author": "GiveWell Staff",
+      "title": "Podcast Episode 17: Bridging an Uncertain Time for a Lifesaving Program",
+      "description": "Despite significant progress over the past several decades, malaria remains a leading cause of death globally for children under five. This year\u2019s cuts to foreign aid funding disrupted highly effective programs to prevent malaria, such as seasonal malaria che\u2026",
+      "url": "https://blog.givewell.org/2025/11/20/podcast-episode-17-bridging-an-uncertain-time-for-a-lifesaving-program/",
+      "urlToImage": "https://blog.givewell.org/wp-content/uploads/2023/11/GWlogo.png",
+      "publishedAt": "2025-11-20 21:27:52",
+      "content": "Despite significant progress over the past several decades, malaria remains a leading cause of death globally for children under five. This years cuts to foreign aid funding disrupted highly effectiv\u2026 [+2876 chars]",
+      "retrievedAt": "2025-11-22 07:06:53.552692",
+      "internal_id": "ae24bb47cd1b67b2b3f07c0f51883336a4eb77345ae26f858922b53a58f584c3",
+      "publishedAtLabel": "Nov 20"
+    },
     {
       "id": 25814,
       "query": [
@@ -15947,6 +16038,78 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Whio Staff",
+      "title": "Health officials investigating measles exposure in Ohio",
+      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
+      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
+      "publishedAt": "2025-10-05 18:00:40",
+      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.988882",
+      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
+      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
+      "url": "https://www.memeorandum.com/251005/p26",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
+      "publishedAt": "2025-10-05 15:00:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-10-06 19:06:01.915536",
+      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24937,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'My daughter went to bed with a headache and never woke up'",
+      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
+      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
+      "publishedAt": "2025-10-05 12:58:15",
+      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
+      "retrievedAt": "2025-10-06 19:06:03.254624",
+      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 24939,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Haiti battles rabies with vaccines and vigilance",
+      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
+      "url": "https://news.un.org/en/story/2025/10/1166035",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-10-05 12:00:00",
+      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
+      "retrievedAt": "2025-10-07 07:07:56.328238",
+      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-11-21 19:06
-- **Most recent article:** 2025-11-20 16:42:46
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-11-22 07:06
+- **Most recent article:** 2025-11-21 06:18:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 27 | 35 | 25 | 35 | 21 | 59 | 21 | 223 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 15 | 159 |
-| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 9 | 152 |
-| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 9 | 126 |
-| chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 0 | 75 |
+| measles | 29 | 35 | 25 | 35 | 21 | 59 | 21 | 225 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 16 | 160 |
+| dengue | 23 | 18 | 14 | 33 | 33 | 22 | 10 | 153 |
+| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 11 | 128 |
+| chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 1 | 76 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 3 | 63 |
-| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 1 | 27 |
+| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 1 | 28 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 3 | 25 |
+| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 3 | 26 |
 | typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
 | hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
+| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 3 | 11 |
 | yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 2 | 10 |
-| pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 2 | 10 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
@@ -48,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Rabies Virus Market Research Report 2025-2035: Recombinant Nanoparticle-based Formulations and Monoclonal Antibody Cocktails are Reshaping the Industry](https://www.globenewswire.com/news-release/2025/11/18/3189740/28124/en/Rabies-Virus-Market-Research-Report-2025-2035-Recombinant-Nanoparticle-based-Formulations-and-Monoclonal-Antibody-Cocktails-are-Reshaping-the-Industry.html) (GlobeNewswire)
 
 ## 25-47 (pertussis)
+
+- [Pertussis outbreak surges in US, jumps 25-fold since 2023; Is it because of fading immunity or falling vaccination? Who faces the greatest risk and what precautions are needed](https://economictimes.indiatimes.com/news/international/us/pertussis-outbreak-surges-in-us-jumps-25-fold-since-2023-is-it-because-of-fading-immunity-or-falling-vaccination-who-faces-the-greatest-risk-and-what-precautions-are-needed/articleshow/125478816.cms) (The Times of India)
 
 - [Waning Immunity and Falling Vaccination Rates Fuel Pertussis Outbreaks](https://kffhealthnews.org/news/article/pertussis-whooping-cough-outbreaks-dtap-tdap-vaccine-immunity-decrease-texas/) (Kffhealthnews.org)
 
@@ -115,6 +117,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (malaria)
 
+- [El Gómez Ulla indemniza a un paciente por no informar de los riesgos de unas pastillas contra el covid](https://www.elconfidencialdigital.com/articulo/defensa/gomez-ulla-indemniza-paciente-informar-riesgos-pastillas-covid/20251120172219990180.html) (Elconfidencialdigital.com)
+
+- [Podcast Episode 17: Bridging an Uncertain Time for a Lifesaving Program](https://blog.givewell.org/2025/11/20/podcast-episode-17-bridging-an-uncertain-time-for-a-lifesaving-program/) (Givewell.org)
+
 - [Freiburg's Irié makes progress after malaria but not fit v Bayern](https://nordot.app/1364264406410084747) (Nordot.app)
 
 - [SC Freiburg: Irié macht Fortschritte nach Malaria, Mut-Plan gegen Bayern](https://www.transfermarkt.de/malaria-infektion-positive-signale-bei-freiburgs-irie-schusters-mut-plan-gegen-bayern/view/news/463194) (Transfermarkt)
@@ -138,6 +144,8 @@ Source: [News API](https://newsapi.org/)
 - [Bolu'da ‘kuş gribi’ uyarısı](https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm) (Yenicaggazetesi.com.tr)
 
 ## 25-47 (h5n1)
+
+- [Vogelgrippe für Menschen unbedenklich](https://vorarlberg.orf.at/stories/3330824/) (Vorarlberg.orf.at)
 
 - [La muerte de un zorro por gripe aviar en Zaragoza acerca el virus a los humanos en España](https://www.elperiodico.com/es/sanidad/20251120/muerte-zorro-gripe-aviar-aragon-acerca-virus-humanos-espana-123946227) (Elperiodico.com)
 
@@ -171,6 +179,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (dengue)
 
+- [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
+
 - [BCG cell wall skeleton augments the immunogenicity of dengue nanoparticle vaccines by promoting dendritic cell activation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337113) (Plos.org)
 
 - [Spatial heterogenicity of tuberculosis and dengue in Nepal](https://www.nature.com/articles/s41598-025-24798-8) (Nature.com)
@@ -188,6 +198,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue México. Contagios al 10 noviembre 2025](https://www.excelsior.com.mx/nacional/dengue-mexico-contagios-al-10-noviembre-2025/1752124) (Excelsior.com.mx)
 
 - [Desde Salud Municipal refuerzan prevención de dengue en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/11/16/desde-salud-municipal-refuerzan-prevencion-de-dengue-en-ciudad-obregon-419728.html) (Tribuna.com.mx)
+
+## 25-47 (chikungunya)
+
+- [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
 
 ## 25-46 (zika)
 
@@ -1855,6 +1869,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
+- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
+
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1892,6 +1908,8 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
+
+- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1948,6 +1966,10 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
+
+- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
+
+- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
