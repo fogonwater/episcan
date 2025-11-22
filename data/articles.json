@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-11-22 07:06",
-  "count_articles_total": 892,
-  "count_articles_new": 5,
+  "last_updated": "2025-11-22 19:05",
+  "count_articles_total": 900,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 25829,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Common Dreams",
+      "author": "Brett Wilkins",
+      "title": "'Absurd Yet Predictable': US Close to Losing Measles Elimination Status Under RFK Jr.",
+      "description": "US public health officials warned this week that the country is close to following Canada in losing its measles elimination status, a deadly and preventable setback many experts attribute to the vaccine-averse policies and practices of Health and Human Servic\u2026",
+      "url": "https://www.commondreams.org/news/rfk-measles-elimination",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=62224453&width=1200&height=600&coordinates=0%2C542%2C0%2C543",
+      "publishedAt": "2025-11-21 19:03:37",
+      "content": "US public health officials warned this week that the country is close to following Canada in losing its measles elimination status, a deadly and preventable setback many experts attribute to the vacc\u2026 [+5726 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.131266",
+      "internal_id": "284cb240343b43e0df744ec815e29756cb0391f4fb7d16c1be3ecdda709ef600",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25833,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "mg",
+      "title": "Ptasia grypa. Ograniczenia w dwudziestu powiatach na Mazowszu",
+      "description": "Kolejne powiaty zosta\u0142y obj\u0119te ograniczeniami w zwi\u0105zku z chorobami zaka\u017anymi drobiu. Wojewoda mazowiecki Mariusz Frankowski wyda\u0142 rozporz\u0105dzenie w sprawie zwalczania wysoce zjadliwej grypy ptak\u00f3w (HPAI). Obowi\u0105zuje ono na terenie dwudziestu powiat\u00f3w i trzech\u2026",
+      "url": "https://tvn24.pl/tvnwarszawa/okolice/mazowieckie-ptasia-grypa-rozporzadzenie-w-sprawie-zwalczania-wysoce-zjadliwej-grypy-ptakow-hpai-ograniczenia-w-dwudziestu-powiatach-st8764837",
+      "urlToImage": "https://tvn24.pl/_e/i/najnowsze/cdn-zdjecie-j01lg6-ognisko-ptasiej-grypy-zdj-ilustracyjne-ph7780808/alternates/WEBP_LANDSCAPE_840",
+      "publishedAt": "2025-11-21 18:46:58",
+      "content": "Ograniczenia w zwizku z chorobami zakanymi drobiu. Wojewoda mazowiecki Mariusz Frankowski wyda rozporzdzenie w sprawie zwalczania wysoce zjadliwej grypy ptak\u00f3w (HPAI). Obowizuje ono na terenie dwudzi\u2026 [+1548 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.532986",
+      "internal_id": "d8ce01ec123a46b3c44449904ead28d4045799b5dfec2b2929fc278c689d0d81",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25837,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Eoghan Dalton",
+      "title": "Taoiseach joined by other world leaders in pledging combined billions to fight deadly diseases",
+      "description": "The shadow of Donald Trump and his boycott of this year\u2019s G20 loomed large over their addresses.",
+      "url": "https://www.thejournal.ie/g20-ireland-micheal-martin-6882459-Nov2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6882459/river/?height=400&version=6882475",
+      "publishedAt": "2025-11-21 18:39:31",
+      "content": "MICHE\u00c1L MARTIN HAS pledged 72 million from Ireland to the an international effort to fight deadly diseases, including HIV and malaria. The Taoiseach was met with applause after making the announceme\u2026 [+2684 chars]",
+      "retrievedAt": "2025-11-22 19:05:48.126808",
+      "internal_id": "8289c7e44334982dcb5d3005a7237e54801659c29726eca4bc50bad0baa0cd94",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25830,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "4 more measles cases, 1 new exposure site confirmed in Manitoba",
+      "description": "Four more measles cases, and one new measles exposure site at a hospital ER, were confirmed in Manitoba during the second week of November, health officials report.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-cases-weekly-update-9.6987954",
+      "urlToImage": "https://i.cbc.ca/ais/1.7518201,1750463338000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C800%2C450%29%3BResize%3D620",
+      "publishedAt": "2025-11-21 18:17:08",
+      "content": "Four more measles cases, and one new measles exposure site at a hospital ER, were confirmed in Manitoba during the second week of November, health officials report. The number of confirmed infection\u2026 [+1861 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.141020",
+      "internal_id": "f05daa55149eaee8529c4fb8b3719c788438a915f206eb7fd7dab2f7431fc30a",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25831,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "4 more measles cases confirmed in Manitoba",
+      "description": "Four more measles cases were confirmed in Manitoba during the second week of November, health officials report.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-cases-weekly-update-9.6987954",
+      "urlToImage": "https://i.cbc.ca/ais/1.7518201,1750463338000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C800%2C450%29%3BResize%3D620",
+      "publishedAt": "2025-11-21 18:17:08",
+      "content": "Four more measles cases were confirmed in Manitoba during the second week of November, health officials report. The number of confirmed infections rose to 253 by Nov. 15, from 249 as of Nov. 8, say\u2026 [+1583 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.158722",
+      "internal_id": "d309341ed23dec831b04ce789ad6c8f6c9738e4d45730d89dda5a42ed255b9d1",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25827,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Twistedsifter.com",
+      "author": "Michael Levanduski",
+      "title": "Woman Going Viral After Telling Story Of Her Neighbor Lying To Animal Control About Her Dog Having Rabies",
+      "description": "Come on lady, what happened to being a good neighbor?",
+      "url": "http://twistedsifter.com/2025/11/woman-going-viral-after-telling-story-of-her-neighbor-lying-to-animal-control-about-her-dog-having-rabies/",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/animal-control.jpg",
+      "publishedAt": "2025-11-21 15:47:21",
+      "content": "TikTok, Shutterstock For many people, dogs are a beloved part of the family, and they will defend them like they would a child. So, when this woman\u2019s neighbor called animal control on her dog, sayi\u2026 [+2965 chars]",
+      "retrievedAt": "2025-11-22 19:05:45.768679",
+      "internal_id": "ea7207e15849a5a4376ecc5d2ec3c9b04b8badab61c612f68c03cef6d7e26fb1",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25832,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "St George News",
+      "author": "Tracie Sullivan",
+      "title": "Measles surge hits Short Creek as Utah health officials urge vaccinations, early dosing for infants",
+      "description": "A spike in measles cases in Washington County has health officials urging Southern Utah families, particularly those living in communities near the Utah\u2013Arizona border, to ensure they are up to",
+      "url": "https://www.stgeorgeutah.com/life/health-wellness/measles-surge-hits-short-creek-as-utah-health-officials-urge-vaccinations-early-dosing-for-infants/article_6c016122-7775-4d59-bd4c-0e099035278e.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/stgeorgeutah.com/content/tncms/assets/v3/editorial/6/c0/6c016122-7775-4d59-bd4c-0e099035278e/69206c06430c6.social.png",
+      "publishedAt": "2025-11-21 15:18:42",
+      "content": "A spike in measles cases in Washington County has health officials urging Southern Utah families, particularly those living in communities near the UtahArizona border, to ensure they are up to date o\u2026 [+6506 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.210356",
+      "internal_id": "847c7fc77c79dac0e6cf530ac4e2adf432a8c56f1356d9a1421e8e6ad2aec19e",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25835,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Confirmado el primer caso de gripe aviar en aves silvestres en La Rioja",
+      "description": "Una grulla que fue hallada muerta en los Sotos de Alfaro ha resultado positiva en el virus de Influenza Aviar de Alta Patogenicidad H5N1",
+      "url": "https://www.europapress.es/la-rioja/noticia-confirmado-primer-caso-gripe-aviar-aves-silvestres-rioja-20251121142415.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251121142415_1200.jpg",
+      "publishedAt": "2025-11-21 13:24:15",
+      "content": "LOGRO\u00d1O, 21 Nov. (EUROPA PRESS) - La Consejer\u00eda de Agricultura, Ganader\u00eda, Mundo Rural y Medio Ambiente ha recibido este viernes la confirmaci\u00f3n oficial del resultado positivo al virus de la Influ\u2026 [+2145 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.977950",
+      "internal_id": "1722fe2c7e3a9c21ac349c3251f2b05c9483d7fe55b4e42715e0ce5210f87bb8",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25836,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\uc724\uc131\ud6a8",
+      "title": "\ucc3d\uc6d0\uc2dc, \uc8fc\ub0a8\uc800\uc218\uc9c0 \ud0d0\ubc29\ub85c \ub4f1 \uc804\uba74 \ucd9c\uc785\ud1b5\uc81c",
+      "description": "\ucc3d\uc6d0\uc2dc\ub294 \uc8fc\ub0a8\uc800\uc218\uc9c0 \uc5f0\uaf43\ub2e8\uc9c0\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \ud655\uc9c4 \uc0ac\ub840\uac00 \ubc1c\uc0dd\ud568\uc5d0 \ub530\ub77c 11\uc6d4 21\uc77c\ubd80\ud130 \uc8fc\ub0a8\uc800\uc218\uc9c0 \uc77c\uc6d0(\uc0dd\ud0dc\ud0d0\ubc29\ub85c, \uc0dd\ud0dc\ud559\uc2b5\uc2dc\uc124 \ub4f1)\uc5d0 \ub300\ud574 \uc804\uba74 \ucd9c\uc785 \ud1b5\uc81c \uc870\uce58\ub97c \uc2dc\ud589\ud55c\ub2e4\uace0 \ubc1d\ud614\ub2e4. \ucc3d\uc6d0\uc2dc\ub294 \ucd5c\uadfc AI\uac00 \uc804\uad6d\uc801\uc73c\ub85c \ud655\uc0b0\ub428\uc5d0 \ub530\ub77c \uc8fc\ub0a8\uc800\uc218\uc9c0 \uc77c\uc6d0\uc5d0 \ub300\ud55c \uc608\ucc30\ud65c\ub3d9\uc744 \uc9d1\uc911\uc801\uc73c\ub85c \uc2e4\uc2dc\ud574 \uc654\ub2e4. \uc9c0\ub09c 11\uc6d4 9\uc77c \uc608\ucc30\ud65c\ub3d9 \uc911 \ubaa9 \uae30\uc6b8\uc784, \uae30\ub9bd \ubc0f \ube44\ud589 \ubd88\ub2a5 \uc99d\uc0c1\uc744 \ubcf4\uc774\ub294 \uc1e0\uae30\ub7ec\uae30 1\uac1c\uccb4\ub97c \uad6c\uc870\ud558\uc600\uc73c\ub098 \uc775\uc77c \ud3d0\uc0ac\ud558\uc600\uc73c\uba70, AI \uc815\ubc00 \uac80\uc0ac \uacb0\uacfc 11\u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003185002",
+      "urlToImage": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2025/1121/IE003551531_BIG.jpg",
+      "publishedAt": "2025-11-21 12:53:01",
+      "content": "(AI) 11 21 (, ) .AI . 11 9 , 1 , AI 11 21 AI(H5N1) . AI (AI SOP) , AI .",
+      "retrievedAt": "2025-11-22 19:05:47.004484",
+      "internal_id": "a561da8eecd1c64b4d9b36b14cd3059e7e2b5e1f1f5ef5672d3c673bae224f81",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25828,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Michal Ruprecht",
+      "title": "Are there lessons for the U.S. in this European country's struggle with measles?",
+      "description": "In 2024, Romania, an upper middle income European country, had over 30,000 cases \u2014 putting it on the world's top ten measles list. Its vaccination rate hovers around 60%. How did this happen?",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/11/21/g-s1-97678/measles-romania-vaccines",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7955x4475+0+515/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F74%2F012daf6e4386a82b4e06b2a4c017%2Fgettyimages-2227762871.jpg",
+      "publishedAt": "2025-11-21 12:33:31",
+      "content": "As the U.S. continues to face its worst measles outbreak in three decades, another country that has struggled with measles offers a telling case study: the eastern European nation of Romania. Whil\u2026 [+10755 chars]",
+      "retrievedAt": "2025-11-22 19:05:46.121774",
+      "internal_id": "fd765d4b84c5520803e12876c245d58b4a37d8a378f566eb79078408a732dcab",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25838,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Carly Cassella",
+      "title": "Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Scientists Warn",
+      "description": "Despite having plagued humans for millennia, typhoid fever is rarely considered a threat in developed countries today.",
+      "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-scientists-warn",
+      "urlToImage": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
+      "publishedAt": "2025-11-21 12:00:26",
+      "content": "Despite having plagued humans for millennia, typhoid fever is rarely considered a threat in developed countries today. But this ancient killer is still very much a danger in our modern world. Resear\u2026 [+5170 chars]",
+      "retrievedAt": "2025-11-22 19:05:49.151501",
+      "internal_id": "34d21cfc7e690774b16cc3e6aa84ba9deb7054b8204d884f146571a05e25f789",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 25834,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\uc815\ud6c8 \uae30\uc790 jhkim@kyunghyang.com",
+      "title": "\ucc3d\uc6d0 \uc8fc\ub0a8\uc800\uc218\uc9c0 \uc1e0\uae30\ub7ec\uae30 \uace0\ubcd1\uc6d0\uc131 AI \ud655\uc9c4\u2026\ucd9c\uc785\ud1b5\uc81c",
+      "description": "\uacbd\ub0a8 \ucc3d\uc6d0 \uc8fc\ub0a8\uc800\uc218\uc9c0 \ucca0\uc0c8. \uacbd\ud5a5\uc2e0\ubb38 \uc790\ub8cc\uc0ac\uc9c4 \uacbd\ub0a8 \ucc3d\uc6d0\uc2dc\ub294 \uc8fc\ub0a8\uc800\uc218\uc9c0\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \ud655\uc9c4 \uc0ac\ub840\uac00 \ubc1c\uc0dd\ud568\uc5d0 \ub530\ub77c 21\uc77c\ubd80\ud130 \uc8fc\ub0a8\uc800\uc218\uc9c0 \uc77c\uc6d0\uc744 \uc804\uba74 \ucd9c\uc785\ud1b5\uc81c\ud55c\ub2e4\uace0 \ubc1d\ud614\ub2e4. \uc2dc\uc5d0 \ub530\ub974\uba74 \uacbd\ub0a8\uc57c\uc0dd\uc0dd\ubb3c\ubcf4\ud638\ud611\ud68c\ub294 \uc9c0\ub09c 9\uc77c \uc8fc\ub0a8\uc800\uc218\uc9c0 \uc5f0\uaf43\ub2e8\uc9c0\uc5d0\uc11c \ubaa9 \uae30\uc6b8\uc784, \uae30\ub9bd\u00b7\ube44\ud589 \ubd88\ub2a5 \uc99d\uc0c1\uc744 \ubcf4\uc774\ub294 \uc1e0\uae30\ub7ec\uae30 \ud55c \ub9c8\ub9ac\ub97c \uad6c\uc870\ud588\ub2e4. \uc1e0\uae30\ub7ec\uae30\ub294 \ub2e4\uc74c\ub0a0 \ud3d0\uc0ac\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202511211704001",
+      "urlToImage": "https://img.khan.co.kr/news/2025/11/21/news-p.v1.20251121.72ad0e8274e34886b6e4d9fa5bcf6fa9_P1.jpg",
+      "publishedAt": "2025-11-21 08:04:00",
+      "content": "AI 2025.11.21 17:04 . (AI) 21 . 9 , \u00b7 . . AI , 21 AI(H5N1) . . AI .",
+      "retrievedAt": "2025-11-22 19:05:46.960064",
+      "internal_id": "61c8eef1a704602f2a8982c43492c56a1a67dfadfdcd9c80877b65aa079e1f64",
+      "publishedAtLabel": "Nov 21"
+    },
     {
       "id": 25822,
       "query": [
@@ -16038,78 +16254,6 @@
       "content": "At his six-month check up, Jacob Thompson received a combination shot that included the recommended childhood vaccinations against diphtheria, tetanus and pertussis, or DTaP, all deemed safe and effe\u2026 [+9293 chars]",
       "retrievedAt": "2025-10-07 07:07:56.206066",
       "internal_id": "155c569d8803a79f6de404cfb48a418253d7d94e6ac205028c7253a7dafdabc7",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24936,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WHIO",
-      "author": "Whio Staff",
-      "title": "Health officials investigating measles exposure in Ohio",
-      "description": "Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio.",
-      "url": "https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FF3NIKLIH3JHCDJS7TFPQFFKY3U.jpeg?auth=456549e657b19f99fb463a209c4a60bf9a0d422fdf9d3e47414fe27e6796b443&width=1200&height=630&smart=true",
-      "publishedAt": "2025-10-05 18:00:40",
-      "content": "NEW ALBANY, Ohio \u2014 Health officials are investigating after a person with a confirmed case of measles visited two places in Ohio. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks] Columb\u2026 [+1094 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.988882",
-      "internal_id": "fe408884bbd5361fc451207c44b7b9c46aba1b1527c41b08b58a0aa3af382838",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24935,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)",
-      "description": "Sebastian Murdock / HuffPost: South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High \u2014 \u201cThe people involved in the outbreak are unvaccinated and did not have immunity from a previous measles infection,\u201d the state's health agency confirmed.\u2026",
-      "url": "https://www.memeorandum.com/251005/p26",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
-      "publishedAt": "2025-10-05 15:00:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-10-06 19:06:01.915536",
-      "internal_id": "49b99514c4a8935c44057602cf1a835b9b8c28d47d0693e1c1738a4751983557",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24937,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'My daughter went to bed with a headache and never woke up'",
-      "description": "Livia Wilson's mother calls for awareness of meningitis after disease killed her daughter .",
-      "url": "https://www.bbc.com/news/articles/cy0v4p07klvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3fb/live/3b17cda0-a057-11f0-b687-23a5afa8b42e.jpg",
-      "publishedAt": "2025-10-05 12:58:15",
-      "content": "It took 16 weeks and hundreds of tests before meningitis was found to be the cause of Livia Wilson's death Alison Goude never lets the scented diffusers in her teenage daughter's bedroom run out. A\u2026 [+4063 chars]",
-      "retrievedAt": "2025-10-06 19:06:03.254624",
-      "internal_id": "95078373676b94f21df3b5d687d9328a0c9ba19f64051db852dede4b81d60ddb",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 24939,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Haiti battles rabies with vaccines and vigilance",
-      "description": "Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN\u2019s health agency in the region, PAHO. Read Full Story on UN News The post Haiti battles rabies with vaccines and vigilance a\u2026",
-      "url": "https://news.un.org/en/story/2025/10/1166035",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-10-05 12:00:00",
-      "content": "Last July, in the remote locality of But\u00eate, in southern Haiti, nine-year-old Jonas* lost his life to rabies. When a stray dog bit the boy on the leg, the wound seemed minor. Like many families livi\u2026 [+4563 chars]",
-      "retrievedAt": "2025-10-07 07:07:56.328238",
-      "internal_id": "6ba74309364f0c56a80fa0662c60e8034413930da1e728d7a26515d09fc8d84d",
       "publishedAtLabel": "Oct 5"
     }
   ]

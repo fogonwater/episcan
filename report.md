@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-11-22 07:06
-- **Most recent article:** 2025-11-21 06:18:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-11-22 19:05
+- **Most recent article:** 2025-11-21 19:03:37
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-41 | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 29 | 35 | 25 | 35 | 21 | 59 | 21 | 225 |
-| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 16 | 160 |
+| measles | 27 | 35 | 25 | 35 | 21 | 59 | 26 | 228 |
+| h5n1 | 7 | 8 | 32 | 34 | 32 | 31 | 19 | 163 |
 | dengue | 23 | 18 | 14 | 33 | 33 | 22 | 10 | 153 |
-| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 11 | 128 |
+| malaria | 20 | 24 | 17 | 17 | 19 | 20 | 12 | 129 |
 | chikungunya | 10 | 28 | 11 | 9 | 13 | 4 | 1 | 76 |
 | mpox | 10 | 11 | 8 | 20 | 5 | 6 | 3 | 63 |
-| rabies | 6 | 9 | 3 | 1 | 4 | 4 | 1 | 28 |
+| rabies | 5 | 9 | 3 | 1 | 4 | 4 | 2 | 28 |
 | zika | 7 | 1 | 3 | 5 | 9 | 2 | 0 | 27 |
-| meningitis | 5 | 4 | 1 | 5 | 0 | 8 | 3 | 26 |
-| typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 1 | 15 |
-| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 1 | 14 |
+| meningitis | 4 | 4 | 1 | 5 | 0 | 8 | 3 | 25 |
+| typhoid | 4 | 5 | 1 | 1 | 1 | 2 | 2 | 16 |
+| hpai | 1 | 0 | 4 | 2 | 1 | 5 | 2 | 15 |
 | pertussis | 2 | 0 | 1 | 1 | 2 | 2 | 3 | 11 |
 | yersinia | 0 | 2 | 1 | 1 | 4 | 0 | 2 | 10 |
 | leptospirosis | 0 | 4 | 0 | 1 | 1 | 2 | 0 | 8 |
@@ -41,9 +41,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (typhoid)
 
+- [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Scientists Warn](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-scientists-warn) (ScienceAlert)
+
 - [Solos AirGo A5 Review: These AI Smart Glasses Need a Brain Transplant](https://gizmodo.com/solos-airgo-a5-review-these-ai-smart-glasses-need-a-brain-transplant-2000685667) (Gizmodo.com)
 
 ## 25-47 (rabies)
+
+- [Woman Going Viral After Telling Story Of Her Neighbor Lying To Animal Control About Her Dog Having Rabies](http://twistedsifter.com/2025/11/woman-going-viral-after-telling-story-of-her-neighbor-lying-to-animal-control-about-her-dog-having-rabies/) (Twistedsifter.com)
 
 - [Rabies Virus Market Research Report 2025-2035: Recombinant Nanoparticle-based Formulations and Monoclonal Antibody Cocktails are Reshaping the Industry](https://www.globenewswire.com/news-release/2025/11/18/3189740/28124/en/Rabies-Virus-Market-Research-Report-2025-2035-Recombinant-Nanoparticle-based-Formulations-and-Monoclonal-Antibody-Cocktails-are-Reshaping-the-Industry.html) (GlobeNewswire)
 
@@ -72,6 +76,16 @@ Source: [News API](https://newsapi.org/)
 - [How Littler inspired patient to be next darts ace](https://www.bbc.com/news/articles/cvgv66yqlwvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 25-47 (measles)
+
+- ['Absurd Yet Predictable': US Close to Losing Measles Elimination Status Under RFK Jr.](https://www.commondreams.org/news/rfk-measles-elimination) (Common Dreams)
+
+- [4 more measles cases, 1 new exposure site confirmed in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-cases-weekly-update-9.6987954) (CBC News)
+
+- [4 more measles cases confirmed in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-cases-weekly-update-9.6987954) (CBC News)
+
+- [Measles surge hits Short Creek as Utah health officials urge vaccinations, early dosing for infants](https://www.stgeorgeutah.com/life/health-wellness/measles-surge-hits-short-creek-as-utah-health-officials-urge-vaccinations-early-dosing-for-infants/article_6c016122-7775-4d59-bd4c-0e099035278e.html) (St George News)
+
+- [Are there lessons for the U.S. in this European country's struggle with measles?](https://www.npr.org/sections/goats-and-soda/2025/11/21/g-s1-97678/measles-romania-vaccines) (NPR)
 
 - [Mitochondrial targeting by measles virus nucleoprotein modulates viral spread in human airway epithelium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013713) (Plos.org)
 
@@ -117,6 +131,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (malaria)
 
+- [Taoiseach joined by other world leaders in pledging combined billions to fight deadly diseases](https://www.thejournal.ie/g20-ireland-micheal-martin-6882459-Nov2025/) (TheJournal.ie)
+
 - [El Gómez Ulla indemniza a un paciente por no informar de los riesgos de unas pastillas contra el covid](https://www.elconfidencialdigital.com/articulo/defensa/gomez-ulla-indemniza-paciente-informar-riesgos-pastillas-covid/20251120172219990180.html) (Elconfidencialdigital.com)
 
 - [Podcast Episode 17: Bridging an Uncertain Time for a Lifesaving Program](https://blog.givewell.org/2025/11/20/podcast-episode-17-bridging-an-uncertain-time-for-a-lifesaving-program/) (Givewell.org)
@@ -141,9 +157,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (hpai)
 
+- [Ptasia grypa. Ograniczenia w dwudziestu powiatach na Mazowszu](https://tvn24.pl/tvnwarszawa/okolice/mazowieckie-ptasia-grypa-rozporzadzenie-w-sprawie-zwalczania-wysoce-zjadliwej-grypy-ptakow-hpai-ograniczenia-w-dwudziestu-powiatach-st8764837) (Tvn24.pl)
+
 - [Bolu'da ‘kuş gribi’ uyarısı](https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm) (Yenicaggazetesi.com.tr)
 
 ## 25-47 (h5n1)
+
+- [Confirmado el primer caso de gripe aviar en aves silvestres en La Rioja](https://www.europapress.es/la-rioja/noticia-confirmado-primer-caso-gripe-aviar-aves-silvestres-rioja-20251121142415.html) (Europapress.es)
+
+- [창원시, 주남저수지 탐방로 등 전면 출입통제](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003185002) (Ohmynews.com)
+
+- [창원 주남저수지 쇠기러기 고병원성 AI 확진…출입통제](https://www.khan.co.kr/article/202511211704001) (Khan.co.kr)
 
 - [Vogelgrippe für Menschen unbedenklich](https://vorarlberg.orf.at/stories/3330824/) (Vorarlberg.orf.at)
 
@@ -1869,8 +1893,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Form: Rabies antibody tests: pet travel schemes (VLARAB1)](https://www.gov.uk/government/publications/rabies-antibody-tests-pet-travel-schemes-vlarab1) (Www.gov.uk)
 
-- [Haiti battles rabies with vaccines and vigilance](https://news.un.org/en/story/2025/10/1166035) (UN News)
-
 ## 25-41 (pertussis)
 
 - [Odborníci bijú na poplach, čierny kašeľ ohrozuje najmä bábätká. Riešením je očkovanie počas tehotenstva](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/769495-odbornici-biju-na-poplach-cierny-kasel-ohrozuje-najma-babatka-riesenim-je-ockovanie-pocas-tehotenstva/) (Pravda.sk)
@@ -1908,8 +1930,6 @@ Source: [News API](https://newsapi.org/)
 - [Fundraiser launched to support Drag Race UK star Ginny Lemon after meningitis diagnosis](https://www.thepinknews.com/2025/10/06/drag-race-uk-ginny-lemon-fundraiser-meningitis/) (Thepinknews.com)
 
 - [Health experts advocate expanding meningitis vaccinations to prevent other strains](https://interaksyon.philstar.com/trends-spotlights/2025/10/06/303030/health-experts-advocate-expanding-meningitis-vaccinations-to-prevent-other-strains/) (Philippine Star)
-
-- ['My daughter went to bed with a headache and never woke up'](https://www.bbc.com/news/articles/cy0v4p07klvo) (BBC News)
 
 ## 25-41 (measles)
 
@@ -1966,10 +1986,6 @@ Source: [News API](https://newsapi.org/)
 - [Senior MOH official: 'We have already seen tragedies, the vaccine provides protection'](https://www.israelnationalnews.com/news/415880) (Israelnationalnews.com)
 
 - [Why the COVID vaccine isn't part of an injury compensation court](https://www.cbsnews.com/news/why-covid-vaccine-isnt-part-of-injury-compensation-court-60-minutes/) (CBS News)
-
-- [Health officials investigating measles exposure in Ohio](https://www.whio.com/news/local/health-officials-investigating-measles-exposure-ohio/U7BJP4EV3ZBZDNRLJPEKXRDHFI/) (WHIO)
-
-- [South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High (Sebastian Murdock/HuffPost)](https://www.memeorandum.com/251005/p26) (Memeorandum.com)
 
 ## 25-41 (malaria)
 
