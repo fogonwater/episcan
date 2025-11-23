@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-11-23 07:07
-- **Most recent article:** 2025-11-22 06:14:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-11-23 19:05
+- **Most recent article:** 2025-11-22 16:08:07
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 35 | 25 | 35 | 21 | 59 | 26 | 201 |
-| h5n1 | 8 | 32 | 34 | 32 | 31 | 19 | 156 |
-| dengue | 18 | 14 | 33 | 33 | 22 | 11 | 131 |
-| malaria | 24 | 17 | 17 | 19 | 20 | 12 | 109 |
-| chikungunya | 28 | 11 | 9 | 13 | 4 | 1 | 66 |
+| measles | 34 | 25 | 35 | 21 | 59 | 27 | 201 |
+| h5n1 | 6 | 32 | 34 | 32 | 31 | 21 | 156 |
+| dengue | 15 | 14 | 33 | 33 | 22 | 13 | 130 |
+| malaria | 17 | 17 | 17 | 19 | 20 | 12 | 102 |
+| chikungunya | 25 | 11 | 9 | 13 | 4 | 2 | 64 |
 | mpox | 11 | 8 | 20 | 5 | 6 | 3 | 53 |
-| rabies | 9 | 3 | 1 | 4 | 4 | 3 | 24 |
+| rabies | 9 | 3 | 1 | 4 | 4 | 4 | 25 |
+| zika | 1 | 3 | 5 | 9 | 2 | 1 | 21 |
 | meningitis | 4 | 1 | 5 | 0 | 8 | 3 | 21 |
-| zika | 1 | 3 | 5 | 9 | 2 | 0 | 20 |
 | hpai | 0 | 4 | 2 | 1 | 5 | 2 | 14 |
-| typhoid | 4 | 1 | 1 | 1 | 2 | 2 | 11 |
 | leptospirosis | 4 | 0 | 1 | 1 | 2 | 1 | 9 |
+| typhoid | 2 | 1 | 1 | 1 | 2 | 2 | 9 |
 | pertussis | 0 | 1 | 1 | 2 | 2 | 3 | 9 |
 | yersinia | 1 | 1 | 1 | 4 | 0 | 2 | 9 |
 | shigellosis | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
@@ -32,6 +32,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-47 (zika)
+
+- [Insektentränke und Fledermausbox: Leichte Maßnahmen für alle [premium]](https://www.diepresse.com/20329932/insektentraenke-und-fledermausbox-leichte-massnahmen-fuer-alle) (Diepresse.com)
 
 ## 25-47 (yersinia)
 
@@ -46,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 - [Solos AirGo A5 Review: These AI Smart Glasses Need a Brain Transplant](https://gizmodo.com/solos-airgo-a5-review-these-ai-smart-glasses-need-a-brain-transplant-2000685667) (Gizmodo.com)
 
 ## 25-47 (rabies)
+
+- [20 Ways People Would Use One Wish From a Movie Genie](https://trivia.cracked.com/article_49009_20-ways-people-would-use-one-wish-from-a-movie-genie.html) (Cracked.com)
 
 - [Sabah holds major rabies awareness campaign amid cases in neighbouring states](https://www.thestar.com.my/news/nation/2025/11/22/sabah-holds-major-rabies-awareness-campaign-amid-cases-in-neighbouring-states) (The Star Online)
 
@@ -78,6 +84,8 @@ Source: [News API](https://newsapi.org/)
 - [How Littler inspired patient to be next darts ace](https://www.bbc.com/news/articles/cvgv66yqlwvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 25-47 (measles)
+
+- [Is the US at risk of losing its measles elimination status?](https://abcnews.go.com/Health/us-risk-losing-measles-elimination-status/story?id=127763508) (ABC News)
 
 - ['Absurd Yet Predictable': US Close to Losing Measles Elimination Status Under RFK Jr.](https://www.commondreams.org/news/rfk-measles-elimination) (Common Dreams)
 
@@ -169,6 +177,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (h5n1)
 
+- [Những điều cần biết về bệnh cúm gia cầm lây sang người](https://tinhte.vn/thread/nhung-dieu-can-biet-ve-benh-cum-gia-cam-lay-sang-nguoi.4076443/) (Tinhte.vn)
+
+- [В США умер первый заразившийся штаммом птичьего гриппа H5N5](https://tass.ru/obschestvo/25699707) (Tass.ru)
+
 - [Confirmado el primer caso de gripe aviar en aves silvestres en La Rioja](https://www.europapress.es/la-rioja/noticia-confirmado-primer-caso-gripe-aviar-aves-silvestres-rioja-20251121142415.html) (Europapress.es)
 
 - [창원시, 주남저수지 탐방로 등 전면 출입통제](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003185002) (Ohmynews.com)
@@ -209,6 +221,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-47 (dengue)
 
+- [Dengue Cases Are Surging: Crucial Symptoms and Warning Signs You Must Not Ignore](https://www.medicaldaily.com/dengue-cases-are-surging-crucial-symptoms-warning-signs-you-must-not-ignore-473995) (Medical Daily)
+
+- [Insektentränke und Fledermausbox: Leichte Maßnahmen für alle [premium]](https://www.diepresse.com/20329932/insektentraenke-und-fledermausbox-leichte-massnahmen-fuer-alle) (Diepresse.com)
+
 - [Health officials identify new travel-related case of dengue virus on Oahu, bringing total cases to 14 in 2025](https://www.hawaiinewsnow.com/2025/11/21/health-officials-identify-new-travel-related-case-dengue-virus-oahu-bringing-total-cases-14-2025/) (Hawaii News Now)
 
 - [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
@@ -232,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 - [Desde Salud Municipal refuerzan prevención de dengue en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/11/16/desde-salud-municipal-refuerzan-prevencion-de-dengue-en-ciudad-obregon-419728.html) (Tribuna.com.mx)
 
 ## 25-47 (chikungunya)
+
+- [Groźny wirus wymknął się spod kontroli. Tysiące zarażonych na Karaibach](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-wymknal-sie-spod-kontroli-tysiace-zarazonych-na,nId,22457051) (Interia.pl)
 
 - [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
 
@@ -1555,10 +1573,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New vaccine for typhoid, salmonella shows promise](https://www.bostonherald.com/2025/10/14/new-vaccine-for-typhoid-salmonella-shows-promise/) (Boston Herald)
 
-- [Bangladesh rolls out typhoid immunisation drive for 50 million children](https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children) (Al Jazeera English)
-
-- [Bangladesh launches typhoid vaccination drive to combat drug-resistant threat](https://www.thestar.com.my/news/world/2025/10/12/bangladesh-launches-typhoid-vaccination-drive-to-combat-drug-resistant-threat) (The Star Online)
-
 ## 25-42 (rabies)
 
 - [Mumbai: 21-year-old dies of rabies in Ambernath](https://timesofindia.indiatimes.com/city/mumbai/mumbai-21-year-old-dies-of-rabies-in-ambernath/articleshow/124672416.cms) (The Times of India)
@@ -1683,8 +1697,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreaks Send Students Into Quarantine](https://www.newser.com/story/376713/measles-outbreaks-send-students-into-quarantine.html) (Newser)
 
-- [Mike’s Blog Roundup](https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday) (Crooksandliars.com)
-
 ## 25-42 (malaria)
 
 - [El River de Marcelo Gallardo viaja a Córdoba para salir de la crisis](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-viaja-a-cordoba-para-salir-de-la-crisis.phtml) (Perfil.com)
@@ -1721,20 +1733,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO: Antibiotikaresistenz steigt weltweit deutlich an](https://www.spektrum.de/news/who-antibiotikaresistenz-steigt-weltweit-deutlich-an/2291116) (Spektrum.de)
 
-- [Weltweiter Kampf gegen Infektionskrankheiten: Gesundheitsministerin Warken fordert Stärkung der WHO](https://www.tagesspiegel.de/politik/weltweiter-kampf-gegen-infektionskrankheiten-gesundheitsministerin-warken-fordert-starkung-der-who-14546264.html) (Der Tagesspiegel)
-
-- [Infektionskrankheiten: Deutschland sagt eine Milliarde für Kampf gegen Aids und Malaria zu](https://www.zeit.de/politik/deutschland/2025-10/aids-tuberkulose-malaria-globaler-fond-deutschland) (Die Zeit)
-
-- [Bill Gates lobt „Führungsstärke“: Deutschland sagt eine Milliarde Euro für Aids-Bekämpfung zu](https://www.tagesspiegel.de/politik/bill-gates-lobt-fuhrungsstarke-deutschland-sagt-eine-milliarde-euro-fur-aids-bekampfung-zu-14544230.html) (Der Tagesspiegel)
-
-- [Weltgesundheitsgipfel in Berlin: Deutschland gibt eine Milliarde für Kampf gegen Aids und Malaria](https://www.n-tv.de/politik/Deutschland-gibt-eine-Milliarde-fuer-Kampf-gegen-Aids-und-Malaria-article26091244.html) (N-tv.de)
-
-- [Infektionskrankheiten: Deutschland gibt eine Milliarde gegen Seuchen](https://www.sueddeutsche.de/politik/infektionskrankheiten-deutschland-gibt-eine-milliarde-gegen-seuchen-li.3324902) (Süddeutsche Zeitung)
-
-- [Deutschland gibt eine Milliarde Euro gegen Infektionskrankheiten](https://www.tagesschau.de/inland/gesellschaft/krankheiten-bekaempfung-bundesregierung-100.html) (tagesschau.de)
-
-- [Trotz Haushaltskürzungen: Deutschland investiert eine Milliarde Euro im Kampf gegen Aids, Tuberkulose und Malaria](https://www.tagesspiegel.de/politik/trotz-haushaltskurzungen-deutschland-investiert-eine-milliarde-euro-im-kampf-gegen-aids-tuberkulose-und-malaria-14543771.html) (Der Tagesspiegel)
-
 ## 25-42 (leptospirosis)
 
 - [Murió una persona de leptospirosis en Montevideo: por qué la lluvia importa en el contagio](https://www.montevideo.com.uy/Salud/Murio-una-persona-de-leptospirosis-en-Montevideo-por-que-la-lluvia-importa-en-el-contagio-uc940202) (Montevideo.com.uy)
@@ -1758,10 +1756,6 @@ Source: [News API](https://newsapi.org/)
 - [Quinto foco de gripe aviar en Valladolid en menos de un mes: casi 900.000 aves sacrificadas desde septiembre](https://www.elespanol.com/castilla-y-leon/region/valladolid/20251013/quinto-foco-gripe-aviar-valladolid-mes-aves-sacrificadas-septiembre/1003743967777_0.html) (Elespanol.com)
 
 - [Foco de influenza aviar en una granja con 66.000 aves de la zona vigilada en Olmedo](https://www.europapress.es/castilla-y-leon/noticia-foco-influenza-aviar-granja-66000-aves-zona-vigilada-olmedo-20251013194956.html) (Europapress.es)
-
-- [NIH-funded Scientists Engineered Hybrid Bird Flu Virus in Europe, Tested in U.S.](https://www.shtfplan.com/headline-news/nih-funded-scientists-engineered-hybrid-bird-flu-virus-in-europe-tested-in-u-s) (Shtfplan.com)
-
-- [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
 
 ## 25-42 (dengue)
 
@@ -1794,12 +1788,6 @@ Source: [News API](https://newsapi.org/)
 - [Baglung Battles Dengue: “Search and Destroy” Launched](https://nep123.com/baglung-battles-dengue-search-and-destroy-launched/) (Nep123.com)
 
 - [Dengue cases rising: 413 new infection in a week](https://mypeoplesreview.com/2025/10/13/dengue-cases-rising-413-new-infection-in-a-week/) (Mypeoplesreview.com)
-
-- [Dengue Outbreak in Nepal: Cases Surge, Fatalities Reported](https://nep123.com/dengue-outbreak-in-nepal-cases-surge-fatalities-reported/) (Nep123.com)
-
-- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
-
-- [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
 
@@ -1852,9 +1840,3 @@ Source: [News API](https://newsapi.org/)
 - [New York health officials confirm state’s first locally acquired case of chikungunya virus](https://www.news4jax.com/health/2025/10/15/new-york-health-officials-confirm-states-first-locally-acquired-case-of-chikungunya-virus/) (WJXT News4JAX)
 
 - [Brazil opens world’s largest mosquito biofactory to fight disease](https://www.upi.com/Health_News/2025/10/13/brazil-mosquito-factory-dengue-Zika-chikungunya-viruses/5701760117419/) (UPI.com)
-
-- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
-
-- [ΕΕ: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν φέτος αυτά του Δυτικού Νείλου](https://www.skai.gr/news/health/ee-ta-krousmata-tsikoungkounia-kai-dagkeiou-pyretou-kseperasan-fetos-ayta-tou-dytikou-neil) (Skai.gr)
-
-- [Συναγερμός στην Ευρώπη για το κουνούπι «Τίγρης της Ασίας»: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν αυτά του Δυτικού Νείλου](https://www.protothema.gr/ugeia/article/1709459/sunagermos-stin-europi-gia-to-kounoupi-tigris-tis-asias-ta-krousmata-tsikoungounia-kai-dageiou-puretou/) (Protothema.gr)
