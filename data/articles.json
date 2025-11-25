@@ -1,8 +1,297 @@
 {
-  "last_updated": "2025-11-25 07:08",
+  "last_updated": "2025-11-25 19:06",
   "count_articles_total": 813,
-  "count_articles_new": 6,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 25877,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Andrew Powell",
+      "title": "Jamaica: Six Dead Amid Leptospirosis Outbreak In Aftermath Of Record-Setting Hurricane Melissa",
+      "description": "In the wake of Hurricane Melissa \u2014 a Category 5 that ravaged Jamaica in late October \u2014 health officials in the nation have declared a leptospirosis outbreak.",
+      "url": "https://dailycaller.com/2025/11/24/jamaica-six-dead-leptospirosis-outbreak-hurricane-melissa/",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/11/GettyImages-2243601976-scaled-e1764003659195.jpg",
+      "publishedAt": "2025-11-24 17:07:44",
+      "content": "In the wake of Hurricane Melissa \u2014 a ferocious Category 5 storm that ravaged Jamaica in late October \u2014 health officials in the nation have declared a leptospirosis outbreak. Dr. Christopher Tufton, \u2026 [+1886 chars]",
+      "retrievedAt": "2025-11-25 19:06:30.749031",
+      "internal_id": "213daf20921337199b710faec30a886092b808d9598ba6c6dabbd12fbe5460b9",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25872,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "snt-malaria-budgeting 0.4.2",
+      "description": "A Python library for calculating malaria intervention budgets",
+      "url": "https://pypi.org/project/snt-malaria-budgeting/0.4.2/",
+      "urlToImage": null,
+      "publishedAt": "2025-11-24 17:03:12",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.560076",
+      "internal_id": "e9820d8e0922b1e3b3a7ac89eff012e382d48472dc9edabd846d94393c466891",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25866,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Vorarlberg.orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippe in Lindau nachgewiesen",
+      "description": "Im Stadtgebiet von Lindau am Bodensee ist an einer verendeten Saatkr\u00e4he das Vogelgrippe-Virus nachgewiesen worden. Das teilte das zust\u00e4ndige Veterin\u00e4ramt am Montag mit und bat um erh\u00f6hte Wachsamkeit insbesondere beim Auffinden toter V\u00f6gel und im Umgang mit Ha\u2026",
+      "url": "https://vorarlberg.orf.at/stories/3331352/",
+      "urlToImage": "https://ibs.orf.at/vbg?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2025%2F48%2F33%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2844565_master_1098333_corvus_frugilegus_2_1.jpg%3Fs%3D22f855c160f02a259cefa617b31cb4c370e3f485",
+      "publishedAt": "2025-11-24 14:46:44",
+      "content": "Im Landkreis Lindau im benachbarten Deutschland ist damit der erste Fall der Vogelgrippe (H5N1) best\u00e4tigt worden, teilte das Landratsamt Lindau (entspricht etwa einer Bezirkshauptmannschaft) mit. Bis\u2026 [+1038 chars]",
+      "retrievedAt": "2025-11-25 19:06:28.769216",
+      "internal_id": "e7454e95e6e2a574786bd3d453d1f9245aab22a265080dd93924beb9cc33409b",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25876,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Viona Wanjiru",
+      "title": "Ministry of Health Urges Vigilance as Public Health Lab Handles Rising Disease Samples",
+      "description": "Muthoni revealed that the laboratory is currently handling samples of cholera, mpox, and marburg, noting that such cases highlight the need for strong public health precautions.",
+      "url": "http://www.kenyans.co.ke/news/118276-ministry-health-urges-vigilance-public-health-lab-handles-rising-disease-samples",
+      "urlToImage": "http://www.kenyans.co.ke/files/styles/article_style/public/images/media/ps%20mary%20muthoni%20health.jpg?itok=43E5xQg4",
+      "publishedAt": "2025-11-24 14:10:58",
+      "content": "Health Principal Secretary Mary Muthoni has called for heightened vigilance during the festive season, following the continued receipt of samples at the Kenya National Public Health Laboratory for va\u2026 [+1960 chars]",
+      "retrievedAt": "2025-11-25 19:06:30.145118",
+      "internal_id": "e198a9e4e94ba43c51a26843b227256b1014869a1091f4c4755ef03a7f75223c",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25868,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricardo E. Correa Fierro, Noroska Gabriela Mogoll\u00f3n Salazar, Washington B. C\u00e1rdenas, Evencio Joel Medina-Villamizar, Jefferson Pastu\u00f1a-Fasso, Melanie Ochoa-Ocampo, Giovanna Mor\u00e1n-Marcillo, Mary Ernestina Regato Arrata, Mildred Zambrano, Joyce Andrade, Juan Chang, Saurabh Mehta, Fernanda Bertuccez Cordeiro",
+      "title": "Dengue virus infection in children: Serum lipidomics profiling for biomarker discovery",
+      "description": "Author summary Dengue fever is a mosquito-borne viral disease that affects millions of people worldwide, with higher incidence in tropical and subtropical regions. Children and adolescents are particularly vulnerable, which makes early detection a crucial ste\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013691",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013691.strk&size=inline",
+      "publishedAt": "2025-11-24 14:00:00",
+      "content": "Citation: Fierro REC, Salazar NGM, C\u00e1rdenas WB, Medina-Villamizar EJ, Pastu\u00f1a-Fasso J, Ochoa-Ocampo M, et al. (2025) Dengue virus infection in children: Serum lipidomics profiling for biomarker disco\u2026 [+31393 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.030787",
+      "internal_id": "767915a6e89dcc15b1534a488dfef20cf489d4f9dd8641db7c716fe670f9f64b",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25869,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bethel Alebel Bayrau, Caroline Ichura, Amna Tariq, Christabel Achieng Winter, Jael Sagina Amugongo, Victoria Atieno Okuta, Laura Wanjala Mwambingu, Kevin Onyango Ogamba, Karren Nyumbile Shaita, Charles Ochieng Ronga, Philip Chebii, Said Lipi Malumbo, Omar Katana Godana, Zainabu Jawa Jembe, Charles M. Ng\u2019ang\u2019a, Mwangosho Mazera Mshahame, Esra Buyukcangaz, Eleonora Migliore, Donal Bisanzio, Bryson Ndenga, Francis Mutuku, A. Desiree LaBeaud",
+      "title": "Risk factors associated with dengue and chikungunya seroprevalence and seroconversion among urban populations in western and coastal Kenya",
+      "description": "Author summary Dengue (DENV) and chikungunya (CHIKV) viruses remain understudied in the African continent despite being major public health threats. We conducted a longitudinal prospective cohort study to determine the magnitude of DENV and CHIKV seroprevalen\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013740",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013740.g005&size=inline",
+      "publishedAt": "2025-11-24 14:00:00",
+      "content": "Abstract Background Dengue virus (DENV) and chikungunya virus (CHIKV) are arboviruses that are endemic to Kenya. Most DENV infections are asymptomatic resulting in underreporting of cases and sympt\u2026 [+54866 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.040428",
+      "internal_id": "23b1e7d79f8fd2d1cdc1a8328c41e441df56d2657ddf6249c87afc7696c87497",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25871,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yi-Hao Huang, Shih-Hsin Chang, Chien-Ju Cheng, Yi-Hsuan Lin, Yu-Chi Chou, Chyi-Liang Chen, Kuang-Yao Chen",
+      "title": "Combination therapy with 3-Hydroxybenzaldehyde and Albendazole modulates mitochondrial protein expression in astrocytes after Angiostrongylus cantonensis infection",
+      "description": "Author summary Angiostrongylus cantonensis (rat lungworm) is a major food-borne zoonotic parasite that causes severe central nervous system pathologies in humans, including eosinophilic meningitis and meningoencephalitis. Therapeutic strategies for cerebral a\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013773",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013773.g012&size=inline",
+      "publishedAt": "2025-11-24 14:00:00",
+      "content": "Abstract Background Angiostrongylus cantonensis is a zoonotic nematode that causes eosinophilic meningitis and central nervous system injury in humans; 3-hydroxybenzaldehyde (3-HBA) is a benzaldehy\u2026 [+40193 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.191093",
+      "internal_id": "b329b89505e89ad1ac00079f54724b6b5f4f601544af1d4293b36763268f67b5",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25875,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jackline Jeruto Kosgei, Daniel P. McDermott, Seline Omondi, Vincent Moshi, Martin J. Donnelly, Collins Ouma, Prashanth Selvaraj, Angela F. Harris, Julian Entwistle, Feiko O. Ter Kuile, Keith Fraser, Lazaro Mwandigha, Bernard Abong\u2019o, John E. Gimnig, Eric Ochomo",
+      "title": "Quantification of Anopheles daily sugar feeding rates in Siaya county, western Kenya using Attractive Sugar Baits",
+      "description": "Background Vector control is an essential component of malaria prevention that has contributed to the reduction in malaria burden since 2000. Although steady progress in malaria vector control has been achieved over the years, the malaria burden remains subst\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337207",
+      "urlToImage": null,
+      "publishedAt": "2025-11-24 14:00:00",
+      "content": "Citation: Kosgei JJ, McDermott DP, Omondi S, Moshi V, Donnelly MJ, Ouma C, et al. (2025) Quantification of Anopheles daily sugar feeding rates in Siaya county, western Kenya using Attractive Sugar Ba\u2026 [+37941 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.606439",
+      "internal_id": "33567f326b8116f6465144c1945f27806156ef0153b4891760958f2c46c1f65b",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25878,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Paul Le Turnier, Margot Oberlis, Anne Lavergne, Lo\u00efc Epelboin, Mathieu Picardeau",
+      "title": "Leptospirosis seroprevalence and exposure factors in three informal settlements of French Guiana: An opportunistic survey",
+      "description": "Author summary Leptospirosis is a neglected bacterial disease spread mainly through contact with water or soil contaminated by rodents which can cause severe illness. In French Guiana, people living in informal settlements often face precarious conditions suc\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013764",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013764.strk&size=inline",
+      "publishedAt": "2025-11-24 14:00:00",
+      "content": "Abstract Background Leptospirosis is a zoonotic disease of increasing importance in French Guiana. It particularly affects subjects living in precarious conditions. We aimed to determine the seropr\u2026 [+41416 chars]",
+      "retrievedAt": "2025-11-25 19:06:30.776208",
+      "internal_id": "75755c6dd155742de2d24b92e7cd16ff1a85fbe5346236a3bc31f9c68c1d1a27",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25862,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "C\u00e9line Gounder",
+      "title": "Ca\u00edda de las tasas de vacunaci\u00f3n y de la inmunidad alimentan brotes de tos convulsa",
+      "description": "Texas registr\u00f3 1.928 casos de tos convulsa en 2024. Para octubre de 2025, el estado ya superaba los 3.500. A nivel nacional, las cifras son igual de alarmantes.",
+      "url": "https://kffhealthnews.org/news/article/caida-de-las-tasas-de-vacunacion-y-de-la-inmunidad-alimentan-brotes-de-tos-convulsa/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/11/GettyImages-2194107119.jpg",
+      "publishedAt": "2025-11-24 13:58:13",
+      "content": "C\u00e9line GounderLas tasas de tos convulsa, tambi\u00e9n conocida como tos ferina o pertussis, est\u00e1n aumentando en Texas, Florida, California, Oregon y otras localidades y estados del pa\u00eds. Seg\u00fan entrevista\u2026 [+8392 chars]",
+      "retrievedAt": "2025-11-25 19:06:27.219813",
+      "internal_id": "4b49740354e2bc6f346738ca558f1bc0ff8a5c44489c8cfb2a94d8286f8291cf",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25865,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0906\u091c\u0924\u0915 \u0938\u093e\u0907\u0902\u0938 \u0921\u0947\u0938\u094d\u0915",
+      "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0907\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0907\u0902\u0938\u093e\u0928 \u0915\u0940 \u092e\u094c\u0924, \u091c\u093e\u0928\u0935\u0930\u094b\u0902 \u0938\u0947 \u092b\u0948\u0932\u093e \u0925\u093e \u0938\u0902\u0915\u094d\u0930\u092e\u0923",
+      "description": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0935\u0949\u0936\u093f\u0902\u0917\u091f\u0928 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 H5N5 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u092a\u0939\u0932\u0940 \u0907\u0902\u0938\u093e\u0928\u0940 \u092e\u094c\u0924 \u0939\u0941\u0908. \u092c\u0941\u091c\u0941\u0930\u094d\u0917 \u092e\u0930\u0940\u091c \u0915\u094b \u0918\u0930 \u0915\u0947 \u092a\u0915\u094d\u0937\u093f\u092f\u094b\u0902 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0939\u0941\u0906 \u0925\u093e. \u0907\u0938 \u0938\u093e\u0932 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092f\u0939 \u0926\u0942\u0938\u0930\u0940 \u092e\u094c\u0924 \u0939\u0948. \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0928\u0947 \u0915\u0939\u093e- \u0906\u092e \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0916\u0924\u0930\u093e \u0915\u092e \u0939\u0948, \u0907\u0902\u0938\u093e\u0928 \u0938\u0947 \u0907\u0902\u0938\u093e\u0928 \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u092b\u0948\u0932 \u0930\u2026",
+      "url": "https://www.aajtak.in/science/story/first-death-in-us-h5n5-bird-flu-dskc-2395634-2025-11-24",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/692460b87cb31-h5n5-bird-flu-virus-244211100-16x9.jpg",
+      "publishedAt": "2025-11-24 13:47:21",
+      "content": ". . H5N5 . . . . ? ( 125 ) . , ( ) . . H5N5 . (CDC) . , . . . . H5N5 ? . H5N5 , . . H5N1 H5N1 70 . H5N5 . ? . . . \u2026 [+167 chars]",
+      "retrievedAt": "2025-11-25 19:06:28.750137",
+      "internal_id": "09143f3dd5db7b9dad8b9bae8298d04c7a41796572defdbfae2a90c6623fc4af",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25870,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases rise to 7,882 in Nepal, 55 new infections reported this week",
+      "description": "KATHMANDU: A total of 55 new dengue infections have been reported across Nepal in the past week, taking the nationwide count to 7,882, according to the Epidemiology and Disease Control Division (EDCD). EDCD data shows that out of 109 people tested for dengue \u2026",
+      "url": "https://english.khabarhub.com/2025/24/507529/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-11-24 13:45:48",
+      "content": "KATHMANDU: A total of 55 new dengue infections have been reported across Nepal in the past week, taking the nationwide count to 7,882, according to the Epidemiology and Disease Control Division (EDCD\u2026 [+562 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.075318",
+      "internal_id": "4b0850d8c45c5e639bf2b7e32117f911b8cb54b4f20310ba393795e867f4f055",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25863,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "M\u0103d\u0103lina Dinu",
+      "title": "Bruxelles actualizeaz\u0103 m\u0103surile \u00eempotriva gripei aviare dup\u0103 ce a detectat \u00eenc\u0103 96 de focare \u00een UE. Virusul, detectat \u0219i la grani\u021ba cu Rom\u00e2nia",
+      "description": "Comisia European\u0103 (CE) a extins zonele de protec\u021bie \u0219i supraveghere din statele membre \u00een urma apari\u021biei a \u00eenc\u0103 96 de focare de grip\u0103 aviar\u0103 \u00eenalt patogen\u0103 (HPAI) \u00een r\u00e2ndul p\u0103s\u0103rilor migratoare \u0219i al fermelor care cresc p\u0103s\u0103ri de curte \u0219i alte p\u0103s\u0103ri captive.",
+      "url": "https://www.mediafax.ro/stirile-zilei/bruxelles-actualizeaza-masurile-impotriva-gripei-aviare-dupa-ce-a-detectat-inca-96-de-focare-in-ue-virusul-detectat-si-la-granita-cu-romania-23647101",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/10/pexels-enginakyurt-1769279-scaled.jpg",
+      "publishedAt": "2025-11-24 12:03:02",
+      "content": "Conform Deciziei de punere \u00een aplicare 2025/2366, publicat luni \u00een Jurnalul Oficial al Uniunii Europene (JOUE), au fost raportate focare \u00een Bulgaria, Cehia, Danemarca, Frana, Italia, Germania, Ungari\u2026 [+1649 chars]",
+      "retrievedAt": "2025-11-25 19:06:28.350065",
+      "internal_id": "e83797db2528a6a59f02fdc28b3a8271a877b35446a13db0edf05d4e8b3e7a3a",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25864,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u0418\u0440\u0438\u043d\u0430 \u041d\u0435\u0432\u0438\u043d\u043d\u0430\u044f",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0433\u0438\u0431\u0435\u043b\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5",
+      "description": "\u0418\u0437 \u0421\u0428\u0410 \u043f\u043e\u0441\u0442\u0443\u043f\u0438\u043b\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u0448\u0442\u0430\u043c\u043c\u0430 H5N5, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043f\u0430\u0446\u0438\u0435\u043d\u0442 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f - \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0435.",
+      "url": "https://rg.ru/2025/11/24/v-ssha-zafiksirovan-pervyj-sluchaj-gibeli-cheloveka-ot-ptichego-grippa-h5n5.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/24/ria_5980802hr_0d4.jpg",
+      "publishedAt": "2025-11-24 11:15:03",
+      "content": "\" H5N5 - . , H5N1 - 2.3.4.4b\", - . H5N5 , , . H5N5 (, .), 2025 . \" . \", - . - , . , - , . . \"\" , H5N5. - , H5. , , . , , .",
+      "retrievedAt": "2025-11-25 19:06:28.696947",
+      "internal_id": "8121bf87204d4a71f8f1b853e66914b861dcae3b3a7e0d08c835207455cf32d9",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25873,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketplace.org",
+      "author": "Marketplace",
+      "title": "AI-generated \"letters to the editor\" are flooding academic publications",
+      "description": "Dr. Carlos Chaccour, physician scientist at the University of Navarra, noticed something fishy about a letter to the editor the New England Journal of Medicine received shortly after it published a paper of his on malaria treatment in July.The letter was ridd\u2026",
+      "url": "https://www.marketplace.org/episode/2025/11/24/ai-generated-letters-to-the-editor-are-flooding-academic-publications",
+      "urlToImage": "https://img.apmcdn.org/c1aed85e1fe7173d7ec2696f082a64f98028ddbc/widescreen/135f0f-20251121-robot-hand-holding-pen-to-paper-2000.jpg",
+      "publishedAt": "2025-11-24 11:00:00",
+      "content": "Dr. Carlos Chaccour, physician scientist at the University of Navarra, noticed something fishy about a letter to the editor the New England Journal of Medicine received shortly after it published a p\u2026 [+883 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.587098",
+      "internal_id": "6d5ae0005cef53aeb3f71f8b652063cc4f1f19d1691ea2b47865cfff36d12bf4",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 25867,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Wolbachia mosquitoes to be released at 4 more sites, including Bedok and Marsiling, to curb dengue",
+      "description": "This will bring the total Wolbachia coverage in Singapore to 660,000 households, the National Environment Agency (NEA) said.",
+      "url": "https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquitoes-release-dengue-marsiling-woodlands-bedok-kaki-bukit-kembangan-5486911",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--PqwfHDx6--/c_crop,h_576,w_1024,x_0,y_37/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/11/24/000_1mq7el.jpg?itok=K6FuR_a4",
+      "publishedAt": "2025-11-24 10:43:00",
+      "content": "Dr Puthucheary said in a video on social media that the four locations were selected based on factors such as historical dengue risk and the size of their Aedes mosquito populations. \"Residents in t\u2026 [+1608 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.003701",
+      "internal_id": "70f936a18200336781c9ff7147ed9a09fa34caea81b724f2edbe9c13cedc7b01",
+      "publishedAtLabel": "Nov 24"
+    },
     {
       "id": 25861,
       "query": [
@@ -145,6 +434,24 @@
       "content": "South Africa is one of only a few countries to raise its contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria, which closed its replenishment drive on Friday with just $11.34bn in \u2026 [+4167 chars]",
       "retrievedAt": "2025-11-24 19:05:55.897045",
       "internal_id": "fafaf91f5b07b70f9d8e4728fe91abbe015a866e3e62cd245904aa6f5402f17c",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25874,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Malaria vaccine price cut set to protect 7 million more children by 2030",
+      "description": "Vaccine alliance Gavi and children\u2019s agency UNICEF have struck a new pricing deal that will sharply cut the cost of a key malaria vaccine and make it possible to protect nearly seven million additional children by 2030, the agencies announced on Sunday. Read \u2026",
+      "url": "https://news.un.org/en/story/2025/11/1166432",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-11-2024-UNICEF-Sudan-malaria-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-11-23 12:00:00",
+      "content": "Under the agreement, the price of the R21/Matrix-M vaccine will fall to $2.99 per dose within a year a reduction expected to save up to $90 million. Those savings should allow countries to secure mor\u2026 [+2292 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.596607",
+      "internal_id": "d3d206b99c6266f9b10e1754ec5d62058353b743fbb20c4c80fe736d3663a166",
       "publishedAtLabel": "Nov 23"
     },
     {
@@ -14370,313 +14677,6 @@
       "content": "NASHUA, N.H. \u2014The Nashua Division of Public Health is urging people to use caution around wildlife after a raccoon tested positive for rabies. Officials say the animal was recently captured, but did\u2026 [+484 chars]",
       "retrievedAt": "2025-10-14 07:07:51.592952",
       "internal_id": "0c357240b6e07f8514ca844b7a339f5e08f48b91fd4cf67a6bc5a80f3909a68a",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25059,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Caspar Schwietering",
-      "title": "Weltweiter Kampf gegen Infektionskrankheiten: Gesundheitsministerin Warken fordert St\u00e4rkung der WHO",
-      "description": "Die USA haben die WHO verlassen, nun drohen bei der weltweiten Bek\u00e4mpfung von Krankheiten wie Aids, Tuberkulose und Malaria R\u00fcckschritte. Gesundheitsministerin Warken will die Organisation nun st\u00e4rken.",
-      "url": "https://www.tagesspiegel.de/politik/weltweiter-kampf-gegen-infektionskrankheiten-gesundheitsministerin-warken-fordert-starkung-der-who-14546264.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14546261/alternates/BASE_16_9_W1400/1760291106000/ministerin-warken.jpeg",
-      "publishedAt": "2025-10-12 18:22:13",
-      "content": "Bundesgesundheitsministerin Nina Warken (CDU) hat vor ihrem Auftritt auf dem World Health Summit in Berlin an diesem Montag betont, wie wichtig die internationale Zusammenarbeit bei der Bek\u00e4mpfung vo\u2026 [+3164 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.612329",
-      "internal_id": "3ad37fb7bee3428a35dc623b1651afcc69a9237e51400ca07519f0d9f3ffc272",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25050,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Willow Tohi",
-      "title": "NIH-funded Scientists Engineered Hybrid Bird Flu Virus in Europe, Tested in U.S.",
-      "description": "The NIH funded the creation of a synthetic H5N1 hybrid virus using genetic material from multiple flu strains in European labs.",
-      "url": "https://www.shtfplan.com/headline-news/nih-funded-scientists-engineered-hybrid-bird-flu-virus-in-europe-tested-in-u-s",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/birdflu2.jpg",
-      "publishedAt": "2025-10-12 17:00:39",
-      "content": "This article was originally published by Willow Tohi at Natural News. The NIH funded the creation of a synthetic H5N1 hybrid virus using genetic material from multiple flu strains i\u2026 [+4481 chars]",
-      "retrievedAt": "2025-10-13 19:05:39.808882",
-      "internal_id": "b4324e0642b47ed9bfb2cc069d6c24dfc980fe81bb1589f1fe3c3b74600f64da",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25057,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "DIE ZEIT: Deutschland - Marla Noss",
-      "title": "Infektionskrankheiten: Deutschland sagt eine Milliarde f\u00fcr Kampf gegen Aids und Malaria zu",
-      "description": "Deutschland stellt f\u00fcr den Globalen Fonds zur Bek\u00e4mpfung von HIV/Aids, Tuberkulose und Malaria eine Milliarde Euro bereit. Der Fonds rettete seit 2002 rund 70 Mio. Leben.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-10/aids-tuberkulose-malaria-globaler-fond-deutschland",
-      "urlToImage": "https://img.zeit.de/politik/ausland/2025-10/deutschland-kampf-gegen-aids-bild/wide__1300x731",
-      "publishedAt": "2025-10-12 16:41:02",
-      "content": "F\u00fcr die kommenden drei Jahre hat Deutschland dem Globalen Fonds zur Bek\u00e4mpfung von HIV/Aids, Tuberkulose und Malaria eine Milliarde Euro zur Verf\u00fcgung gestellt. Das k\u00fcndigte Bundesentwicklungsministe\u2026 [+788 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.590778",
-      "internal_id": "238b1ffd3b281602ecd9322ab7054764b08d195e4f2928dfc161091c3a176cd5",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nep123.com",
-      "author": "Editor",
-      "title": "Dengue Outbreak in Nepal: Cases Surge, Fatalities Reported",
-      "description": "Dengue Outbreak in Nepal: Cases Surge and Claim Lives A concerning dengue outbreak is sweeping across Nepal, with the latest reports indicating a rapid increase in infections and, tragically, multiple fatalities. According to the Vector-Borne Disease Control \u2026",
-      "url": "https://nep123.com/dengue-outbreak-in-nepal-cases-surge-fatalities-reported/",
-      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "publishedAt": "2025-10-12 15:33:39",
-      "content": "Dengue Outbreak in Nepal: Cases Surge and Claim Lives A concerning dengue outbreak is sweeping across Nepal, with the latest reports indicating a rapid increase in infections and, tragically, multip\u2026 [+1808 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.230818",
-      "internal_id": "cca573efafdab5b4f3b0c518bc0269f91a6b1a556ffe328e06c4af3258e90e9f",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25052,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Macau alerta para subida nos casos de febre chikungunya",
-      "description": "Servi\u00e7os de Sa\u00fade de Macau revelaram a dete\u00e7\u00e3o de mais dois casos locais, elevando para oito o n\u00famero de pessoas portadoras do v\u00edrus chikungunya, que provoca sintomas semelhantes aos da dengue.",
-      "url": "https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A85%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F10%2F12112126%2F40113870.jpg?layer=obstop:T",
-      "publishedAt": "2025-10-12 15:09:22",
-      "content": "As autoridades da regi\u00e3o semiaut\u00f3noma chinesa de Macau lan\u00e7aram este domingo um alerta \u00e0 popula\u00e7\u00e3o, face ao aumento das infe\u00e7\u00f5es locais pelo v\u00edrus chikungunya, ap\u00f3s um surto na vizinha prov\u00edncia chin\u2026 [+2755 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.136586",
-      "internal_id": "4aee782c1832afe4565e1c5f7f9c35d260e1ff1144d73d7fc44073ea3c3167db",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25061,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Marie Zahout",
-      "title": "Bill Gates lobt \u201eF\u00fchrungsst\u00e4rke\u201c: Deutschland sagt eine Milliarde Euro f\u00fcr Aids-Bek\u00e4mpfung zu",
-      "description": "Deutschland stellt dem Globalen Fonds weniger Geld als bisher zur Verf\u00fcgung, um Aids, Malaria und Tuberkulose zu bek\u00e4mpfen. Microsoft-Gr\u00fcnder Bill Gates und U2-S\u00e4nger Bono sind dennoch erleichtert.",
-      "url": "https://www.tagesspiegel.de/politik/bill-gates-lobt-fuhrungsstarke-deutschland-sagt-eine-milliarde-euro-fur-aids-bekampfung-zu-14544230.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14544170/alternates/BASE_16_9_W1400/1760274832000/bill-gates-at-rendez-vous-de-bercy-paris-microsoft-co-founder-and-bill-melinda-gates-foundation-co-chair-bill-gates.jpeg",
-      "publishedAt": "2025-10-12 13:50:40",
-      "content": "Bundesentwicklungsministerin Reem Alabali Radovan (SPD) hat dem Globalen Fonds zur Bek\u00e4mpfung von HIV/Aids, Tuberkulose und Malaria in den kommenden drei Jahren eine Milliarde Euro zugesagt. Das k\u00fcnd\u2026 [+4565 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.656300",
-      "internal_id": "74baa3770e66b21baf1a9fe7f18bdfa009919e9adc548b36109aadf9a05e19e6",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25056,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Weltgesundheitsgipfel in Berlin: Deutschland gibt eine Milliarde f\u00fcr Kampf gegen Aids und Malaria",
-      "description": "Aids, Malaria und Tuberkulose gelten als die drei t\u00f6dlichsten Infektionskrankheiten der Menschheit. Ihre Bek\u00e4mpfung ist von zentraler Bedeutung. Trotz enormen Spardrucks sagt Deutschland eine gro\u00dfe Summe f\u00fcr den Globalen Fonds zu.",
-      "url": "https://www.n-tv.de/politik/Deutschland-gibt-eine-Milliarde-fuer-Kampf-gegen-Aids-und-Malaria-article26091244.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop26091263/9371327009-cImg_16_9-w1200/552036257.jpg",
-      "publishedAt": "2025-10-12 13:42:06",
-      "content": "Aids, Malaria und Tuberkulose gelten als die drei t\u00f6dlichsten Infektionskrankheiten der Menschheit. Ihre Bek\u00e4mpfung ist von zentraler Bedeutung. Trotz enormen Spardrucks sagt Deutschland eine gro\u00dfe S\u2026 [+2978 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.563717",
-      "internal_id": "5c9980ad6e278fadce4e2aa90caad5aa6058f44bc0e80a032b0f1ff01119b6c1",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25058,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "S\u00fcddeutsche Zeitung",
-      "title": "Infektionskrankheiten: Deutschland gibt eine Milliarde gegen Seuchen",
-      "description": "",
-      "url": "https://www.sueddeutsche.de/politik/infektionskrankheiten-deutschland-gibt-eine-milliarde-gegen-seuchen-li.3324902",
-      "urlToImage": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png",
-      "publishedAt": "2025-10-12 13:40:38",
-      "content": "Deutschland stellt in den kommenden drei Jahren eine Milliarde Euro f\u00fcr den weltweiten Kampf gegen Aids, Tuberkulose und Malaria bereit. Bundesentwicklungsministerin Reem Alabali Radovan sagte diese \u2026 [+646 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.602923",
-      "internal_id": "b78903591c3350f2477162c071b713d4f62658beeff73297c86212dd6033f9c0",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25051,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "S\u00fcddeutsche Zeitung",
-      "title": "Umwelt und Natur: Vogelgrippe in Simbach \u2013 Beh\u00f6rden richten Kontrollzone ein",
-      "description": "Fast 3000 G\u00e4nse sind in einem Gefl\u00fcgelbetrieb in Simbach an der Vogelgrippe verendet. Die Beh\u00f6rden wollen eine Ausbreitung unbedingt verhindern.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868",
-      "urlToImage": "https://www.sueddeutsche.de/2025/10/12/1ff37ea5-e3bb-4a0c-a593-3db2e331da57.jpg?q=60&fm=webp&width=1200&rect=0%2C209%2C4000%2C2250",
-      "publishedAt": "2025-10-12 13:36:34",
-      "content": "In dem Gefl\u00fcgelbetrieb waren innerhalb weniger Tage fast 3000 G\u00e4nse verendet. Ausl\u00f6ser war der Vogelgrippe-Erreger H5N1, wie die Analyse des Friedrich-Loeffler-Instituts in Potsdam ergab. Von Aschaf\u2026 [+590 chars]",
-      "retrievedAt": "2025-10-13 19:05:39.818743",
-      "internal_id": "554ef8af9cfd2c29bcd4a366bc568fd442df57c87cdff895ea45a22087677e5c",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25055,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "tagesschau.de",
-      "author": null,
-      "title": "Deutschland gibt eine Milliarde Euro gegen Infektionskrankheiten",
-      "description": "Aids, Tuberkulose und Malaria gelten als die drei t\u00f6dlichsten Infektionskrankheiten. Insbesondere in armen Staaten sterben Menschen daran. F\u00fcr einen bessere Bek\u00e4mpfung stellt Deutschland nun eine Milliarde Euro zur Verf\u00fcgung.",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/krankheiten-bekaempfung-bundesregierung-100.html",
-      "urlToImage": "https://images.tagesschau.de/image/cf97ee01-f360-415d-a3bb-9f4c09ee1219/AAABmdh3YTY/AAABmKJZ-0g/16x9-big/radovan-108.jpg?width=1280",
-      "publishedAt": "2025-10-12 13:06:52",
-      "content": "Stand: 12.10.2025 15:06 Uhr Aids, Tuberkulose und Malaria gelten als die drei t\u00f6dlichsten Infektionskrankheiten. Insbesondere in armen Staaten sterben Menschen daran. F\u00fcr einen bessere Bek\u00e4mpfung st\u2026 [+1870 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.545716",
-      "internal_id": "1e6b2442e1d5fd107958c8d707133352b3bc1ac045ff83a77d3c8cee075e267f",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25049,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Steve in Manhattan",
-      "title": "Mike\u2019s Blog Roundup",
-      "description": "Crazy Eddie\u2019s Motie News - Measles and Polio Down in the Schoolyard! Froomkin - what is Stephen Miller trying to accomplish? Seeing the Forest - the real AI question: who benefits? String in a Maze - Bari Weiss takes her grift mainstream; We Hunted the Mammot\u2026",
-      "url": "https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday",
-      "urlToImage": "https://crooksandliars.com/files/embeds/2025/10/67515.jpg",
-      "publishedAt": "2025-10-12 13:02:01",
-      "content": "Crazy Eddies Motie News - Measles and Polio Down in the Schoolyard! Froomkin - what is Stephen Miller trying to accomplish? Seeing the Forest - the real AI question: who benefits? String in a Maze\u2026 [+189 chars]",
-      "retrievedAt": "2025-10-13 19:05:39.499320",
-      "internal_id": "36153616144d4f4b701cb39b774ea03d0732530f83d215c906273a181b7eefa8",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25060,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Trotz Haushaltsk\u00fcrzungen: Deutschland investiert eine Milliarde Euro im Kampf gegen Aids, Tuberkulose und Malaria",
-      "description": "Sparzw\u00e4nge im Haushalt betreffen auch Vorhaben der internationalen Gesundheitspolitik. F\u00fcr einen wichtigen Fonds macht die Bundesregierung jetzt aber eine Zusage.",
-      "url": "https://www.tagesspiegel.de/politik/trotz-haushaltskurzungen-deutschland-investiert-eine-milliarde-euro-im-kampf-gegen-aids-tuberkulose-und-malaria-14543771.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/9963027/alternates/BASE_16_9_W1400/1760273585000/mobile-hilfsteams-im-umkampften-im-sudsudan.jpeg",
-      "publishedAt": "2025-10-12 12:55:35",
-      "content": "Deutschland stellt in den kommenden drei Jahren eine Milliarde Euro f\u00fcr den weltweiten Kampf gegen Aids, Tuberkulose und Malaria bereit. Bundesentwicklungsministerin Reem Alabali Radovan sagte diese \u2026 [+1861 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.629849",
-      "internal_id": "a5aa5bce3817fc4743d421156299596bda75805ec318d914d9951183a6e75b95",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25064,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Elis Gjevori",
-      "title": "Bangladesh rolls out typhoid immunisation drive for 50 million children",
-      "description": "The campaign aims to protect the children from the drug-resistant disease spreading across South Asia.",
-      "url": "https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-07T224137Z_87066588_RC2SYGA6ZQ7Z_RTRMADP_3_BANGLADESH-CLIMATE-EDUCATION-1760270834.jpg?resize=1920%2C1440",
-      "publishedAt": "2025-10-12 12:14:46",
-      "content": "Bangladesh has begun a nationwide vaccination campaign to protect millions of children from typhoid, a life-threatening disease that is becoming increasingly resistant to antibiotics. The monthlong \u2026 [+1875 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.597880",
-      "internal_id": "c876a42a24eabc96f7588703eb2d828734a7ff7bba7de446c9d4199914491962",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25065,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Bangladesh launches typhoid vaccination drive to combat drug-resistant threat",
-      "description": "DHAKA (Reuters) -Bangladesh launched a nationwide vaccination campaign on Sunday to protect millions of children from typhoid, a deadly and increasingly drug-resistant disease that poses a growing public health threat. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/10/12/bangladesh-launches-typhoid-vaccination-drive-to-combat-drug-resistant-threat",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-10-12 10:14:00",
-      "content": "DHAKA (Reuters) -Bangladesh launched a nationwide vaccination campaign on Sunday to protect millions of children from typhoid, a deadly and increasingly drug-resistant disease that poses a growing pu\u2026 [+399 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.624168",
-      "internal_id": "23f99cc44778b962b1048a28317f6b215d9b1d886612c252a791e926c0c36f85",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25062,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u0395\u0395: T\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c6\u03ad\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03ac \u03c4\u03bf\u03c5 \u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u039d\u03b5\u03af\u03bb\u03bf\u03c5",
-      "description": "O \u00ab\u03c4\u03af\u03b3\u03c1\u03b7\u03c2 \u03c4\u03b7\u03c2 \u0391\u03c3\u03af\u03b1\u03c2\u00bb \u03b1\u03bd\u03b1\u03b6\u03c9\u03c0\u03c5\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0395\u0395 \u03b3\u03b9\u03b1 \u03bd\u03ad\u03b5\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b5\u03c2, \u03bc\u03ad\u03c3\u03c9 \u03c4\u03c9\u03bd \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03ce\u03bd, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03ba\u03b1\u03bd\u03cc\u03c2 \u03b4\u03b9\u03b1\u03b2\u03b9\u03b2\u03b1\u03c3\u03c4\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03ce\u03bd",
-      "url": "https://www.skai.gr/news/health/ee-ta-krousmata-tsikoungkounia-kai-dagkeiou-pyretou-kseperasan-fetos-ayta-tou-dytikou-neil",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2020-09/kounoupi_neilos_eody.jpg?itok=l4kzQ6X-",
-      "publishedAt": "2025-10-12 08:23:16",
-      "content": "O \u00ab \u00bb , , O . 90 , . chikungunya (- CHIK) (DEN) \u00ab \u00bb , . 8/10/2025 700 353 . (https://www.ecdc.europa.eu/en/chikungunya-virus-disease/surveillance-and-updates/seasonal-surveillance) 68 4 . , Aede\u2026 [+704 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.110250",
-      "internal_id": "67a0b6b9b0a8cd1e2e9e471b8ba535af9f53fe91212c9be4fae032b05eb9ae69",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25053,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 11 mil 815 casos de dengue, de los cuales 5 mil 624 corresponden a contagios clasificados como de alarma y grave. Los decesos verificados por pruebas de laboratorio se elevaron a \u2026",
-      "url": "https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-10-12 08:19:19",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de octubre de 2025, p. 31 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 11 mil 815 casos de dengue, de los cuales 5 mil 624 correspon\u2026 [+2068 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.220945",
-      "internal_id": "6db510c4ea6e195cb01dddeff765fc21629bfde5e974fd8dada19ee506be5160",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25063,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9 \u00ab\u03a4\u03af\u03b3\u03c1\u03b7\u03c2 \u03c4\u03b7\u03c2 \u0391\u03c3\u03af\u03b1\u03c2\u00bb: T\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03b1\u03c5\u03c4\u03ac \u03c4\u03bf\u03c5 \u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u039d\u03b5\u03af\u03bb\u03bf\u03c5",
-      "description": "H \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03bf\u03cd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 , \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c3\u03c5\u03c3\u03c7\u03b5\u03c4\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c5\u03c3\u03af\u03b1 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03c9\u03c4\u03ce\u03bd \u03b1\u03c0\u03cc \u03b5\u03bd\u03b4\u03b7\u03bc\u03b9\u03ba\u03ad\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03ce\u03c1\u03b5\u03c2 | \u0394\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c2 \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc\u03c2 | \u0399\u03cc\u03c2 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u2026",
-      "url": "https://www.protothema.gr/ugeia/article/1709459/sunagermos-stin-europi-gia-to-kounoupi-tigris-tis-asias-ta-krousmata-tsikoungounia-kai-dageiou-puretou/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-09-27/kounoupi_tigris_dagkeios_711675304.jpg",
-      "publishedAt": "2025-10-12 07:58:00",
-      "content": "O , '90 , .chikungunya (- CHIK) (DEN) \u00ab \u00bb , . 8/10/2025 700 353 68 4 . , Aedes albopictus , 1 . H chikungunya, . (), . 8 8 93 4 , 2010.\u00ab\u00bb . ( ) . - Sandra Gewehr, R&amp;D (European Mosquito C\u2026 [+436 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.119699",
-      "internal_id": "43b67f99ab37560ebefcbbc10c979b30c27c537fa084cd6ac3fa08d5cd126243",
       "publishedAtLabel": "Oct 12"
     }
   ]
