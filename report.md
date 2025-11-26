@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-11-25 19:06
-- **Most recent article:** 2025-11-24 17:07:44
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-11-26 07:08
+- **Most recent article:** 2025-11-25 05:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 25 | 35 | 21 | 59 | 27 | 2 | 203 |
-| h5n1 | 6 | 32 | 34 | 32 | 31 | 21 | 9 | 165 |
-| dengue | 15 | 14 | 33 | 33 | 22 | 13 | 5 | 135 |
-| malaria | 17 | 17 | 17 | 19 | 20 | 12 | 7 | 109 |
-| chikungunya | 25 | 11 | 9 | 13 | 4 | 2 | 1 | 65 |
+| measles | 35 | 25 | 35 | 21 | 59 | 27 | 5 | 207 |
+| h5n1 | 8 | 32 | 34 | 32 | 31 | 21 | 10 | 168 |
+| dengue | 18 | 14 | 33 | 33 | 22 | 13 | 6 | 139 |
+| malaria | 24 | 17 | 17 | 19 | 20 | 12 | 7 | 116 |
+| chikungunya | 28 | 11 | 9 | 13 | 4 | 2 | 1 | 68 |
 | mpox | 11 | 8 | 20 | 5 | 6 | 3 | 1 | 54 |
-| rabies | 9 | 3 | 1 | 4 | 4 | 4 | 0 | 25 |
-| meningitis | 4 | 1 | 5 | 0 | 8 | 3 | 1 | 22 |
+| rabies | 9 | 3 | 1 | 4 | 4 | 4 | 1 | 26 |
+| meningitis | 4 | 1 | 5 | 0 | 8 | 3 | 2 | 23 |
 | zika | 1 | 3 | 5 | 9 | 2 | 1 | 0 | 21 |
 | hpai | 0 | 4 | 2 | 1 | 5 | 2 | 1 | 15 |
-| leptospirosis | 4 | 0 | 1 | 1 | 2 | 1 | 3 | 12 |
-| pertussis | 0 | 1 | 1 | 2 | 2 | 3 | 1 | 10 |
-| typhoid | 2 | 1 | 1 | 1 | 2 | 2 | 0 | 9 |
+| leptospirosis | 4 | 0 | 1 | 1 | 2 | 1 | 4 | 13 |
+| pertussis | 0 | 1 | 1 | 2 | 2 | 3 | 2 | 11 |
+| typhoid | 4 | 1 | 1 | 1 | 2 | 2 | 0 | 11 |
 | yersinia | 1 | 1 | 1 | 4 | 0 | 2 | 0 | 9 |
 | shigellosis | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
@@ -33,7 +33,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-48 (rabies)
+
+- [Glynn County Health Department alerts residents of rabies after bobcat attacks person in Jekyll Island](https://www.news4jax.com/news/local/2025/11/25/glynn-county-health-department-alerts-residents-of-rabies-after-bobcat-attacks-person-in-jekyll-island/) (WJXT News4JAX)
+
 ## 25-48 (pertussis)
+
+- [Falling Vaccination Rates are Likley Behind Rise in Whooping Cough Cases](https://www.discovermagazine.com/falling-vaccination-rates-are-likley-behind-rise-in-whooping-cough-cases-48302) (Discover Magazine)
 
 - [Caída de las tasas de vacunación y de la inmunidad alimentan brotes de tos convulsa](https://kffhealthnews.org/news/article/caida-de-las-tasas-de-vacunacion-y-de-la-inmunidad-alimentan-brotes-de-tos-convulsa/) (Kffhealthnews.org)
 
@@ -43,9 +49,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-48 (meningitis)
 
+- [Two Independent Acquisitions of Multidrug Resistance Gene lsaC in Streptococcus pneumoniae Serotype 20 Multilocus Sequence Type 1257](https://wwwnc.cdc.gov/eid/article/31/11/25-1101_article) (Cdc.gov)
+
 - [Combination therapy with 3-Hydroxybenzaldehyde and Albendazole modulates mitochondrial protein expression in astrocytes after Angiostrongylus cantonensis infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013773) (Plos.org)
 
 ## 25-48 (measles)
+
+- [CDC Data Indicates We’re 2 Months Away From America Losing Its Measles Elimination Status](https://www.techdirt.com/2025/11/24/cdc-data-indicates-were-2-months-away-from-america-losing-its-measles-elimination-status/) (Techdirt)
+
+- [Measles outbreak: Kiwi traveller in quarantine in Rarotonga](https://www.nzherald.co.nz/talanoa/measles-outbreak-kiwi-traveller-in-quarantine-in-rarotonga/I6GN5ECTF5AQDEZYLOUEF4BPJU/) (New Zealand Herald)
+
+- [Is using public office to encourage the spread of deadly viral infections bad? Views differ](https://www.lawyersgunsmoneyblog.com/2025/11/is-using-public-office-to-encourage-the-spread-of-deadly-viral-infections-bad-views-differ) (Lawyersgunsmoneyblog.com)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
@@ -69,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-48 (leptospirosis)
 
+- [BACOLOD: CLMMRH reports leptospirosis surge](https://rpnradio.com/bacolod-clmmrh-reports-leptospirosis-surge/) (Rpnradio.com)
+
 - [Jamaica: Six Dead Amid Leptospirosis Outbreak In Aftermath Of Record-Setting Hurricane Melissa](https://dailycaller.com/2025/11/24/jamaica-six-dead-leptospirosis-outbreak-hurricane-melissa/) (The Daily Caller)
 
 - [Leptospirosis seroprevalence and exposure factors in three informal settlements of French Guiana: An opportunistic survey](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013764) (Plos.org)
@@ -80,6 +96,8 @@ Source: [News API](https://newsapi.org/)
 - [Bruxelles actualizează măsurile împotriva gripei aviare după ce a detectat încă 96 de focare în UE. Virusul, detectat și la granița cu România](https://www.mediafax.ro/stirile-zilei/bruxelles-actualizeaza-masurile-impotriva-gripei-aviare-dupa-ce-a-detectat-inca-96-de-focare-in-ue-virusul-detectat-si-la-granita-cu-romania-23647101) (Mediafax.ro)
 
 ## 25-48 (h5n1)
+
+- [First Human Dies of Rare H5N5 Bird Flu Strain. Here’s What You Need to Know](https://www.scientificamerican.com/article/first-human-dies-of-rare-h5n5-bird-flu-strain-heres-what-you-need-to-know/) (Scientific American)
 
 - [Vogelgrippe in Lindau nachgewiesen](https://vorarlberg.orf.at/stories/3331352/) (Vorarlberg.orf.at)
 
@@ -100,6 +118,8 @@ Source: [News API](https://newsapi.org/)
 - [Δεύτερος θάνατος από γρίπη των πτηνών στις ΗΠΑ](https://www.skai.gr/news/world/deyteros-thanatos-apo-gripi-ton-ptinon-stis-ipa) (Skai.gr)
 
 ## 25-48 (dengue)
+
+- [Shifting Dynamics of Dengue Virus Serotype 2 and Emergence of Cosmopolitan Genotype, Costa Rica, 2024](https://wwwnc.cdc.gov/eid/article/31/11/25-0746_article) (Cdc.gov)
 
 - [Dengue virus infection in children: Serum lipidomics profiling for biomarker discovery](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013691) (Plos.org)
 
@@ -1655,6 +1675,10 @@ Source: [News API](https://newsapi.org/)
 
 - [New vaccine for typhoid, salmonella shows promise](https://www.bostonherald.com/2025/10/14/new-vaccine-for-typhoid-salmonella-shows-promise/) (Boston Herald)
 
+- [Bangladesh rolls out typhoid immunisation drive for 50 million children](https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children) (Al Jazeera English)
+
+- [Bangladesh launches typhoid vaccination drive to combat drug-resistant threat](https://www.thestar.com.my/news/world/2025/10/12/bangladesh-launches-typhoid-vaccination-drive-to-combat-drug-resistant-threat) (The Star Online)
+
 ## 25-42 (rabies)
 
 - [Mumbai: 21-year-old dies of rabies in Ambernath](https://timesofindia.indiatimes.com/city/mumbai/mumbai-21-year-old-dies-of-rabies-in-ambernath/articleshow/124672416.cms) (The Times of India)
@@ -1779,6 +1803,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreaks Send Students Into Quarantine](https://www.newser.com/story/376713/measles-outbreaks-send-students-into-quarantine.html) (Newser)
 
+- [Mike’s Blog Roundup](https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday) (Crooksandliars.com)
+
 ## 25-42 (malaria)
 
 - [El River de Marcelo Gallardo viaja a Córdoba para salir de la crisis](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-viaja-a-cordoba-para-salir-de-la-crisis.phtml) (Perfil.com)
@@ -1815,6 +1841,20 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO: Antibiotikaresistenz steigt weltweit deutlich an](https://www.spektrum.de/news/who-antibiotikaresistenz-steigt-weltweit-deutlich-an/2291116) (Spektrum.de)
 
+- [Weltweiter Kampf gegen Infektionskrankheiten: Gesundheitsministerin Warken fordert Stärkung der WHO](https://www.tagesspiegel.de/politik/weltweiter-kampf-gegen-infektionskrankheiten-gesundheitsministerin-warken-fordert-starkung-der-who-14546264.html) (Der Tagesspiegel)
+
+- [Infektionskrankheiten: Deutschland sagt eine Milliarde für Kampf gegen Aids und Malaria zu](https://www.zeit.de/politik/deutschland/2025-10/aids-tuberkulose-malaria-globaler-fond-deutschland) (Die Zeit)
+
+- [Bill Gates lobt „Führungsstärke“: Deutschland sagt eine Milliarde Euro für Aids-Bekämpfung zu](https://www.tagesspiegel.de/politik/bill-gates-lobt-fuhrungsstarke-deutschland-sagt-eine-milliarde-euro-fur-aids-bekampfung-zu-14544230.html) (Der Tagesspiegel)
+
+- [Weltgesundheitsgipfel in Berlin: Deutschland gibt eine Milliarde für Kampf gegen Aids und Malaria](https://www.n-tv.de/politik/Deutschland-gibt-eine-Milliarde-fuer-Kampf-gegen-Aids-und-Malaria-article26091244.html) (N-tv.de)
+
+- [Infektionskrankheiten: Deutschland gibt eine Milliarde gegen Seuchen](https://www.sueddeutsche.de/politik/infektionskrankheiten-deutschland-gibt-eine-milliarde-gegen-seuchen-li.3324902) (Süddeutsche Zeitung)
+
+- [Deutschland gibt eine Milliarde Euro gegen Infektionskrankheiten](https://www.tagesschau.de/inland/gesellschaft/krankheiten-bekaempfung-bundesregierung-100.html) (tagesschau.de)
+
+- [Trotz Haushaltskürzungen: Deutschland investiert eine Milliarde Euro im Kampf gegen Aids, Tuberkulose und Malaria](https://www.tagesspiegel.de/politik/trotz-haushaltskurzungen-deutschland-investiert-eine-milliarde-euro-im-kampf-gegen-aids-tuberkulose-und-malaria-14543771.html) (Der Tagesspiegel)
+
 ## 25-42 (leptospirosis)
 
 - [Murió una persona de leptospirosis en Montevideo: por qué la lluvia importa en el contagio](https://www.montevideo.com.uy/Salud/Murio-una-persona-de-leptospirosis-en-Montevideo-por-que-la-lluvia-importa-en-el-contagio-uc940202) (Montevideo.com.uy)
@@ -1838,6 +1878,10 @@ Source: [News API](https://newsapi.org/)
 - [Quinto foco de gripe aviar en Valladolid en menos de un mes: casi 900.000 aves sacrificadas desde septiembre](https://www.elespanol.com/castilla-y-leon/region/valladolid/20251013/quinto-foco-gripe-aviar-valladolid-mes-aves-sacrificadas-septiembre/1003743967777_0.html) (Elespanol.com)
 
 - [Foco de influenza aviar en una granja con 66.000 aves de la zona vigilada en Olmedo](https://www.europapress.es/castilla-y-leon/noticia-foco-influenza-aviar-granja-66000-aves-zona-vigilada-olmedo-20251013194956.html) (Europapress.es)
+
+- [NIH-funded Scientists Engineered Hybrid Bird Flu Virus in Europe, Tested in U.S.](https://www.shtfplan.com/headline-news/nih-funded-scientists-engineered-hybrid-bird-flu-virus-in-europe-tested-in-u-s) (Shtfplan.com)
+
+- [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
 
 ## 25-42 (dengue)
 
@@ -1870,6 +1914,12 @@ Source: [News API](https://newsapi.org/)
 - [Baglung Battles Dengue: “Search and Destroy” Launched](https://nep123.com/baglung-battles-dengue-search-and-destroy-launched/) (Nep123.com)
 
 - [Dengue cases rising: 413 new infection in a week](https://mypeoplesreview.com/2025/10/13/dengue-cases-rising-413-new-infection-in-a-week/) (Mypeoplesreview.com)
+
+- [Dengue Outbreak in Nepal: Cases Surge, Fatalities Reported](https://nep123.com/dengue-outbreak-in-nepal-cases-surge-fatalities-reported/) (Nep123.com)
+
+- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
+
+- [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
 
@@ -1922,3 +1972,9 @@ Source: [News API](https://newsapi.org/)
 - [New York health officials confirm state’s first locally acquired case of chikungunya virus](https://www.news4jax.com/health/2025/10/15/new-york-health-officials-confirm-states-first-locally-acquired-case-of-chikungunya-virus/) (WJXT News4JAX)
 
 - [Brazil opens world’s largest mosquito biofactory to fight disease](https://www.upi.com/Health_News/2025/10/13/brazil-mosquito-factory-dengue-Zika-chikungunya-viruses/5701760117419/) (UPI.com)
+
+- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
+
+- [ΕΕ: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν φέτος αυτά του Δυτικού Νείλου](https://www.skai.gr/news/health/ee-ta-krousmata-tsikoungkounia-kai-dagkeiou-pyretou-kseperasan-fetos-ayta-tou-dytikou-neil) (Skai.gr)
+
+- [Συναγερμός στην Ευρώπη για το κουνούπι «Τίγρης της Ασίας»: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν αυτά του Δυτικού Νείλου](https://www.protothema.gr/ugeia/article/1709459/sunagermos-stin-europi-gia-to-kounoupi-tigris-tis-asias-ta-krousmata-tsikoungounia-kai-dageiou-puretou/) (Protothema.gr)
