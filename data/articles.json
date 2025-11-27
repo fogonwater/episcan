@@ -1,8 +1,422 @@
 {
-  "last_updated": "2025-11-27 07:08",
-  "count_articles_total": 853,
-  "count_articles_new": 2,
+  "last_updated": "2025-11-27 19:06",
+  "count_articles_total": 859,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 25916,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thomaz Molina",
+      "title": "\u201cVit\u00f3ria da ci\u00eancia, do Butantan\u201d, diz Tarc\u00edsio sobre vacina da dengue",
+      "description": "Governador Tarc\u00edsio de Freitas avalia que vacina em dose \u00fanica, aprovada pela Anvisa, vai ajudar muito na imuniza\u00e7\u00e3o contra a dengue",
+      "url": "https://www.metropoles.com/sao-paulo/vitoria-da-ciencia-do-butantan-diz-tarcisio-sobre-vacina-da-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/26152646/Tarcisio-Butantan.jpg",
+      "publishedAt": "2025-11-26 18:33:17",
+      "content": "O governador Tarc\u00edsio de Freitas (Republicanos) exaltou nesta quarta-feira (26/11) a Butantan-DV, vacina da dengue do Instituto Butantan, \u00f3rg\u00e3o ligado \u00e0 Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo, qu\u2026 [+5455 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.762213",
+      "internal_id": "8c0c2170b9821d569beb428eaea867e7025232d4e90901a8df3a188bb8fb1695",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25906,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Morcegos-vampiros do Peru t\u00eam ind\u00edcios de infec\u00e7\u00e3o por gripe avi\u00e1ria",
+      "description": "Anticorpos em morcegos-vampiros sugerem contato com H5N1, mas especialistas apontam baixa chance de transmiss\u00e3o",
+      "url": "https://www.metropoles.com/ciencia/morcegos-peru-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/26132450/morcego-Desmodus-rotundus.jpg",
+      "publishedAt": "2025-11-26 17:30:41",
+      "content": "Focos in\u00e9ditos de infec\u00e7\u00e3o por gripe avi\u00e1ria H5N1 podem ter alcan\u00e7ado um novo hospedeiro na Am\u00e9rica do Sul. Um estudo, publicado como pr\u00e9-print no bioRxiv em 11 de novembro, encontrou anticorpos cont\u2026 [+3378 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.243804",
+      "internal_id": "ef670bc6ca36432502c58d03cb01cff4dafc6b8e86a343dfc416b516caee4b38",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25919,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Anvisa aprova vacina do Butantan contra a dengue",
+      "description": "A expectativa do governo \u00e9 come\u00e7ar a aplicar as doses em 2026 pelo SUS",
+      "url": "https://valor.globo.com/brasil/noticia/2025/11/26/anvisa-aprova-vacina-do-butantan-contra-a-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-11-26 17:04:13",
+      "content": "\u00c0s v\u00e9speras da temporada prop\u00edcia \u00e0 alta de casos de dengue no pa\u00eds, o Instituto Butantan assina nesta quarta-feira (26) o termo de compromisso que antecede a aprova\u00e7\u00e3o, pela Anvisa (Ag\u00eancia Nacional\u2026 [+1692 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.814520",
+      "internal_id": "90edc2637d9023de8ef3ab756078498af807a98b05aeefcde7cbb7a6f12ac646",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25922,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Monkeypox Strain Clade 1b Spreads in Europe, Leading to Push for Vaccination",
+      "description": "Cases of locally acquired mutant mpox increase in Europe. Meanwhile, Charlotte, North Carolina recently reported a 10-case outbreak of \"new strain\" of the virus. The post Monkeypox Strain Clade 1b Spreads in Europe, Leading to Push for Vaccination first appea\u2026",
+      "url": "https://legalinsurrection.com/2025/11/monkeypox-strain-clade-1b-spreads-in-europe-leading-to-push-for-vaccination/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/08/LI-96-Monkeypox-Thailand.png",
+      "publishedAt": "2025-11-26 17:00:38",
+      "content": "The last time I reported on monkeypox, the virulent, more transmissible strain known as \u201cClade 1b\u201d was reported in Los Angeles County. Unlike other cases of this type of mpox, these cases were local\u2026 [+3370 chars]",
+      "retrievedAt": "2025-11-27 19:05:59.755727",
+      "internal_id": "56bfa6888a9db94e15747b3420eb45e7a3e0a77a2e56f05368f80d69b1efaea3",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25914,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Evellyn Paola",
+      "title": "Hugo Motta, que \u00e9 m\u00e9dico, exalta vacina do Butantan contra a dengue",
+      "description": "A Anvisa aprovou a vacina contra a dengue criada pelo Instituto Butantan nesta quarta-feira (26/11)",
+      "url": "https://www.metropoles.com/brasil/hugo-motta-que-e-medico-exalta-vacina-do-butantan-contra-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/08/07174154/Presidente-da-Camara-dos-Deputados-Hugo-Motta-Republicanos-PB-concede-entrevista-exclusiva-ao-Metropoles-3-1200x800.jpg",
+      "publishedAt": "2025-11-26 16:56:04",
+      "content": "O presidente da C\u00e2mara dos Deputados,Hugo Motta (Republicanos-PB), exaltou, nesta quarta-feira (26/11), a aprova\u00e7\u00e3o da vacina contra a dengue criada pelo Instituto Butantan, pela Ag\u00eancia Nacional de \u2026 [+906 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.743332",
+      "internal_id": "86399c4a157bf55a1ac614efaef532c07bb371d661d4111365e4eaca4af583f7",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25918,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Maria Clara Rossini",
+      "title": "4 quest\u00f5es para entender a nova vacina de dose \u00fanica contra a dengue",
+      "description": "A aprova\u00e7\u00e3o t\u00e9cnica do imunizante Butantan-DV foi concedida hoje (26) pela Anvisa. Tire suas principais d\u00favidas sobre o tema.",
+      "url": "https://super.abril.com.br/saude/4-questoes-para-entender-a-nova-vacina-de-dose-unica-contra-a-dengue/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2024/04/2604-vacina-mrna-super-site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-26 16:10:19",
+      "content": "Black das Blacks: Super com pre\u00e7o absurdoA aprova\u00e7\u00e3o t\u00e9cnica do imunizante Butantan-DV foi concedida hoje (26) pela Anvisa. Tire suas principais d\u00favidas sobre o tema. Por Maria Clara Rossini 26 no\u2026 [+3754 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.805228",
+      "internal_id": "3fb813edbf271831a5cb2652b4f98d3b66d981a20903149fae81d007fe210a6b",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25909,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal Terra",
+      "title": "Anvisa aprova vacina do Butantan contra a dengue",
+      "description": "Anvisa aprova a Butantan-DV, primeira vacina de dose \u00fanica contra a dengue, para pessoas de 12 a 59 anos. Com efic\u00e1cia de at\u00e9 100% contra hospitaliza\u00e7\u00f5es, seu lan\u00e7amento no PNI est\u00e1 previsto para 2026. Descubra como essa inova\u00e7\u00e3o pode transformar o combate \u00e0 \u2026",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/anvisa-aprova-vacina-do-butantan-contra-a-dengue,7512f1a0633d8440e86fc8b4de42be098hkwe3wu.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/26/vacina-dengue-butantan-1iavdavqst2k9.jpg",
+      "publishedAt": "2025-11-26 15:59:42",
+      "content": "ResumoAnvisa aprova a vacina Butantan-DV, de dose \u00fanica, contra a dengue para pessoas de 12 a 59 anos, com efic\u00e1cia comprovada e previs\u00e3o de in\u00edcio de aplica\u00e7\u00e3o no calend\u00e1rio vacinal em 2026. A Ag\u00ean\u2026 [+3271 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.677825",
+      "internal_id": "3f007ab3208d75d400e6aeee92efda118c86f31d2dbf9090b80921384cffdebd",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25911,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "SP j\u00e1 tem 1,2 milh\u00e3o de doses de vacinas da dengue para vacina\u00e7\u00e3o nacional",
+      "description": "Imunizante ser\u00e1 aprovado pela Anvisa nesta quarta-feira e conta com lotes prontos para distribui\u00e7\u00e3o imediata ao Programa Nacional de Imuniza\u00e7\u00f5es",
+      "url": "https://veja.abril.com.br/brasil/sp-ja-tem-12-milhao-de-doses-de-vacinas-da-dengue-para-vacinacao-nacional/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/08/2108-vacina-layout_site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-26 15:28:38",
+      "content": "Black das Blacks: VEJA com pre\u00e7o absurdo (Foto: GI/Getty Images) Continua ap\u00f3s publicidade Por meio do Instituto Butantan, o governo de S\u00e3o Paulo j\u00e1 tem um estoque de 1,2 milh\u00e3o de doses da nova va\u2026 [+828 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.696736",
+      "internal_id": "6f7f0802892fe56f7021b96afe7729ef674ea8956c7ddd01567252bf7fe90384",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25908,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Ana Luiza Figueiredo",
+      "title": "Brasil aprova 1\u00aa vacina de dose \u00fanica contra a dengue",
+      "description": "Anvisa aprova a Butantan-DV, 1\u00aa vacina de dose \u00fanica contra a dengue. Imunizante tem produ\u00e7\u00e3o nacional e mais de 1 milh\u00e3o de doses j\u00e1 prontas O post Brasil aprova 1\u00aa vacina de dose \u00fanica contra a dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/11/26/medicina-e-saude/brasil-aprova-1a-vacina-de-dose-unica-contra-a-dengue/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/11/butantan.jpg",
+      "publishedAt": "2025-11-26 14:52:30",
+      "content": "Siga o Olhar Digital no Google Discover A Anvisa confirmou a aprova\u00e7\u00e3o t\u00e9cnica da Butantan-DV, primeira vacina de dose \u00fanica contra a dengue dispon\u00edvel no mundo. O imunizante, desenvolvido pelo Inst\u2026 [+3521 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.659389",
+      "internal_id": "697b2b3d85ad08a94986c09383954ff4d9c176f99cf2cf8dee2d8dfba2d98ff4",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25912,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diariodocentrodomundo.com.br",
+      "author": "Diario do Centro do Mundo",
+      "title": "Brasil aprova a 1\u00aa vacina de dose \u00fanica do mundo contra a dengue",
+      "description": "O Brasil acaba de se tornar o primeiro pa\u00eds do mundo a aprovar uma vacina de dose \u00fanica contra a dengue. A Anvisa concluiu a avalia\u00e7\u00e3o t\u00e9cnica da Butantan-DV e deu aval para o registro do imunizante, que teve todos os crit\u00e9rios de seguran\u00e7a, efic\u00e1cia e qualid\u2026",
+      "url": "https://www.diariodocentrodomundo.com.br/brasil-aprova-a-1a-vacina-de-dose-unica-do-mundo-contra-a-dengue/",
+      "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2025/11/vacina-contra-a-dengue-do-butantan-8449_800x450.webp",
+      "publishedAt": "2025-11-26 14:40:39",
+      "content": "Ensaios cl\u00ednicos mostram prote\u00e7\u00e3o forte e duradoura A aprova\u00e7\u00e3o \u00e9 baseada em cinco anos de acompanhamento dos volunt\u00e1rios do estudo de fase 3, que envolveu mais de 16 mil pessoas de 14 estados entre\u2026 [+1619 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.706548",
+      "internal_id": "fe2022a9c15e575c1329f7735faaee01cbf9d7f0e2fddbea238100be9532f020",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25904,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Heidi J. S. Tworek, Professor of History and Public Policy, University of British Columbia, Chris Tenove, Assistant director, Centre for the Study of Democratic Institutions, University of British Columbia, Netheena Neena Mathews, Research assistant, University of British Columbia",
+      "title": "Online harassment is silencing Canada\u2019s health experts \u2014 institutions need to do more to protect them",
+      "description": "If Canada wants to get ahead of the next health crisis, it needs to shield its scientists and researchers from online abuse.",
+      "url": "https://theconversation.com/online-harassment-is-silencing-canadas-health-experts-institutions-need-to-do-more-to-protect-them-267532",
+      "urlToImage": "https://images.theconversation.com/files/703501/original/file-20251119-56-5q7hl3.jpg?ixlib=rb-4.1.0&rect=0%2C464%2C5568%2C2784&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-11-26 14:24:37",
+      "content": "Canada has lost the measles elimination status it has held since 1998. To regain that status, one crucial factor is hearing from researchers who speak about vaccine safety in public. Canada can\u2019t af\u2026 [+7829 chars]",
+      "retrievedAt": "2025-11-27 19:05:57.699206",
+      "internal_id": "22509348cd90d7f615d3424c8c635c6094228cf4fb43d709be3fd0cbf0e1d1a5",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25923,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Espa\u00f1a sigue siendo el pa\u00eds de Europa con m\u00e1s casos de mpox",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado de que Espa\u00f1a contin\u00faa siendo el pa\u00eds de Europa con m\u00e1s casos registrados de mpox -antes denominada viruela del mono-, alcanzando los 8.632 hasta abri\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-espana-sigue-siendo-pais-europa-mas-casos-mpox-20251126150912.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251126150912_1200.jpg",
+      "publishedAt": "2025-11-26 14:09:12",
+      "content": "MADRID 26 Nov. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado de que Espa\u00f1a contin\u00faa siendo el pa\u00eds de Europa con m\u00e1s\u2026 [+1935 chars]",
+      "retrievedAt": "2025-11-27 19:05:59.765657",
+      "internal_id": "5d8e23eaa748d74ecf29cbe05c55b23182575595656dd235b5b9b214f7f88522",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25902,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stephanie A. Shwiff, Emily S. Acheson, Levi Altringer, Patrick A. Leighton, Larissa Nituch, Sarah Sykora, Fran\u00e7ois Viard, Tore Buchanan",
+      "title": "Benefit-cost analysis of raccoon rabies control in Ontario, Canada",
+      "description": "Author summary In 2015, Ontario faced the largest raccoon rabies outbreak in Canadian history. The Ontario government implemented control measures to contain the outbreak. Our research explores the economic benefit of intervention strategies used by modeling \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013696",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013696.g003&size=inline",
+      "publishedAt": "2025-11-26 14:00:00",
+      "content": "Citation: Shwiff SA, Acheson ES, Altringer L, Leighton PA, Nituch L, Sykora S, et al. (2025) Benefit-cost analysis of raccoon rabies control in Ontario, Canada. PLoS Negl Trop Dis 19(11): e0013696.\u2026 [+24377 chars]",
+      "retrievedAt": "2025-11-27 19:05:57.224891",
+      "internal_id": "8b89aff6226007c17ec0b1447f70dc41c4e786795197f9adda71f5445a2eaa29",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25920,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abate Atimut Dereje, Dereje Geleta, Tadesse Menjetta, Abinet Takele, Susana Vaz Nery, Techalew Shimelis",
+      "title": "Investigating barriers to adherence to antimalarial prescribing guidelines in public healthcare facilities in Arba Minch, South Ethiopia: A qualitative study",
+      "description": "Background Early diagnosis and prompt treatment of malaria cases are a crucial component of curative and preventive interventions. There have been reports of healthcare workers overprescribing antimalarial agents against guidelines, but the barriers they face\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337326",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0337326.g001&size=inline",
+      "publishedAt": "2025-11-26 14:00:00",
+      "content": "We developed four key themes: barriers to malaria diagnosis and treatment, factors contributing to non-adherence in prescribing antimalarial drugs, availability of guidelines and training, and health\u2026 [+17997 chars]",
+      "retrievedAt": "2025-11-27 19:05:59.217432",
+      "internal_id": "938f6828b3f60ef6defa4281d2cd32111c610dcc16623a2ed94bcbca42a4b483",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25921,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mar\u00eda-Ang\u00e9lica Calder\u00f3n-Pel\u00e1ez, Myriam L. Velandia-Romero, J. Manuel Matiz-Gonz\u00e1lez, Jaime E. Castellanos",
+      "title": "Neural and endothelial cell-derived extracellular vesicles mediate Zika virus genome dissemination and productive infection in vivo",
+      "description": "Zika virus (ZIKV) is a neurotropic flavivirus linked to severe neurodevelopmental defects following prenatal exposure. While the mechanisms by which ZIKV spreads within the central nervous system remain incompletely understood, extracellular vesicles (EVs) ha\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337609",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0337609.g009&size=inline",
+      "publishedAt": "2025-11-26 14:00:00",
+      "content": "Citation: Calder\u00f3n-Pel\u00e1ez M-A, Velandia-Romero ML, Matiz-Gonz\u00e1lez JM, Castellanos JE (2025) Neural and endothelial cell-derived extracellular vesicles mediate Zika virus genome dissemination and prod\u2026 [+71443 chars]",
+      "retrievedAt": "2025-11-27 19:05:59.550680",
+      "internal_id": "b438d4e46cb2c0ab9270b0d9be3ca3efdfbc1facc1c822c268d1aa1ee9ba85c6",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25913,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Vict\u00f3ria Anhesini",
+      "title": "Anvisa aprova vacina contra dengue desenvolvida pelo Instituto Butantan",
+      "description": "Com a aprova\u00e7\u00e3o, a vacina pode ser inclu\u00edda no Programa Nacional de Imuniza\u00e7\u00f5es (PNI), mas a data precisa ser divulgada pelo Minist\u00e9rio da Sa\u00fade The post Anvisa aprova vacina contra dengue desenvolvida pelo Instituto Butantan appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/anvisa-aprova-vacina-contra-dengue-desenvolvida-pelo-instituto-butantan/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/06/vacinacao.jpg?quality=70",
+      "publishedAt": "2025-11-26 13:43:34",
+      "content": "A Anvisa deu sinal verde para a vacina contra a dengue criada pelo Instituto Butantan, que se destaca por ser a primeira do mundo aplicada em apenas uma dose. Chamada de Butantan-DV, ela ser\u00e1 destina\u2026 [+2830 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.723458",
+      "internal_id": "767d288004fec32ace1433f3b311fd6ca8f3b4242cde373adfa10fb76eef767f",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25910,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Anvisa aprova vacina contra dengue do Instituto Butantan",
+      "description": "Em testes, imunizante de dose \u00fanica demonstrou prote\u00e7\u00e3o de 89% contra casos graves da doen\u00e7a e protege contra os quatro sorotipos",
+      "url": "https://veja.abril.com.br/saude/anvisa-aprova-vacina-contra-dengue-do-instituto-butantan/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?resize=1080,565&crop=1",
+      "publishedAt": "2025-11-26 13:42:05",
+      "content": "Black das Blacks: VEJA com pre\u00e7o absurdoAedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria \u2026 [+3159 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.687064",
+      "internal_id": "b261b76198c164332655a9d34b6cd21f5100f46c5949ad4322aa05010d99fb4a",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25907,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC alerta sobre el riesgo para la salud humana del aumento \"sin precedentes\" de la gripe aviar en las aves",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha alertado este mi\u00e9rcoles de que el aumento \"sin precedentes\" en la Uni\u00f3n Europea de las detecciones de gripe aviar en aves silvestres y de corral, especialmente de la variante A(H5N1), su\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-riesgo-salud-humana-aumento-precedentes-gripe-aviar-aves-20251126142006.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251126142006_1200.jpg",
+      "publishedAt": "2025-11-26 13:20:06",
+      "content": "MADRID 26 Nov. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha alertado este mi\u00e9rcoles de que el aumento \"sin precedentes\" en la Uni\u00f3n Europea de las dete\u2026 [+3165 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.261342",
+      "internal_id": "29d3fadcac3ad06ea3f1c96c39230cca5626fec23761723f00fdcee73a4f0cf6",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25917,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Saiba como funciona a vacina contra a dengue que protege em dose \u00fanica",
+      "description": "Vacina do Butantan avan\u00e7a ap\u00f3s an\u00e1lise final da Anvisa e pode ampliar prote\u00e7\u00e3o contra dengue com dose \u00fanica e amplo alcance et\u00e1rio",
+      "url": "https://www.metropoles.com/saude/vacina-contra-a-dengue-dose-unica",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/04140558/denguee.jpg",
+      "publishedAt": "2025-11-26 13:13:44",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) aprovou a vacina contra a dengue criada pelo Instituto Butantan nesta quarta (26/11). A vacina demonstrou uma efic\u00e1cia elevada na preven\u00e7\u00e3o da deng\u2026 [+6900 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.771426",
+      "internal_id": "04f74d852b7e6ee57d259daec08b0e7a855d9bea665d94213fe03b1085d1766c",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25915,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Maia",
+      "title": "Anvisa aprova vacina do Butantan de dose \u00fanica contra a dengue",
+      "description": "Imunizante contra a dengue desenvolvido pelo Instituto Butantan ser\u00e1 destinado a pessoas de 12 a 59 anos",
+      "url": "https://www.metropoles.com/brasil/anvisa-aprova-vacina-do-butantan-de-dose-unica-contra-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/21134421/vacina-39.jpg",
+      "publishedAt": "2025-11-26 11:53:48",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) aprovou uma vacina contra a dengue desenvolvida pelo Instituto Butantan. O an\u00fancio oficial ser\u00e1 feito nesta quarta-feira (26/11). O imunizante But\u2026 [+221 chars]",
+      "retrievedAt": "2025-11-27 19:05:58.752743",
+      "internal_id": "d73eb9a21752e5a23876091ce5f70aad4e126282cde3aa805f8ac13ca09dffb7",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25905,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: MMRV vaccination",
+      "description": "A guide for parents and carers of children offered the MMRV vaccination which protects against measles, mumps, rubella and varicella.",
+      "url": "https://www.gov.uk/government/publications/mmrv-vaccination",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-11-26 11:02:52",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-11-27 19:05:57.717430",
+      "internal_id": "95a2b9e827d89a4ed674c6cab3839100be19c9fda5f2049ec1812b3cc49d5087",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25924,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN",
+      "title": "Bacolod: PHO logs 4 leptospirosis deaths, 90 cases in less than a month",
+      "description": "Bacolod City \u2013 The Provincial Health Office has logged 90 suspected leptospirosis cases, with four related- deaths, especially in the 4th and 5th district of Negros Occidental, as of November 24. Among the cases, 72 were exposed to floodwaters after Typhoon T\u2026",
+      "url": "https://rpnradio.com/bacolod-pho-logs-4-leptospirosis-deaths-90-cases-in-less-than-a-month/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/11/leptospirosis-1.jpg",
+      "publishedAt": "2025-11-26 10:53:57",
+      "content": "Bacolod City \u2013 The Provincial Health Office has logged 90 suspected leptospirosis cases, with four related- deaths, especially in the 4th and 5th district of Negros Occidental, as of November 24. Am\u2026 [+2450 chars]",
+      "retrievedAt": "2025-11-27 19:05:59.989336",
+      "internal_id": "58ab6d79d62b7e67aa6a0d92a7d6eaa64b935eb0fac625420704c274664336fc",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 25903,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Lauren Sausser",
+      "title": "South Carolina\u2019s Measles Outbreak Shows Chilling Effect of Vaccine Misinformation",
+      "description": "When a measles outbreak emerged in Spartanburg, South Carolina, in October, health officials announced that most cases were tied to one public charter school, where only 17% of the 605 students enrolled during the 2024-25 academic year provided documentation \u2026",
+      "url": "https://kffhealthnews.org/news/article/measles-outbreak-south-carolina-vaccine-misinformation-kennedy-rfk/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/11/MobileHealthUnit.jpg",
+      "publishedAt": "2025-11-26 10:00:00",
+      "content": "Lauren SausserBOILING SPRINGS, S.C. Near the back corner of the local library\u2019s parking lot, largely out of view from the main road, the South Carolina Department of Public Health opened a pop-up cli\u2026 [+9901 chars]",
+      "retrievedAt": "2025-11-27 19:05:57.672675",
+      "internal_id": "4ae9adf4352f566284ca9bf026bc6b6a125f8ff0a96796673b1692b364a1392e",
+      "publishedAtLabel": "Nov 26"
+    },
     {
       "id": 25901,
       "query": [
@@ -15092,313 +15506,6 @@
       "content": "NASHUA, N.H. \u2014The Nashua Division of Public Health is urging people to use caution around wildlife after a raccoon tested positive for rabies. Officials say the animal was recently captured, but did\u2026 [+484 chars]",
       "retrievedAt": "2025-10-14 07:07:51.592952",
       "internal_id": "0c357240b6e07f8514ca844b7a339f5e08f48b91fd4cf67a6bc5a80f3909a68a",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25059,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Caspar Schwietering",
-      "title": "Weltweiter Kampf gegen Infektionskrankheiten: Gesundheitsministerin Warken fordert St\u00e4rkung der WHO",
-      "description": "Die USA haben die WHO verlassen, nun drohen bei der weltweiten Bek\u00e4mpfung von Krankheiten wie Aids, Tuberkulose und Malaria R\u00fcckschritte. Gesundheitsministerin Warken will die Organisation nun st\u00e4rken.",
-      "url": "https://www.tagesspiegel.de/politik/weltweiter-kampf-gegen-infektionskrankheiten-gesundheitsministerin-warken-fordert-starkung-der-who-14546264.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14546261/alternates/BASE_16_9_W1400/1760291106000/ministerin-warken.jpeg",
-      "publishedAt": "2025-10-12 18:22:13",
-      "content": "Bundesgesundheitsministerin Nina Warken (CDU) hat vor ihrem Auftritt auf dem World Health Summit in Berlin an diesem Montag betont, wie wichtig die internationale Zusammenarbeit bei der Bek\u00e4mpfung vo\u2026 [+3164 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.612329",
-      "internal_id": "3ad37fb7bee3428a35dc623b1651afcc69a9237e51400ca07519f0d9f3ffc272",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25050,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Willow Tohi",
-      "title": "NIH-funded Scientists Engineered Hybrid Bird Flu Virus in Europe, Tested in U.S.",
-      "description": "The NIH funded the creation of a synthetic H5N1 hybrid virus using genetic material from multiple flu strains in European labs.",
-      "url": "https://www.shtfplan.com/headline-news/nih-funded-scientists-engineered-hybrid-bird-flu-virus-in-europe-tested-in-u-s",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/birdflu2.jpg",
-      "publishedAt": "2025-10-12 17:00:39",
-      "content": "This article was originally published by Willow Tohi at Natural News. The NIH funded the creation of a synthetic H5N1 hybrid virus using genetic material from multiple flu strains i\u2026 [+4481 chars]",
-      "retrievedAt": "2025-10-13 19:05:39.808882",
-      "internal_id": "b4324e0642b47ed9bfb2cc069d6c24dfc980fe81bb1589f1fe3c3b74600f64da",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25057,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "DIE ZEIT: Deutschland - Marla Noss",
-      "title": "Infektionskrankheiten: Deutschland sagt eine Milliarde f\u00fcr Kampf gegen Aids und Malaria zu",
-      "description": "Deutschland stellt f\u00fcr den Globalen Fonds zur Bek\u00e4mpfung von HIV/Aids, Tuberkulose und Malaria eine Milliarde Euro bereit. Der Fonds rettete seit 2002 rund 70 Mio. Leben.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-10/aids-tuberkulose-malaria-globaler-fond-deutschland",
-      "urlToImage": "https://img.zeit.de/politik/ausland/2025-10/deutschland-kampf-gegen-aids-bild/wide__1300x731",
-      "publishedAt": "2025-10-12 16:41:02",
-      "content": "F\u00fcr die kommenden drei Jahre hat Deutschland dem Globalen Fonds zur Bek\u00e4mpfung von HIV/Aids, Tuberkulose und Malaria eine Milliarde Euro zur Verf\u00fcgung gestellt. Das k\u00fcndigte Bundesentwicklungsministe\u2026 [+788 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.590778",
-      "internal_id": "238b1ffd3b281602ecd9322ab7054764b08d195e4f2928dfc161091c3a176cd5",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nep123.com",
-      "author": "Editor",
-      "title": "Dengue Outbreak in Nepal: Cases Surge, Fatalities Reported",
-      "description": "Dengue Outbreak in Nepal: Cases Surge and Claim Lives A concerning dengue outbreak is sweeping across Nepal, with the latest reports indicating a rapid increase in infections and, tragically, multiple fatalities. According to the Vector-Borne Disease Control \u2026",
-      "url": "https://nep123.com/dengue-outbreak-in-nepal-cases-surge-fatalities-reported/",
-      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "publishedAt": "2025-10-12 15:33:39",
-      "content": "Dengue Outbreak in Nepal: Cases Surge and Claim Lives A concerning dengue outbreak is sweeping across Nepal, with the latest reports indicating a rapid increase in infections and, tragically, multip\u2026 [+1808 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.230818",
-      "internal_id": "cca573efafdab5b4f3b0c518bc0269f91a6b1a556ffe328e06c4af3258e90e9f",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25052,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Macau alerta para subida nos casos de febre chikungunya",
-      "description": "Servi\u00e7os de Sa\u00fade de Macau revelaram a dete\u00e7\u00e3o de mais dois casos locais, elevando para oito o n\u00famero de pessoas portadoras do v\u00edrus chikungunya, que provoca sintomas semelhantes aos da dengue.",
-      "url": "https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A85%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F10%2F12112126%2F40113870.jpg?layer=obstop:T",
-      "publishedAt": "2025-10-12 15:09:22",
-      "content": "As autoridades da regi\u00e3o semiaut\u00f3noma chinesa de Macau lan\u00e7aram este domingo um alerta \u00e0 popula\u00e7\u00e3o, face ao aumento das infe\u00e7\u00f5es locais pelo v\u00edrus chikungunya, ap\u00f3s um surto na vizinha prov\u00edncia chin\u2026 [+2755 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.136586",
-      "internal_id": "4aee782c1832afe4565e1c5f7f9c35d260e1ff1144d73d7fc44073ea3c3167db",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25061,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Marie Zahout",
-      "title": "Bill Gates lobt \u201eF\u00fchrungsst\u00e4rke\u201c: Deutschland sagt eine Milliarde Euro f\u00fcr Aids-Bek\u00e4mpfung zu",
-      "description": "Deutschland stellt dem Globalen Fonds weniger Geld als bisher zur Verf\u00fcgung, um Aids, Malaria und Tuberkulose zu bek\u00e4mpfen. Microsoft-Gr\u00fcnder Bill Gates und U2-S\u00e4nger Bono sind dennoch erleichtert.",
-      "url": "https://www.tagesspiegel.de/politik/bill-gates-lobt-fuhrungsstarke-deutschland-sagt-eine-milliarde-euro-fur-aids-bekampfung-zu-14544230.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/14544170/alternates/BASE_16_9_W1400/1760274832000/bill-gates-at-rendez-vous-de-bercy-paris-microsoft-co-founder-and-bill-melinda-gates-foundation-co-chair-bill-gates.jpeg",
-      "publishedAt": "2025-10-12 13:50:40",
-      "content": "Bundesentwicklungsministerin Reem Alabali Radovan (SPD) hat dem Globalen Fonds zur Bek\u00e4mpfung von HIV/Aids, Tuberkulose und Malaria in den kommenden drei Jahren eine Milliarde Euro zugesagt. Das k\u00fcnd\u2026 [+4565 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.656300",
-      "internal_id": "74baa3770e66b21baf1a9fe7f18bdfa009919e9adc548b36109aadf9a05e19e6",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25056,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Weltgesundheitsgipfel in Berlin: Deutschland gibt eine Milliarde f\u00fcr Kampf gegen Aids und Malaria",
-      "description": "Aids, Malaria und Tuberkulose gelten als die drei t\u00f6dlichsten Infektionskrankheiten der Menschheit. Ihre Bek\u00e4mpfung ist von zentraler Bedeutung. Trotz enormen Spardrucks sagt Deutschland eine gro\u00dfe Summe f\u00fcr den Globalen Fonds zu.",
-      "url": "https://www.n-tv.de/politik/Deutschland-gibt-eine-Milliarde-fuer-Kampf-gegen-Aids-und-Malaria-article26091244.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop26091263/9371327009-cImg_16_9-w1200/552036257.jpg",
-      "publishedAt": "2025-10-12 13:42:06",
-      "content": "Aids, Malaria und Tuberkulose gelten als die drei t\u00f6dlichsten Infektionskrankheiten der Menschheit. Ihre Bek\u00e4mpfung ist von zentraler Bedeutung. Trotz enormen Spardrucks sagt Deutschland eine gro\u00dfe S\u2026 [+2978 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.563717",
-      "internal_id": "5c9980ad6e278fadce4e2aa90caad5aa6058f44bc0e80a032b0f1ff01119b6c1",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25058,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "S\u00fcddeutsche Zeitung",
-      "title": "Infektionskrankheiten: Deutschland gibt eine Milliarde gegen Seuchen",
-      "description": "",
-      "url": "https://www.sueddeutsche.de/politik/infektionskrankheiten-deutschland-gibt-eine-milliarde-gegen-seuchen-li.3324902",
-      "urlToImage": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png",
-      "publishedAt": "2025-10-12 13:40:38",
-      "content": "Deutschland stellt in den kommenden drei Jahren eine Milliarde Euro f\u00fcr den weltweiten Kampf gegen Aids, Tuberkulose und Malaria bereit. Bundesentwicklungsministerin Reem Alabali Radovan sagte diese \u2026 [+646 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.602923",
-      "internal_id": "b78903591c3350f2477162c071b713d4f62658beeff73297c86212dd6033f9c0",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25051,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "S\u00fcddeutsche Zeitung",
-      "title": "Umwelt und Natur: Vogelgrippe in Simbach \u2013 Beh\u00f6rden richten Kontrollzone ein",
-      "description": "Fast 3000 G\u00e4nse sind in einem Gefl\u00fcgelbetrieb in Simbach an der Vogelgrippe verendet. Die Beh\u00f6rden wollen eine Ausbreitung unbedingt verhindern.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868",
-      "urlToImage": "https://www.sueddeutsche.de/2025/10/12/1ff37ea5-e3bb-4a0c-a593-3db2e331da57.jpg?q=60&fm=webp&width=1200&rect=0%2C209%2C4000%2C2250",
-      "publishedAt": "2025-10-12 13:36:34",
-      "content": "In dem Gefl\u00fcgelbetrieb waren innerhalb weniger Tage fast 3000 G\u00e4nse verendet. Ausl\u00f6ser war der Vogelgrippe-Erreger H5N1, wie die Analyse des Friedrich-Loeffler-Instituts in Potsdam ergab. Von Aschaf\u2026 [+590 chars]",
-      "retrievedAt": "2025-10-13 19:05:39.818743",
-      "internal_id": "554ef8af9cfd2c29bcd4a366bc568fd442df57c87cdff895ea45a22087677e5c",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25055,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "tagesschau.de",
-      "author": null,
-      "title": "Deutschland gibt eine Milliarde Euro gegen Infektionskrankheiten",
-      "description": "Aids, Tuberkulose und Malaria gelten als die drei t\u00f6dlichsten Infektionskrankheiten. Insbesondere in armen Staaten sterben Menschen daran. F\u00fcr einen bessere Bek\u00e4mpfung stellt Deutschland nun eine Milliarde Euro zur Verf\u00fcgung.",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/krankheiten-bekaempfung-bundesregierung-100.html",
-      "urlToImage": "https://images.tagesschau.de/image/cf97ee01-f360-415d-a3bb-9f4c09ee1219/AAABmdh3YTY/AAABmKJZ-0g/16x9-big/radovan-108.jpg?width=1280",
-      "publishedAt": "2025-10-12 13:06:52",
-      "content": "Stand: 12.10.2025 15:06 Uhr Aids, Tuberkulose und Malaria gelten als die drei t\u00f6dlichsten Infektionskrankheiten. Insbesondere in armen Staaten sterben Menschen daran. F\u00fcr einen bessere Bek\u00e4mpfung st\u2026 [+1870 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.545716",
-      "internal_id": "1e6b2442e1d5fd107958c8d707133352b3bc1ac045ff83a77d3c8cee075e267f",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25049,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Crooksandliars.com",
-      "author": "Steve in Manhattan",
-      "title": "Mike\u2019s Blog Roundup",
-      "description": "Crazy Eddie\u2019s Motie News - Measles and Polio Down in the Schoolyard! Froomkin - what is Stephen Miller trying to accomplish? Seeing the Forest - the real AI question: who benefits? String in a Maze - Bari Weiss takes her grift mainstream; We Hunted the Mammot\u2026",
-      "url": "https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday",
-      "urlToImage": "https://crooksandliars.com/files/embeds/2025/10/67515.jpg",
-      "publishedAt": "2025-10-12 13:02:01",
-      "content": "Crazy Eddies Motie News - Measles and Polio Down in the Schoolyard! Froomkin - what is Stephen Miller trying to accomplish? Seeing the Forest - the real AI question: who benefits? String in a Maze\u2026 [+189 chars]",
-      "retrievedAt": "2025-10-13 19:05:39.499320",
-      "internal_id": "36153616144d4f4b701cb39b774ea03d0732530f83d215c906273a181b7eefa8",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25060,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Trotz Haushaltsk\u00fcrzungen: Deutschland investiert eine Milliarde Euro im Kampf gegen Aids, Tuberkulose und Malaria",
-      "description": "Sparzw\u00e4nge im Haushalt betreffen auch Vorhaben der internationalen Gesundheitspolitik. F\u00fcr einen wichtigen Fonds macht die Bundesregierung jetzt aber eine Zusage.",
-      "url": "https://www.tagesspiegel.de/politik/trotz-haushaltskurzungen-deutschland-investiert-eine-milliarde-euro-im-kampf-gegen-aids-tuberkulose-und-malaria-14543771.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/9963027/alternates/BASE_16_9_W1400/1760273585000/mobile-hilfsteams-im-umkampften-im-sudsudan.jpeg",
-      "publishedAt": "2025-10-12 12:55:35",
-      "content": "Deutschland stellt in den kommenden drei Jahren eine Milliarde Euro f\u00fcr den weltweiten Kampf gegen Aids, Tuberkulose und Malaria bereit. Bundesentwicklungsministerin Reem Alabali Radovan sagte diese \u2026 [+1861 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.629849",
-      "internal_id": "a5aa5bce3817fc4743d421156299596bda75805ec318d914d9951183a6e75b95",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25064,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Elis Gjevori",
-      "title": "Bangladesh rolls out typhoid immunisation drive for 50 million children",
-      "description": "The campaign aims to protect the children from the drug-resistant disease spreading across South Asia.",
-      "url": "https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-07T224137Z_87066588_RC2SYGA6ZQ7Z_RTRMADP_3_BANGLADESH-CLIMATE-EDUCATION-1760270834.jpg?resize=1920%2C1440",
-      "publishedAt": "2025-10-12 12:14:46",
-      "content": "Bangladesh has begun a nationwide vaccination campaign to protect millions of children from typhoid, a life-threatening disease that is becoming increasingly resistant to antibiotics. The monthlong \u2026 [+1875 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.597880",
-      "internal_id": "c876a42a24eabc96f7588703eb2d828734a7ff7bba7de446c9d4199914491962",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25065,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Bangladesh launches typhoid vaccination drive to combat drug-resistant threat",
-      "description": "DHAKA (Reuters) -Bangladesh launched a nationwide vaccination campaign on Sunday to protect millions of children from typhoid, a deadly and increasingly drug-resistant disease that poses a growing public health threat. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2025/10/12/bangladesh-launches-typhoid-vaccination-drive-to-combat-drug-resistant-threat",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-10-12 10:14:00",
-      "content": "DHAKA (Reuters) -Bangladesh launched a nationwide vaccination campaign on Sunday to protect millions of children from typhoid, a deadly and increasingly drug-resistant disease that poses a growing pu\u2026 [+399 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.624168",
-      "internal_id": "23f99cc44778b962b1048a28317f6b215d9b1d886612c252a791e926c0c36f85",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25062,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Skai.gr",
-      "author": "Newsroom",
-      "title": "\u0395\u0395: T\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c6\u03ad\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03ac \u03c4\u03bf\u03c5 \u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u039d\u03b5\u03af\u03bb\u03bf\u03c5",
-      "description": "O \u00ab\u03c4\u03af\u03b3\u03c1\u03b7\u03c2 \u03c4\u03b7\u03c2 \u0391\u03c3\u03af\u03b1\u03c2\u00bb \u03b1\u03bd\u03b1\u03b6\u03c9\u03c0\u03c5\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0395\u0395 \u03b3\u03b9\u03b1 \u03bd\u03ad\u03b5\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b5\u03c2, \u03bc\u03ad\u03c3\u03c9 \u03c4\u03c9\u03bd \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03ce\u03bd, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b9\u03ba\u03b1\u03bd\u03cc\u03c2 \u03b4\u03b9\u03b1\u03b2\u03b9\u03b2\u03b1\u03c3\u03c4\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03ce\u03bd",
-      "url": "https://www.skai.gr/news/health/ee-ta-krousmata-tsikoungkounia-kai-dagkeiou-pyretou-kseperasan-fetos-ayta-tou-dytikou-neil",
-      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2020-09/kounoupi_neilos_eody.jpg?itok=l4kzQ6X-",
-      "publishedAt": "2025-10-12 08:23:16",
-      "content": "O \u00ab \u00bb , , O . 90 , . chikungunya (- CHIK) (DEN) \u00ab \u00bb , . 8/10/2025 700 353 . (https://www.ecdc.europa.eu/en/chikungunya-virus-disease/surveillance-and-updates/seasonal-surveillance) 68 4 . , Aede\u2026 [+704 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.110250",
-      "internal_id": "67a0b6b9b0a8cd1e2e9e471b8ba535af9f53fe91212c9be4fae032b05eb9ae69",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25053,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 11 mil 815 casos de dengue, de los cuales 5 mil 624 corresponden a contagios clasificados como de alarma y grave. Los decesos verificados por pruebas de laboratorio se elevaron a \u2026",
-      "url": "https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-10-12 08:19:19",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de octubre de 2025, p. 31 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 11 mil 815 casos de dengue, de los cuales 5 mil 624 correspon\u2026 [+2068 chars]",
-      "retrievedAt": "2025-10-13 19:05:40.220945",
-      "internal_id": "6db510c4ea6e195cb01dddeff765fc21629bfde5e974fd8dada19ee506be5160",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 25063,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Protothema.gr",
-      "author": null,
-      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9 \u00ab\u03a4\u03af\u03b3\u03c1\u03b7\u03c2 \u03c4\u03b7\u03c2 \u0391\u03c3\u03af\u03b1\u03c2\u00bb: T\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03cd \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03b1\u03c5\u03c4\u03ac \u03c4\u03bf\u03c5 \u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u039d\u03b5\u03af\u03bb\u03bf\u03c5",
-      "description": "H \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03bf\u03cd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 , \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c3\u03c5\u03c3\u03c7\u03b5\u03c4\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c5\u03c3\u03af\u03b1 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03c9\u03c4\u03ce\u03bd \u03b1\u03c0\u03cc \u03b5\u03bd\u03b4\u03b7\u03bc\u03b9\u03ba\u03ad\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03ce\u03c1\u03b5\u03c2 | \u0394\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c2 \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc\u03c2 | \u0399\u03cc\u03c2 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u2026",
-      "url": "https://www.protothema.gr/ugeia/article/1709459/sunagermos-stin-europi-gia-to-kounoupi-tigris-tis-asias-ta-krousmata-tsikoungounia-kai-dageiou-puretou/",
-      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-09-27/kounoupi_tigris_dagkeios_711675304.jpg",
-      "publishedAt": "2025-10-12 07:58:00",
-      "content": "O , '90 , .chikungunya (- CHIK) (DEN) \u00ab \u00bb , . 8/10/2025 700 353 68 4 . , Aedes albopictus , 1 . H chikungunya, . (), . 8 8 93 4 , 2010.\u00ab\u00bb . ( ) . - Sandra Gewehr, R&amp;D (European Mosquito C\u2026 [+436 chars]",
-      "retrievedAt": "2025-10-13 19:05:41.119699",
-      "internal_id": "43b67f99ab37560ebefcbbc10c979b30c27c537fa084cd6ac3fa08d5cd126243",
       "publishedAtLabel": "Oct 12"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-11-27 07:08
-- **Most recent article:** 2025-11-26 04:19:40
+- **New articles in last harvest:** 23
+- **Last harvest:** 2025-11-27 19:06
+- **Most recent article:** 2025-11-26 18:33:17
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-42 | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 25 | 35 | 21 | 59 | 27 | 7 | 209 |
-| h5n1 | 8 | 32 | 34 | 32 | 31 | 21 | 13 | 171 |
-| dengue | 18 | 14 | 33 | 33 | 22 | 13 | 7 | 140 |
-| malaria | 24 | 17 | 17 | 19 | 20 | 12 | 8 | 117 |
-| chikungunya | 28 | 11 | 9 | 13 | 4 | 2 | 1 | 68 |
-| mpox | 11 | 8 | 20 | 5 | 6 | 3 | 2 | 55 |
-| rabies | 9 | 3 | 1 | 4 | 4 | 4 | 5 | 30 |
+| measles | 34 | 25 | 35 | 21 | 59 | 27 | 10 | 211 |
+| h5n1 | 6 | 32 | 34 | 32 | 31 | 21 | 15 | 171 |
+| dengue | 15 | 14 | 33 | 33 | 22 | 13 | 19 | 149 |
+| malaria | 17 | 17 | 17 | 19 | 20 | 12 | 9 | 111 |
+| chikungunya | 25 | 11 | 9 | 13 | 4 | 2 | 1 | 65 |
+| mpox | 11 | 8 | 20 | 5 | 6 | 3 | 4 | 57 |
+| rabies | 9 | 3 | 1 | 4 | 4 | 4 | 6 | 31 |
 | meningitis | 4 | 1 | 5 | 0 | 8 | 3 | 4 | 25 |
-| zika | 1 | 3 | 5 | 9 | 2 | 1 | 0 | 21 |
+| zika | 1 | 3 | 5 | 9 | 2 | 1 | 1 | 22 |
 | hpai | 0 | 4 | 2 | 1 | 5 | 2 | 1 | 15 |
-| leptospirosis | 4 | 0 | 1 | 1 | 2 | 1 | 4 | 13 |
+| leptospirosis | 4 | 0 | 1 | 1 | 2 | 1 | 5 | 14 |
 | pertussis | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 12 |
-| typhoid | 4 | 1 | 1 | 1 | 2 | 2 | 0 | 11 |
+| typhoid | 2 | 1 | 1 | 1 | 2 | 2 | 0 | 9 |
 | yersinia | 1 | 1 | 1 | 4 | 0 | 2 | 0 | 9 |
 | shigellosis | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
@@ -33,7 +33,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-48 (zika)
+
+- [Neural and endothelial cell-derived extracellular vesicles mediate Zika virus genome dissemination and productive infection in vivo](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337609) (Plos.org)
+
 ## 25-48 (rabies)
+
+- [Benefit-cost analysis of raccoon rabies control in Ontario, Canada](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013696) (Plos.org)
 
 - [Rabies advisory issued in Duval County after raccoon killed in Golden Glades neighborhood, Department of Health says](https://www.news4jax.com/news/local/2025/11/25/rabies-advisory-issued-in-duval-county-after-raccoon-killed-in-golden-glades-neighborhood-department-of-health-says/) (WJXT News4JAX)
 
@@ -55,6 +61,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-48 (mpox)
 
+- [Monkeypox Strain Clade 1b Spreads in Europe, Leading to Push for Vaccination](https://legalinsurrection.com/2025/11/monkeypox-strain-clade-1b-spreads-in-europe-leading-to-push-for-vaccination/) (Legalinsurrection.com)
+
+- [España sigue siendo el país de Europa con más casos de mpox](https://www.infosalus.com/salud-investigacion/noticia-espana-sigue-siendo-pais-europa-mas-casos-mpox-20251126150912.html) (Infosalus.com)
+
 - [Kisumu confirms first MPOX case, issues Public Health alert](https://www.citizen.digital/news/kisumu-confirms-first-mpox-case-issues-public-health-alert-n373552) (Citizen.digital)
 
 - [Ministry of Health Urges Vigilance as Public Health Lab Handles Rising Disease Samples](http://www.kenyans.co.ke/news/118276-ministry-health-urges-vigilance-public-health-lab-handles-rising-disease-samples) (Kenyans.co.ke)
@@ -71,6 +81,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-48 (measles)
 
+- [Online harassment is silencing Canada’s health experts — institutions need to do more to protect them](https://theconversation.com/online-harassment-is-silencing-canadas-health-experts-institutions-need-to-do-more-to-protect-them-267532) (The Conversation Africa)
+
+- [Guidance: MMRV vaccination](https://www.gov.uk/government/publications/mmrv-vaccination) (Www.gov.uk)
+
+- [South Carolina’s Measles Outbreak Shows Chilling Effect of Vaccine Misinformation](https://kffhealthnews.org/news/article/measles-outbreak-south-carolina-vaccine-misinformation-kennedy-rfk/) (Kffhealthnews.org)
+
 - [Dr. Leila Myrick honored for efforts to contain West Texas measles outbreak](https://www.kcbd.com/2025/11/26/dr-leila-myrick-honored-efforts-contain-west-texas-measles-outbreak/) (KCBD)
 
 - [Tuesday, November 25, 2025](https://kffhealthnews.org/morning-briefing/tuesday-november-25-2025/) (Kffhealthnews.org)
@@ -86,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 - [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
 
 ## 25-48 (malaria)
+
+- [Investigating barriers to adherence to antimalarial prescribing guidelines in public healthcare facilities in Arba Minch, South Ethiopia: A qualitative study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337326) (Plos.org)
 
 - [Thousands of mosquitoes are being dropped by drone over islands in Hawaii. Here’s why](https://www.cnn.com/science/hawaii-mosquitoes-rare-birds-drones-c2e-spc) (CNN)
 
@@ -105,6 +123,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-48 (leptospirosis)
 
+- [Bacolod: PHO logs 4 leptospirosis deaths, 90 cases in less than a month](https://rpnradio.com/bacolod-pho-logs-4-leptospirosis-deaths-90-cases-in-less-than-a-month/) (Rpnradio.com)
+
 - [BACOLOD: CLMMRH reports leptospirosis surge](https://rpnradio.com/bacolod-clmmrh-reports-leptospirosis-surge/) (Rpnradio.com)
 
 - [Jamaica: Six Dead Amid Leptospirosis Outbreak In Aftermath Of Record-Setting Hurricane Melissa](https://dailycaller.com/2025/11/24/jamaica-six-dead-leptospirosis-outbreak-hurricane-melissa/) (The Daily Caller)
@@ -118,6 +138,10 @@ Source: [News API](https://newsapi.org/)
 - [Bruxelles actualizează măsurile împotriva gripei aviare după ce a detectat încă 96 de focare în UE. Virusul, detectat și la granița cu România](https://www.mediafax.ro/stirile-zilei/bruxelles-actualizeaza-masurile-impotriva-gripei-aviare-dupa-ce-a-detectat-inca-96-de-focare-in-ue-virusul-detectat-si-la-granita-cu-romania-23647101) (Mediafax.ro)
 
 ## 25-48 (h5n1)
+
+- [Morcegos-vampiros do Peru têm indícios de infecção por gripe aviária](https://www.metropoles.com/ciencia/morcegos-peru-gripe-aviaria) (Metropoles.com)
+
+- [El ECDC alerta sobre el riesgo para la salud humana del aumento "sin precedentes" de la gripe aviar en las aves](https://www.infosalus.com/salud-investigacion/noticia-ecdc-alerta-riesgo-salud-humana-aumento-precedentes-gripe-aviar-aves-20251126142006.html) (Infosalus.com)
 
 - [First human bird-flu death from H5N5 – what you need to know](https://theconversation.com/first-human-bird-flu-death-from-h5n5-what-you-need-to-know-270535) (The Conversation Africa)
 
@@ -146,6 +170,30 @@ Source: [News API](https://newsapi.org/)
 - [Δεύτερος θάνατος από γρίπη των πτηνών στις ΗΠΑ](https://www.skai.gr/news/world/deyteros-thanatos-apo-gripi-ton-ptinon-stis-ipa) (Skai.gr)
 
 ## 25-48 (dengue)
+
+- [“Vitória da ciência, do Butantan”, diz Tarcísio sobre vacina da dengue](https://www.metropoles.com/sao-paulo/vitoria-da-ciencia-do-butantan-diz-tarcisio-sobre-vacina-da-dengue) (Metropoles.com)
+
+- [Anvisa aprova vacina do Butantan contra a dengue](https://valor.globo.com/brasil/noticia/2025/11/26/anvisa-aprova-vacina-do-butantan-contra-a-dengue.ghtml) (Globo)
+
+- [Hugo Motta, que é médico, exalta vacina do Butantan contra a dengue](https://www.metropoles.com/brasil/hugo-motta-que-e-medico-exalta-vacina-do-butantan-contra-a-dengue) (Metropoles.com)
+
+- [4 questões para entender a nova vacina de dose única contra a dengue](https://super.abril.com.br/saude/4-questoes-para-entender-a-nova-vacina-de-dose-unica-contra-a-dengue/) (Abril.com.br)
+
+- [Anvisa aprova vacina do Butantan contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/anvisa-aprova-vacina-do-butantan-contra-a-dengue,7512f1a0633d8440e86fc8b4de42be098hkwe3wu.html) (Terra.com.br)
+
+- [SP já tem 1,2 milhão de doses de vacinas da dengue para vacinação nacional](https://veja.abril.com.br/brasil/sp-ja-tem-12-milhao-de-doses-de-vacinas-da-dengue-para-vacinacao-nacional/) (Abril.com.br)
+
+- [Brasil aprova 1ª vacina de dose única contra a dengue](https://olhardigital.com.br/2025/11/26/medicina-e-saude/brasil-aprova-1a-vacina-de-dose-unica-contra-a-dengue/) (Olhardigital.com.br)
+
+- [Brasil aprova a 1ª vacina de dose única do mundo contra a dengue](https://www.diariodocentrodomundo.com.br/brasil-aprova-a-1a-vacina-de-dose-unica-do-mundo-contra-a-dengue/) (Diariodocentrodomundo.com.br)
+
+- [Anvisa aprova vacina contra dengue desenvolvida pelo Instituto Butantan](https://www.infomoney.com.br/saude/anvisa-aprova-vacina-contra-dengue-desenvolvida-pelo-instituto-butantan/) (InfoMoney)
+
+- [Anvisa aprova vacina contra dengue do Instituto Butantan](https://veja.abril.com.br/saude/anvisa-aprova-vacina-contra-dengue-do-instituto-butantan/) (Abril.com.br)
+
+- [Saiba como funciona a vacina contra a dengue que protege em dose única](https://www.metropoles.com/saude/vacina-contra-a-dengue-dose-unica) (Metropoles.com)
+
+- [Anvisa aprova vacina do Butantan de dose única contra a dengue](https://www.metropoles.com/brasil/anvisa-aprova-vacina-do-butantan-de-dose-unica-contra-a-dengue) (Metropoles.com)
 
 - [Linking multiple serological assays to infer dengue virus infections from paired samples using mixture models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013708) (Plos.org)
 
@@ -1705,10 +1753,6 @@ Source: [News API](https://newsapi.org/)
 
 - [New vaccine for typhoid, salmonella shows promise](https://www.bostonherald.com/2025/10/14/new-vaccine-for-typhoid-salmonella-shows-promise/) (Boston Herald)
 
-- [Bangladesh rolls out typhoid immunisation drive for 50 million children](https://www.aljazeera.com/news/2025/10/12/bangladesh-rolls-out-typhoid-immunisation-drive-for-50-million-children) (Al Jazeera English)
-
-- [Bangladesh launches typhoid vaccination drive to combat drug-resistant threat](https://www.thestar.com.my/news/world/2025/10/12/bangladesh-launches-typhoid-vaccination-drive-to-combat-drug-resistant-threat) (The Star Online)
-
 ## 25-42 (rabies)
 
 - [Mumbai: 21-year-old dies of rabies in Ambernath](https://timesofindia.indiatimes.com/city/mumbai/mumbai-21-year-old-dies-of-rabies-in-ambernath/articleshow/124672416.cms) (The Times of India)
@@ -1833,8 +1877,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreaks Send Students Into Quarantine](https://www.newser.com/story/376713/measles-outbreaks-send-students-into-quarantine.html) (Newser)
 
-- [Mike’s Blog Roundup](https://crooksandliars.com/2025/10/mike-s-blog-roundup-hold-sunday) (Crooksandliars.com)
-
 ## 25-42 (malaria)
 
 - [El River de Marcelo Gallardo viaja a Córdoba para salir de la crisis](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-viaja-a-cordoba-para-salir-de-la-crisis.phtml) (Perfil.com)
@@ -1871,20 +1913,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO: Antibiotikaresistenz steigt weltweit deutlich an](https://www.spektrum.de/news/who-antibiotikaresistenz-steigt-weltweit-deutlich-an/2291116) (Spektrum.de)
 
-- [Weltweiter Kampf gegen Infektionskrankheiten: Gesundheitsministerin Warken fordert Stärkung der WHO](https://www.tagesspiegel.de/politik/weltweiter-kampf-gegen-infektionskrankheiten-gesundheitsministerin-warken-fordert-starkung-der-who-14546264.html) (Der Tagesspiegel)
-
-- [Infektionskrankheiten: Deutschland sagt eine Milliarde für Kampf gegen Aids und Malaria zu](https://www.zeit.de/politik/deutschland/2025-10/aids-tuberkulose-malaria-globaler-fond-deutschland) (Die Zeit)
-
-- [Bill Gates lobt „Führungsstärke“: Deutschland sagt eine Milliarde Euro für Aids-Bekämpfung zu](https://www.tagesspiegel.de/politik/bill-gates-lobt-fuhrungsstarke-deutschland-sagt-eine-milliarde-euro-fur-aids-bekampfung-zu-14544230.html) (Der Tagesspiegel)
-
-- [Weltgesundheitsgipfel in Berlin: Deutschland gibt eine Milliarde für Kampf gegen Aids und Malaria](https://www.n-tv.de/politik/Deutschland-gibt-eine-Milliarde-fuer-Kampf-gegen-Aids-und-Malaria-article26091244.html) (N-tv.de)
-
-- [Infektionskrankheiten: Deutschland gibt eine Milliarde gegen Seuchen](https://www.sueddeutsche.de/politik/infektionskrankheiten-deutschland-gibt-eine-milliarde-gegen-seuchen-li.3324902) (Süddeutsche Zeitung)
-
-- [Deutschland gibt eine Milliarde Euro gegen Infektionskrankheiten](https://www.tagesschau.de/inland/gesellschaft/krankheiten-bekaempfung-bundesregierung-100.html) (tagesschau.de)
-
-- [Trotz Haushaltskürzungen: Deutschland investiert eine Milliarde Euro im Kampf gegen Aids, Tuberkulose und Malaria](https://www.tagesspiegel.de/politik/trotz-haushaltskurzungen-deutschland-investiert-eine-milliarde-euro-im-kampf-gegen-aids-tuberkulose-und-malaria-14543771.html) (Der Tagesspiegel)
-
 ## 25-42 (leptospirosis)
 
 - [Murió una persona de leptospirosis en Montevideo: por qué la lluvia importa en el contagio](https://www.montevideo.com.uy/Salud/Murio-una-persona-de-leptospirosis-en-Montevideo-por-que-la-lluvia-importa-en-el-contagio-uc940202) (Montevideo.com.uy)
@@ -1908,10 +1936,6 @@ Source: [News API](https://newsapi.org/)
 - [Quinto foco de gripe aviar en Valladolid en menos de un mes: casi 900.000 aves sacrificadas desde septiembre](https://www.elespanol.com/castilla-y-leon/region/valladolid/20251013/quinto-foco-gripe-aviar-valladolid-mes-aves-sacrificadas-septiembre/1003743967777_0.html) (Elespanol.com)
 
 - [Foco de influenza aviar en una granja con 66.000 aves de la zona vigilada en Olmedo](https://www.europapress.es/castilla-y-leon/noticia-foco-influenza-aviar-granja-66000-aves-zona-vigilada-olmedo-20251013194956.html) (Europapress.es)
-
-- [NIH-funded Scientists Engineered Hybrid Bird Flu Virus in Europe, Tested in U.S.](https://www.shtfplan.com/headline-news/nih-funded-scientists-engineered-hybrid-bird-flu-virus-in-europe-tested-in-u-s) (Shtfplan.com)
-
-- [Umwelt und Natur: Vogelgrippe in Simbach – Behörden richten Kontrollzone ein](https://www.sueddeutsche.de/bayern/bayern-vogelgrippe-simbach-kontrollzone-li.3324868) (Süddeutsche Zeitung)
 
 ## 25-42 (dengue)
 
@@ -1944,12 +1968,6 @@ Source: [News API](https://newsapi.org/)
 - [Baglung Battles Dengue: “Search and Destroy” Launched](https://nep123.com/baglung-battles-dengue-search-and-destroy-launched/) (Nep123.com)
 
 - [Dengue cases rising: 413 new infection in a week](https://mypeoplesreview.com/2025/10/13/dengue-cases-rising-413-new-infection-in-a-week/) (Mypeoplesreview.com)
-
-- [Dengue Outbreak in Nepal: Cases Surge, Fatalities Reported](https://nep123.com/dengue-outbreak-in-nepal-cases-surge-fatalities-reported/) (Nep123.com)
-
-- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
-
-- [Van 11 mil 815 casos de dengue; decesos llegan a 48, reporta Ssa](https://www.jornada.com.mx/2025/10/12/sociedad/031n1soc) (Jornada.com.mx)
 
 ## 25-42 (chikungunya)
 
@@ -2002,9 +2020,3 @@ Source: [News API](https://newsapi.org/)
 - [New York health officials confirm state’s first locally acquired case of chikungunya virus](https://www.news4jax.com/health/2025/10/15/new-york-health-officials-confirm-states-first-locally-acquired-case-of-chikungunya-virus/) (WJXT News4JAX)
 
 - [Brazil opens world’s largest mosquito biofactory to fight disease](https://www.upi.com/Health_News/2025/10/13/brazil-mosquito-factory-dengue-Zika-chikungunya-viruses/5701760117419/) (UPI.com)
-
-- [Macau alerta para subida nos casos de febre chikungunya](https://observador.pt/2025/10/12/macau-lanca-alerta-para-subida-dos-casos-de-febre-chikungunya/) (Observador.pt)
-
-- [ΕΕ: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν φέτος αυτά του Δυτικού Νείλου](https://www.skai.gr/news/health/ee-ta-krousmata-tsikoungkounia-kai-dagkeiou-pyretou-kseperasan-fetos-ayta-tou-dytikou-neil) (Skai.gr)
-
-- [Συναγερμός στην Ευρώπη για το κουνούπι «Τίγρης της Ασίας»: Tα κρούσματα τσικουνγκούνια και δάγκειου πυρετού ξεπέρασαν αυτά του Δυτικού Νείλου](https://www.protothema.gr/ugeia/article/1709459/sunagermos-stin-europi-gia-to-kounoupi-tigris-tis-asias-ta-krousmata-tsikoungounia-kai-dageiou-puretou/) (Protothema.gr)
