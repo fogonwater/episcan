@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 6
-- **Last harvest:** 2025-11-30 07:07
-- **Most recent article:** 2025-11-29 06:27:19
+- **Last harvest:** 2025-11-30 19:05
+- **Most recent article:** 2025-11-29 17:09:27
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 17 | 182 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 27 | 177 |
-| dengue | 14 | 33 | 33 | 22 | 13 | 34 | 149 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 15 | 100 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 183 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 179 |
+| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 149 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 16 | 101 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 47 |
 | chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 40 |
-| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 24 |
-| zika | 3 | 5 | 9 | 2 | 1 | 1 | 21 |
+| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 23 |
+| zika | 3 | 5 | 9 | 2 | 1 | 2 | 22 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 21 |
-| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 15 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 5 | 14 |
+| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 13 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 12 |
+| typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 8 |
-| typhoid | 1 | 1 | 1 | 2 | 2 | 0 | 7 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 
@@ -35,7 +35,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-48 (zika)
 
+- [These Zika mothers went to battle -- and their cry was heard](https://www.npr.org/sections/goats-and-soda/2025/11/29/g-s1-98622/these-zika-mothers-went-to-battle-and-their-cry-was-heard) (NPR)
+
 - [Neural and endothelial cell-derived extracellular vesicles mediate Zika virus genome dissemination and productive infection in vivo](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337609) (Plos.org)
+
+## 25-48 (typhoid)
+
+- [Malaria now a rare disease in Lagos – Health commissioner](https://punchng.com/malaria-now-a-rare-disease-in-lagos-health-commissioner/) (The Punch)
 
 ## 25-48 (rabies)
 
@@ -99,6 +105,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Guidance: MMRV programme: information for healthcare practitioners](https://www.gov.uk/government/publications/mmrv-programme-information-for-healthcare-practitioners) (Www.gov.uk)
 
+- [Global measles cases surge as 30 million children miss vaccines, UN health agency warns](https://news.un.org/en/story/2025/11/1166471) (UN News)
+
 - [Measles deaths down 88% since 2000, but cases surge](https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge) (World Health Organization)
 
 - [Surging measles cases are 'fire alarm' warning that other diseases could be next](https://www.nbcnews.com/health/health-news/surging-measles-cases-are-fire-alarm-warning-diseases-rcna246035) (NBC News)
@@ -126,6 +134,8 @@ Source: [News API](https://newsapi.org/)
 - [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
 
 ## 25-48 (malaria)
+
+- [Malaria now a rare disease in Lagos – Health commissioner](https://punchng.com/malaria-now-a-rare-disease-in-lagos-health-commissioner/) (The Punch)
 
 - [Ministerio salvadoreño confirma 107 casos de malaria importados, descarta contagios autóctonos](https://www.bostonherald.com/2025/11/28/ministerio-salvadoreo-confirma-107-casos-de-malaria-importados-descarta-contagios-autctonos/) (Boston Herald)
 
@@ -178,6 +188,10 @@ Source: [News API](https://newsapi.org/)
 - [Bruxelles actualizează măsurile împotriva gripei aviare după ce a detectat încă 96 de focare în UE. Virusul, detectat și la granița cu România](https://www.mediafax.ro/stirile-zilei/bruxelles-actualizeaza-masurile-impotriva-gripei-aviare-dupa-ce-a-detectat-inca-96-de-focare-in-ue-virusul-detectat-si-la-granita-cu-romania-23647101) (Mediafax.ro)
 
 ## 25-48 (h5n1)
+
+- [H5N1 bleibt gefährlich: Vogelgrippewelle bei Kranichen klingt ab](https://www.n-tv.de/wissen/Vogelgrippewelle-bei-Kranichen-klingt-ab-H5N1-bleibt-gefaehrlich-id30087241.html) (N-tv.de)
+
+- [В Роспотребнадзоре исключили основания для пандемии из-за птичьего гриппа](https://rg.ru/2025/11/29/v-rospotrebnadzore-iskliuchili-osnovaniia-dlia-pandemii-iz-za-ptichego-grippa.html) (Rg.ru)
 
 - [Que sait-on de l’évolution de la grippe aviaire H5N1 en France ?](https://www.liberation.fr/societe/sante/que-sait-on-de-levolution-de-la-grippe-aviaire-h5n1-en-france-20251128_ZZ33G2ALEZAEHD75L2UREJAWGU/) (Libération)
 
@@ -234,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 - [Δεύτερος θάνατος από γρίπη των πτηνών στις ΗΠΑ](https://www.skai.gr/news/world/deyteros-thanatos-apo-gripi-ton-ptinon-stis-ipa) (Skai.gr)
 
 ## 25-48 (dengue)
+
+- [Bajan 83 por ciento los casos de dengue en comparación con 2024](https://www.jornada.com.mx/2025/11/29/politica/012n1pol) (Jornada.com.mx)
 
 - [Ciudad Obregón: Padres y escuela financian fumigación ante brote de dengue en secundaria José Rafael Campoy](https://www.tribuna.com.mx/sonora/2025/11/28/ciudad-obregon-padres-escuela-financian-fumigacion-ante-brote-de-dengue-en-secundaria-jose-rafael-campoy-420941.html) (Tribuna.com.mx)
 
@@ -1587,8 +1603,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
-- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
-
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1705,10 +1719,6 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
-- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
-
-- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
-
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1802,8 +1812,6 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
-
-- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
