@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-12-01 07:10
-- **Most recent article:** 2025-11-30 07:00:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-12-01 19:09
+- **Most recent article:** 2025-11-30 18:42:16
 
 ---
 
@@ -13,16 +13,16 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 23 | 35 | 21 | 59 | 27 | 18 | 0 | 183 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 1 | 180 |
-| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 0 | 150 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 0 | 102 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 2 | 181 |
+| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 1 | 150 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 2 | 104 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 0 | 47 |
-| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 0 | 40 |
-| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 0 | 24 |
+| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 1 | 41 |
 | zika | 3 | 5 | 9 | 2 | 1 | 2 | 1 | 23 |
+| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 0 | 23 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 0 | 21 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 0 | 15 |
-| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 0 | 15 |
+| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 0 | 13 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 0 | 12 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
@@ -37,9 +37,25 @@ Source: [News API](https://newsapi.org/)
 
 - [The Zika Scare That Turned Out to Be a False Positive Debacle – and the ‘Congenital Zika Syndrome’ Backup Lie That’s Replaced It](https://wattsupwiththat.com/2025/11/29/the-zika-scare-that-turned-out-to-be-a-false-positive-debacle-and-the-congenital-zika-syndrome-backup-lie-thats-replaced-it/) (Wattsupwiththat.com)
 
+## 25-49 (malaria)
+
+- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
+
+- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
+
 ## 25-49 (h5n1)
 
+- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
+
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
+
+## 25-49 (dengue)
+
+- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
+
+## 25-49 (chikungunya)
+
+- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
 
 ## 25-48 (zika)
 
@@ -1615,8 +1631,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
-- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
-
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1733,10 +1747,6 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
-- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
-
-- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
-
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1830,8 +1840,6 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
-
-- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
