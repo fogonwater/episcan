@@ -1,8 +1,208 @@
 {
-  "last_updated": "2025-12-02 07:09",
-  "count_articles_total": 798,
-  "count_articles_new": 7,
+  "last_updated": "2025-12-02 19:08",
+  "count_articles_total": 805,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 25993,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Kff Health News",
+      "title": "Waning immunity and falling vaccination rates fuel pertussis outbreaks",
+      "description": "Whooping cough is especially dangerous for infants under a year old.",
+      "url": "https://www.bostonherald.com/2025/12/01/whooping-cough-outbreaks/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/202511240415MCT_____PHOTO____US-NEWS-HEALTH-PERTUSSIS-DTN.jpg?w=1024&h=682",
+      "publishedAt": "2025-12-01 18:46:41",
+      "content": "By C\u00e9line Gounder, KFF Health News Rates of pertussis, also known as whooping cough, are surging in Texas, Florida, California, Oregon, and other states and localities across the country. The outbr\u2026 [+7237 chars]",
+      "retrievedAt": "2025-12-02 19:07:57.678188",
+      "internal_id": "35dc1df87081d14372f1f4d6c0658c156430386d315a4d847978ddd77b6d031a",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25994,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Kff Health News",
+      "title": "Waning immunity and falling vaccination rates fuel pertussis outbreaks",
+      "description": "Whooping cough is especially dangerous for infants under a year old.",
+      "url": "https://www.denverpost.com/2025/12/01/whooping-cough-outbreaks/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/12/202511240415MCT_____PHOTO____US-NEWS-HEALTH-PERTUSSIS-DTN.jpg?w=1024&h=682",
+      "publishedAt": "2025-12-01 18:46:41",
+      "content": "By C\u00e9line Gounder, KFF Health News Rates of pertussis, also known as whooping cough, are surging in Texas, Florida, California, Oregon, and other states and localities across the country. The outbr\u2026 [+7237 chars]",
+      "retrievedAt": "2025-12-02 19:07:57.711884",
+      "internal_id": "cdec5081e8ddf5e65ea10473b5fa4d0eb8dc97223fe496ecbe876056a9969075",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26001,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Alarma en Carral por un posible caso de meningitis y la falta de medicamentos para tratarlo",
+      "description": "La Xunta remiti\u00f3 una carta a los alumnos del Otero Valc\u00e1rcel que pudieron estar en contacto con el ni\u00f1o hospitalizado",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/carral/2025/12/01/alarma-carral-posible-meningitis-ceip-otero-valcarcel-falta-medicamentos-evitar-contagio/00031764613814599333462.htm",
+      "urlToImage": "https://img.lavdg.com/sc/0dHFfEmkYsZ_y94ZRC5HAN1_QQw=/1280x/2025/12/01/00121764614162216986543/Foto/H25M9003.jpg",
+      "publishedAt": "2025-12-01 18:39:00",
+      "content": "Sanidade emiti\u00f3 este lunes un comunicado para las familias de alumnos del CEIP Vicente Otero Valc\u00e1rcel de Carralante la sospecha de un posible caso de meningitis de un estudiante de segundo de primar\u2026 [+1525 chars]",
+      "retrievedAt": "2025-12-02 19:07:59.665986",
+      "internal_id": "633e6fcf8f9b4cbe753040e79bb363e15a1f95c697454132c6ae06b48d01ff43",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Anna Batlle Planas",
+      "title": "Los murci\u00e9lagos de Per\u00fa podr\u00edan estar tras la pr\u00f3xima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1",
+      "description": "La revista 'Science' ha alertado de un nuevo brote de gripe aviar H5N1 en Per\u00fa. Un grupo formado por investigadores y cient\u00edficos de todo el mundo ha publicado un estudio en el que han demostrado que esta variante de la gripe aviar afecta ahora tambi\u00e9n a un m\u2026",
+      "url": "https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/12/01/692dbdd6c8761.r_d.1697-1228-3539.jpeg",
+      "publishedAt": "2025-12-01 16:10:58",
+      "content": "La revista 'Science' ha alertado de un nuevo brote de gripe aviar H5N1 en Per\u00fa. Un grupo formado por investigadores y cient\u00edficos de todo el mundo ha publicado un estudio en el que han demostrado que\u2026 [+1733 chars]",
+      "retrievedAt": "2025-12-02 19:07:58.945911",
+      "internal_id": "5ea0797d187d4801605888a85fd8868593339c7c2dae6ab1deea1ceb2c612ff3",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25997,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u041e\u043f\u0430\u0441\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0440\u043e\u0431\u0440\u0430\u043b\u0441\u044f \u043d\u0430 \u0443\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0443\u0431\u0430\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0441\u0442\u0440\u043e\u0432",
+      "description": "\u041d\u0430 \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u043c \u0430\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u043e\u043c \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0425\u0435\u0440\u0434 \u0443\u0447\u0451\u043d\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438 \u0440\u0435\u0437\u043a\u043e\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u0441\u0440\u0435\u0434\u0438 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u0441\u043b\u043e\u043d\u043e\u0432. \u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0430, \u0447\u0442\u043e \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0441\u0442\u0430\u043b \u0432\u044b\u0441\u043e\u043a\u043e \u0437\u0430\u0440\u0430\u0437\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u2014 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438.",
+      "url": "https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2025/11/30/13/6933902/56b1cfd373bf27e60e1caf81d46840d8f88049c4.png",
+      "publishedAt": "2025-12-01 14:15:47",
+      "content": ", H5N1 , . , . . , . . H5N1 , . .",
+      "retrievedAt": "2025-12-02 19:07:58.936467",
+      "internal_id": "17da8af71fdf7b414fdf803b4e606e7ece5a8135ca515c0aab7cc5289c5a4ca0",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25995,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Harish Kumar Tiwari, Parimala Mohanty, Rasika G. Shirke, Aina Unnikrishnan Kurup, Chalasani Satwik, Shanti Priya Kindo, Riya Shigwan, Karma Wangdi, Jully Gogoi-Tiwari, Laura Cunha Silva, Salome D\u00fcrr",
+      "title": "Two-leaves and many bites: Profiling dog-bites and adherence to rabies prophylaxis in tea-estate communities of Udalguri District, Assam, India",
+      "description": "Author summary This retrospective study analysed secondary data of hospital and dispensary records from 11 tea estates in Assam\u2019s Udalguri district between January 2022 and May 2024 to estimate the incidence of dog bites, profile affected individuals, and ass\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013791",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013791.g003&size=inline",
+      "publishedAt": "2025-12-01 14:00:00",
+      "content": "Citation: Tiwari HK, Mohanty P, Shirke RG, Kurup AU, Satwik C, Kindo SP, et al. (2025) Two-leaves and many bites: Profiling dog-bites and adherence to rabies prophylaxis in tea-estate communities of \u2026 [+30622 chars]",
+      "retrievedAt": "2025-12-02 19:07:58.054890",
+      "internal_id": "e528ae465f06640e16492785f90d6820437547a2c552461d54c9a3476c6a5f2c",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26000,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sk Shahid Nadim, Francesco Menegale, Mattia Manica, Alexander R. Kaye, Georgios Balatsos, Marina Bisia, Verena Pichler, Piero Poletti, Stefano Merler, Alessandra Della Torre, Robin N. Thompson, Antonios Michaelakis, Giorgio Guzzetta",
+      "title": "Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017\u20132018",
+      "description": "Author summary Aedes albopictus is a highly invasive mosquito capable of transmitting arboviruses such as dengue, chikungunya, and Zika. In this work, we leverage mosquito capture data collected over two years of entomological surveillance in Chania - a major\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013785.g006&size=inline",
+      "publishedAt": "2025-12-01 14:00:00",
+      "content": "Abstract The stable presence of the Aedes albopictus mosquito in Europe has set the stage for the emergence of tropical arboviral outbreaks (such as dengue and chikungunya), following the importatio\u2026 [+47211 chars]",
+      "retrievedAt": "2025-12-02 19:07:59.295699",
+      "internal_id": "b7fcff4e60eb77464e728df0712a69c0398bbb14cc863e43507546434b039b80",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25996,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Kwara, 20 other states to repeat polio vaccination \u2014 WHO",
+      "description": "Kwara and 20 other states will repeat their polio vaccination campaign due to logistical gaps and access issues, reports the WHO. Read More: https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/",
+      "url": "https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/03/28212321/World-Health-Organization-logo.jpg",
+      "publishedAt": "2025-12-01 11:35:06",
+      "content": "Kwara State and 20 other states across the federation, including the Federal Capital Territory, are set to repeat the polio component of the nationwide Integrated Measles-Rubella vaccination campaign\u2026 [+3046 chars]",
+      "retrievedAt": "2025-12-02 19:07:58.316895",
+      "internal_id": "6c994b5b0ccd73dfd70c79425fe8749c7574655ab955e77df5f3fe311c483894",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26002,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Cient\u00edficos piden que nos preparemos ante lo que est\u00e1 por venir porque afecta a casi todo el mundo: \"En varios pa\u00edses, sigue siendo una gran amenaza\"",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13669845/12/25/cientificos-piden-que-nos-preparemos-ante-lo-que-esta-por-venir-porque-afecta-a-casi-todo-el-mundo-en-varios-paises-sigue-siendo-una-gran-amenaza.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/f/c/7/vacuna-salud.jpg",
+      "publishedAt": "2025-12-01 10:04:43",
+      "content": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u2026 [+2951 chars]",
+      "retrievedAt": "2025-12-02 19:07:59.982438",
+      "internal_id": "0d6d4fb2fa0d64d18657d05cf15f9a37e7e27eb4b30e92eeb47968cb3ebdbee8",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26003,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Cient\u00edficos descubren una prote\u00edna clave del par\u00e1sito de la malaria que abre nuevas v\u00edas para una futura vacuna",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-cientificos-descubren-proteina-clave-parasito-malaria-abre-nuevas-vias-futura-vacuna-20251201103737.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251201103737_1200.jpg",
+      "publishedAt": "2025-12-01 09:37:37",
+      "content": "ALMER\u00cdA 1 Dic. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia\u2026 [+2910 chars]",
+      "retrievedAt": "2025-12-02 19:07:59.992403",
+      "internal_id": "2fa7c2df46d19ecc7359eb9ed66013333ad4570e897864cd6411817170f462dc",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25999,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Patricia Domingos, Patricia Domingos",
+      "title": "A nova vacina contra a dengue estar\u00e1 dispon\u00edvel no SUS?",
+      "description": "Produto do Instituto Butantan recebeu aval t\u00e9cnico da Anvisa",
+      "url": "https://saude.ig.com.br/2025-12-01/a-nova-vacina-contra-a-dengue-estara-disponivel-no-sus-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/4g/bv/70/4gbv70z2vu1s4zmo94jql1k4o.jpg",
+      "publishedAt": "2025-12-01 08:00:00",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) deu parecer favor\u00e1vel \u00e0 vacina que o Instituto Butantan, em S\u00e3o Paulo, est\u00e1 produzindo contra a dengue. \u00c9 o primeiro imunizante brasileiro contra \u2026 [+4343 chars]",
+      "retrievedAt": "2025-12-02 19:07:59.277918",
+      "internal_id": "a24722a47807fc6b0acbfe1ebdf67b467b58042e51df9e9e020901ec5ee5feac",
+      "publishedAtLabel": "Dec 1"
+    },
     {
       "id": 25986,
       "query": [
@@ -14336,78 +14536,6 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25197,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
-      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
-      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
-      "publishedAt": "2025-10-19 15:24:27",
-      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.242648",
-      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25198,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Libertaddigital.com",
-      "author": "Y\u00e9sica S\u00e1nchez",
-      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
-      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
-      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
-      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
-      "publishedAt": "2025-10-19 10:13:29",
-      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.694514",
-      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25196,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.jp",
-      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
-      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
-      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
-      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
-      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
-      "publishedAt": "2025-10-19 10:00:00",
-      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.232862",
-      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25195,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Another death due to rabies reported in Sarawak",
-      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
-      "publishedAt": "2025-10-19 07:23:00",
-      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
-      "retrievedAt": "2025-10-20 19:06:24.835493",
-      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]

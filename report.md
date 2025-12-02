@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-12-02 07:09
-- **Most recent article:** 2025-12-01 06:00:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-12-02 19:08
+- **Most recent article:** 2025-12-01 18:46:41
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 18 | 0 | 183 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 2 | 181 |
-| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 3 | 153 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 4 | 106 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 1 | 184 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 4 | 183 |
+| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 5 | 154 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 6 | 108 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 0 | 47 |
-| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 1 | 41 |
-| zika | 3 | 5 | 9 | 2 | 1 | 2 | 2 | 24 |
-| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 0 | 24 |
-| meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 0 | 21 |
-| pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 1 | 16 |
-| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 0 | 15 |
+| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 2 | 42 |
+| zika | 3 | 5 | 9 | 2 | 1 | 2 | 3 | 25 |
+| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 1 | 24 |
+| meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 1 | 22 |
+| pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 3 | 18 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 1 | 13 |
+| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 0 | 13 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
@@ -35,15 +35,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (zika)
 
+- [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
+
 - [The Brazilian moms fighting for their children ten years after Zika](https://www.npr.org/2025/11/30/nx-s1-5576981/the-brazilian-moms-fighting-for-their-children-ten-years-after-zika) (NPR)
 
 - [The Zika Scare That Turned Out to Be a False Positive Debacle – and the ‘Congenital Zika Syndrome’ Backup Lie That’s Replaced It](https://wattsupwiththat.com/2025/11/29/the-zika-scare-that-turned-out-to-be-a-false-positive-debacle-and-the-congenital-zika-syndrome-backup-lie-thats-replaced-it/) (Wattsupwiththat.com)
 
+## 25-49 (rabies)
+
+- [Two-leaves and many bites: Profiling dog-bites and adherence to rabies prophylaxis in tea-estate communities of Udalguri District, Assam, India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013791) (Plos.org)
+
 ## 25-49 (pertussis)
+
+- [Waning immunity and falling vaccination rates fuel pertussis outbreaks](https://www.bostonherald.com/2025/12/01/whooping-cough-outbreaks/) (Boston Herald)
+
+- [Waning immunity and falling vaccination rates fuel pertussis outbreaks](https://www.denverpost.com/2025/12/01/whooping-cough-outbreaks/) (The Denver Post)
 
 - [Childhood respiratory threats: Starting with prevention](https://www.politico.eu/sponsored-content/childhood-respiratory-threats-starting-with-prevention/) (POLITICO.eu)
 
+## 25-49 (meningitis)
+
+- [Alarma en Carral por un posible caso de meningitis y la falta de medicamentos para tratarlo](https://www.lavozdegalicia.es/noticia/coruna/carral/2025/12/01/alarma-carral-posible-meningitis-ceip-otero-valcarcel-falta-medicamentos-evitar-contagio/00031764613814599333462.htm) (Lavozdegalicia.es)
+
+## 25-49 (measles)
+
+- [Kwara, 20 other states to repeat polio vaccination — WHO](https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/) (The Punch)
+
 ## 25-49 (malaria)
+
+- [Científicos piden que nos preparemos ante lo que está por venir porque afecta a casi todo el mundo: "En varios países, sigue siendo una gran amenaza"](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13669845/12/25/cientificos-piden-que-nos-preparemos-ante-lo-que-esta-por-venir-porque-afecta-a-casi-todo-el-mundo-en-varios-paises-sigue-siendo-una-gran-amenaza.html) (Eleconomista.es)
+
+- [Científicos descubren una proteína clave del parásito de la malaria que abre nuevas vías para una futura vacuna](https://www.infosalus.com/salud-investigacion/noticia-cientificos-descubren-proteina-clave-parasito-malaria-abre-nuevas-vias-futura-vacuna-20251201103737.html) (Infosalus.com)
 
 - [Varmare klimat – då får svenska fåglar malaria](https://www.svt.se/nyheter/lokalt/skane/fagelmalaria-okar-pa-grund-av-klimatforandringar) (Www.svt.se)
 
@@ -59,11 +81,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (h5n1)
 
+- [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
+
+- [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
+
 - [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
 
 ## 25-49 (dengue)
+
+- [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
+
+- [A nova vacina contra a dengue estará disponível no SUS?](https://saude.ig.com.br/2025-12-01/a-nova-vacina-contra-a-dengue-estara-disponivel-no-sus-.html) (Ig.com.br)
 
 - [San Ignacio Río Muerto logra 'frenar' el dengue con prevención, confirman autoridades municipales](https://www.tribuna.com.mx/sonora/2025/11/30/san-ignacio-rio-muerto-logra-frenar-el-dengue-con-prevencion-confirman-autoridades-municipales-421104.html) (Tribuna.com.mx)
 
@@ -72,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
 
 ## 25-49 (chikungunya)
+
+- [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
 
 - [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
 
@@ -1649,8 +1681,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
-- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
-
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1767,10 +1797,6 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
-- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
-
-- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
-
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1864,8 +1890,6 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
-
-- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
