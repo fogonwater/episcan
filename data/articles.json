@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-12-01 19:09",
-  "count_articles_total": 787,
-  "count_articles_new": 5,
+  "last_updated": "2025-12-02 07:09",
+  "count_articles_total": 798,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 25986,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Alejandra Martinez Elizondo, Global Vaccines Public Affairs Head, Sanofi",
+      "title": "Childhood respiratory threats: Starting with prevention",
+      "description": "The science is sound and the evidence is clear; immunization plays a crucial role in helping to protect children\u2019s health worldwide.",
+      "url": "https://www.politico.eu/sponsored-content/childhood-respiratory-threats-starting-with-prevention/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/11/24/TODDLER_with_PARENTS_12-1.jpg",
+      "publishedAt": "2025-12-01 06:00:00",
+      "content": "Pediatric respiratory diseases are among the most common and serious health challenges we face worldwide. From examples such as respiratory syncytial virus (RSV) to pertussis (also known as whooping \u2026 [+6857 chars]",
+      "retrievedAt": "2025-12-02 07:09:36.046378",
+      "internal_id": "9c6298565de46fcbe46c6ca262591ed98ee8fac9fcb588f995133b0c9830266a",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25990,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.svt.se",
+      "author": "SVT Nyheter",
+      "title": "Varmare klimat \u2013 d\u00e5 f\u00e5r svenska f\u00e5glar malaria",
+      "description": "En ny l\u00e5ngtidsstudie visar att stigande temperaturer har f\u00f6rdubblat f\u00f6rekomsten av f\u00e5gelmalaria hos en av Sveriges vanligaste f\u00e5glar \u2013 bl\u00e5mesen.",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/fagelmalaria-okar-pa-grund-av-klimatforandringar",
+      "urlToImage": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.51/a28a1e615d9d389a7889fe795dc5fef2d87a3d656a00f80c05b6c948b8b94ac0",
+      "publishedAt": "2025-12-01 04:30:09",
+      "content": "Under trettio \u00e5r har forskare vid Lunds universitet samlat in prover fr\u00e5n bl\u00e5mesar f\u00f6r att unders\u00f6ka hur stor andel som blivit infekterade av parasiter. Under studiens g\u00e5ng har andelen drabbade bl\u00e5me\u2026 [+405 chars]",
+      "retrievedAt": "2025-12-02 07:09:37.750990",
+      "internal_id": "21d4169de449b7673c7d4a971dc5f1533fe6123f4d85b9753d4d1142c810c689",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25988,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Omar Rodr\u00edguez",
+      "title": "San Ignacio R\u00edo Muerto logra 'frenar' el dengue con prevenci\u00f3n, confirman autoridades municipales",
+      "description": "El alcalde de San Ignacio R\u00edo Muerto confirm\u00f3 que en el municipio han logrado 'frenar' el problema de dengue que ten\u00edan; aqu\u00ed lo dicho por las autoridades",
+      "url": "https://www.tribuna.com.mx/sonora/2025/11/30/san-ignacio-rio-muerto-logra-frenar-el-dengue-con-prevencion-confirman-autoridades-municipales-421104.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/26/f1280x720-479713_611388_5050.jpg",
+      "publishedAt": "2025-12-01 02:30:00",
+      "content": "San Ignacio R\u00edo Muerto, Sonora.- Luego de que el municipio de San Ignacio R\u00edo Muerto fuera uno de los principales focos rojos en tema de los casos de dengue en Sonora, la situaci\u00f3n ha comenzado a ced\u2026 [+1478 chars]",
+      "retrievedAt": "2025-12-02 07:09:37.155606",
+      "internal_id": "57589f3a66c287ac8b17d390ae36c089bceb4a381af6424af9667bfcf6b916a0",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25992,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod records 2 leptospirosis deaths",
+      "description": "BACOLOD CITY \u2013 The Bacolod City Health Office (CHO) has recorded two additional deaths attributed to leptospirosis during the period of October 25 to November 23. It brings the total number of leptospirosis fatalities in Bacolod City to nine, out of 50 total \u2026",
+      "url": "https://rpnradio.com/bacolod-records-2-leptospirosis-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/12/bacolod-leptospirosis.jpg",
+      "publishedAt": "2025-12-01 01:47:09",
+      "content": "BACOLOD CITY \u2013 The Bacolod City Health Office (CHO) has recorded two additional deaths attributed to leptospirosis during the period of October 25 to November 23. It brings the total number of lepto\u2026 [+2604 chars]",
+      "retrievedAt": "2025-12-02 07:09:38.674030",
+      "internal_id": "c549f4d6fa255736cb6ff26f9fa3d3d55e369392ffb9ae9c60c86c095551ef4a",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 25991,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "The Brazilian moms fighting for their children ten years after Zika",
+      "description": "When the Zika crisis hit Brazil, women infected with the virus gave birth to babies with a debilitating condition. Some of the moms joined together to build a new life and to push for reparations.",
+      "url": "https://www.npr.org/2025/11/30/nx-s1-5576981/the-brazilian-moms-fighting-for-their-children-ten-years-after-zika",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-11-30 22:13:12",
+      "content": "When the Zika crisis hit Brazil, women infected with the virus gave birth to babies with a debilitating condition. Some of the moms joined together to build a new life and to push for reparations.",
+      "retrievedAt": "2025-12-02 07:09:37.930715",
+      "internal_id": "93c0f79721fd81ed95d19f5849c52bb4ec572bb0b8382067fce43a0c320c8d30",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25989,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Kate Seamons with Newser.AI",
+      "title": "Disappearance of Frogs May Be Making Some Humans Sick",
+      "description": "A wave of frog die-offs in Central America may have led to a surge in malaria cases among humans\u2014among other woes. The Washington Post shines a light on the \"frog apocalypse\" and the culprit behind it: a lethal fungus known as Batrachochytrium dendrobatidis ,\u2026",
+      "url": "https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1648613-12-20251130152002.jpeg",
+      "publishedAt": "2025-11-30 21:20:00",
+      "content": "A wave of frog die-offs in Central America may have led to a surge in malaria cases among humans\u2014among other woes. The Washington Post shines a light on the \"frog apocalypse\" and the culprit behind i\u2026 [+521 chars]",
+      "retrievedAt": "2025-12-02 07:09:37.731906",
+      "internal_id": "6d307e3c226c864fef0e501421ff685e4f640a3af36c24d6dfb0106b9e103d44",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25987,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "Disminuye en 85% los casos de dengue con respecto a 2024",
+      "description": "Patricia Rodr\u00edguez Calva A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1o pasado, inform\u00f3 la secretar\u00eda de\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/11/30/3426704.jpg",
+      "publishedAt": "2025-11-30 20:47:49",
+      "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
+      "retrievedAt": "2025-12-02 07:09:37.129211",
+      "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
+      "publishedAtLabel": "Nov 30"
+    },
     {
       "id": 25984,
       "query": [
@@ -14210,6 +14336,78 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25197,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
+      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
+      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
+      "publishedAt": "2025-10-19 15:24:27",
+      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.242648",
+      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Y\u00e9sica S\u00e1nchez",
+      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
+      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
+      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
+      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
+      "publishedAt": "2025-10-19 10:13:29",
+      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.694514",
+      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25196,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.jp",
+      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
+      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
+      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
+      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
+      "publishedAt": "2025-10-19 10:00:00",
+      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.232862",
+      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Another death due to rabies reported in Sarawak",
+      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
+      "publishedAt": "2025-10-19 07:23:00",
+      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
+      "retrievedAt": "2025-10-20 19:06:24.835493",
+      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]
