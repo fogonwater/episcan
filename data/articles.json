@@ -1,8 +1,298 @@
 {
-  "last_updated": "2025-12-03 07:09",
-  "count_articles_total": 823,
-  "count_articles_new": 14,
+  "last_updated": "2025-12-03 19:06",
+  "count_articles_total": 835,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 26021,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KPAX-TV",
+      "author": "Mtn News",
+      "title": "Public health officials warn of measles exposure in Missoula County",
+      "description": "Missoula Public Health reports a person infected with measles visited Missoula on Saturday, November 22.",
+      "url": "https://www.kpax.com/news/missoula-county/public-health-officials-warn-of-measles-exposure-in-missoula-county",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/bb1611a/2147483647/strip/true/crop/4222x2217+0+276/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc6%2Fe6%2Fa3563e3047b187e5d780bf45f123%2Fap19123675129614.jpg",
+      "publishedAt": "2025-12-02 17:13:54",
+      "content": "MISSOULA Missoula Public Health reports a person infected with measles visited Missoula on Saturday, Nov. 22, 2025. No positive cases of measles have been confirmed in Missoula County at this time,\u2026 [+1754 chars]",
+      "retrievedAt": "2025-12-03 19:06:42.211980",
+      "internal_id": "8b9a6f8132553fbeffb4569a85eca4f78110bebbdbbfaf8ff75138b3625d0aa9",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26026,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Sanidade descarta que falte medicaci\u00f3n tras el caso de meningitis de un ni\u00f1o de Carral",
+      "description": "Confirma que un peque\u00f1o de 6 a\u00f1os fue ingresado el domingo en el materno",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/2025/12/02/sanidade-indica-falta-medicacion-tras-detencion-meningitis-nino-carral/00031764691884460267838.htm",
+      "urlToImage": "https://img.lavdg.com/sc/MHBLL-dZTVHik6_mX-GRhYNJFnw=/1280x/2023/04/03/00121680514801796346493/Foto/sdasdasd.jpg",
+      "publishedAt": "2025-12-02 16:49:00",
+      "content": "La Conseller\u00eda de Sanidade confirm\u00f3 este martes que los servicios de Medicina Preventiva del Hospital de A Coru\u00f1a notificaron el pasado domingo un caso de enfermedad meningoc\u00f3cica en un ni\u00f1o de 6 a\u00f1o\u2026 [+3095 chars]",
+      "retrievedAt": "2025-12-03 19:06:43.455183",
+      "internal_id": "9e7744aa3e894e1a5e2731ab7d973038e86b4105cd27784037f81e67b2dcc767",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26032,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Expertos se ponen de acuerdo y piden de forma urgente incorporar la vacuna del chikungunya en los protocolos para viajeros en riesgo",
+      "description": "La coordinadora del grupo de trabajo de 'Vacunas del viajero' de la Asociaci\u00f3n Espa\u00f1ola de Vacunolog\u00eda (AEV), Rosa M.\u00aa L\u00f3pez, considera clave que Espa\u00f1a incorpore la vacuna frente al chikungunya en los protocolos de prevenci\u00f3n para viajeros en riesgo, dado qu\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13673006/12/25/expertos-se-ponen-de-acuerdo-y-piden-de-forma-urgente-incorporar-la-vacuna-del-chikungunya-en-los-protocolos-para-viajeros-en-riesgo.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/b/0/f/vacuna-salud.jpg",
+      "publishedAt": "2025-12-02 15:40:44",
+      "content": "La coordinadora del grupo de trabajo de 'Vacunas del viajero' de la Asociaci\u00f3n Espa\u00f1ola de Vacunolog\u00eda (AEV), Rosa M.\u00aa L\u00f3pez, considera clave que Espa\u00f1a incorpore la vacuna frente al chikungunya en l\u2026 [+2525 chars]",
+      "retrievedAt": "2025-12-03 19:06:44.593620",
+      "internal_id": "1c9a394e48bf5f4689b9197e0e9eeda67ff11328ffcf2e0524cc6a14d331a421",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26024,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Glanze Patrick",
+      "title": "Dengue Hemorrhagic Fever: Key Warning Signs and DHF Symptoms Every Parent Must Spot Early",
+      "description": "Recognizing dengue warning signs early is vital to protect children from dengue hemorrhagic fever. Learn key DHF symptoms, prevention tips, and when to seek urgent care.",
+      "url": "https://www.medicaldaily.com/dengue-hemorrhagic-fever-key-warning-signs-dhf-symptoms-every-parent-must-spot-early-474058",
+      "urlToImage": "https://d.medicaldaily.com/en/full/480910/mosquito-human-skin.jpg",
+      "publishedAt": "2025-12-02 14:38:30",
+      "content": "Dengue hemorrhagic fever (DHF) is a severe and potentially life-threatening form of dengue, a common mosquito-borne disease that affects children across tropical and subtropical regions. While regula\u2026 [+5776 chars]",
+      "retrievedAt": "2025-12-03 19:06:43.024448",
+      "internal_id": "8d683c2a6d4dfa3869a05a2db33c2f49f2574a6e4b97ae5b1f3df04aa69cf432",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26027,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Qiang Zhang, Fanzhen Mao, Bixian Ni, Jiayao Zhang, Feng Tang, Xinyi Gong, Yaobao Liu",
+      "title": "Cross-sectional assessment of Angiostrongylus cantonensis transmission risk mediated by invasive apple snails in Jiangsu province of China",
+      "description": "Author summary In this study, we investigated the risk of human infection with the rat lungworm, Angiostrongylus cantonensis, which can cause severe meningitis. This parasite is often spread through invasive apple snails, which are now widespread in Jiangsu P\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013803",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013803.g001&size=inline",
+      "publishedAt": "2025-12-02 14:00:00",
+      "content": "Abstract Background Angiostrongylus cantonensis, a zoonotic nematode responsible for eosinophilic meningitis, is acquired in China principally through ingestion of raw or under-cooked invasive appl\u2026 [+33010 chars]",
+      "retrievedAt": "2025-12-03 19:06:43.465001",
+      "internal_id": "fd91a999a0592db3d5cb11d42075604cb2af4a5976c50868a1f7d8a4a21e3cc7",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26023,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Mosquito-borne viruses kill 33 people, including 21 children, in Cuba",
+      "description": "Most of the deaths were attributed to chikungunya, a mosquito-borne virus that causes joint aches, fever and fatigue.",
+      "url": "https://www.cbsnews.com/news/mosquito-borne-illnesses-cuba-chikungunya-dengue/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/19/9170eb94-da95-477e-877d-aefd1a8486c2/thumbnail/1200x630/c93e7560478e392049929b690f7b79b8/gettyimages-2228991907.jpg",
+      "publishedAt": "2025-12-02 13:48:56",
+      "content": "Twenty-one children are among 33 people who have died in Cuba of the mosquito-borne chikungunya and dengue viruses since July, authorities said Monday. Most of the deaths were attributed to chikungu\u2026 [+2629 chars]",
+      "retrievedAt": "2025-12-03 19:06:42.980232",
+      "internal_id": "70778b77349307a558a058f613c81cf4c53e56ccde6cfea0f040e75baa394577",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26020,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RUTH ALONGA Associated Press",
+      "title": "Measles vaccinations begin in rebel-held Congo almost a year after deadly outbreak",
+      "description": "Measles vaccines have arrived in a rebel-held area of eastern Congo nearly a year after a deadly outbreak of the highly contagious disease began",
+      "url": "https://abcnews.go.com/International/wireStory/measles-vaccinations-begin-rebel-held-congo-year-after-128031836",
+      "urlToImage": "https://i.abcnewsfe.com/a/25c5305c-16d4-4a00-8943-18d371590568/wirestory_3af68025ee9190d106a1089545778ebd_16x9.jpg?w=1600",
+      "publishedAt": "2025-12-02 13:20:26",
+      "content": "KACHEHEMBE, Congo -- Measles vaccines have arrived in a rebel-held area of eastern Congo nearly a year after a deadly outbreak of the highly contagious disease began. The seizure of parts of the reg\u2026 [+1982 chars]",
+      "retrievedAt": "2025-12-03 19:06:42.185289",
+      "internal_id": "0e48fcb3b188e76797a704ed5628ccb6e340ba70a7ce440927caa2da0ecd6ad5",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26022,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Impress.co.jp",
+      "author": "\u4e0a\u7530 \u7fbd\u7d14",
+      "title": "\u3010\u30cb\u30e5\u30fc\u30b9\u30fb\u30d5\u30e9\u30c3\u30b7\u30e5\u3011\u65e5\u672cHP\u3001\u516d\u672c\u6728\u30d2\u30eb\u30ba\u3067AI PC\u4f53\u9a13\u30ab\u30d5\u30a7\u300cHP AI Lifestyle Cafe\u300d\u309216\u65e5\u3088\u308a\u671f\u9593\u9650\u5b9a\u30aa\u30fc\u30d7\u30f3",
+      "description": "\u65e5\u672cHP\u306f\u3001\u6700\u65b0\u306e\u6b21\u4e16\u4ee3AI PC\u3084\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u4f53\u9a13\u3067\u304d\u308b\u30dd\u30c3\u30d7\u30a2\u30c3\u30d7\u30b9\u30da\u30fc\u30b9\u300cHP AI Lifestyle Cafe\u300d\u3092\u3001\u6771\u4eac\u516d\u672c\u6728\u30d2\u30eb\u30ba\u5185\u306e\u30d2\u30eb\u30ba \u30ab\u30d5\u30a7/\u30b9\u30da\u30fc\u30b92\u968e\u90e8\u5206\u306b\u3066\u30aa\u30fc\u30d7\u30f3\u3059\u308b\u3002\u671f\u9593\u306f12\u670816\u65e5\u304b\u308912\u670825\u65e5\u307e\u3067\u3002",
+      "url": "https://pc.watch.impress.co.jp/docs/news/news_flash/2068088.html",
+      "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/2068/088/01.jpg",
+      "publishedAt": "2025-12-02 12:52:18",
+      "content": "HPAI PCHP AI Lifestyle Cafe /212161225 HP AI Lifestyle CafeHP OmniBook 7 Aero 13 AI PCSNSAIAI PCOMEN 35LeSIMHP EliteBook X G1i 14 AI PC AIAIPCAmazon",
+      "retrievedAt": "2025-12-03 19:06:42.346983",
+      "internal_id": "b322362571a666081cab1117a0f817afeeee5bd1d1d1a8a6b68cf28bfcbde35d",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26025,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases reach 8,109, 56 new infections reported in the past week",
+      "description": "KATHMANDU: Nepal has recorded a total of 8,109 dengue infections, with 56 new cases reported across the country in the past week, according to the Epidemiology and Disease Control Division (EDCD). In the last 24 hours, six new infections were reported, and si\u2026",
+      "url": "https://english.khabarhub.com/2025/02/509865/",
+      "urlToImage": "https://i0.wp.com/english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg?fit=1200%2C630&ssl=1",
+      "publishedAt": "2025-12-02 11:45:14",
+      "content": "KATHMANDU: Nepal has recorded a total of 8,109 dengue infections, with 56 new cases reported across the country in the past week, according to the Epidemiology and Disease Control Division (EDCD). I\u2026 [+545 chars]",
+      "retrievedAt": "2025-12-03 19:06:43.075254",
+      "internal_id": "18f74470aa76cb8732d17836998ed36931ad1a164742879bc2b8f0bd450c7609",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26018,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Roche receives FDA clearance with CLIA waiver for pertussis point-of-care test",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4248257/RHHBY-Roche-receives-FDA-clearance-with-CLIA-waiver-for-pertussis-pointofcare-test",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-12-02 11:12:08",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-12-03 19:06:41.519452",
+      "internal_id": "2ae552737b8f0ab81a3abea9964c01d239242029ffedc18ffe8167568704767a",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26028,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "\u0130HA",
+      "title": "K\u00fcba\u2019da salg\u0131n alarm\u0131: Sivrisinekler can ald\u0131",
+      "description": "K\u00fcba\u2019da sivrisineklerden bula\u015fan vir\u00fcsler nedeniyle 33 ki\u015fi can verdi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
+      "url": "https://www.sabah.com.tr/dunya/kubada-salgin-alarmi-sivrisinekler-can-aldi-7475536",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/aab7e3/1200/675/0/20/614/365?u=https://isbh.tmgrup.com.tr/sbh/2025/12/02/1764672475367.jpg",
+      "publishedAt": "2025-12-02 10:49:26",
+      "content": "DANG VE CHKUNGUNYA VR\u00dcSLER Dang ve Zika vir\u00fcs\u00fc taycs olan Aedes sivrisinei t\u00fcr\u00fc tarafndan yaylan chikungunya hastal i\u00e7in \u00f6zel bir tedavi bulunmuyor. Chikungunya, nadiren \u00f6l\u00fcmc\u00fcl olsa da iddetli ba \u2026 [+1120 chars]",
+      "retrievedAt": "2025-12-03 19:06:44.178020",
+      "internal_id": "5db1811fb029c5b5ba6ba24f2892e822a8b4dd7a086f2286b72c5898302e8877",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26019,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-york-magazine",
+      "source_name": "New York Magazine",
+      "author": "Kerry Howley",
+      "title": "Doughnuts and Bullets: The Absurdity of Working for RFK Jr.",
+      "description": "Nine months after RFK Jr. took control of the CDC, scientists are figuring out how to fight back against his disastrous decisions, from wanton staff purges to anti-vaccine policy.",
+      "url": "http://nymag.com/intelligencer/article/inside-rfk-jr-cdc-anti-vaccine-guidelines-policy-cuts-director-fired.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/292/6bf/52182166b18fcdcb04c827bbd24d815edd-2525FEA-CDC-JPEG-image-4747-A41E-AC-0.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-12-02 10:00:28",
+      "content": "It was February when measles killed 6-year-old Kayley Fehr and it was April when measles killed 8-year old Daisy Hildebrand and it was May when measles brought the man from the Agency to the health-f\u2026 [+39215 chars]",
+      "retrievedAt": "2025-12-03 19:06:42.173660",
+      "internal_id": "7fab01a638989ff15fd50fdeaba5de30586e0370b7b3001cadc08273cea189e6",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26029,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Erkan Talu",
+      "title": "Sivrisinek kabusu! 33 ki\u015fi \u00f6ld\u00fc",
+      "description": "K\u00fcba Sa\u011fl\u0131k Bakan\u0131 Yard\u0131mc\u0131s\u0131 Carilda Pena, \u00fclkede sivrisineklerden bula\u015fan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc nedeniyle de 21 ki\u015finin \u00f6ld\u00fc\u011f\u00fcn\u00fc s\u00f6yledi.",
+      "url": "https://www.haber7.com/dunya/haber/3584412-sivrisinek-kabusu-33-kisi-oldu",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/49/sivrisinek_kabusu_21_kisi_oldu_1764660659_1333.jpg",
+      "publishedAt": "2025-12-02 07:31:00",
+      "content": "K\u00fcba'da son aylarda sivrisineklerin bulatrd vir\u00fcsler insan yaamn olumsuz etkiliyor. K\u00fcba Salk Bakan Yardmcs Carilda Pena, \u00fclkede sivrisineklerden bulaan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc\u2026 [+1493 chars]",
+      "retrievedAt": "2025-12-03 19:06:44.564922",
+      "internal_id": "e94201cf97e31fff595d8c133c394807b2ba6f51a3d8fca64052154e46a12700",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26030,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Erkan Talu",
+      "title": "Sivrisinek kabusu! 21 ki\u015fi \u00f6ld\u00fc",
+      "description": "K\u00fcba Sa\u011fl\u0131k Bakan\u0131 Yard\u0131mc\u0131s\u0131 Carilda Pena, \u00fclkede sivrisineklerden bula\u015fan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc nedeniyle de 21 ki\u015finin \u00f6ld\u00fc\u011f\u00fcn\u00fc s\u00f6yledi.",
+      "url": "https://www.haber7.com/dunya/haber/3584412-sivrisinek-kabusu-21-kisi-oldu",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/49/sivrisinek_kabusu_21_kisi_oldu_1764660659_1333.jpg",
+      "publishedAt": "2025-12-02 07:31:00",
+      "content": "K\u00fcba'da son aylarda sivrisineklerin bulatrd vir\u00fcsler insan yaamn olumsuz etkiliyor. K\u00fcba Salk Bakan Yardmcs Carilda Pena, \u00fclkede sivrisineklerden bulaan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc\u2026 [+1493 chars]",
+      "retrievedAt": "2025-12-03 19:06:44.574690",
+      "internal_id": "c4f443e91b68a9baef07a8b54c58cca14eaf1f4b724d56311bfad1d3484533eb",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26031,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Erkan Talu",
+      "title": "K\u00fcba'da sivrisinek kabusu! 33 ki\u015fi \u00f6ld\u00fc",
+      "description": "K\u00fcba Sa\u011fl\u0131k Bakan\u0131 Yard\u0131mc\u0131s\u0131 Carilda Pena, \u00fclkede sivrisineklerden bula\u015fan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc nedeniyle de 21 ki\u015finin \u00f6ld\u00fc\u011f\u00fcn\u00fc s\u00f6yledi.",
+      "url": "https://www.haber7.com/dunya/haber/3584412-kubada-sivrisinek-kabusu-33-kisi-oldu",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/49/sivrisinek_kabusu_21_kisi_oldu_1764660659_1333.jpg",
+      "publishedAt": "2025-12-02 07:31:00",
+      "content": "K\u00fcba'da son aylarda sivrisineklerin bulatrd vir\u00fcsler insan yaamn olumsuz etkiliyor. K\u00fcba Salk Bakan Yardmcs Carilda Pena, \u00fclkede sivrisineklerden bulaan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc\u2026 [+1493 chars]",
+      "retrievedAt": "2025-12-03 19:06:44.584018",
+      "internal_id": "0dca603ba7a83765b089e31dd005e59de72ae89faeecb6bf5829c3e00fe6116d",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26033,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "Sivrisinekler \u00f6l\u00fcm sa\u00e7t\u0131: 33 ki\u015fi hayat\u0131n\u0131 kaybetti",
+      "description": "K\u00fcba Sa\u011fl\u0131k Bakan\u0131 Yard\u0131mc\u0131s\u0131 Carilda Pena, \u00fclkede sivrisineklerden bula\u015fan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya vir\u00fcs\u00fc nedeniyle de 21 ki\u015finin \u00f6ld\u00fc\u011f\u00fcn\u00fc s\u00f6yledi.",
+      "url": "https://www.hurriyet.com.tr/dunya/sivrisinekler-olum-sacti-33-kisi-hayatini-kaybetti-43039388",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/692e94549217d56cb4523c1a.jpg",
+      "publishedAt": "2025-12-02 07:25:11",
+      "content": "p&gt;K\u00fcba'da son aylarda sivrisineklerin bulatrd vir\u00fcsler insan yaamn olumsuz etkiliyor. K\u00fcba Salk Bakan Yardmcs Carilda Pena, \u00fclkede sivrisineklerden bulaan Dang vir\u00fcs\u00fc nedeniyle 12 ve Chikungunya v\u2026 [+1503 chars]",
+      "retrievedAt": "2025-12-03 19:06:44.628859",
+      "internal_id": "0e12c643b4bf4abc6e64d19cbeec70be20e8ede717309a187174442e4a5369e0",
+      "publishedAtLabel": "Dec 2"
+    },
     {
       "id": 26004,
       "query": [
@@ -14790,78 +15080,6 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25197,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
-      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
-      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
-      "publishedAt": "2025-10-19 15:24:27",
-      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.242648",
-      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25198,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Libertaddigital.com",
-      "author": "Y\u00e9sica S\u00e1nchez",
-      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
-      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
-      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
-      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
-      "publishedAt": "2025-10-19 10:13:29",
-      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.694514",
-      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25196,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.jp",
-      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
-      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
-      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
-      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
-      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
-      "publishedAt": "2025-10-19 10:00:00",
-      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.232862",
-      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25195,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Another death due to rabies reported in Sarawak",
-      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
-      "publishedAt": "2025-10-19 07:23:00",
-      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
-      "retrievedAt": "2025-10-20 19:06:24.835493",
-      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]

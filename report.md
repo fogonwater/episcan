@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-12-03 07:09
-- **Most recent article:** 2025-12-02 06:00:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-12-03 19:06
+- **Most recent article:** 2025-12-02 17:13:54
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 18 | 3 | 186 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 6 | 189 |
 | h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 7 | 186 |
-| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 7 | 157 |
+| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 10 | 159 |
 | malaria | 17 | 17 | 19 | 20 | 12 | 17 | 8 | 110 |
+| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 10 | 50 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 2 | 49 |
-| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 3 | 43 |
-| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 1 | 25 |
-| zika | 3 | 5 | 9 | 2 | 1 | 2 | 3 | 25 |
-| meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 2 | 23 |
-| pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 4 | 19 |
-| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 1 | 16 |
+| zika | 3 | 5 | 9 | 2 | 1 | 2 | 4 | 26 |
+| meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 4 | 25 |
+| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 1 | 24 |
+| pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 5 | 20 |
+| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 2 | 15 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 2 | 14 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (zika)
 
+- [Küba’da salgın alarmı: Sivrisinekler can aldı](https://www.sabah.com.tr/dunya/kubada-salgin-alarmi-sivrisinekler-can-aldi-7475536) (Sabah.com.tr)
+
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
 
 - [The Brazilian moms fighting for their children ten years after Zika](https://www.npr.org/2025/11/30/nx-s1-5576981/the-brazilian-moms-fighting-for-their-children-ten-years-after-zika) (NPR)
@@ -46,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Two-leaves and many bites: Profiling dog-bites and adherence to rabies prophylaxis in tea-estate communities of Udalguri District, Assam, India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013791) (Plos.org)
 
 ## 25-49 (pertussis)
+
+- [Roche receives FDA clearance with CLIA waiver for pertussis point-of-care test](https://thefly.com/permalinks/entry.php/id4248257/RHHBY-Roche-receives-FDA-clearance-with-CLIA-waiver-for-pertussis-pointofcare-test) (Thefly.com)
 
 - [Roche receives FDA clearance with CLIA waiver and CE Mark for its first point-of-care test for diagnosing Bordetella infections, including whooping cough (pertussis)](https://www.globenewswire.com/news-release/2025/12/02/3197584/0/en/Roche-receives-FDA-clearance-with-CLIA-waiver-and-CE-Mark-for-its-first-point-of-care-test-for-diagnosing-Bordetella-infections-including-whooping-cough-pertussis.html) (GlobeNewswire)
 
@@ -63,11 +67,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (meningitis)
 
+- [Sanidade descarta que falte medicación tras el caso de meningitis de un niño de Carral](https://www.lavozdegalicia.es/noticia/coruna/2025/12/02/sanidade-indica-falta-medicacion-tras-detencion-meningitis-nino-carral/00031764691884460267838.htm) (Lavozdegalicia.es)
+
+- [Cross-sectional assessment of Angiostrongylus cantonensis transmission risk mediated by invasive apple snails in Jiangsu province of China](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013803) (Plos.org)
+
 - [Our daughter died from meningitis after starting uni - a jab would have saved her](https://www.bbc.com/news/articles/crrerl0pw9do) (BBC News)
 
 - [Alarma en Carral por un posible caso de meningitis y la falta de medicamentos para tratarlo](https://www.lavozdegalicia.es/noticia/coruna/carral/2025/12/01/alarma-carral-posible-meningitis-ceip-otero-valcarcel-falta-medicamentos-evitar-contagio/00031764613814599333462.htm) (Lavozdegalicia.es)
 
 ## 25-49 (measles)
+
+- [Public health officials warn of measles exposure in Missoula County](https://www.kpax.com/news/missoula-county/public-health-officials-warn-of-measles-exposure-in-missoula-county) (KPAX-TV)
+
+- [Measles vaccinations begin in rebel-held Congo almost a year after deadly outbreak](https://abcnews.go.com/International/wireStory/measles-vaccinations-begin-rebel-held-congo-year-after-128031836) (ABC News)
+
+- [Doughnuts and Bullets: The Absurdity of Working for RFK Jr.](http://nymag.com/intelligencer/article/inside-rfk-jr-cdc-anti-vaccine-guidelines-policy-cuts-director-fired.html) (New York Magazine)
 
 - [Health officials warn of measles exposure at three Utah locations](https://kutv.com/news/local/health-officials-warn-of-measles-exposure-at-three-utah-locations) (KUTV 2News)
 
@@ -101,6 +115,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (hpai)
 
+- [【ニュース・フラッシュ】日本HP、六本木ヒルズでAI PC体験カフェ「HP AI Lifestyle Cafe」を16日より期間限定オープン](https://pc.watch.impress.co.jp/docs/news/news_flash/2068088.html) (Impress.co.jp)
+
 - [Fifth case of bird flu confirmed at Turkey farm in Co Cavan](https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/) (The Irish Times)
 
 ## 25-49 (h5n1)
@@ -121,6 +137,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (dengue)
 
+- [Dengue Hemorrhagic Fever: Key Warning Signs and DHF Symptoms Every Parent Must Spot Early](https://www.medicaldaily.com/dengue-hemorrhagic-fever-key-warning-signs-dhf-symptoms-every-parent-must-spot-early-474058) (Medical Daily)
+
+- [Mosquito-borne viruses kill 33 people, including 21 children, in Cuba](https://www.cbsnews.com/news/mosquito-borne-illnesses-cuba-chikungunya-dengue/) (CBS News)
+
+- [Dengue cases reach 8,109, 56 new infections reported in the past week](https://english.khabarhub.com/2025/02/509865/) (Khabarhub.com)
+
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Chikunguña y dengue dejan 33 muertos en Cuba; 21 eran niños y adolescentes](https://www.excelsior.com.mx/global/chikunguna-y-dengue-dejan-33-muertos-en-cuba/1754897) (Excelsior.com.mx)
@@ -136,6 +158,20 @@ Source: [News API](https://newsapi.org/)
 - [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
 
 ## 25-49 (chikungunya)
+
+- [Expertos se ponen de acuerdo y piden de forma urgente incorporar la vacuna del chikungunya en los protocolos para viajeros en riesgo](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13673006/12/25/expertos-se-ponen-de-acuerdo-y-piden-de-forma-urgente-incorporar-la-vacuna-del-chikungunya-en-los-protocolos-para-viajeros-en-riesgo.html) (Eleconomista.es)
+
+- [Mosquito-borne viruses kill 33 people, including 21 children, in Cuba](https://www.cbsnews.com/news/mosquito-borne-illnesses-cuba-chikungunya-dengue/) (CBS News)
+
+- [Küba’da salgın alarmı: Sivrisinekler can aldı](https://www.sabah.com.tr/dunya/kubada-salgin-alarmi-sivrisinekler-can-aldi-7475536) (Sabah.com.tr)
+
+- [Sivrisinek kabusu! 33 kişi öldü](https://www.haber7.com/dunya/haber/3584412-sivrisinek-kabusu-33-kisi-oldu) (Haber7.com)
+
+- [Sivrisinek kabusu! 21 kişi öldü](https://www.haber7.com/dunya/haber/3584412-sivrisinek-kabusu-21-kisi-oldu) (Haber7.com)
+
+- [Küba'da sivrisinek kabusu! 33 kişi öldü](https://www.haber7.com/dunya/haber/3584412-kubada-sivrisinek-kabusu-33-kisi-oldu) (Haber7.com)
+
+- [Sivrisinekler ölüm saçtı: 33 kişi hayatını kaybetti](https://www.hurriyet.com.tr/dunya/sivrisinekler-olum-sacti-33-kisi-hayatini-kaybetti-43039388) (Hurriyet.com.tr)
 
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
@@ -1717,8 +1753,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
-- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
-
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1835,10 +1869,6 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
-- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
-
-- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
-
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1932,8 +1962,6 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
-
-- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
