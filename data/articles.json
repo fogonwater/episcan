@@ -1,8 +1,262 @@
 {
-  "last_updated": "2025-12-02 19:08",
-  "count_articles_total": 805,
-  "count_articles_new": 11,
+  "last_updated": "2025-12-03 07:09",
+  "count_articles_total": 823,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 26004,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "F. Hoffmann-La Roche Ltd",
+      "title": "Roche receives FDA clearance with CLIA waiver and CE Mark for its first point-of-care test for diagnosing Bordetella infections, including whooping cough (pertussis)",
+      "description": "Basel, 2 December 2025 - Roche (SIX: RO, ROG; OTCQX: RHHBY) announced today that its first point-of-care test for the diagnosis of whooping cough (pertussis) and other Bordetella infections, has been granted U.S. Food and Drug Administration (FDA) 510(k) clea\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/02/3197584/0/en/Roche-receives-FDA-clearance-with-CLIA-waiver-and-CE-Mark-for-its-first-point-of-care-test-for-diagnosing-Bordetella-infections-including-whooping-cough-pertussis.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/696b7c85-2d23-4f5e-a77b-8c6b2fa45d47",
+      "publishedAt": "2025-12-02 06:00:00",
+      "content": "The point-of-care test delivers PCR-accurate results in just 15 minutes, enabling healthcare providers to act quickly and prevent severe complications and onward transmission.Detects\u2026 [+6514 chars]",
+      "retrievedAt": "2025-12-03 07:09:09.828461",
+      "internal_id": "00b9f1566b72fe0137bec7fb68d110a7a8daa2cf3a5b5625f284e3d2b5af9415",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26014,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "Meet the world\u2019s deadliest insects that are surprisingly more dangerous than you think",
+      "description": "While often overlooked, insects pose significant threats to human health, transmitting deadly diseases like malaria and Chagas disease, and delivering venomous stings. From disease-carrying mosquitoes to aggressive ants and toxic caterpillars, these small cre\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-the-worlds-deadliest-insects-that-are-surprisingly-more-dangerous-than-you-think/articleshow/125709554.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125710030,width-1070,height-580,imgsize-84826,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-02 05:27:01",
+      "content": "News lifestyle trending Meet the worlds deadliest insects that are surprisingly more dangerous than you think While often overlooked, insects pose sig\u2026 [+2105 chars]",
+      "retrievedAt": "2025-12-03 07:09:11.742920",
+      "internal_id": "cfc86ac1834f2368cce0f1f6283b763867d0aa4daa22e5df87c7b1476601d013",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26017,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Leptospirosis cases alarms Bacolod City Council",
+      "description": "BACOLOD CITY \u2013 A resolution urging the Bacolod City Health Office to immediately initiate and implement preventive measures against leptospirosis in Bacolod City, was approved by the Bacolod Sangguniang Panlungsod Wednesday. Authored by Councilor Em Ang, the \u2026",
+      "url": "https://rpnradio.com/bacolod-leptospirosis-cases-alarms-bacolod-city-council/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/12/leptospiroris-cases.jpg",
+      "publishedAt": "2025-12-02 00:54:35",
+      "content": "BACOLOD CITY \u2013 A resolution urging the Bacolod City Health Office to immediately initiate and implement preventive measures against leptospirosis in Bacolod City, was approved by the Bacolod Sangguni\u2026 [+2781 chars]",
+      "retrievedAt": "2025-12-03 07:09:12.641859",
+      "internal_id": "c80198fe11cdf195d94e1facad6d7ad14ada93c5745f8bb1d267421f98cf4e58",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26006,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KUTV 2News",
+      "author": "Jonathan May",
+      "title": "Health officials warn of measles exposure at three Utah locations",
+      "description": "Davis County health officials urged unvaccinated people to get vaccinated after finding a measles infection in an adult.According to a media release, the Davis",
+      "url": "https://kutv.com/news/local/health-officials-warn-of-measles-exposure-at-three-utah-locations",
+      "urlToImage": "https://kutv.com/resources/media/1701ba91-311e-4249-8b45-30b1534bc897-jumbo16x9_kyledaviscohealthdeptwarningyoungadultsaboutcovid192.PNG?1585623546023",
+      "publishedAt": "2025-12-02 00:51:25",
+      "content": "LAYTON, Utah (KUTV) Davis County health officials urged unvaccinated people to get vaccinated after finding a measles infection in an adult. According to a media release, the Davis County Health Dep\u2026 [+1632 chars]",
+      "retrievedAt": "2025-12-03 07:09:10.342581",
+      "internal_id": "f89193b9ad474ad74b80515410abeddec35f16684343eb9b04349cf88188e9a5",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26007,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Kitty Holland",
+      "title": "Fifth case of bird flu confirmed at Turkey farm in Co Cavan",
+      "description": "Latest case follows previous outbreaks at farms in Laois, Monaghan, Meath and Carlow",
+      "url": "https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/IZEEZVI5BB6GEXTV27WFVSK3YA.jpg?smart=true&auth=174ed3806ff37eae4254c623b1c6391cada80654abb2c4b25c343e4ae8ac345d&width=1200&height=630",
+      "publishedAt": "2025-12-02 00:17:23",
+      "content": "A fifth case of bird flu has been confirmed at a turkey farm, it has been confirmed. A Department of Agriculture spokesman confirmed the outbreak of the highly pathogenic avian influenza HPAI H5N1, \u2026 [+2642 chars]",
+      "retrievedAt": "2025-12-03 07:09:10.443100",
+      "internal_id": "f3f8218e9ba8ac005419ccbff1d1f094cae6e2b9e637ad1f5fa30f039f70b19f",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 26015,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Mpox still spreading in Nigeria amid limited vaccine access",
+      "description": "Health experts warn that Mpox in Nigeria remains a public health challenge. Discover the current situation, prevention methods, and challenges like vaccine Read More: https://punchng.com/mpox-still-spreading-in-nigeria-amid-limited-vaccine-access/",
+      "url": "https://punchng.com/mpox-still-spreading-in-nigeria-amid-limited-vaccine-access/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/01/28213243/PROF-ISAAC-ADEWOLE.jpg",
+      "publishedAt": "2025-12-01 23:51:56",
+      "content": "Seasoned health practitioners have warned that Mpox, an infectious viral disease that can occur in humans and animals, is still actively circulating in the country, posing an ongoing public-health ch\u2026 [+9487 chars]",
+      "retrievedAt": "2025-12-03 07:09:12.433815",
+      "internal_id": "a2b71baa766d84a2ea76e10da8755ff16acea701c0d262b0a6c2c93d14e57ecf",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26012,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Our daughter died from meningitis after starting uni - a jab would have saved her",
+      "description": "Meg Draper was enjoying the social side of student life - within weeks she had died from meningitis.",
+      "url": "https://www.bbc.com/news/articles/crrerl0pw9do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97d0/live/e2e7ca60-cba1-11f0-84f7-7db748a6619f.jpg",
+      "publishedAt": "2025-12-01 22:55:17",
+      "content": "Meg Draper joined the swimming and netball teams and was a popular figure in the student community A popular and sporty teenager who made a \"big impression\" at her new university died within weeks \u2026 [+7697 chars]",
+      "retrievedAt": "2025-12-03 07:09:11.329932",
+      "internal_id": "e069b3757952934697a823d04cda8bc9ac00511264c8371504f41c792d64bbc4",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26016,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "M\u00e9xico anuncia estrategia de vacunaci\u00f3n contra mpox; van 4 mil 955 casos en el pa\u00eds",
+      "description": "El secretario de Salud, David Kershenobich, anunci\u00f3 que M\u00e9xico implementar\u00e1 una estrategia nacional de vacunaci\u00f3n contra el virus mpox, dirigida prioritariamente a poblaciones con mayor riesgo de infecci\u00f3n o de desarrollar enfermedad grave.Lo anterior, como p\u2026",
+      "url": "https://www.milenio.com/politica/mexico-anuncia-vacuna-contra-mpox",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/09/03/ahf-senala-incrementaron-casos-mpox.jpg",
+      "publishedAt": "2025-12-01 22:35:00",
+      "content": "El secretario de Salud, David Kershenobich, anunci\u00f3 que M\u00e9xico implementar\u00e1 una estrategia nacional de vacunaci\u00f3n contra el virus mpox, dirigida prioritariamente a poblaciones con mayor riesgo de inf\u2026 [+5236 chars]",
+      "retrievedAt": "2025-12-03 07:09:12.444098",
+      "internal_id": "d685524e04639d80bf49792ae41bbf5906c394ba52dc4f4117eef1d55f9a85b9",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26010,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press Spanish",
+      "title": "Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya",
+      "description": "Associated Press LA HABANA (AP) \u2014 El Ministerio de Salud de Cuba confirm\u00f3 el lunes 33 muertes ocurridas en los \u00faltimos cinco meses debido a contagios de virus de dengue y chikungunya, ambos transmitidos por mosquitos, en medio de lo que reconoci\u00f3 como una \u201csi\u2026",
+      "url": "https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+      "publishedAt": "2025-12-01 21:38:13",
+      "content": "Associated Press LA HABANA (AP) \u2014 El Ministerio de Salud de Cuba confirm\u00f3 el lunes 33 muertes ocurridas en los \u00faltimos cinco meses debido a contagios de virus de dengue y chikungunya, ambos transmit\u2026 [+2135 chars]",
+      "retrievedAt": "2025-12-03 07:09:11.027889",
+      "internal_id": "5751def0c616fc450589aaed426175c7b7da2e30bc2216a21305f7aac1ec5f80",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26013,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Progress In Fight Against Malaria, As New Treatment Shows Promise",
+      "description": "The anti-malarial GanLum's Phase 3 data highlight the drug\u2019s potential to further combat the threat of antimalarial drug resistance in Africa.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2025/12/01/progress-in-fight-against-malaria-as-new-treatment-shows-promise/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655e56bc5ae35a152d1bb409/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-12-01 21:29:06",
+      "content": "A child is vaccinated against malaria on September 13, 2019 in Ndhiwa, Homabaya County, Western Kenya during the launch of a malaria vaccine in Kenya. The vaccine (Mosquirix) is the world's first mal\u2026 [+6132 chars]",
+      "retrievedAt": "2025-12-03 07:09:11.708505",
+      "internal_id": "b8468a46a260c55d54daeb78c6fb074f89474b2acc5cfb38090546a4f2c0f8cb",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26005,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Utahnewsdispatch.com",
+      "author": "Katie McKellar",
+      "title": "Utah\u2019s Measles Outbreak Is Among the Largest in the US. It May Get Worse.",
+      "description": "For the first time in decades, the US may lose a designation indicating that outbreaks are rare and rapidly contained.",
+      "url": "https://utahnewsdispatch.com/2025/12/01/utahs-measles-outbreak-likely-to-get-worse/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/12/GettyImages-2201702057.jpg",
+      "publishedAt": "2025-12-01 21:21:05",
+      "content": "Honest, paywall-free news is rare. Please support our boldly independent journalism with a donation of any size. The number of confirmed measles cases in Utah have surpassed 100, with state health o\u2026 [+8782 chars]",
+      "retrievedAt": "2025-12-03 07:09:10.315635",
+      "internal_id": "60448a1797b31abfaf09f87654c92f66758c402d5856a120422bcf00c04bb06d",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26011,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "pedro.diaz",
+      "title": "Chikungu\u00f1a y dengue dejan 33 muertos en Cuba; 21 eran ni\u00f1os y adolescentes",
+      "description": "Porfirio Escand\u00f3n / AFP La viceministra de Salud P\u00fablica, Carilda Pe\u00f1a, declar\u00f3 en la televisi\u00f3n cubana que hasta el domingo se hab\u00eda registrado \u201cun total de 33 fallecidos por arbovirosis\u201d. De esas v\u00edctimas, 12 fueron diagnosticadas con dengue \u2014siete de e\u2026",
+      "url": "https://www.excelsior.com.mx/global/chikunguna-y-dengue-dejan-33-muertos-en-cuba/1754897",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/01/3427222.jpg",
+      "publishedAt": "2025-12-01 21:03:58",
+      "content": "La viceministra de Salud P\u00fablica, Carilda Pe\u00f1a, declar\u00f3 en la televisi\u00f3n cubana que hasta el domingo se hab\u00eda registrado un total de 33 fallecidos por arbovirosis. De esas v\u00edctimas, 12 fueron diagno\u2026 [+4234 chars]",
+      "retrievedAt": "2025-12-03 07:09:11.045823",
+      "internal_id": "9138718b77238f5c76dffc65d28724272675dfdb7913fc073cc3a5add2a11eb3",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26008,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "wvb",
+      "title": "Kitten overleden door vogelgriep in Nederland: minister waarschuwt katteneigenaren",
+      "description": "Voor het eerst zijn in Nederland kittens overleden aan vogelgriep. Dat meldt landbouwminister Femke Wiersma (BBB) in een brief aan de Tweede Kamer. De minister waarschuwt katteneigenaars om waakzaam te zijn voor symptomen.",
+      "url": "https://www.nieuwsblad.be/buitenland/kitten-overleden-door-vogelgriep-in-nederland-minister-waarschuwt-katteneigenaren/109361983.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/naanv2-file80rzan5ldvbxpy8wtpn/alternates/SIXTEEN_NINE_1200/file80rzan5ldvbxpy8wtpn",
+      "publishedAt": "2025-12-01 19:12:00",
+      "content": "Het gaat om een nest jonge katten dat geboren is op een boerderij met melkgeiten. Uit onderzoek blijkt dat een van de kittens bezweek aan de H5N1-variant van het vogelgriepvirus. Ook de andere dieren\u2026 [+1266 chars]",
+      "retrievedAt": "2025-12-03 07:09:10.635727",
+      "internal_id": "b742bb886ec4fc16cd73d361a882b9529953e75190ca6d4c3ded131b4e9ead72",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 26009,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "wvb",
+      "title": "Kitten gestorven door vogelgriep in Nederland: \u201cWees waakzaam voor symptomen\u201d",
+      "description": "Voor het eerst zijn in Nederland kittens overleden aan vogelgriep. Dat meldt landbouwminister Femke Wiersma (BBB) in een brief aan de Tweede Kamer. De minister roept katteneigenaars op om waakzaam te zijn voor symptomen.",
+      "url": "https://www.nieuwsblad.be/buitenland/kitten-gestorven-door-vogelgriep-in-nederland-wees-waakzaam-voor-symptomen/109361983.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/naanv2-file80rzan5ldvbxpy8wtpn/alternates/SIXTEEN_NINE_1200/file80rzan5ldvbxpy8wtpn",
+      "publishedAt": "2025-12-01 19:12:00",
+      "content": "Het gaat om een nest jonge katten dat geboren is op een boerderij met melkgeiten. Uit onderzoek blijkt dat een van de kittens bezweek aan de H5N1-variant van het vogelgriepvirus. Ook de andere dieren\u2026 [+1266 chars]",
+      "retrievedAt": "2025-12-03 07:09:10.644988",
+      "internal_id": "a8a51596b6c7727b26acb19f238d5527a6c2f2a60ba89a4873f01b94c41aecb6",
+      "publishedAtLabel": "Dec 1"
+    },
     {
       "id": 25993,
       "query": [
@@ -14536,6 +14790,78 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25197,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
+      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
+      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
+      "publishedAt": "2025-10-19 15:24:27",
+      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.242648",
+      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Y\u00e9sica S\u00e1nchez",
+      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
+      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
+      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
+      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
+      "publishedAt": "2025-10-19 10:13:29",
+      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.694514",
+      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25196,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.jp",
+      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
+      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
+      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
+      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
+      "publishedAt": "2025-10-19 10:00:00",
+      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.232862",
+      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Another death due to rabies reported in Sarawak",
+      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
+      "publishedAt": "2025-10-19 07:23:00",
+      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
+      "retrievedAt": "2025-10-20 19:06:24.835493",
+      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]

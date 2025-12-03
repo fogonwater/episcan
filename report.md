@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-12-02 19:08
-- **Most recent article:** 2025-12-01 18:46:41
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-12-03 07:09
+- **Most recent article:** 2025-12-02 06:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 18 | 1 | 184 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 4 | 183 |
-| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 5 | 154 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 6 | 108 |
-| mpox | 8 | 20 | 5 | 6 | 3 | 5 | 0 | 47 |
-| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 2 | 42 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 3 | 186 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 7 | 186 |
+| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 7 | 157 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 8 | 110 |
+| mpox | 8 | 20 | 5 | 6 | 3 | 5 | 2 | 49 |
+| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 3 | 43 |
+| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 1 | 25 |
 | zika | 3 | 5 | 9 | 2 | 1 | 2 | 3 | 25 |
-| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 1 | 24 |
-| meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 1 | 22 |
-| pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 3 | 18 |
-| leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 1 | 13 |
-| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 0 | 13 |
+| meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 2 | 23 |
+| pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 4 | 19 |
+| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 1 | 16 |
+| leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 2 | 14 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
@@ -47,21 +47,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (pertussis)
 
+- [Roche receives FDA clearance with CLIA waiver and CE Mark for its first point-of-care test for diagnosing Bordetella infections, including whooping cough (pertussis)](https://www.globenewswire.com/news-release/2025/12/02/3197584/0/en/Roche-receives-FDA-clearance-with-CLIA-waiver-and-CE-Mark-for-its-first-point-of-care-test-for-diagnosing-Bordetella-infections-including-whooping-cough-pertussis.html) (GlobeNewswire)
+
 - [Waning immunity and falling vaccination rates fuel pertussis outbreaks](https://www.bostonherald.com/2025/12/01/whooping-cough-outbreaks/) (Boston Herald)
 
 - [Waning immunity and falling vaccination rates fuel pertussis outbreaks](https://www.denverpost.com/2025/12/01/whooping-cough-outbreaks/) (The Denver Post)
 
 - [Childhood respiratory threats: Starting with prevention](https://www.politico.eu/sponsored-content/childhood-respiratory-threats-starting-with-prevention/) (POLITICO.eu)
 
+## 25-49 (mpox)
+
+- [Mpox still spreading in Nigeria amid limited vaccine access](https://punchng.com/mpox-still-spreading-in-nigeria-amid-limited-vaccine-access/) (The Punch)
+
+- [México anuncia estrategia de vacunación contra mpox; van 4 mil 955 casos en el país](https://www.milenio.com/politica/mexico-anuncia-vacuna-contra-mpox) (Milenio)
+
 ## 25-49 (meningitis)
+
+- [Our daughter died from meningitis after starting uni - a jab would have saved her](https://www.bbc.com/news/articles/crrerl0pw9do) (BBC News)
 
 - [Alarma en Carral por un posible caso de meningitis y la falta de medicamentos para tratarlo](https://www.lavozdegalicia.es/noticia/coruna/carral/2025/12/01/alarma-carral-posible-meningitis-ceip-otero-valcarcel-falta-medicamentos-evitar-contagio/00031764613814599333462.htm) (Lavozdegalicia.es)
 
 ## 25-49 (measles)
 
+- [Health officials warn of measles exposure at three Utah locations](https://kutv.com/news/local/health-officials-warn-of-measles-exposure-at-three-utah-locations) (KUTV 2News)
+
+- [Utah’s Measles Outbreak Is Among the Largest in the US. It May Get Worse.](https://utahnewsdispatch.com/2025/12/01/utahs-measles-outbreak-likely-to-get-worse/) (Utahnewsdispatch.com)
+
 - [Kwara, 20 other states to repeat polio vaccination — WHO](https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/) (The Punch)
 
 ## 25-49 (malaria)
+
+- [Meet the world’s deadliest insects that are surprisingly more dangerous than you think](https://timesofindia.indiatimes.com/etimes/trending/meet-the-worlds-deadliest-insects-that-are-surprisingly-more-dangerous-than-you-think/articleshow/125709554.cms) (The Times of India)
+
+- [Progress In Fight Against Malaria, As New Treatment Shows Promise](https://www.forbes.com/sites/joshuacohen/2025/12/01/progress-in-fight-against-malaria-as-new-treatment-shows-promise/) (Forbes)
 
 - [Científicos piden que nos preparemos ante lo que está por venir porque afecta a casi todo el mundo: "En varios países, sigue siendo una gran amenaza"](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13669845/12/25/cientificos-piden-que-nos-preparemos-ante-lo-que-esta-por-venir-porque-afecta-a-casi-todo-el-mundo-en-varios-paises-sigue-siendo-una-gran-amenaza.html) (Eleconomista.es)
 
@@ -77,9 +95,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (leptospirosis)
 
+- [Bacolod: Leptospirosis cases alarms Bacolod City Council](https://rpnradio.com/bacolod-leptospirosis-cases-alarms-bacolod-city-council/) (Rpnradio.com)
+
 - [Bacolod records 2 leptospirosis deaths](https://rpnradio.com/bacolod-records-2-leptospirosis-deaths/) (Rpnradio.com)
 
+## 25-49 (hpai)
+
+- [Fifth case of bird flu confirmed at Turkey farm in Co Cavan](https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/) (The Irish Times)
+
 ## 25-49 (h5n1)
+
+- [Fifth case of bird flu confirmed at Turkey farm in Co Cavan](https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/) (The Irish Times)
+
+- [Kitten overleden door vogelgriep in Nederland: minister waarschuwt katteneigenaren](https://www.nieuwsblad.be/buitenland/kitten-overleden-door-vogelgriep-in-nederland-minister-waarschuwt-katteneigenaren/109361983.html) (Nieuwsblad.be)
+
+- [Kitten gestorven door vogelgriep in Nederland: “Wees waakzaam voor symptomen”](https://www.nieuwsblad.be/buitenland/kitten-gestorven-door-vogelgriep-in-nederland-wees-waakzaam-voor-symptomen/109361983.html) (Nieuwsblad.be)
 
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
@@ -90,6 +120,10 @@ Source: [News API](https://newsapi.org/)
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
 
 ## 25-49 (dengue)
+
+- [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
+
+- [Chikunguña y dengue dejan 33 muertos en Cuba; 21 eran niños y adolescentes](https://www.excelsior.com.mx/global/chikunguna-y-dengue-dejan-33-muertos-en-cuba/1754897) (Excelsior.com.mx)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
 
@@ -102,6 +136,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
 
 ## 25-49 (chikungunya)
+
+- [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
 
@@ -1681,6 +1717,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
+- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
+
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1797,6 +1835,10 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
+- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
+
+- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
+
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1890,6 +1932,8 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
+
+- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
