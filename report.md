@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2025-12-04 07:09
-- **Most recent article:** 2025-12-03 03:40:36
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-12-04 19:07
+- **Most recent article:** 2025-12-03 17:33:56
 
 ---
 
@@ -14,15 +14,15 @@ By US epiweek (i.e. Sunday to Saturday)
 |--|-|-|-|-|-|-|-|-|
 | measles | 23 | 35 | 21 | 59 | 27 | 18 | 6 | 189 |
 | h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 8 | 187 |
-| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 10 | 160 |
+| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 11 | 160 |
 | malaria | 17 | 17 | 19 | 20 | 12 | 17 | 8 | 110 |
+| mpox | 8 | 20 | 5 | 6 | 3 | 5 | 3 | 50 |
 | chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 10 | 50 |
-| mpox | 8 | 20 | 5 | 6 | 3 | 5 | 2 | 49 |
+| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 3 | 26 |
 | zika | 3 | 5 | 9 | 2 | 1 | 2 | 4 | 26 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 4 | 25 |
-| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 1 | 25 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 5 | 20 |
-| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 2 | 17 |
+| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 2 | 15 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 2 | 14 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
@@ -45,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (rabies)
 
+- [Man Risks Own Life Trying to Save Rabid Raccoon](https://www.newser.com/story/379737/man-risks-own-life-trying-to-save-rabid-raccoon.html) (Newser)
+
+- [Babinsa Koramil Putussibau Utara Sampaikan Pesan Bahaya Penyakit Rabies dan Pentingnya Vaksinasi Hewan Peliharaan](https://kalbaronline.com/2025/12/03/babinsa-koramil-putussibau-utara-sampaikan-pesan-bahaya-penyakit-rabies-dan-pentingnya-vaksinasi-hewan-peliharaan/) (Kalbaronline.com)
+
 - [Two-leaves and many bites: Profiling dog-bites and adherence to rabies prophylaxis in tea-estate communities of Udalguri District, Assam, India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013791) (Plos.org)
 
 ## 25-49 (pertussis)
@@ -60,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [Childhood respiratory threats: Starting with prevention](https://www.politico.eu/sponsored-content/childhood-respiratory-threats-starting-with-prevention/) (POLITICO.eu)
 
 ## 25-49 (mpox)
+
+- [Mais de 22 mil vacinados contra Mpox em Moçambique](https://observador.pt/2025/12/03/mais-de-22-mil-vacinados-contra-mpox-em-provincia-epicentro-da-doenca-em-mocambique/) (Observador.pt)
 
 - [Mpox still spreading in Nigeria amid limited vaccine access](https://punchng.com/mpox-still-spreading-in-nigeria-amid-limited-vaccine-access/) (The Punch)
 
@@ -138,6 +144,8 @@ Source: [News API](https://newsapi.org/)
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
 
 ## 25-49 (dengue)
+
+- [Indonesia advances phase-3 trials for promising dengue vaccine](https://en.antaranews.com/news/394984/indonesia-advances-phase-3-trials-for-promising-dengue-vaccine) (Antaranews.com)
 
 - [Dengue Hemorrhagic Fever: Key Warning Signs and DHF Symptoms Every Parent Must Spot Early](https://www.medicaldaily.com/dengue-hemorrhagic-fever-key-warning-signs-dhf-symptoms-every-parent-must-spot-early-474058) (Medical Daily)
 
@@ -1755,8 +1763,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
-- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
-
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1873,10 +1879,6 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
-- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
-
-- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
-
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1970,8 +1972,6 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
-
-- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
