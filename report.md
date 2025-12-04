@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-12-03 19:06
-- **Most recent article:** 2025-12-02 17:13:54
+- **New articles in last harvest:** 1
+- **Last harvest:** 2025-12-04 07:09
+- **Most recent article:** 2025-12-03 03:40:36
 
 ---
 
@@ -13,16 +13,16 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 23 | 35 | 21 | 59 | 27 | 18 | 6 | 189 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 7 | 186 |
-| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 10 | 159 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 8 | 187 |
+| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 10 | 160 |
 | malaria | 17 | 17 | 19 | 20 | 12 | 17 | 8 | 110 |
 | chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 10 | 50 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 2 | 49 |
 | zika | 3 | 5 | 9 | 2 | 1 | 2 | 4 | 26 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 4 | 25 |
-| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 1 | 24 |
+| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 1 | 25 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 5 | 20 |
-| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 2 | 15 |
+| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 2 | 17 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 2 | 14 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
@@ -120,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 - [Fifth case of bird flu confirmed at Turkey farm in Co Cavan](https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/) (The Irish Times)
 
 ## 25-49 (h5n1)
+
+- [Ученые встревожены смертью человека от птичьего гриппа H5N5 в США](https://rg.ru/2025/12/03/nabliudat-bez-paniki.html) (Rg.ru)
 
 - [Fifth case of bird flu confirmed at Turkey farm in Co Cavan](https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/) (The Irish Times)
 
@@ -1753,6 +1755,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
+- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
+
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1869,6 +1873,10 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
+- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
+
+- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
+
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1962,6 +1970,8 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
+
+- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
