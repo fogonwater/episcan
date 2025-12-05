@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-12-04 19:07",
-  "count_articles_total": 840,
-  "count_articles_new": 4,
+  "last_updated": "2025-12-05 07:08",
+  "count_articles_total": 852,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 26041,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Standaard.be",
+      "author": "Maxie Eckert",
+      "title": "Europa zet zich schrap voor vogelgriep bij mensen: \u201cWe mogen geen voortekens van een nieuwe pandemie missen\u201d",
+      "description": "Het Europese gezondheidsinstituut ECDC is zeer bezorgd over het recordaantal besmettingen met het H5N1-virus bij wilde vogels. Overheden mogen signalen van besmettingen bij mensen en overdracht tussen mensen niet missen, waarschuwt het.",
+      "url": "https://www.standaard.be/natuur-en-wetenschap/europa-zet-zich-schrap-voor-vogelgriep-bij-mensen-we-mogen-geen-voortekens-van-een-nieuwe-pandemie-missen/109801983.html",
+      "urlToImage": "https://prod-img.standaard.be/public/nieuws/sl73bv-144947771.jpg/alternates/SIXTEEN_NINE_1200/144947771.jpg",
+      "publishedAt": "2025-12-04 05:00:00",
+      "content": "Wanneer spreekt AI Vlaams? (Live op de Dag van de Wetenschap) Artifici\u00eble intelligentie is zeer bedreven in zowat alle talen van de wereld. Maar met onze Vlaamse accenten hebben veel taalmodellen he\u2026 [+793 chars]",
+      "retrievedAt": "2025-12-05 07:08:53.095676",
+      "internal_id": "a59b5a74cd35927d1afc51af07b7bff6fe348048b9b636bb4cb0dfe852799a6d",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26042,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Emergence of Dengue Virus Serotype 3, Lineage III_B.3.2, Angola",
+      "description": "Emergence of Dengue Virus Serotype 3, Lineage III_B.3.2, Angola",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/11/25-1079_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-12-04 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) is tra\u2026 [+7532 chars]",
+      "retrievedAt": "2025-12-05 07:08:53.299363",
+      "internal_id": "9aaadbd5ae93933d42c34557c2710470b9ee044242b62cd65a08b78798fa5b9b",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Molecular Evidence of Dengue Virus Serotype 2 in Travelers Returning to Israel from the Sinai Peninsula",
+      "description": "Molecular Evidence of Dengue Virus Serotype 2 in Travelers Returning to Israel from the Sinai Peninsula",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/11/25-0991_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-12-04 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) is the\u2026 [+6184 chars]",
+      "retrievedAt": "2025-12-05 07:08:53.308611",
+      "internal_id": "3cb7f33f66baafc25f73ddff3b603c779cc34b2b268712fb0f5ecf57e58e1698",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26040,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Otago Daily Times",
+      "author": "Odt - Otago Daily Times",
+      "title": "Dunedin ED location of interest in measles outbreak",
+      "description": "The Dunedin measles case notified yesterday has been linked to emergency department of the city's hospital. The number of known measles cases...",
+      "url": "https://www.odt.co.nz/news/dunedin/health/dunedin-ed-location-interest-measles-outbreak",
+      "urlToImage": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2025/12/dunedin-hospital.jpg?itok=uLoOG_-a",
+      "publishedAt": "2025-12-04 04:24:10",
+      "content": "The Dunedin measles case notified yesterday has been linked to emergency department of the city's hospital.The number of known measles cases nationally is now 28, of whom 22 are no longer infectious,\u2026 [+1021 chars]",
+      "retrievedAt": "2025-12-05 07:08:52.651618",
+      "internal_id": "f8416c31303f96db703751dea3fc3a83440a7a8801f25b6a8f3f6abec69a70e7",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26039,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "RFK Jr., CDC Vaccine Guidance, A New Deputy CDC Director, And Measles In South Carolina",
+      "description": "Part of what makes it difficult for the importance of so much of what is happening in the Trump administration to break through to the public mind is that it\u2019s all chaos, all the time. Moving layers deeper to get at specifics can actually make the problem wor\u2026",
+      "url": "https://www.techdirt.com/2025/12/03/rfk-jr-cdc-vaccine-guidance-a-new-deputy-cdc-director-and-measles-in-south-carolina/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-12-04 04:15:36",
+      "content": "from the a-giant-bucket-of-stupid dept Part of what makes it difficult for the importance of so much of what is happening in the Trump administration to break through to the public mind is that it\u2019s\u2026 [+7011 chars]",
+      "retrievedAt": "2025-12-05 07:08:52.594460",
+      "internal_id": "59d859adad6921b2b4ae11952c6859848ac9d653d3fb0e70960ed8e0100a9c6c",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26044,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Hellen Dewi Prameswari, Jacob Kisomb, Pilly Mapira, John B. Keven, Hermawan Susanto, Rahmad Isa, Dedy Supriyanto, Triwibowo A. Garjito, Din Syafruddin, Ermi Ndoen, Iswahyudi, Firmansyah, Firdy Permana, Nelson Chin, Neil F. Lobo, Edward D. Walker, Ferdinand J. Laihad, Sarthak Das, William A. Hawley, Iqbal RF Elyazar",
+      "title": "Two Nations, One Front: Indonesia and Papua New Guinea forge a One-Island approach to fight persistent malaria on New Guinea",
+      "description": "Nature Communications - Two Nations, One Front: Indonesia and Papua New Guinea forge a One-Island approach to fight persistent malaria on New Guinea",
+      "url": "https://www.nature.com/articles/s41467-025-66551-9",
+      "urlToImage": null,
+      "publishedAt": "2025-12-04 00:00:00",
+      "content": "National Malaria Control Program of Republic of Indonesia, Jl. H. R. Rasuna Said No. Kav 4-9 Blok X-5, RT.1/RW.2, Jakarta, 12950, Indonesia Hellen Dewi Prameswari, Hermawan Susanto, Rahmad Isa &\u2026 [+2703 chars]",
+      "retrievedAt": "2025-12-05 07:08:53.937865",
+      "internal_id": "21afec7dbaaa83ee191b560491c27acc29b9f7ba638fe1a963b185ae0db0ac7f",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26045,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Yanqun Wang, Ruoxi Cai, Airu Zhu, Jiantao Chen, Canjie Chen, Lijuan Zhou, Xindan Xing, Qier Zhong, Peilan Wei, Xinxin Li, Zhaoyong Zhang, Yuanyuan Zhang, Lei Chen, Jingjing Gao, Suxiang Li, Xinyi Xiong, Bin Qu, Shuxiang Huang, Zhiwei Lin, Haoshi Bai, Qingtao Hu, Jingxian Zhao, Yongxia Shi, Yang Yang, Pengzhe Qin, Lu Zhang, Jincun Zhao",
+      "title": "Immune profiling of mpox survivors reveals divergent durability of antibody and T cell responses",
+      "description": "Despite the global spread of the mpox virus, the long-term durability and breadth of infection-induced immunity are not fully understood. Here, the authors analyze MPXV-specific immune responses up to 18 months post-infection, revealing robust cellular immuni\u2026",
+      "url": "https://www.nature.com/articles/s41467-025-67266-7",
+      "urlToImage": null,
+      "publishedAt": "2025-12-04 00:00:00",
+      "content": "Thornhill, J. P. et al. Monkeypox virus infection in humans across 16 countries-April-June 2022. N. Engl. J. Med.387, 679691 (2022). Google Scholar De Baetselier, I. et al. Retrospect\u2026 [+4761 chars]",
+      "retrievedAt": "2025-12-05 07:08:54.453607",
+      "internal_id": "11f8b47e01ef45d769c4e291838b185b0009b1996241e318161917a9b2ab7148",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26046,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Fijivillage",
+      "author": "Rashika Kumar",
+      "title": "Leptospirosis kills 2 in the North as Health Ministry issues urgent warning",
+      "description": "Two people have passed away due leptospirosis in the Northern Division as the Health Ministry is urging the public to take immediate precautionary mea",
+      "url": "https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/",
+      "urlToImage": "https://www.fijivillage.com/news_images/20251204103348_media_6930ba8017cfd8_09332974.jpg",
+      "publishedAt": "2025-12-03 22:48:13",
+      "content": "Two people have passed away due leptospirosis in the Northern Division as the Health Ministry is urging the public to take immediate precautionary measures. The Ministry says that although current l\u2026 [+2879 chars]",
+      "retrievedAt": "2025-12-05 07:08:54.669654",
+      "internal_id": "a127d7be4177fd36d927cb07f43633c8b27113eaae4810e02b751cc3a4206933",
+      "publishedAtLabel": "Dec 3"
+    },
     {
       "id": 26035,
       "query": [
@@ -15170,6 +15314,78 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25197,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
+      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
+      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
+      "publishedAt": "2025-10-19 15:24:27",
+      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.242648",
+      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Y\u00e9sica S\u00e1nchez",
+      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
+      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
+      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
+      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
+      "publishedAt": "2025-10-19 10:13:29",
+      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.694514",
+      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25196,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.jp",
+      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
+      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
+      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
+      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
+      "publishedAt": "2025-10-19 10:00:00",
+      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
+      "retrievedAt": "2025-10-20 19:06:25.232862",
+      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 25195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Another death due to rabies reported in Sarawak",
+      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
+      "publishedAt": "2025-10-19 07:23:00",
+      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
+      "retrievedAt": "2025-10-20 19:06:24.835493",
+      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]

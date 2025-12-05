@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-12-04 19:07
-- **Most recent article:** 2025-12-03 17:33:56
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-12-05 07:08
+- **Most recent article:** 2025-12-04 05:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 18 | 6 | 189 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 8 | 187 |
-| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 11 | 160 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 8 | 110 |
-| mpox | 8 | 20 | 5 | 6 | 3 | 5 | 3 | 50 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 8 | 191 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 9 | 188 |
+| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 13 | 163 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 9 | 111 |
+| mpox | 8 | 20 | 5 | 6 | 3 | 5 | 4 | 51 |
 | chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 10 | 50 |
-| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 3 | 26 |
+| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 3 | 27 |
 | zika | 3 | 5 | 9 | 2 | 1 | 2 | 4 | 26 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 4 | 25 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 5 | 20 |
-| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 2 | 15 |
-| leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 2 | 14 |
+| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 2 | 17 |
+| leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 3 | 15 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
@@ -65,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (mpox)
 
+- [Immune profiling of mpox survivors reveals divergent durability of antibody and T cell responses](https://www.nature.com/articles/s41467-025-67266-7) (Nature.com)
+
 - [Mais de 22 mil vacinados contra Mpox em Moçambique](https://observador.pt/2025/12/03/mais-de-22-mil-vacinados-contra-mpox-em-provincia-epicentro-da-doenca-em-mocambique/) (Observador.pt)
 
 - [Mpox still spreading in Nigeria amid limited vaccine access](https://punchng.com/mpox-still-spreading-in-nigeria-amid-limited-vaccine-access/) (The Punch)
@@ -83,6 +85,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (measles)
 
+- [Dunedin ED location of interest in measles outbreak](https://www.odt.co.nz/news/dunedin/health/dunedin-ed-location-interest-measles-outbreak) (Otago Daily Times)
+
+- [RFK Jr., CDC Vaccine Guidance, A New Deputy CDC Director, And Measles In South Carolina](https://www.techdirt.com/2025/12/03/rfk-jr-cdc-vaccine-guidance-a-new-deputy-cdc-director-and-measles-in-south-carolina/) (Techdirt)
+
 - [Public health officials warn of measles exposure in Missoula County](https://www.kpax.com/news/missoula-county/public-health-officials-warn-of-measles-exposure-in-missoula-county) (KPAX-TV)
 
 - [Measles vaccinations begin in rebel-held Congo almost a year after deadly outbreak](https://abcnews.go.com/International/wireStory/measles-vaccinations-begin-rebel-held-congo-year-after-128031836) (ABC News)
@@ -96,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 - [Kwara, 20 other states to repeat polio vaccination — WHO](https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/) (The Punch)
 
 ## 25-49 (malaria)
+
+- [Two Nations, One Front: Indonesia and Papua New Guinea forge a One-Island approach to fight persistent malaria on New Guinea](https://www.nature.com/articles/s41467-025-66551-9) (Nature.com)
 
 - [Meet the world’s deadliest insects that are surprisingly more dangerous than you think](https://timesofindia.indiatimes.com/etimes/trending/meet-the-worlds-deadliest-insects-that-are-surprisingly-more-dangerous-than-you-think/articleshow/125709554.cms) (The Times of India)
 
@@ -115,6 +123,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (leptospirosis)
 
+- [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
+
 - [Bacolod: Leptospirosis cases alarms Bacolod City Council](https://rpnradio.com/bacolod-leptospirosis-cases-alarms-bacolod-city-council/) (Rpnradio.com)
 
 - [Bacolod records 2 leptospirosis deaths](https://rpnradio.com/bacolod-records-2-leptospirosis-deaths/) (Rpnradio.com)
@@ -126,6 +136,8 @@ Source: [News API](https://newsapi.org/)
 - [Fifth case of bird flu confirmed at Turkey farm in Co Cavan](https://www.irishtimes.com/ireland/2025/12/02/fifth-case-of-bird-flu-confirmed-at-turkey-farm-in-co-cavan/) (The Irish Times)
 
 ## 25-49 (h5n1)
+
+- [Europa zet zich schrap voor vogelgriep bij mensen: “We mogen geen voortekens van een nieuwe pandemie missen”](https://www.standaard.be/natuur-en-wetenschap/europa-zet-zich-schrap-voor-vogelgriep-bij-mensen-we-mogen-geen-voortekens-van-een-nieuwe-pandemie-missen/109801983.html) (Standaard.be)
 
 - [Ученые встревожены смертью человека от птичьего гриппа H5N5 в США](https://rg.ru/2025/12/03/nabliudat-bez-paniki.html) (Rg.ru)
 
@@ -144,6 +156,10 @@ Source: [News API](https://newsapi.org/)
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
 
 ## 25-49 (dengue)
+
+- [Emergence of Dengue Virus Serotype 3, Lineage III_B.3.2, Angola](https://wwwnc.cdc.gov/eid/article/31/11/25-1079_article) (Cdc.gov)
+
+- [Molecular Evidence of Dengue Virus Serotype 2 in Travelers Returning to Israel from the Sinai Peninsula](https://wwwnc.cdc.gov/eid/article/31/11/25-0991_article) (Cdc.gov)
 
 - [Indonesia advances phase-3 trials for promising dengue vaccine](https://en.antaranews.com/news/394984/indonesia-advances-phase-3-trials-for-promising-dengue-vaccine) (Antaranews.com)
 
@@ -1763,6 +1779,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
+- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
+
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1879,6 +1897,10 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
+- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
+
+- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
+
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1972,6 +1994,8 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
+
+- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
