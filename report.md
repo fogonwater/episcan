@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-12-05 07:08
-- **Most recent article:** 2025-12-04 05:00:00
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-12-05 19:06
+- **Most recent article:** 2025-12-04 18:39:42
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 18 | 8 | 191 |
-| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 9 | 188 |
-| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 13 | 163 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 9 | 111 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 9 | 192 |
+| h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 10 | 189 |
+| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 14 | 163 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 19 | 121 |
+| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 11 | 51 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 4 | 51 |
-| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 10 | 50 |
-| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 3 | 27 |
-| zika | 3 | 5 | 9 | 2 | 1 | 2 | 4 | 26 |
+| zika | 3 | 5 | 9 | 2 | 1 | 2 | 5 | 27 |
+| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 4 | 27 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 4 | 25 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 5 | 20 |
-| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 2 | 17 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 3 | 15 |
+| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 2 | 15 |
+| yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 3 | 11 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
-| yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 0 | 8 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
 
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (zika)
 
+- [Famílias ainda buscam indenização para crianças afetadas por zika vírus](https://valor.globo.com/brasil/noticia/2025/12/04/familias-ainda-buscam-indenizacao-para-criancas-afetadas-por-zika-virus.ghtml) (Globo)
+
 - [Küba’da salgın alarmı: Sivrisinekler can aldı](https://www.sabah.com.tr/dunya/kubada-salgin-alarmi-sivrisinekler-can-aldi-7475536) (Sabah.com.tr)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
@@ -43,7 +45,17 @@ Source: [News API](https://newsapi.org/)
 
 - [The Zika Scare That Turned Out to Be a False Positive Debacle – and the ‘Congenital Zika Syndrome’ Backup Lie That’s Replaced It](https://wattsupwiththat.com/2025/11/29/the-zika-scare-that-turned-out-to-be-a-false-positive-debacle-and-the-congenital-zika-syndrome-backup-lie-thats-replaced-it/) (Wattsupwiththat.com)
 
+## 25-49 (yersinia)
+
+- [Πώς ηφαιστειακές εκρήξεις, ενδέχεται να έφεραν τον Μαύρο Θάνατο στη μεσαιωνική Ευρώπη](https://www.skai.gr/news/technology/pos-ifaisteiakes-ekrikseis-endexetai-na-eferan-ton-mayro-thanato) (Skai.gr)
+
+- [Извержения вулканов связали с началом Черной смерти](https://nplus1.ru/news/2025/12/04/volcanic-activity-and-black-death) (Nplus1.ru)
+
+- [Medieval volcanoes may have ignited the Black Death](http://www.popsci.com/science/medieval-volcano-plague/) (Popular Science)
+
 ## 25-49 (rabies)
+
+- [Human-to-Human Rabies Transmission via Solid Organ Transplantation from a Donor with Undiagnosed Rabies — United States, October 2024–February 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7439a1.htm) (Cdc.gov)
 
 - [Man Risks Own Life Trying to Save Rabid Raccoon](https://www.newser.com/story/379737/man-risks-own-life-trying-to-save-rabid-raccoon.html) (Newser)
 
@@ -85,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (measles)
 
+- [Nine of the 11 measles-related deaths happened within a one-kilometer radius in Jerusalem, Health Ministry says](https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/nine-of-11-measles-related-deaths-happened-within-a-one-kilometer-radius-in-jerusalem/0000019a-e915-de8e-a99b-fb9fdda70000) (Haaretz)
+
 - [Dunedin ED location of interest in measles outbreak](https://www.odt.co.nz/news/dunedin/health/dunedin-ed-location-interest-measles-outbreak) (Otago Daily Times)
 
 - [RFK Jr., CDC Vaccine Guidance, A New Deputy CDC Director, And Measles In South Carolina](https://www.techdirt.com/2025/12/03/rfk-jr-cdc-vaccine-guidance-a-new-deputy-cdc-director-and-measles-in-south-carolina/) (Techdirt)
@@ -102,6 +116,26 @@ Source: [News API](https://newsapi.org/)
 - [Kwara, 20 other states to repeat polio vaccination — WHO](https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/) (The Punch)
 
 ## 25-49 (malaria)
+
+- [minte 1.0.2](https://pypi.org/project/minte/1.0.2/) (Pypi.org)
+
+- [minte 1.0.1](https://pypi.org/project/minte/1.0.1/) (Pypi.org)
+
+- [minte 1.0.0](https://pypi.org/project/minte/1.0.0/) (Pypi.org)
+
+- [minte added to PyPI](https://pypi.org/project/minte/) (Pypi.org)
+
+- [Rising drug resistance hinders anti-malaria progress, WHO warns](https://www.thestar.com.my/news/world/2025/12/05/rising-drug-resistance-hinders-anti-malaria-progress-who-warns) (The Star Online)
+
+- [Gates Foundation Warns Child Deaths Rising as Global Aid Cuts Mount](https://observer.com/2025/12/gates-foundation-annual-report-warns-rising-child-deaths/) (Observer)
+
+- [Malaria: Drug resistance and underfunding threaten progress towards eliminating killer disease](https://news.un.org/en/story/2025/12/1166508) (UN News)
+
+- [Tropenkrankheit: Mehr Malariafälle wegen Resistenz, Krieg und Klimawandel](https://www.tagesspiegel.de/wissen/tropenkrankheit-mehr-malariafalle-wegen-resistenz-krieg-und-klimawandel-15015401.html) (Der Tagesspiegel)
+
+- [La OMS advierte de un "ligero incremento" de casos y muertes por malaria en 2024](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-ligero-incremento-casos-muertes-malaria-2024-20251204100052.html) (Infosalus.com)
+
+- [Tropenkrankheit: Mehr Malariafälle wegen Resistenz, Krieg und Klimawandel](https://www.stern.de/panorama/wissen/tropenkrankheit--mehr-malariafaelle-wegen-resistenz--krieg-und-klimawandel-36927040.html) (STERN.de)
 
 - [Two Nations, One Front: Indonesia and Papua New Guinea forge a One-Island approach to fight persistent malaria on New Guinea](https://www.nature.com/articles/s41467-025-66551-9) (Nature.com)
 
@@ -137,6 +171,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (h5n1)
 
+- [Was Haustierhalter jetzt beachten sollten - Erste Katze stirbt an Geflügelpest](https://www.bild.de/news/inland/neuruppin-katzen-sterben-an-vogelgrippe-h5n1-6931632b76c2ae9f577fb11d) (Bild)
+
 - [Europa zet zich schrap voor vogelgriep bij mensen: “We mogen geen voortekens van een nieuwe pandemie missen”](https://www.standaard.be/natuur-en-wetenschap/europa-zet-zich-schrap-voor-vogelgriep-bij-mensen-we-mogen-geen-voortekens-van-een-nieuwe-pandemie-missen/109801983.html) (Standaard.be)
 
 - [Ученые встревожены смертью человека от птичьего гриппа H5N5 в США](https://rg.ru/2025/12/03/nabliudat-bez-paniki.html) (Rg.ru)
@@ -156,6 +192,8 @@ Source: [News API](https://newsapi.org/)
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
 
 ## 25-49 (dengue)
+
+- [“Catástrofe em desenvolvimento”: Alterações climáticas agravam ameaça global de doenças infeciosas](https://greensavers.sapo.pt/catastrofe-em-desenvolvimento-alteracoes-climaticas-agravam-ameaca-global-de-doencas-infeciosas/) (Sapo.pt)
 
 - [Emergence of Dengue Virus Serotype 3, Lineage III_B.3.2, Angola](https://wwwnc.cdc.gov/eid/article/31/11/25-1079_article) (Cdc.gov)
 
@@ -184,6 +222,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
 
 ## 25-49 (chikungunya)
+
+- [Development of monoclonal antibodies against E1 protein of Chikungunya virus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013794) (Plos.org)
 
 - [Expertos se ponen de acuerdo y piden de forma urgente incorporar la vacuna del chikungunya en los protocolos para viajeros en riesgo](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13673006/12/25/expertos-se-ponen-de-acuerdo-y-piden-de-forma-urgente-incorporar-la-vacuna-del-chikungunya-en-los-protocolos-para-viajeros-en-riesgo.html) (Eleconomista.es)
 
@@ -1779,8 +1819,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
-- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
-
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1897,10 +1935,6 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
-- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
-
-- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
-
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -1994,8 +2028,6 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
-
-- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 

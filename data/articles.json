@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-12-05 07:08",
-  "count_articles_total": 852,
-  "count_articles_new": 8,
+  "last_updated": "2025-12-05 19:06",
+  "count_articles_total": 867,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 26053,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "cosmo.santoni@imperial.ac.uk",
+      "title": "minte 1.0.2",
+      "description": "Malaria Intervention Emulator (MINTe) - Neural network-based malaria scenario predictions",
+      "url": "https://pypi.org/project/minte/1.0.2/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-04 18:39:42",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.794841",
+      "internal_id": "c965a55cf8e74c98a983465f932f25d3dd7a8dfaf42d5d76725a0409ac0162de",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26054,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "cosmo.santoni@imperial.ac.uk",
+      "title": "minte 1.0.1",
+      "description": "Malaria Intervention Emulator (MINTe) - Neural network-based malaria scenario predictions",
+      "url": "https://pypi.org/project/minte/1.0.1/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-04 18:27:05",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.803969",
+      "internal_id": "ce0556c0eb1c03fea320980b1480a6d9684cb5ff953e719e71390c9a3986f187",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26052,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "cosmo.santoni@imperial.ac.uk",
+      "title": "minte 1.0.0",
+      "description": "Malaria Intervention Emulator (MINTe) - Neural network-based malaria scenario predictions",
+      "url": "https://pypi.org/project/minte/1.0.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-04 18:22:49",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.784999",
+      "internal_id": "e10eca3289f5d6e265c111695d3c759bde41f192f5fd22795f15bc93bd2b3cd6",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26057,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "cosmo.santoni@imperial.ac.uk",
+      "title": "minte added to PyPI",
+      "description": "Malaria Intervention Emulator (MINTe) - Neural network-based malaria scenario predictions",
+      "url": "https://pypi.org/project/minte/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-04 18:22:49",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.848793",
+      "internal_id": "d734baa33eb64834c124ec17c16d17a53f3105406995ffdb21a5280c9ca6a4da",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26061,
+      "query": [
+        "zika"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Fam\u00edlias ainda buscam indeniza\u00e7\u00e3o para crian\u00e7as afetadas por zika v\u00edrus",
+      "description": "\u201c\u00c9 uma espera muito cansativa, sabe? E muito desga...",
+      "url": "https://valor.globo.com/brasil/noticia/2025/12/04/familias-ainda-buscam-indenizacao-para-criancas-afetadas-por-zika-virus.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2025-12-04 18:07:37",
+      "content": "\u00c9 uma espera muito cansativa, sabe? E muito desgastante pra n\u00f3s vai ajudar nossas crian\u00e7as com terapias e m\u00e9dicos, que na rede p\u00fablica n\u00e3o temos, diz Jailma Lima, av\u00f3 de g\u00eameos de 10 anos, diagnostic\u2026 [+4832 chars]",
+      "retrievedAt": "2025-12-05 19:06:18.061276",
+      "internal_id": "e7c3a6cb8a6a625df07d02cf3ecbff2899d3809b2b97c062addeaeef1afc74af",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26056,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Wang Lu",
+      "title": "Rising drug resistance hinders anti-malaria progress, WHO warns",
+      "description": "GENEVA, Dec. 4 (Xinhua) -- A million lives were saved last year using new tools to fight malaria, but this progress is under threat from rising drug resistance, according to a report released Thursday by the World Health Organization (WHO). Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/12/05/rising-drug-resistance-hinders-anti-malaria-progress-who-warns",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-12-04 17:44:00",
+      "content": "GENEVA, Dec. 4 (Xinhua) -- A million lives were saved last year using new tools to fight malaria, but this progress is under threat from rising drug resistance, according to a report released Thursda\u2026 [+1894 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.839224",
+      "internal_id": "7fdf48ecfe6fae12d678cb903a6b848e2beb54fbdd2c7556eaf876cffd9670dc",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26065,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03ce\u03c2 \u03b7\u03c6\u03b1\u03b9\u03c3\u03c4\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u03b5\u03ba\u03c1\u03ae\u03be\u03b5\u03b9\u03c2, \u03b5\u03bd\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03c6\u03b5\u03c1\u03b1\u03bd \u03c4\u03bf\u03bd \u039c\u03b1\u03cd\u03c1\u03bf \u0398\u03ac\u03bd\u03b1\u03c4\u03bf \u03c3\u03c4\u03b7 \u03bc\u03b5\u03c3\u03b1\u03b9\u03c9\u03bd\u03b9\u03ba\u03ae \u0395\u03c5\u03c1\u03ce\u03c0\u03b7",
+      "description": "\u0397 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03c4\u03c9\u03bd \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03c9\u03bd \u03c5\u03c0\u03bf\u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03bc\u03b9\u03b1 \u03b7\u03c6\u03b1\u03b9\u03c3\u03c4\u03b5\u03b9\u03b1\u03ba\u03ae \u03ad\u03ba\u03c1\u03b7\u03be\u03b7 \u03ae \u03bc\u03b9\u03b1 \u03c3\u03c5\u03c3\u03c4\u03ac\u03b4\u03b1 \u03b5\u03ba\u03c1\u03ae\u03be\u03b5\u03c9\u03bd \u03b3\u03cd\u03c1\u03c9 \u03c3\u03c4\u03bf 1345 \u03bc.\u03a7., \u03c0\u03c1\u03bf\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03c8\u03cd\u03c7\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03c3\u03c4\u03b7 \u03bd\u03cc\u03c4\u03b9\u03b1 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7",
+      "url": "https://www.skai.gr/news/technology/pos-ifaisteiakes-ekrikseis-endexetai-na-eferan-ton-mayro-thanato",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/volcano_ap.jpg?itok=fp-Z8BHq",
+      "publishedAt": "2025-12-04 17:15:55",
+      "content": ", \u00abCommunications Earth &amp; Environment\u00bb. , 1347 1353 .. 60% . Leibniz , , , , . 1345 .., , , . -, , Yersinia pestis. . , . : https://www.nature.com/articles/s43247-025-02964-0 . .\u2026 [+67 chars]",
+      "retrievedAt": "2025-12-05 19:06:19.159418",
+      "internal_id": "32fab7f0b57f8b132e4d511ac9e7c415c64c2577b6d3793552e4b2425ddb5c67",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26047,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Human-to-Human Rabies Transmission via Solid Organ Transplantation from a Donor with Undiagnosed Rabies \u2014 United States, October 2024\u2013February 2025",
+      "description": "This report describes the public health response to a patient who died after transplantation with an organ from a donor with undiagnosed rabies.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7439a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7439a1_RabiesOrganTransplant_IMAGE_4December2025_1200x675.png?_=92564",
+      "publishedAt": "2025-12-04 17:00:00",
+      "content": "Notification of Rabies Case On January 27, 2025, CDC was notified of possible rabies virus infection in a kidney transplant recipient (Figure). After CDC confirmed diagnosis, jurisdictional health d\u2026 [+4151 chars]",
+      "retrievedAt": "2025-12-05 19:06:15.844039",
+      "internal_id": "0c1aecc34c300e9713a9be14b6892eca3d75a339015e8945c67252d7603a0047",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26063,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0418\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u044f \u0432\u0443\u043b\u043a\u0430\u043d\u043e\u0432 \u0441\u0432\u044f\u0437\u0430\u043b\u0438 \u0441 \u043d\u0430\u0447\u0430\u043b\u043e\u043c \u0427\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438",
+      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u043f\u043e \u0433\u043e\u0434\u0438\u0447\u043d\u044b\u043c \u043a\u043e\u043b\u044c\u0446\u0430\u043c \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b\u0445 \u0434\u0435\u0440\u0435\u0432\u044c\u0435\u0432, \u043b\u0435\u0434\u044f\u043d\u044b\u043c \u043a\u0435\u0440\u043d\u0430\u043c \u0438 \u0441\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0438 \u0438\u0445 \u0441\u043e \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f\u043c\u0438 \u0438\u0437 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432. \u041e\u043d\u0438 \u043f\u0440\u0438\u0448\u043b\u0438 \u043a \u0432\u044b\u0432\u043e\u0434\u0443, \u0447\u0442\u043e \u043f\u0435\u0440\u0435\u0434 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0435\u0439 \u0447\u0443\u043c\u044b, \u0432\u0441\u043f\u044b\u0445\u043d\u0443\u0432\u0448\u0435\u0439 \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0435 XIV \u0432\u0435\u043a\u0430, \u0436\u0438\u0442\u0435\u043b\u0438 \u0421\u0440\u0435\u0434\u0438\u0437\u0435\u043c\u043d\u043e\u043c\u043e\u0440\u044c\u044f \u0441\u0442\u043e\u043b\u2026",
+      "url": "https://nplus1.ru/news/2025/12/04/volcanic-activity-and-black-death",
+      "urlToImage": "https://minio.nplus1.ru/app-images/1068160/693173792d083_cover_share.jpg",
+      "publishedAt": "2025-12-04 16:00:00",
+      "content": ", . , , XIV , , , . , , , , . , Communications Earth &amp; Environment. , . Yersinia pestis, . , . , , , , . , . XIV . , 3060 , , . (Mart\u2026 [+338 chars]",
+      "retrievedAt": "2025-12-05 19:06:19.140297",
+      "internal_id": "8caa28d45a80ad90862f7fad4c8e819f710dc069d97d38799357146f94394fba",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26064,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "Andrew Paul",
+      "title": "Medieval volcanoes may have ignited the Black Death",
+      "description": "More than just rats and fleas added to the 'perfect storm' plague. The post Medieval volcanoes may have ignited the Black Death appeared first on Popular Science.",
+      "url": "http://www.popsci.com/science/medieval-volcano-plague/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/12/Trionfo-della-Morte.jpg?quality=85&w=1200",
+      "publishedAt": "2025-12-04 16:00:00",
+      "content": "While fleas, rats, and global trade played a major role, no single organism or action allowed the bubonic plague (Yersinia pestis) to wreak havoc during the 14th century. Understanding the complex ne\u2026 [+4291 chars]",
+      "retrievedAt": "2025-12-05 19:06:19.150129",
+      "internal_id": "10f22932c0c8f4f6c151a0f4302002e138c892d63937175cfea0650876d60242",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26062,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kun Wen, Zhihong Zhou, Peipei Xu, Biao Di, Jialing Song, Cuilian Yang, Lili Zhan, Chongquan Zhao, Mei Xu, Jianpiao Cai, Shuofeng Yuan, Kelvin Kai-Wang To, Wenxi Feng, Jasper Fuk-Woo Chan, Hongwei Zhou, Yue Chen, Xixia Ding",
+      "title": "Development of monoclonal antibodies against E1 protein of Chikungunya virus",
+      "description": "Author summary A Critical Tool to Combat the Chikungunya Virus Threat: Climate change and urbanization are reshaping the geographical distribution of pathogens and their vectors. Among them, Chikungunya virus (CHIKV) is being increasingly detected in previous\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013794",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013794.g004&size=inline",
+      "publishedAt": "2025-12-04 14:00:00",
+      "content": "Abstract Chikungunya fever (CF) is a mosquito-borne viral disease caused by Chikungunya virus (CHIKV) that is being increasingly reported in previously non-endemic areas, including Guangdong, China.\u2026 [+38830 chars]",
+      "retrievedAt": "2025-12-05 19:06:18.303047",
+      "internal_id": "9a3c5d920cd3598f78778806a06bce9adc3c50255beaa866455cff9639d16453",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26048,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Haaretz",
+      "author": "Ido Efrati",
+      "title": "Nine of the 11 measles-related deaths happened within a one-kilometer radius in Jerusalem, Health Ministry says",
+      "description": "Despite a warning by the Israeli Health Ministry in May and a vaccination campaign, a significant percentage of toddlers in Haredi communities remain unvaccinated against measles, with hundreds of children hospitalized and thousands of unreported cases",
+      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/nine-of-11-measles-related-deaths-happened-within-a-one-kilometer-radius-in-jerusalem/0000019a-e915-de8e-a99b-fb9fdda70000",
+      "urlToImage": "https://img.haarets.co.il/bs/0000019a-e915-de8e-a99b-fb9fdda70000/14/75/36c6a90f4983b056d352ea9be7ec/295261.jpg?precrop=2400,1395,x0,y136&width=1200&height=630&cmsprod",
+      "publishedAt": "2025-12-04 13:34:02",
+      "content": "Nine of the 11 measles-related deaths occurred within a one-kilometer radius (about 0.6 miles) in four Jerusalem neighborhoods Mea Shearim, Beit Yisrael, the Bukharan Quarter, and Sanhedria, accordin\u2026 [+175 chars]",
+      "retrievedAt": "2025-12-05 19:06:16.162642",
+      "internal_id": "bb48c6a87e26e56a9ba0a502f5c3af4e805520aa3ef6cb588291309c204b7e92",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26055,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Observer",
+      "author": "Alexandra Tremayne-Pengelly, Alexandra Tremayne-Pengelly",
+      "title": "Gates Foundation Warns Child Deaths Rising as Global Aid Cuts Mount",
+      "description": "Child mortality is expected to rise for the first time in decades as wealthy nations cut global health funding, the Gates Foundation warns in a new report.",
+      "url": "https://observer.com/2025/12/gates-foundation-annual-report-warns-rising-child-deaths/",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/12/jh539562-jpg-325663-original.jpg?quality=80",
+      "publishedAt": "2025-12-04 13:00:22",
+      "content": "A community health volunteer visits a child who has malaria in Makalongo village, Serenje District. \u00a9Gates Archive/John Healey In the 25 years since the Gates Foundation was established by Bill Gate\u2026 [+4403 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.813216",
+      "internal_id": "71aa9ad5d1cc9dda6e0f73b76956a02208464cf92a60ebe224e961312563b698",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26059,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Malaria: Drug resistance and underfunding threaten progress towards eliminating killer disease",
+      "description": "The authoritative World Health Organization (WHO) World Malaria Report, published on Thursday, shows that resistance to antimalarial drugs now poses one of the most acute risks to control efforts across Africa and beyond. Read Full Story on UN News The post M\u2026",
+      "url": "https://news.un.org/en/story/2025/12/1166508",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2024-UNICEF-bednets.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-12-04 12:00:00",
+      "content": "The parasitic mosquito-borne disease is both preventable and curable but it remains a serious and deadly global health threat claiming hundreds of thousands of lives mostly among young children and p\u2026 [+2863 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.868501",
+      "internal_id": "d9b7ced30c5caab697af7468c771817e508d340a47bc8241b46b4f41917b6f50",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26049,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Peter Amenda",
+      "title": "Was Haustierhalter jetzt beachten sollten - Erste Katze stirbt an Gefl\u00fcgelpest",
+      "description": "Gefl\u00fcgelpest H5N1 trifft Neuruppin: Erste Katzen infiziert, Schutzma\u00dfnahmen empfohlen.",
+      "url": "https://www.bild.de/news/inland/neuruppin-katzen-sterben-an-vogelgrippe-h5n1-6931632b76c2ae9f577fb11d",
+      "urlToImage": "https://images.bild.de/6931632b76c2ae9f577fb11d/62d2a3e16c6249d07148d1c42c707ae4,eacb59ad?w=1280",
+      "publishedAt": "2025-12-04 11:33:10",
+      "content": "Haustierbesitzer in Neuruppin sind alarmiert: Der erste Fall von Vogelgrippe bei einer Katze wurde best\u00e4tigt. In der Umgebung wurden bereits zahlreiche Wildv\u00f6gel mit dem gef\u00e4hrlichen H5N1-Virus gefun\u2026 [+232 chars]",
+      "retrievedAt": "2025-12-05 19:06:16.568385",
+      "internal_id": "283f5e7cf2e0a94e6477f9cd146115d759ca90687fb76488f91a4617c568ebbe",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26050,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "\u201cCat\u00e1strofe em desenvolvimento\u201d: Altera\u00e7\u00f5es clim\u00e1ticas agravam amea\u00e7a global de doen\u00e7as infeciosas",
+      "description": "Doen\u00e7as infecionas j\u00e1 conhecidas, como a mal\u00e1ria, a dengue e a tuberculose, s\u00e3o consideradas amea\u00e7as \u00e0 sa\u00fade global t\u00e3o preocupantes quanto pat\u00f3genos novos ou emergentes. E tudo por causa das altera\u00e7\u00f5es clim\u00e1ticas.",
+      "url": "https://greensavers.sapo.pt/catastrofe-em-desenvolvimento-alteracoes-climaticas-agravam-ameaca-global-de-doencas-infeciosas/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2022/06/mosquito-g63fe8d1fb_1280-1.jpg",
+      "publishedAt": "2025-12-04 10:02:17",
+      "content": "Doen\u00e7as infecionas j\u00e1 conhecidas, como a mal\u00e1ria, a dengue e a tuberculose, s\u00e3o consideradas amea\u00e7as \u00e0 sa\u00fade global t\u00e3o preocupantes quanto pat\u00f3genos novos ou emergentes. E tudo por causa das altera\u00e7\u2026 [+3456 chars]",
+      "retrievedAt": "2025-12-05 19:06:16.903796",
+      "internal_id": "c8547009ba996967060bbae2c23a5cd525cde68ec626913aeb062c78086fd327",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26058,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Tropenkrankheit: Mehr Malariaf\u00e4lle wegen Resistenz, Krieg und Klimawandel",
+      "description": "In den vergangenen Jahren wurden im Kampf gegen die Tropenkrankheit deutliche Fortschritte erzielt. Doch biologische und menschengemachte Faktoren f\u00fchren zu neuen Erkrankungen.",
+      "url": "https://www.tagesspiegel.de/wissen/tropenkrankheit-mehr-malariafalle-wegen-resistenz-krieg-und-klimawandel-15015401.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15015400/alternates/BASE_16_9_W1400/1764838895000/malaria.jpeg",
+      "publishedAt": "2025-12-04 09:01:35",
+      "content": "Die weltweite Zahl an neuen Malaria-F\u00e4llen ist voriges Jahr auf 282 Millionen gestiegen. Im Jahr 2024 erkrankten neun Millionen mehr Menschen an der Tropenkrankheit als 2023, wie die Weltgesundheitso\u2026 [+1555 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.857986",
+      "internal_id": "c61d2145b2dcc18b8e52b2111253e4cfe0b9f5a9513282698e4c963ca5deaa4e",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26060,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS advierte de un \"ligero incremento\" de casos y muertes por malaria en 2024",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado este jueves de un incremento del 3 por ciento de los casos (282 millones) y un 2 por ciento de las muertes (610.000) por malaria en todo el mundo durante 2024, en comparaci\u00f3n con 2023, si bien \u00c1frica es e\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-ligero-incremento-casos-muertes-malaria-2024-20251204100052.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251204100052_1200.jpg",
+      "publishedAt": "2025-12-04 09:00:52",
+      "content": "MADRID, 4 Dic. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado este jueves de un incremento del 3 por ciento de los casos (282 millones) y un 2 por ciento de las muertes (6\u2026 [+6985 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.877881",
+      "internal_id": "4c4090780aac55c055f1741b4a205388d646083fa4746963b9cdbc4a55ce0e2e",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 26051,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Tropenkrankheit: Mehr Malariaf\u00e4lle wegen Resistenz, Krieg und Klimawandel",
+      "description": "In den vergangenen Jahren wurden im Kampf gegen die Tropenkrankheit deutliche Fortschritte erzielt. Doch biologische und menschengemachte Faktoren f\u00fchren zu neuen Erkrankungen.",
+      "url": "https://www.stern.de/panorama/wissen/tropenkrankheit--mehr-malariafaelle-wegen-resistenz--krieg-und-klimawandel-36927040.html",
+      "urlToImage": "https://image.stern.de/36927042/t/JB/v1/w1440/r1.7778/-/04--eqkh2azdcuv5axs2048jpeg---27d33a6a1dfd9d63.jpg",
+      "publishedAt": "2025-12-04 09:00:14",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen In den vergangenen Jahren wurden im Kampf gegen die Tropenkrankheit deutliche Fortschritte erzielt. Doch biologische und menschengemachte Faktore\u2026 [+1691 chars]",
+      "retrievedAt": "2025-12-05 19:06:17.775335",
+      "internal_id": "6ef1d03fbcbbdfe7e1d56025b8acf969039e8098b8e2239dd3dabe4daae485f0",
+      "publishedAtLabel": "Dec 4"
+    },
     {
       "id": 26041,
       "query": [
@@ -15314,78 +15656,6 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25197,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
-      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
-      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
-      "publishedAt": "2025-10-19 15:24:27",
-      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.242648",
-      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25198,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Libertaddigital.com",
-      "author": "Y\u00e9sica S\u00e1nchez",
-      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
-      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
-      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
-      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
-      "publishedAt": "2025-10-19 10:13:29",
-      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.694514",
-      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25196,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.jp",
-      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
-      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
-      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
-      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
-      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
-      "publishedAt": "2025-10-19 10:00:00",
-      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.232862",
-      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25195,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Another death due to rabies reported in Sarawak",
-      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
-      "publishedAt": "2025-10-19 07:23:00",
-      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
-      "retrievedAt": "2025-10-20 19:06:24.835493",
-      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]
