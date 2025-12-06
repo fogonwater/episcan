@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-12-05 19:06
-- **Most recent article:** 2025-12-04 18:39:42
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-12-06 07:07
+- **Most recent article:** 2025-12-05 05:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-43 | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 23 | 35 | 21 | 59 | 27 | 18 | 9 | 192 |
+| measles | 23 | 35 | 21 | 59 | 27 | 18 | 10 | 193 |
 | h5n1 | 32 | 34 | 32 | 31 | 21 | 29 | 10 | 189 |
-| dengue | 13 | 33 | 33 | 22 | 13 | 35 | 14 | 163 |
-| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 19 | 121 |
-| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 11 | 51 |
+| dengue | 14 | 33 | 33 | 22 | 13 | 35 | 14 | 164 |
+| malaria | 17 | 17 | 19 | 20 | 12 | 17 | 21 | 123 |
+| chikungunya | 11 | 9 | 13 | 4 | 2 | 1 | 13 | 53 |
 | mpox | 8 | 20 | 5 | 6 | 3 | 5 | 4 | 51 |
+| rabies | 3 | 1 | 4 | 4 | 4 | 8 | 5 | 29 |
 | zika | 3 | 5 | 9 | 2 | 1 | 2 | 5 | 27 |
-| rabies | 2 | 1 | 4 | 4 | 4 | 8 | 4 | 27 |
 | meningitis | 1 | 5 | 0 | 8 | 3 | 4 | 4 | 25 |
 | pertussis | 1 | 1 | 2 | 2 | 3 | 6 | 5 | 20 |
+| hpai | 4 | 2 | 1 | 5 | 2 | 1 | 2 | 17 |
 | leptospirosis | 0 | 1 | 1 | 2 | 1 | 7 | 3 | 15 |
-| hpai | 2 | 2 | 1 | 5 | 2 | 1 | 2 | 15 |
 | yersinia | 1 | 1 | 4 | 0 | 2 | 0 | 3 | 11 |
 | typhoid | 1 | 1 | 1 | 2 | 2 | 1 | 0 | 8 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
@@ -54,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Medieval volcanoes may have ignited the Black Death](http://www.popsci.com/science/medieval-volcano-plague/) (Popular Science)
 
 ## 25-49 (rabies)
+
+- [U.S. Man Dies of Rabies after Receiving Infected Kidney Transplant](https://www.scientificamerican.com/article/u-s-man-dies-of-rabies-after-receiving-infected-kidney-transplant/) (Scientific American)
 
 - [Human-to-Human Rabies Transmission via Solid Organ Transplantation from a Donor with Undiagnosed Rabies — United States, October 2024–February 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7439a1.htm) (Cdc.gov)
 
@@ -97,6 +99,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (measles)
 
+- [Measles cases rise to 30 as Auckland concert named location of interest](https://www.nzherald.co.nz/nz/measles-cases-rise-to-30-as-auckland-concert-named-location-of-interest/6OLJSUKHENCXNMXVQWB42FGK2Q/) (New Zealand Herald)
+
 - [Nine of the 11 measles-related deaths happened within a one-kilometer radius in Jerusalem, Health Ministry says](https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/nine-of-11-measles-related-deaths-happened-within-a-one-kilometer-radius-in-jerusalem/0000019a-e915-de8e-a99b-fb9fdda70000) (Haaretz)
 
 - [Dunedin ED location of interest in measles outbreak](https://www.odt.co.nz/news/dunedin/health/dunedin-ed-location-interest-measles-outbreak) (Otago Daily Times)
@@ -116,6 +120,10 @@ Source: [News API](https://newsapi.org/)
 - [Kwara, 20 other states to repeat polio vaccination — WHO](https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/) (The Punch)
 
 ## 25-49 (malaria)
+
+- [200,000 additional children under 5 will die this year — thanks to aid cuts](https://www.vox.com/future-perfect/471321/child-mortality-aid-cuts-gates-statistics) (Vox)
+
+- [Las apuestas de Chivas en la delantera que han llegado con la 'pólvora mojada'](https://www.milenio.com/futbol/liga-mx/delanteros-de-chivas-que-no-han-funcionado-en-los-ultimos-anos) (Milenio)
 
 - [minte 1.0.2](https://pypi.org/project/minte/1.0.2/) (Pypi.org)
 
@@ -222,6 +230,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
 
 ## 25-49 (chikungunya)
+
+- [Level 2 - Chikungunya in Sri Lanka](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-sri-lanka) (Cdc.gov)
+
+- [Level 2 - Chikungunya in Bangladesh](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-bangladesh) (Cdc.gov)
 
 - [Development of monoclonal antibodies against E1 protein of Chikungunya virus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013794) (Plos.org)
 
@@ -1819,6 +1831,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Inmates treated for rabies after bat encounters at Salisbury prison](https://www.wsoctv.com/news/local/inmates-treated-rabies-after-bat-encounters-salisbury-prison/KFBHWYPAZNHVZHLZTAWULPS474/) (WSOC Charlotte)
 
+- [Another death due to rabies reported in Sarawak](https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak) (The Star Online)
+
 ## 25-43 (pertussis)
 
 - [Com cobertura vacinal insuficiente, casos de coqueluche crescem mais de 13 vezes no Brasil](https://veja.abril.com.br/saude/com-cobertura-vacinal-insuficiente-casos-de-coqueluche-crescem-mais-de-13-vezes-no-brasil/) (Abril.com.br)
@@ -1935,6 +1949,10 @@ Source: [News API](https://newsapi.org/)
 
 - [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた - ライブドアニュース](https://news.livedoor.com/article/detail/29811033/) (Livedoor.com)
 
+- [Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS](https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402) (CBC News)
+
+- [いよいよ「ノートPCだけでChatGPTが動く」時代がやってきた](https://www.gizmodo.jp/2025/10/hp-aipc.html) (Gizmodo.jp)
+
 ## 25-43 (h5n1)
 
 - [La mortalidad de ‘grullas comunes’ podría estar relacionada con la ‘gripe aviar’ (subtipo H5N1)](https://www.meneame.net/m/MAmbiente/mortalidad-grullas-comunes-podria-estar-relacionada-gripe-aviar) (Meneame.net)
@@ -2028,6 +2046,8 @@ Source: [News API](https://newsapi.org/)
 - [Sospetto caso Dengue a Pontedera, al via disinfestazione](https://www.ansa.it/toscana/notizie/2025/10/22/sospetto-caso-dengue-a-pontedera-al-via-disinfestazione_8cfd526a-b00e-4200-8693-76a03bb61660.html) (ANSA.it)
 
 - [Panorama económico de Cuba "dificulta grandemente" el manejo de enfermedades como el dengue, advierte médico](https://noticiaslatam.lat/20251022/panorama-economico-de-cuba-dificulta-grandemente-el-manejo-de-enfermedades-como-el-dengue-advierte-1167786660.html) (Noticiaslatam.lat)
+
+- [Hipocresía comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue](https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/) (Libertaddigital.com)
 
 ## 25-43 (chikungunya)
 
