@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-12-06 07:07",
-  "count_articles_total": 877,
-  "count_articles_new": 6,
+  "last_updated": "2025-12-06 19:05",
+  "count_articles_total": 888,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 26075,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Pavla Mat\u011bj\u016f",
+      "title": "Od katastrofy kv\u016fli AIDS a ne\u0161tovic\u00edm n\u00e1s d\u011blil rok, p\u0159ibli\u017euje epidemiolog Ma\u010far",
+      "description": "Za svou kari\u00e9ru proo\u010dkuj\u00ed l\u00e9ka\u0159i tis\u00edce vakc\u00edn, ale se z\u00e1va\u017en\u00fdmi reakcemi se v\u011bt\u0161ina z nich v\u016fbec nesetk\u00e1. Odborn\u00edci b\u00fdvaj\u00ed obvykle \u201esb\u011bra\u010di\u201c vlastn\u00edch o\u010dkov\u00e1n\u00ed, proto\u017ee dob\u0159e v\u011bd\u00ed, \u017ee oslaben\u00fd patogen \u2013 a\u0165 u\u017e \u017eiv\u00fd, \u010di nikoliv \u2013 je pro jejich imunitn\u00ed syst\u00e9m \u2026",
+      "url": "https://www.idnes.cz/onadnes/zdravi/epidemiolog-rastislav-madar-covid-ptaci-chripka-nemoc.A251114_876004_xman-adrenalin_jans",
+      "urlToImage": "https://1gr.cz/fotky/idnes/25/121/cl6/DAV609f10c7db_3820200116_madar_jz_9321.jpg",
+      "publishedAt": "2025-12-05 19:00:00",
+      "content": "Nejv\u00edc m te znepokojuje nebezpen\u00fd vir pta\u00ed chipky H5N1, kter\u00fd se roz\u00edil po \u00fazem\u00ed USA, ale jejich instituce v posledn\u00edch ms\u00edc\u00edch nesmj\u00ed sd\u00edlet vechna relevantn\u00ed data, \u00edk\u00e1. \u00edk\u00e1te, e jste s v\u00fdjimkou pa\u2026 [+901 chars]",
+      "retrievedAt": "2025-12-06 19:05:44.437103",
+      "internal_id": "dc1263f18b233e5bb7d3d7240b4ddcda481c384e0f4f7db615885696f7e67411",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26080,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Drew Gorman",
+      "title": "What in the World?",
+      "description": "Test yourself on the week of Nov. 29: A disease outbreak ends in Congo, Trump pardons a former Honduran president, and the latest from Israel-Palestine.",
+      "url": "http://foreignpolicy.com/2025/12/05/news-quiz-congo-outbreak-trump-pardon-honduras-president-israel-gaza-cease-fire/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/12/Japan-Princess-Aiko-GettyImages-2191509748.jpg?w=1000",
+      "publishedAt": "2025-12-05 17:36:57",
+      "content": "1. The Democratic Republic of the Congo on Monday announced the end of an outbreak of which disease, after no new confirmed cases had been reported in more than 40 days? Cholera Ebola Malaria Tub\u2026 [+4028 chars]",
+      "retrievedAt": "2025-12-06 19:05:45.404402",
+      "internal_id": "a7c772e0586e8c09fc36cc377265cb91f4f701b86e322257836438c68cebc69b",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26078,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Daniela Torres-Hern\u00e1ndez, Nathan D. Grubaugh, M\u00f3nica A. Murillo-Ortiz, Isabel C. Hurtado, Verity Hill, Mallery I. Breban, Mara G\u00f3mez-Zambrano, Pio L\u00f3pez, Erika Cantor, Diana M. D\u00e1valos, Eduardo L\u00f3pez-Medina",
+      "title": "Epidemiology and severity risk factors of dengue virus infection during the 2023-2024 outbreak in Colombia",
+      "description": "Author summary Dengue remains a serious public health concern, especially during major outbreaks like the 2023\u20132024 epidemic in Colombia. This study focuses on patients with \u201cserious manifestations of dengue\u201d, a commonly seen yet insufficiently studied subgro\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013115",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013115.g003&size=inline",
+      "publishedAt": "2025-12-05 14:00:00",
+      "content": "Abstract Introduction During 20232024, the Americas faced its largest dengue epidemic to date. We used a detailed dengue classification to identify patients with serious manifestations of dengue an\u2026 [+39878 chars]",
+      "retrievedAt": "2025-12-06 19:05:44.694656",
+      "internal_id": "49c56a9eff63d7fd58b621140a0c3a497502da259f1e6fc480e9587a328c3f52",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26081,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Madeline R. Steck, Cec\u00edlia A. Banho, Vsevolod L. Popov, Haiping Hao, Kathryn A. Hanley, Mauricio L. Nogueira, Nikos Vasilakis",
+      "title": "Hiding in plain sight: Genomic and phenotypic characterization of mosquito-borne Bussuquara virus",
+      "description": "Author summary After decades of being considered negligible pathogens, multiple mosquito-borne viruses, such as Zika and Mayaro, are now recognized as significant human health threats across the neotropics. Bussuquara virus (BSQV) is a mosquito-borne orthofla\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013774",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013774.g006&size=inline",
+      "publishedAt": "2025-12-05 14:00:00",
+      "content": "Abstract Bussuquara virus (BSQV), an orthoflavivirus discovered in Brazil in 1956, has been detected throughout the Americas in diverse mosquito and vertebrate species, including humans. Critical ga\u2026 [+47584 chars]",
+      "retrievedAt": "2025-12-06 19:05:45.609197",
+      "internal_id": "2469d7a129d2c7f14ce6c89d912d83aaa7a51b10cf589ff39c7ca686e1781dd2",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26083,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Victor M. Hern\u00e1ndez, Yitzel Gama-Mart\u00ednez, Lorenzo Segovia, Ismael Hern\u00e1ndez-Lucas",
+      "title": "Functional role of 18 LysR-Type transcriptional regulators of Salmonella enterica serovar Typhi",
+      "description": "Salmonella enterica serovar Typhi (S. Typhi) is the etiological agent of typhoid fever in humans. The genomic organization of this bacterium shows the presence of 41 LysR-Type transcriptional regulators (LTTRs). Remarkably, 23 of these LTTRs have orthologous \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338130",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338130.g010&size=inline",
+      "publishedAt": "2025-12-05 14:00:00",
+      "content": "LTTR identification, domain organization, structural determination and functionality in S. Typhi The BioCyc database [33] shows the presence of 41 LTTRs in the S. Typhi CT18 genome [5]. To corrobora\u2026 [+16377 chars]",
+      "retrievedAt": "2025-12-06 19:05:46.332920",
+      "internal_id": "2bff606d8b378c4a73c9720088feffc37808173bf38bc1d481cef8ff8792e289",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26077,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Jorge Salazar",
+      "title": "Ciudad Obreg\u00f3n registra descenso de casos de dengue; Lamarque pide reforzar limpieza en los hogares",
+      "description": "Javier Lamarque inform\u00f3 que el brote de dengue entra en meseta con tendencia a la baja y exhort\u00f3 a la poblaci\u00f3n a eliminar criaderos de mosquitos",
+      "url": "https://www.tribuna.com.mx/sonora/2025/12/5/ciudad-obregon-registra-descenso-de-casos-de-dengue-lamarque-pide-reforzar-limpieza-en-los-hogares-421608.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/12/5/f1280x720-480966_612641_5050.jpg",
+      "publishedAt": "2025-12-05 12:00:00",
+      "content": "Ciudad Obreg\u00f3n, Sonora.- El alcalde Javier Lamarque Cano inform\u00f3 que, de acuerdo a la informaci\u00f3n que le han proporcionado las autoridades en materia de salud, en el municipio se presenta una tendenc\u2026 [+1460 chars]",
+      "retrievedAt": "2025-12-06 19:05:44.685244",
+      "internal_id": "d607d62a1be5538c63e86f841495b66a24a0da7557248a6f6e90456bebda7f1c",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26079,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Minister seeks EU partnership to end HIV, TB, malaria",
+      "description": "Nigeria\u2019s Health Minister calls for a stronger EU-Africa global health partnership to fight HIV, TB, and malaria, emphasizing shared responsibility and inv Read More: https://punchng.com/minister-seeks-eu-partnership-to-end-hiv-tb-malaria/",
+      "url": "https://punchng.com/minister-seeks-eu-partnership-to-end-hiv-tb-malaria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/11/26021942/3-1200x630.jpg",
+      "publishedAt": "2025-12-05 11:36:22",
+      "content": "Nigerias Coordinating Minister of Health and Social Welfare, Prof. Muhammad Ali Pate, has urged Europe to intensify its long-standing partnership with Africa to combat HIV/AIDS, Tuberculosis, Malaria\u2026 [+1604 chars]",
+      "retrievedAt": "2025-12-06 19:05:45.333842",
+      "internal_id": "b527467a8cf64eb1e7f1f92d0150b63900ceca6f6e5f4e50c1b05c15cce1b91a",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26074,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gefl\u00fcgelpest: Nach Keulung: Loeffler-Institut best\u00e4tigt Vogelgrippe-Fall",
+      "description": "Das Friedrich-Loeffler-Institut best\u00e4tigt: Im Rhein-Pfalz-Kreis wurde das H5N1-Virus bei einem Gefl\u00fcgelbetrieb nachgewiesen. Bereits am Donnerstag waren Enten und G\u00e4nse gekeult worden.",
+      "url": "https://www.stern.de/gesellschaft/regional/rheinland-pfalz-saarland/gefluegelpest--nach-keulung--loeffler-institut-bestaetigt-vogelgrippe-fall-36932138.html",
+      "urlToImage": "https://image.stern.de/36932140/t/E3/v1/w1440/r1.7778/-/05--smxas3wyghv4axs2048jpeg---b476e20289897ca7.jpg",
+      "publishedAt": "2025-12-05 11:23:48",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Das Friedrich-Loeffler-Institut best\u00e4tigt: Im Rhein-Pfalz-Kreis wurde das H5N1-Virus bei einem Gefl\u00fcgelbetrieb nachgewiesen. Bereits am Donnersta\u2026 [+1036 chars]",
+      "retrievedAt": "2025-12-06 19:05:44.427418",
+      "internal_id": "ed65b78dcf7b90a9d83deb6f5b6b2c4d3a5e27d5b96dece179e567a70f3623ef",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26072,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Resinta Sulistiyandari",
+      "title": "Jakarta bans dog, cat meat trade to curb rabies",
+      "description": "The Governor of Jakarta, Pramono Anung, has directed city agencies to strictly enforce a new regulation that prohibits the trade of rabies-transtransmitting ...",
+      "url": "https://en.antaranews.com/news/395260/jakarta-bans-dog-cat-meat-trade-to-curb-rabies",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/29/penanganan-anjing-liar-desa-pujungan-bali-250925-nhw-5.jpg",
+      "publishedAt": "2025-12-05 11:06:36",
+      "content": "Jakarta (ANTARA) - The Governor of Jakarta, Pramono Anung, has directed city agencies to strictly enforce a new regulation that prohibits the trade of rabies-transtransmitting animals (HPR) for consu\u2026 [+1749 chars]",
+      "retrievedAt": "2025-12-06 19:05:43.614143",
+      "internal_id": "ed35dfef2bd094a05b73b7abbf87e71daca5da40f5cb9cfb510529cbc2d27cc4",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26073,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "While Scientists Race To Study Spread of Measles in US, Kennedy Unravels Hard-Won Gains",
+      "description": "Scientists are conducting genetic analyses to see if the measles outbreak that started in Texas is still spreading from state to state. It\u2019s a contentious question, because the findings may determine whether America loses its measles-free status.",
+      "url": "https://kffhealthnews.org/news/article/measles-virus-outbreak-spread-genomic-analysis-elimination-status-cdc-rfk-us/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/12/Measles_Comeback_01.jpg",
+      "publishedAt": "2025-12-05 10:00:00",
+      "content": "Amy MaxmenThe United States is poised to lose its measles-free status next year. If that happens, the country will enter an era in which outbreaks are common again. More children would be hospitaliz\u2026 [+10050 chars]",
+      "retrievedAt": "2025-12-06 19:05:44.090830",
+      "internal_id": "e34cf3987ac4eee0e39ae4b8d283c14eca99a103277bdc5fceda0ab2add2c21a",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26082,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": null,
+      "title": "Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen",
+      "description": "Een uitbraak van het chikungunyavirus heeft in Cuba al 33 mensen onder wie 21 kinderen, het leven gekost. Dat melden plaatselijke autoriteiten. Het virus wordt overgebracht door muggen die overdag bijten.",
+      "url": "https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html",
+      "urlToImage": "https://prod-img.telegraaf.nl/public/incoming/l3fcsg-gettyimages-1749104801.jpg/alternates/SIXTEEN_NINE_1200/GettyImages-1749104801.jpg",
+      "publishedAt": "2025-12-05 09:32:07",
+      "content": "De meeste sterfgevallen werden toegeschreven aan chikungunya, zo meldt het Amerikaanse CBS. De symptomen zijn koorts en gewrichtspijn die hevig zijn, maar eigenlijk zelden dodelijk. De griepachtige d\u2026 [+984 chars]",
+      "retrievedAt": "2025-12-06 19:05:46.049114",
+      "internal_id": "bc540cf78e1ee8a19e52171618fa04bb020235b3a1bf719ec7d22985e1687d1a",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26086,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Rodina-history.ru",
+      "author": null,
+      "title": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u043d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0439 \u0447\u0443\u043c\u044b \u0438 \u0438\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u0439 \u0432\u0443\u043b\u043a\u0430\u043d\u043e\u0432",
+      "description": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u041a\u0435\u043c\u0431\u0440\u0438\u0434\u0436\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438 \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0415\u0432\u0440\u043e\u043f\u044b \u0438\u043c\u0435\u043d\u0438 \u041b\u0435\u0439\u0431\u043d\u0438\u0446\u0430 \u0432 \u041b\u0435\u0439\u043f\u0446\u0438\u0433\u0435 \u043f\u0440\u043e\u0432\u0435\u043b\u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0441\u0434\u0435\u043b\u0430\u043b\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435: \u0438\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u044f \u0432\u0443\u043b\u043a\u0430\u043d\u043e\u0432 1345 \u0433\u043e\u0434\u0430 \u043f\u0440\u0438\u0432\u0435\u043b\u0438 \u043a \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u043c\u0443 \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044e \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u044b \u0432 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u0435. \u042d\u0442\u043e \u043f\u043e\u0432\u043b\u0435\u2026",
+      "url": "https://rodina-history.ru/2025/12/05/ustanovlena-neozhidannaia-sviaz-epidemij-chumy-i-izverzhenij-vulkanov.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/12/05/photo_2025-12-05_11-58-53_22b.jpg",
+      "publishedAt": "2025-12-05 09:16:42",
+      "content": ", \" \". . 1345 - , , , . , - . , . , , , , Yersinia pestis. , , , . , . , . , , . , 1345 , , , \" \". , \" \" 1345, 1346 1347 . - , . , . \" \" . 1347 1353 . 60%.",
+      "retrievedAt": "2025-12-06 19:05:46.625732",
+      "internal_id": "946f0e2ec2a10cc755091689a75c2aada0cd5f1ab21c136f9b0174221bc2a419",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26076,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Hora da virada? O impacto da aprova\u00e7\u00e3o de vacina nacional contra a dengue",
+      "description": "Numa luta em clima de aquecimento global, qualquer refor\u00e7o ser\u00e1 mais do que bem-vindo",
+      "url": "https://veja.abril.com.br/saude/hora-da-virada-o-impacto-da-aprovacao-de-vacina-nacional-contra-a-dengue/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/12/vacina_gripe_09.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-12-05 09:00:48",
+      "content": "Prorrogamos a Black: VEJA com pre\u00e7o absurdoEM BREVE NO SUS -Imunizante do Butantan: doses ser\u00e3o aplicadas na faixa dos 12 aos 59 anos a partir do pr\u00f3ximo ano (Paulo Pinto/Ag\u00eancia Brasil) Continua ap\u2026 [+4630 chars]",
+      "retrievedAt": "2025-12-06 19:05:44.650741",
+      "internal_id": "a17b68f24b81f19bd9975b3ea63f22ee4bb03463892819836124993ad057bb9a",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26084,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Morgane Gillard, R\u00e9dactrice",
+      "title": "Peste noire : l\u2019incroyable cha\u00eene d\u2019\u00e9v\u00e9nements derri\u00e8re la pand\u00e9mie historique",
+      "description": "Au milieu du XIV\u1d49 si\u00e8cle, une ombre mortelle s\u2019abat sur l\u2019Europe : la peste noire. Entre 1347 et 1353, des dizaines de millions de vies disparaissent, emport\u00e9es par une bact\u00e9rie encore aujourd\u2019hui bien r\u00e9elle, Yersinia pestis. Mais comment ce fl\u00e9au a-t-il sur\u2026",
+      "url": "https://www.futura-sciences.com/sciences/actualites/homme-peste-noire-incroyable-chaine-evenements-derriere-pandemie-historique-128223/",
+      "urlToImage": "https://cdn8.futura-sciences.com/a1920/images/port-bateau-moyen-age.jpeg",
+      "publishedAt": "2025-12-05 08:07:36",
+      "content": "La peste noire est certainement la plus vaste et la plus s\u00e9v\u00e8re pand\u00e9mie jamais enregistr\u00e9e dans l'histoire humaine. Elle a en effet ravag\u00e9 l'Eurasie, causant la mort de 25 \u00e0 50 millions de personnes\u2026 [+4828 chars]",
+      "retrievedAt": "2025-12-06 19:05:46.606262",
+      "internal_id": "92aebfebff189acd1139eb3170c42d7d3d1495da5687f5749359ec88b0be1b63",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 26085,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcworldservice/",
+      "title": "\u706b\u5c71\u7206\u767c\u6216\u662f\u5f15\u767c\u6b50\u6d32\u81f4\u547d\u9ed1\u6b7b\u75c5\u761f\u75ab\u7684\u539f\u56e0",
+      "description": "\u706b\u5c71\u7206\u767c\u6216\u5f15\u767c\u9023\u9396\u53cd\u61c9\uff0c\u5c0e\u81f4\u6b50\u6d32\u6700\u81f4\u547d\u7684\u5927\u761f\u75ab\u3002",
+      "url": "https://www.bbc.com/zhongwen/articles/cly0mz5y64yo/trad",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/7955/live/fe2739d0-d139-11f0-a892-01d657345866.jpg",
+      "publishedAt": "2025-12-05 07:12:09",
+      "content": "Getty Article InformationAuthor, (Helen Briggs)Role, 1345 Ulf B\u00fcntgen Credit: Ulf B\u00fcntgen 134513461347 13481349 Yersinia pestis \u2026 [+75 chars]",
+      "retrievedAt": "2025-12-06 19:05:46.616405",
+      "internal_id": "db2b03e1d40464c8db8e7d3c340e225fbeecb0ccf97829fe317b6a61955aeadd",
+      "publishedAtLabel": "Dec 5"
+    },
     {
       "id": 26070,
       "query": [
@@ -15764,78 +16034,6 @@
       "content": "ROCHESTER Olmsted County Public Health Services has confirmed one case of measles in a child under 5, per a Friday, Oct. 17, press release. The child is symptomatic, not vaccinated against measles, \u2026 [+1749 chars]",
       "retrievedAt": "2025-10-21 07:08:00.496316",
       "internal_id": "16d61784840df10aab1a787c8d9fc692340d87f5724258162c2689af598d79aa",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25197,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Calgary's Butterfield Acres Petting Farm closed due to cases of avian influenza: AHS",
-      "description": "Alberta Health Services has ordered Butterfield Acres Petting Farm, in northwest Calgary, to close after nine cases of avian influenza were found.",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-s-butterfield-acres-petting-farm-closed-due-to-cases-of-avian-influenza-ahs-9.6944402",
-      "urlToImage": "https://i.cbc.ca/ais/fc5c36b1-2f7b-4994-b643-cacaa0f865a6,1760886097032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620",
-      "publishedAt": "2025-10-19 15:24:27",
-      "content": "Alberta Health Services has ordered Butterfield Acres Petting Farm to close after nine cases of avian influenza were found. The cases of Highly Pathogenic Avian Influenza (HPAI) were detected in po\u2026 [+1355 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.242648",
-      "internal_id": "4578d53f6268dbdebb8379a60b4dc8daff794865c0599a0e6bf21bf8a29d90e4",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25198,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Libertaddigital.com",
-      "author": "Y\u00e9sica S\u00e1nchez",
-      "title": "Hipocres\u00eda comunista: Cuba hace negocio con los repelentes de mosquitos durante la crisis sanitaria por dengue",
-      "description": "Mientras los cubanos mueren por la falta de higiene, vacunas y medicinas, el r\u00e9gimen aprovecha para hacer caja con los productos antimosquitos.",
-      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2025-10-19/hipocresia-comunista-cuba-hace-negocio-con-los-repelentes-de-mosquitos-durante-la-crisis-sanitaria-por-dengue-7309269/",
-      "urlToImage": "https://s1.staticld.com/2025/10/17/1000/500/499x389/x-ld/repelentes-anunciados-cuba-171025.jpg",
-      "publishedAt": "2025-10-19 10:13:29",
-      "content": "\"La gente muri\u00e9ndose por enfermedades transmitidas por mosquitos, que son producto de la suciedad, la falta de agua y de medicinas, provocada por un Estado que no cumple con sus responsabilidades b\u00e1s\u2026 [+2789 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.694514",
-      "internal_id": "dc58726aea4a7e27fd348017a76d0d712cbe2bd39054dc3f58822170c5c049c3",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25196,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.jp",
-      "author": "\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061",
-      "title": "\u3044\u3088\u3044\u3088\u300c\u30ce\u30fc\u30c8PC\u3060\u3051\u3067ChatGPT\u304c\u52d5\u304f\u300d\u6642\u4ee3\u304c\u3084\u3063\u3066\u304d\u305f",
-      "description": "Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061OpenAI\u304c\u3001\u30ed\u30fc\u30ab\u30eb\u3067\u52d5\u304fAI\u3001gpt-oss\u30928\u6708\u306b\u767a\u8868\u3057\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u696d\u754c\u304c\u30ed\u30fc\u30ab\u30ebAI\uff08\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff09\u3078\u8235\u3092\u5207\u3063\u305f\u6c7a\u5b9a\u7684\u306a\u30cb\u30e5\u30fc\u30b9\u3060\u3063\u305f\u3068\u601d\u3044\u307e\u3059\u65e5\u672cHP\u306e\u5ca1\u6238\u4f38\u6a39\u793e\u9577\u306f\u3001\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\u6642\u4ee3\u306e\u5e55\u958b\u3051\u3092\u3053\u3046\u5ba3\u8a00\u3057\u307e\u3059\u3002Photo:\u5c0f\u91ce\u5bfa\u3057\u3093\u3044\u3061\u5ca1\u6238\u4f38\u6a39\u6c0f\u3044\u307e\u3084\u4ed5\u4e8b\u3067\u3082\u65e5\u5e38\u3067\u3082\u3001ChatGPT\u3084Gemini\u306e\u3088\u3046\u306aAI\u3092\u4f7f\u3046\u306e\u304c\u5f53\u305f\u308a\u524d\u306b\u306a\u3063\u3066\u304d\u305f\u3068\u3044\u3046\u4eba\u3082",
-      "url": "https://www.gizmodo.jp/2025/10/hp-aipc.html",
-      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/10/13/IMG_5424.JPG?w=1280&h=630&f=jpg",
-      "publishedAt": "2025-10-19 10:00:00",
-      "content": "OpenAIAIgpt-oss8AIAI HPAI Photo: ChatGPTGeminiAI AIAIAI 2025103HPHP Future of Work AI Conference 2025AI AIAI PC AI AI ChatGPT \"\"OpenAIAIAI OpenAIAPI Photo: Global Head of Future of Wor\u2026 [+437 chars]",
-      "retrievedAt": "2025-10-20 19:06:25.232862",
-      "internal_id": "f49bcdc2b181604b5590ce2d10f0151ac67db86f14c3e5f93de3b08644cc8d59",
-      "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 25195,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Another death due to rabies reported in Sarawak",
-      "description": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/10/19/another-death-due-to-rabies-reported-in-sarawak",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/10/19/3578140.jpg",
-      "publishedAt": "2025-10-19 07:23:00",
-      "content": "KUCHING: A new death due to rabies was reported at Bintulu Hospital on Oct 12 involving a local man. Sarawak State Health Department in a statement on Sunday (Oct 19) announced that with the new cas\u2026 [+1309 chars]",
-      "retrievedAt": "2025-10-20 19:06:24.835493",
-      "internal_id": "ae91c77defa2f0355db5d08620cc22ec813a2fb0e0994f19509bcafa03a36bb4",
       "publishedAtLabel": "Oct 19"
     }
   ]
