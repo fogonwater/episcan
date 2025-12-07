@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-12-07 07:07
-- **Most recent article:** 2025-12-06 01:58:20
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-12-07 19:05
+- **Most recent article:** 2025-12-06 18:45:54
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 35 | 21 | 59 | 27 | 18 | 14 | 174 |
-| h5n1 | 34 | 32 | 31 | 21 | 29 | 12 | 159 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 18 | 153 |
-| malaria | 16 | 19 | 20 | 12 | 17 | 24 | 108 |
+| measles | 34 | 21 | 59 | 27 | 18 | 15 | 174 |
+| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 158 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 154 |
+| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 109 |
 | mpox | 20 | 5 | 6 | 3 | 5 | 4 | 43 |
-| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 42 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 6 | 27 |
+| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 39 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 28 |
 | zika | 4 | 9 | 2 | 1 | 2 | 6 | 24 |
 | meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 24 |
 | pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 19 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 15 |
 | yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 13 |
-| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 13 |
+| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 12 |
 | typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 8 |
 | shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -66,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 - [Functional role of 18 LysR-Type transcriptional regulators of Salmonella enterica serovar Typhi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338130) (Plos.org)
 
 ## 25-49 (rabies)
+
+- [Marion County health officials issue rabies alert after infected coyote captured - NewsBreak](https://www.newsbreak.com/share/4383457599290-marion-county-health-officials-issue-rabies-alert-after-infected-coyote-captured?_f=app_share&amp;pd=056jQFk6&amp;lang=en_US&amp;send_time=1765034804&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.18.0.43%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2) (Newsbreak.com)
 
 - [Jakarta bans dog, cat meat trade to curb rabies](https://en.antaranews.com/news/395260/jakarta-bans-dog-cat-meat-trade-to-curb-rabies) (Antaranews.com)
 
@@ -113,6 +115,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (measles)
 
+- [WC Health pins falling immunisation rates among kids on disease outbreaks](https://www.ewn.co.za/2025/12/06/wc-health-pins-falling-immunisation-rates-among-kids-on-disease-outbreaks) (EWN)
+
 - [Measles in Colorado: New case raises concerns of silent spread](http://coloradosun.com/2025/12/05/measles-colorado-cortez-montezuma-county/) (The Colorado Sun)
 
 - [Possible measles exposure at ice cream shop in Cortez in southwestern Colorado](https://www.denverpost.com/2025/12/05/colorado-measles-cortez-montezuma-county/) (The Denver Post)
@@ -142,6 +146,10 @@ Source: [News API](https://newsapi.org/)
 - [Kwara, 20 other states to repeat polio vaccination — WHO](https://punchng.com/kwara-20-other-states-to-repeat-polio-vaccination-who/) (The Punch)
 
 ## 25-49 (malaria)
+
+- [Health workers concerned about low uptake of malaria vaccine - NTV Uganda](https://ntv.co.ug/news/national-news/health-workers-concerned-about-low-uptake-of-malaria-vaccine) (Ntv.co.ug)
+
+- [Nigeria pushes continental efforts to reduce cancer deaths](https://punchng.com/nigeria-pushes-continental-efforts-to-reduce-cancer-deaths/) (The Punch)
 
 - [What in the World?](http://foreignpolicy.com/2025/12/05/news-quiz-congo-outbreak-trump-pardon-honduras-president-israel-gaza-cease-fire/) (Foreign Policy)
 
@@ -207,6 +215,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-49 (h5n1)
 
+- [L’aviaria “raddoppia”: dopo il ceppo H5N1 ora anche l’H5N5 contagia gli umani: primo decesso negli Usa. Epidemie “senza precedenti” nei volatili](https://www.ilfattoquotidiano.it/2025/12/06/influenza-aviaria-h5n5-primo-decesso-usa-news/8219126/) (Ilfattoquotidiano.it)
+
 - [Od katastrofy kvůli AIDS a neštovicím nás dělil rok, přibližuje epidemiolog Maďar](https://www.idnes.cz/onadnes/zdravi/epidemiolog-rastislav-madar-covid-ptaci-chripka-nemoc.A251114_876004_xman-adrenalin_jans) (Idnes.cz)
 
 - [Geflügelpest: Nach Keulung: Loeffler-Institut bestätigt Vogelgrippe-Fall](https://www.stern.de/gesellschaft/regional/rheinland-pfalz-saarland/gefluegelpest--nach-keulung--loeffler-institut-bestaetigt-vogelgrippe-fall-36932138.html) (STERN.de)
@@ -232,6 +242,8 @@ Source: [News API](https://newsapi.org/)
 - [Santé. « Le risque de pandémie serait très élevé » : l’Institut Pasteur surveille de près la grippe aviaire](https://www.ledauphine.com/economie/2025/11/30/a-l-institut-pasteur-le-virus-de-la-grippe-aviaire-sous-haute-surveillance) (Le Dauphiné Libéré)
 
 ## 25-49 (dengue)
+
+- [O papel estratégico da nova vacina Butantan-DV, primeira do mundo em dose única contra a dengue](https://super.abril.com.br/saude/o-papel-estrategico-da-nova-vacina-butantan-dv-primeira-do-mundo-em-dose-unica-contra-a-dengue/) (Abril.com.br)
 
 - [Company pauses plan to release controversial genetically modified mosquitoes](https://www.abc.net.au/news/2025-12-06/controversial-gm-friendly-mosquito-release-paused-csiro-oxitec/106108190) (ABC News (AU))
 
@@ -1643,8 +1655,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
-- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
-
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -1677,8 +1687,6 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
-- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
-
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -1686,8 +1694,6 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
-
-- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -1754,10 +1760,6 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
-
-- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
-
-- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -1836,9 +1838,3 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
-
-- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
-
-- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)

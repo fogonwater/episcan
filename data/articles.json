@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-12-07 07:07",
-  "count_articles_total": 780,
-  "count_articles_new": 5,
+  "last_updated": "2025-12-07 19:05",
+  "count_articles_total": 778,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 26097,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.co.ug",
+      "author": "Joseph Tumwesigye",
+      "title": "Health workers concerned about low uptake of malaria vaccine - NTV Uganda",
+      "description": "The Ministry of Health is concerned about the tendency of people who receive the first malaria jab but fail to return for the remaining three doses. The malaria vaccine was introduced in April this year to eradicate malaria in Uganda. Dr Myers Lugemwa, head o\u2026",
+      "url": "https://ntv.co.ug/news/national-news/health-workers-concerned-about-low-uptake-of-malaria-vaccine",
+      "urlToImage": "https://ntv.co.ug/wp-content/uploads/2025/12/Screenshot-2025-12-06-at-9.44.55-PM.png",
+      "publishedAt": "2025-12-06 18:45:54",
+      "content": "NTV Uganda is the nations leading TV station, delivering trusted news, engaging entertainment, and impactful storytelling. As part of the Nation Media Group, we are committed to informing, educating,\u2026 [+65 chars]",
+      "retrievedAt": "2025-12-07 19:05:54.423995",
+      "internal_id": "ed82c32f6cae6014dadb7072409125c3a7f706e92bab5740ff4ac9b958203f8e",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 26094,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Giovanna Trinchella",
+      "title": "L\u2019aviaria \u201craddoppia\u201d: dopo il ceppo H5N1 ora anche l\u2019H5N5 contagia gli umani: primo decesso negli Usa. Epidemie \u201csenza precedenti\u201d nei volatili",
+      "description": "I virologi da anni spiegavano che l\u2019influenza aviaria (con i suoi diversi ceppi) correva il rischio di diventare un problema di salute globale. L\u2019Organizzazione mondiale della sanit\u00e0 (Oms) ha confermato il primo caso umano al mondo di infezione da virus dell\u2019\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/06/influenza-aviaria-h5n5-primo-decesso-usa-news/8219126/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/12/06/aviaria-1200x630.jpg",
+      "publishedAt": "2025-12-06 15:29:29",
+      "content": "Milano, 6 dic.(Adnkronos) - Si \u00e8 aperto oggi Artigiano in Fiera, uno degli appuntamenti pi\u00f9 attesi dellanno, in programma fino a domenica 14 dicembre, tutti i giorni dalle 10:00 alle 22:30, con ingre\u2026 [+9871 chars]",
+      "retrievedAt": "2025-12-07 19:05:53.346458",
+      "internal_id": "5e45c53e809e95bf808a861cabd2a5220899548f9a2ddfad451e68bc7c6eaf0e",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 26092,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ryan Wyatt Turbeville",
+      "title": "Marion County health officials issue rabies alert after infected coyote captured - NewsBreak",
+      "description": "OCALA, Fla. (WCJB) - Florida Department of Health officials have issued a rabies alert after an infected coyote was captured in Southwest Marion County thi",
+      "url": "https://www.newsbreak.com/share/4383457599290-marion-county-health-officials-issue-rabies-alert-after-infected-coyote-captured?_f=app_share&amp;pd=056jQFk6&amp;lang=en_US&amp;send_time=1765034804&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.18.0.43%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1IgWcR_176sSfNE00",
+      "publishedAt": "2025-12-06 15:27:42",
+      "content": "No idea he recorded this whole conversation with his glasses: Florida woman is minding her business at the airport. Then a stranger strikes up a conversation A woman sat down to rest before her flig\u2026 [+1158 chars]",
+      "retrievedAt": "2025-12-07 19:05:52.371537",
+      "internal_id": "8b89cab04064c2ddb1ff8ac9705a13f32175c9ce1094ef3fb133109707355af9",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 26096,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Nigeria pushes continental efforts to reduce cancer deaths",
+      "description": "Nigeria calls for Pan-African collaboration to tackle the rising Africa cancer burden, as cancer now kills more than HIV, malaria, and TB combined. Read More: https://punchng.com/nigeria-pushes-continental-efforts-to-reduce-cancer-deaths/",
+      "url": "https://punchng.com/nigeria-pushes-continental-efforts-to-reduce-cancer-deaths/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/01/30184422/The-Minister-of-State-for-Health-and-Social-Welfare-Dr.-Iziaq-Salako.webp",
+      "publishedAt": "2025-12-06 11:21:10",
+      "content": "The Federal Government has called for stronger Pan-African collaboration to tackle the continents growing cancer burden, warning that cancer now kills more Africans annually than HIV/AIDS, malaria, a\u2026 [+3729 chars]",
+      "retrievedAt": "2025-12-07 19:05:54.316431",
+      "internal_id": "26e9636766d001b685386b6adca418d072769e8b0a3a0eb91eefaf0c0c62d5df",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 26095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Garattoni",
+      "title": "O papel estrat\u00e9gico da nova vacina Butantan-DV, primeira do mundo em dose \u00fanica contra a dengue",
+      "description": "Ela \u00e9 o resultado de d\u00e9cadas de pesquisa - e apresenta vantagens importantes sobre as atuais vacinas contra essa doen\u00e7a",
+      "url": "https://super.abril.com.br/saude/o-papel-estrategico-da-nova-vacina-butantan-dv-primeira-do-mundo-em-dose-unica-contra-a-dengue/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2025/12/interna1-desenvolvimentodengue-IMG_0527.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-12-06 11:00:03",
+      "content": "Prorrogamos a Black: Super com pre\u00e7o absurdoEla \u00e9 o resultado de d\u00e9cadas de pesquisa - e apresenta vantagens importantes sobre as atuais vacinas contra essa doen\u00e7a Por Andr\u00e9 Ricardo Ribas Freitas \u2026 [+8929 chars]",
+      "retrievedAt": "2025-12-07 19:05:53.647017",
+      "internal_id": "c31830886a68a39f54baece331b203f107e11115904ee4d5ae09164b9d504b16",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 26093,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "EWN",
+      "author": "Camray Clarke",
+      "title": "WC Health pins falling immunisation rates among kids on disease outbreaks",
+      "description": "The department noted that Cape Town's urban areas, including Khayelitsha, Mitchells Plain and Mfuleni, have reported increases in measles cases.",
+      "url": "https://www.ewn.co.za/2025/12/06/wc-health-pins-falling-immunisation-rates-among-kids-on-disease-outbreaks",
+      "urlToImage": "https://media-cache.primedia-service.com/media/faffnsuw/afp__20200218__f0281788__v1__highres__rubellavirusesillustration.jpg?width=1200&height=630",
+      "publishedAt": "2025-12-06 10:26:10",
+      "content": "The Western Cape's Health Department has pointed to falling immunisation rates among children as the leading cause of childhood disease outbreaks. The department noted that Cape Town's urban areas, \u2026 [+576 chars]",
+      "retrievedAt": "2025-12-07 19:05:52.705097",
+      "internal_id": "4cb6eba9a1f1ef3d140298f113c0f6c2514367cb149f54f8c838c1dd8f595f6f",
+      "publishedAtLabel": "Dec 6"
+    },
     {
       "id": 26090,
       "query": [
@@ -13940,150 +14048,6 @@
       "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
       "retrievedAt": "2025-10-28 07:07:47.796397",
       "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25323,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
-      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
-      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
-      "publishedAt": "2025-10-26 19:00:00",
-      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
-      "retrievedAt": "2025-10-28 07:07:48.587929",
-      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
-      "title": "Por a\u00f1os hemos llenado de antibi\u00f3ticos a ni\u00f1os en \u00c1frica: la ciencia cree que deber\u00edamos parar",
-      "description": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicios de salud. En 2020, la Organizaci\u00f3n Mundial de la Salud (OM\u2026",
-      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar",
-      "urlToImage": "https://i.blogs.es/c3e2a7/ninos_africa_antibioticos/840_560.png",
-      "publishedAt": "2025-10-26 18:00:46",
-      "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
-      "retrievedAt": "2025-10-27 19:05:59.560063",
-      "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25349,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "\u0130HA",
-      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
-      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
-      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
-      "publishedAt": "2025-10-26 17:51:38",
-      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
-      "retrievedAt": "2025-10-29 07:08:03.657067",
-      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25315,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Anlatilaninotesi.com.tr",
-      "author": "Sputnik T\u00fcrkiye",
-      "title": "Sivrisineklerin ta\u015f\u0131d\u0131\u011f\u0131 tehlike: Hong Kong\u2019da y\u0131llar sonra ilk vakalar",
-      "description": "Hong Kong\u2019da uzun s\u00fcredir g\u00f6r\u00fclmeyen Chikungunya ate\u015fi yeniden ortaya \u00e7\u0131kt\u0131. Yetkililer, hastan\u0131n ya\u015fad\u0131\u011f\u0131 b\u00f6lge \u00e7evresinde binlerce ki\u015finin risk alt\u0131nda olabilece\u011fini bildirerek sivrisinek ila\u00e7lamas\u0131n\u0131 h\u0131zland\u0131rma \u00e7a\u011fr\u0131s\u0131 yapt\u0131.",
-      "url": "https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html",
-      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100487215.jpg?11004864851761485541",
-      "publishedAt": "2025-10-26 13:32:22",
-      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html Sivrisinekl\u2026 [+2718 chars]",
-      "retrievedAt": "2025-10-27 19:06:00.992064",
-      "internal_id": "82a5565c5f8e2545656344626b89ba0e2451a29e51635189bb529a9770c19a68",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25313,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": null,
-      "title": "Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm",
-      "description": "Bird flu outbreak hits third Georgia commercial poultry operation this year, affecting 140,000 chickens as state officials work to contain HPAI spread.",
-      "url": "https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/us-poultry-farm.jpg",
-      "publishedAt": "2025-10-26 11:41:41",
-      "content": "A Georgia chicken producer is working to stop the spread of the Highly Pathogenic Avian Influenza (HPAI), more commonly known as bird flu, after becoming the third commercial operation in the state t\u2026 [+1913 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.921702",
-      "internal_id": "915a198c02df0117e7f8c53d5838ac9f7fa05c096c0bb6cf906d411aa0d3028e",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25316,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'den bir vir\u00fcs alarm\u0131 daha: Bir ki\u015fide Chikungunya \u00e7\u0131kt\u0131, 8 bin ki\u015fi riskli ilan edildi",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-10/26/cin.jpg",
-      "publishedAt": "2025-10-26 11:16:51",
-      "content": "South China Morning Post'un haberine g\u00f6re, kentin Kawloon il\u00e7esindeki Dimond Hill semtine bal Fung Tak Yerleimi'nde ikamet eden 82 yandaki bir kadn hastada Chikungunya vir\u00fcs\u00fcne rastland. Vaka, Hong \u2026 [+1219 chars]",
-      "retrievedAt": "2025-10-27 19:06:01.009373",
-      "internal_id": "cd7bf619ff2adb04a3ed4dd80a85a770d8d8d91e679c87f2af9dcbeaf77cc975",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25317,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Turkiyegazetesi.com.tr",
-      "author": "Anadolu Ajans\u0131",
-      "title": "\u00c7in'de bu sivrisinekler vir\u00fcs sa\u00e7\u0131yor! Yerle\u015fim yerleri risk alt\u0131nda",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi. Bu durum, Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vaka olarak kayda ge\u00e7erken hastal\u0131\u011f\u0131n tespit edi\u2026",
-      "url": "https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600",
-      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/26/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-17614788746265.jpg",
-      "publishedAt": "2025-10-26 11:12:15",
-      "content": "",
-      "retrievedAt": "2025-10-27 19:06:01.018746",
-      "internal_id": "5a409b687e2331a741bc34504ea7ede347528d600682a3d9fb428203de725edf",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25312,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Toddler dies of measles in Jerusalem",
-      "description": "Hadassah Ein Kerem Hospital in Jerusalem announced that a two-year-old girl died from measles complications.",
-      "url": "https://www.israelnationalnews.com/news/416818",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
-      "publishedAt": "2025-10-26 07:15:00",
-      "content": "A two-year-old girl has died at Hadassah Ein Kerem Hospital in Jerusalem from complications caused by measles, raising the death toll of the ongoing outbreak of the disease to eight, all under the ag\u2026 [+837 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.662696",
-      "internal_id": "c1a8ab9475f99b791d1d2012b81c50c50cc45a103e9cb9d007a597a996839558",
       "publishedAtLabel": "Oct 26"
     }
   ]
