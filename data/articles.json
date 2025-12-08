@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-12-08 07:10",
-  "count_articles_total": 789,
-  "count_articles_new": 3,
+  "last_updated": "2025-12-08 19:06",
+  "count_articles_total": 788,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 26104,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Beatriz Campos",
+      "title": "Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos",
+      "description": "Em Campo Grande, a libera\u00e7\u00e3o de mosquitos com Wolbachia resulta em queda nos casos de dengue, estrat\u00e9gia deve ser aplicada em outras cidades O post Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
+      "publishedAt": "2025-12-07 19:03:41",
+      "content": "Siga o Olhar Digital no Google Discover Um estudo recente revela um avan\u00e7o significativo no combate \u00e0 dengue em Campo Grande, Mato Grosso do Sul. A libera\u00e7\u00e3o controlada de mosquitos Aedes aegypti po\u2026 [+2182 chars]",
+      "retrievedAt": "2025-12-08 19:06:19.770794",
+      "internal_id": "cbfc1a9439dc2cbb9344ac177eca86ed30735dcfad317250a66829174c3e39f0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26107,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u061b \u062c\u0631\u0642\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0622\u062a\u0634 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u0631\u0627 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0634\u0639\u0644\u0647\u200c\u0648\u0631 \u06a9\u0631\u062f",
+      "description": "\u06cc\u06a9 \u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u06cc \u0645\u0647\u06cc\u0628 \u062f\u0631 \u0642\u0631\u0646 \u0686\u0647\u0627\u0631\u062f\u0647\u0645\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0622\u063a\u0627\u0632\u06af\u0631 \u0632\u0646\u062c\u06cc\u0631\u0647\u200c\u0627\u06cc \u0641\u0627\u062c\u0639\u0647\u200c\u0628\u0627\u0631 \u0628\u0648\u062f\u0647 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0628\u0647 \u0634\u06cc\u0648\u0639 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062e\u062a\u0645 \u0634\u062f.",
+      "url": "https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/",
+      "urlToImage": "https://api2.zoomit.ir/media/bubonic-plague-europe-6933fdd32017c0b719e18327",
+      "publishedAt": "2025-12-07 19:00:00",
+      "content": "\u00ab \u00bb . (Yersinia pestis) . . . \u00ab \u00bb . . . . . . : . . . . . . Communications Earth &amp; Environment .",
+      "retrievedAt": "2025-12-08 19:06:22.333717",
+      "internal_id": "01bbf47cd05fb707d895cbf04b207421fcc3e6a107c8009681e5864c570884a0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26103,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Redazione Salute",
+      "title": "Aviaria H5N5? Pregliasco: Punta dell\u2019iceberg, non abbassare la guardia\u201d. Terregino: \u201cNon \u00e8 pi\u00f9 aggressivo di H5N1\u201d",
+      "description": "La notizia del decesso negli Usa di un paziente \u2013 con patologie pregresse \u2013 morto dopo essere stato colpito dal ceppo H5N5 dell\u2019influenza aviaria \u2013 viene accolta in modo diverso dagli scienziati. Secondo Fabrizio Pregliasco, direttore della Scuola di speciali\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/07/09/pregliasco.jpg",
+      "publishedAt": "2025-12-07 15:34:12",
+      "content": "Roma, 7 dic. (Adnkronos) - \u00c8 stata ufficialmente inaugurata oggi larea dedicata alle Regione Marche allinterno del padiglione 3 di Artigiano in Fiera, il pi\u00f9 importante evento al mondo dedicato agli \u2026 [+4255 chars]",
+      "retrievedAt": "2025-12-08 19:06:19.497161",
+      "internal_id": "cfc8f99eadfe1dbe1e45a95102abff8ec8cf341dc00ead0ea72d506a9b0ac15f",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26102,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard",
+      "description": "Hadassah and Rambam medical centers report an unusual overload in pediatric ICUs as influenza and measles surge, with several infants in critical condition requiring ventilators and ECMO support.",
+      "url": "https://www.israelnationalnews.com/news/418944",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1145927.jpg",
+      "publishedAt": "2025-12-07 13:56:00",
+      "content": "The Hadassah and Rambam medical centers are reporting an unusual overload in their pediatric intensive care units due to the spread of winter illnesses, especially influenza and measles. Hadassah Ei\u2026 [+1005 chars]",
+      "retrievedAt": "2025-12-08 19:06:18.930761",
+      "internal_id": "84c99a49227b6d89829bc3de6c301d8d33481ad0f7efc62964f71de9a9a12776",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26101,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson with Newser.AI",
+      "title": "In Rarity, Organ Recipient Dies of Rabies From Donor",
+      "description": "A Michigan man who received what was supposed to be a life-saving kidney ended up dying soon after the transplant\u2014because the donor had rabies. The CDC pieced the puzzle together only after the fact because organ donors are not typically screened for the dise\u2026",
+      "url": "https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1651023-12-20251207052102.jpeg",
+      "publishedAt": "2025-12-07 11:21:00",
+      "content": "The unusual chain of events began when the organ donor was scratched by a skunk on his property in Idaho and died five days later of what at the time was thought to be a heart attack. However, the CD\u2026 [+598 chars]",
+      "retrievedAt": "2025-12-08 19:06:18.508943",
+      "internal_id": "9641853068868d726eae46709ccf27acca2a1fb656ea7b7596bd66a8a1acea50",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26106,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Silke H\u00fcmmer",
+      "title": "RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus",
+      "description": "Hohes Fieber, heftige Kopf- und Gliederschmerzen \u2013 die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm.",
+      "url": "https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf",
+      "urlToImage": "https://images.bild.de/69353941c0de97910a89cbaf/1c41e6e9b8ac59b6e8396097ae895f95,a77f91ff?w=1280",
+      "publishedAt": "2025-12-07 09:28:07",
+      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenHohes Fieber, heftige Kopf- und Gliederschmerzen die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm. Jetzt sorgt ein gr\u00f6\u00dferer Ausbr\u2026 [+2394 chars]",
+      "retrievedAt": "2025-12-08 19:06:21.319703",
+      "internal_id": "2cc8792ae1c1f19320e0d0e992ac69b782cf6b271c23bb4572834809c86aa79b",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26105,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Auf Kuba breitet sich das Chikungunya-Fieber stark aus",
+      "description": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein.",
+      "url": "https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus",
+      "urlToImage": "https://img.diepresse.com/public/incoming/syou3g-2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG/alternates/DPR_SOCIAL_NACHRICHTEN/2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG",
+      "publishedAt": "2025-12-07 08:14:48",
+      "content": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein. Auf Kuba gibt es derzeit einen gr\u00f6\u00dferen Ausbruch des Chikungunya-Fiebers. Nachdem in den verg\u2026 [+1119 chars]",
+      "retrievedAt": "2025-12-08 19:06:21.310387",
+      "internal_id": "d4b7a4a849e2960bfff939617ac679b80b86b9e66fe1a8016df5ceac00d97f82",
+      "publishedAtLabel": "Dec 7"
+    },
     {
       "id": 26099,
       "query": [
@@ -14102,150 +14228,6 @@
       "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
       "retrievedAt": "2025-10-28 07:07:47.796397",
       "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25323,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
-      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
-      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
-      "publishedAt": "2025-10-26 19:00:00",
-      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
-      "retrievedAt": "2025-10-28 07:07:48.587929",
-      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
-      "title": "Por a\u00f1os hemos llenado de antibi\u00f3ticos a ni\u00f1os en \u00c1frica: la ciencia cree que deber\u00edamos parar",
-      "description": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicios de salud. En 2020, la Organizaci\u00f3n Mundial de la Salud (OM\u2026",
-      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar",
-      "urlToImage": "https://i.blogs.es/c3e2a7/ninos_africa_antibioticos/840_560.png",
-      "publishedAt": "2025-10-26 18:00:46",
-      "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
-      "retrievedAt": "2025-10-27 19:05:59.560063",
-      "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25349,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "\u0130HA",
-      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
-      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
-      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
-      "publishedAt": "2025-10-26 17:51:38",
-      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
-      "retrievedAt": "2025-10-29 07:08:03.657067",
-      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25315,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Anlatilaninotesi.com.tr",
-      "author": "Sputnik T\u00fcrkiye",
-      "title": "Sivrisineklerin ta\u015f\u0131d\u0131\u011f\u0131 tehlike: Hong Kong\u2019da y\u0131llar sonra ilk vakalar",
-      "description": "Hong Kong\u2019da uzun s\u00fcredir g\u00f6r\u00fclmeyen Chikungunya ate\u015fi yeniden ortaya \u00e7\u0131kt\u0131. Yetkililer, hastan\u0131n ya\u015fad\u0131\u011f\u0131 b\u00f6lge \u00e7evresinde binlerce ki\u015finin risk alt\u0131nda olabilece\u011fini bildirerek sivrisinek ila\u00e7lamas\u0131n\u0131 h\u0131zland\u0131rma \u00e7a\u011fr\u0131s\u0131 yapt\u0131.",
-      "url": "https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html",
-      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100487215.jpg?11004864851761485541",
-      "publishedAt": "2025-10-26 13:32:22",
-      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html Sivrisinekl\u2026 [+2718 chars]",
-      "retrievedAt": "2025-10-27 19:06:00.992064",
-      "internal_id": "82a5565c5f8e2545656344626b89ba0e2451a29e51635189bb529a9770c19a68",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25313,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": null,
-      "title": "Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm",
-      "description": "Bird flu outbreak hits third Georgia commercial poultry operation this year, affecting 140,000 chickens as state officials work to contain HPAI spread.",
-      "url": "https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/us-poultry-farm.jpg",
-      "publishedAt": "2025-10-26 11:41:41",
-      "content": "A Georgia chicken producer is working to stop the spread of the Highly Pathogenic Avian Influenza (HPAI), more commonly known as bird flu, after becoming the third commercial operation in the state t\u2026 [+1913 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.921702",
-      "internal_id": "915a198c02df0117e7f8c53d5838ac9f7fa05c096c0bb6cf906d411aa0d3028e",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25316,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'den bir vir\u00fcs alarm\u0131 daha: Bir ki\u015fide Chikungunya \u00e7\u0131kt\u0131, 8 bin ki\u015fi riskli ilan edildi",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-10/26/cin.jpg",
-      "publishedAt": "2025-10-26 11:16:51",
-      "content": "South China Morning Post'un haberine g\u00f6re, kentin Kawloon il\u00e7esindeki Dimond Hill semtine bal Fung Tak Yerleimi'nde ikamet eden 82 yandaki bir kadn hastada Chikungunya vir\u00fcs\u00fcne rastland. Vaka, Hong \u2026 [+1219 chars]",
-      "retrievedAt": "2025-10-27 19:06:01.009373",
-      "internal_id": "cd7bf619ff2adb04a3ed4dd80a85a770d8d8d91e679c87f2af9dcbeaf77cc975",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25317,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Turkiyegazetesi.com.tr",
-      "author": "Anadolu Ajans\u0131",
-      "title": "\u00c7in'de bu sivrisinekler vir\u00fcs sa\u00e7\u0131yor! Yerle\u015fim yerleri risk alt\u0131nda",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi. Bu durum, Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vaka olarak kayda ge\u00e7erken hastal\u0131\u011f\u0131n tespit edi\u2026",
-      "url": "https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600",
-      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/26/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-17614788746265.jpg",
-      "publishedAt": "2025-10-26 11:12:15",
-      "content": "",
-      "retrievedAt": "2025-10-27 19:06:01.018746",
-      "internal_id": "5a409b687e2331a741bc34504ea7ede347528d600682a3d9fb428203de725edf",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25312,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Toddler dies of measles in Jerusalem",
-      "description": "Hadassah Ein Kerem Hospital in Jerusalem announced that a two-year-old girl died from measles complications.",
-      "url": "https://www.israelnationalnews.com/news/416818",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
-      "publishedAt": "2025-10-26 07:15:00",
-      "content": "A two-year-old girl has died at Hadassah Ein Kerem Hospital in Jerusalem from complications caused by measles, raising the death toll of the ongoing outbreak of the disease to eight, all under the ag\u2026 [+837 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.662696",
-      "internal_id": "c1a8ab9475f99b791d1d2012b81c50c50cc45a103e9cb9d007a597a996839558",
       "publishedAtLabel": "Oct 26"
     }
   ]
