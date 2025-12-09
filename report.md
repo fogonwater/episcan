@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-12-09 07:09
-- **Most recent article:** 2025-12-07 22:38:47
+- **New articles in last harvest:** 30
+- **Last harvest:** 2025-12-09 19:06
+- **Most recent article:** 2025-12-08 18:33:21
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 21 | 59 | 27 | 18 | 15 | 1 | 176 |
-| h5n1 | 34 | 32 | 31 | 21 | 29 | 13 | 1 | 161 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 2 | 156 |
-| malaria | 16 | 19 | 20 | 12 | 17 | 26 | 0 | 110 |
-| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 5 | 47 |
-| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 0 | 43 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 1 | 29 |
-| zika | 4 | 9 | 2 | 1 | 2 | 6 | 0 | 24 |
-| meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 0 | 24 |
+| measles | 34 | 21 | 59 | 27 | 18 | 15 | 3 | 177 |
+| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 4 | 162 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 7 | 161 |
+| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 2 | 111 |
+| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 15 | 58 |
+| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 6 | 45 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 3 | 31 |
+| zika | 4 | 9 | 2 | 1 | 2 | 6 | 2 | 26 |
+| meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 1 | 25 |
 | pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 0 | 19 |
 | yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 2 | 15 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 0 | 15 |
-| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 0 | 13 |
+| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 0 | 12 |
 | typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 0 | 8 |
 | shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -32,6 +32,12 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-50 (zika)
+
+- [SAMD9L inhibits flavivirus translation independently of its capacity to trigger innate immune response](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013773) (Plos.org)
+
+- [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
 
 ## 25-50 (yersinia)
 
@@ -41,23 +47,91 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (rabies)
 
+- [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
+
+- [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
+
 - [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
+
+## 25-50 (mpox)
+
+- [Reino Unido detecta una nueva variante de mpox en un viajero reciente de Asia](https://www.nacion.com/el-mundo/reino-unido-detecta-una-nueva-variante-de-mpox-en/SQYFUNGUOREZPAKJMUV4AVUWKY/story/) (Nacion.com)
+
+- [La OMS informa sobre el primer caso de mpox en Malí](https://www.meneame.net/m/actualidad/oms-informa-sobre-primer-caso-mpox-mali) (Meneame.net)
+
+- [UK health agency identifies new mpox strain in England](https://insiderpaper.com/uk-health-agency-identifies-new-mpox-strain-in-england/) (Insiderpaper.com)
+
+- [Inglaterra confirma la presencia de una nueva variante del virus Mpox: ¿cuáles son sus síntomas?](https://www.excelsior.com.mx/salud/nueva-cepa-de-mpox-detectada-en-inglaterra-genera-alerta-sanitaria/1756202) (Excelsior.com.mx)
+
+- [How to tell if you have an Mpox skin rash and other symptoms](https://www.the-independent.com/life-style/health-and-families/mpox-symptoms-skin-rash-new-strain-uk-b2880366.html) (The-independent.com)
+
+- [Nieuwe variant mpox ontdekt in Engeland](https://www.nieuwsblad.be/buitenland/nieuwe-variant-mpox-ontdekt-in-engeland/111214350.html) (Nieuwsblad.be)
+
+- [New mpox variant spotted in UK as warning issued virus is 'circulating globally and evolving'](https://www.gbnews.com/health/mpox-new-variant-uk-scientists-warning) (Gbnews.com)
+
+- [New mpox strain discovered in England](https://news.sky.com/story/new-mpox-strain-discovered-in-england-13480985) (Sky.com)
+
+- [Un nouveau variant du mpox découvert en Angleterre : "Bien que l'infection par le virus mpox soit bénigne pour beaucoup, elle peut être grave"](https://www.dhnet.be/actu/monde/2025/12/08/un-nouveau-variant-du-mpox-decouvert-en-angleterre-bien-que-linfection-par-le-virus-mpox-soit-benigne-pour-beaucoup-elle-peut-etre-grave-SBD3E7OQL5DU5F4XUPANACREQA/) (dh.be)
+
+- [UK Health Agency Identifies New Mpox Strain In England](https://www.channelstv.com/2025/12/08/uk-health-agency-identifies-new-mpox-strain-in-england/) (Channels Television)
+
+- [La OMS informa sobre el primer caso de mpox en Malí](https://www.infosalus.com/salud-investigacion/noticia-oms-informa-primer-caso-mpox-mali-20251208155715.html) (Infosalus.com)
+
+- [UK health agency identifies new mpox strain in person who travelled to Asia](https://www.channelnewsasia.com/world/uk-health-agency-new-mpox-strain-travel-asia-5568291) (CNA)
+
+- [Mpox symptoms explained: From fever to painful skin rash and blisters](https://www.the-independent.com/life-style/health-and-families/mpox-symptoms-new-strain-uk-warning-b2880183.html) (The-independent.com)
+
+- [Monkeypox (MPOX) Diagnostics Global Markets 2024-2028, by Assay, by Country, by Product and by Place: Executive and Consultant Guides, Market Analysis and Forecasts](https://www.globenewswire.com/news-release/2025/12/08/3201601/28124/en/Monkeypox-MPOX-Diagnostics-Global-Markets-2024-2028-by-Assay-by-Country-by-Product-and-by-Place-Executive-and-Consultant-Guides-Market-Analysis-and-Forecasts.html) (GlobeNewswire)
+
+- [New mpox strain identified in England](https://www.bbc.com/news/articles/cm2087g0z9po) (BBC News)
+
+## 25-50 (meningitis)
+
+- [Proteomic profiles of Lissachatina (Heterobranchia) and Pomacea (Caenogastropoda) snails infected with Angiostrongylus cantonensis using 4D label-free quantitative analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013812) (Plos.org)
 
 ## 25-50 (measles)
 
+- [High school, ER among 3 new measles exposure sites in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/winkler-measles-exposure-garden-valley-collegiate-9.7007240) (CBC News)
+
+- [Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power](https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/) (Scientific American)
+
 - [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
 
+## 25-50 (malaria)
+
+- [Magnitude of tuberculosis treatment outcomes and associated factors in public health institutions of Arba Minch town, Southern Ethiopia: A multi-centered retrospective cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338393) (Plos.org)
+
+- [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
+
 ## 25-50 (h5n1)
+
+- [H5N1: Vogelgrippe im Augsburger Zoo - Tropenhaus bleibt zu](https://www.sueddeutsche.de/bayern/augsburg-zoo-tropenhaus-vogelgrippe-h5n1-li.3351390) (Süddeutsche Zeitung)
+
+- [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
+
+- [Bird flu hasn't reached Australia, but researchers are prepping for when it arrives](https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives) (NPR)
 
 - [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
+
+- [Anvisa publica registro de imunizante contra a dengue do Butantan](https://www.metropoles.com/saude/anvisa-imunizante-dengue-butantan) (Metropoles.com)
+
+- [Cuba eleva a un total de 44 las muertes en la epidemia de chikunguña y dengue](https://www.20minutos.es/internacional/cuba-eleva-44-las-muertes-epidemia-chikunguna-dengue_6907931_0.html) (20minutos.es)
+
+- [SAMD9L inhibits flavivirus translation independently of its capacity to trigger innate immune response](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013773) (Plos.org)
+
+- [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
+
+- [Johor dengue cases down more than half from 2024, says exco member](https://www.thestar.com.my/news/nation/2025/12/08/johor-dengue-cases-down-more-than-half-from-2024-says-exco-member) (The Star Online)
 
 - [México reporta mil 54 nuevos casos de dengue](https://www.excelsior.com.mx/nacional/dengue-en-mexico-reportan-mil-54-nuevos-casos/1756104) (Excelsior.com.mx)
 
 - [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
 
 ## 25-50 (chikungunya)
+
+- [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
 
 - [RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus](https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf) (Bild)
 
@@ -1691,8 +1765,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
-- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
-
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -1725,8 +1797,6 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
-- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
-
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -1734,8 +1804,6 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
-
-- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -1802,10 +1870,6 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
-
-- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
-
-- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -1884,9 +1948,3 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
-
-- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
-
-- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)

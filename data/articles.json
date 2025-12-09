@@ -1,8 +1,551 @@
 {
-  "last_updated": "2025-12-09 07:09",
-  "count_articles_total": 798,
-  "count_articles_new": 2,
+  "last_updated": "2025-12-09 19:06",
+  "count_articles_total": 820,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 26132,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Reino Unido detecta una nueva variante de mpox en un viajero reciente de Asia",
+      "description": "UKHSA identifica una nueva variante de mpox con rasgos de clados 1 y 2 en un paciente que viaj\u00f3 a Asia.",
+      "url": "https://www.nacion.com/el-mundo/reino-unido-detecta-una-nueva-variante-de-mpox-en/SQYFUNGUOREZPAKJMUV4AVUWKY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/CPROY2O5NZDMDMJEOL4V62KXLE.jpg?smart=true&auth=46ccaba2f842b1ae742ac65f32fee1577f0e326d44b3b12a6f2688b06796b851&width=1440",
+      "publishedAt": "2025-12-08 18:33:21",
+      "content": "Londres, Reino Unido. La Agencia de Seguridad Sanitaria de Reino Unido (UKHSA) indic\u00f3 el lunes que hab\u00eda identificado una nueva variante del mpox en Inglaterra en una persona que hab\u00eda viajado recien\u2026 [+1468 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.618761",
+      "internal_id": "0af9aae03f30613ed2f0786842d930a87ec33cafb53a7b3aa28197eb95c421c6",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26119,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jorge Agle",
+      "title": "Anvisa publica registro de imunizante contra a dengue do Butantan",
+      "description": "Expectativa \u00e9 que mais de 30 milh\u00f5es de doses da vacina contra a dengue estejam dispon\u00edveis para a popula\u00e7\u00e3o em 2026. Aplica\u00e7\u00e3o ser\u00e1 via SUS",
+      "url": "https://www.metropoles.com/saude/anvisa-imunizante-dengue-butantan",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/04140558/denguee.jpg",
+      "publishedAt": "2025-12-08 18:18:35",
+      "content": "Ap\u00f3s dar parecer favor\u00e1vel sobre a seguran\u00e7a e efic\u00e1cia em novembro, a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) publicou o registro da vacina contra a dengue, a Butantan-DV, nesta segunda (8\u2026 [+1966 chars]",
+      "retrievedAt": "2025-12-09 19:06:16.179464",
+      "internal_id": "0a171995bc5933e753b21fb36befc4e60a33fddbfd5a167e6fe890c49a1b1155",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26113,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "High school, ER among 3 new measles exposure sites in southern Manitoba",
+      "description": "Public health officials are warning people may have been recently exposed to measles at an emergency department, a school and a restaurant in southern Manitoba.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winkler-measles-exposure-garden-valley-collegiate-9.7007240",
+      "urlToImage": "https://i.cbc.ca/ais/1.7572253,1750979862000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C3000%2C1687%29%3BResize%3D620",
+      "publishedAt": "2025-12-08 18:17:51",
+      "content": "Public health officials are warning people may have been recently exposed to measles at an emergency department, a school and a restaurant in southern Manitoba. Anyone who was at Garden Valley Colle\u2026 [+2263 chars]",
+      "retrievedAt": "2025-12-09 19:06:15.376948",
+      "internal_id": "349a4b1cc120431ce950c1922952b3af3b6e9b06ee54bc0757548117884dd075",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26131,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "YSiguesLeyendo",
+      "title": "La OMS informa sobre el primer caso de mpox en Mal\u00ed",
+      "description": "El informe de la OMS, que cuenta con informaci\u00f3n actualizada entre el 31 de octubre y el 24 de noviembre, muestra que el caso tiene que ver con un var\u00f3n adulto con antecedentes recientes de un viaje a Guinea, donde podr\u00eda haber estado expuesto a la enfermedad\u2026",
+      "url": "https://www.meneame.net/m/actualidad/oms-informa-sobre-primer-caso-mpox-mali",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4124746&version=0&ts=1765217406&image.webp",
+      "publishedAt": "2025-12-08 17:59:57",
+      "content": "",
+      "retrievedAt": "2025-12-09 19:06:17.609227",
+      "internal_id": "9e296703c784679c56712a953c51a68afff961bd510196f0a0c26d14289221ec",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26137,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Insiderpaper.com",
+      "author": "Afp",
+      "title": "UK health agency identifies new mpox strain in England",
+      "description": "The UK Health Security Agency (UKHSA) said Monday it had identified a new strain of the mpox virus in England in a person who had recently travelled to",
+      "url": "https://insiderpaper.com/uk-health-agency-identifies-new-mpox-strain-in-england/",
+      "urlToImage": "https://insiderpaper.com/wp-content/uploads/2023/02/mpox.jpg",
+      "publishedAt": "2025-12-08 17:45:25",
+      "content": "The UK Health Security Agency (UKHSA) said Monday it had identified a new strain of the mpox virus in England in a person who had recently travelled to Asia. \u201cOur genomic testing has enabled us to d\u2026 [+2429 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.666376",
+      "internal_id": "784e2d4e2d931cff84cf7f4104e4c77f686423c39244fb5cf55da287df03990a",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26117,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20minutos.es",
+      "author": "EFE",
+      "title": "Cuba eleva a un total de 44 las muertes en la epidemia de chikungu\u00f1a y dengue",
+      "description": "La epidemia ha encontrado en Cuba un terreno f\u00e9rtil para extenderse debido a la grave crisis econ\u00f3mica que padece el pa\u00eds, que limita la capacidad de prevenci\u00f3n.&nbsp;",
+      "url": "https://www.20minutos.es/internacional/cuba-eleva-44-las-muertes-epidemia-chikunguna-dengue_6907931_0.html",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/05/15/mosquito-aedes-aegypti-vector-del-dengue-en-la-piel-de-una-persona.r_d.976-805.jpeg",
+      "publishedAt": "2025-12-08 17:38:56",
+      "content": "El Gobierno cubano ha elevado este lunes a 44 las muertes en la actual epidemia de chikungu\u00f1a y dengue, ocho de los cuales eran menores de edad. La viceministra de Salud, Carilda Pe\u00f1a, ha asegurado e\u2026 [+2020 chars]",
+      "retrievedAt": "2025-12-09 19:06:16.134573",
+      "internal_id": "a09d95de49c8b5cad4594a50a5410093376077dff1452d99bc8ceb2f8c7137f0",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26128,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diana.oliva",
+      "title": "Inglaterra confirma la presencia de una nueva variante del virus Mpox: \u00bfcu\u00e1les son sus s\u00edntomas?",
+      "description": "Diana Oliva Se ha detectado una nueva cepa gen\u00e9ticamente distinta de Mpox en Inglaterra, lo que ha suscitado preocupaci\u00f3n entre las autoridades sanitarias y los cient\u00edficos. La aparici\u00f3n de esta nueva cepa de Mpox pone de relieve la naturaleza evolutiva de \u2026",
+      "url": "https://www.excelsior.com.mx/salud/nueva-cepa-de-mpox-detectada-en-inglaterra-genera-alerta-sanitaria/1756202",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/08/3431615.jpg",
+      "publishedAt": "2025-12-08 17:37:29",
+      "content": "Se ha detectado una nueva cepa gen\u00e9ticamente distinta de Mpox en Inglaterra, lo que ha suscitado preocupaci\u00f3n entre las autoridades sanitarias y los cient\u00edficos. La aparici\u00f3n de esta nueva cepa de Mp\u2026 [+5547 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.580245",
+      "internal_id": "184156c9635afe3f6ba5e3a84f59581c962b50d58866de613b486b96f594ba93",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26135,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Camilla Foster",
+      "title": "How to tell if you have an Mpox skin rash and other symptoms",
+      "description": "Mpox causes a rash which usually appears one to five days after the first symptoms",
+      "url": "https://www.the-independent.com/life-style/health-and-families/mpox-symptoms-skin-rash-new-strain-uk-b2880366.html",
+      "urlToImage": "https://static.the-independent.com/2025/02/03/12/03091041-2c7c3b9c-c492-4c26-8ebc-65824fb63940.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-12-08 17:12:30",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+5036 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.647046",
+      "internal_id": "e7816612da18b68cd35dccd563db71b3d01a563d4418767aea38f78a59dda58c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26116,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "H5N1: Vogelgrippe im Augsburger Zoo - Tropenhaus bleibt zu",
+      "description": "Im Augsburger Zoo wurde H5N1 bei einer Rothalsgans nachgewiesen. Diese Ma\u00dfnahmen gelten jetzt f\u00fcr Besucher und Tiere.",
+      "url": "https://www.sueddeutsche.de/bayern/augsburg-zoo-tropenhaus-vogelgrippe-h5n1-li.3351390",
+      "urlToImage": "https://www.sueddeutsche.de/2025/12/08/9f27f04f-1f72-40e0-a8d5-c17b2ae6ffa4.jpg?q=60&fm=webp&width=1200&rect=0%2C209%2C4000%2C2250",
+      "publishedAt": "2025-12-08 16:15:07",
+      "content": "Zugv\u00f6gel \u00fcbertragen derzeit F\u00e4lle von Vogelgrippe, auch im Freistaat war schon ein G\u00e4nsez\u00fcchter betroffen. Ab wann ist eine Tierseuche f\u00fcr den Menschen und seine Haustiere gef\u00e4hrlich? Und was m\u00fcssen \u2026 [+171 chars]",
+      "retrievedAt": "2025-12-09 19:06:15.730684",
+      "internal_id": "a8bff0446cd429d0e4bc64df5de4e8d993c39e3a4e90bdcd612c1fc2dbfc2d24",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26129,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": null,
+      "title": "Nieuwe variant mpox ontdekt in Engeland",
+      "description": "In Engeland is bij een persoon die onlangs naar Azi\u00eb is gereisd een nieuwe mpox-variant ontdekt. Dat meldt het Britse gezondheidsagentschap UKHSA maandag.",
+      "url": "https://www.nieuwsblad.be/buitenland/nieuwe-variant-mpox-ontdekt-in-engeland/111214350.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/j2oiab-health-mpoxbritain/alternates/SIXTEEN_NINE_1200/HEALTH-MPOXBRITAIN",
+      "publishedAt": "2025-12-08 16:10:43",
+      "content": "Het nieuwe virus bevat elementen van de twee mpox-hoofdgroepen 1 en 2, specifiek de varianten 1b en 2b. Dankzij onze genomische tests hebben we deze nieuwe variant van mpox kunnen opsporen, aldus K\u2026 [+853 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.590610",
+      "internal_id": "b0736b3239cee2da81ea6a415b871ff4f024466769d5c2a02a5cd4910144299d",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26115,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Michaela Maya-Mrschtik",
+      "title": "H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen",
+      "description": "Was bedeuten die Vogelgrippe-Erkrankungen bei Katzen und was m\u00fcssen Halterinnen und Halter nun wissen? Wir beantworten die wichtigsten Fragen zu den H5N1-F\u00e4llen in Brandenburg.",
+      "url": "https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/AdobeStock_479795584.jpeg",
+      "publishedAt": "2025-12-08 16:09:00",
+      "content": "Besteht auch f\u00fcr Menschen ein Risiko? Bislang hat man bei Menschen noch keine H5N1-Ansteckungen nachgewiesen, die von Katzen ausgingen. Prinzipiell ist ein solches \u00dcberspringen jedoch m\u00f6glich. Denn \u2026 [+1603 chars]",
+      "retrievedAt": "2025-12-09 19:06:15.703761",
+      "internal_id": "a6027881ebc89e0f4f34684bb2816014facd6aa7e8c1aec4de4dbdc9a6993cc9",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26139,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Solen Le Net",
+      "title": "New mpox variant spotted in UK as warning issued virus is 'circulating globally and evolving'",
+      "description": "Health officials in England have identified a new mpox strain that has experts paying close attention.The virus, discovered in an individual who had recently travelled back from Asia, is a recombinant \u2013 meaning it combines genetic elements from two different \u2026",
+      "url": "https://www.gbnews.com/health/mpox-new-variant-uk-scientists-warning",
+      "urlToImage": "https://www.gbnews.com/media-library/mpox-patient-and-mpox-under-microscope.jpg?id=62293752&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
+      "publishedAt": "2025-12-08 15:41:14",
+      "content": "Health officials in England have identified a new mpox strain that has experts paying close attention. The virus, discovered in an individual who had recently travelled back from Asia, is a recombin\u2026 [+3275 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.684975",
+      "internal_id": "9ec7c05ed6a49bed226fc89b7daca9580cc7de39e6703775d687c1e13444e936",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26127,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "New mpox strain discovered in England",
+      "description": "Officials said they had identified a \"new recombinant mpox virus\" - meaning it has genetic material from different viral strains.",
+      "url": "https://news.sky.com/story/new-mpox-strain-discovered-in-england-13480985",
+      "urlToImage": "https://e3.365dm.com/25/10/1600x900/skynews-mpox-virus-uk_7064009.jpg?20251027161418",
+      "publishedAt": "2025-12-08 15:40:00",
+      "content": "A new strain of mpox has been discovered by scientists in England. The new strain was found in a person who had recently travelled to Asia, the UK Health Security Agency (UKHSA) said. Officials sai\u2026 [+2073 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.570547",
+      "internal_id": "e0101650da208d811b1af61d0859c7d33c0f2478db3d698aef977a58fdc0bf76",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26130,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Un nouveau variant du mpox d\u00e9couvert en Angleterre : \"Bien que l'infection par le virus mpox soit b\u00e9nigne pour beaucoup, elle peut \u00eatre grave\"",
+      "description": "L'agence de s\u00e9curit\u00e9 sanitaire britannique (UKHSA) a indiqu\u00e9 lundi avoir identifi\u00e9 un nouveau variant du mpox en Angleterre chez une personne ayant r\u00e9cemment voyag\u00e9 en Asie. ...",
+      "url": "https://www.dhnet.be/actu/monde/2025/12/08/un-nouveau-variant-du-mpox-decouvert-en-angleterre-bien-que-linfection-par-le-virus-mpox-soit-benigne-pour-beaucoup-elle-peut-etre-grave-SBD3E7OQL5DU5F4XUPANACREQA/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/A45CT5VDHJEHZB5JD373JBPDCY.jpg?auth=6020a71563e534fd146d32ae8da5db6e87e0114031972ad2cf5e615792d36725&width=1200&height=630&quality=85&focal=2696%2C1796",
+      "publishedAt": "2025-12-08 15:35:45",
+      "content": "Faut-il s'inqui\u00e9ter du premier cas de \"mpox\" d\u00e9tect\u00e9 en Belgique ? \"Ce n'est pas le nouveau Covid\"\"Bien que l'infection par le virus mpox soit b\u00e9nigne pour beaucoup, elle peut \u00eatre grave\", a soulign\u00e9\u2026 [+1094 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.599990",
+      "internal_id": "d409498a7e5eca4f68d0f2c04f3a3157bacca5aa990ff06fada8f48b88966423",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26138,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Channels Television",
+      "author": "Opeoluwani Akintayo",
+      "title": "UK Health Agency Identifies New Mpox Strain In England",
+      "description": "The UK Health Security Agency (UKHSA) said Monday it had identified a new strain of the mpox virus in England in a person who had recently travelled to Asia.",
+      "url": "https://www.channelstv.com/2025/12/08/uk-health-agency-identifies-new-mpox-strain-in-england/",
+      "urlToImage": "https://www.channelstv.com/wp-content/uploads/2024/09/Mpox-vaccine-1.jpg",
+      "publishedAt": "2025-12-08 15:27:17",
+      "content": "The UK Health Security Agency (UKHSA) said Monday it had identified a new strain of the mpox virus in England in a person who had recently travelled to Asia. \u201cOur genomic testing has enabled us to d\u2026 [+2525 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.675695",
+      "internal_id": "24cfd55e1dc262ea3a68532f8f37a6979571a2f4e75edd255adf047a1483ec4b",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26136,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS informa sobre el primer caso de mpox en Mal\u00ed",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado este lunes sobre la detecci\u00f3n del primer caso de mpox en Mal\u00ed, aunque a\u00fan no se ha esclarecido el clado al que pertenece, y es que todos ellos contin\u00faan circulando, motivo por el que el organismo ha reali\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-informa-primer-caso-mpox-mali-20251208155715.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251208155715_1200.jpg",
+      "publishedAt": "2025-12-08 14:57:15",
+      "content": "MADRID 8 Dic. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado este lunes sobre la detecci\u00f3n del primer caso de mpox en Mal\u00ed, aunque a\u00fan no se ha esclarecido el clado al que\u2026 [+1801 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.656438",
+      "internal_id": "0ea314ca2af3ecec8c522ef0b521def247516dacb8e533d6a324e2ee28796975",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26126,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "UK health agency identifies new mpox strain in person who travelled to Asia",
+      "description": "LONDON: The UK Health Security Agency (UKHSA) said Monday (Dec 8) it had identified a new strain of the mpox virus in England in a person who had recently travelled to Asia.\"Our genomic testing has enabled us to detect this new mpox strain,\" said Katy Sinka f\u2026",
+      "url": "https://www.channelnewsasia.com/world/uk-health-agency-new-mpox-strain-travel-asia-5568291",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--6ELN69IT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-08-25t122916z_1_lynxmpel7o0g6_rtroptp_3_health-mpox.jpg?itok=ybZnZ4of",
+      "publishedAt": "2025-12-08 14:28:00",
+      "content": "LONDON: The UK Health Security Agency (UKHSA) said Monday (Dec 8) it had identified a new strain of the mpox virus in England in a person who had recently travelled to Asia. \"Our genomic testing has\u2026 [+2450 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.560936",
+      "internal_id": "e0b8b9d02364f7f3d981066a7ea6fdb6d4c01fc3443a1368873095d9fa653471",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26134,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Camilla Foster",
+      "title": "Mpox symptoms explained: From fever to painful skin rash and blisters",
+      "description": "A new strain of mpox has been found in England",
+      "url": "https://www.the-independent.com/life-style/health-and-families/mpox-symptoms-new-strain-uk-warning-b2880183.html",
+      "urlToImage": "https://static.the-independent.com/2025/02/03/12/03091041-2c7c3b9c-c492-4c26-8ebc-65824fb63940.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-12-08 14:16:48",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+4750 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.637717",
+      "internal_id": "05c50079ab05b0e6ee5cb7c2c6f6acea3444d2d2bea74ae7c2f7277b56c5d861",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26133,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Monkeypox (MPOX) Diagnostics Global Markets 2024-2028, by Assay, by Country, by Product and by Place: Executive and Consultant Guides, Market Analysis and Forecasts",
+      "description": "Opportunities for the In Vitro Diagnostic Industry arise from the monkeypox health emergency, with rapid diagnostics and genomics driving innovation amid a transformed market landscape post-COVID. Disruptive technologies could redefine the sector, presenting \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/08/3201601/28124/en/Monkeypox-MPOX-Diagnostics-Global-Markets-2024-2028-by-Assay-by-Country-by-Product-and-by-Place-Executive-and-Consultant-Guides-Market-Analysis-and-Forecasts.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-12-08 14:12:00",
+      "content": "Dublin, Dec. 08, 2025 (GLOBE NEWSWIRE) -- The \"Monkeypox (MPOX) Diagnostics Global Markets 2024-2028, by Assay, by Country, by Product and by Place: Executive and Consultant Guides, Market Analysis a\u2026 [+3131 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.628417",
+      "internal_id": "3fcd9ae45c697b5d4a04af16330e6d2985c359d32faf81bfee3b3e70052d2705",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26121,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marion Cannac, Jim Zoladek, In\u00e8s Bribes, Mathis Fresneau--Resende, Alexandre Legrand, R\u00e9mi Demeure, Eva Zusinaite, Andres Merits, Lucie Etienne, S\u00e9bastien Nisole",
+      "title": "SAMD9L inhibits flavivirus translation independently of its capacity to trigger innate immune response",
+      "description": "Author summary Flaviviruses are a group of viruses that include West Nile, Zika, dengue, Usutu, and tick-borne encephalitis viruses. They are transmitted by arthropods, either mosquitoes or ticks, and can cause serious and sometimes fatal illnesses as well as\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013773",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013773.g004&size=inline",
+      "publishedAt": "2025-12-08 14:00:00",
+      "content": "Abstract Interferon-stimulated genes (ISGs) play a pivotal role in the innate immune response to viral infection. Among them, SAMD9 and its paralog SAMD9L have recently emerged as important antivira\u2026 [+85946 chars]",
+      "retrievedAt": "2025-12-09 19:06:16.226134",
+      "internal_id": "9a7f6562537174ebb52acc11498837c006d13e8f6ab85f69c3a75b2747eb21ca",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26122,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Peter S. Andrus, Li-min Yang, Qing-chi Han, Zhi-heng Qi, Zhi-ying Hou, Xiao-nen Wu, Si-yuan Liu, Kun Wang, Jun-hu Chen, Robbie Rae, Christopher M. Wade, Yun-hai Guo, Xiao-nong Zhou",
+      "title": "Proteomic profiles of Lissachatina (Heterobranchia) and Pomacea (Caenogastropoda) snails infected with Angiostrongylus cantonensis using 4D label-free quantitative analysis",
+      "description": "Author summary Angiostrongylus cantonensis is a parasitic nematode that causes eosinophilic meningitis in humans and relies on a broad range of gastropod species to complete its life cycle. However, little is known about how this parasite interacts with its i\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013812",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013812.g005&size=inline",
+      "publishedAt": "2025-12-08 14:00:00",
+      "content": "Abstract Angiostrongylus cantonensis, the causative agent of human eosinophilic meningitis, utilizes terrestrial and freshwater gastropods as intermediate hosts. However, the molecular mechanisms un\u2026 [+67619 chars]",
+      "retrievedAt": "2025-12-09 19:06:16.574565",
+      "internal_id": "8801982186cb1c31fb8bc36ab5e26c2124d5267ffc78ed0410278f1e5aa01672",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26123,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Behailu Asmamaw, Temesgen Tamiru Tadese, Rediet Yifru Mamo, Berhanu Amare Taye, Abrham Workineh Azale, Yohannes Chemere Wondmeneh, Dagmawi Nega Shibeshi, Eunice Borkor Bortequaye, Temesgen Teklu Ziza, Temesgen Esayas Bolliso, Tiwabwork Tekalign, Awoke Guadie",
+      "title": "Magnitude of tuberculosis treatment outcomes and associated factors in public health institutions of Arba Minch town, Southern Ethiopia: A multi-centered retrospective cross-sectional study",
+      "description": "Background In Ethiopia, the incidence rate of tuberculosis (TB) has been steadily increasing, from 119 per 100,000 in 2021\u2013126 per 100,000 in 2022 and 146 per 100,000 in 2023. Moreover, TB remains the second leading cause of death after malaria, and the third\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338393",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338393.g002&size=inline",
+      "publishedAt": "2025-12-08 14:00:00",
+      "content": "Citation: Asmamaw B, Tadese TT, Mamo RY, Taye BA, Azale AW, Wondmeneh YC, et al. (2025) Magnitude of tuberculosis treatment outcomes and associated factors in public health institutions of Arba Minch\u2026 [+26747 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.034873",
+      "internal_id": "51a30526f37834f5b055954a3e4218f7daf758374bea37c6b97a31e2c6acf104",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26125,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "New mpox strain identified in England",
+      "description": "It's a mix of two major types of the virus, and has been found in someone who recently returned from Asia.",
+      "url": "https://www.bbc.com/news/articles/cm2087g0z9po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f4d4/live/e8127960-d437-11f0-8642-e5058b210012.jpg",
+      "publishedAt": "2025-12-08 13:56:49",
+      "content": "Philippa RoxbyHealth reporter A new strain of mpox, previously called monkeypox, has been detected in a person in England, say UK health officials. The virus is a mix of two major types of the mpox\u2026 [+2822 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.551196",
+      "internal_id": "7ea1a9f3016931441e2e9ae8284426450f985fdfbafd967cf55e8d95fe90fd8f",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26124,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "franceinfo",
+      "title": "Chikungunya : pr\u00e8s de la moiti\u00e9 des habitants de La R\u00e9union ont \u00e9t\u00e9 contamin\u00e9s en 2025",
+      "description": "L'\u00eele a connu cette ann\u00e9e sa plus forte \u00e9pid\u00e9mie de chikungunya depuis plus de vingt ans.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/jAw3q_ivTjCDdiuLSAFuEDK57Gg/630x780:4482x2951/1500x843/2025/03/05/maxnewsspecial859469-67c85b7fb763f985437956.jpg",
+      "publishedAt": "2025-12-08 11:09:08",
+      "content": "Pr\u00e8s de la moiti\u00e9 des habitants de La R\u00e9union, soit environ 450 000 personnes, ont \u00e9t\u00e9 contamin\u00e9s cette ann\u00e9e par le chikungunya, selon une \u00e9tude publi\u00e9e lundi 8 d\u00e9cembre par Sant\u00e9 publique France et\u2026 [+1350 chars]",
+      "retrievedAt": "2025-12-09 19:06:17.389230",
+      "internal_id": "c707010705a3c59f4df68739a6c126a6da88c63fd062e171feecf51144c02a94",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26110,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Michelle Starr",
+      "title": "US Man Dies From Rabies After Receiving Infected Kidney",
+      "description": "A recipient of a kidney transplant presented a medical mystery when he died from rabies in January 2025 only weeks after his surgery in an Ohio hospital, despite having had no documented contact with the disease.",
+      "url": "https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney",
+      "urlToImage": "https://www.sciencealert.com/images/2025/12/rabies_virus_header.jpg",
+      "publishedAt": "2025-12-08 11:00:55",
+      "content": "A recipient of a kidney transplant presented a medical mystery when he died from rabies in January 2025 only weeks after his surgery in an Ohio hospital, despite having had no documented contact with\u2026 [+3833 chars]",
+      "retrievedAt": "2025-12-09 19:06:15.127960",
+      "internal_id": "dcf8e4379a94fa3e66f166939015cbf61cd924a554db317d590cf42d7619a521",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26112,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Kendra Pierre-Louis, Lauren J. Young, Fonda Mwangi, Alex Sugiura",
+      "title": "Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power",
+      "description": "Vaccine controversies, space pollution, and puppy power.",
+      "url": "https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/5b055bc7c77585d9/original/2512_SQ_MON_DEC_08.png?m=1764964811.255&w=1200",
+      "publishedAt": "2025-12-08 11:00:00",
+      "content": "Kendra Pierre-Louis: For Scientific American\u2019s Science Quickly, I\u2019m Kendra Pierre-Louis, in for Rachel Feltman. You\u2019re listening to our weekly science news roundup. First up: vaccines. On Thursday a\u2026 [+8960 chars]",
+      "retrievedAt": "2025-12-09 19:06:15.357782",
+      "internal_id": "311b986127683e1f1c9cb3291c960708b73f1a121f98be9ee483eb302d50bdcb",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26118,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Julia Vergin",
+      "title": "M\u00fccken: Die gef\u00e4hrlichsten Tiere der Welt?",
+      "description": "Malaria, Dengue, Zika, West-Nil-Fieber \u2013 alles Krankheiten, die von M\u00fccken \u00fcbertragen werden k\u00f6nnen. J\u00e4hrlich sterben hunderttausende Menschen an solchen Infektionen. David Hancock w\u00e4re fast einer von ihnen gewesen. Es begann an einem Tag im Juni 2007 mit pl\u00f6\u2026",
+      "url": "https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767",
+      "urlToImage": "https://static.dw.com/image/75016613_6.jpg",
+      "publishedAt": "2025-12-08 10:18:00",
+      "content": "Es begann an einem Tag im Juni 2007 mit pl\u00f6tzlichem Fieber und heftigem Erbrechen. David Hancock sagt, er h\u00e4tte sofort ins Krankenhaus gehen sollen. Er dachte aber, eine kleine Infektion \u00fcberstehe er\u2026 [+6562 chars]",
+      "retrievedAt": "2025-12-09 19:06:16.169792",
+      "internal_id": "d1b633780d6fdc4be9f9a7feda5169cca8a4758d1350f8c086a16fdb2e8523fa",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26114,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Bird flu hasn't reached Australia, but researchers are prepping for when it arrives",
+      "description": "Bird flu, or H5N1, has touched most of the globe, but there is one spot it hasn't reached. Researchers down under are preparing for it, but gaps in bird flu surveillance elsewhere makes it difficult.",
+      "url": "https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-12-08 09:47:50",
+      "content": "Bird flu, or H5N1, has touched most of the globe, but there is one spot it hasn't reached. Researchers down under are preparing for it, but gaps in bird flu surveillance elsewhere makes it difficult.",
+      "retrievedAt": "2025-12-09 19:06:15.693876",
+      "internal_id": "a254bc36d5025cf384e9898fc28538a3a474953298cdb822641ebff4a7967beb",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26120,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Johor dengue cases down more than half from 2024, says exco member",
+      "description": "JOHOR BARU: Johor recorded a sharp decline in cumulative dengue cases for epidemiological week 49 (Epi Week 49) this year compared with the same period in 2024. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/12/08/johor-dengue-cases-down-more-than-half-from-2024-says-exco-member",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/08/3661037.jpg",
+      "publishedAt": "2025-12-08 09:17:00",
+      "content": "JOHOR BARU: Johor recorded a sharp decline in cumulative dengue cases for epidemiological week 49 (Epi Week 49) this year compared with the same period in 2024. State health and environment committe\u2026 [+1289 chars]",
+      "retrievedAt": "2025-12-09 19:06:16.214654",
+      "internal_id": "db458913da79578d44cade4b55a5be000723ff8a4286293b1c21b7449e7e833e",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26111,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041e\u043b\u0435\u0433 \u041b\u0438\u0449\u0443\u043a",
+      "title": "\u0414\u043e\u043d\u043e\u0440 \u043f\u0435\u0440\u0435\u0441\u0430\u0436\u0435\u043d\u043d\u043e\u0439 \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u0443\u043c\u0435\u0440\u0448\u0435\u043c\u0443 \u0440\u0435\u0446\u0438\u043f\u0438\u0435\u043d\u0442\u0443 \u043f\u043e\u0447\u043a\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u043c \u043e\u0442 \u0441\u043a\u0443\u043d\u0441\u0430",
+      "description": "\u0414\u043e\u043d\u043e\u0440 \u043f\u0435\u0440\u0435\u0441\u0430\u0436\u0435\u043d\u043d\u043e\u0439 \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u0443\u043c\u0435\u0440\u0448\u0435\u043c\u0443 \u0440\u0435\u0446\u0438\u043f\u0438\u0435\u043d\u0442\u0443 \u043f\u043e\u0447\u043a\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u043c \u043e\u0442 \u0441\u043a\u0443\u043d\u0441\u0430",
+      "url": "https://nplus1.ru/news/2025/12/08/rabid-transplant-details",
+      "urlToImage": "https://minio.nplus1.ru/app-images/1068580/693352a992d54_cover_share.jpg",
+      "publishedAt": "2025-12-08 08:00:00",
+      "content": "2025 . (CDC) Morbidity and Mortality Weekly Report(MMWR) . , , , , . , - Lyssavirus rabies Rhabdoviridae 100- . CDC, 1978 , 13 ( , ), . (Rebecca Earnest) CDC , 27 2025 . , , . , , . , , . . , C\u2026 [+181 chars]",
+      "retrievedAt": "2025-12-09 19:06:15.148959",
+      "internal_id": "5c721d31a71f8ff2de16380cf18ee96ada3f2dc440354db16c73c186a2d0e21f",
+      "publishedAtLabel": "Dec 8"
+    },
     {
       "id": 26108,
       "query": [
@@ -14264,150 +14807,6 @@
       "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
       "retrievedAt": "2025-10-28 07:07:47.796397",
       "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25323,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
-      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
-      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
-      "publishedAt": "2025-10-26 19:00:00",
-      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
-      "retrievedAt": "2025-10-28 07:07:48.587929",
-      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
-      "title": "Por a\u00f1os hemos llenado de antibi\u00f3ticos a ni\u00f1os en \u00c1frica: la ciencia cree que deber\u00edamos parar",
-      "description": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicios de salud. En 2020, la Organizaci\u00f3n Mundial de la Salud (OM\u2026",
-      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar",
-      "urlToImage": "https://i.blogs.es/c3e2a7/ninos_africa_antibioticos/840_560.png",
-      "publishedAt": "2025-10-26 18:00:46",
-      "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
-      "retrievedAt": "2025-10-27 19:05:59.560063",
-      "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25349,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "\u0130HA",
-      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
-      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
-      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
-      "publishedAt": "2025-10-26 17:51:38",
-      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
-      "retrievedAt": "2025-10-29 07:08:03.657067",
-      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25315,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Anlatilaninotesi.com.tr",
-      "author": "Sputnik T\u00fcrkiye",
-      "title": "Sivrisineklerin ta\u015f\u0131d\u0131\u011f\u0131 tehlike: Hong Kong\u2019da y\u0131llar sonra ilk vakalar",
-      "description": "Hong Kong\u2019da uzun s\u00fcredir g\u00f6r\u00fclmeyen Chikungunya ate\u015fi yeniden ortaya \u00e7\u0131kt\u0131. Yetkililer, hastan\u0131n ya\u015fad\u0131\u011f\u0131 b\u00f6lge \u00e7evresinde binlerce ki\u015finin risk alt\u0131nda olabilece\u011fini bildirerek sivrisinek ila\u00e7lamas\u0131n\u0131 h\u0131zland\u0131rma \u00e7a\u011fr\u0131s\u0131 yapt\u0131.",
-      "url": "https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html",
-      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100487215.jpg?11004864851761485541",
-      "publishedAt": "2025-10-26 13:32:22",
-      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html Sivrisinekl\u2026 [+2718 chars]",
-      "retrievedAt": "2025-10-27 19:06:00.992064",
-      "internal_id": "82a5565c5f8e2545656344626b89ba0e2451a29e51635189bb529a9770c19a68",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25313,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": null,
-      "title": "Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm",
-      "description": "Bird flu outbreak hits third Georgia commercial poultry operation this year, affecting 140,000 chickens as state officials work to contain HPAI spread.",
-      "url": "https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/us-poultry-farm.jpg",
-      "publishedAt": "2025-10-26 11:41:41",
-      "content": "A Georgia chicken producer is working to stop the spread of the Highly Pathogenic Avian Influenza (HPAI), more commonly known as bird flu, after becoming the third commercial operation in the state t\u2026 [+1913 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.921702",
-      "internal_id": "915a198c02df0117e7f8c53d5838ac9f7fa05c096c0bb6cf906d411aa0d3028e",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25316,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'den bir vir\u00fcs alarm\u0131 daha: Bir ki\u015fide Chikungunya \u00e7\u0131kt\u0131, 8 bin ki\u015fi riskli ilan edildi",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-10/26/cin.jpg",
-      "publishedAt": "2025-10-26 11:16:51",
-      "content": "South China Morning Post'un haberine g\u00f6re, kentin Kawloon il\u00e7esindeki Dimond Hill semtine bal Fung Tak Yerleimi'nde ikamet eden 82 yandaki bir kadn hastada Chikungunya vir\u00fcs\u00fcne rastland. Vaka, Hong \u2026 [+1219 chars]",
-      "retrievedAt": "2025-10-27 19:06:01.009373",
-      "internal_id": "cd7bf619ff2adb04a3ed4dd80a85a770d8d8d91e679c87f2af9dcbeaf77cc975",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25317,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Turkiyegazetesi.com.tr",
-      "author": "Anadolu Ajans\u0131",
-      "title": "\u00c7in'de bu sivrisinekler vir\u00fcs sa\u00e7\u0131yor! Yerle\u015fim yerleri risk alt\u0131nda",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi. Bu durum, Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vaka olarak kayda ge\u00e7erken hastal\u0131\u011f\u0131n tespit edi\u2026",
-      "url": "https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600",
-      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/26/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-17614788746265.jpg",
-      "publishedAt": "2025-10-26 11:12:15",
-      "content": "",
-      "retrievedAt": "2025-10-27 19:06:01.018746",
-      "internal_id": "5a409b687e2331a741bc34504ea7ede347528d600682a3d9fb428203de725edf",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25312,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Toddler dies of measles in Jerusalem",
-      "description": "Hadassah Ein Kerem Hospital in Jerusalem announced that a two-year-old girl died from measles complications.",
-      "url": "https://www.israelnationalnews.com/news/416818",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
-      "publishedAt": "2025-10-26 07:15:00",
-      "content": "A two-year-old girl has died at Hadassah Ein Kerem Hospital in Jerusalem from complications caused by measles, raising the death toll of the ongoing outbreak of the disease to eight, all under the ag\u2026 [+837 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.662696",
-      "internal_id": "c1a8ab9475f99b791d1d2012b81c50c50cc45a103e9cb9d007a597a996839558",
       "publishedAtLabel": "Oct 26"
     }
   ]
