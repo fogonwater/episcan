@@ -1,8 +1,299 @@
 {
-  "last_updated": "2025-12-10 07:09",
-  "count_articles_total": 845,
-  "count_articles_new": 17,
+  "last_updated": "2025-12-10 19:06",
+  "count_articles_total": 853,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 26168,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "New strain of mpox virus: What you need to know",
+      "description": "A hybrid form of mpox has been identified in the UK. Health professionals are not surprised that the sexually transmitted virus has evolved but say it's a reminder of the need for precaution.",
+      "url": "https://www.dw.com/en/new-strain-of-mpox-virus-what-you-need-to-know/a-75077995",
+      "urlToImage": "https://static.dw.com/image/70000347_6.jpg",
+      "publishedAt": "2025-12-09 18:49:00",
+      "content": "Health authorities in the United Kingdomconfirmed on December 8, 2025, that they had detected a so-called \"recombinant\" version of the mpox virus in a male patient. A virus becomes a recombinant vir\u2026 [+6150 chars]",
+      "retrievedAt": "2025-12-10 19:06:52.997072",
+      "internal_id": "dec46894bc065f343f0bffc3aba9b94d0619de14c732c861a16eae5a26f22dc7",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26160,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Charleston Post Courier",
+      "author": "Tom Corwin",
+      "title": "SC measles outbreak explodes with 27 new cases, new school",
+      "description": "New measles infections at a Spartanburg County church and schools brought number of SC cases to 111 with 250 quarantined \u2014 the 3rd largest outbreak in U.S.",
+      "url": "https://www.postandcourier.com/health/sc-measles-outbreak-spartanburg-school/article_207caa8b-a4bd-486b-ab66-1b297688f87b.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/0/8e/08e05133-4335-4032-809f-f2c3c7f81eb2/688a226a43ea6.image.jpg?crop=1661%2C872%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-12-09 18:23:36",
+      "content": "The measles outbreak in South Carolina exploded with 27 new infections, the Department of Public Health reported Dec. 9, more than double any previous update and pushing the state to one of the highe\u2026 [+1833 chars]",
+      "retrievedAt": "2025-12-10 19:06:50.483078",
+      "internal_id": "ee392c62de000a06e49a59f391d49ae16ada00231069c13635d843bab8ed3cc0",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26159,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Public Health warns of measles exposures at church, arena in southern Manitoba",
+      "description": "Public health officials are warning people might have been exposed to measles at a church and an arena in southern Manitoba.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-church-arena-plum-coulee-winkler-9.7008711",
+      "urlToImage": "https://i.cbc.ca/ais/1.7508947,1744474317000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C5760%2C3240%29%3BResize%3D620",
+      "publishedAt": "2025-12-09 18:17:52",
+      "content": "Public health officials are warning people might have been exposed to measles at a church and an arena in southern Manitoba. Those who were at the C.J. Dyck Arena in Plum Coulee, about 90 kilometre\u2026 [+1790 chars]",
+      "retrievedAt": "2025-12-10 19:06:50.438972",
+      "internal_id": "f4004088b71700cb45f2082a3478d3cbdda73b042c07bce86167c18a585ec490",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26158,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles exposure alert issued for flight from Toronto to Edmonton",
+      "description": "A confirmed case of the measles at the Edmonton International Airport has prompted a public health alert warning travellers of the risk of potential exposure to the highly contagious infection.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/measles-edmonton-airport-9.7008613",
+      "urlToImage": "https://i.cbc.ca/ais/1.2573514,1394832910000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D620",
+      "publishedAt": "2025-12-09 17:15:07",
+      "content": "A confirmed case of the measles at the Edmonton International Airport has prompted a public health alert warning travellers of the risk of potential exposure to the highly contagious infection. Acco\u2026 [+2504 chars]",
+      "retrievedAt": "2025-12-10 19:06:50.429214",
+      "internal_id": "fc852339bd48a1e366df0c1d298c97975366960f62893ed1302a37bc8317a56a",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26161,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0398\u03b5\u03cc\u03c6\u03b9\u03bb\u03bf\u03c2 \u039c\u03c0\u03bb\u03bf\u03c5\u03b4\u03ac\u03bd\u03b7\u03c2",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c0\u03b1\u03bd\u03af\u03b1 \u2013 400 \u03c0\u03b5\u03bb\u03b1\u03c1\u03b3\u03bf\u03af \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03b7 \u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7",
+      "description": "\u0397 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 \u03c0\u03c1\u03bf\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5 \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc \u03c3\u03c4\u03b7 \u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7. \u03a0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 400 \u03c0\u03b5\u03bb\u03b1\u03c1\u03b3\u03bf\u03af \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03cc\u03c7\u03b8\u03b5\u03c2 \u03c4\u03bf\u03c5 \u039c\u03b1\u03bd\u03b8\u03b1\u03bd\u03ac\u03c1\u03b5\u03c2, \u03c3\u03c4\u03bf\u03bd \u03b4\u03ae\u03bc\u03bf \u0393\u03ba\u03b5\u03c4\u03ac\u03c6\u03b5 \u03c4\u03b7\u03c2 \u0399\u03c3\u03c0\u03b1\u03bd\u03af\u03b1\u03c2, \u03bf\u03b4\u03b7\u03b3\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b9\u03c2 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u0399\u03c3\u03c0\u03b1\u03bd\u03af\u03b1 \u2013 400 \u03c0\u03b5\u03bb\u03b1\u03c1\u03b3\u03bf\u03af \u03b2\u03c1\u03ad\u03b8\u2026",
+      "url": "https://www.newsit.gr/kosmos/synagermos-gia-tin-gripi-ton-ptinon-stin-ispania-400-pelargoi-vrethikan-nekroi-konta-sti-madriti/4547516/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/12/stork-reuters-1200x630.jpg",
+      "publishedAt": "2025-12-09 17:01:16",
+      "content": "19:01 9 2025 / / AP Photo / Michael Probst . 400 , , . (HPAI), . . HPAI, , . : , , . , , , . , . 200 , 2022, .",
+      "retrievedAt": "2025-12-10 19:06:50.720506",
+      "internal_id": "f7502fac3ff89e856a5336ca0a04c995f2fe66df77983f5120fa2fdc489de6e1",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26162,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0395\u03ba\u03b1\u03c4\u03bf\u03bd\u03c4\u03ac\u03b4\u03b5\u03c2 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c0\u03b5\u03bb\u03b1\u03c1\u03b3\u03bf\u03af \u03c3\u03c4\u03b7 \u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7, \u03ad\u03c1\u03b5\u03c5\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u0395\u03bd\u03ce \u03bf\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c0\u03b9\u03c3\u03b1\u03bd \u03ad\u03bd\u03b1 \u03be\u03ad\u03c3\u03c0\u03b1\u03c3\u03bc\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c7\u03b1\u03bc\u03b7\u03bb\u03ae\u03c2 \u03c0\u03b1\u03b8\u03bf\u03b3\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 (LPAI) \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03bb\u03af\u03b3\u03b5\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2, \u03c4\u03ce\u03c1\u03b1 \u03c5\u03c0\u03bf\u03c8\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9, \u00ab\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd\u00bb, \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03b5\u03bd\u03cc\u03c2 \u03be\u03b5\u03c3\u03c0\u03ac\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c5\u03c8\u03b7\u03bb\u03ae\u03c2 \u03c0\u03b1\u03b8\u03bf\u03b3\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 (HPAI) | \u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7 | \u03a0\u2026",
+      "url": "https://www.protothema.gr/world/article/1740296/ekatodades-nekroi-pelargoi-sti-madriti-ereunes-gia-gripi-ton-ptinon/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-12-09/pelargos.jpg",
+      "publishedAt": "2025-12-09 16:55:17",
+      "content": ", - , , Zero Drop Mornos.",
+      "retrievedAt": "2025-12-10 19:06:50.730209",
+      "internal_id": "96d2087bf6285b77252d49aea9509c5c22e86648ce3e6d668f59b7379cec03e3",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26172,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Overclockers.ru",
+      "author": "PoZiTiv4iK",
+      "title": "\u0418\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u0435 \u0432\u0443\u043b\u043a\u0430\u043d\u0430 \u043c\u043e\u0433\u043b\u043e \u043f\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u0432 XIV \u0432\u0435\u043a\u0435 \u043a \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u0447\u0443\u043c\u044b \u0432 \u0415\u0432\u0440\u043e\u043f\u0435",
+      "description": "\u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u0432\u0443\u043b\u043a\u0430\u043d \u043f\u043e\u0433\u0440\u0443\u0437\u0438\u043b \u043c\u0438\u0440 \u0432\u043e \u0442\u044c\u043c\u0443 \u0438 \u0445\u043e\u043b\u043e\u0434, \u043f\u043e\u0442\u043e\u043c \u043b\u044e\u0434\u0438 \u0441\u0442\u0430\u043b\u0438 \u0441\u043f\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0433\u043e\u043b\u043e\u0434\u0430 \u0438\u043c\u043f\u043e\u0440\u0442\u043d\u044b\u043c \u0437\u0435\u0440\u043d\u043e\u043c, \u0430 \u043f\u0440\u0438\u0432\u0435\u0437\u043b\u0438 \u0441 \u0441\u043e\u0431\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u044c. \u041d\u043e\u0432\u043e\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442, \u0447\u0442\u043e \u043c\u043e\u0449\u043d\u043e\u0435 \u0438\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u0435 \u0432\u0443\u043b\u043a\u0430\u043d\u0430 \u0432 1345 \u0433\u043e\u0434\u0443 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b\u043e \u0446\u0435\u043f\u044c \u0441\u043e\u0431\u044b\u0442\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u0440\u0438\u0432\u0435\u043b\u0430 \u043a \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u0447\u0443\u043c\u044b \u0432 \u0415\u2026",
+      "url": "https://overclockers.ru/blog/Global_Chronicles/show/245225/Izverzhenie-vulkana-privelo-v-XIV-veke-k-pandemii-chumy-v-Evrope",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/705550_O.png",
+      "publishedAt": "2025-12-09 15:50:41",
+      "content": "\u00ab \u00bb, XIV , , . , , . 1345 . . , . 1345 1347. . . , -, . , . . , , . 1347 , . , . . . , , Yersinia pestis. , . . . , , , , . , , . : , , . . . , . , . . , , , .",
+      "retrievedAt": "2025-12-10 19:06:53.884073",
+      "internal_id": "537faf200ff3bb165fb1a9dde02f0b095fdc7fa69919a6c7b91c875d45c2023d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26163,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Dengue: Sa\u00fade divulga estrat\u00e9gia para vacina\u00e7\u00e3o com doses do Butantan",
+      "description": "Montante com 1,3 milh\u00e3o de doses deve estar dispon\u00edvel at\u00e9 o fim de janeiro de 2026 e prioridade ser\u00e1 para grupos mais expostos; entenda",
+      "url": "https://veja.abril.com.br/saude/dengue-saude-divulga-estrategia-para-vacinacao-com-doses-do-butantan/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/12/interna-dengue-aprovada-1.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-12-09 15:46:14",
+      "content": "Prorrogamos a Black: VEJA por apenas 5,99RIGOR -Butantan-DV: produto eficaz contra os quatro tipos do v\u00edrus (Renato Rodrigues/Comunica\u00e7\u00e3o Butantan//) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade\u2026 [+5184 chars]",
+      "retrievedAt": "2025-12-10 19:06:51.337601",
+      "internal_id": "715eee5660ca41c062467f9aca144b70fb77f612d1c17b4555524625693ea525",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26166,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Francis M. Musili, James Mutisya, Solomon Langat, Betty Chelangat, Victor Anyango, Edith Chepkorir, Samson Konongoi, Rosemary Sang, Armanda Bastos, Joel Lutomiah",
+      "title": "Role of invasive Aedes (Aedimorphus) vittatus in chikungunya virus transmission in the newly-invaded coastal island city of Mombasa, Kenya",
+      "description": "Author summary Aedes vittatus poses a growing public health threat due to its extensive geographic range and proven capacity to transmit various medically important arboviruses, such as yellow fever, dengue, chikungunya, and Zika viruses. Mombasa city is beco\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013738",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013738.g009&size=inline",
+      "publishedAt": "2025-12-09 14:00:00",
+      "content": "Abstract Background Countrywide routine entomological surveillance studies in Kenya from 2006 first identified Aedes vittatus, in small numbers (4 specimens), in Mombasa city in 2014 during a dengu\u2026 [+55354 chars]",
+      "retrievedAt": "2025-12-10 19:06:51.451285",
+      "internal_id": "8d51624234797dc96ebcd128b073ea42860870162a7d9d5c31830d9485e5df1d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26171,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "\u0130ngiltere'de maymun \u00e7i\u00e7e\u011fi varyant\u0131 tespit edildi: Yetkililerden 'evrimle\u015febilir' uyar\u0131s\u0131",
+      "description": "\u0130ngiltere'de \u2018maymun \u00e7i\u00e7e\u011fi\u2019 olarak bilinen mpox vir\u00fcs\u00fcn\u00fcn yeni bir varyant\u0131n\u0131n tespit edildi\u011fi bildirildi. \u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131 (UKHSA), vir\u00fcs\u00fcn evrimle\u015fme potansiyeli bulundu\u011funu kaydetti.",
+      "url": "https://www.hurriyet.com.tr/dunya/ingilterede-maymun-cicegi-varyanti-tespit-edildi-yetkililerden-evrimlesebilir-uyarisi-43048229",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/69380f629217d56cb45264db.jpg",
+      "publishedAt": "2025-12-09 12:01:00",
+      "content": "p&gt;UKHSA, \u00fclkede yakn zamanda Asya'ya seyahat etmi bir kiide yeni bir rekombinant mpox vir\u00fcs\u00fc tespit edildiini a\u00e7klad.A\u00e7klamada, tespit edilen yeni mpox varyantnn gen diziliminde, Clade Ib ve Clade\u2026 [+735 chars]",
+      "retrievedAt": "2025-12-10 19:06:53.167819",
+      "internal_id": "b65185afbed0b12601af3fff6ea841c78bf992c6603e2d19e3157bf3570290f3",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26165,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Aaron Araiza",
+      "title": "Casos de dengue van a la baja en Sonora; suman cinco defunciones en la temporada",
+      "description": "La Secretar\u00eda de Salud en Sonora confirm\u00f3 que los casos de dengue han ido a la baja; hasta el momento siguen sumando cinco defunciones",
+      "url": "https://www.tribuna.com.mx/sonora/2025/12/9/casos-de-dengue-van-la-baja-en-sonora-suman-cinco-defunciones-en-la-temporada-421960.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/11/f1280x720-477414_609089_5050.png",
+      "publishedAt": "2025-12-09 12:00:00",
+      "content": "Hermosillo, Sonora.- Sonora suma cuatro semanas consecutivas que conserva a la baja de casos confirmados de dengue, situ\u00e1ndose como una enfermedad controlada, confirm\u00f3 el Secretario de Salud en la en\u2026 [+936 chars]",
+      "retrievedAt": "2025-12-10 19:06:51.433161",
+      "internal_id": "eba3dbdc1739e06073da161de26a93a692f08edabbe4422f7156aa9ad644b42d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26164,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Surto de dengue e chikungunya j\u00e1 matou mais de 40 pessoas em Cuba",
+      "description": "Surto de dengue e chikungunya em Cuba j\u00e1 causou 44 mortes, incluindo 29 crian\u00e7as e adolescentes. A crise sanit\u00e1ria se agrava por falta de higiene, ac\u00famulo de lixo e escassez de recursos b\u00e1sicos. Saiba mais sobre como essa epidemia impacta o pa\u00eds.",
+      "url": "https://www.terra.com.br/noticias/mundo/surto-de-dengue-e-chikungunya-ja-matou-mais-de-40-pessoas-em-cuba,22ab03b3fb40d8ef3cdfc4328ff467c02h2tmgt3.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/12/09/mosquito_dengue_aedes-qxyx3byl5ano.jpg",
+      "publishedAt": "2025-12-09 11:23:52",
+      "content": "ResumoUm surto de dengue e chikungunya em Cuba j\u00e1 causou 44 mortes, sendo 29 de crian\u00e7as e adolescentes, agravado por crise econ\u00f4mica, falta de higiene e recursos b\u00e1sicos. Em Cuba, ao menos 44 pesso\u2026 [+1156 chars]",
+      "retrievedAt": "2025-12-10 19:06:51.348229",
+      "internal_id": "60787069d98a127600a41cb098f0de52ea175009baf6b188ae2a707c07e6c367",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26157,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "12th case: 11-month-old infant dies of measles complications",
+      "description": "The Health Ministry announced that an 11-month-old unvaccinated infant with no preexisting conditions passed away from complications of the measles.",
+      "url": "https://www.israelnationalnews.com/news/419059",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1043908.jpg",
+      "publishedAt": "2025-12-09 11:17:44",
+      "content": "An 11-month-old infant passed away on Tuesday after contracting measles and suffering from complications of the disease. The Health Ministry stated that the infant, who had not been vaccinated and h\u2026 [+1439 chars]",
+      "retrievedAt": "2025-12-10 19:06:50.409741",
+      "internal_id": "b904467e95ba6d0a6159fcc69ae74a851feaa48651b031868a8efeda439ab386",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26170,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "Mpox vir\u00fcs\u00fcnde yeni varyant\u0131n g\u00f6r\u00fclmesi sonras\u0131 uzmanlar a\u015f\u0131 hat\u0131rlatmas\u0131 yapt\u0131",
+      "description": "\u0130ngiltere\u2019de \u2018m \u00e7i\u00e7e\u011fi\u2019 olarak bilinen mpox vir\u00fcs\u00fcn\u00fcn yeni bir varyant\u0131n\u0131n tespit edildi\u011fi duyuruldu.",
+      "url": "https://www.patronlardunyasi.com/mpox-virusunde-yeni-varyantin-gorulmesi-sonrasi-uzmanlar-asi-hatirlatmasi-yapti",
+      "urlToImage": "https://i.pdimage.com/static/content/25-12/09/mpox-virusunde-yeni-tur.jpg",
+      "publishedAt": "2025-12-09 10:57:34",
+      "content": "ngiltere Salk G\u00fcvenlii Ajans (UKHSA), \u00fclkede yakn zamanda Asya'ya seyahat etmi bir kiide yeni bir rekombinant mpox vir\u00fcs\u00fc tespit edildiini a\u00e7klad. A\u00e7klamada, tespit edilen yeni mpox varyantnn gen di\u2026 [+788 chars]",
+      "retrievedAt": "2025-12-10 19:06:53.116371",
+      "internal_id": "2e54a969859da1896e38201edf39d6903af203a6edce3d167f0e4a38a9834a6e",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26167,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Erin Hale, John Power",
+      "title": "Israel\u2019s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
+      "description": "Ehud Barak explored many business ventures with Jeffrey Epstein, including a deal to sell a US tycoon's oil empire.",
+      "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/2019-06-26T160256Z_1992502454_RC19F348F090_RTRMADP_3_ISRAEL-POLITICS-BARAK-1765170295_ba8a3a-1765173350.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-12-09 07:50:39",
+      "content": "An Israeli drone company, malaria testing technology, and the proposed sale of an American billionaires oil and gas empire are among the many previously unknown business ventures that former Israeli \u2026 [+14556 chars]",
+      "retrievedAt": "2025-12-10 19:06:52.246678",
+      "internal_id": "8ffdc8d14ead998e13be35e84ddec124fd3609dc7943b6569dbef99a0998bd22",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26169,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Maymun \u00e7i\u00e7e\u011finin yeni bir varyant\u0131 tespit edildi",
+      "description": "\u0130ngiltere'de maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcn\u00fcn yeni bir varyant\u0131 tespit edildi. Daha \u00f6nce \u201cmaymun \u00e7i\u00e7e\u011fi\u201d olarak bilinen mpox vir\u00fcs\u00fcn\u00fcn yeni t\u00fcr\u00fcn\u00fcn, Asya\u2019ya yak\u0131n zamanda seyahat eden bir ki\u015fide saptand\u0131\u011f\u0131 ifade edildi.",
+      "url": "https://anlatilaninotesi.com.tr/20251209/maymun-ciceginin-yeni-bir-varyanti-tespit-edildi-1101645294.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1101645294.jpg?11015471061765264670",
+      "publishedAt": "2025-12-09 07:17:50",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251209/maymun-ciceginin-yeni-bir-varyanti-tespit-edildi-1101645294.html Maymun \u00e7i\u00e7einin yeni bir varyant \u2026 [+1531 chars]",
+      "retrievedAt": "2025-12-10 19:06:53.073066",
+      "internal_id": "308a41a94cc16418f8c50e8b05099c34a5db434b6f671bc7a17d9463091168d1",
+      "publishedAtLabel": "Dec 9"
+    },
     {
       "id": 26141,
       "query": [
@@ -15116,150 +15407,6 @@
       "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
       "retrievedAt": "2025-10-28 07:07:47.796397",
       "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25323,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
-      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
-      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
-      "publishedAt": "2025-10-26 19:00:00",
-      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
-      "retrievedAt": "2025-10-28 07:07:48.587929",
-      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
-      "title": "Por a\u00f1os hemos llenado de antibi\u00f3ticos a ni\u00f1os en \u00c1frica: la ciencia cree que deber\u00edamos parar",
-      "description": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicios de salud. En 2020, la Organizaci\u00f3n Mundial de la Salud (OM\u2026",
-      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar",
-      "urlToImage": "https://i.blogs.es/c3e2a7/ninos_africa_antibioticos/840_560.png",
-      "publishedAt": "2025-10-26 18:00:46",
-      "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
-      "retrievedAt": "2025-10-27 19:05:59.560063",
-      "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25349,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "\u0130HA",
-      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
-      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
-      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
-      "publishedAt": "2025-10-26 17:51:38",
-      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
-      "retrievedAt": "2025-10-29 07:08:03.657067",
-      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25315,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Anlatilaninotesi.com.tr",
-      "author": "Sputnik T\u00fcrkiye",
-      "title": "Sivrisineklerin ta\u015f\u0131d\u0131\u011f\u0131 tehlike: Hong Kong\u2019da y\u0131llar sonra ilk vakalar",
-      "description": "Hong Kong\u2019da uzun s\u00fcredir g\u00f6r\u00fclmeyen Chikungunya ate\u015fi yeniden ortaya \u00e7\u0131kt\u0131. Yetkililer, hastan\u0131n ya\u015fad\u0131\u011f\u0131 b\u00f6lge \u00e7evresinde binlerce ki\u015finin risk alt\u0131nda olabilece\u011fini bildirerek sivrisinek ila\u00e7lamas\u0131n\u0131 h\u0131zland\u0131rma \u00e7a\u011fr\u0131s\u0131 yapt\u0131.",
-      "url": "https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html",
-      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100487215.jpg?11004864851761485541",
-      "publishedAt": "2025-10-26 13:32:22",
-      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html Sivrisinekl\u2026 [+2718 chars]",
-      "retrievedAt": "2025-10-27 19:06:00.992064",
-      "internal_id": "82a5565c5f8e2545656344626b89ba0e2451a29e51635189bb529a9770c19a68",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25313,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": null,
-      "title": "Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm",
-      "description": "Bird flu outbreak hits third Georgia commercial poultry operation this year, affecting 140,000 chickens as state officials work to contain HPAI spread.",
-      "url": "https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/us-poultry-farm.jpg",
-      "publishedAt": "2025-10-26 11:41:41",
-      "content": "A Georgia chicken producer is working to stop the spread of the Highly Pathogenic Avian Influenza (HPAI), more commonly known as bird flu, after becoming the third commercial operation in the state t\u2026 [+1913 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.921702",
-      "internal_id": "915a198c02df0117e7f8c53d5838ac9f7fa05c096c0bb6cf906d411aa0d3028e",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25316,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'den bir vir\u00fcs alarm\u0131 daha: Bir ki\u015fide Chikungunya \u00e7\u0131kt\u0131, 8 bin ki\u015fi riskli ilan edildi",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-10/26/cin.jpg",
-      "publishedAt": "2025-10-26 11:16:51",
-      "content": "South China Morning Post'un haberine g\u00f6re, kentin Kawloon il\u00e7esindeki Dimond Hill semtine bal Fung Tak Yerleimi'nde ikamet eden 82 yandaki bir kadn hastada Chikungunya vir\u00fcs\u00fcne rastland. Vaka, Hong \u2026 [+1219 chars]",
-      "retrievedAt": "2025-10-27 19:06:01.009373",
-      "internal_id": "cd7bf619ff2adb04a3ed4dd80a85a770d8d8d91e679c87f2af9dcbeaf77cc975",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25317,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Turkiyegazetesi.com.tr",
-      "author": "Anadolu Ajans\u0131",
-      "title": "\u00c7in'de bu sivrisinekler vir\u00fcs sa\u00e7\u0131yor! Yerle\u015fim yerleri risk alt\u0131nda",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi. Bu durum, Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vaka olarak kayda ge\u00e7erken hastal\u0131\u011f\u0131n tespit edi\u2026",
-      "url": "https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600",
-      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/26/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-17614788746265.jpg",
-      "publishedAt": "2025-10-26 11:12:15",
-      "content": "",
-      "retrievedAt": "2025-10-27 19:06:01.018746",
-      "internal_id": "5a409b687e2331a741bc34504ea7ede347528d600682a3d9fb428203de725edf",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25312,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Toddler dies of measles in Jerusalem",
-      "description": "Hadassah Ein Kerem Hospital in Jerusalem announced that a two-year-old girl died from measles complications.",
-      "url": "https://www.israelnationalnews.com/news/416818",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
-      "publishedAt": "2025-10-26 07:15:00",
-      "content": "A two-year-old girl has died at Hadassah Ein Kerem Hospital in Jerusalem from complications caused by measles, raising the death toll of the ongoing outbreak of the disease to eight, all under the ag\u2026 [+837 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.662696",
-      "internal_id": "c1a8ab9475f99b791d1d2012b81c50c50cc45a103e9cb9d007a597a996839558",
       "publishedAtLabel": "Oct 26"
     }
   ]
