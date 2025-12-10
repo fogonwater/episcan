@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2025-12-09 19:06
-- **Most recent article:** 2025-12-08 18:33:21
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-12-10 07:09
+- **Most recent article:** 2025-12-09 05:06:54
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 21 | 59 | 27 | 18 | 15 | 3 | 177 |
-| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 4 | 162 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 7 | 161 |
-| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 2 | 111 |
-| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 15 | 58 |
-| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 6 | 45 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 3 | 31 |
-| zika | 4 | 9 | 2 | 1 | 2 | 6 | 2 | 26 |
-| meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 1 | 25 |
+| measles | 35 | 21 | 59 | 27 | 18 | 15 | 3 | 178 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 15 | 169 |
+| h5n1 | 34 | 32 | 31 | 21 | 29 | 13 | 4 | 164 |
+| malaria | 16 | 19 | 20 | 12 | 17 | 26 | 2 | 112 |
+| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 18 | 61 |
+| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 9 | 51 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 7 | 35 |
+| zika | 4 | 9 | 2 | 1 | 2 | 6 | 3 | 27 |
+| meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 2 | 26 |
 | pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 0 | 19 |
 | yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 2 | 15 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 0 | 15 |
-| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 0 | 12 |
+| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 0 | 13 |
 | typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 0 | 8 |
 | shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-50 (zika)
+
+- [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
 
 - [SAMD9L inhibits flavivirus translation independently of its capacity to trigger innate immune response](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013773) (Plos.org)
 
@@ -47,6 +49,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (rabies)
 
+- [How long can rabies survive in open air?](https://www.lifesciencesworld.com/how-long-can-rabies-survive-in-open-air/) (Lifesciencesworld.com)
+
+- [Why can’t you touch a bat?](https://www.lifesciencesworld.com/why-cant-you-touch-a-bat/) (Lifesciencesworld.com)
+
+- [What animal gives human rabies the most?](https://www.lifesciencesworld.com/what-animal-gives-human-rabies-the-most/) (Lifesciencesworld.com)
+
+- [Do you need a rabies shot?](https://www.yalemedicine.org/news/do-you-need-a-rabies-shot) (Yalemedicine.org)
+
 - [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
 
 - [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
@@ -54,6 +64,12 @@ Source: [News API](https://newsapi.org/)
 - [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
 
 ## 25-50 (mpox)
+
+- [Ny mpox-variant ryster eksperter: De frygtede symptomer kan være på vej tilbage](https://www.bt.dk/sundhed/ny-mpox-variant-ryster-eksperter-de-frygtede-symptomer-kan-vaere-paa-vej-tilbage) (Www.bt.dk)
+
+- [Virus Mpox: ¿cuántas variantes existen y cuáles están en México?](https://www.excelsior.com.mx/salud/cuantas-variantes-del-virus-mpox-existen-y-cuales-hay-en-mexico/1756290) (Excelsior.com.mx)
+
+- [Reino Unido confirma nova variante de Mpox](https://saude.ig.com.br/2025-12-08/reino-unido-confirma-nova-variante-de-mpox.html) (Ig.com.br)
 
 - [Reino Unido detecta una nueva variante de mpox en un viajero reciente de Asia](https://www.nacion.com/el-mundo/reino-unido-detecta-una-nueva-variante-de-mpox-en/SQYFUNGUOREZPAKJMUV4AVUWKY/story/) (Nacion.com)
 
@@ -87,6 +103,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (meningitis)
 
+- [Biguanide-functionalized peptide mimics effectively combat drug-resistant ESKAPE pathogens and meningitis](https://www.nature.com/articles/s41467-025-67044-5) (Nature.com)
+
 - [Proteomic profiles of Lissachatina (Heterobranchia) and Pomacea (Caenogastropoda) snails infected with Angiostrongylus cantonensis using 4D label-free quantitative analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013812) (Plos.org)
 
 ## 25-50 (measles)
@@ -115,6 +133,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (dengue)
 
+- [Suben a 44 los muertos por chikungunya y dengue en Cuba](https://www.bostonherald.com/2025/12/08/suben-a-44-los-muertos-por-chikungunya-y-dengue-en-cuba/) (Boston Herald)
+
+- [Anvisa publica registro de vacina contra a dengue do Butantan](https://veja.abril.com.br/saude/anvisa-publica-registro-de-vacina-contra-a-dengue-do-butantan/) (Abril.com.br)
+
+- [Brasileiro está entre os 10 cientistas que moldaram a ciência em 2025](https://www.metropoles.com/ciencia/cientista-brasileiro-nature-2025) (Metropoles.com)
+
+- [Infectologistas explicam como reconhecer os sintomas da dengue](https://www.metropoles.com/saude/como-reconhecer-sintomas-dengue) (Metropoles.com)
+
+- [Dengue: Anvisa concede registro à vacina produzida pelo Butantan](https://ultimosegundo.ig.com.br/brasil/2025-12-08/dengue--anvisa-concede-registro-a-vacina-produzida-pelo-butantan.html) (Ig.com.br)
+
+- [Estratégia brasileira contra a dengue leva pesquisador à lista dos nomes da ciência em 2025](https://olhardigital.com.br/2025/12/08/medicina-e-saude/estrategia-brasileira-contra-a-dengue-leva-pesquisador-a-lista-dos-nomes-da-ciencia-em-2025/) (Olhardigital.com.br)
+
+- [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
+
+- [Anvisa publica registro da vacina contra a dengue do Butantan](https://www.metropoles.com/sao-paulo/anvisa-publica-registro-da-vacina-contra-a-dengue-do-butantan) (Metropoles.com)
+
 - [Anvisa publica registro de imunizante contra a dengue do Butantan](https://www.metropoles.com/saude/anvisa-imunizante-dengue-butantan) (Metropoles.com)
 
 - [Cuba eleva a un total de 44 las muertes en la epidemia de chikunguña y dengue](https://www.20minutos.es/internacional/cuba-eleva-44-las-muertes-epidemia-chikunguna-dengue_6907931_0.html) (20minutos.es)
@@ -130,6 +164,12 @@ Source: [News API](https://newsapi.org/)
 - [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
 
 ## 25-50 (chikungunya)
+
+- [Suben a 44 los muertos por chikungunya y dengue en Cuba](https://www.bostonherald.com/2025/12/08/suben-a-44-los-muertos-por-chikungunya-y-dengue-en-cuba/) (Boston Herald)
+
+- [CDC warns Americans traveling to 4 countries over outbreak of untreatable mosquito disease](https://www.foxnews.com/us/cdc-warns-americans-traveling-4-countries-outbreak-untreatable-mosquito-disease) (Fox News)
+
+- [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
 
 - [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
 
@@ -1765,6 +1805,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
+- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
+
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -1797,6 +1839,8 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
+- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
+
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -1804,6 +1848,8 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
+
+- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -1870,6 +1916,10 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
+
+- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
+
+- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -1948,3 +1998,9 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
+
+- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
+
+- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)

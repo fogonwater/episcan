@@ -1,8 +1,317 @@
 {
-  "last_updated": "2025-12-09 19:06",
-  "count_articles_total": 820,
-  "count_articles_new": 30,
+  "last_updated": "2025-12-10 07:09",
+  "count_articles_total": 845,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 26141,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How long can rabies survive in open air?",
+      "description": "How Long Can Rabies Survive in Open Air? A Vital Public Health Question The rabies virus is fragile outside of a host; how long rabies can survive in open air is quite limited. Generally, the virus can only survive for minutes to a few hours under typical env\u2026",
+      "url": "https://www.lifesciencesworld.com/how-long-can-rabies-survive-in-open-air/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-09 05:06:54",
+      "content": "The rabies virus is fragile outside of a host; how long rabies can survive in open air is quite limited. Generally, the virus can only survive for minutes to a few hours under typical environmental c\u2026 [+8088 chars]",
+      "retrievedAt": "2025-12-10 07:09:49.512405",
+      "internal_id": "59dc4f518283fca0de6a0d2213e691265565914ed1ed2015ebf45d6ecbcc6047",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26154,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "alsm@bt.dk (Alexander Schm\u00fccker Madsen)",
+      "title": "Ny mpox-variant ryster eksperter: De frygtede symptomer kan v\u00e6re p\u00e5 vej tilbage",
+      "description": "Ekspert advarer om, at den muterede virus kan blive en fast del af sygdomsbilledet.",
+      "url": "https://www.bt.dk/sundhed/ny-mpox-variant-ryster-eksperter-de-frygtede-symptomer-kan-vaere-paa-vej-tilbage",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/139977735.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=a4369df997183a3b66da5796a0e2755893a7bb14cade8cb0c4c86c6dcfe4c36d",
+      "publishedAt": "2025-12-09 04:04:34",
+      "content": "Smertefulde bl\u00e6rer, feber, udsl\u00e6t p\u00e5 kroppen og h\u00e6vede lymfeknuder. Det var de brutale symptomer, flere hundrede danskere oplevede i 2022, da mpox - tidligere kendt som abekopper - for alvor ramte E\u2026 [+2330 chars]",
+      "retrievedAt": "2025-12-10 07:09:51.441837",
+      "internal_id": "d44e3795358fb661eb5554b40f8e38d434af889195630e185ea5e27b1d5d2eea",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26142,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Why can\u2019t you touch a bat?",
+      "description": "Why You Should Never Touch a Bat: Understanding the Risks Touching a bat presents significant health risks, primarily due to the potential for rabies transmission, a deadly viral disease. Beyond rabies, bats can carry other diseases and parasites, making it c\u2026",
+      "url": "https://www.lifesciencesworld.com/why-cant-you-touch-a-bat/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-09 02:34:34",
+      "content": "Touching a bat presents significant health risks, primarily due to the potential for rabies transmission, a deadly viral disease. Beyond rabies, bats can carry other diseases and parasites, making it\u2026 [+7878 chars]",
+      "retrievedAt": "2025-12-10 07:09:49.522310",
+      "internal_id": "ec7fedf4faf19bb01e6003e68b1104b3b69233fe2629ebf6a03537a79b474315",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26140,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What animal gives human rabies the most?",
+      "description": "What Animal Gives Human Rabies the Most? Unveiling the Primary Culprit The animal most responsible for transmitting rabies to humans globally is the dog, accounting for the vast majority of human rabies deaths, especially in regions where canine vaccination p\u2026",
+      "url": "https://www.lifesciencesworld.com/what-animal-gives-human-rabies-the-most/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-09 01:36:47",
+      "content": "The animal most responsible for transmitting rabies to humans globally is the dog, accounting for the vast majority of human rabies deaths, especially in regions where canine vaccination programs are\u2026 [+8102 chars]",
+      "retrievedAt": "2025-12-10 07:09:49.494021",
+      "internal_id": "5320e1a8780ba46a06168263c8463b1266522477a9b8b2e546688c8b168e1d0b",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26155,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diego.duran",
+      "title": "Virus Mpox: \u00bfcu\u00e1ntas variantes existen y cu\u00e1les est\u00e1n en M\u00e9xico?",
+      "description": "Diego Dur\u00e1n El virus Mpox, antes conocido como viruela del mono, cruza fronteras inesperadas desafiando los controles sanitarios de algunos pa\u00edses. Las repercusiones de su propagaci\u00f3n han representado grandes dificultades. No hablamos de un solo enemigo, s\u2026",
+      "url": "https://www.excelsior.com.mx/salud/cuantas-variantes-del-virus-mpox-existen-y-cuales-hay-en-mexico/1756290",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/08/3431994.jpg",
+      "publishedAt": "2025-12-09 00:34:52",
+      "content": "El virus Mpox, antes conocido como viruela del mono, cruza fronteras inesperadas desafiando los controles sanitarios de algunos pa\u00edses. Las repercusiones de su propagaci\u00f3n han representado grandes di\u2026 [+6408 chars]",
+      "retrievedAt": "2025-12-10 07:09:51.459213",
+      "internal_id": "79a9911c9da24054f654c4f35068fa98b5da0a96dd9f7ba95a7207e11a892862",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26152,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Weinan Jiang, Min Zhou, Kang Chen, Ximian Xiao, Jia Shi, Haodong Zhang, Jiayang Xie, Sheng Chen, Minzhang Chen, Zihao Cong, Longqiang Liu, Yueming Wu, Runhui Liu",
+      "title": "Biguanide-functionalized peptide mimics effectively combat drug-resistant ESKAPE pathogens and meningitis",
+      "description": "ESKAPE pathogens-induced meningitis threatens human health due to antimicrobial resistance and low permeability of blood-brain barrier (BBB). Here, the authors report that biguanide-functionalized poly(2-oxazoline) exhibits potent activity against drug-resist\u2026",
+      "url": "https://www.nature.com/articles/s41467-025-67044-5",
+      "urlToImage": null,
+      "publishedAt": "2025-12-09 00:00:00",
+      "content": "Hasbun, R. Progress and challenges in bacterial meningitis: a review. JAMA328, 21472154 (2022). Google Scholar Willyard, C. The drug-resistant bacteria that pose the greatest health t\u2026 [+13185 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.544285",
+      "internal_id": "905c8c2f8d789f460e41b1128b7e3fd4c16c175b6110745d8b1d44e862c3f3d7",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 26146,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press Spanish",
+      "title": "Suben a 44 los muertos por chikungunya y dengue en Cuba",
+      "description": "Associated Press LA HABANA (AP) \u2014 Las autoridades cubanas informaron el lunes que se elev\u00f3 a 44 la cifra de personas fallecidas en todo el pa\u00eds por dengue y chikungunya, dos enfermedades virales transmitidas por mosquitos y cuya incidencia est\u00e1 golpeando a la\u2026",
+      "url": "https://www.bostonherald.com/2025/12/08/suben-a-44-los-muertos-por-chikungunya-y-dengue-en-cuba/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+      "publishedAt": "2025-12-08 23:45:15",
+      "content": "Associated Press LA HABANA (AP) \u2014 Las autoridades cubanas informaron el lunes que se elev\u00f3 a 44 la cifra de personas fallecidas en todo el pa\u00eds por dengue y chikungunya, dos enfermedades virales tra\u2026 [+1746 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.300753",
+      "internal_id": "d6c841004d76829af77ca9e825e0d10283ae694dede0c149c606288db4a3a87c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26153,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "CDC warns Americans traveling to 4 countries over outbreak of untreatable mosquito disease",
+      "description": "Global chikungunya outbreak prompts health warnings as cases surge across tropical regions. WHO reports 155 deaths from mosquito-transmitted virus.",
+      "url": "https://www.foxnews.com/us/cdc-warns-americans-traveling-4-countries-outbreak-untreatable-mosquito-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/cuba.jpg",
+      "publishedAt": "2025-12-08 23:04:08",
+      "content": "U.S. health officials have issued travel advisories for Americans planning trips to certain tropical countries amid outbreaks of an untreatable mosquito-borne disease. The Centers for Disease Contro\u2026 [+2484 chars]",
+      "retrievedAt": "2025-12-10 07:09:51.248313",
+      "internal_id": "1cb352b48a2b9315effc75cddc82272dffa3cedb371014dee2379feda885fdcd",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Anvisa publica registro de vacina contra a dengue do Butantan",
+      "description": "Imunizante de dose \u00fanica foi autorizado pela ag\u00eancia para a popula\u00e7\u00e3o de 12 a 59 anos; estrat\u00e9gia de vacina\u00e7\u00e3o ser\u00e1 apresentada pelo Minist\u00e9rio da Sa\u00fade",
+      "url": "https://veja.abril.com.br/saude/anvisa-publica-registro-de-vacina-contra-a-dengue-do-butantan/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/11/20251126_125801-e1764193110213.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-12-08 22:14:04",
+      "content": "Prorrogamos a Black: VEJA por apenas 5,99PROTE\u00c7\u00c3O: Vacina contra a dengue do Butantan demonstrou efic\u00e1cia geral de 74,7%, de 91,6% contra dengue grave e de 100% contra hospitaliza\u00e7\u00f5es pela doen\u00e7a (Pa\u2026 [+3986 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.283305",
+      "internal_id": "4939994a8c3e67863d4083a2ada119e714bea7c8ab536075470da3e88e2cda97",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26149,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isabella Fran\u00e7a",
+      "title": "Brasileiro est\u00e1 entre os 10 cientistas que moldaram a ci\u00eancia em 2025",
+      "description": "Luciano Andrade Moreira \u00e9 celebrado pela estrat\u00e9gia que usa mosquitos com Wolbachia para reduzir a transmiss\u00e3o da dengue no Brasil",
+      "url": "https://www.metropoles.com/ciencia/cientista-brasileiro-nature-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/12/08175905/luciano-capa.jpeg",
+      "publishedAt": "2025-12-08 21:46:35",
+      "content": "Luciano Andrade Moreira, agr\u00f4nomo formado pela Universidade Federal de Vi\u00e7osa nos estado de Minas Gerais e pesquisador do World Mosquito Program (WMP), foi escolhido pela revista Nature como uma das \u2026 [+5988 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.336506",
+      "internal_id": "678df8fa87fd948c0322e4eebbae622906650f136d5f72e18d3d446033a74d85",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26148,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Infectologistas explicam como reconhecer os sintomas da dengue",
+      "description": "\u00c9 importante estar atento aos sintomas da dengue que podem indicar evolu\u00e7\u00e3o para quadros mais graves da doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/como-reconhecer-sintomas-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/17100418/mosquito-malaria-dengue.jpg",
+      "publishedAt": "2025-12-08 21:33:08",
+      "content": "A aproxima\u00e7\u00e3o do ver\u00e3o aumenta o alerta para a dengue. A combina\u00e7\u00e3o das altas temperaturas com chuvas frequentes e maior circula\u00e7\u00e3o de pessoas durante as f\u00e9rias mant\u00e9m o risco de transmiss\u00e3o elevado \u2026 [+6895 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.327562",
+      "internal_id": "0c8dc9607317ae36ba522376085b12d73dd4911b0d04b33e20351a0f3216e119",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26143,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Yalemedicine.org",
+      "author": "news@yale.edu (Yale News)",
+      "title": "Do you need a rabies shot?",
+      "description": "Every year, about 100,000 people receive a rabies vaccination after contact with a potentially infected animal \u2014 often a bat, raccoon, skunk, fox, or unvaccinated dog. A Yale Medicine physician discusses when a rabies vaccination may be&nbsp;necessary.",
+      "url": "https://www.yalemedicine.org/news/do-you-need-a-rabies-shot",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_810,q_auto,w_1440/v1/yms/prod/5e964ca6-45ad-4865-9956-6793cf131eef",
+      "publishedAt": "2025-12-08 21:27:26",
+      "content": "Human cases of rabies are rare in the United Statesfewer than five people develop the disease per yearbut exposure to an animal that might be infected with the fatal viral disease is an understandabl\u2026 [+1284 chars]",
+      "retrievedAt": "2025-12-10 07:09:49.539981",
+      "internal_id": "c16bed130fa928679d418eb6608230bf746be8270a03f824c3c098b794098e88",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26150,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Clara Beatriz Saraiva Ferreira, Clara Beatriz Saraiva Ferreira",
+      "title": "Dengue: Anvisa concede registro \u00e0 vacina produzida pelo Butantan",
+      "description": "A previs\u00e3o \u00e9 que o imunizante esteja dispon\u00edvel j\u00e1 em 2026, de forma gratuita e exclusiva no SUS",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2025-12-08/dengue--anvisa-concede-registro-a-vacina-produzida-pelo-butantan.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/9l/tp/ei/9ltpeimumuxjbvio9wgzxbzhg.jpg",
+      "publishedAt": "2025-12-08 21:07:32",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) publicou nesta segunda-feira (8), no Di\u00e1rio Oficial da Uni\u00e3o, o registro da vacina contra a dengue desenvolvida pelo Instituto Butantan. A decis\u00e3o\u2026 [+2531 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.345937",
+      "internal_id": "ef960c8a6142971e830217fbb18adb1f1f6455dbd1803b0eee553a650c964c65",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26144,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Valdir Antonelli",
+      "title": "Estrat\u00e9gia brasileira contra a dengue leva pesquisador \u00e0 lista dos nomes da ci\u00eancia em 2025",
+      "description": "T\u00e9cnica Wolbachia liderada por Luciano Moreira reduz a dengue em at\u00e9 89% e impulsiona o pesquisador \u00e0 lista da Nature entre os nomes de 2025 O post Estrat\u00e9gia brasileira contra a dengue leva pesquisador \u00e0 lista dos nomes da ci\u00eancia em 2025 apareceu primeiro e\u2026",
+      "url": "https://olhardigital.com.br/2025/12/08/medicina-e-saude/estrategia-brasileira-contra-a-dengue-leva-pesquisador-a-lista-dos-nomes-da-ciencia-em-2025/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/12/dengue.jpg",
+      "publishedAt": "2025-12-08 21:07:14",
+      "content": "Siga o Olhar Digital no Google Discover N\u00f3s j\u00e1 falamos aqui no Olhar Digital sobre a t\u00e9cnica da bact\u00e9ria Wolbachia, desenvolvida por Luciano Moreira, da Fiocruz, e que est\u00e1 transformando o combate \u00e0\u2026 [+2926 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.266073",
+      "internal_id": "d4746f191c3cb7dadce95efa0d70a7ff4c066b36328e3ef79e257349556fb26b",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26147,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Gabriel",
+      "title": "Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature",
+      "description": "O engenheiro agr\u00f4nomo Luciano Moreira \u00e9 destaque global por sua t\u00e9cnica que utiliza mosquitos infectados para reduzir a transmiss\u00e3o de doen\u00e7as como dengue, zika e chikungunya The post Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques\u2026",
+      "url": "https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/12/pesquisador_luciano.webp?quality=70",
+      "publishedAt": "2025-12-08 20:46:47",
+      "content": "O engenheiro agr\u00f4nomo Luciano Andrade Moreira foi escolhido pelos editores da revista Nature como uma das dez pessoas ao redor do mundo que moldaram a ci\u00eancia em 2025. Seu nome consta na lista Nature\u2026 [+2084 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.309839",
+      "internal_id": "11ef399619b02bde6715eb38dbe3a3ab6ddfe7967aa6a26d956fffe7caa2c3f1",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26156,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Luenne Couto, Luenne Couto",
+      "title": "Reino Unido confirma nova variante de Mpox",
+      "description": "Nova vers\u00e3o do v\u00edrus foi identificada ap\u00f3s exames em paciente que havia viajado recentemente para a \u00c1sia",
+      "url": "https://saude.ig.com.br/2025-12-08/reino-unido-confirma-nova-variante-de-mpox.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8z/b7/df/8zb7df9i4ldenuteplu2fng4x.jpg",
+      "publishedAt": "2025-12-08 20:36:51",
+      "content": "Autoridades de sa\u00fade do Reino Unido identificaram uma nova variante de Mpox ap\u00f3s um paciente que havia viajado recentemente para a \u00c1sia testar positivo para o v\u00edrus. O sequenciamento gen\u00f4mico revelo\u2026 [+1993 chars]",
+      "retrievedAt": "2025-12-10 07:09:51.500800",
+      "internal_id": "f4e0c333b64f9a7b1b449c8b218095daf7ee2e1bc47525d290c47b611a3ebb68",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 26151,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thomaz Molina",
+      "title": "Anvisa publica registro da vacina contra a dengue do Butantan",
+      "description": "Segundo o Minist\u00e9rio da Sa\u00fade, aplica\u00e7\u00e3o das doses da vacina desenvolvida pelo Instituto Butantan come\u00e7ar\u00e1 em 2026, exclusivamente pelo SUS",
+      "url": "https://www.metropoles.com/sao-paulo/anvisa-publica-registro-da-vacina-contra-a-dengue-do-butantan",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/12/08165021/vacina-butantan.jpg",
+      "publishedAt": "2025-12-08 19:53:38",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) publicou nesta segunda-feira (8/12) no Di\u00e1rio Oficial da Uni\u00e3o o registro da vacina contra a dengue desenvolvida pelo Instituto Butantan, em S\u00e3o Pa\u2026 [+2557 chars]",
+      "retrievedAt": "2025-12-10 07:09:50.362872",
+      "internal_id": "2f972be5e89cd749c1b6bc292dc3e4c2aaf9d5c98a4f1243ba1fa284e4f9dfba",
+      "publishedAtLabel": "Dec 8"
+    },
     {
       "id": 26132,
       "query": [
@@ -14807,6 +15116,150 @@
       "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
       "retrievedAt": "2025-10-28 07:07:47.796397",
       "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25323,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
+      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
+      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
+      "publishedAt": "2025-10-26 19:00:00",
+      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
+      "retrievedAt": "2025-10-28 07:07:48.587929",
+      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25314,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
+      "title": "Por a\u00f1os hemos llenado de antibi\u00f3ticos a ni\u00f1os en \u00c1frica: la ciencia cree que deber\u00edamos parar",
+      "description": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicios de salud. En 2020, la Organizaci\u00f3n Mundial de la Salud (OM\u2026",
+      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar",
+      "urlToImage": "https://i.blogs.es/c3e2a7/ninos_africa_antibioticos/840_560.png",
+      "publishedAt": "2025-10-26 18:00:46",
+      "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
+      "retrievedAt": "2025-10-27 19:05:59.560063",
+      "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25349,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "\u0130HA",
+      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
+      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
+      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
+      "publishedAt": "2025-10-26 17:51:38",
+      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
+      "retrievedAt": "2025-10-29 07:08:03.657067",
+      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25315,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Sivrisineklerin ta\u015f\u0131d\u0131\u011f\u0131 tehlike: Hong Kong\u2019da y\u0131llar sonra ilk vakalar",
+      "description": "Hong Kong\u2019da uzun s\u00fcredir g\u00f6r\u00fclmeyen Chikungunya ate\u015fi yeniden ortaya \u00e7\u0131kt\u0131. Yetkililer, hastan\u0131n ya\u015fad\u0131\u011f\u0131 b\u00f6lge \u00e7evresinde binlerce ki\u015finin risk alt\u0131nda olabilece\u011fini bildirerek sivrisinek ila\u00e7lamas\u0131n\u0131 h\u0131zland\u0131rma \u00e7a\u011fr\u0131s\u0131 yapt\u0131.",
+      "url": "https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100487215.jpg?11004864851761485541",
+      "publishedAt": "2025-10-26 13:32:22",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html Sivrisinekl\u2026 [+2718 chars]",
+      "retrievedAt": "2025-10-27 19:06:00.992064",
+      "internal_id": "82a5565c5f8e2545656344626b89ba0e2451a29e51635189bb529a9770c19a68",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25313,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm",
+      "description": "Bird flu outbreak hits third Georgia commercial poultry operation this year, affecting 140,000 chickens as state officials work to contain HPAI spread.",
+      "url": "https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/us-poultry-farm.jpg",
+      "publishedAt": "2025-10-26 11:41:41",
+      "content": "A Georgia chicken producer is working to stop the spread of the Highly Pathogenic Avian Influenza (HPAI), more commonly known as bird flu, after becoming the third commercial operation in the state t\u2026 [+1913 chars]",
+      "retrievedAt": "2025-10-27 19:05:57.921702",
+      "internal_id": "915a198c02df0117e7f8c53d5838ac9f7fa05c096c0bb6cf906d411aa0d3028e",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25316,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "\u00c7in'den bir vir\u00fcs alarm\u0131 daha: Bir ki\u015fide Chikungunya \u00e7\u0131kt\u0131, 8 bin ki\u015fi riskli ilan edildi",
+      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi.",
+      "url": "https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi",
+      "urlToImage": "https://i.pdimage.com/static/content/25-10/26/cin.jpg",
+      "publishedAt": "2025-10-26 11:16:51",
+      "content": "South China Morning Post'un haberine g\u00f6re, kentin Kawloon il\u00e7esindeki Dimond Hill semtine bal Fung Tak Yerleimi'nde ikamet eden 82 yandaki bir kadn hastada Chikungunya vir\u00fcs\u00fcne rastland. Vaka, Hong \u2026 [+1219 chars]",
+      "retrievedAt": "2025-10-27 19:06:01.009373",
+      "internal_id": "cd7bf619ff2adb04a3ed4dd80a85a770d8d8d91e679c87f2af9dcbeaf77cc975",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25317,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "Anadolu Ajans\u0131",
+      "title": "\u00c7in'de bu sivrisinekler vir\u00fcs sa\u00e7\u0131yor! Yerle\u015fim yerleri risk alt\u0131nda",
+      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi. Bu durum, Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vaka olarak kayda ge\u00e7erken hastal\u0131\u011f\u0131n tespit edi\u2026",
+      "url": "https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/26/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-17614788746265.jpg",
+      "publishedAt": "2025-10-26 11:12:15",
+      "content": "",
+      "retrievedAt": "2025-10-27 19:06:01.018746",
+      "internal_id": "5a409b687e2331a741bc34504ea7ede347528d600682a3d9fb428203de725edf",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 25312,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Orly Harari",
+      "title": "Toddler dies of measles in Jerusalem",
+      "description": "Hadassah Ein Kerem Hospital in Jerusalem announced that a two-year-old girl died from measles complications.",
+      "url": "https://www.israelnationalnews.com/news/416818",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
+      "publishedAt": "2025-10-26 07:15:00",
+      "content": "A two-year-old girl has died at Hadassah Ein Kerem Hospital in Jerusalem from complications caused by measles, raising the death toll of the ongoing outbreak of the disease to eight, all under the ag\u2026 [+837 chars]",
+      "retrievedAt": "2025-10-27 19:05:57.662696",
+      "internal_id": "c1a8ab9475f99b791d1d2012b81c50c50cc45a103e9cb9d007a597a996839558",
       "publishedAtLabel": "Oct 26"
     }
   ]
