@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-12-10 19:06
-- **Most recent article:** 2025-12-09 18:49:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-12-11 07:11
+- **Most recent article:** 2025-12-10 06:04:05
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 21 | 59 | 27 | 18 | 15 | 7 | 181 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 19 | 173 |
-| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 4 | 162 |
-| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 3 | 112 |
+| measles | 35 | 21 | 59 | 27 | 18 | 15 | 7 | 182 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 23 | 177 |
+| h5n1 | 34 | 32 | 31 | 21 | 29 | 13 | 4 | 164 |
+| malaria | 16 | 19 | 20 | 12 | 17 | 26 | 7 | 117 |
 | mpox | 20 | 5 | 6 | 3 | 5 | 4 | 22 | 65 |
-| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 11 | 50 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 7 | 35 |
+| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 11 | 53 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 9 | 37 |
 | zika | 4 | 9 | 2 | 1 | 2 | 6 | 4 | 28 |
 | meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 2 | 26 |
-| pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 0 | 19 |
+| pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 1 | 20 |
+| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 4 | 17 |
 | yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 3 | 16 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 0 | 15 |
-| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 2 | 14 |
 | typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 0 | 8 |
 | shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -53,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (rabies)
 
+- [Michigan man dies of rabies after receiving kidney from infected donor who saved kitten from skunk: CDC](https://www.foxnews.com/health/michigan-man-dies-rabies-after-receiving-kidney-from-infected-donor-who-saved-kitten-from-skunk-cdc) (Fox News)
+
+- [Man dog i rabies – smittades av njurtransplantation](https://www.dn.se/varlden/man-dog-i-rabies-smittades-av-njurtransplantation/) (Www.dn.se)
+
 - [How long can rabies survive in open air?](https://www.lifesciencesworld.com/how-long-can-rabies-survive-in-open-air/) (Lifesciencesworld.com)
 
 - [Why can’t you touch a bat?](https://www.lifesciencesworld.com/why-cant-you-touch-a-bat/) (Lifesciencesworld.com)
@@ -66,6 +70,10 @@ Source: [News API](https://newsapi.org/)
 - [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
 
 - [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
+
+## 25-50 (pertussis)
+
+- [Opas emite alerta sobre aumento de casos de coqueluche nas Américas](https://veja.abril.com.br/saude/opas-emite-alerta-sobre-aumento-de-casos-de-coqueluche-nas-americas/) (Abril.com.br)
 
 ## 25-50 (mpox)
 
@@ -137,6 +145,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (malaria)
 
+- [ورود اتباع بی‌علامت از پاکستان و افغانستان مهم‌ترین چالش مالاریای هرمزگان](https://www.isna.ir/news/1404091912407/ورود-اتباع-بی-علامت-از-پاکستان-و-افغانستان-مهم-ترین-چالش-مالاریای) (Isna.ir)
+
+- [OMS reporta aumento en casos y muertes por malaria](https://www.excelsior.com.mx/nacional/oms-reporta-aumento-en-casos-y-muertes-por-malaria/1756575) (Excelsior.com.mx)
+
+- [Genetically engineered mosquitoes block development of circulating malaria strains](https://www.nature.com/articles/d41586-025-03577-5) (Nature.com)
+
+- [Gene-drive-capable mosquitoes suppress patient-derived malaria in Tanzania](https://www.nature.com/articles/s41586-025-09685-6) (Nature.com)
+
 - [Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal](https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal) (Al Jazeera English)
 
 - [Magnitude of tuberculosis treatment outcomes and associated factors in public health institutions of Arba Minch town, Southern Ethiopia: A multi-centered retrospective cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338393) (Plos.org)
@@ -144,6 +160,10 @@ Source: [News API](https://newsapi.org/)
 - [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
 
 ## 25-50 (hpai)
+
+- [충남 천안서 조류인플루엔자 발생... '닭 3만 마리 살처분'](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003189927) (Ohmynews.com)
+
+- [Wildlife Health Alert: Highly Pathogenic Avian Influenza Detected in Multiple Areas Throughout Texas](https://sanangelolive.com/news/outdoors/2025-12-09/wildlife-health-alert-highly-pathogenic-avian-influenza-detected-multiple-areas-throughout-texas) (San Angelo LIVE!)
 
 - [Συναγερμός για την γρίπη των πτηνών στην Ισπανία – 400 πελαργοί βρέθηκαν νεκροί κοντά στη Μαδρίτη](https://www.newsit.gr/kosmos/synagermos-gia-tin-gripi-ton-ptinon-stin-ispania-400-pelargoi-vrethikan-nekroi-konta-sti-madriti/4547516/) (Newsit.gr)
 
@@ -160,6 +180,14 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
+
+- [Why Seasonal Disease Spread Follows Predictable Epidemiology Cycles (And How to Spot the Next Outbreak)](https://www.medicaldaily.com/why-seasonal-disease-spread-follows-predictable-epidemiology-cycles-how-spot-next-outbreak-474193) (Medical Daily)
+
+- [¿Una cura contra el dengue? Los primeros pasos están dados](https://www.milenio.com/ciencia-y-salud/cura-contra-dengue-dan-primeros-pasos-para-combatir-enfermedad) (Milenio)
+
+- [Vacina do Butantan contra dengue começa a ser aplicada em janeiro](https://olhardigital.com.br/2025/12/09/medicina-e-saude/vacina-do-butantan-contra-dengue-comeca-a-ser-aplicada-em-janeiro/) (Olhardigital.com.br)
+
+- [Ministério da Saúde anuncia nova estratégia para vacinação contra a dengue](https://www.infomoney.com.br/saude/ministerio-da-saude-anuncia-nova-estrategia-para-vacinacao-contra-a-dengue/) (InfoMoney)
 
 - [Dengue: Saúde divulga estratégia para vacinação com doses do Butantan](https://veja.abril.com.br/saude/dengue-saude-divulga-estrategia-para-vacinacao-com-doses-do-butantan/) (Abril.com.br)
 
@@ -1845,6 +1873,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
+- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
+
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -1877,6 +1907,8 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
+- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
+
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -1884,6 +1916,8 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
+
+- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -1950,6 +1984,10 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
+
+- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
+
+- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -2028,3 +2066,9 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
+
+- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
+
+- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)
