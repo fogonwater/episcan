@@ -1,8 +1,319 @@
 {
-  "last_updated": "2025-12-11 07:11",
-  "count_articles_total": 874,
-  "count_articles_new": 13,
+  "last_updated": "2025-12-11 19:08",
+  "count_articles_total": 883,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 26187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "Measles Outbreak Nears Grim Milestone as Hundreds Quarantine in South Carolina",
+      "description": "What happens when your country's public health system is run by anti-vaccine activists?",
+      "url": "https://gizmodo.com/u-s-measles-outbreak-nears-grim-milestone-as-hundreds-quarantine-in-south-carolina-2000697900",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/RFK-Jr.-Nov.-6-2025-1200x675.jpg",
+      "publishedAt": "2025-12-10 18:40:35",
+      "content": "The South Carolina Department of Public Health reported 27 new cases of measles on Tuesday, all identified since last Friday, bringing the total number of identified cases in the state this year to 1\u2026 [+5255 chars]",
+      "retrievedAt": "2025-12-11 19:08:31.186952",
+      "internal_id": "e19af140cf49b74fd9f1c195c674ba527668181a70c4bc9f8b0800ec3abee32b",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "While scientists race to study spread of measles in US, Kennedy unravels hard-won gains",
+      "description": "The United States is poised to lose its measles-free status next year.",
+      "url": "https://www.bostonherald.com/2025/12/10/us-measles-status/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/202512090415MCT_____PHOTO____US-NEWS-HEALTH-MEASLES-SCIENTISTS-MCT-1.jpg?w=1024&h=768",
+      "publishedAt": "2025-12-10 17:53:11",
+      "content": "By Amy Maxmen, KFF Health News The United States is poised to lose its measles-free status next year. If that happens, the country will enter an era in which outbreaks are common again. More childr\u2026 [+10659 chars]",
+      "retrievedAt": "2025-12-11 19:08:31.207396",
+      "internal_id": "39d70f6b54aaa65db07cffcb3871d0eb1b8e258f2fb6b910318b08552b497d50",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Tribune News Service",
+      "title": "While scientists race to study spread of measles in US, Kennedy unravels hard-won gains",
+      "description": "The United States is poised to lose its measles-free status next year.",
+      "url": "https://www.denverpost.com/2025/12/10/us-measles-status/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/12/202512090415MCT_____PHOTO____US-NEWS-HEALTH-MEASLES-SCIENTISTS-MCT-1.jpg?w=1024&h=768",
+      "publishedAt": "2025-12-10 17:53:11",
+      "content": "By Amy Maxmen, KFF Health News The United States is poised to lose its measles-free status next year. If that happens, the country will enter an era in which outbreaks are common again. More childr\u2026 [+10659 chars]",
+      "retrievedAt": "2025-12-11 19:08:31.264155",
+      "internal_id": "b71892c619021c04804727641689ad85994cfa4b542ef03103bb58cac4f1f342",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26201,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0426\u0410\u0420 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u0438 \u0432\u0437\u044f\u043b\u0438 \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0441 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0412 2025 \u0433\u043e\u0434\u0443 \u043f\u0440\u0438\u0432\u0438\u043b\u0438\u0441\u044c 3 395 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0438\u0437 \u0433\u0440\u0443\u043f\u043f \u0440\u0438\u0441\u043a\u0430, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 2 910 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f",
+      "url": "https://tass.ru/vspyshka-ospy-obezyan/25874427",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/vspyshka-ospy-obezyan/25874427?u=2025-12-10T17:03:09.823281",
+      "publishedAt": "2025-12-10 17:03:09",
+      "content": "2025 3 395 , 2 910 , 10 . //. - (). - . \" 2024 , , - . 1 024 , 59 6 9 , . 2025 , 3 395 , 2 910 \", - 31 () , , mpox, 17 . , 1 129 . - 38 878. Mpox - , , . 1970 . 5 , .",
+      "retrievedAt": "2025-12-11 19:08:34.000392",
+      "internal_id": "7c94c5cbc75486004194cfd9306ef6d3dc1ad4c744532e02f64cf4714b53e98d",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26192,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": "Sandrine Morel",
+      "title": "\u00c0 Cuba, l\u2019\u00e9pid\u00e9mie de chikungunya transforme les habitants en une \u201carm\u00e9e de zombies\u201d",
+      "description": "Dans un contexte de crise \u00e9conomique, de coupures de courant et d\u2019eau potable r\u00e9guli\u00e8res, d\u2019exode des forces vives et d\u2019infrastructures en ruine, Cuba est sujette \u00e0 une grave crise sanitaire qui a fait officiellement 44 morts. Selon la presse locale, le bilan\u2026",
+      "url": "https://www.courrierinternational.com/article/crise-sanitaire-a-cuba-l-epidemie-de-chikungunya-transforme-les-habitants-en-une-armee-de-zombies_238361",
+      "urlToImage": "https://focus.courrierinternational.com/2025/12/04/0/261/7734/5156/1200/630/60/0/cfd0859_ftp-1-yx1xkn1hdilr-afp-874y9th.jpg",
+      "publishedAt": "2025-12-10 17:00:14",
+      "content": "Cest un pays \u00e0 genoux que d\u00e9crit la presse cubaine, alors que l\u00eele des Cara\u00efbes fait face \u00e0 une \u00e9pid\u00e9mie de chikungunya et \u00e0 des foyers de dengue d\u00e9vastateurs. Le nombre de d\u00e9c\u00e8s ne cesse daugmenter,\u2026 [+1043 chars]",
+      "retrievedAt": "2025-12-11 19:08:32.052791",
+      "internal_id": "080513f101d85d3ec9c21bea092aaabd063fdd7c5659acb2efd80ce33b95bfe8",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26198,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Valneva reports 'positive' final Phase 2 results for chikungunya vaccine",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4254094/VALN-Valneva-reports-positive-final-Phase--results-for-chikungunya-vaccine",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-12-10 16:48:42",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-12-11 19:08:33.568575",
+      "internal_id": "417b84ada34951787f21c0e221ffc6d058b8748feeebe7ccbb53960ccfbf16c1",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26199,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Reports Positive Final Phase 2 Antibody Persistence and Safety Results in Children for its Chikungunya Vaccine IXCHIQ\u00ae",
+      "description": "Saint-Herblain (France), December 10, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced positive final antibody persistence and safety data for its Phase 2 clinical trial evaluating the safety and immunogenici\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203393/0/en/Valneva-Reports-Positive-Final-Phase-2-Antibody-Persistence-and-Safety-Results-in-Children-for-its-Chikungunya-Vaccine-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-12-10 16:45:00",
+      "content": "IXCHIQ\u00ae was well tolerated by children aged one to eleven years regardless of the dose or previous chikungunya infection (CHIKV) Antibody levels remained high after twelve months in \u2026 [+11239 chars]",
+      "retrievedAt": "2025-12-11 19:08:33.578758",
+      "internal_id": "a9ae57698a90f2bc627dc5928a7b5c465934fcf37250c420eb493b41b5efd7ef",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26200,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce des r\u00e9sultats finaux de Phase 2 positifs sur la persistance des anticorps et l\u2019innocuit\u00e9 de son vaccin contre le chikungunya IXCHIQ\u00ae chez les enfants",
+      "description": "Saint-Herblain (France), le 10 d\u00e9cembre 2025 \u2013Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui des r\u00e9sultats finaux positifs de persistance des anticorps et d\u2019innocuit\u00e9 pour son essai de Phase 2 \u00e9valu\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203393/0/fr/Valneva-annonce-des-r%C3%A9sultats-finaux-de-Phase-2-positifs-sur-la-persistance-des-anticorps-et-l-innocuit%C3%A9-de-son-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-enfants.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-12-10 16:45:00",
+      "content": "IXCHIQ\u00ae a \u00e9t\u00e9 bien tol\u00e9r\u00e9 par les enfants \u00e2g\u00e9s dun \u00e0 onze ans ind\u00e9pendamment de la dose de vaccin re\u00e7ue ou dune pr\u00e9c\u00e9dente infection au virus du chikungunyaLes niveaux danticorps dem\u2026 [+13352 chars]",
+      "retrievedAt": "2025-12-11 19:08:33.589796",
+      "internal_id": "b6171ef67df00187a089ed0c8b435ae92528bc94e7c3358a6a97b659f76206af",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: MMRV and febrile convulsions",
+      "description": "Febrile convulsions are a common in children with a high fever, this guidance explains to parents and carers what a febrile convulsion is, and when to seek medical help.",
+      "url": "https://www.gov.uk/government/publications/mmrv-and-febrile-convulsions",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-12-10 16:20:53",
+      "content": "Young children with a fever due to infections such as measles, chickenpox and flu can sometimes have a seizure also known as a fit. This guide explains what a fit is and when to seek medical help. It\u2026 [+319 chars]",
+      "retrievedAt": "2025-12-11 19:08:31.253970",
+      "internal_id": "22deb73caf342bb4f70c99ce9d9e2359937857ad2e166f56a6ee4efc70c461ce",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26196,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Michael Le Page",
+      "title": "Genetic trick to make mosquitoes malaria resistant passes key test",
+      "description": "The rollout of a type of genetic technology called a gene drive for tackling malaria could be edging closer after a lab study supports its success",
+      "url": "https://www.newscientist.com/article/2508035-genetic-trick-to-make-mosquitoes-malaria-resistant-passes-key-test/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/12/10154537/SEI_277528528.jpg",
+      "publishedAt": "2025-12-10 16:00:24",
+      "content": "Malaria can be deadly, and is notoriously difficult to control James Gathany/CDC via AP/Alamy A genetic technology known as a gene drive could help prevent malaria by spreading genes in wild mosqui\u2026 [+3039 chars]",
+      "retrievedAt": "2025-12-11 19:08:32.780796",
+      "internal_id": "408213922d5319ccc4eb59b756e83abf90c973ec0186c32b553f8f5833db79f2",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26202,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Gefahr durch Virus-Mutante?: Neue hybride Mpox-Variante in Gro\u00dfbritannien entdeckt",
+      "description": "Das Mpox-Virus zirkuliert weltweit - und mutiert dabei. In Gro\u00dfbritannien identifizieren Beh\u00f6rden nun eine neue Form, die zwei bekannte Typen kombiniert. Sie wurde bei einer Person nachgewiesen, die zuvor nach Asien gereist war.",
+      "url": "https://www.n-tv.de/wissen/Neue-hybride-Mpox-Variante-in-Grossbritannien-entdeckt-id30125314.html",
+      "urlToImage": "https://www.n-tv.de/img/30125315/1765355923/Img_16_9/1200/Colorized-transmission-electron-micrograph-of-two-mature-mpox-virus-particles-pink-attached-to-the-surface-of-an-infected-VERO-E6-cell-blue-teal-Image-captured-at-the-NIAID-Integrated-Research-Facility-in-Fort-Detrick-Maryland-Credit-NIAID-NIH.jpg",
+      "publishedAt": "2025-12-10 15:07:47",
+      "content": "Gef\u00e4hrlich wird Mpox vor allem f\u00fcr Kinder, Schwangere, \u00e4ltere und immungeschw\u00e4chte Menschen. (Foto: picture alliance / BSIP) Das Mpox-Virus zirkuliert weltweit - und mutiert dabei. In Gro\u00dfbritannien\u2026 [+3675 chars]",
+      "retrievedAt": "2025-12-11 19:08:34.112775",
+      "internal_id": "b0cf895c97694de050a996b88e8b449e044d50ff36b02e01a16780a3ded9ada9",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26197,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abigail Obuobi, Neils B. Quashie, Nancy Odurowah Duah-Quashie, Jon R. Sayers",
+      "title": "Unveiling the Plasmodium inositol (pyro)phosphate pathway: Highlighting inositol polyphosphate multikinase as a novel therapeutic target for malaria",
+      "description": "Plasmodium falciparum malaria is fatal if left untreated. Treatment is hampered by drug-resistant variants of the malaria parasite, highlighting the need to explore unique pathways for the development of new drugs with different mechanisms of action. Kinases \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338411",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338411.g014&size=inline",
+      "publishedAt": "2025-12-10 14:00:00",
+      "content": "Introduction Malaria is a tropical infectious disease which is still a global health challenge. Malaria cases are actively rising with a global incidence of 263 million cases and 597,000 deaths in 2\u2026 [+66525 chars]",
+      "retrievedAt": "2025-12-11 19:08:32.882140",
+      "internal_id": "276afb074040c8847cea7fb7d50adfa0db1636a67fb53dadb6a7ae4ad3f81b29",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26195,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Vacina contra dengue ser\u00e1 dada a profissionais da sa\u00fade em janeiro",
+      "description": "Minist\u00e9rio da Sa\u00fade inicia vacina\u00e7\u00e3o de trabalhadores da aten\u00e7\u00e3o prim\u00e1ria com imunizante do Butantan contra a dengue",
+      "url": "https://www.metropoles.com/saude/vacina-contra-dengue-em-janeiro",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/12/10101304/Vacina-vacinacao-imunizante.jpg",
+      "publishedAt": "2025-12-10 13:38:12",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou nessa ter\u00e7a-feira (9/12) diretrizes para o uso da vacina nacional contra a dengue, criada pelo Instituto Butantan. O imunizante de dose \u00fanica ser\u00e1 aplicado inicialmente\u2026 [+5792 chars]",
+      "retrievedAt": "2025-12-11 19:08:32.148510",
+      "internal_id": "4be37e6420581b7d2bdfa715cb7ccc277ed83726c67012140e5705f3c24adc3d",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26193,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Julia Vergin",
+      "title": "Mosquitoes: The most dangerous animals in the world?",
+      "description": "Malaria, dengue, Zika virus, and West Nile fever are all diseases that can be spread by mosquitoes. Hundreds of thousands of people die from such infections every year. David Hancock was almost one of them.",
+      "url": "https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964",
+      "urlToImage": "https://static.dw.com/image/75016613_6.jpg",
+      "publishedAt": "2025-12-10 13:07:00",
+      "content": "It all started one day in June 2007, with a sudden fever and severe vomiting, said David Hancock. He should have gone to hospital, immediately. But he didn't he thought: If this is a common infection\u2026 [+6056 chars]",
+      "retrievedAt": "2025-12-11 19:08:32.064030",
+      "internal_id": "9d395882834c4424f0c199569f6baeb53c7344a3cc84375b0ca08515be0cf0a7",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26194,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Julia Vergin",
+      "title": "Are mosquitoes the most dangerous animals in the world?",
+      "description": "Malaria, dengue, Zika virus and West Nile fever are all diseases that can be spread by mosquitoes. Hundreds of thousands of people die from such infections every year. David Hancock was almost one of them.",
+      "url": "https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964",
+      "urlToImage": "https://static.dw.com/image/75016613_6.jpg",
+      "publishedAt": "2025-12-10 13:07:00",
+      "content": "It all started one day in June 2007, with a sudden fever and severe vomiting, said David Hancock. He should have gone to hospital, immediately. But he didn't he thought: If this is a common infection\u2026 [+6006 chars]",
+      "retrievedAt": "2025-12-11 19:08:32.074550",
+      "internal_id": "f5fb276a27c15b4dfdc104a37f18c2858d72a1ffe4de6f0f574febc5e2cf6488",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26191,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Sanidad aclara si se puede contraer o no la gripe aviar a trav\u00e9s de las palomas: \"Para mayor seguridad, se deben seguir las recomendaciones\"",
+      "description": "La preocupaci\u00f3n global en torno a la gripe aviar (virus H5N1) ha mantenido en alerta a las autoridades sanitarias, enfocando el debate en el riesgo potencial que esta enfermedad de origen animal podr\u00eda suponer para la salud humana. Si bien la gripe aviar ha d\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13684382/12/25/sanidad-aclara-si-se-puede-contraer-o-no-la-gripe-aviar-a-traves-de-las-palomas-para-mayor-seguridad-se-deben-seguir-las-recomendaciones.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/2121x1157/8/5/a/1200x655_iStock-1347560220.jpg",
+      "publishedAt": "2025-12-10 12:11:51",
+      "content": "La preocupaci\u00f3n global en torno a la gripe aviar (virus H5N1) ha mantenido en alerta a las autoridades sanitarias, enfocando el debate en el riesgo potencial que esta enfermedad de origen animal podr\u2026 [+3859 chars]",
+      "retrievedAt": "2025-12-11 19:08:31.578225",
+      "internal_id": "80d6d54db53a4099c8922aa8ba79648069c89a03c18fbf2053d58104246a151d",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 26186,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Diagnostic dilemma: Man caught rabies from organ transplant after donor was scratched by skunk",
+      "description": "A Michigan man died of rabies despite having no recent exposure to a potentially infected animal.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-man-caught-rabies-from-organ-transplant-after-donor-was-scratched-by-skunk",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/T4ScAdBskGESVZqtTvzwra-2560-80.jpg",
+      "publishedAt": "2025-12-10 11:00:00",
+      "content": "The patient: A man in Michigan The symptoms: The man received a left kidney transplant in an Ohio hospital, and about five weeks later, he began experiencing tremors, weakness in his lower extremiti\u2026 [+4037 chars]",
+      "retrievedAt": "2025-12-11 19:08:30.688841",
+      "internal_id": "f431ad04e5e9d2a0e86f281aa8324dde47548873b59cc39a64cca262653acdd4",
+      "publishedAtLabel": "Dec 10"
+    },
     {
       "id": 26181,
       "query": [
@@ -15641,150 +15952,6 @@
       "content": "(AP Photo/Mark Schiefelbein) President Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines for measles, mumps, rubella\u2026 [+2054 chars]",
       "retrievedAt": "2025-10-28 07:07:47.796397",
       "internal_id": "cc3e62fd8ab375540696d5a27cb1fd485ae11237182e876efd44f888b6aaffa4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25323,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Wybito 170 mln sztuk drobiu, a ceny jaj w USA wci\u0105\u017c rosn\u0105. Eksperci bij\u0105 na alarm",
-      "description": "Ceny jaj w USA bij\u0105 rekordy, a winna jest ptasia grypa, kt\u00f3ra tym razem wymkn\u0119\u0142a si\u0119 spod kontroli. Epidemia wirusa H5N1 doprowadzi\u0142a do wybicia ponad 170 milion\u00f3w sztuk drobiu i po raz pierwszy przenios\u0142a si\u0119 tak\u017ce na krowy. To nie tylko problem rolnik\u00f3w \u2014 s\u2026",
-      "url": "https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/eZGk9kpTURBXy8xMTVhZDNiY2Q0MTYwNmEwNGUzNzEyOGU3ZDlmMzU2Ni5wbmeSlQMAAM0FAM0C0JMFzQSwzQJ23gABoTAB",
-      "publishedAt": "2025-10-26 19:00:00",
-      "content": "Ten wykres pokazuje wskanik cen konsumpcyjnych od 1980 r. Najwyszy szczyt przypada na 2025 r. Sp\u00f3jrzcie jednak na te dwa inne wzrosty. Spowodowane zostay tym samym problemem, kt\u00f3ry pr\u00f3buje \"wydzioba\"\u2026 [+10582 chars]",
-      "retrievedAt": "2025-10-28 07:07:48.587929",
-      "internal_id": "f7d1982541d1f7fa7b177355b8e33d41d0b07f2a37ea6a9c7c94fe4b625d52e3",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
-      "title": "Por a\u00f1os hemos llenado de antibi\u00f3ticos a ni\u00f1os en \u00c1frica: la ciencia cree que deber\u00edamos parar",
-      "description": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicios de salud. En 2020, la Organizaci\u00f3n Mundial de la Salud (OM\u2026",
-      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar",
-      "urlToImage": "https://i.blogs.es/c3e2a7/ninos_africa_antibioticos/840_560.png",
-      "publishedAt": "2025-10-26 18:00:46",
-      "content": "En algunas regiones de \u00c1frica, uno de cada diez ni\u00f1os muere antes de cumplir cinco a\u00f1os. Las causas son m\u00faltiples: falta de acceso a agua potable, desnutrici\u00f3n, malaria y limitaciones en los servicio\u2026 [+4132 chars]",
-      "retrievedAt": "2025-10-27 19:05:59.560063",
-      "internal_id": "0ef69718df85d622c13905f32d8a7fea46e844f40b82d85bbfa44a57fc90244c",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25349,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "\u0130HA",
-      "title": "Almanya'y\u0131 salg\u0131n korkusu sard\u0131! Ku\u015f gribi nedeniyle y\u00fcz binlerce hayvan itlaf edildi",
-      "description": "Almanya\u2019da bir haftay\u0131 a\u015fk\u0131n s\u00fcredir devam eden ku\u015f gribi (H5N1) salg\u0131n\u0131 nedeniyle 400 binden fazla k\u00fcmes hayvan\u0131 itlaf edildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
-      "url": "https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/592250/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2025/10/26/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-1761501082705.jpeg",
-      "publishedAt": "2025-10-26 17:51:38",
-      "content": "Almanya'da ilk olarak ge\u00e7en hafta Brandenburg eyaletinde ortaya \u00e7kan ku gribi (H5N1) \u00fclke geneline yayld. Almanya'da hayvan hastalklarndan sorumlu olan Friedrich Loeffler Enstit\u00fcs\u00fc s\u00f6zc\u00fcs\u00fc, yapt a\u00e7kl\u2026 [+2664 chars]",
-      "retrievedAt": "2025-10-29 07:08:03.657067",
-      "internal_id": "5d3d6316ac30e06df9b78b73f6612ff01e41fa661018653f469cdc4f19cacc5d",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25315,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Anlatilaninotesi.com.tr",
-      "author": "Sputnik T\u00fcrkiye",
-      "title": "Sivrisineklerin ta\u015f\u0131d\u0131\u011f\u0131 tehlike: Hong Kong\u2019da y\u0131llar sonra ilk vakalar",
-      "description": "Hong Kong\u2019da uzun s\u00fcredir g\u00f6r\u00fclmeyen Chikungunya ate\u015fi yeniden ortaya \u00e7\u0131kt\u0131. Yetkililer, hastan\u0131n ya\u015fad\u0131\u011f\u0131 b\u00f6lge \u00e7evresinde binlerce ki\u015finin risk alt\u0131nda olabilece\u011fini bildirerek sivrisinek ila\u00e7lamas\u0131n\u0131 h\u0131zland\u0131rma \u00e7a\u011fr\u0131s\u0131 yapt\u0131.",
-      "url": "https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html",
-      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1100487215.jpg?11004864851761485541",
-      "publishedAt": "2025-10-26 13:32:22",
-      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html Sivrisinekl\u2026 [+2718 chars]",
-      "retrievedAt": "2025-10-27 19:06:00.992064",
-      "internal_id": "82a5565c5f8e2545656344626b89ba0e2451a29e51635189bb529a9770c19a68",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25313,
-      "query": [
-        "hpai"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": null,
-      "title": "Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm",
-      "description": "Bird flu outbreak hits third Georgia commercial poultry operation this year, affecting 140,000 chickens as state officials work to contain HPAI spread.",
-      "url": "https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/us-poultry-farm.jpg",
-      "publishedAt": "2025-10-26 11:41:41",
-      "content": "A Georgia chicken producer is working to stop the spread of the Highly Pathogenic Avian Influenza (HPAI), more commonly known as bird flu, after becoming the third commercial operation in the state t\u2026 [+1913 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.921702",
-      "internal_id": "915a198c02df0117e7f8c53d5838ac9f7fa05c096c0bb6cf906d411aa0d3028e",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25316,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Patronlardunyasi.com",
-      "author": "Patronlar D\u00fcnyas\u0131",
-      "title": "\u00c7in'den bir vir\u00fcs alarm\u0131 daha: Bir ki\u015fide Chikungunya \u00e7\u0131kt\u0131, 8 bin ki\u015fi riskli ilan edildi",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi.",
-      "url": "https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi",
-      "urlToImage": "https://i.pdimage.com/static/content/25-10/26/cin.jpg",
-      "publishedAt": "2025-10-26 11:16:51",
-      "content": "South China Morning Post'un haberine g\u00f6re, kentin Kawloon il\u00e7esindeki Dimond Hill semtine bal Fung Tak Yerleimi'nde ikamet eden 82 yandaki bir kadn hastada Chikungunya vir\u00fcs\u00fcne rastland. Vaka, Hong \u2026 [+1219 chars]",
-      "retrievedAt": "2025-10-27 19:06:01.009373",
-      "internal_id": "cd7bf619ff2adb04a3ed4dd80a85a770d8d8d91e679c87f2af9dcbeaf77cc975",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25317,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Turkiyegazetesi.com.tr",
-      "author": "Anadolu Ajans\u0131",
-      "title": "\u00c7in'de bu sivrisinekler vir\u00fcs sa\u00e7\u0131yor! Yerle\u015fim yerleri risk alt\u0131nda",
-      "description": "\u00c7in'in Hong Kong \u00d6zel \u0130dari B\u00f6lgesi'nde, sivrisineklerden bula\u015fan vir\u00fcs\u00fcn yol a\u00e7t\u0131\u011f\u0131 Chikungunya ate\u015fi vakas\u0131 tespit edildi\u011fi bildirildi. Bu durum, Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vaka olarak kayda ge\u00e7erken hastal\u0131\u011f\u0131n tespit edi\u2026",
-      "url": "https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600",
-      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-10/26/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-17614788746265.jpg",
-      "publishedAt": "2025-10-26 11:12:15",
-      "content": "",
-      "retrievedAt": "2025-10-27 19:06:01.018746",
-      "internal_id": "5a409b687e2331a741bc34504ea7ede347528d600682a3d9fb428203de725edf",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 25312,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Toddler dies of measles in Jerusalem",
-      "description": "Hadassah Ein Kerem Hospital in Jerusalem announced that a two-year-old girl died from measles complications.",
-      "url": "https://www.israelnationalnews.com/news/416818",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1143307.jpg",
-      "publishedAt": "2025-10-26 07:15:00",
-      "content": "A two-year-old girl has died at Hadassah Ein Kerem Hospital in Jerusalem from complications caused by measles, raising the death toll of the ongoing outbreak of the disease to eight, all under the ag\u2026 [+837 chars]",
-      "retrievedAt": "2025-10-27 19:05:57.662696",
-      "internal_id": "c1a8ab9475f99b791d1d2012b81c50c50cc45a103e9cb9d007a597a996839558",
       "publishedAtLabel": "Oct 26"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-12-11 07:11
-- **Most recent article:** 2025-12-10 06:04:05
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-12-11 19:08
+- **Most recent article:** 2025-12-10 18:40:35
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 21 | 59 | 27 | 18 | 15 | 7 | 182 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 23 | 177 |
-| h5n1 | 34 | 32 | 31 | 21 | 29 | 13 | 4 | 164 |
-| malaria | 16 | 19 | 20 | 12 | 17 | 26 | 7 | 117 |
-| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 22 | 65 |
-| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 11 | 53 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 9 | 37 |
-| zika | 4 | 9 | 2 | 1 | 2 | 6 | 4 | 28 |
+| measles | 34 | 21 | 59 | 27 | 18 | 15 | 11 | 185 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 27 | 181 |
+| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 5 | 163 |
+| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 11 | 120 |
+| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 24 | 67 |
+| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 15 | 54 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 10 | 38 |
+| zika | 4 | 9 | 2 | 1 | 2 | 6 | 6 | 30 |
 | meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 2 | 26 |
 | pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 1 | 20 |
-| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 4 | 17 |
+| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 4 | 16 |
 | yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 3 | 16 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 0 | 15 |
 | typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 0 | 8 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-50 (zika)
+
+- [Mosquitoes: The most dangerous animals in the world?](https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964) (DW (English))
+
+- [Are mosquitoes the most dangerous animals in the world?](https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964) (DW (English))
 
 - [Role of invasive Aedes (Aedimorphus) vittatus in chikungunya virus transmission in the newly-invaded coastal island city of Mombasa, Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013738) (Plos.org)
 
@@ -52,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [فوران آتشفشان؛ جرقه‌ای که آتش «مرگ سیاه» را در اروپا شعله‌ور کرد](https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/) (Zoomit.ir)
 
 ## 25-50 (rabies)
+
+- [Diagnostic dilemma: Man caught rabies from organ transplant after donor was scratched by skunk](https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-man-caught-rabies-from-organ-transplant-after-donor-was-scratched-by-skunk) (Live Science)
 
 - [Michigan man dies of rabies after receiving kidney from infected donor who saved kitten from skunk: CDC](https://www.foxnews.com/health/michigan-man-dies-rabies-after-receiving-kidney-from-infected-donor-who-saved-kitten-from-skunk-cdc) (Fox News)
 
@@ -76,6 +82,10 @@ Source: [News API](https://newsapi.org/)
 - [Opas emite alerta sobre aumento de casos de coqueluche nas Américas](https://veja.abril.com.br/saude/opas-emite-alerta-sobre-aumento-de-casos-de-coqueluche-nas-americas/) (Abril.com.br)
 
 ## 25-50 (mpox)
+
+- [В ЦАР благодаря вакцинации взяли под контроль ситуацию с оспой обезьян](https://tass.ru/vspyshka-ospy-obezyan/25874427) (Tass.ru)
+
+- [Gefahr durch Virus-Mutante?: Neue hybride Mpox-Variante in Großbritannien entdeckt](https://www.n-tv.de/wissen/Neue-hybride-Mpox-Variante-in-Grossbritannien-entdeckt-id30125314.html) (N-tv.de)
 
 - [New strain of mpox virus: What you need to know](https://www.dw.com/en/new-strain-of-mpox-virus-what-you-need-to-know/a-75077995) (DW (English))
 
@@ -129,6 +139,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (measles)
 
+- [Measles Outbreak Nears Grim Milestone as Hundreds Quarantine in South Carolina](https://gizmodo.com/u-s-measles-outbreak-nears-grim-milestone-as-hundreds-quarantine-in-south-carolina-2000697900) (Gizmodo.com)
+
+- [While scientists race to study spread of measles in US, Kennedy unravels hard-won gains](https://www.bostonherald.com/2025/12/10/us-measles-status/) (Boston Herald)
+
+- [While scientists race to study spread of measles in US, Kennedy unravels hard-won gains](https://www.denverpost.com/2025/12/10/us-measles-status/) (The Denver Post)
+
+- [Guidance: MMRV and febrile convulsions](https://www.gov.uk/government/publications/mmrv-and-febrile-convulsions) (Www.gov.uk)
+
 - [SC measles outbreak explodes with 27 new cases, new school](https://www.postandcourier.com/health/sc-measles-outbreak-spartanburg-school/article_207caa8b-a4bd-486b-ab66-1b297688f87b.html) (Charleston Post Courier)
 
 - [Public Health warns of measles exposures at church, arena in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-church-arena-plum-coulee-winkler-9.7008711) (CBC News)
@@ -144,6 +162,14 @@ Source: [News API](https://newsapi.org/)
 - [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
 
 ## 25-50 (malaria)
+
+- [Genetic trick to make mosquitoes malaria resistant passes key test](https://www.newscientist.com/article/2508035-genetic-trick-to-make-mosquitoes-malaria-resistant-passes-key-test/) (New Scientist)
+
+- [Unveiling the Plasmodium inositol (pyro)phosphate pathway: Highlighting inositol polyphosphate multikinase as a novel therapeutic target for malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338411) (Plos.org)
+
+- [Mosquitoes: The most dangerous animals in the world?](https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964) (DW (English))
+
+- [Are mosquitoes the most dangerous animals in the world?](https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964) (DW (English))
 
 - [ورود اتباع بی‌علامت از پاکستان و افغانستان مهم‌ترین چالش مالاریای هرمزگان](https://www.isna.ir/news/1404091912407/ورود-اتباع-بی-علامت-از-پاکستان-و-افغانستان-مهم-ترین-چالش-مالاریای) (Isna.ir)
 
@@ -171,6 +197,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (h5n1)
 
+- [Sanidad aclara si se puede contraer o no la gripe aviar a través de las palomas: "Para mayor seguridad, se deben seguir las recomendaciones"](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13684382/12/25/sanidad-aclara-si-se-puede-contraer-o-no-la-gripe-aviar-a-traves-de-las-palomas-para-mayor-seguridad-se-deben-seguir-las-recomendaciones.html) (Eleconomista.es)
+
 - [H5N1: Vogelgrippe im Augsburger Zoo - Tropenhaus bleibt zu](https://www.sueddeutsche.de/bayern/augsburg-zoo-tropenhaus-vogelgrippe-h5n1-li.3351390) (Süddeutsche Zeitung)
 
 - [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
@@ -180,6 +208,14 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
+
+- [À Cuba, l’épidémie de chikungunya transforme les habitants en une “armée de zombies”](https://www.courrierinternational.com/article/crise-sanitaire-a-cuba-l-epidemie-de-chikungunya-transforme-les-habitants-en-une-armee-de-zombies_238361) (Courrier International)
+
+- [Vacina contra dengue será dada a profissionais da saúde em janeiro](https://www.metropoles.com/saude/vacina-contra-dengue-em-janeiro) (Metropoles.com)
+
+- [Mosquitoes: The most dangerous animals in the world?](https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964) (DW (English))
+
+- [Are mosquitoes the most dangerous animals in the world?](https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964) (DW (English))
 
 - [Why Seasonal Disease Spread Follows Predictable Epidemiology Cycles (And How to Spot the Next Outbreak)](https://www.medicaldaily.com/why-seasonal-disease-spread-follows-predictable-epidemiology-cycles-how-spot-next-outbreak-474193) (Medical Daily)
 
@@ -228,6 +264,14 @@ Source: [News API](https://newsapi.org/)
 - [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
 
 ## 25-50 (chikungunya)
+
+- [À Cuba, l’épidémie de chikungunya transforme les habitants en une “armée de zombies”](https://www.courrierinternational.com/article/crise-sanitaire-a-cuba-l-epidemie-de-chikungunya-transforme-les-habitants-en-une-armee-de-zombies_238361) (Courrier International)
+
+- [Valneva reports 'positive' final Phase 2 results for chikungunya vaccine](https://thefly.com/permalinks/entry.php/id4254094/VALN-Valneva-reports-positive-final-Phase--results-for-chikungunya-vaccine) (Thefly.com)
+
+- [Valneva Reports Positive Final Phase 2 Antibody Persistence and Safety Results in Children for its Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2025/12/10/3203393/0/en/Valneva-Reports-Positive-Final-Phase-2-Antibody-Persistence-and-Safety-Results-in-Children-for-its-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
+
+- [Valneva annonce des résultats finaux de Phase 2 positifs sur la persistance des anticorps et l’innocuité de son vaccin contre le chikungunya IXCHIQ® chez les enfants](https://www.globenewswire.com/news-release/2025/12/10/3203393/0/fr/Valneva-annonce-des-r%C3%A9sultats-finaux-de-Phase-2-positifs-sur-la-persistance-des-anticorps-et-l-innocuit%C3%A9-de-son-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-enfants.html) (GlobeNewswire)
 
 - [Role of invasive Aedes (Aedimorphus) vittatus in chikungunya virus transmission in the newly-invaded coastal island city of Mombasa, Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013738) (Plos.org)
 
@@ -1873,8 +1917,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
-- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
-
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -1907,8 +1949,6 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
-- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
-
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -1916,8 +1956,6 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
-
-- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -1984,10 +2022,6 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
-
-- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
-
-- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -2066,9 +2100,3 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
-
-- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
-
-- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)
