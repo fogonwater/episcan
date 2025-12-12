@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-12-12 07:10
-- **Most recent article:** 2025-12-11 06:20:30
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-12-12 19:06
+- **Most recent article:** 2025-12-11 18:59:13
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 35 | 21 | 59 | 27 | 18 | 15 | 16 | 191 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 27 | 181 |
-| h5n1 | 34 | 32 | 31 | 21 | 29 | 13 | 6 | 166 |
-| malaria | 16 | 19 | 20 | 12 | 17 | 26 | 14 | 124 |
-| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 25 | 68 |
-| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 15 | 57 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 10 | 38 |
+| measles | 34 | 21 | 59 | 27 | 18 | 15 | 30 | 204 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 28 | 182 |
+| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 7 | 165 |
+| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 16 | 125 |
+| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 26 | 69 |
+| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 15 | 54 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 13 | 41 |
 | zika | 4 | 9 | 2 | 1 | 2 | 6 | 6 | 30 |
 | meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 2 | 26 |
 | pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 2 | 21 |
-| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 4 | 17 |
+| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 4 | 16 |
 | yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 3 | 16 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 0 | 15 |
 | typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 0 | 8 |
@@ -57,6 +57,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (rabies)
 
+- [Rabies Cluster Among Steers on a Dairy Farm - Minnesota, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7440a3.htm) (Cdc.gov)
+
+- [Skunk scratch in Idaho leads to two rabies deaths including organ recipient in Michigan](https://www.nbcnews.com/news/us-news/skunk-scratch-idaho-leads-rabies-death-organ-recipient-michigan-rcna248620) (NBC News)
+
+- [100% летальность: почему «добрый ежик» в лесу опаснее медведя, а мыло эффективнее скальпеля против бешенства](https://www.ixbt.com/live/flora_and_fauna/100-letalnost-pochemu-dobryy-ezhik-v-lesu-opasnee-medvedya-a-mylo-effektivnee-skalpelya-protiv-beshenstva.html) (Ixbt.com)
+
 - [Diagnostic dilemma: Man caught rabies from organ transplant after donor was scratched by skunk](https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-man-caught-rabies-from-organ-transplant-after-donor-was-scratched-by-skunk) (Live Science)
 
 - [Michigan man dies of rabies after receiving kidney from infected donor who saved kitten from skunk: CDC](https://www.foxnews.com/health/michigan-man-dies-rabies-after-receiving-kidney-from-infected-donor-who-saved-kitten-from-skunk-cdc) (Fox News)
@@ -84,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 - [Opas emite alerta sobre aumento de casos de coqueluche nas Américas](https://veja.abril.com.br/saude/opas-emite-alerta-sobre-aumento-de-casos-de-coqueluche-nas-americas/) (Abril.com.br)
 
 ## 25-50 (mpox)
+
+- [Plus question de voyager avec un sandwich jambon-beurre à bord de l’Eurostar: voici pourquoi](https://www.dhnet.be/conso/consommation/2025/12/11/plus-question-de-voyager-avec-un-sandwich-jambon-beurre-a-bord-de-leurostar-voici-pourquoi-CSV53LC3OZGMZLCOGJ5MQDZLYI/) (dh.be)
 
 - [Odkryli nowy wariant małpiej ospy. Może zmienić przebieg choroby](https://geekweek.interia.pl/medycyna/news-odkryli-nowy-wariant-malpiej-ospy-moze-zmienic-przebieg-chor,nId,22466259) (Interia.pl)
 
@@ -143,6 +151,34 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (measles)
 
+- [Measles outbreak in South Carolina schools, hundreds quarantined](https://apnews.com/article/measles-outbreak-south-carolina-utah-arizona-3bfc561ecc16d8e80175effdae0791d4) (Associated Press)
+
+- [Measles Outbreak In South Carolina](https://www.shtfplan.com/headline-news/measles-outbreak-in-south-carolina) (Shtfplan.com)
+
+- [Hundreds quarantined as South Carolina measles outbreak accelerates (Kelly Kasulis Cho/Washington Post)](https://www.memeorandum.com/251211/p64) (Memeorandum.com)
+
+- [News Flash • Public Health Notice: Confirmed Measles Exposur](https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=2959) (Trumbull-ct.gov)
+
+- [South Carolina battles accelerating measles outbreak, hundreds quarantined](https://www.salon.com/2025/12/11/south-carolina-battles-accelerating-measles-outbreak-hundreds-quarantined/) (Salon)
+
+- [South Carolina officials report 'accelerating' measles outbreak (Edward Helmore/The Guardian)](https://www.memeorandum.com/251211/p55) (Memeorandum.com)
+
+- [Major measles outbreak leads to hundreds quarantined in US county, officials say](https://www.foxnews.com/health/major-measles-outbreak-leads-hundreds-quarantined-us-county-officials-say) (Fox News)
+
+- [Measles Outbreaks Accelerate as U.S. Inches Closer to a Disease Tipping Point](https://www.scientificamerican.com/article/measles-outbreaks-accelerate-as-u-s-inches-closer-to-a-disease-tipping-point/) (Scientific American)
+
+- [Hundreds of South Carolina Schoolchildren Are in Measles Quarantine, Thanks to Low Vaccination Rates](https://www.jezebel.com/meales-outbreaks-cases-south-carolina-vaccinations-texas-arizona-utah-rfk-deaths) (Jezebel)
+
+- [The New CDC Leader’s Whooping Cough Scandal](https://www.motherjones.com/politics/2025/12/cdc-rfk-whooping-cough-louisiana-ralph-abraham/) (Mother Jones)
+
+- [Seems Bad](https://www.eschatonblog.com/2025/12/seems-bad_01058853151.html) (Eschatonblog.com)
+
+- [South Carolina with an outbreak of the Bobby Kennedys](https://www.lawyersgunsmoneyblog.com/2025/12/south-carolina-with-an-outbreak-of-the-bobby-kennedys) (Lawyersgunsmoneyblog.com)
+
+- [Thursday, December 11, 2025](https://kffhealthnews.org/morning-briefing/thursday-december-11-2025/) (Kffhealthnews.org)
+
+- [Measles Cases Surge in South Carolina as Outbreak Spreads](https://www.newser.com/story/380180/measles-cases-surge-in-south-carolina-as-outbreak-spreads.html) (Newser)
+
 - [South Carolina measles outbreak is 'accelerating,' driving hundreds into quarantine (Erika Edwards/NBC News)](https://www.memeorandum.com/251210/p112) (Memeorandum.com)
 
 - [First measles case in Connecticut in over four years](https://www.nbcconnecticut.com/news/local/child-becomes-connecticuts-first-case-of-measles-in-more-than-four-years-dph/3673811/) (NBC Connecticut)
@@ -176,6 +212,10 @@ Source: [News API](https://newsapi.org/)
 - [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
 
 ## 25-50 (malaria)
+
+- [High prevalence and emerging positive association of kelch13 R622I and HRP2-based RDT negativity in Plasmodium falciparum in northern Ethiopia](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013771) (Plos.org)
+
+- [Malaria, svolta epocale: zanzare OGM mostrano efficacia sul campo](https://www.tomshw.it/scienze/zanzare-rese-resistenti-alla-malaria-con-crispr-2025-12-11) (Tomshw.it)
 
 - [FINANCING THE HEALTH SECTOR: U.S, Uganda sign $2.3 billion memorandum of understanding - NTV Uganda](https://ntv.co.ug/news/financing-the-health-sector-u-s-uganda-sign-2-3-billion-memorandum-of-understanding) (Ntv.co.ug)
 
@@ -217,6 +257,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (h5n1)
 
+- [Declarado un segundo caso de gripe aviar en La Rioja, en esta ocasión en una grulla en la zona del pantano de Leiva](https://www.europapress.es/la-rioja/noticia-declarado-segundo-caso-gripe-aviar-rioja-ocasion-grulla-zona-pantano-leiva-20251211135714.html) (Europapress.es)
+
 - [Mammary glands make livestock, humans good hosts for bird flu](https://www.futurity.org/mammary-gland-receptors-avian-flu-3311732/) (Futurity: Research News)
 
 - [Sanidad aclara si se puede contraer o no la gripe aviar a través de las palomas: "Para mayor seguridad, se deben seguir las recomendaciones"](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13684382/12/25/sanidad-aclara-si-se-puede-contraer-o-no-la-gripe-aviar-a-traves-de-las-palomas-para-mayor-seguridad-se-deben-seguir-las-recomendaciones.html) (Eleconomista.es)
@@ -230,6 +272,8 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
+
+- [España endurece la recomendación de no viajar a Cuba ante el aumento de enfermedades víricas](https://www.elconfidencialdigital.com/articulo/vivir/espana-endurece-recomendacion-viajar-cuba-aumento-enfermedades-viricas/20251210214439993500.html) (Elconfidencialdigital.com)
 
 - [À Cuba, l’épidémie de chikungunya transforme les habitants en une “armée de zombies”](https://www.courrierinternational.com/article/crise-sanitaire-a-cuba-l-epidemie-de-chikungunya-transforme-les-habitants-en-une-armee-de-zombies_238361) (Courrier International)
 
@@ -1939,8 +1983,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
-- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
-
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -1973,8 +2015,6 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
-- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
-
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -1982,8 +2022,6 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
-
-- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -2050,10 +2088,6 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
-
-- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
-
-- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -2132,9 +2166,3 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
-
-- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
-
-- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
-
-- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)
