@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-12-12 19:06
-- **Most recent article:** 2025-12-11 18:59:13
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-12-13 07:07
+- **Most recent article:** 2025-12-12 06:50:23
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-44 | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 21 | 59 | 27 | 18 | 15 | 30 | 204 |
-| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 28 | 182 |
-| h5n1 | 32 | 32 | 31 | 21 | 29 | 13 | 7 | 165 |
-| malaria | 15 | 19 | 20 | 12 | 17 | 26 | 16 | 125 |
-| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 26 | 69 |
-| chikungunya | 5 | 13 | 4 | 2 | 1 | 14 | 15 | 54 |
-| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 13 | 41 |
+| measles | 35 | 21 | 59 | 27 | 18 | 15 | 36 | 211 |
+| dengue | 32 | 33 | 22 | 13 | 35 | 19 | 30 | 184 |
+| h5n1 | 34 | 32 | 31 | 21 | 29 | 13 | 9 | 169 |
+| malaria | 16 | 19 | 20 | 12 | 17 | 26 | 16 | 126 |
+| mpox | 20 | 5 | 6 | 3 | 5 | 4 | 27 | 70 |
+| chikungunya | 8 | 13 | 4 | 2 | 1 | 14 | 15 | 57 |
+| rabies | 1 | 4 | 4 | 4 | 8 | 7 | 15 | 43 |
 | zika | 4 | 9 | 2 | 1 | 2 | 6 | 6 | 30 |
 | meningitis | 5 | 0 | 8 | 3 | 4 | 4 | 2 | 26 |
 | pertussis | 1 | 2 | 2 | 3 | 6 | 5 | 2 | 21 |
-| hpai | 1 | 1 | 5 | 2 | 1 | 2 | 4 | 16 |
-| yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 3 | 16 |
+| yersinia | 1 | 4 | 0 | 2 | 0 | 6 | 4 | 17 |
+| hpai | 2 | 1 | 5 | 2 | 1 | 2 | 4 | 17 |
 | leptospirosis | 1 | 1 | 2 | 1 | 7 | 3 | 0 | 15 |
-| typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 0 | 8 |
+| typhoid | 1 | 1 | 2 | 2 | 1 | 1 | 1 | 9 |
 | shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
@@ -49,13 +49,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (yersinia)
 
+- [Реальный Апокалипсис: Чума Юстиниана, Тотила-Мститель и смерть Короля Артура. Хроники 541–550 годов](https://pikabu.ru/story/realnyiy_apokalipsis_chuma_yustiniana_totilamstitel_i_smert_korolya_artura_khroniki_541550_godov_13490884) (Pikabu.ru)
+
 - [Извержение вулкана могло привести в XIV веке к эпидемии чумы в Европе](https://overclockers.ru/blog/Global_Chronicles/show/245225/Izverzhenie-vulkana-privelo-v-XIV-veke-k-pandemii-chumy-v-Evrope) (Overclockers.ru)
 
 - [Извержение вулкана в 1345 году положило начало череде событий, которые привели к эпидемии Черной смерти, охватившей средневековую Европу](https://www.ixbt.com/live/science/izverzhenie-vulkana-v-1345-godu-polozhilo-nachalo-cherede-sobytiy-kotorye-priveli-k-epidemii-chernoy-smerti-ohvativshey-srednevekovuyu-evropu.html) (Ixbt.com)
 
 - [فوران آتشفشان؛ جرقه‌ای که آتش «مرگ سیاه» را در اروپا شعله‌ور کرد](https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/) (Zoomit.ir)
 
+## 25-50 (typhoid)
+
+- [I’m heading overseas. Do I really need travel vaccines?](https://theconversation.com/im-heading-overseas-do-i-really-need-travel-vaccines-269495) (The Conversation Africa)
+
 ## 25-50 (rabies)
+
+- [Can you get rabies from a baby raccoon scratch?](https://www.lifesciencesworld.com/can-you-get-rabies-from-a-baby-raccoon-scratch/) (Lifesciencesworld.com)
+
+- [Wild and Domestic Animal Exposure among Deceased Persons Referred for Organ Procurement, United States](https://wwwnc.cdc.gov/eid/article/31/12/25-1486_article) (Cdc.gov)
 
 - [Rabies Cluster Among Steers on a Dairy Farm - Minnesota, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7440a3.htm) (Cdc.gov)
 
@@ -90,6 +100,8 @@ Source: [News API](https://newsapi.org/)
 - [Opas emite alerta sobre aumento de casos de coqueluche nas Américas](https://veja.abril.com.br/saude/opas-emite-alerta-sobre-aumento-de-casos-de-coqueluche-nas-americas/) (Abril.com.br)
 
 ## 25-50 (mpox)
+
+- [Vídeo mostra superlotação de hospital espanhol por conta de epidemia de gripe, não pandemia de mpox](https://www.terra.com.br/noticias/checamos/video-mostra-superlotacao-de-hospital-espanhol-por-conta-de-epidemia-de-gripe-nao-pandemia-de-mpox,8f4de54aba41d41451269a7deae65e55mbkehviz.html) (Terra.com.br)
 
 - [Plus question de voyager avec un sandwich jambon-beurre à bord de l’Eurostar: voici pourquoi](https://www.dhnet.be/conso/consommation/2025/12/11/plus-question-de-voyager-avec-un-sandwich-jambon-beurre-a-bord-de-leurostar-voici-pourquoi-CSV53LC3OZGMZLCOGJ5MQDZLYI/) (dh.be)
 
@@ -150,6 +162,18 @@ Source: [News API](https://newsapi.org/)
 - [Proteomic profiles of Lissachatina (Heterobranchia) and Pomacea (Caenogastropoda) snails infected with Angiostrongylus cantonensis using 4D label-free quantitative analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013812) (Plos.org)
 
 ## 25-50 (measles)
+
+- [Hundreds Quarantined in South Carolina as Measles Spreads (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/251211/p138) (Memeorandum.com)
+
+- [Over 250 people quarantined in U.S. South Carolina measles outbreak](https://www.thestar.com.my/news/world/2025/12/12/over-250-people-quarantined-in-us-south-carolina-measles-outbreak) (The Star Online)
+
+- [Hundreds quarantined in South Carolina as measles spreads | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/12/11/breaking-news/hundreds-quarantined-in-south-carolina-as-measles-spreads/) (Honolulu Star-Advertiser)
+
+- [Hundreds are quarantined in South Carolina as measles spreads in 2 US outbreaks (Devi Shastri/Associated Press)](https://www.memeorandum.com/251211/p89) (Memeorandum.com)
+
+- [Hundreds are quarantined in South Carolina as measles spreads in 2 US outbreaks](https://abcnews.go.com/Health/wireStory/hundreds-quarantined-south-carolina-measles-spreads-2-us-128320777) (ABC News)
+
+- [Over 200 people quarantined in South Carolina over measles outbreak](https://justthenews.com/politics-policy/health/over-200-people-quarantined-south-carolina-over-measles-outbreak) (Justthenews.com)
 
 - [Measles outbreak in South Carolina schools, hundreds quarantined](https://apnews.com/article/measles-outbreak-south-carolina-utah-arizona-3bfc561ecc16d8e80175effdae0791d4) (Associated Press)
 
@@ -257,6 +281,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-50 (h5n1)
 
+- [Novel Highly Pathogenic Avian Influenza A(H5N1) Virus, Argentina, 2025](https://wwwnc.cdc.gov/eid/article/31/12/25-0783_article) (Cdc.gov)
+
+- [State reports 3rd possible case of H5N1 in duck on Kauai | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/12/11/breaking-news/state-reports-3rd-possible-case-of-h5n1-in-duck-on-kauai/) (Honolulu Star-Advertiser)
+
 - [Declarado un segundo caso de gripe aviar en La Rioja, en esta ocasión en una grulla en la zona del pantano de Leiva](https://www.europapress.es/la-rioja/noticia-declarado-segundo-caso-gripe-aviar-rioja-ocasion-grulla-zona-pantano-leiva-20251211135714.html) (Europapress.es)
 
 - [Mammary glands make livestock, humans good hosts for bird flu](https://www.futurity.org/mammary-gland-receptors-avian-flu-3311732/) (Futurity: Research News)
@@ -272,6 +300,10 @@ Source: [News API](https://newsapi.org/)
 - [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
+
+- [Dengue Hot on the Heels of Disaster](https://english.gossiplankanews.com/2025/12/dengue-hot-on-heels-of-disaster.html) (Gossiplankanews.com)
+
+- [Asymmetrically glycosylated IgG1 antibodies are universal and drive human disease](https://www.nature.com/articles/s41467-025-67070-3) (Nature.com)
 
 - [España endurece la recomendación de no viajar a Cuba ante el aumento de enfermedades víricas](https://www.elconfidencialdigital.com/articulo/vivir/espana-endurece-recomendacion-viajar-cuba-aumento-enfermedades-viricas/20251210214439993500.html) (Elconfidencialdigital.com)
 
@@ -1983,6 +2015,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: ‘DON’T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!’](https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/) (Mediaite)
 
+- [Toddler dies of measles in Jerusalem](https://www.israelnationalnews.com/news/416818) (Israelnationalnews.com)
+
 ## 25-44 (malaria)
 
 - [El River de Marcelo Gallardo busca salir de la crisis con preocupación por Gonzalo Montiel](https://442.perfil.com/noticias/futbol/el-river-de-marcelo-gallardo-busca-salir-de-la-crisis-con-preocupacion-por-gonzalo-montiel.phtml) (Perfil.com)
@@ -2015,6 +2049,8 @@ Source: [News API](https://newsapi.org/)
 
 - [PfATP2 is a flippase on the Plasmodium falciparum surface that is important for growth and influences parasite sensitivity to antiplasmodial compounds](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013645) (Plos.org)
 
+- [Por años hemos llenado de antibióticos a niños en África: la ciencia cree que deberíamos parar](https://www.xataka.com.mx/medicina-y-salud/anos-hemos-llenado-antibioticos-a-ninos-africa-ciencia-cree-que-deberiamos-parar) (Xataka.com.mx)
+
 ## 25-44 (leptospirosis)
 
 - [Falleció una persona por leptospirosis en San José; es el segundo caso reportado este año](https://www.montevideo.com.uy/Salud/Fallecio-una-persona-por-leptospirosis-en-San-Jose-es-el-segundo-caso-reportado-este-ano-uc941765) (Montevideo.com.uy)
@@ -2022,6 +2058,8 @@ Source: [News API](https://newsapi.org/)
 ## 25-44 (hpai)
 
 - [Vogelgrippe](https://www.stern.de/news/vogelgrippe-36178720.html) (STERN.de)
+
+- [Bird flu cases on the rise, as illness confirmed at Georgia commercial poultry farm](https://www.foxnews.com/health/bird-flu-cases-rise-illness-confirmed-georgia-commercial-poultry-farm) (Fox News)
 
 ## 25-44 (h5n1)
 
@@ -2088,6 +2126,10 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe in Brandenburg: Vogelgrippe trifft Geflügelhöfe - mitten in der Gänsezeit](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe-in-brandenburg--vogelgrippe-trifft-gefluegelhoefe---mitten-in-der-gaensezeit-36163890.html) (STERN.de)
 
 - [This ‘minor’ bird flu strain has potential to spark human pandemic](https://www.nature.com/articles/d41586-025-03519-1) (Nature.com)
+
+- [Wybito 170 mln sztuk drobiu, a ceny jaj w USA wciąż rosną. Eksperci biją na alarm](https://businessinsider.com.pl/wideo/ptasia-grypa-jak-wplywa-na-ceny-jaj-i-co-mozemy-zrobic/889jdvr) (Businessinsider.com.pl)
+
+- [Almanya'yı salgın korkusu sardı! Kuş gribi nedeniyle yüz binlerce hayvan itlaf edildi](https://www.sabah.com.tr/dunya/almanyayi-salgin-korkusu-sardi-kus-gribi-nedeniyle-yuz-binlerce-hayvan-itlaf-edildi-7451382) (Sabah.com.tr)
 
 ## 25-44 (dengue)
 
@@ -2166,3 +2208,9 @@ Source: [News API](https://newsapi.org/)
 - [Rhesus macaques model human Mayaro virus disease and transmit to Aedes aegypti mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013061) (Plos.org)
 
 - [Epidémie de chikungunya : l'accalmie se confirme en France métropolitaine](https://www.franceinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-l-accalmie-se-confirme-en-france-metropolitaine_7582514.html) (Franceinfo.fr)
+
+- [Sivrisineklerin taşıdığı tehlike: Hong Kong’da yıllar sonra ilk vakalar](https://anlatilaninotesi.com.tr/20251026/sivrisineklerin-tasidigi-tehlike-hong-kongda-yillar-sonra-ilk-vakalar--1100487215.html) (Anlatilaninotesi.com.tr)
+
+- [Çin'den bir virüs alarmı daha: Bir kişide Chikungunya çıktı, 8 bin kişi riskli ilan edildi](https://www.patronlardunyasi.com/cinden-bir-virus-alarmi-daha-bir-kiside-chikungunya-cikti-8-bin-kisi-riskli-ilan-edildi) (Patronlardunyasi.com)
+
+- [Çin'de bu sivrisinekler virüs saçıyor! Yerleşim yerleri risk altında](https://www.turkiyegazetesi.com.tr/saglik/cinde-bu-sivrisinekler-virus-saciyor-yerlesim-yerleri-risk-altinda-1155600) (Turkiyegazetesi.com.tr)
