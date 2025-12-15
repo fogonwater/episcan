@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-12-14 19:06",
-  "count_articles_total": 796,
+  "last_updated": "2025-12-15 07:11",
+  "count_articles_total": 805,
   "count_articles_new": 3,
   "articles": [
+    {
+      "id": 26275,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Thenewslens.com",
+      "author": "BBC News \u4e2d\u6587",
+      "title": "\u79d1\u5b78\u5bb6\uff1a\u6b50\u6d32\u81f4\u547d\u9ed1\u6b7b\u75c5\u761f\u75ab\u53ef\u80fd\u8d77\u6e90\u65bc\u4e00\u5834\u706b\u5c71\u7206\u767c",
+      "description": "\u7814\u7a76\u6307\u51fa\uff0c1345\u5e74\u706b\u5c71\u7206\u767c\u5f15\u767c\u6c23\u5019\u885d\u64ca\u8207\u6b49\u6536\uff0c\u8feb\u4f7f\u6b50\u6d32\u9032\u53e3\u9ed1\u6d77\u7a40\u7269\uff0c\u537b\u7121\u610f\u9593\u5f15\u5165\u9f20\u75ab\u3002\u6b64\u4e00\u7531\u6c23\u5019\u3001\u9951\u8352\u8207\u8cbf\u6613\u4ea4\u7e54\u7684\u300c\u5b8c\u7f8e\u98a8\u66b4\u300d\uff0c\u6700\u7d42\u89f8\u767c\u4e86\u9ed1\u6b7b\u75c5\uff0c\u8b66\u793a\u5168\u7403\u5316\u4e0b\u7684\u75be\u75c5\u50b3\u64ad\u98a8\u96aa\u3002",
+      "url": "https://www.thenewslens.com/article/262081",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/raw/cpsprodpb/7955/live/fe2739d0-d139-11f0-a892-01d657345866.jpg",
+      "publishedAt": "2025-12-14 04:00:00",
+      "content": "Helen Briggs 1345 Ulf B\u00fcntgen Photo Credit: Credit: Ulf B\u00fcntgen / BBC News 134513461347 13481349 Yersinia pestis GWZO 1345 Photo Credit: Getty / BBC News GWZOMartin Bauch Communications Ea\u2026 [+30 chars]",
+      "retrievedAt": "2025-12-15 07:11:15.270631",
+      "internal_id": "8af07f214990824e0a9d84df37a3d88df2bc4eae8244a66c336407a9baa8b965",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26274,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Nigeria tops global malaria record",
+      "description": "Nigeria has the world\u2019s highest malaria burden, with 68M cases and 184K deaths in 2024, according to the WHO\u2019s 2025 World Malaria Report. Read More: https://punchng.com/nigeria-tops-global-malaria-record/",
+      "url": "https://punchng.com/nigeria-tops-global-malaria-record/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2025-12-14 00:51:35",
+      "content": "Nigeria recorded the highest number of malaria cases and deaths globally, with an estimated 68,466,000 cases, according to the 2025 World Malaria Report. The report obtained from the World Health Or\u2026 [+5150 chars]",
+      "retrievedAt": "2025-12-15 07:11:14.074222",
+      "internal_id": "1217a3b3af1191062e6134eafb2a3f1a3ddb0c5a3441123110d8a0a9b2e9ef0f",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26273,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mary Chastain",
+      "title": "South Carolina Facing a Measles Crisis",
+      "description": "Apparently, the number of parents requesting religious exemptions from vaccines skyrocketed over the summer. The post South Carolina Facing a Measles Crisis first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/12/south-carolina-facing-a-measles-crisis/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/12/South-Carolina-Measles.jpg",
+      "publishedAt": "2025-12-13 22:00:40",
+      "content": "The South Carolina Department of Public Health reported that the state has 111 reported measles cases in upstate South Carolina, in the state\u2019s northwest region. As of Wednesday, upstate South Carol\u2026 [+2386 chars]",
+      "retrievedAt": "2025-12-15 07:11:12.152061",
+      "internal_id": "fb6df1aa8bd4127c7b593210a47a47d3c6f82e58736e7e52e633bd366548f35c",
+      "publishedAtLabel": "Dec 13"
+    },
     {
       "id": 26271,
       "query": [
@@ -14380,6 +14434,116 @@
       "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
       "retrievedAt": "2025-11-04 07:08:00.903971",
       "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25472,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Bethany Reitsma",
+      "title": "New Zealand measles outbreak: What it\u2019s like when your child has measles - and a GP\u2019s warning",
+      "description": "What it\u2019s like when your child has measles - and a GP\u2019s warning for families.",
+      "url": "https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 18:56:01",
+      "content": "The two girls had both had the standard vaccinations at the time. They both got the measles injections when everyone else did, at the normal time, Howie, who lives in Motueka, recalls. The doctors \u2026 [+4491 chars]",
+      "retrievedAt": "2025-11-03 19:05:57.790584",
+      "internal_id": "1a798cc6045d6d651bcd6ead43511cdf2a22340b5deb431aacdb8c0cacebcb12",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25471,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "NZ Herald",
+      "title": "NZ in \u2018extremely precarious position\u2019 as measles cases climb \u2013 Editorial",
+      "description": "New Zealand\u2019s measles immunity rate is just 82%, well below the 95% target.",
+      "url": "https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg?auth=f858c594d9df0f39356df60be85a30ea35175f6e87db5aa5af4c54c7a592b69d&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 16:00:00",
+      "content": "Measles is one of our most infectious diseases, and so, in an unvaccinated population, one person can potentially make 12 to 18 other people sick, Howe told Chelsea Daniels on The Front Page podcast \u2026 [+2543 chars]",
+      "retrievedAt": "2025-11-03 19:05:57.732835",
+      "internal_id": "4ce717f89fa5041fca295b5324efd8d0e1fa5f7ea7e2222749157eee896cdaed",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25476,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Lifestyle Desk",
+      "title": "WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for",
+      "description": "The World Health Organisation (WHO) has raised a fresh alert after detecting the clade Ib strain of the Mpox virus across 42 countries. Once confined mainly to Central and West Africa, the virus has now spread to parts of Europe, Asia, and the Americas.As of \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms",
+      "urlToImage": "https://static.toiimg.com/photo/125035722.cms",
+      "publishedAt": "2025-11-02 14:46:50",
+      "content": "Mpox spreads mainly through close contact, skin-to-skin touch, body fluids, respiratory droplets, or contaminated objects like bedding and towels. In the latest clusters, clade Ib has been detected i\u2026 [+285 chars]",
+      "retrievedAt": "2025-11-03 19:06:00.231693",
+      "internal_id": "730848667e19663ca0cc0b23a14b5debe85d9cb188b1fdcc483b4af230671feb",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25475,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Fatih Yoncal\u0131k",
+      "title": "Hong Kong'da k\u0131rm\u0131z\u0131 alarm... Chikungunya ate\u015fi endi\u015fesi!",
+      "description": "Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vir\u00fcs\u00fc olan Chikungunya ate\u015fi vakas\u0131 tespit edildi. yakla\u015f\u0131k 8 bin ki\u015finin bula\u015f riski alt\u0131nda oldu\u011fu aktar\u0131ld\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/44/hong_kongda_kirmizi_alarm_chikungunya_atesi_endisesi_1762092301_3952.jpg",
+      "publishedAt": "2025-11-02 14:06:00",
+      "content": "\u00c7in'in Hong Kong \u00d6zel dari B\u00f6lgesi'nde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vakas tespit edildii bildirildi. 82 YAINDAK BR KADINDA RASTLANILDI South China Morning Post'un haber\u2026 [+1366 chars]",
+      "retrievedAt": "2025-11-03 19:05:59.959076",
+      "internal_id": "875d0849f71063666ae70010265410d32466534187cf59f3fe7b125eb5adf718",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25473,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432",
+      "title": "\u0412 \u0424\u0420\u0413 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0439 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u0441\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u0412 \u0440\u044f\u0434\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0441\u0442\u0440\u0430\u043d\u044b \u0432\u0432\u0435\u0434\u0435\u043d \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043f\u0442\u0438\u0446\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 Bild.",
+      "url": "https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/02/478_a08.jpg",
+      "publishedAt": "2025-11-02 13:40:02",
+      "content": "3- - , . , , . , . , . . 16 . , . H5N1, . . - . . 13 . , . - , . , . \" , , . . , . , . \", - hamburg.com. , . Bild , , .",
+      "retrievedAt": "2025-11-03 19:05:58.208470",
+      "internal_id": "c71f33b5b0715e1b8e1ddc9600fbd401b70be9e614fe9a103cdd350148cb337a",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25474,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "iStock",
+      "title": "5 indoor plants that naturally keep mosquitoes away",
+      "description": "If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, and chikungunya. But instead of reaching for chemical repellents, nature offers an elegant s\u2026",
+      "url": "https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125030726,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "publishedAt": "2025-11-02 07:35:04",
+      "content": "Nov 02, 2025, 01:08:23 PM IST If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, a\u2026 [+3027 chars]",
+      "retrievedAt": "2025-11-03 19:05:58.678587",
+      "internal_id": "b617340d2e8571b3e6faa63d7af26c43bd7aac30e2dcecc52b4e68ae391274b8",
       "publishedAtLabel": "Nov 2"
     }
   ]
