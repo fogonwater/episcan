@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2025-12-16 07:10
-- **Most recent article:** 2025-12-15 07:01:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-12-16 19:08
+- **Most recent article:** 2025-12-15 18:21:23
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 19 | 59 | 27 | 18 | 15 | 45 | 1 | 184 |
-| dengue | 33 | 22 | 13 | 35 | 19 | 34 | 3 | 159 |
-| h5n1 | 32 | 31 | 21 | 29 | 13 | 10 | 1 | 137 |
-| malaria | 19 | 20 | 12 | 17 | 26 | 17 | 2 | 113 |
-| chikungunya | 13 | 4 | 2 | 1 | 14 | 16 | 0 | 50 |
-| mpox | 4 | 6 | 3 | 5 | 4 | 28 | 0 | 50 |
+| measles | 17 | 59 | 27 | 18 | 15 | 45 | 4 | 185 |
+| dengue | 32 | 22 | 13 | 35 | 19 | 34 | 9 | 164 |
+| h5n1 | 31 | 31 | 21 | 29 | 13 | 10 | 1 | 136 |
+| malaria | 18 | 20 | 12 | 17 | 26 | 17 | 5 | 115 |
+| mpox | 3 | 6 | 3 | 5 | 4 | 28 | 1 | 50 |
 | rabies | 4 | 4 | 4 | 8 | 7 | 21 | 1 | 49 |
+| chikungunya | 11 | 4 | 2 | 1 | 14 | 16 | 0 | 48 |
 | zika | 9 | 2 | 1 | 2 | 6 | 6 | 0 | 26 |
 | meningitis | 0 | 8 | 3 | 4 | 4 | 3 | 0 | 22 |
 | pertussis | 2 | 2 | 3 | 6 | 5 | 2 | 0 | 20 |
-| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 1 | 17 |
+| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 3 | 19 |
 | hpai | 1 | 5 | 2 | 1 | 2 | 5 | 0 | 16 |
 | leptospirosis | 1 | 2 | 1 | 7 | 3 | 0 | 0 | 14 |
-| typhoid | 1 | 2 | 2 | 1 | 1 | 1 | 0 | 8 |
+| typhoid | 1 | 2 | 2 | 1 | 1 | 1 | 1 | 9 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
@@ -35,17 +35,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (yersinia)
 
+- [مطالعهٔ DNA نشان می‌دهد چه کسی ناقل کهن‌ترین طاعون شناخته‌شده در جهان بوده است](https://www.entekhab.ir/fa/news/900115/مطالعهٔ-dna-نشان-می‌دهد-چه-کسی-ناقل-کهن‌ترین-طاعون-شناخته‌شده-در-جهان-بوده-است) (Entekhab.ir)
+
+- [Учёные из Кембриджа рассказали, как в Европу пришла самая смертоносная чума — из-за вулканов](https://lifehacker.ru/kak-v-evropu-prishla-samaya-smertonosnaya-chuma/) (Lifehacker.ru)
+
 - [科學家：歐洲致命黑死病瘟疫可能起源於一場火山爆發](https://www.thenewslens.com/article/262081) (Thenewslens.com)
+
+## 25-51 (typhoid)
+
+- [Travellers should get vaccinated against respiratory viruses, preventable diseases: CDA](https://www.channelnewsasia.com/singapore/travel-vaccines-cda-recommendation-preventable-diseases-5586086) (CNA)
 
 ## 25-51 (rabies)
 
 - [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
 
+## 25-51 (mpox)
+
+- [2025 Nears Climate Heat Record, Mpox Variant Discovered, and Hobbit Extinction Explained](https://www.scientificamerican.com/podcast/episode/2025-nears-climate-heat-record-mpox-variant-discovered-and-hobbit-extinction/) (Scientific American)
+
 ## 25-51 (measles)
+
+- [As measles ravages South Carolina, RFK Jr. undermines the vaccine (Judd Legum/Popular Information)](https://www.memeorandum.com/251215/p50) (Memeorandum.com)
+
+- [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
+
+- [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
 
 - [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
+
+- [gnuhealth-mdg6 5.0.2](https://pypi.org/project/gnuhealth-mdg6/5.0.2/) (Pypi.org)
+
+- [Travellers should get vaccinated against respiratory viruses, preventable diseases: CDA](https://www.channelnewsasia.com/singapore/travel-vaccines-cda-recommendation-preventable-diseases-5586086) (CNA)
+
+- [snt-malaria-budgeting 0.5.0](https://pypi.org/project/snt-malaria-budgeting/0.5.0/) (Pypi.org)
 
 - [Lagos records sharp decline in malaria cases – FG](https://punchng.com/lagos-records-sharp-decline-in-malaria-cases-fg/) (The Punch)
 
@@ -56,6 +80,18 @@ Source: [News API](https://newsapi.org/)
 - [The potential of H5N1 viruses to adapt to bovine cells varies throughout evolution](https://www.nature.com/articles/s41467-025-67234-1) (Nature.com)
 
 ## 25-51 (dengue)
+
+- [gnuhealth-ntd-dengue 5.0.2](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.2/) (Pypi.org)
+
+- [Vacina do Butantan contra a dengue reduz carga viral e pode conter transmissão da doença, diz estudo](https://www.terra.com.br/vida-e-estilo/saude/vacina-do-butantan-contra-a-dengue-reduz-carga-viral-e-pode-conter-transmissao-da-doenca-diz-estudo,4b4675234b2e3702005b687255f38bceklcxu35e.html) (Terra.com.br)
+
+- [Significant decline in dengue deaths](https://www.thestar.com.my/news/nation/2025/12/16/significant-decline-in-dengue-deaths) (The Star Online)
+
+- [Dengue: mosquitos estéreis são liberados para frear a reprodução](https://www.metropoles.com/saude/mosquitos-estereis-sao-liberados-dengue) (Metropoles.com)
+
+- [Development of a competition assay to assess the in vitro fitness of dengue virus serotypes using an optimized serotype-specific qRT-PCR](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339033) (Plos.org)
+
+- [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
 
@@ -1687,8 +1723,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
-- [WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms) (The Times of India)
-
 ## 25-45 (measles)
 
 - [Metro Public Health Department confirms measles case in Nashville](https://www.local3news.com/local-news/tennessee/metro-public-health-department-confirms-measles-case-in-nashville/article_d641af94-314b-49dd-8024-595c52e0e901.html) (Local3news.com)
@@ -1724,10 +1758,6 @@ Source: [News API](https://newsapi.org/)
 - [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
 
 - [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
-
-- [New Zealand measles outbreak: What it’s like when your child has measles - and a GP’s warning](https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/) (New Zealand Herald)
-
-- [NZ in ‘extremely precarious position’ as measles cases climb – Editorial](https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/) (New Zealand Herald)
 
 ## 25-45 (malaria)
 
@@ -1766,8 +1796,6 @@ Source: [News API](https://newsapi.org/)
 - [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
 
 - [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
-
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (leptospirosis)
 
@@ -1841,8 +1869,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
 
-- [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
-
 ## 25-45 (dengue)
 
 - [Esse fungo perfumado finge ser flor para atrair (e matar) mosquitos](https://super.abril.com.br/ciencia/esse-fungo-perfumado-finge-ser-flor-para-atrair-e-matar-mosquitos/) (Abril.com.br)
@@ -1909,8 +1935,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
-
 ## 25-45 (chikungunya)
 
 - [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
@@ -1934,7 +1958,3 @@ Source: [News API](https://newsapi.org/)
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
 - [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
-
-- [Hong Kong'da kırmızı alarm... Chikungunya ateşi endişesi!](https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi) (Haber7.com)
-
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
