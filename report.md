@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-12-17 07:09
-- **Most recent article:** 2025-12-16 04:35:23
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-12-17 19:08
+- **Most recent article:** 2025-12-16 18:56:12
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 19 | 59 | 27 | 18 | 15 | 45 | 8 | 191 |
-| dengue | 33 | 22 | 13 | 35 | 19 | 34 | 9 | 165 |
-| h5n1 | 32 | 31 | 21 | 29 | 13 | 10 | 1 | 137 |
-| malaria | 19 | 20 | 12 | 17 | 26 | 17 | 8 | 119 |
-| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 4 | 52 |
-| mpox | 4 | 6 | 3 | 5 | 4 | 28 | 1 | 51 |
-| chikungunya | 13 | 4 | 2 | 1 | 14 | 16 | 0 | 50 |
+| measles | 17 | 59 | 27 | 18 | 15 | 45 | 11 | 192 |
+| dengue | 32 | 22 | 13 | 35 | 19 | 34 | 10 | 165 |
+| h5n1 | 31 | 31 | 21 | 29 | 13 | 10 | 1 | 136 |
+| malaria | 18 | 20 | 12 | 17 | 26 | 17 | 9 | 119 |
+| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 5 | 53 |
+| mpox | 3 | 6 | 3 | 5 | 4 | 28 | 2 | 51 |
+| chikungunya | 11 | 4 | 2 | 1 | 14 | 16 | 0 | 48 |
 | zika | 9 | 2 | 1 | 2 | 6 | 6 | 0 | 26 |
 | meningitis | 0 | 8 | 3 | 4 | 4 | 3 | 0 | 22 |
 | pertussis | 2 | 2 | 3 | 6 | 5 | 2 | 0 | 20 |
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (rabies)
 
+- [Rabies transmitted through organ transplant kills Michigan man](https://www.mlive.com/news/2025/12/rabies-transmitted-through-organ-transplant-kills-michigan-man.html) (mlive.com)
+
 - [Raccoon falls through ceiling at Grand Geneva restaurant, bites guest](https://www.fox6now.com/news/raccoon-falls-through-ceiling-grand-geneva-restaurant-bites-guest) (fox6now.com)
 
 - [Do ferrets really need shots?](https://www.lifesciencesworld.com/do-ferrets-really-need-shots/) (Lifesciencesworld.com)
@@ -57,9 +59,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (mpox)
 
+- [Wielka Brytania: Wykryto nowy wariant wirusa "małpiej ospy". Specjaliści nawołują do szczepień](https://wiadomosci.wp.pl/wielka-brytania-wykryto-nowy-wariant-wirusa-malpiej-ospy-specjalisci-nawoluja-do-szczepien-7233078026120128a) (Wiadomosci.wp.pl)
+
 - [2025 Nears Climate Heat Record, Mpox Variant Discovered, and Hobbit Extinction Explained](https://www.scientificamerican.com/podcast/episode/2025-nears-climate-heat-record-mpox-variant-discovered-and-hobbit-extinction/) (Scientific American)
 
 ## 25-51 (measles)
+
+- [Oakland County child diagnosed with measles, per Health Division](https://www.wxyz.com/news/oakland-county-child-diagnosed-with-measles-per-health-division) (WXYZ)
+
+- [Montreal public health encourages measles vaccination as three new cases are reported](https://cultmtl.com/2025/12/new-measles-case-reported-in-montreal-area-quebec-cases-public-health/) (Cult MTL)
+
+- [Call them 'Nuzzi Pox' (Jason Sattler/THE FARCE)](https://www.memeorandum.com/251216/p15) (Memeorandum.com)
 
 - [Absences at Texas School District Spiked 41 Percent After Measles Outbreak, Says Hoover Scholar](https://www.hoover.org/news/absences-texas-school-district-spiked-41-percent-after-measles-outbreak-says-hoover-scholar) (Hoover.org)
 
@@ -78,6 +88,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
+
+- [emod-malaria 2.30.0](https://pypi.org/project/emod-malaria/2.30.0/) (Pypi.org)
 
 - [emod-malaria 2.29.12](https://pypi.org/project/emod-malaria/2.29.12/) (Pypi.org)
 
@@ -100,6 +112,8 @@ Source: [News API](https://newsapi.org/)
 - [The potential of H5N1 viruses to adapt to bovine cells varies throughout evolution](https://www.nature.com/articles/s41467-025-67234-1) (Nature.com)
 
 ## 25-51 (dengue)
+
+- [Invasión de bichos en Uruguay: qué son los odonatos, los “enormes depredadores” aliados para controlar plagas](https://www.elpais.com.uy/vida-actual/ciencia/invasion-de-bichos-en-uruguay-que-son-los-odonatos-los-enormes-depredadores-aliados-para-controlar-plagas) (Diario EL PAIS Uruguay)
 
 - [gnuhealth-ntd-dengue 5.0.2](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.2/) (Pypi.org)
 
@@ -1743,8 +1757,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
-- [WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms) (The Times of India)
-
 ## 25-45 (measles)
 
 - [Metro Public Health Department confirms measles case in Nashville](https://www.local3news.com/local-news/tennessee/metro-public-health-department-confirms-measles-case-in-nashville/article_d641af94-314b-49dd-8024-595c52e0e901.html) (Local3news.com)
@@ -1780,10 +1792,6 @@ Source: [News API](https://newsapi.org/)
 - [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
 
 - [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
-
-- [New Zealand measles outbreak: What it’s like when your child has measles - and a GP’s warning](https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/) (New Zealand Herald)
-
-- [NZ in ‘extremely precarious position’ as measles cases climb – Editorial](https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/) (New Zealand Herald)
 
 ## 25-45 (malaria)
 
@@ -1822,8 +1830,6 @@ Source: [News API](https://newsapi.org/)
 - [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
 
 - [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
-
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (leptospirosis)
 
@@ -1897,8 +1903,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
 
-- [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
-
 ## 25-45 (dengue)
 
 - [Esse fungo perfumado finge ser flor para atrair (e matar) mosquitos](https://super.abril.com.br/ciencia/esse-fungo-perfumado-finge-ser-flor-para-atrair-e-matar-mosquitos/) (Abril.com.br)
@@ -1965,8 +1969,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
-
 ## 25-45 (chikungunya)
 
 - [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
@@ -1990,7 +1992,3 @@ Source: [News API](https://newsapi.org/)
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
 - [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
-
-- [Hong Kong'da kırmızı alarm... Chikungunya ateşi endişesi!](https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi) (Haber7.com)
-
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)

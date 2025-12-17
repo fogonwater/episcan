@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-12-17 07:09",
-  "count_articles_total": 838,
-  "count_articles_new": 10,
+  "last_updated": "2025-12-17 19:08",
+  "count_articles_total": 839,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 26314,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.30.0",
+      "description": "PyPI distribution of EMOD for the Malaria sim type",
+      "url": "https://pypi.org/project/emod-malaria/2.30.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-16 18:56:12",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-17 19:08:10.593644",
+      "internal_id": "9c978f3ddee5d13ce83a4bdc50e0a13d98061e0b0a578c6b95af4243cae7820a",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26312,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WXYZ",
+      "author": "Kellen Voss",
+      "title": "Oakland County child diagnosed with measles, per Health Division",
+      "description": "A child in Oakland County has been diagnosed with Measles recently, the County's Health Division tells us.",
+      "url": "https://www.wxyz.com/news/oakland-county-child-diagnosed-with-measles-per-health-division",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/04b083d/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fde%2F27%2F12c61aa243bca1eade53dc7526c1%2Fmeasles-virus-still.jpg",
+      "publishedAt": "2025-12-16 17:45:40",
+      "content": "PONTIAC, Mich. (WXYZ) A child in Oakland County has been diagnosed with Measles, the County's Health Division tells us. This is the second case of measles found in the county this year. Health offic\u2026 [+1296 chars]",
+      "retrievedAt": "2025-12-17 19:08:09.206643",
+      "internal_id": "73c20501c66bf7f289b921161e3609e828182189d5bc991d1bfdc0572fe42f00",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26309,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "Rabies transmitted through organ transplant kills Michigan man",
+      "description": "CDC investigation reveals the donor had been scratched by a skunk six weeks before death, with the infection going undetected during the donation process.",
+      "url": "https://www.mlive.com/news/2025/12/rabies-transmitted-through-organ-transplant-kills-michigan-man.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/EJRACHZ53ZFZDKBC4ADOMTXT5A.jpg?auth=685972395f529dd0b511c69b91a4c42d79ad2cfa6146f436d3d19c87a6311d5e&width=1280&smart=true&quality=90",
+      "publishedAt": "2025-12-16 17:08:01",
+      "content": "A Michigan man contracted rabies from an infected person through an organ transplant. The man died in February, 51 days after he received a kidney transplant from an infected Idaho man, according t\u2026 [+2969 chars]",
+      "retrievedAt": "2025-12-17 19:08:08.878234",
+      "internal_id": "9190ab7578b9fbe1785cf90eead71b723b72ded318049027ad2426bda73f83ef",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26313,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Lorena Zeballos B\u00e1ez",
+      "title": "Invasi\u00f3n de bichos en Uruguay: qu\u00e9 son los odonatos, los \u201cenormes depredadores\u201d aliados para controlar plagas",
+      "description": "Este lunes varios puntos del pa\u00eds registraron una gran cantidad de estas lib\u00e9lulas. Lejos de ser peligrosas, son depredadoras de las larvas de Aedes aegypti, mosquito que transmite el dengue.",
+      "url": "https://www.elpais.com.uy/vida-actual/ciencia/invasion-de-bichos-en-uruguay-que-son-los-odonatos-los-enormes-depredadores-aliados-para-controlar-plagas",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/5c0d603/2147483647/strip/true/crop/782x380+17+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2F1f%2F170b8d044947a5ae977d71dab954%2Fodonatos-de-agua-en-montevideo.jpg",
+      "publishedAt": "2025-12-16 14:58:52",
+      "content": "Videos que circularon en redes sociales este lunes mostraban una gran masa de insectos voladores desplaz\u00e1ndose por Montevideo. No es nada de lo que alertarse, asegur\u00f3 en di\u00e1logo con El Pa\u00eds el docent\u2026 [+3173 chars]",
+      "retrievedAt": "2025-12-17 19:08:09.997986",
+      "internal_id": "ff03c4cbaf88f2355c404c7949f818a0b86a9cc070c577cb774370f745675616",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26311,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cult MTL",
+      "author": "Lorraine Carpenter",
+      "title": "Montreal public health encourages measles vaccination as three new cases are reported",
+      "description": "Montreal public health is encouraging measles vaccination as three new cases are reported in the Greater Montreal Metropolitan Area.",
+      "url": "https://cultmtl.com/2025/12/new-measles-case-reported-in-montreal-area-quebec-cases-public-health/",
+      "urlToImage": "https://cultmtl.com/wp-content/uploads/2025/05/IMG_8384.jpeg",
+      "publishedAt": "2025-12-16 14:23:42",
+      "content": "Three measles cases have been reported in the Greater Montreal Metropolitan Area. This follows a single case confirmed at a St-Eustache pediatric clinic on Dec. 4, which was the first official measle\u2026 [+810 chars]",
+      "retrievedAt": "2025-12-17 19:08:09.197378",
+      "internal_id": "e73973a3d86ab9313ef872dad73880cfce445f345454d23d43031eff38493b1c",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26310,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Call them 'Nuzzi Pox' (Jason Sattler/THE FARCE)",
+      "description": "Jason Sattler / THE FARCE: Call them \u2018Nuzzi Pox\u2019 \u2014 More Americans got measles this year than Olivia Nuzzi's book. Guess which got more press coverage. Let's change that. \u2014 You have to hand it to Bobby Kennedy Jr., unfortunately, even if you can only rea\u2026",
+      "url": "https://www.memeorandum.com/251216/p15",
+      "urlToImage": "https://www.thefarce.org/content/images/size/w1200/2025/12/Screenshot-2025-12-16-at-6.56.42---AM.png",
+      "publishedAt": "2025-12-16 13:00:05",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-12-17 19:08:09.162211",
+      "internal_id": "0b9a9c23928c0eda0aca728bec20fd06f5517374b3f5a9e05ef04b42a5b95016",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26315,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Wiadomosci.wp.pl",
+      "author": "Grupa Wirtualna Polska",
+      "title": "Wielka Brytania: Wykryto nowy wariant wirusa \"ma\u0142piej ospy\". Specjali\u015bci nawo\u0142uj\u0105 do szczepie\u0144",
+      "description": "Brytyjscy specjali\u015bci wykryli now\u0105 odmian\u0119 wirusa Mpox, kt\u00f3ry stwierdzono u osoby powracaj\u0105cej z Azji. Szczepionka przeciw ospie prawdziwej zapewnia ochron\u0119, lecz skuteczno\u015b\u0107 wobec tego wariantu pozostaje niepewna.",
+      "url": "https://wiadomosci.wp.pl/wielka-brytania-wykryto-nowy-wariant-wirusa-malpiej-ospy-specjalisci-nawoluja-do-szczepien-7233078026120128a",
+      "urlToImage": "https://v.wpimg.pl/NzIzZGFiYRsoGCx0aRJsDmtAeC4vS2JYPFhgZWlYd0h5AnUhLwUrCCwKNWkhGzsKKA0qaTYFYRs5E3Uxd0YqEzoKNiY_RisXKx8-aHQPLEItSWN_a1p8Qy1XbiRxDWNDcU5ianNdeU17ST4mJFooQ2sH",
+      "publishedAt": "2025-12-16 12:40:11",
+      "content": "Nowy wariant wirusa Mpox odkryto u osoby powracajcej z Azji.Szczepionka przeciw ospie prawdziwej moe chroni w 75-80 procentach.Nowe przypadki zakae mocno zwizane s z bliskim\u2026 [+1686 chars]",
+      "retrievedAt": "2025-12-17 19:08:11.105776",
+      "internal_id": "6420449d4d7d6938f862bbb65988d2f2f20c755198dcf74c8ff25658dd99c6f9",
+      "publishedAtLabel": "Dec 16"
+    },
     {
       "id": 26301,
       "query": [
@@ -15029,116 +15155,6 @@
       "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
       "retrievedAt": "2025-11-04 07:08:00.903971",
       "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25472,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Bethany Reitsma",
-      "title": "New Zealand measles outbreak: What it\u2019s like when your child has measles - and a GP\u2019s warning",
-      "description": "What it\u2019s like when your child has measles - and a GP\u2019s warning for families.",
-      "url": "https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-11-02 18:56:01",
-      "content": "The two girls had both had the standard vaccinations at the time. They both got the measles injections when everyone else did, at the normal time, Howie, who lives in Motueka, recalls. The doctors \u2026 [+4491 chars]",
-      "retrievedAt": "2025-11-03 19:05:57.790584",
-      "internal_id": "1a798cc6045d6d651bcd6ead43511cdf2a22340b5deb431aacdb8c0cacebcb12",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25471,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "NZ Herald",
-      "title": "NZ in \u2018extremely precarious position\u2019 as measles cases climb \u2013 Editorial",
-      "description": "New Zealand\u2019s measles immunity rate is just 82%, well below the 95% target.",
-      "url": "https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg?auth=f858c594d9df0f39356df60be85a30ea35175f6e87db5aa5af4c54c7a592b69d&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-11-02 16:00:00",
-      "content": "Measles is one of our most infectious diseases, and so, in an unvaccinated population, one person can potentially make 12 to 18 other people sick, Howe told Chelsea Daniels on The Front Page podcast \u2026 [+2543 chars]",
-      "retrievedAt": "2025-11-03 19:05:57.732835",
-      "internal_id": "4ce717f89fa5041fca295b5324efd8d0e1fa5f7ea7e2222749157eee896cdaed",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25476,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Lifestyle Desk",
-      "title": "WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for",
-      "description": "The World Health Organisation (WHO) has raised a fresh alert after detecting the clade Ib strain of the Mpox virus across 42 countries. Once confined mainly to Central and West Africa, the virus has now spread to parts of Europe, Asia, and the Americas.As of \u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms",
-      "urlToImage": "https://static.toiimg.com/photo/125035722.cms",
-      "publishedAt": "2025-11-02 14:46:50",
-      "content": "Mpox spreads mainly through close contact, skin-to-skin touch, body fluids, respiratory droplets, or contaminated objects like bedding and towels. In the latest clusters, clade Ib has been detected i\u2026 [+285 chars]",
-      "retrievedAt": "2025-11-03 19:06:00.231693",
-      "internal_id": "730848667e19663ca0cc0b23a14b5debe85d9cb188b1fdcc483b4af230671feb",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25475,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Fatih Yoncal\u0131k",
-      "title": "Hong Kong'da k\u0131rm\u0131z\u0131 alarm... Chikungunya ate\u015fi endi\u015fesi!",
-      "description": "Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vir\u00fcs\u00fc olan Chikungunya ate\u015fi vakas\u0131 tespit edildi. yakla\u015f\u0131k 8 bin ki\u015finin bula\u015f riski alt\u0131nda oldu\u011fu aktar\u0131ld\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/44/hong_kongda_kirmizi_alarm_chikungunya_atesi_endisesi_1762092301_3952.jpg",
-      "publishedAt": "2025-11-02 14:06:00",
-      "content": "\u00c7in'in Hong Kong \u00d6zel dari B\u00f6lgesi'nde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vakas tespit edildii bildirildi. 82 YAINDAK BR KADINDA RASTLANILDI South China Morning Post'un haber\u2026 [+1366 chars]",
-      "retrievedAt": "2025-11-03 19:05:59.959076",
-      "internal_id": "875d0849f71063666ae70010265410d32466534187cf59f3fe7b125eb5adf718",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25473,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432",
-      "title": "\u0412 \u0424\u0420\u0413 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0439 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u0441\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u0412 \u0440\u044f\u0434\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0441\u0442\u0440\u0430\u043d\u044b \u0432\u0432\u0435\u0434\u0435\u043d \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043f\u0442\u0438\u0446\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 Bild.",
-      "url": "https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/02/478_a08.jpg",
-      "publishedAt": "2025-11-02 13:40:02",
-      "content": "3- - , . , , . , . , . . 16 . , . H5N1, . . - . . 13 . , . - , . , . \" , , . . , . , . \", - hamburg.com. , . Bild , , .",
-      "retrievedAt": "2025-11-03 19:05:58.208470",
-      "internal_id": "c71f33b5b0715e1b8e1ddc9600fbd401b70be9e614fe9a103cdd350148cb337a",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25474,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Economictimes.com",
-      "author": "iStock",
-      "title": "5 indoor plants that naturally keep mosquitoes away",
-      "description": "If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, and chikungunya. But instead of reaching for chemical repellents, nature offers an elegant s\u2026",
-      "url": "https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125030726,width-1070,height-580,overlay-economictimes/slideshow.jpg",
-      "publishedAt": "2025-11-02 07:35:04",
-      "content": "Nov 02, 2025, 01:08:23 PM IST If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, a\u2026 [+3027 chars]",
-      "retrievedAt": "2025-11-03 19:05:58.678587",
-      "internal_id": "b617340d2e8571b3e6faa63d7af26c43bd7aac30e2dcecc52b4e68ae391274b8",
       "publishedAtLabel": "Nov 2"
     }
   ]
