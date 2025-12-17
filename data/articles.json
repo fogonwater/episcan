@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-12-16 19:08",
-  "count_articles_total": 822,
-  "count_articles_new": 15,
+  "last_updated": "2025-12-17 07:09",
+  "count_articles_total": 838,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 26301,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "fox6now.com",
+      "author": "Stephanie Quirk",
+      "title": "Raccoon falls through ceiling at Grand Geneva restaurant, bites guest",
+      "description": "A raccoon fell through the ceiling of a Grand Geneva restaurant Sunday night, bit a guest, and was later euthanized and sent for rabies testing, according to deputies and wildlife officials.",
+      "url": "https://www.fox6now.com/news/raccoon-falls-through-ceiling-grand-geneva-restaurant-bites-guest",
+      "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2025/12/1280/720/10p-raccoon-crashes-grand-geneva-pkg_00.01.24.32.jpg?ve=1&tl=1",
+      "publishedAt": "2025-12-16 04:35:23",
+      "content": "LAKE GENEVA, Wis. - Guests dining at one of Grand Geneva Resort\u2019s restaurants got an unexpected and unwelcome surprise Sunday night when a raccoon fell into the dining room and bit a customer. What \u2026 [+2386 chars]",
+      "retrievedAt": "2025-12-17 07:09:52.833356",
+      "internal_id": "adab371f20646eae34a039ac1e92d2d5295436179d10e9b260f3ce9fc838eacd",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26300,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Do ferrets really need shots?",
+      "description": "Do Ferrets Really Need Shots? The Essential Guide to Ferret Vaccinations Yes, ferrets absolutely need certain shots, primarily for rabies and distemper, to protect them from deadly diseases and ensure their legal compliance as pets; neglecting these vaccinati\u2026",
+      "url": "https://www.lifesciencesworld.com/do-ferrets-really-need-shots/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-16 03:52:07",
+      "content": "Do Ferrets Really Need Shots? The Essential Guide to Ferret Vaccinations Yes, ferrets absolutely need certain shots, primarily for rabies and distemper, to protect them from deadly diseases and ensu\u2026 [+6933 chars]",
+      "retrievedAt": "2025-12-17 07:09:52.822583",
+      "internal_id": "a361c01122be1964e7ef1f2d81fd67f758d1a7de484714f189c869e6c320adcd",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26299,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Does seeing a raccoon during the day mean it has rabies?",
+      "description": "Does Seeing a Raccoon During the Day Mean It Has Rabies? Does seeing a raccoon during the day mean it has rabies? No, not necessarily. While diurnal behavior can be a symptom, it\u2019s not a definitive indicator and many other factors can cause a raccoon to be ac\u2026",
+      "url": "https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-16 02:01:42",
+      "content": "Does Seeing a Raccoon During the Day Mean It Has Rabies? Does seeing a raccoon during the day mean it has rabies?No, not necessarily. While diurnal behavior can be a symptom, it\u2019s not a definitive i\u2026 [+10154 chars]",
+      "retrievedAt": "2025-12-17 07:09:52.793821",
+      "internal_id": "d46a48afd4c1d38e87b75e423e47fbc76717060c805b64aadab7f8ba83168b18",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26302,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Hoover.org",
+      "author": "December 16, 2025",
+      "title": "Absences at Texas School District Spiked 41 Percent After Measles Outbreak, Says Hoover Scholar",
+      "description": "A West Texas school district that experienced a measles outbreak saw school absences climb by 41 percent and remain high for months afterward, demonstrating immense educational impact of preventable illnesses on communities with low rates of immunization, new\u2026",
+      "url": "https://www.hoover.org/news/absences-texas-school-district-spiked-41-percent-after-measles-outbreak-says-hoover-scholar",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2025-12/iStock-2209760517.jpg?h=cf047641&itok=UfTH8ORO",
+      "publishedAt": "2025-12-16 00:00:00",
+      "content": "Hoover Institution (Stanford, CA) A West Texas school district that experienced a measles outbreak saw school absences climb by 41 percent and remain high for months afterward, demonstrating immense \u2026 [+3665 chars]",
+      "retrievedAt": "2025-12-17 07:09:53.052964",
+      "internal_id": "df9f22fd039a9d441d10e9026184c4e444910e7bdea9de608a7c89d40b5a94ac",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 26304,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "3 new measles cases found in Weld, Montezuma counties",
+      "description": "The new infections bring Colorado's total to 36 measles cases this year, with five hospitalizations and no deaths. In a typical year, the state had two or fewer cases among people who traveled overseas.",
+      "url": "https://www.denverpost.com/2025/12/15/colorado-measles-weld-montezuma-county/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/12/202512090415MCT_____PHOTO____US-NEWS-HEALTH-MEASLES-SCIENTISTS-MCT-1.jpg?w=1024&h=768",
+      "publishedAt": "2025-12-15 23:44:00",
+      "content": "A school-aged child in Weld County and two people in Montezuma County have measles, but Colorado public health officials say they don\u2019t know of any places where the patients could have exposed others\u2026 [+1414 chars]",
+      "retrievedAt": "2025-12-17 07:09:53.072919",
+      "internal_id": "442903019625c72303381971ba089c3b69d76be6c96af4155b0849a3a3341f3c",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 26305,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Denver7.com",
+      "author": "\u00d3scar Contreras",
+      "title": "New measles cases detected in Weld, Montezuma counties, bringing CO total to 36",
+      "description": "Three new cases of the highly contagious measles virus have been confirmed in two Colorado counties this week, bringing the state total to 36 so far this year, state health officials said Monday.",
+      "url": "https://www.denver7.com/lifestyle/health/new-measles-cases-detected-in-weld-montezuma-counties-bringing-colorados-tally-for-the-year-to-36",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ad299f2/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F28%2F8a%2F7d97420b4bf28ce6a84603f9f019%2Fap23320622106031.jpg",
+      "publishedAt": "2025-12-15 23:39:45",
+      "content": "DENVER Three new cases of the highly contagious measles virus have been confirmed in two Colorado counties this week, bringing the state total to 36 so far this year, state health officials said Mond\u2026 [+3693 chars]",
+      "retrievedAt": "2025-12-17 07:09:53.090682",
+      "internal_id": "f0c8a7a236f86408c1e61f5b727cc8dbc04984cf293c67ab344f3822bf0af63d",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 26306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.29.12",
+      "description": "PyPI distribution of EMOD for the Malaria sim type",
+      "url": "https://pypi.org/project/emod-malaria/2.29.12/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-15 23:02:55",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-17 07:09:54.151791",
+      "internal_id": "bde3d8969ddd3e0a61ff6549141cc04cf61f8e761b598bcdf160083837ab6b59",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 26307,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.27.0",
+      "description": "PyPI distribution of EMOD for the Malaria sim type",
+      "url": "https://pypi.org/project/emod-malaria/2.27.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-15 22:48:21",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-17 07:09:54.161722",
+      "internal_id": "d89fc1661e3834c55b9ff34934818688f08eaac361c6bbd44f68ee9abcaa0a87",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 26308,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria added to PyPI",
+      "description": "PyPI distribution of EMOD for the Malaria sim type",
+      "url": "https://pypi.org/project/emod-malaria/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-15 22:48:21",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-17 07:09:54.179366",
+      "internal_id": "fd1c2f5e7f6a9f87bd7a42a42fc1673348c5e83f9a3e5d0c3b707e8ed29e6339",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 26303,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak confirmed at Saint-Eustache, Que., pediatric centre",
+      "description": "Quebec public health officials have confirmed a measles outbreak linked to a pediatric medical centre in Saint-Eustache, Que.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-saint-eustache-outbreak-9.7016650",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-15 20:19:30",
+      "content": "Quebec public health officials have confirmed a measles outbreak linked to a pediatric medical centre in Saint-Eustache, Que. As of Dec. 15, at 9 a.m., officials linked three confirmed cases to the \u2026 [+1107 chars]",
+      "retrievedAt": "2025-12-17 07:09:53.063030",
+      "internal_id": "a6279b1fa1dae42f52a215561b33cd70587311235b0f087533109a3d2324a259",
+      "publishedAtLabel": "Dec 15"
+    },
     {
       "id": 26290,
       "query": [
@@ -14849,6 +15029,116 @@
       "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
       "retrievedAt": "2025-11-04 07:08:00.903971",
       "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25472,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Bethany Reitsma",
+      "title": "New Zealand measles outbreak: What it\u2019s like when your child has measles - and a GP\u2019s warning",
+      "description": "What it\u2019s like when your child has measles - and a GP\u2019s warning for families.",
+      "url": "https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 18:56:01",
+      "content": "The two girls had both had the standard vaccinations at the time. They both got the measles injections when everyone else did, at the normal time, Howie, who lives in Motueka, recalls. The doctors \u2026 [+4491 chars]",
+      "retrievedAt": "2025-11-03 19:05:57.790584",
+      "internal_id": "1a798cc6045d6d651bcd6ead43511cdf2a22340b5deb431aacdb8c0cacebcb12",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25471,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "NZ Herald",
+      "title": "NZ in \u2018extremely precarious position\u2019 as measles cases climb \u2013 Editorial",
+      "description": "New Zealand\u2019s measles immunity rate is just 82%, well below the 95% target.",
+      "url": "https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg?auth=f858c594d9df0f39356df60be85a30ea35175f6e87db5aa5af4c54c7a592b69d&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 16:00:00",
+      "content": "Measles is one of our most infectious diseases, and so, in an unvaccinated population, one person can potentially make 12 to 18 other people sick, Howe told Chelsea Daniels on The Front Page podcast \u2026 [+2543 chars]",
+      "retrievedAt": "2025-11-03 19:05:57.732835",
+      "internal_id": "4ce717f89fa5041fca295b5324efd8d0e1fa5f7ea7e2222749157eee896cdaed",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25476,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Lifestyle Desk",
+      "title": "WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for",
+      "description": "The World Health Organisation (WHO) has raised a fresh alert after detecting the clade Ib strain of the Mpox virus across 42 countries. Once confined mainly to Central and West Africa, the virus has now spread to parts of Europe, Asia, and the Americas.As of \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms",
+      "urlToImage": "https://static.toiimg.com/photo/125035722.cms",
+      "publishedAt": "2025-11-02 14:46:50",
+      "content": "Mpox spreads mainly through close contact, skin-to-skin touch, body fluids, respiratory droplets, or contaminated objects like bedding and towels. In the latest clusters, clade Ib has been detected i\u2026 [+285 chars]",
+      "retrievedAt": "2025-11-03 19:06:00.231693",
+      "internal_id": "730848667e19663ca0cc0b23a14b5debe85d9cb188b1fdcc483b4af230671feb",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25475,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Fatih Yoncal\u0131k",
+      "title": "Hong Kong'da k\u0131rm\u0131z\u0131 alarm... Chikungunya ate\u015fi endi\u015fesi!",
+      "description": "Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vir\u00fcs\u00fc olan Chikungunya ate\u015fi vakas\u0131 tespit edildi. yakla\u015f\u0131k 8 bin ki\u015finin bula\u015f riski alt\u0131nda oldu\u011fu aktar\u0131ld\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/44/hong_kongda_kirmizi_alarm_chikungunya_atesi_endisesi_1762092301_3952.jpg",
+      "publishedAt": "2025-11-02 14:06:00",
+      "content": "\u00c7in'in Hong Kong \u00d6zel dari B\u00f6lgesi'nde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vakas tespit edildii bildirildi. 82 YAINDAK BR KADINDA RASTLANILDI South China Morning Post'un haber\u2026 [+1366 chars]",
+      "retrievedAt": "2025-11-03 19:05:59.959076",
+      "internal_id": "875d0849f71063666ae70010265410d32466534187cf59f3fe7b125eb5adf718",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25473,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432",
+      "title": "\u0412 \u0424\u0420\u0413 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0439 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u0441\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u0412 \u0440\u044f\u0434\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0441\u0442\u0440\u0430\u043d\u044b \u0432\u0432\u0435\u0434\u0435\u043d \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043f\u0442\u0438\u0446\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 Bild.",
+      "url": "https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/02/478_a08.jpg",
+      "publishedAt": "2025-11-02 13:40:02",
+      "content": "3- - , . , , . , . , . . 16 . , . H5N1, . . - . . 13 . , . - , . , . \" , , . . , . , . \", - hamburg.com. , . Bild , , .",
+      "retrievedAt": "2025-11-03 19:05:58.208470",
+      "internal_id": "c71f33b5b0715e1b8e1ddc9600fbd401b70be9e614fe9a103cdd350148cb337a",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25474,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "iStock",
+      "title": "5 indoor plants that naturally keep mosquitoes away",
+      "description": "If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, and chikungunya. But instead of reaching for chemical repellents, nature offers an elegant s\u2026",
+      "url": "https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125030726,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "publishedAt": "2025-11-02 07:35:04",
+      "content": "Nov 02, 2025, 01:08:23 PM IST If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, a\u2026 [+3027 chars]",
+      "retrievedAt": "2025-11-03 19:05:58.678587",
+      "internal_id": "b617340d2e8571b3e6faa63d7af26c43bd7aac30e2dcecc52b4e68ae391274b8",
       "publishedAtLabel": "Nov 2"
     }
   ]
