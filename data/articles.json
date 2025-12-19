@@ -1,8 +1,387 @@
 {
-  "last_updated": "2025-12-19 07:09",
-  "count_articles_total": 880,
-  "count_articles_new": 17,
+  "last_updated": "2025-12-19 19:06",
+  "count_articles_total": 895,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 26362,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Singularity Hub",
+      "author": "Shelly Fan",
+      "title": "New Gene Drive Stops the Spread of Malaria\u2014Without Killing Any Mosquitoes",
+      "description": "A Tanzania-led study pitted gene-edited mosquitoes against a wide range of malaria parasites found locally, as opposed to those used only in lab studies. The post New Gene Drive Stops the Spread of Malaria\u2014Without Killing Any Mosquitoes appeared first on Sing\u2026",
+      "url": "https://singularityhub.com/2025/12/18/this-gene-drive-stops-the-spread-of-real-world-malaria-without-killing-any-mosquitoes/",
+      "urlToImage": "https://singularityhub.com/uploads/2025/12/mosquito-on-skin.jpeg?auto=webp",
+      "publishedAt": "2025-12-18 17:09:46",
+      "content": "Mosquitoes are an uncomfortable, itchy nuisance. But for people in sub-Saharan Africa, a bite could mean death. The pests are living incubators for the parasite that causes malaria. Roughly 600,000 p\u2026 [+6898 chars]",
+      "retrievedAt": "2025-12-19 19:06:39.566645",
+      "internal_id": "39d58db6888e43fa4d0fd46f8f75739e5760293ef748a36917f7a5237428381d",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26367,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Fast nur M\u00e4nner \u2013 Mpox-F\u00e4lle in Berlin in diesem Jahr verdoppelt",
+      "description": "Auch in diesem Jahr gab es die meisten Mpox-F\u00e4lle in Deutschland in Berlin. Fast ausnahmslos sind M\u00e4nner betroffen. Was eine Expertin sagt.",
+      "url": "https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/410193257/410193257_1766077296_v16_9_1600.jpeg",
+      "publishedAt": "2025-12-18 17:01:37",
+      "content": "Dieses Jahr haben sich in Berlin doppelt so viele Menschen mit Mpox infiziert als in den zwei Jahren zuvor. Bislang wurden 186 F\u00e4lle gemeldet, wie das Landesamt f\u00fcr Gesundheit und Soziales (Lageso) i\u2026 [+4591 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.398257",
+      "internal_id": "c474347f17860200e6a8c2328eb0eaa8ce5a7cab7f5f9f718d1c5d951fc3ec07",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26366,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Seltene Krankheit: Mpox-F\u00e4lle haben sich in Berlin verdoppelt",
+      "description": "Auch in diesem Jahr gab es die meisten Mpox-F\u00e4lle in Deutschland in Berlin. Auch wenn die Krankheit selten ist, m\u00fcsse man die Entwicklung genau beobachten, sagt eine Expertin.",
+      "url": "https://www.stern.de/panorama/wissen/seltene-krankheit--mpox-faelle-haben-sich-in-berlin-verdoppelt-36976084.html",
+      "urlToImage": "https://image.stern.de/36976160/t/EF/v1/w1440/r1.7778/-/18--7rospy6cdmv5axs2048jpeg---b07252c91351232a.jpg",
+      "publishedAt": "2025-12-18 16:13:06",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Auch in diesem Jahr gab es die meisten Mpox-F\u00e4lle in Deutschland in Berlin. Auch wenn die Krankheit selten ist, m\u00fcsse man die Entwicklung genau b\u2026 [+4969 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.380974",
+      "internal_id": "219f77dccc2f8960db197f40ba4abc8540e104582315c9e2c9ba10a225190e15",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26360,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Por que algumas pessoas com dengue n\u00e3o t\u00eam sintomas? Estudo responde",
+      "description": "Pesquisa internacional revela por que parte dos infectados pelo v\u00edrus da dengue n\u00e3o adoece e aponta caminhos para vacinas e terapias futuras",
+      "url": "https://www.metropoles.com/saude/por-que-pessoas-dengue-sem-sintomas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/01163114/mosquito-2.jpg",
+      "publishedAt": "2025-12-18 15:53:18",
+      "content": "Os sintomas da dengue variam de acordo com a resposta do organismo \u00e0 infec\u00e7\u00e3o pelo v\u00edrus. \u00c9 comum que algumas pessoas sejam infectadas e n\u00e3o apresentem qualquer sintoma, ao passo que outras desenvolv\u2026 [+6917 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.866782",
+      "internal_id": "372434ea9d352292c5832d059004cb99653e305d96acb7d163797b17b8d2cb37",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26354,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Montreal hospitals flagged as sites for possible measles exposure as cases climb",
+      "description": "A measles outbreak in Quebec has grown and cases are now being linked to locations in Montreal. Public health officials now say people may have been exposed in Montreal.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-quebec-9.7020963",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-18 15:50:19",
+      "content": "A measles outbreak in Quebec has grown and cases are now being linked to locations in Montreal. As of Dec. 17, public health officials in Quebec have confirmed six cases of measles in Quebec, prima\u2026 [+1477 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.084349",
+      "internal_id": "60c2e62d234c57005cc4f7ff1555e4b963197a4a50dc65ae0085046d454642aa",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26368,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "H\u00e4usliche Isolation angeordnet: Erster Fall der Mpox-Variante Ib in Berlin festgestellt",
+      "description": "Die Krankheit Mpox ist in Deutschland selten. Die Variante Klade Ib sorgte vergangenes Jahr allerdings f\u00fcr Aufruhr. Wie Experten den ersten Berliner Fall einordnen und wie es bundesweit aussieht.",
+      "url": "https://www.tagesspiegel.de/wissen/hausliche-isolation-angeordnet-erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-15065339.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15065338/alternates/BASE_16_9_W1400/1766071742000/ampullen-mit-impfstoff-gegen-mpox.jpeg",
+      "publishedAt": "2025-12-18 15:29:02",
+      "content": "Erstmals ist in Berlin ein Mpox-Fall der Variante Klade Ib nachgewiesen worden. Mpox ist eine seltene Erkrankung und wird durch engen K\u00f6rperkontakt \u00fcbertragen, vor allem beim Sex. Der erkrankte Mann \u2026 [+2389 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.407219",
+      "internal_id": "e01119391144d6b95a9d7430f34ac28a1466505f4180301dcaaf8f00c6d69e88",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26369,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheit: Erster Fall der Mpox-Variante Ib in Berlin festgestellt",
+      "description": "Die Krankheit Mpox ist in Deutschland selten. Die Variante Klade Ib sorgte vergangenes Jahr allerdings f\u00fcr Aufruhr. Wie Experten den ersten Berliner Fall einordnen und wie es bundesweit aussieht.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheit-erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-15065339.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15065338/alternates/BASE_16_9_W1400/1766071742000/ampullen-mit-impfstoff-gegen-mpox.jpeg",
+      "publishedAt": "2025-12-18 15:29:02",
+      "content": "Erstmals ist in Berlin ein Mpox-Fall der Variante Klade Ib nachgewiesen worden. Mpox ist eine seltene Erkrankung und wird durch engen K\u00f6rperkontakt \u00fcbertragen, vor allem beim Sex. Der Mann sei zwisch\u2026 [+2207 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.416016",
+      "internal_id": "8083462ccc6840f4d35d9ded74c66977f06a26a50966df6f0e3baf227d7a224c",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26364,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Openstreetmap.org",
+      "author": "OpenStreetMap User's Diaries",
+      "title": "OpenStreetMap User's Diaries: Datos Libres y Tecnolog\u00eda: Aliados Estrat\u00e9gicos en la Lucha contra la Malaria",
+      "description": "En el marco de la estrategia nacional para la eliminaci\u00f3n de la Malaria, la precisi\u00f3n en la localizaci\u00f3n y cuantificaci\u00f3n de la poblaci\u00f3n en riesgo es fundamental. Este ejercicio t\u00e9cnico demuestra c\u00f3mo el uso de datos geogr\u00e1ficos abiertos OpenStreetMap y tecn\u2026",
+      "url": "https://www.openstreetmap.org/user/kaxtillo/diary/407946",
+      "urlToImage": "https://www.openstreetmap.org/assets/osm_logo_256-ed028f90468224a272961c380ecee0cfb73b8048b34f4b4b204b7f0d1097875d.png",
+      "publishedAt": "2025-12-18 15:27:53",
+      "content": "En el marco de la estrategia nacional para la eliminaci\u00f3n de la Malaria, la precisi\u00f3n en la localizaci\u00f3n y cuantificaci\u00f3n de la poblaci\u00f3n en riesgo es fundamental. Este ejercicio t\u00e9cnico demuestra c\u00f3\u2026 [+2443 chars]",
+      "retrievedAt": "2025-12-19 19:06:39.668769",
+      "internal_id": "954fdfecf3733c193a8b6f430168eaf8caf1c4714faefb46308bbf80274839b7",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26365,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Krankheit: Erster Fall der Mpox-Variante Ib in Berlin festgestellt",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheit\u201c. Lesen Sie jetzt \u201eErster Fall der Mpox-Variante Ib in Berlin festgestellt\u201c.",
+      "url": "https://www.zeit.de/news/2025-12/18/erster-fall-der-mpox-variante-ib-in-berlin-festgestellt",
+      "urlToImage": "https://img.zeit.de/news/2025-12/18/erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-image-group/wide__1300x731",
+      "publishedAt": "2025-12-18 15:27:52",
+      "content": "Erstmals ist in Berlin ein Mpox-Fall der Variante Klade Ib nachgewiesen worden. Mpox ist eine seltene Erkrankung und wird durch engen K\u00f6rperkontakt \u00fcbertragen, vor allem beim Sex. Der Mann sei zwisch\u2026 [+2152 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.362831",
+      "internal_id": "7bb402804eeca85c1ffcf4ac0ea2be47fe09bf4d17e877faee7e935e2b86d9d2",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26370,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheit: Erster Fall der Mpox-Variante Ib in Berlin festgestellt",
+      "description": "Die Krankheit Mpox ist in Deutschland selten. Die Variante Klade Ib sorgte vergangenes Jahr allerdings f\u00fcr Aufruhr. Wie Experten den ersten Berliner Fall einordnen und wie es bundesweit aussieht.",
+      "url": "https://www.stern.de/panorama/wissen/krankheit--erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-36976084.html",
+      "urlToImage": "https://image.stern.de/36976086/t/au/v1/w1440/r1.7778/-/18--o2dqrkpatvv9axs2048jpeg---8b56c9b32a5a81b5.jpg",
+      "publishedAt": "2025-12-18 15:27:52",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Krankheit Mpox ist in Deutschland selten. Die Variante Klade Ib sorgte vergangenes Jahr allerdings f\u00fcr Aufruhr. Wie Experten den ersten Berli\u2026 [+2364 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.425596",
+      "internal_id": "5e9ae4b421457190db7e3224daf37108594a7ef42c1d639e4280425d7d36f546",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26357,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andrei Rachieru",
+      "title": "Gripa aviar\u0103 H5N1. Simul\u0103ri \u0219tiin\u021bifice arat\u0103 c\u00e2t de rapid poate sc\u0103pa de sub control un focar uman",
+      "description": "Gripa aviar\u0103 H5N1, un virus cunoscut pentru rata sa ridicat\u0103 de mortalitate, continu\u0103 s\u0103 \u00eengrijoreze comunitatea \u0219tiin\u021bific\u0103 interna\u021bional\u0103. De\u0219i riscul pentru popula\u021bia general\u0103 r\u0103m\u00e2ne sc\u0103zut, exper\u021bii avertizeaz\u0103 c\u0103 virusul ar putea suferi muta\u021bii care s\u0103 \u00ee\u2026",
+      "url": "https://www.mediafax.ro/sanatate/gripa-aviara-h5n1-simulari-stiintifice-arata-cat-de-rapid-poate-scapa-de-sub-control-un-focar-uman-23660591",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/images/1/3614/22636598/1-gripa-aviara-h5n1.jpg",
+      "publishedAt": "2025-12-18 14:17:35",
+      "content": "Potrivit Organizaiei Mondiale a Sntii, \u00eentre 2003 i august 2025 au fost raportate 990 de cazuri umane de grip aviar H5N1 \u00een 25 de ri, dintre care 475 s-au soldat cu decese. Gripa aviar H5N1 \u00een SUA i\u2026 [+1596 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.586520",
+      "internal_id": "e8d2e136bd7bc0b055fb3b7f31fa1ad8d0705e0a6b930e0d1c68eea6aeb581d5",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26351,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Herman Banza Kongolo, Yiksing Peng, Malen Chan, Heidi Auerswald, Veasna Duong, Pisey Thai, Vechana Thap, Yin Hann, Aima Mohhamad, Florian Girond, Sowath Ly, Claude Flamand, H\u00e9l\u00e8ne Guis",
+      "title": "Drivers of rabies post-exposure prophylaxis noncompletion in Cambodia, 2019 to 2022",
+      "description": "Author summary Rabies is a neglected tropical disease that is nearly always fatal but entirely preventable through timely post-exposure prophylaxis vaccination (PEPV). In Cambodia, where rabies remains endemic, we analyzed PEPV completion among more than 240,\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013813",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013813.g007&size=inline",
+      "publishedAt": "2025-12-18 14:00:00",
+      "content": "Introduction Rabies is a zoonotic encephalitis caused by a lyssavirus transmitted to humans mainly by dogs, nearly always fatal after the onset of symptoms [1]. The estimated annual global death tol\u2026 [+56549 chars]",
+      "retrievedAt": "2025-12-19 19:06:37.749140",
+      "internal_id": "e8e5b949a16bc980749e41cda755ddc48751a531d2b94f442df50f4a2b22dcaf",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26363,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Norapat Nitaramorn, Kasem Kulkeaw, Mallika Imwong",
+      "title": "Experimental models of liver-stage malaria: Progress, gaps, and challenges",
+      "description": "Author summary Ethical concerns regarding animal use and advances in cell culture have driven major improvements in in vitro disease models. Although often neglected, the liver stage is crucial for preventing and eradicating malaria. Modeling Plasmodium devel\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013796",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013796.g004&size=inline",
+      "publishedAt": "2025-12-18 14:00:00",
+      "content": "Advances in cell culture technology have led to the improvement of in vitro models that better replicate human tissue pathology. Conventional two-dimensional (2D) cultures differ significantly from a\u2026 [+14112 chars]",
+      "retrievedAt": "2025-12-19 19:06:39.659397",
+      "internal_id": "295707a4e26cbd3d3113625b72fe3643bd6a0cd52f1436cfaefd9a96fcf3d91c",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26352,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "U.S. risks losing measles elimination status for first time in over 2 decades",
+      "description": "The CDC has tracked nearly 2,000 confirmed measles cases across 43 states this year, the most on record since the disease was declared eradicated more than two decades ago. The U.S. is now at risk of losing its measles elimination status. Skyler Henry reports\u2026",
+      "url": "https://www.cbsnews.com/video/us-risks-losing-measles-elimination-status-for-first-time-in-over-2-decades/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/18/4ae19b4f-823f-416c-aedc-a9e37969d334/thumbnail/1200x630/685f4e0f1e4069da285efffa54792bcc/cbsn-fusion-us-risks-losing-measles-elimination-status-for-first-time-in-over-2-decades-thumbnail.jpg",
+      "publishedAt": "2025-12-18 13:51:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-12-19 19:06:37.966717",
+      "internal_id": "d79c35517d88da55f742196bbeed3abbb083bbb489d34ef051b0753f4d2dedf2",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26353,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "title": "Measles\u2019 Most Deceptive Trait",
+      "description": "Most cases are mild, obscuring the disease\u2019s worst outcomes.",
+      "url": "https://www.theatlantic.com/health/2025/12/measles-elimination-outbreaks/685303/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/3aJ0mjpQw8cv5iTnAb_A-UoARTI=/0x85:3994x2165/1200x625/media/img/mt/2025/12/2025_12_17_Measles_Outbreaks_Will_Be_a_Terrible_Routine/original.jpg",
+      "publishedAt": "2025-12-18 13:00:00",
+      "content": "In the early 1960s, American childhood was not what it is today. Many children spent hours playing unsupervised in the streets; they rode around in cars without seat belts, then came home to frozen d\u2026 [+8862 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.065927",
+      "internal_id": "7a8828b40f08bc9e9484af42050a26d44ac6d2b3e2fb3b5cbd338ad83fb261ca",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26361,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Pratik Pawar",
+      "title": "This Brutal Mosquito-Borne Disease May Have a Cure\u2014But There\u2019s a Catch",
+      "description": "This story was originally published by Vox and is reproduced here as part of the Climate Desk collaboration. There\u2019s a reason dengue infections are also called \u201cbreakbone fever.\u201d Along with a mild fever, symptoms of the mosquito-borne illness include bone-dee\u2026",
+      "url": "https://www.motherjones.com/politics/2025/12/mosnodenvir-dengue-fever-treatment-chikungunya-yellow-zika-mosquitoes-disease/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/12/c9a7d2e79508fb06d2c7a550cb2cf9c2c3335691.webp?w=1200&h=630&crop=1",
+      "publishedAt": "2025-12-18 12:30:00",
+      "content": "A childrens ward for dengue fever in Bangladeshs capital.bdul Goni/AFP/Getty via Vox Get your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\u2026 [+10540 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.892925",
+      "internal_id": "eee3f1c47d9cbe110580545d5655d63e2859b1b29989714fda9a43f6df07420a",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26358,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Manoramanews.com",
+      "author": "\u0d37\u0d2b\u0d40\u0d15\u0d4d\u0d15\u0d4d \u0d37\u0d3e\u0d39\u0d3f\u0d28",
+      "title": "\u0d2a\u0d15\u0d4d\u0d37\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d05\u0d2a\u0d15\u0d1f\u0d15\u0d30\u0d2e\u0d3e\u0d2f\u0d3f \u0d2a\u0d1f\u0d7c\u0d28\u0d4d\u0d28\u0d3e\u0d7d \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27\u0d02 \u0d05\u0d2a\u0d4d\u0d30\u0d3e\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d02; \u0d35\u0d30\u0d41\u0d2e\u0d4b \u0d35\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d02 \u0d32\u0d4b\u0d15\u0d4d\u0d15\u0d4d\u0d21\u0d57\u0d23\u0d4d\u200d?; \u0d2a\u0d20\u0d28\u0d02 \u200b",
+      "description": "H5N1 \u0d0e\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d28\u0d4d\u0d28 \u0d2a\u0d15\u0d4d\u0d37\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d0e\u0d19\u0d4d\u0d19\u0d28\u0d46\u0d2f\u0d3e\u0d23\u0d4d \u0d2e\u0d28\u0d41\u0d37\u0d4d\u0d2f\u0d30\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d07\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d4d\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d36\u0d3e\u0d38\u0d4d\u0d24\u0d4d\u0d30\u0d1c\u0d4d\u0d1e\u0d7c \u0d28\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d2f \u0d2a\u0d4d\u0d30\u0d35\u0d1a\u0d28\u0d02 \u0d06\u200b\u0d17\u0d4b\u0d33 \u0d24\u0d32\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d35\u0d32\u0d3f\u0d2f \u0d1a\u0d7c\u0d1a\u0d4d\u0d1a\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d3e\u0d23\u0d4d \u0d35\u0d34\u0d3f\u0d35\u0d46\u0d1a\u0d4d\u0d1a\u0d3f\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d2a\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d33\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d28\u0d41\u0d37\u0d4d\u0d2f\u0d30\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d30\u0d4b\u200b\u0d17\u0d02 \u0d35\u0d4d\u0d2f\u0d3e\u0d2a\u0d15\u0d2e\u0d3e\u0d2f\u0d3f \u0d2a\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d2a\u0d15\u0d1f\u0d15\u0d30\u0d2e\u0d3e\u0d2f \u0d05\u0d35\u0d38\u0d4d\u0d25 \u0d09\u0d23\u0d4d\u0d1f\u0d3e\u2026",
+      "url": "https://www.manoramanews.com/health/latest/2025/12/18/h5n1-bird-flu-human-transmission.html",
+      "urlToImage": "https://img.manoramanews.com/content/dam/mm/mnews/archive/health/latest/images/2025/12/18/h5n1-bird-flu-human-transmission.jpg",
+      "publishedAt": "2025-12-18 11:26:00",
+      "content": "H5N1 . . , . . \" H5N1 , , ,\" . , ... . , , H5N1 . . , , . . , , . , . , , . 10 , . . . , . 1,600- 7 . 6 . , , . 9,667 . . . . ( ) . , , , ( ) . , , , , . , , , . . . \u2026 [+7 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.612622",
+      "internal_id": "0d1908e444d84d539f1409a1a47a613bb00990485505f6e672d33fd3ab752f60",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26356,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Nikki Ikani, Assistant Professor Intelligence & Security, Leiden University; King's College London",
+      "title": "Bird flu warnings are being ignored. I\u2019ve seen this pattern before",
+      "description": "H5N1 has a 50% fatality rate in humans. Yet we\u2019re dismantling the systems designed to catch it early.",
+      "url": "https://theconversation.com/bird-flu-warnings-are-being-ignored-ive-seen-this-pattern-before-271765",
+      "urlToImage": "https://images.theconversation.com/files/709041/original/file-20251216-72-mcaryk.jpg?ixlib=rb-4.1.0&rect=0%2C624%2C5133%2C2566&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-12-18 11:01:09",
+      "content": "TLF/Shutterstock.com There\u2019s an unwritten rule in publishing, or so I\u2019ve been told: don\u2019t write about COVID. Our collective attention span has been saturated by those endless months holed up in atti\u2026 [+6148 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.577218",
+      "internal_id": "552279ad045110fef0a3d4291b5fda604c930751b2acd89254fa788b5954bc9a",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26371,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Overclockers.ru",
+      "author": null,
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0448\u0442\u0430\u043c\u043c \u0434\u0440\u0435\u0432\u043d\u0435\u0439 \u0447\u0443\u043c\u044b \u0432 \u043e\u0441\u0442\u0430\u043d\u043a\u0430\u0445 4000\u2011\u043b\u0435\u0442\u043d\u0435\u0439 \u043e\u0432\u0446\u044b \u0438\u0437 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0410\u0440\u043a\u0430\u0438\u043c \u043d\u0430 \u042e\u0436\u043d\u043e\u043c \u0423\u0440\u0430\u043b\u0435",
+      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0440\u0430\u043d\u043d\u0438\u0445 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u0448\u0442\u0430\u043c\u043c\u043e\u0432 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0438 \u0447\u0443\u043c\u044b Yersinia pestis, \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0432 \u0434\u0440\u0435\u0432\u043d\u044e\u044e \u0414\u041d\u041a, \u0438\u0437\u0432\u043b\u0435\u0447\u0451\u043d\u043d\u0443\u044e \u0438\u0437 \u0437\u0443\u0431\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043e\u0432\u0446\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0436\u0438\u043b\u0430 4000 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434. \u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u043e\u0431\u044a\u044f\u0441\u043d\u044f\u0435\u0442, \u043a\u0430\u043a \u0431\u043e\u043b\u0435\u0437\u043d\u044c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u043b\u0430\u0441\u044c \u0432 \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u043c \u0432\u0435\u043a\u0435, \u0438 \u0443\u043a\u2026",
+      "url": "https://overclockers.ru/blog/This_is_the_way/show/245803/Na-Yuzhnom-Urale-obnaruzheny-ostanki-pervoj-zarazhennoj-bubonnoj-chumoj-ovcy-vozrastom-4000-let",
+      "urlToImage": null,
+      "publishedAt": "2025-12-18 10:23:44",
+      "content": "overclockers.ru , : IP address : 144.217.139.8Request URL : https://overclockers.ru/blog/This_is_the_way/show/245803/Na-Yuzhnom-Urale-obnaruzheny-ostanki-pervoj-zarazhennoj-bubonnoj-chumoj-ovcy\u2026 [+150 chars]",
+      "retrievedAt": "2025-12-19 19:06:40.996267",
+      "internal_id": "4ccb4b82574e49c0ffa5b5ae49268f5ab22d5d93831aba2794d2709186274c82",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26355,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PennLive",
+      "author": "Ivey Dejesus | Idejesus@pennlive.com",
+      "title": "Pa. confirms 16 cases of measles in 2025, as officials monitor outbreaks in other states",
+      "description": "Cumberland County was among half a dozen counties that confirmed cases of measles this year. Pennsylvania has no major outbreak but with cases of measles climbing in other states, health officials are keeping a close watch.",
+      "url": "https://www.pennlive.com/news/2025/12/pa-confirms-16-cases-of-measles-in-2025-as-officials-monitor-outbreaks-in-other-states.html",
+      "urlToImage": "https://www.pennlive.com/resizer/v2/36WAGL7GT5BZXKLT7W5VL75LBI.jpg?auth=e70b4682ee62f1db3e397a26073968a6f6b92294a9e3902433d3e1e3efc2a7f0&width=1280&smart=true&quality=90",
+      "publishedAt": "2025-12-18 10:15:22",
+      "content": "Count Pennsylvania among dozens of states currently monitoring measles cases across the country amid a troubling outbreak of the highly contagious viral infection. To date in 2025, Pennsylvania heal\u2026 [+5864 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.126646",
+      "internal_id": "739ee78ff967e9b7e7ee9a544ea57fa268923913fdecae11360fd2a976ca1414",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26359,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "A epidemia de doen\u00e7as transmitidas por mosquitos em Cuba em meio a colapso sanit\u00e1rio: 'Parece uma cidade de zumbis'",
+      "description": "Dengue, chikungunya e oropouche se espalham em um pa\u00eds atingido pelo colapso do sistema de sa\u00fade, pela escassez generalizada e pelos cortes de energia el\u00e9trica.",
+      "url": "https://www.bbc.com/portuguese/articles/c04vxqyv0xwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/3cde/live/d8ea7b60-daca-11f0-9876-9539976e0f1d.jpg",
+      "publishedAt": "2025-12-18 10:04:59",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Pilar, de 81 anos, em recupera\u00e7\u00e3o do v\u00edrus chikungunya em sua casa, em Havana, em novembro Article InformationAuthor, Atahualpa Amerise<l\u2026 [+10385 chars]",
+      "retrievedAt": "2025-12-19 19:06:38.825454",
+      "internal_id": "cb8f7488889be11e5d789e813d3f955d79c8caf649c1caacde3cb4a02be8c606",
+      "publishedAtLabel": "Dec 18"
+    },
     {
       "id": 26347,
       "query": [
@@ -15786,116 +16165,6 @@
       "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
       "retrievedAt": "2025-11-04 07:08:00.903971",
       "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25472,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Bethany Reitsma",
-      "title": "New Zealand measles outbreak: What it\u2019s like when your child has measles - and a GP\u2019s warning",
-      "description": "What it\u2019s like when your child has measles - and a GP\u2019s warning for families.",
-      "url": "https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-11-02 18:56:01",
-      "content": "The two girls had both had the standard vaccinations at the time. They both got the measles injections when everyone else did, at the normal time, Howie, who lives in Motueka, recalls. The doctors \u2026 [+4491 chars]",
-      "retrievedAt": "2025-11-03 19:05:57.790584",
-      "internal_id": "1a798cc6045d6d651bcd6ead43511cdf2a22340b5deb431aacdb8c0cacebcb12",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25471,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "NZ Herald",
-      "title": "NZ in \u2018extremely precarious position\u2019 as measles cases climb \u2013 Editorial",
-      "description": "New Zealand\u2019s measles immunity rate is just 82%, well below the 95% target.",
-      "url": "https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg?auth=f858c594d9df0f39356df60be85a30ea35175f6e87db5aa5af4c54c7a592b69d&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-11-02 16:00:00",
-      "content": "Measles is one of our most infectious diseases, and so, in an unvaccinated population, one person can potentially make 12 to 18 other people sick, Howe told Chelsea Daniels on The Front Page podcast \u2026 [+2543 chars]",
-      "retrievedAt": "2025-11-03 19:05:57.732835",
-      "internal_id": "4ce717f89fa5041fca295b5324efd8d0e1fa5f7ea7e2222749157eee896cdaed",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25476,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Lifestyle Desk",
-      "title": "WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for",
-      "description": "The World Health Organisation (WHO) has raised a fresh alert after detecting the clade Ib strain of the Mpox virus across 42 countries. Once confined mainly to Central and West Africa, the virus has now spread to parts of Europe, Asia, and the Americas.As of \u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms",
-      "urlToImage": "https://static.toiimg.com/photo/125035722.cms",
-      "publishedAt": "2025-11-02 14:46:50",
-      "content": "Mpox spreads mainly through close contact, skin-to-skin touch, body fluids, respiratory droplets, or contaminated objects like bedding and towels. In the latest clusters, clade Ib has been detected i\u2026 [+285 chars]",
-      "retrievedAt": "2025-11-03 19:06:00.231693",
-      "internal_id": "730848667e19663ca0cc0b23a14b5debe85d9cb188b1fdcc483b4af230671feb",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25475,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Fatih Yoncal\u0131k",
-      "title": "Hong Kong'da k\u0131rm\u0131z\u0131 alarm... Chikungunya ate\u015fi endi\u015fesi!",
-      "description": "Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vir\u00fcs\u00fc olan Chikungunya ate\u015fi vakas\u0131 tespit edildi. yakla\u015f\u0131k 8 bin ki\u015finin bula\u015f riski alt\u0131nda oldu\u011fu aktar\u0131ld\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/44/hong_kongda_kirmizi_alarm_chikungunya_atesi_endisesi_1762092301_3952.jpg",
-      "publishedAt": "2025-11-02 14:06:00",
-      "content": "\u00c7in'in Hong Kong \u00d6zel dari B\u00f6lgesi'nde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vakas tespit edildii bildirildi. 82 YAINDAK BR KADINDA RASTLANILDI South China Morning Post'un haber\u2026 [+1366 chars]",
-      "retrievedAt": "2025-11-03 19:05:59.959076",
-      "internal_id": "875d0849f71063666ae70010265410d32466534187cf59f3fe7b125eb5adf718",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25473,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432",
-      "title": "\u0412 \u0424\u0420\u0413 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0439 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u0441\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u0412 \u0440\u044f\u0434\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0441\u0442\u0440\u0430\u043d\u044b \u0432\u0432\u0435\u0434\u0435\u043d \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043f\u0442\u0438\u0446\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 Bild.",
-      "url": "https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/02/478_a08.jpg",
-      "publishedAt": "2025-11-02 13:40:02",
-      "content": "3- - , . , , . , . , . . 16 . , . H5N1, . . - . . 13 . , . - , . , . \" , , . . , . , . \", - hamburg.com. , . Bild , , .",
-      "retrievedAt": "2025-11-03 19:05:58.208470",
-      "internal_id": "c71f33b5b0715e1b8e1ddc9600fbd401b70be9e614fe9a103cdd350148cb337a",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25474,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Economictimes.com",
-      "author": "iStock",
-      "title": "5 indoor plants that naturally keep mosquitoes away",
-      "description": "If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, and chikungunya. But instead of reaching for chemical repellents, nature offers an elegant s\u2026",
-      "url": "https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125030726,width-1070,height-580,overlay-economictimes/slideshow.jpg",
-      "publishedAt": "2025-11-02 07:35:04",
-      "content": "Nov 02, 2025, 01:08:23 PM IST If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, a\u2026 [+3027 chars]",
-      "retrievedAt": "2025-11-03 19:05:58.678587",
-      "internal_id": "b617340d2e8571b3e6faa63d7af26c43bd7aac30e2dcecc52b4e68ae391274b8",
       "publishedAtLabel": "Nov 2"
     }
   ]

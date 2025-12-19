@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-12-19 07:09
-- **Most recent article:** 2025-12-18 06:00:00
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-12-19 19:06
+- **Most recent article:** 2025-12-18 17:09:46
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 19 | 59 | 27 | 18 | 15 | 45 | 24 | 207 |
-| dengue | 33 | 22 | 13 | 35 | 19 | 34 | 16 | 172 |
-| h5n1 | 32 | 31 | 21 | 29 | 13 | 10 | 5 | 141 |
-| malaria | 19 | 20 | 12 | 17 | 26 | 17 | 13 | 124 |
-| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 8 | 56 |
-| mpox | 4 | 6 | 3 | 5 | 4 | 28 | 3 | 53 |
-| chikungunya | 13 | 4 | 2 | 1 | 14 | 16 | 1 | 51 |
+| measles | 17 | 59 | 27 | 18 | 15 | 45 | 28 | 209 |
+| dengue | 32 | 22 | 13 | 35 | 19 | 34 | 19 | 174 |
+| h5n1 | 31 | 31 | 21 | 29 | 13 | 10 | 8 | 143 |
+| malaria | 18 | 20 | 12 | 17 | 26 | 17 | 16 | 126 |
+| mpox | 3 | 6 | 3 | 5 | 4 | 28 | 9 | 58 |
+| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 9 | 57 |
+| chikungunya | 11 | 4 | 2 | 1 | 14 | 16 | 2 | 50 |
 | zika | 9 | 2 | 1 | 2 | 6 | 6 | 1 | 27 |
 | meningitis | 0 | 8 | 3 | 4 | 4 | 3 | 0 | 22 |
-| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 4 | 20 |
+| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 5 | 21 |
 | pertussis | 2 | 2 | 3 | 6 | 5 | 2 | 0 | 20 |
 | hpai | 1 | 5 | 2 | 1 | 2 | 5 | 0 | 16 |
 | leptospirosis | 1 | 2 | 1 | 7 | 3 | 0 | 1 | 15 |
@@ -39,6 +39,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (yersinia)
 
+- [Ученые обнаружили штамм древней чумы в останках 4000‑летней овцы из поселения Аркаим на Южном Урале](https://overclockers.ru/blog/This_is_the_way/show/245803/Na-Yuzhnom-Urale-obnaruzheny-ostanki-pervoj-zarazhennoj-bubonnoj-chumoj-ovcy-vozrastom-4000-let) (Overclockers.ru)
+
 - [Q&A: Driving biotech forward, a CEO’s view](https://www.digitaljournal.com/business/qa-driving-biotech-forward-a-ceos-view/article) (Digital Journal)
 
 - [مطالعهٔ DNA نشان می‌دهد چه کسی ناقل کهن‌ترین طاعون شناخته‌شده در جهان بوده است](https://www.entekhab.ir/fa/news/900115/مطالعهٔ-dna-نشان-می‌دهد-چه-کسی-ناقل-کهن‌ترین-طاعون-شناخته‌شده-در-جهان-بوده-است) (Entekhab.ir)
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Travellers should get vaccinated against respiratory viruses, preventable diseases: CDA](https://www.channelnewsasia.com/singapore/travel-vaccines-cda-recommendation-preventable-diseases-5586086) (CNA)
 
 ## 25-51 (rabies)
+
+- [Drivers of rabies post-exposure prophylaxis noncompletion in Cambodia, 2019 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013813) (Plos.org)
 
 - [Man Dies of Rabies After Receiving Kidney from Organ Donor Scratched by a Skunk](https://www.odditycentral.com/news/man-dies-of-rabies-after-receiving-kidney-from-organ-donor-scratched-by-a-skunk.html) (Odditycentral.com)
 
@@ -73,6 +77,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (mpox)
 
+- [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
+
+- [Seltene Krankheit: Mpox-Fälle haben sich in Berlin verdoppelt](https://www.stern.de/panorama/wissen/seltene-krankheit--mpox-faelle-haben-sich-in-berlin-verdoppelt-36976084.html) (STERN.de)
+
+- [Häusliche Isolation angeordnet: Erster Fall der Mpox-Variante Ib in Berlin festgestellt](https://www.tagesspiegel.de/wissen/hausliche-isolation-angeordnet-erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-15065339.html) (Der Tagesspiegel)
+
+- [Krankheit: Erster Fall der Mpox-Variante Ib in Berlin festgestellt](https://www.tagesspiegel.de/wissen/krankheit-erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-15065339.html) (Der Tagesspiegel)
+
+- [Krankheit: Erster Fall der Mpox-Variante Ib in Berlin festgestellt](https://www.zeit.de/news/2025-12/18/erster-fall-der-mpox-variante-ib-in-berlin-festgestellt) (Die Zeit)
+
+- [Krankheit: Erster Fall der Mpox-Variante Ib in Berlin festgestellt](https://www.stern.de/panorama/wissen/krankheit--erster-fall-der-mpox-variante-ib-in-berlin-festgestellt-36976084.html) (STERN.de)
+
 - [US–Africa bilateral health deals won’t help against diseases that ignore borders](https://www.nature.com/articles/d41586-025-04107-z) (Nature.com)
 
 - [Wielka Brytania: Wykryto nowy wariant wirusa "małpiej ospy". Specjaliści nawołują do szczepień](https://wiadomosci.wp.pl/wielka-brytania-wykryto-nowy-wariant-wirusa-malpiej-ospy-specjalisci-nawoluja-do-szczepien-7233078026120128a) (Wiadomosci.wp.pl)
@@ -80,6 +96,14 @@ Source: [News API](https://newsapi.org/)
 - [2025 Nears Climate Heat Record, Mpox Variant Discovered, and Hobbit Extinction Explained](https://www.scientificamerican.com/podcast/episode/2025-nears-climate-heat-record-mpox-variant-discovered-and-hobbit-extinction/) (Scientific American)
 
 ## 25-51 (measles)
+
+- [Montreal hospitals flagged as sites for possible measles exposure as cases climb](https://www.cbc.ca/news/canada/montreal/measles-quebec-9.7020963) (CBC News)
+
+- [U.S. risks losing measles elimination status for first time in over 2 decades](https://www.cbsnews.com/video/us-risks-losing-measles-elimination-status-for-first-time-in-over-2-decades/) (CBS News)
+
+- [Measles’ Most Deceptive Trait](https://www.theatlantic.com/health/2025/12/measles-elimination-outbreaks/685303/) (The Atlantic)
+
+- [Pa. confirms 16 cases of measles in 2025, as officials monitor outbreaks in other states](https://www.pennlive.com/news/2025/12/pa-confirms-16-cases-of-measles-in-2025-as-officials-monitor-outbreaks-in-other-states.html) (PennLive)
 
 - [Measles becoming "entrenched" in U.S. again, doctor says, as non-travel-related cases grow](https://www.cbsnews.com/video/south-carolina-measles-infectious-diseases-polio/) (CBS News)
 
@@ -131,6 +155,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (malaria)
 
+- [New Gene Drive Stops the Spread of Malaria—Without Killing Any Mosquitoes](https://singularityhub.com/2025/12/18/this-gene-drive-stops-the-spread-of-real-world-malaria-without-killing-any-mosquitoes/) (Singularity Hub)
+
+- [OpenStreetMap User's Diaries: Datos Libres y Tecnología: Aliados Estratégicos en la Lucha contra la Malaria](https://www.openstreetmap.org/user/kaxtillo/diary/407946) (Openstreetmap.org)
+
+- [Experimental models of liver-stage malaria: Progress, gaps, and challenges](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013796) (Plos.org)
+
 - [Danskudviklet vaccine mod malaria kan reducere smitten markant](https://politiken.dk/danmark/sundhed/art10667090/Danskudviklet-vaccine-mod-malaria-kan-reducere-smitten-markant) (Politiken.dk)
 
 - [Danskudviklet vaccine mod malaria kan reducere smitten markant](https://www.bt.dk/samfund/danskudviklet-vaccine-mod-malaria-kan-reducere-smitten-markant) (Www.bt.dk)
@@ -163,6 +193,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (h5n1)
 
+- [Gripa aviară H5N1. Simulări științifice arată cât de rapid poate scăpa de sub control un focar uman](https://www.mediafax.ro/sanatate/gripa-aviara-h5n1-simulari-stiintifice-arata-cat-de-rapid-poate-scapa-de-sub-control-un-focar-uman-23660591) (Mediafax.ro)
+
+- [പക്ഷിപ്പനി അപകടകരമായി പടർന്നാൽ പ്രതിരോധം അപ്രായോഗികം; വരുമോ വീണ്ടും ലോക്ക്ഡൗണ്‍?; പഠനം ​](https://www.manoramanews.com/health/latest/2025/12/18/h5n1-bird-flu-human-transmission.html) (Manoramanews.com)
+
+- [Bird flu warnings are being ignored. I’ve seen this pattern before](https://theconversation.com/bird-flu-warnings-are-being-ignored-ive-seen-this-pattern-before-271765) (The Conversation Africa)
+
 - [Indiase wetenschappers voorspellen hoe vogelgriep zich naar mensen zou kunnen verspreiden](https://www.nieuwsblad.be/buitenland/indiase-wetenschappers-voorspellen-hoe-vogelgriep-zich-naar-mensen-zou-kunnen-verspreiden/115019979.html) (Nieuwsblad.be)
 
 - [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po) (BBC News)
@@ -174,6 +210,12 @@ Source: [News API](https://newsapi.org/)
 - [The potential of H5N1 viruses to adapt to bovine cells varies throughout evolution](https://www.nature.com/articles/s41467-025-67234-1) (Nature.com)
 
 ## 25-51 (dengue)
+
+- [Por que algumas pessoas com dengue não têm sintomas? Estudo responde](https://www.metropoles.com/saude/por-que-pessoas-dengue-sem-sintomas) (Metropoles.com)
+
+- [This Brutal Mosquito-Borne Disease May Have a Cure—But There’s a Catch](https://www.motherjones.com/politics/2025/12/mosnodenvir-dengue-fever-treatment-chikungunya-yellow-zika-mosquitoes-disease/) (Mother Jones)
+
+- [A epidemia de doenças transmitidas por mosquitos em Cuba em meio a colapso sanitário: 'Parece uma cidade de zumbis'](https://www.bbc.com/portuguese/articles/c04vxqyv0xwo) (BBC News)
 
 - [Sandamini's Death at IDH Hospital: Vaccine or Dengue Hemorrhagic Fever?](https://english.gossiplankanews.com/2025/12/sandaminis-death-at-idh-hospital.html) (Gossiplankanews.com)
 
@@ -208,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
+
+- [A epidemia de doenças transmitidas por mosquitos em Cuba em meio a colapso sanitário: 'Parece uma cidade de zumbis'](https://www.bbc.com/portuguese/articles/c04vxqyv0xwo) (BBC News)
 
 - ["Parece una ciudad de zombis": la grave epidemia de enfermedades virales transmitidas por mosquitos que enfrenta Cuba en medio de un colapso sanitario](https://www.bbc.com/mundo/articles/c62376rlrr2o) (BBC News)
 
@@ -1835,8 +1879,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
-- [WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms) (The Times of India)
-
 ## 25-45 (measles)
 
 - [Metro Public Health Department confirms measles case in Nashville](https://www.local3news.com/local-news/tennessee/metro-public-health-department-confirms-measles-case-in-nashville/article_d641af94-314b-49dd-8024-595c52e0e901.html) (Local3news.com)
@@ -1872,10 +1914,6 @@ Source: [News API](https://newsapi.org/)
 - [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
 
 - [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
-
-- [New Zealand measles outbreak: What it’s like when your child has measles - and a GP’s warning](https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/) (New Zealand Herald)
-
-- [NZ in ‘extremely precarious position’ as measles cases climb – Editorial](https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/) (New Zealand Herald)
 
 ## 25-45 (malaria)
 
@@ -1914,8 +1952,6 @@ Source: [News API](https://newsapi.org/)
 - [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
 
 - [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
-
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (leptospirosis)
 
@@ -1989,8 +2025,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
 
-- [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
-
 ## 25-45 (dengue)
 
 - [Esse fungo perfumado finge ser flor para atrair (e matar) mosquitos](https://super.abril.com.br/ciencia/esse-fungo-perfumado-finge-ser-flor-para-atrair-e-matar-mosquitos/) (Abril.com.br)
@@ -2057,8 +2091,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
-
 ## 25-45 (chikungunya)
 
 - [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
@@ -2082,7 +2114,3 @@ Source: [News API](https://newsapi.org/)
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
 - [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
-
-- [Hong Kong'da kırmızı alarm... Chikungunya ateşi endişesi!](https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi) (Haber7.com)
-
-- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
