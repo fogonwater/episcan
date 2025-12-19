@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-12-18 19:07",
-  "count_articles_total": 857,
-  "count_articles_new": 10,
+  "last_updated": "2025-12-19 07:09",
+  "count_articles_total": 880,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 26347,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Basta.media",
+      "author": "Rachel Knaebel",
+      "title": "Serafin PH : la r\u00e9forme qui inqui\u00e8te le m\u00e9dico-social",
+      "description": "Une r\u00e9forme du financement du m\u00e9dico-social d\u00e9di\u00e9 au handicap entre en vigueur \u00e0 partir de 2026. Pour certains, c'est une tarification \u00e0 l'acte qui risque, comme \u00e0 l'h\u00f4pital, de mettre le secteur \u00e0 genoux. Pour d'autres, une mani\u00e8re d'amener plus d'\u00e9quit\u00e9 ent\u2026",
+      "url": "https://basta.media/serafin-ph-la-reforme-qui-inquiete-le-medico-social-handicap",
+      "urlToImage": "https://basta.media/local/cache-gd2/4c/dfbd6c33289d22bb057807a29703da.jpg",
+      "publishedAt": "2025-12-18 06:00:00",
+      "content": "\u00ab Je remplis un relev\u00e9 hebdomadaire dans lequel je marque ce que je fais quart d\u2019heure par quart d\u2019heure. \u00bb Didier Zika est \u00e9ducateur sp\u00e9cialis\u00e9 pour une association m\u00e9dico-sociale de la r\u00e9gion Paca.\u2026 [+9639 chars]",
+      "retrievedAt": "2025-12-19 07:09:38.280526",
+      "internal_id": "76cb43406db5667ae1ea16e343debaf02136c6929b2361cf02995b4ed549d626",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26346,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gossiplankanews.com",
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "Sandamini's Death at IDH Hospital: Vaccine or Dengue Hemorrhagic Fever?",
+      "description": "The sudden demise of a twenty-three-year-old young woman, who harbored a thousand hopes for the future, has now shaken the entire nation. Sandamini Divyanjali, residing in Ethulmudali Gama, Adagala Road, Matugama, was the beloved daughter of Mrs. Iresha Niman\u2026",
+      "url": "https://english.gossiplankanews.com/2025/12/sandaminis-death-at-idh-hospital.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tASdWhKqIx-cPFQaixvivlniSxfpjFRBZ9uYI-SMa_CobcQ2r4tgJ_eO1jw_yz-lq3PD9t_L2o3oQ1wP-Y2vdaidxqpmXK4oSSoz0wD7XNKxdPEfFLcqxj-lDVzFyCTM5T7g7qLnorH0ihV9J0ouj6Qj-r_pw=w1600",
+      "publishedAt": "2025-12-18 05:35:52",
+      "content": "The sudden demise of a twenty-three-year-old young woman, who harbored a thousand hopes for the future, has now shaken the entire nation. Sandamini Divyanjali, residing in Ethulmudali Gama, Adagala R\u2026 [+3341 chars]",
+      "retrievedAt": "2025-12-19 07:09:37.502421",
+      "internal_id": "f1d45f1d6f443825d485a2b4ade794e1ffe5c1a42f033b052ce66a80cd6283cb",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26349,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Lizard infections in household: From Salmonella to Leptospirosis diseases that are caused by lizards",
+      "description": "Imagine-a seemingly harmless gecko scurrying across your kitchen counter or, a bearded dragon basking innocently in its tank. These reptiles can silently harbor dangerous pathogens, turning everyday interactions into health hazards. Lizards facilitate the tra\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/lizard-infections-in-household-from-salmonella-to-leptospirosis-diseases-that-are-caused-by-lizards/photostory/126049048.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126049145,width-1070,height-580,imgsize-342746,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-18 04:00:00",
+      "content": "Campylobacter: Campylobacter gastroenteritis due to bloody diarrhea, fever, and abdominal distress occurs 2-5 days post-ingestion from contact with surfaces contaminated by lizard feces. Leptospiros\u2026 [+415 chars]",
+      "retrievedAt": "2025-12-19 07:09:39.134815",
+      "internal_id": "b1950fc9a3e2413b383077234087a3d0ed2ef9443744ebd3d3ac14035fd329b6",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26344,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "jdn",
+      "title": "Indiase wetenschappers voorspellen hoe vogelgriep zich naar mensen zou kunnen verspreiden",
+      "description": "Onderzoekers van Ashoka University hebben een computermodel ontwikkeld dat laat zien hoe een uitbraak van H5N1, beter bekend als vogelgriep, zich onder mensen zou kunnen verspreiden. Hun studie benadrukt dat snelle interventies cruciaal zijn om een pandemie t\u2026",
+      "url": "https://www.nieuwsblad.be/buitenland/indiase-wetenschappers-voorspellen-hoe-vogelgriep-zich-naar-mensen-zou-kunnen-verspreiden/115019979.html",
+      "urlToImage": "https://prod-img.nieuwsblad.be/public/nieuws/vdvad8-angeren-landbouw-vogelgriep/alternates/SIXTEEN_NINE_1200/ANGEREN-LANDBOUW-VOGELGRIEP",
+      "publishedAt": "2025-12-18 03:50:48",
+      "content": "Volgens de simulatie begint een uitbraak vaak met \u00e9\u00e9n besmette vogel die het virus overdraagt aan een boer of marktmedewerker. Zodra er meer dan enkele gevallen zijn, verspreidt het virus zich snel v\u2026 [+1317 chars]",
+      "retrievedAt": "2025-12-19 07:09:37.056450",
+      "internal_id": "c1d10bafac89eb21e2cb6b4ab61adc4f034ba925f3463e1fe6d71176590364db",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Luis Alfredo Robles",
+      "title": "Refuerzan acciones de prevenci\u00f3n ante aumento del dengue en Navojoa",
+      "description": "De acuerdo a las estad\u00edsticas de Salud Municipal, hasta el momento se han registrado 137 casos confirmados de dengue en Navojoa, situaci\u00f3n que va en aumento",
+      "url": "https://www.tribuna.com.mx/sonora/2025/12/17/refuerzan-acciones-de-prevencion-ante-aumento-del-dengue-en-navojoa-423826.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/12/17/f1280x720-483813_615488_5050.jpg",
+      "publishedAt": "2025-12-18 01:19:00",
+      "content": "Navojoa, Sonora.- La Direcci\u00f3n de Salud Municipal en Navojoa reforz\u00f3 las medidas de prevenci\u00f3n en las comunidades rurales ante el incremento de contagios de dengue durante las \u00faltimas semanas. De ac\u2026 [+785 chars]",
+      "retrievedAt": "2025-12-19 07:09:37.461522",
+      "internal_id": "abb05dca571f095ae281dc2d6170ccd68c661dc5d3ccfe4e99da739c4dc98f9d",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26336,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Measles becoming \"entrenched\" in U.S. again, doctor says, as non-travel-related cases grow",
+      "description": "A measles outbreak in South Carolina is worsening with 138 cases reported in the state. CBS News' Skyler Henry and Dr. C\u00e9line Gounder have more.",
+      "url": "https://www.cbsnews.com/video/south-carolina-measles-infectious-diseases-polio/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/18/517c1a20-4c0d-46ac-96e4-b7485c6e8f84/thumbnail/1200x630/915e82f696492b93d5c487c2168a543f/cbsn-fusion-looking-back-major-2025-health-trends-thumbnail.jpg",
+      "publishedAt": "2025-12-18 01:05:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-12-19 07:09:36.217849",
+      "internal_id": "c24bd818207d9c25c0bde5d23a6afd143ff00c7ce4a3389889b008b5c316740a",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26339,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Measles outbreaks won't end in 2025 as cases mount in Utah, Arizona and South Carolina",
+      "description": "As measles continues to spread in the United States, it\u2019s likely that the outbreaks that broke records in 2025 will continue into the new year.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreaks-no-end-2025-cases-mount-utah-arizona-south-carolina-rcna249743",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250919-utah-measles-se-134p-b556c8.jpg",
+      "publishedAt": "2025-12-18 00:41:50",
+      "content": "As measles continues to spread in the United States, its likely that the outbreaks that broke records in 2025 will continue into the new year. In South Carolina, 168 people, mostly schoolchildren, \u2026 [+3796 chars]",
+      "retrievedAt": "2025-12-19 07:09:36.313056",
+      "internal_id": "19aba94bfbee26b914c0eb5a875183743787f58423d42e67f5e6a1876fb0591a",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26335,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "South Carolina measles outbreak worries doctors",
+      "description": "Recent measles cases are mainly impacting unvaccinated children, with the most recent outbreak in South Carolina. Skyler Henry has the latest.",
+      "url": "https://www.cbsnews.com/video/south-carolina-measles-outbreak-worries-doctors/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/18/6753b25a-da04-4703-a946-6990e584d7cc/thumbnail/1200x630/ea1fe60553150615e4f0bb504b407349/cbsn-fusion-south-carolina-measles-outbreak-worries-doctors-thumbnail.jpg",
+      "publishedAt": "2025-12-18 00:32:00",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-12-19 07:09:36.186139",
+      "internal_id": "33936d8fbc3d60f3450f50e89a16d21e0bce566bcea7fda27855312390850f48",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26338,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Hoover.org",
+      "author": "December 18, 2025",
+      "title": "School Absences Surged As Texas Grappled With Measles Outbreak",
+      "description": "Hoover Institution fellow Thomas Dee co-authored a study and notes that \"the costs of absenteeism are just not among the sick kids, but all the kids who are kept out of school as a precaution.\"",
+      "url": "https://www.hoover.org/research/school-absences-surged-texas-grappled-measles-outbreak",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2022-12/iStock-1282723854.jpg?h=6802808c&itok=kNZObvaQ",
+      "publishedAt": "2025-12-18 00:00:00",
+      "content": "Located on the campus of Stanford University and in Washington, DC, the Hoover Institution is the nations preeminent research center dedicated to generating policy ideas that promote economic prosper\u2026 [+62 chars]",
+      "retrievedAt": "2025-12-19 07:09:36.286970",
+      "internal_id": "48fbb5b1be9bfb444d79261c1893d020500b03eef239024b1cff25a7752a3eb1",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26348,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Paul Adepoju",
+      "title": "US\u2013Africa bilateral health deals won\u2019t help against diseases that ignore borders",
+      "description": "The COVID-19 pandemic, Ebola, mpox and AIDS all show the importance of strengthening Africa-wide surveillance and response systems that protect everyone.",
+      "url": "https://www.nature.com/articles/d41586-025-04107-z",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04107-z/d41586-025-04107-z_51833768.jpg",
+      "publishedAt": "2025-12-18 00:00:00",
+      "content": "Kenyan health workers wait to receive a COVID-19 vaccine supplied by Gavi, the Vaccine Alliance. Credit: Simon Maina/AFP via Getty The United States is rolling out bilateral health agreements across\u2026 [+2754 chars]",
+      "retrievedAt": "2025-12-19 07:09:38.640933",
+      "internal_id": "930a2578106a06264cc4fb40d14326947785f95a4b39338a5a2bbc2395ac1009",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 26343,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Indian scientists predict how bird flu could spread to humans",
+      "description": "Scientists have warned H5N1 bird flu could make a dangerous leap to humans, triggering a global health crisis.",
+      "url": "https://www.bbc.com/news/articles/cgl66ez489po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9c5f/live/0465e3f0-d72a-11f0-9fb5-5f3a3703a365.jpg",
+      "publishedAt": "2025-12-17 23:56:02",
+      "content": "Soutik BiswasIndia correspondent More than two million turkeys have been culled in the US since late August due to avian flu For years, scientists have warned that bird flu - better known as H5N1 -\u2026 [+7863 chars]",
+      "retrievedAt": "2025-12-19 07:09:37.046825",
+      "internal_id": "62fbd40705cab4292100ba21c1cf75386272b9d3d6ea119a29f3889742f5f03e",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 26342,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSET",
+      "author": "Sam Becker",
+      "title": "Measles case reported in Campbell County, health officials confirm",
+      "description": "A reported case of measles has been confirmed by health officials in the ABC13 area on Wednesday.",
+      "url": "https://wset.com/news/local/measles-case-reported-in-campbell-county-health-officials-confirm-lynchburg-livestock-market-rustburg-mcdonalds-wards-road-virginia-department-of-health-december-2025",
+      "urlToImage": "https://wset.com/resources/media2/16x9/1024/1320/0x54/90/39175ec0-083f-4ea0-af34-a292944a9a53-AP25063004203660.jpg",
+      "publishedAt": "2025-12-17 22:13:03",
+      "content": "CAMPBELL COUNTY, Va. (WSET) A reported case of measles has been confirmed by health officials in the ABC13 area on Wednesday. Health officials were notified of a confirmed measles case in a person w\u2026 [+2079 chars]",
+      "retrievedAt": "2025-12-19 07:09:36.366101",
+      "internal_id": "daec71d3484e866cee4d74c2acbd1aa043cb9ea0c4efe268f59b227a05777dea",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 26340,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.mx",
+      "author": "Luis \u00c1ngel M\u00e1rquez Flores",
+      "title": "Por a\u00f1os M\u00e9xico hab\u00eda sido un pa\u00eds libre de Sarampi\u00f3n. En 2026 eso podr\u00eda cambiar",
+      "description": "M\u00e9xico podr\u00eda perder su certificaci\u00f3n de eliminaci\u00f3n del sarampi\u00f3n en 2026. De acuerdo con el estudio Nineteen-Year Evidence on Measles\u2013Mumps\u2013Rubella Immunization in Mexico: Programmatic Lessons and Policy Implications, entre 2026 y 2024, en el pa\u00eds se dejaro\u2026",
+      "url": "https://www.xataka.com.mx/medicina-y-salud/anos-mexico-habia-sido-pais-libre-sarampion-2026-eso-podria-cambiar",
+      "urlToImage": "https://i.blogs.es/c4db5b/vacuna/840_560.jpeg",
+      "publishedAt": "2025-12-17 22:01:59",
+      "content": "M\u00e9xico podr\u00eda perder su certificaci\u00f3n de eliminaci\u00f3n del sarampi\u00f3n en 2026. De acuerdo con el estudio Nineteen-Year Evidence on MeaslesMumpsRubella Immunization in Mexico: Programmatic Lessons and Po\u2026 [+3390 chars]",
+      "retrievedAt": "2025-12-19 07:09:36.322445",
+      "internal_id": "d0031e56dfc5ed80444f8749432bd5fc23f486fa41b3a2f06e517c9add15e247",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 26350,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "Dr. Tim Sandle",
+      "title": "Q&A: Driving biotech forward, a CEO\u2019s view",
+      "description": "XPro is being developed primarily for Alzheimer\u2019s disease and mild cognitive impairment. It is a next-generation anti-TNF biologic. The post Q&A: Driving biotech forward, a CEO\u2019s view appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/business/qa-driving-biotech-forward-a-ceos-view/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Yersinia1.jpeg",
+      "publishedAt": "2025-12-17 21:48:19",
+      "content": "Yersinia pestis. Direct Fluorescent Antibody Stain (DFA), 200x Magnification. Image: CDC/ Courtesy of Larry Stauffer, Oregon State Public Health Laboratory. David Moss, CEO of INmune Bio, a clinical\u2026 [+8112 chars]",
+      "retrievedAt": "2025-12-19 07:09:39.678744",
+      "internal_id": "4f7082c8bdcc4eaa66b03a2e8667bbce789a9d754b869aa445cba3aaecfad733",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 26341,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": "Tom George",
+      "title": "Measles case confirmed in person who traveled through RDU",
+      "description": "Anyone who was in Terminal 2 at RDU on that day could have been exposed to measles and should monitor for symptoms.",
+      "url": "https://abc11.com/post/measles-case-confirmed-person-traveled-rdu/18295791/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18295933_RDU2.jpg?w=1600",
+      "publishedAt": "2025-12-17 21:32:11",
+      "content": "RALEIGH, N.C. (WTVD) -- A person who traveled through Raleigh-Durham International Airport last week was infected with measles, the North Carolina Department of Health and Human Services said Wednesd\u2026 [+3296 chars]",
+      "retrievedAt": "2025-12-19 07:09:36.356402",
+      "internal_id": "b71f7b121fe7843d54a30e134432bd1b494f6c096146cf4f61d7c53ebceedd50",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 26337,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "South Carolina health officials urge measles vaccinations as cases rise in the state",
+      "description": "More than 160 people in South Carolina are under quarantine as the state battles a growing number of measles cases. Dr. William Schaffner, professor of infectious disease at Vanderbilt Medical Center, joins CBS News to discuss.",
+      "url": "https://www.cbsnews.com/video/south-carolina-health-officials-urge-measles-vaccinations-as-cases-rise-in-the-state/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/17/21e93b65-600d-4c07-8204-788bd74448d2/thumbnail/1200x630/be722348138e4098e749508cfd9451a6/cbsn-fusion-south-carolina-health-officials-urge-measles-vaccinations-as-cases-rise-in-the-state-thumbnail-4253834-640x360.jpg",
+      "publishedAt": "2025-12-17 21:29:48",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-12-19 07:09:36.230830",
+      "internal_id": "784f63f72551260d789bf6a19b696ee0b705177e9f35ab18245e9fe895433c49",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 26334,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Odditycentral.com",
+      "author": "Spooky",
+      "title": "Man Dies of Rabies After Receiving Kidney from Organ Donor Scratched by a Skunk",
+      "description": "A Michigan man tragically lost his life after becoming infected with the rabies virus following a kidney transplant that was supposed to save his life. The post Man Dies of Rabies After Receiving Kidney from Organ Donor Scratched by a Skunk first appeared on \u2026",
+      "url": "https://www.odditycentral.com/news/man-dies-of-rabies-after-receiving-kidney-from-organ-donor-scratched-by-a-skunk.html",
+      "urlToImage": "https://www.odditycentral.com/wp-content/uploads/2025/12/surgeons-1.jpg",
+      "publishedAt": "2025-12-17 20:35:56",
+      "content": "In what the US Centers for Disease Control (CDC) called \u201can extremely rare event,\u201d an adult Michigan man became infected with rabies following a kidney transplant. According to a CDC report, the man \u2026 [+2839 chars]",
+      "retrievedAt": "2025-12-19 07:09:35.883508",
+      "internal_id": "e64e2ae93da2d33f4ada09f79788f39c9b01b41b70cd09997e544e5a2d4abea5",
+      "publishedAtLabel": "Dec 17"
+    },
     {
       "id": 26326,
       "query": [
@@ -15480,6 +15786,116 @@
       "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
       "retrievedAt": "2025-11-04 07:08:00.903971",
       "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25472,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Bethany Reitsma",
+      "title": "New Zealand measles outbreak: What it\u2019s like when your child has measles - and a GP\u2019s warning",
+      "description": "What it\u2019s like when your child has measles - and a GP\u2019s warning for families.",
+      "url": "https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 18:56:01",
+      "content": "The two girls had both had the standard vaccinations at the time. They both got the measles injections when everyone else did, at the normal time, Howie, who lives in Motueka, recalls. The doctors \u2026 [+4491 chars]",
+      "retrievedAt": "2025-11-03 19:05:57.790584",
+      "internal_id": "1a798cc6045d6d651bcd6ead43511cdf2a22340b5deb431aacdb8c0cacebcb12",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25471,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "NZ Herald",
+      "title": "NZ in \u2018extremely precarious position\u2019 as measles cases climb \u2013 Editorial",
+      "description": "New Zealand\u2019s measles immunity rate is just 82%, well below the 95% target.",
+      "url": "https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg?auth=f858c594d9df0f39356df60be85a30ea35175f6e87db5aa5af4c54c7a592b69d&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-11-02 16:00:00",
+      "content": "Measles is one of our most infectious diseases, and so, in an unvaccinated population, one person can potentially make 12 to 18 other people sick, Howe told Chelsea Daniels on The Front Page podcast \u2026 [+2543 chars]",
+      "retrievedAt": "2025-11-03 19:05:57.732835",
+      "internal_id": "4ce717f89fa5041fca295b5324efd8d0e1fa5f7ea7e2222749157eee896cdaed",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25476,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Lifestyle Desk",
+      "title": "WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for",
+      "description": "The World Health Organisation (WHO) has raised a fresh alert after detecting the clade Ib strain of the Mpox virus across 42 countries. Once confined mainly to Central and West Africa, the virus has now spread to parts of Europe, Asia, and the Americas.As of \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms",
+      "urlToImage": "https://static.toiimg.com/photo/125035722.cms",
+      "publishedAt": "2025-11-02 14:46:50",
+      "content": "Mpox spreads mainly through close contact, skin-to-skin touch, body fluids, respiratory droplets, or contaminated objects like bedding and towels. In the latest clusters, clade Ib has been detected i\u2026 [+285 chars]",
+      "retrievedAt": "2025-11-03 19:06:00.231693",
+      "internal_id": "730848667e19663ca0cc0b23a14b5debe85d9cb188b1fdcc483b4af230671feb",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25475,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Fatih Yoncal\u0131k",
+      "title": "Hong Kong'da k\u0131rm\u0131z\u0131 alarm... Chikungunya ate\u015fi endi\u015fesi!",
+      "description": "Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vir\u00fcs\u00fc olan Chikungunya ate\u015fi vakas\u0131 tespit edildi. yakla\u015f\u0131k 8 bin ki\u015finin bula\u015f riski alt\u0131nda oldu\u011fu aktar\u0131ld\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/44/hong_kongda_kirmizi_alarm_chikungunya_atesi_endisesi_1762092301_3952.jpg",
+      "publishedAt": "2025-11-02 14:06:00",
+      "content": "\u00c7in'in Hong Kong \u00d6zel dari B\u00f6lgesi'nde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vakas tespit edildii bildirildi. 82 YAINDAK BR KADINDA RASTLANILDI South China Morning Post'un haber\u2026 [+1366 chars]",
+      "retrievedAt": "2025-11-03 19:05:59.959076",
+      "internal_id": "875d0849f71063666ae70010265410d32466534187cf59f3fe7b125eb5adf718",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25473,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432",
+      "title": "\u0412 \u0424\u0420\u0413 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0439 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u0441\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u0412 \u0440\u044f\u0434\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0441\u0442\u0440\u0430\u043d\u044b \u0432\u0432\u0435\u0434\u0435\u043d \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043f\u0442\u0438\u0446\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 Bild.",
+      "url": "https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/02/478_a08.jpg",
+      "publishedAt": "2025-11-02 13:40:02",
+      "content": "3- - , . , , . , . , . . 16 . , . H5N1, . . - . . 13 . , . - , . , . \" , , . . , . , . \", - hamburg.com. , . Bild , , .",
+      "retrievedAt": "2025-11-03 19:05:58.208470",
+      "internal_id": "c71f33b5b0715e1b8e1ddc9600fbd401b70be9e614fe9a103cdd350148cb337a",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 25474,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "iStock",
+      "title": "5 indoor plants that naturally keep mosquitoes away",
+      "description": "If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, and chikungunya. But instead of reaching for chemical repellents, nature offers an elegant s\u2026",
+      "url": "https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125030726,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "publishedAt": "2025-11-02 07:35:04",
+      "content": "Nov 02, 2025, 01:08:23 PM IST If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, a\u2026 [+3027 chars]",
+      "retrievedAt": "2025-11-03 19:05:58.678587",
+      "internal_id": "b617340d2e8571b3e6faa63d7af26c43bd7aac30e2dcecc52b4e68ae391274b8",
       "publishedAtLabel": "Nov 2"
     }
   ]

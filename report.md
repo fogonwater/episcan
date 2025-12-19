@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-12-18 19:07
-- **Most recent article:** 2025-12-17 18:30:36
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-12-19 07:09
+- **Most recent article:** 2025-12-18 06:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 17 | 59 | 27 | 18 | 15 | 45 | 16 | 197 |
-| dengue | 32 | 22 | 13 | 35 | 19 | 34 | 14 | 169 |
-| h5n1 | 31 | 31 | 21 | 29 | 13 | 10 | 3 | 138 |
-| malaria | 18 | 20 | 12 | 17 | 26 | 17 | 13 | 123 |
-| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 7 | 55 |
-| mpox | 3 | 6 | 3 | 5 | 4 | 28 | 2 | 51 |
-| chikungunya | 11 | 4 | 2 | 1 | 14 | 16 | 1 | 49 |
-| zika | 9 | 2 | 1 | 2 | 6 | 6 | 0 | 26 |
+| measles | 19 | 59 | 27 | 18 | 15 | 45 | 24 | 207 |
+| dengue | 33 | 22 | 13 | 35 | 19 | 34 | 16 | 172 |
+| h5n1 | 32 | 31 | 21 | 29 | 13 | 10 | 5 | 141 |
+| malaria | 19 | 20 | 12 | 17 | 26 | 17 | 13 | 124 |
+| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 8 | 56 |
+| mpox | 4 | 6 | 3 | 5 | 4 | 28 | 3 | 53 |
+| chikungunya | 13 | 4 | 2 | 1 | 14 | 16 | 1 | 51 |
+| zika | 9 | 2 | 1 | 2 | 6 | 6 | 1 | 27 |
 | meningitis | 0 | 8 | 3 | 4 | 4 | 3 | 0 | 22 |
+| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 4 | 20 |
 | pertussis | 2 | 2 | 3 | 6 | 5 | 2 | 0 | 20 |
-| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 3 | 19 |
 | hpai | 1 | 5 | 2 | 1 | 2 | 5 | 0 | 16 |
-| leptospirosis | 1 | 2 | 1 | 7 | 3 | 0 | 0 | 14 |
+| leptospirosis | 1 | 2 | 1 | 7 | 3 | 0 | 1 | 15 |
 | typhoid | 1 | 2 | 2 | 1 | 1 | 1 | 2 | 10 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -33,7 +33,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-51 (zika)
+
+- [Serafin PH : la réforme qui inquiète le médico-social](https://basta.media/serafin-ph-la-reforme-qui-inquiete-le-medico-social-handicap) (Basta.media)
+
 ## 25-51 (yersinia)
+
+- [Q&A: Driving biotech forward, a CEO’s view](https://www.digitaljournal.com/business/qa-driving-biotech-forward-a-ceos-view/article) (Digital Journal)
 
 - [مطالعهٔ DNA نشان می‌دهد چه کسی ناقل کهن‌ترین طاعون شناخته‌شده در جهان بوده است](https://www.entekhab.ir/fa/news/900115/مطالعهٔ-dna-نشان-می‌دهد-چه-کسی-ناقل-کهن‌ترین-طاعون-شناخته‌شده-در-جهان-بوده-است) (Entekhab.ir)
 
@@ -48,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Travellers should get vaccinated against respiratory viruses, preventable diseases: CDA](https://www.channelnewsasia.com/singapore/travel-vaccines-cda-recommendation-preventable-diseases-5586086) (CNA)
 
 ## 25-51 (rabies)
+
+- [Man Dies of Rabies After Receiving Kidney from Organ Donor Scratched by a Skunk](https://www.odditycentral.com/news/man-dies-of-rabies-after-receiving-kidney-from-organ-donor-scratched-by-a-skunk.html) (Odditycentral.com)
 
 - [Primate featurette digs into the horror film about a rabies-crazed chimp](https://www.joblo.com/primate-featurette/) (JoBlo.com)
 
@@ -65,11 +73,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (mpox)
 
+- [US–Africa bilateral health deals won’t help against diseases that ignore borders](https://www.nature.com/articles/d41586-025-04107-z) (Nature.com)
+
 - [Wielka Brytania: Wykryto nowy wariant wirusa "małpiej ospy". Specjaliści nawołują do szczepień](https://wiadomosci.wp.pl/wielka-brytania-wykryto-nowy-wariant-wirusa-malpiej-ospy-specjalisci-nawoluja-do-szczepien-7233078026120128a) (Wiadomosci.wp.pl)
 
 - [2025 Nears Climate Heat Record, Mpox Variant Discovered, and Hobbit Extinction Explained](https://www.scientificamerican.com/podcast/episode/2025-nears-climate-heat-record-mpox-variant-discovered-and-hobbit-extinction/) (Scientific American)
 
 ## 25-51 (measles)
+
+- [Measles becoming "entrenched" in U.S. again, doctor says, as non-travel-related cases grow](https://www.cbsnews.com/video/south-carolina-measles-infectious-diseases-polio/) (CBS News)
+
+- [Measles outbreaks won't end in 2025 as cases mount in Utah, Arizona and South Carolina](https://www.nbcnews.com/health/health-news/measles-outbreaks-no-end-2025-cases-mount-utah-arizona-south-carolina-rcna249743) (NBC News)
+
+- [South Carolina measles outbreak worries doctors](https://www.cbsnews.com/video/south-carolina-measles-outbreak-worries-doctors/) (CBS News)
+
+- [School Absences Surged As Texas Grappled With Measles Outbreak](https://www.hoover.org/research/school-absences-surged-texas-grappled-measles-outbreak) (Hoover.org)
+
+- [Measles case reported in Campbell County, health officials confirm](https://wset.com/news/local/measles-case-reported-in-campbell-county-health-officials-confirm-lynchburg-livestock-market-rustburg-mcdonalds-wards-road-virginia-department-of-health-december-2025) (WSET)
+
+- [Por años México había sido un país libre de Sarampión. En 2026 eso podría cambiar](https://www.xataka.com.mx/medicina-y-salud/anos-mexico-habia-sido-pais-libre-sarampion-2026-eso-podria-cambiar) (Xataka.com.mx)
+
+- [Measles case confirmed in person who traveled through RDU](https://abc11.com/post/measles-case-confirmed-person-traveled-rdu/18295791/) (WTVD-TV)
+
+- [South Carolina health officials urge measles vaccinations as cases rise in the state](https://www.cbsnews.com/video/south-carolina-health-officials-urge-measles-vaccinations-as-cases-rise-in-the-state/) (CBS News)
 
 - [Measles Outbreak In Utah Sparks Fears Of Wider Spread](https://www.shtfplan.com/headline-news/measles-outbreak-in-utah-sparks-fears-of-wider-spread) (Shtfplan.com)
 
@@ -131,7 +157,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Nigeria tops global malaria record](https://punchng.com/nigeria-tops-global-malaria-record/) (The Punch)
 
+## 25-51 (leptospirosis)
+
+- [Lizard infections in household: From Salmonella to Leptospirosis diseases that are caused by lizards](https://timesofindia.indiatimes.com/life-style/health-fitness/lizard-infections-in-household-from-salmonella-to-leptospirosis-diseases-that-are-caused-by-lizards/photostory/126049048.cms) (The Times of India)
+
 ## 25-51 (h5n1)
+
+- [Indiase wetenschappers voorspellen hoe vogelgriep zich naar mensen zou kunnen verspreiden](https://www.nieuwsblad.be/buitenland/indiase-wetenschappers-voorspellen-hoe-vogelgriep-zich-naar-mensen-zou-kunnen-verspreiden/115019979.html) (Nieuwsblad.be)
+
+- [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po) (BBC News)
 
 - [The quest to hatch a bird-flu vaccine](https://www.nature.com/articles/d41586-025-03612-5) (Nature.com)
 
@@ -140,6 +174,10 @@ Source: [News API](https://newsapi.org/)
 - [The potential of H5N1 viruses to adapt to bovine cells varies throughout evolution](https://www.nature.com/articles/s41467-025-67234-1) (Nature.com)
 
 ## 25-51 (dengue)
+
+- [Sandamini's Death at IDH Hospital: Vaccine or Dengue Hemorrhagic Fever?](https://english.gossiplankanews.com/2025/12/sandaminis-death-at-idh-hospital.html) (Gossiplankanews.com)
+
+- [Refuerzan acciones de prevención ante aumento del dengue en Navojoa](https://www.tribuna.com.mx/sonora/2025/12/17/refuerzan-acciones-de-prevencion-ante-aumento-del-dengue-en-navojoa-423826.html) (Tribuna.com.mx)
 
 - [Why I volunteered to be infected with dengue fever](https://www.npr.org/sections/goats-and-soda/2025/12/17/g-s1-102311/vaccine-dengue-fever-trial) (NPR)
 
@@ -1797,6 +1835,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
+- [WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms) (The Times of India)
+
 ## 25-45 (measles)
 
 - [Metro Public Health Department confirms measles case in Nashville](https://www.local3news.com/local-news/tennessee/metro-public-health-department-confirms-measles-case-in-nashville/article_d641af94-314b-49dd-8024-595c52e0e901.html) (Local3news.com)
@@ -1832,6 +1872,10 @@ Source: [News API](https://newsapi.org/)
 - [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
 
 - [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
+
+- [New Zealand measles outbreak: What it’s like when your child has measles - and a GP’s warning](https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/) (New Zealand Herald)
+
+- [NZ in ‘extremely precarious position’ as measles cases climb – Editorial](https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/) (New Zealand Herald)
 
 ## 25-45 (malaria)
 
@@ -1870,6 +1914,8 @@ Source: [News API](https://newsapi.org/)
 - [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
 
 - [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
+
+- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (leptospirosis)
 
@@ -1943,6 +1989,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
 
+- [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
+
 ## 25-45 (dengue)
 
 - [Esse fungo perfumado finge ser flor para atrair (e matar) mosquitos](https://super.abril.com.br/ciencia/esse-fungo-perfumado-finge-ser-flor-para-atrair-e-matar-mosquitos/) (Abril.com.br)
@@ -2009,6 +2057,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
+- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
+
 ## 25-45 (chikungunya)
 
 - [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
@@ -2032,3 +2082,7 @@ Source: [News API](https://newsapi.org/)
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
 - [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
+
+- [Hong Kong'da kırmızı alarm... Chikungunya ateşi endişesi!](https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi) (Haber7.com)
+
+- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
