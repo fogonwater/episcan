@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-12-19 19:06
-- **Most recent article:** 2025-12-18 17:09:46
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-12-20 07:07
+- **Most recent article:** 2025-12-19 03:39:30
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 17 | 59 | 27 | 18 | 15 | 45 | 28 | 209 |
-| dengue | 32 | 22 | 13 | 35 | 19 | 34 | 19 | 174 |
-| h5n1 | 31 | 31 | 21 | 29 | 13 | 10 | 8 | 143 |
-| malaria | 18 | 20 | 12 | 17 | 26 | 17 | 16 | 126 |
-| mpox | 3 | 6 | 3 | 5 | 4 | 28 | 9 | 58 |
-| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 9 | 57 |
-| chikungunya | 11 | 4 | 2 | 1 | 14 | 16 | 2 | 50 |
-| zika | 9 | 2 | 1 | 2 | 6 | 6 | 1 | 27 |
+| measles | 19 | 59 | 27 | 18 | 15 | 45 | 28 | 211 |
+| dengue | 33 | 22 | 13 | 35 | 19 | 34 | 19 | 175 |
+| h5n1 | 32 | 31 | 21 | 29 | 13 | 10 | 9 | 145 |
+| malaria | 19 | 20 | 12 | 17 | 26 | 17 | 18 | 129 |
+| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 11 | 59 |
+| mpox | 4 | 6 | 3 | 5 | 4 | 28 | 9 | 59 |
+| chikungunya | 13 | 4 | 2 | 1 | 14 | 16 | 2 | 52 |
+| zika | 9 | 2 | 1 | 2 | 6 | 6 | 2 | 28 |
 | meningitis | 0 | 8 | 3 | 4 | 4 | 3 | 0 | 22 |
 | yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 5 | 21 |
 | pertussis | 2 | 2 | 3 | 6 | 5 | 2 | 0 | 20 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-51 (zika)
+
+- [Interleukin-27 is antiviral against Zika virus at the maternal-fetal interface](https://www.nature.com/articles/s41467-025-67378-0) (Nature.com)
 
 - [Serafin PH : la réforme qui inquiète le médico-social](https://basta.media/serafin-ph-la-reforme-qui-inquiete-le-medico-social-handicap) (Basta.media)
 
@@ -56,6 +58,10 @@ Source: [News API](https://newsapi.org/)
 - [Travellers should get vaccinated against respiratory viruses, preventable diseases: CDA](https://www.channelnewsasia.com/singapore/travel-vaccines-cda-recommendation-preventable-diseases-5586086) (CNA)
 
 ## 25-51 (rabies)
+
+- [How do you know if an animal has rabies?](https://www.lifesciencesworld.com/how-do-you-know-if-an-animal-has-rabies/) (Lifesciencesworld.com)
+
+- [Can you get rabies from feeding a raccoon?](https://www.lifesciencesworld.com/can-you-get-rabies-from-feeding-a-raccoon/) (Lifesciencesworld.com)
 
 - [Drivers of rabies post-exposure prophylaxis noncompletion in Cambodia, 2019 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013813) (Plos.org)
 
@@ -155,6 +161,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (malaria)
 
+- [emod-malaria 2.30.4.dev1](https://pypi.org/project/emod-malaria/2.30.4.dev1/) (Pypi.org)
+
+- [Chirality helps malaria parasites reach their target](https://www.nature.com/articles/s41567-025-03142-x) (Nature.com)
+
 - [New Gene Drive Stops the Spread of Malaria—Without Killing Any Mosquitoes](https://singularityhub.com/2025/12/18/this-gene-drive-stops-the-spread-of-real-world-malaria-without-killing-any-mosquitoes/) (Singularity Hub)
 
 - [OpenStreetMap User's Diaries: Datos Libres y Tecnología: Aliados Estratégicos en la Lucha contra la Malaria](https://www.openstreetmap.org/user/kaxtillo/diary/407946) (Openstreetmap.org)
@@ -192,6 +202,8 @@ Source: [News API](https://newsapi.org/)
 - [Lizard infections in household: From Salmonella to Leptospirosis diseases that are caused by lizards](https://timesofindia.indiatimes.com/life-style/health-fitness/lizard-infections-in-household-from-salmonella-to-leptospirosis-diseases-that-are-caused-by-lizards/photostory/126049048.cms) (The Times of India)
 
 ## 25-51 (h5n1)
+
+- [Simulation Shows That Bird Flu Could Become a Public Health Crisis After Only Two Days](https://www.discovermagazine.com/simulation-shows-that-bird-flu-could-become-a-public-health-crisis-after-only-two-days-48431) (Discover Magazine)
 
 - [Gripa aviară H5N1. Simulări științifice arată cât de rapid poate scăpa de sub control un focar uman](https://www.mediafax.ro/sanatate/gripa-aviara-h5n1-simulari-stiintifice-arata-cat-de-rapid-poate-scapa-de-sub-control-un-focar-uman-23660591) (Mediafax.ro)
 
@@ -1879,6 +1891,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
 
+- [WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms) (The Times of India)
+
 ## 25-45 (measles)
 
 - [Metro Public Health Department confirms measles case in Nashville](https://www.local3news.com/local-news/tennessee/metro-public-health-department-confirms-measles-case-in-nashville/article_d641af94-314b-49dd-8024-595c52e0e901.html) (Local3news.com)
@@ -1914,6 +1928,10 @@ Source: [News API](https://newsapi.org/)
 - [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
 
 - [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
+
+- [New Zealand measles outbreak: What it’s like when your child has measles - and a GP’s warning](https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/) (New Zealand Herald)
+
+- [NZ in ‘extremely precarious position’ as measles cases climb – Editorial](https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/) (New Zealand Herald)
 
 ## 25-45 (malaria)
 
@@ -1952,6 +1970,8 @@ Source: [News API](https://newsapi.org/)
 - [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
 
 - [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
+
+- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
 
 ## 25-45 (leptospirosis)
 
@@ -2025,6 +2045,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
 
+- [В ФРГ говорят об эпидемии новой высокозаразной разновидности птичьего гриппа](https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html) (Rg.ru)
+
 ## 25-45 (dengue)
 
 - [Esse fungo perfumado finge ser flor para atrair (e matar) mosquitos](https://super.abril.com.br/ciencia/esse-fungo-perfumado-finge-ser-flor-para-atrair-e-matar-mosquitos/) (Abril.com.br)
@@ -2091,6 +2113,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
 
+- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
+
 ## 25-45 (chikungunya)
 
 - [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
@@ -2114,3 +2138,7 @@ Source: [News API](https://newsapi.org/)
 - [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
 
 - [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
+
+- [Hong Kong'da kırmızı alarm... Chikungunya ateşi endişesi!](https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi) (Haber7.com)
+
+- [5 indoor plants that naturally keep mosquitoes away](https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms) (Economictimes.com)
