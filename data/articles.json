@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-12-20 07:07",
-  "count_articles_total": 907,
-  "count_articles_new": 6,
+  "last_updated": "2025-12-20 19:05",
+  "count_articles_total": 908,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 26381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "EL PA\u00cdS",
+      "author": "Giammarco Sicuro",
+      "title": "Los olvidados de Sud\u00e1n: Viaje al interior de la peor crisis humanitaria del mundo",
+      "description": "Durante m\u00e1s de dos a\u00f1os, la guerra en el pa\u00eds ha dejado cientos de miles de muertos y m\u00e1s de 7,2 millones de desplazados internos. La situaci\u00f3n sanitaria es cr\u00edtica, con brotes de c\u00f3lera y dengue, y un aumento de casos de desnutrici\u00f3n infantil. Miles de perso\u2026",
+      "url": "https://elpais.com/planeta-futuro/2025-12-19/los-olvidados-de-sudan-un-viaje-al-interior-de-la-peor-crisis-humanitaria-del-mundo.html",
+      "urlToImage": "https://imagenes.elpais.com/resizer/v2/FS7XBCBQTNDZNNNCA4YESRSBUM.jpg?auth=562e2bc036ea811dd9551456c62f7734a0f6543a2af30ed588d7cb60578ce89c&width=1200",
+      "publishedAt": "2025-12-19 15:00:00",
+      "content": "Ir al contenidoDurante m\u00e1s de dos a\u00f1os, la guerra en el pa\u00eds ha dejado cientos de miles de muertos y m\u00e1s de 7,2 millones de desplazados internos. La situaci\u00f3n sanitaria es cr\u00edtica, con brotes de c\u00f3le\u2026 [+7997 chars]",
+      "retrievedAt": "2025-12-20 19:05:46.769948",
+      "internal_id": "d2c33e51e71a77d12e34b240dbc49c89b5d30478bd15ae5fab448d762a50c3ca",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 26382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pallawi Kumari, Priti Devi, Basudha Banerjee, Bansidhar Tarai, Sandeep Budhiraja, Tav Pritesh Sethi, Rajesh Pandey",
+      "title": "Functional dynamics between resident transcriptionally active microbes (TAMs) and host genes underlie Dengue severity",
+      "description": "Author summary Dengue represents a wide clinical spectrum, with millions of global cases and thousands of deaths annually. Along with the variable clinical outcomes mild to severe, dengue not only causes subtle symptoms but organ failure also further undersco\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013836",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013836.g004&size=inline",
+      "publishedAt": "2025-12-19 14:00:00",
+      "content": "Citation: Kumari P, Devi P, Banerjee B, Tarai B, Budhiraja S, Sethi TP, et al. (2025) Functional dynamics between resident transcriptionally active microbes (TAMs) and host genes underlie Dengue seve\u2026 [+49447 chars]",
+      "retrievedAt": "2025-12-20 19:05:46.796247",
+      "internal_id": "623b5649d81e594f0252921980439e5659065c397a40812e7c031f9468ef626b",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 26384,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ibtissam Jabre, Nana Efua Andoh, Juliana Naldoni, William Gregory, Haddijatou Mbye, Chae Eun Yoon, Aubrey J. Cunnington, Athina Georgiadou, Andrew M. Blagborough, Catherine J. Merrick",
+      "title": "Histone lactylation: A new epigenetic mark in the malaria parasite Plasmodium",
+      "description": "Author summary The pathology of human malaria often includes \u2018hyperlactataemia\u2019: blood lactate rising to aberrantly high levels. This is also seen, for example, in sepsis. It predicts severe and fatal malaria because it can cause respiratory distress in the p\u2026",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011991",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011991.g008&size=inline",
+      "publishedAt": "2025-12-19 14:00:00",
+      "content": "Citation: Jabre I, Andoh NE, Naldoni J, Gregory W, Mbye H, Yoon CE, et al. (2025) Histone lactylation: A new epigenetic mark in the malaria parasite Plasmodium. PLoS Genet 21(12): e1011991. https:\u2026 [+85653 chars]",
+      "retrievedAt": "2025-12-20 19:05:47.535782",
+      "internal_id": "71e9a152261ec7b4f335d3a0027cd592bc9d230a26d271bde40449dc874491b3",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 26380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Freitag.de",
+      "author": "Nick Reimer",
+      "title": "M\u00fcckenalarm auf Island",
+      "description": "Gr\u00fcnes Wissen to go: Erstmals wurden drei Exemplare der Stechm\u00fcckenart Culiseta annulata in Reykjavik gefunden. In Deutschland steigt die Zahl der Dengue-F\u00e4lle Es gibt nur wenige Regionen auf dieser Welt, die m\u00fcckenfrei sind: Bislang z\u00e4hlte Island neben der A\u2026",
+      "url": "https://www.freitag.de/autoren/nick-reimer/ringelmuecke-in-reykjavik-erstmals-drei-exemplare-gefunden",
+      "urlToImage": "https://www.freitag.de/autoren/nick-reimer/ringelmuecke-in-reykjavik-erstmals-drei-exemplare-gefunden/@@images/image/great",
+      "publishedAt": "2025-12-19 12:24:00",
+      "content": "Es gibt nur wenige Regionen auf dieser Welt, die m\u00fcckenfrei sind: Bislang z\u00e4hlte Island neben der Antarktis zu diesen Gebieten. Doch das k\u00f6nnte der Vergangenheit angeh\u00f6ren: Zum ersten Mal n\u00e4mlich sin\u2026 [+3720 chars]",
+      "retrievedAt": "2025-12-20 19:05:46.759412",
+      "internal_id": "c40f07a28501ad29581cc912b8e095143eaa8b5c9e8d3098c45a2981d48b59c5",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 26379,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aktualne.cz",
+      "author": "Vojt\u011bch \u0160t\u011bp\u00e1n",
+      "title": "Z\u00e1ke\u0159n\u00e1 ch\u0159ipka H5N1 um\u00ed zab\u00edt ka\u017ed\u00e9ho druh\u00e9ho. Jedin\u00fd gen zat\u00edm brzd\u00ed pohromu",
+      "description": "Ve chv\u00edli, kdy by bylo potvrzen\u00fdch deset naka\u017een\u00fdch, by se nemoc roz\u0161\u00ed\u0159ila do b\u011b\u017en\u00e9 populace a \u0161\u00ed\u0159\u00ed se nekontrolovan\u011b. Tak podle v\u011bdc\u016f vypad\u00e1 mo\u017en\u00fd sc\u00e9n\u00e1\u0159, pokud by se smrt\u00edc\u00ed varianta pta\u010d\u00ed ch\u0159ipky za\u010dala \u0161\u00ed\u0159it mezi lidmi. \u201eLid\u00e9 naka\u017een\u00ed od zv\u00ed\u0159ete maj\u00ed smrt\u2026",
+      "url": "https://zpravy.aktualne.cz/domaci/zakerna-chripka-h5n1-umi-zabit-kazdeho-druheho-jediny-gen-zatim-brzdi-pohromu/r~aaa2953e96d519f5fad7312a287f85e9/",
+      "urlToImage": "https://media.eco-files.cz/economia/production/files/2025/12/18/15/31/45/6d7f9179-9c0f-41b9-b4a9-f29ce3fe315f/profimedia-1054351487.jpg",
+      "publishedAt": "2025-12-19 10:26:00",
+      "content": "Varianty pta\u00ed chipky zn\u00e1m\u00e9 pod n\u00e1zvem H5N1 se vdci ob\u00e1vaj\u00ed u dlouh\u00e1 l\u00e9ta. Vyznauje se toti vysokou nakalivost\u00ed a velkou smrtnost\u00ed. Ve vyvol\u00e1n\u00ed glob\u00e1ln\u00ed pandemie j\u00ed br\u00e1n\u00ed jedin\u00e9 zat\u00edm se nepen\u00e1\u00ed mezi \u2026 [+2518 chars]",
+      "retrievedAt": "2025-12-20 19:05:46.535597",
+      "internal_id": "9c9fd56d079e45f646ceaf096e54ac035137cdb22458a8b1fd8e76c4909a1069",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 26383,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "admin",
+      "title": "Case of bacterial meningitis in a 17-year-old student in Chania after a school trip to the Czech Republic",
+      "description": "School operations continue as normal according to EODY; no additional measures required beyond strict adherence to personal and environmental hygiene rules The post Case of bacterial meningitis in a 17-year-old student in Chania after a school trip to the Cze\u2026",
+      "url": "https://en.protothema.gr/2025/12/19/case-of-bacterial-meningitis-in-a-17-year-old-student-in-chania-after-a-school-trip-to-the-czech-republic/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/12/nosokomeio-xanion-1.jpg-1.jpg",
+      "publishedAt": "2025-12-19 10:01:09",
+      "content": "A 17-year-old student who was diagnosed with bacterial (microbial) meningitis after a five-day school trip to the Czech Republic is being treated at Chania General Hospital and is out of danger. Mor\u2026 [+1115 chars]",
+      "retrievedAt": "2025-12-20 19:05:47.075786",
+      "internal_id": "a4c03012f5767f642b8405294f71fbb424b2c9bfe8ecd24d34150f8c3497f41c",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 26378,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Lagos enlists traditional rulers\u2019 support for measles\u2013rubella vaccination campaign",
+      "description": "The Lagos State government enlists traditional rulers to support the upcoming Measles-Rubella vaccination campaign to combat misinformation and boost immun Read More: https://punchng.com/lagos-enlists-traditional-rulers-support-for-measles-rubella-vaccinatio\u2026",
+      "url": "https://punchng.com/lagos-enlists-traditional-rulers-support-for-measles-rubella-vaccination-campaign/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/03/04112451/Lagos-State-Government.jpeg",
+      "publishedAt": "2025-12-19 09:35:53",
+      "content": "The Lagos State Primary Health Care Board has called on traditional rulers, particularly Ijebu-speaking monarchs, to support the forthcoming MeaslesRubella vaccination campaign, scheduled for January\u2026 [+2166 chars]",
+      "retrievedAt": "2025-12-20 19:05:46.018041",
+      "internal_id": "87b115e52563f1722f6d2d8dc3eb13464bc444ae340595115265af5866ed39f7",
+      "publishedAtLabel": "Dec 19"
+    },
     {
       "id": 26372,
       "query": [
@@ -16273,116 +16399,6 @@
       "content": "En M\u00e9xico el dengue sigue en aumento debido a que la cifra de personas contagiadas ascendi\u00f3 a 14 mil 652 en lo que va del a\u00f1o. TE PUEDE INTERESAR: Fumigan panteones de Oaxaca para evitar propagaci\u00f3n\u2026 [+1576 chars]",
       "retrievedAt": "2025-11-04 07:08:00.903971",
       "internal_id": "76c0b4632f0939ed013d415f42b57a3be1a6a472d5edac6970f990c3ba96fbe9",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25472,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Bethany Reitsma",
-      "title": "New Zealand measles outbreak: What it\u2019s like when your child has measles - and a GP\u2019s warning",
-      "description": "What it\u2019s like when your child has measles - and a GP\u2019s warning for families.",
-      "url": "https://www.nzherald.co.nz/lifestyle/new-zealand-measles-outbreak-what-its-like-when-your-child-has-measles-and-a-gps-warning/RZKBC7U66RGS5OU2H7DS4X6HL4/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IYEUA6NQO5G3HFKYKC3FDYCK2I.jpg?auth=fe82d0e91d0ba5df355994652e88f7abd8d3f237c79ccf756b150c3fe1ee4848&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-11-02 18:56:01",
-      "content": "The two girls had both had the standard vaccinations at the time. They both got the measles injections when everyone else did, at the normal time, Howie, who lives in Motueka, recalls. The doctors \u2026 [+4491 chars]",
-      "retrievedAt": "2025-11-03 19:05:57.790584",
-      "internal_id": "1a798cc6045d6d651bcd6ead43511cdf2a22340b5deb431aacdb8c0cacebcb12",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25471,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "NZ Herald",
-      "title": "NZ in \u2018extremely precarious position\u2019 as measles cases climb \u2013 Editorial",
-      "description": "New Zealand\u2019s measles immunity rate is just 82%, well below the 95% target.",
-      "url": "https://www.nzherald.co.nz/nz/nz-in-extremely-precarious-position-as-measles-cases-climb-editorial/763SJPSUJBAJJJALQJK7TTCTTU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg?auth=f858c594d9df0f39356df60be85a30ea35175f6e87db5aa5af4c54c7a592b69d&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2025-11-02 16:00:00",
-      "content": "Measles is one of our most infectious diseases, and so, in an unvaccinated population, one person can potentially make 12 to 18 other people sick, Howe told Chelsea Daniels on The Front Page podcast \u2026 [+2543 chars]",
-      "retrievedAt": "2025-11-03 19:05:57.732835",
-      "internal_id": "4ce717f89fa5041fca295b5324efd8d0e1fa5f7ea7e2222749157eee896cdaed",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25476,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Lifestyle Desk",
-      "title": "WHO warns of rising 'clade Ib' Mpox cases worldwide: 5 symptoms we should watch out for",
-      "description": "The World Health Organisation (WHO) has raised a fresh alert after detecting the clade Ib strain of the Mpox virus across 42 countries. Once confined mainly to Central and West Africa, the virus has now spread to parts of Europe, Asia, and the Americas.As of \u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/who-warns-of-rising-clade-ib-mpox-cases-worldwide-5-symptoms-we-should-watch-out-for/photostory/125035635.cms",
-      "urlToImage": "https://static.toiimg.com/photo/125035722.cms",
-      "publishedAt": "2025-11-02 14:46:50",
-      "content": "Mpox spreads mainly through close contact, skin-to-skin touch, body fluids, respiratory droplets, or contaminated objects like bedding and towels. In the latest clusters, clade Ib has been detected i\u2026 [+285 chars]",
-      "retrievedAt": "2025-11-03 19:06:00.231693",
-      "internal_id": "730848667e19663ca0cc0b23a14b5debe85d9cb188b1fdcc483b4af230671feb",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25475,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Fatih Yoncal\u0131k",
-      "title": "Hong Kong'da k\u0131rm\u0131z\u0131 alarm... Chikungunya ate\u015fi endi\u015fesi!",
-      "description": "Hong Kong'da uzun s\u00fcreden bu yana rastlanan ilk yerel kaynakl\u0131 vir\u00fcs\u00fc olan Chikungunya ate\u015fi vakas\u0131 tespit edildi. yakla\u015f\u0131k 8 bin ki\u015finin bula\u015f riski alt\u0131nda oldu\u011fu aktar\u0131ld\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3576419-hong-kongda-kirmizi-alarm-chikungunya-atesi-endisesi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2025/44/hong_kongda_kirmizi_alarm_chikungunya_atesi_endisesi_1762092301_3952.jpg",
-      "publishedAt": "2025-11-02 14:06:00",
-      "content": "\u00c7in'in Hong Kong \u00d6zel dari B\u00f6lgesi'nde, sivrisineklerden bulaan vir\u00fcs\u00fcn yol a\u00e7t Chikungunya atei vakas tespit edildii bildirildi. 82 YAINDAK BR KADINDA RASTLANILDI South China Morning Post'un haber\u2026 [+1366 chars]",
-      "retrievedAt": "2025-11-03 19:05:59.959076",
-      "internal_id": "875d0849f71063666ae70010265410d32466534187cf59f3fe7b125eb5adf718",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25473,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432",
-      "title": "\u0412 \u0424\u0420\u0413 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043e\u0431 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438 \u043d\u043e\u0432\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0439 \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u0441\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u0412 \u0440\u044f\u0434\u0435 \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432 \u0441\u0442\u0440\u0430\u043d\u044b \u0432\u0432\u0435\u0434\u0435\u043d \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u043f\u0442\u0438\u0446\u044b. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 Bild.",
-      "url": "https://rg.ru/2025/11/02/v-frg-govoriat-ob-epidemii-novoj-vysokozaraznoj-raznovidnosti-ptichego-grippa.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/02/478_a08.jpg",
-      "publishedAt": "2025-11-02 13:40:02",
-      "content": "3- - , . , , . , . , . . 16 . , . H5N1, . . - . . 13 . , . - , . , . \" , , . . , . , . \", - hamburg.com. , . Bild , , .",
-      "retrievedAt": "2025-11-03 19:05:58.208470",
-      "internal_id": "c71f33b5b0715e1b8e1ddc9600fbd401b70be9e614fe9a103cdd350148cb337a",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 25474,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Economictimes.com",
-      "author": "iStock",
-      "title": "5 indoor plants that naturally keep mosquitoes away",
-      "description": "If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, and chikungunya. But instead of reaching for chemical repellents, nature offers an elegant s\u2026",
-      "url": "https://m.economictimes.com/news/india/5-indoor-plants-that-naturally-keep-mosquitoes-away/say-goodbye-to-mosquitoes-forever/slideshow/125030726.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125030726,width-1070,height-580,overlay-economictimes/slideshow.jpg",
-      "publishedAt": "2025-11-02 07:35:04",
-      "content": "Nov 02, 2025, 01:08:23 PM IST If there\u2019s one uninvited guest we all dread at home, it\u2019s the mosquito. These buzzing insects are not only annoying but can also spread diseases like dengue, malaria, a\u2026 [+3027 chars]",
-      "retrievedAt": "2025-11-03 19:05:58.678587",
-      "internal_id": "b617340d2e8571b3e6faa63d7af26c43bd7aac30e2dcecc52b4e68ae391274b8",
       "publishedAtLabel": "Nov 2"
     }
   ]
