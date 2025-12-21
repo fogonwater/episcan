@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-12-21 07:07",
-  "count_articles_total": 803,
-  "count_articles_new": 11,
+  "last_updated": "2025-12-21 19:05",
+  "count_articles_total": 808,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 26400,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Olivia Kelleher",
+      "title": "Fota Wildlife Park reopens after 10-week closure due to bird flu",
+      "description": "In October, the wildlife park euthanised some of its Greylag Goose population following eleven confirmed cases of H5N1 Avian Influenza.",
+      "url": "https://www.thejournal.ie/fota-wildlife-park-reopens-after-10-week-closure-due-to-bird-flu-6909908-Dec2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6909908/river/?height=400&version=6909909",
+      "publishedAt": "2025-12-20 18:01:57",
+      "content": "FOTA WILDLIFE PARK in Co Cork has reopened following a ten-week closure to manage an avian influenza outbreak which originated from wild bird populations. The closure of the popular tourist attracti\u2026 [+2588 chars]",
+      "retrievedAt": "2025-12-21 19:05:47.470500",
+      "internal_id": "7c44ab22c1fcbc86c006af8f900354ba498a34d8cf5a304fefcbd3024f4578c2",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 26398,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Mark Prussin",
+      "title": "20 new measles cases found in Rockland County, New York, as health leaders urge getting vaccinated",
+      "description": "20 new measles cases found in Rockland County, New York, as health leaders urge getting vaccinatedcbsnews.com",
+      "url": "https://www.cbsnews.com/newyork/news/measles-cases-rockland-county-ny-health-warning/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/20/a9ac10b2-41e0-4b5f-b556-35405504692a/thumbnail/1200x630/5e22a7ea6a8a403ffbd00ef7b8023679/gettyimages-2226510634.jpg",
+      "publishedAt": "2025-12-20 17:57:31",
+      "content": "New York health leaders are urging families in Rockland County to get vaccinated for measles amid a recent spike in cases. Rockland's health department said Friday that 20 new cases of the highly c\u2026 [+2375 chars]",
+      "retrievedAt": "2025-12-21 19:05:47.025436",
+      "internal_id": "f23cab22371ae46f91f491469c0c6234f3a5b5fc34bb380c565e5a33efb48c78",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 26396,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "Director of Health and Human Services: not enough kids are dying",
+      "description": "Sure, cases of measles and whooping cough are going up, but RFK Jr. thinks we can be getting those kind of numbers with respect to other viral infections: The Trump administration plans to shift the federal government away from directly recommending most vacc\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/12/director-of-health-and-human-services-not-enough-kids-are-dying",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/09/rfk-mcd-1024x599.png",
+      "publishedAt": "2025-12-20 15:55:00",
+      "content": "Sure, cases of measles and whooping cough are going up, but RFK Jr. thinks we can be getting those kind of numbers with respect to other viral infections: The Trump administration plans to shift the\u2026 [+1203 chars]",
+      "retrievedAt": "2025-12-21 19:05:46.921057",
+      "internal_id": "8b201ac2603d7afb1b6b5c100b4311e15530bbfe0f48b7c2be4e281b42f6a8a7",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 26397,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "David Kesiena",
+      "title": "Why America could lose measles-free status in 2025",
+      "description": "America stands on the precipice of a public health crisis as declining vaccination rates trigger alarming increases in preventable diseases that were once nearly eradicated. Health experts warn the nation could lose its measles-free status next year, ushering\u2026",
+      "url": "https://rollingout.com/2025/12/20/measles-disease-soar-vaccination-drop/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/12/shutterstock_2625735621-scaled.jpg",
+      "publishedAt": "2025-12-20 13:48:57",
+      "content": "America stands on the precipice of a public health crisis as declining vaccination rates trigger alarming increases in preventable diseases that were once nearly eradicated. Health experts warn the n\u2026 [+6778 chars]",
+      "retrievedAt": "2025-12-21 19:05:46.982075",
+      "internal_id": "e43f829813a496b9d0a24e65b87bf2fcd357582d76b2d765fd47bd819716ec2e",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 26401,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "Mutatjuk, mi t\u00f6rt\u00e9nne, ha a mad\u00e1rinfluenza emberr\u0151l emberre terjedne",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/nagyvilag/2025/12/madarinfluenza-virus-h5n1-jarvany",
+      "urlToImage": "https://cdn.origo.hu/2025/12/7RFy2sRNjt5GCL1dURnIh9vd6ycyKGdjjQQf6kCylaQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2QwOGNjMTdiYTcyMzQ2MGViYTYyZGViMzA2OWM4NmZh.webp",
+      "publishedAt": "2025-12-20 11:49:44",
+      "content": "A mad\u00e1rinfluenza v\u00edrus \u00e9vtizedek \u00f3ta jelen van D\u00e9l- \u00e9s D\u00e9lkelet-\u00c1zsi\u00e1ban. A H5N1 t\u00f6rzs m\u00e1r k\u00f6zel ezer emberi fertz\u00e9st okozott vil\u00e1gszerte, \u00e9s a megbeteged\u00e9sekhez magas hal\u00e1loz\u00e1si ar\u00e1ny t\u00e1rsult. B\u00e1r a\u2026 [+2328 chars]",
+      "retrievedAt": "2025-12-21 19:05:47.496902",
+      "internal_id": "1b10d61754859078c6caaf730730078e15c171b123da4768b0730b2a3f994ec7",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 26402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Freitas",
+      "title": "\u201cA ci\u00eancia n\u00e3o pode parar\u201d",
+      "description": "Luciano Moreira, 59, fala do caminho que trilhou para ser eleito um dos dez maiores cientistas do mundo em 2025",
+      "url": "https://veja.abril.com.br/ciencia/a-ciencia-nao-pode-parar/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/12/PRIMEIRA-PESSOA-LUCIANO-MOREIRA.png.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-12-20 11:00:08",
+      "content": "Abril Day: VEJA por apenas 4,00Luciano Moreira (./Arquivo pessoal) Continua ap\u00f3s publicidade Luciano Moreira, o cientista brasileiro que transformou a luta contra a dengue, compartilha sua \u2026 [+4324 chars]",
+      "retrievedAt": "2025-12-21 19:05:47.849265",
+      "internal_id": "92700de8fed2e5ea4c979d4bd08c6da496084e24bcc715f25f8d7f9c64013a2b",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 26399,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLTX.com",
+      "author": "Jamin Wade",
+      "title": "South Carolina sees rise in COVID-19 and flu as measles outbreak surpasses 140 cases",
+      "description": "South Carolina sees rise in COVID-19 and flu as measles outbreak surpasses 140 caseswltx.com",
+      "url": "https://www.wltx.com/article/news/health/rise-in-covid-19-and-flu/101-70578c2a-46ae-4363-9c29-372f1e3a0d1a",
+      "urlToImage": "https://media.wltx.com/assets/WLTX/images/fc52593f-00fc-4489-aee5-6f3998f10936/20250114T040701/fc52593f-00fc-4489-aee5-6f3998f10936_1140x641.jpg",
+      "publishedAt": "2025-12-20 10:41:52",
+      "content": "SOUTH CAROLINA, USA Doctors across South Carolina say they are seeing a steady rise in COVID-19 and flu cases as winter arrives, leading to busy emergency rooms and families trying to stay healthy ah\u2026 [+2312 chars]",
+      "retrievedAt": "2025-12-21 19:05:47.035275",
+      "internal_id": "bfcf3a1539c4404258b6874d36b060601f95e817279f5b42c682a6f1669e1359",
+      "publishedAtLabel": "Dec 20"
+    },
     {
       "id": 26391,
       "query": [
@@ -14452,42 +14578,6 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reason",
-      "author": "Nick Gillespie",
-      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
-      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
-      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
-      "publishedAt": "2025-11-09 11:00:17",
-      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
-      "retrievedAt": "2025-11-10 19:06:08.819354",
-      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25593,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
-      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
-      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
-      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
-      "publishedAt": "2025-11-09 09:05:03",
-      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
-      "retrievedAt": "2025-11-10 19:06:07.685757",
-      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]

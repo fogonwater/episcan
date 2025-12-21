@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-12-21 07:07
-- **Most recent article:** 2025-12-20 00:53:14
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-12-21 19:05
+- **Most recent article:** 2025-12-20 18:01:57
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 33 | 196 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 25 | 148 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 13 | 117 |
-| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 111 |
+| measles | 58 | 27 | 18 | 15 | 45 | 37 | 200 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 149 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 119 |
+| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 110 |
 | rabies | 4 | 4 | 8 | 7 | 21 | 11 | 55 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 55 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 38 |
@@ -23,7 +23,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 19 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 17 |
-| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 16 |
+| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 15 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 14 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 9 |
 
@@ -105,6 +105,14 @@ Source: [News API](https://newsapi.org/)
 - [Case of bacterial meningitis in a 17-year-old student in Chania after a school trip to the Czech Republic](https://en.protothema.gr/2025/12/19/case-of-bacterial-meningitis-in-a-17-year-old-student-in-chania-after-a-school-trip-to-the-czech-republic/) (Protothema.gr)
 
 ## 25-51 (measles)
+
+- [20 new measles cases found in Rockland County, New York, as health leaders urge getting vaccinated](https://www.cbsnews.com/newyork/news/measles-cases-rockland-county-ny-health-warning/) (CBS News)
+
+- [Director of Health and Human Services: not enough kids are dying](https://www.lawyersgunsmoneyblog.com/2025/12/director-of-health-and-human-services-not-enough-kids-are-dying) (Lawyersgunsmoneyblog.com)
+
+- [Why America could lose measles-free status in 2025](https://rollingout.com/2025/12/20/measles-disease-soar-vaccination-drop/) (Rolling Out)
+
+- [South Carolina sees rise in COVID-19 and flu as measles outbreak surpasses 140 cases](https://www.wltx.com/article/news/health/rise-in-covid-19-and-flu/101-70578c2a-46ae-4363-9c29-372f1e3a0d1a) (WLTX.com)
 
 - [Gov-elect Sherrill says she wants basic health services for every N.J. child](https://www.nj.com/politics/2025/12/gov-elect-sherrill-says-she-wants-basic-health-services-for-every-nj-child.html) (nj.com)
 
@@ -222,6 +230,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-51 (h5n1)
 
+- [Fota Wildlife Park reopens after 10-week closure due to bird flu](https://www.thejournal.ie/fota-wildlife-park-reopens-after-10-week-closure-due-to-bird-flu-6909908-Dec2025/) (TheJournal.ie)
+
+- [Mutatjuk, mi történne, ha a madárinfluenza emberről emberre terjedne](https://www.origo.hu/nagyvilag/2025/12/madarinfluenza-virus-h5n1-jarvany) (Origo.hu)
+
 - [Инфекционист Малинникова: Гонконгский грипп может стать причиной пандемии](https://rg.ru/2025/12/20/infekcionist-malinnikova-gonkongskij-gripp-mozhet-stat-prichinoj-pandemii.html) (Rg.ru)
 
 - [Вирусолог Малинникова: гонконгский грипп может стать новой причиной пандемии](https://tass.ru/obschestvo/25972699) (Tass.ru)
@@ -249,6 +261,8 @@ Source: [News API](https://newsapi.org/)
 - [The potential of H5N1 viruses to adapt to bovine cells varies throughout evolution](https://www.nature.com/articles/s41467-025-67234-1) (Nature.com)
 
 ## 25-51 (dengue)
+
+- [“A ciência não pode parar”](https://veja.abril.com.br/ciencia/a-ciencia-nao-pode-parar/) (Abril.com.br)
 
 - [Vacinas contra dengue serão entregues ao SUS na semana que vem](https://saude.ig.com.br/2025-12-19/vacina-dengue-butantan-primeiras-doses-ministerio-da-saude.html) (Ig.com.br)
 
@@ -1726,8 +1740,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
-- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
-
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1743,8 +1755,6 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
