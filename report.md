@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-12-20 19:05
-- **Most recent article:** 2025-12-19 15:00:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-12-21 07:07
+- **Most recent article:** 2025-12-20 00:53:14
 
 ---
 
@@ -10,23 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-45 | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 17 | 59 | 27 | 18 | 15 | 45 | 29 | 210 |
-| dengue | 32 | 22 | 13 | 35 | 19 | 34 | 22 | 177 |
-| h5n1 | 31 | 31 | 21 | 29 | 13 | 10 | 10 | 145 |
-| malaria | 18 | 20 | 12 | 17 | 26 | 17 | 19 | 129 |
-| rabies | 4 | 4 | 4 | 8 | 7 | 21 | 11 | 59 |
-| mpox | 3 | 6 | 3 | 5 | 4 | 28 | 9 | 58 |
-| chikungunya | 11 | 4 | 2 | 1 | 14 | 16 | 2 | 50 |
-| zika | 9 | 2 | 1 | 2 | 6 | 6 | 2 | 28 |
-| meningitis | 0 | 8 | 3 | 4 | 4 | 3 | 1 | 23 |
-| yersinia | 4 | 0 | 2 | 0 | 6 | 4 | 5 | 21 |
-| pertussis | 2 | 2 | 3 | 6 | 5 | 2 | 0 | 20 |
-| hpai | 1 | 5 | 2 | 1 | 2 | 5 | 0 | 16 |
-| leptospirosis | 1 | 2 | 1 | 7 | 3 | 0 | 1 | 15 |
-| typhoid | 1 | 2 | 2 | 1 | 1 | 1 | 2 | 10 |
-| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 58 | 27 | 18 | 15 | 45 | 33 | 196 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 25 | 148 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 13 | 117 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 111 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 55 |
+| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 55 |
+| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 38 |
+| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 23 |
+| zika | 2 | 1 | 2 | 6 | 6 | 2 | 19 |
+| pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 18 |
+| yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 17 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 16 |
+| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 14 |
+| typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -106,6 +105,14 @@ Source: [News API](https://newsapi.org/)
 - [Case of bacterial meningitis in a 17-year-old student in Chania after a school trip to the Czech Republic](https://en.protothema.gr/2025/12/19/case-of-bacterial-meningitis-in-a-17-year-old-student-in-chania-after-a-school-trip-to-the-czech-republic/) (Protothema.gr)
 
 ## 25-51 (measles)
+
+- [Gov-elect Sherrill says she wants basic health services for every N.J. child](https://www.nj.com/politics/2025/12/gov-elect-sherrill-says-she-wants-basic-health-services-for-every-nj-child.html) (nj.com)
+
+- [We Are Living Through The Worst Measles Outbreak In 30 Years — But RFK Jr. Won't Tell You That](https://www.huffpost.com/entry/measles-outbreak-rfk-jr-anti-vaccine_n_6945ca49e4b00a59b4a6adab) (HuffPost)
+
+- [Dozen new confirmed measles cases reported in Manitoba, health officials warn](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-9.7023197) (CBC News)
+
+- [‘More Kids Will Die’: Measles Are on the Rise — and Doctors Say There’s No End in Sight](http://www.rollingstone.com/culture/culture-features/measles-outbreak-on-the-rise-1235486810/) (Rolling Stone)
 
 - [Lagos enlists traditional rulers’ support for measles–rubella vaccination campaign](https://punchng.com/lagos-enlists-traditional-rulers-support-for-measles-rubella-vaccination-campaign/) (The Punch)
 
@@ -209,7 +216,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Lizard infections in household: From Salmonella to Leptospirosis diseases that are caused by lizards](https://timesofindia.indiatimes.com/life-style/health-fitness/lizard-infections-in-household-from-salmonella-to-leptospirosis-diseases-that-are-caused-by-lizards/photostory/126049048.cms) (The Times of India)
 
+## 25-51 (hpai)
+
+- [Death of dog after avian influenza exposure in Alberta marks second such case in Canada](https://www.cbc.ca/news/canada/calgary/hpai-avian-influenza-dog-alberta-9.7023269) (CBC News)
+
 ## 25-51 (h5n1)
+
+- [Инфекционист Малинникова: Гонконгский грипп может стать причиной пандемии](https://rg.ru/2025/12/20/infekcionist-malinnikova-gonkongskij-gripp-mozhet-stat-prichinoj-pandemii.html) (Rg.ru)
+
+- [Вирусолог Малинникова: гонконгский грипп может стать новой причиной пандемии](https://tass.ru/obschestvo/25972699) (Tass.ru)
+
+- [Emergence of mammalian-adaptive PB2 mutations enhances polymerase activity and pathogenicity of cattle-derived H5N1 influenza A virus](https://www.nature.com/articles/s41467-025-67753-x) (Nature.com)
 
 - [Zákeřná chřipka H5N1 umí zabít každého druhého. Jediný gen zatím brzdí pohromu](https://zpravy.aktualne.cz/domaci/zakerna-chripka-h5n1-umi-zabit-kazdeho-druheho-jediny-gen-zatim-brzdi-pohromu/r~aaa2953e96d519f5fad7312a287f85e9/) (Aktualne.cz)
 
@@ -232,6 +249,12 @@ Source: [News API](https://newsapi.org/)
 - [The potential of H5N1 viruses to adapt to bovine cells varies throughout evolution](https://www.nature.com/articles/s41467-025-67234-1) (Nature.com)
 
 ## 25-51 (dengue)
+
+- [Vacinas contra dengue serão entregues ao SUS na semana que vem](https://saude.ig.com.br/2025-12-19/vacina-dengue-butantan-primeiras-doses-ministerio-da-saude.html) (Ig.com.br)
+
+- [Suman 55 los fallecidos por epidemia de dengue y chikingunya en Cuba](https://www.bostonherald.com/2025/12/19/suman-55-los-fallecidos-por-epidemia-de-dengue-y-chikingunya-en-cuba/) (Boston Herald)
+
+- [Instituto Butantan vai iniciar entrega ao SUS de vacina contra dengue](https://www.metropoles.com/sao-paulo/instituto-butantan-vai-iniciar-entrega-ao-sus-de-vacina-contra-dengue) (Metropoles.com)
 
 - [Los olvidados de Sudán: Viaje al interior de la peor crisis humanitaria del mundo](https://elpais.com/planeta-futuro/2025-12-19/los-olvidados-de-sudan-un-viaje-al-interior-de-la-peor-crisis-humanitaria-del-mundo.html) (EL PAÍS)
 
@@ -1663,8 +1686,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Daily briefing: The Americas have lost their measles elimination status](https://www.nature.com/articles/d41586-025-03705-1) (Nature.com)
 
-- [Measles outbreak: New case detected in Nelson, not linked to previous cases](https://www.nzherald.co.nz/nz/measles-outbreak-new-case-detected-in-nelson-not-linked-to-previous-cases/YWBPEM443FE3POFVGZWWHS7ODA/) (New Zealand Herald)
-
 ## 25-46 (malaria)
 
 - [India Atorvastatin Industry Report 2025: Market Trends, Regional Insights, Competition, Forecast and Opportunities, 2020-2024 & 2025-2030](https://www.globenewswire.com/news-release/2025/11/14/3188404/28124/en/India-Atorvastatin-Industry-Report-2025-Market-Trends-Regional-Insights-Competition-Forecast-and-Opportunities-2020-2024-2025-2030.html) (GlobeNewswire)
@@ -1842,303 +1863,3 @@ Source: [News API](https://newsapi.org/)
 - [IPN desarrolla vacunas contra chikungunya y fiebre amarilla](https://www.excelsior.com.mx/salud/ipn-desarrolla-vacunas-contra-chikungunya-y-fiebre-amarilla/1750849) (Excelsior.com.mx)
 
 - [Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns](https://www.nature.com/articles/s41591-025-04065-z) (Nature.com)
-
-- [Cuba apuesta por su soberanía tecnológica en el tratamiento actual contra las arbovirosis](https://noticiaslatam.lat/20251109/cuba-apuesta-por-su-soberania-tecnologica-en-el-tratamiento-actual-contra-las-arbovirosis-1168300008.html) (Noticiaslatam.lat)
-
-## 25-45 (zika)
-
-- [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
-
-- [Portugal preparado para emergências causadas por mosquitos](https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/) (Observador.pt)
-
-- [北摂JAMが挑む『イベントDX』の新機軸。口コミで“単発収益の壁”を壊す](https://prtimes.jp/main/html/rd/p/000000040.000165098.html) (Prtimes.jp)
-
-- [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
-
-- [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
-
-- [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
-
-- [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
-
-- [Valneva Reports Positive Results for Phase 1 Trial of Second-Generation Zika Vaccine Candidate](https://www.globenewswire.com/news-release/2025/11/04/3179950/0/en/Valneva-Reports-Positive-Results-for-Phase-1-Trial-of-Second-Generation-Zika-Vaccine-Candidate.html) (GlobeNewswire)
-
-- [Valneva annonce des résultats positifs de Phase 1 pour son candidat vaccin de deuxième génération contre le virus Zika](https://www.globenewswire.com/news-release/2025/11/04/3179950/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-1-pour-son-candidat-vaccin-de-deuxi%C3%A8me-g%C3%A9n%C3%A9ration-contre-le-virus-Zika.html) (GlobeNewswire)
-
-## 25-45 (yersinia)
-
-- [Неверная интерпретация арабской сказки породила мифы о молниеносных эпидемиях чумы](https://hi-tech.mail.ru/news/136878-nevernaya-interpretaciya-arabskoj-skazki-porodila-mify-o-molnienosnyh-epidemiyah-chumy/) (Mail.ru)
-
-- [Wyjątkowy szkielet z Edynburga. "DNA czarnej śmierci sprzed 700 lat"](https://geekweek.interia.pl/historia/news-wyjatkowy-szkielet-z-edynburga-dna-czarnej-smierci-sprzed-70,nId,22450724) (Interia.pl)
-
-- [В Эдинбурге нашли первое научное доказательство черной смерти](https://tech.onliner.by/2025/11/04/v-edinburge-nashli-pervoe-nauchnoe-dokazatelstvo-chernoj-smerti) (Onliner.by)
-
-- [On pensait savoir quand avait eu lieu la première épidémie de peste: on se trompait de plusieurs millénaires](https://www.slate.fr/sciences/origine-epidemie-peste-neolithique-erreur-datation-maladie-analyse-genetique-paleolithique-immunitaire) (Slate.fr)
-
-## 25-45 (typhoid)
-
-- [Mahhi Vij shares health update from hospital; says ‘I'm most saddened that I'm not able to go for the shoot’](https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms) (The Times of India)
-
-## 25-45 (shigellosis)
-
-- [Prevalence of Shigellosis among household contacts of index cases in the EFGH catchment area, Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013644) (Plos.org)
-
-## 25-45 (rabies)
-
-- [Third fox tests positive for rabies in Bexar County, health officials say](https://www.ksat.com/news/local/2025/11/07/third-fox-tests-positive-for-rabies-in-bexar-county-health-officials-say/) (KSAT San Antonio)
-
-- [Rabies Alert: Three Animals Test Positive In Southern Calvert County - The BayNet](http://thebaynet.com/rabies-alert-three-animals-test-positive-in-southern-calvert-county/) (Thebaynet.com)
-
-- [Exploring RNA G-quadruplex in rabies virus genome and its potential against RABV infection](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04344a) (Royal Society of Chemistry)
-
-- [A shapeshifting protein explains rabies’ deadly power](https://www.sciencedaily.com/releases/2025/11/251105050708.htm) (Science Daily)
-
-## 25-45 (pertussis)
-
-- [West Virginia health officials see rise in whooping cough cases](https://wchstv.com/news/local/west-virginia-health-officials-see-rise-in-whooping-cough-cases) (WCHS-TV8)
-
-- [Whooping cough cases soar in Texas, quadrupling last year's count](https://www.fox26houston.com/news/whooping-cough-cases-soar-texas-quadrupling-last-years-count) (fox26houston.com)
-
-## 25-45 (mpox)
-
-- [US vaccination rates show large state by state disparities](https://www.digitaljournal.com/life/us-vaccination-rates-show-large-state-by-state-disparities/article) (Digital Journal)
-
-- [Knowledge, attitudes, and practices toward Mpox among laboratory professionals in Zambia: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335365) (Plos.org)
-
-- [Φαύλος κύκλος οικονομικών ανισοτήτων και πανδημιών στην ανθρωπότητα – Τι δείχνει έκθεση του ΟΗΕ](https://www.skai.gr/news/world/ekthesi-tou-oie-gia-tin-anthropotita-faylos-kyklos-oikonomikon-anisotiton-kai-pandimion) (Skai.gr)
-
-## 25-45 (measles)
-
-- [Metro Public Health Department confirms measles case in Nashville](https://www.local3news.com/local-news/tennessee/metro-public-health-department-confirms-measles-case-in-nashville/article_d641af94-314b-49dd-8024-595c52e0e901.html) (Local3news.com)
-
-- [Manitoba measles case count continues to rise](https://www.cbc.ca/news/canada/manitoba/measles-cases-november-11-9.6971877) (CBC News)
-
-- [Measles exposures spike in northeast B.C., with another 29 suspected cases](https://www.cbc.ca/news/canada/british-columbia/northeast-b-c-measles-spike-9.6971224) (CBC News)
-
-- [SC sees first case of measles in a week as outbreak goes on](https://www.postandcourier.com/news/local_state_news/new-measles-case-continues-sc-outbreak/article_11b9d19c-05c9-4990-a29d-65b516dea908.html) (Charleston Post Courier)
-
-- [Paramyxoviruses in old world fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013698) (Plos.org)
-
-- [On the Rise of Vaccine-Preventable Diseases](https://cfrontherecord.podbean.com/e/on-the-rise-of-vaccine-preventable-diseases/) (Podbean.com)
-
-- [Measles: Several exposure sites in South West, Great Southern after two new cases confirmed](https://thewest.com.au/news/health/measles-several-exposure-sites-in-south-west-great-southern-after-two-new-cases-confirmed-c-20608834) (The West Australian)
-
-- [Catch-up Immunization Campaign Launched in the Gaza Strip](https://www.globalsecurity.org/military/library/news/2025/11/mil-251106-unrwa01.htm) (Globalsecurity.org)
-
-- [Measles outbreak: Samoa issues travel advisory, travellers told to vaccinate](https://www.nzherald.co.nz/talanoa/measles-outbreak-samoa-issues-travel-advisory-travellers-told-to-vaccinate/UFAYF4AQJ5AYPBDDJ4JOUYEXP4/) (New Zealand Herald)
-
-- [SC measles outbreak in Upstate continues but no new cases](https://www.postandcourier.com/news/local_state_news/sc-measles-outbreak-in-the-upstate-continues-but-no-new-cases/article_6fa84888-d2f6-44af-9cac-6dc2adf97f8a.html) (Charleston Post Courier)
-
-- [How Vaccines Work: Exploring the Immune System and Breakthroughs in Vaccine Science](https://www.ibtimes.com/how-vaccines-work-exploring-immune-system-breakthroughs-vaccine-science-3789626) (International Business Times)
-
-- [Winkler school latest measles exposure site in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-exposure-october-2025-winkler-9.6966373) (CBC News)
-
-- [Letters: People need to take threat of measles seriously](https://www.nzherald.co.nz/nz/letters-people-need-to-take-threat-of-measles-seriously/2TAE4IXPQZB65EVIPNHQ2DYNMU/) (New Zealand Herald)
-
-- [Measles outbreak could go on for 40 weeks if contact tracing fails, Labour’s Ayesha Verrall says](https://www.nzherald.co.nz/nz/politics/measles-outbreak-could-go-on-for-40-weeks-if-contact-tracing-fails-labours-ayesha-verrall-says/BHHOLTV42ZC53KWI5IBFX7X6NM/) (New Zealand Herald)
-
-- [How misinformation endangers our progress against preventable diseases [PODCAST]](https://kevinmd.com/2025/11/how-misinformation-endangers-our-progress-against-preventable-diseases-podcast.html) (Kevinmd.com)
-
-- [Monday, November 3, 2025](https://kffhealthnews.org/morning-briefing/monday-november-3-2025/) (Kffhealthnews.org)
-
-- [Measles Elimination Status Threatened in U.S. and Canada](https://www.scientificamerican.com/article/measles-elimination-status-threatened-in-u-s-and-canada/) (Scientific American)
-
-## 25-45 (malaria)
-
-- [Novak Djokovic klopt Lorenzo Musetti in finale Athene; Elena Rybakina wint WTA Finals](https://www.telegraaf.nl/sport/tennis/novak-djokovic-klopt-lorenzo-musetti-in-finale-athene-en-pakt-101e-titel-elena-rybakina-wint-wta-finals/103629663.html) (Telegraaf.nl)
-
-- [Over 320m mosquito nets, 450m malaria drugs distributed nationwide since 2009 — NMEP](https://www.premiumtimesng.com/health/health-news/833728-over-320m-mosquito-nets-450m-malaria-drugs-distributed-nationwide-since-2009-nmep.html) (Premium Times)
-
-- [In jacht op titel 101 bereikt Novak Djokovic finale in Athene, Sabalenka en Rybakina naar eindstrijd WTA Finals](https://www.telegraaf.nl/sport/tennis/in-jacht-op-titel-101-bereikt-novak-djokovic-finale-in-athene-sabalenka-en-rybakina-naar-eindstrijd-wta-finals/103511516.html) (Telegraaf.nl)
-
-- [Malaria isn’t just a health crisis — it’s an economic imperative](https://fortune.com/2025/11/07/why-malaria-is-economic-imperative-for-us-america/) (Fortune)
-
-- [Mahhi Vij shares health update from hospital; says ‘I'm most saddened that I'm not able to go for the shoot’](https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms) (The Times of India)
-
-- [snt-malaria-budgeting 0.4.0](https://pypi.org/project/snt-malaria-budgeting/0.4.0/) (Pypi.org)
-
-- [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
-
-- [Este es el avance de Ecuador en la lucha contra la malaria](https://www.elcomercio.com/actualidad/ecuador/este-avance-ecuador-lucha-malaria/) (Elcomercio.com)
-
-- [Reiseforfatter på sykehus: – Begynte å tisse svart](https://www.vg.no/nyheter/i/nykvAm/reiseforfatter-paa-sykehus-begynte-aa-tisse-svart) (Www.vg.no)
-
-- [Niet ziek worden in India uitdaging voor Oranje-tennissters: ’Je hebt daar malaria, dengue, nog een andere mug’](https://www.telegraaf.nl/sport/tennis/niet-ziek-worden-in-india-uitdaging-voor-oranje-tennissters-je-hebt-daar-malaria-dengue-nog-een-andere-mug/103089842.html) (Telegraaf.nl)
-
-- [Française dient klacht in tegen kapster na mislukte knipbeurt: ’Verschrikking kostte mijn dochter 260 euro’](https://www.telegraaf.nl/buitenland/francaise-dient-klacht-in-tegen-kapster-na-mislukte-knipbeurt-verschrikking-kostte-mijn-dochter-260-euro/103088846.html) (Telegraaf.nl)
-
-- [El rompecabezas del River de Gallardo para ir a la Bombonera](https://442.perfil.com/noticias/futbol/el-rompecabezas-del-river-de-gallardo-para-ir-a-la-bombonera.phtml) (Perfil.com)
-
-- [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2025/db251104.doc.htm) (UN News)
-
-- [Molecular diagnosis of Trichuris trichiura: Prevalence and associated risk factors in children under five living in a malaria-endemic area in Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335643) (Plos.org)
-
-- [Ο Ντέιβιντ Μπέκαμ χρίστηκε ιππότης από τον Βασιλιά Κάρολο](https://www.newsit.gr/athlitika/o-nteivint-mpekam-xristike-ippotis-apo-ton-vasilia-karolo/4517662/) (Newsit.gr)
-
-- [Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013677) (Plos.org)
-
-- [Tanahun Sees Second Malaria Case](https://nep123.com/tanahun-sees-second-malaria-case/) (Nep123.com)
-
-- [snt-malaria-budgeting 0.3.0](https://pypi.org/project/snt-malaria-budgeting/0.3.0/) (Pypi.org)
-
-## 25-45 (leptospirosis)
-
-- [Distinct strategies of epithelial cell barrier disruption by Leptospira interrogans isolated from human patients in Okinawa, Japan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013693) (Plos.org)
-
-## 25-45 (hpai)
-
-- [日本HPが仕掛ける次世代AI PC､触れるだけで仕事が快適になる秘密とは - ローカル搭載AIがパフォーマンス向上へ導く](https://president.jp/articles/-/103912) (President.jp)
-
-## 25-45 (h5n1)
-
-- [Why the conspiratorial right rallied around a flock of ostriches](https://www.msnbc.com/news/news-analysis/conspiratorial-right-rallied-flock-ostriches-rcna242541) (MSNBC)
-
-- [In Friesoythe: 9.400 Puten wegen Geflügelpestausbruch getötet](https://www.zeit.de/news/2025-11/07/9-400-puten-wegen-gefluegelpestausbruch-getoetet) (Die Zeit)
-
-- [In Friesoythe: 9.400 Puten wegen Geflügelpestausbruch getötet](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/in-friesoythe--9-400-puten-wegen-gefluegelpestausbruch-getoetet-36213114.html) (STERN.de)
-
-- [España prohíbe la cría de aves al aire libre a partir de esta fecha](https://www.elconfidencial.com/espana/2025-11-07/espana-prohibe-cria-aves-aire-libre-a-partir-fecha_4243351/) (Elconfidencial.com)
-
-- [Ptasia grypa zdziesiątkowała populację słoni morskich. "Przerażający widok"](https://tvn24.pl/tvnmeteo/swiat/ptasia-grypa-zdziesiatkowala-populacje-sloni-morskich-przerazajacy-widok-st8740066) (Tvn24.pl)
-
-- [Tierseuche: Nächster Fall: Vogelgrippe bei Schwan am Rhein nachgewiesen](https://www.zeit.de/news/2025-11/06/naechster-fall-vogelgrippe-bei-schwan-am-rhein-nachgewiesen) (Die Zeit)
-
-- [Una vacuna intranasal protege a 40 personas ante distintas cepas de gripe aviar](https://www.abc.es/salud/enfermedades/vacuna-intranasal-protege-personas-ante-distintas-cepas-20251106130000-nt.html) (Www.abc.es)
-
-- [Bird flu surges among poultry amid a scaled back federal response](https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5600125/bird-flu-risk-outbreak-trump-administration) (NPR)
-
-- [Интраназальная нановакцина от "птичьего гриппа" прошла первую фазу испытаний](https://tass.ru/nauka/25552701) (Tass.ru)
-
-- [Vogelgrippe: Bisher kein Verdachtsfall bestätigt](https://salzburg.orf.at/stories/3328869/) (Salzburg.orf.at)
-
-- [Further bird flu outbreaks will be 'devastating' - farmer](https://www.rte.ie/news/2025/1106/1542468-avian-flu-reaction/) (RTE)
-
-- [What is bird flu and how concerning is the spread?](https://www.rte.ie/news/ireland/2025/1106/1542455-bird-flu-explainer/) (RTE)
-
-- [An intranasal adjuvanted, recombinant influenza A/H5 vaccine primes against diverse H5N1 clades: a phase I trial](https://www.nature.com/articles/s41467-025-64686-3) (Nature.com)
-
-- [Tierseuche: Vogelgrippe bei Graugans im Landkreis Heilbronn nachgewiesen](https://www.zeit.de/news/2025-11/05/vogelgrippe-bei-graugans-im-landkreis-heilbronn-nachgewiesen) (Die Zeit)
-
-- [California agriculture dept. is hiding bird flu information, legal aid group alleges in lawsuit](https://phys.org/news/2025-11-california-agriculture-dept-bird-flu.html) (Phys.Org)
-
-- [Dødelig fugleinfluenza dræber irske kalkuner](https://www.bt.dk/udland/doedelig-fugleinfluenza-draeber-irske-kalkuner) (Www.bt.dk)
-
-- [Pieksämäellä löydetty vuoden kahdeksas tapaus lintu­influenssaa, tartuntojen huippumääriin vielä matkaa](https://yle.fi/a/74-20192233) (YLE News)
-
-- [Bird flu outbreak at Carlow turkey farm 'very worrying'](https://www.rte.ie/news/2025/1105/1542257-avian-influenza-turkey-carlow/) (RTE)
-
-- [Antibody drugs show promise for treating bird flu and HIV](https://www.nature.com/articles/d41586-025-03540-4) (Nature.com)
-
-- [Avlivd knipa hade fågelinfluensa](https://yle.fi/a/7-10087516) (YLE News)
-
-- [Ruokavirasto: Pieksämäellä lopetetussa telkässä oli lintuinfluenssa](https://yle.fi/a/74-20192192) (YLE News)
-
-- [Gripe aviária: vírus consegue sobreviver em queijos, diz estudo](https://olhardigital.com.br/2025/11/04/medicina-e-saude/gripe-aviaria-virus-consegue-sobreviver-em-queijos-diz-estudo/) (Olhardigital.com.br)
-
-- [Krankheiten: Vogelgrippe: Eichsfeld reagiert mit strengen Regeln](https://www.stern.de/gesellschaft/regional/thueringen/krankheiten--vogelgrippe--eichsfeld-reagiert-mit-strengen-regeln-36187340.html) (STERN.de)
-
-- [H5N1-Pandemie bei Menschen „unwahrscheinlich“](https://science.orf.at/stories/3232762/) (Science.orf.at)
-
-- [Statistiker zu H5N1 - Wie gefährlich ist die Vogelgrippe für Menschen?](https://www.bild.de/leben-wissen/medizin/statistiker-zu-h5n1-so-gefaehrlich-ist-die-vogelgrippe-fuer-menschen-690883bb73566d3912c08d03) (Bild)
-
-- [A l'approche des fêtes de fin d'année, un virus suscite l'inquiétude en Allemagne: un risque “élevé” d’épidémie](https://www.lalibre.be/international/2025/11/04/a-lapproche-des-fetes-de-fin-dannee-un-virus-suscite-linquietude-en-allemagne-un-risque-eleve-depidemie-UF6XXCT32JBPJJGTMSQA2V3BPM/) (Lalibre.be)
-
-- [Bird flu virus found surviving in certain cheeses](https://newatlas.com/infectious-diseases/bird-flu-virus-cheese/) (New Atlas)
-
-- [Bijna één miljoen vogels afgemaakt vanwege vogelgriep in Duitsland](https://www.nieuwsblad.be/buitenland/bijna-een-miljoen-vogels-afgemaakt-vanwege-vogelgriep-in-duitsland/102153010.html) (Nieuwsblad.be)
-
-- [Aragón detecta más de 500 aves afectadas por la gripe aviar, pero sin brotes en las granjas avícolas](https://www.eleconomista.es/retail-consumo/noticias/13625246/11/25/aragon-detecta-mas-de-500-aves-afectadas-por-la-gripe-aviar-pero-sin-brotes-en-las-granjas-avicolas.html) (Eleconomista.es)
-
-- [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.zeit.de/news/2025-11/02/gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt) (Die Zeit)
-
-- [Neuer H5N1-Fall: Geflügelpest in Putenbetrieb in Friesoythe bestätigt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/neuer-h5n1-fall--gefluegelpest-in-putenbetrieb-in-friesoythe-bestaetigt-36182706.html) (STERN.de)
-
-## 25-45 (dengue)
-
-- [Esse fungo perfumado finge ser flor para atrair (e matar) mosquitos](https://super.abril.com.br/ciencia/esse-fungo-perfumado-finge-ser-flor-para-atrair-e-matar-mosquitos/) (Abril.com.br)
-
-- [Novak Djokovic klopt Lorenzo Musetti in finale Athene; Elena Rybakina wint WTA Finals](https://www.telegraaf.nl/sport/tennis/novak-djokovic-klopt-lorenzo-musetti-in-finale-athene-en-pakt-101e-titel-elena-rybakina-wint-wta-finals/103629663.html) (Telegraaf.nl)
-
-- [São Paulo tem “Dia D” de mobilização contra a dengue neste sábado](https://www.metropoles.com/sao-paulo/sao-paulo-tem-dia-d-de-mobilizacao-contra-a-dengue-neste-sabado) (Metropoles.com)
-
-- [In jacht op titel 101 bereikt Novak Djokovic finale in Athene, Sabalenka en Rybakina naar eindstrijd WTA Finals](https://www.telegraaf.nl/sport/tennis/in-jacht-op-titel-101-bereikt-novak-djokovic-finale-in-athene-sabalenka-en-rybakina-naar-eindstrijd-wta-finals/103511516.html) (Telegraaf.nl)
-
-- [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
-
-- [Portugal preparado para emergências causadas por mosquitos](https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/) (Observador.pt)
-
-- [A paradigm shift in DENV-4 clinical presentation: A viewpoint on pulmonary inflammatory symptoms from the 2023 Lincang outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013679) (Plos.org)
-
-- [Vacina contra a dengue demonstra proteção após sete anos, aponta estudo](https://www.infomoney.com.br/saude/vacina-contra-a-dengue-demonstra-protecao-apos-sete-anos-aponta-estudo/) (InfoMoney)
-
-- [Mahhi Vij shares health update from hospital; says ‘I'm most saddened that I'm not able to go for the shoot’](https://timesofindia.indiatimes.com/tv/news/hindi/mahhi-vij-shares-health-update-from-hospital-says-im-most-saddened-that-im-not-able-to-go-for-the-shoot/articleshow/125155246.cms) (The Times of India)
-
-- [Bigg Boss 19 Promo: Pranit More returns to the show Mridul Tiwari, Ashnoor Kaur and others rejoice](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-promo-pranit-more-returns-to-the-show-mridul-tiwari-ashnoor-kaur-and-others-rejoice/articleshow/125148046.cms) (The Times of India)
-
-- [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
-
-- [Bigg Boss 19 update: Pranit More returns to the house? Special powers and new twist expected](https://economictimes.indiatimes.com/magazines/panache/bigg-boss-19-update-pranit-more-returns-to-the-house-special-powers-and-new-twist-expected/articleshow/125139092.cms) (The Times of India)
-
-- [Un caso di dengue a Sestri Levante, era stato all'estero](https://www.ansa.it/liguria/notizie/2025/11/06/un-caso-di-dengue-a-sestri-levante-era-stato-allestero_78f6ebde-ab34-491b-a221-db11e12c54c7.html) (ANSA.it)
-
-- [Niet ziek worden in India uitdaging voor Oranje-tennissters: ’Je hebt daar malaria, dengue, nog een andere mug’](https://www.telegraaf.nl/sport/tennis/niet-ziek-worden-in-india-uitdaging-voor-oranje-tennissters-je-hebt-daar-malaria-dengue-nog-een-andere-mug/103089842.html) (Telegraaf.nl)
-
-- [Française dient klacht in tegen kapster na mislukte knipbeurt: ’Verschrikking kostte mijn dochter 260 euro’](https://www.telegraaf.nl/buitenland/francaise-dient-klacht-in-tegen-kapster-na-mislukte-knipbeurt-verschrikking-kostte-mijn-dochter-260-euro/103088846.html) (Telegraaf.nl)
-
-- [Cambio climático aumentó la temperatura promedio en Costa Rica: estos son los principales hallazgos del Lancet Countdown](https://www.nacion.com/el-pais/cambio-climatico-aumento-la-temperatura-promedio/UH6DFUA3KBBWFKQ7V4LNC72QYA/story/) (Nacion.com)
-
-- [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
-
-- [Mosquito-borne illness detected in Yuma](https://kyma.com/dsw-living/health/2025/11/05/mosquito-borne-illness-detected-in-yuma/) (KYMA)
-
-- [Chikungunya, dengue, Nil occidental : en 2025, la France confrontée à une circulation virale sans précédent](https://theconversation.com/chikungunya-dengue-nil-occidental-en-2025-la-france-confrontee-a-une-circulation-virale-sans-precedent-265901) (The Conversation Africa)
-
-- [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
-
-- [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
-
-- [Dengue: vacina Qdenga mantém proteção por 7 anos, em novo estudo](https://www.metropoles.com/saude/vacina-dengue-protecao-7-anos) (Metropoles.com)
-
-- [Dengue: vacina do Butantan deve ser aprovada pela Anvisa até dezembro](https://www.metropoles.com/saude/vacina-dengue-butantan-ate-dezembro) (Metropoles.com)
-
-- [Santé. L'Europe investit 20 millions d'euros pour des nouveaux traitements contre la dengue](https://www.ledauphine.com/sante/2025/11/04/l-europe-investit-20-millions-d-euros-pour-des-nouveaux-traitements-contre-la-dengue) (Le Dauphiné Libéré)
-
-- [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
-
-- [Dengue : 20 millions d’euros investis par l’UE pour le développement de nouveaux médicaments](https://sante.ouest-france.fr/maladies/dengue/dengue-20-millions-deuros-investis-par-lue-pour-le-developpement-de-nouveaux-medicaments-71889428-b970-11f0-a456-5b350733c580) (Ouest-France)
-
-- [Dengue in Delhi: दिल्ली में डेंगू का कहर! दो लोगों की मौत! 1,136 मामले दर्ज, जानें- लक्षण और बचाव](https://hindi.moneycontrol.com/india/dengue-in-delhi-two-people-have-died-and-1136-cases-have-been-reported-symptoms-and-prevention-article-2255570.html) (Moneycontrol)
-
-- [Vacina do Butantan contra a dengue será aprovada este ano, diz ministro](https://olhardigital.com.br/2025/11/03/medicina-e-saude/vacina-do-butantan-contra-a-dengue-sera-aprovada-este-ano-diz-ministro/) (Olhardigital.com.br)
-
-- [Takeda’s dengue vaccine shows long-lasting protection](https://www.japantimes.co.jp/business/2025/11/04/companies/takeda-dengue-vaccine/) (The Japan Times)
-
-- [Socioeconomic markers of dengue mortality in the 100 Million Brazilian Cohort (2007–2018): A nationwide registry-based cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013660) (Plos.org)
-
-- [New Phase 3 Data Show Takeda’s Dengue Vaccine Delivers 7 Years of Sustained Protection Against Infection and Hospitalization](https://financialpost.com/pmn/business-wire-news-releases-pmn/new-phase-3-data-show-takedas-dengue-vaccine-delivers-7-years-of-sustained-protection-against-infection-and-hospitalization) (Financial Post)
-
-- [Se confirman 992 nuevos casos de dengue en una semana](https://www.excelsior.com.mx/nacional/se-confirman-992-nuevos-casos-de-dengue-en-una-semana/1749272) (Excelsior.com.mx)
-
-## 25-45 (chikungunya)
-
-- [Yucatán está creando un ejército de "mosquitos buenos" con una misión: luchar contra los que transmiten dengue, zika y chikungunya](https://www.xataka.com.mx/ecologia-y-naturaleza/yucatan-esta-creando-ejercito-mosquitos-buenos-mision-luchar-que-transmiten-dengue-zika-chikungunya) (Xataka.com.mx)
-
-- [Portugal preparado para emergências causadas por mosquitos](https://observador.pt/2025/11/07/portugal-preparado-para-emergencias-com-mosquitos-e-carracas-garante-instituto-nacion-que-passa-a-coordenar-oficialmente-rede-de-vigilancia/) (Observador.pt)
-
-- [Paludismo: qué es y cómo prevenir esta enfermedad que sigue presente en Costa Rica](https://www.nacion.com/revista-perfil/paludismo-que-es-y-como-prevenir-esta-enfermedad/5QPYQQETMVB7BBEKY45HBWY4DI/story/) (Nacion.com)
-
-- [Ursache, Diagnose, Impfung - Alles, was Sie zu Chikungunya wissen müssen](https://www.bild.de/leben-wissen/medizin/chikungunya-alles-was-sie-ueber-die-virusinfektion-wissen-muessen-690c5fddb035f3184cc83b22) (Bild)
-
-- [Quảng Châu lấy cớ phòng dịch để cưỡng chế lấy máu, người trẻ trở thành mục tiêu gây nghi ngờ](https://www.dkn.tv/doi-song/quang-chau-lay-co-phong-dich-de-cuong-che-lay-mau-nguoi-tre-tro-thanh-muc-tieu-gay-nghi-ngo.html) (Www.dkn.tv)
-
-- [Pesquisadores criam solução que elimina mosquito da dengue sem afetar outros animais](https://catracalivre.com.br/noticias/pesquisadores-criam-solucao-que-elimina-mosquito-da-dengue-sem-afetar-outros-animais/) (Catracalivre.com.br)
-
-- [Caso febbre Chikungunya a Grosseto, disinfestazione zanzare](https://www.ansa.it/toscana/notizie/2025/11/05/caso-febbre-chikungunya-a-grosseto-disinfestazione-zanzare_f325899d-96d2-4e69-9959-930790d1c8cc.html) (ANSA.it)
-
-- [Chikungunya, dengue, Nil occidental : en 2025, la France confrontée à une circulation virale sans précédent](https://theconversation.com/chikungunya-dengue-nil-occidental-en-2025-la-france-confrontee-a-une-circulation-virale-sans-precedent-265901) (The Conversation Africa)
-
-- [Characterizing urban landscapes using very-high resolution satellite imagery to predict Ae. albopictus larval presence probability in public spaces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335794) (Plos.org)
-
-- [Campanha nacional de combate às arboviroses é lançada pelo Ministério da Saúde](https://www.infomoney.com.br/saude/campanha-nacional-de-combate-as-arboviroses-e-lancada-pelo-ministerio-da-saude/) (InfoMoney)
-
-- [La mejor vacuna contra el dengue en Ciudad Obregón es la descacharrización, dicen autoridades](https://www.tribuna.com.mx/sonora/2025/11/4/la-mejor-vacuna-contra-el-dengue-en-ciudad-obregon-es-la-descacharrizacion-dicen-autoridades-418491.html) (Tribuna.com.mx)
