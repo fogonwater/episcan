@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 4
-- **Last harvest:** 2025-12-22 07:10
-- **Most recent article:** 2025-12-21 04:00:00
+- **Last harvest:** 2025-12-22 19:06
+- **Most recent article:** 2025-12-21 18:15:39
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 1 | 202 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 3 | 204 |
 | dengue | 22 | 13 | 35 | 19 | 34 | 26 | 0 | 149 |
 | h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 0 | 119 |
-| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 0 | 111 |
+| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 0 | 110 |
 | rabies | 4 | 4 | 8 | 7 | 21 | 11 | 1 | 56 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 0 | 55 |
-| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 0 | 38 |
+| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 1 | 39 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 1 | 24 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 0 | 19 |
+| yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 0 | 18 |
-| yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 0 | 17 |
-| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 0 | 16 |
+| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 0 | 15 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 0 | 14 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-52 (yersinia)
+
+- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
 
@@ -42,7 +46,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (measles)
 
+- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
+
+- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
+
 - [Measles case confirmed in Park County](http://oilcity.news/community/health/2025/12/20/measles-case-confirmed-in-park-county/) (Oil City News)
+
+## 25-52 (chikungunya)
+
+- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)
 
 ## 25-51 (zika)
 
@@ -1754,8 +1766,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
-- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
-
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1771,8 +1781,6 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
