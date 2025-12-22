@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-12-21 19:05
-- **Most recent article:** 2025-12-20 18:01:57
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-12-22 07:10
+- **Most recent article:** 2025-12-21 04:00:00
 
 ---
 
@@ -10,27 +10,39 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 37 | 200 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 149 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 119 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 110 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 55 |
-| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 55 |
-| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 38 |
-| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 23 |
-| zika | 2 | 1 | 2 | 6 | 6 | 2 | 19 |
-| pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 18 |
-| yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 17 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 15 |
-| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 14 |
-| typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 9 |
+| Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 1 | 202 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 0 | 149 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 0 | 119 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 0 | 111 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 1 | 56 |
+| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 0 | 55 |
+| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 0 | 38 |
+| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 1 | 24 |
+| zika | 2 | 1 | 2 | 6 | 6 | 2 | 0 | 19 |
+| pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 0 | 18 |
+| yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 0 | 17 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 0 | 16 |
+| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 0 | 14 |
+| typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-52 (rabies)
+
+- [Can a rabid bat still fly?](https://www.lifesciencesworld.com/can-a-rabid-bat-still-fly/) (Lifesciencesworld.com)
+
+## 25-52 (meningitis)
+
+- [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
+
+## 25-52 (measles)
+
+- [Measles case confirmed in Park County](http://oilcity.news/community/health/2025/12/20/measles-case-confirmed-in-park-county/) (Oil City News)
 
 ## 25-51 (zika)
 
@@ -105,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 - [Case of bacterial meningitis in a 17-year-old student in Chania after a school trip to the Czech Republic](https://en.protothema.gr/2025/12/19/case-of-bacterial-meningitis-in-a-17-year-old-student-in-chania-after-a-school-trip-to-the-czech-republic/) (Protothema.gr)
 
 ## 25-51 (measles)
+
+- [Outbreaks expose gaps in US vaccination coverage](https://www.salon.com/2025/12/20/outbreaks-expose-gaps-in-us-vaccination-coverage/) (Salon)
 
 - [20 new measles cases found in Rockland County, New York, as health leaders urge getting vaccinated](https://www.cbsnews.com/newyork/news/measles-cases-rockland-county-ny-health-warning/) (CBS News)
 
@@ -1740,6 +1754,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1755,6 +1771,8 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 

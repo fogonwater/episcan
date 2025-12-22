@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-12-21 19:05",
-  "count_articles_total": 808,
-  "count_articles_new": 7,
+  "last_updated": "2025-12-22 07:10",
+  "count_articles_total": 814,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 26406,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "MARTA REY",
+      "title": "Ana perdi\u00f3 la memoria tras despertarse del coma: \u00abTuve que volver a enamorarme de mi marido y reaprender a ser madre\u00bb",
+      "description": "Ana sufri\u00f3 una meningitis herp\u00e9tica. Cuando despert\u00f3 del coma, esta madrile\u00f1a no reconoc\u00eda a nadie ni sab\u00eda que ten\u00eda una hija. \u00abCon 40 a\u00f1os tuvieron que ense\u00f1arme a hacer todo desde cero\u00bb, confiesa",
+      "url": "https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm",
+      "urlToImage": "https://img.lavdg.com/sc/GbhoqzLysX2bvDVH3NxCNkN5luM=/1280x/2025/12/17/00121765968541596462747/Foto/j_20251215_161800000.jpg",
+      "publishedAt": "2025-12-21 04:00:00",
+      "content": "Imagina que te despiertas ma\u00f1ana y nada de lo que hay a tu alrededor te suena. Como si te hubieses despertado en el cuerpo de otra persona que no eres t\u00fa. Y, adem\u00e1s, te dicen que est\u00e1s casada y que t\u2026 [+8055 chars]",
+      "retrievedAt": "2025-12-22 07:10:44.703940",
+      "internal_id": "91694e7e60491774b3f1d4bd90aa11bca92de560f327ea0d82dff2d07cf822fa",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26403,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can a rabid bat still fly?",
+      "description": "Can a Rabid Bat Still Fly? Exploring the Effects of Rabies on Bat Flight Can a rabid bat still fly? The unfortunate truth is that while early stages of rabies might allow a bat to maintain some flight ability, the disease ultimately causes neurological damage\u2026",
+      "url": "https://www.lifesciencesworld.com/can-a-rabid-bat-still-fly/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-21 01:02:35",
+      "content": "Can a rabid bat still fly? The unfortunate truth is that while early stages of rabies might allow a bat to maintain some flight ability, the disease ultimately causes neurological damage that impairs\u2026 [+8882 chars]",
+      "retrievedAt": "2025-12-22 07:10:43.093679",
+      "internal_id": "19f2aba3245a8e6415d0ad99df856d1b1f4e2f19ff66d1193011892a8dbc06a6",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26405,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Oil City News",
+      "author": "Nick Perkins",
+      "title": "Measles case confirmed in Park County",
+      "description": "CASPER, Wyo. \u2014 The Wyoming Department of Health recently confirmed a case of measles in a Park County resident. A news release from the WDH states that",
+      "url": "http://oilcity.news/community/health/2025/12/20/measles-case-confirmed-in-park-county/",
+      "urlToImage": "https://oilcity.news/wp-content/uploads/2025/07/Measles.jpg",
+      "publishedAt": "2025-12-21 00:44:08",
+      "content": "CASPER, Wyo. The Wyoming Department of Health recently confirmed a case of measles in a Park County resident. A news release from the WDH states that the adult is fully vaccinated, but had extensiv\u2026 [+1624 chars]",
+      "retrievedAt": "2025-12-22 07:10:43.608045",
+      "internal_id": "a1e035ef111e2586437cff82d02259b9ca7a2fc780c77e4a3f79333188c75e12",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26404,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "CK Smith",
+      "title": "Outbreaks expose gaps in US vaccination coverage",
+      "description": "Public health experts warn that anti-vax advocacy contributes to preventable measles outbreaks in US communities",
+      "url": "https://www.salon.com/2025/12/20/outbreaks-expose-gaps-in-us-vaccination-coverage/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/12/GettyImages-2209442815.jpg",
+      "publishedAt": "2025-12-20 19:15:48",
+      "content": "Health officials are warning of a spike in measles cases across parts of the United States as anti-vaccine rhetoric gains traction, fueled in part by high-profile figures like Robert F. Kennedy Jr. \u2026 [+2322 chars]",
+      "retrievedAt": "2025-12-22 07:10:43.483496",
+      "internal_id": "2dbc3cd91a1f383535ffe409f1ebdb0438a3511d9822fae793dc0924e4a17ba2",
+      "publishedAtLabel": "Dec 20"
+    },
     {
       "id": 26400,
       "query": [
@@ -14578,6 +14650,42 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25594,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Reason",
+      "author": "Nick Gillespie",
+      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
+      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
+      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
+      "publishedAt": "2025-11-09 11:00:17",
+      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
+      "retrievedAt": "2025-11-10 19:06:08.819354",
+      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25593,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
+      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
+      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
+      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
+      "publishedAt": "2025-11-09 09:05:03",
+      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
+      "retrievedAt": "2025-11-10 19:06:07.685757",
+      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]
