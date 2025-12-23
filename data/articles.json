@@ -1,8 +1,283 @@
 {
-  "last_updated": "2025-12-23 07:10",
-  "count_articles_total": 823,
-  "count_articles_new": 5,
+  "last_updated": "2025-12-23 19:07",
+  "count_articles_total": 836,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 26419,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Urooba Jamal",
+      "title": "Sudan\u2019s Darfur grapples with severe measles outbreak amid ongoing violence",
+      "description": "MSF official tells Al Jazeera South Darfur hospital 'overwhelmed' by rapid increase in measles cases.",
+      "url": "https://www.aljazeera.com/news/2025/12/22/sudans-darfur-grapples-with-severe-measles-outbreak-amid-ongoing-violence",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/reuters_6949669e-1766418078.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-12-22 17:38:17",
+      "content": "Displaced Sudanese families in the war-torn Darfur region are grappling with a dangerous measles outbreak that is spreading rapidly, a Doctors Without Borders (MSF) official warns. Dr Ali Almohammed\u2026 [+3642 chars]",
+      "retrievedAt": "2025-12-23 19:07:16.644955",
+      "internal_id": "a40f4c56a0c670596153af20ba21d4069157a39de67ce38c716b26b04e79b682",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26420,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Medicines and Healthcare products Regulatory Agency",
+      "title": "Guidance: MMRV Vaccine Factsheet \u2013 Information for Parents and Caregivers",
+      "description": "The MMRV vaccine will become part of the routine childhood immunisation schedule in the UK from 1 January 2026.",
+      "url": "https://www.gov.uk/government/publications/mmrv-vaccine-factsheet-information-for-parents-and-caregivers",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-12-22 17:33:01",
+      "content": "The MMRV vaccine is an important vaccine that provides your child with protection against four potentially serious diseases: measles, mumps, rubella, and varicella (chickenpox). The MMRV vaccine will\u2026 [+862 chars]",
+      "retrievedAt": "2025-12-23 19:07:16.730896",
+      "internal_id": "b510665bf8607b0929b7c0cdb8065630a53b98d17389ad76e8579711cccdf0c3",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26422,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Garattoni",
+      "title": "Mosquito da dengue tem rel\u00f3gio biol\u00f3gico",
+      "description": "Inseto se orienta pelo CO2 \u2013 mas isso varia ao longo do dia, mostra estudo.",
+      "url": "https://super.abril.com.br/ciencia/mosquito-da-dengue-tem-relogio-biologico/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2025/12/SI_482_Novas_mosquito_dengue.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-12-22 17:00:09",
+      "content": "Oferta Rel\u00e2mpago: Super por apenas 5,99 (Getty Images/Montagem sobre reprodu\u00e7\u00e3o) Continua ap\u00f3s publicidade O Aedes aegypti detecta o CO2 expirado pelos seres humanos para ir at\u00e9 eles e pic\u00e1-los. As\u2026 [+1024 chars]",
+      "retrievedAt": "2025-12-23 19:07:17.276758",
+      "internal_id": "466e395d8d1c29a767263b4a1dd66df7883042bed65b007a3c6612e88fe13973",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26418,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "JoBlo.com",
+      "author": "Cody Hamman",
+      "title": "Primate: Troy Kotsur featurette and audience reaction promo build the hype for horror film about a rabies-crazed chimp",
+      "description": "The rabid-crazed chimp horror movie Primate unveils a featurette focused on actor Troy Kotsur, plus an audience reaction promo The post Primate: Troy Kotsur featurette and audience reaction promo build the hype for horror film about a rabies-crazed chimp appe\u2026",
+      "url": "https://www.joblo.com/primate-promos/",
+      "urlToImage": "https://www.joblo.com/wp-content/uploads/2025/09/primate-review.jpg",
+      "publishedAt": "2025-12-22 14:34:13",
+      "content": "The \u201crabid chimp\u201d horror film Primate is set to reach theatres on January 9, 2026 and with that date getting shockingly close, Paramount Pictures is building the hype with a featurette that focuse\u2026 [+2772 chars]",
+      "retrievedAt": "2025-12-23 19:07:16.495784",
+      "internal_id": "70fcb84737919d34a2fa24dc326750c8a1e64586d354a6815ab7437a136e44f1",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26423,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shaolin Han, Elliott F. Miot, Yunshi Liao, Munsif Ali Khan, Mathilde Rivot, Lilia Tsz-Wing Tang, Jehan Zeb, Ka Mei Szeto, Long Ching, Tsz Him Li, Xintong Huang, Brinna E. L. Barlow, Sebastien Marcombe, Tommy Tsan-Yuk Lam",
+      "title": "Insecticide resistance levels, spatial distribution, and kdr mutations in the dengue vector Aedes albopictus of Hong Kong",
+      "description": "Author summary Aedes albopictus is a major vector for dengue in Hong Kong, and rising insecticide resistance threatens the effectiveness of current control measures. This study evaluated resistance in five mosquito populations across the territory, revealing \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013792",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013792.g003&size=inline",
+      "publishedAt": "2025-12-22 14:00:00",
+      "content": "Abstract Aedes albopictus (Skuse), a primary dengue vector in Hong Kong, poses significant challenges to public health due to escalating insecticide resistance in Asia. To address this concern, we e\u2026 [+61336 chars]",
+      "retrievedAt": "2025-12-23 19:07:17.286396",
+      "internal_id": "bd3e80db5aef6d8199cd7cdefdff867cc4f8c6d8dfafed0bad795a6f5ea5a267",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26424,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Efat Mohamadi, Jawad Jafarzadeh, Fatemeh Mohamadi, Hakimeh Mostafavi, Ahad Bakhtiari, Ghobad Moradi, Maryam Sargolzaei Moghaddam, Mohammadreza Mobinizadeh, Fateme Yaftian, Amin Ghanbarnejad, Mehrnaz Mozafari, Enayatollah Homaie Rad, Ehsan Sheykh Noori, Marziyeh Najafi, Amirhossein Takian, Alireza Olyaeemanesh",
+      "title": "Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions",
+      "description": "Author summary Aedes mosquitoes, which can spread dengue and other viral infections, are now appearing in several provinces of Iran. We wanted to understand how social and economic conditions, local environments, and the health system together shape the risk \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013850.g003&size=inline",
+      "publishedAt": "2025-12-22 14:00:00",
+      "content": "Introduction Aedes-borne diseases, i.e., dengue, chikungunya, and Zika have emerged as growing public health threats, particularly in tropical and subtropical regions [1]. Their rapid spread is driv\u2026 [+35292 chars]",
+      "retrievedAt": "2025-12-23 19:07:17.295945",
+      "internal_id": "8ff951ec3363ca09f01c817fbf8d63199397d6b1ac8600b7289bb8dd2b0bdc37",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26425,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Thipruethai Phanichat, Vincent Corbel, Benedicte Fustec, Chamsai Pientong, Kesorn Thaewnongiew, Neal Alexander, Hans J. Overgaard",
+      "title": "Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand",
+      "description": "Author summary We examined the effectiveness of pyriproxyfen, a chemical used to control immature mosquitoes by preventing their development, particularly focusing on the Aedes aegypti mosquito, which spreads diseases like dengue. The research was conducted i\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013042.g004&size=inline",
+      "publishedAt": "2025-12-22 14:00:00",
+      "content": "Abstract Background/objectives Mosquito-borne diseases like malaria, dengue fever, and Zika virus remain global health concerns. Pyriproxyfen is effective in controlling mosquitoes by disrupting th\u2026 [+50867 chars]",
+      "retrievedAt": "2025-12-23 19:07:17.305142",
+      "internal_id": "9f23584dfba76b23dc265b74041b0ccf988626f03c78e4b5e53ab3446ed2855d",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26427,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abhishek Kanyal, Geert-Jan van Gemert, Haoyu Wu, Alex van der Starre, Johannes H.W. de Wilt, Teun Bousema, Robert W. Sauerwein, Rich\u00e1rd B\u00e1rtfai, Annie S. P. Yang",
+      "title": "Inhibition of Wnt signaling in primary human hepatocytes promotes Plasmodium falciparum liver stage development",
+      "description": "Authors\u2019 summary Despite substantial elimination and control measures, malaria still causes mortality and global disease burden. Liver stage development of the malaria parasite is a critical first step preceding clinical symptoms and is a potent target of ant\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013800",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013800.strk&size=inline",
+      "publishedAt": "2025-12-22 14:00:00",
+      "content": "Citation: Kanyal A, van Gemert G-J, Wu H, van der Starre A, de Wilt JH, Bousema T, et al. (2025) Inhibition of Wnt signaling in primary human hepatocytes promotes Plasmodium falciparum liver stage de\u2026 [+53947 chars]",
+      "retrievedAt": "2025-12-23 19:07:18.056923",
+      "internal_id": "76e9e3851dec0ea3dfeb957e921454b291031de4e732bdc7b7f29ad623d4fdaa",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26421,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "New Bird Flu Strains Appear to Target Dairy Cattle More Effectively",
+      "description": "Meanwhile, hundreds of snow geese have been found dead in Pennsylvania from suspected bird flu. The post New Bird Flu Strains Appear to Target Dairy Cattle More Effectively first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/08/Cow-Dairy-Farm.jpg",
+      "publishedAt": "2025-12-22 13:00:53",
+      "content": "There are some interesting developments related to the bird flu, also known as H5N1 or Highly Pathogenic Avian Influenza (HPAI). Legal Insurrection readers will recall my reports, which indicate tha\u2026 [+3940 chars]",
+      "retrievedAt": "2025-12-23 19:07:16.864638",
+      "internal_id": "4726eb96996cb074020057472f79f61e4564a86dd5a7b5f0d52a563b48c0852a",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26416,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Pertussis: laboratory confirmed cases reported in England 2024",
+      "description": "Laboratory confirmed cases of pertussis reported to the enhanced pertussis surveillance programme in England.",
+      "url": "https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2024",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2025-12-22 12:56:42",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-12-23 19:07:16.269147",
+      "internal_id": "de3751d6ad67c06b954d366e278c2306890737f5d9ed7c46225af781031cc52f",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "\u00c0 La R\u00e9union, J\u00e9r\u00f4me Talpin.",
+      "title": "Chikungunya \u00e0 La R\u00e9union : pourquoi le risque de nouvelle \u00e9pid\u00e9mie est faible",
+      "description": "Selon une \u00e9tude de Sant\u00e9 Publique France, La R\u00e9union ne conna\u00eetra tr\u00e8s vraisemblablement pas une nouvelle \u00e9pid\u00e9mie d\u2019ampleur de chikungunya pendant l\u2019\u00e9t\u00e9 austral qui vient de d\u00e9buter et qui se prolonge jusqu\u2019en avril 2026. La principale raison : le nombre \u00e9le\u2026",
+      "url": "https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNTEyZDg5NzJmMTE2ZWE4OGNkMmE5ZmYzNDNiNDBkMmIxNDU?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0f87989149400e6ae58284e7664a1f6b03643ac21292c5eebd7c18df7f39b17a",
+      "publishedAt": "2025-12-22 11:20:51",
+      "content": "Cest un motif de soulagement. Mais \u00e0 un prix \u00e9lev\u00e9. Selon une \u00e9tude de Sant\u00e9 Publique France, La R\u00e9union ne conna\u00eetra tr\u00e8s vraisemblablement pas une nouvelle \u00e9pid\u00e9mie dampleur de chikungunya pendant \u2026 [+4449 chars]",
+      "retrievedAt": "2025-12-23 19:07:18.703188",
+      "internal_id": "aa51153665fdcf0f8a062a9c37b7fc5cbbe932b146332305f22800e01e12b308",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Wwwhatsnew.com",
+      "author": "Natalia Polo",
+      "title": "La inteligencia artificial abre una nueva puerta en la lucha contra la viruela del mono",
+      "description": "Un equipo internacional de cient\u00edficos ha logrado un avance significativo en el desarrollo de una vacuna m\u00e1s sencilla y efectiva contra la viruela del mono (mpox), gracias al uso de inteligencia artificial. A diferencia de los m\u00e9todos tradicionales, que emple\u2026",
+      "url": "https://wwwhatsnew.com/2025/12/22/la-inteligencia-artificial-abre-una-nueva-puerta-en-la-lucha-contra-la-viruela-del-mono/",
+      "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2025/12/noticia1_mono.jpg",
+      "publishedAt": "2025-12-22 11:00:15",
+      "content": "Un equipo internacional de cient\u00edficos ha logrado un avance significativo en el desarrollo de una vacuna m\u00e1s sencilla y efectiva contra la viruela del mono (mpox), gracias al uso de inteligencia arti\u2026 [+4712 chars]",
+      "retrievedAt": "2025-12-23 19:07:18.828046",
+      "internal_id": "684aa3305c368e66fbeea5a9f753ad66d1ba39c31d001e482085c83b37117cc9",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26426,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Okdiario.com",
+      "author": "christianperez",
+      "title": "Ni cruces, ni magia: arque\u00f3logos investigan por qu\u00e9 los nubios tatuaban la cara a sus hijos hace 1.400 a\u00f1os",
+      "description": "Un estudio revela que en el antiguo Sud\u00e1n cristiano se tatuaba la cara de los ni\u00f1os como posible rito de fe o medicina contra la malaria.",
+      "url": "https://muyinteresante.okdiario.com/historia/hallazgo-nubios-tatuajes-infantiles-cristianismo-sudan.html",
+      "urlToImage": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2025/12/hallazgo-tatuajes-ninos-nubios-og.jpg",
+      "publishedAt": "2025-12-22 09:15:17",
+      "content": "Publicado por Christian P\u00e9rez Redactor especializado en divulgaci\u00f3n cient\u00edfica e hist\u00f3rica Creado: 22.12.2025 | 10:15 Actualizado: 22.12.2025 | 10:15 Aunque el tatuaje ha ganado popularidad en\u2026 [+6681 chars]",
+      "retrievedAt": "2025-12-23 19:07:18.020382",
+      "internal_id": "5d6b07a1fb697bdc31eb3a757f1a353b7632724454c0f8c79bae3c2e44903290",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "New infant malaria drug, vaccines light path to hope",
+      "description": "Data from the Ministry of Health shows children under five years and pregnant women are the most affected by malaria.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001537070/new-infant-malaria-drug-vaccines-light-path-to-hope",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/LpsYRw3WeyKSY5QAmQLrd7fXXoRNEM1in3SD6tRs.jpg",
+      "publishedAt": "2025-12-22 09:01:47",
+      "content": "The death of seven children from malaria was a tragedy that shook Samson Okoth\u2019s world. The children, aged between one and five years, died from the mosquito-borne disease between 2018 and 2022. Ok\u2026 [+7978 chars]",
+      "retrievedAt": "2025-12-23 19:07:18.067058",
+      "internal_id": "c4ada6ecc25c2586135bbbcd97bd9e03d7dc11540699698862e5486c9fde7dc6",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26417,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Should I get a rabies shot if bitten by a squirrel?",
+      "description": "Should I Get a Rabies Shot if Bitten by a Squirrel? No, generally, you do not need a rabies shot if bitten by a squirrel. Rabies in squirrels is extremely rare, and post-exposure prophylaxis (PEP) is typically not recommended for squirrel bites. The question \u2026",
+      "url": "https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-bitten-by-a-squirrel/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-22 07:49:45",
+      "content": "Should I Get a Rabies Shot if Bitten by a Squirrel? No, generally, you do not need a rabies shot if bitten by a squirrel.Rabies in squirrels is extremely rare, and post-exposure prophylaxis (PEP) is\u2026 [+11037 chars]",
+      "retrievedAt": "2025-12-23 19:07:16.435568",
+      "internal_id": "e238dc430562ae97331cf65a082d63f315c540c731a9153185d7ffdb45037bf4",
+      "publishedAtLabel": "Dec 22"
+    },
     {
       "id": 26413,
       "query": [
@@ -14812,42 +15087,6 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reason",
-      "author": "Nick Gillespie",
-      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
-      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
-      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
-      "publishedAt": "2025-11-09 11:00:17",
-      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
-      "retrievedAt": "2025-11-10 19:06:08.819354",
-      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25593,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
-      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
-      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
-      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
-      "publishedAt": "2025-11-09 09:05:03",
-      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
-      "retrievedAt": "2025-11-10 19:06:07.685757",
-      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]
