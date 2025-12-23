@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-12-22 19:06",
-  "count_articles_total": 816,
-  "count_articles_new": 4,
+  "last_updated": "2025-12-23 07:10",
+  "count_articles_total": 823,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 26413,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Brianna Morris-Grant",
+      "title": "Measles cases triple in Australia as global outbreaks continue",
+      "description": "The number of measles cases nationwide is now approaching triple the number of cases reported in 2024 as outbreaks continue around the world.",
+      "url": "https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ab7c00e3761e3d3c3ac990e6b9a7acd1?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=93&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-12-22 03:05:50",
+      "content": "The number of measles cases nationwide is now approaching triple the number of cases reported in 2024 as outbreaks continue around the world. There have now been 168 cases of measles across Australi\u2026 [+8299 chars]",
+      "retrievedAt": "2025-12-23 07:10:38.644821",
+      "internal_id": "24027cdda6f1a01c5340e4896ef59a432aeb6ea63d2f4dcf22b6a56fae3a41ca",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Caroline Desorbay",
+      "title": "Mpox, VIH, Covid, rougeole\u2026 Ce premier quart de si\u00e8cle a \u00e9t\u00e9 marqu\u00e9 par plusieurs pand\u00e9mies",
+      "description": "2019-2022 Le Covid-19 tue plus de 34 000 Belges ...",
+      "url": "https://www.lavenir.net/actu/2025/12/22/mpox-vih-covid-rougeole-ce-premier-quart-de-siecle-a-ete-marque-par-plusieurs-pandemies-K6ND4UROOVAVVH6FSG4S4CI3MA/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/6RJYZ67KIRFO5C5R6OZRDFAQBM.jpg?auth=6fb1f59d53dee01bc67b91e4a369619e90ef138fe023dfa4178ce5793d7997af&width=1200&height=630&quality=85&focal=550%2C366",
+      "publishedAt": "2025-12-22 03:00:00",
+      "content": "Pour pallier la saturation des services hospitaliers et limiter le nombre des contaminations, les \u00e9tats mettent en place des mesures drastiques: port du masque obligatoire, quarantaine pour les perso\u2026 [+5173 chars]",
+      "retrievedAt": "2025-12-23 07:10:40.800533",
+      "internal_id": "3d6f4aac48b28f0a56ce03a25ede671d327b03ea2af11e4f1c851d60b23353f4",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26411,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How long can a fox have rabies before it dies?",
+      "description": "How Long Can a Fox Have Rabies Before It Dies? Understanding the Progression A fox infected with rabies typically lives for approximately 2 to 7 days after the onset of clinical symptoms, although the incubation period, where the virus is present but asymptom\u2026",
+      "url": "https://www.lifesciencesworld.com/how-long-can-a-fox-have-rabies-before-it-dies/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-22 01:39:33",
+      "content": "How Long Can a Fox Have Rabies Before It Dies? Understanding the Progression A fox infected with rabies typically lives for approximately 2 to 7 days after the onset of clinical symptoms, although t\u2026 [+9238 chars]",
+      "retrievedAt": "2025-12-23 07:10:38.242392",
+      "internal_id": "65a32f9924875b612ccfdb578f99da86b017226a8ddcd640932c96ecfbd79193",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26412,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Yaojun Lu, Hanhan Xie, Ketong Wu, Minyi Huang, Yuru Liu, Xingxing Li, Xiaofeng Guo, Jiahui Liu, Jundong Shao, Yongwen Luo, Lin Wang",
+      "title": "Portable Bilayer Microneedle Patch for Rapid and Patient-Friendly Administration of Rabies Immunoglobulin and Enhanced Wound Healing",
+      "description": "J. Mater. Chem. B, 2026, Accepted ManuscriptDOI: 10.1039/D5TB01351H, PaperYaojun Lu, Hanhan Xie, Ketong Wu, Minyi Huang, Yuru Liu, Xingxing Li, Xiaofeng Guo, Jiahui Liu, Jundong Shao, Yongwen Luo, Lin WangRising global dog ownership increases the risk of rabi\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/tb/d5tb01351h",
+      "urlToImage": null,
+      "publishedAt": "2025-12-22 00:00:00",
+      "content": "Y. Lu, H. Xie, K. Wu, M. Huang, Y. Liu, X. Li, X. Guo, J. Liu, J. Shao, Y. Luo and L. Wang, J. Mater. Chem. B, 2026, Accepted Manuscript , DOI: 10.1039/D5TB01351H To request permission to reprodu\u2026 [+658 chars]",
+      "retrievedAt": "2025-12-23 07:10:38.267803",
+      "internal_id": "a8d148f84c9e9f7b37171771cc14277799c436ced7bcccc65c6fdfeddc7c9383",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26414,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "V\u00e1clav Vop\u00e1lensk\u00fd, Michal S\u00fdkora, Zora M\u011blkov\u00e1, Ivan Barv\u00edk, Kamila Hor\u00e1\u010dkov\u00e1, Tom\u00e1\u0161 Ma\u0161ek, Martin Posp\u00ed\u0161ek",
+      "title": "Vaccinia virus mRNAs containing long 5\u2032-poly(A)-leaders lack a canonical 5\u2032-methylguanosine cap",
+      "description": "The vaccinia virus produces mRNA lacking the 5\u2032 m7G cap structure. These uncapped mRNAs have long poly(A) leaders and dominate late in infection, suggesting a novel viral strategy for host takeover.",
+      "url": "https://www.nature.com/articles/s41467-025-67916-w",
+      "urlToImage": null,
+      "publishedAt": "2025-12-22 00:00:00",
+      "content": "McFadden, G. Poxvirus tropism. Nat. Rev. Microbiol.3, 201213 (2005). Google Scholar WHO. Global Mpox Trends, https://worldhealthorg.shinyapps.io/mpx_global/#8_Disclaimers (2025). </l\u2026 [+10564 chars]",
+      "retrievedAt": "2025-12-23 07:10:40.791010",
+      "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
+      "publishedAtLabel": "Dec 22"
+    },
     {
       "id": 26407,
       "query": [
@@ -14722,6 +14812,42 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25594,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Reason",
+      "author": "Nick Gillespie",
+      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
+      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
+      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
+      "publishedAt": "2025-11-09 11:00:17",
+      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
+      "retrievedAt": "2025-11-10 19:06:08.819354",
+      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25593,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
+      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
+      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
+      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
+      "publishedAt": "2025-11-09 09:05:03",
+      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
+      "retrievedAt": "2025-11-10 19:06:07.685757",
+      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]

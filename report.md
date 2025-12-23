@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-12-22 19:06
-- **Most recent article:** 2025-12-21 18:15:39
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-12-23 07:10
+- **Most recent article:** 2025-12-22 03:05:50
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 3 | 204 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 4 | 205 |
 | dengue | 22 | 13 | 35 | 19 | 34 | 26 | 0 | 149 |
 | h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 0 | 119 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 0 | 110 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 1 | 56 |
-| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 0 | 55 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 0 | 111 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 3 | 58 |
+| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 2 | 57 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 1 | 39 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 1 | 24 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 0 | 19 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 0 | 18 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 0 | 15 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 0 | 16 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 0 | 14 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -38,13 +38,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (rabies)
 
+- [How long can a fox have rabies before it dies?](https://www.lifesciencesworld.com/how-long-can-a-fox-have-rabies-before-it-dies/) (Lifesciencesworld.com)
+
+- [Portable Bilayer Microneedle Patch for Rapid and Patient-Friendly Administration of Rabies Immunoglobulin and Enhanced Wound Healing](https://pubs.rsc.org/en/content/articlelanding/2026/tb/d5tb01351h) (Royal Society of Chemistry)
+
 - [Can a rabid bat still fly?](https://www.lifesciencesworld.com/can-a-rabid-bat-still-fly/) (Lifesciencesworld.com)
+
+## 25-52 (mpox)
+
+- [Mpox, VIH, Covid, rougeole… Ce premier quart de siècle a été marqué par plusieurs pandémies](https://www.lavenir.net/actu/2025/12/22/mpox-vih-covid-rougeole-ce-premier-quart-de-siecle-a-ete-marque-par-plusieurs-pandemies-K6ND4UROOVAVVH6FSG4S4CI3MA/) (Lavenir.net)
+
+- [Vaccinia virus mRNAs containing long 5′-poly(A)-leaders lack a canonical 5′-methylguanosine cap](https://www.nature.com/articles/s41467-025-67916-w) (Nature.com)
 
 ## 25-52 (meningitis)
 
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
 - [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
 
@@ -1766,6 +1778,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1781,6 +1795,8 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
