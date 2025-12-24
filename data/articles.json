@@ -1,8 +1,262 @@
 {
-  "last_updated": "2025-12-23 19:07",
-  "count_articles_total": 836,
-  "count_articles_new": 15,
+  "last_updated": "2025-12-24 07:10",
+  "count_articles_total": 852,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 26431,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 1 - Rabies in Morocco",
+      "description": "A case of rabies has been reported in a traveler from Morocco. Travelers potentially exposed to rabies in Morocco should immediately seek medical care. Upon returning home, travelers should follow up with their health care provider as soon as possible.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/rabies-morocco",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-12-23 05:00:00",
+      "content": "Rabies is a viral disease that affects the central nervous system (brain and spinal cord) in mammals. It is mainly spread through bites and scratches from infected animals such as dogs, cats, bats, f\u2026 [+562 chars]",
+      "retrievedAt": "2025-12-24 07:10:26.783233",
+      "internal_id": "00145985645304acae051ff15c9322fa31236fd23b947b6a67d89eeda6faded7",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26432,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Bat Reovirus as Cause of Acute Respiratory Disease and Encephalitis in Humans, Bangladesh, 2022\u20132023",
+      "description": "Bat Reovirus in Humans, Bangladesh",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/12/25-0797_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-12-23 05:00:00",
+      "content": "Bats are the natural reservoir of numerous known and novel zoonotic viruses, including rabies, Nipah, Hendra, Marburg, and severe acute respiratory syndrome viruses (1). In Bangladesh, Nipah virus (N\u2026 [+9720 chars]",
+      "retrievedAt": "2025-12-24 07:10:26.803650",
+      "internal_id": "70a9a241702a2e40f6dc88db62da69c3b01ada97ba1f091b064c5a43a0448852",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26437,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024",
+      "description": "HPAI A(H5N1) Virus Infection in Poultry Workers",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-12-23 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.The global spread of A/goo\u2026 [+9700 chars]",
+      "retrievedAt": "2025-12-24 07:10:27.679392",
+      "internal_id": "e776897b8b937210d616dc5a9389009a125cb5220ccc72c93fdaa3a5afbea8b3",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26444,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What diseases can my dog get from a possum?",
+      "description": "What Diseases Can My Dog Get From a Possum? The interaction between your beloved canine and a wild possum might seem harmless, but it poses several health risks. Your dog can contract various diseases from possums, including leptospirosis, parasites like flea\u2026",
+      "url": "https://www.lifesciencesworld.com/what-diseases-can-my-dog-get-from-a-possum/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-23 04:36:59",
+      "content": "The interaction between your beloved canine and a wild possum might seem harmless, but it poses several health risks. Your dog can contract various diseases from possums, including leptospirosis, par\u2026 [+10030 chars]",
+      "retrievedAt": "2025-12-24 07:10:30.425857",
+      "internal_id": "7afc55f641e041fb3bb37d86b3ea495015863361f525005be25db65430c596e0",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26433,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NBC Chicago",
+      "author": "James Neveau",
+      "title": "Chicago dog tests positive for rabies in first case in decades",
+      "description": "A Chicago dog under observation for biting an individual tested positive for rabies, the state\u2019s first confirmed canine case in decades.",
+      "url": "https://www.nbcchicago.com/news/local/chicago-dog-is-the-first-to-test-positive-for-rabies-in-illinois-in-decades/3866990/",
+      "urlToImage": "https://media.nbcchicago.com/2023/06/GettyImages-1220985719.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-12-23 00:32:43",
+      "content": "A Chicago dog under observation for biting an individual tested positive for rabies, the states first confirmed canine case in decades. According to the Illinois Department of Public Health, the dog\u2026 [+1979 chars]",
+      "retrievedAt": "2025-12-24 07:10:26.813157",
+      "internal_id": "ebe53bc7da8d5d6517e2d5ab58e20bc8eca9b8151471e6e4d2c0e13cc82658ce",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26439,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Cristina Cifuentes",
+      "title": "La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba",
+      "description": "La isla enfrenta una crisis sanitaria de \u201carbovirosis combinada\u201d que incluye dengue, chikungunya, oropouche y otros virus respiratorios.",
+      "url": "https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/6E3LRUJ6ZVCDXM3IYMCV4SE52M.jpg?auth=792eb4c074898bbc3fa26a2899953504767f6ce41e3db75bd666fa997f56927d&height=630&width=1200&smart=true",
+      "publishedAt": "2025-12-22 23:58:56",
+      "content": "Golpeados por la escasez de alimentos, medicamentos y electricidad, ahora los cubanos se encuentran en medio de una crisis sanitaria producto de el virus, una enfermedad que azota la isla con s\u00edntoma\u2026 [+9310 chars]",
+      "retrievedAt": "2025-12-24 07:10:28.661711",
+      "internal_id": "3cd00ee6fc27e8ba54679a58838469ad0a31d3e3d853cbc5fd91434d88942bc7",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26442,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Lagos council offers senior citizens free medical check",
+      "description": "Apapa-Iganmu council in Lagos provides a free medical check for over 1,000 senior citizens, offering screenings for diabetes, malaria, HIV, and more. Read More: https://punchng.com/lagos-council-offers-senior-citizens-free-medical-check/",
+      "url": "https://punchng.com/lagos-council-offers-senior-citizens-free-medical-check/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/07/27203725/Olawale-Jimoh.jpg",
+      "publishedAt": "2025-12-22 23:35:46",
+      "content": "The Apapa-Iganmu Local Council Development Area in Lagos State has provided free medical checks to over 1,000 residents aged 50 and above, in a bid to promote wellness among the elderly. The counci\u2026 [+1076 chars]",
+      "retrievedAt": "2025-12-24 07:10:29.146437",
+      "internal_id": "1903e4b6d622424863df8f919124a3717af4f4b0716544da7303415c01055121",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Jigawa launches anti-malaria campaign",
+      "description": "Jigawa State\u2019s Hadejia LGA has launched a large-scale fumigation drive as part of its anti-malaria campaign to improve sanitation and public health. Read More: https://punchng.com/jigawa-launches-anti-malaria-campaign/",
+      "url": "https://punchng.com/jigawa-launches-anti-malaria-campaign/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/09213208/n.jpeg",
+      "publishedAt": "2025-12-22 23:21:34",
+      "content": "Hadejia Local Government Area of Jigawa State has come up with a new initiative to tackle the scourge of malaria in the entire council area in line with the World Health Organisations vision of a mal\u2026 [+2717 chars]",
+      "retrievedAt": "2025-12-24 07:10:29.127174",
+      "internal_id": "0a8cadc91f0b07e7c2eab12069977def159fd4db84231f002bccf3626687e7b4",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26441,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Malaria fight can\u2019t be won by govt alone, say NIMR scientists",
+      "description": "The fight against malaria in Nigeria can\u2019t be won by government alone. NIMR researchers call for collective action, stressing environmental cleanliness. Read More: https://punchng.com/malaria-fight-cant-be-won-by-govt-alone-say-nimr-scientists/",
+      "url": "https://punchng.com/malaria-fight-cant-be-won-by-govt-alone-say-nimr-scientists/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/22201507/Olukosi-1200x630.jpg",
+      "publishedAt": "2025-12-22 23:21:34",
+      "content": "Researchers at the Nigerian Institute of Medical Research, Yaba, Lagos, have asserted that eliminating malaria in Nigeria is a collective responsibility, describing the disease as everybodys problem.\u2026 [+6983 chars]",
+      "retrievedAt": "2025-12-24 07:10:29.136866",
+      "internal_id": "4c8ef67581b514eab4f1d832a1dfc2c37525c1ad9a418109df5f4812652fe187",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26434,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Schools, restaurant among new measles exposure sites in southern Manitoba",
+      "description": "Public health officials are asking people to monitor themselves for symptoms of measles over the holidays if they recently were at one of two schools or a restaurant in southern Manitoba.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-sites-dec22-9.7025815",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-22 23:10:23",
+      "content": "Public health officials are asking people to monitor themselves for symptoms of measles over the holidays if they recently were at one of two schools or a restaurant in southern Manitoba. Anyone who\u2026 [+1675 chars]",
+      "retrievedAt": "2025-12-24 07:10:27.400183",
+      "internal_id": "f61e04efa8644f3e2057f3fa26ec3f3c1a3107f546ce42c8f46790f3ab6c07bc",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26443,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anchorage Daily News",
+      "author": "Anchorage Daily News",
+      "title": "Health officials confirm mpox in Anchorage adult who traveled out of state",
+      "description": "The Alaska Section of Epidemiology reported no additional cases or evidence of local transmission as of Monday.",
+      "url": "https://www.adn.com/alaska-news/anchorage/2025/12/22/health-officials-confirm-mpox-in-anchorage-adult-who-traveled-out-of-state/",
+      "urlToImage": "https://www.adn.com/resizer/v2/DODIVYZMM6OV4GMY6GUJCWEVIQ.jpg?smart=true&auth=c6cfd2e378cc83daad42a66fecb0a9a76e545a13e798750a20bc4837886a9e63&width=1200&height=630",
+      "publishedAt": "2025-12-22 22:44:01",
+      "content": "State health officials this week confirmed a case of mpox in an adult Anchorage resident with a history of recent out-of-state travel. The Alaska Section of Epidemiology said no additional cases or\u2026 [+1417 chars]",
+      "retrievedAt": "2025-12-24 07:10:30.090338",
+      "internal_id": "e129b0da414f08c3257eead344359d6c0bd6a0284e5401f42290a25f85363648",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26438,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Nicole Hegarty",
+      "title": "Thousands of birds are dying on a remote island with no end in sight",
+      "description": "The Isle of May is the epicentre of a deadly outbreak of the H5N1 bird flu strain which has spread throughout the globe. Scientists are warning Australia could be next.",
+      "url": "https://www.abc.net.au/news/2025-12-23/bird-flu-h5n1-virus-outbreak-ground-zero-no-end-in-sight/106023290",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b8f71ff9e226ab9d247463e481816682?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-12-22 19:38:32",
+      "content": "Atlantic puffins have developed antibodies to H5N1. (ABC News: Nicole Hegarty) A magnificent remote island is home to 52,000 breeding pairs of puffins and is also ground zero for a deadly disease.\u2026 [+8987 chars]",
+      "retrievedAt": "2025-12-24 07:10:28.336128",
+      "internal_id": "bc675a9961a56d65602f7f4a274f53284a6064f4572947ba8e7c1fa4e24325ab",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26435,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Zach Rainey",
+      "title": "Health officials warn of potential measles exposure at Raleigh-Durham International Airport",
+      "description": "The North Carolina Department of Health and Human Services is reminding the public of a potential measles exposure at Raleigh-Durham International Airport.",
+      "url": "https://www.wyff4.com/article/raleigh-durham-international-airport-measles-exposure-health/69840609",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-66ec566bb4ee5.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-12-22 19:34:26",
+      "content": "WAKE COUNTY, N.C. \u2014The North Carolina Department of Health and Human Services is reminding the public of a potential measles exposure at Raleigh-Durham International Airport. Health officials said a\u2026 [+698 chars]",
+      "retrievedAt": "2025-12-24 07:10:27.458141",
+      "internal_id": "f5773d77eb74169bcafa4cedc7bceabba5624411d8341287f0c03d3575f54b56",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26436,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KUTV 2News",
+      "author": "Derick Fox",
+      "title": "Health officials confirm six new measles cases in Utah County",
+      "description": "Six new cases of measles were confirmed in Utah County on Monday morning. Health officials said all six were found in patients under the age of 18.According to",
+      "url": "https://kutv.com/news/local/health-officials-confirm-six-new-measles-cases-in-utah-county",
+      "urlToImage": "https://kutv.com/resources/media2/16x9/8667/1320/0x447/90/c7dd1631-73c2-4d67-b35f-d284cbd541a4-GettyImages2209442815.jpg",
+      "publishedAt": "2025-12-22 19:11:56",
+      "content": "PROVO, Utah (KUTV) Six new cases of measles were confirmed in Utah County on Monday morning. Health officials said all six were found in patients under the age of 18. According to the Utah Departmen\u2026 [+1582 chars]",
+      "retrievedAt": "2025-12-24 07:10:27.467618",
+      "internal_id": "f8198a567056322d3a5689e8b280c7fc1457b43159ea63c94251e45939e7a10f",
+      "publishedAtLabel": "Dec 22"
+    },
     {
       "id": 26419,
       "query": [
@@ -15087,6 +15341,42 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25594,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Reason",
+      "author": "Nick Gillespie",
+      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
+      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
+      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
+      "publishedAt": "2025-11-09 11:00:17",
+      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
+      "retrievedAt": "2025-11-10 19:06:08.819354",
+      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25593,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
+      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
+      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
+      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
+      "publishedAt": "2025-11-09 09:05:03",
+      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
+      "retrievedAt": "2025-11-10 19:06:07.685757",
+      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]

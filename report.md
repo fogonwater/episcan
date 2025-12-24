@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-12-23 19:07
-- **Most recent article:** 2025-12-22 17:38:17
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-12-24 07:10
+- **Most recent article:** 2025-12-23 05:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 6 | 207 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 4 | 153 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 1 | 120 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 4 | 114 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 5 | 60 |
-| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 3 | 58 |
-| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 3 | 41 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 9 | 210 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 5 | 154 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 3 | 122 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 7 | 118 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 8 | 63 |
+| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
+| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 4 | 42 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 1 | 24 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 2 | 21 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 1 | 16 |
-| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 0 | 14 |
+| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 1 | 15 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
 
@@ -44,6 +44,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (rabies)
 
+- [Level 1 - Rabies in Morocco](https://wwwnc.cdc.gov/travel/notices/level1/rabies-morocco) (Cdc.gov)
+
+- [Bat Reovirus as Cause of Acute Respiratory Disease and Encephalitis in Humans, Bangladesh, 2022–2023](https://wwwnc.cdc.gov/eid/article/31/12/25-0797_article) (Cdc.gov)
+
+- [Chicago dog tests positive for rabies in first case in decades](https://www.nbcchicago.com/news/local/chicago-dog-is-the-first-to-test-positive-for-rabies-in-illinois-in-decades/3866990/) (NBC Chicago)
+
 - [Primate: Troy Kotsur featurette and audience reaction promo build the hype for horror film about a rabies-crazed chimp](https://www.joblo.com/primate-promos/) (JoBlo.com)
 
 - [Should I get a rabies shot if bitten by a squirrel?](https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-bitten-by-a-squirrel/) (Lifesciencesworld.com)
@@ -60,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (mpox)
 
+- [Health officials confirm mpox in Anchorage adult who traveled out of state](https://www.adn.com/alaska-news/anchorage/2025/12/22/health-officials-confirm-mpox-in-anchorage-adult-who-traveled-out-of-state/) (Anchorage Daily News)
+
 - [La inteligencia artificial abre una nueva puerta en la lucha contra la viruela del mono](https://wwwhatsnew.com/2025/12/22/la-inteligencia-artificial-abre-una-nueva-puerta-en-la-lucha-contra-la-viruela-del-mono/) (Wwwhatsnew.com)
 
 - [Mpox, VIH, Covid, rougeole… Ce premier quart de siècle a été marqué par plusieurs pandémies](https://www.lavenir.net/actu/2025/12/22/mpox-vih-covid-rougeole-ce-premier-quart-de-siecle-a-ete-marque-par-plusieurs-pandemies-K6ND4UROOVAVVH6FSG4S4CI3MA/) (Lavenir.net)
@@ -71,6 +79,12 @@ Source: [News API](https://newsapi.org/)
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [Schools, restaurant among new measles exposure sites in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-sites-dec22-9.7025815) (CBC News)
+
+- [Health officials warn of potential measles exposure at Raleigh-Durham International Airport](https://www.wyff4.com/article/raleigh-durham-international-airport-measles-exposure-health/69840609) (WYFF4 Greenville)
+
+- [Health officials confirm six new measles cases in Utah County](https://kutv.com/news/local/health-officials-confirm-six-new-measles-cases-in-utah-county) (KUTV 2News)
 
 - [Sudan’s Darfur grapples with severe measles outbreak amid ongoing violence](https://www.aljazeera.com/news/2025/12/22/sudans-darfur-grapples-with-severe-measles-outbreak-amid-ongoing-violence) (Al Jazeera English)
 
@@ -86,6 +100,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (malaria)
 
+- [Lagos council offers senior citizens free medical check](https://punchng.com/lagos-council-offers-senior-citizens-free-medical-check/) (The Punch)
+
+- [Jigawa launches anti-malaria campaign](https://punchng.com/jigawa-launches-anti-malaria-campaign/) (The Punch)
+
+- [Malaria fight can’t be won by govt alone, say NIMR scientists](https://punchng.com/malaria-fight-cant-be-won-by-govt-alone-say-nimr-scientists/) (The Punch)
+
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
 - [Inhibition of Wnt signaling in primary human hepatocytes promotes Plasmodium falciparum liver stage development](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013800) (Plos.org)
@@ -94,15 +114,27 @@ Source: [News API](https://newsapi.org/)
 
 - [New infant malaria drug, vaccines light path to hope](https://www.standardmedia.co.ke/health/health-science/article/2001537070/new-infant-malaria-drug-vaccines-light-path-to-hope) (Standard Digital)
 
+## 25-52 (leptospirosis)
+
+- [What diseases can my dog get from a possum?](https://www.lifesciencesworld.com/what-diseases-can-my-dog-get-from-a-possum/) (Lifesciencesworld.com)
+
 ## 25-52 (hpai)
+
+- [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024](https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article) (Cdc.gov)
 
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (h5n1)
 
+- [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024](https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article) (Cdc.gov)
+
+- [Thousands of birds are dying on a remote island with no end in sight](https://www.abc.net.au/news/2025-12-23/bird-flu-h5n1-virus-outbreak-ground-zero-no-end-in-sight/106023290) (ABC News (AU))
+
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (dengue)
+
+- [La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba](https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/) (Latercera.com)
 
 - [Mosquito da dengue tem relógio biológico](https://super.abril.com.br/ciencia/mosquito-da-dengue-tem-relogio-biologico/) (Abril.com.br)
 
@@ -113,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
 ## 25-52 (chikungunya)
+
+- [La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba](https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/) (Latercera.com)
 
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
@@ -1830,6 +1864,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1845,6 +1881,8 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
