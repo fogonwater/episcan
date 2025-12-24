@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-12-24 07:10
-- **Most recent article:** 2025-12-23 05:00:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-12-24 19:06
+- **Most recent article:** 2025-12-23 18:54:15
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 9 | 210 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 5 | 154 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 14 | 215 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 6 | 155 |
 | h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 3 | 122 |
-| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 7 | 118 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 8 | 63 |
+| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 8 | 118 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 10 | 65 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
-| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 4 | 42 |
-| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 1 | 24 |
-| zika | 2 | 1 | 2 | 6 | 6 | 2 | 2 | 21 |
+| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
+| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 2 | 25 |
+| zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
-| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
+| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 1 | 15 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (zika)
 
+- [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
+
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
@@ -43,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [rabies 0.5.5](https://pypi.org/project/rabies/0.5.5/) (Pypi.org)
+
+- [Chicago dog tests positive for rabies for 1st time in decades, Illinois Department of Public Health says](https://abc7chicago.com/post/chicago-dog-tests-positive-rabies-1st-time-decades-illinois-department-public-health-says/18308990/) (WLS-TV)
 
 - [Level 1 - Rabies in Morocco](https://wwwnc.cdc.gov/travel/notices/level1/rabies-morocco) (Cdc.gov)
 
@@ -76,9 +82,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (meningitis)
 
+- [Yuletide: NCDC warns against Lassa fever, meningitis, others](https://punchng.com/yuletide-ncdc-warns-against-lassa-fever-meningitis-others/) (The Punch)
+
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [Ogun to vaccinate 2.9m children against measles, rubella](https://punchng.com/ogun-to-vaccinate-2-9m-children-against-measles-rubella/) (The Punch)
+
+- [Nigeria records 19,213 measles cases, 153 deaths in 11 months — NCDC](https://punchng.com/nigeria-records-19213-measles-cases-153-deaths-in-11-months-ncdc/) (The Punch)
+
+- [Measles could spread during holiday gatherings, Utah health officials warn](https://www.sltrib.com/news/2025/12/23/measles-could-spread-during/) (Salt Lake Tribune)
+
+- [As federal public health collapses under Trump, states are improvising](https://www.salon.com/2025/12/23/as-federal-public-health-collapses-under-trump-states-are-improvising/) (Salon)
+
+- [Public Health Services head: '20% of measles hospitalizations and deaths were malnourished children'](https://www.israelnationalnews.com/flashes/672959) (Israelnationalnews.com)
 
 - [Schools, restaurant among new measles exposure sites in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-sites-dec22-9.7025815) (CBC News)
 
@@ -99,6 +117,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in Park County](http://oilcity.news/community/health/2025/12/20/measles-case-confirmed-in-park-county/) (Oil City News)
 
 ## 25-52 (malaria)
+
+- [Metabolic reprogramming and gut microbiota ecology drive divergent Plasmodium vivax infection outcomes in Anopheles darlingi](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013823) (Plos.org)
 
 - [Lagos council offers senior citizens free medical check](https://punchng.com/lagos-council-offers-senior-citizens-free-medical-check/) (The Punch)
 
@@ -134,6 +154,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (dengue)
 
+- [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
+
 - [La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba](https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/) (Latercera.com)
 
 - [Mosquito da dengue tem relógio biológico](https://super.abril.com.br/ciencia/mosquito-da-dengue-tem-relogio-biologico/) (Abril.com.br)
@@ -145,6 +167,8 @@ Source: [News API](https://newsapi.org/)
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
 ## 25-52 (chikungunya)
+
+- [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
 
 - [La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba](https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/) (Latercera.com)
 
@@ -1864,8 +1888,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
-- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
-
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1881,8 +1903,6 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 

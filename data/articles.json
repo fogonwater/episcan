@@ -1,8 +1,190 @@
 {
-  "last_updated": "2025-12-24 07:10",
-  "count_articles_total": 852,
-  "count_articles_new": 14,
+  "last_updated": "2025-12-24 19:06",
+  "count_articles_total": 860,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 26453,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Yuletide: NCDC warns against Lassa fever, meningitis, others",
+      "description": "Read the NCDC health advisory for the festive season. Learn how to prevent Lassa fever, meningitis, and other diseases to ensure a safe Yuletide celebratio Read More: https://punchng.com/yuletide-ncdc-warns-against-lassa-fever-meningitis-others/",
+      "url": "https://punchng.com/yuletide-ncdc-warns-against-lassa-fever-meningitis-others/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/01/23180217/LASSA-FEVER.jpg",
+      "publishedAt": "2025-12-23 18:54:15",
+      "content": "As Nigerians prepare for the festive season, the Nigeria Centre for Disease Control and Prevention on Tuesday urged citizens to celebrate responsibly and prioritise their health. The NCDC also warne\u2026 [+3971 chars]",
+      "retrievedAt": "2025-12-24 19:06:14.047107",
+      "internal_id": "ef9c4bc6def872d59145f77fa8340bad24ec2b3b152b5fd711a16f35cb29765b",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26447,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Ogun to vaccinate 2.9m children against measles, rubella",
+      "description": "Ogun State launches a vaccination campaign for 2.9 million children against measles and rubella to reduce last year\u2019s high number of cases. Read More: https://punchng.com/ogun-to-vaccinate-2-9m-children-against-measles-rubella/",
+      "url": "https://punchng.com/ogun-to-vaccinate-2-9m-children-against-measles-rubella/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/04/06185146/Measles-150x150-1-1024x630.jpeg",
+      "publishedAt": "2025-12-23 18:07:36",
+      "content": "The Executive Secretary of the Ogun State Primary Healthcare Board, Dr Elijah Ogunsola, on Tuesday disclosed the state governments plan to vaccinate 2.9 million children aged nine months to 14 years \u2026 [+2405 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.647709",
+      "internal_id": "e9ba8d5d8dd4c272f74e672c00ebadd21a1eaa1b2ef4016436bcf676d30191db",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26448,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Nigeria records 19,213 measles cases, 153 deaths in 11 months \u2014 NCDC",
+      "description": "Nigeria\u2019s NCDC reports a measles outbreak with 19,213 confirmed cases and 153 deaths in the first 11 months of 2025, highlighting vaccination gaps. Read More: https://punchng.com/nigeria-records-19213-measles-cases-153-deaths-in-11-months-ncdc/",
+      "url": "https://punchng.com/nigeria-records-19213-measles-cases-153-deaths-in-11-months-ncdc/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/20054721/NCDC-e1697777241136.jpg",
+      "publishedAt": "2025-12-23 15:10:57",
+      "content": "The Nigeria Centre for Disease Control and Prevention has said that a total of 19,213 confirmed cases of measles have been recorded out of 26,866 suspected cases across 507 Local Government Areas in \u2026 [+2870 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.658250",
+      "internal_id": "0d09abc27c7f4ebde7acaa56409a5babcce0b06da9e3f84cb2017464bb185ff2",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26445,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "contact@cobralab.ca",
+      "title": "rabies 0.5.5",
+      "description": "RABIES: Rodent Automated Bold Improvement of EPI Sequences.",
+      "url": "https://pypi.org/project/rabies/0.5.5/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-23 14:52:41",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.275728",
+      "internal_id": "edf42de130d37a6a2daae34d9dba7a8cf0b801b455ae82d2965ce2e4146931bb",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26452,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Liangqiang Lin, Yifei He, Xu Guang, Lanbin Xiang, Dongfeng Kong, Kaichuan Diao, Haidong Wang, Bin Zhu",
+      "title": "Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen",
+      "description": "Author summary Aedes mosquitoes transmit dengue, Zika, and chikungunya viruses, causing increasing disease burdens in rapidly urbanizing subtropical cities. Existing assessments commonly map Aedes mosquito occurrence but rarely integrate ecological hazard wit\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013843.g005&size=inline",
+      "publishedAt": "2025-12-23 14:00:00",
+      "content": "Abstract Climate change and urbanization are contributing to the expansion of Aedes mosquito populations in subtropical metropolitan areas, thereby increasing the potential for humanvector contact a\u2026 [+45951 chars]",
+      "retrievedAt": "2025-12-24 19:06:13.846775",
+      "internal_id": "d5588cecf9a0092e5d3dede76ecf5861f6ea1e95886d432285ce4c56786174d7",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26454,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bianca Cechetto Carlos, Kamila Voges, Pedro Henrique de Andrade Affonso, Amie Jaye, Carlos Tong Rios, Bruno Tinoco-Nunes, Diego Peres Alonso, Julia A. Cai, Robert M. MacCallum, Marta Moreno, Dina Vlachou, Jayme A. Souza-Neto, George K. Christophides",
+      "title": "Metabolic reprogramming and gut microbiota ecology drive divergent Plasmodium vivax infection outcomes in Anopheles darlingi",
+      "description": "Author summary Malaria, a parasitic disease transmitted by mosquitoes, relies on complex interactions between the mosquito, the malaria parasite, and microbes that live in the mosquito gut. In the Amazon basin, Anopheles darlingi is the main mosquito that spr\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013823",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013823.g005&size=inline",
+      "publishedAt": "2025-12-23 14:00:00",
+      "content": "Introduction Malaria, a mosquito-borne disease caused by protozoan parasites of the genus Plasmodium, remains a major global health challenge. In 2023, an estimated 263 million people were infected,\u2026 [+50892 chars]",
+      "retrievedAt": "2025-12-24 19:06:14.523861",
+      "internal_id": "5a6db49c39a3617ecb2129bcecbcdece42c0d3143c83a07a1aa427ffa012018d",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26450,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salt Lake Tribune",
+      "author": null,
+      "title": "Measles could spread during holiday gatherings, Utah health officials warn",
+      "description": "Holiday gatherings \u2014 with many people indoors \u2014 could lead to more measles cases, Utah health officials warn. Here's what you can do to help limit the spread of the virus.",
+      "url": "https://www.sltrib.com/news/2025/12/23/measles-could-spread-during/",
+      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FUCAEKDNCZFDMDMDLX2KQ4AP7I4.jpg?auth=515207de9a5178f4469bd9880b85ac5b78a088394d665f4585d3a51f708546cf&width=1200",
+      "publishedAt": "2025-12-23 13:04:54",
+      "content": "Christmas is a time when people travel long distances to visit many family members, usually in indoor spaces factors that can, Utah health officials warn, increase the chances for measles to spread. \u2026 [+2044 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.729151",
+      "internal_id": "aa11c31080f29b90af6aa6e37128641eb1a81c5c5177d5b55200f3409b7cc45a",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26446,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc7 Chicago Digital Team",
+      "title": "Chicago dog tests positive for rabies for 1st time in decades, Illinois Department of Public Health says",
+      "description": "Chicago dog tests positive for rabies for 1st time in decades, Illinois Department of Public Health saysabc7chicago.com",
+      "url": "https://abc7chicago.com/post/chicago-dog-tests-positive-rabies-1st-time-decades-illinois-department-public-health-says/18308990/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18308977_122325-wls-chicago-rabies-dog6avo-vid.jpg?w=1600",
+      "publishedAt": "2025-12-23 13:00:41",
+      "content": "CHICAGO (WLS) -- For the first time in decades, a dog in Chicago tests positive for rabies. The Illinois Department of Public Health says this is the first rabid dog in Cook County since before 1964\u2026 [+422 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.332843",
+      "internal_id": "ed9b82e21e0f53fff24ce8351bb1f631cf5dc0af647598ab2c5685c33997d560",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26451,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Nicole Karlis",
+      "title": "As federal public health collapses under Trump, states are improvising",
+      "description": "California, New York and others are forming health alliances, marking an uncharted chapter in public health",
+      "url": "https://www.salon.com/2025/12/23/as-federal-public-health-collapses-under-trump-states-are-improvising/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/12/GettyImages-182186919.jpg",
+      "publishedAt": "2025-12-23 11:35:13",
+      "content": "By most accounts, the Make America Healthy Again agenda is backfiring. Measles is back with a vengeance, health insurance premiums are skyrocketing, and as Stat reported this week, American food safe\u2026 [+8168 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.773940",
+      "internal_id": "e204d237eae05474e248f55b371519f5ea21f7635fa9a96b724843a577c6721c",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 26449,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Public Health Services head: '20% of measles hospitalizations and deaths were malnourished children'",
+      "description": "Head of Public Health Services at the Ministry of Health, Dr. Sharon Alroy-Preis, addressed an emergency conference on the rise in measles cases and said that \u201c20% of hospitalizations and deaths due to measles complications were among children who were malnou\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/672959",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2025-12-23 08:35:52",
+      "content": "Head of Public Health Services at the Ministry of Health, Dr. Sharon Alroy-Preis, addressed an emergency conference on the rise in measles cases and said that 20% of hospitalizations and deaths due t\u2026 [+65 chars]",
+      "retrievedAt": "2025-12-24 19:06:12.704731",
+      "internal_id": "fdce01694e1d21707b906c79274fe58adc7d085c34e5f0c0237067b322ace232",
+      "publishedAtLabel": "Dec 23"
+    },
     {
       "id": 26431,
       "query": [
@@ -15341,42 +15523,6 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reason",
-      "author": "Nick Gillespie",
-      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
-      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
-      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
-      "publishedAt": "2025-11-09 11:00:17",
-      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
-      "retrievedAt": "2025-11-10 19:06:08.819354",
-      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25593,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
-      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
-      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
-      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
-      "publishedAt": "2025-11-09 09:05:03",
-      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
-      "retrievedAt": "2025-11-10 19:06:07.685757",
-      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]
