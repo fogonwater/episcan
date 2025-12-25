@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-12-24 19:06
-- **Most recent article:** 2025-12-23 18:54:15
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-12-25 07:09
+- **Most recent article:** 2025-12-24 05:41:43
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 14 | 215 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 6 | 155 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 20 | 221 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 7 | 156 |
 | h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 3 | 122 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 8 | 118 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 10 | 65 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 8 | 119 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 12 | 67 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
-| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 2 | 25 |
+| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 3 | 26 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
-| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 1 | 15 |
+| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
 
@@ -45,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [Should you get a rabies shot if a possum bites you?](https://www.lifesciencesworld.com/should-you-get-a-rabies-shot-if-a-possum-bites-you/) (Lifesciencesworld.com)
+
+- [Illinois Health Officials Report First Dog Rabies Case in 31 Years](https://gizmodo.com/illinois-health-officials-report-first-dog-rabies-case-in-31-years-2000702963) (Gizmodo.com)
 
 - [rabies 0.5.5](https://pypi.org/project/rabies/0.5.5/) (Pypi.org)
 
@@ -82,11 +86,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (meningitis)
 
+- [Metatranscriptomic Identification of Trubanaman Virus Sequences in Patient with Encephalitis, Australia](https://wwwnc.cdc.gov/eid/article/31/12/25-1190_article) (Cdc.gov)
+
 - [Yuletide: NCDC warns against Lassa fever, meningitis, others](https://punchng.com/yuletide-ncdc-warns-against-lassa-fever-meningitis-others/) (The Punch)
 
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [Health officials warn of potential measles exposure at DIA](https://www.cpr.org/2025/12/23/dia-potential-measles-exposure/) (Colorado Public Radio)
+
+- [Measles death toll hits 153 in 11 months](https://punchng.com/measles-death-toll-hits-153-in-11-months/) (The Punch)
+
+- [Winkler clinic, Morden entertainment venue among latest measles exposure sites](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-dec23-2025-9.7026902) (CBC News)
+
+- [Possible measles exposure at Denver International Airport](https://www.denverpost.com/2025/12/23/measles-denver-international-airport/) (The Denver Post)
+
+- [Health officials warn of possible measles exposure at Denver International Airport](https://www.kktv.com/2025/12/23/health-officials-warn-possible-measles-exposure-denver-international-airport/) (KKTV 11 News)
+
+- [Fewer people would recommend MMR vaccine: Survey (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/251223/p62) (Memeorandum.com)
 
 - [Ogun to vaccinate 2.9m children against measles, rubella](https://punchng.com/ogun-to-vaccinate-2-9m-children-against-measles-rubella/) (The Punch)
 
@@ -136,6 +154,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (leptospirosis)
 
+- [Can your body fight leptospirosis?](https://www.lifesciencesworld.com/can-your-body-fight-leptospirosis/) (Lifesciencesworld.com)
+
 - [What diseases can my dog get from a possum?](https://www.lifesciencesworld.com/what-diseases-can-my-dog-get-from-a-possum/) (Lifesciencesworld.com)
 
 ## 25-52 (hpai)
@@ -153,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (dengue)
+
+- [Husband to the police, claiming his wife died at IDH not from dengue, but due to a substandard drug.](https://english.gossiplankanews.com/2025/12/husband-to-police-claiming-his-wife.html) (Gossiplankanews.com)
 
 - [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
 
@@ -1888,6 +1910,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1903,6 +1927,8 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
