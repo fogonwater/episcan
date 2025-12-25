@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-12-25 07:09
-- **Most recent article:** 2025-12-24 05:41:43
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-12-25 19:06
+- **Most recent article:** 2025-12-24 18:36:56
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 20 | 221 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 24 | 225 |
 | dengue | 22 | 13 | 35 | 19 | 34 | 26 | 7 | 156 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 3 | 122 |
-| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 8 | 119 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 4 | 123 |
+| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 8 | 118 |
 | rabies | 4 | 4 | 8 | 7 | 21 | 11 | 12 | 67 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 3 | 26 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
-| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
+| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -93,6 +93,14 @@ Source: [News API](https://newsapi.org/)
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [State health officials warn of possible measles exposure in Boston, Westboro - Boston News, Weather, Sports | WHDH 7News](https://whdh.com/news/state-health-officials-warn-of-possible-measles-exposure-in-boston-westboro/) (Boston News, Weather, Sports | WHDH 7News)
+
+- [Mass. health officials warn of possible measles exposures](https://www.boston25news.com/news/local/mass-health-officials-warn-possible-exposures/XAKR2FDV3ZB6HGDF5HM6FCKKYE/) (Boston 25 News)
+
+- [Massachusetts DPH warns residents about possible measles exposures in multiple locations](https://www.bostonherald.com/2025/12/24/massachusetts-dph-warns-residents-about-possible-measles-exposures-in-multiple-locations/) (Boston Herald)
+
+- [Measles exposure in Massachusetts, health officials say](https://www.nbcboston.com/news/local/measles-in-massachusetts-health-officials-warn-of-possible-exposure-in-boston-westborough/3867121/) (NBC10 Boston)
 
 - [Health officials warn of potential measles exposure at DIA](https://www.cpr.org/2025/12/23/dia-potential-measles-exposure/) (Colorado Public Radio)
 
@@ -165,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (h5n1)
+
+- [Protection areas in place following bird flu outbreaks](https://www.bbc.com/news/articles/c5y9j44k9dxo) (BBC News)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024](https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article) (Cdc.gov)
 
@@ -1910,8 +1920,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
-- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
-
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1927,8 +1935,6 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 

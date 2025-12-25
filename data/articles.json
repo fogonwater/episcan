@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-12-25 07:09",
-  "count_articles_total": 873,
-  "count_articles_new": 11,
+  "last_updated": "2025-12-25 19:06",
+  "count_articles_total": 876,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 26470,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Protection areas in place following bird flu outbreaks",
+      "description": "Outbreaks of the H5N1 strain have been detected at farms in the Borders, Midlothian and South Lanarkshire.",
+      "url": "https://www.bbc.com/news/articles/c5y9j44k9dxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/84ac/live/2c7b1030-e0f4-11f0-a016-cd64476883b3.jpg",
+      "publishedAt": "2025-12-24 18:36:56",
+      "content": "New restrictions have been put in place following an outbreak of bird flu at a farm in the Scottish Borders. Scotland's chief veterinary officer said the H5N1 subtype of avian influenza had been det\u2026 [+1621 chars]",
+      "retrievedAt": "2025-12-25 19:06:14.055953",
+      "internal_id": "020053b73b3deb538ada776301b87dc2e66e5c3239f99ec10f276f7f962a5797",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 26468,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston News, Weather, Sports | WHDH 7News",
+      "author": "Michael Mahar",
+      "title": "State health officials warn of possible measles exposure in Boston, Westboro - Boston News, Weather, Sports | WHDH 7News",
+      "description": "BOSTON (WHDH) - Massachusetts state officials are warning of a possible measles outbreak after someone may have been exposed earlier this month.Officials say an adult<a class=\"excerpt-read-more\" href=\"https://whdh.com/news/state-health-officials-warn-of-possi\u2026",
+      "url": "https://whdh.com/news/state-health-officials-warn-of-possible-measles-exposure-in-boston-westboro/",
+      "urlToImage": "https://whdh.com/wp-content/uploads/sites/3/2025/12/Wesboro-and-Mass.jpg?quality=60&strip=color",
+      "publishedAt": "2025-12-24 17:14:44",
+      "content": "BOSTON (WHDH) - Massachusetts state officials are warning of a possible measles outbreak after someone may have been exposed earlier this month. Officials say an adult who flew into Boston and staye\u2026 [+845 chars]",
+      "retrievedAt": "2025-12-25 19:06:13.495079",
+      "internal_id": "0aa8c56756cf25d6ff5e92c96c89cd23ff6c93443add289d72dd92da08a7384b",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 26469,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston 25 News",
+      "author": "Bryan Lambert",
+      "title": "Mass. health officials warn of possible measles exposures",
+      "description": "Massachusetts health officials are warning Bay State residents after an out-of-state traveler may have exposed people to measles.",
+      "url": "https://www.boston25news.com/news/local/mass-health-officials-warn-possible-exposures/XAKR2FDV3ZB6HGDF5HM6FCKKYE/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FAXULX4S2DNBPZPMDBYKS7ORHOQ.jpeg?auth=02d2153189bc58c2d4b35a90198fe81c5706e34cb24fab19cec3d4d961a32c7b&width=1200&height=630&smart=true",
+      "publishedAt": "2025-12-24 16:15:31",
+      "content": "Massachusetts health officials are warning Bay State residents after an out-of-state traveler may have exposed people to measles. According to the Massachusetts Department of Public Health, the vis\u2026 [+2049 chars]",
+      "retrievedAt": "2025-12-25 19:06:13.503523",
+      "internal_id": "acfadd6ad459c315a7987ba6c94653f569cf3222e97f29bbaf6a4783225bc91d",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 26466,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Rick Sobey",
+      "title": "Massachusetts DPH warns residents about possible measles exposures in multiple locations",
+      "description": "An out-of-state visitor who spent time in Massachusetts has been diagnosed with measles, according to health officials who are warning the public of possible exposures to the highly contagious disease.",
+      "url": "https://www.bostonherald.com/2025/12/24/massachusetts-dph-warns-residents-about-possible-measles-exposures-in-multiple-locations/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/denl05.jpg?w=1024&h=725",
+      "publishedAt": "2025-12-24 14:47:34",
+      "content": "An out-of-state adult visitor who spent time in the region earlier this month has been diagnosed with measles, according to health officials who are warning the public of possible exposures in multip\u2026 [+4481 chars]",
+      "retrievedAt": "2025-12-25 19:06:13.356796",
+      "internal_id": "a82848872a3521384755ae5006c668b8d2c7506f5ecd6592855cc7f6bb718d37",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 26467,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC10 Boston",
+      "author": "Nbc10 Boston",
+      "title": "Measles exposure in Massachusetts, health officials say",
+      "description": "Health officials have issued a warning about possible measles exposure in multiple locations in Massachusetts.",
+      "url": "https://www.nbcboston.com/news/local/measles-in-massachusetts-health-officials-warn-of-possible-exposure-in-boston-westborough/3867121/",
+      "urlToImage": "https://media.nbcboston.com/2019/09/generic-measles.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-12-24 14:36:23",
+      "content": "Health officials are issuing a warning about possible measles exposure in multiple locations in Massachusetts. The state Department of Public Health announced Wednesday that an out-of-state visitor \u2026 [+3532 chars]",
+      "retrievedAt": "2025-12-25 19:06:13.451268",
+      "internal_id": "9bbe31f74eef8dadc6454bb8783e769e01b11a525e60594e03c507a60be2e963",
+      "publishedAtLabel": "Dec 24"
+    },
     {
       "id": 26456,
       "query": [
@@ -15721,42 +15811,6 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reason",
-      "author": "Nick Gillespie",
-      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
-      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
-      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
-      "publishedAt": "2025-11-09 11:00:17",
-      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
-      "retrievedAt": "2025-11-10 19:06:08.819354",
-      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25593,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
-      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
-      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
-      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
-      "publishedAt": "2025-11-09 09:05:03",
-      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
-      "retrievedAt": "2025-11-10 19:06:07.685757",
-      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]
