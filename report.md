@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 5
-- **Last harvest:** 2025-12-25 19:06
-- **Most recent article:** 2025-12-24 18:36:56
+- **Last harvest:** 2025-12-26 07:09
+- **Most recent article:** 2025-12-25 05:39:52
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 24 | 225 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 7 | 156 |
+| measles | 58 | 27 | 18 | 15 | 45 | 38 | 26 | 227 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 8 | 157 |
 | h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 4 | 123 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 8 | 118 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 12 | 67 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 9 | 120 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 13 | 68 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 3 | 26 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -45,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [At what age do ferrets get vaccinated?](https://www.lifesciencesworld.com/at-what-age-do-ferrets-get-vaccinated/) (Lifesciencesworld.com)
 
 - [Should you get a rabies shot if a possum bites you?](https://www.lifesciencesworld.com/should-you-get-a-rabies-shot-if-a-possum-bites-you/) (Lifesciencesworld.com)
 
@@ -93,6 +95,10 @@ Source: [News API](https://newsapi.org/)
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [Comments - What the Public Health Agency of Canada Isn’t Telling You About Measles](https://tedkuntz.substack.com/p/what-the-public-health-agency-of/comment/180507435) (Substack.com)
+
+- [Officials warn about possible measles exposures in Boston and Westborough](https://www.boston.com/news/health/2025/12/24/officials-warn-possible-measles-exposures-boston-westborough/) (Boston.com)
 
 - [State health officials warn of possible measles exposure in Boston, Westboro - Boston News, Weather, Sports | WHDH 7News](https://whdh.com/news/state-health-officials-warn-of-possible-measles-exposure-in-boston-westboro/) (Boston News, Weather, Sports | WHDH 7News)
 
@@ -144,6 +150,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (malaria)
 
+- [‘Staff shortage, poor infrastructure threaten service delivery in PHCs’](https://guardian.ng/features/health/staff-shortage-poor-infrastructure-threaten-service-delivery-in-phcs/) (Guardian Nigeria)
+
 - [Metabolic reprogramming and gut microbiota ecology drive divergent Plasmodium vivax infection outcomes in Anopheles darlingi](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013823) (Plos.org)
 
 - [Lagos council offers senior citizens free medical check](https://punchng.com/lagos-council-offers-senior-citizens-free-medical-check/) (The Punch)
@@ -183,6 +191,8 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (dengue)
+
+- [El investigador brasileño que 'tunea' mosquitos contra el dengue](https://www.elmundo.es/ciencia-y-salud/salud/2025/12/24/6949361fe85ece5a018b456f.html) (El Mundo)
 
 - [Husband to the police, claiming his wife died at IDH not from dengue, but due to a substandard drug.](https://english.gossiplankanews.com/2025/12/husband-to-police-claiming-his-wife.html) (Gossiplankanews.com)
 
@@ -1920,6 +1930,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1935,6 +1947,8 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 

@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-12-25 19:06",
-  "count_articles_total": 876,
+  "last_updated": "2025-12-26 07:09",
+  "count_articles_total": 883,
   "count_articles_new": 5,
   "articles": [
+    {
+      "id": 26473,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "P.m. Szpunar",
+      "title": "Comments - What the Public Health Agency of Canada Isn\u2019t Telling You About Measles",
+      "description": "Explains everything why I've had a neurological injury for 6 years following MMR vaccine when the GP told me all I needed was Mumps but jabbed me with the full suite of MMR without my consent.",
+      "url": "https://tedkuntz.substack.com/p/what-the-public-health-agency-of/comment/180507435",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!lHmj!,w_40,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4cef74e-97df-42a3-9938-affc6a56062b_207x207.jpeg",
+      "publishedAt": "2025-12-25 05:39:52",
+      "content": "I'm so sorry to hear that. The immune system is a magical thing, it should get some recognition again.",
+      "retrievedAt": "2025-12-26 07:09:43.837217",
+      "internal_id": "70aa310504780e7f6824f6bcb8a1f8ba5588ab006976bdb23efa58df46fc93e9",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 26475,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Guardian Nigeria",
+      "author": "Nkechi Onyedika-ugoeze",
+      "title": "\u2018Staff shortage, poor infrastructure threaten service delivery in PHCs\u2019",
+      "description": "The Civil Society in Malaria Control, Immunisation and Nutrition (ACOMIN) has warned that acute shortages of healthcare workers,",
+      "url": "https://guardian.ng/features/health/staff-shortage-poor-infrastructure-threaten-service-delivery-in-phcs/",
+      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2025/12/Fatima-Kolo.jpg",
+      "publishedAt": "2025-12-25 04:44:23",
+      "content": "ACOMIN seeks increased community involvement in health initiatives The Civil Society in Malaria Control, Immunisation and Nutrition (ACOMIN) has warned that acute shortages of healthcare workers, fr\u2026 [+4816 chars]",
+      "retrievedAt": "2025-12-26 07:09:45.168055",
+      "internal_id": "96a9490486e2b59b2eadb28239e30ba50645dbccc0f39ba1552656b114db111c",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 26471,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "At what age do ferrets get vaccinated?",
+      "description": "At What Age Do Ferrets Get Vaccinated? Understanding Ferret Vaccination Schedules Ferrets generally receive their initial distemper vaccination at 6\u20138 weeks of age, followed by boosters every 3\u20134 weeks until they are approximately 14\u201316 weeks old. Rabies vacc\u2026",
+      "url": "https://www.lifesciencesworld.com/at-what-age-do-ferrets-get-vaccinated/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-25 00:53:47",
+      "content": "At What Age Do Ferrets Get Vaccinated? Understanding Ferret Vaccination Schedules Ferrets generally receive their initial distemper vaccination at 68 weeks of age, followed by boosters every 34 week\u2026 [+8456 chars]",
+      "retrievedAt": "2025-12-26 07:09:43.218192",
+      "internal_id": "d024435bf8c090fafa033c7da6eeb25534c7d5dba232f94adb292a3bebc48347",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 26472,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston.com",
+      "author": "Ross Cristantiello",
+      "title": "Officials warn about possible measles exposures in Boston and Westborough",
+      "description": "A visitor with measles flew into Logan Airport in Boston on Dec. 11 and stayed overnight at a hotel in Westborough, officials said.",
+      "url": "https://www.boston.com/news/health/2025/12/24/officials-warn-possible-measles-exposures-boston-westborough/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/12/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2014_06_28_BostonGlobe.com_BCOM_Images_495311669-694c4346ba4dd-768x432.jpg",
+      "publishedAt": "2025-12-24 20:14:21",
+      "content": "Health A single dose of the Measles, Mumps, and Rubella (MMR) vaccine. Joe Raedle/Getty Images A person with a confirmed measles diagnosis visited Massachusetts earlier this month, and officials ar\u2026 [+4480 chars]",
+      "retrievedAt": "2025-12-26 07:09:43.801913",
+      "internal_id": "c2079d0488156547834b8776efc2587828e03d1f48b1c6943581d02d52583dc3",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 26474,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Anna Alves Francischini",
+      "title": "El investigador brasile\u00f1o que 'tunea' mosquitos contra el dengue",
+      "description": "Para frenar la transmisi\u00f3n del dengue, los cient\u00edficos han optado por una estrategia tan eficaz como contraintuitiva: no eliminar a los mosquito responsables de la transmisi\u00f3n,...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/12/24/6949361fe85ece5a018b456f.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/6119a1036854f9da69adb67846b7b601/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/22/17664042423250.jpg",
+      "publishedAt": "2025-12-24 19:27:51",
+      "content": "Para frenar la transmisi\u00f3n del dengue, los cient\u00edficos han optado por una estrategia tan eficaz como contraintuitiva: no eliminar a los mosquito responsables de la transmisi\u00f3n, sino soltarlos. En con\u2026 [+5240 chars]",
+      "retrievedAt": "2025-12-26 07:09:44.463595",
+      "internal_id": "ae703f05f52d233ee518f07b3f7078d55ea8325937c225197623ac7839b6ee59",
+      "publishedAtLabel": "Dec 24"
+    },
     {
       "id": 26470,
       "query": [
@@ -15811,6 +15901,42 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25594,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Reason",
+      "author": "Nick Gillespie",
+      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
+      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
+      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
+      "publishedAt": "2025-11-09 11:00:17",
+      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
+      "retrievedAt": "2025-11-10 19:06:08.819354",
+      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 25593,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Julia Kr\u00f3l",
+      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
+      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
+      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
+      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
+      "publishedAt": "2025-11-09 09:05:03",
+      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
+      "retrievedAt": "2025-11-10 19:06:07.685757",
+      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]
