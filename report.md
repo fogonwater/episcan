@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-12-26 07:09
-- **Most recent article:** 2025-12-25 05:39:52
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-12-26 19:06
+- **Most recent article:** 2025-12-25 11:47:15
 
 ---
 
@@ -14,16 +14,16 @@ By US epiweek (i.e. Sunday to Saturday)
 |--|-|-|-|-|-|-|-|-|
 | measles | 58 | 27 | 18 | 15 | 45 | 38 | 26 | 227 |
 | dengue | 22 | 13 | 35 | 19 | 34 | 26 | 8 | 157 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 4 | 123 |
-| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 9 | 120 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 6 | 125 |
+| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 10 | 120 |
 | rabies | 4 | 4 | 8 | 7 | 21 | 11 | 13 | 68 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
-| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 3 | 26 |
+| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 4 | 27 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
-| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
+| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -88,6 +88,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (meningitis)
 
+- [Critical illness claim rejected by insurer? Here's what you can do](https://www.livemint.com/money/personal-finance/critical-illness-claim-rejection-insurance-policy-insurance-ombudsman-11766651971140.html) (Livemint)
+
 - [Metatranscriptomic Identification of Trubanaman Virus Sequences in Patient with Encephalitis, Australia](https://wwwnc.cdc.gov/eid/article/31/12/25-1190_article) (Cdc.gov)
 
 - [Yuletide: NCDC warns against Lassa fever, meningitis, others](https://punchng.com/yuletide-ncdc-warns-against-lassa-fever-meningitis-others/) (The Punch)
@@ -150,6 +152,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (malaria)
 
+- [【薬】マラリア治療に新たな希望、新薬「ガンラム」が97.4%の治癒率を示す](https://www.2nn.jp/scienceplus/1766663235/) (Www.2nn.jp)
+
 - [‘Staff shortage, poor infrastructure threaten service delivery in PHCs’](https://guardian.ng/features/health/staff-shortage-poor-infrastructure-threaten-service-delivery-in-phcs/) (Guardian Nigeria)
 
 - [Metabolic reprogramming and gut microbiota ecology drive divergent Plasmodium vivax infection outcomes in Anopheles darlingi](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013823) (Plos.org)
@@ -181,6 +185,10 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (h5n1)
+
+- [Figyelmeztetnek a kutatók: súlyos világjárvány robbanhat ki a közeljövőben](https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-robbanhat-ki-a-kozeljovoben-807894) (Portfolio.hu)
+
+- [Figyelmeztetnek a kutatók: súlyos világjárvány van robbanhat ki a közeljövőben](https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-van-robbanhat-ki-a-kozeljovoben-807894) (Portfolio.hu)
 
 - [Protection areas in place following bird flu outbreaks](https://www.bbc.com/news/articles/c5y9j44k9dxo) (BBC News)
 
@@ -1930,8 +1938,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
-- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
-
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1947,8 +1953,6 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 

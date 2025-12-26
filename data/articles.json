@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-12-26 07:09",
-  "count_articles_total": 883,
-  "count_articles_new": 5,
+  "last_updated": "2025-12-26 19:06",
+  "count_articles_total": 885,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 26479,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.2nn.jp",
+      "author": "\u3059\u3089\u3044\u3080 \u2605",
+      "title": "\u3010\u85ac\u3011\u30de\u30e9\u30ea\u30a2\u6cbb\u7642\u306b\u65b0\u305f\u306a\u5e0c\u671b\u3001\u65b0\u85ac\u300c\u30ac\u30f3\u30e9\u30e0\u300d\u304c97.4%\u306e\u6cbb\u7652\u7387\u3092\u793a\u3059",
+      "description": "\u30de\u30e9\u30ea\u30a2\u6cbb\u7642\u306b\u65b0\u305f\u306a\u5e0c\u671b\u3001\u65b0\u85ac\u300c\u30ac\u30f3\u30e9\u30e0\u300d\u304c97.4%\u306e\u6cbb\u7652\u7387\u3092\u793a\u3059\u6297\u30de\u30e9\u30ea\u30a2\u85ac\u300c\u30ac\u30f3\u30e9\u30e0(ganaplacide/lumefantrine)\u300d\u306e\u5f8c\u671f\u81e8\u5e8a\u8a66\u9a13\u3067\u300197.4%\u306e\u6cbb\u7652\u7387\u304c\u793a\u3055\u308c\u3001\u65e2\u5b58\u306e\u6cbb\u7642\u6cd5\u3092\u4e0a\u56de\u308b\u52b9\u679c\u304c\u5b9f\u8a3c\u3055\u308c\u305f\u3002\u3053\u306e\u85ac\u5264...https://egg.5ch.net/test/read.cgi/scienceplus/1766663235/",
+      "url": "https://www.2nn.jp/scienceplus/1766663235/",
+      "urlToImage": "http://www.2nn.jp/img/scienceplus/1766663235.jpg",
+      "publishedAt": "2025-12-25 11:47:15",
+      "content": "97.4%(ganaplacide/lumefantrine)97.4%(Medicines for Malaria Venture)",
+      "retrievedAt": "2025-12-26 19:06:07.954296",
+      "internal_id": "e7a3bf557b99cbd4c5d89d40169a75aa2464655d993caeb5465561a1238dca24",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 26478,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "mint",
+      "title": "Critical illness claim rejected by insurer? Here's what you can do",
+      "description": "Always read policy wording carefully, maintain complete medical documentation, and make use of the grievance and ombudsman mechanisms when needed.",
+      "url": "https://www.livemint.com/money/personal-finance/critical-illness-claim-rejection-insurance-policy-insurance-ombudsman-11766651971140.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/25/1600x900/logo/health_insurance2__1764861974526_1764861989817_1766658514136.jpg",
+      "publishedAt": "2025-12-25 10:38:30",
+      "content": "My spouse was diagnosed with a severe neurological condition described as bacterial meningitis with encephalitis. We filed a critical illness claim, but the insurer rejected it, saying the illness is\u2026 [+2602 chars]",
+      "retrievedAt": "2025-12-26 19:06:07.510256",
+      "internal_id": "46ff740458438ad42faa8cccd8ee7d25d9d8d2f4d239e58f4d0be65d7eecfc67",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 26476,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Figyelmeztetnek a kutat\u00f3k: s\u00falyos vil\u00e1gj\u00e1rv\u00e1ny robbanhat ki a k\u00f6zelj\u00f6v\u0151ben",
+      "description": "A H5N1 mad\u00e1rinfluenza n\u00e9h\u00e1ny \u00e9v alatt mez\u0151gazdas\u00e1gi probl\u00e9m\u00e1b\u00f3l glob\u00e1lis, t\u00f6bb fajt \u00e9rint\u0151 j\u00e1rv\u00e1ny\u00fcgyi kock\u00e1zatt\u00e1 v\u00e1lt, mik\u00f6zben a vil\u00e1g m\u00e9g mindig nem \u00e9p\u00edtett ki egys\u00e9ges \u00e9s \u00e1tl\u00e1that\u00f3 v\u00e9dekez\u00e9si rendszert ellene - sz\u00e1molt be a Science Focus .",
+      "url": "https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-robbanhat-ki-a-kozeljovoben-807894",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/e/g/e/egeszsegugy-gyogyszer-innovacio-jarvany-kutatas-laboratorium-orvos-technologia-tudomany-742017.jpg",
+      "publishedAt": "2025-12-25 09:15:00",
+      "content": "Amikor 2020-ban a H5N1 jelz\u00e9s, magas patogenit\u00e1s\u00fa mad\u00e1rinfluenza-t\u00f6rzs v\u00e9gigs\u00f6p\u00f6rt a vadon \u00e9l madarak \u00e9s a baromfi\u00e1llom\u00e1nyok k\u00f6z\u00f6tt, m\u00e1r akkor is aggaszt\u00f3 volt a helyzet. \u00d6t \u00e9vvel k\u00e9sbb a k\u00e9p m\u00e9g s\u00f6t\u2026 [+4368 chars]",
+      "retrievedAt": "2025-12-26 19:06:06.864822",
+      "internal_id": "f1b61ea35d2c0d0864023178114840a895be3cbdd9110401b5e0c66e731dda61",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 26477,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Figyelmeztetnek a kutat\u00f3k: s\u00falyos vil\u00e1gj\u00e1rv\u00e1ny van robbanhat ki a k\u00f6zelj\u00f6v\u0151ben",
+      "description": "A H5N1 mad\u00e1rinfluenza n\u00e9h\u00e1ny \u00e9v alatt mez\u0151gazdas\u00e1gi probl\u00e9m\u00e1b\u00f3l glob\u00e1lis, t\u00f6bb fajt \u00e9rint\u0151 j\u00e1rv\u00e1ny\u00fcgyi kock\u00e1zatt\u00e1 v\u00e1lt, mik\u00f6zben a vil\u00e1g m\u00e9g mindig nem \u00e9p\u00edtett ki egys\u00e9ges \u00e9s \u00e1tl\u00e1that\u00f3 v\u00e9dekez\u00e9si rendszert ellene - sz\u00e1molt be a Science Focus .",
+      "url": "https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-van-robbanhat-ki-a-kozeljovoben-807894",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/e/g/e/egeszsegugy-gyogyszer-innovacio-jarvany-kutatas-laboratorium-orvos-technologia-tudomany-742017.jpg",
+      "publishedAt": "2025-12-25 09:15:00",
+      "content": "Amikor 2020-ban a H5N1 jelz\u00e9s, magas patogenit\u00e1s\u00fa mad\u00e1rinfluenza-t\u00f6rzs v\u00e9gigs\u00f6p\u00f6rt a vadon \u00e9l madarak \u00e9s a baromfi\u00e1llom\u00e1nyok k\u00f6z\u00f6tt, m\u00e1r akkor is aggaszt\u00f3 volt a helyzet. \u00d6t \u00e9vvel k\u00e9sbb a k\u00e9p m\u00e9g s\u00f6t\u2026 [+4368 chars]",
+      "retrievedAt": "2025-12-26 19:06:06.888777",
+      "internal_id": "36125b7c25ee42c86255108f1aa5ff96c3618be94fb14353517822a8aebfa53f",
+      "publishedAtLabel": "Dec 25"
+    },
     {
       "id": 26473,
       "query": [
@@ -15901,42 +15973,6 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reason",
-      "author": "Nick Gillespie",
-      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
-      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
-      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
-      "publishedAt": "2025-11-09 11:00:17",
-      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
-      "retrievedAt": "2025-11-10 19:06:08.819354",
-      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25593,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
-      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
-      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
-      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
-      "publishedAt": "2025-11-09 09:05:03",
-      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
-      "retrievedAt": "2025-11-10 19:06:07.685757",
-      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]
