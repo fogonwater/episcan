@@ -1,8 +1,135 @@
 {
-  "last_updated": "2025-12-27 07:07",
-  "count_articles_total": 889,
-  "count_articles_new": 2,
+  "last_updated": "2025-12-27 19:05",
+  "count_articles_total": 894,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 26483,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ji\u0159\u00ed B\u00e1rta",
+      "title": "Hasi\u010d\u016fm pom\u00e1haj\u00ed s likvidac\u00ed naka\u017een\u00e9ho velkochovu slepic na Havl\u00ed\u010dkobrodsku i v\u011bzni",
+      "description": "Trestanci se v \u00fater\u00fd r\u00e1no pustili do pr\u00e1ce, aby spolu s hasi\u010di zlikvidovali velkochov nosnic v Habrech na Havl\u00ed\u010dkobrodsku. Veterin\u00e1\u0159i tam o v\u00edkendu potvrdili n\u00e1kazu pta\u010d\u00ed ch\u0159ipkou H5N1. Chovatel\u00e9 p\u0159ijdou celkem o 35 tis\u00edc kus\u016f dr\u016fbe\u017ee v sedmi hal\u00e1ch, spousta \u2026",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-hasicum-pomahaji-s-likvidaci-nakazeneho-velkochovu-slepic-na-havlickobrodsku-i-vezni-40554696",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_og_A/kOzkBkwYBTBLrRlIcVFSYPHS/453b/vysocina-habry-hasici-ptaci-chripka-nosnice-dekontaminace.jpeg?fl=cro,0,130,2048,1152%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-12-26 16:17:11",
+      "content": "Na m\u00edst zasahuje 43 p\u00edslun\u00edk hasisk\u00e9ho z\u00e1chrann\u00e9ho sboru, do innosti je zapojeno tak\u00e9 22 vz ze za\u00edzen\u00ed v Pardubic\u00edch a Hradci Kr\u00e1lov\u00e9. V dopoledn\u00edch hodin\u00e1ch na pomoc pijely tak\u00e9 jednotky dobrovoln\u00fdc\u2026 [+717 chars]",
+      "retrievedAt": "2025-12-27 19:05:45.720445",
+      "internal_id": "c72a2ecb1c5856ec64fac864f7afd4586e133b291ad92c646d3a9b8a96409c47",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 26484,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Allarme chikungunya: quasi 50mila casi e 34 decessi, ecco i sintomi da non sottovalutare. L\u2019esperto: \u201cPu\u00f2 essere grave per anziani e bambini\u201d",
+      "description": "Si aggrava l\u2019epidemia di chikungunya in corso a Cuba. Secondo i dati diffusi dalle autorit\u00e0 sanitarie, i decessi registrati sono 34, a cui si aggiungono i 38 legati per\u00f2 alla dengue. Il numero complessivo dei contagi da chikungunya ha raggiunto quota 47.003 c\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/26/allarme-chikungunya-quasi-50mila-casi-e-34-decessi-ecco-i-sintomi-da-non-sottovalutare-lesperto-puo-essere-grave-per-anziani-e-bambini/8238547/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/30/Chikungunya.jpg",
+      "publishedAt": "2025-12-26 14:27:55",
+      "content": "Si aggrava lepidemia di chikungunya in corso a Cuba. Secondo i dati diffusi dalle autorit\u00e0 sanitarie, i decessi registrati sono 34, a cui si aggiungono i 38 legati per\u00f2 alla dengue. Il numero comples\u2026 [+2621 chars]",
+      "retrievedAt": "2025-12-27 19:05:45.931833",
+      "internal_id": "92cb6f001e38e9aa65839d3a0fb541695cc23589035403840202a06e36515886",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 26486,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Michelle Schinkel, Gijs J. Overheul, Ellen Ploeger, Geert-Jan van Gemert, Sandra Junglen, Pascal Miesen, Teun Bousema, Ronald P. van Rij",
+      "title": "Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes",
+      "description": "Author summary Malaria continues to be a major health issue in many endemic countries, and current prevention and treatment methods are not fully effective. This study explores a new way to combat malaria transmission using insect-specific viruses to reduce P\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013848.g004&size=inline",
+      "publishedAt": "2025-12-26 14:00:00",
+      "content": "Abstract Malaria remains a leading cause of morbidity and mortality in large parts of the world. Resistance threatens current preventative and curative strategies, highlighting the need for novel co\u2026 [+48271 chars]",
+      "retrievedAt": "2025-12-27 19:05:46.719909",
+      "internal_id": "fe872af457e922376de2b9f5b490c03ab7b317ef0d12393006011e64e4eee4ca",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 26487,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Albin Fontaine, Oum Kelthoum Mamadou Djigo, Nicolas Gomez, Ali Ould Mohamed Salem Boukhary, Leonardo Basco, S\u00e9bastien Briolant",
+      "title": "Amplicon-based DNA sequencing to characterize Duffy antigen polymorphisms and analysis of Duffy blood system and glucose-6-phosphate dehydrogenase deficiency in Mauritania",
+      "description": "Author summary Despite progress achieved in controlling malaria, several challenges remain, including Plasmodium vivax malaria. In most cases, this malaria species infects humans with the blood receptor called Duffy antigen (referred to as \u201cDuffy-positive\u201d in\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013882",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013882.g003&size=inline",
+      "publishedAt": "2025-12-26 14:00:00",
+      "content": "Citation: Fontaine A, Djigo OKM, Gomez N, Boukhary AOMS, Basco L, Briolant S (2025) Amplicon-based DNA sequencing to characterize Duffy antigen polymorphisms and analysis of Duffy blood system and gl\u2026 [+53762 chars]",
+      "retrievedAt": "2025-12-27 19:05:46.729966",
+      "internal_id": "f314db27f50cf01e16da5991659725400dcf24eac58943324b84dc2b6da0f780",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 26488,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sainan Wang, Krystyna Naumenko, Mandana Mirzajani Sarvandani, Laura Sandra Lello, Anna Makhotina, Hanna Carolina Claesson, Eva \u017dusinaite, Andres Merits",
+      "title": "Trans-complementation of chikungunya virus replicase mutants reveals alphavirus replication complexity and supports antiviral tool development",
+      "description": "Author summary Chikungunya virus (CHIKV) is a medically significant human pathogen responsible for millions of infections and chronic arthritic symptoms in 30%\u201360% of patients, often lasting for months or even years. Despite its clinical burden, no specific a\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013838",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013838.g009&size=inline",
+      "publishedAt": "2025-12-26 14:00:00",
+      "content": "Citation: Wang S, Naumenko K, Mirzajani Sarvandani M, Lello LS, Makhotina A, Claesson HC, et al. (2025) Trans-complementation of chikungunya virus replicase mutants reveals alphavirus replication com\u2026 [+82725 chars]",
+      "retrievedAt": "2025-12-27 19:05:47.110862",
+      "internal_id": "2d189b197ff8bbbcc6db6b42ee5f0c687f96a7a3915442796c84b5766cb768aa",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 26482,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Rabies Infection on the Rise in Sudurpaschim",
+      "description": "KANCHANPUR: Rabies has emerged as a growing public health challenge in Sudurpaschim Province, spreading among animals and humans primarily through fox and stray dog bites. According to Naresh Prasad Joshi, senior veterinary doctor at the Animal Disease Resear\u2026",
+      "url": "https://english.khabarhub.com/2025/26/513183/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/09/Rabies-.jpg",
+      "publishedAt": "2025-12-26 12:45:47",
+      "content": "KANCHANPUR: Rabies has emerged as a growing public health challenge in Sudurpaschim Province, spreading among animals and humans primarily through fox and stray dog bites. According to Naresh Prasad\u2026 [+2147 chars]",
+      "retrievedAt": "2025-12-27 19:05:44.870239",
+      "internal_id": "890b5dacb3d90a46c99cd77b9d6c54f798ae7ff816c54111747295f3842a914d",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 26485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue deve atingir 1,8 milh\u00e3o de brasileiros em 2026 com metade das infec\u00e7\u00f5es em SP",
+      "description": "O pr\u00f3ximo ano dever\u00e1 ser o segundo maior em n\u00famero de infec\u00e7\u00f5es desde 2010",
+      "url": "https://valor.globo.com/brasil/noticia/2025/12/26/dengue-deve-atingir-18-milhao-de-brasileiros-em-2026-com-metade-das-infeccoes-em-sp.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-12-26 12:43:25",
+      "content": "O fundo nacional \u00e9 apoiado por 100 bilh\u00f5es de yuans (US$ 14,3 bilh\u00f5es) do Minist\u00e9rio das Finan\u00e7as, financiados por meio da emiss\u00e3o de t\u00edtulos soberanos especiais de longo prazo",
+      "retrievedAt": "2025-12-27 19:05:45.942350",
+      "internal_id": "19a63c11667df7bd07a87c3dc594f550c73f786a4bdfbc44b644b3e55faaceb7",
+      "publishedAtLabel": "Dec 26"
+    },
     {
       "id": 26480,
       "query": [
@@ -16009,42 +16136,6 @@
       "content": "News Climate change makes dengue perennial from seasonal in Goa Follow Us On Social Media Riga Sugar Mill Revival: Locals Speak On Change And Challenges Ahead Of Bihar P\u2026 [+1613 chars]",
       "retrievedAt": "2025-11-11 07:07:57.551554",
       "internal_id": "833001409fb1a30249f2736d1fdf4cabdad1ebf486411064c0b5069152be95ae",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reason",
-      "author": "Nick Gillespie",
-      "title": "Pablos Holman on AI, the Future, and Why the World Needs More Energy",
-      "description": "\"We've made enough energy for all the people in the West and north of the equator, but we just haven't finished the job,\" says the author of Deep Future.",
-      "url": "https://reason.com/2025/11/09/boycott-dystopia/",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/10/interview.jpg",
-      "publishedAt": "2025-11-09 11:00:17",
-      "content": "Pablos Holman is a legendary hacker and cypherpunk whose career spans everything from helping Bill Gates fight malaria to working with Jeff Bezos at Blue Origin. Holder of more than 100 patents and f\u2026 [+19688 chars]",
-      "retrievedAt": "2025-11-10 19:06:08.819354",
-      "internal_id": "44bc45ff7504f36261bcb816df44540702a9efbfb98ad7fbf1a112f03a24ad2c",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 25593,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Julia Kr\u00f3l",
-      "title": "Ptasia grypa pustoszy USA. Miliony ptak\u00f3w martwych, ceny \u017cywno\u015bci szalej\u0105",
-      "description": "Ostatnia fala wysoce zjadliwej grypy ptak\u00f3w w USA spowodowa\u0142a dramatyczny spadek poda\u017cy drobiu i skok cen jaj i indyk\u00f3w, zw\u0142aszcza przed tradycyjnym \u015awi\u0119tem Dzi\u0119kczynienia. Mimo obserwowanej odzwierz\u0119cej natury choroby specjali\u015bci zapewniaj\u0105, \u017ce ryzyko dla lu\u2026",
-      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708",
-      "urlToImage": "https://i.iplsc.com/-/000KJ7GO8AR338UL-C461.jpg",
-      "publishedAt": "2025-11-09 09:05:03",
-      "content": "Stany Zjednoczone mierz si z epidemi wysoce zjadliwej grypy ptak\u00f3w (HPAI), kt\u00f3ra cignie si od lat. Zostaa ona potwierdzona w kadym stanie USA w pewnym momencie od 2022 roku i ogoszono j jako \"najdusz\u2026 [+2104 chars]",
-      "retrievedAt": "2025-11-10 19:06:07.685757",
-      "internal_id": "904dc46798b7a70e27205a7824275d031d9034de2c1197027e26df2c2604642a",
       "publishedAtLabel": "Nov 9"
     }
   ]

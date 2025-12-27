@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-12-27 07:07
-- **Most recent article:** 2025-12-25 23:36:26
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-12-27 19:05
+- **Most recent article:** 2025-12-26 16:17:11
 
 ---
 
@@ -13,17 +13,17 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 58 | 27 | 18 | 15 | 45 | 38 | 26 | 227 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 8 | 157 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 7 | 126 |
-| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 10 | 121 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 14 | 69 |
+| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 10 | 159 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 8 | 127 |
+| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 12 | 122 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 15 | 70 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
-| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
+| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 7 | 45 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 4 | 27 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
-| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
+| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -45,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [Rabies Infection on the Rise in Sudurpaschim](https://english.khabarhub.com/2025/26/513183/) (Khabarhub.com)
 
 - [Dog bite and rabies: A public health risk](https://punchng.com/dog-bite-and-rabies-a-public-health-risk/) (The Punch)
 
@@ -154,6 +156,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (malaria)
 
+- [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
+
+- [Amplicon-based DNA sequencing to characterize Duffy antigen polymorphisms and analysis of Duffy blood system and glucose-6-phosphate dehydrogenase deficiency in Mauritania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013882) (Plos.org)
+
 - [【薬】マラリア治療に新たな希望、新薬「ガンラム」が97.4%の治癒率を示す](https://www.2nn.jp/scienceplus/1766663235/) (Www.2nn.jp)
 
 - [‘Staff shortage, poor infrastructure threaten service delivery in PHCs’](https://guardian.ng/features/health/staff-shortage-poor-infrastructure-threaten-service-delivery-in-phcs/) (Guardian Nigeria)
@@ -188,6 +194,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (h5n1)
 
+- [Hasičům pomáhají s likvidací nakaženého velkochovu slepic na Havlíčkobrodsku i vězni](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-hasicum-pomahaji-s-likvidaci-nakazeneho-velkochovu-slepic-na-havlickobrodsku-i-vezni-40554696) (Novinky.cz)
+
 - [De la peste porcina a la gripe aviar: Cataluña se enfrenta a dos peligrosos brotes víricos de consecuencias inciertas](https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html) (Elespanol.com)
 
 - [Figyelmeztetnek a kutatók: súlyos világjárvány robbanhat ki a közeljövőben](https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-robbanhat-ki-a-kozeljovoben-807894) (Portfolio.hu)
@@ -203,6 +211,10 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (dengue)
+
+- [Allarme chikungunya: quasi 50mila casi e 34 decessi, ecco i sintomi da non sottovalutare. L’esperto: “Può essere grave per anziani e bambini”](https://www.ilfattoquotidiano.it/2025/12/26/allarme-chikungunya-quasi-50mila-casi-e-34-decessi-ecco-i-sintomi-da-non-sottovalutare-lesperto-puo-essere-grave-per-anziani-e-bambini/8238547/) (Ilfattoquotidiano.it)
+
+- [Dengue deve atingir 1,8 milhão de brasileiros em 2026 com metade das infecções em SP](https://valor.globo.com/brasil/noticia/2025/12/26/dengue-deve-atingir-18-milhao-de-brasileiros-em-2026-com-metade-das-infeccoes-em-sp.ghtml) (Globo)
 
 - [El investigador brasileño que 'tunea' mosquitos contra el dengue](https://www.elmundo.es/ciencia-y-salud/salud/2025/12/24/6949361fe85ece5a018b456f.html) (El Mundo)
 
@@ -221,6 +233,10 @@ Source: [News API](https://newsapi.org/)
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
 ## 25-52 (chikungunya)
+
+- [Allarme chikungunya: quasi 50mila casi e 34 decessi, ecco i sintomi da non sottovalutare. L’esperto: “Può essere grave per anziani e bambini”](https://www.ilfattoquotidiano.it/2025/12/26/allarme-chikungunya-quasi-50mila-casi-e-34-decessi-ecco-i-sintomi-da-non-sottovalutare-lesperto-puo-essere-grave-per-anziani-e-bambini/8238547/) (Ilfattoquotidiano.it)
+
+- [Trans-complementation of chikungunya virus replicase mutants reveals alphavirus replication complexity and supports antiviral tool development](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013838) (Plos.org)
 
 - [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
 
@@ -1942,8 +1958,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
-- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
-
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1959,8 +1973,6 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
