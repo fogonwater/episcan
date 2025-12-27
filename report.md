@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-12-26 19:06
-- **Most recent article:** 2025-12-25 11:47:15
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-12-27 07:07
+- **Most recent article:** 2025-12-25 23:36:26
 
 ---
 
@@ -14,16 +14,16 @@ By US epiweek (i.e. Sunday to Saturday)
 |--|-|-|-|-|-|-|-|-|
 | measles | 58 | 27 | 18 | 15 | 45 | 38 | 26 | 227 |
 | dengue | 22 | 13 | 35 | 19 | 34 | 26 | 8 | 157 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 6 | 125 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 10 | 120 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 13 | 68 |
+| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 7 | 126 |
+| malaria | 20 | 12 | 17 | 26 | 17 | 19 | 10 | 121 |
+| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 14 | 69 |
 | mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
 | chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 5 | 43 |
 | meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 4 | 27 |
 | zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
 | pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
+| hpai | 5 | 2 | 1 | 2 | 5 | 1 | 2 | 18 |
 | yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
 | leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
 
@@ -45,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [Dog bite and rabies: A public health risk](https://punchng.com/dog-bite-and-rabies-a-public-health-risk/) (The Punch)
 
 - [At what age do ferrets get vaccinated?](https://www.lifesciencesworld.com/at-what-age-do-ferrets-get-vaccinated/) (Lifesciencesworld.com)
 
@@ -185,6 +187,8 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (h5n1)
+
+- [De la peste porcina a la gripe aviar: Cataluña se enfrenta a dos peligrosos brotes víricos de consecuencias inciertas](https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html) (Elespanol.com)
 
 - [Figyelmeztetnek a kutatók: súlyos világjárvány robbanhat ki a közeljövőben](https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-robbanhat-ki-a-kozeljovoben-807894) (Portfolio.hu)
 
@@ -1938,6 +1942,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Reason)
+
 ## 25-46 (leptospirosis)
 
 - [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
@@ -1953,6 +1959,8 @@ Source: [News API](https://newsapi.org/)
 - [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
 
 - [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
+
+- [Ptasia grypa pustoszy USA. Miliony ptaków martwych, ceny żywności szaleją](https://geekweek.interia.pl/bezpieczenstwo/news-ptasia-grypa-pustoszy-usa-miliony-ptakow-martwych-ceny-zywno,nId,22450708) (Interia.pl)
 
 ## 25-46 (h5n1)
 
