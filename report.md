@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-12-27 19:05
-- **Most recent article:** 2025-12-26 16:17:11
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-12-28 07:08
+- **Most recent article:** 2025-12-27 03:53:23
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-46 | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 58 | 27 | 18 | 15 | 45 | 38 | 26 | 227 |
-| dengue | 22 | 13 | 35 | 19 | 34 | 26 | 10 | 159 |
-| h5n1 | 31 | 21 | 29 | 13 | 10 | 15 | 8 | 127 |
-| malaria | 19 | 12 | 17 | 26 | 17 | 19 | 12 | 122 |
-| rabies | 4 | 4 | 8 | 7 | 21 | 11 | 15 | 70 |
-| mpox | 6 | 3 | 5 | 4 | 28 | 9 | 4 | 59 |
-| chikungunya | 3 | 2 | 1 | 14 | 16 | 2 | 7 | 45 |
-| meningitis | 8 | 3 | 4 | 4 | 3 | 1 | 4 | 27 |
-| zika | 2 | 1 | 2 | 6 | 6 | 2 | 3 | 22 |
-| pertussis | 2 | 3 | 6 | 5 | 2 | 0 | 1 | 19 |
-| yersinia | 0 | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| hpai | 4 | 2 | 1 | 2 | 5 | 1 | 2 | 17 |
-| leptospirosis | 2 | 1 | 7 | 3 | 0 | 1 | 2 | 16 |
-| typhoid | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 9 |
+| Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 26 | 18 | 15 | 45 | 38 | 28 | 170 |
+| dengue | 13 | 35 | 19 | 34 | 26 | 10 | 137 |
+| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 103 |
+| h5n1 | 20 | 29 | 13 | 10 | 15 | 8 | 95 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 17 | 68 |
+| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 54 |
+| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 42 |
+| zika | 1 | 2 | 6 | 6 | 2 | 3 | 20 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 4 | 19 |
+| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
+| pertussis | 3 | 6 | 5 | 2 | 0 | 1 | 17 |
+| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 14 |
+| hpai | 2 | 1 | 2 | 5 | 1 | 2 | 13 |
+| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -45,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [Can you stop rabies before it reaches the brain?](https://www.lifesciencesworld.com/can-you-stop-rabies-before-it-reaches-the-brain/) (Lifesciencesworld.com)
+
+- [Rabid raccoon captured in Norfolk center](https://www.thesunchronicle.com/news/local_news/rabid-raccoon-captured-in-norfolk-center/article_9096cdb5-c8f0-434c-add9-4e7b8a49b0d8.html) (The Sun Chronicle)
 
 - [Rabies Infection on the Rise in Sudurpaschim](https://english.khabarhub.com/2025/26/513183/) (Khabarhub.com)
 
@@ -82,6 +86,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (mpox)
 
+- [Anchorage man tests positive for mpox, the first case in a year](https://alaskapublic.org/news/health/2025-12-26/anchorage-man-tests-positive-for-mpox-the-first-case-in-a-year) (Alaska Public Media News)
+
 - [Health officials confirm mpox in Anchorage adult who traveled out of state](https://www.adn.com/alaska-news/anchorage/2025/12/22/health-officials-confirm-mpox-in-anchorage-adult-who-traveled-out-of-state/) (Anchorage Daily News)
 
 - [La inteligencia artificial abre una nueva puerta en la lucha contra la viruela del mono](https://wwwhatsnew.com/2025/12/22/la-inteligencia-artificial-abre-una-nueva-puerta-en-la-lucha-contra-la-viruela-del-mono/) (Wwwhatsnew.com)
@@ -101,6 +107,10 @@ Source: [News API](https://newsapi.org/)
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [‘Cholera, Lassa fever, others killed 1,738 in 2025’](https://punchng.com/cholera-lassa-fever-others-killed-1738-in-2025/) (The Punch)
+
+- [Possible Measles Exposure At Newark Airport Amid Holiday Travel: Health Officials](https://patch.com/new-jersey/newarknj/possible-measles-exposure-newark-airport-amid-holidays) (Avon, CT Patch)
 
 - [Comments - What the Public Health Agency of Canada Isn’t Telling You About Measles](https://tedkuntz.substack.com/p/what-the-public-health-agency-of/comment/180507435) (Substack.com)
 
@@ -1624,8 +1634,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
-- [Fourth case of measles confirmed after Jelly Roll concert](https://www.abc.net.au/news/2025-11-16/fourth-measles-case-confirmed-after-jelly-roll-concert/106014898) (ABC News (AU))
-
 ## 25-47 (malaria)
 
 - [Taoiseach joined by other world leaders in pledging combined billions to fight deadly diseases](https://www.thejournal.ie/g20-ireland-micheal-martin-6882459-Nov2025/) (TheJournal.ie)
@@ -1704,8 +1712,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
-- [El huevo vuelve al corral](https://www.abc.es/opinion/editorial-huevo-vuelve-corral-20251116040958-nt.html) (Www.abc.es)
-
 ## 25-47 (dengue)
 
 - [Dengue Cases Are Surging: Crucial Symptoms and Warning Signs You Must Not Ignore](https://www.medicaldaily.com/dengue-cases-are-surging-crucial-symptoms-warning-signs-you-must-not-ignore-473995) (Medical Daily)
@@ -1739,355 +1745,3 @@ Source: [News API](https://newsapi.org/)
 - [Groźny wirus wymknął się spod kontroli. Tysiące zarażonych na Karaibach](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-wymknal-sie-spod-kontroli-tysiace-zarazonych-na,nId,22457051) (Interia.pl)
 
 - [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
-
-## 25-46 (zika)
-
-- [An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains](https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/) (Wired)
-
-- [Arbovirosis, la epidemia que azota Cuba y avanza sin control: «Se está enterrando gente de noche, como en la pandemia»](https://www.lavozdegalicia.es/noticia/sociedad/2025/11/13/cuba-azotada-epidema-virus-avanza-control/00031763038010971184545.htm) (Lavozdegalicia.es)
-
-## 25-46 (typhoid)
-
-- [Today in History: November 11, ‘Typhoid Mary’ dies](https://www.bostonherald.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/) (Boston Herald)
-
-- [Today in History: November 11, ‘Typhoid Mary’ dies](https://www.denverpost.com/2025/11/11/today-in-history-november-11-typhoid-mary-dies/) (The Denver Post)
-
-## 25-46 (rabies)
-
-- [A Growing Number of People Refuse to Vaccinate Their Pets. They Have a Mind-Boggling Reason Why.](https://slate.com/life/2025/11/animal-pet-autism-vaccine-covid-rfk-jr.html) (Slate Magazine)
-
-- [RTI reveals 18 rabies deaths in Delhi since 2022, contradicting Centre’s ‘zero deaths’ claim](https://economictimes.indiatimes.com/news/india/rti-reveals-18-rabies-deaths-in-delhi-since-2022-contradicting-centres-zero-deaths-claim/articleshow/125243534.cms) (The Times of India)
-
-- [Scottish scientists tackle vampire bat rabies threat in Amazon](https://www.bbc.com/news/articles/c74015ll09yo) (BBC News)
-
-- [Health experts push for integrated health action](https://www.standardmedia.co.ke/health/health-science/article/2001533866/health-experts-push-for-integrated-health-action) (Standard Digital)
-
-## 25-46 (pertussis)
-
-- [Surge in whooping cough cases in southern state prompts health alerts](https://www.foxnews.com/health/surge-whooping-cough-cases-southern-state-prompts-health-alerts) (Fox News)
-
-- [Today's news and jokes](https://www.superpunch.net/2025/11/todays-news-and-jokes_01956436127.html) (Superpunch.net)
-
-## 25-46 (mpox)
-
-- [Salg af mpox-vaccine får Bavarian Nordics salg til at vokse](https://www.bt.dk/erhverv/salg-af-mpox-vaccine-faar-bavarian-nordics-salg-til-at-vokse) (Www.bt.dk)
-
-- [UE faz compra de mais de oito milhões de vacinas contra mpox](https://observador.pt/2025/11/13/ue-faz-compra-conjunta-de-mais-de-oito-milhoes-de-vacinas-contra-mpox-e-varicela/) (Observador.pt)
-
-- [Novo surto de mpox e casos de hepatite A identificados na região de Lisboa](https://expresso.pt/sociedade/saude/2025-11-13-novo-surto-de-mpox-e-casos-de-hepatite-a-identificados-na-regiao-de-lisboa-d70778df) (Expresso.pt)
-
-- [Sverige med i EU-avtal för vaccin mot Mpox](https://www.aftonbladet.se/nyheter/a/alr9p7/sverige-med-i-eu-avtal-for-vaccin-mot-mpox) (Aftonbladet.se)
-
-- [Identificado novo surto de mpox em Lisboa](https://observador.pt/2025/11/13/identificado-novo-surto-de-mpox-em-lisboa-dgs-ja-tinha-confirmado-aumento-de-casos/) (Observador.pt)
-
-- [MOH urges preventive measures against Mpox](https://www.omanobserver.om/article/1179460/oman/health/moh-urges-preventive-measures-against-mpox) (Omanobserver.om)
-
-## 25-46 (meningitis)
-
-- [The metabolic, microbial and immunological demands of pneumococcal colonisation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013675) (Plos.org)
-
-- [Kinderpolio opgemerkt in rioolwaterstaal nabij Hamburg](https://www.nieuwsblad.be/buitenland/kinderpolio-opgemerkt-in-rioolwaterstaal-nabij-hamburg/104774643.html) (Nieuwsblad.be)
-
-- [Corte ordena vacunar a recién nacido tras rechazo de su madre a que fuera inoculado contra la meningitis y la hepatitis](https://www.cnnchile.com/pais/corte-ordena-vacunar-a-recien-nacido-tras-rechazo-de-su-madre-a-que-fuera-inoculado-contra-la-meningitis-y-la-hepatitis_20251113/) (Cnnchile.com)
-
-- [Corte de La Serena ordena inoculación de recién nacido al que su madre le negó vacunas contra la hepatitis y meningitis](https://www.latercera.com/nacional/noticia/corte-de-la-serena-ordena-inoculacion-de-recien-nacido-al-que-su-madre-le-nego-vacunas-contra-la-hepatitis-y-meningitis/) (Latercera.com)
-
-- [Misconduct proven against doctor who allegedly failed to refer seriously ill boys to A&E](https://www.irishtimes.com/health/2025/11/11/misconduct-proven-against-doctor-who-allegedly-failed-to-refer-seriously-ill-boys-to-ae/) (The Irish Times)
-
-- [GP guilty of professional misconduct after failing to spot meningitis in baby](https://www.independent.ie/irish-news/gp-guilty-of-professional-misconduct-after-failing-to-spot-meningitis-in-baby/a1903533478.html) (Independent.ie)
-
-- [Doctor failed to refer infant later diagnosed with viral meningitis to emergency department, inquiry hears](https://www.irishtimes.com/health/2025/11/10/doctor-failed-to-refer-infant-later-diagnosed-with-viral-meningitis-to-emergency-department/) (The Irish Times)
-
-- [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
-
-## 25-46 (measles)
-
-- [Americas Lose Measles-Free Status: Health Leaders Warn of Rising Regional Threat as Cases Surge](https://colombiaone.com/2025/11/15/americas-measles-free-status-rising-regional-threat-cases-surge/) (Colombiaone.com)
-
-- [Canada lost its measles elimination status, but N.L. still eight years without new case](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-measles-elimination-status-9.6978445) (CBC News)
-
-- [Alberta premier says loss of measles elimination status concerning, urges vigilance](https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-measles-sarah-hoffman-9.6980006) (CBC News)
-
-- [2 new measles cases, 1 exposure reported in Manitoba ahead of the weekend](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-update-november-14-9.6979989) (CBC News)
-
-- [Salt Lake County has its first confirmed measles case, health officials say](https://www.sltrib.com/news/2025/11/14/salt-lake-county-has-its-first/) (Salt Lake Tribune)
-
-- [Truveta research published in JAMA Network Open shows rapid uptake of early measles vaccination during Texas outbreak](https://www.globenewswire.com/news-release/2025/11/14/3188461/0/en/Truveta-research-published-in-JAMA-Network-Open-shows-rapid-uptake-of-early-measles-vaccination-during-Texas-outbreak.html) (GlobeNewswire)
-
-- [World News in Brief: Gaza latest, Americas loses measles-free status, tornado recovery in Brazil](https://www.globalsecurity.org/military/library/news/2025/11/mil-251112-unnews03.htm) (Globalsecurity.org)
-
-- [RFK Jr.’s FDA Is Now Also In Turmoil Over Corrupt Drug Regulator](https://www.techdirt.com/2025/11/12/rfk-jr-s-fda-is-now-also-in-turmoil-over-corrupt-drug-regulator/) (Techdirt)
-
-- [Queensland Health warns of possible measles outbreak after infectious fans attend Jelly Roll concert in Brisbane](https://7news.com.au/news/queensland-health-warns-of-possible-measles-outbreak-after-infectious-fans-attend-jelly-roll-concert-in-brisbane-c-20664055) (7NEWS.com.au)
-
-- [Contact tracing underway as Jelly Roll concertgoers linked to measles outbreak](https://www.abc.net.au/news/2025-11-13/qld-measles-cases-contact-tracing-underway-brisbane-outbreak/106003732) (ABC News (AU))
-
-- [Measles case confirmed in southwestern Colorado, possible exposures in Cortez, Mancos](https://www.denverpost.com/2025/11/12/measles-colorado-cortez-mancos/) (The Denver Post)
-
-- [Officials warning about measles exposures in Maricopa County and Flagstaff](https://www.abc15.com/news/health/health-officials-warning-public-about-measles-exposures-in-maricopa-county-and-flagstaff) (ABC15 Arizona)
-
-- [Queensland measles: Brisbane and Gold Coast on high alert after cases detected at Jelly Roll concert, Sea World](https://www.9news.com.au/health/measles-brisbane-gold-coast-queensland-jelly-roll-sea-world-health/fc31c13b-ae1a-4d5e-9f89-33a6f10acc8b) (9News)
-
-- [Jack Schlossberg, JFK’s grandson and social media influencer, to run for Congress in key Manhattan district](https://fortune.com/2025/11/12/jack-schlossberg-jfk-grandson-kennedy-manhattan-congress-democrat/) (Fortune)
-
-- [World News in Brief: Gaza latest, Americas loses measles-free status, tornado recovery in Brazil](https://news.un.org/en/story/2025/11/1166345) (UN News)
-
-- [Canada loses its official “measles-free” status. The US will soon follow](https://www.salon.com/2025/11/12/canada-loses-its-official-measles-free-status-the-us-will-soon-follow_partner/) (Salon)
-
-- [Alert issued after three people with measles attend Jelly Roll concert](https://www.abc.net.au/news/2025-11-12/qld-measles-cases-traced-to-jelly-roll-concert-at-brisbane/106002746) (ABC News (AU))
-
-- [Canada loses measles elimination status. Health officials say US could be next](https://www.clickondetroit.com/news/local/2025/11/11/canada-loses-measles-elimination-status-health-officials-say-us-could-be-next/) (WDIV ClickOnDetroit)
-
-- [How Canada can regain its measles elimination status](https://financialpost.com/pmn/how-canada-can-regain-its-measles-elimination-status) (Financial Post)
-
-- [Philadelphia health officials urge vaccination after a measles exposure at the airport](https://www.inquirer.com/health/philadelphia-airport-measles-exposure-20251111.html) (The Philadelphia Inquirer)
-
-- [Health officials warn of possible measles exposure at Philadelphia International Airport](https://6abc.com/post/health-officials-warn-possible-measles-exposure-philadelphia-international-airport/18143815/) (WPVI-TV)
-
-- [Health officials warn of possible measles exposure at PHL](https://www.nbcphiladelphia.com/news/local/possible-measles-exposure-philadelphia-international-airport-terminals-a-and-b-november-9/4300641/) (NBC 10 Philadelphia)
-
-- [Canada lost its measles-free status. What's the situation in Quebec?](https://montrealgazette.com/news/health/canada-measles-status-removed-quebec-situation) (Montreal Gazette)
-
-- [Why has Canada lost its measles-free status – and could the US be next?](https://www.aljazeera.com/news/2025/11/11/why-has-canada-lost-its-measles-free-status-and-could-the-us-be-next) (Al Jazeera English)
-
-- [Canada Loses Measles Elimination Status. Will The U.S. Soon Follow?](https://www.forbes.com/sites/brucelee/2025/11/11/canada-loses-measles-elimination-status-will-the-us-soon-follow/) (Forbes)
-
-- [Canada loses measles-free status, raising alarms among experts](https://www.npr.org/2025/11/11/nx-s1-5604686/canada-loses-measles-free-status-raising-alarms-among-experts) (NPR)
-
-- [Canada Lost Its Measles Elimination Status. What Does It Mean for the U.S.? (Vjosa Isai/New York Times)](https://www.memeorandum.com/251111/p5) (Memeorandum.com)
-
-- [Canada loses measles-free status after year of continuous spread](https://www.abc.net.au/news/2025-11-11/canada-loses-measles-free-status-after-ongoing-outbreaks/105996706) (ABC News (AU))
-
-- [Sāmoa strengthens border controls as measles cases rise in New Zealand](https://pmn.co.nz/read/health/samoa-strengthens-border-controls-as-measles-cases-surge-in-new-zealand) (Pmn.co.nz)
-
-- [Canada loses measles elimination status after ongoing outbreaks](https://abcnews.go.com/Health/wireStory/canada-loses-measles-elimination-status-after-ongoing-outbreaks-127379798) (ABC News)
-
-- [Canada Loses Measles Elimination Status Amid Ongoing Nationwide Outbreak](https://sputnikglobe.com/20251111/canada-loses-measles-elimination-status-amid-ongoing-nationwide-outbreak-1123093156.html) (Sputnikglobe.com)
-
-- [Canada's Measles Cases End the Americas' Elimination Status](https://www.newser.com/story/378411/canadas-measles-cases-end-the-americas-elimination-status.html) (Newser)
-
-- [Canada Loses Measles Elimination Status, Putting U.S. On Notice](https://www.huffpost.com/entry/canada-measles-elimination-status_n_69123d59e4b03f26059cf543) (HuffPost)
-
-- [Canada Just Lost Its Measles-Free Status. The U.S. Could Soon Follow](https://www.scientificamerican.com/article/canada-just-lost-its-measles-free-status-the-u-s-could-soon-follow/) (Scientific American)
-
-- [Alberta's role in Canada's loss of measles elimination status embarrassing, former chief medical officer says](https://www.cbc.ca/news/canada/calgary/alberta-measles-status-eliminations-9.6973822) (CBC News)
-
-- [As Canada loses measles-free status, outbreak in northeast B.C. continues](https://www.cbc.ca/news/canada/british-columbia/bc-officials-respond-to-canada-loss-measles-free-status-9.6973645) (CBC News)
-
-- [Canada loses measles elimination status after ongoing outbreaks](https://japantoday.com/category/features/health/canada-loses-measles-elimination-status-after-ongoing-outbreaks) (Japan Today)
-
-- [Canada loses its measles-free status, with US on track to follow](https://www.bbc.com/news/articles/cy7e2lv4r8xo) (BBC News)
-
-- [Canada has lost its 'measles elimination status' — here's what that means](https://www.livescience.com/health/viruses-infections-disease/canada-has-lost-its-measles-elimination-status-heres-what-that-means) (Live Science)
-
-- [Measles exposure at southern Manitoba truck stop restaurant announced](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposure-winkler-truck-stop-9.6973614) (CBC News)
-
-- [Canada loses measles elimination status after year-long outbreak](https://www.thestar.com.my/news/world/2025/11/11/canada-loses-measles-elimination-status-after-year-long-outbreak) (The Star Online)
-
-- [Canada loses measles elimination status after ongoing outbreaks](https://www.bostonherald.com/2025/11/10/canada-measles/) (Boston Herald)
-
-- [Canada loses measles elimination status after ongoing outbreaks](https://www.seattlepi.com/news/article/canada-loses-measles-elimination-status-after-21152834.php) (seattlepi.com)
-
-- [Deadly measles surge sees Canada lose eradicated status](https://www.digitaljournal.com/world/deadly-measles-surge-sees-canada-lose-eradicated-status/article) (Digital Journal)
-
-- [Canada loses its measles elimination status amid large outbreak | CNN](https://www.cnn.com/2025/11/10/health/canada-measles-elimination-status-removed) (CNN)
-
-- [Canada loses its measles elimination status. Will the U.S. be next?](https://www.nbcnews.com/health/health-news/canada-loses-measles-elimination-status-will-us-rcna242630) (NBC News)
-
-- [Canada has lost its measles elimination status for the first time in 27 years](https://nationalpost.com/news/canada/canada-measles-elimination-status) (National Post)
-
-- [Canada loses measles elimination status after three decades, health agency says](https://www.thestar.com.my/news/world/2025/11/10/canada-loses-measles-elimination-status-after-three-decades-health-agency-says) (The Star Online)
-
-- [Canada loses measles elimination status amid year-long outbreak, health officials say](https://abcnews.go.com/Health/canada-loses-measles-elimination-status-amid-year-long/story?id=127373379) (ABC News)
-
-- [Canada Loses Measles-Free Status With Outbreak Passing One-Year Mark](https://financialpost.com/pmn/business-pmn/canada-loses-measles-free-status-with-outbreak-passing-one-year-mark) (Financial Post)
-
-- [Canada loses its official ‘measles-free’ status – and the US will follow soon, as vaccination rates fall](https://theconversation.com/canada-loses-its-official-measles-free-status-and-the-us-will-follow-soon-as-vaccination-rates-fall-269090) (The Conversation Africa)
-
-- [Canada loses measles elimination status, says agency](https://www.rte.ie/news/world/2025/1110/1543176-canada-measles/) (RTE)
-
-- [Canada loses measles elimination status | CBC](https://www.cbc.ca/news/health/livestory/canada-measles-elimination-status-9.6973195) (CBC News)
-
-- [Statement from the Public Health Agency of Canada on Canada’s Measles Elimination Status](https://www.canada.ca/en/public-health/news/2025/11/statement-from-the-public-health-agency-of-canada-on-canadas-measles-elimination-status.html) (Canada.ca)
-
-- [Seven-year-old dies of measles](https://www.israelnationalnews.com/news/417566) (Israelnationalnews.com)
-
-- [From birth to 5 years: Essential government-advised vaccines for children in India](https://m.economictimes.com/news/india/from-birth-to-5-years-essential-government-advised-vaccines-for-children-in-india/child-vaccination-schedule-india/slideshow/125223173.cms) (Economictimes.com)
-
-- [WA sees highest number of measles cases since 1997](https://www.abc.net.au/news/2025-11-10/measles-warning-issued-or-wa-south-west-and-great-southern/105981388) (ABC News (AU))
-
-- [Daily briefing: The Americas have lost their measles elimination status](https://www.nature.com/articles/d41586-025-03705-1) (Nature.com)
-
-## 25-46 (malaria)
-
-- [India Atorvastatin Industry Report 2025: Market Trends, Regional Insights, Competition, Forecast and Opportunities, 2020-2024 & 2025-2030](https://www.globenewswire.com/news-release/2025/11/14/3188404/28124/en/India-Atorvastatin-Industry-Report-2025-Market-Trends-Regional-Insights-Competition-Forecast-and-Opportunities-2020-2024-2025-2030.html) (GlobeNewswire)
-
-- [Field evaluation of ethnomedicinal plants’ smoke knockdown and repellent efficacy against pre-bedtime biting malaria vectors in Mazowe district, Zimbabwe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336943) (Plos.org)
-
-- [Team cracks mystery of malaria’s ‘dancing’ crystals](https://www.futurity.org/malaria-spinning-iron-crystals-3305132-2/) (Futurity: Research News)
-
-- [Want to eradicate malaria-bearing mosquitoes? Try fungus, this researcher says](https://phys.org/news/2025-11-eradicate-malaria-mosquitoes-fungus.html) (Phys.Org)
-
-- [Mass spectrometry-based metabolomics uncovers distinct metabolic signatures and potential therapeutic targets in Plasmodium knowlesi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337058) (Plos.org)
-
-- [Daily briefing: Greenhouse-gas emissions should peak by 2030, say researchers](https://www.nature.com/articles/d41586-025-03765-3) (Nature.com)
-
-- [2 new malaria treatments announced as drug resistance grows](https://www.bostonherald.com/2025/11/12/new-malaria-treatments/) (Boston Herald)
-
-- [2 new malaria treatments announced as drug resistance grows](https://abcnews.go.com/Business/wireStory/2-new-malaria-treatments-announced-drug-resistance-grows-127467674) (ABC News)
-
-- [On the Gates climate memo](https://skepticalscience.com/gates-climate-memo.html) (Skepticalscience.com)
-
-- [Novartis Phase III trial for next-generation malaria treatment KLU156 (GanLum) meets primary endpoint, with potential to combat antimalarial resistance](https://www.globenewswire.com/news-release/2025/11/12/3186868/0/en/Novartis-Phase-III-trial-for-next-generation-malaria-treatment-KLU156-GanLum-meets-primary-endpoint-with-potential-to-combat-antimalarial-resistance.html) (GlobeNewswire)
-
-- [New malaria drug could be a life-saver as the standard drug shows signs of weakness](https://www.npr.org/sections/goats-and-soda/2025/11/12/g-s1-97487/malaria-drug-new) (NPR)
-
-- [gnuhealth-mdg6 5.0.1](https://pypi.org/project/gnuhealth-mdg6/5.0.1/) (Pypi.org)
-
-- [snt-malaria-budgeting 0.4.1](https://pypi.org/project/snt-malaria-budgeting/0.4.1/) (Pypi.org)
-
-- [UK cuts funding to AIDS, tuberculosis and malaria project by £150m](https://news.sky.com/story/uk-cuts-funding-to-aids-tuberculosis-and-malaria-project-by-150m-13468997) (Sky.com)
-
-- [First new type of malaria treatment in decades shows promise against drug resistance](https://www.nature.com/articles/d41586-025-03690-5) (Nature.com)
-
-- [Lotta contro hiv, malaria, tubercolosi, "Italia rinnovi sostegno a Fondo Globale"](https://www.ansa.it/sito/videogallery/italia/2025/11/11/lotta-contro-hiv-malaria-tubercolosi-italia-rinnovi-sostegno-a-fondo-globale_5b58f4a7-3520-4746-adea-f73cb89fb4bd.html) (ANSA.it)
-
-- [UK pledges 850 million pounds for global disease fight](https://www.thestar.com.my/news/world/2025/11/11/uk-pledges-850-million-pounds-for-global-disease-fight) (The Star Online)
-
-- [Plasmodium actin-like proteins are essential for DNA segregation during male gametogenesis and malaria transmission](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013687) (Plos.org)
-
-- [Impact of malaria vector control interventions implemented in Luangwa District southeastern of Zambia: A 13-year observational time series analysis of malaria trends](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336099) (Plos.org)
-
-## 25-46 (leptospirosis)
-
-- [Rat fever cases up due to increased testing, no outbreak in Karnataka: Health department](https://timesofindia.indiatimes.com/city/bengaluru/rat-fever-cases-up-due-to-increased-testing-no-outbreak-in-karnataka-health-department/articleshow/125354663.cms) (The Times of India)
-
-- [CEBU PROVINCE NAGPADAYON SA PAG APOD-APOD SA MGA TAMBAL UG GAMIT PARA-MEDIKAL](https://rpnradio.com/cebu-province-nagpadayon-sa-pag-apod-apod-sa-mga-tambal-ug-gamit-para-medikal/) (Rpnradio.com)
-
-## 25-46 (hpai)
-
-- [USA: Nytt fugleinfluensavirus påvist hos menneske for første gang](https://www.nrk.no/nyheter/usa_-nytt-fugleinfluensavirus-pavist-hos-menneske-for-forste-gang-1.17654300) (NRK)
-
-- [Mice Test Positive For Bird Flu](https://www.shtfplan.com/headline-news/mice-test-positive-for-bird-flu) (Shtfplan.com)
-
-- [Six Grant County Mice Test Positive for Bird Flu, Health Officials Urge Precautions](https://www.yoursourceone.com/columbia_basin/six-grant-county-mice-test-positive-for-bird-flu-health-officials-urge-precautions/article_52abbfe2-f1bd-4f54-916d-e64a7f218e3c.html) (Yoursourceone.com)
-
-- [楽天と日本HP、「Rakuten AI for Desktop」で協業 目指すハイブリッドAIの狙い](https://k-tai.watch.impress.co.jp/docs/news/2062321.html) (Impress.co.jp)
-
-## 25-46 (h5n1)
-
-- [Gripe aviaria provoca desaparición masiva de elefantes marinos en isla subantártica](https://www.nacion.com/ciencia/gripe-aviaria-provoca-desaparicion-masiva-de/XUX3GUCF4VG35ABTKY5AH35GNA/story/) (Nacion.com)
-
-- [Washington resident is infected with a different type of bird flu](https://richmond.com/life-entertainment/nation-world/wellness/article_5813a25b-797c-5b1b-8cfd-5ad3a96b7c2d.html) (Richmond.com)
-
-- [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.tagesspiegel.de/potsdam/brandenburg/markisch-oderland-weiterer-ausbruch-von-vogelgrippe-in-brandenburg-14851724.html) (Der Tagesspiegel)
-
-- [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.zeit.de/news/2025-11/15/weiterer-ausbruch-von-vogelgrippe-in-brandenburg) (Die Zeit)
-
-- [Märkisch-Oderland: Weiterer Ausbruch von Vogelgrippe in Brandenburg](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/maerkisch-oderland--weiterer-ausbruch-von-vogelgrippe-in-brandenburg-36551564.html) (STERN.de)
-
-- [Seuche: Seeelefanten im Südatlantik sterben an Vogelgrippe](https://www.tagesspiegel.de/wissen/seuche-seeelefanten-im-sudatlantik-sterben-an-vogelgrippe-14848430.html) (Der Tagesspiegel)
-
-- [Seuche: Seeelefanten im Südatlantik sterben an Vogelgrippe](https://www.stern.de/panorama/wissen/seuche--seeelefanten-im-suedatlantik-sterben-an-vogelgrippe-36550436.html) (STERN.de)
-
-- [Control zones in place over bird flu outbreak near Lanark](https://www.bbc.com/news/articles/cz0xzdz34m8o) (BBC News)
-
-- [La gripe aviar H5N1 desata una masacre en la Antártida: la mitad de las focas hembras han desaparecido ya](https://www.xataka.com/ecologia-y-naturaleza/gripe-aviar-h5n1-desata-masacre-antartida-mitad-focas-hembras-han-desaparecido) (Xataka.com)
-
-- [La gripe aviar fulmina a la mayor población de elefantes marinos del planeta](https://www.meneame.net/m/ciencia/gripe-aviar-fulmina-mayor-poblacion-elefantes-marinos-planeta) (Meneame.net)
-
-- [La gripe aviar agrava la crisis de precios del huevo, que acumula un alza del 22% en un año](https://www.abc.es/economia/gripe-aviar-agrava-crisis-precios-huevo-acumula-20251114132031-nt.html) (Www.abc.es)
-
-- [Další ohnisko ptačí chřipky. Testy potvrdily nákazu v chovu kachen na Nymbursku](https://www.idnes.cz/praha/zpravy/ptaci-chripka-ohnisko-nymburk-nouzov-komercni-chov-kachny.A251113_174108_praha-zpravy_syko) (Idnes.cz)
-
-- [Así evoluciona la expansión de la gripe aviar que ha obligado a confinar las granjas de aves en toda España](https://www.eldiario.es/sociedad/evoluciona-expansion-gripe-aviar-obligado-confinar-granjas-aves-espana_1_12765698.html) (Eldiario.es)
-
-- [Ohnisko ptačí chřipky u Lanškrouna pomáhá likvidovat také dvacet vězňů](https://www.novinky.cz/clanek/domaci-zpravy-pardubicky-kraj-ohnisko-ptaci-chripky-u-lanskrouna-pomaha-likvidovat-take-dvacet-veznu-40548607) (Novinky.cz)
-
-- [Vogelgrippe: Deutschlands Flickenteppich im Seuchenschutz](https://www.telepolis.de/article/Vogelgrippe-Deutschlands-Flickenteppich-im-Seuchenschutz-11073757.html) (Telepolis.de)
-
-- [Lo que sabemos sobre la gripe aviar H5N1 en España: qué ha cambiado en las últimas semanas y qué riesgo corremos](https://www.eldiario.es/sociedad/gripe-aviar-h5n1-espana-cambiado-ultimas-semanas-riesgo-corremos_1_12762248.html) (Eldiario.es)
-
-- [Járvány Szentesen, több mint negyvenezer hízópulykát mészárolnak le](https://index.hu/belfold/2025/11/12/csongrad-csanad-varmegye-szentes-madarinfluenza-jarvany-nebih-hizopulyka/) (Index.hu)
-
-- [Týdenním kachňatům nic není, litoval při likvidaci velkochovu s ptačí chřipkou šéf farmy](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-tydennim-kachnatum-nic-neni-litoval-pri-likvidaci-velkochovu-s-ptaci-chripkou-sef-farmy-40548483) (Novinky.cz)
-
-- [Bird Flu Surges Across The U.S. As Scientists Warn of Gaps in Monitoring and Farm Safety](https://www.shtfplan.com/health/bird-flu-surges-across-the-u-s-as-scientists-warn-of-gaps-in-monitoring-and-farm-safety) (Shtfplan.com)
-
-- [Bird Flu Panic Leads to Court-Order Mass Execution of Ostriches at Canadian Farm](https://legalinsurrection.com/2025/11/bird-flu-panic-leads-to-court-order-mass-execution-of-ostriches-at-canadian-farm/) (Legalinsurrection.com)
-
-- [Vogelgrippe bei Haustieren: Das sollten Katzenhalter jetzt wissen](https://www.chip.de/news/haustiere/vogelgrippe-bei-haustieren-das-sollten-katzenhalter-jetzt-wissen_929d7874-fd0a-4749-a2a0-1baece4bb5c8.html) (CHIP Online Deutschland)
-
-- [Suomessa on löydetty lyhyessä ajassa useita kuolleita laulujoutsenia – asiantuntija: ”Se on nyt vähän poikkeuk­sellista”](https://yle.fi/a/74-20193529) (YLE News)
-
-- [Ecology and spread of the North American H5N1 epizootic](https://www.nature.com/articles/s41586-025-09737-x) (Nature.com)
-
-- [Kvůli ptačí chřipce přijde farma z Třebíčska o 20 tisíc kachen. Pravidla jsme neporušili, brání se majitel](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-kvuli-ptaci-chripce-prijde-farma-z-trebicska-o-20-tisic-kachen-pravidla-jsme-neporusili-brani-se-majitel-40548378) (Novinky.cz)
-
-- [Hécatombe de grues cendrées causée par l’influenza aviaire : au lac du Der, «c’est sans précédent»](https://www.liberation.fr/environnement/biodiversite/hecatombe-de-grues-cendrees-causee-par-linfluenza-aviaire-au-lac-du-der-cest-sans-precedent-20251111_2WNJW5HBIBHFTFNWM4RBEE6HFU/) (Libération)
-
-- [Third outbreak of highly contagious bird flu confirmed in Irish turkey flock](https://www.independent.ie/irish-news/third-outbreak-of-highly-contagious-bird-flu-confirmed-in-irish-turkey-flock/a84803689.html) (Independent.ie)
-
-- [Tierseuche: Nun auch Vogelgrippe-Fall am Bodensee](https://www.zeit.de/news/2025-11/10/nun-auch-vogelgrippe-fall-am-bodensee) (Die Zeit)
-
-- [Geflügelpest: Stallpflicht nach H5N1-Ausbruch - gut 90 Hühner tot](https://www.zeit.de/news/2025-11/10/stallpflicht-nach-h5n1-ausbruch-gut-90-huehner-tot) (Die Zeit)
-
-- [Geflügelpest: Stallpflicht nach H5N1-Ausbruch - gut 90 Hühner tot](https://www.stern.de/gesellschaft/regional/bayern/gefluegelpest--stallpflicht-nach-h5n1-ausbruch---gut-90-huehner-tot-36311398.html) (STERN.de)
-
-- [Viisitoista lintua on kuollut lintuinfluenssaan Virolahdella – Ruokavirasto: Poikkeuksellisen laaja tapaus](https://yle.fi/a/74-20193201) (YLE News)
-
-- [Comparative evaluation of different transport media for H5N1 highly pathogenic avian influenza virus](https://www.nature.com/articles/s41598-025-15987-6) (Nature.com)
-
-## 25-46 (dengue)
-
-- [An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains](https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/) (Wired)
-
-- [Farah Khan gets awed by Nikki Tamboli-Arbaz Patel’s love story: ‘I had to Google him …’](https://economictimes.indiatimes.com/magazines/panache/farah-khan-gets-awed-by-nikki-tamboli-arbaz-patels-love-story-i-had-to-google-him-/articleshow/125340299.cms) (The Times of India)
-
-- [Dengue Fever Global Clinical Trials Market Review 2025 | Now Available](https://www.globenewswire.com/news-release/2025/11/14/3188132/28124/en/Dengue-Fever-Global-Clinical-Trials-Market-Review-2025-Now-Available.html) (GlobeNewswire)
-
-- [Arbovirosis, la epidemia que azota Cuba y avanza sin control: «Se está enterrando gente de noche, como en la pandemia»](https://www.lavozdegalicia.es/noticia/sociedad/2025/11/13/cuba-azotada-epidema-virus-avanza-control/00031763038010971184545.htm) (Lavozdegalicia.es)
-
-- [Ciudad Obregón: Padres y escuela financian fumigación tras casos de dengue por falta de respuesta oficial](https://www.tribuna.com.mx/sonora/2025/11/13/ciudad-obregon-padres-escuela-financian-fumigacion-tras-casos-de-dengue-por-falta-de-respuesta-oficial-419425.html) (Tribuna.com.mx)
-
-- [Brasil pode ter 1,8 milhão de novos casos de dengue em 2026](https://saude.ig.com.br/2025-11-13/brasil-pode-ter-1-8-milhao-casos-dengue-2026.html) (Ig.com.br)
-
-- [Structure guided design and molecular modelling of a novel peptide–SWCNT biosensor targeting NS1 dengue virus](https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra04799d) (Royal Society of Chemistry)
-
-- [Cuba califica de "epidemia" el brote nacional de casos de chikunguña, dengue y oropouche](https://www.meneame.net/m/actualidad/cuba-califica-epidemia-brote-nacional-casos-chikunguna-dengue) (Meneame.net)
-
-- [Keeping yellow fever out of S’pore is one top priority for new Communicable Diseases Agency](https://www.straitstimes.com/singapore/health/keeping-yellow-fever-out-of-spore-is-one-top-priority-for-new-communicable-diseases-agency) (The Straits Times)
-
-- [Niegan muertes por dengue en Sonora; Secretaría de Salud aún no confirma defunciones](https://www.tribuna.com.mx/sonora/2025/11/11/niegan-muertes-por-dengue-en-sonora-secretaria-de-salud-aun-no-confirma-defunciones-419178.html) (Tribuna.com.mx)
-
-- [Mujeres en la ciencia: quiénes son las argentinas premiadas por sus investigaciones para salvar cultivos y frenar el dengue](https://www.lanacion.com.ar/sociedad/mujeres-en-la-ciencia-quienes-son-las-argentinas-premiadas-por-sus-investigaciones-para-salvar-nid11112025/) (La Nacion)
-
-- [Dengue virus NS1 protein does not activate TLR4 and has a modest effect on endothelial monolayer integrity compared to TNF](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013695) (Plos.org)
-
-- [Dengue cases continue to rise, 182 new infections reported in a week](https://english.khabarhub.com/2025/11/505496/) (Khabarhub.com)
-
-- [Baglung Dengue Surge](https://nep123.com/baglung-dengue-surge/) (Nep123.com)
-
-- [532 dengue cases reported in Baglung district](https://english.khabarhub.com/2025/11/505445/) (Khabarhub.com)
-
-- [Alerta en Guaymas: Dengue supera los mil casos, con fumigaciones y cercos epidemiológicos](https://www.tribuna.com.mx/sonora/2025/11/10/alerta-en-guaymas-dengue-supera-los-mil-casos-con-fumigaciones-cercos-epidemiologicos-419074.html) (Tribuna.com.mx)
-
-- [Dengue: disinfestazione contro le zanzare a Dhaka](https://www.ansa.it/sito/photogallery/primopiano/2025/11/10/dengue-disinfestazione-contro-le-zanzare-a-dhaka_0c29ce05-2dc7-4a2e-adcb-00e36a06ea55.html) (ANSA.it)
-
-- [Luto en Ciudad Obregón: Reportan fallecimiento de querido docente por dengue; casos, al alza](https://www.tribuna.com.mx/seguridad/2025/11/10/luto-en-ciudad-obregon-reportan-fallecimiento-de-querido-docente-por-dengue-casos-al-alza-419003.html) (Tribuna.com.mx)
-
-- [Alerta en Bácum: Reportan la muerte de niña a causa de dengue](https://www.tribuna.com.mx/sonora/2025/11/10/alerta-en-bacum-reportan-la-muerte-de-nina-causa-de-dengue-419009.html) (Tribuna.com.mx)
-
-- [Dengue en México: Se reportan más de mil casos en una semana](https://www.excelsior.com.mx/nacional/dengue-en-mexico-se-reportan-mas-de-mil-casos-en-una-semana/1750650) (Excelsior.com.mx)
-
-- [El cambio climático afecta la salud de millones de personas y se requiere acción urgente](https://www.nacion.com/el-pais/el-cambio-climatico-afecta-la-salud-de-millones-de/DLD3HCY6AJBHNG34YAAPFI7LOA/story/) (Nacion.com)
-
-- [Climate change makes dengue perennial from seasonal in Goa](https://timesofindia.indiatimes.com/city/goa/climate-change-makes-dengue-perennial-from-seasonal-in-goa/articleshow/125208319.cms) (The Times of India)
-
-## 25-46 (chikungunya)
-
-- [Asl Bari, 'accertati due casi di virus Chikungunya'](https://www.ansa.it/puglia/notizie/2025/11/11/asl-bari-accertati-due-casi-di-virus-chikungunya_02a96b8a-4378-4235-b630-d5a9fa11daaa.html) (ANSA.it)
-
-- [IPN desarrolla vacunas contra chikungunya y fiebre amarilla](https://www.excelsior.com.mx/salud/ipn-desarrolla-vacunas-contra-chikungunya-y-fiebre-amarilla/1750849) (Excelsior.com.mx)
-
-- [Author Correction: Global burden of chikungunya virus infections and the potential benefit of vaccination campaigns](https://www.nature.com/articles/s41591-025-04065-z) (Nature.com)
