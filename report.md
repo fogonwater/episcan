@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-12-28 07:08
-- **Most recent article:** 2025-12-27 03:53:23
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-12-28 19:06
+- **Most recent article:** 2025-12-27 17:54:38
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 26 | 18 | 15 | 45 | 38 | 28 | 170 |
-| dengue | 13 | 35 | 19 | 34 | 26 | 10 | 137 |
+| measles | 24 | 18 | 15 | 45 | 38 | 31 | 171 |
+| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 138 |
 | malaria | 12 | 17 | 26 | 17 | 19 | 12 | 103 |
-| h5n1 | 20 | 29 | 13 | 10 | 15 | 8 | 95 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 17 | 68 |
-| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 54 |
+| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 96 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 71 |
+| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 53 |
 | chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 42 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 20 |
 | zika | 1 | 2 | 6 | 6 | 2 | 3 | 20 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 4 | 19 |
+| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 18 |
 | yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| pertussis | 3 | 6 | 5 | 2 | 0 | 1 | 17 |
 | leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 14 |
 | hpai | 2 | 1 | 2 | 5 | 1 | 2 | 13 |
 | typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 7 |
@@ -45,6 +45,12 @@ Source: [News API](https://newsapi.org/)
 - [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
 
 ## 25-52 (rabies)
+
+- [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
+
+- [Indian Immunologicals writes to Australian health authorities about counterfeit rabies vaccine](https://www.thehindubusinessline.com/news/indian-immunologicals-writes-to-australian-health-authorities-about-counterfeit-rabies-vaccine/article70442960.ece) (BusinessLine)
+
+- [Abhayrab rabies vaccine: IIL says counterfeit batch no longer available](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/abhayrab-rabies-vaccine-iil-says-counterfeit-batch-no-longer-available/articleshow/126201186.cms) (The Times of India)
 
 - [Can you stop rabies before it reaches the brain?](https://www.lifesciencesworld.com/can-you-stop-rabies-before-it-reaches-the-brain/) (Lifesciencesworld.com)
 
@@ -82,6 +88,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (pertussis)
 
+- [Whooping Cough Symptoms: Spot Pertussis & Child Coughing Fits Early Before It's Too Late](https://www.medicaldaily.com/whooping-cough-symptoms-spot-pertussis-child-coughing-fits-early-before-its-too-late-474104) (Medical Daily)
+
 - [Research: Pertussis: laboratory confirmed cases reported in England 2024](https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2024) (Www.gov.uk)
 
 ## 25-52 (mpox)
@@ -98,6 +106,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (meningitis)
 
+- [Depew High School senior barred from school over vaccine](https://buffalonews.com/news/local/article_06830d67-2599-410b-a6ed-ad40d9621756.html) (Buffalo News)
+
 - [Critical illness claim rejected by insurer? Here's what you can do](https://www.livemint.com/money/personal-finance/critical-illness-claim-rejection-insurance-policy-insurance-ombudsman-11766651971140.html) (Livemint)
 
 - [Metatranscriptomic Identification of Trubanaman Virus Sequences in Patient with Encephalitis, Australia](https://wwwnc.cdc.gov/eid/article/31/12/25-1190_article) (Cdc.gov)
@@ -107,6 +117,12 @@ Source: [News API](https://newsapi.org/)
 - [Ana perdió la memoria tras despertarse del coma: «Tuve que volver a enamorarme de mi marido y reaprender a ser madre»](https://www.lavozdegalicia.es/noticia/yes/2025/12/20/volver-enamorarme-marido-reaprender-madre/0003_202512SY20P10991.htm) (Lavozdegalicia.es)
 
 ## 25-52 (measles)
+
+- [Massachusetts Public Health Officials alert residents about potential exposure to measles in multiple locations as cases increase nationwide - NewsBreak](https://www.newsbreak.com/share/4414631085179-massachusetts-public-health-officials-alert-residents-about-potential-exposure-to-measles-in-multiple-locations-as-cases-increase-nationwide?_f=app_share&amp;pd=06vkfAbG&amp;lang=en_US&amp;send_time=1766858050&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.14.0.43%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2) (Newsbreak.com)
+
+- [New SC measles cases linked to school exposure](https://www.wsoctv.com/news/local/new-sc-measles-cases-linked-school-exposure/4FVMFSM4LFAS3ASDNSCLSJMTZI/) (WSOC Charlotte)
+
+- [Health officials warn of measles exposure at Newark Liberty International Airport](https://newjersey.news12.com/health-officials-warn-of-measles-exposure-at-newark-liberty-international-airport) (News12.com)
 
 - [‘Cholera, Lassa fever, others killed 1,738 in 2025’](https://punchng.com/cholera-lassa-fever-others-killed-1738-in-2025/) (The Punch)
 
@@ -204,6 +220,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-52 (h5n1)
 
+- [Forscher modellieren Vogelgrippe-Pandemie bei Menschen – „Gefahr ist real“](https://www.morgenpost.de/ratgeber-wissen/article410775029/forscher-modellieren-vogelgrippe-pandemie-bei-menschen-gefahr-ist-real.html) (Berliner Morgenpost)
+
+- [El riesgo de la gripe aviar en vacas lecheras y su amenaza para Europa](https://www.gastronomiaycia.com/el-riesgo-de-la-gripe-aviar-en-vacas-lecheras-y-su-amenaza-para-europa/) (Gastronomiaycia.com)
+
 - [Hasičům pomáhají s likvidací nakaženého velkochovu slepic na Havlíčkobrodsku i vězni](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-hasicum-pomahaji-s-likvidaci-nakazeneho-velkochovu-slepic-na-havlickobrodsku-i-vezni-40554696) (Novinky.cz)
 
 - [De la peste porcina a la gripe aviar: Cataluña se enfrenta a dos peligrosos brotes víricos de consecuencias inciertas](https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html) (Elespanol.com)
@@ -221,6 +241,8 @@ Source: [News API](https://newsapi.org/)
 - [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
 
 ## 25-52 (dengue)
+
+- [La semFYC reclama planes de preparación ante epidemias: gripe aviar, H7 y dengue, bajo vigilancia](https://www.infosalus.com/actualidad/noticia-semfyc-reclama-planes-preparacion-epidemias-gripe-aviar-h7-dengue-vigilancia-20251227085017.html) (Infosalus.com)
 
 - [Allarme chikungunya: quasi 50mila casi e 34 decessi, ecco i sintomi da non sottovalutare. L’esperto: “Può essere grave per anziani e bambini”](https://www.ilfattoquotidiano.it/2025/12/26/allarme-chikungunya-quasi-50mila-casi-e-34-decessi-ecco-i-sintomi-da-non-sottovalutare-lesperto-puo-essere-grave-per-anziani-e-bambini/8238547/) (Ilfattoquotidiano.it)
 
@@ -1570,8 +1592,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
-- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
-
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1629,10 +1649,6 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
-
-- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
-
-- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1709,8 +1725,6 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
-
-- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
