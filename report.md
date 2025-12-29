@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-12-28 19:06
-- **Most recent article:** 2025-12-27 17:54:38
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-12-29 07:12
+- **Most recent article:** 2025-12-28 06:47:25
 
 ---
 
@@ -10,27 +10,41 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 24 | 18 | 15 | 45 | 38 | 31 | 171 |
-| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 138 |
-| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 103 |
-| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 96 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 71 |
-| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 53 |
-| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 42 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 20 |
-| zika | 1 | 2 | 6 | 6 | 2 | 3 | 20 |
-| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 18 |
-| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 18 |
-| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 14 |
-| hpai | 2 | 1 | 2 | 5 | 1 | 2 | 13 |
-| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 7 |
+| Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 26 | 18 | 15 | 45 | 38 | 31 | 2 | 175 |
+| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 1 | 139 |
+| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 0 | 103 |
+| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 0 | 97 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 0 | 71 |
+| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 54 |
+| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 0 | 42 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 0 | 20 |
+| zika | 1 | 2 | 6 | 6 | 2 | 3 | 0 | 20 |
+| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 1 | 19 |
+| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 0 | 18 |
+| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 0 | 14 |
+| hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 13 |
+| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-53 (yersinia)
+
+- [[Перевод] Как древняя чума изменила человечество 5000 лет назад](https://habr.com/ru/articles/963048/#post-content-body) (Habr.com)
+
+## 25-53 (measles)
+
+- [Newark Airport passenger may have exposed others to measles, New Jersey Health Department says](https://abc7ny.com/post/newark-airport-passenger-may-have-exposed-others-measles-new-jersey-health-department-says/18325181/) (WABC-TV)
+
+- [N.J. health officials warn of potential measles exposures at Newark Liberty Airport. Here's what we know.](https://www.cbsnews.com/newyork/news/newark-liberty-airport-terminal-b-and-c-measles-exposure/) (CBS News)
+
+## 25-53 (dengue)
+
+- [Singapore sees lowest annual dengue cases since 2018](https://www.straitstimes.com/singapore/health/dengue-cases-in-spore-hit-7-year-low-in-2025-amid-global-decrease) (The Straits Times)
 
 ## 25-52 (zika)
 
@@ -1592,6 +1606,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
+- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
+
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1649,6 +1665,10 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
+
+- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
+
+- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1725,6 +1745,8 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
+
+- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 

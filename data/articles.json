@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-12-28 19:06",
-  "count_articles_total": 744,
-  "count_articles_new": 11,
+  "last_updated": "2025-12-29 07:12",
+  "count_articles_total": 752,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 26508,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Habr.com",
+      "author": "PatientZero",
+      "title": "[\u041f\u0435\u0440\u0435\u0432\u043e\u0434] \u041a\u0430\u043a \u0434\u0440\u0435\u0432\u043d\u044f\u044f \u0447\u0443\u043c\u0430 \u0438\u0437\u043c\u0435\u043d\u0438\u043b\u0430 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u043e 5000 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434",
+      "description": "\u0423 \u0438\u0441\u0442\u043e\u0440\u0438\u043a\u043e\u0432, \u0438\u0437\u0443\u0447\u0430\u044e\u0449\u0438\u0445 \u0431\u043e\u043b\u0435\u0437\u043d\u0438, \u0432\u043e\u0437\u043d\u0438\u043a\u043b\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430. \u041f\u0440\u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0438 \u043e\u0431\u0440\u0430\u0437\u0446\u043e\u0432 \u0414\u041d\u041a \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0433\u0435\u043d\u0435\u0442\u0438\u043a\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0433\u0435\u043d\u044b, \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u0435 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0438 \u0447\u0443\u043c\u044b Yersinia pestis, \u0438 \u044d\u0442\u043e \u043e\u0437\u043d\u0430\u0447\u0430\u043b\u043e, \u0447\u0442\u043e \u0435\u0451 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0430 \u0432 \u0415\u0432\u0440\u0430\u0437\u0438\u0438 \u043f\u044f\u0442\u044c \u0442\u044b\u0441\u044f\u0447 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434. \u0422\u043e \u0435\u0441\u0442\u044c \u043f\u043e\u0447\u0442\u0438 \u0437\u0430\u2026",
+      "url": "https://habr.com/ru/articles/963048/#post-content-body",
+      "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/3c4/f9e/800/3c4f9e800b78d7c42167a4fd74eee0f5.jpeg",
+      "publishedAt": "2025-12-28 06:47:25",
+      "content": ", , . , Yersinia pestis, , . 3500 \u00ab \u00bb, . \u00ab\u00bb ? (Late Neolithic-Bronze Age, LNBA), . . , , . , , . , , , . , , , . , . ? , ? , ? , , \u00ab \u00bb. , . . , , . , . , , , , . . 1300 35 . , , . Y. pestis , ,\u2026 [+843 chars]",
+      "retrievedAt": "2025-12-29 07:12:12.141564",
+      "internal_id": "5c7576d52f5c68977dacfb20086c2498b41d68a64e622af12ba940dd961e19a6",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26507,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Singapore sees lowest annual dengue cases since 2018",
+      "description": "Singapore records its lowest annual dengue cases since 2018, attributed to Project Wolbachia and growing herd immunity. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/dengue-cases-in-spore-hit-7-year-low-in-2025-amid-global-decrease",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/4ce7d6c2a7713344eec163dfa472c951b84ce68cef1d4b68c4bd4b5f14e1a8ae",
+      "publishedAt": "2025-12-28 06:42:00",
+      "content": "SINGAPORE Dengue cases in Singapore are at their lowest in seven years, with about 4,000 cases recorded so far in 2025, according to data from the National Environment Agency (NEA). There were 3,99\u2026 [+4220 chars]",
+      "retrievedAt": "2025-12-29 07:12:10.978521",
+      "internal_id": "66dbd4b4bdd1b8e6666f25508851f4c21e3b7fc3de9ba5c3e68401a0c1b506bc",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26506,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Eyewitness News",
+      "title": "Newark Airport passenger may have exposed others to measles, New Jersey Health Department says",
+      "description": "New Jersey's Health Department says someone with the disease passed through the airport on Friday, December 19.",
+      "url": "https://abc7ny.com/post/newark-airport-passenger-may-have-exposed-others-measles-new-jersey-health-department-says/18325181/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18325163_122725-newark-measles.jpg?w=1600",
+      "publishedAt": "2025-12-28 01:01:08",
+      "content": "NEWARK, New Jersey (WABC) -- A passenger at Newark Airport may have exposed people to measles. New Jersey's Health Department says someone with the disease passed through the airport on Friday, Dece\u2026 [+837 chars]",
+      "retrievedAt": "2025-12-29 07:12:10.073306",
+      "internal_id": "248fcac64df2e3bbc849ace313510c3b218c6fa57ba3a446b3f017505700c7d3",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26505,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jeff Capellini",
+      "title": "N.J. health officials warn of potential measles exposures at Newark Liberty Airport. Here's what we know.",
+      "description": "New Jersey state health officials are warning of potential measles exposures at Newark Liberty International Airport before Christmas.",
+      "url": "https://www.cbsnews.com/newyork/news/newark-liberty-airport-terminal-b-and-c-measles-exposure/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/17/8ffb075e-e75a-4920-b898-fb847fec0165/thumbnail/1200x630/a4325a2647831f3af592327be3568afc/cbsn-fusion-south-carolina-confirms-138-cases-of-measles-thumbnail.jpg",
+      "publishedAt": "2025-12-28 00:46:53",
+      "content": "New Jersey state health officials are warning of potential measles exposures at Newark Liberty International Airport. The state Department of Health says a passenger, who doesn't live in the Garden \u2026 [+1140 chars]",
+      "retrievedAt": "2025-12-29 07:12:10.043488",
+      "internal_id": "4120aa2e6863e08afa8d0f9d9b4965ea8ce7ad0bf284a8c2c8d75d6749cf0c8d",
+      "publishedAtLabel": "Dec 28"
+    },
     {
       "id": 26500,
       "query": [
@@ -13434,6 +13506,78 @@
       "retrievedAt": "2025-11-18 07:07:49.821331",
       "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
       "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25759,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0427\u0435\u0445\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u044f\u0442\u044b\u0439 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u043e\u0447\u0430\u0433 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442 \u043e\u043a\u043e\u043b\u043e 2,5 \u0442\u044b\u0441. \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0442\u043e\u043a",
+      "url": "https://tass.ru/obschestvo/25640213",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/25640213?u=2025-11-16T16:46:36.209427",
+      "publishedAt": "2025-11-16 16:46:36",
+      "content": "2,5 . , 16 . //. . TK. H5N1 . 2,5 . . . 2017 - 27 . 60 . . 2025 . . 70 . .",
+      "retrievedAt": "2025-11-17 19:06:08.510196",
+      "internal_id": "33b8561c19f9d423be1b7a2e862dbd4d05f40b6a1ebf6c398fb7a44a0805f322",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25758,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles patient exposes masses at Bnei Brak event hall",
+      "description": "Health Ministry calls on anyone who attended an event at Keter Harimon in Bnei Brak to check vaccination status, call Ministry hotline.",
+      "url": "https://www.israelnationalnews.com/news/417861",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1081194.jpg",
+      "publishedAt": "2025-11-16 15:48:23",
+      "content": "Israel's Health Ministry on Sunday reported that a measles patient was present at an event held last Tuesday in the Keter Harimon hall on Aharonowitz Street 10 in Bnei Brak. The event took place sta\u2026 [+1691 chars]",
+      "retrievedAt": "2025-11-17 19:06:08.015769",
+      "internal_id": "a941f9949b7ed9cb94ba217e94853e6891be391f65f0c871fbbdf1404f6b284c",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25757,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)",
+      "description": "Joseph Choi / The Hill: Canada loses its measles elimination status, and the US is close behind \u2014 Canada has lost its measles elimination status nearly three decades after it achieved the distinction, under circumstances that closely resemble what's happene\u2026",
+      "url": "https://www.memeorandum.com/251116/p7",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/11/Measles_Choi_Getty_GeoffRobins.jpg?w=1280",
+      "publishedAt": "2025-11-16 14:00:32",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-11-17 19:06:07.996327",
+      "internal_id": "07adddd97e906d5c444938413ce942ccc6407c9f32a4bb4893c6c61f7feef405",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Govt confirms new mpox cluster involving four relatives",
+      "description": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/16/3624949.jpg",
+      "publishedAt": "2025-11-16 09:32:00",
+      "content": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. In a s\u2026 [+2458 chars]",
+      "retrievedAt": "2025-11-17 19:06:09.945635",
+      "internal_id": "57b76656a83acc5313959c011a246c509f937b0e375a1f34b432088925b605ab",
+      "publishedAtLabel": "Nov 16"
     }
   ]
 }
