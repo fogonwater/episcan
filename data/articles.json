@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-12-31 07:10",
-  "count_articles_total": 774,
-  "count_articles_new": 8,
+  "last_updated": "2025-12-31 19:06",
+  "count_articles_total": 779,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 26534,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Jake Anderson",
+      "title": "Nebraska confirmed case of measles reported by officials",
+      "description": "The measles case involves an unvaccinated child with an out-of-state travel history in Arizona, the Nebraska Department of Health and Human Services said.",
+      "url": "https://www.ketv.com/article/nebraska-confirmed-measles-case-platte-county-columbus/69888372",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-0124-6830e344af2d5.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-12-30 18:26:10",
+      "content": "SPRINGFIELD, Neb. \u2014A confirmed case of measles in Nebraska was reported by health officials Tuesday. The case in Platte County involves an unvaccinated child with an out-of-state travel history in A\u2026 [+1005 chars]",
+      "retrievedAt": "2025-12-31 19:06:23.501025",
+      "internal_id": "2a802783ab703d3403b3d91b990e8257c489b32cae9b11152012bb648025019e",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26535,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KLKN",
+      "author": "Nolan Dorn",
+      "title": "Nebraska health department reports case of measles in Platte County",
+      "description": "The East Central District Health Department reported a confirmed case of measles in Platte County on Tuesday.",
+      "url": "https://www.klkntv.com/nebraska-health-department-reports-case-of-measles-in-platte-county/",
+      "urlToImage": "https://www.klkntv.com/content/uploads/2025/12/m/k/mgn-1280x720-21229p00-chnph.jpg",
+      "publishedAt": "2025-12-30 18:13:59",
+      "content": "Allison M. Maiuri / CDC LINCOLN, Neb. (KLKN) \u2013 The East Central District Health Department reported a confirmed case of measles in Platte County on Tuesday. In a press release, officials said the \u2026 [+749 chars]",
+      "retrievedAt": "2025-12-31 19:06:23.534342",
+      "internal_id": "1df2902a6e1939412f159ff664cc29fef2c54e53e66f2bd9e7f1e708959398d5",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26539,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Mohammed Odwan",
+      "title": "Disease risks rise in Gaza as official warns of leptospirosis among displaced",
+      "description": "GAZA, Dec. 30 (Xinhua) -- A Palestinian medical official on Tuesday warned of the spread of leptospirosis among displaced people living in tents across the Gaza Strip. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-12-30 18:08:00",
+      "content": "GAZA, Dec. 30 (Xinhua) -- A Palestinian medical official on Tuesday warned of the spread of leptospirosis among displaced people living in tents across the Gaza Strip. Bassam Zaqout, director of me\u2026 [+2229 chars]",
+      "retrievedAt": "2025-12-31 19:06:26.403275",
+      "internal_id": "3d8f89b947299697856c13e15a80ab3b221c1f3553a2c610f61445c4ffa08d06",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26533,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health unit in northwestern Ontario confirms measles case, capping a year of alarming rise in Canadian cases",
+      "description": "The Northwestern Health Unit has confirmed a case of measles in the Kenora area of northwestern Ontario, in a year that saw an alarming rise in cases in Canada and the country lost its measles elimination status.",
+      "url": "https://www.cbc.ca/news/health/northwestern-health-unit-confirms-measles-case-in-a-year-canada-saw-alarming-rise-in-numbers-9.7030205",
+      "urlToImage": "https://i.cbc.ca/ais/1.7478844,1760798761398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620",
+      "publishedAt": "2025-12-30 18:04:22",
+      "content": "The Northwestern Health Unit has confirmed its first case of measles in the region since an alarming rise in the spread of the disease began across the province and country even leading to temporary \u2026 [+2214 chars]",
+      "retrievedAt": "2025-12-31 19:06:23.426979",
+      "internal_id": "e12163d53cee6594b0774d77d28ed4a719621c3bff86d6ca12647fadd7916b01",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26532,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "As Measles Cases Top 2,000, the U.S. Is on Brink of Losing Its Elimination Status",
+      "description": "At least three people have died from the vaccine-preventable infection, while hundreds have been hospitalized.",
+      "url": "https://gizmodo.com/as-measles-cases-top-2000-the-u-s-is-on-brink-of-losing-its-elimination-status-2000704258",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/measlesrash-1200x675.jpg",
+      "publishedAt": "2025-12-30 16:45:02",
+      "content": "2025 has proven to be a nightmare year for measles, with the U.S. reaching a toll not seen in decades. According to the latest data from the Center for Disease Control and Prevention, there have bee\u2026 [+3102 chars]",
+      "retrievedAt": "2025-12-31 19:06:23.408358",
+      "internal_id": "424c17041a98da01a3e74ca41d8667cb2c1966d81d2ef8324a1b88790626f0c3",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26531,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Asuka Koda",
+      "title": "Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options",
+      "description": "For the second year in a row, the US has surpassed 25,000 whooping cough cases \u2014 another sign of the risks of falling vaccination levels.",
+      "url": "https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25114661539458.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-12-30 12:54:33",
+      "content": "For the second year in a row, the US has surpassed 25,000 whooping cough cases another sign of the risks of falling vaccination levels. Often called the 100-day cough, whooping cough or pertussis be\u2026 [+8731 chars]",
+      "retrievedAt": "2025-12-31 19:06:22.443627",
+      "internal_id": "fe4c00359e6800e89834bed2e7a4042fb0a40d9fa4699c5b27f40cb1f995d648",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26536,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PerthNow",
+      "author": "Perthnow",
+      "title": "Health alert as traveller inflected with measles visits urgent care clinic in Perth\u2019s south",
+      "description": "WA Health issued an alert on Tuesday that there had been another case of a highly infection disease diagnosed in the State.",
+      "url": "https://www.perthnow.com.au/news/public-health/health-alert-as-traveller-inflected-with-measles-visits-urgent-care-clinic-in-perths-south-c-21159999",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-21159999/3228b42d6230d67357d354c6da4d0775df18965b-16x9-x10y0w1900h1069.jpg?imwidth=1200",
+      "publishedAt": "2025-12-30 09:22:31",
+      "content": "Sixty confirmed measles cases have been detected in WA this year, the latest in a traveller who has returned from overseas. WA Health issued an alert on Tuesday that there had been another case of t\u2026 [+1310 chars]",
+      "retrievedAt": "2025-12-31 19:06:23.543478",
+      "internal_id": "9af0caeabd2a1a53d2e42ae5d6351008c951f5eb51b8def4d0df09fac00475a7",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "V\u00e9ronique Mol\u00e9nat, Journaliste",
+      "title": "Grippe aviaire : cette mod\u00e9lisation explique pourquoi la prochaine pand\u00e9mie serait fulgurante",
+      "description": "En cause dans l\u2019abatage de millions de volailles, le virus H5N1 responsable de la grippe aviaire est surveill\u00e9 de pr\u00e8s par les scientifiques. Car s\u2019il parvenait \u00e0 s\u2019adapter \u00e0 l\u2019humain, tout pourrait basculer tr\u00e8s vite. Une \u00e9tude de mod\u00e9lisation r\u00e9v\u00e8le \u00e0 quel \u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-cette-modelisation-explique-prochaine-pandemie-serait-fulgurante-129611/",
+      "urlToImage": "https://cdn8.futura-sciences.com/a1920/images/grippe-aviaire-risques-humains.jpg",
+      "publishedAt": "2025-12-30 08:59:17",
+      "content": "Le virus de la grippe aviaire circule \u00e0 un niveau in\u00e9dit en France. Au moins 3 millions de canards, dindes et autres volatiles d'\u00e9levage ont \u00e9t\u00e9 abattus ces trois derniers mois, selon les calculs de \u2026 [+7054 chars]",
+      "retrievedAt": "2025-12-31 19:06:24.262914",
+      "internal_id": "137900461ed91c25ffd4bb07b9ad92ab7b292f2218483cbb004cd7c94414d319",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26538,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "https://www.idnes.cz/novinari/eva-streichsbierova.N1242",
+      "title": "Na Havl\u00ed\u010dkobrodsku za\u010dala likvidace dal\u0161\u00edho chovu slepic, op\u011bt pom\u00e1haj\u00ed v\u011bzni",
+      "description": "Likvidace chovu slepic naka\u017een\u00fdch pta\u010d\u00ed ch\u0159ipkou H5N1 za\u010dala v \u00fater\u00fd brzy r\u00e1no v Habrech na Havl\u00ed\u010dkobrodsku. Veterin\u00e1\u0159i potvrdili n\u00e1kazu o uplynul\u00e9m v\u00edkendu. Likvidace se t\u00fdk\u00e1 p\u0159ibli\u017en\u011b 30 tis\u00edc nosnic.",
+      "url": "https://www.idnes.cz/jihlava/zpravy/ptaci-chripka-habry-havlickobrodsko-likvidace-chovu.A251230_084445_jihlava-zpravy_evs",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2025/12/MV586cb84a3e_P2025122301758.jpg",
+      "publishedAt": "2025-12-30 08:45:00",
+      "content": "Na pondln\u00ed koordinan\u00ed schzce se rozhodlo, e do \u00fatern\u00edch 7.00 bude na m\u00edsto pij\u00eddt technika Hasisk\u00e9ho z\u00e1chrann\u00e9ho sboru esk\u00e9 republiky a z\u00e1rove zanou p\u00edpravn\u00e9 pr\u00e1ce. Po 8. hodin pot\u00e9 zaal samotn\u00fd z\u00e1sa\u2026 [+1465 chars]",
+      "retrievedAt": "2025-12-31 19:06:24.281563",
+      "internal_id": "aec0dc9e238ad5b6db4bf69bae5ef3a76c09f0c6f9ea64edff0a6baf969e27c1",
+      "publishedAtLabel": "Dec 30"
+    },
     {
       "id": 26529,
       "query": [
@@ -13902,78 +14064,6 @@
       "retrievedAt": "2025-11-18 07:07:49.821331",
       "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
       "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 25759,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0427\u0435\u0445\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u044f\u0442\u044b\u0439 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u043e\u0447\u0430\u0433 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442 \u043e\u043a\u043e\u043b\u043e 2,5 \u0442\u044b\u0441. \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0442\u043e\u043a",
-      "url": "https://tass.ru/obschestvo/25640213",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/25640213?u=2025-11-16T16:46:36.209427",
-      "publishedAt": "2025-11-16 16:46:36",
-      "content": "2,5 . , 16 . //. . TK. H5N1 . 2,5 . . . 2017 - 27 . 60 . . 2025 . . 70 . .",
-      "retrievedAt": "2025-11-17 19:06:08.510196",
-      "internal_id": "33b8561c19f9d423be1b7a2e862dbd4d05f40b6a1ebf6c398fb7a44a0805f322",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25758,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Measles patient exposes masses at Bnei Brak event hall",
-      "description": "Health Ministry calls on anyone who attended an event at Keter Harimon in Bnei Brak to check vaccination status, call Ministry hotline.",
-      "url": "https://www.israelnationalnews.com/news/417861",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1081194.jpg",
-      "publishedAt": "2025-11-16 15:48:23",
-      "content": "Israel's Health Ministry on Sunday reported that a measles patient was present at an event held last Tuesday in the Keter Harimon hall on Aharonowitz Street 10 in Bnei Brak. The event took place sta\u2026 [+1691 chars]",
-      "retrievedAt": "2025-11-17 19:06:08.015769",
-      "internal_id": "a941f9949b7ed9cb94ba217e94853e6891be391f65f0c871fbbdf1404f6b284c",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25757,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)",
-      "description": "Joseph Choi / The Hill: Canada loses its measles elimination status, and the US is close behind \u2014 Canada has lost its measles elimination status nearly three decades after it achieved the distinction, under circumstances that closely resemble what's happene\u2026",
-      "url": "https://www.memeorandum.com/251116/p7",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/11/Measles_Choi_Getty_GeoffRobins.jpg?w=1280",
-      "publishedAt": "2025-11-16 14:00:32",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-11-17 19:06:07.996327",
-      "internal_id": "07adddd97e906d5c444938413ce942ccc6407c9f32a4bb4893c6c61f7feef405",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25760,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Govt confirms new mpox cluster involving four relatives",
-      "description": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/16/3624949.jpg",
-      "publishedAt": "2025-11-16 09:32:00",
-      "content": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. In a s\u2026 [+2458 chars]",
-      "retrievedAt": "2025-11-17 19:06:09.945635",
-      "internal_id": "57b76656a83acc5313959c011a246c509f937b0e375a1f34b432088925b605ab",
-      "publishedAtLabel": "Nov 16"
     }
   ]
 }

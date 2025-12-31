@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-12-31 07:10
-- **Most recent article:** 2025-12-30 06:06:01
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-12-31 19:06
+- **Most recent article:** 2025-12-30 18:26:10
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 26 | 18 | 15 | 45 | 38 | 31 | 10 | 183 |
+| measles | 24 | 18 | 15 | 45 | 38 | 31 | 15 | 186 |
 | dengue | 13 | 35 | 19 | 34 | 26 | 11 | 3 | 141 |
 | malaria | 12 | 17 | 26 | 17 | 19 | 12 | 3 | 106 |
-| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 0 | 97 |
+| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 2 | 98 |
 | rabies | 4 | 8 | 7 | 21 | 11 | 20 | 6 | 77 |
-| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 54 |
+| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 53 |
 | chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 0 | 42 |
 | meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 0 | 20 |
 | zika | 1 | 2 | 6 | 6 | 2 | 3 | 0 | 20 |
+| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 1 | 19 |
 | yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 1 | 19 |
-| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 0 | 18 |
-| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 1 | 15 |
+| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 2 | 16 |
 | hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 13 |
 | typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 9 |
 
@@ -56,7 +56,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
 
+## 25-53 (pertussis)
+
+- [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
+
 ## 25-53 (measles)
+
+- [Nebraska confirmed case of measles reported by officials](https://www.ketv.com/article/nebraska-confirmed-measles-case-platte-county-columbus/69888372) (KETV Omaha)
+
+- [Nebraska health department reports case of measles in Platte County](https://www.klkntv.com/nebraska-health-department-reports-case-of-measles-in-platte-county/) (KLKN)
+
+- [Health unit in northwestern Ontario confirms measles case, capping a year of alarming rise in Canadian cases](https://www.cbc.ca/news/health/northwestern-health-unit-confirms-measles-case-in-a-year-canada-saw-alarming-rise-in-numbers-9.7030205) (CBC News)
+
+- [As Measles Cases Top 2,000, the U.S. Is on Brink of Losing Its Elimination Status](https://gizmodo.com/as-measles-cases-top-2000-the-u-s-is-on-brink-of-losing-its-elimination-status-2000704258) (Gizmodo.com)
+
+- [Health alert as traveller inflected with measles visits urgent care clinic in Perth’s south](https://www.perthnow.com.au/news/public-health/health-alert-as-traveller-inflected-with-measles-visits-urgent-care-clinic-in-perths-south-c-21159999) (PerthNow)
 
 - [Northeast B.C. measles outbreak to continue into 2026, health officials say](https://www.cbc.ca/news/canada/british-columbia/northern-bc-measles-outbreak-outlook-2026-9.7029625) (CBC News)
 
@@ -88,7 +102,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (leptospirosis)
 
+- [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
+
 - [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
+
+## 25-53 (h5n1)
+
+- [Grippe aviaire : cette modélisation explique pourquoi la prochaine pandémie serait fulgurante](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-cette-modelisation-explique-prochaine-pandemie-serait-fulgurante-129611/) (Futura)
+
+- [Na Havlíčkobrodsku začala likvidace dalšího chovu slepic, opět pomáhají vězni](https://www.idnes.cz/jihlava/zpravy/ptaci-chripka-habry-havlickobrodsko-likvidace-chovu.A251230_084445_jihlava-zpravy_evs) (Idnes.cz)
 
 ## 25-53 (dengue)
 
@@ -1658,8 +1680,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
-- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
-
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1717,10 +1737,6 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
-
-- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
-
-- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1797,8 +1813,6 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
-
-- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
