@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-12-30 19:07
-- **Most recent article:** 2025-12-29 18:05:12
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-12-31 07:10
+- **Most recent article:** 2025-12-30 06:06:01
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 24 | 18 | 15 | 45 | 38 | 31 | 6 | 177 |
-| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 2 | 140 |
-| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 2 | 105 |
-| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 0 | 96 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 5 | 76 |
-| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 53 |
+| measles | 26 | 18 | 15 | 45 | 38 | 31 | 10 | 183 |
+| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 3 | 141 |
+| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 3 | 106 |
+| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 0 | 97 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 6 | 77 |
+| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 54 |
 | chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 0 | 42 |
 | meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 0 | 20 |
 | zika | 1 | 2 | 6 | 6 | 2 | 3 | 0 | 20 |
@@ -25,7 +25,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 0 | 18 |
 | leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 1 | 15 |
 | hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 13 |
-| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 1 | 8 |
+| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,9 +38,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (typhoid)
 
+- [쿼드메디슨, GSK와 장티푸스 백신 MAP 보강 계약 체결](https://www.venturesquare.net/1029749) (Venturesquare.net)
+
 - [How Mary Todd Lincoln Lands Totally Out of Context](https://www.theatlantic.com/ideas/2025/12/oh-mary-theater-trump/685446/) (The Atlantic)
 
 ## 25-53 (rabies)
+
+- [Why do possums foam at the mouth?](https://www.lifesciencesworld.com/why-do-possums-foam-at-the-mouth/) (Lifesciencesworld.com)
 
 - [Primate clip shows a creepy moment involving the rabies-crazed chimp](https://www.joblo.com/primate-clip/) (JoBlo.com)
 
@@ -53,6 +57,14 @@ Source: [News API](https://newsapi.org/)
 - [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
 
 ## 25-53 (measles)
+
+- [Northeast B.C. measles outbreak to continue into 2026, health officials say](https://www.cbc.ca/news/canada/british-columbia/northern-bc-measles-outbreak-outlook-2026-9.7029625) (CBC News)
+
+- [Highly-contagious measles case confirmed in Walnut Creek and Lafayette, Contra Costa County health officials say](https://abc7news.com/post/highly-contagious-measles-case-confirmed-walnut-creek-lafayette-contra-costa-county-health-officials-say/18331222/) (KGO-TV)
+
+- [Possible measles exposure at East Bay shopping mall, health officials warn](https://www.ktvu.com/news/measles-walnut-creek-exposure) (KTVU San Francisco)
+
+- [Christmas gathering, hardware store among Manitoba's latest measles exposure sites](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposures-dec29-2025-9.7029414) (CBC News)
 
 - [7 Important Health Stories We’ll Be Following in 2026](https://www.scientificamerican.com/article/7-important-health-stories-well-be-following-in-2026/) (Scientific American)
 
@@ -68,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (malaria)
 
+- [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
+
 - [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
 
 - [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
@@ -77,6 +91,8 @@ Source: [News API](https://newsapi.org/)
 - [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (dengue)
+
+- [A promising Dengue fever drug was shelved. Now its data is hard to ignore](https://newatlas.com/infectious-diseases/dengue-fever-drug/) (New Atlas)
 
 - [Thambili Lahiru, who contracted dengue, has been hospitalized.](https://english.gossiplankanews.com/2025/12/thambili-lahiru-who-contracted-dengue.html) (Gossiplankanews.com)
 
@@ -1642,6 +1658,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
+- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
+
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1699,6 +1717,10 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
+
+- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
+
+- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1775,6 +1797,8 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
+
+- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
