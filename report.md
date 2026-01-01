@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2026-01-01 07:10
-- **Most recent article:** 2025-12-31 05:44:58
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-01-01 19:06
+- **Most recent article:** 2025-12-31 17:40:11
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 26 | 18 | 15 | 45 | 38 | 31 | 24 | 197 |
-| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 3 | 141 |
+| measles | 24 | 18 | 15 | 45 | 38 | 31 | 29 | 200 |
+| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 4 | 142 |
 | malaria | 12 | 17 | 26 | 17 | 19 | 12 | 5 | 108 |
-| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 2 | 99 |
+| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 2 | 98 |
 | rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 79 |
-| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 54 |
-| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 0 | 42 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 8 | 28 |
-| zika | 1 | 2 | 6 | 6 | 2 | 3 | 0 | 20 |
+| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 53 |
+| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 3 | 45 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 10 | 30 |
+| zika | 1 | 2 | 6 | 6 | 2 | 3 | 2 | 22 |
+| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 2 | 20 |
 | pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 1 | 19 |
-| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 1 | 19 |
-| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 2 | 16 |
+| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 4 | 18 |
 | hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 13 |
 | typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 9 |
 
@@ -32,7 +32,15 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-53 (zika)
+
+- [Flavivirus NS1-triggered endothelial dysfunction promotes virus dissemination](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013811) (Plos.org)
+
+- [In vivo and in vitro susceptibility and inflammatory response of postnatal mouse cortical neurons and glial cells to zika virus infection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339900) (Plos.org)
+
 ## 25-53 (yersinia)
+
+- [Systematic analysis of spontaneous tandem genome amplification events in Yersinia pestis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338460) (Plos.org)
 
 - [[Перевод] Как древняя чума изменила человечество 5000 лет назад](https://habr.com/ru/articles/963048/#post-content-body) (Habr.com)
 
@@ -66,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (meningitis)
 
+- [Former Australian player Damien Martyn in hospital in a coma](https://english.gossiplankanews.com/2025/12/former-australian-player-damien-martyn.html) (Gossiplankanews.com)
+
+- [Ex-Australia batter in induced coma after contracting meningitis](https://news.sky.com/story/ex-australia-batter-damien-martyn-in-induced-coma-after-contracting-meningitis-13488986) (Sky.com)
+
 - [Meningitis: Damien Martyn’s ICU battle reveals the deadly risks of this brain infection; Symptoms, causes, and treatment](https://economictimes.indiatimes.com/news/new-updates/meningitis-damien-martyns-icu-battle-reveals-the-deadly-risks-of-this-brain-infection-symptoms-causes-and-treatment/articleshow/126264771.cms) (The Times of India)
 
 - [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
@@ -83,6 +95,16 @@ Source: [News API](https://newsapi.org/)
 - [Australian cricket great Damien Martyn rushed to hospital and placed in induced coma with meningitis](https://www.nzherald.co.nz/sport/australian-cricket-great-damien-martyn-rushed-to-hospital-and-placed-in-induced-coma-with-meningitis/W4ZFBWDT65AUJASVD3MS4D5DLU/) (New Zealand Herald)
 
 ## 25-53 (measles)
+
+- [U.S. Reaches Over 2,000 Measles Cases as 2 Airports Detect Cases Over Holidays](https://legalinsurrection.com/2025/12/u-s-reaches-over-2000-measles-cases-as-2-airports-detect-cases-over-holidays/) (Legalinsurrection.com)
+
+- [Congrats to RFK Jr., As the U.S. Is Poised to Lose Its Measles Elimination Status After 25 Years](https://www.jezebel.com/measles-united-states-elimination-status-lost-rfk-jr-cases-south-carolina-cdc-spread-transmission) (Jezebel)
+
+- [Measles Mania 2025: Don’t Fear the Measles](https://www.globalresearch.ca/measles-mania-2025-dont-fear-measles/5910688) (Globalresearch.ca)
+
+- [Joe Rogan Slammed for Calling Measles 'Harmless' as Experts Warn of Dangerous Misinformation](https://www.ibtimes.com/joe-rogan-slammed-calling-measles-harmless-experts-warn-dangerous-misinformation-3794038) (International Business Times)
+
+- [Immigrant Derangement Syndrome (Paul Krugman)](https://www.memeorandum.com/251231/p6) (Memeorandum.com)
 
 - [2025 Measles Cases In America Surpass The 2,000 Mark](https://www.techdirt.com/2025/12/30/2025-measles-cases-in-america-surpass-the-2000-mark/) (Techdirt)
 
@@ -146,6 +168,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (leptospirosis)
 
+- [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
+
+- [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
+
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
 
 - [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
@@ -158,11 +184,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (dengue)
 
+- [Flavivirus NS1-triggered endothelial dysfunction promotes virus dissemination](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013811) (Plos.org)
+
 - [A promising Dengue fever drug was shelved. Now its data is hard to ignore](https://newatlas.com/infectious-diseases/dengue-fever-drug/) (New Atlas)
 
 - [Thambili Lahiru, who contracted dengue, has been hospitalized.](https://english.gossiplankanews.com/2025/12/thambili-lahiru-who-contracted-dengue.html) (Gossiplankanews.com)
 
 - [Singapore sees lowest annual dengue cases since 2018](https://www.straitstimes.com/singapore/health/dengue-cases-in-spore-hit-7-year-low-in-2025-amid-global-decrease) (The Straits Times)
+
+## 25-53 (chikungunya)
+
+- [Valneva, Serum Institute of India discontinue chikungunya vaccine pact](https://thefly.com/permalinks/entry.php/id4262980/VALN-Valneva-Serum-Institute-of-India-discontinue-chikungunya-vaccine-pact) (Thefly.com)
+
+- [Valneva and Serum Institute of India Announce Discontinuation of Chikungunya Vaccine License Agreement](https://www.globenewswire.com/news-release/2025/12/31/3211836/0/en/Valneva-and-Serum-Institute-of-India-Announce-Discontinuation-of-Chikungunya-Vaccine-License-Agreement.html) (GlobeNewswire)
+
+- [Valneva et le Serum Institute of India annoncent la fin de leur accord de licence pour le vaccin contre le chikungunya](https://www.globenewswire.com/news-release/2025/12/31/3211836/0/fr/Valneva-et-le-Serum-Institute-of-India-annoncent-la-fin-de-leur-accord-de-licence-pour-le-vaccin-contre-le-chikungunya.html) (GlobeNewswire)
 
 ## 25-52 (zika)
 
@@ -1724,8 +1760,6 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
-- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
-
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1783,10 +1817,6 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
-
-- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
-
-- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1863,8 +1893,6 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
-
-- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
