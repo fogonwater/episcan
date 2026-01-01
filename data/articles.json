@@ -1,8 +1,386 @@
 {
-  "last_updated": "2025-12-31 19:06",
-  "count_articles_total": 779,
-  "count_articles_new": 9,
+  "last_updated": "2026-01-01 07:10",
+  "count_articles_total": 804,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 26554,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Meningitis: Damien Martyn\u2019s ICU battle reveals the deadly risks of this brain infection; Symptoms, causes, and treatment",
+      "description": "Damien Martyn hospitalised: Former Australian cricketer Damien Martyn is in an induced coma after being diagnosed with meningitis. The 54-year-old is receiving hospital treatment for the serious infection, which inflames the membranes around the brain and spi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/meningitis-damien-martyns-icu-battle-reveals-the-deadly-risks-of-this-brain-infection-symptoms-causes-and-treatment/articleshow/126264771.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126264880,width-1200,height-630,imgsize-1631183,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-31 05:44:58",
+      "content": "Former Australian cricketer Damien Martyn has been hospitalised and placed in an induced coma after being diagnosed with meningitis, according to cricket.com.au, quoting the Australian Associated Pre\u2026 [+4509 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.854212",
+      "internal_id": "b91ccfa14af0d006db99348dd266df4cab3d37357f09ca5ed91f0b1939a34a6e",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26542,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "2025 Measles Cases In America Surpass The 2,000 Mark",
+      "description": "This administration is in the midst of failing the American people in so many ways, of course, but if you need one stark example of that failure then you can find it in measles. When I wrote this post way back in March of this year, it was our first Techdirt \u2026",
+      "url": "https://www.techdirt.com/2025/12/30/2025-measles-cases-in-america-surpass-the-2000-mark/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-12-31 04:01:29",
+      "content": "from the failure dept This administration is in the midst of failing the American people in so many ways, of course, but if you need one stark example of that failure then you can find it in measles\u2026 [+2698 chars]",
+      "retrievedAt": "2026-01-01 07:10:01.961594",
+      "internal_id": "25b3e71d0354b488217dffdee50ab95659172a8c3bf8e60d37555f93fa335bc5",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26553,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "BBC",
+      "title": "Ex-Australia batter Martyn in coma with meningitis",
+      "description": "The 54-year-old, who played 67 Test matches, reportedly fell ill on Friday and is in a Queensland hospital.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c3013de0g88o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/d26a4ddb84a567d1646f233160036c13",
+      "publishedAt": "2025-12-31 03:53:36",
+      "content": "Former Australia batter Damien Martyn has been placed into an induced coma after being diagnosed with meningitis. The 54-year-old, who played 67 Test matches between 1992 and 2006, reportedly fell i\u2026 [+1864 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.844028",
+      "internal_id": "77e0ffe7db023b1efd8efdc1d245c9fbb8b123e513ab449f9705ce06defd879b",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26551,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "BBC Sport",
+      "title": "Ex-Australia batter Martyn in coma with meningitis",
+      "description": "The 54-year-old, who played 67 Test matches, reportedly fell ill on Friday and is in a Queensland hospital.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c3013de0g88o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/541d/live/cde29a20-e5d5-11f0-83ac-0961a158008e.jpg",
+      "publishedAt": "2025-12-31 03:53:31",
+      "content": "Former AFL star Brad Hardie, speaking on Perth's 6PR radio station, said: \"Damien Martyn, the champ from WA [Western Australia] unfortunately took ill on Boxing Day and currently is residing in a Que\u2026 [+796 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.824677",
+      "internal_id": "e3da54f537664d0f5357251bed4a37788ab0828d31b4148d399a5851364e6874",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26556,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mukesh Thapliyal",
+      "title": "Australian cricket great Damien Martyn placed in induced coma: Check the actual reason behind his critical condition",
+      "description": "Former Australian Test cricketer Damien Martyn is in critical condition and has been placed in an induced coma after being diagnosed with meningitis. The 54-year-old, a 2003 World Cup winner, fell ill on Boxing Day and is receiving intensive medical treatment\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/australia/australian-cricket-great-damien-martyn-placed-in-induced-coma-check-the-actual-reason-behind-his-critical-condition/articleshow/126263156.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126263177,width-1200,height-630,imgsize-42234,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-31 03:27:32",
+      "content": "Former Australian Test cricketer Damien Martyn is in critical condition in a Queensland hospital and has been placed in an induced coma after being diagnosed with meningitis. He reportedly fell ill o\u2026 [+2437 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.873965",
+      "internal_id": "13754466817812a2165070649c1d240ab646e80e4cf213cc89cbd6d9bdb768fc",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26550,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Emily Bennett",
+      "title": "Measles alert: NSW Health urges public to monitor for symptoms after infectious traveller lands in Sydney",
+      "description": "The person recently returned from south-east Asia, where there are ongoing outbreaks in several countries including Thailand, Vietnam and Indonesia.",
+      "url": "https://www.9news.com.au/national/measles-alert-public-health-warning-after-infectious-traveller-lands-in-sydney-new-south-wales/0230a709-0e74-408c-a079-bed896d0aa83",
+      "urlToImage": "https://imageresizer.static9.net.au/K6oTWVfjESWtnHnqmDxw6vc9z7s=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F203bb502-3e3e-4e71-9e29-5d572f319574",
+      "publishedAt": "2025-12-31 03:06:24",
+      "content": "Property News: Australia's most popular suburbs in every capital city.",
+      "retrievedAt": "2026-01-01 07:10:02.157390",
+      "internal_id": "f009dd900cdedcca9bbad44199d3fb10b1bf5de545b0ee63f990779a5cc6e911",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26555,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Ndtvprofit.com",
+      "author": "NDTV Profit Trending Desk",
+      "title": "What Is Meningitis? Ex-Australia Cricketer Damien Martyn In Induced Coma After Diagnosis",
+      "description": "Former Australian cricketer Damien Martyn has been admitted to hospital and placed in an induced coma after being diagnosed with meningitis. The 54-year-old reportedly fell ill on Boxing Day and was rushed to a hospital in Queensland, where doctors confirmed \u2026",
+      "url": "https://www.ndtvprofit.com/trending/what-is-meningitis-ex-australia-cricketer-damien-martyn-in-induced-coma-after-diagnosis",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-31%2Ffeiysesl%2FFDzLmvgUYAIdZJG.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2025-12-31 02:52:06",
+      "content": "Meningitis is a serious medical condition involving inflammation of the membranes and fluid that surround the brain and spinal cord, known as the meninges. According to the Mayo Clinic, this inflamma\u2026 [+1261 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.863502",
+      "internal_id": "3eb59aa0066f3f36993ae3f4e31c600dc9ca3b02136a623a6670ec82d90eb854",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26543,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Michael Luciano",
+      "title": "\u2018I Hope You Like Measles\u2019: U.S. Measles Cases Hit Three-Decade High a Year After Jake Tapper\u2019s Prediction About RFK Jr. Leading HHS",
+      "description": "The U.S. surpassed 2,000 measles cases this year for the first time since 1992 under the public health stewardship of Health and Human Services Secretary Robert F. Kennedy Jr. The post \u2018I Hope You Like Measles\u2019: U.S. Measles Cases Hit Three-Decade High a Yea\u2026",
+      "url": "https://www.mediaite.com/media/tv/i-hope-you-like-measles-u-s-measles-cases-hit-three-decade-high-a-year-after-jake-tappers-prediction-about-rfk-jr-leading-hhs/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/10/AP25273732435148-scaled.jpg",
+      "publishedAt": "2025-12-31 02:39:36",
+      "content": "The U.S. surpassed 2,000 measles cases this year for the first time since 1992 under the public health stewardship of Health and Human Services Secretary Robert F. Kennedy Jr. The ugly milestone co\u2026 [+2053 chars]",
+      "retrievedAt": "2026-01-01 07:10:01.987477",
+      "internal_id": "32c8dd78e008ebc33d81668815060a707093fc8a308ba09e5ed25ec9d0385d39",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26557,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Former Australian cricketer Damien Martyn is in serious condition in a Brisbane hospital",
+      "description": "The 54-year-old former right-hand batter had fallen ill in recent days, with Nine Newspapers reporting he is in an induced coma and fighting a bout of meningitis.",
+      "url": "https://economictimes.indiatimes.com/news/sports/former-australian-cricketer-damien-martyn-is-in-serious-condition-in-a-brisbane-hospital/articleshow/126262504.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126262540,width-1200,height-630,imgsize-39920,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-31 02:33:42",
+      "content": "BRISBANE: Former cricketer Damien Martyn, who played 67 test matches for Australia, is in a serious condition in a Brisbane hospital, Australian media reported Wednesday.The 54-year-old former right-\u2026 [+1554 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.883343",
+      "internal_id": "eac6cbc802c4aca5dfa9c65b8f61d0db79fe0d762241b6770ecd1ec0e9f55717",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26544,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "US measles cases surpass 2,000 this year (Joseph Choi/The Hill)",
+      "description": "Joseph Choi / The Hill: US measles cases surpass 2,000 this year \u2014 The number of recorded measles cases in the U.S. during 2025 has officially exceeded 2,000 just before the end of the year, a bleak punctuation on what has been the worst spread of measles t\u2026",
+      "url": "https://www.memeorandum.com/251230/p77",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/06/AP25141591523188-e1750266531938.jpg?w=1280",
+      "publishedAt": "2025-12-31 01:00:04",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-01-01 07:10:01.996933",
+      "internal_id": "d8e0917ba77b08e93f0849c22bb8622c7b5ccccb1a6e0e2a4f89545479912b60",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26545,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "U.S. measles cases reach highest level in over 30 years: CDC (Julianna Bragg/Axios)",
+      "description": "Julianna Bragg / Axios: U.S. measles cases reach highest level in over 30 years: CDC \u2014 The number of recorded measles cases in the U.S. during 2025 has exceeded 2,000 for the first time in more than 30 years, according to data from the Centers for Disease C\u2026",
+      "url": "https://www.memeorandum.com/251230/p76",
+      "urlToImage": "https://images.axios.com/SadJvIxnWKS2JzfaNGKt9LOViIc=/0x0:1920x1080/1366x768/2025/12/30/1767138577697.jpg",
+      "publishedAt": "2025-12-31 01:00:04",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.016776",
+      "internal_id": "086ab606666d10f0dadcb61a7f61b40c9c64eda74e6dcb5dbf772b60d39569cb",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26552,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Former Australian cricketer Damien Martyn seriously ill in induced coma",
+      "description": "Former Australian Test and limited overs batsman Damien Martyn is in hospital in Queensland in an induced coma after falling ill earlier this week.",
+      "url": "https://www.abc.net.au/news/2025-12-31/former-australian-cricketer-damien-martyn-in-induced-coma/106189352",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/fcd5d8a8aaae52fe96821892fa2282c6?impolicy=wcms_watermark_news&cropH=1737&cropW=3088&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-12-31 00:36:10",
+      "content": "Former Australian Test and limited overs batsman Damien Martyn is in hospital in Brisbane in an induced coma after falling ill with meningitis. The 54-year-old is Darwin-born but grew up in Western \u2026 [+831 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.834536",
+      "internal_id": "806c2e8ef5ba56c9d20b48e6c6197fb616b6518c3d83f49107263a5c2a3ddcb0",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26558,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Samuel Sherry",
+      "title": "Australian cricket great Damien Martyn rushed to hospital and placed in induced coma with meningitis",
+      "description": "The 54-year-old was rushed to a Brisbane hospital on Boxing Day.",
+      "url": "https://www.nzherald.co.nz/sport/australian-cricket-great-damien-martyn-rushed-to-hospital-and-placed-in-induced-coma-with-meningitis/W4ZFBWDT65AUJASVD3MS4D5DLU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/TMWAQFC2SVABBJLVH2X323XKMM.jpg?auth=0034edd57a505d2c780eafff83fb6e8ed180f309d37eb7a1bd1256706f19ac00&width=1200&height=675&quality=70&focal=696%2C506&smart=false",
+      "publishedAt": "2025-12-31 00:25:18",
+      "content": "Former AFL player Brad Hardie said on his 6PR radio show the 54-year-old was in the fight of his life and the situation was serious. Damien Martyn, the champ from WA, fantastic batsman unfortunately\u2026 [+1730 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.892974",
+      "internal_id": "ec18d517c50ce9aadec36a17f30b40bc57916f8e045d074b14ea7bf6bd789e54",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 26560,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mactrast.com",
+      "author": "Chris Hauk",
+      "title": "Apple Raises $3 Million for Global Fund\u2019s Fight Against AIDS Via Apple Pay Promo",
+      "description": "During the holiday shopping season, Apple donated $5 to The Global Fund to Fight AIDS, Tuberculosis and Malaria for every Apple Pay purchase made on Apple.com, or in the Apple Store app or in an Apple retail store.Read More...",
+      "url": "https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/",
+      "urlToImage": "https://www.mactrast.com/wp-content/uploads/2025/12/the-global-fund-logo-500x288.jpg",
+      "publishedAt": "2025-12-30 22:39:08",
+      "content": "During the holiday shopping season, Apple donated $5 to The Global Fund to Fight AIDS, Tuberculosis and Malaria for every Apple Pay purchase made on Apple.com, or in the Apple Store app or in an Appl\u2026 [+670 chars]",
+      "retrievedAt": "2026-01-01 07:10:03.287450",
+      "internal_id": "679b2e434b62b09e3d1816a8f580a18b1dd89e4eca7fa0d0ba9274e2ef7c2639",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26541,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSB Radio",
+      "author": "Miles Montgomery",
+      "title": "Coyote who attacked metro Atlanta resident and dog tests positive for rabies",
+      "description": "Diseases like rabies can be transmitted to humans and pets through bites or scratches from wild animals.",
+      "url": "https://www.wsbradio.com/news/local/coyote-who-attacked-metro-atlanta-resident-dog-tests-positive-rabies/XSMTCFFJNFE7ZNM7B7R4Y7TQQI/",
+      "urlToImage": "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRVKJYDBYTVGMFIY5TUZ75IDCYQ.jpeg?auth=41a8a6c1fca6ca82497160920ae08d2d445314bf046e50318a9a8fccf0d60425&width=1200&height=630&smart=true",
+      "publishedAt": "2025-12-30 21:44:06",
+      "content": "GWINNETT COUNTY, GA \u2014 A coyote tested positive for rabies on Monday after three incidents in Buford over the weekend in Gwinnett County. Gwinnett County officials say a resident and a dog were inju\u2026 [+1344 chars]",
+      "retrievedAt": "2026-01-01 07:10:01.719362",
+      "internal_id": "51ac4aeb1ea8525e8f497bc69eae8996774063038047e8db9c36ae539c755079",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26546,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "New measles cases in South Carolina put U.S. on the verge of losing elimination status",
+      "description": "An uptick in measles cases in South Carolina has put the U.S. on the precipice of losing its elimination status for the highly contagious disease.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-south-carolina-us-elimination-status-rcna251515",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251210-measles-sc-outbreak-gk-3bfc2d.jpg",
+      "publishedAt": "2025-12-30 21:35:46",
+      "content": "A sizable uptick in measles cases in the ongoing outbreak in South Carolina has put the U.S. on the precipice of losing its elimination status. South Carolinas health department on Tuesday reported \u2026 [+4291 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.052244",
+      "internal_id": "b3ddcb3c3d3cf656065c0b7d7a2c4aa9f4a4cefd31913f2dba5353d916b8459a",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26548,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Omaha World-Herald",
+      "author": "Julie Anderson",
+      "title": "Measles case reported in Platte County, Nebraska",
+      "description": "The cases are the first confirmed in the state since 2017 and come amid numerous outbreaks in other states and countries.",
+      "url": "https://omaha.com/news/local/business/health-care/article_135ae254-53cb-4684-b6ea-3b4df3a1d584.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/35/135ae254-53cb-4684-b6ea-3b4df3a1d584/69542770786fd.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-12-30 21:07:01",
+      "content": "Adm. Richard Correll, commander of U.S. Strategic Command, center, is applauded by Gen. Dan Caine, chairman of the Joint Chiefs of Staff, left, and Gen. Anthony Cotton, former commander of StratCom, \u2026 [+112 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.080135",
+      "internal_id": "3ee96ec9767d31787366fba6fdf649b67131a44433bc81277377e5c0c3417f08",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26559,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "US commits $480M in health funding to Ivory Coast, the latest to sign \u2018America First\u2019 health deals",
+      "description": "The signing covers areas such as HIV, malaria, maternal and child health, and global health security.",
+      "url": "https://www.bostonherald.com/2025/12/30/ivory-coast-us-health-deal/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Ivory_Coast-US-Health_49543.jpg?w=1024&h=683",
+      "publishedAt": "2025-12-30 20:38:00",
+      "content": "ABIDJAN, Ivory Coast (AP) The United States and Ivory Coast signed a health deal Tuesday requiring the U.S. to commit $480 million to the West African nations health sector as part of America First g\u2026 [+1870 chars]",
+      "retrievedAt": "2026-01-01 07:10:03.277644",
+      "internal_id": "5777cd430b1ec7648e746447e3db6a7e11558acd9301f737211a9fd621252b25",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26549,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Abc News",
+      "title": "US measles cases surpass 2,000, highest in 30 years: CDC",
+      "description": "US measles cases surpass 2,000, highest in 30 years: CDCgo.com",
+      "url": "https://abcnews.go.com/Health/us-measles-cases-surpass-2000-highest-30-years/story?id=128747603",
+      "urlToImage": "https://i.abcnewsfe.com/a/c41e28b3-120a-4280-8f76-1e3800946f3e/measles-vaccine-gty-jef-251229_1767033173613_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-12-30 19:59:18",
+      "content": "The U.S. has surpassed 2,000 measles cases for the first time in more than 30 years, according to data from the Centers for Disease Control and Prevention. As of Dec. 23, a total of 2,012 cases have\u2026 [+2347 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.090092",
+      "internal_id": "e1994a0ace5f31751e88d497e5d48b82dfe881d01204ef3f4a3bbbb481c867b7",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26540,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "JoBlo.com",
+      "author": "Cody Hamman",
+      "title": "Primate, horror film about a rabies-crazed chimp, earns an R rating with strong bloody violent content and gore",
+      "description": "Director Johannes Roberts' rabid chimp horror movie Primate has earned an R rating for bloody violence, gore, and more The post Primate, horror film about a rabies-crazed chimp, earns an R rating with strong bloody violent content and gore appeared first on J\u2026",
+      "url": "https://www.joblo.com/primate-r-rating/",
+      "urlToImage": "https://www.joblo.com/wp-content/uploads/2025/09/primate-review.jpg",
+      "publishedAt": "2025-12-30 19:32:49",
+      "content": "The rabid chimp horror film Primate is set to reach theatres on January 9, 2026, courtesy of Paramount Pictures \u2013 and just one week out from that date, the Motion Picture Association ratings board \u2026 [+2396 chars]",
+      "retrievedAt": "2026-01-01 07:10:01.698421",
+      "internal_id": "7ab16393bb8b58790ff3aea5f43790c9f27f321ec2b17d607b768b8fdc514e69",
+      "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 26547,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "World's most contagious virus detected at two major US airports amid holiday traffic",
+      "description": "A case of measles was detected at Newark airport in New Jersey during holiday travel \u2014 and at Logan in Boston. Health officials urge travelers to contact healthcare providers as needed.",
+      "url": "https://www.foxnews.com/travel/worlds-most-contagious-virus-detected-two-major-us-airports-amid-holiday-traffic",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2213276503.jpg",
+      "publishedAt": "2025-12-30 19:30:18",
+      "content": "During peak holiday travel, one of the most infectious diseases was detected at Newark Liberty International Airport in New Jersey. A case of measles was identified in a passenger at terminals B &am\u2026 [+2388 chars]",
+      "retrievedAt": "2026-01-01 07:10:02.070469",
+      "internal_id": "dc5973245f82fe56a4ca51f41b0f510054a72cb5aba8bbfe9f0c584b889bff4c",
+      "publishedAtLabel": "Dec 30"
+    },
     {
       "id": 26534,
       "query": [
@@ -14064,6 +14442,78 @@
       "retrievedAt": "2025-11-18 07:07:49.821331",
       "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
       "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25759,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0427\u0435\u0445\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u044f\u0442\u044b\u0439 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u043e\u0447\u0430\u0433 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442 \u043e\u043a\u043e\u043b\u043e 2,5 \u0442\u044b\u0441. \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0442\u043e\u043a",
+      "url": "https://tass.ru/obschestvo/25640213",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/25640213?u=2025-11-16T16:46:36.209427",
+      "publishedAt": "2025-11-16 16:46:36",
+      "content": "2,5 . , 16 . //. . TK. H5N1 . 2,5 . . . 2017 - 27 . 60 . . 2025 . . 70 . .",
+      "retrievedAt": "2025-11-17 19:06:08.510196",
+      "internal_id": "33b8561c19f9d423be1b7a2e862dbd4d05f40b6a1ebf6c398fb7a44a0805f322",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25758,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles patient exposes masses at Bnei Brak event hall",
+      "description": "Health Ministry calls on anyone who attended an event at Keter Harimon in Bnei Brak to check vaccination status, call Ministry hotline.",
+      "url": "https://www.israelnationalnews.com/news/417861",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1081194.jpg",
+      "publishedAt": "2025-11-16 15:48:23",
+      "content": "Israel's Health Ministry on Sunday reported that a measles patient was present at an event held last Tuesday in the Keter Harimon hall on Aharonowitz Street 10 in Bnei Brak. The event took place sta\u2026 [+1691 chars]",
+      "retrievedAt": "2025-11-17 19:06:08.015769",
+      "internal_id": "a941f9949b7ed9cb94ba217e94853e6891be391f65f0c871fbbdf1404f6b284c",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25757,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)",
+      "description": "Joseph Choi / The Hill: Canada loses its measles elimination status, and the US is close behind \u2014 Canada has lost its measles elimination status nearly three decades after it achieved the distinction, under circumstances that closely resemble what's happene\u2026",
+      "url": "https://www.memeorandum.com/251116/p7",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/11/Measles_Choi_Getty_GeoffRobins.jpg?w=1280",
+      "publishedAt": "2025-11-16 14:00:32",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-11-17 19:06:07.996327",
+      "internal_id": "07adddd97e906d5c444938413ce942ccc6407c9f32a4bb4893c6c61f7feef405",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Govt confirms new mpox cluster involving four relatives",
+      "description": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/16/3624949.jpg",
+      "publishedAt": "2025-11-16 09:32:00",
+      "content": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. In a s\u2026 [+2458 chars]",
+      "retrievedAt": "2025-11-17 19:06:09.945635",
+      "internal_id": "57b76656a83acc5313959c011a246c509f937b0e375a1f34b432088925b605ab",
+      "publishedAtLabel": "Nov 16"
     }
   ]
 }

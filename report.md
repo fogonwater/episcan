@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-12-31 19:06
-- **Most recent article:** 2025-12-30 18:26:10
+- **New articles in last harvest:** 21
+- **Last harvest:** 2026-01-01 07:10
+- **Most recent article:** 2025-12-31 05:44:58
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 24 | 18 | 15 | 45 | 38 | 31 | 15 | 186 |
+| measles | 26 | 18 | 15 | 45 | 38 | 31 | 24 | 197 |
 | dengue | 13 | 35 | 19 | 34 | 26 | 11 | 3 | 141 |
-| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 3 | 106 |
-| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 2 | 98 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 6 | 77 |
-| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 53 |
+| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 5 | 108 |
+| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 2 | 99 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 79 |
+| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 54 |
 | chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 0 | 42 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 0 | 20 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 8 | 28 |
 | zika | 1 | 2 | 6 | 6 | 2 | 3 | 0 | 20 |
 | pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 1 | 19 |
 | yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 1 | 19 |
@@ -44,6 +44,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-53 (rabies)
 
+- [Coyote who attacked metro Atlanta resident and dog tests positive for rabies](https://www.wsbradio.com/news/local/coyote-who-attacked-metro-atlanta-resident-dog-tests-positive-rabies/XSMTCFFJNFE7ZNM7B7R4Y7TQQI/) (WSB Radio)
+
+- [Primate, horror film about a rabies-crazed chimp, earns an R rating with strong bloody violent content and gore](https://www.joblo.com/primate-r-rating/) (JoBlo.com)
+
 - [Why do possums foam at the mouth?](https://www.lifesciencesworld.com/why-do-possums-foam-at-the-mouth/) (Lifesciencesworld.com)
 
 - [Primate clip shows a creepy moment involving the rabies-crazed chimp](https://www.joblo.com/primate-clip/) (JoBlo.com)
@@ -60,7 +64,43 @@ Source: [News API](https://newsapi.org/)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
 
+## 25-53 (meningitis)
+
+- [Meningitis: Damien Martyn’s ICU battle reveals the deadly risks of this brain infection; Symptoms, causes, and treatment](https://economictimes.indiatimes.com/news/new-updates/meningitis-damien-martyns-icu-battle-reveals-the-deadly-risks-of-this-brain-infection-symptoms-causes-and-treatment/articleshow/126264771.cms) (The Times of India)
+
+- [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
+
+- [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o) (BBC News)
+
+- [Australian cricket great Damien Martyn placed in induced coma: Check the actual reason behind his critical condition](https://economictimes.indiatimes.com/news/international/australia/australian-cricket-great-damien-martyn-placed-in-induced-coma-check-the-actual-reason-behind-his-critical-condition/articleshow/126263156.cms) (The Times of India)
+
+- [What Is Meningitis? Ex-Australia Cricketer Damien Martyn In Induced Coma After Diagnosis](https://www.ndtvprofit.com/trending/what-is-meningitis-ex-australia-cricketer-damien-martyn-in-induced-coma-after-diagnosis) (Ndtvprofit.com)
+
+- [Former Australian cricketer Damien Martyn is in serious condition in a Brisbane hospital](https://economictimes.indiatimes.com/news/sports/former-australian-cricketer-damien-martyn-is-in-serious-condition-in-a-brisbane-hospital/articleshow/126262504.cms) (The Times of India)
+
+- [Former Australian cricketer Damien Martyn seriously ill in induced coma](https://www.abc.net.au/news/2025-12-31/former-australian-cricketer-damien-martyn-in-induced-coma/106189352) (ABC News (AU))
+
+- [Australian cricket great Damien Martyn rushed to hospital and placed in induced coma with meningitis](https://www.nzherald.co.nz/sport/australian-cricket-great-damien-martyn-rushed-to-hospital-and-placed-in-induced-coma-with-meningitis/W4ZFBWDT65AUJASVD3MS4D5DLU/) (New Zealand Herald)
+
 ## 25-53 (measles)
+
+- [2025 Measles Cases In America Surpass The 2,000 Mark](https://www.techdirt.com/2025/12/30/2025-measles-cases-in-america-surpass-the-2000-mark/) (Techdirt)
+
+- [Measles alert: NSW Health urges public to monitor for symptoms after infectious traveller lands in Sydney](https://www.9news.com.au/national/measles-alert-public-health-warning-after-infectious-traveller-lands-in-sydney-new-south-wales/0230a709-0e74-408c-a079-bed896d0aa83) (9News)
+
+- [‘I Hope You Like Measles’: U.S. Measles Cases Hit Three-Decade High a Year After Jake Tapper’s Prediction About RFK Jr. Leading HHS](https://www.mediaite.com/media/tv/i-hope-you-like-measles-u-s-measles-cases-hit-three-decade-high-a-year-after-jake-tappers-prediction-about-rfk-jr-leading-hhs/) (Mediaite)
+
+- [US measles cases surpass 2,000 this year (Joseph Choi/The Hill)](https://www.memeorandum.com/251230/p77) (Memeorandum.com)
+
+- [U.S. measles cases reach highest level in over 30 years: CDC (Julianna Bragg/Axios)](https://www.memeorandum.com/251230/p76) (Memeorandum.com)
+
+- [New measles cases in South Carolina put U.S. on the verge of losing elimination status](https://www.nbcnews.com/health/health-news/measles-south-carolina-us-elimination-status-rcna251515) (NBC News)
+
+- [Measles case reported in Platte County, Nebraska](https://omaha.com/news/local/business/health-care/article_135ae254-53cb-4684-b6ea-3b4df3a1d584.html) (Omaha World-Herald)
+
+- [US measles cases surpass 2,000, highest in 30 years: CDC](https://abcnews.go.com/Health/us-measles-cases-surpass-2000-highest-30-years/story?id=128747603) (ABC News)
+
+- [World's most contagious virus detected at two major US airports amid holiday traffic](https://www.foxnews.com/travel/worlds-most-contagious-virus-detected-two-major-us-airports-amid-holiday-traffic) (Fox News)
 
 - [Nebraska confirmed case of measles reported by officials](https://www.ketv.com/article/nebraska-confirmed-measles-case-platte-county-columbus/69888372) (KETV Omaha)
 
@@ -93,6 +133,10 @@ Source: [News API](https://newsapi.org/)
 - [N.J. health officials warn of potential measles exposures at Newark Liberty Airport. Here's what we know.](https://www.cbsnews.com/newyork/news/newark-liberty-airport-terminal-b-and-c-measles-exposure/) (CBS News)
 
 ## 25-53 (malaria)
+
+- [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
+
+- [US commits $480M in health funding to Ivory Coast, the latest to sign ‘America First’ health deals](https://www.bostonherald.com/2025/12/30/ivory-coast-us-health-deal/) (Boston Herald)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
@@ -1680,6 +1724,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
+- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
+
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1737,6 +1783,10 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
+
+- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
+
+- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1813,6 +1863,8 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
+
+- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
