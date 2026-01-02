@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-01-02 07:10",
-  "count_articles_total": 829,
-  "count_articles_new": 10,
+  "last_updated": "2026-01-02 19:06",
+  "count_articles_total": 830,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 26590,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": null,
+      "title": "Doctors fear \u2018swamp fever\u2019 spreading in flood-hit Gaza",
+      "description": "Health authorities are warning of yet another potential health threat in Gaza: leptospirosis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/doctors-fear-swamp-fever-spreading-in-flood-hit-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-12-12T074608Z_1325328582_RC2TEIACVW0R_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA_cropped-1767290780.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-01-01 18:10:25",
+      "content": "NewsFeed Health authorities are warning of yet another potential health threat in Gaza: leptospirosis. Dr. Bassam Zaqout says widespread flooding and lack of basic sanitation make the devastated str\u2026 [+87 chars]",
+      "retrievedAt": "2026-01-02 19:06:01.634721",
+      "internal_id": "caab53a766712857f1eb9eff546b17d6b9ba81a14650320f1f00c22e4bd46164",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26586,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Sports Desk",
+      "title": "Wayne Gretzky vs Connor McDavid: Net worth, cars, lifestyle, legacy compared and more",
+      "description": "Hockey legends Wayne Gretzky and Connor McDavid showcase the evolution of NHL wealth. McDavid, currently at the peak of his career, boasts a $30 million net worth, while Gretzky's enduring brand and business ventures have amassed an estimated $250 million. Bo\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/nhl/news/wayne-gretzky-vs-connor-mcdavid-net-worth-cars-lifestyle-legacy-compared-and-more/articleshow/126291549.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126292139,width-1070,height-580,imgsize-863726,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-01 17:54:43",
+      "content": "Follow Us On Social Media Aaron Rodgers finally speaks out on life with his wife after months of keeping it private as the mystery around his marriage deepensNMC orders hosps to stock rabies drugs a\u2026 [+1869 chars]",
+      "retrievedAt": "2026-01-02 19:05:58.934039",
+      "internal_id": "30c5af08e6c9d3659fb06749b428e78df47989d9df262cfc969423f6f97dab00",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26589,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Deidre Mcphillips",
+      "title": "US records 2,065 measles cases in 2025",
+      "description": "Measles has been considered eliminated in the U.S. since 2000. But multiple large outbreaks in 2025 may be connected, which puts the elimination status on the line if cases continue to grow through late January.",
+      "url": "https://www.wisn.com/article/us-measles-2025-cases/69897360",
+      "urlToImage": "https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwp1zzvscnuwmdb5m2i2c28yodb1c2m4-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntanvlanf6yzawdxiynm96mwcwc2jhzjcpreview-2909502250275-020867766627516926.JPG?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-01 14:08:13",
+      "content": "The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades. Ongoing outbreaks particularly in the upstate region\u2026 [+3118 chars]",
+      "retrievedAt": "2026-01-02 19:05:59.423800",
+      "internal_id": "89dcb831cad1447505aced59a1490dcba0e550c47ce03146fda0a451250af573",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26587,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KCCI Des Moines",
+      "author": "Deidre Mcphillips",
+      "title": "US records 2,065 measles cases in 2025",
+      "description": "Measles has been considered eliminated in the U.S. since 2000. But multiple large outbreaks in 2025 may be connected, which puts the elimination status on the line if cases continue to grow through late January.",
+      "url": "https://www.kcci.com/article/us-measles-2025-cases/69897360",
+      "urlToImage": "https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwp1zzvscnuwmdb5m2i2c28yodb1c2m4-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntanvlanf6yzawdxiynm96mwcwc2jhzjcpreview-2909502250275-020867766627516926.JPG?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-01 14:05:41",
+      "content": "The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades. Ongoing outbreaks particularly in the upstate region\u2026 [+3118 chars]",
+      "retrievedAt": "2026-01-02 19:05:59.394304",
+      "internal_id": "26d7cf1f4aaf8d6fc2a2ea692e916d5308062f44857346581ab19bf4d1898436",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26588,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Deidre Mcphillips",
+      "title": "US records 2,065 measles cases in 2025",
+      "description": "Measles has been considered eliminated in the U.S. since 2000. But multiple large outbreaks in 2025 may be connected, which puts the elimination status on the line if cases continue to grow through late January.",
+      "url": "https://www.wesh.com/article/us-measles-2025-cases/69897360",
+      "urlToImage": "https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwp1zzvscnuwmdb5m2i2c28yodb1c2m4-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntanvlanf6yzawdxiynm96mwcwc2jhzjcpreview-2909502250275-020867766627516926.JPG?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-01 14:05:39",
+      "content": "The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades. Ongoing outbreaks particularly in the upstate region\u2026 [+3118 chars]",
+      "retrievedAt": "2026-01-02 19:05:59.404370",
+      "internal_id": "f499b1542038ce4b8d6ee359a275da81e1ba89ae5a5e403dc499ff7f4ed4fc46",
+      "publishedAtLabel": "Jan 1"
+    },
     {
       "id": 26585,
       "query": [
@@ -14893,78 +14983,6 @@
       "retrievedAt": "2025-11-18 07:07:49.821331",
       "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
       "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 25759,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0427\u0435\u0445\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u044f\u0442\u044b\u0439 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u043e\u0447\u0430\u0433 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442 \u043e\u043a\u043e\u043b\u043e 2,5 \u0442\u044b\u0441. \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0442\u043e\u043a",
-      "url": "https://tass.ru/obschestvo/25640213",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/25640213?u=2025-11-16T16:46:36.209427",
-      "publishedAt": "2025-11-16 16:46:36",
-      "content": "2,5 . , 16 . //. . TK. H5N1 . 2,5 . . . 2017 - 27 . 60 . . 2025 . . 70 . .",
-      "retrievedAt": "2025-11-17 19:06:08.510196",
-      "internal_id": "33b8561c19f9d423be1b7a2e862dbd4d05f40b6a1ebf6c398fb7a44a0805f322",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25758,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Measles patient exposes masses at Bnei Brak event hall",
-      "description": "Health Ministry calls on anyone who attended an event at Keter Harimon in Bnei Brak to check vaccination status, call Ministry hotline.",
-      "url": "https://www.israelnationalnews.com/news/417861",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1081194.jpg",
-      "publishedAt": "2025-11-16 15:48:23",
-      "content": "Israel's Health Ministry on Sunday reported that a measles patient was present at an event held last Tuesday in the Keter Harimon hall on Aharonowitz Street 10 in Bnei Brak. The event took place sta\u2026 [+1691 chars]",
-      "retrievedAt": "2025-11-17 19:06:08.015769",
-      "internal_id": "a941f9949b7ed9cb94ba217e94853e6891be391f65f0c871fbbdf1404f6b284c",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25757,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)",
-      "description": "Joseph Choi / The Hill: Canada loses its measles elimination status, and the US is close behind \u2014 Canada has lost its measles elimination status nearly three decades after it achieved the distinction, under circumstances that closely resemble what's happene\u2026",
-      "url": "https://www.memeorandum.com/251116/p7",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/11/Measles_Choi_Getty_GeoffRobins.jpg?w=1280",
-      "publishedAt": "2025-11-16 14:00:32",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-11-17 19:06:07.996327",
-      "internal_id": "07adddd97e906d5c444938413ce942ccc6407c9f32a4bb4893c6c61f7feef405",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25760,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Govt confirms new mpox cluster involving four relatives",
-      "description": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/16/3624949.jpg",
-      "publishedAt": "2025-11-16 09:32:00",
-      "content": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. In a s\u2026 [+2458 chars]",
-      "retrievedAt": "2025-11-17 19:06:09.945635",
-      "internal_id": "57b76656a83acc5313959c011a246c509f937b0e375a1f34b432088925b605ab",
-      "publishedAtLabel": "Nov 16"
     }
   ]
 }
