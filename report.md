@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-01-01 19:06
-- **Most recent article:** 2025-12-31 17:40:11
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-01-02 07:10
+- **Most recent article:** 2026-01-01 05:03:11
 
 ---
 
@@ -10,27 +10,41 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 24 | 18 | 15 | 45 | 38 | 31 | 29 | 200 |
-| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 4 | 142 |
-| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 5 | 108 |
-| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 2 | 98 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 79 |
-| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 53 |
-| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 3 | 45 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 10 | 30 |
-| zika | 1 | 2 | 6 | 6 | 2 | 3 | 2 | 22 |
-| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 2 | 20 |
-| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 1 | 19 |
-| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 4 | 18 |
-| hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 13 |
-| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 9 |
+| Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| measles | 26 | 18 | 15 | 45 | 38 | 31 | 35 | 2 | 210 |
+| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 4 | 0 | 142 |
+| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 108 |
+| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 2 | 0 | 99 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 1 | 80 |
+| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 0 | 54 |
+| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 45 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 10 | 1 | 31 |
+| zika | 1 | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 22 |
+| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 20 |
+| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 19 |
+| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 4 | 0 | 18 |
+| hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 13 |
+| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 0 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-1 (rabies)
+
+- [Can a human get rabies from a possum?](https://www.lifesciencesworld.com/can-a-human-get-rabies-from-a-possum/) (Lifesciencesworld.com)
+
+## 26-1 (meningitis)
+
+- [Aussie cricket star Damien Martyn hospitalised for meningitis. Apollo doc explains how it can affect brain and even cause death](https://economictimes.indiatimes.com/magazines/panache/aussie-cricket-star-damien-martyn-hospitalised-for-meningitis-apollo-doc-explains-how-it-can-affect-brain-and-even-cause-death/articleshow/126282747.cms) (The Times of India)
+
+## 26-1 (measles)
+
+- [Kentucky health officials warn of potential measles exposure at Grant County hotel, Ark Encounter](https://www.wlwt.com/article/kentucky-health-measles-exposure-grant-county-hotel-ark-encounter/69896258) (WLWT Cincinnati)
+
+- [Measles NC | Child in North Carolina treated for measles in Polk County after visiting area linked to outbreak in South Carolina](https://abc11.com/post/measles-nc-child-north-carolina-treated-polk-county-visiting-area-linked-outbreak-south/18336942/) (WTVD-TV)
 
 ## 25-53 (zika)
 
@@ -95,6 +109,18 @@ Source: [News API](https://newsapi.org/)
 - [Australian cricket great Damien Martyn rushed to hospital and placed in induced coma with meningitis](https://www.nzherald.co.nz/sport/australian-cricket-great-damien-martyn-rushed-to-hospital-and-placed-in-induced-coma-with-meningitis/W4ZFBWDT65AUJASVD3MS4D5DLU/) (New Zealand Herald)
 
 ## 25-53 (measles)
+
+- [2025: The Year The USA Got Infected With Both Measles And Robert F. Kennedy Jr.](https://www.wonkette.com/p/2025-the-year-the-usa-got-infected) (Wonkette.com)
+
+- [Joe Rogan sparks controversy with misleading measles take - Here's the truth](https://www.marca.com/en/ufc/2025/12/31/69559be346163fb6568b4572.html) (Marca)
+
+- [NCDHHS: Child in North Carolina was likely positive for measles](https://www.wxii12.com/article/ncdhss-child-presumed-positive-measles/69895436) (WXII12 Winston-Salem)
+
+- [More than 2,000 measles cases reported in the US this year as ongoing outbreaks threaten elimination status | CNN](https://www.cnn.com/2025/12/31/health/measles-cases-outbreaks-continue) (CNN)
+
+- [Nebraska officials report another confirmed case of measles](https://www.ketv.com/article/nebraska-second-confirmed-measles-case-platte-county/69894967) (KETV Omaha)
+
+- [Where vaccination rates declined the most, by county (Herb Scribner/Axios)](https://www.memeorandum.com/251231/p56) (Memeorandum.com)
 
 - [U.S. Reaches Over 2,000 Measles Cases as 2 Airports Detect Cases Over Holidays](https://legalinsurrection.com/2025/12/u-s-reaches-over-2000-measles-cases-as-2-airports-detect-cases-over-holidays/) (Legalinsurrection.com)
 
@@ -1760,6 +1786,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
+- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
+
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1817,6 +1845,10 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
+
+- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
+
+- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1893,6 +1925,8 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
+
+- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
