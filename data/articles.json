@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-01-03 07:07",
-  "count_articles_total": 839,
-  "count_articles_new": 5,
+  "last_updated": "2026-01-03 19:05",
+  "count_articles_total": 843,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 26597,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "David Edwards",
+      "title": "Measles scare hits creationist Ark Encounter as unvaccinated visitor spreads infection",
+      "description": "The creationist theme park Ark Encounter was hit with a measles scare after an infected person visited the Kentucky attraction.According to the Kentucky Department for Public Health, the infected person was not vaccinated for measles.\"Health officials have id\u2026",
+      "url": "https://www.rawstory.com/ark-encounter-measles/",
+      "urlToImage": "https://www.rawstory.com/media-library/ark-encounter.jpg?id=62652647&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "publishedAt": "2026-01-02 19:03:44",
+      "content": "The creationist theme park Ark Encounter was hit with a measles scare after an infected person visited the Kentucky attraction. According to the Kentucky Department for Public Health, the infected p\u2026 [+1335 chars]",
+      "retrievedAt": "2026-01-03 19:05:57.178105",
+      "internal_id": "f316139174127f36a6308a4ac21cdef46e695984a5fce106eb5b34be0c3b47c9",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26599,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Truveta",
+      "title": "New Truveta research published in JAMA Network Open reveals declining timeliness in childhood MMR vaccination and identifies early predictors of missed immunizations",
+      "description": "BELLEVUE, Wash., Jan. 02, 2026 (GLOBE NEWSWIRE) -- Truveta today announced the publication of new peer-reviewed research in JAMA Network Open that provides one of the most comprehensive and timely analyses to date on childhood measles, mumps, and rubella (MMR\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/01/02/3212201/0/en/New-Truveta-research-published-in-JAMA-Network-Open-reveals-declining-timeliness-in-childhood-MMR-vaccination-and-identifies-early-predictors-of-missed-immunizations.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/73a323f5-9c99-4791-abf5-98c9ecd0edf0",
+      "publishedAt": "2026-01-02 16:33:00",
+      "content": "BELLEVUE, Wash., Jan. 02, 2026 (GLOBE NEWSWIRE) -- Truveta today announced the publication of new peer-reviewed research in JAMA Network Open that provides one of the most comprehensive and timely an\u2026 [+5130 chars]",
+      "retrievedAt": "2026-01-03 19:05:57.269866",
+      "internal_id": "9166883470f6141877fb2bd59b904843d6361aeeb7a81ba383637091869f461b",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26603,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "La ex Gran Hermano Silvina Scheffler fue dada de alta luego de pasar 10 d\u00edas en terapia intensiva",
+      "description": "La actriz y profesora de gimnasia, que fue pareja de Nito Artaza durante a\u00f1os, hab\u00eda contra\u00eddo leptospirosis y estaba en grave estado",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/la-ex-gran-hermano-silvina-scheffler-fue-dada-de-alta-luego-de-pasar-10-dias-en-terapia-intensiva-nid02012026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ex-gran-hermano-silvina-scheffler-fue-dada-de-IHBJ6Q4LSRBCBDZLLYTXF7J4XY.jpg?auth=6c8597c3f10ee524a7a93214f665c7248a31e8a4a29b995d8eafc6d1b950b047&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2026-01-02 16:32:27",
+      "content": "La actriz y exparticipante de Gran Hermano 2007, Silvina Scheffler, estuvo internada desde el pasado 22 de diciembre, tras contraer leptospirosis. Sin embargo, despu\u00e9s de pasar 10 d\u00edas en terapia int\u2026 [+3370 chars]",
+      "retrievedAt": "2026-01-03 19:05:59.174449",
+      "internal_id": "d0f3fb8e40020183cf15b5a9f34ea097f8ebef795340f375bc9ff3ee645ac633",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26598,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Mustafa Fattah",
+      "title": "Parents who delay baby's first vaccines also likely to skip measles shots",
+      "description": "As the U.S. copes with ongoing measles outbreaks and possible changes to the childhood vaccine schedule loom, a new report shows the risks of delaying vaccines.",
+      "url": "https://www.nbcnews.com/health/kids-health/delaying-vaccines-measles-risk-report-rfk-jr-rcna251735",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251209-baby-bandage-mn-1150-f9b85e.jpg",
+      "publishedAt": "2026-01-02 16:03:37",
+      "content": "Under the leadership of Health and Human Services Secretary Robert F. Kennedy Jr., an anti-vaccine activist, the current U.S. childhood immunization schedule has come under scrutiny. In early Decembe\u2026 [+5693 chars]",
+      "retrievedAt": "2026-01-03 19:05:57.260614",
+      "internal_id": "e1e92f581da8628cf2a2a9118bfbd7250c0ef28096a710e8467037eb4074106a",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26600,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Moslem Soofi, Ali Kazemi-Karyani, Zahra Alipoor, Hekmatolla Mahmoodi, Behzad Karamimatin",
+      "title": "Willingness to pay for a dengue vaccine in Iran: Insights from a contingent valuation study",
+      "description": "Author summary Dengue fever is an illness spread by mosquitoes that can lead to serious health problems. Vaccination is one way to prevent dengue, but in Iran, we do not know how much people are willing to pay for such a vaccine or what influences their decis\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013869",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013869.g001&size=inline",
+      "publishedAt": "2026-01-02 14:00:00",
+      "content": "Citation: Soofi M, Kazemi-Karyani A, Alipoor Z, Mahmoodi H, Karamimatin B (2026) Willingness to pay for a dengue vaccine in Iran: Insights from a contingent valuation study. PLoS Negl Trop Dis 20(1):\u2026 [+23222 chars]",
+      "retrievedAt": "2026-01-03 19:05:57.822125",
+      "internal_id": "00c5bd1eafaf09a2fa7be46e9ed238e4cae0c58e8a5c200ffb1fb8dea84a690d",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26602,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Renz Soliman",
+      "title": "Monkeypox Symptoms in 2026: New Mpox Signs and How to Spot the Contagious Rash",
+      "description": "Learn about monkeypox symptoms, mpox signs, and contagious rash updates. Learn rash stages, new warnings, transmission risks & when to seek help.",
+      "url": "https://www.medicaldaily.com/monkeypox-symptoms-2026-new-mpox-signs-how-spot-contagious-rash-474101",
+      "urlToImage": "https://d.medicaldaily.com/en/full/480959/monkeypox.jpg",
+      "publishedAt": "2026-01-02 13:00:02",
+      "content": "Monkeypox, now more commonly referred to as mpox, remains a significant public health concern in 2026 due to evolving knowledge about its symptoms and transmission patterns. This article provides an \u2026 [+6144 chars]",
+      "retrievedAt": "2026-01-03 19:05:58.830234",
+      "internal_id": "d6c8aed040cb3ef0948376e494c6bd5c0301c92ef703939b90b9b8626e872d03",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26596,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSB Radio",
+      "author": "Wsb Radio News Staff",
+      "title": "Animal officials urge caution after rise in rabies cases",
+      "description": "The spread of rabies can happen more easily than many people realize.",
+      "url": "https://www.wsbradio.com/news/local/animal-officials-urge-caution-after-rise-rabies-cases/HFK3C22TJNHSDLASMXKOLEPZAU/",
+      "urlToImage": "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FI3VB7U6TDVAOFK6T2JLPYEY5YI.jpeg?auth=46614be1eb20aa6b1b6ad71190494f2bf5c86cd4e9658804098789ef7c91f567&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-02 12:05:55",
+      "content": "GWINNETT COUNTY, GA \u2014 Gwinnett Animal Welfare and Enforcement Services is warning residents about the dangers of rabies following recent rabid coyote attacks in the county. Officials say the spread \u2026 [+1353 chars]",
+      "retrievedAt": "2026-01-03 19:05:56.686278",
+      "internal_id": "e11441ad387e632925f90632acf6428084417c79ebfdc275031b4534c9bc6676",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26601,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Divyadeep Singh",
+      "title": "Damien Martyn health update: Adam Gilchrist gives big update as ex-Australian batter battles meningitis; here\u2019s what he said",
+      "description": "Former Australian cricketer Damien Martyn is showing positive signs after being hospitalized with meningitis and placed in an induced coma. His former teammate Adam Gilchrist shared the encouraging update, noting improvements in recent tests. Martyn, a key pl\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/australia/damien-martyn-health-update-adam-gilchrist-gives-big-update-as-ex-australian-batter-battles-meningitis-heres-what-he-said/articleshow/126303572.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126303562,width-1200,height-630,imgsize-5738,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-02 09:56:02",
+      "content": "Adam Gichrist, former Australian batter and wicketkeeper, gave a big update on his former teammate and batter Damien Martyn, who was diagnosed with meningitis, saying that the latter is showing \"posi\u2026 [+1373 chars]",
+      "retrievedAt": "2026-01-03 19:05:58.082055",
+      "internal_id": "41954444a30a859038dbb5550e1836d89ee854bb3c40c3b0414fab75396b7140",
+      "publishedAtLabel": "Jan 2"
+    },
     {
       "id": 26593,
       "query": [
@@ -15073,78 +15217,6 @@
       "retrievedAt": "2025-11-18 07:07:49.821331",
       "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
       "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 25759,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0427\u0435\u0445\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u044f\u0442\u044b\u0439 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u043e\u0447\u0430\u0433 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442 \u043e\u043a\u043e\u043b\u043e 2,5 \u0442\u044b\u0441. \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0442\u043e\u043a",
-      "url": "https://tass.ru/obschestvo/25640213",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/25640213?u=2025-11-16T16:46:36.209427",
-      "publishedAt": "2025-11-16 16:46:36",
-      "content": "2,5 . , 16 . //. . TK. H5N1 . 2,5 . . . 2017 - 27 . 60 . . 2025 . . 70 . .",
-      "retrievedAt": "2025-11-17 19:06:08.510196",
-      "internal_id": "33b8561c19f9d423be1b7a2e862dbd4d05f40b6a1ebf6c398fb7a44a0805f322",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25758,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Measles patient exposes masses at Bnei Brak event hall",
-      "description": "Health Ministry calls on anyone who attended an event at Keter Harimon in Bnei Brak to check vaccination status, call Ministry hotline.",
-      "url": "https://www.israelnationalnews.com/news/417861",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1081194.jpg",
-      "publishedAt": "2025-11-16 15:48:23",
-      "content": "Israel's Health Ministry on Sunday reported that a measles patient was present at an event held last Tuesday in the Keter Harimon hall on Aharonowitz Street 10 in Bnei Brak. The event took place sta\u2026 [+1691 chars]",
-      "retrievedAt": "2025-11-17 19:06:08.015769",
-      "internal_id": "a941f9949b7ed9cb94ba217e94853e6891be391f65f0c871fbbdf1404f6b284c",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25757,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)",
-      "description": "Joseph Choi / The Hill: Canada loses its measles elimination status, and the US is close behind \u2014 Canada has lost its measles elimination status nearly three decades after it achieved the distinction, under circumstances that closely resemble what's happene\u2026",
-      "url": "https://www.memeorandum.com/251116/p7",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/11/Measles_Choi_Getty_GeoffRobins.jpg?w=1280",
-      "publishedAt": "2025-11-16 14:00:32",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-11-17 19:06:07.996327",
-      "internal_id": "07adddd97e906d5c444938413ce942ccc6407c9f32a4bb4893c6c61f7feef405",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 25760,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Govt confirms new mpox cluster involving four relatives",
-      "description": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/16/3624949.jpg",
-      "publishedAt": "2025-11-16 09:32:00",
-      "content": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. In a s\u2026 [+2458 chars]",
-      "retrievedAt": "2025-11-17 19:06:09.945635",
-      "internal_id": "57b76656a83acc5313959c011a246c509f937b0e375a1f34b432088925b605ab",
-      "publishedAtLabel": "Nov 16"
     }
   ]
 }
