@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-01-02 19:06",
-  "count_articles_total": 830,
+  "last_updated": "2026-01-03 07:07",
+  "count_articles_total": 839,
   "count_articles_new": 5,
   "articles": [
+    {
+      "id": 26593,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Landmark chickenpox vaccine rollout begins",
+      "description": "The NHS says the jab will keep more kids in school, and their parents won't have to take time off work to look after them.",
+      "url": "https://news.sky.com/story/chickenpox-vaccine-being-rolled-out-on-nhs-for-first-time-13489556",
+      "urlToImage": "https://e3.365dm.com/26/01/1600x900/skynews-chickenpox-vaccine_7124184.jpg?20260101234757",
+      "publishedAt": "2026-01-01 23:22:00",
+      "content": "A chickenpox vaccine is being rolled out on the NHS for the first time. It will be offered to youngsters alongside the MMR jab, which protects against measles, mumps, and rubella. It's a combo that\u2026 [+2014 chars]",
+      "retrievedAt": "2026-01-03 07:07:45.156307",
+      "internal_id": "e4653b31f75c92677362dfd45070d287181586037e53156903d3e6a68a89d8e6",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "U.S. reports over 2,000 measles cases in 2025, highest since 1992",
+      "description": "LOS ANGELES, Jan. 1 (Xinhua) -- The United States reported more than 2,000 measles cases in 2025, the highest annual total since 1992, according to the latest data released by the U.S. Centers for Disease Control and Prevention (CDC). Read full story",
+      "url": "https://www.thestar.com.my/news/world/2026/01/02/us-reports-over-2000-measles-cases-in-2025-highest-since-1992",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2026-01-01 22:10:00",
+      "content": "LOS ANGELES, Jan. 1 (Xinhua) -- The United States reported more than 2,000 measles cases in 2025, the highest annual total since 1992, according to the latest data released by the U.S. Centers for Di\u2026 [+1204 chars]",
+      "retrievedAt": "2026-01-03 07:07:45.165280",
+      "internal_id": "2ccd91eeb732a863f3be5a3e7c3089662ef71a1a3726876974b6fc43322f923b",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26591,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "RTI: Four of 10 faculty posts vacant across 11 AIIMS",
+      "description": "Nearly 40% of sanctioned faculty posts remain vacant across 11 AIIMS, revealing a significant staffing crunch at India's premier public hospitals. This widespread shortage, affecting both older and newer institutes, raises concerns about patient care, special\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/rti-four-of-10-faculty-posts-vacant-across-11-aiims/articleshow/126294251.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126294224,width-1070,height-580,imgsize-2279689,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-01 21:47:38",
+      "content": "Follow Us On Social Media Aaron Rodgers finally speaks out on life with his wife after months of keeping it private as the mystery around his marriage deepensNMC orders hosps to stock rabies drugs a\u2026 [+1869 chars]",
+      "retrievedAt": "2026-01-03 07:07:44.770102",
+      "internal_id": "0eac41e495021722f851b906935c26e03ea1f037d4776aa269136853c594119f",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26592,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "NMC orders hospitals to stock rabies drugs after Supreme Court flags stray threat",
+      "description": "Medical colleges nationwide must now maintain constant stocks of anti-rabies vaccines and immunoglobulin, following Supreme Court directives. This crucial step ensures timely treatment for dog-bite victims, addressing rising incidents in public spaces. The Na\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/nmc-orders-hosps-to-stock-rabies-drugs-after-supreme-court-flags-stray-threat/articleshow/126294063.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126294062,width-1070,height-580,imgsize-1570278,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-01 21:39:30",
+      "content": "News India News NMC orders hospitals to stock rabies drugs after Supreme Court flags stray threat Follow Us On Social Media Is Anthony Davis playing tonight vs\u2026 [+1891 chars]",
+      "retrievedAt": "2026-01-03 07:07:44.788335",
+      "internal_id": "9ade2b4c9b9e6d42e0f8b2ccb87c97d85b2eac67d773e9be28ec0593794dfc80",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26595,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Jon Healy",
+      "title": "Gilchrist says 'encouraging signs' as Damien Martyn treated for meningitis",
+      "description": "Adam Gilchrist says there are \"positive signs\" from recent tests on former state and national teammate Damien Martyn, who is in hospital due to meningitis.",
+      "url": "https://www.abc.net.au/news/2026-01-02/damien-martyn-meningitis-health-update-adam-gilchrist/106193746",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4c6225f41d672934644d98d0702853cc?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=72&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-01-01 20:13:13",
+      "content": "Adam Gilchrist has provided a brief update on the wellbeing of former teammate Damien Martyn after it was revealed Martyn had been hospitalised with meningitis. News came through on Wednesday that M\u2026 [+2117 chars]",
+      "retrievedAt": "2026-01-03 07:07:45.868907",
+      "internal_id": "5b3e44c0212626c3937fbbacace54f3a20a6313f59dfb667ae62ebb7d56e2eeb",
+      "publishedAtLabel": "Jan 1"
+    },
     {
       "id": 26590,
       "query": [
@@ -14983,6 +15073,78 @@
       "retrievedAt": "2025-11-18 07:07:49.821331",
       "internal_id": "05c8a9e4fcc380adc5f79314d816b55fd5800d6c97fb5fd9a7ca1928c715d503",
       "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 25759,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0427\u0435\u0445\u0438\u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u044f\u0442\u044b\u0439 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u043e\u0447\u0430\u0433 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0442 \u043e\u043a\u043e\u043b\u043e 2,5 \u0442\u044b\u0441. \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0442\u043e\u043a",
+      "url": "https://tass.ru/obschestvo/25640213",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/25640213?u=2025-11-16T16:46:36.209427",
+      "publishedAt": "2025-11-16 16:46:36",
+      "content": "2,5 . , 16 . //. . TK. H5N1 . 2,5 . . . 2017 - 27 . 60 . . 2025 . . 70 . .",
+      "retrievedAt": "2025-11-17 19:06:08.510196",
+      "internal_id": "33b8561c19f9d423be1b7a2e862dbd4d05f40b6a1ebf6c398fb7a44a0805f322",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25758,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles patient exposes masses at Bnei Brak event hall",
+      "description": "Health Ministry calls on anyone who attended an event at Keter Harimon in Bnei Brak to check vaccination status, call Ministry hotline.",
+      "url": "https://www.israelnationalnews.com/news/417861",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1081194.jpg",
+      "publishedAt": "2025-11-16 15:48:23",
+      "content": "Israel's Health Ministry on Sunday reported that a measles patient was present at an event held last Tuesday in the Keter Harimon hall on Aharonowitz Street 10 in Bnei Brak. The event took place sta\u2026 [+1691 chars]",
+      "retrievedAt": "2025-11-17 19:06:08.015769",
+      "internal_id": "a941f9949b7ed9cb94ba217e94853e6891be391f65f0c871fbbdf1404f6b284c",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25757,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)",
+      "description": "Joseph Choi / The Hill: Canada loses its measles elimination status, and the US is close behind \u2014 Canada has lost its measles elimination status nearly three decades after it achieved the distinction, under circumstances that closely resemble what's happene\u2026",
+      "url": "https://www.memeorandum.com/251116/p7",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/11/Measles_Choi_Getty_GeoffRobins.jpg?w=1280",
+      "publishedAt": "2025-11-16 14:00:32",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-11-17 19:06:07.996327",
+      "internal_id": "07adddd97e906d5c444938413ce942ccc6407c9f32a4bb4893c6c61f7feef405",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 25760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Govt confirms new mpox cluster involving four relatives",
+      "description": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/16/3624949.jpg",
+      "publishedAt": "2025-11-16 09:32:00",
+      "content": "PUTRAJAYA: The Health Ministry has confirmed a new mpox cluster affecting four family members, with the index case identified as a non-citizen man with a recent travel history to West Africa. In a s\u2026 [+2458 chars]",
+      "retrievedAt": "2025-11-17 19:06:09.945635",
+      "internal_id": "57b76656a83acc5313959c011a246c509f937b0e375a1f34b432088925b605ab",
+      "publishedAtLabel": "Nov 16"
     }
   ]
 }

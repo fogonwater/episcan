@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 5
-- **Last harvest:** 2026-01-02 19:06
-- **Most recent article:** 2026-01-01 18:10:25
+- **Last harvest:** 2026-01-03 07:07
+- **Most recent article:** 2026-01-01 23:22:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 24 | 18 | 15 | 45 | 38 | 31 | 35 | 5 | 211 |
+| measles | 26 | 18 | 15 | 45 | 38 | 31 | 35 | 7 | 215 |
 | dengue | 13 | 35 | 19 | 34 | 26 | 11 | 4 | 0 | 142 |
 | malaria | 12 | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 108 |
-| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 2 | 0 | 98 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 2 | 81 |
-| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 0 | 53 |
+| h5n1 | 20 | 29 | 13 | 10 | 15 | 10 | 2 | 0 | 99 |
+| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 4 | 83 |
+| mpox | 3 | 5 | 4 | 28 | 9 | 5 | 0 | 0 | 54 |
 | chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 45 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 10 | 1 | 31 |
+| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 10 | 2 | 32 |
 | zika | 1 | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 22 |
 | yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 20 |
 | leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 4 | 1 | 19 |
@@ -34,15 +34,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-1 (rabies)
 
+- [RTI: Four of 10 faculty posts vacant across 11 AIIMS](https://timesofindia.indiatimes.com/india/rti-four-of-10-faculty-posts-vacant-across-11-aiims/articleshow/126294251.cms) (The Times of India)
+
+- [NMC orders hospitals to stock rabies drugs after Supreme Court flags stray threat](https://timesofindia.indiatimes.com/india/nmc-orders-hosps-to-stock-rabies-drugs-after-supreme-court-flags-stray-threat/articleshow/126294063.cms) (The Times of India)
+
 - [Wayne Gretzky vs Connor McDavid: Net worth, cars, lifestyle, legacy compared and more](https://timesofindia.indiatimes.com/sports/nhl/news/wayne-gretzky-vs-connor-mcdavid-net-worth-cars-lifestyle-legacy-compared-and-more/articleshow/126291549.cms) (The Times of India)
 
 - [Can a human get rabies from a possum?](https://www.lifesciencesworld.com/can-a-human-get-rabies-from-a-possum/) (Lifesciencesworld.com)
 
 ## 26-1 (meningitis)
 
+- [Gilchrist says 'encouraging signs' as Damien Martyn treated for meningitis](https://www.abc.net.au/news/2026-01-02/damien-martyn-meningitis-health-update-adam-gilchrist/106193746) (ABC News (AU))
+
 - [Aussie cricket star Damien Martyn hospitalised for meningitis. Apollo doc explains how it can affect brain and even cause death](https://economictimes.indiatimes.com/magazines/panache/aussie-cricket-star-damien-martyn-hospitalised-for-meningitis-apollo-doc-explains-how-it-can-affect-brain-and-even-cause-death/articleshow/126282747.cms) (The Times of India)
 
 ## 26-1 (measles)
+
+- [Landmark chickenpox vaccine rollout begins](https://news.sky.com/story/chickenpox-vaccine-being-rolled-out-on-nhs-for-first-time-13489556) (Sky.com)
+
+- [U.S. reports over 2,000 measles cases in 2025, highest since 1992](https://www.thestar.com.my/news/world/2026/01/02/us-reports-over-2000-measles-cases-in-2025-highest-since-1992) (The Star Online)
 
 - [US records 2,065 measles cases in 2025](https://www.wisn.com/article/us-measles-2025-cases/69897360) (WISN Milwaukee)
 
@@ -1798,6 +1808,8 @@ Source: [News API](https://newsapi.org/)
 
 - [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
 
+- [Govt confirms new mpox cluster involving four relatives](https://www.thestar.com.my/news/nation/2025/11/16/govt-confirms-new-mpox-cluster-involving-four-relatives) (The Star Online)
+
 ## 25-47 (meningitis)
 
 - [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
@@ -1855,6 +1867,10 @@ Source: [News API](https://newsapi.org/)
 - [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
 
 - [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
+
+- [Measles patient exposes masses at Bnei Brak event hall](https://www.israelnationalnews.com/news/417861) (Israelnationalnews.com)
+
+- [Canada loses its measles elimination status, and the US is close behind (Joseph Choi/The Hill)](https://www.memeorandum.com/251116/p7) (Memeorandum.com)
 
 ## 25-47 (malaria)
 
@@ -1931,6 +1947,8 @@ Source: [News API](https://newsapi.org/)
 - [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
 
 - [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
+
+- [В Чехии подтвердили пятый крупный очаг птичьего гриппа](https://tass.ru/obschestvo/25640213) (Tass.ru)
 
 ## 25-47 (dengue)
 
