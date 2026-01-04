@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-01-03 19:05
-- **Most recent article:** 2026-01-02 19:03:44
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-01-04 07:09
+- **Most recent article:** 2026-01-03 05:40:00
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-47 | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| measles | 24 | 18 | 15 | 45 | 38 | 31 | 35 | 10 | 216 |
-| dengue | 13 | 35 | 19 | 34 | 26 | 11 | 4 | 1 | 143 |
-| malaria | 12 | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 108 |
-| h5n1 | 19 | 29 | 13 | 10 | 15 | 10 | 2 | 0 | 98 |
-| rabies | 4 | 8 | 7 | 21 | 11 | 20 | 8 | 5 | 84 |
-| mpox | 2 | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 54 |
-| chikungunya | 2 | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 45 |
-| meningitis | 3 | 4 | 4 | 3 | 1 | 5 | 10 | 3 | 33 |
-| zika | 1 | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 22 |
-| leptospirosis | 1 | 7 | 3 | 0 | 1 | 2 | 4 | 2 | 20 |
-| yersinia | 2 | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 20 |
-| pertussis | 3 | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 19 |
-| hpai | 2 | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 13 |
-| typhoid | 2 | 1 | 1 | 1 | 2 | 0 | 2 | 0 | 9 |
+| Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 18 | 15 | 45 | 38 | 31 | 35 | 16 | 198 |
+| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 129 |
+| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 96 |
+| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 81 |
+| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 0 | 78 |
+| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 52 |
+| chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 43 |
+| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 3 | 30 |
+| leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 21 |
+| zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 21 |
+| yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 18 |
+| pertussis | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 16 |
+| hpai | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 11 |
+| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 0 | 7 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-1 (rabies)
+
+- [How likely is it to get rabies from a bat?](https://www.lifesciencesworld.com/how-likely-is-it-to-get-rabies-from-a-bat/) (Lifesciencesworld.com)
 
 - [Animal officials urge caution after rise in rabies cases](https://www.wsbradio.com/news/local/animal-officials-urge-caution-after-rise-rabies-cases/HFK3C22TJNHSDLASMXKOLEPZAU/) (WSB Radio)
 
@@ -58,7 +60,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-1 (measles)
 
+- [Health Authorities Issue Measles Alert at Creationist Museum (William Vaillancourt/The Daily Beast)](https://www.memeorandum.com/260103/p2) (Memeorandum.com)
+
+- [America on verge of losing measles elimination status, outbreak surges in SCarolina...](https://www.themirror.com/news/us-news/verge-losing-measles-elimination-status-1591286) (Themirror.com)
+
+- [Morden church, rec centre latest measles exposure sites in Manitoba](https://www.cbc.ca/news/canada/manitoba/morden-church-rec-centre-measles-exposures-9.7032467) (CBC News)
+
+- [US Measles Cases Reach Highest Level In 30 Years Thanks To Outbreaks In South Carolina, Arizona, And Utah](https://brobible.com/culture/article/us-measles-cases-highest-level-30-years/) (BroBible)
+
+- [South Carolina measles outbreak grows to 185 cases amid vaccination worries](https://www.aljazeera.com/news/2026/1/2/south-carolina-measles-outbreak-grows-to-185-cases-amid-vaccination-worries) (Al Jazeera English)
+
 - [Measles scare hits creationist Ark Encounter as unvaccinated visitor spreads infection](https://www.rawstory.com/ark-encounter-measles/) (Raw Story)
+
+- [Children who miss early vaccines more likely to not get the MMR shot by age 2: Study](https://abcnews.go.com/Health/children-miss-early-vaccines-mmr-shot-age-2/story?id=128843493) (ABC News)
 
 - [New Truveta research published in JAMA Network Open reveals declining timeliness in childhood MMR vaccination and identifies early predictors of missed immunizations](https://www.globenewswire.com/news-release/2026/01/02/3212201/0/en/New-Truveta-research-published-in-JAMA-Network-Open-reveals-declining-timeliness-in-childhood-MMR-vaccination-and-identifies-early-predictors-of-missed-immunizations.html) (GlobeNewswire)
 
@@ -79,6 +93,10 @@ Source: [News API](https://newsapi.org/)
 - [Measles NC | Child in North Carolina treated for measles in Polk County after visiting area linked to outbreak in South Carolina](https://abc11.com/post/measles-nc-child-north-carolina-treated-polk-county-visiting-area-linked-outbreak-south/18336942/) (WTVD-TV)
 
 ## 26-1 (leptospirosis)
+
+- ["Recen por mí": el desgarrador pedido de ex "Gran Hermano" tras agravarse su salud por una rara infección](https://www.elpais.com.uy/tvshow/personajes/recen-por-mi-el-desgarrador-pedido-de-ex-gran-hermano-tras-agravarse-su-salud-por-una-rara-infeccion) (Diario EL PAIS Uruguay)
+
+- [Silvina Scheffler recibió el alta tras una semana de internación: "Gracias a cada oración"](https://exitoina.perfil.com/noticias/destacada/silvina-scheffler-recibio-alta-tras-semana-internacion-gracias-oracion.phtml) (Perfil.com)
 
 - [La ex Gran Hermano Silvina Scheffler fue dada de alta luego de pasar 10 días en terapia intensiva](https://www.lanacion.com.ar/espectaculos/personajes/la-ex-gran-hermano-silvina-scheffler-fue-dada-de-alta-luego-de-pasar-10-dias-en-terapia-intensiva-nid02012026/) (La Nacion)
 
@@ -1710,8 +1728,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
-- [Δεύτερος θάνατος από γρίπη των πτηνών στις ΗΠΑ](https://www.skai.gr/news/world/deyteros-thanatos-apo-gripi-ton-ptinon-stis-ipa) (Skai.gr)
-
 ## 25-48 (dengue)
 
 - [Bajan 83 por ciento los casos de dengue en comparación con 2024](https://www.jornada.com.mx/2025/11/29/politica/012n1pol) (Jornada.com.mx)
@@ -1782,216 +1798,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Wolbachia mosquitoes to be released at 4 more sites, including Bedok and Marsiling, to curb dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquitoes-release-dengue-marsiling-woodlands-bedok-kaki-bukit-kembangan-5486911) (CNA)
 
-- [Ciudad Obregón refuerza acciones en hogares para prevenir dengue y eliminar criaderos de mosquitos](https://www.tribuna.com.mx/sonora/2025/11/22/ciudad-obregon-refuerza-acciones-en-hogares-para-prevenir-dengue-eliminar-criaderos-de-mosquitos-420306.html) (Tribuna.com.mx)
-
 ## 25-48 (chikungunya)
 
 - [Risk factors associated with dengue and chikungunya seroprevalence and seroconversion among urban populations in western and coastal Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013740) (Plos.org)
-
-## 25-47 (zika)
-
-- [Insektentränke und Fledermausbox: Leichte Maßnahmen für alle [premium]](https://www.diepresse.com/20329932/insektentraenke-und-fledermausbox-leichte-massnahmen-fuer-alle) (Diepresse.com)
-
-## 25-47 (yersinia)
-
-- [Kuollut jyrsijä päätyi päivä­kotilasten ruokaan – Nyt tuli testitulos](https://www.iltalehti.fi/kotimaa/a/86e29554-2676-4a20-a62f-34114d04346d) (Iltalehti.fi)
-
-- [First assessment of plague in terrestrial small mammals and fleas from Makira Natural Park and surroundings, North-eastern Madagascar](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013710) (Plos.org)
-
-## 25-47 (typhoid)
-
-- [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Scientists Warn](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-scientists-warn) (ScienceAlert)
-
-- [Solos AirGo A5 Review: These AI Smart Glasses Need a Brain Transplant](https://gizmodo.com/solos-airgo-a5-review-these-ai-smart-glasses-need-a-brain-transplant-2000685667) (Gizmodo.com)
-
-## 25-47 (rabies)
-
-- [20 Ways People Would Use One Wish From a Movie Genie](https://trivia.cracked.com/article_49009_20-ways-people-would-use-one-wish-from-a-movie-genie.html) (Cracked.com)
-
-- [Sabah holds major rabies awareness campaign amid cases in neighbouring states](https://www.thestar.com.my/news/nation/2025/11/22/sabah-holds-major-rabies-awareness-campaign-amid-cases-in-neighbouring-states) (The Star Online)
-
-- [Woman Going Viral After Telling Story Of Her Neighbor Lying To Animal Control About Her Dog Having Rabies](http://twistedsifter.com/2025/11/woman-going-viral-after-telling-story-of-her-neighbor-lying-to-animal-control-about-her-dog-having-rabies/) (Twistedsifter.com)
-
-- [Rabies Virus Market Research Report 2025-2035: Recombinant Nanoparticle-based Formulations and Monoclonal Antibody Cocktails are Reshaping the Industry](https://www.globenewswire.com/news-release/2025/11/18/3189740/28124/en/Rabies-Virus-Market-Research-Report-2025-2035-Recombinant-Nanoparticle-based-Formulations-and-Monoclonal-Antibody-Cocktails-are-Reshaping-the-Industry.html) (GlobeNewswire)
-
-## 25-47 (pertussis)
-
-- [Pertussis outbreak surges in US, jumps 25-fold since 2023; Is it because of fading immunity or falling vaccination? Who faces the greatest risk and what precautions are needed](https://economictimes.indiatimes.com/news/international/us/pertussis-outbreak-surges-in-us-jumps-25-fold-since-2023-is-it-because-of-fading-immunity-or-falling-vaccination-who-faces-the-greatest-risk-and-what-precautions-are-needed/articleshow/125478816.cms) (The Times of India)
-
-- [Waning Immunity and Falling Vaccination Rates Fuel Pertussis Outbreaks](https://kffhealthnews.org/news/article/pertussis-whooping-cough-outbreaks-dtap-tdap-vaccine-immunity-decrease-texas/) (Kffhealthnews.org)
-
-- [Whooping cough cases urge as vaccination rates fall, immunity wanes](https://www.cbsnews.com/news/whooping-cough-pertussis-cases-vaccination-rates/) (CBS News)
-
-## 25-47 (mpox)
-
-- [Mensen die mpox hadden zijn vermoedelijk langdurig beschermd tegen nieuwe infectie, aldus studie van Instituut voor Tropische Geneeskunde](https://www.nieuwsblad.be/nieuws/mensen-die-mpox-hadden-zijn-vermoedelijk-langdurig-beschermd-tegen-nieuwe-infectie-aldus-studie-van-instituut-voor-tropische-geneeskunde/105737668.html) (Nieuwsblad.be)
-
-- [La variole du singe refait parler d'elle : avoir été infecté par le mpox permettrait d'en être protégé pour longtemps](https://www.lalibre.be/planete/sante/2025/11/18/la-variole-du-singe-refait-parler-delle-avoir-ete-infecte-par-le-mpox-permettrait-den-etre-protege-pour-longtemps-Q5VND7BMONB25ICPJLXPW2DOJQ/) (Lalibre.be)
-
-## 25-47 (meningitis)
-
-- [Cristina Regojo, médica y afectada por la meningitis: «De repente, no oía nada y no sabía qué me pasaba»](https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2025/11/18/cristina-regojo-medica-afectada-meningitis-repente-oia-sabia-me-pasaba/00031763480482513945471.htm) (Lavozdegalicia.es)
-
-- [El colegio de médicos acoge un documental y una charla sobre la meningitis en Galicia](https://www.lavozdegalicia.es/noticia/ourense/2025/11/19/meningitis-galicia-alla-cifras/0003_202511O19C6997.htm) (Lavozdegalicia.es)
-
-- [How Littler inspired patient to be next darts ace](https://www.bbc.com/news/articles/cvgv66yqlwvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
-
-## 25-47 (measles)
-
-- [Is the US at risk of losing its measles elimination status?](https://abcnews.go.com/Health/us-risk-losing-measles-elimination-status/story?id=127763508) (ABC News)
-
-- ['Absurd Yet Predictable': US Close to Losing Measles Elimination Status Under RFK Jr.](https://www.commondreams.org/news/rfk-measles-elimination) (Common Dreams)
-
-- [4 more measles cases, 1 new exposure site confirmed in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-cases-weekly-update-9.6987954) (CBC News)
-
-- [4 more measles cases confirmed in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-cases-weekly-update-9.6987954) (CBC News)
-
-- [Measles surge hits Short Creek as Utah health officials urge vaccinations, early dosing for infants](https://www.stgeorgeutah.com/life/health-wellness/measles-surge-hits-short-creek-as-utah-health-officials-urge-vaccinations-early-dosing-for-infants/article_6c016122-7775-4d59-bd4c-0e099035278e.html) (St George News)
-
-- [Are there lessons for the U.S. in this European country's struggle with measles?](https://www.npr.org/sections/goats-and-soda/2025/11/21/g-s1-97678/measles-romania-vaccines) (NPR)
-
-- [Mitochondrial targeting by measles virus nucleoprotein modulates viral spread in human airway epithelium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013713) (Plos.org)
-
-- [Measles outbreak in Arizona and Utah could spell the end for U.S. elimination status](https://www.nbcnews.com/health/health-news/measles-outbreak-arizona-utah-us-elimination-status-rcna244841) (NBC News)
-
-- [US could lose its measles elimination status within months, experts say](https://www.livescience.com/health/viruses-infections-disease/us-could-lose-its-measles-elimination-status-within-months-experts-say) (Live Science)
-
-- [The US is on track to lose its measles elimination status in months. RFK needs to go.](https://www.livescience.com/health/viruses-infections-disease/us-is-on-track-to-lose-its-measles-elimination-status-in-months-rfk-needs-to-go-opinion) (Live Science)
-
-- [CDC officials confirm that the US is two months away from measles...](https://kottke.org/25/11/0047877-cdc-officials-confirm-tha) (kottke.org)
-
-- [US Is on the Brink of Losing Measles Elimination Status](https://www.newser.com/story/378914/us-is-on-the-brink-of-losing-measles-elimination-status.html) (Newser)
-
-- [Daily briefing: Kissing might have evolved 21.5 million years ago](https://www.nature.com/articles/d41586-025-03835-6) (Nature.com)
-
-- [CDC Links Measles Outbreaks in Multiple States](https://politicalwire.com/2025/11/18/cdc-links-measles-outbreaks-in-multiple-states/) (Politicalwire.com)
-
-- [Republican Support for Key Childhood Vaccines Is Backsliding](https://financialpost.com/pmn/business-pmn/republican-support-for-key-childhood-vaccines-is-backsliding) (Financial Post)
-
-- [Parents’ confidence in childhood vaccine effectiveness, safety testing and schedule](http://www.pewresearch.org/science/2025/11/18/parents-confidence-in-childhood-vaccine-effectiveness-safety-testing-and-schedule/) (Pew Research Center)
-
-- [Another mission accomplished for RFK Jr.](https://www.lawyersgunsmoneyblog.com/2025/11/another-mission-accomplished-for-rfk-jr) (Lawyersgunsmoneyblog.com)
-
-- [C.D.C. Links Measles Outbreaks in Multiple States for the First Time (New York Times)](https://www.memeorandum.com/251117/p148) (Memeorandum.com)
-
-- [Two cases of measles found in central Utah, health department says](https://ksltv.com/health/two-cases-of-measles-in-central-utah/847376/) (ksltv.com)
-
-- [Measles makes a comeback: four charts show where and how](https://www.nature.com/articles/d41586-025-03769-z) (Nature.com)
-
-- [5 new measles exposure sites reported in Winnipeg](https://www.cbc.ca/news/canada/manitoba/5-new-measles-exposure-sites-reported-in-winnipeg-9.6981765) (CBC News)
-
-- [Pakistan launches drive to vaccinate 57M children against measles, rubella and polio](https://abcnews.go.com/International/wireStory/pakistan-launches-drive-vaccinate-57-million-children-measles-127590564) (ABC News)
-
-- [Today's biggest science news: Comet 3I/ATLAS images | U.S. measles surge | Severe flu season](https://www.livescience.com/space/live/latest-science-news-thursday-nov-20-2025) (Live Science)
-
-- [Alberta doctors call for regular access to vaccines in children's hospitals to combat low immunization rates](https://www.cbc.ca/news/canada/calgary/alberta-children-hospital-vaccinations-9.6979364) (CBC News)
-
-## 25-47 (malaria)
-
-- [Taoiseach joined by other world leaders in pledging combined billions to fight deadly diseases](https://www.thejournal.ie/g20-ireland-micheal-martin-6882459-Nov2025/) (TheJournal.ie)
-
-- [El Gómez Ulla indemniza a un paciente por no informar de los riesgos de unas pastillas contra el covid](https://www.elconfidencialdigital.com/articulo/defensa/gomez-ulla-indemniza-paciente-informar-riesgos-pastillas-covid/20251120172219990180.html) (Elconfidencialdigital.com)
-
-- [Podcast Episode 17: Bridging an Uncertain Time for a Lifesaving Program](https://blog.givewell.org/2025/11/20/podcast-episode-17-bridging-an-uncertain-time-for-a-lifesaving-program/) (Givewell.org)
-
-- [Freiburg's Irié makes progress after malaria but not fit v Bayern](https://nordot.app/1364264406410084747) (Nordot.app)
-
-- [SC Freiburg: Irié macht Fortschritte nach Malaria, Mut-Plan gegen Bayern](https://www.transfermarkt.de/malaria-infektion-positive-signale-bei-freiburgs-irie-schusters-mut-plan-gegen-bayern/view/news/463194) (Transfermarkt)
-
-- [Fußball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Irié](https://www.tagesspiegel.de/sport/fussball-bundesliga-nach-malaria-infektion-positive-signale-bei-freiburgs-irie-14899931.html) (Der Tagesspiegel)
-
-- [Fußball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Irié](https://www.zeit.de/news/2025-11/20/nach-malaria-infektion-positive-signale-bei-freiburgs-iri) (Die Zeit)
-
-- [Fußball-Bundesliga: Nach Malaria-Infektion: Positive Signale bei Freiburgs Irié](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/fussball-bundesliga--nach-malaria-infektion--positive-signale-bei-freiburgs-iri%C3%A9-36826934.html) (STERN.de)
-
-- [Author Correction: A male-drive female-sterile system for the self-limited control of the malaria mosquito Anopheles gambiae](https://www.nature.com/articles/s41467-025-66588-w) (Nature.com)
-
-- [Jeremy Lewin, Senior Bureau Official for Foreign Assistance, Humanitarian Affairs, and Religious Freedom; Daniel O'Day, Chairman and Chief Executive Officer of Gilead Sciences; and Peter Sands, Executive Director of the Global Fund to Fight AIDS, Tuberculosis, and Malaria](https://www.globalsecurity.org/military/library/news/2025/11/mil-251117-state04.htm) (Globalsecurity.org)
-
-- [India $135+ Mn Artesunate Market Trends, Competition, Forecast and Opportunities, 2030F](https://www.globenewswire.com/news-release/2025/11/18/3190297/28124/en/India-135-Mn-Artesunate-Market-Trends-Competition-Forecast-and-Opportunities-2030F.html) (GlobeNewswire)
-
-- [Ángel Villacampa desea darle el campeonato a Emilio Azcárraga: "Podemos darle un título al patrón"](https://www.record.com.mx/futbol/futbol-nacional/ligafemenilmx/angel-villacampa-desea-darle-el-campeonato-emilio-azcarraga) (Record.com.mx)
-
-## 25-47 (leptospirosis)
-
-- [Jamaica reports deadly leptospirosis outbreak after Hurricane Melissa](https://www.thestar.com.my/news/world/2025/11/22/jamaica-reports-deadly-leptospirosis-outbreak-after-hurricane-melissa) (The Star Online)
-
-## 25-47 (hpai)
-
-- [Ptasia grypa. Ograniczenia w dwudziestu powiatach na Mazowszu](https://tvn24.pl/tvnwarszawa/okolice/mazowieckie-ptasia-grypa-rozporzadzenie-w-sprawie-zwalczania-wysoce-zjadliwej-grypy-ptakow-hpai-ograniczenia-w-dwudziestu-powiatach-st8764837) (Tvn24.pl)
-
-- [Bolu'da ‘kuş gribi’ uyarısı](https://www.yenicaggazetesi.com.tr/boluda-kus-gribi-uyarisi-980901h.htm) (Yenicaggazetesi.com.tr)
-
-## 25-47 (h5n1)
-
-- [Những điều cần biết về bệnh cúm gia cầm lây sang người](https://tinhte.vn/thread/nhung-dieu-can-biet-ve-benh-cum-gia-cam-lay-sang-nguoi.4076443/) (Tinhte.vn)
-
-- [В США умер первый заразившийся штаммом птичьего гриппа H5N5](https://tass.ru/obschestvo/25699707) (Tass.ru)
-
-- [Confirmado el primer caso de gripe aviar en aves silvestres en La Rioja](https://www.europapress.es/la-rioja/noticia-confirmado-primer-caso-gripe-aviar-aves-silvestres-rioja-20251121142415.html) (Europapress.es)
-
-- [창원시, 주남저수지 탐방로 등 전면 출입통제](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003185002) (Ohmynews.com)
-
-- [창원 주남저수지 쇠기러기 고병원성 AI 확진…출입통제](https://www.khan.co.kr/article/202511211704001) (Khan.co.kr)
-
-- [Vogelgrippe für Menschen unbedenklich](https://vorarlberg.orf.at/stories/3330824/) (Vorarlberg.orf.at)
-
-- [La muerte de un zorro por gripe aviar en Zaragoza acerca el virus a los humanos en España](https://www.elperiodico.com/es/sanidad/20251120/muerte-zorro-gripe-aviar-aragon-acerca-virus-humanos-espana-123946227) (Elperiodico.com)
-
-- [Strage di elefanti marini](https://www.internazionale.it/magazine/2025/11/20/strage-di-elefanti-marini) (Internazionale.it)
-
-- [Vogelgrippe: Stallpflicht in Hochrisikogebieten tritt in Kraft](https://www.diepresse.com/20325645/vogelgrippe-stallpflicht-in-hochrisikogebieten-tritt-in-kraft) (Diepresse.com)
-
-- [Moartea unei vulpi din cauza gripei aviare sporește temerile privind mutațiile care ar putea ajunge la oameni](https://www.mediafax.ro/externe/moartea-unei-vulpi-din-cauza-gripei-aviare-sporeste-temerile-privind-mutatiile-care-ar-putea-ajunge-la-oameni-23645059) (Mediafax.ro)
-
-- [Rare bird flu case detected in Hawaii...](https://www.the-express.com/news/health/190851/bird-flu-reaches-popular-us) (The-express.com)
-
-- [Macau proíbe importação de carne do distrito do Porto](https://observador.pt/2025/11/19/macau-proibe-importacao-de-carne-e-ovos-do-distrito-do-porto-devido-a-gripe-aviaria/) (Observador.pt)
-
-- [H5N1'den sonra H5N5 korkusu: Kuş gribi virüsündeki protein değişikliği ne anlama geliyor?](https://www.chip.com.tr/guncel/h5n1den-sonra-h5n5-korkusu-kus-gribi-virusundeki-protein-degisikligi-ne-anlama-geliyor_174718.html) (Chip.com.tr)
-
-- [Na Nymbursku začala likvidace chovu kachen s ptačí chřipkou, pomáhají i vězni](https://www.idnes.cz/praha/zpravy/perena-nouzov-ptaci-chripka-likvidaci-vezni-nakaza-ohnisko.A251118_103246_praha-zpravy_pari) (Idnes.cz)
-
-- [Aviaria, aumentano i focolai al Nord. Aziende agricole sequestrate e smaltimento di uova nel Varesotto, abbattimenti nell’Alto Mantovano](https://www.ilfattoquotidiano.it/2025/11/18/aviaria-aziende-sequestrate-smaltimento-uova-varesotto-abbattimenti-mantovano/8198431/) (Ilfattoquotidiano.it)
-
-- [H5N1 bird flu cases spike in Europe. How worried should we be?](https://theconversation.com/h5n1-bird-flu-cases-spike-in-europe-how-worried-should-we-be-269962) (The Conversation Africa)
-
-- [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.zeit.de/news/2025-11/17/gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen) (Die Zeit)
-
-- [Landwirtschaft: Geflügelpest im Landkreis Ludwigslust-Parchim ausgebrochen](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/landwirtschaft--gefluegelpest-im-landkreis-ludwigslust-parchim-ausgebrochen-36556490.html) (STERN.de)
-
-- [Un ñandú muerto en el Zoo se convierte en el segundo caso de gripe aviar en Córdoba](https://www.abc.es/espana/andalucia/cordoba/nandu-muerto-zoo-convierte-segundo-gripe-aviar-20251117164152-nts.html) (Www.abc.es)
-
-## 25-47 (dengue)
-
-- [Dengue Cases Are Surging: Crucial Symptoms and Warning Signs You Must Not Ignore](https://www.medicaldaily.com/dengue-cases-are-surging-crucial-symptoms-warning-signs-you-must-not-ignore-473995) (Medical Daily)
-
-- [Insektentränke und Fledermausbox: Leichte Maßnahmen für alle [premium]](https://www.diepresse.com/20329932/insektentraenke-und-fledermausbox-leichte-massnahmen-fuer-alle) (Diepresse.com)
-
-- [Health officials identify new travel-related case of dengue virus on Oahu, bringing total cases to 14 in 2025](https://www.hawaiinewsnow.com/2025/11/21/health-officials-identify-new-travel-related-case-dengue-virus-oahu-bringing-total-cases-14-2025/) (Hawaii News Now)
-
-- [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
-
-- [BCG cell wall skeleton augments the immunogenicity of dengue nanoparticle vaccines by promoting dendritic cell activation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337113) (Plos.org)
-
-- [Spatial heterogenicity of tuberculosis and dengue in Nepal](https://www.nature.com/articles/s41598-025-24798-8) (Nature.com)
-
-- [Non-canonical Metatranscriptomic analysis of COVID-19 and Dengue reveals an expanded microbial and AMR landscape in COVID-19 mortality patients](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013703) (Plos.org)
-
-- [Spatiotemporal expansion of Aedes aegypti and the dengue fever epidemic under climate change in China](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013702) (Plos.org)
-
-- [Autoridades de Ciudad Obregón refuerzan lucha contra el dengue con fumigación y descacharrización](https://www.tribuna.com.mx/sonora/2025/11/18/autoridades-de-ciudad-obregon-refuerzan-lucha-contra-el-dengue-con-fumigacion-descacharrizacion-419899.html) (Tribuna.com.mx)
-
-- [Phenotypic variation in populations of the mosquito vector, Aedes aegypti, and implications for predicting the effects of temperature and climate change on dengue transmission](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013623) (Plos.org)
-
-- [Navojoa: Familias de la comunidad de 'El Jopo' piden ayuda contra el dengue](https://www.tribuna.com.mx/sonora/2025/11/17/navojoa-familias-de-la-comunidad-de-el-jopo-piden-ayuda-contra-el-dengue-419789.html) (Tribuna.com.mx)
-
-- [Dengue México. Contagios al 10 noviembre 2025](https://www.excelsior.com.mx/nacional/dengue-mexico-contagios-al-10-noviembre-2025/1752124) (Excelsior.com.mx)
-
-- [Desde Salud Municipal refuerzan prevención de dengue en Ciudad Obregón](https://www.tribuna.com.mx/sonora/2025/11/16/desde-salud-municipal-refuerzan-prevencion-de-dengue-en-ciudad-obregon-419728.html) (Tribuna.com.mx)
-
-## 25-47 (chikungunya)
-
-- [Groźny wirus wymknął się spod kontroli. Tysiące zarażonych na Karaibach](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-wymknal-sie-spod-kontroli-tysiace-zarazonych-na,nId,22457051) (Interia.pl)
-
-- [Cuba se hunde en una crisis sanitaria sin precedentes por una ola de infecciones transmitidas por mosquitos que arrasa la isla](https://www.abc.es/sociedad/cuba-hunda-crisis-sanitaria-precedentes-ola-virus-20251120131351-nt.html) (Www.abc.es)
