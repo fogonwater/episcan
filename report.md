@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-01-04 07:09
-- **Most recent article:** 2026-01-03 05:40:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-01-04 19:06
+- **Most recent article:** 2026-01-03 18:49:44
 
 ---
 
@@ -12,25 +12,29 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 18 | 15 | 45 | 38 | 31 | 35 | 16 | 198 |
+| measles | 17 | 15 | 45 | 38 | 31 | 35 | 17 | 198 |
 | dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 129 |
-| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 96 |
+| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 94 |
 | rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 81 |
-| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 0 | 78 |
+| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 76 |
 | mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 52 |
 | chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 43 |
-| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 3 | 30 |
+| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 4 | 31 |
 | leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 21 |
 | zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 21 |
 | yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 18 |
 | pertussis | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 16 |
 | hpai | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 11 |
-| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 0 | 7 |
+| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 1 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-1 (typhoid)
+
+- [Gandhinagar typhoid surge: Over 100 people hospitalized; Amit Shah reviews situation](https://economictimes.indiatimes.com/news/india/gandhinagar-typhoid-surge-over-100-persons-hospitalized-amit-shah-reviews-situation/articleshow/126322093.cms) (The Times of India)
 
 ## 26-1 (rabies)
 
@@ -52,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-1 (meningitis)
 
+- [‘Progressing well’: Damien Martyn’s family issues first statement about cricketer’s recovery from meningitis since he was placed in induced coma](https://indianexpress.com/article/sports/cricket/damien-martyn-meningitis-coma-recovering-well-family-10453895/) (The Indian Express)
+
 - [Damien Martyn health update: Adam Gilchrist gives big update as ex-Australian batter battles meningitis; here’s what he said](https://economictimes.indiatimes.com/news/international/australia/damien-martyn-health-update-adam-gilchrist-gives-big-update-as-ex-australian-batter-battles-meningitis-heres-what-he-said/articleshow/126303572.cms) (The Times of India)
 
 - [Gilchrist says 'encouraging signs' as Damien Martyn treated for meningitis](https://www.abc.net.au/news/2026-01-02/damien-martyn-meningitis-health-update-adam-gilchrist/106193746) (ABC News (AU))
@@ -59,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 - [Aussie cricket star Damien Martyn hospitalised for meningitis. Apollo doc explains how it can affect brain and even cause death](https://economictimes.indiatimes.com/magazines/panache/aussie-cricket-star-damien-martyn-hospitalised-for-meningitis-apollo-doc-explains-how-it-can-affect-brain-and-even-cause-death/articleshow/126282747.cms) (The Times of India)
 
 ## 26-1 (measles)
+
+- [NCDHHS: Someone with measles traveled through Gaston County](https://www.qcnews.com/news/u-s/north-carolina/gaston-county/ncdhhs-someone-with-measles-traveled-through-gaston-county/) (Qcnews.com)
 
 - [Health Authorities Issue Measles Alert at Creationist Museum (William Vaillancourt/The Daily Beast)](https://www.memeorandum.com/260103/p2) (Memeorandum.com)
 
@@ -101,6 +109,10 @@ Source: [News API](https://newsapi.org/)
 - [La ex Gran Hermano Silvina Scheffler fue dada de alta luego de pasar 10 días en terapia intensiva](https://www.lanacion.com.ar/espectaculos/personajes/la-ex-gran-hermano-silvina-scheffler-fue-dada-de-alta-luego-de-pasar-10-dias-en-terapia-intensiva-nid02012026/) (La Nacion)
 
 - [Doctors fear ‘swamp fever’ spreading in flood-hit Gaza](https://www.aljazeera.com/video/newsfeed/2026/1/1/doctors-fear-swamp-fever-spreading-in-flood-hit-gaza) (Al Jazeera English)
+
+## 26-1 (h5n1)
+
+- [La grippe aviaire, une épidémie hors norme pour la faune sauvage](https://www.mediapart.fr/journal/ecologie/030126/la-grippe-aviaire-une-epidemie-hors-norme-pour-la-faune-sauvage) (Mediapart)
 
 ## 26-1 (dengue)
 
@@ -1612,8 +1624,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
-- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
-
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1645,10 +1655,6 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
-
-- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
-
-- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -1721,12 +1727,6 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
-
-- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
-
-- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
-
-- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 
