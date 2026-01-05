@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2026-01-04 19:06
-- **Most recent article:** 2026-01-03 18:49:44
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-01-05 07:14
+- **Most recent article:** 2026-01-04 01:42:57
 
 ---
 
@@ -10,29 +10,35 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 17 | 15 | 45 | 38 | 31 | 35 | 17 | 198 |
-| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 129 |
-| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 94 |
-| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 81 |
-| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 76 |
-| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 52 |
-| chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 43 |
-| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 4 | 31 |
-| leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 21 |
-| zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 21 |
-| yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 18 |
-| pertussis | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 16 |
-| hpai | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 11 |
-| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 1 | 8 |
+| Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| measles | 18 | 15 | 45 | 38 | 31 | 35 | 26 | 0 | 208 |
+| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 0 | 129 |
+| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 0 | 96 |
+| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 1 | 82 |
+| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 1 | 0 | 79 |
+| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 0 | 52 |
+| chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 0 | 43 |
+| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 0 | 32 |
+| leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 0 | 21 |
+| zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 0 | 21 |
+| yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 0 | 18 |
+| pertussis | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 0 | 16 |
+| hpai | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 0 | 11 |
+| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 0 | 9 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 26-2 (rabies)
+
+- [Dipolog: AMAHAN NAGPOST SA SOCIAL MEDIA KABAHIN SA IYANG KASAGMUYO SA RHU ROXAS, DR. ATIENZA MIPASABOT SA KAHIMTANGAN SA PASILIDAD](https://rpnradio.com/dipolog-amahan-nagpost-sa-social-media-kabahin-sa-iyang-kasagmuyo-sa-rhu-roxas-dr-atienza-mipasabot-sa-kahimtangan-sa-pasilidad/) (Rpnradio.com)
+
 ## 26-1 (typhoid)
+
+- [Water contamination scare now in Gandhinagar, B'luru; gastrointestinal illness, typhoid cases see a spike](https://timesofindia.indiatimes.com/india/water-contamination-scare-now-in-gandhinagar-bluru-gastrointestinal-illness-typhoid-cases-see-a-spike/articleshow/126327613.cms) (The Times of India)
 
 - [Gandhinagar typhoid surge: Over 100 people hospitalized; Amit Shah reviews situation](https://economictimes.indiatimes.com/news/india/gandhinagar-typhoid-surge-over-100-persons-hospitalized-amit-shah-reviews-situation/articleshow/126322093.cms) (The Times of India)
 
@@ -56,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-1 (meningitis)
 
+- [Cricket 2026: Damien Martyn wakes up from induced coma after meningitis, health update for cricket great, Adam Gilchrist, latest news](https://www.foxsports.com.au/cricket/australia/cricket-2026-damien-martyn-meningitis-induced-coma-family-give-update-over-health-recovery/news-story/5c766d1326dce3ad3881560c1f1e531f) (Fox Sports)
+
 - [‘Progressing well’: Damien Martyn’s family issues first statement about cricketer’s recovery from meningitis since he was placed in induced coma](https://indianexpress.com/article/sports/cricket/damien-martyn-meningitis-coma-recovering-well-family-10453895/) (The Indian Express)
 
 - [Damien Martyn health update: Adam Gilchrist gives big update as ex-Australian batter battles meningitis; here’s what he said](https://economictimes.indiatimes.com/news/international/australia/damien-martyn-health-update-adam-gilchrist-gives-big-update-as-ex-australian-batter-battles-meningitis-heres-what-he-said/articleshow/126303572.cms) (The Times of India)
@@ -66,19 +74,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-1 (measles)
 
+- [Possible measles exposure in Gaston County](https://www.wsoctv.com/news/local/possible-measles-exposure-gaston-county/3UBNTYBQZBBGXLHJSYIFFBPOWQ/) (WSOC Charlotte)
+
+- [Measles exposure reported in Gaston County, NC Department of Health and Human Services says](https://abc11.com/post/measles-exposure-reported-gaston-county-nc-department-health-human-services-says/18347587/) (WTVD-TV)
+
+- [Measles exposure warning issued for Gaston County restaurant and Christmas event](https://www.wbtv.com/2026/01/03/measles-exposure-warning-issued-gaston-county-restaurant-christmas-event/) (WBTV)
+
 - [NCDHHS: Someone with measles traveled through Gaston County](https://www.qcnews.com/news/u-s/north-carolina/gaston-county/ncdhhs-someone-with-measles-traveled-through-gaston-county/) (Qcnews.com)
 
 - [Health Authorities Issue Measles Alert at Creationist Museum (William Vaillancourt/The Daily Beast)](https://www.memeorandum.com/260103/p2) (Memeorandum.com)
 
+- [Health Authorities Issue Measles Alert at Creationist Museum](https://www.thedailybeast.com/health-authorities-issue-measles-alert-at-creationist-museum/) (Daily Beast)
+
 - [America on verge of losing measles elimination status, outbreak surges in SCarolina...](https://www.themirror.com/news/us-news/verge-losing-measles-elimination-status-1591286) (Themirror.com)
 
 - [Morden church, rec centre latest measles exposure sites in Manitoba](https://www.cbc.ca/news/canada/manitoba/morden-church-rec-centre-measles-exposures-9.7032467) (CBC News)
+
+- ['It's very worrisome': Health officials urge vaccination amid North Carolina measles case](https://wlos.com/news/local/polk-county-measles-case-linked-north-upstate-south-carolina-outbreak-department-health-care-hospital-confirmed-unvaccinated-vaccines-child-quarantine-safe-exposure) (WLOS)
 
 - [US Measles Cases Reach Highest Level In 30 Years Thanks To Outbreaks In South Carolina, Arizona, And Utah](https://brobible.com/culture/article/us-measles-cases-highest-level-30-years/) (BroBible)
 
 - [South Carolina measles outbreak grows to 185 cases amid vaccination worries](https://www.aljazeera.com/news/2026/1/2/south-carolina-measles-outbreak-grows-to-185-cases-amid-vaccination-worries) (Al Jazeera English)
 
 - [Measles scare hits creationist Ark Encounter as unvaccinated visitor spreads infection](https://www.rawstory.com/ark-encounter-measles/) (Raw Story)
+
+- [SC measles outbreak grows, spreads to North Carolina](https://www.postandcourier.com/health/sc-measles-outbreak-growing-north-carolina/article_2291762f-8892-4941-b721-b61021c07561.html) (Charleston Post Courier)
 
 - [Children who miss early vaccines more likely to not get the MMR shot by age 2: Study](https://abcnews.go.com/Health/children-miss-early-vaccines-mmr-shot-age-2/story?id=128843493) (ABC News)
 
@@ -89,6 +109,12 @@ Source: [News API](https://newsapi.org/)
 - [Landmark chickenpox vaccine rollout begins](https://news.sky.com/story/chickenpox-vaccine-being-rolled-out-on-nhs-for-first-time-13489556) (Sky.com)
 
 - [U.S. reports over 2,000 measles cases in 2025, highest since 1992](https://www.thestar.com.my/news/world/2026/01/02/us-reports-over-2000-measles-cases-in-2025-highest-since-1992) (The Star Online)
+
+- [Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status](https://abc30.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/) (KFSN-TV)
+
+- [Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status](https://abc7ny.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/) (WABC-TV)
+
+- [Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status](https://abc7chicago.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/) (WLS-TV)
 
 - [US records 2,065 measles cases in 2025](https://www.wisn.com/article/us-measles-2025-cases/69897360) (WISN Milwaukee)
 
@@ -1624,6 +1650,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
+- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
+
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1655,6 +1683,10 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
+
+- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
+
+- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -1727,6 +1759,12 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
+
+- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
+
+- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
+
+- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 

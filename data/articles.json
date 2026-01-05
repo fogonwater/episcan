@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-01-04 19:06",
-  "count_articles_total": 760,
-  "count_articles_new": 4,
+  "last_updated": "2026-01-05 07:14",
+  "count_articles_total": 778,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 26617,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN",
+      "title": "Dipolog: AMAHAN NAGPOST SA SOCIAL MEDIA KABAHIN SA IYANG KASAGMUYO SA RHU ROXAS, DR. ATIENZA MIPASABOT SA KAHIMTANGAN SA PASILIDAD",
+      "description": "Napuno sa kasikas ang social media post ni Dodoy Corpus human siya nagreklamo sa iyang kasinatian sa Rural Health Unit (RHU) Roxas may kalabotan sa pagpa-inject kontra rabies sa iyang anak nga napaakan sa iro. Sumala kang Corpus, Lunes pa sila miduol sa RHU a\u2026",
+      "url": "https://rpnradio.com/dipolog-amahan-nagpost-sa-social-media-kabahin-sa-iyang-kasagmuyo-sa-rhu-roxas-dr-atienza-mipasabot-sa-kahimtangan-sa-pasilidad/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/09/feat-dipolog.png",
+      "publishedAt": "2026-01-04 01:42:57",
+      "content": "Napuno sa kasikas ang social media post ni Dodoy Corpus human siya nagreklamo sa iyang kasinatian sa Rural Health Unit (RHU) Roxas may kalabotan sa pagpa-inject kontra rabies sa iyang anak nga napaak\u2026 [+1348 chars]",
+      "retrievedAt": "2026-01-05 07:14:36.857590",
+      "internal_id": "774f9584c64cc598a9aa938e42301b794896ca1a1ffb5ccf6d3aae1671b7abd6",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26618,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "Possible measles exposure in Gaston County",
+      "description": "North Carolina health officials say a person infected with measles may have exposed people in Gaston County.",
+      "url": "https://www.wsoctv.com/news/local/possible-measles-exposure-gaston-county/3UBNTYBQZBBGXLHJSYIFFBPOWQ/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTM4BV3RKLVFKJCNQW2SBKBNDAA.tif?auth=448a87a5a2ec306cfc6803ca8b4aad90f0e38a854c51975505eed60930ae5e65&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-03 22:53:51",
+      "content": "GASTON COUNTY, N.C. \u2014 North Carolina health officials say a person infected with measles may have exposed people in Gaston County. The Department of Health says the patient was at Constantines Rest\u2026 [+388 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.367290",
+      "internal_id": "06ad3fcf48953a81f22b6c05a58994540d9a5d1e0c5014fce1cbdea353d3e57c",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 26628,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Water contamination scare now in Gandhinagar, B'luru; gastrointestinal illness, typhoid cases see a spike",
+      "description": "Sewage contamination of drinking water has led to a public health scare in Gandhinagar and Bengaluru, mirroring a crisis in Indore. Gandhinagar reports 70 active typhoid cases due to leaks in the water supply network, while Bengaluru residents in Lingarajapur\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/water-contamination-scare-now-in-gandhinagar-bluru-gastrointestinal-illness-typhoid-cases-see-a-spike/articleshow/126327613.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126327630,width-1070,height-580,imgsize-1544361,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-03 19:57:47",
+      "content": "News India News Water contamination scare now in Gandhinagar, B'luru; gastrointestinal illness, typhoid cases see a spike Follow Us On Social Media Indian nati\u2026 [+1851 chars]",
+      "retrievedAt": "2026-01-05 07:14:39.164139",
+      "internal_id": "84f0594978701e2a663347ca4505f96726efd330c5947590088afb9e2f500ec0",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 26623,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": null,
+      "title": "Measles exposure reported in Gaston County, NC Department of Health and Human Services says",
+      "description": "A person while infected with measles traveled through Gaston County, according to the North Carolina Department of Health and Human Services.",
+      "url": "https://abc11.com/post/measles-exposure-reported-gaston-county-nc-department-health-human-services-says/18347587/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15959085_022725-wpvi-n1-measles-pkg-video-vid.jpg?w=1600",
+      "publishedAt": "2026-01-03 19:41:32",
+      "content": "GASTONIA, N.C. (WTVD) -- A person while infected with measles traveled through Gaston County, according to the North Carolina Department of Health and Human Services (NC DHHS) The identity of the pe\u2026 [+2337 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.468345",
+      "internal_id": "b1a9e549de2103de99054a6298060bde6af977f6af83e73db3582679353e9305",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 26627,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Fox Sports",
+      "author": "Fox Sports",
+      "title": "Cricket 2026: Damien Martyn wakes up from induced coma after meningitis, health update for cricket great, Adam Gilchrist, latest news",
+      "description": "Cricket 2026: Damien Martyn wakes up from induced coma after meningitis, health update for cricket great, Adam Gilchrist, latest newsfoxsports.com.au",
+      "url": "https://www.foxsports.com.au/cricket/australia/cricket-2026-damien-martyn-meningitis-induced-coma-family-give-update-over-health-recovery/news-story/5c766d1326dce3ad3881560c1f1e531f",
+      "urlToImage": "https://content.api.news/v3/images/bin/adcae8e0ffb99990ea7a67941dacbe64",
+      "publishedAt": "2026-01-03 19:32:47",
+      "content": "Damien Martyn has woken up from an induced coma with his family proclaiming he has managed a miraculous turnaround from meningitis. The 54-year-old Aussie cricket great, who played 67 Tests and was \u2026 [+5029 chars]",
+      "retrievedAt": "2026-01-05 07:14:38.263700",
+      "internal_id": "8c7817613e04be4940774631fd06cb8c7bcf7bf26e7826784cbddf47a2474e1d",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 26619,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WBTV",
+      "author": "Wbtv Web Staff",
+      "title": "Measles exposure warning issued for Gaston County restaurant and Christmas event",
+      "description": "Health officials said people should call ahead before visiting a doctor or emergency room so steps can be taken to prevent exposure to others.",
+      "url": "https://www.wbtv.com/2026/01/03/measles-exposure-warning-issued-gaston-county-restaurant-christmas-event/",
+      "urlToImage": "https://gray-wbtv-prod.gtv-cdn.com/resizer/v2/GWSXNZ5JXFG73GSRO6J4C3DJA4.jpg?auth=fffd9fd0fb0367532dbff6f77188ef78f86f1b87fd8b24f1a196ecbfe6ebe31e&width=1200&height=600&smart=true",
+      "publishedAt": "2026-01-03 18:54:24",
+      "content": "GASTONIA, N.C. (WBTV) - The North Carolina Department of Health and Human Services and Gaston County Public Health confirmed a measles case in a person who traveled through Gaston County while infect\u2026 [+1878 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.394441",
+      "internal_id": "b2c6ad9d6553b4fbad7e38e26045033f17776ae996fa078c79ef38c4a79fba69",
+      "publishedAtLabel": "Jan 3"
+    },
     {
       "id": 26613,
       "query": [
@@ -94,6 +202,24 @@
       "publishedAtLabel": "Jan 3"
     },
     {
+      "id": 26625,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "William Vaillancourt",
+      "title": "Health Authorities Issue Measles Alert at Creationist Museum",
+      "description": "In 2025, the U.S. had the most infections of the vaccine-preventable disease since 1992.",
+      "url": "https://www.thedailybeast.com/health-authorities-issue-measles-alert-at-creationist-museum/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/YZD3NPLFGJFFXHTET6QOJ6FATY.jpg?smart=true&auth=8f99f2b4dc40b65e992dbf83b9b6788d5e8dd061e47d32a0fdb0849df6164945&width=1200&height=630",
+      "publishedAt": "2026-01-03 02:46:22",
+      "content": "Measles may have been spread at a Noahs Ark-themed creationist museum in Kentucky earlier this week, the states health authority said. Visitors and staff of Ark Encounter in Williamstown are encoura\u2026 [+3061 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.488927",
+      "internal_id": "fcc4b8dd4c95be1e7d2d99b35d3363b5b09526abb626635cd422140ca9355efd",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
       "id": 26605,
       "query": [
         "measles"
@@ -145,6 +271,24 @@
       "content": "Public health officials are warning of two more measles exposure sites in southern Manitoba. Anyone who was at Morden's Access Event Centre on Dec. 20, from 3:30 to 11:30 p.m., is asked to monitor f\u2026 [+1310 chars]",
       "retrievedAt": "2026-01-04 07:09:10.396575",
       "internal_id": "11a33eec794e32daf23ef04dedfe6eb5ce3023f1c1996ea836a6d142ae493cf9",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26624,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Shelly Garzon",
+      "title": "'It's very worrisome': Health officials urge vaccination amid North Carolina measles case",
+      "description": "Polk County officials said 15 people are currently in quarantine related to a confirmed measles case linked to an ongoing outbreak in South Carolina.",
+      "url": "https://wlos.com/news/local/polk-county-measles-case-linked-north-upstate-south-carolina-outbreak-department-health-care-hospital-confirmed-unvaccinated-vaccines-child-quarantine-safe-exposure",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/6847/1320/0x282/90/300ec9eb-7fc1-44a3-afd3-b195e31f0508-AP25345663232442.jpg",
+      "publishedAt": "2026-01-02 22:44:28",
+      "content": "POLK COUNTY, N.C. (WLOS) Polk County leaders confirmed one case of measles in the county, marking what state health officials believe is North Carolina's first case linked to an ongoing outbreak in S\u2026 [+2899 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.478002",
+      "internal_id": "2ff212856053d671eb51bd6bcd55c14d5a18d70d9bd2ad11222df5c86b84367d",
       "publishedAtLabel": "Jan 2"
     },
     {
@@ -235,6 +379,24 @@
       "content": "The creationist theme park Ark Encounter was hit with a measles scare after an infected person visited the Kentucky attraction. According to the Kentucky Department for Public Health, the infected p\u2026 [+1335 chars]",
       "retrievedAt": "2026-01-03 19:05:57.178105",
       "internal_id": "f316139174127f36a6308a4ac21cdef46e695984a5fce106eb5b34be0c3b47c9",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 26626,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Charleston Post Courier",
+      "author": "Tom Corwin",
+      "title": "SC measles outbreak grows, spreads to North Carolina",
+      "description": "A growing SC measles outbreak in the Spartanburg area has now crossed state lines as a North Carolina child became infected while visiting the area.",
+      "url": "https://www.postandcourier.com/health/sc-measles-outbreak-growing-north-carolina/article_2291762f-8892-4941-b721-b61021c07561.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/5/62/562eb222-1955-4844-ad64-41923e5b68c6/69438c027e7ee.image.jpg?crop=799%2C420%2C0%2C0",
+      "publishedAt": "2026-01-02 18:27:08",
+      "content": "The South Carolina measles outbreak in the Spartanburg area continues to grow with nine new cases, mostly children, as the state's outbreak now has spread to North Carolina, health officials said. T\u2026 [+1829 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.498760",
+      "internal_id": "faf9fe8b457bd47245a308a4c388b4c5087cd36ac8f2780a794696fd6d1fccdd",
       "publishedAtLabel": "Jan 2"
     },
     {
@@ -451,6 +613,60 @@
       "content": "News India News NMC orders hospitals to stock rabies drugs after Supreme Court flags stray threat Follow Us On Social Media Is Anthony Davis playing tonight vs\u2026 [+1891 chars]",
       "retrievedAt": "2026-01-03 07:07:44.788335",
       "internal_id": "9ade2b4c9b9e6d42e0f8b2ccb87c97d85b2eac67d773e9be28ec0593794dfc80",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26622,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": "Deidre Mcphillips",
+      "title": "Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status",
+      "description": "The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades.",
+      "url": "https://abc30.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18339337_010126-wls-measles-spike-5avo-vid.jpg?w=1600",
+      "publishedAt": "2026-01-01 21:34:34",
+      "content": "CHICAGO -- The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades. Ongoing outbreaks - particularly in the u\u2026 [+3335 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.458704",
+      "internal_id": "a5cfc737ae4556a7e20e5525b7a6a5724b959f2693530df426c7aeb3be0bcef3",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26620,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Deidre Mcphillips",
+      "title": "Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status",
+      "description": "The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades.",
+      "url": "https://abc7ny.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18339337_010126-wls-measles-spike-5avo-vid.jpg?w=1600",
+      "publishedAt": "2026-01-01 21:08:32",
+      "content": "CHICAGO -- The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades. Ongoing outbreaks - particularly in the u\u2026 [+3335 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.438599",
+      "internal_id": "0a46220d9c41e48991daca3dc043d9d5f2ccd1f362d19caa41ab9f31fabfe321",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 26621,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Deidre Mcphillips",
+      "title": "Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status",
+      "description": "The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades.",
+      "url": "https://abc7chicago.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18339337_010126-wls-measles-spike-5avo-vid.jpg?w=1600",
+      "publishedAt": "2026-01-01 21:08:07",
+      "content": "CHICAGO -- The United States reported more than 2,000 measles cases in 2025, federal data shows, a higher annual total than the country has seen in decades. Ongoing outbreaks - particularly in the u\u2026 [+3335 chars]",
+      "retrievedAt": "2026-01-05 07:14:37.448726",
+      "internal_id": "308c31098ed84a28783d63262c667bfe871dc4fec7dfa7ed5c34dfb02df04777",
       "publishedAtLabel": "Jan 1"
     },
     {
@@ -13720,6 +13936,114 @@
       "content": "JERUSALEM, Nov. 23 (Xinhua) -- The Israeli Health Ministry said on Sunday that an 18-month-old boy has died of measles, raising the death toll from an outbreak that began in early April to 10. Most o\u2026 [+861 chars]",
       "retrievedAt": "2025-11-25 07:08:30.687693",
       "internal_id": "6f5c004a568a2df251c1bb67785d602a9f3c9c2f79660378787f14854536fa0d",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25851,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Orly Harari",
+      "title": "Unvaccinated infant dies of measles complications",
+      "description": "Infant boy, age 1.5 years, is brought to hospital in critical condition after developing measles complications but dies of his illness.",
+      "url": "https://www.israelnationalnews.com/news/418224",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1133604.jpg",
+      "publishedAt": "2025-11-23 14:37:28",
+      "content": "An infant boy, age 1.5 years, has died of measles, Israel's Health Ministry reported Sunday afternoon. The infant, who was unvaccinated, was brought to the hospital in critical condition The infant\u2026 [+2062 chars]",
+      "retrievedAt": "2025-11-24 19:05:54.621793",
+      "internal_id": "ec7c5404cfe82e2f02626083db9baf2356fea2d9a7d06260eb3d74327f06ce70",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25855,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Businessday.co.za",
+      "author": "Tamar Kahn",
+      "title": "SA doubles Global Fund pledge while key donors scale back",
+      "description": "Ramaphosa announces $36.6m government and private sector commitment at replenishment summit",
+      "url": "https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/",
+      "urlToImage": "https://www.businessday.co.za/resizer/v2/GJMRJ64GU5G3NEHLC4VAAGYS7E.jpeg?smart=true&auth=51712dd7893c70ddc14563846c2a132b79c225744b6d88cf5006990a8dc4d172&width=1200&height=630",
+      "publishedAt": "2025-11-23 14:20:39",
+      "content": "South Africa is one of only a few countries to raise its contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria, which closed its replenishment drive on Friday with just $11.34bn in \u2026 [+4167 chars]",
+      "retrievedAt": "2025-11-24 19:05:55.897045",
+      "internal_id": "fafaf91f5b07b70f9d8e4728fe91abbe015a866e3e62cd245904aa6f5402f17c",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25874,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Malaria vaccine price cut set to protect 7 million more children by 2030",
+      "description": "Vaccine alliance Gavi and children\u2019s agency UNICEF have struck a new pricing deal that will sharply cut the cost of a key malaria vaccine and make it possible to protect nearly seven million additional children by 2030, the agencies announced on Sunday. Read \u2026",
+      "url": "https://news.un.org/en/story/2025/11/1166432",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-11-2024-UNICEF-Sudan-malaria-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-11-23 12:00:00",
+      "content": "Under the agreement, the price of the R21/Matrix-M vaccine will fall to $2.99 per dose within a year a reduction expected to save up to $90 million. Those savings should allow countries to secure mor\u2026 [+2292 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.596607",
+      "internal_id": "d3d206b99c6266f9b10e1754ec5d62058353b743fbb20c4c80fe736d3663a166",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25853,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Onliner.by",
+      "author": "Onliner",
+      "title": "\u0417\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u043c\u0438\u0440\u0435 \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5",
+      "description": "\u0412 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u0435\u0440\u0432\u044b\u0439 \u043f\u0430\u0446\u0438\u0435\u043d\u0442, \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u043d\u0435\u0435 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u044b\u044f\u0432\u043b\u044f\u043b\u0441\u044f \u0443 \u043b\u044e\u0434\u0435\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 Euronews \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0440\u0435\u0433\u0438\u043e\u043d\u0430.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435\u2026",
+      "url": "https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire",
+      "urlToImage": "https://content.onliner.by/news/default/e92370e932dfeadeb28b339a1b907b7d.jpg",
+      "publishedAt": "2025-11-23 10:22:56",
+      "content": ", H5N5, . Euronews . , . . , . 70 , , H5N1. H5N5 : . , . , , . . . ? -.",
+      "retrievedAt": "2025-11-24 19:05:55.029946",
+      "internal_id": "df677da0a6e640dfff1cefbc010d49d8b32677b8750e6dc2d12e09c526d397e3",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25854,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u0440\u0438\u043d\u0430 \u041f\u044f\u0442\u0438\u043d\u0430",
+      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
+      "url": "https://news.mail.ru/incident/68820457/",
+      "urlToImage": "https://resizer.mail.ru/p/602daaee-f843-5877-9abf-17e7396ff62c/AQAGdchhryOI0HZ-Xw3vTQfrzsEHRLzz9NgOpe-Y-q90ZXR2VIri1iFdaYpiFcDR5rkeb-j49O8ARWwWRGV9o1NXROQ.jpg",
+      "publishedAt": "2025-11-23 10:03:57",
+      "content": ", \u00ab \u00bb, , . , , , H5N5 , . , \u00ab \u00bb. (CDC) , , CNN. \u00ab \u00bb, . CDC 70 . H5N1. , , , . , , . 41 , , 24 .",
+      "retrievedAt": "2025-11-24 19:05:55.048797",
+      "internal_id": "11e99ea6c9257efe432254d3ab9f3bc8164a524d2bc1d7f32c4282438b8ad6d9",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25852,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u0430\u043a\u0430\u0440\u044b\u0447\u0435\u0432",
+      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
+      "url": "https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/23/istock-2184256360_400.jpg",
+      "publishedAt": "2025-11-23 09:51:06",
+      "content": ", \" \", , . , , , H5N5 , . , \" \". (CDC) , , CNN. \" \", . CDC 70 . H5N1. , , , . , , . 41 , , 24 . 25 . , 2022 , .",
+      "retrievedAt": "2025-11-24 19:05:55.019095",
+      "internal_id": "ae69f19d05cf6edb07c774098127c331c345d6eb45aac78132e859dbda5a7c22",
       "publishedAtLabel": "Nov 23"
     }
   ]
