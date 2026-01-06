@@ -1,8 +1,261 @@
 {
-  "last_updated": "2026-01-06 07:12",
-  "count_articles_total": 792,
-  "count_articles_new": 9,
+  "last_updated": "2026-01-06 19:06",
+  "count_articles_total": 800,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 26648,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sarah Owermohle",
+      "title": "HHS will overhaul childhood vaccine schedule to recommend fewer shots | CNN",
+      "description": "The US Department of Health and Human Services will recommend fewer vaccines for most American children, health officials said Monday.",
+      "url": "https://www.cnn.com/2026/01/05/health/childhood-vaccine-schedule-overhaul",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2201749974-20260105172859979.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-01-05 19:05:41",
+      "content": "The US Department of Health and Human Serviceswill recommend fewer vaccines for most American children, health officials said Monday. Health officials will continue to recommend the measles, mumps a\u2026 [+3434 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.143809",
+      "internal_id": "bfa974ac945d0523da97be5aa0222088a074df7556e25be9fd848afea91516b1",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26649,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC 12 News",
+      "author": "Ronaldo Schemidt/afp/getty Images/file Via Cnn Newsource",
+      "title": "U.S. Health and Human Services will recommend fewer childhood vaccines",
+      "description": "The U.S. Department of Health and Human Services will recommend fewer vaccines for most American children, health officials said Monday.",
+      "url": "https://www.abc12.com/news/health/u-s-health-and-human-services-will-recommend-fewer-childhood-vaccines/article_7b1f2709-50db-5d4e-9496-f8f4631d0841.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/2/04/20473892-8b87-5953-935b-60146995f222/695c10222ee62.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-01-05 19:00:00",
+      "content": "The U.S. Department of Health and Human Serviceswill recommend fewer vaccines for most American children, health officials said Monday. Health officials will continue to recommend the measles, mumps\u2026 [+3479 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.153021",
+      "internal_id": "13151808f2da6e7c093dfdc27fc6f7539210ff39e6442c166328487dee3df34e",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26644,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Freethoughtblogs.com",
+      "author": "PZ Myers",
+      "title": "It\u2019s a pit of disease as well as ignorance",
+      "description": "Nobody should be surprised by this: Today (1/1/26) the Kentucky Department for Public Health announced that an unvaccinated, out-of-state individual with measles visited the Ark Encounter in Williamstown, Kentucky, on December 29, 2025. Local and regional hea\u2026",
+      "url": "https://freethoughtblogs.com/pharyngula/2026/01/05/its-a-pit-of-disease-as-well-as-ignorance/",
+      "urlToImage": "https://freethoughtblogs.com/pharyngula/wp-content/themes/ftb2-theme/images/logo.gif",
+      "publishedAt": "2026-01-05 17:16:49",
+      "content": "Nobody should be surprised by this: Today (1/1/26) the Kentucky Department for Public Health announced that an unvaccinated, out-of-state individual with measles visited the Ark Encounter in William\u2026 [+898 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.040584",
+      "internal_id": "d44626f076be72449c050083243062029d850def1e073fbbd05c4aef6e1f86f3",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26655,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Oketayot Santo Obwoya, You Huiyuan",
+      "title": "UNICEF hands over mosquito nets to support malaria prevention in South Sudan",
+      "description": "JUBA, Jan. 5 (Xinhua) -- The United Nations Children's Fund (UNICEF) on Monday handed over the first consignment of a total of 9.5 million long-lasting insecticidal mosquito nets to support South Sudan's upcoming malaria prevention campaign. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2026/01/06/unicef-hands-over-mosquito-nets-to-support-malaria-prevention-in-south-sudan",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2026-01-05 17:11:00",
+      "content": "JUBA, Jan. 5 (Xinhua) -- The United Nations Children's Fund (UNICEF) on Monday handed over the first consignment of a total of 9.5 million long-lasting insecticidal mosquito nets to support South Sud\u2026 [+2150 chars]",
+      "retrievedAt": "2026-01-06 19:06:08.316002",
+      "internal_id": "4a1d458a5a3e495ef8f1d563d5c54adcec1a60b423cdff5212b4c788f55d57f5",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26654,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Tecnologia nacional impulsiona o combate a doen\u00e7as urbanas",
+      "description": "Uso de drones, intelig\u00eancia artificial e an\u00e1lise territorial avan\u00e7a na preven\u00e7\u00e3o de arboviroses, reduzindo custos e acelerando respostas em munic\u00edpios",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/01/05/tecnologia-nacional-impulsiona-o-combate-a-doencas-urbanas-1.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/EoO8inncMSXiyvLSoojAlSOALlQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/Z/4/xURFPLTIyQvDSnnxyh5A/publicador-api-valor-dino-100-302a1180-1387-4f02-9ca0-7483769455ca.jpeg",
+      "publishedAt": "2026-01-05 15:43:03",
+      "content": "O avan\u00e7o tecnol\u00f3gico tem sido incorporado de forma crescente \u00e0s estrat\u00e9gias de vigil\u00e2ncia epidemiol\u00f3gica no Brasil. Um estudo da iniciativa cient\u00edfica SMART Dengue Control Integrated Use of Artificia\u2026 [+3669 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.979175",
+      "internal_id": "aacfa46795402449df31aecb9775aa5b8de9cba8067a076f8dade2baa1496d17",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26656,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "Hedviga Nyarsik",
+      "title": "Infektiologe warnt vor Erregern: Diese Viren k\u00f6nnten uns 2026 gef\u00e4hrlich werden",
+      "description": "Viren ver\u00e4ndern sich, reisen um die Welt und finden neue Wirte. Ein Experte erkl\u00e4rt, welche Krankheitserreger 2026 besonders aufmerksam beobachtet werden m\u00fcssen - und warum die Gefahr f\u00fcr eine neue Pandemie w\u00e4chst.",
+      "url": "https://www.n-tv.de/wissen/Mpox-Vogelgrippe-und-Oropouche-Diese-Virusgefahren-lauern-2026-id30203788.html",
+      "urlToImage": "https://www.n-tv.de/img/30204922/1767624661/Img_16_9/1200/Colorized-transmission-electron-micrograph-of-mpox-virus-particles-red-and-yellow-found-within-infected-VERO-E6-cells-blue-The-virus-particles-are-in-various-stages-of-maturity-which-accounts-for-differences-in-shape-This-image-also-features-virus-factories-brown-which-are-inclusions-within-infected-cells-where-virus-replication-maturation-and-assembly-occurs-Credit-NIAID.jpg",
+      "publishedAt": "2026-01-05 15:01:59",
+      "content": "Farbige Transmissionselektronenmikroskopaufnahme von Mpox-Viruspartikeln (Rot und Orange), die in infizierten Zellen gefunden wurden. (Foto: IMAGO/BSIP) Viren ver\u00e4ndern sich, reisen um die Welt und \u2026 [+5336 chars]",
+      "retrievedAt": "2026-01-06 19:06:08.634559",
+      "internal_id": "e902b092c013b2c673885a117c74975b8113a5973ebbc1fbfdad0ce02e417cc7",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26647,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Oklahomawatch.org",
+      "author": "Paul Monies",
+      "title": "Oklahoma Health Department Refuses to Share County-Level Measles Data - Oklahoma Watch",
+      "description": "Oklahoma\u2019s refusal to share county-level measles data during outbreaks has sparked concerns from health experts, including Dr. George Monks, who argues the data is crucial for public safety. The state's stance contrasts with how it handles other diseases like\u2026",
+      "url": "http://oklahomawatch.org/2026/01/05/oklahoma-health-department-refuses-to-share-county-level-measles-data/",
+      "urlToImage": "https://oklahomawatch.org/wp-content/uploads/2025/12/Monks_15-scaled.jpg",
+      "publishedAt": "2026-01-05 14:58:09",
+      "content": "Outbreaks of measles and whooping cough in Oklahoma have led to calls for greater transparency from the Oklahoma State Department of Health as the state stands alone in only sharing measles cases on \u2026 [+9302 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.117862",
+      "internal_id": "278e91f8d3eb375a194a8027b4e2eae42c5189f2bc7a54c7a07aed891ae82eca",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26652,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "India reported bird flu outbreaks on farms in Kerala state, WOAH says",
+      "description": "India has reported 11 outbreaks of highly pathogenic H5N1 bird flu in Kerala last month, resulting in the death of over 54,000 birds, primarily ducks. Authorities culled an additional 30,000 birds as a precautionary measure. These outbreaks, detected in Decem\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-reported-bird-flu-outbreaks-on-farms-in-kerala-state-woah-says/articleshow/126355833.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126355945,width-1200,height-630,imgsize-253844,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-05 14:49:16",
+      "content": "India has reported 11 outbreaks of highly pathogenic H5N1 bird flu in Kerala last month, resulting in the death of over 54,000 birds, primarily ducks. Authorities culled an additional 30,000 birds as\u2026 [+108 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.789445",
+      "internal_id": "c8597fec88ff60717bb0a6694c74224ac582dc91f2a77c3034b9959dc5e7399e",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26653,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
+      "title": "\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc: \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05d4\u05e9\u05e0\u05d4 - \u05d4\u05d4\u05de\u05dc\u05e6\u05d5\u05ea \u05dc\u05d1\u05d9\u05e9\u05d5\u05dc \u05d1\u05d9\u05e6\u05d9\u05dd",
+      "description": "\u05ea\u05de\u05d5\u05ea\u05d4 \u05d7\u05e8\u05d9\u05d2\u05d4 \u05e9\u05dc \u05d1\u05e8\u05d5\u05d5\u05d6\u05d9\u05dd \u05d1\u05de\u05d5\u05e9\u05d1 \u05e9\u05d3\u05d4 \u05d9\u05e2\u05e7\u05d1 \u05d4\u05d5\u05d1\u05d9\u05dc\u05d4 \u05dc\u05d0\u05d1\u05d7\u05d5\u05df \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05e1\u05d5\u05d2 H5N1 \u2013 \u05d4\u05de\u05e7\u05e8\u05d4 \u05d4\u05e8\u05d0\u05e9\u05d5\u05df \u05d1\u05e2\u05d5\u05e0\u05d4 \u05d4\u05e0\u05d5\u05db\u05d7\u05d9\u05ea. \u05d4\u05d5\u05db\u05e8\u05d6 \u05d0\u05d6\u05d5\u05e8 \u05d4\u05e1\u05d2\u05e8 \u05d1\u05d4\u05d9\u05e7\u05e3 \u05e9\u05dc 10 \u05e7\"\u05de, \u05e9\u05d1\u05d5 \u05e0\u05d0\u05e1\u05e8 \u05d0\u05db\u05dc\u05d5\u05e1 \u05dc\u05d5\u05dc\u05d9\u05dd \u05d5\u05d4\u05d5\u05d8\u05dc\u05d5 \u05d4\u05d2\u05d1\u05dc\u05d5\u05ea \u05e2\u05dc \u05ea\u05e0\u05d5\u05e2\u05ea \u05e2\u05d5\u05e4\u05d5\u05ea. \u05d1\u05e9\u05e0\u05d4 \u05e9\u05e2\u05d1\u05e8\u05d4 \u05d8\u05d5\u05e4\u05dc\u05d5 16 \u05de\u05d5\u05e7\u05d3\u05d9 \u05ea\u05d7\u05dc\u05d5\u05d0\u05d4",
+      "url": "https://www.ynet.co.il/health/article/hjn4qbye11l",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/05/07/S1gn002DG0/S1gn002DG0_0_97_3000_1689_0_large.jpg",
+      "publishedAt": "2026-01-05 14:08:55",
+      "content": "H5N1 . (2026-2025) , (2025-2024) 16 . (2025-2024) -16 . , , . , : -, , , .",
+      "retrievedAt": "2026-01-06 19:06:07.798838",
+      "internal_id": "7d8040998fea8d4a9a5b33c8bba8ab61a8db94242da331dd5e14a7b5c7b3d3a4",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26650,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Christopher N. Davis, Edward M. Hill, Chris P. Jewell, Kristyna Rysava, Robin N. Thompson, Michael J. Tildesley",
+      "title": "A modelling assessment of the impact of control measures on highly pathogenic avian influenza transmission in poultry in Great Britain",
+      "description": "Author summary Highly pathogenic avian influenza is an infectious disease that has caused a substantial number of outbreaks in bird populations around the world. This includes poultry populations in Great Britain, where the largest number of infected poultry \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013874",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013874.g004&size=inline",
+      "publishedAt": "2026-01-05 14:00:00",
+      "content": "Abstract Since 2020, large-scale outbreaks of highly pathogenic avian influenza (HPAI) H5N1 in Great Britain have resulted in substantial poultry mortality and economic losses. Alongside the costs, \u2026 [+58458 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.454603",
+      "internal_id": "2496924e016d8498042c511d85419b38fa102a16056c98f5b67232d8b1ecb693",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26651,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Oliver Eales, James M. McCaw, Freya M. Shearer",
+      "title": "Modeling of H5N1 influenza virus kinetics during dairy cattle infection suggests the timing of infectiousness",
+      "description": "Ongoing outbreaks of H5N1 influenza in U.S. dairy cattle represent a serious threat to the dairy industry and public health. This study analyzes publicly available data to quantify the viral kinetics of infected cattle, estimating the timing and duration of i\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003586",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003586.g004&size=inline",
+      "publishedAt": "2026-01-05 14:00:00",
+      "content": "Abstract Since early-2024 unprecedented outbreaks of highly pathogenic avian influenza H5N1 clade 2.3.4.4b have been ongoing in dairy cattle in the United States with significant consequences for th\u2026 [+59897 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.779776",
+      "internal_id": "a9c96624e19e6c996dc6433790b4b6b03a31eb4575ea6870a4b15197fe740787",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26646,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Universal varicella vaccination programme in England",
+      "description": "Summary of surveillance plans for the universal varicella vaccination programme in England commencing January 2026.",
+      "url": "https://www.gov.uk/guidance/universal-varicella-vaccination-programme-in-england",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-01-05 11:46:14",
+      "content": "From January 2026 the varicella (chickenpox) vaccination programme will be implemented for eligible children in England. This will be in the form of a combined vaccine for measles, mumps, rubella an\u2026 [+4426 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.060293",
+      "internal_id": "8d8ae909bbd88d1e398c6b6b5f671cdbd9af79981d0b629ca244438c9b75fe39",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26645,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Top health official quits position",
+      "description": "Dr. Sharon Alroy-Preis, who lead Israel through the coronavirus pandemic and measles outbreak, announces she will resign her position.",
+      "url": "https://www.israelnationalnews.com/news/420421",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1207341.jpg",
+      "publishedAt": "2026-01-05 11:21:34",
+      "content": "Dr. Sharon Alroy-Preis, Head of Public Health Services at Israel's Health Ministry, has announced her resignation from the position. Dr. Alroy-Preis recently announced her decision to the Ministry'\u2026 [+556 chars]",
+      "retrievedAt": "2026-01-06 19:06:07.051090",
+      "internal_id": "3a22a4c3bf8328289ec91647b80104d84a916d9dbd1dcff4f830e7c0c8707cbf",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 26643,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How do I know if my baby raccoon has rabies?",
+      "description": "How to Tell if Your Baby Raccoon Has Rabies: Recognizing the Signs and Staying Safe Concerned about a baby raccoon\u2019s health? The most definitive way to know is through laboratory testing after death, but observing specific symptoms can raise serious red flags\u2026",
+      "url": "https://www.lifesciencesworld.com/how-do-i-know-if-my-baby-raccoon-has-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-05 07:28:11",
+      "content": "Concerned about a baby raccoon\u2019s health? The most definitive way to know is through laboratory testing after death, but observing specific symptoms can raise serious red flags; If you suspect a racco\u2026 [+7798 chars]",
+      "retrievedAt": "2026-01-06 19:06:06.503852",
+      "internal_id": "d0295eecfbc21235a208b530a504ba706c43bc6adb061c813c0325da450b1d54",
+      "publishedAtLabel": "Jan 5"
+    },
     {
       "id": 26641,
       "query": [
@@ -14189,114 +14442,6 @@
       "content": "JERUSALEM, Nov. 23 (Xinhua) -- The Israeli Health Ministry said on Sunday that an 18-month-old boy has died of measles, raising the death toll from an outbreak that began in early April to 10. Most o\u2026 [+861 chars]",
       "retrievedAt": "2025-11-25 07:08:30.687693",
       "internal_id": "6f5c004a568a2df251c1bb67785d602a9f3c9c2f79660378787f14854536fa0d",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25851,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Unvaccinated infant dies of measles complications",
-      "description": "Infant boy, age 1.5 years, is brought to hospital in critical condition after developing measles complications but dies of his illness.",
-      "url": "https://www.israelnationalnews.com/news/418224",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1133604.jpg",
-      "publishedAt": "2025-11-23 14:37:28",
-      "content": "An infant boy, age 1.5 years, has died of measles, Israel's Health Ministry reported Sunday afternoon. The infant, who was unvaccinated, was brought to the hospital in critical condition The infant\u2026 [+2062 chars]",
-      "retrievedAt": "2025-11-24 19:05:54.621793",
-      "internal_id": "ec7c5404cfe82e2f02626083db9baf2356fea2d9a7d06260eb3d74327f06ce70",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25855,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Businessday.co.za",
-      "author": "Tamar Kahn",
-      "title": "SA doubles Global Fund pledge while key donors scale back",
-      "description": "Ramaphosa announces $36.6m government and private sector commitment at replenishment summit",
-      "url": "https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/",
-      "urlToImage": "https://www.businessday.co.za/resizer/v2/GJMRJ64GU5G3NEHLC4VAAGYS7E.jpeg?smart=true&auth=51712dd7893c70ddc14563846c2a132b79c225744b6d88cf5006990a8dc4d172&width=1200&height=630",
-      "publishedAt": "2025-11-23 14:20:39",
-      "content": "South Africa is one of only a few countries to raise its contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria, which closed its replenishment drive on Friday with just $11.34bn in \u2026 [+4167 chars]",
-      "retrievedAt": "2025-11-24 19:05:55.897045",
-      "internal_id": "fafaf91f5b07b70f9d8e4728fe91abbe015a866e3e62cd245904aa6f5402f17c",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25874,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Malaria vaccine price cut set to protect 7 million more children by 2030",
-      "description": "Vaccine alliance Gavi and children\u2019s agency UNICEF have struck a new pricing deal that will sharply cut the cost of a key malaria vaccine and make it possible to protect nearly seven million additional children by 2030, the agencies announced on Sunday. Read \u2026",
-      "url": "https://news.un.org/en/story/2025/11/1166432",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-11-2024-UNICEF-Sudan-malaria-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-11-23 12:00:00",
-      "content": "Under the agreement, the price of the R21/Matrix-M vaccine will fall to $2.99 per dose within a year a reduction expected to save up to $90 million. Those savings should allow countries to secure mor\u2026 [+2292 chars]",
-      "retrievedAt": "2025-11-25 19:06:29.596607",
-      "internal_id": "d3d206b99c6266f9b10e1754ec5d62058353b743fbb20c4c80fe736d3663a166",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25853,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Onliner.by",
-      "author": "Onliner",
-      "title": "\u0417\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u043c\u0438\u0440\u0435 \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5",
-      "description": "\u0412 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u0435\u0440\u0432\u044b\u0439 \u043f\u0430\u0446\u0438\u0435\u043d\u0442, \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u043d\u0435\u0435 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u044b\u044f\u0432\u043b\u044f\u043b\u0441\u044f \u0443 \u043b\u044e\u0434\u0435\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 Euronews \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0440\u0435\u0433\u0438\u043e\u043d\u0430.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435\u2026",
-      "url": "https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire",
-      "urlToImage": "https://content.onliner.by/news/default/e92370e932dfeadeb28b339a1b907b7d.jpg",
-      "publishedAt": "2025-11-23 10:22:56",
-      "content": ", H5N5, . Euronews . , . . , . 70 , , H5N1. H5N5 : . , . , , . . . ? -.",
-      "retrievedAt": "2025-11-24 19:05:55.029946",
-      "internal_id": "df677da0a6e640dfff1cefbc010d49d8b32677b8750e6dc2d12e09c526d397e3",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25854,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0418\u0440\u0438\u043d\u0430 \u041f\u044f\u0442\u0438\u043d\u0430",
-      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
-      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
-      "url": "https://news.mail.ru/incident/68820457/",
-      "urlToImage": "https://resizer.mail.ru/p/602daaee-f843-5877-9abf-17e7396ff62c/AQAGdchhryOI0HZ-Xw3vTQfrzsEHRLzz9NgOpe-Y-q90ZXR2VIri1iFdaYpiFcDR5rkeb-j49O8ARWwWRGV9o1NXROQ.jpg",
-      "publishedAt": "2025-11-23 10:03:57",
-      "content": ", \u00ab \u00bb, , . , , , H5N5 , . , \u00ab \u00bb. (CDC) , , CNN. \u00ab \u00bb, . CDC 70 . H5N1. , , , . , , . 41 , , 24 .",
-      "retrievedAt": "2025-11-24 19:05:55.048797",
-      "internal_id": "11e99ea6c9257efe432254d3ab9f3bc8164a524d2bc1d7f32c4282438b8ad6d9",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25852,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u0430\u043a\u0430\u0440\u044b\u0447\u0435\u0432",
-      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
-      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
-      "url": "https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/23/istock-2184256360_400.jpg",
-      "publishedAt": "2025-11-23 09:51:06",
-      "content": ", \" \", , . , , , H5N5 , . , \" \". (CDC) , , CNN. \" \", . CDC 70 . H5N1. , , , . , , . 41 , , 24 . 25 . , 2022 , .",
-      "retrievedAt": "2025-11-24 19:05:55.019095",
-      "internal_id": "ae69f19d05cf6edb07c774098127c331c345d6eb45aac78132e859dbda5a7c22",
       "publishedAtLabel": "Nov 23"
     }
   ]
