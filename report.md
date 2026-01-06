@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-01-05 19:08
-- **Most recent article:** 2026-01-04 13:23:57
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-01-06 07:12
+- **Most recent article:** 2026-01-05 05:30:39
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 17 | 15 | 45 | 38 | 31 | 35 | 26 | 1 | 208 |
+| measles | 18 | 15 | 45 | 38 | 31 | 35 | 26 | 3 | 211 |
 | dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 0 | 129 |
-| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 2 | 96 |
-| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 2 | 83 |
-| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 0 | 76 |
+| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 4 | 100 |
+| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 4 | 85 |
+| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 1 | 0 | 79 |
 | mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 0 | 52 |
-| chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 0 | 43 |
-| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 1 | 33 |
+| chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 1 | 44 |
+| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 3 | 35 |
 | leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 0 | 21 |
 | zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 0 | 21 |
 | yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 0 | 18 |
@@ -38,23 +38,43 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (rabies)
 
+- ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
+
+- [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
+
 - [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 - [Dipolog: AMAHAN NAGPOST SA SOCIAL MEDIA KABAHIN SA IYANG KASAGMUYO SA RHU ROXAS, DR. ATIENZA MIPASABOT SA KAHIMTANGAN SA PASILIDAD](https://rpnradio.com/dipolog-amahan-nagpost-sa-social-media-kabahin-sa-iyang-kasagmuyo-sa-rhu-roxas-dr-atienza-mipasabot-sa-kahimtangan-sa-pasilidad/) (Rpnradio.com)
 
 ## 26-2 (meningitis)
 
+- [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
+
+- [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
+
 - [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
+
+- [More than 2,000 measles cases reported in the US in 2025](https://www.abc15.com/news/health/more-than-2-000-measles-cases-reported-in-the-us-in-2025-as-ongoing-outbreaks-threaten-elimination-status) (ABC15 Arizona)
+
+- [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
 - [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (malaria)
 
+- [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
+
+- [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
+
 - [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
 
 - [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
+
+## 26-2 (chikungunya)
+
+- [Development of a PCB–based Electrochemical Aptasensor for Chikungunya Virus Protein Detection](https://pubs.rsc.org/en/content/articlelanding/2026/an/d5an01261a) (Royal Society of Chemistry)
 
 ## 26-1 (typhoid)
 
@@ -1670,6 +1690,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
+- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
+
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1701,6 +1723,10 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
+
+- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
+
+- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -1773,6 +1799,12 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
+
+- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
+
+- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
+
+- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 
