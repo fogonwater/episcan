@@ -1,8 +1,260 @@
 {
-  "last_updated": "2026-01-07 07:11",
-  "count_articles_total": 820,
+  "last_updated": "2026-01-07 19:08",
+  "count_articles_total": 828,
   "count_articles_new": 14,
   "articles": [
+    {
+      "id": 26674,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "3 health facilities in southern Manitoba sites of latest measles exposures",
+      "description": "Public health officials have identified three health facilities in southern Manitoba as the latest exposure sites for measles in the province.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/3-health-facilities-in-southern-manitoba-sites-of-latest-measles-exposures-9.7035275",
+      "urlToImage": "https://i.cbc.ca/ais/b382e8bf-75bf-4303-a592-9b5fc9cba065,1767723518557/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C802%2C451%29%3BResize%3D620",
+      "publishedAt": "2026-01-06 18:49:10",
+      "content": "Public health officials have identified three health facilities in southern Manitoba as the latest exposure sites for measles in the province. Anyone at the following locations on the specified date\u2026 [+2062 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.118423",
+      "internal_id": "8ecd3dd1dd78ea32e31fefecb33db5ca71644da6ae5b523b3502d8b390e0a279",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26673,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles exposure flagged at Montreal Children\u2019s Hospital ER",
+      "description": "The Montreal Children\u2019s Hospital is warning of a measles exposure in its emergency room on Jan. 1 between 12:18 p.m. and 11:01 p.m.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-exposure-montreal-childrens-hospital-9.7035226",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-01-06 18:05:20",
+      "content": "The Montreal Childrens Hospital is warning of a measles exposure in its emergency room. According to the hospital, people who were in the pediatric emergency department (Glen B Block, Level S1) o\u2026 [+1043 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.101088",
+      "internal_id": "8d83ec7eccda6018df9cb9559abbca27b5f1689d44643fa7a64683f770fe7714",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26683,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mo\u00e7ambique sem casos de mpox ap\u00f3s seis meses",
+      "description": "Minist\u00e9rio da Sa\u00fade mo\u00e7ambicano afirma que, nas \u00faltimas 24 horas, n\u00e3o existiram registos de casos suspeitos mpox e informa que os 91 doentes infetados, foram dados como recuperados.",
+      "url": "https://observador.pt/2026/01/06/mocambique-sem-casos-de-mpox-apos-seis-meses-do-anuncio-do-surto/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A3%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F10%2F10170037%2F43499338.jpg?layer=obstop:T",
+      "publishedAt": "2026-01-06 18:04:25",
+      "content": "Todos os 91 doentes de mpox registados em Mo\u00e7ambique foram dados como recuperados, com o pa\u00eds sem casos seis meses ap\u00f3s an\u00fancio da doen\u00e7a, indica um boletim do Minist\u00e9rio da Sa\u00fade mo\u00e7ambicano, a que \u2026 [+2352 chars]",
+      "retrievedAt": "2026-01-07 19:08:43.055566",
+      "internal_id": "4cf65abd9454947b76a4e8509f63f18bc700652d62f705df26275b196220436d",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26681,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Lana Lam - Sydney",
+      "title": "Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery",
+      "description": "Martyn, who played 67 Test matches from 1992 to 2006, was diagnosed with meningitis late last month.",
+      "url": "https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/73288bb2ea0f2fe41b0584e93d41558f",
+      "publishedAt": "2026-01-06 17:47:40",
+      "content": "Former Australia batter Damien Martyn has woken up from an induced coma and is making a \"miraculous\" recovery after he was diagnosed with meningitis just over a week ago. The 54-year-old, who played\u2026 [+1966 chars]",
+      "retrievedAt": "2026-01-07 19:08:42.206029",
+      "internal_id": "6cb82d2e51c9d06b96a76fc7a244792de76597264ae9ca55824229590242c56e",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26676,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Measles cases confirmed at four major US airports across country amid peak holiday travel",
+      "description": "Health officials confirmed measles exposure at four major airports as the CDC reported over 2,000 cases nationwide this year, prompting urgent public advisories.",
+      "url": "https://www.foxnews.com/travel/measles-cases-confirmed-four-major-us-airports-across-country-amid-peak-holiday-travel",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/boston-logan-measles-outbreak-fox-news.jpg",
+      "publishedAt": "2026-01-06 16:18:41",
+      "content": "During the peak holiday travel season, one of the world's most infectious diseases was detected at multiple major U.S. airports. In December, Raleigh-Durham International, Boston Logan International\u2026 [+4380 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.145024",
+      "internal_id": "b368ad3a807074518b74b8d4bce8b7a359424fb433702a6250be9ab1255bea20",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26672,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Radaronline.com",
+      "author": "Haley Gunn",
+      "title": "Trump, 79, Brags About Administration's Drastic Medical Change for Children While Questions Mount About His Own Health \u2014 'MAHA Moms Have Been Praying for These Common Sense Reforms'",
+      "description": "The president boasted about his administration slashing the childhood vaccine schedule from 72 vaccinations to 11.",
+      "url": "https://radaronline.com/p/donald-trump-brags-childhood-vaccine-schedule-cuts-concerns-about-health-dementia/",
+      "urlToImage": "https://media.radaronline.com/brand-img/PTu6zPvIG/1200x628/donald-trump-brags-childhood-vaccine-schedule-cuts-fuels-concerns-health-dementia-1767714159252.png",
+      "publishedAt": "2026-01-06 16:03:33",
+      "content": "Despite recent outbreaks in diseases like measles which hit a 25-year high after being declared eliminated in 2000, according to Johns Hopkins Bloomberg School of Public Health the president touted t\u2026 [+859 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.091774",
+      "internal_id": "38b44a2608d7acd785d8e69b03d6da456a5eb5c23a4c07e42f5c7c0dac4fcebf",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26679,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "13 milh\u00f5es de \"mosquitos amigos\" s\u00e3o soltos no DF para conter a dengue",
+      "description": "Estrat\u00e9gia da Secretaria de Sa\u00fade do DF emprega tecnologias de preven\u00e7\u00e3o para combater o aedes e reduzir os casos de dengue no DF",
+      "url": "https://www.metropoles.com/distrito-federal/13-milhoes-de-mosquitos-amigos-sao-soltos-no-df-para-conter-a-dengue",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/3be611c2-para-conter-dengue-saude-solta-13-milhoes-mosquitos-amigos.jpg",
+      "publishedAt": "2026-01-06 16:00:12",
+      "content": "Para evitar o avan\u00e7o da dengue e de outras arboviroses, a Secretaria de Sa\u00fade liberou 13 milh\u00f5es de mosquitos amigos no Distrito Federal (DF), ao longo das \u00faltimas 13 semanas. Os Wolbitos s\u00e3o mosquit\u2026 [+2754 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.900893",
+      "internal_id": "49b16885f4ffbc352a1fd2c8cf1d42eb0d46d18acbf201b89f58af9a70cf8c18",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26682,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Apoorv Gupta, Lucinda E. Harrison, Minu Nain, Sauman Singh Phulgenda, Rutuja Chhajed, Roopal S. Kumar, Aishika Das, Manju Rahi, Philippe J. Guerin, Anup R. Anvikar, Mehul Dhorda, Jennifer A. Flegg, Praveen K. Bharti",
+      "title": "Model-guided geospatial surveillance system for antimalarial drug resistance",
+      "description": "Disease surveillance activities are usually resource-constrained and should be optimised to generate the most informative scientific findings, and to make the best use of time, finances, and personnel. India has a high population density, diverse geography an\u2026",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004717",
+      "urlToImage": "https://opengraph.plos.org/doi/10.1371/journal.pgph.0004717/og_image.jpg",
+      "publishedAt": "2026-01-06 14:00:00",
+      "content": "Abstract Disease surveillance activities are usually resource-constrained and should be optimised to generate the most informative scientific findings, and to make the best use of time, finances, an\u2026 [+35227 chars]",
+      "retrievedAt": "2026-01-07 19:08:42.541845",
+      "internal_id": "a7f0e96dfa6668bbbf513a46d66eaec900e7c6e16264761fd5208f963217d23b",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26675,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ed Hutchinson, Professor, MRC-University of Glasgow Centre for Virus Research, University of Glasgow",
+      "title": "MMRV: what families need to know about the UK\u2019s new chickenpox vaccine",
+      "description": "The MMRV jab protects against chickenpox and its lifelong complications. Here\u2019s what the new vaccination schedule means for your family.",
+      "url": "https://theconversation.com/mmrv-what-families-need-to-know-about-the-uks-new-chickenpox-vaccine-272691",
+      "urlToImage": "https://images.theconversation.com/files/710918/original/file-20260106-56-l6h53l.jpg?ixlib=rb-4.1.0&rect=0%2C937%2C5616%2C2808&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-01-06 13:12:18",
+      "content": "The UK has added chickenpox to the routine childhood vaccination schedule for the first time, using a combined MMRV jab that also protects against measles, mumps and rubella. Here\u2019s what parents need\u2026 [+4586 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.136116",
+      "internal_id": "96b8581149436126ff47339c71a9924736fb08767671e3f51decc368bfee21f8",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26677,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\ud604\uc218 \uae30\uc790 khs@kyunghyang.com",
+      "title": "\ucda9\ubd81 \uc625\ucc9c \uba54\ucd94\ub9ac \ub18d\uc7a5\uc11c \uace0\ubcd1\uc6d0\uc131 AI \ud655\uc9c4\u00b7\u00b7\u00b7\ubc29\uc5ed\uc870\uce58 \uc2e4\uc2dc",
+      "description": "\uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \ud56d\uc6d0\uc774 \ud655\uc778\ub41c \uc804\ub0a8 \ub098\uc8fc\uc758 \ud55c \uc721\uc6a9\uc624\ub9ac \ub18d\uc7a5. \uc0ac\uc9c4\uc740 \uae30\uc0ac\uc640 \ubb34\uad00. \uc804\ub0a8\ub3c4 \uc81c\uacf5\ucda9\ubd81 \uc625\ucc9c\uc758 \ud55c \uba54\ucd94\ub9ac \ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \ubc1c\uc0dd\ud574 \ubc29\uc5ed \ub2f9\uad6d\uc774 \ud655\uc0b0 \ucc28\ub2e8\uc5d0 \ub098\uc130\ub2e4.\uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80\ub294 6\uc77c \ucda9\ubd81 \uc625\ucc9c\uad70\uc5d0 \uc788\ub294 \uba54\ucd94\ub9ac \ub18d\uc7a5(50\ub9cc \ub9c8\ub9ac)\uc5d0\uc11c H5N1\ud615 \uace0\ubcd1\uc6d0\uc131 AI\uac00 \ud655\uc9c4\ub410\ub2e4\uace0 \ubc1d\ud614\ub2e4.\uc774\ubc88 \u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202601062136001",
+      "urlToImage": "https://img.khan.co.kr/news/2026/01/06/news-p.v1.20251221.11e3ea558e5b4dd3b3f1bc9f503f013c_P1.jpg",
+      "publishedAt": "2026-01-06 12:36:00",
+      "content": "(AI) . . (AI) . (AI) 6 (50 ) H5N1 AI . AI 33 . 9, 9, 5, 3, 6, 1. H5 , . AI , \u00b7\u00b7 ( ) , 24 . 10\u339e \u00b7\u00b7 . 2016 12 AI . 3 \u00b7 AI .",
+      "retrievedAt": "2026-01-07 19:08:41.647892",
+      "internal_id": "718bf4730c8db3e6b8293ab389155e8e42a823f35e914b56db130c2c758c9cdf",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26671,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Prevention.com",
+      "author": "Korin Miller",
+      "title": "Doctors Warn of Highly-Infectious Disease Spreading Across the US",
+      "description": "Measles cases are popping up around the country. Doctors share what to do after a measles exposure and what to do to stay safe.",
+      "url": "https://www.prevention.com/health/health-conditions/a69918178/measles-spreading-exposure-protection/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g5Xh80tNsHh3CmPH7nrL0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/hearst_prevention_66/c33277313260a6a194cc79ae21299a17",
+      "publishedAt": "2026-01-06 12:30:00",
+      "content": "Measles cases are spreading across the country. Doctors share what to do if youve been exposed to the virus. Plus, what infectious disease doctors want you to know about \u2026 [+6385 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.034440",
+      "internal_id": "e2bafa91ac6f9c3ba3212a9f42703c8f2c9129a9a29a4b298bad9827f338f752",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26684,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041c\u0435\u0440\u043a\u0443\u043b\u043e\u0432",
+      "title": "\u041d\u0430 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u0448\u0435\u0441\u0442\u044c \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041d\u0430 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0448\u0435\u0441\u0442\u044c \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u0438\u0440\u0443\u0441\u043e\u043c mpox, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u0442\u0430\u043a\u0436\u0435 \u043a\u0430\u043a \u043e\u0441\u043f\u0430 \u043e\u0431\u0435\u0437\u044c\u044f\u043d, \u0438 70 \u043f\u043e\u0434\u043e\u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u0435\u0432. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443\u0435\u0442 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0439 \u043e\u0442\u0447\u0435\u0442 \u0441\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u044b\u0445 \u0432\u043b\u0430\u0441\u0442\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b\u0438 \u043c\u0435\u0441\u0442\u043d\u044b\u0435 \u0421\u041c\u0418.",
+      "url": "https://rg.ru/2026/01/06/na-madagaskare-podtverdili-shest-sluchaev-ospy-obezian.html",
+      "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
+      "publishedAt": "2026-01-06 12:23:01",
+      "content": ", 23 . 5 , 34 40 -. 2025 I . , . , . , . - , , . , . . Mpox - , . , , , . - , , .",
+      "retrievedAt": "2026-01-07 19:08:43.073734",
+      "internal_id": "34608fcf94b6b5f1ef54c40989141afe64bdc3396e8133522cac1afd9db70dd6",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26680,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Abigahil Castro",
+      "title": "Limpiar patios reduce el riesgo de rickettsia y dengue: Secretar\u00eda de Salud en Sonora",
+      "description": "La Secretar\u00eda de Salud en Sonora pide reforzar medidas de prevenci\u00f3n y mantener patios limpios para reducir riesgo de dengue y rickettsia",
+      "url": "https://www.tribuna.com.mx/sonora/2026/1/6/limpiar-patios-reduce-el-riesgo-de-rickettsia-dengue-secretaria-de-salud-en-sonora-425650.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/1/6/f1280x720-486601_618276_5050.jpg",
+      "publishedAt": "2026-01-06 12:00:00",
+      "content": "Hermosillo, Sonora.- La Secretar\u00eda de Salud P\u00fablica (SSP) del Gobierno de Sonora exhorta a la poblaci\u00f3n a reforzar las medidas de prevenci\u00f3n contra el dengue y la rickettsiosis, enfermedades que pued\u2026 [+1843 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.917059",
+      "internal_id": "d5e4706b52407255d3b3ebe0467b267df6fcea9b05ec163288252aa831db49f1",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 26678,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Fel\u00fct\u00f6tte a fej\u00e9t a s\u00falyos \u00e9s gyors lefoly\u00e1s\u00fa H5N1-es v\u00edrus",
+      "description": "Magas patogenit\u00e1s\u00fa H5N1-es mad\u00e1rinfluenza-j\u00e1rv\u00e1nyt azonos\u00edtottak Izrael \u00e9szaki r\u00e9sz\u00e9n, Szde Jaakov telep\u00fcl\u00e9sen egy k\u00e9tezer egyedb\u0151l \u00e1ll\u00f3 kacsa\u00e1llom\u00e1nyban \u2013 k\u00f6z\u00f6lte az \u00c1llateg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WOAH).",
+      "url": "https://www.portfolio.hu/global/20260106/felutotte-a-fejet-a-sulyos-es-gyors-lefolyasu-h5n1-es-virus-809136",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2246517555-797844.jpg",
+      "publishedAt": "2026-01-06 08:45:00",
+      "content": "Kasza Elliott-tal N\u00e9zegettem ma a r\u00e9szv\u00e9nyeim \u00e1rfolyam\u00e1t, \u00e9s a Comcast el\u00e9g furcsa volt, nagy r\u00e9ssel esett janu\u00e1r m\u00e1sodik\u00e1n, ma meg j\u00f6n f\u00f6l ersen. Kider\u00fclt, hogy volt egy elre eltervezett split, am\u2026 [+1397 chars]",
+      "retrievedAt": "2026-01-07 19:08:41.657566",
+      "internal_id": "06f2daf390b4c545fa1a30a9998adc3e223273f3ec5d4e5931fe1c955b841429",
+      "publishedAtLabel": "Jan 6"
+    },
     {
       "id": 26667,
       "query": [
@@ -14694,114 +14946,6 @@
       "content": "JERUSALEM, Nov. 23 (Xinhua) -- The Israeli Health Ministry said on Sunday that an 18-month-old boy has died of measles, raising the death toll from an outbreak that began in early April to 10. Most o\u2026 [+861 chars]",
       "retrievedAt": "2025-11-25 07:08:30.687693",
       "internal_id": "6f5c004a568a2df251c1bb67785d602a9f3c9c2f79660378787f14854536fa0d",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25851,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Orly Harari",
-      "title": "Unvaccinated infant dies of measles complications",
-      "description": "Infant boy, age 1.5 years, is brought to hospital in critical condition after developing measles complications but dies of his illness.",
-      "url": "https://www.israelnationalnews.com/news/418224",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1133604.jpg",
-      "publishedAt": "2025-11-23 14:37:28",
-      "content": "An infant boy, age 1.5 years, has died of measles, Israel's Health Ministry reported Sunday afternoon. The infant, who was unvaccinated, was brought to the hospital in critical condition The infant\u2026 [+2062 chars]",
-      "retrievedAt": "2025-11-24 19:05:54.621793",
-      "internal_id": "ec7c5404cfe82e2f02626083db9baf2356fea2d9a7d06260eb3d74327f06ce70",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25855,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Businessday.co.za",
-      "author": "Tamar Kahn",
-      "title": "SA doubles Global Fund pledge while key donors scale back",
-      "description": "Ramaphosa announces $36.6m government and private sector commitment at replenishment summit",
-      "url": "https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/",
-      "urlToImage": "https://www.businessday.co.za/resizer/v2/GJMRJ64GU5G3NEHLC4VAAGYS7E.jpeg?smart=true&auth=51712dd7893c70ddc14563846c2a132b79c225744b6d88cf5006990a8dc4d172&width=1200&height=630",
-      "publishedAt": "2025-11-23 14:20:39",
-      "content": "South Africa is one of only a few countries to raise its contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria, which closed its replenishment drive on Friday with just $11.34bn in \u2026 [+4167 chars]",
-      "retrievedAt": "2025-11-24 19:05:55.897045",
-      "internal_id": "fafaf91f5b07b70f9d8e4728fe91abbe015a866e3e62cd245904aa6f5402f17c",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25874,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Malaria vaccine price cut set to protect 7 million more children by 2030",
-      "description": "Vaccine alliance Gavi and children\u2019s agency UNICEF have struck a new pricing deal that will sharply cut the cost of a key malaria vaccine and make it possible to protect nearly seven million additional children by 2030, the agencies announced on Sunday. Read \u2026",
-      "url": "https://news.un.org/en/story/2025/11/1166432",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-11-2024-UNICEF-Sudan-malaria-03.jpg/image770x420cropped.jpg",
-      "publishedAt": "2025-11-23 12:00:00",
-      "content": "Under the agreement, the price of the R21/Matrix-M vaccine will fall to $2.99 per dose within a year a reduction expected to save up to $90 million. Those savings should allow countries to secure mor\u2026 [+2292 chars]",
-      "retrievedAt": "2025-11-25 19:06:29.596607",
-      "internal_id": "d3d206b99c6266f9b10e1754ec5d62058353b743fbb20c4c80fe736d3663a166",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25853,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Onliner.by",
-      "author": "Onliner",
-      "title": "\u0417\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u043c\u0438\u0440\u0435 \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5",
-      "description": "\u0412 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u0435\u0440\u0432\u044b\u0439 \u043f\u0430\u0446\u0438\u0435\u043d\u0442, \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u043d\u0435\u0435 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u044b\u044f\u0432\u043b\u044f\u043b\u0441\u044f \u0443 \u043b\u044e\u0434\u0435\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 Euronews \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0440\u0435\u0433\u0438\u043e\u043d\u0430.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435\u2026",
-      "url": "https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire",
-      "urlToImage": "https://content.onliner.by/news/default/e92370e932dfeadeb28b339a1b907b7d.jpg",
-      "publishedAt": "2025-11-23 10:22:56",
-      "content": ", H5N5, . Euronews . , . . , . 70 , , H5N1. H5N5 : . , . , , . . . ? -.",
-      "retrievedAt": "2025-11-24 19:05:55.029946",
-      "internal_id": "df677da0a6e640dfff1cefbc010d49d8b32677b8750e6dc2d12e09c526d397e3",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25854,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0418\u0440\u0438\u043d\u0430 \u041f\u044f\u0442\u0438\u043d\u0430",
-      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
-      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
-      "url": "https://news.mail.ru/incident/68820457/",
-      "urlToImage": "https://resizer.mail.ru/p/602daaee-f843-5877-9abf-17e7396ff62c/AQAGdchhryOI0HZ-Xw3vTQfrzsEHRLzz9NgOpe-Y-q90ZXR2VIri1iFdaYpiFcDR5rkeb-j49O8ARWwWRGV9o1NXROQ.jpg",
-      "publishedAt": "2025-11-23 10:03:57",
-      "content": ", \u00ab \u00bb, , . , , , H5N5 , . , \u00ab \u00bb. (CDC) , , CNN. \u00ab \u00bb, . CDC 70 . H5N1. , , , . , , . 41 , , 24 .",
-      "retrievedAt": "2025-11-24 19:05:55.048797",
-      "internal_id": "11e99ea6c9257efe432254d3ab9f3bc8164a524d2bc1d7f32c4282438b8ad6d9",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 25852,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u0430\u043a\u0430\u0440\u044b\u0447\u0435\u0432",
-      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
-      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
-      "url": "https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/23/istock-2184256360_400.jpg",
-      "publishedAt": "2025-11-23 09:51:06",
-      "content": ", \" \", , . , , , H5N5 , . , \" \". (CDC) , , CNN. \" \", . CDC 70 . H5N1. , , , . , , . 41 , , 24 . 25 . , 2022 , .",
-      "retrievedAt": "2025-11-24 19:05:55.019095",
-      "internal_id": "ae69f19d05cf6edb07c774098127c331c345d6eb45aac78132e859dbda5a7c22",
       "publishedAtLabel": "Nov 23"
     }
   ]

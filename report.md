@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 14
-- **Last harvest:** 2026-01-07 07:11
-- **Most recent article:** 2026-01-06 04:40:16
+- **Last harvest:** 2026-01-07 19:08
+- **Most recent article:** 2026-01-06 18:49:10
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 18 | 15 | 45 | 38 | 31 | 35 | 26 | 16 | 224 |
-| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 3 | 132 |
-| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 5 | 101 |
+| measles | 17 | 15 | 45 | 38 | 31 | 35 | 26 | 22 | 229 |
+| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 5 | 134 |
+| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 6 | 100 |
 | rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 6 | 87 |
-| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 1 | 4 | 83 |
-| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 1 | 53 |
+| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 6 | 82 |
+| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 3 | 55 |
 | chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 1 | 44 |
-| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 6 | 38 |
+| meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 7 | 39 |
 | leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 0 | 21 |
 | zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 0 | 21 |
 | yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 0 | 18 |
@@ -52,9 +52,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (mpox)
 
+- [Moçambique sem casos de mpox após seis meses](https://observador.pt/2026/01/06/mocambique-sem-casos-de-mpox-apos-seis-meses-do-anuncio-do-surto/) (Observador.pt)
+
+- [На Мадагаскаре подтвердили шесть случаев оспы обезьян](https://rg.ru/2026/01/06/na-madagaskare-podtverdili-shest-sluchaev-ospy-obezian.html) (Rg.ru)
+
 - [Infektiologe warnt vor Erregern: Diese Viren könnten uns 2026 gefährlich werden](https://www.n-tv.de/wissen/Mpox-Vogelgrippe-und-Oropouche-Diese-Virusgefahren-lauern-2026-id30203788.html) (N-tv.de)
 
 ## 26-2 (meningitis)
+
+- [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 - [US drops the number of vaccines it recommends for every child](http://ctmirror.org/2026/01/05/us-drops-the-number-of-vaccines-it-recommends-for-every-child/) (The CT Mirror)
 
@@ -69,6 +75,18 @@ Source: [News API](https://newsapi.org/)
 - [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
+
+- [3 health facilities in southern Manitoba sites of latest measles exposures](https://www.cbc.ca/news/canada/manitoba/3-health-facilities-in-southern-manitoba-sites-of-latest-measles-exposures-9.7035275) (CBC News)
+
+- [Measles exposure flagged at Montreal Children’s Hospital ER](https://www.cbc.ca/news/canada/montreal/measles-exposure-montreal-childrens-hospital-9.7035226) (CBC News)
+
+- [Measles cases confirmed at four major US airports across country amid peak holiday travel](https://www.foxnews.com/travel/measles-cases-confirmed-four-major-us-airports-across-country-amid-peak-holiday-travel) (Fox News)
+
+- [Trump, 79, Brags About Administration's Drastic Medical Change for Children While Questions Mount About His Own Health — 'MAHA Moms Have Been Praying for These Common Sense Reforms'](https://radaronline.com/p/donald-trump-brags-childhood-vaccine-schedule-cuts-concerns-about-health-dementia/) (Radaronline.com)
+
+- [MMRV: what families need to know about the UK’s new chickenpox vaccine](https://theconversation.com/mmrv-what-families-need-to-know-about-the-uks-new-chickenpox-vaccine-272691) (The Conversation Africa)
+
+- [Doctors Warn of Highly-Infectious Disease Spreading Across the US](https://www.prevention.com/health/health-conditions/a69918178/measles-spreading-exposure-protection/) (Prevention.com)
 
 - [HHS Will Overhaul Childhood Vaccine Schedule to Recommend Fewer Shots](https://www.wktv.com/news/health/hhs-will-overhaul-childhood-vaccine-schedule-to-recommend-fewer-shots/article_8434744c-3e29-564d-9ac9-4dde3463210a.html) (WKTV)
 
@@ -104,6 +122,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (malaria)
 
+- [Model-guided geospatial surveillance system for antimalarial drug resistance](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004717) (Plos.org)
+
 - [UNICEF hands over mosquito nets to support malaria prevention in South Sudan](https://www.thestar.com.my/news/world/2026/01/06/unicef-hands-over-mosquito-nets-to-support-malaria-prevention-in-south-sudan) (The Star Online)
 
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
@@ -122,6 +142,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (h5n1)
 
+- [충북 옥천 메추리 농장서 고병원성 AI 확진···방역조치 실시](https://www.khan.co.kr/article/202601062136001) (Khan.co.kr)
+
+- [Felütötte a fejét a súlyos és gyors lefolyású H5N1-es vírus](https://www.portfolio.hu/global/20260106/felutotte-a-fejet-a-sulyos-es-gyors-lefolyasu-h5n1-es-virus-809136) (Portfolio.hu)
+
 - [India reported bird flu outbreaks on farms in Kerala state, WOAH says](https://economictimes.indiatimes.com/news/india/india-reported-bird-flu-outbreaks-on-farms-in-kerala-state-woah-says/articleshow/126355833.cms) (The Times of India)
 
 - [שפעת העופות בישראל: מקרה ראשון השנה - ההמלצות לבישול ביצים](https://www.ynet.co.il/health/article/hjn4qbye11l) (Ynet)
@@ -131,6 +155,10 @@ Source: [News API](https://newsapi.org/)
 - [Modeling of H5N1 influenza virus kinetics during dairy cattle infection suggests the timing of infectiousness](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003586) (Plos.org)
 
 ## 26-2 (dengue)
+
+- [13 milhões de "mosquitos amigos" são soltos no DF para conter a dengue](https://www.metropoles.com/distrito-federal/13-milhoes-de-mosquitos-amigos-sao-soltos-no-df-para-conter-a-dengue) (Metropoles.com)
+
+- [Limpiar patios reduce el riesgo de rickettsia y dengue: Secretaría de Salud en Sonora](https://www.tribuna.com.mx/sonora/2026/1/6/limpiar-patios-reduce-el-riesgo-de-rickettsia-dengue-secretaria-de-salud-en-sonora-425650.html) (Tribuna.com.mx)
 
 - [Dengue rapid increase: Over 1000 patients in the first 4 days of 2026](https://english.gossiplankanews.com/2026/01/dengue-rapid-increase-over-1000.html) (Gossiplankanews.com)
 
@@ -1756,8 +1784,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
-- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
-
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1789,10 +1815,6 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
-
-- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
-
-- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -1865,12 +1887,6 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
-
-- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
-
-- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
-
-- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 
