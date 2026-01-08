@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-01-07 19:08
-- **Most recent article:** 2026-01-06 18:49:10
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-01-08 07:11
+- **Most recent article:** 2026-01-07 06:43:00
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 17 | 15 | 45 | 38 | 31 | 35 | 26 | 22 | 229 |
+| measles | 18 | 15 | 45 | 38 | 31 | 35 | 26 | 24 | 232 |
 | dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 5 | 134 |
-| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 6 | 100 |
-| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 6 | 87 |
-| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 6 | 82 |
+| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 6 | 102 |
+| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 7 | 88 |
+| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 1 | 8 | 87 |
 | mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 3 | 55 |
 | chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 1 | 44 |
 | meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 7 | 39 |
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
 
 ## 26-2 (rabies)
+
+- [Raccoon caught near Willow Lawn Drive tests positive for rabies](https://richmond.com/news/local/article_4138d1d7-f7e6-4a5c-ac1b-19ca197fbb99.html) (Richmond.com)
 
 - [How do you treat a raccoon bite?](https://www.lifesciencesworld.com/how-do-you-treat-a-raccoon-bite/) (Lifesciencesworld.com)
 
@@ -75,6 +77,10 @@ Source: [News API](https://newsapi.org/)
 - [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
+
+- [Measles reported in Buncombe as public health officials worry about spread in the face of declining vaccination rates](http://avlwatchdog.org/measles-spreads-to-buncombe-as-public-health-officials-worry-about-spread-in-the-face-of-declining-vaccination-rates/) (Avlwatchdog.org)
+
+- [Measles outbreak explodes in South Carolina; multiple people hospitalized as cases surpass 200](https://www.foxnews.com/health/measles-outbreak-explodes-south-carolina-multiple-hospitalized-cases-surpass-200) (Fox News)
 
 - [3 health facilities in southern Manitoba sites of latest measles exposures](https://www.cbc.ca/news/canada/manitoba/3-health-facilities-in-southern-manitoba-sites-of-latest-measles-exposures-9.7035275) (CBC News)
 
@@ -141,6 +147,10 @@ Source: [News API](https://newsapi.org/)
 - [A modelling assessment of the impact of control measures on highly pathogenic avian influenza transmission in poultry in Great Britain](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013874) (Plos.org)
 
 ## 26-2 (h5n1)
+
+- [전국 최초 ‘오리 사육 휴지기’도 도입했는데…올해 가파른 AI 확산세에 ‘당혹’](https://www.khan.co.kr/article/202601071543001) (Khan.co.kr)
+
+- [Újra megjelent a rettegett vírus, nő a globális aggodalom](https://index.hu/kulfold/2026/01/07/izrael-virus-jarvany-h5n1/) (Index.hu)
 
 - [충북 옥천 메추리 농장서 고병원성 AI 확진···방역조치 실시](https://www.khan.co.kr/article/202601062136001) (Khan.co.kr)
 
@@ -1784,6 +1794,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
+- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
+
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1815,6 +1827,10 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
+
+- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
+
+- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -1887,6 +1903,12 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
+
+- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
+
+- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
+
+- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 
