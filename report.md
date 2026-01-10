@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-01-10 07:07
-- **Most recent article:** 2026-01-09 05:01:26
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-01-10 19:06
+- **Most recent article:** 2026-01-09 18:20:03
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 18 | 15 | 45 | 38 | 31 | 35 | 26 | 34 | 242 |
-| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 10 | 139 |
-| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 11 | 107 |
-| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 9 | 90 |
-| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 1 | 10 | 89 |
-| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 11 | 63 |
+| measles | 17 | 15 | 45 | 38 | 31 | 35 | 26 | 38 | 245 |
+| dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 11 | 140 |
+| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 11 | 105 |
+| rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 91 |
+| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 11 | 87 |
+| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 13 | 65 |
 | chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 46 |
 | meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 43 |
 | zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 4 | 25 |
@@ -56,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (rabies)
 
+- [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
+
 - [With ‘Primate’ Attacking Theaters, Here Are Five More Animals Gone Wild Horror Movies You Need To See](https://decider.com/2026/01/08/primate-plus-animals-gone-wild-movies/) (Decider)
 
 - [Jeev Sabha backs 'catch-vaccinate-sterilise-release' model to save strays](https://timesofindia.indiatimes.com/city/mumbai/jeev-sabha-backs-catch-sterilise-and-release-model-to-check-strays/articleshow/126390469.cms) (The Times of India)
@@ -75,6 +77,10 @@ Source: [News API](https://newsapi.org/)
 - [Dipolog: AMAHAN NAGPOST SA SOCIAL MEDIA KABAHIN SA IYANG KASAGMUYO SA RHU ROXAS, DR. ATIENZA MIPASABOT SA KAHIMTANGAN SA PASILIDAD](https://rpnradio.com/dipolog-amahan-nagpost-sa-social-media-kabahin-sa-iyang-kasagmuyo-sa-rhu-roxas-dr-atienza-mipasabot-sa-kahimtangan-sa-pasilidad/) (Rpnradio.com)
 
 ## 26-2 (mpox)
+
+- [La viruela del mono evoluciona tras la emergencia internacional y en Baleares confirman el primer caso](https://www.nationalgeographic.com.es/ciencia/viruela-mono-evoluciona-forma-inesperada-tras-emergencia-internacional-y-baleares-confirman-primer-caso_27177) (Nationalgeographic.com.es)
+
+- [Il ritorno dei grandi virus: tre minacce da tenere d'occhio nel 2026](https://tech.everyeye.it/notizie/ritorno-grandi-virus-tre-minacce-tenere-occhio-2026-852358.html) (Everyeye.it)
 
 - [Gesundheitsamt warnt: Mpox-Infektionen jetzt auch in Berlin](https://www.tagesspiegel.de/gesundheit/gesundheitsamt-warnt-mpox-infektionen-jetzt-auch-in-berlin-15117971.html) (Der Tagesspiegel)
 
@@ -123,6 +129,14 @@ Source: [News API](https://newsapi.org/)
 - [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
+
+- [South Carolina reports 99 new measles cases](https://abcnews.go.com/Health/south-carolina-reports-99-new-measles-cases/story?id=129063021) (ABC News)
+
+- [Health officials warn of possible measles exposure in King and Snohomish counties](https://komonews.com/news/local/possible-measels-exposure-from-visitors-to-king-snohomish-counties-over-holidays-sea-tac-sea-airport-everett-restaurants-mukilteo-church) (KOMO News)
+
+- [Health officials warn of potential measles exposure at Lexington hotel](https://www.lex18.com/news/covering-kentucky/health-officials-warn-of-potential-measles-exposure-at-lexington-hotel) (LEX18 Lexington KY News)
+
+- [Ekiti begins statewide measles-rubella vaccination campaign](https://punchng.com/ekiti-begins-statewide-measles-rubella-vaccination-campaign/) (The Punch)
 
 - [California’s First Measles Case of 2026 Appears to Be Unvaccinated Patient in Bay Area](https://www.kqed.org/news/12069161/californias-first-measles-case-of-2026-appears-to-be-unvaccinated-patient-in-bay-area) (KQED)
 
@@ -230,6 +244,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (h5n1)
 
+- [The role of ducks in detecting Highly Pathogenic Avian Influenza in small-scale backyard poultry farms](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013357) (Plos.org)
+
 - [První letošní ohnisko ptačí chřipky: na Blanensku uhynulo celé hejno slepic](https://www.idnes.cz/brno/zpravy/blanensko-voderady-vyskyt-ohnisko-ptaci-chripka-statni-veterinarni-sprava.A260108_194205_brno-zpravy_idh) (Idnes.cz)
 
 - [고병원성 AI에 충북 ‘속수무책’](https://www.khan.co.kr/article/202601072013045) (Khan.co.kr)
@@ -251,6 +267,8 @@ Source: [News API](https://newsapi.org/)
 - [Modeling of H5N1 influenza virus kinetics during dairy cattle infection suggests the timing of infectiousness](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003586) (Plos.org)
 
 ## 26-2 (dengue)
+
+- [Wolbachia mosquitoes to be released at 4 more sites, including Geylang and Pasir Ris](https://www.channelnewsasia.com/singapore/project-wolbachia-mosquitoes-be-released-four-more-sites-geylang-pasir-ris-5848151) (CNA)
 
 - [Zika Virus Outbreak - Bangladesh, September-December 2024](https://www.cdc.gov/mmwr/volumes/75/wr/mm7501a1.htm) (Cdc.gov)
 
@@ -1894,8 +1912,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
-- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
-
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1927,10 +1943,6 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
-
-- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
-
-- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -2003,12 +2015,6 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
-
-- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
-
-- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
-
-- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 
