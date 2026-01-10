@@ -1,8 +1,170 @@
 {
-  "last_updated": "2026-01-09 19:08",
-  "count_articles_total": 863,
-  "count_articles_new": 12,
+  "last_updated": "2026-01-10 07:07",
+  "count_articles_total": 880,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 26727,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Anja Sokolow",
+      "title": "Gesundheitsamt warnt: Mpox-Infektionen jetzt auch in Berlin",
+      "description": "Fieber, Hautl\u00e4sionen und Lymphknotenschwellungen: In Berlin gibt es Mpox-F\u00e4lle, mit Viren, die in Berlin \u00fcbertragen wurden. Wer jetzt besonders auf den Impfschutz achten sollte.",
+      "url": "https://www.tagesspiegel.de/gesundheit/gesundheitsamt-warnt-mpox-infektionen-jetzt-auch-in-berlin-15117971.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15117976/alternates/BASE_16_9_W1400/1767934832000/mpox-lokal-erworbene-falle-in-berlin-registriert.jpeg",
+      "publishedAt": "2026-01-09 05:01:26",
+      "content": "Das Mpox-Virus zirkuliert inzwischen in Berlin, so dass auch hier Ansteckungen m\u00f6glich sind, warnt das Landesamt f\u00fcr Gesundheit und Soziales (Lageso). Erstmals wurden demnach Mpox-F\u00e4lle mit dem Virus\u2026 [+1598 chars]",
+      "retrievedAt": "2026-01-10 07:07:51.101420",
+      "internal_id": "996898107789e47b6e31be684dff4b37c2d7e3141dac2894893e69ff15c0c86e",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26730,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Gossiplankanews.com",
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "One of the 18 rat fever patients from Minuwangoda died.",
+      "description": "Eighteen leptospirosis patients and one death have been reported from flood-affected areas in the Minuwangoda division. Dr. Dayan Samarasekara, Additional Medical Officer of Health at the Minuwangoda Medical Officer of Health office, stated this. <!--gossip-\u2026",
+      "url": "https://english.gossiplankanews.com/2026/01/one-of-18-rat-fever-patients-from.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tfsCMgPiuDrA2TMq2eZ6E27QJrab5WNlgaQVqN9Iobj2hUhixQNzm0WntKgJTXZeBw8YhKTFs8NnULLcAW6Baff2kizZcf1npgM5_oxWasCxLir6-EaA6ndPORlN-7BDwyPwt13OwyYb2sD0ysR7cJw-6Sj7XhhgId6Q=w1600",
+      "publishedAt": "2026-01-09 04:10:14",
+      "content": "Eighteen leptospirosis patients and one death have been reported from flood-affected areas in the Minuwangoda division. Dr. Dayan Samarasekara, Additional Medical Officer of Health at the Minuwangoda\u2026 [+959 chars]",
+      "retrievedAt": "2026-01-10 07:07:51.668706",
+      "internal_id": "6c7b19f3669ee8346b3ffff34044b3638204ca05c58b29a8aee14607facfee93",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26726,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.30.14.dev1",
+      "description": "PyPI distribution of EMOD for the Malaria sim type",
+      "url": "https://pypi.org/project/emod-malaria/2.30.14.dev1/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-09 01:24:54",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-01-10 07:07:50.507931",
+      "internal_id": "8fb085cadb4364b8d34deae8f80b3c389244ba93bb17d8e0efe1c4decdeb56bc",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26720,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Carly Severn",
+      "title": "California\u2019s First Measles Case of 2026 Appears to Be Unvaccinated Patient in Bay Area",
+      "description": "San Mateo County health officials confirmed one case and said that \"so far no one else has developed symptoms\" of the highly contagious virus.",
+      "url": "https://www.kqed.org/news/12069161/californias-first-measles-case-of-2026-appears-to-be-unvaccinated-patient-in-bay-area",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/01/MeaslesAP.jpg",
+      "publishedAt": "2026-01-09 00:40:08",
+      "content": "In 2025, the county confirmed a previous measles case that also followed international travel, Merchant noted. In its weekly report, the California Department of Public Health has recorded one measl\u2026 [+798 chars]",
+      "retrievedAt": "2026-01-10 07:07:49.304274",
+      "internal_id": "a5ff8c30db133ed9f731aabf8c6b2b6488ccefc8a24d04f760a67a065e9fef24",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26724,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Abdilaahi Yusuf Nuh, Chaltu Fikru, Dawit Regassa, Henok Ashenafi Serba, Asnake Abreham, Buay Mattew, Ekram Nasir, Haile Fikadu, Hailemikael Mulugeta, Hudian Abubekir, Laker Christine, Mohamed Ali Adam, Roomey Oloock, Tafesse Gizaw",
+      "title": "Evaluation of the malaria surveillance system and trends in Jimma town, Southwest Ethiopia, 2024: a mixed-method study",
+      "description": "Scientific Reports - Evaluation of the malaria surveillance system and trends in Jimma town, Southwest Ethiopia, 2024: a mixed-method study",
+      "url": "https://www.nature.com/articles/s41598-025-33344-5",
+      "urlToImage": null,
+      "publishedAt": "2026-01-09 00:00:00",
+      "content": "Organization, W. H. World Malaria World Malaria Report 2024 Report (World Health Organization, 2024). WHO. Global technical strategy for malaria 20162030 [Internet]. World Health Organi\u2026 [+3165 chars]",
+      "retrievedAt": "2026-01-10 07:07:50.478120",
+      "internal_id": "25a939d728b2e6c5698288b51e4b3e59778bfc57eb25ddada1a5f5f7bbe2ccd5",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26725,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Christopher M. Owusu-Asenso, Anisa Abdulai, Isaac K. Sraku, Simon K. Attah, Fred Aboagye-Antwi, Yaw A. Afrane",
+      "title": "Comparative analysis reveals concentration-dependent and site-specific detoxification gene expression patterns in pyrethroid-resistant Anopheles gambiae s.l. from Accra, Ghana",
+      "description": "Scientific Reports - Comparative analysis reveals concentration-dependent and site-specific detoxification gene expression patterns in pyrethroid-resistant Anopheles gambiae s.l. from Accra, Ghana",
+      "url": "https://www.nature.com/articles/s41598-025-33720-1",
+      "urlToImage": null,
+      "publishedAt": "2026-01-09 00:00:00",
+      "content": "Cook, J. et al. Implications of insecticide resistance for malaria vector control with long-lasting insecticidal nets: trends in pyrethroid resistance during a WHO-coordinated multi-country prosp\u2026 [+7578 chars]",
+      "retrievedAt": "2026-01-10 07:07:50.488566",
+      "internal_id": "433472f428e82168a901f85078142b41e401f14c35b26e0fdfb4051a6aaf57e1",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26729,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express News Service",
+      "title": "Gandhinagar typhoid cases: NHRC issues suo motu notice to Gujarat, seeks report",
+      "description": "The commission has issued a notice to the state Chief Secretary, seeking a detailed report on the matter within two weeks.",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/gandhinagar-typhoid-cases-nhrc-issues-suo-motu-notice-to-gujarat-seeks-report-10463241/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/contaminated-water-AI-image_20260108235033.jpg",
+      "publishedAt": "2026-01-08 23:52:51",
+      "content": "The National Human Rights Commission has taken suo motu cognizance of a media report on surge in typhoid cases in Gandhinagar, said a release from the NHRC on Thursday.The commission has issued a not\u2026 [+1602 chars]",
+      "retrievedAt": "2026-01-10 07:07:51.483698",
+      "internal_id": "cc514ef5ed764fd04c406364f3a7ca867e2ebf08c6e8fde7f53e42be3d713440",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 26728,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Mpox: estudo mostra evolu\u00e7\u00e3o inusitada na doen\u00e7a e recomenda aten\u00e7\u00e3o",
+      "description": "Pesquisa sugere que, al\u00e9m de causar sintomas f\u00edsicos, a infec\u00e7\u00e3o pelo v\u00edrus mpox poderia afetar a fertilidade masculina",
+      "url": "https://www.metropoles.com/saude/evolucao-curiosa-virus-mpox",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/e6630c77-mpox.jpg",
+      "publishedAt": "2026-01-08 19:45:33",
+      "content": "Pouco mais de tr\u00eas anos depois de causar uma emerg\u00eancia de sa\u00fade p\u00fablica internacional, a mpox continua a chamar a aten\u00e7\u00e3o de pesquisadores. Em um novo estudo, cientistas do Canad\u00e1 encontraram uma ev\u2026 [+5581 chars]",
+      "retrievedAt": "2026-01-10 07:07:51.126714",
+      "internal_id": "7676fe2ccd489f9a29178afa6dd8a99d156a4d93d74743cc5585b1c457ea3c1d",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 26721,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Health Ministry: 11-month-old baby dies from measles complications",
+      "description": "An 11-month-old baby, who contracted measles and was transferred to Hadassah Ein Kerem Hospital in critical condition yesterday, passed away this evening.",
+      "url": "https://www.israelnationalnews.com/news/420623",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1206788.jpg",
+      "publishedAt": "2026-01-08 19:14:40",
+      "content": "The Ministry of Health announced this evening (Thursday) that an 11-month-old baby died due to complications from measles. According to the ministry's statement, the baby had no underlying health con\u2026 [+1327 chars]",
+      "retrievedAt": "2026-01-10 07:07:49.358244",
+      "internal_id": "9117a0bb813ce92e7c968a6b83c40d4361dc98bed6df1485ed1f526fc8460ce8",
+      "publishedAtLabel": "Jan 8"
+    },
     {
       "id": 26710,
       "query": [
@@ -185,6 +347,24 @@
       "publishedAtLabel": "Jan 8"
     },
     {
+      "id": 26722,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLWT Cincinnati",
+      "author": "Emily Sanderson",
+      "title": "Ohio health officials report state\u2019s first measles cases, outbreak of 2026",
+      "description": "Ohio health officials have reported the state's first measles cases, outbreak of 2026.",
+      "url": "https://www.wlwt.com/article/ohio-measles-outbreak-cuyahoga-county/69945481",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-702543989-1-695fc3faee611.jpg?crop=1.00xw:0.854xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-08 14:58:43",
+      "content": "CUYAHOGA COUNTY, Ohio \u2014Ohio health officials have reported the state's first measles cases, outbreak of 2026. Ohio Department of Health (ODH) Director Bruce Vanderhoff reported three cases Thursday\u2026 [+1582 chars]",
+      "retrievedAt": "2026-01-10 07:07:49.376976",
+      "internal_id": "1d941c2829b58684e621c728b6a434badb31c6d36ddc1b872ef15863a180965a",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
       "id": 26713,
       "query": [
         "dengue",
@@ -203,6 +383,24 @@
       "content": "Abstract Background Coinfections between malaria and arboviruses such as Dengue virus (DENV), chikungunya Virus (CHIKV), and Zika virus (ZIKV) represent a significant clinical and public health cha\u2026 [+34819 chars]",
       "retrievedAt": "2026-01-09 19:08:27.681222",
       "internal_id": "6a299479cd9eca606c9f1b527d6e0f6681587dc1de6583f639b611915cdf64ca",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 26723,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips",
+      "title": "As a measles outbreak burns through South Carolina, not enough people are getting vaccinated | CNN",
+      "description": "The first measles cases hit the region last fall, and the South Carolina health department declared an outbreak at the start of October. Now, more than 200 cases have been reported over the past few months, and there are no signs of slowing.",
+      "url": "https://www.cnn.com/2026/01/08/health/south-carolina-measles-outbreak-challenges",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24102514056497.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-01-08 13:34:30",
+      "content": "As measles outbreaks flared up across the US last year, causing a record number of cases, Scott Thorpe kept a wary eye on Spartanburg County, South Carolina. Nestled in the foothills of the Appalach\u2026 [+10618 chars]",
+      "retrievedAt": "2026-01-10 07:07:49.395141",
+      "internal_id": "d8d8906e6465a6295df738b3062e243ed0d57a81280032c687cbfe257e1ffbdc",
       "publishedAtLabel": "Jan 8"
     },
     {
@@ -15582,6 +15780,114 @@
       "content": "JERUSALEM, Nov. 23 (Xinhua) -- The Israeli Health Ministry said on Sunday that an 18-month-old boy has died of measles, raising the death toll from an outbreak that began in early April to 10. Most o\u2026 [+861 chars]",
       "retrievedAt": "2025-11-25 07:08:30.687693",
       "internal_id": "6f5c004a568a2df251c1bb67785d602a9f3c9c2f79660378787f14854536fa0d",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25851,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Orly Harari",
+      "title": "Unvaccinated infant dies of measles complications",
+      "description": "Infant boy, age 1.5 years, is brought to hospital in critical condition after developing measles complications but dies of his illness.",
+      "url": "https://www.israelnationalnews.com/news/418224",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1133604.jpg",
+      "publishedAt": "2025-11-23 14:37:28",
+      "content": "An infant boy, age 1.5 years, has died of measles, Israel's Health Ministry reported Sunday afternoon. The infant, who was unvaccinated, was brought to the hospital in critical condition The infant\u2026 [+2062 chars]",
+      "retrievedAt": "2025-11-24 19:05:54.621793",
+      "internal_id": "ec7c5404cfe82e2f02626083db9baf2356fea2d9a7d06260eb3d74327f06ce70",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25855,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Businessday.co.za",
+      "author": "Tamar Kahn",
+      "title": "SA doubles Global Fund pledge while key donors scale back",
+      "description": "Ramaphosa announces $36.6m government and private sector commitment at replenishment summit",
+      "url": "https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/",
+      "urlToImage": "https://www.businessday.co.za/resizer/v2/GJMRJ64GU5G3NEHLC4VAAGYS7E.jpeg?smart=true&auth=51712dd7893c70ddc14563846c2a132b79c225744b6d88cf5006990a8dc4d172&width=1200&height=630",
+      "publishedAt": "2025-11-23 14:20:39",
+      "content": "South Africa is one of only a few countries to raise its contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria, which closed its replenishment drive on Friday with just $11.34bn in \u2026 [+4167 chars]",
+      "retrievedAt": "2025-11-24 19:05:55.897045",
+      "internal_id": "fafaf91f5b07b70f9d8e4728fe91abbe015a866e3e62cd245904aa6f5402f17c",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25874,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Malaria vaccine price cut set to protect 7 million more children by 2030",
+      "description": "Vaccine alliance Gavi and children\u2019s agency UNICEF have struck a new pricing deal that will sharply cut the cost of a key malaria vaccine and make it possible to protect nearly seven million additional children by 2030, the agencies announced on Sunday. Read \u2026",
+      "url": "https://news.un.org/en/story/2025/11/1166432",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-11-2024-UNICEF-Sudan-malaria-03.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-11-23 12:00:00",
+      "content": "Under the agreement, the price of the R21/Matrix-M vaccine will fall to $2.99 per dose within a year a reduction expected to save up to $90 million. Those savings should allow countries to secure mor\u2026 [+2292 chars]",
+      "retrievedAt": "2025-11-25 19:06:29.596607",
+      "internal_id": "d3d206b99c6266f9b10e1754ec5d62058353b743fbb20c4c80fe736d3663a166",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25853,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Onliner.by",
+      "author": "Onliner",
+      "title": "\u0417\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u043c\u0438\u0440\u0435 \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5",
+      "description": "\u0412 \u0448\u0442\u0430\u0442\u0435 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u0435\u0440\u0432\u044b\u0439 \u043f\u0430\u0446\u0438\u0435\u043d\u0442, \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0439 \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N5, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u043d\u0435\u0435 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u044b\u044f\u0432\u043b\u044f\u043b\u0441\u044f \u0443 \u043b\u044e\u0434\u0435\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 Euronews \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0440\u0435\u0433\u0438\u043e\u043d\u0430.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435\u2026",
+      "url": "https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire",
+      "urlToImage": "https://content.onliner.by/news/default/e92370e932dfeadeb28b339a1b907b7d.jpg",
+      "publishedAt": "2025-11-23 10:22:56",
+      "content": ", H5N5, . Euronews . , . . , . 70 , , H5N1. H5N5 : . , . , , . . . ? -.",
+      "retrievedAt": "2025-11-24 19:05:55.029946",
+      "internal_id": "df677da0a6e640dfff1cefbc010d49d8b32677b8750e6dc2d12e09c526d397e3",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25854,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u0440\u0438\u043d\u0430 \u041f\u044f\u0442\u0438\u043d\u0430",
+      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
+      "url": "https://news.mail.ru/incident/68820457/",
+      "urlToImage": "https://resizer.mail.ru/p/602daaee-f843-5877-9abf-17e7396ff62c/AQAGdchhryOI0HZ-Xw3vTQfrzsEHRLzz9NgOpe-Y-q90ZXR2VIri1iFdaYpiFcDR5rkeb-j49O8ARWwWRGV9o1NXROQ.jpg",
+      "publishedAt": "2025-11-23 10:03:57",
+      "content": ", \u00ab \u00bb, , . , , , H5N5 , . , \u00ab \u00bb. (CDC) , , CNN. \u00ab \u00bb, . CDC 70 . H5N1. , , , . , , . 41 , , 24 .",
+      "retrievedAt": "2025-11-24 19:05:55.048797",
+      "internal_id": "11e99ea6c9257efe432254d3ab9f3bc8164a524d2bc1d7f32c4282438b8ad6d9",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 25852,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u0430\u043a\u0430\u0440\u044b\u0447\u0435\u0432",
+      "title": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0440\u0435\u0434\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0440\u0430\u043d\u0435\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0447\u0442\u043e \u0434\u043e\u0432\u0435\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u0439 \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0434\u043e \u0434\u0432\u0443\u0445 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
+      "url": "https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/11/23/istock-2184256360_400.jpg",
+      "publishedAt": "2025-11-23 09:51:06",
+      "content": ", \" \", , . , , , H5N5 , . , \" \". (CDC) , , CNN. \" \", . CDC 70 . H5N1. , , , . , , . 41 , , 24 . 25 . , 2022 , .",
+      "retrievedAt": "2025-11-24 19:05:55.019095",
+      "internal_id": "ae69f19d05cf6edb07c774098127c331c345d6eb45aac78132e859dbda5a7c22",
       "publishedAtLabel": "Nov 23"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-01-09 19:08
-- **Most recent article:** 2026-01-08 18:56:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-01-10 07:07
+- **Most recent article:** 2026-01-09 05:01:26
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-48 | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 17 | 15 | 45 | 38 | 31 | 35 | 26 | 30 | 237 |
+| measles | 18 | 15 | 45 | 38 | 31 | 35 | 26 | 34 | 242 |
 | dengue | 34 | 19 | 34 | 26 | 11 | 4 | 1 | 10 | 139 |
-| malaria | 15 | 26 | 17 | 19 | 12 | 5 | 0 | 8 | 102 |
+| malaria | 17 | 26 | 17 | 19 | 12 | 5 | 0 | 11 | 107 |
 | rabies | 8 | 7 | 21 | 11 | 20 | 8 | 6 | 9 | 90 |
-| h5n1 | 25 | 13 | 10 | 15 | 10 | 2 | 1 | 10 | 86 |
-| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 9 | 61 |
+| h5n1 | 28 | 13 | 10 | 15 | 10 | 2 | 1 | 10 | 89 |
+| mpox | 5 | 4 | 28 | 9 | 5 | 0 | 1 | 11 | 63 |
 | chikungunya | 1 | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 46 |
 | meningitis | 4 | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 43 |
 | zika | 2 | 6 | 6 | 2 | 3 | 2 | 0 | 4 | 25 |
-| leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 1 | 22 |
+| leptospirosis | 7 | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 23 |
 | yersinia | 0 | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 19 |
 | pertussis | 6 | 5 | 2 | 0 | 2 | 1 | 0 | 0 | 16 |
 | hpai | 1 | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 13 |
-| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 2 | 11 |
+| typhoid | 1 | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 12 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Scientists Study Spread of Bronze Age Plague](https://archaeology.org/news/2026/01/07/scientists-study-spread-of-bronze-age-plague/) (Archaeology)
 
 ## 26-2 (typhoid)
+
+- [Gandhinagar typhoid cases: NHRC issues suo motu notice to Gujarat, seeks report](https://indianexpress.com/article/cities/ahmedabad/gandhinagar-typhoid-cases-nhrc-issues-suo-motu-notice-to-gujarat-seeks-report-10463241/) (The Indian Express)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
@@ -73,6 +75,10 @@ Source: [News API](https://newsapi.org/)
 - [Dipolog: AMAHAN NAGPOST SA SOCIAL MEDIA KABAHIN SA IYANG KASAGMUYO SA RHU ROXAS, DR. ATIENZA MIPASABOT SA KAHIMTANGAN SA PASILIDAD](https://rpnradio.com/dipolog-amahan-nagpost-sa-social-media-kabahin-sa-iyang-kasagmuyo-sa-rhu-roxas-dr-atienza-mipasabot-sa-kahimtangan-sa-pasilidad/) (Rpnradio.com)
 
 ## 26-2 (mpox)
+
+- [Gesundheitsamt warnt: Mpox-Infektionen jetzt auch in Berlin](https://www.tagesspiegel.de/gesundheit/gesundheitsamt-warnt-mpox-infektionen-jetzt-auch-in-berlin-15117971.html) (Der Tagesspiegel)
+
+- [Mpox: estudo mostra evolução inusitada na doença e recomenda atenção](https://www.metropoles.com/saude/evolucao-curiosa-virus-mpox) (Metropoles.com)
 
 - [Mpox-Epidemie in Berlin: Warum die Impfung nicht entscheidend war, das Virus zu stoppen](https://www.tagesspiegel.de/wissen/mpox-epidemie-in-berlin-warum-die-impfung-nicht-entscheidend-war-das-virus-zu-stoppen-15112158.html) (Der Tagesspiegel)
 
@@ -118,7 +124,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (measles)
 
+- [California’s First Measles Case of 2026 Appears to Be Unvaccinated Patient in Bay Area](https://www.kqed.org/news/12069161/californias-first-measles-case-of-2026-appears-to-be-unvaccinated-patient-in-bay-area) (KQED)
+
+- [Health Ministry: 11-month-old baby dies from measles complications](https://www.israelnationalnews.com/news/420623) (Israelnationalnews.com)
+
 - [Health officials tracking measles outbreak in Ohio](https://www.13abc.com/2026/01/08/health-officials-tracking-measles-outbreak-ohio/) (13abc Action News)
+
+- [Ohio health officials report state’s first measles cases, outbreak of 2026](https://www.wlwt.com/article/ohio-measles-outbreak-cuyahoga-county/69945481) (WLWT Cincinnati)
+
+- [As a measles outbreak burns through South Carolina, not enough people are getting vaccinated | CNN](https://www.cnn.com/2026/01/08/health/south-carolina-measles-outbreak-challenges) (CNN)
 
 - [NC health officials seek names of 26 potentially exposed to measles at Mission Hospital](https://wlos.com/news/local/nc-health-officials-seek-names-26-potentially-exposed-measles-mission-hospital-north-carolina-deartment-human-services-illness-buncombe-county-cdc-community-vaccine) (WLOS)
 
@@ -180,6 +194,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (malaria)
 
+- [emod-malaria 2.30.14.dev1](https://pypi.org/project/emod-malaria/2.30.14.dev1/) (Pypi.org)
+
+- [Evaluation of the malaria surveillance system and trends in Jimma town, Southwest Ethiopia, 2024: a mixed-method study](https://www.nature.com/articles/s41598-025-33344-5) (Nature.com)
+
+- [Comparative analysis reveals concentration-dependent and site-specific detoxification gene expression patterns in pyrethroid-resistant Anopheles gambiae s.l. from Accra, Ghana](https://www.nature.com/articles/s41598-025-33720-1) (Nature.com)
+
 - [MicroRNAs profiling in malaria and arbovirus coinfection: A systematic review protocol](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340672) (Plos.org)
 
 - [snt-malaria-budgeting 0.5.1](https://pypi.org/project/snt-malaria-budgeting/0.5.1/) (Pypi.org)
@@ -197,6 +217,8 @@ Source: [News API](https://newsapi.org/)
 - [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
+
+- [One of the 18 rat fever patients from Minuwangoda died.](https://english.gossiplankanews.com/2026/01/one-of-18-rat-fever-patients-from.html) (Gossiplankanews.com)
 
 - [cGAS-STING dependent type I IFN reduces Leptospira interrogans renal colonization in mice](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013250) (Plos.org)
 
@@ -1872,6 +1894,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Israeli measles outbreak claims 10th victim, health officials urge vaccinations](https://www.thestar.com.my/news/world/2025/11/24/israeli-measles-outbreak-claims-10th-victim-health-officials-urge-vaccinations) (The Star Online)
 
+- [Unvaccinated infant dies of measles complications](https://www.israelnationalnews.com/news/418224) (Israelnationalnews.com)
+
 ## 25-48 (malaria)
 
 - [Malaria surges as Nigerians shun FG’s 320m free mosquito nets](https://punchng.com/malaria-surges-as-nigerians-shun-fgs-320m-free-mosquito-nets/) (The Punch)
@@ -1903,6 +1927,10 @@ Source: [News API](https://newsapi.org/)
 - [Chirality of malaria parasites determines their motion patterns](https://www.nature.com/articles/s41567-025-03096-0) (Nature.com)
 
 - [Mathematician: Fungus Could Decimate Malaria-Ridden Mosquitoes](https://www.newser.com/story/378637/mathematician-fungus-could-decimate-malaria-ridden-mosquitoes.html) (Newser)
+
+- [SA doubles Global Fund pledge while key donors scale back](https://www.businessday.co.za/news/health/2025-11-23-sa-doubles-global-fund-pledge-while-key-donors-scale-back/) (Businessday.co.za)
+
+- [Malaria vaccine price cut set to protect 7 million more children by 2030](https://news.un.org/en/story/2025/11/1166432) (UN News)
 
 ## 25-48 (leptospirosis)
 
@@ -1975,6 +2003,12 @@ Source: [News API](https://newsapi.org/)
 - [Роспотребнадзор следит за первым случаем заражения человека птичьим гриппом H5N5](https://tass.ru/obschestvo/25707717) (Tass.ru)
 
 - [В Роспотребнадзоре высказались о штамме птичьего гриппа H5N5 в США](https://lenta.ru/news/2025/11/23/v-rospotrebnadzore-vyskazalis-o-shtamme-ptichiego-grippa-h5n5-v-ssha/) (Lenta)
+
+- [Зафиксировали первую в мире смерть от птичьего гриппа H5N5](https://tech.onliner.by/2025/11/23/zafiksirovali-pervuyu-v-mire) (Onliner.by)
+
+- [Второй человек умер от птичьего гриппа в США](https://news.mail.ru/incident/68820457/) (Mail.ru)
+
+- [Второй человек умер от птичьего гриппа в США](https://rg.ru/2025/11/23/vtoroj-chelovek-umer-ot-ptichego-grippa-v-ssha.html) (Rg.ru)
 
 ## 25-48 (dengue)
 
