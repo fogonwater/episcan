@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-01-11 07:08
-- **Most recent article:** 2026-01-10 04:46:21
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-01-11 19:05
+- **Most recent article:** 2026-01-10 17:30:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 15 | 45 | 38 | 31 | 35 | 26 | 44 | 234 |
-| dengue | 19 | 34 | 26 | 11 | 4 | 1 | 11 | 106 |
-| malaria | 26 | 17 | 19 | 12 | 5 | 0 | 12 | 91 |
+| measles | 15 | 45 | 38 | 31 | 35 | 26 | 46 | 236 |
+| dengue | 18 | 34 | 26 | 11 | 4 | 1 | 12 | 106 |
+| malaria | 24 | 17 | 19 | 12 | 5 | 0 | 12 | 89 |
 | rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 83 |
-| h5n1 | 12 | 10 | 15 | 10 | 2 | 1 | 12 | 62 |
-| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 13 | 60 |
-| chikungunya | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 45 |
+| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 61 |
+| h5n1 | 11 | 10 | 15 | 10 | 2 | 1 | 12 | 61 |
+| chikungunya | 13 | 16 | 2 | 7 | 3 | 0 | 3 | 44 |
 | meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 39 |
 | zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 22 |
 | yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 19 |
@@ -78,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-2 (mpox)
 
+- [Mpox: entenda a doença viral que preocupa autoridades de saúde](https://www.terra.com.br/vida-e-estilo/saude/mpox-entenda-a-doenca-viral-que-preocupa-autoridades-de-saude,57b0dc32bb523887bdbb205314e4eed8k936sacw.html) (Terra.com.br)
+
 - [La viruela del mono evoluciona tras la emergencia internacional y en Baleares confirman el primer caso](https://www.nationalgeographic.com.es/ciencia/viruela-mono-evoluciona-forma-inesperada-tras-emergencia-internacional-y-baleares-confirman-primer-caso_27177) (Nationalgeographic.com.es)
 
 - [Il ritorno dei grandi virus: tre minacce da tenere d'occhio nel 2026](https://tech.everyeye.it/notizie/ritorno-grandi-virus-tre-minacce-tenere-occhio-2026-852358.html) (Everyeye.it)
@@ -129,6 +131,10 @@ Source: [News API](https://newsapi.org/)
 - [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
+
+- [In One State, 99 New Measles Cases in 3 Days](https://www.newser.com/story/381720/in-one-state-99-new-measles-cases-in-3-days.html) (Newser)
+
+- [Measles in North Carolina: State reports 5th case linked to South Carolina surge](https://abc11.com/post/measles-north-carolina-state-reports-5th-case-linked-south-surge/18382412/) (WTVD-TV)
 
 - [South Carolina has largest active measles outbreak in US](https://www.postandcourier.com/health/sc-measles-outbreak-largest-spartanburg/article_a24aa205-4131-4107-b1dd-38cdefc5e863.html) (Charleston Post Courier)
 
@@ -283,6 +289,8 @@ Source: [News API](https://newsapi.org/)
 - [Modeling of H5N1 influenza virus kinetics during dairy cattle infection suggests the timing of infectiousness](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003586) (Plos.org)
 
 ## 26-2 (dengue)
+
+- [Dengue: projeto de fabricação da vacina da Takeda pela Fiocruz é reprovado](https://oglobo.globo.com/saude/noticia/2026/01/10/dengue-projeto-para-fabricacao-da-vacina-da-takeda-pela-fiocruz-e-reprovado-pelo-ministerio-da-saude.ghtml) (Globo)
 
 - [Wolbachia mosquitoes to be released at 4 more sites, including Geylang and Pasir Ris](https://www.channelnewsasia.com/singapore/project-wolbachia-mosquitoes-be-released-four-more-sites-geylang-pasir-ris-5848151) (CNA)
 
@@ -1710,10 +1718,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Disappearance of Frogs May Be Making Some Humans Sick](https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html) (Newser)
 
-- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
-
-- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
-
 ## 25-49 (leptospirosis)
 
 - [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
@@ -1751,8 +1755,6 @@ Source: [News API](https://newsapi.org/)
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
 - [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
-
-- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 ## 25-49 (dengue)
 
@@ -1792,8 +1794,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Disminuye en 85% los casos de dengue con respecto a 2024](https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739) (Excelsior.com.mx)
 
-- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
-
 ## 25-49 (chikungunya)
 
 - [Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen](https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html) (Telegraaf.nl)
@@ -1821,5 +1821,3 @@ Source: [News API](https://newsapi.org/)
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
-
-- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)

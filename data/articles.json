@@ -1,8 +1,80 @@
 {
-  "last_updated": "2026-01-11 07:08",
-  "count_articles_total": 767,
-  "count_articles_new": 8,
+  "last_updated": "2026-01-11 19:05",
+  "count_articles_total": 766,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 26748,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "In One State, 99 New Measles Cases in 3 Days",
+      "description": "South Carolina's measles outbreak exploded into one of the worst in the US, with state health officials confirming 99 new cases in the past three days. The outbreak centered in Spartanburg County grew to 310 cases over the holidays, and spawned cases in North\u2026",
+      "url": "https://www.newser.com/story/381720/in-one-state-99-new-measles-cases-in-3-days.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1657479-12-20260110113003.jpeg",
+      "publishedAt": "2026-01-10 17:30:00",
+      "content": "South Carolina's measles outbreak exploded into one of the worst in the US, with state health officials confirming 99 new cases in the past three days. The outbreak centered in Spartanburg County gre\u2026 [+1852 chars]",
+      "retrievedAt": "2026-01-11 19:05:54.746240",
+      "internal_id": "ed27bd5780085fa61177e0622394633ec55012700b3756e0ebbf804fb4661868",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 26751,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Giro 10",
+      "title": "Mpox: entenda a doen\u00e7a viral que preocupa autoridades de sa\u00fade",
+      "description": "Mpox, nome atual da doen\u00e7a antes chamada de var\u00edola dos macacos, voltou a receber aten\u00e7\u00e3o de autoridades de sa\u00fade em v\u00e1rios pa\u00edses recentemente. Entenda essa doen\u00e7a viral.",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mpox-entenda-a-doenca-viral-que-preocupa-autoridades-de-saude,57b0dc32bb523887bdbb205314e4eed8k936sacw.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/01/10/867222981-virus.jpg",
+      "publishedAt": "2026-01-10 17:00:34",
+      "content": "Mpox, nome atual da doen\u00e7a antes chamada de var\u00edola dos macacos, voltou a receber aten\u00e7\u00e3o de autoridades de sa\u00fade em v\u00e1rios pa\u00edses recentemente. A mudan\u00e7a de nome foi adotada pela Organiza\u00e7\u00e3o Mundial\u2026 [+7102 chars]",
+      "retrievedAt": "2026-01-11 19:05:56.466712",
+      "internal_id": "852e36173bdcdffa9ac8180154c288dd3c2f5f460caf5ad77c4480393dedbaba",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 26749,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": null,
+      "title": "Measles in North Carolina: State reports 5th case linked to South Carolina surge",
+      "description": "Measles in North Carolina: State reports 5th case linked to South Carolina surgeabc11.com",
+      "url": "https://abc11.com/post/measles-north-carolina-state-reports-5th-case-linked-south-surge/18382412/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5293051_050919-wtvd-measles-update-5p-vid.jpg?w=1600",
+      "publishedAt": "2026-01-10 13:41:48",
+      "content": "RALEIGH, N.C. (WTVD) -- A new measles case has been reported in Rutherford County, North Carolina, bringing the state's total to five since late December, according to the North Carolina Department o\u2026 [+3018 chars]",
+      "retrievedAt": "2026-01-11 19:05:54.814377",
+      "internal_id": "8add82aab3680bf5f054cba6af6d5e815766fe6b385627daaeab826929bec787",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 26750,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": "Ag\u00eancia O Globo",
+      "title": "Dengue: projeto de fabrica\u00e7\u00e3o da vacina da Takeda pela Fiocruz \u00e9 reprovado",
+      "description": "Pasta informou que plano n\u00e3o cumpria \"requisitos m\u00ednimos\" para tornar-se uma Parceria de Desenvolvimento Produtivo (PDP); Fiocruz reconhece que produ\u00e7\u00e3o seria \"limitada\" The post Dengue: projeto de fabrica\u00e7\u00e3o da vacina da Takeda pela Fiocruz \u00e9 reprovado appea\u2026",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/01/10/dengue-projeto-para-fabricacao-da-vacina-da-takeda-pela-fiocruz-e-reprovado-pelo-ministerio-da-saude.ghtml",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/03/Qdenga-Takeda-vacina-dengue.png?quality=70",
+      "publishedAt": "2026-01-10 11:35:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade n\u00e3o aprovou o pedido da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz) para estabelecer uma Parceria de Desenvolvimento Produtivo (PDP) com a farmac\u00eautica Takeda para a fabrica\u00e7\u00e3o da vacina da\u2026 [+2158 chars]",
+      "retrievedAt": "2026-01-11 19:05:55.358068",
+      "internal_id": "fdcce1faa0dc766ca3902800451544f713717268c7db213b113a20d86de5e385",
+      "publishedAtLabel": "Jan 10"
+    },
     {
       "id": 26743,
       "query": [
@@ -13760,96 +13832,6 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25984,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
-      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
-      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
-      "publishedAt": "2025-11-30 18:42:16",
-      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.424189",
-      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25983,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "iLounge",
-      "author": "Samantha Wiley",
-      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
-      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
-      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
-      "publishedAt": "2025-11-30 17:03:28",
-      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.372565",
-      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25982,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "G\u00e9n\u00e9ration NT",
-      "author": "Mathieu M.",
-      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
-      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
-      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
-      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
-      "publishedAt": "2025-11-30 09:30:02",
-      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
-      "retrievedAt": "2025-12-01 19:09:02.844474",
-      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25985,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Atlantico.fr",
-      "author": "J\u00e9r\u00f4me Barri\u00e8re",
-      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
-      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
-      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
-      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
-      "publishedAt": "2025-11-30 09:30:00",
-      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.792747",
-      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25981,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
-      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
-      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
-      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
-      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
-      "publishedAt": "2025-11-30 09:00:45",
-      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
-      "retrievedAt": "2025-12-01 19:09:02.379183",
-      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]
