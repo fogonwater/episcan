@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2026-01-12 07:13
-- **Most recent article:** 2026-01-10 19:33:05
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-01-12 19:08
+- **Most recent article:** 2026-01-11 17:22:12
 
 ---
 
@@ -10,27 +10,47 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 237 |
-| dengue | 19 | 34 | 26 | 11 | 4 | 1 | 12 | 107 |
-| malaria | 26 | 17 | 19 | 12 | 5 | 0 | 12 | 91 |
-| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 83 |
-| h5n1 | 12 | 10 | 15 | 10 | 2 | 1 | 12 | 62 |
-| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 61 |
-| chikungunya | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 45 |
-| meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 39 |
-| zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 22 |
-| yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 19 |
-| leptospirosis | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 16 |
-| hpai | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 12 |
-| typhoid | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 11 |
-| pertussis | 5 | 2 | 0 | 2 | 1 | 0 | 0 | 10 |
+| Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 1 | 238 |
+| dengue | 18 | 34 | 26 | 11 | 4 | 1 | 12 | 1 | 107 |
+| malaria | 24 | 17 | 19 | 12 | 5 | 0 | 12 | 1 | 90 |
+| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 1 | 84 |
+| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 0 | 61 |
+| h5n1 | 11 | 10 | 15 | 10 | 2 | 1 | 12 | 0 | 61 |
+| chikungunya | 13 | 16 | 2 | 7 | 3 | 0 | 3 | 0 | 44 |
+| meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 1 | 40 |
+| zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 0 | 22 |
+| yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 0 | 19 |
+| leptospirosis | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 0 | 16 |
+| hpai | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 0 | 12 |
+| typhoid | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 11 |
+| pertussis | 5 | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 10 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-3 (rabies)
+
+- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
+
+## 26-3 (meningitis)
+
+- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
+
+## 26-3 (measles)
+
+- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
+
+## 26-3 (malaria)
+
+- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
+
+## 26-3 (dengue)
+
+- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-2 (zika)
 
@@ -1720,10 +1740,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Disappearance of Frogs May Be Making Some Humans Sick](https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html) (Newser)
 
-- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
-
-- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
-
 ## 25-49 (leptospirosis)
 
 - [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
@@ -1761,8 +1777,6 @@ Source: [News API](https://newsapi.org/)
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
 - [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
-
-- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 ## 25-49 (dengue)
 
@@ -1802,8 +1816,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Disminuye en 85% los casos de dengue con respecto a 2024](https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739) (Excelsior.com.mx)
 
-- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
-
 ## 25-49 (chikungunya)
 
 - [Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen](https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html) (Telegraaf.nl)
@@ -1831,5 +1843,3 @@ Source: [News API](https://newsapi.org/)
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
-
-- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
