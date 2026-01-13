@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-01-12 19:08",
-  "count_articles_total": 772,
-  "count_articles_new": 5,
+  "last_updated": "2026-01-13 07:11",
+  "count_articles_total": 784,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 26761,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Pesquisadores denunciam \"abandono\" de laborat\u00f3rios do Governo de SP",
+      "description": "Laborat\u00f3rios de pesquisas de doen\u00e7as end\u00eamicas enfrentam precariedade estrutural desde extin\u00e7\u00e3o da Sucen em 2022, diz associa\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/3b4674a0-fg116500.jpg",
+      "publishedAt": "2026-01-12 05:15:12",
+      "content": "Pesquisadores ligados \u00e0 \u00e1rea de doen\u00e7as end\u00eamicas, como dengue, febre amarela e doen\u00e7a de Chagas, denunciam um cen\u00e1rio de \u201cabandono\u201d dos laborat\u00f3rios da antiga Superintend\u00eancia de Controle de Endemia\u2026 [+6330 chars]",
+      "retrievedAt": "2026-01-13 07:11:30.995453",
+      "internal_id": "96d0b0a523f06b0076a8b00484b1965577139bbd845bf8b8638b216289675819",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26764,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Patrick Jackson",
+      "title": "Estos son los virus que amenazan la salud mundial en 2026, seg\u00fan los vir\u00f3logos",
+      "description": "Hay varios virus que preocupan a los expertos durante este a\u00f1o. La gripe aviar roza la transmisi\u00f3n entre humanos, la mpox se expande globalmente y el Oropouche emerge en Am\u00e9rica",
+      "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-01-12/virus-prediccion-investigacion-virologia-pandemia_4281159/",
+      "urlToImage": "https://images.ecestaticos.com/dHVYbDx0UD4BRdQDwfhJMVbBNHw=/0x0:2272x1474/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/781/60c/890/78160c8900cb5a9a3729f825f9ce66a1.jpg",
+      "publishedAt": "2026-01-12 04:00:00",
+      "content": "Un nuevo a\u00f1o significa nuevas amenazas v\u00edricas. Los virus antiguos evolucionan constantemente. Un planeta cada vez m\u00e1s c\u00e1lido y poblado pone a los humanos en contacto con m\u00e1s virus y de diferentes ti\u2026 [+4498 chars]",
+      "retrievedAt": "2026-01-13 07:11:31.703890",
+      "internal_id": "e71a5635cb7b39e27d9ff105ff584883a224fbb40eddc0b0e6f07ed1bbdb43f4",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26762,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Negros Occidental dengue cases drop 26% in 2025",
+      "description": "BACOLOD CITY \u2014 Dengue cases in Negros Occidental declined significantly in 2025, but health authorities cautioned that the mosquito-borne disease remains a serious public health concern after seven deaths were recorded during the year. Data released recently \u2026",
+      "url": "https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/dengues-negocc-decline.jpg",
+      "publishedAt": "2026-01-12 02:26:00",
+      "content": "BACOLOD CITY Dengue cases in Negros Occidental declined significantly in 2025, but health authorities cautioned that the mosquito-borne disease remains a serious public health concern after seven dea\u2026 [+1806 chars]",
+      "retrievedAt": "2026-01-13 07:11:31.006515",
+      "internal_id": "2001bb0922963f937555c701383aae360898ba1c61b74b1ecf6a479fb3c84c03",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26759,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Peter Cronin, Jurre Y. Siegers, Vireak Heang, Songha Tok, Sarath Sin, Ben Sievers, Victor Omondi, Sithun Nuon, Kimtuo Chhel, Janin Nouhin, Vutha Chim, Bunnary Seng, Makara Hak, Sorn San, Sothyra Tum, Filip F. Claes, Cadhla Firth, Yvonne C. F. Su, Gavin J. D. Smith, Erik A. Karlsson",
+      "title": "Environmental metagenomics enhances detection of circulating viruses from live poultry markets in Cambodia",
+      "description": "Authors use metagenomic environmental surveillance in Cambodian live-bird markets and found that air sampling captured the greatest diversity of poultry viruses. It outperformed traditional swabs, identifying undetected H5N1 clades.",
+      "url": "https://www.nature.com/articles/s41467-025-68245-8",
+      "urlToImage": null,
+      "publishedAt": "2026-01-12 00:00:00",
+      "content": "Peccia, J. et al. Measurement of SARS-CoV-2 RNA in wastewater tracks community infection dynamics. Nat. Biotechnol. 202038, 11641167 (2020). Google Scholar Coker, R. J., Hunter, B. M.\u2026 [+17324 chars]",
+      "retrievedAt": "2026-01-13 07:11:30.776382",
+      "internal_id": "1b5a1f23bc7a404223927e70748013c4004ba5165d5354aee680820dc2095eee",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26758,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KDRV",
+      "author": "Grace Ritz",
+      "title": "Oregon Health Authority confirms first measles case of 2026",
+      "description": "Health officials in Oregon are on high alert following the state's first confirmed measles cases of 2026 in Linn County.",
+      "url": "https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kdrv.com/content/tncms/assets/v3/editorial/4/4e/44e037ab-9690-5599-b3c4-c56e6b57a509/67b632135b422.image.jpg?crop=1753%2C920%2C0%2C131&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-01-11 22:59:34",
+      "content": "PORTLAND, Ore. - Health officials in Oregon are on high alert following the state's first confirmed measles cases of 2026 in Linn County. According to the Oregon Health Authority (OHA), two individu\u2026 [+1203 chars]",
+      "retrievedAt": "2026-01-13 07:11:30.106733",
+      "internal_id": "e4ef147f758a29ce9c183fe6c1ebacad7e88feb6abae9c23b0847ccb27e933cc",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26760,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "Scientists Create Strain Of Bird Flu That Has 100% Death Rate In Mammals",
+      "description": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study \u201cconfirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spreads to the brain, and kills every mammal tested.\u201d Didn\u2019t w\u2026",
+      "url": "https://www.activistpost.com/scientists-create-strain-of-bird-flu-that-has-100-death-rate-in-mammals/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/01/skull-and-crossbones-777x437.jpg.webp",
+      "publishedAt": "2026-01-11 20:00:00",
+      "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
+      "retrievedAt": "2026-01-13 07:11:30.804467",
+      "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
+      "publishedAtLabel": "Jan 11"
+    },
     {
       "id": 26755,
       "query": [
@@ -361,6 +469,24 @@
       "content": "LEXINGTON, Ky. (LEX 18) Health officials in Lexington have identified a potential measles exposure at a local hotel after an unvaccinated, out-of-state traveler stayed there over the New Year holiday\u2026 [+1162 chars]",
       "retrievedAt": "2026-01-10 19:05:58.674139",
       "internal_id": "ed37bf6386f40fc655b075b2ed1fd5d8ffa9fb3c1ec5ab51ba94eed926e3c712",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 26763,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Project Syndicate",
+      "author": "Ndidi Okonkwo Nwuneli",
+      "title": "Una forma ignorada de cerrar las brechas sanitarias en \u00c1frica",
+      "description": "Project Syndicate - The World\u2019s Opinion Page",
+      "url": "https://www.project-syndicate.org/commentary/africa-health-systems-crushing-out-of-pocket-costs-are-preventable-by-ndidi-okonkwo-nwuneli-and-ekhosuehi-iyahen-2026-01/spanish",
+      "urlToImage": "https://webapi.project-syndicate.org/library/bb005b0fbaafe16fa5a2565bdf65fe20.2-1-super.1.jpg",
+      "publishedAt": "2026-01-09 14:32:06",
+      "content": "WASHINGTON, DC Cada a\u00f1o, millones de africanos caen en la pobreza simplemente por enfermarse. Un embarazo complicado, una infecci\u00f3n de malaria o una cirug\u00eda inesperada pueden llevar a una familia al \u2026 [+7751 chars]",
+      "retrievedAt": "2026-01-13 07:11:31.327308",
+      "internal_id": "15dd2b325092214dc92a01cc6c88b8c80a187ca9fae726b8a3b5787c4e8219f1",
       "publishedAtLabel": "Jan 9"
     },
     {
@@ -13940,6 +14066,96 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
+      "publishedAt": "2025-11-30 18:42:16",
+      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.424189",
+      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25983,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "iLounge",
+      "author": "Samantha Wiley",
+      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
+      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
+      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
+      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
+      "publishedAt": "2025-11-30 17:03:28",
+      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.372565",
+      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "G\u00e9n\u00e9ration NT",
+      "author": "Mathieu M.",
+      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
+      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
+      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
+      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
+      "publishedAt": "2025-11-30 09:30:02",
+      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
+      "retrievedAt": "2025-12-01 19:09:02.844474",
+      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25985,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "J\u00e9r\u00f4me Barri\u00e8re",
+      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
+      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
+      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
+      "publishedAt": "2025-11-30 09:30:00",
+      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.792747",
+      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
+      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
+      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
+      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
+      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
+      "publishedAt": "2025-11-30 09:00:45",
+      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
+      "retrievedAt": "2025-12-01 19:09:02.379183",
+      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]
