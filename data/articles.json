@@ -1,8 +1,172 @@
 {
-  "last_updated": "2026-01-13 07:11",
-  "count_articles_total": 784,
-  "count_articles_new": 7,
+  "last_updated": "2026-01-13 19:08",
+  "count_articles_total": 788,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 26767,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC4 Washington",
+      "author": "Andrea Swalec",
+      "title": "Measles patient rode DC-bound train. Check possible exposure sites",
+      "description": "A child infected with measles passed through locations in Maryland and Virginia and rode a train that was headed from Philadelphia to D.C.",
+      "url": "https://www.nbcwashington.com/news/health/measles-patient-rode-train-bound-for-dc-check-potential-exposure-sites-and-dates/4040801/",
+      "urlToImage": "https://media.nbcwashington.com/2026/01/44994785504-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-01-12 16:12:14",
+      "content": "A child infected with measles passed through locations in Maryland and Virginia and rode a train that was headed from Philadelphia to D.C., authorities said in warnings about the highly contagious il\u2026 [+2736 chars]",
+      "retrievedAt": "2026-01-13 19:08:06.389127",
+      "internal_id": "1ff4f9c9a83029e92b1b31a5a97517c1e496d4ce096170c3436e79eeef8b8545",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26771,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Mart\u00edn Bastos",
+      "title": "Preocupaci\u00f3n por la salud de Luis Canut, marido de Patricia P\u00e9rez",
+      "description": "La gallega comparti\u00f3 una imagen de los dos desde el hospital. El guionista sufri\u00f3 hace a\u00f1os una grave meningitis criptoc\u00f3cica que le dej\u00f3 muchas secuelas",
+      "url": "https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm",
+      "urlToImage": "https://img.lavdg.com/sc/_YpvUX-7vGZPON5Hqkv2hcQcfJg=/1280x/2026/01/12/00121768226461725910292/Foto/efe_20251124_193929505.jpg",
+      "publishedAt": "2026-01-12 14:12:00",
+      "content": "Patricia P\u00e9rez ha generado gran preocupaci\u00f3n sobre el estado de salud de su marido, Luis Canut, al compartir una imagen en sus redes sociales desde el hospital. El guionista \u2014que lucha contra las sec\u2026 [+3517 chars]",
+      "retrievedAt": "2026-01-13 19:08:07.124668",
+      "internal_id": "722cd2f73d113f5ea7e353c3f10685a3e279987a1a2f36cd76f4f91aa372f2f6",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26772,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Robert Moss, Saber Dini, Steven Kho, Bridget E. Barber, Pierre A. Buffet, Megha Rajasekhar, David J. Price, Nicholas M. Anstey, Julie A. Simpson",
+      "title": "The role of the spleen in red blood cell loss caused by malaria: A mathematical model",
+      "description": "Author summary The human spleen is a blood filter, which retains red blood cells (RBCs) that are too rigid to pass through narrow slits and return to the circulation. It has long been considered to protect against Plasmodium (malaria) infection, because it re\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013865.g006&size=inline",
+      "publishedAt": "2026-01-12 14:00:00",
+      "content": "Ethics statement We obtained ethical approval from the Human Research Ethics Committee of Northern Territory Health and Menzies School of Health Research for (a) the uRBC and iRBC counts in 15 asymp\u2026 [+14632 chars]",
+      "retrievedAt": "2026-01-13 19:08:07.587464",
+      "internal_id": "e26b941d29af829a60222f07701374846cb992e6ccc7f96f37c57f2d64de345a",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26773,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tsui-Wen Chou, Micheal McCourt, Eduard Marmut, Vishal Karuppusamy, Marissa Lindman, Irving Estevez, Benjamin D. Buckley, Joshua K. Thackray, Kailyn Rodriguez, Marialaina Nissenbaum, Charul Mishra, Colm Atkins, Alexander W. Kusnecov, Max A. Tischfield, Brian P. Daniels",
+      "title": "Inapparent maternal ZIKV infection impacts fetal brain development and postnatal behavior",
+      "description": "Author summary Zika virus infection during pregnancy is best known for causing severe brain and developmental abnormalities in a subset of infants. However, most exposed children are born without obvious problems, and the long-term consequences of these more \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013850",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013850.g008&size=inline",
+      "publishedAt": "2026-01-12 14:00:00",
+      "content": "Citation: Chou T-W, McCourt M, Marmut E, Karuppusamy V, Lindman M, Estevez I, et al. (2026) Inapparent maternal ZIKV infection impacts fetal brain development and postnatal behavior. PLoS Pathog 22(1\u2026 [+60093 chars]",
+      "retrievedAt": "2026-01-13 19:08:07.776410",
+      "internal_id": "a2dcc8a18e9a9d2d0a24c458fa5776e4ef468a8f8ba3bca0170f12fee8c1f6ba",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26766,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "South Carolina Measles Outbreak Grows, Spreads to NC and Ohio",
+      "description": "South Carolina\u2019s measles outbreak exploded into one of the worst in the U.S., with state health officials confirming 99 new cases in three days last week. The outbreak centered in Spartanburg County grew to 310 cases over the holidays, and \u2026",
+      "url": "https://www.insurancejournal.com/news/southeast/2026/01/12/853921.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/01/measles-vax-Adobe-scaled.jpeg",
+      "publishedAt": "2026-01-12 13:43:06",
+      "content": "South Carolina\u2019s measles outbreak exploded into one of the worst in the U.S., with state health officials confirming 99 new cases in three days last week. The outbreak centered in Spartanburg County\u2026 [+2166 chars]",
+      "retrievedAt": "2026-01-13 19:08:06.261163",
+      "internal_id": "259014d2ae0dfb3193e58d11311e1090e8bd70c8cd419daca5ce20ff1a595202",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26770,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "DF registra mais de 4 mil casos de dengue em 2025",
+      "description": "De acordo com dados do Minist\u00e9rio da Sa\u00fade, foram 4.391 mil casos confirmados de dengue no DF no ano passado, com apenas um \u00f3bito",
+      "url": "https://www.metropoles.com/distrito-federal/df-registra-mais-de-4-mil-casos-de-dengue-em-2025",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/6a2766bb-aedes-aegypti.-zika-dengue-chikungunya.jpg",
+      "publishedAt": "2026-01-12 13:05:25",
+      "content": "De acordo com o painel de atualiza\u00e7\u00e3o de Casos de Arboviroses, do Minist\u00e9rio da Sa\u00fade, em 2025, no Distrito Federal, foram registrados 4.391 mil casos confirmados de dengue, com um \u00f3bito. Ao longo d\u2026 [+3890 chars]",
+      "retrievedAt": "2026-01-13 19:08:06.941789",
+      "internal_id": "0fd7bcc3f2410f13005d659305e24bd1cbdbdac1fccc8cf2fa3896826efc8ecc",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26769,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Metr\u00f3poles",
+      "title": "Como a gen\u00e9tica atua na luta contra a dengue, zika e chikungunya",
+      "description": "Pa\u00edses tropicais como Austr\u00e1lia e Col\u00f4mbia j\u00e1 contam com Aedes aegypti com Wolbachia em ambientes urbanos para combater a dengue",
+      "url": "https://theconversation.com/mosquitos-infectados-com-bacterias-como-a-genetica-atua-na-luta-contra-dengue-zika-e-chikungunya-272576",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/6a2766bb-aedes-aegypti.-zika-dengue-chikungunya.jpg",
+      "publishedAt": "2026-01-12 10:00:59",
+      "content": "*O artigo foi escrito pelos pesquisadores Mariana Rocha David, Gabriela de Azambuja Garcia, Marcio Galv\u00e3o Pavan e Rafael Maciel de Freitas, da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), e publicado na platafor\u2026 [+9072 chars]",
+      "retrievedAt": "2026-01-13 19:08:06.930831",
+      "internal_id": "837cfec70fddb46ecd7aa7bd65e41b238ec6e5dbc5323ad29428546d7ab379b7",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26765,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Rabid dog detected in Hashmonaim",
+      "description": "The Ministry of Health reports that a large white-beige dog infected with rabies has been spotted in Hashmonaim. The dog has also been seen in Ganei Modi\u2019in and Modi\u2019in Illit. Four people who were exposed to the dog have been referred for preventive rabies tr\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/674210",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-01-12 09:04:47",
+      "content": "The Ministry of Health reports that a large white-beige dog infected with rabies has been spotted in Hashmonaim. The dog has also been seen in Ganei Modiin and Modiin Illit. Four people who were expo\u2026 [+360 chars]",
+      "retrievedAt": "2026-01-13 19:08:06.022358",
+      "internal_id": "3499c105ca2c03a3cf9d15debfc7a8454391a432166594d1adeb83f1682174f3",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26768,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Daily Geek Show",
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Grippe aviaire : que se passerait-il si elle se propageait massivement aux humains ?",
+      "description": "Comme l\u2019a montr\u00e9 le Covid-19, une \u00e9pid\u00e9mie peut se transformer en pand\u00e9mie en tr\u00e8s peu de temps. R\u00e9cemment, des chercheurs se sont pench\u00e9s sur une autre \u00ab zoonose \u00bb : la grippe aviaire H5N1. The post Grippe aviaire : que se passerait-il si elle se propageait \u2026",
+      "url": "https://dailygeekshow.com/?p=999471",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2021/05/une-grippe-aviaire.jpeg",
+      "publishedAt": "2026-01-12 08:01:00",
+      "content": "Irina Gor / Shutterstock.com Comme la montr\u00e9 le Covid-19, une \u00e9pid\u00e9mie peut se transformer en pand\u00e9mie en tr\u00e8s peu de temps. R\u00e9cemment, des chercheurs se sont pench\u00e9s sur une autre \u00ab zoonose \u00bb : la \u2026 [+2260 chars]",
+      "retrievedAt": "2026-01-13 19:08:06.676920",
+      "internal_id": "73c984ee9241f9ce72043ca0f402d88c528db1d13d0e4e0af2998de4269030c3",
+      "publishedAtLabel": "Jan 12"
+    },
     {
       "id": 26761,
       "query": [
@@ -14066,96 +14230,6 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25984,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
-      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
-      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
-      "publishedAt": "2025-11-30 18:42:16",
-      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.424189",
-      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25983,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "iLounge",
-      "author": "Samantha Wiley",
-      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
-      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
-      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
-      "publishedAt": "2025-11-30 17:03:28",
-      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.372565",
-      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25982,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "G\u00e9n\u00e9ration NT",
-      "author": "Mathieu M.",
-      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
-      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
-      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
-      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
-      "publishedAt": "2025-11-30 09:30:02",
-      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
-      "retrievedAt": "2025-12-01 19:09:02.844474",
-      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25985,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Atlantico.fr",
-      "author": "J\u00e9r\u00f4me Barri\u00e8re",
-      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
-      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
-      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
-      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
-      "publishedAt": "2025-11-30 09:30:00",
-      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.792747",
-      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25981,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
-      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
-      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
-      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
-      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
-      "publishedAt": "2025-11-30 09:00:45",
-      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
-      "retrievedAt": "2025-12-01 19:09:02.379183",
-      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]
