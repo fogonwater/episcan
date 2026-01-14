@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-01-14 07:11",
-  "count_articles_total": 803,
-  "count_articles_new": 10,
+  "last_updated": "2026-01-14 19:07",
+  "count_articles_total": 809,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 26794,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marcia Bessa Martins, Marcia Bessa Martins",
+      "title": "S\u00e3o Paulo registra segundo caso da nova cepa de Mpox no Brasil",
+      "description": "Paciente reside em Portugal e apresentou sintomas, no fim de dezembro. Ele foi atendido no Em\u00edlio Ribas, j\u00e1 teve alta e retornou ao pa\u00eds de origem",
+      "url": "https://saude.ig.com.br/2026-01-13/sao-paulo-registra-segundo-caso-da-nova-cepa-de-mpox.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5y/84/j8/5y84j8m5tlg6imvz68fhlwahx.jpg",
+      "publishedAt": "2026-01-13 19:06:06",
+      "content": "O estado de S\u00e3o Paulo registrou o segundo caso de Mpox da cepa chamada Clado Ib, na capital paulista. Trata-se de um homem, de 39 anos, residente em Portugal, que apresentou os primeiros sintomas no \u2026 [+1784 chars]",
+      "retrievedAt": "2026-01-14 19:07:33.255605",
+      "internal_id": "bdd1d9f391edd62591aa435d803ebb7859d7d79d152a36cd43162874d21b4ebb",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26787,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLTX.com",
+      "author": "Wltx",
+      "title": "Measles exposure confirmed in Columbia; 124 new cases reported in SC since Friday",
+      "description": "DPH says an infectious person visited the SC State Museum on Jan. 2, potentially exposing visitors. Officials urge symptom monitoring through Jan. 23.",
+      "url": "https://www.wltx.com/article/news/health/124-new-measles-cases-reported-in-sc-since-friday-jan-2-one-infected-person-confirmed-to-have-attended-event-in-columbia-state-museum/101-13c0dc06-1e2f-4592-9269-11b9f3d8dfea",
+      "urlToImage": "https://media.wltx.com/assets/WLTX/images/1425be4c-572a-4545-a89e-122a09a8453f/20260109T221212/1425be4c-572a-4545-a89e-122a09a8453f_1140x641.jpg",
+      "publishedAt": "2026-01-13 19:04:47",
+      "content": "COLUMBIA, S.C. Health officials are reporting a measles exposure in Columbia as cases across the state have increased by 124 in just a few days. The South Carolina Department of Public Health (DPH) \u2026 [+3018 chars]",
+      "retrievedAt": "2026-01-14 19:07:31.451629",
+      "internal_id": "07e666b7d1e0add0063543bdda11ca1a965be4f48dea67daec4ebe84e8e0eab5",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26790,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "Vacina da dengue: Instituto Butantan est\u00e1 recrutando volunt\u00e1rios idosos para testes",
+      "description": "Estudo cl\u00ednico vai testar seguran\u00e7a e resposta imunol\u00f3gica em pessoas acima de 60 anos O post Vacina da dengue: Instituto Butantan est\u00e1 recrutando volunt\u00e1rios idosos para testes apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2026/01/13/medicina-e-saude/vacina-da-dengue-instituto-butantan-esta-recrutando-voluntarios-idosos-para-testes/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/11/butantan.jpg",
+      "publishedAt": "2026-01-13 19:00:41",
+      "content": "Siga o Olhar Digital no Google Discover O Instituto Butantan anunciou nesta ter\u00e7a-feira (13) que come\u00e7ou a recrutar volunt\u00e1rios de 60 a 79 anos para um novo ensaio cl\u00ednico da vacina da dengue Butant\u2026 [+4780 chars]",
+      "retrievedAt": "2026-01-14 19:07:32.207931",
+      "internal_id": "f8fce1dcec8634dc54ea3f0565cd9c3e9be321327d1ee3c68e19972afd0eaca6",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26784,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "South Carolina's measles outbreak reaches 434 cases",
+      "description": "At least TK measles cases have been reported so far this year, according to newly updated data from the CDC.",
+      "url": "https://abcnews.go.com/Health/south-carolina-reports-124-new-measles-cases-outbreak/story?id=129136137",
+      "urlToImage": "https://i.abcnewsfe.com/a/30853337-11a6-4104-b273-78c6fff489df/measles-ap-jef-260112_1768247528583_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-13 18:48:51",
+      "content": "At least 124 new measles cases have been reported in South Carolina since last Friday, health officials said. This brings the total number of cases in the outbreak to 434. There are currently over 4\u2026 [+1687 chars]",
+      "retrievedAt": "2026-01-14 19:07:31.352068",
+      "internal_id": "03007725c98cb0bc6aff8a4e06311cb9a4c355dacddc22f9d4e82cf52b8b5e51",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26788,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PennLive",
+      "author": "Chris Mautner | Cmautner@pennlive.com",
+      "title": "Person with measles may have exposed others at Pa. airport, train station",
+      "description": "The department is saying that anyone who thinks they might have been exposed to check their vaccination status and watch for symptoms.",
+      "url": "https://www.pennlive.com/health/2026/01/person-with-measles-may-have-exposed-others-at-pa-airport-train-station.html",
+      "urlToImage": "https://www.pennlive.com/resizer/v2/NJVC3U4LORGVNHXQJNAD2UUOSQ.jpg?auth=7d89d5f7cfdfe4470312b15233fefb65707b930eeb5f46834a7098067b54b45d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-01-13 18:33:26",
+      "content": "The Philadelphia Department of Public Health issued a warning on Monday that people who were at the Philadelphia National Airport and Philadelphias 30th Street Station last week could have been expos\u2026 [+2007 chars]",
+      "retrievedAt": "2026-01-14 19:07:31.469740",
+      "internal_id": "9e27c27b7356f3eaee288faf10c294a910c566d4b3541085e3716f034a171131",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26785,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Osun to vaccinate over two million children, teenagers against measles, rubella",
+      "description": "Lagos Deputy Gov. Obafemi Hamzat urges graduating students at Fountain University to become active graduates and architects of solutions for Nigeria\u2019s futu Read More: https://punchng.com/osun-to-vaccinate-over-two-million-children-teenagers-against-measles-r\u2026",
+      "url": "https://punchng.com/osun-to-vaccinate-over-two-million-children-teenagers-against-measles-rubella/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/05/09182600/Screenshot-2025-05-09-182618.jpg",
+      "publishedAt": "2026-01-13 18:20:55",
+      "content": "File photo: Illustration photo of measles vaccination. Nigeria needs active graduates, problem solvers \u2013 Lagos deputy gov The Deputy Governor of Lagos State, Obafemi Hamzat, has said Nigeria no lon\u2026 [+3826 chars]",
+      "retrievedAt": "2026-01-14 19:07:31.381637",
+      "internal_id": "7bcfa42b87a672be2e92462e9b0087b9662bddfdc7844a2a37dfb1814da9b21b",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26791,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Muharib Alruwaili, Sonia Younas, Abozer Y. Elderdery, Intisar Alruwaili, Jeremy Millis, Muhammad Umer Khan, Hasan Ejaz",
+      "title": "Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies",
+      "description": "An important worldwide problem is the resistance of Plasmodium falciparum to practically all antimalarial medications. Therefore, new treatment approaches are urgently needed. The development of antimalarial medications frequently involves two important thera\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0339317.g013&size=inline",
+      "publishedAt": "2026-01-13 14:00:00",
+      "content": "Abstract An important worldwide problem is the resistance of Plasmodium falciparum to practically all antimalarial medications. Therefore, new treatment approaches are urgently needed. The developme\u2026 [+51076 chars]",
+      "retrievedAt": "2026-01-14 19:07:32.687086",
+      "internal_id": "dc7c8baac8407e0b6679f44115ad3f5dc38047e68b0c8ca92dc2c38906e21eb2",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26789,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI Launches New AI Software Platform \u201cHyprX\u201d",
+      "description": "Helport AI launches HyprX, a digital twin software platform designed for enterprise customers to replicate the expertise of human professionals....",
+      "url": "https://www.globenewswire.com/news-release/2026/01/13/3217823/0/en/Helport-AI-Launches-New-AI-Software-Platform-HyprX.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2026-01-13 13:31:00",
+      "content": "SAN DIEGO, Jan. 13, 2026 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Company), a global technology company serving enterprise clients with intelligent customer communicat\u2026 [+5861 chars]",
+      "retrievedAt": "2026-01-14 19:07:31.851421",
+      "internal_id": "fc8167ff933157e3df6a12c6a51c74e718424d91305d4c3aeab7e2729083fabe",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26786,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Substack.com",
+      "author": "Jess Steier",
+      "title": "Flu Season Is Breaking Records, Measles Outbreaks are Growing, and Nutrition Guidelines Just Changed",
+      "description": "Flu Season Is Breaking Records, Measles Outbreaks are Growing, and Nutrition Guidelines Just Changedsubstack.com",
+      "url": "https://yourlocalepidemiologist.substack.com/p/a-brutal-flu-season-new-dietary-guidelines",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!5SHk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a12ea1d-95ea-4610-8425-4afefd91fd0c_1406x798.png",
+      "publishedAt": "2026-01-13 13:02:31",
+      "content": "I (Katelyn) have temporarily escaped to the Amazon jungle, where the internet cannot even reach me. So this week, I left the YLE keys with my team and our good friendand scientific communication rock\u2026 [+13944 chars]",
+      "retrievedAt": "2026-01-14 19:07:31.425300",
+      "internal_id": "e58faf989ee3a6c436558bb75d82d21019851089d306c2441b26940cab7d0ba8",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26793,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Mpox: morador de Portugal \u00e9 o 2\u00ba caso de nova cepa da doen\u00e7a em SP",
+      "description": "Secretaria Estadual de Sa\u00fade confirmou segundo caso de Mpox da cepa Clado Ib em S\u00e3o Paulo. Paciente mora em Portugal e j\u00e1 teve alta",
+      "url": "https://www.metropoles.com/sao-paulo/mpox-portugal-2-caso-sp",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/e6630c77-mpox.jpg",
+      "publishedAt": "2026-01-13 12:24:10",
+      "content": "A Secretaria Estadual de Sa\u00fade confirmou, no \u00faltimo s\u00e1bado (10/1), o segundo caso de Mpox da cepa Clado Ib em S\u00e3o Paulo. O paciente \u00e9 um homem de 39 anos que mora em Portugal e buscou atendimento no \u2026 [+4866 chars]",
+      "retrievedAt": "2026-01-14 19:07:33.246297",
+      "internal_id": "dcbde94a80d9eb0c21a5e9b3bca47b7c5ca21486e535326402ce3beabb4702d7",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26792,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Julia Vergin",
+      "title": "Mpox - die Pandemie, \u00fcber die niemand spricht",
+      "description": "Der gro\u00dfe Mpox-Ausbruch 2022 sorgte f\u00fcr Schlagzeilen. Ebenso die k\u00fcrzlich entdeckte Virusvariante in England. Sonst ist es still um Mpox \u2013 obwohl das Virus l\u00e4ngst zu einer Pandemie geworden ist. Wie hat es das geschafft?",
+      "url": "https://www.dw.com/de/mpox-die-pandemie-%C3%BCber-die-niemand-spricht/a-75285500",
+      "urlToImage": "https://static.dw.com/image/75286477_6.jpg",
+      "publishedAt": "2026-01-13 09:08:00",
+      "content": "Schon w\u00e4hrend der Corona-Pandemie hie\u00df es, dies sei erst der Anfang. Und auch mit jedem gro\u00dfen Vogelgrippe-Ausbruch mehren sich die bangen Fragen: Kommt sie jetzt, die n\u00e4chste Pandemie? Mit Ausgangss\u2026 [+5793 chars]",
+      "retrievedAt": "2026-01-14 19:07:33.236648",
+      "internal_id": "9e83ad7404998aa6ab90d0ab96159e1170b3e6f8af41695de651f3208e39991e",
+      "publishedAtLabel": "Jan 13"
+    },
     {
       "id": 26778,
       "query": [
@@ -14410,96 +14608,6 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25984,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
-      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
-      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
-      "publishedAt": "2025-11-30 18:42:16",
-      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.424189",
-      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25983,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "iLounge",
-      "author": "Samantha Wiley",
-      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
-      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
-      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
-      "publishedAt": "2025-11-30 17:03:28",
-      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.372565",
-      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25982,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "G\u00e9n\u00e9ration NT",
-      "author": "Mathieu M.",
-      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
-      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
-      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
-      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
-      "publishedAt": "2025-11-30 09:30:02",
-      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
-      "retrievedAt": "2025-12-01 19:09:02.844474",
-      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25985,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Atlantico.fr",
-      "author": "J\u00e9r\u00f4me Barri\u00e8re",
-      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
-      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
-      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
-      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
-      "publishedAt": "2025-11-30 09:30:00",
-      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.792747",
-      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25981,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
-      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
-      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
-      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
-      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
-      "publishedAt": "2025-11-30 09:00:45",
-      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
-      "retrievedAt": "2025-12-01 19:09:02.379183",
-      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]
