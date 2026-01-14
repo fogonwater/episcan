@@ -1,8 +1,188 @@
 {
-  "last_updated": "2026-01-13 19:08",
-  "count_articles_total": 788,
-  "count_articles_new": 9,
+  "last_updated": "2026-01-14 07:11",
+  "count_articles_total": 803,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 26778,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KEZI TV",
+      "author": "News Staff",
+      "title": "Linn County health alert: measles exposure at local hospitals",
+      "description": "Oregon Health Authority (OHA) and Linn County public health officials have confirmed the state's first measles cases of 2026.",
+      "url": "https://www.kezi.com/news/local/linn-county-health-alert-measles-exposure-at-local-hospitals/article_5cadcb6c-7f67-40fa-97cf-cf5757a35d71.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/0b/50b74160-609f-4679-b58c-062e1c5355bd/696559215e4f4.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-01-13 05:44:17",
+      "content": "PORTLAND, Ore. - Oregon Health Authority (OHA) and Linn County public health officials have confirmed the state's first measles cases of 2026. They are warning the public about potential exposure at \u2026 [+1312 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.460473",
+      "internal_id": "b3eec809c89287f72c458cb4ca27cd3ee51b0a2caab4f1c8b8cec4411a10980b",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26779,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "DIPOLOG: PAGPATUMAN SA MEASLES-RUBELLA IMMUNIZATION GIPAHIBALO SA DOH ZAMBOANGA PENINSULA",
+      "description": "Andam na ang Department of Health (DOH) Zamboanga Peninsula Center for Health Development uban sa mga Local Government Units (LGUs) sa pagpatuman sa Measles-Rubella Supplemental Immunization Activity (MR-SIA) sa tibuok rehiyon sugod Enero 19 hangtod Pebrero 1\u2026",
+      "url": "https://rpnradio.com/dipolog-pagpatuman-sa-measles-rubella-immunization-gipahibalo-sa-doh-zamboanga-peninsula/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/1000027048.jpg",
+      "publishedAt": "2026-01-13 04:39:57",
+      "content": "Andam na ang Department of Health (DOH) Zamboanga Peninsula Center for Health Development uban sa mga Local Government Units (LGUs) sa pagpatuman sa Measles-Rubella Supplemental Immunization Activity\u2026 [+1024 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.503789",
+      "internal_id": "7aabbb1fda823055ed5aaccc7fe7829fd488f3acfb85d1c8768020295a5bb6ea",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26774,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2 southern Manitoba health centres among new measles exposure sites, province says",
+      "description": "Public health officials are warning that members of the public may have been exposed to measles at several locations across southern Manitoba, including at two separate health centres last week.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposure-sites-9.7043103",
+      "urlToImage": "https://i.cbc.ca/ais/1.7478844,1760798761398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620",
+      "publishedAt": "2026-01-13 02:46:36",
+      "content": "Health officials are warning that members of the public may have been exposed to measles at several locations across southern Manitoba, including at two separate health centres last week. Anyone wh\u2026 [+1873 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.374991",
+      "internal_id": "e31bd0daded984b7109fa21e8482bbbc7340f53e4e7aabd43099c88b14e305ba",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26780,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Matthew R. Ykema, Michael A. Davis, Darshan N. Kasal, Madeleine F. Jennewein, Ethan Lo, Jasneet Singh, Samuel Beaver, Noah Cross, Eduard Melief, Sierra Reed, Christopher Press, Devin S. Brandt, Wynton D. McClary, Raodoh Mohamath, Pauline Fusco, Julie Bakken, Corey Casper, Airn Tolnay Hartwig, Alana Gerhardt, Richard A. Bowen, Emily A. Voigt",
+      "title": "Intranasal replicon vaccine establishes mucosal immunity and protects against H5N1 and H7N9 influenza",
+      "description": "Vaccines inducing mucosal immunity may provide better protection from respiratory viruses. Here, Ykema et al. demonstrate the utility of a bivalent, mucosally delivered nanostructured lipid carrier-replicon vaccine for induction of mucosal and systemic immuni\u2026",
+      "url": "https://www.nature.com/articles/s41467-025-64829-6",
+      "urlToImage": null,
+      "publishedAt": "2026-01-13 00:00:00",
+      "content": "CDC. About Estimated Flu Burden. https://www.cdc.gov/flu-burden/php/about/index.html (2024). Erbelding, E. J. et al. A universal influenza vaccine: the strategic plan for the National I\u2026 [+10524 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.746806",
+      "internal_id": "e75fd988fa5100a3f79304b39afbab38081bb86ffc3f1b7cd2dccf8dcccc2a0b",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26783,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Saugata Majumder, Shreya Das, Mohd Saqib, McKenzie Van der Veer, Moe Acee, Wei Sun",
+      "title": "Intranasal unadjuvanted LcrV boosts parental Yersinia OMV primed lung immunity against pneumonic plague in mice",
+      "description": "Yersinia pestis is a bacterial pathogen that caused major historic pandemic outbreaks and currently associated with endemic infection. Here the authors use an intramuscular prime vaccination with OMV46-LcrV/Alum and a subsequent boost with intranasal adjuvant\u2026",
+      "url": "https://www.nature.com/articles/s41467-026-68334-2",
+      "urlToImage": null,
+      "publishedAt": "2026-01-13 00:00:00",
+      "content": "Gage, K. L. &amp; Kosoy, M. Y. Natural history of plague: perspectives from more than a century of research. Annu. Rev. Entomol.50, 505528 (2005). Google Scholar Perry, R. D. &amp; Fe\u2026 [+12835 chars]",
+      "retrievedAt": "2026-01-14 07:11:27.587180",
+      "internal_id": "b8c34197bebb69788d0aef9c9a6992f20c63cf14ca519d8cbfe1ad498dcf6761",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26776,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Erik Avanier",
+      "title": "Georgia health officials explain why younger children are more vulnerable to measles after baby tests positive",
+      "description": "Georgia health officials explain why younger children are more vulnerable to measles after baby tests positivenews4jax.com",
+      "url": "https://www.news4jax.com/news/georgia/2026/01/12/georgia-health-officials-explain-why-younger-children-are-more-vulnerable-to-measles-after-baby-tests-positive/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/Eg8RtZsBkBbcA1_WuvIX/1768269507013_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2026-01-12 23:57:04",
+      "content": "GEORGIA The Coastal Health District of Georgia reported that a baby, who was too young to receive the measles vaccination, has tested positive for measles. According to officials, the child contrac\u2026 [+1808 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.412247",
+      "internal_id": "6150eb3e1d5e588b1c37cca6ed9e497f904099b2ee2d1edd537e0119aa2fb654",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26777,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Wlos Staff",
+      "title": "Measles case confirmed in Rutherford County, 2 children quarantined, health officials say",
+      "description": "Two children in Rutherford County are in quarantine after NCDHHS confirmed a case of measles in the county on Friday, Jan. 9.",
+      "url": "https://wlos.com/news/local/measles-case-confirmed-rutherford-county-2-children-quarantined-health-officials-mmr-vaccine-north-carolina-department-health-human-services-buncombe-county",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/1024/1320/0x54/90/d9eb3332-f8c7-4ae6-9289-7a2bd4347ba4-AP25070450755120.jpg",
+      "publishedAt": "2026-01-12 22:14:42",
+      "content": "WLOS Two children in Rutherford County are in quarantine after the North Carolina Department of Health and Human Services confirmed a case of measles in the county on Friday, Jan. 9. Rutherford Coun\u2026 [+1215 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.442967",
+      "internal_id": "feb0ca71c9abc65ca1a652adb864ed3e0db1166157acf9904fc5787bdf0b19d0",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26782,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WXYZ",
+      "author": "Dr. Partha Nandi",
+      "title": "Doctors concerned fewer teens will get vaccinated for meningitis as cases rise",
+      "description": "Doctors are concerned that the Centers for Disease Control and Prevention\u2019s move away from routinely recommending meningococcal vaccination could leave more young people vulnerable.",
+      "url": "https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/10897b6/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F02%2F67%2Fe976de6e4add8974614e72ebe516%2Fvaccine.jpg",
+      "publishedAt": "2026-01-12 21:44:14",
+      "content": "(WXYZ) Doctors are concerned that the Centers for Disease Control and Preventions move away from routinely recommending meningococcal vaccination could leave more young people vulnerable. While rare,\u2026 [+2330 chars]",
+      "retrievedAt": "2026-01-14 07:11:26.099218",
+      "internal_id": "a9f805d04102d8552e035e0b94ebcee339b7d3c8f0d6d352ac12c07d6c801023",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26781,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Minist\u00e9rio da Sa\u00fade barra produ\u00e7\u00e3o da vacina Qdenga pela Fiocruz",
+      "description": "Decis\u00e3o impede a produ\u00e7\u00e3o nacional da vacina da dengue da Takeda e mant\u00e9m a imuniza\u00e7\u00e3o dependente de importa\u00e7\u00e3o pelo SUS",
+      "url": "https://www.metropoles.com/saude/ministerio-barra-vacina-qdenga",
+      "urlToImage": "https://www.metropoles.com/wp-content/uploads/wp-content/uploads/2025/11/05175232/Vacinacao-infantil-1-3.jpg",
+      "publishedAt": "2026-01-12 19:46:02",
+      "content": "O Minist\u00e9rio da Sa\u00fade decidiu n\u00e3o aprovar o projeto que permitiria a produ\u00e7\u00e3o da vacina contra a dengue da farmac\u00eautica Takeda no Brasil, em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz). A proposta\u2026 [+1870 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.926845",
+      "internal_id": "aadba76a5ebc0452801e6667b3dd249f631c35db143aa8d988082710b314caf8",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 26775,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WUSA9.com",
+      "author": "Alexa Henry",
+      "title": "Virginia Department of Health investigating measles cases",
+      "description": "State health officials are working to identify who might have been exposed.",
+      "url": "https://www.wusa9.com/article/news/health/health-alert/virginia-department-of-health-investigating-measles-cases/65-8d2bf8d6-d796-4ede-bdcb-7116690449a7",
+      "urlToImage": "https://media.wusa9.com/assets/WUSA/images/ad5f78af-1ea2-42b6-9720-75cd0ecc517f/20260112T045118/ad5f78af-1ea2-42b6-9720-75cd0ecc517f_1140x641.jpg",
+      "publishedAt": "2026-01-12 19:22:34",
+      "content": "The Virginia Department of Health has reported the states second measles case of the new year. State health officials are working to identify who might have been exposed. The patient is a preschoo\u2026 [+2976 chars]",
+      "retrievedAt": "2026-01-14 07:11:25.402794",
+      "internal_id": "bed8087dbcb19193033a487e74dbdfb8b5fe4ced396abd4b7f8e05d74cf6f667",
+      "publishedAtLabel": "Jan 12"
+    },
     {
       "id": 26767,
       "query": [
@@ -14230,6 +14410,96 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
+      "publishedAt": "2025-11-30 18:42:16",
+      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.424189",
+      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25983,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "iLounge",
+      "author": "Samantha Wiley",
+      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
+      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
+      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
+      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
+      "publishedAt": "2025-11-30 17:03:28",
+      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.372565",
+      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "G\u00e9n\u00e9ration NT",
+      "author": "Mathieu M.",
+      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
+      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
+      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
+      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
+      "publishedAt": "2025-11-30 09:30:02",
+      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
+      "retrievedAt": "2025-12-01 19:09:02.844474",
+      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25985,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "J\u00e9r\u00f4me Barri\u00e8re",
+      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
+      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
+      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
+      "publishedAt": "2025-11-30 09:30:00",
+      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.792747",
+      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
+      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
+      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
+      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
+      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
+      "publishedAt": "2025-11-30 09:00:45",
+      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
+      "retrievedAt": "2025-12-01 19:09:02.379183",
+      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]
