@@ -1,8 +1,224 @@
 {
-  "last_updated": "2026-01-14 19:07",
-  "count_articles_total": 809,
-  "count_articles_new": 11,
+  "last_updated": "2026-01-15 07:11",
+  "count_articles_total": 826,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 26795,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Do healthy raccoons carry rabies?",
+      "description": "Do Healthy Raccoons Carry Rabies? No, healthy raccoons do not carry rabies. Only infected raccoons, showing symptoms or in the incubation period, can transmit the virus. Understanding Rabies and Raccoons Raccoons are often associated with rabies, and for good\u2026",
+      "url": "https://www.lifesciencesworld.com/do-healthy-raccoons-carry-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-14 04:30:05",
+      "content": "Do Healthy Raccoons Carry Rabies? No, healthy raccoons do not carry rabies. Only infected raccoons, showing symptoms or in the incubation period, can transmit the virus. Understanding Rabies and Ra\u2026 [+8658 chars]",
+      "retrievedAt": "2026-01-15 07:11:13.709550",
+      "internal_id": "054f533cf4a4d22f227ecaa55d95c57ebc68031077a35542b5d604149bf37e9c",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 26800,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "St George News",
+      "author": "Devi Shastri",
+      "title": "Federal health officials: Measles cases increase along Utah-Arizona border, S. Carolina",
+      "description": "Federal health officials: Measles cases increase along Utah-Arizona border, S. Carolinastgeorgeutah.com",
+      "url": "https://www.stgeorgeutah.com/life/federal-health-officials-measles-cases-increase-along-utah-arizona-border-s-carolina/article_3c736f0c-fc9e-4298-add2-f988a87c3e9b.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/stgeorgeutah.com/content/tncms/assets/v3/editorial/3/c7/3c736f0c-fc9e-4298-add2-f988a87c3e9b/6966cf5cbb0fb.social.jpg?resize=1500%2C1000",
+      "publishedAt": "2026-01-14 01:03:47",
+      "content": "A measles outbreak along the Arizona-Utah border has infected 418 people since August 2025. Meanwhile, in South Carolina, health officials have confirmed 124 new measles cases since Friday, as the o\u2026 [+2859 chars]",
+      "retrievedAt": "2026-01-15 07:11:14.213082",
+      "internal_id": "4bc4be4e62796d480dda05913178592dedf55d05bc2e4c2022e3529417236a50",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 26802,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Vitor Hugo Girotto, Vitor Hugo Girotto",
+      "title": "Vacina da dengue do Butantan come\u00e7a fase de teste em idosos",
+      "description": "Estudo recruta volunt\u00e1rios de 60 a 79 anos no RS e PR para avaliar seguran\u00e7a e resposta do imunizante, j\u00e1 aprovado para pessoas de 12 a 59 anos",
+      "url": "https://saude.ig.com.br/2026-01-13/vacina-da-dengue-do-butantan-comeca-fase-de-teste-em-idosos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/89/ao/gk/89aogkw1sz6t5nekce1gh8on4.jpg",
+      "publishedAt": "2026-01-13 23:16:41",
+      "content": "O Instituto Butantan iniciou nesta ter\u00e7a-feira (13) o recrutamento de volunt\u00e1rios de 60 a 79 anos para ensaios cl\u00ednicos com a sua vacina contra a dengue, a Butantan-DV. O estudo, que acontecer\u00e1 ao l\u2026 [+2046 chars]",
+      "retrievedAt": "2026-01-15 07:11:15.079274",
+      "internal_id": "71bd75c828ca3b96e39ec03d7d6b4c60dc060b7805c8f3ace853aa8a2a4b1b80",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26796,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI AP health writer",
+      "title": "South Carolina confirms 124 new measles cases as outbreak on the Arizona-Utah line grows",
+      "description": "Health officials in South Carolina have confirmed 124 new cases of measles since Friday",
+      "url": "https://abcnews.go.com/Health/wireStory/south-carolina-confirms-124-new-measles-cases-outbreak-129183090",
+      "urlToImage": "https://i.abcnewsfe.com/a/a9b9aa6e-1c6c-4e21-99c8-a08863d00db1/wirestory_845643cd1342f1ce2ea01d11b74ee77b_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-13 22:45:41",
+      "content": "Health officials in South Carolina confirmed 124 new measles cases since Friday, as the outbreak in the northwestern part of the state balloons following the holidays. There is a second, separate m\u2026 [+2955 chars]",
+      "retrievedAt": "2026-01-15 07:11:14.139923",
+      "internal_id": "cecb4f0e33f7ab9265915dff5c74c52febc580e49f91bc66717a74f52cf45ea8",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26801,
+      "query": [
+        "measles"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Devi Shastri",
+      "title": "124 new measles cases in South Carolina, Arizona-Utah border outbreak grows",
+      "description": "Health officials in South Carolina have confirmed 124 new cases of measles since Friday. Hundreds of children have been quarantined because of school exposures, some more than once. A separate outbreak has infected 418 people along the Arizona-Utah border. Bo\u2026",
+      "url": "https://apnews.com/article/measles-south-carolina-utah-arizona-845643cd1342f1ce2ea01d11b74ee77b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/da8ec92/2147483647/strip/true/crop/1728x972+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2Fcc%2Feacebfb7954ebdb3ca08a6d2b7b3%2F5096eefd15f8403e83c3b1f4eb3809bb",
+      "publishedAt": "2026-01-13 22:15:23",
+      "content": "Health officials in South Carolina confirmed 124 new measles cases since Friday, as the outbreak in the northwestern part of the state balloons following the holidays. There is a second, separate m\u2026 [+3110 chars]",
+      "retrievedAt": "2026-01-15 07:11:14.230807",
+      "internal_id": "6962a3a0364536f38f63432b7241f03527834813e67d58cefcf79ea1e4ed266a",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26805,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Segundo caso de nova cepa de \u2018mpox\u2019 \u00e9 confirmado no Estado de S\u00e3o Paulo",
+      "description": "Segundo a SES, o homem apresentou sintomas no final de dezembro, foi atendido pelo instituto e permaneceu internado por um dia The post Segundo caso de nova cepa de \u2018mpox\u2019 \u00e9 confirmado no Estado de S\u00e3o Paulo appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/segundo-caso-de-nova-cepa-de-mpox-e-confirmado-no-estado-de-sao-paulo/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2020-09-27t000000z_1590795794_mt1imgost000of8jy0_rtrmadp_3_imago-images_0.webp?quality=70",
+      "publishedAt": "2026-01-13 21:57:39",
+      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo (SES-SP) confirmou no \u00faltimo s\u00e1bado, 10, o segundo caso de mpox do clado 1b no Estado. O paciente \u00e9 um homem de 39 anos, morador de Portugal, que foi aten\u2026 [+2987 chars]",
+      "retrievedAt": "2026-01-15 07:11:16.418842",
+      "internal_id": "54ab417e4996db4db58e55896baebfd5601ac48d2caa9bef20489c7a4deee55b",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26806,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "Andrew Paul",
+      "title": "Medieval plague victims likely found in mass grave in Germany",
+      "description": "Archaeologists say they located a Black Death burial site containing some of a village's 12,000 dead. The post Medieval plague victims likely found in mass grave in Germany appeared first on Popular Science.",
+      "url": "http://www.popsci.com/science/medieval-plague-mass-grave-germany/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2026/01/Black-Death-Illustration.png?w=1200",
+      "publishedAt": "2026-01-13 20:48:08",
+      "content": "The Black Death (Yersinia pestis) killed as much as half of Europes total population between 1346 and 1353, so there are a lot of bodies buried across the continent. For example, contemporary account\u2026 [+3108 chars]",
+      "retrievedAt": "2026-01-15 07:11:16.879535",
+      "internal_id": "e81d7fae91543051475e8a939ea1626dfa93743564e97c47001c7052aacb3ee4",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26797,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "REUTERS",
+      "title": "Measles Outbreak In South Carolina Still Growing, State Health Department Says",
+      "description": "Of those infected in the widening outbreak, the vast majority were unvaccinated.",
+      "url": "https://www.huffpost.com/entry/south-carolina-measles-outbreak-grows_n_6966a965e4b09c0a939bfa93",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6966ac41170000cf34aacaa1.jpeg?cache=W2F18WA3GE&ops=1200_630",
+      "publishedAt": "2026-01-13 20:35:59",
+      "content": "Jan 13 (Reuters) - The South Carolina health department reported 434 measles cases related to the ongoing outbreak in the state on Tuesday, 124 additional cases since its last update on Friday. The \u2026 [+1325 chars]",
+      "retrievedAt": "2026-01-15 07:11:14.149624",
+      "internal_id": "2b9d10e52bbd5d23bedbc31fb995f7190ecd4022cdfa2ea71c6ff85582df4465",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Segundo caso de nova cepa de mpox \u00e9 confirmado no Estado de S\u00e3o Paulo",
+      "description": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo (SES-SP) confirmou no \u00faltimo s\u00e1bado, 10, o segundo ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/segundo-caso-de-nova-cepa-de-mpox-e-confirmado-no-estado-de-sao-paulo,2632754a2a6806cd1163934e3cc60236ftgyzzzc.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2026-01-13 20:14:52",
+      "content": "A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo (SES-SP) confirmou no \u00faltimo s\u00e1bado, 10, o segundo caso de mpox do clado 1b no Estado. O paciente \u00e9 um homem de 39 anos, morador de Portugal, que foi aten\u2026 [+2904 chars]",
+      "retrievedAt": "2026-01-15 07:11:16.381542",
+      "internal_id": "0712454bc7cd76efee92ec1775dc89116afc79d985819508a8a100067bb32840",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26799,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Marisa Sardonia",
+      "title": "124 new measles cases reported in South Carolina as outbreak spreads: health officials",
+      "description": "At least 124 new cases of measles have been reported in South Carolina since last Friday, state health officials reported.",
+      "url": "https://wlos.com/news/local/124-new-measles-cases-reported-south-carolina-upstate-spartanburg-outbreak-spreads-department-public-health-infection-mmr-vaccine-contagious-disease-virus",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/2979/1320/0x168/90/abd11d40-527c-4d62-9202-6d319dda55ce-AP25212658927116.jpg",
+      "publishedAt": "2026-01-13 19:55:59",
+      "content": "SPARTANBURG, S.C. (WLOS) At least 124 new cases of measles have been reported in South Carolina since last Friday, state health officials reported. This brings the state's total number of cases in t\u2026 [+2350 chars]",
+      "retrievedAt": "2026-01-15 07:11:14.193019",
+      "internal_id": "be352b09817f2db9c63f0a31c2d97d34bb4589f0046f2e00d88d2dfe2fa9470c",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26804,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "Nova cepa mais perigosa de Mpox \u00e9 identificada pela segunda vez em S\u00e3o Paulo",
+      "description": "At\u00e9 agora, o estado soma 1.930 casos de todas as cepas do v\u00edrus, mas sem registro de \u00f3bitos; sintomas incluem febre, dor de cabe\u00e7a e erup\u00e7\u00e3o cut\u00e2nea",
+      "url": "https://veja.abril.com.br/saude/nova-cepa-mais-perigosa-de-mpox-e-identificada-pela-segunda-vez-em-sao-paulo/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/03/mpox-o-que-e-sintomas-diagnostico-e-tratamentos-eficazes.webp?resize=1080,565&crop=1",
+      "publishedAt": "2026-01-13 19:29:35",
+      "content": "Oferta Rel\u00e2mpago: VEJA por apenas 7,99Mpox: primeira pessoa contaminada pela cepa mais agressiva em S\u00e3o Paulo foi uma mulher de 29 anos, que evoluiu para a cura (Reprodu\u00e7\u00e3o / Internet/Divulga\u00e7\u00e3o) Co\u2026 [+2679 chars]",
+      "retrievedAt": "2026-01-15 07:11:16.392311",
+      "internal_id": "db7b5a705062e7239010dd53f0e8e24453c01eb5c8a0b5ed704993e3d31c269d",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 26798,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Griceconnect.com",
+      "author": "Georgia DPH",
+      "title": "DPH confirms measles case in Coastal Health District of Georgia",
+      "description": "Georgia is reporting its first measles case of 2026, involving a baby who acquired the virus while traveling internationally. The DPH is currently working to identify and notify anyone who may have come into contact with the infected child. The baby was too y\u2026",
+      "url": "https://www.griceconnect.com/health/dph-confirms-measles-case-in-coastal-health-district-of-georgia-11732418",
+      "urlToImage": "https://www.vmcdn.ca/f/files/griceconnect/images/articles/measles.png;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-01-13 19:16:31",
+      "content": "The Georgia Department of Public Health (DPH) has confirmed a measles case in a baby too young to receive routine measles vaccination. The baby, who acquired the virus while traveling internationally\u2026 [+2110 chars]",
+      "retrievedAt": "2026-01-15 07:11:14.167610",
+      "internal_id": "c5afbc675f91fd2c370da1328cc4522a042d4505d8f8502c54123be11106aaa8",
+      "publishedAtLabel": "Jan 13"
+    },
     {
       "id": 26794,
       "query": [
@@ -14608,6 +14824,96 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
+      "publishedAt": "2025-11-30 18:42:16",
+      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.424189",
+      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25983,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "iLounge",
+      "author": "Samantha Wiley",
+      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
+      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
+      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
+      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
+      "publishedAt": "2025-11-30 17:03:28",
+      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.372565",
+      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "G\u00e9n\u00e9ration NT",
+      "author": "Mathieu M.",
+      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
+      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
+      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
+      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
+      "publishedAt": "2025-11-30 09:30:02",
+      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
+      "retrievedAt": "2025-12-01 19:09:02.844474",
+      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25985,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "J\u00e9r\u00f4me Barri\u00e8re",
+      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
+      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
+      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
+      "publishedAt": "2025-11-30 09:30:00",
+      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.792747",
+      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
+      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
+      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
+      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
+      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
+      "publishedAt": "2025-11-30 09:00:45",
+      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
+      "retrievedAt": "2025-12-01 19:09:02.379183",
+      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]

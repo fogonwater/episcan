@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-01-14 19:07
-- **Most recent article:** 2026-01-13 19:06:06
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-01-15 07:11
+- **Most recent article:** 2026-01-14 04:30:05
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 15 | 252 |
-| dengue | 18 | 34 | 26 | 11 | 4 | 1 | 12 | 7 | 113 |
-| malaria | 24 | 17 | 19 | 12 | 5 | 0 | 13 | 3 | 93 |
-| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 2 | 85 |
-| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 4 | 65 |
-| h5n1 | 11 | 10 | 15 | 10 | 2 | 1 | 12 | 4 | 65 |
-| chikungunya | 13 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 45 |
+| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 21 | 258 |
+| dengue | 19 | 34 | 26 | 11 | 4 | 1 | 12 | 8 | 115 |
+| malaria | 26 | 17 | 19 | 12 | 5 | 0 | 13 | 3 | 95 |
+| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 3 | 86 |
+| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 7 | 68 |
+| h5n1 | 12 | 10 | 15 | 10 | 2 | 1 | 12 | 4 | 66 |
+| chikungunya | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 46 |
 | meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 3 | 42 |
 | zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 2 | 24 |
-| yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 1 | 20 |
+| yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 2 | 21 |
 | leptospirosis | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 0 | 16 |
 | hpai | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 1 | 13 |
 | typhoid | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 11 |
@@ -40,15 +40,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (yersinia)
 
+- [Medieval plague victims likely found in mass grave in Germany](http://www.popsci.com/science/medieval-plague-mass-grave-germany/) (Popular Science)
+
 - [Intranasal unadjuvanted LcrV boosts parental Yersinia OMV primed lung immunity against pneumonic plague in mice](https://www.nature.com/articles/s41467-026-68334-2) (Nature.com)
 
 ## 26-3 (rabies)
+
+- [Do healthy raccoons carry rabies?](https://www.lifesciencesworld.com/do-healthy-raccoons-carry-rabies/) (Lifesciencesworld.com)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
 - [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
 
 ## 26-3 (mpox)
+
+- [Segundo caso de nova cepa de ‘mpox’ é confirmado no Estado de São Paulo](https://www.infomoney.com.br/saude/segundo-caso-de-nova-cepa-de-mpox-e-confirmado-no-estado-de-sao-paulo/) (InfoMoney)
+
+- [Segundo caso de nova cepa de mpox é confirmado no Estado de São Paulo](https://www.terra.com.br/vida-e-estilo/saude/segundo-caso-de-nova-cepa-de-mpox-e-confirmado-no-estado-de-sao-paulo,2632754a2a6806cd1163934e3cc60236ftgyzzzc.html) (Terra.com.br)
+
+- [Nova cepa mais perigosa de Mpox é identificada pela segunda vez em São Paulo](https://veja.abril.com.br/saude/nova-cepa-mais-perigosa-de-mpox-e-identificada-pela-segunda-vez-em-sao-paulo/) (Abril.com.br)
 
 - [São Paulo registra segundo caso da nova cepa de Mpox no Brasil](https://saude.ig.com.br/2026-01-13/sao-paulo-registra-segundo-caso-da-nova-cepa-de-mpox.html) (Ig.com.br)
 
@@ -67,6 +77,18 @@ Source: [News API](https://newsapi.org/)
 - [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
+
+- [Federal health officials: Measles cases increase along Utah-Arizona border, S. Carolina](https://www.stgeorgeutah.com/life/federal-health-officials-measles-cases-increase-along-utah-arizona-border-s-carolina/article_3c736f0c-fc9e-4298-add2-f988a87c3e9b.html) (St George News)
+
+- [South Carolina confirms 124 new measles cases as outbreak on the Arizona-Utah line grows](https://abcnews.go.com/Health/wireStory/south-carolina-confirms-124-new-measles-cases-outbreak-129183090) (ABC News)
+
+- [124 new measles cases in South Carolina, Arizona-Utah border outbreak grows](https://apnews.com/article/measles-south-carolina-utah-arizona-845643cd1342f1ce2ea01d11b74ee77b) (Associated Press)
+
+- [Measles Outbreak In South Carolina Still Growing, State Health Department Says](https://www.huffpost.com/entry/south-carolina-measles-outbreak-grows_n_6966a965e4b09c0a939bfa93) (HuffPost)
+
+- [124 new measles cases reported in South Carolina as outbreak spreads: health officials](https://wlos.com/news/local/124-new-measles-cases-reported-south-carolina-upstate-spartanburg-outbreak-spreads-department-public-health-infection-mmr-vaccine-contagious-disease-virus) (WLOS)
+
+- [DPH confirms measles case in Coastal Health District of Georgia](https://www.griceconnect.com/health/dph-confirms-measles-case-in-coastal-health-district-of-georgia-11732418) (Griceconnect.com)
 
 - [Measles exposure confirmed in Columbia; 124 new cases reported in SC since Friday](https://www.wltx.com/article/news/health/124-new-measles-cases-reported-in-sc-since-friday-jan-2-one-infected-person-confirmed-to-have-attended-event-in-columbia-state-museum/101-13c0dc06-1e2f-4592-9269-11b9f3d8dfea) (WLTX.com)
 
@@ -121,6 +143,8 @@ Source: [News API](https://newsapi.org/)
 - [Scientists Create Strain Of Bird Flu That Has 100% Death Rate In Mammals](https://www.activistpost.com/scientists-create-strain-of-bird-flu-that-has-100-death-rate-in-mammals/) (Activistpost.com)
 
 ## 26-3 (dengue)
+
+- [Vacina da dengue do Butantan começa fase de teste em idosos](https://saude.ig.com.br/2026-01-13/vacina-da-dengue-do-butantan-comeca-fase-de-teste-em-idosos.html) (Ig.com.br)
 
 - [Vacina da dengue: Instituto Butantan está recrutando voluntários idosos para testes](https://olhardigital.com.br/2026/01/13/medicina-e-saude/vacina-da-dengue-instituto-butantan-esta-recrutando-voluntarios-idosos-para-testes/) (Olhardigital.com.br)
 
@@ -1830,6 +1854,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Disappearance of Frogs May Be Making Some Humans Sick](https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html) (Newser)
 
+- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
+
+- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
+
 ## 25-49 (leptospirosis)
 
 - [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
@@ -1867,6 +1895,8 @@ Source: [News API](https://newsapi.org/)
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
 - [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
+
+- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 ## 25-49 (dengue)
 
@@ -1906,6 +1936,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Disminuye en 85% los casos de dengue con respecto a 2024](https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739) (Excelsior.com.mx)
 
+- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
+
 ## 25-49 (chikungunya)
 
 - [Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen](https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html) (Telegraaf.nl)
@@ -1933,3 +1965,5 @@ Source: [News API](https://newsapi.org/)
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
+
+- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
