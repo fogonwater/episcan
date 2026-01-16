@@ -1,8 +1,170 @@
 {
-  "last_updated": "2026-01-15 19:11",
-  "count_articles_total": 826,
-  "count_articles_new": 5,
+  "last_updated": "2026-01-16 07:10",
+  "count_articles_total": 840,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 26818,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Glanze Patrick",
+      "title": "Dengue Fever Warning Signs: Early Symptoms That Signal Severe Infection Risk",
+      "description": "Understand dengue fever progression and warning signs of severe infection, from mild fever and aches to plasma leakage, shock, and who needs urgent care.",
+      "url": "https://www.medicaldaily.com/dengue-fever-warning-signs-early-symptoms-that-signal-severe-infection-risk-474453",
+      "urlToImage": "https://d.medicaldaily.com/en/full/481370/black-white-mosquito.jpg",
+      "publishedAt": "2026-01-15 05:19:01",
+      "content": "Dengue fever symptoms begin with high fever, headache, and body aches typical of a mosquito-borne disease, but a subset of cases progresses to a dangerous critical phase after fever subsides. This cr\u2026 [+8206 chars]",
+      "retrievedAt": "2026-01-16 07:10:51.782745",
+      "internal_id": "070764e1878a215b73a922fbcf5a812d69e038dcaf5a643bbcdf14c37f19b8e5",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26814,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "New Year, But The Same Measles Crises Rages On",
+      "description": "Meet the new year, same as the old year, at least as far as America\u2019s measles problem goes. We talked a lot about this disease last year, and for good reason. In RFK Jr.\u2019s first year as Secretary of DHS, America managed to suffer its worst measles infection c\u2026",
+      "url": "https://www.techdirt.com/2026/01/14/new-year-but-the-same-measles-crises-rages-on/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-01-15 03:53:07",
+      "content": "from the absolute-preventable-failures dept Meet the new year, same as the old year, at least as far as America\u2019s measles problem goes. We talked a lot about this disease last year, and for good rea\u2026 [+4796 chars]",
+      "retrievedAt": "2026-01-16 07:10:50.910270",
+      "internal_id": "d2813de9692bfb1bf98f8f0a2ad74c693c3a32fdc6995ba7926eeec5a074cca9",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26812,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "DIPOLOG: ANTI RABIES BAKUNA GILUSAD SA BRGY. CAWA-CAWA DAPITAN CITY",
+      "description": "Nagpadayon ang paningkamot sa City Government of Dapitan sa pagpanalipod sa kahimsog sa katawhan ug kahayupan human gilusad sa City Veterinary Office (CVO) ang Anti-Rabies Mass Vaccination sa Brgy. Cawa-cawa, Dapitan City. Pinangunahan ni City Veterinarian Dr\u2026",
+      "url": "https://rpnradio.com/dipolog-anti-rabies-bakuna-gilusad-sa-brgy-cawa-cawa-dapitan-city/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/1000027097.jpg",
+      "publishedAt": "2026-01-15 03:03:44",
+      "content": "Nagpadayon ang paningkamot sa City Government of Dapitan sa pagpanalipod sa kahimsog sa katawhan ug kahayupan human gilusad sa City Veterinary Office (CVO) ang Anti-Rabies Mass Vaccination sa Brgy. C\u2026 [+833 chars]",
+      "retrievedAt": "2026-01-16 07:10:50.679186",
+      "internal_id": "640ef250103169bba6d02fa4579a8b9df9f189c9ac837acec6f66d4fc7974326",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26816,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Starweekly.com.au",
+      "author": "jimjin",
+      "title": "New measles exposure sites listed",
+      "description": "The Department of Health has listed five measles exposure sites in the northern suburbs since 17 December . The most recent exposures occurred at the Melbourne Airport and on a Jetstar flight. The exposure date for Melbourne Airport in Tullamarine, terminal 2\u2026",
+      "url": "https://northern.starweekly.com.au/news/new-measles-exposure-sites-listed/",
+      "urlToImage": "https://northern.starweekly.com.au/wp-content/uploads/sites/5/2026/01/airportgen_269521_01.jpg",
+      "publishedAt": "2026-01-15 01:20:44",
+      "content": "The Department of Health has listed five measles exposure sites in the northern suburbs since 17 December . The most recent exposures occurred at the Melbourne Airport and on a Jetstar flight. The \u2026 [+1390 chars]",
+      "retrievedAt": "2026-01-16 07:10:51.079543",
+      "internal_id": "ed073151ce298f42d313bf51cb7e94661daad5a05e2b2631a3c74f3de5f3f86a",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26817,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "DIPOLOG: BFP DIPOLOG GIAWHAG ANG MGA GINIKANAN SA PAGPARTISIPAR SA IPAHIGAYON NGA IMMUNIZATION KONTRA MEASLES-RUBELLA",
+      "description": "Mipahimangno ang Dipolog City Fire Station sa tanang ginikanan ug tigbantay nga pahimuslan ang Measles\u2013Rubella Supplemental Immunization Activity alang sa mga batang edad unom hangtod 59 ka bulan. Tumong sa kalihokan ang pagpugong sa pagsaka sa kaso sa measle\u2026",
+      "url": "https://rpnradio.com/dipolog-bfp-dipolog-giawhag-ang-mga-ginikanan-sa-pagpartisipar-sa-ipahigayon-nga-immunization-kontra-measles-rubella/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/RPN-Website-FT-3.jpg",
+      "publishedAt": "2026-01-15 01:11:49",
+      "content": "Mipahimangno ang Dipolog City Fire Station sa tanang ginikanan ug tigbantay nga pahimuslan ang MeaslesRubella Supplemental Immunization Activity alang sa mga batang edad unom hangtod 59 ka bulan. Tum\u2026 [+591 chars]",
+      "retrievedAt": "2026-01-16 07:10:51.097567",
+      "internal_id": "549deb0136f52403a90c62dea39ccd6b54c1d650de8f1d142b5f321841b76c22",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26815,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Kaan Ozcan",
+      "title": "Vaccine exemptions for religious or personal beliefs are rising across the U.S.",
+      "description": "A majority of counties across the U.S. are seeing a steady rise in vaccine exemptions for religious or personal beliefs among children entering kindergarten, a new study shows",
+      "url": "https://www.nbcnews.com/health/health-news/vaccine-exemptions-religious-personal-beliefs-study-rcna254082",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260114-vaccine-ch-1637-dce84e.jpg",
+      "publishedAt": "2026-01-15 00:50:43",
+      "content": "States such as New York, California, Connecticut and Maine that eliminated nonmedical exemptions saw declines since 2021. The U.S. is already experiencing the largest outbreaks of measles and whoop\u2026 [+2342 chars]",
+      "retrievedAt": "2026-01-16 07:10:50.954140",
+      "internal_id": "5fee4a81510af357e93ae0ef16db7a2cb2aadb0a40c612b4b75f4ea3f4340ec2",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26819,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Joseph Donovan, Nguyen Duc Bang, Huu Khanh Trinh Dong, Dang Trung Nghia Ho, Thi Anh Thu Nguyen, Thi Thu Hiep Nguyen, Hong Bao Ngoc Lam, Vo Khac Nguyen Phung, Truc Thanh Nguyen, Ho Hong Hanh Nguyen, Kieu Nguyet Oanh Pham, Dang Anh Thu Do, Thi Mai Trang Nguyen, Thi Minh Ha Dang, Huu Lan Nguyen, Van Vinh Chau Nguyen, Thanh Hai Hoang, Dinh Dinh Tran, Khanh Lam Phung, Lalita Ramakrishnan, Thanh Hoang Nhat Le, Thuy Thuong Thuong Nguyen, Marcel Wolbers, Evelyne Kestelyn, Ronald B. Geskus, Hoan Phu Nguyen, Guy E. Thwaites",
+      "title": "Genotype-stratified adjunctive dexamethasone for tuberculous meningitis in HIV-negative adults: a randomized controlled phase 3 trial",
+      "description": "In this phase 3 trial, human immunodeficiency virus-negative Vietnamese adults with tuberculous meningitis were stratified by LTA4H genotype to assess whether this influences corticosteroid response. However, outcomes were not significantly better according t\u2026",
+      "url": "https://www.nature.com/articles/s41591-025-04138-z",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-025-04138-z/MediaObjects/41591_2025_4138_Fig1_HTML.png",
+      "publishedAt": "2026-01-15 00:00:00",
+      "content": "The trial methodology, conduct and analysis are described in the published protocol27 and statistical analysis plan28. The trial was designed and delivered by the investigators, supported by the Oxfo\u2026 [+27440 chars]",
+      "retrievedAt": "2026-01-16 07:10:51.966863",
+      "internal_id": "bdfd184c44145e375c03a6ee2c30daa4e0a84f208cf0458aa6cd0a04027ca270",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26820,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": null,
+      "title": "Making progress on global health will need high-quality evidence",
+      "description": "Nature Health, the newest journal in the Nature Portfolio, aims to bridge the \u2018implementation gap\u2019 from research to policy and practice.",
+      "url": "https://www.nature.com/articles/d41586-026-00073-2",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00073-2/d41586-026-00073-2_51939180.jpg",
+      "publishedAt": "2026-01-15 00:00:00",
+      "content": "Malaria cases are on the rise.Credit: Yasuyoshi Chiba/AFP/Getty In 2015, the international community made a historic pledge to end epidemics of AIDS, tuberculosis, malaria and other communicable di\u2026 [+5268 chars]",
+      "retrievedAt": "2026-01-16 07:10:52.118371",
+      "internal_id": "75cffb68b69bf905d693664a78243afbc724bbb4bad31d272a8f82fc1b506c4f",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26813,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "At least 171 measles cases confirmed in 9 states, CDC data shows",
+      "description": "At least 171 measles cases have been confirmed in the U.S. so far this year, according to newly updated data from the CDC.",
+      "url": "https://abcnews.go.com/Health/171-measles-cases-confirmed-9-states-cdc/story?id=129198221",
+      "urlToImage": "https://i.abcnewsfe.com/a/78a1f61c-5d65-4349-bc92-e02b28d1e622/measles-1-gty-gmh-260114_1768401274404_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-14 23:16:47",
+      "content": "At least 171 measles cases have been confirmed in the U.S. so far this year, according to newly updated data from the Centers for Disease Control and Prevention (CDC). Cases have been confirmed in n\u2026 [+171 chars]",
+      "retrievedAt": "2026-01-16 07:10:50.900402",
+      "internal_id": "220b30138b2e61e4cc17d11872402a23a4fa022a4e3a84b4a7511f2eb1a29608",
+      "publishedAtLabel": "Jan 14"
+    },
     {
       "id": 26810,
       "query": [
@@ -14914,6 +15076,96 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
+      "publishedAt": "2025-11-30 18:42:16",
+      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.424189",
+      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25983,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "iLounge",
+      "author": "Samantha Wiley",
+      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
+      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
+      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
+      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
+      "publishedAt": "2025-11-30 17:03:28",
+      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.372565",
+      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "G\u00e9n\u00e9ration NT",
+      "author": "Mathieu M.",
+      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
+      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
+      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
+      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
+      "publishedAt": "2025-11-30 09:30:02",
+      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
+      "retrievedAt": "2025-12-01 19:09:02.844474",
+      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25985,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "J\u00e9r\u00f4me Barri\u00e8re",
+      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
+      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
+      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
+      "publishedAt": "2025-11-30 09:30:00",
+      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.792747",
+      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
+      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
+      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
+      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
+      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
+      "publishedAt": "2025-11-30 09:00:45",
+      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
+      "retrievedAt": "2025-12-01 19:09:02.379183",
+      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]

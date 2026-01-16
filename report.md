@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-01-15 19:11
-- **Most recent article:** 2026-01-14 18:42:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-01-16 07:10
+- **Most recent article:** 2026-01-15 05:19:01
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 22 | 259 |
-| dengue | 18 | 34 | 26 | 11 | 4 | 1 | 12 | 8 | 114 |
-| malaria | 24 | 17 | 19 | 12 | 5 | 0 | 13 | 3 | 93 |
-| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 3 | 86 |
+| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 27 | 264 |
+| dengue | 19 | 34 | 26 | 11 | 4 | 1 | 12 | 9 | 116 |
+| malaria | 26 | 17 | 19 | 12 | 5 | 0 | 13 | 4 | 96 |
+| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 4 | 87 |
 | mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 8 | 69 |
-| h5n1 | 11 | 10 | 15 | 10 | 2 | 1 | 12 | 5 | 66 |
-| chikungunya | 13 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 45 |
-| meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 3 | 42 |
+| h5n1 | 12 | 10 | 15 | 10 | 2 | 1 | 12 | 5 | 67 |
+| chikungunya | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 46 |
+| meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 4 | 43 |
 | zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 2 | 24 |
 | yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 3 | 22 |
 | leptospirosis | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 0 | 16 |
@@ -48,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (rabies)
 
+- [DIPOLOG: ANTI RABIES BAKUNA GILUSAD SA BRGY. CAWA-CAWA DAPITAN CITY](https://rpnradio.com/dipolog-anti-rabies-bakuna-gilusad-sa-brgy-cawa-cawa-dapitan-city/) (Rpnradio.com)
+
 - [Do healthy raccoons carry rabies?](https://www.lifesciencesworld.com/do-healthy-raccoons-carry-rabies/) (Lifesciencesworld.com)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
@@ -74,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (meningitis)
 
+- [Genotype-stratified adjunctive dexamethasone for tuberculous meningitis in HIV-negative adults: a randomized controlled phase 3 trial](https://www.nature.com/articles/s41591-025-04138-z) (Nature.com)
+
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
@@ -81,6 +85,16 @@ Source: [News API](https://newsapi.org/)
 - [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
+
+- [New Year, But The Same Measles Crises Rages On](https://www.techdirt.com/2026/01/14/new-year-but-the-same-measles-crises-rages-on/) (Techdirt)
+
+- [New measles exposure sites listed](https://northern.starweekly.com.au/news/new-measles-exposure-sites-listed/) (Starweekly.com.au)
+
+- [DIPOLOG: BFP DIPOLOG GIAWHAG ANG MGA GINIKANAN SA PAGPARTISIPAR SA IPAHIGAYON NGA IMMUNIZATION KONTRA MEASLES-RUBELLA](https://rpnradio.com/dipolog-bfp-dipolog-giawhag-ang-mga-ginikanan-sa-pagpartisipar-sa-ipahigayon-nga-immunization-kontra-measles-rubella/) (Rpnradio.com)
+
+- [Vaccine exemptions for religious or personal beliefs are rising across the U.S.](https://www.nbcnews.com/health/health-news/vaccine-exemptions-religious-personal-beliefs-study-rcna254082) (NBC News)
+
+- [At least 171 measles cases confirmed in 9 states, CDC data shows](https://abcnews.go.com/Health/171-measles-cases-confirmed-9-states-cdc/story?id=129198221) (ABC News)
 
 - [Measles Outbreak Spreads in South Carolina With 400+ Cases](https://www.today.com/video/measles-outbreak-spreads-in-south-carolina-with-400-cases-255935045704) (TODAY)
 
@@ -128,6 +142,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (malaria)
 
+- [Making progress on global health will need high-quality evidence](https://www.nature.com/articles/d41586-026-00073-2) (Nature.com)
+
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
@@ -153,6 +169,8 @@ Source: [News API](https://newsapi.org/)
 - [Scientists Create Strain Of Bird Flu That Has 100% Death Rate In Mammals](https://www.activistpost.com/scientists-create-strain-of-bird-flu-that-has-100-death-rate-in-mammals/) (Activistpost.com)
 
 ## 26-3 (dengue)
+
+- [Dengue Fever Warning Signs: Early Symptoms That Signal Severe Infection Risk](https://www.medicaldaily.com/dengue-fever-warning-signs-early-symptoms-that-signal-severe-infection-risk-474453) (Medical Daily)
 
 - [Vacina da dengue do Butantan começa fase de teste em idosos](https://saude.ig.com.br/2026-01-13/vacina-da-dengue-do-butantan-comeca-fase-de-teste-em-idosos.html) (Ig.com.br)
 
@@ -1864,6 +1882,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Disappearance of Frogs May Be Making Some Humans Sick](https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html) (Newser)
 
+- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
+
+- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
+
 ## 25-49 (leptospirosis)
 
 - [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
@@ -1901,6 +1923,8 @@ Source: [News API](https://newsapi.org/)
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
 - [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
+
+- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 ## 25-49 (dengue)
 
@@ -1940,6 +1964,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Disminuye en 85% los casos de dengue con respecto a 2024](https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739) (Excelsior.com.mx)
 
+- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
+
 ## 25-49 (chikungunya)
 
 - [Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen](https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html) (Telegraaf.nl)
@@ -1967,3 +1993,5 @@ Source: [News API](https://newsapi.org/)
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
+
+- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
