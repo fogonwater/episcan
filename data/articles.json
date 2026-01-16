@@ -1,8 +1,243 @@
 {
-  "last_updated": "2026-01-16 07:10",
-  "count_articles_total": 840,
-  "count_articles_new": 9,
+  "last_updated": "2026-01-16 19:08",
+  "count_articles_total": 848,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 26825,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Retrospective Analysis of Wild-Type Measles Virus in Wastewater During a Measles Outbreak - Oregon, March 24-September 22, 2024",
+      "description": "This report describes a measles outbreak in Oregon in 2024.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/mm7502a1_MeaslesOutbreakOregon_IMAGE_15January2026_1200x675.png?_=05792",
+      "publishedAt": "2026-01-15 18:00:00",
+      "content": "Summary What is already known about this topic? Wastewater surveillance can be used to monitor emerging pathogens, including wild-type measles virus. What is added by this report? During a June 1\u2026 [+10726 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.633734",
+      "internal_id": "82a9158467148d00d29f4faf3e8ac35e21648165c184da44bc3a9b7bcead0f79",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26833,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Homeless encampment at center of health alert over rat-borne disease",
+      "description": "Berkeley declares health emergency as leptospirosis outbreak forces homeless encampment evacuations. Multiple rats and dogs infected with disease.",
+      "url": "https://www.foxnews.com/health/homeless-encampment-center-health-alert-over-rat-borne-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/man-cleaning-up-homeless-camp.jpg",
+      "publishedAt": "2026-01-15 17:59:27",
+      "content": "Health officials are warning of a dangerous bacterial infection that has been detected at a homeless encampment in Berkeley, California. Leptospirosis, which is caused by Leptospira bacteria, is a z\u2026 [+3030 chars]",
+      "retrievedAt": "2026-01-16 19:08:28.131241",
+      "internal_id": "2f61f1cfcc693f759c5339a4fe660c046f764f4b22424c98b803fa3b539b3290",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26822,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Imported Human Rabies \u2014 Kentucky and Ohio, 2024",
+      "description": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/mm7502a3_HumanRabiesDeaths_IMAGE_15January2026_1200x675.png?_=06565",
+      "publishedAt": "2026-01-15 17:00:00",
+      "content": "Epidemiologic Investigation After confirming rabies infection, KDPH, ODH, the Northern Kentucky Health Department, the Cincinnati Health Department, and CDC coordinated response activities. These ac\u2026 [+5212 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.117040",
+      "internal_id": "9a331a7c3fa8e388b3b399e752af2c605e85ee1adbb61945f79245f2b7829d25",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26823,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Human Rabies Deaths \u2014 Minnesota and California, 2024",
+      "description": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/weekly_generic_logo_1200x675.jpg?_=17133",
+      "publishedAt": "2026-01-15 17:00:00",
+      "content": "Minnesota Case, July\u2013September 2024 Bat encounter. In July 2024, a Minnesota woman who lived alone reported to family members that a bat or bird had been trapped in her house for several days. After\u2026 [+4209 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.126485",
+      "internal_id": "ec03c7e948f846cb933e57f982ff688adf9a5ab7a4e4d83cdd7941841b92d7e7",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26826,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Wastewater Surveillance for Measles Virus During a Measles Outbreak \u2014 Colorado, August 2025",
+      "description": "This report describes a measles outbreak in Colorado in August 2025.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/mm7502a2_MeaslesOutbreakColorado_IMAGE_15January2026_1200x675.png?_=05801",
+      "publishedAt": "2026-01-15 17:00:00",
+      "content": "Colorado Wastewater Surveillance Program The Colorado wastewater surveillance program was established in 2020 in response to the COVID-19 pandemic. The wastewater surveillance program monitors waste\u2026 [+4608 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.694548",
+      "internal_id": "f1a58863a89be45697f2d0ef9c0e5af3a5973394e14c8241c3d9ab5bbcb523e0",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26827,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Marisa Sardonia",
+      "title": "2 new pediatric measles cases reported in Buncombe County siblings: health officials",
+      "description": "Two new cases of measles have been confirmed in preschool and school-aged siblings in Buncombe County, according to local officials.",
+      "url": "https://wlos.com/news/local/2-new-measles-cases-confirmed-buncombe-county-siblings-health-north-carolina-human-services-vaccine-unvaccinated-upstate-outbreak-pediatric",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/949/1320/23x27/90/677e9ce5-14ba-4dbf-815d-c18837465966-BRYANT9168Large.jpg",
+      "publishedAt": "2026-01-15 16:56:13",
+      "content": "BUNCOMBE COUNTY, N.C. (WLOS) Two new cases of measles have been confirmed in unvaccinated siblings in Buncombe County, according to local officials. The two affected individuals are preschool- and \u2026 [+2430 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.712899",
+      "internal_id": "2d547c6eb4cbde35e491c7e9ed774b902f9fd837bb97e9975b4e49b10d1a0e1c",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26828,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "New map shows how to spot the measles risk level in your ZIP code",
+      "description": "Measles hot spots were found in areas like West Texas and southern New Mexico.",
+      "url": "https://abcnews.go.com/Health/new-map-shows-spot-measles-risk-level-zip/story?id=129179712",
+      "urlToImage": "https://i.abcnewsfe.com/a/fa910de3-d207-4679-baa7-88b6085c97f2/measles-map-ht--jt-260114_1768410611558_hpMain_2_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-15 16:12:07",
+      "content": "Type in your ZIP code below or search your county to see vaccination levels and the risk in your area. Move your cursor over your neighborhood for results. As measles has spread throughout the Unit\u2026 [+6811 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.763251",
+      "internal_id": "18a12135b208b9ae0ae696736d221b87ebe4ec6982154b343440843b3d6292ae",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26831,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Dengue: Caldas Novas decreta calamidade com 87 casos suspeitos em 2026",
+      "description": "Decreto de calamidade p\u00fablica foi baixado pelo prefeito Kleber Marra devido \u00e0 superlota\u00e7\u00e3o do Hospital Nossa Senhora Aparecida",
+      "url": "https://www.metropoles.com/brasil/dengue-caldas-novas-decreta-calamidade-com-87-casos-suspeitos-em-2026",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/6a2766bb-aedes-aegypti.-zika-dengue-chikungunya.jpg",
+      "publishedAt": "2026-01-15 15:33:43",
+      "content": "Goi\u00e2nia \u2013 Em raz\u00e3o de um aumento significativo nos casos de dengue na cidade de Caldas Novas, no sul goiano, um dos destinos tur\u00edsticos mais procurados do estado, o prefeito do munic\u00edpio, Kleber Marr\u2026 [+1539 chars]",
+      "retrievedAt": "2026-01-16 19:08:21.746849",
+      "internal_id": "d8bd9b45a6ce9ff02ff0d518d7191f2014fa3e8de82f4aeabea417c5b83dc649",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26824,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Measles cases climb in the U.S. after 2025 was worst year in decades",
+      "description": "Measles cases are continuing to climb in the U.S. with the CDC reporting 171 new cases so far this year across nine states. Last year was the worst year for measles in the U.S. since 1991. CBS News medical contributor Dr. Celine Gounder has more on what to kn\u2026",
+      "url": "https://www.cbsnews.com/video/measles-cases-climb-in-the-us-after-2025-was-worst-year-in-decades/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/15/b41eb1c1-b7ff-4f10-b3d3-d37b3fa9e17b/thumbnail/1200x630/a358da9f20abd371ad6d511cf76b57cc/cbsn-fusion-measles-cases-climb-in-the-us-after-2025-was-worst-year-in-decades-thumbnail.jpg",
+      "publishedAt": "2026-01-15 14:57:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-01-16 19:08:20.615573",
+      "internal_id": "19ae53a77b35c4de97b6c04eb2d1b89642514d00e10d22e19375aff815e1e62a",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26832,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "La p\u00e9rdida de biodiversidad impulsa la sed de los mosquitos por la sangre humana",
+      "description": "Investigadores advierten de que este cambio incrementa el riesgo de transmisi\u00f3n de virus como el dengue, el zika o la fiebre amarilla. A medida que la presencia humana expulsa a los animales de sus h\u00e1bitats, los mosquitos que antes se alimentaban de una gran \u2026",
+      "url": "https://www.dw.com/es/la-p%C3%A9rdida-de-biodiversidad-impulsa-la-sed-de-los-mosquitos-por-la-sangre-humana/a-75523940",
+      "urlToImage": "https://static.dw.com/image/73516176_6.jpg",
+      "publishedAt": "2026-01-15 14:46:00",
+      "content": "A medida que la presencia humana expulsa a los animales de sus h\u00e1bitats, los mosquitos que antes se alimentaban de una gran variedad de hu\u00e9spedes podr\u00edan estar encontrando nuevos objetivos humanos pa\u2026 [+3861 chars]",
+      "retrievedAt": "2026-01-16 19:08:21.756552",
+      "internal_id": "de8c87d16ba8ab4a05e4e1ba346acac10a475c092035ef6ccfaf82d3e93f3e0a",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26829,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Greaterbelize.com",
+      "author": "Zenaida Lanza",
+      "title": "Health Alert Issued as Measles Outbreak Hits Guatemala",
+      "description": "The Ministry of Health and Wellness (MOHW) has issued a public alert following confirmed measles outbreaks across the Americas, including a recent cluster in neighboring Guatemala.",
+      "url": "https://www.greaterbelize.com/health-alert-issued-as-measles-outbreak-hits-guatemala/",
+      "urlToImage": "https://www.greaterbelize.com/wp-content/uploads/2026/01/2-Grid-View-2026-01-15T083053.749.jpg",
+      "publishedAt": "2026-01-15 14:41:51",
+      "content": "The Ministry of Health and Wellness (MOHW) has issued a public alert following confirmed measles outbreaks across the Americas, including a recent cluster in neighboring Guatemala. According to the \u2026 [+942 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.813875",
+      "internal_id": "33a10cb16447b4f263f30e8ed4564fc71327a66c6c0b1baa5ebc4a773b6da62d",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26821,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Iasexamportal.com",
+      "author": "trainee5",
+      "title": "(GIST OF SCIENCE REPORTER) Rabies",
+      "description": "(GIST OF SCIENCE REPORTER) Rabies",
+      "url": "https://iasexamportal.com/the-gist/science-reporter-rabies",
+      "urlToImage": null,
+      "publishedAt": "2026-01-15 14:38:34",
+      "content": "According to a paper published in One Health, of the 59,000 rabies-mediated human deaths in the world every year, India represents a third, around 20,000, and more than any other country.Rabies i\u2026 [+1230 chars]",
+      "retrievedAt": "2026-01-16 19:08:20.105618",
+      "internal_id": "723291e3a641587077c7a6ad0954eb0675ab33c4a5165ba5e04163480dd73719",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26830,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Selangor records 61% fewer dengue cases in 2025",
+      "description": "SHAH ALAM: Selangor recorded a 61% decrease or 36,799 fewer dengue cases throughout last year compared to 2024. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/01/15/selangor-records-61-fewer-dengue-cases-in-2025",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/15/3722040.jpg",
+      "publishedAt": "2026-01-15 11:48:00",
+      "content": "SHAH ALAM: Selangor recorded a 61% decrease or 36,799 fewer dengue cases throughout last year compared to 2024. State public health and environment exco Jamaliah Jamaluddin said the large drop was d\u2026 [+2311 chars]",
+      "retrievedAt": "2026-01-16 19:08:21.702803",
+      "internal_id": "c31b82abcf977b3432bfc35c232572bcbe81b793dac1c2dcf978415eb8434744",
+      "publishedAtLabel": "Jan 15"
+    },
     {
       "id": 26818,
       "query": [
@@ -15076,96 +15311,6 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25984,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
-      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
-      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
-      "publishedAt": "2025-11-30 18:42:16",
-      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.424189",
-      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25983,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "iLounge",
-      "author": "Samantha Wiley",
-      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
-      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
-      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
-      "publishedAt": "2025-11-30 17:03:28",
-      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.372565",
-      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25982,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "G\u00e9n\u00e9ration NT",
-      "author": "Mathieu M.",
-      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
-      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
-      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
-      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
-      "publishedAt": "2025-11-30 09:30:02",
-      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
-      "retrievedAt": "2025-12-01 19:09:02.844474",
-      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25985,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Atlantico.fr",
-      "author": "J\u00e9r\u00f4me Barri\u00e8re",
-      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
-      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
-      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
-      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
-      "publishedAt": "2025-11-30 09:30:00",
-      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
-      "retrievedAt": "2025-12-01 19:09:03.792747",
-      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 25981,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
-      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
-      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
-      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
-      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
-      "publishedAt": "2025-11-30 09:00:45",
-      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
-      "retrievedAt": "2025-12-01 19:09:02.379183",
-      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]
