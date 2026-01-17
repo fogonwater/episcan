@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-01-17 07:07
-- **Most recent article:** 2026-01-16 05:40:31
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-01-17 19:05
+- **Most recent article:** 2026-01-16 18:58:41
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 42 | 279 |
-| dengue | 19 | 34 | 26 | 11 | 4 | 1 | 12 | 12 | 119 |
-| malaria | 26 | 17 | 19 | 12 | 5 | 0 | 13 | 5 | 97 |
-| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 8 | 91 |
+| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 45 | 282 |
+| dengue | 18 | 34 | 26 | 11 | 4 | 1 | 12 | 16 | 122 |
+| malaria | 24 | 17 | 19 | 12 | 5 | 0 | 13 | 5 | 95 |
+| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 9 | 92 |
 | mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 70 |
-| h5n1 | 12 | 10 | 15 | 10 | 2 | 1 | 12 | 7 | 69 |
-| chikungunya | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 46 |
-| meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 4 | 43 |
-| zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 4 | 26 |
-| yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 3 | 22 |
+| h5n1 | 11 | 10 | 15 | 10 | 2 | 1 | 12 | 8 | 69 |
+| chikungunya | 13 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 45 |
+| meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 5 | 44 |
+| zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 28 |
+| yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 4 | 23 |
 | leptospirosis | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 17 |
-| hpai | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 2 | 14 |
+| hpai | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 15 |
 | typhoid | 1 | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 11 |
 | pertussis | 5 | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 10 |
 
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-3 (zika)
+
+- [Síndrome do zika em crianças aumenta risco de internação por epilepsia](https://www.metropoles.com/saude/criancas-sindrome-zika-e-epilepsia) (Metropoles.com)
+
+- [Pérdida de biodiversidad empuja a mosquitos a picar más a humanos](https://www.nacion.com/ciencia/perdida-de-biodiversidad-empuja-a-mosquitos-a/2DINI7F4NRFFNLZDQPHQ5GQHWY/story/) (Nacion.com)
 
 - [Optimal murine CD4+ T cell priming by mRNA-lipid nanoparticle vaccines requires endogenous antigen processing](https://www.nature.com/articles/s41467-025-68080-x) (Nature.com)
 
@@ -44,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (yersinia)
 
+- [Popular Mechanics: в Германии нашли массовое захоронение времен эпидемии чумы XIV века](https://overclockers.ru/blog/Scorpion81/show/247810/Popular-Mechanics-V-Germanii-nashli-yamu-s-ostankami-zhertv-epidemii-chumy-1350-goda) (Overclockers.ru)
+
 - [Археологи нашли в Германии останки жертв средневековой чумы](https://iz.ru/2024556/arkheologi-nashli-v-germanii-ostanki-zhertv-srednevekovoi-chumy-izi) (Iz.ru)
 
 - [Medieval plague victims likely found in mass grave in Germany](http://www.popsci.com/science/medieval-plague-mass-grave-germany/) (Popular Science)
@@ -51,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 - [Intranasal unadjuvanted LcrV boosts parental Yersinia OMV primed lung immunity against pneumonic plague in mice](https://www.nature.com/articles/s41467-026-68334-2) (Nature.com)
 
 ## 26-3 (rabies)
+
+- [BMC targets anti-rabies vaccine drive for 43k strays](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-targets-anti-rabies-vaccine-drive-for-43k-strays/articleshow/126586798.cms) (The Times of India)
 
 - [Experts warn: Mass removal of stray dogs could backfire on public health](https://timesofindia.indiatimes.com/india/experts-warn-mass-removal-of-stray-dogs-could-backfire-on-public-health/articleshow/126556050.cms) (The Times of India)
 
@@ -90,6 +98,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (meningitis)
 
+- [EXCLUSIVE: Deadly Virus Crushing America! Radar Reveals the Looming Epidemic Set to Be Worse than Bird Flu, COVID and Meningitis](https://radaronline.com/p/america-deadly-virus-epidemic-bird-flu-covid-meningitis/) (Radaronline.com)
+
 - [Genotype-stratified adjunctive dexamethasone for tuberculous meningitis in HIV-negative adults: a randomized controlled phase 3 trial](https://www.nature.com/articles/s41591-025-04138-z) (Nature.com)
 
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
@@ -99,6 +109,12 @@ Source: [News API](https://newsapi.org/)
 - [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
+
+- [Health officials sound alarm as South Carolina measles cases top 500](https://wach.com/news/local/health-officials-sound-alarm-as-south-carolina-measles-cases-top-500-south-carolina-department-of-public-health-vaccine-mmr-covid-influenza-flu-walmart) (WACH.com)
+
+- [Measles vaccine acceptance is mixed amid outbreaks across the US: Experts](https://abcnews.go.com/Health/measles-vaccine-acceptance-mixed-amid-outbreaks-us-experts/story?id=129237381) (ABC News)
+
+- [Kentucky Department for Public Health announces first measles case of 2026](https://www.wpsdlocal6.com/health/kentucky-department-for-public-health-announces-first-measles-case-of-2026/article_6f2500be-a538-411f-8a09-844a99c98813.html) (WPSD Local 6)
 
 - [Temporary mask requirement at Pardee Health amid rise in measles and respiratory illnesses](https://wlos.com/news/local/hendersonville-unc-health-pardee-temporary-masking-teammates-patients-visitors-emergency-department-urgent-care-measles-respiratory-illness-community-monitor-visiting-policies) (WLOS)
 
@@ -202,11 +218,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (hpai)
 
+- [Structural analysis of antigenic variation and adaptive evolution of the H5N1 neuraminidase gene](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903) (Plos.org)
+
 - [Stadt hebt Stallpflicht für Geflügel auf – Verbot von Taubenausstellungen endet](https://hallespektrum.de/aktuelles/stadt-hebt-stallpflicht-fuer-gefluegel-auf-verbot-von-taubenausstellungen-endet/474848/) (Hallespektrum.de)
 
 - [Helport AI Launches New AI Software Platform “HyprX”](https://www.globenewswire.com/news-release/2026/01/13/3217823/0/en/Helport-AI-Launches-New-AI-Software-Platform-HyprX.html) (GlobeNewswire)
 
 ## 26-3 (h5n1)
+
+- [Structural analysis of antigenic variation and adaptive evolution of the H5N1 neuraminidase gene](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903) (Plos.org)
 
 - [消毒薬CHX(クロロヘキシジン)を有効成分とした表面浮き出しコーティング技術の特許出願](https://prtimes.jp/main/html/rd/p/000000004.000111959.html) (Prtimes.jp)
 
@@ -223,6 +243,14 @@ Source: [News API](https://newsapi.org/)
 - [Scientists Create Strain Of Bird Flu That Has 100% Death Rate In Mammals](https://www.activistpost.com/scientists-create-strain-of-bird-flu-that-has-100-death-rate-in-mammals/) (Activistpost.com)
 
 ## 26-3 (dengue)
+
+- [Primeira morte por dengue em SP reacende alerta no país; Brasil já soma 11 mil casos prováveis da doença](https://veja.abril.com.br/saude/sp-confirma-primeira-morte-por-dengue-em-2026-pais-ja-soma-11-mil-casos-provaveis-da-doenca/) (Abril.com.br)
+
+- [Pérdida de biodiversidad empuja a mosquitos a picar más a humanos](https://www.nacion.com/ciencia/perdida-de-biodiversidad-empuja-a-mosquitos-a/2DINI7F4NRFFNLZDQPHQ5GQHWY/story/) (Nacion.com)
+
+- [Mosquitos podem estar trocando o sangue animal pelo humano em áreas desmatadas, mostra estudo brasileiro](https://super.abril.com.br/ciencia/mosquitos-podem-estar-trocando-o-sangue-animal-pelo-humano-em-areas-desmatadas-mostra-estudo-brasileiro/) (Abril.com.br)
+
+- [Curta](https://valor.globo.com/brasil/noticia/2026/01/16/595bcd84-curta.ghtml) (Globo)
 
 - [Dengue: Caldas Novas decreta calamidade com 87 casos suspeitos em 2026](https://www.metropoles.com/brasil/dengue-caldas-novas-decreta-calamidade-com-87-casos-suspeitos-em-2026) (Metropoles.com)
 
@@ -1942,10 +1970,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Disappearance of Frogs May Be Making Some Humans Sick](https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html) (Newser)
 
-- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
-
-- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
-
 ## 25-49 (leptospirosis)
 
 - [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
@@ -1983,8 +2007,6 @@ Source: [News API](https://newsapi.org/)
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
 - [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
-
-- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 ## 25-49 (dengue)
 
@@ -2024,8 +2046,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Disminuye en 85% los casos de dengue con respecto a 2024](https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739) (Excelsior.com.mx)
 
-- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
-
 ## 25-49 (chikungunya)
 
 - [Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen](https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html) (Telegraaf.nl)
@@ -2053,5 +2073,3 @@ Source: [News API](https://newsapi.org/)
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
-
-- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
