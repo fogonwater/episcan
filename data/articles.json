@@ -1,8 +1,278 @@
 {
-  "last_updated": "2026-01-16 19:08",
-  "count_articles_total": 848,
-  "count_articles_new": 13,
+  "last_updated": "2026-01-17 07:07",
+  "count_articles_total": 868,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 26845,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u6d88\u6bd2\u85acCHX(\u30af\u30ed\u30ed\u30d8\u30ad\u30b7\u30b8\u30f3)\u3092\u6709\u52b9\u6210\u5206\u3068\u3057\u305f\u8868\u9762\u6d6e\u304d\u51fa\u3057\u30b3\u30fc\u30c6\u30a3\u30f3\u30b0\u6280\u8853\u306e\u7279\u8a31\u51fa\u9858",
+      "description": "[\u682a\u5f0f\u4f1a\u793e\u7dd1\u30de\u30fc\u30af] \u682a\u5f0f\u4f1a\u793e\u7dd1\u30de\u30fc\u30af(\u672c\u793e\uff1a\u57fc\u7389\u770c\u5ddd\u53e3\u5e02\u3001\u4ee3\u8868\u53d6\u7de0\u5f79\u4f1a\u9577\uff1a\u7dd1\u5ddd\u6052\u592b\u3001\u4ee5\u4e0b\uff1a\u300c\u7dd1\u30de\u30fc\u30af\u300d)\u306f\u3001\u682a\u5f0f \u4f1a\u793e(\u672c\u793e\uff1a\u6749\u4e26\u533a\u3001\u4ee3\u8868\u53d6\u7de0\u5f79\u793e\u9577\uff1a\u6c34\u6d25\u6d69\u4e4b\u3001\u4ee5\u4e0b\uff1a\u300c\u74b0\u5883\u30bb\u30e9\u30b9\u30c6\u30af\u30ce\u300d)\u3068\u5354\u696d\u3057\u3066\u3001\u300e\u30af\u30ed\u30ed\u30d8 \u30ad\u30b7\u30b8\u30f3\uff08...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000111959.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/111959/4/111959-4-d0eb972484414d175b9d751511e9c7fb-151x151.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-01-16 05:40:31",
+      "content": "() () () () PET CHX 2021CHX 2050 1,000 2025 () CHX CHX AMR CHX H5N1 CHXCHX Advanced MOD\u00ae AMR CHX ISO21702 A/crow/Hokkaido/0103B065/2022H5N1 R 3.7(24) 1010 R 3.7R .0R 2.099",
+      "retrievedAt": "2026-01-17 07:07:54.288773",
+      "internal_id": "8152b3728ddc1af222dae8bc3eddf9293841b18c8f016823f6817cdac048ed89",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26843,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Deanna Sipe",
+      "title": "Temporary mask requirement at Pardee Health amid rise in measles and respiratory illnesses",
+      "description": "UNC Health Pardee is temporarily requiring masking for all teammates, patients, and visitors in its Emergency Department and all Pardee Urgent Care locations.",
+      "url": "https://wlos.com/news/local/hendersonville-unc-health-pardee-temporary-masking-teammates-patients-visitors-emergency-department-urgent-care-measles-respiratory-illness-community-monitor-visiting-policies",
+      "urlToImage": "https://wlos.com/resources/media/2920e657-945e-4846-a8de-38d711bb2e34-jumbo16x9_pardeeuhc5pkg.mxfframe4223.png",
+      "publishedAt": "2026-01-16 04:07:48",
+      "content": "HENDERSONVILLE, N.C. (WLOS) UNC Health Pardee is temporarily requiring masking for all teammates, patients, and visitors in its Emergency Department and all Pardee Urgent Care locations starting Frid\u2026 [+871 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.788355",
+      "internal_id": "55ea536c49fb8f8419d91beee448021d9f6e888220fc5416e7f5624a83eb7632",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26834,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Nandita Sengupta",
+      "title": "Experts warn: Mass removal of stray dogs could backfire on public health",
+      "description": "Global public health, veterinary and legal experts caution mass sheltering India\u2019s free-living dogs would undermine rabies control, disrupt urban ecosystems, breach the law and raise costs without making cities safer.",
+      "url": "https://timesofindia.indiatimes.com/india/experts-warn-mass-removal-of-stray-dogs-could-backfire-on-public-health/articleshow/126556050.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126556091,width-1070,height-580,imgsize-1095608,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-16 02:51:15",
+      "content": "News Experts warn: Mass removal of stray dogs could backfire on public health Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reser\u2026 [+49 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.271858",
+      "internal_id": "a5990eaf1280faed24cd81eb556b78108e4d0da3687988fa611ec83562f720e6",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26840,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": "Michael Perchick",
+      "title": "NC measle cases increase, health leaders roll out live dashboard to track outbreak in North Carolina",
+      "description": "State health leaders say the new cases are in unvaccinated siblings and connected to an ongoing outbreak in South Carolina.",
+      "url": "https://abc11.com/post/nc-measle-cases-increase-health-leaders-roll-live-dashboard-track-outbreak-north-carolina/18411880/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18238838_ClinicExamRoom.jpg?w=1600",
+      "publishedAt": "2026-01-16 02:42:03",
+      "content": "NORTH CAROLINA (WTVD) -- The North Carolina Department of Health and Human Services (NCDHH) announced two new measles cases in the state, bringing the statewide total to seven since late December. I\u2026 [+2157 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.698352",
+      "internal_id": "070d3c148422d577bc57ad69c7768e95097908bb5bd2250669ae10a198ee1401",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26841,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": "Ana Torrea",
+      "title": "A new way to see measles vaccination rates in Central California",
+      "description": "ABC30 and ABC News are taking action to keep people protected and informed, launching a tool that allows you to see your measles risk simply by entering your zip code.",
+      "url": "https://abc30.com/post/new-see-measles-vaccination-rates-central-california/18409454/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18411560_011526-kfsn-measles-vax-local.jpg?w=1600",
+      "publishedAt": "2026-01-16 01:44:11",
+      "content": "FRESNO, Calif. (KFSN) -- The U.S. is seeing the highest number of measles cases in decades. \"It's more contagious than the flu,\" said Dr. Jessica McFarland, an infectious disease doctor at UCSF Fres\u2026 [+2557 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.759678",
+      "internal_id": "6a289e02213427a9dad5dd6a7c40d4d7d83197bcc586aaaecfa0213d536407f2",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26844,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Vidhi Dholakia, Jessica L. Quantrill, Samuel A. S. Richardson, Nunticha Pankaew, Maryn D. Brown, Jiayun Yang, Fernando Capelastegui, Tereza Masonou, Katie-Marie Case, Jila Ajeian, Maximillian N. J. Woodall, Callum Magill, Graham Freimanis, Amy McCarron, Ecco Staller, Carol M. Sheppard, Ian H. Brown, Pablo R. Murcia, Claire M. Smith, Munir Iqbal, Paul Digard, Wendy S. Barclay, Rute M. Pinto, Thomas P. Peacock, Daniel H. Goldhill",
+      "title": "Polymerase mutations underlie early adaptation of H5N1 influenza virus to dairy cattle and other mammals",
+      "description": "Avian influenza jumped from wild birds into dairy cattle. Here, the authors report that two mutations in the viral polymerase helped the virus to quickly adapt to cattle. Mutations increased the polymerase activity and made the virus better at replicating in \u2026",
+      "url": "https://www.nature.com/articles/s41467-026-68306-6",
+      "urlToImage": null,
+      "publishedAt": "2026-01-16 00:00:00",
+      "content": "Long, J. S., Mistry, B., Haslam, S. M. &amp; Barclay, W. S. Host and viral determinants of influenza A virus species specificity. Nat. Rev. Microbiol.17, 6781 (2019). Google Scholar X\u2026 [+10769 chars]",
+      "retrievedAt": "2026-01-17 07:07:54.269781",
+      "internal_id": "682f95a4f9a017dfcdcda7c62b6e7f950a0457934fc4237bd76837f3a5e35f06",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26846,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Iris Marchal",
+      "title": "Gene drives tested against real-world malaria diversity",
+      "description": "Nature Biotechnology - Gene drives tested against real-world malaria diversity",
+      "url": "https://www.nature.com/articles/s41587-025-02992-3",
+      "urlToImage": null,
+      "publishedAt": "2026-01-16 00:00:00",
+      "content": "Gene drive technology, which uses genetic engineering to propagate selected genes throughout a population, is a potential strategy for blocking the spread of malaria, either by suppressing mosquito p\u2026 [+1523 chars]",
+      "retrievedAt": "2026-01-17 07:07:54.787258",
+      "internal_id": "f4a0abf48e44658d3f92945068db9c91303071f0e1cada2df14a3b81ef4b29ef",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26847,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Julia E. Rood, Suh Kyung Yoon, Mary K. Heard, Stephen D. Carro, Emma J. Hedgepeth, Mary E. O\u2019Mara, Michael J. Hogan, Nhu Le, Hiromi Muramatsu, Kieu Lam, Petra Schreiner, Coral Kasden, Hansell H. Stedman, Ryan A. Langlois, James Heyes, Norbert Pardi, Laurence C. Eisenlohr",
+      "title": "Optimal murine CD4+ T cell priming by mRNA-lipid nanoparticle vaccines requires endogenous antigen processing",
+      "description": "Lipid nanoparticle based mRNA vaccines are known to induce robust CD4 + T cell responses. Here the authors establish a role of endogenously derived antigen processing in the optimal priming of CD4 + T cell responses to mRNA lipid nanoparticle vaccines.",
+      "url": "https://www.nature.com/articles/s41467-025-68080-x",
+      "urlToImage": null,
+      "publishedAt": "2026-01-16 00:00:00",
+      "content": "Pardi, N. et al. Zika virus protection by a single low-dose nucleoside-modified mRNA vaccination. Nature543, 248251 (2017). Google Scholar Hogan, M. J. &amp; Pardi, N. mRNA vaccines i\u2026 [+11405 chars]",
+      "retrievedAt": "2026-01-17 07:07:54.926211",
+      "internal_id": "d4ddb6e25976be296891d63fb219b21530923faa7746271f5a304b2d87765e2e",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 26835,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "What decreasing childhood vaccination rates mean for public health",
+      "description": "As measles cases rise, a new study finds that opting out of childhood vaccines is becoming more commonplace in parts of the U.S. The research shows that non-medical exemption rates for vaccines have increased in more than half of the counties in the U.S. sin\u2026",
+      "url": "https://www.cbsnews.com/video/what-decreasing-childhood-vaccination-rates-mean-public-health/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/15/66d0d871-032d-425e-a3d0-d439a49f5169/thumbnail/1200x630/f9f8f8469e7490ab5d10fc2d5d209829/cbsn-fusion-what-decreasing-childhood-vaccination-rates-mean-public-health-thumbnail.jpg",
+      "publishedAt": "2026-01-15 23:56:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-01-17 07:07:53.546261",
+      "internal_id": "c5c8e04feae53d258d0ae2bba2864a9b4449313a6f02e71bf08f1655037b29a1",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26848,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Maybelyn B. Paden",
+      "title": "Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic",
+      "description": "Health experts warn that mpox, rubella, bird flu and Oropouche could spark the next pandemic as vaccine rates plummet globally and the UK remains unprepared.",
+      "url": "https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435",
+      "urlToImage": "https://d.ibtimes.com/en/full/4640589/mpox.png",
+      "publishedAt": "2026-01-15 23:22:15",
+      "content": "The global health community has issued a stark warning: the world is 'edging dangerously close' to a pandemic for which it remains fundamentally unprepared. As public health infrastructure buckles u\u2026 [+6022 chars]",
+      "retrievedAt": "2026-01-17 07:07:55.259263",
+      "internal_id": "d8aeb927875ff150a6ba89135f908d72372686231540fea66c1b76f1f5d97c07",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26837,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI AP health writer",
+      "title": "CDC studies show value of nationwide wastewater disease surveillance",
+      "description": "Two new studies from the Centers for Disease Control and Prevention show wastewater monitoring of measles can flag measles spread days to weeks in advance",
+      "url": "https://abcnews.go.com/Health/wireStory/cdc-studies-show-nationwide-wastewater-disease-surveillance-potential-129260787",
+      "urlToImage": "https://i.abcnewsfe.com/a/3bfa2c9a-e019-45d5-a132-512cab14a2d7/wirestory_5e7eb60708fd1844fee30a47170e19d4_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-15 23:18:07",
+      "content": "Wastewater testing can alert public health officials to measles infections days to months before cases are confirmed by doctors, researchers said in two studies published Thursday by the Centers for \u2026 [+4802 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.583707",
+      "internal_id": "403a543f943636d4002407d360dd9fb508f1ab59b45f2b32e6f141be42350b97",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26836,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "CDC studies show value of nationwide wastewater disease surveillance, as potential funding cut looms",
+      "description": "Wastewater is a critical disease tracking tool, especially in rural America.",
+      "url": "https://www.bostonherald.com/2026/01/15/measles-wastewater/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/Measles_71091_e7f875.jpg?w=1024&h=682",
+      "publishedAt": "2026-01-15 23:09:26",
+      "content": "By DEVI SHASTRI Wastewater testing can alert public health officials to measles infections days to months before cases are confirmed by doctors, researchers said in two studies published Thursday by\u2026 [+4923 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.556485",
+      "internal_id": "89ec7d35d52ca93f130855aa069500dd3f8125e3b6f657ed79fd653e2fbbc32b",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26842,
+      "query": [
+        "measles"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Devi Shastri",
+      "title": "Wastewater testing helps public health officials detect measles early",
+      "description": "Two new studies from the Centers for Disease Control and Prevention show wastewater monitoring of measles can flag measles spread days to weeks in advance. But officials say funding for the nationwide surveillance system is at risk under the Trump administrat\u2026",
+      "url": "https://apnews.com/article/measles-wastewater-polio-bird-flu-surveillance-5e7eb60708fd1844fee30a47170e19d4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/55fed65/2147483647/strip/true/crop/4419x2486+0+230/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F34%2Fcb376aa111d97a5fe856674b6a8f%2F71eb584c95714ec0b5255ac1e4ba815f",
+      "publishedAt": "2026-01-15 22:35:30",
+      "content": "Wastewater testing can alert public health officials to measles infections days to months before cases are confirmed by doctors, researchers said in two studies published Thursday by the Centers for \u2026 [+4915 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.778872",
+      "internal_id": "eca4f01d8b26acf90e537e0770aee54475ca4f52d45e64636e630b604b89ea53",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26838,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles uptick 'alarming,' Alberta doctor warns",
+      "description": "Alberta's measles case counts have jumped after several quieter months, sparking concerns about the province\u2019s ability to quash the outbreak.",
+      "url": "https://www.cbc.ca/news/canada/calgary/new-measles-uptick-alarming-alberta-doctor-warns-9.7047124",
+      "urlToImage": "https://i.cbc.ca/ais/b382e8bf-75bf-4303-a592-9b5fc9cba065,1767723518557/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C802%2C451%29%3BResize%3D620",
+      "publishedAt": "2026-01-15 22:03:12",
+      "content": "Alberta's measles case counts have jumped after several quieter months, sparking concerns about the provinces ability to quash the outbreak. According to publicly available data , 27 new cases have\u2026 [+4192 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.593855",
+      "internal_id": "70b123abc59aea567142c52b5dedb57e89246450ceb06df0290c15fa94eefe16",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 26839,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC15 Arizona",
+      "author": "Hector Gonzales",
+      "title": "Maricopa County confirms first measles case of the season in an adult",
+      "description": "The Maricopa County Department of Public Health (MCDPH) has confirmed that an adult who lives in the area tested positive for the measles.",
+      "url": "https://www.abc15.com/news/state/maricopa-county-confirms-first-measles-case-of-the-season-in-an-adult",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/f1fb106/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F7c9%2Fe63aadb6928b4cd6ab0dec6fb3cddabd%2F7c94110494dd49b988c79b392754c9d6%2Fposter_1fba575f8350435ea91cda75fe428a88.jpeg",
+      "publishedAt": "2026-01-15 19:44:18",
+      "content": "PHOENIX The first measles case of the year in the Valley has been recorded. The Maricopa County Department of Public Health (MCDPH) has confirmed that an adult who lives in the area tested positive \u2026 [+3351 chars]",
+      "retrievedAt": "2026-01-17 07:07:53.655174",
+      "internal_id": "fdf0b8e7e91decb1478cfdf3468975caa5f6aed13e1d60f6b63a1f054943429d",
+      "publishedAtLabel": "Jan 15"
+    },
     {
       "id": 26825,
       "query": [
@@ -15311,6 +15581,96 @@
       "content": "A un mes de que concluya el a\u00f1o, la Estrategia Nacional para el Control del Dengue logr\u00f3 una disminuci\u00f3n de cerca del 85% de los casos confirmados en el territorio nacional, en comparaci\u00f3n con el a\u00f1\u2026 [+1860 chars]",
       "retrievedAt": "2025-12-02 07:09:37.129211",
       "internal_id": "5f69280090e0f956b5ed84d2193169892b17927f1c2ffb7257127c5af1000424",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Investigadores de la Universidad de Almer\u00eda publican avances sobre una prote\u00edna esencial en la infecci\u00f3n de malaria",
+      "description": "Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombia (FIDIC), han dado un paso que podr\u00eda ser crucial en la lucha contra la malaria al arrojar luz \u2026",
+      "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20251130194216_1200.jpg",
+      "publishedAt": "2025-11-30 18:42:16",
+      "content": "ALMER\u00cdA 30 Nov. (EUROPA PRESS) - Investigadores de la Universidad de Almer\u00eda y del grupo de investigaci\u00f3n del profesor Manuel Alfonso Patarroyo, de la Fundaci\u00f3n Instituto de Inmunolog\u00eda de Colombi\u2026 [+2911 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.424189",
+      "internal_id": "b128de8514dbb3baa4bc292139463fa4303c73a41309e6878bedb0844d8df555",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25983,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "iLounge",
+      "author": "Samantha Wiley",
+      "title": "AIDS Campaign By The Global Fund Supported by Apple Pay",
+      "description": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many countries including the United States, and Apple.com from now unt\u2026",
+      "url": "https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay",
+      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/Apple-Pay-RED.jpg",
+      "publishedAt": "2025-11-30 17:03:28",
+      "content": "Apple announced that they will be donating $5 to the Global Fund to Fight Tuberculosis, Malaria and AIDS for every transaction made using Apple Pay via the Apple Store app, Apple Stores in many count\u2026 [+752 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.372565",
+      "internal_id": "9bd1750736baea0cfa5ba258f03f8c45e857b4d4cdc13daf2b9a4c95e12a0ea1",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "G\u00e9n\u00e9ration NT",
+      "author": "Mathieu M.",
+      "title": "Dengue : le Br\u00e9sil approuve le premier vaccin \u00e0 dose unique au monde",
+      "description": "Le g\u00e9ant sud-am\u00e9ricain vient de franchir un cap d\u00e9cisif dans la guerre contre les maladies tropicales. Apr\u00e8s des ann\u00e9es de recherches intensives, les autorit\u00e9s sanitaires ont valid\u00e9 un vaccin r\u00e9volutionnaire qui pourrait changer la donne plan\u00e9taire. Une seule\u2026",
+      "url": "https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920",
+      "urlToImage": "https://img.generation-nt.com/vaccin02_04B002A301707554.webp",
+      "publishedAt": "2025-11-30 09:30:02",
+      "content": "C'est une lueur d'espoir immense qui s'allume alors que l'\u00e9pid\u00e9mie bat des records sinistres. Avec plus de 6 000 morts recens\u00e9s l'an dernier sur son sol, le Br\u00e9sil \u00e9tait dos au mur et devait imp\u00e9rati\u2026 [+3847 chars]",
+      "retrievedAt": "2025-12-01 19:09:02.844474",
+      "internal_id": "00d403e818680ae63e072cc928d90c4cc4b5bb6712b82bda4c2dea3fbb10bc41",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25985,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "J\u00e9r\u00f4me Barri\u00e8re",
+      "title": "Plus de malades car\u2026 mieux soign\u00e9s : le grand paradoxe de la m\u00e9decine contemporaine",
+      "description": "Les Fran\u00e7ais n\u2019ont jamais autant gagn\u00e9 d\u2019ann\u00e9es d'esp\u00e9rance de vie et pourtant, le sentiment de d\u00e9clin du syst\u00e8me de sant\u00e9 n\u2019a jamais \u00e9t\u00e9 aussi fort. La m\u00e9decine contemporaine se heurte \u00e0 un paradoxe d\u00e9routant : s'il y a plus de malades, c\u2019est souvent parce q\u2026",
+      "url": "https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/aswElrPxtMCw80Nl6.jpg?width=700&height=500&quality=75",
+      "publishedAt": "2025-11-30 09:30:00",
+      "content": "Une membre du personnel soignant assiste un patient atteint de chikungunya au Centre Hospitalier Ouest R\u00e9union Chor (CHOR), \u00e0 Saint-Paul, sur l'\u00eele de La R\u00e9union, le 10 avril 2025. \u00a9 RICHARD BOUHET\u2026 [+5 chars]",
+      "retrievedAt": "2025-12-01 19:09:03.792747",
+      "internal_id": "a1a35b5eb9245d2e8489db073d6de589a5c911e3436bb7331a683214427aec5b",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 25981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0647\u0633\u062a\u06cc \u0648\u0641\u0627\u06cc\u06cc",
+      "title": "\u0645\u0642\u0627\u0648\u0645\u062a \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u062a\u0628\u060c \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0631\u0627 \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f",
+      "description": "\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062e\u0637\u0631 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u0633\u0627\u0646 \u062f\u0627\u0631\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u062d\u062a\u06cc \u062f\u0631 \u062f\u0645\u0627\u0647\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u062a\u0631 \u0627\u0632 \u062a\u0628 \u0637\u0628\u06cc\u0639\u06cc \u0628\u062f\u0646 \u0647\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u062a\u06a9\u062b\u06cc\u0631 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \u062a\u0628 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u062f\u0646 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0633\u0631\u0639\u062a \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u067e\u0698\u0648\u0647\u0634 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0647 \u0631\u0647\u0628\u0631\u06cc \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u0628\u0631\u06cc\u062c \u0648 \u06af\u0644\u0627\u0633\u06af\u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u2026",
+      "url": "https://www.isna.ir/news/1404090905434/\u0645\u0642\u0627\u0648\u0645\u062a-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u062a\u0628-\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646-\u0631\u0627-\u0646\u06af\u0631\u0627\u0646-\u06a9\u0631\u062f",
+      "urlToImage": "https://cdn.isna.ir/d/2025/11/30/4/63672834.jpg?ts=1764487891827",
+      "publishedAt": "2025-11-30 09:00:45",
+      "content": ". . Science . . ( ) . . . . . . PB1 PB1 . . . . H5N1 . . . . : #",
+      "retrievedAt": "2025-12-01 19:09:02.379183",
+      "internal_id": "ecd303f8569a8b6716aa71f3d2927612f796fe170c41915cb150efae70ca3697",
       "publishedAtLabel": "Nov 30"
     }
   ]

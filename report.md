@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-01-16 19:08
-- **Most recent article:** 2026-01-15 18:00:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-01-17 07:07
+- **Most recent article:** 2026-01-16 05:40:31
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-49 | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 33 | 270 |
-| dengue | 18 | 34 | 26 | 11 | 4 | 1 | 12 | 12 | 118 |
-| malaria | 24 | 17 | 19 | 12 | 5 | 0 | 13 | 4 | 94 |
-| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 7 | 90 |
-| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 8 | 69 |
-| h5n1 | 11 | 10 | 15 | 10 | 2 | 1 | 12 | 5 | 66 |
-| chikungunya | 13 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 45 |
+| measles | 15 | 45 | 38 | 31 | 35 | 26 | 47 | 42 | 279 |
+| dengue | 19 | 34 | 26 | 11 | 4 | 1 | 12 | 12 | 119 |
+| malaria | 26 | 17 | 19 | 12 | 5 | 0 | 13 | 5 | 97 |
+| rabies | 7 | 21 | 11 | 20 | 8 | 6 | 10 | 8 | 91 |
+| mpox | 4 | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 70 |
+| h5n1 | 12 | 10 | 15 | 10 | 2 | 1 | 12 | 7 | 69 |
+| chikungunya | 14 | 16 | 2 | 7 | 3 | 0 | 3 | 1 | 46 |
 | meningitis | 4 | 3 | 1 | 5 | 10 | 5 | 11 | 4 | 43 |
-| zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 3 | 25 |
+| zika | 5 | 6 | 2 | 3 | 2 | 0 | 4 | 4 | 26 |
 | yersinia | 6 | 4 | 5 | 1 | 2 | 0 | 1 | 3 | 22 |
 | leptospirosis | 3 | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 17 |
 | hpai | 2 | 5 | 1 | 2 | 0 | 0 | 2 | 2 | 14 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-3 (zika)
+
+- [Optimal murine CD4+ T cell priming by mRNA-lipid nanoparticle vaccines requires endogenous antigen processing](https://www.nature.com/articles/s41467-025-68080-x) (Nature.com)
 
 - [La pérdida de biodiversidad impulsa la sed de los mosquitos por la sangre humana](https://www.dw.com/es/la-p%C3%A9rdida-de-biodiversidad-impulsa-la-sed-de-los-mosquitos-por-la-sangre-humana/a-75523940) (DW (English))
 
@@ -50,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (rabies)
 
+- [Experts warn: Mass removal of stray dogs could backfire on public health](https://timesofindia.indiatimes.com/india/experts-warn-mass-removal-of-stray-dogs-could-backfire-on-public-health/articleshow/126556050.cms) (The Times of India)
+
 - [Imported Human Rabies — Kentucky and Ohio, 2024](https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a3.htm) (Cdc.gov)
 
 - [Human Rabies Deaths — Minnesota and California, 2024](https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a4.htm) (Cdc.gov)
@@ -65,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 - [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
 
 ## 26-3 (mpox)
+
+- [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
 
 - [Virus in agguato: quali minacce infettive ci aspettano nel 2026 tra i grandi classici?](https://tech.everyeye.it/notizie/virus-agguato-minacce-infettive-aspettano-2026-grandi-classici-852358.html) (Everyeye.it)
 
@@ -93,6 +99,24 @@ Source: [News API](https://newsapi.org/)
 - [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
+
+- [Temporary mask requirement at Pardee Health amid rise in measles and respiratory illnesses](https://wlos.com/news/local/hendersonville-unc-health-pardee-temporary-masking-teammates-patients-visitors-emergency-department-urgent-care-measles-respiratory-illness-community-monitor-visiting-policies) (WLOS)
+
+- [NC measle cases increase, health leaders roll out live dashboard to track outbreak in North Carolina](https://abc11.com/post/nc-measle-cases-increase-health-leaders-roll-live-dashboard-track-outbreak-north-carolina/18411880/) (WTVD-TV)
+
+- [A new way to see measles vaccination rates in Central California](https://abc30.com/post/new-see-measles-vaccination-rates-central-california/18409454/) (KFSN-TV)
+
+- [What decreasing childhood vaccination rates mean for public health](https://www.cbsnews.com/video/what-decreasing-childhood-vaccination-rates-mean-public-health/) (CBS News)
+
+- [CDC studies show value of nationwide wastewater disease surveillance](https://abcnews.go.com/Health/wireStory/cdc-studies-show-nationwide-wastewater-disease-surveillance-potential-129260787) (ABC News)
+
+- [CDC studies show value of nationwide wastewater disease surveillance, as potential funding cut looms](https://www.bostonherald.com/2026/01/15/measles-wastewater/) (Boston Herald)
+
+- [Wastewater testing helps public health officials detect measles early](https://apnews.com/article/measles-wastewater-polio-bird-flu-surveillance-5e7eb60708fd1844fee30a47170e19d4) (Associated Press)
+
+- [New measles uptick 'alarming,' Alberta doctor warns](https://www.cbc.ca/news/canada/calgary/new-measles-uptick-alarming-alberta-doctor-warns-9.7047124) (CBC News)
+
+- [Maricopa County confirms first measles case of the season in an adult](https://www.abc15.com/news/state/maricopa-county-confirms-first-measles-case-of-the-season-in-an-adult) (ABC15 Arizona)
 
 - [Notes from the Field: Retrospective Analysis of Wild-Type Measles Virus in Wastewater During a Measles Outbreak - Oregon, March 24-September 22, 2024](https://www.cdc.gov/mmwr/volumes/75/wr/mm7502a1.htm) (Cdc.gov)
 
@@ -162,6 +186,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-3 (malaria)
 
+- [Gene drives tested against real-world malaria diversity](https://www.nature.com/articles/s41587-025-02992-3) (Nature.com)
+
 - [Making progress on global health will need high-quality evidence](https://www.nature.com/articles/d41586-026-00073-2) (Nature.com)
 
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
@@ -181,6 +207,10 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI Launches New AI Software Platform “HyprX”](https://www.globenewswire.com/news-release/2026/01/13/3217823/0/en/Helport-AI-Launches-New-AI-Software-Platform-HyprX.html) (GlobeNewswire)
 
 ## 26-3 (h5n1)
+
+- [消毒薬CHX(クロロヘキシジン)を有効成分とした表面浮き出しコーティング技術の特許出願](https://prtimes.jp/main/html/rd/p/000000004.000111959.html) (Prtimes.jp)
+
+- [Polymerase mutations underlie early adaptation of H5N1 influenza virus to dairy cattle and other mammals](https://www.nature.com/articles/s41467-026-68306-6) (Nature.com)
 
 - [Na Jablonecku se objevila u volně žijících ptáků ptačí chřipka](https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-na-jablonecku-se-objevila-u-volne-zijicich-ptaku-ptaci-chripka-40557626) (Novinky.cz)
 
@@ -1912,6 +1942,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Disappearance of Frogs May Be Making Some Humans Sick](https://www.newser.com/story/378715/disappearance-of-frogs-may-be-making-some-humans-sick.html) (Newser)
 
+- [Investigadores de la Universidad de Almería publican avances sobre una proteína esencial en la infección de malaria](https://www.europapress.es/andalucia/almeria-00350/noticia-investigadores-universidad-almeria-publican-avances-proteina-esencial-infeccion-malaria-20251130194216.html) (Europapress.es)
+
+- [AIDS Campaign By The Global Fund Supported by Apple Pay](https://www.ilounge.com/news/aids-campaign-by-the-global-fund-supported-by-apple-pay) (iLounge)
+
 ## 25-49 (leptospirosis)
 
 - [Leptospirosis kills 2 in the North as Health Ministry issues urgent warning](https://www.fijivillage.com/news/leptospirosis-kills-2-in-the-north-as-health-ministry-issues-urgent-warning-e0eadb/) (Fijivillage)
@@ -1949,6 +1983,8 @@ Source: [News API](https://newsapi.org/)
 - [Los murciélagos de Perú podrían estar tras la próxima pandemia: Todo lo que se sabe sobre la gripe aviar H5N1](https://www.mundodeportivo.com/pulso/20251201/1002579300/murcielagos-peru-proxima-pandemia-sobre-gripe-aviar-h5n1.html) (Mundodeportivo.com)
 
 - [Опасный штамм птичьего гриппа пробрался на уединенный субантарктический остров](https://www.ferra.ru/news/health/opasnyi-shtamm-ptichego-grippa-probralsya-na-uedinennyi-subantarkticheskii-ostrov-30-11-2025.htm) (Ferra.ru)
+
+- [مقاومت آنفلوانزای پرندگان در برابر تب، دانشمندان را نگران کرد](https://www.isna.ir/news/1404090905434/مقاومت-آنفلوانزای-پرندگان-در-برابر-تب-دانشمندان-را-نگران-کرد) (Isna.ir)
 
 ## 25-49 (dengue)
 
@@ -1988,6 +2024,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Disminuye en 85% los casos de dengue con respecto a 2024](https://www.excelsior.com.mx/nacional/disminuye-en-85-los-casos-de-dengue-con-respecto-a-2024/1754739) (Excelsior.com.mx)
 
+- [Dengue : le Brésil approuve le premier vaccin à dose unique au monde](https://www.generation-nt.com/actualites/vaccin-dengue-dose-unique-bresil-butantan-efficacite-2066920) (Génération NT)
+
 ## 25-49 (chikungunya)
 
 - [Uitbraak griepachtig virus in Cuba: al 33 doden, onder wie 21 kinderen](https://www.telegraaf.nl/buitenland/uitbraak-griepachtig-virus-in-cuba-al-33-doden-onder-wie-21-kinderen/110437660.html) (Telegraaf.nl)
@@ -2015,3 +2053,5 @@ Source: [News API](https://newsapi.org/)
 - [Ministerio de Salud de Cuba reporta 33 muertes por virus de dengue y chikungunya](https://www.bostonherald.com/2025/12/01/ministerio-de-salud-de-cuba-reporta-33-muertes-por-virus-de-dengue-y-chikungunya/) (Boston Herald)
 
 - [Assessing risks of dengue, chikungunya and Zika transmission associated to Aedes albopictus in Chania, Greece, 2017–2018](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013785) (Plos.org)
+
+- [Plus de malades car… mieux soignés : le grand paradoxe de la médecine contemporaine](https://atlantico.fr/article/decryptage/plus-de-malades-car-mieux-soignes-le-grand-paradoxe-medecine-contemporaine-hopital-sante-medecins-personnel-soignant-moyens-soins-operations-remission-guerison-science-Jerome-Barriere) (Atlantico.fr)
