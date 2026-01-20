@@ -1,8 +1,351 @@
 {
-  "last_updated": "2026-01-20 07:13",
-  "count_articles_total": 808,
-  "count_articles_new": 6,
+  "last_updated": "2026-01-20 19:30",
+  "count_articles_total": 820,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 26913,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Balloon-juice.com",
+      "author": "David Anderson",
+      "title": "Vaccines are stunning (Part a million)",
+      "description": "Vaccines and clean water make almost everything a footnote on reducing mortality rates ~500,000 Measles cases annually before vaccines, to 9 cases in 2021. But yeah, vaccines don\u2019t work\u2026 pic.twitter.com/OPV9jts8N2 \u2014 Ian Copeland, PhD (@IanCopeland5) January 1\u2026",
+      "url": "https://balloon-juice.com/2026/01/19/vaccines-are-stunning-part-a-million/",
+      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2015/07/tunchiswatching.jpg",
+      "publishedAt": "2026-01-19 18:18:42",
+      "content": "Vaccines and clean water make almost everything a footnote on reducing mortality rates",
+      "retrievedAt": "2026-01-20 19:30:48.221002",
+      "internal_id": "87b669ed1002a9c3aa1af0c54f402a05cf8a21e3faec128ccc4bc93475fa64cf",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26925,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "\u00c9tats-Unis. Chikungunya : le laboratoire franco-autrichien Valneva demande le retrait de sa licence",
+      "description": "Le vaccin contre le chikungunya du laboratoire, nomm\u00e9 Ixchiq, avait \u00e9t\u00e9 suspendu au mois d'ao\u00fbt par l'agence am\u00e9ricaine du m\u00e9dicament apr\u00e8s la d\u00e9couverte d'effets ind\u00e9sirables.",
+      "url": "https://www.ledauphine.com/sante/2026/01/19/chikungunya-le-laboratoire-franco-autrichien-valneva-demande-le-retrait-de-sa-licence-aux-etats-unis",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/FAF7F6F8-9ABA-4F39-9860-8E65435BEF49/FB1200/photo-1768846118.jpg",
+      "publishedAt": "2026-01-19 18:08:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2026-01-20 19:30:54.483961",
+      "internal_id": "d5d0074eb76d8f70e4293639fd268690531b23f1e394fa11ef908cfd5d981d16",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Pesquisa aponta quem tem mais chance de morrer por dengue no Brasil",
+      "description": "Estudo da Fiocruz analisou milh\u00f5es de casos no Brasil e mostrou como desigualdades sociais influenciam a letalidade da dengue",
+      "url": "https://www.metropoles.com/saude/chance-morrer-dengue-brasil",
+      "urlToImage": "https://image.metroimg.com/wp-content/uploads/6a2766bb-aedes-aegypti.-zika-dengue-chikungunya.jpg",
+      "publishedAt": "2026-01-19 17:26:37",
+      "content": "End\u00eamica no Brasil, a dengue provoca milhares de interna\u00e7\u00f5es todos os anos e segue como um desafio para a sa\u00fade p\u00fablica. Para entender quem s\u00e3o as pessoas mais vulner\u00e1veis \u00e0 forma grave da doen\u00e7a, pe\u2026 [+7158 chars]",
+      "retrievedAt": "2026-01-20 19:30:52.957498",
+      "internal_id": "200fe75c56177641e1ad093afc06bce9cbe12f8d468d424832a9519d328a36b6",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26923,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Juan Rodr\u00edguez de Rivera",
+      "title": "Qu\u00e9 es la osteomielitis p\u00fabica que sufre Salvador Illa: un rar\u00edsimo trastorno causado por una infecci\u00f3n bacteriana",
+      "description": "El 'president' de la Generalitat esperaba en la UCI del Hospital Vall d'Hebron un diagn\u00f3stico desde el s\u00e1bado, cuando not\u00f3 debilidad y dolor en las piernas. M\u00e1s informaci\u00f3n: Guillian-Barr\u00e9, el otro s\u00edndrome 'de moda' por el Zika",
+      "url": "https://www.elespanol.com/ciencia/20260119/neurologia-salvador_illa_roca-espana-ciencia/1003744095511_0.html",
+      "urlToImage": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070947_260678913_1706x960.jpg?fmt=jpeg",
+      "publishedAt": "2026-01-19 17:23:23",
+      "content": "Salvador Illa padece osteomielitis p\u00fabica, una rara infecci\u00f3n inflamatoria causada por la bacteria Streptococcus dysgalactiae que afecta la s\u00ednfisis p\u00fabica. El tratamiento incluye reposo inicial y d\u2026 [+5664 chars]",
+      "retrievedAt": "2026-01-20 19:30:54.067303",
+      "internal_id": "2180b91df4f979ddd20ce0d78d2ba555949a7a9a62afab71c26a8a9d6ce50652",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26924,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Provides Update on Chikungunya Vaccine IXCHIQ\u00ae",
+      "description": "Saint Herblain (France), January 19, 2026 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the Company has decided to voluntarily withdraw the biologics license application (BLA) and Investigational New Drug \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/01/19/3221191/0/en/Valneva-Provides-Update-on-Chikungunya-Vaccine-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2026-01-19 17:00:00",
+      "content": "Company voluntarily withdraws IXCHIQ BLA and IND in the U.S. Continuing review of global product opportunity according to medical need and commercial attractivenessSaint He\u2026 [+7031 chars]",
+      "retrievedAt": "2026-01-20 19:30:54.473898",
+      "internal_id": "51a51f6276f39531cdec0a04256b3becd4ffef069d3390a1d4d086f60bc9e051",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26926,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva fait un point sur son vaccin contre le chikungunya IXCHIQ\u00ae",
+      "description": "Saint Herblain (France), le 19 janvier 2026 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui avoir d\u00e9cid\u00e9 de retirer volontairement les demandes d\u2019autorisation de mise sur le march\u00e9 (BLA) et d\u2019essai\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/01/19/3221191/0/fr/Valneva-fait-un-point-sur-son-vaccin-contre-le-chikungunya-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2026-01-19 17:00:00",
+      "content": "La Soci\u00e9t\u00e9 retire volontairement ses demandes dautorisation de mise sur le march\u00e9 (BLA) et dessais cliniques (IND) aux \u00c9tats-Unis Et continue d\u00e9valuer le potentiel mondial du produit\u2026 [+8272 chars]",
+      "retrievedAt": "2026-01-20 19:30:54.499220",
+      "internal_id": "0fad3927ecf9cc82138f17ff344456fcd8268210e58f19e4f2ba379f5c1230b4",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26915,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "H5N1-Virus in Deutschland: Experte: Vogelgrippe-Impfung k\u00f6nnte Millionen Tiere retten",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eH5N1-Virus in Deutschland\u201c. Lesen Sie jetzt \u201eExperte: Vogelgrippe-Impfung k\u00f6nnte Millionen Tiere retten\u201c.",
+      "url": "https://www.zeit.de/news/2026-01/19/experte-vogelgrippe-impfung-koennte-millionen-tiere-retten",
+      "urlToImage": "https://img.zeit.de/news/2026-01/19/experte-vogelgrippe-impfung-koennte-millionen-tiere-retten-image-group/wide__1300x731",
+      "publishedAt": "2026-01-19 16:52:33",
+      "content": "Angesichts Millionen get\u00f6teter Nutztiere im Rahmen der immer noch grassierenden Vogelgrippe in Deutschland braucht es aus Expertensicht die Diskussion \u00fcber \u00c4nderungen bei der Impfpraxis. Es stelle si\u2026 [+2698 chars]",
+      "retrievedAt": "2026-01-20 19:30:49.106295",
+      "internal_id": "4b17a035fa5fe84d880431ef95dd0757a1f97012af3c3b41f19946e095a81b19",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26917,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1-Virus in Deutschland: Experte: Vogelgrippe-Impfung k\u00f6nnte Millionen Tiere retten",
+      "description": "Millionen Tiere werden wegen der Vogelgrippe get\u00f6tet. Ein Experte stellt die aktuelle Impfpraxis zur Diskussion \u2013 und sieht auch die Dichte der St\u00e4lle kritisch.",
+      "url": "https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/h5n1-virus-in-deutschland--experte--vogelgrippe-impfung-koennte-millionen-tiere-retten-37056162.html",
+      "urlToImage": "https://image.stern.de/37056164/t/D8/v1/w1440/r1.7778/-/19--6wt4cn33ycv14axs2048jpeg---de571e4de5ec2600.jpg",
+      "publishedAt": "2026-01-19 16:52:33",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Millionen Tiere werden wegen der Vogelgrippe get\u00f6tet. Ein Experte stellt die aktuelle Impfpraxis zur Diskussion und sieht auch die Dichte der St\u00e4\u2026 [+2872 chars]",
+      "retrievedAt": "2026-01-20 19:30:49.134250",
+      "internal_id": "e3e062cc1c7573022657317587a45dec41311a951cfb5747fa90cb1d098bb721",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26911,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards, Corky Siemaszko",
+      "title": "First case of measles reported on Clemson University's campus",
+      "description": "The fast-moving South Carolina measles outbreak has spread to Clemson University.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-clemson-university-rcna254787",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260119-Clemson-rs-0b3fa1.jpg",
+      "publishedAt": "2026-01-19 15:18:08",
+      "content": "The fast-moving South Carolina measles outbreak has spread to Clemson University. \"An individual affiliated with the University\" has been confirmed by the state's Department of Public Health to hav\u2026 [+2740 chars]",
+      "retrievedAt": "2026-01-20 19:30:48.062098",
+      "internal_id": "8029f88be94907288fde8fb1e9d7ca7d1852efbe14399517e31bfd2738d3f32c",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26927,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Alexandre Hassanin, Ma\u00eetre de Conf\u00e9rences (HDR) \u00e0 Sorbonne Universit\u00e9, ISYEB - Institut de Syst\u00e9matique, Evolution, Biodiversit\u00e9 (CNRS, MNHN, SU, EPHE, UA), Mus\u00e9um national d\u2019histoire naturelle (MNHN), Antoine Gessain, M\u00e9decin, virologue, responsable de l'unit\u00e9 \u00c9pid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes (EPVO), Institut Pasteur",
+      "title": "\u00ab Variole du singe \u00bb : O\u00f9 se cache le virus mpox ? Quand virologues et syst\u00e9maticiens m\u00e8nent l\u2019enqu\u00eate",
+      "description": "Les scientifiques traquent depuis plusieurs ann\u00e9es l\u2019animal r\u00e9servoir du virus mpox. Leur enqu\u00eate a r\u00e9cemment fait un bon significatif, \u00e0 la suite de l\u2019identification d\u2019un suspect pass\u00e9 jusqu\u2019ici inaper\u00e7u.",
+      "url": "https://theconversation.com/variole-du-singe-ou-se-cache-le-virus-mpox-quand-virologues-et-systematiciens-menent-lenquete-270513",
+      "urlToImage": "https://images.theconversation.com/files/712742/original/file-20260115-56-xtvr1t.jpg?ixlib=rb-4.1.0&rect=0%2C164%2C1650%2C825&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-01-19 15:06:38",
+      "content": "Certaines esp\u00e8ces d\u2019\u00e9cureuils arboricoles appartenant au genre Funisciurus h\u00e9bergent le virus mpox, responsable de la maladie parfois appel\u00e9e \u00ab&nbsp;variole du singe&nbsp;\u00bb. Wikimedia Commons/Oddfeel\u2026 [+15765 chars]",
+      "retrievedAt": "2026-01-20 19:30:54.827907",
+      "internal_id": "4774ce8245049df403992666bfc66103ce25ebfccb542f0329484d4f56dd0c1c",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "Dengue: vacina nacional de dose \u00fanica come\u00e7a a ser aplicada em tr\u00eas cidades do Brasil",
+      "description": "Proposta \u00e9 vacinar popula\u00e7\u00e3o de 15 a 59 anos para medir o efeito da imuniza\u00e7\u00e3o em larga escala sobre a circula\u00e7\u00e3o do v\u00edrus",
+      "url": "https://veja.abril.com.br/saude/dengue-vacina-nacional-de-dose-unica-comeca-a-ser-aplicada-em-tres-cidades-do-brasil/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/04/GettyImages-1349026416.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-01-19 14:57:45",
+      "content": "Oferta Rel\u00e2mpago: VEJA por apenas 7,99Butantan-DV: produ\u00e7\u00e3o deve chegar a 30 milh\u00f5es de doses at\u00e9 o fim do ano (Luis Alvarez/Getty Images) Continua ap\u00f3s publicidade O Brasil iniciou a aplic\u2026 [+3273 chars]",
+      "retrievedAt": "2026-01-20 19:30:52.922210",
+      "internal_id": "b91ee61ccdf082a0d398edc1038876064083f66061d1a1e87ecea5fc0f443b46",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26912,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "South Carolina Measles Cases Double in Just 1 Week",
+      "description": "The United States\u2019 largest measles outbreak is spreading at an alarming rate with health officials in South Carolina saying cases have doubled in just the last week \u2014 and it\u2019s now spreading to multiple other states. NBC\u2019s Liz Kreutz reports for TODAY.",
+      "url": "https://www.today.com/video/measles-cases-in-south-carolina-double-in-just-1-week-256190533648",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_01/1768828831120_tdy_news_8a_kreutz_measles_outbreaks_260119_1920x1080-mdankf.jpg",
+      "publishedAt": "2026-01-19 13:20:41",
+      "content": "The United States largest measles outbreak is spreading at an alarming rate with health officials in South Carolina saying cases have doubled in just the last week and its now spreading to multiple o\u2026 [+59 chars]",
+      "retrievedAt": "2026-01-20 19:30:48.088330",
+      "internal_id": "f1689992db0bd41aaaea7a1cd7dae5cd4bfc7347482da1d574f6b02a4474b9e6",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26909,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: Mom's heartbreak fuels serving the homeless",
+      "description": "Shirley Raines, the founder of the nonprofit Beauty 2 the Streetz, has spent nearly a decade helping people facing hunger and homelessness by offering food and supplies with a message of dignity.",
+      "url": "https://abcnews.go.com/US/video/moms-heartbreak-fuels-serving-homeless-129341659",
+      "urlToImage": "https://i.abcnewsfe.com/a/e98387c3-2356-48d2-ba8b-4bdd4074f664/260119_gmafl_homeless_help_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-01-19 11:48:43",
+      "content": "Growing concerns about measles outbreak Remembering Martin Luther King Jr.s legacy EU holds emergency meeting on Greenland Trump announces tariffs on NATO allie\u2026 [+4317 chars]",
+      "retrievedAt": "2026-01-20 19:30:47.998982",
+      "internal_id": "f9b3ebb664824a1d7f6aaa9e91806e1976d3b0f533b06c607ae257576638ef3c",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26919,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Izhlife.ru",
+      "author": "\u0418\u0434\u0430 \u0418\u0441\u043a\u0440\u0430",
+      "title": "\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u0439\u0442\u0438 \u0443\u0436\u0435 \u0432 2026 \u0433\u043e\u0434\u0443 - \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u043f\u0443\u0433\u0430\u044e\u0442 \u0443\u0447\u0435\u043d\u044b\u0445",
+      "description": "\u041d\u0430 \u0434\u043d\u044f\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u0438\u0437 \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0445 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043e\u0432 \u0421\u0430\u0443\u0442\u0433\u0435\u043c\u043f\u0442\u043e\u043d\u0430 \u0438 \u0413\u043b\u0430\u0437\u0433\u043e \u0432\u044b\u0441\u0442\u0443\u043f\u0438\u043b\u0438 \u0441 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u044b\u043c \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435\u043c: \u0432 2026 \u0433\u043e\u0434\u0443 \u043c\u0438\u0440 \u043c\u043e\u0436\u0435\u0442 \u0441\u0442\u043e\u043b\u043a\u043d\u0443\u0442\u044c\u0441\u044f \u0441 \u043d\u043e\u0432\u043e\u0439 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0435\u0439. \u041a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0443? \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u0432\u044b\u0434\u0435\u043b\u0438\u043b\u0438 \u0447\u0435\u0442\u044b\u0440\u0435 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0435 \u2026",
+      "url": "https://izhlife.ru/medicine/novaya-pandemiya-mozhet-priyti-uzhe-v-2026-godu-kakie-virusy-pugayut-uchenykh.html",
+      "urlToImage": "https://izhlife.ru/upload/resize_cache/webp/iblock/946/1kwimkccgfvibfyvmp9tiq1hgda2hca1/43456789.webp",
+      "publishedAt": "2026-01-19 11:13:00",
+      "content": ": 2026 . ? , . (Mpox)2022 , . . , . \u00ab\u00bb , . - , , (MMR)? 15 . : . - . (H5N1). 2020 . , . , . . . , . ? . -, , . -, - . , -, - , , . ? : . . 50-60%. , , . , 3-4 . , : 20-30 ,\u2026 [+150 chars]",
+      "retrievedAt": "2026-01-20 19:30:49.187311",
+      "internal_id": "6348f239a5133ea5fa912ee6f8a8d63fb73192c9f23e3a0caa4b8a77b9165f4e",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26916,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Vogelgrippe: Deutliche Entspannung bei Gefl\u00fcgelpest in Th\u00fcringen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eVogelgrippe\u201c. Lesen Sie jetzt \u201eDeutliche Entspannung bei Gefl\u00fcgelpest in Th\u00fcringen\u201c.",
+      "url": "https://www.zeit.de/news/2026-01/19/deutliche-entspannung-bei-gefluegelpest-in-thueringen",
+      "urlToImage": "https://img.zeit.de/news/2026-01/19/deutliche-entspannung-bei-gefluegelpest-in-thueringen-image-group/wide__1300x731",
+      "publishedAt": "2026-01-19 10:24:11",
+      "content": "Nach den gro\u00dfen Vogelgrippe-Ausbr\u00fcchen im Herbst hat sich die Lage in Th\u00fcringen entspannt. Seit Anfang des Jahres sei das H5N1-Virus lediglich viermal festgestellt worden, teilte das Gesundheitsminis\u2026 [+682 chars]",
+      "retrievedAt": "2026-01-20 19:30:49.116250",
+      "internal_id": "fb77d334b3482b140419040e467ca499f70e039d5db7890d1de5de291815065e",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26914,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Charleston Post Courier",
+      "author": "Tom Corwin",
+      "title": "New childhood vax schedule sparks backlash from doctors",
+      "description": "The federal government recently slashed the number off vaccines recommended for all children. Charleston pediatricians and national leaders are aghast.",
+      "url": "https://www.postandcourier.com/health/pediatricians-doctors-push-back-cdc-vaccine-changes/article_cde06b57-7738-4c78-b7bf-5d379ea4ceff.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/03/f0308eb3-510d-4823-8633-2b39fca775a7/69602291e134e.image.jpg?crop=1748%2C918%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-01-19 10:08:17",
+      "content": "The S.C. Department of Public Health, which is dealing with the largest active measles outbreak in the country, has seen the new recommendations and is still reviewing them, said Dr. Linda Bell, the \u2026 [+2009 chars]",
+      "retrievedAt": "2026-01-20 19:30:48.239739",
+      "internal_id": "794e3437ea2dcd1f288a2cc5150dcfc4a4ab112cc34182eadb0d6287a1a86867",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26910,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "C\u2019River to commence 2026 Measles\u2013Rubella, HPV vaccination campaign February",
+      "description": "Cross River State is launching a free Measles-Rubella and HPV vaccination campaign from Feb 4-15, 2026, to protect children and adolescent girls. Read More: https://punchng.com/criver-to-commence-2026-measles-rubella-hpv-vaccination-campaign-february/",
+      "url": "https://punchng.com/criver-to-commence-2026-measles-rubella-hpv-vaccination-campaign-february/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/06/12091320/1000749613-1000x630.jpg",
+      "publishedAt": "2026-01-19 09:05:13",
+      "content": "The Cross River State Government has announced the commencement of the 2026 MeaslesRubella Vaccination Campaign alongside the Human Papillomavirus vaccination across the state. In a statement issued\u2026 [+2579 chars]",
+      "retrievedAt": "2026-01-20 19:30:48.035799",
+      "internal_id": "47bd0ea764b5c8379e7a3148024bf1ecdc01c5e2cf91e2871cd822c3ada724de",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26918,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Antonio Alburquerque",
+      "title": "\u201cPodr\u00eda evolucionar hacia algo m\u00e1s grave\u201d: qu\u00e9 es el virus H9N2 y por qu\u00e9 preocupa a los cient\u00edficos",
+      "description": "Un virus de la gripe aviar poco conocido est\u00e1 captando la atenci\u00f3n de los cient\u00edficos por su capacidad de mutar y provocar enfermedades.",
+      "url": "https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/VZCNIYNCXBEKPNYXJX4473ZJIE.jpeg?auth=210929c6b34a7c4fd474056a1dfaa693e1e047474b70323a17c3362fdec5cf35&height=630&width=1200&smart=true",
+      "publishedAt": "2026-01-19 09:02:00",
+      "content": "Mientras la gripe aviar suele asociarse casi exclusivamente al virus H5N1, los cient\u00edficos advierten que no es la \u00fanica amenaza en circulaci\u00f3n. Seg\u00fan un art\u00edculo reciente de The New York Times, otr\u2026 [+3023 chars]",
+      "retrievedAt": "2026-01-20 19:30:49.169612",
+      "internal_id": "4c26a3e9072904c2e7228b037b521868edf9b444b00da90635054c12beff2e80",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Curta",
+      "description": "Vacina contra dengue O ministro da Sa\u00fade, Alexandr...",
+      "url": "https://valor.globo.com/brasil/noticia/2026/01/19/b99859cc-curta.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2026-01-19 08:01:33",
+      "content": "Vacina contra dengueO ministro da Sa\u00fade, Alexandre Padilha, anunciou neste domingo (18) que cerca de 1,1 milh\u00e3o de profissionais que atuam na aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade de todo o pa\u00eds poder\u00e3o ser imuni\u2026 [+945 chars]",
+      "retrievedAt": "2026-01-20 19:30:53.017423",
+      "internal_id": "a286141ae5f672f472e845c2d31015509cbd982fa032e92a0b81b19f640750f2",
+      "publishedAtLabel": "Jan 19"
+    },
     {
       "id": 26903,
       "query": [
@@ -14461,132 +14804,6 @@
       "content": ", (\u00ab \u00bb) . Communications Earth &amp; Environment, XIV . ( ), . - . , (, ) , , . , Yersinia pestis ( ). . , , \u00ab \u00bb. , 1345, 1346 1347 . . , \u2014 \u2014 , . . , , , . , , , . , ( ), . , , , . , . \u2026 [+29 chars]",
       "retrievedAt": "2025-12-09 07:09:15.647268",
       "internal_id": "56d1b73643ed6478ab2b79237f87ccbcaa9e5abcbbc20d74420af3d2811b0960",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26104,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Beatriz Campos",
-      "title": "Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos",
-      "description": "Em Campo Grande, a libera\u00e7\u00e3o de mosquitos com Wolbachia resulta em queda nos casos de dengue, estrat\u00e9gia deve ser aplicada em outras cidades O post Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
-      "publishedAt": "2025-12-07 19:03:41",
-      "content": "Siga o Olhar Digital no Google Discover Um estudo recente revela um avan\u00e7o significativo no combate \u00e0 dengue em Campo Grande, Mato Grosso do Sul. A libera\u00e7\u00e3o controlada de mosquitos Aedes aegypti po\u2026 [+2182 chars]",
-      "retrievedAt": "2025-12-08 19:06:19.770794",
-      "internal_id": "cbfc1a9439dc2cbb9344ac177eca86ed30735dcfad317250a66829174c3e39f0",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26107,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u061b \u062c\u0631\u0642\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0622\u062a\u0634 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u0631\u0627 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0634\u0639\u0644\u0647\u200c\u0648\u0631 \u06a9\u0631\u062f",
-      "description": "\u06cc\u06a9 \u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u06cc \u0645\u0647\u06cc\u0628 \u062f\u0631 \u0642\u0631\u0646 \u0686\u0647\u0627\u0631\u062f\u0647\u0645\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0622\u063a\u0627\u0632\u06af\u0631 \u0632\u0646\u062c\u06cc\u0631\u0647\u200c\u0627\u06cc \u0641\u0627\u062c\u0639\u0647\u200c\u0628\u0627\u0631 \u0628\u0648\u062f\u0647 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0628\u0647 \u0634\u06cc\u0648\u0639 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062e\u062a\u0645 \u0634\u062f.",
-      "url": "https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/",
-      "urlToImage": "https://api2.zoomit.ir/media/bubonic-plague-europe-6933fdd32017c0b719e18327",
-      "publishedAt": "2025-12-07 19:00:00",
-      "content": "\u00ab \u00bb . (Yersinia pestis) . . . \u00ab \u00bb . . . . . . : . . . . . . Communications Earth &amp; Environment .",
-      "retrievedAt": "2025-12-08 19:06:22.333717",
-      "internal_id": "01bbf47cd05fb707d895cbf04b207421fcc3e6a107c8009681e5864c570884a0",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26103,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Redazione Salute",
-      "title": "Aviaria H5N5? Pregliasco: Punta dell\u2019iceberg, non abbassare la guardia\u201d. Terregino: \u201cNon \u00e8 pi\u00f9 aggressivo di H5N1\u201d",
-      "description": "La notizia del decesso negli Usa di un paziente \u2013 con patologie pregresse \u2013 morto dopo essere stato colpito dal ceppo H5N5 dell\u2019influenza aviaria \u2013 viene accolta in modo diverso dagli scienziati. Secondo Fabrizio Pregliasco, direttore della Scuola di speciali\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/07/09/pregliasco.jpg",
-      "publishedAt": "2025-12-07 15:34:12",
-      "content": "Roma, 7 dic. (Adnkronos) - \u00c8 stata ufficialmente inaugurata oggi larea dedicata alle Regione Marche allinterno del padiglione 3 di Artigiano in Fiera, il pi\u00f9 importante evento al mondo dedicato agli \u2026 [+4255 chars]",
-      "retrievedAt": "2025-12-08 19:06:19.497161",
-      "internal_id": "cfc8f99eadfe1dbe1e45a95102abff8ec8cf341dc00ead0ea72d506a9b0ac15f",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26102,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard",
-      "description": "Hadassah and Rambam medical centers report an unusual overload in pediatric ICUs as influenza and measles surge, with several infants in critical condition requiring ventilators and ECMO support.",
-      "url": "https://www.israelnationalnews.com/news/418944",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1145927.jpg",
-      "publishedAt": "2025-12-07 13:56:00",
-      "content": "The Hadassah and Rambam medical centers are reporting an unusual overload in their pediatric intensive care units due to the spread of winter illnesses, especially influenza and measles. Hadassah Ei\u2026 [+1005 chars]",
-      "retrievedAt": "2025-12-08 19:06:18.930761",
-      "internal_id": "84c99a49227b6d89829bc3de6c301d8d33481ad0f7efc62964f71de9a9a12776",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26101,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "John Johnson with Newser.AI",
-      "title": "In Rarity, Organ Recipient Dies of Rabies From Donor",
-      "description": "A Michigan man who received what was supposed to be a life-saving kidney ended up dying soon after the transplant\u2014because the donor had rabies. The CDC pieced the puzzle together only after the fact because organ donors are not typically screened for the dise\u2026",
-      "url": "https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1651023-12-20251207052102.jpeg",
-      "publishedAt": "2025-12-07 11:21:00",
-      "content": "The unusual chain of events began when the organ donor was scratched by a skunk on his property in Idaho and died five days later of what at the time was thought to be a heart attack. However, the CD\u2026 [+598 chars]",
-      "retrievedAt": "2025-12-08 19:06:18.508943",
-      "internal_id": "9641853068868d726eae46709ccf27acca2a1fb656ea7b7596bd66a8a1acea50",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26106,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Silke H\u00fcmmer",
-      "title": "RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus",
-      "description": "Hohes Fieber, heftige Kopf- und Gliederschmerzen \u2013 die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm.",
-      "url": "https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf",
-      "urlToImage": "https://images.bild.de/69353941c0de97910a89cbaf/1c41e6e9b8ac59b6e8396097ae895f95,a77f91ff?w=1280",
-      "publishedAt": "2025-12-07 09:28:07",
-      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenHohes Fieber, heftige Kopf- und Gliederschmerzen die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm. Jetzt sorgt ein gr\u00f6\u00dferer Ausbr\u2026 [+2394 chars]",
-      "retrievedAt": "2025-12-08 19:06:21.319703",
-      "internal_id": "2cc8792ae1c1f19320e0d0e992ac69b782cf6b271c23bb4572834809c86aa79b",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26105,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "Die Presse",
-      "title": "Auf Kuba breitet sich das Chikungunya-Fieber stark aus",
-      "description": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein.",
-      "url": "https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus",
-      "urlToImage": "https://img.diepresse.com/public/incoming/syou3g-2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG/alternates/DPR_SOCIAL_NACHRICHTEN/2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG",
-      "publishedAt": "2025-12-07 08:14:48",
-      "content": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein. Auf Kuba gibt es derzeit einen gr\u00f6\u00dferen Ausbruch des Chikungunya-Fiebers. Nachdem in den verg\u2026 [+1119 chars]",
-      "retrievedAt": "2025-12-08 19:06:21.310387",
-      "internal_id": "d4b7a4a849e2960bfff939617ac679b80b86b9e66fe1a8016df5ceac00d97f82",
       "publishedAtLabel": "Dec 7"
     }
   ]
